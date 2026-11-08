@@ -477,7 +477,7 @@
               "b": "Guard. Guards stop strangers and robbers, using smell."
             },
             {
-              "f": "A bee is 18 days old. Wasps are trying to get in, and she faces them at the door.",
+              "f": "A bee is 19 days old. Wasps are trying to get in, and she faces them at the door.",
               "b": "Guard. Guard bees defend the door."
             },
             {
@@ -505,7 +505,7 @@
               "b": "Nurse. At this age bees stay inside and look after the young."
             },
             {
-              "f": "A bee is 22 days old. She is standing in the doorway, checking each arriving bee's smell before letting her in.",
+              "f": "A bee is 21 days old. She is standing in the doorway, checking each arriving bee's smell before letting her in.",
               "b": "Guard. A bee at the door who sniffs each arrival is a guard."
             },
             {
@@ -564,7 +564,7 @@
               ]
             }
           ],
-          "parent": "The ages on the cards are a rough guide. Real bees change at slightly different ages in different hives.",
+          "parent": "The ages on the cards are a rough guide. Real bees change at slightly different ages in different hives. One child: play alone or with a parent as in the rules. Two to four players: take turns being the reader and give every player their own set of five tokens. Nothing here needs more than paper, scissors and a pen.",
           "context": "In this step you play the first six cards and learn how the game works."
         },
         {
@@ -672,11 +672,11 @@
         }
       ],
       "rules": [
-        "You need a steel cup or tumbler you cannot see into, at least 20 moong dal, 20 chana and 20 rajma beans in three bowls, and the three site cards.",
+        "You need a steel cup or tumbler you cannot see into, about 25 each of moong dal, chana and rajma beans in three bowls, and the three site cards. The dry pulses are for counting only, not for eating. Keep them from toddlers.",
         "Start with one moong dal, one chana and one rajma bean in the cup. Moong dal is Site A, chana is Site B and rajma is Site C.",
         "One turn is one scout. Shake the cup. Draw one pulse without looking. Say which site the scout visits. Then put the pulse back.",
         "The scout returns and dances. Look at that site's card and add that many pulses of the same kind to the cup.",
-        "Keep taking turns. The swarm leaves when any one kind has 20 pulses in the cup. That is the quorum. That site wins.",
+        "Keep taking turns. The swarm leaves when any one kind has 20 or more pulses in the cup (adding 3 rajma at a time can take it to 22). That is the quorum. That site wins.",
         "Before each game, every player writes down which site they think will win. A player whose site wins scores 1 point. Playing alone? Write your guess and keep your own tally of right guesses.",
         "Play five games. Write each winner and the number of turns on the score sheet. The player with the most points wins. Playing alone, your goal is to say what the five games show."
       ],
@@ -706,7 +706,7 @@
           "do": "Play game 1. Draw a pulse, put it back, and add the extra pulses. Stop when one kind reaches 20. Write the winner and the number of turns.",
           "say": "Shake the cup, draw one, say the site, put it back, then add the extras. Keep going until one kind has twenty.",
           "kid": "Shake the cup. Draw one. Put it back. Add the extras. Stop at twenty.",
-          "parent": "Each game takes about 13 draws on average, which is about three to four minutes. Count the pulses of the leading kind by tipping the cup into a tray once every few turns.",
+          "parent": "Each game takes about 13 draws on average, which is about three to four minutes. Do not keep tipping out the cup. Instead keep a running tally on the score sheet or in the notebook of how many of each kind are in the cup now, and add to it after each turn. Roles for two to four children: one shakes and draws, one adds the pulses, one keeps the tally; swap after each game. One child with a parent: the parent keeps the tally.",
           "context": "In this step you play the first game of the swarm choosing."
         },
         {
@@ -725,7 +725,7 @@
               ]
             }
           ],
-          "parent": "With these numbers, the best site wins about six games in ten, the middle site about three in ten, and the poor site rarely. So in five games, your result may differ from this. That is the point.",
+          "parent": "With these numbers, a computer run of many games gave about: the best site wins six games in ten, the middle site three in ten, and the poor site about one in thirty. These are typical figures, not promises. So in five games, your result may differ from this. That is the point.",
           "context": "In this step you play two more games and look at the pattern of winners."
         },
         {
@@ -776,11 +776,11 @@
       ],
       "materials": [
         {
-          "item": "48 small paper squares about 5 centimetres wide, cut from old newspaper or notebook pages (a grown-up can help with the cutting)",
-          "qty": 48
+          "item": "55 small paper squares about 5 centimetres wide, cut from old newspaper or notebook pages (3 for practice, 48 for the rounds, a few spare; a grown-up can help with the cutting)",
+          "qty": 55
         },
         {
-          "item": "a pencil, a red crayon and a pen, all within reach on the table",
+          "item": "a pencil, a red crayon and a pen, all within reach on the table (one set for each child who takes part)",
           "qty": 3
         },
         {
@@ -866,7 +866,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the page.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the page. One child: the child does all four rounds and the parent times and counts the neat squares. Two to four children: each child does all four rounds with their own set of squares and tools while a sibling times, then swap, and compare the children's totals as well. Use the same child for all four rounds when you compare methods.",
           "context": "This is the first step of Switch or Stay. You guess before you test."
         },
         {
@@ -956,7 +956,7 @@
               ]
             }
           ],
-          "parent": "Let your child say what they think before you give a reason. A common finding is that doing one step at a time on all the squares is a little faster, because you swap tools only twice. In your test it may be close, or it may be the other way round. Either way, record exactly what you saw. Then say that a hive's jobs are split for the same kind of reason, and that splitting has a cost: if nobody can change jobs, a missing worker leaves a job undone.",
+          "parent": "Let your child say what they think before you give a reason. A common finding is that doing one step at a time on all the squares is a little faster, because you swap tools only twice. In your test it may be close, or it may be the other way round. If the two totals are within about 10 seconds, call it a tie. Either way, record exactly what you saw. Then say that a hive's jobs are split for the same kind of reason, and that splitting has a cost: if nobody can change jobs, a missing worker leaves a job undone.",
           "think": "What would go wrong if only one person in a team knew how to do the second step?",
           "context": "This is the last step of Switch or Stay. You say what you found and why."
         }
@@ -981,7 +981,7 @@
           "qty": 2
         },
         {
-          "item": "about 500 grams of dry kabuli chana (white chickpeas), or any dry bean of one kind",
+          "item": "about 500 grams of dry kabuli chana (white chickpeas, about Rs 60 at a kirana), or any dry bean of one kind. It is not for eating afterwards",
           "qty": 1
         },
         {
@@ -989,7 +989,7 @@
           "qty": 8
         },
         {
-          "item": "at least six people to guess (family, neighbours or friends)",
+          "item": "at least six people to guess (family, neighbours or friends, or relatives on a video call). Children can be guessers too",
           "qty": 6
         },
         {
@@ -1058,7 +1058,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Roles: with one child, the child is the organiser who shows the glass, collects the slips and works out the middle guess, and the parent counts the chana. With two to four children, one child organises each glass in turn while the others guess along with the adults. Keep the dry chana away from toddlers, who can choke on them.",
           "context": "This is the first step of The Jar of Dal. You guess before you test."
         },
         {
@@ -1135,7 +1135,7 @@
               ]
             }
           ],
-          "parent": "Let your child say what they think first. A common result is that the middle guess of secret guesses lands close to the true number, and that spoken guesses bunch together. A bunch can still be wrong, if the first speakers were. With only six or seven guessers, the result can go either way. If your result is different, write down exactly what happened. Then say that a hive's scouts check places themselves before they dance, which keeps the guesses independent.",
+          "parent": "Let your child say what they think first. A typical result is that the middle of the secret guesses lands fairly close to the true number, and that spoken guesses bunch together. A bunch can still be wrong, if the first speakers were. Because glass A and glass B are different glasses, and only six or seven people guess, the result can go either way. For a fairer test, use more guessers, or repeat with two more glasses and swap which one is secret. If your result is different, write down exactly what happened. Then say that a hive's scouts check places themselves before they dance, which keeps the guesses independent.",
           "think": "If all the people guessed too low, would the middle guess also be too low? What does that tell you about a crowd?",
           "context": "This is the last step of The Jar of Dal. You say what you found and why."
         }
@@ -1169,7 +1169,8 @@
           "what": "Find a place where ants are walking. Watch one small patch for five minutes, tally what they do, and say what you notice."
         }
       ],
-      "record": "A tally table with five minute rows and four columns: ants passing, carrying something, standing still, touching another ant.",
+      "safety": "Look and count only. Do not touch or poke the ants, and do not put your hand on the trail. Some ants, such as red ants, bite. Keep sugar crumbs on a saucer, away from food, and wash your hands afterwards.",
+      "record": "A tally table with five one-minute rows and four columns: ants passing, carrying something, standing still, touching another ant. At the end, add each column and say which was the biggest total.",
       "context": "In this activity you watch ants at a trail in your home, before you learn about insect societies. You tally what the ants are doing, and see if every ant does the same.",
       "setup": [
         {
@@ -1192,7 +1193,7 @@
           "do": "Find a line of ants in the kitchen, on a wall or on a window sill. Draw a table with five rows and four columns. Set a clock for five one-minute watches.",
           "say": "Ants are almost always somewhere in the house. Find a line of them. Sit beside a patch as long as your hand. Today we only look and count. What do you notice?",
           "kid": "Find ants walking. Draw your table. Sit by a patch the size of your hand.",
-          "parent": "If no ants are out, put a crumb of sugar on a saucer by the wall an hour before. Do not use sprays or powders near the ants. If you cannot find ants at all, watch a video of ants and tally from that, and say so in the notebook.",
+          "parent": "If no ants are out, put a crumb of sugar on a saucer by the wall an hour before. Do not use sprays or powders near the ants. Before you watch, guess how many of ten ants will carry something. Watching four things at once is hard for one person. One child: tally two columns in the first minutes and the other two in the next, or let the parent tally two columns while the child tallies two. Two to four children: share the four columns between you, then put the tallies together. If you cannot find ants at all, watch a video of ants and tally from that, and say so in the notebook.",
           "context": "This is the first step of Same Ants, Different Jobs. You find ants and get ready to watch."
         },
         {
@@ -1351,7 +1352,7 @@
           "qty": 1
         },
         {
-          "item": "a small sweet, or a paper flower, to hide",
+          "item": "a small wrapped sweet, or a paper flower, to hide (use the paper flower if anyone has a food allergy)",
           "qty": 1
         },
         {
@@ -1366,7 +1367,7 @@
           "what": "One of you hides a sweet. The other dances the way to it on a paper comb. The first finds it by following only the dance."
         }
       ],
-      "record": "A drawing of your paper comb with the dance line and the number of waggles, and a sketch map of the room with the real route to the sweet.",
+      "record": "A drawing of your paper comb with the dance line and the number of taps, and a sketch map of the room with the real route to the sweet. For each round, write how many steps the follower stopped from the sweet, and compare round 1 with round 2.",
       "context": "In this activity you act out the honeybee's waggle dance with a parent. You use a line on a paper comb to describe where a hidden sweet is, and a partner has to find it from the dance alone.",
       "setup": [
         {
@@ -1426,7 +1427,7 @@
           "do": "The other player looks only at the line and the taps. Stand on the chair side facing the window, and walk the angle and the number of steps. Then see how close you are to the sweet.",
           "say": "Follower, read the dance. Face the window. Turn the same way the line leans. Walk as many steps as the taps. Where did you stop?",
           "kid": "Face the window. Turn the way the line leans. Walk the number of taps.",
-          "parent": "Do not expect a perfect landing. If the follower stops a step or two from the sweet, that is a good result for a first try. Real bees are also only roughly right, and they get within a few metres.",
+          "parent": "One child: the child and a parent swap the dancer and follower roles. Two to four children: take turns as hider, dancer, follower and step counter, and make a new round for each child. Write down how many steps away the follower stopped. Do not expect a perfect landing. If the follower stops a step or two from the sweet, that is a good result for a first try. Real bees are also only roughly right, and they get within a few metres.",
           "context": "In this step the follower finds the sweet using only the dance."
         },
         {
@@ -1508,7 +1509,7 @@
               ]
             }
           ],
-          "parent": "Many families know something. In Kerala some people keep stingless bees in a small log or a coconut shell. Termite mounds, mud tubes on walls and wasp nests under roofs are common across India. If nobody you know has seen any, ask a neighbour, a gardener or a shopkeeper.",
+          "parent": "Safety: ask about nests and mounds, but do not go to look at wasp or bee nests, and never poke one. If the older person suggests visiting a nest, a grown-up must decide first. One child: call one person. Two to four children: each interviews a different person, then compare tables. Many families know something. In Kerala some people keep stingless bees in a small log or a coconut shell. Termite mounds, mud tubes on walls and wasp nests under roofs are common across India. If nobody you know has seen any, ask a neighbour, a gardener or a shopkeeper.",
           "context": "In this step you interview someone and collect what they know about social insects."
         },
         {
@@ -1529,11 +1530,11 @@
       "days": 1,
       "materials": [
         {
-          "item": "6 small identical bottles or jars with lids, about 200 to 300 millilitres each",
+          "item": "6 small identical bottles with lids, about 200 to 300 millilitres each (small plastic water or juice bottles are best)",
           "qty": 6
         },
         {
-          "item": "warm water from the tap, comfortable to hold",
+          "item": "bath-warm water, about 40 degrees Celsius: mix hot and cold tap water until it feels pleasantly warm on your wrist",
           "qty": 1
         },
         {
@@ -1541,16 +1542,16 @@
           "qty": 3
         },
         {
-          "item": "a kitchen or lab thermometer, if you have one",
+          "item": "a digital fever thermometer, the kind used for children (most homes have one; a medical shop sells one for about Rs 100 to 150)",
           "qty": 1,
           "buy": "b-thermometer"
         },
         {
-          "item": "a table in a room away from the fan",
+          "item": "a table in the coolest room of the house, away from the fan, the window and the sun",
           "qty": 1
         }
       ],
-      "safety": "A grown-up fills the bottles with warm water that is comfortable to hold. Do not use boiling water. It can scald, and it can crack glass.",
+      "safety": "A grown-up fills the bottles with bath-warm water. Do not use boiling or very hot water. It can scald, and it can crack glass or bend a plastic bottle. Wash the thermometer with soap and water afterwards, and do not use it for a fever until it is clean.",
       "schedule": [
         {
           "day": 1,
@@ -1558,7 +1559,7 @@
           "what": "Fill six bottles with the same warm water. Tie three in a bundle and space three apart. After 20 minutes, check which are warmer."
         }
       ],
-      "record": "A table with the temperature or the feel of the middle bottle in the bundle and of a lone bottle, at the start and after 20 minutes.",
+      "record": "A table with the temperature (or the result of the blind hand test) of the middle bottle in the bundle and of a lone bottle, at the start and after 20 minutes, and how many degrees each one fell.",
       "context": "In this activity you test why a crowd of bees keeps warmer in a tight bundle than spread out. In a cold place, honeybees cluster together to stay warm.",
       "setup": [
         {
@@ -1618,10 +1619,10 @@
         {
           "id": "s3",
           "mins": 3,
-          "do": "Check the temperature of the middle bottle in the bundle, and of one lone bottle. If you have no thermometer, hold the back of your hand against each. Write the start values.",
+          "do": "Open the lid and put the thermometer tip into the middle bottle of the bundle, then into one lone bottle. Wait for the beep, write the value, and close the lid. Do both within one minute, always the bundle first. If you have no thermometer, do the hand test described in the note.",
           "say": "Check the middle bottle of the bundle, and one lone bottle. Write what you find. Use a thermometer, or the back of your hand.",
           "kid": "Check the middle bottle and a lone bottle. Write what you find.",
-          "parent": "Use the same hand or the same thermometer for both. The middle bottle is the one with a bottle on each side of it.",
+          "parent": "Use the same thermometer for both and do them in the same order at the end. The middle bottle is the one with a bottle on each side of it. Without a thermometer, use a blind hand test: one person closes their eyes, another puts the same palm on the bundle bottle and a lone bottle for five seconds each, in a random order, and the first person says which is warmer. One child: the parent mixes up the bottles. Two to four children: one child reads the thermometer, one writes, and others do the blind test, then swap.",
           "context": "In this step you write the starting temperatures."
         },
         {
@@ -1639,7 +1640,7 @@
           "do": "Check the middle bottle of the bundle and a lone bottle again. Write the values. Ask your child what they found and why.",
           "say": "Check the middle bottle and a lone bottle again. Which is warmer? How much? Why do you think so?",
           "kid": "Check the two bottles again. Which is warmer? Why?",
-          "parent": "A bundle usually stays warmer, because the middle bottle has fewer open sides to lose heat from. The difference may be only a degree or two in a warm room. A cooler room shows it more clearly. Write exactly what you found.",
+          "parent": "A bundle usually stays warmer, because the middle bottle has fewer open sides to lose heat from. A typical difference is about one degree after 20 minutes, and it can be even smaller in a hot room, where the water is already close to the air temperature. If the two read within 0.3 degree, you can say there was no clear difference, and try again in a cooler room or early morning. In hot weather you can also turn the test round: start with fridge-cold water and see which bottle warms up more slowly. Write exactly what you found.",
           "think": "Honeybees in a cold place shiver their muscles to make heat. Why does it help them to be in a tight ball?",
           "context": "This is the last step of Huddle or Spread. You check the bottles and say what you found."
         }
@@ -1676,7 +1677,7 @@
         {
           "day": 2,
           "mins": 15,
-          "what": "Pick one person who might be away tomorrow. Plan who takes over their jobs, and what each swap will need."
+          "what": "Pick a person who is usually at home and could be away for a day (not someone whose absence makes the family sad). Plan who takes over their jobs, and what each swap will need."
         },
         {
           "day": 3,
@@ -1765,7 +1766,7 @@
           "say": "Today we swap one job for an hour. You do one of my jobs, and I do one of yours. Note how long it takes. Is it as quick for you as for the usual person?",
           "kid": "Swap one safe job for an hour. Use a timer. Is it quicker or slower?",
           "adult": true,
-          "parent": "Choose a small job. The adult should do the child's job in the child's way, and not correct it.",
+          "parent": "Choose a small job. The adult should do the child's job in the child's way, and not correct it. One child: swap with one adult. Two to four children: each child swaps with a different family member, or takes turns, and the others time. Do not swap any job with a stove, a knife or electricity.",
           "context": "In this step you swap one job and time it."
         },
         {
@@ -1789,15 +1790,16 @@
       "problem": "Termites and bees must keep their nests from getting too hot. Termite mounds are built with tunnels and thick walls, and honeybees fan their wings at the door. Design a shoebox nest that keeps an ice cube from melting for as long as you can in a sunny window, using only things you find at home.",
       "constraints": [
         "Use only things you have at home.",
-        "Use two shoeboxes of the same size. One stays plain, as the comparison.",
-        "Use an ice cube of the same size in a steel katori in each box.",
+        "Use shoeboxes or similar cardboard boxes of the same size. One stays plain, as the comparison, and each design gets its own box.",
+        "Use an ice cube of the same size in a steel katori in each box. Take the cubes out of the freezer only when everything else is ready.",
         "The lid must stay on, but you may cut up to four small holes, each as wide as a finger.",
         "Never use a flame or a hot stove."
       ],
       "materials": [
-        "2 shoeboxes of the same size, with lids",
-        "2 steel katoris, the same size",
-        "2 ice cubes of the same size",
+        "3 shoeboxes or similar cardboard boxes of the same size, with lids (one plain, up to two designs)",
+        "3 steel katoris, the same size",
+        "3 ice cubes of the same size from one ice tray (or ice from a nearby shop kept in a flask)",
+        "a teaspoon and a small glass, to measure the meltwater",
         "kitchen foil, white paper, newspaper, tape, scissors",
         "drinking straws or cardboard tubes",
         "a sunny window sill, or a table under a bright lamp"
@@ -1812,7 +1814,7 @@
         "Make a double wall of cardboard with an air gap between, like a termite mound's thick wall.",
         "Put the box on an upturned tray and a wet cloth, so water evaporating takes heat away."
       ],
-      "your_turn": "Test two of your own ideas, each in its own box against the plain box, in the same window for 20 minutes. Then pour away the water and see which katori has more ice left. Pick the best, and say why it works.",
+      "your_turn": "Test two of your own ideas, each in its own box against the plain box, in the same window for 20 minutes. Then pour the meltwater from each katori into a small glass, and count the teaspoons. The box with the least meltwater kept its ice best. Pick the best, and say why it works.",
       "context": "This is a design challenge about how a nest stays cool. You build a shoebox nest with tricks like termites and bees, and test it by seeing how much ice is left.",
       "setup": [
         {
@@ -1852,7 +1854,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Build your design in one shoebox. Leave the other box plain. Cut up to four small holes in your box. Do not touch the plain box.",
+          "do": "Build your design in one box. Leave one box plain. If you have a third box, build a second, different idea in it. Cut up to four small holes in a designed box. A grown-up cuts the holes. Do not touch the plain box.",
           "say": "Choose your ideas. Build them into one box. Leave the other plain. You may cut up to four small holes.",
           "kid": "Build your design in one box. Leave one plain.",
           "parent": "Help only with scissors. Let your child decide on the design. A design that does not work is still a result.",
@@ -1865,7 +1867,7 @@
           "say": "Put the boxes side by side in the same sunny place. Put one ice cube in each katori and close the lids. Wait twenty minutes. Meanwhile, guess which will have more ice.",
           "kid": "Put both boxes in the sun. Add an ice cube to each. Wait 20 minutes.",
           "adult": true,
-          "parent": "Both boxes must get the same sun, so keep them level and next to each other. A lamp can be hot, so keep it away from paper and foil.",
+          "parent": "Both boxes must get the same sun, so keep them level and next to each other. A lamp can be hot, so keep it away from paper and foil. Two to four children: each child builds one design box, and all designs share the one plain box; take turns to put in the ice and to measure. In a hot month a plain cube can almost melt in 20 minutes; if both katoris are nearly empty, repeat with a larger ice block. Typically a foil-covered box keeps a little more ice, and an honest result of no difference is also worth writing down.",
           "check": {
             "t": "mcq",
             "q": "Why do both katoris get an ice cube of the same size?",
@@ -1882,7 +1884,7 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "Open both boxes. Look at each katori. Which has more ice left? Pour away the water. Ask what made the difference.",
+          "do": "Open both boxes. Look at each katori. Which has more ice left? Pour each katori's meltwater into a glass and count the teaspoons. Ask what made the difference.",
           "say": "Open both boxes. Which katori has more ice left? What did your design do? What would you change?",
           "kid": "Open the boxes. Which has more ice? What would you change?",
           "ask": [
@@ -3067,10 +3069,10 @@
     },
     {
       "id": "b-thermometer",
-      "item": "A kitchen thermometer",
+      "item": "A digital fever thermometer",
       "kind": "tool",
-      "why": "For Huddle or Spread, to read the temperature of the water in the bottles. Without one, you can use the back of your hand.",
-      "url": "https://www.amazon.in/s?k=kitchen+thermometer",
+      "why": "For Huddle or Spread, to read the temperature of the water in the bottles. Most homes already have one. Without one, use the blind hand test in the activity.",
+      "url": "https://www.amazon.in/s?k=digital+thermometer+fever",
       "used_in": [
         "a5"
       ]

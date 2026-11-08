@@ -222,7 +222,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 
 ## Games
 ### g1 · Bee School: which flower pays? (23 min)
-- **rules:** One player is the garden keeper. The other players are bees. With two players, swap roles for a second game.; The keeper shuffles the three rule cards and lays them face down in a row. Nobody looks at them. The first card is the rule for rounds 1 to 8. The second is for rounds 9 to 16. The third is for rounds 17 to 24.; Each round, every bee writes B, Y or R on their own score sheet to pick blue, yellow or red. The keeper looks at the rule for that block.; The keeper says nectar to each bee who picked the paying colour, and nothing to each bee who did not. Bees circle their box if they got nectar.; The keeper must never say which colour pays, and never says when the rule changes.; After round 24, each bee counts the nectar in each block. The bee with the most nectar in total wins. If there is a tie, the tied bees share the win.
+- **rules:** One player is the garden keeper. The other players are bees. With two players, swap roles for a second game. With one child, the parent is the garden keeper. Bees write their pick on their own sheet before anyone says nectar, so they cannot copy each other.; The keeper shuffles the three rule cards and lays them face down in a row. Nobody looks at them. The first card is the rule for rounds 1 to 8. The second is for rounds 9 to 16. The third is for rounds 17 to 24.; Each round, every bee writes B, Y or R on their own score sheet to pick blue, yellow or red. The keeper looks at the rule for that block.; The keeper says nectar to each bee who picked the paying colour, and nothing to each bee who did not. Bees circle their box if they got nectar.; The keeper must never say which colour pays, and never says when the rule changes.; After round 24, each bee counts the nectar in each block. The bee with the most nectar in total wins. If there is a tie, the tied bees share the win.
 - **Printable cards: 3 flower cards: blue, yellow and red:** Blue flower; Yellow flower; Red flower
 - **Printable cards: 3 rule cards for the garden keeper:** Rule card (back: Blue pays. Yellow and red give nothing.); Rule card (back: Yellow pays. Blue and red give nothing.); Rule card (back: Red pays. Blue and yellow give nothing.)
 - **Printable score sheet: 3 score blocks, one for each 8 rounds:** Block 1, rounds 1 to 8. Draw eight boxes. In each box write B, Y or R. Circle the box if you got nectar.; Block 2, rounds 9 to 16. Draw eight boxes. In each box write B, Y or R. Circle the box if you got nectar.; Block 3, rounds 17 to 24. Draw eight boxes. In each box write B, Y or R. Circle the box if you got nectar.
@@ -266,17 +266,17 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   - Ask: What will the jumps do, and why do you think so? (good: They get smaller, because the person learns it is only a spoon.; They stay the same, because a sudden sound always makes you jump.; They get bigger, because the person gets more nervous.)
   - Note: Do not correct any guess. Write each guess and its reason at the top of the results table. Ask each volunteer for permission, and tell them that sounds will come from behind them now and then.
 - **s2 (3 min)**  
-  *Parent does:* Make a scoring card with three lines. Score 0 means no movement. Score 1 means a blink or a small twitch. Score 2 means a clear jump or a turn of the head.  
-  *Parent says:* We must agree how to score before we start. Zero is no movement. One is a blink or a twitch. Two is a clear jump or a head turn.  
+  *Parent does:* Make a scoring card with three lines. Score 0 means no movement. Score 1 means a small shoulder twitch or head tilt. Score 2 means a clear jump or a turn of the head.  
+  *Parent says:* We must agree how to score before we start. Zero is no movement. One is a small shoulder twitch or head tilt. Two is a clear jump or a head turn.  
   *Child mode:* Make a scoring card. Zero is no move. One is a twitch. Two is a jump.
-  - Note: If a second person can watch and score too, you can compare scores at the end. Decide the three scores now, so that you do not change the rule halfway.
+  - Note: The ringer stands behind, so score only what you can see from behind: shoulders and head. With 2 to 4 children, one rings and one sits to the side and scores; swap roles for the second volunteer, and compare scorers at the end. Decide the three scores now, so that you do not change the rule halfway.
   - Check: Why do we agree on the scoring card before the first ring? → **So every sound is scored by the same rule**
 - **s3 (6 min)**  
   *Parent does:* Seat the first volunteer with a puzzle, facing away from you. Stand one arm's length behind. Wait 30 seconds. Then ring the spoon on the plate once every 15 seconds, 12 times. Score each ring.  
   *Parent says:* Please do your puzzle and ignore me. A sound will come now and then. Do not try to stop yourself from jumping.  
   *Child mode:* Stand behind the volunteer. Ring the spoon once every 15 seconds. Ring 12 times. Score each one.
   - Ask: Are the jumps getting bigger, smaller, or staying the same? (good: They are getting smaller.; They are smaller than at the start.; The last ones are hardly there.)
-  - Note: Ring the spoon the same way every time, about a hand-width above the plate, so that each ring is equally loud. Write each score at once. If the volunteer tenses up before each ring, make the gaps uneven, between 10 and 20 seconds, and say so in the table.
+  - Note: Ring the spoon the same way every time, about a hand-width above the plate, so that each ring is equally loud. Write each score at once. Adults who know a sound is coming may hardly jump at all, even at ring 1. If the first three rings all score 0, ring harder (hit a steel lid or the plate base with the spoon, still at normal indoor loudness) or use a child volunteer, and write down what you changed. If the volunteer tenses up before each ring, make the gaps uneven, between 10 and 20 seconds, and say so in the table.
 - **s4 (3 min)**  
   *Parent does:* Straight after ring 12, shake the rice tin once. Score the jump. Then ring the spoon once more, and score that too.  
   *Parent says:* Now a different sound. Watch closely. What do you think will happen?  
@@ -298,7 +298,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   *Parent does:* Draw a line graph for each volunteer, with the sound number across and the score up. Mark where the rice tin came. Ask your child to say their claim, their evidence and their reason.  
   *Parent says:* Tell me three things. What do you think happened? What did you see in the scores? Why do you think it happened?  
   *Child mode:* Draw a line for each volunteer. Say what you think, what you saw and why.
-  - Note: A strong answer says that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the next spoon rings also jump a little more after the tin, that is called dishabituation. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.
+  - Note: A common pattern is that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the next spoon rings also jump a little more after the tin, that is called dishabituation. Real jumps are uneven, so a few ups and downs in the line are normal. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.
   - Think: If the person were only tired, would a new sound make them jump?
 ### e2 · Crammed or Spread Out: which way of learning lasts until tomorrow? (45 min, 2 days)
 - **question:** If you spend the same eight minutes learning a list of eight made-up words, do you remember more the next day if you learn it all at once, or in four short sittings spread through the day?
@@ -312,7 +312,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   *Parent says:* We will learn two lists of made-up words. One list we will learn all at once. One we will learn in short sittings through the day. Which will we remember better tomorrow, and why?  
   *Child mode:* Make 16 slips from the two lists. Guess which way will work better. Why?
   - Ask: Which way do you think will work better tomorrow, and why? (good: All at once, because you keep it fresh in your head.; Spread out, because your head gets time to rest between.; The same, because the time is the same.)
-  - Note: Do not correct the guess. Each learner uses both lists. Person one crams list A and spreads list B. Person two crams list B and spreads list A.
+  - Note: Do not correct the guess. Each learner uses both lists, and the two learners test each other the next day. With 3 or 4 children, work in pairs. Person one crams list A and spreads list B. Person two crams list B and spreads list A.
 - **s2 (8 min)**  
   *Parent does:* Choose the list you will cram. Look at its slips for one minute. Then cover the meanings and say them aloud for one minute. Do this four times in a row, without a break.  
   *Parent says:* Look at all eight slips for one minute. Then cover the meanings and say them from memory for one minute. Then do it again, straight away, four times.  
@@ -329,7 +329,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   *Parent says:* Here is a made-up word. Tell me its meaning if you can. Do not worry if it has gone. We just want to see what stayed.  
   *Child mode:* Show a made-up word. Ask for the meaning. Count how many are right.
   - Ask: Which list stayed better, and does that match your guess? (good: The spread list stayed better.; The crammed list stayed better.; They were about the same.)
-  - Note: Do not give hints. A difference of one word can happen by chance, because a list of eight is short. A difference of three or more across both learners is a clearer sign. If the lists came out equal, write that, and try again with a longer list on another day.
+  - Note: Do not give hints. A difference of one word can happen by chance, because a list of eight is short. A difference of three or more across both learners is a clearer sign. If both lists score 7 or 8, the words were too easy to show a difference: test again three days later, without looking at the slips, and use those scores. If the lists came out equal, write that, and try again with a longer list on another day.
 - **s5 (10 min)**  
   *Parent does:* Add up the scores for the crammed lists and for the spread lists. Draw two bars. Ask your child to say their claim, their evidence and their reason.  
   *Parent says:* What do you think the scores show? What did you see in the numbers? Why do you think it came out this way?  
@@ -338,14 +338,14 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   - Think: If a sea slug can show the same pattern as you, what does that say about how learning works?
 
 ## Activities
-### a1 · What Have You Stopped Noticing? (10 min)
-- **record:** A list of sounds you did not hear until you listened, and a list of five things touching your body that you had forgotten.
-- **s1 (3 min)**  
-  *Parent does:* Ask your child to sit very still with their eyes closed for 30 seconds. They count each different sound on their fingers. Write the list.  
+### a1 · What Have You Stopped Noticing? (15 min)
+- **record:** The number of sounds you guessed and the number you counted in each room, a list of sounds you did not hear until you listened, and a list of five things touching your body that you had forgotten.
+- **s1 (8 min)**  
+  *Parent does:* First ask your child to guess how many different sounds they will hear in 30 seconds. Then they sit very still with their eyes closed for 30 seconds and count each different sound on their fingers. Write the guess and the count. Repeat in a second room, such as the kitchen and a bedroom, and compare the two counts.  
   *Parent says:* Close your eyes. Count every sound you hear for 30 seconds. Count the quiet ones too.  
-  *Child mode:* Sit very still. Close your eyes. Count every sound for 30 seconds.
+  *Child mode:* Guess how many sounds. Sit very still, close your eyes and count for 30 seconds. Do it in two rooms.
   - Ask: Which of those sounds were there ten minutes ago, but you did not hear them? (good: The fan.; The fridge.; The clock or the traffic.)
-  - Note: Do not name any sounds. Just write down what your child says. Most homes have at least five sounds that nobody was hearing.
+  - Note: Do not name any sounds. Just write down what your child says. Most homes have at least five sounds that nobody was hearing. With 2 to 4 children, each counts alone and writes their own list, then compare: did everyone hear the same sounds?
 - **s2 (3 min)**  
   *Parent does:* Ask your child to name five things that are touching their body right now. Write the list. Examples are a collar, a watch strap, a waistband, spectacles and the seat.  
   *Parent says:* Now think about your body. What five things are touching you right now? A collar? A strap? The chair?  
@@ -362,7 +362,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 ### a2 · The Meerkat Lesson: how much does teaching cost? (20 min)
 - **record:** The time you took alone, the time you took teaching, and how many tries your learner needed.
 - **s1 (4 min)**  
-  *Parent does:* Pick a fold your child can make but a parent does not know, such as a paper boat, hat or cup. Time your child making it alone. Write the seconds.  
+  *Parent does:* Pick a fold your child can make but a parent does not know. Most adults know the plain paper boat. If yours does, use a jumping frog or a tulip, and read 'boat' below as that fold. Time your child making it alone. Write the seconds.  
   *Parent says:* Make the paper boat as fast as you neatly can, all alone. I will time you.  
   *Child mode:* Make a paper boat all alone. Ask a grown-up to time you.
   - Note: If your child does not know a fold yet, spend five minutes learning one from a video first. Choose a fold that takes about a minute.
@@ -371,9 +371,9 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   *Parent says:* Here is a nearly finished boat. Finish it. Now a half-finished one. Now a plain sheet. I will help only when you are stuck.  
   *Child mode:* Hand over a nearly done boat first. Then a half-done one. Then a plain sheet.
   - Ask: What did you do to help your learner, that you do not do when you fold alone? (good: I slowed down.; I waited when they were stuck.; I made it easier first.)
-  - Note: Meerkat helpers do the same. They first give young pups dead scorpions, then crippled ones, then live ones. Do not explain this yet. Let your child notice what they did as the teacher.
+  - Note: Meerkat helpers do the same. They first give young pups dead scorpions, then crippled ones, then live ones. Time each level and add them up. With 2 to 4 children, one teaches, one or two learn, and one times. For a fair comparison, let one learner only watch the fold once at full speed, then both learners try a plain sheet: who finished faster? Do not explain this yet. Let your child notice what they did as the teacher.
 - **s3 (6 min)**  
-  *Parent does:* Compare the time your child took alone with the total time they took teaching. Ask what teaching cost them.  
+  *Parent does:* Compare the time your child took alone with the total time they took teaching. If you had two learners, compare how fast the taught learner and the watch-once learner folded a plain sheet. Ask what teaching cost the teacher, and what it gave the learner.  
   *Parent says:* How long did it take you alone? How long did it take to teach me? What did teaching cost you?  
   *Child mode:* Compare the two times. What did teaching cost you?
   - Note: Teaching took longer than doing, and that is the point. In animals, scientists look for three things: the teacher changes what she does only when a learner is there, it costs her something, and the learner learns faster.
@@ -381,7 +381,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 ### a3 · One Time Is Enough: a family survey (15 min)
 - **record:** A table with five rows. Each row has a name, a food or smell they avoid after one bad time, and how many tries it took to learn a skill like riding a cycle.
 - **s1 (3 min)**  
-  *Parent does:* Draw a table with five rows and four columns. The columns are name, food or smell avoided, tries to learn it, and tries to learn a skill. Write the two questions at the top.  
+  *Parent does:* Draw a table with five rows and four columns. The columns are name, food or smell avoided, tries to learn it, and tries to learn a skill. Write the two questions at the top. Before asking, guess which kind of learning took fewer tries.  
   *Parent says:* Question one is, is there a food or smell you avoid because it once made you feel unwell? Question two is, how many tries did a skill like riding a cycle take?  
   *Child mode:* Draw the table. Write two questions at the top.
   - Note: Tell your child to ask only people who are happy to answer, and not to ask for details of any illness. A food that once upset a stomach is enough.
@@ -390,7 +390,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   *Parent says:* Ask each person the two questions. For the food, ask how many times it had to happen. For the skill, ask roughly how many tries it took.  
   *Child mode:* Ask five people. Write how many times it took for each.
   - Ask: What do you notice about how many times each kind of learning took? (good: The food took once.; The skill took many tries.; The food was learned much faster.)
-  - Note: Many people will say the food took one time, and the skill took many tries. Some people do not recall. Write 'not sure' and move on.
+  - Note: Many people will say the food took one time, and the skill took many tries. Some people do not recall. Write 'not sure' and move on. If five people are not at home, phone relatives or pool answers with your brothers and sisters: each child asks two or three people, and you combine the tables.
 - **s3 (4 min)**  
   *Parent does:* Count how many people learned the food in one go. Count how many skills took more than ten tries. Ask your child what they notice.  
   *Parent says:* Look at your table. How many people learned the food in one go? How many needed many tries for the skill? What do you notice?  
@@ -399,21 +399,21 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   - Think: Why might a body be ready to learn some links in just one go?
 
 ## Projects
-### p1 · The Appointment: do the visitors learn the time? (80 min, 7 days)
-- **safety:** Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. A grown-up puts the dish out on any ledge that is high or has no railing, and your child must never lean over or climb on a ledge.
+### p1 · The Appointment: do the visitors learn the time? (130 min, 7 days)
+- **safety:** Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. A grown-up puts the dish out on any ledge that is high or has no railing, and your child must never lean over or climb on a ledge. Keep the dish where you can see it. If monkeys, stray dogs or snakes come near, stop feeding, move away and tell a grown-up. Empty and refill the water every day so that mosquitoes cannot breed in it, and check that your building allows feeding birds.
 - **record:** A table with seven rows: day, time food was put out, time the first visitor arrived, and who came. Then a line graph of the arrival times.
-- **schedule:** day 1: Choose a ledge and a time. Put out the dish and water. Write the time any visitor first arrives. (15 min); day 2: Put out the dish at the same time. Write the time the first visitor arrives. (5 min); day 3: Same time, same ledge. Write when the first visitor arrives. (5 min); day 4: Same time, same ledge. Write when the first visitor arrives. (5 min); day 5: Same time, same ledge. Write when the first visitor arrives. (5 min); day 6: Put out nothing. Watch the ledge for 30 minutes around the usual time. Write who comes, and when. (30 min); day 7: Draw a graph of the arrival times and say what you found. (15 min)
-- **s1 (15 min)**  
-  *Parent does:* Choose a ledge, balcony or garden spot that birds or squirrels already visit. Choose a time, such as 7:30 in the morning. Put out the dish and water at that time. Write when the first visitor arrives.  
+- **schedule:** day 1: Choose a ledge and a time. For 20 minutes before that time, write down who visits with no food out. Then put out the dish and water, and write the time any visitor first arrives. (25 min); day 2: Put out the dish at the same time. Sit near the window from 10 minutes before until 20 minutes after, and write the time the first visitor arrives. (15 min); day 3: Same time, same ledge. Sit near the window from 10 minutes before until 20 minutes after, and write when the first visitor arrives. (15 min); day 4: Same time, same ledge. Sit near the window from 10 minutes before until 20 minutes after, and write when the first visitor arrives. (15 min); day 5: Same time, same ledge. Sit near the window from 10 minutes before until 20 minutes after, and write when the first visitor arrives. (15 min); day 6: Put out nothing. Watch the ledge for 30 minutes around the usual time. Write who comes, and when. (30 min); day 7: Draw a graph of the arrival times and say what you found. (15 min)
+- **s1 (25 min)**  
+  *Parent does:* Choose a ledge, balcony or garden spot that birds or squirrels already visit. Choose a time, such as 7:30 in the morning. For 20 minutes before that time, with no food out, write down who visits. Then put out the dish and water at that time. Write when the first visitor arrives.  
   *Parent says:* We will feed whoever visits, at exactly the same time every day. Then we will see if they learn the time. What do you think will happen? Why?  
   *Child mode:* Pick a ledge and a time. Put out rice and water. Write when anyone arrives.
   - Ask: Will the visitors start to come at the same time each day? Why do you think so? (good: Yes, because they learn when the food comes.; No, because they do not know what a clock is.; They will come earlier each day.)
   - Note: If nobody visits in three days, move the dish to a more open ledge, or watch a neighbour's regular visitor, a street dog at a gate, or a family pet instead. Do not change the time once you choose it.
-- **s2 (20 min)**  
-  *Parent does:* On days two to five, put out the dish and water at the same time. Watch from the window. Write the time the first visitor arrives, and who it is.  
+- **s2 (60 min)**  
+  *Parent does:* On days two to five, put out the dish and water at the same time. Sit near the window from 10 minutes before until 20 minutes after, doing something quiet. Write the time the first visitor arrives, and who it is.  
   *Parent says:* Put out the dish at the same time again. Watch from a distance. Write when the first visitor comes.  
   *Child mode:* Put the dish out at the same time. Write when the first visitor comes.
-  - Note: Arrivals often drift earlier and then settle close to the feeding time, within about ten minutes. Some days nobody comes, and that is a result too. Write it as it is.
+  - Note: Visitors may start to arrive earlier and then settle closer to the feeding time. Five days is short, so there may be no clear change; if so, say that, or carry on for ten days. With 2 to 4 children, one puts out the dish, one watches the clock, one writes. For a group, each can watch a different ledge or a different kind of visitor. Some days nobody comes, and that is a result too. Write it as it is.
 - **s3 (30 min)**  
   *Parent does:* On day six, put out nothing. Watch the ledge from 15 minutes before the usual time until 15 minutes after. Write who comes, and when.  
   *Parent says:* Today we put out nothing. We just watch. Will anybody come at the usual time?  

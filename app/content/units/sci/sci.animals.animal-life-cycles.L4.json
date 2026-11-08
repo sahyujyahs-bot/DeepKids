@@ -892,7 +892,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Take a strip of paper and a ruler. Mark one millimetre for each day. Measure the wait of a hen, a human and an elephant.",
+     "do": "Take a strip of paper and a ruler. Mark one millimetre for each day. Measure the wait of a hen, a human and an elephant. For the elephant's 65 centimetres, tape two sheets end to end, or use newspaper or string.",
      "say": "Now measure it. One millimetre is one day. A hen waits 21 days, so mark 21 millimetres. A human waits about 270 days, so mark 270. How long is the strip for an elephant?",
      "kid": "One millimetre is one day. Measure a hen, a human and an elephant.",
      "ask": [
@@ -933,7 +933,7 @@
      "qty": 20
     },
     {
-     "item": "one die from a board game, or six paper chits numbered 1 to 6 in a cup to draw from",
+     "item": "one die from a board game or Ludo set, or six paper chits numbered 1 to 6 in a cup (draw one, then put it back)",
      "qty": 1
     },
     {
@@ -945,7 +945,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep small counters away from children under five, who might put them in their mouths.",
+   "safety": "Keep small counters away from children under five, who might put them in their mouths. Dry chana and beans are also a choking risk for small brothers and sisters. If a child is allergic to chana or any bean, use buttons or paper squares.",
    "record": "For each round, write how many young started, how many were left after danger 1 and how many were left after danger 2. Add up the survivors of three rounds for each family. Then draw one bar for each family.",
    "context": "In this experiment you play out three animal families with dice. You find out whether many young with no care leave more survivors than a few young with care.",
    "setup": [
@@ -993,7 +993,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Put 18 counters on the Frog plate, 5 on the Hen plate and 3 on the Elephant plate. Write the dice rules on paper.",
+     "do": "Put 18 counters on the Frog plate, 5 on the Hen plate and 3 on the Elephant plate. Write the dice rules on paper. With 2 to 4 children, each child plays one family (the parent or the next child takes the third) and everyone else writes down the numbers. If you have only one die, pass it round.",
      "say": "Every young one rolls the die once for each danger. A frog's young live on a 5 or a 6. A hen's young live on a 3, 4, 5 or 6. An elephant's young live on a 2, 3, 4, 5 or 6. The better the care, the more rolls that let a young one live.",
      "kid": "Roll the die once for every young one. A frog's egg lives on a 5 or 6. A hen's chick lives on 3 to 6. An elephant's calf lives on 2 to 6.",
      "parent": "The rules are made up to show an idea. A frog gives no care, so only 2 of the 6 numbers let a young one live. A hen guards her chicks, so 4 of 6 do. An elephant guards her calves even more, so 5 of 6 do.",
@@ -1074,7 +1074,7 @@
        ]
       }
      ],
-     "parent": "Over three rounds the expected totals are about 6 for the frog, 7 for the hen and 6 for the elephant, so they are close. Your numbers will wobble, and a gap of one or two is likely just luck. After your child has explained: the numbers were chosen to make a point. In nature, a mother frog and a mother elephant have found very different ways to leave about the same number of grown-up young. Real frogs lay far more eggs, and far fewer survive. If your child's results showed one family far ahead, repeat three more rounds and see if it lasts.",
+     "parent": "Over three rounds the expected totals are about 6 for the frog, 7 for the hen and 6 for the elephant, so they are close. Your numbers will wobble, and a gap of one or two is likely just luck. After your child has explained: the numbers were chosen to make a point. In nature, a mother frog and a mother elephant have found very different ways to leave about the same number of grown-up young. Real frogs lay far more eggs, and far fewer survive. If your child's results showed one family far ahead, repeat three more rounds and see if it lasts. With several children, add everyone's rounds together for a longer test. More rounds make the totals settle, so the three families come out closer.",
      "think": "A frog lays thousands of eggs in real life, and a real elephant has one calf every few years. What might each mother have to spend to do it?",
      "context": "This is the last step of the Survival Cup. You add up the results and explain them."
     }
@@ -1089,7 +1089,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a ball of string or wool, about 9 metres",
+     "item": "a ball of string or wool, about 9 metres (thread, or strips torn from old newspaper taped end to end, also work)",
      "qty": 1
     },
     {
@@ -1101,7 +1101,7 @@
      "qty": 12
     },
     {
-     "item": "a calculator, or paper for sums",
+     "item": "a calculator, or paper for sums, and a clock or phone that shows seconds",
      "qty": 1
     }
    ],
@@ -1155,7 +1155,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Tell your child the rule. One centimetre of string stands for one year. Cut a piece for each animal. Tape the pieces in a row on the floor.",
+     "do": "Tell your child the rule. One centimetre of string stands for one year. Cut a piece for each animal. Tape the pieces in a row on the floor. With 2 to 4 children, each child cuts the pieces for three or four animals, and one child tapes. On your own, the parent can hold the string end while you cut.",
      "say": "Here is the rule. One centimetre of string is one year of life. A mouse lives 2 years, so cut 2 centimetres. An elephant lives 60 years, so cut 60 centimetres. For the mayfly and the honeybee, just draw a dot. Now cut the others and tape them in a row.",
      "kid": "One centimetre of string is one year. Cut a piece for each animal. Tape them in a row.",
      "parent": "Lengths in centimetres: mouse 2, hen 8, dog 12, cat 15, parakeet 20, elephant 60, human 75, giant tortoise 150, bowhead whale 200, Greenland shark about 270. A mayfly adult is less than a millimetre and a honeybee worker is about one millimetre, so draw a dot. In total, about 8 metres of string. If the room is small, let the long strings curve or coil.",
@@ -1208,7 +1208,7 @@
        ]
       }
      ],
-     "parent": "Mouse: 600 times 525,000 is about 315 million beats in a year, so about 630 million in 2 years. Elephant: 30 times 525,000 is about 16 million in a year, so about 950 million in 60 years. They are close. Check also the cat: 150 times 525,000 times 15 is about 1.2 billion. Say that this is a rough pattern across many mammals. Humans get about 2.5 to 3 billion, and bats and many birds get more.",
+     "parent": "Mouse: 600 times 525,000 is about 315 million beats in a year, so about 630 million in 2 years. Elephant: 30 times 525,000 is about 16 million in a year, so about 950 million in 60 years. They are close. Check also the cat: 150 times 525,000 times 15 is about 1.2 billion. Say that this is a rough pattern across many mammals. Humans get about 2.5 to 3 billion, and bats and many birds get more. A child's resting pulse is often 80 to 100 beats a minute, faster than the adult figure of 70. That is normal. The animal rates are typical resting rates, rounded. Each child can count their own pulse and compare.",
      "check": {
       "t": "mcq",
       "q": "A cat's heart beats 150 times a minute. She lives 15 years, with 525,000 minutes in a year. About how many beats is that?",
@@ -1276,7 +1276,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Write the sixteen names on cards. They are: cow, bat, platypus, human, crow, hen, peacock, sparrow, lime butterfly, dragonfly, cockroach, honeybee, bullfrog, toad, Indian purple frog and caecilian. Ask your child to sort them into four groups.",
+     "do": "Write the sixteen names on cards. They are: cow, bat, platypus, human, crow, hen, peacock, sparrow, lime butterfly, dragonfly, cockroach, honeybee, bullfrog, toad, Indian purple frog and caecilian. Ask your child to sort them into four groups. Look up new names, such as platypus or caecilian, in a book or on a phone.",
      "say": "Here are sixteen animals. Sort them into four groups. Mammals, birds, insects and amphibians. Say what each group has in common. If you are not sure about one, put it to the side.",
      "kid": "Sort the sixteen animals into four groups. Say how you chose.",
      "ask": [
@@ -1295,7 +1295,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw four columns and four rows on the big sheet. The rows are where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child.",
+     "do": "Draw four columns and four rows on the big sheet. The rows are where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child. With 2 to 4 children, each child fills in one column, then reads it out for the others to question.",
      "say": "Let us fill the table. Where does a cow's life start? Inside her body or in an egg? What about a crow? A butterfly? A frog? How many young at a time? Who looks after them? Does the body change shape as they grow?",
      "kid": "Make four columns. Fill in each group. Where does life start? How many? Who cares? Does the body change?",
      "ask": [
@@ -1308,7 +1308,7 @@
        ]
       }
      ],
-     "parent": "Typical answers. Mammals: start inside the mother, one to a few young (a mouse has more), milk and care, no big change of shape. Birds: hard-shelled eggs warmed by parents, 1 to 12 eggs or more, care for weeks, no change of shape. Insects: eggs on food or leaves, from one to hundreds, usually no care (bees care for their young), a big change for butterflies and a smaller one for cockroaches and dragonflies. Amphibians: jelly eggs in water, hundreds in most frogs, usually no care, tadpoles change a lot.",
+     "parent": "Typical answers. Mammals: start inside the mother, one to a few young (a mouse has more), milk and care, no big change of shape. Birds: hard-shelled eggs warmed by parents, 1 to 12 eggs or more, care for weeks, no change of shape. Insects: eggs on food or leaves, from one to hundreds, usually no care (bees care for their young), a complete change with a pupa for butterflies and honeybees, and a gradual change with no pupa for cockroaches and dragonflies. Amphibians: jelly eggs in water, hundreds in most frogs, usually no care, tadpoles change a lot.",
      "context": "In this step you fill in a table that compares the four groups."
     },
     {
@@ -1397,10 +1397,10 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Tip one level teaspoon of rice on a plate. Count the grains in groups of ten. Write the total.",
+     "do": "Tip one level teaspoon of rice on a plate. Count the grains in groups of ten. Write the total. With 2 to 4 children, each child counts a different teaspoon and writes the number. Compare, and use the middle number.",
      "say": "Tip the spoon onto the plate. Make little piles of ten. Count the piles. How many grains are in the spoon?",
      "kid": "Count the grains in one teaspoon. Make piles of ten.",
-     "parent": "Most families find between 150 and 300. It depends on the rice. Write the number. It will be used in the next step.",
+     "parent": "Most families find between 150 and 300. It depends on the rice. Write the number. It will be used in the next step. Counts will differ by a few grains. That is a result worth talking about: an estimate is a good guess, not an exact number.",
      "check": {
       "t": "mcq",
       "q": "Why do we count in piles of ten and not one by one?",
@@ -1433,7 +1433,8 @@
      "think": "Only one or two of the sunfish's three hundred million eggs have to grow up for the species to carry on. What happens to all the others?",
      "context": "In this step you compare the egg numbers of real animals with the rice you counted."
     }
-   ]
+   ],
+   "safety": "Rice grains are small and can be put in the mouth by children under five. Keep them on the plate and pour the rice back into the tin afterwards."
   },
   {
    "id": "a4",
@@ -1452,6 +1453,10 @@
     {
      "item": "a magnifying glass, if you have one",
      "qty": 1
+    },
+    {
+     "item": "a cracked eggshell from the kitchen, as a back-up find if the garden gives nothing",
+     "qty": 1
     }
    ],
    "schedule": [
@@ -1461,8 +1466,8 @@
      "what": "Go outside for 15 minutes. Look for the empty skins, shells and egg cases that animals leave behind. Sort and sketch them."
     }
    ],
-   "record": "A sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows.",
-   "safety": "Look, do not touch, nests that have eggs or chicks in them. Touching a nest can make the parents leave. Do not touch anything with live animals. Wash hands afterwards.",
+   "record": "A sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows. A tally of how many of each kind you found.",
+   "safety": "Look, do not touch, nests that have eggs or chicks in them. Touching a nest can make the parents leave. Do not touch anything with live animals. Wash hands afterwards. Wear closed shoes. Look with your eyes first and do not put hands into holes, long grass or under stones, where there may be snakes, scorpions or wasps. Keep clear of beehives and wasp nests. An adult stays with the children.",
    "context": "In this activity you go outside and look for what animals leave behind as they grow, and read their life cycle from it.",
    "setup": [
     {
@@ -1492,7 +1497,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Search for 15 minutes. Collect what is safe to pick up. Sketch each find and write where you found it.",
+     "do": "Search for 15 minutes. Collect what is safe to pick up. Sketch each find and write where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. No garden: use a balcony plant, a roadside tree, or the corners of a window or wall at home.",
      "say": "Look slowly. Look on the underside of leaves and on the stems of plants. What can you find? What animal left it behind? Which stage is it?",
      "kid": "Look slowly. Collect empty skins and shells. Sketch each one.",
      "adult": true,
@@ -1506,7 +1511,7 @@
        ]
       }
      ],
-     "parent": "If nothing turns up, that is also a result. Many monsoon evenings give better luck. A split skin with the back open means an insect climbed out as an adult. That skin is called an exuvia.",
+     "parent": "If nothing turns up, that is also a result. Skins are easiest to find in the monsoon and the weeks after, and much harder in winter. In the dry months, use the back-up: look at the thin skin lining inside a cracked hen's eggshell with the magnifying glass, and check window corners and under-sink corners for shed cockroach or spider skins. A split skin with the back open means an insect climbed out as an adult. That skin is called an exuvia.",
      "context": "In this step you search for clues of life cycles in a garden or park."
     },
     {
@@ -1525,8 +1530,8 @@
  "projects": [
   {
    "id": "p1",
-   "title": "Banana Jar Nursery: watch a fly's whole life cycle in ten days",
-   "days": 10,
+   "title": "Banana Jar Nursery: watch a fly's whole life cycle in about twelve days",
+   "days": 12,
    "mins": 60,
    "materials": [
     {
@@ -1534,11 +1539,15 @@
      "qty": 1
     },
     {
-     "item": "a thin cloth and a rubber band to cover the jar",
+     "item": "a thin, tightly woven cloth such as muslin, or two layers of a clean handkerchief, and a rubber band to cover the jar",
      "qty": 1
     },
     {
-     "item": "a slice of very ripe banana or mango skin",
+     "item": "a slice or two of very ripe banana (skin turned brown), or a piece of ripe mango or papaya",
+     "qty": 1
+    },
+    {
+     "item": "a strip of dry paper, such as a folded paper towel, to stand in the jar for the maggots to climb",
      "qty": 1
     },
     {
@@ -1562,29 +1571,29 @@
      "what": "Cover the jar with cloth once there are a few flies inside. Count and draw them."
     },
     {
-     "day": 4,
+     "day": 3,
+     "mins": 10,
+     "what": "Take the jar outside, in the shade, and take the cloth off so the grown flies fly away. Cover it again at once. The eggs stay on the banana."
+    },
+    {
+     "day": 5,
      "mins": 10,
      "what": "Look for tiny white maggots on the banana. Draw them."
     },
     {
-     "day": 6,
+     "day": 7,
      "mins": 10,
-     "what": "Look for brown capsules on the jar wall. These are pupae. Draw them."
+     "what": "Look for brown capsules on the jar wall and the paper strip. These are pupae. Draw them."
     },
     {
-     "day": 9,
+     "day": 12,
      "mins": 10,
-     "what": "Look for new flies hatching. Count them."
-    },
-    {
-     "day": 10,
-     "mins": 10,
-     "what": "Count the new flies. Let them out of the jar, outdoors, and wash the jar."
+     "what": "Look each day from day 10. When new flies hatch, count them, then let them out outdoors and wash the jar."
     }
    ],
-   "record": "A drawing for each day, with a count of flies on day 2 and day 10, and the day you first saw maggots, pupae and new flies.",
-   "safety": "Fruit flies do not bite, but keep the jar away from food, wash your hands afterwards and do not eat anything from it. Let the flies go outside at the end.",
-   "context": "In this project you watch a whole life cycle with complete metamorphosis in ten days, using a jar of fruit and the small flies that come to it.",
+   "record": "A drawing for each day you looked, with a count of flies on day 2 and of the new flies, and the day you first saw maggots, pupae and new flies.",
+   "safety": "Fruit flies do not bite, but keep the jar away from food, wash your hands afterwards and do not eat anything from it. Let the flies go outside at the end. If grey or green mould grows, do not sniff it. An adult opens the jar, and a child with asthma or a mould allergy keeps away.",
+   "context": "In this project you watch a whole life cycle with complete metamorphosis in about twelve days, using a jar of fruit and the small flies that come to it.",
    "setup": [
     {
      "art": "A glass jar with a slice of banana inside on a kitchen shelf, with a few tiny flies near it.",
@@ -1596,7 +1605,7 @@
     },
     {
      "art": "A magnifying glass over the jar wall showing a tiny white maggot, a brown capsule and a new fly.",
-     "caption": "3. Watch for maggots, brown capsules and new flies over ten days."
+     "caption": "3. Watch for maggots, brown capsules and new flies over about twelve days."
     }
    ],
    "flow": [
@@ -1604,15 +1613,15 @@
      "id": "s1",
      "mins": 10,
      "do": "Put a slice of very ripe banana in a clean jar. Leave the jar open on a kitchen shelf for one night. Write a guess about what will happen.",
-     "say": "We will leave a slice of ripe banana in a jar and see what comes. Do you think anything will? What do you think will be in the jar in ten days? Why do you think so?",
+     "say": "We will leave a slice of ripe banana in a jar and see what comes. Do you think anything will? What do you think will be in the jar in about twelve days? Why do you think so?",
      "kid": "Put a banana slice in a jar. Leave it open one night. What will happen?",
-     "parent": "If no flies come after two nights, leave it a night longer or put it near a window or on the balcony. In a very clean kitchen in winter it can take a few days. Do not use a cut fruit left near food.",
+     "parent": "If no flies come after two nights, leave it a night longer or put it near a window or on the balcony. In a very clean kitchen in winter it can take a few days. Do not use a cut fruit left near food. Keep the jar in a warm place out of direct sun, because above about 30 degrees the larvae die. With 2 to 4 children, take turns to look and draw each day. For a comparison, set a second jar in a cooler corner and see whether it is slower.",
      "context": "This is the first step of the Banana Jar Nursery. You set up the jar and guess."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies and draw one.",
+     "do": "Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies and draw one. Tomorrow the grown flies will be let out, so the flies you count later are new.",
      "say": "Look in the jar. Small flies have come, and now they are in it. Count them. Draw one. Where did they come from? How did they find the banana?",
      "kid": "Cover the jar with cloth. Count the flies. Draw one.",
      "ask": [
@@ -1625,15 +1634,15 @@
        ]
       }
      ],
-     "parent": "The flies are fruit flies, the same kind that scientists such as Thomas Hunt Morgan studied in the 1900s. They find ripe fruit by smell. The females lay eggs on it. A female can lay up to a hundred eggs in a day.",
+     "parent": "The flies are fruit flies, the same kind that scientists such as Thomas Hunt Morgan studied in the 1900s. They find ripe fruit by smell. The females lay eggs on it. A female can lay up to about fifty to a hundred eggs in a day.",
      "context": "In this step you cover the jar and count the first flies."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 4, look at the banana with a magnifying glass. Find the tiny white maggots. Draw them. Do the same on day 6 to find brown capsules.",
-     "say": "Look closely at the banana. Do you see tiny white worms? They are the larvae. On day 6, look for brown capsules. These are pupae. What is happening inside?",
-     "kid": "Look for white maggots on day 4. Look for brown capsules on day 6.",
+     "do": "On day 3, let the grown flies out. On day 5, find the tiny white maggots with a magnifying glass. Draw them. On day 7, find brown capsules.",
+     "say": "Look closely at the banana. Do you see tiny white worms? They are the larvae. On day 7, look for brown capsules. These are pupae. What is happening inside?",
+     "kid": "Let the grown flies out on day 3. Look for white maggots on day 5. Look for brown capsules on day 7.",
      "ask": [
       {
        "q": "What is happening inside the brown capsule?",
@@ -1644,13 +1653,13 @@
        ]
       }
      ],
-     "parent": "Fruit flies take about 8 to 10 days from egg to adult in warm weather: about a day as an egg, four days as a larva and four days as a pupa. In cooler weather it takes longer. The pupa is not sleeping. The body is being rebuilt.",
+     "parent": "To let the grown flies out on day 3, take the jar outside in the shade, take the cloth off, wait a few minutes, then cover it again. The eggs stay on the banana. Fruit flies take about 10 days from egg to adult at about 25 degrees: about a day as an egg, four days as a larva and four to five days as a pupa. The eggs here are laid on day 1 or 2, so expect the first new flies around day 11 to 13. In cooler weather, such as a north Indian winter, it can take three to four weeks, so keep waiting. If the banana is a wet mouldy mess, or nothing has appeared by day 20, start again in a warmer month. The pupa is not sleeping. The body is being rebuilt.",
      "context": "In this step you look for the larva and pupa stages of the fly."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "On days 9 and 10, count the new flies. Compare with the first count. Let the flies go outside and wash the jar.",
+     "do": "From day 10, look each day. On the day new flies appear, count them. Compare with the first count. Let the flies go outside and wash the jar.",
      "say": "Count the new flies. How many are there now? Is it more than the first count? Why? Now take the jar outside and let the flies go.",
      "kid": "Count the new flies. Is it more than before? Let them go outside.",
      "ask": [
@@ -2976,5 +2985,5 @@
   "when": "1904 to 1922",
   "wrong_idea": "People believed that eels were born from mud or worms, because nobody ever found an eel egg or a baby eel. It was shown wrong when scientists found the tiny see-through young at sea and followed them back, size by size, to where they were born."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Survival Cup: the dice rules (frog 5 or 6, hen 3 to 6, elephant 2 to 6) and the starting numbers (18, 5, 3) were chosen so the expected survivors are close, about 2 per round for each family, so the totals over three rounds are close but wobble from round to round. A family with only one die needs about 10 minutes of rolling for the three families, and paper chits in a cup work as well. The Lifespan Line needs about 8 metres of string, so a corridor or a balcony is useful. The life spans and heart rates used are typical and rounded numbers, and real values vary. Banana Jar Nursery: fruit flies usually arrive within two nights in warm months and the cycle takes about 8 to 10 days. In a very clean kitchen or in winter, flies can take longer to appear. Checked against sources: olive ridley 29 to 30 degrees and nest depth, sardine age at first spawning and life span, Jonathan, quahog, bowhead, shark, purple frog, Moss since 1972, and wild eel spawning (still not observed). Not confirmed: the 1 in 1,000 turtle survival figure (kept as a rough saying), the exact fruit fly timings (8 to 10 days is the usual figure), the Levine 1997 paper title, and the Madras Crocodile Bank web address. The videos have no address yet."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Survival Cup: the dice rules (frog 5 or 6, hen 3 to 6, elephant 2 to 6) and the starting numbers (18, 5, 3) were chosen so the expected survivors are close, about 2 per round for each family, so the totals over three rounds are close but wobble from round to round. A family with only one die needs about 10 minutes of rolling for the three families, and paper chits in a cup work as well. The Lifespan Line needs about 8 metres of string, so a corridor or a balcony is useful. The life spans and heart rates used are typical and rounded numbers, and real values vary. Banana Jar Nursery: fruit flies usually arrive within two nights in warm months and the cycle takes about 10 days after the eggs are laid, so about 12 days in all. In a very clean kitchen or in winter, flies can take longer to appear and the cycle can take three to four weeks. Checked against sources: olive ridley 29 to 30 degrees and nest depth, sardine age at first spawning and life span, Jonathan, quahog, bowhead, shark, purple frog, Moss since 1972, and wild eel spawning (still not observed). Not confirmed: the 1 in 1,000 turtle survival figure (kept as a rough saying), the exact fruit fly timings (8 to 10 days is the usual figure), the Levine 1997 paper title, and the Madras Crocodile Bank web address. The videos have no address yet."
 }

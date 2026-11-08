@@ -475,7 +475,7 @@
         "The reader reads the first sentence. The guesser names the traveller.",
         "A right guess on the first sentence scores 3 points. If wrong, the reader reads the second sentence, and a right guess scores 2. After the third sentence, a right guess scores 1.",
         "If nobody guesses, the reader reads the back. No points.",
-        "Take turns being the reader. The player with the most points after 16 cards wins.",
+        "Take turns being the reader. The player with the most points after 16 cards wins. With 2 to 4 players, everyone gets one guess per clue, said or written down; the first right guess wins the points, and a player who guessed wrong sits out that card.",
         "Playing alone: lay the cards face up, hide the answer with a finger, and guess for each card. Beat your best score of 48 possible points.",
         "Afterwards, sort the cards into three piles: birds, other animals, and animals that move only a short way."
       ],
@@ -484,7 +484,7 @@
           "id": "s1",
           "mins": 3,
           "context": "This is the first step of Guess the Traveller. You cut out the cards.",
-          "do": "Cut out the 16 cards. Shuffle them. Choose a reader. If you play alone, lay the cards in a row.",
+          "do": "Cut out the 16 cards (or copy the clues onto 16 scraps of paper). Shuffle them. Choose a reader. If you play alone, lay the cards in a row.",
           "say": "Each card has three clues about an animal that makes a journey. Guess it after the first clue and score 3 points. Guess after the second for 2 points, and after the third for 1.",
           "kid": "Cut out the cards. Shuffle them. Read one clue at a time. Guess early to win more points."
         },
@@ -625,7 +625,7 @@
           "do": "Cut out the board and the cards. Give every bird 2 beans. Shuffle the cards. Read the rules aloud.",
           "say": "You are a bird flying to Kerala. Each flight costs beans of fat. On your turn you can eat a card to get more fuel, or fly. If you fly without enough fuel, you may fall into the sea.",
           "kid": "You are a bird. Eat to get beans. Fly to move on. Do not run out over the sea.",
-          "parent": "A turn is quick. Players who play too safely take longer, and players who rush may fall. Both are fine ways to learn."
+          "parent": "A turn is quick. Players who play too safely take longer, and players who rush may fall. Both are fine ways to learn. A full game takes about 20 turns for each bird, so with 3 or 4 players start each bird with 4 beans, or stop when the first bird arrives. Dried beans are small: keep them away from toddlers. Any die will do; a die is on the shopping list if you have none."
         },
         {
           "id": "s2",
@@ -668,7 +668,7 @@
             {
               "q": "What would happen in the game if Chilika was drained?",
               "good": [
-                "The flight from Stop 4 to Kerala would cost 5 beans, and no bird could hold 5 beans safely.",
+                "Getting from Stop 4 to Kerala would cost 5 beans, or 6 in a headwind, which is a full tank.",
                 "Fewer birds would arrive.",
                 "Birds would need a bigger tank."
               ]
@@ -733,7 +733,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up pushes the skewer through the orange and covers the sharp end with clay. Do not look into the torch.",
+      "safety": "A grown-up pushes the skewer through the orange and covers the sharp end with clay. Do not look into the torch. Keep the skewer pointing away from faces in the dark room.",
       "record": "Fill in the table of counts for all three leans. Write one sentence for each lean about which dot stayed lit longest.",
       "setup": [
         {
@@ -785,7 +785,7 @@
           "do": "Push the skewer through the top and the bottom of the orange. Cover the sharp end with clay. Put the rubber band around the middle. Draw a dot just above the band, a dot halfway up, and a dot very near the top.",
           "say": "The band is the equator. The dot just above it is Kerala. The middle dot is Mongolia. The dot near the top is the Arctic tundra, where many birds breed. Now make a tilt guide. Fold the corner of a paper in half, and in half again.",
           "kid": "A grown-up pushes the skewer through. Draw three dots. Fold a paper corner twice to make the tilt guide.",
-          "parent": "Use a washable marker on the peel. The tundra dot should be about one finger-width from the top. Keep the torch about 40 centimetres from the orange, with the torch at the same height as the middle of the orange. The room must be dark."
+          "parent": "Use a washable marker on the peel. Put the tundra dot very close to the skewer hole at the top, about half a centimetre away: a dot farther down can slip into the dark on the summer spin. Put the Kerala dot about 1 centimetre above the band and the Mongolia dot halfway up. Keep the torch about 40 centimetres from the orange, at the height of its middle. The room must be dark; a phone torch is fine. With 2 to 4 children: one holds the orange, one counts aloud, one watches the Kerala dot, one watches the Mongolia and tundra dots and writes the counts. Swap jobs for each lean."
         },
         {
           "id": "s3",
@@ -803,7 +803,7 @@
               ]
             }
           ],
-          "parent": "Expected: Kerala about 6 of 12, Mongolia about 8, and the tundra dot 12 of 12, in the light the whole turn. Your numbers may differ by one or two. If the lean wobbles, spin again. If the dots are hard to see, move the torch closer.",
+          "parent": "Typical result: Kerala about 6 of 12, Mongolia about 8, and the tundra dot 12 of 12, in the light the whole turn. Your numbers may differ by one or two; these are not promised. Count a dot as lit while it is in the bright patch. If the lean wobbles, spin again. If the tundra dot drops into the dark, make the lean bigger or move the dot closer to the top. If the dots are hard to see, move the torch closer.",
           "check": {
             "t": "mcq",
             "q": "In the summer spin, why did the tundra dot stay in the light for the whole turn?",
@@ -823,7 +823,7 @@
           "do": "Hold the skewer straight up, not leaning at all. Turn once for 12 counts. Count how many counts each dot is lit. Write them in the table.",
           "say": "Now hold it straight up. Turn slowly while I count to 12. We count each dot again.",
           "kid": "Hold the skewer straight up. Turn once. Count how long each dot is lit.",
-          "parent": "Expected: about 6 of 12 for all three dots. This is what the day lengths are on the equinox, in March and September."
+          "parent": "Typical result: about 6 of 12 for all three dots (5 to 7 is normal). This is like the equinox, in March and September, when day and night are about equal everywhere."
         },
         {
           "id": "s5",
@@ -832,7 +832,7 @@
           "do": "Lean the top of the skewer away from the torch, with the same size of lean. Turn once for 12 counts. Count how long each dot is lit. Write the counts in the table.",
           "say": "Now lean the top away from the torch. Turn once while I count to 12. We count each dot again.",
           "kid": "Lean the top away from the torch. Turn once. Count how long each dot is lit.",
-          "parent": "Expected: Kerala about 6, Mongolia about 4, and the tundra dot 0 of 12, in the dark the whole turn. Kerala hardly changes between the three leans."
+          "parent": "Typical result: Kerala about 6, Mongolia about 4, and the tundra dot 0 of 12, in the dark the whole turn. Kerala hardly changes between the three leans. For a fairer test, do each lean twice and use the middle count. A second child can check the lean with the paper guide each time."
         },
         {
           "id": "s6",
@@ -880,8 +880,9 @@
       ],
       "materials": [
         {
-          "item": "one die",
-          "qty": 1
+          "item": "one die (from Ludo or snakes and ladders), or six paper slips numbered 1 to 6 in a cup",
+          "qty": 1,
+          "buy": "b-dice"
         },
         {
           "item": "a sheet of paper and a pen, to draw the flyway",
@@ -892,8 +893,8 @@
           "qty": 12
         },
         {
-          "item": "20 dried beans or lentils, for fuel",
-          "qty": 20
+          "item": "6 dried beans or lentils, for fuel (the bird never holds more than 2; the rest are spare)",
+          "qty": 6
         }
       ],
       "record": "Write down how many birds arrived and how many fell in each round. Work out the fraction that arrived each time.",
@@ -951,7 +952,7 @@
           "do": "Fly one bird at a time from the Start to Kerala. For each leg, take the beans, roll the die, and take one more bean if the die shows 1 or 2. If she has too few beans, she falls. At each wetland, roll to feed. Tally the birds that arrive and the birds that fall. Do this for all 12 birds.",
           "say": "Fly the first bird. Spend a bean for the leg. Roll for a headwind. Then roll to feed at the wetland. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.",
           "kid": "Fly one bird at a time. Spend beans. Roll the die. Tally the birds that arrive and fall.",
-          "parent": "Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. Expected: about 9 or 10 arrive, and 2 or 3 fall.",
+          "parent": "Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. With 2 to 4 children, each flies 3 to 6 of the 12 birds at the same time on their own paper flyway (the same rules), and one child keeps the tally. Typical result: about 9 or 10 arrive, and 2 or 3 fall. This is a typical result and not a promise.",
           "check": {
             "t": "mcq",
             "q": "A bird lands at wetland 2 with 0 beans left. Is she safe?",
@@ -971,7 +972,7 @@
           "do": "Cross out wetland 3. The bird now flies from wetland 2 to wetland 4 in one leg, and this leg costs 2 beans. A headwind still costs one more bean. Fly 12 birds as before. Tally the birds that arrive and the birds that fall.",
           "say": "Now wetland 3 has been drained. The bird must fly from 2 to 4 in one go, and this leg costs 2 beans. Fly 12 more birds the same way. Tally them.",
           "kid": "Cross out wetland 3. The long leg costs 2 beans. Fly 12 more birds. Tally them.",
-          "parent": "Expected: about 6 arrive, and about 6 fall. A bird needs a full 2 beans and no headwind to cross the long leg. Your counts will vary by two or three. If round 1 and round 2 are close, play both rounds again and add the counts."
+          "parent": "Typical result: about 6 arrive, and about 6 fall. A bird needs a full 2 beans and no headwind to cross the long leg, because a headwind makes it cost 3 beans and she can hold only 2. Your counts will vary by two or three. If round 1 and round 2 are close, play both rounds again and add the counts."
         },
         {
           "id": "s5",
@@ -1077,7 +1078,7 @@
           "mins": 6,
           "context": "In this step, you sort eight birds by their clues.",
           "do": "Read each clue and put the bird in a box. House crow: seen in every month, and nests here. Rock pigeon: seen in every month. Rosy starling: arrives in autumn and leaves in spring. Barn swallow: arrives in autumn and leaves in spring. Northern pintail: on lakes from autumn to spring. Pied cuckoo: arrives with the monsoon, nests, and leaves. Amur falcon: here for three weeks in October and November. Cattle egret: seen in every month.",
-          "say": "Read each clue. Where does each bird go? Think about when it is here and when it is not. There are two residents, three winter visitors, one summer visitor and one passage migrant, and one more resident.",
+          "say": "Read each clue. Where does each bird go? Think about when it is here and when it is not. There are three residents, three winter visitors, one summer visitor and one passage migrant.",
           "kid": "Read each clue. Put each bird in a box. Think about when you see it.",
           "ask": [
             {
@@ -1088,13 +1089,13 @@
               ]
             }
           ],
-          "parent": "Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can be a different label."
+          "parent": "Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can be a different label, and a few cattle egrets also move short distances, so a book may disagree. With 2 to 4 children, each sorts alone first and then you compare; talk about any bird you placed differently."
         },
         {
           "id": "s3",
           "mins": 5,
           "context": "In this step, you check which label fits the birds you know.",
-          "do": "Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone.",
+          "do": "Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone. For a week, tick each bird you see near home. Residents show up every day.",
           "say": "Pick two more birds you know. Which label fits each? How could we find out?",
           "kid": "Pick two more birds you know. Which label fits? How could you check?",
           "check": {
@@ -1189,12 +1190,12 @@
               "q": "What do the flat parts and the steep parts mean?",
               "good": [
                 "Flat parts are where she stays and feeds. Steep parts are where she flies.",
-                "She spent four weeks at the middle stopover.",
+                "She stayed about three weeks at the middle stopover (four weekly readings at 33).",
                 "She went from 48 to 27, which is 21 degrees."
               ]
             }
           ],
-          "parent": "Answers: three flat parts, at 48 (weeks 0 to 2), 33 (weeks 4 to 7) and 27 (weeks 8 to 11). The steep parts are between weeks 2 and 4 and between 7 and 8. She went 21 degrees, about 2,300 kilometres north to south (21 times 111).",
+          "parent": "Answers: three flat parts, at 48 (weeks 0 to 2), 33 (weeks 4 to 7) and 27 (weeks 8 to 11). The steep parts are between weeks 2 and 4 and between 7 and 8. She went 21 degrees, about 2,300 kilometres north to south (21 times 111). Her biggest jump in one week was 8 degrees (week 2 to 3), about 900 kilometres. With 2 to 4 children, each plots the graph alone on their own paper and then compares; one child can read the table aloud.",
           "check": {
             "t": "mcq",
             "q": "On a tracking graph of latitude, what does a long flat part mean?",
@@ -1280,6 +1281,7 @@
           "context": "In this step, you build your own chain for a different bird.",
           "do": "Choose a bird: a barn swallow, an Amur falcon or a crow. Draw a chain of 5 or 6 links from the Sun to that bird. Add one link where a human or a place could break the chain.",
           "say": "Choose a bird. Make a chain from the Sun to her. Where could the chain break?",
+          "parent": "With 2 to 4 children, each makes the cards and shuffles them for a sibling to put in order, and then each builds a chain for a different bird. Compare where the chains could break.",
           "kid": "Pick a bird. Draw a chain from the Sun to her. Where could it break?",
           "check": {
             "t": "mcq",
@@ -1305,15 +1307,15 @@
       "context": "In this project, you build a model mudflat in a tray and hunt for buried food with two kinds of bill. You find out how a long bill and a short bill reach different food.",
       "materials": [
         {
-          "item": "a tray or a wide box at least 5 centimetres deep",
+          "item": "a deep plastic box or steel tray, about 20 centimetres wide and at least 5 centimetres deep",
           "qty": 1
         },
         {
-          "item": "uncooked rice, enough to fill the tray 4 centimetres deep",
+          "item": "uncooked rice, about 1 kilogram, enough to fill the box 4 centimetres deep (keep it clean and dry; wash it well before cooking)",
           "qty": 1
         },
         {
-          "item": "20 lentils or small beans, for worms",
+          "item": "10 red lentils (masoor dal) for shallow worms, and 10 whole chickpeas (kabuli chana) for deep worms",
           "qty": 20
         },
         {
@@ -1321,7 +1323,7 @@
           "qty": 1
         },
         {
-          "item": "a pair of chopsticks or tweezers, for a long bill that probes 4 centimetres",
+          "item": "a pair of chopsticks, or two pencils held like chopsticks, for a long bill that probes 4 centimetres",
           "qty": 1
         },
         {
@@ -1333,7 +1335,7 @@
           "qty": 1
         }
       ],
-      "safety": "Keep rice and lentils away from small children who might put them in their mouths.",
+      "safety": "Keep rice, lentils and chickpeas away from small children who might put them in their mouths or noses. Do not eat them. Do not poke chopsticks or pencils near faces. Anyone allergic to pulses should not touch the chickpeas and lentils.",
       "schedule": [
         {
           "day": 1,
@@ -1341,11 +1343,11 @@
           "what": "Build the mudflat. Hide the worms. Hunt with each bill. Compare."
         }
       ],
-      "record": "A table of how many worms each bill found in each tide, and a drawing of the tray from the side.",
+      "record": "A table of how many shallow worms and how many deep worms each bill found, and a drawing of the tray from the side.",
       "setup": [
         {
           "art": "A tray filled with rice, with ten lentils pushed in just under the top and ten near the bottom.",
-          "caption": "1. Fill the tray with rice. Hide ten lentils near the top and ten near the bottom."
+          "caption": "1. Fill the tray with rice. Hide ten red lentils in the top 1 centimetre and ten chickpeas on the bottom."
         },
         {
           "art": "A tray covered with a cloth to show high tide.",
@@ -1353,11 +1355,11 @@
         },
         {
           "art": "A child with a teaspoon digging the top of the rice, with a timer beside her.",
-          "caption": "3. At low tide, take off the cloth and hunt with the short bill for 20 seconds."
+          "caption": "3. At low tide, take off the cloth and hunt with the short bill for 30 seconds."
         },
         {
           "art": "A child with chopsticks probing deep into the rice for lentils.",
-          "caption": "4. Refill the tray and hunt with the long bill for 20 seconds."
+          "caption": "4. Reset the tray and hunt with the long bill for 30 seconds."
         }
       ],
       "flow": [
@@ -1366,7 +1368,7 @@
           "mins": 5,
           "context": "This is the first step of the Mudflat Buffet. You guess before you build.",
           "do": "Show the tray, the spoon and the chopsticks. Say the spoon is a short bill and the chopsticks are a long bill. Ask for a guess and a reason.",
-          "say": "Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 20 seconds? Why?",
+          "say": "Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 30 seconds? Why?",
           "kid": "The spoon is a short bill. The chopsticks are a long bill. Which finds more worms? Why?",
           "ask": [
             {
@@ -1383,28 +1385,28 @@
           "id": "s2",
           "mins": 8,
           "context": "In this step, you build the mudflat.",
-          "do": "Fill the tray with rice, 4 centimetres deep. Push ten lentils into the rice just under the top. Push ten lentils down near the bottom. Cover the tray with the cloth.",
-          "say": "This is the mudflat. Ten worms live near the top. Ten live deep down. The cloth is the sea at high tide.",
+          "do": "Fill the tray with rice, 4 centimetres deep. Push ten red lentils into the rice, just under the top. Push ten chickpeas down to the bottom. Cover the tray with the cloth.",
+          "say": "This is the mudflat. Ten red worms live near the top. Ten big chickpea worms live deep down. The cloth is the sea at high tide.",
           "kid": "Fill the tray with rice. Hide ten lentils near the top and ten deep. Cover it.",
-          "parent": "Keep a note of which lentils are shallow and which are deep. You can use two colours of lentil."
+          "parent": "Red lentils are the shallow worms and chickpeas are the deep worms, so you can tell them apart at once. With 2 to 4 children: one hunts, one times, one counts and one resets the tray; swap after each hunt so everyone gets a go."
         },
         {
           "id": "s3",
           "mins": 8,
           "context": "In this step, you hunt with the short bill at low tide.",
-          "do": "Take off the cloth, for low tide. Start the timer for 20 seconds. Use the spoon to scoop only the top 1 centimetre. Count the worms you find. Then cover the tray again.",
-          "say": "The tide is out. You have 20 seconds. Use the spoon, and dig only the top. Count your worms.",
-          "kid": "Take off the cloth. Hunt with the spoon for 20 seconds. Count the worms.",
-          "parent": "Expected: the spoon finds many shallow worms and almost no deep ones."
+          "do": "Take off the cloth, for low tide. Start the timer for 30 seconds. Use the spoon to scoop and spread only the top 1 centimetre of rice, and pick out the worms. Count shallow worms and deep worms separately. Then cover the tray again.",
+          "say": "The tide is out. You have 30 seconds. Use the spoon, and dig only the top. Count your worms.",
+          "kid": "Take off the cloth. Hunt with the spoon for 30 seconds. Count the worms.",
+          "parent": "Typical result: the spoon finds several shallow worms (perhaps 5 to 10) and no deep ones."
         },
         {
           "id": "s4",
           "mins": 8,
           "context": "In this step, you hunt with the long bill at low tide.",
-          "do": "Reset the tray with the same number of worms. Take off the cloth and start the timer for 20 seconds. Use the chopsticks to probe down and pick up worms. Count them.",
-          "say": "Reset the tray. The tide is out again. This time use the long bill. You have 20 seconds. Count your worms.",
-          "kid": "Reset the tray. Hunt with the chopsticks for 20 seconds. Count the worms.",
-          "parent": "Expected: the chopsticks find fewer worms in total, but they find the deep ones. Results vary, so try each bill twice and add them up."
+          "do": "Reset the tray with the same number of worms. Take off the cloth and start the timer for 30 seconds. Push the chopsticks down to the bottom and tap. At a hard bump, open them a little and look. Pick up the chickpea. Count shallow and deep worms separately.",
+          "say": "Reset the tray. The tide is out again. This time use the long bill. You have 30 seconds. Count your worms.",
+          "kid": "Reset the tray. Hunt with the chopsticks for 30 seconds. Count the worms.",
+          "parent": "Typical result: the chopsticks find fewer worms in total, but they find some deep ones that the spoon cannot reach. Results vary a lot and probing blind is fiddly. Try each bill twice and add them up. If the chopsticks find nothing, make the rice 3 centimetres deep and give 45 seconds; real waders also have to feel for food they cannot see."
         },
         {
           "id": "s5",

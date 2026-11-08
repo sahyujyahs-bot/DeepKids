@@ -243,7 +243,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 
 ## Games
 ### g1 · Which Speed-Up? A card game (18 min)
-- **rules:** Cut out the 20 cards and the 12 tokens. Each player needs one set of the six tokens, so copy the words onto paper if you have too few.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. The six tokens are Warmth, Stirring, Smaller pieces, More crowded, A helper, and Slowing down.; Everyone turns their token over together. The reader turns the card around and reads the back aloud.; A player whose token matches the first words of the back scores one point.; The reader's job passes to the player on the left after each card. With two players, swap after each card.; To play alone, read each front, guess the speed-up in your head and then check the back. Your score is how many you got right out of 20.; The game ends when all 20 cards have been read. The player with the most points wins.
+- **rules:** Cut out the 20 cards and the 12 tokens. The tokens make two sets of six, so for 3 or 4 players copy the six words onto paper slips to give each player a set.; One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. The six tokens are Warmth, Stirring, Smaller pieces, More crowded, A helper, and Slowing down.; Everyone turns their token over together. The reader turns the card around and reads the back aloud.; A player whose token matches the first words of the back scores one point.; The reader's job passes to the player on the left after each card. With two players, swap after each card.; To play alone, read each front, guess the speed-up in your head and then check the back. Your score is how many you got right out of 20.; The game ends when all 20 cards have been read. The player with the most points wins.
 - **Printable cards: 20 two-sided cards: an everyday situation on the front, and the speed-up with the reason on the back:** Sugar dissolves much faster in hot tea than in cold water. (back: Warmth. Hot water has faster particles, so they meet the sugar more often and harder.); Amma stirs sugar into milk with a spoon, and it vanishes sooner. (back: Stirring. The spoon brings fresh milk to the sugar and carries used-up milk away.); Powdered jaggery dissolves in water faster than a big lump. (back: Smaller pieces. Powder has far more surface touching the water.); Strong vinegar on baking soda fizzes harder than the same vinegar mixed with lots of water. (back: More crowded. More acid particles in the same space meet the baking soda more often.); Raw potato makes hydrogen peroxide foam within seconds, and the potato is still there afterwards. (back: A helper. Potato holds catalase, a catalyst, which is not used up.); A pressure cooker cooks dal in a fraction of the time of an open pot. (back: Warmth. Trapped steam raises the water above 100 degrees, so cooking is faster.); Potato cubes cook faster than a whole potato of the same weight. (back: Smaller pieces. Cubes have more surface, so heat and water enter faster.); A bottle of milk in the fridge stays fresh for days longer than one on the shelf. (back: Slowing down. Cold means slower particles, so the changes that spoil milk go slowly.); A painted iron gate stays bright for years, but a bare one rusts quickly. (back: Slowing down. Paint keeps water and oxygen away from the iron.); Lime juice on cut apple keeps it pale for hours. (back: Slowing down. The acid makes the browning enzyme work poorly.); A flour mill worker worries about the fine dust in the air. (back: Smaller pieces. Fine dust has so much surface that it can burn almost all at once.); The metal in a car's exhaust changes harmful gas into safer gas, and lasts for years. (back: A helper. A catalytic converter is a catalyst, so the metal is not used up.); A washing powder with enzymes lifts food stains in cool water. (back: A helper. Enzymes are catalysts made by living beings, and they speed up the breakdown of the stain.); A glowing splint bursts into flame in pure oxygen. (back: More crowded. Pure oxygen has about five times more oxygen particles in each space than air does.); A dosa cooks faster on a hotter tawa. (back: Warmth. A hotter tawa gives more particles enough energy to react.); Swirling a glass of fruit salt makes the fizz stop sooner. (back: Stirring. Swirling brings fresh water to the powder.); Hydrogen peroxide is sold in a dark brown bottle. (back: Slowing down. Light speeds up its breakdown, and the dark bottle keeps light out.); Crushed garlic and ginger flavour a curry faster than whole pieces. (back: Smaller pieces. Crushing opens more surface, so the flavour comes out quicker.); A fertiliser factory passes nitrogen and hydrogen over hot iron to make ammonia. (back: A helper. The iron is a catalyst that helps the very strong nitrogen particles react.); Mango pickle is packed with salt, oil and chilli. (back: Slowing down. They make it hard for the changes and the microbes that spoil mangoes to carry on.)
 - **Printable tokens: 12 speed-up tokens: two sets of six:** Warmth; Stirring; Smaller pieces; More crowded; A helper; Slowing down; Warmth; Stirring; Smaller pieces; More crowded; A helper; Slowing down
 - **s1 (3 min)**  
@@ -266,9 +266,9 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Child mode:* Who won? Which card surprised you most? Why?
   - Think: Which speed-up do you think the kitchen at home uses most?
 ### g2 · Meeting Party: be the particles (18 min)
-- **rules:** You need at least five people: four particles and one counter. Use a phone or clock to time 20 seconds.; Mark a big square with tape or string, about four steps on each side. Mark a small square with about two steps on each side.; In every round, the particles walk about at random. Each time two particles meet and shake hands, that is one meeting. The counter makes a mark for each meeting.; Particles must not stand still, and must walk in straight lines until they meet someone or reach the edge.; Play the four rounds in order. Write the number of meetings after each one.; The counter guesses before each round whether it will have more, the same or fewer meetings than round 1. A right guess scores a point.; After four rounds, swap roles and play again. The player with the most points wins.
-- **Printable cards: 4 round cards: the rule on the front, and what to expect on the back:** Round 1. Walk slowly in the big square for 20 seconds. Shake hands whenever you meet someone. (back: This is the base round. Expect a few meetings. Write the number.); Round 2. Walk fast in the big square for 20 seconds. Shake hands whenever you meet someone. (back: Warmth. Fast particles meet more often. Expect more meetings than round 1.); Round 3. Walk slowly in a small square for 20 seconds. Shake hands whenever you meet someone. (back: More crowded. The same particles in less space meet more often. Expect more meetings than round 1.); Round 4. Walk slowly in the big square for 20 seconds, but with only two particles. Shake hands whenever you meet. (back: Fewer particles. Meetings are rare. Expect fewer meetings than round 1.)
-- **Printable score sheet: Score sheet: Round, What changed, Meetings in 20 seconds:** Round 1: slow, big square, four particles; Round 2: fast, big square, four particles; Round 3: slow, small square, four particles; Round 4: slow, big square, two particles
+- **rules:** Best with five people: four particles and one counter. It also works with two or three: with 2 or 3 people everyone walks, and each person counts their own handshakes. Use a phone or clock to time 20 seconds.; If you have only two or three walkers, play rounds 1 to 3 and skip round 4. Chance matters with few particles, so play each round twice and add the meetings. Walk, do not run, and clear the floor of furniture and bags first.; Mark a big square with tape or string, about four steps on each side. Mark a small square with about two steps on each side.; In every round, the particles walk about at random. Each time two particles meet and shake hands, that is one meeting. The counter makes a mark for each meeting.; Particles must not stand still, and must walk in straight lines until they meet someone or reach the edge.; Play the four rounds in order. Write the number of meetings after each one.; The counter guesses before each round whether it will have more, the same or fewer meetings than round 1. A right guess scores a point.; After four rounds, swap roles and play again. The player with the most points wins.
+- **Printable cards: 4 round cards: the rule on the front, and what to expect on the back:** Round 1. Walk slowly in the big square for 20 seconds. Shake hands whenever you meet someone. (back: This is the base round. Expect a few meetings. Write the number.); Round 2. Walk fast in the big square for 20 seconds. Shake hands whenever you meet someone. (back: Warmth. Fast particles meet more often. Expect more meetings than round 1.); Round 3. Walk slowly in a small square for 20 seconds. Shake hands whenever you meet someone. (back: More crowded. The same particles in less space meet more often. Expect more meetings than round 1.); Round 4. Walk slowly in the big square for 20 seconds, but with only half the particles (two, if you started with four). Shake hands whenever you meet. (back: Fewer particles. Meetings are rare. Expect fewer meetings than round 1.)
+- **Printable score sheet: Score sheet: Round, What changed, Meetings in 20 seconds:** Round 1: slow, big square, all the walkers (four is best); Round 2: fast, big square, four particles; Round 3: slow, small square, four particles; Round 4: slow, big square, half the walkers
 - **s1 (4 min)**  
   *Parent does:* Mark the big square and the small square. Choose four particles and one counter. Read the first round card aloud. Ask the counter to guess.  
   *Parent says:* You four are particles in a glass of water. You are the counter. Mark the squares. Round one: walk slowly in the big square, and shake hands each time you meet. Counter, how many meetings will there be?  
@@ -280,8 +280,8 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Child mode:* Play round 1 slowly. Then play round 2 fast. Count the meetings.
   - Ask: Why were there more meetings when everyone walked fast? (good: Fast particles cover more ground.; They bump into more people.; Warmth makes particles faster.)
 - **s3 (6 min)**  
-  *Parent does:* Play round 3 and round 4. Time 20 seconds for each. Write the meetings in the score sheet. Ask the counter what changed between the rounds.  
-  *Parent says:* Play round three, in the small square. Count the meetings. Now play round four, with only two particles. Count again. What changed?  
+  *Parent does:* Play round 3 and round 4 (skip round 4 if you have fewer than four walkers). Time 20 seconds for each. Write the meetings in the score sheet. Ask the counter what changed between the rounds.  
+  *Parent says:* Play round three, in the small square. Count the meetings. Now play round four, with only half the particles. Count again. What changed?  
   *Child mode:* Play round 3 in the small square. Then play round 4 with two particles.
   - Ask: Why did a smaller square give more meetings? (good: The same particles were closer together.; They had less room to avoid each other.; A crowd meets more often.)
   - Note: Round 4 shows what happens when particles are scarce, as in a diluted mix. If the numbers do not follow the pattern, play the round again twice and take the average. Chance matters when there are only a few particles.
@@ -297,7 +297,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **question:** Does the same amount of fruit salt fizz faster in cold water, room-temperature water or warm water?
 - **predict:** Before you start, guess. Which cup will stop fizzing first, and which last? Say why you think so.
 - **fair test:** Every cup is the same size and has 150 millilitres of water and half a level teaspoon of fruit salt. Nobody stirs. The only thing that changes is the temperature of the water, so any difference in the fizzing time comes from the temperature. We do each cup twice, because one try can be a fluke. The room-temperature cup is the control.
-- **safety:** A grown-up pours the warm water and checks that it is not too hot to hold. Do not drink the water from the test glasses. Wipe up spills so nobody slips.
+- **safety:** A grown-up pours the warm water and checks that it is not too hot to hold. Keep the powder out of eyes, and keep spare sachets away from a younger child who may eat them. Do not drink the water from the test glasses. Wipe up spills so nobody slips.
 - **record:** Write the seconds for each try in the table. Work out the average for each cup. Then draw a bar for each cup, with the cup names along the bottom and seconds up the side.
 - **results table:** Cup | Water | Try 1 (seconds) | Try 2 (seconds) | Average (seconds)
 - **s1 (5 min)**  
@@ -307,7 +307,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Ask: Why do you think that glass will finish first? (good: Warm water makes things go faster.; The cold glass slows it down.; The powder dissolves quicker in warm water.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the results table.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* A grown-up makes the three kinds of water. Cold water: add ice for 5 minutes, then take the ice out. Room water: use tap water. Warm water: mix hot and cold until you can hold the glass for 10 seconds. Put 150 millilitres in each glass.  
+  *Parent does:* A grown-up makes the three kinds of water. Cold water: chill about 400 millilitres in a jug with plenty of ice for 5 minutes. Then take the ice out. Room water: use tap water. Warm water: mix hot and cold until you can hold the glass for 10 seconds. Put 150 millilitres in each glass.  
   *Parent says:* Cold water first. Chill it with ice for five minutes, then take the ice out. The room glass is plain tap water. For the warm glass, mix hot and cold water until the glass is comfortable to hold. Pour 150 millilitres into each.  
   *Child mode:* A grown-up helps with the warm water. Pour 150 millilitres into each glass. Label them cold, room and warm.
   - Note: If you have a thermometer, cold is about 5 to 10 degrees, room is about 25 to 30, and warm is about 45 to 50. Without a thermometer, use your hand. Cold should ache a little. Warm should feel like a warm bath. It must not be hot.
@@ -317,7 +317,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Parent says:* Tip in half a teaspoon of fruit salt, and start the stopwatch at the same moment. Do not stir. Watch the bubbles rise from the powder at the bottom. Stop the clock when they stop. Write the seconds in the table.  
   *Child mode:* Tip in the powder. Start the stopwatch. Do not stir. Stop it when bubbles stop.
   - Ask: What do you notice about the bubbles in the first few seconds compared with the last few? (good: They come fast at the start.; They slow down near the end.; There are fewer bubbles at the end.)
-  - Note: Use fresh water for the second try. Pour out the old water, rinse the glass, and use new water at the same temperature. Warm water cools quickly, so for the second try make it warm again. Tiny bubbles on the side of the glass do not count. Stop the clock when no bubbles rise from the powder.
+  - Note: Use fresh water for the second try. Pour out the old water, rinse the glass, and use new water at the same temperature. Warm water cools quickly, so for the second try make it warm again. Tiny bubbles on the side of the glass do not count. Stop the clock when no bubbles rise from the powder. Decide before you start what counts as the end: the last bubble that rises from the powder. One person judges the end for every cup. Typical times are about 10 to 20 seconds for warm, 25 to 40 for room and 50 to 90 for cold, but your brand and room will differ, so compare the order, not the numbers. One child with a parent: the child tips the powder and watches, and the parent runs the stopwatch and writes. With 2 to 4 children: give each cup a team of a pourer, a timer and a recorder, set up a second set of glasses for try 2, and start all three cups on a count of three.
 - **s4 (4 min)**  
   *Parent does:* Check the table. Work out the average for each glass by adding the two tries and dividing by two. Draw a bar for each glass.  
   *Parent says:* Add the two tries for each glass and divide by two. That gives the average. Now draw one bar for each glass. Which bar is shortest?  
@@ -333,7 +333,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **question:** Which browns an apple fastest: a plain chunk, grated apple, a chunk dipped in lime juice, a chunk in the fridge, or a chunk dipped in hot water?
 - **predict:** Before you start, guess. Which plate will turn brown first, and which will stay palest? Say why you think so.
 - **fair test:** All the apple pieces come from one apple, cut at the same time. Each plate gets the same amount of apple. Each plate is different from the plain chunk in one way only. The plain chunk is the control. Plate B has smaller pieces, C has lime juice, D is cold, and E has a hot dip.
-- **safety:** A grown-up cuts and grates the apple and handles the just-boiled water. Wash the apple first. Do not eat the pieces that have been in the hot water or left for 30 minutes.
+- **safety:** A grown-up cuts and grates the apple (a grater scrapes fingers) and handles the just-boiled water. A child can squeeze the lime and do the scoring. Wash the apple first. Do not eat the pieces that have been in the hot water or left for 30 minutes.
 - **record:** At 10, 20 and 30 minutes, give each plate a colour score from 0 to 4. 0 is cream-white like a fresh cut. 1 is a faint tan. 2 is tan. 3 is brown. 4 is dark brown. Then draw a line for each plate.
 - **results table:** Plate | What was done | After 10 min (0 to 4) | After 20 min (0 to 4) | After 30 min (0 to 4)
 - **s1 (5 min)**  
@@ -353,7 +353,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Parent says:* At ten minutes, look at the cut faces. Give each plate a score from nought to four. Write it down. Do the same at twenty and thirty minutes. Which plate changes first?  
   *Child mode:* Look closely at each plate. Score the colour from 0 to 4. Write it in the table.
   - Ask: What do you notice about the grated apple compared with the chunk? (good: It goes brown faster.; It is darker already.; More of it touches the air.)
-  - Note: If your apple is slow to brown, wait up to an hour and keep scoring. If nothing browns, try a banana. Write what you see, even if it is not what you guessed. The cold plate may only be a little paler than the plain one in 30 minutes. That is also a result.
+  - Note: If your apple is slow to brown, wait up to an hour and keep scoring. If nothing browns, try a banana. Write what you see, even if it is not what you guessed. The cold plate may only be a little paler than the plain one in 30 minutes. That is also a result. Typical result: the plain chunk and the grated apple show tan within 10 to 20 minutes, the lime plate stays pale for the whole 30 minutes, and the hot-dipped chunk stays pale but may look slightly glassy at the edge. Judge in the same light, take a phone photo of all five plates at each time, and compare cut faces side by side. One child with a parent: the child scores and the parent keeps time and photographs. With 2 to 4 children: each child scores the plates alone and writes the scores before hearing the others, then compare.
 - **s4 (4 min)**  
   *Parent does:* Draw a line graph. Put minutes along the bottom and colour score up the side. Draw one line for each plate, in a different colour.  
   *Parent says:* Draw a line graph. Minutes go along the bottom and the colour score goes up the side. One line for each plate. Which line climbs fastest?  
@@ -369,7 +369,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **question:** If the amount of lime juice is the same, does the fizz with baking soda finish faster when the juice is more crowded, or when it is mixed into lots of water?
 - **predict:** Before you start, guess. Which glass will finish fizzing first, and which last? Say why you think so.
 - **fair test:** Each glass has the same size and the same amount of baking soda. Each gets 2 teaspoons of the same lime juice, so the same number of acid particles. Only the water added is different. Glass A has none, glass B has 4 teaspoons and glass C has 12 teaspoons. So the acid is the same amount, but it is more or less crowded.
-- **safety:** Keep lime juice out of eyes. Wash your hands after squeezing. Do not drink the fizz.
+- **safety:** Keep lime juice out of eyes; if it gets in, rinse with plenty of water. Wash your hands after squeezing. The foam can spill, so work on a tray. Do not drink the fizz.
 - **record:** Write the foam height at 5 seconds and the time until the fizz stops for each glass. Then draw a bar for each glass.
 - **results table:** Glass | Lime juice and water | Foam height after 5 seconds (millimetres) | Seconds until the fizz stops
 - **s1 (4 min)**  
@@ -385,10 +385,10 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Note: Use level teaspoons and the same spoon every time. Seeds can block bubbles, so take them out. Keep all three cups ready before you start, so the test is the same for each.
   - Check: Cups A, B and C all have 2 teaspoons of lime juice. What is different about the acid in them? → **How crowded it is**
 - **s3 (12 min)**  
-  *Parent does:* For each glass, pour the cup in one go and start the stopwatch. At 5 seconds, measure the foam height. Stop the clock when the fizz stops. Write both numbers in the table. Rinse and dry the glasses before doing the next one.  
+  *Parent does:* For each glass, pour the cup in one go and start the stopwatch. At 5 seconds, measure the foam height. Stop the clock when the foam has sunk and only a few bubbles rise. The extra baking soda at the bottom keeps fizzing a little for a long time, so do not wait for it. Write both numbers in the table. Rinse and dry the glasses before doing the next one.  
   *Parent says:* Pour the whole cup into the glass in one go and start the stopwatch. At five seconds, measure the foam. Stop the clock when the fizz stops. Write both numbers. Do glass A, then B, then C.  
   *Child mode:* Pour fast. Start the clock. Measure the foam at 5 seconds. Stop when fizz stops.
-  - Note: Do not stir. Foam from baking soda and lime can be small, so look at the side of the glass. If you want to repeat each test twice, do it with fresh mixes. If all three finish together, that is a result too. Write it down and say why you think so.
+  - Note: Do not stir. Foam from baking soda and lime can be small, so look at the side of the glass. If you want to repeat each test twice, do it with fresh mixes. If all three finish together, that is a result too. Write it down and say why you think so. Typical result: glass A foams up high straight away and settles in about 10 to 20 seconds, and glass C foams only a little. The gap in finishing times can be small, so the foam height at 5 seconds is the clearer sign. If the foam is too small to measure, repeat with vinegar in place of lime juice, or double every amount. One child with a parent: the child pours and starts the stopwatch, and the parent measures the foam at 5 seconds. With 2 to 4 children: one pours, one times, one holds the ruler, and swap for each glass.
 - **s4 (5 min)**  
   *Parent does:* Draw a bar for each glass. Ask your child to say what they thought, what they saw and why. Then explain.  
   *Parent says:* Draw a bar for each glass. What did you think? What did you see? Why do you think the crowded lime was different?  
@@ -397,20 +397,20 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Think: The lime juice is the same amount in all three cups. So what changed about how often acid particles meet baking soda particles?
 
 ## Activities
-### a1 · Stir or Stand: does a spoon hurry the fizz? (14 min)
-- **safety:** Do not drink the water from the test glasses.
-- **record:** Write the seconds for each glass. Draw two bars, one for the still glass and one for the stirred glass.
+### a1 · Stir or Stand: does a spoon hurry the fizz? (18 min)
+- **safety:** Do not drink the water from the test glasses. Keep spare fruit salt away from a younger child who may eat it.
+- **record:** Write the seconds for each glass. Draw three bars, one for the still glass, one for the gentle stir and one for the hard stir.
 - **s1 (4 min)**  
-  *Parent does:* Pour 150 millilitres of room-temperature water into two glasses. Ask your child to guess which will stop fizzing sooner, and why.  
-  *Parent says:* Two glasses, same water, same powder. One gets stirred and one stays still. Which stops fizzing sooner? Why do you think so?  
-  *Child mode:* Two glasses. One stirred, one still. Which fizzes out sooner? Why?
+  *Parent does:* Pour 150 millilitres of room-temperature water into three glasses, labelled still, gentle and hard. Ask your child to guess which will stop fizzing first and which last, and why.  
+  *Parent says:* Three glasses, same water, same powder. One stays still, one is stirred gently and one is stirred hard. Which stops fizzing first? Which last? Why do you think so?  
+  *Child mode:* Three glasses. Still, gentle stir, hard stir. Which fizzes out first? Why?
   - Ask: Why might stirring change the time? (good: It mixes the powder with the water.; Fresh water reaches the powder.; The bubbles get carried away.)
   - Note: Do not correct the guess. Both glasses must use the same water and the same half teaspoon of powder.
-- **s2 (6 min)**  
-  *Parent does:* Tip half a teaspoon of fruit salt into the still glass and start the stopwatch. Stop it when no bubbles rise. Write the time. Then do the same in the stirred glass, but stir gently with a spoon the whole time.  
-  *Parent says:* Powder into the still glass, and start the clock. Stop it when the bubbles stop. Now powder into the stirred glass. Stir gently the whole time. Time it the same way.  
-  *Child mode:* Tip in the powder. Time the still glass. Then time the stirred glass, stirring the whole time.
-  - Note: Stir gently with the spoon in slow circles, not hard. Stop the clock when no bubbles rise, even if bubbles still cling to the spoon. If you want to do each twice, use fresh water.
+- **s2 (10 min)**  
+  *Parent does:* Tip half a teaspoon of fruit salt into the still glass and start the stopwatch. Stop it when no bubbles rise. Write the time. Then do the gentle glass, stirring slowly in circles the whole time. Last, do the hard glass, stirring briskly the whole time.  
+  *Parent says:* Powder into the still glass, and start the clock. Stop it when the bubbles stop. Now powder into the gentle glass and stir slowly the whole time. Last, the hard glass, stirred briskly. Time each the same way.  
+  *Child mode:* Tip in the powder. Time the still glass. Then the gentle glass, then the hard glass, stirring the whole time.
+  - Note: Stir gently with the spoon in slow circles, not hard. Stop the clock when no bubbles rise, even if bubbles still cling to the spoon. If you want to do each twice, use fresh water. The end is the last bubble that rises from the powder, judged by the same person each time. Typical result: still is slowest and hard is fastest, but the gap between gentle and hard can be small, so repeat if they look equal. One child with a parent: the child stirs and the parent times. With 2 to 4 children: one glass each, started together on a count of three, with the same spoon size.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain.  
   *Parent says:* What did you think? What did you see? Why do you think stirring made a difference?  
@@ -418,14 +418,14 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Note: A strong answer says that the stirred glass finished sooner. After they say what they saw, explain: stirring keeps bringing fresh water to the powder and carrying the used-up water away, so more meetings happen each second. Stirring does not make particles faster. It brings new partners to the meeting. If the glasses finished together, say that is also a result and try again with a firmer stir.
   - Think: Stirring does not make the water warmer or the powder smaller. So how can it make a reaction finish sooner?
 ### a2 · Helper Hunt at Home: where are the catalysts? (22 min)
-- **safety:** Do not open or taste any cleaner. Read labels only. Do not go under a vehicle. Ask a grown-up to look.
+- **safety:** Do not open or taste any cleaner. Read labels only. Do not go under a vehicle. Ask a grown-up to look. For the rice, use only plain cooked rice and your own clean spoon. Wash hands first.
 - **record:** Make a table with three columns: Where I looked, What I found, Which reaction the helper speeds up.
 - **s1 (8 min)**  
   *Parent does:* Look at the label of a washing powder or washing liquid. Find words such as enzymes, protease, amylase, lipase or cellulase. Write down what you find. Do the same for dishwash or floor cleaner.  
   *Parent says:* Let us hunt for helpers. Many washing powders say enzymes on the label. Look for the words enzyme, protease, amylase, lipase or cellulase. Write down what you find, even if you find nothing.  
   *Child mode:* Read the washing powder label. Look for the word enzyme. Write what you find.
   - Ask: Why would a washing powder want an enzyme in it? (good: To break down stains faster.; To clean without hot water.; A helper speeds up the job.)
-  - Note: Protease breaks down proteins such as egg and blood stains. Amylase breaks down starch such as rice and potato. Lipase breaks down fats such as oil. Cellulase works on the fibres in cotton. If the label does not say, that is also a result.
+  - Note: Protease breaks down proteins such as egg and blood stains. Amylase breaks down starch such as rice and potato. Lipase breaks down fats such as oil. Cellulase works on the fibres in cotton. If the label does not say, that is also a result. With 2 to 4 children, each reads a different product and then everyone shares what they found. Many Indian washing powders only say enzymes without naming them.
 - **s2 (8 min)**  
   *Parent does:* Ask a grown-up who drives if their vehicle has a catalytic converter. Ask them to find out if they are not sure. Write down what they say.  
   *Parent says:* Ask someone who drives, or a mechanic. Does the vehicle have a catalytic converter in the exhaust? Petrol cars in India are made with one. Write down what they say.  
@@ -433,10 +433,10 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Note: A catalytic converter is a metal honeycomb coated with thin layers of metals such as platinum, palladium and rhodium. It changes harmful gases such as carbon monoxide into carbon dioxide. It works best when hot, so the first minute after a cold start is the dirtiest. Do not let your child go under the vehicle.
   - Check: A catalytic converter helps harmful gases change into safer gases. What happens to the metal in the converter? → **It stays, ready to help again**
 - **s3 (6 min)**  
-  *Parent does:* Ask your child to think of helpers in their own body. Chew a spoon of plain rice for one minute and say what changes in the taste. Then fill the third column of the table.  
-  *Parent says:* Your mouth has a helper too. Chew a spoon of plain rice for a whole minute. Does the taste change? Then fill in the last column of the table.  
-  *Child mode:* Chew plain rice for one minute. Does it get sweet? Fill in the table.
-  - Note: Saliva has an enzyme called amylase that breaks starch into sugar. Plain rice may begin to taste a little sweet after a minute. Some children do not notice, and that is fine. After they have shared, explain that a catalyst speeds up one job and is not used up.
+  *Parent does:* Ask your child to think of helpers in their own body. Chew a small spoon of plain cooked rice for two minutes without swallowing and say what changes in the taste. Then fill the third column of the table.  
+  *Parent says:* Your mouth has a helper too. Chew a spoon of plain rice for two whole minutes. Does the taste change? Then fill in the last column of the table.  
+  *Child mode:* Chew plain rice for two minutes. Does it get sweet? Fill in the table.
+  - Note: Saliva has an enzyme called amylase that breaks starch into sugar. Plain rice may begin to taste a little sweet after one to two minutes. Some children do not notice, and that is fine. After they have shared, explain that a catalyst speeds up one job and is not used up.
   - Think: A catalyst speeds up one job and comes out the same. What jobs do you think the helpers in your body might be doing?
 ### a3 · Kitchen Clock: why does the pressure cooker hurry the dal? (20 min)
 - **safety:** Stay away from the hot stove and from the cooker when it whistles. A grown-up does all the cooking.
@@ -446,7 +446,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Parent says:* Ask the cook at home. How long does dal take in an open pot? How long does it take in the pressure cooker? Write both numbers down. Why do they use the cooker?  
   *Child mode:* Ask the cook about dal. Open pot or cooker? How many minutes?
   - Ask: Why do you think the pressure cooker is quicker? (good: It gets hotter than an open pot.; The steam is trapped inside.; It pushes the heat into the dal.)
-  - Note: If your family does not use a cooker, ask about another food, such as whole rajma versus soaked rajma. In an open pot, water boils at 100 degrees. In a pressure cooker, trapped steam builds up pressure, and the water reaches about 115 to 120 degrees. That is hotter, so the food cooks faster.
+  - Note: If your family does not use a cooker, ask about another food, such as whole rajma versus soaked rajma. In an open pot, water boils at 100 degrees. In a pressure cooker, trapped steam builds up pressure, and the water reaches about 115 to 120 degrees. That is hotter, so the food cooks faster. Typical times are about 30 to 45 minutes for dal in an open pot and 10 to 15 minutes in a cooker, but ask for the cook's usual time, not an exact one. With 2 to 4 children, each interviews a different cook (Amma, a grandparent, a neighbour) and then you compare the answers.
 - **s2 (8 min)**  
   *Parent does:* Add three more rows to the table. Ask about potato cubes and a whole potato. Ask about soaked and unsoaked chana. Ask about a split dal and a whole dal. Write the minutes in each row.  
   *Parent says:* Now add more rows. How long do potato cubes take, compared with a whole potato? How long does soaked chana take, compared with dry chana? Write each time down.  
@@ -461,20 +461,20 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 
 ## Projects
 ### p1 · Rust Race: five nails, five conditions (45 min, 4 days)
-- **safety:** A grown-up applies the nail polish or paint, in a place with fresh air. Nails are sharp. Wash your hands after touching rusty nails, and never touch them if you have a cut.
+- **safety:** A grown-up applies the nail polish or paint, in a place with fresh air and away from any flame, because nail polish catches fire easily. Nails are sharp and small, so keep them away from toddlers. Wash your hands after touching rusty nails, and never touch them if you have a cut.
 - **record:** Score each nail each day from 0 (bright and clean) to 4 (covered in orange-brown rust, with flakes). Draw a line graph with one line for each nail.
 - **schedule:** day 1: Set up the five nails and write down your guess. (25 min); day 2: Look at each nail. Score the rust from 0 to 4. (6 min); day 3: Look again, score again and take a photo or draw each nail. (6 min); day 4: Score a last time. Draw a line graph and say what you found. (8 min)
 - **s1 (25 min) · grown-up needed**  
-  *Parent does:* Wash and dry all five nails. Put nail A on a dry tissue in a glass. For B, C, D and E, stand the nail in a glass with water that covers half the nail. Add 2 teaspoons of salt to C. A grown-up paints nail E before it goes in, and lets it dry. Rub a little oil on nail D. Write your guess for each glass.  
+  *Parent does:* Wash all five nails with a drop of dishwash and a cloth. This removes the oily film. Rinse and dry them. Put nail A on a dry tissue in a glass. For B, C, D and E, stand the nail in a glass with water that covers half the nail. Add 2 teaspoons of salt to C. A grown-up paints nail E before it goes in, and lets it dry. Rub a little oil on nail D. Write your guess for each glass.  
   *Parent says:* Five nails, five conditions. A is dry. B is in plain water. C is in salty water. D is oiled and in water. E is painted and in water. Which will rust first? Which will not rust at all? Why do you think so?  
   *Child mode:* Set up five nails. Guess which rusts first and which not at all. Why?
   - Ask: Why do you think that nail will rust first? (good: Salt helps rusting.; Water and air both touch it.; It has nothing protecting it.)
-  - Note: Put the glasses on a tray in a place where they will not be knocked. Keep the tissue dry in glass A. Use the same amount of water in B, C, D and E. The nail in the middle of the water rusts most near the water line, where it meets both water and air.
+  - Note: Put the glasses on a tray in a place where they will not be knocked. Keep the tissue dry in glass A. Use the same amount of water in B, C, D and E. The nail in the middle of the water rusts most near the water line, where it meets both water and air. Nails cost a few rupees, so with 2 to 4 children each child can run a full set of five and compare. One child with a parent: the parent paints and photographs, and the child scores. If nothing rusts even in the salty glass after 3 days, the nail was probably galvanised (zinc coated): try a plain iron one.
 - **s2 (12 min)**  
   *Parent does:* Each day, look at each nail and score the rust from 0 to 4. Write the scores in the table. Do not shake the glasses.  
   *Parent says:* Look at each nail every day. Give each one a rust score from nought to four. Write it down. Do not shake the glasses.  
   *Child mode:* Look at each nail. Score the rust from 0 to 4.
-  - Note: Salty water usually shows orange rust within a day. Plain water takes longer, often two or three days. A dry nail, a well-oiled nail and a fully painted nail may show no rust at all. If a spot of paint chipped, rust may start there. Write what you see, even if it is not what you guessed.
+  - Note: Salty water usually shows orange rust within a day. Plain water takes longer, often two or three days. A dry nail, a well-oiled nail and a fully painted nail may show no rust at all. If a spot of paint chipped, rust may start there. Write what you see, even if it is not what you guessed. Hot or damp weather makes rust faster, and in a humid kitchen even glass A may show a faint mark, so score it honestly. If plain water shows little by day 4, keep looking on days 5 to 7.
   - Wait: Check once a day, for three days
 - **s3 (8 min)**  
   *Parent does:* On day 4, score the nails for the last time. Draw the line graph. Ask your child to say what they thought, what they saw and why. Then explain.  
@@ -729,9 +729,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries on science and engineering.
 
 ## Things to buy
-- [Fruit salt such as Eno, plain flavour, in sachets or a bottle](https://www.amazon.in/s?k=eno+fruit+salt+regular) (material): For the Three Cups test and Stir or Stand. A small bottle gives plenty for several tests. Check that it is plain, not lemon-flavoured. Used in e1, a1. 
-- [A digital kitchen thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To check the water temperatures in the Three Cups test instead of using your hand. It is useful in cooking too. Used in e1. 
-- [Plain iron wire nails, not galvanised](https://www.amazon.in/s?k=iron+wire+nails) (material): For the Rust Race. Ask the hardware shop for bright iron wire nails. A small packet is enough. Used in p1. 
+- [Fruit salt such as Eno, plain flavour, in sachets or a bottle](https://www.amazon.in/s?k=eno+fruit+salt+regular) (material): For the Three Cups test and Stir or Stand. Sold at any kirana or medical shop for about Rs 10 a sachet. Four to six sachets are plenty. Check that it is plain, not lemon-flavoured. Used in e1, a1. 
+- [A digital kitchen thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Optional. It costs about Rs 200 to 400, so skip it if you like: the hand test in Three Cups is enough. Never use a fever thermometer for hot water. Used in e1. 
+- [Plain iron wire nails, not galvanised](https://www.amazon.in/s?k=iron+wire+nails) (material): For the Rust Race. Ask the hardware shop for bright iron wire nails, plain and not zinc coated. A few nails cost a few rupees. Used in p1. 
 
 ## Warm-up
 - What has to happen to particles before they can react? → They have to meet.

@@ -251,7 +251,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 ### e1 · Same Paper, Three Shapes: which burns fastest? (35 min)
 - **question:** A sheet of newspaper can be left flat, crumpled loosely or rolled tightly. Which shape burns fastest, and which burns slowest?
 - **predict:** Before you start, guess. Which shape will burn fastest, and which will burn slowest? Why do you think so?
-- **fair test:** Every piece is cut from the same newspaper and is exactly 20 centimetres by 20 centimetres, so it has the same weight. The adult lights each piece at its bottom edge with a match, in the same place, in a room with no fan. The timer starts when the paper catches fire, and stops when the last flame goes out. Only the shape changes, so any difference comes from the shape. Each shape is tested twice.
+- **fair test:** Every piece is cut from the same newspaper and is exactly 20 centimetres by 20 centimetres, so it has the same weight. The adult lights each piece at its bottom edge with a match, in the same place, in a room with no fan. The timer starts when the paper catches fire, and stops when the last flame goes out. Only the shape changes, so any difference comes from the shape. Each shape is tested twice. Keep the paper dry: in damp weather, leave it in the sun or in a warm room for ten minutes before you start, because damp paper burns slowly and unevenly.
 - **safety:** A grown-up lights and holds every piece. Burn the paper over the steel sink or tray, away from curtains, with a bucket of water beside you. Tie back long hair and loose sleeves. Open a window.
 - **record:** Write the time for each try and whether any paper stayed unburnt. Then draw a bar chart with one bar for each shape, using the average of the two tries.
 - **results table:** Shape | Time to burn: try 1 (seconds) | Time to burn: try 2 (seconds) | Did the middle go out and stay unburnt?
@@ -260,7 +260,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent says:* The three shapes are made of exactly the same paper. Which one will burn fastest? Which will burn slowest? Why do you think so?  
   *Child mode:* Same paper in three shapes. Which burns fastest? Which burns slowest? Why?
   - Ask: Why do you think that shape will burn fastest? (good: It has more air around it.; It is packed tight, so it burns slowly.; The flame can reach more of it.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. With two to four children, every child writes their own guess. Split the jobs: one child cuts and shapes, one runs the stopwatch, one writes in the table, one draws the chart, and swap for the second try. With one child, cut and shape together, and let the child time and write while you light.
 - **s2 (8 min)**  
   *Parent does:* Cut six pieces of newspaper, each 20 centimetres square. Leave two flat. Crumple two loosely into balls. Roll two tightly round a pencil, and slide the pencil out.  
   *Parent says:* Measure each piece with the ruler. Make them all the same size. Two stay flat, two become loose balls, and two become tight rolls.  
@@ -272,7 +272,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent says:* I hold the paper over the sink and light the bottom. When it catches, you press start. When the last flame is out, you press stop. Read me the time.  
   *Child mode:* A grown-up lights the paper. You time it. Start when it catches. Stop when it is out.
   - Ask: What do you see the flame doing as it moves along the paper? (good: It runs up the paper.; It moves where there is more paper to burn.; It leaves ash behind.)
-  - Note: The flat piece may burn in only a few seconds. Count a few more seconds to be sure the glow has gone. If a piece drops, let it burn out in the sink. Never lean over the flame.
+  - Note: The flat piece may burn in only a few seconds. Count a few more seconds to be sure the glow has gone. If a piece drops, let it burn out in the sink. Never lean over the flame. Only one grown-up lights, one piece at a time, and the other children stand an arm's length back. Typical times, only as a guide: a flat sheet about 5 to 15 seconds, a loose ball about 10 to 30 seconds, a tight roll about 30 seconds to over a minute. Yours will differ.
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* Burn the loose ball and the tight roll in the same way, one at a time. Burn the second flat piece, the second ball and the second roll. Write each time. Note if any middle stayed unburnt.  
   *Parent says:* Now the loose ball, and then the tight roll. Time each one. Look at the middle of the roll when it is done. Is any paper left?  
@@ -284,14 +284,14 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent does:* Draw a bar chart with one bar for each shape, using the average of the two tries. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Draw a bar for each shape. Say what you thought, what you saw, and why.
-  - Note: A strong answer says that the flame needs air to reach the paper, and the more of the paper is open to the air, the faster it burns. The tight roll has little air inside it. After they have said what they saw, explain: burning goes only where oxygen touches the fuel. Many families find the roll slowest and the others faster, but yours may differ.
+  - Note: A strong answer says that the flame needs air to reach the paper, and the more of the paper is open to the air, the faster it burns. The tight roll has little air inside it. After they have said what they saw, explain: burning goes only where oxygen touches the fuel. Many families find the roll slowest and the others faster, but yours may differ. The flat sheet and the loose ball can come out in either order, because a flat sheet burns fast but a loose ball keeps smouldering. Whatever you find, that is a real result: ask what in the shape could explain it.
   - Think: Why did the shapes made of the same paper burn at different speeds?
 ### e2 · Lighter or Heavier? Burning steel wool on a homemade balance (30 min)
 - **question:** Two equal tufts of steel wool hang from the ends of a balance. If a grown-up burns one of them, will that side go up, go down, or stay level?
 - **predict:** Before you start, guess. When one tuft burns, will its side of the balance go up, go down or stay level? Why do you think so?
 - **fair test:** Both tufts are pulled from the same pad of steel wool and hung the same distance from the middle. The balance is level before anything is lit. Only one tuft is burned, and the other is the control. Any change in the balance comes from the burning.
-- **safety:** A grown-up lights the steel wool. It glows and throws tiny sparks. Work over a steel tray, away from curtains and paper, with a bowl of water close by. Do not touch the burnt wool until it has cooled for ten minutes.
-- **record:** In the table, write what the balance did before burning, during burning and after cooling. Draw the balance in all three moments.
+- **safety:** A grown-up lights the steel wool. It glows and throws tiny sparks. Work over a steel tray, away from curtains and paper, with a bowl of water close by. Do not touch the burnt wool until it has cooled for ten minutes. Keep faces an arm's length away and do not breathe the smoke. Hang the balance at least 30 centimetres below any shelf or ceiling, and wash your hands after touching steel wool, because tiny slivers can prick.
+- **record:** In the table, write what the balance did before burning, during burning and after cooling. Draw the balance in all three moments. Also measure with the ruler how high each end sits above the table, before and after, in millimetres.
 - **results table:** Moment | Is the balance level, or which side is lower? | What does the burned tuft look like?
 - **s1 (5 min)**  
   *Parent does:* Show your child the steel wool. Say that one tuft will be burned. Ask for a guess about the balance, and the reason. Write it down.  
@@ -300,10 +300,10 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Why do you think it will go up? (good: The fire eats it, so it gets lighter.; Burning takes things away.; The smoke carries bits away.)
   - Note: Most families guess it will go up, because burning seems to use things up. Do not correct the guess. Write it down.
 - **s2 (8 min)**  
-  *Parent does:* Tie a thread round the middle of the skewer. Tie its other end to a pencil taped to a shelf edge. Slide the thread until the skewer hangs level. Hook two paper clips at the ends, the same distance from the middle.  
-  *Parent says:* The thread goes round the middle of the stick. Slide it until the stick hangs flat. Then hang one paper clip at each end, the same distance from the middle.  
+  *Parent does:* Tie a thread round the middle of the skewer. Tie its other end to a pencil taped to a shelf edge. Slide the thread until the skewer hangs level. Tie a short thread to each end. Hang a straightened paper-clip hook on it, about 8 centimetres long. This keeps the wool well below the thread. Keep both the same distance from the middle.  
+  *Parent says:* The thread goes round the middle of the stick. Slide it until the stick hangs flat. Then hang one paper-clip hook at each end, the same distance from the middle.  
   *Child mode:* Hang the stick from its middle. Make it level. Hang a clip at each end.
-  - Note: Make this balance first, without the steel wool. It will swing and wobble. Wait until it is still. Tape or clay a tiny weight to the higher end if it will not level.
+  - Note: Make this balance first, without the steel wool. It will swing and wobble. Wait until it is still. Tape or clay a tiny weight to the higher end if it will not level. With two to four children, one builds the balance, two make and weigh the tufts by eye and by hand, one is the recorder, and everyone writes a guess. With one child, build it together.
   - Check: Why must the balance hang level before anything is burned? → **So we can tell if burning changed it**
 - **s3 (5 min)**  
   *Parent does:* Pull two tufts from the steel wool, each about the size of a walnut. Fluff each one gently. Push one onto each paper clip. Adjust the tufts until the balance is level again.  
@@ -315,18 +315,18 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent says:* I light one tuft, and then we step back. Watch it glow. See how the glow spreads. What is happening to the balance while it burns?  
   *Child mode:* A grown-up lights one tuft. Watch it glow. Stay back. Watch the balance.
   - Ask: What do you see happening to the steel wool as it burns? (good: It glows orange.; It turns dark grey.; It sparkles.)
-  - Note: If the tuft only glows a little and stops, light it again at another spot. If it does not burn at all, it is probably stainless steel wool, which will not work. A few sparks may drop. The tray will catch them. Wait until it is cold before you touch it.
+  - Note: Hold the flame on the tuft for several seconds until a red glow starts, then step back. If the tuft only glows a little and stops, light it again at another spot. Often not all of the wool burns, and that is fine. If it does not burn at all, it is probably stainless steel wool, which will not work. A few sparks may drop. The tray will catch them. Wait until it is cold before you touch it. While you wait, draw the balance.
 - **s5 (5 min)**  
   *Parent does:* When the burnt tuft is cold, look at the balance. Which side is lower? Draw it. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Which side is lower? Draw it. Say what you thought, what you saw, and why.
-  - Note: In most tries, the burnt side goes down. It is a big surprise. After they have said what they saw, explain: iron is a solid, so nothing floats away. As it burns, it joins with oxygen from the air and becomes a solid iron oxide. The extra weight is oxygen. If the balance did not tilt, little of the wool burned, so try again with a looser tuft.
+  - Note: In most tries, the burnt side goes down, often by only a few millimetres to a couple of centimetres, because only part of the wool burns and the extra weight is small (typically a few percent of the wool's weight). Measure the drop with the ruler. It is a big surprise. After they have said what they saw, explain: iron is a solid, so nothing floats away. As it burns, it joins with oxygen from the air and becomes a solid iron oxide. The extra weight is oxygen. If the balance did not tilt, little of the wool burned, so try again with a looser, fluffier tuft. If you have a kitchen scale that reads to 0.1 gram, you can also weigh a tuft before and after burning.
   - Check: The burnt steel wool is heavier. Where did the extra weight come from? → **Oxygen from the air that joined with the iron**
   - Think: The steel wool burned, so why did its side get heavier?
 
 ## Activities
 ### a1 · Catch What a Flame Makes: water and soot from a candle (20 min)
-- **safety:** A grown-up lights the candle and holds the katori and spoon over it. Tie back long hair and loose sleeves. Keep the candle away from curtains and paper. The spoon and the katori's underside get hot or sooty, so do not touch them for a minute.
+- **safety:** A grown-up lights the candle and holds the katori and spoon over it. Use a spoon with a long handle, and keep ice water away from the flame, because a drip can put it out. Tie back long hair and loose sleeves. Keep the candle away from curtains and paper. The spoon and the katori's underside get hot or sooty, so do not touch them for a minute.
 - **record:** Draw the two katoris after the test, and the spoon. Write what each one caught, and where you think it came from.
 - **s1 (3 min)**  
   *Parent does:* Show your child the candle and the cold katori. Ask what they think will happen to the katori when held above the flame. Write down their guess and the reason.  
@@ -335,20 +335,20 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Where do you think anything on the bowl will come from? (good: From the candle.; From the air.; The wax turns into it.)
   - Note: Do not correct the guess. Any guess with a reason is good. Some children will say that nothing happens, and that is fine.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* Fill both katoris with ice water. Wipe the outsides dry. Light the tea-light. Hold one katori 3 centimetres above the flame tip. Hold the other at the same height beside the flame. Count to 20.  
+  *Parent does:* Fill both katoris with ice water. Wipe the outsides dry. Light the tea-light. Hold one katori 3 centimetres above the flame tip. Hold the other at the same height beside the flame. Count to 20. Note how many seconds pass before the first mist appears on each katori.  
   *Parent says:* Two cold bowls, wiped dry. One goes over the flame. The other stays beside it. We count to twenty. Now look at the outsides of both.  
   *Child mode:* Hold one cold bowl over the flame. Hold one beside it. Count to 20. Look at both.
   - Ask: How are the two katoris different? Why would they be different? (good: The one over the flame is wetter.; The flame made drops.; The one beside the flame is nearly dry.)
-  - Note: On a humid day, the bowl beside the flame will fog a little too, because cold steel makes water out of the room air. That is why we have two bowls. The bowl over the flame should be clearly wetter, with big drops that run. If both look the same, hold the first bowl lower, and count to 30.
+  - Note: On a humid day, the bowl beside the flame will fog a little too, because cold steel makes water out of the room air. That is why we have two bowls. The bowl over the flame should be clearly wetter, with big drops that run. If both look the same, hold the first bowl lower, and count to 30. Typically the bowl over the flame mists within about 5 to 15 seconds and shows running drops by 20 to 30 seconds. Make sure the katori is really cold, so use plenty of ice. With two to four children, one child holds the stopwatch, one watches the bowl over the flame, one watches the control bowl, and one writes down the times, and then swap for the spoon and breath tests. With one child, the child counts and watches while you hold.
   - Check: Why do we hold a second cold bowl beside the flame? → **To see if the drops come from the room air and not the flame**
 - **s3 (4 min) · grown-up needed**  
-  *Parent does:* Hold the steel spoon in the yellow tip of the flame for two seconds. Take it out. Look at the underside. Rub the black patch with a wet finger.  
+  *Parent does:* Hold the steel spoon in the yellow tip of the flame for two seconds. Take it out. Look at the underside. Rub the black patch with a wet finger. Then hold a second, clean spoon just above the flame tip, outside the yellow. Keep it there for two seconds. Compare the two spoons.  
   *Parent says:* Now the spoon, in the yellow tip, for two seconds. Look at the black patch. Rub it with a wet finger. What is it? Where did it come from?  
   *Child mode:* A grown-up holds the spoon in the flame for two seconds. Look at the black patch. What is it?
   - Ask: What do you think the black patch is made of? (good: Smoke.; Burnt wax.; Black dust from the candle.)
-  - Note: The black patch is soot, which is carbon from the wax that did not burn completely. If the spoon is clean, hold it in the yellow tip a little longer, but not in the blue base.
+  - Note: The black patch is soot, which is carbon from the wax that did not burn completely. If the spoon is clean, hold it in the yellow tip a little longer, but not in the blue base. The spoon held outside the yellow should stay almost clean. That comparison shows that soot comes from the yellow part.
 - **s4 (3 min)**  
-  *Parent does:* Breathe out slowly onto a cold steel plate, as you would onto a mirror. Look at the fog. Compare it with the drops on the katori from the flame.  
+  *Parent does:* Breathe out slowly onto a cold steel plate or a mirror. If you have none, breathe on the outside of a katori of ice water. Look at the fog. Compare it with the drops on the katori from the flame.  
   *Parent says:* Breathe out slowly onto the cold plate. What do you see? How is it like what the flame made?  
   *Child mode:* Breathe on the cold plate. What do you see? Is it like the flame's drops?
   - Ask: Why do you think your breath and the flame make the same thing? (good: Both make water.; We burn food.; Both give out something wet.)
@@ -360,7 +360,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Note: A strong answer says that the candle made water and soot, so the wax changed into new things. After they have said what they saw, explain: wax is made of carbon and hydrogen. In the flame, the hydrogen joins with oxygen from the air and makes water vapour. The carbon makes invisible carbon dioxide, and a little is left as soot.
   - Think: The candle is wax. How can a flame make water?
 ### a2 · Blue or Yellow? Read the stove flame (15 min)
-- **safety:** A grown-up works the stove and the flame. Keep long hair tied back and sleeves rolled up. Use only a few grains of salt, so the burner holes do not clog. If you have no gas stove, use the candle for all steps.
+- **safety:** A grown-up works the stove and the flame. Keep long hair tied back and sleeves rolled up. Use only a few grains of salt, and do not drop any on the burner, so the holes do not clog. The spoon gets hot, so use a long-handled spoon and keep it in the flame only a few seconds. If you have no gas stove, use the candle for the flame comparison and skip the salt, because the candle's yellow glow hides the colour change.
 - **record:** Draw the stove flame and the candle flame side by side, with colours. Write where each one makes soot, and which one has air holes.
 - **s1 (4 min)**  
   *Parent does:* Look at the unlit burner with your child. Find the small holes around its edge. Ask what they think the holes are for. Write down the guess.  
@@ -369,19 +369,20 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: What do you think comes in through the holes? (good: Air.; The gas.; Air to help the fire.)
   - Note: The holes let air mix with the gas before it burns, so that there is plenty of oxygen. Do not explain yet. Let your child guess first.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* The grown-up lights the burner. Compare its flame with the tea-light. Hold the cold plate for two seconds above each flame. Look at the colour of the stove flame and the candle flame. Look for soot on the plate.  
-  *Parent says:* What colour is the stove flame? What colour is the candle? Now watch the plate over each one. Which one leaves soot?  
+  *Parent does:* The grown-up lights the burner. Compare its flame with the tea-light. Look at the colour of the stove flame and the candle flame. Then hold a clean steel spoon for two seconds just inside the tip of the stove flame. Hold a second clean spoon for two seconds in the yellow tip of the candle flame. Look for soot on each spoon.  
+  *Parent says:* What colour is the stove flame? What colour is the candle? Now look at the two spoons. Which one has soot?  
   *Child mode:* Look at the stove flame and the candle flame. Which colour is each? Which leaves soot?
   - Ask: Why do you think the candle flame is yellow and the stove flame blue? (good: The stove has more air.; The candle has soot in it.; The stove has air holes.)
-  - Note: The blue flame should leave little or no soot. The yellow candle flame should leave a black patch. A stove flame that is yellow, and that makes the bottoms of pans black, needs its burners cleaned. Ask the gas mechanic to look at it.
+  - Note: The blue flame should leave little or no soot. The yellow candle flame should leave a black patch. A stove flame that is yellow, and that makes the bottoms of pans black, needs its burners cleaned. Ask the gas mechanic to look at it. Typically the stove spoon stays clean and the candle spoon turns black in two seconds. With two to four children, each draws one flame while one child, then another, reads the colour aloud; only the grown-up holds the spoons. With one child, the child draws and you hold.
   - Check: A pan on the stove has a thick black layer on its bottom. What does this most likely mean? → **The flame has been burning with too little air and making soot**
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* Wet the steel spoon. Dip it in a little salt so a few grains stick. Hold the spoon at the edge of the blue flame. Watch the flame near the spoon change colour.  
   *Parent says:* Dip a wet spoon into the salt, so a few grains stick. Hold it at the edge of the flame. What colour does the flame turn? Why do you think it changed?  
   *Child mode:* A grown-up holds a salty spoon in the flame. What colour does it turn?
   - Ask: What do you think the salt does to the flame? (good: It changes the colour.; The salt burns.; Something in the salt gives light.)
-  - Note: The flame near the spoon should flash a bright yellow-orange. That is the colour of sodium, one of the atoms in salt. After they have answered, tell them that every element gives its own colour of light when it is heated. Fireworks use this for their colours.
+  - Note: The flame near the spoon should flash a bright yellow-orange for a few seconds. If you see little, use a few more grains and a wetter spoon, and try the edge of the flame. That is the colour of sodium, one of the atoms in salt. After they have answered, tell them that every element gives its own colour of light when it is heated. Fireworks use this for their colours.
 ### a3 · The Gas Smell Drill: what to do if you smell LPG (15 min)
+- **safety:** No gas is let out and no flame is lit in this drill: it is only a practice. Do not try to smell for a real leak by sniffing at the pipe. If you ever do smell gas, do the steps for real. A grown-up can check pipe joints for a leak with soapy water brushed on them, because bubbles that grow show a leak, but never with a flame.
 - **record:** Write the five steps in order on a card and stick it near the kitchen, with the emergency numbers beside it.
 - **s1 (4 min)**  
   *Parent does:* Say that cooking gas has no smell of its own, and that a smelly chemical is added on purpose. Ask your child why they think this is done.  
@@ -390,7 +391,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Why would a company add a bad smell to gas? (good: So we notice a leak.; To warn us.; Because we could not tell otherwise.)
   - Note: The smell is a chemical called ethyl mercaptan. It is added so that a leak can be noticed before the gas builds up. Gas mixed with air in the right amounts can catch fire or explode from a single spark.
 - **s2 (6 min)**  
-  *Parent does:* Walk through the five steps with your child, in order. First, no flames or switches. Then turn off the regulator, open windows and doors, go outside, and call for help. Let them point at each place as you go.  
+  *Parent does:* Walk through the five steps with your child, in order. First, no flames or switches. Then turn off the regulator, open windows and doors, go outside, and call for help. Let them point at each place as you go. With two to four children, give each child one job (regulator, windows, calling) and then swap.  
   *Parent says:* If we smell gas, first we touch no flames and no switches. Then we turn off the regulator, open every window, go outside, and call for help.  
   *Child mode:* No flames. No switches. Turn off the regulator. Open windows. Go outside. Call for help.
   - Ask: Why must we not switch on a light when we smell gas? (good: A spark could set the gas on fire.; Switches make sparks.; The gas could explode.)
@@ -405,7 +406,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 
 ## Projects
 ### p1 · Pour Out a Fire: make carbon dioxide and put out a candle (40 min)
-- **safety:** A grown-up lights the candle. Do not pour the liquid on the candle. Hold the jar tilted only so that the gas pours out, and keep the foam inside. Keep the candle away from curtains and paper.
+- **safety:** A grown-up lights the candle. Keep the jar mouth away from faces, and rinse well with water if vinegar gets in an eye. Do not pour the liquid on the candle. Hold the jar tilted only so that the gas pours out, and keep the foam inside. Keep the candle away from curtains and paper.
 - **record:** Draw the jar, the candle in the bowl, and an arrow showing the invisible gas pouring. Write why the flame went out.
 - **s1 (5 min)**  
   *Parent does:* Show your child the jar, the baking soda, the vinegar and the candle in its bowl. Ask for a guess about what will happen when you tilt the fizzing jar over the flame. Ask for a reason.  
@@ -414,18 +415,18 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Why do you think the flame will or will not change? (good: The gas will put it out.; Nothing will happen, as you cannot see the gas.; The gas will make it bigger.)
   - Note: Do not correct the guess. Any guess with a reason is good. Most children expect nothing, because the gas cannot be seen.
 - **s2 (10 min)**  
-  *Parent does:* Put 3 spoons of baking soda in the jar. Pour in 100 millilitres of vinegar. It fizzes. Wait until the fizz calms down, about one minute. Keep the jar upright.  
+  *Parent does:* Put 3 spoons of baking soda in the jar. Pour in 100 millilitres of vinegar. It fizzes. Wait until the fizz calms down, about one minute. Then pour within the next minute or two, before the gas mixes with the air. Keep the jar upright.  
   *Parent says:* Put the baking soda in the jar. Add the vinegar. It fizzes. That fizz is a gas. Wait until it calms down.  
   *Child mode:* Put baking soda in the jar. Add vinegar. Watch it fizz. Wait until it calms.
   - Ask: What do you see in the jar? What do you think the bubbles are? (good: A gas.; Air.; Something new being made.)
   - Note: Baking soda and vinegar react and make carbon dioxide. This is a chemical reaction, because a new gas appears and it cannot be turned back. Place the jar on a tray in case the foam rises over the top.
   - Check: Why do we say that making the fizz is a chemical reaction? → **A new gas is made that was not there before**
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* The grown-up stands the tea-light in the deep bowl and lights it. Hold the jar over the bowl. Tilt it slowly, as if pouring water, but keep the liquid in. Stop if the foam reaches the rim.  
+  *Parent does:* The grown-up stands the tea-light in the deep bowl and lights it. First, as a control, tilt the empty second jar over the bowl in the same way. Watch that the flame stays alight. Then hold the fizzing jar over the bowl. Tilt it slowly, as if pouring water, but keep the liquid in. Stop if the foam reaches the rim.  
   *Parent says:* Tilt the jar slowly over the bowl, as if pouring water. Keep the liquid in the jar. Watch the flame. What happens?  
   *Child mode:* A grown-up lights the candle. Tilt the jar like pouring. Keep the liquid in. Watch the flame.
   - Ask: What happened to the flame? What was poured out of the jar? (good: It went out.; An invisible gas.; Carbon dioxide.)
-  - Note: The flame should go out within a few seconds as the gas sinks into the bowl. If it does not, make a fresh jar, tilt it closer to the flame and tilt it more steeply. The candle should sit well below the rim of the bowl so that the gas pools around it.
+  - Note: The flame should go out within a few seconds as the gas sinks into the bowl, while the empty jar did nothing. That control shows it is the gas and not the tilting. If it does not go out, make a fresh jar, tilt it with its lip almost touching the bowl rim, and tilt it more steeply. It may take two or three tries, and that is normal. With two to four children, one measures the soda, one pours the vinegar, one tilts the jar and one watches and writes, and then swap with a fresh jar. With one child, the child tilts while you light. The candle should sit well below the rim of the bowl so that the gas pools around it.
 - **s4 (10 min)**  
   *Parent does:* Light the candle again. Ask your child to explain what happened, and why. Draw the jar and the arrow of gas. Try once more.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the flame went out?  
@@ -447,11 +448,11 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Where should air go in, and where should it go out? (good: In at the sides, out at the middle.; One hole is enough.; Hot gas goes up, so out at the top.)
   - Note: Hot air and gas from a flame rise. This pulls fresh air in from below, if it has a way in. A lid with only one hole makes the air go out and in by the same hole, which does not work well.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Make the first lid from foil. A grown-up lights the candle and puts the lid on. Start the timer. Write the time when the flame goes out. Make a change to the lid, and test again. Change only one thing each time.  
+  *Parent does:* Make the first lid from foil. A grown-up lights the candle and puts the lid on. Start the timer. Write the time when the flame goes out. Make a change to the lid, and test again. Change only one thing each time. For a baseline, first test a lid with no holes at all.  
   *Parent says:* Make your first lid. I will light the candle and put it on. You start the timer. When the flame goes out, write down the time.  
   *Child mode:* A grown-up lights the candle and puts on your lid. Time the flame. Write the time.
   - Ask: What did you change between tests? What difference did it make? (good: I added a hole at the edge.; I made a tube.; The flame lasted longer.)
-  - Note: A lid with holes near the edge and one hole in the middle usually lets the flame burn much longer than a lid with a single hole. A rolled card tube over the middle hole often helps further. The jar and foil get hot, so do not touch them until they have cooled. Let the grown-up show the flow of air with a puff of incense smoke near the holes.
+  - Note: A lid with no holes usually puts the flame out in well under a minute (typically 10 to 40 seconds, depending on the jar). A lid with holes near the edge and one hole in the middle usually lets the flame burn much longer than a lid with a single hole. A rolled card tube over the middle hole often helps further. The jar and foil get hot, so do not touch them until they have cooled, about three minutes, and use a second jar for the next test if you are in a hurry. Only the grown-up lights the candle and fits the lid, and keeps hair and sleeves away from the flame. Keep the lid card away from the flame. With two to four children, each child designs their own lid and the others take turns timing and writing. With one child, the child times and you light. Let the grown-up show the flow of air with a puff of incense smoke near the holes.
   - Check: Your flame lasts much longer after you add small holes near the edge of the lid. Why? → **Fresh air can now flow in, while the hot gas goes out of the middle**
 - **s3 (10 min)**  
   *Parent does:* Compare all your lids. Which lasted longest? Why? Draw the best lid, with arrows showing the air going in and out.  
@@ -686,7 +687,7 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 
 ## Things to buy
 - [A pack of tea-light candles](https://www.amazon.in/s?k=tea+light+candles+pack) (material): For the flame activity, the candle pouring project and the lid challenge. They burn for about four hours each, and are sold at most stationery and gift shops. Used in a1, p1, c1. 
-- [Fine steel wool, grade 0 or finer](https://www.amazon.in/s?k=fine+steel+wool+grade+0000) (material): For the steel wool balance. It is sold at hardware shops and for polishing wood. A stainless steel kitchen scrubber will not burn. Used in e2. 
+- [Fine steel wool, grade 0 or finer](https://www.amazon.in/s?k=fine+steel+wool+grade+0000) (material): For the steel wool balance. It is sold at hardware shops and for polishing wood. A stainless steel kitchen scrubber (the shiny jaali kind) will not burn. Ask for "steel wool 0000" at a paint or hardware shop; it costs about Rs 50 to 150 and one pad is plenty for several tries. Used in e2. 
 
 ## Warm-up
 - What two things does a burning candle make that we cannot see? → Carbon dioxide and water vapour.

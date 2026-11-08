@@ -455,7 +455,7 @@
     }
    ],
    "rules": [
-    "One player is the garden keeper. The other players are bees. With two players, swap roles for a second game.",
+    "One player is the garden keeper. The other players are bees. With two players, swap roles for a second game. With one child, the parent is the garden keeper. Bees write their pick on their own sheet before anyone says nectar, so they cannot copy each other.",
     "The keeper shuffles the three rule cards and lays them face down in a row. Nobody looks at them. The first card is the rule for rounds 1 to 8. The second is for rounds 9 to 16. The third is for rounds 17 to 24.",
     "Each round, every bee writes B, Y or R on their own score sheet to pick blue, yellow or red. The keeper looks at the rule for that block.",
     "The keeper says nectar to each bee who picked the paying colour, and nothing to each bee who did not. Bees circle their box if they got nectar.",
@@ -666,8 +666,8 @@
    },
    "setup": [
     {
-     "art": "A paper scoring card with three lines: 0 means no movement, 1 means a blink or a small twitch, 2 means a clear jump or a head turn.",
-     "caption": "1. Make a scoring card: 0 is no movement, 1 is a twitch, 2 is a jump."
+     "art": "A paper scoring card with three lines: 0 means no movement, 1 means a small shoulder twitch, 2 means a clear jump or a head turn.",
+     "caption": "1. Make a scoring card: 0 is no movement, 1 is a small shoulder twitch, 2 is a jump."
     },
     {
      "art": "A volunteer sitting at a table facing away, doing a colouring page, while a child stands one arm's length behind with a steel plate and spoon.",
@@ -710,10 +710,10 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Make a scoring card with three lines. Score 0 means no movement. Score 1 means a blink or a small twitch. Score 2 means a clear jump or a turn of the head.",
-     "say": "We must agree how to score before we start. Zero is no movement. One is a blink or a twitch. Two is a clear jump or a head turn.",
+     "do": "Make a scoring card with three lines. Score 0 means no movement. Score 1 means a small shoulder twitch or head tilt. Score 2 means a clear jump or a turn of the head.",
+     "say": "We must agree how to score before we start. Zero is no movement. One is a small shoulder twitch or head tilt. Two is a clear jump or a head turn.",
      "kid": "Make a scoring card. Zero is no move. One is a twitch. Two is a jump.",
-     "parent": "If a second person can watch and score too, you can compare scores at the end. Decide the three scores now, so that you do not change the rule halfway.",
+     "parent": "The ringer stands behind, so score only what you can see from behind: shoulders and head. With 2 to 4 children, one rings and one sits to the side and scores; swap roles for the second volunteer, and compare scorers at the end. Decide the three scores now, so that you do not change the rule halfway.",
      "check": {
       "t": "mcq",
       "q": "Why do we agree on the scoring card before the first ring?",
@@ -743,7 +743,7 @@
        ]
       }
      ],
-     "parent": "Ring the spoon the same way every time, about a hand-width above the plate, so that each ring is equally loud. Write each score at once. If the volunteer tenses up before each ring, make the gaps uneven, between 10 and 20 seconds, and say so in the table.",
+     "parent": "Ring the spoon the same way every time, about a hand-width above the plate, so that each ring is equally loud. Write each score at once. Adults who know a sound is coming may hardly jump at all, even at ring 1. If the first three rings all score 0, ring harder (hit a steel lid or the plate base with the spoon, still at normal indoor loudness) or use a child volunteer, and write down what you changed. If the volunteer tenses up before each ring, make the gaps uneven, between 10 and 20 seconds, and say so in the table.",
      "context": "In this step you ring the spoon 12 times behind the first volunteer and score each jump."
     },
     {
@@ -801,7 +801,7 @@
      "say": "Tell me three things. What do you think happened? What did you see in the scores? Why do you think it happened?",
      "kid": "Draw a line for each volunteer. Say what you think, what you saw and why.",
      "think": "If the person were only tired, would a new sound make them jump?",
-     "parent": "A strong answer says that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the next spoon rings also jump a little more after the tin, that is called dishabituation. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
+     "parent": "A common pattern is that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the next spoon rings also jump a little more after the tin, that is called dishabituation. Real jumps are uneven, so a few ups and downs in the line are normal. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
      "context": "This is the last step of the Spoon Test. You draw the graph and say what you found."
     }
    ]
@@ -888,7 +888,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Each learner uses both lists. Person one crams list A and spreads list B. Person two crams list B and spreads list A.",
+     "parent": "Do not correct the guess. Each learner uses both lists, and the two learners test each other the next day. With 3 or 4 children, work in pairs. Person one crams list A and spreads list B. Person two crams list B and spreads list A.",
      "context": "This is the first step of Crammed or Spread Out. You make the two lists and guess."
     },
     {
@@ -936,7 +936,7 @@
        ]
       }
      ],
-     "parent": "Do not give hints. A difference of one word can happen by chance, because a list of eight is short. A difference of three or more across both learners is a clearer sign. If the lists came out equal, write that, and try again with a longer list on another day.",
+     "parent": "Do not give hints. A difference of one word can happen by chance, because a list of eight is short. A difference of three or more across both learners is a clearer sign. If both lists score 7 or 8, the words were too easy to show a difference: test again three days later, without looking at the slips, and use those scores. If the lists came out equal, write that, and try again with a longer list on another day.",
      "context": "In this step you test both lists the next day and count the words that stayed."
     },
     {
@@ -956,7 +956,7 @@
   {
    "id": "a1",
    "title": "What Have You Stopped Noticing?",
-   "mins": 10,
+   "mins": 15,
    "days": 1,
    "materials": [
     {
@@ -971,11 +971,11 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Listen for sounds, list things touching your body, and find out what you had stopped noticing."
+     "mins": 15,
+     "what": "Guess how many sounds there are, then count them in two rooms. List things touching your body, and find out what you had stopped noticing."
     }
    ],
-   "record": "A list of sounds you did not hear until you listened, and a list of five things touching your body that you had forgotten.",
+   "record": "The number of sounds you guessed and the number you counted in each room, a list of sounds you did not hear until you listened, and a list of five things touching your body that you had forgotten.",
    "context": "In this short activity you find things around you that you had stopped noticing. It is a way into the question of how and why we stop.",
    "setup": [
     {
@@ -990,10 +990,10 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
-     "do": "Ask your child to sit very still with their eyes closed for 30 seconds. They count each different sound on their fingers. Write the list.",
+     "mins": 8,
+     "do": "First ask your child to guess how many different sounds they will hear in 30 seconds. Then they sit very still with their eyes closed for 30 seconds and count each different sound on their fingers. Write the guess and the count. Repeat in a second room, such as the kitchen and a bedroom, and compare the two counts.",
      "say": "Close your eyes. Count every sound you hear for 30 seconds. Count the quiet ones too.",
-     "kid": "Sit very still. Close your eyes. Count every sound for 30 seconds.",
+     "kid": "Guess how many sounds. Sit very still, close your eyes and count for 30 seconds. Do it in two rooms.",
      "ask": [
       {
        "q": "Which of those sounds were there ten minutes ago, but you did not hear them?",
@@ -1004,8 +1004,8 @@
        ]
       }
      ],
-     "parent": "Do not name any sounds. Just write down what your child says. Most homes have at least five sounds that nobody was hearing.",
-     "context": "In this step you listen for 30 seconds and count the sounds in your home."
+     "parent": "Do not name any sounds. Just write down what your child says. Most homes have at least five sounds that nobody was hearing. With 2 to 4 children, each counts alone and writes their own list, then compare: did everyone hear the same sounds?",
+     "context": "In this step you guess, then listen for 30 seconds in two rooms and count the sounds in your home."
     },
     {
      "id": "s2",
@@ -1056,7 +1056,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "8 square sheets of paper, about 20 centimetres wide, from old newspaper or notebook pages",
+     "item": "8 sheets of A4 paper or newspaper pages cut to a rectangle",
      "qty": 8
     },
     {
@@ -1096,7 +1096,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Pick a fold your child can make but a parent does not know, such as a paper boat, hat or cup. Time your child making it alone. Write the seconds.",
+     "do": "Pick a fold your child can make but a parent does not know. Most adults know the plain paper boat. If yours does, use a jumping frog or a tulip, and read 'boat' below as that fold. Time your child making it alone. Write the seconds.",
      "say": "Make the paper boat as fast as you neatly can, all alone. I will time you.",
      "kid": "Make a paper boat all alone. Ask a grown-up to time you.",
      "parent": "If your child does not know a fold yet, spend five minutes learning one from a video first. Choose a fold that takes about a minute.",
@@ -1118,13 +1118,13 @@
        ]
       }
      ],
-     "parent": "Meerkat helpers do the same. They first give young pups dead scorpions, then crippled ones, then live ones. Do not explain this yet. Let your child notice what they did as the teacher.",
+     "parent": "Meerkat helpers do the same. They first give young pups dead scorpions, then crippled ones, then live ones. Time each level and add them up. With 2 to 4 children, one teaches, one or two learn, and one times. For a fair comparison, let one learner only watch the fold once at full speed, then both learners try a plain sheet: who finished faster? Do not explain this yet. Let your child notice what they did as the teacher.",
      "context": "In this step you teach a parent a fold in three levels, from easy to hard."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Compare the time your child took alone with the total time they took teaching. Ask what teaching cost them.",
+     "do": "Compare the time your child took alone with the total time they took teaching. If you had two learners, compare how fast the taught learner and the watch-once learner folded a plain sheet. Ask what teaching cost the teacher, and what it gave the learner.",
      "say": "How long did it take you alone? How long did it take to teach me? What did teaching cost you?",
      "kid": "Compare the two times. What did teaching cost you?",
      "check": {
@@ -1181,7 +1181,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw a table with five rows and four columns. The columns are name, food or smell avoided, tries to learn it, and tries to learn a skill. Write the two questions at the top.",
+     "do": "Draw a table with five rows and four columns. The columns are name, food or smell avoided, tries to learn it, and tries to learn a skill. Write the two questions at the top. Before asking, guess which kind of learning took fewer tries.",
      "say": "Question one is, is there a food or smell you avoid because it once made you feel unwell? Question two is, how many tries did a skill like riding a cycle take?",
      "kid": "Draw the table. Write two questions at the top.",
      "parent": "Tell your child to ask only people who are happy to answer, and not to ask for details of any illness. A food that once upset a stomach is enough.",
@@ -1203,7 +1203,7 @@
        ]
       }
      ],
-     "parent": "Many people will say the food took one time, and the skill took many tries. Some people do not recall. Write 'not sure' and move on.",
+     "parent": "Many people will say the food took one time, and the skill took many tries. Some people do not recall. Write 'not sure' and move on. If five people are not at home, phone relatives or pool answers with your brothers and sisters: each child asks two or three people, and you combine the tables.",
      "context": "In this step you ask five people and write down their answers."
     },
     {
@@ -1224,7 +1224,7 @@
    "id": "p1",
    "title": "The Appointment: do the visitors learn the time?",
    "days": 7,
-   "mins": 80,
+   "mins": 130,
    "materials": [
     {
      "item": "a small dish of broken rice and a bowl of clean water, to put on the same ledge or balcony every day",
@@ -1240,32 +1240,32 @@
      "buy": "b-timer"
     }
    ],
-   "safety": "Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. A grown-up puts the dish out on any ledge that is high or has no railing, and your child must never lean over or climb on a ledge.",
+   "safety": "Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. A grown-up puts the dish out on any ledge that is high or has no railing, and your child must never lean over or climb on a ledge. Keep the dish where you can see it. If monkeys, stray dogs or snakes come near, stop feeding, move away and tell a grown-up. Empty and refill the water every day so that mosquitoes cannot breed in it, and check that your building allows feeding birds.",
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Choose a ledge and a time. Put out the dish and water. Write the time any visitor first arrives."
+     "mins": 25,
+     "what": "Choose a ledge and a time. For 20 minutes before that time, write down who visits with no food out. Then put out the dish and water, and write the time any visitor first arrives."
     },
     {
      "day": 2,
-     "mins": 5,
-     "what": "Put out the dish at the same time. Write the time the first visitor arrives."
+     "mins": 15,
+     "what": "Put out the dish at the same time. Sit near the window from 10 minutes before until 20 minutes after, and write the time the first visitor arrives."
     },
     {
      "day": 3,
-     "mins": 5,
-     "what": "Same time, same ledge. Write when the first visitor arrives."
+     "mins": 15,
+     "what": "Same time, same ledge. Sit near the window from 10 minutes before until 20 minutes after, and write when the first visitor arrives."
     },
     {
      "day": 4,
-     "mins": 5,
-     "what": "Same time, same ledge. Write when the first visitor arrives."
+     "mins": 15,
+     "what": "Same time, same ledge. Sit near the window from 10 minutes before until 20 minutes after, and write when the first visitor arrives."
     },
     {
      "day": 5,
-     "mins": 5,
-     "what": "Same time, same ledge. Write when the first visitor arrives."
+     "mins": 15,
+     "what": "Same time, same ledge. Sit near the window from 10 minutes before until 20 minutes after, and write when the first visitor arrives."
     },
     {
      "day": 6,
@@ -1297,8 +1297,8 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 15,
-     "do": "Choose a ledge, balcony or garden spot that birds or squirrels already visit. Choose a time, such as 7:30 in the morning. Put out the dish and water at that time. Write when the first visitor arrives.",
+     "mins": 25,
+     "do": "Choose a ledge, balcony or garden spot that birds or squirrels already visit. Choose a time, such as 7:30 in the morning. For 20 minutes before that time, with no food out, write down who visits. Then put out the dish and water at that time. Write when the first visitor arrives.",
      "say": "We will feed whoever visits, at exactly the same time every day. Then we will see if they learn the time. What do you think will happen? Why?",
      "kid": "Pick a ledge and a time. Put out rice and water. Write when anyone arrives.",
      "ask": [
@@ -1316,11 +1316,11 @@
     },
     {
      "id": "s2",
-     "mins": 20,
-     "do": "On days two to five, put out the dish and water at the same time. Watch from the window. Write the time the first visitor arrives, and who it is.",
+     "mins": 60,
+     "do": "On days two to five, put out the dish and water at the same time. Sit near the window from 10 minutes before until 20 minutes after, doing something quiet. Write the time the first visitor arrives, and who it is.",
      "say": "Put out the dish at the same time again. Watch from a distance. Write when the first visitor comes.",
      "kid": "Put the dish out at the same time. Write when the first visitor comes.",
-     "parent": "Arrivals often drift earlier and then settle close to the feeding time, within about ten minutes. Some days nobody comes, and that is a result too. Write it as it is.",
+     "parent": "Visitors may start to arrive earlier and then settle closer to the feeding time. Five days is short, so there may be no clear change; if so, say that, or carry on for ten days. With 2 to 4 children, one puts out the dish, one watches the clock, one writes. For a group, each can watch a different ledge or a different kind of visitor. Some days nobody comes, and that is a result too. Write it as it is.",
      "context": "In this step you repeat the feeding and the watching on days two to five."
     },
     {

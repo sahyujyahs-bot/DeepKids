@@ -511,7 +511,7 @@
       },
       {
        "f": "A bottle of fizzy drink is still closed. Which push is bigger on the cap?",
-       "b": "Inside gas pushes harder. The gas in the drink is squeezed to about three or four times the push of the air outside, and the cap holds it in."
+       "b": "Inside gas pushes harder. The gas in the drink is squeezed to several times the push of the air outside, and the cap holds it in."
       },
       {
        "f": "A deep-sea fish is pulled up fast to the surface. Her swim bladder swells. Why?",
@@ -563,7 +563,8 @@
      "do": "Cut out the 20 cards and the 9 tokens. Shuffle the cards and put them in a pile. Give each player one of each kind of token.",
      "say": "These cards show things that squash, swell, stick and lift. For each card, we decide which air pushes harder. Is it the air outside, the air inside, or are they the same?",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one of each token.",
-     "context": "This is the first step of Who Pushes Harder. You set up the cards and the tokens."
+     "context": "This is the first step of Who Pushes Harder. You set up the cards and the tokens.",
+     "parent": "Up to four can play: one reader and up to three guessers, because there are three of each token. One child plays alone with a parent as the reader."
     },
     {
      "id": "s2",
@@ -626,11 +627,15 @@
      "qty": 1
     },
     {
-     "item": "a thick sewing needle, a compass point or a thin nail, to make small holes (a grown-up uses this)",
+     "item": "a sewing needle or the point of a compass, to make small holes about 1 millimetre wide (a grown-up uses this)",
      "qty": 1
     },
     {
      "item": "a folded towel to hold the bottle on while the holes are made",
+     "qty": 1
+    },
+    {
+     "item": "a small piece of sticky tape, to cover the hole while you fill the bottle",
      "qty": 1
     },
     {
@@ -650,7 +655,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes with the pointed tool, with the bottle on a folded towel, and pushes away from their hands. Do the test over a basin or a sink.",
+   "safety": "A grown-up makes the holes with the pointed tool, with the bottle on a folded towel, and pushes away from their hands. Do the test over a basin or a sink. Wipe up spilt water at once so nobody slips.",
    "record": "Fill in the table for each test. Then draw the bottle with the hole, and draw arrows for the air at the hole and at the top of the water. Say which air is pushing in which place.",
    "context": "In this experiment, you make a small hole in a water bottle. You find out when the water runs out, and when it stops, and what the air has to do with it.",
    "setup": [
@@ -692,23 +697,23 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most people say it will run out. A guess with a reason is a good start. Write the guess at the top of the table.",
+     "parent": "Do not correct the guess. Most people say it will run out. A guess with a reason is a good start. Write the guess at the top of the table. One child: do all the jobs with your grown-up. Two to four children: share one bottle in turns as holder (finger on the hole), timer and recorder, and swap after each test. With four children, make a second bottle with the same hole and compare the two.",
      "context": "This is the first step of the Bottle with a Hole. You guess before you test."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "A grown-up lays the bottle on a folded towel and twists the needle through the side, about 4 centimetres from the bottom. Make the hole as wide as a matchstick. Dry the bottle.",
-     "say": "I will make the hole. I push the point in with a twist, and I keep my other hand well away. The hole should be about as wide as a matchstick.",
+     "do": "A grown-up lays the bottle on a folded towel and twists the needle through the side, about 4 centimetres from the bottom. Make the hole as thin as the needle, about 1 millimetre. Twist the needle once round to open it a little. Dry the bottle.",
+     "say": "I will make the hole. I push the point in with a twist, and I keep my other hand well away. The hole should be only as thin as the needle.",
      "kid": "A grown-up makes a small hole near the bottom. Keep your hands away.",
      "adult": true,
-     "parent": "A hole about 2 millimetres wide is best. A hole that is too big will keep dribbling with the cap on. If that happens, put a small piece of tape over half of the hole. A hole that is too small makes the flow too slow to see.",
+     "parent": "A hole about 1 to 1.5 millimetres wide is best, which is what a sewing needle gives. A matchstick-wide hole (2 millimetres or more) is too big: the water keeps glugging out, with air bubbles going in through the same hole, even with the cap on. If that happens, put a piece of tape over half of the hole. A hole that is too small makes the flow with the cap off thin and slow, so be patient. Plastic can spring back and close a hole, so twist the needle.",
      "context": "In this step, a grown-up makes the hole near the bottom of the bottle."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Hold the bottle over the basin. Cover the hole with a finger. Fill the bottle with water to three quarters full. Screw the cap on very tight. Lift your finger and count the seconds.",
+     "do": "Hold the bottle over the basin. Cover the hole with tape or a finger. Fill the bottle with water to three quarters full. Screw the cap on very tight. Lift your finger and count the seconds. Do this three times and write the longest and shortest flow.",
      "say": "Finger on the hole. Fill the bottle three quarters full. Screw the cap on very tight. Now lift your finger. Count the seconds the water keeps coming out. Stop at thirty.",
      "kid": "Finger on the hole. Cap on tight. Lift your finger. Count the seconds.",
      "ask": [
@@ -721,7 +726,7 @@
        ]
       }
      ],
-     "parent": "Expect a few drops or a short squirt of one or two seconds, and then nothing. If it keeps running, the cap is not tight or the hole is too wide. Screw the cap harder first. A very thin bottle may squash a little and let a bit more out. That is fine, so write down what you see.",
+     "parent": "Expect (typically) a few drops or a short squirt of one or two seconds, and then nothing. If it keeps running, the cap is not tight or the hole is too wide. Screw the cap harder first. A very thin bottle may squash a little and let a bit more out. That is fine, so write down what you see. If a test gives glugging, the hole is too wide.",
      "check": {
       "t": "mcq",
       "q": "The water stopped running with the cap on. Which of these should have changed inside the bottle?",
@@ -751,13 +756,13 @@
        ]
       }
      ],
-     "parent": "With the cap off, the water should keep running until the level drops to the hole. That takes a minute or two. With the cap screwed back on, the flow should stop in a second or two.",
+     "parent": "With the cap off, the water should keep running until the level drops to the hole. With a thin hole this takes several minutes, so do not wait for it: stop counting at 30. With the cap screwed back on, the flow should stop in a second or two.",
      "context": "In this step, you take the cap off and see the water run, then put the cap back on and see it stop."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "Keep the cap off and let the water run out until the bottle is nearly empty. Pour it back in until three quarters full. Cap on tight. Gently squeeze the sides, then let go.",
+     "do": "Cover the hole with tape or a finger and top up the bottle to three quarters full. Cap on tight. Gently squeeze the sides, then let go.",
      "say": "Fill it up again, cap on tight. Hold your finger on the hole. Lift it, then squeeze the sides gently. What does the water do? Now let go. Look at the hole.",
      "kid": "Cap on tight. Lift your finger. Squeeze the bottle. Let go. Watch the hole.",
      "ask": [
@@ -790,7 +795,7 @@
        ]
       }
      ],
-     "parent": "With the second hole open, the water should run steadily, as it did with the cap off. Air comes in through the top hole and pushes on the water at the top.",
+     "parent": "With the second hole open, the water should run steadily, as it did with the cap off. Air comes in through the top hole and pushes on the water at the top. The second hole must be above the water line. If it is below the water, water will leak out of it.",
      "context": "In this step, a grown-up makes a second hole high up, and you find out what it does with the cap on."
     },
     {
@@ -839,7 +844,7 @@
      "qty": 1
     },
     {
-     "item": "a big bowl of cold tap water, with ice cubes if you have them",
+     "item": "a big bowl, a mug, and cold tap water with ice cubes or fridge-cold water (in hot weather the tap water can be nearly warm, and then the bottle squashes slowly)",
      "qty": 1
     },
     {
@@ -855,7 +860,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the hot water and handles the hot bottles with a thick cloth. The water must not boil in the bottle. Do not use glass bottles. Do not put the cap on loosely and then squeeze, because hot water can splash.",
+   "safety": "A grown-up pours the hot water and handles the hot bottles with a thick cloth. The water must not boil in the bottle. Do not use glass bottles. Keep small children back from the kettle and the steam. Wipe up spills so nobody slips.",
    "record": "Fill in the table. Draw the three bottles at the end. Draw small arrows to show which air pushes harder on the walls of bottle A, inside or outside.",
    "context": "In this experiment, you try to make a bottle crush itself without touching it. You use hot water, a cap and cold water, and two bottles as controls.",
    "setup": [
@@ -872,8 +877,8 @@
      "caption": "3. Cap bottle A at once, tight. Leave bottle C open."
     },
     {
-     "art": "The three bottles standing in a bowl of cold water, with bottle A crumpled and the other two smooth.",
-     "caption": "4. Stand all three bottles in cold water, and watch."
+     "art": "The three bottles standing in a bowl while a mug pours cold water over them, with bottle A crumpled and the other two smooth.",
+     "caption": "4. Pour a mug of cold water over each bottle, and watch."
     }
    ],
    "flow": [
@@ -893,7 +898,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write the guesses at the top of the table.",
+     "parent": "Do not correct the guess. Write the guesses at the top of the table. One child: do all three bottles with your grown-up. Two to four children: each child looks after one bottle (A, B or C) and one is the recorder. A grown-up does all the hot water.",
      "context": "This is the first step of the Squashing Bottle test. You guess before you test."
     },
     {
@@ -909,9 +914,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Put the cap on bottle B too, without any hot water. Then stand all three bottles in the bowl of cold water. Start the clock.",
-     "say": "Cap on B. Now all three bottles go into the cold water. Start the clock. Watch each bottle. Which one changes first?",
-     "kid": "Cap on B. Put all three in cold water. Watch. Which changes?",
+     "do": "Put the cap on bottle B too, without any hot water. Stand the three bottles in the empty bowl. Pour one mug of cold water over each bottle, and then more mugs, the same number on each. Aim at the sides, not into the mouth of C. Start the clock.",
+     "say": "Cap on B. Stand all three bottles in the bowl. Pour the same amount of cold water over each. Start the clock. Watch each bottle. Which one changes first?",
+     "kid": "Cap on B. Pour cold water over all three. Watch. Which changes?",
      "ask": [
       {
        "q": "What do you see happening to bottle A?",
@@ -922,7 +927,7 @@
        ]
       }
      ],
-     "parent": "Bottle A should start to crumple within 5 to 30 seconds, often with a crackling noise. It may help to pour cold water over the top of it. If nothing happens after a minute, use colder water, a thinner bottle or more hot water, and check that the cap is tight.",
+     "parent": "Bottle A should usually begin to crumple within about 5 to 60 seconds, often with a crackling noise. Pour the cold water over the top and shoulders of the bottle. If nothing happens after a minute, use colder water or ice, a thinner bottle or more hot water, and check that the cap is tight. Warm tap water in summer is the usual reason for a slow result.",
      "context": "In this step, you put the three bottles in cold water and watch what happens."
     },
     {
@@ -961,7 +966,7 @@
   {
    "id": "a1",
    "title": "The Card on the Glass: what holds it up?",
-   "mins": 15,
+   "mins": 20,
    "days": 1,
    "materials": [
     {
@@ -1019,7 +1024,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most people think the card and the water will fall.",
+     "parent": "Do not correct the guess. Most people think the card and the water will fall. One child: do it with your grown-up. Two to four children: give each child a glass and a card, and take turns being the one who turns the glass while the others watch and the recorder draws.",
      "context": "This is the first step of the Card on the Glass. You guess before you try."
     },
     {
@@ -1061,6 +1066,16 @@
      },
      "think": "If the push holds the card from the side, what direction is the air pushing?",
      "context": "In this step, you tilt the glass and see whether the card still holds."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Now leave a small air bubble under the card. Fill the glass nearly to the top, so the bubble is about the size of a pea. Turn it over the basin. Then try a bubble the size of a marble. Write whether the card held each time.",
+     "say": "Fill the glass but leave a small gap of air. Guess first: will the card still hold? Turn it over the basin. Now try a bigger gap. What changes?",
+     "kid": "Leave a small air gap. Guess. Turn it. Try a bigger gap.",
+     "parent": "Results vary, so write down what you see. A tiny bubble sometimes still holds for a short while, and a big bubble usually makes the card fall. The air inside pushes down on the card too, so the push from below no longer wins by much.",
+     "think": "What does the air bubble inside do to the push on the card?",
+     "context": "In this step, you leave an air bubble in the glass and see whether the card holds."
     }
    ]
   },
@@ -1071,7 +1086,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "3 plastic or steel straws of the same kind",
+     "item": "3 plastic straws of the same kind (not steel, and not paper)",
      "qty": 3
     },
     {
@@ -1079,7 +1094,7 @@
      "qty": 1
     },
     {
-     "item": "a needle or the point of scissors (a grown-up uses this)",
+     "item": "a sewing needle (a grown-up uses this)",
      "qty": 1
     },
     {
@@ -1087,7 +1102,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes. Do not share straws. Use a clean straw for each person.",
+   "safety": "A grown-up makes the holes, with the straw laid on a folded towel and the needle pushed away from fingers. Do not share straws. Use a clean straw for each person.",
    "record": "Write the name of each straw and whether you could drink. Draw a straw in a glass, and draw arrows for the air pushing on the drink in the glass and on the drink inside the straw.",
    "context": "In this activity, you try to drink through a plain straw, and then through a straw with a hole in it. You find out what the hole changes.",
    "setup": [
@@ -1125,7 +1140,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down.",
+     "parent": "Do not correct the guess. Write it down. One child: do it with your grown-up. Two to four children: each child gets their own three straws marked with their name, and one glass of water or juice is shared by pouring a little into a cup for each.",
      "context": "This is the first step of the Straw with a Hole. You guess before you try."
     },
     {
@@ -1135,12 +1150,13 @@
      "say": "I will make a hole near the top of this straw, and one near the bottom of that one. I mark them T and B. Keep your hands clear.",
      "kid": "A grown-up makes the holes. Mark the straws T and B.",
      "adult": true,
-     "context": "In this step, a grown-up makes the holes in two straws."
+     "context": "In this step, a grown-up makes the holes in two straws.",
+     "parent": "A hole about as wide as a matchstick is easy to make with a sewing needle if you twist it. Mark T and B with a pen."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Sip from the glass with the plain straw. Then try straw T, and then straw B. Write down in which of them you could drink. Last, cover the hole in straw T with a finger and sip again.",
+     "do": "Sip from the glass with the plain straw. Then try straw T, and then straw B. Write down in which of them you could drink. Last, cover the hole in straw T with a finger and sip again. Finally, with straw B, lift it slowly up the glass until the hole comes above the juice, and sip as you lift.",
      "say": "Sip with the plain straw first. Now straw T. Now straw B. Which ones worked? Last, put a finger over the hole in T and sip again. What changes?",
      "kid": "Sip with each straw. Which work? Cover the hole in T. Sip again.",
      "ask": [
@@ -1153,7 +1169,7 @@
        ]
       }
      ],
-     "parent": "Straw T should be hard or impossible to drink with, and the plain straw should work. Straw B, with the hole low down, usually works, because the hole is under the juice and no air gets in. If the juice leaks, hold the straw deeper in the glass. If straw T works a little, the hole may be too small, so make it a little wider.",
+     "parent": "Straw T should be hard or impossible to drink with, and the plain straw should work. Straw B, with the hole low down, usually works, because the hole is under the juice and no air gets in. If the juice leaks, hold the straw deeper in the glass. If straw T works a little, the hole may be too small, so make it a little wider. Straw B should stop working as soon as its hole comes out above the juice, and that shows that any hole above the juice lets air in.",
      "check": {
       "t": "mcq",
       "q": "Straw T did not work, but it worked with a finger over the hole. What does the hole do?",
@@ -1186,12 +1202,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "a rubber suction hook or a small rubber plunger",
+     "item": "a rubber suction hook (about Rs 30 to 80 at a hardware shop)",
      "qty": 1,
      "buy": "b-hook"
     },
     {
-     "item": "a smooth, clean, flat tile or a mirror at about chest height",
+     "item": "a smooth, clean, flat tile or a mirror at about waist height, and a rough or painted wall to compare",
      "qty": 1
     },
     {
@@ -1211,7 +1227,7 @@
      "qty": 1
     }
    ],
-   "safety": "Hang the bucket low and stand to the side, because it may fall. Do not go above 3 litres of water in the bucket. Put a towel on the floor.",
+   "safety": "Fix the hook no higher than your waist, wear slippers or shoes, and stand to the side, because the bucket may fall. Do not go above 3 litres of water in the bucket. Put a towel on the floor, and do this in a bathroom or kitchen where spills do not matter.",
    "record": "Write the number of litres the hook held before it fell. Measure across the cup of the hook. Draw the hook on the tile with arrows for the air pushing it flat.",
    "context": "In this activity, you stick a rubber suction hook onto a tile and hang a bucket of water on it. You find out how heavy a weight the air can hold, and compare it with what the sums say.",
    "setup": [
@@ -1249,7 +1265,7 @@
        ]
       }
      ],
-     "parent": "One litre of water has a mass of 1 kilogram. Write the guess in litres. Do not correct it.",
+     "parent": "One litre of water has a mass of 1 kilogram. Write the guess in litres. Do not correct it. One child: do it with your grown-up. Two to four children: one pours, one watches the hook, one writes the numbers, and swap after each round.",
      "context": "This is the first step of the Suction Hook test. You guess before you hang the bucket."
     },
     {
@@ -1264,7 +1280,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Pour in one litre of water. Wait 10 seconds. Pour in another litre. Keep going up to 3 litres, or until the hook falls. Write the number of litres each time.",
+     "do": "Pour in one litre of water. Wait 10 seconds. Pour in another litre. Keep going up to 3 litres, or until the hook falls. Write the number of litres each time. Then press the hook onto the rough or painted wall, guess first, and pour again. Compare the two walls.",
      "say": "Pour in one litre. Wait ten seconds. Is it still holding? Pour in another. Keep going, and write down how many litres it holds. Stop at three litres.",
      "kid": "Add one litre. Wait. Is it holding? Add another. Stop at three.",
      "ask": [
@@ -1277,7 +1293,7 @@
        ]
       }
      ],
-     "parent": "Small hooks often hold 1 to 3 kilograms for a short time. The hook may slowly slide down over a minute or two. That is fine. Write the highest number of litres it held for ten seconds.",
+     "parent": "Cheap hooks typically hold about 0.5 to 2 kilograms for a short time, and some hold more. The bucket itself adds a little weight. The hook may slowly slide down over a minute or two. That is fine. Write the highest number of litres it held for ten seconds. On a rough wall the hook usually holds much less or not at all, because air leaks in under the rim.",
      "context": "In this step, you add water to the bucket a litre at a time and see how much the hook holds."
     },
     {
@@ -1294,26 +1310,26 @@
   },
   {
    "id": "a4",
-   "title": "Hill Station Bottle: if you can go up a hill, or a tall lift",
+   "title": "Hill Station Bottle: if you go up a hill, or fly",
    "mins": 15,
    "days": 1,
    "materials": [
     {
-     "item": "an empty 500 millilitre plastic bottle with a cap",
+     "item": "an empty 500 millilitre thin plastic bottle with a cap, a ruler and a piece of string",
      "qty": 1
     },
     {
-     "item": "a sealed packet of chips or biscuits",
+     "item": "a sealed packet of chips or biscuits (keep it sealed and do not eat from it)",
      "qty": 1
     },
     {
-     "item": "a trip up a hill (for example, Ooty, Munnar, Kodaikanal, Shimla or Darjeeling) or a very tall building with a fast lift",
+     "item": "a trip up a hill (for example, Ooty, Munnar, Kodaikanal, Shimla or Darjeeling) or a flight. A tall lift is not enough: the change is too small to see in a bottle",
      "qty": 1
     }
    ],
    "safety": "Do this only on a trip you are making anyway. Do not go anywhere unsafe for it.",
    "record": "Draw the bottle and the packet at the bottom, at the top and back at the bottom. Write how your ears felt on the way.",
-   "context": "This activity is for when you go up a hill or a tall building. You close a bottle at one height and see what happens at another. It is outside the main path, so do it only if you have the chance.",
+   "context": "This activity is for when you go up a hill or take a flight. You close a bottle at one height and see what happens at another. It is outside the main path, so do it only if you have the chance.",
    "setup": [
     {
      "art": "A child at the bottom of a hill screwing the cap on an empty bottle next to a packet of chips.",
@@ -1336,7 +1352,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "At the bottom, close the empty bottle tightly and look at the packet. Ask for a guess about both at the top, and a reason.",
+     "do": "At the bottom, close the empty bottle tightly and look at the packet. Ask for a guess about both at the top, and a reason. Measure how thick the packet is with a ruler, and the distance round the middle of the bottle with the string.",
      "say": "We are going up the hill. This bottle is closed, and so is the packet. What will they look like at the top? Why do you think so?",
      "kid": "Bottle closed at the bottom. Packet sealed. What changes at the top? Why?",
      "ask": [
@@ -1349,13 +1365,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down before you set off.",
+     "parent": "Do not correct the guess. Write it down before you set off. One child: do it with your grown-up. Two to four children: one looks after the bottle, one the packet, one the ruler and string.",
      "context": "This is the first step of the Hill Station Bottle. You close the bottle at the bottom and guess before you climb."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "At the top, look at the packet and the bottle. Feel your ears. Open the cap and listen, then close it again.",
+     "do": "At the top, look at the packet and the bottle. Feel your ears. Open the cap and listen, then close it again. Measure the packet and the string round the bottle again.",
      "say": "We are at the top. Look at the packet. Look at the bottle. Did your ears pop on the way? Open the cap and listen. What happens?",
      "kid": "At the top. Look at the packet. Look at the bottle. Open the cap. Listen.",
      "ask": [
@@ -1368,7 +1384,7 @@
        ]
       }
      ],
-     "parent": "At 2,000 metres the air pushes about one fifth less than at sea level, so a sealed packet puffs up visibly. The bottle may swell slightly. When you open the cap at the top, you may hear air hiss out. That is the air that was squeezed in at the bottom.",
+     "parent": "At 2,000 metres the air pushes about one fifth less than at sea level, so a sealed packet typically puffs up by a few millimetres, which you can see and measure. The bottle may swell slightly. When you open the cap at the top, you may hear air hiss out. That is the air that was shut in at the bottom.",
      "context": "In this step, you look at the packet and the bottle at the top and open the cap."
     },
     {
@@ -1389,7 +1405,7 @@
    "id": "p1",
    "title": "A Jar Barometer: watch the air's push for a week",
    "days": 7,
-   "mins": 50,
+   "mins": 60,
    "materials": [
     {
      "item": "a clean glass jar or tumbler with a wide mouth",
@@ -1404,7 +1420,7 @@
      "qty": 1
     },
     {
-     "item": "a drinking straw, a small piece of tape and a toothpick or a pin",
+     "item": "a long plastic drinking straw (15 centimetres or more) and a small piece of sticky tape",
      "qty": 1
     },
     {
@@ -1434,7 +1450,17 @@
      "what": "Mark the straw again and write the weather."
     },
     {
+     "day": 4,
+     "mins": 5,
+     "what": "Mark the straw and write the weather."
+    },
+    {
      "day": 5,
+     "mins": 5,
+     "what": "Mark the straw and write the weather."
+    },
+    {
+     "day": 6,
      "mins": 5,
      "what": "Mark the straw and write the weather."
     },
@@ -1481,13 +1507,13 @@
        ]
       }
      ],
-     "parent": "The jar traps a fixed amount of air. When the air outside pushes harder, the balloon is pushed in and the straw tip goes up. When the push outside is lower, the balloon bulges out and the straw tip goes down. Warmth also moves the straw, because it makes the air in the jar push more. So keep the jar out of the sun and away from the fan.",
+     "parent": "The jar traps a fixed amount of air. When the air outside pushes harder, the balloon is pushed in and the straw tip goes up. When the push outside is lower, the balloon bulges out and the straw tip goes down. Warmth also moves the straw, because it makes the air in the jar push more. So keep the jar out of the sun and away from the fan. One child: do it with your grown-up. Two to four children: build one jar together and take turns on the daily mark, or build two jars and compare them.",
      "context": "This is the first step of the Jar Barometer. You guess before you build."
     },
     {
      "id": "s2",
      "mins": 17,
-     "do": "A grown-up cuts the balloon open to a flat sheet. Stretch it very tight over the mouth of the jar. Fix it with the rubber band. Tape the straw flat across the middle of the sheet. It lies across the rim of the jar, and one end sticks out sideways.",
+     "do": "A grown-up cuts the balloon open to a flat sheet. Stretch it very tight over the mouth of the jar. Fix it with the rubber band. Tape the straw flat across the middle of the sheet. It lies across the rim of the jar, and one end sticks out sideways. Let two thirds of the straw stick out past the rim. Then a small push makes a big move at the tip.",
      "say": "Cut the balloon so it opens flat. Stretch it tightly over the jar and hold it with the rubber band. Tape the straw to the middle, with one end out past the edge. Make sure the jar is sealed.",
      "kid": "Stretch the balloon over the jar. Tape on the straw. Seal it well.",
      "adult": true,
@@ -1500,7 +1526,7 @@
      "do": "Each day at the same time, mark where the straw tip points on the card. Write the weather. On the last day, compare the marks with the weather and, if you can, with the pressure number in a weather app.",
      "say": "Every day, at the same time, mark the tip of the straw. Write down the weather. After a week, look at all the marks. When did the tip rise? When did it fall? What was the weather then?",
      "kid": "Mark the straw every day. Write the weather. After a week, compare.",
-     "parent": "The movements are small, a few millimetres, and heat moves them too. That is why we keep it in a steady place. A weather app shows pressure in hectopascals, and a normal day is about 1,000 to 1,020. A fall over a day or two often goes with clouds or a storm. A single week may not show a clear pattern. Say so honestly.",
+     "parent": "The movements are small, typically a few millimetres, and heat moves them too. If the tip goes up every afternoon and down every night, that is warmth, not weather. That is why we keep it in a steady place and read it at the same time. A weather app shows pressure in hectopascals (sea-level pressure), and a normal day is about 1,000 to 1,020. A fall over a day or two often goes with clouds or a storm. A single week may not show a clear pattern. Say so honestly.",
      "think": "Does a falling reading go with cloud and rain where you live?",
      "context": "In this step, you read the barometer every day for a week and compare it with the weather."
     }
@@ -2610,7 +2636,7 @@
    "id": "b-hook",
    "item": "A rubber suction hook for a bathroom tile",
    "kind": "tool",
-   "why": "For the Suction Hook test. A small one from a hardware shop is enough.",
+   "why": "For the Suction Hook test. A small one from a hardware shop is enough, about Rs 30 to 80.",
    "url": "https://www.amazon.in/s?k=suction+cup+hook+bathroom",
    "used_in": [
     "a3"
@@ -2620,7 +2646,7 @@
    "id": "b-tube",
    "item": "A clear plastic tube about 1 metre long",
    "kind": "material",
-   "why": "For the siphon challenge. Aquarium air tubing from a pet shop works well.",
+   "why": "For the siphon challenge. Aquarium air tubing from a pet shop works well. It costs about Rs 20 to 50.",
    "url": "https://www.amazon.in/s?k=aquarium+air+tube+silicone",
    "used_in": [
     "c1"
@@ -2630,7 +2656,7 @@
    "id": "b-pins",
    "item": "A small pack of sewing needles or a compass for making small holes",
    "kind": "tool",
-   "why": "A grown-up uses it to make the holes in the bottle and straws.",
+   "why": "A grown-up uses it to make the holes in the bottle and straws. Most homes already have a sewing needle, and a compass from a geometry box also works.",
    "url": "https://www.amazon.in/s?k=geometry+compass+box",
    "used_in": [
     "e1",
@@ -2757,5 +2783,5 @@
   "when": "About 1643, and 1648",
   "wrong_idea": "Aristotle's idea that nature hates a vacuum and so fills every gap. The pump limit of about ten metres, Torricelli's empty space at the top of the tube, and the lower mercury on the mountain showed that the weight of air does the pushing, and that it pushes less with height."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Card on the Glass: fill the glass to the very top and slide the card on with no bubble. A paper card gets soggy after a minute, so a plastic card or a laminated sheet is better. Bottle with a Hole: a hole about as wide as a matchstick, 4 centimetres from the bottom, is best. With a big hole the water keeps dribbling even with the cap on, and a very thin bottle may squash a little and let a bit more out. The steps say what to do. Squashing Bottle: the water must be hot but not boiling, or the bottle itself shrinks. Control bottle C shows this. Bottle A should squash within about 30 seconds, but a thick bottle may only dent, and the steps say to use a thin one. Suction Hook: small hooks hold about 1 to 3 kilograms, and the calculation shows the most that a perfect cup could hold, so the numbers do not match on purpose. Jar Barometer: the movement is a few millimetres, and heat moves it too, so keep it out of the sun. The siphon challenge works best with a clear tube that is completely full of water. The videos have no address yet. Facts to verify before the unit goes live: the Galileo pump limit of about 18 braccia, the Périer date of 19 September 1648, the Hertha Ayrton fan date of 1915, the claim that a breath holds more air particles than there are grains of sand on all the beaches, the Hughes and Richert and Binder papers on siphons, the Rig Veda 10.168 wording, and the boiling temperature of about 93 degrees at 2,000 metres."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Card on the Glass: fill the glass to the very top and slide the card on with no bubble. A paper card gets soggy after a minute, so a plastic card or a laminated sheet is better. Bottle with a Hole: a hole as thin as a sewing needle, about 1 millimetre, 4 centimetres from the bottom, is best. With a hole as wide as a matchstick the water keeps dribbling even with the cap on, and a very thin bottle may squash a little and let a bit more out. The steps say what to do. Squashing Bottle: the water must be hot but not boiling, or the bottle itself shrinks. Control bottle C shows this. Bottle A should squash within about 30 seconds, but a thick bottle may only dent, and the steps say to use a thin one. Suction Hook: small hooks typically hold about 0.5 to 2 kilograms, and the calculation shows the most that a perfect cup could hold, so the numbers do not match on purpose. Jar Barometer: the movement is a few millimetres, and heat moves it too, so keep it out of the sun. The siphon challenge works best with a clear tube that is completely full of water. The videos have no address yet. Facts to verify before the unit goes live: the Galileo pump limit of about 18 braccia, the Périer date of 19 September 1648, the Hertha Ayrton fan date of 1915, the claim that a breath holds more air particles than there are grains of sand on all the beaches, the Hughes and Richert and Binder papers on siphons, the Rig Veda 10.168 wording, and the boiling temperature of about 93 degrees at 2,000 metres."
 }

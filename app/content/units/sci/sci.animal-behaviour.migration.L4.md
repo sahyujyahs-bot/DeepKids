@@ -207,10 +207,10 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 
 ## Games
 ### g1 · Guess the Traveller: 16 clue cards from the Indian sky and sea (20 min)
-- **rules:** One player is the reader. The reader takes the top card and reads the front but covers the answer on the back.; The reader reads the first sentence. The guesser names the traveller.; A right guess on the first sentence scores 3 points. If wrong, the reader reads the second sentence, and a right guess scores 2. After the third sentence, a right guess scores 1.; If nobody guesses, the reader reads the back. No points.; Take turns being the reader. The player with the most points after 16 cards wins.; Playing alone: lay the cards face up, hide the answer with a finger, and guess for each card. Beat your best score of 48 possible points.; Afterwards, sort the cards into three piles: birds, other animals, and animals that move only a short way.
+- **rules:** One player is the reader. The reader takes the top card and reads the front but covers the answer on the back.; The reader reads the first sentence. The guesser names the traveller.; A right guess on the first sentence scores 3 points. If wrong, the reader reads the second sentence, and a right guess scores 2. After the third sentence, a right guess scores 1.; If nobody guesses, the reader reads the back. No points.; Take turns being the reader. The player with the most points after 16 cards wins. With 2 to 4 players, everyone gets one guess per clue, said or written down; the first right guess wins the points, and a player who guessed wrong sits out that card.; Playing alone: lay the cards face up, hide the answer with a finger, and guess for each card. Beat your best score of 48 possible points.; Afterwards, sort the cards into three piles: birds, other animals, and animals that move only a short way.
 - **Printable cards: 16 two-sided cards: three clues on the front, and the answer with a fact on the back:** I breed on high lakes in Ladakh, Tibet and Mongolia. I cross the Himalaya, higher than 6,000 metres. I spend winter on wetlands in India. (back: Bar-headed goose. She flies over the Himalaya in thin air, and often follows the slopes up and down to save energy.); I have a long bill that I push into mud. I fly from Alaska to Australia or New Zealand without landing. Before I leave, my gut shrinks. (back: Bar-tailed godwit. A young one flew about 13,500 kilometres from Alaska to Tasmania in 11 days.); I am a small grey falcon with red legs. I rest in Nagaland for only a few weeks each October. I eat flying termites, then cross the sea to Africa. (back: Amur falcon. She is a passage migrant in India, and she fattens up on termites before the sea crossing.); I live in the sea. Each year thousands of us come to the same beaches in Odisha at night. We bury our eggs in the sand. (back: Olive ridley turtle. The mass nesting is called an arribada. The hatchlings go to sea by themselves.); I am a silvery fish. I live in the sea. In the monsoon, I swim up large rivers such as the Ganga to lay my eggs. (back: Hilsa. She swims from the sea up a river to spawn. Dams and weirs can block the way.); I catch insects in flight. In winter I sit in rows on wires in India. In spring I fly north to nest. (back: Barn swallow. She is a winter visitor in India, and she breeds in the north.); I am pink and black. I arrive in India around August or September in noisy flocks. I leave in spring. (back: Rosy starling. She is a winter visitor, and she breeds far to the north-west.); I have a crest and a black and white body. Some of us come to India from Africa as the monsoon starts. People link me with the first rains. (back: Pied cuckoo. Some pied cuckoos cross the Arabian Sea with the monsoon winds, and nest in India.); I stand on long pink legs. I strain tiny food out of shallow salty water. I nest on mud in a great crowd in Gujarat. (back: Greater flamingo. She moves along the coast to different mudflats through the year.); I climb rock walls like a mouse, with red and grey wings. I live high in the Himalaya in summer. In winter I come down to the foothills. (back: Wallcreeper. She makes a short seasonal move down the mountain, an altitudinal migration.); I am the largest land animal in India. My herd is led by the oldest female. We walk long distances between forests as the seasons change. (back: Asian elephant. Herds follow paths used for generations, to find water and food in different seasons.); I am white with a red face. I once flew from Siberia to a wetland in Rajasthan each winter. I have not been seen there for many years. (back: Siberian crane. She is in danger, and one cause is the loss of wetlands and hunting along the flyway.); I am small and grey with white feathers behind my eyes. I breed in Central Asia. I cross the Himalaya in huge flocks and spend winter in Rajasthan and Gujarat. (back: Demoiselle crane. She flies over the Himalaya, and is fed by villagers at Khichan in Rajasthan.); I am orange-brown, and I breed on high lakes in Ladakh and Tibet. In winter I spend my days on the rivers of the plains. In India, my name is chakwa. (back: Ruddy shelduck. She moves down from the high lakes to the rivers of the plains.); My male has a long thin tail. I breed in the far north of Asia and Europe. I spend winter on the lakes of India. (back: Northern pintail. She is one of the commonest winter-visiting ducks in India.); I am a dark brown butterfly. Each year many of us flutter together in the hills of south India. We move with the monsoon. (back: Common crow butterfly. Large numbers of butterflies move between the plains and the Western Ghats as the monsoon comes and goes.)
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 16 cards. Shuffle them. Choose a reader. If you play alone, lay the cards in a row.  
+  *Parent does:* Cut out the 16 cards (or copy the clues onto 16 scraps of paper). Shuffle them. Choose a reader. If you play alone, lay the cards in a row.  
   *Parent says:* Each card has three clues about an animal that makes a journey. Guess it after the first clue and score 3 points. Guess after the second for 2 points, and after the third for 1.  
   *Child mode:* Cut out the cards. Shuffle them. Read one clue at a time. Guess early to win more points.
 - **s2 (8 min)**  
@@ -238,7 +238,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent does:* Cut out the board and the cards. Give every bird 2 beans. Shuffle the cards. Read the rules aloud.  
   *Parent says:* You are a bird flying to Kerala. Each flight costs beans of fat. On your turn you can eat a card to get more fuel, or fly. If you fly without enough fuel, you may fall into the sea.  
   *Child mode:* You are a bird. Eat to get beans. Fly to move on. Do not run out over the sea.
-  - Note: A turn is quick. Players who play too safely take longer, and players who rush may fall. Both are fine ways to learn.
+  - Note: A turn is quick. Players who play too safely take longer, and players who rush may fall. Both are fine ways to learn. A full game takes about 20 turns for each bird, so with 3 or 4 players start each bird with 4 beans, or stop when the first bird arrives. Dried beans are small: keep them away from toddlers. Any die will do; a die is on the shopping list if you have none.
 - **s2 (12 min)**  
   *Parent does:* Take turns. Each turn, choose EAT or FLY. After about six turns each, stop and ask whether anyone has taken a risk.  
   *Parent says:* Choose to eat or fly. When you fly, remember the headwind. After six turns each, we stop and ask: did anyone take a risk?  
@@ -250,7 +250,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent does:* Ask what the winner did. Ask what a real bird does when she has no cards to draw and no beans to eat. Ask what the game would be like if the Chilika lagoon was drained.  
   *Parent says:* What did the winner do? In real life, there is no food card to draw. What does a bird need at each stop? What would happen if Chilika was drained?  
   *Child mode:* What did the winner do? What does a real bird need at each stop?
-  - Ask: What would happen in the game if Chilika was drained? (good: The flight from Stop 4 to Kerala would cost 5 beans, and no bird could hold 5 beans safely.; Fewer birds would arrive.; Birds would need a bigger tank.)
+  - Ask: What would happen in the game if Chilika was drained? (good: Getting from Stop 4 to Kerala would cost 5 beans, or 6 in a headwind, which is a full tank.; Fewer birds would arrive.; Birds would need a bigger tank.)
   - Note: If Chilika is drained, the flight from Stop 4 to Stop 6 costs 2 plus 3, which is 5 beans. A bird can carry 6, but headwinds make the flight a big risk. Link this to the real birds that depend on every stop.
 
 ## Experiments
@@ -258,7 +258,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **question:** When the Earth leans towards the Sun, which places get the longest day: places near the equator, in the middle, or near the pole?
 - **predict:** Before you start, guess. In the summer spin, which dot will stay in the light longest? Which will stay in the light least? Why do you think so?
 - **fair test:** Use the same orange, the same torch, the same distance and the same slow turn of 12 counts each time. Only the lean of the orange changes: towards the torch, straight up, or away from the torch.
-- **safety:** A grown-up pushes the skewer through the orange and covers the sharp end with clay. Do not look into the torch.
+- **safety:** A grown-up pushes the skewer through the orange and covers the sharp end with clay. Do not look into the torch. Keep the skewer pointing away from faces in the dark room.
 - **record:** Fill in the table of counts for all three leans. Write one sentence for each lean about which dot stayed lit longest.
 - **results table:** Lean of the orange | Kerala dot: counts lit out of 12 | Mongolia dot: counts lit out of 12 | Tundra dot: counts lit out of 12
 - **s1 (4 min)**  
@@ -271,24 +271,24 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent does:* Push the skewer through the top and the bottom of the orange. Cover the sharp end with clay. Put the rubber band around the middle. Draw a dot just above the band, a dot halfway up, and a dot very near the top.  
   *Parent says:* The band is the equator. The dot just above it is Kerala. The middle dot is Mongolia. The dot near the top is the Arctic tundra, where many birds breed. Now make a tilt guide. Fold the corner of a paper in half, and in half again.  
   *Child mode:* A grown-up pushes the skewer through. Draw three dots. Fold a paper corner twice to make the tilt guide.
-  - Note: Use a washable marker on the peel. The tundra dot should be about one finger-width from the top. Keep the torch about 40 centimetres from the orange, with the torch at the same height as the middle of the orange. The room must be dark.
+  - Note: Use a washable marker on the peel. Put the tundra dot very close to the skewer hole at the top, about half a centimetre away: a dot farther down can slip into the dark on the summer spin. Put the Kerala dot about 1 centimetre above the band and the Mongolia dot halfway up. Keep the torch about 40 centimetres from the orange, at the height of its middle. The room must be dark; a phone torch is fine. With 2 to 4 children: one holds the orange, one counts aloud, one watches the Kerala dot, one watches the Mongolia and tundra dots and writes the counts. Swap jobs for each lean.
 - **s3 (6 min)**  
   *Parent does:* Hold the bottom of the skewer. Lean the top towards the torch, like the paper fold. Turn the orange slowly once, for 12 counts. A grown-up counts out loud, one count each second, and calls out when the Kerala dot is in the light. Count how many of the 12 counts it is lit. Repeat for the Mongolia dot, then the tundra dot.  
   *Parent says:* Lean the top towards the torch. Turn slowly while I count to 12. I will count how many counts the Kerala dot is in the light. Then we do the same for the other two dots.  
   *Child mode:* Lean the top towards the torch. Turn once slowly. Count how long each dot is lit.
   - Ask: Which dot stayed in the light the longest? Which stayed lit the shortest? (good: The tundra dot never left the light.; The Kerala dot was lit for about half the turn.)
-  - Note: Expected: Kerala about 6 of 12, Mongolia about 8, and the tundra dot 12 of 12, in the light the whole turn. Your numbers may differ by one or two. If the lean wobbles, spin again. If the dots are hard to see, move the torch closer.
+  - Note: Typical result: Kerala about 6 of 12, Mongolia about 8, and the tundra dot 12 of 12, in the light the whole turn. Your numbers may differ by one or two; these are not promised. Count a dot as lit while it is in the bright patch. If the lean wobbles, spin again. If the tundra dot drops into the dark, make the lean bigger or move the dot closer to the top. If the dots are hard to see, move the torch closer.
   - Check: In the summer spin, why did the tundra dot stay in the light for the whole turn? → **The top of the orange leaned towards the torch, so that dot never turned into the dark half**
 - **s4 (4 min)**  
   *Parent does:* Hold the skewer straight up, not leaning at all. Turn once for 12 counts. Count how many counts each dot is lit. Write them in the table.  
   *Parent says:* Now hold it straight up. Turn slowly while I count to 12. We count each dot again.  
   *Child mode:* Hold the skewer straight up. Turn once. Count how long each dot is lit.
-  - Note: Expected: about 6 of 12 for all three dots. This is what the day lengths are on the equinox, in March and September.
+  - Note: Typical result: about 6 of 12 for all three dots (5 to 7 is normal). This is like the equinox, in March and September, when day and night are about equal everywhere.
 - **s5 (4 min)**  
   *Parent does:* Lean the top of the skewer away from the torch, with the same size of lean. Turn once for 12 counts. Count how long each dot is lit. Write the counts in the table.  
   *Parent says:* Now lean the top away from the torch. Turn once while I count to 12. We count each dot again.  
   *Child mode:* Lean the top away from the torch. Turn once. Count how long each dot is lit.
-  - Note: Expected: Kerala about 6, Mongolia about 4, and the tundra dot 0 of 12, in the dark the whole turn. Kerala hardly changes between the three leans.
+  - Note: Typical result: Kerala about 6, Mongolia about 4, and the tundra dot 0 of 12, in the dark the whole turn. Kerala hardly changes between the three leans. For a fairer test, do each lean twice and use the middle count. A second child can check the lean with the paper guide each time.
 - **s6 (6 min)**  
   *Parent does:* Look at the table. Ask: what do you claim, what is your evidence, and why does it happen? Then ask what this means for a bird that raises chicks on the tundra.  
   *Parent says:* Look at your table. What did you find? What numbers show it? Why do you think the dots changed? What might it mean for a bird on the tundra?  
@@ -317,13 +317,13 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent does:* Fly one bird at a time from the Start to Kerala. For each leg, take the beans, roll the die, and take one more bean if the die shows 1 or 2. If she has too few beans, she falls. At each wetland, roll to feed. Tally the birds that arrive and the birds that fall. Do this for all 12 birds.  
   *Parent says:* Fly the first bird. Spend a bean for the leg. Roll for a headwind. Then roll to feed at the wetland. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.  
   *Child mode:* Fly one bird at a time. Spend beans. Roll the die. Tally the birds that arrive and fall.
-  - Note: Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. Expected: about 9 or 10 arrive, and 2 or 3 fall.
+  - Note: Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. With 2 to 4 children, each flies 3 to 6 of the 12 birds at the same time on their own paper flyway (the same rules), and one child keeps the tally. Typical result: about 9 or 10 arrive, and 2 or 3 fall. This is a typical result and not a promise.
   - Check: A bird lands at wetland 2 with 0 beans left. Is she safe? → **Yes, because she landed and can feed to fill up again**
 - **s4 (8 min)**  
   *Parent does:* Cross out wetland 3. The bird now flies from wetland 2 to wetland 4 in one leg, and this leg costs 2 beans. A headwind still costs one more bean. Fly 12 birds as before. Tally the birds that arrive and the birds that fall.  
   *Parent says:* Now wetland 3 has been drained. The bird must fly from 2 to 4 in one go, and this leg costs 2 beans. Fly 12 more birds the same way. Tally them.  
   *Child mode:* Cross out wetland 3. The long leg costs 2 beans. Fly 12 more birds. Tally them.
-  - Note: Expected: about 6 arrive, and about 6 fall. A bird needs a full 2 beans and no headwind to cross the long leg. Your counts will vary by two or three. If round 1 and round 2 are close, play both rounds again and add the counts.
+  - Note: Typical result: about 6 arrive, and about 6 fall. A bird needs a full 2 beans and no headwind to cross the long leg, because a headwind makes it cost 3 beans and she can hold only 2. Your counts will vary by two or three. If round 1 and round 2 are close, play both rounds again and add the counts.
 - **s5 (6 min)**  
   *Parent does:* Write the counts in the table. Ask: what is your claim, what is your evidence, and why did the drained wetland matter? Ask what would happen if two wetlands were drained.  
   *Parent says:* Look at both rounds. What is different? What numbers show it? Why did more birds fall when wetland 3 was gone? What would happen if two wetlands were gone?  
@@ -343,12 +343,12 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   - Ask: Which birds around your home do you think are residents? (good: Crows.; Pigeons.; Sparrows or mynas.)
 - **s2 (6 min)**  
   *Parent does:* Read each clue and put the bird in a box. House crow: seen in every month, and nests here. Rock pigeon: seen in every month. Rosy starling: arrives in autumn and leaves in spring. Barn swallow: arrives in autumn and leaves in spring. Northern pintail: on lakes from autumn to spring. Pied cuckoo: arrives with the monsoon, nests, and leaves. Amur falcon: here for three weeks in October and November. Cattle egret: seen in every month.  
-  *Parent says:* Read each clue. Where does each bird go? Think about when it is here and when it is not. There are two residents, three winter visitors, one summer visitor and one passage migrant, and one more resident.  
+  *Parent says:* Read each clue. Where does each bird go? Think about when it is here and when it is not. There are three residents, three winter visitors, one summer visitor and one passage migrant.  
   *Child mode:* Read each clue. Put each bird in a box. Think about when you see it.
   - Ask: Which bird was hardest to place, and why? (good: The pied cuckoo, because it comes for the rains.; The Amur falcon, because it stays for only a short time.)
-  - Note: Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can be a different label.
+  - Note: Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can be a different label, and a few cattle egrets also move short distances, so a book may disagree. With 2 to 4 children, each sorts alone first and then you compare; talk about any bird you placed differently.
 - **s3 (5 min)**  
-  *Parent does:* Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone.  
+  *Parent does:* Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone. For a week, tick each bird you see near home. Residents show up every day.  
   *Parent says:* Pick two more birds you know. Which label fits each? How could we find out?  
   *Child mode:* Pick two more birds you know. Which label fits? How could you check?
   - Check: A bird is seen in your city from October to March, and never in summer. Which label fits best? → **Winter visitor**
@@ -369,8 +369,8 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent does:* Ask: where is the line flat? Where is it steep? How many weeks did she spend at the middle stopover? How many degrees did she travel in all? Each degree of latitude is about 111 kilometres.  
   *Parent says:* Where is the graph flat? What does that mean? Where is it steep? How many weeks did she rest at the middle place? How far did she go in degrees?  
   *Child mode:* Find the flat parts. Find the steep parts. What do they mean?
-  - Ask: What do the flat parts and the steep parts mean? (good: Flat parts are where she stays and feeds. Steep parts are where she flies.; She spent four weeks at the middle stopover.; She went from 48 to 27, which is 21 degrees.)
-  - Note: Answers: three flat parts, at 48 (weeks 0 to 2), 33 (weeks 4 to 7) and 27 (weeks 8 to 11). The steep parts are between weeks 2 and 4 and between 7 and 8. She went 21 degrees, about 2,300 kilometres north to south (21 times 111).
+  - Ask: What do the flat parts and the steep parts mean? (good: Flat parts are where she stays and feeds. Steep parts are where she flies.; She stayed about three weeks at the middle stopover (four weekly readings at 33).; She went from 48 to 27, which is 21 degrees.)
+  - Note: Answers: three flat parts, at 48 (weeks 0 to 2), 33 (weeks 4 to 7) and 27 (weeks 8 to 11). The steep parts are between weeks 2 and 4 and between 7 and 8. She went 21 degrees, about 2,300 kilometres north to south (21 times 111). Her biggest jump in one week was 8 degrees (week 2 to 3), about 900 kilometres. With 2 to 4 children, each plots the graph alone on their own paper and then compares; one child can read the table aloud.
   - Check: On a tracking graph of latitude, what does a long flat part mean? → **The bird stayed in about the same place, such as a lake where she rested**
 ### a3 · The Chain of Energy: from Arctic sunlight to a wingbeat over the sea (15 min)
 - **record:** The ordered chain of eight cards, and your own chain for another bird.
@@ -388,33 +388,34 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent does:* Choose a bird: a barn swallow, an Amur falcon or a crow. Draw a chain of 5 or 6 links from the Sun to that bird. Add one link where a human or a place could break the chain.  
   *Parent says:* Choose a bird. Make a chain from the Sun to her. Where could the chain break?  
   *Child mode:* Pick a bird. Draw a chain from the Sun to her. Where could it break?
+  - Note: With 2 to 4 children, each makes the cards and shuffles them for a sibling to put in order, and then each builds a chain for a different bird. Compare where the chains could break.
   - Check: Which link is the true starting point of the godwit's fuel? → **Sunlight, which plants and algae use to grow**
 
 ## Projects
 ### p1 · The Mudflat Buffet: why waders have different bills (35 min)
-- **safety:** Keep rice and lentils away from small children who might put them in their mouths.
-- **record:** A table of how many worms each bill found in each tide, and a drawing of the tray from the side.
+- **safety:** Keep rice, lentils and chickpeas away from small children who might put them in their mouths or noses. Do not eat them. Do not poke chopsticks or pencils near faces. Anyone allergic to pulses should not touch the chickpeas and lentils.
+- **record:** A table of how many shallow worms and how many deep worms each bill found, and a drawing of the tray from the side.
 - **s1 (5 min)**  
   *Parent does:* Show the tray, the spoon and the chopsticks. Say the spoon is a short bill and the chopsticks are a long bill. Ask for a guess and a reason.  
-  *Parent says:* Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 20 seconds? Why?  
+  *Parent says:* Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 30 seconds? Why?  
   *Child mode:* The spoon is a short bill. The chopsticks are a long bill. Which finds more worms? Why?
   - Ask: Which bill will find more worms, and why do you think so? (good: The long bill, because it reaches deeper.; The short bill, because it covers more rice at once.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (8 min)**  
-  *Parent does:* Fill the tray with rice, 4 centimetres deep. Push ten lentils into the rice just under the top. Push ten lentils down near the bottom. Cover the tray with the cloth.  
-  *Parent says:* This is the mudflat. Ten worms live near the top. Ten live deep down. The cloth is the sea at high tide.  
+  *Parent does:* Fill the tray with rice, 4 centimetres deep. Push ten red lentils into the rice, just under the top. Push ten chickpeas down to the bottom. Cover the tray with the cloth.  
+  *Parent says:* This is the mudflat. Ten red worms live near the top. Ten big chickpea worms live deep down. The cloth is the sea at high tide.  
   *Child mode:* Fill the tray with rice. Hide ten lentils near the top and ten deep. Cover it.
-  - Note: Keep a note of which lentils are shallow and which are deep. You can use two colours of lentil.
+  - Note: Red lentils are the shallow worms and chickpeas are the deep worms, so you can tell them apart at once. With 2 to 4 children: one hunts, one times, one counts and one resets the tray; swap after each hunt so everyone gets a go.
 - **s3 (8 min)**  
-  *Parent does:* Take off the cloth, for low tide. Start the timer for 20 seconds. Use the spoon to scoop only the top 1 centimetre. Count the worms you find. Then cover the tray again.  
-  *Parent says:* The tide is out. You have 20 seconds. Use the spoon, and dig only the top. Count your worms.  
-  *Child mode:* Take off the cloth. Hunt with the spoon for 20 seconds. Count the worms.
-  - Note: Expected: the spoon finds many shallow worms and almost no deep ones.
+  *Parent does:* Take off the cloth, for low tide. Start the timer for 30 seconds. Use the spoon to scoop and spread only the top 1 centimetre of rice, and pick out the worms. Count shallow worms and deep worms separately. Then cover the tray again.  
+  *Parent says:* The tide is out. You have 30 seconds. Use the spoon, and dig only the top. Count your worms.  
+  *Child mode:* Take off the cloth. Hunt with the spoon for 30 seconds. Count the worms.
+  - Note: Typical result: the spoon finds several shallow worms (perhaps 5 to 10) and no deep ones.
 - **s4 (8 min)**  
-  *Parent does:* Reset the tray with the same number of worms. Take off the cloth and start the timer for 20 seconds. Use the chopsticks to probe down and pick up worms. Count them.  
-  *Parent says:* Reset the tray. The tide is out again. This time use the long bill. You have 20 seconds. Count your worms.  
-  *Child mode:* Reset the tray. Hunt with the chopsticks for 20 seconds. Count the worms.
-  - Note: Expected: the chopsticks find fewer worms in total, but they find the deep ones. Results vary, so try each bill twice and add them up.
+  *Parent does:* Reset the tray with the same number of worms. Take off the cloth and start the timer for 30 seconds. Push the chopsticks down to the bottom and tap. At a hard bump, open them a little and look. Pick up the chickpea. Count shallow and deep worms separately.  
+  *Parent says:* Reset the tray. The tide is out again. This time use the long bill. You have 30 seconds. Count your worms.  
+  *Child mode:* Reset the tray. Hunt with the chopsticks for 30 seconds. Count the worms.
+  - Note: Typical result: the chopsticks find fewer worms in total, but they find some deep ones that the spoon cannot reach. Results vary a lot and probing blind is fiddly. Try each bill twice and add them up. If the chopsticks find nothing, make the rice 3 centimetres deep and give 45 seconds; real waders also have to feel for food they cannot see.
 - **s5 (6 min)**  
   *Parent does:* Look at the counts. Ask: which bill found more shallow worms, and which found the deep ones? Why might many kinds of wader share one mudflat?  
   *Parent says:* Look at the counts. Which bill found the worms near the top? Which found the deep ones? Why can many kinds of waders share one mudflat?  

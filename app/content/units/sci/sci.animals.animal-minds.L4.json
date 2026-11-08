@@ -606,13 +606,13 @@
     }
    ],
    "rules": [
-    "Cut out the cards and keep the Meadow cards and the Riverbank cards in two separate piles. A helper picks one pile, shuffles it, and puts it face down. The helper does not say which is more trustworthy. Alone, shuffle the pile and do not look at the backs.",
+    "Cut out the cards and keep the Meadow cards and the Riverbank cards in two separate piles. A helper picks one pile, shuffles it, and puts it down with the name side up, so the result on the back stays hidden. The helper does not say which is more trustworthy. Alone, shuffle the pile and do not look at the backs.",
     "Put the seed tokens in a big bowl in the middle. This is the bank. Add dry beans or rice grains until it holds about 50 seeds for each player, so the bank does not run out. Each player has a nest bowl and a waiting plate.",
-    "In each round, every player chooses in secret. Take means you move one seed from the bank into your nest. Wait means you move one seed from the bank onto your waiting plate.",
+    "In each round, every player chooses in secret. Take means you move one seed from the bank into your nest. Wait means you move one seed from the bank onto your waiting plate. To choose in secret, every player puts a closed fist over the nest bowl (take) or the waiting plate (wait), and everyone lifts their fist together.",
     "Then turn over the top card. If it says Safe, every player who waited moves three seeds from the bank into their nest, and the seed on the waiting plate goes back to the bank. If it says Thief, the seed on the waiting plate goes back to the bank, and the waiting player gets nothing.",
     "Take always keeps its one seed. Wait may win three seeds or nothing.",
     "After 10 rounds, count the seeds in your nest. Then play 10 rounds with the other pile.",
-    "The player with the most seeds after both piles wins. If players tie, they share the win. Alone, try to beat 20 seeds in total."
+    "The player with the most seeds after both piles wins. If players tie, they share the win. Alone, try to beat 20 seeds in total, which is what taking every round scores."
    ],
    "flow": [
     {
@@ -621,12 +621,13 @@
      "do": "Cut out the 20 cards and the 30 seeds. Fill the bank bowl with dry beans or rice grains to about 50 seeds for each player. Keep the two piles apart. Give each player a bowl for a nest and a plate for waiting seeds. Put the bank in the middle.",
      "say": "Cut out the cards and seeds. Put the seeds in the middle. Each player gets a bowl and a plate.",
      "kid": "Cut out the cards. Cut out the seeds. Set up your bowl and plate.",
-     "context": "This is the first step of the Wait or Take game. You set up the cards, seeds and bowls."
+     "context": "This is the first step of the Wait or Take game. You set up the cards, seeds and bowls.",
+     "parent": "Dry beans are choking hazards for children under five, and the cutting is for an adult or older child with scissors. With 2 to 4 players, everyone uses the same card each round."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Shuffle one pile, face down, without showing the backs. Play the first three rounds. After each card, say what you chose and why.",
+     "do": "Shuffle one pile and put it down with the name side up, without showing the backs. Play the first three rounds. After each card, say what you chose and why.",
      "say": "Choose in secret: take one seed, or wait. Then I turn over the card. Did waiting pay?",
      "kid": "Take one seed, or wait. Then turn the card.",
      "context": "In this step, you play the first three rounds of the game.",
@@ -784,7 +785,7 @@
       "a": 0,
       "why": "If the cards go from small to big, the child can guess the next number without looking. A mixed order makes the answers come from the dots, not the order."
      },
-     "parent": "If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point."
+     "parent": "With 2 to 4 children, give each child their own table (same cards, each shuffled), and let the others take turns lifting the sheet; the children not being tested look away. If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point."
     },
     {
      "id": "s5",
@@ -811,7 +812,7 @@
        ]
       }
      ],
-     "parent": "Most children are right on 2, 3 and 4 dots, and begin to guess at 5, 6 or 7. The grouped six and eight are usually easier than the scattered ones. This is called subitising, and grouping uses it twice. Say the word after your child has said what they saw.",
+     "parent": "Typically, children are right on 2, 3 and 4 dots, and begin to guess at 5, 6 or 7, but your child may differ, and that is a real result. The grouped six and eight are usually easier than the scattered ones. With only two tries per card, one slip can be luck, so look for the row where mistakes keep happening. This is called subitising, and grouping uses it twice. Say the word after your child has said what they saw.",
      "think": "A chick only a few days old goes to the bigger of two groups of balls. What does that tell you about number words?"
     }
    ]
@@ -823,7 +824,7 @@
    "days": 1,
    "question": "Four pairs of piles each differ by 6 beans. Does your child tell them apart equally well, or do the pairs with the closer sizes get harder?",
    "predict": "Before you start, guess. Pairs: 6 and 12, 12 and 18, 18 and 24, 24 and 30. In every pair, one pile has exactly 6 more beans. Which pair will be hardest? Why do you think so?",
-   "fair_test": "Every pair is shown for about one second. Each pair is tested six times, with the bigger pile on the left half of the time and on the right half of the time. The beans in each pile are spread inside the same size circle. Only the number of beans changes. The difference between the two piles stays 6.",
+   "fair_test": "Every pair is shown for about one second. Each pair is tested six times, with the bigger pile on the left half of the time and on the right half of the time. The beans in each pile are spread inside the same size plate or circle. Only the number of beans changes. The difference between the two piles stays 6.",
    "results_table": [
     "Pair",
     "Smaller pile",
@@ -841,8 +842,8 @@
      "qty": 5
     },
     {
-     "item": "2 sheets of paper, each with a circle about 15 centimetres wide drawn on it by tracing a plate",
-     "qty": 2
+     "item": "5 flat plates or thalis of the same size (or 5 sheets of paper with a 15 centimetre circle traced on each)",
+     "qty": 5
     },
     {
      "item": "a clean dishtowel or cloth to cover the piles",
@@ -867,7 +868,7 @@
     },
     {
      "art": "Two sheets of paper with circles on them, each holding a spread pile of chickpeas, with a cloth over them.",
-     "caption": "2. Spread one pile on each sheet, inside the circle. Cover both with the cloth."
+     "caption": "2. Spread each pile in its own plate or circle, with no beans on top of each other. For each try, put the two plates for that pair side by side and cover both with the cloth."
     },
     {
      "art": "The cloth being lifted for one second while a child looks, and the parent with a stopwatch drawn in thought.",
@@ -905,12 +906,12 @@
      "say": "Let us count out the piles. We count in rows of six. Six, twelve, eighteen, twenty-four, thirty. Check that each pile is right.",
      "kid": "Count out 6, 12, 18, 24 and 30 beans. Use rows of six.",
      "context": "In this step, you prepare the five piles for the test.",
-     "parent": "Piles must be exact. Count twice. If a bean rolls away, count again. Use the same size of bean for every pile."
+     "parent": "Piles must be exact. Count twice. If a bean rolls away, count again. Use the same size of bean for every pile. Spread each pile in its own plate now (about one layer, not stacked). Then you only move the plates during the test, not the beans."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Practise once. Spread the 12 pile on one sheet and the 18 pile on the other, inside the circles. Cover both. Lift the cloth for one second, then cover again. Ask your child to point to the bigger one.",
+     "do": "Practise once. Spread the 12 pile on one plate and the 18 pile on another. Cover both. Lift the cloth for one second, then cover again. Ask your child to point to the bigger one.",
      "say": "I will lift the cloth for one second. Point to the pile with more beans. Do not count. Just point.",
      "kid": "Look for one second. Point to the bigger pile.",
      "context": "In this step, you practise the flash, so the real test is fair.",
@@ -918,7 +919,7 @@
     },
     {
      "id": "s4",
-     "mins": 20,
+     "mins": 18,
      "do": "Test the pairs in this order: 12 and 18, then 24 and 30, then 6 and 12, then 18 and 24. For each pair, run six tries. Before each try, toss the coin, set the piles, and cover them. Flash for one second. Write a tick or a cross.",
      "say": "Eyes closed, please. Now open. Point to the bigger pile. Good. Eyes closed again for the next.",
      "kid": "Eyes closed. Open. Point to the bigger pile.",
@@ -934,12 +935,12 @@
       "a": 0,
       "why": "If the bigger pile were always on the left, a child could point left and score full marks without looking. The coin makes the side random, so the score comes from judging the piles."
      },
-     "parent": "Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries.",
+     "parent": "Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries. With 2 to 4 children: the child being tested keeps their eyes closed, another child tosses the coin and sets the plates, and a third writes the ticks. Each child does 3 tries per pair, and you add up the scores of all children for the table. A single child with only 6 tries should treat a difference of one try as luck, and may repeat the test on another day.",
      "adult": false
     },
     {
      "id": "s5",
-     "mins": 2,
+     "mins": 4,
      "do": "Fill in the 'right out of 6' column. Draw a bar for each pair on the back of the sheet. Ask your child what they think, what they saw, and why.",
      "say": "Look at your bars. Which pair was hardest? The gap was six every time. What do you think made the hard pair hard?",
      "kid": "Which pair was hardest? Why, when the gap was always six?",
@@ -954,7 +955,7 @@
        ]
       }
      ],
-     "parent": "Most children do well on 6 and 12, do well on 12 and 18, and begin to guess on 24 and 30. This is called the ratio effect. A pair like 6 and 12 has a ratio of 1 to 2. A pair like 24 and 30 has a ratio of 4 to 5. A ratio close to 1 is harder. A caution for your child: the closer pile also looks more crowded, and that is a clue. Real scientists control for this by changing the size of the objects. You can try it by using bigger beans in the smaller pile."
+     "parent": "Typically, children do very well on 6 and 12, well on 12 and 18, and are guessing more on 24 and 30, but exact scores vary. This is called the ratio effect. A pair like 6 and 12 has a ratio of 1 to 2. A pair like 24 and 30 has a ratio of 4 to 5. A ratio close to 1 is harder. If every pair is easy for your child, flash for half a second, or use pairs such as 24 and 27. A caution for your child: the closer pile also looks more crowded, and that is a clue. Real scientists control for this by changing the size of the objects. You can try it by using bigger beans in the smaller pile."
     }
    ]
   },
@@ -965,7 +966,7 @@
    "days": 3,
    "question": "Which helps most when you wait for more: seeing the treat, hiding it under a cup, or hiding it and doing a puzzle?",
    "predict": "Before you start, guess. On which day will you wait the longest: treat in sight, treat under a cup, or treat under a cup while you do a puzzle? Why do you think so?",
-   "fair_test": "Each day uses the same treat, the same offer, the same place and the same time of day. The offer is always 1 raisin now, or 2 raisins if you wait 3 minutes. Only the way of waiting changes. The three ways are shuffled, so that practice cannot explain the result.",
+   "fair_test": "Each day uses the same treat, the same offer, the same place and the same time of day. The offer is always 1 raisin now, or 2 raisins if you wait 3 minutes. Only the way of waiting changes. The three ways are shuffled. One child on three days cannot fully separate the way from the day, so treat the result as one child's story, not proof. With siblings, give each child a different order.",
    "results_table": [
     "Day",
     "Way of waiting",
@@ -974,12 +975,12 @@
    ],
    "materials": [
     {
-     "item": "6 raisins, or 6 pieces of another small treat your child loves",
-     "qty": 6,
+     "item": "9 raisins, or 9 pieces of another small treat your child loves (3 are shown each day)",
+     "qty": 9,
      "buy": "b-raisins"
     },
     {
-     "item": "a plate and a steel cup that hides the plate",
+     "item": "2 small plates, and a steel bowl, lid or cloth that hides both plates",
      "qty": 1
     },
     {
@@ -1030,7 +1031,7 @@
     },
     {
      "art": "A steel cup upside down over the plate while the child sits at the table.",
-     "caption": "3. Way 2: wait with the raisins hidden under a cup."
+     "caption": "3. Way 2: wait with the raisins hidden under a cup or bowl."
     },
     {
      "art": "A child drawing a picture while a cup hides the plate on the table behind her.",
@@ -1055,7 +1056,7 @@
        ]
       }
      ],
-     "parent": "The test is only fair if you always keep your promise. If your child waits, give two at once, with thanks. Never use the result to say a child is good or bad at waiting."
+     "parent": "The test is only fair if you always keep your promise. If your child waits, give two at once, with thanks. Never use the result to say a child is good or bad at waiting. Put the one raisin on one plate and the two raisins on the other, both in front of your child. In ways 2 and 3, cover both plates. If your child lifts the cover, that counts as taking one. With 2 to 4 children, test each child alone while the others are in another room and are asked not to tell, and give each child a different order. If your child takes the raisin within seconds on every day, try 2 minutes instead of 3 next time."
     },
     {
      "id": "s2",
@@ -1154,8 +1155,8 @@
      "caption": "2. Round 2: cross the strings once in the middle."
     },
     {
-     "art": "The strings crossing twice and looping around a pencil in the middle of the table.",
-     "caption": "3. Round 3: cross the strings twice and loop them around a pencil."
+     "art": "The strings crossing three times like a loose braid in the middle of the table.",
+     "caption": "3. Round 3: cross the strings three times, like a loose braid."
     }
    ],
    "flow": [
@@ -1166,7 +1167,7 @@
      "say": "Two strings lead away from you. One is tied to the toy. The other is tied to a heavy book. Which string should you pull to bring the toy?",
      "kid": "Which string brings the toy? How do you know?",
      "context": "This is the first step of the String Puzzle. You set it up and guess.",
-     "parent": "Hide the toy's string by changing the order from child to child. Do not point."
+     "parent": "Change which side the toy is on for each try and each child. Do not point. Make a small table: Round 1, 2, 3, with \"looked first?\" and \"wrong pulls\"."
     },
     {
      "id": "s2",
@@ -1185,13 +1186,13 @@
        ]
       }
      ],
-     "parent": "Write down if your child looked first, traced with a finger, or pulled at once. Do not hint. If they pull the wrong string, say nothing, and let them try again."
+     "parent": "Write down if your child looked first, traced with a finger, or pulled at once, and count the wrong pulls. Do not hint. If they pull the wrong string, say nothing, and let them try again."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Cross the strings twice and loop one string around a pencil. Ask your child to pull. Watch if they trace with their eyes or finger before pulling.",
-     "say": "This one is harder. The strings cross twice, and one goes around the pencil. Pull the string you choose.",
+     "do": "Cross the strings three times, like a loose braid, so the two strings run over and under each other. Ask your child to pull. Watch if they trace with their eyes or finger before pulling.",
+     "say": "This one is harder. The strings cross three times. Pull the string you choose.",
      "kid": "A harder puzzle. Pull the string you choose.",
      "context": "In this step, you play round 3, with the strings crossed twice.",
      "check": {
@@ -1205,7 +1206,7 @@
       "a": 0,
       "why": "Looking first and then pulling the right string at once means the answer was worked out before the action. Trying one string and then the other is trial and error. Both are ways of solving a problem."
      },
-     "parent": "Many children trace the string with a finger or with their eyes. This is a way of thinking before acting."
+     "parent": "Many children trace the string with a finger or with their eyes. This is a way of thinking before acting. Write the wrong pulls for round 3 and compare the three rounds. With 2 to 4 children, each child solves a new arrangement alone while the others look away, then they swap. Keep the heavy book flat on the table so it cannot fall on a foot, and keep the small toy away from children under five."
     },
     {
      "id": "s4",
@@ -1231,7 +1232,7 @@
   {
    "id": "a2",
    "title": "Stilt Steps: be a desert ant",
-   "mins": 15,
+   "mins": 17,
    "days": 1,
    "context": "In this activity, you walk like a desert ant. You count your steps out, then walk the same number of steps home with very long steps and very short steps, and see where you land.",
    "materials": [
@@ -1241,11 +1242,11 @@
      "buy": "b-tape"
     },
     {
-     "item": "a long room, passage or terrace, at least 4 metres long",
+     "item": "a long room, passage or terrace, at least 3 to 4 metres long, with a dry clear floor",
      "qty": 1
     },
     {
-     "item": "a ruler or a tape measure",
+     "item": "a tape measure (or count heel-to-toe foot lengths with shoes off)",
      "qty": 1
     },
     {
@@ -1289,7 +1290,7 @@
        ]
       }
      ],
-     "parent": "Write the guess down. The ant counts steps and not how big they are, so longer steps carry her past the nest."
+     "parent": "Write the guess down. The ant counts steps and not how big they are, so longer steps carry her past the nest. Ask your child to also guess a number: how many centimetres or foot lengths past the line? Write it down and check it at the end."
     },
     {
      "id": "s2",
@@ -1307,12 +1308,12 @@
      "say": "Now walk home with the same number of steps. Make each step a giant stride. Look straight ahead and stop when you have counted them all.",
      "kid": "Walk home with the same number of giant steps.",
      "context": "In this step, you walk back with giant steps, like an ant on stilts.",
-     "parent": "Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. Measure the distance past the start line. Stilts made the ants overshoot in the same way."
+     "parent": "Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. With a second child as the helper, one walks while the other marks the stopping spot and measures; then swap. Measure the distance past the start line and write it in the table (walk, steps, distance from the start line). Measure one giant step and one normal step too. Stilts made the ants overshoot in the same way."
     },
     {
      "id": "s4",
-     "mins": 4,
-     "do": "From the far line, your child walks back with the same number of steps, but as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they think, saw and why.",
+     "mins": 6,
+     "do": "From the far line, your child walks back with the same number of steps, but as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they think, saw and why. Finally, walk back once more with normal steps as a control, and measure how far from the start line they stop.",
      "say": "Now the same number of steps, but tiny shuffles. Where will you stop? Then say what you saw and why.",
      "kid": "Same number of steps, but tiny. Where do you stop?",
      "context": "In this step, you walk back with tiny steps, like an ant on stumps.",
@@ -1326,7 +1327,7 @@
        ]
       }
      ],
-     "parent": "In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps and could not tell the steps were different. A real ant also looks at the sun, so your result is a model of the idea, not the same test."
+     "parent": "The control shows how much error normal steps already have, so you know the giant and tiny walks are bigger than chance. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps and could not tell the steps were different. A real ant also looks at the sun, so your result is a model of the idea, not the same test."
     }
    ]
   },
@@ -1360,11 +1361,11 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the four made-up claims aloud. Claim A: A dog barks the right number of times when his owner asks for 2 plus 3. The owner stands next to him and knows the answer. Claim B: A parrot says 'four' for four keys in many trials. The person who sets the tray does not know the answer. The keys change in size and colour. Claim C: A video shows a crow dropping stones in a tube once. No other tries are shown. Claim D: Two labs in different countries taught bees to pick the card with fewer dots. Both labs tested empty cards. In both, the helper who set the cards did not know the right side.",
+     "do": "Read the four made-up claims aloud. Claim A: A dog barks the right number of times when his owner asks for 2 plus 3. The owner stands next to him and knows the answer. Claim B: A parrot says 'four' for four keys in many trials. The person who sets the tray does not know the answer. The keys change in size and colour. Claim C: A video shows a crow dropping stones in a tube once. No other tries are shown. Claim D: Two labs in different countries taught bees to pick the card with fewer dots. Both labs also changed the dot sizes and positions so bees could not use size. In both, the helper who set the cards did not know the right side.",
      "say": "Here are four claims about clever animals. They are made up. Listen to each one. For each, think about how we could be fooled.",
      "kid": "Listen to four claims. How could we be fooled?",
      "context": "This is the first step of Fair or Fishy. You read four made-up claims about clever animals.",
-     "parent": "Read each claim slowly and ask what could explain it other than number."
+     "parent": "Read each claim slowly and ask what could explain it other than number. With 2 to 4 children, take a claim each to read aloud, then sort together and argue it out. A single child can sort with a parent."
     },
     {
      "id": "s2",
@@ -1499,7 +1500,7 @@
        ]
       }
      ],
-     "parent": "Only count the first choice. If no one visits in 20 minutes, pick up the food and try again on another day. Birds are shy, so be patient and stay still."
+     "parent": "Only count the first choice. If no one visits in 20 minutes, pick up the food and try again on another day. Birds are shy, so be patient and stay still. A visitor is not guaranteed. Put a little food on the same spot for 2 or 3 days first, so birds learn to come, and do not start the five test days until a bird has eaten there. If no bird comes after 3 days of this, skip this activity and play Wait or Take instead. Use pieces small enough to eat in one go, and watch from a window or a shaded spot, not in strong sun. With 2 to 4 children, one sets the plates, one watches, and one writes, then swap, and everyone stays inside and quiet. Keep food off the ground away from stray dogs or monkeys."
     },
     {
      "id": "s2",
@@ -1608,7 +1609,8 @@
       ],
       "a": 0,
       "why": "If the side decides her choice, the test does not show number sense. A coin to choose the side breaks that clue."
-     }
+     },
+     "parent": "If no bird visits, your family member can play the crow, or you can test the plan with a pigeon or squirrel if one comes."
     },
     {
      "id": "s4",
@@ -2598,7 +2600,7 @@
    "id": "b-cards",
    "item": "Thick white paper or plain index cards",
    "kind": "material",
-   "why": "For the dot cards in Dot Flash. Thick paper cut from a chart sheet works too.",
+   "why": "For the dot cards in Dot Flash. Thick paper cut from a chart sheet, an old notebook cover or a cereal box (white side) works too.",
    "url": "https://www.amazon.in/s?k=plain+white+index+cards",
    "used_in": [
     "e1"

@@ -227,15 +227,16 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 
 ## Games
 ### g1 · Wait or Take? The seed game (23 min)
-- **rules:** Cut out the cards and keep the Meadow cards and the Riverbank cards in two separate piles. A helper picks one pile, shuffles it, and puts it face down. The helper does not say which is more trustworthy. Alone, shuffle the pile and do not look at the backs.; Put the seed tokens in a big bowl in the middle. This is the bank. Add dry beans or rice grains until it holds about 50 seeds for each player, so the bank does not run out. Each player has a nest bowl and a waiting plate.; In each round, every player chooses in secret. Take means you move one seed from the bank into your nest. Wait means you move one seed from the bank onto your waiting plate.; Then turn over the top card. If it says Safe, every player who waited moves three seeds from the bank into their nest, and the seed on the waiting plate goes back to the bank. If it says Thief, the seed on the waiting plate goes back to the bank, and the waiting player gets nothing.; Take always keeps its one seed. Wait may win three seeds or nothing.; After 10 rounds, count the seeds in your nest. Then play 10 rounds with the other pile.; The player with the most seeds after both piles wins. If players tie, they share the win. Alone, try to beat 20 seeds in total.
+- **rules:** Cut out the cards and keep the Meadow cards and the Riverbank cards in two separate piles. A helper picks one pile, shuffles it, and puts it down with the name side up, so the result on the back stays hidden. The helper does not say which is more trustworthy. Alone, shuffle the pile and do not look at the backs.; Put the seed tokens in a big bowl in the middle. This is the bank. Add dry beans or rice grains until it holds about 50 seeds for each player, so the bank does not run out. Each player has a nest bowl and a waiting plate.; In each round, every player chooses in secret. Take means you move one seed from the bank into your nest. Wait means you move one seed from the bank onto your waiting plate. To choose in secret, every player puts a closed fist over the nest bowl (take) or the waiting plate (wait), and everyone lifts their fist together.; Then turn over the top card. If it says Safe, every player who waited moves three seeds from the bank into their nest, and the seed on the waiting plate goes back to the bank. If it says Thief, the seed on the waiting plate goes back to the bank, and the waiting player gets nothing.; Take always keeps its one seed. Wait may win three seeds or nothing.; After 10 rounds, count the seeds in your nest. Then play 10 rounds with the other pile.; The player with the most seeds after both piles wins. If players tie, they share the win. Alone, try to beat 20 seeds in total, which is what taking every round scores.
 - **Printable cards: 20 two-sided cards in two decks of 10: a Meadow deck and a Riverbank deck, each with the result on the back:** Meadow 1 (back: Safe); Meadow 2 (back: Safe); Meadow 3 (back: Thief); Meadow 4 (back: Safe); Meadow 5 (back: Safe); Meadow 6 (back: Safe); Meadow 7 (back: Safe); Meadow 8 (back: Thief); Meadow 9 (back: Safe); Meadow 10 (back: Safe); Riverbank 1 (back: Thief); Riverbank 2 (back: Thief); Riverbank 3 (back: Safe); Riverbank 4 (back: Thief); Riverbank 5 (back: Thief); Riverbank 6 (back: Thief); Riverbank 7 (back: Safe); Riverbank 8 (back: Thief); Riverbank 9 (back: Thief); Riverbank 10 (back: Thief)
 - **Printable tokens: 30 seed tokens (the start of the bank, to be topped up with dry beans or rice grains):** Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed
 - **s1 (4 min)**  
   *Parent does:* Cut out the 20 cards and the 30 seeds. Fill the bank bowl with dry beans or rice grains to about 50 seeds for each player. Keep the two piles apart. Give each player a bowl for a nest and a plate for waiting seeds. Put the bank in the middle.  
   *Parent says:* Cut out the cards and seeds. Put the seeds in the middle. Each player gets a bowl and a plate.  
   *Child mode:* Cut out the cards. Cut out the seeds. Set up your bowl and plate.
+  - Note: Dry beans are choking hazards for children under five, and the cutting is for an adult or older child with scissors. With 2 to 4 players, everyone uses the same card each round.
 - **s2 (6 min)**  
-  *Parent does:* Shuffle one pile, face down, without showing the backs. Play the first three rounds. After each card, say what you chose and why.  
+  *Parent does:* Shuffle one pile and put it down with the name side up, without showing the backs. Play the first three rounds. After each card, say what you chose and why.  
   *Parent says:* Choose in secret: take one seed, or wait. Then I turn over the card. Did waiting pay?  
   *Child mode:* Take one seed, or wait. Then turn the card.
   - Ask: After three cards, do you want to keep waiting, or take? Why? (good: Waiting won twice, so I will keep waiting.; Thieves came twice, so I will take.; I need more cards to know.)
@@ -278,7 +279,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent does:* Shuffle the cards. Flash each card once and tick or cross the answer in the table. Shuffle again and flash each card a second time. Do not show the cards from small to big.  
   *Parent says:* Here comes the first card. Ready? Say the number. Good. Here is the next.  
   *Child mode:* Say the number you saw. Do not count.
-  - Note: If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point.
+  - Note: With 2 to 4 children, give each child their own table (same cards, each shuffled), and let the others take turns lifting the sheet; the children not being tested look away. If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point.
   - Check: Why do we shuffle the cards instead of going from 2 up to 9? → **So the child cannot guess from the order**
 - **s5 (4 min)**  
   *Parent does:* Look at the table together. Find the first row where mistakes begin. Compare the scattered six with the six in two rows. Ask your child to write what they think, what they saw, and why.  
@@ -286,12 +287,12 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Child mode:* Where did you start to make mistakes? Which six was easier?
   - Ask: Where did your mistakes begin? What was different about the cards with mistakes? (good: After four dots.; When there were more dots, I could not hold them all.; The dice six was easier because I saw two threes.)
   - Ask: The two sixes had the same number of dots. Why was one easier? (good: I could see two threes.; The dots were in groups.; Grouping lets me know a big number as small parts.)
-  - Note: Most children are right on 2, 3 and 4 dots, and begin to guess at 5, 6 or 7. The grouped six and eight are usually easier than the scattered ones. This is called subitising, and grouping uses it twice. Say the word after your child has said what they saw.
+  - Note: Typically, children are right on 2, 3 and 4 dots, and begin to guess at 5, 6 or 7, but your child may differ, and that is a real result. The grouped six and eight are usually easier than the scattered ones. With only two tries per card, one slip can be luck, so look for the row where mistakes keep happening. This is called subitising, and grouping uses it twice. Say the word after your child has said what they saw.
   - Think: A chick only a few days old goes to the bigger of two groups of balls. What does that tell you about number words?
 ### e2 · Which Pile Is Bigger? The ratio test (37 min)
 - **question:** Four pairs of piles each differ by 6 beans. Does your child tell them apart equally well, or do the pairs with the closer sizes get harder?
 - **predict:** Before you start, guess. Pairs: 6 and 12, 12 and 18, 18 and 24, 24 and 30. In every pair, one pile has exactly 6 more beans. Which pair will be hardest? Why do you think so?
-- **fair test:** Every pair is shown for about one second. Each pair is tested six times, with the bigger pile on the left half of the time and on the right half of the time. The beans in each pile are spread inside the same size circle. Only the number of beans changes. The difference between the two piles stays 6.
+- **fair test:** Every pair is shown for about one second. Each pair is tested six times, with the bigger pile on the left half of the time and on the right half of the time. The beans in each pile are spread inside the same size plate or circle. Only the number of beans changes. The difference between the two piles stays 6.
 - **safety:** Dried beans can choke small children. Keep them away from children under five, and do not let anyone put them in their mouth or nose.
 - **record:** For each pair, write how many of the six tries were right. Then draw a bar for each pair, with the height showing the number right.
 - **results table:** Pair | Smaller pile | Bigger pile | Right out of 6
@@ -305,28 +306,28 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent does:* Count the beans into five katoris: 6, 12, 18, 24 and 30. Count in rows of six, which is easier. Put the katoris in a row, smallest to biggest. Keep this out of your child's sight if you can.  
   *Parent says:* Let us count out the piles. We count in rows of six. Six, twelve, eighteen, twenty-four, thirty. Check that each pile is right.  
   *Child mode:* Count out 6, 12, 18, 24 and 30 beans. Use rows of six.
-  - Note: Piles must be exact. Count twice. If a bean rolls away, count again. Use the same size of bean for every pile.
+  - Note: Piles must be exact. Count twice. If a bean rolls away, count again. Use the same size of bean for every pile. Spread each pile in its own plate now (about one layer, not stacked). Then you only move the plates during the test, not the beans.
 - **s3 (3 min)**  
-  *Parent does:* Practise once. Spread the 12 pile on one sheet and the 18 pile on the other, inside the circles. Cover both. Lift the cloth for one second, then cover again. Ask your child to point to the bigger one.  
+  *Parent does:* Practise once. Spread the 12 pile on one plate and the 18 pile on another. Cover both. Lift the cloth for one second, then cover again. Ask your child to point to the bigger one.  
   *Parent says:* I will lift the cloth for one second. Point to the pile with more beans. Do not count. Just point.  
   *Child mode:* Look for one second. Point to the bigger pile.
   - Note: Toss the coin before each try. Heads: the bigger pile goes on the left. Tails: on the right. Do this while your child's eyes are closed.
-- **s4 (20 min)**  
+- **s4 (18 min)**  
   *Parent does:* Test the pairs in this order: 12 and 18, then 24 and 30, then 6 and 12, then 18 and 24. For each pair, run six tries. Before each try, toss the coin, set the piles, and cover them. Flash for one second. Write a tick or a cross.  
   *Parent says:* Eyes closed, please. Now open. Point to the bigger pile. Good. Eyes closed again for the next.  
   *Child mode:* Eyes closed. Open. Point to the bigger pile.
-  - Note: Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries.
+  - Note: Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries. With 2 to 4 children: the child being tested keeps their eyes closed, another child tosses the coin and sets the plates, and a third writes the ticks. Each child does 3 tries per pair, and you add up the scores of all children for the table. A single child with only 6 tries should treat a difference of one try as luck, and may repeat the test on another day.
   - Check: Why do we toss a coin to decide which side the bigger pile goes on? → **So the child cannot guess that the bigger pile is always on one side**
-- **s5 (2 min)**  
+- **s5 (4 min)**  
   *Parent does:* Fill in the 'right out of 6' column. Draw a bar for each pair on the back of the sheet. Ask your child what they think, what they saw, and why.  
   *Parent says:* Look at your bars. Which pair was hardest? The gap was six every time. What do you think made the hard pair hard?  
   *Child mode:* Which pair was hardest? Why, when the gap was always six?
   - Ask: In every pair the gap was six. Why were some pairs harder than others? (good: Six is a big part of 12 but a small part of 30.; When the piles are big, six more looks like a tiny bit.; It depends on how many times bigger one pile is.)
-  - Note: Most children do well on 6 and 12, do well on 12 and 18, and begin to guess on 24 and 30. This is called the ratio effect. A pair like 6 and 12 has a ratio of 1 to 2. A pair like 24 and 30 has a ratio of 4 to 5. A ratio close to 1 is harder. A caution for your child: the closer pile also looks more crowded, and that is a clue. Real scientists control for this by changing the size of the objects. You can try it by using bigger beans in the smaller pile.
+  - Note: Typically, children do very well on 6 and 12, well on 12 and 18, and are guessing more on 24 and 30, but exact scores vary. This is called the ratio effect. A pair like 6 and 12 has a ratio of 1 to 2. A pair like 24 and 30 has a ratio of 4 to 5. A ratio close to 1 is harder. If every pair is easy for your child, flash for half a second, or use pairs such as 24 and 27. A caution for your child: the closer pile also looks more crowded, and that is a clue. Real scientists control for this by changing the size of the objects. You can try it by using bigger beans in the smaller pile.
 ### e3 · The Waiting Test: what helps you wait for more? (33 min, 3 days)
 - **question:** Which helps most when you wait for more: seeing the treat, hiding it under a cup, or hiding it and doing a puzzle?
 - **predict:** Before you start, guess. On which day will you wait the longest: treat in sight, treat under a cup, or treat under a cup while you do a puzzle? Why do you think so?
-- **fair test:** Each day uses the same treat, the same offer, the same place and the same time of day. The offer is always 1 raisin now, or 2 raisins if you wait 3 minutes. Only the way of waiting changes. The three ways are shuffled, so that practice cannot explain the result.
+- **fair test:** Each day uses the same treat, the same offer, the same place and the same time of day. The offer is always 1 raisin now, or 2 raisins if you wait 3 minutes. Only the way of waiting changes. The three ways are shuffled. One child on three days cannot fully separate the way from the day, so treat the result as one child's story, not proof. With siblings, give each child a different order.
 - **safety:** Check that your child has no allergy to the treat, and only use treats they can chew safely. Do not run the test when your child is hungry, tired or upset.
 - **record:** Each day, write how many minutes your child waited, up to 3, and whether they got one treat or two. At the end, line up the three days and compare.
 - **results table:** Day | Way of waiting | Minutes waited (up to 3) | Got 1 raisin or 2?
@@ -336,7 +337,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent says:* This is a game, not a test of you. You may take one raisin any time. If you wait three minutes, you get two. We will try three ways of waiting on three days. Which way do you think will be easiest? Why?  
   *Child mode:* A game of waiting. Take one raisin anytime. Wait three minutes for two.
   - Ask: What do you think will help you wait the longest, and why? (good: Hiding it, because I will not keep looking.; Doing something fun, because I forget about it.; Looking at it, because it reminds me why I am waiting.)
-  - Note: The test is only fair if you always keep your promise. If your child waits, give two at once, with thanks. Never use the result to say a child is good or bad at waiting.
+  - Note: The test is only fair if you always keep your promise. If your child waits, give two at once, with thanks. Never use the result to say a child is good or bad at waiting. Put the one raisin on one plate and the two raisins on the other, both in front of your child. In ways 2 and 3, cover both plates. If your child lifts the cover, that counts as taking one. With 2 to 4 children, test each child alone while the others are in another room and are asked not to tell, and give each child a different order. If your child takes the raisin within seconds on every day, try 2 minutes instead of 3 next time.
 - **s2 (8 min)**  
   *Parent does:* Day 1. Play the way you drew first. Put one raisin on a plate for now and two on another for later. Start the timer. Stop at three minutes or when your child takes the one raisin. Write the minutes waited.  
   *Parent says:* Here is one raisin now. Or you wait three minutes for two. I start the timer now. You can stop any time.  
@@ -366,18 +367,18 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent does:* Tie the toy to one string and the heavy book to the other. Lay the strings side by side on the table, with the toy and the book at the far end. Leave the near ends within your child's reach. Ask which string will bring the toy, and how they know.  
   *Parent says:* Two strings lead away from you. One is tied to the toy. The other is tied to a heavy book. Which string should you pull to bring the toy?  
   *Child mode:* Which string brings the toy? How do you know?
-  - Note: Hide the toy's string by changing the order from child to child. Do not point.
+  - Note: Change which side the toy is on for each try and each child. Do not point. Make a small table: Round 1, 2, 3, with "looked first?" and "wrong pulls".
 - **s2 (5 min)**  
   *Parent does:* Cross the strings once in the middle of the table, so the left near end leads to the right far end. Ask your child to pull the one they choose. Watch what they do before they pull, and write it down.  
   *Parent says:* The strings cross now. Pull the one you think brings the toy.  
   *Child mode:* The strings cross. Pull the string you choose.
   - Ask: What did you do in your head before you pulled? (good: I followed the string with my eyes.; I traced it with my finger.; I just guessed.)
-  - Note: Write down if your child looked first, traced with a finger, or pulled at once. Do not hint. If they pull the wrong string, say nothing, and let them try again.
+  - Note: Write down if your child looked first, traced with a finger, or pulled at once, and count the wrong pulls. Do not hint. If they pull the wrong string, say nothing, and let them try again.
 - **s3 (4 min)**  
-  *Parent does:* Cross the strings twice and loop one string around a pencil. Ask your child to pull. Watch if they trace with their eyes or finger before pulling.  
-  *Parent says:* This one is harder. The strings cross twice, and one goes around the pencil. Pull the string you choose.  
+  *Parent does:* Cross the strings three times, like a loose braid, so the two strings run over and under each other. Ask your child to pull. Watch if they trace with their eyes or finger before pulling.  
+  *Parent says:* This one is harder. The strings cross three times. Pull the string you choose.  
   *Child mode:* A harder puzzle. Pull the string you choose.
-  - Note: Many children trace the string with a finger or with their eyes. This is a way of thinking before acting.
+  - Note: Many children trace the string with a finger or with their eyes. This is a way of thinking before acting. Write the wrong pulls for round 3 and compare the three rounds. With 2 to 4 children, each child solves a new arrangement alone while the others look away, then they swap. Keep the heavy book flat on the table so it cannot fall on a foot, and keep the small toy away from children under five.
   - Check: When a child follows a string with her eyes before pulling, which best describes what she does? → **She plans the pull in her mind before acting**
 - **s4 (2 min)**  
   *Parent does:* Ask your child which round they solved by looking first and which by trying. Tell them that ravens have been tested with a similar puzzle.  
@@ -385,13 +386,13 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Child mode:* Did you look first, or try first? How would you test a raven?
   - Ask: How could we tell if a raven worked it out first, or learned it step by step? (good: See if she does it right the first time she sees a new puzzle.; Change the puzzle and see if she still solves it.; Watch if she tries wrong ways first.)
   - Note: Scientists do disagree on this. Some see insight, a mind working out the answer. Others see trial and error, or an inborn habit. Heinrich saw some ravens solve the puzzle quickly and took this as insight. Other scientists say the ravens may have learned it step by step, so the question is still open.
-### a2 · Stilt Steps: be a desert ant (15 min)
+### a2 · Stilt Steps: be a desert ant (17 min)
 - **s1 (3 min)**  
   *Parent does:* Stick a start line and a far line about 4 metres apart. Ask what will happen if your child walks home with the same number of steps, but much longer ones.  
   *Parent says:* Desert ants find home by counting steps. I want you to be a desert ant. If you take the same number of steps home, but much longer steps, where will you land? Why?  
   *Child mode:* Same number of steps, but longer. Where will you land? Why?
   - Ask: If you take longer steps but the same number of steps, will you stop short, at the line, or past it? Why? (good: Past it, because longer steps go farther.; Past the start line.; I think I will go too far.)
-  - Note: Write the guess down. The ant counts steps and not how big they are, so longer steps carry her past the nest.
+  - Note: Write the guess down. The ant counts steps and not how big they are, so longer steps carry her past the nest. Ask your child to also guess a number: how many centimetres or foot lengths past the line? Write it down and check it at the end.
 - **s2 (4 min)**  
   *Parent does:* Your child starts at the start line, and walks to the far line with normal steps, counting each one. Write down the number of steps. Mark the far line with their toes.  
   *Parent says:* Walk to the far line with your normal steps. Count each step. Say the number at the end.  
@@ -401,19 +402,19 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent does:* From the far line, your child walks back with the same number of steps, but as long as they can. Mark where they stop. Measure how far they are from the start line.  
   *Parent says:* Now walk home with the same number of steps. Make each step a giant stride. Look straight ahead and stop when you have counted them all.  
   *Child mode:* Walk home with the same number of giant steps.
-  - Note: Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. Measure the distance past the start line. Stilts made the ants overshoot in the same way.
-- **s4 (4 min)**  
-  *Parent does:* From the far line, your child walks back with the same number of steps, but as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they think, saw and why.  
+  - Note: Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. With a second child as the helper, one walks while the other marks the stopping spot and measures; then swap. Measure the distance past the start line and write it in the table (walk, steps, distance from the start line). Measure one giant step and one normal step too. Stilts made the ants overshoot in the same way.
+- **s4 (6 min)**  
+  *Parent does:* From the far line, your child walks back with the same number of steps, but as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they think, saw and why. Finally, walk back once more with normal steps as a control, and measure how far from the start line they stop.  
   *Parent says:* Now the same number of steps, but tiny shuffles. Where will you stop? Then say what you saw and why.  
   *Child mode:* Same number of steps, but tiny. Where do you stop?
   - Ask: What does this tell you about how the ants know the distance home? (good: They count their steps, but not how long each one is.; Their steps tell them the way.; They do not measure distance by looking.)
-  - Note: In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps and could not tell the steps were different. A real ant also looks at the sun, so your result is a model of the idea, not the same test.
+  - Note: The control shows how much error normal steps already have, so you know the giant and tiny walks are bigger than chance. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps and could not tell the steps were different. A real ant also looks at the sun, so your result is a model of the idea, not the same test.
 ### a3 · Fair or Fishy? Check an animal genius claim (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Read the four made-up claims aloud. Claim A: A dog barks the right number of times when his owner asks for 2 plus 3. The owner stands next to him and knows the answer. Claim B: A parrot says 'four' for four keys in many trials. The person who sets the tray does not know the answer. The keys change in size and colour. Claim C: A video shows a crow dropping stones in a tube once. No other tries are shown. Claim D: Two labs in different countries taught bees to pick the card with fewer dots. Both labs tested empty cards. In both, the helper who set the cards did not know the right side.  
+  *Parent does:* Read the four made-up claims aloud. Claim A: A dog barks the right number of times when his owner asks for 2 plus 3. The owner stands next to him and knows the answer. Claim B: A parrot says 'four' for four keys in many trials. The person who sets the tray does not know the answer. The keys change in size and colour. Claim C: A video shows a crow dropping stones in a tube once. No other tries are shown. Claim D: Two labs in different countries taught bees to pick the card with fewer dots. Both labs also changed the dot sizes and positions so bees could not use size. In both, the helper who set the cards did not know the right side.  
   *Parent says:* Here are four claims about clever animals. They are made up. Listen to each one. For each, think about how we could be fooled.  
   *Child mode:* Listen to four claims. How could we be fooled?
-  - Note: Read each claim slowly and ask what could explain it other than number.
+  - Note: Read each claim slowly and ask what could explain it other than number. With 2 to 4 children, take a claim each to read aloud, then sort together and argue it out. A single child can sort with a parent.
 - **s2 (6 min)**  
   *Parent does:* Sort the claims into Trust, Trust a little and Ask for more tests. Ask why for each one.  
   *Parent says:* Put each claim in a box. Say why. What could fool us in this one?  
@@ -434,7 +435,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent says:* Two plates, one small pile and one big pile. We toss the coin to decide the sides. Then we watch from far away. Which pile will she go to first? Why?  
   *Child mode:* Two plates. Watch from far away. Which pile first?
   - Ask: Which pile do you think the visitor will go to first? Why? (good: The big one, because she sees more food.; The closer one.; I do not know.)
-  - Note: Only count the first choice. If no one visits in 20 minutes, pick up the food and try again on another day. Birds are shy, so be patient and stay still.
+  - Note: Only count the first choice. If no one visits in 20 minutes, pick up the food and try again on another day. Birds are shy, so be patient and stay still. A visitor is not guaranteed. Put a little food on the same spot for 2 or 3 days first, so birds learn to come, and do not start the five test days until a bird has eaten there. If no bird comes after 3 days of this, skip this activity and play Wait or Take instead. Use pieces small enough to eat in one go, and watch from a window or a shaded spot, not in strong sun. With 2 to 4 children, one sets the plates, one watches, and one writes, then swap, and everyone stays inside and quiet. Keep food off the ground away from stray dogs or monkeys.
   - Wait: Repeat each day for five days.
 - **s2 (5 min)**  
   *Parent does:* On the last day, count the days the bigger pile was first. Count the days the smaller pile was first. Ask what the result shows. Ask what else could explain it.  
@@ -466,6 +467,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent does:* Test the plan on a family member who acts as the crow and cannot see your hints. Count the tries they get right. Find one clue they used that you forgot.  
   *Parent says:* A family member plays the crow. Can they find the bigger pile without counting? What clue did they use?  
   *Child mode:* Test your plan on a family member.
+  - Note: If no bird visits, your family member can play the crow, or you can test the plan with a pigeon or squirrel if one comes.
   - Check: A crow always picks the pile on the left. What does this most likely show? → **She uses position, not number**
 - **s4 (4 min)**  
   *Parent does:* Improve the plan using what the family member used. Write the final plan in four lines.  
@@ -688,7 +690,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [Science City]() · place · Kolkata: A large science centre with galleries on life and the mind. Check what is on before you go.
 
 ## Things to buy
-- [Thick white paper or plain index cards](https://www.amazon.in/s?k=plain+white+index+cards) (material): For the dot cards in Dot Flash. Thick paper cut from a chart sheet works too. Used in e1. 
+- [Thick white paper or plain index cards](https://www.amazon.in/s?k=plain+white+index+cards) (material): For the dot cards in Dot Flash. Thick paper cut from a chart sheet, an old notebook cover or a cereal box (white side) works too. Used in e1. 
 - [A black marker pen](https://www.amazon.in/s?k=black+marker+pen) (tool): For drawing clear dots on the cards. Any thick black pen works. Used in e1, c1. 
 - [Dried chickpeas or rajma](https://www.amazon.in/s?k=dried+chickpeas) (material): For the piles in Which Pile Is Bigger. Most kitchens already have them. Used in e2. 
 - [Raisins or another small treat](https://www.amazon.in/s?k=raisins) (material): For the Waiting Test. Use a treat your child loves. Used in e3. 
