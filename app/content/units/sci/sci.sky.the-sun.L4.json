@@ -704,7 +704,8 @@
      "do": "Cut out the layer cards and clue cards. Lay the six layer cards in a stack, core at the bottom. Shuffle the clue cards face down.",
      "say": "We will build the Sun layer by layer. Each card gives a clue about one layer. Your job is to say which layer it is.",
      "kid": "Cut out the cards. Lay the six layers in a stack. Shuffle the clues.",
-     "context": "This is the first step of Build the Sun. You set out the layers and the clue cards."
+     "context": "This is the first step of Build the Sun. You set out the layers and the clue cards.",
+     "parent": "No printer? Copy each card on to a small slip of paper, with the question on one side and the answer on the other. This takes about 15 minutes and children can share the copying."
     },
     {
      "id": "s2",
@@ -943,7 +944,8 @@
      "do": "Cut out the cards and shield tokens. Put five shields on the Earth. Shuffle the cards face down.",
      "say": "We are the staff of the space-weather desk. The Sun sends events, and we decide what to do. Our aim is to keep the Earth well shielded.",
      "kid": "Cut out the cards and shields. Put five shields on the Earth.",
-     "context": "This is the first step of Space Weather Desk. You set up the team game."
+     "context": "This is the first step of Space Weather Desk. You set up the team game.",
+     "parent": "No printer? Copy each event on to a small slip of paper with the answer on the back, and use 5 coins, bindis or paper scraps as shields. Children can share the copying."
     },
     {
      "id": "s2",
@@ -1029,7 +1031,7 @@
      "qty": 1
     },
     {
-     "item": "a strip of white card 3 cm wide and 20 cm long, with a black square 3 cm by 3 cm drawn at one end and centimetre marks along the card",
+     "item": "a strip of white card 3 cm wide and 20 cm long, with a black square 3 cm by 3 cm drawn at one end and centimetre marks along the card, covered with clear tape so that water does not soak it",
      "qty": 1
     },
     {
@@ -1037,7 +1039,7 @@
      "qty": 1
     },
     {
-     "item": "a teaspoon and a small cup of milk",
+     "item": "a teaspoon and a small cup of milk (any milk will do; for a child with a milk allergy, stir 1 teaspoon of cornflour into half a cup of water and use it spoon for spoon instead)",
      "qty": 1
     },
     {
@@ -1049,7 +1051,7 @@
      "qty": 1
     }
    ],
-   "safety": "Milk is food. If anyone handling the jar has a milk allergy, do not use milk; ask a grown-up to swap in a few drops of a safe white liquid they know is fine. The cloudy water in the jar is not for drinking, so tip it away and wash the jar afterwards. Keep a phone or any electric thing away from the jar, and use a small torch, not a phone. Wipe any spills straight away so nobody slips.",
+   "safety": "Milk is food. If anyone handling the jar has a milk allergy, do not use milk; use the cornflour and water mix from the materials list instead. The cloudy water in the jar is not for drinking, so tip it away and wash the jar afterwards. Keep a phone or any electric thing away from the jar, and use a small torch, not a phone. Wipe any spills straight away so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -1133,7 +1135,7 @@
      "do": "1. Pour 500 millilitres of water into the jar. 2. Draw centimetre marks along the card. 3. Lower the card, black patch first, to the bottom. 4. Write 0 teaspoons and the depth in the first row.",
      "say": "First the clear water. Lower the card slowly. Can you see the black patch all the way to the bottom?",
      "kid": "Pour in the water. Lower the card. Can you see the black patch at the bottom?",
-     "parent": "In clear water you should see the black patch right down to the bottom. If the jar is deeper than the card, write the deepest depth you can read and say 'to the bottom'.",
+     "parent": "In clear water you should see the black patch right down to the bottom. If the jar is deeper than the card, write the deepest depth you can read and say 'to the bottom'. Your water may be deeper or shallower than the 12 cm in the example, so measure it and call that \"the bottom\". Cover the card with clear tape first, or it goes soggy.",
      "check": {
       "t": "mcq",
       "q": "Why do we test clear water first?",
@@ -1163,7 +1165,7 @@
        ]
       }
      ],
-     "parent": "If the patch vanishes at once with the first quarter spoon, start again with 5 drops. If you can still see to the bottom after four spoons, the milk may be very thin, so add more. The numbers will vary with your jar and light, and that is fine.",
+     "parent": "If the patch vanishes at once with the first quarter spoon, start again with 5 drops. If you can still see to the bottom after four spoons, the milk may be very thin, so add more. The numbers will vary with your jar and light, and that is fine. Read the depth from the centimetre mark at the water surface. With 2 to 4 children, one stirs, one lowers the card, one reads the depth and one writes it down; swap after every row. With one child, the grown-up stirs and the child lowers and reads. The depths in the example are made up and only typical, so yours will differ.",
      "check": {
       "t": "mcq",
       "q": "You add more milk. Where does the black patch vanish?",
@@ -1180,7 +1182,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Make the room as dark as you can. 2. Stand the jar with a lot of milk on a lit torch lying face up. 3. Look at the glow from the side. 4. Then look down into the jar from a slant, not straight at the torch. 5. Write what you see.",
+     "do": "1. Make the room as dark as you can. 2. Stand the jar, with only about 1 teaspoon of milk in it, on a lit torch lying face up. 3. Look at the glow from the side. 4. Then look down into the jar from a slant, not straight at the torch. 5. Write what you see.",
      "say": "In the dark, look at the glow from the side. Is there a sharp edge, or does it fade? What colour is it? Then look down from a slant. Is the colour the same?",
      "kid": "Make the room dark. Look at the glow from the side. Does it have a sharp edge?",
      "adult": true,
@@ -1193,7 +1195,7 @@
        ]
       }
      ],
-     "parent": "Do not look straight at the torch's bulb from above, as it can dazzle. The glow looks bluish from the side and yellow-orange when you look down through it, as the sky is blue and a sunset is orange. This is the same effect.",
+     "parent": "Do not look straight at the torch's bulb from above, as it can dazzle. The glow looks bluish from the side and yellow-orange when you look down through it, as the sky is blue and a sunset is orange. This is the same effect. Use a thin cloud for this step. With a lot of milk the glow is just white and the colours vanish. The colours are faint, so use a very dark room and be honest if you cannot see them; the missing sharp edge is the main thing to notice.",
      "check": {
       "t": "mcq",
       "q": "Where is the top edge of the glow?",
@@ -1242,7 +1244,7 @@
      "qty": 1
     },
     {
-     "item": "half a teaspoon of ground black pepper",
+     "item": "half a teaspoon of ground black pepper (or the fine dust from the bottom of a tea packet), and a few drops of fountain-pen ink or food colour in case the pepper does not show the loops",
      "qty": 1
     },
     {
@@ -1254,11 +1256,11 @@
      "qty": 1
     },
     {
-     "item": "a low table or counter at a height your child can see over while standing on the floor, at arm's length from the pan",
+     "item": "a sturdy stool, if the pan is too high for your child to look into from a step back; a grown-up stands right behind the child",
      "qty": 1
     }
    ],
-   "safety": "A grown-up runs the stove and holds the pan. Keep a low flame. Keep your child back by an arm's length. Turn the pan handle inwards. Tie back long hair and do not touch the pan or the steam. Switch off the heat when you finish and leave the pan to cool before you move it.",
+   "safety": "A grown-up runs the stove and does not move the pan while it is hot. Keep a low flame. Keep your child back by an arm's length and never let anyone lean over the pan. Turn the pan handle inwards. Tie back long hair and do not touch the pan or the steam. Switch off the heat when you finish and leave the pan to cool before you move it.",
    "schedule": [
     {
      "day": 1,
@@ -1309,7 +1311,7 @@
      "say": "I will put the pan on a low flame. We wait until the water is hot but not boiling. Then we sprinkle the pepper. Stay back.",
      "kid": "A grown-up heats the water on low. Wait for steam. Then sprinkle the pepper.",
      "adult": true,
-     "parent": "Do not let the water boil hard, because big bubbles hide the slow loops. If the specks all sink and nothing moves, wait another minute and look again. A very low flame works best. The water should look hot, with steam rising, but not bubbling over.",
+     "parent": "Do not let the water boil hard, because big bubbles hide the slow loops. If the specks all sink and nothing moves, wait another minute and look again. A very low flame works best. The water should look hot, with steam rising, but not bubbling over. Starting with water as hot as the tap gives saves time, because a litre on a low flame can take 8 to 10 minutes to show steam. If you cannot see any loops with the pepper, the grown-up can drip 3 or 4 drops of ink or food colour in at the middle: the colour is carried up, out and down.",
      "check": {
       "t": "mcq",
       "q": "Why do we warm the water slowly?",
@@ -1326,7 +1328,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Look into the pan from above. 2. Find where the specks rise, where they spread out and where they sink. 3. Pick one speck and time how long it takes to go round one loop. 4. Do it for three different specks.",
+     "do": "1. Look into the pan from above. 2. Find where the specks rise, where they spread out and where they sink. 3. Pick one speck and time how long it takes to go round one loop. 4. Do it for three different specks. 5. If there is time, a grown-up nudges the flame up a little. Time three more loops. Do they get faster?",
      "say": "Look carefully. Where do the specks rise? Where do they go next? Where do they sink? Pick one speck and count the seconds for one whole loop.",
      "kid": "Watch the specks. Where do they rise? Where do they sink? Time one loop.",
      "adult": true,
@@ -1340,7 +1342,7 @@
        ]
       }
      ],
-     "parent": "Usually the specks rise above the hottest part, which is the middle of a gas flame, spread across the top and sink near the edge. If your pan does it the other way round, write that down. It is a real result. A loop may take 5 to 30 seconds.",
+     "parent": "Usually the specks rise above the hottest part, which is the middle of a gas flame, spread across the top and sink near the edge. If your pan does it the other way round, write that down. It is a real result. A loop may take 5 to 30 seconds. Pepper floats, so mostly you will see the flow along the top. With 2 to 4 children, only two stand at the safe distance at a time: one calls out what the specks do and one times the loop; then swap. A grown-up can also film the pan from above for 30 seconds so everyone can replay it and time loops again. Loop times are typical, not promised.",
      "check": {
       "t": "mcq",
       "q": "Why does the water in the middle rise?",
@@ -1421,6 +1423,10 @@
      "qty": 2
     },
     {
+     "item": "a tubelight or CFL bulb that is switched on, if your home has one (LED bulbs give a smoother band)",
+     "qty": 1
+    },
+    {
      "item": "tape and scissors",
      "qty": 1
     },
@@ -1429,7 +1435,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up lights and puts out the candle and stays close. Keep the candle on a steel plate away from curtains and hair. Never point the CD, the torch or anything that reflects light at the Sun, and never look at the Sun. Use the torch, the candle and a lamp only. CD edges can be sharp, so a grown-up should handle the edge.",
+   "safety": "A grown-up lights and puts out the candle and stays close. Keep the candle on a steel plate away from curtains and hair. Never point the CD, the torch or anything that reflects light at the Sun, and never look at the Sun. Use the torch, the candle and a lamp only. Do not shine the torch into anyone's eyes, do not touch a lit bulb, and do not break a CFL bulb. CD edges can be sharp, so a grown-up should handle the edge.",
    "schedule": [
     {
      "day": 1,
@@ -1479,7 +1485,7 @@
      "do": "1. Tape two black cards to a torch. 2. Leave a thin gap between them, about as thin as a coin's edge. 3. Make the room dark. 4. Switch on the torch. 5. Stand 2 metres away.",
      "say": "Tape two black cards over the torch, nearly touching. Leave a very thin gap between them. This makes a thin line of light, like a slit.",
      "kid": "Tape two cards over the torch. Leave a thin gap. Switch it on in the dark.",
-     "parent": "The slit must be thin, about 1 millimetre. If the line is too wide, the colours smear and you will see only a smudge. Practise holding the torch steady, or rest it on a book.",
+     "parent": "The slit must be thin, about 1 millimetre. If the line is too wide, the colours smear and you will see only a smudge. Practise holding the torch steady, or rest it on a book. Hold the CD close to your eye and look at the reflection of the slit in it. Turn the CD round in your hand, like a plate, until the colours stretch sideways from the line.",
      "check": {
       "t": "mcq",
       "q": "Why do we use a thin slit of light?",
@@ -1508,7 +1514,7 @@
        ]
       }
      ],
-     "parent": "The colours show only at one tilt, so go slowly. If you see nothing, move closer to the slit or darken the room more. A phone camera can also catch the band if you hold the CD in front of it. Violet may be faint. A white LED torch often shows a strong blue-violet and a gap between green and blue.",
+     "parent": "The colours show only at one tilt, so go slowly. If you see nothing, move closer to the slit or darken the room more. A phone camera can also catch the band if you hold the CD in front of it. Violet may be faint. A white LED torch often shows a strong blue and a dimmer patch between blue and green. If you still see nothing after ten minutes, tilt the shiny face of the CD under a tubelight: the rainbow sheen shows that light splits even without a slit. With 2 to 4 children, one holds the torch steady while another looks; each child gets three looks.",
      "check": {
       "t": "mcq",
       "q": "Which colour sits at one end of the band, and which at the other?",
@@ -1525,7 +1531,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Cover the torch with the red cellophane and look again through the CD. 2. A grown-up lights the candle and puts it behind the slit. 3. Look at the candle's flame in the CD as before. 4. Write the colours you saw for each. 5. A grown-up puts out the candle.",
+     "do": "1. Cover the torch with the red cellophane and look again through the CD. 2. A grown-up lights the candle and puts it behind the slit. 3. Look at the candle's flame in the CD as before. 4. A grown-up puts out the candle. 5. Look at a lit tubelight or CFL in the CD in the same way, if you have one. Does its band come in pieces? 6. Write the colours you saw for each.",
      "say": "Now the red torch. What do you see? Then the candle, lit by a grown-up. How is its band different from the white torch's band?",
      "kid": "Look at the red torch. Then the candle. How are the bands different?",
      "adult": true,
@@ -1535,11 +1541,12 @@
        "good": [
         "The red torch shows only red.",
         "The candle shows warm colours, red to yellow.",
-        "The white torch shows many colours."
+        "The white torch shows many colours.",
+        "The tubelight shows separate bright lines, not one smooth band."
        ]
       }
      ],
-     "parent": "The red torch usually shows a single red band, because the cellophane lets only red through. A candle flame shows a continuous band with a lot of orange and yellow, and a little blue. If the candle is too dim, move it close to the slit. The candle's colours are less bright than the torch's, so keep the room very dark.",
+     "parent": "The red torch usually shows mostly a red band (perhaps a little orange), because the cellophane lets only red light through. A candle flame shows a continuous band with a lot of orange and yellow, and a little blue. If the candle is too dim, move it close to the slit. The candle's colours are less bright than the torch's, so keep the room very dark. A tubelight or CFL shows a few bright separate lines, often blue, green and orange-red, instead of a smooth band. This is the nearest thing to the Sun's \"barcode\" you can make at home. If all your lights are LED, skip it.",
      "check": {
       "t": "mcq",
       "q": "Why does the red torch show only red?",
@@ -1559,7 +1566,7 @@
      "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened. Then show them the picture of the Sun's spectrum with dark lines.",
      "say": "Tell me three things. What do you think now? What did you see? Why do you think the three lights made different bands?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: each kind of light makes its own pattern of colours. What I saw: the white torch showed a wide band from red to violet, the red torch only red, and the candle a warm band. Why: each light is made of different colours. Astronomers do this with the Sun, but with a much finer tool. They see hundreds of thin dark lines, and each kind of atom makes its own pattern. Our CD cannot show those lines, so show the picture of the Sun's spectrum on a phone or in a book.",
+     "parent": "A good answer sounds like this. What I think: each kind of light makes its own pattern of colours. What I saw: the white torch showed a wide band from red to violet, the red torch only red, and the candle a warm band. Why: each light is made of different colours. Astronomers do this with the Sun, but with a much finer tool. They see hundreds of thin dark lines, and each kind of atom makes its own pattern. Our CD is too coarse to show the Sun's dark lines, so show the picture of the Sun's spectrum on a phone or in a book.",
      "think": "If every atom has its own pattern, how could you tell what a faraway star is made of?",
      "context": "In this last step, you say what you found and see how astronomers use it."
     }
@@ -1619,7 +1626,7 @@
        ]
       }
      ],
-     "parent": "Pictures from space are safe to look at. If the internet is not working, use a book with a picture of the Sun. Different pictures show different layers, so the Sun may look orange, yellow or blue-white. Do not explain yet. Write down what your child notices and wonders.",
+     "parent": "Pictures from space are safe to look at. If the internet is not working, use a book with a picture of the Sun. Different pictures show different layers, so the Sun may look orange, yellow or blue-white. Do not explain yet. Write down what your child notices and wonders. With 2 to 4 children, each draws their own picture first, then compare what each noticed.",
      "context": "This is a quick start. You look at a real picture of the Sun before anyone explains anything."
     },
     {
@@ -1659,7 +1666,7 @@
      "qty": 3
     },
     {
-     "item": "a pencil or a thin skewer to hold the orange, pushed through by a grown-up",
+     "item": "a pencil or a thin skewer to hold the orange, pushed through by a grown-up, and a lump of clay or atta dough to cover a skewer's sharp end",
      "qty": 1
     },
     {
@@ -1711,7 +1718,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. A grown-up pushes the skewer through the orange from the top to the bottom, so the skewer is the Sun's axis.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. A grown-up pushes the skewer through the orange from the top to the bottom, so the skewer is the Sun's axis. If the bindis do not stick to the peel, draw the spots with a marker pen.",
      "context": "This is the first step of the Spin the Orange activity. You guess before you turn."
     },
     {
@@ -1772,7 +1779,7 @@
        ]
       }
      ],
-     "parent": "A spot is hidden for about half the turn, so about 13 or 14 seconds, standing for about 13 or 14 days. Practise turning at a steady speed. It may take two or three tries. A real spot may also fade while it is hidden, and some never return.",
+     "parent": "A spot is hidden for about half the turn, so about 13 or 14 seconds, standing for about 13 or 14 days. Practise turning at a steady speed. It may take two or three tries. A real spot may also fade while it is hidden, and some never return. Count the 27 seconds aloud together, \"one, two, three...\", while a second child watches the clock. With 2 to 4 children, one turns, one counts, one watches the spot and one writes; swap roles each try. Alone, the child turns and counts aloud while the grown-up watches the clock.",
      "check": {
       "t": "mcq",
       "q": "A sunspot vanishes at the Sun's western edge. About when might it come back?",
@@ -1809,11 +1816,15 @@
      "qty": 1
     },
     {
-     "item": "a jug of water",
+     "item": "a jug of water, and a bowl or bucket to catch the water at the low end of the tray",
      "qty": 1
     },
     {
      "item": "a small steel katori turned upside down, to be the Earth",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, and a lump of atta dough or clay to hold the katori still",
      "qty": 1
     },
     {
@@ -1829,7 +1840,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do this at a sink, on a floor that can get wet, or on a balcony. Wipe up spills straight away so nobody slips.",
+   "safety": "Do this at a sink, on a floor that can get wet, or on a balcony. Wipe up spills straight away so nobody slips. Turmeric stains clothes, so wear old ones; pepper can make you sneeze.",
    "schedule": [
     {
      "day": 1,
@@ -1872,7 +1883,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Tilt the tray on a book. 2. Sprinkle a pinch of turmeric on the high end. 3. Pour water slowly and steadily from the jug at the high end. 4. Watch where the turmeric streams go. 5. Try again, pouring faster.",
+     "do": "1. Tilt the tray on a book. 2. Sprinkle a pinch of turmeric on the high end. 3. Pour water slowly and steadily from the jug at the high end. 4. Watch where the turmeric streams go. 5. Measure the calm tail behind the katori with the ruler. 6. Try again, pouring faster, and measure the tail again.",
      "say": "Pour slowly from the top. Watch where the yellow streams go. Where is the water calm? Now pour faster. What changes?",
      "kid": "Pour water from the top. Watch the streams. Where is it calm?",
      "ask": [
@@ -1891,7 +1902,7 @@
        ]
       }
      ],
-     "parent": "The water splits at the front of the katori, flows round both sides and joins up behind it, leaving a calmer tail. The faster the stream, the longer the tail. This is a rough model. The Earth is not a solid thing in the Sun's wind. An invisible magnetic field makes the wind bend, and the field is much wider than the planet.",
+     "parent": "The water splits at the front of the katori, flows round both sides and joins up behind it, leaving a calmer tail. The faster the stream, the longer the tail. This is a rough model. The Earth is not a solid thing in the Sun's wind. An invisible magnetic field makes the wind bend, and the field is much wider than the planet. Press the katori on a small lump of dough so it does not slide down the tray. Tilt the tray over a sink or bowl. With 2 to 4 children, one pours, one holds the tray, one measures and one draws. Alone, the grown-up holds the tray. Tail lengths depend on your tray, so compare slow with fast rather than hunting for a set number.",
      "check": {
       "t": "mcq",
       "q": "What does the katori stand for in this model?",
@@ -1996,7 +2007,7 @@
        ]
       }
      ],
-     "parent": "Choose the Solar Dynamics Observatory pictures from the NASA website, and pick the one in white light or orange, where spots show clearly. If there are no spots on the Sun today, use the practice numbers in the project instead: -4.0, -3.2, -2.2, -1.2 and 0.0 centimetres on days 1 to 5. These are made-up practice numbers. Choose the same kind of picture every day, and the same time of day if you can.",
+     "parent": "Choose the Solar Dynamics Observatory pictures from the NASA website, and pick the one in white light or orange, where spots show clearly. If there are no spots on the Sun today, use the practice numbers in the project instead: -4.0, -3.2, -2.2, -1.2 and 0.0 centimetres on days 1 to 5. These are made-up practice numbers. Choose the same kind of picture every day, and the same time of day if you can. To measure, zoom the picture until the Sun is about 10 cm wide on the screen, so the ruler on the screen matches your paper circle; if it will not zoom, mark how far the spot is from the middle as a fraction of the Sun's radius and use the same fraction on your circle.",
      "context": "This is day 1 of the Sunspot Diary. You copy a real spot on to your paper."
     },
     {
@@ -2049,7 +2060,7 @@
        ]
       }
      ],
-     "parent": "On a 10 centimetre circle, a spot near the middle moves about 1 centimetre a day, and it moves less near the edge because the ball curves away. The whole crossing takes about 13 or 14 days. If your answer is a little different, that is fine. Write down your own number.",
+     "parent": "On a 10 centimetre circle, a spot near the middle moves about 1 centimetre a day, and it moves less near the edge because the ball curves away. The whole crossing takes about 13 or 14 days. If your answer is a little different, that is fine. Write down your own number. With 2 to 4 children, each follows a different spot (or the same spot on their own sheets) and compares speeds at the end. Alone, follow two spots if there are two. If a day is missed, use the next picture and note the gap in days.",
      "check": {
       "t": "mcq",
       "q": "A spot moves about 1 centimetre each day near the middle of a 10 centimetre Sun. About how long would it take to cross from one edge to the other?",
@@ -2092,7 +2103,7 @@
    "materials": [
     "a sheet of stiff card about 15 cm by 20 cm",
     "a straight pencil or a bamboo skewer",
-    "a small lump of clay",
+    "a small lump of clay or atta dough",
     "a protractor",
     "a thick book or a box to rest the card on",
     "a sunny balcony, terrace or open window"
@@ -2145,7 +2156,7 @@
      "say": "Tilt the card slowly. Watch the pencil's shadow. When it shrinks to a dot, the card faces the Sun. Rest it on the book.",
      "kid": "Tilt the card. Watch the shadow. Find the tilt that makes a dot.",
      "adult": true,
-     "parent": "The shadow dot is the whole trick. Do not look at the Sun. If the card moves, redo it. In November in South India the Sun is fairly low at noon, so the card leans well over, around 25 to 35 degrees. In June it would lean much less.",
+     "parent": "The shadow dot is the whole trick. Do not look at the Sun. If the card moves, redo it. In November in South India the Sun is fairly low at noon, so the card leans well over, around 25 to 35 degrees. In June it would lean much less. If the sky is cloudy or hazy, wait for a clear day, because a faint shadow is hard to judge. With 2 to 4 children, one tilts the card, one watches the shadow, one steadies the book and one writes the angle.",
      "check": {
       "t": "mcq",
       "q": "When the pencil's shadow is a dot, what does that tell you?",
@@ -2175,7 +2186,7 @@
        ]
       }
      ],
-     "parent": "Latitudes are about 10 degrees for Kochi and Madurai, 13 for Chennai, 17 for Hyderabad and 28 for Delhi. Late in the year the Sun is low in the south, so the tilt is larger than the latitude. In midsummer it would be smaller. A fixed panel is usually set to about the city's latitude, facing south, as a compromise for the whole year.",
+     "parent": "Latitudes are about 10 degrees for Kochi and Madurai, 13 for Chennai, 17 for Hyderabad and 28 for Delhi. Late in the year the Sun is low in the south, so the tilt is larger than the latitude. In midsummer it would be smaller. A fixed panel is usually set to about the city's latitude, facing south, as a compromise for the whole year. To read the angle, rest the card's lower edge on the floor and its upper edge on the book, put the flat edge of the protractor on the floor against the card's lower edge, and read where the card crosses the scale.",
      "context": "In this step, you measure the tilt and compare with your city's latitude."
     },
     {
@@ -3371,5 +3382,5 @@
    "Hydro-Quebec blackout report and NOAA space-weather pages (13 March 1989 geomagnetic storm)"
   ]
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Glowing Fog needs only a tall glass, milk, a card and a torch. Start with a quarter teaspoon of milk, and use 5 drops if the black patch vanishes at once. The depths depend on the jar, so numbers will differ from the example. The Boiling Pot is run by a grown-up on a low flame, and the child watches from an arm's length. If the pepper does not show loops, wait a minute more and keep the water below boiling. The Sun's Barcode works best in a dark room with a very thin slit. The colours show only at one tilt of the CD, so go slowly, and a phone camera can help. The candle needs a grown-up. Spin the Orange needs only an orange, a skewer and stickers, and works at any time. The Sunspot Diary needs the internet. If there are no sunspots on the Sun on those days, the made-up practice numbers in the first step can be used. Please check on the NASA site that the pictures are available. The Sun-Facing Stand needs direct sun between 11 and 1, and a protractor. Facts for a person to check before publishing: Parker's account of the editor's choice, the Hanle aurora report, the 1989 Quebec blackout length, and the figure of about 570 lines mapped by Fraunhofer. Videos are still to be found."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Glowing Fog needs only a tall glass, milk, a card and a torch. Start with a quarter teaspoon of milk, and use 5 drops if the black patch vanishes at once. The depths depend on the jar, so numbers will differ from the example. The Boiling Pot is run by a grown-up on a low flame, and the child watches from an arm's length. If the pepper does not show loops, wait a minute more, keep the water below boiling, or drip in a little ink or food colour. The Sun's Barcode works best in a dark room with a very thin slit, and a tubelight shows separate lines. The colours show only at one tilt of the CD, so go slowly, and a phone camera can help. The candle needs a grown-up. Spin the Orange needs only an orange, a skewer and stickers, and works at any time. The Sunspot Diary needs the internet. If there are no sunspots on the Sun on those days, the made-up practice numbers in the first step can be used. Please check on the NASA site that the pictures are available. The Sun-Facing Stand needs direct sun between 11 and 1, and a protractor. Facts for a person to check before publishing: Parker's account of the editor's choice, the Hanle aurora report, the 1989 Quebec blackout length, and the figure of about 570 lines mapped by Fraunhofer. Videos are still to be found."
 }

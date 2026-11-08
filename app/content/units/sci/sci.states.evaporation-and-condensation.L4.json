@@ -713,7 +713,7 @@
     }
    ],
    "rules": [
-    "Put the dew point chart where everyone can see it. Shuffle the 24 air and glass cards and put them face down. Put the bonus cards in another pile.",
+    "Put the dew point chart where everyone can see it. If you have no printer, copy the chart and the cards onto paper slips. Shuffle the 24 air and glass cards and put them face down. Put the bonus cards in another pile.",
     "On your turn, turn over a card and read it aloud. Find the dew point in the chart for that air temperature and humidity.",
     "Say MIST if the glass is colder than the dew point. Say NO MIST if the glass is warmer. Say the dew point out loud too.",
     "Turn the card over to check. A right answer scores 1 point. If you also said the right dew point, you score 1 more.",
@@ -816,7 +816,7 @@
      "qty": 1
     },
     {
-     "item": "six small cups holding: plain water; salt water made with a quarter teaspoon of salt in a tablespoon of water; sugar syrup made with a teaspoon of sugar in a tablespoon of water; vinegar; coconut oil; and liquid hand sanitiser poured by a grown-up. About a tablespoon of each",
+     "item": "six small cups holding: plain water; salt water made with a quarter teaspoon of salt in a tablespoon of water; sugar syrup made with a teaspoon of sugar in a tablespoon of water; vinegar; coconut oil; and hand sanitiser (the usual alcohol kind from a medical shop, about Rs 50) poured by a grown-up. About a tablespoon of each",
      "qty": 6
     },
     {
@@ -836,7 +836,7 @@
      "qty": 1
     }
    ],
-   "safety": "Hand sanitiser catches fire easily. Keep it well away from the stove, candles and diyas, and put it away when you finish. A grown-up pours it and puts it on the plate. Do not use it on cut skin, and keep it away from the eyes. Do not taste any of the liquids.",
+   "safety": "Hand sanitiser catches fire easily. Keep it well away from the stove, candles and diyas, and put it away when you finish. A grown-up pours it and puts it on the plate. Do not use it on cut skin, and keep it away from the eyes. Do not taste any of the liquids. Use a hand sanitiser that is a thin liquid or spray if you can. A thick gel leaves a film and dries slower.",
    "schedule": [
     {
      "day": 1,
@@ -931,7 +931,7 @@
      "say": "Wipe the extra off the stick, so the streak is thin. Make every streak the same size. Draw where each liquid is on your paper. Start the timer when the last streak is done.",
      "kid": "Dip a stick. Wipe off the extra. Smear a thin streak. Do all six. Start the timer.",
      "adult": true,
-     "parent": "A thin streak matters. A puddle takes far longer to dry than a thin film. Keep the streaks at least three centimetres apart. Put the plate where it will not be touched, away from a fan or a window draught.",
+     "parent": "A thin streak matters. A puddle takes far longer to dry than a thin film. Keep the streaks at least three centimetres apart. Put the plate where it will not be touched, away from a fan or a window draught. With 2 to 4 children: one child smears and one times, or each child smears three liquids on the shared plate and keeps their own results table. Everyone scores the skin test on their own hand. With one child, the parent holds the timer and the sanitiser.",
      "check": {
       "t": "mcq",
       "q": "Why does each liquid get its own clean stick and the same size of streak?",
@@ -961,7 +961,7 @@
      "do": "1. Look at the plate every two minutes for twenty minutes. 2. Look from the side, at eye level. 3. Write down the minute when each streak first looks dry, with no shine. 4. If a streak is still shiny at the end, write 'still wet'.",
      "say": "Look from the side. A wet streak is shiny. A dry streak is dull. Tell me when each one stops shining. Which went first? Which are still shiny?",
      "kid": "Look every two minutes. Wet streaks shine. Dry ones go dull. Write the minute.",
-     "parent": "On a humid day water may take more than twenty minutes. If so, switch on a fan for the plate, so all six dry in the same moving air, and carry on. Sanitiser dries in seconds, and may leave a sticky film if it is a gel. The oil will not dry at all in this time.",
+     "parent": "On a humid day water may take more than twenty minutes. If so, switch on a fan for the plate, so all six dry in the same moving air, and carry on. Sanitiser dries in seconds, and may leave a sticky film if it is a gel. The oil will not dry at all in this time. These times are typical, not promised: in a hot dry room water may dry in about 5 to 10 minutes, in a damp monsoon room it may still be shiny at 20 minutes. Salt water in a very damp room may never fully dry and stay glossy. That is a real result: write it down, and say why.",
      "context": "In this step you check the plate every two minutes and write when each liquid dries."
     },
     {
@@ -1001,7 +1001,7 @@
    "mins": 40,
    "days": 1,
    "context": "In this experiment you make a humid box and find out which kitchen things take water from the air without being cold.",
-   "question": "Salt, sugar, jaggery, rice, baking soda and a silica gel sachet: which of them pull water vapour out of very humid air?",
+   "question": "Salt, sugar, jaggery, rice, baking soda and puffed rice (murmura): which of them pull water vapour out of very humid air?",
    "predict": "Before you start, guess. Which of the six things will get damp in a humid box? Which will stay dry? Why do you think so?",
    "fair_test": "Each thing gets the same amount, in the same kind of saucer, in the same box for the same time. A control saucer of salt stays outside the box in a closed jar. Only the thing changes, so any difference comes from the thing.",
    "results_table": [
@@ -1020,12 +1020,11 @@
      "qty": 5
     },
     {
-     "item": "one silica gel sachet from a shoe box, bag or medicine bottle, still sealed",
-     "qty": 1,
-     "buy": "b-silica"
+     "item": "a handful of puffed rice (murmura), crisp and dry, about one level tablespoon",
+     "qty": 1
     },
     {
-     "item": "a big plastic box with a tight lid, large enough to hold the six saucers",
+     "item": "a big plastic box with a tight lid, large enough to hold the six saucers (a steel dabba or a big steel pot with a lid also works)",
      "qty": 1
     },
     {
@@ -1041,12 +1040,12 @@
      "qty": 1
     },
     {
-     "item": "a kitchen scale that reads in grams, if you have one (not needed)",
+     "item": "a kitchen scale that reads in grams, and a sealed silica gel sachet, if you have them (optional: weigh the sachet before and after; it gains only a little, and a basic scale may not show it)",
      "qty": 1,
      "buy": "b-scale"
     }
    ],
-   "safety": "A grown-up pours the hot water and puts the bowl in the box. Steam can scald, so open the lid away from your face. Do not eat the tested things or the silica gel. Wash your hands afterwards.",
+   "safety": "A grown-up pours the hot water and puts the bowl in the box. Steam can scald, so open the lid away from your face. Use water that is very hot, not furiously boiling, if the box is thin plastic. Do not eat the tested things afterwards. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1099,7 +1098,7 @@
      "do": "1. Put one level teaspoon of each thing in its own saucer. 2. Label each saucer with a paper slip. 3. Put one level teaspoon of salt in a saucer inside the closed jar. 4. If you have a scale, weigh each saucer and write the number.",
      "say": "Level teaspoons, so every heap is the same size. This salt in the jar is our control. It stays in dry air, so we can compare.",
      "kid": "Put a level spoon of each thing in a saucer. Label them. Put salt in the closed jar.",
-     "parent": "The silica gel stays in its sealed sachet. Put the sachet in its saucer as it is. The control tells you whether the room itself is damp enough to affect salt. If the control salt turns damp, it is a very humid day.",
+     "parent": "Use a pinch of puffed rice on its own saucer, still crisp. Wipe the inside of the lid dry before you start. The control tells you whether the room itself is damp enough to affect salt. If the control salt turns damp, it is a very humid day.",
      "check": {
       "t": "mcq",
       "q": "What is the control jar of salt for?",
@@ -1120,7 +1119,7 @@
      "say": "A grown-up will put the saucers in the box with a bowl of hot water. The steam fills the box with water vapour. Close the lid tight. Now we wait forty minutes.",
      "kid": "A grown-up puts the saucers and hot water in the box. Close the lid. Note the time.",
      "adult": true,
-     "parent": "The hot water fills the closed box with water vapour, so the air inside is almost completely full. Do not open the lid during the wait. If you do not have a big box with a lid, use the bathroom after a hot bath with the door closed.",
+     "parent": "The hot water fills the closed box with water vapour, so the air inside is almost completely full. Do not open the lid during the wait. If you do not have a big box with a lid, use the bathroom after a hot bath with the door closed. Drops of water may form under the lid and fall onto a saucer. A splash makes one wet spot, while a thirsty thing goes damp all through the heap. Stand the saucers in a ring away from the middle of the lid if you can, and do not count a splash. For 2 to 4 children: one child fills the labels, one sets the timer, and each guesses for every saucer, then compares guesses at the end.",
      "context": "In this step a grown-up makes the box humid, with a bowl of hot water and a tight lid."
     },
     {
@@ -1135,10 +1134,10 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "1. Open the lid away from your face. 2. Look at each saucer with a torch. 3. Poke each heap gently with a clean dry spoon. 4. Write what it looks and feels like: dry and loose, clumpy, sticky or wet. 5. Look at the control salt in the jar.",
+     "do": "1. Open the lid away from your face. 2. Look at each saucer with a torch. 3. Poke each heap gently with a clean dry spoon. Snap a piece of puffed rice. 4. Write what it looks and feels like: dry and loose, clumpy, sticky or wet. 5. Look at the control salt in the jar.",
      "say": "Open the lid slowly. Look at each heap. Poke it with the spoon. Is it loose and dry, or lumpy, sticky or wet? Compare with the control salt.",
      "kid": "Open the lid slowly. Look at each heap. Poke it. Dry, lumpy, sticky or wet?",
-     "parent": "Expect the salt to be clumpy with a wet shine, the jaggery powder to be sticky, and the sugar to be a little tacky. The rice and the baking soda should look the same, and so should the silica gel, though it gets heavier if you weigh it. The control salt should be dry. If differences are small, leave the box closed for 30 more minutes and look again.",
+     "parent": "Expect the salt to be clumpy with a wet shine, the jaggery powder to be sticky, the puffed rice to be soft and chewy (snap one piece and listen), and the sugar to be a little tacky. These are typical results, and they depend on the weather. The rice and the baking soda should look about the same as before. The control salt should be dry. If differences are small, leave the box closed for 30 more minutes and look again.",
      "context": "In this step you open the box and compare the six heaps with the control."
     },
     {
@@ -1204,7 +1203,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does all the cooking. Steam and the lid can burn badly. Lift the lid away from your face with oven gloves or tongs. The child stays back. A grown-up pours the water into the jug only once the pan is cool enough to touch with a bare hand, which may take longer than fifteen minutes, and then the child reads the measuring.",
+   "safety": "A grown-up does all the cooking. Steam and the lid can burn badly. Tie back long hair and loose dupattas, and keep children at arm's length from the stove. Lift the lid away from your face with oven gloves or tongs. A grown-up pours the water into the jug only once the pan is cool enough to touch with a bare hand, which can take 30 minutes, and then the child reads the measuring.",
    "schedule": [
     {
      "day": 1,
@@ -1319,10 +1318,10 @@
     {
      "id": "s5",
      "mins": 13,
-     "do": "1. Wait at least fifteen minutes, until a grown-up finds the pans cool enough to touch with a bare hand. 2. A grown-up pours the water from the open pan into the jug. 3. Read the level at eye height and write it. 4. Do the same with the covered pan. 5. Work out how much each lost.",
+     "do": "1. Wait 20 to 30 minutes, until a grown-up finds the pans cool enough to touch with a bare hand. 2. A grown-up pours the water from the open pan into the jug. 3. Read the level at eye height and write it. 4. Do the same with the covered pan. 5. Work out how much each lost.",
      "say": "Pour each pan into the jug and read the level at eye height. How much is left in each? Take it away from 500. How much was lost?",
      "kid": "Wait until the pans are cool. Pour each into the jug. Read the level. Work out the loss.",
-     "parent": "Expect the open pan to lose noticeably more, perhaps 50 to 150 millilitres, and the covered pan only a few millilitres. Your numbers depend on your flame and pan, so write exactly what you measure.",
+     "parent": "Expect the open pan to lose noticeably more, typically about 100 to 250 millilitres in ten minutes of steady boil on a home gas flame (more on a high flame), and the covered pan only a few millilitres. Do not turn the flame to high: the open pan could lose half its water. Your numbers depend on your flame and pan, so write exactly what you measure. Use a steel or heat-proof jug, since the water may still be hot. For 2 to 4 children: one reads each jug, one writes the numbers, and one checks the reading again. With one child, the parent pours and the child reads.",
      "context": "In this step you measure how much water is left in each pan."
     },
     {
@@ -1428,7 +1427,7 @@
      "say": "Breathe out slowly into the freezer. What do you see? Where do you think your breath's water came from?",
      "kid": "Breathe out into the freezer. What do you see? Where did the cloud come from?",
      "adult": true,
-     "parent": "Your breath carries water vapour from inside you. The cold air cools it below its dew point, and a white cloud of tiny drops appears. It is the same thing that happens on a cold morning when you can see your breath.",
+     "parent": "Your breath carries water vapour from inside you. The cold air cools it below its dew point, and a white cloud of tiny drops appears. It is the same thing that happens on a cold morning when you can see your breath. The breath cloud works even when the fog does not, so the activity never fails. For 2 to 4 children: one child holds the torch and one watches the direction of the fog, then swap and repeat.",
      "check": {
       "t": "mcq",
       "q": "A white fog pours out of a freezer on a humid day. What is the fog?",
@@ -1442,7 +1441,8 @@
      },
      "context": "In this step you breathe into the freezer and decide what the fog is."
     }
-   ]
+   ],
+   "safety": "A grown-up opens and holds the freezer door. Keep fingers away from the door edge. Do not put your head inside. Close the door after the activity so the food does not warm up."
   },
   {
    "id": "a2",
@@ -1510,11 +1510,11 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. A grown-up checks that the back or side of the fridge is safe to reach. 2. Hold the back of your hand 5 centimetres from the back or side panel. 3. Move it across and feel the warmth. 4. Compare with the air in front of the fridge.",
+     "do": "1. A grown-up checks that the back or side of the fridge is safe to reach. 2. Hold the back of your hand 5 centimetres from the back or side panel. 3. Move it across and feel the warmth. 4. Compare with the air in front of the fridge. 5. Score the warmth from 0 to 5 at the front, side and back. Write the scores.",
      "say": "Hold the back of your hand a few centimetres away. Do not touch it. Is it warmer here than at the front? Which part is warmest?",
      "kid": "Hold your hand near the back of the fridge. Do not touch. Is it warm? Where is it warmest?",
      "adult": true,
-     "parent": "Hold the hand on the side panel too, as many fridges have their warm pipe there. The warmth is gentle, not hot. If the fridge back is not reachable, feel the air that comes out below or above the fridge.",
+     "parent": "Hold the hand on the side panel too, as many fridges have their warm pipe there. The warmth is gentle, not hot. If the fridge back is not reachable, feel the air that comes out below or above the fridge. For 2 to 4 children: each child scores the warmth and compares scores. If they differ, hold the hand at the same distance. No fridge back is reachable? Feel the warm air at the gap above or below.",
      "context": "In this step you feel the warmth coming from the back of the fridge."
     },
     {
@@ -1552,7 +1552,7 @@
      "qty": 1
     },
     {
-     "item": "three steel tumblers or glasses",
+     "item": "three steel tumblers or glasses (clear glass shows the mist best)",
      "qty": 3
     },
     {
@@ -1618,10 +1618,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Wipe the outside of each tumbler dry. 2. Watch each one for two minutes. 3. Write whether it misted, and how soon. 4. Compare with your predictions.",
+     "do": "1. Wipe the outside of each tumbler dry. 2. Watch each one for two minutes. 3. Write whether it misted, and how soon. 4. Compare with your predictions. 5. Wipe one misted patch with a finger. If it mists again, the water came from the air, not from a leak.",
      "say": "Wipe each tumbler dry. Watch for two minutes. Does mist appear? How soon? Was your prediction right?",
      "kid": "Wipe each tumbler dry. Watch for two minutes. Does mist appear?",
-     "parent": "A glass colder than the dew point will mist within a minute. A glass warmer than it will stay dry. If the tap-water glass is only slightly warmer, add one ice cube at a time and stir. The mist should start when the water has cooled just below the dew point. If you have a thermometer, read the water temperature at that moment.",
+     "parent": "A glass colder than the dew point will mist within a minute. A glass warmer than it will stay dry. If the tap-water glass is only slightly warmer, add one ice cube at a time and stir. The mist should start when the water has cooled just below the dew point. If you have a thermometer, read the water temperature at that moment. The mist test works with steel tumblers too, they just go dull. For 2 to 4 children: each child owns one glass and makes the prediction before the others see the result. A phone weather app may show only humidity, so use the chart.",
      "check": {
       "t": "mcq",
       "q": "The dew point is 23 degrees. Which glass of water will mist?",
@@ -1653,7 +1653,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never look straight at the Sun.",
+   "safety": "Never look straight at the Sun. A grown-up stays with the child on a balcony or roof and keeps away from the edge.",
    "schedule": [
     {
      "day": 1,
@@ -1695,7 +1695,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Read the temperature and the dew point on the weather app. 2. Subtract the dew point from the temperature. 3. Multiply by 125. The answer is the height of the cloud bottoms in metres.",
+     "do": "1. Read the temperature and the dew point on the weather app. 2. Subtract the dew point from the temperature. 3. Multiply by 125. The answer is the height of the cloud bottoms in metres. The answer is about that height, not exact.",
      "say": "Take the dew point away from the temperature. Then multiply by 125. That gives the height of a cloud bottom in metres. For 32 degrees and a dew point of 22, what do you get?",
      "kid": "Temperature minus dew point. Multiply by 125. That is the cloud height in metres.",
      "parent": "For 32 degrees and a dew point of 22, 32 take away 22 is 10, and 10 times 125 is 1250 metres. This is a rule of thumb for clouds made by warm air rising on a sunny day. It gives an estimate, not an exact height.",
@@ -1704,10 +1704,10 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Explain why the bottoms are flat.",
+     "do": "1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Explain why the bottoms are flat. 4. Do the sum again early next morning. Compare. Which gives lower cloud bottoms? Why?",
      "say": "A 30-floor building is about 100 metres. How many would you stack to reach the cloud bottoms? Why are the bottoms flat? What happens to rising air as it climbs?",
      "kid": "How many tall buildings would reach the cloud? Why are the bottoms flat?",
-     "parent": "Warm air rises and cools as it climbs. At the height where it has cooled to its dew point, its vapour condenses into drops, and a cloud begins. Every rising bubble of air reaches that height at the same level, so the bottoms are flat.",
+     "parent": "Warm air rises and cools as it climbs. At the height where it has cooled to its dew point, its vapour condenses into drops, and a cloud begins. Every rising bubble of air reaches that height at the same level, so the bottoms are flat. The early-morning sum is usually smaller because the air is closer to its dew point. For 2 to 4 children: each works out the sum alone and the answers are compared. On cloudy or rainy days the rule does not fit, so use it only on a sunny afternoon with small clouds.",
      "check": {
       "t": "mcq",
       "q": "Why do fair-weather clouds have flat bottoms at the same height?",
@@ -1744,7 +1744,7 @@
      "qty": 1
     }
    ],
-   "safety": "Camphor is poisonous if swallowed, and it catches fire easily. A grown-up puts the tablets out of reach of little children and keeps them away from flames. Do not sniff the tablets or the open jar closely, and keep them away from anyone with asthma. Do not burn camphor indoors without a grown-up. Wash your hands after touching it.",
+   "safety": "Camphor is poisonous if swallowed, and it catches fire easily. A grown-up puts the tablets out of reach of little children and keeps them away from flames. Do not sniff the tablets or the open jar closely, and keep them away from anyone with asthma. Do not burn camphor indoors without a grown-up. Wash your hands after touching it. Only a grown-up opens the jar. Keep the saucer away from the pooja diya. Do not use edible camphor for this.",
    "schedule": [
     {
      "day": 1,
@@ -1795,7 +1795,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Keep the tablets away from little children. A camphor tablet does not melt. It slowly turns to gas, and you can smell this.",
+     "parent": "Do not correct the guess. Keep the tablets away from little children. A camphor tablet does not melt. It slowly turns to gas, and you can smell this. For 2 to 4 children: each child draws round one tablet pair; or one pair is shared and children take turns to measure. In a damp or cool place the change is slow, so a week may show only a few millimetres; wait until day 10 if so. The crystals in the jar are small and may show only on the cool lid.",
      "context": "This is the first day of The Vanishing Kapoor. You set it up."
     },
     {
@@ -1935,17 +1935,17 @@
        ]
       }
      ],
-     "parent": "The cloth keeps mosquitoes from laying eggs in standing water, which matters in India. The cloth lets vapour through. Use the same cloth for both jars so that it is a fair test. A sunny, breezy ledge may lose 3 to 8 millimetres a day, and a shady room 1 to 3, depending on the weather. Do not put the jar where rain can fall into it.",
+     "parent": "The cloth keeps mosquitoes from laying eggs in standing water, which matters in India. The cloth lets vapour through but slows it, so losses with the cloth are typically about 1 to 4 millimetres a day on a sunny ledge and under 1 to 2 in a shady room. In the monsoon the loss may be under 1 millimetre a day. Use the same cloth for both jars so that it is a fair test. Do not put the jar where rain can fall into it. If the sunny jar falls below 15 millimetres, stop and graph what you have.",
      "context": "This is the first day of the Evaporation Pan. You set up two jars."
     },
     {
      "id": "s2",
      "mins": 5,
      "wait": "Measure once each day, at the same time",
-     "do": "1. Press the ruler gently to the bottom of each jar. 2. Read the depth in millimetres at eye level. 3. Write it in the table. 4. Write the weather: sunny, cloudy, windy or rainy.",
+     "do": "1. Lift the cloth. 2. Press the ruler gently to the bottom of each jar. 3. Read the depth in millimetres at eye level and write it in the table. 4. Tie the cloth back. 5. Write the weather: sunny, cloudy, windy or rainy.",
      "say": "Measure the depth in each jar, at the same time as yesterday. How many millimetres have gone? What was the weather like?",
      "kid": "Measure the depth in each jar. Write it in the table. Write the weather.",
-     "parent": "Measure at the same time each day, so that each reading is for 24 hours. If a day is missed, measure the next day and record two days. Wet the ruler's end only, not the whole ruler.",
+     "parent": "Measure at the same time each day, so that each reading is for 24 hours. If a day is missed, measure the next day and record two days. Wet the ruler's end only, not the whole ruler. For 2 to 4 children: one child reads each jar, one writes, and the roles change daily. If the readings differ by about a millimetre, read again. With one child, a parent holds the jar.",
      "context": "On each day of the week you measure the water in both jars."
     },
     {
@@ -3116,9 +3116,9 @@
  "buy": [
   {
    "id": "b-silica",
-   "item": "A few silica gel sachets",
+   "item": "A silica gel sachet (optional)",
    "kind": "material",
-   "why": "For the Thirsty Things test. Many shoe boxes and medicine bottles already have one.",
+   "why": "Optional for the Thirsty Things test. Many shoe boxes and medicine bottles already have one. Put it in its own saucer next to the others and weigh it before and after if your scale reads to 0.1 gram.",
    "url": "https://www.amazon.in/s?k=silica+gel+packets",
    "used_in": [
     "e2"
@@ -3126,9 +3126,9 @@
   },
   {
    "id": "b-scale",
-   "item": "A digital kitchen scale that reads in grams",
+   "item": "A digital kitchen scale that reads in grams (optional)",
    "kind": "tool",
-   "why": "For weighing the saucers in the Thirsty Things test, if you want numbers. Not needed for the test to work.",
+   "why": "Optional, for weighing a silica gel sachet or the saucers in the Thirsty Things test. Not needed for the test to work.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
    "used_in": [
     "e2"

@@ -74,8 +74,8 @@ On the Moon, gravity is about one sixth as strong as on Earth. The same pendulum
 **Definition:** A pendulum loses a little energy on every swing to the air and to the pivot. Each swing gets smaller, but the beat stays almost the same. A clock gives the pendulum a tiny push each swing to replace what it loses.
 
 The air pushes back on the bob as it moves, and the pivot rubs a little. The energy these take turns into a tiny amount of warmth. So each swing is a little smaller, and after some minutes the pendulum stops. A small, heavy bob on a thin thread keeps going longest, because it pushes little air out of the way. The beat does not change as the swing shrinks, which is why clocks work. An old clock has an escapement, which lets a wheel move on one tooth each swing and gives the pendulum a small push. The weight or spring that powers the clock pays for these pushes. In 1656 Christiaan Huygens built the first clock that used a pendulum this way, and it kept far better time than clocks before it.
-- e.g. A coin bag in a quiet room swings for several minutes, but with a postcard taped on it stops in under a minute.
-- e.g. An old wall clock needs winding once a week to keep its pendulum going.
+- e.g. A coin bag in a quiet room swings for a long time, but with a postcard taped on it stops much sooner.
+- e.g. An old wall clock needs winding every day or every week, depending on the clock, to keep its pendulum going.
 - e.g. A pendulum swung in water stops after a few swings, because water pushes back far harder than air.
 ### Pumping a swing: adding energy with your body · *defined*
 **Definition:** A person on a swing can add energy by standing up and crouching down at the right moments. This makes the swing's effective length change in time with the swing.
@@ -83,7 +83,7 @@ The air pushes back on the bob as it moves, and the pivot rubs a little. The ene
 A swing is a pendulum, and you are the bob. When you crouch at the highest point of each swing and stand up at the lowest point, you do work against the chains. You push your body up against the pull of gravity and the swing, and that adds energy. The swing climbs higher with every pump. Sitting down and swinging your legs works in a similar way, because you move your centre of mass at the right moments. Moving your body at the wrong moments takes energy away. Scientists have worked out that the best timing is two pumps in each full swing: one at each end of the path. You can copy this with a coin pendulum and a straw. Pull the thread down through the straw when the bob passes the bottom, and let it out at the ends.
 - e.g. A child on a park swing standing up at the bottom and crouching at the top.
 - e.g. A trapeze artist leaning at the right moments of each swing.
-- e.g. A priest swinging a large incense burner on long ropes in some cathedrals pulls the rope in time with the swing to make it go very high.
+- e.g. In the cathedral of Santiago de Compostela in Spain, a team of men pull the rope of a huge incense burner in time with its swing, to make it fly very high.
 ### Resonance in bigger things: pushes that add up · *defined*
 **Definition:** A thing with a natural beat grows a big swing if it is pushed at that beat. This is called resonance. It can make a very big thing sway.
 
@@ -104,7 +104,7 @@ A ruler hung from one end swings like a pendulum, but the weight is spread out a
 Say your reaction is a fifth of a second late each time you press the button. If you time a single swing of 1 second, your answer may be 20 percent wrong. If you time 30 swings that take 30 seconds, the same mistake is less than 1 percent of the total. Then you divide by 30 to get the time of one swing. This is why the earlier unit's tests used 10 swings. It is also why scientists repeat a test and use the mean, which is the total of the results divided by how many there are. An odd result that sits far from the others is worth checking again, and not just throwing away. Timing 100 swings would be even better, but a pendulum dies down, and your attention wanders. Choosing how many to time is a balance.
 - e.g. A time of 1.3 seconds for one swing can be wrong by 0.3 seconds. A time of 30.4 seconds for 30 swings is only wrong by about 1 percent.
 - e.g. Divers, athletes and bakers repeat their timing for the same reason.
-- e.g. Scientists at the National Physical Laboratory in London time many swings to make the second as exact as possible.
+- e.g. Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake.
 
 ## Mostly agreed
 - A thing high up has energy of height, and a moving thing has energy of movement. In a swing the two swap, and the total stays almost the same. *How we know:* A bob let go from a height rises on the far side to almost the same height. This has been measured for centuries.
@@ -232,6 +232,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show moments in a swing or a fall. Each player gets two tokens, Height and Movement.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take two tokens.
+  - Note: Cutting needs scissors: a grown-up helps younger children, or just fold the sheet and tear. Any two kinds of tokens work, for example two coins where heads is Height and tails is Movement. Works for 1 to 4 players.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together. Use the card about a swing at the very bottom of its path. Show how to turn the tokens over together.  
   *Parent says:* A swing is at the very bottom, moving fastest. Which kind of energy is bigger there? Choose a token and say why.  
@@ -244,7 +245,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   - Ask: What do the cards with height energy have in common? (good: The thing is high up and not moving.; It is at the top and has stopped for a moment.)
   - Note: Listen for reasons that use both ideas. A child who says 'it is fast, so movement' is right. A child who says 'it is high, so height' is right. Ask what happens to the other kind at that moment.
 - **s4 (4 min)**  
-  *Parent does:* Play the last ten cards. Pay attention to the cards where neither or both are present. Talk about why those cards are different.  
+  *Parent does:* Play the last eleven cards. Pay attention to the cards where neither or both are present. Talk about why those cards are different.  
   *Parent says:* Some cards have no single answer. For these, say what is happening to the energy. Is it swapping, adding, or being lost?  
   *Child mode:* Some cards have no single token. Say what is happening to the energy.
   - Ask: What happens to energy when a swing slows down and stops? (good: It turns into warmth in the air and the pivot.; It is not lost. It changes into heat.)
@@ -258,15 +259,15 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ### e1 · The Peg Test: does a bob rise to the same height? (35 min)
 - **question:** When a pencil catches the thread halfway and makes the bob swing a shorter, tighter path, does the bob still rise to the height it started from?
 - **predict:** Before you start, guess. Will the bag rise to the same height with the peg, higher, or lower? Will it rise as high as it does without the peg? Why do you think so?
-- **fair test:** Use the same bag of coins, the same thread and the same starting height every time. Only the length of the thread below the peg changes. Mark the starting height on the box and compare where the bag stops on the other side.
-- **safety:** Keep your face and feet away from the swing path. Let go gently without pushing. The pencil peg must not poke out far enough to catch anyone's arm.
+- **fair test:** Use the same bag of coins, the same thread and the same starting height every time. Only the length of the thread below the peg changes. Mark the starting height on the paper and compare where the bag stops on the other side.
+- **safety:** Keep your face and feet away from the swing path. Let go gently without pushing. The peg must not stick out far enough to catch anyone's arm. Tape the pencil on with the blunt end sticking out and the sharp tip flat against the wall, never pointing at a face. Ask a grown-up before taping to a painted wall.
 - **record:** For each test, write the highest point the bag reached on the far side. Draw the swing and the peg for the last test. Then circle whether the height was the same, higher or lower than the start.
 - **results table:** Test | Length of thread below the peg (cm) | Our guess for how high it rises | Highest point it reached on the far side (cm above rest) | Same, higher or lower than the start?
 - **s1 (8 min)**  
-  *Parent does:* 1. Lay the ruler on the table with 10 centimetres over the edge and the books on top. 2. Tie the thread to the tip of the ruler. 3. Make the thread 50 centimetres to the middle of the bag. 4. Stand the cereal box on the floor just behind the swing, 3 centimetres from the thread. 5. With the bag hanging still, hold a pencil level with the middle of the bag and mark the box. 6. Mark a second line 6 centimetres above that.  
-  *Parent says:* The ruler's tip is the pivot. The bag of coins is the bob. The first line on the box is where the bag rests. The second line is where we will let go.  
-  *Child mode:* Hang the bag from the ruler. Stand the box behind it. Mark two lines.
-  - Note: The box should stand firm. Put a book inside it if it wobbles. The thread should hang in front of the box face, about 3 centimetres away, so the swing does not touch it. Measure the lines from the middle of the bag.
+  *Parent does:* 1. Lay the ruler on the table with 10 centimetres over the edge and the books on top. 2. Tie the thread to the tip of the ruler. 3. Make the thread 50 centimetres to the middle of the bag. 4. Push the table towards a plain wall or cupboard side. The ruler should point at it. Stop when the thread hangs about 3 centimetres from the wall. The bag will swing sideways, along the wall. Tape a sheet of paper on the wall behind the bag. 5. With the bag hanging still, hold a pencil level with the middle of the bag and mark the paper. 6. Mark a second line 6 centimetres above that.  
+  *Parent says:* The ruler's tip is the pivot. The bag of coins is the bob. The first line on the paper is where the bag rests. The second line is where we will let go.  
+  *Child mode:* Hang the bag from the ruler. Put paper on the wall behind it. Mark two lines.
+  - Note: Use a wall or cupboard that is flat and does not move. A cereal box does not work: the peg sits 25 centimetres below the pivot, higher than a box standing on the floor. Keep the thread about 3 centimetres from the wall so the swing does not touch it, and tape the knot on the ruler so it cannot slide. Measure the lines from the middle of the bag. With 2 to 4 children: one lets go, one sights along the line at the paper, one writes, and you swap after each test. With one child: the child lets go and you sight.
 - **s2 (4 min)**  
   *Parent does:* Ask your child for a guess and a reason for each of the three tests. Write the guesses in the table.  
   *Parent says:* We will let the bag go from the top line three times. First with no peg. Then with a peg that catches the thread halfway. Then with a peg lower down. How high will it rise each time? Why?  
@@ -274,20 +275,20 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   - Ask: What do you think will happen with the peg? Why? (good: It will go higher, because the thread is shorter and it gets flung.; It will go lower, because the thread is shorter.; It will be the same, because it started at the same height.)
   - Note: Do not say which is right. Write down the reason as well as the guess. Many children guess higher, because a tighter curve feels like a flick.
 - **s3 (7 min)**  
-  *Parent does:* 1. Hold the bag at the top line. 2. Let go without pushing. 3. Watch where the bag stops on the far side. 4. Ask someone to sight across at the box and say which line it reached. 5. Do it three times. Write the highest point each time.  
+  *Parent does:* 1. Hold the bag at the top line. 2. Let go without pushing. 3. Watch where the bag stops on the far side. 4. Ask someone to sight across at the paper and say which line it reached. 5. Do it three times. Write the highest point each time.  
   *Parent says:* Test one has no peg. Let go gently and do not push. Where does the bag stop on the far side? Is it at the top line, above it or below it?  
   *Child mode:* Let the bag go without a push. Watch where it stops on the far side.
-  - Note: The bag should stop a finger-width or less below the top line. If it stops much lower, check that the thread is not rubbing and that the box is not touching the bag. Looking from the side, level with the line, is the easiest way to see.
+  - Note: The bag should stop a finger-width or less below the top line. If it stops much lower, check that the thread is not rubbing and that the wall is not touching the bag. Looking from the side, level with the line, is the easiest way to see. For a clearer read, film the swing from the side with a phone propped level with the line and pause the video at the top.
 - **s4 (8 min)**  
-  *Parent does:* 1. Tape the pencil to the box face so it sticks out toward the thread by 8 centimetres. 2. Put it 25 centimetres above the middle of the resting bag, level with the thread. 3. Hold the bag at the top line on the other side and let go. 4. The thread should catch on the pencil as the bag passes the bottom. 5. Mark where the bag stops. 6. Do it three times.  
+  *Parent does:* 1. Tape the pencil to the wall so it sticks out 8 centimetres. Keep the blunt end out and the sharp tip flat on the wall. 2. Put it right under the pivot, 25 centimetres above the middle of the resting bag, so the hanging thread just touches it. 3. Hold the bag at the top line on the other side and let go. 4. The thread should catch on the pencil as the bag passes the bottom. 5. Mark where the bag stops. 6. Do it three times.  
   *Parent says:* Test two has a peg. The thread will catch on the pencil, and the bag will have to swing in a tighter curve. Where will it stop?  
   *Child mode:* Tape on the pencil peg. Let go. Where does the bag stop?
-  - Note: The thread catches the pencil as the bag passes the bottom. The bag should rise to nearly the same top line, even though the swing is quicker. If it wraps round the pencil, the starting height is too high for the short part of the thread. Use a lower line.
+  - Note: The thread catches the pencil as the bag passes the bottom. The bag should rise to nearly the same top line, even though the swing is quicker. If it wraps round the pencil, the starting height is too high for the short part of the thread. Use a lower line. The thread rubs the pencil a little, so with a peg the bag may come back slightly lower than without one. That is friction taking a little energy, not a failed test. A smooth, round peg loses least.
 - **s5 (5 min)**  
   *Parent does:* 1. Move the pencil lower, so the part of the thread below it is only 12 centimetres. 2. Let go from the top line, which is 6 centimetres up. 3. Mark where the bag stops. 4. Do it three times.  
   *Parent says:* Test three has the peg much lower. The curve is even tighter. Will the bag still reach the same height?  
   *Child mode:* Move the peg lower. Try again. Does the bag still reach the line?
-  - Note: With 12 centimetres of thread below the peg, the bag swings on a small circle. It should still reach about 5 to 6 centimetres. If it does not, check that the thread is not slack.
+  - Note: With 12 centimetres of thread below the peg, the bag swings on a small circle. It should typically still reach about 5 to 6 centimetres. If it does not, check that the thread is not slack.
   - Check: With the peg, the bag swung a tighter path. Where did it stop on the far side? → **At nearly the same height as the start**
 - **s6 (3 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they think, what they saw and why.  
@@ -302,7 +303,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 - **record:** Fill in the table. Work out the mean of the three slides for each height. Draw a bar chart of the means with one bar for each starting height.
 - **results table:** Height we let go from (cm above rest) | Try 1 slide (cm) | Try 2 slide (cm) | Try 3 slide (cm) | Mean slide (cm)
 - **s1 (8 min)**  
-  *Parent does:* 1. Tie the thread to the ruler tip and make it long enough that the bag hangs 2 centimetres above the floor. 2. Put a spot of tape on the floor under the bag. 3. Lay the box on its side on the tape, with its end touching the hanging bag. 4. Put a second strip of tape on the floor in a line away from the box. 5. Stand the second ruler on the floor and mark rest height on it.  
+  *Parent does:* 1. Tie the thread to the ruler tip and make it long enough that the bag hangs 2 centimetres above the floor. 2. Put a spot of tape on the floor under the bag. 3. Lay the box on its side on the tape, with its end touching the hanging bag. 4. Put a second strip of tape on the floor in a line away from the box. 5. Stand the second ruler upright beside the bag. Mark the rest height of the bag's middle on it. Then stick tape flags 5, 10 and 20 centimetres above that mark.  
   *Parent says:* The bag is our swinging hammer. The box is what it hits. We measure how far the box slides along the floor.  
   *Child mode:* Hang the bag so it just clears the floor. Put the box where it will hit.
   - Note: The thread length depends on your table. Most tables are 70 to 75 centimetres high, so a thread of 65 to 70 centimetres works. The bag should hit the middle of the box's end. If the box tumbles, use a flatter box.
@@ -316,12 +317,12 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Hold the bag at 5 centimetres above rest. 2. Let go gently, without pushing. 3. Catch the bag after it hits the box. 4. Measure how far the box slid. 5. Reset the box and do it two more times.  
   *Parent says:* Let go gently, and catch the bag after the hit. Measure how far the box slid. Do it three times for each height.  
   *Child mode:* Let go from 5 centimetres. Catch the bag. Measure the slide.
-  - Note: The first height may only push the box a few centimetres. That is fine. Measure from the tape to the front of the box. If the box and bag stick together, tape a small piece of card to the box end.
+  - Note: The first height may only push the box a few centimetres. That is fine. Measure from the tape to the front of the box. If the box and bag stick together, tape a small piece of card to the box end. With 2 to 4 children: one holds and lets go, one catches the bag, one measures the slide, one writes. Swap heights between children. If the box does not move at all at 5 centimetres, use a lighter box or a smoother floor.
 - **s4 (6 min)**  
   *Parent does:* 1. Now let go from 10 centimetres above rest, three times. 2. Then let go from 20 centimetres, three times. 3. Measure each slide and write it in the table. 4. Work out the mean for each height.  
   *Parent says:* Now the same test from 10 centimetres, then from 20. Measure every slide. What do you notice?  
   *Child mode:* Test 10 centimetres, then 20. Measure the slides. What changes?
-  - Note: Expect roughly a doubling from 5 to 10, and again from 10 to 20, though the results are untidy. A bumpy floor, a tipping box or a bag that hits off-centre all add noise. That is why we take the mean of three tries.
+  - Note: Typically the slide grows about as fast as the height does, so 10 centimetres slides roughly twice as far as 5, though the results are untidy. The chart is made up: your numbers depend on your floor and your box, so look at the pattern, not the exact numbers. A bumpy floor, a tipping box or a bag that hits off-centre all add noise. That is why we take the mean of three tries.
   - Check: When the bag started from a greater height, what happened to the slide of the box? → **The box slid further**
 - **s5 (3 min)**  
   *Parent does:* Look at your bar chart. Ask your child to say what they think, what they saw and why.  
@@ -338,7 +339,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Set up the coin pendulum on the ruler. 2. Make the thread 25 centimetres to the middle of the bag. 3. Practise one swing: pull the bag a hand-width aside, let go and count one when it returns.  
   *Parent says:* A 25 centimetre pendulum should take about 1 second for a full swing. We will find out how well we can measure that.  
   *Child mode:* Make the thread 25 centimetres. Practise one swing. Count one when it returns.
-  - Note: One swing is there and back. The bag should return to the starting hand in about 1 second. Two people work best: one lets go and counts, the other works the stopwatch.
+  - Note: One swing is there and back. The bag should return to the starting hand in about 1 second. Two people work best: one lets go and counts, the other works the stopwatch. With 2 to 4 children, each child is the timer for one count (1, 10 or 30 swings) and the others count and let go. Then compare whose answers are closest together.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* We will time 1 swing, then 10, then 30. Which will give answers that are closest together? Why do you think so?  
@@ -349,12 +350,12 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Time 1 swing, five times. 2. Start the watch as you let go. 3. Stop it when the bag returns. 4. Write each time in the table.  
   *Parent says:* Start the watch as you let go. Stop it when the bag comes back. This is the hardest one to time. Write down every time.  
   *Child mode:* Time one swing. Do it five times. Write every time.
-  - Note: Expect times between about 0.7 and 1.4 seconds. That wide spread is the point of the test. Do not throw away any time.
+  - Note: Typically you will see times between about 0.7 and 1.4 seconds. That wide spread is the point of the test. Do not throw away any time.
 - **s4 (7 min)**  
   *Parent does:* 1. Time 10 swings, five times. 2. Count out loud. 3. Divide each time by 10. 4. Write the answer in the last column.  
   *Parent says:* Now time 10 swings. Count out loud. Then divide by ten to get the time of one swing.  
   *Child mode:* Time ten swings. Do it five times. Divide each time by ten.
-  - Note: Expect each try to be about 10 seconds, within a few tenths. After dividing by 10, the answers should fall between about 0.97 and 1.03 seconds.
+  - Note: Expect each try to be about 10 seconds, within a few tenths. After dividing by 10, the answers typically fall between about 0.95 and 1.05 seconds.
 - **s5 (6 min)**  
   *Parent does:* 1. Time 30 swings, three times. 2. Count out loud and tick every five swings on paper. 3. Divide each time by 30.  
   *Parent says:* Now 30 swings. Tick every five on paper so you do not lose count. Then divide by thirty.  
@@ -368,18 +369,18 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   - Ask: What did you find out? (good: What I think: timing more swings is better. What I saw: the 30 swing times were closest together. Why: the stopwatch mistake is the same size, but a small share of a long time.)
 
 ## Activities
-### a1 · Marble in a Bowl: how high does it climb? (10 min)
-- **record:** Draw the bowl and the marble. Write one thing you noticed and one thing you wonder.
-- **s1 (4 min)**  
+### a1 · Marble in a Bowl: how high does it climb? (15 min)
+- **record:** Draw the bowl and the marble. Write the start height and the stop height for each of your three tries. Write one thing you noticed and one thing you wonder.
+- **s1 (5 min)**  
   *Parent does:* 1. Place the bowl on a table or the floor. 2. Hold the marble against the inside near the rim. 3. Let go. 4. Watch where it climbs to on the other side.  
   *Parent says:* Hold the marble near the top edge and let it go. Where does it climb to on the other side? Does it reach the rim?  
   *Child mode:* Let the marble go from near the rim. Watch how high it climbs.
   - Ask: What do you notice about how high the marble climbs? (good: It goes almost as high on the other side.; It is fastest at the bottom.; It goes a little lower each time.)
-- **s2 (4 min)**  
-  *Parent does:* Stick a small piece of tape on the inside of the bowl where you let go. Try again from there. Then try a lower starting point and a higher one.  
-  *Parent says:* The tape marks where the marble starts. Does it climb as high as the tape each time? What happens from a lower start?  
-  *Child mode:* Mark the start with tape. Does the marble climb as high as the tape?
-  - Note: The marble should reach almost the same height each time, a finger-width below. If a steel bowl is very small, the marble may leave the rim. Keep the start lower in a small bowl.
+- **s2 (7 min)**  
+  *Parent does:* Stick a small piece of tape inside the bowl where you let go. Try again from there. Then stick a second piece of tape on the other side where the marble stops. Hold a ruler upright beside the bowl and read the height of each piece of tape. Do it for three starting points: low, middle and near the rim.  
+  *Parent says:* The first tape marks where the marble starts. The second marks where it stops. How high is each? Is the stop higher, lower or the same as the start?  
+  *Child mode:* Mark the start with tape. Mark where the marble stops. Measure both with a ruler. Do it three times.
+  - Note: The marble should reach almost the same height each time, a finger-width below. If a steel bowl is very small, the marble may leave the rim. Keep the start lower in a small bowl. With 2 to 4 children: one lets go, one marks the stop, one measures, one writes; swap each try. Read heights from the side, level with the tape.
 - **s3 (2 min)**  
   *Parent does:* Ask for a guess about a pendulum, and write it down for later.  
   *Parent says:* A marble in a bowl is a bit like a bag of coins swinging on a thread. Do you think the bag will climb back to where it started? Why?  
@@ -387,62 +388,64 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   - Ask: What is your guess about a swinging bag? Why do you think so? (good: Any guess with a reason. Keep it for the Peg Test.)
   - Note: Do not give the answer. Your child will test it properly in the Peg Test.
 ### a2 · Pump the Pendulum: add energy with the thread (15 min)
-- **record:** Write what happened to the swing each time. Draw the thread, the straw and the bag, and show with an arrow when you pulled and when you let go.
+- **record:** Write how wide the swing was at the start, after five swings alone and after ten pumped swings. Draw the thread, the straw and the bag, and show with an arrow when you pulled and when you let go.
 - **s1 (4 min)**  
   *Parent does:* 1. Pass the thread through the straw. 2. Tie the bag to the lower end, so it hangs 40 centimetres below the straw. 3. Hold the straw upright in your left hand. 4. Hold the top end of the thread in your right hand.  
   *Parent says:* The straw is the pivot. The thread goes up through it, and your right hand can pull it up or let it out.  
   *Child mode:* Thread the straw. Tie the bag on. Hold the straw up. Hold the thread top.
 - **s2 (5 min)**  
-  *Parent does:* 1. Start a small swing of about 10 centimetres. 2. Watch it for five swings without touching the thread. 3. Write down how far it swings.  
+  *Parent does:* 1. Start a small swing of about 10 centimetres. 2. Watch it for five swings without touching the thread. 3. Write down how wide the swing is at the start and after five swings.  
   *Parent says:* First we watch what the swing does on its own. It should stay about the same size, or shrink a little.  
   *Child mode:* Start a small swing. Watch it for five swings. Does it grow?
   - Note: The swing may shrink a little. That is normal. It shows the swing is not growing by itself.
 - **s3 (6 min)**  
-  *Parent does:* 1. As the bag passes the bottom, pull the thread up through the straw by about 3 centimetres. 2. As the bag reaches the end, let the thread slide down again. 3. Do this for ten swings. 4. Watch the swing.  
+  *Parent does:* 1. As the bag passes the bottom, pull the thread up through the straw by about 3 centimetres. 2. As the bag reaches the end, let the thread slide down again. 3. Do this for ten swings. 4. Measure how wide the swing is now and write it next to the earlier numbers.  
   *Parent says:* Pull the thread up when the bag is at the bottom. Let it out when the bag is at the ends. Does the swing grow?  
   *Child mode:* Pull the thread at the bottom. Let it out at the ends. Does the swing grow?
-  - Note: This takes practice. If the swing does not grow, pull faster at the bottom and let go more slowly. The thread should not rub hard in the straw. Also try pulling the thread only on every other pass. Even if the swing grows only a little, the bag moves faster when you pull in.
+  - Note: This takes practice. If the swing does not grow, pull faster at the bottom and let go more slowly. The thread should not rub hard in the straw. Also try pulling the thread only on every other pass. Even if the swing grows only a little, the bag moves faster when you pull in. This one is fussy and may take several tries; it is a try, not a promise. With 2 to 4 children, take turns pumping and one measures: who makes the swing widest in ten swings? If it will not grow, go to a real playground swing and pump it by standing at the bottom and crouching at the ends, which is the same trick.
   - Check: When you pull the thread up at the bottom of the swing, where does the extra energy come from? → **From your hand and arm, which do work on the thread**
 ### a3 · The Ruler Pendulum: a stiff swinger (20 min)
 - **record:** Write the time for 10 swings of the ruler. Write the thread length that gave the same time. Draw both pendulums side by side.
 - **s1 (5 min)**  
-  *Parent does:* 1. Rest the pencil across two stacks of books. 2. Hang the ruler on the pencil through its hole. 3. Pull the lower end aside by one hand-width and let go. 4. Watch it swing.  
+  *Parent does:* 1. Lay the pencil on the table with 5 centimetres over the edge. Press it down with the books. 2. Slip the thread loop on the ruler over the pencil end. Put a lump of tape on the tip so it cannot slide off. 3. Pull the lower end of the ruler aside by one hand-width and let go. 4. Watch it swing.  
   *Parent says:* The pencil is the pivot. The ruler is the bob and the thread together. Will it swing faster or slower than a coin on a 30 centimetre thread?  
   *Child mode:* Hang the ruler on a pencil. Let it swing. Is it quick or slow?
   - Ask: Will the ruler swing faster or slower than a coin bag on a 30 centimetre thread? Why? (good: Faster, because the top half is close to the pivot.; Slower, because it is heavier.; The same, because it is the same length.)
-  - Note: If your ruler has no hole, make a loop of tape or thread at one end and slip it over the pencil. The loop must be loose, so the ruler swings freely.
+  - Note: If your ruler has no hole, tape a loop of thread to one end. The loop must be loose so the ruler swings freely and does not rub the table. The ruler swings side to side along the table edge. With 2 to 4 children: one lets go and counts, one runs the stopwatch, one writes.
 - **s2 (6 min)**  
   *Parent does:* 1. Time 10 swings of the ruler. 2. Do it twice. 3. Write both times in your record.  
   *Parent says:* Time 10 swings, twice. How long does the ruler take?  
   *Child mode:* Time ten swings of the ruler. Do it twice.
   - Note: A 30 centimetre ruler takes about 9 seconds for 10 swings. If it takes much longer, the ruler may be rubbing on the pencil.
 - **s3 (9 min)**  
-  *Parent does:* 1. Hang the coin bag from the ruler on the table. 2. Try thread lengths of 30, 25 and 20 centimetres. 3. Time 10 swings each time. 4. Find the length that gives the same time as the ruler.  
+  *Parent does:* 1. Hang the coin bag from the second ruler on the table. 2. Try thread lengths of 30, 25 and 20 centimetres. 3. Time 10 swings each time. 4. Find the length that gives the same time as the ruler.  
   *Parent says:* Which thread length gives the same time as the ruler? Try 30, then 25, then 20. Which is closest?  
   *Child mode:* Try three thread lengths. Which matches the ruler?
+  - Note: Typically 30 centimetres takes about 11 seconds for 10 swings, 25 about 10 and 20 about 9. Your times will differ by a few tenths. If two lengths look close, try 22 as well.
   - Check: A 30 centimetre ruler hung by its end swings at the same beat as a thread about how long? → **About 20 centimetres**
 ### a4 · Swing in Water: a pendulum with much more drag (15 min)
-- **safety:** Wipe up spills at once, because a wet floor is slippery. A grown-up should set up the bucket where nobody will trip on it.
-- **record:** Write how many swings the bag made in air and in water. Draw the two paths.
+- **safety:** Wipe up spills at once, because a wet floor is slippery. A grown-up should set up the bucket where nobody will trip on it. Never leave a young child alone with the bucket of water, and empty it when you have finished.
+- **record:** Write how many swings the bag made in air and in water before the swing was half as wide. Say how many times more swings there were in air. Draw the two paths.
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the bucket on the floor under the table edge. Put a towel under it. 2. Hang the bag so it dips into the bucket's middle when the bucket is full. 3. First, swing the bag with the bucket empty. 4. Count the swings until the bag stops reaching 10 centimetres.  
-  *Parent says:* First we swing the bag through air only. Count how many swings it makes before it gets smaller than a hand-width.  
+  *Parent does:* 1. Put the bucket on the floor under the table edge, with a towel under it. 2. Hang the bag so it dips into the bucket's middle when the bucket is full. 3. First, swing the bag with the bucket empty: pull it 10 centimetres aside and let go. 4. Count the swings until the swing is only half as wide, about 5 centimetres.  
+  *Parent says:* First we swing the bag through air only. Count how many swings it makes before the swing is half as wide as when you started.  
   *Child mode:* Swing the bag with the bucket empty. Count the swings.
-  - Note: Air swings last for a few minutes. If your child gets tired of counting, stop at 30 swings and write 30 or more.
+  - Note: Air swings last a long time. If your child gets tired of counting, stop at 30 swings and write 30 or more. The thread is long, so the pivot should be above the bucket's middle. If your table is much shorter, the bag must still hang in the bucket's middle, with room under it.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess about the water swing. Write it down.  
   *Parent says:* Now we fill the bucket and swing through water. How many swings do you think it will make? Why?  
   *Child mode:* Guess how many swings in water. Why?
   - Ask: How many swings do you expect in water? Why? (good: Fewer, because water is thicker than air.; None, because the water would stop it.; The same number, because the bag has not changed.)
 - **s3 (7 min)**  
-  *Parent does:* 1. Fill the bucket with water so the bag is under the surface. 2. Pull the bag one hand-width aside. 3. Let go gently. 4. Count the swings until the bag stops moving.  
+  *Parent does:* 1. Fill the bucket with water so the bag is under the surface. 2. Pull the bag 10 centimetres aside. 3. Let go gently. 4. Count the swings until the swing is half as wide. Write 0 if it does not even swing back.  
   *Parent says:* Pull the bag aside and let go. Count how many swings it makes. What happens?  
   *Child mode:* Pull the bag aside in the water. Let go. Count the swings.
-  - Note: In water, the bag makes only one or two slow swings, or even just creeps back to the middle. Water is much thicker than air, so it takes energy from the swing very quickly. The energy goes into moving the water, and then into warmth.
+  - Note: In water the bag typically makes only one or two slow swings, or just creeps back to the middle. Water is much thicker than air, so it takes energy from the swing very quickly. If the bag floats up and the thread goes slack, squeeze out more air or add more coins. With 2 to 4 children: one pulls and lets go, one counts, one writes; compare air against water as a ratio.
   - Check: Why does a pendulum stop so much sooner in water than in air? → **Water pushes back much harder than air**
 
 ## Projects
 ### p1 · Weigh the Pull of the Earth: find gravity with a pendulum (40 min, 2 days)
+- **safety:** A grown-up should hang the thread from the door frame or shelf, and no child should climb on a chair to do it. Keep faces and feet out of the swing path. Tie the door open and ask the family to use another route while the thread hangs, so nobody walks into it.
 - **record:** Write the length of the pendulum, the three times for 30 swings and the mean. Show each step of your sum. Compare your answer with 9.8.
 - **schedule:** day 1: Hang a pendulum exactly 1 metre long from the pivot to the middle of the bag. Check that 10 swings take about 20 seconds. (20 min); day 2: Time 30 swings three times, find the mean, work out the time for one swing and then use the rule to find g. (20 min)
 - **s1 (12 min)**  
@@ -459,13 +462,13 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Time 30 swings and count out loud. 2. Do it three times. 3. Write all three times.  
   *Parent says:* Today we time 30 swings, three times. Tick every five swings on paper so that you do not lose count.  
   *Child mode:* Time thirty swings, three times. Tick every five swings.
-  - Note: Each time should be close to 60 seconds. If one is far from the others, do it again. Do not guess a time you did not measure.
+  - Note: Each time should be close to 60 seconds. If one is far from the others, do it again. Do not guess a time you did not measure. With 2 to 4 children: one lets go and counts out loud, one runs the stopwatch, one ticks every five swings; swap for each of the three tries.
   - Wait: Day 2: continue from here.
 - **s4 (8 min)**  
   *Parent does:* 1. Add the three times and divide by 3 to get the mean. 2. Divide the mean by 30 to get the time of one swing. 3. Multiply that time by itself. 4. Divide 39.5 by that answer.  
   *Parent says:* Add the three times and divide by three. Then divide by thirty. Multiply the answer by itself. Then divide 39.5 by the result. That is the pull of the Earth.  
   *Child mode:* Find the mean. Divide by 30. Multiply by itself. Divide 39.5 by that.
-  - Note: Worked example: 60.2 seconds for 30 swings gives 2.007 seconds for one swing. Multiplied by itself that is 4.03. Then 39.5 divided by 4.03 is 9.8. A calculator helps. Your answer will be within about 5 percent of 9.8. The number 39.5 is 4 times pi times pi.
+  - Note: Worked example: 60.2 seconds for 30 swings gives 2.007 seconds for one swing. Multiplied by itself that is 4.03. Then 39.5 divided by 4.03 is 9.8. A calculator helps. Your answer will typically be within about 5 percent of 9.8, so anywhere from about 9.3 to 10.3 is a good result. The number 39.5 is 4 times pi times pi.
   - Check: A pendulum 1 metre long takes 2.1 seconds for one swing on a planet. Compared with the Earth, is the pull there stronger or weaker? → **Weaker, because the swing is slower**
 - **s5 (5 min)**  
   *Parent does:* Compare your answer with 9.8. Ask your child why it might be a little different, and what to change next time.  
@@ -477,7 +480,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ### c1 · Three-Quarter Pendulum: where must the peg go? (40 min)
 - **problem:** A pendulum 36 centimetres long takes about 12 seconds for 10 swings. Place a peg so that 10 swings take about 9 seconds, which is three quarters of the time.
 - **your turn:** Now design your own peg pendulum. Choose a time you want, build it, test it and write what you found. Does the rule help you guess where to put the peg?
-- **constraints:** Keep the thread 36 centimetres long, from the pivot to the middle of the bag.; Use only a pencil as the peg, fixed to the box or the table.; Let go from only 2 centimetres above the rest position.; The bag must swing a little way each side of the peg, and not wrap round it.
+- **constraints:** Keep the thread 36 centimetres long, from the pivot to the middle of the bag.; Use only a pencil as the peg, fixed to the wall or cupboard behind the swing.; Let go from only 2 centimetres above the rest position.; The bag must swing a little way each side of the peg, and not wrap round it.
 - **general:** Fix the peg 27 centimetres below the pivot, so only 9 centimetres of thread is below it. The short side swings in half the time of the long side.; Time 10 swings with no peg first, so that you know the number to beat. Then add the peg and time again.; Check that 10 swings take about three quarters of the plain time.
 - **creative:** Try a peg at other heights, and find the heights that make 10 swings take two thirds, or four fifths, of the plain time.; Use two pegs, so the thread wraps round one and then the other, and see how the time changes.; Make a table of peg height against 10-swing time, and draw a line graph.
 - **s1 (8 min)**  
@@ -485,11 +488,12 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent says:* How long do 10 swings take without a peg? Now guess where the peg should go to make it three quarters of that time.  
   *Child mode:* Time ten plain swings. Guess where the peg should go.
   - Ask: Where do you think the peg should go? Why? (good: Lower down, because that makes the thread shorter.; Halfway, because three quarters is near half.)
+  - Note: Set the pendulum up as in the Peg Test, hanging in front of a wall. With 2 to 4 children, each writes a guess for the peg height, then you test every guess and see whose is closest. Roles: one lets go, one times, one moves the peg.
 - **s2 (20 min)**  
   *Parent does:* Fix the peg in your chosen place. Let go from 2 centimetres up. Time 10 swings twice. Move the peg and test again until you get close to 9 seconds.  
   *Parent says:* Place the peg and time 10 swings. Too slow? Put the peg lower. Too quick? Put it higher.  
   *Child mode:* Place the peg. Time ten swings. Move the peg. Try again.
-  - Note: A peg lower down makes more of the swing quick, so the total time is shorter. The plain time is about 12 seconds. The target is about 9. Allow half a second either way.
+  - Note: A peg lower down makes more of the swing quick, so the total time is shorter. The plain time is about 12 seconds. The target is about 9. Allow half a second either way. Your times will differ by a few tenths with the stopwatch, so any result between about 8.5 and 9.5 seconds is a success. Use a smooth peg so the thread slides.
 - **s3 (12 min)**  
   *Parent does:* Ask your child to explain why the answer works. Draw the pendulum with its peg.  
   *Parent says:* Half of each swing is on the long side, and half on the short. The short side takes half as long. Why does that give three quarters in all?  
@@ -569,7 +573,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
    **Answer:** 3. *Why:* The length of the thread sets the beat. The weight of the bob, the number of coins and a slightly wider start change it very little.
 14. (odd) Three of these are about a swing trading height for speed. Which one is about something else?  
    Options: A ball rolling down a slide / A roller coaster dropping from its first hill / A kitchen scale weighing rice / A marble rolling inside a bowl  
-   **Answer:** 2. *Why:* A roller coaster dropping, a ball in a bowl and a pendulum all trade height for speed. A balance scale balances weights, and does not trade height for speed.
+   **Answer:** 2. *Why:* A roller coaster dropping, a ball in a bowl and a pendulum all trade height for speed. A kitchen scale weighs rice, and does not trade height for speed.
 15. (draw) Draw a graph of the height energy and the movement energy of a bob during one swing from the left end to the right end. Use two lines.  
    **Answer:** The height energy line is high at the ends and low in the middle. The movement energy line is low at the ends and high in the middle. They mirror each other.. *Why:* A strong drawing shows the two lines swapping, with the total staying the same.
 16. (order) Put these in order, from the shortest period to the longest period.  

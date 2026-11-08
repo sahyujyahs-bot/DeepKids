@@ -800,11 +800,11 @@
      "qty": 6
     },
     {
-     "item": "water at room temperature, 3 tablespoons in all",
+     "item": "water at room temperature, 9 tablespoons in all (3 for each pair of jars)",
      "qty": 1
     },
     {
-     "item": "coconut oil or cooking oil, 3 tablespoons in all",
+     "item": "cooking oil (groundnut, sunflower or coconut oil), 9 tablespoons in all",
      "qty": 1
     },
     {
@@ -820,19 +820,19 @@
      "qty": 1
     },
     {
-     "item": "six clean spoons or ice-cream sticks for stirring, and paper and a pen for labels",
+     "item": "six clean spoons or ice-cream sticks for stirring, a marker or pen with paper slips for labels, and measuring spoons",
      "qty": 6
     },
     {
-     "item": "a white sheet of paper and a torch",
+     "item": "a white sheet of paper and a phone torch",
      "qty": 1
     },
     {
-     "item": "a bowl of bath-warm water, made by a grown-up, that all six jars can stand in",
+     "item": "a wide bowl of bath-warm water, made by a grown-up, that all six jars can stand in with the water below their rims",
      "qty": 1
     }
    ],
-   "safety": "Chilli powder burns the eyes and mouth, so do not touch your face and wash your hands afterwards. Do not taste anything. A grown-up makes the warm water, and it must be only bath-warm. Turmeric stains clothes, so wear old clothes.",
+   "safety": "Chilli powder burns the eyes and mouth, so do not touch your face and wash your hands afterwards. Do not taste anything. A grown-up makes the warm water, and it must be only bath-warm, never hot. Turmeric stains clothes and plastic, so wear old clothes and use glass or steel cups you do not mind staining.",
    "schedule": [
     {
      "day": 1,
@@ -908,11 +908,11 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Label six jars with a letter and a colour: a water jar and an oil jar for each colour. 2. Pour 1 tablespoon of water into each water jar. 3. Pour 1 tablespoon of oil into each oil jar. 4. Add the same colour to one water jar and one oil jar. Use a quarter of a teaspoon of powder, or 2 drops of food colour.",
-     "say": "Every jar gets one tablespoon of liquid. Each colour goes in one water jar and one oil jar. Only the liquid changes, so it is a fair test.",
-     "kid": "Label six jars. Put 1 spoon of water in three jars. Put 1 spoon of oil in the other three. Add one colour to each pair.",
+     "do": "1. Label six jars with a letter and a colour: a water jar and an oil jar for each colour. 2. Pour 3 tablespoons of water into each water jar. 3. Pour 3 tablespoons of oil into each oil jar. 4. Add the same colour to one water jar and one oil jar. Use a quarter of a teaspoon of powder, or 2 drops of food colour.",
+     "say": "Every jar gets three tablespoons of liquid. Each colour goes in one water jar and one oil jar. Only the liquid changes, so it is a fair test.",
+     "kid": "Label six jars. Put 3 spoons of water in three jars. Put 3 spoons of oil in the other three. Add one colour to each pair.",
      "adult": true,
-     "parent": "One tablespoon of liquid per jar is small, which keeps the colour strong enough to see. Use a quarter of a teaspoon of powder, no more. Too much powder makes every jar cloudy. Wear old clothes.",
+     "parent": "Three tablespoons gives a layer deep enough to see colour in. Use a quarter of a teaspoon of powder, no more. Too much powder makes every jar cloudy. Wear old clothes. With 2 to 4 children, each child takes one colour (a water jar and an oil jar) and does their own pair, so the same spoon measures every jar; one child can take the food colour and beetroot. One child alone does all six jars with a parent holding the labels.",
      "check": {
       "t": "mcq",
       "q": "Why does each colour go into one water jar and one oil jar, with the same amount of liquid?",
@@ -932,7 +932,7 @@
      "do": "1. Stir each jar for thirty seconds with its own stick, counting aloud. 2. Look at every jar at once. 3. Write what you see in the first minute.",
      "say": "Stir each jar for thirty seconds. Count out loud. Now look. What do you see in each pair of jars?",
      "kid": "Stir each jar for thirty seconds. Count out loud. Look at the colours. Write what you see.",
-     "parent": "Food colour spreads through water straight away. In oil it stays as red beads and sinks. Turmeric and chilli powder look cloudy in the water and sit in the oil as specks at first.",
+     "parent": "Food colour spreads through water straight away. In oil it stays as red beads and sinks. Turmeric and chilli powder look cloudy in the water and sit in the oil as specks at first. Powders do not dissolve in a few seconds, so the real result comes after the warm wait.",
      "context": "In this step you stir each jar and write down what you see in the first minute."
     },
     {
@@ -952,15 +952,15 @@
        ]
       }
      ],
-     "parent": "Warm oil helps because particles move faster. The oil jars with turmeric and chilli should turn golden or orange-red and look clear, with a little powder lying at the bottom. If your oil colour is faint, wait ten more minutes. In the water jars, turmeric and chilli should look cloudy, with bits that slowly settle, and only a pale colour.",
+     "parent": "Warm oil helps because particles move faster. The oil jars with turmeric and chilli should turn golden or orange-red, with a little powder lying at the bottom. The colour is usually pale in the first ten minutes in cool or damp weather, so if your oil colour is faint, wait ten or twenty more minutes and stir again. If it is still faint, try more powder next time or use ghee that was melted and cooled. In the water jars, turmeric and chilli should look cloudy, with bits that slowly settle, and only a pale colour. If the oil jars look cloudy too, the powder is only floating, which is also a result: write it down.",
      "context": "In this step you wait and then look closely. You decide whether each colour has dissolved or is only floating."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "Fill in the table for each colour. Write what you see in the water jar, what you see in the oil jar, and which took more colour.",
+     "do": "Fill in the table for each colour. Write what you see in the water jar, what you see in the oil jar, and which took more colour. Give each jar a colour-strength score from 0 (none) to 5 (very strong), judged against the white paper.",
      "say": "For each colour, tell me what you see in the water and in the oil. Which liquid took more of the colour?",
-     "kid": "Fill in the table. For each colour, which liquid took more?",
+     "kid": "Fill in the table. For each colour, give each jar a strength score from 0 to 5. Which liquid took more?",
      "parent": "Expect: turmeric and chilli, mostly oil. Food colour, only water. If one of your colours does something different, write exactly what you saw.",
      "context": "In this step you write down the results for all three colours."
     },
@@ -1008,7 +1008,7 @@
      "buy": "b-balloons"
     },
     {
-     "item": "two balloons of the same kind, stretched by blowing them up once and letting them go",
+     "item": "two balloons of the same kind (a normal party pack is fine), stretched by blowing them up once and letting them go",
      "qty": 2,
      "buy": "b-balloons"
     },
@@ -1017,11 +1017,11 @@
      "qty": 1
     },
     {
-     "item": "a big bowl of ice water for the cold bottle, and a big bowl of bath-warm water for the warm bottle, made by a grown-up",
+     "item": "two big bowls: one of ice water (a few handfuls of ice from the fridge freezer) and one of bath-warm water, made by a grown-up; both deep enough to cover most of a bottle",
      "qty": 2
     },
     {
-     "item": "a kitchen sink or a tray, to catch any foam",
+     "item": "a kitchen sink or a tray, to catch any foam, and a glass for pouring a little out",
      "qty": 1
     },
     {
@@ -1029,7 +1029,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up opens the bottles, slowly, over the sink, because a warm soda can spray. Never shake a bottle before opening it. The warm water must be only bath-warm. Wear old clothes, as foam may spill.",
+   "safety": "A grown-up opens the bottles, slowly, over the sink, because a warm soda can spray. Never shake a bottle before opening it, and keep faces away from the neck. The warm water must be only bath-warm, never hot. Do not blow up balloons in the mouth of a child who is under six, and throw away burst balloon pieces, as small parts are a choking risk. Wear old clothes, as foam may spill.",
    "schedule": [
     {
      "day": 1,
@@ -1040,7 +1040,7 @@
    "record": "Fill in the table. Draw the two bottles with their balloons. Then write what you think, what you saw, and why.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results",
+    "title": "Made-up example results (your numbers will differ)",
     "cols": [
      "Bottle",
      "Distance around the balloon",
@@ -1121,11 +1121,11 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. A grown-up holds the cold bottle over the sink and loosens the cap slowly. 2. Quickly take the cap off and stretch a balloon over the neck. 3. Do the same for the warm bottle with the other balloon. 4. Swirl each bottle gently ten times.",
+     "do": "1. A grown-up holds the cold bottle over the sink and loosens the cap slowly, letting the hiss finish. 2. Pour the same small amount (about one glass) from each bottle, so there is room for foam. 3. Quickly stretch a balloon over the neck of the cold bottle. Do the same for the warm bottle with the other balloon. 4. Swirl each bottle gently ten times, the same.",
      "say": "Open the cold bottle slowly over the sink. Stretch the balloon over the neck at once. Now the warm bottle, the same way. Swirl each one ten times, the same.",
      "kid": "A grown-up opens each bottle slowly. Stretch a balloon on the neck. Swirl each one ten times.",
      "adult": true,
-     "parent": "Hold the balloon on the neck with your hand, as the gas pushes it. Open the warm bottle very slowly, as it may foam. Stand both bottles back in their bowls and leave them for five minutes. If the balloon comes off, put it back quickly.",
+     "parent": "Hold the balloon on the neck with your hand, as the gas pushes it. Open the warm bottle very slowly, as it may foam. Pour out the same amount from each bottle first, so foam does not rush into the balloon. If foam does get in, the balloon still shows the difference. Stand both bottles back in their bowls and leave them for five minutes. If the balloon comes off, put it back quickly, and tie a rubber band round the neck if it keeps slipping. With 2 to 4 children, one holds each balloon, one swirls, one times and one measures. One child alone can do both bottles with a parent. If you have a third bottle left at room temperature, add it as a middle case.",
      "context": "In this step you open both bottles and catch the gas in balloons."
     },
     {
@@ -1134,7 +1134,7 @@
      "do": "1. Wrap the string around the widest part of each balloon. 2. Hold the string flat along the ruler. 3. Write each length in the table. 4. Look at the drink in each bottle.",
      "say": "Wrap the string around the middle of the balloon. Mark where it meets. Lay it along the ruler. Which balloon is bigger? What does the drink in each bottle look like now?",
      "kid": "Wrap the string round each balloon. Measure it on the ruler. Write the numbers.",
-     "parent": "Expect the warm bottle's balloon to be much bigger, and the drink inside to look flat. The cold bottle's balloon is smaller, and the drink still has bubbles. If the two balloons are the same size, swirl the warm bottle ten more times and measure again. If both are tiny, the soda was flat before you began, so try a fresh bottle.",
+     "parent": "Expect the warm bottle's balloon to be clearly bigger, and the drink inside to look flatter. The cold bottle's balloon is smaller, and the drink still has bubbles. Your numbers will be different from the example, and a balloon can be small or large depending on how stretchy it is, so compare the two balloons only with each other. If the two balloons are the same size, swirl the warm bottle ten more times and measure again. If both are tiny, the soda was flat before you began, so try a fresh bottle.",
      "context": "In this step you measure the balloons and look at each drink."
     },
     {
@@ -1185,11 +1185,11 @@
      "qty": 1
     },
     {
-     "item": "ice cubes, about 6 cups in all",
+     "item": "ice, about 6 cups in all (about 40 cubes). Crushed ice works best; if you have little, buy a block of ice from an ice-cream seller or a shop and break it up in a cloth with a hammer",
      "qty": 1
     },
     {
-     "item": "salt, 6 level tablespoons, rock salt or table salt",
+     "item": "coarse salt (mota namak) or table salt, 6 level tablespoons (about 100 grams, one small packet)",
      "qty": 1
     },
     {
@@ -1201,11 +1201,11 @@
      "qty": 1
     },
     {
-     "item": "a kitchen thermometer, if you have one (not needed)",
+     "item": "a kitchen or fridge thermometer, if you have one (not needed; skip it if you do not)",
      "qty": 1
     }
    ],
-   "safety": "Salted ice gets far below zero and can hurt bare skin, so hold the bags in a tea towel or gloves, not for long. Do not let salt water into your eyes or mouth. Rinse the small bag under the tap before opening it. Do not use this test with a child who is allergic to milk.",
+   "safety": "Salted ice gets far below zero and can hurt bare skin, so hold the bags in a tea towel or gloves, not for long. Do not let salt water into your eyes or mouth. Rinse the small bag under the tap before opening it. Do not use this test with a child who is allergic to milk, and do not eat the milk if the bag leaked.",
    "schedule": [
     {
      "day": 1,
@@ -1264,10 +1264,10 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Put 3 cups of ice in each big bag. 2. Put a small milk bag into each big bag, among the ice. 3. Add 6 level tablespoons of salt to one big bag only. 4. Seal both big bags. 5. Label the salty one.",
+     "do": "1. Put 3 cups of ice in each big bag, with 2 tablespoons of cold water in each. 2. Put a small milk bag into each big bag, among the ice. 3. Add 6 level tablespoons of salt to one big bag only. 4. Seal both big bags. 5. Label the salty one.",
      "say": "One big bag gets ice only. The other gets ice and salt. Everything else is the same. Label the salty bag so we know which is which.",
      "kid": "Put ice in both big bags. Add salt to one bag only. Seal both. Label the salty one.",
-     "parent": "Both bags get the same amount of ice, so the salt is the only difference. Rock salt works best, but table salt is fine.",
+     "parent": "Both bags get the same amount of ice and water, so the salt is the only difference. Coarse salt works best, but table salt is fine. In hot weather the ice melts quickly, so keep the ice in the freezer until the last minute.",
      "check": {
       "t": "mcq",
       "q": "Why does only one big bag get salt?",
@@ -1284,11 +1284,11 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "1. Wrap each big bag in a tea towel. 2. Shake and knead each bag for ten minutes, by the timer. 3. After five minutes, feel the outside of each bag through the towel. 4. If you have a thermometer, read the ice in each bag.",
+     "do": "1. Wrap each big bag in a tea towel. 2. Shake and knead each bag for ten minutes, by the timer. 3. After five minutes, feel the outside of each bag through the towel, and peek at the milk in each. 4. If you have a thermometer, read the ice in each bag.",
      "say": "Shake and squeeze both bags for ten minutes. Take turns, and share the job with a grown-up. After five minutes, feel the outside of each bag. What do you notice?",
      "kid": "Wrap each bag in a towel. Shake it for ten minutes. Feel the outside. What do you notice?",
      "adult": true,
-     "parent": "Take turns, as the bags get too cold to hold for long. The salty bag usually feels much colder, and may have a frosty or damp coat on the outside. With a thermometer, the plain ice reads about zero, and the salty ice reads many degrees below zero, perhaps minus ten.",
+     "parent": "Take turns, as the bags get too cold to hold for long. With 2 to 4 children, one child shakes each bag and a third keeps the timer, then swap. One child alone shakes one bag while the parent shakes the other. The salty bag usually feels much colder, and may have a frosty or damp coat on the outside. With a thermometer, the plain ice reads about zero, and the salty ice reads many degrees below zero, typically around minus ten, though it varies. Warm days and loose ice slow it all down: if the salty milk is still runny at ten minutes, keep going for up to fifteen.",
      "context": "In this step you shake both bags for ten minutes and feel how cold they are."
     },
     {
@@ -1297,7 +1297,7 @@
      "do": "1. Take out each small bag. 2. Rinse it under the tap so no salt water is on the outside. 3. Open it. 4. Look at the milk and write what it looks like in each bag.",
      "say": "Rinse each small bag so the salt water comes off. Open it and look. Is the milk liquid, thick, slushy or firm? Which bag froze?",
      "kid": "Take out the small bags. Rinse them. Open them. Look at the milk. Which one froze?",
-     "parent": "Expect the milk from the salty bag to be thick and slushy, like soft kulfi. The milk from the plain ice bag is usually still liquid, just cold. If the salty bag also did not freeze, shake for five more minutes. If you want to taste the kulfi, use a clean spoon, and only if the bag was rinsed well and sealed the whole time.",
+     "parent": "Expect the milk from the salty bag to be thick and slushy, like soft kulfi. The milk from the plain ice bag is usually still liquid, just cold. If the salty bag also did not freeze, shake for five more minutes, or add more ice and salt. A bag that leaked salty water into the milk makes salty milk: throw it away. If you want to taste the kulfi, use a clean spoon, and only if the bag was rinsed well and sealed the whole time.",
      "context": "In this step you open the small bags and compare the milk."
     },
     {
@@ -1336,7 +1336,7 @@
      "qty": 1
     },
     {
-     "item": "two clear glasses",
+     "item": "two clear glasses for each child or pair, and a plate to stand them on",
      "qty": 2
     },
     {
@@ -1393,19 +1393,19 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Drop six raisins into the glass. 2. Watch for five minutes. 3. Notice which way the raisins move and when.",
+     "do": "1. Drop six raisins into the glass. 2. Watch for five minutes. 3. Count how many times one chosen raisin reaches the top in the first two minutes. Write the number.",
      "say": "Watch the raisins. What do they do? Why do you think they move?",
      "kid": "Drop in six raisins. Watch for five minutes. What do they do?",
-     "parent": "The raisins sink at first. Bubbles collect on their wrinkled skins, and the raisins rise to the top. At the top the bubbles pop, and the raisins sink again. They keep dancing. If nothing happens, use a fresh, very fizzy soda.",
+     "parent": "The raisins sink at first. Bubbles collect on their wrinkled skins, and the raisins rise to the top. At the top the bubbles pop, and the raisins sink again. They keep dancing, a few trips a minute at first, then slower as the soda goes flat. If nothing happens, use a fresh, very fizzy soda that was cold and unopened, as flat soda will not work; thin-skinned dry raisins work best.",
      "context": "In this step you drop raisins in the soda and watch the bubbles lift them."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Pour a second glass of the same soda. 2. Stir one glass hard for thirty seconds with the spoon. 3. Leave the other still. 4. Compare the two glasses.",
+     "do": "1. Pour a second glass of the same soda. 2. Stir one glass hard for thirty seconds with the spoon. 3. Leave the other still. 4. Count the bubble streams rising in each glass for ten seconds, and compare.",
      "say": "Stir this glass hard. Leave the other still. Which glass has more bubbles left after a minute? Why do you think so?",
      "kid": "Stir one glass hard. Leave one still. Which has more bubbles left?",
-     "parent": "Stirring gives gas many places to leave the liquid. The stirred glass goes flat sooner. If you add a pinch of salt to the still glass, it foams up at once, because the grains give the gas somewhere to start. Pour the salt in slowly, as it can foam over.",
+     "parent": "Stirring gives gas many places to leave the liquid. The stirred glass goes flat sooner, so it has fewer bubble streams. If you add a pinch of salt to the still glass, it foams up at once, because the grains give the gas somewhere to start. Do it over a plate or the sink and pour the salt in slowly, as it can foam over. With 2 to 4 children, each child can have a glass and test a different thing: stirring, salt, a raisin, or nothing. Do not drink glasses that have had salt or been touched by spoons used on the table.",
      "check": {
       "t": "mcq",
       "q": "Before the soda bottle is opened there are no bubbles, yet the soda fizzes when it is poured. Where was the gas?",
@@ -1488,7 +1488,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Write them down. Stir each glass for thirty seconds.",
+     "parent": "Do not correct the guesses. Write them down. Stir each glass for thirty seconds. With 2 to 4 children, each child makes and stirs one glass. One child alone with a parent makes all four.",
      "context": "This is the first step of the Look, Torch and Wait activity. You make four mixtures and guess."
     },
     {
@@ -1507,7 +1507,7 @@
      "say": "Shine the torch through the side of each glass. Can you see a beam of light inside the water? Which glass shows it best?",
      "kid": "Shine a torch through each glass. Is there a bright beam inside? Write it down.",
      "adult": true,
-     "parent": "A dim room makes the beam easier to see. The plain water and salt water show hardly any beam. The soil and milk glasses show a clear line. This is the Tyndall effect: floating bits scatter light sideways.",
+     "parent": "A dim room makes the beam easier to see: draw curtains or use a bathroom with the light off. A phone torch is bright enough. The plain water and salt water show hardly any beam. The soil and milk glasses show a clear line. This is the Tyndall effect: floating bits scatter light sideways. If the milk glass shows no beam, add another teaspoon of milk. If the soil glass is too dark to see a beam, use a pinch of soil next time.",
      "context": "In this step you shine a torch through each glass from the side."
     },
     {
@@ -1538,7 +1538,8 @@
      },
      "context": "In this step you name the three kinds and sort your glasses."
     }
-   ]
+   ],
+   "safety": "Do not shine a torch into anyone's eyes. Soil water is not for drinking, so wash hands after touching it."
   },
   {
    "id": "a3",
@@ -1548,15 +1549,15 @@
    "context": "In this activity you lay a thread on an ice cube, add a pinch of salt and try to lift the ice by the thread.",
    "materials": [
     {
-     "item": "a clear glass of very cold water from the fridge",
+     "item": "a clear glass of very cold water, with a few ice cubes, from the fridge",
      "qty": 1
     },
     {
-     "item": "two big ice cubes from the freezer",
+     "item": "two big ice cubes straight from the freezer (one for the salt test, one as the no-salt comparison)",
      "qty": 2
     },
     {
-     "item": "a piece of cotton thread or thin string, about 15 centimetres long",
+     "item": "a piece of cotton thread or thin string, about 15 centimetres long (a thicker cotton thread or wool works better than very thin thread)",
      "qty": 1
     },
     {
@@ -1590,7 +1591,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put one ice cube in the cold water so it floats. 2. Lay the thread across the top of the cube. 3. Ask your child if the thread will lift the ice if you pull it.",
+     "do": "1. Put two ice cubes in the cold water so they float. 2. Lay a thread across the top of each cube. 3. Ask your child if the thread will lift the ice if you pull it.",
      "say": "If you pull this thread up, will the ice come with it? Now, what if we sprinkle salt on it first? Why do you think so?",
      "kid": "Lay the thread on the ice. Will it lift the ice? What if we add salt?",
      "parent": "Do not say what will happen. Most children think the thread will not lift the ice. Try a gentle lift first to show that the thread slides off.",
@@ -1599,10 +1600,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Sprinkle a quarter teaspoon of salt along the thread. 2. Count slowly to sixty, or watch the clock for one minute. 3. Lift the thread gently, straight up.",
+     "do": "1. Sprinkle a quarter teaspoon of salt along the thread on one cube only. Leave the other cube plain. 2. Count slowly to sixty, or watch the clock for one minute. 3. Lift each thread gently, straight up. Write how long you waited.",
      "say": "Sprinkle the salt on the thread. Wait one whole minute. Now lift the thread slowly. What happens to the ice cube?",
      "kid": "Sprinkle salt on the thread. Wait one minute. Lift gently. What happens?",
-     "parent": "It does not work every time. If the ice does not lift, wait another thirty seconds and try again. If it still fails, use a fresh, very cold glass of water and a big cube from the freezer, and press the thread down into the wet spot. On a very hot day, the cube may melt too fast, so work quickly.",
+     "parent": "It does not work every time. The plain cube is the comparison: its thread should slide off. If the salted ice does not lift, wait another thirty seconds and try again. If it still fails, use a fresh, very cold glass of water and a big cube straight from the freezer, and press the thread down into the wet spot. On a hot or damp day, the cube may melt too fast, so work quickly, and use ice that is frosty from the deep freeze. With 2 to 4 children, each pair gets two cubes and a thread.",
      "context": "In this step you add salt to the thread and try to lift the ice."
     },
     {
@@ -1630,12 +1631,12 @@
   {
    "id": "a4",
    "title": "Curd, Water or Oil: what soothes a chilli?",
-   "mins": 20,
+   "mins": 30,
    "days": 1,
-   "context": "In this activity a grown-up who likes spicy food helps you find out whether water or curd soothes the burn of a hot chilli better. The child watches and records. Children should not eat the chilli.",
+   "context": "In this activity a grown-up who likes spicy food helps you find out whether water or curd soothes the burn of a hot chilli better than doing nothing. The children set the order, time it and record. Children should not eat the chilli.",
    "materials": [
     {
-     "item": "a grown-up who is happy to eat a small piece of a hot green chilli or a little hot pickle",
+     "item": "a grown-up who is happy to eat three small pieces of hot green chilli, about 1 centimetre each, or three equal pinches of hot pickle",
      "qty": 1
     },
     {
@@ -1643,42 +1644,42 @@
      "qty": 1
     },
     {
-     "item": "a small bowl of plain curd or a glass of buttermilk",
+     "item": "a small bowl of plain full-fat curd (not sweet)",
      "qty": 1
     },
     {
-     "item": "a pen and a sheet of paper, and a watch",
+     "item": "three paper slips marked NOTHING, WATER and CURD, a pen, a sheet of paper and a watch",
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up eats the chilli. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble or a milk allergy.",
+   "safety": "Only a grown-up eats the chilli, and only a small piece. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble, acidity or a milk allergy or lactose problem. Stop and drink milk if it is too hot.",
    "schedule": [
     {
      "day": 1,
-     "mins": 20,
-     "what": "The grown-up eats a small piece of hot chilli. Record how hot it feels after a sip of water, and then after a spoon of curd."
+     "mins": 30,
+     "what": "The grown-up eats three equal pieces of chilli, one at a time, with a rest between. After each, they do nothing, sip water or take curd, as the slips say. Record the heat after 30 and 60 seconds each time."
     }
    ],
-   "record": "Make a table with the rows: after chilli, after water, after curd. Write the heat score from 0 to 5 in each row.",
+   "record": "Make a table with the rows: nothing, water, curd. Write the heat score from 0 to 5 at 30 seconds and at 60 seconds in each row. Circle which one dropped the most.",
    "setup": [
     {
      "art": "A grown-up holding a small piece of green chilli beside a glass of water and a bowl of curd, and a child holding a score sheet.",
-     "caption": "1. A grown-up eats a small piece of hot chilli. The child scores the heat."
+     "caption": "1. Draw the order from the paper slips. The grown-up eats the first small piece of chilli. Score the heat."
     },
     {
      "art": "The same grown-up sipping water, and the child writing a score.",
-     "caption": "2. Sip plain water. Score the heat again."
+     "caption": "2. Do what the slip says: nothing, a sip of water, or a spoon of curd. Score the heat at 30 and 60 seconds."
     },
     {
      "art": "The grown-up taking a spoonful of curd, smiling with relief, and the child writing a score.",
-     "caption": "3. After the heat is back, take a spoon of curd. Score again."
+     "caption": "3. Rest until the burn is gone. Repeat with the other two slips."
     }
    ],
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli better and why.",
+     "mins": 5,
+     "do": "1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Fold the three slips (NOTHING, WATER, CURD) and draw them one by one to set the order.",
      "say": "A grown-up will eat a small piece of chilli. Then we try water and curd, one at a time. Which do you think will soothe it better? Why do you think so?",
      "kid": "A grown-up eats a little chilli. Which soothes it better, water or curd? Why?",
      "adult": true,
@@ -1692,37 +1693,37 @@
        ]
       }
      ],
-     "parent": "Do not say what will happen. Most children guess water.",
+     "parent": "Do not say what will happen. Most children guess water. Drawing the order from the slips matters: the first piece may feel hotter than later ones, and a random order keeps one remedy from being unfairly first. NOTHING is the comparison, as the burn fades by itself. If two or more adults are tasting, each can take a different order and you can compare.",
      "context": "This is the first step of the Curd, Water or Oil test. You guess before you try."
     },
     {
      "id": "s2",
-     "mins": 6,
-     "do": "1. The grown-up eats a small piece of chilli. 2. After thirty seconds, they score the heat. 3. They take one sip of plain water. 4. After thirty seconds, they score again.",
-     "say": "Score the heat from 0 to 5. Now take one sip of water. Wait thirty seconds. Score it again.",
-     "kid": "Score the heat. Sip water. Wait thirty seconds. Score again.",
+     "mins": 12,
+     "do": "1. The grown-up eats the first small piece of chilli. 2. After thirty seconds, they score the heat. 3. They do what the first slip says (nothing, one sip of water, or one spoon of curd). 4. They score again at 30 seconds and at 60 seconds. 5. Rest for about eight minutes, until the burn is gone, before the next piece.",
+     "say": "Score the heat from 0 to 5. Now do what the slip says. Score it again after thirty seconds and after sixty.",
+     "kid": "Score the heat. Do what the slip says. Score again at 30 and 60 seconds.",
      "adult": true,
-     "parent": "Expect the score to change little after water, or even rise as the water spreads the chilli around the mouth. Everyone's mouth is different, so write down what the grown-up says.",
+     "parent": "Expect the score to change little after water, or even rise as the water spreads the chilli around the mouth. Everyone's mouth is different, so write down what the grown-up says. With 2 to 4 children, one reads the clock, one writes the scores and one asks the score; with one child, you hold the watch and write. If the first piece is too hot, use smaller pieces.",
      "context": "In this step the grown-up eats the chilli and tries water. The child records the scores."
     },
     {
      "id": "s3",
-     "mins": 7,
-     "do": "1. Wait until the heat comes back to about the same score. 2. The grown-up takes a spoonful of curd. 3. After thirty seconds, they score the heat again. 4. Compare the three scores.",
-     "say": "Wait for the burn to be back where it was. Then take a spoon of curd. Score it again. Which soothed it better, water or curd?",
-     "kid": "Wait until the burn comes back. Eat a spoon of curd. Score again.",
+     "mins": 13,
+     "do": "1. Repeat with the second and third slips, resting between. 2. Compare the three rows: which dropped the most in a minute? 3. Ask whether doing nothing dropped too.",
+     "say": "Same chilli, same size, same waiting. Which one dropped the burn most? How much did it drop with nothing at all?",
+     "kid": "Repeat for the other two slips. Which dropped the burn most?",
      "adult": true,
-     "parent": "Waiting for the burn to return matters. If curd is tried too early, you cannot tell whether the curd helped or the heat was fading by itself. Expect curd to help more than water. The effect can be modest, and that is a fine result.",
+     "parent": "Waiting until the burn is gone before each new piece matters, or you cannot tell the remedies apart. Expect curd to help more than water, and nothing to fade slowly. One tasting by one person is only a hint, not proof, and the effect can be modest. That is a fine result. Say so, and try it with another adult if you can.",
      "check": {
       "t": "mcq",
-      "q": "Why should the grown-up wait for the burn to come back before trying the curd?",
+      "q": "Why does the test include a piece of chilli where the grown-up does nothing?",
       "options": [
-       "So both remedies start from the same level of burn",
-       "So the curd stays cold",
-       "So the chilli can be eaten again"
+       "To see how much the burn fades by itself",
+       "To make the test longer",
+       "So the grown-up gets a rest"
       ],
       "a": 0,
-      "why": "To compare two remedies fairly, each must start from the same level of burn. If the curd were tried while the burn was already fading, you could not tell which one did the work."
+      "why": "A chilli burn fades with time. If you only tried water and curd, you could not tell whether they helped or the burn was fading anyway. The 'nothing' piece is the comparison."
      },
      "context": "In this step the grown-up tries curd after the burn has returned. The child compares the scores."
     }
@@ -1736,7 +1737,7 @@
    "context": "In this activity you use a TDS meter, like the one in many water purifiers, to find out how much is dissolved in different waters. If you do not have a meter, a neighbour, a relative or a water purifier shop may let you borrow theirs.",
    "materials": [
     {
-     "item": "a TDS meter",
+     "item": "a TDS meter (a small hand-held one, Rs 150 to 400 online or at an aquarium shop; many homes with a water purifier have one, or a neighbour may lend it). No meter: use the evaporation test in step 2",
      "qty": 1,
      "buy": "b-tds"
     },
@@ -1749,7 +1750,7 @@
      "qty": 1
     },
     {
-     "item": "a clean cloth for drying the probe, a pen and paper",
+     "item": "a clean cloth for drying the probe, a pen and paper. For the no-meter test: four clean steel saucers or plates",
      "qty": 1
     }
    ],
@@ -1794,10 +1795,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Switch on the meter. 2. Dip the probe into each glass. 3. Wait until the number stops changing. 4. Write it down. 5. Rinse and wipe the probe between glasses.",
+     "do": "1. Switch on the meter. 2. Dip the probe into each glass. 3. Wait until the number stops changing. 4. Write it down. 5. Rinse and wipe the probe between glasses. No meter? Put one tablespoon of each water on its own clean steel saucer. Leave them in a sunny, dust-free spot. A few hours later, look at the white rings left behind.",
      "say": "Dip the probe into the first glass. Wait for the number to settle. Write it down. Rinse and wipe it before the next glass.",
      "kid": "Dip the probe. Wait for the number. Write it. Wipe the probe. Next glass.",
-     "parent": "Typical readings: tap water, many hundreds in some cities and far fewer in others. Purifier water, usually far lower than tap water. Bottled water, between the two. Salty water, high. Sugary water, close to the tap water reading. A TDS meter does not count the dissolved things directly. It measures how well the water carries electricity, which needs charged particles. Sugar is not charged, so the meter barely notices it.",
+     "parent": "Typical readings: tap water, many hundreds in some cities and far fewer in others. Purifier water, usually far lower than tap water. Bottled water, between the two. Salty water, high. Sugary water, close to the tap water reading. Your numbers will differ, so compare the glasses with each other. A TDS meter does not count the dissolved things directly. It measures how well the water carries electricity, which needs charged particles. Sugar is not charged, so the meter barely notices it. With the saucer test, the tap water leaves a visible white ring, the purifier water a fainter one, and the salty water a thick crust. Sugar leaves a sticky film. With 2 to 4 children, each tests one glass and shares the numbers. Do not drink the test glasses.",
      "context": "In this step you measure all five glasses with the meter."
     },
     {
@@ -1851,7 +1852,7 @@
      "qty": 1
     },
     {
-     "item": "four small steel pans or old vessels, a strainer, a spoon and tongs",
+     "item": "four small steel pans or old vessels you do not mind staining, four small bowls for soaking, a strainer, a spoon and tongs",
      "qty": 4
     },
     {
@@ -1876,7 +1877,7 @@
      "what": "Cut each cloth in half, wash one half, dry it and compare with the unwashed half."
     }
    ],
-   "record": "Make a table with four rows: onion skin, turmeric, beetroot and tea. Write the colour before washing and after washing. Then glue or tape the two halves of each cloth beside the table.",
+   "record": "Make a table with four rows: onion skin, turmeric, beetroot and tea. Write the colour and a darkness score from 0 to 5 before washing and after washing. Then glue or tape the two halves of each cloth beside the table.",
    "setup": [
     {
      "art": "Four small steel pans on a stove, each with a different kitchen material in water: onion skin, turmeric, beetroot and tea.",
@@ -1922,16 +1923,16 @@
      "say": "A grown-up will simmer each material in water for ten minutes. The hot water pulls the colour out of the material. Which colours dissolved into the water?",
      "kid": "A grown-up simmers each material in water. The colour dissolves into the water. Let it cool.",
      "adult": true,
-     "parent": "Hot water dissolves colour faster, just as it did for sugar. Strain out the skins, tea leaves and beetroot, so you are left with coloured water. Label the four cups.",
+     "parent": "Hot water dissolves colour faster, just as it did for sugar. Strain out the skins, tea leaves and beetroot, so you are left with coloured water. Label the four bowls. Old pans may stay stained. With 2 to 4 children, each child takes one dye and its cloth; one child alone does two dyes (onion and turmeric) on day 1 if time is short. Keep children away from the stove.",
      "context": "In this step a grown-up makes four dyes by simmering kitchen things in water."
     },
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Wet each white cloth under the tap and squeeze it. 2. Push one cloth into each cooled dye. 3. Stir now and then for half an hour. 4. Take out each cloth. 5. Rinse it briefly in cold water until the water runs lighter. 6. Hang it up to dry overnight.",
+     "do": "1. Wet each white cloth under the tap and squeeze it. 2. Push one cloth into each cooled dye so it is fully covered. 3. Stir now and then for half an hour. For a stronger colour, leave it soaking for a few hours. 4. Take out each cloth. 5. Rinse it briefly in cold water until the water runs lighter. 6. Hang it up to dry overnight.",
      "say": "Push each cloth into a dye. Move it around so the colour takes evenly. After half an hour, take it out, rinse it lightly and hang it up.",
      "kid": "Soak a damp cloth in each dye for half an hour. Rinse lightly. Hang to dry.",
-     "parent": "The cloths look darker wet than dry. Tea and onion skin usually give tan or orange-brown. Turmeric gives a bright yellow. Beetroot gives a pink that may look weak. Hang them where drips do not matter.",
+     "parent": "The cloths look darker wet than dry. Tea and onion skin usually give tan or orange-brown. Turmeric gives a bright yellow. Beetroot gives a pink that may look weak, and sometimes only beige. Without a fixing agent the colours are gentle, which is fine for the test. Use cotton, as nylon or polyester will not take the dye. Hang them where drips do not matter.",
      "context": "In this step you soak four cloths in four dyes and hang them to dry."
     },
     {
@@ -1948,7 +1949,7 @@
     {
      "id": "s5",
      "mins": 15,
-     "do": "1. Lay the washed half beside the unwashed half for each colour. 2. Write which faded the most and which faded the least. 3. Ask your child to say what they think, what they saw, and why.",
+     "do": "1. Lay the washed half beside the unwashed half for each colour. 2. Give each half a darkness score from 0 to 5. 3. Write which faded the most and which faded the least. 4. Ask your child to say what they think, what they saw, and why.",
      "say": "Put the washed half beside the dry half. Which colour is almost the same? Which is much paler? What do you think now? What did you see? Why do you think it happened?",
      "kid": "Put the washed half beside the dry half. Which faded most? Which faded least?",
      "parent": "Results vary with cloth and water, so write exactly what you see. Turmeric often fades a lot in washing and in sun, beetroot usually fades to a weak pink or beige, and tea and onion skin usually hold best. A dye that washes out easily was only loosely held by the cloth, so the water could take it back.",
@@ -3179,7 +3180,7 @@
    "id": "b-tds",
    "item": "A hand-held TDS meter",
    "kind": "tool",
-   "why": "For the TDS Detective activity. A basic meter is cheap, and many homes with a water purifier already have one.",
+   "why": "For the TDS Detective activity. A basic meter costs about Rs 150 to 400, and many homes with a water purifier already have one. Without it, the activity has an evaporation test instead.",
    "url": "https://www.amazon.in/s?k=tds+meter+water",
    "used_in": [
     "a5"

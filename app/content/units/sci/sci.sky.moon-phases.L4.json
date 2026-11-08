@@ -675,17 +675,17 @@
    "rules": [
     "Shuffle the cards and put them in a pile. One player is the reader and takes the top card. The back stays hidden.",
     "The reader shows the age on the front. Every other player draws the Moon shape on scrap paper, and writes which side is lit.",
-    "Everyone also writes down when the Moon sets or rises, using the rule of thumb. Moonset is about 50 minutes times the age after sunset, up to the full Moon. After the full Moon, moonrise is about 50 minutes times the days since full, after sunset.",
+    "Everyone also writes down when the Moon sets or rises, using the rule of thumb. Moonset is only about 50 minutes times the age after sunset, up to the full Moon. After the full Moon, moonrise is about 50 minutes times the days since full, after sunset. These times are typical, not exact, and change a little with your city and the season.",
     "The reader reads the back. A right phase is 1 point, a right lit side is 1 point, and a time within an hour is 1 point.",
     "Pass the reader job to the next player after each card.",
     "When the cards run out, the player with the most points wins. If points are equal, the players share the win.",
-    "Playing alone? Guess for each card and score yourself. Try to beat your score in a second round."
+    "Playing alone? Guess for each card and score yourself. Try to beat your score in a second round. With two to four players, one reader at a time keeps the cards, and the others race to answer on paper."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and shuffle them. Find out the sunset time today and write it on a sheet, to work out times from.",
+     "do": "Cut out the 24 cards (or write the ages and answers on 24 slips of paper) and shuffle them. Find out the sunset time today and write it on a sheet, to work out times from.",
      "say": "Each card tells us the Moon's age. We guess its shape, its lit side and when it sets or rises. First, what time does the Sun set today?",
      "kid": "Cut out the cards. Shuffle them. Find today's sunset time.",
      "context": "This is the first step of Moon Age Snap. You set up the cards and find today's sunset."
@@ -916,13 +916,14 @@
     "Follow the other squares: a crater sends you back 1, dust makes you miss a turn, a slope sends you back 2, and a sunny ridge sends you forward 2.",
     "When everyone has had a turn, move the Sun marker forward one step. That is one Earth day.",
     "The first rover to reach square 14 wins. If the Sun marker reaches SUNSET at step 14 before anyone has finished, the night wins and everyone's rover freezes.",
-    "Playing alone? Try to reach the finish before the Sun marker reaches step 10. Then try to beat it by one step."
+    "Playing alone? Try to reach the finish before the Sun marker reaches step 10. Then try to beat it by one step.",
+    "With two to four players, take turns. The Sun marker moves once when everyone has had a turn, so more players do not make the night come sooner."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the board, the rovers and the Sun marker. Shuffle the question cards. Put every rover on the start.",
+     "do": "Cut out the board and the 24 question cards, and shuffle the cards. Use a coin, button or bottle cap for each rover and a different small object for the Sun marker. Find one dice from a Ludo or snakes-and-ladders set. If you have none, write 1 to 6 on six paper slips and draw one from a cup. Put every rover on the start.",
      "say": "Your rover has landed at lunar dawn. You have two weeks of sunlight to reach the data site. Each round is one day.",
      "kid": "Set up the board. Put your rover at the start. Put the Sun marker on step 1.",
      "context": "This is the first step of Race the Lunar Night. You set up the board."
@@ -995,7 +996,7 @@
    "days": 1,
    "question": "A ball of dough with craters and lumps is lit by a torch from three directions. From which direction can you see the most craters and mountains?",
    "predict": "Before you start, guess. Will you see the most craters when the torch is behind your head, at the side, or behind the dough? Why do you think so?",
-   "fair_test": "Use the same dough Moon, the same torch, the same distance from the dough and the same seat every time. Make the room equally dark each time. Only the direction of the light changes, so any difference in what you see comes from the light. Count twice, once by you and once by a helper, because one count can be a fluke.",
+   "fair_test": "Use the same dough Moon, the same torch, the same distance from the dough and the same seat every time. Make the room equally dark each time. Only the direction of the light changes, so any difference in what you see comes from the light. Count twice, once by you and once by a helper, because one count can be a fluke. Roles: for one child with a parent, the child counts and draws while the parent holds the torch. For two to four children, one holds the torch, one writes the table, and the others each count alone and write their number before they compare. Swap jobs for each light.",
    "results_table": [
     "Where the torch was",
     "Craters and lumps I counted (out of 9)",
@@ -1029,6 +1030,14 @@
     },
     {
      "item": "a helper to count too",
+     "qty": 1
+    },
+    {
+     "item": "a 50 centimetre piece of string or thread, to keep the torch at the same distance",
+     "qty": 1
+    },
+    {
+     "item": "a few books to rest the torch on, at the height of the plate",
      "qty": 1
     }
    ],
@@ -1074,8 +1083,8 @@
      "caption": "1. Press six craters and pinch three lumps into the dough Moon."
     },
     {
-     "art": "A child seated 80 centimetres from the plate, with a torch held right beside her head and shining on the dough, in a dark room.",
-     "caption": "2. Light 1, full Moon: hold the torch beside your head and shine it at the dough."
+     "art": "A child seated 50 centimetres from the plate, with a torch held right beside her head and shining on the dough, in a dark room.",
+     "caption": "2. Light 1, full Moon: hold the torch beside your head, 50 centimetres from the dough, and shine it at the dough."
     },
     {
      "art": "The same dough Moon with the torch on a stand at the side, low and shining across the dough, and long shadows inside the craters.",
@@ -1125,7 +1134,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Sit 80 centimetres from the plate. 2. Make the room dark. 3. Hold the torch beside your head, 40 centimetres from the dough, and shine it at the dough. 4. Count the craters and lumps you can see. 5. Ask the helper to count too. 6. Draw what you see.",
+     "do": "1. Sit 50 centimetres from the plate. Use the string to check. 2. Make the room dark: do this at night with curtains closed, since a phone torch looks weak in daylight. 3. Hold the torch beside your head, 50 centimetres from the dough (the string stretched from the dough to the torch), and shine it at the dough. 4. Count the craters and lumps you can see. 5. Ask the helper to count too. 6. Draw what you see.",
      "say": "Hold the torch beside your head, like the Sun behind us at full Moon. Count the craters and lumps you can see. Is it hard? Draw it.",
      "kid": "Hold the torch by your head. Count the craters. Draw the dough.",
      "ask": [
@@ -1138,13 +1147,13 @@
        ]
       }
      ],
-     "parent": "With the light beside the head, shadows hide behind the craters. You may count only 3 or 4 of the 9 things. The dough will look bright, flat and pale. That is the full Moon view. Write the numbers exactly as you counted them.",
+     "parent": "With the light beside the head, shadows hide behind the craters. You may count only 3 or 4 of the 9 things. The dough will look bright, flat and pale. That is the full Moon view. Write the numbers exactly as you counted them. The exact counts differ with your dough and torch. Do not worry if the first light shows 4 or 5, as long as it shows clearly fewer than the side light. If it does not, press the craters deeper, make the room darker, or move the torch further to the side only for light 2.",
      "context": "In this step, you light the dough Moon from behind your head, like a full Moon."
     },
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Move the torch to the side of the plate, 40 centimetres away and low, so its light skims across the dough. 2. Keep your seat the same. 3. Count what you see. 4. Ask the helper to count. 5. Measure the shadow of the tallest lump with the ruler.",
+     "do": "1. Move the torch to the side of the plate. Keep it 50 centimetres away (use the string). Rest it low on the books, so its light skims across the dough. 2. Keep your seat the same. 3. Count what you see. 4. Ask the helper to count. 5. Measure the shadow of the tallest lump with the ruler.",
      "say": "Now move the torch to the side, low. This is like the half Moon. Count again. What has changed? Measure the longest shadow.",
      "kid": "Move the torch to the side. Count again. Measure a shadow.",
      "ask": [
@@ -1174,7 +1183,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Move the torch behind the plate, a little to one side, so the light grazes the dough's back edge. 2. Count what you see. 3. Switch off the torch.",
+     "do": "1. Move the torch behind the plate, a little to one side. Keep it 50 centimetres from the dough, so the light grazes the dough's back edge. 2. Count what you see. 3. Switch off the torch.",
      "say": "Last, put the torch behind the dough, a little to the side. This is like a crescent Moon. How much can you see now?",
      "kid": "Put the torch behind the dough. Count again.",
      "parent": "Only a thin edge of the dough is lit, and the front is mostly dark. You may count 2 to 5 things. The lit edge shows long shadows.",
@@ -1236,7 +1245,7 @@
      "what": "The Moon rises about 50 minutes later each day, people say. Is that true for your city, and is the gap the same every night?"
     }
    ],
-   "record": "Fill in the table. Draw a line graph with the day on the bottom and the moonrise time up the side. Write the average gap in minutes.",
+   "record": "Fill in the table. Draw a line graph with the day on the bottom and the moonrise time up the side. Write the average gap in minutes. Write your day 11 guess and the real time, and the difference in minutes.",
    "context": "In this experiment, you collect ten days of moonrise times for your city and work out the gap from day to day. You test the rule that the Moon rises about 50 minutes later.",
    "example_chart": {
     "type": "table",
@@ -1327,7 +1336,7 @@
      "say": "Find the last new Moon. Start two days after it. Look up the moonrise time for ten days in a row. Copy each into the table. Use a 24-hour clock, so 4 in the afternoon is 16:00.",
      "kid": "Find ten days of moonrise times. Copy them into the table.",
      "adult": true,
-     "parent": "Weather apps and sites such as the time and date website list moonrise by city. A panchang or wall calendar may give moonrise as chandrodaya. If you cannot find ten days, use as many as you can, at least six. Starting two days after a new Moon means the moonrise times run from morning to evening without jumping past midnight.",
+     "parent": "Weather apps and sites such as the time and date website list moonrise by city. A panchang or wall calendar may give moonrise as chandrodaya. If you cannot find ten days, use as many as you can, at least six. Starting two days after a new Moon means the moonrise times run from morning to evening without jumping past midnight. For one child, the parent finds the table and the child copies it. For two to four children, each child can look up a different city (for example Delhi, Mumbai, Chennai and your own), then compare the average gaps at the end. No special materials are needed. If you can, step outside on one of the days at the moonrise time and see the Moon yourself.",
      "check": {
       "t": "mcq",
       "q": "Why do we start two days after a new Moon?",
@@ -1374,8 +1383,8 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Draw a graph on squared paper. Put the days along the bottom and the moonrise times up the side. Mark a dot for each day. Lay a ruler along the dots.",
-     "say": "Draw a dot for each day on the graph. Lay a ruler along the dots. Do they make a straight line? Which way does it slope?",
+     "do": "Draw a graph on squared paper. Put the days along the bottom and the moonrise times up the side. Mark a dot for each day. Lay a ruler along the dots. Then use your average gap to predict the moonrise on day 11, write it down, and only afterwards look it up. How far off were you?",
+     "say": "Draw a dot for each day on the graph. Lay a ruler along the dots. Do they make a straight line? Which way does it slope? Now guess day 11 from your average, before you look it up.",
      "kid": "Draw a dot for each day. Lay a ruler along them. Is it straight?",
      "ask": [
       {
@@ -1408,7 +1417,7 @@
    "days": 1,
    "question": "How far away is the Moon, measured in its own width? Can a small bindi on a window glass cover the whole Moon?",
    "predict": "Before you start, guess. How far from your eye must a small bindi be to cover the Moon exactly? Will it be a few centimetres, or a few metres? How many times its own width? Why do you think so?",
-   "fair_test": "Use the same bindi, the same window and the same Moon each time. Close the same eye and look from the same height. Measure the distance three times and use the average, because one measurement can be a fluke. Only your position changes, so any difference comes from where you stood.",
+   "fair_test": "Use the same bindi, the same window and the same Moon each time. Close the same eye and look from the same height. Measure the distance three times and use the average, because one measurement can be a fluke. Only your position changes, so any difference comes from where you stood. With several children, each child lines up the bindi on their own and measures. If everyone gets a ratio close to 110, your result is more trustworthy.",
    "results_table": [
     "Try",
     "Width of the bindi (mm)",
@@ -1417,7 +1426,7 @@
    ],
    "materials": [
     {
-     "item": "a round bindi or a round sticker, between 5 and 8 millimetres wide, stuck on a window glass or a clear polythene sheet",
+     "item": "a round bindi or a round sticker, between 5 and 8 millimetres wide (a packet of bindis costs about Rs 10), stuck on a window glass or on a clear polythene sheet taped to a stick",
      "qty": 1
     },
     {
@@ -1425,11 +1434,11 @@
      "qty": 1
     },
     {
-     "item": "a window with a clear view of the Moon",
+     "item": "a window or an open balcony with a clear view of the Moon, with the room lights off so the glass does not show reflections",
      "qty": 1
     },
     {
-     "item": "a helper to hold the string",
+     "item": "a helper to hold the string (with 2 to 4 children, one aligns, one holds the string, one writes)",
      "qty": 1
     },
     {
@@ -1504,7 +1513,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Pick a night when the Moon is easy to see. It can be seen in the evening sky from two days after new Moon to the full Moon, and in the morning sky after that.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Pick a night when the Moon is easy to see. Use a night between about 9 and 17 days after new Moon, when the whole round Moon is lit, so the bindi can cover all of it. On a half Moon, cover the straight edge, which is as long as the Moon is wide. A thin crescent does not work, because you cannot see its full width. The Moon should be at least a little way above the horizon so the window glass does not tilt the view.",
      "context": "This is the first step of the Bindi Moon. You guess before you measure."
     },
     {
@@ -1544,7 +1553,7 @@
        ]
       }
      ],
-     "parent": "Use only one eye, or your two eyes will see the bindi in two places. Your three measurements may differ by a few centimetres. That is normal. For a 7 millimetre bindi, expect about 70 to 80 centimetres. If the Moon moves, redo the try. If you cannot find the Moon, try another night.",
+     "parent": "Use only one eye, or your two eyes will see the bindi in two places. Your three measurements may differ by a few centimetres. That is normal. For a 7 millimetre bindi, expect about 75 to 85 centimetres (typical, not exact). If the Moon moves, redo the try. If you cannot find the Moon, try another night. If the window does not face the Moon, use an open balcony and let the helper hold the clear polythene with the bindi on it at the same height as your eye. If clouds hide the Moon, try another night.",
      "check": {
       "t": "mcq",
       "q": "Why do we close one eye?",
@@ -1573,7 +1582,7 @@
        ]
       }
      ],
-     "parent": "You should get a ratio near 110, with a range of about 100 to 120. A 7 millimetre bindi at 77 centimetres gives 770 divided by 7, which is 110. Then 384,000 divided by 110 is about 3,490 kilometres. The real width is about 3,474 kilometres. Do not worry if you get a number between 3,200 and 3,800.",
+     "parent": "You should get a ratio near 110 (typical), with a range of about 100 to 120. A 7 millimetre bindi at 77 centimetres gives 770 divided by 7, which is 110. Then 384,000 divided by 110 is about 3,490 kilometres. The real width is about 3,474 kilometres. Do not worry if you get a number between 3,200 and 3,800.",
      "check": {
       "t": "mcq",
       "q": "The bindi is 7 millimetres wide and is 770 millimetres from your eye. What is the ratio?",
@@ -1604,11 +1613,11 @@
   {
    "id": "a1",
    "title": "Torch on a Coin: where does the shadow fall?",
-   "mins": 8,
+   "mins": 15,
    "days": 1,
    "materials": [
     {
-     "item": "a coin or a key",
+     "item": "a stack of five coins, or a small eraser, standing on the paper",
      "qty": 1
     },
     {
@@ -1618,17 +1627,25 @@
     {
      "item": "a torch",
      "qty": 1
+    },
+    {
+     "item": "a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a few books to rest the torch on",
+     "qty": 1
     }
    ],
-   "safety": "Use an LED torch. Do not shine it into anyone's eyes.",
+   "safety": "Use an LED torch. Do not shine it into anyone's eyes. Keep the coins away from little ones.",
    "schedule": [
     {
      "day": 1,
-     "mins": 8,
+     "mins": 15,
      "what": "Torch on a Coin: where does the shadow fall?"
     }
    ],
-   "record": "Draw the coin and its shadow twice: once with the torch above, once from the side. Write which showed the coin's edge better.",
+   "record": "Draw the stack and its shadow three times: torch above, torch halfway up, torch low at the side. Write the shadow length from the ruler each time, and which light showed the shape best.",
    "context": "This is a quick start for the Moon up close. You light a coin from two directions and notice what the shadows do.",
    "setup": [
     {
@@ -1643,9 +1660,9 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "Lay the coin on the paper. Make the room dim. Hold the torch right above the coin and look at the shadow. Then hold it low at the side and look again.",
-     "say": "Look at the coin with the torch above it. Now move the torch low to the side. What do you notice about the shadow?",
+     "mins": 9,
+     "do": "Stand the stack of coins on the paper. Make the room dim. Hold the torch right above it, then halfway up (about 45 degrees), then low at the side, always about 30 centimetres away. Each time, measure the length of the shadow with the ruler and write it down.",
+     "say": "Look at the coins with the torch above. Now halfway. Now low at the side. Measure the shadow each time. What do you notice?",
      "kid": "Light the coin from above. Then from the side. What changes?",
      "ask": [
       {
@@ -1657,12 +1674,12 @@
        ]
       }
      ],
-     "parent": "From straight above, the shadow is a thin ring or nothing. From the side, it stretches. Do not explain yet. Ask what your child notices and wonders.",
+     "parent": "From straight above, the shadow is a thin ring or nothing. From the side, it stretches. Do not explain yet. Ask what your child notices and wonders. Expect about 0 centimetres from above, and a few centimetres from the side. For 2 to 4 children, one holds the torch, one measures and one records, then swap. Do not explain yet.",
      "context": "This is a quick start. You notice how the direction of light changes a shadow before anyone explains it."
     },
     {
      "id": "s2",
-     "mins": 4,
+     "mins": 6,
      "do": "Ask your child to tell you which light shows the coin's thickness better, and to draw it. Then ask the question below.",
      "say": "Which light shows that the coin has a thickness? Draw the coin with each light. Here is a puzzle. The Sun's light comes from behind us at full Moon. What might that do to the Moon's craters?",
      "kid": "Which light shows the coin's thickness? Draw both.",
@@ -1701,15 +1718,15 @@
      "qty": 1
     },
     {
-     "item": "a sheet of paper with a big circle drawn on it, for the Earth's path round the Sun",
+     "item": "a big sheet of paper (a newspaper page is fine) with a circle about 30 centimetres wide drawn on it, for the Earth's path round the Sun",
      "qty": 1
     },
     {
-     "item": "2 pencils to be pointers",
+     "item": "2 long pencils to be pointers",
      "qty": 2
     },
     {
-     "item": "a picture or a sticker on a far wall, to be a faraway star",
+     "item": "a ruler or a few books to hold the lamp up so it shines across the table",
      "qty": 1
     }
    ],
@@ -1741,7 +1758,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the lamp at one end of the table. 2. Put the paper circle in the middle. 3. Put the orange on the circle. 4. Put the small ball between the orange and the lamp. 5. Point a pencil from the orange to the faraway star. 6. Ask for a guess.",
+     "do": "1. Put the lamp at one end of the table. 2. Put the paper circle in the middle. 3. Put the orange on the circle, on the side nearest the lamp. 4. Put the small ball between the orange and the lamp. 5. Lay pencil A on the table, pointing from the orange across the small ball towards the lamp. 6. Ask for a guess.",
      "say": "This is a new Moon. The Moon is between the Earth and the Sun. The Moon goes once round the Earth. When it is back to the same star, will it be new again? Why do you think so?",
      "kid": "The Moon goes round once. Will it be new again? Why?",
      "ask": [
@@ -1754,14 +1771,14 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most children say yes. The Earth must move along its path, and that is the point of the activity.",
+     "parent": "Do not correct the guess. Most children say yes. The Earth must move along its path, and that is the point of the activity. For 2 to 4 children, one moves the Earth, one moves the Moon, one holds the pencils and one records. Alone, a parent can hold the lamp. The model is small, so it is the idea that matters, not the exact angles.",
      "context": "This is the first step of Catch Up. You guess before you move anything."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Move the orange a short way along its paper circle, about one twelfth of the way round. 2. Take the small ball once round the orange, until a pencil from the orange points at the far star again. 3. Look at where the lamp is now.",
-     "say": "Move the Earth a little along its path. Now take the Moon once round, until it points at the same far star. Where is the lamp now? Is the Moon between the Earth and the lamp?",
+     "do": "1. Move the orange a short way along its paper circle, about one twelfth of the way round. 2. Lay pencil B beside the orange, parallel to pencil A, so it points the same way as before. 3. Take the small ball once round the orange until it lies along pencil B again. 4. Look at where the lamp is now.",
+     "say": "Move the Earth a little along its path. Lay the second pencil parallel to the first. Take the Moon once round, until it lies along the second pencil. Where is the lamp now? Is the Moon between the Earth and the lamp?",
      "kid": "Move the Earth along. Take the Moon round once. Is it new?",
      "ask": [
       {
@@ -1773,7 +1790,7 @@
        ]
       }
      ],
-     "parent": "After one trip round, the Moon points at the same star, but the Earth has moved, so the lamp is in a different direction. The Moon is a little short of the line. This takes about two more days. One twelfth of the way round is the Earth's movement in about a month.",
+     "parent": "After one trip round, the Moon points the same way as before (like the same far star), but the Earth has moved, so the lamp is in a different direction. The Moon is a little short of the line. This takes about two more days. One twelfth of the way round is the Earth's movement in about a month.",
      "check": {
       "t": "mcq",
       "q": "Why is the Moon not new yet after one trip round?",
@@ -1888,7 +1905,7 @@
      "say": "Look up the tide table. For each of fifteen days, write down the highest tide, in metres. Then find out the Moon's phase for each day.",
      "kid": "Find the tide table. Write the highest tide each day. Add the Moon's phase.",
      "adult": true,
-     "parent": "Use a port you can find a table for. Inland families can choose any port. If there is no table to hand, a grown-up can search for the port's name and 'tide table'. The tide range for Indian ports is often 1 to 3 metres, and larger in Gujarat. If you cannot find a table, you can use the made-up practice numbers 1.2, 1.4, 1.7, 2.0, 2.1, 1.9, 1.6, 1.3, 1.2, 1.4, 1.7, 2.0, 2.1, 1.9 and 1.6 metres.",
+     "parent": "Use a port you can find a table for. Inland families can choose any port. If there is no table to hand, a grown-up can search for the port's name and 'tide table'. The tide range for Indian ports is often 1 to 3 metres, and larger in Gujarat. If you cannot find a table, you can use the made-up practice numbers 1.2, 1.4, 1.7, 2.0, 2.1, 1.9, 1.6, 1.3, 1.2, 1.4, 1.7, 2.0, 2.1, 1.9 and 1.6 metres. Choose a start day about 3 days before a new Moon or full Moon, so that 15 days cover two of them. For 2 to 4 children, each child can take a different port and compare charts. If you use the made-up numbers, treat day 3 as the new Moon and day 10 as the full Moon. They are practice numbers, not real tides. If your port has a small tide range, the pattern still shows but the bars differ less.",
      "context": "In this step, you collect fifteen days of tide heights and Moon phases."
     },
     {
@@ -1941,12 +1958,12 @@
    "days": 5,
    "materials": [
     {
-     "item": "binoculars, if you have them, or a phone with a zoom camera",
+     "item": "binoculars, if you can borrow a pair (optional, see the shopping list), or a phone with a zoom camera",
      "qty": 1
     },
     {
      "item": "a drawing notebook and a pencil",
-     "qty": 5
+     "qty": 1
     },
     {
      "item": "a window, balcony or terrace with a clear view of the western sky",
@@ -2014,7 +2031,7 @@
        ]
       }
      ],
-     "parent": "Choose a time 30 to 45 minutes after sunset, and use that same time each evening. If it is cloudy, skip the night, or look at NASA's Moon pictures for the date. Use the naked eye first, then binoculars. If you see a dark oval patch near the edge, that is one of the Moon's dark plains. Do not worry about names.",
+     "parent": "Choose a time 30 to 45 minutes after sunset, and use that same time each evening. If it is cloudy, skip the night, or look at NASA's Moon pictures for the date. Use the naked eye first, then binoculars. If you see a dark oval patch near the edge, that is one of the Moon's dark plains. Do not worry about names. If the western sky is blocked by buildings, begin on evening 2 or 3 instead, when the Moon is higher. Without binoculars you can still see the line and the dark plains, but you cannot see craters; draw those two. If cloud hides a night, it does not matter: use any 5 clear evenings in the first 10 days after new Moon, and write the Moon's age beside each drawing. In the monsoon, you may need to wait for the next month.",
      "context": "This is evening 1 of the Terminator Log. You draw the Moon's first shape."
     },
     {
@@ -2043,7 +2060,7 @@
        ]
       }
      ],
-     "parent": "Brace your elbows on the railing, and hold the binoculars steady. Craters along the line have dark crescent shadows. Beyond the line, you may see tiny bright dots, which are mountain tops catching sunlight before the valleys.",
+     "parent": "Brace your elbows on the railing, and hold the binoculars steady. Craters along the line have dark crescent shadows. Beyond the line, you may see tiny bright dots, which are mountain tops catching sunlight before the valleys. With 2 to 4 children, give each child a notebook and pass the binoculars every minute or so.",
      "check": {
       "t": "mcq",
       "q": "A crater's shadow lies on the side away from the Sun. Where would the Sun be if the shadow points to the left?",
@@ -3257,7 +3274,7 @@
    "id": "b-binoc",
    "item": "A small pair of binoculars, 7 times or 10 times",
    "kind": "tool",
-   "why": "For watching craters along the line between day and night in the Terminator Log. A cheap pair is enough. Many families borrow one.",
+   "why": "Optional. For watching craters along the line between day and night in the Terminator Log. A cheap toy pair costs about Rs 300 to 600, which is more than most home experiments, so borrow one if you can. The project still works with eyes alone for the line and the dark plains.",
    "url": "https://www.amazon.in/s?k=binoculars+10x25",
    "used_in": [
     "p1"
@@ -3272,6 +3289,16 @@
    "used_in": [
     "e1",
     "a1"
+   ]
+  },
+  {
+   "id": "b-bindi",
+   "item": "A packet of round bindis (5 to 8 millimetres wide)",
+   "kind": "material",
+   "why": "For the Bindi Moon. Any round sticker of that size also works. Costs about Rs 10.",
+   "url": "https://www.amazon.in/s?k=round+bindi+small",
+   "used_in": [
+    "e3"
    ]
   }
  ],
