@@ -107,7 +107,7 @@ Inside you and outside you there is water. A cell needs a skin that keeps their 
 ### Almost nothing is completely insoluble · *defined*
 **Definition:** Everything dissolves a very little in water, if you wait long enough. A thing we call insoluble just dissolves so little that we do not notice.
 
-Chalk looks insoluble, but a tiny amount does dissolve. Even glass and rock dissolve a little. Rainwater carries a bit of carbon dioxide from the air, and that makes it able to dissolve limestone rock very slowly. Over hundreds of thousands of years, flowing rainwater can carve out huge caves. Some of the longest caves in Asia are in the limestone hills of Meghalaya. Where the dripping water evaporates, it leaves the dissolved limestone behind as stalactites hanging from the roof. So 'insoluble' is a word for 'dissolves too little for us to see in a short time'. Given enough time, water wears down mountains.
+Chalk looks insoluble, but a tiny amount does dissolve. Even glass and rock dissolve a little. Rainwater carries a bit of carbon dioxide from the air, and that makes it able to dissolve limestone rock very slowly. Over hundreds of thousands of years, flowing rainwater can carve out huge caves. Some of the longest caves in India are in the limestone hills of Meghalaya. Where the dripping water evaporates, it leaves the dissolved limestone behind as stalactites hanging from the roof. So 'insoluble' is a word for 'dissolves too little for us to see in a short time'. Given enough time, water wears down mountains.
 - e.g. Limestone caves in Meghalaya were carved by rainwater dissolving the rock.
 - e.g. Stalactites form as dripping water leaves a little dissolved limestone behind each time.
 - e.g. The white scale inside a kettle is dissolved minerals left behind by evaporating water.
@@ -297,8 +297,8 @@ Karthik laughed. This time Meera did too.
   *Child mode:* Stir each jar for thirty seconds. Count out loud. Look at the colours. Write what you see.
   - Note: Food colour spreads through water straight away. In oil it stays as red beads and sinks. Turmeric and chilli powder look cloudy in the water and sit in the oil as specks at first.
 - **s4 (12 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up stands the three oil jars in a bowl of bath-warm water. 2. Wait ten minutes. 3. Stir each jar once more. 4. Hold each jar against the white paper. Shine the torch from the side.  
-  *Parent says:* Warm oil takes colour faster. We wait ten minutes. Then we hold each jar against the white paper. Is the liquid clear, or can you see bits floating?  
+  *Parent does:* 1. A grown-up stands all six jars in a bowl of bath-warm water, so water and oil are kept equally warm. 2. Wait ten minutes. 3. Stir each jar once more. 4. Hold each jar against the white paper. Shine the torch from the side.  
+  *Parent says:* Warmth helps colour spread faster. We wait ten minutes. Then we hold each jar against the white paper. Is the liquid clear, or can you see bits floating?  
   *Child mode:* Wait ten minutes. Hold each jar against white paper. Is the colour clear, or are there bits?
   - Ask: What is the difference between a colour that has dissolved and a colour that is just floating bits? (good: Dissolved colour is clear all through.; Bits make the water cloudy and they settle.; A torch beam shows up in cloudy water.)
   - Note: Warm oil helps because particles move faster. The oil jars with turmeric and chilli should turn golden or orange-red and look clear, with a little powder lying at the bottom. If your oil colour is faint, wait ten more minutes. In the water jars, turmeric and chilli should look cloudy, with bits that slowly settle, and only a pale colour.
@@ -448,7 +448,7 @@ Karthik laughed. This time Meera did too.
   *Parent does:* 1. Sprinkle a quarter teaspoon of salt along the thread. 2. Count slowly to sixty, or watch the clock for one minute. 3. Lift the thread gently, straight up.  
   *Parent says:* Sprinkle the salt on the thread. Wait one whole minute. Now lift the thread slowly. What happens to the ice cube?  
   *Child mode:* Sprinkle salt on the thread. Wait one minute. Lift gently. What happens?
-  - Note: It works about two times in three. If the ice does not lift, wait another thirty seconds and try again. If it still fails, use a fresh, very cold glass of water and a big cube from the freezer, and press the thread down into the wet spot. On a very hot day, the cube may melt too fast, so work quickly.
+  - Note: It does not work every time. If the ice does not lift, wait another thirty seconds and try again. If it still fails, use a fresh, very cold glass of water and a big cube from the freezer, and press the thread down into the wet spot. On a very hot day, the cube may melt too fast, so work quickly.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to explain what they saw. Then give the explanation.  
   *Parent says:* What did the thread do this time? What do you think the salt did? Where did the cold come from?  
@@ -456,7 +456,7 @@ Karthik laughed. This time Meera did too.
   - Note: A strong answer: the salt melted the ice a little, and that made the water around the thread colder than zero. The salty water was then watered down by the melting ice, and the very cold ice around it froze that water again, with the thread stuck inside.
   - Check: Why did the thread end up frozen into the ice cube? → **The salt made a little ice melt and the mixture colder, then the water froze again round the thread**
 ### a4 · Curd, Water or Oil: what soothes a chilli? (20 min)
-- **safety:** Only a grown-up eats the chilli. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble.
+- **safety:** Only a grown-up eats the chilli. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble or a milk allergy.
 - **record:** Make a table with the rows: after chilli, after water, after curd. Write the heat score from 0 to 5 in each row.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli better and why.  
@@ -535,7 +535,7 @@ Karthik laughed. This time Meera did too.
 - **your turn:** Draw your plan as a chain of steps. Write the reason for each step. Try it, then write down which pile was hardest to get clean and why. Could you change the order of the steps? What would go wrong?
 - **constraints:** Use only things from home.; Do not taste or eat any part of the mix.; A grown-up must do any heating on the stove.; Your plan must be written down before you start.; Every pile must be as pure as you can make it.
 - **general:** Use the magnet to pick out the paper clips first, because only the steel is magnetic.; Pour the mix through the strainer. The rice stays in it, and the rava and salt fall through.; Stir the rava and salt into water. The salt dissolves and the rava does not. Pour it through the cloth to keep the rava.; Pour the salty water onto the plate and let the water evaporate in the sun, or heat it gently, until white salt is left.
-- **creative:** Wrap the magnet in a thin plastic bag, so the clips come off the bag easily when you take the magnet away.; Use warm water for the salt step, so the salt dissolves faster.; Put a damp cloth over a bowl and tip the rava and salt on it with water. The salt water drips through and the rava stays on the cloth.; Test your salt pile with a drop of water, then taste only a tiny bit if the grown-up says it is clean.
+- **creative:** Wrap the magnet in a thin plastic bag, so the clips come off the bag easily when you take the magnet away.; Use warm water for the salt step, so the salt dissolves faster.; Put a damp cloth over a bowl and tip the rava and salt on it with water. The salt water drips through and the rava stays on the cloth.; Test your salt pile by dropping a little of it into clean water. It should dissolve and leave no bits. Do not taste it.
 - **s1 (8 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask your child to write the order of steps and the reason for each. 3. Check that the order uses each property: magnetic, size, dissolving.  
   *Parent says:* Four things are mixed. Each has something different about it. Which one is magnetic? Which one is the biggest? Which one dissolves in water? Plan the order of your steps and say why.  
@@ -802,7 +802,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 - [PhET Sugar and Salt Solutions](https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions) · simulation: A free simulation. Add salt, sugar or other solutes to water, and see how the concentration and the way they split into particles change.
 - [PhET Concentration](https://phet.colorado.edu/en/simulations/concentration) · simulation: A free simulation to see how adding more solute or more water changes the colour and strength of a solution.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for dissolving, density and solutions.
-- [The limestone caves of the Jaintia and Khasi Hills]() · place · Meghalaya: Some of the longest caves in Asia, carved from limestone by rainwater. Visit with a trained local guide.
+- [The limestone caves of the Jaintia and Khasi Hills]() · place · Meghalaya: Some of the longest caves in India, carved from limestone by rainwater. Visit with a trained local guide.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on exhibits about matter and everyday science.
 

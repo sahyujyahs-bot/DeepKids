@@ -211,7 +211,7 @@
    "definition": "When two fields meet, they add at each spot as arrows do. If the arrows point the same way they add up, and if they point against each other they partly cancel.",
    "description": "Place two bar magnets side by side with their north poles together. Both fields point the same way outside the pair, so they add, and the pair reaches further than one magnet. Turn one round, so a north pole sits next to a south pole. Now one magnet's field points one way and the other magnet's field points the other way, so they largely cancel in the space around them. The pair then reaches much less far, even though both magnets are as strong as before. This is why shops and schools store magnets in pairs with unlike poles together, often with a steel bar across the ends. The bar is called a keeper, and it keeps the field inside. It also keeps the magnets from slowly weakening. Never stack strong magnets carelessly, because the pull can pinch fingers.",
    "examples": [
-    "Two magnets with unlike poles together reach much less far than one.",
+    "Two magnets with unlike poles together usually reach less far than one.",
     "A pair of magnets with a steel keeper across the ends will not disturb a nearby compass.",
     "The speaker in a headphone has a magnet whose field can disturb a compass placed near it."
    ],
@@ -377,7 +377,7 @@
   "read_aloud": true,
   "note": "The story is made up. The science in it is real. A magnet in a toy can be led by another magnet through a board. The toy runs away if turned round. A thick sheet of iron under the board can take most of the field away. Two magnets side by side with like poles together reach further, and with unlike poles together they partly cancel. The Chithirai festival in Madurai is real.",
   "text": [
-   "In April, the Chithirai festival filled the streets of Madurai with drums, flower sellers and a crowd as wide as a river. Selvi was ten, and this year she had a plan. Her school library had almost no books. She had a table at the school fair stall, a hand-written sign, and a toy mouse.",
+   "In the month of Chithirai, the festival filled the streets of Madurai with drums, flower sellers and a crowd as wide as a river. Selvi was ten, and this year she had a plan. Her school library had almost no books. She had a table at the school fair stall, a hand-written sign, and a toy mouse.",
    "The sign said: THE MOUSE THAT RUNS BY ITSELF. TWO RUPEES. CAN YOU GUESS HOW?",
    "Her cousin Karthik, who was eight, had come to help. He was in charge of the money tin. He took the job very seriously. \"Nobody can guess,\" he said proudly. \"It is magic.\"",
    "\"It is not magic,\" said Selvi. \"It is a magnet.\"",
@@ -546,7 +546,7 @@
     },
     {
      "kind": "tokens",
-     "title": "8 tokens: three that say Attract, three that say Repel and two that say No force",
+     "title": "9 tokens: three that say Attract, three that say Repel and three that say No force",
      "items": [
       "Attract",
       "Attract",
@@ -554,6 +554,7 @@
       "Repel",
       "Repel",
       "Repel",
+      "No force",
       "No force",
       "No force"
      ]
@@ -572,7 +573,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one of each kind of token.",
+     "do": "Cut out the 24 cards and the 9 tokens. Shuffle the cards and put them in a pile. Give each player one of each kind of token.",
      "say": "Each card tells you about a magnet and something near it. You say whether they attract, repel or do nothing.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take three tokens.",
      "context": "This is the first step of Attract, Repel or Nothing. You set up the cards and the tokens."
@@ -1536,7 +1537,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not take anything apart to get a magnet out. Keep magnets away from phones and watches. Ask a grown-up before borrowing a magnet from a cupboard or a bag.",
+   "safety": "Do not take anything apart to get a magnet out. Small strong magnets can pinch fingers and are dangerous if swallowed, so keep them away from little children and from your mouth. Keep magnets away from phones and watches. Ask a grown-up before borrowing a magnet from a cupboard or a bag.",
    "schedule": [
     {
      "day": 1,
@@ -1639,8 +1640,8 @@
      "qty": 2
     },
     {
-     "item": "some extra sheets of thin card to test thickness",
-     "qty": 4
+     "item": "a pile of at least 20 sheets of thin card or stiff paper, or old magazines, to test thickness",
+     "qty": 20
     },
     {
      "item": "a ruler and a pencil",
@@ -3011,8 +3012,8 @@
    "evidence": "In the Add or Cancel test, two taped magnets with north poles together reached further than one, and the same two turned north to south reached much less. If your results differ, write them down as they are and test again."
   },
   "three": {
-   "who_am_i": "Your heart and your brain make tiny magnetic fields, millions of times weaker than a fridge magnet's. Doctors can measure them with very sensitive detectors to see how a heart or a brain is working.",
-   "what_is_life": "Some bacteria make a chain of tiny magnets inside their bodies and line up with the Earth's field. They use it to swim down towards the mud where they live.",
+   "who_am_i": "Your heart and your brain make tiny magnetic fields, many millions of times weaker than a fridge magnet's. Doctors can measure them with very sensitive detectors to see how a heart or a brain is working.",
+   "what_is_life": "Some bacteria make a chain of tiny magnets inside their bodies and line up with the Earth's field. Scientists think this helps them find the muddy water where they live.",
    "what_is_this_world": "The Earth, the Sun and many stars have magnetic fields that reach far into space. The space between a magnet and a clip is not empty of force, and neither is the space between planets."
   },
   "thread": "At the start, the magnet looked like a lump of steel, and the clip looked far away. The compass showed that the magnet is more than the lump. It has a field that reaches out and shapes the space around it. A clip, a compass or another magnet that enters the field is changed by it. Fields add and cancel, so one magnet changes what its neighbour does. Nothing in the space stands alone.",

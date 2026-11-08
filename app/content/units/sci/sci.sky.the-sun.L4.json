@@ -43,7 +43,7 @@
   {
    "term": "Convection zone",
    "meaning": "The outer layer inside the Sun, where hot gas boils upwards in huge loops.",
-   "example": "The Sun's convection zone is about a quarter of the way down from the surface.",
+   "example": "The Sun's convection zone is the outer third of the Sun, from the surface down.",
    "art": "A cut-open Sun with arrows looping in the outer layer."
   },
   {
@@ -220,7 +220,7 @@
    "concept": "Flares and giant eruptions",
    "status": "defined",
    "definition": "A solar flare is a sudden flash of light and energy. A coronal mass ejection is a huge cloud of plasma thrown out from the corona. They are two different things, and they often happen together.",
-   "description": "Near a sunspot group, magnetic field lines can snap and join up in a new way, like a stretched rubber band that breaks. The energy that was stored in the field is let out in minutes. That is a flare. It gives out a flash of light and X-rays that reaches the Earth in about 8 minutes. A coronal mass ejection can throw out a billion tonnes of plasma, a cloud wider than the Sun itself. It takes about a day to a few days to cross space. On 1 September 1859, an English amateur astronomer called Richard Carrington was drawing sunspots when he saw a patch of bright white light flash up on the Sun. That evening and the next, the sky glowed with aurora as far from the poles as the tropics, and telegraph lines failed in many places. It is called the Carrington Event, and it was the first time anyone linked an eruption on the Sun with an effect on the Earth.",
+   "description": "Near a sunspot group, magnetic field lines can snap and join up in a new way, like a stretched rubber band that breaks. The energy that was stored in the field is let out in minutes. That is a flare. It gives out a flash of light and X-rays that reaches the Earth in about 8 minutes. A coronal mass ejection can throw out a billion tonnes of plasma, a cloud wider than the Sun itself. It takes about a day to a few days to cross space. On 1 September 1859, an English amateur astronomer called Richard Carrington was drawing sunspots when he saw a patch of bright white light flash up on the Sun. Within about a day, the sky glowed with aurora as far from the poles as the tropics, and telegraph lines failed in many places. It is called the Carrington Event, and it was the first time anyone linked an eruption on the Sun with an effect on the Earth.",
    "examples": [
     "The strongest flares are given letters. An X-class flare is the biggest kind.",
     "Flares can switch off radio signals on the sunlit side of the Earth for a short time."
@@ -324,7 +324,7 @@
   },
   {
    "text": "The number of sunspots rises and falls in a cycle of about 11 years.",
-   "evidence": "Daily drawings and photographs of the Sun, such as the long series kept at Kodaikanal, show the same rhythm for more than 150 years."
+   "evidence": "Daily drawings and photographs of the Sun, such as the long series kept at Kodaikanal, show the same rhythm for more than 100 years."
   },
   {
    "text": "The Sun gives out a solar wind that blows past the Earth.",
@@ -637,7 +637,7 @@
        "b": "The core."
       },
       {
-       "f": "This layer is about a quarter of the way down from the surface, and it boils.",
+       "f": "This layer is in the outer third of the Sun, just below the surface, and it boils.",
        "b": "The convection zone."
       },
       {
@@ -884,7 +884,7 @@
       },
       {
        "f": "A pigeon is released far from home during a space storm and gets lost. What might be the reason?",
-       "b": "Some scientists think the pigeon uses the Earth's magnetic field, and a storm may confuse it. This is still being studied."
+       "b": "Some scientists think pigeons use the Earth's magnetic field, and a storm may confuse them. This is still being studied."
       },
       {
        "f": "Which comes first, the flash of a flare or the cloud from the same eruption?",
@@ -1049,7 +1049,7 @@
      "qty": 1
     }
    ],
-   "safety": "Milk is food. The cloudy water in the jar is not for drinking, so tip it away and wash the jar afterwards. Keep a phone or any electric thing away from the jar, and use a small torch, not a phone. Wipe any spills straight away so nobody slips.",
+   "safety": "Milk is food. If anyone handling the jar has a milk allergy, do not use milk; ask a grown-up to swap in a few drops of a safe white liquid they know is fine. The cloudy water in the jar is not for drinking, so tip it away and wash the jar afterwards. Keep a phone or any electric thing away from the jar, and use a small torch, not a phone. Wipe any spills straight away so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -1254,7 +1254,7 @@
      "qty": 1
     },
     {
-     "item": "a stool or step so your child can look from the side, at arm's length from the pan",
+     "item": "a low table or counter at a height your child can see over while standing on the floor, at arm's length from the pan",
      "qty": 1
     }
    ],
@@ -1274,7 +1274,7 @@
      "caption": "1. A grown-up puts the pan on a low flame. Sprinkle pepper evenly on the water."
     },
     {
-     "art": "A child on a stool, an arm's length from the pan, watching specks and holding a timer.",
+     "art": "A child standing on the floor, an arm's length from the pan, watching specks and holding a timer.",
      "caption": "2. Watch from above, at arm's length. Pick a speck and follow it."
     },
     {
@@ -1413,7 +1413,7 @@
      "qty": 1
     },
     {
-     "item": "a small candle with a safe holder, lit only by a grown-up",
+     "item": "a small candle with a safe holder, standing on a steel plate, lit only by a grown-up",
      "qty": 1
     },
     {
@@ -1671,7 +1671,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pushes the pencil or skewer through the orange. Do not look at the real Sun. Use a lamp or room light.",
+   "safety": "A grown-up pushes the pencil or skewer through the orange. Prefer a pencil; if you use a skewer, push its sharp end into a lump of clay so nobody is poked. Do not look at the real Sun. Use a lamp or room light.",
    "schedule": [
     {
      "day": 1,
@@ -2086,7 +2086,8 @@
     "Use only things from home: card, a pencil, clay, a book and a protractor.",
     "Never look at the Sun. Use the shadow of the pencil to aim.",
     "Test between 11 in the morning and 1 in the afternoon, in direct sun.",
-    "Write down the tilt you find and the date."
+    "Write down the tilt you find and the date.",
+    "On a balcony or terrace, keep an adult with you and stay away from the edge. If you use a skewer, push its sharp end into the clay."
    ],
    "materials": [
     "a sheet of stiff card about 15 cm by 20 cm",

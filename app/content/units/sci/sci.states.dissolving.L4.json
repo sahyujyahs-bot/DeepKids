@@ -265,7 +265,7 @@
    "concept": "Almost nothing is completely insoluble",
    "status": "defined",
    "definition": "Everything dissolves a very little in water, if you wait long enough. A thing we call insoluble just dissolves so little that we do not notice.",
-   "description": "Chalk looks insoluble, but a tiny amount does dissolve. Even glass and rock dissolve a little. Rainwater carries a bit of carbon dioxide from the air, and that makes it able to dissolve limestone rock very slowly. Over hundreds of thousands of years, flowing rainwater can carve out huge caves. Some of the longest caves in Asia are in the limestone hills of Meghalaya. Where the dripping water evaporates, it leaves the dissolved limestone behind as stalactites hanging from the roof. So 'insoluble' is a word for 'dissolves too little for us to see in a short time'. Given enough time, water wears down mountains.",
+   "description": "Chalk looks insoluble, but a tiny amount does dissolve. Even glass and rock dissolve a little. Rainwater carries a bit of carbon dioxide from the air, and that makes it able to dissolve limestone rock very slowly. Over hundreds of thousands of years, flowing rainwater can carve out huge caves. Some of the longest caves in India are in the limestone hills of Meghalaya. Where the dripping water evaporates, it leaves the dissolved limestone behind as stalactites hanging from the roof. So 'insoluble' is a word for 'dissolves too little for us to see in a short time'. Given enough time, water wears down mountains.",
    "examples": [
     "Limestone caves in Meghalaya were carved by rainwater dissolving the rock.",
     "Stalactites form as dripping water leaves a little dissolved limestone behind each time.",
@@ -828,7 +828,7 @@
      "qty": 1
     },
     {
-     "item": "a bowl of bath-warm water, made by a grown-up, that the oil jars can stand in",
+     "item": "a bowl of bath-warm water, made by a grown-up, that all six jars can stand in",
      "qty": 1
     }
    ],
@@ -938,8 +938,8 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "1. A grown-up stands the three oil jars in a bowl of bath-warm water. 2. Wait ten minutes. 3. Stir each jar once more. 4. Hold each jar against the white paper. Shine the torch from the side.",
-     "say": "Warm oil takes colour faster. We wait ten minutes. Then we hold each jar against the white paper. Is the liquid clear, or can you see bits floating?",
+     "do": "1. A grown-up stands all six jars in a bowl of bath-warm water, so water and oil are kept equally warm. 2. Wait ten minutes. 3. Stir each jar once more. 4. Hold each jar against the white paper. Shine the torch from the side.",
+     "say": "Warmth helps colour spread faster. We wait ten minutes. Then we hold each jar against the white paper. Is the liquid clear, or can you see bits floating?",
      "kid": "Wait ten minutes. Hold each jar against white paper. Is the colour clear, or are there bits?",
      "adult": true,
      "ask": [
@@ -1602,7 +1602,7 @@
      "do": "1. Sprinkle a quarter teaspoon of salt along the thread. 2. Count slowly to sixty, or watch the clock for one minute. 3. Lift the thread gently, straight up.",
      "say": "Sprinkle the salt on the thread. Wait one whole minute. Now lift the thread slowly. What happens to the ice cube?",
      "kid": "Sprinkle salt on the thread. Wait one minute. Lift gently. What happens?",
-     "parent": "It works about two times in three. If the ice does not lift, wait another thirty seconds and try again. If it still fails, use a fresh, very cold glass of water and a big cube from the freezer, and press the thread down into the wet spot. On a very hot day, the cube may melt too fast, so work quickly.",
+     "parent": "It does not work every time. If the ice does not lift, wait another thirty seconds and try again. If it still fails, use a fresh, very cold glass of water and a big cube from the freezer, and press the thread down into the wet spot. On a very hot day, the cube may melt too fast, so work quickly.",
      "context": "In this step you add salt to the thread and try to lift the ice."
     },
     {
@@ -1651,7 +1651,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up eats the chilli. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble.",
+   "safety": "Only a grown-up eats the chilli. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble or a milk allergy.",
    "schedule": [
     {
      "day": 1,
@@ -2001,7 +2001,7 @@
     "Wrap the magnet in a thin plastic bag, so the clips come off the bag easily when you take the magnet away.",
     "Use warm water for the salt step, so the salt dissolves faster.",
     "Put a damp cloth over a bowl and tip the rava and salt on it with water. The salt water drips through and the rava stays on the cloth.",
-    "Test your salt pile with a drop of water, then taste only a tiny bit if the grown-up says it is clean."
+    "Test your salt pile by dropping a little of it into clean water. It should dissolve and leave no bits. Do not taste it."
    ],
    "your_turn": "Draw your plan as a chain of steps. Write the reason for each step. Try it, then write down which pile was hardest to get clean and why. Could you change the order of the steps? What would go wrong?",
    "setup": [
@@ -3137,7 +3137,7 @@
    "url": "",
    "kind": "place",
    "where": "Meghalaya",
-   "why": "Some of the longest caves in Asia, carved from limestone by rainwater. Visit with a trained local guide."
+   "why": "Some of the longest caves in India, carved from limestone by rainwater. Visit with a trained local guide."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",

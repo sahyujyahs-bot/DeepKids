@@ -199,8 +199,8 @@
    "definition": "A pendulum loses a little energy on every swing to the air and to the pivot. Each swing gets smaller, but the beat stays almost the same. A clock gives the pendulum a tiny push each swing to replace what it loses.",
    "description": "The air pushes back on the bob as it moves, and the pivot rubs a little. The energy these take turns into a tiny amount of warmth. So each swing is a little smaller, and after some minutes the pendulum stops. A small, heavy bob on a thin thread keeps going longest, because it pushes little air out of the way. The beat does not change as the swing shrinks, which is why clocks work. An old clock has an escapement, which lets a wheel move on one tooth each swing and gives the pendulum a small push. The weight or spring that powers the clock pays for these pushes. In 1656 Christiaan Huygens built the first clock that used a pendulum this way, and it kept far better time than clocks before it.",
    "examples": [
-    "A coin bag in a quiet room swings for several minutes, but with a postcard taped on it stops in under a minute.",
-    "An old wall clock needs winding once a week to keep its pendulum going.",
+    "A coin bag in a quiet room swings for a long time, but with a postcard taped on it stops much sooner.",
+    "An old wall clock needs winding every day or every week, depending on the clock, to keep its pendulum going.",
     "A pendulum swung in water stops after a few swings, because water pushes back far harder than air."
    ],
    "perspectives": [],
@@ -215,7 +215,7 @@
    "examples": [
     "A child on a park swing standing up at the bottom and crouching at the top.",
     "A trapeze artist leaning at the right moments of each swing.",
-    "A priest swinging a large incense burner on long ropes in some cathedrals pulls the rope in time with the swing to make it go very high."
+    "In the cathedral of Santiago de Compostela in Spain, a team of men pull the rope of a huge incense burner in time with its swing, to make it fly very high."
    ],
    "perspectives": [],
    "art": "Three pictures of a child on a swing: crouching at the highest point, standing at the lowest point, and crouching again at the other end."
@@ -257,7 +257,7 @@
    "examples": [
     "A time of 1.3 seconds for one swing can be wrong by 0.3 seconds. A time of 30.4 seconds for 30 swings is only wrong by about 1 percent.",
     "Divers, athletes and bakers repeat their timing for the same reason.",
-    "Scientists at the National Physical Laboratory in London time many swings to make the second as exact as possible."
+    "Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake."
    ],
    "perspectives": [],
    "art": "Two stopwatch faces, one showing a short time with a big red uncertainty bar and one showing a long time with a tiny red bar."
@@ -619,7 +619,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Play the last ten cards. Pay attention to the cards where neither or both are present. Talk about why those cards are different.",
+     "do": "Play the last eleven cards. Pay attention to the cards where neither or both are present. Talk about why those cards are different.",
      "say": "Some cards have no single answer. For these, say what is happening to the energy. Is it swapping, adding, or being lost?",
      "kid": "Some cards have no single token. Say what is happening to the energy.",
      "ask": [
@@ -704,7 +704,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep your face and feet away from the swing path. Let go gently without pushing. The pencil peg must not poke out far enough to catch anyone's arm.",
+   "safety": "Keep your face and feet away from the swing path. Let go gently without pushing. The pencil peg must not poke out far enough to catch anyone's arm. Tape the pencil on with its sharp tip pointing at the box, never at a face.",
    "schedule": [
     {
      "day": 1,
@@ -1582,7 +1582,7 @@
        "Water makes the thread shorter"
       ],
       "a": 0,
-      "why": "Water is about 800 times thicker than air, so it pushes back much harder on a moving bag, and takes its energy away quickly. If you chose the bag getting heavier, remember that in the Swing Test the weight changed the time very little."
+      "why": "Water is about 800 times denser than air, so it pushes back much harder on a moving bag, and takes its energy away quickly. If you chose the bag getting heavier, remember that the weight of a bob changes the beat of a swing very little."
      },
      "context": "In this step, you swing the bag through water and count."
     }
@@ -1636,6 +1636,7 @@
      "qty": 1
     }
    ],
+   "safety": "A grown-up should hang the thread from the door frame or shelf, and no child should climb on a chair to do it. Keep faces and feet out of the swing path.",
    "schedule": [
     {
      "day": 1,
@@ -2209,7 +2210,7 @@
      "t": "odd",
      "p": "Three of these are about a swing trading height for speed. Which one is about something else?",
      "a": 2,
-     "why": "A roller coaster dropping, a ball in a bowl and a pendulum all trade height for speed. A balance scale balances weights, and does not trade height for speed.",
+     "why": "A roller coaster dropping, a ball in a bowl and a pendulum all trade height for speed. A kitchen scale weighs rice, and does not trade height for speed.",
      "opts": [
       "A ball rolling down a slide",
       "A roller coaster dropping from its first hill",

@@ -484,7 +484,7 @@
   },
   "three": {
    "who_am_i": "What you can see about something depends on where you stand and where the light comes from. Your place is part of every view you have.",
-   "what_is_life": "Many animals use the Moon to time their lives, and many use shadows to find food. A hunter in dim light finds prey by the shape of its shadow.",
+   "what_is_life": "Many animals use the Moon to time their lives, and many use shadows to find food. A hunter in dim light may find prey by the shape of a shadow.",
    "what_is_this_world": "The Moon is a ball of grey rock with mountains and craters, and always half lit. How rough it seems changes with the angle of the Sun."
   },
   "thread": "The Sun, the Earth and the Moon make a system that is always changing. From the same Moon, a full Moon night gives a flat disc, and a half Moon night gives a landscape. The Moon has not changed. Only the angle of the light has. A bright place and a dark place are not opposites here, because the shadow and the light work together to make shape. A thing is known by its light and by its shadow together.",
@@ -564,7 +564,7 @@
      "title": "24 two-sided cards: a Moon age on the front and the answer on the back",
      "items": [
       {
-       "f": "The Moon is 1 days old.",
+       "f": "The Moon is 1 day old.",
        "b": "It looks like a very thin growing crescent, hard to see. Seen from India, it is lit on the right. It sets less than an hour after sunset, so look in the western or southern sky in the evening."
       },
       {
@@ -1032,7 +1032,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use an LED torch, which stays cool, and not a bare bulb. Do not eat the dough. Wash your hands afterwards. Do not shine the torch into anyone's eyes.",
+   "safety": "Use an LED torch, which stays cool, and not a bare bulb. Atta dough contains wheat, so if anyone at home has a wheat allergy or gluten problem, use clay or play dough instead and keep it away from their hands and mouth. Do not eat the dough. Keep the marble away from little brothers and sisters. Wash your hands afterwards. Do not shine the torch into anyone's eyes.",
    "schedule": [
     {
      "day": 1,

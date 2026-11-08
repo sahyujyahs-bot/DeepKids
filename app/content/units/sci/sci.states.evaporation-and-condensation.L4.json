@@ -302,7 +302,7 @@
  "agreed": [
   {
    "text": "Evaporation takes heat from the liquid left behind, and condensation gives heat out.",
-   "evidence": "A drop of sanitiser on your skin feels cold, and the back of a running fridge is warm. William Cullen cooled water to ice in the 1700s by letting a liquid evaporate fast."
+   "evidence": "A drop of sanitiser on your skin feels cold, and the back of a running fridge is warm. William Cullen made a little ice in the 1700s by letting a liquid evaporate fast."
   },
   {
    "text": "Different liquids evaporate at different speeds, because their particles hold each other with different strengths.",
@@ -426,9 +426,9 @@
   }
  ],
  "how_we_found_out": {
-  "story": "A wet cloth feels cold, and a clay pot of water stays cool. People knew this for ages. But why? Many thought that cold was something that flowed in from cold air or from a cold thing nearby. Around 1748, William Cullen, a Scottish doctor who taught at the University of Glasgow, tried a test. He put a dish of ether, a liquid that evaporates very fast, in a jar, and a pump took the air out. With the air gone, the ether boiled away quickly, and the dish and the water around it got so cold that the water froze. No cold air and no cold thing had been brought near. The cold came from the liquid leaving. In the 1800s, inventors used this idea to build the first machines that make ice. Every fridge today works by letting a liquid evaporate.",
+  "story": "A wet cloth feels cold, and a clay pot of water stays cool. People knew this for ages. But why? Many thought that cold was something that flowed in from cold air or from a cold thing nearby. Around 1748 (some accounts say 1756), William Cullen, a Scottish doctor who taught at the University of Glasgow, tried a test. He put a dish of ether, a liquid that evaporates very fast, in a jar, and a pump took the air out. With the air gone, the ether boiled away quickly, and the dish and the water around it got so cold that a little of the water froze. No cold air and no cold thing had been brought near. The cold came from the liquid leaving. In the 1800s, inventors used this idea to build the first machines that make ice. Every fridge today works by letting a liquid evaporate.",
   "who": "William Cullen, a Scottish doctor and teacher at the University of Glasgow",
-  "when": "About 1748",
+  "when": "About 1748 (some accounts say 1756)",
   "wrong_idea": "People thought that cold was something that flowed in from cold air or cold things. Cullen showed that a liquid can make its own cold, just by evaporating, even when almost all the air has been pumped out."
  },
  "story": {
@@ -1012,8 +1012,8 @@
    ],
    "materials": [
     {
-     "item": "six small saucers or small steel katoris",
-     "qty": 6
+     "item": "seven small saucers or small steel katoris (six for the test, one for the control jar)",
+     "qty": 7
     },
     {
      "item": "one level teaspoon each of table salt, white sugar, jaggery powder, dry uncooked rice and baking soda",
@@ -1029,7 +1029,7 @@
      "qty": 1
     },
     {
-     "item": "a small bowl, and half a cup of very hot water poured by a grown-up",
+     "item": "a small heat-proof bowl (steel is best), and half a cup of very hot water poured by a grown-up",
      "qty": 1
     },
     {
@@ -1204,7 +1204,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does all the cooking. Steam and the lid can burn badly. Lift the lid away from your face with oven gloves or tongs. The child stays back and does the measuring once the pans have cooled for fifteen minutes.",
+   "safety": "A grown-up does all the cooking. Steam and the lid can burn badly. Lift the lid away from your face with oven gloves or tongs. The child stays back. A grown-up pours the water into the jug only once the pan is cool enough to touch with a bare hand, which may take longer than fifteen minutes, and then the child reads the measuring.",
    "schedule": [
     {
      "day": 1,
@@ -1319,7 +1319,7 @@
     {
      "id": "s5",
      "mins": 13,
-     "do": "1. Wait fifteen minutes for the pans to cool. 2. Pour the water from the open pan into the jug. 3. Read the level at eye height and write it. 4. Do the same with the covered pan. 5. Work out how much each lost.",
+     "do": "1. Wait at least fifteen minutes, until a grown-up finds the pans cool enough to touch with a bare hand. 2. A grown-up pours the water from the open pan into the jug. 3. Read the level at eye height and write it. 4. Do the same with the covered pan. 5. Work out how much each lost.",
      "say": "Pour each pan into the jug and read the level at eye height. How much is left in each? Take it away from 500. How much was lost?",
      "kid": "Wait until the pans are cool. Pour each into the jug. Read the level. Work out the loss.",
      "parent": "Expect the open pan to lose noticeably more, perhaps 50 to 150 millilitres, and the covered pan only a few millilitres. Your numbers depend on your flame and pan, so write exactly what you measure.",
@@ -1464,7 +1464,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pulls the fridge out gently or checks that the back is safe to reach. Do not touch the coils or any fan. Hold the back of your hand a few centimetres away from the surface, not on it. Do not climb to reach an outdoor air conditioner.",
+   "safety": "A grown-up checks that the back is safe to reach. Do not pull a heavy fridge away from the wall. Do not touch the coils or any fan. Hold the back of your hand a few centimetres away from the surface, not on it. Do not climb to reach an outdoor air conditioner.",
    "schedule": [
     {
      "day": 1,
@@ -1744,7 +1744,7 @@
      "qty": 1
     }
    ],
-   "safety": "Camphor is poisonous if swallowed. A grown-up puts the tablets out of reach of little children. Do not burn camphor indoors without a grown-up. Wash your hands after touching it.",
+   "safety": "Camphor is poisonous if swallowed, and it catches fire easily. A grown-up puts the tablets out of reach of little children and keeps them away from flames. Do not sniff the tablets or the open jar closely, and keep them away from anyone with asthma. Do not burn camphor indoors without a grown-up. Wash your hands after touching it.",
    "schedule": [
     {
      "day": 1,
@@ -3043,7 +3043,7 @@
   },
   {
    "problem": "Water boils about 1 degree lower for every 300 metres you climb. Ooty is about 2,200 metres above sea level. About how many degrees lower does water boil at Ooty than at sea level? What temperature is that?",
-   "answer": "About 7 degrees lower, so about 93 degrees.",
+   "answer": "About 7 degrees lower, so about 93 degrees (about 92 or 93 is the usual figure for Ooty).",
    "explain": "2,200 divided by 300 is a little over 7. 100 take away 7 is 93.",
    "math_unit": "math.division.division-facts.L4",
    "context": "This is about how boiling depends on height.",
