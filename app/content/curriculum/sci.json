@@ -2156,7 +2156,8 @@
     "sci.energy.sources-and-saving.L4",
     "sci.energy.engines-and-fridges.L4",
     "sci.energy.heat-moves.L4",
-    "sci.energy.stored-energy.L4"
+    "sci.energy.stored-energy.L4",
+    "sci.energy.heat.L4"
    ],
    "chapters": [
     "C4-2.1",
@@ -2177,7 +2178,8 @@
    ],
    "subtopic_levels": [
     "sci.environment.caring.L4",
-    "sci.environment.pollution.L4"
+    "sci.environment.pollution.L4",
+    "sci.environment.conservation.L4"
    ],
    "chapters": [
     "N4-1"
@@ -2216,7 +2218,8 @@
    "subtopic_levels": [
     "sci.food.where-food-comes-from.L4",
     "sci.food.nutrients.L4",
-    "sci.food.balanced-diet.L4"
+    "sci.food.balanced-diet.L4",
+    "sci.food.food-safety.L4"
    ],
    "chapters": [
     "N4-6",
@@ -2243,7 +2246,9 @@
     "sci.forces.four-forces.L4",
     "sci.forces.fields.L4",
     "sci.forces.friction.L4",
-    "sci.forces.flight.L4"
+    "sci.forces.flight.L4",
+    "sci.forces.measuring-forces.L4",
+    "sci.forces.stretching-springs.L4"
    ],
    "chapters": [
     "N4-7"
@@ -2293,7 +2298,8 @@
    ],
    "subtopic_levels": [
     "sci.gravity.orbits.L4",
-    "sci.gravity.falling.L4"
+    "sci.gravity.falling.L4",
+    "sci.gravity.weight-and-mass.L4"
    ],
    "chapters": []
   },
@@ -11322,7 +11328,7 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
-    "sci.food.food-safety.L5"
+    "sci.food.food-safety.L4"
    ],
    "go_wide": [
     "sci.food.where-food-comes-from.L3",
@@ -11336,6 +11342,39 @@
    "chapter_refs": [
     "NIOS Level A Lesson 8 Food"
    ]
+  },
+  {
+   "id": "sci.food.food-safety.L4",
+   "subject": "sci",
+   "topic": "food",
+   "topic_name": "Food and nutrition",
+   "strand": "Body and health",
+   "topic_level": "sci.food.L4",
+   "subtopic": "food-safety",
+   "name": "Keeping food safe",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Food safety: why food that looks and smells fine can still make you ill.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.food.food-safety.L3"
+   ],
+   "go_deep": [
+    "sci.food.food-safety.L5"
+   ],
+   "go_wide": [
+    "sci.food.where-food-comes-from.L3",
+    "sci.food.nutrients.L3",
+    "sci.food.balanced-diet.L3",
+    "sci.microorganisms.helpful-microbes.L4"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.food.food-safety.L5",
@@ -11357,7 +11396,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.food.food-safety.L3"
+    "sci.food.food-safety.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -15679,6 +15718,7 @@
     "sci.forces.push-and-pull.L3"
    ],
    "go_deep": [
+    "sci.forces.measuring-forces.L4",
     "sci.gravity.weight-and-mass.L3"
    ],
    "go_wide": [
@@ -15709,6 +15749,52 @@
     "Cambridge Stage 3 6.3 How big is that force?",
     "Cambridge Stage 3 6.4 Forcemeters"
    ]
+  },
+  {
+   "id": "sci.forces.measuring-forces.L4",
+   "subject": "sci",
+   "topic": "forces",
+   "topic_name": "Forces and movement",
+   "strand": "Physics",
+   "topic_level": "sci.forces.L4",
+   "subtopic": "measuring-forces",
+   "name": "How big is a force? Forcemeters",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Measuring forces with care: arrows, sagging lines and how sure a number can be.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.forces.measuring-forces.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.forces.push-and-pull.L3",
+    "sci.forces.changing-motion.L3",
+    "sci.forces.friction.L3",
+    "sci.forces.simple-machines.L3",
+    "sci.forces.stretching-springs.L3",
+    "sci.forces.flight.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.measurement-basics.reading-scales.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    },
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.forces.friction.L3",
@@ -16449,6 +16535,54 @@
     "sci.forces.changing-motion.L3"
    ],
    "go_deep": [
+    "sci.forces.stretching-springs.L4"
+   ],
+   "go_wide": [
+    "sci.forces.push-and-pull.L3",
+    "sci.forces.changing-motion.L3",
+    "sci.forces.measuring-forces.L3",
+    "sci.forces.friction.L3",
+    "sci.forces.simple-machines.L3",
+    "sci.forces.flight.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.line-graphs.L4",
+     "chapters": []
+    },
+    {
+     "id": "math.measurement-basics.reading-scales.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:103"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.forces.stretching-springs.L4",
+   "subject": "sci",
+   "topic": "forces",
+   "topic_name": "Forces and movement",
+   "strand": "Physics",
+   "topic_level": "sci.forces.L4",
+   "subtopic": "stretching-springs",
+   "name": "Stretching and springs",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Springs that keep time: stiffness, bouncing and the favourite beat.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.forces.stretching-springs.L3"
+   ],
+   "go_deep": [
     "sci.forces.stretching-springs.L5"
    ],
    "go_wide": [
@@ -16494,8 +16628,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.forces.stretching-springs.L3",
-    "sci.forces.changing-motion.L3"
+    "sci.forces.stretching-springs.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -17021,8 +17154,54 @@
     "sci.forces.measuring-forces.L3"
    ],
    "go_deep": [
-    "sci.gravity.weight-and-mass.L5",
+    "sci.gravity.weight-and-mass.L4",
     "sci.gravity.orbits.L4"
+   ],
+   "go_wide": [
+    "sci.gravity.falling.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.weight-capacity.weight.L3",
+     "chapters": [
+      "N3-11",
+      "C3-Gg"
+     ]
+    },
+    {
+     "id": "math.multiplication.multi-digit.L4",
+     "chapters": [
+      "C4-Ni"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:102"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.gravity.weight-and-mass.L4",
+   "subject": "sci",
+   "topic": "gravity",
+   "topic_name": "Gravity",
+   "strand": "Physics",
+   "topic_level": "sci.gravity.L4",
+   "subtopic": "weight-and-mass",
+   "name": "Weight and mass",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Weight and mass: why a balance works on the Moon and a spring scale does not.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.gravity.weight-and-mass.L3"
+   ],
+   "go_deep": [
+    "sci.gravity.weight-and-mass.L5"
    ],
    "go_wide": [
     "sci.gravity.falling.L3"
@@ -17067,9 +17246,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.gravity.weight-and-mass.L3",
-    "sci.gravity.falling.L3",
-    "sci.forces.measuring-forces.L3"
+    "sci.gravity.weight-and-mass.L4"
    ],
    "go_deep": [
     "sci.gravity.orbits.L5"
@@ -18420,6 +18597,54 @@
     "sci.energy.heat.L2"
    ],
    "go_deep": [
+    "sci.energy.heat.L4"
+   ],
+   "go_wide": [
+    "sci.energy.energy-around-us.L3",
+    "sci.energy.stored-energy.L3",
+    "sci.energy.heat-moves.L3",
+    "sci.states.melting-and-solidifying.L4"
+   ],
+   "maths": [
+    {
+     "id": "math.temperature.reading-thermometers.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    },
+    {
+     "id": "math.data.line-graphs.L4",
+     "chapters": []
+    }
+   ],
+   "notebook": [
+    "phy:199",
+    "phy:201",
+    "phy:202"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.energy.heat.L4",
+   "subject": "sci",
+   "topic": "energy",
+   "topic_name": "Energy",
+   "strand": "Physics",
+   "topic_level": "sci.energy.L4",
+   "subtopic": "heat",
+   "name": "Heat and temperature",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Heat and temperature: why the same heat warms oil faster than water.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.energy.heat.L3"
+   ],
+   "go_deep": [
     "sci.energy.heat.L5"
    ],
    "go_wide": [
@@ -18465,7 +18690,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.energy.heat.L3"
+    "sci.energy.heat.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -25386,7 +25611,7 @@
     "sci.environment.caring.L3"
    ],
    "go_deep": [
-    "sci.environment.conservation.L5"
+    "sci.environment.conservation.L4"
    ],
    "go_wide": [
     "sci.environment.caring.L3",
@@ -25400,6 +25625,39 @@
    "chapter_refs": [
     "NIOS Level A Lesson 5 Conservation of Environment"
    ]
+  },
+  {
+   "id": "sci.environment.conservation.L4",
+   "subject": "sci",
+   "topic": "environment",
+   "topic_name": "Caring for the environment",
+   "strand": "Earth and space",
+   "topic_level": "sci.environment.L4",
+   "subtopic": "conservation",
+   "name": "Conservation of the environment",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Taking without emptying: how much can we take and still leave enough?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.environment.conservation.L3"
+   ],
+   "go_deep": [
+    "sci.environment.conservation.L5"
+   ],
+   "go_wide": [
+    "sci.environment.caring.L3",
+    "sci.environment.pollution.L3",
+    "sci.ecology.biodiversity.L4",
+    "sci.energy.sources-and-saving.L4"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.environment.conservation.L5",
@@ -25421,8 +25679,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.environment.conservation.L3",
-    "sci.environment.caring.L4"
+    "sci.environment.conservation.L4"
    ],
    "go_deep": [],
    "go_wide": [
