@@ -198,12 +198,12 @@
    "concept": "Sea, sand and sky: why places warm differently",
    "status": "defined",
    "definition": "Land warms and cools faster than the sea. This is because water needs more heat for each degree, and because sunlight and waves spread heat through deep water.",
-   "description": "In the sun, dry sand needs only about a fifth of the heat that water needs for each degree. Sunlight stays at the sand surface, so the top layer gets very hot. In the sea, sunlight goes down several metres, and waves and currents mix the heat through a deep layer. So the sea warms slowly by day and cools slowly by night. Places by the sea, such as Chennai, Kochi and Mumbai, usually have only 8 to 10 degrees between their day and night. In a desert, such as Jaisalmer, the day and night can differ by 15 degrees or more. The difference in warming between land and sea also helps to drive the monsoon winds.",
+   "description": "In the sun, dry sand needs only about a fifth of the heat that water needs for each degree. Sunlight stays at the sand surface, so the top layer gets very hot. In the sea, sunlight goes down several metres, and waves and currents mix the heat through a deep layer. So the sea warms slowly by day and cools slowly by night. Places by the sea, such as Chennai, Kochi and Mumbai, usually have only about 7 to 10 degrees between their day and night. In a desert, such as Jaisalmer, the day and night can differ by 15 degrees or more. The difference in warming between land and sea also helps to drive the monsoon winds.",
    "examples": [
     "The sand at Marina beach in Chennai burns your feet at noon, while the sea beside it feels cool.",
     "Desert nights are cold because dry sand and thin dry air hold little heat and give it up quickly.",
     "The sea along India's coast keeps the weather milder than far inland, all year round.",
-    "In 1856, Eunice Foote, an American scientist, is reported to have put thermometers in glass tubes of different gases in the sunshine. The tubes warmed by different amounts, which is the same idea as sand and water warming differently."
+    "In 1856, Eunice Foote, an American scientist, is reported to have put thermometers in glass tubes of different gases in the sunshine. The tubes warmed by different amounts, so different materials take up the sun's heat differently."
    ],
    "art": "A map of India with a coast city and a desert city, and two small graphs of day and night temperature, flat for the coast and steep for the desert.",
    "perspectives": []
@@ -212,7 +212,7 @@
    "concept": "Sharing heat: where a mixture ends up",
    "status": "defined",
    "definition": "When you mix two amounts of the same liquid at different temperatures, the mix ends between them, nearer the temperature of the bigger amount.",
-   "description": "A mix of 1 litre at 80 degrees and 3 litres at 20 degrees: multiply each amount by its temperature, add, and divide by the total. 1 times 80 is 80. 3 times 20 is 60. 80 plus 60 is 140. Divide by 4 litres and you get 35 degrees. The 3 litres are three times as much, so the mix is three times closer to 20 than to 80. For different materials you must also include their specific heats. A hot steel spoon dropped into a cup of cool water warms the water by only about 2 degrees, because the spoon holds very little heat for each degree.",
+   "description": "A mix of 1 litre at 80 degrees and 3 litres at 20 degrees: multiply each amount by its temperature, add, and divide by the total. 1 times 80 is 80. 3 times 20 is 60. 80 plus 60 is 140. Divide by 4 litres and you get 35 degrees. The 3 litres are three times as much, so the mix is three times closer to 20 than to 80. For different materials you must also include their specific heats. A hot steel spoon dropped into a cup of cool water warms the water by only a degree or two, because the spoon holds very little heat for each degree.",
    "examples": [
     "A little hot milk in a big glass of cold milk warms it only a little.",
     "A bucket of bath water is mixed from a kettle of hot water and a lot of cold water.",
@@ -292,7 +292,7 @@
    "definition": "Absolute zero, about minus 273 degrees Celsius, is the coldest temperature possible. Nobody knows if there is a hottest temperature.",
    "description": "As things cool, their particles move less. At absolute zero they would move as little as the rules of nature allow. They do not stop completely, because quantum physics says some small movement always remains. No one can reach absolute zero exactly, but laboratories have come within a billionth of a degree. At the other end, the centre of the Sun is about 15 million degrees. In particle accelerators, scientists have made a tiny blob of matter that was reported to reach several trillion degrees for a moment. Is there a top limit? That is still an open question.",
    "examples": [
-    "The Boomerang Nebula, a cloud of gas in space, is reported to be the coldest natural place known, at about minus 272 degrees Celsius.",
+    "The Boomerang Nebula, a cloud of gas in space, is reported to be one of the coldest natural places known, at about minus 272 degrees Celsius.",
     "The centre of the Sun is about 15 million degrees Celsius.",
     "Scientists have cooled atoms to less than a billionth of a degree above absolute zero in some laboratories."
    ],
@@ -781,7 +781,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up boils the water, mixes the bath and sets the tumblers in it. The oil in this test is never put on a flame and never gets hotter than about 70 degrees. Work on a steady table with a tray under the pan. Glass thermometers break easily, so never stir with them, and lay them flat on a cloth. Wipe up any spilt oil at once, because it is slippery.",
+   "safety": "A grown-up boils the water, mixes the bath and sets the tumblers in it. The oil in this test is never put on a flame and never gets hotter than about 70 degrees. Work on a steady table with a tray under the pan. Glass thermometers break easily, so never stir with them, and lay them flat on a cloth. Wipe up any spilt oil at once, because it is slippery. The steel tumblers get hot in the bath, so lift them out with a cloth or tongs.",
    "schedule": [
     {
      "day": 1,
@@ -1660,7 +1660,7 @@
      "parent": "A groundnut often burns for 30 seconds to a minute. If it will not catch fire, hold the match to it for a few seconds, or use dry coconut. Keep the katori steady and close. The water usually rises 5 to 15 degrees. Keep the pin's tip away from fingers. Put the burnt nut in the bowl of water.",
      "check": {
       "t": "mcq",
-      "q": "Why is it safe to keep the katori close to the flame, rather than far above it?",
+      "q": "Why do we keep the katori close to the flame, rather than far above it?",
       "options": [
        "More of the flame's heat goes into the water, and less is lost to the air",
        "The flame burns longer",
@@ -1697,7 +1697,7 @@
       }
      ],
      "parent": "Most of the heat warms the air around the flame, the katori and the smoke. A good home result catches a quarter to a third of the heat. This is why scientists in a proper laboratory put the flame inside a closed container. Good measuring includes saying how much you may have lost.",
-     "think": "Your body also gets about 5 kilocalories from each gram of groundnut. What does your body do with it?",
+     "think": "Your body also gets about 5 to 6 kilocalories from each gram of groundnut. What does your body do with it?",
      "context": "In this step, you compare your result with the real heat in a groundnut and think about where the rest went."
     }
    ]
@@ -3284,7 +3284,7 @@
   ],
   "art": "Two thermometers, one in a tumbler of oil and one in a tumbler of water, standing in the same warm bath with a bright arrow of heat going into each, and the oil thermometer higher."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: two thermometers are the one bought item, because the Oil and Water test needs both liquids read at the same time. With one thermometer, the unit says to do the test twice with a fresh bath. In the Oil and Water test, the bath is a wide pan at about 70 degrees, only 3 centimetres deep, so the steel tumblers rest on the bottom and do not float. The oil never goes on a flame and never exceeds about 70 degrees. Typical numbers, from working out the heat flow, are about 31 degrees of rise for the oil and 18 for the water in 12 minutes. The real ratio may be anywhere from 1.5 to 2.2, and the parent is told so. The Katori and the Bowl test uses 6 cubes in each, and the heat sums show that 100 grams of water at 60 degrees can melt only about 75 grams of ice. If the cubes are small, the parent is told to use more. Stuck at Zero uses a 2 litre warm bath so the bath stays warm, and the flat part lasts about 10 to 14 minutes. The balloon on a bottle needs a thin balloon that has been stretched first, and hot water that is not boiling, so the bottle does not soften. The groundnut test is done by a grown-up, with a steel plate, a bowl of water and an open window, and offers dry coconut for homes with a nut allergy. The water usually catches only a quarter to a third of the heat, and the unit says so. The sand and water project depends on sunshine. In the rains, the difference can be small, and the steps say to wait for a sunny day. The water is poured out at the end so mosquitoes cannot breed. Facts to verify before publishing: the Chennai and Jaisalmer day-and-night ranges (stated as about 8 to 10 and 15 or more), the Boomerang Nebula temperature (stated as reported), the several-trillion-degree figure (stated as reported), and Fahrenheit's mixing experiments as reported by Boerhaave (no numbers given). The spine is the Oil and Water test, the explanation cards, the Katori and the Bowl test, roots and the quiz.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: two thermometers are the one bought item, because the Oil and Water test needs both liquids read at the same time. With one thermometer, the unit says to do the test twice with a fresh bath. In the Oil and Water test, the bath is a wide pan at about 70 degrees, only 3 centimetres deep, so the steel tumblers rest on the bottom and do not float. The oil never goes on a flame and never exceeds about 70 degrees. Typical numbers, from working out the heat flow, are about 31 degrees of rise for the oil and 18 for the water in 12 minutes. The real ratio may be anywhere from 1.5 to 2.2, and the parent is told so. The Katori and the Bowl test uses 6 cubes in each, and the heat sums show that 100 grams of water at 60 degrees can melt only about 75 grams of ice. If the cubes are small, the parent is told to use more. Stuck at Zero uses a 2 litre warm bath so the bath stays warm, and the flat part lasts about 10 to 14 minutes. The balloon on a bottle needs a thin balloon that has been stretched first, and hot water that is not boiling, so the bottle does not soften. The groundnut test is done by a grown-up, with a steel plate, a bowl of water and an open window, and offers dry coconut for homes with a nut allergy. The water usually catches only a quarter to a third of the heat, and the unit says so. The sand and water project depends on sunshine. In the rains, the difference can be small, and the steps say to wait for a sunny day. The water is poured out at the end so mosquitoes cannot breed. Facts to verify before publishing: the Chennai and Jaisalmer day-and-night ranges (now stated as about 7 to 10 and 15 or more; checked against monthly climate tables), the Boomerang Nebula temperature (stated as reported), the several-trillion-degree figure (stated as reported), and Fahrenheit's mixing experiments as reported by Boerhaave (no numbers given). The spine is the Oil and Water test, the explanation cards, the Katori and the Bowl test, roots and the quiz.",
  "how_we_found_out": {
   "story": "For a long time, people thought that a thermometer told them how much heat a thing held. A hotter thing had more heat, and two things at the same temperature had the same amount. Early in the 1700s, the instrument-maker Daniel Fahrenheit mixed water and mercury at different temperatures. The mix did not land halfway, and the Dutch doctor Herman Boerhaave reported this puzzle. In the early 1760s, Joseph Black, a Scottish chemist and doctor at the University of Glasgow, thought hard about it. He argued that different materials need different amounts of heat to warm by the same number of degrees. He also saw that melting ice takes in a lot of heat while a thermometer in it stays still. So the amount of heat and the temperature are not the same thing. He gave them separate names and measured them separately. In the 1840s, James Joule showed that heat is energy, and that movement can turn into it.",
   "who": "Joseph Black, a Scottish chemist and doctor (1728 to 1799)",

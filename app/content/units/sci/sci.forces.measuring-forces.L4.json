@@ -393,13 +393,13 @@
    ],
    "perspectives": [],
    "art": "A button resting on the surface of water in a bowl, with tiny arrows pulling outwards along the surface, hanging from the arm of a small balance with weights in the other pan.",
-   "context": "How do you measure a force that is a thousand times smaller than an apple's weight? This card shows a force that you can feel with your eyes closed, but only measure with a clever tool."
+   "context": "How do you measure a force that is over a hundred times smaller than an apple's weight? This card shows a force that you can feel with your eyes closed, but only measure with a clever tool."
   },
   {
    "concept": "Light pushes",
    "status": "defined",
    "definition": "Light carries a push. When sunlight lands on a surface, it presses on it with a very small force called radiation pressure. A big, thin, shiny sheet in space can be pushed by sunlight alone.",
-   "description": "It is easy to believe that light has no push, because it has no weight. But light does carry momentum, and when it is absorbed or reflected, it pushes. In 1619, the astronomer Johannes Kepler wrote that comet tails point away from the Sun, and he guessed that sunlight might be pushing them. In 1873, James Clerk Maxwell worked out from his theory of light that light must push. In 1900, Pyotr Lebedev in Russia measured it. In 1901, Ernest Nichols and Gordon Hull in the United States measured it too, with a twisting wire. The push is extremely small. Sunlight at the distance of the Earth pushes on a sheet of one square metre with only about five millionths of a newton, which is the weight of a grain of sand. But in space there is almost no air or friction. In 2010, Japan launched IKAROS, a spacecraft with a thin square sail, which used sunlight to push itself through space. In 2019, the Planetary Society's LightSail 2 used sunlight to raise its orbit around the Earth. The tails of comets, too, are blown by the Sun, mostly by a stream of particles from the Sun and by light.",
+   "description": "It is easy to believe that light has no push, because it has no weight. But light does carry momentum, and when it is absorbed or reflected, it pushes. In the early 1600s, the astronomer Johannes Kepler noted that comet tails point away from the Sun, and he is often said to have guessed that sunlight might be pushing them. In 1873, James Clerk Maxwell worked out from his theory of light that light must push. In 1900, Pyotr Lebedev in Russia measured it. In 1901, Ernest Nichols and Gordon Hull in the United States measured it too, with a twisting wire. The push is extremely small. Sunlight at the distance of the Earth pushes on a sheet of one square metre with only about five millionths of a newton, which is the weight of a grain of sand. But in space there is almost no air or friction. In 2010, Japan launched IKAROS, a spacecraft with a thin square sail, which used sunlight to push itself through space. In 2019, the Planetary Society's LightSail 2 used sunlight to raise its orbit around the Earth. The tails of comets, too, are blown by the Sun, mostly by a stream of particles from the Sun and by light.",
    "examples": [
     "A solar sail is a very thin, very light sheet that catches the push of sunlight.",
     "Sunlight on a square sail 14 metres on each side would push with about one thousandth of a newton, enough to move a spacecraft slowly but steadily.",
@@ -427,7 +427,7 @@
    "concept": "Instruments made in India: Anna Mani and checking every copy",
    "status": "defined",
    "definition": "A measuring instrument is only useful if every copy of it gives the same answer. So instruments must be built to a standard and checked against it.",
-   "description": "Anna Mani was an Indian physicist, born in 1918 in Peermade in Kerala. She studied physics in Madras, and later studied the instruments used for measuring weather. After 1947, she worked at the India Meteorological Department in Pune. She is remembered for helping to make weather instruments in India, so that the country did not need to buy them all from abroad. Weather instruments measure forces and what forces do. A wind meter spins faster when the wind pushes harder. A rain gauge collects water to be weighed or measured. Instruments of this kind are placed in hundreds of stations, in places as far apart as hill towns and islands. For the numbers to be comparable, every copy of an instrument has to read the same when it meets the same wind or the same rain. So each one is checked against a standard before it is sent out, and checked again from time to time. This is the same lesson as the shopkeeper's scale and the kilogram standard. A number from one place can only be compared with a number from another place if both were checked against the same thing.",
+   "description": "Anna Mani was an Indian physicist, born in 1918 in Peermade in Kerala. She studied physics in Madras, and later, in London, studied the instruments used for measuring weather. After she came back in 1948, she worked at the India Meteorological Department in Pune. She is remembered for helping to make weather instruments in India, so that the country did not need to buy them all from abroad. Weather instruments measure forces and what forces do. A wind meter spins faster when the wind pushes harder. A rain gauge collects water to be weighed or measured. Instruments of this kind are placed in hundreds of stations, in places as far apart as hill towns and islands. For the numbers to be comparable, every copy of an instrument has to read the same when it meets the same wind or the same rain. So each one is checked against a standard before it is sent out, and checked again from time to time. This is the same lesson as the shopkeeper's scale and the kilogram standard. A number from one place can only be compared with a number from another place if both were checked against the same thing.",
    "examples": [
     "Weather stations across India report wind, rain and sunshine, using instruments that have to agree with each other.",
     "A new thermometer is checked in ice water and in boiling water, two places where the true temperature is known.",
@@ -1130,7 +1130,7 @@
    ],
    "safety": "Keep soap out of your eyes and wash your hands afterwards. Do not eat the rice after it has been used. Wipe up any spilt water so that nobody slips.",
    "record": "Write how many grains weigh one gram, how many grains pulled the coin off the plain water and the soapy water, and the pull in newtons for each. Write one sentence for what the soap did.",
-   "context": "In this experiment, you build a very sensitive balance and use grains of rice as tiny weights. You measure the pull of a water surface, a force a thousand times smaller than an apple's weight.",
+   "context": "In this experiment, you build a very sensitive balance and use grains of rice as tiny weights. You measure the pull of a water surface, a force over a hundred times smaller than an apple's weight.",
    "setup": [
     {
      "art": "A pile of 300 rice grains counted into tens on a plate, and a kitchen scale showing about 7 grams.",
@@ -1170,7 +1170,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. The usual answer is between 20 and 100 grains for plain water, and clearly fewer with soap.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. The usual answer is roughly 10 to 60 grains for plain water, and clearly fewer with soap.",
      "context": "This is the first step of the Button and the Water test. You guess before you test."
     },
     {
@@ -1230,7 +1230,7 @@
        ]
       }
      ],
-     "parent": "Expect somewhere between 20 and 100 grains. Numbers that are close but not equal are normal. If one try is far from the others, the coin probably tilted or touched the water unevenly. Repeat that try. Keep the middle value of the three.",
+     "parent": "Expect somewhere between 10 and 60 grains. Numbers that are close but not equal are normal. If one try is far from the others, the coin probably tilted or touched the water unevenly. Repeat that try. Keep the middle value of the three.",
      "context": "In this step, you add rice grains until the coin pulls off the water, and you do this three times."
     },
     {
@@ -1655,6 +1655,7 @@
      "qty": 1
     }
    ],
+   "safety": "Use only an ordinary fridge magnet. Very strong magnets, such as small shiny ones, can pinch fingers and are dangerous if swallowed. Keep magnets away from phones and bank cards.",
    "schedule": [
     {
      "day": 1,
@@ -3353,5 +3354,5 @@
   ],
   "art": "A bottle hanging in the middle of a sagging line, with long glowing arrows along the line showing the pulls hidden inside it."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Sagging Line test needs a stick of about 1 metre, two heavy chairs and a wide rubber band. Bands differ a lot. If three 500 gram packets stretch your band to more than about four times its relaxed length, or the band looks thin and pale, use two bands side by side or a stronger one. The calculated pulls (about 6, 9 and 13 newtons for 25, 15 and 10 centimetre sags with a 5 newton bottle) hold for a span of 1 metre, and real numbers will be a little different. The Button and the Water test is the most delicate: the coin must hang flat, and the usual result is between 20 and 100 rice grains for plain water, with clearly fewer for soapy water. It may take two or three tries to get a coin that hangs level, and a greasy coin or a tilted coin gives a small number. The ruler in the Bending Ruler Scale must be firmly pinned, and the bend per packet depends on the ruler, so slide it until one packet bends it by 3 to 10 millimetres. The Swinging Bottle needs a grown-up to release the bottle and a soft cushion on the floor. Digital bathroom scales may freeze their first reading, so step on again for each reading. Facts to check before use: the details of Agnes Pockels' life, Anna Mani's career, the solar sail missions and the strain gauge history."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Sagging Line test needs a stick of about 1 metre, two heavy chairs and a wide rubber band. Bands differ a lot. If three 500 gram packets stretch your band to more than about four times its relaxed length, or the band looks thin and pale, use two bands side by side or a stronger one. The calculated pulls (about 6, 9 and 13 newtons for 25, 15 and 10 centimetre sags with a 5 newton bottle) hold for a span of 1 metre, and real numbers will be a little different. The Button and the Water test is the most delicate: the coin must hang flat, and the usual result is roughly 10 to 60 rice grains for plain water, with clearly fewer for soapy water. It may take two or three tries to get a coin that hangs level, and a greasy coin or a tilted coin gives a small number. The ruler in the Bending Ruler Scale must be firmly pinned, and the bend per packet depends on the ruler, so slide it until one packet bends it by 3 to 10 millimetres. The Swinging Bottle needs a grown-up to release the bottle and a soft cushion on the floor. Digital bathroom scales may freeze their first reading, so step on again for each reading. Facts to check before use: the details of Agnes Pockels' life, Anna Mani's career, the solar sail missions and the strain gauge history."
 }

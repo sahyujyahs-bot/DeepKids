@@ -128,7 +128,7 @@
   {
    "term": "Balance point of two worlds",
    "meaning": "The point that two bodies, such as the Earth and the Moon, both circle round. It is called the barycentre. It lies on the line between them, nearer the heavier one.",
-   "example": "The balance point of the Earth and the Moon lies inside the Earth, about 4,600 kilometres from its centre.",
+   "example": "The balance point of the Earth and the Moon lies inside the Earth, about 4,700 kilometres from its centre.",
    "art": "The Earth and the Moon joined by a line, with a dot inside the Earth where the two orbits balance."
   },
   {
@@ -800,7 +800,7 @@
      "buy": "b-scale"
     }
    ],
-   "safety": "A rubber band under load can snap and sting, so keep your face and eyes to one side, and never load more than 500 millilitres. Stop if the band stretches to three times its slack length. Work over a tray to catch spills, and wipe the floor if water goes on it.",
+   "safety": "A rubber band under load can snap and sting, so keep your face and eyes to one side, and never load more than 500 millilitres. If anyone has a latex allergy, use a latex-free band. Stop if the band stretches to three times its slack length. Work over a tray to catch spills, and wipe the floor if water goes on it.",
    "schedule": [
     {
      "day": 1,
@@ -1120,7 +1120,7 @@
      "qty": 1
     }
    ],
-   "safety": "Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Point the cap away from every face and open it slowly over the sink. Never use a glass jar or a thin bag for the fizz.",
+   "safety": "Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bath water should be warm, not hot. Never use a glass jar or a thin bag for the fizz.",
    "schedule": [
     {
      "day": 1,
@@ -1636,6 +1636,7 @@
      "qty": 1
     }
    ],
+   "safety": "Use plastic jars or bottles, not glass. Do not taste the contents, and keep flour and fine salt away from the face and eyes. Tell a grown-up first if anyone has a wheat allergy.",
    "schedule": [
     {
      "day": 1,
@@ -2729,7 +2730,7 @@
      "t": "truefalse",
      "p": "The Earth and the Moon both circle a point that is inside the Earth.",
      "a": true,
-     "why": "True. The balance point of the Earth and the Moon is about 4,600 kilometres from the Earth's centre. The Earth's radius is about 6,400 kilometres, so the point is inside the Earth.",
+     "why": "True. The balance point of the Earth and the Moon is about 4,700 kilometres from the Earth's centre. The Earth's radius is about 6,400 kilometres, so the point is inside the Earth.",
      "outcome": 4
     },
     {
@@ -3328,9 +3329,9 @@
   ],
   "art": "A cardboard ring hanging from a pin with three plumb lines crossing in the middle of its empty hole, and a small dot where they meet."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: water is the standard mass everywhere in the unit, because 100 millilitres of water has a mass of about 100 grams, so a family with a measuring cup has a set of weights. The Rubber Band Scale needs a wide, fresh band and never more than 500 millilitres of water, with a safety line about snapping and the face kept to one side. Real bands vary a lot, so the unit tells the parent to expect about 1 centimetre for each 100 grams from a medium band, a curved line from many bands, and answers 10 to 20 grams out. Where Does It Balance uses cereal box cardboard and three cut shapes, with a grown-up making the holes. The ring's lines cross in the hole and the crescent's in the air, which is checked by tracing the shape on paper and extending the lines. Where Does the Mass Go needs a scale that reads whole grams. The sugar and ice tests should change by 1 gram or less. The closed bottle test uses only 1 teaspoon of baking soda and 2 tablespoons of vinegar in a strong fizzy-drink bottle, done by a grown-up, and the cap is opened slowly over the sink. The open cup should lose about 2 to 4 grams. The Overhang Challenge uses matchboxes. The half, quarter, sixth and eighth steps give about 1.36 box lengths with 8 boxes, and real boxes give a little less. Van Helmont's Pot takes 18 days, and a kitchen scale cannot show the plants' small dry mass, so the unit says the test shows only that the soil lost very little compared with what the plants gained fresh. Facts to verify before publishing: the typical box and jar masses in Heavy for Its Size, which depend on the jars. The Earth and Moon balance point distance of about 4,600 kilometres; the date of van Helmont's experiment (given as the first half of the 1600s). The value of Cavendish's density, about 5.4. And the Thanjavur dancing doll as a low-centre-of-gravity toy. The spine is the Rubber Band Scale, the explanation cards, Where Does It Balance, roots and the quiz.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: water is the standard mass everywhere in the unit, because 100 millilitres of water has a mass of about 100 grams, so a family with a measuring cup has a set of weights. The Rubber Band Scale needs a wide, fresh band and never more than 500 millilitres of water, with a safety line about snapping and the face kept to one side. Real bands vary a lot, so the unit tells the parent to expect about 1 centimetre for each 100 grams from a medium band, a curved line from many bands, and answers 10 to 20 grams out. Where Does It Balance uses cereal box cardboard and three cut shapes, with a grown-up making the holes. The ring's lines cross in the hole and the crescent's in the air, which is checked by tracing the shape on paper and extending the lines. Where Does the Mass Go needs a scale that reads whole grams. The sugar and ice tests should change by 1 gram or less. The closed bottle test uses only 1 teaspoon of baking soda and 2 tablespoons of vinegar in a strong fizzy-drink bottle, done by a grown-up, and the cap is opened slowly over the sink. The open cup should lose about 2 to 4 grams. The Overhang Challenge uses matchboxes. The half, quarter, sixth and eighth steps give about 1.36 box lengths with 8 boxes, and real boxes give a little less. Van Helmont's Pot takes 18 days, and a kitchen scale cannot show the plants' small dry mass, so the unit says the test shows only that the soil lost very little compared with what the plants gained fresh. Facts to verify before publishing: the typical box and jar masses in Heavy for Its Size, which depend on the jars. The Earth and Moon balance point distance of about 4,700 kilometres (checked); the date of van Helmont's experiment (given as the first half of the 1600s). The value of Cavendish's density, about 5.4. And the Thanjavur dancing doll as a low-centre-of-gravity toy. The spine is the Rubber Band Scale, the explanation cards, Where Does It Balance, roots and the quiz.",
  "how_we_found_out": {
-  "story": "By the 1700s, people could measure how hard the Earth pulls, but not how much the Earth weighs. Isaac Newton had guessed, without proof, that the Earth's inside might be much denser than its surface rocks. In 1774, Nevil Maskelyne, the Astronomer Royal in England, measured how much a mountain in Scotland pulled a plumb line sideways. The pull was tiny, but it gave a first answer. In 1798, Henry Cavendish used a device built by John Michell, who had died. Two small lead balls hung from a rod on a thin wire. Two big lead balls were brought close. Every mass pulls every other mass, so the wire twisted a very little. From the twist, Cavendish found that the Earth is about 5.4 times as dense as water. Rocks at the surface are only about 2.7 times as dense. So the Earth could not be rock all the way through. Something much heavier had to be deep inside.",
+  "story": "By the 1700s, people could measure how hard the Earth pulls, but not how much the Earth weighs. Isaac Newton had said that a mountain might pull a plumb line a little sideways. In 1774, Nevil Maskelyne, the Astronomer Royal in England, measured how much a mountain in Scotland pulled a plumb line sideways. The pull was tiny, but it gave a first answer. In 1798, Henry Cavendish used a device built by John Michell, who had died. Two small lead balls hung from a rod on a thin wire. Two big lead balls were brought close. Every mass pulls every other mass, so the wire twisted a very little. From the twist, Cavendish found that the Earth is about 5.4 times as dense as water. Rocks at the surface are only about 2.7 times as dense. So the Earth could not be rock all the way through. Something much heavier had to be deep inside.",
   "who": "Henry Cavendish, an English scientist (1731 to 1810)",
   "when": "1798",
   "wrong_idea": "The Earth is rock all the way through, so its average density is that of surface rock, about 2.7 times water. Cavendish's number, about 5.4, showed that the inside must be much denser. Later work found an iron core."

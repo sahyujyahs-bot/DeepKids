@@ -239,7 +239,7 @@
    "concept": "Reading a food packet",
    "status": "defined",
    "definition": "A packet of food in India must show the name of the food, the ingredients, a date, a vegetarian or non-vegetarian mark, nutrition information and the maker's licence number. Each of these tells a buyer something important.",
-   "description": "The Food Safety and Standards Authority of India, or FSSAI, makes the rules for food sold in India, under a law passed in 2006. Look for the green dot in a square for vegetarian food, or the brown triangle in a square for non-vegetarian food. Ingredients are listed from the most to the least by weight, so the first one named is the biggest part. If sugar is first on a biscuit packet, there is more sugar than anything else. The nutrition table shows what is in 100 grams. A 14-digit licence or registration number from FSSAI shows that the maker is registered to sell food. Dates matter too. Best before is about quality, and use by is about safety. Packets also list allergens, such as groundnuts, milk, wheat or soya, because a small amount can seriously harm someone who is allergic. Labels with words such as preservative, antioxidant or INS followed by a number tell you what has been added.",
+   "description": "The Food Safety and Standards Authority of India, or FSSAI, makes the rules for food sold in India, under a law passed in 2006. Look for the green dot in a square for vegetarian food, or a brown mark in a square for non-vegetarian food. Ingredients are listed from the most to the least by weight, so the first one named is the biggest part. If sugar is first on a biscuit packet, there is more sugar than anything else. The nutrition table shows what is in 100 grams. A 14-digit licence or registration number from FSSAI shows that the maker is registered to sell food. Dates matter too. Best before is about quality, and use by is about safety. Packets also list allergens, such as groundnuts, milk, wheat or soya, because a small amount can seriously harm someone who is allergic. Labels with words such as preservative, antioxidant or INS followed by a number tell you what has been added.",
    "examples": [
     "A packet of chips that lists oil and salt before potato says there is more oil than potato by weight.",
     "A packet of biscuits that says 'may contain groundnuts' warns families whose child is allergic.",
@@ -493,7 +493,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1906, six people in a rented house at Oyster Bay, near New York, fell ill with typhoid fever, a serious illness spread by bacteria in food or water. The owner hired a sanitary engineer named George Soper to find out why. At that time, most people believed that typhoid spread only from people who looked sick, or from dirty water. Soper found that the family's cook, Mary Mallon, had left soon after the illness began. She had never been ill. He traced her to other homes where she had cooked, and found typhoid in several of them. In 1907, health officers, including Dr. Sara Josephine Baker, found her, and tests showed typhoid bacteria in her body. She was the first healthy carrier of typhoid known in the United States. She was kept apart on an island for years, and people still ask whether she was treated fairly.",
+  "story": "In 1906, six people in a rented house at Oyster Bay, near New York, fell ill with typhoid fever, a serious illness spread by bacteria in food or water. The owner hired a sanitary engineer named George Soper to find out why. At that time, most people believed that typhoid spread only from people who looked sick, or from dirty water. Soper found that the family's cook, Mary Mallon, had left soon after the illness began. She had never been ill. He traced her to other homes where she had cooked, and found typhoid in several of them. In 1907, health officers, including Dr. Sara Josephine Baker, found her, and tests showed typhoid bacteria in her body. She was one of the first healthy typhoid carriers identified in the United States. She was kept apart on an island for years, and people still ask whether she was treated fairly.",
   "who": "George Soper, a sanitary engineer, and Dr. Sara Josephine Baker, with the New York health department",
   "when": "1906 to 1907",
   "wrong_idea": "Many people thought only people who looked sick could pass on typhoid. Tracing the illness from home to home, and testing a cook who felt perfectly well, showed that a healthy carrier can spread it."
@@ -974,11 +974,11 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up heats the pan for glass D and handles all hot water. Never taste the yeast mixture. Do not seal the glasses with a lid, because the gas can build up. Wash your hands afterwards, and a grown-up pours the mixture down the sink.",
+   "safety": "A grown-up heats the pan for glass D and handles all hot water. Steam can scald, so keep children away from the stove. Never taste the yeast mixture. Do not seal the glasses with a lid, because the gas can build up. Wash your hands afterwards, and a grown-up pours the mixture down the sink.",
    "record": "Fill in the table every 30 minutes for two hours. At the end, draw the four glasses side by side with their foam, and write what you think, what you saw and why.",
    "setup": [
     {
-     "art": "A jug with lukewarm water, a teaspoon of sugar and a teaspoon of yeast being stirred, with foam starting to form.",
+     "art": "A jug with lukewarm water, sugar and yeast being stirred, with foam starting to form.",
      "caption": "1. Stir sugar and yeast into lukewarm water in a jug."
     },
     {
@@ -1022,7 +1022,7 @@
      "id": "s2",
      "mins": 12,
      "context": "In this step, you make the yeast mixture and fill the four glasses. A grown-up heats the mixture for glass D.",
-     "do": "In the jug, stir 4 teaspoons of sugar and 4 teaspoons of yeast into 800 millilitres of lukewarm water. Wait 5 minutes. Pour 200 millilitres into each of glasses A, B and C. Pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes.",
+     "do": "In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Wait 5 minutes. Pour 200 millilitres into each of glasses A, B and C. Pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes.",
      "say": "This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so the heat will show what it does to the yeast. Never taste any of it.",
      "kid": "Stir sugar and yeast into warm water. Pour 200 millilitres into each glass. A grown-up heats D.",
      "adult": true,
@@ -1118,7 +1118,7 @@
      "qty": 1
     },
     {
-     "item": "soap, running water and a clean cloth",
+     "item": "an old shoe, soap, running water and a clean cloth",
      "qty": 1
     },
     {
@@ -1126,7 +1126,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up boils the potato and cuts it. Never open the bags once they are sealed, and never smell them, because some of the growth may be harmful. Keep little children away from the bags. At the end, a grown-up puts the closed bags into a rubbish bag, ties it, and puts it in the outside bin. Wash your hands after touching the bags.",
+   "safety": "A grown-up boils the potato and cuts it. Never open the bags once they are sealed, and never smell them, because some of the growth may be harmful. Keep little children away from the bags. At the end, a grown-up puts the closed bags into a rubbish bag, ties it, and puts it in the outside bin. Wash your hands after rubbing your finger on the shoe, and after touching the bags.",
    "schedule": [
     {
      "day": 1,
@@ -1483,7 +1483,7 @@
      "mins": 10,
      "context": "In this step, you find six things on each packet, and write them in the table.",
      "do": "On each packet, find six things and write them in the table. First, the first three ingredients. Second, the date, and whether it says best before or use by. Third, the vegetarian or non-vegetarian mark. Fourth, the FSSAI number. Fifth, any allergen line. Sixth, any storage advice. Write none if you cannot find it.",
-     "say": "Look for a green dot or a brown triangle in a square. Look for a date. Look for a long number that begins with 1 or 2. Read the first three ingredients. What does the packet say about keeping it?",
+     "say": "Look for a green dot or a brown mark in a square. Look for a date. Look for a long number that begins with 1 or 2. Read the first three ingredients. What does the packet say about keeping it?",
      "kid": "Find the date, the mark and the number. Read the first three ingredients.",
      "check": {
       "t": "mcq",
@@ -1496,7 +1496,7 @@
       "a": 0,
       "why": "In India and many countries, ingredients are listed from the most to the least by weight. The first one, sugar here, is the biggest part. The order is not the order of cooking."
      },
-     "parent": "The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown triangle in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them."
+     "parent": "The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown mark in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them."
     },
     {
      "id": "s3",
@@ -1569,7 +1569,7 @@
      "what": "Prepare the three samples. A grown-up adds the iodine. Watch the colours. Talk about what the test can and cannot tell us."
     }
    ],
-   "safety": "Tincture of iodine is poisonous if swallowed and it stains clothes and skin. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap.",
+   "safety": "Tincture of iodine is poisonous if swallowed and it stains clothes and skin, it hurts if it gets in the eyes, and it catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap.",
    "record": "A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Draw the three saucers with their colours.",
    "setup": [
     {
@@ -1866,7 +1866,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up boils the milk and pours it. Never taste the cup with no starter, or any cup that smells strongly unpleasant, is slimy, or has pink, orange, green or black patches. Throw those away. Wash the cups with soap and hot water.",
+   "safety": "A grown-up boils the milk and pours it. Anyone allergic to milk should not handle or taste the cups. Never taste the cup with no starter, or any cup that smells strongly unpleasant, is slimy, or has pink, orange, green or black patches. Throw those away. Wash the cups with soap and hot water.",
    "schedule": [
     {
      "day": 1,
@@ -1960,7 +1960,7 @@
      "say": "Tilt each cup a little. Has it set? Is it thick? Is it still milk? Which cup is ahead?",
      "kid": "Tilt each cup gently. Set, thick or runny? Write it down.",
      "wait": "Leave the cups for 6 to 12 hours before the first check.",
-     "parent": "Typical in a warm kitchen at about 30 degrees: cup 3 sets first, within about 6 hours, and cup 2 a little later. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day."
+     "parent": "Typical in a warm kitchen at about 30 degrees: cup 3 sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day."
     },
     {
      "id": "s5",
@@ -2356,7 +2356,7 @@
      "a": [
       "vegetarian"
      ],
-     "why": "A green dot in a square means vegetarian, and a brown triangle in a square means non-vegetarian. These marks help families who choose what they eat."
+     "why": "A green dot in a square means vegetarian, and a brown mark in a square means non-vegetarian. These marks help families who choose what they eat."
     },
     {
      "t": "write",
@@ -3017,7 +3017,7 @@
    "art": "A close-up of a food packet with a printed date and the words use by."
   },
   {
-   "text": "A green dot or a brown triangle in a square on a food packet.",
+   "text": "A green dot or a brown mark in a square on a food packet.",
    "art": "A packet with a green dot in a square printed next to the product name."
   },
   {
@@ -3429,5 +3429,5 @@
    "World Health Organization, oral rehydration salts: home recipe of 6 level teaspoons of sugar and half a level teaspoon of salt in 1 litre of clean water"
   ]
  },
- "playtest": "Read through as a parent and child in a city flat would use it, but not yet run at home with children. Yeast in Four Places: dry yeast and sugar in lukewarm water foam within 15 to 30 minutes. In a warm-water bath the foam rises several centimetres in an hour. On a Chennai counter in May, the room is warm enough that glass B may foam nearly as fast as C. This is not a mistake, and is itself a lesson about the danger zone, so write down the room temperature. The fridge glass hardly changes, and the heated glass stays flat if the mixture was steaming for 2 minutes. Handprints on a Potato: a sealed bag of boiled potato at room temperature usually shows spots in 2 to 4 days and fuzzy mould by day 7. The order, from most to fewest, is usually dirty finger, then water rinse, then soap, then the untouched slice, but one potato and one finger is a small test, so any order is a real result. Never open the bags. Salt Pulls Water Out: 1 teaspoon of salt on 4 slices usually gives about 1 to 2 teaspoons of liquid in 60 minutes, and sugar gives less. Starch Detective needs a grown-up for the iodine. Curd Lab: on a 30 degree counter, a tablespoon of starter usually sets 150 millilitres of milk in 6 to 8 hours, and a teaspoon in 8 to 10 hours. Outbreak Detectives: the totals for both mysteries were counted by script, and are written in the step notes. Facts for a grown-up to verify before release: the 14-digit FSSAI number, the brown triangle for non-vegetarian food, the details of the 1906 to 1907 typhoid case and Dr. Sara Josephine Baker's part in it, the estimate of bacterial cells in the body, the handwashing reduction in diarrhoea, the WHO home recipe for a rehydration drink, the Chandogya, Quran and Tirukkural references, and the ids for the three videos."
+ "playtest": "Read through as a parent and child in a city flat would use it, but not yet run at home with children. Yeast in Four Places: dry yeast and sugar in lukewarm water foam within 15 to 30 minutes. In a warm-water bath the foam rises several centimetres in an hour. On a Chennai counter in May, the room is warm enough that glass B may foam nearly as fast as C. This is not a mistake, and is itself a lesson about the danger zone, so write down the room temperature. The fridge glass hardly changes, and the heated glass stays flat if the mixture was steaming for 2 minutes. Handprints on a Potato: a sealed bag of boiled potato at room temperature usually shows spots in 2 to 4 days and fuzzy mould by day 7. The order, from most to fewest, is usually dirty finger, then water rinse, then soap, then the untouched slice, but one potato and one finger is a small test, so any order is a real result. Never open the bags. Salt Pulls Water Out: 1 teaspoon of salt on 4 slices usually gives about 1 to 2 teaspoons of liquid in 60 minutes, and sugar gives less. Starch Detective needs a grown-up for the iodine. Curd Lab: on a 30 degree counter, a tablespoon of starter usually sets 150 millilitres of milk in 6 to 8 hours, and a teaspoon in 8 to 10 hours. Outbreak Detectives: the totals for both mysteries were counted by script, and are written in the step notes. Facts for a grown-up to verify before release: the 14-digit FSSAI number, the exact shape of the brown non-vegetarian mark (sources differ), the details of the 1906 to 1907 typhoid case and Dr. Sara Josephine Baker's part in it, the estimate of bacterial cells in the body, the handwashing reduction in diarrhoea, the WHO home recipe for a rehydration drink, the Chandogya, Quran and Tirukkural references, and the ids for the three videos."
 }

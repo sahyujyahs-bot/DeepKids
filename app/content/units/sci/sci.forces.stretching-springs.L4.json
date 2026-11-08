@@ -137,14 +137,14 @@
    "concept": "How stiff is a spring?",
    "status": "defined",
    "definition": "Stiffness tells you how much pull a spring needs for each centimetre it stretches. A stiff spring needs a big pull for a small stretch. We find it by dividing the pull by the stretch.",
-   "description": "Two bands can both be elastic, and still feel very different. One feels soft, and the other feels hard to stretch. To put a number on this, hang a known load on the band and measure how much longer it gets. Suppose a 2 newton load stretches a soft band by 6 centimetres and a stiff band by 2 centimetres. The soft band has a stiffness of 2 divided by 6, which is about 0.33 newtons for each centimetre. The stiff band has a stiffness of 2 divided by 2, which is 1 newton for each centimetre. If you draw a graph of the pull against the stretch, a stiff spring gives a steep line, and a soft spring gives a gentle line. The steepness of the line is the stiffness. Scientists call this number the spring constant. It is only a constant while the spring stays inside its elastic limit. The spring in a pen is stiff, with about 2 newtons for each centimetre. The springs in a car are very stiff, with hundreds of newtons for each centimetre. A rubber band is soft by comparison.",
+   "description": "Two bands can both be elastic, and still feel very different. One feels soft, and the other feels hard to stretch. To put a number on this, hang a known load on the band and measure how much longer it gets. Suppose a 2 newton load stretches a soft band by 6 centimetres and a stiff band by 2 centimetres. The soft band has a stiffness of 2 divided by 6, which is about 0.33 newtons for each centimetre. The stiff band has a stiffness of 2 divided by 2, which is 1 newton for each centimetre. If you draw a graph of the pull against the stretch, a stiff spring gives a steep line, and a soft spring gives a gentle line. The steepness of the line is the stiffness. Scientists call this number the spring constant. It is only a constant while the spring stays inside its elastic limit. The spring in a pen is stiff, with about 1 to 2 newtons for each centimetre. The springs in a car are very stiff, with hundreds of newtons for each centimetre. A rubber band is soft by comparison.",
    "examples": [
-    "A pen spring needs about 2 newtons to stretch 1 centimetre. A wide rubber band may need 0.5 newtons for the same stretch.",
+    "A pen spring may need 1 to 2 newtons to stretch 1 centimetre. A wide rubber band may need 0.5 newtons for the same stretch.",
     "The springs under a bus seat are stiffer than the springs under a bicycle saddle.",
     "A hair tie is much stiffer than a thin rubber band of the same length."
    ],
    "perspectives": [],
-   "art": "A graph with pull in newtons along the bottom and stretch in centimetres up the side, with a steep line labelled stiff and a gentle line labelled soft.",
+   "art": "A graph with stretch in centimetres along the bottom and pull in newtons up the side, with a steep line labelled stiff and a gentle line labelled soft.",
    "context": "In the Stiffness League, you rank things by how hard they are to stretch. This card explains how to turn that into a number.",
    "chart": {
     "type": "table",
@@ -353,10 +353,10 @@
    "concept": "Tired metal: fatigue",
    "status": "defined",
    "definition": "A material that is bent or stretched again and again can break, even if each bend is small. Tiny cracks start at the weak spots and grow a little with every bend, until the material snaps. This is called fatigue.",
-   "description": "Bend a paper clip once by a small angle, and it springs back. Bend it back and forth by a big angle, and after ten or so bends it snaps. The bend spot also gets warm. Each bend leaves a tiny, invisible change in the metal. After enough bends, a crack starts, and each bend makes the crack grow. This is fatigue, the tiredness of materials. It is a danger for anything that moves again and again. A bridge has thousands of lorries crossing it. A railway line takes the weight of trains. An aeroplane's body flexes with every flight. In 1954, two de Havilland Comet jet airliners broke up in the air. Investigators traced the cause to fatigue cracks that started at the corners of the square windows. Since then, aeroplanes have round-cornered windows, and engineers test and inspect for cracks. A small crack can be found early, before it grows. Fatigue is also why a spring in a pen, after years of clicking, can break.",
+   "description": "Bend a paper clip once by a small angle, and it springs back. Bend it back and forth by a big angle, and after ten or so bends it snaps. The bend spot also gets warm. Each bend leaves a tiny, invisible change in the metal. After enough bends, a crack starts, and each bend makes the crack grow. This is fatigue, the tiredness of materials. It is a danger for anything that moves again and again. A bridge has thousands of lorries crossing it. A railway line takes the weight of trains. An aeroplane's body flexes with every flight. In 1954, two de Havilland Comet jet airliners broke up in the air. Investigators traced the cause to fatigue cracks that started at the corner of a window in the cabin roof. Since then, aeroplane windows have rounded corners, and engineers test and inspect for cracks. A small crack can be found early, before it grows. Fatigue is also why a spring in a pen, after years of clicking, can break.",
    "examples": [
     "A paper clip bent back and forth snaps in about ten to twenty bends.",
-    "The Comet jet airliners of the 1950s lost their windows' strength through fatigue, and aeroplane windows are round-cornered ever since.",
+    "Two Comet jet airliners of the 1950s broke up because of fatigue cracks at a window corner, and aeroplane windows have had rounded corners ever since.",
     "A plastic ruler bent back and forth many times gets a white line and cracks."
    ],
    "perspectives": [],
@@ -383,7 +383,7 @@
    "definition": "Because a spring's bounce time does not change with the size of the bounce, springs make good clocks. Mechanical watches use a balance spring. Quartz watches use a crystal that vibrates. The second itself is now defined by the vibrations of atoms.",
    "description": "A pendulum clock does not work on a rocking ship, which is why people needed something else. In the 1670s, Christiaan Huygens and Robert Hooke both worked on small coiled springs for watches. Such a spring pulls a tiny wheel back and forth at a steady beat. This balance spring is the reason a watch can go in a pocket and still keep time. Quartz watches use a tiny crystal of quartz, cut like a small tuning fork. It vibrates 32,768 times each second. A chip counts the beats and halves the count fifteen times to get one tick each second. Atomic clocks use something even steadier: the vibrations of caesium atoms. Since 1967, the second has been defined as exactly 9,192,631,770 of these vibrations. In each case, a springy thing with a steady natural beat is counting time for us. The steadier the beat, the better the clock. A good quartz watch is wrong by less than half a minute in a month. Atomic clocks are wrong by less than a second in millions of years.",
    "examples": [
-    "A mechanical watch has a balance spring that swings a small wheel back and forth about five times each second.",
+    "A mechanical watch has a balance spring that swings a small wheel back and forth, ticking about five times each second.",
     "A quartz watch counts the 32,768 vibrations each second of a small crystal.",
     "The clocks in satellites that give your phone its place on the map are atomic clocks."
    ],
@@ -544,7 +544,7 @@
   },
   {
    "text": "Materials that are bent again and again can break, even when each bend is small.",
-   "evidence": "A paper clip bent back and forth snaps in about ten to twenty bends. In 1954, two Comet jet airliners broke up in the air, and the cause was traced to fatigue cracks near the corners of square windows.",
+   "evidence": "A paper clip bent back and forth snaps in about ten to twenty bends. In 1954, two Comet jet airliners broke up in the air, and the cause was traced to fatigue cracks that started at the corner of a window in the cabin roof.",
    "context": "This card is about why engineers test and inspect things that flex over and over."
   }
  ],
@@ -576,7 +576,7 @@
   {
    "claim": "The Tacoma Narrows Bridge fell in 1940 because of resonance with the wind.",
    "who": "Many textbooks and videos.",
-   "for": "The bridge twisted in a wind of about 60 kilometres an hour, and the movement grew until the deck broke.",
+   "for": "The bridge twisted in a wind of about 65 kilometres an hour, and the movement grew until the deck broke.",
    "against": "Engineers who studied the bridge later found that the wind did not push it at its natural beat. They found that the bridge's own movement drew energy from the steady wind, an effect called flutter. This is a different effect from simple resonance.",
    "status": "debated",
    "context": "A famous bridge fell in 1940. This card asks whether resonance was the cause."
@@ -862,7 +862,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Play the first 6 cards slowly. After each card, read the back aloud. After the second card, ask the question below.",
+     "do": "Play the first 8 cards slowly. After each card, read the back aloud. After the second card, ask the question below.",
      "say": "I read the card. You pick a token and say why. Now we turn them over together. Who can say why?",
      "kid": "The reader reads a card. Pick a token. Say why. Check the back.",
      "ask": [
@@ -875,7 +875,7 @@
        ]
       }
      ],
-     "context": "In this step of Beat Match, you play the first six cards and learn how the load and the stiffness change the beat."
+     "context": "In this step of Beat Match, you play the first eight cards and learn how the load and the stiffness change the beat."
     },
     {
      "id": "s3",
@@ -1395,7 +1395,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not do this if you are allergic to rubber. Hold the band in both hands and never let go of it near your face. Stop if a band looks thin or cracked.",
+   "safety": "Do not do this if you are allergic to rubber. Hold the band in both hands, stretch it only to about three times its length, and never let go of it near your face. Stop if a band looks thin or cracked.",
    "schedule": [
     {
      "day": 1,
@@ -3259,7 +3259,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For centuries, sailors could find how far north or south they were, but not how far east or west. To find that, they needed to know the exact time at a faraway port, and compare it with the Sun's time on their ship. Pendulum clocks failed at sea, because the rocking of the waves threw off the swing. In 1714, the British Parliament asked experts, including Isaac Newton, how to solve the problem. Newton told them that a clock accurate enough for use at sea had not yet been made. Many astronomers believed that the answer would come from the Moon and the stars. John Harrison, an English clockmaker, thought otherwise. He built clocks and watches with springs and balanced wheels in place of pendulums, so that rocking could not stop them. His fourth, a large watch finished in 1759, was tested on a voyage to Jamaica in 1761. It lost only about five seconds in 81 days. A balance spring keeps its beat however the ship tilts.",
+  "story": "For centuries, sailors could find how far north or south they were, but not how far east or west. To find that, they needed to know the exact time at a faraway port, and compare it with the Sun's time on their ship. Pendulum clocks failed at sea, because the rocking of the waves threw off the swing. In 1714, the British Parliament asked experts, including Isaac Newton, how to solve the problem. Newton told them that a clock accurate enough for use at sea had not yet been made. Many astronomers believed that the answer would come from the Moon and the stars. John Harrison, an English clockmaker, thought otherwise. He built clocks and watches with springs and balanced wheels in place of pendulums, so that rocking could not stop them. His fourth, a large watch finished in 1759, was tested on a voyage to Jamaica in 1761. It was found to be only about five seconds slow after the voyage. A balance spring keeps its beat however the ship tilts.",
   "who": "John Harrison (1693 to 1776), an English clockmaker",
   "when": "He finished his fourth sea timekeeper in 1759, and it was tested at sea in 1761 and 1762",
   "wrong_idea": "Many experts believed that no clock could keep accurate time on a rocking ship, with changes in heat, damp and gravity. Harrison showed it could be done, with a clock that used a spring, not a pendulum, and the sea trial proved it."

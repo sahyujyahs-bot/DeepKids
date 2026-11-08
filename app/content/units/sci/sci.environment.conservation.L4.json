@@ -322,7 +322,7 @@
    "concept": "Should we bring back animals that have disappeared? The cheetah in India",
    "status": "debated",
    "definition": "",
-   "description": "The Asiatic cheetah once ran across India's grasslands. It was declared extinct in India in 1952. In September 2022, eight cheetahs from Namibia in Africa were brought by aeroplane to Kuno National Park in Madhya Pradesh, and more came from South Africa in 2023. The plan is to start a group of cheetahs in India and help the dry grasslands that they live in. Some of the cheetahs have died since, and scientists and officials have argued about whether the plan is wise. This is called reintroduction, and it is being tried in many countries. The cheetahs are of an African kind, not the Asiatic cheetah that once lived here, and that is part of the argument. No one yet knows how it will end.",
+   "description": "Asiatic cheetahs once ran across India's grasslands. They were declared extinct in India in 1952. In September 2022, eight cheetahs from Namibia in Africa were brought by aeroplane to Kuno National Park in Madhya Pradesh, and more came from South Africa in 2023. The plan is to start a group of cheetahs in India and help the dry grasslands that they live in. Some of the cheetahs have died since, and scientists and officials have argued about whether the plan is wise. This is called reintroduction, and it is being tried in many countries. The cheetahs are of an African kind, not the Asiatic cheetah that once lived here, and that is part of the argument. No one yet knows how it will end.",
    "examples": [
     "Gray wolves were brought back to Yellowstone National Park in the United States in 1995, and some scientists report that the rivers and trees changed as the deer moved.",
     "The one-horned rhino in Assam recovered from very few animals a century ago, after strong protection.",
@@ -471,7 +471,7 @@
    "Meenu lived in a small house beside Ashtamudi Lake, near Kollam in Kerala. The lake was wide and green-brown, with coconut palms leaning over the water. Every morning, before school, she heard the thump of her grandmother's boat against the steps.",
    "Her grandmother was Ammamma, and Ammamma was a clam collector. For forty years she had waded and dived in the shallow lake before sunrise. She felt for clams with her toes and her fingers, and dropped them into a basket tied at her waist.",
    "On the shelf above the kitchen window sat a row of clam shells. Under each one, in white chalk, was a number. Thirty-one shells, from 1 to 31. \"Each year I keep the biggest clam I find,\" Ammamma said. \"Don't touch.\"",
-   "In the school holidays, Meenu was finally allowed to go out in the boat. Ammamma gave her a steel ring as wide as a bangle. \"Any clam that slips through this ring is too small,\" she said. \"It goes back in the water.\"",
+   "In the school holidays, Meenu was finally allowed to go out in the boat. Ammamma gave her a steel ring as wide as a bangle. \"Any clam that slips through this ring is too small,\" she said. \"They go back in the water.\"",
    "Meenu found a clam, then another. Half of them slipped through the ring. She put them back, one by one, and the basket filled slowly. \"Ammamma, it would be much faster if we kept the small ones too,\" she said.",
    "\"Faster today,\" said Ammamma. \"Slower every year after.\"",
    "A boat came close. It was Saji, their neighbour, with a rake that had very fine teeth. He dragged it along the bottom and tipped a pile of clams of every size into his boat. \"Why leave the little ones?\" he called. \"If you don't take them, someone else will.\"",
@@ -657,7 +657,7 @@
      "do": "Draw the pond board. Put 16 fish tokens in the pond. Give each player a bowl. Put the year marker on Year 1.",
      "say": "This pond has 16 fish. We are three villagers, and we all live from this pond. Fish have young every year. Let's find out how many we can catch.",
      "kid": "Draw a pond. Put 16 beans in it. Each player gets a bowl.",
-     "parent": "Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now."
+     "parent": "Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now. Dried beans can choke a child under five, so keep them away from little ones."
     },
     {
      "id": "s2",
@@ -944,7 +944,7 @@
    "context": "In this experiment, you estimate how many beans are in a jar by marking some, mixing them back and scooping again. Scientists use the same trick to count fish and tigers.",
    "question": "If you mark 40 beans, mix them back into a jar and scoop again, can the number of marked beans in the scoop tell you how many beans are in the whole jar?",
    "predict": "Before you start, guess how many beans are in the jar just by looking. Then guess whether a few scoops can give a better answer than your eyes. Why do you think so?",
-   "fair_test": "Every scoop uses the same small katori, and you shake the jar the same way before each scoop. You return all the beans to the jar each time, so the jar never changes. Only the scoop changes, so any difference between estimates comes from chance, and from how many scoops you take.",
+   "fair_test": "Every scoop uses the same small spoon, and you shake the jar the same way before each scoop. You return all the beans to the jar each time, so the jar never changes. Only the scoop changes, so any difference between estimates comes from chance, and from how many scoops you take.",
    "results_table": [
     "Scoop number",
     "Beans in the scoop (C)",
@@ -966,7 +966,7 @@
      "qty": 1
     },
     {
-     "item": "a small steel katori or a quarter-cup measure that holds about 40 beans",
+     "item": "a tablespoon or a small scoop that holds about 30 to 40 chickpeas (test it first; a katori is too big for 240 beans)",
      "qty": 1
     },
     {
@@ -982,7 +982,7 @@
      "qty": 1
     }
    ],
-   "safety": "Dried beans can choke a child under five, so keep them away from little ones. Do not eat the marked beans. Use the marker pen in an open room and keep the cap on when you are not using it.",
+   "safety": "Dried beans can choke a child under five, so keep them away from little ones. Do not eat the marked beans, and never eat raw rajma, which can make you ill. If anyone in the family is allergic to chickpeas or beans, let someone else handle them. Use the marker pen in an open room and keep the cap on when you are not using it.",
    "record": "Fill in the table with one row for each scoop. Write M, the number of beans you marked, at the top. At the end, write the average of your estimates, and the true number from under the lid.",
    "setup": [
     {
@@ -1030,10 +1030,10 @@
      "id": "s2",
      "mins": 5,
      "context": "In this step, you take the first scoop and mark every bean in it.",
-     "do": "Scoop one katori of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.",
+     "do": "Scoop one spoonful of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.",
      "say": "We take a scoop of beans and count them. Then we put a dot on each one. This is the number we marked.",
      "kid": "Scoop some beans. Count them. This is M. Put a dot on each bean.",
-     "parent": "A scoop usually holds 35 to 45 chickpeas. If your katori holds many more than 60, use a tablespoon, and scoop twice. M can be any number, as long as you count it exactly."
+     "parent": "Test your spoon first: it should hold about 30 to 40 chickpeas. If it holds many more than 60, use a smaller spoon. M can be any number, as long as you count it exactly."
     },
     {
      "id": "s3",
@@ -1058,7 +1058,7 @@
      "id": "s4",
      "mins": 8,
      "context": "In this step, you take the second scoop, count the marked beans and work out your first estimate.",
-     "do": "Scoop one katori from the jar onto the plate. Count all the beans in it, and write the number as C. Count the dotted ones, and write the number as R. Work out M times C, then divide by R.",
+     "do": "Scoop one spoonful from the jar onto the plate. Count all the beans in it, and write the number as C. Count the dotted ones, and write the number as R. Work out M times C, then divide by R.",
      "say": "Now the second scoop. How many beans in all? How many have a dot? If a fraction of this scoop is marked, a fraction of the whole jar is marked too.",
      "kid": "Scoop again. Count all the beans. Count the dots. Work out the estimate.",
      "check": {
@@ -1154,7 +1154,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not taste any of the liquids. Pour the soapy and salty water down the drain at the end, not on garden plants. Wash your hands after touching the towels. A little white fuzz on the paper towel is mould, so do not breathe it in. A grown-up throws away the towels and seeds in a closed bag.",
+   "safety": "Do not taste any of the liquids. If anyone in the family is allergic to moong or other pulses, a grown-up handles the seeds. Pour the soapy and salty water down the drain at the end, not on garden plants. Wash your hands after touching the towels. A little white fuzz on the paper towel is mould, so do not breathe it in. A grown-up throws away the towels and seeds in a closed bag.",
    "schedule": [
     {
      "day": 1,
@@ -1345,7 +1345,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the bottles with scissors or a knife. Rub the cut edge with a spoon handle so it is not sharp. Do the experiment on a tray or in a sink, as it will drip.",
+   "safety": "A grown-up cuts the bottles with scissors or a knife. Rub the cut edge with a spoon handle so it is not sharp. Do the experiment on a tray or in a sink, as it will drip. Wash your hands after touching the soil.",
    "record": "Fill in the table. Draw the four funnels in a row with a line showing the height of the material, and draw blue arrows to show how much water came out of each.",
    "setup": [
     {
@@ -2055,7 +2055,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. Wash your hands afterwards.",
+   "safety": "Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. If anyone in the family is allergic to pulses, mustard or fenugreek, a grown-up handles those seeds. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -3269,7 +3269,7 @@
  "jokes": [
   {
    "j": "Why did the marked bean feel important?",
-   "a": "It was spot on, and everyone kept counting it."
+   "a": "They were spot on, and everyone kept counting them."
   },
   {
    "j": "Why was the pond council so calm?",
