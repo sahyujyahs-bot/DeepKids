@@ -42,7 +42,7 @@
   },
   {
    "term": "Kilojoule",
-   "meaning": "1,000 joules. The short sign is kJ. Food labels in India often print it.",
+   "meaning": "1,000 joules. The short sign is kJ. Some food labels print it next to kilocalories.",
    "example": "A small biscuit packet label may say 400 kilojoules.",
    "art": "The back of a biscuit packet with a table of numbers and the word kilojoule circled."
   },
@@ -793,7 +793,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only look at the meter. Never open the meter box or touch the wires. A grown-up switches the big appliance on and off, because irons and kettles get very hot. Do not leave the big appliance running longer than the count needs.",
+   "safety": "Only look at the meter. Never open the meter box or touch the wires. A grown-up switches the big appliance on and off, because irons and kettles get very hot. Do not leave the big appliance running longer than the count needs. Keep hands dry and away from plugs and sockets, keep the iron on its stand and never leave it alone, and keep fingers out of the mixer grinder.",
    "record": "Write each appliance, how you counted, the seconds, and the watts you worked out. Add the rating plate watts and say if they are close.",
    "context": "In this experiment, you use the blinking light on your energy meter to find how many watts each appliance takes.",
    "setup": [
@@ -881,10 +881,10 @@
      "say": "Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the light. A grown-up will do the big one, and time ten blinks.",
      "kid": "Switch on one appliance. Count the blinks. Write the number. Switch it off.",
      "adult": true,
-     "parent": "Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit, with a fan: 7 blinks in 120 seconds is 7,875 joules. Divided by 120, that is 66 watts. If the base was 6 watts, the fan is about 60 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds.",
+     "parent": "Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds.",
      "check": {
       "t": "mcq",
-      "q": "At 3,200 blinks per unit, the meter blinks 7 times in 120 seconds with a fan on. Each blink is 1,125 joules. About how many watts is that?",
+      "q": "At 3,200 blinks per unit, switching on a fan adds 7 blinks in 120 seconds to the base count. Each blink is 1,125 joules. About how many watts is that?",
       "options": [
        "About 65 watts",
        "About 650 watts",
@@ -944,6 +944,7 @@
     }
    ],
    "record": "Write the joules of one lift, the joules of twenty lifts, and how many lifts equal one chapati.",
+   "safety": "Close the bottle cap tightly. Lift with bent knees and a straight back, and put the bottle down gently. Keep your feet clear of the bottle. Stop if you feel tired or your back hurts.",
    "context": "In this activity, you feel what a joule is by lifting an apple and a bottle. Then you compare your lifting with the energy in a chapati.",
    "setup": [
     {
@@ -1052,6 +1053,7 @@
     }
    ],
    "record": "A table with the appliance, its watts, the hours it runs in a day, the watt-hours, and the order from most to least.",
+   "safety": "Read the plates only on appliances that are switched off and cool. A grown-up reads the geyser plate and moves the heavy things. Stand on the floor, never on a chair. Do not pull plugs or open anything.",
    "context": "In this activity, you find the watts on eight appliances and work out which one uses the most energy in a day.",
    "setup": [
     {
@@ -1106,14 +1108,14 @@
      "parent": "A geyser of 2,000 watts for half an hour is 1,000 watt-hours. A fan of 60 watts for 12 hours is 720. A fridge of 150 watts running half the time over 24 hours is 1,800. Often the fridge or the air conditioner is the biggest. Watch for the child who finds the quiet fridge beats the loud mixer.",
      "check": {
       "t": "mcq",
-      "q": "A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for half an hour. Which uses more energy?",
+      "q": "A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for 15 minutes. Which uses more energy?",
       "options": [
        "The geyser, because it has more watts",
        "The fan, because it runs much longer",
        "They use the same"
       ],
       "a": 1,
-      "why": "The fan uses 60 times 12, which is 720 watt-hours. The geyser uses 2,000 times 0.5, which is 1,000 watt-hours. So the geyser uses more. If you picked the fan, check the sum again. The point is that you must multiply, because time matters as much as watts."
+      "why": "The fan uses 60 times 12, which is 720 watt-hours. The geyser uses 2,000 times a quarter of an hour, which is 500 watt-hours. So the fan uses more. If you picked the geyser, you looked only at the watts. You must multiply, because time matters as much as watts."
      },
      "context": "In this step, you work out the energy each appliance uses in a day."
     }
@@ -1233,7 +1235,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "an LED bulb in a lamp, a phone charger, a ceiling fan motor, and a laptop that have been on for at least 10 minutes",
+     "item": "an LED bulb in a lamp, a phone charger, a table fan motor (a ceiling fan is too high to touch safely), and a laptop that have been on for at least 10 minutes",
      "qty": 4
     },
     {
@@ -1660,7 +1662,7 @@
   },
   {
    "t": "mcq",
-   "p": "Burned on a plate, a chapati would let out its energy in seconds. Your body lets it out over about an hour at 100 watts. What does this show?",
+   "p": "Burned on a plate, a chapati would let out its energy in a few minutes. Your body lets it out over about an hour at 100 watts. What does this show?",
    "opts": [
     "The same joules can come out at very different watts",
     "The body makes less energy than fire",

@@ -285,7 +285,7 @@
  "challenging": [
   {
    "claim": "Each taste has its own zone on the tongue, with sweet at the tip and bitter at the back.",
-   "who": "This 'tongue map' was drawn in a textbook in 1942 and then copied into school books for decades.",
+   "who": "This 'tongue map' was drawn in a book in 1942 and then copied into school books for decades.",
    "for": "Some zones are a little more sensitive to some tastes. The tip is quite good at sweet, and the back is quite good at bitter.",
    "against": "In 1974 Virginia Collings, and many scientists after her, found that every taste is sensed in every zone. The differences are small. Your own blind test shows this.",
    "status": "rejected"
@@ -429,7 +429,7 @@
    },
    {
     "source": "Thich Nhat Hanh, The Miracle of Mindfulness (1975), the tangerine",
-    "teaching": "The Buddhist teacher Thich Nhat Hanh asks us to eat a tangerine slowly, giving it our whole attention. He says that a tangerine eaten without attention is hardly eaten at all.",
+    "teaching": "The Buddhist teacher Thich Nhat Hanh asks us to eat a tangerine slowly, giving it our whole attention. He says that if our mind is somewhere else, we are not really eating the tangerine.",
     "link": "The tongue test is a way of paying attention to taste. When you slow down, a taste is no longer one word, sweet, but a whole small world."
    }
   ],
@@ -509,11 +509,11 @@
      "qty": 1
     },
     {
-     "item": "a bowl for spitting, a tissue to dry the tongue, a pencil and the results table",
+     "item": "a bowl for spitting, a tissue to dry the tongue, paper, a pencil, coloured pencils and the results table",
      "qty": 1
     }
    ],
-   "safety": "Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. Use a new bud for every touch, and never put a used bud back in a cup. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
+   "safety": "Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up does the grating. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
    "record": "Write the taste that was said and the strength from 0 to 3 for every touch. Then colour a drawing of the tongue to show where each taste was named correctly.",
    "context": "In this experiment, you test the tongue map from old books. You touch tiny drops of four tastes to different parts of the tongue, with the tester's eyes shut.",
    "setup": [
@@ -600,7 +600,7 @@
        ]
       }
      ],
-     "parent": "The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. Bitter is last on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.",
+     "parent": "The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.",
      "check": {
       "t": "mcq",
       "q": "Your child says 'sweet' for a touch of plain water. What does that mean for the test?",
@@ -631,7 +631,7 @@
    "title": "Wake Up the Moong: what do soaking and sprouting change in a seed?",
    "mins": 74,
    "days": 3,
-   "question": "Does a moong seed that has been soaked, or soaked and sprouted, cook faster than a dry one? And how much heavier does it get?",
+   "question": "Does a moong seed that has been soaked, or soaked and sprouted, cook faster than a dry one? And how much heavier do the seeds get?",
    "predict": "Before you start, guess. Which will cook softest first: dry moong, soaked moong or sprouted moong? Why do you think so?",
    "fair_test": "All three batches start as 50 grams of the same moong. They cook in the same amount of water, in pans of the same size, on the same low flame. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each batch is tested for softness the same way, by pressing one cooled seed between thumb and finger.",
    "results_table": [
@@ -660,7 +660,7 @@
      "qty": 1
     },
     {
-     "item": "3 small pans of the same size, 450 millilitres of water, a spoon and a plate",
+     "item": "3 small pans of the same size, water (300 millilitres for soaking and 450 millilitres for cooking), a spoon and a plate",
      "qty": 3
     },
     {
@@ -668,7 +668,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cooking, because the pans and the steam are hot. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them.",
+   "safety": "A grown-up does the cooking, because the pans and the steam are hot, and a grown-up lifts the seeds out with a spoon. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them.",
    "record": "Write the weights, the tail length and the cooking times in the table. Draw the three kinds of seed: dry, soaked and sprouted. Then write what you thought, what you saw and why.",
    "context": "In this experiment, you wake up moong seeds by soaking and sprouting them. Then you cook all three batches and time how long each takes to turn soft.",
    "setup": [
@@ -717,9 +717,9 @@
       {
        "q": "What do you think the moong in water will do overnight?",
        "good": [
-        "It will get bigger.",
-        "It will soak up the water.",
-        "It might start to grow."
+        "The seeds will get bigger.",
+        "They will soak up the water.",
+        "They might start to grow."
        ]
       }
      ],
@@ -733,7 +733,7 @@
      "say": "The seeds have soaked all night. Let us weigh them. Bowl B goes to the fridge in water. Bowl C goes in the sieve, to grow.",
      "kid": "Drain B and C. Weigh them. B goes in the fridge. C goes in the sieve under a damp cloth.",
      "wait": "Leave C to sprout for about a day, rinsing the seeds in the morning and evening.",
-     "parent": "In a warm kitchen, tiny white tails show by the next morning. In cool weather, sprouting can take two days. If C is not sprouting, keep it warm and give it another day. Do not let it sit in water, or it will go sour.",
+     "parent": "In a warm kitchen, tiny white tails show by the next morning. In cool weather, sprouting can take two days. If C is not sprouting, keep it warm and give it another day. Do not let the seeds sit in water, or they will go sour. If sprouts smell bad or feel slimy, throw them away.",
      "check": {
       "t": "mcq",
       "q": "The soaked moong weighs more than the dry moong. Where did the extra weight come from?",
@@ -743,7 +743,7 @@
        "Dirt from the bowl"
       ],
       "a": 0,
-      "why": "A dry seed has very little water. It soaks up water through its skin and swells. The extra weight is water, so the soaked seed weighs more."
+      "why": "A dry seed has very little water. The seed soaks up water through their skin and swells. The extra weight is water, so the soaked seed weighs more."
      },
      "context": "In this step, you drain and weigh the soaked seeds, and set one batch to sprout."
     },
@@ -793,7 +793,7 @@
        "The dry moong is a different seed"
       ],
       "a": 0,
-      "why": "All three pans had the same seeds and the same flame. Only the preparation changed. A seed that has taken in water and begun to grow has already started to soften inside, so it cooks faster."
+      "why": "All three pans had the same seeds and the same flame. Only the preparation changed. A seed that has taken in water and begun to grow has already started to soften inside, so the seed cooks faster."
      },
      "context": "In this step, you cook all three batches and time how long each takes to turn soft."
     },
@@ -804,7 +804,7 @@
      "say": "Tell me three things. What did you think would happen? What did you find? Why do you think it came out that way?",
      "kid": "Look at your numbers. Say what you thought, what you found, and why.",
      "think": "People soak dal before cooking, and sprout moong for salads. What might they have noticed?",
-     "parent": "Most families find that the dry moong takes much the longest, the soaked moong is quicker, and the sprouted moong quickest of all. If your numbers do not follow this, say so. After your child has said what they found, explain: soaking lets water in and starts the seed waking up. Sprouting goes further. The seed makes enzymes that break down some of the stored food, and it makes a little vitamin C, which dry seeds do not have. The card on old ways of preparing food says more.",
+     "parent": "Most families find that the dry moong takes much the longest, the soaked moong is quicker, and the sprouted moong quickest of all. If your numbers do not follow this, say so. After your child has said what they found, explain: soaking lets water in and starts the seed waking up. Sprouting goes further. The seed makes enzymes that break down some of the stored food, and makes a little vitamin C, which dry seeds do not have. The card on old ways of preparing food says more.",
      "context": "This is the last step of Wake Up the Moong. You compare your numbers and say what they show."
     }
    ]
@@ -1072,7 +1072,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.",
+   "safety": "A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Use ground pepper, not whole peppercorns, which can be a choking risk. Skip any ingredient that anyone is allergic to. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.",
    "record": "Write each taste and its strength from 0 to 3. Then write the strength of the mixed pachadi, and which taste is the boss.",
    "context": "In this activity, you taste six ingredients one by one, and then mix them into a small pachadi. You find out what it takes to keep six tastes in balance.",
    "setup": [
@@ -1339,7 +1339,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in April. Onam sadya goes in August or September, and Diwali sweets in October or November.",
+     "do": "Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in January (Magh Bihu) or April (Bohag Bihu). Onam sadya goes in August or September, and Diwali sweets in October or November.",
      "say": "Here is a wheel of the year. Let us put six festival foods on it, one in each month where it belongs.",
      "kid": "Draw a wheel with 12 months. Put six festival foods in their months.",
      "ask": [
@@ -1873,7 +1873,7 @@
      "a": [
       "water"
      ],
-     "why": "A dry seed has very little water. It soaks water in through its skin and swells. The extra weight is the water.",
+     "why": "A dry seed has very little water. The seed soaks water in through their skin and swells. The extra weight is the water.",
      "outcome": 5
     },
     {
@@ -2518,7 +2518,7 @@
    "why_maths": "A ratio shows how many times bigger one amount is than another, and doubling the amount of food doubles the amount of calcium."
   },
   {
-   "problem": "A child needs about 1,600 kilocalories a day. Advice from the World Health Organization is that sugar added to food and drink should be less than one tenth of that energy. One gram of sugar gives about 4 kilocalories. What is the most added sugar in grams for one day? A 250 millilitre bottle of a sweet drink has 10 grams of sugar in every 100 millilitres. Is the sugar in the bottle more than half of the day's limit?",
+   "problem": "Suppose a child eats about 1,600 kilocalories a day. Advice from the World Health Organization is that sugar added to food and drink should be less than one tenth of that energy. One gram of sugar gives about 4 kilocalories. What is the most added sugar in grams for one day? A 250 millilitre bottle of a sweet drink has 10 grams of sugar in every 100 millilitres. Is the sugar in the bottle more than half of the day's limit?",
    "answer": "160 kilocalories, which is 40 grams of sugar. The bottle has 25 grams, which is more than half of 40.",
    "explain": "One tenth of 1,600 is 160 kilocalories. 160 divided by 4 is 40 grams. 250 millilitres is 2 and a half times 100 millilitres, so the bottle holds 2 and a half times 10 grams, which is 25 grams. Half of 40 is 20, and 25 is more than 20.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -2631,7 +2631,7 @@
   },
   {
    "j": "Why did the moong seed go to the spa?",
-   "a": "It wanted a good long soak before it woke up."
+   "a": "They wanted a good long soak before they woke up."
   },
   {
    "j": "Why did the karela go to school?",
@@ -2647,7 +2647,7 @@
   },
   {
    "j": "Why did the sprout get promoted?",
-   "a": "It was always growing on the job."
+   "a": "They were always growing on the job."
   },
   {
    "j": "Why does the laddu only come on special days?",

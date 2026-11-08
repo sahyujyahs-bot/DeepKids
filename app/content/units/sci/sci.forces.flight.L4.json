@@ -227,7 +227,7 @@
    "concept": "Flying in each other's air: wakes and the V",
    "status": "debated",
    "definition": "A flyer leaves moving air behind. A bird that flies in the right place can be lifted by that air and save energy.",
-   "description": "A wing makes lift by pushing air down. Behind the wing tips, the air curls round into two spinning whirls. Outside the wing tips, that air goes up. This rising air is called upwash. A bird that flies just behind and to the side of another can be lifted by it. In 2014, scientists put tiny trackers on northern bald ibises that were flying in a V behind a microlight. They found that each ibis put her wing tip in the right place, and flapped in step with the bird ahead to catch the upwash. In 2001, researchers measured the heartbeat of great white pelicans flying in a line and found it was slower than when they flew alone. Early sums from 1970 said a big V could save a great deal of energy. Measurements on live birds find smaller savings, but still real. Cyclists use the same idea when they follow in a line.",
+   "description": "A wing makes lift by pushing air down. Behind the wing tips, the air curls round into two spinning whirls. Outside the wing tips, that air goes up. This rising air is called upwash. A bird that flies just behind and to the side of another can be lifted by her. In 2014, scientists put tiny trackers on northern bald ibises that were flying in a V behind a microlight. They found that each ibis put her wing tip in the right place, and flapped in step with the bird ahead to catch the upwash. In 2001, researchers measured the heartbeat of great white pelicans flying in a line and found it was slower than when they flew alone. Early sums from 1970 said a big V could save a great deal of energy. Measurements on live birds find smaller savings, but still real. Cyclists use the same idea when they follow in a line.",
    "examples": [
     "Ibises flapping in step with the bird ahead to catch her upwash.",
     "Cyclists riding in a line, taking turns at the front.",
@@ -367,7 +367,7 @@
    "hint": "Think about what a small animal cannot do, as well as what she can."
   },
   {
-   "q": "Sarla Thakral flew a plane alone in 1936, at the age of 21, and became India's first woman to hold a pilot's licence. Why do some stories of flight get told more than others?",
+   "q": "Sarla Thakral flew a plane alone in 1936, at the age of 21, and earned her pilot's licence, and she is often called India's first woman pilot. Why do some stories of flight get told more than others?",
    "kind": "big",
    "hint": "Think about whose names you were told, and whose you had to look up."
   },
@@ -381,7 +381,7 @@
   "title": "The Wind's Shadow",
   "mins": 10,
   "read_aloud": true,
-  "note": "A made-up story. The place is real: the quiet road from Vedaranyam towards Kodiyakarai (Point Calimere) in Tamil Nadu, where flamingos come in winter. The science is real. A rider close behind another rider feels less push from the air, because the front rider leaves a calmer patch of air behind her. Studies of cyclists find about a quarter less drag for the rider behind. Riders in a line take turns at the front.",
+  "note": "A made-up story. The place is real: the quiet road from Vedaranyam towards Kodiyakarai (Point Calimere) in Tamil Nadu, where flamingos come in winter. The science is real. A rider close behind another rider feels less push from the air, because the front rider leaves a calmer patch of air behind her. Studies of cyclists find clearly less drag for the rider behind, with the size of the saving depending on how close the riders are. Riders in a line take turns at the front.",
   "text": [
    "Thendral was the smallest girl in Class 4 at the panchayat school in Vedaranyam, and she had the oldest cycle. It had one speed, a squeaky bell, and a seat that her mother had lowered with a spanner that morning.",
    "Every November, the school held a cycle rally to Kodiyakarai, where the flamingos come to the salt flats. The ride was twelve kilometres along a straight road, with open sky on both sides. The first team to reach the sanctuary gate would look through Mrs Selvarani's binoculars before anyone else.",
@@ -865,16 +865,16 @@
    ],
    "materials": [
     {
-     "item": "a thin polythene carry bag, or a light plastic sheet, to cut two squares from",
+     "item": "a thin polythene carry bag, or a light plastic sheet, to cut four squares from (one 20 centimetres wide and three 40 centimetres wide)",
      "qty": 1
     },
     {
-     "item": "thread or thin string, cut into 8 pieces each 30 centimetres long",
-     "qty": 8
+     "item": "thread or thin string, cut into 12 pieces each 30 centimetres long",
+     "qty": 12
     },
     {
-     "item": "5 identical coins, such as one-rupee coins, each about 4 grams",
-     "qty": 5
+     "item": "7 identical coins, such as one-rupee coins, each about 4 grams",
+     "qty": 7
     },
     {
      "item": "sticky tape and a pair of scissors",
@@ -1071,6 +1071,7 @@
      "qty": 1
     }
    ],
+   "safety": "Throw only when nobody is in front of you, and never at a face. Keep the pointed nose away from eyes.",
    "record": "For each plane, write what the nose does, where it lands, and whether it turns. Draw the path of each plane from above, with the start line and the landing spot.",
    "context": "In this experiment, you fold a paper plane, bend the back edges of its wings in different ways, and watch how each bend changes the flight.",
    "setup": [
@@ -1335,6 +1336,7 @@
      "what": "Pull a spoon and a ruler through the pepper and watch the whirls behind each."
     }
    ],
+   "safety": "Keep pepper away from eyes and noses, and skip it if anyone is allergic to pepper or turmeric. Wipe up spilled water at once so nobody slips.",
    "record": "Draw the pepper on the water behind the round spoon and behind the flat ruler. Say which one left the bigger whirls, and for how long they kept turning.",
    "context": "In this activity, you pull two shapes through water covered with pepper, to see the wake that each one leaves behind.",
    "setup": [
@@ -1439,7 +1441,7 @@
      "what": "Light one incense stick. Swish a card near the smoke and watch the whirls."
     }
    ],
-   "safety": "A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma or breathing trouble, and use Whirls Behind a Spoon instead. Open a window when you finish.",
+   "safety": "A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma or breathing trouble, and use Whirls Behind a Spoon instead. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.",
    "record": "Draw the smoke line before the swish, and the whirls after it. Write how long the whirls kept turning.",
    "context": "In this activity, you swish a card through a thin line of smoke and watch the air keep moving after the card has stopped.",
    "setup": [
@@ -1875,6 +1877,7 @@
      "what": "Watch crows, pigeons, kites or egrets for 20 minutes, and record lines, tails and tilts."
     }
    ],
+   "safety": "Never look at the Sun, with or without binoculars. Stay behind the railing on a balcony or terrace.",
    "record": "A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Add a drawing of one bird turning.",
    "context": "In this activity, you watch real birds near your home, and see how they use their tails and wings to steer and how they fly in lines.",
    "setup": [
@@ -2176,7 +2179,7 @@
        ]
       }
      ],
-     "parent": "Remind your child of the cup in the fan (The Card in the Fan activity), if they did it. Anna Mani, an Indian physicist from Kerala, led the making of wind meters like this one for India's weather stations.",
+     "parent": "Remind your child of the cup in the fan (The Card in the Fan activity), if they did it. Anna Mani, an Indian physicist from Kerala, led work on making wind and sunshine instruments for India's weather service.",
      "context": "This is the first step of the Cup Wind Meter. You guess before you build."
     },
     {

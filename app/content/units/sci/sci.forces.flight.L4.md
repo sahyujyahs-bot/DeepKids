@@ -87,7 +87,7 @@ A flap on the back edge of a wing changes how much air that part of the wing pus
 ### Flying in each other's air: wakes and the V · *debated*
 **Definition:** A flyer leaves moving air behind. A bird that flies in the right place can be lifted by that air and save energy.
 
-A wing makes lift by pushing air down. Behind the wing tips, the air curls round into two spinning whirls. Outside the wing tips, that air goes up. This rising air is called upwash. A bird that flies just behind and to the side of another can be lifted by it. In 2014, scientists put tiny trackers on northern bald ibises that were flying in a V behind a microlight. They found that each ibis put her wing tip in the right place, and flapped in step with the bird ahead to catch the upwash. In 2001, researchers measured the heartbeat of great white pelicans flying in a line and found it was slower than when they flew alone. Early sums from 1970 said a big V could save a great deal of energy. Measurements on live birds find smaller savings, but still real. Cyclists use the same idea when they follow in a line.
+A wing makes lift by pushing air down. Behind the wing tips, the air curls round into two spinning whirls. Outside the wing tips, that air goes up. This rising air is called upwash. A bird that flies just behind and to the side of another can be lifted by her. In 2014, scientists put tiny trackers on northern bald ibises that were flying in a V behind a microlight. They found that each ibis put her wing tip in the right place, and flapped in step with the bird ahead to catch the upwash. In 2001, researchers measured the heartbeat of great white pelicans flying in a line and found it was slower than when they flew alone. Early sums from 1970 said a big V could save a great deal of energy. Measurements on live birds find smaller savings, but still real. Cyclists use the same idea when they follow in a line.
 - e.g. Ibises flapping in step with the bird ahead to catch her upwash.
 - e.g. Cyclists riding in a line, taking turns at the front.
 - e.g. Flamingos and geese flying in a V or a long slanting line.
@@ -167,11 +167,11 @@ A bird and the sky around her look like two things. But in the smoke test, a car
 - *big:* Geese take turns at the front of the V. Is this sharing, or does each bird look after herself? (hint: Think about who works hardest at the front, and what the others gain.)
 - *deep:* After a big plane has taken off, other planes must wait a few minutes before they use the same runway. What are they waiting for? (hint: Think about what the plane leaves behind in the air.)
 - *big:* Small animals can fall from heights that would kill big ones. Does that mean small is better than big? (hint: Think about what a small animal cannot do, as well as what she can.)
-- *big:* Sarla Thakral flew a plane alone in 1936, at the age of 21, and became India's first woman to hold a pilot's licence. Why do some stories of flight get told more than others? (hint: Think about whose names you were told, and whose you had to look up.)
+- *big:* Sarla Thakral flew a plane alone in 1936, at the age of 21, and earned her pilot's licence, and she is often called India's first woman pilot. Why do some stories of flight get told more than others? (hint: Think about whose names you were told, and whose you had to look up.)
 - *deep:* When we say a bird uses the air, who is using whom? Could we say the air uses the bird? (hint: Think about the whirls left behind, and who catches them.)
 
 ## Story: The Wind's Shadow
-*A made-up story. The place is real: the quiet road from Vedaranyam towards Kodiyakarai (Point Calimere) in Tamil Nadu, where flamingos come in winter. The science is real. A rider close behind another rider feels less push from the air, because the front rider leaves a calmer patch of air behind her. Studies of cyclists find about a quarter less drag for the rider behind. Riders in a line take turns at the front.*
+*A made-up story. The place is real: the quiet road from Vedaranyam towards Kodiyakarai (Point Calimere) in Tamil Nadu, where flamingos come in winter. The science is real. A rider close behind another rider feels less push from the air, because the front rider leaves a calmer patch of air behind her. Studies of cyclists find clearly less drag for the rider behind, with the size of the saving depending on how close the riders are. Riders in a line take turns at the front.*
 
 Thendral was the smallest girl in Class 4 at the panchayat school in Vedaranyam, and she had the oldest cycle. It had one speed, a squeaky bell, and a seat that her mother had lowered with a spanner that morning.
 
@@ -332,6 +332,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 - **question:** If you bend the back edges of a paper plane's wings, can you steer it? Which bend makes it climb, which makes it dive and which makes it turn?
 - **predict:** Before you start, guess. What will a plane do if you bend the back edges of both wings up? What will it do if you bend one up and one down? Why do you think so?
 - **fair test:** You fold every plane the same way, from the same kind of paper, and throw each one at the same speed, level, from the same spot. Only the bends at the back of the wings change. Each plane is thrown three times, because one throw can be spoilt by a wobbly arm. The plane with no bends is the control. It shows how the plane flies with no steering.
+- **safety:** Throw only when nobody is in front of you, and never at a face. Keep the pointed nose away from eyes.
 - **record:** For each plane, write what the nose does, where it lands, and whether it turns. Draw the path of each plane from above, with the start line and the landing spot.
 - **results table:** Bends at the back of the wings | What the nose does | Where it lands (steps from the start, and left or right) | Turn left, turn right, climb or dive?
 - **s1 (4 min)**  
@@ -389,6 +390,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Child mode:* Which way got the most push? Which got the least?
   - Think: Why does an open umbrella pull so hard in the wind?
 ### a2 · Whirls Behind a Spoon: the wake in a tray (20 min)
+- **safety:** Keep pepper away from eyes and noses, and skip it if anyone is allergic to pepper or turmeric. Wipe up spilled water at once so nobody slips.
 - **record:** Draw the pepper on the water behind the round spoon and behind the flat ruler. Say which one left the bigger whirls, and for how long they kept turning.
 - **s1 (5 min)**  
   *Parent does:* Fill the tray with 2 centimetres of water. Wait until the water is still. Sprinkle a very thin layer of pepper over it. Ask your child to guess which shape will leave the bigger swirl behind it.  
@@ -409,7 +411,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Child mode:* The spoon stopped. Why does the water keep moving?
   - Think: If the water behind the spoon keeps moving, what does it have that it did not have before?
 ### a3 · Swish in the Smoke: what a card leaves in the air (15 min)
-- **safety:** A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma or breathing trouble, and use Whirls Behind a Spoon instead. Open a window when you finish.
+- **safety:** A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma or breathing trouble, and use Whirls Behind a Spoon instead. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.
 - **record:** Draw the smoke line before the swish, and the whirls after it. Write how long the whirls kept turning.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* A grown-up lights the incense stick and puts it in the holder. Close the windows and turn off the fans. Wait until the smoke rises in a thin, straight ribbon. Ask your child what the card will do to the smoke.  
@@ -491,6 +493,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Child mode:* What did the book do to the wind? How could a cyclist use that?
   - Think: What if the rider in front gets tired? What could the line do?
 ### a7 · Flock Watch: lines, tails and tilts (20 min)
+- **safety:** Never look at the Sun, with or without binoculars. Stay behind the railing on a balcony or terrace.
 - **record:** A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Add a drawing of one bird turning.
 - **s1 (3 min)**  
   *Parent does:* Choose a spot with a view of the sky, such as a window, a balcony or a terrace. Write the three things to look for: lines, spread tails and tilting wings.  
@@ -552,7 +555,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Parent says:* We will make a wind meter, with four cups. Each cup has an open side and a rounded back. Which do you think the wind pushes harder? Why?  
   *Child mode:* A cup has an open side and a rounded back. Which gets pushed more?
   - Ask: Which part of the cup will the wind push harder, and why? (good: The open side, because it catches the air.; The rounded back.; The open side has more air to push on.)
-  - Note: Remind your child of the cup in the fan (The Card in the Fan activity), if they did it. Anna Mani, an Indian physicist from Kerala, led the making of wind meters like this one for India's weather stations.
+  - Note: Remind your child of the cup in the fan (The Card in the Fan activity), if they did it. Anna Mani, an Indian physicist from Kerala, led work on making wind and sunshine instruments for India's weather service.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Cross the two straws in the middle, and push a pin through both. Staple a cup to each end of each straw, so all four cups face the same way round. Push the pin into the rubber of the pencil. Blow gently to make sure it spins freely. Colour one cup with a marker.  
   *Parent says:* Cross the straws and push the pin through the middle. Staple a cup to each end. The open sides must all face the same way round. Push the pin into the pencil rubber, and blow to test it.  

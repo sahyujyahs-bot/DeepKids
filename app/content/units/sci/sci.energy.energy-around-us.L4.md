@@ -18,7 +18,7 @@
 - **Energy**: What is needed to make anything happen: to move, heat up, light up or make a sound. *e.g.* A fan needs energy from the wall socket to turn.
 - **Form of energy**: A name for what the energy is doing right now, such as movement, heat, light, sound, electrical or stored. *e.g.* In a lit torch, the cell holds stored energy, the wires carry electrical energy, and the bulb gives out light and a little heat.
 - **Joule**: The unit for counting how much energy there is. The short sign is J. *e.g.* Lifting a 100 gram apple up by 1 metre takes about 1 joule.
-- **Kilojoule**: 1,000 joules. The short sign is kJ. Food labels in India often print it. *e.g.* A small biscuit packet label may say 400 kilojoules.
+- **Kilojoule**: 1,000 joules. The short sign is kJ. Some food labels print it next to kilocalories. *e.g.* A small biscuit packet label may say 400 kilojoules.
 - **Kilocalorie**: An older unit for food energy. One kilocalorie is about 4.2 kilojoules. People often just say calorie. *e.g.* One chapati holds about 100 kilocalories, which is about 420 kilojoules.
 - **Power**: How fast energy moves from one place to another, or from one form to another. *e.g.* A kettle changes energy much faster than a fan, so the kettle has more power.
 - **Watt**: The unit for power. One watt means one joule of energy moving every second. The short sign is W. *e.g.* A 9 watt bulb takes 9 joules from the wall every second.
@@ -302,7 +302,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 - **question:** Can the blinking light on the energy meter tell us how many watts each appliance takes, and does it match the rating plate?
 - **predict:** Before you start, guess. Which appliance will make the meter light blink fastest? Which will blink slowest? Why do you think so?
 - **fair test:** Everything else in the home stays the same while you test one appliance. First you measure the home with the appliance off, and then with it on. The difference is the appliance alone. You use the same stopwatch and the same way of counting each time.
-- **safety:** Only look at the meter. Never open the meter box or touch the wires. A grown-up switches the big appliance on and off, because irons and kettles get very hot. Do not leave the big appliance running longer than the count needs.
+- **safety:** Only look at the meter. Never open the meter box or touch the wires. A grown-up switches the big appliance on and off, because irons and kettles get very hot. Do not leave the big appliance running longer than the count needs. Keep hands dry and away from plugs and sockets, keep the iron on its stand and never leave it alone, and keep fingers out of the mixer grinder.
 - **record:** Write each appliance, how you counted, the seconds, and the watts you worked out. Add the rating plate watts and say if they are close.
 - **results table:** Appliance | Joules counted | Seconds | Watts, all on | Watts of the appliance alone | Rating plate watts
 - **s1 (4 min)**  
@@ -327,8 +327,8 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent does:* Switch on one appliance. For a slow blink, count blinks for 120 seconds. For a fast blink, time how long 10 blinks take. Switch it off. Do the fan, the light, and then the big appliance.  
   *Parent says:* Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the light. A grown-up will do the big one, and time ten blinks.  
   *Child mode:* Switch on one appliance. Count the blinks. Write the number. Switch it off.
-  - Note: Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit, with a fan: 7 blinks in 120 seconds is 7,875 joules. Divided by 120, that is 66 watts. If the base was 6 watts, the fan is about 60 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds.
-  - Check: At 3,200 blinks per unit, the meter blinks 7 times in 120 seconds with a fan on. Each blink is 1,125 joules. About how many watts is that? → **About 65 watts**
+  - Note: Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds.
+  - Check: At 3,200 blinks per unit, switching on a fan adds 7 blinks in 120 seconds to the base count. Each blink is 1,125 joules. About how many watts is that? → **About 65 watts**
 - **s5 (4 min)**  
   *Parent does:* Find the rating plate on each appliance. Compare it with your watts. Then ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Does your number match the rating plate? Tell me what you thought, what you saw, and why you think it came out that way.  
@@ -338,6 +338,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 
 ## Activities
 ### a1 · A Ladder of Lifts: how many joules is that? (20 min)
+- **safety:** Close the bottle cap tightly. Lift with bent knees and a straight back, and put the bottle down gently. Keep your feet clear of the bottle. Stop if you feel tired or your back hurts.
 - **record:** Write the joules of one lift, the joules of twenty lifts, and how many lifts equal one chapati.
 - **s1 (4 min)**  
   *Parent does:* Hold the apple. Lift it up from your hip to above your head, about one metre. Say that this small lift is about 1 joule. Ask what a bottle ten times heavier would need.  
@@ -358,6 +359,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this is if none of the chapati's energy were wasted. Your muscles use about four times what the lift needs, so in real life about 13,000 lifts. A chapati could keep you lifting for hours.
   - Check: A chapati holds about 420,000 joules. Lifting the bottle once takes about 10 joules. About how many lifts is that? → **About 42,000 lifts**
 ### a2 · Rating Plate Hunt: the watts in our home (20 min)
+- **safety:** Read the plates only on appliances that are switched off and cool. A grown-up reads the geyser plate and moves the heavy things. Stand on the floor, never on a chair. Do not pull plugs or open anything.
 - **record:** A table with the appliance, its watts, the hours it runs in a day, the watt-hours, and the order from most to least.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to guess which of eight appliances uses the most energy in a day, and why. Write the guess down.  
@@ -375,7 +377,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent says:* Now guess the hours each one runs in a day. Multiply watts by hours. Which one is biggest? Is it the one you guessed?  
   *Child mode:* Guess the hours. Multiply watts by hours. Which is biggest?
   - Note: A geyser of 2,000 watts for half an hour is 1,000 watt-hours. A fan of 60 watts for 12 hours is 720. A fridge of 150 watts running half the time over 24 hours is 1,800. Often the fridge or the air conditioner is the biggest. Watch for the child who finds the quiet fridge beats the loud mixer.
-  - Check: A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for half an hour. Which uses more energy? → **The fan, because it runs much longer**
+  - Check: A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for 15 minutes. Which uses more energy? → **The fan, because it runs much longer**
 ### a3 · Litres and Litres a Minute: amount and rate (15 min)
 - **record:** Write the seconds to fill the bottle slowly and fast, and the litres a minute for each.
 - **s1 (3 min)**  
@@ -615,7 +617,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 8. (mcq) What is one unit of electricity on a bill?  
    Options: 3.6 million joules, the energy of a 1,000 watt appliance running for an hour / One joule / One watt for one second  
    **Answer:** 3.6 million joules, the energy of a 1,000 watt appliance running for an hour. *Why:* One unit is one kilowatt-hour. That is 1,000 watts for 3,600 seconds, which is 3.6 million joules.
-9. (mcq) Burned on a plate, a chapati would let out its energy in seconds. Your body lets it out over about an hour at 100 watts. What does this show?  
+9. (mcq) Burned on a plate, a chapati would let out its energy in a few minutes. Your body lets it out over about an hour at 100 watts. What does this show?  
    Options: The same joules can come out at very different watts / The body makes less energy than fire / A fire holds more energy than a body  
    **Answer:** The same joules can come out at very different watts. *Why:* The chapati holds the same joules either way. Only the speed of letting them out is different, and that speed is the power.
 10. (mcq) Churning water with a falling weight warmed the water by the same amount every time. What did this show?  

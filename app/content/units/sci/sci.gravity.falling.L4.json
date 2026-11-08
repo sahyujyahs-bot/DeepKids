@@ -3,12 +3,12 @@
  "title": "Falling: why a falling thing speeds up, and why it stops speeding up",
  "level": 4,
  "summary": {
-  "text": "A raindrop falls from a cloud two kilometres up and only taps your head. A stone dropped from a first-floor balcony would sting your toe. Your child finds out why, by dropping paper cups, a ball of dough while walking, and a marble into soft dough from three heights. They learn that a falling thing gains the same speed every second, until the push of the air matches the pull of the Earth. They see that sideways speed and falling do not disturb each other, why a mouse can fall safely and a horse cannot, and how Galileo's first idea about falling turned out to be wrong.",
+  "text": "A raindrop falls from a cloud two kilometres up and only taps your head. A stone dropped from a first-floor balcony would sting your toe. Your child finds out why, by dropping paper cupcake liners, a ball of dough while walking, and a marble into soft dough from three heights. They learn that a falling thing gains the same speed every second, until the push of the air matches the pull of the Earth. They see that sideways speed and falling do not disturb each other, why a mouse can fall safely and a horse cannot, and how Galileo's first idea about falling turned out to be wrong.",
   "art": "A raindrop high in a grey cloud and a small stone on a balcony rail, with a child's open hand below catching one raindrop on the palm."
  },
  "intro": {
   "hook": "A raindrop falls from a cloud about 2 kilometres up. A pebble dropped from a first-floor balcony, only 3 metres up, would sting your toe. How can a raindrop that falls so much farther be so gentle?",
-  "text": "If nothing slowed it, the raindrop would hit the ground at about 700 kilometres an hour. That is almost as fast as an aeroplane. But something does slow it. In this unit you find out what, by dropping paper cups and a ball of dough. You will also find out why a ball that you drop while walking does not land at your feet.",
+  "text": "If nothing slowed it, the raindrop would hit the ground at about 700 kilometres an hour. That is almost as fast as an aeroplane. But something does slow it. In this unit you find out what, by dropping paper cupcake liners and a ball of dough. You will also find out why a ball that you drop while walking does not land at your feet.",
   "art": "A raindrop drawn at three heights in the sky, small speed arrows beside it, and a pebble on a balcony rail above a child's bare foot."
  },
  "outcomes": [
@@ -140,7 +140,7 @@
    "description": "A falling thing has to push the air out of its way. The faster it goes, the more air particles it hits each second, and the harder it hits them. So the push of the air grows as the speed grows. A rough rule is that twice the speed gives four times the push. At the start the push of the air is tiny, and the pull of gravity wins, so the thing speeds up. At some speed the push of the air grows as big as the pull. The two are now equal, so nothing is left to speed the thing up. It falls at a steady speed. Gravity has not stopped pulling. The air is pushing back just as hard.",
    "examples": [
     "A big raindrop reaches about 30 kilometres an hour within a few metres of falling, and then falls at that steady speed all the way down.",
-    "A skydiver lying flat falls at about 200 kilometres an hour. If she pulls in her arms and legs and dives head first, she meets less air and falls faster, at about 300.",
+    "A skydiver lying flat falls at about 200 kilometres an hour. If she pulls in her arms and legs and dives head first, she meets less air and falls faster, at about 250 to 290.",
     "A peregrine falcon that folds her wings and dives passes 200 kilometres an hour."
    ],
    "perspectives": [],
@@ -151,9 +151,9 @@
    "concept": "A heavier thing of the same shape has a higher top speed",
    "status": "defined",
    "definition": "If two things have the same shape and size, the heavier one has the higher terminal speed. Four times the weight gives about twice the terminal speed.",
-   "description": "In a vacuum, heavy and light things fall together. In air, the shape and size also matter. Take two things of the same shape. The heavier one is pulled harder by the Earth. So the air has to push harder before the two forces are equal. The air pushes harder only when the thing goes faster. So the heavier thing must go faster before it stops speeding up. Because the push of the air grows as speed times speed, four times the push needs only twice the speed. That is why a stack of four paper cups falls much faster than one cup, but not four times faster.",
+   "description": "In a vacuum, heavy and light things fall together. In air, the shape and size also matter. Take two things of the same shape. The heavier one is pulled harder by the Earth. So the air has to push harder before the two forces are equal. The air pushes harder only when the thing goes faster. So the heavier thing must go faster before it stops speeding up. Because the push of the air grows as speed times speed, four times the push needs only twice the speed. That is why a stack of four cupcake liners falls much faster than one liner, but not four times faster.",
    "examples": [
-    "A cricket ball and a table-tennis ball are the same size. In air the cricket ball falls faster, because it is heavier.",
+    "A solid rubber ball and a hollow plastic ball are the same size. In air the rubber ball falls faster, because it is heavier.",
     "A stack of four cupcake liners reaches the floor before one cupcake liner.",
     "A big hailstone falls faster than a small one, because it has more weight for the same shape."
    ],
@@ -165,7 +165,7 @@
    "concept": "Sideways speed and falling are separate",
    "status": "defined",
    "definition": "A thing that moves sideways and falls does both at once. Gravity changes only the falling part. The sideways speed stays the same unless the air or something else pushes on it.",
-   "description": "Drop a ball while you walk. It does not fall straight down to the floor beneath your hand. It keeps moving forward at your walking speed while it falls. So it lands ahead of the spot where you let go. How far ahead? The time it takes to fall, times your walking speed. A fall from the height of your waist takes about half a second. At a walking speed of 1 metre a second, the ball lands about half a metre ahead. A ball rolled off a table and a ball dropped from the same height land at the same moment, because gravity pulls both of them down in the same way. Galileo showed in 1638 that the path of a thrown thing is a curve, and the curve is a sideways movement and a falling movement added together.",
+   "description": "Drop a ball while you walk. It does not fall straight down to the floor beneath your hand. It keeps moving forward at your walking speed while it falls. So it lands ahead of the spot where you let go. How far ahead? The time it takes to fall, times your walking speed. A fall from the height of your shoulder takes about half a second. At a walking speed of 1 metre a second, the ball lands about half a metre ahead. A ball rolled off a table and a ball dropped from the same height land at the same moment, because gravity pulls both of them down in the same way. Galileo showed in 1638 that the path of a thrown thing is a curve, and the curve is a sideways movement and a falling movement added together.",
    "examples": [
     "A ball rolled off a table and a ball dropped from the table's edge land at the same moment.",
     "A cricket ball hit for a six rises and falls along a curve. The falling part follows the same rule as a dropped ball.",
@@ -193,7 +193,7 @@
    "concept": "The old argument about a turning Earth",
    "status": "debated",
    "definition": "",
-   "description": "In 499 CE, the Indian astronomer Aryabhata wrote in his book the Aryabhatiya that the Earth turns once a day, and that the stars only seem to move west. He gave a picture: a person in a boat moving forward sees still things on the bank slide backward. Later astronomers disagreed. Varahamihira and Brahmagupta argued that if the Earth turned, things thrown into the air, and birds that left their nests, would be left behind. This was a sensible argument. What they did not have was the idea that a thing in the air keeps the sideways speed it had. Galileo gave this idea in the 1600s. A ball tossed up in a moving train shows it. Today nobody doubts that the Earth turns.",
+   "description": "In 499 CE, the Indian astronomer Aryabhata wrote in his book the Aryabhatiya that the Earth turns once a day, and that the stars only seem to move west. He gave a picture: a person in a boat moving forward sees still things on the bank slide backward. Later astronomers disagreed. As the argument is usually told, Varahamihira said that if the Earth turned, birds that left their nests could not find them again, and Brahmagupta is reported to have said the same of things thrown into the air. This was a sensible argument. What they did not have was the idea that a thing in the air keeps the sideways speed it had. Galileo gave this idea in the 1600s. A ball tossed up in a moving train shows it. Today nobody doubts that the Earth turns.",
    "examples": [
     "A bird that leaves a nest in a tree on the turning Earth still shares the Earth's sideways speed, so she can fly back to the same tree.",
     "A stone thrown straight up on the turning Earth lands back in your hand."
@@ -349,7 +349,7 @@
   {
    "claim": "Cats can fall from any height and walk away, because they land on their feet.",
    "who": "A popular belief, partly supported by a study of cats brought to a vet in New York in 1987.",
-   "for": "In that study, cats that fell from more than seven storeys had fewer injuries on average than cats that fell from fewer. Some scientists think the cats reach their top speed and relax.",
+   "for": "In that study, cats reported to have fallen from higher than about six or seven storeys had fewer injuries on average than cats that fell from fewer. Some scientists think the cats reach their top speed and relax.",
    "against": "Only cats that survive are taken to the vet, so we do not see the ones that did not. A long fall can still kill a cat.",
    "status": "debated"
   }
@@ -532,8 +532,8 @@
        "b": "Up. She meets less air, so she must fall faster before the push of the air matches her weight."
       },
       {
-       "f": "A cricket ball and a table-tennis ball are the same size. They are dropped together from a tall tower. Which lands first?",
-       "b": "The cricket ball. It is heavier, so it has a higher top speed in air."
+       "f": "A solid rubber ball and a hollow plastic ball are the same size. They are dropped together from a tall tower. Which lands first?",
+       "b": "The rubber ball. It is heavier, so it has a higher top speed in air."
       },
       {
        "f": "A hammer and a feather are dropped together on the airless Moon. Which lands first?",
@@ -698,8 +698,8 @@
    ],
    "materials": [
     {
-     "item": "4 paper cupcake liners, all exactly the same, or 4 shallow cones cut from newspaper (see step 2)",
-     "qty": 4,
+     "item": "5 paper cupcake liners, all exactly the same, or 5 shallow cones cut from newspaper (see step 2)",
+     "qty": 5,
      "buy": "b-liners"
     },
     {
@@ -719,7 +719,7 @@
      "qty": 1
     }
    ],
-   "safety": "The grown-up drops the liners while standing on the floor. Nobody stands on a chair or a stool. Keep the small liners away from very young children, who might put them in their mouths.",
+   "safety": "The grown-up drops the liners while standing on the floor. Nobody stands on a chair or a stool. Keep the small liners away from very young children, who might put them in their mouths. A grown-up does any cutting with scissors if you make newspaper cones.",
    "record": "For each stack, write the three times and the middle time. Then draw a bar chart with one bar for each stack, using the middle time.",
    "context": "In this experiment, you drop one cupcake liner and stacks of two, three and four liners. You find out whether a heavier stack of the same shape falls faster in air.",
    "setup": [
@@ -767,7 +767,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Check that all four liners are exactly alike. Stick a strip of tape on the wall at the height of the grown-up's raised hand. Always drop from this height. No liners? Cut four circles from newspaper, 12 centimetres wide, using a katori as a guide. Cut a slit to the middle of each and overlap the cut edges by 1 centimetre. Tape them into four shallow cones.",
+     "do": "Check that all five liners are exactly alike. Stick a strip of tape on the wall at the height of the grown-up's raised hand. Always drop from this height. No liners? Cut five circles from newspaper, 12 centimetres wide, using a katori as a guide. Cut a slit to the middle of each and overlap the cut edges by 1 centimetre. Tape them into five shallow cones.",
      "say": "All the liners must be the same. The drop height must be the same too. We will mark it on the wall.",
      "kid": "Check the four liners are the same. Put tape on the wall to mark the drop height.",
      "parent": "The grown-up should do every drop, holding the liners at the tape with a straight arm. A child on tiptoe changes the height each time. Press nested liners together so they act as one thing.",
@@ -888,7 +888,7 @@
      "qty": 1
     }
    ],
-   "safety": "Walk, never run. Wear shoes on a dry floor. Clear toys and mats from the path.",
+   "safety": "Walk, never run. Wear shoes on a dry floor. Clear toys and mats from the path. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, wash hands after, and wipe up crumbs so nobody slips.",
    "record": "Write the distance from the mark to the landing note for each drop. For each pace, write the middle of the three distances.",
    "context": "In this experiment, you drop a ball of dough as you walk past a mark. You find out where it lands, and how that changes when you walk faster.",
    "setup": [
@@ -1037,7 +1037,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the marble away from children under five, who might put it in their mouths.",
+   "safety": "Keep the marble away from children under five, who might put it in their mouths. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, and wash hands after. Toothpicks are sharp: a grown-up helps, push gently with the point down, and throw them away afterwards.",
    "record": "Write the depth of each dent in millimetres. For each height, write the middle of the three depths. Then draw a bar chart with one bar for each height.",
    "context": "In this experiment, you drop a marble into soft dough from three heights. You find out how a faster hit changes the dent.",
    "setup": [
@@ -1401,7 +1401,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. A swing is out and back to where you let go. Keep the swing small, no more than a hand's width from the middle.",
+     "parent": "Do not correct the guess. A swing is out and back to where you let go. Keep the swing small, no more than a hand's width from the middle. Keep faces out of the swing path, and keep washers away from very young children.",
      "context": "This is the first step of Swings. You build the swing and guess."
     },
     {
@@ -1631,7 +1631,7 @@
      "do": "Fold the sheet of paper lengthways into a V channel. Lean the top of the channel on a stack of books so the ramp slopes down to the edge of the table. Stick tape across the ramp 10, 20 and 30 centimetres up from the table edge.",
      "say": "The marble will roll down the ramp and fly off the table. We mark three places to let it go from. Which mark do you think will send it farthest?",
      "kid": "Build the ramp. Put tape marks at 10, 20 and 30 centimetres.",
-     "parent": "The last 5 centimetres of the ramp should be nearly flat, so the marble leaves in a straight line. Tape the ramp so it does not move between tries.",
+     "parent": "The last 5 centimetres of the ramp should be nearly flat, so the marble leaves in a straight line. Tape the ramp so it does not move between tries. Pick up marbles from the floor at once, because a marble underfoot can make someone slip, and keep them away from very young children.",
      "context": "This is the first step of Marble to the Cup. You build the ramp."
     },
     {
