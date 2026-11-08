@@ -595,8 +595,8 @@
        "b": "Roughly 5 or 6 turns each second."
       },
       {
-       "f": "A hummingbird's wings",
-       "b": "Around 50 beats each second."
+       "f": "A small hummingbird's wings",
+       "b": "Around 80 beats each second. Bigger hummingbirds are slower, about 20 to 50."
       },
       {
        "f": "The mains electricity in an Indian home",
@@ -608,7 +608,7 @@
       },
       {
        "f": "The wings of a female mosquito",
-       "b": "About 400 to 500 beats each second. That is the whine you hear."
+       "b": "About 500 beats each second (some kinds 400 to 600). That is the whine you hear."
       },
       {
        "f": "The A string on a violin, tuned to concert pitch",
@@ -680,7 +680,8 @@
      "do": "Cut out the cards and the tokens. Shuffle the cards and put them front side up. Give each player one Faster token and one Slower token.",
      "say": "In this game, every card shows something that repeats. We will guess whether each new card repeats faster or slower than the one before. Cut out the cards and the tokens first.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one Faster and one Slower.",
-     "context": "This is the first step of Faster or Slower. You get the cards and tokens ready."
+     "context": "This is the first step of Faster or Slower. You get the cards and tokens ready.",
+     "parent": "No printer? Write each front and back on a paper slip (about 15 minutes, a good job for older children). For 2 to 4 players, each player takes one Faster and one Slower token; with more than 4 players, share in pairs. The numbers on the cards are typical values, not exact."
     },
     {
      "id": "s2",
@@ -784,7 +785,7 @@
      "qty": 1
     },
     {
-     "item": "3 steel washers or nuts about 2 centimetres wide, or 3 one-rupee coins",
+     "item": "3 steel washers or nuts about 2 centimetres wide (a hardware shop sells them for a few rupees), or 3 one- or two-rupee coins with the thread taped on",
      "qty": 3
     },
     {
@@ -800,7 +801,7 @@
      "qty": 1
     },
     {
-     "item": "a phone with a stopwatch, or a stopwatch",
+     "item": "a phone with a stopwatch (a separate stopwatch is not needed)",
      "qty": 1,
      "buy": "b-stopwatch"
     },
@@ -809,7 +810,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up fixes the thread high up. Everyone stands to the side of the swing, never in front of it, because a steel washer that hits a face can hurt.",
+   "safety": "A grown-up fixes the thread high up. Everyone stands to the side of the swing, never in front of it, because a steel washer that hits a face can hurt. Switch the ceiling fan off, because moving air spoils the swing.",
    "schedule": [
     {
      "day": 1,
@@ -865,7 +866,7 @@
      "do": "Pull the washer about 10 centimetres to one side and let go. Do not push. Start the stopwatch as you let go. Count 10 swings and stop. Write the time. Do it twice. Then repeat with threads of 50 centimetres and 25 centimetres.",
      "say": "Pull the washer back a little and let go. Do not push it. Start the stopwatch at the moment you let go. One swing is out and all the way back. Count to ten, then stop.",
      "kid": "Pull back the washer. Let go. Count 10 swings. Stop the stopwatch. Write the time.",
-     "parent": "The expected times for 10 swings are about 20 seconds for 100 centimetres, about 14 seconds for 50 centimetres and about 10 seconds for 25 centimetres. A little difference is fine. If the swing wobbles in a circle, start again, and let go from a still hand. Shorten the thread by tying a knot, or tape the thread higher or lower, and always measure again.",
+     "parent": "The expected times for 10 swings are about 20 seconds for 100 centimetres, about 14 seconds for 50 centimetres and about 10 seconds for 25 centimetres. A little difference is fine. If the swing wobbles in a circle, start again, and let go from a still hand. Shorten the thread by tying a knot, or tape the thread higher or lower, and always measure again. With two or more children, share the jobs: one lets go, one watches the stopwatch and calls start and stop, one counts the swings aloud, and one writes. Swap jobs for every new length. If you are alone with a parent, the parent counts aloud and the child holds the stopwatch. Use a thread that does not stretch, and tape it firmly so the top does not slip. These times are typical; yours may differ by a second.",
      "check": {
       "t": "mcq",
       "q": "A pendulum takes 20 seconds for 10 swings. How long does one swing take?",
@@ -885,7 +886,7 @@
      "do": "Go back to the 50 centimetre thread. Tape a second washer to the first so they hang as one. Time 10 swings twice. Compare with the one-washer time.",
      "say": "Same thread, same swing. Now the washer is twice as heavy. Time 10 swings. Is it faster, slower or the same?",
      "kid": "Tape on a second washer. Time 10 swings. Is it faster, slower or the same?",
-     "parent": "The time stays about the same, within half a second. Heavier does not mean faster. If the time is quite different, check that the tape is not changing the length of the pendulum.",
+     "parent": "The time stays about the same, within half a second. Heavier does not mean faster. If the time is quite different, check that the tape is not changing the length of the pendulum. If you have all three washers, tape on both extra ones so the weight is three times as much; the time should still stay about the same.",
      "context": "In this step, you change only the weight, to see if the beat changes."
     },
     {
@@ -1004,7 +1005,7 @@
    "context": "In this experiment you tap a tray of shallow water at different speeds, and look at how far apart the ripples are.",
    "question": "If you tap the water faster, what happens to the distance between one ripple and the next?",
    "predict": "Before you start, guess. When you tap faster, will the ripples be closer together, further apart, or the same distance apart? Will they travel faster? Why do you think so?",
-   "fair_test": "Use the same tray, the same ruler edge and the same depth of water, 1 centimetre, every time. Dip the ruler edge into the water the same small distance, about 3 millimetres, on every click. Only the tap rate changes. Measure the gap between ripples three times for each rate, because ripples are hard to see and a single measurement can be wrong.",
+   "fair_test": "Use the same tray, the same ruler edge and the same depth of water, 1 centimetre, every time. Dip the ruler edge into the water the same small distance, about 3 millimetres, on every click. Only the tap rate changes. Measure the gap between ripples three times for each rate, because ripples are hard to see and a single measurement can be wrong. Check the depth at all four corners: if the tray is tilted the depth changes from one end to the other, and the ripples change with it.",
    "results_table": [
     "Taps each second",
     "My guess: ripples closer, further, or same?",
@@ -1015,7 +1016,7 @@
    ],
    "materials": [
     {
-     "item": "a long tray or plastic box at least 35 centimetres long, such as a baking tray, a steel vadam-drying tray or a plastic storage box, with a light-coloured or clear bottom",
+     "item": "a long tray or plastic box at least 35 centimetres long and with a flat bottom, such as a rectangular baking tray, a big steel parat or vadam-drying tray, or a plastic storage box, with a light-coloured or clear bottom (buy one only if you have nothing like it)",
      "qty": 1,
      "buy": "b-clear-tray"
     },
@@ -1028,11 +1029,11 @@
      "qty": 2
     },
     {
-     "item": "a phone with a free metronome app, set to 120, 180 and 240 beats a minute",
+     "item": "a phone with a free metronome app, set to 120, 180 and 240 beats a minute (any free metronome website on a computer also works)",
      "qty": 1
     },
     {
-     "item": "a torch, and a dimly lit room",
+     "item": "a torch (a phone torch is fine), propped on a stack of books about 40 to 50 centimetres above the tray, and a dimly lit room",
      "qty": 1
     },
     {
@@ -1046,9 +1047,17 @@
     {
      "item": "an old towel to stand the tray on",
      "qty": 1
+    },
+    {
+     "item": "a second phone or a camera, to photograph the ripples from above (the grown-up's phone is fine)",
+     "qty": 1
+    },
+    {
+     "item": "a jug or mug to pour the water",
+     "qty": 1
     }
    ],
-   "safety": "Wipe up any spilt water at once, because a wet floor is slippery. Keep a small child away from the tray and do not use it near plug sockets.",
+   "safety": "Wipe up any spilt water at once, because a wet floor is slippery. Keep a small child away from the tray and do not use it near plug sockets. Switch the fan off, because moving air spoils the ripples.",
    "schedule": [
     {
      "day": 1,
@@ -1083,16 +1092,16 @@
      "do": "Put the tray on a towel on a flat floor. Pour in water until it is 1 centimetre deep. Check the depth at both ends with a ruler. Lay a folded towel at the far end. Put white paper under a clear tray. Dim the room.",
      "say": "Pour in water until it is exactly 1 centimetre deep at both ends. Then lay the folded towel at the far end. It soaks up the ripples, so they do not bounce back.",
      "kid": "Pour 1 centimetre of water. Lay a towel at the far end. Make the room dim.",
-     "parent": "The floor must be flat, or the water will be deeper at one end. If your tray is dark steel, the ripples will show as moving reflections of the torch on the ceiling and wall. Shine the torch from the side across the water and look at the bright lines on the tray bottom or the wall.",
+     "parent": "The floor must be flat, or the water will be deeper at one end. If your tray is dark steel, the ripples will show as moving reflections of the torch on the ceiling and wall. Shine the torch from the side across the water and look at the bright lines on the tray bottom or the wall. A 35 by 25 centimetre tray needs about 1 litre of water for 1 centimetre. A tray on a hard flat table is steadier than one on a soft towel, so use the towel only to catch spills. A dished or bent bottom spoils the result; choose the flattest tray. Switch the fan off.",
      "context": "In this step, you get the tray ready."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "Switch on the metronome at 120 beats a minute. Hold the ruler flat across the near end of the tray, with one long edge just touching the water. On each click, press the edge about 3 millimetres into the water and lift it out. Shine the torch across the water and look for bright lines.",
+     "do": "Switch on the metronome at 120 beats a minute. Hold the ruler flat across the near end of the tray, with one long edge just touching the water. On each click, press the edge 3 millimetres into the water. Lift it out with a small flick of the wrist. Hold the torch 40 to 50 centimetres above the tray. Bright and dark lines show on the paper under it, or on the wall.",
      "say": "The metronome clicks twice each second. On every click, dip the edge of the ruler into the water and lift it out. Shine the torch and look for bright lines moving away from the ruler.",
      "kid": "Dip the ruler on every click. Shine the torch. Look for lines moving away.",
-     "parent": "Each dip sends a straight ripple down the tray. The bright lines are the crests. Take your time: it takes a minute to get a steady rhythm. If you cannot see lines, tilt the torch lower, dim the room more, or look at the lines on the wall. If ripples bounce back from the far end, make the towel thicker.",
+     "parent": "Each dip sends a straight ripple down the tray. The bright lines are the crests. Take your time: it takes a minute to get a steady rhythm. If you cannot see lines, tilt the torch lower, dim the room more, or look at the lines on the wall. If ripples bounce back from the far end, make the towel thicker. Roles for 2 to 4 children: one taps, one keeps the metronome and checks the depth, one holds the torch and takes the photos, one measures and writes. Alone with a parent, the child taps and the parent photographs. If you see nothing: make the room darker, move the torch lower and further away, tap a little harder, and make sure the water is still before you start. If the tray is dark steel, the lines will not show on the bottom; look at the moving bright lines on the wall instead. If you still cannot see lines, your ripples are probably too faint: use a bigger dip and keep the water 1 centimetre deep.",
      "check": {
       "t": "mcq",
       "q": "At 120 clicks a minute, how many dips do you make each second?",
@@ -1109,10 +1118,10 @@
     {
      "id": "s4",
      "mins": 9,
-     "do": "Find three bright lines in a row. Measure from the first to the third with a ruler held against the tray. Divide by 2 for the gap. Do this three times. Then set the metronome to 180 and 240 beats a minute, and repeat.",
+     "do": "Take a photo (or a short video) from straight above with a ruler lying on the paper under the tray along the way the ripples travel. Find three bright lines in a row in the photo and measure from the first to the third. Divide by 2 for the gap. Do this three times. If the tray is too short for three lines, measure from the first to the second line. Then set the metronome to 180 and 240 beats a minute, and repeat.",
      "say": "Three bright lines in a row have two gaps. Measure from the first to the third, and halve it. Do it three times. Then speed the metronome up and do it again.",
-     "kid": "Measure from the first line to the third. Halve it. Do it three times. Then tap faster.",
-     "parent": "Expect gaps of about 12 to 16 centimetres at 2 taps each second, about 9 or 10 at 3, and about 6 to 8 at 4. Your numbers may differ with your tray, but the gaps must shrink as the taps speed up. A phone photo from above, with the ruler laid beside the tray, helps you measure after the ripples have gone. At 4 taps each second, tap lightly with a small dip so the ripples stay clean.",
+     "kid": "Take a photo from above. Measure from the first line to the third. Halve it. Do it three times. Then tap faster.",
+     "parent": "Expect gaps of about 12 to 16 centimetres at 2 taps each second, about 9 or 10 at 3, and about 6 to 8 at 4. Your numbers may differ with your tray, but the gaps must shrink as the taps speed up. A phone photo from above, with the ruler laid beside the tray, helps you measure after the ripples have gone. At 4 taps each second, tap lightly with a small dip so the ripples stay clean. Measuring from a photo is far easier than trying to measure moving ripples by eye. At 4 taps each second the dips are quick; practise a little flick and tap lightly. These gaps are typical; your tray may give gaps a few centimetres different, but they must shrink as the taps get faster.",
      "context": "In this step, you measure the gap between ripples at three different tap rates."
     },
     {
@@ -1208,10 +1217,6 @@
      "qty": 1
     },
     {
-     "item": "a wall clock that ticks, or a phone beeping every second",
-     "qty": 1
-    },
-    {
      "item": "a chair to sit on while you count",
      "qty": 1
     }
@@ -1241,7 +1246,7 @@
        ]
       }
      ],
-     "parent": "Do not worry about the guess. A resting child's pulse is usually 20 to 25 beats in 15 seconds. If your child cannot find it, try the other wrist, or help them find it. Press lightly with two fingers, never hard, and never on the neck.",
+     "parent": "Do not worry about the guess. A resting child's pulse is usually about 18 to 25 beats in 15 seconds. If your child cannot find it, try the other wrist, or help them find it. Press lightly with two fingers, never hard, and never on the neck.",
      "context": "This is the first step of Hertz Hunt. You guess, and then you count your pulse."
     },
     {
@@ -1250,7 +1255,7 @@
      "do": "Sit still for one minute. Then count the pulse taps for 15 seconds. Write down the count. Multiply by 4 for beats each minute. Divide by 60 for beats each second.",
      "say": "Sit still and be calm. Count the taps for 15 seconds, and I will tell you when to stop. Then we multiply by 4 to get one minute.",
      "kid": "Sit still. Count your pulse for 15 seconds. Multiply by 4.",
-     "parent": "A count of 22 in 15 seconds gives 88 beats each minute. 88 divided by 60 is about 1.5 beats each second, a frequency of about 1.5 hertz. Dividing is hard for some children. Use a calculator, or say: 60 beats is one each second, so 88 is a little more than one each second.",
+     "parent": "A count of 22 in 15 seconds gives 88 beats each minute. 88 divided by 60 is about 1.5 beats each second, a frequency of about 1.5 hertz. Dividing is hard for some children. Use a calculator, or say: 60 beats is one each second, so 88 is a little more than one each second. With 2 to 4 children, work in pairs: one counts a pulse while the other times 15 seconds, then swap. Compare everyone's answers: pulse rates differ and that is normal.",
      "check": {
       "t": "mcq",
       "q": "A pulse count is 20 beats in 15 seconds. How many beats is that in one minute?",
@@ -1306,7 +1311,7 @@
    "context": "In this paper activity you colour a grid to model a wave moving along a line. You find out how the beat and the speed decide the wavelength.",
    "materials": [
     {
-     "item": "squared paper, or a sheet of plain paper and a ruler to draw a 12 by 12 grid of squares about 1.5 centimetres wide",
+     "item": "squared paper, such as a page of a squared maths notebook, or plain paper and a ruler to draw grids of squares about 1 centimetre wide",
      "qty": 3
     },
     {
@@ -1371,10 +1376,10 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Draw a third grid. Slide each row two squares to the right instead of one. Colour the left square every 4th row, as in the first grid. Measure the gap.",
+     "do": "Draw a third grid, 16 squares wide and 12 rows down. Slide each row two squares to the right instead of one. Colour the left square in rows 1, 5 and 9, as in the first grid. Measure the gap between coloured squares in the lower rows.",
      "say": "Now the wave moves faster, two places each beat. The wave-maker beats every 4 rows, as before. Guess the gap before you colour. Closer, further, or the same?",
      "kid": "Slide two squares each row. Colour the left every 4th row. Guess the gap.",
-     "parent": "The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats.",
+     "parent": "The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each draws one grid and the group compares; alone with a parent, take turns colouring a row each.",
      "check": {
       "t": "mcq",
       "q": "A wave moves 2 squares each beat, and the source makes a crest every 3 beats. How far apart will the crests be?",
@@ -1412,11 +1417,11 @@
    "context": "In this activity you spread white light into a rainbow, and see that different colours are different wavelengths.",
    "materials": [
     {
-     "item": "an old CD or DVD that you no longer need",
+     "item": "an old CD or DVD that you no longer need (a blank CD costs a few rupees at a computer or stationery shop)",
      "qty": 1
     },
     {
-     "item": "a torch or a phone torch, or bright sunshine from a window",
+     "item": "a torch or a phone torch in a dim room, or bright sunshine through a window",
      "qty": 1
     },
     {
@@ -1424,11 +1429,11 @@
      "qty": 1
     },
     {
-     "item": "a tall clear glass of water, as another way to make a rainbow in the sun",
+     "item": "optional: a tall clear glass of water (a bonus that works only in strong sun)",
      "qty": 1
     }
    ],
-   "safety": "Never look straight at the Sun, and never shine sunlight or a torch into anyone's eyes. Keep the shiny side of the CD pointing at the wall, not at faces. Use a CD with no cracks, because a broken edge is sharp. Use a plastic cup or a strong glass for the water, and a grown-up stays close.",
+   "safety": "Never look straight at the Sun, and never shine sunlight or a torch into anyone's eyes. Keep the shiny side of the CD pointing at the wall, not at faces. Use a CD with no cracks, because a broken edge is sharp. Use a plastic cup or a strong glass for the water, and a grown-up stays close. Do not leave a glass of water in strong sun near paper or cloth, because it can focus the sunlight into a hot spot.",
    "schedule": [
     {
      "day": 1,
@@ -1441,7 +1446,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Hold the CD with its shiny side facing a window or a torch. Tilt it until a rainbow of colours shows on the wall. Ask your child what they see.",
+     "do": "Hold the CD with its shiny side, the side without a label, facing the light. Tilt it until a band of colours shows on the wall. Ask your child what they see.",
      "say": "Here is an old CD. Let the light fall on the shiny side and tilt it slowly. What do you see on the wall? Which colour is at which end?",
      "kid": "Tilt the CD in the light. Look at the wall. What colours do you see?",
      "ask": [
@@ -1453,17 +1458,17 @@
        ]
       }
      ],
-     "parent": "The CD has tiny grooves that spread white light into its colours. In a dim room, a phone torch about 20 centimetres from the CD gives a sharp rainbow on a wall 1 metre away. If you cannot make it work, try holding the CD at different angles. In bright sunshine, the effect is strongest.",
+     "parent": "The CD has tiny grooves that spread white light into its colours. In a dim room, a phone torch about 20 centimetres from the CD gives a sharp rainbow on a wall 1 metre away. If you cannot make it work, try holding the CD at different angles. In bright sunshine, the effect is strongest. It works best with the room darkened, the torch about 20 centimetres from the CD, and the wall about 1 metre away. With 2 to 4 children: one holds the CD, one holds the torch, one marks the band on the wall with a pencil or a sticky note, one draws it. If you see only a white blur, tilt the CD slowly; the colours show only at one angle.",
      "adult": true,
      "context": "This is the first step of the CD Rainbow. You make a rainbow and look at its colours."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Write down the colours in order from the end that bends least to the end that bends most. Then fill a clear glass with water and try again with sunlight.",
+     "do": "Write down the colours in order along the band, starting from the end nearest the bright spot of reflected light. Measure the width of the band on the wall. Then move back so the CD is twice as far from the wall, and measure the band again. If it is sunny, you can also try the glass of water.",
      "say": "Say the colours in order: red, orange, yellow, green, blue, violet. Red has the longest waves, about 700 nanometres. Violet has the shortest, about 400 nanometres.",
      "kid": "Say the colours in order. Red has the longest waves. Violet has the shortest.",
-     "parent": "A nanometre is a billionth of a metre. A hair is about a hundred times wider than a red light wave. The glass of water works best when a beam of sunshine passes through it onto a white paper. Move the glass until a rainbow appears.",
+     "parent": "A nanometre is a billionth of a metre. A hair is about a hundred times wider than a red light wave. The glass of water works best when a beam of sunshine passes through it onto a white paper. Move the glass until a rainbow appears. On a CD, red is the end furthest from the bright spot, because longer waves spread out more; a prism or a raindrop does the opposite. The band should be about twice as wide when the wall is twice as far away, because light travels in straight lines. The glass of water often fails: it needs strong, low sunshine and some luck, so do not worry if nothing appears.",
      "check": {
       "t": "mcq",
       "q": "Which colour of visible light has the longest wavelength?",
@@ -1547,7 +1552,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the order. Children often put light near the longest end. Write down the order before checking. Here is the real order, longest first, with rough lengths: tsunami over 100 kilometres, AM radio about 300 metres, sea wave about 100 metres, FM radio about 3 metres, human voice about 1.7 metres, Wi-Fi and microwave oven about 12 centimetres, police whistle about 11 centimetres, ripple in a tray about 10 centimetres, red light about 0.0000007 metres.",
+     "parent": "Do not correct the order. Children often put light near the longest end. Write down the order before checking. Here is the real order, longest first, with rough lengths: tsunami over 100 kilometres, AM radio about 300 metres, sea wave about 100 metres, FM radio about 3 metres, human voice about 1.7 metres, Wi-Fi and microwave oven about 12 centimetres, police whistle about 11 centimetres, ripple in a tray about 10 centimetres, red light about 0.0000007 metres. All of these lengths are rough, typical values. With 2 to 4 children, each child lays out their own ladder first, then the group compares and argues before checking. Alone, the child lays it out and the parent asks 'why there?'.",
      "context": "This is the first step of the Wavelength Ladder. You guess the order of ten waves."
     },
     {
@@ -1602,7 +1607,7 @@
    "context": "In this activity you drop a marble into still water from different heights, and watch the rings spread out and fade.",
    "materials": [
     {
-     "item": "a wide, shallow bowl or a steel thali with a rim, filled with water about 2 centimetres deep",
+     "item": "a wide, shallow bowl, tray or steel thali with a rim (the bigger, the better), filled with water about 2 centimetres deep",
      "qty": 1
     },
     {
@@ -1615,6 +1620,10 @@
     },
     {
      "item": "a dark cloth or dark paper under the bowl, so the rings show up",
+     "qty": 1
+    },
+    {
+     "item": "a torch to shine from the side, and a phone to film in slow motion, if you have one",
      "qty": 1
     }
    ],
@@ -1650,10 +1659,10 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Hold the marble 20 centimetres above the middle of the water. Let it go. Watch the ring spread. Draw it. Then drop from 5 centimetres and from 40 centimetres, and draw each.",
+     "do": "Hold the marble 20 centimetres above the middle of the water. Let it go. Watch the ring spread, and count how many rings you can see. Lay a ruler beside the bowl and note how far from the splash the last ring can still be seen. Draw it. Then drop from 5 centimetres and from 40 centimetres, and do the same. Repeat each height twice.",
      "say": "Drop the marble from 20 centimetres and watch the first ring closely. Then drop from 5 centimetres, and from 40. What changes about the ring?",
      "kid": "Drop from 20 centimetres. Watch the ring. Then drop from 5 and 40.",
-     "parent": "A higher drop gives a taller ring that spreads further before it fades. Every ring gets lower as it spreads. If the dark cloth under a clear bowl is not enough, shine a torch from the side. Wipe up any splashes.",
+     "parent": "A higher drop gives a taller ring that spreads further before it fades. Every ring gets lower as it spreads. If the dark cloth under a clear bowl is not enough, shine a torch from the side. Wipe up any splashes. In a small thali the ring reaches the rim in under a second and bounces back, which muddles the result; a big tray or the Tap Faster tray is better. Shine a torch from the side in a dim room. A phone slow-motion video helps a lot. With 2 to 4 children: one drops, one holds the ruler and torch, one films, one draws and counts.",
      "check": {
       "t": "mcq",
       "q": "A ring of ripples spreads out and gets lower. What is most likely happening to the wave's energy?",
@@ -1711,9 +1720,17 @@
     {
      "item": "a chair to sit on beside the pendulum",
      "qty": 1
+    },
+    {
+     "item": "a phone with a free metronome app, set to 60 beats a minute",
+     "qty": 1
+    },
+    {
+     "item": "a ruler to measure how wide the swing is",
+     "qty": 1
     }
    ],
-   "safety": "Stand to the side of the swing, and tap with a fingertip, never with a hard object, so the washer does not fly off.",
+   "safety": "Stand to the side of the swing, and tap with a fingertip, never with a hard object, so the washer does not fly off. Switch the fan off, because moving air spoils the swing.",
    "schedule": [
     {
      "day": 1,
@@ -1748,7 +1765,7 @@
      "do": "Start the washer swinging a little. Each time it swings back to you, give it a very light tap with one fingertip, in the direction it is going. Tap for about 20 swings. Watch the size of the swing.",
      "say": "Wait until the washer is coming toward your finger. Give it a gentle tap, in the direction it is going. Do it once for each swing. Keep going for about 20 swings. What happens to the swing?",
      "kid": "Tap the washer as it comes toward you. Tap once each swing. Watch.",
-     "parent": "The swing should grow clearly, from a few centimetres to a very wide swing. Each tap is tiny, but taps at the same beat add up. If it does not grow, the taps are probably arriving as the washer moves away. Wait, and feel the beat first.",
+     "parent": "The swing should grow clearly, from a few centimetres to a very wide swing. Each tap is tiny, but taps at the same beat add up. If it does not grow, the taps are probably arriving as the washer moves away. Wait, and feel the beat first. Tap once each full swing, when the washer is coming toward you. After 10 taps and after 20 taps, hold a ruler behind it and note how wide the swing is. A thread can start to twist the washer in a circle; if it does, stop and let it go still.",
      "check": {
       "t": "mcq",
       "q": "Why did very light taps make the swing grow wide?",
@@ -1765,10 +1782,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Let the swing settle. Then tap the washer every second, even when it is not coming toward you. Tap for 20 taps. Compare what the swing does with what happened before.",
+     "do": "Let the swing settle. Switch on the metronome at 60 beats a minute. Tap the washer on every click, even when it is not coming toward you. Tap for 20 taps. Measure how wide the swing is after 10 and after 20 taps, and compare with before.",
      "say": "Now tap once every second, whatever the washer is doing. That is not its beat. Watch what the swing does. Is it as big as before?",
      "kid": "Tap once every second, whatever the washer does. Is the swing as big?",
-     "parent": "The swing stays small or becomes a wobble, because some taps push with the washer and some push against it. The taps at the wrong beat do not add up. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can.",
+     "parent": "The swing will swell a little and shrink again, and stay much smaller than before, because the taps drift in and out of step with the washer (it swings about every 1.4 seconds and you tap every 1 second). Your numbers will vary, so compare the widest swing with the earlier one. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure.",
      "think": "What would you have to do to make the pendulum swing wide at a tapping rate of once every second?"
     }
    ],
@@ -1798,10 +1815,11 @@
    "materials": [
     {
      "item": "the tray, ruler, torch, metronome and towels from the Tap Faster test",
-     "qty": 1
+     "qty": 1,
+     "buy": "b-clear-tray"
     },
     {
-     "item": "a phone camera, to photograph the ripples from above",
+     "item": "a phone camera, to photograph the ripples from above (the grown-up's phone is fine)",
      "qty": 1
     },
     {
@@ -1813,9 +1831,8 @@
      "qty": 1
     },
     {
-     "item": "a clear glass measuring cup or a jug to measure the water",
-     "qty": 1,
-     "buy": "b-clear-tray"
+     "item": "a jug or mug to pour the water, and a ruler to check the depth",
+     "qty": 1
     }
    ],
    "safety": "Wipe up spilt water straight away, because it makes the floor slippery.",
@@ -1839,7 +1856,7 @@
      "do": "Set up the tray with water 1 centimetre deep, as in Tap Faster. Lay a ruler along the edge of the tray so it shows in the photos. Tap at 2 taps each second and take a photo from above.",
      "say": "We will use the rule that speed is the taps each second times the gap between ripples. Set up the tray as before. Lay a ruler along the edge so the photo shows the scale.",
      "kid": "Set up the tray. Lay a ruler along the edge. Tap and take a photo.",
-     "parent": "Hold the phone steady and as straight above the tray as you can. If the photo does not show the bright lines, shine the torch from another angle. A video clip works too: pause on a sharp frame.",
+     "parent": "Hold the phone steady and as straight above the tray as you can. If the photo does not show the bright lines, shine the torch from another angle. A video clip works too: pause on a sharp frame. Lay the ruler on the paper under the tray, along the way the ripples travel, so that it lines up with the lines and there is no sideways error from the camera. With 2 to 4 children: one taps, one keeps the metronome, one photographs, one measures and writes. Switch the fan off.",
      "context": "This is the first step of the Ripple Speed Machine. You set up the tray and take a photo at 2 taps each second."
     },
     {
@@ -1887,7 +1904,7 @@
      "do": "Make the water 0.5 centimetres, 1 centimetre and 2 centimetres deep in turn. Tap at 3 taps each second. Take a photo at each depth. Measure the gap. Work out the speed.",
      "say": "Measure the water carefully each time. Tap at 3 taps each second, take a photo, and measure the gap. Then multiply by 3 to get the speed in centimetres each second.",
      "kid": "Try three depths. Tap at 3 each second. Photo, measure, then multiply.",
-     "parent": "Expect gaps of about 7, 10 and 13 centimetres, so speeds of about 21, 30 and 39. The speed grows as the water gets deeper, but not in a straight line. Shallow ripples travel in a different way from deep ones. Your numbers will not be exact, so look for the pattern.",
+     "parent": "Expect gaps of about 7, 10 and 13 centimetres, so speeds of about 21, 30 and 39. The speed grows as the water gets deeper, but not in a straight line. Shallow ripples travel in a different way from deep ones. Your numbers will not be exact, so look for the pattern. Depth is the hard part. Check it with a ruler at all four corners, because a tilt of 1 millimetre is a big share of 0.5 centimetres. For 0.5 centimetres dip the ruler only about 2 millimetres. About 0.5 litre fills a 35 by 25 centimetre tray to 0.5 centimetres, 1 litre to 1 centimetre and 2 litres to 2 centimetres. If your three speeds do not rise neatly, trust the trend between the shallowest and the deepest. These numbers are typical, not promised.",
      "context": "On day 2, you measure the gap at three depths and work out the speed."
     },
     {
@@ -3150,7 +3167,7 @@
    "id": "b-stopwatch",
    "item": "A cheap digital stopwatch",
    "kind": "tool",
-   "why": "For Counting Swings, Hertz Hunt and Tiny Taps, Big Swing. A phone stopwatch works too, but a separate one is easier for a child to press.",
+   "why": "Optional. A phone stopwatch works for Counting Swings, Hertz Hunt and Tiny Taps, Big Swing. A separate one is only easier for a child to press.",
    "url": "https://www.amazon.in/s?k=digital+stopwatch+sports",
    "used_in": [
     "e1",
@@ -3162,7 +3179,7 @@
    "id": "b-clear-tray",
    "item": "A clear glass or plastic tray or baking dish, 35 centimetres or longer",
    "kind": "material",
-   "why": "For Tap Faster and the Ripple Speed Machine. A clear tray over white paper shows the ripples best. A steel vadam tray also works.",
+   "why": "For Tap Faster and the Ripple Speed Machine. Most homes already have a big flat tray, a steel parat or a plastic storage box; buy one only if you have none. A clear or white one shows the ripples best, and it must be 35 centimetres or longer with a flat bottom.",
    "url": "https://www.amazon.in/s?k=glass+baking+dish+rectangular",
    "used_in": [
     "e2",

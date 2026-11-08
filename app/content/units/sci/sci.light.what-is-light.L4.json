@@ -1089,17 +1089,18 @@
    "days": 1,
    "question": "A torch lights a square patch on squared paper. If the paper is moved twice as far from the torch, how many times bigger is the lit patch, and how bright does it look?",
    "predict": "Before you start, guess. If you move the paper twice as far from the torch, how many times bigger will the lit patch be? Will it look brighter, dimmer or the same? Why do you think so?",
-   "fair_test": "The torch, the card with the square hole and the dark room stay the same every time. The torch stays 10 centimetres behind the card. Only the distance from the torch to the paper changes: 20, 30 and 40 centimetres. Do each distance twice, because one try can be a fluke.",
+   "fair_test": "The torch, the card with the square hole and the dark room stay the same every time. The torch stays 10 centimetres behind the card. Only the distance from the torch to the paper changes: 20, 30 and 40 centimetres. Measure every distance from the bulb itself (on a phone, the small lamp next to the camera), not from the end of the torch. Do each distance twice, because one try can be a fluke.",
    "results_table": [
     "Distance from torch to paper (cm)",
     "Width of the lit patch (squares)",
     "Height of the lit patch (squares)",
     "Area: squares lit",
+    "How many times bigger than the patch at 20 cm (divide the area by the area at 20 cm)",
     "How bright the patch looked: brightest, dimmer or dimmest"
    ],
    "materials": [
     {
-     "item": "a phone torch or a small LED torch with a small bright bulb",
+     "item": "a phone torch (best, because its light comes from a tiny LED) or a small LED torch with a bare bulb. A torch with a big mirror or lens makes a narrow beam and will not give this result",
      "qty": 1
     },
     {
@@ -1225,7 +1226,7 @@
      "do": "Move the paper to 30 centimetres. Count the lit squares. Write them down. Repeat once. Then move the paper to 40 centimetres, count, and repeat once. Compare the brightness each time.",
      "say": "Move the paper further away. Count the squares again. Is the patch bigger? How much bigger? Is it as bright as before?",
      "kid": "Move the paper to 30 centimetres. Count the squares. Then move it to 40 centimetres. Count again.",
-     "parent": "Expected: about 6 by 6 squares at 30 centimetres, which is 36, and about 8 by 8 squares at 40 centimetres, which is 64. Real counts are often a bit bigger because of the blur. If your numbers are different, write them down as they are. The patch at 40 centimetres should look dimmer than the one at 20.",
+     "parent": "Expected: about 6 by 6 squares at 30 centimetres, which is 36, and about 8 by 8 squares at 40 centimetres, which is 64. Real counts are often a bit bigger because of the blur. If your numbers are different, write them down as they are. The patch at 40 centimetres should look dimmer than the one at 20. If the patch is much bigger or oddly shaped, the usual reasons are a room that is not dark enough, a torch that is not exactly 10 centimetres behind the card, or a torch with a lens. Fix that and repeat. Judging brightness by eye is rough, so ask a second person to say which patch looks dimmer without knowing the distances. With 2 to 4 children: one holds the paper steady, one keeps the torch still, one counts squares and one writes, and they swap for each distance. One child alone: tape the paper to a book propped on a stack and tape the torch down, so both stay still.",
      "check": {
       "t": "mcq",
       "q": "The patch at 20 centimetres covers about 16 squares. The paper moves to 40 centimetres, twice as far. About how many squares are lit?",
@@ -1288,7 +1289,7 @@
    "days": 1,
    "question": "Four ice cubes sit in the same sunshine on black paper, dark blue paper, yellow paper and white paper. Which melts first, and which melts last?",
    "predict": "Before you start, guess. Which ice cube will melt first and which last? Will the cube in the shade melt at all? Why do you think so?",
-   "fair_test": "All the cubes come from the same ice tray, so they are the same size. All the papers are the same size, and all sit on one tray in the same sunshine. Only the colour of the paper changes. A fifth cube sits on white paper in the shade as the control, so you know what the room alone does.",
+   "fair_test": "All the cubes come from the same ice tray, so they are the same size. All the papers are the same size, and all sit side by side on one piece of thick cardboard in the same sunshine. Only the colour of the paper changes. Paper is thin, so the cardboard underneath keeps a hot steel tray or a white wall from changing the result. A fifth cube sits on white paper in the shade as the control, so you know what the room alone does.",
    "results_table": [
     "Paper under the ice cube",
     "In the sun or in the shade",
@@ -1299,7 +1300,7 @@
    ],
    "materials": [
     {
-     "item": "5 ice cubes of the same size from one ice tray, kept in the freezer until the last moment, carried in a steel box",
+     "item": "5 ice cubes of the same size from one ice tray, kept in the freezer until the last moment, carried in a steel box or a flask. Pick the five that look most alike",
      "qty": 5
     },
     {
@@ -1307,7 +1308,7 @@
      "qty": 5
     },
     {
-     "item": "a big steel tray or a large plate to carry the papers",
+     "item": "a piece of thick cardboard, such as a cut-open carton or a wooden board, to carry the papers (not a steel tray, which heats up and muddles the test)",
      "qty": 1
     },
     {
@@ -1323,13 +1324,13 @@
      "qty": 1
     }
    ],
-   "safety": "Never look straight at the Sun. If you use a lamp on a cloudy day, a grown-up must set it up, because the bulb gets hot. A steel tray left in the sun gets hot, so touch it with care.",
+   "safety": "Never look straight at the Sun. Do the test on a sunny day. An LED lamp gives out too little heat, and a hot bulb is not safe for children to use. Surfaces left in the sun can get hot, so touch them with care. Keep to shade and a hat if the sun is very strong.",
    "record": "Fill in the table. Then draw a bar chart with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.",
    "context": "In this experiment, you place ice cubes on black, blue, yellow and white paper in the sunshine. You find out which colour makes the ice melt first, and what that shows about what colours do with light.",
    "setup": [
     {
-     "art": "A steel tray in a patch of sunshine on a windowsill, with four squares of paper in black, dark blue, yellow and white, and one more white square in the shade beside it.",
-     "caption": "1. Lay the papers on the tray in the sun. Put the fifth white paper in the shade."
+     "art": "A piece of thick cardboard in a patch of sunshine on a windowsill, with four squares of paper in black, dark blue, yellow and white, and one more white square on cardboard in the shade beside it.",
+     "caption": "1. Lay the papers on the cardboard in the sun. Put the fifth white paper in the shade."
     },
     {
      "art": "A child placing an ice cube on each square of paper, one after another, using a steel spoon, with a phone timer showing zero.",
@@ -1348,7 +1349,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the five papers, the tray and the ice. Ask for a guess and a reason about which cube melts first and last. Write it at the top of the table.",
+     "do": "Show your child the five papers, the cardboard and the ice. Ask for a guess and a reason about which cube melts first and last. Write it at the top of the table.",
      "say": "We will put ice cubes on black, blue, yellow and white paper in the sunshine. Which one will melt first? Which one will melt last? What about the cube in the shade? Why do you think so?",
      "kid": "Ice cubes on four colours in the sun. Which melts first? Which last? Why?",
      "ask": [
@@ -1367,10 +1368,10 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Choose a spot in direct sun. Lay the black, blue, yellow and white papers on the tray, with a gap between them. Put the tray in the sun. Lay the fifth white paper in the shade next to the tray.",
-     "say": "Sun on four papers, and shade on one. The tray must sit in the same sunshine, so no paper gets more sun than another.",
-     "kid": "Put four papers on the tray in the sun. Put one white paper in the shade.",
-     "parent": "Check that no shadow of a window frame falls across the tray. Direct sun at midday or in the early afternoon works best. If the sun is weak or the day is cloudy, wait for a sunnier hour. The test needs direct sunshine.",
+     "do": "Choose a spot in direct sun. Lay the black, blue, yellow and white papers on the cardboard, with a gap between them. Put the cardboard flat in the sun, out of the wind. Lay the fifth white paper, on another piece of cardboard, in the shade next to it.",
+     "say": "Sun on four papers, and shade on one. The cardboard must sit in the same sunshine, so no paper gets more sun than another.",
+     "kid": "Put four papers on the cardboard in the sun. Put one white paper in the shade.",
+     "parent": "Check that no shadow of a window frame falls across the cardboard. Direct sun at midday or in the early afternoon works best. If the sun is weak or the day is cloudy, wait for a sunnier day. The test needs direct sunshine. White paper is a little see-through, so put it on white card or a plain page if the cardboard shows through. With 2 to 4 children: each child looks after one colour and its timer or tally, and one watches the control.",
      "context": "In this step, you set up the tray in the sun with the control in the shade."
     },
     {
@@ -1379,7 +1380,7 @@
      "do": "Bring the ice cubes out only now. Use a spoon to put one on each paper, in the middle. Start the timer as you put down the last one. Look at the cubes at 5 minutes. Write down their sizes.",
      "say": "Ice on all five papers. The timer is running. Watch closely. At 5 minutes, which cube looks smallest? Which looks the biggest?",
      "kid": "Put one ice cube on each paper. Start the timer. Look again at 5 minutes.",
-     "parent": "Use the same words every time for the sizes: whole, big, half, small, gone. If the cubes slide, set them back in the middle. Do not shake the tray.",
+     "parent": "Use the same words every time for the sizes: whole, big, half, small, gone. If the cubes slide, set them back in the middle. Do not shake the cardboard.",
      "context": "In this step, you start the ice race and look at the cubes after 5 minutes."
     },
     {
@@ -1388,7 +1389,7 @@
      "do": "Look again at 10 minutes and at 15 minutes. Write down the sizes. Keep looking every few minutes until each cube is gone. Write the minute each cube disappeared.",
      "say": "Which cube is gone first? Which is last? Write down the minute for each one. Is the cube in the shade melting at all?",
      "kid": "Look at 10 and 15 minutes. Write how big each cube is. Note when each one is gone.",
-     "parent": "Expected: the cube on black melts first, the cubes on dark blue and yellow come in between, and white lasts longest. The shaded cube melts slowest of all. If all the cubes melt at nearly the same time, the sun was weak. Try again on a sunnier day.",
+     "parent": "Expected: the cube on black melts first, the cubes on dark blue and yellow come in between, and white lasts longest. The shaded cube melts slowest of all. Typical times in strong Indian sun are about 10 to 25 minutes, and the gap between black and white is often only a few minutes, so look closely. Your times will differ. If all the cubes melt at nearly the same time, the sun was weak or the cubes were not alike. Try again on a sunnier day with fresh cubes. Melted water can make the paper soggy. That is fine, but keep each cube in the middle of its paper.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep a cube on white paper in the shade?",
@@ -1447,11 +1448,11 @@
    "results_table": [
     "What was in the way",
     "Did the flicker show on the phone screen: yes, faint or no?",
-    "Did the TV still obey the remote: yes or no?"
+    "Mirror and wall test only: did the TV obey the remote: yes or no?"
    ],
    "materials": [
     {
-     "item": "a TV remote that works with infrared, such as most TV, air conditioner or set-top box remotes, with working batteries",
+     "item": "a TV remote that works with infrared, such as most TV, air conditioner or set-top box remotes, with working batteries. Remotes that need no aiming, or that have a voice button (many smart TV and streaming-stick remotes), use Bluetooth radio and will show nothing, so choose an ordinary one with a small dark window at the front",
      "qty": 1
     },
     {
@@ -1523,7 +1524,7 @@
      "say": "First, look at the front of the remote with just your eyes. Press a button. What do you see? Now look through the phone's camera. What do you see now?",
      "kid": "Look at the remote with your eyes. Press a button. Now look through the phone.",
      "adult": true,
-     "parent": "Expected: nothing with the eyes, and a pale purple or white flicker on the screen. The front camera of most phones shows it. Some rear cameras have a filter that hides it. If you see nothing, try another phone, the front camera or a laptop webcam. If nothing works, write that down. The TV test in the last step still works.",
+     "parent": "Expected: nothing with the eyes, and a pale purple or white flicker on the screen. The front camera of most phones shows it. Some rear cameras have a filter that hides it. If you see nothing, try another phone, the front camera or a laptop webcam, or another remote (a different brand often shows it). If nothing works, write that down honestly. The TV test in step 4 still works, because the TV is the detector. One child alone: lean the phone against a book so it stands by itself, and hold the remote in one hand. With 2 to 4 children: one holds the phone, one presses the button, one holds the things in the way, and one writes. Swap roles.",
      "check": {
       "t": "mcq",
       "q": "Your eyes saw nothing from the remote, but the phone camera showed a flicker. What is the best explanation?",
@@ -1544,7 +1545,7 @@
      "do": "Keep the remote 20 centimetres from the camera. Put the paper in front of the remote, then the card, then the steel plate, then the glass tumbler. Press a button each time and write down what the screen shows.",
      "say": "Put the paper in the way. Does the flicker still show? Now try the thick card, then steel, then glass. Which ones let the invisible light through?",
      "kid": "Put things in front of the remote one by one. Does the flicker still show?",
-     "parent": "Results vary with the remote and the room, so write what you see. Often thin paper lets some through and looks fainter, thick card and steel block most of it, and glass lets it through. Do not worry if yours differ.",
+     "parent": "Results vary with the remote and the room, so write what you see. Often thin paper lets some through and looks fainter, thick card and steel block most of it, and clear glass lets it through. Do not worry if yours differ. Press the button three times for each thing, because one press can be missed.",
      "context": "In this step, you find out which things the invisible light goes through and which things block it."
     },
     {
@@ -1603,7 +1604,7 @@
      "qty": 1
     },
     {
-     "item": "a piece of black cloth and a piece of white cloth, each about the size of a handkerchief",
+     "item": "a piece of black cloth and a piece of white cloth of the same kind (both cotton, for example), each about the size of a handkerchief",
      "qty": 2
     },
     {
@@ -1623,6 +1624,7 @@
     }
    ],
    "record": "A list of at least eight jobs that light does at home, with a note on what the light turns into for each one: heat, sugar, electricity or something else.",
+   "safety": "Never look straight at the Sun. Keep time in strong midday sun short, and wear a hat.",
    "context": "In this activity, you hunt around your home for jobs that light does. You find out that light does much more than help us see.",
    "setup": [
     {
@@ -1671,10 +1673,10 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Lay the black cloth and the white cloth side by side in direct sun for 5 minutes. Then touch each with the back of your hand. Say which feels warmer. Write what you find next to the jobs list.",
+     "do": "Lay the black cloth and the white cloth side by side on the same flat surface in direct sun for 10 minutes. Guess which will feel warmer first. Then touch each with the back of your hand, eyes closed if a helper moves your hand, and say which feels warmer. Write what you find next to the jobs list.",
      "say": "Black cloth and white cloth have been in the sun for the same time. Touch each. Which feels warmer? What is the black cloth doing with the light that the white cloth is not?",
-     "kid": "Leave two cloths in the sun for 5 minutes. Touch them both. Which is warmer?",
-     "parent": "The black cloth should feel clearly warmer. Black absorbs more light. White reflects more. Keep this finding. The Ice Race experiment tests it much more carefully.",
+     "kid": "Leave two cloths in the sun for 10 minutes. Touch them both. Which is warmer?",
+     "parent": "In direct sun the black cloth usually feels clearly warmer. On a cloudy or damp day the difference is small, so repeat on a sunny day. Black absorbs more light. White reflects more. Keep this finding. The Ice Race experiment tests it much more carefully. With 2 to 4 children: each one searches a different room or the balcony in step 1, then they share lists, and each child touches the cloths blind in turn.",
      "check": {
       "t": "mcq",
       "q": "The black cloth felt warmer than the white one after the same time in the sun. Why?",
@@ -1789,7 +1791,7 @@
      "do": "Ask your child to choose another thing and follow its energy back. A banana, a glass of milk, or a cotton shirt are good choices. Draw the second chain. For milk, include the grass or fodder that the cow eats.",
      "say": "Choose something else. A banana, a glass of milk or a shirt. Where did it come from? What did that need? Keep asking until you reach the Sun.",
      "kid": "Pick another thing. A banana or a glass of milk. Follow it back to the Sun.",
-     "parent": "A glass of milk goes back to the cow, then to the grass or fodder she ate, then to sunlight. A cotton shirt goes back to a cotton plant, then to sunlight. Few things around us do not start from the Sun, so it is good to try a hard one.",
+     "parent": "A glass of milk goes back to the cow, then to the grass or fodder she ate, then to sunlight. A cotton shirt goes back to a cotton plant, then to sunlight. Few things around us do not start from the Sun, so it is good to try a hard one. With 2 to 4 children, each draws a different second chain and the group compares them.",
      "context": "In this step, you follow the energy of a second thing back to the Sun."
     },
     {
@@ -1847,8 +1849,8 @@
      "what": "Build the comet, hang it in front of a fan, and move it around the fan to see which way the tail points."
     }
    ],
-   "record": "Draw the fan in the middle of a page and the comet at four places around it. Draw the tail on each comet. Write what you notice about the direction of the tail.",
-   "safety": "Keep fingers away from the fan blades. Use the lowest speed, and keep the guard on.",
+   "record": "Draw the comet in the middle of a page and the fan at four places around it (in front, to the left, to the right, behind). Draw the tail on the comet each time. Write what you notice about the direction of the tail.",
+   "safety": "Keep fingers, hair and the thread away from the fan blades. Use the lowest speed, keep the guard on, and switch the fan off before you move it.",
    "context": "In this activity, you make a model comet and a model Sun, and test which way a comet's tail points as the comet moves around the Sun.",
    "setup": [
     {
@@ -1860,8 +1862,8 @@
      "caption": "2. Switch the fan on low. The fan is the Sun. Hold the comet in front of it."
     },
     {
-     "art": "A bird's eye view of the fan in the middle and the comet drawn at four places around it, with the tail pointing away from the fan every time.",
-     "caption": "3. Walk the comet in a circle around the fan. Watch which way the tail points."
+     "art": "A bird's eye view of the comet in the middle and the fan drawn at four places around it, with the tail pointing away from the fan every time.",
+     "caption": "3. Keep the comet still and move the fan to its other sides. Then walk the comet toward the fan and away from it. Watch which way the tail points."
     }
    ],
    "flow": [
@@ -1887,11 +1889,11 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Place the fan on a table and switch it on low. Hold the comet by its thread, 30 centimetres in front of the fan. Watch the tail. Then move the comet to the left of the fan, and to the right, and behind it. Watch the tail each time.",
-     "say": "Hold the comet in front of the fan. Which way does the tail go? Now take the comet round to the side. And behind. Does the tail always do the same thing?",
-     "kid": "Hold the comet in front of the fan. Watch the tail. Walk round the fan with it.",
+     "do": "Place the fan on a table and switch it on low. Hold the comet by its thread, 30 centimetres in front of the fan. Watch the tail. A fan blows only forwards. So switch it off and turn it to face the comet from the left. Switch it on and watch. Repeat from the right and from the far side. Last, walk the comet toward the fan, then away. Does the tail trail or lead?",
+     "say": "Hold the comet in front of the fan. Which way does the tail go? Now move the fan to a different side. Does the tail always point away from the fan? Walk the comet toward the fan and then away. Where is the tail now?",
+     "kid": "Hold the comet in front of the fan. Watch the tail. Move the fan to other sides of the comet. Walk the comet toward and away from the fan.",
      "adult": true,
-     "parent": "The tail streams away from the fan from every side. Keep the comet steady so that it does not touch the guard. Switch the fan off before you adjust anything. Switch it to the lowest speed.",
+     "parent": "The tail streams away from the fan from every side. When the comet walks toward the fan, the tail trails behind it. When it walks away, the tail leads in front, which is how a real comet's tail can lead when it is leaving the Sun. Keep the comet steady so that it does not touch the guard. Switch the fan off before you adjust anything. Use the lowest speed. If the tail hangs limp, use a thinner wisp or a smaller clay ball, or move the comet a little closer to the fan, without touching the guard. With 2 to 4 children: one holds the comet, one moves the fan, one draws and one writes. Swap after each side.",
      "check": {
       "t": "mcq",
       "q": "As the model comet goes round the fan, which way does its tail point?",
@@ -1924,7 +1926,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a steel tumbler with warm water, not boiling and not hot enough to hurt",
+     "item": "a steel tumbler filled to the top with warm water from the tap or a geyser, about 45 degrees (not boiling and not hot enough to hurt)",
+     "qty": 1
+    },
+    {
+     "item": "a second, matching steel tumbler filled with ordinary tap water, as the control",
      "qty": 1
     },
     {
@@ -1947,8 +1953,8 @@
      "what": "Fill the tumbler with warm water, find where it is with eyes closed, then block the warmth with a card."
     }
    ],
-   "record": "Write how many of the 6 tries you pointed to the right direction, and what happened when the card was put in the way.",
-   "safety": "A grown-up fills the tumbler. The water must be warm, not hot. Test it with the back of your hand: you must be able to hold your hand against the tumbler for 5 seconds.",
+   "record": "Write how many of the 6 tries you said warm or plain correctly, how many times you pointed to the right side, and what happened when the card was put in the way.",
+   "safety": "A grown-up fills the tumblers. The water must be warm, not hot. Never use boiling or kettle water. Test it with the back of your hand: you must be able to hold your hand against the tumbler for 5 seconds.",
    "context": "In this activity, you find a warm tumbler with your eyes closed, using only the invisible warmth it gives out. You find out that infrared is something your skin can feel.",
    "setup": [
     {
@@ -1988,10 +1994,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child closes their eyes. The helper holds the tumbler about 3 centimetres from the left cheek, without touching. Then the right cheek. Then in front of the nose. Each time, your child points to where they feel the warmth. Count how many of 6 tries are right.",
-     "say": "Eyes closed. Point to where you think the tumbler is. No touching. Keep still and wait a moment. Point again. How many did you get right?",
-     "kid": "Close your eyes. Point to where you feel the warmth. Try six times.",
-     "parent": "Most children get nearly all right. Move the tumbler slowly and in a different order each time, so that your child does not guess a pattern. The warmth they feel is infrared light from the tumbler, landing on the skin.",
+     "do": "Your child closes their eyes. The helper holds the tumbler about 3 centimetres from the left cheek, without touching. Then the right cheek. Then in front of the nose. Do 6 tries in a mixed order: 3 warm and 3 plain, in a pattern your child cannot guess. Each time, your child says warm or plain, and points to the tumbler. Count how many of 6 are right.",
+     "say": "Eyes closed. Is the tumbler near your face warm or plain? Point to where you think it is. No touching. Keep still and wait a few seconds. How many did you get right?",
+     "kid": "Close your eyes. Say warm or plain, and point to where it is. Try six times.",
+     "parent": "Most children get most of them right, because a plain tumbler gives no warmth at all. Guessing by luck would give about 3 of 6, so a score of 5 or 6 is a real sign. Move the tumbler slowly and keep it 2 to 3 centimetres from the skin, with no sound or touch as clues. Warm air rising from the tumbler helps too, so the test does not prove the warmth is only infrared. Part of what the cheek feels is infrared light from the tumbler, landing on the skin. With 2 to 4 children: one is tested, one holds the tumblers, one keeps the score, and they swap.",
      "context": "In this step, you find the warm tumbler with your eyes closed."
     },
     {
@@ -2049,7 +2055,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never shine a torch into anyone's eyes. Keep the cooking oil away from the torches and wipe your hands afterwards.",
+   "safety": "Never shine a torch into anyone's eyes. Keep the cooking oil away from the torches and wipe your hands afterwards. Do not open the key-ring torches: their small button batteries are dangerous if swallowed, so keep them from little children. If anyone has a nut allergy, use coconut or sunflower oil, not groundnut oil.",
    "schedule": [
     {
      "day": 1,
@@ -2114,7 +2120,7 @@
      "do": "Make the room dark. Put the phone torch 50 centimetres from the paper, on one side, pointing at it. Put the key-ring torch on the other side, close to the paper. Look at the paper from beside the phone torch. Slide the key-ring torch away slowly until the spot almost vanishes. Measure both distances.",
      "say": "Look at the spot. Is it darker or brighter than the paper around it? Slide the small torch slowly. When the spot vanishes, both sides are getting the same light. Stop and measure.",
      "kid": "Slide the small torch away slowly. Stop when the spot almost vanishes. Measure both distances.",
-     "parent": "The spot looks dark when the near side is brighter, and bright when the far side is brighter. It nearly vanishes when the two sides get equal light. Look from one side, a little off the line of the torches, so you do not block the light. Take your time. The point of vanishing is a range of a few centimetres, so choose the middle. Repeat twice.",
+     "parent": "The spot looks dark when the near side is brighter, and bright when the far side is brighter. It nearly vanishes when the two sides get equal light. Look from one side, a little off the line of the torches, so you do not block the light. Take your time. The point of vanishing is a range of a few centimetres, so choose the middle. Repeat twice. The room must be properly dark, or the spot will never vanish. The rule works best when the torches are not too close, so if the key-ring torch ends up nearer than about 10 centimetres, move the phone torch further away (up to 80 centimetres) and start again. Real ratios vary a lot, from about 3 to 20 times, depending on the torches. With 2 to 4 children: one slides the key-ring torch, one watches the spot from the side, one measures and one writes. One child alone: tape the phone torch down and slide the key-ring torch yourself.",
      "context": "In this step, you find where the two torches give the same light, using the spot as the judge."
     },
     {

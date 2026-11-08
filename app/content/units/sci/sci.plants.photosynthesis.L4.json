@@ -663,7 +663,7 @@
     "Everyone plays on one team against the pond. The team starts with 8 oxygen, 2 plants and 3 fish in the pond.",
     "The game lasts 6 days. Each day has four parts, in this order. Choose an action. Turn over a weather card. Do the night. Check at dawn.",
     "Choose one action: ADD A PLANT (up to 4 plants), ADD A FISH (up to 5 fish), STIR AT NIGHT (add 2 oxygen during the night), or REST.",
-    "Turn over a weather card and follow it. Add oxygen to the pond for the day. The pond can never hold more than 12 oxygen.",
+    "Turn over a weather card and follow it. Add oxygen to the pond for the day. Do all the adding and taking away for the day first, then drop any oxygen above 12. The pond can never hold more than 12 oxygen.",
     "At night, take away 1 oxygen for every plant and 1 oxygen for every fish. Plants use oxygen at night because they respire all the time and there is no light.",
     "If you chose STIR AT NIGHT, add the 2 oxygen before you take any away.",
     "At dawn, if you cannot take away enough oxygen, take away oxygen until none is left. For every oxygen you could not pay, one fish dies.",
@@ -687,7 +687,7 @@
        ]
       }
      ],
-     "parent": "Do not correct any guess. Write the guess at the top of the pond diary and look at it again at the end.",
+     "parent": "Do not correct any guess. Write the guess at the top of the pond diary and look at it again at the end. With 2 to 4 players, share the jobs: one turns the weather card, one keeps the oxygen, one keeps plants and fish, one writes the diary. Swap jobs each day. Cards and tokens take about 10 minutes to cut out before the first game; beads or dried beans work for oxygen.",
      "context": "This is the first step of Dawn Patrol. You set up the pond."
     },
     {
@@ -766,7 +766,8 @@
       }
      ],
      "think": "A real fish farmer cannot see the oxygen. How could the farmer tell that the pond was running low?",
-     "context": "This step looks back at the whole game and ties it to a real pond."
+     "context": "This step looks back at the whole game and ties it to a real pond.",
+     "parent": " The game is meant to be hard. Adding fish first usually loses, and adding plants early and stirring at night when oxygen is low usually wins. It is fine to lose the first game and play again."
     }
    ]
   },
@@ -891,10 +892,8 @@
     },
     {
      "kind": "tokens",
-     "title": "Tokens for each player",
+     "title": "Two tokens for each player",
      "items": [
-      "PHOTOSYNTHESIS: draw a bright sun on a card",
-      "RESPIRATION: draw a cloud of breath on a card",
       "PHOTOSYNTHESIS: draw a bright sun on a card",
       "RESPIRATION: draw a cloud of breath on a card"
      ]
@@ -1738,12 +1737,12 @@
    "days": 2,
    "question": "Your breath makes cabbage water pinker. Will green leaves in the light turn it blue again? And what will the same leaves do in the dark?",
    "predict": "Before you start, guess. After one day, which jar will be the bluest? Which will be the pinkest? Why do you think so?",
-   "fair_test": "All four jars hold the same amount of the same cabbage water. Jars A, B and C get exactly the same breath, one minute each. Jars B and C get the same number of the same kind of leaf. Only the light changes between B and C, and only the leaves change between A and B. Jar D has no breath and no leaves, so it shows the starting colour. Any difference in colour then comes from the leaves and the light.",
+   "fair_test": "All four jars hold the same amount of the same cabbage water. Jars A, B and C get exactly the same breath, one minute each. Jars B and C get the same number of the same kind of leaf. Only the light changes between B and C, and only the leaves change between A and B. Jar D has no breath and no leaves, so it shows the starting colour. Any difference in colour then comes from the leaves and the light. One child blows into all three jars, so every jar gets the same breath.",
    "results_table": [
     "Jar",
     "What is in it",
     "Colour after blowing, at the start",
-    "Colour after one day",
+    "Colour after one day (ladder number, 1 blue to 5 pink)",
     "Bluer or pinker than jar A?"
    ],
    "materials": [
@@ -1753,7 +1752,7 @@
      "buy": "b-jars"
     },
     {
-     "item": "6 big leaves of red cabbage, chopped small, and 4 cups (about 1 litre) of hot water (a grown-up pours it)",
+     "item": "6 big leaves of red cabbage, chopped small, and 5 cups (about 1.2 litres) of hot water (a grown-up pours it). If your tap or borewell water is hard, use filtered or boiled-and-cooled water, because hard water hides the colour change",
      "qty": 1
     },
     {
@@ -1769,7 +1768,11 @@
      "qty": 4
     },
     {
-     "item": "about 12 fresh leaves of one kind of house plant, such as money plant, or 2 handfuls of one kind of water plant",
+     "item": "two fist-sized bunches of one kind of water plant (hydrilla, elodea or hornwort from an aquarium shop or a pond, about Rs 30 to 50). House-plant leaves, such as money plant (12 per jar), also work but much more weakly",
+     "qty": 1
+    },
+    {
+     "item": "a lemon or a little vinegar, and 4 small clear cups, to make a colour ladder (see step 5)",
      "qty": 1
     },
     {
@@ -1781,8 +1784,8 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the hot water. Blow out gently through the straw and never suck in, because the water is not for drinking. Stop and rest if you feel dizzy. Wash hands afterwards. Cabbage water stains clothes and fingers.",
-   "record": "Photograph all four jars side by side on the white paper at the start and after one day. Colour in the table. Write your claim, your evidence and your reasoning.",
+   "safety": "A grown-up pours the hot water. Blow out gently through the straw and never suck in, because the water is not for drinking. Stop and rest if you feel dizzy. Wash hands afterwards. Cabbage water stains clothes and fingers. Keep the jars where the sun is bright but the glass does not get hot to touch; hot water kills the plants. Wash the water plants first, and wash hands after touching pond plants.",
+   "record": "Match each jar to the colour ladder and write its number. Photograph all four jars side by side on the white paper at the start and after one day. Colour in the table. Write your claim, your evidence and your reasoning.",
    "context": "In this experiment, you catch your own breath in water with a colour that changes. Then you find out what a leaf does to that breath in the light and in the dark.",
    "setup": [
     {
@@ -1826,10 +1829,10 @@
      "id": "s2",
      "mins": 12,
      "adult": true,
-     "do": "A grown-up pours 4 cups (about 1 litre) of hot water over the chopped cabbage. Leave it 10 minutes. Strain it into a bowl and let it cool.",
+     "do": "A grown-up pours 5 cups (about 1.2 litres) of hot water over the chopped cabbage. Leave it 10 minutes. Strain it into a bowl and let it cool.",
      "say": "Pour the hot water over the cabbage. Wait 10 minutes. The water will turn a deep purple. Strain it and let it cool.",
      "kid": "Ask a grown-up to pour hot water on the cabbage. Wait 10 minutes. Strain it.",
-     "parent": "The water should look blue-purple. If it looks pink or red, stir in a tiny pinch of baking soda until it turns blue-purple. Use the same water for all four jars.",
+     "parent": "The water should look blue-purple. If it looks pink or red, stir in a tiny pinch of baking soda until it turns blue-purple. Use the same water for all four jars. Water from a fridge-cold filter or boiled water makes the clearest colours. Hard tap water holds its colour and may show almost no change.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the same cabbage water for all four jars?",
@@ -1860,7 +1863,7 @@
        ]
       }
      ],
-     "parent": "Time each minute with a clock. Photograph the four jars together on the white paper. Jar D stays blue-purple. A, B and C should look more pink-purple than D. If you cannot see a change, blow for two minutes in each jar, but give every jar the same time.",
+     "parent": "Time each minute with a clock. Photograph the four jars together on the white paper. Jar D stays blue-purple. A, B and C should look more pink-purple than D. If you cannot see a change, blow for two minutes in each jar, but give every jar the same time. Each blow should be gentle and slow, as if fogging a mirror. One child blows all three jars, with a rest between, while a partner times each minute. With 2 to 4 children, share the jobs: blower, timer, jar-filler, photographer. With a bigger group, make two sets of jars so everyone has a part.",
      "check": {
       "t": "mcq",
       "q": "Why do we blow for exactly one minute into each of A, B and C?",
@@ -1878,17 +1881,17 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Put the same number of leaves into B and C. Fill them to the top and close the lids tight. Wrap C all over with foil. Put all four jars at a sunny window.",
-     "say": "Put six leaves in B and six in C. Close the lids tightly. Wrap C in foil so no light gets in. Put all four jars in the sun.",
-     "kid": "Add six leaves to B and six to C. Wrap C in foil. Put all jars in the sun.",
-     "parent": "Use fresh leaves of one kind. Keep every jar full to the top with the lid on, because air above the water would change the result. Put the jars where they will get at least four hours of daylight. If the day will be gloomy, leave them for two days.",
+     "do": "Put the same bunch of water plant into B and C. Fill them to the top and close the lids tight. Wrap C all over with foil. Put all four jars at a bright window.",
+     "say": "Put one bunch of water plant in B and the same size bunch in C. Close the lids tightly. Wrap C in foil so no light gets in. Put all four jars in the light.",
+     "kid": "Add one bunch of water plant to B and the same to C. Wrap C in foil. Put all jars in the light.",
+     "parent": "Use fresh water plant of one kind, and weigh or measure the two bunches by eye to be the same. Keep every jar full to the top with the lid on, because air above the water would change the result. With water plants the change often shows within 3 to 5 hours of sun, so peek in the afternoon. If the day is gloomy, leave them for two days. In very hot weather, move the jars to a bright but cooler spot.",
      "wait": "Leave the jars for one day",
      "context": "In this step, you add leaves and set up light and dark, then wait a day."
     },
     {
      "id": "s5",
      "mins": 8,
-     "do": "Unwrap jar C. Put all four jars side by side on the white paper. Photograph them. Colour in the table.",
+     "do": "Unwrap jar C. Put all four jars side by side on the white paper. Match each to the colour ladder. Photograph them. Colour in the table.",
      "say": "Look at the four jars together. Which is the bluest? Which is the pinkest? What did you expect? What did you see?",
      "kid": "Unwrap jar C. Look at all four jars. Which is the bluest? Which is the pinkest?",
      "ask": [
@@ -1901,7 +1904,7 @@
        ]
       }
      ],
-     "parent": "Expected: jar D stays blue. Jar A stays pink-purple. Jar B is bluer than A. Jar C is pinker than A. The changes may be small, so judge them side by side on white paper. If all jars look the same, the leaves may be too few or the light too weak. Leave them one more day, or repeat with more leaves. That is also a real result, so write it down.",
+     "parent": "Make the colour ladder first, from spare cabbage water: put the same amount in 4 small cups and add 0, 1, 2 and 3 drops of lemon juice or vinegar, so they go from blue to pink. Number the cups 1 (blue) to 5 (pink); jar D is about 1. Expected with water plant: jar D stays blue. Jar A stays pink-purple. Jar B is bluer than A. Jar C is pinker than A. The changes can be small, so judge side by side on white paper. If all jars look the same, the plants may be too few or the light too weak, or your water is hard. Leave them one more day, or repeat with more plant. With house-plant leaves, expect little or no change; that is also a real result, so write it down.",
      "think": "Jar A had no leaves and stayed pink. What does that tell you about the colour change in B?",
      "context": "In this step, you compare the jars after a day and say what you saw."
     },
@@ -1957,7 +1960,7 @@
    "days": 8,
    "question": "Tiny green algae can turn a jar of water green, if they get what they need. Does the green grow faster in the sun, in the shade or in the dark?",
    "predict": "Before you start, guess. Which jar will be the greenest after a week? Which will be the clearest? Why do you think so?",
-   "fair_test": "All three jars hold the same amount of the same water from the same source, with the same tiny pinch of fertiliser. They are the same kind of jar and are covered in the same way. Only the amount of light changes: sunny window, shady corner and dark cupboard. So any difference in the greenness comes from the light.",
+   "fair_test": "All three jars hold the same amount of the same water from the same source, with the same tiny pinch of fertiliser. They are the same kind of jar and are covered in the same way. Only the amount of light changes: sunny window, shady corner and dark cupboard. So any difference in the greenness comes from the light. With 2 to 4 children, each child owns one jar and does the same jobs, or the children share the jobs of filler, scorer and recorder.",
    "results_table": [
     "Day",
     "Jar A (sunny window): see-through score",
@@ -1979,7 +1982,7 @@
      "qty": 1
     },
     {
-     "item": "a tiny pinch of liquid plant fertiliser, or a few drops, the same in each jar",
+     "item": "a tiny pinch of liquid plant fertiliser, or a few drops, the same in each jar. Without it, use one teaspoon of rice-washing water in each jar",
      "qty": 1,
      "buy": "b-fert"
     },
@@ -1992,7 +1995,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not drink the water. A grown-up measures the fertiliser, which must be kept away from eyes and mouth. Wash your hands after touching it. Cover every jar with cloth, because uncovered standing water can breed mosquitoes. When the test is over, pour the water on the soil of a plant, away from the house.",
+   "safety": "Do not drink the water. A grown-up measures the fertiliser, which must be kept away from eyes and mouth. Wash your hands after touching it. Cover every jar with cloth, because uncovered standing water can breed mosquitoes. When the test is over, pour the water on the soil of a plant, away from the house. Wash hands after touching pond or tank water.",
    "record": "On days 1, 3, 5 and 8, hold each jar in front of the white card with the cross. Give it a see-through score from 0 to 3. Draw the three jars on day 8.",
    "context": "In this experiment, you grow a crowd of tiny floating plants in three jars with different amounts of light. You find out how light changes how green a pond gets.",
    "setup": [
@@ -2035,7 +2038,7 @@
      "do": "Pour 300 millilitres of water into each jar. Add a spoonful of green water to each, if you have it. Add the same tiny pinch of fertiliser to each.",
      "say": "Pour the same amount of water in each jar. Add the same pinch of fertiliser to each. Make everything exactly the same.",
      "kid": "Pour the same water in each jar. Add the same pinch of fertiliser.",
-     "parent": "Fertiliser feeds the algae. Use a very small amount, such as one drop or a pinch the size of a grain of rice. If you cannot find green water from a pond, a rain bucket or a fish tank, use water that has stood under a pot plant for a few days. The green may take longer to start.",
+     "parent": "Fertiliser feeds the algae. Use a very small amount, such as one drop or a pinch the size of a grain of rice. If you cannot find green water from a pond, a rain bucket or a fish tank, use water that has stood under a pot plant for a few days. The green may take longer to start. The best green water is from a bucket or pot saucer that has sat in sun for a week and looks slightly green.",
      "check": {
       "t": "mcq",
       "q": "Why do all three jars get the same water and the same pinch of fertiliser?",
@@ -2076,7 +2079,7 @@
        ]
       }
      ],
-     "parent": "Use the same card, the same spot and the same lighting to judge every jar every time. Take a photograph too. If nothing has changed by day 3, wait. Algae can take a week to grow.",
+     "parent": "Use the same card, the same spot and the same lighting to judge every jar every time. Take a photograph too. If nothing has changed by day 3, wait. In warm sunny weather the green is usually clear in about 5 to 8 days; in cool or cloudy weather it can take two weeks, so keep scoring every 2 days if you need to.",
      "context": "In this step, you check the three jars and score how green they are."
     },
     {
@@ -2107,7 +2110,7 @@
       "a": 0,
       "why": "Algae make their own food by photosynthesis, and photosynthesis needs light. In the dark, they cannot make food, so they do not multiply. Picking that they are not alive is a mix-up. They are tiny living plants."
      },
-     "parent": "If all three jars stayed clear, the water may have had no algae to start. That is a real result. Add a spoon of green pond water and begin again. If all three went green, check whether the shade jar got more light than you thought.",
+     "parent": "If all three jars stayed clear after 8 days, the water may have had no algae to start, or the weather was cool. That is a real result. Add a spoon of green pond water and begin again, or carry on to day 12. If all three went green, check whether the shade jar got more light than you thought.",
      "think": "The pond in the story had thick green water, and its fish still ran short of oxygen. What do you think thick green water does at night?",
      "context": "In this step, you compare the three jars at the end and say what light does to a pond."
     }
@@ -2146,8 +2149,9 @@
    "results_table": [
     "Glass",
     "Bowl it stands in",
-    "Bubbles after 10 minutes (score 0 to 5)",
-    "Bubbles after 30 minutes (score 0 to 5)"
+    "Minutes until the first bubble",
+    "Bubbles in a 2-centimetre patch after 10 minutes",
+    "Bubbles in a 2-centimetre patch after 30 minutes"
    ],
    "materials": [
     {
@@ -2167,18 +2171,18 @@
      "qty": 1
     },
     {
-     "item": "a thermometer, to check that the warm water is not hot",
+     "item": "a thermometer is best to check the warm water: a digital fever thermometer from a medical shop (about Rs 100 to 200) works. With no thermometer, the warm bowl should feel like comfortable bath water, so that you can keep a finger in for 10 seconds",
      "qty": 1,
      "buy": "b-thermo"
     },
     {
-     "item": "a magnifying glass, a clock and a white sheet of paper",
+     "item": "a magnifying glass (stationery shop) or a phone camera zoom, a clock and a white sheet of paper",
      "qty": 1,
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up checks that the warm water is hand-warm, about 40 degrees Celsius, and never hot. Use glasses that are not chipped. Do not drink the water from the test.",
-   "record": "Give each glass a bubble score from 0 (none) to 5 (many tiny bubbles all over) after 10 and 30 minutes. Take a photograph of each. Write what you think the bubbles are.",
+   "safety": "A grown-up checks that the warm water is hand-warm, about 40 degrees Celsius, and never hot. Use glasses that are not chipped. Do not drink the water from the test. Keep the bowl water below the rim of each glass so none gets in, and stand the bowls on a flat place where they will not tip.",
+   "record": "Note how many minutes pass before the first bubble shows. After 10 and 30 minutes, count the bubbles in a 2-centimetre patch of the glass wall (or score 0 to 5 if there are too many to count). Take a photograph of each. Write what you think the bubbles are.",
    "context": "In this experiment, you warm or chill the same water and watch for tiny bubbles. This shows what happens to the air that is dissolved in a pond when the weather turns hot.",
    "setup": [
     {
@@ -2221,7 +2225,7 @@
      "do": "Prepare three bowls: icy, cool and hand-warm. A grown-up checks the warm water with a thermometer. Pour fridge-cold water into three glasses and stand one in each bowl.",
      "say": "Make an icy bowl, a cool bowl and a hand-warm bowl. Check that the warm bowl is not hot. Pour cold water in the glasses and stand them in the bowls.",
      "kid": "A grown-up helps with the warm bowl. Stand each glass in a bowl.",
-     "parent": "The warm bowl should feel like a pleasant bath, about 40 degrees Celsius. Pour all three glasses from the same jug at the same time. Do not shake the jug before pouring.",
+     "parent": "The warm bowl should feel like a pleasant bath, about 40 degrees Celsius. Pour all three glasses from the same jug at the same time. Do not shake the jug before pouring. With 2 to 4 children, give each child one glass and bowl to watch and score, and compare the scores at the end. In hot weather, tap water is already warm, so the cool bowl will be about room temperature, not cold.",
      "check": {
       "t": "mcq",
       "q": "Why do we pour all three glasses from the same jug of fridge-cold water?",
@@ -2252,7 +2256,7 @@
        ]
       }
      ],
-     "parent": "Expected: the warm-bowl glass has the most small bubbles, the cool one a few, the icy one the fewest. Bubbles may be small. Look closely, with a magnifier, against a white sheet. If you see no difference, the water may have been too warm already. Repeat with water straight from the fridge.",
+     "parent": "Expected: the glass in the warm bowl grows tiny bubbles first and the most, the cool bowl a few, and the icy bowl the fewest or none. The glass in the cool bowl also warms up to room temperature, so it may get bubbles later. Bubbles are small. Look closely, with a magnifier or phone zoom, against a white sheet. If you see no difference, the water may have been too warm to start; repeat with water straight from the fridge, and make the icy bowl really icy.",
      "context": "In this step, you look for tiny bubbles and score them."
     },
     {
@@ -2309,12 +2313,12 @@
      "qty": 1
     },
     {
-     "item": "a magnifying glass, a clip-on phone microscope lens, or a phone with a close-up camera",
+     "item": "a magnifier: a clip-on phone microscope lens works best; otherwise a magnifying glass or your phone camera zoomed in close",
      "qty": 1,
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up paints the nail polish, in a room with an open window, because the smell is strong. Keep it away from your face and from flames. Nail polish must never be swallowed or touched to the eyes.",
+   "safety": "A grown-up paints the nail polish, in a room with an open window, because the smell is strong. Keep it away from your face and from flames. Nail polish must never be swallowed or touched to the eyes. Nail polish catches fire easily, so keep any diya or match out of the room.",
    "schedule": [
     {
      "day": 1,
@@ -2365,7 +2369,7 @@
      "do": "A grown-up paints a patch of clear nail polish on the underside of the leaf. Wait 10 minutes for it to dry. Peel it off with clear tape.",
      "say": "Paint a patch of polish on the underside of the leaf. Wait until it is dry. Press the tape on it and peel it off.",
      "kid": "A grown-up paints the leaf. Wait until it is dry. Peel it off with tape.",
-     "parent": "Open a window for the smell. Make the patch about the size of a coin. If the polish lifts off in a clean thin sheet, it has worked. If it tears, make a thicker coat. Repeat on the top of the leaf in a different spot.",
+     "parent": "Open a window for the smell. Make the patch about the size of a coin. If the polish lifts off in a clean thin sheet, it has worked. If it tears, make a thicker coat. Repeat on the top of the leaf in a different spot. With 2 to 4 children, each child picks a different leaf and a grown-up paints one patch for each. Clear nail polish costs about Rs 30 at a general store.",
      "check": {
       "t": "mcq",
       "q": "The polish print shows the shape of the leaf's skin. What does the polish do?",
@@ -2396,7 +2400,7 @@
        ]
       }
      ],
-     "parent": "A phone clip-on lens that magnifies about 60 times works best. With only a magnifying glass, the cell pattern shows faintly, and the stomata may be hard to pick out. That is fine. The print is still a real record, and you can compare it with a photograph.",
+     "parent": "A phone clip-on lens that magnifies about 60 times works best (optional, about Rs 250 to 500). A plain magnifying glass or phone zoom shows the print only as a faint pattern of cell outlines, and the stomata may not be clear. That is honest: record what you can see, then count the cell outlines instead of stomata, or look at the print under a school or friend's microscope.",
      "think": "A leaf can close the stomata. What would be the cost of closing them on a very hot day?",
      "context": "In this step, you look for stomata in your print and draw them."
     }
@@ -2486,7 +2490,7 @@
        ]
       }
      ],
-     "parent": "Expected: the shade leaf is usually larger, thinner and darker, and the sun leaf is smaller, thicker and a little paler. The differences may be small. Count a square only if more than half of it is inside the line. If the leaves look the same, try a different plant.",
+     "parent": "Expected: the shade leaf is usually larger, thinner and darker, and the sun leaf is smaller, thicker and a little paler. The differences may be small. Count a square only if more than half of it is inside the line. If the leaves look the same, try a different plant. For a fairer comparison, take three leaves from the sun and three from the shade and use the average (add the three areas and divide by 3). With 2 to 4 children, each child traces and counts one pair of leaves, then the group compares results.",
      "check": {
       "t": "mcq",
       "q": "A shade leaf is often bigger, thinner and darker green than a sun leaf. Which is the best reason?",
@@ -2527,7 +2531,7 @@
      "qty": 1
     },
     {
-     "item": "a steel spoon with a long handle, a thick cloth to hold it, and a steel plate to rest it on",
+     "item": "a steel spoon with a long handle (or a steel katori held in tongs), a thick cloth to hold it, and a steel plate to rest it on",
      "qty": 1
     },
     {
@@ -2539,7 +2543,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up lights the diya and holds the spoon. Keep long hair tied back and loose sleeves away from the flame. Keep the bowl of water close. The spoon gets hot, so hold it with a cloth. Never leave a lit diya alone. Use coconut oil if anyone at home is allergic to sesame.",
+   "safety": "A grown-up lights the diya and holds the spoon. Keep long hair tied back and loose sleeves away from the flame. Keep the bowl of water close. The spoon gets hot, so hold it with a cloth. Never leave a lit diya alone. Use coconut oil if anyone at home is allergic to sesame. Children watch from at least one metre away and never touch the spoon until it has cooled for a few minutes. Keep the diya on a steel plate on a steady table, away from curtains and paper.",
    "schedule": [
     {
      "day": 1,
@@ -2587,10 +2591,10 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "A grown-up lights the diya. Hold a cold spoon with a cloth 3 centimetres above the flame tip for 5 seconds. Then rest the spoon on the steel plate.",
+     "do": "A grown-up lights the diya. Hold a cold spoon in a cloth so its underside touches the yellow flame tip for 3 to 5 seconds. Rest it on the steel plate. Try again low in the blue part and compare.",
      "say": "Watch the spoon. A black patch is forming. Where could the black stuff come from?",
      "kid": "A grown-up lights the diya and holds the spoon. Look for black.",
-     "parent": "Use a clean, cool spoon. Do not touch the flame with it. The black soot forms on the underside of the spoon, where the flame tip is not getting enough air to burn the carbon fully. If the soot is faint, hold the spoon a second longer.",
+     "parent": "Use a clean, cool spoon. The black soot forms on the underside of the spoon where it cools the yellow part of the flame, which has glowing bits of unburnt carbon. In the blue part near the wick there is plenty of air and the carbon burns away, so there should be much less soot. If the soot is faint, hold the spoon in the yellow tip a second longer. Take care that the spoon does not smother the flame.",
      "check": {
       "t": "mcq",
       "q": "The black patch on the spoon is soot, mostly carbon. Where did that carbon come from, in the end?",
@@ -2705,7 +2709,7 @@
        ]
       }
      ],
-     "parent": "Stop at once if your child feels dizzy or unwell. Count a breath each time the chest rises. Counting together is easier than counting alone.",
+     "parent": "Stop at once if your child feels dizzy or unwell. Count a breath each time the chest rises. Counting together is easier than counting alone. With 2 to 4 children, work in pairs: one counts, one is counted, then swap. Count while the child reads or looks away, because people breathe differently when they watch their own breath. Resting numbers are typical, not exact.",
      "check": {
       "t": "mcq",
       "q": "Why do you breathe faster after jumping?",
@@ -2817,7 +2821,8 @@
       "a": 0,
       "why": "Photosynthesis needs light. On a cloudy day, the pond's plants and algae make less oxygen, but everything in the pond still uses it. So the whole line sits lower."
      },
-     "context": "In this step, you draw the two lines of practice numbers."
+     "context": "In this step, you draw the two lines of practice numbers.",
+     "parent": " With 2 to 4 children, one draws the sunny line and another the cloudy line on the same graph, then check each other's dots. A single child does both."
     },
     {
      "id": "s3",
@@ -2863,11 +2868,15 @@
      "qty": 1
     },
     {
-     "item": "2 small plants or cuttings that like humid air, such as money plant, tradescantia or a small fern",
+     "item": "2 small plants or cuttings that like humid air, such as money plant or tradescantia cuttings (often free from a neighbour), or a small fern",
      "qty": 2
     },
     {
      "item": "a spoon, a spray bottle of water and a notebook",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, to measure the tallest stem",
      "qty": 1
     }
    ],
@@ -2899,7 +2908,7 @@
      "what": "Look, draw and write what the jar did without being opened for four weeks."
     }
    ],
-   "record": "Draw the jar on days 1, 7, 14 and 28. Write how many water drops there were, whether the plants grew, and anything that went wrong.",
+   "record": "Draw the jar on days 1, 7, 14 and 28. Measure the tallest stem in centimetres each time. Write how many water drops there were, whether the plants grew, and anything that went wrong.",
    "context": "In this project, you seal a small garden in a jar and leave it for four weeks. You find out how plants, soil and air can recycle each other, with no new air or water.",
    "setup": [
     {
@@ -2941,7 +2950,7 @@
      "do": "Put pebbles in the jar, then soil about 6 centimetres deep. Plant the two plants. Spray lightly with water. Close the lid.",
      "say": "Put the pebbles in first. Add the soil. Plant the two plants gently. Spray the soil with water, just a little, and close the lid.",
      "kid": "Add pebbles, then soil. Plant two plants. Spray lightly. Close the lid.",
-     "parent": "The soil should be damp, not wet. Water should not pool at the bottom. If water drips down the glass at the start, open the lid for an hour to let some out. Use plants that like moist air. Cacti and succulents will rot in a sealed jar.",
+     "parent": "The soil should be damp, not wet. Water should not pool at the bottom. If water drips down the glass at the start, open the lid for an hour to let some out. Use plants that like moist air. Cacti and succulents will rot in a sealed jar. In the damp monsoon, mould grows easily, so spray very lightly and use a little less soil water. With 2 to 4 children, each builds a jar of their own, and one sibling can make a second jar with the lid left off and not watered, to compare with the sealed one.",
      "check": {
       "t": "mcq",
       "q": "Why is the jar kept in bright light but out of direct sun?",
@@ -3531,7 +3540,7 @@
    "id": "b-jars",
    "item": "Four to eight clear glass jars with lids",
    "kind": "material",
-   "why": "For the Breath Colours and Green Water tests and the sealed jar garden. Empty jam or pickle jars from the kitchen work well.",
+   "why": "For the Breath Colours and Green Water tests and the sealed jar garden. Empty jam or pickle jars from the kitchen work well. Water plants for the Breath Colours test come from an aquarium shop (about Rs 30 to 50).",
    "url": "https://www.amazon.in/s?k=glass+jars+with+lid+250+ml",
    "used_in": [
     "e1",
@@ -3541,9 +3550,9 @@
   },
   {
    "id": "b-lens",
-   "item": "A magnifying glass or a clip-on phone microscope lens",
+   "item": "A magnifying glass (about Rs 50 at a stationery shop); a clip-on phone microscope lens is optional",
    "kind": "tool",
-   "why": "For looking at leaf prints, leaf veins and tiny bubbles. A clip-on lens that magnifies about 60 times shows stomata best.",
+   "why": "For looking at leaf prints, leaf veins and tiny bubbles. A plain magnifying glass is enough for leaf veins and bubbles. A clip-on lens (about Rs 250 to 500) that magnifies about 60 times shows stomata best, but is optional.",
    "url": "https://www.amazon.in/s?k=clip+on+phone+microscope+lens",
    "used_in": [
     "a1",
@@ -3555,7 +3564,7 @@
    "id": "b-fert",
    "item": "A small bottle of liquid plant fertiliser",
    "kind": "material",
-   "why": "For the Green Water test, where a very small pinch feeds the algae. A small bottle from a plant shop lasts a long time.",
+   "why": "For the Green Water test, where a very small pinch feeds the algae. A small bottle from a plant shop lasts a long time. Rice-washing water works if you do not want to buy any.",
    "url": "https://www.amazon.in/s?k=liquid+plant+fertilizer+houseplants",
    "used_in": [
     "e2"
@@ -3563,9 +3572,9 @@
   },
   {
    "id": "b-thermo",
-   "item": "A kitchen or lab thermometer",
+   "item": "A digital fever thermometer (optional)",
    "kind": "tool",
-   "why": "For checking that the warm water in the Bubbles on the Glass test is hand-warm, and not hot.",
+   "why": "For checking that the warm water in the Bubbles on the Glass test is hand-warm, and not hot. A fever thermometer from a medical shop works (about Rs 100 to 200). Without one, use the finger test.",
    "url": "https://www.amazon.in/s?k=kitchen+thermometer+digital",
    "used_in": [
     "e3"

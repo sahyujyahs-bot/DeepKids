@@ -710,7 +710,7 @@
     }
    ],
    "rules": [
-    "Cut out the cards and shuffle them in a pile with the sound side up. Draw the ladder with six bands on a big sheet of paper.",
+    "Cut out the cards and shuffle them in a pile with the sound side up. Draw the ladder with six bands on a big sheet of paper: 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119, and 120 and up.",
     "The first player turns over the top card and reads the sound on the front. The card is not turned over yet.",
     "Everybody guesses which band of the ladder the sound belongs to, and says why.",
     "Turn the card over and read the decibel number. Place the card on the right band of the ladder.",
@@ -723,10 +723,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the 24 cards and shuffle them. Draw the ladder with six bands on a big sheet of paper, with the quietest band at the bottom. Put the ladder in the middle of the table.",
+     "do": "Cut out the 24 cards and shuffle them. Draw the ladder with six bands on a big sheet of paper, with the quietest band at the bottom. Put the ladder in the middle of the table. Write the six bands on the ladder. They are 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119 and 120 up.",
      "say": "Each card has a sound on the front. On the back is how loud it is. We will guess how loud each sound is. Then we place it on a ladder, from quiet at the bottom to loud at the top.",
      "kid": "Cut out the cards. Shuffle them. Draw the ladder with six bands.",
-     "context": "This is the first step of the Decibel Ladder. You make the cards and the ladder."
+     "context": "This is the first step of the Decibel Ladder. You make the cards and the ladder.",
+     "parent": "With 2 to 4 players, everyone guesses at once and keeps their own score. Take turns to read the cards. Playing alone works too."
     },
     {
      "id": "s2",
@@ -806,7 +807,7 @@
    "context": "In this experiment you sit with your eyes shut while someone clinks a spoon in different places around you, and you point to each one. You do it with two ears and then with one ear covered.",
    "question": "How well can you find where a sound is with two ears, and how much worse is it with one ear covered?",
    "predict": "Before you start, guess. Out of 16 clicks, how many will you point to exactly right with two ears, and how many with one ear covered? Why do you think so?",
-   "fair_test": "Use the same chair, the same spoon and katori, the same distance of 1.5 metres and the same eight places every time. Each place is clicked twice in each round, in a mixed-up order. Only the ears change. Keep your eyes shut or covered for every click. Keep your head still in Rounds A and B.",
+   "fair_test": "Use the same chair, the same spoon and katori, the same distance of 1.5 metres and the same eight places every time. Each place is clicked twice in each round, in a mixed-up order. Only the ears change. Keep your eyes shut or covered for every click. Keep your head still in Rounds A and B. Do it in the quietest room, with fans and the TV off.",
    "results_table": [
     "Round",
     "My guess: how many exactly right out of 16?",
@@ -829,7 +830,7 @@
      "qty": 1
     },
     {
-     "item": "a soft ear cover, such as children's earmuffs, a thick woollen cap pulled over one ear, or a folded towel held by a hand",
+     "item": "a soft ear cover, such as children's earmuffs, a thick woollen cap pulled over one ear, or a folded towel pressed on firmly by a helper. Earmuffs are optional",
      "qty": 1,
      "buy": "b-earmuffs"
     },
@@ -868,7 +869,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down, with the reason. Children often guess they will get most right with two ears, and some think one ear will not matter.",
+     "parent": "Do not correct the guess. Write it down, with the reason. Children often guess they will get most right with two ears, and some think one ear will not matter. Roles: one child listens, one clicks and one writes the scores. With 2 to 4 children, take turns as listener, with 8 clicks per round for each. Each listener keeps their own table and the same covered ear.",
      "context": "This is the first step of the Sound Clock. You guess before you test."
     },
     {
@@ -887,7 +888,7 @@
      "do": "Cover your child's eyes. Draw a slip and move to that place quietly. Click once. Your child points and says front, left, back or so on. Write it down. Do all 16 slips. Keep the head still.",
      "say": "Keep your head still. When you hear the click, point with one finger and say where it is. Even if you are not sure, make a guess.",
      "kid": "Eyes covered. Keep your head still. Point to each click.",
-     "parent": "Round A is two ears, head still. Mark each pointing as exactly right, one place off, or more than one place off. Front and back mix-ups count as more than one place off. Expect about 10 or 11 exactly right, and a few front and back mix-ups.",
+     "parent": "Round A is two ears, head still. Mark each pointing as exactly right, one place off, or more than one place off. Front and back mix-ups count as more than one place off. Typically a child gets about 9 to 12 exactly right, plus a few front and back mix-ups. Your numbers will differ.",
      "check": {
       "t": "mcq",
       "q": "A click straight in front of your head and a click straight behind your head reach both ears together. Why are these two places the hardest to tell apart?",
@@ -907,7 +908,7 @@
      "do": "Now cover one ear with a soft cover. Shuffle the slips and do another 16 clicks. Keep the head still. Mark each one as before. Note which side most of the mistakes lean towards.",
      "say": "This time one ear is covered. Same game. Keep your head still. Point when you hear the click. Do you think it will be harder or easier?",
      "kid": "One ear is covered. Same game. Keep your head still.",
-     "parent": "Round B is one ear covered. Expect only about 4 to 6 exactly right, and many wrong answers leaning toward the open ear, because the sound seems louder there. If your child finds that sounds on the covered side seem to come from the front, that is normal. Remember: nothing goes inside the ear. Use an earmuff, a cap or a hand.",
+     "parent": "Round B is one ear covered. Typically about 4 to 7 exactly right, though some children do better. If nothing changes, press the cover on harder and use a quieter room. Many wrong answers leaning toward the open ear, because the sound seems louder there. If your child finds that sounds on the covered side seem to come from the front, that is normal. Remember: nothing goes inside the ear. Use an earmuff, a cap or a hand.",
      "context": "In this step, you do Round B: one ear covered, head still."
     },
     {
@@ -916,7 +917,7 @@
      "do": "Take the ear cover off. Shuffle the slips and do a third round of 16 clicks. This time your child may turn the head from side to side while listening. Eyes stay covered.",
      "say": "Back to two ears. This time you may turn your head from side to side as you listen. Does it help?",
      "kid": "Two ears again. This time you may turn your head. Does it help?",
-     "parent": "Round C is two ears with head turns. Expect the front and back mix-ups to almost vanish, and 13 or more exactly right. When the head turns, the sound changes which ear is nearer, and the brain uses the change.",
+     "parent": "Round C is two ears with head turns. Typically the front and back mix-ups drop a lot and 12 or more are exactly right. Results vary. When the head turns, the sound changes which ear is nearer, and the brain uses the change.",
      "context": "In this step, you do Round C: two ears, head turns allowed."
     },
     {
@@ -1005,7 +1006,7 @@
    "context": "In this experiment a grown-up whispers numbers from different distances, first in a quiet room and then with a tap running. You find out how far a whisper reaches each time.",
    "question": "How much shorter is the distance a whisper reaches when there is noise, and what can a speaker do to be heard?",
    "predict": "Before you start, guess. How far will a whisper reach in a quiet room? How far with a tap running gently? How far with the tap running hard? Why do you think so?",
-   "fair_test": "The listener sits in the same place with eyes shut for every test. The whisperer uses the same quiet whisper for every digit. Only the noise changes. Five digits are whispered at each distance, picked in a mixed-up order. A distance counts as heard if the listener gets at least 4 of the 5 right.",
+   "fair_test": "The listener sits in the same place with eyes shut for every test. The whisperer uses the same quiet whisper for every digit. Only the noise changes. Five digits are whispered at each distance, picked in a mixed-up order. A distance counts as heard if the listener gets at least 4 of the 5 right. The whisperer practises one steady whisper at 1 metre first. Fans and the TV are off, except the noise being tested.",
    "results_table": [
     "Noise",
     "My guess: how far will a whisper reach? (metres)",
@@ -1018,7 +1019,7 @@
    ],
    "materials": [
     {
-     "item": "a long clear space of at least 6 metres, such as a corridor or a hall, with marks at 1, 2, 3, 4 and 5 metres in tape or paper slips",
+     "item": "a long clear space of at least 6 metres, such as a corridor or a hall, with marks at 1, 2, 3, 4 and 5 metres in tape or paper slips. No 6 metres? Use a terrace, a stair landing or a quiet lane",
      "qty": 1
     },
     {
@@ -1026,7 +1027,7 @@
      "qty": 1
     },
     {
-     "item": "a tap that can run gently and hard, and a steel bucket to catch the water",
+     "item": "a steady noise: a tap running into a steel bucket (keep the water for the plants), or a table fan on high, or a phone playing a steady rain or crowd track at a fixed volume",
      "qty": 1
     },
     {
@@ -1064,16 +1065,16 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. A whisper is about 30 decibels. In a quiet room it often reaches 4 or 5 metres. Write the guess in metres.",
+     "parent": "Do not correct the guess. A whisper is about 30 decibels. In a quiet room it often reaches 4 or 5 metres. Write the guess in metres. Roles: one child listens, one whispers and one records. Keep the same listener for all the tests so they are fair. With 2 to 4 children, swap listeners on another day, or repeat only the quiet round.",
      "context": "This is the first step of Hiding a Whisper. You guess before you test."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Mark 1, 2, 3, 4 and 5 metres along the floor from the listener's chair. Write the digit lists. Put the bucket under the tap, if the room has one. If not, get a fan ready.",
+     "do": "Mark 1, 2, 3, 4 and 5 metres along the floor from the listener's chair. Write the digit lists. Put the bucket under the tap, if the room has one. If not, get a fan or a phone with a rain track ready.",
      "say": "We mark the floor at 1, 2, 3, 4 and 5 metres from the chair. For each distance I will whisper five digits. I have written them down in a mixed-up order.",
      "kid": "Mark the floor at 1, 2, 3, 4 and 5 metres. Sit on the chair.",
-     "parent": "If your tap is not in the same room, use a table fan on its highest setting, or a radio tuned between two stations, as your loud noise. Put the noise source near the listener, about 1.5 metres to one side. Make sure the noise is steady. The listener keeps eyes covered.",
+     "parent": "If your tap is not in the same room, use a table fan on its highest setting, or a phone playing a steady rain or crowd track at a fixed volume, as your loud noise. Put the noise source near the listener, about 1.5 metres to one side. Make sure the noise is steady. The listener keeps eyes covered.",
      "context": "In this step, you mark the distances and get the noise ready."
     },
     {
@@ -1082,7 +1083,7 @@
      "do": "Do the quiet round first. Stand at 1 metre. Whisper five digits one at a time. The listener says each digit. Write down how many are right. Then move to 2, 3, 4 and 5 metres.",
      "say": "Listen carefully. I will whisper a number. Say it back. If you don't hear it, take a guess. We start with a quiet room.",
      "kid": "Eyes covered. Listen for each number. Say it back. Guess if unsure.",
-     "parent": "Whisper clearly but quietly, always the same way. Stop moving back when the listener gets fewer than 4 of 5 right. The furthest distance with 4 or 5 right is the whisper reach. Expect 3 to 5 metres in a quiet room.",
+     "parent": "Whisper clearly but quietly, always the same way. Stop moving back when the listener gets fewer than 4 of 5 right. The furthest distance with 4 or 5 right is the whisper reach. Typically 3 to 5 metres in a quiet room. A small room, hard walls or street noise will change this.",
      "check": {
       "t": "mcq",
       "q": "Why do we whisper five digits at each distance, and not just one?",
@@ -1102,7 +1103,7 @@
      "do": "Turn on the tap gently, with a steady trickle into the bucket. Repeat the whispers at 1, 2, 3, 4 and 5 metres. Then turn the tap on hard and repeat. Write the scores.",
      "say": "Now the tap runs gently. Same whispers, same places. Listen and say the number. Then we will turn the tap up and do it again.",
      "kid": "Tap running. Listen for each number. Say it back.",
-     "parent": "Expect a shorter whisper reach with the gentle tap, about 2 or 3 metres, and a much shorter one with the tap hard, about 1 metre or less. If the whisper cannot be heard even at 1 metre, move to half a metre. The whisper is still reaching the ear. It is hidden by the noise.",
+     "parent": "Typically the whisper reaches less far with the gentle tap, about 2 or 3 metres, and much less with the tap hard, about 1 metre or less. Your numbers will differ. If the whisper cannot be heard even at 1 metre, move to half a metre and write it beside the table. The whisper is still reaching the ear. It is hidden by the noise.",
      "context": "In this step, you find how far a whisper reaches in two levels of noise."
     },
     {
@@ -1204,7 +1205,7 @@
    "context": "In this experiment you measure how loud a steady sound is at four distances with a free sound meter app, and find what happens each time you double the distance.",
    "question": "Each time you double your distance from a steady sound, how many decibels does it drop?",
    "predict": "Before you start, guess. If the fan reads 60 decibels at 1 metre, what will it read at 2 metres, 4 metres and 8 metres? Why do you think so?",
-   "fair_test": "Use the same fan on the same setting, the same phone and app, and the same height, one metre from the floor, for every reading. Only the distance changes. Take three readings at each distance and use the middle one, because an app jumps around.",
+   "fair_test": "Use the same sound on the same setting, the same phone and app, and the same height, one metre from the floor, for every reading. Only the distance changes. Take three readings at each distance and use the middle one, because an app jumps around.",
    "results_table": [
     "Distance from the fan (metres)",
     "My guess (decibels)",
@@ -1215,7 +1216,7 @@
    ],
    "materials": [
     {
-     "item": "a table fan, a mixer left running in a sink, or any steady sound that stays the same for a few minutes",
+     "item": "a steady sound that stays the same for a few minutes: a table fan on high, or a phone or speaker playing a steady white-noise or rain track at a fixed volume",
      "qty": 1
     },
     {
@@ -1239,7 +1240,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not put the phone close to a loud sound for long. Switch off the fan when you finish. Keep fingers away from fan blades.",
+   "safety": "Keep the sound no louder than a normal conversation. Use a fan with a guard, and keep little fingers away from it. Switch off the fan when you finish. Keep fingers away from fan blades.",
    "schedule": [
     {
      "day": 1,
@@ -1265,16 +1266,16 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children guess halving, so 30 decibels at 2 metres. Write each guess in the table. If no app is available, borrow a phone, or skip this experiment.",
+     "parent": "Do not correct the guess. Many children guess halving, so 30 decibels at 2 metres. Write each guess in the table. Roles: one child holds the phone, one reads the number and one writes. With one child, the parent writes. If no app is available, borrow a phone.",
      "context": "This is the first step of Doubling the Distance. You guess before you measure."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Put the fan on a table at one end of the room. Switch it on at a steady speed. Mark 0.5, 1, 2 and 4 metres from the fan on the floor. Open the app and check that it reads a number.",
+     "do": "Put the fan on a table at one end of the room. Switch it on at a steady speed. Mark 0.5, 1, 2 and 4 metres from the fan on the floor. Run the line out to the side of the fan. Wind must not blow on the phone. Open the app and check that it reads a number.",
      "say": "We place the fan at one end. We mark 0.5 metres, 1 metre, 2 metres and 4 metres along the floor. Then we open the app and check that it works.",
      "kid": "Switch on the fan. Mark the floor at four distances. Open the app.",
-     "parent": "Phone microphones are not accurate. The numbers may be off by 5 decibels or more, and some apps do not read below 30 or above 90. That is fine here. We are looking at how the number changes between distances, not at the exact number. Hold the phone at the height of the fan, pointing at it, and do not move it between readings.",
+     "parent": "Phone microphones are not accurate. The numbers may be off by 5 decibels or more, and some apps do not read below 30 or above 90. That is fine here. We are looking at how the number changes between distances, not at the exact number. Hold the phone at the height of the fan, pointing at it, and do not move it between readings. Wind on the microphone makes false readings, so keep the phone out of the airflow. If the readings stop falling at about 40 decibels, the room noise is in the way. Turn off other noise, close the window, try at night, or play a louder track.",
      "adult": true,
      "context": "In this step, you set up the fan, the distances and the app."
     },
@@ -1284,7 +1285,7 @@
      "do": "Hold the phone at 0.5 metres, facing the fan. Wait 10 seconds. Read the number and write it down. Do this three times. Then do the same at 1, 2 and 4 metres.",
      "say": "Hold the phone steady, pointing at the fan. Wait ten seconds for the number to settle. Read it and write it down. Three readings at each distance.",
      "kid": "Hold the phone steady. Wait ten seconds. Read the number. Write it down.",
-     "parent": "Expect readings like 62, 57, 53 and 49 decibels for 0.5, 1, 2 and 4 metres in a room. The drops will not be the same each time. In a room with walls, sound bounces back, so each doubling drops about 3 to 5 decibels. In open air it is about 6.",
+     "parent": "Typical readings might be 62, 57, 53 and 49 decibels for 0.5, 1, 2 and 4 metres in a room. Yours will differ. The drops will not be the same each time. In a room with walls, sound bounces back, so each doubling drops about 3 to 5 decibels. In open air it is about 6.",
      "check": {
       "t": "mcq",
       "q": "At 1 metre the fan reads 57 decibels. At 2 metres it reads 53 decibels. What is the drop?",
@@ -1444,7 +1445,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down. A city flat is never silent. Expect a fan, a fridge, a vehicle, a voice, a bird, a pressure cooker and a neighbour.",
+     "parent": "Do not correct the guess. Write it down. A city flat is never silent. Expect a fan, a fridge, a vehicle, a voice, a bird, a pressure cooker and a neighbour. With 2 to 4 children, each draws their own map in silence, then you compare maps. With one child, the parent draws.",
      "context": "This is the first step of the Sound Map. You guess before you listen."
     },
     {
@@ -1509,7 +1510,7 @@
    "context": "In this activity you make a paper strip that is a model of the basilar membrane, and mark where the high and low pitches peak along it.",
    "materials": [
     {
-     "item": "a long strip of paper or thin card, at least 36 centimetres long and 6 centimetres wide",
+     "item": "chart paper or thin card cut into a strip at least 36 centimetres long and 6 centimetres wide, or two A4 sheets taped end to end",
      "qty": 1
     },
     {
@@ -1544,7 +1545,7 @@
      "do": "Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide. Join the sides with straight lines. Cut it out.",
      "say": "The cochlea is a coiled tube about 3.5 centimetres long. Our model is 10 times as long, so 35 centimetres. The strip stands for the basilar membrane. It is narrow at one end and about five times wider at the other.",
      "kid": "Draw a strip, 35 centimetres long. One end 1 centimetre wide. One end 5 wide.",
-     "parent": "Use the ruler to mark both ends and join them with straight lines. The narrow end is where the sound enters the cochlea. The wide end is deep inside. Real cochleas are tiny, so our model is ten times bigger than life in length.",
+     "parent": "Use the ruler to mark both ends and join them with straight lines. The narrow end is where the sound enters the cochlea. The wide end is deep inside. Real cochleas are tiny, so our model is ten times bigger than life in length. With 2 to 4 children, each makes a strip. Share one ruler and one pair of scissors.",
      "check": {
       "t": "mcq",
       "q": "The cochlea is about 35 millimetres long when unrolled. Our model is 10 times as long. How long is our model?",
@@ -1581,10 +1582,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw a wave on the strip that peaks at the 14 centimetre mark. Draw a second wave in another colour that peaks at the 28 centimetre mark. Label each with a sound it could be.",
+     "do": "Draw a wave on the strip that peaks at the 14 centimetre mark. Draw a second wave in another colour that peaks at the 28 centimetre mark. Label each with a sound it could be. Then guess where 5,000 hertz would go, and mark it with a dot.",
      "say": "A police whistle makes a wave that peaks at 14 centimetres. Draw it on the strip. A low voice at about 300 hertz peaks at 28 centimetres. Draw that too, in another colour.",
      "kid": "Draw a wave that peaks at 14 centimetres. Draw another that peaks at 28.",
-     "parent": "A real wave starts at the narrow end, grows bigger as it travels, then rises to a peak and dies away very fast just past the peak. The hair cells at the peak are the ones that signal strongly. Draw the wave as a bump that grows and then drops.",
+     "parent": "A real wave starts at the narrow end, grows bigger as it travels, then rises to a peak and dies away very fast just past the peak. The hair cells at the peak are the ones that signal strongly. Draw the wave as a bump that grows and then drops. The 5,000 hertz dot belongs at about 10 centimetres, between the 8,000 and 3,000 marks. Check your guess against it.",
      "context": "In this step, you draw two travelling waves on the strip."
     },
     {
@@ -1613,7 +1614,8 @@
      "art": "The paper strip curled into a snail-shaped coil with the narrow end outside, held with a piece of tape.",
      "caption": "4. Curl the strip into a snail."
     }
-   ]
+   ],
+   "safety": "A grown-up helps younger children with the scissors. Cut away from your fingers and put the scissors down when you finish."
   },
   {
    "id": "a3",
@@ -1628,7 +1630,7 @@
      "buy": "b-balloons"
     },
     {
-     "item": "a phone or speaker that can play music with a clear drum beat",
+     "item": "a speaker with real bass, such as a Bluetooth speaker, a TV or a music system. A phone speaker is too small to make low notes you can feel",
      "qty": 1
     },
     {
@@ -1640,7 +1642,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst. If anyone is allergic to latex, use a paper cup or a plastic tub with cling film stretched over the top instead. Pick up burst balloon pieces at once, and keep them away from small children.",
+   "safety": "Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst. If anyone is allergic to latex, use a paper cup or a plastic tub with cling film stretched over the top instead. Pick up burst balloon pieces at once, and keep them away from small children. An adult blows up the balloons for children under 8.",
    "schedule": [
     {
      "day": 1,
@@ -1648,7 +1650,7 @@
      "what": "Hold a balloon near a speaker playing a drum beat. Feel the beat. Hum against the balloon. Compare low and high sounds."
     }
    ],
-   "record": "Draw the balloon and write down which sounds you could feel the most: a low drum, a high whistle, or your own humming.",
+   "record": "Draw the balloon and write down which sounds you could feel the most: a low drum, a high whistle, or your own humming. Give each sound a score from 0 (nothing) to 5 (buzzes strongly).",
    "flow": [
     {
      "id": "s1",
@@ -1666,7 +1668,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down.",
+     "parent": "Do not correct the guess. Write it down. With 2 to 4 children, each holds a balloon and scores the sounds. Then compare scores.",
      "context": "This is the first step of Feel the Music. You guess before you feel."
     },
     {
@@ -1675,7 +1677,7 @@
      "do": "Play music with a clear drum beat at conversation volume. Hold the balloon in both hands, about a hand's width from the speaker. Feel the beat on the balloon. Then try a high tune, such as a flute or a whistle.",
      "say": "Hold the balloon lightly in both hands, close to the speaker. Play a song with a deep drum. What do you feel on your hands? Now play something high, such as a flute. What do you feel?",
      "kid": "Hold the balloon near the speaker. Feel a drum beat. Then feel a high tune.",
-     "parent": "The balloon thumps clearly with deep drum notes and hardly at all with high flute notes. Low sounds shake the air in big, slow pushes that the skin can feel. If you feel nothing, turn up the volume to a little louder than a conversation, but no more.",
+     "parent": "The balloon thumps clearly with deep drum notes and hardly at all with high flute notes. Low sounds shake the air in big, slow pushes that the skin can feel. If you feel nothing, turn up the volume to a little louder than a conversation, but no more. Still nothing? Rest the balloon lightly on top of the speaker box, not on the cone.",
      "check": {
       "t": "mcq",
       "q": "Which sound is easiest to feel with your hands on a balloon?",
@@ -1731,7 +1733,7 @@
      "qty": 1
     }
    ],
-   "safety": "Stand next to a wall or a sturdy table so that you can touch it if you start to fall. Stop if you feel dizzy.",
+   "safety": "Stand next to a wall or a sturdy table so that you can touch it if you start to fall. Stop if you feel dizzy. Clear the floor of toys and sharp corners. Stay within arm's reach when the eyes are shut.",
    "schedule": [
     {
      "day": 1,
@@ -1757,7 +1759,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down.",
+     "parent": "Do not correct the guess. Write it down. Roles: one stands, one times and one writes. Swap after each child has had their turns.",
      "context": "This is the first step of Stand Like a Flamingo. You guess before you try."
     },
     {
@@ -1775,7 +1777,7 @@
      "do": "Now ask your child to shut their eyes, and time them again, three tries on each leg. Stay close, and be ready to catch them. Stop the clock if the foot touches down.",
      "say": "Now shut your eyes. Stand on one leg. I will be right beside you. Stop if you wobble too much. Three tries on each leg.",
      "kid": "Shut your eyes. Stand on one leg. Stop if you wobble too much.",
-     "parent": "Expect a big drop, from 30 seconds to under 10 seconds. With the eyes shut, the brain has lost one of its three sources of balance information. The inner ear and the feet are still working. Standing on a soft mat makes it harder, because the feet feel less.",
+     "parent": "Typically a big drop, often to 5 to 15 seconds. Some children manage more. With the eyes shut, the brain has lost one of its three sources of balance information. The inner ear and the feet are still working. Standing on a soft mat makes it harder, because the feet feel less.",
      "check": {
       "t": "mcq",
       "q": "Shutting your eyes made standing on one leg harder. What is the best explanation?",
@@ -1846,14 +1848,14 @@
        ]
       }
      ],
-     "parent": "This is mime, which is not the same as a sign language. It shows how much meaning hands and faces can carry. A real sign language is far richer.",
+     "parent": "This is mime, which is not the same as a sign language. It shows how much meaning hands and faces can carry. A real sign language is far richer. Count how many breakfast items were guessed right in the minute. With 2 to 4 children, take turns as signer and guessers.",
      "context": "This is the first step of Ten Signs. You try a silent chat."
     },
     {
      "id": "s2",
      "mins": 10,
      "adult": true,
-     "do": "Find the website of the Indian Sign Language Research and Training Centre, islrtc.nic.in. Or search for a short beginners lesson. Watch it with your child. Learn to sign a greeting and your own names.",
+     "do": "Find the website of the Indian Sign Language Research and Training Centre, islrtc.nic.in, or its YouTube channel. Or search for a short beginners lesson. Watch it with your child. Learn to sign a greeting and your own names.",
      "say": "Indian Sign Language is a real language, with its own words and grammar. Let's watch a short lesson from the Indian Sign Language Research and Training Centre. We will learn a greeting and try to sign our names.",
      "kid": "Watch a short lesson in Indian Sign Language. Copy a greeting and your name.",
      "parent": "Watch the video yourself first, and choose a short lesson for beginners. Many signs use both hands and the face. In sign languages, the face and the speed of the hands add meaning, just as the tone of the voice does in speech. If you do not have the internet, try the finger-spelling chart in a library book. Respect the language: a Deaf person is the best teacher.",
@@ -1905,7 +1907,7 @@
    "context": "In this 2-day project you make paper ear trumpets with three sizes of opening, and find out how far away you can hear a very quiet sound with each.",
    "materials": [
     {
-     "item": "3 sheets of thick paper or thin card, about A4 size",
+     "item": "3 sheets of chart paper or thin card, each at least 30 centimetres on each side (A4 is too small for the 20 centimetre mouth)",
      "qty": 3
     },
     {
@@ -1913,11 +1915,11 @@
      "qty": 1
     },
     {
-     "item": "a phone playing a very quiet steady beep or a metronome click, or a ticking watch",
+     "item": "a phone playing a very quiet steady high beep from a free tone generator app (about 2,000 to 4,000 hertz) or a video of a steady tone, or a metronome click",
      "qty": 1
     },
     {
-     "item": "a long corridor or hall of at least 8 metres, with tape marks every metre",
+     "item": "a long corridor, hall or terrace of at least 8 metres, with tape marks every metre. With no such space, keep a fixed distance of 3 metres and turn the phone volume down step by step instead",
      "qty": 1
     },
     {
@@ -1929,7 +1931,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the card. The small end of the trumpet rests near the ear, never pushed in. Keep the sound quiet.",
+   "safety": "A grown-up cuts the card. The small end of the trumpet rests near the ear, never pushed in. Keep the sound quiet. Never use a trumpet near loud sounds, and nobody shouts into one.",
    "schedule": [
     {
      "day": 1,
@@ -1960,7 +1962,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Write it down. The ear flap on the side of the head is itself a small natural ear trumpet.",
+     "parent": "Do not correct the guess. Write it down. The ear flap on the side of the head is itself a small natural ear trumpet. Roles: one listens, one walks with the phone and one measures and writes. With 2 to 4 children, keep one listener for the whole test, or each child makes a trumpet and tests alone.",
      "context": "This is the first step of Ear Trumpets. You guess before you build."
     },
     {
@@ -1970,7 +1972,7 @@
      "do": "Roll each sheet into a cone. Make the mouths about 5 centimetres, 10 centimetres and 20 centimetres wide. Leave the small end about 1.5 centimetres wide. Tape each cone. Trim the small end so it is not sharp.",
      "say": "A grown-up cuts and rolls the card. Each cone has a big opening and a small end. The small end is for your ear, and the big opening is for catching sound. Make three, with big openings of different sizes.",
      "kid": "Roll three cones of different sizes. The small end goes near your ear.",
-     "parent": "Make the mouth sizes clearly different: about 5, 10 and 20 centimetres across. Keep the cones the same length, about 25 centimetres, if you can. Label them S, M and L. Check that the small end is smooth and comfortable.",
+     "parent": "Roll each sheet from a corner. A 30 centimetre square gives a mouth of about 20 centimetres. Roll tighter for the smaller mouths, then trim all three to about 25 centimetres long. Make the mouth sizes clearly different: about 5, 10 and 20 centimetres across. Keep the cones the same length, about 25 centimetres, if you can. Label them S, M and L. Check that the small end is smooth and comfortable.",
      "context": "In this step, you make three ear trumpets."
     },
     {
@@ -1979,7 +1981,7 @@
      "do": "Set the phone to a very quiet beep. The listener sits at one end of the corridor with eyes covered. The grown-up walks away slowly with the phone. The listener raises a hand when the beep fades. Measure the distance. Repeat with each trumpet held to one ear.",
      "say": "Keep your eyes covered. Listen to the beep as I walk away. Raise your hand the moment you can't hear it. We will do it with no trumpet, then with each trumpet.",
      "kid": "Eyes covered. Raise your hand when the beep fades. Do it with each trumpet.",
-     "parent": "Keep the phone at the same volume and the same height each time. Walk at a steady pace. Do each trumpet twice and write down both distances. Hold the trumpet's wide opening pointing toward the sound, with the narrow end near, not in, the ear. Expect the big trumpet to add one to three metres, though the difference may be small.",
+     "parent": "Keep the phone at the same volume and the same height each time. Walk at a steady pace. Do each trumpet twice and write down both distances. Hold the trumpet's wide opening pointing toward the sound, with the narrow end near, not in, the ear. Typically the big trumpet adds a metre or two, but the difference can be small and it varies. Test in a quiet place with fans off, and point the phone speaker at the listener. If there is no difference, say so honestly. A paper trumpet is a weak amplifier.",
      "check": {
       "t": "mcq",
       "q": "Why must the beep stay at exactly the same volume for every test?",
@@ -2000,7 +2002,7 @@
      "do": "Test the large trumpet again, but this time point it away from the sound. Compare the distance with the distance when it points toward the sound.",
      "say": "Today we try one more thing. Hold the big trumpet so its wide mouth points away from the beep. How far can you hear it now? Why do you think so?",
      "kid": "Point the big trumpet away from the beep. How far can you hear?",
-     "parent": "Expect the distance to drop, perhaps to less than with no trumpet. The wide mouth collects sound only from the direction it faces. This is why the ear flap faces forward and why many animals can turn their ears.",
+     "parent": "Typically the distance drops, perhaps to less than with no trumpet. The wide mouth collects sound only from the direction it faces. This is why the ear flap faces forward and why many animals can turn their ears.",
      "context": "On day 2, you test what happens when the trumpet points the wrong way."
     },
     {
@@ -3258,7 +3260,7 @@
    "id": "b-earmuffs",
    "item": "Children's ear defenders (earmuffs)",
    "kind": "tool",
-   "why": "For the Sound Clock and the Doorbell Without Sound challenge, and for protecting ears at fireworks or near loud machines. A warm woollen cap pulled over one ear also works for the Sound Clock.",
+   "why": "Optional. For the Sound Clock and the Doorbell Without Sound challenge, and for protecting ears at fireworks or near loud machines. A thick woollen cap or a folded towel also works for the Sound Clock.",
    "url": "https://www.amazon.in/s?k=kids+ear+defenders+earmuffs",
    "used_in": [
     "e1",
