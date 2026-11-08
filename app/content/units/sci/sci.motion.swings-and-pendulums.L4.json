@@ -2583,20 +2583,20 @@
    "check": "Id and title confirmed earlier through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Galileo's pendulum and the nail: energy swaps height for speed",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "G1-20 Galileo's Pendulum",
+   "channel": "UMD Physics Videos!",
+   "mins": 3,
    "why": "To see a pendulum with a peg rise to the same height as one without, and to hear why.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the bob rising to the same height before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "ixB4cvnSj4M"
   },
   {
-   "title": "How to pump a swing: the physics of standing and crouching",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "The Physics of a Playground Swing - physics bites #4",
+   "channel": "eigenmatt",
+   "mins": 5,
    "why": "To see why standing up at the bottom and crouching at the top adds energy to a swing.",
-   "check": "Not yet found. Find one, watch it, and check that it explains the crouch at the top and the stand at the bottom correctly before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "BKjZVFEKfMk"
   }
  ],
  "applications": [

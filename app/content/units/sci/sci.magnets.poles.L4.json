@@ -2612,12 +2612,12 @@
    "check": "Id, title and channel confirmed earlier through YouTube's public lookup. Not watched from here: a parent should preview it and check its length."
   },
   {
-   "title": "Iron filings and the magnetic field of a bar magnet",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "SEE a Magnetic Field with Iron Fillings",
+   "channel": "Chris Pattison",
+   "mins": 5,
    "why": "To see iron filings line up in curves from one pole to the other, and bunch near the poles.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the filings making loops from pole to pole before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "1Nr-KtlMIKI"
   },
   {
    "title": "How the field of two magnets adds and cancels",
