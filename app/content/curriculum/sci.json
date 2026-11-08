@@ -1685,6 +1685,22 @@
    "chapters": []
   },
   {
+   "id": "sci.patterns-symmetry.L4",
+   "subject": "sci",
+   "topic": "patterns-symmetry",
+   "name": "Patterns and symmetry",
+   "strand": "The Deep End",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "subtopic_levels": [
+    "sci.patterns-symmetry.symmetry-in-nature.L4",
+    "sci.patterns-symmetry.fractals-and-spirals.L4"
+   ],
+   "chapters": []
+  },
+  {
    "id": "sci.planet-earth.L3",
    "subject": "sci",
    "topic": "planet-earth",
@@ -2505,7 +2521,8 @@
     "sci.microorganisms.microbes-everywhere.L4",
     "sci.microorganisms.helpful-microbes.L4",
     "sci.microorganisms.germs.L4",
-    "sci.microorganisms.viruses.L4"
+    "sci.microorganisms.viruses.L4",
+    "sci.microorganisms.parasites.L4"
    ],
    "chapters": [
     "C4-1.5"
@@ -2651,7 +2668,9 @@
     "sci.sky.other-worlds.L4",
     "sci.sky.the-sun.L4",
     "sci.sky.moon-phases.L4",
-    "sci.sky.stargazing.L4"
+    "sci.sky.stargazing.L4",
+    "sci.sky.exploring-space.L4",
+    "sci.sky.history-of-astronomy.L4"
    ],
    "chapters": [
     "N4-10",
@@ -9424,6 +9443,43 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.microorganisms.parasites.L4"
+   ],
+   "go_wide": [
+    "sci.microorganisms.germs.L3",
+    "sci.health.how-diseases-spread.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "bio:270",
+    "bio:271",
+    "bio:272",
+    "bio:273",
+    "bio:274"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.microorganisms.parasites.L4",
+   "subject": "sci",
+   "topic": "microorganisms",
+   "topic_name": "Microorganisms",
+   "strand": "Life",
+   "topic_level": "sci.microorganisms.L4",
+   "subtopic": "parasites",
+   "name": "Parasites",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Parasite life cycles: the long journey from one host to the next.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.microorganisms.parasites.L3"
+   ],
+   "go_deep": [
     "sci.microorganisms.parasites.L5"
    ],
    "go_wide": [
@@ -9458,7 +9514,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.microorganisms.parasites.L3"
+    "sci.microorganisms.parasites.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -23473,6 +23529,46 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.sky.exploring-space.L4"
+   ],
+   "go_wide": [
+    "sci.sky.sun-moon-stars.L3",
+    "sci.sky.solar-system.L3",
+    "sci.sky.moon-phases.L3",
+    "sci.sky.stargazing.L3",
+    "sci.sky.history-of-astronomy.L3",
+    "sci.sky.the-sun.L3",
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.sky.life-beyond-earth.L3",
+    "sci.gravity.orbits.L4"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:42"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sky.exploring-space.L4",
+   "subject": "sci",
+   "topic": "sky",
+   "topic_name": "Sun, Moon, stars and planets",
+   "strand": "Earth and space",
+   "topic_level": "sci.sky.L4",
+   "subtopic": "exploring-space",
+   "name": "Exploring space",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Exploring space: why a satellite never lands, and what it costs to put one up.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sky.exploring-space.L3"
+   ],
+   "go_deep": [
     "sci.sky.exploring-space.L5"
    ],
    "go_wide": [
@@ -23513,7 +23609,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.sky.exploring-space.L3"
+    "sci.sky.exploring-space.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -23708,6 +23804,46 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.sky.history-of-astronomy.L4"
+   ],
+   "go_wide": [
+    "sci.sky.sun-moon-stars.L3",
+    "sci.sky.solar-system.L3",
+    "sci.sky.moon-phases.L3",
+    "sci.sky.exploring-space.L3",
+    "sci.sky.stargazing.L3",
+    "sci.sky.the-sun.L3",
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.sky.life-beyond-earth.L3",
+    "sci.how-we-know.stories-of-discovery.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:40"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sky.history-of-astronomy.L4",
+   "subject": "sci",
+   "topic": "sky",
+   "topic_name": "Sun, Moon, stars and planets",
+   "strand": "Earth and space",
+   "topic_level": "sci.sky.L4",
+   "subtopic": "history-of-astronomy",
+   "name": "How people learned about the sky",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "History of astronomy: how people changed their minds about who moves, the Earth or the sky.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sky.history-of-astronomy.L3"
+   ],
+   "go_deep": [
     "sci.sky.history-of-astronomy.L5"
    ],
    "go_wide": [
@@ -23745,7 +23881,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.sky.history-of-astronomy.L3"
+    "sci.sky.history-of-astronomy.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -27411,8 +27547,50 @@
     "sci.patterns-symmetry.symmetry-in-nature.L1"
    ],
    "go_deep": [
+    "sci.patterns-symmetry.symmetry-in-nature.L4",
     "sci.patterns-symmetry.fractals-and-spirals.L3"
    ],
+   "go_wide": [
+    "sci.patterns-symmetry.fractals-and-spirals.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.symmetry.line-symmetry.L2",
+     "chapters": [
+      "C2-Gp"
+     ]
+    },
+    {
+     "id": "math.symmetry.rotational-symmetry.L4",
+     "chapters": []
+    }
+   ],
+   "notebook": [
+    "phy:19"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.patterns-symmetry.symmetry-in-nature.L4",
+   "subject": "sci",
+   "topic": "patterns-symmetry",
+   "topic_name": "Patterns and symmetry",
+   "strand": "The Deep End",
+   "topic_level": "sci.patterns-symmetry.L4",
+   "subtopic": "symmetry-in-nature",
+   "name": "Symmetry in nature and art",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Symmetry in nature and art: moves that change nothing, and how nature breaks them.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.patterns-symmetry.symmetry-in-nature.L3"
+   ],
+   "go_deep": [],
    "go_wide": [
     "sci.patterns-symmetry.fractals-and-spirals.L3"
    ],
@@ -27452,6 +27630,45 @@
    "verify": [],
    "prerequisites": [
     "sci.patterns-symmetry.symmetry-in-nature.L3"
+   ],
+   "go_deep": [
+    "sci.patterns-symmetry.fractals-and-spirals.L4"
+   ],
+   "go_wide": [
+    "sci.patterns-symmetry.symmetry-in-nature.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.patterns.shape-patterns.L3",
+     "chapters": []
+    },
+    {
+     "id": "math.number-sense.infinity.L3",
+     "chapters": []
+    }
+   ],
+   "notebook": [],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.patterns-symmetry.fractals-and-spirals.L4",
+   "subject": "sci",
+   "topic": "patterns-symmetry",
+   "topic_name": "Patterns and symmetry",
+   "strand": "The Deep End",
+   "topic_level": "sci.patterns-symmetry.L4",
+   "subtopic": "fractals-and-spirals",
+   "name": "Fractals and spirals",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Fractals and spirals: how rough a coast is, and how leaves turn round a plant stem.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.patterns-symmetry.fractals-and-spirals.L3"
    ],
    "go_deep": [],
    "go_wide": [
