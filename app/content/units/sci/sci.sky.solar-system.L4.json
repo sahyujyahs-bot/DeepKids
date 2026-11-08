@@ -3,7 +3,7 @@
  "title": "The solar system: why a rocky planet and a gas giant are so different, and how we know",
  "level": 4,
  "summary": {
-  "text": "Mercury is the closest planet to the Sun, yet Venus is hotter. Jupiter is about 11 times as wide as the Earth, yet a lump of Jupiter weighs only about a quarter as much as a lump of Earth the same size, and Saturn is lighter than water. Four planets have solid ground and four have none, though all eight formed from one cloud around one Sun. Your child drops marbles into flour to see how craters give away the age of a world, sorts a jar into layers like a young planet, finds the rule that links a planet's distance to the length of its year, and walks a model where the Earth is a mustard seed. Along the way: why Mars lost its air, why a day on Venus is longer than its year, and why a message sent to a spacecraft at Mars is already ten minutes old when it arrives.",
+  "text": "Mercury is the closest planet to the Sun, yet Venus is hotter. Jupiter is about 11 times as wide as the Earth, yet a lump of Jupiter weighs only about a quarter as much as a lump of Earth the same size, and Saturn is lighter than water. Four planets have solid ground and four have none, though all eight formed from one cloud around one Sun. Your child drops marbles into flour to see how craters give away the age of a world, sorts a jar into layers like a young planet, finds the rule that links a planet's distance to the length of its year, and walks a model where the Earth is a mustard seed. Along the way: why Mars lost its air, why a day on Venus is longer than its year, and why a message sent to a spacecraft at Mars is already many minutes old when it arrives.",
   "art": "A kitchen table with a tray of flour full of marble craters, a jar with layers of steel nuts, sand, water and oil, and a row of eight planets drawn on a long strip of paper behind them."
  },
  "intro": {
@@ -237,7 +237,7 @@
   {
    "concept": "Why Mars lost its air and water",
    "status": "idea",
-   "description": "Mars has dry river valleys, lake beds and rocks that formed in water. So billions of years ago it was warmer and wetter, with thicker air. Today its air is thin and cold, and its water is mostly ice. Most scientists think Mars lost much of its air to space. Mars is small, so its gravity is weak and holds gas less tightly. Mars also lost its strong magnetic field early. Without that shield, the solar wind, a stream of fast particles from the Sun, could blow the air away bit by bit. NASA's MAVEN spacecraft, which has orbited Mars since 2014, measures the air still escaping today. It is a good idea backed by measurements, but scientists are still working out how much of the loss came from this and how much from other causes.",
+   "description": "Mars has dry river valleys, lake beds and rocks that formed in water. So billions of years ago it was warmer and wetter, with thicker air. Today its air is thin and cold, and its water is mostly ice. Most scientists think Mars lost much of its air to space. Mars is small, so its gravity is weak and holds gas less tightly. Mars also lost its strong magnetic field early. Without that shield, the solar wind, a stream of fast particles from the Sun, could blow the air away bit by bit. NASA's MAVEN spacecraft, which reached Mars in 2014, measured the air escaping to space. It is a good idea backed by measurements, but scientists are still working out how much of the loss came from this and how much from other causes.",
    "examples": [
     "The Perseverance rover is exploring a dry river delta in Jezero crater, where a lake once lay.",
     "Mars today has a pale sky and sometimes huge dust storms that cover the whole planet.",
@@ -291,7 +291,7 @@
   },
   {
    "text": "The Earth has a solid inner core inside a liquid outer core.",
-   "evidence": "Earthquake waves that pass through the middle of the Earth behave as they would if a solid ball sat inside a liquid shell. This was first suggested in 1936 and checked with better instruments from the 1960s."
+   "evidence": "Earthquake waves that pass through the middle of the Earth behave as they would if a solid ball sat inside a liquid shell. This was first suggested in 1936 and later checked with better instruments, with clear proof in 1971."
   },
   {
    "text": "Venus is hotter than Mercury because of its thick carbon dioxide atmosphere.",
@@ -553,7 +553,7 @@
        "b": "Venus, number 2. Rocky. One spin takes 243 Earth days, and one trip round the Sun takes 225."
       },
       {
-       "f": "CLUE. My air presses on the ground about 90 times harder than the Earth's air. Landers sent to me worked for less than two hours.",
+       "f": "CLUE. My air presses on the ground about 90 times harder than the Earth's air. Landers sent to me worked for no more than about two hours.",
        "b": "Venus, number 2. Rocky. The heat and the pressure on the ground are enough to stop machines."
       },
       {
@@ -765,7 +765,7 @@
      "qty": 1
     }
    ],
-   "safety": "Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them.",
+   "safety": "Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them. Wheat flour is a problem for anyone allergic to wheat or gluten: use rice flour or fine dry sand instead, and wash hands afterwards. Do not eat the flour or cocoa from the tray.",
    "schedule": [
     {
      "day": 1,
@@ -977,7 +977,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes along if the test is on a balcony or terrace. Keep tumblers away from the edge. Do not touch a tumbler that has been in strong sun without checking that it is not hot.",
+   "safety": "A grown-up comes along if the test is on a balcony or terrace. Keep tumblers away from the edge. Do not touch a tumbler that has been in strong sun without checking that it is not hot. Plastic tumblers are safer than glass. Never look straight at the Sun.",
    "schedule": [
     {
      "day": 1,
@@ -1120,8 +1120,8 @@
      "qty": 1
     },
     {
-     "item": "small things for the planets: a pinch of pepper powder, a mustard seed, a grain of salt, a small marble or bead, a bead or small marble a little smaller, and 2 peppercorns",
-     "qty": 7
+     "item": "small things for the planets: a pinch of pepper powder, 2 mustard seeds, a grain of salt, a small marble or bead, a bead or small marble a little smaller, and 2 peppercorns. Keep these small things away from children under five.",
+     "qty": 8
     },
     {
      "item": "8 slips of paper, tape and a pen, for labels",
@@ -1189,7 +1189,7 @@
      "do": "Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape and measure how far you went. Divide by 10 to find the length of one step.",
      "say": "In this model, 1 millimetre stands for 10,000 kilometres. So the Sun is 14 centimetres, the Earth is about 1 millimetre, and Jupiter is 14 millimetres. Now find how long your step is.",
      "kid": "Make the Sun and the planets. Walk 10 steps. Measure. Divide by 10 for one step.",
-     "parent": "Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
+     "parent": "A grown-up helps with the scissors. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
      "context": "In this step you make the model and measure your step."
     },
     {
@@ -1208,7 +1208,7 @@
        ]
       }
      ],
-     "parent": "If your corridor is shorter than 25 metres, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one."
+     "parent": "If your corridor is shorter than 25 metres, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one. Go with a grown-up, stay off the road and away from traffic."
     },
     {
      "id": "s4",
@@ -1414,7 +1414,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Lay out the course with six cushions between a start line and the spoon, about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way, so each message and its reply cost about 25 minutes. This is the Mars minutes tally.",
+     "do": "Lay out the course with six cushions between a start line and the spoon, which are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way, so each message and its reply cost about 25 minutes. This is the Mars minutes tally.",
      "say": "A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.",
      "kid": "You are the rover on Mars. Close your eyes. Your helper is Mission Control.",
      "adult": true,
@@ -1481,7 +1481,7 @@
      "qty": 1
     },
     {
-     "item": "3 steel nuts, washers or a few iron nails, for the iron core",
+     "item": "3 steel nuts or washers (not sharp nails), for the iron core",
      "qty": 3
     },
     {
@@ -1551,7 +1551,7 @@
      "say": "Everything goes in. Close the lid tight. Now shake it hard, like a young planet churning when it was hot and soft.",
      "kid": "Put everything in the jar. Close the lid. Shake hard for 20 seconds.",
      "adult": true,
-     "parent": "Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.",
+     "parent": "Use a plastic bottle or a strong jar, not thin glass, because the nuts knock against the sides. Do not drink or taste anything in it, and wipe up any spilled oil, which is slippery. Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.",
      "context": "In this step you mix everything up in the jar."
     },
     {
@@ -1610,7 +1610,7 @@
    "mins": 70,
    "materials": [
     {
-     "item": "atta dough or clay in 4 colours: red, yellow, brown and blue (colour the dough with turmeric, kumkum, cocoa and a drop of food colour), about 200 grams in all",
+     "item": "atta dough or clay in 4 colours: red, yellow, brown and blue (colour the dough with turmeric, beetroot juice, cocoa and a drop of food colour), about 200 grams for the Earth and 500 grams more for Jupiter",
      "qty": 1
     },
     {
@@ -1681,7 +1681,7 @@
      "say": "Layer by layer. The inner core is the yellow ball, solid iron. The outer core is red, liquid iron. The mantle is the brown layer, hot rock. The crust is thinner than a coat of paint at this scale. Measure each layer with the ruler.",
      "kid": "Make the yellow ball. Wrap it in red. Wrap that in brown. Measure each size.",
      "wait": "Leave the dough to rest overnight, wrapped in a cloth.",
-     "parent": "At this scale the real crust is less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres."
+     "parent": "The dough is for modelling, not eating. If anyone is allergic to wheat, use clay instead. At this scale the real crust is less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres."
     },
     {
      "id": "s3",
@@ -1709,6 +1709,7 @@
      "do": "Put flags on each layer with its name. Draw both planets with labels. Write one sentence under each saying what is known and what is an idea. Show your planets to someone at home.",
      "say": "Label your planets. Which parts are certain? Which parts are only ideas? Why do scientists know the Earth's layers but not all of Jupiter's?",
      "kid": "Label both planets. Which layers are sure? Which are only ideas? Show someone.",
+     "parent": "Toothpicks have sharp points. Help younger children push them in, and put them away afterwards.",
      "ask": [
       {
        "q": "Why do we know more about the Earth's layers than Jupiter's?",

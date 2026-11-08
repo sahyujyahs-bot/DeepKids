@@ -975,8 +975,8 @@
      [
       "Water with a small air bubble",
       "10",
-      "9",
-      "1"
+      "9.5",
+      "0.5"
      ]
     ]
    },
@@ -1069,7 +1069,7 @@
      "do": "1. Draw up 9 millilitres of water. 2. Pull the plunger back to 10 millilitres, to let in a small bubble of air. 3. Seal the end. 4. Push as hard as you can and read the mark. 5. Do it three times.",
      "say": "Now put a small bubble of air in with the water. Seal the end and push. How far does the plunger go this time? What squashed, the water or the bubble?",
      "kid": "Water plus a small bubble. Seal. Push. What squashed?",
-     "parent": "The mix should squash by about the size of the bubble, or a little less. This shows that the water was not squashing. The bubble was."
+     "parent": "The mix should squash by less than the size of the bubble, because only the bubble can squash. This shows that the water was not squashing. The bubble was."
     },
     {
      "id": "s6",
@@ -1679,7 +1679,7 @@
    ],
    "creative": [
     "Put a ruler on a table with about a third of it hanging over the edge. Cover the rest with a sheet of newspaper and smooth it flat. Hit the hanging end of the ruler and watch the air press the paper down.",
-    "Hang two balloons, one blown up and one empty, from the ends of a light stick on a string. Balance the stick, and see which side dips. The blown-up side goes down a little, because the air inside has weight.",
+    "Hang two balloons, one blown up and one empty, from the ends of a light stick on a string. Balance the stick, and see which side dips. The blown-up side may dip a little, because the air inside has weight. The difference is tiny, so use a very light stick and be patient.",
     "Tilt the upside-down glass slowly under the water, and watch the air escape as bubbles that you can count."
    ],
    "your_turn": "Now invent your own test. Draw it, try it, and show your friend. Which of your tests would be the most convincing for a person who does not believe in air? Why?",
@@ -3044,7 +3044,7 @@
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, but has not yet been run by a family. How Far Does One Drop Go uses six clear cups, a teaspoon and food colour. Each cup holds ten teaspoons in all, and each spoonful passed on is a tenth of the cup before, so the colour is one tenth, one hundredth and so on. Most red and blue colours stay visible to cup four or five. If your colour fades by cup three, use three drops in cup 1, and if cup 6 is still bright, add more cups. The Squeeze Test needs a plastic syringe with no needle, from a chemist. Air usually squashes to between 3 and 6 millilitres, and the plunger springs back. Water hardly moves, as long as every bubble is tapped out. A leaking seal is the most common problem, so the step shows how to test it. Full Jar uses food that should not be eaten afterwards. Rice Tray Crowds is a model, and the step says where it is wrong. Which Crowd is a card game with 24 cards that were written out in full. Facts to check: the claim that Waterston worked in Bombay, the number of particles in a drop of water (about 1.7 thousand million million million), and the speed of air particles.",
  "how_we_found_out": {
   "context": "This card tells the story of how people found out that a gas is made of particles flying about, and why it took so long.",
-  "story": "For a long time, many scientists pictured a gas as particles sitting still, each pushing its neighbours away, like people in a crowd holding out their arms. This picture gave the right rule for squashing a gas, so most people accepted it. In 1738, a Swiss scientist named Daniel Bernoulli wrote that a gas is particles flying about and hitting the walls, and that this makes the pressure. Heat, he said, makes them fly faster. Almost nobody paid attention. In 1845, a Scottish scientist named John James Waterston, who was working in Bombay at the time, sent a paper on the same idea to the Royal Society in London. It was reportedly judged to be nonsense, and the paper lay unread in the archives. In the 1850s and 1860s, Rudolf Clausius and James Clerk Maxwell worked out the maths in full, and it matched measurements. In 1892, Lord Rayleigh found Waterston's paper and had it published.",
+  "story": "For a long time, many scientists pictured a gas as particles sitting still, each pushing its neighbours away, like people in a crowd holding out their arms. This picture gave the right rule for squashing a gas, so most people accepted it. In 1738, a Swiss scientist named Daniel Bernoulli wrote that a gas is particles flying about and hitting the walls, and that this makes the pressure. Heat, he said, makes them fly faster. Almost nobody paid attention. In 1845, a Scottish scientist named John James Waterston, who was working in Bombay at the time, sent a paper on the same idea to the Royal Society in London. It was reportedly judged to be nonsense, and the paper lay unread in the archives. In the 1850s and 1860s, Rudolf Clausius and James Clerk Maxwell worked out the maths in full, and it matched measurements. Lord Rayleigh found Waterston's paper in the archives in 1891, and it was published in 1892.",
   "who": "Daniel Bernoulli, a Swiss scientist, and John James Waterston, a Scottish scientist, followed by Rudolf Clausius and James Clerk Maxwell",
   "when": "1738 (Bernoulli), 1845 (Waterston), the 1850s and 1860s (Clausius and Maxwell)",
   "wrong_idea": "Many scientists thought the particles of a gas sit in fixed places and push each other away. The flying-particle picture explains why heat raises the pressure and why gases spread into each other, which the fixed-place picture cannot."

@@ -31,7 +31,7 @@
   {
    "term": "Pole Star",
    "meaning": "The bright star closest to the north celestial pole. In English it is called Polaris. In Sanskrit it is Dhruva, which means fixed or firm. It seems to stay still while all other stars circle it.",
-   "example": "You can find the Pole Star by following a line from Kratu through Pulaha, the two pointer stars of the Saptarishi.",
+   "example": "You can find the Pole Star by following a line from Pulaha through Kratu, the two pointer stars of the Saptarishi.",
    "art": "The seven stars of the Saptarishi with a dotted line through the two end stars of the bowl pointing to a single star."
   },
   {
@@ -90,7 +90,7 @@
   },
   {
    "term": "Magnitude",
-   "meaning": "A number for how bright a star looks. A smaller number means a brighter star. About 150 years before the Common Era, the Greek astronomer Hipparchus put stars into six classes, from 1 for the brightest to 6 for the faintest.",
+   "meaning": "A number for how bright a star looks. A smaller number means a brighter star. About 130 years before the Common Era, the Greek astronomer Hipparchus put stars into six classes, from 1 for the brightest to 6 for the faintest.",
    "example": "The Pole Star has a magnitude of about 2. The faintest stars you can see in a dark place are about 6.",
    "art": "A scale from 1 to 6 with bright and faint stars along it, and a downward arrow from bright to faint."
   },
@@ -138,7 +138,7 @@
    "concept": "The Pole Star and the point the sky turns round",
    "status": "defined",
    "definition": "The Earth's axis points almost exactly at the Pole Star. Because the axis points there, the Pole Star does not seem to move as the Earth spins, and all the other stars circle it.",
-   "description": "Think of a spinning top. The point at the end of its axis stays still while everything else goes round. The Earth's axis points to a spot in the sky called the north celestial pole, and the Pole Star lies within a degree of it. That is why it is the one star that hardly moves. It is not a bright star, but it is easy to find from the Saptarishi. Take the two stars at the outer edge of the bowl, Kratu and Pulaha. Draw a line through them and carry on, about five times the gap between them. The line ends at the Pole Star. In the stories of India, Dhruva was a boy who was given a place in the sky that would never move. There is no bright star near the south celestial pole.",
+   "description": "Think of a spinning top. The point at the end of its axis stays still while everything else goes round. The Earth's axis points to a spot in the sky called the north celestial pole, and the Pole Star lies within a degree of it. That is why it is the one star that hardly moves. It is not a bright star, but it is easy to find from the Saptarishi. Take the two stars at the outer edge of the bowl, Pulaha (at the bottom) and Kratu (at the rim). Draw a line from Pulaha through Kratu and carry on, about five times the gap between them. The line ends at the Pole Star. In the stories of India, Dhruva was a boy who was given a place in the sky that would never move. There is no bright star near the south celestial pole.",
    "examples": [
     "The Pole Star is about as bright as the stars of the Saptarishi. It is not the brightest star in the sky, as many people think.",
     "Another way to find it is from Cassiopeia, a W-shaped group of stars on the other side of the Pole Star from the Saptarishi.",
@@ -169,7 +169,7 @@
    "description": "The Pole Star stands at your latitude in degrees above the horizon. A star that circles the Pole Star at a distance smaller than that never dips below the horizon. In Delhi at 29 degrees, stars within 29 degrees of the Pole Star never set. In Chennai at 13 degrees, only stars within 13 degrees never set. On the equator, nothing is circumpolar, and every star rises and sets. The same rule works in the south. In Chennai, stars within 13 degrees of the south pole never rise. So the stars you can see depend on where you live. From the southern tip of India, the Southern Cross can be seen low in the south on spring evenings, but it can never be seen from Kashmir.",
    "examples": [
     "From Kashmir, at about 34 degrees north, Kratu, the star at the corner of the Saptarishi's bowl, never sets.",
-    "From Chennai, the Saptarishi rides high on spring evenings and dips close to the northern horizon on autumn evenings.",
+    "From Chennai, the Saptarishi rides high on spring evenings and sinks to the northern horizon, or below it, on autumn evenings.",
     "A traveller going from Delhi to Kanyakumari sees new stars appear low in the south that were never visible at home."
    ],
    "perspectives": [],
@@ -250,7 +250,7 @@
    "concept": "The Pole Star will not always be the Pole Star",
    "status": "defined",
    "definition": "The Earth's axis slowly wobbles like a spinning top, tracing a circle in the sky once in about 26,000 years. So the star nearest the north pole changes over time. This wobble is called precession.",
-   "description": "Because of precession, the north pole points to different stars at different times. About 4,700 years ago, a star called Thuban was the pole star, around the time the great pyramids of Egypt were built. In about 12,000 years, the bright star Vega will be near the pole. Precession also moves the Sun's place among the stars. The Sun enters the constellation of Capricorn, called Makara, later than it did long ago. In the Indian star-based calendar, the Sun enters Makara around 14 January, which is the festival of Makar Sankranti or Pongal. That date was close to 21 December about 1,600 years ago, and it keeps moving later by about one day every 70 years. The star signs of western astrology, based on the seasons, are now about 24 degrees, or about 24 days, ahead of the Indian star-based signs.",
+   "description": "Because of precession, the north pole points to different stars at different times. About 4,700 years ago, a star called Thuban was the pole star, around the time the great pyramids of Egypt were built. In about 12,000 years, the bright star Vega will be near the pole. Precession also moves the Sun's place among the stars. The Sun enters the constellation of Capricorn, called Makara, later than it did long ago. In the Indian star-based calendar, the Sun enters Makara around 14 January, which is the festival of Makar Sankranti or Pongal. That date was close to 21 December about 1,600 years ago, and it keeps moving later by about one day every 72 years. The star signs of western astrology, based on the seasons, are now about 24 degrees, or about 24 days, ahead of the Indian star-based signs.",
    "examples": [
     "Polaris will be at its closest to the pole around the year 2100, and then slowly drift away.",
     "In ancient Egypt, Thuban was the star around which the northern sky turned.",
@@ -1293,6 +1293,7 @@
      "what": "Guess. Make the twelve cards and put them on the walls round the lamp. Walk round the lamp one month at a time and read the sky behind you at midnight."
     }
    ],
+   "safety": "A grown-up switches the lamp on and off. A bare bulb can get hot, so use a cool LED bulb if you have one and nobody touches it. Keep the cord out of the ring you walk on so nobody trips.",
    "record": "A table with the twelve months, the group of stars highest at midnight in each, and the group hidden by the Sun. Draw the lamp, the ring and the cards from above.",
    "context": "In this activity you turn a room into the solar system, with a lamp as the Sun and twelve cards as the star groups round it. You walk round the lamp as the Earth does, and find out why the stars change with the seasons.",
    "setup": [
@@ -1555,6 +1556,7 @@
      "what": "Guess. Look at a small light and a bigger light through the shimmering air above a hot tawa. Compare flame colours. Look at the colours of two stars in Orion."
     }
    ],
+   "safety": "A grown-up does all the heating, lights the stove and the diya, and moves the hot tawa. Keep the child at least 1.5 metres from the tawa, the flame and the diya. Put the tawa on a steady, heatproof stand where nobody walks, with a dim light on beside it so it can be seen. Tie back long hair and keep loose clothes away from the flames. Let the tawa cool fully before it is touched or washed.",
    "record": "Write which light flickered more, the tiny hole or the wider hole. Draw the gas flame and the diya flame and colour them. Write the colour of Betelgeuse and of Rigel, and which one is hotter.",
    "context": "In this activity you make a small light twinkle by looking at it through hot, rising air, and you compare the colours of flames and stars. It shows why stars twinkle and planets mostly do not, and how colour shows temperature.",
    "setup": [
@@ -1709,6 +1711,7 @@
      "what": "Draw the last sky clock. Compare all five. Work out how far the sky has turned in a month."
     }
    ],
+   "safety": "A grown-up stays with the child outside at night. On a terrace or balcony, keep well away from the edge. Use a red torch, not a bright white light.",
    "record": "Five sky clock drawings, one a week, each with the date and the minute-mark where the pointer stars' line falls. A final page saying how far the line moved in a month, and why.",
    "context": "In this month-long project you draw the same part of the northern sky at the same time each week. You find out that the stars shift in a steady way through the seasons.",
    "setup": [
@@ -1817,6 +1820,7 @@
     "Use a longer baseline for a farther thing, as astronomers use the whole width of the Earth's orbit for a star.",
     "Pick a thing whose real distance a grown-up can find on a map, and test how close you can get."
    ],
+   "safety": "Choose a thing across a field or a quiet space, never across a busy road, and do not step into the road to measure. A grown-up stays with the child. Keep the drawing pin pointing down into the board, and put it in the clay when you are not using it.",
    "your_turn": "Now choose your own far thing, make a plan, draw the scale triangle and work out the distance. Check it against a map or by pacing. How close were you? What would you change next time to get closer?",
    "context": "This is a design challenge about measuring the distance to something you cannot reach. It uses triangles, as surveyors do, and as astronomers do with parallax.",
    "setup": [
@@ -2754,7 +2758,7 @@
  "open_questions": [
   {
    "q": "How far away is the Pole Star, exactly?",
-   "why_open": "Different measurements have given between about 330 and 450 light-years. Polaris is a pulsing star, and is too bright for some instruments, so astronomers are still working on a good answer."
+   "why_open": "Different measurements have given between about 320 and 450 light-years. Polaris is a pulsing star, and is too bright for some instruments, so astronomers are still working on a good answer."
   },
   {
    "q": "How did the first people find tiny islands across the open Pacific?",
@@ -2766,7 +2770,7 @@
   },
   {
    "q": "Are there faint stars very near the Sun that we have not found yet?",
-   "why_open": "A very faint, cool star-like object was found only in 2013, about 7 light-years away. There may be more such dim neighbours that we cannot see."
+   "why_open": "A very faint, cool star-like object was announced only in 2014, about 7 light-years away. There may be more such dim neighbours that we cannot see."
   },
   {
    "q": "What will our descendants call the stars of the Saptarishi in 100,000 years?",
@@ -2847,7 +2851,7 @@
    "why_maths": "Working with fists and degrees turns a rough measurement into the rate at which the Earth spins."
   },
   {
-   "problem": "Kanyakumari is at 8 degrees north and Delhi is at 29 degrees north. By how many degrees does the Pole Star climb on a journey from one to the other? One degree of latitude is about 111 kilometres. About how far north is Delhi?",
+   "problem": "Kanyakumari is at 8 degrees north and Delhi is at 29 degrees north. By how many degrees does the Pole Star climb on a journey from one to the other? One degree of latitude is about 111 kilometres. About how far north of Kanyakumari is Delhi?",
    "answer": "21 degrees. About 2,300 kilometres.",
    "explain": "29 take away 8 is 21 degrees. 21 times 111 is 2,331, which is about 2,300 kilometres. So the Pole Star climbs one degree for about every 111 kilometres you go north.",
    "math_unit": "math.multiplication.multi-digit.L4",

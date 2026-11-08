@@ -244,7 +244,7 @@
    "concept": "Circles that go up and down: buckets, loops and giant wheels",
    "status": "defined",
    "definition": "In a circle that goes up and over, the thing must be going fast enough at the top that gravity alone gives all the pull it needs. If it is slower, it leaves the circle and falls.",
-   "description": "Swing a bucket of water in a circle over your head. At the top, the water is upside down. It stays in the bucket because the bucket moves down faster than the water would fall. The water presses on the bottom of the bucket, and the bottom pushes back. If you swing too slowly, the water falls out. For a circle with a radius of about 70 centimetres, the slowest safe swing takes about 1.7 seconds for a full turn. In a giant wheel at a mela, you feel lighter at the top, and heavier at the bottom. A roller-coaster train with a loop needs enough speed at the top, so the cars stay on the track. A marble on a loop usually needs to start about 3 times the loop's radius above the bottom of the loop.",
+   "description": "Swing a bucket of water in a circle over your head. At the top, the water is upside down. It stays in the bucket because the bucket moves down faster than the water would fall. The water presses on the bottom of the bucket, and the bottom pushes back. If you swing too slowly, the water falls out. For a circle with a radius of about 70 centimetres, the slowest safe swing takes about 1.7 seconds for a full turn. In a giant wheel at a mela, you feel lighter at the top, and heavier at the bottom. A roller-coaster train with a loop needs enough speed at the top, so the cars stay on the track. A marble on a loop usually needs to start about 2.5 to 3 times the loop's radius above the bottom of the loop.",
    "examples": [
     "Water stays in a bucket swung fast enough in a vertical circle.",
     "A rider on a giant wheel feels lighter at the top and heavier at the bottom.",
@@ -259,7 +259,7 @@
    "concept": "The Moon and the satellites: falling and always missing",
    "status": "defined",
    "definition": "The Moon is pulled towards the Earth by gravity. It is also moving sideways. It keeps falling towards the Earth, and keeps missing it, so it goes round.",
-   "description": "Newton asked what would happen if a cannon on a very high mountain fired a ball sideways. A slow ball falls to the ground quite near. A faster ball lands further away. A ball fired fast enough keeps falling, but the ground curves away beneath it as fast as it falls, so the ball never lands. The Moon is like that ball. It goes round the Earth once in about 27 days, at about 1 kilometre every second. The International Space Station goes round the Earth about once every 90 minutes, at about 8 kilometres every second. Newton also compared the Moon's fall with the fall of an apple. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. He showed that the pull weakens with the square of the distance, so it is about 3,600 times weaker there. The Moon's sideways speed does the rest.",
+   "description": "Newton asked what would happen if a cannon on a very high mountain fired a ball sideways. A slow ball falls to the ground quite near. A faster ball lands further away. A ball fired fast enough keeps falling, but the ground curves away beneath it as fast as it falls, so the ball never lands. The Moon is like that ball. It goes round the Earth once in about 27 days, at about 1 kilometre every second. The International Space Station goes round the Earth about once every 90 minutes, at about 8 kilometres every second. Newton also compared the Moon's fall with the fall of an apple. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. He reasoned that the pull weakens with the square of the distance, so it is about 3,600 times weaker there. The Moon's sideways speed does the rest.",
    "examples": [
     "The Moon goes round the Earth once in about 27 days.",
     "The International Space Station goes round the Earth about once every 90 minutes.",
@@ -1313,7 +1313,7 @@
      "what": "Guess. Swirl the marble gently and then harder. Watch how high it climbs. Let it slow down and watch how it spirals in."
     }
    ],
-   "safety": "Keep the marble away from children under five, who might put it in their mouths. Do this over a table or the floor, not on a high shelf.",
+   "safety": "Use a clean, cool kadai, never one that has just been used for cooking. Keep the marble away from children under five, who might put it in their mouths. Do this over a table or the floor, not on a high shelf.",
    "record": "Draw the kadai from above and from the side. Draw the path of the marble when you swirl gently and when you swirl hard.",
    "setup": [
     {
@@ -1541,7 +1541,7 @@
      "what": "Guess. Spin wet leaves in the spinner, or watch the dryer. Spin the wet umbrella. Say where the water goes and why."
     }
    ],
-   "safety": "A grown-up starts any machine. Never open a spin dryer or lift its lid while it is turning, and stand a metre back. Wash the leaves first. Spin the umbrella away from people and from breakable things, and mop up the water at once.",
+   "safety": "A grown-up starts any machine. Never open a spin dryer or lift its lid while it is turning, and stand a metre back. Wash the leaves first. Spin the umbrella away from people and from breakable things, and keep its sharp metal tip away from faces and eyes. Mop up the water at once, because a wet floor is slippery.",
    "record": "Draw the drum or the spinner from above, with the leaves against the wall and arrows showing where the drops go. Draw the umbrella with arrows for the drops.",
    "setup": [
     {
@@ -3137,7 +3137,7 @@
  },
  "how_we_found_out": {
   "context": "Is going round in a circle natural, or does it need a cause? This card tells how people found out, and how a stone in a sling helped.",
-  "story": "For about two thousand years, many thinkers followed Aristotle in saying that the heavens move in circles because circles are perfect and natural. They said a circular motion needs no cause. Even the great Galileo, in 1632, seems to have thought that circular motion could go on by itself. In 1644, René Descartes looked at a stone whirled in a sling. He saw that the stone always tries to fly off in a straight line, and that the sling must keep pulling it back. So going in a circle is not natural. It needs a pull. In 1659, Christiaan Huygens worked out how big the pull must be. Then Isaac Newton asked what pulls the Moon. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. He showed that the pull weakens with the square of the distance, so it is about 3,600 times weaker there, and that fits the Moon's motion.",
+  "story": "For about two thousand years, many thinkers followed Aristotle in saying that the heavens move in circles because circles are perfect and natural. They said a circular motion needs no cause. Some historians say that even the great Galileo, in his book of 1632, still treated circular motion as one that could go on by itself, though others disagree. In 1644, René Descartes looked at a stone whirled in a sling. He saw that the stone always tries to fly off in a straight line, and that the sling must keep pulling it back. So going in a circle is not natural. It needs a pull. In 1659, Christiaan Huygens worked out how big the pull must be. Then Isaac Newton asked what pulls the Moon. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. He reasoned that the pull weakens with the square of the distance, so it is about 3,600 times weaker there, and later checks fitted the Moon's motion.",
   "who": "René Descartes, a French thinker, Christiaan Huygens, a Dutch scientist, and Isaac Newton, an English scientist",
   "when": "1644 for Descartes's sling, 1659 for Huygens's rule, and the 1680s for Newton's Moon",
   "wrong_idea": "Aristotle and many thinkers after him taught that moving in circles is natural for heavenly things, and needs no cause. A stone in a sling showed that a thing in a circle is always trying to go straight, so something must pull it inward all the time."

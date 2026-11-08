@@ -148,7 +148,7 @@
    "description": "Stand on one foot and then on two. Your weight is the same, but on one foot it is pressed on a smaller area, so the pressure on the floor is bigger. A pin has a tiny point, so your thumb pushes it into a board easily. A flat thumb on the board does nothing. Scientists measure pressure as force divided by area. A camel has wide feet, so the pressure on the sand is small and the camel does not sink. A nail on a bed of nails has the same force spread over hundreds of points.",
    "examples": [
     "A sharp knife cuts better than a blunt one, because the edge is thin.",
-    "A camel's wide feet spread its weight and stop it sinking into the sand.",
+    "A camel's wide feet spread her weight and stop her sinking into the sand.",
     "A tractor with wide tyres sinks less in a wet paddy field than a tractor with narrow tyres."
    ],
    "perspectives": [],
@@ -388,7 +388,7 @@
    "claim": "Nature hates empty space, so a pump can lift water to any height.",
    "who": "Many scholars before the 1640s",
    "for": "A pump sucks, and water follows to fill the space.",
-   "against": "Well-diggers found that pumps could not lift water higher than about 10 metres. In 1643, Evangelista Torricelli explained this by the push of the air. The air pushes the water up, and the push is only enough to hold up a column of about 10 metres.",
+   "against": "Well-diggers found that pumps could not lift water higher than about 10 metres. In the 1640s, Evangelista Torricelli explained this by the push of the air. The air pushes the water up, and the push is only enough to hold up a column of about 10 metres.",
    "status": "rejected"
   },
   {
@@ -901,7 +901,7 @@
        ]
       }
      ],
-     "parent": "The jets will be shorter, and the top hole may stop altogether if the water falls below it."
+     "parent": "The jets will be shorter, and the top hole will stop altogether, because it is now above the water line."
     },
     {
      "id": "s7",
@@ -961,7 +961,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep water away from electric sockets and switches. Wipe up spills at once, because wet floors are slippery. Do not suck the hose to fill it. Fill it by dipping it in the bucket.",
+   "safety": "Keep water away from electric sockets and switches. Wipe up spills at once, because wet floors are slippery. Do not suck the hose to fill it. Fill it by dipping it in the bucket. Do not drink the coloured water, and do not use food colour if anyone at home is allergic to it.",
    "record": "Fill in the table for the three tests. Then draw the wall, the hose, and the two marks, and write the height of each mark.",
    "example_chart": {
     "type": "table",
@@ -1095,7 +1095,7 @@
      "do": "1. Let a bubble of air about 5 centimetres long into the middle of the hose. 2. Repeat the marking at both ends. 3. Measure the height of each mark and write the difference in the table.",
      "say": "Now we let a bubble into the hose, in the middle. Mark the wall again at both ends. Are the two marks still at the same height?",
      "kid": "Let a bubble into the hose. Mark again. Are the marks still level?",
-     "parent": "The marks will be different, sometimes by several centimetres. The bubble is squashed, and it holds back the push of the water. That is why masons check their hoses for bubbles."
+     "parent": "The marks may be different, sometimes by a centimetre or more, depending on where the bubble sits. The bubble is squashed, and it holds back the push of the water. That is why masons check their hoses for bubbles."
     },
     {
      "id": "s7",
@@ -1134,6 +1134,7 @@
      "qty": 1
     }
    ],
+   "safety": "Use cold water only. Do not time a hot tap, a geyser or a hot shower, because hot water can scald. Wipe up spills at once, because wet floors are slippery.",
    "schedule": [
     {
      "day": 1,
@@ -1462,7 +1463,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up uses the pin or needle, and pushes it away from the body. Keep straws and clay away from children under five.",
+   "safety": "A grown-up uses the pin or needle, and pushes it away from the body. Keep straws and clay away from children under five. Never blow into the sealed bottle. Use plain water, or a drink that nobody at home is allergic to. Do not eat the clay.",
    "schedule": [
     {
      "day": 1,
@@ -1576,7 +1577,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use only syringes with no needle. Never point a syringe at a face. A grown-up cuts the cardboard if it is thick. Keep small parts away from children under five.",
+   "safety": "Use only syringes with no needle. Never point a syringe at a face. Do not drink the coloured water. A grown-up cuts the cardboard if it is thick. Keep small parts away from children under five.",
    "schedule": [
     {
      "day": 1,
@@ -2638,8 +2639,8 @@
    "art": "A barber pumping a pedal at the base of a chair, with a young customer being lifted a little."
   },
   {
-   "text": "The Mettur Dam, a thick concrete wall across the Kaveri river.",
-   "art": "A wide curved concrete dam across a river, thicker at the bottom, with water pouring through a gate."
+   "text": "The Mettur Dam, a thick wall across the Kaveri river.",
+   "art": "A wide dam across a river, thicker at the bottom, with water pouring through a gate."
   },
   {
    "text": "A kettle with the water in the spout standing as high as the water inside.",
@@ -3084,10 +3085,10 @@
   ],
   "art": "A glass tank of water with arrows of push on the walls, short at the top and long at the bottom, and a small fish in the middle."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, but has not yet been run by a family. Three Jets needs a 2 litre bottle, three holes of the same size made by a grown-up, and a stool about 40 centimetres high so that the lowest jet has room to fall. Without the stool the lowest jet lands short, and the middle hole may win, so the step says why. Water is kept at the line by topping it up from a jug, and the middle number of three tries is used. Same Level uses a clear hose about 4 metres long, filled by dipping it in a bucket, and the marks on the wall are usually within a few millimetres if there is no bubble. A bubble can spoil it by several centimetres. If the floor is uneven the heights from the floor may differ even when the marks are level. Four Holes, One Squeeze needs the bottle filled to the very brim with the cap on tight. Tap Survey gives a rough pattern only, because pipe width and other open taps also change the flow, and the step says so. The Syringe Arm needs syringes with no needle, and every bubble tapped out. Facts to check: Stevin's 1586 date, the Kallanai attribution and the siphon experiments.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, but has not yet been run by a family. Three Jets needs a 2 litre bottle, three holes of the same size made by a grown-up, and a stool about 40 centimetres high so that the lowest jet has room to fall. Without the stool the lowest jet lands short, and the middle hole may win, so the step says why. Water is kept at the line by topping it up from a jug, and the middle number of three tries is used. Same Level uses a clear hose about 4 metres long, filled by dipping it in a bucket, and the marks on the wall are usually within a few millimetres if there is no bubble. A bubble can spoil it, by a centimetre or more depending on where it sits. If the floor is uneven the heights from the floor may differ even when the marks are level. Four Holes, One Squeeze needs the bottle filled to the very brim with the cap on tight. Tap Survey gives a rough pattern only, because pipe width and other open taps also change the flow, and the step says so. The Syringe Arm needs syringes with no needle, and every bubble tapped out. Facts to check: Stevin's 1586 date, the Kallanai attribution and the siphon experiments.",
  "how_we_found_out": {
   "context": "This card tells how people found out that the push of water depends on depth, and not on how much water there is.",
-  "story": "For a long time, people thought that more water must push harder at the bottom. A wide lake, they said, must press on its bed far harder than a bucket does. In 1586, a Flemish engineer named Simon Stevin reasoned and showed that this is not so. The push on the bottom depends on how deep the water is, and not on how much water there is or on the shape of the vessel. More than sixty years later, the French thinker Blaise Pascal went further. He showed that a push on a liquid in a closed container goes out equally in every direction. A famous story says that Pascal fixed a long thin tube to a sealed barrel of water and poured a few cups of water into the tube. The barrel is said to have burst. The story may be a legend, but the physics is right: a tall thin tube of water pushes on its bottom as much as a tall wide tank does.",
+  "story": "For a long time, people thought that more water must push harder at the bottom. A wide lake, they said, must press on its bed far harder than a bucket does. In 1586, a Flemish engineer named Simon Stevin reasoned and showed that this is not so. The push on the bottom depends on how deep the water is, and not on how much water there is or on the shape of the vessel. About sixty years later, the French thinker Blaise Pascal went further. He showed that a push on a liquid in a closed container goes out equally in every direction. A famous story says that Pascal fixed a long thin tube to a sealed barrel of water and poured a few cups of water into the tube. The barrel is said to have burst. The story may be a legend, but the physics is right: a tall thin tube of water pushes on its bottom as much as a tall wide tank does.",
   "who": "Simon Stevin, a Flemish engineer, and Blaise Pascal, a French thinker",
   "when": "1586 (Stevin) and the 1640s to the 1650s (Pascal)",
   "wrong_idea": "People thought that a bigger amount of water, or a wider container, must push harder at the bottom. Stevin and Pascal showed that only the depth matters, and that a push on a closed liquid goes everywhere equally."
