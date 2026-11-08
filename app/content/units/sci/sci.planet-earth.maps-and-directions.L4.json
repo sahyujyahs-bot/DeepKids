@@ -539,7 +539,7 @@
   "practice": {
    "title": "Find the door with your eyes closed",
    "mins": 3,
-   "say": "Stand in the middle of a room. Close your eyes. Without moving your feet, point to the door, then the window, then your bed. Breathe in slowly three times. Open your eyes and see how close you were. Now notice that you drew a map of the room in your mind from the times you have looked at it.",
+   "say": "Stand in the middle of a room, clear of furniture and stairs. Close your eyes. Without moving your feet, point to the door, then the window, then your bed. Breathe in slowly three times. Open your eyes and see how close you were. Now notice that you drew a map of the room in your mind from the times you have looked at it.",
    "kid": "Stand still. Close your eyes. Point to the door, the window and your bed. Open your eyes. How close were you?"
   },
   "ask": [
@@ -618,8 +618,9 @@
     "Mark the answer on grid 2: an X for a hit and a dot for a miss.",
     "After a hit, you must try a square next to the hit on your next turn. Say the direction in words first. For example: one square east of D5, which is E5.",
     "The first player to sink all three boats of the other player wins.",
-    "Playing alone, pick a solo fleet card without looking at the back. Make guesses on grid 2 and count them. Check the back at the end. Try to find all three boats in 30 guesses or fewer.",
-    "At the end, say the grid references of every square of your biggest boat."
+    "Playing alone, pick a solo fleet card without looking at the back. Make guesses on grid 2 and count them. Check the back at the end. A smart player usually needs about 35 to 40 guesses. Try to find all three boats in 40 guesses or fewer, and 30 or fewer is excellent.",
+    "At the end, say the grid references of every square of your biggest boat.",
+    "With 3 or 4 children, play in two teams. Each team shares one pair of grids, and the teams take turns to call a square while the team members swap who calls and who marks."
    ],
    "flow": [
     {
@@ -828,7 +829,7 @@
     "Every other player puts one map token face down. The best choice may be none of the tokens, so players may say another kind of map out loud instead.",
     "Everyone shows their choice at once. The reader reads the back. A choice that matches the back scores 1 point.",
     "A player who gives a good reason scores 1 more point, even if the map was not the one on the card.",
-    "Swap readers after each card. After 10 cards, the player with the most points wins.",
+    "Swap readers after each card. With 3 or 4 players this works well, because each reader reads the card and the others choose. After 10 cards, the player with the most points wins.",
     "Playing alone, read the job, say the map and the reason, and then turn the card over. Give yourself 1 point for each right map and 1 for a good reason."
    ],
    "flow": [
@@ -903,7 +904,7 @@
      "qty": 1
     },
     {
-     "item": "modelling clay, or crumpled newspaper and masking tape, to make the hidden hills",
+     "item": "modelling clay or plasticine, or crumpled newspaper and masking tape, to make the hidden hills. Stick each hill to the floor of the box so the stick cannot push it over",
      "qty": 1
     },
     {
@@ -927,7 +928,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes with the pointed scissors or a sharp pencil. Use only a blunt stick to poke, and keep the point away from faces. Wash hands after using clay.",
+   "safety": "A grown-up makes the holes with the pointed scissors or a sharp pencil. Use only a blunt stick to poke, and keep the point away from faces. Do not push the stick hard: stop when it touches something. Wash hands after using clay. With 2 to 4 children, one grown-up is enough, because only the grown-up uses the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -940,11 +941,11 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Away from your child, build a landscape on the floor of the box with clay or crumpled newspaper. Make one big hill 6 centimetres high, one small hill and a narrow ridge 2 centimetres wide. Leave some floor flat. Make 20 holes in the lid, 5 across and 4 down, about 5 centimetres apart. Put the lid on.",
+     "do": "Away from your child, build a landscape on the floor of the box with clay or crumpled newspaper. Make one big hill 6 centimetres high. Make it wide enough to lie under two or three holes. Make one small hill. Make a narrow ridge, 2 centimetres wide, 4 long and 4 high. Leave some floor flat. Make 20 holes in the lid, 5 across and 4 down, about 5 centimetres apart. Put the lid on.",
      "say": "Your child should not see the inside of the box. Tell them only that there is a landscape in it.",
      "kid": "Wait outside while a grown-up builds the landscape.",
      "adult": true,
-     "parent": "Put the narrow ridge under one hole that is not in the first six, so that round 1 is likely to miss it. Also leave one small bump between holes. Number the holes on the lid A1 to E4 with the marker. Round 1 uses A1, C1, E1, A3, C3 and E3. Measure the inside depth of the box with a ruler, and write it down. It is probably 10 centimetres.",
+     "parent": "Put the narrow ridge exactly under hole D2, which is not in the first six, so that round 1 misses it. Put the lid on and test with the stick that it touches the ridge at D2 and nothing else around it; nudge the ridge until it does. With older and younger children, an older child can build a second box for the younger one, and they swap boxes. Also leave one small bump between holes. Number the holes on the lid A1 to E4 with the marker. Round 1 uses A1, C1, E1, A3, C3 and E3. Measure the inside depth of the box with a ruler, and write it down. It is probably 10 centimetres.",
      "context": "This is the first step of the Hidden Hills test. A grown-up builds a landscape in a shoebox that your child cannot see."
     },
     {
@@ -969,8 +970,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Show how to take a reading. Push the stick down one hole until it stops. Pinch the stick at the lid with your finger. Pull it out. Measure from the tip to your finger. Write the reading. The height of the land is the depth of the box minus the reading.",
-     "say": "Push the stick down until it stops. Pinch it at the lid. Measure from the tip to your finger. If the box is 10 centimetres deep and the reading is 4, the land is 6 centimetres high.",
+     "do": "Show how to take a reading. Push the stick down one hole gently until it stops. Stop at the first touch and do not press into the hill. Pinch the stick at the lid with your finger. Pull it out. Measure from the tip to your finger. Write the reading. The height of the land is the depth of the box minus the reading.",
+     "say": "Push the stick down until it stops. Pinch it at the lid. Measure from the tip to your finger. Readings are good to about 1 centimetre, which is fine. If the box is 10 centimetres deep and the reading is 4, the land is 6 centimetres high.",
      "kid": "Push the stick down. Pinch it at the lid. Measure.",
      "check": {
       "t": "mcq",
@@ -1001,7 +1002,7 @@
        ]
       }
      ],
-     "parent": "Do not say what is in the box. Round 1 is likely to miss the ridge. Your child may draw smooth hills between the holes. That is interpolation, and it is a good first try."
+     "parent": "With 2 to 4 children, share the jobs: one pokes, one pinches the stick and measures, one writes the reading and colours the square. Swap jobs at every hole, and let each child draw their own map from the same numbers, then compare them. Do not say what is in the box. Round 1 is likely to miss the ridge. Your child may draw smooth hills between the holes. That is interpolation, and it is a good first try."
     },
     {
      "id": "s5",
@@ -1028,7 +1029,7 @@
      "say": "Where do the numbers jump the most? That is where something is happening. Choose four new spots there. A grown-up makes the holes.",
      "kid": "Where do the numbers jump? Choose four new spots.",
      "adult": true,
-     "parent": "Making a new hole between squares needs the lid to be marked in a smaller grid. If the small bump is missed again, that is a real result: a feature smaller than the gaps can always hide."
+     "parent": "Mark each new hole with a dot on the lid and on the map. Making a new hole between squares needs the lid to be marked in a smaller grid. If the small bump is missed again, that is a real result: a feature smaller than the gaps can always hide."
     },
     {
      "id": "s7",
@@ -1124,11 +1125,11 @@
      "qty": 1
     },
     {
-     "item": "a drawing compass, or a piece of string with a pencil tied to one end",
+     "item": "a drawing compass from a school geometry box, or a piece of string with a pencil tied to one end (the string works for a radius longer than 10 centimetres)",
      "qty": 1
     },
     {
-     "item": "a one-rupee coin",
+     "item": "any coin, such as a one-rupee coin",
      "qty": 1
     },
     {
@@ -1140,7 +1141,7 @@
      "qty": 1
     }
    ],
-   "safety": "The point of a compass is sharp. A grown-up helps younger children, and the point stays down on the paper.",
+   "safety": "The point of a compass is sharp. A grown-up helps younger children, and the point stays down on the paper. Keep the points of the compass away from faces.",
    "schedule": [
     {
      "day": 1,
@@ -1153,7 +1154,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Mark three dots on the paper for towers A, B and C. Keep them about 15 centimetres apart, and not in a straight line. Write A, B and C by them. Show the compass.",
+     "do": "Mark three dots on the paper for towers A, B and C. Keep them about 15 centimetres apart (a school compass draws circles up to a radius of about 10 centimetres), and not in a straight line. Write A, B and C by them. Show the compass.",
      "say": "These three dots are towers. A hidden coin sits somewhere on the paper. A grown-up will tell you only how far the coin is from each tower. Do you think one distance is enough? Two? Why do you think so?",
      "kid": "Three towers. A coin is hidden. Is one distance enough? Why?",
      "ask": [
@@ -1176,7 +1177,7 @@
      "say": "Close your eyes. The coin is going down. Now I measure, and I write the three distances on three slips.",
      "kid": "Look away while the coin is hidden.",
      "adult": true,
-     "parent": "Choose a spot where the circles from A and B will cross at two points, so the spot is not on the line from A to B. Measure from the centre of the coin. Write the distance from each tower to the nearest centimetre. Fold the chit so your child cannot see.",
+     "parent": "Choose a spot inside the triangle of the towers, no more than 10 centimetres from each tower, where the circles from A and B will cross at two points, so the spot is not on the line from A to B. Measure from the centre of the coin. Write the distance from each tower to the nearest centimetre. Fold the chit so your child cannot see.",
      "check": {
       "t": "mcq",
       "q": "The grown-up measures the distance from tower A to the coin as 10 centimetres. What does this tell you?",
@@ -1206,7 +1207,7 @@
        ]
       }
      ],
-     "parent": "Write 'anywhere on the circle' in the table. The circle is all the places that are that far from A."
+     "parent": "Write 'anywhere on the circle' in the table. With 2 to 4 children, give each child a copy of the tower sheet and the same three slips, then compare circles, or share one sheet with one tower and one coloured pencil for each child. The circle is all the places that are that far from A."
     },
     {
      "id": "s4",
@@ -1232,7 +1233,7 @@
      "do": "Round 3. Take the third slip. Draw a circle around tower C. Look for the one place where all three circles meet. Draw the coin there. Read the chit. How far off were you?",
      "say": "Now draw the third circle. Where do all three meet? Is it one place or two? Read the chit. How close were you?",
      "kid": "Draw a circle around C. Where do all three meet?",
-     "parent": "The three circles should meet at one place, or in a very small triangle, because ruler and compass are never perfect. Measure the distance between your guess and the chit. A distance of 1 centimetre or less is a good result. If the circles do not meet, check the slips, and draw them again.",
+     "parent": "The three circles should meet at one place, or in a very small triangle, because ruler and compass are never perfect. Measure the distance between your guess and the chit. A careful drawing is often within about 1 centimetre, though yours may differ. If the circles do not meet, check the slips, and draw them again.",
      "check": {
       "t": "mcq",
       "q": "Two circles cross at two places. What does a third circle do?",
@@ -1252,7 +1253,7 @@
      "do": "Do it all again with a new coin spot. Then ask your child for the three things: what I think, what I saw and why.",
      "say": "Tell me three things. How many distances did you need? What did you see? Why? How does a phone use this?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: three distances fix one place. One gives a circle, two give two places, and three give one. A phone does the same with distances to satellites in space, but in three dimensions, which is why it needs a fourth satellite for its clock. The satellites send timed signals, and the phone turns each time into a distance."
+     "parent": "With several children, each takes a turn at hiding the coin, with a grown-up checking the measuring. A good answer: three distances fix one place. One gives a circle, two give two places, and three give one. A phone does the same with distances to satellites in space, but in three dimensions, which is why it needs a fourth satellite for its clock. The satellites send timed signals, and the phone turns each time into a distance."
     }
    ],
    "context": "In this experiment you find a hidden coin on a sheet of paper from its distances to three towers. You find out how many distances you need, and how a phone uses the same idea.",
@@ -1326,11 +1327,11 @@
      "qty": 1
     },
     {
-     "item": "a piece of string about 50 centimetres long",
+     "item": "a piece of string about 30 centimetres long",
      "qty": 1
     },
     {
-     "item": "a measuring tape, or a row of floor tiles whose size you know",
+     "item": "a measuring tape, or a long string and a ruler, or a row of floor tiles whose size you know",
      "qty": 1
     },
     {
@@ -1346,7 +1347,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes on the walk. Walk on the footpath, cross roads only at crossings, and hold the phone away from traffic. Do not look at the phone screen while you walk.",
+   "safety": "A grown-up comes on the walk. Walk on the footpath, cross roads only at crossings, and hold the phone away from traffic. Do not look at the phone screen while you walk. With 2 to 4 children, they walk in a line behind or beside the grown-up on the footpath side.",
    "schedule": [
     {
      "day": 1,
@@ -1381,7 +1382,7 @@
      "do": "Measure the scale bar on the screen with the ruler. Write its length in centimetres, and the real distance written beside it. Work out how many metres 1 centimetre stands for.",
      "say": "Measure the scale bar with the ruler. If it is 1.5 centimetres long and says 100 metres, how many metres is 1 centimetre?",
      "kid": "Measure the scale bar. How many metres is 1 centimetre?",
-     "parent": "Do not zoom the map after this. For example, if the bar is 1.5 centimetres for 100 metres, 1 centimetre is about 67 metres. Screens differ, so the answer will be different on your screen.",
+     "parent": "Do not zoom the map after this. If the map slips or zooms by accident, measure the bar again. For example, if the bar is 1.5 centimetres for 100 metres, 1 centimetre is about 67 metres. Screens differ, so the answer will be different on your screen.",
      "check": {
       "t": "mcq",
       "q": "The scale bar on the screen is 2 centimetres long and says 100 metres. How many metres does 1 centimetre stand for?",
@@ -1416,7 +1417,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Measure the length of your step. Mark a start line and walk 10 steps in a straight line along a floor or a pavement. Measure the distance. Divide it by 10. Then divide the real distance of the route by your step length to find the steps you expect.",
+     "do": "Measure the length of your step. Mark a start line and walk 20 normal steps in a straight line along a floor or a pavement. Measure the distance. Divide it by 20. Then divide the real distance of the route by your step length to find the steps you expect.",
      "say": "Walk ten steps in a line, then measure how far you went. Divide by ten. That is one step. Now how many steps in the whole route?",
      "kid": "Walk ten steps. Measure. Divide by ten.",
      "parent": "A child of about nine has a step of roughly 50 to 60 centimetres, but yours may differ. Use your own."
@@ -1428,7 +1429,7 @@
      "say": "Walk at an easy, steady pace. Count your steps out loud. When you arrive, write the number and the time.",
      "kid": "Walk the route. Count your steps. Time the walk.",
      "adult": true,
-     "parent": "Count steps quietly in your head, so the child's count is not influenced by yours. If the child loses count, repeat the walk on the way back."
+     "parent": "A long walk is easy to lose count of, so count in hundreds: say the number out loud up to 100, fold down a finger, and start again from 1. Count quietly in your head, so the child's count is not influenced by yours. With 2 to 4 children, each child counts their own steps and has their own step length, so their counts will differ and each is compared with their own expected number. One child times the walk. If the child loses count, repeat the walk on the way back."
     },
     {
      "id": "s6",
@@ -1436,7 +1437,7 @@
      "do": "Compare. How close was the number of steps you counted to the number you expected? Give two reasons why they might differ. Then ask for the three things: what I think, what I saw and why.",
      "say": "How close were you? What might have made the numbers differ? Tell me three things. What did you find? What did you see? Why?",
      "kid": "Compare the numbers. Why are they different?",
-     "parent": "A good answer: the scale bar is a good guide, and the real walk is usually fairly close to the number worked out, often within 10 to 15 per cent, though yours may differ. Reasons for a difference: the string does not follow every bend, the screen was small, steps change when you walk faster or slower, and the map shows a road that has turns. If the difference is big, check the measuring of the string.",
+     "parent": "A good answer: the scale bar is a good guide, and the real walk is usually fairly close to the number worked out, often within about 10 to 15 per cent, though yours may differ. Reasons for a difference: the string does not follow every bend, the screen was small, steps change when you walk faster or slower, and the map shows a road that has turns. If the difference is big, check the measuring of the string.",
      "check": {
       "t": "mcq",
       "q": "The route measures 6 centimetres on a map where 1 centimetre stands for 50 metres. A child's step is 50 centimetres. About how many steps are expected?",
@@ -1564,7 +1565,7 @@
      "do": "Play a question game. You ask: what is in D3? Then swap: say a thing and ask for its square.",
      "say": "What is in D3? Where is the shop? Give the square.",
      "kid": "Ask what is in a square. Ask where a thing is.",
-     "parent": "If you have an atlas, look up your city in the index. It gives a page and a grid reference, for example 14, C5. Turn to the page and find the square.",
+     "parent": "With 2 to 4 children, each child draws the same town and the children take turns to ask each other. If you have an atlas, look up your city in the index. It gives a page and a grid reference, for example 14, C5. Turn to the page and find the square.",
      "check": {
       "t": "mcq",
       "q": "The post office is in square C4. Which way do you read it?",
@@ -1617,7 +1618,7 @@
      "qty": 1
     },
     {
-     "item": "a compass or a phone with a compass, or the morning Sun for east",
+     "item": "a compass or a phone with a compass, or the morning Sun, which rises roughly in the east (the exact spot changes with the season)",
      "qty": 1
     },
     {
@@ -1625,7 +1626,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes on the walk. Stay on the footpath and cross the road only at a crossing.",
+   "safety": "A grown-up comes on the walk. Stay on the footpath and cross the road only at a crossing. With 2 to 4 children, they stay together and walk beside the grown-up.",
    "schedule": [
     {
      "day": 1,
@@ -1657,11 +1658,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Walk to three of the places with a grown-up. Count your steps between each. Note the direction you walk, using the Sun or a compass. Write each in your notebook.",
+     "do": "Walk to three of the places, close to home and within about 200 steps of each other, with a grown-up. Count your steps between each. Note the direction you walk, using the Sun or a compass. Write each in your notebook.",
      "say": "Walk to three places. Count your steps. Which way are you going? North, south, east or west?",
      "kid": "Walk to three places. Count steps. Note the direction.",
      "adult": true,
-     "parent": "Use the morning Sun for east, or a compass. Ask your child to say 'we are walking north' or 'we are turning east'."
+     "parent": "Use the morning Sun for roughly east, or a compass. With several children, one counts steps, one reads the compass and one writes, and they swap on each leg. Ask your child to say 'we are walking north' or 'we are turning east'."
     },
     {
      "id": "s3",
@@ -1710,19 +1711,19 @@
    "days": 1,
    "materials": [
     {
-     "item": "modelling clay or plasticine",
+     "item": "oil-based modelling clay or plasticine (not mud or earth clay, which clouds the water)",
      "qty": 1
     },
     {
-     "item": "a clear plastic box with a clear lid, about 15 centimetres long and 8 centimetres deep",
+     "item": "a clear plastic box with a clear flat lid, about 15 centimetres long and 8 centimetres deep, such as a transparent food container",
      "qty": 1
     },
     {
-     "item": "a cup of water and a spoon",
+     "item": "a jug or bottle with about 1 litre of water, and a spoon",
      "qty": 1
     },
     {
-     "item": "a marker pen that wipes off",
+     "item": "a whiteboard marker, which wipes off plastic (about Rs 30 at a stationery shop)",
      "qty": 1
     },
     {
@@ -1769,12 +1770,12 @@
      "do": "Pour water slowly into the box until it reaches the 1 centimetre line. Put the lid on. Look straight down at the lid. Trace the edge of the water on the hill with the marker. Take the lid off, pour more water to 2 centimetres, and trace again. Repeat for 3 and 4 centimetres.",
      "say": "Add water to the first line. Look straight down and trace where the water meets the hill. Add more water. Trace again.",
      "kid": "Add water to each line. Trace the water's edge on the lid.",
-     "parent": "Look straight down, or the line will be drawn in the wrong place. The rings are the contour lines of your hill. Each one joins places at the same height. The clay must stay firmly pressed or the water will creep underneath."
+     "parent": "Look straight down with one eye closed, or the line will be drawn in the wrong place. The rings are the contour lines of your hill. Each one joins places at the same height. With 2 to 4 children, one pours slowly, one checks the water at the line from the side, and one traces, and they swap at each level. The clay must stay firmly pressed or the water will creep underneath."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Lay the lid on paper. Trace the rings with a pencil. Write the height beside each ring: 1, 2, 3 and 4 centimetres. Compare the rings on the steep side and the gentle side.",
+     "do": "Lay the lid on paper. Trace the rings with a pencil. Write the height beside each ring: 1, 2, 3 and 4 centimetres. Measure the gap between two rings on the steep side. Measure it on the gentle side. Write both and compare.",
      "say": "Trace your rings on the paper. Write each height. Where are the rings close together? Where are they far apart?",
      "kid": "Trace the rings. Write the heights. Compare the two sides.",
      "check": {
@@ -1841,7 +1842,8 @@
      "do": "Find your state on a political map. Write the names of two states that share a border with it. Find your state on the physical map. What colour is it?",
      "say": "Find our state on the political map. Which states touch it? Now find it on the physical map. What colour is it?",
      "kid": "Find our state on both maps.",
-     "context": "This is a map reading activity. You compare a political map and a physical map of India."
+     "context": "This is a map reading activity. You compare a political map and a physical map of India.",
+     "parent": "With 2 to 4 children, give one child the political map and another the physical map, and let them swap answers."
     },
     {
      "id": "s2",
@@ -1950,7 +1952,7 @@
        ]
       }
      ],
-     "parent": "A good map can be checked. Walk the room with the map in your hand."
+     "parent": "With 2 to 4 children, pass the maps round in a circle. A good map can be checked. Walk the room with the map in your hand."
     },
     {
      "id": "s3",
@@ -2023,7 +2025,7 @@
      "say": "Press and hold on our home. The phone shows two numbers. The first is the latitude. The second is the longitude. Write both.",
      "kid": "Press and hold on home. Read the two numbers.",
      "adult": true,
-     "parent": "The two numbers are written in degrees, for example 13.08, 80.27. The first is the latitude, the number of degrees north of the equator, and the second is the longitude, east of Greenwich. Chennai is at about 13 north and 80 east.",
+     "parent": "The two numbers are written in degrees, for example 13.08, 80.27. The first is the latitude, the number of degrees north of the equator, and the second is the longitude, east of Greenwich. Chennai is at about 13 north and 80 east. If the app does not show the numbers, search for your place and open its details, or ask a grown-up to type your place name and the word coordinates.",
      "context": "This is a short activity to find the latitude and longitude of home on a phone."
     },
     {
@@ -2032,7 +2034,7 @@
      "do": "Find Delhi, at about 28.6 north and 77.2 east. Is Delhi north or south of your home? How can you tell from the numbers? Find the equator on the globe or atlas.",
      "say": "Delhi is at about 28.6 north. Is it north or south of us? How do the numbers tell you? How far north of the equator are we?",
      "kid": "Is Delhi north or south of home? How do the numbers tell you?",
-     "parent": "One degree of latitude is about 111 kilometres, so the difference of about 15.6 degrees is around 1,700 kilometres.",
+     "parent": "One degree of latitude is about 111 kilometres, so for a home in Chennai the difference of about 15.6 degrees is around 1,700 kilometres. For another town, subtract the two latitudes and multiply by 111.",
      "check": {
       "t": "mcq",
       "q": "Home is at 13 degrees north. Delhi is at 28.6 degrees north. Which is further north?",
@@ -2075,7 +2077,7 @@
    "mins": 90,
    "materials": [
     {
-     "item": "5 sheets of paper of the same size",
+     "item": "5 sheets of paper of the same size, and a measuring tape, or a long string, or floor tiles you can count",
      "qty": 1
     },
     {
@@ -2087,7 +2089,7 @@
      "qty": 1
     },
     {
-     "item": "colour pencils",
+     "item": "a phone or tablet with a map app, with a scale bar that shows at each zoom",
      "qty": 1
     },
     {
@@ -2122,12 +2124,12 @@
     {
      "day": 5,
      "mins": 15,
-     "what": "Page 4: trace the neighbourhood from the phone, with 1 centimetre for 500 metres."
+     "what": "Page 4: trace the neighbourhood from the phone, at about 1 centimetre for 500 metres."
     },
     {
      "day": 6,
      "mins": 15,
-     "what": "Page 5: trace your city, with 1 centimetre for 5 kilometres."
+     "what": "Page 5: trace your city, at about 1 centimetre for 5 kilometres."
     },
     {
      "day": 7,
@@ -2176,16 +2178,16 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "Page 4. On the phone, zoom out until the scale bar matches 500 metres. Lay tracing paper on the screen and trace the main roads, your home and three landmarks. Copy it onto your page.",
+     "do": "Page 4. On the phone, zoom out until 1 centimetre on the screen is about 500 metres, or as near as you can get. Lay tracing paper on the screen and trace the main roads, your home and three landmarks. Copy it onto your page. Write the scale you measured, such as 1 centimetre for 700 metres.",
      "say": "Page 4 is your neighbourhood. 1 centimetre is 500 metres. Trace the big roads. Many small streets will be gone.",
      "kid": "Page 4: trace the neighbourhood from the phone.",
-     "parent": "Check the scale bar on the screen with a ruler. The scale changes if you zoom in or out, so measure it again.",
+     "parent": "Phone screens are small, so only trace a part of the screen that fits your page. Check the scale bar on the screen with a ruler. The scale changes if you zoom in or out, so measure it again.",
      "wait": "Keep the pages. Come back on the day after tomorrow."
     },
     {
      "id": "s5",
      "mins": 15,
-     "do": "Page 5. Zoom out again until the bar matches 5 kilometres. Trace the main roads, a river or a railway, and your home. Copy it onto your page.",
+     "do": "Page 5. Zoom out again until the bar is about 1 centimetre long for about 5 kilometres, or as near as you can get. Trace the main roads, a river or a railway, and your home. Copy it onto your page and write the scale you measured.",
      "say": "Page 5 is your city. 1 centimetre is 5 kilometres. Is your home still on the map? What does it look like now?",
      "kid": "Page 5: trace your city. 1 centimetre is 5 kilometres.",
      "check": {
@@ -2199,7 +2201,8 @@
       "a": 0,
       "why": "Page 1 has the largest scale, so it shows things biggest. By page 5, a house is a tiny dot or has vanished altogether."
      },
-     "context": "In this step you draw the last page of the atlas, the whole city."
+     "context": "In this step you draw the last page of the atlas, the whole city.",
+     "parent": "Measure the bar with a ruler again after zooming. The scale you write must be the one on the screen, even if it is not exactly 5 kilometres."
     },
     {
      "id": "s6",
@@ -2217,7 +2220,7 @@
        ]
       }
      ],
-     "parent": "A good answer says that as the scale gets smaller, the map covers more ground but has to leave out small things. A mapmaker chooses what to keep for each scale."
+     "parent": "With 2 to 4 children, each child draws their own atlas of their own room and the shared street, or they split the pages and bind one atlas together. A good answer says that as the scale gets smaller, the map covers more ground but has to leave out small things. A mapmaker chooses what to keep for each scale."
     }
    ],
    "context": "In this project you draw five maps, each one covering ten times more ground than the one before. You see what a map keeps and what it throws away as the scale changes.",
@@ -2293,7 +2296,8 @@
      "do": "Walk or trace the route with a grown-up. Count the steps in each part and note the landmarks. Write your first set of directions.",
      "say": "Write the route. Walk 60 steps north. Turn east. Walk 100 steps. Name a landmark at each turn.",
      "kid": "Write the route with compass directions and steps.",
-     "parent": "Check the directions with a compass. If you cannot walk it, use the map with its scale."
+     "parent": "Walk on the footpath and cross roads only at crossings. With 2 to 4 children, they walk together beside the grown-up and each writes their own directions. Check the directions with a compass. If you cannot walk it, use the map with its scale.",
+     "adult": true
     },
     {
      "id": "s3",
@@ -2312,7 +2316,8 @@
       "a": 0,
       "why": "Forward depends on which way you face. The first goes east and the second goes north. North, south, east and west do not change when you turn."
      },
-     "context": "In this step you test your directions on a real reader."
+     "context": "In this step you test your directions on a real reader.",
+     "parent": "With several children, swap directions in pairs and let each follow the other's with a finger."
     },
     {
      "id": "s4",
@@ -2353,7 +2358,7 @@
    ],
    "materials": [
     "a large piece of cardboard",
-    "strong glue or double-sided tape",
+    "paste or white glue, or double-sided tape",
     "string or thick rope for the walls",
     "a piece of sandpaper, a piece of cloth and a piece of foil for different textures",
     "bottle caps or small clay shapes for furniture",
@@ -2425,7 +2430,8 @@
      "do": "Talk about what worked. Which textures were easy to tell apart? Which were confusing?",
      "say": "What was easy to read by touch? What was confusing? What would you change?",
      "kid": "What was easy to feel? What was confusing?",
-     "think": "What do people who cannot see need from a map, and how are they given it?"
+     "think": "What do people who cannot see need from a map, and how are they given it?",
+     "parent": "With 2 to 4 children, make one map each and swap, or build one map together with each child making one wall or one piece of furniture. Take turns to be the blindfolded reader."
     }
    ],
    "context": "This is a design challenge. You make a touch map of a room that a blindfolded friend can read, to see what a map really needs.",
@@ -3578,7 +3584,7 @@
    "id": "b-geometry",
    "item": "A geometry box with a drawing compass",
    "kind": "tool",
-   "why": "To draw the circles in the Three Distances test. A string and a pencil also work.",
+   "why": "To draw the circles in the Three Distances test. Most school bags already have one. A string and a pencil also work.",
    "url": "https://www.amazon.in/s?k=geometry+box+compass",
    "used_in": [
     "e2"
@@ -3586,12 +3592,22 @@
   },
   {
    "id": "b-clay",
-   "item": "A pack of modelling clay",
+   "item": "A pack of oil-based modelling clay (plasticine)",
    "kind": "material",
-   "why": "For the Hidden Hills landscape and the clay hill that is sliced with water. A small pack from a stationery shop is enough.",
+   "why": "For the Hidden Hills landscape and the clay hill that is sliced with water. A small pack from a stationery shop is enough. Do not use mud or earth clay for the water test, because it clouds the water.",
    "url": "https://www.amazon.in/s?k=modelling+clay+for+kids",
    "used_in": [
     "e1",
+    "a3"
+   ]
+  },
+  {
+   "id": "b-marker",
+   "item": "A whiteboard marker",
+   "kind": "material",
+   "why": "To trace the water line on the clear lid in the Contour Hill test, because it wipes off plastic. It costs about Rs 30 at a stationery shop. A thin marker that you can wipe with a tissue also works.",
+   "url": "https://www.amazon.in/s?k=whiteboard+marker",
+   "used_in": [
     "a3"
    ]
   }
@@ -3719,5 +3735,5 @@
   "when": "1952 for the valley, and 1957 for the first published map",
   "wrong_idea": "Many scientists thought the deep sea floor was a flat plain. Tharp drew the soundings carefully and found a mountain chain with a valley down the middle."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Hidden Hills needs a grown-up to build the landscape and make the holes, and the box must be deep enough, about 10 centimetres. The first round is meant to miss the narrow ridge, but a tiny bump between holes may stay hidden even in the last round, and the step says this is a real result. A blunt stick, such as a chopstick, is used, not a skewer. Three Distances works on any large sheet of paper, and the three towers must not be in a straight line, or the circles will give two answers. A drawing compass or a string and pencil both work. The Scale Walk needs a phone map with a scale bar, a ruler and a grown-up, and the map must not be zoomed between measuring the bar and the route. The Contour Hill needs a clear box and clay pressed down firmly. The Fishing Harbour game was checked on paper: the six solo fleets fit on the grid with no overlaps. Facts to verify: Marie Tharp's account of 1952, the Cheeseman and Cheung papers of 2014, the amount of sea floor mapped in fine detail, and the date of the earliest Survey of India baseline near Madras."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Hidden Hills needs a grown-up to build the landscape and make the holes, and the box must be deep enough, about 10 centimetres. The first round is meant to miss the narrow ridge, but a tiny bump between holes may stay hidden even in the last round, and the step says this is a real result. A blunt stick, such as a chopstick, is used, not a skewer. Three Distances works on any large sheet of paper, and the three towers must not be in a straight line, or the circles will give two answers. A drawing compass or a string and pencil both work. The Scale Walk needs a phone map with a scale bar, a ruler and a grown-up, and the map must not be zoomed between measuring the bar and the route. The Contour Hill needs a clear box and clay pressed down firmly. The Fishing Harbour game was checked on paper: the six solo fleets fit on the grid with no overlaps. Feasibility review (no family trial yet): quantities and group roles were checked on paper. The ridge in Hidden Hills must sit exactly under hole D2, and a typical careful Three Distances drawing lands within about 1 centimetre. Facts to verify: Marie Tharp's account of 1952, the Cheeseman and Cheung papers of 2014, the amount of sea floor mapped in fine detail, and the date of the earliest Survey of India baseline near Madras."
 }

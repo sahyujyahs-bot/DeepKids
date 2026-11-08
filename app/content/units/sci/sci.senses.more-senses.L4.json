@@ -688,6 +688,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the cards and tokens. Stack the cards with the moment side up. Give each player four tokens.",
+    "parent": "A grown-up helps younger children with the scissors. The moments on the cards are only imagined, so nobody has to try them for real. Do not spin or stand on a mattress to check a card.",
      "say": "Your balance has three helpers. They are your eyes, your inner ears, and your feet and muscles. For each moment, which helper is fooled, missing or unsure?",
      "kid": "Cut out the cards and tokens. Each player takes four tokens.",
      "context": "This is the first step of Which Sense Was Fooled?, a card game about the three sources of balance."
@@ -828,7 +829,7 @@
     "A grown-up or a friend stays beside the player as a spotter at every station, ready to catch.",
     "At each station the player takes the pose and the timer starts. The timer stops when the player's raised foot touches the floor, when the player moves a foot, or at 20 seconds.",
     "Score 1 point for each full 5 seconds, so a station is worth 0 to 4 points. The most you can win in the relay is 24 points.",
-    "Each player visits all six stations. Rest for a minute between stations if you feel wobbly.",
+    "Each player visits all six stations. Rest about 15 seconds between stations, and longer if you feel wobbly.",
     "After the relay, each player says which station was hardest and which helper was taken away there.",
     "Playing alone, ask someone to be your timer and spotter, and try to beat your own total on another day.",
     "Anyone who feels dizzy, or has a problem with their ears, watches or times for the others."
@@ -837,7 +838,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Set out the six stations. Fold a blanket three times and flatten it for station 3. Place a spotter at each station.",
+     "do": "Set out the six stations. Fold a blanket three times and flatten it for station 3. One spotter walks beside the player from station to station.",
      "say": "We will visit six stations. At each one, a helper for your balance is taken away. Which station do you think will be hardest? Why?",
      "kid": "Set out six stations. Guess which will be the hardest.",
      "adult": true,
@@ -861,7 +862,7 @@
      "say": "Take the pose. I will start the timer. Stop when your foot touches down. Rest. Then we go to the next station.",
      "kid": "Take the pose at each station. Hold it as long as you can.",
      "adult": true,
-     "parent": "Stand close at every station and be ready to catch. Do not let anyone near stairs or furniture. If a child feels dizzy, stop and sit down at once.",
+     "parent": "Stand close at every station and be ready to catch. Do not let anyone near stairs or furniture. If a child feels dizzy, stop and sit down at once. One player takes about 4 minutes if the rests are short (about 15 seconds). With two to four children, one plays while a second spots, a third times and a fourth writes the seconds, and then you rotate. With one child, the parent spots and times. Station 5, looking up, is the one most likely to make a child fall, so keep the spotter's hands ready.",
      "context": "In this step, you play the relay and write down the seconds for each station."
     },
     {
@@ -968,7 +969,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write down what your child says about two helpers being lost at once.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write down what your child says about two helpers being lost at once. With two to four children, each child has own table. While one child stands, a second is the spotter, a third times, and a fourth writes the seconds. Then rotate. Compare every child's bars, since the pattern matters more than the seconds.",
      "context": "This is the first step of the Balance Team test. You guess before you test."
     },
     {
@@ -1149,7 +1150,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children guess that both will be equally hard, and that is a fine guess to test.",
+     "parent": "Do not correct the guess. Many children guess that both will be equally hard, and that is a fine guess to test. One child alone works with a parent holding the page. With two to four children, one reads, one shakes the page, one counts the beat and one counts the words right. Then rotate. Each reader does all three tests, so each has own table.",
      "context": "This is the first step of the Shake the Head or Shake the Page test. You guess before you test."
     },
     {
@@ -1179,7 +1180,7 @@
      "say": "Test two. Hold your head and say no, no, no to my beat while you read. Test three. Keep your head still. I will shake the page to the same beat.",
      "kid": "Shake your head to the beat and read. Then keep still while the page shakes.",
      "adult": true,
-     "parent": "Keep both beats the same. Write what the print looked like each time, such as clear, smeared or jumping. Stop if your child feels dizzy. If both tests are easy, shake faster. If both are impossible, shake more slowly.",
+     "parent": "Keep both beats the same. Write what the print looked like each time, such as clear, smeared or jumping. Stop if your child feels dizzy. If both tests are easy, shake faster. If both are impossible, shake more slowly. The head-shake test is easier than it sounds only if the shakes are small and quick. The exact numbers vary a lot, and the page shake is almost always the harder one.",
      "context": "In this step, you read with the head shaking and then with the page shaking, to the same beat."
     },
     {
@@ -1262,7 +1263,7 @@
    ],
    "materials": [
     {
-     "item": "4 ice cubes of the same size, from one tray, kept in a bowl until they are used",
+     "item": "4 ice cubes of the same size, from one tray, kept in the freezer and taken out one at a time just before each try, since in hot weather they melt in minutes",
      "qty": 4
     },
     {
@@ -1312,7 +1313,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Remind your child that the cube can be dropped at any moment, and that nothing bad will happen if they drop it.",
+     "parent": "Do not correct the guess. Remind your child that the cube can be dropped at any moment, and that nothing bad will happen if they drop it. With two to four children, each child has own cubes and own scale. One child holds, a second times, and a third is the grown-up's helper. Each child gives the rating quietly or on paper, so others do not hear the number first.",
      "context": "This is the first step of the Ice in the Palm test. You guess before you test."
     },
     {
@@ -1351,7 +1352,7 @@
      "do": "Add the two watch ratings and the two count ratings. Compare them. Ask for claim, evidence and reasoning. Then ask the check question.",
      "say": "Add the two watch tries. Add the two count tries. Which is bigger? What does that tell you about the ache, and about where it comes from?",
      "kid": "Add the watch tries. Add the count tries. Which is bigger?",
-     "parent": "Many children give a lower number when they count, by one to three points, but some give the same and a few give higher. The ache is real in every case. The brain turns the ache up or down depending on how much attention it has for it. Pain is not an exact measure of the cold or the damage.",
+     "parent": "If the watch tries hardly ache at all (below 2), use a thinner cloth next time, but never hold longer than 20 seconds. Many children give a lower number when they count, typically by one to three points, but some give the same and a few give higher. The ache is real in every case. The brain turns the ache up or down depending on how much attention it has for it. Pain is not an exact measure of the cold or the damage.",
      "check": {
       "t": "mcq",
       "q": "If counting backwards lowered the ache from the ice, what would that show?",
@@ -1476,11 +1477,11 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Sit your child on the chair, holding the seat. Hold the open umbrella low, so it fills the view above the head. Turn it slowly, one turn every four seconds, for 30 seconds. Ask what they feel.",
+     "do": "Sit your child on the chair, holding the seat. Hold the open umbrella low, so it fills the view above the head. Turn it slowly, one turn every four seconds, for 30 seconds. Ask what they feel and write a score from 0 (nothing) to 10 (I am sure I am turning). Then do the same with eyes shut, as a comparison.",
      "say": "Hold the chair. Look up at the pattern and keep looking. I will turn the umbrella slowly. Tell me what you feel.",
      "kid": "Hold the chair. Look up at the pattern. Say what you feel.",
      "adult": true,
-     "parent": "Stay beside the chair. Turn slowly. Many children feel that they themselves start to turn, or that the chair tilts, after ten to twenty seconds. Some feel nothing, and that is a result too. Stop if your child feels sick or dizzy.",
+     "parent": "Stay beside the chair. Turn slowly. With two to four children, one sits, one turns, one holds the stopwatch and one writes the scores, and then you rotate. The effect is often weak with a small umbrella, and many children feel nothing, so write the scores honestly. Many children feel that they themselves start to turn, or that the chair tilts, after ten to twenty seconds. Some feel nothing, and that is a result too. Stop if your child feels sick or dizzy.",
      "context": "In this step, you sit under the umbrella while it turns."
     },
     {
@@ -1576,7 +1577,7 @@
        ]
       }
      ],
-     "parent": "Switch the scale on and wait for zero before each touch. Practise until your child can keep the reading steady under 100 grams. Do not correct the guess.",
+     "parent": "Switch the scale on and wait for zero before each touch. Practise until your child can keep the reading steady under 100 grams. Do not correct the guess. A kitchen scale costs about Rs 300 to 500. Without one, use a wall: a fingertip touch is light enough if a sheet of paper held between the fingertip and the wall can be pulled out easily. With two to four children, one stands, one watches the scale or the paper, one times, and one writes. Then rotate.",
      "context": "This is the first step of A Fingertip Lighter than a Tomato. You weigh a tomato and learn what a very light touch feels like."
     },
     {
@@ -1631,7 +1632,7 @@
      "qty": 2
     },
     {
-     "item": "warm water from a mix of the hot and cold taps, as warm as a baby's bath and never hotter than 40 degrees Celsius",
+     "item": "lukewarm water, about 38 degrees Celsius and as warm as a baby's bath, from a warm tap or geyser or mixed from boiled and cold water in a jug, never hotter than 40 degrees Celsius",
      "qty": 1
     },
     {
@@ -1651,7 +1652,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up mixes the water and tests it with the inside of their wrist or elbow, as for a baby's bath. The water must be pleasantly warm, never hot, and never hotter than 40 degrees Celsius. Do not use a kettle with a child nearby. Replace the water if it gets cool.",
+   "safety": "A grown-up mixes the water, away from the child, and tests it with the inside of their wrist or elbow, as for a baby's bath. Do not carry a hot pan or kettle near the children. The water must be pleasantly warm, never hot, and never hotter than 40 degrees Celsius. Replace the water if it gets cool.",
    "schedule": [
     {
      "day": 1,
@@ -1693,7 +1694,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Keep the water the same temperature in both bowls.",
+     "parent": "Do not correct the guess. Keep the water the same temperature in both bowls. The effect is usually clear but small, so use the score each time, and if all three scores are the same, write that down as a result. Cold hands from a fan or air-conditioner can spoil it, so sit in a normal room for five minutes first. With two to four children, each gives a score on paper, so nobody hears the others' numbers first.",
      "context": "This is the first step of Warm Hand, Whole Hand. A grown-up prepares the water, and you guess."
     },
     {
@@ -1807,11 +1808,11 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Your child does 20 star jumps and sits down. Wait 10 seconds. Repeat both counts for 30 seconds each. Write the numbers.",
+     "do": "Your child does 20 star jumps and sits down. Sit down at once, because the heart slows within a minute. Repeat both counts for 30 seconds each. Write the numbers.",
      "say": "Do twenty star jumps, then sit. Count again by feeling, then by pulse. Is it easier now to feel your heart?",
      "kid": "Do 20 star jumps. Sit. Count your beats both ways again.",
      "adult": true,
-     "parent": "After exercise the heart beats harder and faster, so many people can count it more accurately. The count by feeling is often smaller than the pulse count.",
+     "parent": "After exercise the heart beats harder and faster, so many people can count it more accurately. The count by feeling is often smaller than the pulse count. The heart slows a little during the minute, so the second count is a bit low. Always do the feeling count first, at rest and after exercise, so the comparison is fair. Pairs work well: one child counts and the other times, then swap, and each child can also take the other's pulse.",
      "context": "In this step, you do some exercise and then repeat both counts."
     },
     {
@@ -1850,11 +1851,11 @@
      "qty": 2
     },
     {
-     "item": "warm water from the taps, as warm as a baby's bath, never hotter than 40 degrees Celsius",
+     "item": "warm water, about 40 degrees Celsius, from a warm tap or geyser or mixed from boiled and cold water in a jug, never hotter than 40 degrees Celsius",
      "qty": 1
     },
     {
-     "item": "a thermometer that reads between 20 and 45 degrees, such as a kitchen thermometer",
+     "item": "a thermometer that reads between 30 and 45 degrees: a kitchen thermometer, or a digital fever thermometer from a medical shop (about Rs 100 to 200)",
      "qty": 1
     },
     {
@@ -1866,7 +1867,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up fills the tumblers with warm water and checks it with the wrist, as for a baby's bath. The water must never be hotter than 40 degrees Celsius. Keep the fan, the plug and the wires away from the water.",
+   "safety": "A grown-up fills the tumblers with warm water, away from the child, and checks it with the wrist, as for a baby's bath. The water must never be hotter than 40 degrees Celsius. Keep the fan, the plug and the wires away from the water.",
    "schedule": [
     {
      "day": 1,
@@ -1932,7 +1933,7 @@
      "kid": "Put the tumblers in the breeze. Wait 15 minutes. Think about sweat.",
      "adult": true,
      "wait": "Leave the tumblers in front of the fan for 15 minutes.",
-     "parent": "On a very humid day, such as in Chennai during the monsoon, the difference may be small. A table fan helps a lot. Do not touch the tumblers during the wait.",
+     "parent": "On a very humid day, such as in Chennai during the monsoon, the difference may be small. A table fan helps a lot. Do not touch the tumblers during the wait. Typical result: the wet cloth cools the water a few degrees more in 15 minutes, but the numbers depend on the weather. In a hot room the water may not cool much at all, so also compare how the two feel. If the fever thermometer shows Lo, write under 32. With two to four children, one measures each tumbler, one writes and one watches the clock. Repeat with the cloths swapped so the tumblers are fair.",
      "context": "In this step, you leave the tumblers in the breeze and wait."
     },
     {
@@ -1967,11 +1968,11 @@
      "qty": 3
     },
     {
-     "item": "warm water, as warm as a baby's bath and never hotter than 40 degrees Celsius, for one tumbler",
+     "item": "warm water, as warm as a baby's bath and never hotter than 40 degrees Celsius, for one tumbler (from a warm tap or geyser, or boiled and cold water mixed in a jug)",
      "qty": 1
     },
     {
-     "item": "room-temperature tap water for the other two tumblers",
+     "item": "room-temperature tap water for the other two tumblers (or water chilled in the fridge, if the weather is hot)",
      "qty": 1
     },
     {
@@ -1987,7 +1988,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up fills the tumblers and tests the warm one with the inside of the wrist, as for a baby's bath. The warm water must never be hotter than 40 degrees Celsius. The child never touches the tumblers during the test. Keep the room quiet, and replace the warm water when it cools.",
+   "safety": "A grown-up fills the tumblers away from the child and tests the warm one with the inside of the wrist, as for a baby's bath. The warm water must never be hotter than 40 degrees Celsius. The child never touches the tumblers during the test. Keep the room quiet, and replace the warm water when it cools.",
    "schedule": [
     {
      "day": 1,
@@ -2038,7 +2039,7 @@
      "say": "Close your eyes. I will shuffle the cups. Do not touch them. Hold your cheek close to each one, like a snake feeling for a warm mouse.",
      "kid": "Shut your eyes. Do not touch the cups.",
      "adult": true,
-     "parent": "Do not let the child hear or see the shuffling. Move the cups smoothly and quietly. Dry the outsides so that no wet marks give a clue.",
+     "parent": "Handle all three tumblers the same way, so no tumbler is warmed by hands. The viper must breathe out away from the tumblers, since breath is warm. With two to four children, one is the viper, one shuffles, and one records, and then you rotate; each viper plays 12 rounds. Do not let the child hear or see the shuffling. Move the cups smoothly and quietly. Dry the outsides so that no wet marks give a clue.",
      "context": "In this step, a grown-up prepares the three tumblers and the child covers their eyes."
     },
     {
@@ -2048,7 +2049,7 @@
      "say": "Hold your cheek near the first cup. Now the second. Now the third. Which feels warmest? Point.",
      "kid": "Hold your cheek near each cup. Point to the warmest. Do not touch.",
      "adult": true,
-     "parent": "Many children can find the warm cup from 5 centimetres. At 10 centimetres it becomes much harder. Write down where it stops working. The warm tumbler cools, so refill it after six rounds.",
+     "parent": "Many children can find the warm cup from 5 centimetres. At 10 centimetres it becomes much harder. Write down where it stops working. In hot weather, when the room and tap water are already warm, scores may stay near 4, so chill the two cold tumblers in the fridge. The warm tumbler cools, so refill it after six rounds.",
      "context": "In this step, you play twelve rounds and count how many you get right."
     },
     {
@@ -2135,7 +2136,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Choose eight people who agree to take part. Ask each person to stand on one foot for each of the four tests, close to a chair or counter. Time up to 30 seconds. Write the seconds in the table.",
+     "do": "Choose eight people who agree to take part, such as family, neighbours and friends. If you cannot find eight, five is enough. Today test two or three of them. Each person does the four tests on one foot, close to a chair or counter. Give one try per test. Time up to 30 seconds. Write the seconds in the table. Change the order of the tests for each person so tiredness is fair.",
      "say": "We are going to test eight people with the four balance tests. Ask each person if they would like to try. Nobody has to. We write down all the seconds.",
      "kid": "Ask people if they want to try. Time each person in the four tests.",
      "adult": true,
@@ -2149,7 +2150,7 @@
        ]
       }
      ],
-     "parent": "People over 60, and anyone who feels unsteady, should do eyes-open tests only, or hold a counter with one hand. Do not let anyone do a test that makes them anxious. Write down what each person says about how it felt.",
+     "parent": "People over 60, and anyone who feels unsteady, should do the eyes-open tests on the bare floor only, and hold a counter with one hand. They should skip the blanket and the eyes-shut tests. In the average, count only the people who did that test. One child works with a parent. With two to four children, one is the spotter, one times, and one writes in the table. Do not let anyone do a test that makes them anxious. Write down what each person says about how it felt.",
      "context": "This is the first day of the Family Balance Lab. You test your first people."
     },
     {
@@ -2189,6 +2190,7 @@
    "id": "c1",
    "title": "Night Path for Paati: help a grandparent walk safely in the dark",
    "mins": 40,
+   "safety": "This is a model path in a room, tested by a child with a grown-up beside. Keep the floor clear. Use a torch or a plug-in night light, never a candle or a lamp with a flame. Nothing is stuck on a floor where a real grandparent walks until a grown-up has checked that it cannot slip or trip anyone. Walk slowly, with a grown-up's hand ready.",
    "problem": "A grandparent feels unsteady in the dark. Their feet tell them less than they used to. They need to walk from the bed to the toilet at night, without waking anyone and without falling. Design a night path that gives all three balance helpers, and a touch helper, what they need.",
    "constraints": [
     "It must cost very little and be easy to make at home.",
@@ -2340,7 +2342,7 @@
      "say": "Make your cloak and cover all three tumblers in the same way. Your classmate plays the pit viper. How many do they get right?",
      "kid": "Make your cloak. Cover all three cups. Test it for 12 rounds.",
      "adult": true,
-     "parent": "Warm water must not be hotter than 40 degrees. Use scissors only with a grown-up. Check that all three cups look the same.",
+     "parent": "Warm water must not be hotter than 40 degrees. Use scissors only with a grown-up. Check that all three cups look the same. Bubble wrap is optional: a folded towel or extra newspaper works too. With two to four children, split into a cloak team and a pit viper who is a different child, and swap after the test. Use the same shuffling and recording as in Be a Pit Viper.",
      "context": "In this step, you make the cloak and test it for 12 rounds."
     },
     {
@@ -3442,7 +3444,7 @@
    "id": "b-scale",
    "item": "A digital kitchen scale that reads in grams",
    "kind": "tool",
-   "why": "For A Fingertip Lighter than a Tomato. It shows how light a helpful touch can be. A small kitchen scale from a home store is enough.",
+   "why": "For A Fingertip Lighter than a Tomato. It shows how light a helpful touch can be. A small kitchen scale from a home store is enough. It costs about Rs 300 to 500, and the activity also gives a way to do it without one.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+scale+1+gram",
    "used_in": [
     "a2"
@@ -3452,7 +3454,7 @@
    "id": "b-thermo",
    "item": "A kitchen thermometer that reads between 0 and 100 degrees",
    "kind": "tool",
-   "why": "To check that the warm water in Warm Hand, Whole Hand, Matka Magic and Be a Pit Viper is never too hot. Most homes can also use the inside of the wrist.",
+   "why": "To check that the warm water in Warm Hand, Whole Hand, Matka Magic and Be a Pit Viper is never too hot. Most homes can also use the inside of the wrist. A digital fever thermometer from a medical shop (about Rs 100 to 200) also works, since it reads 32 to 42 degrees.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer+probe",
    "used_in": [
     "a3",
@@ -3644,7 +3646,7 @@
   ],
   "art": "A girl standing on one leg under a tree in the wind, with three thin lines of light from her eyes, ears and feet meeting in her head, and a fly and a fish drawn small beside her."
  },
- "playtest": "Read and walked through as a parent and child in a city flat would use it, but not yet tried at home. The Balance Team test needs a carpet or mat and a thick folded blanket. If a child holds 30 seconds in every test, the step says to move to a heel-to-toe pose. Times vary a lot between children, so the example bars are made up. Shake the Head or Shake the Page needs print about a centimetre tall. If both tests are easy, shake faster. Ice in the Palm is short, 20 seconds, with a cloth and a grown-up, and the child may drop the cube at any time. A result of no difference is possible and is written up as a result. Under the Spinning Umbrella may give no feeling in some children. The scale activity needs a kitchen scale that shows grams. Three activities use warm water, which a grown-up checks with the wrist, never above 40 degrees Celsius. Facts to check before printing: the 43 and 26 degree gate temperatures, the soldiers in Beecher's report, the vampire bat heat gate, and the 1948 haltere work.",
+ "playtest": "Read and walked through as a parent and child in a city flat would use it, but not yet tried at home. The Balance Team test needs a carpet or mat and a thick folded blanket. If a child holds 30 seconds in every test, the step says to move to a heel-to-toe pose. Times vary a lot between children, so the example bars are made up. Shake the Head or Shake the Page needs print about a centimetre tall. If both tests are easy, shake faster. Ice in the Palm is short, 20 seconds, with a cloth and a grown-up, and the child may drop the cube at any time. A result of no difference is possible and is written up as a result. Under the Spinning Umbrella may give no feeling in some children. The scale activity uses a kitchen scale that shows grams, or a sheet of paper against a wall if there is no scale. Three activities use warm water, which a grown-up checks with the wrist, never above 40 degrees Celsius. Facts to check before printing: the 43 and 26 degree gate temperatures, the soldiers in Beecher's report, the vampire bat heat gate, and the 1948 haltere work.",
  "how_we_found_out": {
   "story": "Many people once assumed that the three loops in the inner ear were part of hearing, because they sit right beside the part that hears. In the 1820s, the French scientist Pierre Flourens cut the loops in pigeons. The pigeons could still hear, but they tumbled and swung their heads wildly. So the loops had another job. Still, nobody knew how doctors could test them. About 1906 in Vienna, a young doctor named Robert Bárány was washing a patient's ears with water. When the water was cooler than the body, the patient's eyes flicked one way and the patient felt dizzy. When it was warmer, the eyes flicked the other way. Bárány worked out that the water was warming or cooling the liquid in the loop and making it flow, just as a spinning head would. For the first time, doctors could test each ear alone. In 1914 he won the Nobel Prize in Physiology or Medicine.",
   "who": "Pierre Flourens, a French scientist (1794 to 1867), and Robert Bárány, an Austro-Hungarian doctor (1876 to 1936)",

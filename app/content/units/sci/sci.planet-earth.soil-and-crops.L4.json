@@ -724,14 +724,14 @@
     }
    ],
    "rules": [
-    "Each player has a field. Draw a circle on a sheet of paper and call it the nitrogen bank. Put 4 nitrogen tokens in it. Put the rest of the tokens in the middle as the supply.",
-    "Shuffle the crop cards and deal 3 to each player. Put the rest face down as a pile.",
+    "Each player has a field. Draw a circle on a sheet of paper and call it the nitrogen bank. Put 4 nitrogen tokens in it. Put the rest of the tokens in the middle as the supply. If the supply runs out of tokens, use dry beans or buttons from a bowl.",
+    "Shuffle the crop cards and deal 3 to each player. Put the rest face down as a pile. If the pile runs out, shuffle the played cards and use them as a new pile.",
     "A game has 8 seasons. In each season, every player plays one card face up on their field.",
     "A card that says Needs asks you to pay that many tokens from your bank to the supply. If your bank has fewer, the crop fails. Pay what you have and score 0 for the season.",
     "A card that says Gives lets you take that many tokens from the supply into your bank. A fallow card also gives 1 token, but no points.",
     "If you play the same crop as the last card in your own field, pests spread. Take away 2 points from that card.",
     "At the end of every season, each player takes 1 token from the supply for rain, fallen leaves and the bacteria in the soil. Then everyone draws back up to 3 cards.",
-    "After season 8, add up your points. The highest score wins. Playing alone, try to score 25 or more, and beat your own score next time."
+    "After season 8, add up your points. The highest score wins. Playing alone, try to score 30 or more, and beat your own score next time. Two to four players is best."
    ],
    "flow": [
     {
@@ -1026,7 +1026,7 @@
      "qty": 3
     },
     {
-     "item": "a nail and a hammer or a pair of pliers, for a grown-up to make holes in the cups",
+     "item": "a nail and a hammer or pliers, for a grown-up to make holes in the cups (or the point of a pair of scissors)",
      "qty": 1
     },
     {
@@ -1042,7 +1042,7 @@
      "qty": 1
     },
     {
-     "item": "dry pot soil, rubbed through a tea strainer to make it fine",
+     "item": "dry garden or red soil from outside (not coco-peat potting mix, which repels water), crumbled and rubbed through a tea strainer to make it fine",
      "qty": 1
     },
     {
@@ -1054,11 +1054,11 @@
      "qty": 1
     },
     {
-     "item": "a few drops of food colour or blue ink, a ruler, a marker pen, a clock",
+     "item": "a few drops of food colour or blue ink (optional, it only makes the wet line easier to see), a ruler, a marker pen, a clock or phone timer",
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes in the cups, because the nail is sharp. Rub the dry soil gently and do not breathe in the dust. Wash hands after touching soil.",
+   "safety": "A grown-up makes the holes in the cups, because the nail is sharp. Rub the dry soil gently and do not breathe in the dust. Wash hands after touching soil. Do the hole-making over a towel, and keep the nail and scissors away from small children.",
    "schedule": [
     {
      "day": 1,
@@ -1089,7 +1089,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Many children think that big gaps let water move best. The test will show that very big gaps are not best for climbing.",
+     "parent": "Do not correct the guess. Many children think that big gaps let water move best. The test will show that very big gaps are not best for climbing. One child with a parent: do every cup yourselves. Two to four children: each child makes and fills one cup (A, B or C, and a fourth child can repeat the sand), and all stand together in one tray. One child keeps the clock, one marks the lines, one writes the table.",
      "context": "This is the first step of the Water Climb test. You look at three dry materials and guess before you test."
     },
     {
@@ -1127,7 +1127,7 @@
      "do": "Pour 1 centimetre of coloured water into the tray. Stand all three cups in it at the same moment. Start the clock.",
      "say": "All three stand in the water together. Now watch the sides of the cups. Dark means wet.",
      "kid": "Put all three in the water at once. Start the clock.",
-     "parent": "Stand the cups in the tray at the same moment. The water in the tray will go down as the cups drink it. Top it up to 1 centimetre when you check.",
+     "parent": "Stand the cups in the tray at the same moment. The water in the tray will go down as the cups drink it. Top it up to 1 centimetre when you check, and add the same water to the tray before you leave it overnight.",
      "context": "In this step the three cups go into the water and the timing starts."
     },
     {
@@ -1146,7 +1146,7 @@
        ]
       }
      ],
-     "parent": "Measure from the water level in the tray. Often the gravel wet line stays at about 1 centimetre. The sand rises quickly, often to the top within an hour. The fine soil is slower to start, because it is dusty and takes time to wet. If the fine soil stays dry for a long time, write that down: it is a result too.",
+     "parent": "Measure from the water level in the tray. Often the gravel wet line stays at about 1 to 2 centimetres. The sand rises quickly at first, often several centimetres in the first hour, and may reach the top by the next morning. The fine soil is slower to start, because it is dusty and takes time to wet. If the fine soil stays dry for a long time, write that down: it is a result too. If the soil floats a dry crust on top and nothing climbs, it may be potting mix with coco-peat that repels water: try plain garden soil. Times will be a little different in hot and in damp weather, so compare the three cups with each other, not with the example.",
      "wait": "Leave the cups standing until the next morning."
     },
     {
@@ -1155,7 +1155,7 @@
      "do": "The next morning, measure the wet line in each cup. Write the heights in the last row of the table.",
      "say": "It is the next day. Has the wet line in the fine soil caught up with the sand?",
      "kid": "Measure the wet lines again. Has the fine soil caught up?",
-     "parent": "By the next morning the fine soil has usually climbed much further than it had after an hour. If a wet line has reached the top of the cup, write: to the top."
+     "parent": "By the next morning the fine soil has often climbed much further than it had after an hour, perhaps to the top. Top up the tray water if it has gone dry overnight. If a wet line has reached the top of the cup, write: to the top."
     },
     {
      "id": "s7",
@@ -1192,32 +1192,32 @@
      [
       "5 minutes",
       "1",
-      "3",
+      "2",
       "0"
      ],
      [
       "15 minutes",
       "1",
-      "6",
+      "3",
       "1"
      ],
      [
       "30 minutes",
       "1",
-      "9",
-      "2"
+      "5",
+      "1"
      ],
      [
       "60 minutes",
       "1",
-      "to the top",
-      "4"
+      "7",
+      "2"
      ],
      [
       "Next morning",
       "1",
       "to the top",
-      "to the top"
+      "7"
      ]
     ]
    },
@@ -1265,15 +1265,15 @@
      "qty": 1
     },
     {
-     "item": "40 moong seeds, soaked in plain water for 6 hours before you begin",
+     "item": "40 whole green moong seeds from the kirana, from one packet. Do not soak them first: the test is how salty water slows a dry seed taking in water. Not split moong dal",
      "qty": 1
     },
     {
-     "item": "table salt and a teaspoon",
+     "item": "ordinary table salt (any kind) and a teaspoon",
      "qty": 1
     },
     {
-     "item": "a measuring cup or a medicine cup marked in millilitres, and a tablespoon",
+     "item": "a medicine cup or measuring cup marked in millilitres, and a tablespoon (about 15 millilitres)",
      "qty": 1
     },
     {
@@ -1285,17 +1285,17 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat the soaked seeds, and do not taste the salty water. Wash your hands after touching the seeds. Keep the salty water away from your eyes and away from small children.",
+   "safety": "Do not eat the soaked seeds, and do not taste the salty water. Wash your hands after touching the seeds. Keep the salty water away from your eyes and away from small children. Even though moong is food, do not eat these seeds, because they sit in salty water on tissue for days.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Make four salt waters. Put 10 seeds on wet tissue in each saucer."
+     "what": "Make four salt waters. Put 10 dry seeds on wet tissue in each saucer."
     },
     {
      "day": 2,
      "mins": 3,
-     "what": "Count the sprouted seeds. Add a tablespoon of the right liquid to each saucer."
+     "what": "Count the sprouted seeds (many may not have sprouted yet). Add a tablespoon of the right liquid to each saucer."
     },
     {
      "day": 3,
@@ -1331,7 +1331,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Sea water has about 6 level teaspoons of salt in a litre, which is a little more than the third saucer holds in the same amount of water.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Sea water has about 6 level teaspoons of salt in a litre, which is a little more than saucer C holds in the same amount of water (about 5 teaspoons in a litre).",
      "context": "This is the first step of the Salty Seeds test. You guess how salt changes sprouting before you test."
     },
     {
@@ -1340,7 +1340,7 @@
      "do": "Label the saucers A, B, C and D. Put 100 millilitres of water in four cups. Leave A plain. Stir one eighth of a level teaspoon of salt into B. Stir half a teaspoon into C. Stir one level teaspoon into D. Stir until the salt is gone.",
      "say": "A is plain water. B has a pinch of salt. C has half a teaspoon. D has a whole teaspoon. C is nearly as salty as the sea.",
      "kid": "Make four waters. A plain, B a pinch, C half a spoon, D a spoon.",
-     "parent": "Use a level spoon, not a heaped one. One eighth of a teaspoon is a small pinch. Keep the waters apart and label each cup so they do not get mixed.",
+     "parent": "Use a level spoon, not a heaped one. One eighth of a teaspoon is a small pinch. Keep the waters apart and label each cup so they do not get mixed. One child with a parent: make all four. Two to four children: each child makes and looks after one saucer, then you put the counts in one table. If you have only one child, the parent counts the seeds too, so the counting is checked.",
      "check": {
       "t": "mcq",
       "q": "Why is one saucer given plain water with no salt?",
@@ -1357,10 +1357,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Lay three layers of tissue in each saucer. Pour 4 tablespoons of the right water into each saucer. Put 10 soaked seeds on each tissue, with space between them. Put a label on each saucer.",
+     "do": "Lay three layers of tissue in each saucer. Pour 3 tablespoons of the right water into each saucer. Put 10 soaked seeds on each tissue, with space between them. Put a label on each saucer.",
      "say": "Pour the right water into the right saucer. The tissue should be wet, with no puddle. Space the seeds apart, so you can count them.",
      "kid": "Wet the tissue with the right water. Put 10 seeds on each.",
-     "parent": "The tissue should be damp, not floating. Put the saucers in a warm place away from direct sun. A kitchen shelf is good."
+     "parent": "The tissue should be damp, not floating. Put the saucers in a warm place away from direct sun. A kitchen shelf is good. In a very hot or dry room the tissue dries fast: cover each saucer loosely with an upturned plate and check each morning. In a cool room (below about 20 degrees) moong is slow, so count one day later. Moong in plain water should show a white root on most seeds by day 2 or 3. If fewer than 7 of 10 seeds in saucer A sprout, the seeds are old: start again with a fresh packet."
     },
     {
      "id": "s4",
@@ -1378,7 +1378,7 @@
        ]
       }
      ],
-     "parent": "Often the plain saucer has most seeds sprouted by day 2. The pinch saucer may be a little behind. The half-spoon saucer may have few or none. If all four look the same, write that down, and try fresh seeds. That is a real result too."
+     "parent": "Often the plain saucer has most seeds sprouted by day 2 or 3. The pinch saucer may be a little behind. The half-spoon saucer is usually slow and may have few or none, and the one-spoon saucer none at all. The exact numbers depend on the seeds. If all four look the same, write that down, and try fresh seeds. That is a real result too."
     },
     {
      "id": "s5",
@@ -1386,7 +1386,7 @@
      "do": "On days 2 and 3, count the sprouted seeds again. Top up the right water each day. On day 4, take the seeds that have not sprouted out of the salty saucers. Rinse them in plain water. Put them on plain wet tissue.",
      "say": "Now a second question. Salt held the seeds back. Did it kill them? Rinse them in plain water and wait two more days.",
      "kid": "Rinse the seeds that have not sprouted. Put them on plain wet tissue.",
-     "parent": "Salt can hold seeds back or hurt them, depending on how salty it is. After a rinse, a few seeds from the middle saucers often sprout. Seeds from the saltiest saucer often do not. Write down whatever happens.",
+     "parent": "Salt can hold seeds back or hurt them, depending on how salty it is. After a rinse, a few seeds from the middle saucers may sprout. Seeds from the saltiest saucer often do not, or do so only slowly. Count only roots that are at least 2 millimetres long. The salty seeds may smell or grow mould by day 4: throw them away if they do, and write that down. Write down whatever happens.",
      "wait": "Wait two more days, then count the rinsed seeds."
     },
     {
@@ -1433,7 +1433,7 @@
      [
       "C",
       "half a teaspoon",
-      "2"
+      "1"
      ],
      [
       "D",
@@ -1482,7 +1482,7 @@
      "qty": 3
     },
     {
-     "item": "pot soil, enough to fill each cup to 6 centimetres, the same soil for all three",
+     "item": "garden soil or red soil, enough to fill each cup to 6 centimetres, the same soil for all three, dry and crumbled (not coco-peat potting mix, which repels water and looks pale)",
      "qty": 1
     },
     {
@@ -1551,7 +1551,7 @@
      "do": "Fill each cup with soil to 6 centimetres. Pour 4 tablespoons of water slowly on each. Wait 10 minutes. Then lay 2 centimetres of dry leaves on one cup. Use the fork to loosen the top 2 centimetres of soil in another.",
      "say": "Same soil, same water, same depth in each cup. One is bare, one is covered, and one has loose soil on top.",
      "kid": "Fill the cups. Add water. Cover one. Loosen one.",
-     "parent": "Label the cups Bare, Covered and Loosened. The soil next to the clear wall will look dark when it is wet and pale when it is dry. If you have a kitchen scale, weigh each cup now and again each morning. The lighter the cup, the more water has gone.",
+     "parent": "Label the cups Bare, Covered and Loosened. The soil next to the clear wall will look dark when it is wet and pale when it is dry. If you have a kitchen scale, weigh each cup now and again each morning. The lighter the cup, the more water has gone. One child with a parent: one child sets all three cups. Two to four children: each child fills one cup, or each makes a full set of three and you compare sets. One child pours, one measures, one writes.",
      "check": {
       "t": "mcq",
       "q": "Why do we pour the same amount of water on each cup?",
@@ -1589,7 +1589,7 @@
        ]
       }
      ],
-     "parent": "After a day or two in strong sun, the bare cup usually has a pale layer of a centimetre or more. The covered cup is usually still dark almost to the top. The loosened cup may be like the bare cup or may be a bit different, because the loose layer dries first. If the cups are alike, write that down: it is a result too. A damp, cloudy week will make all the cups slow to dry.",
+     "parent": "After a day or two in strong sun, the bare cup usually has a pale layer of a centimetre or more. The covered cup is usually still dark almost to the top. The loosened cup may be like the bare cup or may be a bit different, because the loose layer dries first. If the cups are alike, write that down: it is a result too. A damp, cloudy or monsoon week will make all the cups slow to dry: then measure for two more days, or stand the cups in a sunny, breezy place. If you have a scale, the weight lost each day is a second, clearer measurement.",
      "wait": "Measure again tomorrow, and again on day 4."
     },
     {
@@ -1616,7 +1616,7 @@
    "context": "In this experiment you compare three cups of damp soil in the Sun, to see how a cover of leaves changes how fast the soil dries.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results",
+    "title": "Made-up example results (day 2, 3 and 4)",
     "cols": [
      "Day",
      "Bare (mm)",
@@ -1625,19 +1625,19 @@
     ],
     "rows": [
      [
-      "1",
+      "2",
       "6",
       "0",
       "8"
      ],
      [
-      "2",
+      "3",
       "12",
       "2",
       "14"
      ],
      [
-      "3",
+      "4",
       "17",
       "3",
       "18"
@@ -1657,7 +1657,8 @@
      "art": "The three cups on a sunny windowsill, a pale dry layer at the top of the bare cup and dark soil all the way up in the covered cup.",
      "caption": "3. Put the cups in the sun and look each day."
     }
-   ]
+   ],
+   "safety": "Wash hands after touching soil and leaves. Keep the cups where small children or pets will not knock them over."
   }
  ],
  "activities": [
@@ -1672,7 +1673,7 @@
      "qty": 1
     },
     {
-     "item": "a spoon of pot soil",
+     "item": "a spoon of garden soil (any soil from outside, with the stones picked out)",
      "qty": 1
     },
     {
@@ -1700,7 +1701,7 @@
      "what": "Wet three soils to dough. Make a ball and a ribbon from each. Measure the ribbons."
     }
    ],
-   "record": "A table with three rows: sand, pot soil and clay. For each, write whether it made a ball, and how long the ribbon was.",
+   "record": "A table with three rows: sand, garden soil and clay. For each, write whether it made a ball, and how long the ribbon was.",
    "flow": [
     {
      "id": "s1",
@@ -1718,7 +1719,7 @@
        ]
       }
      ],
-     "parent": "Do not say which will hold together. Let the hands find out. If the clay is already a paste, use it as it is.",
+     "parent": "Do not say which will hold together. Let the hands find out. If the clay is already a paste, use it as it is. One child with a parent: do all three yourselves, and let the parent do one too to compare hands. Two to four children: each child makes a set of three and you compare ribbon lengths on one table. The cup of water is shared; wash hands in a bowl, not the sink, because clay can block drains.",
      "context": "This is the first step of the Squeeze and Ribbon test. You wet three soils to find out how each one feels."
     },
     {
@@ -1755,7 +1756,7 @@
      "do": "Write what you found in the table. Ask: which of these soils would hold the most water, and which would drain the fastest?",
      "say": "Which soil would hold the most water in a pot? Which would let it run through? How can you tell by feel?",
      "kid": "Which soil holds water? Which drains?",
-     "parent": "Clay holds the most water and drains slowest. Sand drains fastest. The pot soil is in between."
+     "parent": "Clay holds the most water and drains slowest. Sand drains fastest. The garden soil is in between."
     }
    ],
    "context": "In this activity you wet three soils to dough, then squeeze them into balls and ribbons. The feel of each soil tells you how much sand, silt and clay it has.",
@@ -1850,7 +1851,7 @@
      "do": "Plan eight seasons for one field with the cards. Put one crop in each season. Use each pulse at least twice. Never put the same crop in two seasons in a row.",
      "say": "Plan a field for eight seasons. A cereal, then a pulse, then a cereal again. How will you keep the soil from getting tired?",
      "kid": "Plan eight seasons. Mix cereals and pulses.",
-     "parent": "Many answers work. One good plan is rice, black gram, rice, groundnut, ragi, red gram, rice, moong. Ask your child why the pulses are placed where they are.",
+     "parent": "Many answers work. One good plan is rice, black gram, rice, groundnut, ragi, red gram, rice, moong. Ask your child why the pulses are placed where they are. With two to four children, each plans a field alone, then swaps with a neighbour, who checks the two rules and finds the first season that might fail.",
      "think": "What would happen to the soil after eight seasons of only rice?"
     }
    ],
@@ -1873,7 +1874,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a whole legume plant with roots, such as groundnut, cowpea, moong or a pea plant. Fresh groundnut plants with roots are sold in some vegetable markets after harvest. Ask the seller to keep the roots.",
+     "item": "a whole legume plant with roots: a groundnut plant (sold in some vegetable markets after harvest, ask the seller to keep the roots), or a chana, pea or cowpea plant dug up with a spade from a garden or field (ask a farmer or neighbour), or a moong plant you grew in garden soil for 4 to 5 weeks. Dig the whole root with soil around it, do not pull",
      "qty": 1
     },
     {
@@ -1885,7 +1886,7 @@
      "qty": 1
     },
     {
-     "item": "a small sharp knife, for a grown-up to use",
+     "item": "a small sharp knife or a new blade, for a grown-up to use (or just squeeze a nodule between two fingernails)",
      "qty": 1
     },
     {
@@ -1909,7 +1910,8 @@
      "do": "Hold the plant over the bowl. Wash the soil off the roots very gently, by dipping them and swirling them in water. Do not pull.",
      "say": "Wash the roots gently. Dip, swirl, and look. Do not pull, because the nodules can break off.",
      "kid": "Dip the roots in water. Wash gently. Do not pull.",
-     "context": "This is a hunt for root nodules on a bean plant. You wash the soil off the roots first."
+     "context": "This is a hunt for root nodules on a bean plant. You wash the soil off the roots first.",
+     "parent": "Soak the soil clump in water for a few minutes first, so the soil falls off by itself. Nodules rub off easily, so swirl, do not scrub. With two to four children, share one plant: each child counts the nodules on a different root and everyone adds up."
     },
     {
      "id": "s2",
@@ -1927,7 +1929,7 @@
        ]
       }
      ],
-     "parent": "Nodules on groundnut are small, round and a little pale or brown on the outside, from about 1 to 5 millimetres across. If you find none, the plant may have grown in soil without the right bacteria, or the roots may have been trimmed. That is real, and worth writing down."
+     "parent": "Nodules on groundnut are small, round and a little pale or brown on the outside, from about 1 to 5 millimetres across. If you find none, the plant may have grown in soil without the right bacteria, or the roots may have been trimmed. That is real, and worth writing down. Nodules rub off with a finger; swollen lumps that are part of the root and will not rub off are not nodules (they may be galls made by tiny worms). A plant from a market after harvest is at the end of its life, so its nodules may be few and old."
     },
     {
      "id": "s3",
@@ -1936,7 +1938,7 @@
      "say": "A grown-up cuts a nodule in half. What colour is the inside? Pink means the nodule is working.",
      "kid": "A grown-up cuts a nodule open. What colour is the inside?",
      "adult": true,
-     "parent": "A pink or reddish inside means the nodule is working and fixing nitrogen. A white or green inside means it has stopped. The pink comes from a substance that holds oxygen back from the nitrogen-fixing tool. Dried nodules may look brown.",
+     "parent": "A pink or reddish inside means the nodule is working and fixing nitrogen. A white or green inside means it has stopped. The pink comes from a substance that holds oxygen back from the nitrogen-fixing tool. Dried or old nodules look brown or green inside. On a plant sold after harvest this is common, so do not be surprised if none is pink: write down what you see, and try a younger plant (chana or moong at flowering time) if you can. Pink is clearest in nodules cut from a living, flowering plant.",
      "check": {
       "t": "mcq",
       "q": "A cut nodule is bright pink inside. What does this tell you?",
@@ -2024,7 +2026,7 @@
      "do": "Write what the field needs. Choose from these: grow a pulse, add compost or manure, add urea, leave the field fallow, do nothing. Choose two things and say why.",
      "say": "Which two things would you do for this field? Why? What does each one fix?",
      "kid": "Choose two things for the field. Say why.",
-     "parent": "Good answers: grow a pulse to add nitrogen and add compost to raise the humus. Adding some urea is also reasonable for a quick boost of nitrogen. Leaving the field fallow does not add nitrogen. Adding nothing is not wise, because nitrogen and humus are both low.",
+     "parent": "Good answers: grow a pulse to add nitrogen and add compost to raise the humus. Adding some urea is also reasonable for a quick boost of nitrogen. Leaving the field fallow does not add nitrogen. Adding nothing is not wise, because nitrogen and humus are both low. With two to four children, each picks two things alone, then the group argues for the best pair.",
      "check": {
       "t": "mcq",
       "q": "The card says nitrogen is low and humus is low. Which two things help most?",
@@ -2066,7 +2068,7 @@
    "days": 2,
    "materials": [
     {
-     "item": "two small plates",
+     "item": "two small plates (plastic or steel, not your best crockery)",
      "qty": 1
     },
     {
@@ -2086,7 +2088,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wash hands after touching the clay. Do not put clay in your mouth.",
+   "safety": "Wash hands after touching the clay, in a bowl, not the sink, because clay can block drains. Do not put clay in your mouth.",
    "schedule": [
     {
      "day": 1,
@@ -2134,7 +2136,7 @@
      "do": "Look at both plates. Measure the widest crack in each with a ruler. Draw what you see.",
      "say": "Look at the plates. Which one cracked? How wide is the widest crack?",
      "kid": "Look at both plates. Which one cracked?",
-     "parent": "The all-clay plate usually cracks into pieces with wide gaps. The sandy plate usually cracks much less, or not at all. If both crack alike, write that down. The cracking is stronger when the paste is thick and dries fast.",
+     "parent": "The all-clay plate usually cracks into pieces with wide gaps. The sandy plate usually cracks much less, or not at all. If both crack alike, write that down. The cracking is stronger when the paste is thick and dries fast. Multani mitti paste in strong sun usually cracks in a few hours. In a damp or cloudy spell it can take two or three days: leave it longer and keep the plates in the same place. One child with a parent: make the two plates. Two to four children: each child makes a plate with a different mix (all clay, three clay to one sand, one clay to one sand, one clay to three sand) and you line the plates up from most to least cracked.",
      "check": {
       "t": "mcq",
       "q": "The all-clay plate cracked and the sandy plate hardly did. What is the best reason?",
@@ -2168,11 +2170,11 @@
    "days": 1,
    "materials": [
     {
-     "item": "a few leaves of red cabbage",
+     "item": "a few leaves of red cabbage (sold in bigger vegetable shops and supermarkets; no red cabbage? see the note in step 1)",
      "qty": 1
     },
     {
-     "item": "hot water, in a heatproof bowl",
+     "item": "hot water from a kettle or pan, in a heatproof bowl",
      "qty": 1
     },
     {
@@ -2180,11 +2182,11 @@
      "qty": 1
     },
     {
-     "item": "white vinegar, baking soda",
+     "item": "white vinegar (or lemon juice), baking soda",
      "qty": 1
     },
     {
-     "item": "two spoons of pot soil and two spoons of chalk powder or crushed school chalk",
+     "item": "two spoons of garden soil and a pinch of wood ash from a chulha (or two spoons of crushed school chalk)",
      "qty": 1
     },
     {
@@ -2192,15 +2194,15 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up heats the water and pours it. The water is hot. Do not taste the cabbage water, the vinegar, the baking soda or the chalk, and do not breathe in the chalk dust. Keep the vinegar and baking soda away from your eyes. Wash hands afterwards.",
+   "safety": "A grown-up heats the water and pours it. The water is hot. Do not taste the cabbage water, the vinegar, the baking soda, the ash or the chalk, and do not breathe in the ash or chalk dust. Keep the vinegar, baking soda and ash away from eyes. Wash hands afterwards.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Make cabbage water. Test vinegar and baking soda. Then test pot soil and chalk soil."
+     "what": "Make cabbage water. Test vinegar and baking soda. Then test soil water and ash water."
     }
    ],
-   "record": "A table of five glasses with the colour of each: plain, vinegar, baking soda, pot soil water and chalk water.",
+   "record": "A table of five glasses with the colour of each: plain, vinegar, baking soda, soil water and ash (or chalk) water.",
    "flow": [
     {
      "id": "s1",
@@ -2209,7 +2211,7 @@
      "say": "Soak the cabbage leaves in hot water. The water turns purple. This is our test liquid.",
      "kid": "A grown-up soaks cabbage in hot water. It turns purple.",
      "adult": true,
-     "parent": "Let the water cool before children touch it. The liquid turns pink with acid and blue-green with alkali.",
+     "parent": "Let the water cool before children touch it. The liquid turns pink with acid and blue-green with alkali. No red cabbage? Stir a teaspoon of turmeric powder into half a glass of water: it stays yellow with vinegar and turns red-brown with baking soda. The colours are less clear than cabbage, but it works. With two to four children, each child tests one glass and says the colour before the others look.",
      "context": "This is the first step of the Cabbage Water Test. You make a purple liquid that changes colour with acid and alkali."
     },
     {
@@ -2233,20 +2235,20 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Stir a spoon of pot soil into a glass of water. Stir a spoon of chalk powder into another glass of water. Let both settle for 5 minutes. Pour the clear water on top into two fresh glasses of purple liquid. Compare the colours.",
-     "say": "Which colour does the soil water make? Which does the chalk water make? Compare them with your guide.",
-     "kid": "Test the soil water and the chalk water. Compare the colours.",
-     "parent": "Pot soil water usually stays close to purple. Chalk water usually turns it blue or green, because chalk is alkaline. A soil that fizzes with vinegar has chalk in it. If your soil water changes colour a little, say which side it leans towards.",
+     "do": "Stir a spoon of garden soil into a glass of water. Stir a spoon of wood ash (or chalk powder) into another glass of water. Let both settle for 5 minutes. Pour the clear water on top into two fresh glasses of purple liquid. Compare the colours.",
+     "say": "Which colour does the soil water make? Which does the ash or chalk water make? Compare them with your guide.",
+     "kid": "Test the soil water and the ash water. Compare the colours.",
+     "parent": "Garden soil water usually stays close to purple, and may lean a little pink or blue. Ash water turns the liquid green or blue-green, because wood ash is alkaline. Some school chalk is gypsum, which is nearly neutral, so chalk water may show little change: if so, say so, and use ash. A soil that fizzes with vinegar has chalk in it. If your soil water changes colour a little, say which side it leans towards.",
      "check": {
       "t": "mcq",
-      "q": "The chalk water turns the purple liquid blue-green. What does this tell you?",
+      "q": "The ash water turns the purple liquid blue-green. What does this tell you?",
       "options": [
-       "Chalk is alkaline",
-       "Chalk is acidic",
-       "Chalk has no effect"
+       "Ash is alkaline",
+       "Ash is acidic",
+       "Ash has no effect"
       ],
       "a": 0,
-      "why": "Blue-green is the colour the purple liquid turns in an alkaline liquid, like baking soda. Many chalky soils are alkaline too."
+      "why": "Blue-green is the colour the purple liquid turns in an alkaline liquid, like baking soda. Many chalky soils and ash are alkaline too."
      },
      "context": "In this step you test soil water and chalk water with the purple liquid."
     }
@@ -2276,7 +2278,7 @@
    "mins": 60,
    "materials": [
     {
-     "item": "two pots of the same size, with holes in the bottom",
+     "item": "two pots of the same size, about 20 centimetres wide, with holes in the bottom (or two ice-cream tubs with holes)",
      "qty": 1
     },
     {
@@ -2284,11 +2286,7 @@
      "qty": 1
     },
     {
-     "item": "about 12 moong seeds",
-     "qty": 1
-    },
-    {
-     "item": "about 20 methi seeds",
+     "item": "about 12 whole green moong seeds and about 20 methi seeds, from the kirana (food seeds, not coloured treated packet seeds)",
      "qty": 1
     },
     {
@@ -2345,13 +2343,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Use soil that has had beans or pulses grown in it, so the right bacteria are in the soil. Poor soil makes any difference easier to see.",
+     "parent": "Do not correct the guess. Use soil that has had beans or pulses grown in it, so the right bacteria are in the soil. Poor soil makes any difference easier to see. One child with a parent: one pair of pots. Two to four children: each child grows their own pair, and you pool the results at the end. If most pairs go the same way the result is more believable.",
      "context": "This is the first step of Bean Before Methi, a six-week project. You grow moong in one pot, then methi in both, to see if the moong changes the soil."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Water both pots the same amount every second day. On day 21, pull up one moong plant from pot A. Wash the roots in a bowl. Look for nodules. Cut the rest of the moong at soil level and leave the roots in the pot.",
+     "do": "Water both pots the same amount every day or two, so the soil stays slightly damp (every day in hot weather). Pull weeds out of both pots. On day 21, pull up one moong plant from pot A. Wash the roots in a bowl. Look for nodules. Cut the rest of the moong at soil level and leave the roots in the pot.",
      "say": "After three weeks, pull up one moong plant. Look for round bumps on her roots. Cut the others at the soil and leave the roots in.",
      "kid": "Pull up one moong plant. Look for round bumps. Cut the rest at the soil.",
      "ask": [
@@ -2373,7 +2371,7 @@
      "do": "On day 22, sow 10 methi seeds in each pot, about 1 centimetre deep. Water both pots the same amount. Keep them side by side in the sun.",
      "say": "Now sow methi in both pots. Same seeds, same water, same sun. Only the pot's history is different.",
      "kid": "Sow 10 methi seeds in each pot. Water the same.",
-     "wait": "Water both pots every second day. Look again on day 36."
+     "wait": "Water both pots every day or two. Look again on day 36."
     },
     {
      "id": "s4",
@@ -2381,8 +2379,8 @@
      "do": "On day 36, count the seedlings in each pot. Measure the tallest seedling in each. Look at the colour of the leaves. Write all of this in the table.",
      "say": "Count the methi in each pot. Measure the tallest. Which leaves are greener?",
      "kid": "Count the methi. Measure the tallest. Look at the colour.",
-     "parent": "If the pots look alike, write that down: it is a real result. The effect of one bean crop can be small. Green leaves mean more nitrogen. Pale yellow-green leaves often mean too little.",
-     "wait": "Water both pots every second day. Look again on day 43."
+     "parent": "If the pots look alike, write that down: it is a real result. The effect of one bean crop can be small. Green leaves mean more nitrogen. Pale yellow-green leaves often mean too little. The pots may differ by only a little, or the bare pot may even look better. That can happen if the moong used up the nitrogen before it was cut. Write down what you see.",
+     "wait": "Water both pots every day or two. Look again on day 43."
     },
     {
      "id": "s5",
@@ -2418,7 +2416,8 @@
      "art": "Two pots with methi seedlings, deep green in one and paler in the other, and a ruler beside them.",
      "caption": "3. Grow methi in both pots. Compare."
     }
-   ]
+   ],
+   "safety": "Wash hands after touching soil. Keep seeds and scissors away from small children, and do not eat the seeds or the plants from these pots."
   }
  ],
  "challenges": [
@@ -3787,6 +3786,16 @@
    "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
    "used_in": [
     "e3"
+   ]
+  },
+  {
+   "id": "b-cabbage",
+   "item": "Half a red cabbage (about Rs 30 to 60)",
+   "kind": "material",
+   "why": "For the Cabbage Water Test. Sold in bigger vegetable shops and supermarkets, not every kirana. No red cabbage? Turmeric in water also changes colour with baking soda.",
+   "url": "https://www.amazon.in/s?k=red+cabbage",
+   "used_in": [
+    "a6"
    ]
   }
  ],

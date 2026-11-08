@@ -253,7 +253,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 
 ## Games
 ### g1 · What Does the Word Mean to Me? (20 min)
-- **rules:** Cut out the 24 word cards. Shuffle them and stack them face down. Every player has a small piece of paper and a pencil.; One player turns up the top card and reads the word aloud. Nobody talks after that.; Everyone draws the very first thing that comes into their head when they hear the word. You have 20 seconds. A quick sketch is enough.; Hold the drawings up together. As a team, sort the drawings into piles of the same kind of thing.; The team scores 1 point for each different pile. The aim is to find as many different kinds as you can, so a surprise is a good thing.; Each player says in one sentence why that drawing came to mind. Then the player whose drawing is the only one of its kind gets a star.; Play 12 cards. The team wins when it has 40 points or more. If you reach less, play again with new cards and try to beat your score.; Playing alone, draw each word now. Draw it again tomorrow without looking at the first drawing. Then compare the two.
+- **rules:** Cut out the 24 word cards. Shuffle them and stack them face down. Every player has a small piece of paper and a pencil.; One player turns up the top card and reads the word aloud. Nobody talks after that.; Everyone draws the very first thing that comes into their head when they hear the word. You have 20 seconds. A quick sketch is enough.; Hold the drawings up together. As a team, sort the drawings into piles of the same kind of thing.; The team scores 1 point for each different pile. The aim is to find as many different kinds as you can, so a surprise is a good thing.; Each player says in one sentence why that drawing came to mind. Then the player whose drawing is the only one of its kind gets a star.; Play 12 cards. The team wins when it has 9 points for every player or more (for example 18 points for 2 players, 36 for 4). If you reach less, play again with new cards and try to beat your score.; Playing alone, draw each word now. Draw it again tomorrow without looking at the first drawing. Then compare the two.
 - **Printable cards: 24 word cards:** HOME; BIRD; SWEET; BIG; SCHOOL; RAIN; FRUIT; ROUND; ANIMAL; FRIEND; FOOD; TREE; MUSIC; FESTIVAL; COLD; FAST; SOFT; GAME; WATER; LIGHT; SHOP; HELP; TRAVEL; SAFE
 - **Printable score sheet: Team score sheet:** Word; Number of different kinds of drawing; The most surprising drawing
 - **s1 (3 min)**  
@@ -333,7 +333,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Parent does:* Test the three other people in the same way: one minute just watching, and one minute trying to hold one reading. Half of the people do the trying test first. Write every number in the table.  
   *Parent says:* Now let us test other people. Same drawing, same words, same one minute. Let us see if everyone flips the same number of times.  
   *Child mode:* Test three more people. Same words, same minute. Write their flips.
-  - Note: Use the same words every time. Do not show anyone how it flips. Some people will say it never flips, and that is a result. Ask them to try the eye-drift tip once.
+  - Note: Use the same words every time. Do not show anyone how it flips. Some people will say it never flips, and that is a result. Ask them to try the eye-drift tip once. With two to four children, pair up: one child looks while another tallies and holds the stopwatch, then swap, so every child is tested. If nobody sees a flip in two minutes, that person is a result too: try the eye-drift tip, or make the cube bigger with thicker lines. About 3 to 20 flips a minute is typical, and it varies a lot between people.
 - **s6 (4 min)**  
   *Parent does:* Compare the numbers. Ask for claim, evidence and reasoning. Then ask the check question.  
   *Parent says:* Do all people flip the same amount? Does trying change it? What do you think is happening, if the lines never change?  
@@ -357,7 +357,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Parent does:* Practise with no watcher. One person holds the card flat over the tray for about one second and lifts it away for about three seconds. The other person puts the red cup on the tray or takes it away while the card is down. Practise until it is smooth and silent.  
   *Parent says:* Cover the tray, count one, and lift the card. While the card is down, I will take the cup away or put it back. Then we count one, two, three, and cover again.  
   *Child mode:* Cover the tray for one second. Lift the card. Count to three. Cover again.
-  - Note: The change must happen only while the card is down, and silently. Keep the other things still. A smooth rhythm is the key. If the card moves slowly, the watcher can see the cup move.
+  - Note: The change must happen only while the card is down, and silently. Keep the other things still. A smooth rhythm is the key. If the card moves slowly, the watcher can see the cup move. One person can do both jobs with one hand holding the card over the tray and the other hand reaching underneath, so a child and a parent can work alone. With 2 to 4 children, one holds the card, one changes the tray, one is the watcher and one counts and writes; rotate the jobs.
 - **s3 (4 min)**  
   *Parent does:* Bring in one watcher and sit them at the table. First, show the plain-sight case: take the red cup away slowly while the watcher watches the tray with no card. Ask what changed. Write yes or no for noticing at once.  
   *Parent says:* Watch the tray, please. I will take something away now. What changed? That was easy. Now, with the card, we will see if it is still easy.  
@@ -367,7 +367,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Parent does:* Test the watcher with the blink. Test 1: the red cup comes and goes at each blink. Count the blinks until the watcher says what changed. Stop at 15. Move the other things to new places. Test 2: the button at the edge comes and goes at each blink. Count the blinks. Test two more watchers, and swap which test goes first.  
   *Parent says:* Now we will use the card. After each blink, tell me if you see a change and what it is. I will count the blinks. Ready?  
   *Child mode:* Watch the tray. After each blink, tell what changed. Count the blinks.
-  - Note: Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once.
+  - Note: Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once. If every watcher sees the change on the very first blink, the scene is too easy: add four or five more things to the tray, or shorten the time the tray is in view to about two seconds. If nobody sees it by blink 15, stop and say so; that is a real result and it matches how hard this is. Typical results are a few blinks for the big red cup and more for the small button, but yours may differ.
 - **s5 (4 min)**  
   *Parent does:* Add up the blinks for the big change and the small change. Draw two bars. Ask for claim, evidence and reasoning. Then ask the check question.  
   *Parent says:* Which change took more blinks? Was the plain-sight change easy? What was different when the card was down?  
@@ -378,7 +378,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **predict:** Before you start, guess. How strange will a face look with its eyes and mouth turned upside down, when it is upright, and when it is upside down? Why do you think so?
 - **fair test:** Every rater sees the same four cards for exactly three seconds each, in the same light, and answers the same question: how strange does the face look, from 0 for normal to 5 for very strange. The two upside-down cards are always shown first, so that no rater has seen the odd face upright before rating the upside-down cards. This order is not perfect, but it keeps the odd face from being given away. Only the card changes.
 - **safety:** A grown-up does the cutting with the scissors. Ask the person in the photo before you use it, and do not post the cards or the photos online.
-- **record:** Fill in the table. Work out the average score of the five raters for each of the four cards. Draw four bars.
+- **record:** Fill in the table. Work out the average score of the raters for each of the four cards. Draw four bars.
 - **results table:** Rater | Normal face, upside down (0 to 5) | Changed face, upside down (0 to 5) | Normal face, upright (0 to 5) | Changed face, upright (0 to 5)
 - **s1 (3 min)**  
   *Parent does:* Show your child a photo of a face. Explain that you will turn the eyes and the mouth upside down inside the face. Ask for a guess and a reason. Write it down.  
@@ -387,15 +387,15 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   - Ask: Why do you think a face might look strange upright but not upside down? (good: Because I am used to seeing faces upright.; Because upside down I look at the parts, not the whole face.; It will look strange both ways, because the eyes are wrong.)
   - Note: Do not correct the guess. Most children guess that the changed face will look strange in both positions, and that is a good guess to test.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. Stick one photo on a card. This is the normal face. 2. On the second photo, a grown-up cuts out a strip across both eyes and eyebrows. 3. The grown-up cuts out a patch across the mouth. 4. Turn both pieces round, so they are upside down, and stick them back in the same holes. 5. Stick this changed photo on the second card.  
+  *Parent does:* 1. Stick the normal photo on a card. This is the normal face. 2. On the second photo, a grown-up cuts out a strip across both eyes and eyebrows, and a patch across the mouth. Keep the two cut pieces. 3. Stick the second photo, with its two holes, on the second card. 4. Turn both pieces upside down and glue them into their holes on the card.  
   *Parent says:* Stick one photo on a card. This is the normal one. On the other photo, a grown-up cuts out the eyes and the mouth. Turn each piece upside down and stick it back.  
   *Child mode:* A grown-up cuts out the eyes and mouth. Turn them upside down. Stick them back.
-  - Note: Cut slightly outside the eyebrows and the lips so the pieces fit back well. A clear photo of a face looking straight ahead works best. A drawing gives a weaker effect.
+  - Note: Cut slightly outside the eyebrows and the lips so the pieces fit back well. A clear photo of a face looking straight ahead works best. A drawing gives a weaker effect. Cut slightly outside the eyes and the lips, and keep the pieces large, as small ones are hard to turn and glue. With 2 to 4 children, each child can make a card pair from a different photo, and the raters compare them.
 - **s3 (10 min)**  
   *Parent does:* Show each rater four cards, one at a time, for three seconds each, timed with the phone. The order is: normal upside down, changed upside down, normal upright, changed upright. After each card, ask how strange the face looks, from 0 to 5. Write the numbers.  
   *Parent says:* I will show you a face for three seconds. Then tell me how strange it looks. Zero is normal and five is very strange. Do not look for long.  
   *Child mode:* Show a face for three seconds. Ask how strange it looks, from 0 to 5.
-  - Note: Show the upside-down cards first, with the card held upside down. Do not say what you changed. Some raters will say the changed upright face looks horrible, and that is the main result.
+  - Note: Show the upside-down cards first, with the card held upside down. Do not say what you changed. Some raters will say the changed upright face looks horrible, and that is the main result. With fewer than five people, three raters are enough; the pattern shows with a few. The children can take turns to hold the card, time three seconds and write the score.
 - **s4 (4 min)**  
   *Parent does:* Work out the average score for each card. Draw four bars. Ask for claim, evidence and reasoning, and then ask the check question.  
   *Parent says:* Which card has the highest average? Is the changed face much stranger upright or upside down? What does that tell you about how we read faces?  
@@ -433,7 +433,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Parent does:* 1. Fold the black paper in half, short side to short side, with the fold on the left. 2. Draw a face profile right of the fold, looking left, about 2 to 4 centimetres from the fold. 3. Draw a forehead, a nose, lips and a chin. 4. A grown-up cuts along the line and removes the strip next to the fold. 5. Open the paper over the white sheet.  
   *Parent says:* Fold the black paper in half. Draw the side of a face near the fold, with a forehead, a nose, lips and a chin. A grown-up will cut it out. Then open it on a white sheet.  
   *Child mode:* Fold the paper. Draw a face profile near the fold. A grown-up cuts it out.
-  - Note: Measure from the fold. Start 3.5 centimetres from the fold at the top, then forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. These distances are about 1 centimetre apart down the page. If your outline does not look like faces, copy a vase-and-faces drawing from a book.
+  - Note: Measure from the fold. Start 3.5 centimetres from the fold at the top, then forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. These distances are about 1 centimetre apart down the page. If your outline does not look like faces, copy a vase-and-faces drawing from a book. Draw on the black paper with a white pencil, chalk or pale crayon, as a normal pencil does not show. When the strip is removed, the paper falls into two halves: lay them on the white sheet with the cut edges facing each other and a small gap, and tape them down. With 2 to 4 children, each child can draw their own profile and the grown-up cuts them one by one. A wobbly outline is fine; if it does not look like a face, try again with a bigger nose.
 - **s3 (10 min)**  
   *Parent does:* Show the picture to five people one at a time. Ask: what do you see first? Then ask: can you see something else? Can you see both at once? Write each answer. Then ask the check question.  
   *Parent says:* Look at this. What do you see first? Now, can you see something else? Can you see both at the same time?  
@@ -443,10 +443,10 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 ### a3 · The Triangle That Isn't There (20 min)
 - **record:** A table with a row for each person: did they see a triangle, did it look brighter than the paper, and what happened when one circle was covered.
 - **s1 (5 min)**  
-  *Parent does:* Ask your child to guess whether people will see a shape between the circles. Trace a coin three times on the paper, 8 centimetres apart, as the corners of a triangle. Colour each circle black, but leave a wedge, like a slice of pizza, white in each. Turn each wedge to point to the middle of the triangle.  
+  *Parent does:* Ask your child to guess whether people will see a shape between the circles. Trace the katori or glass three times, as the corners of a triangle. Keep the middles about 11 centimetres apart. Colour each circle black, but leave a wedge, like a slice of pizza, white in each. Turn each wedge to point to the middle of the triangle.  
   *Parent says:* We will draw three circles with slices missing. Do you think people will see a shape in the middle? What shape? Why?  
   *Child mode:* Draw three black circles with a slice missing. Point the slices to the middle.
-  - Note: The slices should be quite wide, about a quarter of each circle. The edges of the white wedges must line up so that they point to the same middle. Do not tell people what to expect.
+  - Note: Each white wedge should be narrow, about one sixth of the circle (60 degrees, narrower than a quarter), so that its two edges run along the sides of the triangle. The edges of the white wedges must line up so that they point to the same middle. Do not tell people what to expect. Colour solid, with a thick black marker or crayon, so the black is dark. The effect is strongest in good light. A few people do not see the triangle, and that is a result. With several children, each can make one drawing with a different wedge size and compare which works best.
 - **s2 (10 min)**  
   *Parent does:* Show the drawing to five people, one at a time, from about an arm's length. Ask what they see in the middle. Ask if the shape looks brighter than the paper around it. Write each answer. Then ask each person to cover one circle with a finger, and say what happens.  
   *Parent says:* What do you see in the middle? Does it look brighter or the same as the paper? Now cover one circle with your finger. What happens to the shape?  
@@ -476,6 +476,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Child mode:* Why does the brain find faces in sockets and clouds?
   - Check: Why does a plug socket sometimes look like a face? → **The brain's face finder fires for any rough pattern of two eyes above a mouth**
 ### a5 · One Room, Four Worlds (25 min)
+- **safety:** Hot tea can scald. Use warm tea in a cup that a grown-up carries and places, away from small children, or just talk about a hot cup instead. Keep the fan and lamp switched as they are and do not touch the lamp.
 - **record:** A table with five things down the side and four animals across the top (you, a dog, a bee, a pit viper). Fill in what each would notice most about each thing.
 - **s1 (8 min)**  
   *Parent does:* Choose five things in the room. For each one, ask your child to guess what a dog, a bee and a pit viper would notice most. Write the guesses in the table. Add what you notice yourself.  
@@ -493,7 +494,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Child mode:* Draw one thing the way an animal senses that thing.
   - Check: A flower looks plain yellow to you. A bee sees a dark pattern on the flower, in ultraviolet. What does this suggest? → **The flower has more than one appearance, depending on who looks**
 ### a6 · Say It Thirty Times: when a word loses its meaning (10 min)
-- **record:** A table with a row for each person: how the word felt after thirty times (the same, odd, or it lost its meaning), and the word used.
+- **record:** A table with a row for each person: how the word felt after thirty times (the same, odd, or it lost its meaning), and the word used. Also ask each person to rate how strange the word sounds from 0 to 5 after 10 times and after 30 times.
 - **s1 (5 min)**  
   *Parent does:* Ask for a guess and a reason. Write a common word on a card. Ask your child to say it aloud thirty times, as fast as they can, while looking at the card. Count with tally marks. Ask what happened to the word.  
   *Parent says:* Say this word thirty times, as fast as you can. Before you start, what do you think will happen to the word? Why?  
@@ -510,7 +511,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Parent does:* Ask each person to guess whether a minute will feel longer when waiting or when busy, and why. Then test one person while waiting. Start the hidden stopwatch. They look at a blank wall and say stop when they think a minute has passed. Do not let them count or tap. Write the true time.  
   *Parent says:* Look at the wall. Do not count and do not tap. When you think one minute has passed, say stop. Before we start, do you think a minute will feel long or short?  
   *Child mode:* Look at the wall. Say stop when you think a minute has passed. Do not count.
-  - Note: Children find it hard not to count. If a person says they counted, write C beside the number. A counted result tells you less. Do not tell anyone what you expect to happen.
+  - Note: Children find it hard not to count. If a person says they counted, write C beside the number. A counted result tells you less. Do not tell anyone what you expect to happen. To keep people from counting, ask them to hum a song quietly or say the days of the week in a loop while they wait; keep the same rule for the busy test.
 - **s2 (6 min)**  
   *Parent does:* Test the same person while they do an absorbing task, such as threading beads. Start the hidden stopwatch. They say stop when they think a minute has passed. Write the true time. Repeat for two more people, and swap which test goes first.  
   *Parent says:* Now do the beads. Do not count. When you think a minute has passed, say stop.  
@@ -533,12 +534,12 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Parent says:* Fold the paper in half. Put a few drops of paint on one side. Press it shut, and open it. What do you see in the shape? Make six, with different colours.  
   *Child mode:* Fold the paper. Drop paint on one half. Press and open it. Make six.
   - Ask: Do you think everyone will see the same thing in the same blot? Why? (good: No, because everyone has seen different things in their life.; Some people will, because the shape is clear.; It depends on how the person is feeling.)
-  - Note: Use small drops, and press gently. If the paper gets wet and soggy, use less paint. Leave the blots to dry. The blots are for fun and for finding out how people see. They do not show anything about a person.
+  - Note: Use small drops, and press gently. If the paper gets wet and soggy, use less paint. Leave the blots to dry. The blots are for fun and for finding out how people see. They do not show anything about a person. Paint that is too thick does not spread, and paint that is too watery soaks through, so test one blot first. In damp weather the blots take a day or more to dry; leave them in a breezy place and begin day 2 only when they are dry. With 2 to 4 children, each child makes three blots and then shows them to the others, but not to the people who will rate them.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Show each blot to eight people, one at a time. Ask: what is the first thing you see? Write the answer. Then ask: what else could it be? Write that too. Do not say what you see yourself.  
   *Parent says:* Look at this shape. What is the first thing you see? What else could it be? Take your time.  
   *Child mode:* Show each blot to eight people. Ask what they see first.
-  - Note: Ask for the first thing, and then what else. Do not suggest answers or react. Some people will see an animal at once, and some will say nothing. If a person is not sure, they may pass.
+  - Note: Ask for the first thing, and then what else. Do not suggest answers or react. Some people will see an animal at once, and some will say nothing. If a person is not sure, they may pass. Show the blots to at least four people, such as the family, grandparents or neighbours. Each blot should be shown to the same people in the same order.
   - Wait: Ask all eight people over day 2.
 - **s3 (15 min)**  
   *Parent does:* Sort all the answers into five kinds: animal, person, plant, thing and nothing. Count each kind. Pick the five most surprising answers. Set up the blots with the best answers beside them. Ask the check question.  

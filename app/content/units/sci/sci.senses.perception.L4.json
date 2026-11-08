@@ -541,7 +541,7 @@
     "Hold the drawings up together. As a team, sort the drawings into piles of the same kind of thing.",
     "The team scores 1 point for each different pile. The aim is to find as many different kinds as you can, so a surprise is a good thing.",
     "Each player says in one sentence why that drawing came to mind. Then the player whose drawing is the only one of its kind gets a star.",
-    "Play 12 cards. The team wins when it has 40 points or more. If you reach less, play again with new cards and try to beat your score.",
+    "Play 12 cards. The team wins when it has 9 points for every player or more (for example 18 points for 2 players, 36 for 4). If you reach less, play again with new cards and try to beat your score.",
     "Playing alone, draw each word now. Draw it again tomorrow without looking at the first drawing. Then compare the two."
    ],
    "flow": [
@@ -803,11 +803,11 @@
      "qty": 1
     },
     {
-     "item": "a pencil and a sheet of paper for the person helping to tally each flip",
+     "item": "a pencil and a sheet of paper for the helper who tallies each flip (the other child, or the parent)",
      "qty": 1
     },
     {
-     "item": "three people who agree to try, such as a parent, a brother or sister, and a friend",
+     "item": "one to three other people who agree to try, such as a parent, a brother or sister, or a friend (a parent and one child can do the whole test; more people make the comparison better)",
      "qty": 3
     },
     {
@@ -876,7 +876,7 @@
      "do": "Test the three other people in the same way: one minute just watching, and one minute trying to hold one reading. Half of the people do the trying test first. Write every number in the table.",
      "say": "Now let us test other people. Same drawing, same words, same one minute. Let us see if everyone flips the same number of times.",
      "kid": "Test three more people. Same words, same minute. Write their flips.",
-     "parent": "Use the same words every time. Do not show anyone how it flips. Some people will say it never flips, and that is a result. Ask them to try the eye-drift tip once.",
+     "parent": "Use the same words every time. Do not show anyone how it flips. Some people will say it never flips, and that is a result. Ask them to try the eye-drift tip once. With two to four children, pair up: one child looks while another tallies and holds the stopwatch, then swap, so every child is tested. If nobody sees a flip in two minutes, that person is a result too: try the eye-drift tip, or make the cube bigger with thicker lines. About 3 to 20 flips a minute is typical, and it varies a lot between people.",
      "context": "In this step, you test three other people with the same drawing."
     },
     {
@@ -972,7 +972,7 @@
      "qty": 1
     },
     {
-     "item": "ten small different things, including a big red plastic cup and a small button, and the others such as a steel spoon, a comb, a key, a pencil, an eraser, a bangle, a hair clip and a steel katori",
+     "item": "ten small different things from the house, including a big red plastic cup and a small button, and others such as a steel spoon, a comb, a pencil, an eraser, a bangle, a hair clip and a steel katori (no sharp things)",
      "qty": 10
     },
     {
@@ -980,7 +980,7 @@
      "qty": 1
     },
     {
-     "item": "three watchers who do not know what will change",
+     "item": "up to three watchers who do not know which thing will change (parent, grandparent, sibling or neighbour). With only one child and one parent, take turns: one is the watcher while the other changes the tray, and then swap",
      "qty": 3
     },
     {
@@ -1028,7 +1028,7 @@
      "say": "Cover the tray, count one, and lift the card. While the card is down, I will take the cup away or put it back. Then we count one, two, three, and cover again.",
      "kid": "Cover the tray for one second. Lift the card. Count to three. Cover again.",
      "adult": true,
-     "parent": "The change must happen only while the card is down, and silently. Keep the other things still. A smooth rhythm is the key. If the card moves slowly, the watcher can see the cup move.",
+     "parent": "The change must happen only while the card is down, and silently. Keep the other things still. A smooth rhythm is the key. If the card moves slowly, the watcher can see the cup move. One person can do both jobs with one hand holding the card over the tray and the other hand reaching underneath, so a child and a parent can work alone. With 2 to 4 children, one holds the card, one changes the tray, one is the watcher and one counts and writes; rotate the jobs.",
      "context": "In this step, you practise the blink with no watcher, so the test is smooth."
     },
     {
@@ -1047,7 +1047,7 @@
      "say": "Now we will use the card. After each blink, tell me if you see a change and what it is. I will count the blinks. Ready?",
      "kid": "Watch the tray. After each blink, tell what changed. Count the blinks.",
      "adult": true,
-     "parent": "Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once.",
+     "parent": "Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once. If every watcher sees the change on the very first blink, the scene is too easy: add four or five more things to the tray, or shorten the time the tray is in view to about two seconds. If nobody sees it by blink 15, stop and say so; that is a real result and it matches how hard this is. Typical results are a few blinks for the big red cup and more for the small button, but yours may differ.",
      "context": "In this step, you test three watchers with a big change and a small change."
     },
     {
@@ -1125,7 +1125,7 @@
    ],
    "materials": [
     {
-     "item": "two copies of the same clear photo of a face looking straight ahead, each about the size of a hand, from a magazine, a newspaper or a printout of a photo of someone who agrees",
+     "item": "two copies of the same clear photo of a face looking straight ahead, each at least 10 centimetres tall. Print one photo twice at a photo or cyber shop (about Rs 5 to 10 each), or photocopy a page at a stationery shop (about Rs 2). Use someone who agrees",
      "qty": 2
     },
     {
@@ -1133,7 +1133,7 @@
      "qty": 1
     },
     {
-     "item": "glue or tape, and two pieces of card as big as the photos",
+     "item": "glue stick or tape, and two pieces of card as big as the photos (an old cereal or biscuit box will do)",
      "qty": 2
     },
     {
@@ -1141,7 +1141,7 @@
      "qty": 1
     },
     {
-     "item": "five people who agree to be raters and have not seen the cards",
+     "item": "three to five people who agree to be raters and have not seen the cards",
      "qty": 5
     },
     {
@@ -1157,7 +1157,7 @@
      "what": "Make the normal card and the changed card, then show four cards to five raters and write their scores."
     }
    ],
-   "record": "Fill in the table. Work out the average score of the five raters for each of the four cards. Draw four bars.",
+   "record": "Fill in the table. Work out the average score of the raters for each of the four cards. Draw four bars.",
    "flow": [
     {
      "id": "s1",
@@ -1181,11 +1181,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Stick one photo on a card. This is the normal face. 2. On the second photo, a grown-up cuts out a strip across both eyes and eyebrows. 3. The grown-up cuts out a patch across the mouth. 4. Turn both pieces round, so they are upside down, and stick them back in the same holes. 5. Stick this changed photo on the second card.",
+     "do": "1. Stick the normal photo on a card. This is the normal face. 2. On the second photo, a grown-up cuts out a strip across both eyes and eyebrows, and a patch across the mouth. Keep the two cut pieces. 3. Stick the second photo, with its two holes, on the second card. 4. Turn both pieces upside down and glue them into their holes on the card.",
      "say": "Stick one photo on a card. This is the normal one. On the other photo, a grown-up cuts out the eyes and the mouth. Turn each piece upside down and stick it back.",
      "kid": "A grown-up cuts out the eyes and mouth. Turn them upside down. Stick them back.",
      "adult": true,
-     "parent": "Cut slightly outside the eyebrows and the lips so the pieces fit back well. A clear photo of a face looking straight ahead works best. A drawing gives a weaker effect.",
+     "parent": "Cut slightly outside the eyebrows and the lips so the pieces fit back well. A clear photo of a face looking straight ahead works best. A drawing gives a weaker effect. Cut slightly outside the eyes and the lips, and keep the pieces large, as small ones are hard to turn and glue. With 2 to 4 children, each child can make a card pair from a different photo, and the raters compare them.",
      "context": "In this step, you make the normal card and the changed card."
     },
     {
@@ -1194,7 +1194,7 @@
      "do": "Show each rater four cards, one at a time, for three seconds each, timed with the phone. The order is: normal upside down, changed upside down, normal upright, changed upright. After each card, ask how strange the face looks, from 0 to 5. Write the numbers.",
      "say": "I will show you a face for three seconds. Then tell me how strange it looks. Zero is normal and five is very strange. Do not look for long.",
      "kid": "Show a face for three seconds. Ask how strange it looks, from 0 to 5.",
-     "parent": "Show the upside-down cards first, with the card held upside down. Do not say what you changed. Some raters will say the changed upright face looks horrible, and that is the main result.",
+     "parent": "Show the upside-down cards first, with the card held upside down. Do not say what you changed. Some raters will say the changed upright face looks horrible, and that is the main result. With fewer than five people, three raters are enough; the pattern shows with a few. The children can take turns to hold the card, time three seconds and write the score.",
      "context": "In this step, you show the four cards to five raters and write their scores."
     },
     {
@@ -1279,7 +1279,7 @@
      "qty": 1
     },
     {
-     "item": "three or more people who have not seen the sentence",
+     "item": "two or more people who have not seen the sentence (the child, plus a parent, a brother or sister, or a friend)",
      "qty": 3
     },
     {
@@ -1361,7 +1361,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a sheet of black paper, A4 size, or any dark paper",
+     "item": "a sheet of black chart paper, A4 or bigger, or any dark paper (about Rs 10 at a stationery shop; the back of a dark folder also works)",
      "qty": 1,
      "buy": "b-blackpaper"
     },
@@ -1370,7 +1370,7 @@
      "qty": 1
     },
     {
-     "item": "a pencil and a ruler",
+     "item": "a ruler, and a white pencil, chalk or pale crayon to draw on the black paper",
      "qty": 1
     },
     {
@@ -1378,7 +1378,7 @@
      "qty": 1
     },
     {
-     "item": "five people who agree to try",
+     "item": "three to five people who agree to try",
      "qty": 5
     }
    ],
@@ -1423,7 +1423,7 @@
      "say": "Fold the black paper in half. Draw the side of a face near the fold, with a forehead, a nose, lips and a chin. A grown-up will cut it out. Then open it on a white sheet.",
      "kid": "Fold the paper. Draw a face profile near the fold. A grown-up cuts it out.",
      "adult": true,
-     "parent": "Measure from the fold. Start 3.5 centimetres from the fold at the top, then forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. These distances are about 1 centimetre apart down the page. If your outline does not look like faces, copy a vase-and-faces drawing from a book.",
+     "parent": "Measure from the fold. Start 3.5 centimetres from the fold at the top, then forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. These distances are about 1 centimetre apart down the page. If your outline does not look like faces, copy a vase-and-faces drawing from a book. Draw on the black paper with a white pencil, chalk or pale crayon, as a normal pencil does not show. When the strip is removed, the paper falls into two halves: lay them on the white sheet with the cut edges facing each other and a small gap, and tape them down. With 2 to 4 children, each child can draw their own profile and the grown-up cuts them one by one. A wobbly outline is fine; if it does not look like a face, try again with a bigger nose.",
      "context": "In this step, you make the two-way picture from black and white paper."
     },
     {
@@ -1463,7 +1463,7 @@
      "qty": 1
     },
     {
-     "item": "a one-rupee coin to trace round",
+     "item": "the bottom of a steel katori or a glass, about 5 to 6 centimetres across, to trace round (a coin is too small to work)",
      "qty": 1
     },
     {
@@ -1471,7 +1471,7 @@
      "qty": 1
     },
     {
-     "item": "five people who agree to try",
+     "item": "three to five people who agree to try",
      "qty": 5
     },
     {
@@ -1490,7 +1490,7 @@
    "context": "In this activity, you draw three black circles with slices missing, and find out whether people see a triangle that is not drawn.",
    "setup": [
     {
-     "art": "Three coin-sized circles traced on white paper in the corners of a large triangle, each filled in black with a wedge left white.",
+     "art": "Three circles traced round a katori on white paper, at the corners of a large triangle, each filled in black with a wedge left white.",
      "caption": "1. Trace three circles. Colour each black, but leave a wedge white."
     },
     {
@@ -1506,10 +1506,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Ask your child to guess whether people will see a shape between the circles. Trace a coin three times on the paper, 8 centimetres apart, as the corners of a triangle. Colour each circle black, but leave a wedge, like a slice of pizza, white in each. Turn each wedge to point to the middle of the triangle.",
+     "do": "Ask your child to guess whether people will see a shape between the circles. Trace the katori or glass three times, as the corners of a triangle. Keep the middles about 11 centimetres apart. Colour each circle black, but leave a wedge, like a slice of pizza, white in each. Turn each wedge to point to the middle of the triangle.",
      "say": "We will draw three circles with slices missing. Do you think people will see a shape in the middle? What shape? Why?",
      "kid": "Draw three black circles with a slice missing. Point the slices to the middle.",
-     "parent": "The slices should be quite wide, about a quarter of each circle. The edges of the white wedges must line up so that they point to the same middle. Do not tell people what to expect.",
+     "parent": "Each white wedge should be narrow, about one sixth of the circle (60 degrees, narrower than a quarter), so that its two edges run along the sides of the triangle. The edges of the white wedges must line up so that they point to the same middle. Do not tell people what to expect. Colour solid, with a thick black marker or crayon, so the black is dark. The effect is strongest in good light. A few people do not see the triangle, and that is a result. With several children, each can make one drawing with a different wedge size and compare which works best.",
      "context": "This is the first step of The Triangle That Isn't There. You guess and make the drawing."
     },
     {
@@ -1557,7 +1557,7 @@
      "qty": 1
     },
     {
-     "item": "three or more family members who agree to join",
+     "item": "two or more family members who agree to join (a parent and child can do it, but more people give more to compare)",
      "qty": 3
     },
     {
@@ -1636,11 +1636,11 @@
      "qty": 1
     },
     {
-     "item": "a room with a window and five things in it, such as a cup of tea, a flower, a plate of food, a fan and a lamp",
+     "item": "a room with a window and five things in it, such as a cup of warm tea, a flower, a plate of food, a fan and a lamp",
      "qty": 5
     },
     {
-     "item": "a grown-up to read out the facts about each animal",
+     "item": "a grown-up to read out the facts about each animal. With 2 to 4 children, each child takes one animal and says what she or he would notice, then everybody draws the same thing as a different animal",
      "qty": 1
     }
    ],
@@ -1701,7 +1701,8 @@
      },
      "context": "In this step, you draw one thing as one animal senses that thing and think about what that means."
     }
-   ]
+   ],
+   "safety": "Hot tea can scald. Use warm tea in a cup that a grown-up carries and places, away from small children, or just talk about a hot cup instead. Keep the fan and lamp switched as they are and do not touch the lamp."
   },
   {
    "id": "a6",
@@ -1718,7 +1719,7 @@
      "qty": 1
     },
     {
-     "item": "three or more people who agree to try",
+     "item": "two or more people who agree to try",
      "qty": 3
     },
     {
@@ -1733,7 +1734,7 @@
      "what": "Say a word thirty times as fast as you can, and say what happened to its sound and its meaning."
     }
    ],
-   "record": "A table with a row for each person: how the word felt after thirty times (the same, odd, or it lost its meaning), and the word used.",
+   "record": "A table with a row for each person: how the word felt after thirty times (the same, odd, or it lost its meaning), and the word used. Also ask each person to rate how strange the word sounds from 0 to 5 after 10 times and after 30 times.",
    "context": "In this activity, you say one word again and again, and find out what happens to its sound and its meaning.",
    "setup": [
     {
@@ -1791,7 +1792,7 @@
      "qty": 2
     },
     {
-     "item": "three people who agree to try",
+     "item": "two or more people who agree to try (the child and a parent, or brothers and sisters taking turns)",
      "qty": 3
     },
     {
@@ -1825,7 +1826,7 @@
      "do": "Ask each person to guess whether a minute will feel longer when waiting or when busy, and why. Then test one person while waiting. Start the hidden stopwatch. They look at a blank wall and say stop when they think a minute has passed. Do not let them count or tap. Write the true time.",
      "say": "Look at the wall. Do not count and do not tap. When you think one minute has passed, say stop. Before we start, do you think a minute will feel long or short?",
      "kid": "Look at the wall. Say stop when you think a minute has passed. Do not count.",
-     "parent": "Children find it hard not to count. If a person says they counted, write C beside the number. A counted result tells you less. Do not tell anyone what you expect to happen.",
+     "parent": "Children find it hard not to count. If a person says they counted, write C beside the number. A counted result tells you less. Do not tell anyone what you expect to happen. To keep people from counting, ask them to hum a song quietly or say the days of the week in a loop while they wait; keep the same rule for the busy test.",
      "context": "This is the first step of Is a Minute a Minute? You test a waiting minute."
     },
     {
@@ -1872,12 +1873,12 @@
      "qty": 6
     },
     {
-     "item": "washable poster paint in two or three colours, or watercolours",
+     "item": "washable poster paint in two or three colours, or school watercolours. Strong tea, coffee or a little ink mixed with water also gives a good blot",
      "qty": 1,
      "buy": "b-paint"
     },
     {
-     "item": "a spoon or a brush for each colour",
+     "item": "a spoon or an old brush for each colour, and a little water to thin the paint to the thickness of cream",
      "qty": 3
     },
     {
@@ -1885,7 +1886,7 @@
      "qty": 1
     },
     {
-     "item": "eight people who agree to look at the blots",
+     "item": "at least four people who agree to look at the blots; eight gives a better count",
      "qty": 8
     },
     {
@@ -1944,7 +1945,7 @@
        ]
       }
      ],
-     "parent": "Use small drops, and press gently. If the paper gets wet and soggy, use less paint. Leave the blots to dry. The blots are for fun and for finding out how people see. They do not show anything about a person.",
+     "parent": "Use small drops, and press gently. If the paper gets wet and soggy, use less paint. Leave the blots to dry. The blots are for fun and for finding out how people see. They do not show anything about a person. Paint that is too thick does not spread, and paint that is too watery soaks through, so test one blot first. In damp weather the blots take a day or more to dry; leave them in a breezy place and begin day 2 only when they are dry. With 2 to 4 children, each child makes three blots and then shows them to the others, but not to the people who will rate them.",
      "context": "This is the first day of the Blot Gallery. You make six paint blots."
     },
     {
@@ -1954,7 +1955,7 @@
      "say": "Look at this shape. What is the first thing you see? What else could it be? Take your time.",
      "kid": "Show each blot to eight people. Ask what they see first.",
      "adult": true,
-     "parent": "Ask for the first thing, and then what else. Do not suggest answers or react. Some people will see an animal at once, and some will say nothing. If a person is not sure, they may pass.",
+     "parent": "Ask for the first thing, and then what else. Do not suggest answers or react. Some people will see an animal at once, and some will say nothing. If a person is not sure, they may pass. Show the blots to at least four people, such as the family, grandparents or neighbours. Each blot should be shown to the same people in the same order.",
      "wait": "Ask all eight people over day 2.",
      "context": "This is the second day of the Blot Gallery. You show the blots to people."
     },
