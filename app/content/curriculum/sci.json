@@ -2395,8 +2395,7 @@
     "sci.light.light-in-space.L4",
     "sci.light.invisible-light.L4",
     "sci.light.lasers.L4",
-    "sci.light.light-carries-messages.L4",
-    "sci.light.what-is-light.L4"
+    "sci.light.light-carries-messages.L4"
    ],
    "chapters": [
     "C4-5.1",
@@ -2420,7 +2419,8 @@
    "subtopic_levels": [
     "sci.magnets.compass-and-earth.L4",
     "sci.magnets.electromagnets.L4",
-    "sci.magnets.electricity-from-magnets.L4"
+    "sci.magnets.electricity-from-magnets.L4",
+    "sci.magnets.poles.L4"
    ],
    "chapters": []
   },
@@ -2507,7 +2507,8 @@
     "sci.motion.speed.L4",
     "sci.motion.newtons-laws.L4",
     "sci.motion.describing-motion.L4",
-    "sci.motion.momentum.L4"
+    "sci.motion.momentum.L4",
+    "sci.motion.swings-and-pendulums.L4"
    ],
    "chapters": []
   },
@@ -2570,8 +2571,7 @@
     "sci.plants.photosynthesis.L4",
     "sci.plants.plant-senses.L4",
     "sci.plants.plant-variety.L4",
-    "sci.plants.inside-plants.L4",
-    "sci.plants.what-plants-need.L4"
+    "sci.plants.inside-plants.L4"
    ],
    "chapters": [
     "N4-4"
@@ -2608,7 +2608,9 @@
     "sci.sky.solar-system.L4",
     "sci.sky.stars-and-galaxies.L4",
     "sci.sky.birth-of-solar-system.L4",
-    "sci.sky.other-worlds.L4"
+    "sci.sky.other-worlds.L4",
+    "sci.sky.the-sun.L4",
+    "sci.sky.moon-phases.L4"
    ],
    "chapters": [
     "N4-10",
@@ -2628,9 +2630,7 @@
    "subtopic_levels": [
     "sci.sound.sound-moves.L4",
     "sci.sound.music.L4",
-    "sci.sound.doppler-and-shock.L4",
-    "sci.sound.waves.L4",
-    "sci.sound.hearing.L4"
+    "sci.sound.doppler-and-shock.L4"
    ],
    "chapters": []
   },
@@ -2668,7 +2668,9 @@
     "sci.states.melting-and-solidifying.L4",
     "sci.states.floating-and-sinking.L4",
     "sci.states.expanding-when-hot.L4",
-    "sci.states.plasma.L4"
+    "sci.states.plasma.L4",
+    "sci.states.dissolving.L4",
+    "sci.states.evaporation-and-condensation.L4"
    ],
    "chapters": [
     "C4-3.2",
@@ -4512,7 +4514,6 @@
     "sci.plants.plant-parts.L3"
    ],
    "go_deep": [
-    "sci.plants.what-plants-need.L4",
     "sci.plants.photosynthesis.L3"
    ],
    "go_wide": [
@@ -4541,50 +4542,6 @@
     "Cambridge Stage 3 1.2 Plants need light and water",
     "Cambridge Stage 3 1.4 Plant growth and temperature"
    ]
-  },
-  {
-   "id": "sci.plants.what-plants-need.L4",
-   "subject": "sci",
-   "topic": "plants",
-   "topic_name": "Plants",
-   "strand": "Life",
-   "topic_level": "sci.plants.L4",
-   "subtopic": "what-plants-need",
-   "name": "What plants need to live and grow",
-   "level": 4,
-   "classes": [
-    4
-   ],
-   "covers": "What plants need underground: air, minerals and helpers in the soil.",
-   "chapters": [],
-   "verify": [],
-   "prerequisites": [
-    "sci.plants.what-plants-need.L3"
-   ],
-   "go_deep": [],
-   "go_wide": [
-    "sci.plants.plant-parts.L3",
-    "sci.plants.water-transport.L3",
-    "sci.plants.photosynthesis.L3",
-    "sci.plants.plant-variety.L3"
-   ],
-   "maths": [
-    {
-     "id": "math.measurement-basics.standard-units.L3",
-     "chapters": [
-      "C3-Gg"
-     ]
-    },
-    {
-     "id": "math.data.bar-charts.L3",
-     "chapters": [
-      "C3-Ss"
-     ]
-    }
-   ],
-   "notebook": [],
-   "source": "boards",
-   "chapter_refs": []
   },
   {
    "id": "sci.plants.water-transport.L3",
@@ -13726,6 +13683,51 @@
     "sci.states.solids-liquids-gases.L2"
    ],
    "go_deep": [
+    "sci.states.evaporation-and-condensation.L4"
+   ],
+   "go_wide": [
+    "sci.states.particles.L3",
+    "sci.states.dissolving.L3",
+    "sci.states.crystals.L3",
+    "sci.states.liquids-up-close.L3",
+    "sci.water.water-cycle.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.line-graphs.L4",
+     "chapters": []
+    },
+    {
+     "id": "math.time.duration.L3",
+     "chapters": [
+      "C3-Gt"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.states.evaporation-and-condensation.L4",
+   "subject": "sci",
+   "topic": "states",
+   "topic_name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "topic_level": "sci.states.L4",
+   "subtopic": "evaporation-and-condensation",
+   "name": "Evaporation and condensation",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Evaporation and condensation: why some liquids leave fast, where the heat goes, and what salt does to the air.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.states.evaporation-and-condensation.L3"
+   ],
+   "go_deep": [
     "sci.states.evaporation-and-condensation.L5"
    ],
    "go_wide": [
@@ -13770,8 +13772,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.states.evaporation-and-condensation.L3",
-    "sci.states.solids-liquids-gases.L5"
+    "sci.states.evaporation-and-condensation.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -13883,6 +13884,47 @@
     "sci.states.particles.L3"
    ],
    "go_deep": [
+    "sci.states.dissolving.L4"
+   ],
+   "go_wide": [
+    "sci.states.particles.L3",
+    "sci.states.evaporation-and-condensation.L3",
+    "sci.states.crystals.L3",
+    "sci.states.liquids-up-close.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.weight-capacity.capacity.L3",
+     "chapters": [
+      "N3-11",
+      "C3-Gg"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.states.dissolving.L4",
+   "subject": "sci",
+   "topic": "states",
+   "topic_name": "Solids, liquids, gases and particles",
+   "strand": "Matter",
+   "topic_level": "sci.states.L4",
+   "subtopic": "dissolving",
+   "name": "Dissolving and solutions",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Dissolving: what water takes, what oil takes, and where the fizz hides.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.states.dissolving.L3"
+   ],
+   "go_deep": [
     "sci.states.dissolving.L5"
    ],
    "go_wide": [
@@ -13923,8 +13965,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.states.dissolving.L3",
-    "sci.states.particles.L5"
+    "sci.states.dissolving.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -17700,6 +17741,58 @@
     "sci.motion.kinds-of-motion.L2"
    ],
    "go_deep": [
+    "sci.motion.swings-and-pendulums.L4"
+   ],
+   "go_wide": [
+    "sci.motion.newtons-laws.L3",
+    "sci.motion.spinning.L3",
+    "sci.motion.physics-of-sport.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.time.duration.L3",
+     "chapters": [
+      "C3-Gt"
+     ]
+    },
+    {
+     "id": "math.data.line-graphs.L4",
+     "chapters": []
+    },
+    {
+     "id": "math.patterns.number-patterns.L3",
+     "chapters": [
+      "N3-10",
+      "C3-Nc"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:135"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.motion.swings-and-pendulums.L4",
+   "subject": "sci",
+   "topic": "motion",
+   "topic_name": "Motion",
+   "strand": "Physics",
+   "topic_level": "sci.motion.L4",
+   "subtopic": "swings-and-pendulums",
+   "name": "Swings and pendulums",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Swings and pendulums: how a swing trades height for speed.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.motion.swings-and-pendulums.L3"
+   ],
+   "go_deep": [
     "sci.motion.swings-and-pendulums.L5"
    ],
    "go_wide": [
@@ -17749,8 +17842,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.motion.swings-and-pendulums.L3",
-    "sci.motion.kinds-of-motion.L2"
+    "sci.motion.swings-and-pendulums.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -19932,8 +20024,49 @@
     "sci.magnets.magnets-and-materials.L3"
    ],
    "go_deep": [
-    "sci.magnets.poles.L5",
+    "sci.magnets.poles.L4",
     "sci.magnets.compass-and-earth.L4"
+   ],
+   "go_wide": [
+    "sci.magnets.magnets-and-materials.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:221",
+    "phy:222",
+    "phy:234"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.magnets.poles.L4",
+   "subject": "sci",
+   "topic": "magnets",
+   "topic_name": "Magnets",
+   "strand": "Physics",
+   "topic_level": "sci.magnets.L4",
+   "subtopic": "poles",
+   "name": "Poles and magnetic force",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Magnet poles: the invisible field that pulls, pushes and cancels.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.magnets.poles.L3"
+   ],
+   "go_deep": [
+    "sci.magnets.poles.L5"
    ],
    "go_wide": [
     "sci.magnets.magnets-and-materials.L3"
@@ -19973,8 +20106,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.magnets.poles.L3",
-    "sci.magnets.magnets-and-materials.L5"
+    "sci.magnets.poles.L4"
    ],
    "go_deep": [
     "sci.magnets.compass-and-earth.L5"
@@ -20907,48 +21039,8 @@
     "sci.light.light-sources.L2"
    ],
    "go_deep": [
-    "sci.light.what-is-light.L4",
+    "sci.light.what-is-light.L5",
     "sci.the-very-small.light-as-particles.L5"
-   ],
-   "go_wide": [
-    "sci.light.how-we-see.L3",
-    "sci.light.transparent-opaque.L3",
-    "sci.light.reflection.L3",
-    "sci.light.colour.L3",
-    "sci.light.refraction.L3",
-    "sci.light.living-light.L3"
-   ],
-   "maths": [],
-   "notebook": [
-    "phy:153",
-    "phy:154",
-    "phy:155",
-    "phy:241"
-   ],
-   "source": "notes",
-   "chapter_refs": []
-  },
-  {
-   "id": "sci.light.what-is-light.L4",
-   "subject": "sci",
-   "topic": "light",
-   "topic_name": "Light, seeing and shadows",
-   "strand": "Physics",
-   "topic_level": "sci.light.L4",
-   "subtopic": "what-is-light",
-   "name": "What is light?",
-   "level": 4,
-   "classes": [
-    4
-   ],
-   "covers": "What is light? Energy that spreads out, warms things and has a family you cannot see.",
-   "chapters": [],
-   "verify": [],
-   "prerequisites": [
-    "sci.light.what-is-light.L3"
-   ],
-   "go_deep": [
-    "sci.light.what-is-light.L5"
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
@@ -20985,7 +21077,8 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.light.what-is-light.L4"
+    "sci.light.what-is-light.L3",
+    "sci.light.light-sources.L2"
    ],
    "go_deep": [
     "sci.the-very-small.light-as-particles.L5"
@@ -21605,38 +21698,6 @@
    "prerequisites": [
     "sci.sound.hearing.L1"
    ],
-   "go_deep": [
-    "sci.sound.hearing.L4"
-   ],
-   "go_wide": [
-    "sci.sound.sources-of-sound.L3",
-    "sci.sound.waves.L3",
-    "sci.senses.five-senses.L3"
-   ],
-   "maths": [],
-   "notebook": [],
-   "source": "boards",
-   "chapter_refs": []
-  },
-  {
-   "id": "sci.sound.hearing.L4",
-   "subject": "sci",
-   "topic": "sound",
-   "topic_name": "Sound",
-   "strand": "Physics",
-   "topic_level": "sci.sound.L4",
-   "subtopic": "hearing",
-   "name": "Our ears and hearing",
-   "level": 4,
-   "classes": [
-    4
-   ],
-   "covers": "Hearing: how two ears find where a sound is, and why noise can hide a voice.",
-   "chapters": [],
-   "verify": [],
-   "prerequisites": [
-    "sci.sound.hearing.L3"
-   ],
    "go_deep": [],
    "go_wide": [
     "sci.sound.sources-of-sound.L3",
@@ -22064,50 +22125,6 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
-    "sci.sound.waves.L4"
-   ],
-   "go_wide": [
-    "sci.sound.sources-of-sound.L3",
-    "sci.sound.hearing.L3",
-    "sci.sound.vibration.L5"
-   ],
-   "maths": [
-    {
-     "id": "math.multiplication.multiplication-facts.L3",
-     "chapters": [
-      "N3-7",
-      "C3-Ni"
-     ]
-    }
-   ],
-   "notebook": [
-    "phy:132",
-    "phy:133",
-    "phy:134"
-   ],
-   "source": "notes",
-   "chapter_refs": []
-  },
-  {
-   "id": "sci.sound.waves.L4",
-   "subject": "sci",
-   "topic": "sound",
-   "topic_name": "Sound",
-   "strand": "Physics",
-   "topic_level": "sci.sound.L4",
-   "subtopic": "waves",
-   "name": "Waves",
-   "level": 4,
-   "classes": [
-    4
-   ],
-   "covers": "Waves: why shaking faster makes the waves closer together.",
-   "chapters": [],
-   "verify": [],
-   "prerequisites": [
-    "sci.sound.waves.L3"
-   ],
-   "go_deep": [
     "sci.sound.waves.L5"
    ],
    "go_wide": [
@@ -22149,7 +22166,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.sound.waves.L4"
+    "sci.sound.waves.L3"
    ],
    "go_deep": [],
    "go_wide": [
@@ -22585,6 +22602,61 @@
     "sci.sky.sun-moon-stars.L3"
    ],
    "go_deep": [
+    "sci.sky.moon-phases.L4"
+   ],
+   "go_wide": [
+    "sci.sky.sun-moon-stars.L3",
+    "sci.sky.solar-system.L3",
+    "sci.sky.exploring-space.L3",
+    "sci.sky.stargazing.L3",
+    "sci.sky.history-of-astronomy.L3",
+    "sci.sky.the-sun.L3",
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.sky.life-beyond-earth.L3",
+    "sci.light.light-in-space.L4"
+   ],
+   "maths": [
+    {
+     "id": "math.time.calendar.L3",
+     "chapters": [
+      "N3-13",
+      "C3-Gt"
+     ]
+    },
+    {
+     "id": "math.patterns.repeating-patterns.L2",
+     "chapters": [
+      "N2-6",
+      "C2-Nc"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:65"
+   ],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sky.moon-phases.L4",
+   "subject": "sci",
+   "topic": "sky",
+   "topic_name": "Sun, Moon, stars and planets",
+   "strand": "Earth and space",
+   "topic_level": "sci.sky.L4",
+   "subtopic": "moon-phases",
+   "name": "The Moon and its phases",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Reading the Moon: where day meets night, why half Moons show mountains, and how to predict any phase.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sky.moon-phases.L3"
+   ],
+   "go_deep": [
     "sci.sky.moon-phases.L5"
    ],
    "go_wide": [
@@ -22639,8 +22711,7 @@
    ],
    "verify": [],
    "prerequisites": [
-    "sci.sky.moon-phases.L3",
-    "sci.sky.sun-moon-stars.L4"
+    "sci.sky.moon-phases.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -23062,6 +23133,46 @@
     "sci.sky.sun-moon-stars.L3"
    ],
    "go_deep": [
+    "sci.sky.the-sun.L4"
+   ],
+   "go_wide": [
+    "sci.sky.sun-moon-stars.L3",
+    "sci.sky.solar-system.L3",
+    "sci.sky.moon-phases.L3",
+    "sci.sky.exploring-space.L3",
+    "sci.sky.stargazing.L3",
+    "sci.sky.history-of-astronomy.L3",
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.sky.life-beyond-earth.L3",
+    "sci.energy.e-mc2.L5"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:62"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sky.the-sun.L4",
+   "subject": "sci",
+   "topic": "sky",
+   "topic_name": "Sun, Moon, stars and planets",
+   "strand": "Earth and space",
+   "topic_level": "sci.sky.L4",
+   "subtopic": "the-sun",
+   "name": "Our Sun",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "The Sun up close: layers, spots, storms and the wind that blows past the Earth.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sky.the-sun.L3"
+   ],
+   "go_deep": [
     "sci.sky.the-sun.L5"
    ],
    "go_wide": [
@@ -23099,8 +23210,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.sky.the-sun.L3",
-    "sci.sky.sun-moon-stars.L4"
+    "sci.sky.the-sun.L4"
    ],
    "go_deep": [],
    "go_wide": [
