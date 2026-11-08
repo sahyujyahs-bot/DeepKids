@@ -164,7 +164,7 @@
    "concept": "Capillary rise: how water climbs through soil",
    "status": "defined",
    "definition": "Capillary rise is water climbing up through very narrow gaps against gravity. The narrower the gap, the higher the water climbs.",
-   "description": "Water is sticky in two ways. Water particles stick to each other, and they stick to the surface of the grains. At the edge of a narrow gap, the water sticks to the wall and pulls the water behind it upwards. This goes on until the weight of the lifted water balances the pull. In a wide gap, the pull is small, so water climbs only a little. In a narrow gap, the pull is strong, so water climbs much higher. It also moves more slowly through narrow gaps, because the gap is tight. So water climbs only a centimetre or two in gravel, tens of centimetres in sand, and a metre or more in fine soil. But the finer the soil, the slower the climb. A cup of sand fills quickly, and a cup of fine soil takes much longer to wet. This is why a wick lifts oil up a diya, and why a sugar cube turns brown when you touch it to tea.",
+   "description": "Water is sticky in two ways. Water particles stick to each other, and they stick to the surface of the grains. At the edge of a narrow gap, the water sticks to the wall and pulls the water behind it upwards. This goes on until the weight of the lifted water balances the pull. In a wide gap, the pull is small, so water climbs only a little. In a narrow gap, the pull is strong, so water climbs much higher. It also moves more slowly through narrow gaps, because the gap is tight. So water climbs only a centimetre or two in gravel, tens of centimetres in sand, and up to a metre or more in very fine soil in the ground. But the finer the soil, the slower the climb. A cup of sand fills quickly, and a cup of fine soil takes much longer to wet. This is why a wick lifts oil up a diya, and why a sugar cube turns brown when you touch it to tea.",
    "examples": [
     "Water climbs up the threads of a dry towel hanging with one corner in a bucket.",
     "A mud wall of a house gets damp at the bottom after the rains, as water climbs up from the wet ground.",
@@ -293,7 +293,7 @@
   {
    "concept": "Who is in charge of the trade between a bean and her bacteria?",
    "status": "debated",
-   "description": "The bean gives sugar. The bacteria give nitrogen. But what happens when some bacteria give less than others? In 2003, researchers reported that soybean plants cut off the oxygen supply to nodules that fixed little nitrogen, and those bacteria did less well. Many biologists read this as the plant sanctioning cheats. Others say there is no plan behind it. The plant simply gives more oxygen and sugar to the nodules that are working, as a result of how the nodule is built. Some scientists point out that the bacteria also change their behaviour, and that bacteria in the soil sense chemicals and choose where to swim. So the trade may be steered from both sides. Nobody has settled how much choice each side has.",
+   "description": "The bean gives sugar. The bacteria give nitrogen. But what happens when some bacteria give less than others? In 2003, researchers reported that soybean plants seemed to punish nodules that fixed little nitrogen, perhaps by cutting their oxygen supply, and those bacteria did less well. Many biologists read this as the plant sanctioning cheats. Others say there is no plan behind it. The plant simply gives more oxygen and sugar to the nodules that are working, as a result of how the nodule is built. Some scientists point out that the bacteria also change their behaviour, and that bacteria in the soil sense chemicals and choose where to swim. So the trade may be steered from both sides. Nobody has settled how much choice each side has.",
    "examples": [
     "A soybean nodule that fixes less nitrogen gets less oxygen.",
     "Different kinds of Rhizobium bacteria can enter the same bean, and some fix more than others.",
@@ -475,7 +475,7 @@
    "Murugan Mama laughed kindly. \"A pulse is a waste of a season. The soil takes, you know. The soil is a bank. When the bank is empty, you must put money in. Urea is the money.\"",
    "Karthika was thinking about her science lesson on yellow leaves. Her teacher had said that pale yellow leaves often mean a plant is short of nitrogen. But the air was full of nitrogen. Her teacher had said that too. About four of every five parts of air are nitrogen gas. So why did the rice go hungry with all that nitrogen around her?",
    "She decided to look at the ulundu. Paati kept a tin of seeds under her bed. Karthika scattered a handful along the damp edge of the field, as Paati showed her, and they sprouted in four days. Three weeks later, the small plants were knee-high and covered in flowers.",
-   "She asked Paati to pull one up. Selvam shouted before anyone else did. \"It has beads on its roots! Little white beads!\"",
+   "She asked Paati to pull one up. Selvam shouted before anyone else did. \"She has beads on her roots! Little white beads!\"",
    "Karthika washed the roots in the channel. Along them sat small round bumps, each about as big as a sesame seed. They were smooth and hard. \"What are they?\" she asked.",
    "Paati shrugged. \"Pearls, my mother used to say. The ulundu always has them.\"",
    "Karthika took the plant to the kitchen. With her mother standing beside her, she cut one bump in half with the small vegetable knife. Selvam leaned in so close that his nose almost touched it.",
@@ -1331,7 +1331,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Sea water is about 3 spoons of salt in a litre, which is a little less than the third saucer.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Sea water has about 6 level teaspoons of salt in a litre, which is a little more than the third saucer holds in the same amount of water.",
      "context": "This is the first step of the Salty Seeds test. You guess how salt changes sprouting before you test."
     },
     {
@@ -1833,7 +1833,7 @@
      "parent": "The answers are these. Takes a lot: rice, wheat, maize, sugarcane, cotton. Gives: moong, urad, chana, groundnut, red gram. Needs little: ragi and bajra. Legumes have seeds in pods. The millets are tough crops that grow well in poor, dry soil.",
      "check": {
       "t": "mcq",
-      "q": "Which of these crops fixes nitrogen with bacteria in its roots?",
+      "q": "Which of these crops fixes nitrogen with bacteria in her roots?",
       "options": [
        "Wheat",
        "Groundnut",
@@ -1893,7 +1893,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up cuts the nodules, because the knife is sharp. Wash hands after touching the roots and the soil.",
+   "safety": "A grown-up cuts the nodules, because the knife is sharp. Groundnut is a common allergen: if anyone in the family is allergic to peanuts, use a moong or pea plant instead. Wash hands after touching the roots and the soil.",
    "schedule": [
     {
      "day": 1,
@@ -2192,7 +2192,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up heats the water and pours it. The water is hot. Do not taste the cabbage water, the vinegar, the baking soda or the chalk. Wash hands afterwards.",
+   "safety": "A grown-up heats the water and pours it. The water is hot. Do not taste the cabbage water, the vinegar, the baking soda or the chalk, and do not breathe in the chalk dust. Keep the vinegar and baking soda away from your eyes. Wash hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -3231,7 +3231,7 @@
      "t": "mcq",
      "p": "A farmer wants to lower the amount of fertiliser she buys. Which change helps most?",
      "opts": [
-      "Grow a pulse in rotation and leave its roots and leaves in the field",
+      "Grow a pulse in rotation and leave her roots and leaves in the field",
       "Plant more rice",
       "Leave the soil bare in the Sun"
      ],

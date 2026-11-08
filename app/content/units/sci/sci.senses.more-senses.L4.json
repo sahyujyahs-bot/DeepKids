@@ -239,7 +239,7 @@
    "concept": "Warm and cold gates in the skin",
    "status": "defined",
    "definition": "Warmth and cold are sensed by tiny gates in nerve endings called ion channels. Each kind of gate opens at its own temperature, so different nerve endings report different ranges.",
-   "description": "In 1997, the scientist David Julius and his team found the gate that opens in chilli and in heat. It opens when the temperature rises above about 43 degrees Celsius, and also when it meets the chemical in chilli, which is called capsaicin. So a green chilli really does feel hot, because it opens the same gate as hot water would. In 2002, a team led by David McKemy found a gate that opens when the temperature drops below about 26 degrees and also opens for menthol, the chemical in mint. That is why mint feels cool even though it is not cold. Other gates in the same family open at warm, hot, or very cold temperatures. Julius and Ardem Patapoutian shared the 2021 Nobel Prize in Physiology or Medicine for finding the gates for temperature and touch. Your sense of warmth is the combined report of many such gates.",
+   "description": "In 1997, the scientist David Julius and his team found the gate that opens in chilli and in heat. It opens when the temperature rises above about 43 degrees Celsius, and also when it meets the chemical in chilli, which is called capsaicin. So a green chilli really does feel hot, because it opens the same gate as hot water would. In 2002, a team led by David McKemy found a gate that opens in the cool and also opens for menthol (later work put its cool point at below about 26 degrees), the chemical in mint. That is why mint feels cool even though it is not cold. Other gates in the same family open at warm, hot, or very cold temperatures. Julius and Ardem Patapoutian shared the 2021 Nobel Prize in Physiology or Medicine for finding the gates for temperature and touch. Your sense of warmth is the combined report of many such gates.",
    "examples": [
     "Chilli feels hot because it opens the heat gate.",
     "A peppermint sweet makes your breath feel cool because mint opens the cool gate.",
@@ -345,7 +345,7 @@
    "concept": "Flies steer with tiny clubs",
    "status": "defined",
    "definition": "Flies and mosquitoes have two tiny club-shaped stalks behind their wings, called halteres. They swing as the wings beat, and they sense when the body turns.",
-   "description": "A fly has only one pair of wings. Where a second pair would be, there are two tiny stalks with a knob at the end. When the fly flies, the halteres beat up and down as fast as the wings, more than a hundred times a second. If the fly's body turns, the swinging clubs are pushed sideways by the turn. Sensors at the base of each club feel the push, and tell the brain how the body is turning. In 1948, the researcher John Pringle showed this by clipping the halteres of flies. The flies could still beat their wings, but they could not fly steadily. They tumbled and lost their direction. Our own semicircular canals do a similar job in a very different way. Both feel the body turn, one with swinging clubs, the other with swirling liquid.",
+   "description": "A fly has only one pair of wings. Where a second pair would be, there are two tiny stalks with a knob at the end. When the fly flies, the halteres beat up and down as fast as the wings, more than a hundred times a second. If the fly's body turns, the swinging clubs are pushed sideways by the turn. Sensors at the base of each club feel the push, and tell the brain how the body is turning. In 1948, the researcher John Pringle published the first detailed study of how halteres work as tiny turning sensors. Flies whose halteres have been removed can still beat their wings, but they cannot fly steadily. They tumble and lose their direction. Our own semicircular canals do a similar job in a very different way. Both feel the body turn, one with swinging clubs, the other with swirling liquid.",
    "examples": [
     "A housefly can dodge a swat in the air, because the halteres tell her brain about each turn.",
     "A mosquito turns sharply to follow a smell, using her halteres to keep steady.",
@@ -411,7 +411,7 @@
   },
   {
    "text": "Flies steer with halteres, and some snakes sense warmth with heat pits.",
-   "evidence": "In 1948, John Pringle clipped the halteres of flies, and the flies could no longer fly steadily. In 1937, Noble and Schmidt covered the pits of rattlesnakes, and the snakes struck warm objects badly."
+   "evidence": "In 1948, John Pringle published the first detailed study of how halteres sense turning, and flies without halteres cannot fly steadily. In 1937, Noble and Schmidt covered the pits of rattlesnakes, and the snakes struck warm objects badly."
   }
  ],
  "challenging": [
@@ -1411,6 +1411,7 @@
    "title": "Under the Spinning Umbrella: does the world turn you?",
    "mins": 15,
    "days": 1,
+   "safety": "A grown-up holds the umbrella and keeps the metal tips away from your child's face and eyes. Turn it slowly. Use a steady chair, away from stairs and sharp corners. Stop at once if your child feels dizzy or sick.",
    "materials": [
     {
      "item": "a large umbrella with a pattern or stripes on the inside, opened fully",

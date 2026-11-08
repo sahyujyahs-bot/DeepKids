@@ -466,7 +466,7 @@
    "On Monday morning, the ferry bumped on the mud again. In exactly the same place.",
    "Anjana sat very still with her paper on her knees. The bump was between the rag at thirty metres and the rag at forty metres. Both of her soundings there said three metres. But there was a gap of ten metres between them, and she had not looked inside it.",
    "\"A hill can hide between two holes,\" she said aloud.",
-   "That evening she rowed out again with her mother. This time she dropped the stone every metre, from thirty metres to forty. Three metres. Three metres. Three metres. One metre. One metre. One metre. One metre. Three metres.",
+   "That evening she rowed out again with her mother. This time she dropped the stone every metre, from thirty metres to forty. Three metres. Three metres. Three metres. One metre. One metre. One metre. One metre. Three metres. Three metres.",
    "She pulled up the rope and held it against the oar. A bar of mud, only four metres wide, lay across the middle of the channel, and the water above it was just one metre deep. The ferry needed a metre and a half.",
    "Mr Thomas came on Tuesday. Anjana showed him the squared paper, with the four small numbers in a row. He knelt on the jetty and looked at it for a long time.",
    "\"My men sounded every fifty metres,\" he said slowly. \"You sounded every ten, and then every one.\"",
@@ -1193,7 +1193,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Round 1. Take the first slip. With the compass point on tower A, draw a light circle with that distance as the radius. Mark with a small x two places on it where the coin could be.",
+     "do": "Round 1. Take the first slip. With the compass point on tower A, draw a light circle with that distance as the radius. Mark with a small x a few places on it where the coin could be.",
      "say": "Put the compass point on tower A. Draw the circle with the distance from the slip. Where could the coin be?",
      "kid": "Draw a circle around A. Where could the coin be?",
      "ask": [
@@ -1436,7 +1436,7 @@
      "do": "Compare. How close was the number of steps you counted to the number you expected? Give two reasons why they might differ. Then ask for the three things: what I think, what I saw and why.",
      "say": "How close were you? What might have made the numbers differ? Tell me three things. What did you find? What did you see? Why?",
      "kid": "Compare the numbers. Why are they different?",
-     "parent": "A good answer: the scale bar is a good guide, and the real walk is within about 10 to 15 per cent of the number worked out. Reasons for a difference: the string does not follow every bend, the screen was small, steps change when you walk faster or slower, and the map shows a road that has turns. If the difference is big, check the measuring of the string.",
+     "parent": "A good answer: the scale bar is a good guide, and the real walk is usually fairly close to the number worked out, often within 10 to 15 per cent, though yours may differ. Reasons for a difference: the string does not follow every bend, the screen was small, steps change when you walk faster or slower, and the map shows a road that has turns. If the difference is big, check the measuring of the string.",
      "check": {
       "t": "mcq",
       "q": "The route measures 6 centimetres on a map where 1 centimetre stands for 50 metres. A child's step is 50 centimetres. About how many steps are expected?",
@@ -1734,6 +1734,7 @@
      "qty": 1
     }
    ],
+   "safety": "Pour the water slowly, work on a tray or a tray-sized towel, and wipe up spills at once so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -2078,7 +2079,7 @@
      "qty": 1
     },
     {
-     "item": "tracing paper or baking paper, enough for 3 pages",
+     "item": "tracing paper or baking paper, enough for 2 pages",
      "qty": 1
     },
     {
@@ -2400,10 +2401,11 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Blindfold a friend or a grown-up. Hide a small object in the room. Let them read the map and walk to find it, while you guide only their hand on the map.",
+     "do": "Blindfold a friend or a grown-up. Hide a small object in the room. Let them read the map and walk to find it, while you guide only their hand on the map. Clear the floor first, and stay close.",
      "say": "Put the scarf over their eyes. They use only the map to find the hidden object. Only move their hand if they ask.",
      "kid": "Blindfold a friend. They find the hidden object by touch.",
      "adult": true,
+     "parent": "Safety: clear the floor of toys, wires and sharp corners, keep away from stairs and doors to the road, and let the blindfolded person lift the scarf at any time. Only a grown-up or an older friend should walk blindfolded.",
      "check": {
       "t": "mcq",
       "q": "Why must the walls of a touch map have the same scale?",
@@ -2998,7 +3000,7 @@
     },
     {
      "t": "draw",
-     "p": "A sea survey must find any feature 2 squares wide on a map of 8 by 8 squares. Mark the squares you would sound to be sure of finding one.",
+     "p": "A sea survey must find any hill that is 2 squares wide and 2 squares long on a map of 8 by 8 squares. Mark the squares you would sound to be sure of finding one.",
      "a": "Sound every second square in every second row, for example B2, B4, B6, B8, D2, D4, D6, D8, F2, F4, F6, F8, H2, H4, H6, H8, so that every 2 by 2 block of squares has a sounding in it.",
      "why": "A strong drawing spaces the soundings so that no feature as wide as the gap can slip between them.",
      "art": "An empty grid of 8 by 8 squares with letters A to H along the top and numbers 1 to 8 down the side."
@@ -3557,7 +3559,7 @@
    "title": "Marie Tharp (Wikipedia)",
    "url": "https://en.wikipedia.org/wiki/Marie_Tharp",
    "kind": "interactive",
-   "why": "For the parent: an article on the geologist who drew the first maps of the ocean floor."
+   "why": "For the parent: an article on the geologist who drew famous maps of the ocean floor."
   }
  ],
  "buy": [
@@ -3632,7 +3634,7 @@
    "a": "Working out what lies between two measurements."
   },
   {
-   "q": "Who drew the first maps of the sea floor?",
+   "q": "Who drew the famous maps that showed mountains and a valley on the sea floor?",
    "a": "Marie Tharp."
   }
  ],
@@ -3712,7 +3714,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Before the 1950s, many scientists pictured the deep sea floor as a flat, empty plain. The only measurements came from ships that sailed in straight lines and timed the echo of sound pulses. Between the lines, nobody knew what lay below. At Columbia University in New York, Marie Tharp, a geologist and mapmaker, was given lines of soundings collected by her colleague Bruce Heezen from ships. Women were not allowed on research ships at that time, so she worked from the numbers on paper. She drew each line as a profile of the sea floor and set the profiles side by side. In 1952 she saw a deep, V-shaped valley running down the middle of a great undersea mountain chain. Heezen at first brushed this aside, calling it 'girl talk', she later recalled. But earthquakes plotted along the same line matched her valley. Their map of the North Atlantic floor was published in 1957.",
+  "story": "Before the 1950s, many scientists pictured the deep sea floor as a flat, empty plain. The only measurements came from ships that sailed in straight lines and timed the echo of sound pulses. Between the lines, nobody knew what lay below. At Columbia University in New York, Marie Tharp, a geologist and mapmaker, was given lines of soundings collected by her colleague Bruce Heezen from ships. She did not go to sea on the ships in those years, so she worked from the numbers on paper. She drew each line as a profile of the sea floor and set the profiles side by side. In 1952 she saw a deep, V-shaped valley running down the middle of a great undersea mountain chain. Heezen at first brushed this aside, calling it 'girl talk', she later recalled. But earthquakes plotted along the same line matched her valley. Their map of the North Atlantic floor was published in 1957.",
   "who": "Marie Tharp, an American geologist and mapmaker, working with Bruce Heezen at Columbia University",
   "when": "1952 for the valley, and 1957 for the first published map",
   "wrong_idea": "Many scientists thought the deep sea floor was a flat plain. Tharp drew the soundings carefully and found a mountain chain with a valley down the middle."
