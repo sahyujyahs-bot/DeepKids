@@ -1,0 +1,3620 @@
+{
+ "id": "sci.materials.magnetic-materials.L4",
+ "title": "Magnetic materials: the magnet that sorts metals, even the ones it does not attract",
+ "level": 4,
+ "summary": {
+  "text": "A magnet ignores an aluminium can lying on a table, because aluminium is not a magnetic material. Yet if you swish a strong magnet quickly past the can, the can rolls after it. Your child maps which parts of kitchen steel stick to a magnet, makes a can follow a magnet, and swings a magnet over four plates to see which one stops it. Then they see how a recycling centre sorts a heap of scrap by using both facts, and why an induction stove only heats some pans.",
+  "art": "An aluminium cold-drink can lying on a table rolling towards a strong magnet that is being swished past it, with a plastic bottle beside it that does not move."
+ },
+ "intro": {
+  "hook": "Hold a magnet against an aluminium cold-drink can. Nothing happens, because aluminium is not magnetic. Now lay the can on its side and swish a strong magnet quickly past it, without touching. The can rolls after the magnet. If the can is not magnetic, what is pushing it?",
+  "text": "In Class 3 you found out that a magnet attracts iron, nickel and cobalt, and that most other materials seem to ignore it. This unit goes one step deeper. You find out that the word 'ignore' was only true for a magnet that sits still. You also look closely at steel, which is not one material but a family, and at how a scrap yard or a recycling centre uses these facts to sort metal at high speed.",
+  "art": "A hand swishing a silver magnet past an aluminium can on a wooden table, with the can starting to roll after it."
+ },
+ "outcomes": [
+  "I can explain that materials answer a magnet in three ways: strong attraction, very weak attraction and very weak repulsion.",
+  "I can map which parts of a steel thing a magnet sticks to, and say why two steel things can answer differently.",
+  "I can show that a moving magnet pushes on a metal such as aluminium or copper, even though a still magnet ignores it.",
+  "I can explain, in simple words, that this push comes from swirling electric currents in the metal, called eddy currents.",
+  "I can say which materials show this push most, and why plastic, wood and glass do not.",
+  "I can describe how a recycling centre sorts scrap with a magnet, an eddy current separator and other steps.",
+  "I can explain why a pan must have a magnetic base to work on an induction stove.",
+  "I can say what a magnet test can and cannot tell us about a material, and why 'magnetic' depends on how we test."
+ ],
+ "cards_mins": 20,
+ "terms": [
+  {
+   "term": "Ferromagnetic material",
+   "meaning": "A material that a still magnet attracts strongly, such as iron, nickel and cobalt. The word comes from the Latin for iron.",
+   "example": "A steel nail is made of a ferromagnetic material.",
+   "art": "A steel nail clinging to a magnet."
+  },
+  {
+   "term": "Paramagnetic material",
+   "meaning": "A material that is attracted extremely weakly by a very strong magnet, so weakly that we cannot feel it. Aluminium is one.",
+   "example": "Aluminium is paramagnetic. A fridge magnet does not move it at all.",
+   "art": "A strong magnet and a tiny arrow pointing from an aluminium block towards it."
+  },
+  {
+   "term": "Diamagnetic material",
+   "meaning": "A material that is pushed away extremely weakly by a very strong magnet. Most materials are, including water, wood, copper and gold.",
+   "example": "A strong lab magnet can lift a drop of water, because water is diamagnetic.",
+   "art": "A drop of water floating above a strong magnet."
+  },
+  {
+   "term": "Eddy current",
+   "meaning": "A swirl of electric current that a moving magnet makes inside a piece of metal. An eddy is a small whirl, like the one at the edge of a river.",
+   "example": "A moving magnet makes eddy currents in an aluminium can.",
+   "art": "Curved arrows swirling in a flat metal plate under a moving magnet."
+  },
+  {
+   "term": "Electromagnetic induction",
+   "meaning": "Making an electric current by moving a magnet near a conductor, or by changing a magnetic field. Michael Faraday found it in 1831.",
+   "example": "A bicycle dynamo lights a lamp by induction.",
+   "art": "A magnet being moved in and out of a coil of wire with a small bulb lighting."
+  },
+  {
+   "term": "Conductor",
+   "meaning": "A material that electricity passes through easily. Metals are conductors. The best are silver, copper, gold and aluminium.",
+   "example": "Copper is used in wires because it conducts well.",
+   "art": "A coil of copper wire beside a plastic-coated cable."
+  },
+  {
+   "term": "Insulator",
+   "meaning": "A material that electricity does not pass through. Plastic, wood, glass and rubber are insulators.",
+   "example": "The plastic around a wire is an insulator.",
+   "art": "A wire with a plastic coating, with an electricity arrow stopped at the plastic."
+  },
+  {
+   "term": "Ferrous metal",
+   "meaning": "A metal that has iron in it, such as steel. A magnet usually attracts a ferrous metal.",
+   "example": "Steel and cast iron are ferrous metals.",
+   "art": "A steel spoon and an iron tawa side by side."
+  },
+  {
+   "term": "Non-ferrous metal",
+   "meaning": "A metal with no iron in it, such as aluminium, copper, brass, gold and silver. A still magnet does not attract it.",
+   "example": "Aluminium, copper and brass are non-ferrous metals.",
+   "art": "An aluminium can, a copper pot and a brass diya in a row."
+  },
+  {
+   "term": "Stainless steel",
+   "meaning": "Steel with chromium mixed in, so that it hardly rusts. There are many kinds. Some stick to a magnet and some do not.",
+   "example": "Many tumblers are stainless steel. Many induction pans are too.",
+   "art": "A steel tumbler and a steel pan base with a magnet touching each."
+  },
+  {
+   "term": "Alloy",
+   "meaning": "A mixture of a metal with other metals or substances, made to do a job better.",
+   "example": "Brass is copper mixed with zinc. Steel is iron mixed with a little carbon.",
+   "art": "Two small heaps of copper and zinc flowing into a brass bell."
+  },
+  {
+   "term": "Cold work",
+   "meaning": "Bending, rolling or hammering a piece of metal without heating it. It can change the metal inside, and sometimes its magnetism.",
+   "example": "The bent neck of a steel spoon can stick to a magnet a little more than its smooth bowl.",
+   "art": "A steel spoon being bent in a vice."
+  },
+  {
+   "term": "Induction stove",
+   "meaning": "A cooker that heats a pan using a changing magnetic field, with no flame and no red-hot ring.",
+   "example": "A steel pan with a magnetic base works on an induction stove. An aluminium pan usually does not.",
+   "art": "A flat glass cooker top with a steel pan on it."
+  },
+  {
+   "term": "Magnetic separator",
+   "meaning": "A strong magnet over a conveyor belt, which lifts out the iron and steel from mixed waste.",
+   "example": "A recycling centre uses a magnetic separator to take steel cans out of a stream of mixed waste.",
+   "art": "A big magnet above a conveyor belt lifting steel cans out of a heap."
+  },
+  {
+   "term": "Eddy current separator",
+   "meaning": "A machine with a fast-spinning drum of magnets, which throws aluminium and other non-ferrous metals off a conveyor belt.",
+   "example": "At a recycling centre, an eddy current separator flings aluminium cans into one bin while plastic falls into another.",
+   "art": "A conveyor belt ending in a spinning magnetic drum, with cans leaping forward into a bin."
+  },
+  {
+   "term": "Metal detector",
+   "meaning": "A device with a coil that makes a changing magnetic field. It finds metal, even non-magnetic metal, by sensing the eddy currents the metal makes.",
+   "example": "An airport arch finds a metal key, whether or not the key is magnetic.",
+   "art": "A person walking through a metal detector arch while a coil in the arch glows."
+  },
+  {
+   "term": "Rust",
+   "meaning": "The brown flaky mixture of iron and oxygen that forms when iron or steel stays damp. Iron in rust is joined with oxygen.",
+   "example": "A nail left in a wet place for weeks is covered in rust.",
+   "art": "A rusty nail beside a clean new nail."
+  },
+  {
+   "term": "Recycling",
+   "meaning": "Collecting used materials and turning them into new things. Metals can be melted and made into new metal again and again.",
+   "example": "Aluminium cans can be melted and made into new cans.",
+   "art": "A heap of crushed cans and a stack of new shiny cans."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Three ways a material answers a magnet",
+   "status": "defined",
+   "definition": "A material can be strongly attracted by a magnet, which is called ferromagnetic. It can be attracted extremely weakly, which is called paramagnetic. Or it can be pushed away extremely weakly, which is called diamagnetic.",
+   "description": "At home you sort materials into two boxes, 'sticks' and 'does not stick'. Scientists find three kinds of answer. Iron, nickel and cobalt are strongly attracted, and we feel it. Aluminium, platinum, magnesium and the oxygen in the air are attracted so weakly that only a very sensitive machine notices. Copper, gold, silver, water, wood and most other things are pushed away just as weakly. In 1845, Michael Faraday used the words paramagnetic and diamagnetic to tell the two weak kinds apart. A fridge magnet cannot show the weak answers. A huge magnet in a laboratory can.",
+   "examples": [
+    "Iron, steel, nickel and cobalt are ferromagnetic, and a still magnet clings to them.",
+    "Aluminium and the oxygen in air are paramagnetic, and are pulled a tiny bit.",
+    "Water, copper, gold, wood and your hand are diamagnetic, and are pushed away a tiny bit."
+   ],
+   "perspectives": [],
+   "art": "Three columns labelled strong pull, very weak pull and very weak push, with an iron nail, an aluminium block and a drop of water below them."
+  },
+  {
+   "concept": "A still magnet ignores aluminium. A moving magnet does not.",
+   "status": "defined",
+   "definition": "A magnet that is moving past a piece of aluminium or copper makes the metal push against it, even though the same magnet held still does nothing.",
+   "description": "Lay an aluminium can on its side and hold a strong magnet still beside it. Nothing happens. Now swish the magnet quickly past the can. The can rolls after the magnet. If you pass the magnet over an aluminium plate, you feel a drag, as if the magnet were moving through thick honey. Slow down, and the drag fades. Stop, and it is gone. So the answer a material gives depends on what the magnet is doing, as well as on what the material is made of. The push has nothing to do with the tiny magnets of iron. It comes from electricity, as the next card explains.",
+   "examples": [
+    "A strong magnet swished past an aluminium can makes the can roll after it.",
+    "A magnet dropped through a thick copper pipe falls much more slowly than through a plastic pipe.",
+    "A magnet pulled quickly across an aluminium plate feels a drag."
+   ],
+   "perspectives": [],
+   "art": "A magnet moving past an aluminium can on a table with a small arrow showing the can following."
+  },
+  {
+   "concept": "Eddy currents: swirls of electricity in metal",
+   "status": "defined",
+   "definition": "A moving magnet makes electric currents in any piece of metal that carries electricity. In a solid plate or can, these currents swirl round in loops, and are called eddy currents.",
+   "description": "In 1831, Michael Faraday found that moving a magnet in and out of a coil of wire makes electricity flow in the wire. This is called induction. A flat plate of metal is like a coil with a huge number of loops, in every direction. When a magnet moves near it, electricity swirls round inside the plate. 'Eddy' means a small whirl, like the one you see in a river behind a rock. In 1855, the French scientist Leon Foucault found that a copper disc spinning between the poles of a strong magnet gets hot. The swirling electricity heats the metal as it flows. The same effect is used in induction stoves.",
+   "examples": [
+    "The eddy currents in a moving aluminium can are made by the magnet that moves past it.",
+    "Foucault's copper disc became hot when it was spun between the poles of a magnet.",
+    "A bicycle dynamo lights a lamp because a moving magnet makes electricity in a coil."
+   ],
+   "perspectives": [],
+   "art": "A flat metal plate with a magnet moving above it and curved arrows swirling inside the plate."
+  },
+  {
+   "concept": "The swirls push back: why the can follows",
+   "status": "defined",
+   "definition": "Eddy currents make a magnetic field of their own. It always pushes against the change that made it. So the metal is dragged along by the moving magnet, and the magnet is slowed by the metal.",
+   "description": "The swirling current in the can is itself an electric current, and an electric current makes a magnetic field. That new field acts on the moving magnet. In 1834, the physicist Heinrich Lenz showed that it always works against the movement that made it. A magnet swishing past a can is pushed back by the can's field, and the can is pulled forward by the magnet's field. That is why the can rolls after the magnet. These two pushes are equal and opposite, as every push and pull is. It is also why a magnet falls slowly through a copper pipe. The pipe's swirls push up against the falling magnet. When the magnet stops moving, the swirls fade away, and the push is gone.",
+   "examples": [
+    "A can follows a fast-moving magnet, and a slow magnet hardly moves it.",
+    "A magnet swinging over an aluminium plate slows down and stops in a few swings.",
+    "A magnet falls slowly in a thick copper pipe, because the pipe pushes up on it."
+   ],
+   "perspectives": [],
+   "art": "A magnet falling through a copper pipe with swirl arrows in the pipe and an upward arrow on the magnet."
+  },
+  {
+   "concept": "Why good conductors show it most",
+   "status": "defined",
+   "definition": "The stronger the eddy currents, the stronger the push. Eddy currents are strongest in metals that carry electricity very well and in thick pieces.",
+   "description": "Silver, copper, gold and aluminium carry electricity better than other metals. Swirls flow easily in them, so a magnet moving near them feels a strong drag. Steel and stainless steel carry electricity less well, so the effect is weaker. Brass is in the middle. Plastic, wood, glass and rubber do not carry electricity at all, so a moving magnet feels nothing. A thick piece gives more room for swirls than a thin one. If you cut slits in a metal plate, the swirls cannot flow round and the drag falls. This is why the effect depends on the material, the shape and the speed.",
+   "examples": [
+    "A thick aluminium plate drags a swinging magnet to a stop much sooner than a thin foil.",
+    "A wooden or plastic board does not drag a magnet at all.",
+    "A copper pipe slows a falling magnet more than a stainless steel pipe does."
+   ],
+   "perspectives": [],
+   "art": "Two metal plates, one solid with big swirls and one with slits and tiny swirls."
+  },
+  {
+   "concept": "How a recycling centre sorts metal",
+   "status": "defined",
+   "definition": "A recycling centre takes iron and steel out of a stream of mixed waste with a magnet. Then it throws out aluminium and other non-ferrous metals with an eddy current separator.",
+   "description": "Mixed waste rides on a conveyor belt. A strong magnet hangs over the belt and lifts out steel cans, nails and lids, because steel is ferromagnetic. The rest rides on to the end of the belt, where a drum of magnets spins very fast inside the belt roller. Aluminium cans are not attracted to magnets. But the quickly changing magnetic field makes eddy currents in them, and these push the cans forward off the belt, like a jump. Plastic and glass fall straight down. So a single belt can sort the waste into three heaps. Blowers, sieves, cameras and human hands do the rest. In India, much of this sorting is done by waste pickers and kabadiwalas. They use their eyes, their hands, the sound of a tap and, sometimes, a magnet.",
+   "examples": [
+    "An overband magnet lifts steel cans off a conveyor belt in a recycling centre.",
+    "An eddy current separator makes aluminium cans leap off the end of a belt.",
+    "A waste picker taps a vessel and listens to the ring to tell brass from steel."
+   ],
+   "perspectives": [],
+   "art": "A conveyor belt with a big magnet above lifting steel cans, and a spinning drum at the end throwing aluminium cans into a separate bin."
+  },
+  {
+   "concept": "Why an induction stove needs a magnetic pan",
+   "status": "defined",
+   "definition": "An induction stove makes a fast-changing magnetic field. In a steel pan with a magnetic base, this field makes strong eddy currents that heat the pan itself. A pan that a magnet does not stick to usually heats badly or not at all.",
+   "description": "There is no flame and no red-hot coil under an induction stove. Under the glass there is a flat coil of wire with a fast-changing electric current in it. It makes a fast-changing magnetic field above the glass. When a pan with a base of magnetic steel sits there, the field makes eddy currents in the base and also keeps flipping its domains back and forth. Both heat the steel, and the steel heats the food. The glass stays cool, apart from heat coming back from the pan. An aluminium pan carries electricity so well that the eddy currents heat it very little. It is also not magnetic. So a pan for an induction stove must have a magnetic steel base. A simple test is to put a magnet on the base. If it sticks firmly, the pan will probably work.",
+   "examples": [
+    "A pan with a base that holds a fridge magnet firmly will usually work on an induction stove.",
+    "An aluminium cooker usually does not work unless it has a steel disc in its base.",
+    "Cast iron and many stainless steel pans work well on induction."
+   ],
+   "perspectives": [],
+   "art": "A glass induction cooker top with a coil drawn under it, a steel pan above and curved field lines passing into the pan."
+  },
+  {
+   "concept": "Same steel, different answers: bending can change magnetism",
+   "status": "defined",
+   "definition": "Stainless steel is a family of mixtures. Some kinds stick to a magnet strongly, some hardly at all. A kind that hardly sticks can stick a little more where it has been bent, rolled or hammered.",
+   "description": "The common stainless steel of tumblers and katoris has chromium and nickel in it. The nickel keeps the iron atoms packed in a pattern in which the tiny magnets do not line up, so a magnet hardly attracts it. But if you bend or roll this steel, some of its atoms are pushed into the other pattern, and there the tiny magnets can line up. That is why a magnet may stick slightly to the rim of a tumbler, the bent neck of a spoon or the folded edge of a sink, but not to the flat wall. Other stainless steels, with less nickel, stick all over, and pans for induction stoves are made from those. Because the mixture and the shaping both matter, you cannot tell a steel from its shine. You have to test the place you care about.",
+   "examples": [
+    "A magnet may cling weakly to the rolled rim of a steel tumbler but not to its smooth wall.",
+    "A steel spoon may stick a little at the bent neck and not at the bowl.",
+    "A pan sold for induction cooking is made so that a magnet sticks firmly to its base."
+   ],
+   "perspectives": [],
+   "art": "A steel tumbler with small dots at the rim and base showing where a magnet sticks, and none on the smooth wall."
+  },
+  {
+   "concept": "Metal detectors find metal that is not magnetic",
+   "status": "defined",
+   "definition": "A metal detector makes a changing magnetic field, which makes eddy currents in nearby metal. The detector senses the field of those currents. So it finds gold, silver, copper and aluminium, even though magnets do not attract them.",
+   "description": "A metal detector's search coil has a changing current in it. That makes a changing magnetic field around the coil. If a coin, a key or a ring is near the coil, the field makes eddy currents in it. The eddy currents make a small magnetic field of their own, which the coil can sense. The detector beeps. No attraction is needed. The airport arch you walk through uses the same idea. A magnet alone would find only iron things. A metal detector finds any metal that carries electricity. Salt water and wet soil also carry electricity, so they can confuse the machine.",
+   "examples": [
+    "A metal detector at an airport finds a brass key and a gold ring.",
+    "A hobbyist with a search coil finds old coins in a field.",
+    "A magnet alone cannot find a coin made of copper."
+   ],
+   "perspectives": [],
+   "art": "A hand holding a metal detector over a coin buried in sand, with field lines and swirl arrows in the coin."
+  },
+  {
+   "concept": "What the magnet sees in rust",
+   "status": "defined",
+   "definition": "Rust is not one substance. It is a mixture of iron joined with oxygen and water. Some forms of it are magnetic and some are almost not.",
+   "description": "When iron stays damp, it slowly changes into rust. The brown flaky outside of a rusty nail is mostly iron joined with oxygen and water, in forms that are only weakly magnetic. But a rusty nail still has a core of iron under the flakes, so a magnet still sticks to the nail. Some forms of iron oxide, such as the black magnetite of lodestone, are strongly magnetic. Rust flakes that have fallen off may stick faintly, or not at all. A magnet is a good tool for finding iron that is still iron. It is a poor tool for finding iron that has turned into rust. So a rusty bridge can still lift a magnet, but the rust itself is mostly a poor answer.",
+   "examples": [
+    "A rusty nail still sticks to a magnet because its core is still iron.",
+    "Brown rust flakes on a plate usually stick faintly or not at all.",
+    "Black magnetite sand sticks strongly to a magnet."
+   ],
+   "perspectives": [],
+   "art": "A rusty nail with a cut-away showing a grey iron core under brown flaky rust."
+  },
+  {
+   "concept": "Magnets on Mars: iron in red dust",
+   "status": "defined",
+   "definition": "Mars is red because its dust is rich in iron joined with oxygen. Landers and rovers on Mars have carried magnets, and the dust that clings to them shows that some of it has magnetic iron minerals.",
+   "description": "Much of the soil in India is red too, from the same cause. Red laterite soil, for example in Kerala and Karnataka, gets its colour from iron oxide. On Mars, the dust is also coloured by iron. The Viking landers of 1976 and later rovers carried small magnets, and the dust that clung to them showed that a part of it is magnetic. This means that even on another planet, a plain magnet and a spoonful of dust can tell us something about the rocks. Scientists think that some of the iron minerals formed when the planet had water. Others may have formed in different ways. The details are still being worked out.",
+   "examples": [
+    "Red laterite soil in Kerala and Karnataka is coloured by iron oxide.",
+    "A magnet on a Mars rover collects magnetic dust.",
+    "Red brick is red because of iron in the clay."
+   ],
+   "perspectives": [],
+   "art": "A rover on a red plain with a small magnet on its arm covered with dark dust."
+  },
+  {
+   "concept": "Is 'magnetic' something a material has, or something we find by testing?",
+   "status": "debated",
+   "definition": "",
+   "description": "In school we say 'iron is magnetic and aluminium is not.' Aluminium answers a still magnet with almost nothing, and a moving magnet with a clear push. So is magnetic a label for the material, or for how the material answers one kind of test? Scientists and thinkers do not all say the same.",
+   "examples": [
+    "Iron is attracted by a still magnet, and aluminium is not, but aluminium is dragged by a moving one.",
+    "A stainless steel tumbler may stick at the rim and not on the wall.",
+    "Iron stops being magnetic when it is red hot, and is magnetic again when it cools."
+   ],
+   "perspectives": [
+    {
+     "who": "Many physicists",
+     "explanation": "Magnetic behaviour comes from the way the electrons are arranged in the atoms of a material. This arrangement is a fact about the material, so 'ferromagnetic' is a real property. The moving magnet effect is a different thing, which belongs to electricity."
+    },
+    {
+     "who": "Engineers and craftspeople",
+     "explanation": "What matters is what the material does in the job. A pan is 'magnetic' enough if it works on an induction stove. A scrap dealer's labels are about what a magnet and a moving magnet do to a heap, so labels belong to the test."
+    },
+    {
+     "who": "Zhuangzi, an ancient Chinese thinker",
+     "explanation": "He said that a road is made by walking on it, and things are so because we call them so. Labels are made by people. They are useful, but they are not the whole of the thing."
+    }
+   ],
+   "art": "An aluminium can answering a still magnet with a blank bubble and a moving magnet with a rolling arrow."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "At room temperature, a still magnet strongly attracts only iron, nickel, cobalt and some mixtures of them.",
+   "evidence": "Thousands of materials have been tested. Everyone who tests kitchen things with a magnet finds the same."
+  },
+  {
+   "text": "A moving magnet makes swirling electric currents in any piece of metal that carries electricity.",
+   "evidence": "Faraday showed it in 1831. Foucault found in 1855 that a copper disc spun between magnet poles gets hot."
+  },
+  {
+   "text": "The swirling currents push against the magnet's motion, which slows a falling magnet and drags a metal can along.",
+   "evidence": "Lenz stated the rule in 1834. A magnet falls slowly in a copper pipe and quickly in a plastic pipe, and anyone can see it."
+  },
+  {
+   "text": "The best conductors, silver, copper, gold and aluminium, show the effect most. Plastic, wood and glass do not show it.",
+   "evidence": "Swing a magnet over plates of different materials and count the swings. The better the conductor, the sooner the magnet stops."
+  },
+  {
+   "text": "Induction stoves heat pans with eddy currents and need a pan with a magnetic base.",
+   "evidence": "Pans that hold a magnet firmly work on induction stoves. Pans that do not usually fail."
+  },
+  {
+   "text": "Stainless steel is a family of mixtures, and a magnet may stick to some kinds and not others, or to some places and not others.",
+   "evidence": "A magnet can be tested on many tumblers, spoons and pans. The results differ, and engineers know the reasons."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Aluminium is not affected by magnets at all.",
+   "who": "Many children, and many grown-ups.",
+   "for": "A fridge magnet does not move or stick to aluminium foil, a can or a cooker.",
+   "against": "A strong moving magnet makes an aluminium can roll and a falling magnet slows down in an aluminium tube. A very strong still magnet also attracts aluminium very faintly. 'Not attracted by a still magnet' is true. 'Not affected' is not.",
+   "status": "rejected"
+  },
+  {
+   "claim": "If a magnet does not stick to a metal, the metal has no iron in it.",
+   "who": "A common idea.",
+   "for": "Pure iron, and most steel, stick to a magnet.",
+   "against": "Common stainless steel is mostly iron, yet a magnet hardly sticks to it, because nickel changes how the atoms are packed. A magnet that does not stick tells you little.",
+   "status": "rejected"
+  },
+  {
+   "claim": "A moving magnet attracts aluminium the way it attracts iron.",
+   "who": "People who see a can roll after a magnet.",
+   "for": "The can moves towards the magnet, as an iron nail would.",
+   "against": "The push exists only while the magnet moves, and a held magnet does nothing. A can also stays behind a slow magnet. The force is a drag from eddy currents, not a pull on tiny magnets.",
+   "status": "rejected"
+  },
+  {
+   "claim": "A recycling centre sorts all its metal with magnets only.",
+   "who": "Some people who have seen a scrapyard magnet.",
+   "for": "Magnets lift steel out of a heap very well.",
+   "against": "A magnet picks only the steel. The aluminium needs a separator that uses the moving-magnet effect. Then plastic, glass and paper need blowers, sieves, cameras or hands.",
+   "status": "rejected"
+  },
+  {
+   "claim": "A metal detector can find only magnetic metals.",
+   "who": "A common idea.",
+   "for": "Magnets find iron, and detectors are a bit like magnets.",
+   "against": "A metal detector finds gold, silver, copper and aluminium too, because it senses the eddy currents they make, not an attraction.",
+   "status": "rejected"
+  },
+  {
+   "claim": "Hand sorting of waste is unskilled work that machines do better.",
+   "who": "Some planners.",
+   "for": "Machines sort quickly and need no break. Pickers face dirt and cuts.",
+   "against": "Waste pickers recognise hundreds of materials by touch, sound and weight, and sort finer than many machines. In several Indian cities, picker cooperatives have been part of the city's waste system. Machines and pickers can work together.",
+   "status": "debated"
+  },
+  {
+   "claim": "Every material is either magnetic or non-magnetic, with nothing in between.",
+   "who": "Most school books.",
+   "for": "It works for a fridge magnet and kitchen things.",
+   "against": "Materials answer in three ways, and the answer can depend on temperature, shaping and whether the magnet moves. Many scientists see a scale, not two boxes.",
+   "status": "debated"
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A still magnet ignores aluminium, and a moving magnet pushes it. Is aluminium magnetic or not?",
+   "kind": "deep",
+   "hint": "Is a word like 'magnetic' about a material, or about a test?"
+  },
+  {
+   "q": "A magnet that is moving makes electricity in a metal that it ignores when it is still. Does it make sense to say what a thing is without saying what is happening to it?",
+   "kind": "deep",
+   "hint": "Think of a person at rest and a person running. Which one is 'really' you?"
+  },
+  {
+   "q": "Iron stops being magnetic when it is red-hot, and aluminium reacts only when the magnet moves. What other labels at home are true only in some conditions?",
+   "kind": "big",
+   "hint": "Think of a hot day, a cold day, a loud room and a quiet room."
+  },
+  {
+   "q": "In 1824, François Arago saw a compass needle turn above a spinning copper disc. Nobody could explain it for years. What should a scientist do with a result that nobody can explain?",
+   "kind": "big",
+   "hint": "Should they ignore it, hide it, or write it down?"
+  },
+  {
+   "q": "In some cities, waste pickers formed cooperatives so that they would be counted and paid fairly. Why do you think the people who sort our rubbish are often the last to be thanked?",
+   "kind": "big",
+   "hint": "Who sees the sorting, and who sees only the clean street?"
+  },
+  {
+   "q": "A magnet falls slowly through a copper pipe without touching it. What other things slow us down without touching us?",
+   "kind": "big",
+   "hint": "Think of the air, water, a crowd and a good mood."
+  },
+  {
+   "q": "Everything responds a little to a magnet, even water. Is there anything in the world that responds to nothing at all?",
+   "kind": "deep",
+   "hint": "What does 'responds' mean, and who decides how weak is too weak?"
+  },
+  {
+   "q": "An induction stove heats the pan, but not the glass or your hand. How can energy cross the air and warm only the pan?",
+   "kind": "deep",
+   "hint": "What does the magnetic field carry? And what does the pan have that glass does not?"
+  },
+  {
+   "q": "A kabadiwala knows a metal by its ring when tapped, and a recycling centre knows it by a magnet and a camera. Who knows the metal better?",
+   "kind": "big",
+   "hint": "What can each way notice that the other cannot?"
+  },
+  {
+   "q": "You learn what a person is like partly by what they ignore and partly by how they respond when things move. Is that true of materials too?",
+   "kind": "deep",
+   "hint": "Is a material's character the same whether it is still or moving?"
+  }
+ ],
+ "story": {
+  "title": "The Cans That Jumped",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "A made-up story. Scrapyards in Madurai and elsewhere do sort steel, aluminium and plastic by hand, and eddy current separators that throw aluminium cans off a conveyor belt are real machines. Ilakkiya, her mother, the yard owner and the technician are made up.",
+  "text": [
+   "At the edge of Madurai, behind a row of tea stalls, there was a scrap yard. It smelled of rust, rubber and old rain. Every morning, Ilakkiya's mother, Pappathi, sat on an upturned crate in front of a mountain of cans and bottles, with her sleeves rolled up. Her fingers were quick. Steel in this heap. Aluminium in that one. Plastic over there.",
+   "Ilakkiya was ten, and she loved the yard. After school she sat on the next crate and helped. She knew by touch which cans were light and which were heavy. She knew that the aluminium ones crumpled easily, and that the steel ones fought back.",
+   "The yard belonged to Mr Chinnasamy. He was proud of his new machine. It was an old crane with a big flat magnet on a chain, bought cheaply from a closing factory. When the crane swung over a heap of mixed rubbish, steel cans and nails jumped up and stuck to the magnet. The workers cheered every time.",
+   "But there was a problem. The magnet took only the steel. The aluminium cans, the plastic, the glass and the rubber all stayed behind in the same heap. And aluminium was the thing the buyers wanted most. A kilogram of aluminium cans paid three times as much as a kilogram of steel. Every day, Pappathi and the others picked the aluminium out by hand from the leftovers. It took hours.",
+   "'A magnet cannot take aluminium,' said Mr Chinnasamy, patting the crane. 'Everyone knows that. It is not magnetic. The magnet does not even see it.'",
+   "Ilakkiya had a strong silver magnet, as wide as a one-rupee coin, from a broken machine. She wore it on a string round her neck, as a toy. One afternoon, bored, she tied it to a longer thread and dangled it over a cola can, to see if anything would happen. Nothing did, of course. The magnet hung still.",
+   "She swung the thread. The magnet swung like a pendulum over the can, and then something odd happened. The can moved. Just a little. It rolled sideways, following the magnet.",
+   "She swung faster. The can rolled further. She tried a plastic bottle. It did not move at all. She tried a steel can, and the magnet snapped onto it with a click. She tried another aluminium can. It rolled, too.",
+   "She tried a still magnet next to the can, holding her breath. Nothing. She tried swinging it again. Roll.",
+   "'Amma, come and see,' she called. 'The aluminium cans move when the magnet moves.'",
+   "Pappathi came over, wiping her hands. She watched Ilakkiya swing the magnet three times. Her eyebrows went up. 'Show Mr Chinnasamy,' she said.",
+   "Mr Chinnasamy laughed. 'Child, aluminium is not magnetic. I have been in this business thirty years.' But Ilakkiya did not argue. She just held out the thread. 'Please, try it, sir. Just once.'",
+   "He took the thread. He swung it over a can, rather stiffly, because grown men do not like to be shown things by children. The can rolled. He swung it again. The can rolled again. He stopped swinging, and the can stopped. He started, and it moved.",
+   "'It is not stuck to the magnet,' said Ilakkiya. 'It only goes when the magnet goes. When the magnet stops, it stops. It is not being pulled like the steel. I think it is being dragged.'",
+   "The next week, a technician came to repair the crane. Her name was Hemalatha, and she wore a blue overall with her name sewn on it. Ilakkiya told her what she had seen. The technician did not laugh. She sat down on a crate and tried it herself. Then she was quiet for a long time.",
+   "'There is a machine for this,' she said at last. 'I have seen one in a big centre in Chennai. It has a drum full of magnets that spins very fast. The cans ride on a belt past the drum. The steel is already gone, so the drum ignores everything but the aluminium. The aluminium gets pushed forward, and jumps off the end of the belt into its own bin. The plastic just drops.'",
+   "'How does it know?' said Ilakkiya.",
+   "'It does not know,' said Hemalatha. 'It only moves the magnets very fast. A moving magnet makes little swirls of electricity inside any metal that carries electricity well. The swirls push back against the magnet. In plastic, there is nothing to swirl.' She smiled. 'You found it yourself, with a toy.'",
+   "It took two months and a lot of arguments, but the yard did build a small version. It was a cycle wheel with magnets stuck round its rim, spun by an old fan motor under the end of the belt. The first day it ran, the steel was already gone. The plastic bottles dropped straight down into a basket. And the aluminium cans leapt off the end of the belt one by one, like frogs, into the bin.",
+   "Pappathi stood watching with her arms folded and her sleeves still rolled up. Then she started to laugh. Mr Chinnasamy handed Ilakkiya the end of the thread. 'Your magnet,' he said. 'I think you should keep it.' And he asked her, quite seriously, whether she had any more ideas about the glass."
+  ],
+  "epiphany": "A still magnet ignores aluminium, because aluminium has no lined-up tiny magnets. But a moving magnet makes swirling electric currents in aluminium, and these push against the magnet and drag the can along. That is why the cans rolled after the swinging magnet, and why a fast-spinning drum of magnets can throw aluminium cans off a belt while the plastic drops straight down.",
+  "ask": [
+   "Why did the aluminium can not move when the magnet was held still, but did when the magnet swung?",
+   "Why did the plastic bottle never move, even when the magnet swung fast?",
+   "In the story, the steel cans were taken out first. Why was that needed before the spinning drum?",
+   "Ilakkiya noticed something that the owner, with thirty years of experience, did not expect. What helped her notice it?",
+   "Mr Chinnasamy did not want to try it at first. Why is it hard to test an idea that goes against what you are sure of?"
+  ],
+  "art": [
+   "A scrap yard in the afternoon with heaps of cans and bottles, a woman sorting on a crate, and a crane with a big flat magnet.",
+   "A girl dangling a small silver magnet on a thread above a cola can, which is rolling towards the magnet.",
+   "A technician in a blue overall and a girl sitting on crates, with a cycle wheel with magnets round its rim.",
+   "A conveyor belt ending in a spinning wheel, with aluminium cans leaping off the end into a bin and plastic bottles dropping into a basket."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Stick, Slow or Skip? The three-answer card game",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a guessing game with three answers. Each card names a thing. You say what a still magnet does to it, and what a fast-moving magnet does to it.",
+   "setup": [
+    {
+     "art": "Twenty-four cards in a pile and twelve tokens in three kinds laid out in front of the players.",
+     "caption": "1. Cut out the cards and the tokens. Shuffle the cards."
+    },
+    {
+     "art": "A reader showing the front of a card with an aluminium cooker and the players holding tokens face down.",
+     "caption": "2. The reader reads a card. Everyone puts a token face down."
+    },
+    {
+     "art": "Players turning over tokens at the same time and the reader turning the card to show the answer.",
+     "caption": "3. Turn the tokens over together. Check the back."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "24 two-sided cards: a thing on the front, STICK, SLOW or SKIP with the reason on the back",
+     "items": [
+      {
+       "f": "A steel nail.",
+       "b": "STICK. Steel is mostly iron, so a still magnet clings to it."
+      },
+      {
+       "f": "A cast iron dosa tawa.",
+       "b": "STICK. Cast iron is iron with some carbon, so a magnet clings to it."
+      },
+      {
+       "f": "The base of a pan made for an induction stove.",
+       "b": "STICK. The base is magnetic steel, which is why the pan heats on an induction stove."
+      },
+      {
+       "f": "A steel almirah door.",
+       "b": "STICK. The door is steel, so a magnet holds on to it."
+      },
+      {
+       "f": "A rusty iron bolt.",
+       "b": "STICK. The core of the bolt is still iron, even under the rust."
+      },
+      {
+       "f": "A steel safety pin.",
+       "b": "STICK. Steel is attracted by a magnet."
+      },
+      {
+       "f": "A bicycle chain.",
+       "b": "STICK. The chain is made of steel."
+      },
+      {
+       "f": "A steel tin from a kitchen shelf.",
+       "b": "STICK. A steel tin is steel with a thin coat of tin on it, and the steel is what the magnet feels."
+      },
+      {
+       "f": "The body of an aluminium pressure cooker.",
+       "b": "SLOW. A still magnet ignores aluminium, but a fast-moving magnet makes swirls of electricity in it and feels a drag."
+      },
+      {
+       "f": "An empty aluminium cold-drink can.",
+       "b": "SLOW. The can ignores a still magnet, but rolls after a fast-moving one."
+      },
+      {
+       "f": "A thick copper water pot.",
+       "b": "SLOW. Copper carries electricity very well, so a moving magnet is dragged strongly."
+      },
+      {
+       "f": "A copper pipe.",
+       "b": "SLOW. A magnet dropped down a thick copper pipe falls slowly."
+      },
+      {
+       "f": "A thick brass temple bell.",
+       "b": "SLOW. Brass is mostly copper, so it also drags a moving magnet, though less than copper does."
+      },
+      {
+       "f": "A thick aluminium tiffin box.",
+       "b": "SLOW. Aluminium carries electricity well, so a moving magnet is slowed above it."
+      },
+      {
+       "f": "A thick aluminium takeaway tray.",
+       "b": "SLOW. A moving magnet is slowed above it, though a still one does nothing."
+      },
+      {
+       "f": "A brass lamp stand with thick walls.",
+       "b": "SLOW. Brass carries electricity well enough to drag a fast magnet."
+      },
+      {
+       "f": "A wooden spoon.",
+       "b": "SKIP. Wood does not carry electricity and has no lined-up tiny magnets, so neither a still nor a moving magnet does anything."
+      },
+      {
+       "f": "A plastic water bottle.",
+       "b": "SKIP. Plastic is an insulator, so there are no swirls, and it is not a magnetic material."
+      },
+      {
+       "f": "A glass tumbler.",
+       "b": "SKIP. Glass does not carry electricity and is not a magnetic material."
+      },
+      {
+       "f": "A clay pot.",
+       "b": "SKIP. Clay is not a conductor and not a magnetic material."
+      },
+      {
+       "f": "A rubber band.",
+       "b": "SKIP. Rubber is an insulator, so a moving magnet does not push it."
+      },
+      {
+       "f": "A paper cup.",
+       "b": "SKIP. Paper is an insulator, and it is not a magnetic material."
+      },
+      {
+       "f": "A cotton shirt.",
+       "b": "SKIP. Cotton does not carry electricity and is not a magnetic material."
+      },
+      {
+       "f": "A cup of tea.",
+       "b": "SKIP. Tea is mostly water. A fast magnet moves it so little that you cannot see it."
+      }
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "12 tokens: four each of STICK, SLOW and SKIP",
+     "items": [
+      "STICK: a still magnet clings to it",
+      "SLOW: a still magnet ignores it, but a fast magnet is dragged",
+      "SKIP: neither a still nor a fast magnet does anything",
+      "STICK: a still magnet clings to it",
+      "SLOW: a still magnet ignores it, but a fast magnet is dragged",
+      "SKIP: neither a still nor a fast magnet does anything",
+      "STICK: a still magnet clings to it",
+      "SLOW: a still magnet ignores it, but a fast magnet is dragged",
+      "SKIP: neither a still nor a fast magnet does anything",
+      "STICK: a still magnet clings to it",
+      "SLOW: a still magnet ignores it, but a fast magnet is dragged",
+      "SKIP: neither a still nor a fast magnet does anything"
+     ]
+    }
+   ],
+   "rules": [
+    "You need the 24 cards and the 12 tokens. Each player takes one STICK, one SLOW and one SKIP token. Shuffle the cards and put them in a pile.",
+    "One player is the reader. The reader takes the top card and reads the front out loud, but does not show the back.",
+    "Every other player puts one token face down. Playing alone? Say your answer out loud, then turn the card over.",
+    "Everyone turns their token over together. The reader turns the card and reads the back out loud.",
+    "A player with the right token wins 1 point. A player with the right token and a good reason wins 2 points.",
+    "A good reason names a magnetic material, or says whether the thing carries electricity well, or says that it is an insulator.",
+    "After each card, the next player becomes the reader. Play 12 cards, or all 24 if you have time. The player with the most points wins. Playing alone, count how many of the first 12 you got right."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Cut out the cards and tokens. Give every player one token of each kind. Explain the three answers using the tokens.",
+     "say": "STICK means a still magnet clings to it. SLOW means a still magnet ignores it, but a fast-moving magnet is dragged. SKIP means nothing happens either way.",
+     "kid": "Cut out the cards and tokens. Take one token of each kind. Learn the three answers.",
+     "context": "This is the first step of Stick, Slow or Skip. You set up the cards and learn the three answers."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Play the first six cards. After each card, read the back aloud. Notice which answers surprise the players.",
+     "say": "The reader reads the front. Everyone puts a token face down. Turn them over together. Who got a point? Who can say why?",
+     "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
+     "parent": "Children usually guess STICK for every metal. Let the card backs correct them. Do not explain before the card is turned.",
+     "context": "In this step you play the first six cards and score your first points."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Play the next six cards. Ask the question below after the last one.",
+     "say": "Look for the pattern now. What do the SLOW things have in common? And the SKIP things?",
+     "kid": "Play six more cards. Look for a pattern in the SLOW cards and the SKIP cards.",
+     "ask": [
+      {
+       "q": "What do the SLOW things have in common?",
+       "good": [
+        "They are metals with no iron in them.",
+        "They carry electricity very well.",
+        "They are aluminium, copper or brass."
+       ]
+      }
+     ],
+     "context": "In this step you play six more cards and look for the pattern."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Play six more cards. Stop at the card with the cup of tea, and ask the check question.",
+     "say": "Tea is mostly water, and water carries a little electricity. But is the effect on a fast magnet large enough to see? Think before you answer.",
+     "kid": "Play six more cards. Think about the cup of tea.",
+     "check": {
+      "t": "mcq",
+      "q": "A fast magnet drags an aluminium can but not a plastic bottle. What is the best reason?",
+      "options": [
+       "The can carries electricity well, so swirls of electricity form in it",
+       "The can is heavier than the bottle",
+       "The can is shinier than the bottle"
+      ],
+      "a": 0,
+      "why": "A moving magnet makes swirling electric currents in a metal that carries electricity well. Plastic is an insulator, so it has none. Picking 'heavier' or 'shinier' is a good guess, but a heavy shiny steel can would be pulled by a still magnet instead."
+     },
+     "context": "In this step you play more cards and check your idea about why the can is dragged."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Add up the points and name the winner. Talk about which card was hardest.",
+     "say": "Who won? Which card fooled you most? What did you think before, and what do you think now?",
+     "kid": "Count your points. Which card fooled you most?",
+     "think": "Aluminium is not magnetic, but it is not ignored either. Is 'not magnetic' a good name for it?",
+     "context": "In this last step you add up the points and talk about the hardest card."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Metal Detective: name the mystery metal with the fewest clues",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a detective game. Each card hides a mystery metal behind five clues. You uncover one clue at a time, and the fewer clues you need, the more points you win.",
+   "setup": [
+    {
+     "art": "Twelve mystery metal cards in a pile with a paper strip lying on one of them to hide the lower clues.",
+     "caption": "1. Shuffle the cards. Cover all the clues with a strip of paper."
+    },
+    {
+     "art": "A reader sliding the strip down to show clue 1 while players write a guess on a score sheet.",
+     "caption": "2. Show clue 1. Players write a guess if they want to."
+    },
+    {
+     "art": "A score sheet with rows for each card and columns for the clue number and points.",
+     "caption": "3. Slide the strip down for each next clue. Write the points on the sheet."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 mystery metal cards: five clues on the front, the answer on the back",
+     "items": [
+      {
+       "f": "CLUE 1: I am a grey metal that turns into brown flakes if I stay wet. CLUE 2: A fridge magnet sticks to me strongly. CLUE 3: I am the main metal in nails, gates and a dosa tawa. CLUE 4: People learned to melt me out of rock long ago, and a whole age is named after me. CLUE 5: Steel is made by mixing a little carbon into me.",
+       "b": "IRON. Iron is the metal at the heart of steel, and it rusts when it stays wet."
+      },
+      {
+       "f": "CLUE 1: I am a light, silver-grey metal. CLUE 2: A still magnet ignores me. CLUE 3: A strong magnet that moves fast past me feels a drag. CLUE 4: I am the metal of foil, many cookers and cold-drink cans. CLUE 5: My ore is called bauxite.",
+       "b": "ALUMINIUM. It is not attracted by a still magnet, but it is dragged by a moving one."
+      },
+      {
+       "f": "CLUE 1: I am reddish-brown when polished and turn green when old and damp. CLUE 2: A still magnet ignores me. CLUE 3: I carry electricity very well, so most wires are made of me. CLUE 4: A strong magnet falls slowly through a pipe made of me. CLUE 5: I am mixed with zinc to make brass.",
+       "b": "COPPER. It is one of the best conductors of electricity, so it drags a moving magnet strongly."
+      },
+      {
+       "f": "CLUE 1: I am yellow like gold, but I am an alloy. CLUE 2: I am made of copper and zinc. CLUE 3: A still magnet does not pull me. CLUE 4: Many temple bells and lamps are made of me. CLUE 5: I turn dark and dull if I am not polished, and tamarind cleans me.",
+       "b": "BRASS. It is copper mixed with zinc, and a still magnet does not attract it."
+      },
+      {
+       "f": "CLUE 1: I am a shiny steel that hardly rusts. CLUE 2: I am mostly iron, with chromium and often nickel mixed in. CLUE 3: A magnet may stick to me or not, depending on the mixture. CLUE 4: Tumblers, katoris and kitchen sinks are often made of me. CLUE 5: I may stick a little more to a magnet where I have been bent.",
+       "b": "STAINLESS STEEL. It is a family of mixtures, so some kinds stick and some do not."
+      },
+      {
+       "f": "CLUE 1: I am a bluish-silver metal. CLUE 2: I coat iron sheets to protect them from rust. CLUE 3: A magnet ignores me, but sticks to the sheet under my coat. CLUE 4: I am mixed with copper to make brass. CLUE 5: The case of an old torch battery is often made of me.",
+       "b": "ZINC. A zinc coat on steel is called galvanising."
+      },
+      {
+       "f": "CLUE 1: I am a soft, silvery metal that hardly rusts. CLUE 2: A magnet ignores me. CLUE 3: A very thin coat of me covers the steel in food tins. CLUE 4: I am mixed with copper to make bronze. CLUE 5: Coating copper vessels with me, called kalai, is an old Indian craft.",
+       "b": "TIN. It is used as a thin coat, because it hardly rusts."
+      },
+      {
+       "f": "CLUE 1: I am very heavy for my size and a dull grey. CLUE 2: I am so soft that a nail can scratch me. CLUE 3: A magnet ignores me. CLUE 4: Because I am poisonous, I have been taken out of paints and petrol in many countries. CLUE 5: Car batteries and X-ray shields use me.",
+       "b": "LEAD. It is dense and soft, and it is not a magnetic material."
+      },
+      {
+       "f": "CLUE 1: I am a yellow metal that never rusts or turns dull. CLUE 2: A magnet does not pull me. CLUE 3: I am so soft that I can be beaten into leaf thinner than paper. CLUE 4: Jewellery in India is often made of me, mixed with other metals to make me harder. CLUE 5: My purity is counted in carats.",
+       "b": "GOLD. It is not attracted by a magnet, so a magnet cannot prove that a ring is gold."
+      },
+      {
+       "f": "CLUE 1: I am a bright white metal that goes dark with time. CLUE 2: A magnet ignores me. CLUE 3: I carry electricity better than any other metal. CLUE 4: Anklets and thali plates are often made of me. CLUE 5: A very thin sheet of me is put on some sweets.",
+       "b": "SILVER. It carries electricity better than any other metal."
+      },
+      {
+       "f": "CLUE 1: I am a hard silvery metal that hardly rusts. CLUE 2: A magnet sticks to me, though less than to iron. CLUE 3: I am one of only three common metals a magnet strongly attracts. CLUE 4: Some stainless steels and coins have me inside. CLUE 5: Rechargeable batteries have used me.",
+       "b": "NICKEL. Iron, nickel and cobalt are the three common magnetic metals."
+      },
+      {
+       "f": "CLUE 1: I am iron with a little carbon in me. CLUE 2: A magnet sticks to me. CLUE 3: Bridges, almirahs, train tracks and nails are made of me. CLUE 4: I am harder and stronger than pure iron. CLUE 5: I rust if I stay wet, unless I am painted or coated.",
+       "b": "STEEL, the ordinary kind. It is iron with a little carbon, so a magnet clings to it."
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "A score sheet with one row for each card, and columns for the card number, the clue number when you guessed, your guess and your points",
+     "items": [
+      "Card number",
+      "Clue number when I guessed",
+      "My guess",
+      "Points (5 for clue 1, 4 for clue 2, 3 for clue 3, 2 for clue 4, 1 for clue 5, 0 for a wrong guess)"
+     ]
+    }
+   ],
+   "rules": [
+    "You need the 12 cards, a strip of paper and a pencil and paper for scores. Shuffle the cards and put them face down.",
+    "One player is the reader. The reader takes a card, covers all the clues with the paper strip and slides it down to show clue 1 only.",
+    "Other players may write a guess any time they like, but each player has one guess for each card. Playing alone, uncover the clues yourself, one at a time.",
+    "A right guess after clue 1 wins 5 points, after clue 2 wins 4 points, after clue 3 wins 3 points, after clue 4 wins 2 points and after clue 5 wins 1 point. A wrong guess wins 0 points.",
+    "When everyone has guessed, or after clue 5, the reader turns the card and reads the answer.",
+    "The next player becomes the reader. Play 6 cards, or all 12 if there is time. The player with the most points wins.",
+    "Playing alone, try to beat your own score the next day."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Cut out the 12 cards. Shuffle them. Find a strip of paper to cover the clues. Draw the score sheet.",
+     "say": "Each card hides a metal. You get five clues, one at a time. The sooner you guess, the more points you win. But a wrong guess wins nothing.",
+     "kid": "Cut out the cards. Cover the clues with a paper strip. Show them one at a time.",
+     "context": "This is the first step of Metal Detective. You set up the cards and the score sheet."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Play one practice card together. Ask the question below after the answer is revealed.",
+     "say": "Here is a practice card. Reveal one clue at a time. Which clue made you most sure?",
+     "kid": "Play a practice card. Which clue made you most sure?",
+     "ask": [
+      {
+       "q": "Which kind of clue helps most to name a metal?",
+       "good": [
+        "What a magnet does to it.",
+        "What it is used for.",
+        "What it is mixed with."
+       ]
+      }
+     ],
+     "context": "In this step you play one practice card and talk about which clues help most."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Play four more cards. Write each guess and its points on the score sheet.",
+     "say": "Reveal the clues one at a time. Do not rush. A right guess early is worth more, but a wrong guess is worth nothing.",
+     "kid": "Play four cards. Write your guess and your points.",
+     "check": {
+      "t": "mcq",
+      "q": "A mystery metal is not attracted by a still magnet. What can you say about it?",
+      "options": [
+       "It is not iron, nickel or cobalt, but it could be many other metals",
+       "It must be gold",
+       "It must be aluminium"
+      ],
+      "a": 0,
+      "why": "A still magnet attracts only iron, nickel, cobalt and a few mixtures. Many metals ignore it, including gold, copper, aluminium and brass. So 'not attracted' only rules out a few."
+     },
+     "context": "In this step you play four cards and check what a magnet clue tells you."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Play the remaining cards. After each one, ask whether the magnet clue or the use clue helped more.",
+     "say": "Which kind of clue helped most this time? A magnet answer, a use, a colour or a mixture?",
+     "kid": "Play the other cards. Which kind of clue helped most?",
+     "context": "In this step you play the remaining cards and think about which clues help most."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Add up the points and name the winner. Then ask each player which metal was hardest to guess.",
+     "say": "Who won? Which metal was hardest to guess, and why?",
+     "kid": "Count your points. Which metal was hardest?",
+     "think": "A detective never trusts a single clue. How many clues did you need before you felt sure?",
+     "context": "In this last step you add up the points and talk about the hardest metal."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Steel Detectives: where does a magnet stick on kitchen steel?",
+   "mins": 35,
+   "days": 1,
+   "question": "Is all the steel in my kitchen the same to a magnet? And is every part of one steel thing the same?",
+   "predict": "Before you start, look at the steel things. Guess a score from 0 to 3 for each spot, and guess which part of a tumbler will hold the magnet best: the rim, the wall or the base. Why do you think so?",
+   "fair_test": "We use the same magnet and press it for the same three seconds at every spot. We score each spot by how firmly the magnet holds, using the same 0 to 3 scale every time. Each spot is tested three times, because one try can be a fluke. Only the thing and the spot change, so any difference comes from the steel.",
+   "results_table": [
+    "Thing and spot",
+    "My guess (0 to 3)",
+    "Try 1",
+    "Try 2",
+    "Try 3",
+    "Middle score"
+   ],
+   "materials": [
+    {
+     "item": "a ceramic or bar magnet, or the strongest magnet you have",
+     "qty": 1,
+     "buy": "b-magnets"
+    },
+    {
+     "item": "2 steel tumblers from different sets, and a steel katori",
+     "qty": 3
+    },
+    {
+     "item": "a steel spoon, and a steel plate or thali",
+     "qty": 2
+    },
+    {
+     "item": "a pan, kadai or pressure cooker with a flat base, steel if possible",
+     "qty": 1
+    },
+    {
+     "item": "the fridge door or an almirah door, and an aluminium vessel or foil, for the top and bottom of the scale",
+     "qty": 2
+    },
+    {
+     "item": "a pencil, a sheet of paper and the results table",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the magnet away from phones, watches and bank cards. Keep magnets away from children under five, who might put them in their mouths. Hold vessels by the sides so nothing slips and drops on a foot.",
+   "record": "Fill in the results table. Then draw a tumbler and a spoon, and write the middle score next to every spot you tested. Colour the spots with a score of 2 or 3.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Fix the scale on the fridge door and an aluminium vessel. Test the tumblers, katori, spoon, plate and pan at several spots. Draw the maps. Say what you think, what you saw and why."
+    }
+   ],
+   "context": "In this experiment, you test steel things in your kitchen with a magnet, spot by spot. You find out if all steel answers the same, and where on one thing the magnet sticks best.",
+   "setup": [
+    {
+     "art": "A magnet pressed on a fridge door next to an aluminium vessel, with labels 3 and 0.",
+     "caption": "1. Set the scale. The fridge door is 3. The aluminium vessel is 0."
+    },
+    {
+     "art": "A steel tumbler held sideways with a magnet touching its rim, its wall and its base in turn.",
+     "caption": "2. Press the magnet on the rim, the wall and the base of a tumbler."
+    },
+    {
+     "art": "A steel spoon with a magnet touching the bowl, the handle and the bent neck.",
+     "caption": "3. Test a spoon at its bowl, handle and bent neck."
+    },
+    {
+     "art": "A pan with a magnet pressed on its flat base.",
+     "caption": "4. Test the base of a pan or cooker."
+    },
+    {
+     "art": "Outline drawings of a tumbler and a spoon with scores written next to the spots.",
+     "caption": "5. Draw each thing and write the score at each spot."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Put the steel things on the table. Ask your child to guess a score from 0 to 3 for each spot. Ask which part of a tumbler will hold the magnet best. Write the guesses in the table.",
+     "say": "All of these are called steel. Will a magnet stick to all of them in the same way? And will it stick to every part of one tumbler? Guess a score for each spot. Why do you think so?",
+     "kid": "All of these are steel. Will the magnet stick to all of them the same? Guess. Why?",
+     "ask": [
+      {
+       "q": "Which part of the tumbler do you think will hold the magnet best?",
+       "good": [
+        "The base, because it is thickest.",
+        "All parts the same, because it is all steel.",
+        "The rim, because it is rolled."
+       ]
+      }
+     ],
+     "parent": "Do not correct any guess. Many children say all steel will stick the same. Write the guesses down to compare later.",
+     "context": "This is the first step of Steel Detectives. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Set the scale. Press the magnet on the fridge door for three seconds, and try to pull it off with a light fingertip. Give it a 3. Do the same on the aluminium vessel, which is a 0. Say what a 1 and a 2 would feel like.",
+     "say": "Zero means nothing happens. One means a tiny tug, and the magnet falls off when you let go. Two means it holds itself on, but a light flick moves it. Three means it holds firmly. The fridge door is a 3 and the aluminium vessel is a 0.",
+     "kid": "Test the fridge door. That is a 3. Test the aluminium. That is a 0. Now you have a scale.",
+     "check": {
+      "t": "mcq",
+      "q": "Why do we test the fridge door and the aluminium vessel before the steel things?",
+      "options": [
+       "To set the top and bottom of our 0 to 3 scale",
+       "Because they are the biggest",
+       "To warm up the magnet"
+      ],
+      "a": 0,
+      "why": "A score means something only if you know what the highest and lowest look like. The fridge door sets the 3 and the aluminium sets the 0. Picking 'warm up the magnet' mixes this up with an engine, and a magnet does not need warming."
+     },
+     "parent": "If your fridge door is stainless and the magnet does not stick, use an almirah or an iron gate for the 3.",
+     "context": "In this step you set the 0 to 3 scale on the fridge door and an aluminium vessel."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Test the first tumbler at three spots: the rim, the middle of the wall and the base. At each spot, press the magnet for three seconds and give a score. Do each spot three times. Write the scores.",
+     "say": "Press the magnet on the rim for three seconds. Try a light pull. Give a score. Then the wall. Then the base. Three times each.",
+     "kid": "Test the rim, the wall and the base. Three times each. Give each a score.",
+     "ask": [
+      {
+       "q": "Is the magnet's grip the same at every spot of the tumbler?",
+       "good": [
+        "No, the rim holds differently from the wall.",
+        "Yes, it is the same steel everywhere.",
+        "The base is different from the wall."
+       ]
+      }
+     ],
+     "parent": "Many tumblers show a clear difference between spots. The rolled rim or the pressed base may stick better than the smooth wall, or the other way round. If your tumbler scores 0 everywhere, that is a real result. Test the second tumbler too.",
+     "context": "In this step you test one tumbler at the rim, the wall and the base."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "Test the second tumbler, the katori and the plate. Test the spoon at its bowl, handle and bent neck. Then test the base of the pan. Press for three seconds at each spot, three times, and give a score. Write all the scores.",
+     "say": "Now test the other steel things. For the spoon, test the bowl, the handle and the bent neck. For the pan, press on the flat base. Give a score each time.",
+     "kid": "Test the second tumbler, the katori, the spoon, the plate and the pan. Give each spot a score.",
+     "check": {
+      "t": "mcq",
+      "q": "A steel spoon sticks weakly at the bent neck and not at the smooth bowl. What is the best explanation?",
+      "options": [
+       "Bending changed the steel inside, so more of its tiny magnets can line up",
+       "The neck is made of a different metal",
+       "The magnet is stronger near the neck"
+      ],
+      "a": 0,
+      "why": "Bending or rolling steel can change how its atoms are packed. In some stainless steels, this makes the bent place a little more magnetic. Picking 'different metal' is a natural guess, but the spoon was made from one piece."
+     },
+     "parent": "Expect some things to score 3, some 0, and some in between. A pan sold for induction cooking should score 2 or 3 on its base. Write exactly what you find, even if it is odd.",
+     "context": "In this step you test the other steel things and score each spot."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Work out the middle score for each spot. Draw the tumbler and the spoon, and write the middle scores next to each spot. Colour in the spots with a 2 or a 3.",
+     "say": "Take the middle score of the three tries for each spot. Draw a tumbler and a spoon. Write the score at each spot, and colour the sticky places.",
+     "kid": "Find the middle score of the three tries. Draw a tumbler and a spoon with the scores. Colour the sticky spots.",
+     "context": "In this step you turn your scores into a map of where the magnet sticks."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer sounds like this. What I think: steel is a family, and a magnet does not stick to every kind or every spot. What I saw: the spoon stuck at its neck and not at its bowl, and the pan base scored 3. Why: steels are different mixtures, and bending changes the steel inside.",
+     "context": "In this last step you say what you think, what you saw and why."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Can That Follows: does a moving magnet push aluminium?",
+   "mins": 35,
+   "days": 1,
+   "question": "A still magnet ignores an aluminium can. Will a magnet swished quickly past it move the can, and what happens with a plastic bottle and a steel can?",
+   "predict": "Before you start, guess. Will the aluminium can move when a strong magnet is held still next to it? Will it move when the magnet is swished past quickly? What about a plastic bottle and a steel can? Why do you think so?",
+   "fair_test": "We use the same strong magnet, held at the same gap of about 1 centimetre, on the same smooth table. We swish the magnet past each thing at a slow speed and at a fast speed, five times each. Only the thing and the speed change, so any difference comes from them. We measure how far each thing rolls, in centimetres.",
+   "results_table": [
+    "Thing",
+    "Still magnet: did it move? (yes or no)",
+    "Slow swish: roll in cm (middle of 5)",
+    "Fast swish: roll in cm (middle of 5)",
+    "What I noticed"
+   ],
+   "materials": [
+    {
+     "item": "a strong magnet, such as a neodymium disc or cube at least 15 mm across",
+     "qty": 1,
+     "buy": "b-neo"
+    },
+    {
+     "item": "an empty, dry aluminium cold-drink can, with the top still on",
+     "qty": 1
+    },
+    {
+     "item": "an empty plastic bottle with its cap on, about the same size",
+     "qty": 1
+    },
+    {
+     "item": "an empty steel food tin with a smooth taped edge, set up by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a smooth, flat table with no steel under it, and a tape measure",
+     "qty": 1
+    },
+    {
+     "item": "a thin cloth or tape to wrap the magnet, and a pencil and the results table",
+     "qty": 1
+    }
+   ],
+   "safety": "Strong magnets can pinch skin and chip if they snap together or onto steel. Wrap the magnet in cloth and keep it from the steel tin. Keep strong magnets away from children under five, phones, watches and bank cards. A grown-up must remove the lid of the steel tin with a smooth-edge opener, and cover the rim with tape.",
+   "record": "Fill in the table. Draw the three things in a row, and draw an arrow for how far each rolled after a fast swish.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Set up the lane. Test a still magnet on each thing. Swish slowly and fast five times each. Compare the three things. Say what you think, what you saw and why."
+    }
+   ],
+   "context": "In this experiment, you swish a strong magnet past an aluminium can, a plastic bottle and a steel tin. You find out which ones move, and when.",
+   "setup": [
+    {
+     "art": "A smooth table with a taped start line, a tape measure laid beside it and an aluminium can lying on its side.",
+     "caption": "1. Mark a start line. Lay the can on its side on the line."
+    },
+    {
+     "art": "A hand holding a magnet still 1 centimetre from the can, with nothing happening.",
+     "caption": "2. Hold the magnet still next to the can for 10 seconds."
+    },
+    {
+     "art": "A hand swishing the magnet quickly past the can, and the can rolling after it.",
+     "caption": "3. Swish the magnet quickly past the can. Measure how far it rolls."
+    },
+    {
+     "art": "A plastic bottle lying still and a steel tin leaping towards a still magnet.",
+     "caption": "4. Try the plastic bottle and the steel tin in the same way."
+    },
+    {
+     "art": "A bar chart of roll distances for the can, the bottle and the tin.",
+     "caption": "5. Draw a bar for each thing, as long as its fast roll."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Show your child the three things and the magnet. Ask for a guess for each thing and each way of using the magnet, and a reason. Write the guesses at the top of the table.",
+     "say": "Here is a strong magnet, an aluminium can, a plastic bottle and a steel tin. What will the magnet do to each when I hold it still? What about when I swish it quickly past? Why do you think so?",
+     "kid": "A strong magnet. Three things. What will happen if the magnet is still? What if it moves fast? Why?",
+     "ask": [
+      {
+       "q": "Do you think the aluminium can will move towards the magnet?",
+       "good": [
+        "No, aluminium is not magnetic.",
+        "Yes, because it is a metal.",
+        "Only when the magnet moves."
+       ]
+      }
+     ],
+     "parent": "Do not correct any guess. Most children say the can will stay still, and some say it will move because it is metal. Write the guesses down.",
+     "context": "This is the first step of the Can That Follows. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Wrap the magnet in thin cloth or tape. Tape a start line on the table and lay the can on its side on the line. Check the table is flat by seeing if the can stays still by itself.",
+     "say": "We need a flat, smooth table. Lay the can on its side. If it rolls by itself, move to a flatter place. A can that sits still means our test is fair.",
+     "kid": "Tape a start line. Lay the can on its side. Does it stay still by itself?",
+     "adult": true,
+     "parent": "Keep the table away from steel legs, a steel sink or a gas cylinder, which can pull on a strong magnet. If the can drifts, put a thin cloth under it.",
+     "context": "In this step you set up a flat lane and check the can stays still."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Hold the magnet still 1 centimetre from the side of the can, for 10 seconds. Does the can move? Write yes or no. Do the same for the plastic bottle and the steel tin.",
+     "say": "Hold the magnet still, about a centimetre from the can. Wait ten seconds. Does it move? Now the bottle. Now the tin.",
+     "kid": "Hold the magnet still next to the can. Count to ten. Does it move?",
+     "parent": "The steel tin will roll towards the still magnet. The aluminium can and the plastic bottle should not move. Be ready to hold the magnet back so it does not snap onto the tin.",
+     "context": "In this step you hold the magnet still next to each thing and see which one moves."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Lay the aluminium can on its start line. Swish the magnet slowly past it at about 1 centimetre away, five times. Measure the roll each time. Then swish it fast, five times. Take the middle roll for each speed.",
+     "say": "Now swish the magnet past the can, slowly, without touching. Measure how far the can rolls. Then swish it fast. Which speed makes the can roll further?",
+     "kid": "Swish the magnet past the can slowly. Measure the roll. Now swish fast. Measure again.",
+     "check": {
+      "t": "mcq",
+      "q": "The aluminium can ignores a still magnet but rolls after a fast one. What is the best explanation?",
+      "options": [
+       "The moving magnet makes swirls of electric current in the can, and these push against the magnet",
+       "The can has become a magnet like iron",
+       "The can is attracted by the air from the swish"
+      ],
+      "a": 0,
+      "why": "A moving magnet makes eddy currents in a metal that carries electricity. These make their own magnetic field and drag the can along. Picking 'has become a magnet like iron' is wrong because a still magnet does nothing to the can. Picking 'the air' can be tested with a plastic bottle, which does not move."
+     },
+     "parent": "A strong magnet swished at about 1 cm should make the can roll a few centimetres or more. A weak or slow magnet may only make the can wobble. If nothing moves, make the swish faster and the gap smaller, and write that down too.",
+     "context": "In this step you swish the magnet past the aluminium can slowly and fast, and measure the roll."
+    },
+    {
+     "id": "s5",
+     "mins": 8,
+     "do": "Swish the magnet past the plastic bottle slowly and fast, five times each, and write the rolls. Then do the same for the steel tin, keeping the magnet from touching it.",
+     "say": "Now the plastic bottle, which is not a conductor. Does it move? And the steel tin. What is different about how it moves?",
+     "kid": "Swish the magnet past the plastic bottle. Does it move? Now the steel tin. What is different?",
+     "ask": [
+      {
+       "q": "How is the steel tin different from the aluminium can?",
+       "good": [
+        "The tin moves towards a still magnet, and the can does not.",
+        "The tin sticks, and the can only follows when the magnet moves.",
+        "The tin is magnetic and the can is not."
+       ]
+      }
+     ],
+     "parent": "The plastic bottle should not move at all. The steel tin is attracted even by a still magnet, so it rolls towards it whatever the speed. Keep the magnet from snapping onto the tin.",
+     "context": "In this step you test the plastic bottle and the steel tin, as controls."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then draw the bars.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer sounds like this. What I think: a moving magnet pushes an aluminium can, though a still magnet does not. What I saw: the can rolled after a fast swish, the bottle did not, and the tin stuck to a still magnet. Why: a moving magnet makes swirling currents in the can, and the currents push back.",
+     "context": "In this last step you say what you think, what you saw and why."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "The Pendulum That Stops: swing a magnet over four plates",
+   "mins": 30,
+   "days": 1,
+   "question": "A magnet swings on a thread over a wooden board, a plastic tray, an aluminium plate and a stainless steel plate. Over which will it stop soonest?",
+   "predict": "Before you start, line up the four plates from the one you think will stop the magnet soonest to the one that will stop it last. Why do you think so?",
+   "fair_test": "We use the same magnet, the same thread and the same starting push each time. We keep the same small gap of about 2 millimetres between the magnet and the plate, by raising each plate on books. We count the swings until the magnet stops, three times for each plate. Only the plate changes, so any difference comes from the plate.",
+   "results_table": [
+    "Plate",
+    "Swings try 1",
+    "Swings try 2",
+    "Swings try 3",
+    "Middle value"
+   ],
+   "materials": [
+    {
+     "item": "a strong magnet, such as a neodymium disc or cube",
+     "qty": 1,
+     "buy": "b-neo"
+    },
+    {
+     "item": "40 centimetres of thread, and tape",
+     "qty": 1
+    },
+    {
+     "item": "a pencil, taped across the table edge to hold the thread",
+     "qty": 1
+    },
+    {
+     "item": "a wooden chopping board and a plastic tray, as flat as you can find",
+     "qty": 2
+    },
+    {
+     "item": "an aluminium plate or the thickest aluminium vessel you have, laid flat",
+     "qty": 1
+    },
+    {
+     "item": "a stainless steel plate or thali that a magnet does not stick to, and some books to raise the plates",
+     "qty": 2
+    }
+   ],
+   "safety": "Strong magnets can chip or snap onto steel. Wrap the magnet in tape and do not let it hit the plates hard. Keep magnets away from children under five, phones and bank cards. If a magnet sticks to the steel plate, do not use that plate.",
+   "record": "Fill in the table. Then draw a bar for each plate, as tall as its middle number of swings.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Build the pendulum. Count swings with no plate, and over each of the four plates, three times each. Draw the bars. Say what you think, what you saw and why."
+    }
+   ],
+   "context": "In this experiment, you swing a magnet on a thread over four different plates. You count how many swings it takes to stop, and find out which plates slow it most.",
+   "setup": [
+    {
+     "art": "A pencil taped over a table edge, a thread hanging from it and a magnet taped to the end of the thread.",
+     "caption": "1. Hang the magnet from the pencil on a 40 cm thread."
+    },
+    {
+     "art": "A wooden board raised on books, with the magnet hanging 2 millimetres above it.",
+     "caption": "2. Raise the board on books until the magnet just clears it."
+    },
+    {
+     "art": "The magnet pulled 5 centimetres to one side, ready to be released over the board.",
+     "caption": "3. Pull the magnet 5 cm to the side and let go. Count the swings."
+    },
+    {
+     "art": "A bar chart with four bars for the wooden board, the plastic tray, the aluminium plate and the steel plate.",
+     "caption": "4. Draw a bar for each plate."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Show your child the plates and the magnet. Ask them to put the plates in order from stops the magnet soonest to stops it last, and to give a reason. Write the order down.",
+     "say": "We will swing a magnet over four plates. Which plate do you think will stop it soonest? Which will stop it last? Why do you think so?",
+     "kid": "A magnet swings over four plates. Which stops it soonest? Which last? Why?",
+     "ask": [
+      {
+       "q": "Why do you think that plate will stop the magnet soonest?",
+       "good": [
+        "It is a metal.",
+        "It is the heaviest.",
+        "It is the roughest."
+       ]
+      }
+     ],
+     "parent": "Do not correct the order. Children often say the steel plate, because steel is the metal a magnet clings to. Write the order to compare later.",
+     "context": "This is the first step of the Pendulum That Stops. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Tape the pencil across the table edge. Tie the thread to the pencil and tape the magnet to the other end, with a flat face pointing down. Raise the first plate on books until the magnet hangs about 2 millimetres above it.",
+     "say": "Hang the magnet from the pencil. Raise the plate on books until the magnet nearly touches it. We want the same small gap for every plate.",
+     "kid": "Hang the magnet on a thread. Raise the plate on books. The magnet should nearly touch it.",
+     "adult": true,
+     "parent": "Keep the table away from steel. A gap of about 2 millimetres is the thickness of two coins stacked. Re-check the gap for each plate.",
+     "context": "In this step you build the pendulum and set the gap above the plate."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "First, swing the magnet with no plate under it. Pull it 5 cm to one side, let go, and count the swings until it stops or until you reach 30. Do it three times.",
+     "say": "First we need a baseline. Swing the magnet with no plate at all. How many swings does it make before it stops by itself?",
+     "kid": "Swing the magnet with no plate. Count the swings. Stop at 30.",
+     "check": {
+      "t": "mcq",
+      "q": "Why do we swing the magnet with no plate first?",
+      "options": [
+       "To see how long it swings when nothing is under it, so we can compare",
+       "To warm up the thread",
+       "To make the magnet stronger"
+      ],
+      "a": 0,
+      "why": "A baseline shows how many swings the magnet makes by itself, because air and the thread also slow it. Without it, you could not tell how much of the slowing comes from the plate. Picking 'warm up' mixes the test up with a sports warm-up."
+     },
+     "context": "In this step you swing the magnet with no plate, as a baseline."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Put the wooden board under the magnet. Pull the magnet 5 cm aside, let go and count the swings until it stops. Do it three times. Then do the same for the plastic tray, the aluminium plate and the steel plate. Write all the counts.",
+     "say": "Now the wooden board. Count the swings, three times. Then the plastic tray. Then the aluminium plate. Then the steel plate. Keep the gap the same.",
+     "kid": "Swing the magnet over each plate. Count the swings. Do it three times each.",
+     "ask": [
+      {
+       "q": "Which plate stopped the magnet soonest?",
+       "good": [
+        "The aluminium plate.",
+        "The steel plate.",
+        "The plate that is a metal."
+       ]
+      }
+     ],
+     "parent": "Expect the wooden board and plastic tray to give about the same count as no plate. The aluminium plate should stop the magnet in only a few swings. The stainless steel plate may give a smaller effect than aluminium. If a count is odd, repeat it and write both.",
+     "context": "In this step you swing the magnet over each plate and count the swings."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "Take the middle count for each plate. Draw one bar for each plate, as tall as its middle count.",
+     "say": "Take the middle of your three counts. Draw a bar for each plate. The shorter the bar, the sooner the plate stopped the magnet.",
+     "kid": "Find the middle count for each plate. Draw a bar for each. A short bar means a good stopper.",
+     "context": "In this step you turn your counts into a bar chart."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "A good answer sounds like this. What I think: metals that carry electricity well stop a swinging magnet. What I saw: the aluminium plate stopped it in a few swings, and the wood and plastic did not. Why: the moving magnet made swirling currents in the aluminium, and those pushed back.",
+     "context": "In this last step you say what you think, what you saw and why."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Will It Work on an Induction Stove? Test with a magnet",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a magnet that is firm enough to hold on a fridge door",
+     "qty": 1,
+     "buy": "b-magnets"
+    },
+    {
+     "item": "6 or more pans and vessels from the kitchen: a steel pan, an aluminium kadai, a cast iron tawa, a pressure cooker, a steel tumbler and a glass or clay dish",
+     "qty": 6
+    },
+    {
+     "item": "a sheet of paper with three boxes drawn on it: sticks firmly, sticks weakly, does not stick",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Guess which vessels would work on an induction stove. Press the magnet on the base of each. Sort the vessels into three boxes."
+    }
+   ],
+   "record": "The sheet with three boxes, and the name of every vessel in one of the boxes. A star next to the ones you guessed wrongly.",
+   "context": "In this short activity, you use a magnet to guess which of your vessels would work on an induction stove. You do not need an induction stove, and you do not use any heat.",
+   "setup": [
+    {
+     "art": "Six vessels in a row on a kitchen counter, with a magnet beside them and a sheet of paper with three boxes.",
+     "caption": "1. Put the vessels in a row. Draw three boxes on a sheet."
+    },
+    {
+     "art": "A hand pressing a magnet on the flat base of a pan turned upside down.",
+     "caption": "2. Turn each vessel over. Press the magnet on its base."
+    },
+    {
+     "art": "Vessels placed into three boxes according to how firmly the magnet held.",
+     "caption": "3. Put each vessel in a box: sticks firmly, sticks weakly, or does not stick."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Put the vessels on the counter. Ask your child to guess which ones would heat on an induction stove, and why. Write the guesses on the sheet.",
+     "say": "An induction stove heats a pan using magnets and electricity, with no flame. Which of these vessels do you think would work on it? Why do you think so?",
+     "kid": "Which vessels would heat on an induction stove? Guess. Why?",
+     "ask": [
+      {
+       "q": "Which vessel do you think will work best on an induction stove?",
+       "good": [
+        "The steel pan, because it is steel.",
+        "The aluminium kadai, because it is a metal.",
+        "The cast iron tawa, because it is iron."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guesses. Do not use the stove for this activity. A magnet gives a rough guide only, and the maker's instructions are the final word.",
+     "context": "This is the first step of the induction test. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Turn each vessel over. Press the magnet on the flat part of its base for three seconds. Try a light pull. Write whether it sticks firmly, weakly or not at all.",
+     "say": "Turn each vessel over. Press the magnet on the flat base for three seconds. Does it hold firmly? Or only a little? Or not at all?",
+     "kid": "Turn the vessel over. Press the magnet on the base. Does it stick?",
+     "check": {
+      "t": "mcq",
+      "q": "A magnet sticks firmly to the base of a pan. What does this say about using it on an induction stove?",
+      "options": [
+       "The pan will probably heat well, because its base is magnetic steel",
+       "The pan will not work",
+       "The pan will melt"
+      ],
+      "a": 0,
+      "why": "An induction stove heats a pan with a magnetic base well. A pan that holds a magnet firmly usually works. Picking 'melt' mixes up the stove with a flame, and there is no flame."
+     },
+     "context": "In this step you press the magnet on the base of each vessel."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Sort the vessels into the three boxes. Mark a star next to every vessel that did not match your guess.",
+     "say": "Which vessels went into each box? Were any of your guesses wrong? Which one surprised you?",
+     "kid": "Sort the vessels into three boxes. Which one surprised you?",
+     "ask": [
+      {
+       "q": "Which vessel surprised you most?",
+       "good": [
+        "The steel tumbler, because it did not stick.",
+        "The aluminium kadai, because it did not stick.",
+        "The pressure cooker, because the base was different from the sides."
+       ]
+      }
+     ],
+     "parent": "Aluminium and copper should not stick. A cast iron tawa should hold firmly. Stainless steel varies. Pans made for induction cooking usually hold a magnet firmly on the base. A vessel might stick on the sides and not on the base, or the other way round.",
+     "context": "In this step you sort the vessels into three boxes."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Ask your child to say one sentence about what the magnet can and cannot tell you about a vessel.",
+     "say": "A magnet test is a quick guide. What can it tell us about a pan? And what can it not tell us?",
+     "kid": "What can the magnet tell you about a pan? What can it not tell you?",
+     "think": "A magnet that sticks says the base is magnetic steel. A magnet that does not stick does not say what the vessel is made of. Why not?",
+     "context": "In this last step you think about what the magnet test can and cannot tell you."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Ask a Kabadiwala or Waste Picker: how do you tell metals apart?",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a grown-up to go with your child",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil, with five questions written in it",
+     "qty": 1
+    },
+    {
+     "item": "a magnet in a plastic bag",
+     "qty": 1,
+     "buy": "b-magnets"
+    },
+    {
+     "item": "a small bag of four test things: a steel spoon, an aluminium foil ball, a brass key and a copper wire",
+     "qty": 4
+    },
+    {
+     "item": "soap and water, for washing hands afterwards",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Write five questions. Visit a kabadiwala, a scrap dealer or a waste picker with a grown-up. Listen. Write down how they tell metals apart. Compare with what you know."
+    }
+   ],
+   "record": "The notebook with the five questions and the answers, and one drawing of a way of telling metals apart that you did not know before.",
+   "context": "In this activity, you ask someone who sorts metal for a living how they tell iron, aluminium, brass and copper apart. You compare their ways with the magnet tests in this unit.",
+   "setup": [
+    {
+     "art": "A child with a notebook asking questions to a scrap dealer at a shop with heaps of metal.",
+     "caption": "1. Ask your five questions politely. Listen to the answers."
+    },
+    {
+     "art": "A scrap dealer tapping a brass vessel and listening to the ring while a child watches.",
+     "caption": "2. Watch how they tell metals apart: by sound, weight, colour or a magnet."
+    },
+    {
+     "art": "A page in a notebook with drawings of a magnet, a tapping hand and a hand weighing a piece of metal.",
+     "caption": "3. Draw the ways of telling metals apart that you learned."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Ask your child to write five questions for a metal sorter. Help with ideas. How do you tell iron from aluminium? How do you tell brass from copper? Which metal is worth most? What do you do with a magnet?",
+     "say": "People who sort metal every day know many things we do not. What would you like to ask them? Write five questions.",
+     "kid": "Write five questions for a metal sorter. How do they tell metals apart?",
+     "ask": [
+      {
+       "q": "What do you think a sorter does to tell iron from aluminium?",
+       "good": [
+        "Uses a magnet.",
+        "Lifts the piece, because aluminium is lighter.",
+        "Taps it and listens."
+       ]
+      }
+     ],
+     "parent": "Choose a kabadiwala, scrap dealer or waste picker your family already knows or can reach safely, and go with your child. Ask permission before you ask questions or take notes. Do not take photographs without asking.",
+     "adult": true,
+     "context": "This is the first step of the metal sorter interview. You write your questions."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Visit the sorter with your child. Be polite and listen. Ask the five questions, and write down the answers. If they agree, ask them to sort your four test things and say how they know.",
+     "say": "Thank you for talking to us. We are learning about metals and magnets. How do you tell different metals apart? Could you show us with these four things?",
+     "kid": "Ask your questions politely. Listen carefully. Write the answers.",
+     "adult": true,
+     "parent": "Stay by your child. Do not touch sharp or dirty scrap. Treat the person as an expert, because they are. Offer a small thanks, such as chai or a few rupees for their time, if appropriate. If they say no, that is fine.",
+     "context": "In this step you visit a metal sorter and ask your questions."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "At home, wash hands. Compare what the sorter said with the unit. Which of their ways use a magnet? Which use sound, weight or colour? Which ways did they know that we did not?",
+     "say": "What did they say that you did not know? Which of their ways match what we learned about magnets? Which are completely different?",
+     "kid": "What did the sorter tell you? Which ways use a magnet? Which do not?",
+     "check": {
+      "t": "mcq",
+      "q": "A sorter says, 'I tap it. Brass rings long and warm, and steel rings short and dull.' Is this a good way to tell them apart?",
+      "options": [
+       "Yes, because different metals ring differently, and a trained ear can hear it",
+       "No, because only magnets can tell metals apart",
+       "No, because sound has nothing to do with metal"
+      ],
+      "a": 0,
+      "why": "Different metals and shapes ring differently when tapped. People who handle metal every day learn to hear the difference. A magnet is one way, and sound is another. Picking 'only magnets' is the idea that a magnet is the one true test."
+     },
+     "context": "In this step you compare the sorter's ways with the magnet tests in this unit."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Draw one way of telling metals apart that you did not know before. Write one sentence under it.",
+     "say": "Draw the new way you learned. Write one sentence about it.",
+     "kid": "Draw a new way you learned. Write one sentence.",
+     "think": "A sorter and a recycling centre both sort metal. What can the sorter do that the machine cannot?",
+     "context": "In this last step you draw the new way you learned."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Three Columns: sort the world by how it answers a magnet",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "20 small cards, cut from paper, for the things below",
+     "qty": 20
+    },
+    {
+     "item": "a big sheet of paper with three columns drawn on it",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and a ruler",
+     "qty": 1
+    },
+    {
+     "item": "scissors, used by a grown-up for the cards",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Write 20 cards. Guess the column for each. Check with the key. Talk about the surprises."
+    }
+   ],
+   "record": "The big sheet with three columns and all 20 cards laid out, and a ring around the cards you got wrong.",
+   "context": "In this activity, you sort twenty things into three columns by how a very strong magnet would answer them: strongly attracted, very weakly attracted, or very weakly pushed away.",
+   "setup": [
+    {
+     "art": "A big sheet of paper with three columns marked strong pull, tiny pull and tiny push.",
+     "caption": "1. Draw three columns on a big sheet."
+    },
+    {
+     "art": "Twenty small cards with names of materials written on them, in a heap.",
+     "caption": "2. Write the name of a thing on each card."
+    },
+    {
+     "art": "Cards laid out in the three columns with some rings drawn around those that moved.",
+     "caption": "3. Put each card in a column. Check with the key."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Write twenty things on cards. Use iron, nickel, cobalt, a steel nail, aluminium, magnesium, platinum, the oxygen in the air and titanium. Add copper, gold, silver, water, wood, glass, a diamond, lead, zinc, bismuth and your own hand.",
+     "say": "A very strong magnet pulls a few of these a lot. It pulls some a tiny bit, and pushes the rest a tiny bit. Write each name on a card. Then guess which column each belongs in.",
+     "kid": "Write the twenty names on cards. Guess where each one goes.",
+     "parent": "Bismuth is a brittle silvery metal, and the strongest of the pushed-away materials. The oxygen in the air is pulled a tiny bit. Everything else in the list is described in the key at the end.",
+     "context": "This is the first step of Three Columns. You write the cards."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Lay the cards in the three columns by guessing. Say a reason out loud for each guess.",
+     "say": "Put each card where you think it belongs. Say your reason. Do not worry about being wrong. We check in a minute.",
+     "kid": "Put each card in a column. Say why.",
+     "ask": [
+      {
+       "q": "Which things do you think are pulled strongly by a magnet?",
+       "good": [
+        "Iron and steel.",
+        "Nickel and cobalt.",
+        "All the metals."
+       ]
+      }
+     ],
+     "context": "In this step you guess the column for each card."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Read out the key. Strong pull: iron, nickel, cobalt, a steel nail. Tiny pull: aluminium, magnesium, platinum, titanium and the oxygen in the air. Tiny push: copper, gold, silver, water, wood, glass, a diamond, lead, zinc, bismuth and your own hand. Move the cards that were wrong.",
+     "say": "Here is what scientists have measured. Move any card that is in the wrong column. How many of your guesses were right?",
+     "kid": "Move any card that is wrong. How many were right?",
+     "check": {
+      "t": "mcq",
+      "q": "Which column holds most of the things in your kitchen, including your own hand?",
+      "options": [
+       "Very weakly pushed away",
+       "Strongly pulled",
+       "Very weakly pulled"
+      ],
+      "a": 0,
+      "why": "Most materials, including water, wood, copper and your own body, are pushed away extremely weakly by a magnet. Picking 'strongly pulled' reflects the idea that all metals are magnetic."
+     },
+     "context": "In this step you check your guesses against the key and move the cards."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Ask your child which cards surprised them most, and why. Then ask whether there is a card in the 'tiny push' column that is also a metal. Count how many of the metals are in each column.",
+     "say": "Which card surprised you most? How many metals are in the tiny push column? Can a metal be pushed away by a magnet?",
+     "kid": "Which card surprised you most? Are there metals in the tiny push column?",
+     "think": "A fridge magnet cannot show the tiny pulls and pushes. A huge magnet can. So are they there when nobody measures them?",
+     "context": "In this last step you talk about which cards surprised you."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Plan a Sorting Line on Paper",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a big sheet of paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "8 small cards for the heap: a steel can, an aluminium can, a plastic bottle, a glass jar, a brass key, a sheet of paper, a rubber slipper and a copper wire",
+     "qty": 8
+    },
+    {
+     "item": "4 cards for the machines: Magnet, Spinning Magnet Drum, Air Blower and Hands",
+     "qty": 4
+    },
+    {
+     "item": "a ruler and coloured pencils",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Draw a conveyor belt. Decide the order of the four machines. Run the eight cards through your line. Explain your design."
+    }
+   ],
+   "record": "The drawing of your sorting line, with the four machines in order, and a list of what ended up in each bin.",
+   "context": "In this activity, you plan the order of the machines in a recycling centre on paper. You use what a magnet and a spinning magnet drum do to sort a heap of mixed waste.",
+   "setup": [
+    {
+     "art": "A long drawn conveyor belt on a big sheet with a heap of mixed waste at the start.",
+     "caption": "1. Draw a conveyor belt with a heap at the start."
+    },
+    {
+     "art": "Four machine cards placed along the belt in a chosen order.",
+     "caption": "2. Place the four machine cards along the belt."
+    },
+    {
+     "art": "Eight waste cards moved along the belt and into bins at the end.",
+     "caption": "3. Run each card through the line. Which bin does it end up in?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Lay out the eight waste cards and the four machine cards. Explain what each machine does. The Magnet lifts steel. The Spinning Magnet Drum throws aluminium, brass and copper off the belt. The Air Blower lifts light paper and film. Hands pick everything else.",
+     "say": "A recycling centre has four stations. The Magnet lifts steel. The Spinning Drum throws off aluminium, brass and copper. The Blower lifts light paper. Hands pick the rest. In what order would you put them?",
+     "kid": "Four machines. Which comes first? Which comes last? Guess.",
+     "ask": [
+      {
+       "q": "Which machine do you think should come first?",
+       "good": [
+        "The magnet, to take out steel.",
+        "The blower, to take out paper.",
+        "The hands, to take out big things."
+       ]
+      }
+     ],
+     "parent": "In a real centre, the steel is taken out first, so it does not stick to the spinning drum. Let your child guess before you tell them.",
+     "context": "This is the first step of Plan a Sorting Line. You learn what each machine does."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Draw the belt on the big sheet. Place the four machine cards along it in the order your child chooses. Ask them to explain why each machine is where it is.",
+     "say": "Put the machines along the belt. Explain why each one goes where it does. What goes wrong if two are swapped?",
+     "kid": "Put the four machines along the belt. Say why each goes where it does.",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a real centre take the steel out before the spinning magnet drum?",
+      "options": [
+       "Steel would stick to the drum, since a still magnet attracts it",
+       "Steel is too heavy to travel on the belt",
+       "Steel makes the drum rust"
+      ],
+      "a": 0,
+      "why": "A magnet drum would grab steel cans and hold them. The steel must be taken out first. Picking 'too heavy' mixes up weight with magnetism."
+     },
+     "context": "In this step you place the four machines along the belt and explain your order."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Run each of the eight waste cards through your line, one at a time. Say which machine takes it out, and put it in a bin at the end. Mark any card that goes wrong.",
+     "say": "Take the steel can first. Which machine takes it out? Then the aluminium can. Then the plastic bottle. Go card by card.",
+     "kid": "Run each card along the belt. Which machine takes it out?",
+     "parent": "Expected: the steel can is lifted by the Magnet. The aluminium can, the brass key and the copper wire are thrown by the Drum. The paper goes with the Blower. The plastic bottle, the glass jar and the rubber slipper are picked by Hands, or fall off the end.",
+     "context": "In this step you run each waste card through your line."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Talk about the people who work in a centre like this. Ask: where in the line does a person do something that a machine cannot?",
+     "say": "A machine cannot tell a glass jar from a clear plastic jar. Who does? What would happen to this line without them?",
+     "kid": "Which jobs on the line need a person? Why?",
+     "think": "In India, waste pickers often do the sorting by hand. Where on this line would their skill help most?",
+     "context": "In this last step you think about the people who work in sorting."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Does Rust Stick? An old nail and its flakes",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "an old rusty nail, bolt or iron tool, and a new clean nail",
+     "qty": 2
+    },
+    {
+     "item": "a magnet wrapped in a thin plastic bag",
+     "qty": 1,
+     "buy": "b-magnets"
+    },
+    {
+     "item": "a sheet of white paper and a spoon",
+     "qty": 1
+    },
+    {
+     "item": "soap and water, for washing hands afterwards",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Guess whether rust sticks. Test the rusty nail and its flakes with a wrapped magnet. Explain what you found."
+    }
+   ],
+   "record": "A short table: new nail, rusty nail, rust flakes, and whether each stuck to the magnet. A drawing of the rusty nail cut in half.",
+   "context": "In this activity, you test a rusty nail and the brown flakes that fall off it with a magnet, to find out what a magnet can see in rust.",
+   "setup": [
+    {
+     "art": "A clean new nail and a rusty old nail side by side on white paper.",
+     "caption": "1. Put a new nail and a rusty nail on the paper."
+    },
+    {
+     "art": "A magnet in a plastic bag touching the rusty nail, which clings to it.",
+     "caption": "2. Test each nail with the wrapped magnet."
+    },
+    {
+     "art": "A grown-up scraping brown flakes from a nail onto a sheet of white paper with a spoon.",
+     "caption": "3. A grown-up scrapes some rust flakes onto the paper. Test them."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Show your child the two nails. Ask them to guess if each will stick to the magnet, and whether the rust flakes will stick too. Write the guesses.",
+     "say": "Rust is what iron turns into when it stays wet. Will a magnet stick to a rusty nail? And to the flakes of rust? Why do you think so?",
+     "kid": "Will the magnet stick to the rusty nail? And to the rust flakes? Why?",
+     "ask": [
+      {
+       "q": "Do you think rust is still magnetic?",
+       "good": [
+        "Yes, because it is still iron.",
+        "No, because it has changed into something else.",
+        "Only partly."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Rusty nails can cut skin. A grown-up handles them and scrapes the flakes.",
+     "adult": true,
+     "context": "This is the first step of the rust test. You guess before you test."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Touch the wrapped magnet to the new nail and then to the rusty nail. Lift each one. Write whether it sticks.",
+     "say": "Touch the magnet to the clean nail. Now to the rusty one. Which sticks? Do they both stick?",
+     "kid": "Touch the magnet to each nail. Does it stick? Write it down.",
+     "parent": "Both nails should stick, because the core of each is still iron. If the rusty nail is very eaten away, it may be weaker.",
+     "context": "In this step you test the clean nail and the rusty nail."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "A grown-up scrapes a spoonful of brown flakes from the rusty nail onto white paper. Hold the wrapped magnet just above the flakes, then touch it to them. Do any flakes jump or stick? Pull the magnet out of the bag over the paper to drop whatever stuck.",
+     "say": "These flakes are the rust itself. Hold the magnet just above them. Do they jump? Touch it to them. How many stick?",
+     "kid": "Hold the magnet above the flakes. Do any jump up?",
+     "check": {
+      "t": "mcq",
+      "q": "The rusty nail sticks to a magnet, but most of the rust flakes do not. What is the best reason?",
+      "options": [
+       "Under the rust there is still iron, but the rust itself is only weakly magnetic",
+       "The flakes are too light for a magnet to feel",
+       "A magnet works only on whole objects, not on powder"
+      ],
+      "a": 0,
+      "why": "Rust is iron joined with oxygen and water. Most forms are only weakly magnetic. The nail still has an iron core that the magnet feels. Picking 'too light' is tempting, but a magnet can pick up fine black sand."
+     },
+     "parent": "Many rust flakes stick faintly or not at all, though some dark ones may. Write what you see. Wash hands after handling rust.",
+     "context": "In this step you test the rust flakes with the wrapped magnet."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Ask your child to draw the rusty nail cut in half, with the iron core and the rust coat. Ask one sentence about what a magnet can and cannot tell about rust.",
+     "say": "Draw the nail cut in half. Show the iron in the middle and the rust outside. What does the magnet feel?",
+     "kid": "Draw the nail cut in half. Where is the iron? Where is the rust?",
+     "think": "A magnet finds iron that is still iron. Can it find iron that has turned to rust?",
+     "context": "In this last step you draw the inside of a rusty nail and think about what the magnet feels."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Our Kitchen's Metal Map: a poster of what sticks",
+   "days": 2,
+   "mins": 50,
+   "materials": [
+    {
+     "item": "a magnet that holds firmly on a fridge door",
+     "qty": 1,
+     "buy": "b-magnets"
+    },
+    {
+     "item": "a notebook and a pencil, for the table of at least 20 kitchen things",
+     "qty": 2
+    },
+    {
+     "item": "a big sheet of paper and markers",
+     "qty": 1
+    },
+    {
+     "item": "a few small sticky notes or pieces of tape",
+     "qty": 1
+    },
+    {
+     "item": "a grown-up who agrees which things may be tested",
+     "qty": 1
+    }
+   ],
+   "safety": "Test only things a grown-up agrees to. Do not test knives or anything sharp. Keep magnets away from phones, watches and bank cards.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Make a table of at least 20 kitchen things. Test each with the magnet and write the result."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Draw the poster with three zones. Stick it on the fridge. Teach the family one new thing from it."
+    }
+   ],
+   "record": "The table of 20 kitchen things and their results, and the poster.",
+   "context": "In this project, you test twenty things in your kitchen with a magnet and make a poster of what sticks, so that the whole family can use it. It joins the unit's ideas about steel, aluminium and brass.",
+   "setup": [
+    {
+     "art": "A table with twenty rows of kitchen things and columns for guess and result.",
+     "caption": "1. Make a table of 20 kitchen things."
+    },
+    {
+     "art": "A child pressing a magnet on a pan, a tumbler and a spoon in turn.",
+     "caption": "2. Test each thing and write the result."
+    },
+    {
+     "art": "A big poster on the fridge with three coloured zones and drawings of kitchen things in each.",
+     "caption": "3. Draw a poster with three zones and stick it on the fridge."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Help your child make a table of at least 20 kitchen things. Include a pressure cooker, tawa, kadai, spoon, tumbler and katori. Add a plate, a steel lid, aluminium foil, a brass lamp, a copper pot and a glass jar. Ask for a guess for each.",
+     "say": "We will make a map of our kitchen. First list twenty things. Then guess which will stick to the magnet and which will not. Write your guess for each.",
+     "kid": "Make a list of 20 kitchen things. Guess which will stick. Write the guesses.",
+     "ask": [
+      {
+       "q": "Which kitchen things do you think will not stick?",
+       "good": [
+        "Things made of aluminium.",
+        "Things made of wood or plastic.",
+        "Some steel things."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guesses. Children usually expect all metal to stick. Write the guesses in pencil.",
+     "context": "This is the first step of the Kitchen Metal Map. You make a list and guess."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Test each thing with the magnet. Press it for three seconds on a flat part and give a score. Give 3 for firm, 2 for holds but easily pulled off, 1 for a tiny tug, and 0 for nothing. Write the result next to the guess.",
+     "say": "Test each thing. Press the magnet for three seconds. Give it a score from 0 to 3. Write it next to your guess.",
+     "kid": "Test each thing with the magnet. Score it from 0 to 3. Write the score.",
+     "check": {
+      "t": "mcq",
+      "q": "A steel bowl scores 0, and an aluminium pot scores 0. Does that mean they are made of the same material?",
+      "options": [
+       "No, a score of 0 only says they are not strongly attracted. Many materials score 0",
+       "Yes, both are metal",
+       "Yes, both are shiny"
+      ],
+      "a": 0,
+      "why": "A 0 says only that a still magnet does not hold on. Stainless steel, aluminium, copper, brass, plastic, glass and wood can all score 0. The magnet cannot tell them apart."
+     },
+     "context": "In this step you test every thing in your list and write the scores."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "On day 1, look at the finished table. Count how many things scored 3, 2 or 1, and how many scored 0. How many guesses were right? Pick the three things that surprised you most.",
+     "say": "Count how many scored 3, how many 2, how many 1, and how many 0. Which guesses were wrong? Which three things surprised you?",
+     "kid": "Count the scores. How many things stick firmly? How many do not stick?",
+     "wait": "Come back tomorrow to make the poster.",
+     "context": "In this step you count the results and find the surprises."
+    },
+    {
+     "id": "s4",
+     "mins": 15,
+     "do": "On day 2, draw the poster on the big sheet with three zones: sticks firmly, sticks weakly, does not stick. Draw or write each thing in its zone. Add a note: an induction stove needs a pan that holds a magnet firmly on its base.",
+     "say": "Draw the map of our kitchen. Make three zones. Put each thing in its zone. Add a note for the induction stove.",
+     "kid": "Draw a poster with three zones. Put each kitchen thing in its zone.",
+     "parent": "Make the poster large, with clear drawings, so it is useful to the whole family. Add a line saying that a magnet test cannot tell which metal a thing is made of.",
+     "context": "On day 2, you draw the poster with the three zones."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Stick the poster on the fridge. Ask your child to teach one new thing from the poster to another family member.",
+     "say": "Show the poster to someone at home. Teach them one thing they did not know. What will you tell them?",
+     "kid": "Show your poster. Teach someone one new thing.",
+     "think": "Who in your family would find this poster most useful, and why?",
+     "context": "In this last step you stick up the poster and teach someone."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Six Mystery Pieces: name them with the fewest tests",
+   "mins": 40,
+   "problem": "A helper gives you six mystery pieces of metal, numbered 1 to 6. You may use three kinds of test: a magnet, colour, and the sound when you tap or drop the piece. Draw a flowchart with the fewest questions that names every piece, then check it.",
+   "constraints": [
+    "Use only these tests: the magnet, colour and sound. No scratching and no heating.",
+    "Each test is a yes or no question, for example 'Does the magnet stick?'",
+    "Your flowchart must reach a name for every one of the six pieces.",
+    "No piece may take more than three questions."
+   ],
+   "materials": [
+    "six metal pieces chosen by a helper: for example an iron nail, a steel spoon, an aluminium foil piece, a copper wire, a brass key and a stainless steel katori",
+    "a magnet",
+    "a hard floor or tile, to drop the pieces on",
+    "a big sheet of paper and a pencil for the flowchart",
+    "a helper to check the answers"
+   ],
+   "general": [
+    "Ask about the magnet first, to split the pieces into two groups.",
+    "Ask about colour next, to split each group again.",
+    "Use the sound test to tell two pieces that look and feel alike."
+   ],
+   "creative": [
+    "Put the question that splits the pieces most evenly first, so that fewer questions are needed.",
+    "Add a fourth kind of test if you can, such as how heavy the piece feels, and see if it removes a question.",
+    "Draw a second flowchart with a different order of questions, and see which one is shorter."
+   ],
+   "your_turn": "Draw your flowchart. Test it on all six pieces. Count the questions each piece needed. Can you find a shorter flowchart? Which question was most useful?",
+   "context": "This is a design challenge about using tests wisely. You find the fewest questions that name six mystery metals.",
+   "setup": [
+    {
+     "art": "Six numbered metal pieces in a row on a table beside a magnet.",
+     "caption": "1. Look at the six pieces. Guess what each may be."
+    },
+    {
+     "art": "A flowchart on paper with boxes that say Does the magnet stick? and lines for yes and no.",
+     "caption": "2. Draw a flowchart of yes or no questions."
+    },
+    {
+     "art": "A hand tapping a piece on a tile floor and an ear turned towards it.",
+     "caption": "3. Test the pieces and name them."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "A helper chooses the six pieces and numbers them in secret. Look at them with your child. Ask them to guess what each piece is made of, and which test would help most.",
+     "say": "Here are six mystery pieces. Which test would split them into two groups most evenly? Think before you begin.",
+     "kid": "Six mystery pieces. Which test splits them best? Guess.",
+     "ask": [
+      {
+       "q": "What is the best first question to ask about the pieces?",
+       "good": [
+        "Does the magnet stick?",
+        "What colour is it?",
+        "Does it ring when I tap it?"
+       ]
+      }
+     ],
+     "adult": true,
+     "context": "This is the first step of Six Mystery Pieces. You look and plan."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Test all six pieces with the magnet, then by colour, then by sound. Write the results in a table, one row for each piece.",
+     "say": "Test each piece three ways. Write the results in a table. Then look at the table and see which test splits the pieces most evenly.",
+     "kid": "Test each piece with the magnet, by colour and by sound. Write the results in a table.",
+     "check": {
+      "t": "mcq",
+      "q": "Colour splits six pieces into 3 and 3. The magnet test splits them into 2 and 4. Which is usually the better first question for a short flowchart?",
+      "options": [
+       "The magnet test, because it always gives the shortest chart",
+       "Colour, because 3 and 3 is the more even split",
+       "It makes no difference which is first"
+      ],
+      "a": 1,
+      "why": "A test that splits the pieces more evenly tends to give a shorter flowchart. But a short chart also depends on the later questions, so try both orders and count the questions."
+     },
+     "context": "In this step you test all six pieces three ways."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "Draw a flowchart. Start with the question you chose. Draw a box for each question and arrows for yes and no. Make sure every piece reaches a name in three questions or fewer.",
+     "say": "Draw your flowchart. Start with the question you think is best. Each piece must end at a name in three questions or fewer.",
+     "kid": "Draw a flowchart of yes or no questions. Every piece must end at a name.",
+     "parent": "Check each branch. If two pieces share a path, the flowchart needs another question. Let your child find the problem before you say.",
+     "context": "In this step you draw the flowchart."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "Run each piece through your flowchart. Ask the helper to say whether each name is right. Count how many questions each piece took, and the total.",
+     "say": "Run each piece through your chart. The helper tells you if you are right. How many questions did you need in all?",
+     "kid": "Run each piece through your chart. Were you right? How many questions did you need?",
+     "think": "A magnet is very good at saying yes to iron. It is bad at telling brass from copper. Which test is best for that job?",
+     "context": "In this last step you check your flowchart against the answers."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "The Pocket Induction Tester: a card that checks a pan in ten seconds",
+   "mins": 40,
+   "problem": "A shopkeeper wants to help customers check whether a pan will work on an induction stove, without a stove in the shop. Design a pocket tester from a card, a magnet and a string, with instructions that anyone can follow in ten seconds.",
+   "constraints": [
+    "The tester must use only a magnet and things on a card, with no electricity.",
+    "A person must be able to use it after reading no more than five short lines.",
+    "It must give one of three answers: works, may work or will not work.",
+    "Test it on at least 8 vessels."
+   ],
+   "materials": [
+    "a flat magnet that holds firmly on a fridge door",
+    "a stiff card or piece of cardboard",
+    "string, tape and a pencil",
+    "8 or more pans and vessels from your kitchen or neighbours",
+    "markers for the instructions"
+   ],
+   "general": [
+    "Tape the magnet to a card and write 'Press this on the base of the pan.'",
+    "Give three answers on the card: holds firmly, holds weakly and does not hold.",
+    "Add a picture of a pan with a magnet pressed to its base."
+   ],
+   "creative": [
+    "Put a string with a small weight on the card, and let the user lift the pan's base off the table by an edge. If the magnet holds, it works.",
+    "Draw colours on the card: green for holds firmly, yellow for weak and red for none.",
+    "Add a warning that the maker's label is the final word, since a magnet only tells you about the base."
+   ],
+   "your_turn": "Sketch your tester. Make it and test it on 8 vessels. Ask someone to use it without your help. Could they follow the lines? Change the card and test again.",
+   "context": "This is a design challenge about using a simple tool for a real job. You make a magnet-based tester that anyone can use.",
+   "setup": [
+    {
+     "art": "A card with a magnet taped to it, a string and short instructions written below.",
+     "caption": "1. Make the card, with the magnet taped on and short instructions."
+    },
+    {
+     "art": "A hand pressing the card's magnet on the base of a pan, with the card showing three answers.",
+     "caption": "2. Press the magnet on the base of a pan and read the answer."
+    },
+    {
+     "art": "A table with 8 vessels and ticks and crosses written beside them.",
+     "caption": "3. Test the tester on 8 vessels and write the results."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Read the problem. Ask your child to sketch a tester and to say what the three answers should mean.",
+     "say": "A shopkeeper wants a ten-second tester for pans. What should it look like? What should the three answers say? Draw an idea first.",
+     "kid": "Draw a pocket tester for pans. What are the three answers?",
+     "ask": [
+      {
+       "q": "What will the tester tell the customer when the magnet holds firmly on the base?",
+       "good": [
+        "The pan will probably work.",
+        "The base is magnetic steel.",
+        "Buy it for the induction stove."
+       ]
+      }
+     ],
+     "context": "This is the first step of the Pocket Induction Tester. You plan."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Build the tester. Tape the magnet on the card, and write the five lines of instructions. Test it on 8 vessels and write down what it says for each.",
+     "say": "Build your tester. Write the instructions. Test it on eight vessels. What does it say for each one?",
+     "kid": "Build the card. Test it on 8 vessels. Write what it says.",
+     "check": {
+      "t": "mcq",
+      "q": "A pan's sides hold a magnet well, but its base does not. Would the pan work on an induction stove?",
+      "options": [
+       "Probably not, because the base touches the stove and must be magnetic",
+       "Yes, because the sides are magnetic",
+       "Yes, because the whole pan is steel"
+      ],
+      "a": 0,
+      "why": "The stove heats the part of the pan that sits on it, which is the base. If the base is not magnetic steel, the pan will heat badly. So the tester must be pressed on the base."
+     },
+     "context": "In this step you build the tester and try it on 8 vessels."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "Ask someone else to use the card without your help. Watch where they get stuck. Change the lines on the card to fix it. Test again with the same person.",
+     "say": "Give the card to someone, and say nothing. Watch what they do. Where did they get stuck? Change the lines.",
+     "kid": "Give the card to someone. Watch. Fix any line that confused them.",
+     "parent": "Resist helping. A good tester works without the maker beside it.",
+     "context": "In this step you test your card on someone else and improve it."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Write one line saying what the tester cannot tell. For example, a magnet cannot tell if the pan is the right size, and the maker's label is the final word.",
+     "say": "What can your tester not tell the customer? Write it on the card.",
+     "kid": "What can the tester not tell? Write it on the card.",
+     "think": "A good tool says what it cannot do, as well as what it can. Why does that make it more useful?",
+     "context": "In this last step you add a line about what the tester cannot tell."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "How Materials Answer a Magnet, Class 4 (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A fridge magnet is held still against an aluminium can. What happens?",
+     "opts": [
+      "Nothing, because a still magnet does not attract aluminium",
+      "The can sticks firmly",
+      "The can rolls away",
+      "The can melts"
+     ],
+     "a": 0,
+     "why": "Aluminium is not a magnetic material, so a still magnet does not hold it. Picking 'sticks firmly' is the idea that all metals stick.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "A strong magnet is swished quickly past an aluminium can that lies on its side. What is most likely to happen?",
+     "opts": [
+      "The can rolls after the magnet",
+      "Nothing, because aluminium is not magnetic",
+      "The can jumps onto the magnet and sticks",
+      "The can is pushed away from the magnet"
+     ],
+     "a": 0,
+     "why": "A moving magnet makes swirling electric currents in the can. These make a magnetic field that drags the can along. A still magnet does nothing, but a moving one does.",
+     "outcome": 2,
+     "how": "e2"
+    },
+    {
+     "t": "fill",
+     "p": "A swirl of electric current that a moving magnet makes inside a piece of metal is called an ____ current.",
+     "a": [
+      "eddy"
+     ],
+     "why": "An eddy is a small whirl, like the one you see in a river behind a rock.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "A plastic bottle rolls after a fast-moving magnet just as an aluminium can does.",
+     "a": false,
+     "why": "False. Plastic does not carry electricity, so no swirls of current form in it. A fast-moving magnet does not move a plastic bottle.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these carries electricity best, and so drags a moving magnet most?",
+     "opts": [
+      "Copper",
+      "Wood",
+      "Glass",
+      "Rubber"
+     ],
+     "a": 0,
+     "why": "Copper is one of the best conductors of electricity, so strong swirls form in it. Wood, glass and rubber do not carry electricity.",
+     "outcome": 4
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Ferromagnetic",
+       "strongly attracted by a still magnet"
+      ],
+      [
+       "Paramagnetic",
+       "attracted extremely weakly by a very strong magnet"
+      ],
+      [
+       "Diamagnetic",
+       "pushed away extremely weakly by a very strong magnet"
+      ],
+      [
+       "Eddy current",
+       "a swirl of electricity made in metal by a moving magnet"
+      ],
+      [
+       "Conductor",
+       "a material that lets electricity pass easily"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These five words are the vocabulary of the unit. A strong answer could also give an example of each.",
+     "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort each thing by how a magnet answers it: strongly attracted when still, dragged when moving fast, or neither.",
+     "cats": [
+      "Strongly attracted (STICK)",
+      "Dragged when moving (SLOW)",
+      "Neither (SKIP)"
+     ],
+     "items": [
+      [
+       "a steel nail",
+       "Strongly attracted (STICK)"
+      ],
+      [
+       "a thick copper pot",
+       "Dragged when moving (SLOW)"
+      ],
+      [
+       "a wooden spoon",
+       "Neither (SKIP)"
+      ],
+      [
+       "a cast iron tawa",
+       "Strongly attracted (STICK)"
+      ],
+      [
+       "an aluminium tiffin box",
+       "Dragged when moving (SLOW)"
+      ],
+      [
+       "a plastic bottle",
+       "Neither (SKIP)"
+      ]
+     ],
+     "a": "see items",
+     "why": "Iron and steel are attracted even by a still magnet. Copper and aluminium carry electricity well and drag a moving magnet. Wood and plastic do neither.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A recycling centre must take steel cans out of a heap before it uses a spinning magnet drum to throw aluminium off the belt. Why?",
+     "opts": [
+      "Steel would stick to the drum, since a still magnet attracts it",
+      "Steel is heavier",
+      "Steel is cheaper",
+      "Steel makes the belt rust"
+     ],
+     "a": 0,
+     "why": "A drum of magnets would grab the steel and hold it. So a magnet takes out the steel first.",
+     "outcome": 5
+    },
+    {
+     "t": "fill",
+     "p": "A pan works well on an induction stove when a magnet sticks ____ to its base.",
+     "a": [
+      "firmly"
+     ],
+     "why": "A base of magnetic steel heats well in the changing magnetic field of the stove.",
+     "outcome": 6
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are pulled by a still magnet. Which one is not?",
+     "opts": [
+      "Iron",
+      "Nickel",
+      "Cobalt",
+      "Aluminium"
+     ],
+     "a": 3,
+     "why": "Iron, nickel and cobalt are the three common magnetic metals. Aluminium is not attracted by a still magnet.",
+     "outcome": 0
+    },
+    {
+     "t": "write",
+     "p": "A friend says that a steel tumbler must be non-magnetic because a magnet did not stick to its wall. Explain what might still be true.",
+     "lines": 4,
+     "a": "A stainless steel tumbler might be made of a kind of stainless steel that a magnet does not stick to, though it still has iron in it. The magnet may stick a little at the bent rim or base.",
+     "why": "A strong answer says that stainless steel is a family and that bending can change the magnetism.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "If a magnet does not stick to a metal, the metal has no iron in it.",
+     "a": false,
+     "why": "False. Common stainless steel is mostly iron, but its mixture means a magnet hardly sticks.",
+     "outcome": 7
+    },
+    {
+     "t": "mcq",
+     "p": "A metal detector beeps over a buried brass key. Brass is not attracted by a still magnet. How can the detector find it?",
+     "opts": [
+      "It senses the eddy currents the changing magnetic field makes in the key",
+      "It senses the key's tiny magnets",
+      "It smells the metal",
+      "It weighs the ground"
+     ],
+     "a": 0,
+     "why": "The detector makes a changing magnetic field. Any metal that carries electricity makes eddy currents in it, which the detector senses.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Explain in your own words why a magnet falls slowly in a thick copper pipe but quickly in a plastic pipe.",
+     "lines": 4,
+     "a": "As the magnet falls, it makes swirling electric currents in the copper. These make a magnetic field that pushes up against the falling magnet and slows it. Plastic does not carry electricity, so nothing pushes up.",
+     "why": "A strong answer says that swirls form in the copper only and that they push against the movement.",
+     "outcome": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw a flat aluminium plate with a magnet moving above it. Draw curved arrows in the plate to show the swirls of current, and an arrow to show which way the magnet moves.",
+     "a": "A flat plate with a magnet above it and an arrow for its motion. Inside the plate, curved loops of arrows swirl under the magnet.",
+     "why": "The swirls form in the plate under the moving magnet. Without movement, there are no swirls.",
+     "art": "A blank flat plate drawn in side view.",
+     "outcome": 3
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Swirls, Steel and Sorting (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A magnet swings over a wooden board, a plastic tray and an aluminium plate. Over which does it stop in the fewest swings?",
+     "opts": [
+      "The aluminium plate",
+      "The wooden board",
+      "The plastic tray",
+      "All the same"
+     ],
+     "a": 0,
+     "why": "Swirls of current form only in the aluminium, and they push against the swinging magnet. Wood and plastic do nothing.",
+     "outcome": 2,
+     "how": "e3"
+    },
+    {
+     "t": "mcq",
+     "p": "A thin sheet of aluminium foil and a thick aluminium plate are both under a swinging magnet. Which stops it sooner, and why?",
+     "opts": [
+      "The thick plate, because more metal gives the swirls more room",
+      "The foil, because it is lighter",
+      "They stop it equally",
+      "Neither, because aluminium is not magnetic"
+     ],
+     "a": 0,
+     "why": "A thick plate has more room for eddy currents to flow, so the push is stronger. 'Not magnetic' only applies to a still magnet.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Cuts are made in a copper plate so that the swirls cannot loop round. What happens to the drag on a moving magnet?",
+     "opts": [
+      "It gets weaker",
+      "It gets stronger",
+      "It stays the same",
+      "The plate becomes magnetic"
+     ],
+     "a": 0,
+     "why": "The swirls need unbroken paths to flow round. Slits stop them, so the push on the magnet falls.",
+     "outcome": 3
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the chain of events in order, from the moving magnet to the dragged can.",
+     "items": [
+      "The magnet moves past the can",
+      "Electric currents swirl inside the can",
+      "The swirls make a magnetic field in the can",
+      "The can's field drags the can after the magnet"
+     ],
+     "a": [
+      "The magnet moves past the can",
+      "Electric currents swirl inside the can",
+      "The swirls make a magnetic field in the can",
+      "The can's field drags the can after the magnet"
+     ],
+     "why": "A moving magnet makes the swirls, the swirls make a field of their own, and that field acts on the magnet. The can is dragged along.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "A magnet sticks firmly to the base of a pan but not to the sides. Will the pan heat on an induction stove?",
+     "opts": [
+      "Probably yes, because the base touches the stove and is magnetic",
+      "No, because the sides are not magnetic",
+      "No, because pans need to stick everywhere",
+      "It will melt"
+     ],
+     "a": 0,
+     "why": "The stove heats the part of the pan that sits on it. A magnetic base heats well.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "A steel spoon that does not stick at its smooth bowl might stick slightly at its bent neck.",
+     "a": true,
+     "why": "True for some stainless steels. Bending changes how the atoms are packed, and some tiny magnets can then line up.",
+     "outcome": 1,
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A tin can is steel with a very thin coat of tin on it. A magnet sticks to the can. Why?",
+     "opts": [
+      "The magnet feels the steel under the thin coat of tin",
+      "Tin is magnetic",
+      "The magnet pulls the label",
+      "The can is hollow"
+     ],
+     "a": 0,
+     "why": "Tin is not magnetic, but the coat is very thin and the steel is what the magnet feels. A name for a thing may describe only its outside.",
+     "outcome": 7
+    },
+    {
+     "t": "sort",
+     "p": "Sort each of these by what a very strong lab magnet does to it: pulls strongly, pulls extremely weakly, or pushes extremely weakly.",
+     "cats": [
+      "Pulls strongly",
+      "Pulls extremely weakly",
+      "Pushes extremely weakly"
+     ],
+     "items": [
+      [
+       "iron",
+       "Pulls strongly"
+      ],
+      [
+       "aluminium",
+       "Pulls extremely weakly"
+      ],
+      [
+       "water",
+       "Pushes extremely weakly"
+      ],
+      [
+       "copper",
+       "Pushes extremely weakly"
+      ],
+      [
+       "nickel",
+       "Pulls strongly"
+      ],
+      [
+       "oxygen in air",
+       "Pulls extremely weakly"
+      ]
+     ],
+     "a": "see items",
+     "why": "Iron and nickel are ferromagnetic. Aluminium and oxygen are paramagnetic. Water and copper are diamagnetic.",
+     "outcome": 0
+    },
+    {
+     "t": "write",
+     "p": "A kabadiwala says, 'I know aluminium by its weight and its dull ring, and I do not need a magnet.' Is that a good way to tell aluminium from steel? Give a reason.",
+     "lines": 4,
+     "a": "Yes, it can be a good way. Aluminium is lighter than steel for the same size, and rings differently. A magnet only shows that steel is there, and says little about aluminium. A good sorter uses several clues.",
+     "why": "A strong answer says that more than one clue helps, and that the magnet is good at one job only.",
+     "outcome": 7
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends in Madurai watch a magnet swing over an aluminium plate and stop quickly. They argue about what to call aluminium.",
+     "views": [
+      {
+       "who": "Divya, aged 11",
+       "says": "Aluminium is non-magnetic. A fridge magnet does not stick to it."
+      },
+      {
+       "who": "Keerthana, aged 10",
+       "says": "Aluminium is magnetic in a way. A moving magnet is slowed by it, so it does respond."
+      }
+     ],
+     "ask": "Which friend do you agree with? Give one piece of evidence. Then say what each friend is right about.",
+     "lines": 5,
+     "a": "Both can be right. Divya is right that a still magnet does not hold aluminium. Keerthana is right that a moving magnet is slowed by it. A strong answer says the word 'magnetic' needs a test: still or moving.",
+     "why": "A strong answer uses evidence from the swinging magnet and from the still magnet, and sees what each friend gets right.",
+     "outcome": 7
+    },
+    {
+     "t": "draw",
+     "p": "Draw a conveyor belt with four stations in a good order: a magnet, a spinning magnet drum, an air blower and hands. Label what each station takes out.",
+     "a": "A belt starting with a heap. The magnet comes first and takes out steel. Then the drum throws off aluminium and other non-ferrous metals. The blower lifts light paper. Hands pick the rest.",
+     "why": "Steel must come out before the drum, so it does not stick to it.",
+     "art": "A blank conveyor belt drawn from the side.",
+     "outcome": 5
+    },
+    {
+     "t": "label",
+     "p": "Here is a drawing of a recycling line. Label the three parts: the steel lifter, the spinning drum and the bin of aluminium.",
+     "labels": [
+      "Big magnet over the belt",
+      "Magnets spinning inside the belt roller",
+      "Bin at the end of the belt that cans leap into"
+     ],
+     "art": "A drawing of a conveyor belt with a big magnet above it, a spinning drum at its end and a bin in front of the drum.",
+     "a": [
+      "Big magnet over the belt: steel lifter",
+      "Magnets spinning inside the belt roller: spinning drum",
+      "Bin at the end of the belt that cans leap into: bin of aluminium"
+     ],
+     "why": "The big magnet lifts steel. The drum makes swirls in the aluminium, which throws the cans forward into their bin.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Why is the oxygen in the air called paramagnetic?",
+     "opts": [
+      "It is pulled extremely weakly by a very strong magnet",
+      "It is pushed strongly away",
+      "It sticks to a fridge magnet",
+      "It carries electricity"
+     ],
+     "a": 0,
+     "why": "Oxygen is attracted extremely weakly. Liquid oxygen, which is very cold, clings between the poles of a strong magnet.",
+     "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each device to the job it does.",
+     "pairs": [
+      [
+       "Eddy current brake",
+       "slows a roller coaster car without touching it"
+      ],
+      [
+       "Induction stove",
+       "heats a pan with a magnetic base"
+      ],
+      [
+       "Metal detector",
+       "finds a buried coin that a magnet does not attract"
+      ],
+      [
+       "Magnetic separator",
+       "lifts steel cans out of mixed waste"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each device uses a magnet in a different way. A strong answer can say which ones use attraction and which use eddy currents.",
+     "outcome": 5
+    },
+    {
+     "t": "fill",
+     "p": "A metal detector finds a gold ring because the ring makes ____ currents in the detector's changing magnetic field.",
+     "a": [
+      "eddy"
+     ],
+     "why": "The detector senses the eddy currents. Gold is not attracted by a still magnet, but it carries electricity.",
+     "outcome": 3
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are good conductors of electricity. Which one is an insulator?",
+     "opts": [
+      "Copper",
+      "Silver",
+      "Plastic",
+      "Aluminium"
+     ],
+     "a": 2,
+     "why": "Plastic does not carry electricity. Copper, silver and aluminium carry it well.",
+     "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "A cold-drink can follows a fast magnet, but a steel can sticks even to a still magnet. How are the two pushes or pulls different?",
+     "lines": 4,
+     "a": "The steel can is attracted by a still magnet because iron has lined-up tiny magnets. The aluminium can is dragged only while the magnet moves, because swirling currents push against it.",
+     "why": "A strong answer names one cause for each: tiny magnets in the steel, and swirling currents in the aluminium.",
+     "outcome": 2
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "What Does a Magnet Really Tell Us? (challenge)",
+   "tier": "challenge",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A shop says, 'This pan is magnetic, so it is stainless steel.' What is wrong with this?",
+     "opts": [
+      "Plain steel is magnetic too, so a magnet cannot show it is stainless",
+      "Stainless steel is never magnetic",
+      "Magnetic pans are made of aluminium",
+      "Nothing is wrong"
+     ],
+     "a": 0,
+     "why": "Plain steel also sticks to a magnet. Stainless steel is a family. Some kinds stick and some do not. A magnet cannot name the steel.",
+     "outcome": 7
+    },
+    {
+     "t": "mcq",
+     "p": "A magnet falls slowly down a thick copper pipe. What would make the fall even slower?",
+     "opts": [
+      "A pipe with a thicker wall made of copper",
+      "A pipe with slits cut along it",
+      "A pipe made of plastic",
+      "A pipe made of wood"
+     ],
+     "a": 0,
+     "why": "More copper means more room for swirls, so a stronger push up. Slits break the swirls, and plastic and wood have none.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "An induction stove would heat an aluminium pan just as well as a pan with a thick magnetic steel base.",
+     "a": false,
+     "why": "False. An aluminium pan is not magnetic and carries electricity so well that it heats very little. A pan with a magnetic steel base heats much better.",
+     "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "A magnet is held still above a copper plate and nothing happens. Then it is moved quickly and is dragged. What does this tell us about the effect?",
+     "opts": [
+      "It needs the magnet to be moving",
+      "It needs the plate to be magnetic",
+      "It needs the plate to be hot",
+      "It only happens in the dark"
+     ],
+     "a": 0,
+     "why": "The swirls form only while the magnetic field around the plate is changing. A still magnet makes no change.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "Common stainless steel has nickel mixed in. This changes how the iron atoms are packed, so a magnet ____ sticks to it.",
+     "a": [
+      "hardly",
+      "barely"
+     ],
+     "why": "The packing keeps the tiny magnets of the iron atoms from lining up, so the steel is almost not attracted.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "Why is it better to say 'a still magnet does not attract aluminium' than to say 'aluminium is not magnetic'?",
+     "lines": 4,
+     "a": "The second sentence suggests aluminium never answers a magnet. But a moving magnet does push on it, and a very strong magnet pulls it extremely weakly. The first sentence says exactly what we tested.",
+     "why": "A strong answer says that a plain statement should match the test that was done.",
+     "outcome": 7
+    },
+    {
+     "t": "match",
+     "p": "Match each tool or device to the main idea it uses.",
+     "pairs": [
+      [
+       "A scrapyard crane magnet",
+       "a magnet attracts iron and steel"
+      ],
+      [
+       "A spinning-drum separator",
+       "a moving magnet makes eddy currents in aluminium"
+      ],
+      [
+       "An induction stove",
+       "a changing magnetic field heats a magnetic steel pan"
+      ],
+      [
+       "A metal detector",
+       "a changing field makes eddy currents in any metal that conducts"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Some of these use attraction and some use eddy currents. A strong answer can say which is which.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "A rusty nail still sticks to a magnet, but the brown flakes mostly do not. What is the best explanation?",
+     "opts": [
+      "The nail still has an iron core, and the rust is only weakly magnetic",
+      "The flakes are too small",
+      "Rust is a different colour",
+      "A magnet cannot lift flakes"
+     ],
+     "a": 0,
+     "why": "A magnet feels iron that is still iron. The rust is iron joined with oxygen and water, which is only weakly magnetic.",
+     "outcome": 1
+    },
+    {
+     "t": "perspective",
+     "p": "A city plans to build a machine centre to sort all its waste. Waste pickers say they should be part of the plan.",
+     "views": [
+      {
+       "who": "A city planner",
+       "says": "A centre sorts faster and the work is safer than picking by hand."
+      },
+      {
+       "who": "A waste picker's cooperative",
+       "says": "Pickers know hundreds of materials by touch and sound, and the centre needs them to sort what machines cannot."
+      }
+     ],
+     "ask": "Which view do you agree with? Give a reason from the unit. Then say how both might work together.",
+     "lines": 5,
+     "a": "Either can be argued, and both are partly right. A centre sorts steel and aluminium quickly, but hands and eyes still do much of the sorting. A strong answer says how both can work together, for example by employing the pickers in the centre.",
+     "why": "A strong answer uses the idea that machines are good at some steps and people at others.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "A magnet that is moving makes electricity in a nearby piece of metal even if the metal is not magnetic.",
+     "a": true,
+     "why": "True. Faraday found in 1831 that a moving magnet makes electric currents in a conductor. The metal does not have to be magnetic.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "A student tests a magnet on a coin, and it does not stick. She says the coin is real silver. What can she truly say?",
+     "opts": [
+      "The coin is not made of iron, nickel or cobalt on the surface, but it could be many things",
+      "The coin is definitely silver",
+      "The coin is definitely aluminium",
+      "The coin has no metal in it"
+     ],
+     "a": 0,
+     "why": "Many metals ignore a still magnet. A magnet that does not stick rules out only a few.",
+     "outcome": 7
+    },
+    {
+     "t": "write",
+     "p": "A material can answer a still magnet with nothing and a moving magnet with a push. Does this mean that a material has no fixed nature? Argue either side.",
+     "lines": 5,
+     "a": "One side: the material's atoms have a fixed structure, and the two answers both come from it, so its nature is fixed. Other side: what we call its nature is how it answers our tests, and different tests give different answers, so a label depends on the test.",
+     "why": "A strong answer gives a reason for the side and says what the other side would say.",
+     "outcome": 7
+    },
+    {
+     "t": "label",
+     "p": "Here is a drawing of a magnet falling through a copper pipe. Label the magnet, the swirls of current and the upward push.",
+     "labels": [
+      "The falling magnet",
+      "Curved arrows in the pipe wall",
+      "Arrow pointing up on the magnet"
+     ],
+     "art": "A drawing of a copper pipe seen from the side with a magnet inside, curved arrows in the pipe wall and an arrow pointing up.",
+     "a": [
+      "The falling magnet: magnet",
+      "Curved arrows in the pipe wall: swirls of current",
+      "Arrow pointing up on the magnet: upward push"
+     ],
+     "why": "The magnet makes swirls in the pipe. The swirls make a field that pushes up against the falling magnet.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "In a recycling centre, which step uses an eddy current separator?",
+     "opts": [
+      "Throwing aluminium cans off the belt",
+      "Lifting steel cans off the belt",
+      "Blowing paper off the belt",
+      "Picking glass by hand"
+     ],
+     "a": 0,
+     "why": "The spinning drum makes eddy currents in aluminium and other non-ferrous metals, and these push the pieces forward. The magnet lifts steel. The blower lifts paper.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "On Mars, magnets on rovers have collected dust, which shows that some of the dust has magnetic iron minerals in it.",
+     "a": true,
+     "why": "True. Magnets on Mars landers and rovers collected dark magnetic dust. The red colour of Mars is from iron joined with oxygen.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "Plastic, wood and glass do not drag a moving magnet because they are ____, which do not carry electricity.",
+     "a": [
+      "insulators"
+     ],
+     "why": "No electricity can flow in a swirl, so no field is made to push back.",
+     "outcome": 4
+    },
+    {
+     "t": "draw",
+     "p": "Draw your kitchen map in three zones: sticks firmly, sticks weakly, does not stick. Put at least two things in each zone, and write the name of one thing that surprised you.",
+     "a": "Three labelled zones. Typical: sticks firmly, a steel pan base and a tawa. Sticks weakly, a tumbler rim. Does not stick, an aluminium kadai, a brass lamp and a glass jar.",
+     "why": "A strong map has three zones with examples, and a note about a surprise.",
+     "art": "A blank sheet with three empty boxes.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "A magnet-based tester says a pan 'will not work' on an induction stove. When might the tester be wrong, and what should a shopper do?",
+     "lines": 4,
+     "a": "The magnet may not stick to some special pans that have been made for induction in a different way, or may stick to the sides but not the base. A shopper should read the maker's label as well.",
+     "why": "A strong answer says that the tester is a rough guide and the label gives the final word.",
+     "outcome": 6
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which materials does a still magnet strongly attract?",
+   "opts": [
+    "Iron, nickel and cobalt",
+    "All metals",
+    "Aluminium and copper",
+    "Wood and plastic"
+   ],
+   "a": 0,
+   "why": "Only iron, nickel, cobalt and some mixtures are attracted strongly. Many other metals ignore a still magnet.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is extremely weakly pushed away by a very strong magnet?",
+   "opts": [
+    "Water",
+    "Iron",
+    "Nickel",
+    "Cobalt"
+   ],
+   "a": 0,
+   "why": "Water is diamagnetic, so it is pushed away extremely weakly. Iron, nickel and cobalt are pulled strongly.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A magnet sticks to the rim of a steel tumbler, but hardly to its wall. What is the best explanation?",
+   "opts": [
+    "Rolling the rim may have changed the steel inside, so more tiny magnets line up",
+    "The rim is made of a different metal",
+    "The magnet is stronger at the rim",
+    "The wall is thicker"
+   ],
+   "a": 0,
+   "why": "Bending and rolling can change how atoms are packed in some stainless steels.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A fast-moving magnet makes an aluminium can roll. What is the main reason?",
+   "opts": [
+    "It makes swirling electric currents in the can",
+    "The can becomes a magnet like iron",
+    "The air moves the can",
+    "The magnet sticks to the can"
+   ],
+   "a": 0,
+   "why": "The swirls make a magnetic field that drags the can. A still magnet does nothing.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What name do we give the swirling currents a moving magnet makes in metal?",
+   "opts": [
+    "Eddy currents",
+    "Static charges",
+    "Tiny magnets",
+    "Rust"
+   ],
+   "a": 0,
+   "why": "An eddy is a small whirl, like a river's swirl behind a rock.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these will drag a moving magnet the most?",
+   "opts": [
+    "A thick copper plate",
+    "A glass plate",
+    "A rubber mat",
+    "A wooden board"
+   ],
+   "a": 0,
+   "why": "Copper carries electricity very well, so strong swirls form in it. The others are insulators.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A magnet dropped through a plastic pipe falls fast. Dropped through a copper pipe of the same size, it falls slowly. Why?",
+   "opts": [
+    "Swirling currents in the copper push up against the falling magnet",
+    "Copper is heavier",
+    "Plastic is slippery",
+    "Copper is magnetic like iron"
+   ],
+   "a": 0,
+   "why": "Plastic makes no swirls. Copper makes them, and they push against the movement.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A recycling centre first lifts steel off the belt with a magnet. Why?",
+   "opts": [
+    "So the steel does not stick to the spinning drum that throws off aluminium",
+    "Steel is the most valuable",
+    "Steel is the heaviest",
+    "Steel is the cleanest"
+   ],
+   "a": 0,
+   "why": "A drum of magnets would hold the steel cans instead of letting them pass.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which machine throws aluminium cans off a conveyor belt?",
+   "opts": [
+    "An eddy current separator",
+    "A big magnet over the belt",
+    "An air blower",
+    "A sieve"
+   ],
+   "a": 0,
+   "why": "A spinning magnetic drum makes eddy currents in the aluminium that push the cans forward.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A pan works on an induction stove. What is likely to be true of its base?",
+   "opts": [
+    "A magnet sticks firmly to it",
+    "It is made of aluminium",
+    "It is made of glass",
+    "It is made of clay"
+   ],
+   "a": 0,
+   "why": "A magnetic steel base heats well in the stove's changing field.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Why does an aluminium pan heat poorly on an induction stove?",
+   "opts": [
+    "It is not magnetic and carries electricity so well that it heats very little",
+    "It is too light",
+    "It is too shiny",
+    "It is too cold"
+   ],
+   "a": 0,
+   "why": "A magnetic steel base heats strongly. Aluminium heats very little.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A magnet does not stick to a ring. What can you truly say?",
+   "opts": [
+    "The ring is not made of iron, nickel or cobalt on the surface, but it could be many other things",
+    "The ring is gold",
+    "The ring has no metal",
+    "The ring is silver"
+   ],
+   "a": 0,
+   "why": "Many metals ignore a still magnet, including gold, silver, copper, brass and aluminium.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A metal detector finds a brass key in the ground. Brass is not attracted by a still magnet. How can the detector find it?",
+   "opts": [
+    "It senses the eddy currents the key makes",
+    "It senses the key's weight",
+    "It smells the key",
+    "It sees the key"
+   ],
+   "a": 0,
+   "why": "The detector's changing field makes eddy currents in any conducting metal.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A rusty nail sticks to a magnet. What is the best reason?",
+   "opts": [
+    "The nail still has an iron core under the rust",
+    "Rust is the strongest magnet",
+    "The nail is clean",
+    "The rust is steel"
+   ],
+   "a": 0,
+   "why": "The rust itself is only weakly magnetic, but the iron under it is.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which sentence is most exact?",
+   "opts": [
+    "A still magnet does not attract aluminium, but a moving magnet pushes on it",
+    "Aluminium is not affected by magnets",
+    "Aluminium is magnetic like iron",
+    "Aluminium does not carry electricity"
+   ],
+   "a": 0,
+   "why": "The best sentence says what the test was. A still magnet and a moving magnet give different answers.",
+   "outcome": 7
+  }
+ ],
+ "videos": [
+  {
+   "title": "A magnet falling through a copper pipe",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 3,
+   "why": "To see a strong magnet fall slowly through a copper pipe and quickly through a plastic pipe.",
+   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+  },
+  {
+   "title": "How a recycling centre separates metals with magnets and eddy currents",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 5,
+   "why": "To see a conveyor belt, a magnet over it and an eddy current separator throwing aluminium cans into a bin.",
+   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+  },
+  {
+   "title": "How induction cooking works",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 5,
+   "why": "To see how a changing magnetic field heats a pan with a magnetic base.",
+   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+  }
+ ],
+ "applications": [
+  "Recycling centres lift steel with magnets and throw aluminium cans off belts with eddy current separators.",
+  "Induction stoves heat pans with a base of magnetic steel and no flame.",
+  "Metal detectors at airports, temples and shops find any metal that carries electricity.",
+  "Roller coasters and some trains slow down with eddy current brakes, using strong magnets and metal fins that never touch.",
+  "Scrap dealers and kabadiwalas test metal by sound, weight, colour and, sometimes, a magnet.",
+  "Mining companies use big magnets to take iron minerals out of crushed rock.",
+  "Food factories pass flour and spices over magnets to catch tiny pieces of iron before packing.",
+  "Engineers choose stainless steel for sinks, tumblers and tanks, and test which kind with a magnet.",
+  "Electricity meters in some homes use a spinning aluminium disc, slowed by a magnet, to count units.",
+  "Archaeologists use metal detectors and magnetometers to find buried metal and old fires without digging.",
+  "Spacecraft scientists put magnets on rovers to collect dust and study the rocks of other planets.",
+  "Jewellers use many tests, not just a magnet, because a magnet cannot say whether a ring is gold."
+ ],
+ "spotted": [
+  {
+   "text": "A flat induction stove in a modern kitchen, with a pan whose base holds a magnet firmly.",
+   "art": "A flat black induction stove with a steel pan on it."
+  },
+  {
+   "text": "The metal detector arch at a temple, mall or airport entrance.",
+   "art": "A metal detector arch at an entrance with people walking through."
+  },
+  {
+   "text": "A kabadiwala with a hand scale, a heap of metal and a magnet on a string.",
+   "art": "A scrap dealer with a hand scale, a heap of metal and a magnet on a string."
+  },
+  {
+   "text": "A steel tumbler with a magnet clinging to its rolled rim.",
+   "art": "A steel tumbler with a small magnet on its rim."
+  },
+  {
+   "text": "An aluminium cold-drink can in a recycling bin.",
+   "art": "A recycling bin with crushed aluminium cans inside."
+  },
+  {
+   "text": "Red soil in a field, or red brick walls, coloured by iron.",
+   "art": "A red soil field with a farmer and a brick house in the background."
+  },
+  {
+   "text": "The aluminium disc of an old electricity meter, spinning slowly behind its glass window.",
+   "art": "An old electricity meter with a small spinning disc behind a glass window."
+  },
+  {
+   "text": "The steel cap of a bottle, holding a magnet in a toy shop.",
+   "art": "A toy with a bottle cap and a small magnet beside it."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Can we make a very strong magnet from common, cheap elements?",
+   "why_open": "The strongest magnets use rare earth metals, which are hard to dig out and separate. Scientists are searching for new materials that do not need them."
+  },
+  {
+   "q": "Why do iron, nickel and cobalt line up their tiny magnets, when almost every other element does not?",
+   "why_open": "Quantum physics gives good explanations. Predicting exactly which new mixtures will be strong magnets is still hard."
+  },
+  {
+   "q": "How can a machine tell the many kinds of plastic apart, as it tells steel and aluminium apart?",
+   "why_open": "Plastics look alike and are not magnetic. Cameras and light sensors help, but sorting every kind well and cheaply is still being worked on."
+  },
+  {
+   "q": "How and when did Mars lose its magnetic field, and what did that do to its air?",
+   "why_open": "Rocks on Mars hold a record of an old field. Scientists argue about when it faded and how much that mattered."
+  },
+  {
+   "q": "Is there a limit to how many times a metal can be recycled?",
+   "why_open": "Aluminium and steel can be melted again and again, but small amounts of other metals build up. Where this stops is a question for engineers."
+  },
+  {
+   "q": "Can a material push a magnet away perfectly at room temperature?",
+   "why_open": "Superconductors push magnets away perfectly, but only when very cold. Finding one that works at room temperature is one of the biggest open questions in materials science."
+  }
+ ],
+ "ask_kids": [
+  "Which of our vessels would a magnet stick to? Which not?",
+  "Is aluminium magnetic? What would you say, and what test would you describe?",
+  "Why might a pan need a magnetic base to heat on an induction stove?",
+  "How does a kabadiwala tell brass from steel?",
+  "What do you think happens to an aluminium can after it goes to the recycling bin?",
+  "If a magnet does not stick to a ring, what can you say about the ring?",
+  "Where is the iron in our house, in the walls, the soil or the pan?",
+  "Why do you think the rim of a tumbler might stick when its wall does not?",
+  "What happens when a thing is moving that does not happen when it sits still?",
+  "Who does the sorting of waste near our home, and how could we say thank you?",
+  "What would you ask a person who sorts metal every day?"
+ ],
+ "jokes": [
+  {
+   "j": "Why was the aluminium can so dramatic?",
+   "a": "It ignored a still magnet but ran after a fast one."
+  },
+  {
+   "j": "What did the magnet say to the copper pipe?",
+   "a": "You always slow me down."
+  },
+  {
+   "j": "How does a stainless steel spoon feel when it is bent?",
+   "a": "A little more attracted to things."
+  },
+  {
+   "j": "Why did the recycling belt stay so calm?",
+   "a": "Everything on it knew where it was going."
+  },
+  {
+   "j": "What do you call a steel can in a crowd of aluminium cans?",
+   "a": "The one that sticks around."
+  },
+  {
+   "j": "Why was the metal detector good at hide and seek?",
+   "a": "It could find the gold, even without attraction."
+  },
+  {
+   "j": "Why did the kabadiwala not need a magnet?",
+   "a": "She had a good ear for metal."
+  },
+  {
+   "j": "What did the rust say to the magnet?",
+   "a": "I am not what I used to be, but my core is still yours."
+  },
+  {
+   "j": "Why did the pan blush on the induction stove?",
+   "a": "Its base was getting all the attention."
+  },
+  {
+   "j": "Why did the plastic bottle not move when the magnet whooshed past?",
+   "a": "It had no current interest in the matter."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "A magnet swinging over a wooden board makes 24 swings before it stops. Over an aluminium plate it makes 4 swings. How many times as many swings does it make over wood?",
+   "answer": "6 times as many.",
+   "explain": "24 divided by 4 is 6. So the magnet makes 6 times as many swings over wood. Check: 4 times 6 is 24.",
+   "math_unit": "math.multiplication.multiplication-facts.L4",
+   "context": "In the Pendulum That Stops experiment, you count the swings of a magnet over different plates.",
+   "how": "e3",
+   "why_maths": "A ratio like '6 times as many' tells you how much a plate slows the magnet. It is easier to compare than two separate numbers."
+  },
+  {
+   "problem": "Five fast swishes made an aluminium can roll 14, 18, 12, 16 and 15 centimetres. What is the middle value, and why is it a good number to report?",
+   "answer": "The middle value is 15 centimetres. It is a good number because one odd roll does not change it much.",
+   "explain": "Put the numbers in order: 12, 14, 15, 16, 18. The middle one is 15. If one roll were 40, the middle value would still be 16, while the biggest would jump to 40.",
+   "math_unit": "math.data.reading-data.L4",
+   "context": "In the Can That Follows experiment, you swish a magnet past an aluminium can five times and measure how far it rolls.",
+   "how": "e2",
+   "why_maths": "The middle value of several tries is steadier than any one try. It stops a single fluke from fooling you."
+  },
+  {
+   "problem": "In a recycling centre, a conveyor belt is 24 metres long and moves 2 metres every second. How many seconds does a can take to ride from one end to the other?",
+   "answer": "12 seconds.",
+   "explain": "24 metres divided by 2 metres a second is 12 seconds. Check: 12 seconds times 2 metres is 24 metres.",
+   "math_unit": "math.division.division-facts.L4",
+   "context": "In the Plan a Sorting Line activity, you plan the stations along a conveyor belt.",
+   "how": "a4",
+   "why_maths": "Engineers use division to find how long a can spends under each machine. The time tells them how strong the magnet must be."
+  },
+  {
+   "problem": "About 60 aluminium cans weigh 1 kilogram. A made-up price for aluminium is 90 rupees a kilogram. A waste picker has 180 cans. How much money are they worth?",
+   "answer": "270 rupees.",
+   "explain": "180 divided by 60 is 3, so the cans weigh about 3 kilograms. 3 times 90 is 270 rupees. The price here is made up, and real prices change from day to day.",
+   "math_unit": "math.money.money-in-life.L4",
+   "context": "In the activity where you ask a metal sorter how they work, you find out that sorters are paid by weight.",
+   "how": "a2",
+   "why_maths": "Sorters are paid by weight, so they need to work out kilograms from a count of cans. Two steps of division and multiplication give the money."
+  },
+  {
+   "problem": "In the Kitchen Metal Map, 7 of 20 things stuck firmly, 3 stuck weakly and 10 did not stick. What fraction stuck firmly, and what percentage is that?",
+   "answer": "Seven twentieths, which is 35 percent.",
+   "explain": "7 out of 20 is the fraction. To turn it into a percentage, multiply the top and bottom by 5 to make hundredths. 7 times 5 is 35, and 20 times 5 is 100. So it is 35 hundredths, or 35 percent.",
+   "math_unit": "math.fractions.decimals-and-percentages.L4",
+   "context": "In the Kitchen Metal Map project, you test twenty kitchen things with a magnet and make a poster.",
+   "how": "p1",
+   "why_maths": "A percentage lets you compare the kitchen with a friend's kitchen, even when you tested a different number of things."
+  },
+  {
+   "problem": "Three friends swished a magnet past a can and measured the roll. They got 15 cm, 16 cm and 2 cm. Which result is odd, and what could explain it? What middle value would you report?",
+   "answer": "The 2 centimetre roll is odd. The middle value is 15 centimetres.",
+   "explain": "In order, the numbers are 2, 15, 16. The middle is 15. The 2 is far from the others. The swish might have been slow, or the magnet may have been further from the can. A good scientist repeats that try before throwing it away.",
+   "math_unit": "math.data.reading-data.L4",
+   "context": "In the Can That Follows experiment, you compare your rolls with those of other people.",
+   "how": "e2",
+   "why_maths": "Spotting an odd result and asking why is part of good science. It tells you what to check in the way you did the test."
+  },
+  {
+   "problem": "A magnet over a wooden board makes 15 swings in 30 seconds. How long does one swing take, and how many swings would it make in one minute?",
+   "answer": "One swing takes 2 seconds, and it would make 30 swings in a minute.",
+   "explain": "30 seconds divided by 15 swings is 2 seconds a swing. A minute is 60 seconds, and 60 divided by 2 is 30 swings. Check: 15 swings in 30 seconds is 30 swings in 60 seconds.",
+   "math_unit": "math.time.duration.L4",
+   "context": "In the Pendulum That Stops experiment, you count the swings of a magnet on a thread.",
+   "how": "e3",
+   "why_maths": "The time of one swing stays almost the same as the swings get smaller. Knowing it lets you count swings by watching a clock."
+  },
+  {
+   "problem": "The spinning drum in a recycling centre turns 600 times in a minute. How many times does it turn in one second, and how many times in five seconds?",
+   "answer": "10 times in a second, and 50 times in five seconds.",
+   "explain": "A minute is 60 seconds. 600 divided by 60 is 10 turns a second. In 5 seconds, 5 times 10 is 50 turns.",
+   "math_unit": "math.number-sense.place-value.L4",
+   "context": "In the Plan a Sorting Line activity, the spinning magnet drum throws aluminium cans off the belt.",
+   "how": "a4",
+   "why_maths": "A fast-changing magnetic field is what makes the strong swirls. Knowing the turns each second tells you how fast the field changes."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.materials.L4",
+  "title": "Inside the Stuff",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "PhET: Faraday's Law",
+   "url": "https://phet.colorado.edu/en/simulations/faradays-law",
+   "kind": "simulation",
+   "why": "A free online simulation. Move a magnet through a coil and see a lamp light up, to see electromagnetic induction."
+  },
+  {
+   "title": "Eddy current (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Eddy_current",
+   "kind": "interactive",
+   "why": "For the parent: a clear article on eddy currents, with pictures of a magnet falling through a pipe."
+  },
+  {
+   "title": "Eddy current separator (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Eddy_current_separator",
+   "kind": "interactive",
+   "why": "For the parent: how recycling centres throw aluminium off a belt."
+  },
+  {
+   "title": "Induction cooking (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Induction_cooking",
+   "kind": "interactive",
+   "why": "For the parent: how an induction stove heats a pan, and which pans work."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A large science museum with galleries on electricity and magnets. Look for the exhibits on induction."
+  },
+  {
+   "title": "A waste pickers' cooperative",
+   "url": "",
+   "kind": "place",
+   "where": "Pune",
+   "why": "Waste pickers in Pune have formed a cooperative to be counted and paid for their work. Ask before you visit, and learn what they sort."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-magnets",
+   "item": "A set of school magnets: ceramic discs and bar magnets",
+   "kind": "tool",
+   "why": "A ceramic or bar magnet holds well on steel and works for the steel tests. Bendy fridge magnets are often too weak.",
+   "url": "https://www.amazon.in/s?k=magnet+set+for+school+science",
+   "used_in": [
+    "e1",
+    "a1",
+    "a2",
+    "a5",
+    "p1",
+    "c2"
+   ]
+  },
+  {
+   "id": "b-neo",
+   "item": "One strong neodymium magnet, a disc or cube about 15 to 20 millimetres across",
+   "kind": "tool",
+   "why": "For the Can That Follows and the Pendulum That Stops. Only a strong magnet makes the moving-magnet effect large enough to see. Keep it away from children under five, phones and bank cards, and do not let two snap together.",
+   "url": "https://www.amazon.in/s?k=neodymium+magnet+disc+20mm",
+   "used_in": [
+    "e2",
+    "e3"
+   ]
+  },
+  {
+   "id": "b-alu",
+   "item": "A flat aluminium sheet or plate, 2 to 3 millimetres thick, from a hardware shop",
+   "kind": "material",
+   "why": "For the Pendulum That Stops. A thicker plate gives a bigger effect than a thin vessel.",
+   "url": "https://www.amazon.in/s?k=aluminium+sheet+3mm+plate",
+   "used_in": [
+    "e3"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Name the three common metals a still magnet strongly attracts.",
+   "a": "Iron, nickel and cobalt."
+  },
+  {
+   "q": "Does a still magnet attract aluminium?",
+   "a": "No."
+  },
+  {
+   "q": "What does a moving magnet do to an aluminium can?",
+   "a": "It makes the can follow, because of eddy currents."
+  },
+  {
+   "q": "What is an eddy current?",
+   "a": "A swirl of electric current that a moving magnet makes in metal."
+  },
+  {
+   "q": "Which carries electricity better, copper or plastic?",
+   "a": "Copper."
+  },
+  {
+   "q": "Why do we take steel out first at a recycling centre?",
+   "a": "So it does not stick to the spinning magnet drum."
+  },
+  {
+   "q": "What kind of base does a pan need to work on an induction stove?",
+   "a": "A base of magnetic steel."
+  },
+  {
+   "q": "Can a metal detector find gold, though a magnet does not attract it?",
+   "a": "Yes, by sensing eddy currents."
+  },
+  {
+   "q": "Does a tin can stick to a magnet? Why?",
+   "a": "Yes, because it is steel under a thin coat of tin."
+  },
+  {
+   "q": "Does a magnet that does not stick tell you what a metal is?",
+   "a": "No, it tells you only that the metal is not strongly magnetic."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "story",
+   "summary",
+   "terms",
+   "e1",
+   "explanations",
+   "a3",
+   "g1",
+   "videos",
+   "ws-core",
+   "e2",
+   "e3",
+   "a4",
+   "g2",
+   "a2",
+   "a5",
+   "agreed",
+   "challenging",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "e3",
+   "g1",
+   "ws-core",
+   "a3"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "roots": {
+  "context": "We have mapped steel, made a can follow a magnet and swung a magnet over plates. Now we ask what the way a material answers a magnet tells us about materials, and about ourselves.",
+  "deep_truth": {
+   "truth": "A still magnet ignores an aluminium can. A magnet swished past it makes the can roll. So how a material answers depends on what the magnet is doing, as well as on the material.",
+   "habit": "We say a material is magnetic or is not magnetic, as if that were a fixed label like its colour. But the label only reports how the material answered one test, with a still magnet.",
+   "evidence": "In the Can That Follows, the aluminium can ignored a still magnet and followed a fast one. In the Pendulum That Stops, the aluminium plate stopped the magnet and the wooden board did not."
+  },
+  "three": {
+   "who_am_i": "A person can sit quietly when nothing moves, and answer strongly when something rushes at them. The same person gives two different answers.",
+   "what_is_life": "A bacterium senses whether the food around her is getting richer or poorer, not only how much there is. Many living beings notice change more than stillness.",
+   "what_is_this_world": "A still magnet and a moving magnet are the same magnet. What a thing does depends on what is happening around it."
+  },
+  "thread": "A magnet and a lump of aluminium can sit side by side in silence. Move the magnet, and electricity swirls in the aluminium. The swirls were not there before, yet nothing was added from outside. The aluminium was able to swirl all along, and it needed a change to show it. Seen like this, a material is less like a fixed label and more like a set of answers, each waiting for the right question.",
+  "teachings": [
+   {
+    "source": "Zhuangzi, chapter 2, the Inner Chapters, about the 4th century BCE",
+    "teaching": "Zhuangzi, an ancient Chinese thinker, said that a road is made by people walking on it, and things are so because we call them so.",
+    "link": "The words magnetic and non-magnetic are made by people, for the answer to one test. They are useful, and they are not the whole of the material."
+   },
+   {
+    "source": "Rig Veda 1.164.46",
+    "teaching": "The hymn says that truth is one, and the wise speak of it in many ways.",
+    "link": "One piece of aluminium answers a still magnet with nothing, a moving magnet with a push, and a very strong magnet with a tiny pull. Each is one answer from the same material."
+   },
+   {
+    "source": "The Jain teaching of anekantavada, many-sidedness",
+    "teaching": "Jain teachers said that any one view shows only one side of the truth, and told of blind people who each touch a different part of an elephant.",
+    "link": "Each test touches one side of a material. The magnet, the sound, the weight and the colour each give part of the picture."
+   }
+  ],
+  "science": [
+   {
+    "text": "A moving magnet makes eddy currents in any conductor, and these push against the movement. Faraday found induction in 1831 and Lenz stated the rule in 1834.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether labels such as magnetic and non-magnetic belong to the material or to the test is a question about words, and thinkers differ.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "Ferromagnetic, paramagnetic and diamagnetic are real, fixed properties of the electrons and atoms in a material. The moving-magnet push is a separate effect that belongs to electricity. To say labels are made by us hides the fact that the atoms have a definite structure."
+  },
+  "practice": {
+   "title": "A hand in the water",
+   "mins": 3,
+   "say": "Fill a basin with water. Rest your hand in the water, very still. Breathe in slowly. Notice that the water does not push on your hand. Now move your hand slowly through the water. Notice the gentle push. Now move it a little faster, and feel the push grow. Breathe out, and let your hand be still again. The water was the same each time. What changed?",
+   "kid": "Rest your hand in a basin of water. Keep it still. Does the water push? Move your hand slowly. Then faster. Breathe slowly."
+  },
+  "ask": [
+   "A quiet person answers strongly when pushed. Are they quiet, or strong, or both?",
+   "Aluminium answers a still magnet and a moving magnet differently. Which answer shows what aluminium really is?",
+   "What labels do we give to things or people that are really only the answer to one test?"
+  ],
+  "art": "A still magnet and a moving magnet above the same aluminium plate, with a blank bubble on one and swirl arrows on the other."
+ },
+ "how_we_found_out": {
+  "story": "In 1824, the French scientist Francois Arago spun a copper disc under a compass needle. The needle turned, though copper is not magnetic and nothing touched it. People called it magnetism of rotation, and many thought that spinning made copper magnetic. In 1831, Michael Faraday showed that a moving magnet makes electric currents in a nearby conductor. Heinrich Lenz showed in 1834 that these currents push against the movement that makes them. In 1855, Leon Foucault found that a copper disc spun between the poles of a strong magnet gets hot. The swirling currents have been called eddy currents ever since. The same swirls are used in induction stoves, metal detectors and recycling centres.",
+  "who": "Francois Arago, Michael Faraday, Heinrich Lenz and Leon Foucault",
+  "when": "1824 to 1855",
+  "wrong_idea": "Many people thought spinning made copper magnetic, in the way iron is magnetic, and called it magnetism of rotation. Faraday's work showed that the needle was turned by the swirling currents that the moving copper makes in the needle's magnetic field."
+ },
+ "sources": {
+  "founder": [
+   "Founder's notes in ideas/by_topic/materials-and-their-properties.md: the magnet test on household metals and the idea that materials show their nature when tested. Used here to go deeper: three kinds of response, steel as a family, and sorting by magnets and eddy currents",
+   "The Class 3 unit on magnetic materials, which this unit builds on and does not repeat: its sixteen-object magnet test, the brass-plate story and the court game are not used again",
+   "Founder's notes in ideas/by_topic/magnets.md on forces that act without touching, and the SCI Card for Michael Faraday, used for the moving magnet and induction"
+  ],
+  "science": [
+   "Faraday, Experimental Researches in Electricity, first series, 1831 (electromagnetic induction)",
+   "Arago, Annales de chimie et de physique, 1824 (magnetism of rotation, the spinning copper disc and the compass needle)",
+   "Lenz, Annalen der Physik, 1834 (the induced current opposes the change that makes it)",
+   "Foucault, Comptes rendus de l'Academie des sciences, 1855 (a spinning copper disc between magnet poles heats up)",
+   "Faraday, Experimental Researches in Electricity, 20th and 21st series, 1845 to 1846 (diamagnetism, and the words diamagnetic and paramagnetic; series numbers to be checked)",
+   "Cullity and Graham, Introduction to Magnetic Materials, 2nd edition, 2009 (ferro-, para- and diamagnetism, steel and magnetism)",
+   "Coey, Magnetism and Magnetic Materials, 2010 (eddy currents, magnetic damping, magnet materials)",
+   "Reports on eddy current separators in waste recycling, for example in textbooks on mineral and waste processing (title to be checked before publication)",
+   "Hargraves and others on the magnetic properties experiment of the Viking landers, Journal of Geophysical Research, 1977, and later work on the Mars Exploration Rovers (titles to be checked before publication)",
+   "Davis (editor), ASM Specialty Handbook: Stainless Steels, 1994 (families of stainless steel and their magnetism, cold work)"
+  ]
+ },
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Steel Detectives needs only one ordinary magnet and kitchen steel. Results vary from home to home, and a tumbler that scores 0 everywhere is a real result. The Can That Follows and the Pendulum That Stops need a strong neodymium magnet, at least about 15 millimetres across. With a weaker ceramic magnet the can may only wobble, and the pendulum may hardly slow. Say so honestly in the notes. For the pendulum, an aluminium plate at least 2 millimetres thick works best, and a thin aluminium vessel gives a smaller effect. The steel tin must have a smooth, taped edge. The induction test uses only a magnet, never the stove. The kabadiwala visit needs a grown-up. Both games work for one child alone. The spine fits about 85 minutes. Facts to check before publishing: the Viking and rover magnet results, the details of eddy current separators, and whether 'a waste pickers' cooperative' in Pune is described correctly."
+}
