@@ -579,9 +579,9 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
    **Answer:** True. *Why:* True. Each bulb on its own branch takes its own current, so the cell must give out three times as much each second.
 
 ## Videos
-- **Series and parallel circuits with real bulbs** (A school science channel, 5 min) id `to find`: A short demonstration of two bulbs in a row and two bulbs side by side, with one bulb being unscrewed. Good to watch after Bulb Teams. *Check:* No video id yet. Find a clip that uses real bulbs and cells, says 'series' and 'parallel' correctly, and does not use a wall socket. A parent should preview it first.
+- **Types of Circuits Experiment - Series, Parallel, Combination STEM for kids!** (Tinkering With Tiny Humans, 5 min) id `8vRgp3YZ04Y`: A short demonstration of two bulbs in a row and two bulbs side by side, with one bulb being unscrewed. Good to watch after Bulb Teams. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **An electric eel lights a string of lights** (An aquarium or science museum channel, 4 min) id `to find`: A real electric eel powering lights, to see thousands of tiny cells in a row adding their pushes. *Check:* No video id yet. Find a clip from an aquarium or museum that treats the eel kindly and gives the voltage correctly. A parent should preview it first.
-- **How a fuse and a trip switch protect a home** (A trade or engineering channel, 6 min) id `to find`: For the parent and older children: how a fuse wire melts and how an MCB trips, and why the size must match the wire. *Check:* No video id yet. Find a clip that shows the inside of a fuse and an MCB. Check it is not about repairing live wiring. A parent should preview it first.
+- **RCDs, RCBOs & MCBs Explained — What They Do Inside Your Fuse Box** (LEARN ELECTRICS, 8 min) id `nVi5Idyt-jE`: For the parent and older children: how a fuse wire melts and how an MCB trips, and why the size must match the wire. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Priya builds two circuits with the same cells and the same kind of bulbs. In circuit X, two bulbs are in a row. In circuit Y, they are side by side. Which bulbs glow brighter?  

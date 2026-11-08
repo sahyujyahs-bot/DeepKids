@@ -69,15 +69,15 @@ Heat does not only make particles move faster. In water, a good part of the heat
 ### Sea, sand and sky: why places warm differently · *defined*
 **Definition:** Land warms and cools faster than the sea. This is because water needs more heat for each degree, and because sunlight and waves spread heat through deep water.
 
-In the sun, dry sand needs only about a fifth of the heat that water needs for each degree. Sunlight stays at the sand surface, so the top layer gets very hot. In the sea, sunlight goes down several metres, and waves and currents mix the heat through a deep layer. So the sea warms slowly by day and cools slowly by night. Places by the sea, such as Chennai, Kochi and Mumbai, usually have only 8 to 10 degrees between their day and night. In a desert, such as Jaisalmer, the day and night can differ by 15 degrees or more. The difference in warming between land and sea also helps to drive the monsoon winds.
+In the sun, dry sand needs only about a fifth of the heat that water needs for each degree. Sunlight stays at the sand surface, so the top layer gets very hot. In the sea, sunlight goes down several metres, and waves and currents mix the heat through a deep layer. So the sea warms slowly by day and cools slowly by night. Places by the sea, such as Chennai, Kochi and Mumbai, usually have only about 7 to 10 degrees between their day and night. In a desert, such as Jaisalmer, the day and night can differ by 15 degrees or more. The difference in warming between land and sea also helps to drive the monsoon winds.
 - e.g. The sand at Marina beach in Chennai burns your feet at noon, while the sea beside it feels cool.
 - e.g. Desert nights are cold because dry sand and thin dry air hold little heat and give it up quickly.
 - e.g. The sea along India's coast keeps the weather milder than far inland, all year round.
-- e.g. In 1856, Eunice Foote, an American scientist, is reported to have put thermometers in glass tubes of different gases in the sunshine. The tubes warmed by different amounts, which is the same idea as sand and water warming differently.
+- e.g. In 1856, Eunice Foote, an American scientist, is reported to have put thermometers in glass tubes of different gases in the sunshine. The tubes warmed by different amounts, so different materials take up the sun's heat differently.
 ### Sharing heat: where a mixture ends up · *defined*
 **Definition:** When you mix two amounts of the same liquid at different temperatures, the mix ends between them, nearer the temperature of the bigger amount.
 
-A mix of 1 litre at 80 degrees and 3 litres at 20 degrees: multiply each amount by its temperature, add, and divide by the total. 1 times 80 is 80. 3 times 20 is 60. 80 plus 60 is 140. Divide by 4 litres and you get 35 degrees. The 3 litres are three times as much, so the mix is three times closer to 20 than to 80. For different materials you must also include their specific heats. A hot steel spoon dropped into a cup of cool water warms the water by only about 2 degrees, because the spoon holds very little heat for each degree.
+A mix of 1 litre at 80 degrees and 3 litres at 20 degrees: multiply each amount by its temperature, add, and divide by the total. 1 times 80 is 80. 3 times 20 is 60. 80 plus 60 is 140. Divide by 4 litres and you get 35 degrees. The 3 litres are three times as much, so the mix is three times closer to 20 than to 80. For different materials you must also include their specific heats. A hot steel spoon dropped into a cup of cool water warms the water by only a degree or two, because the spoon holds very little heat for each degree.
 - e.g. A little hot milk in a big glass of cold milk warms it only a little.
 - e.g. A bucket of bath water is mixed from a kettle of hot water and a lot of cold water.
 - e.g. A hot idli steamer plate dropped into a basin of water warms the water by a few degrees.
@@ -120,7 +120,7 @@ Your body makes heat all the time from food. When you are too warm, your skin wi
 **Definition:** Absolute zero, about minus 273 degrees Celsius, is the coldest temperature possible. Nobody knows if there is a hottest temperature.
 
 As things cool, their particles move less. At absolute zero they would move as little as the rules of nature allow. They do not stop completely, because quantum physics says some small movement always remains. No one can reach absolute zero exactly, but laboratories have come within a billionth of a degree. At the other end, the centre of the Sun is about 15 million degrees. In particle accelerators, scientists have made a tiny blob of matter that was reported to reach several trillion degrees for a moment. Is there a top limit? That is still an open question.
-- e.g. The Boomerang Nebula, a cloud of gas in space, is reported to be the coldest natural place known, at about minus 272 degrees Celsius.
+- e.g. The Boomerang Nebula, a cloud of gas in space, is reported to be one of the coldest natural places known, at about minus 272 degrees Celsius.
 - e.g. The centre of the Sun is about 15 million degrees Celsius.
 - e.g. Scientists have cooled atoms to less than a billionth of a degree above absolute zero in some laboratories.
 - **Many physicists:** There is probably no hottest temperature in principle, but near a value called the Planck temperature our known laws of physics stop working. So we cannot say what happens there.
@@ -284,7 +284,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 - **question:** If a tumbler of cooking oil and a tumbler of water stand in the same hot bath, which one warms up more in 12 minutes, and by how much?
 - **predict:** Before you start, guess. Which will warm up more, the oil or the water? Will the difference be small or big? Why do you think so?
 - **fair test:** Use two tumblers of the same size and metal. Put 100 millilitres of oil in one and 100 millilitres of water in the other. Both must start at room temperature. Stand them side by side in the same bath. Stir gently before every reading, and read both at the same times. Only the liquid changes, so any difference comes from the liquid.
-- **safety:** A grown-up boils the water, mixes the bath and sets the tumblers in it. The oil in this test is never put on a flame and never gets hotter than about 70 degrees. Work on a steady table with a tray under the pan. Glass thermometers break easily, so never stir with them, and lay them flat on a cloth. Wipe up any spilt oil at once, because it is slippery.
+- **safety:** A grown-up boils the water, mixes the bath and sets the tumblers in it. The oil in this test is never put on a flame and never gets hotter than about 70 degrees. Work on a steady table with a tray under the pan. Glass thermometers break easily, so never stir with them, and lay them flat on a cloth. Wipe up any spilt oil at once, because it is slippery. The steel tumblers get hot in the bath, so lift them out with a cloth or tongs.
 - **record:** Fill in the table. Then draw two lines on one graph, one for the oil and one for the water, with time along the bottom. Write how many degrees each one rose in 12 minutes.
 - **results table:** Time (minutes) | Oil (°C) | Water (°C) | Bath (°C)
 - **s1 (4 min)**  
@@ -496,7 +496,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
   *Parent says:* Watch the flame under the katori. It heats the water. When the flame dies, we stir the water and read the thermometer. Stand back from the fire.  
   *Child mode:* A grown-up lights the nut. Watch the water. When the flame dies, read the thermometer.
   - Note: A groundnut often burns for 30 seconds to a minute. If it will not catch fire, hold the match to it for a few seconds, or use dry coconut. Keep the katori steady and close. The water usually rises 5 to 15 degrees. Keep the pin's tip away from fingers. Put the burnt nut in the bowl of water.
-  - Check: Why is it safe to keep the katori close to the flame, rather than far above it? → **More of the flame's heat goes into the water, and less is lost to the air**
+  - Check: Why do we keep the katori close to the flame, rather than far above it? → **More of the flame's heat goes into the water, and less is lost to the air**
 - **a4s4 (6 min)**  
   *Parent does:* Work out the heat the water caught. Take the rise in degrees and multiply by 100, because there are 100 grams of water. For example, a rise of 8 degrees is 800 calories. Write your answer in calories.  
   *Parent says:* The water rose by some degrees. Each degree for 100 grams of water takes 100 calories. So how many calories did your water catch?  
@@ -508,7 +508,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
   *Child mode:* A groundnut holds about 3,000 calories. Your water caught fewer. Where did the rest go?
   - Ask: Where did the rest of the heat go? (good: Into the air.; Into the katori and the thermometer.; Into the smoke and the hot gases.)
   - Note: Most of the heat warms the air around the flame, the katori and the smoke. A good home result catches a quarter to a third of the heat. This is why scientists in a proper laboratory put the flame inside a closed container. Good measuring includes saying how much you may have lost.
-  - Think: Your body also gets about 5 kilocalories from each gram of groundnut. What does your body do with it?
+  - Think: Your body also gets about 5 to 6 kilocalories from each gram of groundnut. What does your body do with it?
 
 ## Projects
 ### p1 · Sand and Water in the Sun: two plates, two days (40 min, 2 days)

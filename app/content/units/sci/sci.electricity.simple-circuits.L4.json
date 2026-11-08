@@ -1496,13 +1496,12 @@
  ],
  "videos": [
   {
-   "title": "Series and parallel circuits with real bulbs",
-   "channel": "A school science channel",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Types of Circuits Experiment - Series, Parallel, Combination STEM for kids!",
+   "channel": "Tinkering With Tiny Humans",
+   "youtube": "8vRgp3YZ04Y",
    "mins": 5,
    "why": "A short demonstration of two bulbs in a row and two bulbs side by side, with one bulb being unscrewed. Good to watch after Bulb Teams.",
-   "check": "No video id yet. Find a clip that uses real bulbs and cells, says 'series' and 'parallel' correctly, and does not use a wall socket. A parent should preview it first."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "An electric eel lights a string of lights",
@@ -1514,13 +1513,12 @@
    "check": "No video id yet. Find a clip from an aquarium or museum that treats the eel kindly and gives the voltage correctly. A parent should preview it first."
   },
   {
-   "title": "How a fuse and a trip switch protect a home",
-   "channel": "A trade or engineering channel",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 6,
+   "title": "RCDs, RCBOs & MCBs Explained — What They Do Inside Your Fuse Box",
+   "channel": "LEARN ELECTRICS",
+   "youtube": "nVi5Idyt-jE",
+   "mins": 8,
    "why": "For the parent and older children: how a fuse wire melts and how an MCB trips, and why the size must match the wire.",
-   "check": "No video id yet. Find a clip that shows the inside of a fuse and an MCB. Check it is not about repairing live wiring. A parent should preview it first."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "quiz": [

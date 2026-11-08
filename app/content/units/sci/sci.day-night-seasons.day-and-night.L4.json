@@ -2654,12 +2654,12 @@
   ],
   "videos": [
     {
-      "title": "Why the Sun reaches different places at different times, and how time zones work",
-      "channel": "to be found",
-      "status": "find-id",
-      "mins": 5,
+      "title": "Understanding World Time Zones | School Education",
+      "channel": "S Chand School Education",
+      "mins": 6,
       "why": "To see the day-night line sweep across the Earth, and why clocks in different places differ.",
-      "check": "Not yet found. Find one, watch it, and check that it shows the line of dawn moving west and does not suggest that time zones follow the Sun exactly."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+      "youtube": "DX5YhLmjk2I"
     },
     {
       "title": "Why the Earth's days are getting longer: the Moon, the tides and ancient corals",

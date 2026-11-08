@@ -46,7 +46,7 @@ When wood burns, the carbon in the wood joins with oxygen from the air and becom
 ### Where does the log go? Mostly into the air · *defined*
 **Definition:** When a dead plant is decomposed, a large share of its carbon is breathed out by the decomposers as carbon dioxide. The rest becomes the bodies of decomposers, humus in the soil, and nutrients taken up by new plants.
 
-A tree builds its wood mostly from carbon dioxide taken from the air, as you learned in the photosynthesis unit. So when the wood rots, much of it goes back the way it came. Decomposers breathe out the carbon as carbon dioxide, and the rest of the matter leaves as water vapour. In many studies of fallen leaves, more than half of the carbon is breathed out in a year or two in warm, wet places. What stays behind is partly the bodies of the fungi and bacteria, and partly dark, crumbly humus. The minerals in the wood, such as nitrogen, phosphorus and potassium, dissolve in rain and sink into the soil. A root can then drink them. So the tree does not disappear. Part goes up into the air, part goes down into the soil, and plants take both back again.
+A tree builds its wood mostly from carbon dioxide taken from the air, as you learned in the photosynthesis unit. So when the wood rots, much of it goes back the way it came. Decomposers breathe out the carbon as carbon dioxide, and the rest of the matter leaves as water vapour. In many studies of fallen leaves in warm, wet places, a large share of the carbon is breathed out within a year or two. What stays behind is partly the bodies of the fungi and bacteria, and partly dark, crumbly humus. The minerals in the wood, such as nitrogen, phosphorus and potassium, dissolve in rain and sink into the soil. A root can then drink them. So the tree does not disappear. Part goes up into the air, part goes down into the soil, and plants take both back again.
 - e.g. A rotting palm trunk loses weight mostly as carbon dioxide and water vapour.
 - e.g. A compost heap shrinks to a small fraction of the weight of the kitchen scraps that went in.
 - e.g. Banana plants beside a rotting trunk grow with the minerals it releases.
@@ -164,7 +164,7 @@ A leaf is air and water made into a body by sunlight. When the leaf dies, a fung
 
 The storm came on the first night of the monsoon. By morning, the yard in Alappuzha was full of torn leaves, and the tall coconut palm by the gate was lying across the path. Meenakshi's grandfather stood over it with his hands on his hips. He did not say anything for a long time.
 
-He had planted that palm the day Meenakshi's mother was born. Thirty-six years it had given coconuts, shade and a place for the crows to quarrel. Now it was a long grey log with a crown of broken fronds.
+He had planted that palm the day Meenakshi's mother was born. Thirty-six years she had given coconuts, shade and a place for the crows to quarrel. Now it was a long grey log with a crown of broken fronds.
 
 "I will get Raju to cut it up," said Appooppan. "We can burn the pieces. A dead tree is only a dead tree."
 
@@ -200,7 +200,7 @@ Appooppan looked at the log, and at the banana leaves, and at his granddaughter.
 
 "The air part will come back too," said Meenakshi. "The leaves take it in."
 
-He laughed, which he had not done since the storm. He did not call Raju. When Onam came, the log stayed, and a year later, a small coconut seedling pushed up through the soft wood where the trunk had been. Appooppan watered it every morning, and showed everyone who visited where the old palm had gone.
+He laughed, which he had not done since the storm. He did not call Raju. When Onam came, the log stayed, and a year later, a small coconut seedling pushed up through the soft wood where the trunk had been. Appooppan watered the seedling every morning, and showed everyone who visited where the old palm had gone.
 
 **For the parent:** A dead trunk is not lost. Most of it goes into the air as gas, a little at a time, and the rest goes into the soil, where other plants use it.
 
@@ -238,7 +238,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **question:** Does damp soil with a little peel give out carbon dioxide? Does warmth change how much?
 - **predict:** Guess first. Jar A has soil and peel in a warm room. Jar B has the same, but sits in the fridge. Jar C has only air. After a day, which limewater will turn milky, and which will stay clear? Why do you think so?
 - **fair test:** Jars A and B have the same soil, the same peel, the same water and the same limewater. Only the place changes: a warm room for A and a fridge for B. Jar C has only air and limewater, so it shows what limewater does with no soil at all.
-- **safety:** Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater. If any splashes in an eye, rinse with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Wash hands after touching soil and jars. Open the jars outdoors or near a window, because they may smell, and do not put your nose inside.
+- **safety:** Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater. If any splashes in an eye, rinse with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Keep jar B sealed, labelled, and on a separate fridge shelf away from food. Wash hands after touching soil and jars. Open the jars outdoors or near a window, because they may smell, and do not put your nose inside.
 - **record:** Draw the three jars. Write the colour of the limewater in each katori after 1 day and after 2 days. Mark which jar sat in the fridge.
 - **results table:** Jar | What is in it and where it sits | Limewater after 1 day | Limewater after 2 days
 - **schedule:** day 1: Guess. Make the limewater. Set up the three jars and seal the katoris in. (30 min); day 2: Look at the limewater in each katori. Write the results and explain them. Look once more on day 3 if the colours are unclear. (10 min)
@@ -266,7 +266,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   *Child mode:* Blow into the limewater. It turns milky. Fill three katoris, put one in each jar, close the lids.
   - Note: Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. If your room is cold, jar A may be slow.
 - **s5 (12 min)**  
-  *Parent does:* The next day, look at the limewater in each katori without opening the jar, if you can see in. Then lift out each katori, one at a time, and look at the limewater in good light. Write what you see. Look again the day after.  
+  *Parent does:* The next day, look at the limewater in each katori without opening the jar, if you can see in. Then a grown-up lifts out each katori, one at a time, and you look at the limewater in good light. Write what you see. Look again the day after.  
   *Parent says:* Look at each katori. Is the limewater clear, a little cloudy, or milky? Write it down. Then tell me what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Look at each katori. Write clear, cloudy or milky. Say what you thought, what you saw, and why.
   - Ask: What gas do you think made the limewater milky? Where did it come from? (good: Carbon dioxide.; From the soil and the peel.; Something in the soil was breathing.)
@@ -331,7 +331,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   - Note: A good answer is that the threads, the tiny animals and the tiny bits of dead plant are all part of the story. The dead plant is the food, and the threads and animals are the eaters. Say that soil is a living thing. A spoon of healthy garden soil has more living beings than there are people in India.
   - Think: If you could look at a spoon of soil from a forest, what would be different?
 ### a2 · Marigold Diary: one flower garland, two weeks (40 min, 14 days)
-- **safety:** Wash hands after touching the soil and the flowers. Do not eat any of the flowers.
+- **safety:** Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers; a grown-up does it, with gloves.
 - **record:** A diary page for each day, with a drawing, a short note about colour, smell and softness, and a guess about who has been at work.
 - **schedule:** day 1: Bury half of the flowers in one pot and leave half in a dry saucer. Draw both. (10 min); day 4: Look at both. Draw and write what has changed. (5 min); day 8: Look at both. Press a stick into the buried flowers. (5 min); day 14: Dig up the buried flowers. Compare with the dry ones. Explain what happened. (10 min)
 - **s1 (10 min)**  
@@ -353,6 +353,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   - Check: The buried flowers rotted and the dry ones did not. What is the best reason? → **Decomposers need water, and the soil gave them some**
   - Think: Where did the rest of the flower go?
 ### a3 · Who Eats It? Follow one meal's leftovers (25 min)
+- **safety:** Use only cooked or clean leftovers, never raw meat or raw egg. Wash hands after handling bones, shells and wrappers.
 - **record:** A table with three columns: the leftover, who or what eats it, and what is left at the end. A last row for things that nobody can eat.
 - **s1 (5 min)**  
   *Parent does:* Lay out the leftovers of one meal on a tray. Ask your child to name each one. Draw the table on a sheet of paper.  
@@ -374,6 +375,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   - Check: Why does a plastic wrapper last so long? → **Almost no decomposer makes enzymes that fit plastic**
   - Think: What could we do with the leftovers that nobody can eat?
 ### a4 · Street Cleaners: ten minutes at a window (20 min)
+- **safety:** Watch from a window or a safe distance. Never feed or touch street animals, and do not go near a bin or dropped food outdoors.
 - **record:** A tally chart of every creature who came to eat, with their name or a drawing, and how many times.
 - **s1 (5 min)**  
   *Parent does:* Choose a spot you can see from a window or a balcony, where food or fruit lies on the ground. Ask your child to guess who will visit in ten minutes.  
@@ -396,7 +398,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 
 ## Projects
 ### p1 · Does rot feed the next plant? Methi in three pots (50 min, 14 days)
-- **safety:** Wash hands after handling soil and compost.
+- **safety:** Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test.
 - **record:** A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14.
 - **schedule:** day 1: Fill the three pots. Plant 8 methi seeds in each. Water them. (25 min); day 4: Water. Measure the height of each pot's plants. Write it down. (5 min); day 8: Water. Measure and write the height and colour. (5 min); day 14: Measure and compare. Draw a bar chart. Explain what you found. (15 min)
 - **s1 (5 min)**  
@@ -425,6 +427,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 ## Challenges
 ### c1 · The Rot Race: make the fastest-rotting jar (35 min)
 - **problem:** You have 100 grams of fresh vegetable peels, two tablespoons of soil and one jar. Set up the jar so the peels soften and darken as fast as you can in 5 days.
+- **safety:** A grown-up cuts the peels. Open the jars outdoors and do not sniff them. Anyone with asthma or a mould allergy should not open a fuzzy jar. Wash hands after.
 - **your turn:** Sketch your first jar and say why each choice should make the peels rot faster. Set up jar 1. Change one thing, such as the size of the pieces or the warmth, in jar 2. After 5 days, which jar rotted more? Why?
 - **constraints:** Use only the peels, the soil, the jar and things from your kitchen: water, a knife, paper and a lid.; No chemicals, no heating, and no adding of ready-made compost.; Change only one thing from your first jar at a time, so you can tell what helped.; After 5 days, score each jar from 0 to 5 for how soft, dark and crumbly the peels are.
 - **general:** Chop the peels small, because small pieces have more surface for decomposers.; Keep the peels damp, not soaked, because decomposers need water but also air.; Put the jar in a warm place, because decomposers work faster when it is warm.

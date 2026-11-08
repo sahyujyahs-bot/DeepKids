@@ -669,9 +669,9 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
    **Answer:** True. *Why:* True. The outer ear flap, or pinna, belongs to mammals. Birds, frogs and snakes have an eardrum or none, but no ear flap.
 
 ## Videos
-- **How bats find their way in the dark with echoes** (to be found, 4 min) id `to find`: To hear a bat's calls slowed down, and see how echoes help a bat find a moth. *Check:* Not yet found. Find one, watch it, and check that it explains echolocation accurately before adding it.
-- **How snakes sense heat with pit organs** (to be found, 4 min) id `to find`: To see how a snake with heat pits finds a warm target in the dark. *Check:* Not yet found. Find one, watch it, and check that it names pythons, boas and pit vipers correctly.
-- **How birds see colours that people cannot see** (to be found, 4 min) id `to find`: To see photographs of feathers in ultraviolet light, and learn about the bird's fourth cone. *Check:* Not yet found. Find one, watch it, and check that it explains ultraviolet vision correctly.
+- **Hide and seek in the rainforest: how do bats tell food from foliage?** (FunctionalEcology, 5 min) id `dQbgC5n7mAI`: To hear a bat's calls slowed down, and see how echoes help a bat find a moth. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Seeing Heat: The Sensory Systems of Boas, Pythons and Pit Vipers - Science Nation** (National Science Foundation News, 4 min) id `5vrlAz8Ja5I`: To see how a snake with heat pits finds a warm target in the dark. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What do Birds See? Bird vision & ultraviolet light!** (Ornithopter Zone, 5 min) id `nm25OpCTBWA`: To see photographs of feathers in ultraviolet light, and learn about the bird's fourth cone. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What does a receptor do?  

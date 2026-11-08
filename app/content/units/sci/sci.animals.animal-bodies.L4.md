@@ -589,9 +589,9 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    **Answer:** An octopus with a funnel pointing backwards, an arrow for the water going back and an arrow for the octopus going forward.. *Why:* A strong drawing shows the jet going one way and the octopus moving the other way. The water is pushed back, and it pushes her forward.
 
 ## Videos
-- **How a camel survives in the desert** (to be found, 5 min) id `to find`: To see a dromedary walking on sand, with the wide pads, the hump and the eyelashes close up. *Check:* Not yet found. Find one, watch it and check that it says the hump is fat and not water.
-- **Woodpecker pecking in slow motion** (to be found, 4 min) id `to find`: To see a woodpecker's head, beak and tail at work in slow motion. *Check:* Not yet found. Find one with high-speed footage. Check that it does not say as settled that the head has a shock absorber.
-- **An octopus squeezes through a small gap and changes colour** (to be found, 5 min) id `to find`: To see an octopus pour through a small hole, move by jet and change colour. *Check:* Not yet found. Find a short one from a trusted nature or science channel. Check that it calls the limbs arms.
+- **Dromedary Camel Survival in India’s Thar Desert – Camelus dromedarius Built for Heat, Sand...** (WildLife Uncovered, 8 min) id `3hlNEJrY8II`: To see a dromedary walking on sand, with the wide pads, the hump and the eyelashes close up. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **American Three-Toed Woodpecker Pecking on Pine Tree in Slow Motion** (Free Roaming Photography, 2 min) id `G1oP1czJjqU`: To see a woodpecker's head, beak and tail at work in slow motion. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Common octopus squeezes through tiny hole - Part 2** (Earth.com, 2 min) id `jpd_sxqFNng`: To see an octopus pour through a small hole, move by jet and change colour. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A bird has a very long, thin, curved beak. What should you ask first?  

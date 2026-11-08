@@ -2277,22 +2277,20 @@
   ],
   "videos": [
     {
-      "title": "How a rope round a post holds a boat (the capstan effect)",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 5,
+      "title": "Capstan Demonstration (Mystic Seaport)",
+      "channel": "hultonclint",
+      "youtube": "zLP3By7Fyec",
+      "mins": 4,
       "why": "To see a rope wound round a post hold a heavy load with a light hand, and to see the turns counted.",
-      "check": "Not yet found. Find one, watch it all, and check that it shows the number of turns and does not say that the knot is what holds."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "Stick-slip: why a violin bow and a chalk make sound",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 5,
+      "title": "A Simple Demonstration of Stick-Slip Action",
+      "channel": "ToneSpectra.com",
+      "youtube": "SxNJa4cnDmc",
+      "mins": 3,
       "why": "To see sticking and slipping in slow motion, on a bow, on chalk or on a sliding block.",
-      "check": "Not yet found. Find one, watch it all, and check that it explains starting friction and sliding friction correctly."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
       "title": "Friction and the real area of contact (tiny peaks on surfaces)",

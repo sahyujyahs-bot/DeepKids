@@ -625,9 +625,9 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    **Answer:** I would count my pulse for 15 seconds while sitting calmly, and again while waiting for a race that never starts. I would do three pairs, change the order, and use the same wrist and the same time of day.. *Why:* A strong answer compares a calm count with a waiting count, repeats the pair, mixes the order, and keeps the counting method the same.
 
 ## Videos
-- **How the heart keeps its own beat: the pacemaker and the nerves that speed it up and slow it down** (to be found, 5 min) id `to find`: To see the pacemaker, the beating heart and the nerve signals that change its speed. *Check:* Not yet found. Find one, watch it, and check that it says the heart beats by itself and that the vagus nerve slows it.
-- **How breathing works: the diaphragm, the ribs and the lungs** (to be found, 4 min) id `to find`: To see the diaphragm flatten and the ribs lift as the chest grows and air flows in. *Check:* Not yet found. Find one, watch it, and check that it says the air outside pushes in, and does not say the lungs suck air in.
-- **What happens to the heart and the body when you exercise** (to be found, 5 min) id `to find`: To see pulse and breathing rise and fall during exercise, in a clear animation or a real laboratory test. *Check:* Not yet found. Find one, watch it, and check it matches the pulse timeline.
+- **The Pacemaker of the Heart - SA and AV Nodes Made EASY!** (Interactive Biology, 8 min) id `1hStVXf9Y24`: To see the pacemaker, the beating heart and the nerve signals that change its speed. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Breathing Works** (NHLBI, 4 min) id `dXHkCDohf70`: To see the diaphragm flatten and the ribs lift as the chest grows and air flows in. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Cardiovascular Response to Exercise** (Dr Matt & Dr Mike, 9 min) id `0FID5qRGXGg`: To see pulse and breathing rise and fall during exercise, in a clear animation or a real laboratory test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) You count 19 beats in 15 seconds. What is the pulse per minute?  

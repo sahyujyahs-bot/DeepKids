@@ -566,9 +566,9 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    **Answer:** A fallen mangrove leaf in the mud labelled detritus. A crab labelled detritivore. Fungus or bacteria on the leaf labelled decomposer. A prawn or fish eating small animals from the mud.. *Why:* A strong drawing shows the leaf softening first, the crab and microbes feeding on it, and a bigger animal eating them.
 
 ## Videos
-- **How energy flows through a food chain and an energy pyramid (a short film)** (to be found, 5 min) id `to find`: To see the Sun's energy move from the producers to each eater, with heat leaving at every step. *Check:* Not yet found. Find one, watch it, and check that it shows energy flowing one way and heat leaving at each step, not a loop of energy.
-- **The mangrove forest food web and why fish nurseries need mangroves (a short film)** (to be found, 5 min) id `to find`: To see the dead-leaf chain in a real mangrove, with crabs, prawns, fish and birds. *Check:* Not yet found. Find one, watch it, and check that it shows fallen leaves and crabs, and does not say that mangrove leaves are the only source of food.
-- **Life at deep-sea hydrothermal vents: food chains without sunlight (a short film)** (to be found, 5 min) id `to find`: To see tube worms and bacteria living on chemical energy in total darkness. *Check:* Not yet found. Find one, watch it, and check that it names bacteria and hydrogen sulfide, and that the pictures are from real vents.
+- **Food Webs and Energy Pyramids: Bedrocks of Biodiversity** (Amoeba Sisters, 9 min) id `-oVavgmveyY`: To see the Sun's energy move from the producers to each eater, with heat leaving at every step. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Galapagos Mangroves Are Fish Breeding Ground** (Green Wire News, 3 min) id `VpW3UDjFouY`: To see the dead-leaf chain in a real mangrove, with crabs, prawns, fish and birds. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Weird and Wonderful: Giant tubeworms** (MBARI (Monterey Bay Aquarium Research Institute), 5 min) id `7j_RfzhddBM`: To see tube worms and bacteria living on chemical energy in total darkness. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which sentence best describes a food chain?  

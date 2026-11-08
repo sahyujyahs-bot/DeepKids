@@ -712,9 +712,9 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    **Answer:** Just before sunrise. *Why:* In the dark, the plants cannot make oxygen, but plants and animals keep using it. By dawn the night's use has added up, and the oxygen is lowest.
 
 ## Videos
-- **How insects breathe (spiracles and air tubes)** (to be found, 5 min) id `to find`: To see an insect's spiracles and the branching air tubes inside her body. *Check:* Not yet found. Find a short, accurate video that shows spiracles and tracheae, watch it, and check that it does not say insects have lungs.
-- **How crabs and prawns breathe with gills** (to be found, 4 min) id `to find`: To see a crab's gill chamber and the gill bailer pushing water over the gills. *Check:* Not yet found. Find a short, accurate video of crab gills, watch it, and check that it shows the gill chamber under the shell.
-- **Diving beetle carrying an air bubble underwater** (to be found, 4 min) id `to find`: To see a diving beetle carry a bubble of air under her wing covers. *Check:* Not yet found. Find a short, accurate video, watch it, and check that it shows the beetle breathing from a bubble.
+- **Respiratory System In Insects** (Educational Videos, 5 min) id `HV60yTvy3Mk`: To see an insect's spiracles and the branching air tubes inside her body. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Crabs Breathe on Land with Gills (Nature’s Weirdest Trick) 🦀** (Fastelligence, 1 min) id `ctrXsKKOFjs`: To see a crab's gill chamber and the gill bailer pushing water over the gills. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Great Diving Beetle - Water Tiger - Pond Life Fact file** (Pond Lab, 4 min) id `sbO1mvCccgw`: To see a diving beetle carry a bubble of air under her wing covers. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A drifting particle needs a certain time to go a certain distance. Which statement is closest to the truth?  

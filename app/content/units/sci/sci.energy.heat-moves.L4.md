@@ -648,9 +648,9 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
    **Answer:** Keep the same: the size of the rooms, the walls, and the time in the Sun. Change: the colour of the roof. Measure: the temperature inside the rooms, at the start and after the same time.. *Why:* A strong answer changes one thing, keeps the rest the same, and measures with a thermometer.
 
 ## Videos
-- **Convection currents: why hot water rises and cold water sinks** (to be found, 4 min) id `to find`: To see a loop of hot and cold water with food colouring, like the Colour Currents test. *Check:* Not yet found. Find one with clear pictures of coloured water in a glass. Watch it first and check that it says warm water rises because it is less dense.
-- **How does the Sun's heat reach the Earth through empty space?** (to be found, 5 min) id `to find`: To see that radiation travels through nothing, and what infrared is. *Check:* Not yet found. Find one, watch it, and check that it separates radiation from conduction and convection and does not say the Sun heats the air in between.
-- **What does a candle flame look like in space?** (to be found, 4 min) id `to find`: To see the round, blue flame in weightlessness, and so see that convection needs gravity. *Check:* Not yet found. Look for a NASA or space agency clip of a candle flame on the space station, and check it matches the real experiments.
+- **Convection Current Demonstration and Explanation** (Science4Breakfast, 3 min) id `CTQzLUttGv4`: To see a loop of hot and cold water with food colouring, like the Colour Currents test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Sun's Embrace: How Solar Heat Travels to Earth** (gogoLEARN, 5 min) id `wYRhI5faVrk`: To see that radiation travels through nothing, and what infrared is. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **NASA Lit a Fire in Space. It Kept Burning After It Went Out.** (cognatura, 4 min) id `r5HxWCZDS9I`: To see the round, blue flame in weightlessness, and so see that convection needs gravity. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Heat reaches your face from a bonfire across a gap of cold air. Which way is it travelling?  

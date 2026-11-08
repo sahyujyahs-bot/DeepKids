@@ -2077,31 +2077,28 @@
   ],
   "videos": [
     {
-      "title": "How energy flows through a food chain and an energy pyramid (a short film)",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 5,
+      "title": "Food Webs and Energy Pyramids: Bedrocks of Biodiversity",
+      "channel": "Amoeba Sisters",
+      "youtube": "-oVavgmveyY",
+      "mins": 9,
       "why": "To see the Sun's energy move from the producers to each eater, with heat leaving at every step.",
-      "check": "Not yet found. Find one, watch it, and check that it shows energy flowing one way and heat leaving at each step, not a loop of energy."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "The mangrove forest food web and why fish nurseries need mangroves (a short film)",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
-      "mins": 5,
+      "title": "Galapagos Mangroves Are Fish Breeding Ground",
+      "channel": "Green Wire News",
+      "youtube": "VpW3UDjFouY",
+      "mins": 3,
       "why": "To see the dead-leaf chain in a real mangrove, with crabs, prawns, fish and birds.",
-      "check": "Not yet found. Find one, watch it, and check that it shows fallen leaves and crabs, and does not say that mangrove leaves are the only source of food."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "Life at deep-sea hydrothermal vents: food chains without sunlight (a short film)",
-      "channel": "to be found",
-      "youtube": "",
-      "status": "find-id",
+      "title": "Weird and Wonderful: Giant tubeworms",
+      "channel": "MBARI (Monterey Bay Aquarium Research Institute)",
+      "youtube": "7j_RfzhddBM",
       "mins": 5,
       "why": "To see tube worms and bacteria living on chemical energy in total darkness.",
-      "check": "Not yet found. Find one, watch it, and check that it names bacteria and hydrogen sulfide, and that the pictures are from real vents."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     }
   ],
   "quiz": [

@@ -530,8 +530,8 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
    **Answer:** The sack, because it slides. The other three roll.. *Why:* Rolling has much less friction than sliding. The drum, the ball and the wheel all roll, but the sack is dragged.
 
 ## Videos
-- **How a rope round a post holds a boat (the capstan effect)** (to be found, 5 min) id `to find`: To see a rope wound round a post hold a heavy load with a light hand, and to see the turns counted. *Check:* Not yet found. Find one, watch it all, and check that it shows the number of turns and does not say that the knot is what holds.
-- **Stick-slip: why a violin bow and a chalk make sound** (to be found, 5 min) id `to find`: To see sticking and slipping in slow motion, on a bow, on chalk or on a sliding block. *Check:* Not yet found. Find one, watch it all, and check that it explains starting friction and sliding friction correctly.
+- **Capstan Demonstration (Mystic Seaport)** (hultonclint, 4 min) id `zLP3By7Fyec`: To see a rope wound round a post hold a heavy load with a light hand, and to see the turns counted. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **A Simple Demonstration of Stick-Slip Action** (ToneSpectra.com, 3 min) id `SxNJa4cnDmc`: To see sticking and slipping in slow motion, on a bow, on chalk or on a sliding block. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Friction and the real area of contact (tiny peaks on surfaces)** (to be found, 6 min) id `to find`: To see a magnified view of two surfaces touching only at their peaks. *Check:* Not yet found. Find one, watch it all, and check that it shows contact only at tiny peaks and does not claim that area changes friction on hard surfaces.
 
 ## Quiz

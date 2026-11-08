@@ -732,9 +732,9 @@ Thendral looked at the others. Then she took the binoculars and found the line o
    **Answer:** Yes. A bigger drop is heavier for the size of its surface, so it needs more speed before drag equals its weight. It reaches a higher steady speed.. *Why:* A strong answer says that the steady speed depends on the balance of drag and weight, and a bigger drop has a higher steady speed.
 
 ## Videos
-- **Terminal velocity and why raindrops do not hurt** (to be found, 4 min) id `to find`: To see a falling object speed up and then level off, and to link this to raindrops and parachutes. *Check:* Not yet found. Find one, watch it, and check it shows drag growing with speed and balancing weight before adding it.
+- **Why Raindrops Don't Hurt: The Science of Terminal Velocity** (Tanveer 360 World, 4 min) id `LF_PUMRCUK0`: To see a falling object speed up and then level off, and to link this to raindrops and parachutes. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Why geese fly in a V (upwash and drafting)** (to be found, 4 min) id `to find`: To see the tracking of ibises in a V, and the swirls of air behind a wing. *Check:* Not yet found. Find one, watch it, and check that it says energy saving is measured but the full reason is still debated.
-- **How aircraft turn: ailerons, elevator and rudder** (to be found, 4 min) id `to find`: To see the flaps of a real plane move, and the plane roll, pitch and yaw. *Check:* Not yet found. Find one, watch it, and check that it shows the aileron going up on the wing that goes down.
+- **Aircraft Primary Flight Control Surfaces Explained | Ailerons, Elevators, and Rudders** (Curious About Planes, 6 min) id `4xBXGKOp89g`: To see the flaps of a real plane move, and the plane roll, pitch and yaw. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these makes the drag on a moving thing bigger?  

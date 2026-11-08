@@ -2526,31 +2526,28 @@
  ],
  "videos": [
   {
-   "title": "How the heart keeps its own beat: the pacemaker and the nerves that speed it up and slow it down",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "The Pacemaker of the Heart - SA and AV Nodes Made EASY!",
+   "channel": "Interactive Biology",
+   "youtube": "1hStVXf9Y24",
+   "mins": 8,
    "why": "To see the pacemaker, the beating heart and the nerve signals that change its speed.",
-   "check": "Not yet found. Find one, watch it, and check that it says the heart beats by itself and that the vagus nerve slows it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "How breathing works: the diaphragm, the ribs and the lungs",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How Breathing Works",
+   "channel": "NHLBI",
+   "youtube": "dXHkCDohf70",
    "mins": 4,
    "why": "To see the diaphragm flatten and the ribs lift as the chest grows and air flows in.",
-   "check": "Not yet found. Find one, watch it, and check that it says the air outside pushes in, and does not say the lungs suck air in."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "What happens to the heart and the body when you exercise",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Cardiovascular Response to Exercise",
+   "channel": "Dr Matt & Dr Mike",
+   "youtube": "0FID5qRGXGg",
+   "mins": 9,
    "why": "To see pulse and breathing rise and fall during exercise, in a clear animation or a real laboratory test.",
-   "check": "Not yet found. Find one, watch it, and check it matches the pulse timeline."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

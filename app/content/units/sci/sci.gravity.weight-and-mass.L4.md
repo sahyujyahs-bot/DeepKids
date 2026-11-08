@@ -33,7 +33,7 @@
 - **Conservation of mass**: In a closed container, the total mass stays the same when things dissolve, melt or react. Nothing is lost. It only moves into another form. *e.g.* A sealed bag of ice has the same mass after the ice melts.
 - **Strain gauge**: A tiny pattern of thin metal wire stuck to a part. When the part bends or stretches, the wire's electrical resistance changes. A digital scale uses it to sense a push. *e.g.* A bathroom scale has strain gauges inside, which feel the bending of the metal under your feet.
 - **Core**: The heavy centre of a planet. The Earth's core is mostly iron and nickel, and holds about a third of the Earth's mass. *e.g.* Scientists know about the Earth's core from the way earthquake waves pass through the Earth.
-- **Balance point of two worlds**: The point that two bodies, such as the Earth and the Moon, both circle round. It is called the barycentre. It lies on the line between them, nearer the heavier one. *e.g.* The balance point of the Earth and the Moon lies inside the Earth, about 4,600 kilometres from its centre.
+- **Balance point of two worlds**: The point that two bodies, such as the Earth and the Moon, both circle round. It is called the barycentre. It lies on the line between them, nearer the heavier one. *e.g.* The balance point of the Earth and the Moon lies inside the Earth, about 4,700 kilometres from its centre.
 - **Tonne**: A unit of mass equal to 1,000 kilograms. *e.g.* A small car has a mass of about one tonne.
 
 ## Explanations
@@ -140,7 +140,7 @@ Henry Cavendish's experiment can be redone with better tools. Laboratories aroun
 - The Earth is about 5.5 times as dense as water, and it has a core of iron and nickel. *How we know:* Cavendish weighed the Earth in 1798 with lead balls. Later scientists found the core from the way earthquake waves bend and speed up as they pass through the Earth.
 
 ## How we found out
-**Henry Cavendish, an English scientist (1731 to 1810), 1798.** By the 1700s, people could measure how hard the Earth pulls, but not how much the Earth weighs. Isaac Newton had guessed, without proof, that the Earth's inside might be much denser than its surface rocks. In 1774, Nevil Maskelyne, the Astronomer Royal in England, measured how much a mountain in Scotland pulled a plumb line sideways. The pull was tiny, but it gave a first answer. In 1798, Henry Cavendish used a device built by John Michell, who had died. Two small lead balls hung from a rod on a thin wire. Two big lead balls were brought close. Every mass pulls every other mass, so the wire twisted a very little. From the twist, Cavendish found that the Earth is about 5.4 times as dense as water. Rocks at the surface are only about 2.7 times as dense. So the Earth could not be rock all the way through. Something much heavier had to be deep inside.  
+**Henry Cavendish, an English scientist (1731 to 1810), 1798.** By the 1700s, people could measure how hard the Earth pulls, but not how much the Earth weighs. Isaac Newton had said that a mountain might pull a plumb line a little sideways. In 1774, Nevil Maskelyne, the Astronomer Royal in England, measured how much a mountain in Scotland pulled a plumb line sideways. The pull was tiny, but it gave a first answer. In 1798, Henry Cavendish used a device built by John Michell, who had died. Two small lead balls hung from a rod on a thin wire. Two big lead balls were brought close. Every mass pulls every other mass, so the wire twisted a very little. From the twist, Cavendish found that the Earth is about 5.4 times as dense as water. Rocks at the surface are only about 2.7 times as dense. So the Earth could not be rock all the way through. Something much heavier had to be deep inside.  
 *What people believed before:* The Earth is rock all the way through, so its average density is that of surface rock, about 2.7 times water. Cavendish's number, about 5.4, showed that the inside must be much denser. Later work found an iron core.
 
 ## Challenging perspectives
@@ -282,7 +282,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **question:** If you hang more and more water from a rubber band, how does the stretch grow? Can you use the band as a scale to find the mass of something you do not know?
 - **predict:** Before you start, guess. If 100 grams stretches the band by 1 centimetre, how far will 300 grams stretch it? Will 500 grams stretch it exactly five times as far? Why do you think so?
 - **fair test:** Use the same band, the same cup and the same ruler every time. Add the water 100 millilitres at a time, and wait 10 seconds before reading, because a rubber band keeps creeping. Read at eye level from the same point on the cup. Only the load changes, so any change in the stretch comes from the load.
-- **safety:** A rubber band under load can snap and sting, so keep your face and eyes to one side, and never load more than 500 millilitres. Stop if the band stretches to three times its slack length. Work over a tray to catch spills, and wipe the floor if water goes on it.
+- **safety:** A rubber band under load can snap and sting, so keep your face and eyes to one side, and never load more than 500 millilitres. If anyone has a latex allergy, use a latex-free band. Stop if the band stretches to three times its slack length. Work over a tray to catch spills, and wipe the floor if water goes on it.
 - **record:** Fill in the table. Draw a graph with the mass in grams along the bottom and the stretch in centimetres up the side. Join the dots with a smooth line. Write the mass of each of your three unknown things.
 - **results table:** Water in the cup (millilitres) | Mass added (grams) | Pointer reading (centimetres) | Stretch (centimetres)
 - **s1 (4 min)**  
@@ -354,7 +354,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - **question:** When sugar dissolves, ice melts and a bottle fizzes, does the total mass change? If it changes, where does the mass go?
 - **predict:** Before you start, guess for each test. Will the mass stay the same, go down or go up? Why do you think so?
 - **fair test:** Use the same kitchen scale on the same flat table for every weighing. Wipe the outside of each container dry before you weigh it, and wait until the number stops changing. In each test, weigh everything before and after, and change nothing else between. For the fizz test, do the closed bottle and the open cup in the same way, so the only difference is whether the gas can escape.
-- **safety:** Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Point the cap away from every face and open it slowly over the sink. Never use a glass jar or a thin bag for the fizz.
+- **safety:** Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bath water should be warm, not hot. Never use a glass jar or a thin bag for the fizz.
 - **record:** Fill in the table with the mass before, the mass after, and the change for each test. Circle any change bigger than 1 gram, because the scale only reads whole grams.
 - **results table:** Test | Mass before (grams) | Mass after (grams) | Change (grams)
 - **s1 (4 min)**  
@@ -477,6 +477,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Note: A good answer sounds like this. The air presses on us from all sides, and the fluids inside our bodies push back with the same pressure, so we are not squashed. Atmospheric scientists estimate that a small fair-weather cloud holds about 500 tonnes of water, which is reported to be about the mass of 100 elephants.
   - Think: Air pushes on you from every side, and also pushes from inside your body. What does that do to the push?
 ### a4 · Heavy for Its Size: same jar, different mass (25 min)
+- **safety:** Use plastic jars or bottles, not glass. Do not taste the contents, and keep flour and fine salt away from the face and eyes. Tell a grown-up first if anyone has a wheat allergy.
 - **record:** Draw the four jars. Under each, write what is in it, your guess for its mass, and its real mass in grams. Put the jars in order from the least to the most mass.
 - **a4s1 (5 min)**  
   *Parent does:* Fill each jar to the top with a different thing: cotton wool, flour, rice and salt. Shake gently so they settle and add more. Put on the lids. Ask your child to guess the order from the least to the most mass. Write it down.  
@@ -664,7 +665,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    Options: The Moon / Mars / Jupiter  
    **Answer:** The Moon. *Why:* The Moon pulls with about 1.6 newtons for each kilogram. That is 1.6 divided by 9.8, which is about 0.16 of a kilogram, or 160 grams. Mars would be 380 grams, and Jupiter 2.5 kilograms.
 4. (truefalse) The Earth and the Moon both circle a point that is inside the Earth.  
-   **Answer:** True. *Why:* True. The balance point of the Earth and the Moon is about 4,600 kilometres from the Earth's centre. The Earth's radius is about 6,400 kilometres, so the point is inside the Earth.
+   **Answer:** True. *Why:* True. The balance point of the Earth and the Moon is about 4,700 kilometres from the Earth's centre. The Earth's radius is about 6,400 kilometres, so the point is inside the Earth.
 5. (write) A tall narrow wardrobe and a low wide one have the same mass. Why is the tall narrow one easier to tip over?  
    **Answer:** The tall one has a higher centre of gravity and a narrower base. You only need to tilt it a little before the line down from its centre of gravity falls outside its base. The low wide one needs a much bigger tilt.. *Why:* A strong answer uses the line down from the centre of gravity and the edge of the base.
 6. (mcq) The top box of a stack can stick out half its length over the box below, but no further. Why not?  
