@@ -7,7 +7,7 @@
   "art": "A long string laid across a floor with a tiny cut piece for a mouse at one end, a longer piece for an elephant, and the longest for a tortoise, each with a small animal card at the end."
  },
  "intro": {
-  "hook": "An adult mayfly lives for about a day. A giant tortoise can live for more than a hundred years. A hen lives for about eight. They all began as an egg. Why do lives that start the same end up so different in length?",
+  "hook": "A grown mayfly may live for only a day. A giant tortoise can live for more than a hundred years. A hen lives for about eight. They all began as an egg. Why do lives that start the same end up so different in length?",
   "text": "Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.",
   "art": "Three animals in a row: a mayfly on a reed, a hen on a doorstep and a giant tortoise in a garden, each with a small egg drawn in front of it."
  },
@@ -240,7 +240,7 @@
    "concept": "How long do animals live?",
    "status": "defined",
    "definition": "Lifespan is how long an animal lives. Scientists give an average lifespan, which is the typical age at death, and a maximum lifespan, which is the oldest age ever recorded. A wild animal usually dies much younger than the maximum, from hunger, disease or predators.",
-   "description": "Lifespans run from hours to centuries. An adult mayfly lives about a day, but its nymph lived in water for a year or more. A honeybee worker lives about six weeks in summer, while the queen can live several years. A house mouse lives about two years, a dog about twelve and a person about 70 to 80. A giant tortoise can pass 100 years, and a tortoise named Jonathan on the island of St Helena is thought to have hatched around 1832. A bowhead whale has been found to live more than 200 years. A Greenland shark may live for 300 years or more. An ocean quahog, a clam, was found to be 507 years old. How do we know? Some animals keep records in their bodies. Shell rings, ear bones, the lens of the eye and growing layers are all counted. Treat any age claim with care, because without a record the age is only an estimate.",
+   "description": "Lifespans run from hours to centuries. A grown mayfly may live only about a day, but its nymph lived in water for a year or more. A honeybee worker lives about six weeks in summer, while the queen can live several years. A house mouse lives about two years, a dog about twelve and a person about 70 to 80. A giant tortoise can pass 100 years, and a tortoise named Jonathan on the island of St Helena is thought to have hatched around 1832. A bowhead whale has been found to live more than 200 years. A Greenland shark has been estimated to live at least 270 years. An ocean quahog, a clam, was found to be 507 years old. How do we know? Some animals keep records in their bodies. Shell rings, ear bones, the lens of the eye and growing layers are all counted. Treat any age claim with care, because without a record the age is only an estimate.",
    "examples": [
     "Mayfly (adult): about one day.",
     "Honeybee worker: about six weeks in summer.",
@@ -306,7 +306,7 @@
    "definition": "In some reptiles, the temperature of the nest decides whether the eggs become males or females. This is called temperature-dependent sex determination.",
    "description": "In sea turtles, warmer sand makes more females and cooler sand makes more males. In the olive ridley turtle, a nest at around 29 to 30 degrees Celsius gives a mix, warmer sand gives mostly females and cooler sand gives mostly males. A turtle nest is dug about 45 centimetres deep. About 100 eggs are laid, and the young hatch after roughly 45 to 60 days. Crocodiles also have temperature-dependent sex, and mugger crocodile mothers in India guard their nests. Because the sex depends on the sand, a hotter beach can produce mostly females. People who protect nests at beaches in Tamil Nadu and Odisha move eggs to shaded hatcheries and keep an eye on the sand temperature.",
    "examples": [
-    "Olive ridley turtles nest on the beaches of Odisha and Tamil Nadu from about December to March.",
+    "Olive ridley turtles nest on the beaches of Odisha and Tamil Nadu from about November to March.",
     "Hatchlings come out at night and head for the brighter horizon, which is usually the sea.",
     "Street lights and torches can lead hatchlings the wrong way.",
     "Mugger crocodile mothers guard the nest and help the hatchlings reach the water."
@@ -495,7 +495,7 @@
   "teachings": [
    {
     "source": "Zhuangzi, chapter 1 (Free and Easy Wandering)",
-    "teaching": "The Chinese teacher Zhuangzi wrote that a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring.",
+    "teaching": "The Chinese teacher Zhuangzi wrote, as paraphrased here, that a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring.",
     "link": "A mayfly adult, a mouse and a tortoise each live inside a different length of time, as the mushroom and the tree do."
    },
    {
@@ -2969,7 +2969,8 @@
    "Schmidt, J., 'The breeding places of the eel', Philosophical Transactions of the Royal Society B 211, 1922",
    "Redi, F., Esperienze intorno alla generazione degl'insetti, 1668",
    "Zhuangzi, chapter 1, 'Free and Easy Wandering'",
-   "Bhagavad Gita 2.27"
+   "Bhagavad Gita 2.27 (meaning only, as paraphrased)",
+   "Wikipedia pages on the olive ridley turtle (29 to 30 degrees gives mixed sex, nest about 0.46 m deep, 45 to 51 days usual), Greenland shark (at least 272 years), Jonathan the tortoise (hatched about 1832), ocean quahog (507 years), purple frog (2003), bowhead whale (over 200 years), Amboseli (Moss since 1972), European eel (mating in the wild not yet observed), Indian oil sardine (mature at about 1 year, lives about 2.5 years)"
   ]
  },
  "how_we_found_out": {
@@ -2978,5 +2979,5 @@
   "when": "1904 to 1922",
   "wrong_idea": "People believed that eels were born from mud or worms, because nobody ever found an eel egg or a baby eel. It was shown wrong when scientists found the tiny see-through young at sea and followed them back, size by size, to where they were born."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Survival Cup: the dice rules (frog 5 or 6, hen 3 to 6, elephant 2 to 6) and the starting numbers (18, 5, 3) were chosen so the expected survivors are close, about 2 per round for each family, so the totals over three rounds are close but wobble from round to round. A family with only one die needs about 10 minutes of rolling for the three families, and paper chits in a cup work as well. The Lifespan Line needs about 8 metres of string, so a corridor or a balcony is useful. The life spans and heart rates used are typical and rounded numbers, and real values vary. Banana Jar Nursery: fruit flies usually arrive within two nights in warm months and the cycle takes about 8 to 10 days. In a very clean kitchen or in winter, flies can take longer to appear. Facts to verify before the unit goes live: the 1 in 1,000 turtle survival figure, the exact fruit fly timings, the olive ridley pivotal temperature of 29 to 30 degrees Celsius, the oil sardine's age at first spawning and its life span of two to three years, the Levine 1997 paper title, the Madras Crocodile Bank web address, and whether the wild spawning of European eels has now been filmed. The videos have no address yet."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Survival Cup: the dice rules (frog 5 or 6, hen 3 to 6, elephant 2 to 6) and the starting numbers (18, 5, 3) were chosen so the expected survivors are close, about 2 per round for each family, so the totals over three rounds are close but wobble from round to round. A family with only one die needs about 10 minutes of rolling for the three families, and paper chits in a cup work as well. The Lifespan Line needs about 8 metres of string, so a corridor or a balcony is useful. The life spans and heart rates used are typical and rounded numbers, and real values vary. Banana Jar Nursery: fruit flies usually arrive within two nights in warm months and the cycle takes about 8 to 10 days. In a very clean kitchen or in winter, flies can take longer to appear. Checked against sources: olive ridley 29 to 30 degrees and nest depth, sardine age at first spawning and life span, Jonathan, quahog, bowhead, shark, purple frog, Moss since 1972, and wild eel spawning (still not observed). Not confirmed: the 1 in 1,000 turtle survival figure (kept as a rough saying), the exact fruit fly timings (8 to 10 days is the usual figure), the Levine 1997 paper title, and the Madras Crocodile Bank web address. The videos have no address yet."
 }

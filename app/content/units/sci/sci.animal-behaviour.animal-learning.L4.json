@@ -152,7 +152,7 @@
    "concept": "Linking things: association",
    "status": "defined",
    "definition": "Association is learning that two things go together, so that one makes the being expect the other.",
-   "description": "In the early 1900s, Ivan Pavlov showed that a bell that came before food made dogs drool at the bell alone. Bees link a flower colour with nectar. Some links form fast. After one bad meal, a person or animal may avoid that taste for years. In 1966, John Garcia and Robert Koelling found that rats link a taste with feeling ill, even hours later, but not a flash of light or a click. A body is ready for some links more than for others, and the ready ones are often the ones that keep a being alive.",
+   "description": "In the early 1900s, Ivan Pavlov showed that a bell that came before food made dogs drool at the bell alone. Bees link a flower colour with nectar. Some links form fast. After one bad meal, a person or animal may avoid that taste for years. In 1966, John Garcia and Robert Koelling found that rats link a taste with feeling ill, even a long time later, but not a flash of light or a click. A body is ready for some links more than for others, and the ready ones are often the ones that keep a being alive.",
    "examples": [
     "A cat comes running at the sound of a tin being opened.",
     "A child avoids a food that once made her ill.",
@@ -165,7 +165,7 @@
    "concept": "Bees: small bodies that learn",
    "status": "defined",
    "definition": "Honeybees and bumblebees learn the colour, smell, shape and place of flowers that pay, and even the time of day.",
-   "description": "A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees that saw no demonstration rarely found the way. So learning does not need a big brain. It needs a body that can change with experience.",
+   "description": "A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees that saw no demonstration learned more slowly. So learning does not need a big brain. It needs a body that can change with experience.",
    "examples": [
     "A honeybee returns to a feeder at four o'clock each day.",
     "A bumblebee learns to roll a ball by watching another bee.",
@@ -177,7 +177,7 @@
   {
    "concept": "Learning without a brain",
    "status": "debated",
-   "description": "A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food within about a week. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop 28 days later. Scientists agree that these changes happen. They argue about whether to call them learning.",
+   "description": "A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food after several days. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop about a month later. Scientists agree that these changes happen. They argue about whether to call them learning.",
    "examples": [
     "A slime mould crosses a bitter bridge that was first avoided.",
     "A touch-me-not plant stops folding the leaves at a harmless drop.",
@@ -203,7 +203,7 @@
    "concept": "Where the learning is kept: connections between nerve cells",
    "status": "defined",
    "definition": "A synapse is the tiny gap where one nerve cell passes a chemical message to the next, and learning changes how strongly synapses pass the message.",
-   "description": "In a sea slug, repeated gentle touches make the touch-sensing cell release less chemical across its synapse, so the gill pulls in less. A shock makes it release more. In 1949, Donald Hebb suggested that when one cell repeatedly helps to fire the next, the connection between them grows stronger. In 1992, Carla Shatz put it in the phrase 'cells that fire together wire together'. In people, Eleanor Maguire and colleagues found in 2000 that London taxi drivers, who learn about 25,000 streets, had a larger back part of the hippocampus, a part of the brain used for places. In 2011, trainees who passed the exam were found to have grown that part, and trainees who failed had not. So learning leaves a physical mark.",
+   "description": "In a sea slug, repeated gentle touches make the touch-sensing cell release less chemical across its synapse, so the gill pulls in less. A shock makes it release more. In 1949, Donald Hebb suggested that when one cell repeatedly helps to fire the next, the connection between them grows stronger. The phrase 'cells that fire together wire together' is often credited to Carla Shatz (1992). In people, Eleanor Maguire and colleagues found in 2000 that London taxi drivers, who learn about 25,000 streets, had a larger back part of the hippocampus, a part of the brain used for places. In 2011, trainees who passed the exam were found to have grown that part, and trainees who failed had not. So learning leaves a physical mark.",
    "examples": [
     "A sea slug's touch-sensing cell sends less chemical after many touches.",
     "A taxi driver's hippocampus grows as they learn the streets.",
@@ -250,7 +250,7 @@
    "concept": "Spacing it out",
    "status": "defined",
    "definition": "Spaced practice is practice spread over time with breaks, and it usually leaves a longer-lasting memory than the same practice done all at once.",
-   "description": "In 1885, Hermann Ebbinghaus reported that learning spread over several days beat the same learning crammed together. Sea slugs show it too. In 1972, Thomas Carew, Harold Pinsker and Eric Kandel found that touches spread over days made getting used to last for weeks, while the same number of touches in one block faded within a day. Randolf Menzel and colleagues found a similar result in honeybees in 2001. Making a lasting memory takes a cell time to build new parts, and the breaks between sittings give it that time.",
+   "description": "In 1885, Hermann Ebbinghaus reported that learning spread over several days beat the same learning crammed together. Sea slugs show it too. In 1972, Thomas Carew, Harold Pinsker and Eric Kandel found that touches spread over days made getting used to last for weeks, while the same number of touches in one block did not last as long. Randolf Menzel and colleagues found a similar result in honeybees in 2001. Making a lasting memory takes a cell time to build new parts, and the breaks between sittings give it that time.",
    "examples": [
     "Four short sittings through a day beat one long sitting for a list of words.",
     "Sea slug touches spread over days make a longer-lasting change.",
@@ -297,7 +297,7 @@
   {
    "claim": "Plants such as the touch-me-not learn.",
    "who": "Monica Gagliano and colleagues, 2014",
-   "for": "Plants dropped many times stopped folding the leaves, and still ignored the drop 28 days later.",
+   "for": "Plants dropped many times stopped folding the leaves, and still ignored the drop about a month later.",
    "against": "Other laboratories want to repeat the result, and to rule out tired leaf cells.",
    "status": "minority"
   },
@@ -1213,7 +1213,7 @@
      "say": "Look at your table. How many people learned the food in one go? How many needed many tries for the skill? What do you notice?",
      "kid": "Count the one-go foods. Count the many-tries skills. What do you notice?",
      "think": "Why might a body be ready to learn some links in just one go?",
-     "parent": "After your child has answered, explain that scientists call this taste aversion. A body is ready to link a taste with feeling ill, even hours later, because that link can save a life. John Garcia and Robert Koelling showed in 1966 that animals link taste with illness easily, but not a flash of light with illness.",
+     "parent": "After your child has answered, explain that scientists call this taste aversion. A body is ready to link a taste with feeling ill, even a long time later, because that link can save a life. John Garcia and Robert Koelling showed in 1966 that animals link taste with illness easily, but not a flash of light with illness.",
      "context": "This is the last step of One Time Is Enough. You look for a pattern in the answers."
     }
    ]
@@ -1448,7 +1448,7 @@
    "youtube": "",
    "status": "find-id",
    "mins": 4,
-   "why": "Shows a slime mould crossing a bridge of oats, and how they stopped avoiding a harmless bitter bridge after several days.",
+   "why": "Shows a slime mould crossing a bridge of oats, and how they stopped avoiding a harmless bitter bridge after some days.",
    "check": "No video id yet. Search for Dussutour slime mould habituation. Check that the video shows the bitter bridge, that the claims match the 2016 paper, and that the length is under five minutes."
   },
   {
@@ -1753,7 +1753,7 @@
       "Copying a sister who also refuses it"
      ],
      "a": 0,
-     "why": "Bodies are ready to link a taste with feeling ill, even hours later and after one time. It protects against food that may harm.",
+     "why": "Bodies are ready to link a taste with feeling ill, even a long time later and after one time. It protects against food that may harm.",
      "outcome": 2
     },
     {
@@ -1976,7 +1976,7 @@
     },
     {
      "t": "perspective",
-     "p": "Slime moulds get used to a harmless bitter bridge within about a week, and no nerve cells are involved.",
+     "p": "Slime moulds get used to a harmless bitter bridge after some days, and no nerve cells are involved.",
      "views": [
       {
        "who": "Dr Rao, a scientist (an imagined view)",

@@ -200,7 +200,7 @@
    "examples": [
     "Strong vinegar on baking soda fizzes harder than weak vinegar.",
     "A glowing splinter bursts into flame in pure oxygen, but only glows in air.",
-    "Deep inside the Sun, hydrogen particles are squashed so tightly that they sometimes join. Even there, an average particle waits several billion years for its turn. This is a different kind of change, but speed still depends on how often particles meet."
+    "Deep inside the Sun, hydrogen particles are squashed so tightly that they sometimes join. Even there, an average particle waits billions of years for its turn. This is a different kind of change, but speed still depends on how often particles meet."
    ],
    "art": "Two identical boxes, one with a few dots spread far apart and one with many dots packed close, with more bump stars marked in the packed box.",
    "perspectives": []
@@ -213,7 +213,7 @@
    "examples": [
     "The potato's catalase makes hydrogen peroxide break down in seconds instead of months.",
     "In a car's exhaust, a honeycomb coated with the metals platinum, palladium and rhodium changes poisonous carbon monoxide into carbon dioxide. The metals are not used up.",
-    "Iron helps in factories to join nitrogen from the air with hydrogen to make ammonia for fertiliser. About four in every ten people alive eat food grown with fertiliser made this way."
+    "Iron helps in factories to join nitrogen from the air with hydrogen to make ammonia for fertiliser. Somewhere between four and five in every ten people alive eat food grown with fertiliser made this way."
    ],
    "art": "A mountain with a high path labelled 'no catalyst' and a low tunnel labelled 'with catalyst', and the same walker figures coming out of both ends.",
    "perspectives": []
@@ -336,7 +336,7 @@
  ],
  "big_questions": [
   {
-   "q": "A mayfly lives for a day, and an iron pillar stands for 1,600 years. To the mayfly, the pillar never changes at all. Is 'slow' a property of the change, or of the one who is watching it?",
+   "q": "A grown mayfly may live for only a day, and an iron pillar stands for 1,600 years. To the mayfly, the pillar never changes at all. Is 'slow' a property of the change, or of the one who is watching it?",
    "kind": "deep",
    "hint": "Think about what 'slow' would mean to a mayfly, to you, and to a mountain."
   },
@@ -394,7 +394,7 @@
    "'Yes,' said Thatha. 'Flaking rust is the engineer's enemy. It peels, and fresh iron is open to the damp again.'",
    "'But the dry nail had a thin dark skin, and the skin stayed stuck,' said Gayathri. 'That nail did not rust any more. So maybe the iron is the same, Thatha. Maybe the pillar is not special iron. Maybe it has a skin that does not peel.'",
    "Thatha turned and looked at her as if she had said something in a new language.",
-   "Rashmi Madam smiled. 'May I tell you what the scientists found?' she said. 'They looked at the pillar's surface with strong instruments. They found a very thin skin, much thinner than paper, made of iron joined with oxygen, hydrogen and phosphorus. It sticks tightly. The iron of the pillar also has a lot of phosphorus in it, more than the iron on your bridges. The skin has slowly built up over many years. It keeps most of the water and air from touching the iron below.'",
+   "Rashmi Madam smiled. 'May I tell you what the scientists found?' she said. 'They looked at the pillar's surface with strong instruments. They found a very thin skin, thinner than a sheet of paper, made of iron joined with oxygen, hydrogen and phosphorus. It sticks tightly. The iron of the pillar also has a lot of phosphorus in it, more than the iron on your bridges. The skin has slowly built up over many years. It keeps most of the water and air from touching the iron below.'",
    "'So the iron still wants to rust,' said Thatha.",
    "'It still tries,' said Rashmi Madam. 'But it hardly ever gets the chance. Every year, a tiny bit more rust forms, so the pillar is not perfect. It is just very, very slow.'",
    "Gayathri looked at the fence. 'Did people touch it a lot?'",
@@ -1388,7 +1388,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Ask a grown-up who drives if their vehicle has a catalytic converter. Ask them to find out if they are not sure. Write down what they say.",
-     "say": "Ask someone who drives, or a mechanic. Does the vehicle have a catalytic converter in the exhaust? Many petrol cars and CNG autos do. Write down what they say.",
+     "say": "Ask someone who drives, or a mechanic. Does the vehicle have a catalytic converter in the exhaust? Petrol cars in India are made with one. Write down what they say.",
      "kid": "Ask a driver about the exhaust helper. Write down the answer.",
      "context": "In this step you find out about the helper in a vehicle's exhaust pipe.",
      "parent": "A catalytic converter is a metal honeycomb coated with thin layers of metals such as platinum, palladium and rhodium. It changes harmful gases such as carbon monoxide into carbon dioxide. It works best when hot, so the first minute after a cold start is the dirtiest. Do not let your child go under the vehicle.",
@@ -2290,7 +2290,7 @@
     },
     {
      "t": "perspective",
-     "p": "A mayfly lives for one day. A person lives for decades. A mountain lasts for millions of years. They are watching an iron gate rust.",
+     "p": "A grown mayfly may live for only one day. A person lives for decades. A mountain lasts for millions of years. They are watching an iron gate rust.",
      "views": [
       {
        "who": "The mayfly",
@@ -2487,7 +2487,7 @@
  "applications": [
   "Pressure cookers cook dal and rice faster by raising the temperature of the water.",
   "Fridges and freezers slow down the changes that spoil food.",
-  "Catalytic converters in petrol cars and CNG autos change harmful exhaust gases into safer ones.",
+  "Catalytic converters in petrol cars change harmful exhaust gases into safer ones.",
   "Washing powders with enzymes break down food stains in cool water.",
   "Paint, oil and galvanising (a coat of zinc) slow the rusting of iron.",
   "Slow-release medicines are coated so that they dissolve over hours.",
@@ -2532,7 +2532,7 @@
  ],
  "open_questions": [
   {
-   "q": "How exactly do enzymes make reactions up to a million billion billion times faster?",
+   "q": "How exactly do enzymes make reactions up to about a thousand billion billion times faster?",
    "why_open": "Scientists can describe how enzymes hold particles in place, but they still argue about every part of the story. Some think quantum tunnelling of hydrogen has a role in some enzymes."
   },
   {
@@ -2851,10 +2851,10 @@
    "Radzicka, A. and Wolfenden, R., 'A proficient enzyme', Science 267, 1995 (an enzyme speeds a reaction by a factor of about 10 to the power 17).",
    "Fulhame, E., An Essay on Combustion, London, 1794; Laidler, K. J. and Cornish-Bowden, A., 'Elizabeth Fulhame and the discovery of catalysis: 100 years before Buchner', in New Beer in an Old Bottle, 1997.",
    "Berzelius, J. J., Jahres-Bericht, 1835 (the word catalysis).",
-   "Balasubramaniam, R., 'On the corrosion resistance of the Delhi Iron Pillar', Corrosion Science 42, 2000.",
+   "Balasubramaniam, R., 'On the corrosion resistance of the Delhi Iron Pillar', Corrosion Science 42, 2000.", "Wikipedia, Iron pillar of Delhi (age about 1,600 years, Qutb complex, skin about one-twentieth of a millimetre thick, phosphorus above 0.1 percent); Archaeological Survey of India and Visvesvaraya Industrial and Technological Museum sites (links checked); Wikipedia, Emission standards in India (catalytic converters in petrol vehicles); Wikipedia, Proton-proton chain (about 9 billion years).",
    "Zanotto, E. D., 'Do cathedral glasses flow?', American Journal of Physics 66, 1998.",
    "van 't Hoff, J. H., Etudes de dynamique chimique, 1884 (how rates change with temperature).",
-   "Smil, V., Enriching the Earth, MIT Press, 2001 (about four in ten people are fed with nitrogen fertiliser made by the Haber-Bosch process).",
+   "Smil, V., Enriching the Earth, MIT Press, 2001 (about four in ten people around 2000 fed with nitrogen fertiliser made by the Haber-Bosch process); Erisman, J. W. et al., Nature Geoscience 1, 2008 (about 48 percent by 2008); Our World in Data, How many people does synthetic fertilizer feed (about half today).",
    "Klinman, J. P. and Kohen, A., 'Hydrogen tunneling links protein dynamics to enzyme catalysis', Annual Review of Biochemistry 82, 2013.",
    "Heraclitus, as in Plato, Cratylus 402a; Dhammapada 277; Nagarjuna, Mulamadhyamakakarika, chapter 1; Parmenides, On Nature, about 500 BCE."
   ]
@@ -2865,5 +2865,5 @@
   "when": "1794 and 1835",
   "wrong_idea": "Most chemists believed that water was just a bystander in such changes. Fulhame showed that dry cloth did not react at all and damp cloth did, so water was taking part, and coming out ready to work again."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, but not yet cooked or tested at home. Three Cups: the fizz times with half a teaspoon of fruit salt in 150 millilitres are expected to differ clearly (warm shortest, cold longest), but the exact seconds depend on the brand and the room, so the steps ask families to compare the order and repeat each cup twice. Apple Race: a Shimla apple usually browns visibly in 10 to 20 minutes, a slow apple may need up to an hour, and the fridge plate may differ only a little at 30 minutes. Same Lime: foam is small, so compare the time until the fizz stops, and if all three finish together that is written up as a result. Rust Race: salty water usually shows orange rust within a day and plain water in two or three days, and a nail with a chipped coat may rust from the chip. The ideas to check before release: the Delhi Iron Pillar facts (age about 1,600 years, protective skin found at IIT Kanpur), Elizabeth Fulhame's 1794 work and what chemists then believed, the figure that about four in ten people eat food grown with Haber-Bosch fertiliser, the 78 million years to a fraction of a second enzyme figure, and the claim that catalytic converters are in most petrol cars and CNG autos in India. The videos have no address yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, but not yet cooked or tested at home. Three Cups: the fizz times with half a teaspoon of fruit salt in 150 millilitres are expected to differ clearly (warm shortest, cold longest), but the exact seconds depend on the brand and the room, so the steps ask families to compare the order and repeat each cup twice. Apple Race: a Shimla apple usually browns visibly in 10 to 20 minutes, a slow apple may need up to an hour, and the fridge plate may differ only a little at 30 minutes. Same Lime: foam is small, so compare the time until the fizz stops, and if all three finish together that is written up as a result. Rust Race: salty water usually shows orange rust within a day and plain water in two or three days, and a nail with a chipped coat may rust from the chip. The ideas to check before release: the Delhi Iron Pillar facts (age about 1,600 years, protective skin found at IIT Kanpur), Elizabeth Fulhame's 1794 work and what chemists then believed, the fertiliser figure (now written as four to five in ten people, after Smil and Erisman), the 78 million years enzyme figure (checked, Radzicka and Wolfenden 1995), and the converters claim (now only petrol cars; CNG autos not confirmed). Checked against sources: the pillar's age, location and skin (Wikipedia citing Balasubramaniam), Fulhame 1794 and Berzelius 1835, Zanotto's glass result, and about nine billion years for a proton in the Sun. The videos have no address yet."
 }

@@ -176,7 +176,7 @@
       "concept": "When the loop breaks: diabetes",
       "status": "defined",
       "definition": "Diabetes is a condition in which the body cannot keep blood sugar steady, because insulin is missing or does not work well.",
-      "description": "In type 1 diabetes, the body's own defence system destroys the beta cells, so the pancreas makes almost no insulin. Without insulin, glucose piles up in the blood and cells go short of it. This begins mostly in childhood or youth. Before 1922 it was often fatal within a year or two. Today people with type 1 diabetes give themselves insulin by injection or from a pump, and check their sugar with sensors, so they do the second push themselves. In type 2 diabetes, insulin is made but the cells respond less well to it, and later the pancreas can tire. It is much more common and is linked to genes, body weight, food and exercise. More than 100 million people in India have diabetes. Both types can be managed with good care. A doctor should always guide treatment. Rosalyn Yalow, an American scientist, helped show with Solomon Berson in the 1950s that many adults with diabetes have insulin in their blood that is not working well. Dorothy Hodgkin worked out the shape of the insulin molecule in 1969.",
+      "description": "In type 1 diabetes, the body's own defence system destroys the beta cells, so the pancreas makes almost no insulin. Without insulin, glucose piles up in the blood and cells go short of it. This begins mostly in childhood or youth. Before 1922 it was often fatal within a year or two. Today people with type 1 diabetes give themselves insulin by injection or from a pump, and check their sugar with sensors, so they do the second push themselves. In type 2 diabetes, insulin is made but the cells respond less well to it, and later the pancreas can tire. It is much more common and is linked to genes, body weight, food and exercise. About 101 million people in India were found to have diabetes in a large 2023 study. Both types can be managed with good care. A doctor should always guide treatment. Rosalyn Yalow, an American scientist, helped show with Solomon Berson in the 1950s that many adults with diabetes have insulin in their blood that is not working well. Dorothy Hodgkin worked out the shape of the insulin molecule in 1969.",
       "examples": [
         "A child with type 1 diabetes injects insulin before meals and checks sugar with a sensor.",
         "A grown-up with type 2 diabetes may take tablets, walk daily and change their food.",
@@ -202,7 +202,7 @@
       "concept": "Pulse and breathing: speeding up and slowing back down",
       "status": "defined",
       "definition": "When you exercise, your pulse and breathing speed up and then fall back to rest in a curve: fast at first, then slower.",
-      "description": "When your muscles work harder, they use more oxygen and make more carbon dioxide. Your heart beats faster and your breathing deepens to bring oxygen and clear carbon dioxide. When you stop, the demand drops, and your pulse falls quickly in the first minute, then more slowly, until it reaches rest. People who are fitter often have a lower pulse at rest and a pulse that falls faster after exercise. At rest, most children of 6 to 10 have a pulse between about 70 and 110 beats a minute and breathe about 18 to 25 times a minute. Your numbers may differ, and they are not a score. Rest levels also change with the time of day, being nervous or excited, and being ill.",
+      "description": "When your muscles work harder, they use more oxygen and make more carbon dioxide. Your heart beats faster and your breathing deepens to bring oxygen and clear carbon dioxide. When you stop, the demand drops, and your pulse falls quickly in the first minute, then more slowly, until it reaches rest. People who are fitter often have a lower pulse at rest and a pulse that falls faster after exercise. At rest, most children of 6 to 10 have a pulse between about 70 and 110 beats a minute and breathe about 16 to 25 times a minute. Your numbers may differ, and they are not a score. Rest levels also change with the time of day, being nervous or excited, and being ill.",
       "examples": [
         "Your pulse is highest right after you stop running and falls fast in the first minute.",
         "You still breathe hard for a minute after a race because your body is clearing carbon dioxide.",
@@ -350,7 +350,7 @@
     }
   ],
   "how_we_found_out": {
-    "story": "For thousands of years doctors knew a sad illness in which people grew thin and thirsty and their urine was sweet. Old Indian medical texts attributed to Sushruta call it madhumeha, honey urine, and say that ants gather where it falls. Nobody knew the cause. In 1889, in Strasbourg, Oskar Minkowski and Joseph von Mering took out a dog's pancreas to see how much fat digestion needs this gland. They thought the pancreas was only a digestive gland. A lab assistant noticed flies crowding around the dog's urine. They tested it and found sugar. So the pancreas did a second job, steering the sugar in the blood. In 1921, in Toronto, Frederick Banting and Charles Best, in John Macleod's laboratory, made an extract that lowered the sugar of a diabetic dog. James Collip purified it for people. In January 1922 a boy of fourteen, Leonard Thompson, was the first to be treated.",
+    "story": "For thousands of years doctors knew a sad illness in which people grew thin and thirsty and their urine was sweet. Old Indian medical texts attributed to Sushruta call it madhumeha, honey urine, and say that ants gather where it falls. Nobody knew the cause. In 1889, in Strasbourg, Oskar Minkowski and Joseph von Mering took out a dog's pancreas to see how much fat digestion needs this gland. They thought the pancreas was only a digestive gland. Minkowski tested the dog's urine and found a lot of sugar. (A popular tale says flies crowding round the urine gave the clue, but Minkowski himself said it was not so.) So the pancreas did a second job, steering the sugar in the blood. In 1921, in Toronto, Frederick Banting and Charles Best, in John Macleod's laboratory, made an extract that lowered the sugar of a diabetic dog. James Collip purified it for people. In January 1922 a boy of fourteen, Leonard Thompson, was among the first to be treated, and the first whose recovery became famous.",
     "who": "Oskar Minkowski and Joseph von Mering, then Frederick Banting, Charles Best, John Macleod and James Collip",
     "when": "1889 to 1922",
     "wrong_idea": "That the pancreas was only a gland for digesting food, and had nothing to do with the sugar in the blood."
@@ -377,7 +377,7 @@
       "hint": "Count the parts of the loop and ask which are 'you'."
     },
     {
-      "q": "The people who found insulin sold the patent to their university for one dollar each. Why might they have done that, and what would you do?",
+      "q": "The people who found insulin sold the patent to their university for one dollar. Why might they have done that, and what would you do?",
       "kind": "big",
       "hint": "Think about who needs insulin, and who could afford it."
     },
@@ -1201,7 +1201,7 @@
         },
         {
           "t": "perspective",
-          "p": "The people who found insulin sold their patent to a university for one dollar each, so that no company would own it.",
+          "p": "The people who found insulin sold their patent to a university for one dollar, so that no company would own it.",
           "views": [
             {
               "who": "Aisha, a girl in Class 4 (an imagined view)",
@@ -1665,7 +1665,7 @@
           "do": "Sit your child on a chair for 3 minutes. Show them how to find the pulse: two fingers on the inside of the wrist, below the thumb. Count the beats for 15 seconds, twice. Multiply the second count by 4. Count their breaths for 30 seconds too.",
           "say": "Sit quietly for three minutes. Find your pulse with two fingers below your thumb. Count for fifteen seconds. I will count your breaths, one in and one out. Write both down as your resting numbers.",
           "kid": "Sit quietly. Find your pulse. Count beats for 15 seconds.",
-          "parent": "Use two fingers, not the thumb, because the thumb has a pulse of its own. Resting pulse for most children of 6 to 10 is about 70 to 110 beats a minute, and breathing about 18 to 25 breaths a minute. Your child may be different, and that is fine. Count the breaths by watching the shoulders or belly.",
+          "parent": "Use two fingers, not the thumb, because the thumb has a pulse of its own. Resting pulse for most children of 6 to 10 is about 70 to 110 beats a minute, and breathing about 16 to 25 breaths a minute. Your child may be different, and that is fine. Count the breaths by watching the shoulders or belly.",
           "check": {
             "t": "mcq",
             "q": "Why do we count the pulse for 15 seconds and then multiply by 4?",
@@ -3071,7 +3071,7 @@
       "Combined lesson sci-C4-body-parts-and-skeleton and sci-C5-health-hygiene-exercise-and-illness, for coverage only."
     ],
     "science": [
-      "Bernard, C. (1865) An Introduction to the Study of Experimental Medicine (the internal environment)",
+      "Harvard BioNumbers, total glucose in the blood of a 70 kg adult (about 4 g)", "Fleming, S. and others, The Lancet (2011) on normal heart rate and breathing rate ranges in children", "University of Toronto, Insulin 100, on the sale of the insulin patent for one dollar and on Leonard Thompson", "Bernard, C. (1865) An Introduction to the Study of Experimental Medicine (the internal environment)",
       "Cannon, W. B. (1926) coined 'homeostasis'; The Wisdom of the Body (1932)",
       "Minkowski, O. and von Mering, J. (1889) on the removal of the pancreas and diabetes in dogs",
       "Banting, F. G., Best, C. H., Collip, J. B., Campbell, W. R. and Fletcher, A. A., Canadian Medical Association Journal (1922) on pancreatic extracts in diabetic patients",
@@ -3104,7 +3104,7 @@
     "teachings": [
       {
         "source": "Tao Te Ching 77",
-        "teaching": "The Way of heaven is like the bending of a bow. The high is brought down and the low is raised up. What has too much is reduced and what has too little is given more.",
+        "teaching": "As paraphrased, the Way of heaven is like the bending of a bow. The high is brought down and the low is raised up. What has too much is reduced and what has too little is given more.",
         "link": "This is a loop that pushes back. Where there is too much, it takes away. Where there is too little, it adds. Insulin and glucagon do exactly this with sugar."
       },
       {
@@ -3114,7 +3114,7 @@
       },
       {
         "source": "Bhagavad Gita 6.16 and 6.17",
-        "teaching": "Krishna says that a steady practice is not for one who eats too much or too little, or sleeps too much or too little. It belongs to one who is moderate in eating, play, sleep and waking.",
+        "teaching": "As paraphrased, Krishna says that a steady practice is not for one who eats too much or too little, or sleeps too much or too little. It belongs to one who is moderate in eating, play, sleep and waking.",
         "link": "The Gita is speaking about the mind and the way we live. But it names the same thing as the body does: balance comes from neither too much nor too little, kept up all the time."
       }
     ],
@@ -3149,5 +3149,5 @@
     ],
     "art": "A child standing on one leg by a river at dusk, with faint arrows at the ankle pulling left and right and a star beginning to show overhead."
   },
-  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Level Bottle: the bottle, hole and tap trickle were worked out from the way water leaves a hole, so the steady level rises as the trickle speeds up. The exact levels depend on the hole and the tap, so the steps say to write down what you see. A hole that is too big never fills, and a trickle that is too fast goes over the rim, and the steps say what to do then. Recovery Race: a grown-up must stay with the child. Pulse counting is hard at first, so practise at rest. Pupil Gauge: very dark brown eyes make the pupil hard to see, so a lamp at the side or a phone film is suggested. Sugar See-Saw: the cards and the rules were read through for a full game, but not played with a real family. Late Warmer-Colder works in any room. Facts to check before the unit goes live: the figure of about 4 to 5 grams of glucose in all of a grown-up's blood, the typical resting pulse and breathing ranges for ages 6 to 10, the 2023 estimate of more than 100 million people with diabetes in India, the story that a lab assistant noticed flies around the dog's urine in 1889, that Sushruta's texts describe ants and honey urine, and that the insulin patent was sold to the University of Toronto for one dollar. The three videos have no address yet."
+  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Level Bottle: the bottle, hole and tap trickle were worked out from the way water leaves a hole, so the steady level rises as the trickle speeds up. The exact levels depend on the hole and the tap, so the steps say to write down what you see. A hole that is too big never fills, and a trickle that is too fast goes over the rim, and the steps say what to do then. Recovery Race: a grown-up must stay with the child. Pulse counting is hard at first, so practise at rest. Pupil Gauge: very dark brown eyes make the pupil hard to see, so a lamp at the side or a phone film is suggested. Sugar See-Saw: the cards and the rules were read through for a full game, but not played with a real family. Late Warmer-Colder works in any room. Facts checked against sources: about 4 to 5 grams of glucose in a grown-up's blood (Harvard BioNumbers gives about 4 g, so 'about' stays), the resting pulse and breathing ranges (softened to 16 to 25 breaths), about 101 million people with diabetes in India (Lancet 2023), ants and honey urine in the Sushruta texts (secondary sources only), and the one-dollar patent sale (confirmed; 'each' removed). The flies story is disputed and was removed. The three videos have no address yet."
 }

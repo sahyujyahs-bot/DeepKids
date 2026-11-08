@@ -80,14 +80,14 @@ A cube with sides of 2 centimetres has six faces, each 4 square centimetres, so 
 Imagine a hall with six people walking about. They hardly ever bump into each other. Now put sixty people into the same hall. They bump all the time. It is the same with particles. Lime juice in two spoons of water has many acid particles near each baking soda particle. Lime juice in twelve spoons of water has the same acid particles spread out, so meetings are rarer. Concentration also works for gases. In pure oxygen, a glowing splint bursts into flame, because oxygen particles are five times more crowded than in air, where only about one particle in five is oxygen. This is why hospitals keep flames far from oxygen cylinders.
 - e.g. Strong vinegar on baking soda fizzes harder than weak vinegar.
 - e.g. A glowing splinter bursts into flame in pure oxygen, but only glows in air.
-- e.g. Deep inside the Sun, hydrogen particles are squashed so tightly that they sometimes join. Even there, an average particle waits several billion years for its turn. This is a different kind of change, but speed still depends on how often particles meet.
+- e.g. Deep inside the Sun, hydrogen particles are squashed so tightly that they sometimes join. Even there, an average particle waits billions of years for its turn. This is a different kind of change, but speed still depends on how often particles meet.
 ### A catalyst makes one reaction faster and is not used up · *defined*
 **Definition:** A catalyst is a substance that lowers the effort a reaction needs, so it goes faster, and the catalyst comes out unchanged.
 
 Think of a mountain pass. Walkers can climb over the high mountain, which is hard and slow. A catalyst is like a lower pass cut through the same mountain. Many more walkers get across in the same time, and the pass is still there afterwards. In a reaction, the particles need a good bump, and in some cases a lot of energy to start changing. A catalyst gives them an easier path. It does not change which substances you start with or which ones you end up with, and it does not change how much product you finally get. It only changes how fast. Most catalysts also help only one kind of reaction, like a key made for one lock.
 - e.g. The potato's catalase makes hydrogen peroxide break down in seconds instead of months.
 - e.g. In a car's exhaust, a honeycomb coated with the metals platinum, palladium and rhodium changes poisonous carbon monoxide into carbon dioxide. The metals are not used up.
-- e.g. Iron helps in factories to join nitrogen from the air with hydrogen to make ammonia for fertiliser. About four in every ten people alive eat food grown with fertiliser made this way.
+- e.g. Iron helps in factories to join nitrogen from the air with hydrogen to make ammonia for fertiliser. Somewhere between four and five in every ten people alive eat food grown with fertiliser made this way.
 ### Enzymes: living catalysts that work at body warmth · *defined*
 **Definition:** An enzyme is a catalyst made by a living being. Each enzyme speeds up one job, and most work best in a narrow range of warmth.
 
@@ -171,7 +171,7 @@ Fruit salt, a pickle jar, an apple and an iron pillar seem to have nothing in co
 - Ask: Is the pillar's skin part of the pillar, or part of the air around it?
 
 ## Deep and big questions
-- *deep:* A mayfly lives for a day, and an iron pillar stands for 1,600 years. To the mayfly, the pillar never changes at all. Is 'slow' a property of the change, or of the one who is watching it? (hint: Think about what 'slow' would mean to a mayfly, to you, and to a mountain.)
+- *deep:* A grown mayfly may live for only a day, and an iron pillar stands for 1,600 years. To the mayfly, the pillar never changes at all. Is 'slow' a property of the change, or of the one who is watching it? (hint: Think about what 'slow' would mean to a mayfly, to you, and to a mountain.)
 - *deep:* Are we seeing the same change differently, or are we seeing different changes? A rusting nail, a flame and the Sun are all particles meeting, but they look nothing alike. (hint: Think about how slow, fast and hot hide the fact that they are the same kind of change.)
 - *big:* Which changes in your life do you want to speed up, and which do you want to slow down? Who decides? (hint: Think about food, learning, healing and friendships.)
 - *big:* Your body runs thousands of reactions at 37 degrees, each at just the right speed. What is keeping them in balance, since no one is in charge? (hint: Think about enzymes, and about what happens when you have a fever.)
@@ -207,7 +207,7 @@ Gayathri was thinking about her nails. Before the trip, she had put five iron na
 
 Thatha turned and looked at her as if she had said something in a new language.
 
-Rashmi Madam smiled. 'May I tell you what the scientists found?' she said. 'They looked at the pillar's surface with strong instruments. They found a very thin skin, much thinner than paper, made of iron joined with oxygen, hydrogen and phosphorus. It sticks tightly. The iron of the pillar also has a lot of phosphorus in it, more than the iron on your bridges. The skin has slowly built up over many years. It keeps most of the water and air from touching the iron below.'
+Rashmi Madam smiled. 'May I tell you what the scientists found?' she said. 'They looked at the pillar's surface with strong instruments. They found a very thin skin, thinner than a sheet of paper, made of iron joined with oxygen, hydrogen and phosphorus. It sticks tightly. The iron of the pillar also has a lot of phosphorus in it, more than the iron on your bridges. The skin has slowly built up over many years. It keeps most of the water and air from touching the iron below.'
 
 'So the iron still wants to rust,' said Thatha.
 
@@ -428,7 +428,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Note: Protease breaks down proteins such as egg and blood stains. Amylase breaks down starch such as rice and potato. Lipase breaks down fats such as oil. Cellulase works on the fibres in cotton. If the label does not say, that is also a result.
 - **s2 (8 min)**  
   *Parent does:* Ask a grown-up who drives if their vehicle has a catalytic converter. Ask them to find out if they are not sure. Write down what they say.  
-  *Parent says:* Ask someone who drives, or a mechanic. Does the vehicle have a catalytic converter in the exhaust? Many petrol cars and CNG autos do. Write down what they say.  
+  *Parent says:* Ask someone who drives, or a mechanic. Does the vehicle have a catalytic converter in the exhaust? Petrol cars in India are made with one. Write down what they say.  
   *Child mode:* Ask a driver about the exhaust helper. Write down the answer.
   - Note: A catalytic converter is a metal honeycomb coated with thin layers of metals such as platinum, palladium and rhodium. It changes harmful gases such as carbon monoxide into carbon dioxide. It works best when hot, so the first minute after a cold start is the dirtiest. Do not let your child go under the vehicle.
   - Check: A catalytic converter helps harmful gases change into safer gases. What happens to the metal in the converter? → **It stays, ready to help again**
@@ -610,7 +610,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 13. (mcq) Diamond is always very slowly turning into graphite, but a diamond ring seems to stay the same forever. Why?  
    Options: The rate is so low that no change is visible in a lifetime / The change has stopped completely / Diamonds are alive and repair themselves  
    **Answer:** The rate is so low that no change is visible in a lifetime. *Why:* Slow does not mean stopped. The meetings that would change diamond are extremely rare. A wrong pick means slow and still are being mixed up.
-14. (perspective) A mayfly lives for one day. A person lives for decades. A mountain lasts for millions of years. They are watching an iron gate rust.  
+14. (perspective) A grown mayfly may live for only one day. A person lives for decades. A mountain lasts for millions of years. They are watching an iron gate rust.  
    **Answer:** A strong answer picks a side and backs it. For example, slow is measured against a clock, and we can measure a rate in amount per time without a watcher. But whether it looks slow depends on how long the watcher lives. It could mention measuring rate with a clock.. *Why:* Both parts have something right. A rate can be measured as an amount per time, so it is about the change. Whether we call it fast or slow depends on the one watching.
 15. (write) Choose one thing at home that rusts, spoils or browns. Say which speed-up or slow-down you would use on it, and explain how it works using meetings of particles.  
    **Answer:** An answer might choose cut apple, and say lime juice slows the browning enzyme, or choose an iron grill and say paint keeps water and oxygen away from the iron. It should say that the particles meet less often or less strongly.. *Why:* A strong answer picks a real thing, names a slow-down or speed-up, and ties it to meetings: fewer, rarer or weaker meetings slow a change, and more or stronger meetings speed it up.
@@ -658,7 +658,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 ## Applications
 - Pressure cookers cook dal and rice faster by raising the temperature of the water.
 - Fridges and freezers slow down the changes that spoil food.
-- Catalytic converters in petrol cars and CNG autos change harmful exhaust gases into safer ones.
+- Catalytic converters in petrol cars change harmful exhaust gases into safer ones.
 - Washing powders with enzymes break down food stains in cool water.
 - Paint, oil and galvanising (a coat of zinc) slow the rusting of iron.
 - Slow-release medicines are coated so that they dissolve over hours.
@@ -678,7 +678,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - A fridge door full of milk, curd and vegetables, kept cold to slow down changes.
 
 ## Open questions
-- **How exactly do enzymes make reactions up to a million billion billion times faster?** Scientists can describe how enzymes hold particles in place, but they still argue about every part of the story. Some think quantum tunnelling of hydrogen has a role in some enzymes.
+- **How exactly do enzymes make reactions up to about a thousand billion billion times faster?** Scientists can describe how enzymes hold particles in place, but they still argue about every part of the story. Some think quantum tunnelling of hydrogen has a role in some enzymes.
 - **How did the very first catalysts on Earth begin?** Before there were living cells, something had to speed up chemistry. Some think rocks, metals or small molecules did it. Nobody has shown which came first.
 - **Could we design catalysts as good as enzymes for any reaction we want?** Chemists have won prizes for making catalysts and for evolving enzymes in the lab. But for many important reactions, we still have no good catalyst.
 - **Why does the Delhi Iron Pillar's skin form the way it does, and can we copy it?** Scientists have found out a lot about the skin, but making new iron that protects itself as well and for as long is still hard.
@@ -758,8 +758,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Fulhame, E., An Essay on Combustion, London, 1794; Laidler, K. J. and Cornish-Bowden, A., 'Elizabeth Fulhame and the discovery of catalysis: 100 years before Buchner', in New Beer in an Old Bottle, 1997.
 - Berzelius, J. J., Jahres-Bericht, 1835 (the word catalysis).
 - Balasubramaniam, R., 'On the corrosion resistance of the Delhi Iron Pillar', Corrosion Science 42, 2000.
+- Wikipedia, Iron pillar of Delhi (age about 1,600 years, Qutb complex, skin about one-twentieth of a millimetre thick, phosphorus above 0.1 percent); Archaeological Survey of India and Visvesvaraya Industrial and Technological Museum sites (links checked); Wikipedia, Emission standards in India (catalytic converters in petrol vehicles); Wikipedia, Proton-proton chain (about 9 billion years).
 - Zanotto, E. D., 'Do cathedral glasses flow?', American Journal of Physics 66, 1998.
 - van 't Hoff, J. H., Etudes de dynamique chimique, 1884 (how rates change with temperature).
-- Smil, V., Enriching the Earth, MIT Press, 2001 (about four in ten people are fed with nitrogen fertiliser made by the Haber-Bosch process).
+- Smil, V., Enriching the Earth, MIT Press, 2001 (about four in ten people around 2000 fed with nitrogen fertiliser made by the Haber-Bosch process); Erisman, J. W. et al., Nature Geoscience 1, 2008 (about 48 percent by 2008); Our World in Data, How many people does synthetic fertilizer feed (about half today).
 - Klinman, J. P. and Kohen, A., 'Hydrogen tunneling links protein dynamics to enzyme catalysis', Annual Review of Biochemistry 82, 2013.
 - Heraclitus, as in Plato, Cratylus 402a; Dhammapada 277; Nagarjuna, Mulamadhyamakakarika, chapter 1; Parmenides, On Nature, about 500 BCE.

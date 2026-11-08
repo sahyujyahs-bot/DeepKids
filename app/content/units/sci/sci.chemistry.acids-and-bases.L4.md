@@ -28,14 +28,14 @@
 - **Antacid**: A medicine or powder that is a base. It reacts with stomach acid and uses some of it up. *e.g.* Milk of magnesia, cooking soda and many chewable tablets work as antacids.
 - **Neutralise**: To use up acid by adding a base, or use up a base by adding acid, until the mixture moves towards neutral. *e.g.* Cooking soda neutralises vinegar and makes fizzing carbon dioxide gas.
 - **Bicarbonate**: A gentle base. Cooking soda is sodium bicarbonate. Your own body also makes bicarbonate to protect the stomach wall and to neutralise acid after the stomach. *e.g.* Fruit salt such as Eno holds bicarbonate and a dry acid. It fizzes in water, because the two meet and react.
-- **Helicobacter pylori**: A spiral-shaped bacterium that lives in the stomachs of about half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers. *e.g.* Barry Marshall and Robin Warren showed in the 1980s that this bacterium causes most stomach ulcers.
+- **Helicobacter pylori**: A spiral-shaped bacterium that lives in the stomachs of nearly half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers. *e.g.* Barry Marshall and Robin Warren showed in the 1980s that this bacterium causes most stomach ulcers.
 - **Ulcer**: A sore patch in the stomach wall or the first part of the small intestine, where the protective layer has worn away. *e.g.* Most ulcers are caused by the bacterium Helicobacter pylori or by some painkillers.
 
 ## Explanations
 ### pH counts hydrogen ions · *defined*
 **Definition:** pH is a number that tells how many free hydrogen ions a watery liquid holds. The more hydrogen ions, the lower the pH.
 
-Last year you met the idea that acids give out tiny charged particles of hydrogen when they dissolve in water. Those are hydrogen ions, and pH counts them. Even pure water has a very few of them. About one water particle in every 500 million splits in two. It makes one hydrogen ion and one partner particle called a hydroxide ion, always in equal numbers. So pure water is balanced, and its pH is 7. An acid adds hydrogen ions, so the pH falls below 7. A base takes hydrogen ions out of the water or adds hydroxide ions, so the pH rises above 7. Most everyday liquids lie between 0 and 14. Very strong acids go below 0, and very strong bases go above 14.
+Last year you met the idea that acids give out tiny charged particles of hydrogen when they dissolve in water. Those are hydrogen ions, and pH counts them. Even pure water has a very few of them. About one water particle in every 550 million splits in two. It makes one hydrogen ion and one partner particle called a hydroxide ion, always in equal numbers. So pure water is balanced, and its pH is 7. An acid adds hydrogen ions, so the pH falls below 7. A base takes hydrogen ions out of the water or adds hydroxide ions, so the pH rises above 7. Most everyday liquids lie between 0 and 14. Very strong acids go below 0, and very strong bases go above 14.
 - e.g. Lemon juice has a pH of about 2. It holds a great many hydrogen ions.
 - e.g. Pure water has a pH of 7. Its hydrogen ions and hydroxide ions are equal in number.
 - e.g. Soapy water has a pH of about 9 or 10. It holds very few hydrogen ions and many hydroxide ions.
@@ -73,7 +73,7 @@ Cells in the wall of your stomach pump hydrogen ions and chloride ions into the 
 The stomach wall has three defences. First, a thick coat of mucus covers the wall, like a wet gel. Second, the mucus traps bicarbonate, which is a base. The middle of the stomach is at about pH 2, but the layer touching the wall is close to pH 7. The acid is neutralised on its way through the coat. Third, the cells of the wall live only a few days. New cells keep replacing the worn ones. So the stomach is not safe because it is tough. It is safe because it is being made again, all the time. If the coat thins or the cells are damaged, acid reaches them, and a sore patch called an ulcer can form.
 - e.g. Painkillers such as aspirin can thin the mucus, which is why a doctor says to take them after food.
 - e.g. A small crack in the mucus lets acid reach the cells, and an ulcer can start there.
-- e.g. The mucus coat is a layer a few tenths of a millimetre thick, about as thick as a sheet of card.
+- e.g. The mucus coat is a thin gel layer, about a fraction of a millimetre thick.
 ### Heartburn and antacids · *defined*
 **Definition:** An antacid is a base. It reacts with acid and uses some of it up, so the pH rises.
 
@@ -91,14 +91,14 @@ Saliva in your mouth is close to neutral. The stomach is a pool of acid, at pH 1
 ### A bacterium with an antacid of her own · *defined*
 **Definition:** Helicobacter pylori is a spiral-shaped bacterium that lives in the mucus of the stomach and makes a base to protect herself from the acid.
 
-Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. About half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.
+Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. Nearly half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.
 - e.g. The urea breath test finds H. pylori by catching the gas from her urease.
 - e.g. Lactic acid bacteria in curd grow at pH 4, and their own acid slows them down.
-- e.g. Picrophilus, a microbe from hot sulphur springs in Japan, grows at a pH of about 0.7.
+- e.g. Picrophilus, a microbe from hot volcanic soil in Japan, grows best at a pH of about 0.7.
 ### Why is human stomach acid so strong? · *idea*
 **Definition:** Nobody knows for certain why human stomachs are so acidic. One recent idea is that our ancestors often ate old meat that held many microbes.
 
-In 2015, a group of scientists led by Daniel Beasley compared the stomach acidity of many animals. They found that humans are more acidic than most animals that eat meat. Our stomachs are more like those of scavengers such as vultures, which eat old meat. The scientists suggested that strong acid protects a scavenger from the germs in food that has been lying around. They think our ancestors may have eaten carrion often enough that the acid was worth having. But this is an idea and not a settled fact. Other scientists say the strong acid may also help us get the most from protein, or protect against the huge number of microbes in all food.
+In 2015, a group of scientists led by DeAnna Beasley compared the stomach acidity of many animals. They found that humans are more acidic than most animals that eat meat. Our stomachs are more like those of scavengers such as vultures, which eat old meat. The scientists suggested that strong acid protects a scavenger from the germs in food that has been lying around. They think our ancestors may have eaten carrion often enough that the acid was worth having. But this is an idea and not a settled fact. Other scientists say the strong acid may also help us get the most from protein, or protect against the huge number of microbes in all food.
 - e.g. A vulture can eat old meat that would make most animals ill.
 - e.g. Humans, vultures and some other scavengers all have very acidic stomachs.
 - e.g. Animals that mostly eat leaves tend to have milder stomach acid.
@@ -128,7 +128,7 @@ Tea plants grow best in acidic soil, at about pH 4.5 to 5.5, and the hills of th
 - Blood is held in a very narrow range, between pH 7.35 and 7.45, whatever a person eats. *How we know:* Blood tests from large numbers of healthy people show this range. Breathing, the kidneys and chemical buffers keep it steady.
 
 ## How we found out
-**Barry Marshall and Robin Warren, doctors in Perth, Australia, 1979 to 1984, and the Nobel Prize in 2005.** For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within days he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.  
+**Barry Marshall and Robin Warren, doctors in Perth, Australia, 1979 to 1984, and the Nobel Prize in 2005.** For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within about a week he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.  
 *What people believed before:* Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them.
 
 ## Challenging perspectives
@@ -165,7 +165,7 @@ Pure water is a perfect balance. A very few water particles split into a hydroge
 - **Aristotle, Nicomachean Ethics, Book II, chapter 6:** Aristotle taught that the right amount is a middle between too much and too little, and that the middle is different for different people. A trained wrestler needs more food than a beginner. (The right pH is also a middle that depends on the place. Pepsin needs pH 2, and blood needs pH 7.4. The same number would be wrong in the other place.)
 - **Tao Te Ching 42:** All things carry the dark and embrace the light, and by blending their breath they reach harmony. (Acid and base are opposites, and pure water holds them in equal balance. The body uses both to stay in harmony.)
 - Science (settled): Blood is held between pH 7.35 and 7.45 by the lungs, the kidneys and chemical buffers, even though the stomach beside it sits at pH 1 to 2.
-- Science (idea): Strong stomach acid may have evolved because our ancestors often ate old meat, as a vulture does. Daniel Beasley and colleagues suggested this in 2015.
+- Science (idea): Strong stomach acid may have evolved because our ancestors often ate old meat, as a vulture does. DeAnna Beasley and colleagues suggested this in 2015.
 - Other view, Many chemists and doctors: The stomach pumps out hydrogen ions and a bacterium makes ammonia because of chemistry. They would say that chemistry alone holds each pH and makes the ammonia, and that words like keep and choose only describe automatic processes.
 - Practice, Smell and wait (3 min): Sit with a banana, a piece of jaggery or a hot idli. Close your eyes and smell it for one slow breath. Do not eat yet. Notice whether your mouth fills with saliva. Your stomach is getting ready too, with acid and pepsin, before the first bite. Breathe out slowly. Then take one slow bite and chew it twenty times.
 - Ask: Is the acid in your stomach part of you, or something you make and keep apart from you?
@@ -672,7 +672,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - A bottle of 'alkaline water' on a shop shelf, with a claim about pH on the label.
 
 ## Open questions
-- **Why do most people who carry Helicobacter pylori never get an ulcer?** About half of all people carry the bacterium, but only one in ten or fewer gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer.
+- **Why do most people who carry Helicobacter pylori never get an ulcer?** Nearly half of all people carry the bacterium, but only a small share, often said to be about one in ten, gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer.
 - **Why are human stomachs as acidic as a vulture's?** One idea says our ancestors ate old meat. Others say the acid helps digestion or guards against the many microbes on all food. No one has found a way to test the ideas on ancestors who lived long ago.
 - **How safe is it to take strong acid-reducing medicines for many years?** These medicines help many people. Some studies link long use to other problems, such as weaker bones, but it is hard to tell whether the medicine or the illness caused the problem.
 - **Did the first living cells begin where a difference in pH already existed, such as at warm vents on the sea floor?** Some scientists think a pH difference across thin rock walls could have powered the first cells. Others think life began in other places. The vents have been studied, but no one has made life from them.
@@ -754,3 +754,6 @@ Mix, Fizz, Change (sci.chemistry.L4): Topic-level song
 - Schleper, C. and others, 'Picrophilus gen. nov., fam. nov.: a novel aerobic, heterotrophic, thermoacidophilic genus and family comprising archaea capable of growth around pH 0', Journal of Bacteriology 177, 1995
 - Balfour-Paul, J., Indigo, British Museum Press, 1998 (indigo vats and their care)
 - Chandogya Upanishad 6.5.1; Aristotle, Nicomachean Ethics, Book II, chapter 6; Tao Te Ching 42
+- Warren and Marshall dates (1979, 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; sources differ on whether Marshall joined in 1979 or 1981, so treat the year as approximate
+- Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (about 44 in 100 people)
+- Nobel Prize in Chemistry 1978 press release (Peter Mitchell)

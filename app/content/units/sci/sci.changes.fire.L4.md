@@ -79,7 +79,7 @@ Plants build wood, oil and sugar from carbon dioxide and water, using the energy
 ### A flame's colour tells which atoms are burning · *defined*
 **Definition:** Atoms of each element give out light of their own colours when they are heated in a flame. So the colour of a flame can show which element is burning.
 
-Sprinkle a pinch of salt in a gas flame, and it flashes a bright yellow-orange. The salt contains sodium. Atoms of sodium, when heated, give out yellow light, and nothing else. Copper gives green, and strontium gives red, which is why fireworks have their colours. Each element has its own colours, like a fingerprint. In 1868, a French astronomer called Pierre Janssen watched a total eclipse of the Sun from Guntur in India. He split the light from the edge of the Sun and saw a bright yellow line that did not match any known element. Scientists named the new element helium, after the Greek word for the Sun. It was found on Earth in 1895. Later, Cecilia Payne used the same method to show that the Sun is made mostly of hydrogen and helium.
+Sprinkle a pinch of salt in a gas flame, and it flashes a bright yellow-orange. The salt contains sodium. Atoms of sodium, when heated, give out yellow light, and nothing else. Copper gives green, and strontium gives red, which is why fireworks have their colours. Each element has its own colours, like a fingerprint. In 1868, a French astronomer called Pierre Janssen watched a total eclipse of the Sun from Guntur in India. He split the light from the edge of the Sun and saw a bright yellow line that did not match any known element. The British astronomer Norman Lockyer saw the same line and named the new element helium, after the Greek word for the Sun. It was found on Earth in 1895. Later, Cecilia Payne used the same method to show that the Sun is made mostly of hydrogen and helium.
 - e.g. A pinch of salt turns a flame yellow-orange, because of sodium.
 - e.g. Fireworks use different metals to make red, green and blue.
 - e.g. Light from a star shows which elements are in it.
@@ -98,7 +98,7 @@ If the Sun were a giant ball of coal burning in oxygen, it would have run out of
 - e.g. A coal Sun would have run out in about five thousand years.
 - e.g. Nearly all the fuel on Earth is stored sunlight.
 ### Fire in space: flames that are round and blue · *idea*
-On Earth a flame points up, because hot gas is lighter than cool air and rises, and pulls fresh air in from below. In the weightlessness of the International Space Station, hot gas does not rise. Astronauts' experiments have shown that a candle flame there is a small, round, blue ball. It gets oxygen only by slow drifting, so it burns weakly and soot barely forms. In 2012, scientists on the station found something odd. Tiny drops of fuel kept burning after the visible flame had gone out. They burned at a much lower temperature, in an invisible 'cool flame'. Scientists are still studying how these cool flames work, because they may help make cleaner engines.
+On Earth a flame points up, because hot gas is lighter than cool air and rises, and pulls fresh air in from below. In the weightlessness of the International Space Station, hot gas does not rise. Astronauts' experiments have shown that a candle flame there is a small, round, blue ball. It gets oxygen only by slow drifting, so it burns weakly and soot barely forms. Over some years, scientists on the station found something odd, and reported it in 2014. Tiny drops of fuel kept burning after the visible flame had gone out. They burned at a much lower temperature, in an invisible 'cool flame'. Scientists are still studying how these cool flames work, because they may help make cleaner engines.
 - e.g. A candle flame on the space station is round and blue.
 - e.g. Weightless hot gas does not rise.
 - e.g. Cool flames burn fuel without a visible flame.
@@ -131,7 +131,7 @@ A flame is not a solid, a liquid or a plain gas. It is a glowing place where fue
   Against: When tin or iron burns, it gets heavier. Lavoisier showed that it takes something from the air, which he named oxygen.
 - **A candle goes out in a closed jar because all the oxygen is used up.** (Many textbooks and many children.; *rejected*)  
   For: The flame does go out in a closed jar, and it does need oxygen.  
-  Against: Air has about 21 parts oxygen in every 100. A candle goes out when the oxygen has dropped to about 16 parts, so much of it is still left. The carbon dioxide and heat also matter.
+  Against: Air has about 21 parts oxygen in every 100. A candle goes out while much of the oxygen is still left in the air. The carbon dioxide and heat also matter.
 - **The Sun is a giant ball of fire.** (Many people, and many stories.; *rejected*)  
   For: The Sun gives heat and light, and looks like a flame.  
   Against: There is almost no oxygen in space, and burning could not last more than a few thousand years. The Sun runs on fusion.
@@ -152,9 +152,9 @@ We have caught what a flame makes, tested how fast things burn, and weighed burn
 
 A log, a candle and a body all hold carbon, hydrogen and oxygen. In a flame, the atoms leave their old partners and join with oxygen, and become carbon dioxide and water. The same atoms are still there, but they are now invisible and spread out. Plants collect them again from the air and build wood and sugar. So fire is not an ending. It is one step in a circle that carries the same atoms between air, plants, animals and flames.
 
-- **Chandogya Upanishad 6.4.1:** Uddalaka taught that the red colour of a flaming fire is the colour of fire itself, the white is the colour of water, and the black is the colour of food, which is earth. (A candle flame shows a bright part, and a cold plate held over it catches white drops of water and black soot. The old teacher also looked at a fire and saw three colours, and thought about what each one was made of.)
-- **Bhagavad Gita 2.16:** Of what is not, there is no coming to be. Of what is, there is no ceasing to be. (This is very close to what Lavoisier found by weighing. The wax does not cease to be. It becomes other things.)
-- **Anaxagoras, a Greek thinker of about 450 BCE, fragment 17:** Nothing comes into being or perishes. Things are only joined together or separated from things that already are. (A flame separates the atoms of a fuel and joins them to oxygen. Anaxagoras said the same about all change, 2,200 years before the weighing.)
+- **Chandogya Upanishad 6.4.1:** As paraphrased, Uddalaka taught that the red colour of a flaming fire is the colour of fire itself, the white is the colour of water, and the black is the colour of food, which is earth. (A candle flame shows a bright part, and a cold plate held over it catches white drops of water and black soot. The old teacher also looked at a fire and saw three colours, and thought about what each one was made of.)
+- **Bhagavad Gita 2.16:** As paraphrased: of what is not, there is no coming to be. Of what is, there is no ceasing to be. (This is very close to what Lavoisier found by weighing. The wax does not cease to be. It becomes other things.)
+- **Anaxagoras, a Greek thinker of about 450 BCE, fragment 17:** As paraphrased: nothing comes into being or perishes. Things are only joined together or separated from things that already are. (A flame separates the atoms of a fuel and joins them to oxygen. Anaxagoras said the same about all change, 2,200 years before the weighing.)
 - Science (settled): In a chemical reaction, the total mass of what goes in equals the total mass of what comes out. This is the conservation of mass.
 - Science (settled): A fire gives out a tiny amount of mass as heat and light, about a fifth of a millionth of a gram for each kilogram of wood. This follows from E equals m c squared.
 - Other view, Some philosophers: The atoms are kept, but the candle is not. A candle, a letter or a forest is a pattern, and patterns really do end. Saying that nothing is lost can hide the fact that something people cared about has gone.
@@ -394,7 +394,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent says:* If we smell gas, first we touch no flames and no switches. Then we turn off the regulator, open every window, go outside, and call for help.  
   *Child mode:* No flames. No switches. Turn off the regulator. Open windows. Go outside. Call for help.
   - Ask: Why must we not switch on a light when we smell gas? (good: A spark could set the gas on fire.; Switches make sparks.; The gas could explode.)
-  - Note: A switch can make a tiny spark. If gas has built up in the room, that spark can set it off. In India, the LPG emergency number on your cylinder or bill (often 1906) and the fire service (101) are the ones to call, from outside. Check the numbers for your area and write them on the card.
+  - Note: A switch can make a tiny spark. If gas has built up in the room, that spark can set it off. In India, the LPG emergency number on your cylinder or bill (the national LPG emergency line is 1906) and the fire service (101) are the ones to call, from outside. Check the numbers for your area and write them on the card.
   - Check: You smell gas in the kitchen. What should you do first? → **Not touch any flame or switch, then turn off the regulator and open the windows**
 - **s3 (5 min)**  
   *Parent does:* Play the drill twice. A grown-up says 'I smell gas.' Your child acts out the steps in order. They point at the regulator and the window. Then swap places, and let the child give the signal.  
@@ -513,7 +513,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
    **Answer:** True. *Why:* True. If burning let something escape, burnt things should get lighter. Tin and iron got heavier, because they took oxygen from the air.
 6. (mcq) A candle goes out in a closed jar, though plenty of air is still inside. Why?  
    Options: The oxygen has fallen too low to keep the flame going, though some is left / The jar is too cold / All the air has been used up  
-   **Answer:** The oxygen has fallen too low to keep the flame going, though some is left. *Why:* Air starts with about 21 parts oxygen in every 100. A candle goes out when it drops to about 16 parts. Plenty of air remains, but not enough oxygen.
+   **Answer:** The oxygen has fallen too low to keep the flame going, though some is left. *Why:* Air starts with about 21 parts oxygen in every 100. A candle goes out while much of the oxygen is still left. Plenty of air remains, but not enough oxygen.
 7. (order) Put these in the right order for running a fair test of how shape changes burning speed.  
    **Answer:** ['Cut every piece of paper to the same size', 'Make each piece into a different shape', 'Light each piece in the same way', 'Time how long each one burns', 'Compare the times']. *Why:* A fair test changes only one thing. The paper is the same and the lighting is the same, so only the shape differs. Timing and comparing come last.
 8. (sort) Sort each flame by whether the fuel is burning completely or incompletely.  
@@ -712,6 +712,9 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - Lavoisier, A., Traité élémentaire de chimie, Paris, 1789 (the conservation of mass, oxygen and burning)
 - Partington, J. R., A History of Chemistry, volumes 2 and 3, Macmillan, 1961 and 1962 (phlogiston theory and Lavoisier's work)
 - Poirier, J.-P., Lavoisier: Chemist, Biologist, Economist, University of Pennsylvania Press, 1996 (including the role of Marie-Anne Paulze Lavoisier)
+- NASA Glenn and University of California San Diego, release on cool flames in the FLEX space station experiments (2014)
+- Indian Oil Corporation, launch of the 1906 LPG emergency helpline
+- Wikipedia, Solar eclipse of 18 August 1868, for Janssen at Guntur and Lockyer's part
 - Drysdale, D., An Introduction to Fire Dynamics, 3rd edition, Wiley, 2011 (flame structure, oxygen needed to keep a flame going, soot)
 - Dietrich, D. L. and others, 'Droplet combustion experiments aboard the International Space Station', Microgravity Science and Technology, 2014 (round flames and cool flames in weightlessness)
 - Janssen, P., report to the Académie des sciences on the solar eclipse of 18 August 1868, observed at Guntur (the bright yellow line later named helium)

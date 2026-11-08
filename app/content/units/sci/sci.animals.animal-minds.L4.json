@@ -101,7 +101,7 @@
    "status": "defined",
    "description": "Number sense is old and shared. Chicks only a few days old go to the bigger group of objects they were raised with. Fish choose to join the bigger shoal. Honeybees, crows and monkeys also tell small numbers apart. Human babies a few months old stare longer when the number of dots changes. None of them has number words, so the feeling for 'how many' comes first, and the words come later. A chick checking two piles is a scientist's best sign that the feeling is built into a living body. Scientists test it by hiding food or objects and seeing which pile the animal picks.",
    "examples": [
-    "A chick only three days old walks to the screen hiding more balls, not fewer.",
+    "A chick only three or four days old walks to the screen hiding more balls, not fewer.",
     "A fish joins the bigger group of fish in a tank.",
     "A six-month-old baby looks longer when 8 dots change to 16."
    ],
@@ -172,7 +172,7 @@
   {
    "concept": "Desert ants count their steps",
    "status": "defined",
-   "description": "Desert ants in Tunisia walk far across hot sand with no trail to follow, then run straight home. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf tested how they know the distance. They glued a few pig bristles to some ants' legs, like stilts, and cut other ants' legs shorter, like stumps. Ants on stilts took longer steps and walked past the nest. Ants on stumps took shorter steps and stopped before it. So the ants were counting steps, not looking at the sand. With normal legs, one step count is a good measure of distance.",
+   "description": "Desert ants walk far across hot sand with no trail to follow, then run straight home. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf tested how they know the distance. They added tiny extensions to some ants' legs, like stilts, and cut other ants' legs shorter, like stumps. Ants on stilts took longer steps and walked past the nest. Ants on stumps took shorter steps and stopped before it. So the ants were counting steps, not looking at the sand. With normal legs, one step count is a good measure of distance.",
    "examples": [
     "An ant on stilts walks past the nest door.",
     "An ant on stumps stops short of the nest door.",
@@ -185,7 +185,7 @@
   {
    "concept": "Waiting for more: self-control in people and other animals",
    "status": "defined",
-   "description": "Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish waited up to about two minutes for a favourite food, instead of taking a plain one at once. Those who waited longer also learned faster in a second test. Waiting is a choice that needs a picture of a better later. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.",
+   "description": "Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish waited for a favourite food for up to about one to two minutes, instead of taking a plain one at once. Those who waited longer also learned faster in a second test. Waiting is a choice that needs a picture of a better later. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.",
    "examples": [
     "A cuttlefish waits for live shrimp instead of eating a piece of prawn.",
     "A crow waits for a better nut.",
@@ -415,12 +415,12 @@
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.2.1 to 6.2.3",
-    "teaching": "In the beginning there was only Being, one without a second. Being thought, 'Let me become many.'",
+    "teaching": "As paraphrased: in the beginning there was only Being, one without a second. Being thought, 'Let me become many.'",
     "link": "Counting starts with one and moves to many. Your sense of number is the mind meeting that step."
    },
    {
     "source": "Tao Te Ching 42",
-    "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
+    "teaching": "As paraphrased: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
     "link": "The first numbers come in a line, one after another, which is how a bee sees stripes and how you touch palms."
    },
    {
@@ -2782,7 +2782,7 @@
  },
  "how_we_found_out": {
   "story": "For a long time, many thinkers said that counting needs words. Animals have no number words, so they could not count. In the 1930s and 1940s, a German scientist called Otto Koehler tested this. He trained birds, including a raven called Jakob and some jackdaws, to pick out a chosen number of marks or food items. He changed the size, shape and place of the things, so the birds could not use any clue except the number. The birds managed small numbers, up to about five or six. Koehler called this 'thinking in unnamed numbers'. Later scientists said he had not controlled every clue, and tested again with better controls. Later, Irene Pepperberg's grey parrot Alex used spoken number words, and Marie Dacke's bees stopped at the right stripe in a tunnel. So words are not needed for number. Words only make big numbers exact.",
-  "who": "Otto Koehler first, then Irene Pepperberg, Marie Dacke and many others",
+  "who": "Otto Koehler among the first, then Irene Pepperberg, Marie Dacke and many others",
   "when": "The 1930s to the 1950s, then 1980s to 2008",
   "wrong_idea": "Counting needs number words, so animals cannot sense number. Koehler's birds picked the right number with no words, and later bees, ants and a parrot did too."
  },

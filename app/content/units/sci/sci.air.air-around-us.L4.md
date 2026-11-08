@@ -28,7 +28,7 @@
 - **Lift pump**: A hand pump with its working part down in the water, so it pushes the water up the pipe instead of waiting for the air to push it up. *e.g.* The India Mark II hand pump has its cylinder deep down inside the borehole.
 - **Mercury**: A silvery metal that is liquid at room temperature and about 13.6 times heavier than the same amount of water. It is poisonous, so never play with it. *e.g.* Torricelli used mercury in his tube because a short tube of it balances the air.
 - **Expand**: To spread out into more space. *e.g.* A sealed packet of chips puffs up when you take it up a hill, because the air inside expands.
-- **Particle**: A tiny piece of matter, much too small to see. Air is made of particles that fly about in every direction. *e.g.* A single breath holds more air particles than there are grains of sand on every beach on Earth.
+- **Particle**: A tiny piece of matter, much too small to see. Air is made of particles that fly about in every direction. *e.g.* A single breath holds far more air particles than the usual estimate of the grains of sand on every beach on Earth.
 - **Siphon**: A tube that moves liquid up and over a rim and down to a lower place, with no pouring or pumping once it starts. *e.g.* A farmer can empty a tank into a lower field through a pipe full of water.
 
 ## Explanations
@@ -94,17 +94,17 @@ A siphon is a tube full of water that carries water up over a rim and down to a 
 - e.g. A fish tank cleaner moves dirty water into a bucket through a tube.
 - e.g. Some experiments have kept a siphon running with much of the air pressure taken away.
 - **The air pressure explanation, found in many older textbooks:** The air pushes on the water in the top tank and forces it up and over the bend. The siphon would stop in a place with no air.
-- **The chain explanation, supported by some physicists who tested siphons at low pressure:** Water in the tube is a chain held together by the sticking of its particles to each other. The longer, heavier side of the chain falls down and pulls the rest after it. Siphons have been made to run at much lower pressure, which suggests that air pressure is not what drives them.
+- **The chain explanation, supported by some physicists who tested siphons at low pressure:** Water in the tube is a chain held together by the sticking of its particles to each other. The longer, heavier side of the chain falls down and pulls the rest after it. Some experiments report siphons running at much lower pressure, which suggests that air pressure is not what drives them. Others, such as Richert and Binder in 2011, tested this and found that pressure still matters.
 
 ## Mostly agreed
-- Air has weight and pushes on everything it touches, from every direction. *How we know:* Torricelli's mercury tube in 1643 and thousands of barometers since then show that the air's push holds up a column of mercury about 76 centimetres tall.
+- Air has weight and pushes on everything it touches, from every direction. *How we know:* Torricelli's mercury tube, tried around 1643, and thousands of barometers since then show that the air's push holds up a column of mercury about 76 centimetres tall.
 - At sea level, air pushes with about 1 kilogram of weight on each square centimetre. *How we know:* Measured with barometers in every country. The reading is about 1,013 millibars at sea level on an average day.
 - Air pressure falls as you go higher, and the atmosphere has no sharp top. *How we know:* Périer's climb of the Puy de Dôme in 1648, and many balloon, aeroplane and mountain readings since.
 - Drinking through a straw, using a suction hook and running a vacuum cleaner all work because air pushes from the side that has more of it. *How we know:* The straw stops working when a hole lets the air in, and starts again when the hole is covered.
 - The push on a thing is the pressure multiplied by its area. *How we know:* A large flat surface feels a much bigger total push than a small one in the same air, as in the card and the door.
 
 ## How we found out
-**Evangelista Torricelli and Vincenzo Viviani in Italy, and Blaise Pascal and Florin Périer in France, 1643 and 1648.** About 2,300 years ago, the Greek thinker Aristotle taught that nature hates an empty space, so water has to follow a pump's piston to keep any gap from opening. People believed this for almost 2,000 years. Then, in the 1600s, well-makers in Italy found that their pumps would not lift water higher than about ten metres, and no one could say why. In 1643, Evangelista Torricelli guessed that the weight of the air was holding the water up. His helper, Vincenzo Viviani, filled a glass tube about a metre long with mercury, a liquid metal 13.6 times heavier than water, and turned it over in a dish. The mercury sank to about 76 centimetres and stopped, leaving a space at the top. In 1648, Blaise Pascal's brother-in-law, Florin Périer, carried the tube up the Puy de Dôme, a mountain in France. The mercury stood lower, the higher he went.  
+**Evangelista Torricelli and Vincenzo Viviani in Italy, and Blaise Pascal and Florin Périer in France, About 1643, and 1648.** About 2,300 years ago, the Greek thinker Aristotle taught that nature hates an empty space, so water has to follow a pump's piston to keep any gap from opening. People believed this for almost 2,000 years. Then, in the 1600s, well-makers in Italy found that their pumps would not lift water higher than about ten metres, and no one could say why. Around 1643, Evangelista Torricelli guessed that the weight of the air was holding the water up. His helper, Vincenzo Viviani, filled a glass tube about a metre long with mercury, a liquid metal 13.6 times heavier than water, and turned it over in a dish. The mercury sank to about 76 centimetres and stopped, leaving a space at the top. In 1648, Blaise Pascal's brother-in-law, Florin Périer, carried the tube up the Puy de Dôme, a mountain in France. The mercury stood lower, the higher he went.  
 *What people believed before:* Aristotle's idea that nature hates a vacuum and so fills every gap. The pump limit of about ten metres, Torricelli's empty space at the top of the tube, and the lower mercury on the mountain showed that the weight of air does the pushing, and that it pushes less with height.
 
 ## Challenging perspectives
@@ -137,7 +137,7 @@ We have found that air pushes on everything, that you never notice it, and that 
 
 Still air looks empty and calm. Zoom in and it is billions of particles, flying and hitting every surface every second. The calm is a balance of countless tiny pushes. A straw, a pump, the wind and a storm all begin when one push is a little bigger than another. Where we see nothing, there is a great deal going on, held in balance.
 
-- **Rig Veda 10.168, the hymn to Vata, the wind:** The hymn says that the sound of the wind is heard but its form is not seen, and it calls the wind the breath of the gods. (We cannot see air, but we know it by what it does. It holds a card on a glass of water and lifts a drink up a straw.)
+- **Rig Veda 10.168, the hymn to Vata, the wind:** The hymn says that the sound of the wind is heard but its form is not seen, and it calls the wind the self, or breath, of the gods (verse 4, as paraphrased). (We cannot see air, but we know it by what it does. It holds a card on a glass of water and lifts a drink up a straw.)
 - **Heraclitus, fragment B51 (Diels and Kranz numbering), ancient Greece, about 500 BCE:** Heraclitus said that things hold together by pulling against each other in opposite directions, like the string and the wood of a bow or a lyre. (The card holds because the water pushes down and the air pushes up. The balance of two opposite pushes keeps it still.)
 - Science (settled): Pressure comes from air particles hitting a surface billions of times every second. Their number and their speed set the size of the push.
 - Science (settled): Empty space is never quite empty. Experiments have measured a tiny push between two metal plates in a vacuum, the Casimir effect.
@@ -711,3 +711,6 @@ Nothing Is Empty (sci.air.L4): Topic-level song for Air
 - Heraclitus, fragment B51 (Diels and Kranz numbering)
 - World Meteorological Organization and standard atmosphere tables, for pressure at altitude
 - Ayrton, H., 1915, the anti-gas fan (see Evelyn Sharp, Hertha Ayrton: a memoir, 1926)
+- Torricelli experiment date: historians differ between 1643 and 1644 (Institute and Museum of the History of Science, Florence), so the unit says about 1643
+- Ayrton fan: Science Museum Group and Imperial War Museum (idea of May 1915)
+- Yancey and others, PNAS 111, 2014: the deepest-fish depth of about 8,200 m is an extrapolation

@@ -102,7 +102,7 @@
   },
   {
    "term": "Helicobacter pylori",
-   "meaning": "A spiral-shaped bacterium that lives in the stomachs of about half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers.",
+   "meaning": "A spiral-shaped bacterium that lives in the stomachs of nearly half of all people. Most of the time it does no harm. Sometimes it causes sore patches, called ulcers.",
    "example": "Barry Marshall and Robin Warren showed in the 1980s that this bacterium causes most stomach ulcers.",
    "art": "A spiral-shaped bacterium drawn big, burrowing into the mucus of a stomach wall."
   },
@@ -119,7 +119,7 @@
    "status": "defined",
    "context": "Last year you sorted liquids by colour from sour to soapy. This card says what the pH number is really counting.",
    "definition": "pH is a number that tells how many free hydrogen ions a watery liquid holds. The more hydrogen ions, the lower the pH.",
-   "description": "Last year you met the idea that acids give out tiny charged particles of hydrogen when they dissolve in water. Those are hydrogen ions, and pH counts them. Even pure water has a very few of them. About one water particle in every 500 million splits in two. It makes one hydrogen ion and one partner particle called a hydroxide ion, always in equal numbers. So pure water is balanced, and its pH is 7. An acid adds hydrogen ions, so the pH falls below 7. A base takes hydrogen ions out of the water or adds hydroxide ions, so the pH rises above 7. Most everyday liquids lie between 0 and 14. Very strong acids go below 0, and very strong bases go above 14.",
+   "description": "Last year you met the idea that acids give out tiny charged particles of hydrogen when they dissolve in water. Those are hydrogen ions, and pH counts them. Even pure water has a very few of them. About one water particle in every 550 million splits in two. It makes one hydrogen ion and one partner particle called a hydroxide ion, always in equal numbers. So pure water is balanced, and its pH is 7. An acid adds hydrogen ions, so the pH falls below 7. A base takes hydrogen ions out of the water or adds hydroxide ions, so the pH rises above 7. Most everyday liquids lie between 0 and 14. Very strong acids go below 0, and very strong bases go above 14.",
    "examples": [
     "Lemon juice has a pH of about 2. It holds a great many hydrogen ions.",
     "Pure water has a pH of 7. Its hydrogen ions and hydroxide ions are equal in number.",
@@ -193,7 +193,7 @@
    "examples": [
     "Painkillers such as aspirin can thin the mucus, which is why a doctor says to take them after food.",
     "A small crack in the mucus lets acid reach the cells, and an ulcer can start there.",
-    "The mucus coat is a layer a few tenths of a millimetre thick, about as thick as a sheet of card."
+    "The mucus coat is a thin gel layer, about a fraction of a millimetre thick."
    ],
    "perspectives": [],
    "art": "A slice of stomach wall: acid at the top at pH 2, a mucus layer with bubbles of bicarbonate in the middle, and the wall at the bottom at pH 7."
@@ -231,11 +231,11 @@
    "status": "defined",
    "context": "Doctors once thought no living being could survive stomach acid. This card is about a bacterium that does.",
    "definition": "Helicobacter pylori is a spiral-shaped bacterium that lives in the mucus of the stomach and makes a base to protect herself from the acid.",
-   "description": "Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. About half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.",
+   "description": "Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. Nearly half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.",
    "examples": [
     "The urea breath test finds H. pylori by catching the gas from her urease.",
     "Lactic acid bacteria in curd grow at pH 4, and their own acid slows them down.",
-    "Picrophilus, a microbe from hot sulphur springs in Japan, grows at a pH of about 0.7."
+    "Picrophilus, a microbe from hot volcanic soil in Japan, grows best at a pH of about 0.7."
    ],
    "perspectives": [],
    "art": "A spiral-shaped bacterium inside a layer of mucus with a small bubble of ammonia around her and the acid kept outside."
@@ -245,7 +245,7 @@
    "status": "idea",
    "context": "The stomach acid of humans is strong compared with many other animals. This card gives one idea about why.",
    "definition": "Nobody knows for certain why human stomachs are so acidic. One recent idea is that our ancestors often ate old meat that held many microbes.",
-   "description": "In 2015, a group of scientists led by Daniel Beasley compared the stomach acidity of many animals. They found that humans are more acidic than most animals that eat meat. Our stomachs are more like those of scavengers such as vultures, which eat old meat. The scientists suggested that strong acid protects a scavenger from the germs in food that has been lying around. They think our ancestors may have eaten carrion often enough that the acid was worth having. But this is an idea and not a settled fact. Other scientists say the strong acid may also help us get the most from protein, or protect against the huge number of microbes in all food.",
+   "description": "In 2015, a group of scientists led by DeAnna Beasley compared the stomach acidity of many animals. They found that humans are more acidic than most animals that eat meat. Our stomachs are more like those of scavengers such as vultures, which eat old meat. The scientists suggested that strong acid protects a scavenger from the germs in food that has been lying around. They think our ancestors may have eaten carrion often enough that the acid was worth having. But this is an idea and not a settled fact. Other scientists say the strong acid may also help us get the most from protein, or protect against the huge number of microbes in all food.",
    "examples": [
     "A vulture can eat old meat that would make most animals ill.",
     "Humans, vultures and some other scavengers all have very acidic stomachs.",
@@ -483,7 +483,7 @@
     "status": "settled"
    },
    {
-    "text": "Strong stomach acid may have evolved because our ancestors often ate old meat, as a vulture does. Daniel Beasley and colleagues suggested this in 2015.",
+    "text": "Strong stomach acid may have evolved because our ancestors often ate old meat, as a vulture does. DeAnna Beasley and colleagues suggested this in 2015.",
     "status": "idea"
    }
   ],
@@ -2459,7 +2459,7 @@
  "open_questions": [
   {
    "q": "Why do most people who carry Helicobacter pylori never get an ulcer?",
-   "why_open": "About half of all people carry the bacterium, but only one in ten or fewer gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer."
+   "why_open": "Nearly half of all people carry the bacterium, but only a small share, often said to be about one in ten, gets an ulcer. Scientists are comparing the bacterium's strains, people's genes and diets, and have no full answer."
   },
   {
    "q": "Why are human stomachs as acidic as a vulture's?",
@@ -2752,11 +2752,14 @@
    "Mitchell, P., 'Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism', Nature 191, 1961 (hydrogen ions as a cell battery)",
    "Schleper, C. and others, 'Picrophilus gen. nov., fam. nov.: a novel aerobic, heterotrophic, thermoacidophilic genus and family comprising archaea capable of growth around pH 0', Journal of Bacteriology 177, 1995",
    "Balfour-Paul, J., Indigo, British Museum Press, 1998 (indigo vats and their care)",
-   "Chandogya Upanishad 6.5.1; Aristotle, Nicomachean Ethics, Book II, chapter 6; Tao Te Ching 42"
+   "Chandogya Upanishad 6.5.1; Aristotle, Nicomachean Ethics, Book II, chapter 6; Tao Te Ching 42",
+   "Warren and Marshall dates (1979, 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; sources differ on whether Marshall joined in 1979 or 1981, so treat the year as approximate",
+   "Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (about 44 in 100 people)",
+   "Nobel Prize in Chemistry 1978 press release (Peter Mitchell)"
   ]
  },
  "how_we_found_out": {
-  "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within days he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
+  "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within about a week he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
   "who": "Barry Marshall and Robin Warren, doctors in Perth, Australia",
   "when": "1979 to 1984, and the Nobel Prize in 2005",
   "wrong_idea": "Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them."

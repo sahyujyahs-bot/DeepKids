@@ -36,14 +36,14 @@
 ### Eusocial: a society where only a few have young · *defined*
 **Definition:** A eusocial society is one where a few animals lay all the eggs, many others look after the young, and the animals of different generations live together.
 
-In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists think eusociality has appeared on Earth around twenty times, and it is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this unit.
+In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists count more than a dozen separate times that eusociality has appeared on Earth, and the count depends on how it is done. It is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this unit.
 - e.g. A honeybee hive with one queen, thousands of daughters who work, and a few hundred drones.
 - e.g. A termite mound with a king and queen, workers and soldiers.
 - e.g. A naked mole-rat colony in underground tunnels, with one breeding female and a few breeding males.
 ### Division of labour: what sharing the jobs gains, and what it costs · *defined*
 **Definition:** Division of labour means that different members of a group do different jobs, so each job is done by someone who does it often.
 
-Doing one job again and again saves time. You do not put one tool down and pick up another, and you get better with practice. In 1776 the Scottish thinker Adam Smith described a small pin factory. Ten workers each did one or two of the eighteen steps, and together they made about 48,000 pins in a day. He thought one worker alone could hardly make twenty. A hive works the same way: some bees feed grubs while others fly for nectar. But sharing jobs has a cost. If everyone has only one job and the last forager is lost, nobody brings food. A good society shares the work and also lets members change jobs when the need changes. Honeybees do this, and you test the first half of this idea yourself.
+Doing one job again and again saves time. You do not put one tool down and pick up another, and you get better with practice. In 1776 the Scottish thinker Adam Smith described a small pin factory. Ten workers shared the eighteen steps, some doing two or three of them, and together they made about 48,000 pins in a day. He thought one worker alone could not make twenty. A hive works the same way: some bees feed grubs while others fly for nectar. But sharing jobs has a cost. If everyone has only one job and the last forager is lost, nobody brings food. A good society shares the work and also lets members change jobs when the need changes. Honeybees do this, and you test the first half of this idea yourself.
 - e.g. Adam Smith's pin factory, where each worker did one step.
 - e.g. Ants where some carry food and others stay in the nest to care for the eggs.
 - e.g. A kitchen at a wedding, with one person cutting vegetables, one frying and one serving.
@@ -64,7 +64,7 @@ A honeybee worker can do every worker's job in her life. A termite is different.
 ### The waggle dance: how a bee tells the others where to go · *defined*
 **Definition:** The waggle dance is a honeybee's dance on the comb that tells other bees the direction and distance of food or a new home.
 
-Inside the dark hive, a returning forager runs in a straight line over the comb while shaking her body from side to side. That is the waggle run. Then she circles back and repeats it. The comb hangs straight up and down, and the bees treat straight up as the direction of the Sun. If the run points 40 degrees to the right of straight up, the food is 40 degrees to the right of the Sun's direction. The longer the waggle run lasts, the farther away the place is. For one common kind of honeybee, about one second means roughly a kilometre, though this differs between kinds. Other bees follow close behind the dancer, feel the pattern with their antennae, and then fly out. The Austrian scientist Karl von Frisch worked this out and shared the 1973 Nobel Prize for it.
+Inside the dark hive, a returning forager runs in a straight line over the comb while shaking her body from side to side. That is the waggle run. Then she circles back and repeats it. The comb hangs straight up and down, and the bees treat straight up as the direction of the Sun. If the run points 40 degrees to the right of straight up, the food is 40 degrees to the right of the Sun's direction. The longer the waggle run lasts, the farther away the place is. In some studies of honeybees, about one second has meant roughly a kilometre, though the rate differs between kinds and even between bees, so it is only a guide. Other bees follow close behind the dancer, feel the pattern with their antennae, and then fly out. The Austrian scientist Karl von Frisch worked this out and shared the 1973 Nobel Prize for it.
 - e.g. A dancer running straight up the comb, telling others to fly towards the Sun.
 - e.g. A short waggle for a flower bed near the hive, and a long waggle for a distant field.
 - e.g. A scout dancing on a swarm's surface to describe a hollow tree.
@@ -76,7 +76,7 @@ When a hive grows too full, the old queen leaves with about half the workers and
 - e.g. Scouts dancing for three different hollows, and the dances for two of them dying away.
 - e.g. A human committee that waits until enough members agree before it acts.
 ### Are the resting ants lazy? Reserve workers · *debated*
-When scientists watched every ant in some colonies, they often found that at any moment about half of the workers or more were standing still. Anna Dornhaus, an ant scientist at the University of Arizona, has studied this in acorn ants, which are small ants that nest inside acorns and rock cracks. Why does a nest keep so many ants doing nothing? Scientists have three main answers, and nobody has shown which is true for most kinds of ants.
+When scientists watched every ant in some colonies, they often found that at any moment a large share of the workers, in some nests half or more, were standing still. Anna Dornhaus, an ant scientist at the University of Arizona, has studied this in acorn ants, which are small ants that nest inside acorns and rock cracks. Why does a nest keep so many ants doing nothing? Scientists have three main answers, and nobody has shown which is true for most kinds of ants.
 - e.g. Ants standing still in a nest chamber while others carry eggs.
 - e.g. A hive where some foragers sit on the landing board for a while before leaving.
 - e.g. A fire station where most firefighters wait for a call.
@@ -100,7 +100,7 @@ A worker honeybee almost never lays eggs. She spends her life feeding her mother
 ### A mammal with a queen: the naked mole-rat · *defined*
 **Definition:** Naked mole-rats are small African mammals that live in underground colonies with one breeding female, the queen.
 
-Naked mole-rats are mammals the size of a small hand, with almost no fur. They live in East Africa in long tunnels that they dig themselves. In 1981 the biologist Jennifer Jarvis published a study of a captive colony and showed that these mammals live like bees and termites. A colony of about 70 to 80 mole-rats has one queen and a few breeding males. The others dig, carry food, and look after the young. When the tunnel is long, the diggers work in a chain, one cutting at the soil and the next kicking it backwards. Naked mole-rats can live for 30 years or more, much longer than a mouse. Humans are mammals too, but our societies are very different, because nearly every adult in a human village can have children.
+Naked mole-rats are mammals the size of a small hand, with almost no fur. They live in East Africa in long tunnels that they dig themselves. In 1981 the biologist Jennifer Jarvis published a study of a captive colony and showed that these mammals live like bees and termites. A colony of about 70 to 80 mole-rats has one queen and a few breeding males. The others dig, carry food, and look after the young. When the tunnel is long, the diggers work in a chain, one cutting at the soil and the next kicking it backwards. In captivity naked mole-rats can live for 30 years or more, much longer than a mouse. Humans are mammals too, but our societies are very different, because nearly every adult in a human village can have children.
 - e.g. A mole-rat digging chain, with one animal at the front and others passing the soil backwards.
 - e.g. A queen mole-rat who gives birth every few months to litters of around a dozen pups.
 - e.g. A worker who carries a sweet potato tuber back to the nest.
@@ -150,7 +150,7 @@ We have seen a hive share its jobs, a dance carry a map and a swarm choose a hom
 
 No honeybee sees the whole hive. Each one knows only the cell in front of her, the smell at the door or the dance she is following. Yet the hive keeps its warmth, feeds its young and picks a home. The whole does things that none of its parts is doing. Some sages taught that the world is like this too, with many beings who each see a little, inside one whole that nobody stands outside of.
 
-- **Rig Veda 10.191.2:** The last hymn of the Rig Veda says, come together, speak together, let your minds know alike. It is a hymn for people gathered to decide something together. (Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way.)
+- **Rig Veda 10.191.2:** As paraphrased, the last hymn of the Rig Veda says, come together, speak together, let your minds know alike. It is a hymn for people gathered to decide something together. (Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way.)
 - **Tattvartha Sutra 5.21, a Jain text:** Parasparopagraho jivanam. Living beings help one another. The Jain tradition teaches that all life holds together because every being supports others. (A honeybee is fed by nurses, warmed by the cluster and kept safe by guards. She lives because other bees do their jobs.)
 - Science (settled): Honeybees keep the middle of the nest at about 34 to 35 degrees Celsius. The whole colony does this together, and no single bee holds the temperature.
 - Science (idea): Many scientists think the first animal bodies began as colonies of single cells that stayed together and started to share jobs. Fossils cannot show it, so it remains an idea.
@@ -637,7 +637,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 ### Queens, Quorums and What We Cannot Conclude (challenge) (challenge, 15 questions)
 1. (mcq) Naked mole-rats are mammals, and they live with a queen and many helpers. What does this tell us about eusocial life?  
    Options: It has appeared in very different animals, not only in insects / It only works for animals with six legs / It only works for animals that fly / It is the usual way mammals live  
-   **Answer:** It has appeared in very different animals, not only in insects. *Why:* Eusociality has appeared on Earth about twenty times, in insects, shrimp and mammals. It is rare, but it is not limited to one body type.
+   **Answer:** It has appeared in very different animals, not only in insects. *Why:* Eusociality has appeared on Earth more than a dozen separate times, in insects, shrimp and mammals. It is rare, but it is not limited to one body type.
 2. (write) Naked mole-rats and humans are both mammals. Give one big difference between a human society and a mole-rat colony, and say what you cannot conclude from the mole-rats about how people should live.  
    **Answer:** In a human village, nearly every adult can have children, but in a mole-rat colony only the queen and a few males do. We cannot conclude that people should have a queen or a ruler, because what happens in nature does not tell us what is fair for people.. *Why:* A strong answer gives a real difference and says that a fact about animals does not tell us what people should do. Naked mole-rats are one example of how life can be arranged, not a rule.
 3. (truefalse) Because honeybee hives have a queen, it is natural and so right for people to have rulers.  
@@ -695,7 +695,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
    **Answer:** The food is 30 degrees to the left of the Sun's direction. *Why:* Straight up on the comb stands for the Sun's direction, so the angle of the run from straight up is the angle of the food from the Sun. The length of the waggle tells the distance.
 7. (mcq) One dancer waggles for half a second, and another waggles for three seconds. What does this show?  
    Options: The second bee found a place much farther away / The first bee found a place farther away / Both found places the same distance away / The second bee is older  
-   **Answer:** The second bee found a place much farther away. *Why:* A longer waggle run means a longer distance. For one common kind of honeybee, about one second means roughly a kilometre.
+   **Answer:** The second bee found a place much farther away. *Why:* A longer waggle run means a longer distance. In some honeybees, about one second has meant roughly a kilometre, though it differs between kinds.
 8. (mcq) What must happen before a honeybee swarm leaves its resting place and flies to a new home?  
    Options: About fifteen scouts gather at the same new home / The queen points to a home / The oldest bee leads the way / All the scouts agree at once  
    **Answer:** About fifteen scouts gather at the same new home. *Why:* This number is the quorum. When about fifteen scouts are at one place, they signal back, and the swarm flies. The scouts do not all have to agree at the start, and the queen takes no part in choosing.
@@ -731,7 +731,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 ## Open questions
 - **Why do the workers in some societies give up having their own young?** The British biologist William Hamilton and later scientists have given different answers. Biologists are still arguing about which ideas fit best.
 - **Why are so many ants in a nest standing still?** Several ideas fit what scientists see, such as a reserve force or taking turns to rest. Nobody has shown which is true for most kinds of ants.
-- **Why has eusocial life appeared only about twenty times, when animals have lived on Earth for hundreds of millions of years?** Scientists think it needs a safe nest and a way to stay together, but they do not agree on the first steps.
+- **Why has eusocial life appeared only a few dozen times at most, when animals have lived on Earth for hundreds of millions of years?** Scientists think it needs a safe nest and a way to stay together, but they do not agree on the first steps.
 - **Do Indian honeybees choose a swarm's new home in the same way as the honeybees that Seeley studied?** Most of the careful studies of swarms were done on one species in the United States. Studies of Indian and other Asian honeybees are fewer.
 - **How do thousands of termites build a mound that moves air through tunnels, when no termite has a plan of the whole?** Scientists have models of how simple rules can build tunnels. They have not shown how the real termites do it.
 
@@ -818,6 +818,7 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 - Galton, F., 'Vox populi', Nature 75, 1907 (the middle guess of 787 people on the weight of an ox)
 - Lorenz, J. and others, 'How social influence can undermine the wisdom of crowd effect', PNAS 108, 2011
 - Gadagkar, R., The Social Biology of Ropalidia marginata, Harvard University Press, 2001
+- Gadagkar and others (2022), Journal of Biosciences, review of queen succession in Ropalidia marginata; Charbonneau and Dornhaus (2015) on inactive workers; Smith (1776), Wealth of Nations, Book 1 chapter 1
 - Smith, A., An Inquiry into the Nature and Causes of the Wealth of Nations, 1776, Book 1, chapter 1 (the pin factory)
 - Wheeler, W. M., 'The ant-colony as an organism', Journal of Morphology 22, 1911
 - Crane, E., The World History of Beekeeping and Honey Hunting, Duckworth, 1999

@@ -3,7 +3,7 @@
 
 **Summary.** A house mouse lives about two years and an Asian elephant about sixty, yet most mammals get roughly the same number of heartbeats in a whole life. Your child lays out animal lives on a string, plays a dice game of many young against few, and sorts mammals, birds, insects and amphibians by how they begin, grow and have young of their own. They learn why some babies are born ready and some helpless, why many insects change their whole body shape, and how scientists work out the age of a shark or a clam. They also learn why a pattern like 'big animals live long' needs its exceptions checked.
 
-**Intro.** *An adult mayfly lives for about a day. A giant tortoise can live for more than a hundred years. A hen lives for about eight. They all began as an egg. Why do lives that start the same end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
+**Intro.** *A grown mayfly may live for only a day. A giant tortoise can live for more than a hundred years. A hen lives for about eight. They all began as an egg. Why do lives that start the same end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
 
 ## Learning outcomes
 0. I can compare how mammals, birds, insects and amphibians begin life, grow up and have young of their own.
@@ -94,7 +94,7 @@ A frog lays hundreds or thousands of eggs and gives no care. An elephant has one
 ### How long do animals live? · *defined*
 **Definition:** Lifespan is how long an animal lives. Scientists give an average lifespan, which is the typical age at death, and a maximum lifespan, which is the oldest age ever recorded. A wild animal usually dies much younger than the maximum, from hunger, disease or predators.
 
-Lifespans run from hours to centuries. An adult mayfly lives about a day, but its nymph lived in water for a year or more. A honeybee worker lives about six weeks in summer, while the queen can live several years. A house mouse lives about two years, a dog about twelve and a person about 70 to 80. A giant tortoise can pass 100 years, and a tortoise named Jonathan on the island of St Helena is thought to have hatched around 1832. A bowhead whale has been found to live more than 200 years. A Greenland shark may live for 300 years or more. An ocean quahog, a clam, was found to be 507 years old. How do we know? Some animals keep records in their bodies. Shell rings, ear bones, the lens of the eye and growing layers are all counted. Treat any age claim with care, because without a record the age is only an estimate.
+Lifespans run from hours to centuries. A grown mayfly may live only about a day, but its nymph lived in water for a year or more. A honeybee worker lives about six weeks in summer, while the queen can live several years. A house mouse lives about two years, a dog about twelve and a person about 70 to 80. A giant tortoise can pass 100 years, and a tortoise named Jonathan on the island of St Helena is thought to have hatched around 1832. A bowhead whale has been found to live more than 200 years. A Greenland shark has been estimated to live at least 270 years. An ocean quahog, a clam, was found to be 507 years old. How do we know? Some animals keep records in their bodies. Shell rings, ear bones, the lens of the eye and growing layers are all counted. Treat any age claim with care, because without a record the age is only an estimate.
 - e.g. Mayfly (adult): about one day.
 - e.g. Honeybee worker: about six weeks in summer.
 - e.g. Giant tortoise: more than 100 years.
@@ -120,7 +120,7 @@ A mouse's heart beats about 600 times a minute and an elephant's about 30. In a 
 **Definition:** In some reptiles, the temperature of the nest decides whether the eggs become males or females. This is called temperature-dependent sex determination.
 
 In sea turtles, warmer sand makes more females and cooler sand makes more males. In the olive ridley turtle, a nest at around 29 to 30 degrees Celsius gives a mix, warmer sand gives mostly females and cooler sand gives mostly males. A turtle nest is dug about 45 centimetres deep. About 100 eggs are laid, and the young hatch after roughly 45 to 60 days. Crocodiles also have temperature-dependent sex, and mugger crocodile mothers in India guard their nests. Because the sex depends on the sand, a hotter beach can produce mostly females. People who protect nests at beaches in Tamil Nadu and Odisha move eggs to shaded hatcheries and keep an eye on the sand temperature.
-- e.g. Olive ridley turtles nest on the beaches of Odisha and Tamil Nadu from about December to March.
+- e.g. Olive ridley turtles nest on the beaches of Odisha and Tamil Nadu from about November to March.
 - e.g. Hatchlings come out at night and head for the brighter horizon, which is usually the sea.
 - e.g. Street lights and torches can lead hatchlings the wrong way.
 - e.g. Mugger crocodile mothers guard the nest and help the hatchlings reach the water.
@@ -174,7 +174,7 @@ We have compared the lives of mammals, birds, insects and amphibians. Now we ask
 
 Every life cycle is a circle that starts as a single cell and ends as the next cell. The egg of a frog, the egg of a hen and the cell inside a mother elephant are all alive before anyone hatches or is born. Nothing in the chain starts from nothing. The same living stuff goes round and round through many bodies, which are fast or slow, small or large. What looks like many separate lives of different lengths is one long line of living, passing through many bodies at many speeds.
 
-- **Zhuangzi, chapter 1 (Free and Easy Wandering):** The Chinese teacher Zhuangzi wrote that a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring. (A mayfly adult, a mouse and a tortoise each live inside a different length of time, as the mushroom and the tree do.)
+- **Zhuangzi, chapter 1 (Free and Easy Wandering):** The Chinese teacher Zhuangzi wrote, as paraphrased here, that a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring. (A mayfly adult, a mouse and a tortoise each live inside a different length of time, as the mushroom and the tree do.)
 - **Bhagavad Gita 2.27:** The Gita says that for one who is born, death is certain, and for one who dies, birth is certain. Birth and death follow each other round and round. (In a life cycle, every ending is also a beginning. A hen's egg is the end of one hen's work and the start of another.)
 - Science (settled): All animals alive today share ancestors, and each one came from an unbroken line of living parents. No animal has ever been seen to start from non-living matter.
 - Science (idea): Across many mammals, a whole life holds roughly a billion heartbeats. Humans, bats and many birds are far above it, so scientists still debate why.
@@ -766,4 +766,5 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - Schmidt, J., 'The breeding places of the eel', Philosophical Transactions of the Royal Society B 211, 1922
 - Redi, F., Esperienze intorno alla generazione degl'insetti, 1668
 - Zhuangzi, chapter 1, 'Free and Easy Wandering'
-- Bhagavad Gita 2.27
+- Bhagavad Gita 2.27 (meaning only, as paraphrased)
+- Wikipedia pages on the olive ridley turtle (29 to 30 degrees gives mixed sex, nest about 0.46 m deep, 45 to 51 days usual), Greenland shark (at least 272 years), Jonathan the tortoise (hatched about 1832), ocean quahog (507 years), purple frog (2003), bowhead whale (over 200 years), Amboseli (Moss since 1972), European eel (mating in the wild not yet observed), Indian oil sardine (mature at about 1 year, lives about 2.5 years)

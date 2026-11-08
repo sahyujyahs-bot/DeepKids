@@ -98,7 +98,7 @@
   {
    "term": "Particle",
    "meaning": "A tiny piece of matter, much too small to see. Air is made of particles that fly about in every direction.",
-   "example": "A single breath holds more air particles than there are grains of sand on every beach on Earth.",
+   "example": "A single breath holds far more air particles than the usual estimate of the grains of sand on every beach on Earth.",
    "art": "Many small coloured balls flying in all directions inside a box, with arrows showing them hitting the walls."
   },
   {
@@ -231,7 +231,7 @@
     },
     {
      "who": "The chain explanation, supported by some physicists who tested siphons at low pressure",
-     "explanation": "Water in the tube is a chain held together by the sticking of its particles to each other. The longer, heavier side of the chain falls down and pulls the rest after it. Siphons have been made to run at much lower pressure, which suggests that air pressure is not what drives them."
+     "explanation": "Water in the tube is a chain held together by the sticking of its particles to each other. The longer, heavier side of the chain falls down and pulls the rest after it. Some experiments report siphons running at much lower pressure, which suggests that air pressure is not what drives them. Others, such as Richert and Binder in 2011, tested this and found that pressure still matters."
     }
    ]
   }
@@ -239,7 +239,7 @@
  "agreed": [
   {
    "text": "Air has weight and pushes on everything it touches, from every direction.",
-   "evidence": "Torricelli's mercury tube in 1643 and thousands of barometers since then show that the air's push holds up a column of mercury about 76 centimetres tall."
+   "evidence": "Torricelli's mercury tube, tried around 1643, and thousands of barometers since then show that the air's push holds up a column of mercury about 76 centimetres tall."
   },
   {
    "text": "At sea level, air pushes with about 1 kilogram of weight on each square centimetre.",
@@ -382,7 +382,7 @@
   "teachings": [
    {
     "source": "Rig Veda 10.168, the hymn to Vata, the wind",
-    "teaching": "The hymn says that the sound of the wind is heard but its form is not seen, and it calls the wind the breath of the gods.",
+    "teaching": "The hymn says that the sound of the wind is heard but its form is not seen, and it calls the wind the self, or breath, of the gods (verse 4, as paraphrased).",
     "link": "We cannot see air, but we know it by what it does. It holds a card on a glass of water and lifts a drink up a straw."
    },
    {
@@ -2745,13 +2745,16 @@
    "Rig Veda 10.168 (the hymn to Vata)",
    "Heraclitus, fragment B51 (Diels and Kranz numbering)",
    "World Meteorological Organization and standard atmosphere tables, for pressure at altitude",
-   "Ayrton, H., 1915, the anti-gas fan (see Evelyn Sharp, Hertha Ayrton: a memoir, 1926)"
+   "Ayrton, H., 1915, the anti-gas fan (see Evelyn Sharp, Hertha Ayrton: a memoir, 1926)",
+   "Torricelli experiment date: historians differ between 1643 and 1644 (Institute and Museum of the History of Science, Florence), so the unit says about 1643",
+   "Ayrton fan: Science Museum Group and Imperial War Museum (idea of May 1915)",
+   "Yancey and others, PNAS 111, 2014: the deepest-fish depth of about 8,200 m is an extrapolation"
   ]
  },
  "how_we_found_out": {
-  "story": "About 2,300 years ago, the Greek thinker Aristotle taught that nature hates an empty space, so water has to follow a pump's piston to keep any gap from opening. People believed this for almost 2,000 years. Then, in the 1600s, well-makers in Italy found that their pumps would not lift water higher than about ten metres, and no one could say why. In 1643, Evangelista Torricelli guessed that the weight of the air was holding the water up. His helper, Vincenzo Viviani, filled a glass tube about a metre long with mercury, a liquid metal 13.6 times heavier than water, and turned it over in a dish. The mercury sank to about 76 centimetres and stopped, leaving a space at the top. In 1648, Blaise Pascal's brother-in-law, Florin Périer, carried the tube up the Puy de Dôme, a mountain in France. The mercury stood lower, the higher he went.",
+  "story": "About 2,300 years ago, the Greek thinker Aristotle taught that nature hates an empty space, so water has to follow a pump's piston to keep any gap from opening. People believed this for almost 2,000 years. Then, in the 1600s, well-makers in Italy found that their pumps would not lift water higher than about ten metres, and no one could say why. Around 1643, Evangelista Torricelli guessed that the weight of the air was holding the water up. His helper, Vincenzo Viviani, filled a glass tube about a metre long with mercury, a liquid metal 13.6 times heavier than water, and turned it over in a dish. The mercury sank to about 76 centimetres and stopped, leaving a space at the top. In 1648, Blaise Pascal's brother-in-law, Florin Périer, carried the tube up the Puy de Dôme, a mountain in France. The mercury stood lower, the higher he went.",
   "who": "Evangelista Torricelli and Vincenzo Viviani in Italy, and Blaise Pascal and Florin Périer in France",
-  "when": "1643 and 1648",
+  "when": "About 1643, and 1648",
   "wrong_idea": "Aristotle's idea that nature hates a vacuum and so fills every gap. The pump limit of about ten metres, Torricelli's empty space at the top of the tube, and the lower mercury on the mountain showed that the weight of air does the pushing, and that it pushes less with height."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Card on the Glass: fill the glass to the very top and slide the card on with no bubble. A paper card gets soggy after a minute, so a plastic card or a laminated sheet is better. Bottle with a Hole: a hole about as wide as a matchstick, 4 centimetres from the bottom, is best. With a big hole the water keeps dribbling even with the cap on, and a very thin bottle may squash a little and let a bit more out. The steps say what to do. Squashing Bottle: the water must be hot but not boiling, or the bottle itself shrinks. Control bottle C shows this. Bottle A should squash within about 30 seconds, but a thick bottle may only dent, and the steps say to use a thin one. Suction Hook: small hooks hold about 1 to 3 kilograms, and the calculation shows the most that a perfect cup could hold, so the numbers do not match on purpose. Jar Barometer: the movement is a few millimetres, and heat moves it too, so keep it out of the sun. The siphon challenge works best with a clear tube that is completely full of water. The videos have no address yet. Facts to verify before the unit goes live: the Galileo pump limit of about 18 braccia, the Périer date of 19 September 1648, the Hertha Ayrton fan date of 1915, the claim that a breath holds more air particles than there are grains of sand on all the beaches, the Hughes and Richert and Binder papers on siphons, the Rig Veda 10.168 wording, and the boiling temperature of about 93 degrees at 2,000 metres."
