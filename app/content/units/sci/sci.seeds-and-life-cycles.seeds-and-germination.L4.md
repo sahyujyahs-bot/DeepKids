@@ -810,8 +810,8 @@ After that year, Bhanwar Chacha always held back a third of the seed for a secon
    **Answer:** False. *Why:* False. A bigger sample gives a steadier guess but not a perfect one. A test of 400 seeds is very good, though a different 400 seeds might give a slightly different number.
 
 ## Videos
-- **Seed germination time-lapse: a bean or mustard seed coming up through soil** (to be found, 3 min) id `to find`: To watch the root come out first and the shoot climb up, filmed over several days. Notice how some seeds start before others. *Check:* Not yet found. Find one filmed from the side of a clear container, watch it all, and check it is accurate before adding it.
-- **How a seed bank stores seeds dry and cold** (to be found, 4 min) id `to find`: To see how seeds are dried, labelled and frozen so they stay alive for decades. *Check:* Not yet found. Find one made by a seed bank or a botanic garden, watch it, and check it is accurate before adding it.
+- **Bean Time-Lapse - 25 days | Soil cross section** (GPhase, 3 min) id `w77zPAtVTuI`: To watch the root come out first and the shoot climb up, filmed over several days. Notice how some seeds start before others. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Svalbard Global Seed Vault** (UN Climate Change Adaptation Division, 4 min) id `kha98-MK_6I`: To see how seeds are dried, labelled and frozen so they stay alive for decades. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Why seedlings grown in the dark are long and pale** (to be found, 3 min) id `to find`: To see a time-lapse of a seedling stretching in the dark and turning green when light arrives. *Check:* Not yet found. Find one that shows seedlings in the dark and then in the light, watch it, and check it is accurate before adding it.
 
 ## Quiz

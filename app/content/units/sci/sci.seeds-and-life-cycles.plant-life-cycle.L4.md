@@ -797,8 +797,8 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 
 ## Videos
 - **Fruit ripening in a bag: a time-lapse with a ripe banana** (to be found, 3 min) id `to find`: To watch hard fruit soften and change colour over several days, and to see how a ripe fruit changes its neighbours. *Check:* Not yet found. Find one with a clear time-lapse of fruit ripening, watch it all, and check it explains ethylene correctly before adding it.
-- **The life cycle of a fern: spores and the tiny heart-shaped plant** (to be found, 4 min) id `to find`: To see a fern's spores, the tiny heart-shaped plant and the new fern, filmed under a microscope or in time-lapse. *Check:* Not yet found. Find one made by a botanic garden or a university, watch it, and check it is accurate before adding it.
-- **How tree rings record the years and the weather** (to be found, 4 min) id `to find`: To see a cut tree trunk, count its rings and learn how scientists read wet and dry years from their widths. *Check:* Not yet found. Find one that shows a real cut trunk and explains cross-dating, watch it, and check it is accurate before adding it.
+- **Fern Life Cycles** (Next Generation Science, 4 min) id `4QfSj9l_pT4`: To see a fern's spores, the tiny heart-shaped plant and the new fern, filmed under a microscope or in time-lapse. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Dendrochronology and Climate** (ChangingClimates, 4 min) id `oRYsAn5QLYo`: To see a cut tree trunk, count its rings and learn how scientists read wet and dry years from their widths. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these best explains why a ripe banana in a bag makes a raw mango ripen sooner?  
