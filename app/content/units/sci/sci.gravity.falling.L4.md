@@ -241,8 +241,8 @@ She squeezed the lime, and smelled it, and smiled.
 ### e1 · Liner Stacks: does a heavier stack fall faster in air? (35 min)
 - **question:** Four paper cupcake liners fit inside each other as one stack. Does a stack of four liners fall faster than one single liner, or do they land together?
 - **predict:** Before you start, guess. Will the stack of four land first, last or together with the single liner? Why do you think so?
-- **fair test:** Every liner is the same. Every drop starts from the same height, marked with tape on the wall. Every liner is held with its opening facing up and is let go, not thrown. Only the number of liners changes. Each stack is dropped three times, because one drop can be a fluke, and a drop where the liner tumbles over is repeated.
-- **safety:** The grown-up drops the liners while standing on the floor. Nobody stands on a chair or a stool. Keep the small liners away from very young children, who might put them in their mouths. A grown-up does any cutting with scissors if you make newspaper cones.
+- **fair test:** Every liner is the same. Every drop starts from the same height, marked with tape on the wall. Every liner is held with its opening facing up and is let go, not thrown. Only the number of liners changes. Each stack is dropped three times, because one drop can be a fluke, and a drop where the liner tumbles over is repeated. A phone stopwatch started by hand is off by about 0.2 to 0.3 seconds, so only a gap bigger than that is real.
+- **safety:** The grown-up drops the liners while standing on the floor. Nobody stands on a chair or a stool. Keep the small liners away from very young children, who might put them in their mouths. A grown-up does any cutting with scissors if you make newspaper cones. Keep the area under the drop clear of toys and wet floor.
 - **record:** For each stack, write the three times and the middle time. Then draw a bar chart with one bar for each stack, using the middle time.
 - **results table:** Number of liners | Drop 1 (seconds) | Drop 2 (seconds) | Drop 3 (seconds) | Middle time (seconds)
 - **s1 (5 min)**  
@@ -262,13 +262,13 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent says:* Ready, steady, go. Let go of both together. Which one landed first? By a lot or by a little?  
   *Child mode:* Hold one liner and a stack of four at the mark. Let go together. Which lands first?
   - Ask: Did the same one land first every time? (good: Yes, the stack landed first each time.; Yes, and the single liner wobbled more.; Mostly, but one drop was a wobble.)
-  - Note: A liner that tumbles over is a wobble. Call it a wobble and repeat that drop. The stack of four should land first by a clear gap. If the single liner wins, check that the stack is pressed together and that the openings face up.
+  - Note: A liner that tumbles over is a wobble. Call it a wobble and repeat that drop. The stack of four should land first by a clear gap. If the single liner wins, check that the stack is pressed together and that the openings face up. If they land together, your liners are small and stiff: use a stack of eight against a single one, or use bigger liners or newspaper cones. If nothing differs even then, say so honestly: that is a result too, and the air matters less for small, stiff things. With two or more children, each guesses before every race and keeps a tally of who guessed right.
   - Check: The stack of four landed first. In the Drop Race, a heavy bottle and a light bottle landed together. What is different with the liners? → **The liners are wide and light, so the air pushes on them a lot**
 - **s4 (12 min)**  
   *Parent does:* Drop one liner from the mark. The helper starts the phone stopwatch as it is let go and stops it when it touches the floor. Write the time. Do this three times. Then do the same for stacks of two, three and four liners.  
   *Parent says:* Start the stopwatch when I let go. Stop it when the liner touches the floor. Write down the time.  
   *Child mode:* Drop the liners. Time each fall. Write the time in the table.
-  - Note: The times are rough, because a stopwatch is started a fraction of a second late. That is why each stack is dropped three times, and we use the middle time. Roughly, one liner takes 1.5 to 2 seconds and a stack of four takes about 1 second. Yours may differ. A wobble does not count.
+  - Note: The times are rough, because a stopwatch is started a fraction of a second late. That is why each stack is dropped three times, and we use the middle time. Typically, one liner takes about 1.2 to 2 seconds and a stack of four takes about 0.8 to 1.2 seconds from 2 metres. Yours may differ, and the times for stacks of two and three may sit close together. Trust the side-by-side race in step 3 most, and the middle times second. A wobble does not count.
   - Check: Three drops of a stack took 1.6, 1.9 and 1.7 seconds. Which is the middle time? → **1.7 seconds**
 - **s5 (5 min)**  
   *Parent does:* Draw a bar for each stack, using the middle times. Then ask your child to say what they thought, what they saw and why.  
@@ -279,10 +279,10 @@ She squeezed the lime, and smelled it, and smiled.
 ### e2 · The Walking Drop: where does a ball land if you drop it while walking? (25 min)
 - **question:** If you let go of a ball while you walk, where does it land: behind the spot below your hand, right under it, or ahead of it? Does it matter how fast you walk?
 - **predict:** Before you start, guess. Will the ball land behind the mark, under it, or ahead of it? Will walking faster change where it lands? Why do you think so?
-- **fair test:** The ball, the drop height and the mark stay the same every time. You let go as your hand passes the mark and you do not throw. Only your walking speed changes. You do three drops at each pace, because one drop can be a fluke, and the helper marks the first place the ball touches the floor.
+- **fair test:** The ball, the drop height and the mark stay the same every time. You let go as your hand passes the mark and you do not throw. Only your walking speed changes. A helper times each walk along the 3 metre line, so each pace has a real speed: slow is about 6 seconds, easy about 3 seconds, brisk about 2 seconds. You do three drops at each pace, because one drop can be a fluke, and the helper marks the first place the ball touches the floor.
 - **safety:** Walk, never run. Wear shoes on a dry floor. Clear toys and mats from the path. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, wash hands after, and wipe up crumbs so nobody slips.
 - **record:** Write the distance from the mark to the landing note for each drop. For each pace, write the middle of the three distances.
-- **results table:** Pace | Drop 1 (cm ahead of the mark) | Drop 2 (cm ahead) | Drop 3 (cm ahead) | Middle distance (cm)
+- **results table:** Pace (seconds to walk 3 m) | Drop 1 (cm ahead of the mark) | Drop 2 (cm ahead) | Drop 3 (cm ahead) | Middle distance (cm)
 - **s1 (4 min)**  
   *Parent does:* Show the dough ball and the drop mark. Ask your child to draw three dots on paper. They show where the ball may land: behind, under or ahead of the mark. Ask her to say why.  
   *Parent says:* You will walk past the mark and let go of the ball as your hand passes it. Where will it land? Behind the mark, under it or ahead of it? Why?  
@@ -299,14 +299,14 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent does:* Walk along the tape line at a slow pace. Let go of the ball as your hand passes the mark. The helper puts a note at the first place the ball touches. Do this three times. Then do three drops at an easy pace and three at a brisk pace. Do not run.  
   *Parent says:* Slow pace first. Let go as your hand passes the mark. Helper, mark the first touch.  
   *Child mode:* Walk past the mark. Let go as your hand passes it. Slow, then easy, then brisk.
-  - Note: Open the hand to let go. Do not throw or flick. Dough does not bounce, so the first touch is easy to see. If one drop lands far from the other two, repeat it. Most odd drops come from letting go too early or too late.
+  - Note: Open the hand to let go. Do not throw or flick. Dough does not bounce, so the first touch is easy to see. If one drop lands far from the other two, repeat it. Most odd drops come from letting go too early or too late; a little scatter of 10 centimetres is normal. Time each walk along the 3 metre line and write the seconds next to the pace. Write each landing on its numbered note and leave the notes on the floor until all nine drops are done. If the ball rolls or squashes unclearly, make it firmer or use a clay ball.
   - Check: Meera's ball landed 50 centimetres ahead of the mark when she walked at an easy pace. About where will it land if she walks twice as fast? → **About 100 centimetres ahead**
 - **s4 (3 min)**  
   *Parent does:* Measure each landing from the mark and write it in the table. Find the middle of the three for each pace. Ask your child what pattern she sees.  
   *Parent says:* Look at the three middle numbers. What happens to the landing spot when you walk faster?  
   *Child mode:* Look at your numbers. What happens when you walk faster?
   - Ask: Did the ball ever land behind the mark? (good: No, it always landed ahead.; No, it kept moving forward with me.; Only when I let go too late.)
-  - Note: Expect about 20 to 30 centimetres for a slow pace, about 50 for an easy pace and 70 to 90 for a brisk pace. Your numbers may be different. What matters is that faster walking gave a longer distance.
+  - Note: Typically you will see about 20 to 30 centimetres for a slow pace, about 50 for an easy pace and 70 to 90 for a brisk pace. Your numbers will differ with the size of the child and the pace. A child's speed in metres a second is 3 divided by the seconds; the landing distance should be about half of it in metres. What matters is that faster walking gave a longer distance.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then return the dough and tidy the notes.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -314,45 +314,45 @@ She squeezed the lime, and smelled it, and smiled.
   - Note: Listen first. Then say: the ball was moving forward with your hand before you let go. Letting go took away the hold of your hand, but not the forward speed. The fall from shoulder height takes about half a second whatever your pace. So the ball lands about half your walking speed, in metres, ahead of the mark.
   - Think: If you could walk twice as fast, where would the ball land?
 ### e3 · Dents in Dough: does a faster hit dig deeper? (30 min)
-- **question:** A marble is dropped into soft dough from 10, 20 and 40 centimetres. How much deeper is the dent from the higher drops? Is it twice as deep, or more?
-- **predict:** Before you start, guess. Which height will dig the deepest dent? Will the dent from 40 centimetres be 2 times as deep as the one from 20 centimetres, or more? Why do you think so?
-- **fair test:** The marble, the dough and the way you let go stay the same. Each drop lands on a fresh patch of smooth dough. Only the drop height changes. Each height is tried three times, because one drop can be a fluke.
-- **safety:** Keep the marble away from children under five, who might put it in their mouths. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, and wash hands after. Toothpicks are sharp: a grown-up helps, push gently with the point down, and throw them away afterwards.
+- **question:** A marble is dropped into soft dough from 10, 20 and 40 centimetres. Does a higher drop dig a deeper dent, and by how much: about the same, twice as deep, or four times as deep?
+- **predict:** Before you start, guess. Which height will dig the deepest dent? Will the dent from 40 centimetres be about the same as the 10 centimetre dent, 2 times as deep, or 4 times as deep? Why do you think so?
+- **fair test:** The marble, the dough and the way you let go stay the same. Each drop lands on a fresh patch of smooth dough. Only the drop height changes. Each height is tried three times, because one drop can be a fluke. With 2 to 4 children, a different child drops each of the three tries.
+- **safety:** Keep the marble away from children under five, who might put it in their mouths. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, and wash hands after. Toothpicks are sharp: a grown-up helps, push gently with the point down, and throw them away afterwards. In hot weather, cover the dough with a damp cloth between rounds so it does not dry out.
 - **record:** Write the depth of each dent in millimetres. For each height, write the middle of the three depths. Then draw a bar chart with one bar for each height.
 - **results table:** Drop height (cm) | Dent 1 depth (mm) | Dent 2 depth (mm) | Dent 3 depth (mm) | Middle depth (mm)
 - **s1 (4 min)**  
   *Parent does:* Show the marble and explain that it will be dropped from 10, 20 and 40 centimetres. Ask your child to guess which dent will be deepest and how much deeper the dent from 40 centimetres will be. Ask for a reason.  
   *Parent says:* We drop a marble into soft dough from three heights. Which dent will be deepest? How much deeper will the 40 centimetre dent be than the 20 centimetre dent? Why?  
   *Child mode:* A marble drops into dough from three heights. Which dent is deepest? Why?
-  - Ask: Will the dent from twice the height be twice as deep? (good: Yes, twice as deep.; No, it will be even deeper.; It will be about the same.)
+  - Ask: Will a drop from 4 times the height make a dent 4 times as deep? (good: Yes, 4 times as deep.; No, about twice as deep.; It will be about the same.)
   - Note: Do not correct the guess. Write it at the top of the table.
 - **s2 (6 min)**  
-  *Parent does:* Mix 2 cups of atta with water until the dough is as soft as an earlobe. Press it flat in the tray, about 3 centimetres thick. Smooth the top with the back of a spoon. Tape a ruler upright beside the tray.  
+  *Parent does:* Mix about 5 cups of atta with water until the dough is as soft as an earlobe. Press it into a pad about 18 centimetres square and 2.5 centimetres thick in the tray. Smooth the top with the back of a spoon. Tape a ruler upright beside the tray.  
   *Parent says:* The dough must be soft, so the marble leaves a dent. We smooth it flat every time we start.  
   *Child mode:* Make soft dough. Press it flat in the tray. Smooth the top.
-  - Note: If the marble bounces away, the dough is too stiff. Add a spoon of water and knead again. If the marble sinks in completely, add some dry atta.
+  - Note: If the marble bounces away, the dough is too stiff. Add a spoon of water and knead again. If the marble sinks in completely, add some dry atta. In damp weather the dough turns sticky: knead in dry atta. A good dough gives a dent of about 3 to 10 millimetres from 10 to 40 centimetres; if the 10 centimetre dent is under 2 millimetres, make the dough softer.
   - Check: Why do we drop each marble on a fresh, smooth patch of dough? → **So every drop meets the same kind of surface**
 - **s3 (11 min)**  
-  *Parent does:* Hold the marble with its bottom at the 10 centimetre mark. Let go. Do not push it. Leave the marble in its dent. Do this three times on three fresh patches, at least 8 centimetres apart. Then do three drops from 20 centimetres and three from 40 centimetres. Smooth the dough between rounds.  
+  *Parent does:* Hold the marble with its bottom at the 10 centimetre mark. Let go. Do not push it. Leave the marble in its dent. Do this three times on three fresh patches, about 6 centimetres apart in a 3 by 3 grid. Then do three drops from 20 centimetres and three from 40 centimetres. Do not smooth the dough until all nine dents are measured.  
   *Parent says:* Hold the marble at the mark. Let go. Do not push it. Leave it in its dent.  
   *Child mode:* Drop the marble from 10, 20 and 40 centimetres. Do three drops from each height.
-  - Note: Keep the marble from rolling by letting go with a gentle opening of the fingers. Use the whole tray, a new patch each time. If the tray is full, smooth it flat again.
+  - Note: Keep the marble from rolling by letting go with a gentle opening of the fingers. Use the whole tray, a new patch each time. If you run out of fresh patches, measure what you have, then smooth the dough flat and carry on.
 - **s4 (6 min)**  
   *Parent does:* Lift out each marble. Lay the ruler across the dent. Push a toothpick down to the bottom of the dent. Pinch it at the edge of the ruler, lift it out and measure it. Write the depth in millimetres. Find the middle of the three for each height.  
   *Parent says:* Lay the ruler across the dent. Push the toothpick to the bottom. Pinch it at the ruler. Then measure it.  
   *Child mode:* Measure how deep each dent is with a toothpick. Write it down.
-  - Note: The numbers will be small, a few millimetres, so measure carefully. A dent from 40 centimetres is usually clearly deeper than one from 10 centimetres.
+  - Note: The numbers will be small, a few millimetres, so measure carefully. A dent from 40 centimetres is usually clearly deeper than one from 10 centimetres, but dough is soft and springy, so measure to the nearest millimetre and expect a 1 millimetre error. If a dent is hard to read, measure its width across with the ruler too.
   - Check: You push a toothpick to the bottom of a dent, with a ruler lying across the top. Where do you pinch the toothpick? → **At the edge of the ruler**
 - **s5 (3 min)**  
   *Parent does:* Draw a bar for each height, using the middle depths. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Draw a bar for each height. Say what you thought, what you saw and why.
-  - Note: Listen first. Then say: a marble dropped from 4 times the height lands with twice the speed. In the 1720s, a scientist named Willem 's Gravesande dropped balls into clay, and found that twice the speed made a dent about 4 times as deep. Emilie du Chatelet used this to argue that the strength of a hit grows with speed times speed. Dough is softer and springs back a little, so your numbers will be less tidy. Look for the trend.
+  - Note: Listen first. Then say: a marble dropped from 4 times the height lands with twice the speed. In the 1720s, a scientist named Willem 's Gravesande dropped balls into clay, and found that twice the speed made a dent about 4 times as deep. Emilie du Chatelet used this to argue that the strength of a hit grows with speed times speed. Dough is softer and springs back, so in your tray the 40 centimetre dent will probably be about 1.5 to 4 times the 10 centimetre one, not exactly 4. That is normal: real soft things do not follow the neat rule. The sure result is that a faster hit digs deeper. Look for the trend.
   - Think: Why does a car going fast need so much more room to stop?
 
 ## Activities
 ### a1 · Toss on the Move: does a tossed ball come back to your hand? (15 min)
-- **record:** Write down what happened for each pace: did the ball land in front of your hand, behind it, or in it?
+- **record:** Make a tally for each pace (standing, easy, faster): out of 5 tosses, how many came back to the hand, how many landed in front, how many behind. Compare the three rows.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to toss the ball straight up a little above her head while standing still, and to catch it. Then ask her what will happen if she walks and tosses the ball straight up.  
   *Parent says:* You will walk and toss the ball straight up. Will it land in front of you, behind you or in your hand? Why?  
@@ -364,7 +364,7 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent says:* Walk at an easy pace. Toss the ball straight up. Try to catch it. Do it five times.  
   *Child mode:* Walk. Toss the ball straight up. Catch it. Do this five times.
   - Ask: Did the ball ever land behind you? (good: No, it came back to my hand.; No, it moved forward with me.; Once, but I tossed it backward.)
-  - Note: She must toss straight up, not forward. If the ball goes forward, call it a bad toss and repeat it.
+  - Note: Count only good tosses. She must toss straight up, not forward. If the ball goes forward, call it a bad toss and repeat it.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Ask your child to walk a little faster and do five more tosses. If you are travelling by train or bus today, a grown-up sits next to her. On a smooth, straight stretch, she tosses a soft ball only 20 centimetres up from her seat.  
   *Parent says:* Walk a little faster this time. Toss and catch five times. Does the ball still come back to your hand?  
@@ -382,7 +382,7 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent does:* Set one cube on the table. This is the mouse. Count its weight, which is 1 cube. Count the faces on the outside, which is 6. Write both numbers.  
   *Parent says:* This one cube is a mouse. Its weight is 1 cube. How many faces are on the outside? Count them.  
   *Child mode:* One cube is the mouse. Count its outside faces. Write the numbers.
-  - Note: The word weight here means the number of cubes. A cube has 6 faces, all on the outside.
+  - Note: The word weight here means the number of cubes. A cube has 6 faces, all on the outside. Before counting, ask for a guess: if the cat has 8 times the weight, will she have 8 times the outside? Dice and small cubes are small parts: keep them from children under five, and do not eat cubes that have been played with.
 - **s2 (6 min)**  
   *Parent does:* Build a cube that is 2 cubes wide, 2 deep and 2 high from 8 cubes. This is the cat. The cat weighs 8 cubes. Count the faces on the outside. Each side of the big cube shows 4 faces, and it has 6 sides.  
   *Parent says:* The cat is twice as wide, twice as deep and twice as high. Count its weight in cubes. Then count the faces on the outside.  
@@ -398,7 +398,7 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent does:* Write the weight for each outside face for all three animals. Divide the weight by the number of faces. Ask your child what pattern she sees.  
   *Parent says:* Divide each weight by its number of faces. Which animal has the most weight for each bit of outside? What does that tell us about falling?  
   *Child mode:* Divide the weight by the faces. Which cube has the most weight for each outside face?
-  - Note: The numbers are about 0.17 for the mouse, 0.33 for the cat and 0.5 for the horse. The air can only push on the outside. A bigger animal has more weight for every bit of outside, so she must fall faster before the push of the air equals her weight. That is why her top speed is higher.
+  - Note: The numbers are about 0.17 for the mouse, 0.33 for the cat and 0.5 for the horse. The air can only push on the outside. A bigger animal has more weight for every bit of outside, so she must fall faster before the push of the air equals her weight. That is why her top speed is higher. Stretch: the numbers are the width divided by 6, so a cube 10 wide, an elephant, would have 1000 weight, 600 faces, and 1.67 each.
   - Think: Which animal would have to fall fastest before the air pushed back enough?
 ### a3 · Swings: does a heavy swing swing faster? (25 min)
 - **record:** A table with the string length, the number of washers, and the number of swings in 20 seconds.
@@ -412,13 +412,13 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent does:* Pull the washer a hand's width to one side and let go. Do not push it. Count the swings for 20 seconds with the phone stopwatch. Write the number. Then tie on two more washers and count again.  
   *Parent says:* Pull it to the side and let go. Count each swing out and back. Stop at 20 seconds.  
   *Child mode:* Let the washer swing. Count the swings for 20 seconds. Write the number.
-  - Note: For a string 50 centimetres long, expect about 14 swings in 20 seconds. Three washers give the same number, give or take one. A lost count of one or two is normal, so repeat if you are unsure.
+  - Note: Length means from the tape to the middle of the washers. Tie extra washers close together so the middle stays at the same length. For a string 50 centimetres long, typically you will count about 14 swings in 20 seconds. Three washers give the same number, give or take one. A lost count of one or two is normal, so repeat if you are unsure.
   - Check: One washer made 14 swings in 20 seconds, and three washers made 14 swings. What does this show? → **The weight of the swing did not change how fast it swings**
 - **s3 (8 min)**  
   *Parent does:* Go back to one washer. Make the string 25 centimetres long and count the swings in 20 seconds. Then make it 100 centimetres long and count again. Write both numbers.  
   *Parent says:* Now we change the length. A short string first, then a long one. Count the swings in 20 seconds.  
   *Child mode:* Try a short string and a long string. Count the swings in 20 seconds.
-  - Note: Expect about 20 swings for 25 centimetres, 14 for 50 and 10 for 100. Four times the length gives half the swings. If you get something close, that is the pattern.
+  - Note: Typically you will count about 20 swings for 25 centimetres, 14 for 50 and 10 for 100. Four times the length gives half the swings. If you get something close, that is the pattern.
 - **s4 (6 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -428,30 +428,30 @@ She squeezed the lime, and smelled it, and smiled.
 
 ## Projects
 ### p1 · Falling on Video: find how fast a ball speeds up (45 min)
-- **safety:** The grown-up holds and drops the ball while standing on the floor, from a mark they can reach. Nobody climbs on a chair or a stool.
+- **safety:** The grown-up holds and drops the ball while standing on the floor, from a mark they can reach. Nobody climbs on a chair or a stool. Keep the floor under the drop clear, and pick up the ball at once so nobody trips.
 - **record:** A table with the frame number, the time in seconds, the distance fallen in centimetres, and your answer for how much speed the ball gains each second.
 - **s1 (10 min)**  
   *Parent does:* Fix the tape measure upright on a plain wall with tape, from the floor to its top. Stick a small flag of tape every 20 centimetres. Stand the phone on books 2 metres from the wall. Put it at the height of the 1 metre mark, pointing straight at the tape.  
   *Parent says:* The tape measure lets us read where the ball is. The flags make it easy to see. The phone must point straight at the wall and stay still.  
   *Child mode:* Fix the tape on the wall. Put tape flags every 20 centimetres. Put the phone on books.
-  - Note: The top mark should be a height the grown-up can reach with a straight arm, about 1.8 to 2 metres. A plain wall behind the ball makes it easier to see in the video.
+  - Note: The top mark should be a height the grown-up can reach with a straight arm, about 1.8 to 2 metres. With 2 to 4 children: one drops, one runs the phone, one reads frames, one writes and uses the calculator; swap for the next clip. Stand the phone upright (portrait) so the whole tape fits in the picture. If you only have a 1.5 metre tape, use a top mark at 1.5 metres and use frames 5, 10, 15 only. A plain wall behind the ball makes it easier to see in the video.
 - **s2 (8 min)**  
   *Parent does:* Press record on the phone. The grown-up holds the ball against the wall at the top mark and lets go, so that it falls beside the tape. Stop recording. Do this three times and keep the clearest clip.  
   *Parent says:* Press record. Hold the ball at the top mark. Let go, with no push. Stop recording once it lands.  
   *Child mode:* Press record. Let the ball fall beside the tape. Do this three times.
-  - Note: Let go by opening the hand, so the ball does not get a push. If the ball swings sideways, repeat. Most phones film at 30 frames every second. Check your settings, because some film at 60.
+  - Note: Let go by opening the hand, so the ball does not get a push. If the ball swings sideways, repeat. Most phones film at 30 frames every second. Check your settings, because some film at 60: then use frames 10, 20, 30 and 36 and divide by 60. Drop the ball as close to the wall as you can, so it is the same distance from the camera as the tape. Use a bright room, so the ball is sharp.
   - Check: Why does the phone stay on a stack of books and not in someone's hand? → **So the tape and the wall do not move in the video**
 - **s3 (15 min)**  
   *Parent does:* Play the clearest clip one frame at a time. Find the frame where the ball first moves, and call it frame 0. Move on to frame 5, frame 10, frame 15 and frame 18. At each frame, read where the middle of the ball is on the tape. Write each reading.  
   *Parent says:* Find the frame where the ball first moves. Call it frame 0. Then step on five frames and read where the ball is.  
   *Child mode:* Step through the video one frame at a time. Write where the ball is at frame 5, 10, 15 and 18.
-  - Note: At 30 frames a second, 5 frames is one sixth of a second. If your phone cannot step one frame at a time, ask a grown-up to load the clip into the free VLC player on a computer. Then press E to move one frame on.
+  - Note: Frame 0 is the last frame where the ball is still at the top mark. Being one frame out changes your answer by about 1 metre a second every second, so check a second clip. At 30 frames a second, 5 frames is one sixth of a second. If your phone cannot step one frame at a time, ask a grown-up to load the clip into the free VLC player on a computer. Then press E to move one frame on.
 - **s4 (7 min)**  
-  *Parent does:* For each frame, work out the time in seconds by dividing the frame number by 30. Work out the distance fallen by taking the reading away from the top mark. Look for a pattern. Then try this for the last frame: double the distance, and divide by the time times the time.  
+  *Parent does:* For each frame, work out the time in seconds by dividing the frame number by 30. Work out the distance fallen by taking the reading away from the top mark. Look for a pattern. Then try this for the last frame: change the distance to metres, double it, and divide by the time times the time.  
   *Parent says:* Time is the frame number divided by 30. Distance fallen is the top mark take away the reading. What pattern do you see?  
   *Child mode:* Work out the time and the distance for each frame. Look for a pattern.
   - Ask: Did the ball fall the same distance in each set of five frames? (good: No, it fell farther each time.; No, the gaps got bigger.; It sped up.)
-  - Note: Expect about 14 centimetres at frame 5, 54 at frame 10, 122 at frame 15 and 176 at frame 18. The last frame gives 2 times 1.76 divided by 0.6 times 0.6, which is close to 9.8. You are doing well if you get a number between 8 and 12.
+  - Note: Typically you will see about 14 centimetres at frame 5, 54 at frame 10, 122 at frame 15 and 176 at frame 18, give or take 10 centimetres. The last frame gives 2 times 1.76 metres, divided by (0.6 times 0.6), which is close to 9.8. You are doing well if you get a number between 8 and 12.
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Look at your answer for how much speed the ball gains each second. Is it close to 10 metres a second every second?  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -467,15 +467,15 @@ She squeezed the lime, and smelled it, and smiled.
 - **general:** Roll the marble from three marks, 10, 20 and 30 centimetres up the ramp. Measure where it lands each time. Pick the mark whose landing is closest to the cup.; Draw a graph of the release mark against the landing distance, and read the answer for the cup from the graph.; Put a sticky note at each of the three landing spots, and then place the cup between two of them.
 - **creative:** Put more marks on the ramp, such as five, so you can aim at more places.; Cut a notch in a ruler to make a gate that lets the marble go from the same spot every time.; Stack two cups, one in front of the other, and aim for the nearer cup first.
 - **s1 (6 min)**  
-  *Parent does:* Fold the sheet of paper lengthways into a V channel. Lean the top of the channel on a stack of books so the ramp slopes down to the edge of the table. Stick tape across the ramp 10, 20 and 30 centimetres up from the table edge.  
+  *Parent does:* Make the V channel from the card or the grooved ruler. Lean the top of the channel on a stack of books so the ramp slopes down to the edge of the table. Stick tape across the ramp 10, 20 and 30 centimetres up from the table edge.  
   *Parent says:* The marble will roll down the ramp and fly off the table. We mark three places to let it go from. Which mark do you think will send it farthest?  
   *Child mode:* Build the ramp. Put tape marks at 10, 20 and 30 centimetres.
-  - Note: The last 5 centimetres of the ramp should be nearly flat, so the marble leaves in a straight line. Tape the ramp so it does not move between tries. Pick up marbles from the floor at once, because a marble underfoot can make someone slip, and keep them away from very young children.
+  - Note: The last 5 centimetres of the ramp should be nearly flat, so the marble leaves in a straight line. With 2 to 4 children: one builds, one lets the marble go, one watches the landing, one measures; the grown-up or another child places the cup. Tape the ramp so it does not move between tries. Pick up marbles from the floor at once, because a marble underfoot can make someone slip, and keep them away from very young children.
 - **s2 (12 min)**  
   *Parent does:* Let the marble go from the 10 centimetre mark. Put a sticky note where it first lands. Measure from the table's foot to the note. Do this three times and keep the middle distance. Then do the same for the 20 and 30 centimetre marks.  
   *Parent says:* Let the marble go from the first mark. Where does it land? Put a note there. Try it three times.  
   *Child mode:* Let the marble go from each mark. Put a note where it lands. Measure the distance.
-  - Note: Expect the landing to get farther as the mark gets higher, but not twice as far. A marble leaves the table faster from a higher mark. The fall to the floor takes the same time for all of them.
+  - Note: Dust a thin patch of the floor with flour where the marble lands: the first touch leaves a dot. Sweep up afterwards, because flour is slippery. Typically the marble lands about 20 to 50 centimetres from the table's foot. Expect the landing to get farther as the mark gets higher, but not twice as far. A marble leaves the table faster from a higher mark. The fall to the floor takes the same time for all of them.
 - **s3 (10 min)**  
   *Parent does:* Leave the room, or close your eyes. The grown-up puts the cup on the floor between the nearest and farthest landing spots. Look at the cup. Pick a mark, and let the marble go. You get three tries. Count the hits.  
   *Parent says:* Look at the cup. Which mark will you choose? Why? Let the marble go. How close was it?  
@@ -697,10 +697,10 @@ Gravity (sci.gravity.L4): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://en.wikipedia.org/wiki/Visvesvaraya_Industrial_and_Technological_Museum) · place · Bengaluru: A museum with working exhibits on forces, motion and energy. Check the opening times before you go.
 
 ## Things to buy
-- [A pack of paper cupcake liners, all the same size](https://www.amazon.in/s?k=paper+cupcake+liners) (material): For the Liner Stacks test. A pack of 100 from a bakery shop or a stationery shop costs very little. Used in e1. 
+- [A pack of paper cupcake liners, all the same size](https://www.amazon.in/s?k=paper+cupcake+liners) (material): For the Liner Stacks test. Paper cupcake or muffin liners from a bakery-supply or stationery shop; about Rs 30 to 60 for a pack of 100. Bigger ones work best. Used in e1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Walking Drop, if you prefer clay to atta dough. A small pack from a stationery shop is enough. Used in e2. 
-- [Glass shooter marbles or small steel balls, and a bright tennis ball](https://www.amazon.in/s?k=glass+marbles+shooter) (material): For the dents test, the video project and the marble challenge. A heavy marble makes clearer dents. Used in e3, p1, c1. 
-- [A box of sugar cubes or small wooden cubes](https://www.amazon.in/s?k=wooden+cubes+for+kids) (material): For Cube Animals. You need 27 cubes that are all the same size. Used in a2. 
+- [Glass shooter marbles or small steel balls, and a bright tennis ball](https://www.amazon.in/s?k=glass+marbles+shooter) (material): For the dents test, the video project and the marble challenge. A heavy shooter marble makes clearer dents; marbles cost a few rupees at a toy shop. The tennis ball is optional: a lime or any bright ball works. Used in e3, p1, c1. 
+- [A box of sugar cubes or small wooden cubes](https://www.amazon.in/s?k=wooden+cubes+for+kids) (material): For Cube Animals. You need 27 cubes that are all the same size. Sugar cubes (supermarkets, some kirana shops) are cheap; dice, building blocks or cubes cut from stiff dough work as well. Used in a2. 
 
 ## Warm-up
 - About how much speed does a falling thing gain each second, with no air? → About 10 metres a second.

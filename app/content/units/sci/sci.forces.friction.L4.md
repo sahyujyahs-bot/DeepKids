@@ -205,7 +205,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 - **Printable cards: 24 two-sided cards: two situations on the front, and the answer and reason on the back:** Which has more friction? A: a box with 1 kilogram in it. B: the same box with 3 kilograms in it. (back: B. More weight presses the surfaces together harder. Three times the load gives about three times the friction.); Which has more friction? A: a brick lying on its big face. B: the same brick standing on its narrow end. (back: Same. The weight is the same, so the pressing force is the same. A bigger face spreads the weight over more bumps, each pressed less.); Which has more friction? A: a school bag dragged along the floor. B: the same bag on its wheels. (back: A. Dragging means sliding. Rolling has much less friction.); Which needs the harder hold to keep a bottle from sliding? A: a thread round a pencil for half a turn. B: the same thread for three turns. (back: A. Every turn multiplies the grip. Three turns need a far lighter hold.); Which has more friction? A: a rubber chappal on a dry floor. B: the same chappal on a wet, soapy floor. (back: A. Soap and water form a slippery layer that lowers the grip.); Which needs the bigger push? A: a heavy cupboard just before it moves. B: the same cupboard sliding steadily. (back: A. Starting friction is usually a bit bigger than sliding friction.); Which has more friction on the falling ball? A: a steel ball falling in water. B: the same ball falling in honey. (back: B. Honey is much more viscous than water, so it drags the ball more.); Which has more friction? A: a dry, unoiled cycle chain. B: the same chain with a drop of oil. (back: A. Oil keeps the metal parts apart, so the friction is lower.); Which has more friction? A: a tyre on a dry road. B: the same tyre on ice. (back: A. Ice has a very low mu. Rubber on dry road is about 0.8 and rubber on ice is much less.); Which has more friction? A: a cardboard box with 2 packets in it. B: the same box with 4 packets in it. (back: B. Double the load gives about double the friction.); Which needs the harder hold? A: a rope with 1 turn round a post. B: the same rope with 3 turns. (back: A. One turn grips far less than three turns, so the hold must be harder.); Which has more friction? A: a wheel hub with dry bearings. B: the same hub with greased bearings. (back: A. Grease lowers friction by keeping the surfaces apart.); Which grips better? A: a sock on a polished marble floor. B: a rubber sole on the same floor. (back: B. Rubber has a high mu on a dry floor. A sock slides.); Which has more friction? A: a skateboard rolling on its wheels. B: the same board dragged upside down. (back: B. Dragging is sliding. Rolling has less friction.); Which has more friction? A: a block pressed on a table by a hand. B: the same block with a hand lifting it a little with a string. (back: A. Lifting reduces the pressing force, so the friction is smaller in B.); Which has more friction? A: a box on a carpet. B: the same box on a smooth tile. (back: A. Carpet has a higher mu. The box gets dragged against the soft fibres.); Which grips better? A: a violin bow with rosin. B: the same bow without rosin. (back: A. Rosin makes the bow stick to the string, so it can pull the string and let go again and again.); Which grips better? A: sandpaper on wood. B: smooth notebook paper on wood. (back: A. Sandpaper is rough and covered in hard grains.); Which is bigger? A: your gentle push on a cupboard that does not move. B: the friction force on the cupboard. (back: Same. The cupboard stays still because friction pushes back as hard as you push. Friction rises as you push, up to a limit.); Which grips better? A: a ladder's feet on a rubber mat. B: the same ladder's feet on a polished floor. (back: A. A rubber mat has a higher mu than a polished floor.); Which grips a jar lid better? A: a wet hand. B: a dry cloth wrapped round the lid. (back: B. The dry cloth has a higher mu. A wet hand is slippery.); Which has more friction force? A: pulling a box 1 metre. B: pulling the same box 4 metres. (back: Same. The friction force stays the same. The longer pull does more work and makes more heat, but the force is not bigger.); Which has more friction? A: a foot on a dry rock. B: a foot on a mossy, wet rock. (back: A. Wet moss forms a slippery layer between the foot and the rock.); Which has more friction? A: a tyre on a dry road. B: the same tyre on a road with oil on it. (back: A. Oil forms a slippery layer between the tyre and the road.)
 - **Printable tokens: 12 tokens: four that say A, four that say B and four that say Same:** A; A; A; A; B; B; B; B; Same; Same; Same; Same
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one A, one B and one Same token.  
+  *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one A, one B and one Same token. No printer? Write each card by hand on paper slips, with the answer on the back.  
   *Parent says:* Each card compares two situations. You decide which has more friction, or whether they are the same. Cut out the cards and the tokens, and make a pile.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards into a pile.
 - **s2 (5 min)**  
@@ -241,21 +241,21 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent does:* Draw two dots 4 centimetres apart on the flat band. Loop the band round the end of the box. Tape the lid shut. Put the box on the floor.  
   *Parent says:* Mark two dots on the band, 4 centimetres apart. When the band stretches, the dots move apart. The gap tells us how hard we pull.  
   *Child mode:* Draw two dots on the band, 4 cm apart. Loop the band round the box.
-  - Note: A wide band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.
+  - Note: A broad, flat band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.
   - Check: Why do we mark two dots on the band? → **The gap between the dots shows how hard we pull**
 - **s3 (15 min)**  
   *Parent does:* Start with the empty box. Pull the band level and very slowly. A helper reads the gap just before the box moves. Do this three times. Then repeat with 1, 2 and 3 packets.  
   *Parent says:* Pull as slowly as a snail. The helper watches the dots and calls out the biggest gap just before the box starts to slide. Write it down. Do three pulls for each load.  
   *Child mode:* Pull the band slowly and level. Read the gap just before the box moves. Do it three times for each load.
   - Ask: What do you see in the numbers as you add packets? (good: The stretch gets bigger each time.; Each packet adds about the same extra stretch.; The stretch roughly doubles when the packets double.)
-  - Note: Pull level with the floor, not upwards. Stick-slip can make the box jump. This is normal. Read the biggest gap just before the first jump. If you are alone, take a phone video and pause it. Do not worry if the numbers are not perfect. A rubber band is not an exact gauge. Look for the pattern: each packet adds about the same extra stretch.
+  - Note: Pull level with the floor, not upwards. Stick-slip can make the box jump. This is normal. Read the biggest gap just before the first jump. If you are alone, take a phone video and pause it. Do not worry if the numbers are not perfect. A rubber band is not an exact gauge. Look for the pattern: each packet adds about the same extra stretch. Who does what: one child pulls, one reads the dots, one writes. With two children, swap jobs after each load. With one child and a parent, the parent reads. Alone, film the dots with a phone and pause the video. For a bigger group, give each pair its own box. Typical readings: the empty box stretches the band by almost nothing, and three packets may stretch it several centimetres. These are typical, not promised. If the box will not move even when the band is stretched a lot, use a smoother floor or less load. If the band stretches very little, use a thinner band.
   - Check: One packet needs a stretch of 4 cm. Two packets need 8 cm. What would you expect for three packets? → **About 12 cm**
 - **s4 (8 min)**  
   *Parent does:* Put two packets in the box. Pull it on its big face, three times. Then stand the box on its narrow end, tape the lid, and pull it three times.  
   *Parent says:* Now keep two packets in the box. First pull it lying flat. Then stand it on its narrow end and pull again. Which one needs the bigger pull?  
   *Child mode:* Two packets in the box. Pull it flat three times. Then pull it on its end three times.
   - Ask: Which face needed the bigger pull? Were you surprised? (good: They were nearly the same.; The big face was a little bigger.; I thought the big face would be much bigger.)
-  - Note: For a cardboard box, the two results are usually within about 10 per cent of each other. Differences of one or two millimetres are noise. If one face has a rougher cardboard surface, the result can differ, so tape a piece of smooth paper under both faces if you can.
+  - Note: For a cardboard box, the two results are usually within about 10 per cent of each other. Differences of one or two millimetres are noise. If one face has a rougher cardboard surface, the result can differ, so tape a piece of smooth paper under both faces if you can. Fix the band low on the box, near the floor, in both positions. A band that pulls high up on the tall narrow end tips the box and spoils the test. In damp weather cardboard bottoms get rougher, so do both faces on the same day.
 - **s5 (4 min)**  
   *Parent does:* Draw a line graph. Put the packets along the bottom and the stretch up the side. Ask your child to say their claim, their evidence and their reason.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -266,7 +266,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 - **question:** A bottle of water hangs from a thread that goes round a pencil. How many paper clips must hang from the other end to hold the bottle, after half a turn, one turn, two turns and three turns?
 - **predict:** Before you start, guess how many clips will be needed after one turn. Then guess whether each extra turn will take away the same number of clips, or the same share. Say why you think so.
 - **fair test:** The same bottle, the same thread, the same pencil and the same bag are used every time. Only the number of turns changes. Add or take away clips one at a time and decide when the bottle just holds. Do each test twice.
-- **safety:** Never use kite thread coated with glass powder, called manja, because it cuts skin. Put a cushion on the floor under the bottle, so it cannot land on a foot. Hold the thread with your fingertips and never wind it round your fingers.
+- **safety:** Never use kite thread coated with glass powder, called manja, because it cuts skin. Put a cushion on the floor under the bottle, so it cannot land on a foot. Hold the thread with your fingertips and never wind it round your fingers. Paper clips and coins are small parts, so keep them away from children under five.
 - **record:** Write the clips needed for each number of turns. Look at the numbers, and find how many times fewer clips each turn needs. Then write your claim, your evidence and your reason.
 - **results table:** Turns round the pencil | Clips needed: try 1 | Clips needed: try 2 | Typical number of clips
 - **s1 (5 min)**  
@@ -286,25 +286,25 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent says:* Hold the bottle. Add clips to the bag, ten at a time at first. Let go gently. If the bottle slides, add more. When it holds, take clips out one by one. Count the clips that only just hold.  
   *Child mode:* Add clips until the bottle stays. Then take them out one at a time. Count.
   - Ask: How many clips did half a turn need? How many did one full turn need? (good: Half a turn needed many more clips.; One full turn needed far fewer clips.; The numbers dropped a lot.)
-  - Note: Half a turn needs the most clips, often 60 to 100. One turn often needs about 25 to 40. Add clips in tens at the start to save time. Always let go slowly. A sudden let-go can make the bottle drop faster than it should. Numbers vary with the thread and the pencil, and any numbers are fine. The pattern matters, not the exact count.
+  - Note: Half a turn needs the most clips. Typical counts are somewhere between 40 and 100, and one turn often needs about 10 to 40, but your thread, pencil and bottle will give different numbers, and any numbers are fine. The pattern matters: each extra turn needs far fewer clips. Count 'holds' as: the bottle does not creep when you tap the table gently. Add clips in tens at the start to save time. Always let go slowly. Who does what: one child steadies the bottle and lets go, one adds clips, one writes. Alone, do all three jobs in turn. In a group, give each pair a setup of their own and compare numbers.
 - **s4 (10 min)**  
   *Parent does:* Wind two full turns round the pencil. Find how many clips just hold the bottle. Then wind three full turns and find the number again. Try each twice.  
   *Parent says:* Now two turns. Add clips until the bottle holds. Take them away one by one. Then three turns. Try each of them twice.  
   *Child mode:* Now try two turns, then three turns. Count the clips each time.
   - Ask: What happened to the number of clips as you added turns? (good: It dropped very quickly.; At three turns, the empty bag nearly held the bottle.; Each turn needed much fewer clips than the one before.)
-  - Note: Two turns usually need only a few clips, and three turns often need none, so the bag alone holds the bottle. Write 0 if the empty bag holds it. If it slips even with many clips, the thread or the pencil is too slippery. Try a rougher string.
+  - Note: Two turns usually need only a few clips, and two or three turns often need none, so the empty bag alone holds the bottle. Write 0 if the empty bag holds it. If the numbers fall to 0 already at one turn, your thread is very grippy. Use smoother thread or a smaller bottle, or compare half a turn with a quarter turn and one turn. If the bottle slips even with many clips, the thread or pencil is too slippery. Try a rougher string.
   - Check: One turn needs 30 clips. Two turns need 5 clips. About how many clips would three turns need? → **About 1**
 - **s5 (5 min)**  
   *Parent does:* Write the clip numbers in the table. Divide the number for one turn by the number for two turns, then two turns by three turns. Ask for claim, evidence and reason.  
   *Parent says:* Look at the numbers. How many times fewer clips did two turns need than one turn? Tell me what you thought, what you saw and why.  
   *Child mode:* Divide the clips for one turn by the clips for two turns. Say what you found.
-  - Note: Wait for the child's own reason first. Then you can say: every part of the thread that touches the pencil adds friction, and every turn multiplies the grip by about the same number. For smooth thread on a pencil, one turn often makes the hold about six times easier. Two turns make it about six times six, which is thirty-six, and three turns make it about two hundred and sixteen times easier. This is why a boat can be held with a light hand.
+  - Note: Wait for the child's own reason first. Then you can say: every part of the thread that touches the pencil adds friction, and every turn multiplies the grip by about the same number. For thread on a pencil, one turn often makes the hold roughly 4 to 10 times easier. Take six as an example. Then two turns make it about six times six, which is thirty-six, and three turns make it about two hundred and sixteen times easier. Your own numbers will differ, and a real thread will not match the sum exactly. This is why a boat can be held with a light hand.
   - Think: If one turn makes the hold about six times easier, how many times easier is three turns?
 
 ## Activities
 ### a1 · The Walking Ruler: two fingers that take turns (15 min)
 - **safety:** Keep the ruler low over a table, so that it cannot fall on a foot.
-- **record:** Draw the ruler and mark where your fingers met each time. Write which finger slid first.
+- **record:** Draw the ruler and mark where your fingers met each time. Write which finger slid first. Measure from the 0 end, in centimetres, where the fingers met without the clay and with the clay. Then balance the ruler on one finger and measure its balance point, and compare it with where the fingers met.
 - **s1 (4 min)**  
   *Parent does:* Rest the ruler flat on your two index fingers, near its ends. Ask your child where the fingers will meet when they slide together. Ask why.  
   *Parent says:* Hold the ruler on two fingers, far apart. Slide your fingers slowly together. Where do you think they will meet? Why do you think so?  
@@ -321,10 +321,11 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent says:* Now stick clay on one end. Where will your fingers meet this time? Why? Try it and see.  
   *Child mode:* Stick clay on one end. Guess where you will meet. Then try.
   - Ask: Where did the fingers meet this time? (good: Closer to the clay.; At the new balance point, nearer the heavy end.)
-  - Note: The fingers meet at the new balance point, nearer the heavy end. The finger near the heavy end carries more weight, so it presses harder, and its friction is larger. The lighter finger slides until they meet. This is the same rule as in the Press Harder test: more pressing force, more friction.
+  - Note: The fingers meet at the new balance point, nearer the heavy end. The finger near the heavy end carries more weight, so it presses harder, and its friction is larger. The lighter finger slides until they meet. This is the same rule as in the Press Harder test: more pressing force, more friction. To test it: balance the loaded ruler on one finger or a pencil edge, mark the balance point, and see that the two fingers meet there. If hands are sweaty or damp, wipe them dry first, because a wet finger changes the grip. For 2 or more children, one slides the fingers and one marks the meeting point, then swap. A longer stick, such as a broom handle, makes the effect easier to see.
   - Check: Why does the finger near the clay slide less? → **It carries more weight, so it presses harder and has more friction**
 ### a2 · Rollers and Marbles: sliding against rolling (20 min)
-- **record:** Write the dot gap for sliding, for rolling on pencils and for rolling on marbles. Write which was the easiest to pull.
+- **safety:** Marbles are small parts and a choking risk for children under five, so keep them away from younger brothers and sisters, and count them back into a bowl. Roll things on the floor only, and keep fingers clear of the pencils when the box moves.
+- **record:** Write the dot gap and the stretch (gap minus 4) for sliding, for rolling on pencils and for rolling on marbles. Write how many times smaller the pencil stretch was than the sliding stretch. Write which was the easiest to pull.
 - **s1 (5 min)**  
   *Parent does:* Show your child the box, the pencils and the marbles. Ask which way will be easiest to pull the box, and why. Write down the guess.  
   *Parent says:* We will pull the same box three ways. First sliding. Then on pencils. Then on marbles. Which way do you think will be easiest? Why do you think so?  
@@ -340,10 +341,10 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent says:* Put the box on the pencils and pull. As the box rolls forward, move the free pencil to the front. Read the gap while it rolls.  
   *Child mode:* Put the box on three pencils. Pull it. Read the gap while it rolls.
   - Ask: How did the gap between the dots change? (good: It got much smaller.; The band barely stretched.; The box rolled with a tiny pull.)
-  - Note: Many families see a gap that is half or less of the sliding gap, and sometimes much less. Marbles, if you have them, go even lower. Rolling friction is smaller, but it is not zero. The box and the pencils squash a little as they roll.
+  - Note: Many families see a gap that is half or less of the sliding gap, and sometimes much less. Marbles, if you have them, go even lower. Rolling friction is smaller, but it is not zero. The box and the pencils squash a little as they roll. Who does what: one child pulls, one reads the dots, one moves the pencils. Alone, film the dots and move the pencils yourself between short pulls.
   - Check: Why is the pull smaller on pencils? → **The pencils roll, so nothing rubs and slides at the touching spot**
 ### a3 · The Slow Drop: friction inside liquids (25 min)
-- **safety:** Do the warm-water step only with a grown-up. Wipe up any oil at once, because it makes the floor slippery.
+- **safety:** Do the warm-water step only with a grown-up, using warm water that you can comfortably hold your hand in, not hot. Do not taste the liquids. Keep steel nuts away from young children. Wipe up any oil at once, because it makes the floor slippery.
 - **record:** Write the three times. Write which liquid had the most friction on the falling ball, and what warming the honey did.
 - **s1 (4 min)**  
   *Parent does:* Show the three glasses. Ask your child to rank them from fastest fall to slowest fall. Ask why.  
@@ -355,16 +356,16 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent says:* Hold the nut just above the top. Let go and start the timer. Stop it when the nut hits the bottom. Do each glass twice.  
   *Child mode:* Drop the nut. Time the fall. Do each liquid twice.
   - Ask: Which liquid was slowest? Which two were hardest to tell apart? (good: Honey was much slower.; Water and oil were close.; The nut took many seconds in the honey.)
-  - Note: Honey is clearly the slowest, often by 5 seconds or more. Water and oil often fall so quickly that a phone stopwatch cannot separate them. This is fine. Write down what you see. Wipe any spills, because oil and honey make the floor slippery.
-- **s3 (6 min) · grown-up needed**  
-  *Parent does:* A grown-up should do this step. Stand the honey glass in a bowl of warm tap water for five minutes. Test it again with the nut.  
-  *Parent says:* Warm the honey in a bowl of warm tap water for five minutes. Then drop the nut again. Is it faster or slower?  
+  - Note: Honey, shampoo or dishwash is clearly the slowest, often by several seconds (typically 3 to 15, depending on the nut and the thickness). Water and oil often fall so quickly that a phone stopwatch cannot separate them. If so, film the fall in slow-motion and count frames, or use a smaller, lighter ball such as a pea-sized bead. This is fine. Write down what you see. Who does what: one child drops the nut, one times, one writes. Alone, film the fall with a phone and time it afterwards. In a group, one child per glass. Wipe spills, because oil and honey make the floor slippery.
+- **s3 (10 min) · grown-up needed**  
+  *Parent does:* A grown-up should do this step. Stand the honey glass in a bowl of warm tap water for ten minutes, stirring the honey gently once or twice. Test it again with the nut.  
+  *Parent says:* Warm the honey in a bowl of warm tap water for ten minutes. Then drop the nut again. Is it faster or slower?  
   *Child mode:* Ask a grown-up to warm the honey. Drop the nut again.
   - Ask: What did warming do to the fall? (good: The nut fell faster.; The honey flowed more easily.)
-  - Note: Use warm tap water, not hot, so that no one is burned and the glass does not crack. The warm honey should be noticeably faster. Heat makes the molecules of the honey move faster, so they slide past each other more easily.
+  - Note: Use warm tap water, not hot, so that no one is burned and the glass does not crack. The warm honey should be noticeably faster. Heat makes the molecules of the honey move faster, so they slide past each other more easily. In a hot room, honey may already be thin, and warming will show less. Then cool a second glass in the fridge for an hour and compare cold with room temperature instead. The result is a typical one: the size of the change depends on your honey.
   - Check: Honey is warmed. What happens to its friction on a falling nut? → **It gets smaller, so the nut falls faster**
 ### a4 · Wrinkled Fingers: do they grip wet things better? (35 min)
-- **safety:** Use warm tap water, not hot. Wipe up all splashes so that nobody slips.
+- **safety:** Use warm tap water, not hot. Wipe up all splashes so that nobody slips. Marbles are small parts and a choking risk for children under five, so keep them away from younger children.
 - **record:** Write the times for the smooth hand and the wrinkled hand, in the order you tried them. Write what you think the wrinkles do.
 - **s1 (3 min)**  
   *Parent does:* Ask your child why fingers wrinkle in water. Ask whether wrinkled fingers will move wet marbles faster, slower or the same. Ask why.  
@@ -375,14 +376,14 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent does:* Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as drawing or reading, while you wait.  
   *Parent says:* Soak one hand for twenty minutes. Draw or read with the other hand while you wait.  
   *Child mode:* Soak one hand for 20 minutes. Draw while you wait.
-  - Note: If the fingers have not wrinkled after 20 minutes, add some warm water. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.
+  - Note: Wrinkling can take 5 to 30 minutes, depending on the person and the water. If the fingers have not wrinkled after 20 minutes, top up the bowl with warm water, because it cools. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.
   - Wait: Wait 20 minutes for the fingers to wrinkle.
 - **s3 (12 min)**  
-  *Parent does:* Pour the wet marbles into a bowl. Take 10 marbles, one at a time, from the bowl to the cup with the wrinkled hand. Time it. Then do the same with the smooth hand. Then swap the order and repeat.  
+  *Parent does:* Pour the wet marbles into a bowl. Take 10 marbles, one at a time, from the bowl to the cup with the wrinkled hand. Time it. Then do the same with the smooth hand. Then swap the order and repeat. Dip the smooth hand in water before its try, so both hands are wet.  
   *Parent says:* Move ten wet marbles into the cup, one at a time, using only a finger and thumb. Time yourself with the wrinkled hand and then the smooth hand. Then swap the order.  
   *Child mode:* Move ten wet marbles. Use a finger and thumb. Time each hand.
   - Ask: Which hand was faster? Was it the same both times you tried? (good: The wrinkled hand, a little.; They were nearly the same.; The second try was faster for both, because of practice.)
-  - Note: Results are often mixed, and this is why scientists still argue. A second try is usually faster because of practice, so swap the order and do the test twice. Dry the hands, and test dry marbles too. A scientific study found wrinkled fingers helped with wet objects but not dry ones. Other studies found no clear help.
+  - Note: Results are often mixed, and this is why scientists still argue. A second try is usually faster because of practice, so swap the order and do the test twice. Dry the hands, and test dry marbles too. A scientific study found wrinkled fingers helped with wet objects but not dry ones. Other studies found no clear help. Who does what: one child moves marbles, one times and counts, one writes. Alone, film the hand and the marbles and time from the video. For several children, each soaks one hand and all compare. Results from a home test are only a hint, since one child and a few tries cannot settle what scientists still argue about.
   - Check: Why do we swap the order of the hands for the second try? → **Practice would make the second try faster, whichever hand it was**
 
 ## Projects
@@ -391,8 +392,8 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 ### c1 · Lower the Load: hold a heavy bottle with one finger (40 min)
 - **problem:** Lower a 500 millilitre bottle of water from a table to the floor at a slow, steady speed, taking about 10 seconds. You may hold the thread with only one finger and thumb. Find a way of winding the thread that works with the fewest turns.
 - **your turn:** Sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?
-- **constraints:** Use only cotton thread or string, and things you can find in the kitchen or on your desk as posts, such as pencils, spoons and tumblers.; You may hold the loose end with one finger and thumb only. You may not wind it round your fingers.; The bottle must go down slowly and steadily, with no sudden drops.; Count the number of turns you use.
-- **general:** Wind the string round a single pencil, as in the Wrap the Thread test, with three or four turns.; Wind the string round a thicker post, such as a steel tumbler laid on its side.; Use a rough string to give more friction.
+- **constraints:** Use only cotton thread or string, and things you can find in the kitchen or on your desk as posts, such as pencils, spoons and tumblers.; You may hold the loose end with one finger and thumb only. You may not wind it round your fingers.; The bottle must go down slowly and steadily, with no sudden drops.; Count the number of turns you use.; Safety: fix the post so that it cannot roll. Never wind the string round your fingers, and keep feet clear of the bottle.
+- **general:** Wind the string round a single taped-down pencil, as in the Wrap the Thread test. Try one turn, then two. Three or four turns on a smooth pencil may lock the string so firmly that the bottle will not move.; Wind the string round a thicker post, such as a steel tumbler laid on its side and held in place with tape or a heavy book.; Use a rough string to give more friction.
 - **creative:** Weave the string over and under three pencils in a zigzag, like a shoelace, so each pencil adds its own grip.; Wind the string round the post in a figure-of-eight, which makes the string cross itself.; Tie one knot round a pencil as a brake, and open it a little at a time.
 - **s1 (6 min)**  
   *Parent does:* Read the problem together. Ask your child to sketch two or three different ways of winding the string.  
@@ -403,7 +404,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent does:* Build your first design. Put a cushion under the bottle. Hold the loose end and ease it gently. Count how many seconds the bottle takes to reach the floor.  
   *Parent says:* Build your first design. Hold the end gently. Ease it out. Count the seconds as the bottle goes down.  
   *Child mode:* Build your design. Ease the string out. Count the seconds.
-  - Note: Put the table in a place where nobody walks. Keep your child's feet clear of the bottle. If the bottle drops, it will bump the cushion and that is fine.
+  - Note: Put the table in a place where nobody walks. Keep your child's feet clear of the bottle. If the bottle drops, it will bump the cushion and that is fine. Who does what: one child lowers the bottle, one counts the seconds out loud. With one child alone, count aloud or use a phone stopwatch. In a group, each child builds a different design and the group compares times. Typical best designs use about one to two turns, and the number depends on your string and post, so your own number is the one that counts.
 - **s3 (15 min)**  
   *Parent does:* Change one thing, such as the number of turns, the post or the string. Test again. Write the number of turns and the seconds each time.  
   *Parent says:* Change just one thing and try again. Write down the number of turns and the time. Which design is best?  
@@ -649,9 +650,10 @@ Grip and Glide (sci.forces.L4): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits. Look for the ones about forces and machines.
 
 ## Things to buy
-- [Wide rubber bands, about 6 millimetres wide](https://www.amazon.in/s?k=wide+rubber+bands+stationery) (material): They make the gauge for the Press Harder test and the Rollers and Marbles activity. Stationery shops sell packets for a few rupees. Used in e1, a2. 
+- [Rubber bands, about 6 millimetres wide, 8 to 10 centimetres long](https://www.amazon.in/s?k=wide+rubber+bands+stationery) (material): They make the gauge for the Press Harder test and the Rollers and Marbles activity. Stationery shops sell packets for a few rupees. Used in e1, a2. 
 - [Plain cotton string or thread, a ball of 50 metres](https://www.amazon.in/s?k=cotton+string+ball) (material): For the Wrap the Thread test and the Lower the Load challenge. Do not buy kite thread coated with glass, called manja. Used in e2, c1. 
 - [A bag of glass marbles](https://www.amazon.in/s?k=glass+marbles+for+kids) (material): For the Rollers and Marbles activity, and as the things to move in the Wrinkled Fingers activity. Used in a2, a4. 
+- [A box of 100 paper clips](https://www.amazon.in/s?k=paper+clips+box) (material): They are the small weights counted in the Wrap the Thread test. A box costs a few rupees at a stationery shop. Used in e2. 
 
 ## Warm-up
 - What happens to friction if you double the weight on a box? → It about doubles.

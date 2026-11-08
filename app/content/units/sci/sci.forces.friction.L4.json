@@ -627,7 +627,7 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Cut out the 24 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one A, one B and one Same token.",
+          "do": "Cut out the 24 cards and the 12 tokens. Shuffle the cards and make a pile. Give each player one A, one B and one Same token. No printer? Write each card by hand on paper slips, with the answer on the back.",
           "say": "Each card compares two situations. You decide which has more friction, or whether they are the same. Cut out the cards and the tokens, and make a pile.",
           "kid": "Cut out the cards and tokens. Shuffle the cards into a pile.",
           "context": "In this step, you get the game ready."
@@ -693,11 +693,11 @@
           "qty": 1
         },
         {
-          "item": "3 identical packets of 500 grams each, such as sugar, dal or rice",
+          "item": "3 identical packets of about 500 grams each, such as sugar, dal or rice (or 3 equal bags of any grain)",
           "qty": 3
         },
         {
-          "item": "a wide rubber band, at least 10 centimetres long when lying flat, and a spare",
+          "item": "a sturdy rubber band, about 8 to 10 centimetres long when lying flat (the kind that ties a bundle of notes), and a spare; use two side by side if one is too stiff",
           "qty": 2
         },
         {
@@ -709,7 +709,7 @@
           "qty": 1
         },
         {
-          "item": "the results table, a pencil and a phone for a short video, if you are alone",
+          "item": "the results table, a pencil, and a phone for a short video if you are alone",
           "qty": 1
         }
       ],
@@ -764,7 +764,7 @@
           "do": "Draw two dots 4 centimetres apart on the flat band. Loop the band round the end of the box. Tape the lid shut. Put the box on the floor.",
           "say": "Mark two dots on the band, 4 centimetres apart. When the band stretches, the dots move apart. The gap tells us how hard we pull.",
           "kid": "Draw two dots on the band, 4 cm apart. Loop the band round the box.",
-          "parent": "A wide band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.",
+          "parent": "A broad, flat band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.",
           "check": {
             "t": "mcq",
             "q": "Why do we mark two dots on the band?",
@@ -794,7 +794,7 @@
               ]
             }
           ],
-          "parent": "Pull level with the floor, not upwards. Stick-slip can make the box jump. This is normal. Read the biggest gap just before the first jump. If you are alone, take a phone video and pause it. Do not worry if the numbers are not perfect. A rubber band is not an exact gauge. Look for the pattern: each packet adds about the same extra stretch.",
+          "parent": "Pull level with the floor, not upwards. Stick-slip can make the box jump. This is normal. Read the biggest gap just before the first jump. If you are alone, take a phone video and pause it. Do not worry if the numbers are not perfect. A rubber band is not an exact gauge. Look for the pattern: each packet adds about the same extra stretch. Who does what: one child pulls, one reads the dots, one writes. With two children, swap jobs after each load. With one child and a parent, the parent reads. Alone, film the dots with a phone and pause the video. For a bigger group, give each pair its own box. Typical readings: the empty box stretches the band by almost nothing, and three packets may stretch it several centimetres. These are typical, not promised. If the box will not move even when the band is stretched a lot, use a smoother floor or less load. If the band stretches very little, use a thinner band.",
           "check": {
             "t": "mcq",
             "q": "One packet needs a stretch of 4 cm. Two packets need 8 cm. What would you expect for three packets?",
@@ -824,7 +824,7 @@
               ]
             }
           ],
-          "parent": "For a cardboard box, the two results are usually within about 10 per cent of each other. Differences of one or two millimetres are noise. If one face has a rougher cardboard surface, the result can differ, so tape a piece of smooth paper under both faces if you can.",
+          "parent": "For a cardboard box, the two results are usually within about 10 per cent of each other. Differences of one or two millimetres are noise. If one face has a rougher cardboard surface, the result can differ, so tape a piece of smooth paper under both faces if you can. Fix the band low on the box, near the floor, in both positions. A band that pulls high up on the tall narrow end tips the box and spoils the test. In damp weather cardboard bottoms get rougher, so do both faces on the same day.",
           "context": "In this step, you test whether the face on the floor matters."
         },
         {
@@ -859,7 +859,7 @@
           "qty": 1
         },
         {
-          "item": "a long piece of plain cotton thread or string, about 1 metre",
+          "item": "a long piece of plain cotton thread or thin string, about 1 metre",
           "qty": 1
         },
         {
@@ -867,7 +867,7 @@
           "qty": 1
         },
         {
-          "item": "a very small plastic bag or paper cup, with about 150 paper clips",
+          "item": "a very small plastic bag or paper cup, and about 150 paper clips (a box of 100 costs a few rupees at a stationery shop; small coins also work, counted by number)",
           "qty": 150
         },
         {
@@ -879,7 +879,7 @@
           "qty": 1
         }
       ],
-      "safety": "Never use kite thread coated with glass powder, called manja, because it cuts skin. Put a cushion on the floor under the bottle, so it cannot land on a foot. Hold the thread with your fingertips and never wind it round your fingers.",
+      "safety": "Never use kite thread coated with glass powder, called manja, because it cuts skin. Put a cushion on the floor under the bottle, so it cannot land on a foot. Hold the thread with your fingertips and never wind it round your fingers. Paper clips and coins are small parts, so keep them away from children under five.",
       "record": "Write the clips needed for each number of turns. Look at the numbers, and find how many times fewer clips each turn needs. Then write your claim, your evidence and your reason.",
       "context": "In this experiment, you hang a bottle of water from a thread wound round a pencil, and find how few paper clips you need at the other end. The more turns, the fewer clips.",
       "setup": [
@@ -956,7 +956,7 @@
               ]
             }
           ],
-          "parent": "Half a turn needs the most clips, often 60 to 100. One turn often needs about 25 to 40. Add clips in tens at the start to save time. Always let go slowly. A sudden let-go can make the bottle drop faster than it should. Numbers vary with the thread and the pencil, and any numbers are fine. The pattern matters, not the exact count.",
+          "parent": "Half a turn needs the most clips. Typical counts are somewhere between 40 and 100, and one turn often needs about 10 to 40, but your thread, pencil and bottle will give different numbers, and any numbers are fine. The pattern matters: each extra turn needs far fewer clips. Count 'holds' as: the bottle does not creep when you tap the table gently. Add clips in tens at the start to save time. Always let go slowly. Who does what: one child steadies the bottle and lets go, one adds clips, one writes. Alone, do all three jobs in turn. In a group, give each pair a setup of their own and compare numbers.",
           "context": "In this step, you test half a turn and one turn."
         },
         {
@@ -975,7 +975,7 @@
               ]
             }
           ],
-          "parent": "Two turns usually need only a few clips, and three turns often need none, so the bag alone holds the bottle. Write 0 if the empty bag holds it. If it slips even with many clips, the thread or the pencil is too slippery. Try a rougher string.",
+          "parent": "Two turns usually need only a few clips, and two or three turns often need none, so the empty bag alone holds the bottle. Write 0 if the empty bag holds it. If the numbers fall to 0 already at one turn, your thread is very grippy. Use smoother thread or a smaller bottle, or compare half a turn with a quarter turn and one turn. If the bottle slips even with many clips, the thread or pencil is too slippery. Try a rougher string.",
           "check": {
             "t": "mcq",
             "q": "One turn needs 30 clips. Two turns need 5 clips. About how many clips would three turns need?",
@@ -995,7 +995,7 @@
           "do": "Write the clip numbers in the table. Divide the number for one turn by the number for two turns, then two turns by three turns. Ask for claim, evidence and reason.",
           "say": "Look at the numbers. How many times fewer clips did two turns need than one turn? Tell me what you thought, what you saw and why.",
           "kid": "Divide the clips for one turn by the clips for two turns. Say what you found.",
-          "parent": "Wait for the child's own reason first. Then you can say: every part of the thread that touches the pencil adds friction, and every turn multiplies the grip by about the same number. For smooth thread on a pencil, one turn often makes the hold about six times easier. Two turns make it about six times six, which is thirty-six, and three turns make it about two hundred and sixteen times easier. This is why a boat can be held with a light hand.",
+          "parent": "Wait for the child's own reason first. Then you can say: every part of the thread that touches the pencil adds friction, and every turn multiplies the grip by about the same number. For thread on a pencil, one turn often makes the hold roughly 4 to 10 times easier. Take six as an example. Then two turns make it about six times six, which is thirty-six, and three turns make it about two hundred and sixteen times easier. Your own numbers will differ, and a real thread will not match the sum exactly. This is why a boat can be held with a light hand.",
           "think": "If one turn makes the hold about six times easier, how many times easier is three turns?",
           "context": "In this step, you look for the pattern in the numbers and say what you found."
         }
@@ -1026,7 +1026,7 @@
           "what": "Guess where your fingers will meet. Slide them together. Add a weight and try again."
         }
       ],
-      "record": "Draw the ruler and mark where your fingers met each time. Write which finger slid first.",
+      "record": "Draw the ruler and mark where your fingers met each time. Write which finger slid first. Measure from the 0 end, in centimetres, where the fingers met without the clay and with the clay. Then balance the ruler on one finger and measure its balance point, and compare it with where the fingers met.",
       "context": "In this activity, you balance a ruler on two fingers and slide the fingers together. You see friction stick and slip, and you see how a heavier press makes more grip.",
       "setup": [
         {
@@ -1086,7 +1086,7 @@
               ]
             }
           ],
-          "parent": "The fingers meet at the new balance point, nearer the heavy end. The finger near the heavy end carries more weight, so it presses harder, and its friction is larger. The lighter finger slides until they meet. This is the same rule as in the Press Harder test: more pressing force, more friction.",
+          "parent": "The fingers meet at the new balance point, nearer the heavy end. The finger near the heavy end carries more weight, so it presses harder, and its friction is larger. The lighter finger slides until they meet. This is the same rule as in the Press Harder test: more pressing force, more friction. To test it: balance the loaded ruler on one finger or a pencil edge, mark the balance point, and see that the two fingers meet there. If hands are sweaty or damp, wipe them dry first, because a wet finger changes the grip. For 2 or more children, one slides the fingers and one marks the meeting point, then swap. A longer stick, such as a broom handle, makes the effect easier to see.",
           "check": {
             "t": "mcq",
             "q": "Why does the finger near the clay slide less?",
@@ -1117,7 +1117,7 @@
           "qty": 4
         },
         {
-          "item": "a tray or tiffin box lid, and about 15 marbles (if you have them)",
+          "item": "a shallow tray with a rim (a baking tray or tiffin lid), a stiff piece of cardboard or a thin board that fits inside it, and about 15 marbles (optional; a few rupees at a toy or kirana shop)",
           "qty": 1
         },
         {
@@ -1129,10 +1129,10 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Pull the box sliding, then on pencils, then on marbles. Compare the gaps between the dots."
+          "what": "Pull the box sliding, then on pencils, then on marbles. Work out the stretch (gap minus 4) for each and see how many times smaller rolling is."
         }
       ],
-      "record": "Write the dot gap for sliding, for rolling on pencils and for rolling on marbles. Write which was the easiest to pull.",
+      "record": "Write the dot gap and the stretch (gap minus 4) for sliding, for rolling on pencils and for rolling on marbles. Write how many times smaller the pencil stretch was than the sliding stretch. Write which was the easiest to pull.",
       "context": "In this activity, you pull the same box three ways and see how rolling changes the pull. It is a test of rolling friction.",
       "setup": [
         {
@@ -1144,8 +1144,8 @@
           "caption": "2. Put the box on three pencils. Pull again."
         },
         {
-          "art": "The box on a tray that sits on a layer of marbles.",
-          "caption": "3. If you have marbles, put the box on a tray over a layer of marbles. Pull again."
+          "art": "Marbles in a shallow tray with a rim, a stiff cardboard sheet laid on top of the marbles, and the box on the cardboard.",
+          "caption": "3. If you have marbles, spread them in a rimmed tray. Lay the cardboard on them, set the box on the cardboard, and pull the cardboard slowly."
         }
       ],
       "flow": [
@@ -1183,7 +1183,7 @@
               ]
             }
           ],
-          "parent": "Many families see a gap that is half or less of the sliding gap, and sometimes much less. Marbles, if you have them, go even lower. Rolling friction is smaller, but it is not zero. The box and the pencils squash a little as they roll.",
+          "parent": "Many families see a gap that is half or less of the sliding gap, and sometimes much less. Marbles, if you have them, go even lower. Rolling friction is smaller, but it is not zero. The box and the pencils squash a little as they roll. Who does what: one child pulls, one reads the dots, one moves the pencils. Alone, film the dots and move the pencils yourself between short pulls.",
           "check": {
             "t": "mcq",
             "q": "Why is the pull smaller on pencils?",
@@ -1197,7 +1197,8 @@
           },
           "context": "In this step, you measure the pull needed to roll the box on pencils."
         }
-      ]
+      ],
+      "safety": "Marbles are small parts and a choking risk for children under five, so keep them away from younger brothers and sisters, and count them back into a bowl. Roll things on the floor only, and keep fingers clear of the pencils when the box moves."
     },
     {
       "id": "a3",
@@ -1206,11 +1207,11 @@
       "days": 1,
       "materials": [
         {
-          "item": "3 tall, clear glasses or small bottles of the same size",
+          "item": "3 tall, clear glasses, jars or small bottles of the same size (clear plastic ones are safer for young children)",
           "qty": 3
         },
         {
-          "item": "water, cooking oil, and honey or any thick liquid such as shampoo or liquid soap",
+          "item": "water, cooking oil, and a thick liquid. A full glass of honey is costly, so shampoo or liquid dishwash is a cheap substitute. About 200 ml of each",
           "qty": 3
         },
         {
@@ -1222,12 +1223,12 @@
           "qty": 1
         }
       ],
-      "safety": "Do the warm-water step only with a grown-up. Wipe up any oil at once, because it makes the floor slippery.",
+      "safety": "Do the warm-water step only with a grown-up, using warm water that you can comfortably hold your hand in, not hot. Do not taste the liquids. Keep steel nuts away from young children. Wipe up any oil at once, because it makes the floor slippery.",
       "schedule": [
         {
           "day": 1,
           "mins": 25,
-          "what": "Guess. Drop the same ball into three liquids and time each fall. Warm the honey and try again."
+          "what": "Guess. Drop the same ball into three liquids and time each fall. Warm the honey (or cool it) and try again."
         }
       ],
       "record": "Write the three times. Write which liquid had the most friction on the falling ball, and what warming the honey did.",
@@ -1272,14 +1273,14 @@
               ]
             }
           ],
-          "parent": "Honey is clearly the slowest, often by 5 seconds or more. Water and oil often fall so quickly that a phone stopwatch cannot separate them. This is fine. Write down what you see. Wipe any spills, because oil and honey make the floor slippery.",
+          "parent": "Honey, shampoo or dishwash is clearly the slowest, often by several seconds (typically 3 to 15, depending on the nut and the thickness). Water and oil often fall so quickly that a phone stopwatch cannot separate them. If so, film the fall in slow-motion and count frames, or use a smaller, lighter ball such as a pea-sized bead. This is fine. Write down what you see. Who does what: one child drops the nut, one times, one writes. Alone, film the fall with a phone and time it afterwards. In a group, one child per glass. Wipe spills, because oil and honey make the floor slippery.",
           "context": "In this step, you time the same nut falling in each liquid."
         },
         {
           "id": "s3",
-          "mins": 6,
-          "do": "A grown-up should do this step. Stand the honey glass in a bowl of warm tap water for five minutes. Test it again with the nut.",
-          "say": "Warm the honey in a bowl of warm tap water for five minutes. Then drop the nut again. Is it faster or slower?",
+          "mins": 10,
+          "do": "A grown-up should do this step. Stand the honey glass in a bowl of warm tap water for ten minutes, stirring the honey gently once or twice. Test it again with the nut.",
+          "say": "Warm the honey in a bowl of warm tap water for ten minutes. Then drop the nut again. Is it faster or slower?",
           "kid": "Ask a grown-up to warm the honey. Drop the nut again.",
           "adult": true,
           "ask": [
@@ -1291,7 +1292,7 @@
               ]
             }
           ],
-          "parent": "Use warm tap water, not hot, so that no one is burned and the glass does not crack. The warm honey should be noticeably faster. Heat makes the molecules of the honey move faster, so they slide past each other more easily.",
+          "parent": "Use warm tap water, not hot, so that no one is burned and the glass does not crack. The warm honey should be noticeably faster. Heat makes the molecules of the honey move faster, so they slide past each other more easily. In a hot room, honey may already be thin, and warming will show less. Then cool a second glass in the fridge for an hour and compare cold with room temperature instead. The result is a typical one: the size of the change depends on your honey.",
           "check": {
             "t": "mcq",
             "q": "Honey is warmed. What happens to its friction on a falling nut?",
@@ -1318,7 +1319,7 @@
           "qty": 1
         },
         {
-          "item": "about 10 small, smooth things such as marbles or steel nuts, and a small cup",
+          "item": "about 10 small, smooth things such as marbles or steel nuts, and a small cup (marbles are a few rupees at a toy or kirana shop)",
           "qty": 1
         },
         {
@@ -1326,7 +1327,7 @@
           "qty": 1
         }
       ],
-      "safety": "Use warm tap water, not hot. Wipe up all splashes so that nobody slips.",
+      "safety": "Use warm tap water, not hot. Wipe up all splashes so that nobody slips. Marbles are small parts and a choking risk for children under five, so keep them away from younger children.",
       "schedule": [
         {
           "day": 1,
@@ -1366,14 +1367,14 @@
           "do": "Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as drawing or reading, while you wait.",
           "say": "Soak one hand for twenty minutes. Draw or read with the other hand while you wait.",
           "kid": "Soak one hand for 20 minutes. Draw while you wait.",
-          "parent": "If the fingers have not wrinkled after 20 minutes, add some warm water. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.",
+          "parent": "Wrinkling can take 5 to 30 minutes, depending on the person and the water. If the fingers have not wrinkled after 20 minutes, top up the bowl with warm water, because it cools. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.",
           "wait": "Wait 20 minutes for the fingers to wrinkle.",
           "context": "In this step, you wait until the fingers on one hand wrinkle."
         },
         {
           "id": "s3",
           "mins": 12,
-          "do": "Pour the wet marbles into a bowl. Take 10 marbles, one at a time, from the bowl to the cup with the wrinkled hand. Time it. Then do the same with the smooth hand. Then swap the order and repeat.",
+          "do": "Pour the wet marbles into a bowl. Take 10 marbles, one at a time, from the bowl to the cup with the wrinkled hand. Time it. Then do the same with the smooth hand. Then swap the order and repeat. Dip the smooth hand in water before its try, so both hands are wet.",
           "say": "Move ten wet marbles into the cup, one at a time, using only a finger and thumb. Time yourself with the wrinkled hand and then the smooth hand. Then swap the order.",
           "kid": "Move ten wet marbles. Use a finger and thumb. Time each hand.",
           "ask": [
@@ -1386,7 +1387,7 @@
               ]
             }
           ],
-          "parent": "Results are often mixed, and this is why scientists still argue. A second try is usually faster because of practice, so swap the order and do the test twice. Dry the hands, and test dry marbles too. A scientific study found wrinkled fingers helped with wet objects but not dry ones. Other studies found no clear help.",
+          "parent": "Results are often mixed, and this is why scientists still argue. A second try is usually faster because of practice, so swap the order and do the test twice. Dry the hands, and test dry marbles too. A scientific study found wrinkled fingers helped with wet objects but not dry ones. Other studies found no clear help. Who does what: one child moves marbles, one times and counts, one writes. Alone, film the hand and the marbles and time from the video. For several children, each soaks one hand and all compare. Results from a home test are only a hint, since one child and a few tries cannot settle what scientists still argue about.",
           "check": {
             "t": "mcq",
             "q": "Why do we swap the order of the hands for the second try?",
@@ -1414,18 +1415,20 @@
         "Use only cotton thread or string, and things you can find in the kitchen or on your desk as posts, such as pencils, spoons and tumblers.",
         "You may hold the loose end with one finger and thumb only. You may not wind it round your fingers.",
         "The bottle must go down slowly and steadily, with no sudden drops.",
-        "Count the number of turns you use."
+        "Count the number of turns you use.",
+        "Safety: fix the post so that it cannot roll. Never wind the string round your fingers, and keep feet clear of the bottle."
       ],
       "materials": [
         "a bottle of 500 millilitres full of water, with the cap on",
-        "about 1 metre of cotton string",
+        "about 1 metre of cotton string or thicker twine (thin sewing thread may snap or cut the fingers)",
         "pencils, spoons, tumblers or other posts",
+        "masking tape and a heavy book to fix the post to the table",
         "a cushion for the floor",
         "paper and a pencil"
       ],
       "general": [
-        "Wind the string round a single pencil, as in the Wrap the Thread test, with three or four turns.",
-        "Wind the string round a thicker post, such as a steel tumbler laid on its side.",
+        "Wind the string round a single taped-down pencil, as in the Wrap the Thread test. Try one turn, then two. Three or four turns on a smooth pencil may lock the string so firmly that the bottle will not move.",
+        "Wind the string round a thicker post, such as a steel tumbler laid on its side and held in place with tape or a heavy book.",
         "Use a rough string to give more friction."
       ],
       "creative": [
@@ -1474,7 +1477,7 @@
           "do": "Build your first design. Put a cushion under the bottle. Hold the loose end and ease it gently. Count how many seconds the bottle takes to reach the floor.",
           "say": "Build your first design. Hold the end gently. Ease it out. Count the seconds as the bottle goes down.",
           "kid": "Build your design. Ease the string out. Count the seconds.",
-          "parent": "Put the table in a place where nobody walks. Keep your child's feet clear of the bottle. If the bottle drops, it will bump the cushion and that is fine.",
+          "parent": "Put the table in a place where nobody walks. Keep your child's feet clear of the bottle. If the bottle drops, it will bump the cushion and that is fine. Who does what: one child lowers the bottle, one counts the seconds out loud. With one child alone, count aloud or use a phone stopwatch. In a group, each child builds a different design and the group compares times. Typical best designs use about one to two turns, and the number depends on your string and post, so your own number is the one that counts.",
           "context": "In this step, you build and test your first design."
         },
         {
@@ -2611,7 +2614,7 @@
   "buy": [
     {
       "id": "b-bands",
-      "item": "Wide rubber bands, about 6 millimetres wide",
+      "item": "Rubber bands, about 6 millimetres wide, 8 to 10 centimetres long",
       "kind": "material",
       "why": "They make the gauge for the Press Harder test and the Rollers and Marbles activity. Stationery shops sell packets for a few rupees.",
       "url": "https://www.amazon.in/s?k=wide+rubber+bands+stationery",
@@ -2640,6 +2643,16 @@
       "used_in": [
         "a2",
         "a4"
+      ]
+    },
+    {
+      "id": "b-clips",
+      "item": "A box of 100 paper clips",
+      "kind": "material",
+      "why": "They are the small weights counted in the Wrap the Thread test. A box costs a few rupees at a stationery shop.",
+      "url": "https://www.amazon.in/s?k=paper+clips+box",
+      "used_in": [
+        "e2"
       ]
     }
   ],

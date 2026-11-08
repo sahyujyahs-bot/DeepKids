@@ -544,7 +544,8 @@
           "do": "1. Cut out the labels and the cards. 2. Lay the 4 labels in a row. 3. Shuffle the cards and make a pile.",
           "say": "Each card shows something that may hold energy. You say what kind of store it is, and what lets the energy out. Lay out the four labels first.",
           "kid": "Each card shows a thing that may hold energy. Say what store it is. Say what lets the energy out.",
-          "context": "This is the first step of Store and Trigger. You set up the game."
+          "context": "This is the first step of Store and Trigger. You set up the game.",
+          "parent": "No printer or scissors? Copy each front on a slip of paper, or read the fronts from the screen while someone else holds the backs. With 2 to 4 players, take turns, and the others may help with a hint. This game is cards only: never light a match, diya or stove for it. A grown-up should do any cutting."
         },
         {
           "id": "s2",
@@ -692,7 +693,8 @@
           "do": "1. Cut out the cards. 2. Shuffle them into a pile. 3. Agree on 30 seconds for each card.",
           "say": "Each card shows something that uses energy. You trace its energy back to where it began. You have thirty seconds for each card.",
           "kid": "Each card uses energy. Trace it back to where it began. You have thirty seconds.",
-          "context": "This is the first step of Back to the Sun. You set up the game."
+          "context": "This is the first step of Back to the Sun. You set up the game.",
+          "parent": "You need something that shows 30 seconds, such as a phone timer or counting aloud. With 2 to 4 players, take turns, and the others may help with a missing link for half a point. A grown-up should do any cutting."
         },
         {
           "id": "s2",
@@ -743,11 +745,11 @@
       ],
       "materials": [
         {
-          "item": "2 pencils",
+          "item": "2 pencils (a new pencil is not needed; any stub with a point will do)",
           "qty": 2
         },
         {
-          "item": "2 lumps of clay or atta dough, each about the size of a lemon",
+          "item": "2 lumps of clay or atta dough, each about the size of a lemon, and a few strips of masking tape to stick them to the floor",
           "qty": 2
         },
         {
@@ -773,20 +775,20 @@
           "qty": 1
         }
       ],
-      "safety": "A rubber band can snap, so stand to the side of the band's line and never pull the soap back more than 6 centimetres. Stand each pencil with the pointed end in the clay and the flat end up.",
+      "safety": "A rubber band can snap, so stand to the side of the band's line and never pull the soap back more than 6 centimetres. Push each pencil with the pointed end deep into the clay and the flat end up, so nobody can fall on a point. Tape the clay lumps to the floor. Keep your face away from the band. A grown-up should be near, because pencils are sharp.",
       "record": "Write each slide in the table. Circle the middle one of the three for each pull-back. Then draw a bar for each pull-back, using the middle slide.",
       "context": "In this experiment, you pull a rubber band back by different amounts and measure how far it pushes a bar of soap. You find out how much more energy a longer pull-back stores.",
       "setup": [
         {
-          "art": "Two pencils standing in lumps of clay on a tiled floor, 10 centimetres apart, with a rubber band round both of them.",
-          "caption": "1. Stand two pencils in clay, 10 centimetres apart. Put the band round both."
+          "art": "Two pencils standing in lumps of clay taped to a tiled floor, 10 centimetres apart, with a rubber band round both of them low down, about 2 centimetres above the floor.",
+          "caption": "1. Stand two pencils in clay, 10 centimetres apart, and tape the clay to the floor. Put the band round both, low down."
         },
         {
           "art": "A ruler laid on the floor behind the band and a tape laid in front of it, both with their zero at the band, and a bar of soap touching the band.",
           "caption": "2. Lay a ruler behind the band and a tape in front. Put the soap against the band."
         },
         {
-          "art": "A child's hand sliding the soap straight back along the ruler until its front edge is at the 4 centimetre mark, with the band bent into a V.",
+          "art": "A child's hand sliding the soap straight back along the ruler until its front edge is at the 2 centimetre mark, with the band bent into a V.",
           "caption": "3. Slide the soap straight back to 2 centimetres. The band bends into a V."
         },
         {
@@ -811,16 +813,16 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guess and the reason at the top of the table. Use a smooth tile or cement floor, because a carpet will not work.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Write the guess and the reason at the top of the table. Use a smooth tile or cement floor, because a carpet will not work. With 2 to 4 children, give each child a job: one pulls and lets go, one reads the tape and calls the number, one writes. Swap jobs after each pull-back size. Every child writes their own guess first. With one child, you read the tape and write while your child pulls and lets go.",
           "context": "This is the first step of the Soap Slider. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 7,
-          "do": "1. Push the pointed end of each pencil into a lump of clay. 2. Stand the pencils on the floor, exactly 10 centimetres apart. 3. Loop the band round both pencils so it is straight and just snug. 4. Lay the ruler behind the band and the tape in front, with their zeros at the band.",
+          "do": "1. Push the pointed end of each pencil into a lump of clay and tape the clay to the floor. 2. Stand the pencils exactly 10 centimetres apart. 3. Loop the band round both pencils, low down, about 2 centimetres above the floor, so it is straight and just snug. 4. Lay the ruler behind the band and the tape in front, with their zeros at the band.",
           "say": "Stand the two pencils exactly 10 centimetres apart. Put the band round both. It should be straight, and only just snug. Lay the ruler behind the band, and the tape in front. Both start at zero on the band.",
           "kid": "Stand two pencils in clay, 10 centimetres apart. Put the band round them. Lay the ruler behind it and the tape in front.",
-          "parent": "Check the band. If it is loose and floppy, use a smaller band. If it is already very tight, move the pencils a little closer. If the pencils tip over, press more clay round their feet. Soap with a flat side works best, because a round soap can roll.",
+          "parent": "Check the band. If it is loose and floppy, use a smaller band. If it is already very tight, move the pencils a little closer. If the pencils tip over or lean towards you, press more clay round their feet and add tape. Keep the band low, because a band high up tips the pencils. Soap with a flat side works best, because a round soap can roll.",
           "check": {
             "t": "mcq",
             "q": "Why must the pencils always be exactly 10 centimetres apart?",
@@ -850,7 +852,7 @@
               ]
             }
           ],
-          "parent": "The soap leaves the band when the band is straight again at the pencils. If the soap barely moves, write the small number or 0. That is a real result. If the soap skids sideways, start again and slide it straight back. Put the soap in the same spot each time.",
+          "parent": "The soap leaves the band when the band is straight again at the pencils. If the soap barely moves, write the small number or 0. That is a real result. If the soap skids sideways, start again and slide it straight back. Put the soap in the same spot each time. If even the 6 centimetre pull-back moves the soap less than about 10 centimetres, the band is too weak: use a thicker band, or two bands side by side, or move the pencils 2 centimetres closer. If the soap flies far even at 2 centimetres, use a thinner band.",
           "context": "In this step, you try the smallest pull-back and measure how far the soap slides."
         },
         {
@@ -887,7 +889,7 @@
           "do": "1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?",
           "kid": "Draw a bar for each pull-back. Say what you thought, what you saw, and why.",
-          "parent": "After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.",
+          "parent": "After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times, but with a very small first slide the ratio is not reliable. If the 2 centimetre slide is under 2 centimetres, compare the 6 centimetre slide with the 4 centimetre slide instead. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.",
           "think": "Why did a pull-back twice as long make the soap slide more than twice as far?",
           "check": {
             "t": "mcq",
@@ -922,7 +924,7 @@
       ],
       "materials": [
         {
-          "item": "a ball that bounces well, such as a cricket tennis ball or a rubber ball",
+          "item": "a ball that bounces well, such as a cricket tennis ball or a rubber ball (a ball that is flat or soft will bounce badly)",
           "qty": 1
         },
         {
@@ -943,7 +945,7 @@
           "qty": 1
         },
         {
-          "item": "a helper to watch the bounce, and a phone to film it if you have one",
+          "item": "a helper to watch the bounce, and a phone to film it if you have one (with one child, the phone is the helper)",
           "qty": 1
         },
         {
@@ -998,7 +1000,7 @@
           "do": "1. Stick the tape upright on the wall, with zero at the floor. 2. Put a flag of masking tape at 30, 60 and 90 centimetres. 3. Practise one drop at 30. The helper crouches so their eyes are level with the flag.",
           "say": "Stick the tape on the wall. Zero is at the floor. Put a flag at 30, 60 and 90. Your helper crouches next to the tape. Their eyes should be level with the top of the bounce.",
           "kid": "Stick the tape on the wall. Put flags at 30, 60 and 90. The helper crouches beside it.",
-          "parent": "A bounce is quick. If you have a phone, film each drop in slow motion with the tape in view, then pause at the top of the bounce. Without a phone, practise a few drops so the helper learns where to look.",
+          "parent": "A bounce is quick. If you have a phone, film each drop in slow motion with the tape in view, then pause at the top of the bounce. Without a phone, practise a few drops so the helper learns where to look. With 2 to 4 children, give jobs: one drops, one reads the bounce at eye level, one films, one writes. Swap after each height, and let a second reader check. With one child, stand the phone on a pile of books, film each drop, and read the bounce when you play it back. Two readers can differ by a few centimetres; that is why we take the middle of three.",
           "check": {
             "t": "mcq",
             "q": "Why does the helper always crouch at the same eye level?",
@@ -1028,7 +1030,7 @@
               ]
             }
           ],
-          "parent": "Typical numbers for 30 centimetres are 18 to 22 centimetres. If the readings differ by more than 4 centimetres, try again. A bounce of about 20 is fine.",
+          "parent": "For 30 centimetres, a cricket tennis ball often bounces about 15 to 22 centimetres, but balls differ, so yours may be higher or lower. If the readings differ by more than 4 centimetres, try again. If the ball bounces hardly at all, it is too soft or the floor is too soft; try a different ball or a tile.",
           "context": "In this step, you drop the ball from the lowest mark."
         },
         {
@@ -1047,7 +1049,7 @@
               ]
             }
           ],
-          "parent": "Typical numbers for 60 centimetres are 36 to 44 centimetres. Do not explain yet. Let your child compare the numbers.",
+          "parent": "For 60 centimetres, about 30 to 44 centimetres is common. Do not explain yet. Let your child compare the numbers.",
           "context": "In this step, you double the drop height and measure the bounce again."
         },
         {
@@ -1056,7 +1058,7 @@
           "do": "1. Hold the ball with its top at the 90 centimetre flag. 2. Let go. 3. The helper reads the top of the bounce. 4. Write it down. 5. Do this three times.",
           "say": "Last, drop the ball from 90. That is three times as high as the first drop. The helper reads the top of the bounce. Do it three times.",
           "kid": "Last, drop from 90. The helper reads the bounce. Three times.",
-          "parent": "Typical numbers for 90 centimetres are 55 to 65 centimetres. You can try a drop from 120 centimetres if the tape is long enough.",
+          "parent": "For 90 centimetres, about 45 to 65 centimetres is common. You can try a drop from 120 centimetres if the tape is long enough.",
           "context": "In this step, you try the highest drop."
         },
         {
@@ -1123,7 +1125,7 @@
           "qty": 1
         },
         {
-          "item": "a measuring jug marked in millilitres, and water",
+          "item": "a measuring jug marked in millilitres, and water (no jug? use a cough-syrup dose cup or a small glass, and count 'cups' instead of millilitres, with every cup filled to the same line)",
           "qty": 1
         },
         {
@@ -1133,9 +1135,13 @@
         {
           "item": "a towel for spills, and paper and a pencil",
           "qty": 1
+        },
+        {
+          "item": "a tray or a bucket under the bottle, to catch spills",
+          "qty": 1
         }
       ],
-      "safety": "Keep your face away from the band while it holds the bottle. Stop adding water at 400 millilitres, because a band can snap if it is overloaded.",
+      "safety": "Keep your face away from the band while it holds the bottle. Stop adding water at 400 millilitres, because a band can snap if it is overloaded. Hang it where nobody walks, with a tray under it. Hold the bottle with one hand while you hook it on, and let go slowly.",
       "schedule": [
         {
           "day": 1,
@@ -1176,7 +1182,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. A guess with a reason is a good start. Water is a good weight, because 100 millilitres weighs about 100 grams.",
+          "parent": "Do not correct the guess. A guess with a reason is a good start. Water is a good weight, because 100 millilitres weighs about 100 grams. With 2 to 4 children, one pours, one marks, one measures and one writes; swap after each step. With one child, you pour and your child marks and measures.",
           "context": "This is the first step of Hanging Water. You guess before you test."
         },
         {
@@ -1215,7 +1221,7 @@
               ]
             }
           ],
-          "parent": "Rubber slowly creeps, so wait before you read. A thin band may stretch in steps of about 1 centimetre, a thick one about half a centimetre. The steps are usually about equal, and often slightly smaller near the end. Stop at 400 millilitres.",
+          "parent": "Rubber slowly creeps, so wait before you read. A thin band may stretch in steps of about 1 centimetre, a thick one about half a centimetre. The steps are usually about equal, and often slightly smaller near the end. Stop at 400 millilitres. The numbers are only about right: a thin band might stretch about 1 centimetre per 100 millilitres, a thick one about half a centimetre, and the first step is often a little different from the rest. If the band stretches less than 3 millimetres per step, it is too stiff to read, so use a thinner band or two thin bands together.",
           "context": "In this step, you add the same weight again and again and measure the stretch each time."
         },
         {
@@ -1252,7 +1258,7 @@
           "qty": 1
         },
         {
-          "item": "a low stool or a small table about 40 to 50 centimetres high",
+          "item": "a low, hard stool or small table about 40 to 50 centimetres high (wood or steel; a soft plastic top takes energy and spoils the test)",
           "qty": 1
         },
         {
@@ -1318,7 +1324,7 @@
           "do": "1. Stand the stool by the wall. 2. Put a flag on the wall 30 centimetres above the top of the stool. 3. Hold the ball with its top at the flag. 4. Let go. 5. The helper holds the ruler upright on the stool and reads the top of the bounce. Do it three times.",
           "say": "Put a flag on the wall, 30 centimetres above the stool top. Hold the ball with its top at the flag. Let go. Your helper reads the bounce above the stool. Do it three times.",
           "kid": "Flag 30 centimetres above the stool. Drop the ball. The helper reads the bounce. Three times.",
-          "parent": "Expect a bounce of about 15 to 22 centimetres above the stool top. The stool top can be a different hardness from the floor, so the bounce may differ a little. We are looking for a big change, not a small one.",
+          "parent": "Expect a bounce of about 15 to 22 centimetres above the stool top. The stool top can be a different hardness from the floor, so the bounce may differ a little. We are looking for a big change, not a small one. With 2 to 4 children, one drops, one reads the bounce, one writes; swap each round. With one child, the parent reads the bounce.",
           "context": "In this step, you drop the ball onto the stool and measure the bounce."
         },
         {
@@ -1350,30 +1356,35 @@
           "think": "Does a ball in your hand hold one fixed amount of energy?",
           "context": "This is the last step of Table or Floor. You say what you found."
         }
-      ]
+      ],
+      "safety": "Keep the stool steady and by the wall, and nobody should stand on it. Do not play near glass or fans."
     },
     {
       "id": "a3",
       "title": "The Syringe Spring: air that pushes back",
-      "mins": 10,
+      "mins": 15,
       "days": 1,
       "materials": [
         {
-          "item": "a 10 millilitre medicine syringe with no needle, or a bicycle pump",
+          "item": "a 10 millilitre medicine syringe with no needle (the dose syringe that comes with children's medicine works), or a bicycle pump",
           "qty": 1,
           "buy": "b-syringe"
         },
         {
           "item": "a small lump of clay to plug the nozzle",
           "qty": 1
+        },
+        {
+          "item": "a cup of water and a tray or sink, for the last step",
+          "qty": 1
         }
       ],
-      "safety": "Use a syringe with no needle, and keep it out of your mouth. The clay plug can pop out when the air is squashed hard, so do not push past 2 millilitres and do not point it at anyone's face. Never point a pump at anyone's face.",
+      "safety": "Use a syringe with no needle, and keep it out of your mouth. The syringe has small parts, so it is not for children under five. The clay plug can pop out when the air is squashed hard, so never push past 4 millilitres and do not point it at anyone's face. Never point a pump at anyone's face. Do the water step over a tray or sink.",
       "schedule": [
         {
           "day": 1,
-          "mins": 10,
-          "what": "Guess. Plug the syringe and push the plunger. Feel the air push back. Let go and watch."
+          "mins": 15,
+          "what": "Guess. Plug the syringe and push the plunger. Feel the air push back. Let go and watch. Then try the same with water and compare."
         }
       ],
       "record": "Draw the syringe with the plunger pulled back and then pushed in. Draw arrows for the push of the air.",
@@ -1399,7 +1410,7 @@
           "do": "Show your child the syringe. Ask for a guess and a reason, and write both down.",
           "say": "We will block the end of this syringe with clay, and push the plunger in. What do you think will happen when we let go? Why do you think so?",
           "kid": "Block the end of a syringe. Push the plunger in. What happens when you let go? Why?",
-          "parent": "Do not correct the guess. A syringe with a plastic barrel and a rubber plunger works best. A bicycle pump with a thumb over the nozzle also works.",
+          "parent": "Do not correct the guess. A syringe with a plastic barrel and a rubber plunger works best. A bicycle pump with a thumb over the nozzle also works, but it has no millilitre marks, so push it halfway instead. With 2 to 4 children, one syringe is enough: take turns, and each child says what they felt. A second syringe lets two work in pairs.",
           "context": "This is the first step of the Syringe Spring. You guess before you test."
         },
         {
@@ -1418,15 +1429,15 @@
               ]
             }
           ],
-          "parent": "The plunger should spring back to near 10. If it stays at 5, the clay plug leaks. Press the plug harder. Squashed air pushes back because its tiny particles hit the walls more often when there is less room.",
+          "parent": "The plunger should spring back to near 10. If it stays at 5, the clay plug leaks. Press the plug harder, or use a bigger lump of clay. A syringe may stop short of 10 a little, because the rubber rubs on the barrel; that is fine. Squashed air pushes back because its tiny particles hit the walls more often when there is less room.",
           "context": "In this step, you squash the air in the syringe and feel it push back."
         },
         {
           "id": "s3",
           "mins": 4,
-          "do": "1. Try to push the plunger in to 2 millilitres. 2. Notice how hard you have to push. 3. Let go, and watch.",
-          "say": "Try pushing the plunger in much further, to 2. Is it harder or easier to push the last bit? What does that remind you of?",
-          "kid": "Push to 2. Is the last bit harder or easier? What does that remind you of?",
+          "do": "1. Try to push the plunger in to 4 millilitres, but no further. 2. Notice how hard you have to push. 3. Let go, and watch.",
+          "say": "Try pushing the plunger in a bit further, to 4, but not past it. Is it harder or easier to push the last bit? What does that remind you of?",
+          "kid": "Push to 4. Not further. Is the last bit harder or easier? What does that remind you of?",
           "ask": [
             {
               "q": "Is the last part of the push harder or easier than the first part? What does that remind you of?",
@@ -1449,7 +1460,28 @@
             "a": 0,
             "why": "Squashing the air stored energy in it. When you let go, the air pushes back and gives the energy to the plunger. If you picked clay, check that it only blocks the end."
           },
-          "context": "In this step, you squash the air further and compare the push with the band."
+          "context": "In this step, you squash the air further and compare the push with the band.",
+          "adult": false
+        },
+        {
+          "id": "s4",
+          "mins": 5,
+          "do": "1. Fill the syringe with water, pushing out all the air, and plug the nozzle with clay. 2. Try to push the plunger in. 3. Compare it with the air: which one could you squash?",
+          "say": "Now fill the syringe with water and block the end. Try to push the plunger in. Can you squash the water like the air? What is different?",
+          "kid": "Fill the syringe with water. Block the end. Try to push. Can you squash it like air?",
+          "ask": [
+            {
+              "q": "Can you squash the water as easily as the air? What does that tell you?",
+              "good": [
+                "No, the water hardly moves.",
+                "Air can be squashed, water cannot.",
+                "Only the air can be a spring."
+              ]
+            }
+          ],
+          "parent": "Do this over a tray or sink. Push gently, because the clay can pop out and squirt water. The plunger barely moves with water, while the air squashed to half. Air has room between its particles, so it can be squeezed, and then it pushes back. Water has hardly any room to squeeze.",
+          "think": "Why is air a spring, and water is not?",
+          "context": "In this step, you try the same push with water and see that only air can be squashed and push back."
         }
       ]
     }
@@ -1466,7 +1498,7 @@
           "qty": 1
         },
         {
-          "item": "a strip of stiff cardboard about 100 centimetres long and 5 centimetres wide, cut from a carton, with both long edges folded up 1 centimetre to make a groove",
+          "item": "a strip of thin card about 100 centimetres long and 5 centimetres wide, made from a cereal box or carton pieces joined end to end with tape, with both long edges folded up 1 centimetre to make a groove",
           "qty": 1
         },
         {
@@ -1474,32 +1506,36 @@
           "qty": 1
         },
         {
-          "item": "2 stacks of books, one about 30 centimetres high and the other that you can change",
+          "item": "2 stacks of books or boxes, one about 20 centimetres high and the other that you can change",
           "qty": 2
         },
         {
           "item": "a ruler and a pencil",
           "qty": 1
+        },
+        {
+          "item": "a box or towel to catch the marble",
+          "qty": 1
         }
       ],
-      "safety": "Keep marbles away from children under five, who may put them in their mouths.",
+      "safety": "Keep marbles away from children under five, who may put them in their mouths. A grown-up should cut the card with scissors. Pick up stray marbles at once so nobody slips on them.",
       "schedule": [
         {
           "day": 1,
           "mins": 40,
-          "what": "Build the valley track. Release the marble from 30 centimetres. Raise the far end bit by bit. Find the highest far end it can reach."
+          "what": "Build the valley track. Release the marble from 20 centimetres. Raise the far end bit by bit. Find the highest far end it can reach."
         }
       ],
       "record": "A table with the height of the far end in centimetres, and whether the marble rolled out of the far end, stopped short, or just made it. Then write the highest far end that worked.",
       "context": "In this project, you build a valley out of cardboard and release a marble from one side. You find out how high up the other side the marble can climb.",
       "setup": [
         {
-          "art": "A folded cardboard strip bent into a valley, with its left end taped to a stack of books 30 centimetres high and the right end taped to a lower stack.",
-          "caption": "1. Tape one end of the strip to a stack 30 centimetres high. Tape the other end to a lower stack."
+          "art": "A folded card strip bent into a valley, with its middle taped flat to the floor, its left end taped to a stack of books 20 centimetres high and the right end taped to a lower stack.",
+          "caption": "1. Tape the middle of the strip flat to the floor. Tape one end to a stack 20 centimetres high and the other to a lower stack."
         },
         {
-          "art": "A marble being released at the top of the left side of the valley with a flag marking 30 centimetres.",
-          "caption": "2. Let the marble go from the 30 centimetre mark. It rolls down and up the far side."
+          "art": "A marble being released at the top of the left side of the valley with a flag marking 20 centimetres.",
+          "caption": "2. Let the marble go from the 20 centimetre mark. It rolls down and up the far side."
         },
         {
           "art": "The right stack being raised book by book beside a ruler, and the marble stopping just short of the far end.",
@@ -1511,7 +1547,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Show your child the marble and the cardboard. Ask for a guess and a reason, and write both down.",
-          "say": "A marble starts at the top of one side of a valley, 30 centimetres up. It rolls down and up the other side. How high can the other side be before the marble cannot climb out? Why do you think so?",
+          "say": "A marble starts at the top of one side of a valley, 20 centimetres up. It rolls down and up the other side. How high can the other side be before the marble cannot climb out? Why do you think so?",
           "kid": "A marble rolls down a valley and up the far side. How high can the far side be? Why?",
           "ask": [
             {
@@ -1523,19 +1559,19 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Some children expect the marble to gain speed and go higher. Write the guess and reason.",
+          "parent": "Do not correct the guess. Some children expect the marble to gain speed and go higher. Write the guess and reason. With 2 to 4 children, each writes a guess for the highest far end. Jobs: one releases, one watches the far end, one writes; swap after each setting.",
           "context": "This is the first step of the Valley Track. You guess before you build."
         },
         {
           "id": "s2",
           "mins": 12,
-          "do": "1. Fold up both long edges of the cardboard strip by 1 centimetre, to make a groove. 2. Tape one end to the top of a stack of books 30 centimetres high. 3. Bend the strip into a valley and tape the other end to a stack 10 centimetres high. 4. Roll the marble down once to test.",
-          "say": "Fold up the edges of the strip to make a groove. Tape one end to the high stack. Bend the strip into a valley. Tape the other end to the low stack. Test with one roll.",
-          "kid": "Fold up the edges. Tape one end high. Bend a valley. Tape the other end low. Test one roll.",
-          "parent": "The groove must be smooth. Press out any wrinkle. If the marble jumps out, fold the edges up higher. Measure the height of each end from the floor to the strip.",
+          "do": "1. Fold up both long edges of the card strip by 1 centimetre, to make a groove. 2. Lay the strip so its middle 10 centimetres lie flat on the floor, and tape them down. 3. Lift one end and tape it to the top of a stack of books 20 centimetres high. 4. Lift the other end and tape it to a stack 10 centimetres high. The strip now curves up on both sides, like a smile. 5. Put the catching box beyond the far end. 6. Roll the marble down once to test.",
+          "say": "Fold up the edges of the strip to make a groove. Tape the middle flat to the floor. Tape one end to the high stack and the other to the low stack, so it curves like a smile. Test with one roll.",
+          "kid": "Fold up the edges. Tape the middle to the floor. Tape one end high and one end low. Test one roll.",
+          "parent": "The groove must be smooth. Press out any wrinkle and keep the tape joins flat, because a bump takes energy. If the marble jumps out, fold the edges up higher. Measure the height of each end from the floor to the strip, at the end of the strip. If the strip bows up like a hill, press the middle down and tape it again.",
           "check": {
             "t": "mcq",
-            "q": "Why do we always release the marble from the same mark at 30 centimetres?",
+            "q": "Why do we always release the marble from the same mark at 20 centimetres?",
             "options": [
               "So the start stays the same and only the far end changes",
               "So the marble rolls faster",
@@ -1549,9 +1585,9 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "1. Set the far end at 10 centimetres and release the marble. 2. Raise the far end by 5 centimetres at a time, to 15, 20, 25, 30 and 35. 3. Each time, release the marble from the same start mark. 4. Write if it rolled out of the far end, stopped short, or just made it.",
-          "say": "Set the far end low and release the marble. Raise the far end by 5 centimetres each time. Always start from the same mark. Write what the marble does each time.",
-          "kid": "Raise the far end 5 centimetres at a time. Release from the same mark. Write what happens.",
+          "do": "1. Set the far end at 10 centimetres and release the marble from the 20 centimetre mark. 2. Raise the far end by 2 centimetres at a time, to 12, 14, 16, 18, 20 and 22. 3. Each time, release the marble from the same start mark. 4. Write if it rolled out of the far end, stopped short, or just made it. 5. Last, set the far end at 26 centimetres and release the marble. A helper marks with a finger where it turns back. Measure that height.",
+          "say": "Set the far end low and release the marble. Raise the far end by 2 centimetres each time. Always start from the same mark. Write what the marble does each time. Last, put the far end high and mark where the marble turns back.",
+          "kid": "Raise the far end 2 centimetres at a time. Release from the same mark. Write what happens. Last, mark where it turns back.",
           "ask": [
             {
               "q": "At what height does the marble stop being able to climb out?",
@@ -1562,13 +1598,13 @@
               ]
             }
           ],
-          "parent": "A marble should climb out of far ends a little below the start, often within a few centimetres of it. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke.",
+          "parent": "A marble should climb out of far ends a little below the start, often within a few centimetres of it, but card, tape joins and wobble take energy, so yours may stop several centimetres short. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke. The turn-back mark is hard to see by eye, so film it on a phone if you can. If the marble stops far short even at the lowest setting, the track is bumpy: smooth the joins and press out the wrinkles.",
           "context": "In this step, you raise the far end until the marble cannot climb out."
         },
         {
           "id": "s4",
           "mins": 9,
-          "do": "1. Write the highest far end that worked. 2. Ask your child to say what they thought, what they saw, and why.",
+          "do": "1. Write the highest far end that worked. 2. Compare it with the turn-back height from the last test. 3. Ask your child to say what they thought, what they saw, and why.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think the marble could not climb higher than where it started?",
           "kid": "Say what you thought, what you saw, and why.",
           "parent": "After your child has said what they saw, you can explain. At the start the marble held energy in its height. Rolling down turned it into movement, and climbing up turned it back into height. Some energy went into rubbing between the marble and the groove, and into the marble's spin and the track's wobble, as small amounts of heat and sound. So the marble reached a little less than its start, and never more. Energy cannot be made on the way.",
@@ -1588,12 +1624,13 @@
         "Use only the two balls and your hands. No throwing and no pushing down.",
         "Let go from a height of 50 centimetres, with the top of the big ball at the 50 centimetre mark and the small ball resting on it.",
         "Measure the highest point of the small ball's bounce on a tape stuck on the wall.",
-        "Do the test on a hard floor, with nothing breakable nearby."
+        "Do the test on a hard floor, in a room with a high ceiling and nothing breakable or glass nearby, away from fans."
       ],
       "materials": [
-        "a big ball, such as a football or a rubber ball of about 20 centimetres",
+        "a big ball, such as a football or a rubber ball of about 20 centimetres (if you have none, use a cricket tennis ball underneath and a ping-pong ball or a very light small bouncy ball on top)",
         "a small bouncy ball, such as a cricket tennis ball or a rubber ball",
-        "a tailor's tape stuck upright on a wall, with zero at the floor",
+        "a tailor's tape or a metre stick stuck upright on a wall, with zero at the floor (a long tape of 150 centimetres or more helps)",
+        "masking tape",
         "a helper to read the bounce",
         "paper and a pencil"
       ],
@@ -1649,7 +1686,7 @@
           "do": "1. Stick the tape on the wall, with zero at the floor. 2. Flag 50 centimetres. 3. Drop the small ball alone from the flag, three times. 4. Write how high it bounces.",
           "say": "Drop the small ball on its own from 50 centimetres. Your helper reads the bounce. Do it three times. This is the number we want to beat.",
           "kid": "Drop the small ball alone from 50. The helper reads the bounce. Three times.",
-          "parent": "The small ball alone should bounce to about 25 to 40 centimetres, lower than the start.",
+          "parent": "The small ball alone should bounce to about 25 to 40 centimetres, lower than the start. Use 50 centimetres for every test, so the results can be compared.",
           "context": "In this step, you find the bounce of the small ball on its own."
         },
         {
@@ -1669,7 +1706,7 @@
               ]
             }
           ],
-          "parent": "Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. It may take a few tries to get the small ball exactly on top. If it goes sideways, centre it better. Often the small ball bounces 2 to 3 times as high as the start.",
+          "parent": "Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. Hold the big ball low on its sides with both hands, balance the small ball on top, and pull your hands away sideways at the same moment. A small wobble sends the small ball sideways, so it may take many tries. When the balls line up, the small ball often reaches about 1.5 to 3 times the start height; with a poor line-up, it may only do a little better or go sideways. Film it if you can. With 2 to 4 children, one drops, one steadies the tape and reads, one films, one writes; swap after each try. With one child, a parent reads the bounce.",
           "context": "In this step, you drop the two balls together and watch what the small ball does."
         },
         {
@@ -2766,7 +2803,7 @@
         "e1",
         "a1"
       ],
-      "why": "The Soap Slider and Hanging Water need a good rubber band. Most homes have some. A packet is cheap at any stationery shop."
+      "why": "The Soap Slider and Hanging Water need a good rubber band, thin for one and thick for the other. Most homes have some. A packet is cheap at any stationery shop."
     },
     {
       "id": "b-tape",
@@ -2788,7 +2825,7 @@
       "used_in": [
         "a3"
       ],
-      "why": "To squash air and feel it push back. Medicine shops sell them for a few rupees. A bicycle pump also works."
+      "why": "To squash air and feel it push back. A medicine shop sells one for a few rupees, and the dose syringe that comes with children's syrup also works. A bicycle pump also works."
     },
     {
       "id": "b-balls",

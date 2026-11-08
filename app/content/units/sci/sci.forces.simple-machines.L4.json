@@ -640,7 +640,8 @@
           "do": "Cut out the 24 cards. Shuffle them and put them in a pile. Give each player a scrap of paper and a pencil.",
           "say": "These cards show a load and a machine. We work out the pull and the distance. Then we turn the card over to check.",
           "kid": "Cut out the cards. Shuffle them. Get paper and a pencil.",
-          "context": "This is the first step of Rope Counter. You set up the cards."
+          "context": "This is the first step of Rope Counter. You set up the cards.",
+          "parent": "No printer or no double-sided printing? Cut the fronts as slips and keep the answer sheet face down, or let the reader hold the sheet with the answers covered. Two to four players can share one pile and one reader at a time; each writes on their own scrap."
         },
         {
           "id": "s2",
@@ -712,11 +713,11 @@
         "Ropes holding the bottle",
         "Band stretch in centimetres: try 1",
         "Band stretch in centimetres: try 2",
-        "Distance the knot moved for a 10 centimetre lift, in centimetres"
+        "Distance the knot (where the string meets the band) moved for a 10 centimetre lift, in centimetres"
       ],
       "materials": [
         {
-          "item": "a plastic bottle of 1 litre, full of water, with a string loop tied round its neck",
+          "item": "about 3 metres of strong thin string, such as nylon cord, parcel string or cotton twine (more if your beam is high). Do not use kite manja: it is glass-coated and cuts",
           "qty": 1
         },
         {
@@ -728,7 +729,7 @@
           "qty": 1
         },
         {
-          "item": "a rubber band that stretches 6 to 12 centimetres when the full bottle hangs from it",
+          "item": "a fairly thick rubber band, the kind that ties a newspaper or vegetable bundle, that stretches about 6 to 12 centimetres when the full bottle hangs from it (typical; bands differ)",
           "qty": 1
         },
         {
@@ -744,8 +745,8 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up must check that the beam is tied down and holds the bottle. Keep feet away from under the bottle in case it falls. Keep your face away from the stretched band in case it snaps.",
-      "record": "For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Then draw a bar chart with one bar for each set-up, using the bigger of the two stretches.",
+      "safety": "A grown-up must check that the beam is tied down and holds the bottle. A full bottle weighs about 1 kilogram, and the fixed reel carries about double that when you pull, so use heavy chairs with books on the seats, or a window grill. Keep feet away from under the bottle in case it falls. Keep your face away from the stretched band in case it snaps.",
+      "record": "For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Measure the knot, not your hand, because the band stretches. Then draw a bar chart with one bar for each set-up, using the bigger of the two stretches.",
       "context": "In this experiment, you lift a bottle three ways and use a rubber band to feel the pull. You find out what a fixed reel and a moving reel really do.",
       "setup": [
         {
@@ -796,7 +797,7 @@
           "do": "Thread string through the hole of each reel and knot it into a loop. Tie a loop round the bottle's neck. Tie the broom handle across two chair backs. Check it holds the bottle.",
           "say": "Each reel hangs from its own string loop and can spin on it. Hang one reel from the beam. This is our fixed reel. Now measure the band with nothing on it, and write that length down.",
           "kid": "Make a string loop through each reel. Hang one from the beam. Measure the band with nothing on it.",
-          "parent": "A grown-up should do the beam and check it. The thread reels from a tailor are free. If a reel will not spin easily, widen the loop. A bangle works too, but it rubs more, so your pull will be bigger. That is part of the lesson.",
+          "parent": "A grown-up should do the beam and check it. The thread reels from a tailor are free. If a reel will not spin easily, widen the loop. A bangle works too, but it rubs more, so your pull will be bigger. That is part of the lesson. With 2 to 4 children, give each a job and swap for every test: one pulls and holds the band, one reads the ruler, one marks the knot's height, one writes. One child with a parent: the child pulls, the parent reads and writes.",
           "check": {
             "t": "mcq",
             "q": "Why do you measure the band with nothing hanging on it first?",
@@ -813,7 +814,7 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Test A. Tie the bottle's string to the band. Hold the band's top end. Lift the bottle until its base is level with the top of the 10 centimetre stack of books. Hold still and read the band. Do it twice.",
+          "do": "Test A. Tie the bottle's string to the band. Hold the band's top end. Lift the bottle until its base is level with the top of the 10 centimetre stack of books. Hold still and read the band. Do it twice. Then pour out half the water, hang the half-full bottle from the band, and write that stretch too. It shows what 'half the pull' looks like on your band.",
           "say": "Lift slowly, then hold still, and read the band's length. The stretch is the length now minus the length with nothing on it. Write it down. Do it twice.",
           "kid": "Hang the bottle from the band. Lift it 10 centimetres. Hold still. Read the band.",
           "ask": [
@@ -826,7 +827,7 @@
               ]
             }
           ],
-          "parent": "A good band stretches 6 to 12 centimetres. If it stretches less than 4, use a thinner band. If it nearly snaps, use two bands side by side. For this set-up, the knot moves 10 centimetres.",
+          "parent": "A good band stretches about 6 to 12 centimetres (typical). If it stretches less than 4, use a thinner band. If it nearly snaps, use two bands side by side. Measure the knot's height with the bottle resting and the string just tight, and again with the bottle 10 centimetres up: it moves about 10 centimetres. A rubber band slowly creeps longer, so read it after about 3 seconds of holding still, the same every time. The half-full bottle gives you your own 'half' to compare with Test C.",
           "context": "In this step, you do the straight lift. It is the control."
         },
         {
@@ -876,7 +877,7 @@
             "a": 0,
             "why": "Each string carries half the load, so the pull is about half. To raise the bottle 10 centimetres, both strings must get 10 centimetres shorter, so the knot moves 20 centimetres. Picking 'weigh half' means the load was thought to change, but only the share each string carries changed."
           },
-          "parent": "The stretch is usually a little more than half of Test A, because of rubbing. The knot should move about 20 centimetres. If the stretch is exactly the same as A, check that the string runs under the moving reel. Count the strings that touch it.",
+          "parent": "The stretch is usually a little more than half of Test A, because of rubbing, and a rubber band is not an even spring, so compare it with your half-full-bottle reading. The knot should move about 20 centimetres. If the stretch is exactly the same as A, check that the string runs under the moving reel. Count the strings that touch it. If nothing seems to change, the reels may be rubbing too hard: widen the loops or use smoother reels.",
           "context": "In this step, you hang the bottle from a moving reel and find out what two strings do."
         },
         {
@@ -908,7 +909,7 @@
       ],
       "materials": [
         {
-          "item": "a bicycle with a chain, such as a single-speed cycle",
+          "item": "a bicycle with a chain, such as a single-speed cycle (a child's cycle is fine)",
           "qty": 1
         },
         {
@@ -924,7 +925,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up must turn the bicycle upside down onto its seat and handlebars, or lift the back wheel on a stand. Keep fingers away from the chain, the teeth and the spokes, because they can pinch.",
+      "safety": "A grown-up must turn the bicycle upside down onto its seat and handlebars, or lift the back wheel on its stand. Keep fingers away from the chain, the teeth and the spokes, because they can pinch. Chain grease stains clothes, so wear old clothes. Only the grown-up turns the pedal.",
       "record": "Write the number of teeth on each gear, the number of wheel turns you counted for each pedal turn, and the number you worked out by dividing the teeth.",
       "context": "In this experiment, you count the teeth on a bicycle's gears and the turns of its wheel, and find the gear ratio.",
       "setup": [
@@ -972,7 +973,7 @@
           "do": "Turn the bicycle over. Stick tape on the back tyre. Stick tape on one tooth of the pedal gear. Count the teeth on the pedal gear and on the small gear at the back wheel.",
           "say": "Stick the tape on one tooth, so we know where to start. Count all the teeth on the big gear at the pedals. Then count the teeth on the small gear at the back wheel.",
           "kid": "Tape one tooth. Count the teeth on the big gear. Count the teeth on the small gear.",
-          "parent": "Many single-speed cycles have about 40 to 48 teeth at the pedals and 16 to 20 at the back. If your cycle has many gears, use the gear that the chain is on. Counting the back teeth is easiest if you mark one with tape as well.",
+          "parent": "Single-speed cycles often have about 30 to 48 teeth at the pedals and 14 to 20 at the back (typical; counts differ). If your cycle has many gears, use the gear that the chain is on. Counting the back teeth is easiest if you mark one with tape as well. With 2 to 4 children: one counts the pedal teeth, one counts the back teeth, and then they check each other's counts. A cycle with a carrier or a centre stand may be easier to lift on its stand than to turn over.",
           "check": {
             "t": "mcq",
             "q": "Why do you stick tape on one tooth before counting?",
@@ -1003,7 +1004,7 @@
               ]
             }
           ],
-          "parent": "A turn of 2 and a bit is normal. Count part-turns as halves or quarters. The wheel keeps turning after you stop pedalling, so stop the pedal exactly at the mark.",
+          "parent": "A turn of 2 and a bit is normal. Count part-turns as halves or quarters. The wheel keeps turning after you stop pedalling, so stop the pedal exactly at the mark. If it is hard to judge, turn the pedal 5 full turns, count the wheel turns and divide by 5. Roles: one child watches the tyre mark, one watches the pedal tooth, one writes; swap each try.",
           "context": "In this step, you turn the pedal once and count the turns of the wheel."
         },
         {
@@ -1046,7 +1047,7 @@
       "days": 1,
       "materials": [
         {
-          "item": "2 sheets of plain paper, and scissors",
+          "item": "2 sheets of thin plain paper (not thick card), and scissors",
           "qty": 2
         },
         {
@@ -1054,7 +1055,7 @@
           "qty": 1
         },
         {
-          "item": "a jam jar with its lid, or any bottle with a screw cap",
+          "item": "a plastic water or cold-drink bottle with a screw cap (a jam jar with lid also works, but some jar lids twist off in a quarter turn)",
           "qty": 1
         },
         {
@@ -1121,7 +1122,7 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Count the turns of the coloured spiral on each pencil. Measure the gap between two turns in millimetres. Write both in a table.",
+          "do": "Count the turns of the coloured spiral on each pencil. Measure the gap between two turns in millimetres. Write both in a table. Check: turns times gap should come close to the height of the ramp, 2 or 4 centimetres.",
           "say": "Count the turns of the colour. Then measure the gap from one turn to the next. Which screw has the bigger gap? Was your guess right?",
           "kid": "Count the turns. Measure the gap. Which is bigger?",
           "check": {
@@ -1135,16 +1136,17 @@
             "a": 0,
             "why": "A steeper ramp climbs more in every turn, so the gap, or pitch, is bigger. A gentler ramp has a smaller pitch, and needs more turns to go the same distance, but each turn takes less push."
           },
-          "context": "In this step, you count the turns and measure the gap."
+          "context": "In this step, you count the turns and measure the gap.",
+          "parent": "Expect both screws to have about the same number of turns, because both ramps have the same long edge. What differs is the gap, about 2 to 4 millimetres (typical; it depends how tightly you wind). If the gaps are uneven, rewind more tightly. With 2 to 4 children, each makes their own pair and you compare whose gaps are bigger."
         },
         {
           "id": "s4",
           "mins": 5,
-          "do": "Look at the thread inside a jam jar lid or on the neck of a bottle. Count how many full turns the lid needs to come off. Measure how far the lid rises, and divide by the turns.",
-          "say": "Now look at a real screw. Count the full turns to take the lid off. How far does it rise? Divide that by the turns. That is the pitch. Is it big or small?",
+          "do": "Look at the thread on the neck of a plastic bottle. Measure the gap from one ridge to the next in millimetres. That is the pitch. Then count the full turns the cap needs to come off. Turns times pitch is about how far the cap rises.",
+          "say": "Now look at a real screw. Measure the gap from one ridge of the thread to the next. That is the pitch. Is it big or small? Count the turns to take the cap off. Does it fit?",
           "kid": "Count the turns to open the lid. Is the gap big or small?",
           "think": "Would a screw with a smaller pitch need more turns or fewer? Would it be easier or harder to turn?",
-          "parent": "A jam jar lid usually rises a few millimetres per turn. A bottle cap often needs about one full turn.",
+          "parent": "A bottle neck usually has a pitch of about 2 to 3 millimetres, and the cap needs about one to one and a half turns (typical). Some jam jar lids are the twist-off kind that need only a quarter turn, so use the bottle if so.",
           "context": "This is the last step of the Paper Screw. You compare your paper screw with a real one."
         }
       ]
@@ -1156,7 +1158,7 @@
       "days": 1,
       "materials": [
         {
-          "item": "an analogue clock or alarm clock with a knob for setting the time, and a grown-up to say it can be turned",
+          "item": "an analogue wall clock or alarm clock with a knob for setting the time, and a grown-up to say it can be turned (a toy clock with turning hands also works)",
           "qty": 1
         },
         {
@@ -1211,10 +1213,10 @@
           "id": "s2",
           "mins": 8,
           "adult": true,
-          "do": "Turn the setting knob slowly, with a grown-up. Watch the hour hand. Count the turns of the minute hand until the hour hand reaches 12 again. Write the number down.",
+          "do": "Turn the setting knob slowly, with a grown-up. Each time the minute hand reaches 12, write down which number the hour hand points at. Keep going until the hour hand is back at 12. Write down how many turns it took.",
           "say": "Turn the knob slowly. Each time the long hand reaches 12, make a mark. How many marks before the short hand is back at 12?",
           "kid": "Turn the knob slowly. Count each time the long hand reaches 12.",
-          "parent": "Only turn the knob in the direction that the clock allows, and never force it. If your clock cannot be turned, watch a real clock for one hour, and see how far the hour hand moves.",
+          "parent": "Only turn the knob in the direction that the clock allows, and never force it. Do not open the clock. On an alarm clock use the time knob, not the alarm knob. If your clock cannot be turned, watch a real clock for one hour, and see how far the hour hand moves. The hour hand should move one number for each turn, so you get 12 turns in all. Roles for 2 to 4 children: one turns, one counts aloud, one writes the table; swap halfway.",
           "check": {
             "t": "mcq",
             "q": "The minute hand goes round 12 times while the hour hand goes round once. What is the gear ratio between them?",
@@ -1231,7 +1233,7 @@
         {
           "id": "s3",
           "mins": 3,
-          "do": "Ask your child what they saw and why. Tell them that the second hand goes round 60 times for one turn of the minute hand. Ask what ratio that is.",
+          "do": "Ask your child what they saw and why. Tell them that the second hand goes round 60 times for one turn of the minute hand. Ask what ratio that is. If your clock has a second hand, watch it spin while you turn the knob.",
           "say": "Tell me what you saw. The hour hand turns 12 times slower than the minute hand. What do you think is inside the clock to do that?",
           "kid": "The hour hand is 12 times slower. What is inside to do that?",
           "think": "A gear train multiplies the ratios. If one pair of gears gives 3 to 1 and another gives 4 to 1, what ratio do they give together?",
@@ -1295,13 +1297,13 @@
               ]
             }
           ],
-          "parent": "Scissors have two levers joined at a screw or rivet, and each blade is a wedge. A peeler has a wedge blade and a lever handle. A can opener has a wheel and axle with a handle, a wedge and a lever. A pressure cooker lid locks with a screw-like twist. A tap has a screw inside it and a wheel and axle for the handle.",
+          "parent": "Scissors have two levers joined at a screw or rivet, and each blade is a wedge. A peeler has a wedge blade and a lever handle. A can opener has a wheel and axle with a handle, a wedge and a lever. A pressure cooker lid locks with a twist that slides on small ramps. An older style tap has a screw inside it and a wheel and axle for the handle, and a door handle is a lever on an axle. Use blunt child scissors for the card test, and keep little hands off sharp blades.",
           "context": "This is the first step of the Kitchen Machine Detective. You pick a tool and guess."
         },
         {
           "id": "s2",
           "mins": 12,
-          "do": "Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades, force for distance or turns for strength. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.",
+          "do": "Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades, force for distance or turns for strength. Scissors test: measure the blade from the screw to the tip, and the handle from the screw to where your finger pushes. Then cut a strip of thick card near the tips and again deep near the screw, and feel which is easier. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.",
           "say": "For each tool, find each machine. For each machine, say what it trades. Does it make your push stronger, or does it make your hand move further?",
           "kid": "Find each machine in each tool. Say what it trades.",
           "adult": true,
@@ -1387,7 +1389,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Pick two of the pulleys you found. Count the ropes that hold each load. Say whether the pulley turns the pull or makes it smaller. Look outside from a window or the street at a crane, a lift or a well.",
+          "do": "Pick two of the pulleys you found. Count the ropes that hold each load. Say whether the pulley turns the pull or makes it smaller. If you have a clothes rack, pull its rope a measured 40 centimetres and measure how far the rack rises. Look outside from a window or the street at a crane, a lift or a well.",
           "say": "Count the ropes that hold the load. If the rope only turns round the top, it does not count. Does it make the pull smaller, or only turn it?",
           "kid": "Count the ropes holding the load. Does it turn the pull or make it smaller?",
           "check": {
@@ -1401,7 +1403,7 @@
             "a": 0,
             "why": "Four ropes hold the rack, so each carries about a quarter and you pull about a quarter, with some more for friction. The price is that you pull about four times as much rope as the rack rises."
           },
-          "parent": "Stay on the pavement or at a window when you look at building sites. A tower crane often has several ropes on its hook block, so it has a big advantage. Never go near the site itself.",
+          "parent": "Stay on the pavement or at a window when you look at building sites. A tower crane often has several ropes on its hook block, so it has a big advantage. Never go near the site itself. Do not climb on chairs to reach a pulley, and do not hang on a rack. The rack should rise about a quarter of the rope you pulled if 4 ropes hold it (typical; it varies). No rack at home? Use a curtain cord, a flag rope, a well or a lift (ask a grown-up), or a photo of a crane. With 2 to 4 children, each takes a room or a street and counts for a different pulley.",
           "context": "In this step, you count the ropes."
         },
         {
@@ -1425,7 +1427,7 @@
       "mins": 45,
       "materials": [
         {
-          "item": "a shoebox or a stiff cardboard box",
+          "item": "stiff card for a big wheel, 12 centimetres across, and a small wheel, 3 centimetres across (an old CD is exactly 12 centimetres and a bottle cap is about 3, and both are stiffer than card)",
           "qty": 1
         },
         {
@@ -1499,7 +1501,7 @@
           "do": "A grown-up pokes the holes. Cut the two wheels from stiff card. Poke a hole in the centre of each. Push a pencil through each hole and tape it so it spins with the wheel. Colour a mark on the edge of each wheel.",
           "say": "Cut a big circle and a small circle. Push a pencil through the middle of each. Colour a mark on the edge, so we can count the turns.",
           "kid": "Cut two circles. Push a pencil through each. Mark each edge.",
-          "parent": "The hole must be exactly in the centre, or the wheel wobbles. Fold a circle in half twice to find its centre.",
+          "parent": "The hole must be exactly in the centre, or the wheel wobbles. Fold a circle in half twice to find its centre. A grown-up pokes holes with a pencil point on a lump of clay or a rubber, never on the child's hand. Tape a blob on the pencil on both sides of the wheel so it cannot slide.",
           "context": "In this step, you build the two wheels."
         },
         {
@@ -1508,13 +1510,13 @@
           "do": "Tape one straw across the box near one end. Slide each pencil through a straw so the wheels sit side by side. Put the belt round both wheels. Slide the second straw along the box until the belt is tight, then tape it down.",
           "say": "The straws are the bearings. Put the belt round both wheels and slide the second straw away until the belt is tight. Turn the big wheel. Does the small wheel turn?",
           "kid": "Pencils through the straws. Belt round both wheels. Pull it tight. Turn the big wheel.",
-          "parent": "If the belt slips, wrap a rubber band round the rim of each wheel for grip. If the wheels rub on the box, tape a bit of card between them.",
+          "parent": "If the belt slips, wrap a rubber band round the rim of each wheel for grip. If the wheels rub on the box, tape a bit of card between them. Tape a blob of tape on each pencil on both sides of its straw so the pencil does not slide along. The belt should be tight but the wheels must still turn easily.",
           "context": "In this step, you fit the belt."
         },
         {
           "id": "s4",
           "mins": 10,
-          "do": "Turn the big wheel exactly 5 times, slowly. Your child counts how many times the small wheel's mark goes round. Divide it by 5. Compare with the guess.",
+          "do": "Turn the big wheel exactly 5 times, slowly. One child turns, one counts the big turns aloud, one counts the small wheel's mark. Divide the small wheel's turns by 5. Compare with the guess. Do it twice.",
           "say": "Turn the big wheel five times, slowly. Count how many times the small wheel's mark goes round. How many turns for each big turn?",
           "kid": "Turn the big wheel 5 times. Count the small wheel's turns.",
           "check": {
@@ -1528,7 +1530,8 @@
             "a": 0,
             "why": "12 divided by 3 is 4. Each time the big wheel turns once, it pulls the belt by its whole rim, and that is enough to turn the small rim 4 times. Picking 12 means the sizes were not divided."
           },
-          "context": "In this step, you count the turns and find the ratio."
+          "context": "In this step, you count the turns and find the ratio.",
+          "parent": "A result between 3.5 and 4 turns for each big turn is normal, because the belt slips a little and the pencil and the belt add a little thickness. If the small wheel goes too fast to count, turn the big wheel slower, or count the small wheel's turns for only 2 big turns. With one child, the parent counts the big turns."
         },
         {
           "id": "s5",
@@ -1551,7 +1554,7 @@
       "problem": "Raise a full 1 litre bottle by 10 centimetres so that the rubber band stretches as little as you can make it. You may use up to 3 reels, one length of string and the beam. The bottle must rise at least 10 centimetres and hang still for 5 seconds.",
       "constraints": [
         "Use no more than 3 reels.",
-        "Use only reels, string, the beam and the rubber band. A drop of cooking oil is allowed.",
+        "Use only reels, string (you may cut it into pieces and tie them), the beam and the rubber band. A drop of cooking oil is allowed.",
         "The bottle must rise at least 10 centimetres and hang still for 5 seconds.",
         "Write down the band stretch and how far the knot moved."
       ],
@@ -1614,7 +1617,7 @@
           "do": "Build your first design. Lift the bottle 10 centimetres and hold it for 5 seconds. Read the band's stretch. Measure how far the knot moved. Then change one thing and test again.",
           "say": "Build your first design and test it. Read the stretch. Then change one thing, such as the number of strings, and test again. Which change helped?",
           "kid": "Build your design. Lift 10 centimetres. Read the stretch. Change one thing.",
-          "parent": "A cascade of two moving reels, with the second reel hanging from the string of the first, can give a quarter of the pull. The knot then moves about 40 centimetres. Friction is bigger, so expect a stretch somewhat above a quarter. Keep fingers away from the string when the bottle is hanging.",
+          "parent": "A cascade of two moving reels, with the second reel hanging from the string of the first, can give a quarter of the pull. The knot then moves about 40 centimetres. Friction is bigger, so expect a stretch somewhat above a quarter, and small stretches are hard to read, so measure to the nearest millimetre. Same safety as Count the Ropes: a grown-up checks the beam, heavy chairs or a window grill, feet and faces away from the bottle and band. With 2 to 4 children, each designs their own and you take turns on the one bottle and beam. Keep fingers away from the string when the bottle is hanging.",
           "check": {
             "t": "mcq",
             "q": "A design has 4 strings holding the bottle. The band stretches 10 centimetres in the straight lift. About how far should it stretch now, with no friction?",
@@ -2687,7 +2690,7 @@
       "id": "b-string",
       "item": "A ball of strong thin nylon cord",
       "kind": "material",
-      "why": "For the pulleys in Count the Ropes and The Lazy Lift. Parcel string or kite string also works.",
+      "why": "For the pulleys in Count the Ropes and The Lazy Lift. Parcel string or cotton twine also works. Do not use kite manja: it is glass-coated and cuts.",
       "url": "https://www.amazon.in/s?k=nylon+cord+thin+strong",
       "used_in": [
         "e1",

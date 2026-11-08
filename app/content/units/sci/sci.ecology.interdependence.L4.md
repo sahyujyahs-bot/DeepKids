@@ -207,7 +207,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   *Parent does:* Cut out the cards and tokens. Shuffle the cards and stack them face down. Lay the six link tokens in a row. Read the rules aloud.  
   *Parent says:* We are trail detectives. Each card shows a sign that a living being left behind. Your job is to say who made it and which link it shows.  
   *Child mode:* Cut out the cards. Shuffle them. Put out the six link tokens.
-  - Note: The six links are Food, Shelter, Making new plants, Travel, Clean-up and Changing the place. Read them out loud before you start.
+  - Note: The six links are Food, Shelter, Making new plants, Travel, Clean-up and Changing the place. Read them out loud before you start. With 2 to 4 players, the reader changes every card, so each child reads in turn. Children may cut the cards with blunt-tipped scissors, or the parent cuts them. One child can lay out the tokens while another shuffles.
 - **s2 (12 min)**  
   *Parent does:* Read the front of one card aloud, and nothing else. Everyone says who made the sign and picks a token. Read the back and give points. Play ten cards.  
   *Parent says:* Read me the sign. I will say who I think made it, and I will pick a link. Then we check the back. One point for a sensible guess about who, and one for a link on the card.  
@@ -238,14 +238,14 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   *Parent does:* Crumble the soil and spread one tumbler of it on plate A, about as thick as a fingertip. Do the same on plate B. Spread one handful of crushed leaves loosely over plate B. Spread another handful, with no soil, on plate C.  
   *Parent says:* Plate A is soil only. Plate B is the same soil with a loose blanket of crushed leaves on top. Plate C is the same leaves with no soil underneath. Only one thing changes at a time.  
   *Child mode:* Spread soil on plates A and B. Crush the leaves into small bits. Put a handful on plate B. Put a handful on plate C.
-  - Note: Crush the leaves to pieces about the size of a postage stamp, and keep them loose. Whole leaves laid flat can act like roof tiles and send the water off. If you have no dry leaves, use dried used tea leaves. Do not press the soil down hard.
+  - Note: Crush the leaves to pieces about the size of a postage stamp, and keep them loose. Whole leaves laid flat can act like roof tiles and send the water off. If you have no dry leaves, use dried used tea leaves. Do not press the soil down hard. If the soil slides down the tilted plate in one lump, spread it thinner and tap it flat with the back of a spoon, the same on plates A and B.
   - Check: Why do we keep one plate with soil only? → **It is the starting point to compare with**
 - **s3 (12 min)**  
   *Parent does:* Lift one edge of plate A on the stack of books. Put a labelled glass under the other edge, with a paper chute. Hold the strainer 10 centimetres above the plate. Pour 200 millilitres slowly over 30 seconds, moving the strainer back and forth. Count the seconds until the first drop reaches the glass. Repeat for plates B and C, one at a time, each with its own glass. Measure each glass and write it in the table.  
   *Parent says:* We pour 200 millilitres of pretend rain, slowly, over 30 seconds. Watch what the water does. Count the seconds before the first drop falls into the glass. Then wait two minutes for the dripping to stop, and measure.  
   *Child mode:* Pour 200 millilitres slowly through the strainer. Count the seconds until the first drop. Wait two minutes. Measure the water in the glass.
   - Ask: What do you see the water doing on each plate? (good: On plate A the water runs off fast and is brown.; On plate B the water seems to disappear into the leaves.; On plate C the water slides off the leaves.)
-  - Note: Pour the same way each time, at the same height, with the plate at the same slope. If water pools behind the rim instead of flowing out, tilt the plate a little more. Write what you see even if it surprises you. On plate A the water often arrives first and is brown. On plate B it often arrives later and is clearer.
+  - Note: Pour the same way each time, at the same height, with the plate at the same slope. If water pools behind the rim instead of flowing out, tilt the plate a little more. Write what you see even if it surprises you. On plate A the water often arrives first and is brown. On plate B it often arrives later and is clearer. If the soil is very dry and the water beads up and rolls off every plate, sprinkle a spoon of water on plates A and B and wait five minutes before you start, the same on both. Numbers differ from home to home, so compare your own three plates, not other people's. Two to four children: one pours, one times the seconds to the first drop, one holds the glass and the chute, one measures and writes. Swap roles for each plate. One child alone does the same jobs in order, and the parent holds the chute.
   - Check: Why do we pour the same amount, from the same height, on each plate? → **So that any difference comes from what is on the plate**
 - **s4 (10 min)**  
   *Parent does:* Pour away the first glasses, or set them aside. Use a clean glass for each plate. Pour a second rain of 200 millilitres on plate A, then B, then C, in the same way. Wait two minutes after each. Measure each glass and write it in the table.  
@@ -283,7 +283,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   *Parent does:* In a bowl, mix all the soil with the 12 tablespoons of water until it is evenly damp, like a wrung-out cloth. Fill each cup with this soil to 6 centimetres. Leave cup A bare. Cover cup B with a layer of crushed leaves about 1 centimetre thick. Cover cup C with a layer about 3 centimetres thick. Put all three side by side in a sunny place. Do the first stick test.  
   *Parent says:* Same soil, same water, same sun. Only the covering is different. To test how dry the soil is, we push a stick to the bottom, pull it out and measure the pale part.  
   *Child mode:* Fill the cups with soil. Add water. Cover B a little and C a lot. Put them in the sun.
-  - Note: To do a stick test, push a clean stick straight down to the bottom of the cup. Pull it out. Damp soil makes the stick dark and dry soil leaves it pale. Measure the pale part of the stick, from the soil line down to where it turns dark, in centimetres, and write it in the table. On day 1 it should be 0 for all the cups. Use a new stick for every reading, or wipe the stick dry.
+  - Note: To do a stick test, push a clean stick straight down to the bottom of the cup. Pull it out. Damp soil makes the stick dark and dry soil leaves it pale. Measure the pale part of the stick, from the soil line down to where it turns dark, in centimetres, and write it in the table. On day 1 it should be 0 for all the cups. Use a new stick for every reading, or wipe the stick dry. Push the stick in at a new spot near the edge each day, and lift the leaves aside rather than pulling them off. For a covered cup, measure the pale part from the soil surface under the leaves. Two to four children: each child looks after one cup, or two children share a cup and take turns to push and to measure. Alone, you do all three cups. If it rains a lot or the air is very damp, put the cups where the sun reaches, and out of the rain. If all three cups still stay dark after five days, write that down. It is a result. Carry on for five more days, or move the cups to a warmer, sunnier place, and see which cup begins to pale first. Dry weather gives clearer results than monsoon days.
   - Check: Why do all the cups get exactly the same water and the same sun? → **So that only the cover is different**
 - **s3 (4 min)**  
   *Parent does:* At the same time as yesterday, do the stick test on each cup with a clean stick. Measure the pale part. Write it in the table for day 2. Look at the soil and the leaves.  
@@ -325,7 +325,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   *Parent says:* What do you see? What do you hear? Is anything moving? Is anything chewed, dropped, built or dug? Write it all down.  
   *Child mode:* Look and listen. Write down everything alive, and every sign of life. Draw your favourite.
   - Ask: Which of your things are living beings, and which are signs? (good: The crow is a living being. The feather is a sign.; The ants are living beings. The line on the wall is a sign.; The nibbled leaf is a sign.)
-  - Note: Do not tell your child what they should find. Accept anything that they notice. Ask for a second look at a leaf or a wall corner.
+  - Note: Do not tell your child what they should find. Accept anything that they notice. Ask for a second look at a leaf or a wall corner. Two to four children: each sits at a different side of the window or balcony with their own notebook, then everyone compares lists and finds things only one child saw. If your list is short, count plants, sounds, and signs such as a feather or a web.
 - **s3 (4 min)**  
   *Parent does:* Choose three pairs from the list. For each pair, draw an arrow from the one who gives to the one who gains. Then write the link: food, shelter, making new plants, travel, clean-up or changing the place.  
   *Parent says:* Pick two things from your list. Does one need the other? What does she get from the other one? Draw an arrow, and name the link.  
@@ -344,7 +344,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   *Parent says:* What is on the bark? What is on the leaves? Who visits the flowers or fruit? What lies on the ground? What flies near her?  
   *Child mode:* Look at one box for three minutes. Draw each kind you find.
   - Ask: Which part of the tree had the most different visitors? (good: The flowers or the fruit.; The bark, with ants and beetles.; The ground, with ants and fallen leaves.)
-  - Note: Count kinds, not numbers. Ten ants are one kind. Accept 'a small black beetle' as a kind. If it is quiet, wait. Visitors often come after you are still for a few minutes.
+  - Note: Count kinds, not numbers. Ten ants are one kind. Accept 'a small black beetle' as a kind. If it is quiet, wait. Visitors often come after you are still for a few minutes. Two to four children: give each child one or two boxes to start, then swap and add what the others missed. One child alone does all five boxes in turn. Keep away from ants' nests and bee hives, and wash hands afterwards.
 - **s3 (5 min)**  
   *Parent does:* Draw the tree. Add an arrow for each visitor and write the link. Then ask your child what would be lost if the tree were cut.  
   *Parent says:* Draw an arrow for each visitor, and name the link. If this tree were cut down, who would lose something?  
@@ -363,7 +363,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   *Parent says:* What was the rule? Who taught it to you? What do you think it looks after? Do people still keep it today?  
   *Child mode:* Ask your three questions. Write down what you hear.
   - Ask: What does the rule look after? (good: A tree, a pond or an animal.; The soil or the water.; Food for the next season.)
-  - Note: Listen without correcting. Some rules are about belief, and some are about practice. Both are worth hearing.
+  - Note: Listen without correcting. Some rules are about belief, and some are about practice. Both are worth hearing. Several children can ask the same elder together, taking turns with the three questions, or each ask a different elder and bring the answers back to compare. If no elder is near, a neighbour, a teacher or a relative on a phone call will do.
 - **s3 (10 min)**  
   *Parent does:* Draw the rule and what it looks after. Ask: does it take only what grows back? Does it keep a link in the web, such as shelter, clean-up or food? Does science tell us why it works?  
   *Parent says:* Does this rule take only what grows back? Which link does it protect? Is there a reason that science can see?  
@@ -375,10 +375,10 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 - **safety:** Do not eat the beans, and do not put them in your mouth. Raw rajma is harmful to eat, and small beans can make a young child choke. Keep them away from little brothers and sisters.
 - **record:** For each round, write the number of beans in the pond at the start, the number each player took, the number left and the number added. Add up each player's score at the end.
 - **s1 (6 min)**  
-  *Parent does:* Put 20 beans in the bowl. The bowl is the pond and each bean is a fish. Keep 20 beans in the spare cup. Read the rules: each round, every player secretly writes a number from 0 to 5. All reveal together and take that many beans. Then count what is left. For every 2 beans left, add 1 from the spare cup. The pond never holds more than 20. Each bean you take is 1 point.  
+  *Parent does:* Put 20 beans in the bowl. The bowl is the pond and each bean is a fish. Keep 20 beans in the spare cup. Read the rules: each round, every player secretly writes a number from 0 to 5. All reveal together and take that many beans. Then count what is left. For every 2 beans left, add 1 from the spare cup. The pond never holds more than 20. Each bean you take is 1 point. If the players ask for more beans than the pond holds, they take in turn until it is empty. A pond with only 1 bean left adds none.  
   *Parent says:* This is our village pond. Each round, each of us secretly writes how many fish to take, from 0 to 5. Then the pond grows back by a rule. For every 2 fish left, 1 new fish is born. Play eight rounds, or until the pond is empty.  
   *Child mode:* The bowl is a pond. Each bean is a fish. Write 0 to 5. Take your fish. Count what is left.
-  - Note: Playing alone: play against the Village. The Village takes 4 beans every round. You choose how many to take. In game 2, the Village takes only 2 beans every round.
+  - Note: Playing alone: play against the Village. The Village takes 4 beans every round. You choose how many to take. In game 2, the Village takes only 2 beans every round. Two or three players: each writes 0 to 5. Four players: each writes 0 to 3, so the pond can last. Beans are only counters, so any small dry thing works, such as pebbles or buttons, and then there is no food-safety worry. A total of about 6 taken each round is what a pond that holds 20 can bear. Do not tell the children this number. Let them find it.
 - **s2 (12 min)**  
   *Parent does:* Play game 1 with no talking. Write each round in the table. Stop after eight rounds, or when the pond is empty. Add up each player's score.  
   *Parent says:* Game 1, no talking. Write your number. Reveal. Take your fish. Count what is left, and add the new fish.  
@@ -398,33 +398,33 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   - Think: If the pond could take 6 fish a round, how should we share the 6?
 
 ## Projects
-### p1 · Grow a Root Mat: do living roots hold soil? (57 min, 7 days)
-- **safety:** Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Wash your hands after touching soil. Keep the plate away from the edge of a sill. Methi can upset a child who is allergic to it, so an adult decides if your child should handle it.
-- **record:** Draw the plate on day 1 and on day 7. Write the seconds to the first drop, the millilitres that ran off and how muddy the water was. Put them next to your plate A numbers.
-- **schedule:** day 1: Spread the soil on the plate. Scatter the methi seeds and press them in. Sprinkle water. (15 min); day 2: Sprinkle a little water so the soil stays damp. Look for sprouts. (3 min); day 3: Sprinkle a little water. Measure the tallest sprout. (3 min); day 4: Sprinkle a little water. Draw what you see. (3 min); day 5: Sprinkle a little water. Look at the roots at the edge of the plate. (3 min); day 6: Sprinkle a little water. Stop watering after today. (3 min); day 7: Run the rain test on the root mat. Compare with plate A from the Forest Floor Test. Explain. (27 min)
-- **s1 (15 min)**  
-  *Parent does:* Spread one tumbler of soil on the plate, about as thick as a fingertip. Scatter the methi seeds evenly. Press them in lightly. Sprinkle water until the soil is damp. Put the plate in a light place.  
+### p1 · Grow a Root Mat: do living roots hold soil? (63 min, 7 days)
+- **safety:** Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Wash your hands after touching soil. Keep the plate away from the edge of a sill. Methi can upset a child who is allergic to it, so an adult decides if your child should handle it. Wash your hands after the rain test.
+- **record:** Draw the root mat plate on day 1 and on day 7. For both plates, write the seconds to the first drop, the millilitres that ran off and how muddy the water was.
+- **schedule:** day 1: Spread soil on two plates. Scatter the methi seeds on one. Sprinkle both with water. (18 min); day 2: Sprinkle a little water so the soil stays damp. Look for sprouts. (3 min); day 3: Sprinkle a little water. Measure the tallest sprout. (3 min); day 4: Sprinkle a little water. Draw what you see. (3 min); day 5: Sprinkle a little water. Look at the roots at the edge of the plate. (3 min); day 6: Sprinkle a little water. Stop watering after today. (3 min); day 7: Run the rain test on the root mat and on the bare plate. Compare. Explain. (30 min)
+- **s1 (18 min)**  
+  *Parent does:* Soak the methi seeds in water overnight if you can. Spread one tumbler of soil on each plate, about as thick as a fingertip. On plate 1, scatter the methi seeds evenly and press them in lightly. Leave plate 2 bare, as the comparison. Sprinkle both plates with the same amount of water until the soil is damp. Put both in the same light place.  
   *Parent says:* Today we plant a mat of tiny plants on a plate of soil. In a week we will pour rain on it, the same rain as before. What do you think the roots will do?  
   *Child mode:* Spread soil. Scatter seeds. Sprinkle water. Put the plate in the light.
   - Ask: What do you think will happen when rain falls on a plate full of roots? (good: The roots will hold the soil.; Less mud will wash away.; The water will soak in.)
-  - Note: Methi seeds sprout in two or three days at room temperature. Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Keep the soil damp, not soaked. If your home is cold, put the plate near a window.
+  - Note: Methi seeds sprout in two or three days at room temperature. Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Keep the soil damp, not soaked. If your home is cold, put the plate near a window. Two to four children: each pair of children grows their own pair of plates, or one pair of plates is shared and the children take turns to water and to measure. Methi usually sprouts in two to three days in warm weather, and may take longer in the cold.
 - **s2 (3 min)**  
-  *Parent does:* Sprinkle a little water on the plate. Look at the sprouts. On one day, measure the tallest one with a ruler. On another, draw what you see.  
+  *Parent does:* Sprinkle the same little water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another, draw what you see.  
   *Parent says:* What has changed since yesterday? Are the roots visible at the edge of the plate?  
   *Child mode:* Sprinkle a little water. Look at the sprouts. Draw or measure them.
   - Note: Water for the last time on day 6, so the soil is damp but not wet on day 7.
   - Wait: Come back tomorrow, for days 2 to 6.
-- **s3 (20 min)**  
-  *Parent does:* Tilt the root mat plate on the books, as before. Put a glass under the low edge, with a paper chute. Pour 200 millilitres through the strainer over 30 seconds. Note the seconds to the first drop. Measure the runoff and look at the colour. If you did not keep plate A's numbers, test a fresh bare plate beside it.  
-  *Parent says:* This is the same rain, on the same slope, as before. Count the seconds to the first drop. Then we measure what runs off and look at the colour.  
-  *Child mode:* Tilt the plate. Pour rain slowly. Count seconds. Measure the runoff. Look at the colour.
-  - Ask: How is this runoff different from plate A? (good: There is less mud.; It took longer for the first drop.; There is less water.)
-  - Note: Expect much clearer water than plate A, and often less of it. If the sprouts are patchy, that is a result too. A thin mat still holds more soil than none.
+- **s3 (23 min)**  
+  *Parent does:* Tilt plate 1, the root mat, on the books. Put a glass under the low edge, with a chute of foil or thin plastic. Pour 200 millilitres through the strainer over 30 seconds. Note the seconds to the first drop. Measure the runoff and look at the colour. Then do exactly the same with the bare plate 2. Compare the two.  
+  *Parent says:* This is the same rain, on the same slope, on two plates that were watered the same. Only one has roots. Count the seconds to the first drop. Then we measure what runs off and look at the colour.  
+  *Child mode:* Tilt the plate. Pour rain slowly on the mat, then on the bare plate. Count seconds. Measure the runoff. Look at the colour.
+  - Ask: How is this runoff different from the bare plate? (good: There is less mud.; It took longer for the first drop.; There is less water.)
+  - Note: The roots often make the water clearer than the bare plate gives, but not always. The plate numbers also differ from the Forest Floor Test, because this soil is damp, so compare plate 1 with plate 2, not with the old table. If the sprouts are patchy, that is a result too. A thin mat still holds more soil than none.
   - Check: What do the roots of a plant do for the soil on a slope? → **They grip the soil and make tunnels for water**
 - **s4 (7 min)**  
-  *Parent does:* Put your Root Mat numbers next to your plate A numbers. Ask your child to say what they thought, what they saw and why. Ask what a hillside with no plants would lose in a heavy monsoon.  
+  *Parent does:* Put your Root Mat numbers next to your bare plate numbers. Ask your child to say what they thought, what they saw and why. Ask what a hillside with no plants would lose in a heavy monsoon.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Compare the mat with plate A. Say what you thought, saw, and why.
+  *Child mode:* Compare the mat with the bare plate. Say what you thought, saw, and why.
   - Note: A strong answer says that the roots held the soil, so the water was clearer, and that the plants also shaded the soil. After they have said it, explain: roots and fine root hairs grip soil crumbs, and the tunnels they leave let water sink in. This is why hill farmers plant grass and trees on slopes.
   - Think: A bare hillside has no roots. What would the monsoon do to it?
 

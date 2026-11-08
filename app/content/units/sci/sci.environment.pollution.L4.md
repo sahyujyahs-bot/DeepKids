@@ -235,6 +235,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show things in dirty water. Each player gets three tokens. We guess whether a net, a cloth, or neither can take it out.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
+  - Note:  Cutting 36 pieces takes a while, and young children need care with scissors, so a parent can cut the cards while the child cuts the tokens. With 2 to 4 players, one child reads at a time. Alone, play both parts.
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. After each card, read the back aloud. Ask the question below after the third card.  
   *Parent says:* The reader reads the front. Everyone else picks a token. Turn the tokens over together. Now the reader reads the back. Who scored?  
@@ -257,7 +258,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ### e1 · Gone from Sight: where do the colour and the smell stop? (36 min)
 - **question:** If we thin coloured, scented water again and again, in which tumbler does the colour stop showing to the eye, and in which does the smell stop showing to the nose? Is the colour gone when we can no longer see it?
 - **predict:** Before you start, guess. In which tumbler will the colour vanish? In which will the smell vanish? Which goes first? Why do you think so?
-- **fair test:** Every tumbler holds the same 200 millilitres of clean water, and every step uses one level teaspoon. Tumbler 0 is the control: no colour and no essence. Each tumbler is looked at in the same light, on the same white paper. In the sniff test, a die picks where the odd cup goes, the child's eyes are shut, and each tumbler is tried three times, because one try can be a fluke.
+- **fair test:** Every tumbler holds the same 200 millilitres of clean water, and every step uses one level teaspoon. Tumbler 0 is the control: no colour and no essence. Each tumbler is looked at in the same light, on the same white paper. In the sniff test, a die picks where the odd cup goes, the child's eyes are shut, and tumblers 2, 3 and 4 are each tried three times, because one try can be a fluke. Rest your nose for a minute between rounds.
 - **safety:** Do not drink or taste anything in the tumblers. Food essence is strong, so keep it away from eyes and from small children. Wash hands afterwards.
 - **record:** Fill in the table. Then draw the five tumblers in a row and colour each one as you saw it. Mark the tumbler where the colour stopped and the tumbler where the smell stopped.
 - **results table:** Tumbler | How much weaker than tumbler 1 | Can you see colour? (yes or no) | Sniff trial 1 (right or wrong) | Trial 2 | Trial 3
@@ -271,7 +272,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Label five tumblers 0 to 4 with a marker or a sticker. Pour 200 millilitres of clean water into each. Leave tumbler 0 plain. Add 5 drops of food colour and 1 teaspoon of essence to tumbler 1. Stir well.  
   *Parent says:* Pour clean water into all five tumblers, 200 millilitres each. Tumbler 0 stays plain. It is our control, the water we compare with. Into tumbler 1 go five drops of colour and one teaspoon of essence. Stir it well.  
   *Child mode:* Pour 200 millilitres of water into each tumbler. Leave tumbler 0 plain. Put the colour and essence into tumbler 1. Stir.
-  - Note: Any food essence works, for example vanilla, rose or kewra. A fresh bottle is stronger than an old one. Level the teaspoon with a knife. If you have no food colour, use two tablespoons of strong tea that has cooled.
+  - Note: Any food essence works, for example vanilla, rose or kewra. A fresh bottle is stronger than an old one. Level the teaspoon with a knife. If you have no food colour, use two tablespoons of strong tea that has cooled. With 2 to 4 children: one pours and labels, one stirs and measures with the spoon, and everyone swaps for the next tumbler. A level spoon is 5 millilitres. If you have no measuring spoon, a clean medicine cap or a steel teaspoon levelled with a knife is close enough. The sniff cups need no extra kit; steel katoris are fine if they are washed with no soap smell.
   - Check: Why does tumbler 0 get no colour and no essence? → **So we have plain water to compare with**
 - **s3 (6 min)**  
   *Parent does:* Take one level teaspoon from tumbler 1 and stir it into tumbler 2. Rinse the spoon. Take one teaspoon from tumbler 2 into tumbler 3. Stir and rinse. Take one teaspoon from tumbler 3 into tumbler 4. Stir and rinse.  
@@ -286,17 +287,17 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Ask: Look at the first tumbler with no colour. Is the colour really gone? (good: It looks gone, but I am not sure.; It is just too thin for me to see.; I think it is still in there.)
   - Note: Do not hurry. Hold tumbler 0 right beside each tumbler. Some children say 'no colour' as soon as the colour is very pale. Write what they see, even if it is not what they guessed.
 - **s5 (10 min)**  
-  *Parent does:* Set out three identical small cups. Pour 2 tablespoons from tumbler 0 into two of them. Pour 2 tablespoons from tumbler 3 into the third. Roll a die to pick the place of the odd cup. A 1 or 2 means left, 3 or 4 means middle, and 5 or 6 means right. Your child shuts their eyes, sniffs all three and points to the one that smells. Write right or wrong. Do three trials, then repeat with tumbler 4.  
-  *Parent says:* Close your eyes. I will put three cups in front of you. Two are plain water and one is from tumbler 3. Sniff each one. Point to the one that smells. Do not tell me why until the end.  
+  *Parent does:* Set out three identical small cups. Pour 2 tablespoons from tumbler 0 into two of them. Pour 2 tablespoons from tumbler 2 into the third. Roll a die to pick the place of the odd cup. A 1 or 2 means left, 3 or 4 means middle, and 5 or 6 means right. Your child shuts their eyes, sniffs all three and points to the one that smells. Write right or wrong. Do three trials with tumbler 2, then three with tumbler 3, then three with tumbler 4.  
+  *Parent says:* Close your eyes. I will put three cups in front of you. Two are plain water and one is from tumbler 2. Sniff each one. Point to the one that smells. Do not tell me why until the end. Then we try tumbler 3, and then tumbler 4.  
   *Child mode:* Close your eyes. Sniff the three cups. Point to the one that smells. Then we do it again.
   - Ask: How sure are you? Did you smell it, or guess? (good: I smelled something faint.; I guessed.; One cup was different, but I cannot say how.)
-  - Note: Do not look at the child, and give no hints with your face. Roll the die again for each trial, so the odd cup moves around. Rinse and dry the cups between trials. If even tumbler 2 has no smell, your essence is weak. Write that down and compare tumbler 2 with tumbler 0 instead.
+  - Note: Do not look at the child, and give no hints with your face. Roll the die again for each trial, so the odd cup moves around. Rinse and dry the cups between trials. Tumbler 2 is the easy warm-up and most noses find it. Tumbler 3 is near the edge: some noses find it and some do not, and tumbler 4 is usually too weak for anyone. Rose and kewra essence are stronger than vanilla, and a fresh bottle is stronger than an old one. If even tumbler 2 has no smell, your essence is weak, so write that down and compare tumbler 1 with tumbler 0 instead. With several children, each takes a turn as the sniffer while another rolls the die and arranges the cups, and the others stay out of sight. Where your child's nose stops is the result, whichever tumbler it is.
   - Check: Three cups, and only one has the scent. If a child just guesses, how often will they point to the right cup? → **1 time in 3**
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three things. What I thought. What I saw and smelled. Why I think it happened. Then read the parent note together.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see and smell? Why do you think the colour and the smell stopped where they did?  
   *Child mode:* Say three things. What did you think? What did you see and smell? Why did it happen?
-  - Note: A strong answer says that the colour was too thin for the eyes by tumbler 3 or 4, while the nose could still find the scent. So tumbler 3 was not plain water. After the child has said this, add that a chemist's instrument can go on finding things long after the nose gives up. Neither eyes nor nose are measuring tools.
+  - Note: A strong answer says that the colour was too thin for the eyes by tumbler 3 (often by tumbler 2 on a white background), while the nose could still find the scent in tumbler 2 and sometimes in tumbler 3. So the eyes gave up before the nose did, and tumbler 3 was not plain water even though it looks like it. If your child's nose gave up at tumbler 2, say that it just means the scent was thinner for that nose. Each tumbler is far more than 41 times thinner than the first, so the stuff is certainly still there. After the child has said this, add that a chemist's instrument can go on finding things long after the nose gives up. Neither eyes nor nose are measuring tools.
   - Check: Suppose a tumbler of thinned scented water looks like plain water, but a nose picks it out three times out of three. What does this show? → **The scent is still there. The eyes stopped finding it before the nose did.**
   - Think: Tumbler 3 looks like plain water. Is it plain water?
 - **s7 (2 min)**  
@@ -309,7 +310,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **question:** A tumbler of water looks almost clear. If a paper strip hangs in it overnight, does the strip collect the hidden colour near its top? What about a tumbler where you saw no colour at all?
 - **predict:** Before you start, guess. In which tumbler will the strip show colour in the morning? In which will it show none? Why do you think so?
 - **fair test:** The three tumblers each hold 200 millilitres. The strips are the same paper, the same size, and dip the same 2 centimetres. One tumbler holds plain water, as the control. The tumbler marked 'tint' is the last one in which you could see a faint colour. The tumbler marked 'none' is the first one in which you saw no colour. All three stand in the same place overnight.
-- **safety:** Do not drink the water. Make the tumblers again if you did the first test more than a day ago.
+- **safety:** Do not drink the water. Wash hands after handling the coloured strips. Make the tumblers again if you did the first test more than a day ago.
 - **record:** Write what each strip looks like in the morning, and measure how high any colour has climbed. Draw the three strips side by side.
 - **results table:** Tumbler | What it held | Colour on the strip? (none, faint or clear) | Height of the colour from the water (cm)
 - **schedule:** day 1: Guess. Make the three tumblers if needed. Hang the strips and leave them overnight in a breezy spot. (15 min); day 2: Take out the strips. Compare them. Measure where any colour has climbed. Say what you found and why. (10 min)
@@ -320,23 +321,23 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Ask: Why do you think that strip will show colour? (good: Water climbs up the paper and leaves the colour behind.; The paper drinks the colour.; I am not sure, so let us test it.)
   - Note: Do not correct the guess. Write it down. Use the tumblers from the Gone from Sight test, or make a new row of five and use tumbler 0, the last tint and the first one with no colour.
 - **s2 (8 min)**  
-  *Parent does:* Cut three strips, 2 centimetres wide and 15 centimetres long. Tape the top of each strip to a pencil. Rest each pencil across a tumbler so that the strip dips 2 centimetres in the water. Mark the water level with the marker. Write the labels plain, tint and none on the tumblers.  
+  *Parent does:* Cut three strips, 2 centimetres wide and 12 centimetres long. Tape the top of each strip to a pencil. Rest each pencil across a tumbler so that the strip dips 2 centimetres in the water. Mark the water level with the marker. Write the labels plain, tint and none on the tumblers.  
   *Parent says:* Tape each strip to a pencil. Lay the pencil across the tumbler. The strip should just dip into the water, about two centimetres. Label the tumblers plain, tint and none.  
   *Child mode:* Tape a strip to a pencil. Lay the pencil across a tumbler. Dip the strip 2 centimetres. Label the tumblers.
-  - Note: The strip must hang free and not touch the glass. If it touches, the water can creep down the glass instead. Make sure all three strips are cut from the same sheet of paper.
+  - Note: The strip must hang free and not touch the glass. If it touches, the water can creep down the glass instead. Make sure all three strips are cut from the same sheet of paper. With 2 to 4 children, each child can cut, tape and hang one strip, and the fourth child can read out the labels. If you have a spare strip, hang it in the strong tumbler 1 as a sure-to-work comparison.
   - Check: Why do all three strips dip the same 2 centimetres? → **So the only difference is the water in the tumbler**
 - **s3 (3 min)**  
   *Parent does:* Put the three tumblers on a plate in a breezy place, such as by a window or in a gentle fan's breeze. Leave them overnight. Do not move them.  
   *Parent says:* Put the tumblers somewhere with moving air, by a window or in the breeze of a slow fan. Leave them overnight. We will look in the morning.  
   *Child mode:* Put the tumblers in a breezy spot. Leave them overnight. Do not touch them.
-  - Note: Moving air makes the water dry off the strip faster. As water dries off the top of the strip, more climbs up to replace it and brings its colour along. The colour stays when the water leaves.
+  - Note: Moving air makes the water dry off the strip faster. As water dries off the top of the strip, more climbs up to replace it and brings its colour along. The colour stays when the water leaves. In damp or rainy weather the strip dries off slowly, so put the tumblers right in front of a fan and give them 24 hours instead of overnight. If the strip has dried out completely and never climbed, check that it dips into the water.
   - Wait: Leave it overnight, for at least 8 hours.
 - **s4 (6 min)**  
   *Parent does:* Take out the strips and lay them side by side on a white plate. Look for colour near the top of each one. Write none, faint or clear. Measure the height of any colour from the water line. Look at each tumbler again beside the plain one.  
   *Parent says:* Lay the three strips side by side. Is there colour on any of them? Where is it? Write none, faint or clear for each one.  
   *Child mode:* Lay the strips side by side. Is there colour? Where? Write none, faint or clear.
   - Ask: Which strip has the most colour? Why do you think that is? (good: The one from the tint tumbler.; The paper collected it as the water dried.; The strip from the plain water has none.)
-  - Note: Food colour often climbs as a band, and some colours split into two bands. The strip from the 'none' tumbler may show a very faint colour or nothing. Both are good results. Write what you really see.
+  - Note: Food colour often climbs as a band, and some colours split into two bands. Expect the strip from the 'tint' tumbler to show a pale but clear band near the top, even though the water in the tumbler looks almost clear. The strip from the 'none' tumbler is much harder: it may show a very faint tinge or nothing at all. Both are honest results, and nothing at all means the colour there was too thin even for a strip in one night. If even the 'tint' strip stays white, your colour was weak, so leave the strips for another night or make the tint with more drops.
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say what they thought, what they found and why. Then read the note together.  
   *Parent says:* Tell me three things. What did you think? What did you find on the strips? Why do you think the colour ended up there?  
@@ -346,10 +347,10 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ### e3 · Oil Spill Race: which tool clears the most oil? (33 min)
 - **question:** Which of five tools clears the most oil from a bowl of water in two minutes: a spoon, a paper towel, cotton wool, a tuft of hair or a drop of dishwash liquid? Does any of them leave the water truly oil-free?
 - **predict:** Before you start, guess. Which tool will clear the oil best, and which will do worst? Will any tool leave the water oil-free? Why do you think so?
-- **fair test:** Six bowls each hold 300 millilitres of water and 1 tablespoon of the same oil. One bowl is left alone, as the control. Each tool works for exactly two minutes by the timer, and the same person works every tool. Afterwards a strip of brown paper is dipped in each bowl and left to dry. Oil leaves a see-through spot on paper, and plain water does not.
-- **safety:** Oil on the floor is slippery, so work on a tray over newspaper. Never pour oily water down the sink, because oil blocks pipes and is hard to clean. Pour it into an old container. Wipe the bowls with paper and put the paper in the dustbin. Keep dishwash liquid away from eyes, and wash hands after.
+- **fair test:** Six bowls each hold 300 millilitres of water and 1 tablespoon of the same oil. One bowl is left alone, as the control. Each tool works for exactly two minutes by the timer, and the same person works every tool. Afterwards a sample of water from just below the surface of each bowl is dropped on brown paper and left to dry. Oil leaves a see-through spot on paper, and plain water does not.
+- **safety:** Oil on the floor is slippery, so work on a tray over newspaper. Never pour oily water down the sink, because oil blocks pipes and is hard to clean. Pour it into an old container. Wipe the bowls with paper and put the paper in the dustbin. Keep dishwash liquid away from eyes, and wash hands after. If anyone is allergic to groundnut, use sunflower or mustard oil and keep the hair and cotton away from faces. Do not suck on the straws.
 - **record:** Fill in the table. Score the shine by looking at each bowl from a low angle, with light behind it. Compare it with the control bowl, which scores 5.
-- **results table:** Bowl | Tool | Shine left after 2 minutes (0 none, 5 as much as the control) | Oil spot on the paper? (yes or no)
+- **results table:** Bowl | Tool | Shine left after 2 minutes (0 none, 5 as much as the control) | Oil spot on the paper from the water below the surface? (none, faint or clear)
 - **s1 (3 min)**  
   *Parent does:* Show the six bowls and the five tools. Explain that each tool gets two minutes. Write down your child's guess and the reason for it.  
   *Parent says:* We will spill oil on six bowls of water, and then clear it with five different tools. One bowl is left alone. Which tool will clear the oil best? Which will do worst? Will any tool leave the water oil-free? Why do you think so?  
@@ -363,11 +364,11 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Ask: What does the oil do when it hits the water? (good: It floats.; It spreads out into a round patch.; It does not mix.)
   - Note: Pour the oil slowly onto the middle of the water. Oil floats because it is lighter than water, and it does not mix with water. Over a minute it spreads into a thin round patch.
 - **s3 (10 min)**  
-  *Parent does:* Start the timer for bowl 1. Skim with the spoon for exactly two minutes. Stop. Then do bowl 2 with the paper towel, dabbing and replacing the squares. Do bowl 3 with cotton wool and bowl 4 with the tuft of hair. For bowl 5, add 3 drops of dishwash liquid and stir once gently. Leave bowl 6 alone.  
-  *Parent says:* Time two minutes for each bowl. Bowl 1, the spoon. Bowl 2, paper towel. Bowl 3, cotton wool. Bowl 4, hair. Bowl 5, three drops of dishwash liquid and one gentle stir. Do not touch bowl 6.  
+  *Parent does:* Start the timer for bowl 1. Skim with the spoon for exactly two minutes. Stop. Then do bowl 2 with the paper towel, dabbing and replacing the squares. Do bowl 3 with cotton wool and bowl 4 with the tuft of hair. For bowl 5, add 3 drops of dishwash liquid and stir with the spoon for 10 seconds. Leave bowl 6 alone.  
+  *Parent says:* Time two minutes for each bowl. Bowl 1, the spoon. Bowl 2, paper towel. Bowl 3, cotton wool. Bowl 4, hair. Bowl 5, three drops of dishwash liquid and a ten-second stir. Do not touch bowl 6.  
   *Child mode:* Two minutes per bowl. Use the tool on its bowl. Do not touch bowl 6.
   - Ask: What do you notice about the oil in bowl 5 after the dishwash liquid? (good: It breaks into lots of little drops.; It moved to the sides.; The water looks cloudy.)
-  - Note: Use the same effort for each tool. Dishwash liquid usually pushes the oil to the edges first, and then breaks it into small drops that spread through the water. Squeeze the paper towel and cotton wool over the spare container, not over the bowls.
+  - Note: Use the same effort for each tool. Dishwash liquid usually pushes the oil to the edges first, and the stirring then breaks it into small drops that spread through the water. Squeeze the paper towel and cotton wool over the spare container, not over the bowls. With 2 to 4 children: one child works the tools one after another, one keeps the timer, one scores and writes. If you want every child to try, repeat with fresh bowls and swap jobs; the scores will differ a little, and that is worth talking about.
 - **s4 (3 min)**  
   *Parent does:* Look across each bowl from a low angle, with a window behind it. Score the shine from 0 to 5. The control bowl scores 5. Write the numbers in the table.  
   *Parent says:* Look across each bowl from a low angle. How much shine is left on the water? Give it a score from 0 to 5. The control bowl is 5.  
@@ -375,16 +376,17 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Note: Scores are a judgement, so ask the same person to score every bowl. A thin rainbow film still counts as shine. A bowl with tiny drops all over scores more than a bowl with a clean surface.
   - Check: Why do we leave bowl 6 untouched? → **It shows how much shine there is with no tool at all**
 - **s5 (6 min)**  
-  *Parent does:* Dip one brown paper strip in each bowl for one second. Lay the strips on a plate and label them. Leave them to dry for five minutes. Then hold each strip up to the light and look for a see-through spot.  
-  *Parent says:* Dip a paper strip into each bowl, then lay it down to dry. Oil makes paper see-through. Water does not. Let us see which bowls still have oil in them.  
+  *Parent does:* Hold a clean straw shut with your thumb. Push it 3 centimetres under the surface in the middle of a bowl. Lift your thumb for a second, then close it. Lift the straw out and wipe the outside with a tissue. Let the water fall on one spot of the paper, twice. Label the spot with the bowl number. Use a new straw for every bowl. Let the paper dry for 15 to 20 minutes, near a fan if the air is damp. Then hold it up to the light and look for a see-through spot.  
+  *Parent says:* Take a little water from just under the surface of each bowl with a straw, and drop it on the paper. Oil makes paper see-through when it dries. Water does not. Let us see which bowls have oil down in the water, below the shine.  
   *Child mode:* Dip a paper strip in each bowl. Let it dry. Look for see-through spots.
   - Ask: A bowl looks clear, but its strip has a see-through spot. What does that tell us? (good: There is still oil in the water.; Our eyes cannot find it all.; The tool did not get all the oil.)
-  - Note: Even a very thin film will leave a faint spot. Most bowls will have a spot. That is the finding, not a failure. Bowl 5 often shows a spot because the oil is still there, mixed into the water as tiny drops.
+  - Note: Bowls 1 to 4 have oil only on top, so their paper usually stays plain, or shows only a faint spot. Bowl 5 is the surprise. The surface looks cleaner, but the stirred-in oil has been broken into tiny drops that sit in the water, so its paper usually shows a see-through spot. If bowl 5 shows no spot, stir longer and sample again. Do not skip the control: bowl 6 should show no spot, because its oil is all on top. Write what you really see.
+  - Wait: Leave the paper to dry for 15 to 20 minutes.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then read the note together.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the tools worked the way they did?  
   *Child mode:* Say what you thought, what you saw and why.
-  - Note: A strong answer says which tool left the least shine, and that the strips showed oil was left in every bowl, or in most. After the child has said this, explain that skimming and soaking take oil out. Dishwash liquid does not. It splits oil into tiny drops that spread through the water.
+  - Note: A strong answer says which tool left the least shine, and that the straw samples showed the oil in bowl 5 had not gone anywhere. After the child has said this, explain that skimming and soaking take oil out. Dishwash liquid does not. It splits oil into tiny drops that spread through the water, so the top looks clean while the water is not.
   - Think: Dishwash liquid made the surface look cleaner. Did it take the oil out of the water?
 - **s7 (2 min) · grown-up needed**  
   *Parent does:* Pour the oily water into the old container. Wipe the bowls with paper. Put the paper in the dustbin. Wash hands.  
@@ -411,7 +413,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Make the room dark. Hold the torch against the side of tumbler A. Look from the side, not into the light. Write what you see. Do the same for B and C.  
   *Parent says:* Make the room dark. Shine the torch through the side of each tumbler, and look at it from the side. Is there a glowing beam inside the water? Write beam, faint beam or no beam.  
   *Child mode:* Make the room dark. Shine the torch through each tumbler. Look from the side. Is there a beam?
-  - Note: Tumbler C should glow with a clear bluish streak. Tumbler B should look like tumbler A. Tap water may show a faint streak if it carries fine specks. That is a result too.
+  - Note: Tumbler C should glow with a clear bluish streak. Tumbler B should look like tumbler A. Tap water may show a faint streak if it carries fine specks. That is a result too. With 2 to 4 children: one holds the torch, one holds the tumbler still, and the others look from the side. Swap for each tumbler. If the room is not dark, a cupboard or the space under a blanket works too.
   - Check: In tumbler B the beam did not show, though there is salt in the water. What does this tell us? → **Dissolved salt is too small to scatter the light**
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say what they found and why. Ask what the torch can find and what it cannot.  
@@ -440,10 +442,10 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Note: Each big fish bowl holds 15 seeds. The big fish cannot get rid of the pollution, so the pollution stays and adds up.
   - Check: A big fish eats three small fish, and each small fish holds 5 seeds. How many seeds will the big fish hold? → **15 seeds**
 - **s4 (3 min)**  
-  *Parent does:* Tip both big fish bowls onto the plate. This is a person who eats two big fish. Count the seeds on the plate and write the number. Work out how many times more it is than one plankton square.  
+  *Parent does:* First ask your child to guess how many seeds will be on the plate. Then tip both big fish bowls onto the plate and count. Write the number. Work out how many times more it is than one plankton square.  
   *Parent says:* A person eats two big fish. Tip both bowls onto the plate. How many seeds are there now? How many times more than in one plankton square?  
   *Child mode:* Tip both big bowls onto the plate. Count the seeds. How many times more than one square?
-  - Note: The plate holds 30 seeds, which is 30 times as many as in one plankton square. In the real world, the pollutant in the water may be too thin to measure, and the fish at the top can still carry thousands of times more.
+  - Note: The plate holds 30 seeds, which is 30 times as many as in one plankton square. In the real world, the pollutant in the water may be too thin to measure, and the fish at the top can still carry thousands of times more. With 2 to 4 children, each takes a role: plankton keeper, small fish, big fish and person. Hand the seeds on in turn. Use black peppercorns or any dry bean, and count into a dish so seeds do not roll away.
 - **s5 (2 min)**  
   *Parent does:* Ask what would change if the fish could pass the pollution out of their bodies. Ask what a person could do to take in less.  
   *Parent says:* What would change if the fish could get rid of the pollution? Why is it a problem when the pollution is not broken down?  
@@ -459,7 +461,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent says:* Let us ask the caretaker four questions. Where does our used water go? Is it cleaned? Who looks after it? What happens to the clean water afterwards?  
   *Child mode:* Ask a grown-up where our used water goes. Is it cleaned? Who looks after it?
   - Ask: Where do you think our used water goes? (good: Into the river.; Into the ground.; To a plant that cleans it.)
-  - Note: Many large apartment blocks in Indian cities have a small treatment plant, and use the clean water for gardens and flushing. Other homes are linked to a sewer pipe under the road, or to a septic tank. In some places the drain ends in a stormwater drain or a nala. Write the answer you get, even if it is 'I do not know'.
+  - Note: Many large apartment blocks in Indian cities have a small treatment plant, and use the clean water for gardens and flushing. Other homes are linked to a sewer pipe under the road, or to a septic tank. In some places the drain ends in a stormwater drain or a nala. Write the answer you get, even if it is 'I do not know'. If you live in a house in a village or small town, ask a neighbour, the panchayat or ward office, or the mason who built the house. Many homes use a septic tank and a soak pit. With 2 to 4 children, each child asks one of the four questions and writes the answer.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* Walk round the building with the grown-up. Look for drain pipes, covers with writing, a small plant room, and signs. Draw what you see. Do not open any cover or tank.  
   *Parent says:* Walk round the building and look for pipes, covers and signs. Draw what you find. We do not open anything.  
@@ -485,7 +487,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Search for the water's name with the words water quality, and add the pollution control board of your state. Look for a table, a news story or a report. Write one number or fact, or write that you could not find one.  
   *Parent says:* Search for your water's name and the words water quality. What do you find? Is there a table or a report? Write one fact, or write that there is nothing to find.  
   *Child mode:* Search for the water's name and water quality. Write one fact you find.
-  - Note: Rivers in India are given a best-use class from A to E by the Central Pollution Control Board. Class A is drinking water after disinfection and Class B is outdoor bathing. Class E is only for irrigation and cooling. The reports are on the board's website at cpcb.nic.in. Many local waters have no report, and that is itself something to note. The data may be hard to read, so help your child find one fact.
+  - Note: Rivers in India are given a best-use class from A to E by the Central Pollution Control Board. Class A is drinking water after disinfection and Class B is outdoor bathing. Class E is only for irrigation and cooling. The reports are on the board's website at cpcb.nic.in. Many local waters have no report, and that is itself something to note. The data may be hard to read, so help your child find one fact. With 2 to 4 children, one searches, one reads the result aloud, and one writes the fact.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to write what this water is used for and what it is clean enough for. Ask what it may carry that cannot be seen.  
   *Parent says:* What is this water used for? Is it clean enough for that? What could it carry that we cannot see?  
@@ -495,9 +497,9 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 
 ## Projects
 ### p1 · Clay, Colour and the Bucket: what happens to a festival figure in water? (70 min, 4 days)
-- **safety:** Use only water-based paint that says non-toxic on the label, and a kumkum you know is safe for skin. Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths.
+- **safety:** Use only water-based paint that says non-toxic on the label, and a kumkum you know is safe for skin. Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths. Check that nobody is allergic to turmeric or the paint, and wear old clothes, because turmeric stains.
 - **record:** Draw the three figures and the three buckets on day 3 and day 4. Write what happened to each figure, and what colour the water was.
-- **schedule:** day 1: Shape three small figures or diyas from clay. Paint one with turmeric and kumkum paste, and one with poster paint. Leave the third plain. (30 min); day 2: Turn the figures over so that they dry on all sides. (5 min); day 3: Put each figure in its own bucket of water. Watch and write what happens every ten minutes for half an hour. (25 min); day 4: Look at the buckets. Let the mud settle and look at the water. Decide where each bucket's water should go. (10 min)
+- **schedule:** day 1: Shape three small figures or diyas from clay. Paint one with turmeric and kumkum paste, and one with poster paint. Leave the third plain. (30 min); day 2: Turn the figures over so that they dry on all sides. Leave them until they are hard and pale, 2 to 3 days, or longer in damp weather. (5 min); day 3: Put each figure in its own bucket of water. Watch and write what happens every ten minutes for half an hour. (25 min); day 4: Look at the buckets. Let the mud settle and look at the water. Decide where each bucket's water should go. (10 min)
 - **s1 (8 min)**  
   *Parent does:* Show the materials. Explain that at some festivals, people dip clay figures in water. Ask what will happen to each figure and to the water. Write down your child's guess and the reason.  
   *Parent says:* At some festivals, a clay figure is dipped in water at the end. We will test three figures: plain clay, clay with turmeric and kumkum, and clay with poster paint. What will happen to each? Why do you think so?  
@@ -509,7 +511,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent says:* Shape three lumps of clay into small figures, all the same size. Paint figure 2 with turmeric and kumkum paste. Paint figure 3 with poster paint. Leave figure 1 plain. Set them in a dry place.  
   *Child mode:* Shape three clay figures. Paint two. Leave one plain. Let them dry.
 - **s3 (5 min)**  
-  *Parent does:* Turn the figures over on day two so that they dry on every side. Check that no figure has cracked.  
+  *Parent does:* Turn the figures over on day two so that they dry on every side. Check that no figure has cracked. Keep drying until the clay is hard. This takes 2 to 3 days, or longer in monsoon weather.  
   *Parent says:* Turn the figures over today so that they dry all round.  
   *Child mode:* Turn the figures over. Let them dry.
 - **s4 (25 min)**  
@@ -517,12 +519,12 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent says:* Pour one litre of water into each bucket. Lower a figure into each one gently. Every ten minutes, look at each bucket and write what has happened.  
   *Child mode:* Put one figure in each bucket. Look every ten minutes. Write what you see.
   - Ask: What do you see coming off each figure? (good: Brown cloud from the clay.; Yellow or red colour from the paste.; Flakes from the paint.)
-  - Note: Unfired clay softens at its surface within the first hour, and its water goes cloudy. The turmeric and kumkum colour spreads into the water. Poster paint may colour the water too, and flakes of paint may float or sink. Results vary with the clay.
+  - Note: Unfired clay softens at its surface within the first hour, and its water goes cloudy. The turmeric and kumkum colour spreads into the water. Poster paint may colour the water too, and flakes of paint may float or sink. Results vary with the clay. With 2 to 4 children, each child shapes, paints and watches one figure, and any extra child keeps the clock and the notebook. If you have fewer than three children, one child can do all three. Small figures dry faster and fall apart faster than big ones.
 - **s5 (10 min)**  
   *Parent does:* The next morning, look at each bucket from the side. Pour a little water from each into a clear jar to see it better. Write what has settled to the bottom and what colour the water is. Decide where the water should go.  
   *Parent says:* Look at each bucket the next morning. What has settled at the bottom? Is the water still coloured? Pour a little into a jar to look closely.  
   *Child mode:* Look at each bucket. What settled at the bottom? Is the water still coloured?
-  - Note: The clay settles, but dissolved colour stays in the water, like the dissolved colour in the Gone from Sight test. The water from the plain clay and the natural colours can go on garden soil or a plant pot, far from edible plants. Keep the poster paint water out of soil and away from plants. Ask an adult to pour it into the toilet, or save it for another painting.
+  - Note: The clay settles, but some of the colour stays in the water. Turmeric is only partly dissolved, so the water may be yellow and slightly cloudy. The water from the plain clay and the natural colours can go on garden soil or a plant pot, far from edible plants. Keep the poster paint water out of soil and away from plants. Ask an adult to pour it into the toilet, or save it for another painting.
   - Think: Mud settled at the bottom, but the colour is still in the water. Why?
 
 ## Challenges
@@ -673,9 +675,9 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
    **Answer:** It could easily be luck, so repeat with more trials. *Why:* Getting 2 or more of 3 right by pure guessing happens about 1 time in 4. A better test has more trials.
 
 ## Videos
-- **How a sewage treatment plant works (an animation)** (to be chosen, 4 min) id `to find`: A short animation that follows used water through the screens, the settling tank, the air tank and the last disinfection stage. It shows the four stages in the Roots and explanation cards. *Check:* No video id is confirmed yet. Search for 'how sewage treatment works animation' and pick a short, accurate one from a water authority or a science channel. A parent should watch it first.
-- **Minamata disease: the story of mercury in a Japanese bay** (to be chosen, 10 min) id `to find`: For the parent and older children: how cats, fish and then people fell ill, and how the cause was found. It explains the How We Found Out card in more depth. *Check:* No video id is confirmed yet. Look for a documentary from a news or science broadcaster. Some film includes upsetting pictures of patients, so a parent must watch it first and decide.
-- **How oil spills are contained and cleaned up** (to be chosen, 5 min) id `to find`: Shows booms, skimmers and absorbent pads at work, and why a thin film is so hard to remove. It follows the Oil Spill Race and the Spill Boom challenge. *Check:* No video id is confirmed yet. Search for 'oil spill boom skimmer explained' and choose a short one. Check that it also says what cannot be removed.
+- **STP Treatment process in Animation** (WATER CAMPUS, 5 min) id `f2nhSMRqzwg`: A short animation that follows used water through the screens, the settling tank, the air tank and the last disinfection stage. It shows the four stages in the Roots and explanation cards. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Mercury and Minamata Disease: a Lesson from Japan | United Nations | UN in Action** (United Nations, 4 min) id `80KJ9gqHrYo`: For the parent and older children: how cats, fish and then people fell ill, and how the cause was found. It explains the How We Found Out card in more depth. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Oil Spill Containment Booms Explained | How Oil Booms Protect the Ocean** (SkyTech Engineering, 5 min) id `-q_YFJxPOGc`: Shows booms, skimmers and absorbent pads at work, and why a thin film is so hard to remove. It follows the Oil Spill Race and the Spill Boom challenge. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Sneha stirs one spoonful of red water into a full tumbler of clean water and stirs it well. What is true about the red stuff?  

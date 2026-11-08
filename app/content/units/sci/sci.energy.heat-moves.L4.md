@@ -234,7 +234,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Parent does:* Cut out the 24 cards and the 16 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards describe times when heat moves. Each player gets four tokens. Conduction, convection, radiation, and more than one. We will decide which one it was.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Each player takes four tokens.
-  - Note: Print the cards double-sided if you can, so the answer is on the back. Or write the answers on a separate sheet and keep it hidden.
+  - Note: Print the cards double-sided if you can, so the answer is on the back. If you have no printer, copy each card onto a slip of paper with the answer on the other side, or write the answers on a separate sheet and keep it hidden. A child cuts with a grown-up nearby. For 2 to 4 players the 16 tokens are enough, since the reader does not use tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first six cards. After each card, read the back aloud. After card three, ask the question below.  
   *Parent says:* The reader reads the front. Everyone else picks a token. Turn the tokens over together. Now the reader reads the back. Who got a point? Who can say why?  
@@ -259,7 +259,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 - **question:** A drop of red water goes into the middle of a glass of still, room-temperature water. Does it rise, sink or stay put? Does the answer change if the drop is hot, warm, room-temperature or ice-cold?
 - **predict:** Before you start, guess what each of the four drops will do: hot, warm, room-temperature and ice-cold. Which will move fastest? Why do you think so?
 - **fair test:** Every drop is the same red water, the same amount (one straw-full), and is let go at the same depth in a glass of still water of the same height. The water in the glass is always room temperature and always still for two minutes first. Only the temperature of the drop changes, so any difference comes from the temperature.
-- **safety:** A grown-up pours all the hot water. The hot drop should be hot like tea you wait to sip, about 60 degrees. Never suck on a straw that has hot water in it. The finger-over-the-end trick needs no sucking. Wipe spills at once.
+- **safety:** A grown-up pours all the hot water. The hot drop should be about 50 to 60 degrees: too hot to sip, but you can still hold the outside of the katori. Never suck on a straw that has hot water in it. The finger-over-the-end trick needs no sucking. Wipe spills at once, so nobody slips. Food colour and ink stain clothes, so wear an old shirt.
 - **record:** Fill in the table for each drop. Then write three sentences: what you thought would happen (claim), what you saw (evidence), and why you think it happened (reasoning). Draw the glass with an arrow for each drop to show where it went.
 - **results table:** Drop | Its temperature | What it did: rose, sank or stayed | Seconds to reach the top or the bottom
 - **s1 (4 min)**  
@@ -272,7 +272,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Parent does:* A grown-up makes the four katoris. Put 50 millilitres of water in each and 3 drops of red colour. Make one very hot, one warm like a bath, one room-temperature, and one ice-cold with ice cubes. Take the ice out.  
   *Parent says:* The grown-up makes four katoris of red water. One is hot, like tea you wait to sip. One is warm, like bath water. One is room-temperature. One is cold from the ice. Take the ice cubes out before you use it.  
   *Child mode:* A grown-up makes four katoris of red water. Hot, warm, room and ice-cold.
-  - Note: Mix half kettle water and half cold tap water for the hot katori. It should be too hot to drink but safe to touch the outside of the katori. Use the same number of colour drops in each. If the red is too strong, use 2 drops. Too much colour can make the drop heavier than the water for a different reason. Keep the ice-cold katori in the fridge or with ice cubes for 10 minutes before you use it.
+  - Note: Mix half kettle water and half cold tap water for the hot katori. It should be too hot to sip but safe to hold the outside of the katori. If you have a thermometer, about 55 degrees is right, but you do not need one. Use the same number of colour drops in each. If the red is too strong, use 2 drops. Too much colour can make the drop heavier than the water for a different reason. Keep the ice-cold katori in the fridge or with ice cubes for 10 minutes before you use it, and take the ice out just before you test, because floating ice cubes will make swirls. If you have no ice, a katori that has sat in the fridge overnight also works. Do the hot katori last, and keep it covered with a plate or saucer so it does not cool while you wait.
   - Check: Why do all four katoris get the same red colour and the same amount of water? → **So only the temperature is different**
 - **s3 (5 min)**  
   *Parent does:* Fill the glass with room-temperature tap water, to about 8 centimetres deep. Stand it in front of the white paper. Wait two minutes. Watch the water until nothing moves.  
@@ -281,11 +281,11 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Ask: Why do we wait for the water to be still? (good: So no stirring moves the red drop.; So the only thing moving it is its temperature.)
   - Note: If the glass has been moved, tiny swirls hide the result. Wait until a dust speck or bubble stops moving. Use the same glass and the same depth every time.
 - **s4 (14 min) · grown-up needed**  
-  *Parent does:* Test the drops one at a time, in this order: room-temperature, ice-cold, warm, hot. Fill a straw from the katori and press your finger on the top end. Lift it out. Lower the tip to the middle of the glass. Lift your finger and start the timer. Stop it when the red reaches the top or the bottom. Pour out the water and refill the glass. Wait two minutes between tests.  
+  *Parent does:* Test the drops one at a time, in this order: room-temperature, ice-cold, warm, hot. Fill a straw from the katori and press your finger on the top end. Lift it out. Lower the tip to the middle of the glass. Lift your finger and start the timer. Stop it when the red reaches the top or the bottom. Pour out the water and refill the glass. Wait two minutes between tests. (If you have several glasses, test all four drops at the same time.)  
   *Parent says:* Do the room-temperature drop first. Press a finger on the top of the straw and lift it out. Lower the tip to the middle of the glass. Let go. Start the timer. What does the red do? Write it down. Then refill the glass and wait two minutes for each next drop.  
   *Child mode:* Fill a straw. Finger on top. Lower it to the middle. Let go. Start the timer. Watch.
   - Ask: What does the hot drop do? What does the ice-cold drop do? (good: The hot one goes up.; The cold one goes down.; They go opposite ways.)
-  - Note: The hot drop should rise to the top in about 2 to 5 seconds, then spread across the surface. The ice-cold drop should sink to the bottom in about 3 to 8 seconds. The warm drop is slower. The room drop should stay about where it is, or drift down very slowly. If a drop smears everywhere, you pushed it out too fast, so let it run out slowly. Your times will be different, and that is fine. Write down what you really see.
+  - Note: The hot drop should rise to the top, often in about 2 to 10 seconds, then spread across the surface. The ice-cold drop should sink to the bottom, often in about 3 to 10 seconds. The warm drop is slower. These times are typical, and not a promise: glass size and how gently you let go change them. The room drop should stay about where it is, or drift down very slowly. If a drop smears everywhere, you pushed it out too fast, so let it run out slowly. Your times will be different, and that is fine. Write down what you really see. If nothing seems to happen, the drop was probably too small or too pale: use 4 drops of colour, or let go closer to the middle, and look from the side against the white paper. With 2 to 4 children, give each child their own glass and their own temperature. Everyone lets go on 'three, two, one', and you watch all the glasses side by side. One child is the timer and one writes the results. With one child and a parent, the parent can be timer and recorder.
   - Check: The hot drop rises in the glass. What does that show about the hot water? → **It is lighter than the cooler water around it**
 - **s5 (5 min)**  
   *Parent does:* Draw the glass with four arrows to show where each drop went. Then ask your child to say three things: what they thought (claim), what they saw (evidence), and why it happened (reasoning).  
@@ -293,13 +293,13 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Child mode:* Draw four arrows in the glass. Say what you thought, what you saw, and why.
   - Note: A strong answer says the hot water was lighter and rose, and the cold water was heavier and sank. After they have said what they saw, you can add: hot water expands, so it is less dense, and the cooler water around it is heavier and sinks underneath it and pushes it up. Moving water that carries heat is called convection. If your results were different, for example the room drop sank, say that too. It may be because of the colour, and testing again with less colour will check.
   - Think: If the hot drop went up, where did the cooler water come from to take its place?
-### e2 · Dark, White and Shiny: which wrapping lets the Sun warm a tumbler most? (45 min)
-- **question:** Three identical tumblers of water sit in the Sun. One is wrapped in black paper, one in white paper, and one in shiny kitchen foil. Which will warm up the most in 30 minutes? Which will warm up the least?
+### e2 · Dark, White and Shiny: which wrapping lets the Sun warm a tumbler most? (40 min)
+- **question:** Three identical tumblers of water sit in the Sun. One is wrapped in black paper, one in white paper, and one in shiny kitchen foil. Which will warm up the most in 20 minutes? Which will warm up the least?
 - **predict:** Before you start, guess which tumbler will warm the most and which will warm the least. Put the three in order. Why do you think so?
-- **fair test:** All three tumblers are the same size, hold the same amount of water at the same starting temperature, and have the same foil lid. They sit side by side in the same sunlight for the same time. A fourth tumbler stays in the shade to show how much the room alone changes the water. Only the wrapping changes.
-- **safety:** Do not look at sunlight reflected off the foil. It can hurt your eyes. Keep the tumblers where they cannot fall. Wash your hands if you touch the black paper after it has been in the sun for a while.
+- **fair test:** All three tumblers are the same size, hold the same amount of water (about 100 millilitres) at the same starting temperature, and each has a lid made of the same material as its wrapper. They sit side by side in the same sunlight for the same time. A fourth tumbler stays in the shade to show how much the room alone changes the water. Only the wrapping changes.
+- **safety:** Do not look at sunlight reflected off the foil. It can hurt your eyes. Keep the tumblers where they cannot fall or break, and do not leave small children alone on a terrace edge. Paper and glass left in the Sun can feel hot, so touch them first with the back of one finger. Glass thermometers can break: a grown-up holds them.
 - **record:** Fill in the table. Then draw a bar for the rise in each tumbler. Write three sentences: what you thought (claim), what you saw (evidence), and why it happened (reasoning).
-- **results table:** Tumbler | Start temperature (°C) | Temperature after 15 minutes (°C) | Temperature after 30 minutes (°C) | Rise (°C)
+- **results table:** Tumbler | Start temperature (°C) | Temperature after 10 minutes (°C) | Temperature after 20 minutes (°C) | Rise (°C)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tumblers, the paper and the foil. Ask for a guess and a reason. Write the order they choose.  
   *Parent says:* The Sun will shine on three tumblers. One is wrapped in black, one in white, and one in shiny foil. Which will get warmest? Which will stay coolest? Why do you think so?  
@@ -307,24 +307,24 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Ask: Which do you think will warm the least, and why? (good: The foil, because it is shiny.; The white one, because it is light.; They will all be the same.)
   - Note: Do not correct the guess. Write the order down. Many children expect the foil to be hottest because it looks bright. Others pick white. The result is not always what they expect.
 - **s2 (8 min)**  
-  *Parent does:* Wrap the black paper round the first tumbler and hold it with a rubber band. Wrap the white paper round the second. Wrap the foil round the third, with the shiny side out. Leave the fourth plain. Make a foil lid for each, with a small slit. Fill each tumbler with the same amount of water. Put on the lids.  
-  *Parent says:* Wrap each tumbler all the way round, with the shiny side of the foil facing out. Put the same amount of room-temperature water in each. Put a foil lid on each, so the Sun can only reach the water through the sides.  
-  *Child mode:* Wrap three tumblers. Fill them all the same. Put on the foil lids.
-  - Note: The foil lids stop sunlight from going straight into the water from above. This makes the sides do the work. Fill each tumbler about three quarters full with water from the same jug. Make sure no paper covers the top. If the foil wrapper is crumpled, smooth it out so it stays shiny.
+  *Parent does:* Wrap the black paper round the first tumbler and hold it with a rubber band. Wrap the white paper round the second. Wrap the foil round the third, with the shiny side out. Leave the fourth plain. Make a lid for each from the same paper or foil, with a small slit. Fill each tumbler with the same amount of water, about 100 millilitres. Put on the lids.  
+  *Parent says:* Wrap each tumbler all the way round, with the shiny side of the foil facing out. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper. Now the colour you chose covers the whole tumbler.  
+  *Child mode:* Wrap three tumblers. Fill them all the same. Put on lids of the same colour.
+  - Note: The Sun is high at midday in India, so it hits the top of a tumbler more than the sides. That is why each lid is the same colour as its wrapper. Fill each tumbler to the same mark with water from the same jug, about 100 millilitres, because a small amount of water warms by a bigger, easier-to-read number of degrees. Wrap two layers of white paper, or the light goes through it. If the foil is crumpled, smooth it out so it stays shiny. With 2 to 4 children, each child wraps and looks after one tumbler. With one child, the child wraps all of them.
   - Check: Why does the fourth tumbler stay in the shade? → **To show how much the room alone changes the water**
 - **s3 (3 min)**  
   *Parent does:* Read the temperature in each tumbler through the slit. Write the four starting temperatures in the table. Wipe the thermometer between tumblers.  
   *Parent says:* Put the thermometer through the slit and wait until the number stops changing. Write it down. Do this for all four.  
   *Child mode:* Read the thermometer in each tumbler. Write the numbers down.
   - Ask: Why do we need to know the starting temperatures? (good: So we can see how much each one went up.; Because the rise is what we compare.)
-  - Note: All four should start within one degree of each other. If one is different, wait or swap a little water until they match. Each reading should take about 20 seconds.
-- **s4 (25 min)**  
-  *Parent does:* Put the three wrapped tumblers side by side in full sunlight, with the fourth in the shade. Wait 15 minutes. Read each temperature and write it down. Wait another 15 minutes. Read each again.  
-  *Parent says:* Put them side by side in the Sun. Do not move them. After 15 minutes, take every reading. Read the thermometer in the same order each time. Then wait 15 minutes more and read each one again.  
-  *Child mode:* Put them in the Sun. Wait 15 minutes. Read each one. Wait again. Read again.
+  - Note: All four should start within one degree of each other. If one is different, wait or swap a little water until they match. A lab thermometer takes about 30 seconds to settle. One thermometer is enough: use it in the same order every time. If you have no thermometer, use the back of one finger, rank the four tumblers from coolest to warmest by feel, and say that this is only a rough order.
+- **s4 (20 min)**  
+  *Parent does:* Put the three wrapped tumblers side by side in full sunlight, on the book, with the fourth in the shade. Wait 10 minutes. Read each temperature and write it down. Wait another 10 minutes. Read each again.  
+  *Parent says:* Put them side by side in the Sun. Do not move them. After 10 minutes, take every reading. Read the thermometer in the same order each time. Then wait 10 minutes more and read each one again.  
+  *Child mode:* Put them in the Sun. Wait 10 minutes. Read each one. Wait again. Read again.
   - Ask: What is the Sun doing to the black paper? (good: Warming it up.; The paper takes in the light and gets hot.)
   - Ask: Can you feel a difference with your hand? (good: The black one feels warmest.; The foil one is cool.)
-  - Note: Use a sunny hour, between 11 in the morning and 2 in the afternoon. On a cloudy day, wait for another day. While you wait, you can do the Hands Around a Diya activity or draw the heat's journey. If you only have one thermometer, lift each lid and read quickly. The numbers will be a little uneven, so look at the order, not the exact numbers. The black tumbler usually rises several degrees more than the white one. The foil one usually rises least. If yours do not, write down what you saw.
+  - Note: Use a sunny hour, between 11 in the morning and 2 in the afternoon. On a cloudy day, wait for another day. While you wait, you can do the Hands Around a Diya activity or draw the heat's journey. The numbers will be a little uneven, so look at the order more than the exact numbers. On a clear day the black tumbler often rises a few degrees more than the white one, and the foil one often rises least, but the gaps can be small, such as 1 or 2 degrees, on a hazy day. If the shaded tumbler rises as much as the others, the day was too hot for a clean test: try early morning or another day. If yours do not match, write down what you saw. A surprise is a result too. With 2 to 4 children, one reads the thermometer, one writes, one watches the clock, and one checks that nothing has been moved or has fallen into shade.
 - **s5 (5 min)**  
   *Parent does:* Work out the rise for each tumbler by taking the starting temperature from the last one. Draw a bar for each. Then ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Take the starting number from the last number. That is the rise. Draw a bar for each tumbler. Which rose most? Tell me what you thought, what you saw, and why you think it happened.  
@@ -334,25 +334,25 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 
 ## Activities
 ### a1 · Hands Around a Diya: where do you feel the warmth? (20 min)
-- **safety:** A grown-up lights the flame and stays beside the child all the time. Tie back long hair. No loose dupattas or sleeves. Keep curtains and paper away. A child never reaches closer than 15 centimetres above the flame. Blow it out at the end.
-- **record:** A drawing of the diya with three palms around it, and for each one a word: none, a little, or a lot. Then write which of them the card blocked.
+- **safety:** A grown-up lights the flame and stays beside the child all the time. Tie back long hair. No loose dupattas or sleeves. Keep curtains and paper away. Close any fan or window that makes a draught, so the flame does not lean. A child never reaches closer than 15 centimetres above the flame or closer than 5 centimetres to the side. The plate and the hot oil stay hot for a long time, so nobody touches them. Blow it out at the end.
+- **record:** A drawing of the diya with three palms around it, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which of them the card blocked.
 - **s1 (4 min)**  
   *Parent does:* Ask your child to guess where the warmth is strongest: beside the flame, above it, or below it. Ask for a reason. Then ask what they think a card would do.  
   *Parent says:* A diya is a little heater. Where do you think you will feel the most warmth? Beside it, above it, or below it? Why do you think so? And what do you think a card would do?  
   *Child mode:* Where will you feel the most warmth? Beside, above or below? Why?
   - Note: Do not correct the guess. Children often say that heat goes in every direction equally. Write the guess down.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* A grown-up lights the diya and tells your child to sit still. Hold a palm flat beside the flame, 10 centimetres away. Count to 10. Then hold the other palm 30 centimetres above the flame, and lower it slowly until it feels warm. Stop there.  
+  *Parent does:* A grown-up lights the diya and tells your child to sit still. Hold a palm flat beside the flame, 10 centimetres away. Count to 10, or time how many seconds until it feels warm. Then hold the other palm 30 centimetres above the flame, and lower it slowly until it feels warm. Stop there.  
   *Parent says:* Hold one palm beside the flame, 10 centimetres away. Count slowly to 10. Now hold your other palm high above the flame. Lower it slowly. Stop when it feels warm. Never go lower than 15 centimetres.  
   *Child mode:* Palm beside the flame. Count to 10. Palm above the flame. Lower it slowly. Stop when warm.
   - Ask: Where did it feel warmer? What did you notice about where you stopped? (good: Above felt hotter.; I had to stay further away above.; The warmth above was stronger.)
-  - Note: You should feel gentle warmth at the side and much stronger warmth above, even 20 to 25 centimetres up. If your child's palm gets too hot, tell them to move away. Do not let them touch the plate, which may be hot.
+  - Note: You should feel gentle warmth at the side and much stronger warmth above, even 20 to 25 centimetres up. If your child's palm gets too hot, tell them to move away. Do not let them touch the plate, which may be hot. A small tea-light gives only a gentle warmth at the side. If your child feels nothing at 10 centimetres, move the palm in to 7 centimetres (never nearer than 5) or use two or three tea-lights together. Two or three children can take turns, one at a time, while the others watch from a safe distance, hold the timer, and write the seconds.
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* Stand the card on its edge between the flame and the palm at the side. Count to 10. Keep the other palm above the flame, but do not move it. Then take the card away.  
+  *Parent does:* Stand the card on its edge between the flame and the palm at the side. Count the seconds until the warmth comes back when the card is taken away. Keep the other palm above the flame, but do not move it. Then take the card away.  
   *Parent says:* Now stand the card on its edge between the flame and your side palm. What happens to the warmth? Then check your palm above the flame. Did the card change that warmth?  
   *Child mode:* Stand the card between the flame and your palm. Does the warmth stop? What about above?
   - Ask: What did the card stop, and what did it not stop? (good: It stopped the warmth at the side.; It did not stop the warmth above.; The warmth above still came up.)
-  - Note: The side warmth stops at once when the card goes up, and comes back when it goes away. The warmth above is not blocked by a card at the side. Do not explain yet. Let your child say what they think the two kinds of warmth are.
+  - Note: The side warmth stops at once when the card goes up, and comes back when it goes away. The warmth above is not blocked by a card at the side. Do not explain yet. Let your child say what they think the two kinds of warmth are. Ask a second child, or the grown-up, to hold the card so the first child's hands stay still. Record the seconds in the drawing.
   - Check: The card stopped the warmth at the side straight away. What does this tell you about that warmth? → **It travels in straight lines from the flame, like light**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to draw the diya and the two palms. Write one word near each: radiation or convection, with an arrow to show where the warmth travels. Ask them to explain.  
@@ -361,8 +361,8 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: Now you can say the words. Warmth in straight lines that a card can block is radiation. Warm air rising and carrying heat is convection. A flame does both at once, and also conducts heat slowly into the plate.
   - Think: Why can you feel strong warmth above the flame, but only gentle warmth beside it?
 ### a2 · Paper Spiral: can rising air turn a snake of paper? (25 min)
-- **safety:** A grown-up lights the flame and holds the spiral. Keep the paper at least 25 centimetres above the flame. Keep curtains and other paper away, and tie back long hair. Blow out the flame at the end.
-- **record:** A drawing of the spiral above the flame, with arrows showing where the air moves.
+- **safety:** A grown-up lights the flame and holds the spiral. Keep the paper at least 15 centimetres above the flame. Never hold a spiral over a flame and walk away. Keep curtains and other paper away, and tie back long hair. If the paper starts to brown or curl, move it away at once. Blow out the flame at the end. Scissors are used by the child with a grown-up beside them.
+- **record:** A drawing of the spiral above the flame, with arrows showing where the air moves. Write how many turns in 20 seconds at each height you tried.
 - **s1 (4 min)**  
   *Parent does:* Ask your child to guess what will happen to the spiral when it hangs above a flame, and why. Write the guess.  
   *Parent says:* We are going to hang a paper spiral above a small flame. There is no wind and nobody will blow it. What do you think will happen? Why do you think so?  
@@ -374,12 +374,12 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Child mode:* Draw a circle. Draw a spiral. Cut along it. Tie the thread.
   - Note: Scissors are for the child to use, with help. The coils should hang down like a paper snake when you lift the spiral by the middle. Make the paper thin. Thick card is too heavy to turn.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up lights the diya on a plate on a table. Tie the thread to a stick. Hold the spiral on the stick 25 centimetres above the flame, and keep it still. Count how many full turns it makes in 20 seconds.  
+  *Parent does:* A grown-up lights the diya or the bunched tea-lights on a plate on a table. Tie the thread to a stick. Untwist the thread and let the spiral settle. Hold it on the stick 25 centimetres above the flame, and keep it still. If it does not turn, lower it slowly to 15 centimetres, but no lower. Count how many full turns it makes in 20 seconds.  
   *Parent says:* Hold the spiral on the stick, 25 centimetres above the flame, and keep your hand still. Watch. Does it turn? Which way? Count the turns in 20 seconds.  
   *Child mode:* Hold the spiral above the flame. Keep still. Does it turn? Count the turns.
   - Ask: What is turning the spiral? Nobody is blowing it. (good: The air above the flame.; Hot air going up.; The warm air pushes on it.)
   - Ask: Where does new air come from to replace the air that went up? (good: From the sides.; From below, near the plate.; From the cool room.)
-  - Note: The spiral turns slowly, because warm air is rising past its slanted coils. If it does not turn, move it a little closer, but never nearer than 25 centimetres. A draught from a fan will mess up the result, so switch off any fans and close the window. If the flame is too small, use two tea-lights side by side.
+  - Note: The spiral turns slowly, because warm air is rising past its slanted coils. It is a slow turn, perhaps a full turn every few seconds, and one tea-light at 25 centimetres may give only a small wobble. That is why two or three tea-lights close together, thin paper and 15 to 20 centimetres work better. Never go nearer than 15 centimetres. A draught from a fan will mess up the result, so switch off any fans and close the window. If it still does not turn, check that the coils hang apart, and say honestly that the warm air was too weak. Try again with more tea-lights. With 2 to 4 children, one holds the stick with a grown-up beside them, one counts turns, one times 20 seconds, one writes. Everyone makes their own spiral first.
   - Check: What turns the spiral? → **Warm air rising from the flame pushes on its slanted coils**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to draw the diya and the spiral, with arrows showing where the air goes. Ask where the air comes from at the bottom.  
@@ -387,12 +387,14 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Child mode:* Draw the flame, the spiral and the air. Where does new air come from?
   - Note: A good drawing has air rising over the flame and cooler air flowing in from the sides along the table to take its place. That is a convection current.
   - Think: If you put the flame in a tall jar with a lid on, what would happen to the spiral?
-### a3 · Draw the Heat's Journey: three ways in one kitchen picture (20 min)
+### a3 · Draw the Heat's Journey: three ways in one kitchen picture (25 min)
+- **safety:** A grown-up pours the hot water, and the child does not carry it. Use water that is hot but not boiling, about 60 degrees. Only the spoon handles are touched, never the water.
 - **record:** A drawing of a pot of dal on a stove, with a ladle in it and a child nearby, and three coloured arrows for conduction, convection and radiation.
-- **s1 (5 min)**  
-  *Parent does:* Ask your child to draw a stove with a pot of dal on it. Add a steel ladle in the dal. Add a child standing close. Do not add the arrows yet.  
+- **s1 (10 min)**  
+  *Parent does:* First a quick test. A grown-up pours hot (not boiling) water into the steel glass. Stand the steel spoon and the wooden spoon in it, leaning on the rim. Ask your child to guess which handle will feel warm first. After 2 minutes, touch both handles with a fingertip and say which is warmer. Then ask your child to draw a stove with a pot of dal on it. Add a steel ladle in the dal. Add a child standing close. Do not add the arrows yet.  
   *Parent says:* Draw a gas stove with a pot of dal on it. Put a steel ladle in the pot. Draw a child standing near, on the right. We will add the heat arrows next.  
   *Child mode:* Draw a stove, a pot, a ladle and a child. No arrows yet.
+  - Note: The steel handle warms noticeably in a minute or two. The wooden one stays nearly cool. This is a real measurement of how well each material conducts heat. Write which was warmer and by how much it felt (a little, a lot). Do not correct the guess before the test. If both feel the same, the spoons may be too short or the water too cool, so use more hot water. With 2 to 4 children, each child feels one spoon at a time and says what they notice.
 - **s2 (5 min)**  
   *Parent does:* Ask your child to draw a red arrow up the handle of the ladle. Then ask them to draw a blue loop of arrows inside the pot of dal. Ask where the dal at the bottom goes when it is heated.  
   *Parent says:* Draw a red arrow up the ladle handle. Draw a blue loop of arrows inside the dal. Which way does the hot dal go? Where does it go when it reaches the top?  
@@ -417,7 +419,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Parent does:* Lay out the blue sheet and the yellow sheet side by side. Choose one person as the Sun. Two people are land air on the yellow sheet. Two people are sea air on the blue sheet. Ask your child to guess which way the wind will blow in the afternoon.  
   *Parent says:* Blue is the sea, and yellow is the land. One of us is the Sun. Two of us are land air, and two are sea air. In the afternoon, the Sun shines on both. Which way will the wind blow, from the sea to the land or from the land to the sea? Why?  
   *Child mode:* Blue is the sea. Yellow is the land. One person is the Sun. Which way will the wind blow?
-  - Note: With fewer people, use soft toys as the air. Do not correct the guess yet.
+  - Note: With one child and a parent, the parent is the Sun, and the child moves soft toys as the air, one set for land and one set for sea. With 4 children, one is the Sun, one is the sea air, one is the land air, and one calls out the story and draws the arrows. Swap roles for the night round. Do not correct the guess yet.
 - **s2 (6 min)**  
   *Parent does:* The Sun shines on the yellow land first and strongest. The land air warms up and rises on tiptoe with arms up. The sea air walks over along the floor to fill the space. Then the land air spreads across the top and walks back out over the sea, and sinks down. Do the loop twice.  
   *Parent says:* The Sun warms the land more than the sea. Land air, warm up and rise on tiptoe. Sea air, walk in along the floor to take the empty place. Rising air, spread over the top and sink down over the sea. Go round again.  
@@ -436,13 +438,13 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Parent does:* Ask your child to draw the beach at noon and at midnight, with arrows for the wind. Ask what would happen to the sea breeze on a cloudy day, when the Sun is hidden.  
   *Parent says:* Draw the beach in the afternoon and at night. Use arrows for the wind. Now think about a cloudy day, when the land stays cool. What will the sea breeze do?  
   *Child mode:* Draw the beach by day and by night. Arrows for the wind.
-  - Note: On a cloudy day, the land does not warm up as much, so the sea breeze is weak or comes late. That is why a cloudy afternoon on the coast can feel still.
+  - Note: On a cloudy day, the land does not warm up as much, so the sea breeze is weak or comes late. That is why a cloudy afternoon on the coast can feel still. To see the real reason, try this on a sunny day: put one katori of dry sand or soil and one katori of water of the same amount on a window ledge in the Sun for 15 minutes. Touch each with the back of a finger. The sand is warmer to touch than the water. This is why the land warms faster than the sea.
   - Think: Which is warmer in the evening, a rock on the beach or a tub of sea water? Why does that matter for the wind?
 
 ## Projects
 ### p1 · Foil Sun Oven: melt a piece of chocolate with sunlight alone (60 min)
-- **safety:** A grown-up cuts the lid. Never look at the Sun, or at sunlight bouncing off the foil. Keep the oven where it cannot fall. The inside can get hot, so use a spoon or tongs to take out the chocolate. Do not eat anything that has touched the foil or paper unless it was on clean paper.
-- **record:** Write the time you put the chocolate in, and the time it began to soften and to melt. Draw the oven and the path of the sunlight into it.
+- **safety:** A grown-up cuts the lid. Never look at the Sun, or at sunlight bouncing off the foil. Keep the oven where it cannot fall. The inside can get hot, so use a spoon or tongs to take out the chocolate. Treat the chocolate as a science sample and do not eat it: it has touched foil and paper, and some chocolate has nuts or milk that some children cannot eat. Wipe up melted chocolate at once.
+- **record:** Write the time you put both pieces of chocolate in, and the time each began to soften and to melt. Draw the oven and the path of the sunlight into it.
 - **s1 (5 min)**  
   *Parent does:* Show your child the materials. Ask them to guess if the oven will melt chocolate, and what each part of the oven is for. Write down their ideas.  
   *Parent says:* We are going to make an oven that uses only the Sun. There is no fire and no electricity. Do you think it will melt chocolate? What do you think the foil is for? And the black paper? Why?  
@@ -455,12 +457,12 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: The flap should lean back at about 100 to 120 degrees so that it catches the Sun and bounces it into the box. Smooth the foil, because crumples scatter the light. Make the cling film tight and sealed, so warm air stays inside.
   - Check: Why is the base lined with black paper, and the walls with foil? → **Black takes in the light and gets hot, and foil sends light towards it**
 - **s3 (30 min) · grown-up needed**  
-  *Parent does:* Put a square of chocolate on a bit of black paper in the middle of the box. Put the oven in full sun on a balcony or terrace. Turn it so that the flap bounces light onto the chocolate. Check every 10 minutes. Write down when the chocolate gets soft, and when it melts.  
+  *Parent does:* Put one square of chocolate on a bit of black paper in the middle of the box. Put the second square on black paper in the Sun right beside the oven, as a comparison. Put the oven in full sun on a balcony or terrace. Turn it so that the flap bounces light onto the chocolate. Check every 10 minutes. Write down when each piece of chocolate gets soft, and when it melts.  
   *Parent says:* Put the chocolate in the middle of the base. Turn the oven to face the Sun. Check every ten minutes. Turn the oven again if the Sun has moved. When does the chocolate go soft? When does it melt?  
   *Child mode:* Put the chocolate in. Face the Sun. Check every 10 minutes. Turn the oven if the Sun moves.
   - Ask: What is the Sun doing to the black paper under the chocolate? (good: Warming it up.; The paper takes in the light and gets hot.)
   - Ask: Why does the cling film help? (good: It traps the warm air.; The warm air cannot get out.)
-  - Note: On a bright day, between 11 and 2, chocolate usually goes soft in 20 to 30 minutes and melts in 30 to 60 minutes. On a cloudy or hazy day it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away.
+  - Note: On a bright day, between 11 and 2, chocolate in the oven often goes soft in about 20 to 30 minutes and melts in about 30 to 60 minutes, if the day is clear. Times are typical, not a promise. The piece outside the oven should stay firm much longer, and that difference is your evidence. On a cloudy or hazy day, or in winter, it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away. If nothing happens, check for gaps in the cling film, crumpled foil, or a flap that is not aimed at the Sun, and turn the oven every 10 minutes. With 2 to 4 children, one watches the clock, one turns the oven, one writes the times, and one looks at the outside chocolate. With one child, the child does all of these.
   - Check: The warm air inside the oven cannot escape because of the cling film. Which way of moving heat does the film stop? → **Convection, because it stops hot air from rising out**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to draw the oven with the sunlight arrows going in and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.  
@@ -766,9 +768,9 @@ Round and Round the Warm (sci.energy.L4): Topic-level song for Energy L4
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A hands-on science centre with galleries on energy, heat and the Sun.
 
 ## Things to buy
-- [Red food colouring](https://www.amazon.in/s?k=red+food+colour+liquid) (material): For Colour Currents. A small bottle from a grocery or baking shop is enough, and a few drops from a fountain pen ink bottle work too. Used in e1. 
-- [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the wrapped tumblers, the Cool Roof boxes and the Foil Sun Oven. Most kitchens already have one. Used in e2, c1, p1. 
-- [A room or kitchen thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): For Dark, White and Shiny, the Cool Roof and the Cool the Jug challenges. A simple digital one that reads from 0 to 100 degrees is enough. Used in e2, c1, c2. 
+- [Red food colouring](https://www.amazon.in/s?k=red+food+colour+liquid) (material): For Colour Currents. A small bottle from a grocery or baking shop is enough (about Rs 20 to 30), and a few drops of washable school ink work too. Used in e1. 
+- [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the wrapped tumblers, the Cool Roof boxes and the Foil Sun Oven. Most kitchens already have one. A small roll costs about Rs 40 to 80. Used in e2, c1, p1. 
+- [A simple thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): For Dark, White and Shiny, the Cool Roof and Cool the Jug challenges, and the optional oven check. A glass school-lab thermometer (about 0 to 100 degrees) from a school-supplies or lab-equipment shop costs about Rs 50 to 100. A digital kitchen thermometer costs more (about Rs 150 to 400). Without one, you can still rank by feel. Used in c1, c2, e2, p1. 
 - [A pack of tea-light candles](https://www.amazon.in/s?k=tealight+candles) (material): For Hands Around a Diya and the Paper Spiral, if you do not have a diya. A grown-up lights them. Used in a1, a2. 
 
 ## Warm-up

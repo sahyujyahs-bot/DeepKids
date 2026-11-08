@@ -803,7 +803,7 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Cut out the 16 cards. Clear a space in the room. Show your child how to hold their arms out like wings.",
+          "do": "Cut out the 16 cards. Clear a space in the room, away from furniture and fans. Show your child how to hold their arms out like wings.",
           "say": "We are going to be planes. Hold your arms out like wings. I will say a flying command, and you move like a plane.",
           "kid": "Stand with your arms out like wings. You are a plane.",
           "context": "This is the first step of Pilot Says. You clear a space and stand ready."
@@ -865,7 +865,7 @@
       ],
       "materials": [
         {
-          "item": "a thin polythene carry bag, or a light plastic sheet, to cut four squares from (one 20 centimetres wide and three 40 centimetres wide)",
+          "item": "a thin polythene carry bag or any light plastic sheet (a kirana bag is fine), to cut four squares from: one 20 centimetres wide and three 40 centimetres wide. A bag with no printing or creases works best",
           "qty": 1
         },
         {
@@ -873,7 +873,7 @@
           "qty": 12
         },
         {
-          "item": "7 identical coins, such as one-rupee coins, each about 4 grams",
+          "item": "7 identical coins, such as one-rupee coins (about 4 grams each), or 7 small nuts or washers of the same size. Coins are small parts: keep them away from children under five",
           "qty": 7
         },
         {
@@ -881,12 +881,12 @@
           "qty": 1
         },
         {
-          "item": "a ruler, and a phone or clock with a stopwatch",
+          "item": "a ruler, and a phone or clock with a stopwatch (a phone in slow-motion video also works well)",
           "qty": 1,
           "buy": "b-tape"
         },
         {
-          "item": "masking tape, to mark a height of about 2 metres on a wall or door",
+          "item": "masking tape or a sticky note, to mark a drop height of about 2 metres. The top of an ordinary room door is about 2 metres, so you can drop from there with no tape measure; or measure 2 metres once with a tailor's tape or string",
           "qty": 1
         },
         {
@@ -894,7 +894,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up holds each parachute at the 2 metre mark and does all the dropping from a steady floor. Nobody climbs on a chair. Keep coins away from children under five.",
+      "safety": "A grown-up holds each parachute at the 2 metre mark and does all the dropping from a steady floor. Nobody climbs on a chair. Coins are small parts: keep them away from children under five.",
       "record": "Write the three fall times for each parachute. Add the three times and divide by 3 to get the average. Then draw a bar chart with one bar for each parachute, using the averages.",
       "context": "In this experiment, you make parachutes of two sizes, drop them with different loads, and time how long each takes to fall about 2 metres.",
       "setup": [
@@ -941,7 +941,7 @@
           "do": "Cut a 20 centimetre square and a 40 centimetre square from the polythene. Tape a 30 centimetre string to each corner. Tape the four strings to one coin, so the strings are even.",
           "say": "Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to a coin.",
           "kid": "Cut two squares. Tape a string to each corner. Tape the strings to a coin.",
-          "parent": "Make the squares exact. Make a third parachute with the big square and 4 coins taped together. Keep the strings even, or the canopy will lean. Label them A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch the big sheet into a tight ball and tape it round 1 coin.",
+          "parent": "Make the squares exact. Make a third parachute with the big square and 4 coins taped together. Keep the strings even, or the canopy will lean. With 2 to 4 children, each child makes one parachute (A, B, C or D) and the same child does the dropping or timing for it, so all four are built at once. Label them A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch the big sheet into a tight ball and tape it round 1 coin.",
           "check": {
             "t": "mcq",
             "q": "Why must the strings and the polythene be the same for every parachute?",
@@ -971,7 +971,7 @@
               ]
             }
           ],
-          "parent": "Hold each parachute by the middle of the canopy and the coin, then let go together. If a parachute folds up and drops like a stone, count it as a failed drop and do it again. Do not explain yet. Let your child say what they see.",
+          "parent": "Hold each parachute by the middle of the canopy and the coin, then let go together. If a parachute folds up and drops like a stone, count it as a failed drop and do it again. Choose a room with the fans off and windows shut, because a breath of air spoils a parachute that falls slowly. Do not explain yet. Let your child say what they see.",
           "context": "In this step, you race the small and the big parachute without a stopwatch."
         },
         {
@@ -990,7 +990,7 @@
               ]
             }
           ],
-          "parent": "Expect roughly 1 to 2 seconds for the small parachute, 2 to 3 for the big one, a bit over 1 second for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds.",
+          "parent": "Typical times from 2 metres are about 2 seconds for the small parachute, about 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ, so trust your own table. The big parachute is the slowest and the scrunched ball the fastest; those two should be clear. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds, and drop it again. With several children, one drops, one times and one writes, and everyone swaps after each parachute. If the times are all too short to tell apart, ask a grown-up to drop from the top of a stair flight with a clear floor below.",
           "check": {
             "t": "mcq",
             "q": "Parachute B takes 2.8, 2.6 and 2.7 seconds. What is the average?",
@@ -1020,7 +1020,7 @@
               ]
             }
           ],
-          "parent": "Many families find that B takes about twice as long as C, not four times. This is because four times the weight gives only about twice the terminal speed. You may also find that C and A land at similar times. A big canopy with a heavy load can fall as fast as a small canopy with a light one.",
+          "parent": "The big parachute with 1 coin (B) usually takes about twice as long as the same parachute with 4 coins (C), not four times. This is because four times the weight gives only about twice the terminal speed. C and A (big and heavy, small and light) often land at similar times. If nothing seems to differ between parachutes, check that the strings are even and the canopy opens, then try again. A big canopy with a heavy load can fall as fast as a small canopy with a light one.",
           "context": "In this step, you work out the averages and draw the chart."
         },
         {
@@ -1118,7 +1118,7 @@
           "do": "Fold one plane with the steps in the pictures. Press every crease flat with your fingernail. Make four more planes exactly the same way. Mark L and R on each.",
           "say": "Fold the paper in half and open it. Fold the top corners in to the middle line. Fold the slanted edges in again. Fold the plane in half. Fold the wings down.",
           "kid": "Fold a plane. Make four the same. Mark L and R on the wings.",
-          "parent": "Fold carefully so the planes are the same. A plane with crooked wings will turn on its own, which spoils the test. Fold the wings so they are level and equal.",
+          "parent": "Fold carefully so the planes are the same; ordinary A4 or notebook paper works, and thick card does not. With 2 to 4 children, each child folds one plane and checks a friend's. A plane with crooked wings will turn on its own, which spoils the test. Fold the wings so they are level and equal.",
           "check": {
             "t": "mcq",
             "q": "Why must all five planes be folded the same way?",
@@ -1138,7 +1138,7 @@
           "do": "Stand behind the start line. Throw plane 1, with no bends, three times, level and gently. Write what it does and where it lands each time.",
           "say": "Throw it level, like putting a ball on a shelf. Do it three times. Write where it lands and which way it curves, if it curves.",
           "kid": "Throw the plane three times. Write where it lands.",
-          "parent": "Plane 1 is the control. If it already curves, bend the wings level again, and refold if needed. Use the same gentle throw each time.",
+          "parent": "Plane 1 is the control. If it already curves, bend the wings level again, and refold if needed. Use the same gentle throw each time, and let the same child throw every plane, because a different arm changes the result more than a bend does. Fans off and windows shut. Others stand behind the thrower, one marks the landing spot with chalk or a pencil and one writes.",
           "context": "In this step, you throw the plane with no bends, to see how it flies by itself."
         },
         {
@@ -1164,7 +1164,7 @@
               ]
             }
           ],
-          "parent": "A common result: both edges up make the nose rise, so the plane climbs steeply, stalls and lands short. Both edges down make it dive and land early. With the left edge up and the right edge down, the left wing lifts less and drops, and the plane turns left. Yours may differ a little. If a plane does something odd, check that your throw was level and as gentle as before, and bend the edges more.",
+          "parent": "A common result: both edges up make the nose rise, so the plane climbs steeply, stalls and lands short. Both edges down make it dive and land early. With the left edge up and the right edge down, the left wing lifts less and drops, and the plane turns left. Yours may differ a little, since a hand throw is never exactly the same. Compare the typical landing of the three throws, not the best one, and measure the sideways distance from the straight line in steps or shoe-lengths. If a plane does something odd, check that your throw was level and as gentle as before, and bend the edges more (2 centimetres). If a bend seems to do nothing, it is too small or the paper is too stiff to hold it.",
           "check": {
             "t": "mcq",
             "q": "Plane 4 has its left back edge up and its right back edge down. Which way will it most likely turn?",
@@ -1199,11 +1199,11 @@
       "days": 1,
       "materials": [
         {
-          "item": "a table fan, set on a table with its grill on",
+          "item": "a table fan or pedestal fan with its grill on (switch off its side-to-side swinging)",
           "qty": 1
         },
         {
-          "item": "a piece of stiff card from a cereal box, 10 centimetres by 10 centimetres, and sticky tape",
+          "item": "a piece of stiff card from a cereal box, 10 centimetres by 10 centimetres, a one-rupee coin and sticky tape",
           "qty": 1
         },
         {
@@ -1247,7 +1247,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Tape the thread to the top of the card. Tape the other end of the thread to a shelf, 50 centimetres in front of the fan. Lay the ruler on the floor under the card, with zero under the thread.",
+          "do": "Tape a coin to the bottom edge of the card so it hangs steady. Tape the thread to the top of the card. Tape the other end of the thread to a shelf, 50 centimetres in front of the fan. Lay the ruler on the floor under the card, with zero under the thread.",
           "say": "The card hangs by a thread in front of the fan. The ruler on the floor will show how far the wind blows it. Which way of holding the card do you think the wind will push hardest? Why?",
           "kid": "Hang the card. Lay a ruler under it. Guess which way gets pushed most.",
           "ask": [
@@ -1261,13 +1261,13 @@
             }
           ],
           "adult": true,
-          "parent": "Put the fan on its lowest setting. Keep the card at the same distance each time. The card should swing a clear 10 to 30 centimetres when flat to the wind.",
+          "parent": "Put the fan on its lowest setting. Keep the card at the same distance each time. The card should swing a clear 10 to 30 centimetres when flat to the wind. If it flies almost level, add a second coin; if it hardly moves, move the card closer to the fan. Then keep it the same for every test. Switch off the fan's side-to-side swing.",
           "context": "In this step, you set up the card and the fan, and make a guess."
         },
         {
           "id": "s2",
           "mins": 10,
-          "do": "Turn on the fan, low. Wait 10 seconds for the card to settle. Read how far it is blown, flat to the fan. Then turn it edge-on. Then bend it into a cup, open side to the fan. Then turn the cup round. Write the four readings.",
+          "do": "Turn on the fan, low. Wait 10 seconds for the card to settle. Read how far it is blown, flat to the fan. Then turn it edge-on. Then bend it into a cup, open side to the fan. Then turn the cup round. Write the four readings. Do each one three times and write the middle value. To make the cup, curl the card round a pen and tape the edges.",
           "say": "Wait until the card stops swinging. Then read the ruler. Do the flat card, the edge-on card, the open cup and the rounded back of the cup. Write each reading.",
           "kid": "Wait for the card to settle. Read the ruler. Test all four ways. Write each reading.",
           "adult": true,
@@ -1281,7 +1281,7 @@
               ]
             }
           ],
-          "parent": "The flat card and the open cup are blown about the same, and the cup's rounded back about a third as far. Edge-on is blown almost nothing. Your numbers will differ. The cup is bent from the same card, so only its shape changes.",
+          "parent": "The flat card and the open cup are blown about the same, and the cup's rounded back about a third as far. Edge-on is blown almost nothing. Your numbers will differ. The cup's rounded back is blown clearly less than the open cup, even if not exactly a third. With several children, one holds the ruler, one reads, one writes, and each child bends a cup of their own. The cup is bent from the same card, so only its shape changes.",
           "check": {
             "t": "mcq",
             "q": "The open cup is blown further than the rounded back of the same cup. What does this show?",
@@ -1313,11 +1313,11 @@
       "days": 1,
       "materials": [
         {
-          "item": "a large steel plate or baking tray with a rim, with about 2 centimetres of water in it",
+          "item": "a large steel plate or baking tray with a rim, with about 2 to 3 centimetres of water in it",
           "qty": 1
         },
         {
-          "item": "a pinch of black pepper, or turmeric powder, to sprinkle on the water",
+          "item": "a pinch of black pepper, or turmeric powder, to sprinkle on the water (a fine powder floats best)",
           "qty": 1
         },
         {
@@ -1376,7 +1376,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Hold the round spoon with its back down, just under the surface. Pull it slowly across the tray, about 15 centimetres in 2 seconds. Stop, and watch for 5 seconds. Wipe the pepper to the edges and wait. Then do the same with the ruler, edge-first.",
+          "do": "Hold the round spoon with its back down, just under the surface. Pull it slowly across the tray, about 15 centimetres in 2 seconds. Stop, and watch for 5 seconds. Sprinkle a little fresh pepper and wait until the water is still again. Then do the same with the ruler, edge-first.",
           "say": "Pull the spoon slowly through the water. Then stop and watch the pepper. Now try the flat ruler, edge first, at the same speed. What is different?",
           "kid": "Pull the spoon slowly across. Stop and watch the pepper. Then try the ruler.",
           "ask": [
@@ -1397,7 +1397,7 @@
               ]
             }
           ],
-          "parent": "The round spoon usually leaves two whirls that keep turning for a few seconds after you stop. The ruler edge-first leaves very little. If you see nothing, pull more slowly and use less pepper. Water and air are both fluids, and the same kinds of whirls form in air.",
+          "parent": "The round spoon usually leaves two whirls that keep turning for a few seconds after you stop. The ruler edge-first leaves very little. If you see nothing, use less pepper, make the water 3 centimetres deep, wait for still water, and pull faster, about 15 centimetres in 1 second. Count how many seconds the whirls keep turning and write it down for the spoon and the ruler. It may take a few tries and the whirls may be faint, but a round shape leaves a bigger mess than an edge. One child pulls, one watches, one counts seconds; a phone filming in slow-motion shows the whirls clearly. Water and air are both fluids, and the same kinds of whirls form in air.",
           "context": "In this step, you pull each shape through the pepper and watch the wake."
         },
         {
@@ -1426,11 +1426,11 @@
           "qty": 1
         },
         {
-          "item": "a room with the fans off and the windows and doors closed",
+          "item": "a room with the fans off and the windows and doors closed, or a large cardboard box laid on its side to shelter the smoke from draughts",
           "qty": 1
         },
         {
-          "item": "a dark background, such as a dark cloth on the wall behind the incense",
+          "item": "a dark background, such as a dark cloth or the inside of the cardboard box behind the incense",
           "qty": 1
         }
       ],
@@ -1441,7 +1441,7 @@
           "what": "Light one incense stick. Swish a card near the smoke and watch the whirls."
         }
       ],
-      "safety": "A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma or breathing trouble, and use Whirls Behind a Spoon instead. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.",
+      "safety": "A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma, an allergy to smoke or breathing trouble, and keep it short (under ten minutes of smoke), and use Whirls Behind a Spoon instead. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.",
       "record": "Draw the smoke line before the swish, and the whirls after it. Write how long the whirls kept turning.",
       "context": "In this activity, you swish a card through a thin line of smoke and watch the air keep moving after the card has stopped.",
       "setup": [
@@ -1504,7 +1504,7 @@
               ]
             }
           ],
-          "parent": "A quick swish about 20 centimetres from the smoke usually bends the ribbon into curls that turn for a second or two. A slower swish makes less. If nothing happens, swish faster or move a little closer. Do not blow on the smoke.",
+          "parent": "A quick swish about 20 centimetres from the smoke usually bends the ribbon into curls that turn for a second or two. A slower swish makes less. If nothing happens, swish faster or move a little closer. Do not blow on the smoke. If the ribbon still wobbles on its own, put the stick inside the box on its side. In damp weather the smoke is thicker and slower to curl; swish more slowly. With several children, one swishes, one counts seconds the whirls last and one draws; take turns.",
           "check": {
             "t": "mcq",
             "q": "The card stopped, but the smoke kept curling. What does that show?",
@@ -1545,7 +1545,7 @@
           "qty": 1
         },
         {
-          "item": "a pin, a pencil or a needle to hang it from, and some thread",
+          "item": "a pencil taped to the table so it sticks out past the edge, to hang the card from, and some thread (no pin needed)",
           "qty": 1
         },
         {
@@ -1553,7 +1553,7 @@
           "qty": 1
         },
         {
-          "item": "a ruler, and a cardboard cut-out of a bird or a plane",
+          "item": "a ruler, and a second cardboard cut-out of a bird or a plane",
           "qty": 1
         }
       ],
@@ -1564,7 +1564,7 @@
           "what": "Hang the shape from two holes. Mark the lines. Find where they cross. Check by balancing."
         }
       ],
-      "safety": "A grown-up makes the holes with a sharp pencil or a pin. Handle pins carefully.",
+      "safety": "A grown-up makes the holes by pushing a sharp pencil point through the card, on a pad of old newspaper, never over a hand.",
       "record": "Draw the shape and the two lines. Mark where they cross. Write whether the shape balanced on a pencil tip at that spot.",
       "context": "In this activity, you find the balance point of a lopsided card and of a bird or plane cut-out, and test that point.",
       "setup": [
@@ -1605,7 +1605,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Hang the shape from the first hole on a pin. Hang a thread with a nut from the same pin. When everything is still, draw a line on the card along the thread. Do the same with a second hole. Look where the two lines cross. Balance the card on a pencil tip at that spot.",
+          "do": "Hang the shape from the first hole on the pencil that sticks out of the table. The hole is a little wider than the pencil, so the shape swings freely. Hang a thread with a nut from the same pencil. When everything is still, draw a line on the card along the thread. Do the same with a second hole. Look where the two lines cross. Balance the card flat on a blunt pencil tip or a fingertip at that spot.",
           "say": "Let the thread hang still. Draw along it. Now do the same from another hole. The balance point is where the two lines cross. Try balancing the card there.",
           "kid": "Hang the card from a hole. Draw along the thread. Do it again from another hole.",
           "adult": true,
@@ -1619,7 +1619,7 @@
               ]
             }
           ],
-          "parent": "The thread always hangs straight down from the hole. The balance point lies on that line. Where two lines cross, there is only one spot. If the card does not balance, redraw the lines more carefully.",
+          "parent": "The thread always hangs straight down from the hole. The balance point lies on that line. Where two lines cross, there is only one spot. If the card does not balance, redraw the lines more carefully. A third hole gives a third line; if all three cross at the same spot you have measured it well. With several children, each cuts a different shape and a friend holds the thread still.",
           "check": {
             "t": "mcq",
             "q": "Why does the card balance at the point where the two lines cross?",
@@ -1652,7 +1652,7 @@
       "days": 1,
       "materials": [
         {
-          "item": "a badminton shuttlecock, or a ball of newspaper with a ring of 6 paper strips taped on as a skirt",
+          "item": "a badminton shuttlecock, or a tight ball of newspaper with a ring of 6 paper strips (about 25 centimetres long and 3 centimetres wide) taped on as a skirt, plus a second ball with no strips",
           "qty": 1,
           "buy": "b-shuttle"
         },
@@ -1706,7 +1706,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Toss the shuttlecock gently, about 2 metres, with the feathers forward. Watch it turn. Try six tosses, in different directions. Then try the homemade one.",
+          "do": "Toss the shuttlecock gently, about 2 metres, with the feathers forward. Watch it turn. Try six tosses, in different directions, and tally how many turned cork-first. Then try the homemade one with its strips, and a ball with no strips for comparison.",
           "say": "Toss it with the feathers forward. Watch the air. Does it keep going feathers-first? Try six tosses.",
           "kid": "Toss it feathers-first. Does it turn round? Try six tosses.",
           "ask": [
@@ -1719,7 +1719,7 @@
               ]
             }
           ],
-          "parent": "The shuttlecock should turn within about a metre and fly cork-first each time. The feathers have much more drag than the cork, and drag pulls them behind. If you use the homemade one, the paper strips should trail behind the paper ball.",
+          "parent": "The shuttlecock should turn within about a metre and fly cork-first almost every time. Toss low and away from people and glass. One child tosses, one tallies and one watches where it turns. The ball with no strips should tumble and not turn the same way; if the strips ball also tumbles, make the strips longer. The feathers have much more drag than the cork, and drag pulls them behind. If you use the homemade one, the paper strips should trail behind the paper ball.",
           "check": {
             "t": "mcq",
             "q": "Why does the shuttlecock end up with the cork in front?",
@@ -1759,13 +1759,12 @@
           "qty": 1
         },
         {
-          "item": "a thick book or a large piece of cardboard, to stand in front of the fan",
+          "item": "a large piece of cardboard, at least 30 centimetres wide (or a thick book), stood upright in front of the fan with clay or a pile of books; a round bottle to compare",
           "qty": 1
         },
         {
-          "item": "a tape measure or ruler",
-          "qty": 1,
-          "buy": "b-tape"
+          "item": "a ruler, and a strip of paper marked at 5, 10, 20 and 40 centimetres",
+          "qty": 1
         }
       ],
       "schedule": [
@@ -1829,7 +1828,7 @@
               ]
             }
           ],
-          "parent": "The ribbon should hang quite still close behind the book, then flutter and flap as you move it away, and in some places it will flap oddly, as the air swirls round the edges. Your distances will differ. This calm patch is called the wake or wind's shadow.",
+          "parent": "The ribbon should hang quite still close behind the book, then flutter and flap as you move it away, and in some places it will flap oddly, as the air swirls round the edges. Your distances will differ. Switch off the fan's side-to-side swing. If the ribbon flutters everywhere, use the bigger board and a lower fan speed. Then try a round bottle in place of the board: which leaves the longer calm patch? One child holds the ribbon, one measures with the paper strip, one writes. This calm patch is called the wake or wind's shadow.",
           "check": {
             "t": "mcq",
             "q": "A rider cycles close behind another rider in the wind. Why does she find it easier?",
@@ -1877,7 +1876,7 @@
           "what": "Watch crows, pigeons, kites or egrets for 20 minutes, and record lines, tails and tilts."
         }
       ],
-      "safety": "Never look at the Sun, with or without binoculars. Stay behind the railing on a balcony or terrace.",
+      "safety": "Never look at the Sun, with or without binoculars. Stay behind the railing on a balcony or terrace, with a grown-up present. Do not touch or feed wild birds, and wash your hands afterwards.",
       "record": "A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Add a drawing of one bird turning.",
       "context": "In this activity, you watch real birds near your home, and see how they use their tails and wings to steer and how they fly in lines.",
       "setup": [
@@ -1929,7 +1928,7 @@
               ]
             }
           ],
-          "parent": "Crows, pigeons, mynas and kites are usually easy to find, even in a city. In the evening, egrets and parakeets often fly in lines to their roosts. If no birds come, try again at dusk or in the early morning. A landing bird spreads her tail to add drag and slow down.",
+          "parent": "Crows, pigeons, mynas and kites are usually easy to find, even in a city. In the evening, egrets and parakeets often fly in lines to their roosts. If no birds come, try again at dusk or in the early morning. A landing bird spreads her tail to add drag and slow down. A kite circling with tilted wings is the easiest to see. With several children, each takes one tally (lines, tails or tilts) and then you add them up.",
           "check": {
             "t": "mcq",
             "q": "A pigeon spreads her tail wide as she lands. Why?",
@@ -1963,7 +1962,7 @@
       "mins": 40,
       "materials": [
         {
-          "item": "a drinking straw, as wide as you can find",
+          "item": "a drinking straw, as wide as you can find (a juice or smoothie straw); a plain straw also works",
           "qty": 1,
           "buy": "b-straws"
         },
@@ -1991,7 +1990,7 @@
           "what": "Cut two paper strips. Make two hoops. Tape them to the straw. Fly it. Test some changes."
         }
       ],
-      "safety": "Use scissors carefully. Do not throw the glider near anyone's face.",
+      "safety": "Use scissors carefully. Do not throw the glider near anyone's face. Stand all other children behind the thrower.",
       "record": "Draw the glider with its two hoops. Write how far it flew with the small hoop in front. Write what happened when you changed one thing.",
       "context": "In this project, you make a glider from a straw and two paper rings, which looks nothing like a plane but still flies.",
       "setup": [
@@ -2038,7 +2037,7 @@
           "do": "Cut one strip 3 centimetres by 15 centimetres and one 3 centimetres by 25 centimetres. Curl each into a ring, with the ends overlapping 1 centimetre, and tape them. Tape the small ring near the front end of the straw. Tape the big ring near the back end.",
           "say": "Cut two strips, one short and one long. Curl each into a ring. Tape the small ring to the front of the straw. Tape the big ring to the back.",
           "kid": "Cut two strips. Curl them into rings. Tape the small ring to the front.",
-          "parent": "The rings should be as round as you can make them. Tape each ring flat on the straw so that the straw runs through the middle of the ring.",
+          "parent": "The rings should be as round as you can make them. Tape the straw to the inside wall of each ring, so the rings are short tubes lying along the straw, like a hula hoop that is open front and back, not hanging from it.",
           "context": "In this step, you make the glider."
         },
         {
@@ -2057,7 +2056,7 @@
               ]
             }
           ],
-          "parent": "A good throw is gentle and level, not hard and upward. It should glide a few metres. If it dives, move the front ring slightly back. If it stalls and drops, move the big ring a little further back. The rings work as round wings that push air down.",
+          "parent": "A good throw is gentle and level, not hard and upward. It should glide a few metres. If it dives, move the front ring slightly back. If it stalls and drops, move the big ring a little further back. The rings work as round wings that push air down. If it still dives, tape a small ball of clay or a few pieces of tape to the straw's front. Measure the best throw in steps. Each child makes one glider and the group compares distances. Hold the straw at its middle and throw it level, not hard.",
           "check": {
             "t": "mcq",
             "q": "Why is it better to throw the hoop glider gently than hard?",
@@ -2116,7 +2115,7 @@
       "mins": 45,
       "materials": [
         {
-          "item": "4 small paper cups, the same size",
+          "item": "4 small paper cups, the same size (chai-stall cups are fine)",
           "qty": 4,
           "buy": "b-cups"
         },
@@ -2134,7 +2133,7 @@
           "qty": 1
         },
         {
-          "item": "a table fan, and a phone or clock with a stopwatch",
+          "item": "a table fan with at least two speeds, and a phone or clock with a stopwatch",
           "qty": 1
         }
       ],
@@ -2145,7 +2144,7 @@
           "what": "Build the cup wind meter. Test it in the wind of a fan at three settings. Count the turns."
         }
       ],
-      "safety": "A grown-up pushes the pin and helps with the stapler. Keep fingers away from the fan grill.",
+      "safety": "A grown-up pushes the pin and helps with the stapler, and puts the pin and staples away after, because both are sharp and small. Keep fingers away from the fan grill.",
       "record": "A table with the fan setting (low, medium, high) and the number of turns in 30 seconds. Draw a bar chart of the three results.",
       "context": "In this project, you build a spinning cup wind meter like the one on a weather station, and use it to measure the wind of a fan.",
       "setup": [
@@ -2206,7 +2205,7 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "A grown-up turns the fan on low. Hold the meter 50 centimetres in front of it. Count how many times the coloured cup goes round in 30 seconds. Write the number. Do the same on medium and high.",
+          "do": "A grown-up turns the fan on low. Hold the meter 50 centimetres in front of it. Count how many times the coloured cup goes round in 30 seconds. Write the number. Do the same on medium and high. If your fan has one speed, hold the meter at 100, 50 and 25 centimetres instead.",
           "say": "Hold the meter in the wind. Count how many times the coloured cup goes round in 30 seconds. Write the number. Then try the next fan speed.",
           "kid": "Hold the meter in the wind. Count the turns in 30 seconds. Write it down.",
           "adult": true,
@@ -2220,7 +2219,7 @@
               ]
             }
           ],
-          "parent": "Hold it at the same distance each time. Your numbers will differ. Many families find it makes 10 to 40 turns in 30 seconds. Count with a partner, one watching the cup and one watching the clock.",
+          "parent": "Hold it at the same distance each time. Your numbers will differ. A meter like this might make roughly 10 to 60 turns in 30 seconds, depending on your fan. If it spins too fast to count, count for 10 seconds and multiply by 3. The count shows which wind is stronger, not the speed in kilometres an hour. Each child can build a meter and the group can compare them. Count with a partner, one watching the cup and one watching the clock.",
           "context": "In this step, you test the wind meter at three fan speeds."
         },
         {
@@ -3490,7 +3489,7 @@
       "id": "b-cups",
       "item": "Small paper cups, a pack",
       "kind": "material",
-      "why": "For the Cup Wind Meter. Four cups make one meter.",
+      "why": "For the Cup Wind Meter. Four cups make one meter. Chai-stall paper cups work.",
       "url": "https://www.amazon.in/s?k=small+paper+cups+100ml",
       "used_in": [
         "p2"
@@ -3508,20 +3507,19 @@
     },
     {
       "id": "b-tape",
-      "item": "Measuring tape, 5 metres",
+      "item": "Measuring tape, 5 metres (or a tailor's tape)",
       "kind": "tool",
-      "why": "For marking the 2 metre drop height and measuring distances.",
+      "why": "Helps mark the 2 metre drop height for Parachute Races. A tailor's tape from a stationery shop is cheaper. The top of a room door is about 2 metres if you do not want to buy one.",
       "url": "https://www.amazon.in/s?k=measuring+tape+5+metre",
       "used_in": [
-        "e1",
-        "a6"
+        "e1"
       ]
     },
     {
       "id": "b-binoculars",
       "item": "Beginner binoculars for children",
       "kind": "tool",
-      "why": "For watching birds from a window, a terrace or a sanctuary.",
+      "why": "Optional, not needed: for watching birds from a window, a terrace or a sanctuary. Your eyes are enough for Flock Watch.",
       "url": "https://www.amazon.in/s?k=binoculars+for+kids+bird+watching",
       "used_in": [
         "a7"
@@ -3650,5 +3648,5 @@
     "when": "1752 and 1904",
     "wrong_idea": "The neat mathematics said that a smooth object in a smooth fluid would feel no drag. The sums left out the thin sticky layer of air, and Prandtl's experiment showed that this layer, and the wake it makes, is where drag comes from."
   },
-  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Parachute Races: the fall times are estimates from the usual sums for a polythene canopy. Expect roughly 1 to 2 seconds for the small canopy and 2 to 3 for the big one. A canopy that folds up counts as a failed drop and is repeated. A stopwatch adds about a fifth of a second of error, so the steps ask for the average of three drops. Steer a Paper Plane: the usual result is that both back edges bent up make the nose rise, both bent down make it dive, and one up and one down turn the plane towards the wing with the flap up. Results depend on a level, gentle throw, so the steps say what to do if a plane behaves oddly. The Card in the Fan: the card should swing a clear 10 to 30 centimetres on a low fan setting. The open cup and the flat card are blown about the same, and the cup's rounded back much less. Whirls Behind a Spoon and Swish in the Smoke need a still room and a thin sprinkle of pepper or a thin ribbon of smoke. If the whirls are faint, move more slowly or more quickly, and try again. Smoke is skipped for anyone with breathing trouble. Straw Hoop Glider: the small hoop goes in front. The result with the hoops turned round has not been tried, so the steps say to write what is seen. Cup Wind Meter: the cups must all face the same way or it will not spin. Facts to check before the unit goes live: Haldane's essay was in 1926 and he moved to India in 1957; Sarla Thakral's 1936 solo flight at the age of 21; Anna Mani's work on wind and sunshine instruments; the 2014 ibis study and the 2001 pelican study; Prandtl's water channel; the density of air at 10 kilometres being about a third of that at the ground; the Apollo 15 hammer and feather drop in 1971; and the SRE-1 landing in January 2007. The videos have no address yet."
+  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Parachute Races: the fall times are estimates from the usual sums for a polythene canopy. Expect about 2 seconds for the small canopy and 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 for the scrunched ball. A canopy that folds up counts as a failed drop and is repeated. A stopwatch adds about a fifth of a second of error, so the steps ask for the average of three drops. Steer a Paper Plane: the usual result is that both back edges bent up make the nose rise, both bent down make it dive, and one up and one down turn the plane towards the wing with the flap up. Results depend on a level, gentle throw, so the steps say what to do if a plane behaves oddly. The Card in the Fan: the card should swing a clear 10 to 30 centimetres on a low fan setting. The open cup and the flat card are blown about the same, and the cup's rounded back much less. Whirls Behind a Spoon and Swish in the Smoke need a still room and a thin sprinkle of pepper or a thin ribbon of smoke. If the whirls are faint, move more slowly or more quickly, and try again. Smoke is skipped for anyone with breathing trouble. Straw Hoop Glider: the small hoop goes in front. The result with the hoops turned round has not been tried, so the steps say to write what is seen. Cup Wind Meter: the cups must all face the same way or it will not spin. Facts to check before the unit goes live: Haldane's essay was in 1926 and he moved to India in 1957; Sarla Thakral's 1936 solo flight at the age of 21; Anna Mani's work on wind and sunshine instruments; the 2014 ibis study and the 2001 pelican study; Prandtl's water channel; the density of air at 10 kilometres being about a third of that at the ground; the Apollo 15 hammer and feather drop in 1971; and the SRE-1 landing in January 2007. The videos have no address yet."
 }

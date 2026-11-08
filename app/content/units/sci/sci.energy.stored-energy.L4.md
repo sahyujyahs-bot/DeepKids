@@ -228,6 +228,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* 1. Cut out the labels and the cards. 2. Lay the 4 labels in a row. 3. Shuffle the cards and make a pile.  
   *Parent says:* Each card shows something that may hold energy. You say what kind of store it is, and what lets the energy out. Lay out the four labels first.  
   *Child mode:* Each card shows a thing that may hold energy. Say what store it is. Say what lets the energy out.
+  - Note: No printer or scissors? Copy each front on a slip of paper, or read the fronts from the screen while someone else holds the backs. With 2 to 4 players, take turns, and the others may help with a hint. This game is cards only: never light a match, diya or stove for it. A grown-up should do any cutting.
 - **s2 (8 min)**  
   *Parent does:* Play the first eight cards. For each, read the front, say the store and the trigger, and then check the back.  
   *Parent says:* Take a card. Read the front. Which label does it go under? What is the trigger? Then turn it over and check.  
@@ -250,6 +251,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* 1. Cut out the cards. 2. Shuffle them into a pile. 3. Agree on 30 seconds for each card.  
   *Parent says:* Each card shows something that uses energy. You trace its energy back to where it began. You have thirty seconds for each card.  
   *Child mode:* Each card uses energy. Trace it back to where it began. You have thirty seconds.
+  - Note: You need something that shows 30 seconds, such as a phone timer or counting aloud. With 2 to 4 players, take turns, and the others may help with a missing link for half a point. A grown-up should do any cutting.
 - **s2 (8 min)**  
   *Parent does:* Play eight cards. For each, say the chain out loud before you check the back.  
   *Parent says:* Take a card. Say the chain out loud, from where the energy began to the thing on the card. Then check the back.  
@@ -267,7 +269,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **question:** A pulled-back rubber band pushes a bar of soap along the floor. If you pull the soap back twice as far, does it slide twice as far, or more, or less?
 - **predict:** Before you start, guess. How far will the soap slide after a 2 centimetre pull-back, and after a 4 centimetre pull-back? Will twice the pull-back give twice the slide? Why do you think so?
 - **fair test:** The same band, the same soap, the same pencils and the same floor are used every time. The pencils are always 10 centimetres apart. The soap always starts straight behind the band, and you always let go of it without flicking. Only the pull-back changes, so any change in the slide comes from the pull-back. Each pull-back is tried three times, because one try can be a fluke.
-- **safety:** A rubber band can snap, so stand to the side of the band's line and never pull the soap back more than 6 centimetres. Stand each pencil with the pointed end in the clay and the flat end up.
+- **safety:** A rubber band can snap, so stand to the side of the band's line and never pull the soap back more than 6 centimetres. Push each pencil with the pointed end deep into the clay and the flat end up, so nobody can fall on a point. Tape the clay lumps to the floor. Keep your face away from the band. A grown-up should be near, because pencils are sharp.
 - **record:** Write each slide in the table. Circle the middle one of the three for each pull-back. Then draw a bar for each pull-back, using the middle slide.
 - **results table:** Pull-back (cm) | Slide 1 (cm) | Slide 2 (cm) | Slide 3 (cm) | Middle slide (cm)
 - **s1 (5 min)**  
@@ -275,19 +277,19 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent says:* We will pull a rubber band back and let go. It will push a bar of soap along the floor. How far will the soap slide after a 2 centimetre pull-back? And after a 4 centimetre pull-back, which is twice as far? Why do you think so?  
   *Child mode:* A band will push a soap along the floor. Pull it back 2 centimetres, then 4. How far will it slide each time? Why do you think so?
   - Ask: If we pull back twice as far, will the soap slide twice as far, or more, or less? Why? (good: Twice as far, because twice the pull.; More, because the band is stretched more.; Less, because the band gets tired.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guess and the reason at the top of the table. Use a smooth tile or cement floor, because a carpet will not work.
+  - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guess and the reason at the top of the table. Use a smooth tile or cement floor, because a carpet will not work. With 2 to 4 children, give each child a job: one pulls and lets go, one reads the tape and calls the number, one writes. Swap jobs after each pull-back size. Every child writes their own guess first. With one child, you read the tape and write while your child pulls and lets go.
 - **s2 (7 min)**  
-  *Parent does:* 1. Push the pointed end of each pencil into a lump of clay. 2. Stand the pencils on the floor, exactly 10 centimetres apart. 3. Loop the band round both pencils so it is straight and just snug. 4. Lay the ruler behind the band and the tape in front, with their zeros at the band.  
+  *Parent does:* 1. Push the pointed end of each pencil into a lump of clay and tape the clay to the floor. 2. Stand the pencils exactly 10 centimetres apart. 3. Loop the band round both pencils, low down, about 2 centimetres above the floor, so it is straight and just snug. 4. Lay the ruler behind the band and the tape in front, with their zeros at the band.  
   *Parent says:* Stand the two pencils exactly 10 centimetres apart. Put the band round both. It should be straight, and only just snug. Lay the ruler behind the band, and the tape in front. Both start at zero on the band.  
   *Child mode:* Stand two pencils in clay, 10 centimetres apart. Put the band round them. Lay the ruler behind it and the tape in front.
-  - Note: Check the band. If it is loose and floppy, use a smaller band. If it is already very tight, move the pencils a little closer. If the pencils tip over, press more clay round their feet. Soap with a flat side works best, because a round soap can roll.
+  - Note: Check the band. If it is loose and floppy, use a smaller band. If it is already very tight, move the pencils a little closer. If the pencils tip over or lean towards you, press more clay round their feet and add tape. Keep the band low, because a band high up tips the pencils. Soap with a flat side works best, because a round soap can roll.
   - Check: Why must the pencils always be exactly 10 centimetres apart? → **So the band is the same every test, and only the pull-back changes**
 - **s3 (5 min)**  
   *Parent does:* 1. Put the soap against the band, in the middle between the pencils. 2. Slide it straight back until its front edge is at 2 centimetres on the ruler. 3. Let go. Do not flick it. 4. Read where the front edge stops on the tape, and write the number. 5. Do this three times.  
   *Parent says:* Put the soap against the band. Slide it back until its front edge is at 2 centimetres. Let go, without flicking. Read where the front edge stops. Do it three times.  
   *Child mode:* Pull the soap back 2 centimetres. Let go. Read where it stops. Do it three times.
   - Ask: What does the band do to the soap when you let go? (good: It pushes it forward.; It springs back and shoves the soap.; It gives the soap a kick.)
-  - Note: The soap leaves the band when the band is straight again at the pencils. If the soap barely moves, write the small number or 0. That is a real result. If the soap skids sideways, start again and slide it straight back. Put the soap in the same spot each time.
+  - Note: The soap leaves the band when the band is straight again at the pencils. If the soap barely moves, write the small number or 0. That is a real result. If the soap skids sideways, start again and slide it straight back. Put the soap in the same spot each time. If even the 6 centimetre pull-back moves the soap less than about 10 centimetres, the band is too weak: use a thicker band, or two bands side by side, or move the pencils 2 centimetres closer. If the soap flies far even at 2 centimetres, use a thinner band.
 - **s4 (5 min)**  
   *Parent does:* 1. Slide the soap back until its front edge is at 4 centimetres on the ruler. 2. Let go. 3. Read where the front edge stops on the tape, and write the number. 4. Do this three times.  
   *Parent says:* Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times. Is the slide twice as far?  
@@ -303,7 +305,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* 1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?  
   *Child mode:* Draw a bar for each pull-back. Say what you thought, what you saw, and why.
-  - Note: After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.
+  - Note: After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times, but with a very small first slide the ratio is not reliable. If the 2 centimetre slide is under 2 centimetres, compare the 6 centimetre slide with the 4 centimetre slide instead. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.
   - Check: The 2 centimetre pull-back gave a slide of 12 centimetres. The 4 centimetre pull-back gave 48 centimetres. What does this show? → **Doubling the pull-back stored about four times the energy**
   - Think: Why did a pull-back twice as long make the soap slide more than twice as far?
 ### e2 · The Bounce Ratio: how high does a ball come back from different heights? (40 min)
@@ -323,25 +325,25 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* 1. Stick the tape upright on the wall, with zero at the floor. 2. Put a flag of masking tape at 30, 60 and 90 centimetres. 3. Practise one drop at 30. The helper crouches so their eyes are level with the flag.  
   *Parent says:* Stick the tape on the wall. Zero is at the floor. Put a flag at 30, 60 and 90. Your helper crouches next to the tape. Their eyes should be level with the top of the bounce.  
   *Child mode:* Stick the tape on the wall. Put flags at 30, 60 and 90. The helper crouches beside it.
-  - Note: A bounce is quick. If you have a phone, film each drop in slow motion with the tape in view, then pause at the top of the bounce. Without a phone, practise a few drops so the helper learns where to look.
+  - Note: A bounce is quick. If you have a phone, film each drop in slow motion with the tape in view, then pause at the top of the bounce. Without a phone, practise a few drops so the helper learns where to look. With 2 to 4 children, give jobs: one drops, one reads the bounce at eye level, one films, one writes. Swap after each height, and let a second reader check. With one child, stand the phone on a pile of books, film each drop, and read the bounce when you play it back. Two readers can differ by a few centimetres; that is why we take the middle of three.
   - Check: Why does the helper always crouch at the same eye level? → **So the height is read from the same angle every time**
 - **s3 (7 min)**  
   *Parent does:* 1. Hold the ball with its top at the 30 centimetre flag. 2. Let go, without pushing it. 3. The helper reads the highest point of the top of the ball. 4. Write it down. 5. Do this three times.  
   *Parent says:* Hold the ball with its top at 30. Let go, and do not push. Your helper reads how high the top of the ball goes. Do it three times.  
   *Child mode:* Hold the ball at 30. Let go. The helper reads the top of the bounce. Three times.
   - Ask: How high did the ball come back compared with where it started? (good: Lower than the start.; About two thirds of the way.; Not all the way back.)
-  - Note: Typical numbers for 30 centimetres are 18 to 22 centimetres. If the readings differ by more than 4 centimetres, try again. A bounce of about 20 is fine.
+  - Note: For 30 centimetres, a cricket tennis ball often bounces about 15 to 22 centimetres, but balls differ, so yours may be higher or lower. If the readings differ by more than 4 centimetres, try again. If the ball bounces hardly at all, it is too soft or the floor is too soft; try a different ball or a tile.
 - **s4 (7 min)**  
   *Parent does:* 1. Hold the ball with its top at the 60 centimetre flag. 2. Let go. 3. The helper reads the top of the bounce. 4. Write it down. 5. Do this three times.  
   *Parent says:* Now drop the ball from 60. That is twice as high. Let go, and your helper reads the top of the bounce. Do it three times. Is it twice as high as before?  
   *Child mode:* Now drop from 60, twice as high. The helper reads the bounce. Three times.
   - Ask: The drop was twice as high. How does the bounce compare with the 30 centimetre bounce? (good: About twice as high.; Higher, but still below the start.; A bit less than twice.)
-  - Note: Typical numbers for 60 centimetres are 36 to 44 centimetres. Do not explain yet. Let your child compare the numbers.
+  - Note: For 60 centimetres, about 30 to 44 centimetres is common. Do not explain yet. Let your child compare the numbers.
 - **s5 (7 min)**  
   *Parent does:* 1. Hold the ball with its top at the 90 centimetre flag. 2. Let go. 3. The helper reads the top of the bounce. 4. Write it down. 5. Do this three times.  
   *Parent says:* Last, drop the ball from 90. That is three times as high as the first drop. The helper reads the top of the bounce. Do it three times.  
   *Child mode:* Last, drop from 90. The helper reads the bounce. Three times.
-  - Note: Typical numbers for 90 centimetres are 55 to 65 centimetres. You can try a drop from 120 centimetres if the tape is long enough.
+  - Note: For 90 centimetres, about 45 to 65 centimetres is common. You can try a drop from 120 centimetres if the tape is long enough.
 - **s6 (3 min)**  
   *Parent does:* 1. Hold the dough ball with its top at the 90 centimetre flag. 2. Let go. 3. Write how high it bounces.  
   *Parent says:* Now drop the ball of dough from 90. How high does it bounce? What do you think the dough ball is missing?  
@@ -358,14 +360,14 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 
 ## Activities
 ### a1 · Hanging Water: how hard does a band pull back? (25 min)
-- **safety:** Keep your face away from the band while it holds the bottle. Stop adding water at 400 millilitres, because a band can snap if it is overloaded.
+- **safety:** Keep your face away from the band while it holds the bottle. Stop adding water at 400 millilitres, because a band can snap if it is overloaded. Hang it where nobody walks, with a tray under it. Hold the bottle with one hand while you hook it on, and let go slowly.
 - **record:** A table with the water added in millilitres and the stretch of the band in centimetres. Then a line graph of stretch against water.
 - **s1 (3 min)**  
   *Parent does:* Show your child the band and the bottle. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will hang a bottle from a band and add water, 100 millilitres at a time. The band will stretch. Each time we add the same water, will it stretch the same amount again? Or more, or less? Why do you think so?  
   *Child mode:* Hang a bottle from a band. Add water 100 millilitres at a time. Will the band stretch the same each time? Why?
   - Ask: Will every 100 millilitres stretch the band by the same amount? Why? (good: Yes, because the weight is the same.; No, the band gets harder to stretch.; No, it stretches more each time.)
-  - Note: Do not correct the guess. A guess with a reason is a good start. Water is a good weight, because 100 millilitres weighs about 100 grams.
+  - Note: Do not correct the guess. A guess with a reason is a good start. Water is a good weight, because 100 millilitres weighs about 100 grams. With 2 to 4 children, one pours, one marks, one measures and one writes; swap after each step. With one child, you pour and your child marks and measures.
 - **s2 (7 min)**  
   *Parent does:* 1. Hang the band from the handle. 2. Hook the string loop of the empty bottle on the band. 3. Tape the ruler upright beside the band. 4. Mark on the ruler where the string hangs. That mark is zero.  
   *Parent says:* Hang the band from the handle. Hook the empty bottle on the band. Tape a ruler beside it. Mark where the string hangs. That is zero stretch.  
@@ -377,7 +379,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent says:* Pour in 100 millilitres, slowly. Wait ten seconds. Mark where the string hangs. Measure from zero. Do the same with 200, 300 and 400 millilitres.  
   *Child mode:* Add 100 millilitres. Wait. Mark. Measure. Do 200, 300 and 400.
   - Ask: Does each 100 millilitres stretch the band by the same amount? (good: About the same each time.; A bit less each time.; It stretches in even steps.)
-  - Note: Rubber slowly creeps, so wait before you read. A thin band may stretch in steps of about 1 centimetre, a thick one about half a centimetre. The steps are usually about equal, and often slightly smaller near the end. Stop at 400 millilitres.
+  - Note: Rubber slowly creeps, so wait before you read. A thin band may stretch in steps of about 1 centimetre, a thick one about half a centimetre. The steps are usually about equal, and often slightly smaller near the end. Stop at 400 millilitres. The numbers are only about right: a thin band might stretch about 1 centimetre per 100 millilitres, a thick one about half a centimetre, and the first step is often a little different from the rest. If the band stretches less than 3 millimetres per step, it is too stiff to read, so use a thinner band or two thin bands together.
 - **s4 (5 min)**  
   *Parent does:* 1. Draw a graph with water on the bottom and stretch up the side. 2. Mark each pair of numbers and join the dots with a ruler. 3. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where would the line be for 200 millilitres more?  
@@ -386,6 +388,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Check: A band stretches 2 centimetres with 200 millilitres of water. About how much would it stretch with 400 millilitres? → **About 4 centimetres**
   - Think: If twice the weight gives about twice the stretch, how hard must you pull to hold a band stretched twice as far?
 ### a2 · Table or Floor: the same ball in the same place (15 min)
+- **safety:** Keep the stool steady and by the wall, and nobody should stand on it. Do not play near glass or fans.
 - **record:** Write the bounce height above the stool and the bounce height above the floor. Say how many times higher the second one is.
 - **s1 (3 min)**  
   *Parent does:* Show your child the stool and the ball. Ask for a guess and a reason, and write both down.  
@@ -397,7 +400,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* 1. Stand the stool by the wall. 2. Put a flag on the wall 30 centimetres above the top of the stool. 3. Hold the ball with its top at the flag. 4. Let go. 5. The helper holds the ruler upright on the stool and reads the top of the bounce. Do it three times.  
   *Parent says:* Put a flag on the wall, 30 centimetres above the stool top. Hold the ball with its top at the flag. Let go. Your helper reads the bounce above the stool. Do it three times.  
   *Child mode:* Flag 30 centimetres above the stool. Drop the ball. The helper reads the bounce. Three times.
-  - Note: Expect a bounce of about 15 to 22 centimetres above the stool top. The stool top can be a different hardness from the floor, so the bounce may differ a little. We are looking for a big change, not a small one.
+  - Note: Expect a bounce of about 15 to 22 centimetres above the stool top. The stool top can be a different hardness from the floor, so the bounce may differ a little. We are looking for a big change, not a small one. With 2 to 4 children, one drops, one reads the bounce, one writes; swap each round. With one child, the parent reads the bounce.
 - **s3 (5 min)**  
   *Parent does:* 1. Move the stool well away. Do not move the flag. 2. Hold the ball with its top at the same flag. 3. Let go, and it falls to the floor. 4. The helper reads the top of the bounce on the tape, with zero at the floor. Do it three times.  
   *Parent says:* Now move the stool away. Leave the flag where it is. Hold the ball in exactly the same place. Let go. Your helper reads the bounce above the floor.  
@@ -410,52 +413,59 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Child mode:* Same ball, same place. Why was the second bounce higher?
   - Note: After your child has said what they saw, you can explain. The energy a ball can give back depends on how far it can fall. With the stool gone, the same ball can fall further, so it can give back more. So the energy is not only in the ball. It depends on the ball and on what is below it.
   - Think: Does a ball in your hand hold one fixed amount of energy?
-### a3 · The Syringe Spring: air that pushes back (10 min)
-- **safety:** Use a syringe with no needle, and keep it out of your mouth. The clay plug can pop out when the air is squashed hard, so do not push past 2 millilitres and do not point it at anyone's face. Never point a pump at anyone's face.
+### a3 · The Syringe Spring: air that pushes back (15 min)
+- **safety:** Use a syringe with no needle, and keep it out of your mouth. The syringe has small parts, so it is not for children under five. The clay plug can pop out when the air is squashed hard, so never push past 4 millilitres and do not point it at anyone's face. Never point a pump at anyone's face. Do the water step over a tray or sink.
 - **record:** Draw the syringe with the plunger pulled back and then pushed in. Draw arrows for the push of the air.
 - **s1 (2 min)**  
   *Parent does:* Show your child the syringe. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will block the end of this syringe with clay, and push the plunger in. What do you think will happen when we let go? Why do you think so?  
   *Child mode:* Block the end of a syringe. Push the plunger in. What happens when you let go? Why?
-  - Note: Do not correct the guess. A syringe with a plastic barrel and a rubber plunger works best. A bicycle pump with a thumb over the nozzle also works.
+  - Note: Do not correct the guess. A syringe with a plastic barrel and a rubber plunger works best. A bicycle pump with a thumb over the nozzle also works, but it has no millilitre marks, so push it halfway instead. With 2 to 4 children, one syringe is enough: take turns, and each child says what they felt. A second syringe lets two work in pairs.
 - **s2 (4 min)**  
   *Parent does:* 1. Pull the plunger out to 10 millilitres. 2. Press the nozzle firmly into the clay. 3. Push the plunger in slowly to 5 millilitres. 4. Feel the push back. 5. Let go and watch.  
   *Parent says:* Pull the plunger out to 10. Block the nozzle with clay. Push the plunger in slowly, to 5. What do you feel? Now let go.  
   *Child mode:* Pull to 10. Block the end. Push to 5. Feel the push back. Let go.
   - Ask: What did the plunger do when you let go? Why? (good: It sprang back.; The air pushed it back.; The air was squashed and wanted more room.)
-  - Note: The plunger should spring back to near 10. If it stays at 5, the clay plug leaks. Press the plug harder. Squashed air pushes back because its tiny particles hit the walls more often when there is less room.
+  - Note: The plunger should spring back to near 10. If it stays at 5, the clay plug leaks. Press the plug harder, or use a bigger lump of clay. A syringe may stop short of 10 a little, because the rubber rubs on the barrel; that is fine. Squashed air pushes back because its tiny particles hit the walls more often when there is less room.
 - **s3 (4 min)**  
-  *Parent does:* 1. Try to push the plunger in to 2 millilitres. 2. Notice how hard you have to push. 3. Let go, and watch.  
-  *Parent says:* Try pushing the plunger in much further, to 2. Is it harder or easier to push the last bit? What does that remind you of?  
-  *Child mode:* Push to 2. Is the last bit harder or easier? What does that remind you of?
+  *Parent does:* 1. Try to push the plunger in to 4 millilitres, but no further. 2. Notice how hard you have to push. 3. Let go, and watch.  
+  *Parent says:* Try pushing the plunger in a bit further, to 4, but not past it. Is it harder or easier to push the last bit? What does that remind you of?  
+  *Child mode:* Push to 4. Not further. Is the last bit harder or easier? What does that remind you of?
   - Ask: Is the last part of the push harder or easier than the first part? What does that remind you of? (good: Harder.; It is like pulling the rubber band further.; It pushes back more the more it is squashed.)
   - Note: Most children notice that the last part is harder, as with the band. Squashed air, like a stretched band, pushes back harder the more it is squeezed, so squashing it more stores more energy.
   - Check: Why does the plunger spring back when you let go? → **The squashed air stored energy and pushes the plunger out**
+- **s4 (5 min)**  
+  *Parent does:* 1. Fill the syringe with water, pushing out all the air, and plug the nozzle with clay. 2. Try to push the plunger in. 3. Compare it with the air: which one could you squash?  
+  *Parent says:* Now fill the syringe with water and block the end. Try to push the plunger in. Can you squash the water like the air? What is different?  
+  *Child mode:* Fill the syringe with water. Block the end. Try to push. Can you squash it like air?
+  - Ask: Can you squash the water as easily as the air? What does that tell you? (good: No, the water hardly moves.; Air can be squashed, water cannot.; Only the air can be a spring.)
+  - Note: Do this over a tray or sink. Push gently, because the clay can pop out and squirt water. The plunger barely moves with water, while the air squashed to half. Air has room between its particles, so it can be squeezed, and then it pushes back. Water has hardly any room to squeeze.
+  - Think: Why is air a spring, and water is not?
 
 ## Projects
 ### p1 · The Valley Track: can a marble climb higher than it started? (40 min)
-- **safety:** Keep marbles away from children under five, who may put them in their mouths.
+- **safety:** Keep marbles away from children under five, who may put them in their mouths. A grown-up should cut the card with scissors. Pick up stray marbles at once so nobody slips on them.
 - **record:** A table with the height of the far end in centimetres, and whether the marble rolled out of the far end, stopped short, or just made it. Then write the highest far end that worked.
 - **s1 (4 min)**  
   *Parent does:* Show your child the marble and the cardboard. Ask for a guess and a reason, and write both down.  
-  *Parent says:* A marble starts at the top of one side of a valley, 30 centimetres up. It rolls down and up the other side. How high can the other side be before the marble cannot climb out? Why do you think so?  
+  *Parent says:* A marble starts at the top of one side of a valley, 20 centimetres up. It rolls down and up the other side. How high can the other side be before the marble cannot climb out? Why do you think so?  
   *Child mode:* A marble rolls down a valley and up the far side. How high can the far side be? Why?
   - Ask: Could the far side be higher than the start and still let the marble out? Why? (good: No, it started lower than that.; Yes, if it goes fast enough.; Only up to the same height.)
-  - Note: Do not correct the guess. Some children expect the marble to gain speed and go higher. Write the guess and reason.
+  - Note: Do not correct the guess. Some children expect the marble to gain speed and go higher. Write the guess and reason. With 2 to 4 children, each writes a guess for the highest far end. Jobs: one releases, one watches the far end, one writes; swap after each setting.
 - **s2 (12 min)**  
-  *Parent does:* 1. Fold up both long edges of the cardboard strip by 1 centimetre, to make a groove. 2. Tape one end to the top of a stack of books 30 centimetres high. 3. Bend the strip into a valley and tape the other end to a stack 10 centimetres high. 4. Roll the marble down once to test.  
-  *Parent says:* Fold up the edges of the strip to make a groove. Tape one end to the high stack. Bend the strip into a valley. Tape the other end to the low stack. Test with one roll.  
-  *Child mode:* Fold up the edges. Tape one end high. Bend a valley. Tape the other end low. Test one roll.
-  - Note: The groove must be smooth. Press out any wrinkle. If the marble jumps out, fold the edges up higher. Measure the height of each end from the floor to the strip.
-  - Check: Why do we always release the marble from the same mark at 30 centimetres? → **So the start stays the same and only the far end changes**
+  *Parent does:* 1. Fold up both long edges of the card strip by 1 centimetre, to make a groove. 2. Lay the strip so its middle 10 centimetres lie flat on the floor, and tape them down. 3. Lift one end and tape it to the top of a stack of books 20 centimetres high. 4. Lift the other end and tape it to a stack 10 centimetres high. The strip now curves up on both sides, like a smile. 5. Put the catching box beyond the far end. 6. Roll the marble down once to test.  
+  *Parent says:* Fold up the edges of the strip to make a groove. Tape the middle flat to the floor. Tape one end to the high stack and the other to the low stack, so it curves like a smile. Test with one roll.  
+  *Child mode:* Fold up the edges. Tape the middle to the floor. Tape one end high and one end low. Test one roll.
+  - Note: The groove must be smooth. Press out any wrinkle and keep the tape joins flat, because a bump takes energy. If the marble jumps out, fold the edges up higher. Measure the height of each end from the floor to the strip, at the end of the strip. If the strip bows up like a hill, press the middle down and tape it again.
+  - Check: Why do we always release the marble from the same mark at 20 centimetres? → **So the start stays the same and only the far end changes**
 - **s3 (15 min)**  
-  *Parent does:* 1. Set the far end at 10 centimetres and release the marble. 2. Raise the far end by 5 centimetres at a time, to 15, 20, 25, 30 and 35. 3. Each time, release the marble from the same start mark. 4. Write if it rolled out of the far end, stopped short, or just made it.  
-  *Parent says:* Set the far end low and release the marble. Raise the far end by 5 centimetres each time. Always start from the same mark. Write what the marble does each time.  
-  *Child mode:* Raise the far end 5 centimetres at a time. Release from the same mark. Write what happens.
+  *Parent does:* 1. Set the far end at 10 centimetres and release the marble from the 20 centimetre mark. 2. Raise the far end by 2 centimetres at a time, to 12, 14, 16, 18, 20 and 22. 3. Each time, release the marble from the same start mark. 4. Write if it rolled out of the far end, stopped short, or just made it. 5. Last, set the far end at 26 centimetres and release the marble. A helper marks with a finger where it turns back. Measure that height.  
+  *Parent says:* Set the far end low and release the marble. Raise the far end by 2 centimetres each time. Always start from the same mark. Write what the marble does each time. Last, put the far end high and mark where the marble turns back.  
+  *Child mode:* Raise the far end 2 centimetres at a time. Release from the same mark. Write what happens. Last, mark where it turns back.
   - Ask: At what height does the marble stop being able to climb out? (good: Just below where it started.; A bit lower than the start.; About the same height as the start, but not quite.)
-  - Note: A marble should climb out of far ends a little below the start, often within a few centimetres of it. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke.
+  - Note: A marble should climb out of far ends a little below the start, often within a few centimetres of it, but card, tape joins and wobble take energy, so yours may stop several centimetres short. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke. The turn-back mark is hard to see by eye, so film it on a phone if you can. If the marble stops far short even at the lowest setting, the track is bumpy: smooth the joins and press out the wrinkles.
 - **s4 (9 min)**  
-  *Parent does:* 1. Write the highest far end that worked. 2. Ask your child to say what they thought, what they saw, and why.  
+  *Parent does:* 1. Write the highest far end that worked. 2. Compare it with the turn-back height from the last test. 3. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the marble could not climb higher than where it started?  
   *Child mode:* Say what you thought, what you saw, and why.
   - Note: After your child has said what they saw, you can explain. At the start the marble held energy in its height. Rolling down turned it into movement, and climbing up turned it back into height. Some energy went into rubbing between the marble and the groove, and into the marble's spin and the track's wobble, as small amounts of heat and sound. So the marble reached a little less than its start, and never more. Energy cannot be made on the way.
@@ -465,7 +475,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 ### c1 · Beat the Drop: make a ball bounce higher than the place it was dropped from (35 min)
 - **problem:** You have a big ball and a small bouncy ball. Find a way to make the small ball bounce higher than the height it was dropped from, using only the balls and your hands.
 - **your turn:** Try the stack. Try different balls. Which pair made the small ball bounce highest? Why do you think the small ball went higher than a single ball can?
-- **constraints:** Use only the two balls and your hands. No throwing and no pushing down.; Let go from a height of 50 centimetres, with the top of the big ball at the 50 centimetre mark and the small ball resting on it.; Measure the highest point of the small ball's bounce on a tape stuck on the wall.; Do the test on a hard floor, with nothing breakable nearby.
+- **constraints:** Use only the two balls and your hands. No throwing and no pushing down.; Let go from a height of 50 centimetres, with the top of the big ball at the 50 centimetre mark and the small ball resting on it.; Measure the highest point of the small ball's bounce on a tape stuck on the wall.; Do the test on a hard floor, in a room with a high ceiling and nothing breakable or glass nearby, away from fans.
 - **general:** Drop the small ball alone from 50 centimetres. It will bounce lower than 50 centimetres.; Use a very bouncy ball, such as a hard rubber ball, to get as close to 50 centimetres as possible.; Drop it onto a harder floor so less energy goes into the floor.
 - **creative:** Put the small ball on top of the big ball and drop them together. The small ball can shoot much higher than 50 centimetres.; Try the smallest and lightest ball on top, and the biggest and heaviest underneath.; Try three balls in a stack, with the lightest ball at the top.
 - **s1 (5 min)**  
@@ -478,13 +488,13 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* 1. Stick the tape on the wall, with zero at the floor. 2. Flag 50 centimetres. 3. Drop the small ball alone from the flag, three times. 4. Write how high it bounces.  
   *Parent says:* Drop the small ball on its own from 50 centimetres. Your helper reads the bounce. Do it three times. This is the number we want to beat.  
   *Child mode:* Drop the small ball alone from 50. The helper reads the bounce. Three times.
-  - Note: The small ball alone should bounce to about 25 to 40 centimetres, lower than the start.
+  - Note: The small ball alone should bounce to about 25 to 40 centimetres, lower than the start. Use 50 centimetres for every test, so the results can be compared.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* 1. Rest the small ball exactly on top of the big ball. 2. Hold them with the big ball's top at the 50 centimetre flag. 3. Let go of both at the same moment. 4. The helper reads the top of the small ball's bounce. 5. Try five times.  
   *Parent says:* Rest the small ball on top of the big ball. Hold them together at 50. Let go of both at the same moment. Your helper reads the small ball's bounce. Try five times.  
   *Child mode:* Small ball on top of the big ball. Hold at 50. Let go of both together. Five tries.
   - Ask: What did the small ball do compared with when it was dropped alone? (good: It went much higher.; It shot above the flag.; The big ball hardly bounced.)
-  - Note: Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. It may take a few tries to get the small ball exactly on top. If it goes sideways, centre it better. Often the small ball bounces 2 to 3 times as high as the start.
+  - Note: Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. Hold the big ball low on its sides with both hands, balance the small ball on top, and pull your hands away sideways at the same moment. A small wobble sends the small ball sideways, so it may take many tries. When the balls line up, the small ball often reaches about 1.5 to 3 times the start height; with a poor line-up, it may only do a little better or go sideways. Film it if you can. With 2 to 4 children, one drops, one steadies the tape and reads, one films, one writes; swap after each try. With one child, a parent reads the bounce.
 - **s4 (7 min)**  
   *Parent does:* 1. Try other balls on top and underneath. 2. Write how high the top ball goes each time. 3. Find the pair that made the top ball bounce highest.  
   *Parent says:* Try other pairs of balls. Is it better with a bigger ball underneath? A lighter ball on top? Write the highest bounce for each pair.  
@@ -720,9 +730,9 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with working models of engines, motors and energy.
 
 ## Things to buy
-- [A small packet of rubber bands, thick and thin](https://www.amazon.in/s?k=rubber+bands+stationery) (material): The Soap Slider and Hanging Water need a good rubber band. Most homes have some. A packet is cheap at any stationery shop. Used in e1, a1. 
+- [A small packet of rubber bands, thick and thin](https://www.amazon.in/s?k=rubber+bands+stationery) (material): The Soap Slider and Hanging Water need a good rubber band, thin for one and thick for the other. Most homes have some. A packet is cheap at any stationery shop. Used in e1, a1. 
 - [A tailor's measuring tape, 150 centimetres](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): To measure the slide of the soap and the height of a bounce. Many homes have one in the sewing box. A metre stick also works. Used in e1, e2, a2. 
-- [A 10 millilitre medicine syringe without a needle](https://www.amazon.in/s?k=10ml+syringe+without+needle) (tool): To squash air and feel it push back. Medicine shops sell them for a few rupees. A bicycle pump also works. Used in a3. 
+- [A 10 millilitre medicine syringe without a needle](https://www.amazon.in/s?k=10ml+syringe+without+needle) (tool): To squash air and feel it push back. A medicine shop sells one for a few rupees, and the dose syringe that comes with children's syrup also works. A bicycle pump also works. Used in a3. 
 - [A cricket tennis ball and a rubber ball](https://www.amazon.in/s?k=cricket+tennis+ball) (material): For the bounce tests and the Beat the Drop challenge. Any bouncy ball works, and the neighbourhood sports shop sells them cheaply. Used in e2, a2, c1. 
 
 ## Warm-up

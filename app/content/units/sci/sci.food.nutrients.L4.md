@@ -264,54 +264,54 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   - Think: Which numbers would you change to make a card about a food from your own kitchen?
 
 ## Experiments
-### e1 · Burning Nuts: how much heat does a food give? (52 min)
+### e1 · Burning Nuts: how much heat does a food give? (40 min)
 - **question:** Which gives the most heat to a tumbler of water: a groundnut, half a cashew or a piece of dry coconut? How much of the heat reaches the water?
 - **predict:** Before you start, guess. Which food will warm the water the most, and which the least? How many degrees will the water rise? Why do you think so?
 - **fair test:** Every trial uses the same 50 millilitres of fresh water from the same bottle, the same tumbler, the same thermometer, and a nut weighing about half a gram. The tumbler is held 2 centimetres above the nut each time, and the nut burns until its flame goes out by itself. Only the food changes. The groundnut is tested twice, so we can see how much two identical trials differ.
-- **safety:** A grown-up lights the flame and holds the hot tumbler, every time. Work on a bare counter near the sink, away from curtains and paper, with the window open. Tie back long hair. Do not touch the nut or the pin until they are cold. Do not eat any food that has been burned. If anyone in the family has a nut allergy, use only the coconut and do not let that person near the nuts or the smoke.
+- **safety:** A grown-up lights the flame and holds the hot tumbler, every time. Work on a bare counter near the sink, away from curtains and paper, with the window open for the smoke but the fan off. Keep a plate nearby to cover and put out a nut. Use a steel or aluminium tumbler, never plastic or glass. Tie back long hair. Do not touch the nut or the pin until they are cold. Do not eat any food that has been burned. Hairpins and needles are sharp, so keep them away from small children. If anyone in the family has a nut allergy, use only the coconut and do not let that person near the nuts or the smoke.
 - **record:** Write the weight, start temperature and end temperature for each trial. Work out the rise in degrees. Then multiply the rise by 0.05 to get the heat in the water in kilocalories. Compare it with the heat the label promises.
 - **results table:** Trial | Food | Weight (grams) | Start temperature (degrees) | End temperature (degrees) | Rise (degrees) | Heat in the water (kilocalories)
-- **s1 (5 min)**  
+- **s1 (4 min)**  
   *Parent does:* Show your child the groundnut, the cashew and the coconut. Write down their guess about the most and the least heat, and their reason.  
   *Parent says:* We will burn three foods under a tumbler of water. Which will warm the water most? Which will warm it least? Why do you think so?  
   *Child mode:* We will burn three foods under water. Which gives the most heat? Why do you think so?
   - Ask: Why do you think that food has the most heat? (good: It has the most fat.; It burns longest.; It is oily.; It is the biggest.)
-  - Note: Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the table.
-- **s2 (8 min)**  
+  - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child weighs, reads and records, and the parent lights and holds. Two to four children: one weighs, one reads the thermometer, one times the burn, and one writes the table. Swap jobs every trial. Each child writes their own guess first.
+- **s2 (6 min)**  
   *Parent does:* Weigh each nut and write the weight down. Pour 50 millilitres of water into the tumbler. Put the thermometer in and read the start temperature.  
   *Parent says:* Weigh each food and write the number. Then measure 50 millilitres of water. Read the temperature before we start.  
   *Child mode:* Weigh each food. Pour 50 millilitres of water. Read the temperature.
-  - Note: Water from the room-temperature bottle is usually 26 to 32 degrees. If you have no pocket scale, pick pieces that look the same size and say so in your notes. The comparison is then rough. Stand the nut on the pin so that it does not touch the plate.
-- **s3 (12 min) · grown-up needed**  
+  - Note: Water from the room-temperature bottle is usually 26 to 32 degrees. If you have no pocket scale, pick pieces that look the same size and say so in your notes. The comparison is then rough. Stand the nut on the pin so that it does not touch the plate. A damp nut will not burn well in the monsoon. A grown-up can dry the nuts for a minute on a warm tawa and cool them first. Keep draughts away: a breeze from a fan wastes much of the heat.
+- **s3 (9 min) · grown-up needed**  
   *Parent does:* Fix the hairpin in the dough. Rest a groundnut on the pin. The grown-up lights it and holds the tumbler 2 centimetres above, with tongs.  
   *Parent says:* A grown-up lights the nut. The grown-up holds the tumbler just above the flame. Watch the nut and the clock.  
   *Child mode:* Ask a grown-up to light the nut. Watch the flame. Time how long it burns.
   - Ask: What do you see happening to the nut while it burns? (good: It turns black.; It has a small yellow flame.; It crackles.; It gets smaller.)
-  - Note: Many nuts light after 10 to 20 seconds in a match flame. If a nut will not light, hold the match to it until it catches. Once it burns, keep the tumbler above it until the flame goes out by itself, about 30 to 90 seconds. Stir gently with the thermometer before you read it. Cool the tumbler under a tap and wipe it dry before the next trial.
+  - Note: Many nuts light after 10 to 20 seconds in a match flame. If a nut will not light, hold the match to it until it catches. Once it burns, keep the tumbler above it until the flame goes out by itself, about 30 to 90 seconds. Holding a tumbler steady is tiring, so you can rest it on two upturned steel katoris, one on each side of the nut. Stir gently with the thermometer before you read it. Cool the tumbler under a tap and wipe it dry before the next trial. If the water rises by less than 3 degrees, nothing is wrong: too much heat escaped. Repeat with 25 millilitres of water and multiply the rise by 0.025 instead of 0.05, and write that you did.
   - Check: Why do we use fresh water from the same bottle, and a cooled tumbler, for every trial? → **So each trial starts at the same temperature**
-- **s4 (8 min) · grown-up needed**  
+- **s4 (6 min) · grown-up needed**  
   *Parent does:* Repeat with a second groundnut. Use fresh water and a cooled tumbler. Write down the temperature before and after.  
   *Parent says:* Now we do the very same test again with a second groundnut. Will the answer be exactly the same?  
   *Child mode:* Do the same test again with a new groundnut. Write the numbers.
   - Ask: Are the two groundnut results exactly the same? Why might they differ? (good: They are close but not the same.; The nuts are different sizes.; The flame was different.; Some heat escaped.)
   - Note: The two groundnut trials may differ by a few degrees. That is normal and it is an honest result. It tells you how much to trust the small differences between foods.
-- **s5 (10 min) · grown-up needed**  
+- **s5 (8 min) · grown-up needed**  
   *Parent does:* Burn half a cashew and then a piece of dry coconut in the same way. Cool the tumbler and use fresh water each time.  
   *Parent says:* Same test again, with the cashew and then with the coconut. Keep the weight about half a gram.  
   *Child mode:* Burn the cashew. Then burn the coconut. Write each rise.
   - Note: Try a few grains of roasted chana or puffed rice last, if you like. They usually char or flare for a moment and go out, and give little heat. That is a result as well. Do not eat anything that has been burned.
-- **s6 (9 min)**  
+- **s6 (7 min)**  
   *Parent does:* For each trial, subtract the start from the end to get the rise. Multiply the rise by 0.05 to get kilocalories. Compare with the label.  
   *Parent says:* Tell me three things. What did you think? What did you see? Why do you think it happened?  
   *Child mode:* Work out each rise. Say what you thought, what you saw, and why.
-  - Note: A typical result is a rise of 5 to 20 degrees, which means 0.25 to 1 kilocalorie in the water. That is about a tenth to a third of the 3 kilocalories in the nut. After they have said what they saw, explain: fat holds about 9 kilocalories in a gram, so the three fatty foods gave similar heat. A real lab catches nearly all of it in a closed chamber. If one result looks odd, say so. Write the result you really got.
+  - Note: A typical result is a rise of 5 to 20 degrees, which means 0.25 to 1 kilocalorie in the water. That is about a tenth to a third of the 3 kilocalories in the nut. Your numbers may differ, and a little black char is left, so not all the nut burned. After they have said what they saw, explain: fat holds about 9 kilocalories in a gram, so the three fatty foods gave similar heat. A real lab catches nearly all of it in a closed chamber. If one result looks odd, say so. Write the result you really got.
   - Check: A nut should give 3 kilocalories, but the water gained only 1. Where did the other 2 go? → **Into the air, the tumbler and the smoke**
-  - Think: A groundnut should give about 3 kilocalories, from its label. How much reached the water, and where did the rest go?
+  - Think: A groundnut of half a gram should give about 3 kilocalories (a typical label value). How much reached the water, and where did the rest go?
 ### e2 · Rice Before and After: where does the energy go in the pot? (38 min)
 - **question:** Does 100 grams of cooked rice hold more energy, the same or less energy than 100 grams of raw rice?
 - **predict:** Before you start, guess. Will 100 grams of cooked rice hold more energy, the same or less than 100 grams of raw rice? Why do you think so?
 - **fair test:** We weigh the rice and the water before cooking, and weigh the whole pot again afterwards. Nothing is added to the pan except water, so the total energy in the pan cannot change. The only thing that changes is the weight the energy is spread over. We use the same pan and the same lid, and do not drain any water away.
-- **safety:** A grown-up uses the stove and moves the hot pan. Lift the lid away from your face to avoid the steam. Let the pan cool for a few minutes before weighing it.
+- **safety:** A grown-up uses the stove and moves the hot pan. Lift the lid away from your face to avoid the steam. Let the pan cool for a few minutes before weighing it. Use a heavy-bottomed small pan and stay beside it, because 50 grams of rice can catch at the bottom.
 - **record:** Write the weight of the rice before cooking and after cooking. Work out the energy in 100 grams of each. Then write one sentence about where the extra weight came from.
 - **results table:** Stage | Weight of the rice (grams) | Energy in 100 grams (kilocalories) | Total energy in the pan (kilocalories)
 - **s1 (5 min)**  
@@ -319,7 +319,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Parent says:* Read the packet. How much energy is in 100 grams of raw rice? After cooking, will 100 grams hold more, the same or less? Why do you think so?  
   *Child mode:* Read the rice packet. Will cooked rice hold more, the same or less? Why?
   - Ask: Why do you think cooked rice will hold that much? (good: It stays the same, it is still rice.; It soaks up water so it holds less.; Cooking adds energy.)
-  - Note: A typical packet says about 350 kilocalories in 100 grams. Do not correct the guess. Both 'the same' and 'less' are common first guesses.
+  - Note: A typical packet says about 350 kilocalories in 100 grams. Do not correct the guess. Both 'the same' and 'less' are common first guesses. One child with a parent: the child weighs and does the sums, the parent cooks. Two to four children: one weighs, one measures the water, one writes, one does the sums. For a comparison, cook a second pan of a different rice, such as basmati and parboiled, side by side.
 - **s2 (8 min)**  
   *Parent does:* Weigh the empty pan. Add 50 grams of rice, then 150 millilitres of water. Write all three weights down.  
   *Parent says:* First we weigh the empty pan. Then we add 50 grams of rice. Then we add the water. Write each weight down.  
@@ -341,7 +341,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Parent does:* The energy in the pan is still 175 kilocalories. Divide 175 by the cooked weight, then multiply by 100. That is the energy in 100 grams of cooked rice.  
   *Parent says:* Tell me three things. What did you think? What did you find? Why do you think it happened?  
   *Child mode:* Divide 175 by the cooked weight. Multiply by 100. Say what you found.
-  - Note: For 150 grams of cooked rice the answer is 175 divided by 150, times 100, which is about 117. A usual result is 110 to 140. After they have said what they found, explain: water adds weight and no energy, so the same energy is spread over a heavier food. This is why 100 grams of cooked rice holds about a third of the energy in 100 grams of raw rice.
+  - Note: For 150 grams of cooked rice the answer is 175 divided by 150, times 100, which is about 117. A usual result is 110 to 140. After they have said what they found, explain: water adds weight and no energy, so the same energy is spread over a heavier food. This is why 100 grams of cooked rice holds about a third of the energy in 100 grams of raw rice. The cooked weight changes with the rice and how much steam escaped, so your answer will differ. Whatever it is, the pan's energy stayed 175 kilocalories.
   - Think: Why does a label for a ready mix give one column for the food as sold and one as prepared?
 
 ## Activities
@@ -352,12 +352,13 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Parent says:* Which of these packets has the most energy in 100 grams? Which has the least? Why do you think so?  
   *Child mode:* Which packet has the most energy? Which has the least? Why?
   - Ask: Why do you think that packet has the most? (good: It is oily.; It is dry.; It is sweet.; It is crunchy.)
-  - Note: Write their guess down. Foods with little water and a lot of fat or sugar are usually at the top. Drinks and curd are usually at the bottom.
+  - Note: Write their guess down. Foods with little water and a lot of fat or sugar are usually at the top. Drinks and curd are usually at the bottom. One child with a parent: the child picks four packets and does all the columns. Two to four children: each child takes one or two packets, then everyone shares the table.
 - **s2 (8 min)**  
   *Parent does:* Find the column called per 100 grams or per 100 millilitres. Write the energy and the sugars for each packet. Then read the first three ingredients.  
   *Parent says:* Look for the column marked per 100 grams. Write the energy and the sugars. Then read the first three ingredients out loud.  
   *Child mode:* Find the per 100 grams column. Write the energy and the sugar. Read the first three ingredients.
   - Ask: What is the first ingredient on each packet? What does it tell you? (good: It is the biggest part.; It is what the food is mostly made of.)
+  - Note: Some Indian packets give the table per serving only. Then divide the energy by the serving weight and multiply by 100 to get the energy in 100 grams. Drinks and curd use millilitres or grams.
   - Check: A packet lists its ingredients as flour, sugar, palm oil, salt. What does this order tell you? → **There is more flour than sugar, and more sugar than palm oil**
 - **s3 (5 min)**  
   *Parent does:* Find the servings in each pack and the weight of one serving. Multiply the energy per serving by the number of servings. Write the energy in the whole pack.  
@@ -372,6 +373,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Parent says:* Weigh out one serving, exactly as the label says. Does it look like what you would normally eat?  
   *Child mode:* Weigh out one serving. Is it more or less than you usually eat?
   - Ask: Do you think your usual helping is more or less than one serving? How much more or less? (good: More.; Two or three times more.; About the same.)
+  - Note: No scale? The label often says how many biscuits or pieces make a serving, so count them out instead. One child with a parent: the child weighs and compares. Two to four children: each child pours their own usual helping and weighs it, so you can compare helpings. Nobody needs to eat the food afterwards.
 - **s2 (6 min)**  
   *Parent does:* Pour out the helping your child would normally take into a bowl. Weigh it. Write the weight.  
   *Parent says:* Now pour out what you would normally eat. We will weigh it and compare.  
@@ -388,6 +390,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Parent does:* Draw a plate with each food in a meal your family eats. Write what each food is made of.  
   *Parent says:* Let us draw a real meal from our kitchen. Draw each food and write its name.  
   *Child mode:* Draw a plate. Draw each food in your meal. Write the names.
+  - Note: One child with a parent: the child draws the meal and the parent adds the foods they forgot, such as oil in the dal. Two to four children: each draws their own meal from yesterday, then compares plates in the last step.
 - **s2 (10 min)**  
   *Parent does:* Colour each food by the main job you think it does. Red for energy, blue for building, green for protection. Put a star by foods that do more than one job.  
   *Parent says:* Which job does each food mostly do? Colour it. If a food does a second job, put a star by it.  
@@ -402,30 +405,31 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   - Think: If your body had no sugar left, which of your foods could it burn instead?
 
 ## Projects
-### p1 · Date and Groundnut Balls: write your own food label (50 min)
-- **safety:** A grown-up works the mixer-grinder. Do not make this if anyone at the table has a nut allergy. You can use roasted chana instead of groundnuts. Wash hands first, and wash the plate and the mixer well afterwards.
+### p1 · Date and Groundnut Balls: write your own food label (40 min)
+- **safety:** A grown-up works the mixer-grinder and unplugs it before opening the jar, because the blades are sharp. Do not make this if anyone at the table has a nut or sesame allergy. You can use roasted chana instead of groundnuts and leave out the sesame, and weigh again. Wash hands first, and wash the plate and the mixer well afterwards.
 - **record:** Write the weights, the energy in each ingredient, the total energy, the weight of the mixture, and the energy in 100 grams and in one ball. Then draw a label for your own balls.
-- **s1 (8 min)**  
+- **s1 (6 min)**  
   *Parent does:* Weigh each ingredient and write its weight. Read the energy for 100 grams from each packet and write it down.  
   *Parent says:* Weigh each ingredient. Then read the energy for 100 grams from its packet.  
   *Child mode:* Weigh the dates, the groundnuts and the sesame. Read each packet.
   - Ask: Which ingredient do you think will give the most energy in the balls? (good: The groundnuts, because they are fatty.; The dates, because there are more of them.)
-- **s2 (12 min) · grown-up needed**  
+- **s2 (10 min) · grown-up needed**  
   *Parent does:* A grown-up pulses the dates, groundnuts and sesame in the mixer until they are small crumbs that stick together. Weigh the whole mixture.  
   *Parent says:* A grown-up grinds the mixture in short bursts. Then we weigh it. The weight should be about the same as the three weights added.  
   *Child mode:* Ask a grown-up to grind it. Then weigh the mixture.
   - Note: The weight of the mixture should be close to 170 grams, because nothing is added or taken away. A little will stick to the jar. If it is too dry to hold together, add a few more dates or one spoon of ghee and weigh again.
-- **s3 (10 min)**  
+- **s3 (8 min)**  
   *Parent does:* With damp hands, roll the mixture into ten balls of the same size. Weigh the ten balls together.  
   *Parent says:* Roll the mixture into ten balls that look the same size. Weigh them all together.  
   *Child mode:* Roll ten balls of the same size. Weigh them together.
-- **s4 (15 min)**  
+  - Note: In damp weather the mixture is sticky, so wet your hands with a little water. In hot, dry weather it may crumble, so add a few more dates. One child with a parent: the child rolls while the parent grinds. Two to four children: split the mixture and each rolls their own balls. They can also each make a different recipe with a different amount of dates, then compare labels.
+- **s4 (12 min)**  
   *Parent does:* Work out the energy in each ingredient, the total, the energy in 100 grams and the energy in one ball. Draw a label with a table.  
   *Parent says:* For each ingredient, weight divided by 100, times its energy per 100 grams, gives its energy. Add them up.  
   *Child mode:* Work out the energy of each food. Add them up. Draw a label.
   - Note: For example, 100 grams of dates at 280 gives 280, 60 grams of groundnuts at 580 gives 348, and 10 grams of sesame at 570 gives 57. The total is 685 kilocalories. In 170 grams that is about 400 in 100 grams, and about 68 in each of 10 balls. Their numbers will differ with their packets.
   - Check: A mixture of 170 grams holds 680 kilocalories in total. How much energy is in 100 grams? → **400 kilocalories**
-- **s5 (5 min)**  
+- **s5 (4 min)**  
   *Parent does:* Compare your label with the label of a packaged snack bar. Which has more energy in 100 grams? Which has more sugar? Which has fewer ingredients?  
   *Parent says:* Compare your balls with a packet snack. Which has more energy in 100 grams? Which has fewer ingredients?  
   *Child mode:* Compare your balls with a snack bar. Which has fewer ingredients?
@@ -689,8 +693,8 @@ Sunlight on My Plate (sci.food.L4): Topic-level song for Food and nutrition L4
 - [National Institute of Nutrition](https://www.nin.res.in/) · place · Hyderabad: India's national centre for research on food and nutrition, which publishes the Indian food tables. Visits are arranged in advance, so check before you go.
 
 ## Things to buy
-- [A cooking or laboratory thermometer that reads up to 100 degrees](https://www.amazon.in/s?k=digital+cooking+thermometer) (tool): To measure the water in the Burning Nuts test. A digital probe thermometer or a glass chemist's thermometer will do. A fever thermometer will not. Used in e1. 
-- [A pocket scale that reads to 0.1 gram or finer](https://www.amazon.in/s?k=pocket+scale+0.01g) (tool): To weigh half-gram pieces of nut. A jeweller's scale is cheap. Without one, the test is only rough. Used in e1. 
+- [A cooking or laboratory thermometer that reads up to 100 degrees](https://www.amazon.in/s?k=digital+cooking+thermometer) (tool): To measure the water in the Burning Nuts test. A glass chemist's or lab thermometer (about Rs 30 to 60 at a lab-supply or chemist shop) is the cheapest. A digital kitchen probe thermometer will also do. A fever thermometer will not. Used in e1. 
+- [A pocket scale that reads to 0.1 gram or finer](https://www.amazon.in/s?k=pocket+scale+0.01g) (tool): Optional. To weigh half-gram pieces of nut. A jeweller's scale costs a few hundred rupees. Without one, weigh 10 similar pieces on a kitchen scale and divide by 10, and the test is still fair. Used in e1. 
 - [A digital kitchen scale that reads to 1 gram](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): To weigh rice, servings and snack ingredients in three of the activities. Used in e2, a2, p1. 
 
 ## Warm-up

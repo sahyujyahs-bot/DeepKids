@@ -699,7 +699,7 @@
   {
    "id": "e1",
    "title": "Burning Nuts: how much heat does a food give?",
-   "mins": 52,
+   "mins": 40,
    "days": 1,
    "question": "Which gives the most heat to a tumbler of water: a groundnut, half a cashew or a piece of dry coconut? How much of the heat reaches the water?",
    "predict": "Before you start, guess. Which food will warm the water the most, and which the least? How many degrees will the water rise? Why do you think so?",
@@ -731,12 +731,12 @@
      "qty": 1
     },
     {
-     "item": "a thermometer that reads up to 100 degrees (a kitchen or lab thermometer, not a fever thermometer)",
+     "item": "a thermometer that reads up to 100 degrees (a glass lab thermometer from a chemist or lab-supply shop, usually Rs 30 to 60, or a kitchen probe thermometer). A fever thermometer cannot be used.",
      "qty": 1,
      "buy": "b-thermo"
     },
     {
-     "item": "a pocket scale that reads to 0.1 gram or finer",
+     "item": "a pocket scale that reads to 0.1 gram or finer. Without one, weigh 10 similar pieces together on a kitchen scale and divide by 10",
      "qty": 1,
      "buy": "b-pocket"
     },
@@ -755,9 +755,13 @@
     {
      "item": "a bowl of water and a wet cloth, kept nearby",
      "qty": 1
+    },
+    {
+     "item": "a second tumbler and a phone or clock for timing, if two or more children are working (so one tumbler cools while the other is used)",
+     "qty": 1
     }
    ],
-   "safety": "A grown-up lights the flame and holds the hot tumbler, every time. Work on a bare counter near the sink, away from curtains and paper, with the window open. Tie back long hair. Do not touch the nut or the pin until they are cold. Do not eat any food that has been burned. If anyone in the family has a nut allergy, use only the coconut and do not let that person near the nuts or the smoke.",
+   "safety": "A grown-up lights the flame and holds the hot tumbler, every time. Work on a bare counter near the sink, away from curtains and paper, with the window open for the smoke but the fan off. Keep a plate nearby to cover and put out a nut. Use a steel or aluminium tumbler, never plastic or glass. Tie back long hair. Do not touch the nut or the pin until they are cold. Do not eat any food that has been burned. Hairpins and needles are sharp, so keep them away from small children. If anyone in the family has a nut allergy, use only the coconut and do not let that person near the nuts or the smoke.",
    "record": "Write the weight, start temperature and end temperature for each trial. Work out the rise in degrees. Then multiply the rise by 0.05 to get the heat in the water in kilocalories. Compare it with the heat the label promises.",
    "context": "In this experiment, you burn small pieces of food under a tumbler of water and use a thermometer to measure how much heat they give. You also find out how much of the heat is lost.",
    "setup": [
@@ -781,7 +785,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
+     "mins": 4,
      "do": "Show your child the groundnut, the cashew and the coconut. Write down their guess about the most and the least heat, and their reason.",
      "say": "We will burn three foods under a tumbler of water. Which will warm the water most? Which will warm it least? Why do you think so?",
      "kid": "We will burn three foods under water. Which gives the most heat? Why do you think so?",
@@ -796,21 +800,21 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the table.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child weighs, reads and records, and the parent lights and holds. Two to four children: one weighs, one reads the thermometer, one times the burn, and one writes the table. Swap jobs every trial. Each child writes their own guess first.",
      "context": "This is the first step of Burning Nuts. You guess before you test."
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 6,
      "do": "Weigh each nut and write the weight down. Pour 50 millilitres of water into the tumbler. Put the thermometer in and read the start temperature.",
      "say": "Weigh each food and write the number. Then measure 50 millilitres of water. Read the temperature before we start.",
      "kid": "Weigh each food. Pour 50 millilitres of water. Read the temperature.",
-     "parent": "Water from the room-temperature bottle is usually 26 to 32 degrees. If you have no pocket scale, pick pieces that look the same size and say so in your notes. The comparison is then rough. Stand the nut on the pin so that it does not touch the plate.",
+     "parent": "Water from the room-temperature bottle is usually 26 to 32 degrees. If you have no pocket scale, pick pieces that look the same size and say so in your notes. The comparison is then rough. Stand the nut on the pin so that it does not touch the plate. A damp nut will not burn well in the monsoon. A grown-up can dry the nuts for a minute on a warm tawa and cool them first. Keep draughts away: a breeze from a fan wastes much of the heat.",
      "context": "In this step, you weigh the foods and measure the water, so every trial starts the same."
     },
     {
      "id": "s3",
-     "mins": 12,
+     "mins": 9,
      "adult": true,
      "do": "Fix the hairpin in the dough. Rest a groundnut on the pin. The grown-up lights it and holds the tumbler 2 centimetres above, with tongs.",
      "say": "A grown-up lights the nut. The grown-up holds the tumbler just above the flame. Watch the nut and the clock.",
@@ -837,12 +841,12 @@
       "a": 0,
       "why": "If one trial started warmer than another, its end temperature could look higher for no reason to do with the food. Starting every trial at the same temperature keeps the test fair."
      },
-     "parent": "Many nuts light after 10 to 20 seconds in a match flame. If a nut will not light, hold the match to it until it catches. Once it burns, keep the tumbler above it until the flame goes out by itself, about 30 to 90 seconds. Stir gently with the thermometer before you read it. Cool the tumbler under a tap and wipe it dry before the next trial.",
+     "parent": "Many nuts light after 10 to 20 seconds in a match flame. If a nut will not light, hold the match to it until it catches. Once it burns, keep the tumbler above it until the flame goes out by itself, about 30 to 90 seconds. Holding a tumbler steady is tiring, so you can rest it on two upturned steel katoris, one on each side of the nut. Stir gently with the thermometer before you read it. Cool the tumbler under a tap and wipe it dry before the next trial. If the water rises by less than 3 degrees, nothing is wrong: too much heat escaped. Repeat with 25 millilitres of water and multiply the rise by 0.025 instead of 0.05, and write that you did.",
      "context": "In this step, you burn the first groundnut under the tumbler and read the end temperature."
     },
     {
      "id": "s4",
-     "mins": 8,
+     "mins": 6,
      "adult": true,
      "do": "Repeat with a second groundnut. Use fresh water and a cooled tumbler. Write down the temperature before and after.",
      "say": "Now we do the very same test again with a second groundnut. Will the answer be exactly the same?",
@@ -863,7 +867,7 @@
     },
     {
      "id": "s5",
-     "mins": 10,
+     "mins": 8,
      "adult": true,
      "do": "Burn half a cashew and then a piece of dry coconut in the same way. Cool the tumbler and use fresh water each time.",
      "say": "Same test again, with the cashew and then with the coconut. Keep the weight about half a gram.",
@@ -873,11 +877,11 @@
     },
     {
      "id": "s6",
-     "mins": 9,
+     "mins": 7,
      "do": "For each trial, subtract the start from the end to get the rise. Multiply the rise by 0.05 to get kilocalories. Compare with the label.",
      "say": "Tell me three things. What did you think? What did you see? Why do you think it happened?",
      "kid": "Work out each rise. Say what you thought, what you saw, and why.",
-     "think": "A groundnut should give about 3 kilocalories, from its label. How much reached the water, and where did the rest go?",
+     "think": "A groundnut of half a gram should give about 3 kilocalories (a typical label value). How much reached the water, and where did the rest go?",
      "check": {
       "t": "mcq",
       "q": "A nut should give 3 kilocalories, but the water gained only 1. Where did the other 2 go?",
@@ -889,7 +893,7 @@
       "a": 0,
       "why": "Energy is never lost. The warm air around the flame, the metal of the tumbler, the hot smoke and the glow of the flame all carried heat away. That is why scientists use a closed chamber."
      },
-     "parent": "A typical result is a rise of 5 to 20 degrees, which means 0.25 to 1 kilocalorie in the water. That is about a tenth to a third of the 3 kilocalories in the nut. After they have said what they saw, explain: fat holds about 9 kilocalories in a gram, so the three fatty foods gave similar heat. A real lab catches nearly all of it in a closed chamber. If one result looks odd, say so. Write the result you really got.",
+     "parent": "A typical result is a rise of 5 to 20 degrees, which means 0.25 to 1 kilocalorie in the water. That is about a tenth to a third of the 3 kilocalories in the nut. Your numbers may differ, and a little black char is left, so not all the nut burned. After they have said what they saw, explain: fat holds about 9 kilocalories in a gram, so the three fatty foods gave similar heat. A real lab catches nearly all of it in a closed chamber. If one result looks odd, say so. Write the result you really got.",
      "context": "This is the last step of Burning Nuts. You work out the heat and say what you found."
     }
    ]
@@ -918,7 +922,7 @@
      "qty": 1
     },
     {
-     "item": "a small pan with a lid",
+     "item": "a small heavy-bottomed pan with a lid",
      "qty": 1
     },
     {
@@ -935,7 +939,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up uses the stove and moves the hot pan. Lift the lid away from your face to avoid the steam. Let the pan cool for a few minutes before weighing it.",
+   "safety": "A grown-up uses the stove and moves the hot pan. Lift the lid away from your face to avoid the steam. Let the pan cool for a few minutes before weighing it. Use a heavy-bottomed small pan and stay beside it, because 50 grams of rice can catch at the bottom.",
    "record": "Write the weight of the rice before cooking and after cooking. Work out the energy in 100 grams of each. Then write one sentence about where the extra weight came from.",
    "context": "In this experiment, you cook rice and weigh it before and after. You find out what happens to the energy in 100 grams when the rice soaks up water.",
    "setup": [
@@ -969,7 +973,7 @@
        ]
       }
      ],
-     "parent": "A typical packet says about 350 kilocalories in 100 grams. Do not correct the guess. Both 'the same' and 'less' are common first guesses.",
+     "parent": "A typical packet says about 350 kilocalories in 100 grams. Do not correct the guess. Both 'the same' and 'less' are common first guesses. One child with a parent: the child weighs and does the sums, the parent cooks. Two to four children: one weighs, one measures the water, one writes, one does the sums. For a comparison, cook a second pan of a different rice, such as basmati and parboiled, side by side.",
      "context": "This is the first step of Rice Before and After. You read the label and guess."
     },
     {
@@ -1036,7 +1040,7 @@
      "say": "Tell me three things. What did you think? What did you find? Why do you think it happened?",
      "kid": "Divide 175 by the cooked weight. Multiply by 100. Say what you found.",
      "think": "Why does a label for a ready mix give one column for the food as sold and one as prepared?",
-     "parent": "For 150 grams of cooked rice the answer is 175 divided by 150, times 100, which is about 117. A usual result is 110 to 140. After they have said what they found, explain: water adds weight and no energy, so the same energy is spread over a heavier food. This is why 100 grams of cooked rice holds about a third of the energy in 100 grams of raw rice.",
+     "parent": "For 150 grams of cooked rice the answer is 175 divided by 150, times 100, which is about 117. A usual result is 110 to 140. After they have said what they found, explain: water adds weight and no energy, so the same energy is spread over a heavier food. This is why 100 grams of cooked rice holds about a third of the energy in 100 grams of raw rice. The cooked weight changes with the rice and how much steam escaped, so your answer will differ. Whatever it is, the pan's energy stayed 175 kilocalories.",
      "context": "This is the last step of Rice Before and After. You work out the energy and say what you found."
     }
    ]
@@ -1096,7 +1100,7 @@
        ]
       }
      ],
-     "parent": "Write their guess down. Foods with little water and a lot of fat or sugar are usually at the top. Drinks and curd are usually at the bottom.",
+     "parent": "Write their guess down. Foods with little water and a lot of fat or sugar are usually at the top. Drinks and curd are usually at the bottom. One child with a parent: the child picks four packets and does all the columns. Two to four children: each child takes one or two packets, then everyone shares the table.",
      "context": "This is the first step of Label Detective. You guess before you read."
     },
     {
@@ -1125,7 +1129,8 @@
       "a": 0,
       "why": "Ingredients are listed from the most by weight to the least. So the first ingredient is the biggest part of the food. Alphabet order does not matter."
      },
-     "context": "In this step, you read the numbers and the ingredient lists on the four packets."
+     "context": "In this step, you read the numbers and the ingredient lists on the four packets.",
+     "parent": "Some Indian packets give the table per serving only. Then divide the energy by the serving weight and multiply by 100 to get the energy in 100 grams. Drinks and curd use millilitres or grams."
     },
     {
      "id": "s3",
@@ -1192,7 +1197,8 @@
        ]
       }
      ],
-     "context": "This is the first step of Serving Size Check. You weigh out one serving."
+     "context": "This is the first step of Serving Size Check. You weigh out one serving.",
+     "parent": "No scale? The label often says how many biscuits or pieces make a serving, so count them out instead. One child with a parent: the child weighs and compares. Two to four children: each child pours their own usual helping and weighs it, so you can compare helpings. Nobody needs to eat the food afterwards."
     },
     {
      "id": "s2",
@@ -1252,7 +1258,8 @@
      "do": "Draw a plate with each food in a meal your family eats. Write what each food is made of.",
      "say": "Let us draw a real meal from our kitchen. Draw each food and write its name.",
      "kid": "Draw a plate. Draw each food in your meal. Write the names.",
-     "context": "This is the first step of Three Jobs Plate. You draw a real meal."
+     "context": "This is the first step of Three Jobs Plate. You draw a real meal.",
+     "parent": "One child with a parent: the child draws the meal and the parent adds the foods they forgot, such as oil in the dal. Two to four children: each draws their own meal from yesterday, then compares plates in the last step."
     },
     {
      "id": "s2",
@@ -1301,7 +1308,7 @@
    "id": "p1",
    "title": "Date and Groundnut Balls: write your own food label",
    "days": 1,
-   "mins": 50,
+   "mins": 40,
    "materials": [
     {
      "item": "100 grams of seedless dates, weighed",
@@ -1329,7 +1336,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up works the mixer-grinder. Do not make this if anyone at the table has a nut allergy. You can use roasted chana instead of groundnuts. Wash hands first, and wash the plate and the mixer well afterwards.",
+   "safety": "A grown-up works the mixer-grinder and unplugs it before opening the jar, because the blades are sharp. Do not make this if anyone at the table has a nut or sesame allergy. You can use roasted chana instead of groundnuts and leave out the sesame, and weigh again. Wash hands first, and wash the plate and the mixer well afterwards.",
    "record": "Write the weights, the energy in each ingredient, the total energy, the weight of the mixture, and the energy in 100 grams and in one ball. Then draw a label for your own balls.",
    "context": "In this project, you make a snack from three foods and work out its nutrition label, the way a maker does. You use the numbers on the packets you started with.",
    "setup": [
@@ -1353,7 +1360,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 8,
+     "mins": 6,
      "do": "Weigh each ingredient and write its weight. Read the energy for 100 grams from each packet and write it down.",
      "say": "Weigh each ingredient. Then read the energy for 100 grams from its packet.",
      "kid": "Weigh the dates, the groundnuts and the sesame. Read each packet.",
@@ -1370,7 +1377,7 @@
     },
     {
      "id": "s2",
-     "mins": 12,
+     "mins": 10,
      "adult": true,
      "do": "A grown-up pulses the dates, groundnuts and sesame in the mixer until they are small crumbs that stick together. Weigh the whole mixture.",
      "say": "A grown-up grinds the mixture in short bursts. Then we weigh it. The weight should be about the same as the three weights added.",
@@ -1380,15 +1387,16 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 8,
      "do": "With damp hands, roll the mixture into ten balls of the same size. Weigh the ten balls together.",
      "say": "Roll the mixture into ten balls that look the same size. Weigh them all together.",
      "kid": "Roll ten balls of the same size. Weigh them together.",
-     "context": "In this step, you roll the balls and weigh them."
+     "context": "In this step, you roll the balls and weigh them.",
+     "parent": "In damp weather the mixture is sticky, so wet your hands with a little water. In hot, dry weather it may crumble, so add a few more dates. One child with a parent: the child rolls while the parent grinds. Two to four children: split the mixture and each rolls their own balls. They can also each make a different recipe with a different amount of dates, then compare labels."
     },
     {
      "id": "s4",
-     "mins": 15,
+     "mins": 12,
      "do": "Work out the energy in each ingredient, the total, the energy in 100 grams and the energy in one ball. Draw a label with a table.",
      "say": "For each ingredient, weight divided by 100, times its energy per 100 grams, gives its energy. Add them up.",
      "kid": "Work out the energy of each food. Add them up. Draw a label.",
@@ -1408,7 +1416,7 @@
     },
     {
      "id": "s5",
-     "mins": 5,
+     "mins": 4,
      "do": "Compare your label with the label of a packaged snack bar. Which has more energy in 100 grams? Which has more sugar? Which has fewer ingredients?",
      "say": "Compare your balls with a packet snack. Which has more energy in 100 grams? Which has fewer ingredients?",
      "kid": "Compare your balls with a snack bar. Which has fewer ingredients?",
@@ -2535,7 +2543,7 @@
    "id": "b-thermo",
    "item": "A cooking or laboratory thermometer that reads up to 100 degrees",
    "kind": "tool",
-   "why": "To measure the water in the Burning Nuts test. A digital probe thermometer or a glass chemist's thermometer will do. A fever thermometer will not.",
+   "why": "To measure the water in the Burning Nuts test. A glass chemist's or lab thermometer (about Rs 30 to 60 at a lab-supply or chemist shop) is the cheapest. A digital kitchen probe thermometer will also do. A fever thermometer will not.",
    "url": "https://www.amazon.in/s?k=digital+cooking+thermometer",
    "used_in": [
     "e1"
@@ -2545,7 +2553,7 @@
    "id": "b-pocket",
    "item": "A pocket scale that reads to 0.1 gram or finer",
    "kind": "tool",
-   "why": "To weigh half-gram pieces of nut. A jeweller's scale is cheap. Without one, the test is only rough.",
+   "why": "Optional. To weigh half-gram pieces of nut. A jeweller's scale costs a few hundred rupees. Without one, weigh 10 similar pieces on a kitchen scale and divide by 10, and the test is still fair.",
    "url": "https://www.amazon.in/s?k=pocket+scale+0.01g",
    "used_in": [
     "e1"
