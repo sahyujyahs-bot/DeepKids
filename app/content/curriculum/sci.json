@@ -2395,7 +2395,8 @@
     "sci.light.light-in-space.L4",
     "sci.light.invisible-light.L4",
     "sci.light.lasers.L4",
-    "sci.light.light-carries-messages.L4"
+    "sci.light.light-carries-messages.L4",
+    "sci.light.what-is-light.L4"
    ],
    "chapters": [
     "C4-5.1",
@@ -2571,7 +2572,8 @@
     "sci.plants.photosynthesis.L4",
     "sci.plants.plant-senses.L4",
     "sci.plants.plant-variety.L4",
-    "sci.plants.inside-plants.L4"
+    "sci.plants.inside-plants.L4",
+    "sci.plants.what-plants-need.L4"
    ],
    "chapters": [
     "N4-4"
@@ -2630,7 +2632,9 @@
    "subtopic_levels": [
     "sci.sound.sound-moves.L4",
     "sci.sound.music.L4",
-    "sci.sound.doppler-and-shock.L4"
+    "sci.sound.doppler-and-shock.L4",
+    "sci.sound.waves.L4",
+    "sci.sound.hearing.L4"
    ],
    "chapters": []
   },
@@ -4514,6 +4518,7 @@
     "sci.plants.plant-parts.L3"
    ],
    "go_deep": [
+    "sci.plants.what-plants-need.L4",
     "sci.plants.photosynthesis.L3"
    ],
    "go_wide": [
@@ -4542,6 +4547,50 @@
     "Cambridge Stage 3 1.2 Plants need light and water",
     "Cambridge Stage 3 1.4 Plant growth and temperature"
    ]
+  },
+  {
+   "id": "sci.plants.what-plants-need.L4",
+   "subject": "sci",
+   "topic": "plants",
+   "topic_name": "Plants",
+   "strand": "Life",
+   "topic_level": "sci.plants.L4",
+   "subtopic": "what-plants-need",
+   "name": "What plants need to live and grow",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "What plants need underground: air, minerals and helpers in the soil.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.plants.what-plants-need.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.plants.plant-parts.L3",
+    "sci.plants.water-transport.L3",
+    "sci.plants.photosynthesis.L3",
+    "sci.plants.plant-variety.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.measurement-basics.standard-units.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    },
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.plants.water-transport.L3",
@@ -21039,8 +21088,48 @@
     "sci.light.light-sources.L2"
    ],
    "go_deep": [
-    "sci.light.what-is-light.L5",
+    "sci.light.what-is-light.L4",
     "sci.the-very-small.light-as-particles.L5"
+   ],
+   "go_wide": [
+    "sci.light.how-we-see.L3",
+    "sci.light.transparent-opaque.L3",
+    "sci.light.reflection.L3",
+    "sci.light.colour.L3",
+    "sci.light.refraction.L3",
+    "sci.light.living-light.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:153",
+    "phy:154",
+    "phy:155",
+    "phy:241"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.light.what-is-light.L4",
+   "subject": "sci",
+   "topic": "light",
+   "topic_name": "Light, seeing and shadows",
+   "strand": "Physics",
+   "topic_level": "sci.light.L4",
+   "subtopic": "what-is-light",
+   "name": "What is light?",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "What is light? Energy that spreads out, warms things and has a family you cannot see.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.light.what-is-light.L3"
+   ],
+   "go_deep": [
+    "sci.light.what-is-light.L5"
    ],
    "go_wide": [
     "sci.light.how-we-see.L3",
@@ -21077,8 +21166,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.light.what-is-light.L3",
-    "sci.light.light-sources.L2"
+    "sci.light.what-is-light.L4"
    ],
    "go_deep": [
     "sci.the-very-small.light-as-particles.L5"
@@ -21698,6 +21786,38 @@
    "prerequisites": [
     "sci.sound.hearing.L1"
    ],
+   "go_deep": [
+    "sci.sound.hearing.L4"
+   ],
+   "go_wide": [
+    "sci.sound.sources-of-sound.L3",
+    "sci.sound.waves.L3",
+    "sci.senses.five-senses.L3"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sound.hearing.L4",
+   "subject": "sci",
+   "topic": "sound",
+   "topic_name": "Sound",
+   "strand": "Physics",
+   "topic_level": "sci.sound.L4",
+   "subtopic": "hearing",
+   "name": "Our ears and hearing",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Hearing: how two ears find where a sound is, and why noise can hide a voice.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sound.hearing.L3"
+   ],
    "go_deep": [],
    "go_wide": [
     "sci.sound.sources-of-sound.L3",
@@ -22125,6 +22245,50 @@
    "verify": [],
    "prerequisites": [],
    "go_deep": [
+    "sci.sound.waves.L4"
+   ],
+   "go_wide": [
+    "sci.sound.sources-of-sound.L3",
+    "sci.sound.hearing.L3",
+    "sci.sound.vibration.L5"
+   ],
+   "maths": [
+    {
+     "id": "math.multiplication.multiplication-facts.L3",
+     "chapters": [
+      "N3-7",
+      "C3-Ni"
+     ]
+    }
+   ],
+   "notebook": [
+    "phy:132",
+    "phy:133",
+    "phy:134"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.sound.waves.L4",
+   "subject": "sci",
+   "topic": "sound",
+   "topic_name": "Sound",
+   "strand": "Physics",
+   "topic_level": "sci.sound.L4",
+   "subtopic": "waves",
+   "name": "Waves",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Waves: why shaking faster makes the waves closer together.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.sound.waves.L3"
+   ],
+   "go_deep": [
     "sci.sound.waves.L5"
    ],
    "go_wide": [
@@ -22166,7 +22330,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.sound.waves.L3"
+    "sci.sound.waves.L4"
    ],
    "go_deep": [],
    "go_wide": [
