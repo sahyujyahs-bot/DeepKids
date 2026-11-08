@@ -12,6 +12,7 @@ const { chromium } = require("playwright");
       p = await ctx.newPage(),
       errs = [];
     p.on("pageerror", (e) => errs.push(e.message.slice(0, 120)));
+    await p.clock.install({ time: new Date("2026-11-04T10:00:00") }); // a Wednesday: the guide plans no lessons at weekends
     await p.goto(URL);
     await p.waitForTimeout(400);
     await p.fill("#lgPhone", "81234 56789");
