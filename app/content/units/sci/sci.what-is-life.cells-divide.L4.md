@@ -600,9 +600,9 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
    **Answer:** 92 in all, and 46 for each daughter. *Why:* 46 chromosomes plus 46 copies make 92. They are shared equally between two cells. 92 divided by 2 is 46.
 
 ## Videos
-- **How a cell divides: mitosis in four steps** (to be found, 4 min) id `to find`: To see the chromosomes line up, pull apart and the cell pinch in two, in a clear animation. *Check:* Not yet found. Find one, watch it, and check that it shows the copying first, and that it is accurate before adding it.
-- **A real root tip: dividing cells under a microscope** (to be found, 4 min) id `to find`: To see real cells at different stages of division in an onion or garlic root tip. *Check:* Not yet found. Find one, watch it, and check that it is accurate before adding it.
-- **From one cell to a baby: the first days** (to be found, 5 min) id `to find`: To see a fertilised egg divide into 2, 4 and 8 cells, and grow into a ball of cells. *Check:* Not yet found. Find one, watch it, and check that it is gentle enough for children and accurate before adding it.
+- **Mitosis: The Amazing Cell Process that Uses Division to Multiply! (Older Video 2016 )** (Amoeba Sisters, 7 min) id `f-ldPgEfAHI`: To see the chromosomes line up, pull apart and the cell pinch in two, in a clear animation. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Onion Root Tip Mitosis Observations** (Glen Burger, 4 min) id `LxbP82mi02Y`: To see real cells at different stages of division in an onion or garlic root tip. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Embryology: from Fertilization to Gastrulation, Animation** (Alila Medical Media, 5 min) id `g7FExgKr-x4`: To see a fertilised egg divide into 2, 4 and 8 cells, and grow into a ball of cells. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which sentence best describes cell division?  

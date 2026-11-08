@@ -565,9 +565,9 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
    **Answer:** It will fall, because less air presses on the dish up there. *Why:* Higher up, there is less air above, so the push on the dish is smaller. A smaller push holds up a shorter column.
 
 ## Videos
-- **Air pressure and the crushed can** (to be found, 4 min) id `to find`: To see a can or bottle crush itself when the air inside cools, and hear the explanation from the air's point of view. *Check:* Not yet found. Find one, watch it, and check that it explains it as air pushing and not as sucking.
-- **Torricelli's barometer and the weight of air** (to be found, 5 min) id `to find`: To see mercury in a tube standing at about 76 centimetres, and why it stops there. *Check:* Not yet found. Find one, watch it, and check that it says mercury is poisonous and shows no children handling it.
-- **How a siphon works** (to be found, 4 min) id `to find`: To see a siphon start and run, and hear that scientists still argue about its best explanation. *Check:* Not yet found. Find one, watch it, and check that it does not claim that air pressure is the only explanation.
+- **Can Crush Experiment: Explanation** (Wayne Breslyn (Dr. B.), 4 min) id `Rbudgaiu3K4`: To see a can or bottle crush itself when the air inside cools, and hear the explanation from the air's point of view. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The history of the barometer (and how it works) - Asaf Bar-Yosef** (TED-Ed, 5 min) id `EkDhlzA-lwI`: To see mercury in a tube standing at about 76 centimetres, and why it stops there. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Siphon in a Vacuum - Periodic Table of Videos** (Periodic Videos, 8 min) id `8F4i9M3y0ew`: To see a siphon start and run, and hear that scientists still argue about its best explanation. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which statement about the push of air is correct?  

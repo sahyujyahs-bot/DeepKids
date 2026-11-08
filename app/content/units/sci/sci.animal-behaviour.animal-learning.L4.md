@@ -60,19 +60,19 @@ A sea slug given a sharp shock to the tail pulls in the gill more strongly, even
 ### Linking things: association · *defined*
 **Definition:** Association is learning that two things go together, so that one makes the being expect the other.
 
-In the early 1900s, Ivan Pavlov showed that a bell that came before food made dogs drool at the bell alone. Bees link a flower colour with nectar. Some links form fast. After one bad meal, a person or animal may avoid that taste for years. In 1966, John Garcia and Robert Koelling found that rats link a taste with feeling ill, even hours later, but not a flash of light or a click. A body is ready for some links more than for others, and the ready ones are often the ones that keep a being alive.
+In the early 1900s, Ivan Pavlov showed that a bell that came before food made dogs drool at the bell alone. Bees link a flower colour with nectar. Some links form fast. After one bad meal, a person or animal may avoid that taste for years. In 1966, John Garcia and Robert Koelling found that rats link a taste with feeling ill, even a long time later, but not a flash of light or a click. A body is ready for some links more than for others, and the ready ones are often the ones that keep a being alive.
 - e.g. A cat comes running at the sound of a tin being opened.
 - e.g. A child avoids a food that once made her ill.
 - e.g. A bee returns to blue flowers that gave nectar.
 ### Bees: small bodies that learn · *defined*
 **Definition:** Honeybees and bumblebees learn the colour, smell, shape and place of flowers that pay, and even the time of day.
 
-A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees that saw no demonstration rarely found the way. So learning does not need a big brain. It needs a body that can change with experience.
+A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees that saw no demonstration learned more slowly. So learning does not need a big brain. It needs a body that can change with experience.
 - e.g. A honeybee returns to a feeder at four o'clock each day.
 - e.g. A bumblebee learns to roll a ball by watching another bee.
 - e.g. A bee switches to a new flower colour when the old one stops paying.
 ### Learning without a brain · *debated*
-A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food within about a week. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop 28 days later. Scientists agree that these changes happen. They argue about whether to call them learning.
+A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food after several days. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop about a month later. Scientists agree that these changes happen. They argue about whether to call them learning.
 - e.g. A slime mould crosses a bitter bridge that was first avoided.
 - e.g. A touch-me-not plant stops folding the leaves at a harmless drop.
 - e.g. Stentor stops contracting after many puffs of particles.
@@ -82,7 +82,7 @@ A bacterium swimming towards food compares the food now with a few seconds ago, 
 ### Where the learning is kept: connections between nerve cells · *defined*
 **Definition:** A synapse is the tiny gap where one nerve cell passes a chemical message to the next, and learning changes how strongly synapses pass the message.
 
-In a sea slug, repeated gentle touches make the touch-sensing cell release less chemical across its synapse, so the gill pulls in less. A shock makes it release more. In 1949, Donald Hebb suggested that when one cell repeatedly helps to fire the next, the connection between them grows stronger. In 1992, Carla Shatz put it in the phrase 'cells that fire together wire together'. In people, Eleanor Maguire and colleagues found in 2000 that London taxi drivers, who learn about 25,000 streets, had a larger back part of the hippocampus, a part of the brain used for places. In 2011, trainees who passed the exam were found to have grown that part, and trainees who failed had not. So learning leaves a physical mark.
+In a sea slug, repeated gentle touches make the touch-sensing cell release less chemical across its synapse, so the gill pulls in less. A shock makes it release more. In 1949, Donald Hebb suggested that when one cell repeatedly helps to fire the next, the connection between them grows stronger. The phrase 'cells that fire together wire together' is often credited to Carla Shatz (1992). In people, Eleanor Maguire and colleagues found in 2000 that London taxi drivers, who learn about 25,000 streets, had a larger back part of the hippocampus, a part of the brain used for places. In 2011, trainees who passed the exam were found to have grown that part, and trainees who failed had not. So learning leaves a physical mark.
 - e.g. A sea slug's touch-sensing cell sends less chemical after many touches.
 - e.g. A taxi driver's hippocampus grows as they learn the streets.
 - e.g. A path in grass gets clearer each time it is walked.
@@ -103,7 +103,7 @@ In 1992, Tim Caro and Marc Hauser said that animal teaching needs three things. 
 ### Spacing it out · *defined*
 **Definition:** Spaced practice is practice spread over time with breaks, and it usually leaves a longer-lasting memory than the same practice done all at once.
 
-In 1885, Hermann Ebbinghaus reported that learning spread over several days beat the same learning crammed together. Sea slugs show it too. In 1972, Thomas Carew, Harold Pinsker and Eric Kandel found that touches spread over days made getting used to last for weeks, while the same number of touches in one block faded within a day. Randolf Menzel and colleagues found a similar result in honeybees in 2001. Making a lasting memory takes a cell time to build new parts, and the breaks between sittings give it that time.
+In 1885, Hermann Ebbinghaus reported that learning spread over several days beat the same learning crammed together. Sea slugs show it too. In 1972, Thomas Carew, Harold Pinsker and Eric Kandel found that touches spread over days made getting used to last for weeks, while the same number of touches in one block did not last as long. Randolf Menzel and colleagues found a similar result in honeybees in 2001. Making a lasting memory takes a cell time to build new parts, and the breaks between sittings give it that time.
 - e.g. Four short sittings through a day beat one long sitting for a list of words.
 - e.g. Sea slug touches spread over days make a longer-lasting change.
 - e.g. Honeybees remember a flower better after spaced visits.
@@ -125,7 +125,7 @@ In 1885, Hermann Ebbinghaus reported that learning spread over several days beat
   For: Slime moulds and Stentor show a drop in response that is kept and belongs to one stimulus, as in sea slugs.  
   Against: Some scientists say learning needs nerve cells, and that these are simpler changes in the cell's chemistry.
 - **Plants such as the touch-me-not learn.** (Monica Gagliano and colleagues, 2014; *minority*)  
-  For: Plants dropped many times stopped folding the leaves, and still ignored the drop 28 days later.  
+  For: Plants dropped many times stopped folding the leaves, and still ignored the drop about a month later.  
   Against: Other laboratories want to repeat the result, and to rule out tired leaf cells.
 - **Some animals, such as meerkats and ants, teach.** (Alex Thornton, Nigel Franks and others; *debated*)  
   For: The animals change what they do, at a cost, and the learners learn faster.  
@@ -395,7 +395,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
   *Parent does:* Count how many people learned the food in one go. Count how many skills took more than ten tries. Ask your child what they notice.  
   *Parent says:* Look at your table. How many people learned the food in one go? How many needed many tries for the skill? What do you notice?  
   *Child mode:* Count the one-go foods. Count the many-tries skills. What do you notice?
-  - Note: After your child has answered, explain that scientists call this taste aversion. A body is ready to link a taste with feeling ill, even hours later, because that link can save a life. John Garcia and Robert Koelling showed in 1966 that animals link taste with illness easily, but not a flash of light with illness.
+  - Note: After your child has answered, explain that scientists call this taste aversion. A body is ready to link a taste with feeling ill, even a long time later, because that link can save a life. John Garcia and Robert Koelling showed in 1966 that animals link taste with illness easily, but not a flash of light with illness.
   - Think: Why might a body be ready to learn some links in just one go?
 
 ## Projects
@@ -476,7 +476,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
    **Answer:** False. *Why:* False. A sea slug has about 20,000 nerve cells, and a honeybee about a million. Both learn. A human brain has about 86 billion.
 11. (mcq) A child is ill an hour after eating brinjal curry and refuses brinjal for years. What kind of learning is this?  
    Options: Linking a taste with feeling ill, in one go / Getting used to the taste of brinjal / Copying a sister who also refuses it  
-   **Answer:** Linking a taste with feeling ill, in one go. *Why:* Bodies are ready to link a taste with feeling ill, even hours later and after one time. It protects against food that may harm.
+   **Answer:** Linking a taste with feeling ill, in one go. *Why:* Bodies are ready to link a taste with feeling ill, even a long time later and after one time. It protects against food that may harm.
 12. (fill) A sea slug pulls in the gill when touched. After many gentle touches, the pull gets ____.  
    **Answer:** ['weaker', 'smaller']. *Why:* The slug has learned that the gentle touch is harmless, so the pull gets weaker.
 13. (draw) Draw a line graph of a volunteer's jumps for 12 spoon rings, then one rice-tin shake, then one more spoon ring.  
@@ -516,7 +516,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
    **Answer:** They have no nerve cells, so a learning-like change can happen without them. *Why:* Slime moulds are single giant cells with no nerve cells. A change that is kept and belongs to one substance happens in them too. Scientists argue about whether to call it learning.
 12. (count) A person gets 3 of 8 words right from a crammed list and 6 of 8 from a list learned in spaced sittings. How many more words did the spaced list give?  
    **Answer:** 3. *Why:* 6 minus 3 is 3. The spaced list gave 3 more words, which is twice as many.
-13. (perspective) Slime moulds get used to a harmless bitter bridge within about a week, and no nerve cells are involved.  
+13. (perspective) Slime moulds get used to a harmless bitter bridge after some days, and no nerve cells are involved.  
    **Answer:** Answers vary. A strong answer picks a side or a middle path and gives a reason. It may suggest testing whether the change is kept for days and belongs to one substance.. *Why:* Both views agree on what the slime mould does. They differ on the word learning. Tests that are the same as for a sea slug make the first view stronger.
 14. (write) A farm uses a bird scarer that booms exactly every ten minutes. Say what will happen after a week, and why.  
    **Answer:** The birds will get used to it and come back to the field. The boom is always the same and never hurts them, so they learn it does not matter.. *Why:* A strong answer says the sound is repeated and harmless, so birds get used to it. It may suggest that a random or changing sound would last longer.
@@ -563,9 +563,9 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
    **Answer:** The plant still ignores the drop after a long rest, but folds the leaves at once for a different kind of touch. *Why:* Learning is kept after a rest and belongs to one stimulus. Tiredness would pass with rest and would affect every touch.
 
 ## Videos
-- **Eric Kandel on the sea slug Aplysia and how memory works** (To find: a talk or interview with Eric Kandel, 5 min) id `to find`: A short talk by the scientist whose team traced a simple learned change in a sea slug to one connection between nerve cells. *Check:* No video id yet. Search for a short talk or interview with Eric Kandel about Aplysia, the gill-withdrawal reflex and memory. Check the length, that the sea slug experiments are shown, and that the language suits ages 8 to 10, and then add the id.
-- **Slime moulds that get used to bitter food (Audrey Dussutour)** (To find: a news video or lab talk with Audrey Dussutour, 4 min) id `to find`: Shows a slime mould crossing a bridge of oats, and how they stopped avoiding a harmless bitter bridge after several days. *Check:* No video id yet. Search for Dussutour slime mould habituation. Check that the video shows the bitter bridge, that the claims match the 2016 paper, and that the length is under five minutes.
-- **Meerkats teaching pups to handle scorpions** (To find: a nature documentary clip, 4 min) id `to find`: Shows meerkat helpers giving young pups scorpions that are dead or crippled, and then live ones. *Check:* No video id yet. Search for meerkat helpers and pups with scorpions from a nature series. Check that the clip shows pups at different ages, and that it is gentle enough for a child.
+- **Sea slug brain chemistry reveals a lot about human memory, learning - Science Nation** (National Science Foundation News, 4 min) id `ZoNP1gwMsU8`: A short talk by the scientist whose team traced a simple learned change in a sea slug to one connection between nerve cells. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Slime moulds that get used to bitter food (Audrey Dussutour)** (To find: a news video or lab talk with Audrey Dussutour, 4 min) id `to find`: Shows a slime mould crossing a bridge of oats, and how they stopped avoiding a harmless bitter bridge after some days. *Check:* No video id yet. Search for Dussutour slime mould habituation. Check that the video shows the bitter bridge, that the claims match the 2016 paper, and that the length is under five minutes.
+- **Meerkat Babies Get LIVE Scorpions for Homework** (WildShorts, 2 min) id `JcU9IeRjIWQ`: Shows meerkat helpers giving young pups scorpions that are dead or crippled, and then live ones. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What does learning mean for a living being?  

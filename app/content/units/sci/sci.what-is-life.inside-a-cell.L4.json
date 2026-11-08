@@ -2155,12 +2155,12 @@
  ],
  "videos": [
   {
-   "title": "The Inner Life of the Cell",
-   "channel": "Harvard University and XVIVO",
-   "status": "find-id",
-   "mins": 3,
+   "title": "The Inner Life of the Cell Animation",
+   "channel": "XVIVO Scientific Animation",
+   "mins": 8,
    "why": "A short animation of a white blood cell's journey, with rooms, tracks and walkers shown moving.",
-   "check": "Not yet found. Find the id, watch it, and check it is accurate before adding it. It has no spoken words, so a parent may need to explain."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "wJyUtbn0O5Y"
   },
   {
    "title": "How mitochondria make energy, explained clearly",
@@ -2171,12 +2171,12 @@
    "check": "Not yet found. Find a clear short video for children, watch it, and check it matches the unit before adding it."
   },
   {
-   "title": "Extracting DNA from fruit at home",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Extracting DNA from fruit",
+   "channel": "yourgenome",
    "mins": 4,
    "why": "To see the stringy white DNA in the alcohol layer, as a check on the home test.",
-   "check": "Not yet found. Find a video that uses soap, salt and cold alcohol, and check it is safe for children before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "ojGRBQ2FjP8"
   }
  ],
  "applications": [

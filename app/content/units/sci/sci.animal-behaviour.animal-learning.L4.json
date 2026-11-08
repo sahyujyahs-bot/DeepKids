@@ -1434,13 +1434,12 @@
  ],
  "videos": [
   {
-   "title": "Eric Kandel on the sea slug Aplysia and how memory works",
-   "channel": "To find: a talk or interview with Eric Kandel",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Sea slug brain chemistry reveals a lot about human memory, learning - Science Nation",
+   "channel": "National Science Foundation News",
+   "youtube": "ZoNP1gwMsU8",
+   "mins": 4,
    "why": "A short talk by the scientist whose team traced a simple learned change in a sea slug to one connection between nerve cells.",
-   "check": "No video id yet. Search for a short talk or interview with Eric Kandel about Aplysia, the gill-withdrawal reflex and memory. Check the length, that the sea slug experiments are shown, and that the language suits ages 8 to 10, and then add the id."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
    "title": "Slime moulds that get used to bitter food (Audrey Dussutour)",
@@ -1452,13 +1451,12 @@
    "check": "No video id yet. Search for Dussutour slime mould habituation. Check that the video shows the bitter bridge, that the claims match the 2016 paper, and that the length is under five minutes."
   },
   {
-   "title": "Meerkats teaching pups to handle scorpions",
-   "channel": "To find: a nature documentary clip",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Meerkat Babies Get LIVE Scorpions for Homework",
+   "channel": "WildShorts",
+   "youtube": "JcU9IeRjIWQ",
+   "mins": 2,
    "why": "Shows meerkat helpers giving young pups scorpions that are dead or crippled, and then live ones.",
-   "check": "No video id yet. Search for meerkat helpers and pups with scorpions from a nature series. Check that the clip shows pups at different ages, and that it is gentle enough for a child."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "quiz": [

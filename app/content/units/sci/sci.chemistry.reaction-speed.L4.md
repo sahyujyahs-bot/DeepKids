@@ -616,9 +616,9 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
    **Answer:** An answer might choose cut apple, and say lime juice slows the browning enzyme, or choose an iron grill and say paint keeps water and oxygen away from the iron. It should say that the particles meet less often or less strongly.. *Why:* A strong answer picks a real thing, names a slow-down or speed-up, and ties it to meetings: fewer, rarer or weaker meetings slow a change, and more or stronger meetings speed it up.
 
 ## Videos
-- **How temperature changes the speed of a reaction** (to be found, 5 min) id `to find`: To see fast and slow reactions side by side, and watch particles move faster when warmed. *Check:* Not yet found. Find one made for school-age viewers, watch it, and check that it shows particles speeding up with warmth and does not call reactions living.
-- **What are catalysts and how do they work?** (to be found, 5 min) id `to find`: To see a catalyst speed up a reaction and come out unchanged, with a simple picture of a lower energy hill. *Check:* Not yet found. Find one, watch it, and check it says clearly that a catalyst is not used up and does not change the amount of product.
-- **The Iron Pillar of Delhi and why it rusts so slowly** (to be found, 5 min) id `to find`: To see the pillar in the Qutb complex and hear how scientists found its thin protective skin. *Check:* Not yet found. Find one, watch it, and check that it mentions the protective skin and the phosphorus, and does not claim the pillar never rusts.
+- **Hot vs Cold: How Temperature Affects Reaction Rates!** (Chorus Educational K-12 Content, 5 min) id `Tq8bodUKCsA`: To see fast and slow reactions side by side, and watch particles move faster when warmed. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What Are Catalysts? | Reactions | Chemistry | FuseSchool** (FuseSchool - Global Education, 4 min) id `m_9bpZep1QM`: To see a catalyst speed up a reaction and come out unchanged, with a simple picture of a lower energy hill. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What is unique about the iron pillar at Qutub Minar?** (The Hindu, 3 min) id `m2-zzc1pkP4`: To see the pillar in the Qutb complex and hear how scientists found its thin protective skin. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What has to happen before two substances can react?  

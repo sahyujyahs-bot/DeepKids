@@ -613,9 +613,9 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
    **Answer:** The stomach is not safe because it is tough. It has a thick coat of mucus that holds a base, so the acid is used up before it reaches the wall. Its cells also live only a few days and are always replaced. If the coat is damaged, acid can reach the cells and make an ulcer.. *Why:* A strong answer says that the stomach is protected by mucus, a base and the quick replacement of cells.
 
 ## Videos
-- **How the stomach digests food and makes acid** (to be found, 4 min) id `to find`: To see the stomach wall, the mucus and the acid working together. *Check:* Not yet found. Find one, watch it, and check that it shows the mucus layer and gives the right pH before adding it.
-- **Barry Marshall and the bacterium that causes ulcers** (to be found, 5 min) id `to find`: To hear how Marshall and Warren found Helicobacter pylori, and why Marshall drank it. *Check:* Not yet found. Find one, watch it, and check the dates against the Nobel Prize page before adding it.
-- **The pH scale and indicators with red cabbage** (to be found, 4 min) id `to find`: To see the colours of cabbage water and pH paper across the scale. *Check:* Not yet found. Find one, watch it, and check that the tenfold steps are mentioned and the colours are right before adding it.
+- **Science for Kids - The Acid Inside My Stomach | Learn About Digestion | Operation Ouch** (Operation Ouch, 4 min) id `5vT6JxFBktw`: To see the stomach wall, the mucus and the acid working together. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Man Who Tried to Give Himself An Ulcer... For Science** (SciShow, 6 min) id `HP6Zf1ff7Sw`: To hear how Marshall and Warren found Helicobacter pylori, and why Marshall drank it. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **At home science - Colour changing cabbage experiment - ExpeRimental #17** (The Royal Institution, 4 min) id `PKUwxQI0wIo`: To see the colours of cabbage water and pH paper across the scale. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What does pH measure?  

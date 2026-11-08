@@ -2329,28 +2329,28 @@
  ],
  "videos": [
   {
-   "title": "Air pressure and the crushed can",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "Can Crush Experiment: Explanation",
+   "channel": "Wayne Breslyn (Dr. B.)",
    "mins": 4,
    "why": "To see a can or bottle crush itself when the air inside cools, and hear the explanation from the air's point of view.",
-   "check": "Not yet found. Find one, watch it, and check that it explains it as air pushing and not as sucking."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "Rbudgaiu3K4"
   },
   {
-   "title": "Torricelli's barometer and the weight of air",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "The history of the barometer (and how it works) - Asaf Bar-Yosef",
+   "channel": "TED-Ed",
    "mins": 5,
    "why": "To see mercury in a tube standing at about 76 centimetres, and why it stops there.",
-   "check": "Not yet found. Find one, watch it, and check that it says mercury is poisonous and shows no children handling it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "EkDhlzA-lwI"
   },
   {
-   "title": "How a siphon works",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "Siphon in a Vacuum - Periodic Table of Videos",
+   "channel": "Periodic Videos",
+   "mins": 8,
    "why": "To see a siphon start and run, and hear that scientists still argue about its best explanation.",
-   "check": "Not yet found. Find one, watch it, and check that it does not claim that air pressure is the only explanation."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "8F4i9M3y0ew"
   }
  ],
  "applications": [

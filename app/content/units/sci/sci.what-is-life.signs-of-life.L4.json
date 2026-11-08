@@ -2576,28 +2576,28 @@
  ],
  "videos": [
   {
-   "title": "What is life? A short explainer",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "What life actually is | a biologist explains",
+   "channel": "Simon Pierce | University of Milan",
    "mins": 5,
    "why": "To hear scientists explain why there is no single definition of life.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "YmdHBL9F740"
   },
   {
-   "title": "Tardigrades: the animals that dry up and wake again",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "How Tardigrades Survive by Nearly Shutting Down Their Metabolism",
+   "channel": "Nature Is Weird",
    "mins": 4,
    "why": "To see a tardigrade in her dried state and when she wakes.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "wMF5HH0nhRM"
   },
   {
-   "title": "The cell membrane: the skin that keeps the inside different",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Inside the Cell Membrane",
+   "channel": "Amoeba Sisters",
+   "mins": 9,
    "why": "To see how the thin skin around a cell lets some things in and keeps others out.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "qBCVVszQQNs"
   }
  ],
  "applications": [

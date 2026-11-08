@@ -2393,31 +2393,28 @@
  ],
  "videos": [
   {
-   "title": "How the stomach digests food and makes acid",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Science for Kids - The Acid Inside My Stomach | Learn About Digestion | Operation Ouch",
+   "channel": "Operation Ouch",
+   "youtube": "5vT6JxFBktw",
    "mins": 4,
    "why": "To see the stomach wall, the mucus and the acid working together.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the mucus layer and gives the right pH before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Barry Marshall and the bacterium that causes ulcers",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "The Man Who Tried to Give Himself An Ulcer... For Science",
+   "channel": "SciShow",
+   "youtube": "HP6Zf1ff7Sw",
+   "mins": 6,
    "why": "To hear how Marshall and Warren found Helicobacter pylori, and why Marshall drank it.",
-   "check": "Not yet found. Find one, watch it, and check the dates against the Nobel Prize page before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "The pH scale and indicators with red cabbage",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "title": "At home science - Colour changing cabbage experiment - ExpeRimental #17",
+   "channel": "The Royal Institution",
+   "youtube": "PKUwxQI0wIo",
    "mins": 4,
    "why": "To see the colours of cabbage water and pH paper across the scale.",
-   "check": "Not yet found. Find one, watch it, and check that the tenfold steps are mentioned and the colours are right before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

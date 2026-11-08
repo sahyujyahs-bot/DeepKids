@@ -700,8 +700,8 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
 
 ## Videos
 - **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the topic of this unit. Parents should watch first, because it uses fighting pictures. *Check:* The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children.
-- **How vaccines teach the immune system (a short animation)** (to be found, 5 min) id `to find`: To see a vaccine showing the body a safe piece of a germ, and memory cells being made. *Check:* Not yet found. Find a short animation, watch it fully, and check it says memory cells stay and that a vaccine does not give the illness, before adding it.
-- **How smallpox was ended (a short documentary or animation)** (to be found, 6 min) id `to find`: To see the real campaign that ended smallpox, with the teams that went from village to village. *Check:* Not yet found. Find one from a trusted source such as the World Health Organization or a science museum, and check the dates against the poster project.
+- **Why Do We Get Vaccines?** (SciShow Kids, 5 min) id `5SproXmRUkI`: To see a vaccine showing the body a safe piece of a germ, and memory cells being made. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How we conquered the deadly smallpox virus - Simona Zompi** (TED-Ed, 5 min) id `yqUFy-t4MlQ`: To see the real campaign that ended smallpox, with the teams that went from village to village. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which is true of the quick defence?  

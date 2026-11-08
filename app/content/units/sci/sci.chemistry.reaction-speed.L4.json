@@ -2457,31 +2457,28 @@
  ],
  "videos": [
   {
-   "title": "How temperature changes the speed of a reaction",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
+   "title": "Hot vs Cold: How Temperature Affects Reaction Rates!",
+   "channel": "Chorus Educational K-12 Content",
+   "youtube": "Tq8bodUKCsA",
    "mins": 5,
    "why": "To see fast and slow reactions side by side, and watch particles move faster when warmed.",
-   "check": "Not yet found. Find one made for school-age viewers, watch it, and check that it shows particles speeding up with warmth and does not call reactions living."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "What are catalysts and how do they work?",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 5,
+   "title": "What Are Catalysts? | Reactions | Chemistry | FuseSchool",
+   "channel": "FuseSchool - Global Education",
+   "youtube": "m_9bpZep1QM",
+   "mins": 4,
    "why": "To see a catalyst speed up a reaction and come out unchanged, with a simple picture of a lower energy hill.",
-   "check": "Not yet found. Find one, watch it, and check it says clearly that a catalyst is not used up and does not change the amount of product."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "The Iron Pillar of Delhi and why it rusts so slowly",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 5,
+   "title": "What is unique about the iron pillar at Qutub Minar?",
+   "channel": "The Hindu",
+   "youtube": "m2-zzc1pkP4",
+   "mins": 3,
    "why": "To see the pillar in the Qutb complex and hear how scientists found its thin protective skin.",
-   "check": "Not yet found. Find one, watch it, and check that it mentions the protective skin and the phosphorus, and does not claim the pillar never rusts."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [
@@ -2851,7 +2848,8 @@
    "Radzicka, A. and Wolfenden, R., 'A proficient enzyme', Science 267, 1995 (an enzyme speeds a reaction by a factor of about 10 to the power 17).",
    "Fulhame, E., An Essay on Combustion, London, 1794; Laidler, K. J. and Cornish-Bowden, A., 'Elizabeth Fulhame and the discovery of catalysis: 100 years before Buchner', in New Beer in an Old Bottle, 1997.",
    "Berzelius, J. J., Jahres-Bericht, 1835 (the word catalysis).",
-   "Balasubramaniam, R., 'On the corrosion resistance of the Delhi Iron Pillar', Corrosion Science 42, 2000.", "Wikipedia, Iron pillar of Delhi (age about 1,600 years, Qutb complex, skin about one-twentieth of a millimetre thick, phosphorus above 0.1 percent); Archaeological Survey of India and Visvesvaraya Industrial and Technological Museum sites (links checked); Wikipedia, Emission standards in India (catalytic converters in petrol vehicles); Wikipedia, Proton-proton chain (about 9 billion years).",
+   "Balasubramaniam, R., 'On the corrosion resistance of the Delhi Iron Pillar', Corrosion Science 42, 2000.",
+   "Wikipedia, Iron pillar of Delhi (age about 1,600 years, Qutb complex, skin about one-twentieth of a millimetre thick, phosphorus above 0.1 percent); Archaeological Survey of India and Visvesvaraya Industrial and Technological Museum sites (links checked); Wikipedia, Emission standards in India (catalytic converters in petrol vehicles); Wikipedia, Proton-proton chain (about 9 billion years).",
    "Zanotto, E. D., 'Do cathedral glasses flow?', American Journal of Physics 66, 1998.",
    "van 't Hoff, J. H., Etudes de dynamique chimique, 1884 (how rates change with temperature).",
    "Smil, V., Enriching the Earth, MIT Press, 2001 (about four in ten people around 2000 fed with nitrogen fertiliser made by the Haber-Bosch process); Erisman, J. W. et al., Nature Geoscience 1, 2008 (about 48 percent by 2008); Our World in Data, How many people does synthetic fertilizer feed (about half today).",

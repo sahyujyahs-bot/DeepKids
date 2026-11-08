@@ -649,9 +649,9 @@ That night the water ran along the edge of the barley field, soaking the dry gro
    **Answer:** ['Muscle cells use more oxygen and make more carbon dioxide', 'Sensors notice the carbon dioxide rising', 'The breathing and the pulse speed up', 'More oxygen reaches the muscle cells']. *Why:* The cells call first. The sensors notice. The lungs and heart speed up. More oxygen is delivered, which meets the cells' call.
 
 ## Videos
-- **How the heart pumps blood round the body** (to be found, 5 min) id `to find`: To see the four rooms, the valves and the two loops moving. *Check:* Not yet found. Find one, watch it, and check that it shows blood going through the heart twice and is accurate before adding it.
-- **How the lungs pass oxygen into the blood** (to be found, 5 min) id `to find`: To see the airways, the alveoli and the capillaries close up. *Check:* Not yet found. Find one, watch it, and check that the alveoli and the thin wall are shown correctly.
-- **What is blood made of, and how red blood cells carry oxygen** (to be found, 5 min) id `to find`: To see red blood cells, plasma and haemoglobin in motion. *Check:* Not yet found. Find one, watch it, and check that it shows the cells squeezing through capillaries.
+- **Circulatory System and Pathway of Blood Through the Heart** (Amoeba Sisters, 7 min) id `_vZ0lefPg_0`: To see the four rooms, the valves and the two loops moving. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Respiratory System of the Human Body - How the Lungs Work! (Animation)** (Thomas Schwenke, 6 min) id `7FhzSSQxM54`: To see the airways, the alveoli and the capillaries close up. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **What Are Red Blood Cells? 🩸 | How Do Red Blood Cells Carry Oxygen? | Dr. Binocs Show** (Peekaboo Kidz, 6 min) id `5MPSIuxfo0E`: To see red blood cells, plasma and haemoglobin in motion. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) You count 25 beats in 15 seconds. What is the pulse per minute?  

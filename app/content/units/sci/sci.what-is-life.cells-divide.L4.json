@@ -2384,31 +2384,28 @@
  ],
  "videos": [
   {
-   "title": "How a cell divides: mitosis in four steps",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
+   "title": "Mitosis: The Amazing Cell Process that Uses Division to Multiply! (Older Video 2016 )",
+   "channel": "Amoeba Sisters",
+   "youtube": "f-ldPgEfAHI",
+   "mins": 7,
    "why": "To see the chromosomes line up, pull apart and the cell pinch in two, in a clear animation.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the copying first, and that it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "A real root tip: dividing cells under a microscope",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
+   "title": "Onion Root Tip Mitosis Observations",
+   "channel": "Glen Burger",
+   "youtube": "LxbP82mi02Y",
    "mins": 4,
    "why": "To see real cells at different stages of division in an onion or garlic root tip.",
-   "check": "Not yet found. Find one, watch it, and check that it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "From one cell to a baby: the first days",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
+   "title": "Embryology: from Fertilization to Gastrulation, Animation",
+   "channel": "Alila Medical Media",
+   "youtube": "g7FExgKr-x4",
    "mins": 5,
    "why": "To see a fertilised egg divide into 2, 4 and 8 cells, and grow into a ball of cells.",
-   "check": "Not yet found. Find one, watch it, and check that it is gentle enough for children and accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

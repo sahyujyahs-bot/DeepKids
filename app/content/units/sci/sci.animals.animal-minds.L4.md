@@ -33,7 +33,7 @@
 **Definition:** Number sense is a quick feeling for how many things there are, or which group has more, without counting and without number words.
 
 Number sense is old and shared. Chicks only a few days old go to the bigger group of objects they were raised with. Fish choose to join the bigger shoal. Honeybees, crows and monkeys also tell small numbers apart. Human babies a few months old stare longer when the number of dots changes. None of them has number words, so the feeling for 'how many' comes first, and the words come later. A chick checking two piles is a scientist's best sign that the feeling is built into a living body. Scientists test it by hiding food or objects and seeing which pile the animal picks.
-- e.g. A chick only three days old walks to the screen hiding more balls, not fewer.
+- e.g. A chick only three or four days old walks to the screen hiding more balls, not fewer.
 - e.g. A fish joins the bigger group of fish in a tank.
 - e.g. A six-month-old baby looks longer when 8 dots change to 16.
 ### Subitising: small numbers at a glance · *defined*
@@ -67,14 +67,14 @@ In 2008, Marie Dacke and Mandyam Srinivasan trained honeybees to fly down a tunn
 ### Desert ants count their steps · *defined*
 **Definition:** A desert ant keeps track of how far she has walked from her nest by keeping count of her steps, like a pedometer in her nervous system.
 
-Desert ants in Tunisia walk far across hot sand with no trail to follow, then run straight home. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf tested how they know the distance. They glued a few pig bristles to some ants' legs, like stilts, and cut other ants' legs shorter, like stumps. Ants on stilts took longer steps and walked past the nest. Ants on stumps took shorter steps and stopped before it. So the ants were counting steps, not looking at the sand. With normal legs, one step count is a good measure of distance.
+Desert ants walk far across hot sand with no trail to follow, then run straight home. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf tested how they know the distance. They added tiny extensions to some ants' legs, like stilts, and cut other ants' legs shorter, like stumps. Ants on stilts took longer steps and walked past the nest. Ants on stumps took shorter steps and stopped before it. So the ants were counting steps, not looking at the sand. With normal legs, one step count is a good measure of distance.
 - e.g. An ant on stilts walks past the nest door.
 - e.g. An ant on stumps stops short of the nest door.
 - e.g. You walking home in the dark by counting your steps.
 ### Waiting for more: self-control in people and other animals · *defined*
 **Definition:** Self-control, also called delay of gratification, is turning down a small reward now to get a bigger one later.
 
-Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish waited up to about two minutes for a favourite food, instead of taking a plain one at once. Those who waited longer also learned faster in a second test. Waiting is a choice that needs a picture of a better later. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.
+Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish waited for a favourite food for up to about one to two minutes, instead of taking a plain one at once. Those who waited longer also learned faster in a second test. Waiting is a choice that needs a picture of a better later. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.
 - e.g. A cuttlefish waits for live shrimp instead of eating a piece of prawn.
 - e.g. A crow waits for a better nut.
 - e.g. A child waits for two raisins when she trusts the person who promised.
@@ -113,7 +113,7 @@ In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a h
 - Some animals can wait for a better reward, and waiting is shaped by what they expect to happen. *How we know:* Crows, ravens, cuttlefish and children waited for a better reward in tests with fair controls. Children waited less when a grown-up had broken a promise first.
 
 ## How we found out
-**Otto Koehler first, then Irene Pepperberg, Marie Dacke and many others, The 1930s to the 1950s, then 1980s to 2008.** For a long time, many thinkers said that counting needs words. Animals have no number words, so they could not count. In the 1930s and 1940s, a German scientist called Otto Koehler tested this. He trained birds, including a raven called Jakob and some jackdaws, to pick out a chosen number of marks or food items. He changed the size, shape and place of the things, so the birds could not use any clue except the number. The birds managed small numbers, up to about five or six. Koehler called this 'thinking in unnamed numbers'. Later scientists said he had not controlled every clue, and tested again with better controls. Later, Irene Pepperberg's grey parrot Alex used spoken number words, and Marie Dacke's bees stopped at the right stripe in a tunnel. So words are not needed for number. Words only make big numbers exact.  
+**Otto Koehler among the first, then Irene Pepperberg, Marie Dacke and many others, The 1930s to the 1950s, then 1980s to 2008.** For a long time, many thinkers said that counting needs words. Animals have no number words, so they could not count. In the 1930s and 1940s, a German scientist called Otto Koehler tested this. He trained birds, including a raven called Jakob and some jackdaws, to pick out a chosen number of marks or food items. He changed the size, shape and place of the things, so the birds could not use any clue except the number. The birds managed small numbers, up to about five or six. Koehler called this 'thinking in unnamed numbers'. Later scientists said he had not controlled every clue, and tested again with better controls. Later, Irene Pepperberg's grey parrot Alex used spoken number words, and Marie Dacke's bees stopped at the right stripe in a tunnel. So words are not needed for number. Words only make big numbers exact.  
 *What people believed before:* Counting needs number words, so animals cannot sense number. Koehler's birds picked the right number with no words, and later bees, ants and a parrot did too.
 
 ## Challenging perspectives
@@ -143,8 +143,8 @@ You tested how many things you can know at a glance, and you met chicks, bees, a
 
 Before anything can be counted, there is none. Then there is one. Then there are two, three and many. A bee that picks the blank card over a card with dots has met none. A chick that picks five over two has met many. Counting is one way minds meet the One becoming the many. The number words came later, and they make the feeling exact.
 
-- **Chandogya Upanishad 6.2.1 to 6.2.3:** In the beginning there was only Being, one without a second. Being thought, 'Let me become many.' (Counting starts with one and moves to many. Your sense of number is the mind meeting that step.)
-- **Tao Te Ching 42:** The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. (The first numbers come in a line, one after another, which is how a bee sees stripes and how you touch palms.)
+- **Chandogya Upanishad 6.2.1 to 6.2.3:** As paraphrased: in the beginning there was only Being, one without a second. Being thought, 'Let me become many.' (Counting starts with one and moves to many. Your sense of number is the mind meeting that step.)
+- **Tao Te Ching 42:** As paraphrased: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. (The first numbers come in a line, one after another, which is how a bee sees stripes and how you touch palms.)
 - **Brahmasphutasiddhanta, Brahmagupta, 628 CE:** Brahmagupta wrote down rules for calculating with zero, as a number in its own right. (Bees in a 2018 test treated an empty card as the smallest number. People wrote rules for zero more than a thousand years ago.)
 - Science (settled): Chicks, fish, bees and many other animals tell small numbers apart without being taught or having number words.
 - Science (debated): Whether this is counting like ours, or a different kind of knowing, is still argued over.
@@ -589,9 +589,9 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
    **Answer:** Words give each number its own name and place in a list, so we can say 17 and not just 'many'. *Why:* The quick sense of number is blurry for big numbers. Number words let people say exactly how many, as the research with the Pirahã community and others suggests.
 
 ## Videos
-- **Alex the grey parrot counts and names objects** (to be found, 4 min) id `to find`: To see Irene Pepperberg ask Alex how many objects are on a tray, and hear his answers. *Check:* Not yet found. Find one, watch it, and check that it is accurate before adding it.
-- **Bees learn to add and subtract** (to be found, 4 min) id `to find`: To see how bees were trained to fly to the right card in the adding and subtracting tests. *Check:* Not yet found. Find one, watch it, and check that it is accurate before adding it.
-- **The desert ant who counts her steps** (to be found, 4 min) id `to find`: To see desert ants on stilts and stumps, and how they find their way home. *Check:* Not yet found. Find one, watch it, and check that it is accurate before adding it.
+- **Alan Alda interviews Irene Pepperberg and Alex the Parrot** (LemonScience33, 8 min) id `SbWekV6mkE0`: To see Irene Pepperberg ask Alex how many objects are on a tray, and hear his answers. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Honeybees learn how to do simple arithmetic** (News Direct, 2 min) id `kKqZDbtc6AA`: To see how bees were trained to fly to the right card in the adding and subtracting tests. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Ants That Count! | Krulwich Wonders | NPR** (NPR, 4 min) id `7DDF8WZFnoU`: To see desert ants on stilts and stumps, and how they find their way home. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which is the best example of an animal using number sense?  

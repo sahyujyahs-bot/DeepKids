@@ -569,9 +569,9 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
    **Answer:** Rooms have different jobs → The picture helps; A mayor in the nucleus gives all orders → The picture misleads; Finished goods are posted from one place to another → The picture helps; Everything stays still in its place → The picture misleads; Power stations make energy for the whole city → The picture helps; Buildings stay where they were put → The picture misleads. *Why:* The picture is good for rooms, jobs and posting. It misleads about a boss and about stillness, because a cell has no mayor and everything in her moves.
 
 ## Videos
-- **The Inner Life of the Cell** (Harvard University and XVIVO, 3 min) id `to find`: A short animation of a white blood cell's journey, with rooms, tracks and walkers shown moving. *Check:* Not yet found. Find the id, watch it, and check it is accurate before adding it. It has no spoken words, so a parent may need to explain.
+- **The Inner Life of the Cell Animation** (XVIVO Scientific Animation, 8 min) id `wJyUtbn0O5Y`: A short animation of a white blood cell's journey, with rooms, tracks and walkers shown moving. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How mitochondria make energy, explained clearly** (to be found, 5 min) id `to find`: To see a mitochondrion's folded wall and the way food and oxygen are turned into ATP. *Check:* Not yet found. Find a clear short video for children, watch it, and check it matches the unit before adding it.
-- **Extracting DNA from fruit at home** (to be found, 4 min) id `to find`: To see the stringy white DNA in the alcohol layer, as a check on the home test. *Check:* Not yet found. Find a video that uses soap, salt and cold alcohol, and check it is safe for children before adding it.
+- **Extracting DNA from fruit** (yourgenome, 4 min) id `ojGRBQ2FjP8`: To see the stringy white DNA in the alcohol layer, as a check on the home test. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which room of a cell keeps the DNA?  

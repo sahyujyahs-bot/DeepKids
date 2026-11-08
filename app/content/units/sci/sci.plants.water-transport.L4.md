@@ -608,8 +608,8 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
    **Answer:** Ordinary wheat, because she cannot grow in salty soil. The other three can.. *Why:* Mangroves, coconut palms and Pokkali rice all have ways of holding water tighter than salty water does. Ordinary wheat does not.
 
 ## Videos
-- **How do trees move water up to their leaves? (transpiration and the pull from the leaves)** (to be found, 5 min) id `to find`: To see the whole path of water from root to leaf to air, with clear animation. *Check:* Not yet found. Find one, watch it, and check that it says the leaves pull the water, not that roots push it.
-- **Osmosis in plant cells: why celery and cucumber go limp in salt** (to be found, 4 min) id `to find`: To see a plant cell swell in plain water and shrink in salt water under a microscope. *Check:* Not yet found. Find one, watch it, and check that it shows plant cells and not only animal cells.
+- **How Do Trees Transport Water from Roots to Leaves? | California Academy of Sciences** (California Academy of Sciences, 5 min) id `9-dicqNoODg`: To see the whole path of water from root to leaf to air, with clear animation. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Onion Cells Wet Mount in Distilled and Salt Water** (South7thScience, 3 min) id `N2w5ONctno8`: To see a plant cell swell in plain water and shrink in salt water under a microscope. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **The mangroves of the Sundarbans and how they live in salt water** (to be found, 5 min) id `to find`: To see the largest mangrove forest in the world and how its trees cope with salt and tides. *Check:* Not yet found. Find one, watch it, and check that the facts about salt match what the unit says.
 
 ## Quiz

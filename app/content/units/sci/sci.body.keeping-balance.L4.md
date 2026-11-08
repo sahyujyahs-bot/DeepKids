@@ -691,9 +691,9 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    **Answer:** The microphone, because the louder sound makes it louder still. The others push back against a change.. *Why:* The microphone is positive feedback, which pushes the change on. The other three are negative feedback, which pushes back.
 
 ## Videos
-- **How insulin and glucagon work** (to be found, 5 min) id `to find`: To see how the pancreas releases insulin and glucagon to keep the sugar in the blood steady. *Check:* Not yet found. Find one, watch it, and check that it shows both hormones and says the amounts of sugar correctly before adding it.
-- **The pupillary light reflex** (to be found, 4 min) id `to find`: To see pupils change size with the light and hear how the brainstem runs the loop. *Check:* Not yet found. Find one, watch it, and check that it is accurate and suitable for children before adding it.
-- **How the discovery of insulin changed diabetes care** (to be found, 5 min) id `to find`: To hear the story of Banting, Best, Macleod and Collip, and how the first patients were treated. *Check:* Not yet found. Find one, watch it, and check names, dates and the credit given to Collip and Macleod before adding it.
+- **Insulin and Glucagon | Physiology | Biology | FuseSchool** (FuseSchool - Global Education, 5 min) id `y9Bdi4dnSlg`: To see how the pancreas releases insulin and glucagon to keep the sugar in the blood steady. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **2-Minute Neuroscience: Pupillary Light Reflex** (Neuroscientifically Challenged, 3 min) id `GYuG38UjJyA`: To see pupils change size with the light and hear how the brainstem runs the loop. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Discovery of Insulin** (nature video, 5 min) id `Gk1D4VgM8jY`: To hear the story of Banting, Best, Macleod and Collip, and how the first patients were treated. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) What makes a level stay steady?  

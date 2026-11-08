@@ -552,9 +552,9 @@ She stood there for a long time in the cold, looking at the empty wires, and she
    **Answer:** The mudflat is a refuelling stop where they build fat for the next stage. *Why:* Gaining weight in two weeks shows they are feeding well and storing fat. That is what a refuelling stop is for.
 
 ## Videos
-- **Bar-headed geese flying over the Himalaya** (to be found, 4 min) id `to find`: To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this unit. *Check:* Not yet found. Find a short clip from a nature documentary, watch it first, and check that it matches the facts in this unit.
-- **The bar-tailed godwit's non-stop flight across the Pacific** (to be found, 4 min) id `to find`: To see the tracked route of a godwit that flies for days without landing, drawn on a map. *Check:* Not yet found. Find a short clip, watch it first, and check the distance and the days against this unit.
-- **Amur falcons in Nagaland** (to be found, 4 min) id `to find`: To see the falcons roosting by their thousands at the Doyang reservoir, and how the villagers now protect them. *Check:* Not yet found. Find a short clip from a reliable broadcaster, watch it first, and check that it is suitable for children.
+- **Top Gun Geese! | Extreme Animals | BBC Studios** (BBC Studios, 3 min) id `yd_w3biT3TU`: To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this unit. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **A tagged bar-tailed godwit set a world record by flying 13,560 km nonstop from Alaska to Tasmania.** (Bird Migration Map, 2 min) id `YBuBA1RDPtk`: To see the tracked route of a godwit that flies for days without landing, drawn on a map. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Falcon Capital of the World: Nagaland's Amur Falcon | THT Films** (The Habitats Trust, 6 min) id `WqJa3sVSyYM`: To see the falcons roosting by their thousands at the Doyang reservoir, and how the villagers now protect them. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which is the best reason that many birds migrate?  

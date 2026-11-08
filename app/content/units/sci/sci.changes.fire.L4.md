@@ -577,9 +577,9 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
    **Answer:** ['Arrow into the edge holes: fresh air in', 'Arrow out of the middle hole: hot gas out', 'The tea-light: flame']. *Why:* A flame burns longest when fresh air can flow in and the hot gas can flow out. The hot gas rises, and so pulls in fresh air.
 
 ## Videos
-- **Steel wool burning on a balance: why does it get heavier?** (to be found, 4 min) id `to find`: To see a balance tip towards the burning steel wool, and hear why. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Candle flames in space: why they are round and blue** (to be found, 4 min) id `to find`: To see how a flame looks on the space station, and why gravity shapes a flame. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How Lavoisier showed that burning joins with oxygen** (to be found, 5 min) id `to find`: To see the sealed flask and the weighing that ended the phlogiston idea. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it, and check that it names Marie-Anne Paulze Lavoisier.
+- **Iron Wool Balance** (ChemPics, 2 min) id `3X_BAQJ8UdI`: To see a balance tip towards the burning steel wool, and hear why. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How Fire Burns in Space** (Seeker, 4 min) id `9zdD7lfB0Fs`: To see how a flame looks on the space station, and why gravity shapes a flame. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Lavoisier, oxygen, and the end of phlogiston.** (The History Of Science Explained, 5 min) id `-dpXtmnCWSA`: To see the sealed flask and the weighing that ended the phlogiston idea. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these is the best way to describe burning a candle?  

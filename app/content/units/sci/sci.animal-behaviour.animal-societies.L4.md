@@ -671,9 +671,9 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
    **Answer:** The waggle dance tells direction and distance → Settled; Why workers help raise their mother's young → Debated; Standing ants are a reserve → Debated; Naked mole-rats live with a queen → Settled. *Why:* Some ideas have been tested again and again, and are settled. Others still have scientists on different sides, so they are debated.
 
 ## Videos
-- **How honeybees dance to tell each other where the food is (the waggle dance)** (to be found, 5 min) id `to find`: To see a real dancer on the comb, with the angle and the waggle run, and the bees following her. *Check:* Not yet found. Find a short video of a waggle dance in a glass hive, watch it fully, and check that it explains the angle from straight up and the length of the waggle.
-- **How a honeybee swarm chooses a new home, with Thomas Seeley** (to be found, 8 min) id `to find`: To see scouts dance on a swarm and a swarm take off, and to hear the scientist explain the quorum. *Check:* Not yet found. Look for a talk or documentary clip by Thomas Seeley or his team. Check that it shows the scouts dancing on the swarm and the take-off.
-- **Naked mole-rats: a mammal that lives like a bee** (to be found, 5 min) id `to find`: To see tunnels, a digging chain and a queen in a colony of mammals. *Check:* Not yet found. Find a short video from a zoo, a museum or a nature programme. Check that it shows the queen and the digging chain, and that its facts match this unit.
+- **The Waggle Dance  | Inside the Animal Mind | BBC** (BBC Earth, 4 min) id `12Q8FfyLLso`: To see a real dancer on the comb, with the angle and the waggle run, and the bees following her. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **How a Bee Swarm Votes for a New Home #bees #nature #biology** (Six Legs Files, 3 min) id `wiDrddqC8eA`: To see scouts dance on a swarm and a swarm take off, and to hear the scientist explain the quorum. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Are naked mole rats the strangest mammals? - Thomas Park** (TED-Ed, 5 min) id `2sKADUBfdMk`: To see tunnels, a digging chain and a queen in a colony of mammals. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these is a eusocial society?  

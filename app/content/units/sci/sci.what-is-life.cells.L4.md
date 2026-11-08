@@ -620,9 +620,9 @@ Anjana wrote in her notebook: 'A plant can be thirsty while standing in water. I
    **Answer:** False. *Why:* False. Nobody knows. Scientists have several ideas and none is proven.
 
 ## Videos
-- **Inside a cell: the membrane, the cytoplasm and the nucleus** (to be found, 5 min) id `to find`: To see a cell's parts and how the membrane works, in a clear animation. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Osmosis with potato in salt water** (to be found, 4 min) id `to find`: To see water leaving potato cells and the strip going soft, filmed over time. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **Amoeba and paramecium swimming under a microscope** (to be found, 5 min) id `to find`: To see real single cells eating, swimming and pumping out water. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **What are Cells? | Science For Kids** (National Science Foundation News, 4 min) id `ex0x-w00Uy4`: To see a cell's parts and how the membrane works, in a clear animation. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Osmosis in Potato Strips - Bio Lab** (Science Sauce, 4 min) id `jTDATlaBV-o`: To see water leaving potato cells and the strip going soft, filmed over time. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Amoeba hunts and kills paramecia and stentor... to music by Lamar; Genesis; Winter; Zimmer** (mantismundi, 5 min) id `4XlzCe5gDu0`: To see real single cells eating, swimming and pumping out water. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which three things do almost all cells have?  

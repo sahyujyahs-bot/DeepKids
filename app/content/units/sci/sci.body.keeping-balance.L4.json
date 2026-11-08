@@ -2582,31 +2582,28 @@
   ],
   "videos": [
     {
-      "title": "How insulin and glucagon work",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
+      "title": "Insulin and Glucagon | Physiology | Biology | FuseSchool",
+      "channel": "FuseSchool - Global Education",
+      "youtube": "y9Bdi4dnSlg",
       "mins": 5,
       "why": "To see how the pancreas releases insulin and glucagon to keep the sugar in the blood steady.",
-      "check": "Not yet found. Find one, watch it, and check that it shows both hormones and says the amounts of sugar correctly before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "The pupillary light reflex",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
-      "mins": 4,
+      "title": "2-Minute Neuroscience: Pupillary Light Reflex",
+      "channel": "Neuroscientifically Challenged",
+      "youtube": "GYuG38UjJyA",
+      "mins": 3,
       "why": "To see pupils change size with the light and hear how the brainstem runs the loop.",
-      "check": "Not yet found. Find one, watch it, and check that it is accurate and suitable for children before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "How the discovery of insulin changed diabetes care",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
+      "title": "The Discovery of Insulin",
+      "channel": "nature video",
+      "youtube": "Gk1D4VgM8jY",
       "mins": 5,
       "why": "To hear the story of Banting, Best, Macleod and Collip, and how the first patients were treated.",
-      "check": "Not yet found. Find one, watch it, and check names, dates and the credit given to Collip and Macleod before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     }
   ],
   "quiz": [
@@ -3071,7 +3068,10 @@
       "Combined lesson sci-C4-body-parts-and-skeleton and sci-C5-health-hygiene-exercise-and-illness, for coverage only."
     ],
     "science": [
-      "Harvard BioNumbers, total glucose in the blood of a 70 kg adult (about 4 g)", "Fleming, S. and others, The Lancet (2011) on normal heart rate and breathing rate ranges in children", "University of Toronto, Insulin 100, on the sale of the insulin patent for one dollar and on Leonard Thompson", "Bernard, C. (1865) An Introduction to the Study of Experimental Medicine (the internal environment)",
+      "Harvard BioNumbers, total glucose in the blood of a 70 kg adult (about 4 g)",
+      "Fleming, S. and others, The Lancet (2011) on normal heart rate and breathing rate ranges in children",
+      "University of Toronto, Insulin 100, on the sale of the insulin patent for one dollar and on Leonard Thompson",
+      "Bernard, C. (1865) An Introduction to the Study of Experimental Medicine (the internal environment)",
       "Cannon, W. B. (1926) coined 'homeostasis'; The Wisdom of the Body (1932)",
       "Minkowski, O. and von Mering, J. (1889) on the removal of the pancreas and diabetes in dogs",
       "Banting, F. G., Best, C. H., Collip, J. B., Campbell, W. R. and Fletcher, A. A., Canadian Medical Association Journal (1922) on pancreatic extracts in diabetic patients",

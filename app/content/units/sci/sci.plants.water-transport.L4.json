@@ -2356,22 +2356,20 @@
   ],
   "videos": [
     {
-      "title": "How do trees move water up to their leaves? (transpiration and the pull from the leaves)",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
+      "title": "How Do Trees Transport Water from Roots to Leaves? | California Academy of Sciences",
+      "channel": "California Academy of Sciences",
+      "youtube": "9-dicqNoODg",
       "mins": 5,
       "why": "To see the whole path of water from root to leaf to air, with clear animation.",
-      "check": "Not yet found. Find one, watch it, and check that it says the leaves pull the water, not that roots push it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "Osmosis in plant cells: why celery and cucumber go limp in salt",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
-      "mins": 4,
+      "title": "Onion Cells Wet Mount in Distilled and Salt Water",
+      "channel": "South7thScience",
+      "youtube": "N2w5ONctno8",
+      "mins": 3,
       "why": "To see a plant cell swell in plain water and shrink in salt water under a microscope.",
-      "check": "Not yet found. Find one, watch it, and check that it shows plant cells and not only animal cells."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
       "title": "The mangroves of the Sundarbans and how they live in salt water",

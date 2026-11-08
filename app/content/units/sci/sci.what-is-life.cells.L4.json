@@ -2289,31 +2289,28 @@
   ],
   "videos": [
     {
-      "title": "Inside a cell: the membrane, the cytoplasm and the nucleus",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
-      "mins": 5,
+      "title": "What are Cells? | Science For Kids",
+      "channel": "National Science Foundation News",
+      "youtube": "ex0x-w00Uy4",
+      "mins": 4,
       "why": "To see a cell's parts and how the membrane works, in a clear animation.",
-      "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "Osmosis with potato in salt water",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
+      "title": "Osmosis in Potato Strips - Bio Lab",
+      "channel": "Science Sauce",
+      "youtube": "jTDATlaBV-o",
       "mins": 4,
       "why": "To see water leaving potato cells and the strip going soft, filmed over time.",
-      "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
-      "title": "Amoeba and paramecium swimming under a microscope",
-      "channel": "to be found",
-      "status": "find-id",
-      "youtube": "",
+      "title": "Amoeba hunts and kills paramecia and stentor... to music by Lamar; Genesis; Winter; Zimmer",
+      "channel": "mantismundi",
+      "youtube": "4XlzCe5gDu0",
       "mins": 5,
       "why": "To see real single cells eating, swimming and pumping out water.",
-      "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+      "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     }
   ],
   "quiz": [

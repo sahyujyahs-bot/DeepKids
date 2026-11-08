@@ -2401,12 +2401,12 @@
  ],
  "videos": [
   {
-   "title": "How yeast makes bread rise",
-   "channel": "to be found",
-   "status": "find-id",
+   "title": "How Does Bread Rise?",
+   "channel": "BrainStuff - HowStuffWorks",
    "mins": 4,
    "why": "To see yeast cells, bubbles and dough close up.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "GvD-8ZfxfOY"
   },
   {
    "title": "How curd is made from milk",
@@ -2417,12 +2417,12 @@
    "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
   },
   {
-   "title": "Pasteur and the swan-neck flask",
-   "channel": "to be found",
-   "status": "find-id",
-   "mins": 4,
+   "title": "How Pasteur's Swan Neck Flask Ended Spontaneous Generation",
+   "channel": "Science·WHYS",
+   "mins": 5,
    "why": "To see how Pasteur showed that microbes cause fermentation.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
+   "youtube": "g1_8Ta39d1I"
   }
  ],
  "applications": [

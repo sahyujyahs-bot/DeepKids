@@ -2830,31 +2830,28 @@
  ],
  "videos": [
   {
-   "title": "How the heart pumps blood round the body",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Circulatory System and Pathway of Blood Through the Heart",
+   "channel": "Amoeba Sisters",
+   "youtube": "_vZ0lefPg_0",
+   "mins": 7,
    "why": "To see the four rooms, the valves and the two loops moving.",
-   "check": "Not yet found. Find one, watch it, and check that it shows blood going through the heart twice and is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "How the lungs pass oxygen into the blood",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "Respiratory System of the Human Body - How the Lungs Work! (Animation)",
+   "channel": "Thomas Schwenke",
+   "youtube": "7FhzSSQxM54",
+   "mins": 6,
    "why": "To see the airways, the alveoli and the capillaries close up.",
-   "check": "Not yet found. Find one, watch it, and check that the alveoli and the thin wall are shown correctly."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "What is blood made of, and how red blood cells carry oxygen",
-   "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "What Are Red Blood Cells? 🩸 | How Do Red Blood Cells Carry Oxygen? | Dr. Binocs Show",
+   "channel": "Peekaboo Kidz",
+   "youtube": "5MPSIuxfo0E",
+   "mins": 6,
    "why": "To see red blood cells, plasma and haemoglobin in motion.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the cells squeezing through capillaries."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [

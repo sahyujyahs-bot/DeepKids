@@ -628,9 +628,9 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
    **Answer:** A mouse's heart beats 20 times as fast, she grows up in two months and has young several times a year. An elephant takes more than ten years to grow up. So a year holds much more living for a mouse than for an elephant.. *Why:* A strong answer uses at least one fact, such as heartbeats, time to grow up or the number of litters, to show that animals live at different speeds.
 
 ## Videos
-- **Olive ridley hatchlings reaching the sea** (to be found, 4 min) id `to find`: To see a nest of hatchlings come out at night and crawl to the sea, with no parent there. *Check:* Not yet found. Find one made by a turtle conservation group in India, and check that the video is accurate before adding the link.
-- **The Indian purple frog: a monsoon visitor** (to be found, 4 min) id `to find`: To meet a frog that spends most of the year underground, and to see her sucker-mouthed tadpoles in a stream. *Check:* Not yet found. Find a documentary clip about Nasikabatrachus sahyadrensis, and check it before adding it.
-- **How do we know how old a Greenland shark is?** (to be found, 5 min) id `to find`: To see how scientists date the lens of an eye, and why the age is an estimate. *Check:* Not yet found. Find a clear explainer on the 2016 radiocarbon study, and check that the video is accurate before adding the link.
+- **Olive Ridley hatchlings begin their tiny journey to the sea.. #oliveridley #reels #odisha** (Sambit Rout Journalist, 1 min) id `3NioOQrFHpo`: To see a nest of hatchlings come out at night and crawl to the sea, with no parent there. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **A Living Fossil: The Purple Frog's Brief Life on Land | Animal Behaviour | @RoundglassSustain** (Roundglass Sustain, 4 min) id `x8flrb7WPOU`: To meet a frog that spends most of the year underground, and to see her sucker-mouthed tadpoles in a stream. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Dating a Greenland Shark Through Its Eye** (Below the Surface, 5 min) id `p-EgIRY7P-E`: To see how scientists date the lens of an eye, and why the age is an estimate. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) Which of these mammals lays eggs?  

@@ -2390,31 +2390,28 @@
  ],
  "videos": [
   {
-   "title": "Alex the grey parrot counts and names objects",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
+   "title": "Alan Alda interviews Irene Pepperberg and Alex the Parrot",
+   "channel": "LemonScience33",
+   "youtube": "SbWekV6mkE0",
+   "mins": 8,
    "why": "To see Irene Pepperberg ask Alex how many objects are on a tray, and hear his answers.",
-   "check": "Not yet found. Find one, watch it, and check that it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "Bees learn to add and subtract",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
-   "mins": 4,
+   "title": "Honeybees learn how to do simple arithmetic",
+   "channel": "News Direct",
+   "youtube": "kKqZDbtc6AA",
+   "mins": 2,
    "why": "To see how bees were trained to fly to the right card in the adding and subtracting tests.",
-   "check": "Not yet found. Find one, watch it, and check that it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
-   "title": "The desert ant who counts her steps",
-   "channel": "to be found",
-   "status": "find-id",
-   "youtube": "",
+   "title": "Ants That Count! | Krulwich Wonders | NPR",
+   "channel": "NPR",
+   "youtube": "7DDF8WZFnoU",
    "mins": 4,
    "why": "To see desert ants on stilts and stumps, and how they find their way home.",
-   "check": "Not yet found. Find one, watch it, and check that it is accurate before adding it."
+   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
  "applications": [
