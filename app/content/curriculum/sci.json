@@ -1584,7 +1584,9 @@
    ],
    "subtopic_levels": [
     "sci.materials.properties.L4",
-    "sci.materials.sorting-materials.L4"
+    "sci.materials.sorting-materials.L4",
+    "sci.materials.testing-materials.L4",
+    "sci.materials.using-materials.L4"
    ],
    "chapters": []
   },
@@ -2407,7 +2409,8 @@
    ],
    "subtopic_levels": [
     "sci.how-we-know.fair-tests.L4",
-    "sci.how-we-know.science-and-right-wrong.L4"
+    "sci.how-we-know.science-and-right-wrong.L4",
+    "sci.how-we-know.asking-questions.L4"
    ],
    "chapters": []
   },
@@ -2446,7 +2449,9 @@
     "sci.light.lasers.L4",
     "sci.light.light-carries-messages.L4",
     "sci.light.what-is-light.L4",
-    "sci.light.colour.L4"
+    "sci.light.colour.L4",
+    "sci.light.refraction.L4",
+    "sci.light.transparent-opaque.L4"
    ],
    "chapters": [
     "C4-5.1",
@@ -13424,6 +13429,7 @@
     "sci.materials.properties.L3"
    ],
    "go_deep": [
+    "sci.materials.using-materials.L4",
     "sci.making-things.design-and-build.L3"
    ],
    "go_wide": [
@@ -13439,6 +13445,38 @@
    "chapter_refs": [
     "Cambridge Stage 3 5.3 Uses of materials"
    ]
+  },
+  {
+   "id": "sci.materials.using-materials.L4",
+   "subject": "sci",
+   "topic": "materials",
+   "topic_name": "Materials and their properties",
+   "strand": "Matter",
+   "topic_level": "sci.materials.L4",
+   "subtopic": "using-materials",
+   "name": "Using the right material",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Choosing materials: no material is best, so how do we choose?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.materials.using-materials.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.materials.what-is-it-made-of.L3",
+    "sci.materials.properties.L3",
+    "sci.materials.sorting-materials.L3",
+    "sci.materials.testing-materials.L3",
+    "sci.materials.magnetic-materials.L3"
+   ],
+   "maths": [],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.sorting-materials.L1",
@@ -13658,7 +13696,9 @@
     "sci.materials.testing-materials.L2",
     "sci.materials.properties.L3"
    ],
-   "go_deep": [],
+   "go_deep": [
+    "sci.materials.testing-materials.L4"
+   ],
    "go_wide": [
     "sci.materials.what-is-it-made-of.L3",
     "sci.materials.properties.L3",
@@ -13686,6 +13726,52 @@
    "chapter_refs": [
     "Cambridge Stage 3 5.4 Testing materials"
    ]
+  },
+  {
+   "id": "sci.materials.testing-materials.L4",
+   "subject": "sci",
+   "topic": "materials",
+   "topic_name": "Materials and their properties",
+   "strand": "Matter",
+   "topic_level": "sci.materials.L4",
+   "subtopic": "testing-materials",
+   "name": "Testing materials",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Testing materials: how sure can a test make us?",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.materials.testing-materials.L3"
+   ],
+   "go_deep": [],
+   "go_wide": [
+    "sci.materials.what-is-it-made-of.L3",
+    "sci.materials.properties.L3",
+    "sci.materials.using-materials.L3",
+    "sci.materials.sorting-materials.L3",
+    "sci.materials.magnetic-materials.L3",
+    "sci.how-we-know.fair-tests.L3"
+   ],
+   "maths": [
+    {
+     "id": "math.data.bar-charts.L3",
+     "chapters": [
+      "C3-Ss"
+     ]
+    },
+    {
+     "id": "math.measurement-basics.standard-units.L3",
+     "chapters": [
+      "C3-Gg"
+     ]
+    }
+   ],
+   "notebook": [],
+   "source": "boards",
+   "chapter_refs": []
   },
   {
    "id": "sci.materials.magnetic-materials.L3",
@@ -21233,6 +21319,44 @@
     "sci.light.transparent-opaque.L2",
     "sci.light.light-sources.L2"
    ],
+   "go_deep": [
+    "sci.light.transparent-opaque.L4"
+   ],
+   "go_wide": [
+    "sci.light.how-we-see.L3",
+    "sci.light.reflection.L3",
+    "sci.light.colour.L3",
+    "sci.light.what-is-light.L3",
+    "sci.light.refraction.L3",
+    "sci.light.living-light.L3",
+    "sci.materials.properties.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:160"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.light.transparent-opaque.L4",
+   "subject": "sci",
+   "topic": "light",
+   "topic_name": "Light, seeing and shadows",
+   "strand": "Physics",
+   "topic_level": "sci.light.L4",
+   "subtopic": "transparent-opaque",
+   "name": "Transparent, translucent and opaque",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "See-through and opaque: how we see clear things, and what really stops light.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.light.transparent-opaque.L3"
+   ],
    "go_deep": [],
    "go_wide": [
     "sci.light.how-we-see.L3",
@@ -21685,6 +21809,46 @@
     "sci.light.how-we-see.L3"
    ],
    "go_deep": [
+    "sci.light.refraction.L4"
+   ],
+   "go_wide": [
+    "sci.light.how-we-see.L3",
+    "sci.light.transparent-opaque.L3",
+    "sci.light.reflection.L3",
+    "sci.light.colour.L3",
+    "sci.light.what-is-light.L3",
+    "sci.light.living-light.L3",
+    "sci.light.colour.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:156",
+    "phy:165",
+    "phy:300"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.light.refraction.L4",
+   "subject": "sci",
+   "topic": "light",
+   "topic_name": "Light, seeing and shadows",
+   "strand": "Physics",
+   "topic_level": "sci.light.L4",
+   "subtopic": "refraction",
+   "name": "Bending light: lenses and magnifiers",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Refraction: the rule of the bend, and how light gets trapped.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.light.refraction.L3"
+   ],
+   "go_deep": [
     "sci.light.refraction.L5"
    ],
    "go_wide": [
@@ -21722,8 +21886,7 @@
    "chapters": [],
    "verify": [],
    "prerequisites": [
-    "sci.light.refraction.L3",
-    "sci.light.how-we-see.L4"
+    "sci.light.refraction.L4"
    ],
    "go_deep": [],
    "go_wide": [
@@ -27071,8 +27234,43 @@
     "sci.how-we-know.asking-questions.L2"
    ],
    "go_deep": [
+    "sci.how-we-know.asking-questions.L4",
     "sci.how-we-know.fair-tests.L3"
    ],
+   "go_wide": [
+    "sci.how-we-know.fair-tests.L3",
+    "sci.how-we-know.stories-of-discovery.L3",
+    "sci.how-we-know.questioning-evidence.L3"
+   ],
+   "maths": [],
+   "notebook": [
+    "phy:1",
+    "phy:4",
+    "phy:5"
+   ],
+   "source": "notes",
+   "chapter_refs": []
+  },
+  {
+   "id": "sci.how-we-know.asking-questions.L4",
+   "subject": "sci",
+   "topic": "how-we-know",
+   "topic_name": "How we know: thinking and working scientifically",
+   "strand": "Nature of science",
+   "topic_level": "sci.how-we-know.L4",
+   "subtopic": "asking-questions",
+   "name": "Asking questions and observing",
+   "level": 4,
+   "classes": [
+    4
+   ],
+   "covers": "Two ideas, one question: how to tell explanations apart.",
+   "chapters": [],
+   "verify": [],
+   "prerequisites": [
+    "sci.how-we-know.asking-questions.L3"
+   ],
+   "go_deep": [],
    "go_wide": [
     "sci.how-we-know.fair-tests.L3",
     "sci.how-we-know.stories-of-discovery.L3",
