@@ -228,7 +228,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 - **Printable tokens: 8 tokens: two sets of four, which say Bigger, Smaller, The same and None:** Bigger; Smaller; The same; None; Bigger; Smaller; The same; None
 - **Printable score sheet: Score sheet:** Player name; Right tokens; Bonus points: a reason given; Total
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens.  
+  *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens. Two sets serve three players. A fourth player writes the four words on scraps of paper.  
   *Parent says:* Each card describes a moment. You pick a token to show how the change in speed each second compares. Each player takes four tokens.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take your four tokens.
 - **s2 (3 min)**  
@@ -272,7 +272,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* 1. Tape the pen across the edge of the table. 2. Tie the thread to the front of the cart. 3. Lay the thread over the pen and tie the bag to the other end. 4. Strap two bottles onto the cart with the rubber band. 5. Mark a start line 60 centimetres from the pen. 6. Put the book where the cart will stop.  
   *Parent says:* We are building a pulling machine. The thread goes over the pen, and the bag hangs down. When we let go, the bag falls and pulls the cart.  
   *Child mode:* Tape the pen to the table edge. Tie the thread to the cart. Hang the bag. Mark the start line.
-  - Note: The thread must run level from the cart to the pen. The bag must be able to fall at least 60 centimetres before it touches the floor. Put the book where the cart stops, so it does not hit the pen. If your cart is flimsy, use one bottle in Part A and loads of zero, one and two bottles in Part B.
+  - Note: The thread rubbing on the pen takes a little of the pull, but it is the same every run. The thread must run level from the cart to the pen. The bag must be able to fall at least 60 centimetres before it touches the floor. Put the book where the cart stops, so it does not hit the pen. If your cart is flimsy, use one bottle in Part A and loads of zero, one and two bottles in Part B.
   - Check: Why must the start line be in the same place for every run? → **So the cart travels the same distance every time**
 - **s3 (4 min)**  
   *Parent does:* Put a towel on the floor. Put 100 millilitres of water in the bag and tie it shut. Hold the bag at the height of the table, away from the cart, and let it drop onto the towel. Notice how quickly it lands.  
@@ -284,7 +284,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* Part A. Put 100 millilitres in the bag, and two bottles on the cart. Hold the cart at the start line. Say 'go', let it go, and time it until it hits the book. Do this 3 times. Then repeat with 200 and with 400 millilitres.  
   *Parent says:* Hold the cart at the line. Ready? Go! Time the trip. Do each bag three times, and write down every time.  
   *Child mode:* Put two bottles on the cart. Put 100 millilitres in the bag. Let go. Time the trip. Do it three times.
-  - Note: Use the middle of the three times. Each bigger bag should give a shorter time. Four times the water should not take a quarter of the time. It usually takes about half the time, or a bit more. If the cart does not move with 100 millilitres, write 'did not move' and use 200, 300 and 400 instead.
+  - Note: Use the middle of the three times. Each bigger bag should give a shorter time. Four times the water should not take a quarter of the time. It typically takes a bit more than half the time. A phone stopwatch can be 0.2 seconds out, so a gap smaller than that means nothing: if you can, film the run and step through the video. With 2 to 4 children: one builds and releases, one times, one records, one watches the bag. Swap after each setting, and each child makes their own guess and chart. If the cart does not move with 100 millilitres, write 'did not move' and use 200, 300 and 400 instead.
   - Check: The bag with 400 millilitres of water pulled the cart across in less time than the bag with 100 millilitres. What does that tell you? → **A bigger pull changes the cart's speed by more every second**
 - **s5 (10 min)**  
   *Parent does:* Part B. Keep 100 millilitres in the bag. Put one bottle on the cart and time 3 runs. Then use three bottles and time 3 runs. You already did two bottles in Part A, so reuse those times.  
@@ -322,13 +322,13 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* Part A. With no load, time the cart 3 times at 12 centimetres. Then change the height to 6 centimetres and time 3 runs. Then change the height to 24 centimetres and time 3 runs.  
   *Parent says:* Hold the cart at the line. Ready? Go! Time it to the finish line. Do each height three times and write down every time.  
   *Child mode:* Let the cart go. Time it to the finish line. Do three heights, three times each.
-  - Note: A steeper ramp should be quicker. Doubling the height does not halve the time. The new time is usually about two thirds of the earlier time, or a little less. If the cart does not move at 6 centimetres, the wheels have a lot of friction: use 9, 18 and 36 instead.
+  - Note: A steeper ramp should be quicker. Doubling the height does not halve the time. The new time is typically about two thirds of the earlier time, or a little less. With 2 to 4 children: one releases, one times, one records, one guards the bottom of the ramp. Swap after each height, and each child draws their own chart. If the cart does not move at 6 centimetres, the wheels have a lot of friction: use 9, 18 and 36 instead.
   - Check: The cart took less time on the ramp that was 24 centimetres high than on the one 6 centimetres high. Why? → **The steeper ramp gave a bigger pull along the slope**
 - **s4 (8 min)**  
   *Parent does:* Part B. Set the ramp at 12 centimetres. Strap one bottle onto the cart and time 3 runs. Then strap on three bottles and time 3 runs. Compare with the no load runs at 12 centimetres.  
   *Parent says:* Now the ramp stays the same and the load changes. Which will arrive first, the loaded cart or the empty cart? Write down every time.  
   *Child mode:* Keep the ramp at 12 centimetres. Add one bottle, then three. Time each load three times.
-  - Note: The surprise is that the times should be almost the same. A loaded cart may be a little slower, because its axles rub more. But three bottles do not make it three times as slow. If your loaded cart is much slower, check that the bottles are not touching the wheels.
+  - Note: The surprise is that the times should be almost the same. A loaded cart may be a little slower, because its axles rub more. But three bottles do not make it three times as slow. A phone stopwatch can be 0.2 seconds out, so only a gap bigger than that counts: if you can, film the runs. If your loaded cart is much slower, check that the bottles are not touching the wheels.
   - Check: The loaded cart took almost the same time as the empty cart on the ramp. What is the best explanation? → **The heavier cart is pulled harder along the slope, and it also has more mass to move**
 - **s5 (4 min)**  
   *Parent does:* Ask your child what surprised them. Then ask the question below. Write the answer under the chart.  
@@ -339,24 +339,25 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Think: A heavy ball and a light ball fall together. How is that like the loaded cart on the ramp?
 
 ## Activities
-### a1 · Empty or Full: which is harder to get going? (10 min)
+### a1 · Empty or Full: which is harder to get going? (15 min)
 - **safety:** A grown-up lifts the heavy load. Keep toes and fingers away from the wheels.
-- **record:** Draw two pictures, one for the empty thing and one for the full thing, each with an arrow for the push. Write 'harder' or 'easier' beside the words 'to start' and 'to stop'.
-- **s1 (2 min)**  
+- **record:** Measure how far each rolls after you let go (count floor tiles or steps, or use a tape) and do it 3 times for each. Draw two pictures, one for the empty thing and one for the full thing, each with an arrow for the push. Write 'harder' or 'easier' beside the words 'to start' and 'to stop'.
+- **s1 (3 min)**  
   *Parent does:* Show the empty wheeled thing. Ask your child to guess how it will feel to push when it is empty and when it is full. Ask why.  
   *Parent says:* I will give this a gentle push. Then we will load it and push again, just the same. What do you think will be different? Why?  
   *Child mode:* Push this gently. Then load it and push again. What will be different? Why?
   - Ask: What do you think will be different about the full one? (good: It will be harder to get going.; It will be harder to stop.; It will not move as far.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
-- **s2 (3 min)**  
+- **s2 (5 min)**  
   *Parent does:* Stand behind the empty thing. Give it one gentle push while you count one, two. Then let go. Stop it with one hand.  
   *Parent says:* Push it gently while you count one, two. Then let go. Now stop it with your hand. How did the start feel? How did the stop feel?  
   *Child mode:* Push it gently. Count one, two. Let go. Stop it with your hand.
-  - Note: Count the same way each time, so the two pushes feel alike. Note how far it rolls after you let go.
-- **s3 (3 min) · grown-up needed**  
+  - Note: Count the same way each time, so the two pushes feel alike. Mark where it stops with a bit of tape and count the floor tiles (or measure) from the place you let go. Do 3 pushes and use the middle distance. The full bag should roll clearly less far. With 2 to 4 children: one pushes, one marks, one counts, then swap.
+- **s3 (5 min) · grown-up needed**  
   *Parent does:* A grown-up loads the thing with books or rice. Push it in the same way for the count of two, then let go. Stop it with your hand.  
   *Parent says:* Now it is full. Push it just as gently, for the same count. Does it move as far? Which was harder to start? Which was harder to stop?  
   *Child mode:* A grown-up loads it. Push the same way. Which is harder to start? Which is harder to stop?
+  - Note: Push as gently and as alike as you can, and measure how far it rolls, 3 times. Whatever you find, write it down. Pushes are never exactly equal, so look for a big difference, not a small one.
   - Check: The full bag was harder to start and harder to stop than the empty bag. What is the best reason? → **It has more mass, so it takes more force to change its motion**
 - **s4 (2 min)**  
   *Parent does:* Ask the question below. Let your child answer first.  
@@ -366,7 +367,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Note: This is the feeling behind Newton's second law. In the Hanging Bag Cart test, you measure it.
 ### a2 · Book and Paper: do heavy and light things fall together? (15 min)
 - **safety:** Drop things onto a cushion, away from feet. Keep faces out of the way, and make sure the bottle caps are tight.
-- **record:** Draw a picture for each drop and write 'together' or 'not together' under it. Write one sentence on why the full and empty bottles landed as they did.
+- **record:** Do the bottle drop 5 times and tally which landed first: full, empty or together. Draw a picture for each drop and write 'together' or 'not together' under it. Write one sentence on why the full and empty bottles landed as they did.
 - **s1 (3 min)**  
   *Parent does:* Show the book, the paper and the two bottles. Ask your child to guess what will happen in each drop. Ask why.  
   *Parent says:* We will drop a book with a paper on top. Then we will drop a full bottle and an empty bottle together. What do you think will happen? Why?  
@@ -380,11 +381,11 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Note: The flat paper stays on top of the book as they fall, because the book pushes the air out of the way. The paper alone flutters down slowly. The crumpled ball falls almost as fast as the book. If the paper slides off, hold the book flatter and drop it more gently.
   - Check: The same paper fell slowly on its own, but fell quickly when lying on the book. What is the best reason? → **The air pushes up on the flat paper, and the book kept the air away from it**
 - **s3 (5 min)**  
-  *Parent does:* Lay the bottles on their sides, side by side, at chest height above the cushion. Let go of both together. Listen for one thud or two. Do it three times.  
+  *Parent does:* Lay the bottles on their sides, side by side, at chest height above the cushion. Let go of both together. Listen for one thud or two. Do it five times and tally the result: full first, empty first, or together.  
   *Parent says:* Let go of both at the same moment. Listen. Is it one thud, or two? The full bottle is heavier. The Earth pulls it harder. Did it land first?  
-  *Child mode:* Drop both bottles together. Listen. One thud or two? Do it three times.
+  *Child mode:* Drop both bottles together. Listen. One thud or two? Do it five times and tally the result.
   - Ask: The Earth pulls the full bottle harder. Why did it not land first? (good: It is harder to speed up, because it has more mass.; The bigger pull and the bigger mass cancel out.; Both gain speed at the same rate.)
-  - Note: You should hear one thud, or two thuds very close together. Hold the bottles level, and let go at the same moment, because even a small head start spoils the result. If one bottle is slightly early every time, check that your hands are level.
+  - Note: You should hear one thud, or two thuds very close together. Hold the bottles level, and let go at the same moment, because even a small head start spoils the result. If one bottle is slightly early every time, check that your hands are level. A cushion makes the thud quiet, so for the bottles put a folded towel on a hard floor, or film the drop with a phone in slow motion and watch it frame by frame. With 2 to 4 children: one drops, one listens with eyes closed, one films, one tallies. Swap each round.
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say why heavy and light things fell together. Then read the note for the parent.  
   *Parent says:* Say it in your own words. Why did the full bottle and the empty bottle land together?  
@@ -392,7 +393,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Note: After your child has answered: the Earth pulls the full bottle harder, but the full bottle has more mass, so it needs a bigger force to speed up in the same way. The bigger pull and the bigger mass cancel, so both gain speed at the same rate. This is the second law at work. Without air, a feather and a hammer would fall together too.
 ### a3 · Soft Hands: why do we pull our hands back to catch? (15 min)
 - **safety:** Use a soft ball, never a cricket ball. The jump is a tiny step-down only, with a grown-up beside you, on a non-slip floor. Stop if your knees hurt.
-- **record:** Draw a pair of pictures for the catch and a pair for the jump. Under each, write 'soft' or 'sharp' for how it felt.
+- **record:** Give each catch a score from 1 (soft) to 5 (sharp) and do 3 catches of each kind. Draw a pair of pictures for the catch and a pair for the jump. Under each, write 'soft' or 'sharp' for how it felt.
 - **s1 (3 min)**  
   *Parent does:* Show the ball. Ask your child which will feel gentler: a catch with stiff hands or a catch with hands that move back. Ask why.  
   *Parent says:* A fielder pulls her hands back when she catches a fast ball. Which catch do you think feels gentler, stiff hands or hands that move back? Why?  
@@ -403,13 +404,13 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* The helper tosses the ball gently from 2 metres. Catch it 3 times with stiff hands that do not move. Then catch it 3 times, pulling your hands back as it arrives. Feel the difference.  
   *Parent says:* First, catch it with stiff hands. Feel the ball hit. Now catch it again, but pull your hands back as it arrives. Which felt softer?  
   *Child mode:* Catch the ball with stiff hands. Then catch it and pull your hands back. Which feels softer?
-  - Note: Use an underarm toss, not hard. The pulled-back catch should feel gentler, though a soft ball may not sting either way. If you feel no difference, move the ball a little faster.
+  - Note: Use an underarm toss, not hard. The pulled-back catch should feel gentler, though a soft ball may not sting either way. If you feel no difference, move the ball a little faster. Let the catcher give each catch a score from 1 (soft) to 5 (sharp), and compare the averages. With 2 to 4 children: one tosses, one catches, one writes the scores. Swap after each set.
   - Check: Why does pulling your hands back make the catch feel softer? → **The ball takes longer to stop, so the force on your hands is smaller**
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* A grown-up stands beside you. Step down off the low stair with straight legs, and feel the landing. Then step down with your knees bent, and feel the landing. Do each twice.  
   *Parent says:* Step down off the stair, once with straight legs and once with bent knees. Which landing is gentler? Why do you think so?  
   *Child mode:* Step down once with straight legs. Step down once with bent knees. Which is gentler?
-  - Note: Make it a tiny step, about 15 centimetres. Never jump from a height. The bent knee landing should feel softer in the legs and the head. Stop if your child complains of pain.
+  - Note: Make it a tiny step, about 15 centimetres. Never jump from a height. The bent knee landing should feel softer in the legs and the head. Stop if your child complains of pain. Only one child steps at a time; the others watch and say which landing looked and sounded softer.
 - **s4 (2 min)**  
   *Parent does:* Ask the question below. Let your child answer first. Then read the note for the parent.  
   *Parent says:* Your body has to stop in both cases. What did your hands and your knees do to make it gentler?  
@@ -417,7 +418,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Ask: What do the fielder's hands and your bent knees have in common? (good: They make the stop take longer.; They give a bit as the force arrives.; They spread the stop over more time.)
   - Note: After your child has answered: stopping the same motion over a longer time needs a smaller force. This is why helmets have foam, cars have crumple zones, and a trampoline is kinder than a concrete floor.
 ### a4 · The Lift Scale: do you weigh more when the lift starts? (20 min)
-- **safety:** A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open.
+- **safety:** A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open. Put the scale flat on the floor away from the door gap, and step on and off it slowly. At home, do the knee-bend near a wall or a grown-up so you cannot fall off the scale.
 - **record:** Write the number at rest, the highest number and the lowest number going up, and the same going down. Draw a small picture of the lift with an arrow for the direction.
 - **s1 (5 min)**  
   *Parent does:* Weigh your child at home on the scale. Write down the number. Ask for a guess about the number in the lift, and a reason.  
@@ -429,7 +430,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* In the lift, place the scale on the floor and stand on it. Hold the rail. A grown-up presses a button to go up. Watch the number as the lift starts, as it moves, and as it stops. Write the highest and lowest numbers.  
   *Parent says:* Stand still and hold the rail. Watch the number. What does it do as we start? What does it do while we move? What does it do as we stop?  
   *Child mode:* Stand on the scale. Hold the rail. Watch the number as the lift starts, moves and stops.
-  - Note: Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. You may only see a change of a fraction of a kilogram to about a kilogram or two, so look at the moments the lift starts and stops.
+  - Note: Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. Digital scales can be slow or blink, so a dial scale or a filmed scale works best. You may only see a change of a fraction of a kilogram to about a kilogram or two, so look at the moments the lift starts and stops.
   - Check: The scale showed more than usual just as the lift started going up. What does that tell you? → **The scale pushed up on you with more than your weight, because you were speeding up**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Ride the lift down in the same way. Watch the number as the lift starts down, as it moves and as it stops. Write the highest and lowest numbers.  
@@ -441,7 +442,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent says:* The number changed only when the lift started or stopped. When it moved at a steady speed, it read as usual. Why do you think that was?  
   *Child mode:* The number changed when the lift started or stopped. Why only then?
   - Ask: Why did the scale read as usual when the lift moved at a steady speed? (good: Nothing was changing the motion, so the forces were balanced.; The scale pushed up exactly as hard as the Earth pulled down.; The motion was not changing.)
-  - Note: After your child has answered: the number changes only while the motion is changing. At a steady speed, the scale pushes up with exactly your weight, so the forces are balanced. This is the second law again. A change in motion needs a net force.
+  - Note: No lift? Stand still on the scale at home, then bend your knees quickly: the number dips, then rises above your weight as you stop bending. Film it. With 2 to 4 children: one stands on the scale, one reads, one films, one writes; swap, but only one child rides at a time. After your child has answered: the number changes only while the motion is changing. At a steady speed, the scale pushes up with exactly your weight, so the forces are balanced. This is the second law again. A change in motion needs a net force.
 
 ## Projects
 ### p1 · Brake Zone: how far does a car go before it stops? (45 min)
@@ -457,19 +458,19 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* 1. Lift one end of the board by 8 centimetres and check with the ruler. 2. Lay the towel flat on the floor at the bottom, and tape its edge so the car does not bump. 3. Tape a line where the towel begins. 4. Mark a start line near the top of the board.  
   *Parent says:* We will build a test track. The car rolls down the board, and the towel is its brake. We measure from the tape line to where the car stops.  
   *Child mode:* Lift the board 8 centimetres. Lay the towel at the bottom. Tape a line where the towel begins.
-  - Note: The car must roll smoothly from the board onto the towel. Fold or tape the towel edge so it does not catch. The towel should be long enough for the highest run. If the car stops before reaching the towel, use a smoother cloth. If it rolls off the end, fold the towel in two.
+  - Note: The car must roll smoothly from the board onto the towel. Fold or tape the towel edge so it does not catch. The towel should be long enough for the highest run. If the car stops before reaching the towel at 4 centimetres, use 6, 12 and 24 centimetres instead. If it rolls off the end of the towel, fold the towel in two so it brakes harder; a thick doormat or a folded blanket also works.
   - Check: Why do we measure from the tape line and not from the top of the ramp? → **The brakes start working at the tape line, so that is where stopping starts**
 - **s3 (15 min)**  
   *Parent does:* Run the car from the start line at 4 centimetres, then 8 centimetres, then 16 centimetres. Let go of the car, never push it. Measure the distance it goes on the towel. Do 3 runs at each height.  
   *Parent says:* Let go of the car at the start line. Where does it stop? Measure from the tape line to the front of the car. Do each height three times.  
   *Child mode:* Let the car go. Measure how far it goes on the towel. Do three runs at each height.
-  - Note: Change the height by changing the books. Check each height with the ruler. Use the middle distance of the three runs. The distances should grow about as fast as the heights. If the car bounces or skids sideways, tape the board edges as guide rails.
+  - Note: Change the height by changing the books. Check each height with the ruler. Use the middle distance of the three runs. Expect the distances to grow roughly as fast as the heights, but not exactly: this is a rough test. With 2 to 4 children: one releases, one marks the stop with a pencil, one measures, one records. Swap after each height. If the car bounces or skids sideways, tape the board edges as guide rails.
 - **s4 (8 min)**  
   *Parent does:* Make a table and draw a bar chart of the middle distances. Ask your child to say or write a claim, evidence and reason.  
   *Parent says:* What did you find? What numbers show it? Why do you think it happened?  
   *Child mode:* Draw a bar for each height. Say what you found and why.
   - Ask: How did the stopping distance change when the speed doubled? (good: It went about four times as far.; It grew faster than the speed.; The distance was about 4 times as long when the speed was twice as big.)
-  - Note: If your results are messy, say so, and talk about why. The pattern to look for is that the distance grows about as fast as the height.
+  - Note: If your results are messy, say so, and talk about why. Doubling the speed should give about four times the distance, give or take a lot. The pattern to look for is that the distance grows about as fast as the height.
   - Check: The car from 16 centimetres reached about twice the speed of the car from 4 centimetres. About how many times as far did it go on the towel? → **About 4 times as far**
 - **s5 (8 min)**  
   *Parent does:* Ask the question below. Let your child answer first. Then read the note for the parent.  
@@ -747,7 +748,7 @@ Back and Forth (sci.motion.L4): Topic-level song
 
 ## Things to buy
 - [A pack of small plastic water bottles of 500 millilitres](https://www.amazon.in/s?k=500+ml+plastic+water+bottle+pack) (material): For the loads on the cart in the Hanging Bag Cart test and the Ramp Surprise, and for the drops in Book and Paper. Most homes already have a few. Used in e1, e2, a2. 
-- [A small strong toy truck or pull-along cart with wheels that turn freely](https://www.amazon.in/s?k=toy+truck+metal+pull+back) (material): For the Hanging Bag Cart test, the Ramp Surprise and the Brake Zone. A sturdy toy with free-turning wheels gives the cleanest results. Used in e1, e2, p1. 
+- [A small strong toy truck or pull-along cart with wheels that turn freely](https://www.amazon.in/s?k=wooden+pull+along+toy+truck) (material): For the Hanging Bag Cart test, the Ramp Surprise and the Brake Zone. A sturdy toy with free-turning wheels gives the cleanest results. Do not buy a pull-back or friction toy: its gears hold the wheels back. Most homes with a child already have a plain push toy that will do. Used in e1, e2, p1. 
 
 ## Warm-up
 - What is Newton's second law in one sentence? → A bigger force changes motion more, and a bigger mass changes it less.

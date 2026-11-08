@@ -519,7 +519,7 @@
        "b": "Gas. Tokens: Far apart, Fly about. Moving air carries the smell too."
       },
       {
-       "f": "Ghee is runny in a hot pan and firm in a cool kitchen.",
+       "f": "Ghee is runny in a hot pan and firm when it comes out of the fridge.",
        "b": "Changing. The same ghee is a solid when cool and a liquid when warm, as its particles jiggle harder. Tokens: Jiggle on the spot, Slide past each other."
       },
       {
@@ -723,7 +723,7 @@
    ],
    "materials": [
     {
-     "item": "7 clear cups or glasses, each holding at least 60 millilitres: six for the row, numbered 1 to 6 with a marker or tape, and one for plain water",
+     "item": "7 clear cups or small tumblers (plastic is fine), each holding at least 100 millilitres so you can stir without spilling: six for the row, numbered 1 to 6 with a marker or tape, and one for plain water. For 2 to 4 children, give each child their own row of cups, one colour each",
      "qty": 7
     },
     {
@@ -735,7 +735,7 @@
      "qty": 1
     },
     {
-     "item": "red food colour in a bottle with a dropper, and a second colour such as blue or green",
+     "item": "red food colour in a bottle with a dropper (if the bottle has no dropper, dip a toothpick in and let one drop fall off it), and a second colour such as blue or green",
      "qty": 2,
      "buy": "b-colour"
     },
@@ -748,7 +748,7 @@
      "qty": 1
     }
    ],
-   "safety": "Food colour stains clothes, skin and kitchen surfaces. Wear old clothes and wipe spills at once. Keep it away from the eyes. The coloured water is only for looking at. Do not drink it.",
+   "safety": "Food colour stains clothes, skin and kitchen surfaces. Wear old clothes and wipe spills at once. Keep it away from the eyes. The coloured water is only for looking at. Do not drink it. Some children react to food dyes, so a child who does should only watch, and wear gloves or wash hands afterwards.",
    "record": "Fill in the table for the red row. Then draw the row of cups and colour each cup as dark as you saw it. Do the same for the blue row.",
    "example_chart": {
     "type": "table",
@@ -777,12 +777,12 @@
      [
       "4",
       "one thousandth",
-      "Faint"
+      "Very faint"
      ],
      [
       "5",
       "one ten-thousandth",
-      "Very faint"
+      "No"
      ],
      [
       "6",
@@ -874,7 +874,7 @@
      "do": "1. Look at the row from above, against the white paper. 2. For each cup, write yes, faint or no in the table. 3. Put a cup of plain water next to cup 6 and compare. 4. Look from the side too.",
      "say": "Look at the row from above, then from the side. Which cups still have colour? Put plain water next to the last cup. Can you tell them apart?",
      "kid": "Look at every cup. Write yes, faint or no. Compare the last cup with plain water.",
-     "parent": "Many children can see colour up to cup 4 or 5 on white paper. If cup 1 was weak and the colour has gone by cup 3, begin again with 3 drops. If cup 6 is still quite bright, add cups 7 and 8.",
+     "parent": "Typically the colour fades out somewhere between cup 3 and cup 5 on white paper, depending on how strong your food colour is, so there is no right number. If the colour has gone by cup 2 or 3, begin again with 3 drops in cup 1 and note it in the table. If cup 6 is still quite bright, add cups 7 and 8. With 2 to 4 children, each runs one row (one colour each) and then you compare the rows; it is a good way to find which colour goes furthest. One child can be the spoon-carrier and one the stirrer, and swap roles for the second row. Hold the cups up to a window or white paper to judge.",
      "check": {
       "t": "mcq",
       "q": "Cup 6 looks clear. Is there still colour in it?",
@@ -884,7 +884,7 @@
        "Yes, but it has all sunk to the bottom"
       ],
       "a": 1,
-      "why": "Each spoonful carried a tenth of the colour forward, so cup 6 holds a hundred thousandth of the first cup's colour. The colour particles are still there, but too few in each spoonful to see. Picking 'gone' means trusting your eyes over the numbers. Picking 'sunk to the bottom' forgets that you stirred."
+      "why": "Each spoonful carried a tenth of the colour forward, so cup 6 holds a hundred thousandth of the first cup's colour. The colour particles are still there (if nothing shows, it is because the eye cannot see so few), but too few in each spoonful to see. Picking 'gone' means trusting your eyes over the numbers. Picking 'sunk to the bottom' forgets that you stirred."
      }
     },
     {
@@ -901,7 +901,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: one drop holds so many colour particles that they spread into many cups. What I saw: the pink faded cup by cup, and the last cup looked clear but a bit different from plain water. Why: each spoonful carries a tenth of the colour, so there is less and less, but never exactly none.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: one drop holds so many colour particles that they spread into many cups. What I saw: the pink faded cup by cup, and the last cup looked clear, perhaps a tiny bit different from plain water. Why: each spoonful carries a tenth of the colour, so there is less and less, but never exactly none.",
      "think": "If the colour in cup 6 is still there, how could you prove it without looking?"
     }
    ]
@@ -923,7 +923,7 @@
    ],
    "materials": [
     {
-     "item": "a plastic syringe with no needle, holding at least 10 millilitres, with a smooth plunger (the kind used for baby medicine)",
+     "item": "a plastic syringe with no needle, holding 10 or 20 millilitres, with a smooth plunger (a chemist sells these for a few rupees; a medicine-dosing syringe from a baby syrup also works)",
      "qty": 1,
      "buy": "b-syringe"
     },
@@ -932,7 +932,7 @@
      "qty": 1
     },
     {
-     "item": "a small blob of modelling clay or a clean finger to seal the end of the syringe",
+     "item": "a clean finger, or a small blob of modelling clay or a rubber eraser to press the tip into, to seal the end of the syringe",
      "qty": 1
     },
     {
@@ -948,7 +948,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use only a syringe with no needle. Never point a syringe at a face or an eye. Keep the small parts away from children under five. Hold the plunger firmly, because it can spring back.",
+   "safety": "Use only a syringe with no needle. Never point a syringe at a face or an eye. Keep the small parts away from children under five. Hold the plunger firmly, because it can spring back. Work over a tray or in the kitchen sink, because the seal may leak and squirt water. Do not use a syringe that has been used for medicine unless it is washed well.",
    "record": "Fill in the table with the numbers. Then draw a picture of the air in the syringe before and after you push, showing the particles as dots.",
    "example_chart": {
     "type": "table",
@@ -1042,7 +1042,7 @@
        ]
       }
      ],
-     "parent": "Air usually squashes to between 3 and 6 millilitres, depending on how hard you push. The plunger springs back when you let go. Use the middle number of your three tries."
+     "parent": "Air usually squashes to between 3 and 6 millilitres, depending on how hard you push and how well your finger seals; a weak seal gives a smaller squash, so compare your three tries and use the middle number. The plunger springs back when you let go. With 2 to 4 children there is one syringe, so give roles: one pushes, one seals the tip, one reads the mark, one writes. Swap roles after each of the three tries so everyone pushes once, and note that a stronger child will squash it more, which is why the same person should push for all three tests in the table."
     },
     {
      "id": "s4",
@@ -1050,7 +1050,7 @@
      "do": "1. Fill a cup with water. 2. Dip the syringe tip in and pull the plunger back to 10 millilitres to draw in water. 3. Hold the tip up, tap out the bubbles, and push the plunger up until there is no air. 4. Seal the end. 5. Push as hard as you can.",
      "say": "Draw up ten millilitres of water. Tap out the bubbles. Seal the end with your finger, and push as hard as you can. What do you see? Do it three times.",
      "kid": "Fill with water. Tap out the bubbles. Seal. Push as hard as you can.",
-     "parent": "The plunger may move a tiny amount or not at all. Write 0 or about 0. Tap out every bubble first, or you will be measuring the bubble.",
+     "parent": "The plunger may move a tiny amount or not at all, and a finger seal may leak a drop. Write 0 or about 0. If water squirts out the sides, press the tip into a rubber eraser or clay instead of a finger. Tap out every bubble first, or you will be measuring the bubble.",
      "check": {
       "t": "mcq",
       "q": "The plunger hardly moved when the syringe was full of water. Why?",
@@ -1155,7 +1155,7 @@
        ]
       }
      ],
-     "parent": "The grains wobble a little but stay in their places. This is a model of a solid.",
+     "parent": "The grains wobble a little but stay in their places. This is a model of a solid. Before shaking, ask your child to predict which of the three will make the most noise. With 2 to 4 children, each child shakes their own plate or box, or one shakes while another draws. Keep the rice on a tray, because grains on a smooth floor are slippery. Do not eat the rice afterwards.",
      "context": "This is the first step of the rice tray model. You make a crowd that acts like a solid."
     },
     {
@@ -1223,7 +1223,7 @@
    "context": "In this activity you fill a jar with big grains, and then find out that it still has room for small seeds and water. It is a model of the empty space between particles.",
    "materials": [
     {
-     "item": "a clear measuring jug with millilitre marks, holding at least 500 millilitres",
+     "item": "a clear measuring jug with millilitre marks, holding at least 500 millilitres (or a clear tumbler with a pen mark, and a steel spoon of known size, where 1 teaspoon is about 5 millilitres)",
      "qty": 1
     },
     {
@@ -1289,10 +1289,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Measure out 200 millilitres of mustard seeds. 2. Pour them slowly onto the chana. 3. Tap the jug gently. 4. Stop when no more go in. 5. Measure the seeds that are left over.",
+     "do": "1. Measure out 200 millilitres of mustard seeds. 2. Pour them slowly onto the chana. 3. Tap the jug gently. 4. Stop when no more go in without lifting the level above the 300 millilitre line. 5. Measure the seeds that are left over.",
      "say": "Pour the mustard seeds in slowly. Tap the jug so they slide into the gaps. Stop when no more will go in. How many millilitres went in?",
      "kid": "Pour in the seeds slowly. Tap the jug. Stop when no more go in.",
-     "parent": "Typically 60 to 100 millilitres of seeds go in. Work out the amount that went in by subtracting what is left over from 200."
+     "parent": "Typically 60 to 100 millilitres of seeds go in, though it depends on the grains (split chana dal packs closer than whole chana). If the numbers differ from yours, that is fine, and what matters is that some went in. With 2 to 4 children, one pours, one taps, one reads the jug and one writes; each guesses first. Work out the amount that went in by subtracting what is left over from 200."
     },
     {
      "id": "s3",
@@ -1392,7 +1392,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. A label that lists more than one thing is a sign of a mixture.",
+     "parent": "Do not correct the guess. A label that lists more than one thing is a sign of a mixture. Do not taste anything to test it. With 2 to 4 children, each picks five things, guesses and reads the labels, and then swaps to check one another.",
      "context": "This is the first step of the sorting activity. You guess before you check."
     },
     {
@@ -1459,7 +1459,7 @@
      "what": "Draw six things as particles. Swap drawings and check them against the rules. Fix one drawing."
     }
    ],
-   "record": "Six particle drawings: a steel spoon, water in a glass, steam, air in a football, ghee in a cool kitchen and ghee in a hot pan. Each one has the name under it.",
+   "record": "Six particle drawings: a steel spoon, water in a glass, steam, air in a football, set ghee from the fridge and ghee melted in a hot pan. Each one has the name under it.",
    "setup": [
     {
      "art": "A sheet of paper with six boxes, each with a circle drawn inside and the name of a thing under it.",
@@ -1497,10 +1497,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw six boxes on paper. Draw the particles in each box. The six are a steel spoon, water, steam, football air, cool ghee and hot ghee.",
+     "do": "Draw six boxes on paper. Draw the particles in each box. The six are a steel spoon, water, steam, football air, set ghee from the fridge and hot melted ghee.",
      "say": "Draw the particles in each box. Use the rules. Think about how close they are and how they move. Add small arrows.",
      "kid": "Draw the particles in each box. Use the rules. Add arrows.",
-     "parent": "Let your child draw first, and do not correct while they draw. For ghee, the picture changes from rows to jumble. Ask which rule they are using for each.",
+     "parent": "Let your child draw first, and do not correct while they draw. For ghee, the picture changes from rows to jumble. Ask which rule they are using for each. In hot weather ghee on the shelf is already soft or runny, so use ghee that has been in the fridge. Each child can draw alone and then swap with one other, so it works with 2 to 4 children or just you and one parent.",
      "check": {
       "t": "mcq",
       "q": "In your drawing, how are the steam particles different from the water particles?",
@@ -1611,7 +1611,7 @@
      "do": "1. Fold the paper into a book. 2. Plan the eight pages: cover, solid, liquid, gas, changing, squashing, smell, and what is in the gaps. 3. Draw the cover and the first three pages.",
      "say": "Plan your book first. Eight pages. Which three crowds will you draw first? What example from home will you use for each?",
      "kid": "Plan eight pages. Draw the cover and the solid, liquid and gas pages.",
-     "parent": "Encourage real examples from the tests: the rice tray, the syringe and the cups of colour.",
+     "parent": "Encourage real examples from the tests: the rice tray, the syringe and the cups of colour. With 2 to 4 children, each draws two or three pages of the same book and they read it together. If there is no younger child nearby, read it to a parent or grandparent, and ask them to pretend to be five years old.",
      "context": "This is the first step of the picture book project. You plan and start the pages."
     },
     {
@@ -1664,13 +1664,13 @@
     "You may not use a syringe or a pump.",
     "Your test must work again if your friend asks you to repeat it."
    ],
-   "safety": "Hit the end of the ruler with a flat hand, not hard, and keep your face away from it. Keep plastic bags and balloons away from the faces of small children.",
+   "safety": "Hit the end of the ruler with a flat hand, not hard, and keep your face away from it. A wooden ruler can snap, so use a plastic one or a thin flat stick. Keep plastic bags and balloons away from the faces of small children, and put burst balloon pieces in the bin, because they are a choking risk. Wipe up spilt water at once.",
    "materials": [
     "a bowl or a bucket of water",
-    "a clear glass or tumbler",
+    "a clear plastic glass or tumbler (plastic will not break)",
     "a plastic carry bag",
-    "two balloons, and a piece of string",
-    "a ruler, a flat sheet of newspaper and a light stick to hang the balloons from"
+    "a balloon (a packet is a few rupees at a stationery shop)",
+    "a ruler, a large flat sheet of newspaper, and a few tissues or a crumpled piece of paper"
    ],
    "general": [
     "Push an upside-down glass straight down into a bucket of water. The air inside stops the water from coming in, and you see the water level stay low inside the glass.",
@@ -1679,7 +1679,7 @@
    ],
    "creative": [
     "Put a ruler on a table with about a third of it hanging over the edge. Cover the rest with a sheet of newspaper and smooth it flat. Hit the hanging end of the ruler and watch the air press the paper down.",
-    "Hang two balloons, one blown up and one empty, from the ends of a light stick on a string. Balance the stick, and see which side dips. The blown-up side may dip a little, because the air inside has weight. The difference is tiny, so use a very light stick and be patient.",
+    "Push a crumpled tissue to the bottom of a dry glass, turn it upside down and push it straight down into the water. Lift it out and feel the tissue. It stays dry, because the air in the glass held the water out. With 2 to 4 children, each tries it with a different thing at the bottom and compares.",
     "Tilt the upside-down glass slowly under the water, and watch the air escape as bubbles that you can count."
    ],
    "your_turn": "Now invent your own test. Draw it, try it, and show your friend. Which of your tests would be the most convincing for a person who does not believe in air? Why?",
@@ -3041,7 +3041,7 @@
   ],
   "art": "A child pressing a syringe full of air, with a zoomed-in circle showing a few particles far apart with room between them."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, but has not yet been run by a family. How Far Does One Drop Go uses six clear cups, a teaspoon and food colour. Each cup holds ten teaspoons in all, and each spoonful passed on is a tenth of the cup before, so the colour is one tenth, one hundredth and so on. Most red and blue colours stay visible to cup four or five. If your colour fades by cup three, use three drops in cup 1, and if cup 6 is still bright, add more cups. The Squeeze Test needs a plastic syringe with no needle, from a chemist. Air usually squashes to between 3 and 6 millilitres, and the plunger springs back. Water hardly moves, as long as every bubble is tapped out. A leaking seal is the most common problem, so the step shows how to test it. Full Jar uses food that should not be eaten afterwards. Rice Tray Crowds is a model, and the step says where it is wrong. Which Crowd is a card game with 24 cards that were written out in full. Facts to check: the claim that Waterston worked in Bombay, the number of particles in a drop of water (about 1.7 thousand million million million), and the speed of air particles.",
+ "playtest": "Every experiment, activity, game, challenge and project was checked against what is known to happen at home, but has not yet been run by a family. How Far Does One Drop Go uses six clear cups, a teaspoon and food colour. Each cup holds ten teaspoons in all, and each spoonful passed on is a tenth of the cup before, so the colour is one tenth, one hundredth and so on. Red and blue colours usually fade out between cup three and cup five. If your colour fades by cup two or three, use three drops in cup 1, and if cup 6 is still bright, add more cups. The Squeeze Test needs a plastic syringe with no needle, from a chemist. Air usually squashes to between 3 and 6 millilitres, and the plunger springs back. Water hardly moves, as long as every bubble is tapped out. A leaking seal is the most common problem, so the step shows how to test it. Full Jar uses food that should not be eaten afterwards. Rice Tray Crowds is a model, and the step says where it is wrong. Which Crowd is a card game with 24 cards that were written out in full. Facts to check: the claim that Waterston worked in Bombay, the number of particles in a drop of water (about 1.7 thousand million million million), and the speed of air particles.",
  "how_we_found_out": {
   "context": "This card tells the story of how people found out that a gas is made of particles flying about, and why it took so long.",
   "story": "For a long time, many scientists pictured a gas as particles sitting still, each pushing its neighbours away, like people in a crowd holding out their arms. This picture gave the right rule for squashing a gas, so most people accepted it. In 1738, a Swiss scientist named Daniel Bernoulli wrote that a gas is particles flying about and hitting the walls, and that this makes the pressure. Heat, he said, makes them fly faster. Almost nobody paid attention. In 1845, a Scottish scientist named John James Waterston, who was working in Bombay at the time, sent a paper on the same idea to the Royal Society in London. It was reportedly judged to be nonsense, and the paper lay unread in the archives. In the 1850s and 1860s, Rudolf Clausius and James Clerk Maxwell worked out the maths in full, and it matched measurements. Lord Rayleigh found Waterston's paper in the archives in 1891, and it was published in 1892.",

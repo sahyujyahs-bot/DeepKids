@@ -623,7 +623,7 @@
     },
     {
      "kind": "tokens",
-     "title": "8 tokens: two sets of four, which say Flies off straight, Keeps going round, Bigger pull needed and Smaller pull needed",
+     "title": "8 tokens: two sets of four, which say Flies off straight, Keeps going round, Bigger pull needed and Smaller pull needed (with 3 or 4 players, copy the page or just hold up 1, 2, 3 or 4 fingers for the four choices)",
      "items": [
       "Flies off straight",
       "Keeps going round",
@@ -673,7 +673,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens.",
+     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each guessing player one set of four tokens (with more than two guessers, copy the token page, or use fingers: 1 = flies off straight, 2 = keeps going round, 3 = bigger pull, 4 = smaller pull).",
      "say": "Each card describes a moment. You pick a token to show what happens next. Each player takes four tokens.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take your four tokens.",
      "context": "This is the first step of Where Does It Go Next. You set up the cards and the tokens."
@@ -776,11 +776,11 @@
    ],
    "materials": [
     {
-     "item": "a plastic ball-pen barrel about 12 centimetres long, with the ink refill taken out by a grown-up and the ends smooth",
+     "item": "a plastic ball-pen barrel about 12 centimetres long (an old pen that has run dry is fine), with the ink refill pulled out by a grown-up and the ends smooth; the string must slide through it easily",
      "qty": 1
     },
     {
-     "item": "a strong thin string or thread about 1.5 metres long",
+     "item": "a strong thin string or cotton thread about 1.5 metres long (not nylon fishing line, which cuts fingers)",
      "qty": 1
     },
     {
@@ -788,11 +788,11 @@
      "qty": 1
     },
     {
-     "item": "a small pouch tied to the other end of the string, and 16 one-rupee coins to put in it",
+     "item": "a small pouch (a plastic sachet or a knotted cloth) tied to the other end of the string, and 16 one-rupee coins to put in it (18 coins in all with the 2 in the bag; 10-rupee coins or small nuts and washers also work if you weigh them against the coins)",
      "qty": 16
     },
     {
-     "item": "a piece of coloured tape and a ruler or measuring tape",
+     "item": "a piece of coloured tape (or a pen mark) and a ruler or measuring tape",
      "qty": 1
     },
     {
@@ -811,7 +811,7 @@
      "what": "Guess. Build the whirler. Practise. Count the turns for 4, 8 and 16 coins. Say what you found."
     }
    ],
-   "safety": "Use only the soft bag, never a hard object. Whirl it in front of you at arm's length, away from faces and from other people. A grown-up stays close. Keep coins away from children under five.",
+   "safety": "Use only the soft bag, never a hard object. Whirl it in front of you at arm's length, away from faces and from other people. A grown-up stays close. Keep coins away from children under five. Use string, never fishing line. Keep your face behind the arm that is whirling, and wear shoes.",
    "record": "Fill in the table, one row for each number of coins. Then draw a bar chart of the middle results. Under the chart, write how the turns changed when the coins became four times as many.",
    "setup": [
     {
@@ -837,7 +837,7 @@
    ],
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results (turns in 10 seconds)",
+    "title": "Made-up example results (turns in 10 seconds; real ones will differ)",
     "cols": [
      "Coins hanging",
      "Try 1",
@@ -927,7 +927,7 @@
      "say": "Start whirling. When the tape is steady, say go. Count every time the bag passes in front of you for 10 seconds. Write down the number.",
      "kid": "Whirl the bag steadily. The helper counts the turns in 10 seconds. Do it three times for each pouch.",
      "adult": true,
-     "parent": "Use the middle of the three results. With more coins, the bag should go round faster and faster. With 16 coins the bag goes round nearly twice every second, so the helper can count in twos or film it. Expect roughly 9, 13 and 18 turns for 4, 8 and 16 coins. Four times the coins should need about twice the turns, not four times. If counting is hard, film the bag with a phone and count the turns when you play it back.",
+     "parent": "Use the middle of the three results. With more coins, the bag should go round faster and faster. With 16 coins the bag goes round nearly twice every second, so the helper can count in twos or film it. Expect roughly 9, 12 and 17 turns for 4, 8 and 16 coins (typical, not promised: your coins, string and counting will change them). Four times the coins should need about twice the turns, not four times. If counting is hard, film the bag with a phone and count the turns when you play it back. With 2 to 4 children: one whirls, one times and counts aloud, one loads the coins and writes the table, and the fourth films or double-counts. Swap roles after each coin setting so everyone whirls once. If the bag will not stay steady at all, the usual causes are a bag heavier than the pouch, a string that rubs the pen, or an arm that moves up and down; fix those first.",
      "check": {
       "t": "mcq",
       "q": "With 16 coins, the bag went round faster than with 4 coins. Why did it need to?",
@@ -971,7 +971,7 @@
    "context": "In this experiment, coins sit on a plate that you turn faster and faster. You find out which coin slides off first, and whether a heavy coin slides off before a light one.",
    "question": "Coins sit at different distances from the middle of a plate that turns faster and faster. Which coin slides off first? Does a heavy stack of coins slide off before a single coin?",
    "predict": "Before you start, guess. Which coin will slide off first, the one near the middle or the one near the edge? Will a heavy stack of coins slide off before a single coin? Why do you think so?",
-   "fair_test": "Use the same plate and the same type of coin every time. In Part A, put three coins on rings marked at 5, 10 and 15 centimetres from the middle, on different sides of the plate. Turn the plate faster in steps: one turn in 4 seconds, in 3 seconds, in 2 seconds, and then as fast as you safely can. In Part B, put a single coin and a stack of 3 coins taped together on the same ring, on opposite sides. Do 3 tries of each part, because one try can be a fluke.",
+   "fair_test": "Use the same plate and the same type of coin every time. In Part A, put three coins on rings marked at 4, 8 and 12 centimetres from the middle, on different sides of the plate. Turn the plate faster in steps: one turn in 4 seconds, in 3 seconds, in 2 seconds, and then as fast as you safely can. In Part B, put a single coin and a stack of 3 coins taped together on the same ring, on opposite sides. Do 3 tries of each part, because one try can be a fluke.",
    "results_table": [
     "Try",
     "First coin to slide off",
@@ -982,10 +982,11 @@
    "materials": [
     {
      "item": "a turntable you can turn by hand, such as a swivel stool or chair seat, a lazy Susan, a revolving cake stand, or an upside-down cycle with a cardboard disc fixed on its wheel",
-     "qty": 1
+     "qty": 1,
+     "buy": "b-turntable"
     },
     {
-     "item": "a smooth flat steel plate (thali) or plastic tray about 25 centimetres across, to put on the turntable",
+     "item": "a smooth flat steel plate (a large thali) or plastic tray about 30 centimetres across, with a flat bottom and no raised rim, to put on the turntable",
      "qty": 1
     },
     {
@@ -993,7 +994,7 @@
      "qty": 6
     },
     {
-     "item": "a marker or chalk, and a ruler, to draw rings 5, 10 and 15 centimetres from the middle",
+     "item": "a marker or chalk, and a ruler, to draw rings 4, 8 and 12 centimetres from the middle",
      "qty": 1
     },
     {
@@ -1041,23 +1042,23 @@
     "rows": [
      [
       "1",
-      "15 cm",
-      "10 cm",
+      "12 cm",
+      "8 cm",
       "stayed on",
       "one turn in 2 seconds"
      ],
      [
       "2",
-      "15 cm",
-      "10 cm",
+      "12 cm",
+      "8 cm",
       "stayed on",
       "one turn in 2 seconds"
      ],
      [
       "3",
-      "15 cm",
-      "10 cm",
-      "5 cm",
+      "12 cm",
+      "8 cm",
+      "4 cm",
       "one turn in 1.5 seconds"
      ]
     ]
@@ -1085,10 +1086,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Draw three rings on the plate, at 5, 10 and 15 centimetres from the middle. 2. Put the plate on the turntable, with its middle over the middle of the turntable. 3. Put one coin on each ring, on different sides of the plate. 4. Tape three coins into a stack.",
+     "do": "1. Draw three rings on the plate, at 4, 8 and 12 centimetres from the middle. 2. Put the plate on the turntable, with its middle over the middle of the turntable. 3. Put one coin on each ring, on different sides of the plate. 4. Tape three coins into a stack, with the tape round the edge only, so no tape touches the plate.",
      "say": "We will draw three rings on the plate. The coins will sit on different rings and on different sides, so they do not bump each other.",
      "kid": "Draw three rings on the plate. Put one coin on each ring, on different sides.",
-     "parent": "The plate must be flat and centred on the turntable. The smoother the plate, the easier it is for a coin to slide. If your plate is rough, put a sheet of smooth plastic on it. Wipe the coins and the plate clean first.",
+     "parent": "The plate must be flat and centred on the turntable. The smoother the plate, the easier it is for a coin to slide. If your plate is rough, put a sheet of smooth plastic on it. Wipe the coins and the plate clean first, and draw the rings with a marker pen, not chalk (chalk dust changes the grip).",
      "check": {
       "t": "mcq",
       "q": "Why do we put the coins on different sides of the plate, and not in a line?",
@@ -1108,7 +1109,7 @@
      "do": "Part A. The helper turns the plate by hand. First one turn in 4 seconds, counting 'one-and, two-and, three-and, four-and'. Then one turn in 3 seconds, then in 2 seconds, then as fast as is safe. After each speed, stop and look at which coins are left. Do 3 tries.",
      "say": "Turn the plate slowly, one turn for each count of four. Keep it steady for three turns. Then go a little faster. Stop each time and look. Which coin has gone?",
      "kid": "Turn the plate slowly. Keep it steady. Then go faster. Stop and look. Which coin has gone?",
-     "parent": "On a smooth steel plate, the coin at 15 centimetres usually slides when a turn takes about 1.5 to 2 seconds. The coin at 10 centimetres goes at a quicker turn, and the coin at 5 centimetres may only go at about one turn a second, which may be as fast as a hand can turn it. If nothing slides, use a smoother plate. If all of the coins slide at the slowest speed, use a rougher plate. Write down the order each time.",
+     "parent": "On a smooth steel plate, the coin at 12 centimetres usually slides when a turn takes about 1.5 seconds, give or take. The coin at 8 centimetres goes at a quicker turn, and the coin at 4 centimetres may only go at about one turn a second, which may be as fast as a hand can turn it. If nothing slides, use a smoother plate. If all of the coins slide at the slowest speed, use a rougher plate. Write down the order each time. With 2 to 4 children: one turns the plate, one counts the seconds of a turn aloud, one watches and calls out which coin goes first, and one writes the table. Swap roles after each try. Typical numbers only: every plate and coin differs, so trust the order in which the coins go, not the exact seconds.",
      "check": {
       "t": "mcq",
       "q": "The coin at the edge of the plate slid off before the coin near the middle. What is the best reason?",
@@ -1125,10 +1126,10 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Part B. Take the coins off. Put a single coin and the stack of 3 coins on opposite sides of the 10 centimetre ring. Turn the plate faster and faster as before. Watch which one slides first. Do 3 tries.",
+     "do": "Part B. Take the coins off. Put a single coin and the stack of 3 coins on opposite sides of the 8 centimetre ring. Turn the plate faster and faster as before. Watch which one slides first. Do 3 tries.",
      "say": "Now a single coin and a heavy stack sit on the same ring. Which will slide off first? Turn the plate faster, and watch.",
      "kid": "A single coin and a stack on the same ring. Turn faster. Which slides first?",
-     "parent": "The stack and the single coin should slide off at about the same time. If the stack slides a little before or after, the tape or the plate may be uneven, so repeat the try. The stack is three times as heavy, so it needs three times the pull. It also presses three times as hard on the plate, so the friction is three times as big.",
+     "parent": "The stack and the single coin should slide off at about the same time. If the stack slides a little before or after, the tape or the plate may be uneven, so repeat the try. The stack is three times as heavy, so it needs three times the pull. It also presses three times as hard on the plate, so the friction is three times as big. If the stack topples instead of sliding, tape it tighter, or use 2 coins instead of 3 (then it is twice as heavy).",
      "check": {
       "t": "mcq",
       "q": "The single coin and the stack of three coins slid off at about the same time. What is the best explanation?",
@@ -1169,7 +1170,7 @@
   {
    "id": "a1",
    "title": "Feel the Pull: three little tests with one sock",
-   "mins": 10,
+   "mins": 15,
    "days": 1,
    "context": "In this short activity, you whirl a soft sock on a string and feel the pull on your fingers. You find out what makes the pull bigger.",
    "materials": [
@@ -1182,8 +1183,8 @@
      "qty": 1
     },
     {
-     "item": "5 one-rupee coins, to put inside the sock for the heavier test",
-     "qty": 5
+     "item": "10 one-rupee coins (or a handful of dry rice or dal, about 50 grams) to knot inside a second sock for the heavier test",
+     "qty": 10
     },
     {
      "item": "a clear space about 3 metres across, away from people and breakable things",
@@ -1193,12 +1194,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
+     "mins": 15,
      "what": "Guess. Whirl the sock slowly and then faster. Whirl a heavier sock. Say what changed in your fingers."
     }
    ],
-   "safety": "Whirl only a soft sock, in a flat circle at about waist height, away from faces and from other people. A grown-up stays close. Keep coins away from children under five.",
-   "record": "Draw the sock going round, with an arrow along the string showing the pull. Draw a long arrow for the strong pull and a short arrow for the weak pull.",
+   "safety": "Whirl only a soft sock, in a flat circle at about waist height, away from faces and from other people. A grown-up stays close. Knot the heavy sock very tightly so nothing can fly out, and loop the string round your wrist or hold the very end firmly. Keep coins and rice away from children under five.",
+   "record": "Draw the sock going round, with an arrow along the string showing the pull. Draw a long arrow for the strong pull and a short arrow for the weak pull. Also write the score from 1 to 5 for the pull each time, and the turns in 5 seconds.",
    "setup": [
     {
      "art": "A girl holding the end of a string between her finger and thumb and whirling a rolled sock slowly in a flat circle at waist height.",
@@ -1235,12 +1236,12 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 5,
      "do": "Hold the end of the string between finger and thumb. Whirl the sock slowly in a flat circle at waist height. Feel the pull. Then whirl it twice as fast. Feel the pull again.",
      "say": "Whirl the sock slowly. Feel the string pulling your fingers. Now go faster. Is the pull bigger or smaller? How much bigger?",
      "kid": "Whirl the sock slowly. Feel the pull. Now whirl it faster. Feel the pull again.",
      "adult": true,
-     "parent": "Keep the circle flat and at waist height. Stand well away from other people. A grown-up should be close. The pull at twice the speed should feel much more than twice as strong.",
+     "parent": "Keep the circle flat and at waist height. Stand well away from other people. A grown-up should be close. The pull at twice the speed should feel much more than twice as strong. To measure: count the turns in 5 seconds out loud (one child whirls, one counts), then whirl twice as fast. Give the pull a score from 1 to 5 each time and write the scores down. With 2 to 4 children, take turns whirling, and the others write the scores. The slow whirl is about 5 turns in 5 seconds and the fast one about 10.",
      "check": {
       "t": "mcq",
       "q": "You whirled the sock twice as fast and the pull on your fingers got much stronger. What is the best explanation?",
@@ -1256,12 +1257,12 @@
     },
     {
      "id": "s3",
-     "mins": 3,
+     "mins": 5,
      "do": "Put 5 coins inside the sock and tie it shut. Whirl it at the same speed as the slow whirl. Feel the pull. Is it bigger or smaller than for the plain sock?",
      "say": "Now the sock is heavier. Whirl it at the same slow speed as before. Is the pull bigger or smaller?",
      "kid": "Put coins in the sock. Whirl it at the same speed. Is the pull bigger or smaller?",
      "adult": true,
-     "parent": "Tie the sock tightly, so no coin can fly out. The pull from the heavier sock at the same speed should feel clearly bigger, because a bigger mass needs a bigger pull to be turned.",
+     "parent": "Tie the sock tightly, so no coin can fly out. The pull from the heavier sock at the same speed should feel clearly bigger, because a bigger mass needs a bigger pull to be turned. Use a sock with about 50 grams in it (10 coins or a handful of rice), so the difference is easy to feel; the plain rolled sock weighs only about 20 to 30 grams. Whirl both at the same count of turns in 5 seconds.",
      "context": "In this step, you whirl a heavier sock at the same speed, and feel the pull."
     },
     {
@@ -1293,11 +1294,11 @@
    "context": "In this activity, you swirl a marble round inside a kadai and watch it climb up the wall. You find out what makes it climb, and why it spirals down when it slows.",
    "materials": [
     {
-     "item": "a steel kadai or a wide deep bowl",
+     "item": "a steel kadai or a wide deep bowl with smoothly curved sides",
      "qty": 1
     },
     {
-     "item": "a marble (goli) or a small steel ball",
+     "item": "a marble (goli), a small steel ball, or a tight ball of aluminium foil (a plastic or foil ball will not scratch a non-stick pan)",
      "qty": 1,
      "buy": "b-marbles"
     },
@@ -1375,7 +1376,7 @@
      "do": "Stop swirling the kadai and hold it still. Watch the marble slow down. Notice how it spirals down towards the bottom, going round more slowly and with a smaller circle each time.",
      "say": "Hold the kadai still. Watch the marble. What does its path do as it slows down? Where does it end up?",
      "kid": "Hold the kadai still. Watch the marble slow down. What does its path do?",
-     "parent": "Friction slowly takes away the marble's speed. As it slows, the wall can no longer hold it at that height, so it sinks lower. At the bottom it stops, because there is no wall to push it sideways.",
+     "parent": "Friction slowly takes away the marble's speed. As it slows, the wall can no longer hold it at that height, so it sinks lower. At the bottom it stops, because there is no wall to push it sideways. To measure: count how many times the marble goes round after you stop swirling, for a gentle start and for a hard start, and mark on the wall with a finger how high it climbed. With 2 to 4 children, one swirls, one counts laps aloud, one watches from the side at rim height, one writes down. If the marble keeps jumping out, use a deeper bowl and a smaller, heavier marble. If it just rattles about and will not circle, swirl in smaller, steadier circles and keep the bowl level.",
      "context": "In this step, you let the marble slow down and watch its path."
     },
     {
@@ -1407,7 +1408,7 @@
    "context": "In this activity, you swing a bucket with a little water in a circle that goes right over your head. You find the slowest swing that keeps the water in. Do this one only if you have a balcony or open ground nearby.",
    "materials": [
     {
-     "item": "a light plastic bucket with a strong handle, with about one cup of water in it",
+     "item": "a light plastic bucket or a plastic bathroom mug with a strong handle, with about one cup of water in it",
      "qty": 1
     },
     {
@@ -1415,7 +1416,7 @@
      "qty": 1
     },
     {
-     "item": "a helper with a phone or watch to count seconds, and a grown-up",
+     "item": "a helper with a phone or watch to count seconds and turns, and a grown-up",
      "qty": 1
     }
    ],
@@ -1479,7 +1480,7 @@
      "say": "Now there is a cup of water in the bucket. Swing fast and the water stays in. Swing slower and slower. Where does it start to spill? Count the seconds for one turn.",
      "kid": "Swing the bucket with water. Go slower and slower. Where does it spill? Count the seconds.",
      "adult": true,
-     "parent": "For an arm and a bucket together about 70 centimetres long, most children find that the water just stays in when one turn takes about 1.5 to 2 seconds. Slower than that, the water falls out near the top. Do this over a drain or on open ground, and expect to get wet. Stop if the child feels dizzy.",
+     "parent": "For an arm and a bucket together about 70 centimetres long, most children find that the water just stays in when one turn takes about 1.5 to 2 seconds. Slower than that, the water falls out near the top. Do this over a drain or on open ground, and expect to get wet. Stop if the child feels dizzy. To measure: the helper times 5 turns and divides by 5. Children under about 8 may find a full circle too hard; then a grown-up swings and the child times and records. Swing a mug with a cup of water first, and a bigger bucket only after that. With 2 to 4 children, take turns as swinger, timer, and recorder, with everyone else standing 3 metres back. The numbers depend on the length of the arm, so treat about 1.5 to 2 seconds as typical, not promised.",
      "check": {
       "t": "mcq",
       "q": "The water stayed in the upside-down bucket when you swung fast, but fell out when you swung slowly. What is the best explanation?",
@@ -1522,11 +1523,11 @@
    "context": "In this activity, you watch a salad spinner or a spin dryer throw water out through its holes, and you spin a wet umbrella to see where the drops go. You find out what the spin does to the water and what it does to the leaves or the clothes.",
    "materials": [
     {
-     "item": "a salad spinner with a few wet washed lettuce or coriander leaves, or the spin dryer of a washing machine with a grown-up to start it",
+     "item": "a salad spinner with a few wet washed lettuce or coriander leaves, or the spin dryer of a twin-tub washing machine with a grown-up to start it (if you have neither, skip to the umbrella)",
      "qty": 1
     },
     {
-     "item": "a wet closed umbrella, and a bathroom or an open space to spin it in",
+     "item": "a wet open umbrella (or, if you have none, the sock from Feel the Pull, soaked in water), and a bathroom or an open space to spin it in",
      "qty": 1
     },
     {
@@ -1541,8 +1542,8 @@
      "what": "Guess. Spin wet leaves in the spinner, or watch the dryer. Spin the wet umbrella. Say where the water goes and why."
     }
    ],
-   "safety": "A grown-up starts any machine. Never open a spin dryer or lift its lid while it is turning, and stand a metre back. Wash the leaves first. Spin the umbrella away from people and from breakable things, and keep its sharp metal tip away from faces and eyes. Mop up the water at once, because a wet floor is slippery.",
-   "record": "Draw the drum or the spinner from above, with the leaves against the wall and arrows showing where the drops go. Draw the umbrella with arrows for the drops.",
+   "safety": "A grown-up starts any machine. Never open a spin dryer or lift its lid while it is turning, and stand a metre back. Wash the leaves first. Hold the open umbrella by the handle only, well away from everyone and at least 2 metres from faces, because the metal rib ends are sharp; or whirl the wet sock on its string instead, in a flat circle at waist height. Mop up the water at once, because a wet floor is slippery.",
+   "record": "Draw the drum or the spinner from above, with the leaves against the wall and arrows showing where the drops go. Draw the umbrella from above with arrows for the drops, and a ring where the drops landed.",
    "setup": [
     {
      "art": "A salad spinner with wet green leaves inside, being closed by a girl.",
@@ -1553,8 +1554,8 @@
      "caption": "2. Spin it. Watch where the water goes."
     },
     {
-     "art": "A girl spinning a wet closed umbrella in a bathroom, with drops flying off in straight lines onto a newspaper.",
-     "caption": "3. Spin a wet umbrella. Where do the drops land?"
+     "art": "A grown-up twirling a wet open umbrella upright in a bathroom, with drops flying off sideways in straight lines onto a newspaper on the floor, and a child standing well back.",
+     "caption": "3. Twirl a wet open umbrella. Where do the drops land?"
     }
    ],
    "flow": [
@@ -1584,7 +1585,7 @@
      "say": "Spin the leaves. Now open the lid. Where are the leaves? Where is the water? What does the basket have in its wall?",
      "kid": "Spin the wet leaves. Open the lid. Where are the leaves? Where is the water?",
      "adult": true,
-     "parent": "The leaves should be pressed against the wall of the basket and fairly dry. The water should be in the outer bowl, which it reached through the holes in the basket's wall. For a washing machine, never lift the lid or open the door while it is turning.",
+     "parent": "The leaves should be pressed against the wall of the basket and fairly dry. The water should be in the outer bowl, which it reached through the holes in the basket's wall. For a washing machine, never lift the lid or open the door while it is turning. To measure: pour the water from the outer bowl into a cup after 10 seconds of spinning, then spin the same leaves 10 seconds more and pour again, and compare the two amounts. Also pat a dry tissue on the leaves before and after and see how wet it gets. With 2 to 4 children, one spins, one pours and compares, and the others predict and draw.",
      "check": {
       "t": "mcq",
       "q": "The water left the spinner through the holes, but the leaves stayed in. What is the best explanation?",
@@ -1601,11 +1602,11 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Lay newspaper on the floor of the bathroom. Hold a wet closed umbrella by its handle, and spin it quickly. Look at where the drops land on the newspaper. Notice whether the marks are in a ring, or in straight lines.",
-     "say": "Spin the wet umbrella. The drops will fly off. Where do they land? Look at the marks on the paper. Are they in a ring, or in straight lines?",
-     "kid": "Spin the wet umbrella. Look at the newspaper. Are the marks in straight lines?",
+     "do": "Lay newspaper on the floor of the bathroom, or stand in an open space. A grown-up holds the wet open umbrella upright by its handle and twirls it between the palms, fast. Watch where the drops land on the newspaper and the walls. Notice that they fly out sideways, far past the umbrella's edge, and do not fall straight down. (Without an umbrella, whirl the wet sock on its string and watch the drops.)",
+     "say": "Spin the wet umbrella. The drops will fly off. Where do they land? Do they land in a ring beyond the umbrella, or straight below it?",
+     "kid": "Spin the wet umbrella. Look at the newspaper. Where did the drops land?",
      "adult": true,
-     "parent": "Spin the umbrella on the spot, with the tip of the umbrella pointing up and outward. The drops leave the tip in straight lines along the way the tip was moving, and so the marks on the paper form straight streaks. Mop up the water at once.",
+     "parent": "Each drop leaves the rim along a straight line that just touches the circle, so the spots land in a wide ring or spray, further out than the umbrella. They do not fall straight down. Keep the umbrella upright, stand clear, and mop up the water at once.",
      "context": "In this step, you spin a wet umbrella and see which way the drops fly."
     },
     {
@@ -1647,7 +1648,7 @@
      "qty": 4
     },
     {
-     "item": "3 pieces of tape in different colours, and a ruler or measuring tape",
+     "item": "3 pieces of tape in different colours (or 3 pen marks), and a ruler or measuring tape",
      "qty": 3
     },
     {
@@ -1719,7 +1720,7 @@
      "say": "Whirl with the first tape at the top of the pen. Hold it steady. The helper counts the turns in 10 seconds. Then try the second tape, and the third.",
      "kid": "Whirl with the first tape at the top. Count the turns in 10 seconds. Then try the other tapes.",
      "adult": true,
-     "parent": "Expect roughly 14, 11 and 9 turns in 10 seconds for the 20, 35 and 50 centimetre lengths. Your numbers will differ, but the shortest string should give the most turns. Use the middle of the three tries.",
+     "parent": "Expect roughly 14, 11 and 9 turns in 10 seconds for the 20, 35 and 50 centimetre lengths (typical, not promised). Your numbers will differ, but the shortest string should give the most turns. Use the middle of the three tries. With 2 to 4 children: one whirls, one times, one counts turns aloud, one writes the table; swap roles for each length. For a stronger test, each child predicts the turns for 35 centimetres before trying. The short 20 centimetre string goes round fast, so film it if the count is hard.",
      "check": {
       "t": "mcq",
       "q": "With the same pull, the bag on the longest string went round fewer times in 10 seconds. What does that tell you?",
@@ -3008,7 +3009,7 @@
    "id": "b-marbles",
    "item": "A small bag of glass marbles (goli)",
    "kind": "material",
-   "why": "For Marble in the Kadai. A marble rolls smoothly, so it goes round the kadai in a clean circle. Sold cheaply in toy and stationery shops.",
+   "why": "For Marble in the Kadai. A marble rolls smoothly, so it goes round the kadai in a clean circle. A few marbles cost a few rupees in toy and stationery shops; a foil ball also works.",
    "url": "https://www.amazon.in/s?k=glass+marbles+goli",
    "used_in": [
     "a2"

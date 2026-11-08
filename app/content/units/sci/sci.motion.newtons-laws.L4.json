@@ -679,7 +679,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens.",
+     "do": "Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens. Two sets serve three players. A fourth player writes the four words on scraps of paper.",
      "say": "Each card describes a moment. You pick a token to show how the change in speed each second compares. Each player takes four tokens.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take your four tokens.",
      "context": "This is the first step of Bigger, Smaller or the Same. You set up the cards and the tokens."
@@ -795,7 +795,7 @@
      "qty": 1
     },
     {
-     "item": "a small strong plastic bag or cloth bag for the water, and a measuring cup with millilitre marks",
+     "item": "a small strong plastic bag or cloth bag for the water (put one plastic bag inside another so it does not leak), and a measuring cup with millilitre marks. No cup? A 500 millilitre bottle holds five lots of 100 millilitres, so mark it in fifths with a pen",
      "qty": 1
     },
     {
@@ -844,7 +844,7 @@
    ],
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results (middle times in seconds)",
+    "title": "Made-up example to show the typical pattern. Your times will differ (middle times in seconds)",
     "cols": [
      "Part and setting",
      "Time 1",
@@ -916,7 +916,7 @@
      "do": "1. Tape the pen across the edge of the table. 2. Tie the thread to the front of the cart. 3. Lay the thread over the pen and tie the bag to the other end. 4. Strap two bottles onto the cart with the rubber band. 5. Mark a start line 60 centimetres from the pen. 6. Put the book where the cart will stop.",
      "say": "We are building a pulling machine. The thread goes over the pen, and the bag hangs down. When we let go, the bag falls and pulls the cart.",
      "kid": "Tape the pen to the table edge. Tie the thread to the cart. Hang the bag. Mark the start line.",
-     "parent": "The thread must run level from the cart to the pen. The bag must be able to fall at least 60 centimetres before it touches the floor. Put the book where the cart stops, so it does not hit the pen. If your cart is flimsy, use one bottle in Part A and loads of zero, one and two bottles in Part B.",
+     "parent": "The thread rubbing on the pen takes a little of the pull, but it is the same every run. The thread must run level from the cart to the pen. The bag must be able to fall at least 60 centimetres before it touches the floor. Put the book where the cart stops, so it does not hit the pen. If your cart is flimsy, use one bottle in Part A and loads of zero, one and two bottles in Part B.",
      "check": {
       "t": "mcq",
       "q": "Why must the start line be in the same place for every run?",
@@ -954,7 +954,7 @@
      "do": "Part A. Put 100 millilitres in the bag, and two bottles on the cart. Hold the cart at the start line. Say 'go', let it go, and time it until it hits the book. Do this 3 times. Then repeat with 200 and with 400 millilitres.",
      "say": "Hold the cart at the line. Ready? Go! Time the trip. Do each bag three times, and write down every time.",
      "kid": "Put two bottles on the cart. Put 100 millilitres in the bag. Let go. Time the trip. Do it three times.",
-     "parent": "Use the middle of the three times. Each bigger bag should give a shorter time. Four times the water should not take a quarter of the time. It usually takes about half the time, or a bit more. If the cart does not move with 100 millilitres, write 'did not move' and use 200, 300 and 400 instead.",
+     "parent": "Use the middle of the three times. Each bigger bag should give a shorter time. Four times the water should not take a quarter of the time. It typically takes a bit more than half the time. A phone stopwatch can be 0.2 seconds out, so a gap smaller than that means nothing: if you can, film the run and step through the video. With 2 to 4 children: one builds and releases, one times, one records, one watches the bag. Swap after each setting, and each child makes their own guess and chart. If the cart does not move with 100 millilitres, write 'did not move' and use 200, 300 and 400 instead.",
      "check": {
       "t": "mcq",
       "q": "The bag with 400 millilitres of water pulled the cart across in less time than the bag with 100 millilitres. What does that tell you?",
@@ -1028,7 +1028,7 @@
    ],
    "materials": [
     {
-     "item": "a smooth board or stiff cardboard about 1 metre long, such as a shelf or a cupboard door",
+     "item": "a smooth board or stiff cardboard about 1 metre long, such as a shelf plank, a tray or a flat cupboard door (soft cardboard bends and spoils the test)",
      "qty": 1
     },
     {
@@ -1078,7 +1078,7 @@
    ],
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results (middle times in seconds)",
+    "title": "Made-up example to show the typical pattern. Your times will differ (middle times in seconds)",
     "cols": [
      "Part and setting",
      "Time 1",
@@ -1170,7 +1170,7 @@
      "do": "Part A. With no load, time the cart 3 times at 12 centimetres. Then change the height to 6 centimetres and time 3 runs. Then change the height to 24 centimetres and time 3 runs.",
      "say": "Hold the cart at the line. Ready? Go! Time it to the finish line. Do each height three times and write down every time.",
      "kid": "Let the cart go. Time it to the finish line. Do three heights, three times each.",
-     "parent": "A steeper ramp should be quicker. Doubling the height does not halve the time. The new time is usually about two thirds of the earlier time, or a little less. If the cart does not move at 6 centimetres, the wheels have a lot of friction: use 9, 18 and 36 instead.",
+     "parent": "A steeper ramp should be quicker. Doubling the height does not halve the time. The new time is typically about two thirds of the earlier time, or a little less. With 2 to 4 children: one releases, one times, one records, one guards the bottom of the ramp. Swap after each height, and each child draws their own chart. If the cart does not move at 6 centimetres, the wheels have a lot of friction: use 9, 18 and 36 instead.",
      "check": {
       "t": "mcq",
       "q": "The cart took less time on the ramp that was 24 centimetres high than on the one 6 centimetres high. Why?",
@@ -1190,7 +1190,7 @@
      "do": "Part B. Set the ramp at 12 centimetres. Strap one bottle onto the cart and time 3 runs. Then strap on three bottles and time 3 runs. Compare with the no load runs at 12 centimetres.",
      "say": "Now the ramp stays the same and the load changes. Which will arrive first, the loaded cart or the empty cart? Write down every time.",
      "kid": "Keep the ramp at 12 centimetres. Add one bottle, then three. Time each load three times.",
-     "parent": "The surprise is that the times should be almost the same. A loaded cart may be a little slower, because its axles rub more. But three bottles do not make it three times as slow. If your loaded cart is much slower, check that the bottles are not touching the wheels.",
+     "parent": "The surprise is that the times should be almost the same. A loaded cart may be a little slower, because its axles rub more. But three bottles do not make it three times as slow. A phone stopwatch can be 0.2 seconds out, so only a gap bigger than that counts: if you can, film the runs. If your loaded cart is much slower, check that the bottles are not touching the wheels.",
      "check": {
       "t": "mcq",
       "q": "The loaded cart took almost the same time as the empty cart on the ramp. What is the best explanation?",
@@ -1231,7 +1231,7 @@
   {
    "id": "a1",
    "title": "Empty or Full: which is harder to get going?",
-   "mins": 10,
+   "mins": 15,
    "days": 1,
    "context": "In this short activity, you push the same wheeled thing when it is empty and when it is full. You feel which is harder to start and which is harder to stop.",
    "materials": [
@@ -1251,12 +1251,12 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Push the empty thing. Load it. Push it the same way. Say which was harder to start and which was harder to stop."
+     "mins": 15,
+     "what": "Push the empty thing and measure how far it rolls. Load it. Push it the same way and measure again. Say which was harder to start and which was harder to stop."
     }
    ],
    "safety": "A grown-up lifts the heavy load. Keep toes and fingers away from the wheels.",
-   "record": "Draw two pictures, one for the empty thing and one for the full thing, each with an arrow for the push. Write 'harder' or 'easier' beside the words 'to start' and 'to stop'.",
+   "record": "Measure how far each rolls after you let go (count floor tiles or steps, or use a tape) and do it 3 times for each. Draw two pictures, one for the empty thing and one for the full thing, each with an arrow for the push. Write 'harder' or 'easier' beside the words 'to start' and 'to stop'.",
    "setup": [
     {
      "art": "A girl giving a gentle one-handed push to an empty trolley bag on a tiled floor, and it rolling away.",
@@ -1274,7 +1274,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 2,
+     "mins": 3,
      "do": "Show the empty wheeled thing. Ask your child to guess how it will feel to push when it is empty and when it is full. Ask why.",
      "say": "I will give this a gentle push. Then we will load it and push again, just the same. What do you think will be different? Why?",
      "kid": "Push this gently. Then load it and push again. What will be different? Why?",
@@ -1293,16 +1293,16 @@
     },
     {
      "id": "s2",
-     "mins": 3,
+     "mins": 5,
      "do": "Stand behind the empty thing. Give it one gentle push while you count one, two. Then let go. Stop it with one hand.",
      "say": "Push it gently while you count one, two. Then let go. Now stop it with your hand. How did the start feel? How did the stop feel?",
      "kid": "Push it gently. Count one, two. Let go. Stop it with your hand.",
-     "parent": "Count the same way each time, so the two pushes feel alike. Note how far it rolls after you let go.",
+     "parent": "Count the same way each time, so the two pushes feel alike. Mark where it stops with a bit of tape and count the floor tiles (or measure) from the place you let go. Do 3 pushes and use the middle distance. The full bag should roll clearly less far. With 2 to 4 children: one pushes, one marks, one counts, then swap.",
      "context": "In this step, you push the empty thing and feel how easy it is to start and to stop."
     },
     {
      "id": "s3",
-     "mins": 3,
+     "mins": 5,
      "do": "A grown-up loads the thing with books or rice. Push it in the same way for the count of two, then let go. Stop it with your hand.",
      "say": "Now it is full. Push it just as gently, for the same count. Does it move as far? Which was harder to start? Which was harder to stop?",
      "kid": "A grown-up loads it. Push the same way. Which is harder to start? Which is harder to stop?",
@@ -1318,7 +1318,8 @@
       "a": 0,
       "why": "The same push changes a bigger mass by less, so the full bag speeds up less. The same catch also changes a bigger mass by less, so it is harder to stop. The floor and the wheels were the same."
      },
-     "context": "In this step, you load the thing and push it in the same way."
+     "context": "In this step, you load the thing and push it in the same way.",
+     "parent": "Push as gently and as alike as you can, and measure how far it rolls, 3 times. Whatever you find, write it down. Pushes are never exactly equal, so look for a big difference, not a small one."
     },
     {
      "id": "s4",
@@ -1357,7 +1358,7 @@
      "qty": 1
     },
     {
-     "item": "2 identical plastic bottles with tight caps, one empty and one filled with water",
+     "item": "2 identical plastic bottles with tight caps, one empty and one filled with water (the same bottle, so only the weight differs)",
      "qty": 2,
      "buy": "b-bottles"
     },
@@ -1374,7 +1375,7 @@
     }
    ],
    "safety": "Drop things onto a cushion, away from feet. Keep faces out of the way, and make sure the bottle caps are tight.",
-   "record": "Draw a picture for each drop and write 'together' or 'not together' under it. Write one sentence on why the full and empty bottles landed as they did.",
+   "record": "Do the bottle drop 5 times and tally which landed first: full, empty or together. Draw a picture for each drop and write 'together' or 'not together' under it. Write one sentence on why the full and empty bottles landed as they did.",
    "setup": [
     {
      "art": "A girl holding a book flat at shoulder height with a sheet of paper lying on top of it, over a cushion on the floor.",
@@ -1432,10 +1433,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Lay the bottles on their sides, side by side, at chest height above the cushion. Let go of both together. Listen for one thud or two. Do it three times.",
+     "do": "Lay the bottles on their sides, side by side, at chest height above the cushion. Let go of both together. Listen for one thud or two. Do it five times and tally the result: full first, empty first, or together.",
      "say": "Let go of both at the same moment. Listen. Is it one thud, or two? The full bottle is heavier. The Earth pulls it harder. Did it land first?",
-     "kid": "Drop both bottles together. Listen. One thud or two? Do it three times.",
-     "parent": "You should hear one thud, or two thuds very close together. Hold the bottles level, and let go at the same moment, because even a small head start spoils the result. If one bottle is slightly early every time, check that your hands are level.",
+     "kid": "Drop both bottles together. Listen. One thud or two? Do it five times and tally the result.",
+     "parent": "You should hear one thud, or two thuds very close together. Hold the bottles level, and let go at the same moment, because even a small head start spoils the result. If one bottle is slightly early every time, check that your hands are level. A cushion makes the thud quiet, so for the bottles put a folded towel on a hard floor, or film the drop with a phone in slow motion and watch it frame by frame. With 2 to 4 children: one drops, one listens with eyes closed, one films, one tallies. Swap each round.",
      "ask": [
       {
        "q": "The Earth pulls the full bottle harder. Why did it not land first?",
@@ -1487,7 +1488,7 @@
     }
    ],
    "safety": "Use a soft ball, never a cricket ball. The jump is a tiny step-down only, with a grown-up beside you, on a non-slip floor. Stop if your knees hurt.",
-   "record": "Draw a pair of pictures for the catch and a pair for the jump. Under each, write 'soft' or 'sharp' for how it felt.",
+   "record": "Give each catch a score from 1 (soft) to 5 (sharp) and do 3 catches of each kind. Draw a pair of pictures for the catch and a pair for the jump. Under each, write 'soft' or 'sharp' for how it felt.",
    "setup": [
     {
      "art": "A boy catching a soft ball with stiff hands held out in front of him, not moving.",
@@ -1528,7 +1529,7 @@
      "do": "The helper tosses the ball gently from 2 metres. Catch it 3 times with stiff hands that do not move. Then catch it 3 times, pulling your hands back as it arrives. Feel the difference.",
      "say": "First, catch it with stiff hands. Feel the ball hit. Now catch it again, but pull your hands back as it arrives. Which felt softer?",
      "kid": "Catch the ball with stiff hands. Then catch it and pull your hands back. Which feels softer?",
-     "parent": "Use an underarm toss, not hard. The pulled-back catch should feel gentler, though a soft ball may not sting either way. If you feel no difference, move the ball a little faster.",
+     "parent": "Use an underarm toss, not hard. The pulled-back catch should feel gentler, though a soft ball may not sting either way. If you feel no difference, move the ball a little faster. Let the catcher give each catch a score from 1 (soft) to 5 (sharp), and compare the averages. With 2 to 4 children: one tosses, one catches, one writes the scores. Swap after each set.",
      "check": {
       "t": "mcq",
       "q": "Why does pulling your hands back make the catch feel softer?",
@@ -1549,7 +1550,7 @@
      "say": "Step down off the stair, once with straight legs and once with bent knees. Which landing is gentler? Why do you think so?",
      "kid": "Step down once with straight legs. Step down once with bent knees. Which is gentler?",
      "adult": true,
-     "parent": "Make it a tiny step, about 15 centimetres. Never jump from a height. The bent knee landing should feel softer in the legs and the head. Stop if your child complains of pain.",
+     "parent": "Make it a tiny step, about 15 centimetres. Never jump from a height. The bent knee landing should feel softer in the legs and the head. Stop if your child complains of pain. Only one child steps at a time; the others watch and say which landing looked and sounded softer.",
      "context": "In this step, you step down from a low stair in two ways, and feel the landing."
     },
     {
@@ -1581,7 +1582,7 @@
    "context": "In this activity, you stand on a bathroom scale in a lift and watch the number as the lift starts and stops. You use it if your building has a lift. A grown-up must come with you.",
    "materials": [
     {
-     "item": "a bathroom scale, a dial one if you have it",
+     "item": "a bathroom scale, a dial one if you have it (no lift in your building? You can still do the knee-bend version below)",
      "qty": 1
     },
     {
@@ -1604,7 +1605,7 @@
      "what": "Weigh yourself at home. Ride the lift up and down while standing on the scale. Write the highest and lowest numbers. Say why the number changed."
     }
    ],
-   "safety": "A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open.",
+   "safety": "A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open. Put the scale flat on the floor away from the door gap, and step on and off it slowly. At home, do the knee-bend near a wall or a grown-up so you cannot fall off the scale.",
    "record": "Write the number at rest, the highest number and the lowest number going up, and the same going down. Draw a small picture of the lift with an arrow for the direction.",
    "setup": [
     {
@@ -1647,7 +1648,7 @@
      "say": "Stand still and hold the rail. Watch the number. What does it do as we start? What does it do while we move? What does it do as we stop?",
      "kid": "Stand on the scale. Hold the rail. Watch the number as the lift starts, moves and stops.",
      "adult": true,
-     "parent": "Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. You may only see a change of a fraction of a kilogram to about a kilogram or two, so look at the moments the lift starts and stops.",
+     "parent": "Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. Digital scales can be slow or blink, so a dial scale or a filmed scale works best. You may only see a change of a fraction of a kilogram to about a kilogram or two, so look at the moments the lift starts and stops.",
      "check": {
       "t": "mcq",
       "q": "The scale showed more than usual just as the lift started going up. What does that tell you?",
@@ -1687,7 +1688,7 @@
        ]
       }
      ],
-     "parent": "After your child has answered: the number changes only while the motion is changing. At a steady speed, the scale pushes up with exactly your weight, so the forces are balanced. This is the second law again. A change in motion needs a net force.",
+     "parent": "No lift? Stand still on the scale at home, then bend your knees quickly: the number dips, then rises above your weight as you stop bending. Film it. With 2 to 4 children: one stands on the scale, one reads, one films, one writes; swap, but only one child rides at a time. After your child has answered: the number changes only while the motion is changing. At a steady speed, the scale pushes up with exactly your weight, so the forces are balanced. This is the second law again. A change in motion needs a net force.",
      "context": "In this step, you find out why the number changed only when the lift started or stopped."
     }
    ]
@@ -1772,7 +1773,7 @@
      "do": "1. Lift one end of the board by 8 centimetres and check with the ruler. 2. Lay the towel flat on the floor at the bottom, and tape its edge so the car does not bump. 3. Tape a line where the towel begins. 4. Mark a start line near the top of the board.",
      "say": "We will build a test track. The car rolls down the board, and the towel is its brake. We measure from the tape line to where the car stops.",
      "kid": "Lift the board 8 centimetres. Lay the towel at the bottom. Tape a line where the towel begins.",
-     "parent": "The car must roll smoothly from the board onto the towel. Fold or tape the towel edge so it does not catch. The towel should be long enough for the highest run. If the car stops before reaching the towel, use a smoother cloth. If it rolls off the end, fold the towel in two.",
+     "parent": "The car must roll smoothly from the board onto the towel. Fold or tape the towel edge so it does not catch. The towel should be long enough for the highest run. If the car stops before reaching the towel at 4 centimetres, use 6, 12 and 24 centimetres instead. If it rolls off the end of the towel, fold the towel in two so it brakes harder; a thick doormat or a folded blanket also works.",
      "check": {
       "t": "mcq",
       "q": "Why do we measure from the tape line and not from the top of the ramp?",
@@ -1792,7 +1793,7 @@
      "do": "Run the car from the start line at 4 centimetres, then 8 centimetres, then 16 centimetres. Let go of the car, never push it. Measure the distance it goes on the towel. Do 3 runs at each height.",
      "say": "Let go of the car at the start line. Where does it stop? Measure from the tape line to the front of the car. Do each height three times.",
      "kid": "Let the car go. Measure how far it goes on the towel. Do three runs at each height.",
-     "parent": "Change the height by changing the books. Check each height with the ruler. Use the middle distance of the three runs. The distances should grow about as fast as the heights. If the car bounces or skids sideways, tape the board edges as guide rails.",
+     "parent": "Change the height by changing the books. Check each height with the ruler. Use the middle distance of the three runs. Expect the distances to grow roughly as fast as the heights, but not exactly: this is a rough test. With 2 to 4 children: one releases, one marks the stop with a pencil, one measures, one records. Swap after each height. If the car bounces or skids sideways, tape the board edges as guide rails.",
      "context": "In this step, you run the car from three heights and measure how far it goes on the towel."
     },
     {
@@ -1822,7 +1823,7 @@
       "a": 0,
       "why": "The towel slows the car by about the same amount every second, whatever its speed. A faster car takes longer to stop, and it also travels faster for all that time. Twice the time and twice the speed make four times the distance."
      },
-     "parent": "If your results are messy, say so, and talk about why. The pattern to look for is that the distance grows about as fast as the height.",
+     "parent": "If your results are messy, say so, and talk about why. Doubling the speed should give about four times the distance, give or take a lot. The pattern to look for is that the distance grows about as fast as the height.",
      "context": "In this step, you draw a chart of the three distances and say what the chart shows."
     },
     {
@@ -3133,8 +3134,8 @@
    "id": "b-truck",
    "item": "A small strong toy truck or pull-along cart with wheels that turn freely",
    "kind": "material",
-   "why": "For the Hanging Bag Cart test, the Ramp Surprise and the Brake Zone. A sturdy toy with free-turning wheels gives the cleanest results.",
-   "url": "https://www.amazon.in/s?k=toy+truck+metal+pull+back",
+   "why": "For the Hanging Bag Cart test, the Ramp Surprise and the Brake Zone. A sturdy toy with free-turning wheels gives the cleanest results. Do not buy a pull-back or friction toy: its gears hold the wheels back. Most homes with a child already have a plain push toy that will do.",
+   "url": "https://www.amazon.in/s?k=wooden+pull+along+toy+truck",
    "used_in": [
     "e1",
     "e2",

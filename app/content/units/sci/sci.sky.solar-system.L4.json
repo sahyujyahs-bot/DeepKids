@@ -748,7 +748,7 @@
      "qty": 1
     },
     {
-     "item": "a glass marble about 1.5 centimetres across, or a round steel ball bearing",
+     "item": "a glass marble about 1.5 centimetres across, or any small hard round thing such as a steel ball bearing or a smooth round pebble",
      "qty": 1,
      "buy": "b-marbles"
     },
@@ -765,7 +765,7 @@
      "qty": 1
     }
    ],
-   "safety": "Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them. Wheat flour is a problem for anyone allergic to wheat or gluten: use rice flour or fine dry sand instead, and wash hands afterwards. Do not eat the flour or cocoa from the tray.",
+   "safety": "Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them. Wheat flour is a problem for anyone allergic to wheat or gluten: use rice flour or fine dry sand instead, and wash hands afterwards. If the flour is damp or lumpy, dry it in the sun and sift it first. Do not eat the flour or cocoa from the tray.",
    "schedule": [
     {
      "day": 1,
@@ -873,7 +873,7 @@
      "do": "Stand a metre scale beside the tray. Hold the marble at 10 centimetres above the flour and let go. Lay the ruler across the crater and read its width from rim to rim. Lift the marble out with a spoon. Smooth the flour, dust it again, and repeat. Do 3 drops at 10 centimetres, then 3 at 20, 3 at 40 and 3 at 80.",
      "say": "Hold the marble high, then let it go. Do not push it. Read the width across the middle. Write the number down. Then smooth the flour again.",
      "kid": "Drop the marble from 10 centimetres. Measure the crater. Smooth the flour. Do it three times.",
-     "parent": "Expect the craters to grow slowly. At 10 centimetres you may see about 3 centimetres wide, and at 80 centimetres about 4.5. Your numbers may differ by a centimetre or so. What matters is the pattern. Measure from the top of the rim on one side to the top of the rim on the other.",
+     "parent": "Working alone with a grown-up: you drop and measure, they smooth the flour and write the numbers. With 2 to 4 children: one drops, one measures, one smooths and dusts, one writes, and swap after each height; each pair of children can run its own tray if you have two. Expect the craters to grow slowly. At 10 centimetres you may see about 3 centimetres wide, and at 80 centimetres about 4.5. Your numbers may differ by a centimetre or so. What matters is the pattern. Typical results only: your numbers may differ, and a damp tray or a different marble will change them. Measure from the top of the rim on one side to the top of the rim on the other.",
      "check": {
       "t": "mcq",
       "q": "A marble dropped from 8 times as high made a crater only about one and a half times as wide. What does this tell you?",
@@ -941,7 +941,7 @@
    "days": 1,
    "question": "Does ice melt faster in a tumbler with a clear lid than in an open tumbler, when both sit in the same sunshine?",
    "predict": "Before you start, guess. Two tumblers with ice sit in the sun, one open and one covered with clear film. Which ice will melt first? Why do you think so?",
-   "fair_test": "Use two tumblers of the same kind, the same number of ice cubes of the same size from the same tray, and the same dark paper under each. Put them side by side in the same sunny spot, at the same time. Only the lid changes. Check every 5 minutes with the same clock.",
+   "fair_test": "Use two tumblers of the same kind, the same number of ice cubes of the same size from the same tray, and the same dark paper under each. Put them side by side in the same sunny spot, at the same time. Only the lid changes. Check every 5 minutes with the same clock, and also note the minute the last piece of ice disappears in each tumbler.",
    "results_table": [
     "Minutes in the sun",
     "Open tumbler: how much ice is left? (all, half, little, none)",
@@ -953,8 +953,8 @@
      "qty": 2
     },
     {
-     "item": "4 ice cubes of the same size from one tray",
-     "qty": 4
+     "item": "6 ice cubes of the same size from one tray (3 for each tumbler)",
+     "qty": 6
     },
     {
      "item": "clear cling film and a rubber band, enough to cover one tumbler",
@@ -973,7 +973,7 @@
      "qty": 1
     },
     {
-     "item": "a kitchen or room thermometer (optional)",
+     "item": "a digital fever thermometer (optional; it reads only above about 32 degrees Celsius)",
      "qty": 1
     }
    ],
@@ -982,15 +982,15 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Put two ice cubes in each tumbler, cover one with film, and place both in the sun. Check every 5 minutes. Repeat once if you have time."
+     "what": "Guess. Put three ice cubes in each tumbler, cover one with film, and place both in the sun. Check every 5 minutes. Repeat once if you have time."
     }
    ],
    "record": "Fill in the results table. Draw the two tumblers at the end of the test. Write which melted first and by how many minutes.",
    "context": "In this experiment you put ice in two tumblers, one covered and one open, in the same sunshine. It is a small model of why a blanket of air makes a planet hotter.",
    "setup": [
     {
-     "art": "Two identical tumblers standing on two squares of black paper, each with two ice cubes inside.",
-     "caption": "1. Put two ice cubes in each tumbler on dark paper."
+     "art": "Two identical tumblers standing on two squares of black paper, each with three ice cubes inside.",
+     "caption": "1. Put three ice cubes in each tumbler on dark paper."
     },
     {
      "art": "One tumbler stretched over with clear cling film held tight by a rubber band, next to an open one.",
@@ -1064,10 +1064,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Stand the two tumblers on the black paper. Put two ice cubes in each. Stretch cling film over one tumbler. Hold it with a rubber band. Carry both to the sunny spot together.",
+     "do": "Stand the two tumblers on the black paper. Put three ice cubes in each. Stretch cling film over one tumbler. Hold it with a rubber band. Carry both to the sunny spot together.",
      "say": "The black paper soaks up sunlight, so the tumblers get a good share of it. The film is our blanket of air. Carry them out together, side by side.",
      "kid": "Put ice in both tumblers. Cover one with film. Carry both into the sun.",
-     "parent": "Take the ice straight from the freezer and set up quickly, so the ice has not already started melting. Place the tumblers an arm's length apart, so one does not shade the other.",
+     "parent": "Take the ice straight from the freezer and set up quickly, so the ice has not already started melting. Place the tumblers an arm's length apart, so one does not shade the other. Working alone: you watch both tumblers and your grown-up keeps time. With 2 to 4 children: one child looks after each tumbler, one keeps the clock and one writes. Two tumblers are enough for any group.",
      "context": "In this step you set up both tumblers in the same sunshine."
     },
     {
@@ -1077,12 +1077,12 @@
      "say": "Look closely at both tumblers. How much ice is left in each? Write it down. We check again in 5 minutes.",
      "kid": "Every 5 minutes, look at both. How much ice is left? Write it down.",
      "adult": true,
-     "parent": "Expect the ice in the covered tumbler to melt a little sooner, often by a few minutes. If both seem equal, repeat the test with 3 cubes each, or on a hotter, sunnier day. If there is no direct sun today, try another day. The result can be small, and a small difference is still a finding."
+     "parent": "Expect the ice in the covered tumbler to melt a little sooner, often by a few minutes. If both seem equal, repeat the test with 4 cubes each, or on a hotter, sunnier day. A cloudy or rainy day will not work, so choose a bright day around noon. Droplets inside the film are normal. If the covered ice melts later, say so honestly, and check that the film did not touch the ice or shade it. If there is no direct sun today, try another day. The result can be small, and a small difference is still a finding."
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "If you have a thermometer, push its tip into the air space of each tumbler. Do not touch the ice. Read the number and write it down. Then talk about what you saw.",
+     "do": "If you have a fever thermometer, wait until the ice has gone. Then push its tip into the air space of each tumbler. Read the number and write it down. Then talk about what you saw.",
      "say": "Which melted first? How much sooner? Is that enough to be sure, or could it be a fluke? How could we find out?",
      "kid": "Which ice melted first? By how many minutes? Could we try it again?",
      "check": {
@@ -1095,7 +1095,8 @@
       ],
       "a": 0,
       "why": "Sunlight passes through the clear film and warms the paper and the air. The film stops the warm air from flowing away, so the inside gets hotter. The film does not make sunshine, and a fair test uses the same ice. If you picked the third, check that you used cubes from the same tray."
-     }
+     },
+     "parent": " A digital fever thermometer reads only above about 32 degrees Celsius. Stop if it shows HI."
     },
     {
      "id": "s5",
@@ -1103,7 +1104,7 @@
      "do": "Ask your child to say or write what I think, what I saw, and why. Then tell your child how this is like Venus.",
      "say": "Tell me three things. What do you think now? What did you see? Why do you think it happened? Venus is like the covered tumbler, with a thick blanket of air round it.",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: a cover makes things warmer. What I saw: the covered tumbler's ice melted first, by about 5 minutes. Why: the film stopped warm air from leaving. Be honest that this is only a model. A lid stops warm air from rising away. On Venus, the gas carbon dioxide slows down heat rays on their way out. The two work differently in detail, but both act like a blanket."
+     "parent": "A good answer sounds like this. What I think: a cover makes things warmer. What I saw: the covered tumbler's ice melted first, by a few minutes (your gap may be larger or smaller). Why: the film stopped warm air from leaving. Be honest that this is only a model. A lid stops warm air from rising away. On Venus, the gas carbon dioxide slows down heat rays on their way out. The two work differently in detail, but both act like a blanket."
     }
    ]
   }
@@ -1120,7 +1121,7 @@
      "qty": 1
     },
     {
-     "item": "small things for the planets: a pinch of pepper powder, 2 mustard seeds, a grain of salt, a small marble or bead, a bead or small marble a little smaller, and 2 peppercorns. Keep these small things away from children under five.",
+     "item": "small things for the planets: a pinch of pepper powder, 2 mustard seeds, a grain of salt, a small marble or bead, a bead or small marble a little smaller, and 2 peppercorns. Keep these small things away from children under five. Stick the pepper powder and salt to a dab of glue or sticky tape.",
      "qty": 8
     },
     {
@@ -1133,6 +1134,10 @@
     },
     {
      "item": "a long corridor, hall or terrace of about 25 metres, and if possible an open ground or a quiet road for the outer planets",
+     "qty": 1
+    },
+    {
+     "item": "a map of India, in an atlas or on a phone",
      "qty": 1
     }
    ],
@@ -1189,7 +1194,7 @@
      "do": "Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape and measure how far you went. Divide by 10 to find the length of one step.",
      "say": "In this model, 1 millimetre stands for 10,000 kilometres. So the Sun is 14 centimetres, the Earth is about 1 millimetre, and Jupiter is 14 millimetres. Now find how long your step is.",
      "kid": "Make the Sun and the planets. Walk 10 steps. Measure. Divide by 10 for one step.",
-     "parent": "A grown-up helps with the scissors. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
+     "parent": "A grown-up helps with the scissors. Working alone with a grown-up: you walk and count, they tape the planets down. With 2 to 4 children: one walks and counts steps, one holds the tape, one places and labels the planets, one writes the table, and all take turns being the walker. Each child can make a different planet. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
      "context": "In this step you make the model and measure your step."
     },
     {
@@ -1208,7 +1213,7 @@
        ]
       }
      ],
-     "parent": "If your corridor is shorter than 25 metres, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one. Go with a grown-up, stay off the road and away from traffic."
+     "parent": "Most homes are shorter than 25 metres, so a terrace, a school ground, a park path or a flat roof is better than a corridor. If you only have a short corridor, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one. Go with a grown-up, stay off the road and away from traffic."
     },
     {
      "id": "s4",
@@ -1306,7 +1311,7 @@
        ]
       }
      ],
-     "parent": "Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as the guess. Do not give this away yet.",
+     "parent": "Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as the guess. Do not give this away yet. Working alone: your child does all the sums. With 2 to 4 children: each child takes one planet for Test 1 and Test 2, then everyone shares answers on one table; only one phone calculator is needed. Nothing here needs more than a calculator and paper.",
      "context": "This is the first step of the Planet Data Detective. You guess how a planet's year depends on its distance."
     },
     {
@@ -1331,7 +1336,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Test 2. For each planet, multiply the distance by itself three times. Then multiply the year by itself once. Write both answers side by side. For the Earth both are 1. Compare the two numbers for Mars, Jupiter and Saturn.",
+     "do": "Test 2. For each planet, multiply the distance by itself three times (for Mars, 1.52 x 1.52 x 1.52). Then multiply the year by itself once. Write both answers side by side. For the Earth both are 1. Compare the two numbers for Mars, Jupiter and Saturn.",
      "say": "Multiply the distance by itself three times. For Mars, 1.52 times 1.52 times 1.52 gives about 3.5. Now multiply its year, 1.88, by itself. What do you get? Is it close?",
      "kid": "Distance times distance times distance. Year times year. Do the two numbers match?",
      "parent": "Expect Mars 3.5 and 3.5. Jupiter 140.6 and 140.7. Saturn 868 and 868. The answers match to three figures. This is Kepler's rule, found in 1619. The small differences come from rounding. Make sure your child keys in the multiplication one step at a time.",
@@ -1352,7 +1357,7 @@
      "do": "Give your child the distance of Ceres, 2.77 AU. Ask them to cube it and then find a number that multiplied by itself gives the same answer. Let them try by guess and check.",
      "say": "Ceres is a small world in the asteroid belt. It is 2.77 units from the Sun. Cube that number. What number times itself makes the same answer? That should be its year.",
      "kid": "Ceres is 2.77 units out. Cube it. Find a number that times itself gives your answer.",
-     "parent": "2.77 cubed is about 21.25. Try 4 times 4, which is 16, then 4.5 times 4.5, which is 20.25, then 4.6 times 4.6, which is 21.16. So the year is about 4.6 Earth years, and that is Ceres's real year. Your child has just predicted something about a world nobody has visited with this rule."
+     "parent": "2.77 cubed is about 21.25. Try 4 times 4, which is 16, then 4.5 times 4.5, which is 20.25, then 4.6 times 4.6, which is 21.16. So the year is about 4.6 Earth years, and that is Ceres's real year. Your child has just predicted something about a world far away with just a pencil and one rule. A spacecraft, Dawn, later visited Ceres and its year agrees."
     },
     {
      "id": "s5",
@@ -1414,11 +1419,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Lay out the course with six cushions between a start line and the spoon, which are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way, so each message and its reply cost about 25 minutes. This is the Mars minutes tally.",
+     "do": "Lay out the course with six cushions between a start line and the spoon, which are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way on average. Each message and its reply cost about 25 minutes in this game. This is the Mars minutes tally.",
      "say": "A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.",
      "kid": "You are the rover on Mars. Close your eyes. Your helper is Mission Control.",
      "adult": true,
-     "parent": "Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. Swap roles after the three rounds so both children, or both you and your child, play each part.",
+     "parent": "Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. With one child, the grown-up plays the other part. With 3 or 4 children, add an observer who keeps the tally and a second Mission Control who writes the plan together with the first. Swap roles after the three rounds so both children, or both you and your child, play each part. The real time ranges from about 4 to 24 minutes each way, depending on where the planets are.",
      "context": "This is the first step of Drive a Rover. You set up the course and the rules."
     },
     {
@@ -1481,11 +1486,11 @@
      "qty": 1
     },
     {
-     "item": "3 steel nuts or washers (not sharp nails), for the iron core",
+     "item": "3 steel nuts or washers, or 3 one-rupee coins or small iron screws (not sharp nails), for the iron core",
      "qty": 3
     },
     {
-     "item": "3 tablespoons of dry sand, fine gravel or garden soil, for the rock",
+     "item": "3 tablespoons of dry sand or fine gravel, for the rock (garden soil also works but keeps the water muddy for a long time)",
      "qty": 1
     },
     {
@@ -1551,16 +1556,16 @@
      "say": "Everything goes in. Close the lid tight. Now shake it hard, like a young planet churning when it was hot and soft.",
      "kid": "Put everything in the jar. Close the lid. Shake hard for 20 seconds.",
      "adult": true,
-     "parent": "Use a plastic bottle or a strong jar, not thin glass, because the nuts knock against the sides. Do not drink or taste anything in it, and wipe up any spilled oil, which is slippery. Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.",
+     "parent": "Use a plastic bottle or a strong jar, not thin glass, because the nuts knock against the sides. A plastic bottle is the safest choice. Do not drink or taste anything in it, and wipe up any spilled oil, which is slippery. Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.",
      "context": "In this step you mix everything up in the jar."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Label the layers from the bottom to the top.",
+     "do": "Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Write the minute when the nuts land, the sand settles and the oil clears. Label the layers from the bottom to the top.",
      "say": "Watch carefully. What is happening to the nuts? To the sand? To the oil? What order are the layers in?",
      "kid": "Watch the jar. Draw it after 1 minute. Draw it again after 5. Draw it again after 10.",
-     "parent": "The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. If the oil stays cloudy after 10 minutes, wait a little longer.",
+     "parent": "The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. Working alone: you shake and draw, your grown-up keeps time. With 2 to 4 children: give each child their own bottle and compare how fast each layer settles, or let each child try a different material. If the oil stays cloudy after 10 minutes, wait a little longer.",
      "check": {
       "t": "mcq",
       "q": "After settling, which layer was at the bottom of the jar, and which was at the top?",
@@ -1610,11 +1615,11 @@
    "mins": 70,
    "materials": [
     {
-     "item": "atta dough or clay in 4 colours: red, yellow, brown and blue (colour the dough with turmeric, beetroot juice, cocoa and a drop of food colour), about 200 grams for the Earth and 500 grams more for Jupiter",
+     "item": "atta dough or clay in 4 colours: red, yellow, brown and blue (make a stiff dough of flour, a pinch of salt and a little water, and colour it with turmeric, beetroot juice, cocoa and a drop of blue food colour from a baker or grocer; turmeric stains hands and clothes), about 200 grams for the Earth and 500 grams more for Jupiter",
      "qty": 1
     },
     {
-     "item": "a plastic knife and a ruler",
+     "item": "a plastic knife, a ruler, a length of dental floss or thread, and cling film or a plastic bag",
      "qty": 1
     },
     {
@@ -1677,20 +1682,20 @@
     {
      "id": "s2",
      "mins": 35,
-     "do": "Roll a yellow ball 1.2 centimetres wide for the solid inner core. Wrap it in red dough until the ball is 3.5 centimetres wide, for the liquid outer core. Wrap that in brown dough until the whole ball is 6.4 centimetres wide, for the mantle. Press a thin skin of blue dough over the whole ball, for the crust and the oceans. Wrap it and leave it overnight.",
+     "do": "Roll a yellow ball 1.2 centimetres wide for the solid inner core. Wrap it in red dough until the ball is 3.5 centimetres wide, for the liquid outer core. Wrap that in brown dough until the whole ball is 6.4 centimetres wide, for the mantle. Press a thin skin of blue dough over the whole ball, for the crust and the oceans. Wrap it in cling film or a plastic bag and leave it overnight. In damp or hot weather keep it in the fridge so it does not turn sticky or sour.",
      "say": "Layer by layer. The inner core is the yellow ball, solid iron. The outer core is red, liquid iron. The mantle is the brown layer, hot rock. The crust is thinner than a coat of paint at this scale. Measure each layer with the ruler.",
      "kid": "Make the yellow ball. Wrap it in red. Wrap that in brown. Measure each size.",
      "wait": "Leave the dough to rest overnight, wrapped in a cloth.",
-     "parent": "The dough is for modelling, not eating. If anyone is allergic to wheat, use clay instead. At this scale the real crust is less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres."
+     "parent": "The dough is for modelling, not eating. If anyone is allergic to wheat, use clay instead. At this scale the real crust is typically less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "Next day, cut the Earth in half with the plastic knife. Look at the layers. Measure each layer's thickness. Then make a Jupiter 11 times as wide as the Earth, which is 70 centimetres in this scale. That is too big. Make a smaller Jupiter from a ball of dough the size of a grapefruit, and label it 'not to scale'.",
+     "do": "Next day, chill the Earth in the fridge for 30 minutes if it is soft. Then cut it in half by pulling dental floss or thread through it, or with a plastic knife. Look at the layers. Measure each layer's thickness. Then make a Jupiter 11 times as wide as the Earth, which is 70 centimetres in this scale. That is too big. Make a smaller Jupiter from a ball of dough the size of a grapefruit, and label it 'not to scale'.",
      "say": "Here are the layers of our Earth. Look at the thick mantle. Look at the small core. Jupiter at this scale would be 70 centimetres wide, as big as a large beach ball. We cannot make that, so ours is not to scale.",
      "kid": "Cut the Earth in half. Look at the layers. Make a Jupiter. It will not be to scale.",
      "adult": true,
-     "parent": "A grown-up cuts with the plastic knife. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas, below that hydrogen squeezed so hard it acts like a metal, and a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.",
+     "parent": "A grown-up cuts. Working alone with a grown-up: you build, they cut. With 2 to 4 children: one child builds the Earth, another the Jupiter, and others measure and label; swap for the drawing. The layers may smear when cut; that is normal, so measure from the cut face and not from the colours alone. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas, below that hydrogen squeezed so hard it acts like a metal, and a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.",
      "check": {
       "t": "mcq",
       "q": "In the cut-open Earth, which layer is the thickest?",
@@ -2932,7 +2937,7 @@
    "id": "b-clay",
    "item": "A pack of modelling clay in four colours",
    "kind": "material",
-   "why": "For the Cut-Open Planets project, if you prefer clay to atta dough. It keeps its shape for weeks.",
+   "why": "For the Cut-Open Planets project, if you prefer clay to atta dough or have a wheat allergy. One small pack is enough for the Earth; Jupiter can be a smaller lump of the same clay, labelled not to scale. It keeps its shape for weeks.",
    "url": "https://www.amazon.in/s?k=modelling+clay+for+kids",
    "used_in": [
     "p1"

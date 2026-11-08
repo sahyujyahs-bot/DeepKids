@@ -245,7 +245,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - **question:** When a marble is dropped from higher up, how much wider is the crater it digs? And when one crater lands on another, how can you tell which came first?
 - **predict:** Before you start, guess. If you drop a marble from 8 times as high, will the crater be 8 times as wide, about twice as wide, or only a little wider? Why do you think so?
 - **fair test:** Use the same marble, the same tray, and flour of the same depth, smoothed flat before every drop. Drop the marble gently from a measured height, never throw it. Only the drop height changes, so any change in the crater comes from the height. Drop three times from each height, because one drop can be a fluke.
-- **safety:** Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them. Wheat flour is a problem for anyone allergic to wheat or gluten: use rice flour or fine dry sand instead, and wash hands afterwards. Do not eat the flour or cocoa from the tray.
+- **safety:** Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them. Wheat flour is a problem for anyone allergic to wheat or gluten: use rice flour or fine dry sand instead, and wash hands afterwards. If the flour is damp or lumpy, dry it in the sun and sift it first. Do not eat the flour or cocoa from the tray.
 - **record:** Fill in the results table. Then draw a bar chart with one bar for each height, using the average width. Sketch the three overlapping craters and write which came first.
 - **results table:** Drop height (cm) | Width of crater 1 (cm) | Width of crater 2 (cm) | Width of crater 3 (cm) | Average width (cm)
 - **s1 (4 min)**  
@@ -263,7 +263,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Parent does:* Stand a metre scale beside the tray. Hold the marble at 10 centimetres above the flour and let go. Lay the ruler across the crater and read its width from rim to rim. Lift the marble out with a spoon. Smooth the flour, dust it again, and repeat. Do 3 drops at 10 centimetres, then 3 at 20, 3 at 40 and 3 at 80.  
   *Parent says:* Hold the marble high, then let it go. Do not push it. Read the width across the middle. Write the number down. Then smooth the flour again.  
   *Child mode:* Drop the marble from 10 centimetres. Measure the crater. Smooth the flour. Do it three times.
-  - Note: Expect the craters to grow slowly. At 10 centimetres you may see about 3 centimetres wide, and at 80 centimetres about 4.5. Your numbers may differ by a centimetre or so. What matters is the pattern. Measure from the top of the rim on one side to the top of the rim on the other.
+  - Note: Working alone with a grown-up: you drop and measure, they smooth the flour and write the numbers. With 2 to 4 children: one drops, one measures, one smooths and dusts, one writes, and swap after each height; each pair of children can run its own tray if you have two. Expect the craters to grow slowly. At 10 centimetres you may see about 3 centimetres wide, and at 80 centimetres about 4.5. Your numbers may differ by a centimetre or so. What matters is the pattern. Typical results only: your numbers may differ, and a damp tray or a different marble will change them. Measure from the top of the rim on one side to the top of the rim on the other.
   - Check: A marble dropped from 8 times as high made a crater only about one and a half times as wide. What does this tell you? → **Crater width grows with the speed of the hit, but much more slowly**
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* Smooth and dust the flour again. Turn your back. Your grown-up drops the marble three times in three nearby spots from the same height, so each crater overlaps the one before. They keep the order secret. Now turn round and look at the craters. Decide which came first, second and third.  
@@ -285,7 +285,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 ### e2 · Two Tumblers in the Sun: does a lid make a hotter world? (35 min)
 - **question:** Does ice melt faster in a tumbler with a clear lid than in an open tumbler, when both sit in the same sunshine?
 - **predict:** Before you start, guess. Two tumblers with ice sit in the sun, one open and one covered with clear film. Which ice will melt first? Why do you think so?
-- **fair test:** Use two tumblers of the same kind, the same number of ice cubes of the same size from the same tray, and the same dark paper under each. Put them side by side in the same sunny spot, at the same time. Only the lid changes. Check every 5 minutes with the same clock.
+- **fair test:** Use two tumblers of the same kind, the same number of ice cubes of the same size from the same tray, and the same dark paper under each. Put them side by side in the same sunny spot, at the same time. Only the lid changes. Check every 5 minutes with the same clock, and also note the minute the last piece of ice disappears in each tumbler.
 - **safety:** A grown-up comes along if the test is on a balcony or terrace. Keep tumblers away from the edge. Do not touch a tumbler that has been in strong sun without checking that it is not hot. Plastic tumblers are safer than glass. Never look straight at the Sun.
 - **record:** Fill in the results table. Draw the two tumblers at the end of the test. Write which melted first and by how many minutes.
 - **results table:** Minutes in the sun | Open tumbler: how much ice is left? (all, half, little, none) | Covered tumbler: how much ice is left? (all, half, little, none)
@@ -296,25 +296,26 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   - Ask: Why do you think that one will melt first? (good: The lid keeps the heat in.; The open one has more air going past it.; They will melt at the same time, because the sun is the same.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min)**  
-  *Parent does:* Stand the two tumblers on the black paper. Put two ice cubes in each. Stretch cling film over one tumbler. Hold it with a rubber band. Carry both to the sunny spot together.  
+  *Parent does:* Stand the two tumblers on the black paper. Put three ice cubes in each. Stretch cling film over one tumbler. Hold it with a rubber band. Carry both to the sunny spot together.  
   *Parent says:* The black paper soaks up sunlight, so the tumblers get a good share of it. The film is our blanket of air. Carry them out together, side by side.  
   *Child mode:* Put ice in both tumblers. Cover one with film. Carry both into the sun.
-  - Note: Take the ice straight from the freezer and set up quickly, so the ice has not already started melting. Place the tumblers an arm's length apart, so one does not shade the other.
+  - Note: Take the ice straight from the freezer and set up quickly, so the ice has not already started melting. Place the tumblers an arm's length apart, so one does not shade the other. Working alone: you watch both tumblers and your grown-up keeps time. With 2 to 4 children: one child looks after each tumbler, one keeps the clock and one writes. Two tumblers are enough for any group.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Start the timer. Every 5 minutes, look at both tumblers. Write down how much ice is left in each: all, half, little or none. Keep going until the ice in both has melted, or until 30 minutes have passed.  
   *Parent says:* Look closely at both tumblers. How much ice is left in each? Write it down. We check again in 5 minutes.  
   *Child mode:* Every 5 minutes, look at both. How much ice is left? Write it down.
-  - Note: Expect the ice in the covered tumbler to melt a little sooner, often by a few minutes. If both seem equal, repeat the test with 3 cubes each, or on a hotter, sunnier day. If there is no direct sun today, try another day. The result can be small, and a small difference is still a finding.
+  - Note: Expect the ice in the covered tumbler to melt a little sooner, often by a few minutes. If both seem equal, repeat the test with 4 cubes each, or on a hotter, sunnier day. A cloudy or rainy day will not work, so choose a bright day around noon. Droplets inside the film are normal. If the covered ice melts later, say so honestly, and check that the film did not touch the ice or shade it. If there is no direct sun today, try another day. The result can be small, and a small difference is still a finding.
 - **s4 (6 min)**  
-  *Parent does:* If you have a thermometer, push its tip into the air space of each tumbler. Do not touch the ice. Read the number and write it down. Then talk about what you saw.  
+  *Parent does:* If you have a fever thermometer, wait until the ice has gone. Then push its tip into the air space of each tumbler. Read the number and write it down. Then talk about what you saw.  
   *Parent says:* Which melted first? How much sooner? Is that enough to be sure, or could it be a fluke? How could we find out?  
   *Child mode:* Which ice melted first? By how many minutes? Could we try it again?
+  - Note:  A digital fever thermometer reads only above about 32 degrees Celsius. Stop if it shows HI.
   - Check: The ice in the covered tumbler melted sooner. What is the best reason? → **The film kept the warm air from escaping, so the air inside got hotter**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write what I think, what I saw, and why. Then tell your child how this is like Venus.  
   *Parent says:* Tell me three things. What do you think now? What did you see? Why do you think it happened? Venus is like the covered tumbler, with a thick blanket of air round it.  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: a cover makes things warmer. What I saw: the covered tumbler's ice melted first, by about 5 minutes. Why: the film stopped warm air from leaving. Be honest that this is only a model. A lid stops warm air from rising away. On Venus, the gas carbon dioxide slows down heat rays on their way out. The two work differently in detail, but both act like a blanket.
+  - Note: A good answer sounds like this. What I think: a cover makes things warmer. What I saw: the covered tumbler's ice melted first, by a few minutes (your gap may be larger or smaller). Why: the film stopped warm air from leaving. Be honest that this is only a model. A lid stops warm air from rising away. On Venus, the gas carbon dioxide slows down heat rays on their way out. The two work differently in detail, but both act like a blanket.
 
 ## Activities
 ### a1 · Walk the Solar System: the Sun is a disc 14 centimetres wide (30 min)
@@ -329,13 +330,13 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Parent does:* Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape and measure how far you went. Divide by 10 to find the length of one step.  
   *Parent says:* In this model, 1 millimetre stands for 10,000 kilometres. So the Sun is 14 centimetres, the Earth is about 1 millimetre, and Jupiter is 14 millimetres. Now find how long your step is.  
   *Child mode:* Make the Sun and the planets. Walk 10 steps. Measure. Divide by 10 for one step.
-  - Note: A grown-up helps with the scissors. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.
+  - Note: A grown-up helps with the scissors. Working alone with a grown-up: you walk and count, they tape the planets down. With 2 to 4 children: one walks and counts steps, one holds the tape, one places and labels the planets, one writes the table, and all take turns being the walker. Each child can make a different planet. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.
 - **s3 (12 min)**  
   *Parent does:* Put the Sun disc at one end of the corridor. Walk away from it and count your steps. Tape down Mercury at 5.8 metres, Venus at 10.8, the Earth at 15 and Mars at 22.8. Then look back at the Sun from Mars. Write the steps in the table.  
   *Parent says:* At 50 centimetres a step, Mercury is about 12 steps away. Venus is about 22, the Earth about 30 and Mars about 46. Look back at the Sun from Mars. How big does it look? Can you see the seed?  
   *Child mode:* Walk out from the Sun. Tape the planets down at their distances. Look back at the Sun.
   - Ask: What surprised you about the space between the planets? (good: How far apart they are.; How tiny the planets are next to the Sun.; That there is nothing but empty floor in between.)
-  - Note: If your corridor is shorter than 25 metres, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one. Go with a grown-up, stay off the road and away from traffic.
+  - Note: Most homes are shorter than 25 metres, so a terrace, a school ground, a park path or a flat roof is better than a corridor. If you only have a short corridor, do Mercury, Venus and the Earth, and calculate Mars. For the outer planets, the distances are Jupiter 78 metres, Saturn 143 metres, Uranus 287 metres and Neptune 450 metres. That is like 4 cricket pitches to Jupiter, and about 4 football grounds in a row to Neptune. A walk along a quiet road or a school ground works if you have one. Go with a grown-up, stay off the road and away from traffic.
 - **s4 (5 min)**  
   *Parent does:* Show your child the next idea. The Earth is 15 metres from the Sun in this model. Tell your child the nearest star after the Sun would be about 4,000 kilometres away. Ask where that would be, using a map of India.  
   *Parent says:* In this model the nearest other star is about 4,000 kilometres away. India is about 3,200 kilometres long, from Kashmir to Kanyakumari. So that star is further than the whole length of India. What is in all that space?  
@@ -353,7 +354,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Parent says:* The Earth is 1 unit from the Sun and has a year of 1. Jupiter is about 5 times as far. Will its year be 5 times as long? Why do you think so?  
   *Child mode:* Jupiter is 5 times as far as Earth. Is its year 5 times as long? Guess. Why?
   - Ask: Why do you think its year will be that long? (good: It goes 5 times as far, so it takes 5 times as long.; Its path is longer, and it moves slower, so it takes even longer.; It depends on how fast it moves.)
-  - Note: Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as the guess. Do not give this away yet.
+  - Note: Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as the guess. Do not give this away yet. Working alone: your child does all the sums. With 2 to 4 children: each child takes one planet for Test 1 and Test 2, then everyone shares answers on one table; only one phone calculator is needed. Nothing here needs more than a calculator and paper.
 - **s2 (8 min)**  
   *Parent does:* Test 1. For Mars, Jupiter and Saturn, divide the year by the distance on the calculator. Write the three answers in the table. Look to see if they are the same.  
   *Parent says:* If the year were just in step with the distance, dividing one by the other would give the same number each time. Mars gives 1.24. What do Jupiter and Saturn give?  
@@ -361,7 +362,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   - Note: Expect about 1.24 for Mars, 2.28 for Jupiter and 3.09 for Saturn. They are not the same. So the first idea fails. This is fine. Scientists often find that their first idea does not work, and that is how they learn.
   - Check: Dividing the year by the distance gave 1.24, 2.28 and 3.09. What does this show? → **The year is not simply in step with the distance, so the rule must be something else**
 - **s3 (10 min)**  
-  *Parent does:* Test 2. For each planet, multiply the distance by itself three times. Then multiply the year by itself once. Write both answers side by side. For the Earth both are 1. Compare the two numbers for Mars, Jupiter and Saturn.  
+  *Parent does:* Test 2. For each planet, multiply the distance by itself three times (for Mars, 1.52 x 1.52 x 1.52). Then multiply the year by itself once. Write both answers side by side. For the Earth both are 1. Compare the two numbers for Mars, Jupiter and Saturn.  
   *Parent says:* Multiply the distance by itself three times. For Mars, 1.52 times 1.52 times 1.52 gives about 3.5. Now multiply its year, 1.88, by itself. What do you get? Is it close?  
   *Child mode:* Distance times distance times distance. Year times year. Do the two numbers match?
   - Ask: What do you notice about the two numbers for each planet? (good: They are almost the same.; The year squared matches the distance cubed.; The rule works for every planet.)
@@ -370,7 +371,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Parent does:* Give your child the distance of Ceres, 2.77 AU. Ask them to cube it and then find a number that multiplied by itself gives the same answer. Let them try by guess and check.  
   *Parent says:* Ceres is a small world in the asteroid belt. It is 2.77 units from the Sun. Cube that number. What number times itself makes the same answer? That should be its year.  
   *Child mode:* Ceres is 2.77 units out. Cube it. Find a number that times itself gives your answer.
-  - Note: 2.77 cubed is about 21.25. Try 4 times 4, which is 16, then 4.5 times 4.5, which is 20.25, then 4.6 times 4.6, which is 21.16. So the year is about 4.6 Earth years, and that is Ceres's real year. Your child has just predicted something about a world nobody has visited with this rule.
+  - Note: 2.77 cubed is about 21.25. Try 4 times 4, which is 16, then 4.5 times 4.5, which is 20.25, then 4.6 times 4.6, which is 21.16. So the year is about 4.6 Earth years, and that is Ceres's real year. Your child has just predicted something about a world far away with just a pencil and one rule. A spacecraft, Dawn, later visited Ceres and its year agrees.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why.  
   *Parent says:* Tell me three things. What do you think now? What did you find in the numbers? And why do you think the rule works for every planet?  
@@ -379,10 +380,10 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 ### a3 · Drive a Rover from Far Away: messages that take 25 minutes (25 min)
 - **record:** A table of the three rounds, with the number of messages, the Mars minutes used and the number of bumps. Write which round was best and why.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* Lay out the course with six cushions between a start line and the spoon, which are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way, so each message and its reply cost about 25 minutes. This is the Mars minutes tally.  
+  *Parent does:* Lay out the course with six cushions between a start line and the spoon, which are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way on average. Each message and its reply cost about 25 minutes in this game. This is the Mars minutes tally.  
   *Parent says:* A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.  
   *Child mode:* You are the rover on Mars. Close your eyes. Your helper is Mission Control.
-  - Note: Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. Swap roles after the three rounds so both children, or both you and your child, play each part.
+  - Note: Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. With one child, the grown-up plays the other part. With 3 or 4 children, add an observer who keeps the tally and a second Mission Control who writes the plan together with the first. Swap roles after the three rounds so both children, or both you and your child, play each part. The real time ranges from about 4 to 24 minutes each way, depending on where the planets are.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Round 1. The rover stands at the start with eyes closed. Mission Control gives one command at a time, such as forward 2 steps, or turn right. Each command is one message. Write a tally mark for every command. Multiply the marks by 25 for the Mars minutes. Write down the bumps.  
   *Parent says:* Give one command at a time. Wait for the rover to finish before the next. Mark a tally for every message. How many Mars minutes did we use before the rover got to the spoon?  
@@ -411,12 +412,12 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Parent does:* Put the nuts and the sand into the jar. Pour in water until the jar is three-quarters full. Add the oil. Screw the lid on tight. Shake the jar hard for 20 seconds.  
   *Parent says:* Everything goes in. Close the lid tight. Now shake it hard, like a young planet churning when it was hot and soft.  
   *Child mode:* Put everything in the jar. Close the lid. Shake hard for 20 seconds.
-  - Note: Use a plastic bottle or a strong jar, not thin glass, because the nuts knock against the sides. Do not drink or taste anything in it, and wipe up any spilled oil, which is slippery. Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.
+  - Note: Use a plastic bottle or a strong jar, not thin glass, because the nuts knock against the sides. A plastic bottle is the safest choice. Do not drink or taste anything in it, and wipe up any spilled oil, which is slippery. Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.
 - **s3 (10 min)**  
-  *Parent does:* Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Label the layers from the bottom to the top.  
+  *Parent does:* Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Write the minute when the nuts land, the sand settles and the oil clears. Label the layers from the bottom to the top.  
   *Parent says:* Watch carefully. What is happening to the nuts? To the sand? To the oil? What order are the layers in?  
   *Child mode:* Watch the jar. Draw it after 1 minute. Draw it again after 5. Draw it again after 10.
-  - Note: The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. If the oil stays cloudy after 10 minutes, wait a little longer.
+  - Note: The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. Working alone: you shake and draw, your grown-up keeps time. With 2 to 4 children: give each child their own bottle and compare how fast each layer settles, or let each child try a different material. If the oil stays cloudy after 10 minutes, wait a little longer.
   - Check: After settling, which layer was at the bottom of the jar, and which was at the top? → **The steel nuts at the bottom and the oil at the top**
 - **s4 (5 min)**  
   *Parent does:* Draw the Earth with its core, mantle, oceans and air next to your jar. Match each layer of the jar to a layer of the Earth. Then talk about what the model leaves out.  
@@ -441,16 +442,16 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   - Ask: Why do you think that layer is the thickest? (good: The mantle is the biggest, because rock is most of the Earth.; The core, because it is the heaviest part.; The crust, because we can see it.)
   - Note: The answer is the mantle, which is about 2,900 kilometres thick. The Earth ball will be 6.4 centimetres wide, a little smaller than a cricket ball.
 - **s2 (35 min)**  
-  *Parent does:* Roll a yellow ball 1.2 centimetres wide for the solid inner core. Wrap it in red dough until the ball is 3.5 centimetres wide, for the liquid outer core. Wrap that in brown dough until the whole ball is 6.4 centimetres wide, for the mantle. Press a thin skin of blue dough over the whole ball, for the crust and the oceans. Wrap it and leave it overnight.  
+  *Parent does:* Roll a yellow ball 1.2 centimetres wide for the solid inner core. Wrap it in red dough until the ball is 3.5 centimetres wide, for the liquid outer core. Wrap that in brown dough until the whole ball is 6.4 centimetres wide, for the mantle. Press a thin skin of blue dough over the whole ball, for the crust and the oceans. Wrap it in cling film or a plastic bag and leave it overnight. In damp or hot weather keep it in the fridge so it does not turn sticky or sour.  
   *Parent says:* Layer by layer. The inner core is the yellow ball, solid iron. The outer core is red, liquid iron. The mantle is the brown layer, hot rock. The crust is thinner than a coat of paint at this scale. Measure each layer with the ruler.  
   *Child mode:* Make the yellow ball. Wrap it in red. Wrap that in brown. Measure each size.
-  - Note: The dough is for modelling, not eating. If anyone is allergic to wheat, use clay instead. At this scale the real crust is less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres.
+  - Note: The dough is for modelling, not eating. If anyone is allergic to wheat, use clay instead. At this scale the real crust is typically less than a fifth of a millimetre thick. A skin of paint is far too thick, so tell your child the crust is thinner than the thinnest layer you can make. The numbers: inner core 1.2 centimetres wide, whole core 3.5 centimetres, whole planet 6.4 centimetres.
   - Wait: Leave the dough to rest overnight, wrapped in a cloth.
 - **s3 (15 min) · grown-up needed**  
-  *Parent does:* Next day, cut the Earth in half with the plastic knife. Look at the layers. Measure each layer's thickness. Then make a Jupiter 11 times as wide as the Earth, which is 70 centimetres in this scale. That is too big. Make a smaller Jupiter from a ball of dough the size of a grapefruit, and label it 'not to scale'.  
+  *Parent does:* Next day, chill the Earth in the fridge for 30 minutes if it is soft. Then cut it in half by pulling dental floss or thread through it, or with a plastic knife. Look at the layers. Measure each layer's thickness. Then make a Jupiter 11 times as wide as the Earth, which is 70 centimetres in this scale. That is too big. Make a smaller Jupiter from a ball of dough the size of a grapefruit, and label it 'not to scale'.  
   *Parent says:* Here are the layers of our Earth. Look at the thick mantle. Look at the small core. Jupiter at this scale would be 70 centimetres wide, as big as a large beach ball. We cannot make that, so ours is not to scale.  
   *Child mode:* Cut the Earth in half. Look at the layers. Make a Jupiter. It will not be to scale.
-  - Note: A grown-up cuts with the plastic knife. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas, below that hydrogen squeezed so hard it acts like a metal, and a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.
+  - Note: A grown-up cuts. Working alone with a grown-up: you build, they cut. With 2 to 4 children: one child builds the Earth, another the Jupiter, and others measure and label; swap for the drawing. The layers may smear when cut; that is normal, so measure from the cut face and not from the colours alone. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas, below that hydrogen squeezed so hard it acts like a metal, and a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.
   - Check: In the cut-open Earth, which layer is the thickest? → **The mantle**
 - **s4 (15 min)**  
   *Parent does:* Put flags on each layer with its name. Draw both planets with labels. Write one sentence under each saying what is known and what is an idea. Show your planets to someone at home.  
@@ -723,7 +724,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Things to buy
 - [A pack of glass marbles, about 1.5 centimetres across](https://www.amazon.in/s?k=glass+marbles+pack) (material): For the Crater Tray test. A pack from a toy shop is enough, and one marble is all you need. Keep them away from children under five. Used in e1. 
-- [A pack of modelling clay in four colours](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Cut-Open Planets project, if you prefer clay to atta dough. It keeps its shape for weeks. Used in p1. 
+- [A pack of modelling clay in four colours](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Cut-Open Planets project, if you prefer clay to atta dough or have a wheat allergy. One small pack is enough for the Earth; Jupiter can be a smaller lump of the same clay, labelled not to scale. It keeps its shape for weeks. Used in p1. 
 
 ## Warm-up
 - What are the two kinds of planet in the solar system? → Rocky planets with solid ground, and giant planets with none.

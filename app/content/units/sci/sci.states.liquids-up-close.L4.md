@@ -47,7 +47,7 @@ The particles of a liquid are packed about as close as in a solid, but they are 
 
 Stand on one foot and then on two. Your weight is the same, but on one foot it is pressed on a smaller area, so the pressure on the floor is bigger. A pin has a tiny point, so your thumb pushes it into a board easily. A flat thumb on the board does nothing. Scientists measure pressure as force divided by area. A camel has wide feet, so the pressure on the sand is small and the camel does not sink. A nail on a bed of nails has the same force spread over hundreds of points.
 - e.g. A sharp knife cuts better than a blunt one, because the edge is thin.
-- e.g. A camel's wide feet spread its weight and stop it sinking into the sand.
+- e.g. A camel's wide feet spread her weight and stop her sinking into the sand.
 - e.g. A tractor with wide tyres sinks less in a wet paddy field than a tractor with narrow tyres.
 ### Water pushes on everything it touches, in every direction · *defined*
 **Definition:** Water pushes on every surface it touches. The push is sideways on a wall, upwards under a boat and downwards on the bottom. It is always at a right angle to the surface.
@@ -130,7 +130,7 @@ A siphon is a tube that empties a container over its rim. Fill the tube with wat
 - The pressure at the bottom of the deepest ocean trenches is more than a thousand times the pressure at the surface, and living things are found there. *How we know:* Instruments and sampling vehicles sent to the deepest trench have measured the pressure and found animals living at great depths.
 
 ## How we found out
-**Simon Stevin, a Flemish engineer, and Blaise Pascal, a French thinker, 1586 (Stevin) and the 1640s to the 1650s (Pascal).** For a long time, people thought that more water must push harder at the bottom. A wide lake, they said, must press on its bed far harder than a bucket does. In 1586, a Flemish engineer named Simon Stevin reasoned and showed that this is not so. The push on the bottom depends on how deep the water is, and not on how much water there is or on the shape of the vessel. More than sixty years later, the French thinker Blaise Pascal went further. He showed that a push on a liquid in a closed container goes out equally in every direction. A famous story says that Pascal fixed a long thin tube to a sealed barrel of water and poured a few cups of water into the tube. The barrel is said to have burst. The story may be a legend, but the physics is right: a tall thin tube of water pushes on its bottom as much as a tall wide tank does.  
+**Simon Stevin, a Flemish engineer, and Blaise Pascal, a French thinker, 1586 (Stevin) and the 1640s to the 1650s (Pascal).** For a long time, people thought that more water must push harder at the bottom. A wide lake, they said, must press on its bed far harder than a bucket does. In 1586, a Flemish engineer named Simon Stevin reasoned and showed that this is not so. The push on the bottom depends on how deep the water is, and not on how much water there is or on the shape of the vessel. About sixty years later, the French thinker Blaise Pascal went further. He showed that a push on a liquid in a closed container goes out equally in every direction. A famous story says that Pascal fixed a long thin tube to a sealed barrel of water and poured a few cups of water into the tube. The barrel is said to have burst. The story may be a legend, but the physics is right: a tall thin tube of water pushes on its bottom as much as a tall wide tank does.  
 *What people believed before:* People thought that a bigger amount of water, or a wider container, must push harder at the bottom. Stevin and Pascal showed that only the depth matters, and that a push on a closed liquid goes everywhere equally.
 
 ## Challenging perspectives
@@ -151,7 +151,7 @@ A siphon is a tube that empties a container over its rim. Fill the tube with wat
   Against: The jet cannot rise above the level of the water that feeds it, apart from small splashes. All the push comes from the height of that water. A fountain that goes higher needs a pump or a higher tank.
 - **Nature hates empty space, so a pump can lift water to any height.** (Many scholars before the 1640s; *rejected*)  
   For: A pump sucks, and water follows to fill the space.  
-  Against: Well-diggers found that pumps could not lift water higher than about 10 metres. In 1643, Evangelista Torricelli explained this by the push of the air. The air pushes the water up, and the push is only enough to hold up a column of about 10 metres.
+  Against: Well-diggers found that pumps could not lift water higher than about 10 metres. In the 1640s, Evangelista Torricelli explained this by the push of the air. The air pushes the water up, and the push is only enough to hold up a column of about 10 metres.
 - **A dam wall can be the same thickness all the way down.** (Some people; *rejected*)  
   For: A wall looks strong enough if it is strong enough at the top.  
   Against: The push of water grows with depth. At the bottom of a tall dam, it is far bigger than at the top. A wall must be much thicker there, or it would break.
@@ -280,7 +280,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **question:** A bottle has three holes of the same size, at three different heights. When the water squirts out, which hole sends its jet farthest, and which sends it the shortest distance?
 - **predict:** Before you start, guess. Which hole will squirt the farthest, the top one, the middle one or the bottom one? Which will squirt the shortest distance? Why do you think so?
 - **fair test:** You use one bottle, with three holes made by the same tool, so they are the same size. The water starts at the same line each time, and you keep it there by topping up from a jug. The bottle stands on the same stool each time, and you peel off all three tapes at the same moment. Only the height of the hole changes, so any difference in the jets comes from the height.
-- **safety:** A grown-up makes the holes, by pushing the compass point or nail away from the body into the bottle on a folded cloth. Wet floors are slippery. Wipe up water at once. Keep water away from electric sockets and switches.
+- **safety:** A grown-up makes the holes, by pushing the compass point or nail away from the body into the bottle on a folded cloth. Keep fingers behind the point. Wet floors are slippery. Wipe up water at once. Keep water away from electric sockets and switches.
 - **record:** Fill in the table with the three results for each hole. Then draw the bottle with its three jets and show where each one landed.
 - **results table:** Hole | Height of the hole above the base of the bottle (cm) | Depth of the hole below the water line (cm) | Where the jet landed, measured from the foot of the stool (cm)
 - **s1 (5 min)**  
@@ -293,20 +293,20 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Parent does:* 1. Mark three spots in a vertical line on the bottle, at 4, 10 and 16 centimetres above the base. 2. A grown-up pushes the compass point or nail through each spot to make a hole. 3. Cover each hole with tape. 4. Mark a water line at 22 centimetres above the base.  
   *Parent says:* A grown-up will make three small holes in a straight line. Then you cover each hole with tape on the outside. Then we mark the water line.  
   *Child mode:* A grown-up makes three holes. Cover each with tape. Mark the water line.
-  - Note: Make all three holes with the same tool, so they are the same size, about 2 millimetres. If the holes are different sizes, the test is not fair. If the straight part of your bottle is shorter than 22 centimetres, put the water line 2 centimetres below where the bottle starts to narrow, and work out each depth as the water line minus the height of the hole.
+  - Note: Make all three holes with the same tool, so they are the same size, about 2 millimetres. Measure the heights from the surface the bottle stands on. If the bottom of your bottle is bumpy or curved, start the lowest hole above the curve, so it does not squirt onto the bottle's own feet. If the holes are different sizes, the test is not fair. If the straight part of your bottle is shorter than 22 centimetres, put the water line 2 centimetres below where the bottle starts to narrow, and work out each depth as the water line minus the height of the hole.
 - **s3 (6 min)**  
   *Parent does:* 1. Put the stool in the bathroom, or on a balcony. 2. Lay the tape measure on the floor along a straight line from the foot of the stool. 3. Stand the bottle on the edge of the stool, with the holes facing the tape measure.  
   *Parent says:* Put the stool where water can drain away. Lay the tape measure on the floor, straight out from the stool. Stand the bottle on the edge, with the holes facing the tape.  
   *Child mode:* Put the stool in the bathroom. Lay the tape on the floor. Stand the bottle on it.
   - Note: The stool matters. If the bottle stands on the floor, the lowest jet has no room to fall, and lands short. A 40 centimetre stool gives every jet room to fall.
 - **s4 (8 min)**  
-  *Parent does:* 1. Fill the bottle to the 22 centimetre line. 2. One person peels all three pieces of tape off at the same moment. 3. A second person pours from the jug to keep the water at the line. 4. A third person watches and marks where each jet first lands.  
+  *Parent does:* 1. Fill the bottle to the 22 centimetre line. 2. One person peels off the tape in one quick pull. 3. Another person pours from the jug. 4. Watch where each jet lands. Mark the wet spots. One child and a parent: the child peels and watches, the parent pours. Two to four children: one peels, one pours, one marks, one measures.  
   *Parent says:* Fill the bottle to the line. Peel all three tapes off together. Keep pouring to hold the water at the line. Watch where each jet lands.  
   *Child mode:* Peel the tapes off together. Watch where the jets land. Mark the spots.
-  - Note: Wet marks on the newspaper show where each jet landed. Read the distance as quickly as you can. A phone video from the side also helps.
+  - Note: Wet marks on the newspaper show where each jet landed. The first jets are the ones to measure; in 5 seconds the level falls only about a centimetre, so topping up is a help, not a must. Read the distance as quickly as you can. Do the test again on a dry bottle with fresh tape: tape will not stick to a wet bottle. A phone video from the side also helps.
   - Wait: Look at the first five seconds of the jets. After that, the water level starts to fall.
 - **s5 (8 min)**  
-  *Parent does:* 1. Read each landing spot on the tape measure. 2. Write the distances in the table. 3. Refill, re-tape and repeat twice more. 4. Pick the middle number for each hole.  
+  *Parent does:* 1. Read each landing spot on the tape measure. 2. Write the distances in the table. 3. Dry the bottle with a cloth, put fresh tape on, refill and repeat twice more. 4. Pick the middle number for each hole.  
   *Parent says:* Read the distance for each jet. Write it in the table. Then do it two more times. Use the middle number for each hole.  
   *Child mode:* Read the three distances. Do it twice more. Use the middle number.
   - Note: If your results do not match, check that the holes are the same size, and that the water was kept at the line.
@@ -316,7 +316,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Parent says:* Now we try a lower water line. Peel off the tapes again. Are the jets longer or shorter? What do you think this tells us about the water above?  
   *Child mode:* Lower the water line. Test again. Are the jets longer or shorter?
   - Ask: What happened to the jets when the water was lower, and why? (good: They were shorter, because there was less water above each hole.; They were weaker, because the push was smaller.; The push depends on the depth of the water.)
-  - Note: The jets will be shorter, and the top hole may stop altogether if the water falls below it.
+  - Note: The jets will be shorter, and the top hole will stop altogether, because it is now above the water line. Dry the bottle and use fresh tape first. Measure the distances again and add them to the table, so you can compare the two water levels with numbers.
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
@@ -327,7 +327,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **question:** A clear hose full of water has one end at each of two spots on a wall, 3 metres apart. The water in the hose stands at some height at each end. Are the two heights the same? Does a wide funnel on one end change it? Does a bubble of air?
 - **predict:** Before you start, guess. Will the two marks be at the same height from the floor? Will the water stand higher in the wide funnel or in the thin end of the hose? Why do you think so?
 - **fair test:** You use the same hose, filled with the same coloured water, for every test. The two ends are held against the same wall, 3 metres apart, and you wait for the water to stop moving before you mark it. You measure the height of each mark from the floor in the same way. Only one thing changes in each test: a plain end, a funnel on one end, or a bubble in the hose.
-- **safety:** Keep water away from electric sockets and switches. Wipe up spills at once, because wet floors are slippery. Do not suck the hose to fill it. Fill it by dipping it in the bucket.
+- **safety:** Keep water away from electric sockets and switches. Wipe up spills at once, because wet floors are slippery. Do not suck the hose to fill it. Fill it by dipping it in the bucket. Do not drink the coloured water. Skip food colour if anyone at home is allergic to it, and note that haldi and ink stain clothes.
 - **record:** Fill in the table for the three tests. Then draw the wall, the hose, and the two marks, and write the height of each mark.
 - **results table:** Test | Mark 1, height from the floor (cm) | Mark 2, height from the floor (cm) | Difference between the marks (mm)
 - **s1 (5 min)**  
@@ -340,12 +340,12 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Parent does:* 1. Put a few drops of food colour in the bucket of water. 2. Push the whole hose under the water. 3. Hold it there until no bubbles come out of either end. 4. Pinch both ends with your thumbs and lift the hose out.  
   *Parent says:* Push the whole hose under the coloured water. Wait until no more bubbles come out. Keep both ends shut with your thumbs. Then lift it out.  
   *Child mode:* Push the whole hose under the water. Wait for no more bubbles.
-  - Note: Look along the hose against the light. Any bubble you can see will spoil the test. If there is a bubble, put the hose back under the water and try again.
+  - Note: Look along the hose against the light. Any bubble you can see will spoil the test. If there is a bubble, put the hose back under the water and try again. A hose that is too thin (under 6 millimetres) holds bubbles stubbornly. Coil the hose in the bucket, and wriggle it so bubbles rise out.
 - **s3 (8 min)**  
-  *Parent does:* 1. Each person holds one end of the hose upright against the wall, 3 metres apart. 2. Lift or lower the ends until the water stands a few centimetres below the top of the hose at each end. 3. Wait until the water stops moving. 4. Mark the water level on a piece of tape on the wall at each end.  
+  *Parent does:* 1. Hold both ends at the same height, with the middle hanging low. 2. Each person holds one end of the hose upright against the wall, 3 metres apart. 3. Lift or lower the ends until the water stands a few centimetres below the top of the hose at each end. 4. Wait until the water stops moving. 5. Mark the water level on a piece of tape on the wall at each end.  
   *Parent says:* Each of you holds one end against the wall. Move the ends up or down until the water stands near the top of each one. Wait for it to settle. Then mark the wall at the water.  
   *Child mode:* Hold the hose ends against the wall. Wait for the water to settle. Mark it.
-  - Note: Keep the ends of the hose upright, and keep the middle low. If the water runs out, lift your ends higher.
+  - Note: Keep the ends of the hose upright, and keep the middle low. If the water runs out, lift your ends higher. One child on their own can tape one end to the wall and hold the other. With 2 to 4 children, two hold the ends, one marks and one measures, and then swap.
   - Wait: The water may bob up and down for a few seconds. Wait until it is still.
 - **s4 (6 min)**  
   *Parent does:* 1. Measure the height of each mark from the floor with the tape measure. 2. Write the numbers in the table. 3. Work out the difference. 4. Ask your child what they notice.  
@@ -360,10 +360,10 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Ask: Is the water higher in the wide funnel or in the thin end, and why? (good: The same, because only the depth matters.; Higher in the wide funnel, because there is more water.; The same, because water finds its own level.)
   - Note: Many people guess that the wide funnel pushes harder because it holds more water. The levels will be nearly the same, within a few millimetres.
 - **s6 (6 min)**  
-  *Parent does:* 1. Let a bubble of air about 5 centimetres long into the middle of the hose. 2. Repeat the marking at both ends. 3. Measure the height of each mark and write the difference in the table.  
-  *Parent says:* Now we let a bubble into the hose, in the middle. Mark the wall again at both ends. Are the two marks still at the same height?  
+  *Parent does:* 1. Let a bubble about 5 centimetres long into the hose. 2. Slide it into the upright part, near one end. 3. Mark both ends again. 4. Measure the heights and write the difference in the table.  
+  *Parent says:* Now we let a bubble into the hose and slide it into the upright part, near one end. Mark the wall again at both ends. Are the two marks still at the same height?  
   *Child mode:* Let a bubble into the hose. Mark again. Are the marks still level?
-  - Note: The marks will be different, sometimes by several centimetres. The bubble is squashed, and it holds back the push of the water. That is why masons check their hoses for bubbles.
+  - Note: Air weighs almost nothing, so the bubble holds up no water. The water on the bubble side has to stand higher, by about the length of the bubble that sits in the upright part, which is about 5 centimetres. A bubble lying in the low, flat part of the hose does almost nothing. That is why masons check their hoses for bubbles.
 - **s7 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why did it happen?  
@@ -373,6 +373,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 
 ## Activities
 ### a1 · Tap Survey: which tap fills a litre the fastest? (25 min)
+- **safety:** Use cold water only. Do not time a hot tap, a geyser or a hot shower, because hot water can scald. Wipe up spills at once, because wet floors are slippery.
 - **record:** A table with each tap's name, where it is, your guess in order, the time in seconds to fill one litre, and the real order.
 - **s1 (5 min)**  
   *Parent does:* Walk round the home with your child and list the taps. Ask for a guess about which will be fastest and which will be slowest. Write the guesses down.  
@@ -384,12 +385,12 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Parent does:* 1. Open the tap fully. 2. Hold the bottle under it and start the timer. 3. Stop when the bottle is full. 4. Write the time. 5. Pour the water into the bucket. 6. Do the same for each tap.  
   *Parent says:* Open the tap fully. Start the timer when the bottle goes under. Stop when it is full. Write the time. Do all the taps. Keep the water in the bucket.  
   *Child mode:* Open the tap fully. Time one litre. Write it down. Try every tap.
-  - Note: Close all the other taps first, so the same push is not shared with other taps. Time each tap twice and use the middle number if you can. Use the bucket of water for plants.
+  - Note: Close all the other taps first, so the same push is not shared with other taps. Time each tap twice and use the middle number if you can. Use the bucket of water for plants. Roles for 2 to 4 children: one holds the bottle, one times, one writes, and then swap so each child times one tap. One child alone: the parent holds the bottle while the child times and writes.
 - **s3 (5 min)**  
-  *Parent does:* 1. Put the taps in order from the fastest to the slowest. 2. Mark which are on the highest and lowest floor of your home, or nearest to the tank. 3. Look for a pattern.  
+  *Parent does:* 1. Put the taps in order from the fastest to the slowest. 2. Mark which are on the highest and lowest floor of your home, or nearest to the tank. 3. Work out litres per minute for each tap: 60 divided by the seconds. 4. Look for a pattern.  
   *Parent says:* Put the taps in order. Which was the fastest? Which was the slowest? Where is each one in the house? Do you see a pattern?  
   *Child mode:* Put the taps in order. Where are they in the house? Do you see a pattern?
-  - Note: Many things besides the push change the speed. The width of the pipe, the tap's design and other taps open at the same time all matter. Do not worry if there is no clear pattern.
+  - Note: Many things besides the push change the speed. The width of the pipe, the tap's design and other taps open at the same time all matter. Do not worry if there is no clear pattern. Times such as 10 to 40 seconds are typical, but yours may differ because of your pipes, your pump and what else is running. In a one-floor flat, compare tap types instead, or time the same tap at a busy time (morning) and a quiet time (afternoon), and ask if the pattern holds.
   - Check: The tap closest below the roof tank filled the bottle the slowest. What could explain this? → **There is less depth of water above it pushing it than above a lower tap**
 - **s4 (3 min)**  
   *Parent does:* Ask the question below.  
@@ -409,13 +410,13 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Parent does:* 1. Fill the bottle to the very top with water. 2. Screw the cap on tight. 3. Hold it over the sink. 4. Peel off the four tapes.  
   *Parent says:* Fill the bottle to the very top, so there is no air. Close the cap tight. Hold it over the sink. Peel off the tapes. What happens?  
   *Child mode:* Fill to the brim. Close the cap. Peel off the tapes. What happens?
-  - Note: With the cap on tight and the bottle full to the brim, the water stays inside, because the water cannot get out without letting air in. A few drops may come out. That is normal.
+  - Note: With the cap on tight and the bottle full to the brim, the water stays inside, because the water cannot get out without letting air in. A few drops may come out. That is normal. If water pours out with the cap on, the holes are too big: use a thinner needle on a new bottle. If nothing squirts when you squeeze in the next step, the cap is loose or there is air in the bottle.
 - **s3 (6 min)**  
-  *Parent does:* 1. Squeeze the sides of the bottle gently with both hands. 2. Watch the four jets. 3. Squeeze the bottle from a different side and watch again. 4. Let go, and watch the holes.  
+  *Parent does:* 1. Squeeze the sides of the bottle gently with both hands. 2. Watch the four jets. 3. Squeeze the bottle from a different side and watch again. 4. Put the bottle on the newspaper, squeeze once gently and once harder, and mark how far each jet lands each time. 5. Let go, and watch the holes.  
   *Parent says:* Squeeze the bottle gently. What do the four jets do? Squeeze from a different side. Are the jets the same? What happens when you let go?  
   *Child mode:* Squeeze the bottle. Watch the four jets. Squeeze from another side.
   - Ask: What did the four jets do when you squeezed? (good: They all shot out at the same time.; They were about the same strength.; They came out straight, away from the wall.)
-  - Note: The four jets come out together, about equally strong, and straight out from the wall, whichever side you squeeze. When you let go, air bubbles are drawn in through the holes.
+  - Note: The four jets come out together, about equally strong, and straight out from the wall, whichever side you squeeze. A harder squeeze makes all four jets longer by about the same amount. When you let go, air bubbles are drawn in through the holes. One child can squeeze while another marks the landing spots; with one child and a parent, the parent marks. Squeeze over a sink or tray, because wet floors are slippery.
 - **s4 (4 min)**  
   *Parent does:* Ask the question below.  
   *Parent says:* Your hand squeezed one side. Why did the water shoot out of all four holes?  
@@ -431,10 +432,10 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Ask: What do you notice about the shape of a dam wall? (good: It is wider at the bottom.; It gets thinner towards the top.; It is thickest where the water is deepest.)
   - Note: Look for pictures of Mettur Dam in Tamil Nadu, Bhakra Dam in Himachal Pradesh and Tehri Dam in Uttarakhand.
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw a tall wall on the right side of the paper. 2. Draw water on the left, filling the space up to near the top. 3. Mark five depths on the wall, 2 centimetres apart. 4. Draw an arrow pointing at the wall at each depth. 5. Make each arrow 1 centimetre longer than the one above.  
+  *Parent does:* 1. Draw a tall wall on the right side of the paper. 2. Draw water on the left, up to near the top. 3. Mark five depths on the wall, 2 centimetres apart. 4. Draw an arrow at each depth. 5. Make the top arrow 1 centimetre long, and each one below 1 centimetre longer. 6. Check with the ruler: the arrow at 10 centimetres depth is five times the arrow at 2 centimetres.  
   *Parent says:* Draw the water and the wall. Mark five depths. At each depth, draw an arrow pushing on the wall. The deeper the depth, the longer the arrow.  
   *Child mode:* Draw the wall and the water. Draw five arrows. Deeper means longer.
-  - Note: The arrows should get longer in even steps, because the push grows evenly with depth. The top arrow is the shortest.
+  - Note: The arrows should get longer in even steps, because the push grows evenly with depth. The top arrow is the shortest. Ask your child to predict the length of the bottom arrow before drawing it, then check. With 2 to 4 children, each draws their own dam and then compares which arrow lengths match.
 - **s3 (7 min)**  
   *Parent does:* 1. Draw a thick wall that is strong enough at each depth. 2. Make it thin at the top and thick at the bottom. 3. Label the thickest and thinnest places.  
   *Parent says:* Now draw the wall. Where does it need to be thickest? Where can it be thinner? Label them.  
@@ -446,7 +447,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Child mode:* Show your drawing. Explain why the wall is thickest at the bottom.
   - Think: Why do you think builders of dams a thousand years ago still made them thicker at the bottom?
 ### a4 · Straw Trouble: is drinking sucking or pushing? (20 min)
-- **safety:** A grown-up uses the pin or needle, and pushes it away from the body. Keep straws and clay away from children under five.
+- **safety:** A grown-up uses the pin or needle, and pushes it away from the body. Keep straws and clay away from children under five. Never blow into the sealed bottle. Use plain water, or a drink that nobody at home is allergic to. Do not eat the clay. Each child uses their own straw, never a shared one.
 - **record:** Draw the three straws, and write if you could drink or not through each one.
 - **s1 (4 min)**  
   *Parent does:* Give your child a plain straw and a glass of water. Ask for a guess about what will happen with a hole in the straw, and for a reason.  
@@ -455,15 +456,15 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Ask: Will a straw with a hole in it work, and why? (good: No, because air will come in through the hole.; Yes, because the hole is tiny.; No, because the water will leak out.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up pricks a hole through one side of a straw, near the top, with the pin. 2. Put the straw in the glass. 3. Try to drink. 4. Cover the hole with a finger and try again.  
+  *Parent does:* 1. A grown-up pricks a hole, about 2 millimetres wide, through one side of a straw, near the top, with the pin. 2. Put the straw in the glass. 3. Try to drink. 4. Cover the hole with a finger and try again.  
   *Parent says:* A grown-up will make a small hole near the top of this straw. Try to drink. Now cover the hole with your finger and try again. What changes?  
   *Child mode:* Try to drink through the straw with a hole. Then cover the hole.
-  - Note: With the hole open, you will get a little or no drink. With the hole covered, the straw works again.
+  - Note: A tiny pinprick may still let you drink, so make a hole you can see, and place it above the drink. With the hole open, you will get a little or no drink. With the hole covered, the straw works again.
 - **s3 (6 min)**  
   *Parent does:* 1. Press a thick ring of clay round the mouth of the small bottle. 2. Push a straw through the clay into the bottle. 3. Make sure there is no gap in the clay. 4. Try to drink from the bottle.  
   *Parent says:* Seal the mouth of the bottle with clay around the straw. Now try to drink the water. What happens?  
   *Child mode:* Seal the bottle with clay. Try to drink through the straw.
-  - Note: In the sealed bottle you cannot drink, because the air cannot push on the water. In the open glass, the air pushes. This is why the straw with a hole does not work either.
+  - Note: In the sealed bottle you cannot drink after the first tiny sip, and a thin bottle will crumple inwards. If you can still drink, there is a gap in the clay: press it again. because the air cannot push on the water. In the open glass, the air pushes. This is why the straw with a hole does not work either.
   - Check: When you drink through a straw, what pushes the drink up? → **The air pressure outside pushes down on the drink in the glass**
 - **s4 (4 min)**  
   *Parent does:* Ask the question below.  
@@ -473,7 +474,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 
 ## Projects
 ### p1 · The Syringe Arm: a robot arm worked by water (70 min, 2 days)
-- **safety:** Use only syringes with no needle. Never point a syringe at a face. A grown-up cuts the cardboard if it is thick. Keep small parts away from children under five.
+- **safety:** Use only syringes with no needle. If a shop gives a needle, a grown-up takes it off and puts it away safely, and children never touch needles. Never point a syringe at a face. Do not drink the coloured water. A grown-up cuts the cardboard if it is thick. Keep small parts away from children under five.
 - **record:** A drawing of the arm with its syringes and tubes, and a note of what you changed.
 - **schedule:** day 1: Fill two syringes joined by a tube with water, with no air. Test that a push on one moves the other. (30 min); day 2: Build the cardboard arm. Fix a syringe pair to a joint. Test it and improve it. (40 min)
 - **s1 (8 min)**  
@@ -483,17 +484,17 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Ask: What will the other plunger do, and why? (good: It will move out, because the water is pushed along.; It will not move, because the tube is too long.; It will move in, because it is pulled.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (22 min)**  
-  *Parent does:* 1. Fill a syringe with coloured water. 2. Tap it, and push out all the air. 3. Join the tube. 4. Fill the other syringe and join it to the other end. 5. Push one plunger slowly.  
+  *Parent does:* 1. Put the two syringes, the tube and the bowl of coloured water together. 2. Under the water, pull water into a syringe, tap it and push out the air. 3. Still under the water, join the tube to it. 4. Fill the other syringe under the water and join it to the other end. 5. Set both plungers at about the 5 millilitre mark, so each can move in or out. 6. Push one plunger in by 2 centimetres and measure how far the other moves out.  
   *Parent says:* Fill both syringes and the tube with water, with no air at all. Tap out every bubble. Push one plunger in. What does the other one do? Push it again, a little at a time.  
   *Child mode:* Fill both syringes and the tube. Tap out the bubbles. Push one plunger.
-  - Note: Draw the water in with the syringe tip under the water, so air does not enter. If the plunger feels spongy, take the tube off and fill again.
+  - Note: Draw the water in with the syringe tip under the water, so air does not enter. If the plunger feels spongy, take the tube off and fill again. Make a second pair the same way, so the arm has a control pair and an arm pair. With 2 to 4 children, each pair of children makes one pair of syringes.
   - Check: A bubble of air in the tube made the other plunger move less than the first. Why? → **The bubble was squashed, which soaked up some of the push**
-  - Wait: This takes a few tries. A tiny bubble makes the plunger feel spongy.
+  - Wait: This takes a few tries. A tiny bubble makes the plunger feel spongy. Typically the other plunger moves out about the same 2 centimetres, and less if there is a bubble.
 - **s3 (20 min) · grown-up needed**  
   *Parent does:* 1. Cut two arm pieces from cardboard, each about 15 centimetres long. 2. Join them with a paper fastener to make a hinge. 3. Fix one syringe to the base and one to the arm, so that pushing the first plunger makes the arm lift. 4. Tape the syringes in place.  
   *Parent says:* Make an arm with a hinge. Fix one syringe to the base and the other to the arm, so that when the plunger is pushed, the arm moves. Use tape to hold them.  
   *Child mode:* Build an arm with a hinge. Fix the syringes with tape.
-  - Note: A grown-up cuts the thick cardboard. There are many ways to fix the syringes. Let your child try different ones.
+  - Note: A grown-up cuts the thick cardboard. A glue gun is not needed: masking tape, rubber bands and clay hold the syringes. There are many ways to fix the syringes. Let your child try different ones.
 - **s4 (14 min)**  
   *Parent does:* 1. Push the plunger of the control syringe slowly. 2. Watch the arm lift. 3. Try lifting a light paper cup on a string. 4. Change one thing, such as the place where the syringe is fixed, and test again.  
   *Parent says:* Push the plunger slowly. Watch the arm. Can it lift a paper cup? Change one thing and try again. Does the arm move more, or less?  
@@ -504,12 +505,12 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 
 ## Challenges
 ### c1 · The Farthest Squirt (40 min)
-- **problem:** You have one 2 litre bottle with the cap off, and you may make one hole in it. Make the jet land as far from the bottle as possible. You may choose the height of the hole, the depth of the water, the height of the bottle above the floor, and a tilted straw in the hole.
-- **safety:** A grown-up makes the hole, pushing the compass point or needle away from the body into the bottle on a folded cloth. Wipe up spills at once, because wet floors are slippery.
+- **problem:** You have one 2 litre bottle with the cap off, and you may make one hole in it. Make the jet land as far from the bottle as possible. You may choose the height of the hole, the depth of the water, the height of the bottle above the floor, and a tilted straw in the hole (the hole is then about 6 millimetres wide, to fit the straw).
+- **safety:** A grown-up makes the hole, pushing the compass point or needle away from the body into the bottle on a folded cloth. Keep fingers behind the point. Keep the bottle steady on the edge of a table, away from the floor edge. Wipe up spills at once, because wet floors are slippery.
 - **your turn:** Now invent your own design. Draw it, build it, measure it and show it. Which design went the farthest? Why do you think it worked best?
-- **constraints:** Use only one hole, about 2 millimetres wide, made by a grown-up.; The water must be kept at the same line while the jet lands, by topping it up from a jug.; Measure the distance from the foot of the stool, along the floor, to where the jet lands.; Try each design three times and use the middle number.
+- **constraints:** Use only one hole, about 2 millimetres wide, made by a grown-up. For the straw design, a grown-up widens the hole to fit the straw, about 6 millimetres.; Fill to the same line each try. Read where the jet lands in the first 3 seconds, while a helper tops up from a jug.; Measure the distance from the foot of the stool, along the floor, to where the jet lands.; Try each design three times and use the middle number.
 - **general:** Put the bottle on a higher stool, so the jet has further to fall.; Fill the bottle to the top, so the water is deeper above the hole.; Make the hole low in the bottle, where the push is strong.
-- **creative:** Push a short bent straw into the hole with clay around it, and bend the straw upwards at an angle of about 45 degrees. A jet angled upwards usually goes farther than a flat jet.; Put the bottle on the edge of a table, and let the jet fall to the floor, which is farther down than a stool.; Make the hole in the middle of the bottle instead of near the bottom, and compare. Does the answer change if the stool is low?
+- **creative:** Push a short bent straw into a widened hole with clay or dough around it, and bend the straw upwards at an angle of about 45 degrees. A jet angled upwards usually goes farther than a flat jet, but check with your tape measure.; Put the bottle on the edge of a table, and let the jet fall to the floor, which is farther down than a stool.; Make the hole in the middle of the bottle instead of near the bottom, and compare. Does the answer change if the stool is low?
 - **s1 (8 min)**  
   *Parent does:* Read the problem aloud. Ask your child to sketch two or three designs, and to say which one they think will go farthest and why.  
   *Parent says:* You have one bottle and one hole. How could you make the jet go as far as possible? Sketch two ideas first. Which one do you think will win? Why?  
@@ -520,7 +521,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Parent does:* 1. A grown-up makes the hole for the first design. 2. Fill the bottle to the line. 3. Top up from the jug. 4. Mark where the jet lands and read the distance. 5. Do it three times and write the middle number.  
   *Parent says:* Build your first design. Fill to the line, and keep topping up. Mark where the jet lands. Do it three times. Write the middle number. This is the number to beat.  
   *Child mode:* Build your first design. Test it three times. Write the middle number.
-  - Note: The first number is the one to beat. Write it large.
+  - Note: The first number is the one to beat. Write it large. With one child, the parent pours and the child reads the landing spot. With 2 to 4 children, each invents one design and they take turns pouring, marking and recording. The bigger straw hole drains the bottle quickly, so fill high and measure early.
 - **s3 (14 min)**  
   *Parent does:* 1. Change one thing in your design, such as the height of the stool or the angle of the straw. 2. Test it three times. 3. Write the middle number. 4. Keep the best design.  
   *Parent says:* Change one thing. Test it three times. Is it better or worse? Keep the best design, and try changing something else.  
@@ -714,7 +715,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - A JCB digging a trench by the road, with shiny rods that slide in and out of its arm.
 - An auto rickshaw driver pressing the brake pedal as the road gets busy.
 - A barber pumping the foot pedal of the chair to raise a customer.
-- The Mettur Dam, a thick concrete wall across the Kaveri river.
+- The Mettur Dam, a thick wall across the Kaveri river.
 - A kettle with the water in the spout standing as high as the water inside.
 - A mason with a clear hose checking the height of a wall.
 - A bicycle repair shop with a hydraulic jack lifting a heavy lorry on the road.
@@ -775,8 +776,9 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 
 ## Things to buy
 - [Four 10 millilitre plastic syringes with no needle](https://www.amazon.in/s?k=syringe+10ml+without+needle) (material): For the Syringe Arm project. A chemist sells them cheaply. Used in p1. 
-- [A clear plastic tube or hose, 4 metres long, with an inside width of 6 to 10 millimetres](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): For marking a level line on a wall and for the syringe arm. An aquarium or hardware shop sells it by the metre. Used in e2, p1. 
-- [A bottle of liquid food colour](https://www.amazon.in/s?k=liquid+food+colour+blue) (material): To colour the water in the hose and the syringes, so you can see it. Any grocery or baking shop sells small bottles. Used in e2, p1. 
+- [A clear plastic tube or hose, 4 metres long, with an inside width of 6 to 10 millimetres](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): For marking a level line on a wall. A hardware, plumbing or aquarium shop sells it by the metre, usually about Rs 30 to 50 a metre. If it costs too much, buy 3 metres and put the marks 2 metres apart. Used in e2. 
+- [About 1 metre of thin, soft aquarium air tube (silicone or plastic), about 4 millimetres wide](https://www.amazon.in/s?k=aquarium+air+tube+silicone) (material): For the Syringe Arm. It stretches over the tip of a syringe so it does not leak. Pet and aquarium shops sell it for about Rs 10 a metre. The thick hose from the level-line test is too wide for syringe tips. Used in p1. 
+- [A bottle of liquid food colour](https://www.amazon.in/s?k=liquid+food+colour+blue) (material): To colour the water in the hose and the syringes, so you can see it. Any grocery or baking shop sells small bottles. A pinch of haldi, or a drop of ink, also works. Used in e2, p1. 
 
 ## Warm-up
 - What is pressure? → How hard something pushes on each small part of a surface.

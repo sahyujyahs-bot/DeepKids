@@ -654,13 +654,14 @@
     "For all other cards, the players say or write their answers. On the count of three, everyone shows their answer at once.",
     "The reader turns the card over and reads the answer. A right answer scores 2 points. A player who also gives the reason in their own words scores 1 more.",
     "The next player to the left becomes the reader. Play 12 cards for a short game, or all 24 for a long one. The player with the most points wins. A tie is a shared win.",
-    "Playing alone? Turn up one card at a time, write down your answer, then check the back. Keep your score, and try to beat it another day."
+    "Playing alone? Turn up one card at a time, write down your answer, then check the back. Keep your score, and try to beat it another day.",
+    "Two to four players is best. With more, play in teams that agree an answer before the reader turns the card."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the sky clock, the paper arrow and the 24 cards. Pin the arrow in the middle of the clock. Shuffle the cards.",
+     "do": "Cut out the sky clock, the paper arrow and the 24 cards. Fix the arrow in the middle with a paper fastener. A grown-up can push a drawing pin through it into clay instead. No pin? Hold the arrow at the middle with a fingertip. No printer? Draw the clock on paper, and have the reader read the questions from the list. Shuffle the cards.",
      "say": "This clock shows the sky as you look north. The Pole Star is in the middle. The stars turn round it, anticlockwise, 15 degrees every hour.",
      "kid": "Cut out the clock, the arrow and the cards. Pin the arrow in the middle.",
      "context": "This is the first step of Spin the Sky. You cut out the clock and the cards."
@@ -767,7 +768,7 @@
      "qty": 1
     },
     {
-     "item": "a grown-up helper, and a notebook for the results",
+     "item": "a grown-up helper (or, with 2 to 4 children, a second child), and a notebook for the results",
      "qty": 1
     }
    ],
@@ -869,7 +870,7 @@
      "do": "Stand on the spot. Hold the pencil upright with its tip at 25 centimetres from your nose, using the string. Close your left eye and read the number behind the tip. Close your right eye and read the number again. Write both numbers and the jump. Do it twice. Then do 50 centimetres, then 100 centimetres with your grown-up holding the pencil.",
      "say": "Hold the pencil still. Look with your right eye only. What number is behind the tip? Now your left eye only. What is it now? What is the difference?",
      "kid": "Right eye only. Read the number. Left eye only. Read the number. Subtract.",
-     "parent": "Expect the jump to be about 55 to 65 centimetres at 25 centimetres, about 25 to 30 at 50, and about 10 to 12 at 100. Your numbers will differ because eyes are different distances apart. If the numbers wander, rest your elbow on a table or ask your helper to hold the pencil. A jump of zero means you moved your head."
+     "parent": "Expect the jump to be about 55 to 65 centimetres at 25 centimetres, about 25 to 30 at 50, and about 10 to 12 at 100. Your numbers will differ because eyes are different distances apart. If the numbers wander, rest your elbow on a table or ask your helper to hold the pencil. A jump of zero means you moved your head. With 2 to 4 children, give out jobs: one holds the pencil at the knot of the string, one stands on the spot and reads, one writes in the table. Swap after each distance so everyone reads once, then compare tables. Eyes are set different distances apart, so each child's numbers will differ, but the pattern (nearer means bigger jump) will be the same. These numbers are typical for a child; a grown-up's eyes are further apart, so the jumps will be a little bigger. Keep your head still: rest your chin on a chair back if it helps."
     },
     {
      "id": "s4",
@@ -896,7 +897,7 @@
      "say": "I have put the pencil at a secret distance. Measure its jump. Look at your table. Is the jump bigger or smaller than at 50 centimetres? So is the pencil nearer or farther? Make your best guess.",
      "kid": "Measure the jump of the hidden pencil. Use your table to guess how far it is.",
      "adult": true,
-     "parent": "If the jump is 40 centimetres, it is between 28 (at 50) and 60 (at 25), so the pencil is between 25 and 50 centimetres away, a bit nearer to 50, so about 38. A guess within 10 centimetres is very good. Swap roles if you like."
+     "parent": "If the jump is 40 centimetres, it is between 28 (at 50) and 60 (at 25), so the pencil is between 25 and 50 centimetres away, a bit nearer to 50, so about 38. A guess within 10 centimetres is very good. Swap roles if you like. With several children, one child hides the pencil and measures the string while the others each measure the jump, guess, and then compare guesses."
     },
     {
      "id": "s6",
@@ -1015,7 +1016,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. This takes about an hour on the clock, with two waits of 30 minutes. Use the waits for tea or the drawing. If the night is cloudy, as is common in the monsoon, wait for a clear night.",
      "context": "This is the first step of the Turning Sky experiment. You guess before you measure."
     },
     {
@@ -1044,7 +1045,7 @@
      "kid": "Back to your mark. Count the fists again. Did the star move?",
      "adult": true,
      "wait": "Leave it for 30 minutes before the third measurement.",
-     "parent": "If the star was in the west, it will be lower, nearer to the roof edge. If it was in the east, it will be higher. Expect a change of about three-quarters of a fist in the half hour."
+     "parent": "If the star was in the west, it will be lower, nearer to the roof edge. If it was in the east, it will be higher. Expect a change of about three-quarters of a fist in the half hour. Your fist counts are only good to about a quarter of a fist, so do not worry if the half-hour change is between half and one fist."
     },
     {
      "id": "s5",
@@ -1063,7 +1064,8 @@
       ],
       "a": 0,
       "why": "One and a half fists is 1.5 times 10, which is 15 degrees. This matches the rate at which the Earth spins, 360 degrees in 24 hours, which is 15 degrees an hour. If you picked 1 degree, you may have counted a fist as one degree. A fist is about ten."
-     }
+     },
+     "parent": "With 2 to 4 children, each child counts with their own fist and writes their own table. Compare: a child's fist at arm's length is a little smaller than 10 degrees, so a child may count nearer 1.8 fists than 1.5. Counts differ a little, but all show the same steady turn. One child can be the timekeeper."
     },
     {
      "id": "s6",
@@ -1116,7 +1118,7 @@
      "buy": "b-red"
     }
    ],
-   "safety": "A grown-up stays with the child outside at night. On a terrace, keep away from the edge. Do not look at the Sun with the tool in daytime.",
+   "safety": "A grown-up stays with the child outside at night. On a terrace, keep away from the edge. Do not look at the Sun with the tool in daytime. Never point the straw at the Sun, even by day; test it on buildings only.",
    "schedule": [
     {
      "day": 1,
@@ -1227,7 +1229,8 @@
       ],
       "a": 0,
       "why": "The thread hangs straight down, and on a protractor the straight-down line is at the 90 mark. When the straw tilts up, the thread moves away from 90 by the same angle. If you picked 0, you may be looking at the wrong end of the scale."
-     }
+     },
+     "parent": "Check the tool against something you know: stand as far from a wall as a marked spot on it is above your eye, and the thread should read about 45 degrees away from 90 (a 45-degree set square from the geometry box is a second check). Being 3 or 4 degrees out is normal."
     },
     {
      "id": "s4",
@@ -1236,7 +1239,7 @@
      "say": "Find the seven stars of the Saptarishi. Take the two stars at the outer edge of the bowl. Draw a line through them, and carry on about five gaps. The star at the end is the Pole Star. It is not very bright, so look carefully.",
      "kid": "Find the Saptarishi. Follow the two pointer stars. The Pole Star is at the end.",
      "adult": true,
-     "parent": "The Pole Star may be hard to see from a city, and low in the south of India it can be hidden by haze or buildings. Let your eyes get used to the dark for 15 minutes, and use a red torch only. If you cannot see it, use Stellarium Web to find where it is and look there. If it is cloudy tonight, try another night."
+     "parent": "The Pole Star may be hard to see from a city, and low in the south of India it can be hidden by haze or buildings. Let your eyes get used to the dark for 15 minutes, and use a red torch only. If you cannot see it, use Stellarium Web to find where it is and look there. If it is cloudy tonight, try another night. The Saptarishi is low or even below the horizon in the evening in autumn and early winter, especially in the south. If you cannot see it, use Cassiopeia, the W-shaped group on the other side of the Pole Star, which is high on autumn and winter evenings: the Pole Star lies in line with the middle point of the W, a little way off."
     },
     {
      "id": "s5",
@@ -1245,7 +1248,7 @@
      "say": "Hold the straw on the Pole Star. Keep it steady. Read the thread. Take away 90. Do it five times. We will use the middle number.",
      "kid": "Look along the straw at the Pole Star. Read the thread. Do it five times.",
      "adult": true,
-     "parent": "Your readings may be off by 3 to 4 degrees, because a hand-held tool and a thread are not exact. Using the middle of five readings helps. The Pole Star is a little dim, so ask your grown-up to help line up the straw."
+     "parent": "Your readings may be off by 3 to 4 degrees, because a hand-held tool and a thread are not exact. Using the middle of five readings helps. The Pole Star is a little dim, so ask your grown-up to help line up the straw. With 2 to 4 children, one sights along the straw and one reads the thread, and a third writes; swap after each reading so everyone does every job, then compare each child's middle reading."
     },
     {
      "id": "s6",
@@ -1278,7 +1281,7 @@
      "qty": 1
     },
     {
-     "item": "a room about 3 metres across with clear floor, and a string about 1 metre long to mark the ring you walk on",
+     "item": "a room about 3 metres across with clear floor, and a string about 1 metre long to mark the ring you walk on (hold one end at the foot of the lamp and mark the string's other end on the floor at 12 spots with small pieces of tape)",
      "qty": 1
     },
     {
@@ -1333,7 +1336,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Stand the lamp in the middle of the room and switch it on. Write the twelve names on twelve cards. Tape them on the walls in a circle, going anticlockwise as seen from above. The order is Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius, Capricornus, Aquarius and Pisces. Lay the string in a ring about 1 metre from the lamp.",
+     "do": "Stand the lamp in the middle of the room and switch it on. Write the twelve names on twelve cards. Tape them on the walls in a circle, going anticlockwise as seen from above. The order is Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius, Capricornus, Aquarius and Pisces. Use the string as a compass. Hold one end at the foot of the lamp. Stick 12 pieces of tape on the floor where the other end reaches. This makes a ring 1 metre from the lamp. Space the cards as evenly as the room allows, like the hours of a clock round the lamp.",
      "say": "These are the twelve star groups along the Sun's path. Indians call them the rashis, such as Mesha, Vrishabha, Mithuna and Karka. The lamp is the Sun. You are the Earth, walking on the ring.",
      "kid": "Put the lamp in the middle. Tape twelve cards round the walls, in order.",
      "adult": true,
@@ -1346,7 +1349,7 @@
      "do": "Stand on the ring next to the card for Gemini, with your back to the lamp. You are looking at the midnight sky of January. Turn round to face the lamp. The card behind the lamp is Sagittarius, hidden by the Sun's glare. Then move along the ring, one card for each month, anticlockwise: Cancer for February, Leo for March, and so on. Each time, say which card you face at midnight and which card is hidden behind the lamp.",
      "say": "Back to the lamp, you look at the night sky. Face the lamp, and you look at the Sun, with its star group behind it. Move one card each month. Which group is hidden in June?",
      "kid": "Stand with your back to the lamp. The card ahead is the midnight sky. Move one card each month.",
-     "parent": "The group highest at midnight, by month: November Aries, December Taurus, January Gemini, February Cancer, March Leo, April Virgo, May Libra, June Scorpius, July Sagittarius, August Capricornus, September Aquarius, October Pisces. The group hidden by the Sun is the one on the opposite wall. This is rough, because the star groups are large and one is highest at midnight over about a month. It is a good guide.",
+     "parent": "The group highest at midnight, by month: November Aries, December Taurus, January Gemini, February Cancer, March Leo, April Virgo, May Libra, June Scorpius, July Sagittarius, August Capricornus, September Aquarius, October Pisces. The group hidden by the Sun is the one on the opposite wall. This is rough, because the star groups are large and one is highest at midnight over about a month. It is a good guide. With 2 to 4 children, one child is the Earth and walks the ring, one says which card is ahead at midnight, one says which card is hidden behind the lamp, and one checks the table. Swap each month. Alone, do the walking and look the answer up in the table.",
      "check": {
       "t": "mcq",
       "q": "In July, Sagittarius is highest at midnight. Which group of stars is hidden by the Sun's glare that month?",
@@ -1419,7 +1422,7 @@
      "qty": 1
     },
     {
-     "item": "a string about 40 centimetres long, a marker pen and a ruler",
+     "item": "a string about 40 centimetres long, a marker pen (on a shiny football it may smudge, so use small paper stickers or bits of tape for marks) and a ruler",
      "qty": 1
     },
     {
@@ -1510,7 +1513,7 @@
      "say": "At each place the card is the flat ground you would stand on, and the straw is the line to the star. How big is the angle between them? Write it down for each place.",
      "kid": "Stick a straw at each mark, pointing at the star. Lay a card flat. Measure the angle.",
      "adult": true,
-     "parent": "Expect the equator to be about 0 degrees, Kanyakumari about 8, Chennai about 13, Delhi about 29 and the pole 90. It is hard to measure well, so your numbers may be off by 5 degrees, but the pattern should be clear. The angle grows with latitude. Because the star is so far away, every straw is parallel to the axis."
+     "parent": "Expect the equator to be about 0 degrees, Kanyakumari about 8, Chennai about 13, Delhi about 29 and the pole 90. It is hard to measure well, so your numbers may be off by 5 degrees, but the pattern should be clear. The angle grows with latitude. Because the star is so far away, every straw is parallel to the axis. To keep the straws pointing the same way, sight along each straw towards the sticker, or lay a ruler along the straw at the pole and set the others parallel to it. With 2 to 4 children, each child makes one or two places and measures the angle, and a third checks that the straw points at the sticker; then put the angles in one table and compare."
     },
     {
      "id": "s5",
@@ -1518,7 +1521,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask what this means for a traveller going north.",
      "say": "Tell me three things. What do you think now? What did you see? Why do you think it happens? If you walked from Kanyakumari to Delhi, what would happen to the Pole Star?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: the further north, the higher the Pole Star. What I saw: the angle was near 0 at the equator, near 13 for Chennai, and 90 at the pole. Why: the star is so far away that the line to it is the same direction everywhere, and the ground turns away from that line as you travel north. So the angle between ground and star equals the latitude."
+     "parent": "A good answer sounds like this. What I think: the further north, the higher the Pole Star. What I saw: the angle was near 0 at the equator, near 13 for Chennai, and 90 at the pole. Why: the star is so far away that the line to it is the same direction everywhere, and the ground turns away from that line as you travel north. So the angle between ground and star equals the latitude. A graph of angle against latitude (a straight line up) is a good extra to draw if there is time."
     }
    ]
   },
@@ -1533,11 +1536,11 @@
      "qty": 1
     },
     {
-     "item": "a piece of kitchen foil about 10 centimetres square with a tiny pinhole made by a grown-up, and a second piece with a hole 1.5 centimetres wide",
+     "item": "a piece of kitchen foil about 10 centimetres square with a tiny pinhole pricked by a grown-up with a pin, and a second piece with a hole 1.5 centimetres wide cut by a grown-up",
      "qty": 2
     },
     {
-     "item": "a heavy steel tawa or pan with a handle, heated by a grown-up, and a heatproof stand or trivet",
+     "item": "a heavy steel tawa or pan with a handle, heated by a grown-up on the stove and left there until it has cooled",
      "qty": 1
     },
     {
@@ -1556,7 +1559,7 @@
      "what": "Guess. Look at a small light and a bigger light through the shimmering air above a hot tawa. Compare flame colours. Look at the colours of two stars in Orion."
     }
    ],
-   "safety": "A grown-up does all the heating, lights the stove and the diya, and moves the hot tawa. Keep the child at least 1.5 metres from the tawa, the flame and the diya. Put the tawa on a steady, heatproof stand where nobody walks, with a dim light on beside it so it can be seen. Tie back long hair and keep loose clothes away from the flames. Let the tawa cool fully before it is touched or washed.",
+   "safety": "A grown-up does all the heating, lights the stove and the diya, and moves the hot tawa. Keep the child at least 1.5 metres from the tawa, the flame and the diya. Do not carry the tawa: leave it on the stove ring where it was heated, with a dim light on beside it so it can be seen. Tie back long hair and keep loose clothes away from the flames. Let the tawa cool fully before it is touched or washed.",
    "record": "Write which light flickered more, the tiny hole or the wider hole. Draw the gas flame and the diya flame and colour them. Write the colour of Betelgeuse and of Rigel, and which one is hotter.",
    "context": "In this activity you make a small light twinkle by looking at it through hot, rising air, and you compare the colours of flames and stars. It shows why stars twinkle and planets mostly do not, and how colour shows temperature.",
    "setup": [
@@ -1600,11 +1603,11 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up heats the tawa for two minutes on the stove. Then they turn off the gas and put the tawa on the stand, in the middle of the room. Cover the torch with the pinhole foil and put it at one end of the dark corridor. Sit at the other end, with your eyes level with the warm air above the tawa. Watch the light. Then swap to the wider hole and watch again.",
+     "do": "A grown-up heats the tawa on a high flame for about 5 minutes. Then they turn off the gas and leave the tawa on the stove. Cover the torch with the pinhole foil and put it at the far end of the room. The line from your eyes to the torch must pass 3 to 5 centimetres above the tawa. Sit at the other end, with your eyes level with the warm air above the tawa. Watch the light. Then swap to the wider hole and watch again. Do this in the first few minutes after the gas is off.",
      "say": "The air above the hot tawa rises and wobbles, like air high above the Earth. Watch the tiny light through it. Does it flicker? Now watch the wider light. Which one flickers more?",
      "kid": "Watch the tiny light past the hot tawa. Does it flicker? Now the wider one.",
      "adult": true,
-     "parent": "Keep your child at least 1.5 metres from the hot tawa and do not let them touch it. The tawa stays hot for a long time. The tiny hole should flicker and shimmer clearly. The wider hole should look steadier. If you cannot see the difference, make the pinhole smaller or the wider hole larger. As an alternative with no heat, watch a far-off street lamp through the shimmer above a hot road on a sunny day.",
+     "parent": "Keep your child at least 1.5 metres from the hot tawa and do not let them touch it. The tawa stays hot for a long time. First check the shimmer: look at the edge of a wall or window over the tawa, and it should wobble. If it has stopped wobbling, the tawa has cooled, so reheat it. The tiny hole should usually flicker and shimmer clearly, but the effect is modest and depends on the room, so look for a difference, not a big show. A pinhole is also dimmer, which can make it look more flickery, so also try a hole of about 5 millimetres in between. With 2 to 4 children, one holds the torch at the far end while the others watch in turns and say 'flickering' or 'steady' for each hole; compare what everyone saw. The wider hole should look steadier. If you cannot see the difference, make the pinhole smaller or the wider hole larger. As an alternative with no heat, watch a far-off street lamp through the shimmer above a hot road on a sunny day.",
      "check": {
       "t": "mcq",
       "q": "The tiny hole flickered more than the wider hole. Which is like a star, and which is like a planet?",
@@ -1624,7 +1627,7 @@
      "say": "Look at the gas flame and the diya flame. Which has more blue in it? A hotter flame has more blue. Stars follow a similar pattern, but with the colour of their surface.",
      "kid": "Look at the gas flame and the diya flame. Which is bluer? Colour them in.",
      "adult": true,
-     "parent": "Stay with your child by the stove, and keep hair and loose clothes away. Blue is a rough sign of heat in fire. The colour of a flame also depends on what is burning, so this is only a hint about stars. Stars are balls of hot gas glowing, and for them, colour is a good thermometer."
+     "parent": "Stay with your child by the stove, and keep hair and loose clothes away. Blue is a rough sign of heat in fire. The colour of a flame also depends on what is burning, so this is only a hint about stars. Stars are balls of hot gas glowing, and for them, colour is a good thermometer. The yellow in a diya flame is mostly glowing bits of soot, and a gas flame burns cleaner and hotter, so it is blue."
     },
     {
      "id": "s4",
@@ -1642,7 +1645,7 @@
        ]
       }
      ],
-     "parent": "Betelgeuse is red-orange and about 3,500 degrees Celsius at the surface. Rigel is blue-white and about 12,000 degrees. Both look quite similar in brightness to the eye, but the colours differ if you look carefully, especially with binoculars."
+     "parent": "Betelgeuse is red-orange and about 3,500 degrees Celsius at the surface. Rigel is blue-white and about 12,000 degrees. Both look quite similar in brightness to the eye, but the colours differ if you look carefully, especially with binoculars. On a clear night, if Jupiter or Venus is up, compare it with a star near it: the star twinkles more."
     },
     {
      "id": "s5",
@@ -1663,11 +1666,11 @@
    "mins": 75,
    "materials": [
     {
-     "item": "a notebook or sheets of paper, a pencil and a ruler",
+     "item": "a notebook or sheets of paper, a pencil, a ruler and a protractor from a geometry box",
      "qty": 1
     },
     {
-     "item": "a round plate or bowl to draw a clock face with 60 small marks, as on a clock",
+     "item": "a round plate or bowl to draw a clock face: make 12 big marks like the hours, then 4 small marks between each pair, to get 60 marks (an old clock face to copy helps)",
      "qty": 1
     },
     {
@@ -1681,6 +1684,10 @@
     },
     {
      "item": "a phone with Stellarium Web, for a grown-up to use if the sky is cloudy",
+     "qty": 1
+    },
+    {
+     "item": "a thread about 40 centimetres long with a coin or washer tied on, to hold up as a straight-down line",
      "qty": 1
     }
    ],
@@ -1736,7 +1743,7 @@
      "say": "Think of the line from the Pole Star through the two pointer stars as the minute hand of a clock. Which number does it point at? Draw that line. We will draw it again every week at the same time.",
      "kid": "Draw a clock. Find the Pole Star. Draw the line to the pointer stars.",
      "adult": true,
-     "parent": "Do the same each week at exactly the same clock time, from the same spot. If you are not sure of the minute-mark, hold your page up to the sky and compare. If it is cloudy, use Stellarium Web, set to your city, and move the date and time to show where the line points. The line will be higher or lower depending on the time, so the same hour each week matters. In a week the line moves back by about 1 minute-mark.",
+     "parent": "Do the same each week at exactly the same clock time, from the same spot. If you are not sure of the minute-mark, hold your page up to the sky and compare. If it is cloudy, use Stellarium Web, set to your city, and move the date and time to show where the line points. The line will be higher or lower depending on the time, so the same hour each week matters. In a week the line moves back by about 1 minute-mark. The Saptarishi sits low in the north on autumn and early winter evenings and may be hidden, especially in the south of India. If so, use Cassiopeia, the W-shaped group on the other side of the Pole Star, and draw the line from the Pole Star to the middle point of the W; use the same group all month. To read the angle well, hold the thread with the weight at arm's length so it hangs straight down through the Pole Star, then use the protractor on your page to copy the angle of the pointer line from it. If a night is cloudy, draw on the next clear night and write the date: the sky shifts about 1 degree a day, so you can still compare. With 2 to 4 children, each draws their own clock and then compare; one holds the thread, one draws.",
      "context": "This is the first step of Dhruva's Clock. You make the diary page and draw the first sky clock."
     },
     {
@@ -1757,7 +1764,7 @@
        ]
       }
      ],
-     "parent": "Expect about 1 minute-mark of movement in a week, the stars shifting against the clock by 7 degrees. The pointer stars move anticlockwise round the Pole Star. It is a small shift, so measure carefully."
+     "parent": "Expect about 1 minute-mark of movement in a week, the stars shifting against the clock by about 7 degrees (a minute-mark is 6 degrees). It is easy to be a mark out by eye, so the month total is more reliable than any one week. The pointer stars move anticlockwise round the Pole Star. It is a small shift, so measure carefully."
     },
     {
      "id": "s3",
@@ -1767,7 +1774,7 @@
      "kid": "Draw the line on day 15 and day 22. Compare each with the last.",
      "adult": true,
      "wait": "Wait 7 days between each drawing.",
-     "parent": "Expect the line to have moved back about 3 minute-marks after three weeks. If the sky is cloudy on the night, use Stellarium Web with the date set, to see where the line would be."
+     "parent": "Expect the line to have moved back about 3 to 4 minute-marks after three weeks. If the sky is cloudy on the night, use Stellarium Web with the date set, to see where the line would be."
     },
     {
      "id": "s4",
@@ -1786,7 +1793,8 @@
       ],
       "a": 0,
       "why": "5 marks of 6 degrees is 30 degrees. The sky turns 15 degrees an hour, so 30 degrees is 2 hours. So at the same clock time, the sky in a month looks like the sky 2 hours later, because the Earth has moved a month round the Sun. If you picked 5 hours, you may have counted the marks as hours."
-     }
+     },
+     "parent": "From day 1 to day 29 is 28 days, so the line should have moved about 28 degrees, which is about 4 to 5 minute-marks. Being a mark out is fine. This is the sky turning 4 minutes earlier each day, which adds up to about 2 hours of turning in a month."
     }
    ]
   }
@@ -1804,14 +1812,14 @@
     "Check your answer at the end with a map measuring tool or by pacing the distance with a grown-up."
    ],
    "materials": [
-    "a flat board or a hard book, and 2 sheets of paper",
+    "a flat board or a hard book, and 2 sheets of paper (tape two sheets together if the drawing is long)",
     "a ruler, a pencil and a drawing pin or a small piece of clay",
     "a measuring tape or a long string with knots every metre",
     "a shoe or a cone to mark each end of the baseline",
-    "a friend or a grown-up to stand at the other end"
+    "a friend or a grown-up to stand at the other end; with one child and no helper, use a cone, shoe or tall stick as the marker at B"
    ],
    "general": [
-    "Measure a baseline of 10 metres between points A and B. Draw it on the paper at a scale of 1 centimetre for 1 metre. At each end, draw a line towards the thing, then see where the two lines meet.",
+    "Measure a baseline of 10 metres between points A and B. Choose a scale that fits your paper: 1 centimetre for 1 metre if the thing is within about 25 metres, or 1 centimetre for 2 metres if it is farther. Draw the baseline on the paper. At each end, draw a line towards the thing, then see where the two lines meet.",
     "Make the baseline long compared with the distance. A baseline of about one-third of the distance works well.",
     "Take your measurement three times and use the middle one, because one try can be a fluke."
    ],
@@ -1820,7 +1828,7 @@
     "Use a longer baseline for a farther thing, as astronomers use the whole width of the Earth's orbit for a star.",
     "Pick a thing whose real distance a grown-up can find on a map, and test how close you can get."
    ],
-   "safety": "Choose a thing across a field or a quiet space, never across a busy road, and do not step into the road to measure. A grown-up stays with the child. Keep the drawing pin pointing down into the board, and put it in the clay when you are not using it.",
+   "safety": "Choose a thing across a field or a quiet space, never across a busy road, and do not step into the road to measure. A grown-up stays with the child. Keep the drawing pin pointing down into the board, and put it in the clay when you are not using it. Rest the board on a chair or stool, not on the ground, so nobody kneels in the way of others.",
    "your_turn": "Now choose your own far thing, make a plan, draw the scale triangle and work out the distance. Check it against a map or by pacing. How close were you? What would you change next time to get closer?",
    "context": "This is a design challenge about measuring the distance to something you cannot reach. It uses triangles, as surveyors do, and as astronomers do with parallax.",
    "setup": [
@@ -1868,21 +1876,22 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Move to B. Put the board on the ground with the pin at b. Turn the board until the ruler along the line b to a points at A. Keep it there. Now aim the ruler from b at the thing, and draw the second line. Where the two lines cross is the thing.",
+     "do": "Move to B. Rest the board on a stool, chair or low wall with the pin at b. Turn the board until the ruler along the line b to a points at A. Keep it there. Now aim the ruler from b at the thing, and draw the second line. Where the two lines cross is the thing.",
      "say": "Now we do the same from the other end. Make sure the line b to a points back at the first spot. Then aim at the tree and draw. See where the lines cross. Measure from a to the crossing with your ruler.",
      "kid": "Move to the other end. Point the line back to the first end. Aim at the tree.",
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "On your scale drawing, 1 centimetre stands for 1 metre. The crossing point is 38 centimetres from a. How far is the tree from spot A?",
+      "q": "On your scale drawing, 1 centimetre stands for 2 metres. The crossing point is 19 centimetres from a. How far is the tree from spot A?",
       "options": [
        "About 38 metres",
-       "About 3.8 metres",
-       "About 380 metres"
+       "About 19 metres",
+       "About 9.5 metres"
       ],
       "a": 0,
-      "why": "Each centimetre stands for a metre, so 38 centimetres stands for 38 metres. If you picked 3.8 or 380, you moved the decimal point. Check by doing the sum slowly: 38 times 1 metre is 38 metres."
-     }
+      "why": "Each centimetre stands for 2 metres, so 19 centimetres stands for 19 times 2, which is 38 metres. If you picked 19, you forgot to double. If you picked 9.5, you halved instead of doubling."
+     },
+     "parent": "With 2 to 4 children, give out jobs: one holds the board and aims, one stands at the far marker, one measures the baseline, one writes down. Swap and compare the three drawings; the middle answer is the one to trust."
     },
     {
      "id": "s4",
@@ -2957,7 +2966,7 @@
    "id": "b-red",
    "item": "Red cellophane sheets, or a small red LED torch",
    "kind": "tool",
-   "why": "For reading your notes at night without spoiling your eyes' sensitivity to the dark. A phone torch covered with two layers of red cellophane works well.",
+   "why": "For reading your notes at night without spoiling your eyes' sensitivity to the dark. A phone torch covered with two layers of red cellophane works well. Cheaper: red gift-wrap cellophane from a stationery shop (a few rupees a sheet), held on with a rubber band, or a red LED cycle light.",
    "url": "https://www.amazon.in/s?k=red+cellophane+sheet",
    "used_in": [
     "e2",
@@ -2981,7 +2990,7 @@
    "id": "b-binoc",
    "item": "A pair of binoculars, 7 by 50 or 10 by 50",
    "kind": "tool",
-   "why": "For looking at the colours of Betelgeuse and Rigel, the Pleiades and the Moon's craters. Not needed for any part of the unit, but they show far more stars than the eye.",
+   "why": "For looking at the colours of Betelgeuse and Rigel, the Pleiades and the Moon's craters. Not needed for any part of the unit, but they show far more stars than the eye. Optional and costly (about Rs 1,500 or more), so borrow a pair from a neighbour or a school if you can.",
    "url": "https://www.amazon.in/s?k=binoculars+10x50",
    "used_in": [
     "a3"
