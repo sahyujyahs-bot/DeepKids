@@ -183,13 +183,11 @@ function itemDetail(it, date) {
   if (it.kind === "plan")
     return `<p class="sm" style="font-weight:700">${esc(it.sub)}</p><div class="row"><button class="btn sm" data-act="quickplan">Open the Planner</button></div>`;
   if (it.kind === "lesson") {
-    const st = stepState(it),
-      prep = prepFor(it.u, it.n, it.tot).filter((p) => p.lead === 0);
+    const prep = prepFor(it.u, it.n, it.tot).filter((p) => p.lead === 0);
     const P = it.u.board === "unit" ? fxProgress(it.u.c.unit) : null;
-    return `<p class="sm muted dhead">${P ? (P.started ? `${P.done} of ${P.parts} parts done` : "Not started yet") : mins(st.reduce((m, x) => m + x.mins, 0))}</p>
-    ${P ? "" : `<ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span class="dtk">${x.ok ? icon("check") : ""}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>`}
+    return `${P ? `<p class="sm muted dhead">${P.started ? `${P.done} of ${P.parts} parts done` : "Not started yet"}</p>` : ""}
     ${prep.length ? `<div class="sm"><b style="font-family:var(--display)">Have ready</b><ul class="haveready">${prep.map((p) => `<li>${esc(p.task.replace(/^(Gather|Get):? /, "").replace(/ \(\d+\)$/, ""))}</li>`).join("")}</ul></div>` : ""}
-    <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${lessonLabel(it)}</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>`;
+    <div class="row">${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>`;
   }
   if (it.kind === "prep") {
     const more = it.prep.length - 4;
@@ -255,7 +253,7 @@ function dayPic(it) {
 function lessonLines(it) {
   if (it.u.board === "unit") {
     const P = fxProgress(it.u.c.unit),
-      show = (p) => (p ? `${fxKC(p.kind)[0]}: ${p.title}` : "");
+      show = (p) => (p ? (fxKC(p.kind)[0] === p.title ? p.title : `${fxKC(p.kind)[0]}: ${p.title}`) : "");
     return { last: show(P.last), next: show(P.next) };
   }
   const st = stepState(it),
@@ -286,9 +284,9 @@ function tRow(it, date, focus) {
   const drag = date === today && !it.done && !it.anytime && DAYMOVE.has(it.kind),
     L = it.kind === "lesson" ? lessonLines(it) : null,
     mid = L
-      ? `<div class="lmid"><div class="ltags"><span class="stag">${esc(SUBJ[it.s])}</span>${it.n ? `<span class="stag soft">Session ${it.n}${it.tot ? ` of ${it.tot}` : ""}</span>` : ""}${tag}</div><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(chT(it.u))}</b></button>${it.done ? `<p class="lline"><b>Done</b> ${it.doneAt != null ? "at " + clock(it.doneAt) : "today"}</p>` : `${L.last ? `<p class="lline"><b>Last done</b> ${esc(L.last)}</p>` : ""}${L.next ? `<p class="lline"><b>Next up</b> ${esc(L.next)}</p>` : ""}`}</div>`
+      ? `<div class="lmid"><div class="ltags"><span class="stag">${esc(SUBJ[it.s])}</span>${it.n ? `<span class="stag soft">Session ${it.n}${it.tot ? ` of ${it.tot}` : ""}</span>` : ""}<span class="stag soft">${mins(it.dur / 60)}</span>${tag}</div><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(chT(it.u))}</b></button>${!open ? "" : it.done ? `<p class="lline"><b>Done</b> ${it.doneAt != null ? "at " + clock(it.doneAt) : "today"}</p>` : `${L.last ? `<p class="lline"><b>Last done</b> ${esc(L.last)}</p>` : ""}${L.next ? `<p class="lline"><b>Next up</b> ${esc(L.next)}</p>` : ""}`}</div>`
       : "";
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : esc(ROLE[it.who])) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${(it === focus || it.kind === "lesson") && date === today && !it.done ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : esc(ROLE[it.who])) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${(it === focus ? it.kind !== "lesson" || open : it.kind === "lesson" && open) && date === today && !it.done ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),

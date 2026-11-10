@@ -1785,45 +1785,7 @@ dialog.mini::backdrop {
 .tag.miss {
   color: var(--bad);
 }
-.dsteps {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: grid;
-  gap: 6px;
-}
 /* the step's label sits above its title, so the title gets the full width on a phone */
-.dsteps li {
-  display: grid;
-  grid-template-columns: 20px 1fr auto;
-  gap: 0 10px;
-  align-items: baseline;
-  font-size: var(--fs-3);
-}
-.dsteps li .dtk {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  border: 2px solid var(--rule);
-  display: grid;
-  place-items: center;
-  align-self: center;
-}
-.dsteps li.ok .dtk {
-  background: var(--good);
-  border-color: var(--good);
-  color: #fff;
-}
-.dsteps li .dtk .ico {
-  width: 12px;
-  height: 12px;
-}
-.dsteps li i {
-  font-style: normal;
-  color: var(--muted);
-  font-weight: 700;
-  font-size: var(--fs-2);
-}
 .ontrack {
   display: grid;
   gap: 16px;
@@ -1998,9 +1960,6 @@ dialog.mini::backdrop {
 .haveready {
   margin: 4px 0 0;
   padding-left: 20px;
-}
-.dsteps li.ok b {
-  color: var(--muted);
 }
 .night {
   background: linear-gradient(140deg, color-mix(in srgb, var(--peri) 35%, var(--surface)), var(--surface));

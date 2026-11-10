@@ -934,7 +934,7 @@ function fxShowSection(si, ci) {
     ...body.map((c, j) => ({
       ...c,
       html:
-        `<div class="fxcrumb"><button class="fxcl" data-fx="map">${esc(u.title)}</button> › ${esc(fxKC(s.kind)[0])} › ${esc(s.title)}</div>` +
+        `<div class="fxcrumb"><button class="fxcl" data-fx="map">${esc(u.title)}</button> › ${esc(fxKC(s.kind)[0])}${fxKC(s.kind)[0] === s.title ? "" : ` › ${esc(s.title)}`}</div>` +
         c.html,
     })),
     end,

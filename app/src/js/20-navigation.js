@@ -386,6 +386,7 @@ function fxCrumbs() {
     if (l) parts.push(l);
   }
   if (tab === "today" && ui.tday && ui.tday !== today) parts.push(fmt(ui.tday));
+  if (parts.filter(Boolean).length < 2) return ""; // a main tab on its own is already marked in the tab bar
   return parts
     .filter(Boolean)
     .map((p, i, a) =>
