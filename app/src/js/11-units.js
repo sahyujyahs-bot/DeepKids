@@ -913,8 +913,9 @@ function fxShowSection(si, ci) {
     key: "end." + s.id,
     html: `<div class="fxtxt fxlead"><div class="fxbige">✅</div><h1>Done: ${esc(s.title)}</h1><p class="fxsm" data-fx-time>⏱️ You took ${fxMin(T)} (planned ${s.mins} min)</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">🗺️ Back to the map</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
+  // the title page of a part only shows when there is something to get ready; otherwise the part opens on its first card
   FXCARDS = [
-    lead,
+    ...(s.need?.length ? [lead] : []),
     ...body.map((c, j) => ({
       ...c,
       html: `<div class="fxcrumb">${fxPill(s.kind)} ${esc(s.title)} · card ${j + 1} of ${body.length}</div>` + c.html,
