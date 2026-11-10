@@ -101,27 +101,19 @@ function otherDay(d) {
    ${items.length ? `<div class="tt compact">${items.map((i) => tRow(i, d, null)).join("")}</div>` : past ? `<p class="note">Nothing was recorded that day.</p>` : noLessonNote(d)}
    ${past ? "" : `<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:12px">+ Add a plan for this day</button>`}</section>`;
 }
-function nowCard(it) {
-  const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
-    missed = isMissed(it, today),
-    a = `data-id="${it.id}" data-date="${today}"`,
-    open = !!ui.open["now|" + it.id];
-  const label = missed ? "Pending" : it.anytime ? "Any time today" : it.at <= nowMin() ? "Now" : "Up next";
-  const title = it.kind === "lesson" ? chT(it.u) : it.title;
-  const sub =
-    it.kind === "lesson"
-      ? `${SUBJ[it.s]} · Part ${it.n} of ${it.tot} · ${estTxt(it.u, it.n, it.tot)}`
-      : it.kind === "prep"
-        ? ((n) => `${n} thing${n === 1 ? "" : "s"} to get ready · ${mins(it.dur / 60)}`)(
-            it.prep.filter((p) => !S.prep[p.id]).length,
-          )
-        : it.sub || ROLE[it.who];
+// under the item that is up next (or now): its main button, and a way to say it was already done, later or skipped
+function upNextActions(it, a) {
   const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
-  return `<section class="now ${col}"><div class="nowtop">${dayPic(it)}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
-   <div class="row nowgo"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
-   ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
+  const main = P[0].includes("tlcheck")
+      ? ""
+      : `<button class="btn sm" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>`,
+    alt =
+      OURS(it) && it.kind !== "exps"
+        ? `<button class="tactalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>`
+        : "";
+  return main || alt ? `<div class="tact">${main}${alt}</div>` : "";
 }
 function moreView() {
   setSheetTitle("More for today");
@@ -164,14 +156,22 @@ function focusOf(items, date) {
 }
 const isMissed = (it, date) =>
   date === today && !it.done && !it.anytime && OURS(it) && isTask(it) && !snzd(it, date) && it.at + it.dur < nowMin();
+// has the family begun this lesson? (a unit keeps its own place; a chapter keeps its ticked steps)
+const lessonStarted = (it) =>
+  it.u.board === "unit" ? fxProgress(it.u.c.unit).started : stepState(it).some((x) => x.ok);
+const lessonLabel = (it) =>
+  lessonStarted(it)
+    ? it.u.board === "unit"
+      ? "Continue the unit"
+      : "Keep going"
+    : it.u.board === "unit"
+      ? "Start the unit"
+      : "Start the lesson";
 // the main thing to do with an item: [the button's attributes, its label]
 function itemAction(it, a) {
   return (
     {
-      lesson: [
-        `data-act="play" ${a}`,
-        it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
-      ],
+      lesson: [`data-act="play" ${a}`, it.kind === "lesson" ? lessonLabel(it) : ""],
       prep: [it.id === "pm" ? `data-act="night"` : `data-act="tlopen" ${a}`, "Open the checklist"],
       warm: [`data-act="games"`, "Start the warm-up"],
       plan: [`data-act="quickplan"`, "Open the Planner"],
@@ -192,10 +192,11 @@ function itemDetail(it, date) {
   if (it.kind === "lesson") {
     const st = stepState(it),
       prep = prepFor(it.u, it.n, it.tot).filter((p) => p.lead === 0);
-    return `<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u) ? " · " + chNo(it.u) : ""} · Part ${it.n} of ${it.tot}</div>
-    <ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span>${esc(x.label)}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>
+    const P = it.u.board === "unit" ? fxProgress(it.u.c.unit) : null;
+    return `<p class="sm muted dhead">Session ${it.n} of ${it.tot}${P ? ` · ${P.started ? `${P.done} of ${P.parts} parts done${P.next ? `, next: ${P.next}` : ""}` : "not started yet"}` : ` · ${mins(st.reduce((m, x) => m + x.mins, 0))}`}</p>
+    ${P ? "" : `<ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span class="dtk">${x.ok ? icon("check") : ""}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>`}
     ${prep.length ? `<div class="sm"><b style="font-family:var(--display)">Have ready</b><ul class="haveready">${prep.map((p) => `<li>${esc(p.task.replace(/^(Gather|Get):? /, "").replace(/ \(\d+\)$/, ""))}</li>`).join("")}</ul></div>` : ""}
-    <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${st.some((x) => x.ok) ? "Keep going" : "Start the lesson"}</button>` : ""}${!isT || it.done ? `<button class="btn soft sm" data-act="chapter" data-k="${it.u.k}">Everything for this chapter</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>${lessonExtras(it.u)}`;
+    <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${lessonLabel(it)}</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>`;
   }
   if (it.kind === "prep") {
     const more = it.prep.length - 4;
@@ -279,7 +280,7 @@ function tRow(it, date, focus) {
               ? `<span class="tag miss">Pending</span>`
               : "";
   const drag = date === today && !it.done && !it.anytime && DAYMOVE.has(it.kind);
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Part ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${it === focus && date === today && !it.done ? upNextActions(it, a) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),
@@ -632,7 +633,7 @@ function viewToday() {
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   // the first-week guide on top, then what to do next, then the day as a list; the week's numbers sit below it
-  h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
+  h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
@@ -726,12 +727,6 @@ Object.assign(ACT, {
     tab = "week";
     render();
     scrollTo(0, 0);
-  },
-  nowmore(b, e, a, k) {
-    const k2 = "now|" + b.dataset.id;
-    ui.open[k2] = !ui.open[k2];
-    sfx("tap");
-    render();
   },
   showdone(b, e, a, k) {
     ui.showDone = !ui.showDone;

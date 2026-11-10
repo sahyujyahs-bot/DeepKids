@@ -219,6 +219,11 @@ def check(path):
             if it.get("t") == "perspective" and not (2 <= len(it.get("views", [])) <= 3 and it.get("ask")): P(f"worksheet {ws.get('id')} item {i + 1}: perspective needs 2-3 views and an ask")
     for q in u["quiz"]:
         if q.get("outcome") is None: P("quiz items need an outcome index"); break
+    nw = lambda x: len(re.findall(r"\S+", str(x)))
+    qs = [i for ws in u["worksheets"] for i in ws.get("items", []) if isinstance(i.get("p"), str)] + [q for q in u["quiz"] if isinstance(q.get("q"), str)]
+    longq = [x for x in qs if nw(x.get("p") or x.get("q")) > 22]
+    longo = [x for x in qs if any(nw(o) > 12 for o in (x.get("opts") or x.get("options") or []))]
+    if longq or longo: W.append(f"questions that are not plain (WRITING.md rule 30): {len(longq)} over 22 words, {len(longo)} with an answer option over 12 words. E.g. {str((longq or longo)[0].get('p') or (longq or longo)[0].get('q'))[:70]}")
     if len(u["videos"]) != 3: P("videos: exactly 3")
     for v in u["videos"]:
         if v.get("status") == "find-id": W.append(f"video id still to find: {v.get('title')}")

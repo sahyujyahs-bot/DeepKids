@@ -3,8 +3,12 @@
 const GUIDE = {
   today: [
     [".thero", "Your day at a glance", "The date, how much is done today, and the read-aloud button."],
-    [".now", "What to do now", "The next thing to do. Tap it to start. When you finish, tap Done and it moves on."],
     [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
+    [
+      ".tr.focus",
+      "What to do now",
+      "The glowing item is what comes next, by the time of day. Tap its button to start. When you finish, tap the tick and the glow moves on.",
+    ],
     [
       ".daydrag .tr:has(.dh)",
       "Change the order",

@@ -1554,11 +1554,11 @@ function daySteps(u, n, tot) {
             "read",
             "Read",
             "📖",
-            "Open the chapter",
+            "Read the chapter together",
             0.6,
             `Read the first part of <b>${w}</b> together. Ask what your child thinks it's about.`,
           ],
-          ["act", "Try it", "🧭", "Hands-on", 0.4, esc(HINT[u.subj])],
+          ["act", "Try it", "🧭", "Try a hands-on activity", 0.4, esc(HINT[u.subj])],
         ]
       : n === tot
         ? [
@@ -1575,7 +1575,7 @@ function daySteps(u, n, tot) {
           ]
         : [
             ["read", "Continue", "📖", "Continue the chapter", 0.6, `Carry on in <b>${w}</b> from where you stopped.`],
-            ["act", "Practice", "🧭", "Hands-on practice", 0.3, esc(HINT[u.subj])],
+            ["act", "Practice", "🧭", "Practise by doing", 0.3, esc(HINT[u.subj])],
             ["ws", "Note", "📝", "Note what's hard", 0.1, "Write down anything that needs another go."],
           ];
   return A.map(([kind, label, icon, title, f, html]) => ({
@@ -7073,7 +7073,7 @@ const FXN = {
   challenges: "Challenge",
 };
 const fxSt = () => {
-  S.fx = S.fx || { mode: "parent", pos: {}, done: {}, saved: {}, ref: {}, score: {} };
+  S.fx = S.fx || { pos: {}, done: {}, saved: {}, ref: {}, score: {} };
   for (const k of ["pos", "done", "saved", "ref", "score", "time"]) S.fx[k] = S.fx[k] || {};
   return S.fx;
 };
@@ -7226,6 +7226,11 @@ const fxHow = (u, o) => {
   for (const k of Object.keys(FXN)) for (const x of u[k] || []) if (x.id === o.how) return fxSetup(u, x, true);
   return "";
 };
+// on a question card the experiment it came from stays folded away until it is wanted
+const fxLook = (u, o) => {
+  const h = fxHow(u, o);
+  return h ? `<details class="fxlook"><summary>Look at the experiment again</summary>${h}</details>` : "";
+};
 function fxSongHtml(sg) {
   return `<span class="fxeb">🎵 Song · about ${Math.round((sg.seconds || 0) / 60)} min</span><h2>${esc(sg.title)}</h2><p class="fxsm">Words: ${esc(sg.lyrics_by)}. Music: a first draft made by DeepKids; play it and sing along.</p>
   ${sg.audio ? `<audio class="fxaudio" controls preload="none" src="${sg.audio}"></audio>` : ""}
@@ -7323,8 +7328,7 @@ function fxFlowCards(u, kind, x) {
       step: s,
       html: `<div class="fxtxt fxstep"><span class="fxeb">${FXE[kind]} ${esc(x.title)} · step ${i + 1} of ${n} · ${s.mins} min</span>
     ${fxHow(u, s)}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
-    <div class="pm"><p><b>Do:</b> ${esc(s.do || "")}</p>${s.say ? `<p class="fxsay">“${esc(s.say)}”</p>` : ""}${(s.ask || []).map((a) => `<details class="fxask"><summary>Ask: ${esc(a.q)}</summary><p class="fxsm">Good answers: ${a.good.map(esc).join("; ")}</p></details>`).join("")}${s.parent ? `<p class="fxpo">For you: ${esc(s.parent)}</p>` : ""}</div>
-    <div class="km"><p class="fxkid">${esc(s.kid)}</p></div>${fxChart(s.chart)}
+    <p class="fxkid">${esc(s.kid)}</p>${fxChart(s.chart)}
     ${s.check ? fxMcq(u, `chk.${x.id}.${s.id}`, s.check.q, s.check.options, s.check.a, s.check.why || "", s.check) : ""}${s.wait ? `<p class="fxsm">⏳ ${esc(s.wait)}: DeepKids brings this back on the right day.</p>` : ""}
     ${s.think ? `<p class="fxthink">🤔 ${esc(s.think)}</p>` : ""}<button class="fxb fxdone" data-fx="done" data-key="step.${x.id}.${s.id}">✓ Done</button></div>`,
     }),
@@ -7338,7 +7342,7 @@ function fxFlowCards(u, kind, x) {
   return C;
 }
 function fxMcq(u, key, q, opts, a, why, it) {
-  return `<div class="fxq" data-key="${esc(key)}" data-a="${a}" data-why="${esc(why || "")}">${fxHow(u, it)}${fxChart(it?.chart)}<p class="fxqq">${esc(q)}</p>${opts.map((o, i) => `<button class="fxopt" data-fx="opt" data-i="${i}">${esc(String(o))}</button>`).join("")}<p class="fxwhy" hidden></p>${it?.answer_chart ? `<div class="fxach" hidden>${fxChart(it.answer_chart)}</div>` : ""}</div>`;
+  return `<div class="fxq" data-key="${esc(key)}" data-a="${a}" data-why="${esc(why || "")}">${fxLook(u, it)}${fxChart(it?.chart)}<p class="fxqq">${esc(q)}</p>${opts.map((o, i) => `<button class="fxopt" data-fx="opt" data-i="${i}">${esc(String(o))}</button>`).join("")}<p class="fxwhy" hidden></p>${it?.answer_chart ? `<div class="fxach" hidden>${fxChart(it.answer_chart)}</div>` : ""}</div>`;
 }
 function fxItem(u, key, it, i, n) {
   const head = `<span class="fxeb">Question ${i + 1} of ${n}</span>`,
@@ -7348,43 +7352,52 @@ function fxItem(u, key, it, i, n) {
   if (it.t === "fill")
     return (
       head +
-      `<div class="fxq" data-key="${esc(key)}">${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p><input class="fxin" placeholder="Type your answer"><button class="fxb" data-fx="fill" data-ans="${esc(JSON.stringify(it.a))}" data-why="${esc(it.why)}">Check</button><p class="fxwhy" hidden></p></div>`
+      `<div class="fxq" data-key="${esc(key)}">${fxLook(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p><input class="fxin" placeholder="Type your answer"><button class="fxb" data-fx="fill" data-ans="${esc(JSON.stringify(it.a))}" data-why="${esc(it.why)}">Check</button><p class="fxwhy" hidden></p></div>`
     );
+  const lines = (L, ordered) =>
+      `<${ordered ? "ol" : "ul"} class="fxlist">${L.map((x) => `<li>${x}</li>`).join("")}</${ordered ? "ol" : "ul"}>`,
+    pair = ([x, y]) => `${esc(x)} <span class="fxarr">→</span> <b>${esc(y)}</b>`,
+    right = it.t === "match" ? it.pairs.map((p) => p[1]).sort() : [],
+    letter = (y) => "ABCDEFGH"[right.indexOf(y)];
+  // the answer, one point to a line
   const ans =
     it.t === "sort"
-      ? it.items.map(([x, c]) => `${x} → ${c}`).join("; ")
+      ? lines(it.items.map(pair))
       : it.t === "match"
-        ? it.pairs.map(([x, y]) => `${x} → ${y}`).join("; ")
+        ? `<ul class="fxlist fxnone">${it.pairs.map(([x, y], i) => `<li>${i + 1}. ${esc(x)} <span class="fxarr">→</span> <b>${letter(y)}. ${esc(y)}</b></li>`).join("")}</ul>`
         : it.t === "order"
-          ? it.items.join(" → ")
+          ? lines(it.items.map(esc), true)
           : it.t === "forces"
-            ? it.a.map((f) => `${f.name}: ${f.dir}`).join(", ")
-            : String(it.a);
+            ? lines(it.a.map((f) => `${esc(f.name)}: <b>${esc(f.dir)}</b>`))
+            : it.t === "draw"
+              ? `<p>Your drawing should show: ${esc(String(it.a))}</p>`
+              : `<p>${esc(String(it.a))}</p>`;
   // pick a side: two or three real points of view; the child chooses one, argues for it, then answers back from another
   const views = (it.views || []).map((v) => `<p><b>${esc(v.who)}:</b> “${esc(v.says)}”</p>`).join("");
+  // the question side: what to do, then the things to work on, one to a line
   const body =
     it.t === "match"
-      ? `<p class="fxsm">Match: ${it.pairs.map((p) => esc(p[0])).join(" · ")} ⟷ ${it.pairs
-          .map((p) => esc(p[1]))
-          .slice()
-          .sort()
-          .join(" · ")}</p>`
+      ? `<p class="fxsm">Match each number on the left to a letter on the right:</p><div class="fxtwo">${lines(
+          it.pairs.map((p) => esc(p[0])),
+          true,
+        )}<ol class="fxlist fxabc">${right.map((y) => `<li>${esc(y)}</li>`).join("")}</ol></div>`
       : it.t === "sort"
-        ? `<p class="fxsm">Sort into <b>${it.cats.map(esc).join("</b> and <b>")}</b>: ${it.items.map((x) => esc(x[0])).join(" · ")}</p>`
+        ? `<div class="fxcats">${it.cats.map((c) => `<b>${esc(c)}</b>`).join("")}</div>${lines(it.items.map((x) => esc(x[0])))}`
         : it.t === "order"
-          ? `<p class="fxsm">${it.items.slice().sort().map(esc).join(" · ")}</p>`
+          ? lines(it.items.slice().sort().map(esc))
           : it.t === "forces"
-            ? `<p class="fxsm">Draw arrows for: ${it.options.map(esc).join(", ")}</p>`
+            ? `<p class="fxsm">Draw an arrow for each:</p>${lines(it.options.map(esc))}`
             : it.t === "perspective"
               ? `<div class="fxviews">${views}</div><p class="fxsm">${esc(it.ask)}</p>`
               : `<p class="fxsm">${it.t === "draw" ? "Draw it on paper." : "Say it out loud or write it on paper."}</p>`;
+  const q = it.t === "sort" ? it.p.replace(/^Sort (these|them|each one)\.\s*/i, "") : it.p;
   return (
     head +
-    `<div class="fxq">${fxHow(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(it.p)}</p>${body}<details class="fxask"><summary>Show the answer</summary><p><b>${esc(ans)}</b></p><p class="fxsm">${esc(it.why)}</p>${fxChart(it.answer_chart)}</details></div>`
+    `<div class="fxq">${fxLook(u, it)}${fxChart(it.chart)}<p class="fxqq">${esc(q)}</p>${body}<details class="fxask"><summary>Show the answer</summary>${ans}<p class="fxsm"><b>Why?</b> ${esc(it.why)}</p>${fxChart(it.answer_chart)}</details></div>`
   );
 }
 function fxCarousel(u, pre, items, title) {
-  return `<div class="fxcar">${items.map((it, i) => `<div class="fxslide">${fxItem(u, `${pre}.${i}`, it, i, items.length)}</div>`).join("")}</div><p class="fxhint">Swipe sideways for the next question →</p>`;
+  return `<div class="fxcar fxstack">${items.map((it, i) => `<div class="fxslide">${fxItem(u, `${pre}.${i}`, it, i, items.length)}</div>`).join("")}</div>`;
 }
 function fxCards(u) {
   const C = [],
@@ -7474,7 +7487,7 @@ function fxCards(u) {
         }
         add(
           "story.end",
-          `<div class="fxtxt"><span class="fxeb">📖 After the story</span><div class="pm"><p class="fxpo">${esc(st.epiphany)}</p></div><h3>Talk about it</h3><ul>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>`,
+          `<div class="fxtxt"><span class="fxeb">📖 After the story</span><h3>Talk about it</h3><ul>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>`,
           st.ask.join(" "),
         );
         break;
@@ -7562,7 +7575,7 @@ function fxCards(u) {
         const pr = r.practice || {};
         add(
           "roots.3",
-          `<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · a quiet moment · ${pr.mins || 3} min</span><h2>${esc(pr.title || "")}</h2><p class="pm">${esc(pr.say || "")}</p><p class="km">${esc(pr.kid || "")}</p><h3>Wonder about it</h3><ul>${(r.ask || []).map((q) => `<li>${esc(q)}</li>`).join("")}</ul><button class="fxb" data-fx="askcard">💬 Think it through with DeepKids AI</button></div>`,
+          `<div class="fxtxt fxroots"><span class="fxeb">🪷 Roots · a quiet moment · ${pr.mins || 3} min</span><h2>${esc(pr.title || "")}</h2><p>${esc(pr.kid || "")}</p><h3>Wonder about it</h3><ul>${(r.ask || []).map((q) => `<li>${esc(q)}</li>`).join("")}</ul><button class="fxb" data-fx="askcard">💬 Think it through with DeepKids AI</button></div>`,
           (pr.kid || "") + " " + (r.ask || []).join(" "),
         );
         break;
@@ -7835,7 +7848,15 @@ async function fxLoad(id) {
   if (!r.ok) throw new Error("HTTP " + r.status);
   return (FXFULL[id] = await r.json());
 }
-async function fxOpen(id) {
+// where a family is in a unit: how many parts are done, and what the next tap on Continue opens
+function fxProgress(id) {
+  const F = fxSt(),
+    done = Object.keys(F.done[id] || {}).filter((k) => k.startsWith("sec:")).length,
+    pos = F.pos[id];
+  return { done, parts: DATA.units?.[id]?.parts || 0, started: !!(done || pos), next: pos?.k ? fxKC(pos.k)[0] : "" };
+}
+// open a unit; with `straightIn` it goes into the part the family is up to, skipping the unit's front page
+async function fxOpen(id, straightIn) {
   if (!DATA.units?.[id]) return toast("This unit isn't in the app yet");
   if (!dkUnitOpen(id)) return dkLocked();
   let u;
@@ -7848,9 +7869,9 @@ async function fxOpen(id) {
   FXU = u;
   FXALL = fxCards(u);
   const d = fxDialog();
-  d.dataset.mode = fxSt().mode;
   if (!d.open) d.showModal();
   fxMap();
+  if (straightIn) d.querySelector(".fxstart")?.click();
   clearInterval(FXTICK);
   FXTICK = setInterval(() => {
     if (!d.open || FXSI < 0 || document.visibilityState !== "visible") return;
@@ -7868,8 +7889,7 @@ function fxSecState(u, s) {
   return F.done[u.id]?.["sec:" + s.id] ? "done" : F.time[u.id]?.[s.id] ? "started" : "";
 }
 function fxTop() {
-  const F = fxSt();
-  return `<div class="fxtop"><button class="fxx" data-fx="map" aria-label="Back to the unit's first screen">${icon("back")}</button><div class="fxbar"><i style="width:0"></i></div><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>`;
+  return `<div class="fxtop"><button class="fxx" data-fx="map" aria-label="Back to the unit's first screen">${icon("back")}</button><div class="fxbar"><i style="width:0"></i></div></div>`;
 }
 function fxMap() {
   const u = FXU,
@@ -7891,7 +7911,7 @@ function fxMap() {
     SD = it ? fxSpineDays(it).length : 0,
     ref = unitRef(u.id),
     groups = [...new Set(SL.map((s) => fxGroup(s.kind)))];
-  d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button><button class="fxmd" data-fx="mode" data-m="${F.mode === "parent" ? "child" : "parent"}">${F.mode === "parent" ? "👩 Teaching" : "🧒 Learner"}</button></div>
+  d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button></div>
     <div class="fxin fxsheetp"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
     <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"} to start</span>` : ""}<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>${ref ? `<span>${esc(ref)}</span>` : ""}</div>
     ${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
@@ -7953,7 +7973,7 @@ function fxShowSection(si, ci) {
           const sv = d.querySelector('.fxact [data-fx="save"]');
           sv.textContent = fxSt().saved[u.id]?.[FXCARDS[i].key] ? "❤️" : "🤍";
           const F2 = fxSt();
-          F2.pos[u.id] = { s: si, c: i };
+          F2.pos[u.id] = { s: si, c: i, k: s.kind };
           if (i === FXCARDS.length - 1) {
             const D = (F2.done[u.id] = F2.done[u.id] || {});
             D["sec:" + s.id] = 1;
@@ -7998,10 +8018,10 @@ function fxClose() {
 }
 function fxCardText(sec) {
   const c = FXCARDS[+sec.dataset.i];
-  if (c?.step) return fxSt().mode === "child" ? c.step.kid : [c.step.say, c.step.do].filter(Boolean).join(" ");
+  if (c?.step) return c.step.kid;
   // the whole card as it reads on screen in this mode, without its labels ("Part 2 of 36", "ACTIVITY")
   const el = sec.querySelector(".fxtxt,.fxflip")?.cloneNode(true);
-  el?.querySelectorAll(`.fxeb,.fxkp,.fxcrumb,${fxSt().mode === "child" ? ".pm" : ".km"}`).forEach((x) => x.remove());
+  el?.querySelectorAll(`.fxeb,.fxkp,.fxcrumb`).forEach((x) => x.remove());
   return readable(el);
 }
 function fxRecordAnswer(u, key, ok, q) {
@@ -8116,7 +8136,6 @@ async function fxPractise(ids) {
   items.push(...spare.slice(0, Math.max(0, 5 - items.length)));
   const d = fxDialog();
   FXSI = -3;
-  d.dataset.mode = fxSt().mode;
   d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
   if (!d.open) d.showModal();
 }
@@ -8295,17 +8314,6 @@ function fxClick(e) {
     return;
   }
   if (a === "begin") return sec?.nextElementSibling?.scrollIntoView({ behavior: "smooth" });
-  if (a === "mode") {
-    F.mode = b.dataset.m;
-    save();
-    d.dataset.mode = F.mode;
-    if (FXSI === -1) fxMap();
-    const t = d.querySelector(".fxmd");
-    if (!t) return;
-    t.dataset.m = F.mode === "parent" ? "child" : "parent";
-    t.textContent = F.mode === "parent" ? "👩 Teaching" : "🧒 Learner";
-    return toast(F.mode === "parent" ? "Parent mode: what to do and say" : "Learner mode: the app talks to the child");
-  }
   if (a === "save") {
     const S1 = (F.saved[u.id] = F.saved[u.id] || {}),
       k = sec.dataset.key;
@@ -9145,20 +9153,6 @@ function resChapters(r) {
     .sort((a, b) => chapterRank(a) - chapterRank(b));
 }
 const chipK = (u) => `<button class="chip xs" data-act="chapter" data-k="${esc(u.k)}">${esc(unitLabel(u))}</button>`;
-function lessonExtras(u) {
-  const R = resSort(resourcesFor(u)).filter(rFits),
-    pick = [],
-    seen = new Set();
-  for (const r of R) {
-    if (seen.has(r.type)) continue;
-    seen.add(r.type);
-    pick.push(r);
-    if (pick.length === 3) break;
-  }
-  const shelf = shelfFor(u);
-  if (!pick.length && !shelf.length) return "";
-  return `<div class="extras">${shelf.length ? `<div class="sm"><b style="font-family:var(--display)">From your shelf:</b> ${shelf.map((i) => esc(i.name)).join(" · ")}</div>` : ""}${pick.length ? `<h4 class="extrash">More for this chapter, from other sites</h4>${pick.map((r) => `<a class="res" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="xs muted">${RTYPE[r.type]} · ${esc(r.source)} ↗</span><b>${esc(r.title)}</b></a>`).join("")}<button class="link xs self-start" data-act="chapter" data-k="${u.k}" data-t="res">All resources for this chapter</button>` : ""}</div>`;
-}
 // what the family owns that goes with a lesson: tagged to it when sorted, or (added by hand, untagged)
 // sharing a real word with the lesson's title, like "bar magnets" and "Magnets: …"
 const shelfWords = (t) =>
@@ -10631,27 +10625,19 @@ function otherDay(d) {
    ${items.length ? `<div class="tt compact">${items.map((i) => tRow(i, d, null)).join("")}</div>` : past ? `<p class="note">Nothing was recorded that day.</p>` : noLessonNote(d)}
    ${past ? "" : `<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:12px">+ Add a plan for this day</button>`}</section>`;
 }
-function nowCard(it) {
-  const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
-    missed = isMissed(it, today),
-    a = `data-id="${it.id}" data-date="${today}"`,
-    open = !!ui.open["now|" + it.id];
-  const label = missed ? "Pending" : it.anytime ? "Any time today" : it.at <= nowMin() ? "Now" : "Up next";
-  const title = it.kind === "lesson" ? chT(it.u) : it.title;
-  const sub =
-    it.kind === "lesson"
-      ? `${SUBJ[it.s]} · Part ${it.n} of ${it.tot} · ${estTxt(it.u, it.n, it.tot)}`
-      : it.kind === "prep"
-        ? ((n) => `${n} thing${n === 1 ? "" : "s"} to get ready · ${mins(it.dur / 60)}`)(
-            it.prep.filter((p) => !S.prep[p.id]).length,
-          )
-        : it.sub || ROLE[it.who];
+// under the item that is up next (or now): its main button, and a way to say it was already done, later or skipped
+function upNextActions(it, a) {
   const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
-  return `<section class="now ${col}"><div class="nowtop">${dayPic(it)}<div class="nowtxt"><span class="eyebrow">${label} · ${it.anytime ? "any time" : clock(it.at)}</span><h2>${esc(title)}</h2><button class="sub subtap" data-act="nowmore" data-id="${it.id}" aria-expanded="${!!open}">${esc(sub)} <span class="chev">${open ? "Hide" : "What's in it"}</span></button></div></div>
-   <div class="row nowgo"><button class="btn wide big" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>${P[0].includes("tlcheck") || P[0].includes("evcancel") ? "" : `<button class="ck" data-act="tlcheck" ${a} aria-label="Mark done: ${esc(title)}">${icon("check")}</button>`}</div>
-   ${OURS(it) && it.kind !== "exps" ? `<button class="nowalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>` : ""}${open ? `<div class="tdet">${itemDetail(it, today)}</div>` : ""}</section>`;
+  const main = P[0].includes("tlcheck")
+      ? ""
+      : `<button class="btn sm" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>`,
+    alt =
+      OURS(it) && it.kind !== "exps"
+        ? `<button class="tactalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>`
+        : "";
+  return main || alt ? `<div class="tact">${main}${alt}</div>` : "";
 }
 function moreView() {
   setSheetTitle("More for today");
@@ -10694,14 +10680,22 @@ function focusOf(items, date) {
 }
 const isMissed = (it, date) =>
   date === today && !it.done && !it.anytime && OURS(it) && isTask(it) && !snzd(it, date) && it.at + it.dur < nowMin();
+// has the family begun this lesson? (a unit keeps its own place; a chapter keeps its ticked steps)
+const lessonStarted = (it) =>
+  it.u.board === "unit" ? fxProgress(it.u.c.unit).started : stepState(it).some((x) => x.ok);
+const lessonLabel = (it) =>
+  lessonStarted(it)
+    ? it.u.board === "unit"
+      ? "Continue the unit"
+      : "Keep going"
+    : it.u.board === "unit"
+      ? "Start the unit"
+      : "Start the lesson";
 // the main thing to do with an item: [the button's attributes, its label]
 function itemAction(it, a) {
   return (
     {
-      lesson: [
-        `data-act="play" ${a}`,
-        it.kind === "lesson" && stepState(it).some((x) => x.ok) ? "Keep going" : "Start the lesson",
-      ],
+      lesson: [`data-act="play" ${a}`, it.kind === "lesson" ? lessonLabel(it) : ""],
       prep: [it.id === "pm" ? `data-act="night"` : `data-act="tlopen" ${a}`, "Open the checklist"],
       warm: [`data-act="games"`, "Start the warm-up"],
       plan: [`data-act="quickplan"`, "Open the Planner"],
@@ -10722,10 +10716,11 @@ function itemDetail(it, date) {
   if (it.kind === "lesson") {
     const st = stepState(it),
       prep = prepFor(it.u, it.n, it.tot).filter((p) => p.lead === 0);
-    return `<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u) ? " · " + chNo(it.u) : ""} · Part ${it.n} of ${it.tot}</div>
-    <ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span>${esc(x.label)}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>
+    const P = it.u.board === "unit" ? fxProgress(it.u.c.unit) : null;
+    return `<p class="sm muted dhead">Session ${it.n} of ${it.tot}${P ? ` · ${P.started ? `${P.done} of ${P.parts} parts done${P.next ? `, next: ${P.next}` : ""}` : "not started yet"}` : ` · ${mins(st.reduce((m, x) => m + x.mins, 0))}`}</p>
+    ${P ? "" : `<ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span class="dtk">${x.ok ? icon("check") : ""}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>`}
     ${prep.length ? `<div class="sm"><b style="font-family:var(--display)">Have ready</b><ul class="haveready">${prep.map((p) => `<li>${esc(p.task.replace(/^(Gather|Get):? /, "").replace(/ \(\d+\)$/, ""))}</li>`).join("")}</ul></div>` : ""}
-    <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${st.some((x) => x.ok) ? "Keep going" : "Start the lesson"}</button>` : ""}${!isT || it.done ? `<button class="btn soft sm" data-act="chapter" data-k="${it.u.k}">Everything for this chapter</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>${lessonExtras(it.u)}`;
+    <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${lessonLabel(it)}</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>`;
   }
   if (it.kind === "prep") {
     const more = it.prep.length - 4;
@@ -10809,7 +10804,7 @@ function tRow(it, date, focus) {
               ? `<span class="tag miss">Pending</span>`
               : "";
   const drag = date === today && !it.done && !it.anytime && DAYMOVE.has(it.kind);
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Part ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${it === focus && date === today && !it.done ? upNextActions(it, a) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),
@@ -11162,7 +11157,7 @@ function viewToday() {
     h += `<button class="nudge" data-act="parent">${youBlob("", "happy", 'width="36" height="36"')}<span>${pname() ? "Set your wake-up and prep times" : "Tell us your name and wake-up time"}</span>${icon("next")}</button>`;
   if (ui.tday && ui.tday !== today) return h + otherDay(ui.tday);
   // the first-week guide on top, then what to do next, then the day as a list; the week's numbers sit below it
-  h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${f ? nowCard(f) : ""}${nudgeCard()}${calHead(today)}`;
+  h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
@@ -11256,12 +11251,6 @@ Object.assign(ACT, {
     tab = "week";
     render();
     scrollTo(0, 0);
-  },
-  nowmore(b, e, a, k) {
-    const k2 = "now|" + b.dataset.id;
-    ui.open[k2] = !ui.open[k2];
-    sfx("tap");
-    render();
   },
   showdone(b, e, a, k) {
     ui.showDone = !ui.showDone;
@@ -17504,8 +17493,12 @@ function openEditor(node) {
 const GUIDE = {
   today: [
     [".thero", "Your day at a glance", "The date, how much is done today, and the read-aloud button."],
-    [".now", "What to do now", "The next thing to do. Tap it to start. When you finish, tap Done and it moves on."],
     [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
+    [
+      ".tr.focus",
+      "What to do now",
+      "The glowing item is what comes next, by the time of day. Tap its button to start. When you finish, tap the tick and the glow moves on.",
+    ],
     [
       ".daydrag .tr:has(.dh)",
       "Change the order",
@@ -18178,7 +18171,7 @@ Object.assign(ACT, {
 /* What every tap does (onAct) and the event dialog */
 function playItem(it, toExperiment) {
   // a DeepKids-track unit opens as the unit itself, where the family left off (or at its first experiment)
-  if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit);
+  if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit, true);
   setTimeout(autoRead, 100);
   const st = stepState(it),
     exp = st.findIndex((x) => x.sec === "lab" && x.kind === "exp"),

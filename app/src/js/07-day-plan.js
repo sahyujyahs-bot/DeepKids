@@ -72,11 +72,11 @@ function daySteps(u, n, tot) {
             "read",
             "Read",
             "📖",
-            "Open the chapter",
+            "Read the chapter together",
             0.6,
             `Read the first part of <b>${w}</b> together. Ask what your child thinks it's about.`,
           ],
-          ["act", "Try it", "🧭", "Hands-on", 0.4, esc(HINT[u.subj])],
+          ["act", "Try it", "🧭", "Try a hands-on activity", 0.4, esc(HINT[u.subj])],
         ]
       : n === tot
         ? [
@@ -93,7 +93,7 @@ function daySteps(u, n, tot) {
           ]
         : [
             ["read", "Continue", "📖", "Continue the chapter", 0.6, `Carry on in <b>${w}</b> from where you stopped.`],
-            ["act", "Practice", "🧭", "Hands-on practice", 0.3, esc(HINT[u.subj])],
+            ["act", "Practice", "🧭", "Practise by doing", 0.3, esc(HINT[u.subj])],
             ["ws", "Note", "📝", "Note what's hard", 0.1, "Write down anything that needs another go."],
           ];
   return A.map(([kind, label, icon, title, f, html]) => ({

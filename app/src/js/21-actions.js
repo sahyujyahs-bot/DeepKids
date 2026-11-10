@@ -1,7 +1,7 @@
 /* What every tap does (onAct) and the event dialog */
 function playItem(it, toExperiment) {
   // a DeepKids-track unit opens as the unit itself, where the family left off (or at its first experiment)
-  if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit);
+  if (it.u.board === "unit") return toExperiment ? fxOpenExperiment(it.u.c.unit) : fxOpen(it.u.c.unit, true);
   setTimeout(autoRead, 100);
   const st = stepState(it),
     exp = st.findIndex((x) => x.sec === "lab" && x.kind === "exp"),

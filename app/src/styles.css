@@ -1768,6 +1768,14 @@ dialog.mini::backdrop {
 .tr.focus .tcard .ic {
   animation: pop 1.2s ease-in-out infinite;
 }
+@keyframes upnext {
+  50% {
+    box-shadow:
+      0 0 0 7px color-mix(in srgb, var(--c, var(--sun)) 18%, transparent),
+      var(--shadow);
+    transform: scale(1.012);
+  }
+}
 @keyframes breathe {
   50% {
     transform: scale(1.015);
@@ -1805,29 +1813,34 @@ dialog.mini::backdrop {
 /* the step's label sits above its title, so the title gets the full width on a phone */
 .dsteps li {
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 0 8px;
+  grid-template-columns: 20px 1fr auto;
+  gap: 0 10px;
   align-items: baseline;
   font-size: var(--fs-3);
 }
-.dsteps li span {
-  grid-column: 1/-1;
-  font: 600 var(--fs-1) var(--display);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--muted);
+.dsteps li .dtk {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid var(--rule);
+  display: grid;
+  place-items: center;
+  align-self: center;
+}
+.dsteps li.ok .dtk {
+  background: var(--good);
+  border-color: var(--good);
+  color: #fff;
+}
+.dsteps li .dtk .ico {
+  width: 12px;
+  height: 12px;
 }
 .dsteps li i {
   font-style: normal;
   color: var(--muted);
   font-weight: 700;
   font-size: var(--fs-2);
-}
-.extrash {
-  margin: 6px 0 0;
-  padding-top: 12px;
-  border-top: 2px solid var(--line);
-  font: 600 var(--fs-5) var(--display);
 }
 .ontrack {
   display: grid;
@@ -2005,7 +2018,6 @@ dialog.mini::backdrop {
   padding-left: 20px;
 }
 .dsteps li.ok b {
-  text-decoration: line-through;
   color: var(--muted);
 }
 .night {
@@ -2305,30 +2317,10 @@ dialog.mini::backdrop {
   cursor: pointer;
   border-radius: 16px;
 }
-.now {
-  display: grid;
-  gap: 12px;
-  position: relative;
-  padding: 16px;
-  border-radius: var(--r-card);
-  background: var(--surface);
-  box-shadow: var(--shadow);
-}
 .btn.big {
   height: 54px;
   font-size: var(--fs-5);
   border-radius: 16px !important;
-}
-.now .ck {
-  width: 54px;
-  height: 54px;
-  border-radius: 50%;
-}
-.now .tdet {
-  display: grid;
-  gap: 10px;
-  border-top: 1px solid var(--rule);
-  padding-top: 10px;
 }
 .nudge {
   margin-top: 12px;
@@ -3996,25 +3988,15 @@ a.btn {
 .flash {
   animation: dkflash 2.2s ease-out;
 }
-.subtap {
-  display: block;
-  background: 0 0;
-  border: 0;
-  padding: 0;
-  margin: 0;
-  text-align: left;
-  font: inherit;
-  font-weight: 700;
-  color: var(--muted);
-  cursor: pointer;
+.tact {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 14px;
+  padding-left: 52px;
 }
-.subtap .chev {
-  font-size: var(--fs-3);
-  font-weight: 600;
-  white-space: nowrap;
-  opacity: 0.85;
-}
-.nowalt {
+.tactalt {
   background: 0 0;
   border: 0;
   padding: 6px 0 0;
@@ -4290,7 +4272,7 @@ html:has(.fxdlg[open]) {
   overflow: hidden;
 }
 .fxdlg::backdrop {
-  background: #211b33;
+  background: var(--bg);
 }
 .fxtop {
   position: absolute;
@@ -4300,25 +4282,16 @@ html:has(.fxdlg[open]) {
   align-items: center;
   gap: 10px;
   padding: calc(env(safe-area-inset-top, 0) + 10px) 12px 10px;
-  background: linear-gradient(#211b33ee, #211b3300);
+  background: linear-gradient(var(--bg) 60%, transparent);
 }
 .fxx {
   border: 0;
   width: 38px;
   height: 38px;
   border-radius: 50%;
-  background: #fff3;
-  color: #fff;
-  font: 700 var(--fs-4) var(--body);
-  flex: none;
-}
-.fxmd {
-  border: 0;
-  border-radius: 999px;
-  padding: 8px 12px;
-  background: #fff;
+  background: var(--sunk);
   color: var(--ink);
-  font: 700 var(--fs-3) var(--body);
+  font: 700 var(--fs-4) var(--body);
   flex: none;
 }
 .fxfeed {
@@ -4338,17 +4311,15 @@ html:has(.fxdlg[open]) {
   position: relative;
   display: flex;
   justify-content: center;
-  padding: 62px 10px 14px;
+  padding: 56px 0 0;
 }
 .fxin {
   width: 100%;
   max-width: 560px;
   height: 100%;
   background: var(--bg);
-  border-radius: 26px;
   overflow-y: auto;
   overflow-x: hidden;
-  box-shadow: 0 10px 40px #0006;
   display: flex;
   flex-direction: column;
   scrollbar-width: thin;
@@ -4465,12 +4436,6 @@ html:has(.fxdlg[open]) {
     "Iowan Old Style",
     serif;
 }
-.fxsay {
-  background: color-mix(in srgb, var(--peri) 18%, var(--surface));
-  border-radius: 16px;
-  padding: 12px 14px;
-  font-weight: 700;
-}
 .fxkid {
   font: 600 var(--fs-6) / 1.45 var(--display);
 }
@@ -4490,12 +4455,6 @@ html:has(.fxdlg[open]) {
   background: color-mix(in srgb, var(--sun) 30%, var(--surface));
   border-radius: 14px;
   padding: 10px 12px;
-}
-.fxdlg[data-mode="parent"] .km {
-  display: none;
-}
-.fxdlg[data-mode="child"] .pm {
-  display: none;
 }
 .fxb {
   display: inline-flex;
@@ -4556,6 +4515,45 @@ html:has(.fxdlg[open]) {
   font-weight: 800;
   cursor: pointer;
 }
+.fxlist {
+  margin: 4px 0;
+  padding-left: 1.2em;
+  display: grid;
+  gap: 4px;
+  font-size: var(--fs-4);
+  line-height: 1.4;
+}
+.fxcats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.fxcats b {
+  padding: 6px 12px;
+  border-radius: 99px;
+  background: color-mix(in srgb, var(--aqua) 16%, var(--surface));
+  font-size: var(--fs-3);
+}
+.fxtwo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.fxarr {
+  color: var(--muted);
+}
+.fxnone {
+  list-style: none;
+  padding-left: 0;
+}
+.fxabc {
+  list-style: upper-alpha;
+}
+.fxlook summary {
+  font: 700 var(--fs-3) var(--body);
+  color: var(--aqua);
+  cursor: pointer;
+}
 .fxflip {
   flex: 1;
   display: grid;
@@ -4596,6 +4594,16 @@ html:has(.fxdlg[open]) {
 }
 .fxcar::-webkit-scrollbar {
   display: none;
+}
+.fxstack {
+  display: grid;
+  overflow: visible;
+  scroll-snap-type: none;
+  margin: 0;
+  padding: 4px 0 8px;
+}
+.fxstack .fxslide {
+  flex: none;
 }
 .fxslide {
   flex: 0 0 88%;
@@ -5600,7 +5608,7 @@ header.top .iconbtn {
   height: 100dvh;
   max-height: none;
   overscroll-behavior: none;
-  background: #211b33;
+  background: var(--bg);
   color: var(--ink);
   overflow: hidden;
   font-family: var(--body);
@@ -6329,32 +6337,16 @@ body {
   justify-content: center;
 }
 
-/* gentle motion: the item for now gives a small wiggle every few seconds; the first-week guide breathes, a finished card pops */
+/* gentle motion: the item that is up next breathes a soft ring; the first-week guide breathes, a finished card pops */
 @media (prefers-reduced-motion: no-preference) {
-  .tr.focus .tcard {
-    animation: jiggle 6s ease-in-out 1s infinite;
+  .tt.compact .tr.focus .tcard {
+    animation: upnext 2.6s ease-in-out infinite;
   }
   .wk1 {
     animation: breathe 4s ease-in-out infinite;
   }
   .fxc.isdone .fxin {
     animation: donepop 0.5s ease-out;
-  }
-}
-@keyframes jiggle {
-  0%,
-  88%,
-  100% {
-    transform: none;
-  }
-  90% {
-    transform: rotate(-1.2deg);
-  }
-  93% {
-    transform: rotate(1.2deg);
-  }
-  96% {
-    transform: rotate(-0.6deg);
   }
 }
 @keyframes donepop {
@@ -6629,53 +6621,6 @@ body {
   padding: 0;
   margin-top: 16px;
 }
-.nowtop {
-  display: grid;
-  grid-template-columns: 78px 1fr;
-  gap: 14px;
-  align-items: center;
-}
-.nowtop .ic {
-  width: 78px;
-  height: 78px;
-  border-radius: 16px;
-  display: grid;
-  place-items: center;
-  overflow: hidden;
-  background: color-mix(in srgb, var(--c) 14%, #fff);
-  color: var(--c);
-}
-.nowtop .ic .ico {
-  width: 32px;
-  height: 32px;
-}
-.nowtxt {
-  display: grid;
-  gap: 2px;
-  min-width: 0;
-}
-.now .eyebrow {
-  font: 800 var(--fs-2) var(--body) !important;
-  letter-spacing: 0.08em !important;
-  text-transform: uppercase !important;
-  color: var(--margin) !important;
-}
-.now h2 {
-  font: 700 var(--fs-5) / 1.2 var(--body);
-}
-.now .sub {
-  font: 500 var(--fs-3) / 1.4 var(--body);
-  color: var(--muted);
-  text-align: left;
-}
-.now .chev {
-  color: var(--aqua);
-  font-weight: 700;
-  white-space: nowrap;
-}
-.nowgo {
-  flex-wrap: nowrap;
-}
 .calhead {
   grid-template-columns: 58px 1fr 1fr;
   padding-right: 10px;
@@ -6703,11 +6648,6 @@ body {
 }
 .tt.compact .tr.done .ck {
   box-shadow: none;
-}
-.tt.compact .tr.focus .tcard {
-  box-shadow: none !important;
-  background: color-mix(in srgb, var(--sun) 12%, var(--surface)) !important;
-  animation: none;
 }
 .tt.compact .tr.missed .tcard,
 .tr.done .tcard,
@@ -6764,7 +6704,9 @@ body {
 }
 .tt.compact .tr.focus .tcard {
   background: color-mix(in srgb, var(--c, var(--sun)) 16%, var(--surface)) !important;
-  box-shadow: var(--shadow) !important;
+  box-shadow:
+    0 0 0 3px color-mix(in srgb, var(--c, var(--sun)) 70%, transparent),
+    var(--shadow) !important;
 }
 .tt.compact .tr.focus::after {
   width: 16px;
@@ -6895,12 +6837,6 @@ body {
   color: var(--ink);
   display: grid;
   place-items: center;
-}
-.fxcover .fxmd {
-  position: absolute;
-  right: 16px;
-  top: calc(env(safe-area-inset-top, 0) + 16px);
-  background: rgba(255, 255, 255, 0.92);
 }
 .fxsheetp {
   position: relative;
