@@ -278,9 +278,6 @@ p {
   display: block;
   font-size: var(--fs-3);
   color: var(--muted);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 nav.nav {
   position: fixed;
@@ -482,16 +479,11 @@ main {
 }
 .tcard .m b {
   font: 600 var(--fs-4) var(--display);
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .tcard .m span {
   font-size: var(--fs-2);
   color: var(--muted);
   font-weight: 700;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .tr.done .tcard {
   background: var(--surface);
@@ -667,9 +659,6 @@ dialog.sheet::backdrop {
   font-size: var(--fs-5);
   flex: 1;
   min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 .sbody {
   padding-bottom: calc(40px + env(safe-area-inset-bottom, 0));
@@ -1690,11 +1679,10 @@ dialog.mini::backdrop {
   padding: 12px 20px;
   border-radius: 18px;
   font: 600 var(--fs-4) var(--display);
-  white-space: nowrap;
+  text-align: center;
   animation: rise 0.25s;
   max-width: calc(100% - 32px);
-  overflow: hidden;
-  text-overflow: ellipsis;
+  width: max-content;
 }
 @keyframes rise {
   0% {
@@ -3582,9 +3570,6 @@ a.btn {
 .dumpline .dlt {
   flex: 1;
   min-width: 0;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
 .dumpline .dlplus {
   flex: none;
@@ -3952,8 +3937,7 @@ a.btn {
   flex-wrap: wrap;
 }
 .qtypes {
-  overflow-x: auto;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 .qtypes small {
   opacity: 0.7;
@@ -5513,7 +5497,7 @@ strong {
 /* a segmented switch: the choices sit in one soft track, the chosen one is a white tab */
 .seg {
   display: flex;
-  overflow-x: auto;
+  flex-wrap: wrap;
   scrollbar-width: none;
   background: var(--track);
   border-radius: 14px;
@@ -6569,9 +6553,6 @@ body {
 .thero h1 {
   font: 400 clamp(18px, 5.6vw, 26px) / 1.15 var(--poster);
   color: var(--ink);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .thero p {
   display: flex;
@@ -6647,30 +6628,10 @@ body {
   position: relative;
   padding: 4px 0;
 }
-.tt.compact::before {
-  content: "";
-  position: absolute;
-  left: 61px;
-  top: 18px;
-  bottom: 18px;
-  border-left: 2px dotted var(--rule);
-}
 .tt.compact .tr {
   position: relative;
   gap: 26px;
   margin: 3px 0;
-}
-.tt.compact .tr::after {
-  content: "";
-  position: absolute;
-  left: 56px;
-  top: 50%;
-  width: 12px;
-  height: 12px;
-  margin-top: -6px;
-  border-radius: 50%;
-  background: var(--c, var(--muted));
-  box-shadow: 0 0 0 3px var(--bg);
 }
 .tt.compact .tr .t {
   color: var(--ink);
@@ -6692,24 +6653,8 @@ body {
     inset 0 0 0 3px color-mix(in srgb, var(--c, var(--sun)) 70%, transparent),
     var(--shadow) !important;
 }
-.tt.compact .tr.focus::after {
-  width: 16px;
-  height: 16px;
-  margin-top: -8px;
-  left: 54px;
-}
 .tt.compact .tr.done .tcard {
   background: color-mix(in srgb, var(--good) 14%, var(--surface)) !important;
-}
-.tt.compact .tr.done::after {
-  background: var(--good);
-}
-.tt.compact .tr.brk::after {
-  width: 8px;
-  height: 8px;
-  margin-top: -4px;
-  left: 58px;
-  background: var(--rule);
 }
 .tt.compact .tcard .ic.pic {
   width: 52px;
@@ -7204,19 +7149,36 @@ body {
   font: 800 var(--fs-1) var(--body);
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  background: color-mix(in srgb, var(--c, var(--muted)) 22%, var(--surface));
+  background: var(--c, var(--muted));
+  color: #fff;
+}
+.s-eng .stag,
+.s-hin .stag,
+.r-both .stag,
+.r-kid .stag {
   color: var(--ink);
 }
 .stag.soft {
   background: var(--sunk);
   color: var(--muted);
 }
+.tcard .m .stag {
+  font: 800 var(--fs-1) var(--body);
+  color: #fff;
+  white-space: normal;
+}
+.tcard:has(.lmid) {
+  align-items: start;
+}
 .lline {
   margin: 0;
   font: 500 var(--fs-3) / 1.35 var(--body);
   color: var(--muted);
 }
-.lline b {
+.tcard .lline b {
+  font: 800 var(--fs-1) var(--body) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
   color: var(--ink);
   margin-right: 6px;
 }
