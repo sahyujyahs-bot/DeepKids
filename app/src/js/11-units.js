@@ -758,7 +758,7 @@ function fxSecMeta(u, o, ent) {
    first screen), used on the first screen, the opening card and every card */
 const FXKC = {
   story: ["Story", "📖", "#8C93C7", "read", "Story"],
-  idea: ["Big idea", "💡", "#6DB4F2", "learn", "Big ideas"],
+  idea: ["Learn", "💡", "#6DB4F2", "learn", "Learn"],
   words: ["Words", "🔤", "#E0A800", "words", "Words"],
   games: ["Game", "🎲", "#E2559A", "game", "Games"],
   experiments: ["Experiment", "🧪", "#3F8F5F", "exp", "Experiments"],
@@ -771,7 +771,7 @@ const FXKC = {
   maths: ["Maths", "➗", "#0F8A7E", "maths", "Maths"],
   song: ["Song", "🎵", "#C25B9E", "song", "Song"],
   roots: ["Roots", "🪷", "#B0638C", "roots", "Roots"],
-  extra: ["Extras", "✨", "#8A9A3B", "spark", "Extras"],
+  extra: ["More", "✨", "#8A9A3B", "spark", "More"],
 };
 const fxGroup = (k) =>
   ({
@@ -813,16 +813,22 @@ async function fxLoad(id) {
   if (!r.ok) throw new Error("HTTP " + r.status);
   return (FXFULL[id] = await r.json());
 }
-// where a family is in a unit: how many parts are done, and what the next tap on Continue opens
+// where a family is in a unit: parts done, the last part finished, and the part up next (the one they stopped in, or the
+// first not done)
 function fxProgress(id) {
   const F = fxSt(),
-    done = Object.keys(F.done[id] || {}).filter((k) => k.startsWith("sec:")).length,
-    pos = F.pos[id];
+    P = DATA.units?.[id]?.parts || [],
+    D = F.done[id] || {},
+    pos = F.pos[id],
+    isDone = (p) => !!D["sec:" + p[0]],
+    part = (i) => (P[i] ? { i, kind: P[i][2], title: P[i][1] } : null);
+  const nextI = pos && P[pos.s] && !isDone(P[pos.s]) ? pos.s : P.findIndex((p) => !isDone(p));
   return {
-    done,
-    parts: (DATA.units?.[id]?.parts || []).length,
-    started: !!(done || pos),
-    next: pos?.k ? fxKC(pos.k)[0] : "",
+    done: P.filter(isDone).length,
+    parts: P.length,
+    started: !!(P.some(isDone) || pos),
+    last: part(P.map(isDone).lastIndexOf(true)),
+    next: part(nextI),
   };
 }
 // open a unit; with `straightIn` it goes into the part the family is up to, skipping the unit's front page
@@ -841,7 +847,11 @@ async function fxOpen(id, straightIn) {
   const d = fxDialog();
   if (!d.open) d.showModal();
   fxMap();
-  if (straightIn) d.querySelector(".fxstart")?.click();
+  if (straightIn) {
+    const n = fxProgress(id).next,
+      pos = fxSt().pos[id];
+    if (n) fxGo(n.i, pos?.s === n.i ? pos.c || 0 : 0);
+  }
   clearInterval(FXTICK);
   FXTICK = setInterval(() => {
     if (!d.open || FXSI < 0 || document.visibilityState !== "visible") return;
@@ -923,7 +933,9 @@ function fxShowSection(si, ci) {
     ...(s.need?.length ? [lead] : []),
     ...body.map((c, j) => ({
       ...c,
-      html: `<div class="fxcrumb">${fxPill(s.kind)} ${esc(s.title)} · card ${j + 1} of ${body.length}</div>` + c.html,
+      html:
+        `<div class="fxcrumb"><button class="fxcl" data-fx="map">${esc(u.title)}</button> › ${esc(fxKC(s.kind)[0])} › ${esc(s.title)}</div>` +
+        c.html,
     })),
     end,
   ];

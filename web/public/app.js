@@ -7822,7 +7822,7 @@ function fxSecMeta(u, o, ent) {
    first screen), used on the first screen, the opening card and every card */
 const FXKC = {
   story: ["Story", "📖", "#8C93C7", "read", "Story"],
-  idea: ["Big idea", "💡", "#6DB4F2", "learn", "Big ideas"],
+  idea: ["Learn", "💡", "#6DB4F2", "learn", "Learn"],
   words: ["Words", "🔤", "#E0A800", "words", "Words"],
   games: ["Game", "🎲", "#E2559A", "game", "Games"],
   experiments: ["Experiment", "🧪", "#3F8F5F", "exp", "Experiments"],
@@ -7835,7 +7835,7 @@ const FXKC = {
   maths: ["Maths", "➗", "#0F8A7E", "maths", "Maths"],
   song: ["Song", "🎵", "#C25B9E", "song", "Song"],
   roots: ["Roots", "🪷", "#B0638C", "roots", "Roots"],
-  extra: ["Extras", "✨", "#8A9A3B", "spark", "Extras"],
+  extra: ["More", "✨", "#8A9A3B", "spark", "More"],
 };
 const fxGroup = (k) =>
   ({
@@ -7877,16 +7877,22 @@ async function fxLoad(id) {
   if (!r.ok) throw new Error("HTTP " + r.status);
   return (FXFULL[id] = await r.json());
 }
-// where a family is in a unit: how many parts are done, and what the next tap on Continue opens
+// where a family is in a unit: parts done, the last part finished, and the part up next (the one they stopped in, or the
+// first not done)
 function fxProgress(id) {
   const F = fxSt(),
-    done = Object.keys(F.done[id] || {}).filter((k) => k.startsWith("sec:")).length,
-    pos = F.pos[id];
+    P = DATA.units?.[id]?.parts || [],
+    D = F.done[id] || {},
+    pos = F.pos[id],
+    isDone = (p) => !!D["sec:" + p[0]],
+    part = (i) => (P[i] ? { i, kind: P[i][2], title: P[i][1] } : null);
+  const nextI = pos && P[pos.s] && !isDone(P[pos.s]) ? pos.s : P.findIndex((p) => !isDone(p));
   return {
-    done,
-    parts: (DATA.units?.[id]?.parts || []).length,
-    started: !!(done || pos),
-    next: pos?.k ? fxKC(pos.k)[0] : "",
+    done: P.filter(isDone).length,
+    parts: P.length,
+    started: !!(P.some(isDone) || pos),
+    last: part(P.map(isDone).lastIndexOf(true)),
+    next: part(nextI),
   };
 }
 // open a unit; with `straightIn` it goes into the part the family is up to, skipping the unit's front page
@@ -7905,7 +7911,11 @@ async function fxOpen(id, straightIn) {
   const d = fxDialog();
   if (!d.open) d.showModal();
   fxMap();
-  if (straightIn) d.querySelector(".fxstart")?.click();
+  if (straightIn) {
+    const n = fxProgress(id).next,
+      pos = fxSt().pos[id];
+    if (n) fxGo(n.i, pos?.s === n.i ? pos.c || 0 : 0);
+  }
   clearInterval(FXTICK);
   FXTICK = setInterval(() => {
     if (!d.open || FXSI < 0 || document.visibilityState !== "visible") return;
@@ -7987,7 +7997,9 @@ function fxShowSection(si, ci) {
     ...(s.need?.length ? [lead] : []),
     ...body.map((c, j) => ({
       ...c,
-      html: `<div class="fxcrumb">${fxPill(s.kind)} ${esc(s.title)} · card ${j + 1} of ${body.length}</div>` + c.html,
+      html:
+        `<div class="fxcrumb"><button class="fxcl" data-fx="map">${esc(u.title)}</button> › ${esc(fxKC(s.kind)[0])} › ${esc(s.title)}</div>` +
+        c.html,
     })),
     end,
   ];
@@ -10661,7 +10673,7 @@ function otherDay(d) {
    ${past ? "" : `<button class="btn soft sm" data-act="quickday" data-d="${d}" style="margin-top:12px">+ Add a plan for this day</button>`}</section>`;
 }
 // under the item that is up next (or now): its main button, and a way to say it was already done, later or skipped
-function upNextActions(it, a) {
+function upNextActions(it, a, isFocus) {
   const P = itemAction(it, a);
   if (it.kind === "event" && !it.done && !it.anytime && it.at > nowMin())
     P.splice(0, 2, `data-act="evcancel" data-id="${esc(it.ev.id)}" data-date="${today}"`, "Cancel for today");
@@ -10669,7 +10681,7 @@ function upNextActions(it, a) {
       ? ""
       : `<button class="btn sm" ${P[0]}>${it.kind === "lesson" ? icon("play") : ""}${P[1]}</button>`,
     alt =
-      OURS(it) && it.kind !== "exps"
+      isFocus && OURS(it) && it.kind !== "exps"
         ? `<button class="tactalt" data-act="iopts" ${a}>Already did it, later, or skip ›</button>`
         : "";
   return main || alt ? `<div class="tact">${main}${alt}</div>` : "";
@@ -10718,14 +10730,7 @@ const isMissed = (it, date) =>
 // has the family begun this lesson? (a unit keeps its own place; a chapter keeps its ticked steps)
 const lessonStarted = (it) =>
   it.u.board === "unit" ? fxProgress(it.u.c.unit).started : stepState(it).some((x) => x.ok);
-const lessonLabel = (it) =>
-  lessonStarted(it)
-    ? it.u.board === "unit"
-      ? "Continue the unit"
-      : "Keep going"
-    : it.u.board === "unit"
-      ? "Start the unit"
-      : "Start the lesson";
+const lessonLabel = (it) => (lessonStarted(it) ? "Continue lesson" : "Start lesson");
 // the main thing to do with an item: [the button's attributes, its label]
 function itemAction(it, a) {
   return (
@@ -10752,7 +10757,7 @@ function itemDetail(it, date) {
     const st = stepState(it),
       prep = prepFor(it.u, it.n, it.tot).filter((p) => p.lead === 0);
     const P = it.u.board === "unit" ? fxProgress(it.u.c.unit) : null;
-    return `<p class="sm muted dhead">Session ${it.n} of ${it.tot}${P ? ` · ${P.started ? `${P.done} of ${P.parts} parts done${P.next ? `, next: ${P.next}` : ""}` : "not started yet"}` : ` · ${mins(st.reduce((m, x) => m + x.mins, 0))}`}</p>
+    return `<p class="sm muted dhead">${P ? (P.started ? `${P.done} of ${P.parts} parts done` : "Not started yet") : mins(st.reduce((m, x) => m + x.mins, 0))}</p>
     ${P ? "" : `<ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span class="dtk">${x.ok ? icon("check") : ""}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>`}
     ${prep.length ? `<div class="sm"><b style="font-family:var(--display)">Have ready</b><ul class="haveready">${prep.map((p) => `<li>${esc(p.task.replace(/^(Gather|Get):? /, "").replace(/ \(\d+\)$/, ""))}</li>`).join("")}</ul></div>` : ""}
     <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${lessonLabel(it)}</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>`;
@@ -10817,6 +10822,17 @@ function dayPic(it) {
   if (DAYPIC[it.kind]) return img(`media/ui/day-${DAYPIC[it.kind]}.webp`, "draw");
   return `<span class="ic">${icon(DAYICON[it.kind] || "spark")}</span>`;
 }
+// a lesson's last finished part and its next one, for its row on the day
+function lessonLines(it) {
+  if (it.u.board === "unit") {
+    const P = fxProgress(it.u.c.unit),
+      show = (p) => (p ? `${fxKC(p.kind)[0]}: ${p.title}` : "");
+    return { last: show(P.last), next: show(P.next) };
+  }
+  const st = stepState(it),
+    ok = st.filter((x) => x.ok);
+  return { last: ok.length ? ok[ok.length - 1].title : "", next: st.find((x) => !x.ok)?.title || "" };
+}
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? subjClass(it.s) : "r-" + it.who,
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
@@ -10838,8 +10854,12 @@ function tRow(it, date, focus) {
             : missed
               ? `<span class="tag miss">Pending</span>`
               : "";
-  const drag = date === today && !it.done && !it.anytime && DAYMOVE.has(it.kind);
-  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button><button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${it === focus && date === today && !it.done ? upNextActions(it, a) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
+  const drag = date === today && !it.done && !it.anytime && DAYMOVE.has(it.kind),
+    L = it.kind === "lesson" ? lessonLines(it) : null,
+    mid = L
+      ? `<div class="lmid"><div class="ltags"><span class="stag">${esc(SUBJ[it.s])}</span>${it.n ? `<span class="stag soft">Session ${it.n}${it.tot ? ` of ${it.tot}` : ""}</span>` : ""}${tag}</div><button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(chT(it.u))}</b></button>${it.done ? `<p class="lline"><b>Done</b> ${it.doneAt != null ? "at " + clock(it.doneAt) : "today"}</p>` : `${L.last ? `<p class="lline"><b>Last done</b> ${esc(L.last)}</p>` : ""}${L.next ? `<p class="lline"><b>Next up</b> ${esc(L.next)}</p>` : ""}`}</div>`
+      : "";
+  return `<div class="tr ${col} ${it.done ? "done" : ""} ${it === focus ? "focus" : ""} ${missed ? "missed" : ""}" data-r="${esc(it.id)}"><span class="t num">${drag ? `<span class="dh" aria-label="Drag to change the order">⠿</span>` : ""}${hh}<small>${ap}</small></span><div class="tcard">${dayPic(it)}${mid}${L ? "" : `<button class="m plain" data-act="topen" data-id="${it.id}" aria-expanded="${open}"><b>${esc(it.kind === "lesson" ? chT(it.u) : it.title)}</b><span>${tag}${it.kind === "lesson" ? SUBJ[it.s] + " · " + (it.n ? `Session ${it.n}${it.tot ? " of " + it.tot : ""} · ` : "") : ""}${S.tl[date + "|" + it.id] === "skip" ? "skipped today" : S.tl[date + "|" + it.id] === "missed" ? "didn't happen" : it.skipped ? "skipped" : it.done && it.doneAt != null ? "done at " + clock(it.doneAt) : it.done && it.doneNoTime ? "done, time not recorded" : (it.kind === "event" && it.ev ? evShort(it.ev) : ROLE[it.who]) + " · " + mins(it.dur / 60)}</span></button>`}<button class="ck" data-act="tlcheck" ${a} aria-label="${it.done ? "Done" : "Mark done"}: ${esc(it.title)}">${icon("check")}</button>${(it === focus || it.kind === "lesson") && date === today && !it.done ? upNextActions(it, a, it === focus) : ""}${open ? `<div class="tdet">${itemDetail(it, date)}</div>` : ""}</div></div>`;
 }
 function timeline(date) {
   const items = dayPlan(date),
@@ -11194,7 +11214,7 @@ function viewToday() {
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
   if (real.length) h += `<div class="tt compact daydrag">${real.map((i) => tRow(i, today, f)).join("")}</div>`;
-  h += `</section><div class="lotusline" aria-hidden="true"></div>${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
+  h += `</section><div class="lotusline" aria-hidden="true"></div>${real.some((i) => !i.done) ? "" : fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends; "Continue learning" only comes once everything planned is done (it animates in the first time only)
   window.FXANIMED = 1;
   h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button>`;
   return h;

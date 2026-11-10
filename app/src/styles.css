@@ -7185,3 +7185,47 @@ body {
 .center {
   text-align: center;
 }
+
+/* a lesson on the day: its subject and session as tags, its name, what was done last and what comes next */
+.lmid {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+.ltags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.stag {
+  padding: 3px 10px;
+  border-radius: 99px;
+  font: 800 var(--fs-1) var(--body);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: color-mix(in srgb, var(--c, var(--muted)) 22%, var(--surface));
+  color: var(--ink);
+}
+.stag.soft {
+  background: var(--sunk);
+  color: var(--muted);
+}
+.lline {
+  margin: 0;
+  font: 500 var(--fs-3) / 1.35 var(--body);
+  color: var(--muted);
+}
+.lline b {
+  color: var(--ink);
+  margin-right: 6px;
+}
+.fxcl {
+  border: 0;
+  background: 0 0;
+  padding: 0;
+  font: inherit;
+  color: var(--aqua);
+  text-decoration: underline;
+  cursor: pointer;
+}

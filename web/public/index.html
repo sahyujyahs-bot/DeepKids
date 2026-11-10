@@ -6750,6 +6750,7 @@ body {
 }
 .tcard .tdet {
   border-top: 1px solid var(--rule);
+  overflow-wrap: anywhere;
 }
 .fxcont {
   display: grid;
@@ -7202,6 +7203,50 @@ body {
 .center {
   text-align: center;
 }
+
+/* a lesson on the day: its subject and session as tags, its name, what was done last and what comes next */
+.lmid {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+.ltags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.stag {
+  padding: 3px 10px;
+  border-radius: 99px;
+  font: 800 var(--fs-1) var(--body);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: color-mix(in srgb, var(--c, var(--muted)) 22%, var(--surface));
+  color: var(--ink);
+}
+.stag.soft {
+  background: var(--sunk);
+  color: var(--muted);
+}
+.lline {
+  margin: 0;
+  font: 500 var(--fs-3) / 1.35 var(--body);
+  color: var(--muted);
+}
+.lline b {
+  color: var(--ink);
+  margin-right: 6px;
+}
+.fxcl {
+  border: 0;
+  background: 0 0;
+  padding: 0;
+  font: inherit;
+  color: var(--aqua);
+  text-decoration: underline;
+  cursor: pointer;
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -7220,9 +7265,9 @@ body {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="9f26267917c2473c8f";window.DK_APPV="9f26267917";window.DK_DATAV="c247cc32e3"</script>
-<script src="/config.js?v=9f26267917c2473c8f"></script>
+<script>window.DK_BUILD="d88b35557937553c8f";window.DK_APPV="d88b355579";window.DK_DATAV="37559106c4"</script>
+<script src="/config.js?v=d88b35557937553c8f"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=9f26267917c2473c8f"></script>
+<script src="/platform.js?v=d88b35557937553c8f"></script>
 </body>
 </html>
