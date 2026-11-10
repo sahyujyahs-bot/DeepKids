@@ -6732,6 +6732,7 @@ body {
 }
 .tcard .tdet {
   border-top: 1px solid var(--rule);
+  overflow-wrap: anywhere;
 }
 .fxcont {
   display: grid;
