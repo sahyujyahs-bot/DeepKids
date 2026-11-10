@@ -179,7 +179,16 @@ const KIND_LABELS = {
   proj: "Project",
   step: "Step",
 };
-const ROLE = { you: "For you", both: "Together", kid: "Child goes", out: "Outing", free: "Break" };
+// who a thing on the day is for: the parent, both together, or the child (by name)
+const ROLE = {
+  you: "For parent",
+  both: "Together",
+  get kid() {
+    return S.child || "Child";
+  },
+  out: "Outing",
+  free: "Break",
+};
 const pillS = (s) => `<span class="pill ${s}">${STATUS[s]}</span>`;
 const subjClass = (s) => "s-" + s;
 /* a short random id for anything the family adds (an event, a note, a book…) */

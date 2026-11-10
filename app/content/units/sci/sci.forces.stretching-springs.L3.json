@@ -4234,5 +4234,98 @@
   "wrong_idea": "Hooke said every springy thing follows his rule, however it is stretched. Later tests showed that the rule works only for small stretches, below the elastic limit, and only roughly for rubber.",
   "art": "Robert Hooke in a 1600s room, a very long wire hanging from a nail high on the wall down to a small pan of weights near the floor, with a pair of compasses measuring the gap to the floor."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. Coin test: a long, thin rubber band, about 10 cm when hanging, gives steps of about half a centimetre to 1 centimetre for each 5 one-rupee coins. A short or thick band gives steps too small to read, so the unit says to swap it, or cut it into one long strand. The ruler is taped to the same pencil as the band, so it hangs right beside it. A small paper cup holds 40 coins. Homes with few coins can use level tablespoons of rice or dal, one in place of each 5 coins. Many bands give equal steps and then slightly bigger steps near the end, and the unit treats both as honest results. Pen spring: most come back from small pulls, and many stay longer once pulled to about one and a half to two times their length. Springs vary. A grown-up takes the spring out of the pen. The old pen spring jump was replaced by the Band Launch, because a released pen spring flies off in a random direction and its height is hard to read. A band launched off a ruler flies along the floor, and a longer pull clearly sends it further. Two in a Row reuses the coin test set-up, and the chain is measured empty first because two bands start longer. The spine, which is the intro, the coin test, the explanation cards, how we found out, roots and the quiz, fits about 85 to 90 minutes over two sessions. Find the Limit uses four things: the pen spring's limit is found once, in the coin test, and here a plastic strip is pulled until it tears (carry bags differ, so a doubtful result is said to be honest). Human Springs and the card game were played through with 2 and with 4 people."
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today. Coin test: a long, thin rubber band, about 10 cm when hanging, gives steps of about half a centimetre to 1 centimetre for each 5 one-rupee coins. A short or thick band gives steps too small to read, so the unit says to swap it, or cut it into one long strand. The ruler is taped to the same pencil as the band, so it hangs right beside it. A small paper cup holds 40 coins. Homes with few coins can use level tablespoons of rice or dal, one in place of each 5 coins. Many bands give equal steps and then slightly bigger steps near the end, and the unit treats both as honest results. Pen spring: most come back from small pulls, and many stay longer once pulled to about one and a half to two times their length. Springs vary. A grown-up takes the spring out of the pen. The old pen spring jump was replaced by the Band Launch, because a released pen spring flies off in a random direction and its height is hard to read. A band launched off a ruler flies along the floor, and a longer pull clearly sends it further. Two in a Row reuses the coin test set-up, and the chain is measured empty first because two bands start longer. The spine, which is the intro, the coin test, the explanation cards, how we found out, roots and the quiz, fits about 85 to 90 minutes over two sessions. Find the Limit uses four things: the pen spring's limit is found once, in the coin test, and here a plastic strip is pulled until it tears (carry bags differ, so a doubtful result is said to be honest). Human Springs and the card game were played through with 2 and with 4 people.",
+ "warm": {
+  "words": [
+   "FORCE",
+   "COILS",
+   "BANDS",
+   "LIMIT",
+   "SNAPS"
+  ],
+  "quiz": [
+   [
+    "A rubber band pulls back harder the more you stretch it.",
+    true,
+    "You can feel the pull grow on your fingers."
+   ],
+   [
+    "A soft thing is always elastic.",
+    false,
+    "Playdough is soft, but it does not spring back."
+   ],
+   [
+    "A hard steel spring can spring back.",
+    true,
+    "The spring in a clicky pen is hard and springs back every time."
+   ],
+   [
+    "Pull a spring too far and it can stay long and loose.",
+    true,
+    "It went past its elastic limit."
+   ],
+   [
+    "A heavier ball always bounces higher.",
+    false,
+    "The stretchiest ball bounces highest, not the heaviest."
+   ],
+   [
+    "A bounce is a squash, then a spring back.",
+    true,
+    "The squash is too quick to see."
+   ],
+   [
+    "Playdough springs back like a sponge.",
+    false,
+    "Playdough stays squashed."
+   ],
+   [
+    "A glass bangle bends a lot before it breaks.",
+    false,
+    "It snaps with hardly any bend."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Sponge",
+     "Hair band",
+     "Playdough",
+     "Rubber ball"
+    ],
+    "Playdough",
+    "Playdough stays squashed. The others spring back."
+   ],
+   [
+    [
+     "Spring",
+     "Rubber band",
+     "Trampoline",
+     "Brick"
+    ],
+    "Brick",
+    "A brick does not stretch or spring back."
+   ],
+   [
+    [
+     "Hair band",
+     "Clicky pen",
+     "Mattress",
+     "Pebble"
+    ],
+    "Pebble",
+    "A pebble has no spring in it."
+   ],
+   [
+    [
+     "Sponge",
+     "Hair band",
+     "Glass bangle",
+     "Rubber ball"
+    ],
+    "Glass bangle",
+    "It snaps. The others spring back."
+   ]
+  ]
+ }
 }

@@ -517,7 +517,6 @@ main {
 }
 .tr.done .tcard .m b {
   color: var(--muted);
-  text-decoration: line-through;
 }
 .tr.now .tcard {
   box-shadow:
@@ -1789,9 +1788,8 @@ dialog.mini::backdrop {
 @keyframes upnext {
   50% {
     box-shadow:
-      0 0 0 7px color-mix(in srgb, var(--c, var(--sun)) 18%, transparent),
+      inset 0 0 0 6px color-mix(in srgb, var(--c, var(--sun)) 35%, transparent),
       var(--shadow);
-    transform: scale(1.012);
   }
 }
 @keyframes breathe {
@@ -3275,20 +3273,6 @@ table.rtab th {
 .iopt.warn b {
   color: var(--bad);
 }
-.donebar b {
-  flex: 1;
-  font: 600 var(--fs-4) var(--display);
-}
-.donebar .ck {
-  width: 28px;
-  height: 28px;
-  flex: none;
-  pointer-events: none;
-}
-.donebar .xs {
-  color: var(--forest);
-  font-weight: 700;
-}
 .pastrow {
   display: grid;
   gap: 8px;
@@ -3470,14 +3454,12 @@ a.btn {
 .iopt,
 .exopt,
 .offer,
-.donebar,
 .menurow,
 .chip {
   transition: transform 0.12s ease;
 }
 .iopt:active,
 .exopt:active,
-.donebar:active,
 .menurow:active,
 .chip:active {
   transform: scale(0.97);
@@ -4008,11 +3990,13 @@ a.btn {
 }
 .tact {
   grid-column: 1 / -1;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 4px 14px;
-  padding-left: 52px;
+  display: grid;
+  gap: 6px;
+  justify-items: start;
+}
+.tact .btn {
+  width: 100%;
+  white-space: nowrap;
 }
 .tactalt {
   background: 0 0;
@@ -6723,7 +6707,7 @@ body {
 .tt.compact .tr.focus .tcard {
   background: color-mix(in srgb, var(--c, var(--sun)) 16%, var(--surface)) !important;
   box-shadow:
-    0 0 0 3px color-mix(in srgb, var(--c, var(--sun)) 70%, transparent),
+    inset 0 0 0 3px color-mix(in srgb, var(--c, var(--sun)) 70%, transparent),
     var(--shadow) !important;
 }
 .tt.compact .tr.focus::after {
@@ -6733,8 +6717,7 @@ body {
   left: 54px;
 }
 .tt.compact .tr.done .tcard {
-  background: var(--sunk) !important;
-  opacity: 0.7;
+  background: color-mix(in srgb, var(--good) 14%, var(--surface)) !important;
 }
 .tt.compact .tr.done::after {
   background: var(--good);
@@ -6767,21 +6750,6 @@ body {
 }
 .tcard .tdet {
   border-top: 1px solid var(--rule);
-}
-.donebar {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  width: 100%;
-  margin-top: 12px;
-  padding: 10px 14px;
-  border-radius: 16px;
-  border: 0;
-  font: inherit;
-  color: inherit;
-  cursor: pointer;
-  text-align: left;
-  background: var(--aquabg);
 }
 .fxcont {
   display: grid;
@@ -7252,9 +7220,9 @@ body {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="0da41d2fc75fd33c8f";window.DK_APPV="0da41d2fc7";window.DK_DATAV="5fd3c99381"</script>
-<script src="/config.js?v=0da41d2fc75fd33c8f"></script>
+<script>window.DK_BUILD="9f26267917c2473c8f";window.DK_APPV="9f26267917";window.DK_DATAV="c247cc32e3"</script>
+<script src="/config.js?v=9f26267917c2473c8f"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=0da41d2fc75fd33c8f"></script>
+<script src="/platform.js?v=9f26267917c2473c8f"></script>
 </body>
 </html>

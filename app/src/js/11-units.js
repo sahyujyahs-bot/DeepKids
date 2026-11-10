@@ -818,7 +818,12 @@ function fxProgress(id) {
   const F = fxSt(),
     done = Object.keys(F.done[id] || {}).filter((k) => k.startsWith("sec:")).length,
     pos = F.pos[id];
-  return { done, parts: DATA.units?.[id]?.parts || 0, started: !!(done || pos), next: pos?.k ? fxKC(pos.k)[0] : "" };
+  return {
+    done,
+    parts: (DATA.units?.[id]?.parts || []).length,
+    started: !!(done || pos),
+    next: pos?.k ? fxKC(pos.k)[0] : "",
+  };
 }
 // open a unit; with `straightIn` it goes into the part the family is up to, skipping the unit's front page
 async function fxOpen(id, straightIn) {

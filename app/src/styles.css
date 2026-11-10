@@ -499,7 +499,6 @@ main {
 }
 .tr.done .tcard .m b {
   color: var(--muted);
-  text-decoration: line-through;
 }
 .tr.now .tcard {
   box-shadow:
@@ -1771,9 +1770,8 @@ dialog.mini::backdrop {
 @keyframes upnext {
   50% {
     box-shadow:
-      0 0 0 7px color-mix(in srgb, var(--c, var(--sun)) 18%, transparent),
+      inset 0 0 0 6px color-mix(in srgb, var(--c, var(--sun)) 35%, transparent),
       var(--shadow);
-    transform: scale(1.012);
   }
 }
 @keyframes breathe {
@@ -3257,20 +3255,6 @@ table.rtab th {
 .iopt.warn b {
   color: var(--bad);
 }
-.donebar b {
-  flex: 1;
-  font: 600 var(--fs-4) var(--display);
-}
-.donebar .ck {
-  width: 28px;
-  height: 28px;
-  flex: none;
-  pointer-events: none;
-}
-.donebar .xs {
-  color: var(--forest);
-  font-weight: 700;
-}
 .pastrow {
   display: grid;
   gap: 8px;
@@ -3452,14 +3436,12 @@ a.btn {
 .iopt,
 .exopt,
 .offer,
-.donebar,
 .menurow,
 .chip {
   transition: transform 0.12s ease;
 }
 .iopt:active,
 .exopt:active,
-.donebar:active,
 .menurow:active,
 .chip:active {
   transform: scale(0.97);
@@ -3990,11 +3972,13 @@ a.btn {
 }
 .tact {
   grid-column: 1 / -1;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 4px 14px;
-  padding-left: 52px;
+  display: grid;
+  gap: 6px;
+  justify-items: start;
+}
+.tact .btn {
+  width: 100%;
+  white-space: nowrap;
 }
 .tactalt {
   background: 0 0;
@@ -6705,7 +6689,7 @@ body {
 .tt.compact .tr.focus .tcard {
   background: color-mix(in srgb, var(--c, var(--sun)) 16%, var(--surface)) !important;
   box-shadow:
-    0 0 0 3px color-mix(in srgb, var(--c, var(--sun)) 70%, transparent),
+    inset 0 0 0 3px color-mix(in srgb, var(--c, var(--sun)) 70%, transparent),
     var(--shadow) !important;
 }
 .tt.compact .tr.focus::after {
@@ -6715,8 +6699,7 @@ body {
   left: 54px;
 }
 .tt.compact .tr.done .tcard {
-  background: var(--sunk) !important;
-  opacity: 0.7;
+  background: color-mix(in srgb, var(--good) 14%, var(--surface)) !important;
 }
 .tt.compact .tr.done::after {
   background: var(--good);
@@ -6749,21 +6732,6 @@ body {
 }
 .tcard .tdet {
   border-top: 1px solid var(--rule);
-}
-.donebar {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  width: 100%;
-  margin-top: 12px;
-  padding: 10px 14px;
-  border-radius: 16px;
-  border: 0;
-  font: inherit;
-  color: inherit;
-  cursor: pointer;
-  text-align: left;
-  background: var(--aquabg);
 }
 .fxcont {
   display: grid;

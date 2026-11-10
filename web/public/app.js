@@ -351,7 +351,16 @@ const KIND_LABELS = {
   proj: "Project",
   step: "Step",
 };
-const ROLE = { you: "For you", both: "Together", kid: "Child goes", out: "Outing", free: "Break" };
+// who a thing on the day is for: the parent, both together, or the child (by name)
+const ROLE = {
+  you: "For parent",
+  both: "Together",
+  get kid() {
+    return S.child || "Child";
+  },
+  out: "Outing",
+  free: "Break",
+};
 const pillS = (s) => `<span class="pill ${s}">${STATUS[s]}</span>`;
 const subjClass = (s) => "s-" + s;
 /* a short random id for anything the family adds (an event, a note, a book…) */
@@ -1588,14 +1597,30 @@ function daySteps(u, n, tot) {
     generic: true,
   }));
 }
+// a lesson's warm-up games (words, true or false, odd one out): a DeepKids unit carries its own, written from its ideas; a
+// few board chapters carry theirs
+const gameSet = (u) => (u?.board === "unit" ? DATA.units?.[u.c.unit]?.warm : u?.c?.x);
+// whose games the family plays today: a lesson planned for today if it has games, otherwise the next unit in turn, so
+// they change every day. The choice stays the same all day
 function dailyUnit() {
   if (!S.subjects.includes("sci")) return null;
-  const sc = schedule("sci", 60);
-  const t = sc.find((x) => x.u.c?.x);
-  if (t) return t.u;
-  const any = S.log.find((l) => unitBy(l.key)?.c?.x);
-  if (any) return unitBy(any.key);
-  return DATA.items.find((i) => i.c?.x) || null;
+  const g = gamesToday(),
+    kept = g.u && unitBy(g.u);
+  if (gameSet(kept)) return kept;
+  const pool = DATA.items.filter(gameSet).sort((x, y) => (x.k < y.k ? -1 : 1)),
+    u = lessonsOn(today).find((l) => gameSet(l.u))?.u || pool[dayNo % pool.length] || null;
+  if (u) g.u = u.k;
+  return u;
+}
+// the warm-up counts as done on its own once the family has opened a joke's answer and played a game
+function warmProgress(part) {
+  const g = gamesToday();
+  g[part] = true;
+  if (g.joke && g.play && !S.tl[today + "|warm"]) {
+    S.tl[today + "|warm"] = Date.now();
+    toast("Warm-up done ✓");
+  }
+  save();
 }
 const gamesToday = () => (S.games[today] = S.games[today] || { g: [], tf: {}, odd: null });
 const splitJoke = (j) => {
@@ -3389,6 +3414,7 @@ Object.assign(ACT, {
   joke(b, e, a, k) {
     ui.jokes[b.dataset.j] = !ui.jokes[b.dataset.j];
     sfx(ui.jokes[b.dataset.j] ? "ok" : "flip");
+    if (ui.jokes[b.dataset.j]) warmProgress("joke");
     sheet.open ? renderSheet() : render();
   },
 });
@@ -6733,7 +6759,7 @@ function refreshView() {
   return refreshAnswersView();
 }
 function wordGame(u) {
-  const x = u.c.x,
+  const x = gameSet(u),
     word = x.words[dayNo % x.words.length],
     g = gamesToday(),
     won = g.g.includes(word),
@@ -6762,7 +6788,7 @@ function wordGame(u) {
 }
 function tfGame(u) {
   const g = gamesToday(),
-    q = u.c.x.quiz,
+    q = gameSet(u).quiz,
     i = q.findIndex((_, k) => g.tf[k] === undefined),
     right = (k) => (g.tf[k] === 1) === q[k][1],
     sc = q.filter((_, k) => g.tf[k] !== undefined && right(k)).length;
@@ -6774,7 +6800,7 @@ function tfGame(u) {
 }
 function oddGame(u) {
   const g = gamesToday(),
-    o = u.c.x.odd[dayNo % u.c.x.odd.length];
+    o = gameSet(u).odd[dayNo % gameSet(u).odd.length];
   return `<p class="sm muted center">Which one doesn't belong? There may be more than one good answer. Can you defend yours?</p><div class="oddgrid">${o[0].map((w) => `<button class="${g.odd ? (w === o[1] ? "right" : w === g.odd ? "wrong" : "") : ""}" data-act="odd" data-w="${esc(w)}" ${g.odd ? "disabled" : ""}>${esc(w)}</button>`).join("")}</div>${g.odd ? `<p class="center">${g.odd === o[1] ? "Yes. " : "We picked " + esc(o[1]) + ". "}${esc(o[2])}</p>` : ""}`;
 }
 function jokesAndGames() {
@@ -6786,7 +6812,7 @@ function jokesAndGames() {
    <div class="seg">${Object.entries(T)
      .map(([k, [n]]) => `<button aria-pressed="${ui.game === k}" data-act="gtab" data-g="${k}">${n}</button>`)
      .join("")}</div><section class="col">${T[ui.game][1](u)}</section>
-   <button class="btn ${S.tl[today + "|warm"] ? "soft" : "accent"}" data-act="tlcheck" data-id="warm" data-date="${today}">${S.tl[today + "|warm"] ? "Warm-up done ✓" : "Warm-up done"}</button>`;
+`;
 }
 function gamesView() {
   const id = fxWarmUnit(today),
@@ -6985,7 +7011,7 @@ Object.assign(ACT, {
   wk(b, e, a, k) {
     const u = dailyUnit();
     if (!u) return;
-    const word = u.c.x.words[dayNo % u.c.x.words.length],
+    const word = gameSet(u).words[dayNo % gameSet(u).words.length],
       g = gamesToday();
     g.cur = g.cur || "";
     const key = b.dataset.key;
@@ -6996,6 +7022,7 @@ Object.assign(ACT, {
     } else if (key === "ENTER") {
       if (g.cur.length === 5) {
         g.g.push(g.cur);
+        warmProgress("play");
         const w = g.cur === word;
         g.cur = "";
         sfx(w ? "win" : g.g.length >= 6 ? "no" : "flip");
@@ -7014,18 +7041,20 @@ Object.assign(ACT, {
   },
   tf(b, e, a, k) {
     const u = dailyUnit(),
-      q = u.c.x.quiz[+b.dataset.i];
+      q = gameSet(u).quiz[+b.dataset.i];
     gamesToday().tf[b.dataset.i] = +b.dataset.v;
+    warmProgress("play");
     sfx((+b.dataset.v === 1) === q[1] ? "ok" : "no");
-    if (Object.keys(gamesToday().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
+    if (Object.keys(gamesToday().tf).length === gameSet(u).quiz.length) setTimeout(() => sfx("win"), 300);
     commit();
   },
   odd(b, e, a, k) {
     const u = dailyUnit(),
-      o = u.c.x.odd[dayNo % u.c.x.odd.length],
+      o = gameSet(u).odd[dayNo % gameSet(u).odd.length],
       g = gamesToday();
     if (!g.odd) {
       g.odd = b.dataset.w;
+      warmProgress("play");
       sfx(g.odd === o[1] ? "win" : "no");
       if (g.odd === o[1]) confetti();
       commit();
@@ -7853,7 +7882,12 @@ function fxProgress(id) {
   const F = fxSt(),
     done = Object.keys(F.done[id] || {}).filter((k) => k.startsWith("sec:")).length,
     pos = F.pos[id];
-  return { done, parts: DATA.units?.[id]?.parts || 0, started: !!(done || pos), next: pos?.k ? fxKC(pos.k)[0] : "" };
+  return {
+    done,
+    parts: (DATA.units?.[id]?.parts || []).length,
+    started: !!(done || pos),
+    next: pos?.k ? fxKC(pos.k)[0] : "",
+  };
 }
 // open a unit; with `straightIn` it goes into the part the family is up to, skipping the unit's front page
 async function fxOpen(id, straightIn) {
@@ -11146,9 +11180,7 @@ function viewToday() {
     dn = real.filter((i) => i.done).length,
     f = focusOf(items, today);
   const lessons = real.filter((i) => i.kind === "lesson"),
-    lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
-    left = real.filter((i) => !i.done),
-    doneL = real.filter((i) => i.done);
+    lessonsDone = lessons.length > 0 && lessons.every((i) => i.done);
   let h = todayHero([
     ...(S.child ? [esc(S.child) + "'s day"] : []),
     shortDate(),
@@ -11161,9 +11193,7 @@ function viewToday() {
   h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
-  if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
-  if (doneL.length)
-    h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
+  if (real.length) h += `<div class="tt compact daydrag">${real.map((i) => tRow(i, today, f)).join("")}</div>`;
   h += `</section><div class="lotusline" aria-hidden="true"></div>${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
   window.FXANIMED = 1;
   h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button>`;
@@ -11252,11 +11282,6 @@ Object.assign(ACT, {
     tab = "week";
     render();
     scrollTo(0, 0);
-  },
-  showdone(b, e, a, k) {
-    ui.showDone = !ui.showDone;
-    sfx("tap");
-    render();
   },
   moresheet(b, e, a, k) {
     sfx("flip");

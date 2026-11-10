@@ -106,14 +106,30 @@ function daySteps(u, n, tot) {
     generic: true,
   }));
 }
+// a lesson's warm-up games (words, true or false, odd one out): a DeepKids unit carries its own, written from its ideas; a
+// few board chapters carry theirs
+const gameSet = (u) => (u?.board === "unit" ? DATA.units?.[u.c.unit]?.warm : u?.c?.x);
+// whose games the family plays today: a lesson planned for today if it has games, otherwise the next unit in turn, so
+// they change every day. The choice stays the same all day
 function dailyUnit() {
   if (!S.subjects.includes("sci")) return null;
-  const sc = schedule("sci", 60);
-  const t = sc.find((x) => x.u.c?.x);
-  if (t) return t.u;
-  const any = S.log.find((l) => unitBy(l.key)?.c?.x);
-  if (any) return unitBy(any.key);
-  return DATA.items.find((i) => i.c?.x) || null;
+  const g = gamesToday(),
+    kept = g.u && unitBy(g.u);
+  if (gameSet(kept)) return kept;
+  const pool = DATA.items.filter(gameSet).sort((x, y) => (x.k < y.k ? -1 : 1)),
+    u = lessonsOn(today).find((l) => gameSet(l.u))?.u || pool[dayNo % pool.length] || null;
+  if (u) g.u = u.k;
+  return u;
+}
+// the warm-up counts as done on its own once the family has opened a joke's answer and played a game
+function warmProgress(part) {
+  const g = gamesToday();
+  g[part] = true;
+  if (g.joke && g.play && !S.tl[today + "|warm"]) {
+    S.tl[today + "|warm"] = Date.now();
+    toast("Warm-up done ✓");
+  }
+  save();
 }
 const gamesToday = () => (S.games[today] = S.games[today] || { g: [], tf: {}, odd: null });
 const splitJoke = (j) => {
@@ -1907,6 +1923,7 @@ Object.assign(ACT, {
   joke(b, e, a, k) {
     ui.jokes[b.dataset.j] = !ui.jokes[b.dataset.j];
     sfx(ui.jokes[b.dataset.j] ? "ok" : "flip");
+    if (ui.jokes[b.dataset.j]) warmProgress("joke");
     sheet.open ? renderSheet() : render();
   },
 });

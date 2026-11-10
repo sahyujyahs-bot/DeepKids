@@ -621,9 +621,7 @@ function viewToday() {
     dn = real.filter((i) => i.done).length,
     f = focusOf(items, today);
   const lessons = real.filter((i) => i.kind === "lesson"),
-    lessonsDone = lessons.length > 0 && lessons.every((i) => i.done),
-    left = real.filter((i) => !i.done),
-    doneL = real.filter((i) => i.done);
+    lessonsDone = lessons.length > 0 && lessons.every((i) => i.done);
   let h = todayHero([
     ...(S.child ? [esc(S.child) + "'s day"] : []),
     shortDate(),
@@ -636,9 +634,7 @@ function viewToday() {
   h += `${firstWeekCard()}<section class="sec cal">${pastEvCard(real)}${nudgeCard()}${calHead(today)}`;
   if (lessonsDone || !real.length)
     h += `<section class="donecard">${blob("var(--sun)", 4, "happy", "mascot bob")}<h2>${lessons.length ? "Lessons done! Keep going?" : "Want to start something?"}</h2>${offerList()}</section>`;
-  if (left.length) h += `<div class="tt compact daydrag">${left.map((i) => tRow(i, today, f)).join("")}</div>`;
-  if (doneL.length)
-    h += `<button class="donebar" data-act="showdone" aria-expanded="${!!ui.showDone}"><span class="ck on">${icon("check")}</span><b>${doneL.length} done today</b><span class="xs">${ui.showDone ? "Hide" : "Show"}</span></button>${ui.showDone ? `<div class="tt compact">${doneL.map((i) => tRow(i, today, null)).join("")}</div>` : ""}`;
+  if (real.length) h += `<div class="tt compact daydrag">${real.map((i) => tRow(i, today, f)).join("")}</div>`;
   h += `</section><div class="lotusline" aria-hidden="true"></div>${fxTodayTop(!window.FXANIMED)}`; // the founder's lotus pond marks where the day's plan ends // the summary animates in the first time only
   window.FXANIMED = 1;
   h += `<button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">quiz, photos, jokes, games, your reading</span></button>`;
@@ -727,11 +723,6 @@ Object.assign(ACT, {
     tab = "week";
     render();
     scrollTo(0, 0);
-  },
-  showdone(b, e, a, k) {
-    ui.showDone = !ui.showDone;
-    sfx("tap");
-    render();
   },
   moresheet(b, e, a, k) {
     sfx("flip");

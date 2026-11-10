@@ -551,7 +551,7 @@ function refreshView() {
   return refreshAnswersView();
 }
 function wordGame(u) {
-  const x = u.c.x,
+  const x = gameSet(u),
     word = x.words[dayNo % x.words.length],
     g = gamesToday(),
     won = g.g.includes(word),
@@ -580,7 +580,7 @@ function wordGame(u) {
 }
 function tfGame(u) {
   const g = gamesToday(),
-    q = u.c.x.quiz,
+    q = gameSet(u).quiz,
     i = q.findIndex((_, k) => g.tf[k] === undefined),
     right = (k) => (g.tf[k] === 1) === q[k][1],
     sc = q.filter((_, k) => g.tf[k] !== undefined && right(k)).length;
@@ -592,7 +592,7 @@ function tfGame(u) {
 }
 function oddGame(u) {
   const g = gamesToday(),
-    o = u.c.x.odd[dayNo % u.c.x.odd.length];
+    o = gameSet(u).odd[dayNo % gameSet(u).odd.length];
   return `<p class="sm muted center">Which one doesn't belong? There may be more than one good answer. Can you defend yours?</p><div class="oddgrid">${o[0].map((w) => `<button class="${g.odd ? (w === o[1] ? "right" : w === g.odd ? "wrong" : "") : ""}" data-act="odd" data-w="${esc(w)}" ${g.odd ? "disabled" : ""}>${esc(w)}</button>`).join("")}</div>${g.odd ? `<p class="center">${g.odd === o[1] ? "Yes. " : "We picked " + esc(o[1]) + ". "}${esc(o[2])}</p>` : ""}`;
 }
 function jokesAndGames() {
@@ -604,7 +604,7 @@ function jokesAndGames() {
    <div class="seg">${Object.entries(T)
      .map(([k, [n]]) => `<button aria-pressed="${ui.game === k}" data-act="gtab" data-g="${k}">${n}</button>`)
      .join("")}</div><section class="col">${T[ui.game][1](u)}</section>
-   <button class="btn ${S.tl[today + "|warm"] ? "soft" : "accent"}" data-act="tlcheck" data-id="warm" data-date="${today}">${S.tl[today + "|warm"] ? "Warm-up done ✓" : "Warm-up done"}</button>`;
+`;
 }
 function gamesView() {
   const id = fxWarmUnit(today),
@@ -803,7 +803,7 @@ Object.assign(ACT, {
   wk(b, e, a, k) {
     const u = dailyUnit();
     if (!u) return;
-    const word = u.c.x.words[dayNo % u.c.x.words.length],
+    const word = gameSet(u).words[dayNo % gameSet(u).words.length],
       g = gamesToday();
     g.cur = g.cur || "";
     const key = b.dataset.key;
@@ -814,6 +814,7 @@ Object.assign(ACT, {
     } else if (key === "ENTER") {
       if (g.cur.length === 5) {
         g.g.push(g.cur);
+        warmProgress("play");
         const w = g.cur === word;
         g.cur = "";
         sfx(w ? "win" : g.g.length >= 6 ? "no" : "flip");
@@ -832,18 +833,20 @@ Object.assign(ACT, {
   },
   tf(b, e, a, k) {
     const u = dailyUnit(),
-      q = u.c.x.quiz[+b.dataset.i];
+      q = gameSet(u).quiz[+b.dataset.i];
     gamesToday().tf[b.dataset.i] = +b.dataset.v;
+    warmProgress("play");
     sfx((+b.dataset.v === 1) === q[1] ? "ok" : "no");
-    if (Object.keys(gamesToday().tf).length === u.c.x.quiz.length) setTimeout(() => sfx("win"), 300);
+    if (Object.keys(gamesToday().tf).length === gameSet(u).quiz.length) setTimeout(() => sfx("win"), 300);
     commit();
   },
   odd(b, e, a, k) {
     const u = dailyUnit(),
-      o = u.c.x.odd[dayNo % u.c.x.odd.length],
+      o = gameSet(u).odd[dayNo % gameSet(u).odd.length],
       g = gamesToday();
     if (!g.odd) {
       g.odd = b.dataset.w;
+      warmProgress("play");
       sfx(g.odd === o[1] ? "win" : "no");
       if (g.odd === o[1]) confetti();
       commit();
