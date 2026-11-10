@@ -1791,21 +1791,17 @@ dialog.mini::backdrop {
 }
 .tag {
   display: inline-block;
-  font: 600 var(--fs-1) var(--display);
+  font: 700 var(--fs-1) var(--display);
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  border-radius: 999px;
-  padding: 1px 8px;
   margin-right: 6px;
   vertical-align: 1px;
 }
 .tag.now {
-  background: var(--tang);
-  color: #fff;
+  color: var(--tang);
 }
 .tag.miss {
-  background: var(--bad);
-  color: #fff;
+  color: var(--bad);
 }
 .dsteps {
   margin: 0;
@@ -2406,10 +2402,6 @@ dialog.mini::backdrop {
 .tr.focus .tcard {
   animation: glow 2.6s ease-in-out infinite;
 }
-.tt.compact .tag.miss {
-  background: var(--sunk);
-  color: var(--muted);
-}
 .tt.compact .tr.missed .tcard {
   background: var(--surface);
   box-shadow: inset 0 0 0 2px var(--line);
@@ -2800,20 +2792,6 @@ dialog #voxbar {
   border-radius: 10px;
   background: #e3f3ec;
   color: #24553a;
-}
-.tt.compact .tag {
-  display: inline-block;
-  font-size: var(--fs-1);
-  padding: 1px 8px;
-  border-radius: 99px;
-  margin-right: 6px;
-  line-height: 1.6;
-  min-height: 0;
-  height: auto;
-}
-.tt.compact .tag.now {
-  background: var(--tang, #fd8326);
-  color: #fff;
 }
 .chip[aria-pressed="true"] {
   background: var(--ink);
@@ -7171,19 +7149,13 @@ body {
   color: #fff;
 }
 .s-eng .stag,
-.s-hin .stag,
-.r-both .stag,
-.r-kid .stag {
+.s-hin .stag {
   color: var(--ink);
 }
 .stag.soft {
-  background: var(--sunk);
+  padding: 0;
+  background: none;
   color: var(--muted);
-}
-.tcard .m .stag {
-  font: 800 var(--fs-1) var(--body);
-  color: #fff;
-  white-space: normal;
 }
 .tcard:has(.lmid) {
   align-items: start;
@@ -7227,9 +7199,9 @@ body {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="3a1e4e84906eca3c8f";window.DK_APPV="3a1e4e8490";window.DK_DATAV="6ecab1fc96"</script>
-<script src="/config.js?v=3a1e4e84906eca3c8f"></script>
+<script>window.DK_BUILD="03727a2db26eca3c8f";window.DK_APPV="03727a2db2";window.DK_DATAV="6ecab1fc96"</script>
+<script src="/config.js?v=03727a2db26eca3c8f"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=3a1e4e84906eca3c8f"></script>
+<script src="/platform.js?v=03727a2db26eca3c8f"></script>
 </body>
 </html>

@@ -1773,21 +1773,17 @@ dialog.mini::backdrop {
 }
 .tag {
   display: inline-block;
-  font: 600 var(--fs-1) var(--display);
+  font: 700 var(--fs-1) var(--display);
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  border-radius: 999px;
-  padding: 1px 8px;
   margin-right: 6px;
   vertical-align: 1px;
 }
 .tag.now {
-  background: var(--tang);
-  color: #fff;
+  color: var(--tang);
 }
 .tag.miss {
-  background: var(--bad);
-  color: #fff;
+  color: var(--bad);
 }
 .dsteps {
   margin: 0;
@@ -2388,10 +2384,6 @@ dialog.mini::backdrop {
 .tr.focus .tcard {
   animation: glow 2.6s ease-in-out infinite;
 }
-.tt.compact .tag.miss {
-  background: var(--sunk);
-  color: var(--muted);
-}
 .tt.compact .tr.missed .tcard {
   background: var(--surface);
   box-shadow: inset 0 0 0 2px var(--line);
@@ -2782,20 +2774,6 @@ dialog #voxbar {
   border-radius: 10px;
   background: #e3f3ec;
   color: #24553a;
-}
-.tt.compact .tag {
-  display: inline-block;
-  font-size: var(--fs-1);
-  padding: 1px 8px;
-  border-radius: 99px;
-  margin-right: 6px;
-  line-height: 1.6;
-  min-height: 0;
-  height: auto;
-}
-.tt.compact .tag.now {
-  background: var(--tang, #fd8326);
-  color: #fff;
 }
 .chip[aria-pressed="true"] {
   background: var(--ink);
@@ -7153,19 +7131,13 @@ body {
   color: #fff;
 }
 .s-eng .stag,
-.s-hin .stag,
-.r-both .stag,
-.r-kid .stag {
+.s-hin .stag {
   color: var(--ink);
 }
 .stag.soft {
-  background: var(--sunk);
+  padding: 0;
+  background: none;
   color: var(--muted);
-}
-.tcard .m .stag {
-  font: 800 var(--fs-1) var(--body);
-  color: #fff;
-  white-space: normal;
 }
 .tcard:has(.lmid) {
   align-items: start;
