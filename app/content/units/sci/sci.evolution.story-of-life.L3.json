@@ -7,7 +7,7 @@
   "art": "A long ribbon of time across a page: on the left a young, steaming Earth with a dark sea, then domed striped rocks in shallow water, then a sea turning rusty red, and at the far right end a tiny child holding a magnifying glass."
  },
  "intro": {
-  "hook": "You came from your mother. She came from her mother, and so on, back and back. A curry leaf plant came from a seed, which came from another curry leaf plant. Every living thing comes from another living thing. So where did the very first living thing come from, when there was nothing alive to come from?",
+  "hook": "Every living thing is born from another living thing. You were born from your mother, and she was born from her mother. A curry leaf plant grows from a seed that fell from another curry leaf plant. Now think about the very first living thing. Nothing alive came before it. So where did it come from?",
   "text": "This is one of the biggest questions in science, and it is still open. In this unit you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.",
   "art": "A child at a window, holding up a curry leaf, with a dotted line going back from the leaf to a seed, to an older plant, and on into a misty sea with a question mark in it."
  },
@@ -1057,7 +1057,7 @@
    "title": "The Chain of Mothers: who came before?",
    "mins": 8,
    "days": 1,
-   "context": "This short activity opens the unit. You draw where you came from, going back and back, until you reach the biggest question in this unit.",
+   "context": "This short activity opens the unit. You draw a line of mothers, each one born from the one before, until you reach the biggest question in this unit.",
    "materials": [
     {
      "item": "a long strip of paper, or two sheets taped end to end",
@@ -1072,7 +1072,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Draw a chain of mothers going back in time, and ask what came first."
+     "what": "Draw a line of mothers, each born from the one before, and ask who was first."
     }
    ],
    "record": "Keep the drawing. You will add to it at the end of the unit.",
@@ -1087,9 +1087,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Keep going left with dotted lines, as far back as your child can imagine.",
-     "say": "Every living thing comes from another living thing. If we keep going back, and back, what do we reach?",
-     "kid": "Keep going back. Who came before her? And before that? Draw dots for the far past.",
+     "do": "Keep drawing to the left: her mother, and her mother's mother. When your child runs out of people to draw, use dotted lines for the very long ago.",
+     "say": "Every living thing is born from another living thing. If we draw one mother after another, who do we get to at the very end?",
+     "kid": "Draw her mother next, and then her mother's mother. When you run out of people, draw dots for the very long ago.",
      "parent": "Children often draw cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now."
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
      "art": "The same strip with dotted lines going far left and a big question mark at the end.",
-     "caption": "2. Keep going back. End with a question mark."
+     "caption": "2. Draw more mothers to the left. Use dots for the very long ago. End with a big question mark."
     }
    ]
   },
