@@ -15801,6 +15801,29 @@ function fxSessionsDone(k) {
   }
   return n;
 }
+// When the last part of a session is finished, Today ticks that lesson done (once per session)
+function fxLogSession(id) {
+  const F = fxSt(),
+    D = F.done[id],
+    k = "unit|" + id,
+    u = unitBy(k);
+  if (u) {
+    const n = fxSessionsDone(k);
+    if (F.sess?.[id] === undefined) {
+      let old = 0;
+      for (const d of fxSpineDays(u)) {
+        if (d.every((p) => D["at:" + p[0]] && D["at:" + p[0]] !== today)) old++;
+        else break;
+      }
+      F.sess = { ...F.sess, [id]: old };
+    }
+    if (n > F.sess[id]) {
+      logSession(u, "plan");
+      F.sess[id] = n;
+    }
+  }
+  save();
+}
 // Dates every part that is now done; a part done just now also adds its linked units to the plan
 function fxStamp(id) {
   const F = fxSt(),
@@ -15815,7 +15838,7 @@ function fxStamp(id) {
       changed = 1;
     }
   });
-  if (changed) save();
+  if (changed) fxLogSession(id);
   parts.forEach((p) => {
     if (before.has("at:" + p[0]) || !D["at:" + p[0]]) return;
     (p[7] || []).forEach((lk) => {

@@ -71,6 +71,12 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
     save();
     r.push("states " + fxStates(id).join(","));
     r.push("unit " + fxUnitSt("unit|" + id) + " sessions " + fxSessionsDone("unit|" + id));
+    r.push(
+      "logged " +
+        S.log.filter((l) => l.key === "unit|" + id).length +
+        " once " +
+        (fxSt().sess?.[id] === fxSessionsDone("unit|" + id)),
+    );
     r.push("going " + JSON.stringify(lessonsGoing().map((x) => x.sub)));
     r.push("spine " + fxSpineIds(unitBy("unit|" + id)).join(","));
     r.push("refs " + fxRefs().length);
