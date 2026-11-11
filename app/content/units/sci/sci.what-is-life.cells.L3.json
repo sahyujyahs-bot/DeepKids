@@ -845,7 +845,7 @@
     },
     {
      "art": "A child holding a phone, with a tiny water drop on its camera lens, very close to an onion skin on clear plastic held against a window. A zoomed circle shows faint brick-shaped cells.",
-     "caption": "3. Look with each magnifier. Then add a drop of stain and look again."
+     "caption": "3. Look with each magnifier. A grown-up then adds one drop of iodine (the brown antiseptic from the first-aid box). Look again."
     }
    ],
    "flow": [
@@ -2763,7 +2763,7 @@
  ],
  "maths": [
   {
-   "problem": "In a phone photo of onion skin, Nandini, a girl in Class 4, counted 10 cells side by side across 1 millimetre. How many cells would fit side by side across 1 centimetre? Remember, 1 centimetre is 10 millimetres.",
+   "problem": "In a photo of onion skin, 10 cells fit side by side across 1 millimetre. How many fit across 1 centimetre? (1 centimetre is 10 millimetres.)",
    "answer": "100 cells.",
    "explain": "10 cells fit across 1 millimetre. 1 centimetre is 10 millimetres. So it is 10 groups of 10 cells. 10 times 10 is 100. So about 100 onion cells fit across 1 centimetre.",
    "math_unit": "math.multiplication.equal-groups.L3",
