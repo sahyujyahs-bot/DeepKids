@@ -685,7 +685,7 @@
    "id": "g2",
    "title": "Run and Tumble: be a bacterium",
    "mins": 15,
-   "players": "2 or more: one 'bacterium' and one 'food maker'",
+   "players": "2 or more: one 'bacterium' and one 'food hider'",
    "context": "This is a moving game. A real bacterium has no eyes and no brain. They sense the chemicals of food in the water, a little like smelling. They swim straight, then check: is the smell stronger now than a moment ago? If yes, they keep going. If no, they tumble and pick a new direction. You play the bacterium.",
    "printables": [
     {
@@ -700,24 +700,24 @@
    ],
    "rules": [
     "One player is the bacterium. They close their eyes or wear a loose cloth over them.",
-    "The food maker hides a piece of food, like a cut lemon or a sweet, somewhere in the room.",
+    "The food hider hides a piece of food, like a cut lemon or a sweet, somewhere in the room.",
     "The bacterium takes 3 steps forward in a straight line. This is a 'run'.",
-    "After each run, the food maker says 'stronger' if the bacterium is now closer to the food than before the run, or 'weaker' if further away. After the first run, compare with the starting spot.",
+    "After each run, the food hider says 'stronger' if the bacterium is now closer to the food than before the run, or 'weaker' if further away. After the first run, compare with the starting spot.",
     "If it is stronger, the bacterium runs again the same way. If it is weaker, the bacterium tumbles: they spin slowly on the spot, stop, and set off facing a new way. A wall or a piece of furniture counts as weaker.",
     "Count the runs it takes to touch the food. Then swap."
    ],
    "setup": [
     {
      "art": "A child with a soft cloth over their eyes standing in a cleared room, a cut lemon on a stool in the corner.",
-     "caption": "1. Clear the floor. Hide the food. Cover the bacterium's eyes."
+     "caption": "1. Clear the floor. One player hides a lemon. The other player, the bacterium, covers their eyes."
     },
     {
      "art": "A child taking three straight steps, with footprints, and another child saying 'stronger'.",
-     "caption": "2. Run 3 steps. The food maker says stronger or weaker."
+     "caption": "2. The bacterium walks 3 steps. The player who hid the lemon says 'stronger' if they got closer, or 'weaker' if not."
     },
     {
      "art": "A child spinning slowly on the spot with arms tucked in, curved arrows around them.",
-     "caption": "3. Weaker? Tumble: spin round and set off a new way."
+     "caption": "3. Weaker? Spin round once and walk off a new way. Stronger? Keep going the same way."
     }
    ],
    "flow": [
@@ -2799,9 +2799,9 @@
    "why_maths": "A number like 30 trillion is too big to picture. Turning it into time helps us feel how many cells we are made of."
   },
   {
-   "problem": "In the Run and Tumble game, Farhan, a boy in Class 3, took 12 runs to find the lemon. Each run was 3 steps. How many steps did Farhan walk in all?",
+   "problem": "In the Run and Tumble game, a player took 12 runs to find the lemon. Each run was 3 steps. How many steps did they walk in all?",
    "answer": "36 steps.",
-   "explain": "Farhan took 12 runs of 3 steps each. 12 times 3 is 36. So Farhan walked 36 steps, even though the lemon was much closer in a straight line. That is how a bacterium moves: lots of small tries.",
+   "explain": "The player took 12 runs of 3 steps each. 12 times 3 is 36. So they walked 36 steps, even though the lemon was much closer in a straight line. That is how a bacterium moves: lots of small tries.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "context": "This is about Run and Tumble, the game where you played a bacterium finding food with your eyes shut, in runs of 3 steps.",
    "how": "g2",
