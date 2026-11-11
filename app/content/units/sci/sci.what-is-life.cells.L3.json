@@ -900,7 +900,7 @@
      "mins": 5,
      "do": "A grown-up puts one drop of iodine antiseptic or blue ink on the skin. Wait one minute. Gently dab off the extra with tissue. Look again.",
      "say": "The stain colours the cells. Look again. Do the boxes show up better now? Can you see a dot inside any of them?",
-     "kid": "A grown-up adds one drop of colour. Wait a minute. Look again. Can you see a dark dot inside a box?",
+     "kid": "A grown-up adds one drop of iodine or blue ink. Wait a minute. Look again. Can you see a dark dot inside a box?",
      "adult": true,
      "parent": "The stain makes the cells' edges darker. The dark dot, the nucleus, is often too small for a phone and water drop. That is normal. A Foldscope or microscope shows it."
     },
@@ -976,7 +976,7 @@
     },
     {
      "art": "The stick being smeared on a glass slide, and one drop of blue colour added.",
-     "caption": "2. Smear it on a slide. Add one drop of colour."
+     "caption": "2. Smear it on a slide. Add one drop of blue ink."
     },
     {
      "art": "A child at a small microscope, and a zoomed circle showing blue fried-egg-shaped cells.",
@@ -995,9 +995,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child gently rubs the flat end of the stick on the inside of their cheek, 5 times. 2. They smear the stick on the middle of the slide. 3. Add one drop of colour. 4. Put a coverslip or plastic square on top.",
+     "do": "1. Your child gently rubs the flat end of the stick on the inside of their cheek, 5 times. 2. They smear the stick on the middle of the slide. 3. Add one drop of blue ink. 4. Put a coverslip or plastic square on top.",
      "say": "Gently, like brushing a feather across your skin. Five times. Now smear it on the glass.",
-     "kid": "Rub the stick gently inside your cheek, 5 times. Smear it on the slide. Add one drop of colour.",
+     "kid": "Rub the stick gently inside your cheek, 5 times. Smear it on the slide. Add one drop of blue ink.",
      "adult": true,
      "parent": "The smear will look like almost nothing. That is normal: there are thousands of cells in it."
     },
