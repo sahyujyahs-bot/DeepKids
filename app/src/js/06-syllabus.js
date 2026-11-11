@@ -194,7 +194,7 @@ function unitBy(k) {
   return _unitIdx.get(k);
 }
 const statusOf = (k) => (k.startsWith("unit|") ? fxUnitSt(k) : S.progress[k]?.status || "none");
-const done = (k) => (k.startsWith("unit|") ? fxSessionsDone(k) : S.progress[k]?.sessions || 0);
+const done = (k) => (k.startsWith("unit|") ? fxLogged(k.slice(5)) : S.progress[k]?.sessions || 0);
 const rank = { none: 0, learning: 1, completed: 2, mastered: 3 };
 const daysOf = (s) => S.days[s] || DEF_DAYS[s];
 const hpdOf = (s) => (S.hpd && S.hpd[s]) || DEF_HPD[s];
@@ -216,7 +216,7 @@ const estHours = (u) =>
 const hoursFor = (u) => S.hrs[u.k] ?? estHours(u);
 const sessionsFor = (u) =>
   u.board === "unit"
-    ? fxSpineDays(u).length
+    ? fxLogged(u.c.unit) + fxDays(u).length
     : u.c?.p
       ? u.c.p.days.length
       : Math.max(1, Math.ceil(hoursFor(u) / hpdOf(u.subj) - 1e-9));

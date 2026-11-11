@@ -67,6 +67,7 @@ SUBI = {x['id']: i for i, x in enumerate(CUR['subtopic_levels'])}   # curriculum
 data['units'] = {}
 import re, importlib.util as _iu
 _sp = _iu.spec_from_file_location('c3d', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'c3_daily.py')); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); C3D = _m.X   # NCERT Class 3 chapter extras (jokes and more)
+FXORDER = ("intro", "activities", "experiments", "terms", "explanations", "videos", "how_we_found_out", "story", "games", "worksheets", "quiz", "agreed", "applications", "maths", "projects", "challenges", "challenging", "big_questions", "open_questions", "roots", "spotted", "ask_kids", "photos", "models", "jokes", "song", "links", "buy")
 FLOWK = ("games", "experiments", "activities", "projects", "challenges")
 PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "How it really works", "agreed": "What we know for sure", "how_we_found_out": "How we found out",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
@@ -81,15 +82,14 @@ def unit_parts(u):
     """The unit's parts in the order the app's feed shows them (mirrors fxCards/fxSecMeta in the app), each as
     [id, title, kind, minutes, questions the app checks, days it runs, key prefix of those questions]."""
     order = list(u['plan']['default_order'])
-    if u.get('roots') and 'roots' not in order:
-        order.insert(order.index('big_questions') + 1 if 'big_questions' in order else len(order), 'roots')
-    if u.get('how_we_found_out') and 'how_we_found_out' not in order:
-        j = next((i + 1 for i, k in enumerate(order) if k in ('agreed', 'explanations')), len(order))
-        order.insert(j, 'how_we_found_out')
+    if u.get('roots') and 'roots' not in order: order.append('roots')
+    if u.get('how_we_found_out') and 'how_we_found_out' not in order: order.append('how_we_found_out')
     for k in ("videos", "jokes", "maths", "applications", "photos", "spotted", "ask_kids", "song", "links", "buy"):
         if k not in order: order.append(k)
     ents = {x['id']: (k, x) for k in FLOWK for x in u.get(k, [])}
     ents.update({w['id']: ('worksheets', w) for w in u.get('worksheets', [])})
+    # the same teaching order in every unit (mirrors FXORDER in the app): notice, try, explain, practise, apply, go deeper
+    order.sort(key=lambda o: FXORDER.index(k) if (k := ents[o][0] if o in ents else o) in FXORDER else len(FXORDER))
     out = []
     for o in order:
         if o in ents:
@@ -155,7 +155,7 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
     sub0 = SUB.get(u['id'], {})
-    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "spine": u["plan"].get("spine", []), "req": bool(sub0.get("chapters")), "jokes": [[j.get("j", ""), j.get("a", ""), j.get("src", "unit")] for j in u.get("jokes", [])], "buy": [{"item": b.get("item", ""), "kind": b.get("kind", ""), "url": b.get("url", ""), "used_in": b.get("used_in", []), "plan": b.get("plan", "")} for b in u.get("buy", [])], "order": SUBI.get(u["id"], 9999), "games": unit_games(u), "summary": {"text": u['summary']['text']}, **({"warm": u["warm"]} if u.get("warm") else {}), "song": u.get('song', {}),
+    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "req": bool(sub0.get("chapters")), "jokes": [[j.get("j", ""), j.get("a", ""), j.get("src", "unit")] for j in u.get("jokes", [])], "buy": [{"item": b.get("item", ""), "kind": b.get("kind", ""), "url": b.get("url", ""), "used_in": b.get("used_in", []), "plan": b.get("plan", "")} for b in u.get("buy", [])], "order": SUBI.get(u["id"], 9999), "games": unit_games(u), "summary": {"text": u['summary']['text']}, **({"warm": u["warm"]} if u.get("warm") else {}), "song": u.get('song', {}),
                               "pic": card_pic(u.get('img') or {}), "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
     ref = {"id": u['id'], "title": u['title']}
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']

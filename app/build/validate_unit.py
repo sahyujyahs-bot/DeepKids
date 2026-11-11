@@ -99,15 +99,6 @@ def check(path):
     for c in u["challenging"]:
         if c.get("status") not in ("accepted", "debated", "minority", "rejected"): P(f"challenging view status: {c.get('claim', '')[:40]}")
     if len(u["big_questions"]) < 4 or not all(q.get("kind") in ("deep", "big") for q in u["big_questions"]): P("big_questions: 4+, each kind deep or big")
-    sp = u["plan"].get("spine") or []
-    if not sp: P("plan.spine: list the core-path part ids (about 2 sessions; SPEC_UNIT.md 'The spine')")
-    else:
-        fl = {x["id"]: x for k in FLOW + ("worksheets",) for x in u.get(k, [])}
-        need_sp = {"explanations", "roots", "quiz"}
-        if not need_sp <= set(sp): P("plan.spine must include explanations, roots and quiz")
-        if not any(i in fl and fl[i] in u.get("experiments", []) and fl[i].get("mins", 0) >= 20 for i in sp): P("plan.spine needs one real investigation: an experiment of 20+ minutes (a demonstration or act-out does not count)")
-        bad = [i for i in sp if i not in fl and i not in u]
-        if bad: P(f"plan.spine has unknown ids: {bad}")
     h = u["how_we_found_out"]
     if not all(h.get(k) for k in ("story", "who", "when", "wrong_idea")): P("how_we_found_out needs story, who, when, wrong_idea")
     elif not 80 <= len(h["story"].split()) <= 220: P(f"how_we_found_out story is {len(h['story'].split())} words (80-200)")

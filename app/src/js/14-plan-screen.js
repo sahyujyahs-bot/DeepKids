@@ -413,7 +413,7 @@ function lessonsGoing() {
           title: chT(u),
           state: "going",
           sub: id
-            ? `${X.filter((x) => x === "done").length} of ${DATA.units[id].parts?.length || 0} parts done · core path: ${fxSessionsDone(u.k)} of ${fxSpineDays(unitBy(u.k)).length} sessions`
+            ? `${X.filter((x) => x === "done").length} of ${DATA.units[id].parts?.length || 0} parts done · ${fxLogged(id)} of ${sessionsFor(u)} sessions`
             : `${done(u.k)} of ${sessionsFor(u)} parts done`,
           open: `data-act="chapter" data-k="${u.k}"`,
           go: "Open",

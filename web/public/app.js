@@ -1206,7 +1206,7 @@ function unitBy(k) {
   return _unitIdx.get(k);
 }
 const statusOf = (k) => (k.startsWith("unit|") ? fxUnitSt(k) : S.progress[k]?.status || "none");
-const done = (k) => (k.startsWith("unit|") ? fxSessionsDone(k) : S.progress[k]?.sessions || 0);
+const done = (k) => (k.startsWith("unit|") ? fxLogged(k.slice(5)) : S.progress[k]?.sessions || 0);
 const rank = { none: 0, learning: 1, completed: 2, mastered: 3 };
 const daysOf = (s) => S.days[s] || DEF_DAYS[s];
 const hpdOf = (s) => (S.hpd && S.hpd[s]) || DEF_HPD[s];
@@ -1228,7 +1228,7 @@ const estHours = (u) =>
 const hoursFor = (u) => S.hrs[u.k] ?? estHours(u);
 const sessionsFor = (u) =>
   u.board === "unit"
-    ? fxSpineDays(u).length
+    ? fxLogged(u.c.unit) + fxDays(u).length
     : u.c?.p
       ? u.c.p.days.length
       : Math.max(1, Math.ceil(hoursFor(u) / hpdOf(u.subj) - 1e-9));
@@ -7103,7 +7103,7 @@ const FXN = {
 };
 const fxSt = () => {
   S.fx = S.fx || { pos: {}, done: {}, saved: {}, ref: {}, score: {} };
-  for (const k of ["pos", "done", "saved", "ref", "score", "time"]) S.fx[k] = S.fx[k] || {};
+  for (const k of ["pos", "done", "saved", "ref", "score", "time", "day"]) S.fx[k] = S.fx[k] || {};
   return S.fx;
 };
 let FXCUR = 0,
@@ -7428,21 +7428,46 @@ function fxItem(u, key, it, i, n) {
 function fxCarousel(u, pre, items, title) {
   return `<div class="fxcar fxstack">${items.map((it, i) => `<div class="fxslide">${fxItem(u, `${pre}.${i}`, it, i, items.length)}</div>`).join("")}</div>`;
 }
+const FXORDER = [
+  "intro",
+  "activities",
+  "experiments",
+  "terms",
+  "explanations",
+  "videos",
+  "how_we_found_out",
+  "story",
+  "games",
+  "worksheets",
+  "quiz",
+  "agreed",
+  "applications",
+  "maths",
+  "projects",
+  "challenges",
+  "challenging",
+  "big_questions",
+  "open_questions",
+  "roots",
+  "spotted",
+  "ask_kids",
+  "photos",
+  "models",
+  "jokes",
+  "song",
+  "links",
+  "buy",
+];
+// the last of these are extras to dip into: they are not scheduled and a unit is finished without them
+const FXOPT = new Set(["spotted", "ask_kids", "photos", "models", "jokes", "song", "links", "buy"]);
 function fxCards(u) {
   const C = [],
     SL = [],
     add = (key, html, say, extra) => C.push({ key, html, say, ...(extra || {}) }),
     st = u.story;
   const order = [...u.plan.default_order];
-  if (u.roots && !order.includes("roots")) {
-    const j = order.indexOf("big_questions");
-    order.splice(j < 0 ? order.length : j + 1, 0, "roots");
-  }
-  // the real discovery story comes after what scientists agree on (or after the explanations)
-  if (u.how_we_found_out && !order.includes("how_we_found_out")) {
-    const j = order.findIndex((k) => k === "agreed" || k === "explanations");
-    order.splice(j < 0 ? order.length : j + 1, 0, "how_we_found_out");
-  }
+  if (u.roots && !order.includes("roots")) order.push("roots");
+  if (u.how_we_found_out && !order.includes("how_we_found_out")) order.push("how_we_found_out");
   for (const k of [
     "videos",
     "jokes",
@@ -7456,10 +7481,16 @@ function fxCards(u) {
     "links",
     "buy",
   ])
-    if (!order.includes(k)) order.splice(k === "videos" ? order.length : order.length, 0, k);
+    if (!order.includes(k)) order.push(k);
   const all = {};
   for (const k of Object.keys(FXN)) for (const x of u[k] || []) all[x.id] = [k, x];
   for (const w of u.worksheets) all[w.id] = ["worksheets", w];
+  // the same teaching order in every unit: notice, try, explain, practise, apply, go deeper; each part only refers to earlier ones
+  const rk = (o) => {
+    const i = FXORDER.indexOf(all[o]?.[0] || o);
+    return i < 0 ? FXORDER.length : i;
+  };
+  order.sort((a, b) => rk(a) - rk(b));
   for (const o of order) {
     const n0 = C.length;
     fxOne(o);
@@ -7923,8 +7954,10 @@ async function fxOpen(id, straightIn) {
       T = (F.time[u.id] = F.time[u.id] || {}),
       k = FXALL.sections[FXSI].id;
     T[k] = (T[k] || 0) + 5;
+    const Dy = (F.day[u.id] = F.day[u.id] || {});
+    Dy[today] = (Dy[today] || 0) + 5;
     addMins(unitBy("unit|" + u.id)?.subj, 5);
-    if (T[k] % 30 === 0) save();
+    if (T[k] % 30 === 0) fxLogSession(u.id);
   }, 5000);
 }
 const fxMin = (s) => (s < 60 ? (s ? "under a minute" : "not started") : Math.round(s / 60) + " min");
@@ -7952,12 +7985,12 @@ function fxMap() {
     cls = +u.id.slice(-1),
     day = { 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[cls] || 40,
     it = unitBy("unit|" + u.id),
-    SD = it ? fxSpineDays(it).length : 0,
+    SD = it ? sessionsFor(it) : 0,
     ref = unitRef(u.id),
     groups = [...new Set(SL.map((s) => fxGroup(s.kind)))];
   d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button></div>
     <div class="fxin fxsheetp"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
-    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"} to start</span>` : ""}<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>${ref ? `<span>${esc(ref)}</span>` : ""}</div>
+    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"}</span>` : ""}<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>${ref ? `<span>${esc(ref)}</span>` : ""}</div>
     ${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
     <div class="fxtiles">${groups
@@ -8440,25 +8473,13 @@ const fxSongBtns = () => {
 function fxParts(u) {
   return DATA.units?.[u?.c?.unit || u?.id]?.parts || [];
 }
-/* the spine (core path, about 2 sessions) comes first; the rest of the unit is "Go deeper", offered after the spine */
-function fxSpineIds(u) {
-  // the core path, plus the parts that use something the family has bought
-  const id = u?.c?.unit || u?.id,
-    I = DATA.units?.[id] || {},
-    P = I.parts || [],
-    base = I.spine?.length ? I.spine.filter((x) => P.some((p) => p[0] === x)) : P.map((p) => p[0]),
-    B = S.bought || {},
-    add = [];
-  (I.buy || []).forEach((b) => {
-    if (B[id + "|" + b.item])
-      (b.used_in || []).forEach((x) => {
-        if (P.some((p) => p[0] === x) && !base.includes(x) && !add.includes(x)) add.push(x);
-      });
-  });
-  return [...base, ...add];
-}
+// the parts a family works through, in teaching order (the extras are left out)
+const fxCoreOf = (P) => P.filter((p) => !FXOPT.has(p[2]));
+const fxCap = (u) => Math.max(20, Math.round(hpdOf(u.subj || "sci") * 60));
+// how many sessions of this unit have been done (finished, or the day's time used up)
+const fxLogged = (id) => S.log.filter((l) => l.key === "unit|" + id && l.kind !== "skipped").length;
 function fxPack(u, L) {
-  const cap = Math.max(20, Math.round(hpdOf(u.subj || "sci") * 60)),
+  const cap = fxCap(u),
     D = [];
   let cur = [],
     m = 0;
@@ -8474,20 +8495,41 @@ function fxPack(u, L) {
   if (cur.length) D.push(cur);
   return D;
 }
-function fxSpineDays(u) {
-  const P = fxParts(u),
-    sp = fxSpineIds(u);
-  return fxPack(
-    u,
-    sp.map((id) => P.find((p) => p[0] === id)),
-  );
-}
-function fxDeeper(u) {
-  const sp = new Set(fxSpineIds(u));
-  return fxParts(u).filter((p) => !sp.has(p[0]));
+// The sessions still to do, in order. Today's session holds what was done today plus the next parts that fit the day's
+// time; whatever is still pending when the day ends moves up into the next session.
+function fxDays(u) {
+  const id = u.c.unit,
+    P = fxParts(u),
+    X = fxStates(id),
+    D = fxSt().done[id] || {},
+    isDone = (p) => X[P.indexOf(p)] === "done",
+    core = fxCoreOf(P),
+    cap = fxCap(u);
+  if (S.log.some((l) => l.date === today && l.key === u.k && l.kind !== "skipped"))
+    return fxPack(
+      u,
+      core.filter((p) => !isDone(p)),
+    );
+  const g = [];
+  let m = 0;
+  for (const p of core) {
+    if (isDone(p) && D["at:" + p[0]] && D["at:" + p[0]] !== today) continue;
+    if (g.length && m + p[3] > cap) break;
+    g.push(p);
+    m += p[3];
+  }
+  return g.length
+    ? [
+        g,
+        ...fxPack(
+          u,
+          core.filter((p) => !isDone(p) && !g.includes(p)),
+        ),
+      ]
+    : [];
 }
 function fxDayPlan(u) {
-  const D = [...fxSpineDays(u), ...fxPack(u, fxDeeper(u))];
+  const D = [...Array(fxLogged(u.c.unit)).fill([]), ...fxDays(u)];
   return D.length ? D : [[]];
 }
 function fxDaySteps(u, n) {
@@ -8559,8 +8601,7 @@ const fxUnitBtns = (L) =>
       X = fxStates(x.id),
       nd = X.filter((z) => z === "done").length,
       np = X.filter((z) => z === "pending").length,
-      SD = u ? fxSpineDays(u) : [],
-      D = u ? fxDayPlan(u) : [],
+      SD = u ? sessionsFor(u) : 0,
       s = u?.subj || "sci",
       open = dkUnitOpen(x.id),
       inPlan = (S.extra?.[s] || []).includes(k),
@@ -8574,9 +8615,7 @@ const fxUnitBtns = (L) =>
       locked: !open,
       facts: open
         ? [
-            SD.length < D.length
-              ? `About ${SD.length} session${SD.length === 1 ? "" : "s"} to start, ${D.length} in all`
-              : `About ${D.length} session${D.length === 1 ? "" : "s"}`,
+            `About ${SD} session${SD === 1 ? "" : "s"}`,
             nd || np ? `<b>${nd} of ${P.length} parts done</b>${np ? `, ${np} with questions left` : ""}` : "",
           ]
         : [],
@@ -8629,56 +8668,32 @@ function fxStates(id) {
   const I = DATA.units?.[id] || {},
     P = I.parts || [],
     S0 = P.map((p) => fxPS(id, p)),
-    sp = I.spine?.length ? I.spine : P.map((p) => p[0]),
+    sp = fxCoreOf(P).map((p) => p[0]),
     pos = (x) => sp.indexOf(x),
     last = Math.max(-1, ...sp.map((x, j) => (S0[P.findIndex((p) => p[0] === x)] === "done" ? j : -1)));
   return S0.map((x, i) => (x === "none" && pos(P[i][0]) >= 0 && pos(P[i][0]) < last ? "pending" : x));
 }
-// a core-path part skipped while a later core part was finished = pending; Go deeper parts are optional
+// a part skipped while a later one was finished = pending; the extras are optional
 function fxUnitSt(k) {
   const id = k.slice(5),
     I = DATA.units?.[id];
   if (!I) return S.progress[k]?.status || "none";
   const P = I.parts || [],
     X = fxStates(id),
-    sp = new Set(I.spine?.length ? I.spine : P.map((p) => p[0]));
+    sp = new Set(fxCoreOf(P).map((p) => p[0]));
   if (X.length && X.every((x) => x === "done")) return "mastered";
   if (P.every((p, i) => !sp.has(p[0]) || X[i] === "done")) return "completed";
   return X.some((x) => x !== "none") ? "learning" : "none";
 }
-function fxSessionsDone(k) {
-  const u = unitBy(k);
-  if (!u) return 0;
-  const X = fxStates(k.slice(5)),
-    P = fxParts(u),
-    ok = (p) => X[P.findIndex((q) => q[0] === p[0])] === "done";
-  let n = 0;
-  for (const d of fxSpineDays(u)) {
-    if (d.every(ok)) n++;
-    else break;
-  }
-  return n;
-}
-// When the last part of a session is finished, Today ticks that lesson done (once per session)
+// Today ticks a unit's lesson done when its day's parts are all done, or the day's time is used up, whichever comes first
 function fxLogSession(id) {
-  const F = fxSt(),
-    D = F.done[id],
-    k = "unit|" + id,
-    u = unitBy(k);
-  if (u) {
-    const n = fxSessionsDone(k);
-    if (F.sess?.[id] === undefined) {
-      let old = 0;
-      for (const d of fxSpineDays(u)) {
-        if (d.every((p) => D["at:" + p[0]] && D["at:" + p[0]] !== today)) old++;
-        else break;
-      }
-      F.sess = { ...F.sess, [id]: old };
-    }
-    if (n > F.sess[id]) {
-      logSession(u, "plan");
-      F.sess[id] = n;
-    }
+  const u = unitBy("unit|" + id),
+    F = fxSt(),
+    g = u && fxDays(u)[0];
+  if (g && !S.log.some((l) => l.date === today && l.key === u.k && l.kind !== "skipped")) {
+    const X = fxStates(id),
+      P = fxParts(u);
+    if (g.every((p) => X[P.indexOf(p)] === "done") || (F.day[id]?.[today] || 0) >= fxCap(u) * 60) logSession(u, "plan");
   }
   save();
 }
@@ -12064,7 +12079,7 @@ function lessonsGoing() {
           title: chT(u),
           state: "going",
           sub: id
-            ? `${X.filter((x) => x === "done").length} of ${DATA.units[id].parts?.length || 0} parts done · core path: ${fxSessionsDone(u.k)} of ${fxSpineDays(unitBy(u.k)).length} sessions`
+            ? `${X.filter((x) => x === "done").length} of ${DATA.units[id].parts?.length || 0} parts done · ${fxLogged(id)} of ${sessionsFor(u)} sessions`
             : `${done(u.k)} of ${sessionsFor(u)} parts done`,
           open: `data-act="chapter" data-k="${u.k}"`,
           go: "Open",

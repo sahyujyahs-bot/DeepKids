@@ -70,15 +70,31 @@ const URL = process.argv[2] || "http://127.0.0.1:8765/app.html";
     fxStamp(id);
     save();
     r.push("states " + fxStates(id).join(","));
-    r.push("unit " + fxUnitSt("unit|" + id) + " sessions " + fxSessionsDone("unit|" + id));
+    r.push("unit " + fxUnitSt("unit|" + id) + " sessions " + fxLogged(id));
+    r.push("logged " + S.log.filter((l) => l.key === "unit|" + id).length);
+    const ids = (L) => L.filter((x) => !["models", "song"].includes(x)).join();
+    r.push("order matches " + (ids(FXALL.sections.map((x) => x.id)) === ids(P.map((q) => q[0]))));
+    // a second unit, nothing done: its day ends when the day's time is used up
+    const id2 = "sci.forces.stretching-springs.L3",
+      it2 = unitBy("unit|" + id2),
+      cap = fxCap(it2);
     r.push(
-      "logged " +
-        S.log.filter((l) => l.key === "unit|" + id).length +
-        " once " +
-        (fxSt().sess?.[id] === fxSessionsDone("unit|" + id)),
+      "today group " +
+        fxDays(it2)[0]
+          .map((q) => q[0])
+          .join(",") +
+        " | sessions " +
+        fxDays(it2).length,
     );
+    fxSt().day[id2] = { [today]: cap * 60 - 5 };
+    fxLogSession(id2);
+    r.push("time not up yet: logged " + fxLogged(id2));
+    fxSt().day[id2][today] = cap * 60;
+    fxLogSession(id2);
+    fxLogSession(id2);
+    r.push("time used up: logged " + fxLogged(id2) + " (once only)");
     r.push("going " + JSON.stringify(lessonsGoing().map((x) => x.sub)));
-    r.push("spine " + fxSpineIds(unitBy("unit|" + id)).join(","));
+    r.push("order " + DATA.units[id].parts.map((p) => p[2]).join(","));
     r.push("refs " + fxRefs().length);
     r.push("done " + doneItems().length + " work " + workItems().length);
     tab = "week";
