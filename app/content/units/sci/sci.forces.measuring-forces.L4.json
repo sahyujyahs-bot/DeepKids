@@ -43,7 +43,7 @@
   },
   {
    "term": "Net force",
-   "meaning": "What is left when you add up all the forces on one thing, counting opposite forces as take-aways. It tells you which way the thing will start to move, and how strongly.",
+   "meaning": "What is left when you add up all the forces on one thing, taking away the forces that point the opposite way. It tells you which way the thing will start to move, and how strongly.",
    "example": "A cart is pushed right with 8 newtons and pulled left with 3 newtons by friction. The net force is 5 newtons to the right.",
    "art": "A cart with a long arrow to the right and a short arrow to the left, and a middle arrow showing the difference."
   },
@@ -165,13 +165,13 @@
    ],
    "perspectives": [],
    "art": "A tug of war with 400 newton and 350 newton arrows, and a small arrow in the middle of the rope showing the 50 newton difference. Below it, a book on a table with two equal arrows.",
-   "context": "You drew a force as an arrow. This card shows what happens when several arrows act on one thing along a line."
+   "context": "A force can be drawn as an arrow. This card shows what happens when several arrows act on one thing along a line."
   },
   {
    "concept": "Why a line can never be pulled straight",
    "status": "defined",
    "definition": "A line that holds a weight in its middle must pull on its ends more strongly the flatter it gets. The pull in the line is only equal to the weight when the line slopes at 30 degrees. Flatter than that, the pull is bigger than the weight.",
-   "description": "Hang a 5 newton bottle in the middle of a line. The line bends into a V shape. Each side of the V pulls up and sideways on the bottle. Only the upward part of each pull helps to hold the bottle up. The two upward parts must add up to the bottle's weight, 5 newtons. If the line is steep, each side has a large upward part, so it need not pull hard. If the line is nearly flat, each side points mostly sideways, and its upward part is only a thin slice of its pull. To get 2.5 newtons of upward part from a nearly flat side, the side has to pull very hard. Measure the sag of a line 1 metre long. A sag of 25 centimetres makes each end pull about 6 newtons. A sag of 10 centimetres makes each end pull about 13 newtons. A sag of 1 centimetre needs about 125 newtons. A perfectly straight line would need an endless pull. That is why no washing line can be pulled perfectly straight with a weight on it. Engineers use this idea when they build suspension bridges. They let the main cables sag, often by about one tenth of the span, because a flatter cable would need to be stronger and would pull its towers harder.",
+   "description": "Hang a 5 newton bottle in the middle of a line. The line bends into a V shape. Each side of the V pulls up and sideways on the bottle. Only the upward part of each pull helps to hold the bottle up. The two upward parts must add up to the bottle's weight, 5 newtons. If the line is steep, each side has a large upward part, so it need not pull hard. If the line is nearly flat, each side points mostly sideways, and its upward part is only a small part of its pull. To get 2.5 newtons of upward part from a nearly flat side, the side has to pull very hard. Take a line 1 metre long and measure its sag. A sag of 25 centimetres makes each end pull about 6 newtons. A sag of 10 centimetres makes each end pull about 13 newtons. A sag of 1 centimetre needs about 125 newtons. A perfectly straight line would need an endless pull. That is why no washing line can be pulled perfectly straight with a weight on it. Engineers use this idea when they build suspension bridges. They let the main cables sag, often by about one tenth of the span, because a flatter cable would need to be stronger and would pull its towers harder.",
    "examples": [
     "A wet saree on a washing line makes the line dip, however hard you pull the ends.",
     "A tightrope walker's rope sags where she stands, and the rope's ends are fixed to strong posts, because the pull on them is much more than her weight.",
@@ -218,7 +218,7 @@
    "description": "Measure the same pull ten times and you will get slightly different numbers. Your eye sits a little higher or lower. The band is a little tired. The bottle swings a tiny bit. This is normal. It does not mean you are careless. The right thing to do is to measure several times and look at all the numbers. Line them up from smallest to largest. The smallest and largest show the spread, also called the range. The middle value is a good typical value. Suppose ten readings are 4.7, 4.8, 4.9, 5.0, 5.0, 5.0, 5.0, 5.1, 5.2 and 5.3 newtons. The typical value is 5.0 newtons and the spread is from 4.7 to 5.3, which is 0.6 newtons. We can write this as '5.0 newtons, give or take about 0.3'. It is more honest than one number alone. Also, do not write more digits than your tool can give. A gauge with marks every half newton cannot tell you 3.27 newtons.",
    "examples": [
     "Ten children each read the same hanging bag on a gauge and get numbers within half a newton of each other.",
-    "A cricketer's bat speed, a doctor's blood pressure and a shopkeeper's weighing all come with a small give and take.",
+    "The speed of a cricketer's bat, a blood pressure reading at the doctor's and a shopkeeper's weighing all come with a small give or take.",
     "Scientists who measure the pull of gravity write numbers like 9.80 newtons for each kilogram, with a small 'give or take' printed after them."
    ],
    "perspectives": [],
@@ -279,7 +279,7 @@
    "concept": "Accurate and precise are not the same",
    "status": "defined",
    "definition": "Accurate means close to the true value. Precise means giving nearly the same reading each time. A tool can be precise without being accurate, if it has a zero error.",
-   "description": "Picture a target with a bullseye. If your darts all land close together in the outer ring, you are precise but not accurate. If they land all around the bullseye, you are accurate on average but not precise. If they land close together on the bullseye, you are both. A kitchen scale shows the same idea. Put a sealed 500 gram packet on it. If it reads 508, 508, 509, the scale is precise. It gives nearly the same number every time. But it is not accurate, because the true value is 500. It may have a zero error, which means it starts a few grams too high. A zero error is the same in every reading. Repeating the reading does not remove it, but checking the zero and subtracting does. A reading error is different. It is random, a little up or a little down, and repeating readings and taking the middle value does help. So there are two kinds of mistake, and each needs its own cure. Check against something known to find zero errors, and repeat to tame reading errors.",
+   "description": "Picture a target with a bullseye. If your darts all land close together in the outer ring, you are precise but not accurate. If they land all around the bullseye, you are accurate on average but not precise. If they land close together on the bullseye, you are both. A kitchen scale shows the same idea. Put a sealed 500 gram packet on it. If it reads 508, 508, 509, the scale is precise. It gives nearly the same number every time. But it is not accurate, because the true value is 500. It may have a zero error, which means it starts a few grams too high. A zero error is the same in every reading. Repeating the reading does not remove it, but checking the zero and subtracting does. A reading error is different. It is random, a little up or a little down, and repeating readings and taking the middle value does help. So there are two kinds of mistake, and each needs its own cure. Check against something known to find zero errors, and repeat the reading to make reading errors smaller.",
    "examples": [
     "A bathroom scale that always shows 1 kilogram with nobody on it has a zero error of 1 kilogram.",
     "A cheap ruler printed a little too short makes every length too big, however carefully you read it.",
@@ -295,7 +295,7 @@
    "definition": "A calibration graph is made by testing a gauge with loads you already know. A line through the points then lets you read the size of an unknown load. Finding a value between two known points is called interpolating.",
    "description": "A rubber band is not marked in newtons. But you can make it a forcemeter. Hang a known load, such as one 500 gram packet, which pulls with about 5 newtons. Measure the band's length. Then hang two packets, which pull with about 10 newtons, and measure again. Do the same for three packets. Plot the points on a graph, with the load along the bottom and the length up the side, and draw a smooth line through the middle of them. Now hang something unknown on the band and measure its length. Find that length on the side of the graph, go across to the line, and then go down to read the load. If the length falls between two of your points, you have interpolated. Be careful beyond your last point. A rubber band stops following a neat pattern when it is stretched a lot, so a guess past your last load is not trustworthy. A tool is only reliable inside the range where it was calibrated. A graph also tells you how good the gauge is. If the points fall on a line, the band stretches in even steps. If they curve, the steps get bigger or smaller, and the graph can still be used, because it follows the curve.",
    "examples": [
-    "Band lengths of 8, 12, 16 and 20.5 centimetres for 0, 5, 10 and 15 newtons. A band of 14 centimetres is halfway between 12 and 16, so its load is about 7.5 newtons.",
+    "A band is 8, 12, 16 and 20.5 centimetres long for loads of 0, 5, 10 and 15 newtons. When the band is 14 centimetres long, it is halfway between 12 and 16, so its load is about 7.5 newtons.",
     "A shopkeeper's spring balance has its marks printed from exactly this kind of test.",
     "Scientists calibrate a new instrument by measuring things they already know, before they trust it on something new."
    ],
@@ -331,7 +331,7 @@
    "concept": "Forces change when things move",
    "status": "defined",
    "definition": "The pull that a hanging thing puts on its support is equal to its weight only when the thing is still or moving steadily. A thing that is speeding up or turning can pull harder or softer than its weight.",
-   "description": "Hang a bottle on a gauge. When it hangs still, the gauge shows its weight. Now lift the gauge quickly, so the bottle speeds up. For that moment, the gauge reads more than the weight, because the string must also give the bottle its speed. Lower it fast, and the gauge reads less. The same thing happens in a lift. When a lift starts to go up, the floor pushes you harder for a moment, and a bathroom scale under your feet would read more. When it starts to go down, it reads less. A swinging bottle shows it too. Let a 5 newton bottle swing down from the side, about 60 degrees from hanging, and at the bottom of the swing the string pulls with about 10 newtons. The bottle is not just hanging there. The string has to turn the bottle's path upwards, and that takes extra pull. A sudden jerk can be even stronger. Pull a cotton thread slowly and it holds. Jerk it, and it snaps, because for an instant the pull is far bigger than a steady pull would be. This is why engineers test bridges and ropes with moving loads, not only with still ones.",
+   "description": "Hang a bottle on a gauge. When it hangs still, the gauge shows its weight. Now lift the gauge quickly, so the bottle speeds up. For that moment, the gauge reads more than the weight, because the string must also give the bottle its speed. Lower it fast, and the gauge reads less. The same thing happens in a lift. When a lift starts to go up, the floor pushes you harder for a moment, and a bathroom scale under your feet would read more. When it starts to go down, it reads less. A swinging bottle shows it too. Pull a 5 newton bottle to the side, about 60 degrees from hanging straight down, and let it swing. At the bottom of the swing the string pulls with about 10 newtons. The bottle is not just hanging there. The string has to turn the bottle's path upwards, and that takes extra pull. A sudden jerk can be even stronger. Pull a cotton thread slowly and it holds. Jerk it, and it snaps, because for an instant the pull is far bigger than a steady pull would be. This is why engineers test bridges and ropes with moving loads, not only with still ones.",
    "examples": [
     "A bathroom scale in a lift reads a little more as the lift starts going up and a little less as it starts going down.",
     "A child on a swing pulls hardest on the chains at the bottom of each swing.",
@@ -393,13 +393,13 @@
    ],
    "perspectives": [],
    "art": "A button resting on the surface of water in a bowl, with tiny arrows pulling outwards along the surface, hanging from the arm of a small balance with weights in the other pan.",
-   "context": "How do you measure a force that is over a hundred times smaller than an apple's weight? This card shows a force that you can feel with your eyes closed, but only measure with a clever tool."
+   "context": "The pull of a water surface is over a hundred times smaller than an apple's weight. This card explains where the pull comes from and how it was measured with a simple balance."
   },
   {
    "concept": "Light pushes",
    "status": "defined",
    "definition": "Light carries a push. When sunlight lands on a surface, it presses on it with a very small force called radiation pressure. A big, thin, shiny sheet in space can be pushed by sunlight alone.",
-   "description": "It is easy to believe that light has no push, because it has no weight. But light does carry momentum, and when it is absorbed or reflected, it pushes. In the early 1600s, the astronomer Johannes Kepler noted that comet tails point away from the Sun, and he is often said to have guessed that sunlight might be pushing them. In 1873, James Clerk Maxwell worked out from his theory of light that light must push. In 1900, Pyotr Lebedev in Russia measured it. In 1901, Ernest Nichols and Gordon Hull in the United States measured it too, with a twisting wire. The push is extremely small. Sunlight at the distance of the Earth pushes on a sheet of one square metre with only about five millionths of a newton, which is the weight of a grain of sand. But in space there is almost no air or friction. In 2010, Japan launched IKAROS, a spacecraft with a thin square sail, which used sunlight to push itself through space. In 2019, the Planetary Society's LightSail 2 used sunlight to raise its orbit around the Earth. The tails of comets, too, are blown by the Sun, mostly by a stream of particles from the Sun and by light.",
+   "description": "It is easy to believe that light has no push, because it has no weight. But light does carry a kind of push, called momentum. When a surface absorbs light or reflects it, the light pushes on the surface. In the early 1600s, the astronomer Johannes Kepler noted that comet tails point away from the Sun, and he is often said to have guessed that sunlight might be pushing them. In 1873, James Clerk Maxwell worked out from his theory of light that light must push. In 1900, Pyotr Lebedev in Russia measured it. In 1901, Ernest Nichols and Gordon Hull in the United States measured it too, with a twisting wire. The push is extremely small. Sunlight at the distance of the Earth pushes on a sheet of one square metre with only about five millionths of a newton, which is the weight of a grain of sand. But in space there is almost no air or friction. In 2010, Japan launched IKAROS, a spacecraft with a thin square sail, which used sunlight to push itself through space. In 2019, the Planetary Society's LightSail 2 used sunlight to raise its orbit around the Earth. The tails of comets, too, are blown by the Sun, mostly by a stream of particles from the Sun and by light.",
    "examples": [
     "A solar sail is a very thin, very light sheet that catches the push of sunlight.",
     "Sunlight on a square sail 14 metres on each side would push with about one thousandth of a newton, enough to move a spacecraft slowly but steadily.",
@@ -407,7 +407,7 @@
    ],
    "perspectives": [],
    "art": "A thin square shiny sail with sunlight arriving from the left and a small arrow showing the sail being pushed to the right, with a comet tail in the background.",
-   "context": "The tiniest force you have measured is a water surface's hold. This card goes to an even smaller force, one that comes from sunshine."
+   "context": "In the Button and the Water test, you measure a water surface's hold, which is only a few thousandths of a newton. This card goes to an even smaller force, one that comes from sunshine."
   },
   {
    "concept": "A small magnet beats the whole Earth",
@@ -427,7 +427,7 @@
    "concept": "Instruments made in India: Anna Mani and checking every copy",
    "status": "defined",
    "definition": "A measuring instrument is only useful if every copy of it gives the same answer. So instruments must be built to a standard and checked against it.",
-   "description": "Anna Mani was an Indian physicist, born in 1918 in Peermade in Kerala. She studied physics in Madras, and later, in London, studied the instruments used for measuring weather. After she came back in 1948, she worked at the India Meteorological Department in Pune. She is remembered for helping to make weather instruments in India, so that the country did not need to buy them all from abroad. Weather instruments measure forces and what forces do. A wind meter spins faster when the wind pushes harder. A rain gauge collects water to be weighed or measured. Instruments of this kind are placed in hundreds of stations, in places as far apart as hill towns and islands. For the numbers to be comparable, every copy of an instrument has to read the same when it meets the same wind or the same rain. So each one is checked against a standard before it is sent out, and checked again from time to time. This is the same lesson as the shopkeeper's scale and the kilogram standard. A number from one place can only be compared with a number from another place if both were checked against the same thing.",
+   "description": "Anna Mani was an Indian physicist, born in 1918 in Peermade in Kerala. She studied physics in Madras, and later, in London, studied the instruments used for measuring weather. After she came back in 1948, she worked at the India Meteorological Department in Pune. She is remembered for helping to make weather instruments in India, so that the country did not need to buy them all from abroad. Weather instruments measure forces and what forces do. A wind meter spins faster when the wind pushes harder. A rain gauge collects water to be weighed or measured. Instruments of this kind are placed in hundreds of stations, in places as far apart as hill towns and islands. For the numbers to be comparable, every copy of an instrument has to read the same when it meets the same wind or the same rain. So each one is checked against a standard before it is sent out, and checked again from time to time. Shop scales teach the same lesson: they are checked against standard weights. A number from one place can only be compared with a number from another place if both were checked against the same thing.",
    "examples": [
     "Weather stations across India report wind, rain and sunshine, using instruments that have to agree with each other.",
     "A new thermometer is checked in ice water and in boiling water, two places where the true temperature is known.",
@@ -441,7 +441,7 @@
    "concept": "Is there one true value behind all the readings?",
    "status": "idea",
    "definition": "",
-   "description": "When we take ten readings of a pull, we usually imagine that there is one true size of the pull, and our readings scatter around it. Most scientists work with this picture. They try to get closer to the true value with better tools and more readings. But at the size of single atoms, quantum physics says something stranger. Some pairs of things, such as a particle's exact position and its exact speed, cannot both have sharp values at the same time. The more sharply you pin down one, the less sharp the other becomes. This is not a flaw in the tools. It is how nature seems to be. In physics, an observer means anything that takes a measurement, such as a detector. It does not mean a person or a mind. How this should be understood is still argued about.",
+   "description": "When we take ten readings of a pull, we usually imagine that there is one true size of the pull, and our readings scatter around it. Most scientists work with this picture. They try to get closer to the true value with better tools and more readings. But at the size of single atoms, quantum physics says something stranger. Some pairs of things, such as a particle's exact position and its exact speed, cannot both have sharp values at the same time. The more sharply you pin down one, the less sharp the other becomes. This is not a flaw in the tools. It is how nature seems to be. Measuring here does not need a person or a mind. In physics, an 'observer' means anything that takes a measurement, such as a detector. How this should be understood is still argued about.",
    "examples": [
     "Ten readings of a bottle's pull on a band scatter around 5 newtons.",
     "At the size of a single atom, the more exactly you fix where a particle is, the less exactly you can fix how fast it is moving."
@@ -472,7 +472,7 @@
   },
   {
    "text": "Forces along one line add up, with opposite forces taking away from each other.",
-   "evidence": "Hook two forcemeters together and pull. Each shows the same number. Add a second helper on one side and the net force is the difference of the pulls, which matches how the thing moves.",
+   "evidence": "Hook two forcemeters together and pull. Each shows the same number. If a second person then helps on one side, the thing moves that way, and the net force is the difference between the pulls on the two sides.",
    "context": "This card is about how to find the net force on a thing."
   },
   {
@@ -504,7 +504,7 @@
  "challenging": [
   {
    "claim": "A line holding a weight only has to pull as hard as the weight.",
-   "who": "Many people, who think that a support is as strong as the load it holds.",
+   "who": "Many people, who think that a support only needs to pull as hard as the load it holds.",
    "for": "A hook holding a hanging bucket needs to pull up with exactly the bucket's weight. That is true when the support pulls straight up.",
    "against": "A line that slopes sideways pulls sideways too. Only the upward part holds the load. So a flat line has to pull much harder than the weight. In the Sagging Line test, a 5 newton bottle made the gauge read 13 newtons or more.",
    "status": "rejected",
@@ -512,7 +512,7 @@
   },
   {
    "claim": "A tighter rope is a stronger rope.",
-   "who": "Many people who tie ropes, and Murugan Anna in the story, before he changed his mind. It is a made-up character.",
+   "who": "Many people who tie ropes. Murugan Anna, a made-up character in the story The Rope That Would Not Be Straight, also thought so before he changed his mind.",
    "for": "A slack rope sags, flaps and looks weak. A tight rope looks firm and strong.",
    "against": "Tightening a rope with a load on it raises the pull in it a lot. It is the pull in the rope that breaks it. A rope with a good sag, or a prop in the middle, pulls less and lasts longer.",
    "status": "rejected",
@@ -521,7 +521,7 @@
   {
    "claim": "If you repeat a measurement carefully, you should get exactly the same number every time.",
    "who": "Many students, and some textbooks that show only one clean result.",
-   "for": "Machines that do the same thing again give nearly the same answer. A careful person should do the same.",
+   "for": "A machine that does the same thing again and again gives nearly the same answer each time. A careful person should do the same.",
    "against": "Your eye position, a small wobble, a tired band and the way you hold the tool all change a little each time. Even the best instruments give a small spread. A set of readings with no spread at all usually means the tool is too crude to notice it.",
    "status": "rejected",
    "context": "You repeat a measurement in Ten Readings, One Pull. This card asks whether the numbers should all match."
@@ -561,14 +561,14 @@
  ],
  "big_questions": [
   {
-   "q": "The line pulled harder than the bottle weighed. Where did the extra pull come from?",
+   "q": "In the Sagging Line test, each end of the line pulled harder than the bottle weighed. Where did the extra pull come from?",
    "kind": "deep",
    "hint": "Think about the two ends pulling against each other, like a tug of war, with the bottle in the middle."
   },
   {
    "q": "Could a tightrope walker ever stand on a rope that is perfectly straight?",
    "kind": "deep",
-   "hint": "Think about the 1 centimetre sag in the table. What pull would you need?"
+   "hint": "A 1 metre line holding a 5 newton bottle needs a pull of about 125 newtons when the sag is only 1 centimetre. What pull would no sag at all need?"
   },
   {
    "q": "Ten careful readings gave ten different numbers. Which one is true?",
@@ -588,7 +588,7 @@
   {
    "q": "A small magnet beats the pull of the whole Earth on a paper clip. So is gravity strong or weak?",
    "kind": "deep",
-   "hint": "Compare two atoms. Then compare two planets. What changes?"
+   "hint": "Think of the pull of gravity between two atoms. Then think of it between two planets. What changes?"
   },
   {
    "q": "The water in a bowl pulls along its own surface. Is the surface a real thing, or a way of speaking about the top layer of particles?",
@@ -596,7 +596,7 @@
    "hint": "Zoom in. Where exactly does the skin begin and end?"
   },
   {
-   "q": "Agnes Pockels was not allowed to go to university, but she measured something nobody had measured. Who gets to do science?",
+   "q": "Agnes Pockels was not allowed to go to university, but she measured the pull of a water surface in her kitchen. Who gets to do science?",
    "kind": "big",
    "hint": "What did she need to start? A university, or a question, a button and a balance?"
   },
@@ -638,9 +638,9 @@
   "ask": [
    "Why does a line that holds a weight pull harder on its ends the flatter it gets?",
    "Why can nobody pull a washing line perfectly straight with a wet saree in the middle?",
-   "Two ways of making a line hold a heavy load while pulling less on its ends are to let it sag more and to add a prop in the middle. Why does each one work?",
+   "A line pulls less on its ends if you let it sag more, or if you add a prop in the middle. Why does each one work?",
    "How can you turn a rubber band into a gauge for forces, and why does it need loads that you already know?",
-   "A rope holds in a light wind, but breaks in a gale. Why might the same rope have a bigger pull in it when the wind blows?"
+   "A rope holds in a light wind, but breaks in a very strong wind. Why might the same rope have a bigger pull in it when the wind blows hard?"
   ],
   "art": [
    "A fishing village on the Tamil Nadu coast, casuarina trees leaning in the wind, a long rope between two poles with heavy wet nets on it and a girl watching with her chin on her knees.",
@@ -766,7 +766,7 @@
        "b": "2 N to the left. 9 take away 7 is 2."
       },
       {
-       "f": "A box is pushed up a slope with 50 N. Friction pulls it down the slope with 20 N. The slope's slant pulls it down with 25 N. What is the net force?",
+       "f": "A box is pushed up a slope with 50 N. Friction pulls it down the slope with 20 N. Its own weight pulls it down the slope with 25 N. What is the net force?",
        "b": "5 N up the slope. 20 plus 25 is 45, and 50 take away 45 is 5."
       },
       {
@@ -849,9 +849,9 @@
      "id": "s3",
      "mins": 6,
      "do": "Play 8 more cards. Look for cards that say Balanced. After each balanced card, ask whether the thing is moving or still.",
-     "say": "This card is balanced. Does that mean the thing is still? Think about the skydiver.",
+     "say": "This card is balanced. Does that mean the thing is still? Think about a skydiver falling at a steady speed.",
      "kid": "Play 8 more cards. Look for the balanced ones. Is the thing still, or moving steadily?",
-     "think": "Can a thing be moving and still have balanced forces? Think of the skydiver and the cyclist.",
+     "think": "Can a thing be moving and still have balanced forces? Think of a skydiver falling at a steady speed and a cyclist riding at a steady speed.",
      "check": {
       "t": "mcq",
       "q": "A trolley is pushed right with 12 N and friction pulls it left with 12 N. Which is true?",
@@ -881,7 +881,7 @@
        "150 N to the left"
       ],
       "a": 0,
-      "why": "Add the three pushes to get 450 N. Then take away the 300 N of friction. 450 take away 300 is 150 N, to the right. The 450 N answer forgets the friction. The left answer takes the friction as the winner by mistake."
+      "why": "Add the three pushes to get 450 N. Then take away the 300 N of friction. 450 take away 300 is 150 N, to the right. The answer 450 N forgets the friction. The answer 150 N to the left treats friction as the bigger force by mistake."
      },
      "context": "In this step of Net Force Showdown, you play the last cards and fix mistakes by drawing arrows."
     },
@@ -905,7 +905,7 @@
    "days": 1,
    "question": "A 500 millilitre bottle of water weighs about 5 newtons. When it hangs in the middle of a line, how hard does each end of the line pull? Is it less than 5 newtons, the same, or more? And what happens when you make the line flatter?",
    "predict": "Before you start, guess. When the line is almost flat, will each end pull with less than 5 newtons, exactly 5 newtons, or more than 5 newtons? Why do you think so?",
-   "fair_test": "Use the same bottle, the same thread and the same rubber band gauge every time. Only the sag of the line changes. Measure the sag the same way each time, from the stick down to the thread. Read the band at the same place with your eye level with it. Do each sag three times and take the middle value, because one reading can be a fluke.",
+   "fair_test": "Use the same bottle, the same thread and the same rubber band gauge every time. Only the sag of the line changes. Measure the sag the same way each time, from the stick down to the thread. Read the band at the same place with your eye level with it. Test each sag three times and take the middle value, because one reading can be a fluke.",
    "results_table": [
     "Sag of the line (cm)",
     "Band length, try 1 (cm)",
@@ -1033,9 +1033,9 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "Take the bag off. Tie the thread to the left end of the stick. Tie the pencil to the band, and wind the thread round the pencil. Slide a paper clip on the thread and hang the bottle on it. Turn the pencil until the sag is 25 centimetres. Measure the band. Then do 15 and 10 centimetres.",
+     "do": "Take the bag off. Tie the thread to the left end of the stick. Tie the pencil to the band, and wind the thread round the pencil. Slide a paper clip on the thread and hang the bottle on it. Turn the pencil until the sag is 25 centimetres. Measure the band. Then do the same with a sag of 15 centimetres and a sag of 10 centimetres.",
      "say": "Hang the bottle on the clip. Turn the pencil to make the line flatter. When the sag is 25 centimetres, measure the band. Do it three times. Then try 15 centimetres, and then 10 centimetres.",
-     "kid": "Hang the bottle on the thread. Turn the pencil to make a 25 cm sag. Measure the band. Do 15 cm and 10 cm.",
+     "kid": "Hang the bottle on the thread. Turn the pencil to make a 25 cm sag. Measure the band. Then make the sag 15 cm and 10 cm, and measure each time.",
      "adult": true,
      "ask": [
       {
@@ -1050,7 +1050,7 @@
      "parent": "For a 1 metre line and a 5 newton bottle, expect about 6 newtons at 25 centimetres, 9 newtons at 15 centimetres and 13 newtons at 10 centimetres. Your span may differ, so your numbers may too. The clip should slide to the lowest point. If it sticks, tap the thread gently. Hold the stick still while you turn the pencil. Do not go flatter than 10 centimetres. If the band looks like it will go past the 3 packet length, stop. The graph cannot be trusted beyond that, and the band might snap. Read the band at eye level, three times for each sag, and take the middle value. The pencil is hard to turn when the line is tight. Wind several turns of thread on it, hold the turns with a finger, and tape the pencil to the band when the sag is right. Measure the sag after the band has stopped stretching, because the band lengthens a little as the line gets tighter. The pulls above are typical for a 1 metre span; in a damp or hot room a band may be softer, so always read your own graph, not these numbers. If the three sags give almost the same band length, the band is too stiff or the sags are too similar: use a softer band or try 30, 15 and 8 centimetres.",
      "check": {
       "t": "mcq",
-      "q": "The band is longer than it was with 2 packets (10 N) when the line has a 10 cm sag. The bottle weighs about 5 N. What does this tell you?",
+      "q": "When the line has a 10 cm sag, the band is longer than it was with 2 packets (10 N). The bottle weighs about 5 N. What does this tell you?",
       "options": [
        "Each end of the line pulls with more than 10 N, so more than the bottle weighs",
        "The band is faulty",
@@ -1088,8 +1088,8 @@
    "mins": 45,
    "days": 1,
    "question": "A flat coin lying on the surface of water is held by the water. How big is the pull needed to lift it off? And does a drop of soap in the water change it?",
-   "predict": "Before you start, guess. How many grains of rice, added to a little pan, will it take to pull the coin off the water? Will soap make the number bigger, smaller or the same? Why do you think so?",
-   "fair_test": "Use the same coin, the same bowl and the same balance every time. Dry the coin and balance the ruler again between tries. Only the water changes: first plain water, then water with soap. Do each water three times and take the middle value, because the coin sometimes tilts or pulls off early.",
+   "predict": "Before you start, guess. You will drop grains of rice into a paper cup on the other end of a balance. How many grains will it take to pull the coin off the water? Will soap make the number bigger, smaller or the same? Why do you think so?",
+   "fair_test": "Use the same coin, the same bowl and the same balance every time. Dry the coin and balance the ruler again between tries. Only the water changes: first plain water, then water with soap. Test each kind of water three times and take the middle value, because the coin sometimes tilts or pulls off early.",
    "results_table": [
     "Water",
     "Grains of rice, try 1",
@@ -1159,7 +1159,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the coin, the bowl, the ruler and the rice. Say that you will find out how hard the water holds on to the coin. Write the guess and the reason.",
-     "say": "A coin lying flat on water seems to stick. We will add rice grains to a pan until the coin comes off. How many grains do you think it will take? Will soap change it? Why do you think so?",
+     "say": "A coin lying flat on water seems to stick. We will add rice grains to a paper cup on the other end of a balance until the coin comes off. How many grains do you think it will take? Will soap change it? Why do you think so?",
      "kid": "A coin sticks to water. How many rice grains will pull it off? Will soap change it? Why?",
      "ask": [
       {
@@ -1248,12 +1248,12 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Find the middle value for each water. Multiply the grains by the weight of one grain, to get grams. Multiply by 0.01 to get newtons. Compare with the 1 newton of an apple. Write a claim, evidence and reasoning.",
+     "do": "Find the middle value for each water. Multiply the grains by the weight of one grain, to get grams. Multiply by 0.01 to get newtons. Compare this with the weight of an apple, which is about 1 newton. Write a claim, evidence and reasoning.",
      "say": "Take the middle number of grains. Multiply by the weight of one grain, to get grams. A gram pulls with about one hundredth of a newton. How does the pull of the water compare with the pull of an apple?",
      "kid": "Find the middle number for each water. Change grains to grams, and grams to newtons.",
      "ask": [
       {
-       "q": "How many of these water-holds would make the weight of an apple?",
+       "q": "How many pulls as small as the water's hold on the coin would add up to the weight of an apple?",
        "good": [
         "About a hundred or more, because the water holds with about a hundredth of a newton or less.",
         "Well over a hundred, because the water holds with only a few thousandths of a newton.",
@@ -1305,7 +1305,7 @@
     }
    ],
    "record": "A page with five pictures. Each has force arrows with their sizes, and a note saying whether the forces are balanced.",
-   "context": "In this activity, you feel five forces in the house and draw an arrow for each. You use the packets to tell you how big a newton is.",
+   "context": "In this activity, you feel five forces in the house and draw an arrow for each. You use 500 gram packets, which each pull down with about 5 newtons, to get a feel for the size of a force.",
    "setup": [
     {
      "art": "A child holding a 500 gram packet flat on one palm, with a downward arrow 5 centimetres long and an upward arrow 5 centimetres long drawn beside the hand.",
@@ -1359,7 +1359,7 @@
       "why": "The push is 7 N up and the weight is 5 N down. 7 take away 5 is 2 N up. A net force upwards makes the packet speed up upwards. The answer 12 N adds when it should take away. The answer 2 N down gets the direction wrong."
      },
      "context": "In this step of Draw the Pulls, you lift a packet slowly and then fast, and compare the forces.",
-     "parent": "Put the packet in the carrier bag and lift it by the handles, so the packet cannot fly out. Guess before you lift: which will feel heavier, slow or snatched? Typical: the snatch feels like 7 to 10 N for a moment, though it is not measured."
+     "parent": "Put the packet in the carrier bag and lift it by the handles, so the packet cannot fly out. Guess before you lift: which will feel heavier, slow or snatched? Typically, the snatch takes a push of about 7 to 10 N for a moment, though you are not measuring it."
     },
     {
      "id": "s3",
@@ -1472,7 +1472,7 @@
      "do": "Hang the packet. Wait 10 seconds. Read the band to the nearest half millimetre. Take the packet off and rest the band for 20 seconds. Do this ten times. Write each reading.",
      "say": "Hang the packet and wait until the band stops moving. Read it at eye level. Take the packet off and wait. Then do it again. Ten times in all.",
      "kid": "Hang the packet. Wait. Read the band. Take it off. Wait. Do it ten times.",
-     "parent": "Read at eye level, at the same spot on the ruler, to the nearest half millimetre. Write every reading, even when two are the same. Do not throw away the odd ones. Typical spread is about 1 to 3 millimetres, but it depends on your band. If all ten readings come out exactly the same, that is a result too: the ruler cannot see the small changes. Then repeat with only 5 seconds of rest between hangs, and with a longer, softer band, to see if the readings now spread. The number 12.3 cm is an example, not what you will get.",
+     "parent": "Read at eye level, at the same spot on the ruler, to the nearest half millimetre. Write every reading, even when two are the same. Do not throw away the odd ones. Typical spread is about 1 to 3 millimetres, but it depends on your band. If all ten readings come out exactly the same, that is a result too: the ruler cannot see the small changes. Then repeat with only 5 seconds of rest between hangs, and with a longer, softer band, to see if the readings now spread. Any band length given in this activity, such as 12.3 cm, is an example, not what you will get.",
      "context": "In this step, you take ten readings of the same pull. You write all of them down."
     },
     {
@@ -1486,7 +1486,7 @@
       "t": "mcq",
       "q": "Three people read the same band and get slightly different numbers. What is the best explanation?",
       "options": [
-       "Each looks from a slightly different place, so the pointer seems to sit in a slightly different place",
+       "Each looks from a slightly different place, so the end of the band seems to sit against a slightly different mark",
        "The band changes depending on who looks",
        "Only the eye-level reader is real"
       ],
@@ -1494,7 +1494,7 @@
       "why": "When you look from above or below, the band's end appears against a different mark on the ruler. This is a reading error. The band is the same for everyone. All three readers are real. The reading at eye level is just the least affected."
      },
      "context": "In this step, you see how looking from different places changes what you read.",
-     "parent": "Alone with a parent: the child reads, then the parent reads, and each moves their head to look from above and below. With 3 or more children, each child reads in turn."
+     "parent": "One child with a parent: the child reads, then the parent reads, and each moves their head to look from above and below. With 3 or more children, each child reads in turn."
     },
     {
      "id": "s4",
@@ -1601,7 +1601,7 @@
        "The band is tired"
       ],
       "a": 0,
-      "why": "A longer band means a bigger pull. The bottle's weight did not change, so the extra pull is what the band must supply to turn the bottle's path upwards at the bottom. A tired band would not be longer in only the swings. The bottle has not got heavier."
+      "why": "A longer band means a bigger pull. The bottle's weight did not change, so the extra pull is what the band must supply to turn the bottle's path upwards at the bottom. A tired band would be longer all the time, not only during the swings. The bottle has not got heavier."
      },
      "context": "In this step, you swing the bottle from two heights and watch how far the band stretches at the bottom."
     },
@@ -1620,7 +1620,7 @@
      "mins": 4,
      "do": "Ask your child to say where else the pull is bigger than the weight. Think about a swing at a park and a lift starting up.",
      "say": "Where else might something pull harder when it moves than when it is still? Think about a swing and about a lift.",
-     "kid": "Think of a swing or a lift. When does it pull harder than its weight?",
+     "kid": "Think of a child on a swing, or a person in a lift. When do they pull or press harder than their weight?",
      "ask": [
       {
        "q": "Where have you felt something pull or press harder when moving than when still?",
@@ -1705,7 +1705,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Hold the magnet in your hand with its flat face pointing down. Touch it to a clip and hook more clips into a chain, one by one, until it falls. Count the clips just before.",
+     "do": "Hold the magnet in your hand with its flat face pointing down. Touch it to a clip and hook more clips into a chain, one by one, until the chain falls. Count how many clips the magnet held just before the chain fell.",
      "say": "Touch the magnet to one clip. Hook another clip to it, and another, one at a time. How many can it hold before the chain falls? Count them.",
      "kid": "Hook clips into a chain from the magnet. Add one at a time. Count until it falls.",
      "parent": "A thin rubber fridge magnet may hold only 1 to 5 clips in a chain, and a thicker ceramic magnet may hold 10 to 30 (typical, not promised). Try three times and use the middle count. If the first clip sticks poorly, try the magnet's other end. If the magnet holds only 1 or 2 clips, the small numbers are fine: compare magnets, not newtons.",
@@ -1905,7 +1905,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Lay the ruler on the table with a few centimetres sticking out over the edge (see the note for how far). Put a heavy book on the other end. Ask your child to guess how many millimetres the tip will bend with one packet, and with four.",
+     "do": "Lay the ruler on the table with a few centimetres sticking out over the edge (the parent note says how far). Put a heavy book on the other end. Ask your child to guess how many millimetres the tip will bend with one packet, and with four.",
      "say": "A ruler is a springy stick. When we hang a weight on its tip, it will bend. If one packet bends the tip by 1 centimetre, how far will four packets bend it? Why do you think so?",
      "kid": "A ruler bends when you hang a packet on it. Will four packets bend it four times as much?",
      "ask": [
@@ -1924,7 +1924,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Hang the bag on the ruler's tip with its loop of thread. Measure how far the tip drops, with the empty bag. Add one packet. Wait until it stops moving. Measure the tip again. Write the drop from the empty bag.",
+     "do": "Hang the empty bag on the ruler's tip by its loop of thread. Measure the height of the tip. Add one packet. Wait until the tip stops moving. Measure the tip again. Write how far the tip dropped from where it was with the empty bag.",
      "say": "Hang the empty bag. Measure the tip's height. Add one packet and measure again. How much has the tip dropped?",
      "kid": "Hang the empty bag. Measure the tip. Add a packet. Measure again.",
      "parent": "Measure the tip from the floor or from a ruler standing upright by the tip. Be careful to measure at the same place each time. Millimetres are best. Take the bag's own drop away, and look only at the extra drop made by the packets. Wait for the tip to stop wobbling before you read it.",
@@ -1952,7 +1952,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "On day 2, hang an apple in the bag. Measure the drop from the empty bag. Find that drop on your graph. Go across to the line and down to the load in newtons. Do the same for the other two objects.",
+     "do": "On day 2, hang an apple in the bag. Measure how far the tip drops from where it was with the empty bag. Find that drop on your graph. Go across to the line and down to the load in newtons. Do the same for the other two objects.",
      "say": "Day two. Hang the apple. How far did the tip drop? Find that drop on the side of your graph. Go across to the line, then down to read the weight in newtons.",
      "kid": "Hang the apple. Measure the drop. Use your graph to read its weight.",
      "ask": [
@@ -1986,7 +1986,7 @@
    "title": "The Gentlest Hold: carry a heavy bottle with the smallest pull",
    "mins": 40,
    "safety": "Stay clear of the bottle's path and keep a soft cushion on the floor under it. If the band looks thin and pale, or the gauge goes past the 3 packet mark, take the bottle off straight away.",
-   "problem": "Hang a 1 litre bottle of water, which weighs about 10 newtons, from a thread stretched between two points 1 metre apart. Make the pull in the thread as small as you can, and the bottle must stay at least 20 centimetres above the floor. Measure the pull with your rubber band gauge.",
+   "problem": "Hang a 1 litre bottle of water, which weighs about 10 newtons, from a thread stretched between two points 1 metre apart. Make the pull in the thread as small as you can, while keeping the bottle at least 20 centimetres above the floor. Measure the pull with your rubber band gauge.",
    "constraints": [
     "The two anchor points are on the ends of the stick, 1 metre apart and 80 centimetres above the floor.",
     "Use only thread, string, paper clips, tape, pencils, books and the other things from the Sagging Line test.",
@@ -2011,7 +2011,7 @@
    "creative": [
     "A prop in the middle, such as a pile of books or a pencil taped upright, that carries part of the weight.",
     "Two threads side by side, each taking half the load, with a gauge on each.",
-    "A V-shaped hanger: hang the bottle from a short thread that splits into two, joined at points 30 centimetres either side of the middle of the line."
+    "A V-shaped hanger: hang the bottle from a short thread that splits into two. Tie the two ends to the line, 30 centimetres either side of its middle."
    ],
    "your_turn": "Draw your design. Build it and measure the pull. Change one thing at a time and measure again. Which design gave the smallest pull? Why do you think it did?",
    "context": "This is a design challenge about the pull in a line. You use what you learned in the Sagging Line test to hold a bottle with the smallest pull.",
@@ -2201,7 +2201,7 @@
     },
     {
      "t": "write",
-     "p": "Hari says: 'To stop my washing line sagging, I will pull it as tight as I can.' What would you tell Hari? Use the ideas of pull and angle.",
+     "p": "Someone says: 'To stop my washing line sagging, I will pull it as tight as I can.' What would you tell them? Use the ideas of pull and angle.",
      "lines": 3,
      "a": "A line with a wet cloth in the middle can never be pulled straight. The flatter you pull it, the harder each end pulls, so the line may break or pull the hooks out. It is better to let the line sag a little, or to tie the ends higher and add a prop in the middle.",
      "why": "A strong answer says that a flatter line pulls harder on its ends, because only the upward part of the pull holds the cloth. It offers a fix, such as more sag or a prop.",
@@ -2209,7 +2209,7 @@
     },
     {
      "t": "mcq",
-     "p": "On a made-up calibration graph, a band is 12 cm long for 5 N and 16 cm for 10 N. A bag stretches the band to 15 cm. About what is the pull?",
+     "p": "On a made-up calibration graph, a band is 12 cm long for 5 N and 16 cm for 10 N. A bag stretches the band to 15 cm. About how big is the pull?",
      "opts": [
       "About 9 N",
       "About 15 N",
@@ -2267,16 +2267,16 @@
     },
     {
      "t": "count",
-     "p": "A 5 N bottle is swung from the side by about 60 degrees. At the bottom of the swing, the string pulls with about double the weight. About how many newtons?",
+     "p": "A 5 N bottle is pulled about 60 degrees to the side and let go. At the bottom of the swing, the string pulls with about double the weight. About how many newtons is that?",
      "a": "10",
      "why": "Double 5 N is 10 N. The string must turn the bottle's path upwards at the bottom, which takes extra pull.",
      "outcome": 6
     },
     {
      "t": "write",
-     "p": "Mala stands on a bathroom scale in a lift. The number goes up for a moment as the lift starts to move up. Has she become heavier? Explain.",
+     "p": "You stand on a bathroom scale in a lift. The number goes up for a moment as the lift starts to move up. Have you become heavier? Explain.",
      "lines": 3,
-     "a": "No. Her weight has not changed. The lift is speeding up upwards, so the floor must push her up harder than her weight for a moment. The scale measures the push on it, so it shows a bigger number.",
+     "a": "No. Your weight has not changed. The lift is speeding up upwards, so the floor must push you up harder than your weight for a moment. The scale measures the push on it, so it shows a bigger number.",
      "why": "A strong answer says the scale measures the push of the person on it, and that a thing which is speeding up needs more push than its weight.",
      "outcome": 6
     },
@@ -2302,7 +2302,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A line holds a 10 N bottle in its middle, and each side slopes 30 degrees below the level. Each side pulls with 10 N. What would a flatter line, sloping 10 degrees, pull with?",
+     "p": "A line holds a 10 N bottle in its middle, and each side slopes 30 degrees below a level line. Each side pulls with 10 N. What would a flatter line, sloping 10 degrees, pull with?",
      "opts": [
       "More than 10 N",
       "Exactly 10 N",
@@ -2447,11 +2447,11 @@
      "p": "Two children have ten readings of one pull and want to give one number.",
      "views": [
       {
-       "who": "Mina, a girl in Class 4 (an imagined view)",
+       "who": "The first child (an imagined view)",
        "says": "I will pick the smallest reading, because that is when the band was least disturbed."
       },
       {
-       "who": "Kabir, a boy in Class 4 (an imagined view)",
+       "who": "The second child (an imagined view)",
        "says": "I will pick the middle value of all ten, because it sits in the centre of the readings."
       }
      ],
@@ -2524,14 +2524,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A rope holds a 100 N load in its middle. Each side slopes 10 degrees below the level. Roughly how hard does each side pull?",
+     "p": "A rope holds a 100 N load in its middle. Each side slopes 10 degrees below a level line. Roughly how hard does each side pull?",
      "opts": [
       "About 290 N",
       "About 100 N",
       "About 50 N"
      ],
      "a": 0,
-     "why": "Only the upward part of each side's pull holds the load. At 10 degrees, that part is only about a sixth of the pull, so each side pulls about three times the load. The answer 50 N would be right for a rope hanging straight down, with two ropes sharing the load.",
+     "why": "Each side holds up half the load, which is 50 N. Only the upward part of each side's pull does this. At 10 degrees, that part is only about a sixth of the pull, so each side pulls about six times 50 N, which is about three times the load. The answer 50 N would be right for two ropes hanging straight down and sharing the load.",
      "outcome": 2
     },
     {
@@ -2543,9 +2543,9 @@
     },
     {
      "t": "write",
-     "p": "Anjali's gauge reads 0.2 N with nothing hanging on it. She says it is small enough to ignore. A bag makes it read 3.1 N. What should she do, and why?",
+     "p": "A gauge reads 0.2 N with nothing hanging on it. Someone says this is small enough to ignore. A bag makes the gauge read 3.1 N. What should they do, and why?",
      "lines": 3,
-     "a": "She should not ignore it. She should either reset the zero, or take 0.2 N off every reading, so the bag is 2.9 N. A zero error is the same each time, so leaving it makes every reading too big.",
+     "a": "They should not ignore it. They should either reset the zero, or take 0.2 N off every reading, so the bag is 2.9 N. A zero error is the same each time, so leaving it makes every reading too big.",
      "why": "A strong answer names the zero error and says it must be subtracted from all readings, or that the zero must be reset.",
      "outcome": 5
     },
@@ -2586,7 +2586,7 @@
        "Bigger than the weight"
       ],
       [
-       "the bottle is momentarily still at the top of a swing",
+       "the bottle is still for a moment at the top of a swing",
        "Smaller than the weight"
       ],
       [
@@ -2608,20 +2608,20 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and Sam talk about a set of ten readings of a pull.",
+     "p": "Two children talk about a set of ten readings of a pull.",
      "views": [
       {
-       "who": "Priya, a girl in Class 4 (an imagined view)",
+       "who": "The first child (an imagined view)",
        "says": "There is a true size of the pull. Our readings scatter around it, and better tools get us closer."
       },
       {
-       "who": "Sam, a boy in Class 4 (an imagined view)",
+       "who": "The second child (an imagined view)",
        "says": "We never meet the true pull. We only meet our readings. The true value is just an idea in our heads."
       }
      ],
      "ask": "Which view is more useful for an engineer building a bridge? Which view is more careful about what we really know?",
-     "a": "Answers vary. An engineer works as if there is a true value, as Priya says, because it lets them predict. Sam's view is more careful about what we actually know. Both can be right in different ways.",
-     "why": "Priya's view helps us work. Sam's view reminds us that a measurement is all we ever have. Good thinkers can hold both.",
+     "a": "Answers vary. An engineer works as if there is a true value, as the first child says, because it lets them predict. The second child's view is more careful about what we actually know. Both can be right in different ways.",
+     "why": "The first child's view helps us work. The second child's view reminds us that a measurement is all we ever have. Good thinkers can hold both.",
      "outcome": 4
     },
     {
@@ -2649,7 +2649,7 @@
     },
     {
      "t": "count",
-     "p": "Sunlight pushes on an absorbing sail with about 5 millionths of a newton for each square metre. A sail has 100 square metres. What is the push, in newtons?",
+     "p": "Sunlight pushes on a sail that absorbs the light with about 5 millionths of a newton for each square metre. A sail has 100 square metres. What is the push, in newtons?",
      "a": "0.0005",
      "why": "100 times 5 millionths is 500 millionths. That is 0.0005 newtons, which is five ten-thousandths of a newton.",
      "outcome": 7
@@ -2678,7 +2678,7 @@
       "The bag gets heavier when it is jerked"
      ],
      "a": 0,
-     "why": "A moving or jerking load speeds up quickly, and that needs a much bigger pull for a short time. The thread did not change, and the weight of the bag did not change.",
+     "why": "A jerk makes the load speed up quickly, and that needs a much bigger pull for a short time. The thread did not change, and the weight of the bag did not change.",
      "outcome": 6
     },
     {
@@ -2698,7 +2698,7 @@
      "t": "odd",
      "p": "Which is the odd one out, and why? A spring balance, a strain gauge, a bending ruler and a mercury thermometer.",
      "a": "The mercury thermometer, because it measures temperature. The other three can be used to measure force.",
-     "why": "A spring balance stretches, a strain gauge bends and a ruler bends, so all three can show a force. A thermometer shows how warm something is.",
+     "why": "A spring balance stretches, a strain gauge stretches and a ruler bends, so all three can show a force. A thermometer shows how warm something is.",
      "outcome": 7
     }
    ]
@@ -3052,8 +3052,8 @@
    "explain": "12.5 times 8 is 100. The thread breaks at 60 N, and the pull is 100 N, so it would snap. Letting the line sag more would lower the pull.",
    "math_unit": "math.multiplication.multi-digit.L4",
    "how": "e1",
-   "context": "In the Sagging Line test, the flatter the line, the more times the load each end pulls.",
-   "why_maths": "Multiplying the load by the pull ratio predicts whether a thread will break, before you hang the weight."
+   "context": "In the Sagging Line test, the flatter the line, the harder each end pulls. With a small sag, each end pulls many times the load.",
+   "why_maths": "Multiplying the load by how many times bigger the pull is tells you whether a thread will break, before you hang the weight."
   },
   {
    "problem": "A coin needed 30 grains of rice to pull it off plain water, and 12 grains to pull it off soapy water. Each grain weighs 0.02 grams. What is the difference in the pull, in grams? How many times bigger is the plain-water pull?",
@@ -3061,7 +3061,7 @@
    "explain": "30 times 0.02 is 0.6 grams. 12 times 0.02 is 0.24 grams. 0.6 take away 0.24 is 0.36 grams. 30 divided by 12 is 2.5.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "how": "e2",
-   "context": "In the Button and the Water test, you drop rice grains into a pan until a coin pulls off the water, first plain and then with soap.",
+   "context": "In the Button and the Water test, you drop rice grains into a paper cup until a coin pulls off the water, first plain and then with soap.",
    "why_maths": "Turning counts into grams, and comparing them with a ratio, lets you say how much soap changed the water's hold."
   },
   {
@@ -3300,7 +3300,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In the late 1800s, many scientists treated the pull of a water surface as one fixed number for clean water. Agnes Pockels was born in 1862 in Venice and grew up in Braunschweig in Germany. Girls were not allowed to go to a university, so she learned physics from her younger brother's textbooks. In her kitchen, while washing dishes, she noticed that grease changed how a water surface behaved. She hung a button from one arm of a simple balance and added weights to the other side, until the button was pulled off the water. This measured a tiny force without a laboratory. She found that a clean surface pulled steadily, and that a film of oil made the pull much smaller. In January 1891, she wrote to the English scientist Lord Rayleigh. He saw how good her work was, and he helped to get her letter printed in the journal Nature that year. Later, scientists used troughs like hers to study thin films.",
+  "story": "In the late 1800s, many scientists treated the pull of a water surface as one fixed number for clean water. Agnes Pockels was born in 1862 in Venice and grew up in Braunschweig in Germany. Girls were not allowed to go to a university, so she learned physics from her younger brother's textbooks. In her kitchen, while washing dishes, she noticed that grease changed how a water surface behaved. She hung a button from one arm of a simple balance and added weights to the other side, until the button was pulled off the water. This measured a tiny force without a laboratory. She found that a clean surface pulled steadily, and that a film of oil made the pull much smaller. In January 1891, she wrote to the English scientist Lord Rayleigh. He saw how good her work was, and he helped to get her letter printed in the journal Nature that year. Later, scientists used long basins of water, called troughs, like hers to study thin films.",
   "who": "Agnes Pockels (1862 to 1935), a German scientist who taught herself physics, and Lord Rayleigh, who helped to publish her work",
   "when": "She wrote her letter in January 1891, and Nature printed it in 1891",
   "wrong_idea": "Many people treated the surface of water as a single fixed thing, with one pull that did not depend on what was on it. Pockels showed that a thin film of oil changes the pull a lot. She did it by measuring it, with a button, a balance and a basin of water."
@@ -3308,8 +3308,8 @@
  "roots": {
   "context": "We have drawn forces as arrows, hung a bottle on a sagging line and measured the hold of water on a coin. Now we ask what these measurements tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A 5-newton bottle on a nearly flat line made each end pull with about 13 newtons. A pull that holds something up can be far bigger than its weight. That bigger pull hides inside the line. So the size of a force is not set by the load alone.",
-   "habit": "We think a support only has to be as strong as the weight it carries, so we read the strength of a rope off its load. That leaves out the angle, which can change the pull by a large amount.",
+   "truth": "In the Sagging Line test, a 5 newton bottle on a nearly flat line made each end pull with about 13 newtons. So a pull that holds something up can be far bigger than its weight, and you cannot see that bigger pull by looking at the line. The size of a force is not set by the load alone.",
+   "habit": "We think a support only has to be as strong as the weight it carries, so we judge how strong a rope must be from its load alone. That leaves out the angle, which can change the pull by a large amount.",
    "evidence": "In the Sagging Line test, the band gauge showed a pull of about 13 newtons at each end when the sag was 10 centimetres, for a bottle of about 5 newtons. If your own numbers differ, write them down as they are and test again."
   },
   "three": {
@@ -3322,12 +3322,12 @@
    {
     "source": "Sona Sutta, Anguttara Nikaya 6.55",
     "teaching": "The Buddha reminded a musician named Sona of his lute. If its strings are too tight, they snap and give no music. If they are too slack, they give no music either. When the strings are tuned evenly, the lute sings.",
-    "link": "A line pulled too tight carries too much pull, and one with no sag cannot hold at all. A sag in the right place makes it last."
+    "link": "A line pulled too tight carries too much pull, and a line with no sag at all cannot hold a weight. The right amount of sag makes it last."
    },
    {
     "source": "Tao Te Ching 76",
     "teaching": "What is stiff and unbending breaks. What is soft and yielding lasts. A tree that will not bend is easily broken.",
-    "link": "The tight rope snapped, and the rope with a curve held through the monsoon."
+    "link": "In the story The Rope That Would Not Be Straight, the tight rope snapped, and the rope with a curve held through the monsoon."
    }
   ],
   "science": [

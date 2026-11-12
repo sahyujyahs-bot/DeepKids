@@ -54,7 +54,7 @@
     },
     {
       "term": "Inertia",
-      "meaning": "The way a thing keeps moving as it is moving, or keeps still, unless something pushes or pulls it.",
+      "meaning": "The way a moving thing keeps moving, and a still thing stays still, unless something pushes or pulls it.",
       "example": "You lurch forward when a bus brakes, because your body keeps moving forward.",
       "art": "Passengers in a bus all leaning forward as the bus brakes."
     },
@@ -159,13 +159,13 @@
       ],
       "perspectives": [],
       "art": "One paper cup and a stack of four paper cups falling side by side, with the stack ahead of the single cup.",
-      "context": "In the Drop Race you saw that heavy and light things land together without air. This card explains why the air changes the answer."
+      "context": "In the Drop Race, a heavy bottle and a light bottle landed together. This card explains when the air changes that answer."
     },
     {
       "concept": "Sideways speed and falling are separate",
       "status": "defined",
       "definition": "A thing that moves sideways and falls does both at once. Gravity changes only the falling part. The sideways speed stays the same unless the air or something else pushes on it.",
-      "description": "Drop a ball while you walk. It does not fall straight down to the floor beneath your hand. It keeps moving forward at your walking speed while it falls. So it lands ahead of the spot where you let go. How far ahead? The time it takes to fall, times your walking speed. A fall from the height of your shoulder takes about half a second. At a walking speed of 1 metre a second, the ball lands about half a metre ahead. A ball rolled off a table and a ball dropped from the same height land at the same moment, because gravity pulls both of them down in the same way. Galileo showed in 1638 that the path of a thrown thing is a curve, and the curve is a sideways movement and a falling movement added together.",
+      "description": "Drop a ball while you walk. It does not fall straight down to the floor beneath your hand. It keeps moving forward at your walking speed while it falls. So it lands ahead of the spot where you let go. To find how far ahead, multiply the time it takes to fall by your walking speed. A fall from the height of your shoulder takes about half a second. At a walking speed of 1 metre a second, the ball lands about half a metre ahead. A ball rolled off a table and a ball dropped from the same height land at the same moment, because gravity pulls both of them down in the same way. Galileo showed in 1638 that the path of a thrown thing is a curve, and the curve is a sideways movement and a falling movement added together.",
       "examples": [
         "A ball rolled off a table and a ball dropped from the table's edge land at the same moment.",
         "A cricket ball hit for a six rises and falls along a curve. The falling part follows the same rule as a dropped ball.",
@@ -179,7 +179,7 @@
       "concept": "Why a ball tossed up in a moving train comes back to your hand",
       "status": "defined",
       "definition": "A thing tossed up inside a smoothly moving train already shares the train's sideways speed. It keeps that speed while it rises and falls, so it comes back to your hand.",
-      "description": "A ball tossed up in a train that moves at 80 kilometres an hour is also moving forward at 80 kilometres an hour. Gravity does not take that sideways speed away. The air in the carriage moves with the train too. So while the ball is up, it moves forward exactly as far as you do, and it drops back into your hand. This means that you cannot tell from this test whether the train is moving. Galileo wrote about this in 1632. He said that nothing you do below decks in a smoothly moving ship shows whether the ship is moving. The Earth is a very big ship. It turns once a day and travels around the Sun. You and everything near you share its sideways speed, and so a coconut falls to the foot of the palm and not far to the west.",
+      "description": "A ball tossed up in a train that moves at 80 kilometres an hour is also moving forward at 80 kilometres an hour. Gravity does not take that sideways speed away. The air in the carriage moves with the train too. So while the ball is up, it moves forward exactly as far as you do, and it drops back into your hand. This means that you cannot tell from this test whether the train is moving. Galileo wrote about this in 1632. He said that nothing you do below decks in a smoothly moving ship shows whether the ship is moving. The Earth is like a very big ship. It turns once a day and travels around the Sun. You and everything near you share its sideways speed, and so a coconut falls to the foot of the palm and not far to the west.",
       "examples": [
         "A pen tossed up in a smoothly moving bus lands back in your hand.",
         "A coconut falls straight down beside the palm even though the Earth turns at hundreds of metres a second beneath it.",
@@ -217,7 +217,7 @@
       "definition": "The movement energy of a thing grows with speed times speed. Twice the speed gives four times the movement energy, and three times the speed gives nine times.",
       "description": "A ball held high has stored energy. As it falls, the stored energy turns into movement energy. When the ball hits something soft, the movement energy goes into making a dent. A little of it also becomes sound and a tiny bit of heat. If you drop a ball from 4 times the height, it hits with twice the speed, when the air is not in the way. In the 1720s, a Dutch scientist named Willem 's Gravesande dropped brass balls into soft clay. A ball with twice the speed dug a dent about 4 times as deep. A French scientist named Emilie du Chatelet used his results in her book of 1740 to argue that the strength of a moving thing depends on speed times speed, and not on speed alone. This is also why a car going twice as fast needs about four times the distance to stop.",
       "examples": [
-        "A car going 60 kilometres an hour needs about 4 times the distance to stop of a car going 30 kilometres an hour.",
+        "A car going 60 kilometres an hour needs about 4 times as much distance to stop as a car going 30 kilometres an hour.",
         "A marble dropped from 40 centimetres lands with twice the speed of a marble dropped from 10 centimetres.",
         "Water at the bottom of a high waterfall hits the pool far harder than water from a low step."
       ],
@@ -237,7 +237,7 @@
       ],
       "perspectives": [],
       "art": "A mouse, a cat and a horse falling beside a tall wall, with a tiny puff at the mouse's landing and a large crash at the horse's landing.",
-      "context": "Small animals survive falls that would break big ones. This card explains why, using what you found about weight and air."
+      "context": "Small animals survive falls that would break big ones. This card explains why, using weight and the push of the air."
     },
     {
       "concept": "Falling stars: a fall from space",
@@ -298,7 +298,7 @@
   "agreed": [
     {
       "text": "Without air, everything near the Earth gains the same speed each second, about 9.8 metres a second.",
-      "evidence": "The Apollo 15 astronaut David Scott let a hammer and a feather fall on the Moon in 1971, and they landed together. In 2022, a French satellite named MICROSCOPE showed that two different metals fall alike, to about 1 part in 10 to the power of 15."
+      "evidence": "The Apollo 15 astronaut David Scott let a hammer and a feather fall on the Moon in 1971, and they landed together. In 2022, a French satellite named MICROSCOPE showed that two different metals fall alike, to about 1 part in a million billion (1 followed by 15 zeros)."
     },
     {
       "text": "In air, a falling thing reaches a top speed when the push of the air equals its weight.",
@@ -314,7 +314,7 @@
     },
     {
       "text": "Bigger animals reach higher terminal speeds than smaller ones, so they are hurt more by a fall.",
-      "evidence": "Weight grows with the cube of an animal's length and area grows with the square, so the air pushes on a big animal less for her weight. J. B. S. Haldane described this in 1926."
+      "evidence": "An animal that is twice as long, wide and tall has 8 times the weight but only 4 times the outside area. So the air pushes on a big animal less for her weight. J. B. S. Haldane described this in 1926."
     }
   ],
   "challenging": [
@@ -349,7 +349,7 @@
     {
       "claim": "Cats can fall from any height and walk away, because they land on their feet.",
       "who": "A popular belief, partly supported by a study of cats brought to a vet in New York in 1987.",
-      "for": "In that study, cats reported to have fallen from higher than about six or seven storeys had fewer injuries on average than cats that fell from fewer. Some scientists think the cats reach their top speed and relax.",
+      "for": "In that study, cats reported to have fallen from higher than about six or seven storeys had fewer injuries on average than cats that fell from lower floors. Some scientists think the cats reach their top speed and relax.",
       "against": "Only cats that survive are taken to the vet, so we do not see the ones that did not. A long fall can still kill a cat.",
       "status": "debated"
     }
@@ -363,30 +363,30 @@
     {
       "q": "A ball moves sideways and falls at the same time, and each movement ignores the other. How can one thing do two separate movements at once?",
       "kind": "deep",
-      "hint": "Think about the walking drop, and what the ball was doing before you let go."
+      "hint": "In the Walking Drop, you let go of a dough ball while walking. Think about what the ball was doing before you let go."
     },
     {
-      "q": "A ball dropped from 4 times higher hits with 4 times as much movement energy. Where did the extra energy come from?",
+      "q": "A ball dropped from 4 times the height hits with 4 times as much movement energy. Where did the extra energy come from?",
       "kind": "deep",
       "hint": "Think about the stored energy of a thing held high, and what pulls it down for longer."
     },
     {
-      "q": "Air pushes back harder as a thing goes faster, until the two forces match exactly. Why does nature find this balance every time, and by itself?",
+      "q": "Air pushes back harder as a thing goes faster, until the push of the air and the pull of the Earth match exactly. Why does this balance happen every time, without anyone setting it?",
       "kind": "deep",
       "hint": "Think about what happens when the push of the air is a little too small, and when it is a little too big."
     },
     {
       "q": "You are moving around the Sun at about 30 kilometres every second, and you feel nothing. What else might we be moving along with, without feeling it?",
       "kind": "big",
-      "hint": "Think about the train and the tossed lime."
+      "hint": "Think about the story The Lime on the Night Train. Kavya tossed a lime up on a moving train, and it came back to her hand."
     },
     {
-      "q": "A small animal is safe from a fall and a big animal is not. Is being safe a fixed trait, or does it depend on size?",
+      "q": "A small animal is safe from a fall and a big animal is not. Is a fall dangerous in itself, or does the danger depend on the size of the animal?",
       "kind": "big",
-      "hint": "Think about the two cubes, and what changed when one became twice as wide."
+      "hint": "Think about a cube made twice as wide. Its weight grows 8 times, but its outside grows only 4 times."
     },
     {
-      "q": "Aryabhata's critics had a sensible reason, yet they were wrong. How can a good argument be wrong, and how do we find out?",
+      "q": "Aryabhata said the Earth turns. His critics said that a stone thrown up would then be left behind. That was a sensible reason, yet they were wrong. How can a good argument be wrong, and how do we find out?",
       "kind": "big",
       "hint": "Think about what idea they did not have yet."
     },
@@ -414,7 +414,7 @@
       "She tossed the lime straight up, just above her head.",
       "It rose. It stopped. It fell. It landed in her palm with a tiny slap, in exactly the place where she was standing. She tossed it again, and again. Each time the train rushed forward through the dark, and each time the lime came back to her hand.",
       "'Hm,' said Raman Mama. 'The air in this carriage is moving with us. The roof is over us. That is cheating.'",
-      "'Then it is cheating for the bird as well,' said Kavya. 'The air goes round with the Earth, right up high. And the tree, and the nest, and the bird were all going round before she ever left. Look. The lime was already going forward at eighty before I threw it. My throw only added an up. Nothing took the forward away.'",
+      "'Then it is cheating for the bird as well,' said Kavya. 'The air goes round with the Earth, right up high. And the tree, and the nest, and the bird were all going round before she ever left. Look. The lime was already going forward at eighty before I threw it. My throw only added the upward movement. Nothing took the forward movement away.'",
       "She tossed it once more to show him. 'Up and down is one movement. Forward is another. The Earth pulls only on the up and down. It does not touch the forward. So when the lime comes down, the train has gone forward, and so has the lime, and so have I. We all went the same distance. That is why I am still under it.'",
       "Raman Mama said nothing for a long time. The wheels sang on the rails. Then he took off his glasses and rubbed his eyes.",
       "'Varahamihira asked a very good question,' he said slowly. 'And he did not have a lime.'",
@@ -427,7 +427,7 @@
     "epiphany": "A thing that is moving keeps its sideways speed while it falls. So a tossed lime comes back to your hand, even on a moving train, and a bird can fly back to her nest on a turning Earth.",
     "ask": [
       "Why did the lime come back to Kavya's hand, even though the train was moving?",
-      "A boy throws a ball straight up inside a bus that is slowing down. Would it still land in his hand? What do you think, and why?",
+      "You throw a ball straight up inside a bus that is slowing down. Would it still land in your hand? What do you think, and why?",
       "Raman Mama's argument was sensible, yet it was wrong. What idea was missing from it?"
     ],
     "art": [
@@ -438,18 +438,18 @@
     ]
   },
   "roots": {
-    "context": "We have dropped cups and dough and learned how falling things speed up. Now we ask what a lime tossed on a train tells us about being still and being in motion.",
+    "context": "You have dropped cupcake liners and a ball of dough, and learned how falling things speed up. Now we ask what a lime tossed up on a moving train tells us about being still and being in motion.",
     "deep_truth": {
       "truth": "When you toss a lime up on a moving train, it falls back into your hand. The lime keeps the train's sideways speed all the way. So being at rest does not mean having no speed. It means moving along together with everything around you.",
       "habit": "We call a thing 'still' or 'moving' as if that were a fact about the thing alone. But still always means still compared with something. Seen from the Sun, the room you sit in is moving at about 30 kilometres every second.",
-      "evidence": "In Toss on the Move, the ball went up and came down into the walker's hand while the walker kept moving. In the Walking Drop, the dough ball landed ahead of the drop mark by about the walking speed times half a second."
+      "evidence": "In Toss on the Move, the ball went up and came down into the walker's hand while the walker kept moving. In the Walking Drop, the dough ball landed ahead of the drop mark, about as far ahead as the walker moves in half a second."
     },
     "three": {
       "who_am_i": "You are moving right now. You travel around the Earth's axis at hundreds of metres a second and around the Sun at about 30 kilometres a second, and you feel nothing.",
       "what_is_life": "A falcon folds her wings and dives at more than 200 kilometres an hour. A seed spins down slowly. Each living body meets the same pull and the same air in its own way.",
       "what_is_this_world": "Dropping, throwing, tossing and walking all follow one rule. Gravity pulls down, and the sideways speed carries on."
     },
-    "thread": "Every falling thing near the Earth feels the same pull. A stone, a raindrop, a seed and a mouse all gain speed at the same rate to begin with. The many different kinds of fall come from what the pull meets: the air, the shape, the size and the sideways speed. The air itself is made of the same kind of particles as our bodies. So the fall of a raindrop is a meeting between the Earth, the air and the drop, and none of them is the whole story.",
+    "thread": "Every falling thing near the Earth feels the same pull. A stone, a raindrop, a seed and a mouse all gain speed at the same rate to begin with. Falls look different because of other things: the air, the shape and size of the thing, and its sideways speed. The air itself is made of the same kind of particles as our bodies. So how a raindrop falls depends on the Earth, the air and the drop together, and not on any one of them alone.",
     "teachings": [
       {
         "source": "Aryabhatiya, Golapada 9 (Aryabhata, 499 CE)",
@@ -520,7 +520,7 @@
               "b": "About 20 metres a second. It gains about 10 metres a second every second."
             },
             {
-              "f": "The same ball keeps falling. About how fast is it moving after 3 seconds?",
+              "f": "A ball is dropped on a planet with no air. About how fast is it moving after 3 seconds?",
               "b": "About 30 metres a second, which is about 108 kilometres an hour."
             },
             {
@@ -540,16 +540,16 @@
               "b": "They land together. With no air there is no top speed, and everything gains speed at the same rate."
             },
             {
-              "f": "Meenakshi walks and lets go of a ball above a mark on the floor. Where does the ball land?",
-              "b": "Ahead of the mark. The ball keeps her sideways speed while it falls."
+              "f": "You walk and let go of a ball above a mark on the floor. Where does the ball land?",
+              "b": "Ahead of the mark. The ball keeps your sideways speed while it falls."
             },
             {
               "f": "A ball rolls off a table at the same moment as a ball is dropped from the table's edge. Which hits the floor first?",
               "b": "Neither. They land at the same moment. Sideways speed does not change how fast a thing falls."
             },
             {
-              "f": "Farhan tosses an orange straight up inside a smoothly moving train. Does it land in front of him, behind him or in his hands?",
-              "b": "In his hands. The orange shares the sideways speed of the train."
+              "f": "You toss an orange straight up inside a smoothly moving train. Does it land in front of you, behind you or in your hands?",
+              "b": "In your hands. The orange shares the sideways speed of the train."
             },
             {
               "f": "A car going 30 kilometres an hour needs 5 metres to stop. About how many metres does it need at 60 kilometres an hour?",
@@ -560,7 +560,7 @@
               "b": "Twice the speed. Four times the height gives twice the speed."
             },
             {
-              "f": "The same marble hits with twice the speed. How many times the movement energy does it have?",
+              "f": "One marble hits with twice the speed of another. How many times the movement energy does it have?",
               "b": "Four times. Movement energy grows with speed times speed."
             },
             {
@@ -572,7 +572,7 @@
               "b": "8 times. 2 times 2 times 2 is 8."
             },
             {
-              "f": "The same cube is made twice as wide. How many times bigger is its outside area?",
+              "f": "A cube is made twice as wide. How many times bigger is its outside area?",
               "b": "4 times. 2 times 2 is 4."
             },
             {
@@ -664,7 +664,7 @@
           "id": "s4",
           "mins": 3,
           "do": "Play the last six cards. When the pile is finished, count each player's points.",
-          "say": "Last cards. Think about what made the answer in each case: the pull, the air, the sideways speed or the size.",
+          "say": "These are the last cards. For each one, think about what decides the answer: the pull, the air, the sideways speed or the size.",
           "kid": "Play the last cards. Count your points.",
           "context": "In this step, you finish the pile of cards and count the points."
         },
@@ -767,7 +767,7 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Check that all five liners are exactly alike. Stick a strip of tape on the wall at the height of the grown-up's raised hand. Always drop from this height. No liners? Cut five circles from newspaper, 12 centimetres wide, using a katori as a guide. Cut a slit to the middle of each and overlap the cut edges by 1 centimetre. Tape them into five shallow cones.",
+          "do": "Check that all five liners are exactly alike. Stick a strip of tape on the wall at the height of the grown-up's raised hand. Always drop from this height. If you have no liners, cut five circles from newspaper, 12 centimetres wide, using a katori as a guide. Cut a slit to the middle of each and overlap the cut edges by 1 centimetre. Tape them into five shallow cones.",
           "say": "All the liners must be the same. The drop height must be the same too. We will mark it on the wall.",
           "kid": "Check the four liners are the same. Put tape on the wall to mark the drop height.",
           "parent": "The grown-up should do every drop, holding the liners at the tape with a straight arm. A child on tiptoe changes the height each time. Press nested liners together so they act as one thing.",
@@ -820,7 +820,7 @@
           "do": "Drop one liner from the mark. The helper starts the phone stopwatch as it is let go and stops it when it touches the floor. Write the time. Do this three times. Then do the same for stacks of two, three and four liners.",
           "say": "Start the stopwatch when I let go. Stop it when the liner touches the floor. Write down the time.",
           "kid": "Drop the liners. Time each fall. Write the time in the table.",
-          "parent": "The times are rough, because a stopwatch is started a fraction of a second late. That is why each stack is dropped three times, and we use the middle time. Typically, one liner takes about 1.2 to 2 seconds and a stack of four takes about 0.8 to 1.2 seconds from 2 metres. Yours may differ, and the times for stacks of two and three may sit close together. Trust the side-by-side race in step 3 most, and the middle times second. A wobble does not count.",
+          "parent": "The times are rough, because a stopwatch is started a fraction of a second late. That is why each stack is dropped three times, and we use the middle time. Typically, one liner takes about 1.2 to 2 seconds and a stack of four takes about 0.8 to 1.2 seconds from 2 metres. Yours may differ, and the times for stacks of two and three may sit close together. Trust the side-by-side race of one liner against the stack of four most, and the middle times second. A wobble does not count.",
           "check": {
             "t": "mcq",
             "q": "Three drops of a stack took 1.6, 1.9 and 1.7 seconds. Which is the middle time?",
@@ -893,7 +893,7 @@
         }
       ],
       "safety": "Walk, never run. Wear shoes on a dry floor. Clear toys and mats from the path. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, wash hands after, and wipe up crumbs so nobody slips.",
-      "record": "Write the distance from the mark to the landing note for each drop. For each pace, write the middle of the three distances.",
+      "record": "For each drop, write the distance from the mark to the sticky note where the ball landed. For each pace, write the middle of the three distances.",
       "context": "In this experiment, you drop a ball of dough as you walk past a mark. You find out where it lands, and how that changes when you walk faster.",
       "setup": [
         {
@@ -917,7 +917,7 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show the dough ball and the drop mark. Ask your child to draw three dots on paper. They show where the ball may land: behind, under or ahead of the mark. Ask her to say why.",
+          "do": "Show the dough ball and the drop mark. Ask your child to draw three dots on paper. The dots show the three places the ball may land: behind the mark, under it or ahead of it. Ask her which dot she picks, and why.",
           "say": "You will walk past the mark and let go of the ball as your hand passes it. Where will it land? Behind the mark, under it or ahead of it? Why?",
           "kid": "Walk past the mark and let go. Where will the ball land? Behind, under or ahead? Why?",
           "ask": [
@@ -961,14 +961,14 @@
           "parent": "Open the hand to let go. Do not throw or flick. Dough does not bounce, so the first touch is easy to see. If one drop lands far from the other two, repeat it. Most odd drops come from letting go too early or too late; a little scatter of 10 centimetres is normal. Time each walk along the 3 metre line and write the seconds next to the pace. Write each landing on its numbered note and leave the notes on the floor until all nine drops are done. If the ball rolls or squashes unclearly, make it firmer or use a clay ball.",
           "check": {
             "t": "mcq",
-            "q": "Meera's ball landed 50 centimetres ahead of the mark when she walked at an easy pace. About where will it land if she walks twice as fast?",
+            "q": "Your ball landed 50 centimetres ahead of the mark when you walked at an easy pace. About where will it land if you walk twice as fast?",
             "options": [
               "About 100 centimetres ahead",
               "Right at the mark",
               "About 25 centimetres ahead"
             ],
             "a": 0,
-            "why": "The ball keeps her sideways speed while it falls, and the fall takes the same time. Twice the speed means twice the distance travelled forward in that time."
+            "why": "The ball keeps your sideways speed while it falls, and the fall takes the same time. Twice the speed means twice the distance travelled forward in that time."
           },
           "context": "In this step, you walk past the mark at three paces and drop the ball each time."
         },
@@ -988,7 +988,7 @@
               ]
             }
           ],
-          "parent": "Typically you will see about 20 to 30 centimetres for a slow pace, about 50 for an easy pace and 70 to 90 for a brisk pace. Your numbers will differ with the size of the child and the pace. A child's speed in metres a second is 3 divided by the seconds; the landing distance should be about half of it in metres. What matters is that faster walking gave a longer distance.",
+          "parent": "Typically you will see about 20 to 30 centimetres for a slow pace, about 50 for an easy pace and 70 to 90 for a brisk pace. Your numbers will differ with the size of the child and the pace. To find your child's speed in metres a second, divide 3 by the seconds the walk took. The ball should land about half that many metres ahead. What matters is that faster walking gave a longer distance.",
           "context": "In this step, you measure where the ball landed and look for a pattern."
         },
         {
@@ -998,7 +998,7 @@
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
           "kid": "Say what you thought, what you saw and why.",
           "think": "If you could walk twice as fast, where would the ball land?",
-          "parent": "Listen first. Then say: the ball was moving forward with your hand before you let go. Letting go took away the hold of your hand, but not the forward speed. The fall from shoulder height takes about half a second whatever your pace. So the ball lands about half your walking speed, in metres, ahead of the mark.",
+          "parent": "Listen first. Then say: the ball was moving forward with your hand before you let go. Letting go took away the hold of your hand, but not the forward speed. The fall from shoulder height takes about half a second whatever your pace. So the ball lands about as far ahead of the mark as you walk in half a second.",
           "context": "This is the last step of the Walking Drop. You explain what you found."
         }
       ]
@@ -1041,7 +1041,7 @@
           "qty": 1
         }
       ],
-      "safety": "Keep the marble away from children under five, who might put it in their mouths. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, and wash hands after. Toothpicks are sharp: a grown-up helps, push gently with the point down, and throw them away afterwards. In hot weather, cover the dough with a damp cloth between rounds so it does not dry out.",
+      "safety": "Keep the marble away from children under five, who might put it in their mouths. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, and wash hands after. Toothpicks are sharp, so a grown-up helps. Push them in gently with the point down, and throw them away afterwards. In hot weather, cover the dough with a damp cloth between rounds so it does not dry out.",
       "record": "Write the depth of each dent in millimetres. For each height, write the middle of the three depths. Then draw a bar chart with one bar for each height.",
       "context": "In this experiment, you drop a marble into soft dough from three heights. You find out how a faster hit changes the dent.",
       "setup": [
@@ -1108,7 +1108,7 @@
           "do": "Hold the marble with its bottom at the 10 centimetre mark. Let go. Do not push it. Leave the marble in its dent. Do this three times on three fresh patches, about 6 centimetres apart in a 3 by 3 grid. Then do three drops from 20 centimetres and three from 40 centimetres. Do not smooth the dough until all nine dents are measured.",
           "say": "Hold the marble at the mark. Let go. Do not push it. Leave it in its dent.",
           "kid": "Drop the marble from 10, 20 and 40 centimetres. Do three drops from each height.",
-          "parent": "Keep the marble from rolling by letting go with a gentle opening of the fingers. Use the whole tray, a new patch each time. If you run out of fresh patches, measure what you have, then smooth the dough flat and carry on.",
+          "parent": "Open your fingers gently to let go, so the marble does not roll. Use the whole tray, a new patch each time. If you run out of fresh patches, measure what you have, then smooth the dough flat and carry on.",
           "context": "In this step, you drop the marble nine times, from three heights."
         },
         {
@@ -1337,7 +1337,7 @@
           "say": "Divide each weight by its number of faces. Which animal has the most weight for each bit of outside? What does that tell us about falling?",
           "kid": "Divide the weight by the faces. Which cube has the most weight for each outside face?",
           "think": "Which animal would have to fall fastest before the air pushed back enough?",
-          "parent": "The numbers are about 0.17 for the mouse, 0.33 for the cat and 0.5 for the horse. The air can only push on the outside. A bigger animal has more weight for every bit of outside, so she must fall faster before the push of the air equals her weight. That is why her top speed is higher. Stretch: the numbers are the width divided by 6, so a cube 10 wide, an elephant, would have 1000 weight, 600 faces, and 1.67 each.",
+          "parent": "The numbers are about 0.17 for the mouse, 0.33 for the cat and 0.5 for the horse. The air can only push on the outside. A bigger animal has more weight for every bit of outside, so she must fall faster before the push of the air equals her weight. That is why her top speed is higher. For a stretch: each number is the width divided by 6. So a cube 10 wide, standing for an elephant, would have a weight of 1000, 600 outside faces, and 1.67 of weight for each face.",
           "context": "This is the last step of Cube Animals. You compare the three animals."
         }
       ]
@@ -1393,7 +1393,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Tie one washer to the end of the string. Tape the other end so that the string is 50 centimetres long from the tape to the washer. Ask your child to guess whether three washers will swing faster than one. Ask for a reason.",
-          "say": "A swing is a washer that goes out and back. Will three washers swing faster than one? Will a shorter string swing faster? Why?",
+          "say": "One swing is the washer going out and back. Will three washers swing faster than one? Will a shorter string swing faster? Why?",
           "kid": "Will three washers swing faster than one? Will a short string swing faster? Why?",
           "ask": [
             {
@@ -1405,7 +1405,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. A swing is out and back to where you let go. Keep the swing small, no more than a hand's width from the middle. Keep faces out of the swing path, and keep washers away from very young children.",
+          "parent": "Do not correct the guess. One swing means out and back to where you let go. Keep the swing small, no more than a hand's width from the middle. Keep faces out of the swing path, and keep washers away from very young children.",
           "context": "This is the first step of Swings. You build the swing and guess."
         },
         {
@@ -1444,7 +1444,7 @@
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
           "kid": "Say what you thought, what you saw and why.",
           "think": "Why does a playground swing take longer to swing back and forth when the chains are longer?",
-          "parent": "Listen first. Then say: a swing is a fall that keeps turning. Heavy and light things fall at the same rate, and they swing at the same rate too. The length of the string decides the swing. A story says Galileo, aged 19, watched a lamp swing in the cathedral at Pisa and timed it with his pulse. His student Viviani told the story, and historians doubt some of its details.",
+          "parent": "Listen first. Then say: a swinging washer is falling too, but the string keeps turning its fall into a curve. Heavy and light things fall at the same rate, and they swing at the same rate too. The length of the string decides the swing. A story says Galileo, aged 19, watched a lamp swing in the cathedral at Pisa and timed it with his pulse. His student Viviani told the story, and historians doubt some of its details.",
           "context": "This is the last step of Swings. You explain what you found."
         }
       ]
@@ -1591,7 +1591,7 @@
       "id": "c1",
       "title": "Marble to the Cup: hit a hidden target",
       "mins": 35,
-      "problem": "A marble rolls down a paper ramp and flies off a table edge. A grown-up puts a cup on the floor, a place you have not seen. You get three tries to land the marble in the cup, and you must choose where on the ramp to let go of it.",
+      "problem": "A marble rolls down a paper ramp and flies off a table edge. A grown-up puts a cup on the floor, in a place you have not seen yet. You get three tries to land the marble in the cup, and you must choose where on the ramp to let go of it.",
       "constraints": [
         "Let the marble go from rest. Do not push it.",
         "The end of the ramp stays at the table's edge.",
@@ -1614,7 +1614,7 @@
       "creative": [
         "Put more marks on the ramp, such as five, so you can aim at more places.",
         "Cut a notch in a ruler to make a gate that lets the marble go from the same spot every time.",
-        "Stack two cups, one in front of the other, and aim for the nearer cup first."
+        "Place two cups, one in front of the other, and aim for the nearer cup first."
       ],
       "your_turn": "Build the ramp and test the three marks. Write down where the marble lands for each. Then ask a grown-up to place the cup. Choose your mark and try. Which mark did you pick, and why?",
       "context": "This is a design challenge about sideways speed. You use what you know about falling and sideways movement to hit a target.",
@@ -1809,14 +1809,14 @@
         },
         {
           "t": "mcq",
-          "p": "Kavya walks and lets go of a ball above a mark on the floor. Where does the ball land?",
+          "p": "You walk and let go of a ball above a mark on the floor. Where does the ball land?",
           "opts": [
             "Ahead of the mark",
-            "Right under her hand, on the mark",
+            "Right under your hand, on the mark",
             "Behind the mark"
           ],
           "a": 0,
-          "why": "The ball keeps her sideways speed while it falls, so it moves forward as it drops. It lands ahead of the spot under her hand.",
+          "why": "The ball keeps your sideways speed while it falls, so it moves forward as it drops. It lands ahead of the spot under your hand.",
           "outcome": 3
         },
         {
@@ -1856,9 +1856,9 @@
         },
         {
           "t": "write",
-          "p": "Anita says: 'A falling thing keeps speeding up until it lands.' Say when she is right and when she is wrong.",
+          "p": "Someone says: 'A falling thing keeps speeding up until it lands.' Say when this is right and when it is wrong.",
           "lines": 3,
-          "a": "She is right for a short fall, or when there is no air, as on the Moon. She is wrong for a long fall in air, where the push of the air grows until the thing falls at a steady speed.",
+          "a": "It is right for a short fall, or when there is no air, as on the Moon. It is wrong for a long fall in air, where the push of the air grows until the thing falls at a steady speed.",
           "why": "A strong answer says that the air makes the difference, and gives an example of each case, such as a dropped pen and a raindrop.",
           "outcome": 1
         },
@@ -1871,7 +1871,7 @@
             "Gravity pulls mice less than horses"
           ],
           "a": 0,
-          "why": "A small body has less weight for each bit of outside. The air stops it speeding up at a lower speed, so she lands gently.",
+          "why": "A small body has less weight for each bit of outside. The air stops her speeding up at a lower speed, so she lands gently.",
           "outcome": 5
         }
       ]
@@ -1920,7 +1920,7 @@
         },
         {
           "t": "mcq",
-          "p": "A ball is dropped from the height of a table on the Moon and another on Earth. Which lands first, and why?",
+          "p": "One ball is dropped from the height of a table on the Moon, and another from the same height on Earth. Which lands first, and why?",
           "opts": [
             "The one on Earth, because the Earth pulls harder and the ball gains speed faster",
             "The one on the Moon, because the ball is lighter there",
@@ -1990,7 +1990,7 @@
         },
         {
           "t": "mcq",
-          "p": "Rani walks and drops a ball. It lands 40 centimetres ahead of the mark. She walks twice as fast. About how far ahead does it land?",
+          "p": "You walk and drop a ball. It lands 40 centimetres ahead of the mark. Then you walk twice as fast. About how far ahead does it land now?",
           "opts": [
             "About 80 centimetres",
             "About 40 centimetres",
@@ -2002,7 +2002,7 @@
         },
         {
           "t": "count",
-          "p": "A ball falls for 0.5 seconds while a girl walks at 2 metres a second. How many metres ahead of the mark does it land?",
+          "p": "A ball falls for 0.5 seconds while you walk at 2 metres a second. How many metres ahead of the mark does it land?",
           "a": "1",
           "why": "Distance ahead is speed times time. 2 metres a second times 0.5 seconds is 1 metre.",
           "outcome": 3
@@ -2195,14 +2195,14 @@
         },
         {
           "t": "perspective",
-          "p": "Hira and Dev read that cats survive falls from tall buildings.",
+          "p": "Two people read that cats survive falls from tall buildings.",
           "views": [
             {
-              "who": "Hira (an imagined view)",
+              "who": "The first person (an imagined view)",
               "says": "Cats can survive any fall, because they land on their feet and relax."
             },
             {
-              "who": "Dev (an imagined view)",
+              "who": "The second person (an imagined view)",
               "says": "We only hear about the cats that were brought to the vet. The ones that died are not in the study."
             }
           ],
@@ -2453,7 +2453,7 @@
     },
     {
       "q": "Why do tests of falling find that everything falls alike, with no exceptions yet?",
-      "why_open": "Tests have shown it to about 1 part in 10 to the power of 15. Einstein explained it with curved space and time, but nobody knows whether a deeper theory will show a tiny difference."
+      "why_open": "Tests have shown it to about 1 part in a million billion (1 followed by 15 zeros). Einstein explained it with curved space and time, but nobody knows whether a deeper theory will show a tiny difference."
     },
     {
       "q": "What is the quickest way an animal can fall without getting hurt?",
@@ -2462,7 +2462,7 @@
   ],
   "ask_kids": [
     "What do you think is the fastest speed you can fall at, and what would decide it?",
-    "On the way to school, which things do you see moving along with you? Which of them are you moving along with?",
+    "When you ride in a bus or a train, which things move along with you? What are you moving along with?",
     "Why do you think a stream from a tap gets thinner as it falls?",
     "If you tossed a ball up in a bus, what would you expect? How could you test it safely?",
     "Which would you rather drop from a roof, an ant or a coconut, and why?"
@@ -2530,7 +2530,7 @@
       "why_maths": "Comparing the two times shows how much the extra weight helped, and whether the change was as big as the change in weight."
     },
     {
-      "problem": "In the Walking Drop, a ball falls for about 0.5 seconds. Aarav walks at 1 metre a second, Meenakshi at 1.5 metres a second and Farhana at 2 metres a second. How far ahead of the mark does each ball land?",
+      "problem": "In the Walking Drop, a ball falls for about 0.5 seconds. Three walkers go at 1 metre a second, 1.5 metres a second and 2 metres a second. How far ahead of the mark does each walker's ball land?",
       "answer": "50 centimetres, 75 centimetres and 100 centimetres.",
       "explain": "The distance ahead is speed times 0.5 seconds. Half of 1 metre is 50 centimetres. Half of 1.5 metres is 75 centimetres. Half of 2 metres is 100 centimetres.",
       "math_unit": "math.length.standard-units-length.L4",
@@ -2539,18 +2539,18 @@
       "why_maths": "Multiplying the walking pace by the fall time predicts where the ball lands, so you can check your prediction against your measurements."
     },
     {
-      "problem": "In the dents test, a marble dropped from 10 centimetres makes a dent 3 millimetres deep. A drop from 40 centimetres is 4 times the height, so the marble hits with twice the speed, and twice the speed makes a dent 4 times as deep. How deep is the dent from 40 centimetres? What would you expect from 90 centimetres, which is 9 times the height and 3 times the speed?",
+      "problem": "In Dents in Dough, a marble dropped from 10 centimetres makes a dent 3 millimetres deep. A drop from 40 centimetres is 4 times the height, so the marble hits with twice the speed, and twice the speed makes a dent 4 times as deep. How deep is the dent from 40 centimetres? What would you expect from 90 centimetres, which is 9 times the height and 3 times the speed?",
       "answer": "12 millimetres from 40 centimetres. From 90 centimetres, 3 times the speed gives a dent 9 times as deep, which is 27 millimetres.",
       "explain": "4 times 3 is 12. Three times the speed gives 3 times 3, which is 9 times the dent. 9 times 3 is 27. Real dough will not match exactly, because it springs back a little.",
       "math_unit": "math.number-sense.powers-and-roots.L4",
       "how": "e3",
-      "context": "In the dents test, you drop a marble into soft dough from 10, 20 and 40 centimetres and measure the dents.",
+      "context": "In Dents in Dough, you drop a marble into soft dough from 10, 20 and 40 centimetres and measure the dents.",
       "why_maths": "Squares let you predict a dent from a speed, because the effect grows with speed times speed."
     },
     {
-      "problem": "Zoya builds a cube 4 cubes wide, 4 deep and 4 high. How many cubes does it weigh? Each side shows 4 times 4 faces. How many faces are on the outside? How many cubes of weight are there for each outside face?",
+      "problem": "Build a cube 4 cubes wide, 4 deep and 4 high. How many cubes does it weigh? Each side shows 4 times 4 faces. How many faces are on the outside? How many cubes of weight are there for each outside face?",
       "answer": "64 cubes of weight and 96 outside faces. That is 64 divided by 96, which is two thirds, about 0.67.",
-      "explain": "4 times 4 times 4 is 64. One side has 16 faces and there are 6 sides, so 96. 64 over 96 is 2 over 3, about 0.67, which is more than the horse's 0.5.",
+      "explain": "4 times 4 times 4 is 64. One side has 16 faces and there are 6 sides, so 96. 64 over 96 is 2 over 3, about 0.67, which is more than the 0.5 of the horse cube in Cube Animals.",
       "math_unit": "math.area-perimeter.area.L4",
       "how": "a2",
       "context": "In Cube Animals, you build cubes of different sizes and count their weight and their outside faces.",
@@ -2561,7 +2561,7 @@
       "answer": "8 metres at 40 kilometres an hour and 32 metres at 80 kilometres an hour.",
       "explain": "At 40 the speed is twice as big, so the distance is 4 times 2, which is 8 metres. At 80 the speed has doubled again, so the distance is 4 times 8, which is 32 metres.",
       "math_unit": "math.number-sense.powers-and-roots.L4",
-      "context": "In the dents test, you saw that twice the speed makes four times the effect. The same rule decides how far a car needs to stop.",
+      "context": "In Dents in Dough, the rule is that twice the speed makes four times the effect. The same rule decides how far a car needs to stop.",
       "why_maths": "Doubling and doubling again shows how fast stopping distances grow, which is why speed limits matter near schools."
     }
   ],
@@ -2672,7 +2672,7 @@
       "a": "Ahead of the spot below your hand."
     },
     {
-      "q": "A ball rolled off a table and a ball dropped from its edge. Which lands first?",
+      "q": "One ball is rolled off a table and another is dropped from its edge at the same moment. Which lands first?",
       "a": "They land together."
     },
     {

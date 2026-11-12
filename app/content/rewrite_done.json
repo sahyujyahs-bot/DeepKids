@@ -285,6 +285,16 @@
   "sci.energy.stored-energy.L4",
   "sci.environment.conservation.L4",
   "sci.environment.pollution.L4",
-  "sci.food.balanced-diet.L4"
+  "sci.food.balanced-diet.L4",
+  "sci.food.food-safety.L4",
+  "sci.food.nutrients.L4",
+  "sci.forces.flight.L4",
+  "sci.forces.friction.L4",
+  "sci.forces.measuring-forces.L4",
+  "sci.forces.simple-machines.L4",
+  "sci.forces.stretching-springs.L4",
+  "sci.gravity.falling.L4",
+  "sci.gravity.weight-and-mass.L4",
+  "sci.how-we-know.asking-questions.L4"
  ]
 }

@@ -3,11 +3,11 @@
  "title": "Food safety: why food that looks and smells fine can still make you ill",
  "level": 4,
  "summary": {
-  "text": "At a picnic, nine of twenty-two people fall ill the next day, and nobody can see, smell or taste anything wrong with the food. Your child learns how scientists work out which food did it, by writing down who ate what. They grow yeast in a fridge, in a warm bath and on the kitchen counter, and watch how temperature changes how fast tiny living beings multiply. They press a clean finger and a soapy finger onto a slice of potato, and find out what 20 seconds of soap really does. They also pull the water out of a cucumber with salt, learn to read a food packet, and meet the microbes that are friends in the gut and a danger in the dal.",
+  "text": "At a picnic, nine of twenty-two people fall ill the next day, and nobody can see, smell or taste anything wrong with the food. Your child learns how scientists work out which food did it, by writing down who ate what. They grow yeast in a fridge, in a warm bath and on the kitchen counter, and watch how temperature changes how fast tiny living beings multiply. They press a dirty finger, a rinsed finger and a soapy finger onto slices of potato, and find out what 20 seconds of soap really does. They also pull the water out of a cucumber with salt, learn to read a food packet, and learn how the same kind of microbe can be helpful in the gut and harmful in food.",
   "art": "A picnic cloth with idli, a bowl of coconut chutney, a lemon rice dabba and cut papaya, and a child with a notebook ticking a table beside it."
  },
  "intro": {
-  "hook": "Stir a spoon of yeast into sugary water in four glasses. Put one in the fridge, one on the counter, one in a bowl of warm water, and one after heating it first. Two hours later, one glass is foaming up to the brim and the other three have barely changed. All four had the same yeast, the same sugar and the same water. What made the difference?",
+  "hook": "Stir a spoon of yeast into sugary water and share it between four glasses. Put one in the fridge, one on the counter and one in a bowl of warm water. Heat the fourth until it steams, let it cool, and put it on the counter too. Two hours later, one glass is foaming up to the brim and the other three have barely changed. All four had the same yeast, the same sugar and the same water. What made the difference?",
   "text": "Yeast is a microbe, a living being too small to see. The glass in warm water gave her the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this unit you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.",
   "art": "Four glasses in a row: one in a fridge, one on a counter, one in a bowl of warm water and one beside a pan, with the warm one overflowing with foam."
  },
@@ -78,7 +78,7 @@
   },
   {
    "term": "Osmosis",
-   "meaning": "Water moving through a thin skin from the less salty or sweet side to the more salty or sweet side.",
+   "meaning": "Water moving through a thin skin towards the side that is saltier or sweeter.",
    "example": "Salt on a cucumber slice pulls water out of the slice.",
    "art": "A thin skin with fresh water on one side and salty water on the other, with arrows showing water moving towards the salt."
   },
@@ -187,7 +187,7 @@
    "concept": "The danger zone: how temperature changes the speed of growth",
    "status": "defined",
    "definition": "The danger zone is the range of temperature from about 5 to 60 degrees Celsius. In this range bacteria multiply fastest, and food should not stay there for long.",
-   "description": "Microbes are living beings, and they grow at the speed that suits them. Below about 5 degrees, as in a fridge, their growth slows down a great deal. At minus 18, in a freezer, it stops, but the microbes are not dead. They wake up when the food thaws. Above about 60 degrees, most bacteria cannot grow, and many die. In between, the warmer it is, the faster they multiply, and many harmful bacteria grow best close to the temperature of our own bodies, around 37 degrees. A kitchen in Chennai or Hyderabad in May can be 35 degrees, which is well inside the danger zone. This is why cooked food should be eaten within about two hours, or cooled quickly and put in the fridge. A big deep pot cools slowly, so food stays in the danger zone for a long time. A shallow, wide dish cools much faster.",
+   "description": "Microbes are living beings, and how fast they grow depends on the temperature. Below about 5 degrees, as in a fridge, their growth slows down a great deal. At minus 18, in a freezer, it stops, but the microbes are not dead. They wake up when the food thaws. Above about 60 degrees, most bacteria cannot grow, and many die. In between, the warmer it is, the faster they multiply, and many harmful bacteria grow best close to the temperature of our own bodies, around 37 degrees. A kitchen in Chennai or Hyderabad in May can be 35 degrees, which is well inside the danger zone. This is why cooked food should be eaten within about two hours, or cooled quickly and put in the fridge. A big deep pot cools slowly, so food stays in the danger zone for a long time. A shallow, wide dish cools much faster.",
    "examples": [
     "Idli batter rises quickly in the Madurai summer and slowly in a Delhi winter, because the microbes grow faster in warmth.",
     "A tiffin of curd rice packed warm and carried for five hours in a hot bag stays in the danger zone the whole time.",
@@ -216,7 +216,7 @@
    "description": "Skin has a thin film of oil, and microbes stick to it. Water alone slides over the oil and leaves much of it behind. A soap molecule has two ends. One end sticks into oil, and the other end sticks into water. When you rub soap on your hands, the oily ends grab onto the oil and the microbes, and the watery ends hold on to the rinse water, so the dirt is pulled off and carried away. The rubbing helps too, because it pulls the film and the microbes off the skin. For some microbes, the soap also breaks their outer coat of oil and kills them. Scientists recommend about 20 seconds of rubbing, including the backs of the hands, between the fingers, the thumbs and under the nails. Dry hands well afterwards, because wet hands pick up and pass on more microbes than dry hands.",
    "examples": [
     "Rinsing greasy hands with water alone leaves the grease behind. Soap lifts it off.",
-    "People who wash their hands with soap before eating and after using the toilet have less diarrhoea in many studies.",
+    "Many studies find that people who wash their hands with soap before eating and after using the toilet have less diarrhoea.",
     "Singing a short song twice, or counting to 20, is a way to scrub for long enough."
    ],
    "art": "A magnified drawing of a soap molecule with a water-loving head and an oil-loving tail, lifting a speck of oil with microbes off a fingertip.",
@@ -226,7 +226,7 @@
    "concept": "How salt, sugar and drying keep food safe",
    "status": "defined",
    "definition": "Microbes need water. Osmosis pulls water out of a microbe when the food around her is very salty or sweet, and drying removes the water altogether. So salted, sugary and dried foods keep for a long time.",
-   "description": "A microbe is a tiny cell wrapped in a thin skin. Water can pass through the skin, but salt and sugar cannot easily. When the food outside is very salty or sweet, water leaves the cell and moves towards the stronger salt or sugar. The cell shrivels, like a cucumber slice sprinkled with salt, and cannot grow. This is how lemon pickle, mango jam and honey keep for months or years. Honey has so little free water that most microbes cannot grow in it at all. Drying works the same way. Vadams, dried fish and flour keep because they have almost no water. But there are limits. A few microbes, such as some moulds, can grow in quite salty or sweet foods. A pickle with a wet spoon in it can grow mould, because the water dilutes the salt on the top. And salt fish that gets damp in the monsoon can spoil.",
+   "description": "A microbe is a tiny cell wrapped in a thin skin. Water can pass through the skin, but salt and sugar cannot easily. When the food outside is very salty or sweet, water leaves the cell and moves towards the stronger salt or sugar. The cell shrivels, like a cucumber slice sprinkled with salt, and cannot grow. This is how lemon pickle, mango jam and honey keep for months or years. Honey has so little free water that most microbes cannot grow in it at all. Drying works the same way. Vadams, dried fish and flour keep because they have almost no water. But there are limits. A few microbes, such as some moulds, can grow in quite salty or sweet foods. A pickle with a wet spoon in it can grow mould, because the water makes the top of the pickle less salty. And salt fish that gets damp in the monsoon can spoil.",
    "examples": [
     "Jaggery, honey and jam keep for a long time because their sugar holds the water tightly.",
     "Raisins and dried figs are fruit with the water taken out by the sun.",
@@ -243,7 +243,7 @@
    "examples": [
     "A packet of chips that lists oil and salt before potato says there is more oil than potato by weight.",
     "A packet of biscuits that says 'may contain groundnuts' warns families whose child is allergic.",
-    "Fresh paneer with a use by date should be eaten before that date, and thrown away if it is later."
+    "Fresh paneer with a use by date should be eaten before that date, and thrown away once the date has passed."
    ],
    "art": "A biscuit packet with arrows pointing to a green dot, the ingredient list, the date, the nutrition table and a licence number.",
    "perspectives": []
@@ -252,11 +252,11 @@
    "concept": "Finding the cause of an outbreak: who ate what",
    "status": "defined",
    "definition": "When many people fall ill after sharing food, scientists ask each person what they ate, and compare the fraction who fell ill among those who ate each food with the fraction among those who did not. The food with the biggest difference is the main suspect.",
-   "description": "Imagine a picnic where 22 people ate the same lunch and 9 fell ill the next day. You cannot smell the problem. So you write a table. For each food you count how many ate it and how many of them fell ill, and how many did not eat it and how many of them fell ill. The food everybody ate cannot be the answer, since it cannot explain why some did not get ill. A food that half the ill people and half the well people ate tells you nothing. The clue is a food where most of the eaters fell ill and very few of the non-eaters did. That is called a high attack rate among those who ate it, and a low one among those who did not. The table points to a suspect, but does not prove it. Scientists then test leftover food in a laboratory, ask when people ate and when they fell ill, and look for a way that microbes could have got in. This kind of detective work is how outbreaks at weddings, schools and restaurants are tracked down.",
+   "description": "Say 22 people ate the same lunch at a picnic, and 9 fell ill the next day. You cannot smell the problem. So you write a table. For each food you count how many people ate it, and how many of them fell ill. Then you count how many did not eat it, and how many of them fell ill. The food everybody ate cannot be the answer, since it cannot explain why some did not get ill. A food that half the ill people and half the well people ate tells you nothing. The clue is a food where most of the eaters fell ill and very few of the non-eaters did. That is called a high attack rate among those who ate it, and a low one among those who did not. The table points to a suspect, but does not prove it. Scientists then test leftover food in a laboratory, ask when people ate and when they fell ill, and look for a way that microbes could have got in. This kind of detective work is how outbreaks at weddings, schools and restaurants are tracked down.",
    "examples": [
     "At the picnic, 8 of 14 chutney eaters fell ill, and only 1 of 8 who did not eat it. Chutney is the suspect.",
     "The time between eating and falling ill, the incubation period, can point to the kind of microbe. A toxin can act within hours, while a bacterium may take a day or more.",
-    "If every guest ate the rice, rice cannot be told apart from the others by this method, and other clues are needed."
+    "If every guest ate the rice, this method cannot say whether the rice was the cause, and other clues are needed."
    ],
    "art": "A table with four foods down one side and four columns across for ate and ill, ate and well, did not eat and ill, did not eat and well, with ticks filled in.",
    "perspectives": []
@@ -281,7 +281,7 @@
    "description": "India has some of the most loved street food in the world, from pani puri in Delhi to bajji in Chennai and vada pav in Mumbai. Millions of people eat it every day, and many cooks have fed the same families for decades. Some street food is as safe as any kitchen. Some is not. The honest answer is that it depends on the vendor, the water, the ingredients and how the food is kept. The Food Safety and Standards Authority of India has a scheme to train vendors and to certify clean street food hubs. What matters most is how long the food sat, what water was used and how hands and utensils were washed.",
    "examples": [
     "Food fried in front of you in hot oil and eaten at once has had little time in the danger zone.",
-    "Cut fruit, chutneys, salads and water, which are not cooked, and may be made with unclean water, are the usual risks.",
+    "The usual risks are cut fruit, chutneys, salads and water. They are not cooked, and they may be made with unclean water.",
     "A busy stall, where food is cooked and sold quickly, may be safer than a quiet one where food sits."
    ],
    "art": "A busy street food stall with a vendor frying bajji in hot oil, a line of customers, and a bucket and a tap beside it.",
@@ -301,7 +301,7 @@
    ]
   },
   {
-   "concept": "Are food dates a law of nature? Best before and use by",
+   "concept": "How strictly should we follow food dates? Best before and use by",
    "status": "debated",
    "definition": "",
    "description": "Every packet in India shows a date. The dates are set by the maker, who tests how long the food is good if kept as the packet says. Best before is about quality, and use by is about safety. But how strictly should we follow them? Many people throw away food on the day of the date, though it may be perfectly good. Others eat food long after the date, and become ill. Scientists and food waste campaigners disagree about where the balance lies. The answer may depend on the food, on how it was kept, and on who is eating it.",
@@ -334,14 +334,14 @@
   },
   {
    "text": "Bacteria multiply fastest in warm, wet food that is rich in protein or starch. Cold slows them, and heat above about 60 degrees Celsius stops them.",
-   "evidence": "In laboratories, scientists grow bacteria at many temperatures and count them, and find the same pattern again and again. You can see a version of it with yeast in the glasses test."
+   "evidence": "In laboratories, scientists grow bacteria at many temperatures and count them, and find the same pattern again and again. You can see a version of it with yeast in the Yeast in Four Places test."
   },
   {
    "text": "Washing hands with soap and water lowers the risk of diarrhoea and other illnesses spread through food.",
    "evidence": "Trials in many countries, combined in large reviews, report that handwashing with soap lowers diarrhoea by roughly a quarter to a third."
   },
   {
-   "text": "Some toxins made by bacteria and moulds survive boiling, so cooking cannot undo food that has already gone wrong.",
+   "text": "Some toxins made by bacteria and moulds survive boiling, so cooking cannot make food safe once those toxins are in it.",
    "evidence": "Laboratory tests show that the toxins of Staphylococcus, the vomiting toxin of Bacillus cereus and aflatoxin stay in food after heating, and outbreaks have followed cooked food that was left warm."
   },
   {
@@ -423,7 +423,7 @@
    "hint": "Think about who knew what, who could have stopped it, and who would pay for a fix."
   },
   {
-   "q": "The table says 8 of 14 chutney eaters fell ill, and 1 of 8 non-eaters. Does that prove the chutney did it? What else would you want to know?",
+   "q": "In the story The Picnic Table, 8 of the 14 people who ate the chutney fell ill, and 1 of the 8 who did not eat it. Does that prove the chutney did it? What else would you want to know?",
    "kind": "deep",
    "hint": "Think about the one non-eater who fell ill, and what a laboratory could test."
   },
@@ -499,15 +499,15 @@
   "wrong_idea": "Many people thought only people who looked sick could pass on typhoid. Tracing the illness from home to home, and testing a cook who felt perfectly well, showed that a healthy carrier can spread it."
  },
  "roots": {
-  "context": "We have grown yeast, pressed fingers on potato and followed a picnic table to a bowl of chutney. Now we ask what these tiny beings tell us about harm, friendship and ourselves.",
+  "context": "In this unit you grew yeast in four glasses, pressed fingers onto potato slices, and read how a table of who ate what led to a bowl of chutney. This part asks what microbes show us about what 'harmful' means, and about ourselves.",
   "deep_truth": {
    "truth": "The same kind of microbe can live quietly in your gut and make you ill in your food. Whether a microbe harms us depends on where she is, how many there are, and who meets her. So 'harmful' describes a meeting, not a kind of microbe.",
    "habit": "We sort germs into good germs and bad germs, as if each microbe carried the label inside her. We also sort people into clean people and unclean people, though a healthy cook can carry typhoid.",
-   "evidence": "In the yeast test, the same yeast was useful in idli batter and a nuisance in a sugary drink. In the potato test, the microbes on a clean-looking finger did nothing on skin and grew into colonies on moist potato. E. coli lives in almost every gut, and only a few strains make people ill. If your results differ, write them as they are."
+   "evidence": "The yeast that foamed in sugary water in the Yeast in Four Places test is useful in idli batter and a nuisance in a sugary drink. In the Handprints on a Potato test, the microbes on a clean-looking finger did nothing on skin and grew into colonies on moist potato. E. coli lives in almost every gut, and only a few strains make people ill. If your results differ, write them as they are."
   },
   "three": {
    "who_am_i": "You carry about as many bacterial cells as you have cells of your own. Most of them help you digest, so you are a crowd of beings living together.",
-   "what_is_life": "A bacterium in a pot of warm dal is not trying to harm anyone. She eats and makes more of herself, as every living being does. We call it illness when her meal and our body meet.",
+   "what_is_life": "A bacterium in a pot of warm dal is not trying to harm anyone. She eats and makes more of herself, as every living being does. We fall ill when we eat the food she has been growing in.",
    "what_is_this_world": "A gut, a kitchen counter and a pond are all places where trillions of tiny beings meet. Who does well there depends on food, water and warmth."
   },
   "thread": "Your lunch is a meal for you and for a crowd of beings too small to see. In your gut, bacteria and you share the work of digesting it. In a dal left in the sun, bacteria eat without you. The beings are the same in both places. What changes is the place, the warmth, the numbers and who is eating. Keeping food safe is not a war on microbes. It is learning how to share a kitchen with them.",
@@ -515,7 +515,7 @@
    {
     "source": "Chandogya Upanishad 6.5",
     "teaching": "When food is eaten, it divides into three parts. The coarsest part leaves the body, the middle part builds the body, and the finest part builds the mind. Mind is made of food.",
-    "link": "The same food that becomes you can become a million microbes. Who the food becomes depends on who reaches it first, and how warm it is."
+    "link": "Food builds your body when you eat it. The same food builds a million microbes if they reach it first and it is kept warm."
    },
    {
     "source": "Quran 2:168",
@@ -662,7 +662,7 @@
      "mins": 5,
      "context": "In this step you draw the tally table and practise with the first four guests.",
      "do": "Draw the tally table with a row for each of the four foods. Take the first four guest cards. Make a mark for each food, in the right column of its row.",
-     "say": "Guest 1 ate only fruit chaat, and was ill. So in the fruit chaat row, we make a mark in the column for ate and ill. For each other food, Guest 1 did not eat it, and was ill, so we mark that column too.",
+     "say": "Guest 1 ate only fruit chaat, and was ill. So in the fruit chaat row, we make a mark in the column for ate and ill. Guest 1 did not eat any of the other three foods, and was ill. So in each of those three rows, we make a mark in the column for did not eat and ill.",
      "kid": "Draw the table. Do the first four guests. Mark every row for each guest.",
      "check": {
       "t": "mcq",
@@ -689,7 +689,7 @@
      "id": "s4",
      "mins": 6,
      "context": "In this step you work out the fractions for each food and name the suspect.",
-     "do": "For each food, write two fractions. The first is the ill ones among those who ate it. The second is the ill ones among those who did not. Circle the food with the biggest gap. Name your suspect.",
+     "do": "For each food, write two fractions. The first is how many of those who ate it were ill. The second is how many of those who did not eat it were ill. Circle the food with the biggest gap between the two. Name your suspect.",
      "say": "For each food, how many of those who ate it were ill? How many of those who did not eat it were ill? Which food has the biggest difference?",
      "kid": "Work out two fractions for each food. Circle the biggest gap. Name the suspect.",
      "check": {
@@ -790,7 +790,7 @@
        "b": "BIOLOGICAL. Microbes from the raw fish move onto the cucumber, which is not cooked afterwards. Use a different knife and board, or wash with soap and hot water in between."
       },
       {
-       "f": "A jar of lemon pickle, closed, taken from with a dry spoon.",
+       "f": "A closed jar of lemon pickle. The pickle is always taken out with a dry spoon.",
        "b": "SAFE. Salt, acid and oil leave microbes little water to use, and the dry spoon adds none."
       },
       {
@@ -845,7 +845,7 @@
    "rules": [
     "Shuffle the 20 cards. One player is the reader. The reader takes the top card and reads the front aloud, without showing the back.",
     "Everyone else puts a slip in the space they choose: biological, chemical, physical or safe. Then everyone turns their slip over together.",
-    "Each player says one thing a cook could do to fix the problem. The fix does not need to match the card. It only needs to make sense.",
+    "Each player says one thing a cook could do to fix the problem. The fix does not need to match the one on the back of the card. It only needs to make sense.",
     "The reader reads the back. A player who chose the right kind scores 2 points. A player with a sensible fix scores 1 more point.",
     "Pass the pile to the next reader after each card. The reader does not score on their own card.",
     "Play until every card is read. The player with the most points wins.",
@@ -895,7 +895,7 @@
      "mins": 7,
      "context": "In this step you play the other ten cards, and count the points.",
      "do": "Play the other ten cards in the same way. Add up each player's points.",
-     "say": "Another ten cards. Which kind of hazard is hardest to see? Which one is the easiest to fix?",
+     "say": "Now we play the other ten cards. Which kind of hazard is hardest to see? Which one is the easiest to fix?",
      "kid": "Play the other ten cards. Add up your points.",
      "check": {
       "t": "mcq",
@@ -928,10 +928,10 @@
    "title": "Yeast in Four Places: how does temperature change how fast microbes grow?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment, you divide a sugary yeast mixture between four glasses. You put them in a fridge, on a counter, in a warm-water bath, and one after heating it. Foam shows how fast the yeast grows.",
+   "context": "In this experiment, you divide a sugary yeast mixture between four glasses. You put one in a fridge, one on a counter and one in a warm-water bath. The fourth is heated first and then put on the counter. Foam shows how fast the yeast grows.",
    "question": "How do cold, room temperature, warmth and heat change how fast yeast grows in sugary water?",
    "predict": "Before you start, guess which glass will have the most foam after two hours, and which will have the least. Why do you think so?",
-   "fair_test": "All four glasses start with the same mixture, the same amount and the same glass. They stand on the same kind of surface, and you measure them at the same times. Only the temperature is different, so any difference in foam comes from the temperature.",
+   "fair_test": "All four glasses are the same kind of glass, and they start with the same mixture and the same amount. They stand on the same kind of surface, and you measure them at the same times. Only the temperature is different, so any difference in foam comes from the temperature.",
    "results_table": [
     "Time",
     "A: fridge (centimetres of foam)",
@@ -1005,7 +1005,7 @@
      "context": "This is the first step of the Yeast in Four Places test. You guess before you start.",
      "do": "Show your child the four glasses and the places they will go. Say that one glass will be heated first. Ask for a guess and a reason, and write it down.",
      "say": "The same yeast and the same sugar will go into four glasses. One goes in the fridge. One stays on the counter. One goes in a warm-water bath. One is heated first. Which will foam the most? Which the least? Why?",
-     "kid": "Four glasses of yeast. Fridge, counter, warm bath, heated. Which foams most? Why?",
+     "kid": "Four glasses of yeast go in four places: the fridge, the counter, a warm bath, and one that is heated first. Which will foam the most? Why?",
      "ask": [
       {
        "q": "Why do you think that glass will foam the most?",
@@ -1023,7 +1023,7 @@
      "mins": 12,
      "context": "In this step, you make the yeast mixture and fill the four glasses. A grown-up heats the mixture for glass D.",
      "do": "In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Right away, pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes. When D is lukewarm, stir the jug. Pour 200 millilitres into each of A, B and C. Now all four start together.",
-     "say": "This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so the heat will show what it does to the yeast. Never taste any of it.",
+     "say": "This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so we can see what heat does to the yeast. Never taste any of it.",
      "kid": "Stir sugar and yeast into warm water. Pour 200 millilitres into each glass. A grown-up heats D.",
      "adult": true,
      "check": {
@@ -1045,7 +1045,7 @@
      "context": "In this step, you put each glass in its place and mark the starting level.",
      "do": "Put a rubber band around each glass at the top of the liquid. Put A on a shelf in the fridge. Put B on the counter, in the shade. Stand C in a bowl of warm bath water. Put D on the counter next to B, once it is lukewarm. Write down the time.",
      "say": "Mark the top of the liquid with a rubber band. A goes in the fridge. B goes on the counter. C stands in a bowl of warm bath water. D sits beside B. Write down the time, so we know when to measure.",
-     "kid": "Mark the liquid level. A to the fridge. B on the counter. C in warm water. D beside B.",
+     "kid": "Mark the liquid level on each glass. Put A in the fridge, B on the counter, C in warm water and D beside B.",
      "parent": "Change the water in C's bowl for fresh warm bath water after an hour, since it cools. Check that D is lukewarm before it goes on the counter, so it starts like the others. Write the room temperature if you can. With 2 to 4 children, each child owns one glass: they label it, take it to its place, measure it and write its column. Two children can share a glass. With one child, the grown-up holds the ruler and the child does the writing."
     },
     {
@@ -1178,8 +1178,8 @@
      "mins": 5,
      "context": "This is the first step of the Handprints on a Potato test. You guess before you start.",
      "do": "Explain the four slices. A is not touched. B is touched with a dirty finger. C is touched after a quick rinse with water. D is touched after soap and 20 seconds of washing. Ask for a guess and a reason, and write it down.",
-     "say": "We will press a finger on each of four potato slices. Slice A is not touched. B gets a dirty finger. C gets a finger rinsed with water. D gets a finger washed with soap. Which will grow the most? Which the least? Why?",
-     "kid": "Four slices. Which grows most? Which grows least? Why do you think so?",
+     "say": "We have four potato slices. Slice A is not touched. B gets a dirty finger. C gets a finger rinsed with water. D gets a finger washed with soap. Which slice will grow the most spots of microbes? Which the least? Why?",
+     "kid": "There are four potato slices. One is not touched, one gets a dirty finger, one a rinsed finger and one a soapy finger. Which will grow the most spots? Which the least? Why do you think so?",
      "ask": [
       {
        "q": "Do you think a quick rinse is as good as soap? Why?",
@@ -1198,17 +1198,17 @@
      "context": "In this step, a grown-up boils the potato and cuts four slices. Boiling makes the slices almost free of microbes at the start.",
      "do": "Boil the potato for 15 minutes. Wash the knife and a plate in very hot water. Cut four slices, each about 1 centimetre thick. Use clean tongs to put each slice into its own bag. Do not touch the slices. Label the bags A, B, C and D, and leave them open.",
      "say": "Boiling kills most of the microbes in the potato. So the slices start clean. If anything grows, it must have come from the air, or from the finger. We use tongs, so our hands do not touch the slices.",
-     "kid": "A grown-up boils the potato. Slice it with a clean knife. Use tongs. Do not touch.",
+     "kid": "A grown-up boils the potato and slices it with a clean knife. Use tongs to move the slices. Do not touch them.",
      "adult": true,
      "parent": "Let the slices cool for a few minutes before you put them in the bags. Do not wipe the slices or the knife with a cloth. Wash the knife and plate in very hot water and let them air dry. Write A to D on the bags with the marker."
     },
     {
      "id": "s3",
      "mins": 13,
-     "context": "In this step, you press the fingers on the slices and seal the bags. Each finger is cleaned in a different way.",
+     "context": "In this step, you press the same finger onto slices B, C and D, and seal the bags. The finger is cleaned in a different way each time.",
      "do": "Slice A: open and close the bag without touching the slice. Slice B: rub your finger on the sole of a shoe for 10 seconds. Press it on slice B for 5 seconds. Slice C: rub your finger on the shoe again. Rinse it under the tap for 5 seconds and dry it on a clean cloth. Press it on slice C. Slice D: rub your finger on the shoe again. Wash it with soap for 20 seconds, rinse and dry it. Press it on slice D. Seal each bag and put tape across the seal.",
      "say": "We use the same finger every time. First it gets dirty again, and then it is cleaned in a different way. B is not cleaned at all. C is a quick rinse. D is soap for twenty seconds. Press for five seconds each. Then seal and tape the bag.",
-     "kid": "Dirty your finger. Clean it in a different way for each slice. Press for 5 seconds. Seal.",
+     "kid": "Dirty your finger. Clean it in a different way for each slice. Press it on the slice for 5 seconds. Seal the bag.",
      "check": {
       "t": "mcq",
       "q": "Slice A is not touched by a finger, but its bag is opened and closed. Why do we do that?",
@@ -1218,7 +1218,7 @@
        "To give the slice a rest"
       ],
       "a": 0,
-      "why": "Slice A shows how much grows on a clean slice in the same bag. If A also has spots, we know some microbes came from the air or the bag, and we can tell what the fingers added."
+      "why": "Slice A shows how much grows on a slice that no finger touched, in the same kind of bag. If A also has spots, we know some microbes came from the air or the bag, and we can tell what the fingers added."
      },
      "parent": "Use the same finger of the same hand each time. A child's dry fingers pick up less than a damp or sticky finger, so rub the finger on the shoe each time for the same time. Wash your own hands after this step. With 2 to 4 children: one child does the whole set of four bags, or two children each do a full set of four (8 bags) and compare. Do not split one set between children, because then the finger is different as well. The others are the timer (counts the 20 seconds), the recorder and the artist who draws the bags on day 7."
     },
@@ -1259,10 +1259,10 @@
    "title": "Salt Pulls Water Out: what a pickle does to a cucumber slice",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment, you sprinkle salt on some cucumber slices, sugar on others, and nothing on the rest. You find out which pulls out the most water, as a pickle does to a microbe.",
+   "context": "In this experiment, you sprinkle salt on some cucumber slices, sugar on others, and nothing on the rest. You find out which pulls out the most water. The salt in a pickle pulls water out of a microbe in the same way.",
    "question": "Which pulls more water out of a cucumber slice in an hour: a teaspoon of salt, a teaspoon of sugar, or nothing?",
    "predict": "Before you start, guess which plate will have the most liquid after an hour, and which the least. Why do you think so?",
-   "fair_test": "All the slices come from one cucumber, cut to the same thickness. Each plate holds four slices in one layer and sits tilted the same way. You use one level teaspoon of salt or sugar. Only the sprinkle is different, so any difference comes from the sprinkle.",
+   "fair_test": "All the slices come from one cucumber, cut to the same thickness. Each plate holds four slices in one layer and sits tilted the same way. You use one level teaspoon of salt or sugar. Only what is sprinkled on the slices is different, so any difference comes from that.",
    "results_table": [
     "Plate and what is sprinkled",
     "Liquid at 30 minutes (teaspoons)",
@@ -1334,7 +1334,7 @@
      "context": "This is the first step of the Salt Pulls Water Out test. You guess before you start.",
      "do": "Show your child the cucumber, the salt and the sugar. Ask for a guess and a reason, and write it down.",
      "say": "We will sprinkle salt on some cucumber slices and sugar on others, and leave some plain. After an hour, which plate will have the most liquid? Why?",
-     "kid": "Salt, sugar or nothing on cucumber. Which gets the most liquid? Why?",
+     "kid": "Cucumber slices get salt, sugar or nothing. Which plate will have the most liquid? Why?",
      "ask": [
       {
        "q": "Why do you think that plate will have the most liquid?",
@@ -1359,7 +1359,7 @@
       "t": "mcq",
       "q": "Why must all the cucumber slices be the same thickness?",
       "options": [
-       "So that only the sprinkle is different",
+       "So that only what is sprinkled on them is different",
        "So that they look tidy",
        "So that the plates are heavier"
       ],
@@ -1372,18 +1372,18 @@
      "mins": 4,
      "context": "In this step, you sprinkle the salt and the sugar, and tilt the plates so the liquid runs to one edge.",
      "do": "Label the plates plain, salt and sugar. Sprinkle a level teaspoon of salt over the slices on the salt plate. Sprinkle a level teaspoon of sugar over the sugar plate. Put nothing on the plain plate. Tilt each plate a little with a folded cloth. Write the time.",
-     "say": "Salt on one plate, sugar on another, nothing on the third. Tilt them a little so that any liquid runs to one corner. Write down the time. We look again in thirty minutes.",
-     "kid": "Salt on one. Sugar on one. Nothing on one. Tilt the plates. Write the time.",
+     "say": "Sprinkle salt on one plate and sugar on another, and leave the third plain. Tilt them a little so that any liquid runs to one corner. Write down the time. We look again in thirty minutes.",
+     "kid": "Put salt on one plate, sugar on one, and nothing on one. Tilt the plates. Write the time.",
      "parent": "Tilt all three plates the same amount, on the same side. Spread the salt and sugar evenly over the slices, so that every slice gets some. With 2 to 4 children, each child looks after one plate (plain, salt, sugar) and a fourth child is the timekeeper and recorder. With one child, the grown-up spoons the liquid while the child counts and bends the slices."
     },
     {
      "id": "s4",
      "mins": 12,
      "context": "In this step, you measure the liquid at 30 minutes and 60 minutes, and bend a slice from each plate.",
-     "do": "At 30 minutes, spoon up the liquid at the low edge of each plate with the teaspoon. Count the teaspoons, or write a few drops or half a teaspoon. Do the same at 60 minutes. Lift one slice from each plate, and bend it gently. Write down whether it bends easily or snaps.",
+     "do": "At 30 minutes, spoon up the liquid at the low edge of each plate with the teaspoon. Count the teaspoons. If there is less than one, write 'a few drops' or 'half a teaspoon'. Do the same at 60 minutes. Lift one slice from each plate, and bend it gently. Write down whether it bends easily or snaps.",
      "say": "How much liquid is at the low edge of each plate? Count the teaspoons. Now bend a slice. Is it stiff, or floppy? Which plate has the floppiest slices?",
-     "kid": "Spoon up the liquid. Count the teaspoons. Bend a slice. Stiff or floppy?",
-     "wait": "Wait 30 minutes, then another 30 minutes, between looks.",
+     "kid": "Spoon up the liquid. Count the teaspoons. Bend a slice. Is it stiff or floppy?",
+     "wait": "Wait 30 minutes before the first measurement, then another 30 minutes before the second.",
      "parent": "Typical: by 60 minutes the salt plate has gathered roughly half to one and a half teaspoons of liquid and its slices bend limply. The sugar plate gathers less, and the liquid is sticky. The plain plate has only a few drops, and its slices stay stiff. Exact numbers differ with the cucumber, the slice thickness and the room. If there is hardly any liquid, wait to 90 minutes. The order, salt then sugar then plain, is more reliable than the amounts. Salt draws more water than the same weight of sugar because the grains are smaller and there are more of them in a teaspoon."
     },
     {
@@ -1570,7 +1570,7 @@
      "what": "Prepare the three samples. A grown-up adds the iodine. Watch the colours. Talk about what the test can and cannot tell us."
     }
    ],
-   "safety": "Tincture of iodine is poisonous if swallowed and it stains clothes and skin, it hurts if it gets in the eyes, and it catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap. Wear old clothes, because iodine stains. Only the grown-up touches the bottle, and iodine goes only on the saucers, never on skin or on food that will be eaten.",
+   "safety": "Tincture of iodine is poisonous if swallowed. It stains clothes and skin, and it hurts if it gets in the eyes. It catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap. Wear old clothes, because iodine stains. Only the grown-up touches the bottle, and iodine goes only on the saucers, never on skin or on food that will be eaten.",
    "record": "A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Draw the three saucers with their colours.",
    "setup": [
     {
@@ -1593,7 +1593,7 @@
      "context": "This is the first step of Starch Detective. You guess before you test.",
      "do": "Show your child the three saucers. Ask for a guess about the colour in each one after iodine is added. Write down the guesses.",
      "say": "The iodine is brown. We will add two drops to each saucer. Will the colour change? Which saucers will change, and why?",
-     "kid": "Three saucers. Will the iodine change colour? Which ones? Why?",
+     "kid": "Iodine will go on three saucers. Will it change colour? On which saucers? Why?",
      "ask": [
       {
        "q": "Which saucer do you think will change colour, and why?",
@@ -1695,7 +1695,7 @@
      "id": "s1",
      "mins": 7,
      "context": "This is the first step of the Fridge Shelf Puzzle. You draw the fridge and make the food cards.",
-     "do": "Draw a fridge with a freezer on top, three shelves, a drawer at the bottom and a door. Write one food on each of 12 cards. The foods are raw fish in a covered box, cooked dal, cut papaya and curd. Then milk, washed vegetables, a sealed jar of lemon pickle and boiled eggs. Then leftover rice, idli batter, a sealed jar of jam and cut coconut.",
+     "do": "Draw a fridge with a freezer on top, three shelves, a drawer at the bottom and a door. Write one food on each of 12 cards. The 12 foods are: raw fish in a covered box, cooked dal, cut papaya, curd, milk, washed vegetables, a sealed jar of lemon pickle, boiled eggs, leftover rice, idli batter, a sealed jar of jam and cut coconut.",
      "say": "Here is a fridge, and here are twelve foods. Where would you put each one, and why? Some may not need to go in a fridge at all.",
      "kid": "Draw a fridge. Make 12 food cards. Guess where each one goes.",
      "parent": "No fridge at home? Draw one anyway, and also draw a cool, shaded corner of the kitchen. The puzzle is about reasons, not about the fridge. In a vegetarian home, the raw fish card can be a picture on the card only, or be swapped for raw eggs in a tray. It stands for any raw meat that drips."
@@ -1711,21 +1711,21 @@
       "t": "mcq",
       "q": "Raw fish is kept in a covered box on the bottom shelf of the fridge. Why the bottom shelf?",
       "options": [
-       "So that juices cannot drip onto food below",
+       "So that its juices cannot drip onto other food",
        "Because the bottom shelf is the coldest everywhere",
        "Because fish likes the dark"
       ],
       "a": 0,
       "why": "Raw fish and meat carry bacteria. If they were on a high shelf, juice could drip onto cooked food or fruit below, and nothing would kill those bacteria. The bottom shelf, in a covered box, keeps the drips away from everything else."
      },
-     "parent": "A good plan: raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya in covered containers on the middle shelves. Curd and milk covered. Vegetables in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once opened. Idli batter in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where the key puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue."
+     "parent": "A good plan: raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya in covered containers on the middle shelves. Curd and milk covered. Vegetables in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once opened. Idli batter in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where this plan puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue."
     },
     {
      "id": "s3",
      "mins": 5,
      "context": "This is the last step of the Fridge Shelf Puzzle. You think about homes without a fridge.",
      "do": "Ask the questions below and listen to each answer.",
-     "say": "Many families do not have a fridge. How could they keep food safe on a hot day? What could they cook only as much as they need? What could they dry, pickle, or boil twice?",
+     "say": "Many families do not have a fridge. How could they keep food safe on a hot day? Could they cook only as much as they need? What could they dry, pickle, or boil twice?",
      "kid": "How can a home without a fridge keep food safe?",
      "ask": [
       {
@@ -1913,7 +1913,7 @@
      "context": "This is the first step of the Curd Lab. You guess before you start.",
      "do": "Show your child the four cups and what goes in each. Ask for a guess about which cup will set first, which will not set at all, and why. Write down the guesses.",
      "say": "Cup 1 gets no starter. Cup 2 gets a teaspoon of curd. Cup 3 gets a tablespoon. Cup 4 gets a teaspoon, but goes in the fridge. Which will turn to curd first? Which will not? Why?",
-     "kid": "Four cups of milk. Which becomes curd first? Which never does? Why?",
+     "kid": "There are four cups of milk. Which will become curd first? Which never will? Why?",
      "ask": [
       {
        "q": "Why do you think a spoon of curd can turn a cup of milk into curd?",
@@ -1962,7 +1962,7 @@
      "context": "In this step, you check the cups the next morning to see which ones have set.",
      "do": "After 6 to 12 hours, tilt each cup gently. Write down whether the milk has set into a block, is thick, or is still liquid. Do not stir, and do not taste cup 1.",
      "say": "Tilt each cup a little. Has it set? Is it thick? Is it still milk? Which cup is ahead?",
-     "kid": "Tilt each cup gently. Set, thick or runny? Write it down.",
+     "kid": "Tilt each cup gently. Is the milk set, thick or runny? Write it down.",
      "wait": "Leave the cups for 6 to 12 hours before the first check.",
      "parent": "Typical in a warm kitchen at about 30 degrees: cup 3 sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day. These times are typical, not promised. If nothing has set in cup 3 after 24 hours, the milk was probably too hot when the starter went in, or the starter was old. Say so, and try again with fresh curd."
     },
@@ -1997,7 +1997,7 @@
    "problem": "Build a box that keeps ice frozen for as long as possible on a warm kitchen counter. The box that gives the least meltwater after one hour wins.",
    "constraints": [
     "Use only things from home, and no ice pack bought for the purpose.",
-    "Start with three ice cubes from the same tray, of the same size, taken out at the same moment. Use the same kind of dabba in every box, and the same plain box as a comparison.",
+    "Start with three ice cubes from the same tray, of the same size, taken out at the same moment. Use the same kind of dabba for every design. Use one more dabba of the same kind, with no wrapping, as a plain box to compare.",
     "Close the box with a lid, a plate or a cloth.",
     "Leave every box on the same counter for exactly one hour, then measure the meltwater. If even the best box has lost all its ice, repeat with bigger ice: freeze water overnight in a small katori and use one block in each box."
    ],
@@ -2039,7 +2039,7 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of the Keep the Ice challenge. You plan your design.",
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two box designs and to guess which will melt the least.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two box designs and to guess which box will have the least meltwater.",
      "say": "Heat flows from the warm kitchen into the cold ice. How could you slow it down? Sketch two ideas, and guess which one will keep the most ice.",
      "kid": "Read the problem. Sketch two boxes. Guess which keeps more ice.",
      "ask": [
@@ -2068,8 +2068,8 @@
      "mins": 20,
      "context": "This is the last step of the Keep the Ice challenge. You measure the meltwater, change one thing and think about real lunch boxes.",
      "do": "After one hour, pour the water from each box into the measuring cup. Write it down. Change one thing in your design and try again if you have time. Ask the question below.",
-     "say": "How much water is in each box? Which box melted the least? What did you change? Does the same trick work for a lunch box with curd rice in it?",
-     "kid": "Measure the water. Which melted least? Why?",
+     "say": "How much water is in each box? Which box had the least meltwater? What did you change? Does the same trick work for a lunch box with curd rice in it?",
+     "kid": "Measure the water in each box. Which box had the least? Why?",
      "check": {
       "t": "mcq",
       "q": "A lunch box with a frozen water bottle inside stays cool for hours. Why is this good for curd rice on a hot day?",
@@ -2099,7 +2099,7 @@
    "materials": [
     "a sheet of paper and a pencil",
     "the cards from the Bio, Chemical or Stone game (optional)",
-    "the Temperature Strip from earlier (optional)"
+    "the strip you drew in the Temperature Strip activity (optional)"
    ],
    "general": [
     "Dry snacks such as murukku, roasted chana or puffed rice in closed tins.",
@@ -2132,7 +2132,7 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of the Safe Stall challenge. You choose your four foods.",
-     "do": "Read the problem together. Look at the constraints. Ask your child to choose four foods and to write a reason each will be safe.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to choose four foods and to write why each one will be safe.",
      "say": "It is April, and the stall is open for five hours without a fridge. Which foods will stay safe? Which will not? Why?",
      "kid": "Read the problem. Choose four foods that stay safe all day. Why?",
      "ask": [
@@ -2151,7 +2151,7 @@
      "mins": 15,
      "context": "In this step, you write how each food stays safe, and one rule for the helpers.",
      "do": "For each food, write how it is kept safe: dry, salty, sour, hot or cold. Write one rule for the helpers about hands, covering or temperature. Say what water you will use.",
-     "say": "For each food, how does it stay safe? Dry? Salty? Hot? Cold? Covered? Then write one rule for your helpers.",
+     "say": "For each food, how does it stay safe? Is it dry, salty, hot, cold or covered? Then write one rule for your helpers.",
      "kid": "Write how each food stays safe. Write one helper rule.",
      "check": {
       "t": "mcq",
@@ -2162,7 +2162,7 @@
        "Curd rice in a steel dabba"
       ],
       "a": 0,
-      "why": "Roasted chana is dry, so microbes have no water to grow. Cut papaya and curd rice are wet, and they sit in the danger zone, where bacteria multiply quickly."
+      "why": "Roasted chana is dry. Microbes have no water there, so they cannot grow. Cut papaya and curd rice are wet, and they sit in the danger zone, where bacteria multiply quickly."
      }
     },
     {
@@ -2198,11 +2198,11 @@
     },
     {
      "t": "mcq",
-     "p": "Why is a normal smell not a safe test for whether food is safe to eat?",
+     "p": "Why can you not tell that food is safe just because it smells normal?",
      "opts": [
       "Many harmful bacteria do not change the smell or taste",
       "Only dirty food has a smell",
-      "Nose and tongue cannot tell sweet from sour"
+      "The nose and tongue cannot tell sweet from sour"
      ],
      "a": 0,
      "outcome": 1,
@@ -2372,9 +2372,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw the table you would use to find which food made guests ill at a party. Show four foods and four columns, and circle how you would spot the suspect.",
+     "p": "Draw the table you would use to find which food made guests ill at a party. Show four foods and four columns, and write how you would spot the suspect.",
      "art": "A blank page for a table.",
-     "a": "A table with a row for each of four foods and four columns: ate and ill, ate and well, did not eat and ill, did not eat and well. The suspect row is circled where most eaters were ill and few non-eaters were.",
+     "a": "A table with a row for each of four foods and four columns: ate and ill, ate and well, did not eat and ill, did not eat and well. The suspect is the food where most eaters were ill and few non-eaters were.",
      "why": "A strong drawing has all four columns and says that the suspect is the food with a high fraction ill among eaters and a low fraction among non-eaters."
     },
     {
@@ -2382,17 +2382,17 @@
      "p": "Two children in Pune are talking about the pani puri seller at the end of their lane.",
      "views": [
       {
-       "who": "Sneha, aged 9",
+       "who": "First child",
        "says": "Street food is never safe. We should only eat at home."
       },
       {
-       "who": "Imran, aged 10",
+       "who": "Second child",
        "says": "Food cooked hot in front of you and eaten at once can be safer than food that has sat in a pot all day."
       }
      ],
      "ask": "Which child do you agree with? What would you want to know about the stall? Then say one thing the other child has right.",
      "lines": 5,
-     "a": "A strong answer says that it depends on the stall. Imran is right that hot food eaten at once has little time in the danger zone, and Sneha is right that water, chutney and cut fruit can be risks. It names things to look for, such as clean water, hot cooking and a busy stall.",
+     "a": "A strong answer says that it depends on the stall. The second child is right that hot food eaten at once has little time in the danger zone, and the first child is right that water, chutney and cut fruit can be risks. It names things to look for, such as clean water, hot cooking and a busy stall.",
      "why": "This is a debated question. A strong answer uses what we know about time, temperature and water, and does not say that all street food is safe or unsafe."
     },
     {
@@ -2511,7 +2511,7 @@
       ],
       [
        "A wet spoon in a pickle jar",
-       "mould can grow where water dilutes the salt"
+       "mould can grow where water makes the pickle less salty"
       ],
       [
        "Rice left out overnight and reheated",
@@ -2616,17 +2616,17 @@
      "p": "Two children are looking at a packet of dry biscuits one week after its best before date.",
      "views": [
       {
-       "who": "Kavitha, aged 9",
+       "who": "First child",
        "says": "Throw them away on the date. It is better to be safe than sorry."
       },
       {
-       "who": "Rohan, aged 10",
+       "who": "Second child",
        "says": "Dry biscuits a week after the date are usually fine, and throwing them away wastes food."
       }
      ],
      "ask": "Which child do you agree with? What would you check before you decide? Then say one thing the other child has right.",
      "lines": 5,
-     "a": "A strong answer says that dry biscuits are low risk, because microbes need water, and that best before is about quality. It would check that the packet is closed, dry and has no mould or strange smell. Kavitha is right to be more careful with foods that spoil easily and with food for babies.",
+     "a": "A strong answer says that dry biscuits are low risk, because microbes need water, and that best before is about quality. It would check that the packet is closed, dry and has no mould or strange smell. The first child is right to be more careful with foods that spoil easily and with food for babies.",
      "why": "This is a debated question. A strong answer separates dry foods from foods that spoil quickly, and uses what we know about water and microbes."
     }
    ]
@@ -2667,7 +2667,7 @@
      ],
      "a": 2,
      "outcome": 2,
-     "why": "4 hours is 8 half-hours, so the number doubles 8 times. 2 times itself 8 times is 256. Picking 8 means adding one for each half-hour instead of doubling."
+     "why": "4 hours is 8 half-hours, so the number doubles 8 times. Starting from 1 and doubling 8 times gives 256. An answer of 8 comes from adding one for each half-hour instead of doubling."
     },
     {
      "t": "mcq",
@@ -2813,18 +2813,18 @@
      "p": "Two children are looking at boiled rice that was cooked yesterday and has been in the fridge all night.",
      "views": [
       {
-       "who": "Gita, aged 9",
+       "who": "First child",
        "says": "It was in the fridge all night, so it is fine to eat. The cold stops the bacteria."
       },
       {
-       "who": "Murali, aged 10",
+       "who": "Second child",
        "says": "The cold only slows them down. If the rice sat out for hours before it went in, the toxin may already be there."
       }
      ],
      "ask": "Which child do you agree with? What would you want to know about how the rice was kept? Then say one thing the other child has right.",
      "lines": 5,
-     "a": "A strong answer says that it depends on how long the rice sat warm before it went into the fridge. Murali is right that cold slows bacteria but does not kill them or remove a toxin. Gita is right that rice cooled quickly and kept cold is much safer.",
-     "why": "This is a question where both children have part of it. A strong answer asks for the time and temperature before the fridge."
+     "a": "A strong answer says that it depends on how long the rice sat warm before it went into the fridge. The second child is right that cold slows bacteria but does not kill them or remove a toxin. The first child is right that rice cooled quickly and kept cold is much safer.",
+     "why": "Both children are partly right. A strong answer asks for the time and temperature before the fridge."
     }
    ]
   }
@@ -2860,7 +2860,7 @@
    "opts": [
     "Cold slows the microbes but does not kill them",
     "Cold removes the water from food",
-    "Cold makes the microbes asleep for ever"
+    "Cold puts the microbes to sleep for ever"
    ],
    "a": 0,
    "outcome": 2,
@@ -2924,7 +2924,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "A use by date is about safety on foods that spoil easily. Boiling does not remove toxins. A date is not a guess, but a limit."
+   "why": "A use by date is about safety on foods that spoil easily. Boiling does not remove toxins. A use by date is a limit, not a guess."
   },
   {
    "t": "mcq",
@@ -2954,7 +2954,7 @@
    "t": "mcq",
    "p": "How can a cook who feels well still pass typhoid on to others?",
    "opts": [
-    "She can be a carrier, and her hands pass the bacteria into food if not washed well",
+    "She can be a carrier, and her hands pass the bacteria into food if she does not wash them well",
     "She cannot, because only ill people spread illness",
     "Only by coughing on the food"
    ],
@@ -2989,7 +2989,7 @@
    "channel": "U.S. Food and Drug Administration",
    "youtube": "EeJwvAdJ-JU",
    "mins": 4,
-   "why": "To see a real who-ate-what investigation, like the picnic table.",
+   "why": "To see a real who-ate-what investigation, like the one in the story The Picnic Table.",
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
@@ -3116,8 +3116,8 @@
    "a": "I wish I had met you earlier."
   },
   {
-   "j": "Why did the bacterium refuse to join the picnic?",
-   "a": "She heard the food was in the danger zone, and she liked the risk."
+   "j": "Why did the bacterium refuse to leave the picnic?",
+   "a": "She heard the food was in the danger zone, and she liked it there."
   },
   {
    "j": "Why did the label say sugar first?",
@@ -3130,7 +3130,7 @@
  ],
  "maths": [
   {
-   "problem": "At a birthday party in Hyderabad, 10 guests ate fruit chaat and 8 of them were ill. 6 guests did not eat the chaat and 1 of them was ill. Write each as a fraction. Then write each as a percentage, to the nearest 10. Which is bigger?",
+   "problem": "At a birthday party in Hyderabad, 10 guests ate fruit chaat and 8 of them were ill. 6 guests did not eat the chaat and 1 of them was ill. For each group, write the guests who were ill as a fraction. Then write each fraction as a percentage, to the nearest 10. Which is bigger?",
    "answer": "8 out of 10 is 80 percent. 1 out of 6 is about 20 percent. The chaat eaters were ill much more often.",
    "explain": "8 out of 10 is 80 out of 100, which is 80 percent. 1 out of 6 is a little less than 17 out of 100, which is about 20 percent to the nearest 10. 80 is much bigger than 20, so the chaat is a strong suspect.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3157,7 +3157,7 @@
    "why_maths": "Working out how long food stays in the danger zone shows why a shallow dish is a better way to cool food."
   },
   {
-   "problem": "After 60 minutes, the salted cucumber slices gave 2 teaspoons of liquid. The plain slices gave 1 millilitre. A teaspoon holds about 5 millilitres. How many millilitres did the salted plate give? How many times as much is that as the plain plate?",
+   "problem": "In a Salt Pulls Water Out test, the salted cucumber slices gave 2 teaspoons of liquid after 60 minutes. The plain slices gave 1 millilitre. A teaspoon holds about 5 millilitres. How many millilitres did the salted plate give? How many times as much is that as the plain plate?",
    "answer": "10 millilitres, which is 10 times as much.",
    "explain": "2 teaspoons of 5 millilitres each is 2 times 5, which is 10 millilitres. 10 divided by 1 is 10, so the salted plate gave 10 times as much.",
    "math_unit": "math.weight-capacity.capacity.L4",

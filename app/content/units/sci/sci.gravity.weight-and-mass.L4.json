@@ -143,7 +143,7 @@
    "concept": "A balance compares, so it works anywhere",
    "status": "defined",
    "definition": "A two-pan balance compares two masses. When the pans are level, the two masses are equal. It gives the same answer on the Earth, on the Moon and in a lift.",
-   "description": "On each pan, gravity pulls down on whatever is there. The pull on the left pan and the pull on the right pan are both made by the same world, so they change together. If the two masses are equal, the two pulls are equal at any place. If the pulls were six times smaller on the Moon, both would be six times smaller, and the pans would still be level. So a balance does not measure gravity at all. It measures how much stuff, which is mass. The mango and the 300-gram weight would balance on the Moon too. This is the way that shops have weighed things for thousands of years.",
+   "description": "On each pan, gravity pulls down on whatever is there. The pull on the left pan and the pull on the right pan are both made by the same world, so they change together. If the two masses are equal, the two pulls are equal at any place. If the pulls were six times smaller on the Moon, both would be six times smaller, and the pans would still be level. So a balance does not measure gravity at all. It measures how much stuff there is, which is mass. The mango and the 300-gram weight would balance on the Moon too. This is the way that shops have weighed things for thousands of years.",
    "examples": [
     "A shopkeeper's tarazu, a two-pan balance with iron weights, gives the same answer in Kochi, on a mountain, or on the Moon.",
     "A kilo of rice balances a kilo of iron on a balance anywhere, even though the rice takes up about ten times more room.",
@@ -182,7 +182,7 @@
    "concept": "How strongly a world pulls: newtons for each kilogram",
    "status": "defined",
    "definition": "The pull of a world on each kilogram is its strength of gravity, in newtons for each kilogram. On Earth it is about 9.8.",
-   "description": "On Earth, a mass of 1 kilogram has a weight of about 9.8 newtons. On the Moon it is about 1.6. On Mars it is about 3.7. On Venus it is about 8.9. At the cloud tops of Jupiter it is about 25. At the surface of the Sun it is about 274. These numbers depend on the mass of the world and on how far you are from its centre. The same number tells how fast a falling thing speeds up each second. Earth's 9.8 newtons for each kilogram goes with 9.8 metres per second more each second. Strong worlds pull hard and speed things up fast.",
+   "description": "On Earth, a mass of 1 kilogram has a weight of about 9.8 newtons. On the Moon it is about 1.6. On Mars it is about 3.7. On Venus it is about 8.9. At the cloud tops of Jupiter it is about 25. At the surface of the Sun it is about 274. These numbers depend on the mass of the world and on how far you are from its centre. The same number tells how fast a falling thing speeds up each second. On Earth, where the pull is 9.8 newtons for each kilogram, a falling thing gets 9.8 metres per second faster every second. Strong worlds pull hard and speed things up fast.",
    "examples": [
     "On the Moon, a bag of 1 kilogram weighs 1.6 newtons. On Earth it would take only about 160 grams to weigh that much.",
     "On Mars, the pull is about 3.7 newtons for each kilogram, a bit more than a third of Earth's.",
@@ -298,7 +298,7 @@
   {
    "concept": "Big G: the number scientists cannot agree on",
    "status": "debated",
-   "definition": "Big G is the number in Newton's rule for gravity that sets how strongly any two masses pull each other. It is the least well known of the main constants.",
+   "definition": "Big G is the number in Newton's rule for gravity that sets how strongly any two masses pull each other. Physics has a few main fixed numbers, called constants, and big G is the one known least exactly.",
    "description": "Henry Cavendish's experiment can be redone with better tools. Laboratories around the world have measured big G, and their answers differ slightly, by more than the errors they claim. We know G to about 4 or 5 digits. Many other constants are known to eight or nine digits or more. Nobody knows why G is so hard to pin down. Gravity is extremely weak, so tiny stray pulls from nearby objects, from the weather, even from the people moving in the building, can spoil a measurement.",
    "examples": [
     "Some other constants are known to nine digits or more. Big G is known to only about five.",
@@ -376,7 +376,7 @@
   {
    "claim": "The Earth is solid rock all the way through.",
    "who": "Many people, before the 1700s.",
-   "for": "Every rock we can dig up is rock, and the surface looks like rock everywhere.",
+   "for": "Wherever we dig, we find rock, and the surface looks like rock everywhere.",
    "against": "The Earth's average density, found by Cavendish in 1798, is about 5.4 times that of water. Surface rock is only about 2.7 times. So the inside must be much denser. Earthquake waves later showed an iron core, with a solid inner core found by Inge Lehmann in 1936.",
    "status": "rejected"
   },
@@ -407,7 +407,7 @@
   {
    "q": "In a sealed bottle, the mass stays the same even when gas appears from nothing you can see. What does that tell you about gas?",
    "kind": "deep",
-   "hint": "Think about what gas is made of, and what happened when you opened the cap."
+   "hint": "Think about what gas is made of, and why the mass of the bottle drops when the cap is opened."
   },
   {
    "q": "A tree is built mostly from air and water. Where does a tree end and the air begin?",
@@ -463,7 +463,7 @@
   "epiphany": "Before you trust a scale, weigh something you already know, such as a litre of water. A balance only compares one mass with another, so it gives the same answer anywhere. A scale that turns a push into grams has to be checked.",
   "ask": [
    "Why did Zainaba weigh a litre of water on Mr Joseph's scale, instead of the pepper?",
-   "Why did she put an empty bottle in the left pan, beside the iron weight?",
+   "Why did Zainaba put an empty bottle in the left pan, beside the iron weight?",
    "Why would Ummamma's balance give the same answer on the Moon, but Mr Joseph's scale would not?",
    "How could you check a kitchen scale at home without any weights?"
   ],
@@ -673,7 +673,7 @@
     "A right pick scores 1 point. A player who also says why in one sentence, using mass, weight, pull or push, scores 1 more point.",
     "The reader turns over the card and reads the back to check. Then the next player becomes the reader.",
     "After every third card, the reader picks a world card and says a mass, for example 10 kilograms. Everyone works out the weight on that world, by multiplying the mass by the number on the back of the world card. The right answer scores 2 points.",
-    "Play until all 24 cards are used. The most points wins. If you play alone, play both parts and try to beat 40 points."
+    "Play until all 24 cards are used. The most points wins. If you play alone, be both the reader and the player, and try to beat 40 points."
    ],
    "flow": [
     {
@@ -690,7 +690,7 @@
      "mins": 4,
      "do": "Play a practice turn with the card about the two-pan balance. Place tokens, turn them over together, and read the back.",
      "say": "Practice turn. A balance shows a mango level with a 300-gram weight. On the Moon, will the pans still be level? Why?",
-     "kid": "A balance on the Moon. Same, or different? Why?",
+     "kid": "A balance shows a mango level with a 300-gram weight. On the Moon, would it be the same or different? Why?",
      "check": {
       "t": "mcq",
       "q": "A balance shows a mango level with a 300-gram weight. On the Moon, what will the pans do?",
@@ -700,7 +700,7 @@
        "Float up, because there is no air"
       ],
       "a": 0,
-      "why": "Both pans lose the same fraction of their pull, so they stay level. Picking the second answer forgets that the weight is pulled less too."
+      "why": "Both pans lose the same fraction of their pull, so they stay level. Saying the pans tip towards the weight forgets that the weight is pulled less too."
      },
      "context": "In this step, you play a practice turn and learn how to pick a token."
     },
@@ -725,7 +725,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Look at the world cards together. Pick one and a mass, and work out the weight. Check with the next world card.",
+     "do": "Look at the world cards together. Pick one world card and a mass, and work out the weight. Then do the same with the next world card.",
      "say": "Pick a world and a mass. Multiply the mass by the number on the back of the world card. What do you get?",
      "kid": "Pick a world. Pick a mass. Multiply to find the weight.",
      "check": {
@@ -830,7 +830,7 @@
      "mins": 4,
      "do": "Show your child the band, the cup, the ruler and the water. Ask for a guess and a reason. Write both down at the top of the table.",
      "say": "We will hang a cup from a rubber band, and add water to it. 100 grams of water stretches the band a little. What will 300 grams do? And 500 grams? Why do you think so?",
-     "kid": "A rubber band and a cup of water. How far will 300 grams stretch it? Why?",
+     "kid": "You will hang a cup of water from a rubber band. If 100 grams stretches the band by 1 centimetre, how far will 300 grams stretch it? Why?",
      "ask": [
       {
        "q": "Why do you think it will stretch that far?",
@@ -869,7 +869,7 @@
      "mins": 13,
      "do": "Pour 100 millilitres of water into the cup, slowly so it does not bounce. Wait 10 seconds. Read the pointer. Write it. Repeat with another 100 millilitres, up to 500 millilitres in all. Work out the stretch each time by taking away the first reading.",
      "say": "Add 100 millilitres. Wait for ten seconds. Read the pointer. Do you think the next 100 will stretch it the same amount?",
-     "kid": "Add 100 millilitres. Wait. Read. Write the number. Do it five times.",
+     "kid": "Add 100 millilitres of water. Wait 10 seconds. Read the pointer and write the number. Do this five times.",
      "parent": "Each 100 millilitres of water has a mass of about 100 grams. A medium band typically stretches somewhere between 0.5 and 2 centimetres for each 100 grams, and bands differ a lot, so your numbers will not match ours. A thin band stretches much more, so stop earlier. If the first 100 grams moves the pointer by less than 3 millimetres, the band is too stiff, so use a thinner one. The band can also creep for a while, which is why we wait. Do not worry if the steps are not exactly equal.",
      "check": {
       "t": "mcq",
@@ -893,7 +893,7 @@
      "parent": "If the dots lie on a straight line through zero, then twice the load gives twice the stretch. That is Hooke's law. A rubber band often bends a little, because rubber is softer at first and stiffer later. Both results are real. A steel spring gives a straighter line.",
      "check": {
       "t": "mcq",
-      "q": "A straight line through the zero mark means what?",
+      "q": "What does a straight line through the zero mark mean?",
       "options": [
        "Twice the load gives twice the stretch",
        "The band has broken",
@@ -907,7 +907,7 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Empty the cup. Guess the mass of the first unknown thing and write the guess. Then put it in the cup, and wait 10 seconds. Read the stretch. On the graph, go along from that stretch to the line, then down to the grams. Write the mass. Do the same for the other two, and check them on a kitchen scale or with a printed pack mass. Then say what I think, what I saw, and why.",
+     "do": "Empty the cup. Guess the mass of the first unknown thing and write the guess. Then put it in the cup, and wait 10 seconds. Read the stretch. On the graph, go along from that stretch to the line, then down to the grams. Write the mass. Do the same for the other two, and check them on a kitchen scale or against the mass printed on a pack. Then ask your child to say what they think, what they saw, and why.",
      "say": "Now use your scale. Put a lemon in the cup. How much does the band stretch? Use your graph to find its mass. Then check on a kitchen scale.",
      "kid": "Put a lemon in the cup. Read the stretch. Use the graph to find its mass.",
      "parent": "A good answer sounds like this. What I think: a band can work as a scale if you calibrate it with known masses. What I saw: 100 grams stretched it by 1 centimetre, and the lemon stretched it by 0.8 centimetres, so I read about 80 grams from the graph. Why: the stretch depends on the pull, so the same pull gives the same stretch. Your answers may be 10 to 20 grams out. That is normal for a rubber band.",
@@ -996,7 +996,7 @@
      "mins": 3,
      "do": "Show your child the three shapes drawn on paper. Ask them to mark with a dot where each will balance on a pencil tip, and why.",
      "say": "Here are three shapes: a blob, a crescent and a ring. Where would each one balance on the tip of a pencil? Put a dot. Why there?",
-     "kid": "Three shapes. Where does each one balance? Put a dot. Why there?",
+     "kid": "Here are three shapes: a blob, a crescent and a ring. Where would each one balance on a pencil tip? Put a dot. Why there?",
      "ask": [
       {
        "q": "Why did you put the dot there?",
@@ -1025,7 +1025,7 @@
      "mins": 8,
      "do": "Hang the blob from one hole on the pin. Hang the plumb line from the same pin. Wait until both are still. Put a dot on the shape's edge where the thread crosses it. Take the shape off, and draw a line from the hole to the dot. Do this for the other two holes.",
      "say": "Hang the blob from one hole. Hang the thread beside it. When both are still, mark where the thread crosses the edge. Draw a line from the hole to the mark.",
-     "kid": "Hang the blob. Hang the thread. Wait. Mark the edge. Draw a line.",
+     "kid": "Hang the blob and the thread from the pin. Wait until both are still. Mark where the thread crosses the edge, and draw a line from the hole to the mark.",
      "parent": "The thread must hang in front of the shape, touching it lightly. The lines from the three holes should cross at one place, or make a tiny triangle. The centre of gravity is in the middle of the tiny triangle. Now try to balance the blob on the eraser end of a pencil at that spot.",
      "check": {
       "t": "mcq",
@@ -1045,7 +1045,7 @@
      "mins": 8,
      "do": "Do the same with the crescent, then with the ring. Draw at least two lines on each, using two or three holes. Then lay each shape on paper and trace round it. Use a ruler to extend the lines past the edges.",
      "say": "Now hang the crescent. Where do you think the lines will cross? Now the ring. Where will its lines cross? Draw them and see.",
-     "kid": "Hang the crescent and the ring. Draw their lines. Extend them on paper.",
+     "kid": "Hang the crescent and the ring. Draw their lines. Then trace each shape on paper and extend the lines past the edges.",
      "parent": "For the ring, the lines cross in the middle of the hole. For the crescent, they cross in the air, in the hollow of the curve. If you draw only two lines, check with a third. Tracing on paper lets you see lines continue past the edge of the cardboard.",
      "check": {
       "t": "mcq",
@@ -1065,8 +1065,8 @@
      "mins": 4,
      "do": "Try balancing each shape on a pencil tip or eraser at its crossing point. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Balance each shape. Then say what I think, what I saw, and why.",
-     "parent": "The blob balances on the pencil at the crossing point. Balancing on an eraser is fiddly and may take several tries. The crossing lines are the real result, so do not worry if the shape keeps sliding off. The ring and the crescent cannot, since the point is in the air. You can balance the ring across a finger or a pencil laid under its middle, or show that it rests level on a thread stretched across the hole. A good answer sounds like this. What I think: the centre of gravity is where the plumb lines cross, and it may not be on the shape. What I saw: for the ring and the crescent, the lines crossed where there was no cardboard. Why: gravity pulls on every part, and the pulls add up to one pull at a point.",
+     "kid": "Try to balance each shape at its crossing point. Then say what you think, what you saw, and why.",
+     "parent": "The blob balances on the pencil at the crossing point. Balancing on an eraser is fiddly and may take several tries. The crossing lines are the real result, so do not worry if the shape keeps sliding off. The ring and the crescent cannot balance on a pencil, because their crossing point is in the air. You can balance the ring across a finger or a pencil laid under its middle, or show that it rests level on a thread stretched across the hole. A good answer sounds like this. What I think: the centre of gravity is where the plumb lines cross, and it may not be on the shape. What I saw: for the ring and the crescent, the lines crossed where there was no cardboard. Why: gravity pulls on every part, and the pulls add up to one pull at a point.",
      "context": "In this step, you test the balance points and explain what you found."
     }
    ]
@@ -1120,7 +1120,7 @@
      "qty": 1
     }
    ],
-   "safety": "Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bath water should be warm, not hot. Never use a glass jar or a thin bag for the fizz. Keep the scale dry.",
+   "safety": "Baking soda and vinegar are kitchen ingredients, but vinegar stings the eyes, so keep your face away. A grown-up does the closed bottle part. Use only a strong fizzy-drink bottle, and only 1 teaspoon of baking soda in it, because the gas makes pressure. Swirl the bottle gently and do not shake it hard. Wear glasses, point the cap away from every face and open it slowly over the sink. The bowl of water for melting the ice should be warm, not hot. Never use a glass jar or a thin bag for the fizz. Keep the scale dry.",
    "schedule": [
     {
      "day": 1,
@@ -1149,8 +1149,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the scale and all the things. Ask for a guess and a reason for each test. The tests are sugar in water, melting ice and fizzing. Write the guesses down.",
-     "say": "We will weigh things before and after they change. Sugar in water. Ice melting. A bottle fizzing. Will the mass stay the same, go down or go up? Why do you think so?",
-     "kid": "Sugar in water. Melting ice. A fizzing bottle. Does the mass change? Why?",
+     "say": "We will weigh things before and after they change: sugar dissolving in water, ice melting, and a bottle fizzing. Will the mass stay the same, go down or go up? Why do you think so?",
+     "kid": "You will weigh sugar in water, melting ice and a fizzing bottle, before and after they change. Will the mass stay the same, go down or go up? Why?",
      "ask": [
       {
        "q": "Why do you think the mass will change, or stay the same?",
@@ -1234,7 +1234,7 @@
      "parent": "The mass should typically drop by about 2 to 4 grams as the carbon dioxide gas escapes into the air. It depends on your vinegar, and some gas stays dissolved in the liquid. If it drops by only 1 gram, the vinegar is weak or old, so use fresh vinegar. If you press zero before adding the baking soda, the scale will show the minus change directly. Keep the tumbler on the scale all the time. The foam may rise up the sides, so leave room in the tumbler.",
      "check": {
       "t": "mcq",
-      "q": "In the open cup, the mass went down by 3 grams. Where did the 3 grams go?",
+      "q": "Baking soda fizzed in an open cup of vinegar, and the mass went down by 3 grams. Where did the 3 grams go?",
       "options": [
        "Into carbon dioxide gas that floated away into the air",
        "They disappeared",
@@ -1250,7 +1250,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say what I think, what I saw, and why.",
+     "kid": "Say what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: mass is not lost when things dissolve, melt or fizz, but it can move into gas that escapes. What I saw: the sugar water, the sealed bag and the closed bottle all kept their mass, but the open cup lost about 3 grams. Why: in the open cup the gas left, and gas has mass.",
      "context": "In this step, you explain what happened, using what you think, what you saw, and why."
     }
@@ -1295,7 +1295,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Build the balance and make it level. Weigh a tomato against water. Then make the arms unequal and use the swap trick."
+     "what": "Build the balance and make it level. Weigh a tomato against water. Then make the arms unequal, weigh the tomato on each side, and average the two answers. This is the swap trick."
     }
    ],
    "record": "Draw your balance. Write the mass you found for the tomato, and the mass on the kitchen scale. Write the two answers from the swap trick and their average.",
@@ -1320,7 +1320,7 @@
      "mins": 4,
      "do": "Show your child the ruler, the cups, the water and a tomato. Ask how many millilitres of water they think will balance the tomato, and why. Write the guess down.",
      "say": "We are going to build a balance. A tomato goes in one cup and water goes in the other. How much water will balance the tomato? Why do you think so?",
-     "kid": "A tomato in one cup. Water in the other. How much water will balance it?",
+     "kid": "A tomato goes in one cup and water goes in the other. How much water will balance the tomato?",
      "ask": [
       {
        "q": "Why do you think it will take that much?",
@@ -1359,7 +1359,7 @@
      "mins": 10,
      "do": "Put the tomato in the left cup. Pour water into the right cup, a little at a time, from the measuring cup. Stop when the ruler is level. Add up the water you poured. Check the tomato on the kitchen scale.",
      "say": "Put the tomato in one cup. Pour water into the other, a little at a time, until the ruler is level. How much water balanced the tomato?",
-     "kid": "Tomato in one cup. Pour water in the other until it is level. How much?",
+     "kid": "Put the tomato in one cup. Pour water into the other cup until the ruler is level. How much water did it take?",
      "parent": "Pour 10 millilitres at a time near the end. The water in millilitres is the tomato's mass in grams. Your answer should be within about 10 grams of the kitchen scale. A tomato is mostly water, so it makes a good test.",
      "check": {
       "t": "mcq",
@@ -1377,7 +1377,7 @@
     {
      "id": "a1s4",
      "mins": 9,
-     "do": "Now cheat. Slide the middle thread about 2 centimetres towards the left end, so the arms are unequal. Level the empty balance again with a little tape or a coin on the light side. Then balance the tomato in the left cup with water in the right cup. Write the water. Then swap them: the tomato in the right cup and water in the left. Write the water again. Add the two answers and halve.",
+     "do": "Now make the balance cheat. Slide the middle thread about 2 centimetres towards the left end, so the arms are unequal. Level the empty balance again with a little tape or a coin on the light side. Then balance the tomato in the left cup with water in the right cup. Write how much water it took. Then swap them: the tomato in the right cup and water in the left. Write how much water it took this time. Add the two answers and halve the total.",
      "say": "Now we make a cheating balance. The arms are unequal. Weigh the tomato once on each side. Do the two answers agree? Which one is right?",
      "kid": "Make the arms unequal. Weigh the tomato on the left. Swap sides. Weigh again.",
      "parent": "The two answers will be quite different, for example 90 and 150 millilitres. The true answer is between them. The average of the two, here 120, is close to the real mass. A shopkeeper who cheats with unequal arms is caught by swapping the pans. A fair balance gives the same answer both ways.",
@@ -1466,7 +1466,7 @@
      "id": "a2s2",
      "mins": 6,
      "do": "Pour 160 millilitres of water into the small bottle or bag. This pulls on your hand like 1 kilogram on the Moon. Hold it, then hold the 1-litre bottle again. Repeat with 380 millilitres for Mars and 900 millilitres for Venus. Then one person shuts their eyes, and another hands over the Moon, Mars and Venus bags in a mixed order. Can they sort them from lightest to heaviest by feel?",
-     "say": "A bag of 160 millilitres of water is how a 1-kilogram bottle would feel on the Moon. Hold it. Then Mars, 380 millilitres. Then Venus, 900 millilitres.",
+     "say": "A bag of 160 millilitres of water is how a 1-kilogram bottle would feel on the Moon. Hold it. Then hold 380 millilitres for Mars, and 900 millilitres for Venus.",
      "kid": "Make a Moon bag, a Mars bag and a Venus bag. Hold each one.",
      "parent": "The numbers come from the pull of each world: Moon 1.6, Mars 3.7, Venus 8.9 newtons for each kilogram, and Earth 9.8. Divide each by 9.8 to get the fraction of a kilogram. The bag does not have less matter. It is pulled less. The empty bottle adds about 20 to 30 grams, which is small enough to ignore. With 2 to 4 children, one fills the bags and the others sort them blind, then swap. One child with a parent: the parent hands over the bags.",
      "check": {
@@ -1582,7 +1582,7 @@
      "mins": 6,
      "do": "Multiply length by width by height to get the volume in cubic metres. Then multiply the volume by 1.2 to get the mass of the air in kilograms. Write the answer.",
      "say": "Length times width times height is the volume of the room. Each cubic metre of air has a mass of about 1.2 kilograms. So how much does the air in this room weigh?",
-     "kid": "Length times width times height. Then times 1.2. How many kilograms?",
+     "kid": "Multiply the length by the width by the height. Then multiply by 1.2. How many kilograms of air is that?",
      "parent": "For a 3 by 4 by 2.7 room, the volume is 32.4 cubic metres, and the air has a mass of about 39 kilograms. That is as much as a child of ten or eleven. A classroom can hold a few hundred kilograms of air.",
      "check": {
       "t": "mcq",
@@ -1604,7 +1604,7 @@
      "say": "The air in this room has about the mass of a child. And above every square metre of ground, the air has a mass of about ten tonnes. Why are we not squashed flat?",
      "kid": "The air has mass. Above every square metre is about 10 tonnes of air. Why are we not squashed?",
      "parent": "A good answer sounds like this. The air presses on us from all sides, and the fluids inside our bodies push back with the same pressure, so we are not squashed. Atmospheric scientists estimate that a small fair-weather cloud holds about 500 tonnes of water, which is reported to be about the mass of 100 elephants.",
-     "think": "Air pushes on you from every side, and also pushes from inside your body. What does that do to the push?",
+     "think": "Air pushes on you from every side, and your body pushes back from inside. What happens when the two pushes are equal?",
      "context": "In this step, you compare the air's mass with familiar things."
     },
     {
@@ -1613,7 +1613,7 @@
      "do": "Optional, if you have a football and a pump. Let the ball go flat, put it in a bowl on the scale, and write the mass. Pump it hard until it is firm, about 30 strokes. Put it back in the same bowl and write the new mass. Take away the first number.",
      "say": "Air has mass, and we can catch some of it. Weigh the flat ball. Pump it full of air. Weigh it again. How many grams of air did we pump in?",
      "kid": "Weigh a flat ball. Pump it up. Weigh it again. How much more?",
-     "parent": "A football typically gains about 3 to 6 grams, and a volleyball less. A scale that reads whole grams shows this only roughly, so pump 30 more strokes and see if the number grows. If nothing changes, the ball leaked or the scale rounds too much. Say so honestly, and trust the room sum instead. Roles: one child pumps, one weighs, one writes.",
+     "parent": "A football typically gains about 3 to 6 grams, and a volleyball less. A scale that reads whole grams shows this only roughly, so pump 30 more strokes and see if the number grows. If nothing changes, the ball leaked or the scale rounds too much. Say so honestly, and trust the answer you worked out for the room instead. Roles: one child pumps, one weighs, one writes.",
      "context": "In this step, you weigh a ball before and after pumping air into it, to see air itself add mass."
     }
    ]
@@ -1675,8 +1675,8 @@
      "id": "a4s1",
      "mins": 5,
      "do": "Fill each jar to the top with a different thing: cotton wool, flour, rice and salt. Shake gently so they settle and add more. Put on the lids. Ask your child to guess the order from the least to the most mass. Write it down.",
-     "say": "Four jars of the same size. One has cotton, one flour, one rice and one salt. Which has the most mass? Which has the least? Put them in order before you test.",
-     "kid": "Four jars. Cotton, flour, rice, salt. Guess the order, least to most mass.",
+     "say": "Here are four jars of the same size. One has cotton, one flour, one rice and one salt. Which has the most mass? Which has the least? Put them in order before you test.",
+     "kid": "Four jars hold cotton, flour, rice and salt. Guess the order, from the least mass to the most.",
      "ask": [
       {
        "q": "Why did you put them in that order?",
@@ -1687,7 +1687,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Roles: one child fills a jar each, and one lifts with eyes shut. With 2 to 4 children, each fills one jar and the others sort the jars blind. One child with a parent: the parent hands over the jars. The rice, the salt and the flour will be quite different. Typical masses for a 300 millilitre jar are about 10 grams for cotton, 150 grams for flour, 230 grams for rice and 350 grams for salt, but your jars will differ.",
+     "parent": "Do not correct the guess. Roles: one child fills the jars, and one lifts them with eyes shut. With 2 to 4 children, each fills one jar and the others sort the jars blind. One child with a parent: the parent hands over the jars. The rice, the salt and the flour will be quite different. Typical masses for a 300 millilitre jar are about 10 grams for cotton, 150 grams for flour, 230 grams for rice and 350 grams for salt, but your jars will differ.",
      "context": "This is the first step of Heavy for Its Size. You guess before you test."
     },
     {
@@ -1695,7 +1695,7 @@
      "mins": 7,
      "do": "Lift two jars at a time, one in each hand, with your eyes shut. Say which feels heavier. Sort the four jars from the lightest to the heaviest by feel.",
      "say": "Close your eyes. Lift two jars, one in each hand. Which feels heavier? Put them in order by feel.",
-     "kid": "Eyes shut. Lift two jars. Which is heavier? Put all four in order.",
+     "kid": "Shut your eyes. Lift two jars, one in each hand. Which is heavier? Put all four in order.",
      "parent": "Closing the eyes stops colour or size from affecting the guess. Lift each jar by the lid so the hand feels only its pull. Switch hands if it is hard to tell.",
      "context": "In this step, you sort the four jars by feel."
     },
@@ -1723,7 +1723,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say what I think, what I saw, and why.",
+     "kid": "Say what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: the same amount of space can hold very different amounts of mass. What I saw: the cotton jar had 10 grams and the salt jar had 350 grams. Why: salt grains pack a lot of matter into the same space, and cotton is mostly air.",
      "think": "A jar of salt has about 35 times the mass of a jar of cotton. How many times as much matter is in the salt jar?",
      "context": "In this step, you explain what happened, using what you think, what you saw, and why."
@@ -1798,7 +1798,7 @@
      "what": "Weigh both dried soils and the dried seedlings. Compare with the start and with each other."
     }
    ],
-   "record": "A table with these lines: dry soil at the start, dry seeds at the start, fresh seedlings at the end, dried seedlings at the end, dried soil at the end in the seed pot, dried soil at the end in the comparison pot. Then write what changed and what did not.",
+   "record": "Make a table with these rows: dry soil at the start, dry seeds at the start, fresh seedlings at the end, dried seedlings at the end, dried soil at the end in the seed pot, dried soil at the end in the comparison pot. Then write what changed and what did not.",
    "context": "In this project, you weigh a pot of soil, grow seedlings in it with only water, and weigh everything again. You find where the mass of a plant comes from, as Jan van Helmont tried to do about 400 years ago.",
    "setup": [
     {
@@ -1877,11 +1877,11 @@
     {
      "id": "p1s5",
      "mins": 7,
-     "do": "Weigh the dried soil from each pot and write the numbers. Weigh the dried seedlings and write the number. Compare the two soils with each other and with the 200 grams at the start. Then say what I think, what I saw, and why.",
+     "do": "Weigh the dried soil from each pot and write the numbers. Weigh the dried seedlings and write the number. Compare the two soils with each other and with the 200 grams at the start. Then ask your child to say what they think, what they saw, and why.",
      "say": "Weigh the dried soil from both pots. Is it still about 200 grams, and is the seed pot lighter than the other? Weigh the dried seedlings. What do you notice?",
      "kid": "Weigh the dried soil and the dried seedlings. Compare with the start.",
      "parent": "Expect the two dried soils to be within about 3 grams of each other. If both are well above 200 grams, they are still damp, so dry them one more day. The dried seedlings will probably show 0 or 1 gram, about the same as the dry seeds, because a young seedling lives on the food stored inside the seed. A kitchen scale reading in whole grams cannot show the gain in dry mass, which needs weeks of leaves and a finer scale, so do not claim too much. A good answer sounds like this. What I think: the plants did not get their mass from the soil. What I saw: the seed pot soil weighed about the same as the comparison soil, while the seedlings weighed many grams fresh. Why: the fresh mass is mostly water, and the soil did not give up mass to make it.",
-     "think": "Van Helmont thought it was all water. Today we know a plant's dry mass is built mostly from carbon dioxide in the air. How could you test that?",
+     "think": "Van Helmont thought all of the tree's mass came from water. Today we know a plant's dry mass is built mostly from carbon dioxide in the air. How could you test that?",
      "context": "In this step, you weigh the dried soil and seedlings and compare them with the start."
     }
    ]
@@ -1905,8 +1905,8 @@
     "a notebook and a pencil"
    ],
    "general": [
-    "Move each box a little further out than the one below it, by the same step each time. Keep going until the stack is about to fall, and step back one.",
-    "Find the furthest step that a single box can move out before it falls, and then build the stack from that idea.",
+    "Move each box a little further out than the one below it, by the same step each time. Keep going until the stack is about to fall, then move back one step.",
+    "Find how far a single box can stick out before it falls. Then use that to plan the whole stack.",
     "Put one big heavy thing on the back of the stack, on the table, to hold it down."
    ],
    "creative": [
@@ -1937,7 +1937,7 @@
      "mins": 5,
      "do": "Read the problem together. Ask your child to guess how many box lengths the top box can stick out with 8 boxes. Write the guess.",
      "say": "You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Half a box? A whole box? Why do you think so?",
-     "kid": "Eight boxes and a table. How far can the top box stick out? Guess.",
+     "kid": "You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1965,7 +1965,7 @@
      "mins": 8,
      "do": "Look at the top box alone. Ask how far it can stick out over the box below. Test it. Then add the second box, and test how far the top two together can stick out over the third box. Write the answers.",
      "say": "The top box on its own can stick out half its length. The top two boxes together can stick out a quarter more. Test it. What is the pattern?",
-     "kid": "Test the top box. Then the top two. How far can each stick out?",
+     "kid": "Test how far the top box can stick out. Then test the top two boxes together.",
      "parent": "For the top two boxes together, the centre of gravity of the pair lies halfway along them. They can stick out a quarter of a box length over the third box. Then the top three can stick out a sixth over the fourth, and so on. The steps are a half, a quarter, a sixth, an eighth.",
      "check": {
       "t": "mcq",
@@ -1985,7 +1985,7 @@
      "mins": 10,
      "do": "Build the stack from the top down. Use steps of a half, a quarter, a sixth, an eighth and so on, of a box length. Measure the total overhang in box lengths. Compare it with your first stack.",
      "say": "Now use the pattern. Build from the top down. The top box sticks out a half. The next step is a quarter, then a sixth. How far does the whole stack stick out now?",
-     "kid": "Build from the top down. Steps of a half, a quarter, a sixth. Measure again.",
+     "kid": "Build from the top down, with steps of a half, a quarter and a sixth of a box length. Measure the overhang again.",
      "parent": "With 8 boxes, the total overhang is half of (1 plus one half plus one third plus one quarter plus one fifth plus one sixth plus one seventh plus one eighth). That is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.",
      "check": {
       "t": "mcq",
@@ -2005,7 +2005,7 @@
      "mins": 4,
      "do": "Compare the stacks. Ask where the centre of gravity of the whole stack lies, and why the stack does not fall.",
      "say": "Which stack stuck out the furthest? Where is the centre of gravity of the whole stack? Why does it not fall?",
-     "kid": "Which stack won? Where is its centre of gravity? Why does it stay up?",
+     "kid": "Which stack stuck out the furthest? Where is its centre of gravity? Why does it stay up?",
      "parent": "The centre of gravity of the whole stack must lie over the table. The overhang looks as if it should fall, but the boxes on the table side hold the balance. A good answer is that the whole stack, taken as one thing, has its centre of gravity above the table.",
      "context": "In this step, you compare your stacks and explain why they stay up."
     }
@@ -2089,7 +2089,7 @@
   },
   {
    "t": "mcq",
-   "p": "A child has a mass of 20 kilograms. On Mars the pull is 3.7 newtons for each kilogram. What is her weight there?",
+   "p": "A child has a mass of 20 kilograms. On Mars the pull is 3.7 newtons for each kilogram. What is the child's weight there?",
    "opts": [
     "74 newtons",
     "20 newtons",
@@ -2127,17 +2127,17 @@
    "t": "mcq",
    "p": "A bus with luggage piled on its roof topples more easily on a sharp bend than an empty bus. Why?",
    "opts": [
-    "The luggage raises the centre of gravity, so a smaller tilt takes its line outside the wheels",
+    "The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels",
     "The luggage makes the bus weigh less",
     "The luggage pushes the bus off the road"
    ],
    "a": 0,
-   "why": "The higher the centre of gravity, the sooner the line down from it leaves the base. Low, wide and heavy-at-the-bottom is stable.",
+   "why": "The higher the centre of gravity, the sooner the line down from it leaves the base. A thing that is low, wide and heavy at the bottom is stable.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same fizz is done in an open cup. What is the result?",
+   "p": "A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same mixture fizzes in an open cup, weighed before and after. What is the result?",
    "opts": [
     "The sealed bottle keeps its mass, and the open cup loses some, as gas floats away",
     "Both keep their mass exactly",
@@ -2189,7 +2189,7 @@
    "opts": [
     "Check both against a known mass, such as a litre of water",
     "Trust the homemade scale, because you made it",
-    "Trust the shiny one, because it was dearer"
+    "Trust the shiny one, because it cost more"
    ],
    "a": 0,
    "why": "Before you trust any scale, weigh something you already know. The one that disagrees with the known mass needs fixing.",
@@ -2427,7 +2427,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at the graph of Aarav's rubber band. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?",
+     "p": "Look at the graph of a rubber band's stretch. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?",
      "opts": [
       "The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before",
       "The band is broken",
@@ -2437,7 +2437,7 @@
      "why": "For a perfect spring, every 100 grams would add the same stretch. These steps grow, so the dots curve upwards. Rubber bands often behave like this, which is why you must calibrate them.",
      "chart": {
       "type": "line",
-      "title": "Aarav's rubber band",
+      "title": "A rubber band's stretch",
       "x": "Load (grams)",
       "y": "Stretch (centimetres)",
       "data": [
@@ -2685,7 +2685,7 @@
      "t": "mcq",
      "p": "A lorry piled high with sacks is more likely to topple on a sharp bend than the same lorry with the sacks low. Why?",
      "opts": [
-      "The high load raises the centre of gravity, so a smaller tilt takes its line outside the wheels",
+      "The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels",
       "The sacks are heavier when they are high",
       "The wheels grip less when the load is high"
      ],
@@ -2784,7 +2784,7 @@
     },
     {
      "t": "write",
-     "p": "The air in a room is 4 metres long, 5 metres wide and 3 metres high. A cubic metre of air has a mass of about 1.2 kilograms. What is the mass of the air in the room? Show your working.",
+     "p": "A room is 4 metres long, 5 metres wide and 3 metres high. A cubic metre of air has a mass of about 1.2 kilograms. What is the mass of the air in the room? Show your working.",
      "lines": 4,
      "a": "The volume is 4 times 5 times 3, which is 60 cubic metres. 60 times 1.2 is 72 kilograms. The air in the room has a mass of about 72 kilograms, about as much as a grown-up.",
      "why": "A strong answer works out the volume first, then multiplies by 1.2, and compares the answer with something familiar.",
@@ -2809,7 +2809,7 @@
      ],
      "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another person has right.",
      "lines": 6,
-     "a": "A strong answer picks a side and gives a reason. For example, it might agree with Selvi: any scale can go wrong, and a known mass checks it, as the litre of water showed in the story. It admits Lakshmi's point that a balance only compares masses and so does not depend on a battery or on the pull of the world, and Ravi's point that a digital scale is quick.",
+     "a": "A strong answer picks a side and gives a reason. For example, it might agree with Selvi: any scale can go wrong, and a known mass checks it, as the litre of water showed in the story The Litre of Water in the Spice Market. It admits Lakshmi's point that a balance only compares masses and so does not depend on a battery or on the pull of the world, and Ravi's point that a digital scale is quick.",
      "why": "There is a real choice here. A strong answer uses the idea of calibration and the difference between comparing and sensing a push or pull, and is fair to the other views.",
      "outcome": 1
     },
@@ -2858,7 +2858,7 @@
     },
     {
      "t": "mcq",
-     "p": "A student weighs a candle before and after burning it for ten minutes in an open room and finds it lighter. Which is the best explanation?",
+     "p": "A candle is weighed before and after it burns for ten minutes in an open room. It is lighter afterwards. Which is the best explanation?",
      "opts": [
       "The wax turned into carbon dioxide and water vapour, which floated away",
       "The candle lost its weight into the flame as heat",
@@ -2878,7 +2878,7 @@
   "ISRO engineers balance a rocket so that its centre of gravity stays on the line of its engines' push, and they weigh every part.",
   "Ships carry heavy ballast low in the hull, to keep the centre of gravity low and the ship from rolling over.",
   "Gymnasts, tightrope walkers and high jumpers move their bodies to control where their centre of gravity is.",
-  "Geologists use tiny changes in the pull of gravity to find heavy ore under the ground and light caves.",
+  "Geologists use tiny changes in the pull of gravity to find heavy ore and hollow caves under the ground.",
   "Jewellers and pharmacists use balances that can weigh thousandths of a gram, by comparing with very small standard masses.",
   "Bathroom and kitchen scales use strain gauges to sense a push, and show kilograms by assuming the Earth's pull.",
   "Weighbridges at toll plazas use strain gauges to weigh whole lorries, so overloaded ones do not damage roads and bridges."
@@ -2924,7 +2924,7 @@
   },
   {
    "q": "How heavy is a neutrino, the lightest known particle with mass?",
-   "why_open": "Experiments show it has a mass, but only a limit on how big it can be. Nobody has measured the exact number."
+   "why_open": "Experiments show it has a mass, but they give only an upper limit on how big that mass can be. Nobody has measured the exact number."
   },
   {
    "q": "What is the Earth's core made of, besides iron and nickel?",
@@ -2946,7 +2946,7 @@
  "ask_kids": [
   "If a shopkeeper's balance would work on the Moon, why would our bathroom scale not?",
   "Where do you think the balance point of a spoon is? How could we find out?",
-  "Why is it easier to carry a heavy bag with one in each hand than with two in one hand?",
+  "Why is it easier to carry two heavy bags with one in each hand than with both in one hand?",
   "How much do you think the air in our kitchen weighs? How could we work it out?",
   "Which would you find harder to lift: a kilogram of iron or a kilogram of cotton? Why?",
   "When you stand on one foot, which way do you lean, and why?",
@@ -2995,7 +2995,7 @@
  ],
  "maths": [
   {
-   "problem": "Aarav hung known masses on a rubber band. The pointer read 14.0 centimetres with no water, and then 14.9, 15.9, 17.0, 18.3 and 19.8 centimetres after each extra 100 grams. How much did the band stretch with 500 grams? How much more did the last 100 grams stretch it than the first 100 grams?",
+   "problem": "Known masses were hung on a rubber band. The pointer read 14.0 centimetres with no water, and then 14.9, 15.9, 17.0, 18.3 and 19.8 centimetres after each extra 100 grams. How much did the band stretch with 500 grams? How much more did the last 100 grams stretch it than the first 100 grams?",
    "answer": "With 500 grams it stretched 5.8 centimetres. The last 100 grams stretched it 0.6 centimetres more than the first.",
    "explain": "19.8 minus 14.0 is 5.8. The first 100 grams stretched it 14.9 minus 14.0, which is 0.9. The last 100 grams stretched it 19.8 minus 18.3, which is 1.5. 1.5 minus 0.9 is 0.6.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3004,7 +3004,7 @@
    "why_maths": "Taking each reading from the zero gives the stretch, and comparing steps shows whether the band stretches evenly.",
    "chart": {
     "type": "line",
-    "title": "Aarav's rubber band",
+    "title": "A rubber band's stretch",
     "x": "Load (grams)",
     "y": "Pointer reading (centimetres)",
     "data": [
@@ -3036,7 +3036,7 @@
    }
   },
   {
-   "problem": "A child has a mass of 40 kilograms. The pull is 9.8 newtons for each kilogram on Earth, 3.7 on Mars and 1.6 on the Moon. Round the Earth's number to 10. Work out her weight on each world.",
+   "problem": "A child has a mass of 40 kilograms. The pull is 9.8 newtons for each kilogram on Earth, 3.7 on Mars and 1.6 on the Moon. Round the Earth's number to 10. Work out the child's weight on each world.",
    "answer": "About 400 newtons on Earth, 148 newtons on Mars and 64 newtons on the Moon.",
    "explain": "On Earth, 40 times 10 is 400. On Mars, 40 times 3.7: 40 times 3 is 120, and 40 times 0.7 is 28, so 148. On the Moon, 40 times 1.6: 40 times 1 is 40, and 40 times 0.6 is 24, so 64.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -3070,12 +3070,12 @@
    "why_maths": "Water gives a standard mass in millilitres and grams, so a balance turns any amount of matter into a number you can add and compare."
   },
   {
-   "problem": "With the cheating balance, a tomato weighed 90 grams on one side and 150 grams after swapping the pans. What is the average of the two? Why is the average a good guess for the real mass?",
+   "problem": "A balance with unequal arms cheats. On such a balance, a tomato weighed 90 grams on one side and 150 grams after swapping the pans. What is the average of the two? Why is the average a good guess for the real mass?",
    "answer": "The average is 120 grams. It is a good guess because the cheat makes one answer too small and the other too big, by about the same amount.",
    "explain": "90 plus 150 is 240. Half of 240 is 120. The unequal arms made the first answer 30 too low and the second 30 too high, so they cancel out.",
    "math_unit": "math.addition-subtraction.mental-strategies.L4",
    "how": "a1",
-   "context": "This is about the swap trick in the Build a Balance activity.",
+   "context": "This is about the swap trick in the Build a Balance activity, where a tomato is weighed on each side of a balance with unequal arms.",
    "why_maths": "Averaging two readings that err in opposite directions cancels most of the error, which is how swapping the pans catches a cheat."
   },
   {
@@ -3285,9 +3285,9 @@
   ]
  },
  "roots": {
-  "context": "We have hung cardboard shapes from a plumb line and weighed things two ways. Now we ask what the centre of gravity tells us about things, about ourselves and about the world.",
+  "context": "In Where Does It Balance, we hung cardboard shapes from a pin, and the plumb lines we drew on them crossed at the centre of gravity. We also weighed things two ways, with a balance and with a rubber band scale. Now we ask what the centre of gravity tells us about things, about ourselves and about the world.",
   "deep_truth": {
-   "truth": "Every crumb of the cardboard ring was pulled down by the Earth. Yet the whole ring acted as if one single pull worked at its centre. At that centre, there is only a hole. So the place where a thing's weight seems to act can be a place with nothing in it.",
+   "truth": "The Earth pulls down on every crumb of a cardboard ring. Yet the whole ring acts as if one single pull worked at its centre, and at that centre there is only a hole. So the place where a thing's weight seems to act can be a place with nothing in it.",
    "habit": "We say 'the weight is in the thing', or 'the middle of it is the heaviest part', as if weight sat inside the material. But weight is a pull on every part, and the one place where it all seems to act is a point that we work out.",
    "evidence": "In Where Does It Balance, the plumb lines for the ring crossed in the empty hole, and the lines for the crescent crossed in the air beside it. There was no cardboard at either place."
   },
@@ -3296,17 +3296,17 @@
    "what_is_life": "Every standing animal, including you, stays up by keeping the balance point above the feet. Walking is falling forwards and catching yourself again.",
    "what_is_this_world": "The Earth and the Moon circle a balance point that is inside the Earth. The Sun and Jupiter circle a balance point that is just outside the Sun, in empty space."
   },
-  "thread": "Gravity pulls on every particle of a thing, one by one. Yet all of those separate pulls add up to something that behaves like a single pull at a single place. The same trick works for the Earth, the Moon and the Sun: many pulls from many particles can be treated as one pull from one point. The balance point is not a thing. It is the place where all the small pulls agree.",
+  "thread": "Gravity pulls on every particle of a thing, one by one. Yet all of those separate pulls add up to something that behaves like a single pull at a single place. The same is true for the Earth, the Moon and the Sun: many pulls from many particles can be treated as one pull from one point. The balance point is not a thing. It is the one place where all the small pulls, added together, seem to act.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes share one hub, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that holds what you pour in.",
-    "link": "The centre of a ring is a hole, yet it is the place where the whole ring's weight seems to act. The empty middle is what the whole shape turns on."
+    "link": "The centre of a ring is a hole, yet it is the place where the whole ring's weight seems to act. Like the hub of the wheel, the empty middle matters."
    },
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
     "teaching": "Indra's net is a net of jewels in which every jewel reflects every other jewel. Each one holds all the others.",
-    "link": "Every particle of the Earth pulls every particle of the cardboard ring, and each of them pulls back. The balance point is where all those separate pulls meet and agree."
+    "link": "Every particle of the Earth pulls every particle of the cardboard ring, and each of them pulls back. The balance point is the one place where all those separate pulls, added together, seem to act."
    }
   ],
   "science": [
@@ -3327,7 +3327,7 @@
    "title": "Find your balance",
    "mins": 3,
    "say": "Stand with your feet together and your arms by your sides. Breathe slowly three times. Now lift one foot a little, and feel your body shift over the other foot. Lift your arms out to the sides, and feel how that steadies you. Put the foot down. Where is your balance point right now, and what is holding it above your feet?",
-   "kid": "Stand on both feet. Slowly lift one foot. Feel your body shift over the other foot. Arms out helps. Where is your balance?"
+   "kid": "Stand on both feet. Slowly lift one foot. Feel your body shift over the other foot. Put your arms out to steady yourself. Where is your balance point?"
   },
   "ask": [
    "If the balance point of a ring is in the hole, is the weight of the ring in the cardboard or in the hole?",

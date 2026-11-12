@@ -31,7 +31,7 @@
     {
       "term": "Air resistance",
       "meaning": "Another name for drag when the air is the thing pushing back.",
-      "example": "Air resistance slows a paper ball more slowly than a flat sheet of paper.",
+      "example": "Air resistance slows a flat sheet of paper much more than it slows a paper ball.",
       "art": "A flat sheet of paper and a paper ball falling side by side, with the flat sheet falling more slowly."
     },
     {
@@ -136,10 +136,10 @@
       "concept": "Drag: the air pushes back on anything that moves through it",
       "status": "defined",
       "definition": "Drag is the push of air against a thing that moves through it. It pushes against the direction the thing is moving.",
-      "description": "Air is made of countless tiny particles called molecules. A moving thing has to shove those molecules out of the way, and they push back. You feel this when you run with an open umbrella. You also feel it when you hold a card flat in front of you and walk, and it does not push back much when you turn the card edge-on. Three things decide how big the drag is. The first is speed. The second is how much of the thing faces the air. The third is shape. A thing that goes straight through at a steady speed has drag exactly equal to the push that drives it. That is why a cyclist keeps pedalling to hold the same speed.",
+      "description": "Air is made of countless tiny particles called molecules. A moving thing has to shove those molecules out of the way, and they push back. You feel this when you run with an open umbrella. You also feel it when you hold a card flat in front of you and walk. When you turn the card edge-on, it hardly pushes back. Three things decide how big the drag is. The first is speed. The second is how much of the thing faces the air. The third is shape. When a thing moves in a straight line at a steady speed, the drag on it is exactly equal to the push that drives it. That is why a cyclist has to keep pedalling to hold the same speed.",
       "examples": [
         "A flat card walked through the air pushes back much harder than the same card turned edge-on.",
-        "A cyclist pedals only to cancel the drag, once she is up to speed.",
+        "Once a cyclist is up to speed, she pedals only to cancel the drag.",
         "An open umbrella pulls hard against the wind, and a closed one hardly does."
       ],
       "art": "A cyclist leaning forward with arrows showing air pushing back on her body and an equal arrow forward from the pedals.",
@@ -148,8 +148,8 @@
     {
       "concept": "Speed matters a lot: twice as fast, about four times the drag",
       "status": "defined",
-      "definition": "For most everyday speeds, drag grows with the square of the speed. Twice as fast gives about four times the drag.",
-      "description": "When you go twice as fast, you meet twice as much air every second. And you hit each bit of it twice as hard. Two times two is four. Three times as fast gives three times three, which is nine times the drag. This is why riding into the wind on a cycle feels so hard, and why a car at 100 kilometres an hour uses much more fuel than at 50. A jet at full speed spends nearly all of its engine push just fighting drag. In steady, level flight, thrust equals drag, and lift equals weight. All four forces are balanced, and the plane flies straight at a steady speed.",
+      "definition": "At most everyday speeds, twice as fast gives about four times the drag. We say that drag grows with the square of the speed, which means the speed multiplied by itself.",
+      "description": "When you go twice as fast, you meet twice as much air every second. And you hit each bit of it twice as hard. Two times two is four. Three times as fast gives three times three, which is nine times the drag. This is why riding into the wind on a cycle feels so hard, and why a car at 100 kilometres an hour uses much more fuel than at 50. A jet at full speed spends nearly all of its engine push just fighting drag. In steady, level flight, the forward push of the engines, called thrust, equals the drag. The upward push on the wings, called lift, equals the weight. All four forces are balanced, and the plane flies straight at a steady speed.",
       "examples": [
         "A cyclist at 20 kilometres an hour feels about four times the air push she feels at 10.",
         "A car at 100 kilometres an hour has about four times the drag it has at 50.",
@@ -175,7 +175,7 @@
       "concept": "Shape and streamlining: where drag comes from",
       "status": "defined",
       "definition": "A streamlined shape has a rounded front and a long, gentle slope behind. Air flows smoothly round it and closes up neatly behind, leaving a small wake.",
-      "description": "Drag has two main sources. The first is the air being shoved aside. Behind a blunt shape such as a flat plate, the air cannot close up smoothly. It breaks into a big, messy wake, and the low pressure in that wake pulls the shape back. The second source is that air sticks a little to any surface. A thin layer of air clings to the skin of a plane, a fish or a card, and rubs against the air moving past. A teardrop shape can have more than ten times less drag than a flat disc of the same width. This is why fish, birds, bullet trains and planes are rounded in front and tapered behind. A pointed front is not what matters. The slope of the back matters more.",
+      "description": "Drag has two main sources. The first is the air being shoved aside. Behind a blunt shape such as a flat plate, the air cannot close up smoothly. It breaks into a big, messy wake, and the low pressure in that wake pulls the shape back. The second source is that air sticks a little to any surface. A thin layer of air clings to the skin of a plane, a fish or a card, and rubs against the air moving past. A teardrop shape can have less than a tenth of the drag of a flat disc of the same width. This is why fish, birds, bullet trains and planes are rounded in front and tapered behind. A pointed front is not what matters. The slope of the back matters more.",
       "examples": [
         "The nose of Japan's 500 Series bullet train was shaped like a kingfisher's beak, to cut drag and noise.",
         "A tuna and a cheel both have smooth, tapered bodies.",
@@ -227,11 +227,11 @@
       "concept": "Flying in each other's air: wakes and the V",
       "status": "debated",
       "definition": "A flyer leaves moving air behind. A bird that flies in the right place can be lifted by that air and save energy.",
-      "description": "A wing makes lift by pushing air down. Behind the wing tips, the air curls round into two spinning whirls. Outside the wing tips, that air goes up. This rising air is called upwash. A bird that flies just behind and to the side of another can be lifted by her. In 2014, scientists put tiny trackers on northern bald ibises that were flying in a V behind a microlight. They found that each ibis put her wing tip in the right place, and flapped in step with the bird ahead to catch the upwash. In 2001, researchers measured the heartbeat of great white pelicans flying in a line and found it was slower than when they flew alone. Early sums from 1970 said a big V could save a great deal of energy. Measurements on live birds find smaller savings, but still real. Cyclists use the same idea when they follow in a line.",
+      "description": "A wing makes lift by pushing air down. Behind the wing tips, the air curls round into two spinning whirls. Outside the wing tips, that air goes up. This rising air is called upwash. A bird that flies just behind and to the side of another can be lifted by that rising air. In 2014, scientists put tiny trackers on northern bald ibises that were flying in a V behind a microlight. They found that each ibis put her wing tip in the right place, and flapped in step with the bird ahead to catch the upwash. In 2001, researchers measured the heartbeat of great white pelicans flying in a line and found it was slower than when they flew alone. Early sums from 1970 said a big V could save a great deal of energy. Measurements on live birds find smaller savings, but the savings are real. Cyclists use the same idea when they follow in a line.",
       "examples": [
-        "Ibises flapping in step with the bird ahead to catch her upwash.",
-        "Cyclists riding in a line, taking turns at the front.",
-        "Flamingos and geese flying in a V or a long slanting line."
+        "Ibises flap in step with the bird ahead to catch her upwash.",
+        "Cyclists ride in a line and take turns at the front.",
+        "Flamingos and geese fly in a V or a long slanting line."
       ],
       "art": "A V of geese seen from above, with small curved arrows showing air rising just outside the wing tip of each bird.",
       "perspectives": [
@@ -249,10 +249,10 @@
       "concept": "Small things fall gently: size and surface",
       "status": "defined",
       "definition": "A small animal has more skin for each bit of weight than a big one, so air slows her fall far more.",
-      "description": "Imagine an animal twice as long, twice as tall and twice as wide. It has 4 times as much skin, but 8 times as much weight. So a bigger body has less skin for each bit of weight, and the air slows it less. In 1926, the biologist J. B. S. Haldane wrote that a mouse can fall down a deep mine shaft and walk away, while a person would be badly hurt. Haldane later moved to India, in 1957. A tiny insect has so much skin for her weight that she floats down like dust. This is also why you saw the small, light seed spinners fall slowly, and why big birds must flap harder than small ones. For a very small flyer, air feels thick, like water does for us. Tiny wasps have wings like feathers, made of fine bristles, and they seem to swim through the air.",
+      "description": "Take an animal and make her twice as long, twice as tall and twice as wide. She now has 4 times as much skin, but 8 times as much weight. So a bigger body has less skin for each bit of weight, and the air slows it less. In 1926, the biologist J. B. S. Haldane wrote that a mouse can fall down a deep mine shaft and walk away, while a person would be badly hurt. Haldane later moved to India, in 1957. A tiny insect has so much skin for her weight that she floats down like dust. This is also why small, light seed spinners fall slowly, and why big birds must flap harder than small ones. For a very small flyer, air feels thick, like water does for us. Tiny wasps have wings like feathers, made of fine bristles, and they seem to swim through the air.",
       "examples": [
         "A mouse can survive a fall that would badly hurt a person.",
-        "An ant falls from a table and walks away, because drag slows her fast.",
+        "An ant falls from a table and walks away, because drag slows her fall so much.",
         "Tiny wasps have bristly wings that push through air which feels thick to them."
       ],
       "art": "A mouse and an elephant falling side by side, the mouse landing gently and the elephant landing hard, with small arrows showing air pushing against each.",
@@ -261,7 +261,7 @@
     {
       "concept": "Where flight ends: no air, no drag and no wings",
       "status": "defined",
-      "definition": "Without air there is no drag and no lift. Wings and flaps do nothing. A spacecraft steers by pushing on its own exhaust.",
+      "definition": "Without air there is no drag and no lift. Wings and flaps do nothing. A spacecraft steers by pushing out gas, and the gas pushes the spacecraft the other way.",
       "description": "Above about 100 kilometres, the air is so thin that wings cannot make lift. A rocket pushes out burning gas, and the gas pushes the rocket the other way. When a spacecraft comes back, it hits the air at about 28,000 kilometres an hour. Drag is so strong that it turns the spacecraft's motion into heat. A shield on the front takes the heat. India's capsule SRE-1 came back this way in January 2007 and landed in the Bay of Bengal. Shooting stars glow for the same reason. Tiny bits of rock hit the air so fast that they heat up and burn. So drag does not only slow things down. It changes motion into warmth. The energy is not lost. It becomes the heat of the air and the shield.",
       "examples": [
         "A shooting star is a bit of rock heated by drag as it hits the air.",
@@ -283,7 +283,7 @@
     },
     {
       "text": "A streamlined shape has far less drag than a blunt shape of the same width.",
-      "evidence": "In wind tunnels, a teardrop has more than ten times less drag than a flat disc of the same width."
+      "evidence": "In wind tunnels, a teardrop has less than a tenth of the drag of a flat disc of the same width."
     },
     {
       "text": "Air gets thinner with height, so both drag and lift get smaller.",
@@ -316,7 +316,7 @@
     {
       "claim": "The most streamlined shape has a sharp, pointed front.",
       "who": "Many people, because arrows and rockets have pointed noses.",
-      "for": "Pointed noses are used by arrows, rockets and fast jets.",
+      "for": "Arrows, rockets and fast jets all have pointed noses.",
       "against": "At everyday speeds, the best shape is rounded at the front and tapered at the back, like a teardrop. A pointed nose helps mostly near the speed of sound or faster.",
       "status": "rejected"
     },
@@ -324,7 +324,7 @@
       "claim": "Birds fly in a V only to see each other and follow the leader.",
       "who": "Some bird scientists.",
       "for": "Birds in a V can see each other well.",
-      "against": "Tracking showed that ibises place their wings to catch the upwash of the bird ahead and flap in step. Seeing probably matters too, so scientists still argue about how much of each.",
+      "against": "Tracking showed that ibises place their wings to catch the upwash of the bird ahead and flap in step. Seeing probably matters too, so scientists still argue about how much each one matters.",
       "status": "debated"
     },
     {
@@ -367,7 +367,7 @@
       "hint": "Think about what a small animal cannot do, as well as what she can."
     },
     {
-      "q": "Sarla Thakral flew a plane alone in 1936, at the age of 21, and earned her pilot's licence, and she is often called India's first woman pilot. Why do some stories of flight get told more than others?",
+      "q": "Sarla Thakral flew a plane alone in 1936, at the age of 21, and earned her pilot's licence. She is often called India's first woman pilot. Why do some stories of flight get told more than others?",
       "kind": "big",
       "hint": "Think about whose names you were told, and whose you had to look up."
     },
@@ -428,20 +428,20 @@
     "context": "We have raced parachutes, steered paper planes and watched smoke whirl behind a card. Now we ask what this tells us about the air, about flyers, and about ourselves.",
     "deep_truth": {
       "truth": "After you swish a card through smoke, whirls of smoke keep turning where the card has been. A flyer moves the air they pass through, and that air keeps moving after the flyer has gone. In a flock, the next bird is held up by air the bird ahead has moved. So a flyer's push does not end at their wings.",
-      "habit": "We picture air as empty space that a flyer passes through, and a flock as separate birds. But air is a real material that gets pushed. A flyer and the air around them work as one event.",
+      "habit": "We picture air as empty space that a flyer passes through, and a flock as separate birds. But air is a real material that gets pushed. A flyer and the air around them move together. They are one event, not two separate things.",
       "evidence": "In the smoke test, the whirls kept turning after the card had stopped. Northern bald ibises flying in a V were tracked in 2014, and each one flapped in step with the bird ahead to catch the air that bird had lifted."
     },
     "three": {
-      "who_am_i": "When you walk across a room, you move the air as well as yourself. The air you push aside closes behind you, and your push goes on in it.",
+      "who_am_i": "When you walk across a room, you move the air as well as yourself. The air you push aside closes behind you, and it keeps moving after you have passed.",
       "what_is_life": "Flamingos and geese fly in lines and take turns at the front. Many living beings save effort by using what the others around them are already doing.",
       "what_is_this_world": "Nothing moves through the world without moving a little of it. The air a plane stirs is still moving minutes after the plane has gone."
     },
-    "thread": "A bird and the sky around her look like two things. But in the smoke test, a card and the air moved together, and the air kept the motion after the card stopped. A flock shares that motion from one bird to the next. Her muscles move her wings, her wings move the air, and the moving air lifts the next bird. In the end the motion becomes warmth in the air. The energy is not lost. It is only handed on.",
+    "thread": "A bird and the sky around her look like two things. But in the smoke test, a card and the air moved together, and the air kept the motion after the card stopped. A flock shares that motion from one bird to the next. A bird's muscles move her wings, her wings move the air, and the moving air lifts the next bird. In the end the motion becomes warmth in the air. The energy is not lost. It is only handed on.",
     "teachings": [
       {
         "source": "Avatamsaka Sutra, the image of Indra's net",
-        "teaching": "Imagine a net with a jewel at every knot. Each jewel shows the reflection of every other jewel. Nothing in the net stands alone.",
-        "link": "Each flying bird's air reaches the next bird. A flock is a net of moving air, where each push is felt by the others."
+        "teaching": "Think of a net with a jewel at every knot. Each jewel shows the reflection of every other jewel. Nothing in the net stands alone.",
+        "link": "The air that each flying bird moves reaches the next bird. A flock is a net of moving air, where each push is felt by the others."
       },
       {
         "source": "Tao Te Ching 11",
@@ -507,19 +507,19 @@
           "title": "24 two-sided cards: a flyer with a problem and three choices on the front, and the answer with its reason on the back",
           "items": [
             {
-              "f": "A paper plane dives nose-first into the floor. A: Add a clip to its nose. B: Move the clip back towards the tail. C: Make the wings smaller.",
+              "f": "A paper plane dives nose-first into the floor. What fixes it? A: Add a clip to its nose. B: Move the clip back towards the tail. C: Make the wings smaller.",
               "b": "B. The balance point is too far forward, so the nose is too heavy. Moving weight back levels the plane."
             },
             {
-              "f": "A paper plane climbs steeply, stops in the air and then swoops down. A: Bend the back edges of the wings up. B: Bend the back edges of the wings down a little. C: Add a clip to the tail.",
+              "f": "A paper plane climbs steeply, stops in the air and then swoops down. What fixes it? A: Bend the back edges of the wings up. B: Bend the back edges of the wings down a little. C: Add a clip to the tail.",
               "b": "B. The nose is rising too much. Bending the back edges down pushes the tail up, and the nose comes down."
             },
             {
-              "f": "A paper plane keeps turning left in a circle. A: Bend the back edge of its left wing down a little. B: Bend the back edge of its left wing up. C: Throw it harder.",
-              "b": "A. The left wing is lifting less, so it drops and the plane banks left. Bending the left flap down gives that wing more lift."
+              "f": "A paper plane keeps turning left in a circle. What fixes it? A: Bend the back edge of its left wing down a little. B: Bend the back edge of its left wing up. C: Throw it harder.",
+              "b": "A. The left wing is lifting less, so it drops and the plane banks left. Bending the back edge of the left wing down gives that wing more lift."
             },
             {
-              "f": "A kite twirls and dives in the wind. A: Add a longer tail. B: Cut the tail off. C: Use a heavier string.",
+              "f": "A kite twirls and dives in the wind. What fixes it? A: Add a longer tail. B: Cut the tail off. C: Use a heavier string.",
               "b": "A. A tail adds drag at the back. This keeps the kite pointing the right way, in the same way as an arrow's feathers."
             },
             {
@@ -527,11 +527,11 @@
               "b": "A. The feathers have much more drag than the heavy cork. The drag swings them round behind the cork."
             },
             {
-              "f": "A small parachute and a big parachute carry the same coin and are dropped together. A: The small one lands first. B: The big one lands first. C: They land together.",
+              "f": "A small parachute and a big parachute carry the same coin and are dropped together. What happens? A: The small one lands first. B: The big one lands first. C: They land together.",
               "b": "A. The big canopy has more drag, so the air balances the weight at a lower speed."
             },
             {
-              "f": "The same parachute is dropped with 1 coin and then with 4 coins. A: The 1-coin one is faster. B: The 4-coin one is faster, but not four times faster. C: They land together.",
+              "f": "The same parachute is dropped with 1 coin and then with 4 coins. Which drop is faster? A: The 1-coin one is faster. B: The 4-coin one is faster, but not four times faster. C: They land together.",
               "b": "B. A heavier load needs more drag to balance it, so the parachute falls faster. But four times the weight gives only about twice the speed."
             },
             {
@@ -568,7 +568,7 @@
             },
             {
               "f": "A pilot tips the elevator up. What does the nose do? A: It goes up. B: It goes down. C: It swings left.",
-              "b": "A. The elevator up pushes the tail down, so the nose rises."
+              "b": "A. With the elevator up, the air pushes the tail down, so the nose rises."
             },
             {
               "f": "A paper plane has both back wing edges bent up. What does its nose do? A: It rises. B: It dips. C: Nothing changes.",
@@ -587,7 +587,7 @@
               "b": "A. The open cup catches the air, so it has more drag. This is why cup anemometers spin."
             },
             {
-              "f": "A skydiver wants to fall faster. A: Spread out her arms and legs. B: Tuck in her arms and legs, head-down. C: Open a bigger parachute.",
+              "f": "A skydiver wants to fall faster. What should she do? A: Spread out her arms and legs. B: Tuck in her arms and legs, head-down. C: Open a bigger parachute.",
               "b": "B. A smaller body facing the air has less drag, so she must fall faster before drag balances her weight."
             },
             {
@@ -663,11 +663,11 @@
           "id": "s3",
           "mins": 7,
           "do": "Play the next eight cards. Swap the reader after every card. Keep score on paper.",
-          "say": "Keep going. Think about drag, weight and the balance point. What would you change to put it right?",
+          "say": "Keep going. Think about drag, weight and the balance point. What would you change to put each flyer right?",
           "kid": "Play on. Think about drag, weight and the balance point.",
           "ask": [
             {
-              "q": "Which card surprised you so far, and why?",
+              "q": "Which card has surprised you most so far, and why?",
               "good": [
                 "The hammer and feather land together on the Moon.",
                 "Four times the weight is only twice the speed.",
@@ -681,7 +681,7 @@
           "id": "s4",
           "mins": 3,
           "do": "Play the last eight cards. When the pile is finished, count each player's points.",
-          "say": "Last cards. Think about what the air does to each flyer.",
+          "say": "These are the last cards. Think about what the air does to each flyer.",
           "kid": "Play the last cards. Count your points.",
           "context": "In this step, you finish the pile of cards and count the points."
         },
@@ -797,7 +797,7 @@
         "A player who moves when the pilot did not say Pilot says is out for one round, but can still play the next.",
         "After each command, the pilot reads the back of the card. Everyone says what the real plane does.",
         "The pilot's job passes to the next player after four cards. Play all 16 cards, or as many as you like.",
-        "Everyone who stays in is a good pilot. No one wins, but you can keep a count of the rounds you were never out."
+        "Everyone who stays in is a good pilot. No one wins, but you can count the rounds in which you were not out."
       ],
       "flow": [
         {
@@ -830,7 +830,7 @@
           "id": "s3",
           "mins": 5,
           "do": "Mix the next cards. Sometimes leave out the words Pilot says, to catch your child moving. Then swap roles.",
-          "say": "Now listen carefully. Only move if I say the magic words. Then you give me the commands.",
+          "say": "Now listen carefully. Only move if I say the words Pilot says. After that, you give me the commands.",
           "kid": "Listen for the words Pilot says. Then be the pilot yourself.",
           "context": "In this step, you play the full game, and then swap who is the pilot."
         },
@@ -852,7 +852,7 @@
       "title": "Parachute Races: what slows a fall?",
       "mins": 36,
       "days": 1,
-      "question": "Does a bigger parachute fall more slowly? And does a heavier load make it fall faster, or four times as fast?",
+      "question": "Does a bigger parachute fall more slowly? Does a heavier load make it fall faster? And does four times the load make it fall four times as fast?",
       "predict": "Before you start, guess. Which will land first: a small parachute or a big one with the same coin? Will a parachute with 4 coins fall 4 times as fast as one with 1 coin? Why do you think so?",
       "fair_test": "Every parachute is made from the same polythene, the same four strings and the same coins. Each is dropped from the same height, by the same person, in the same still room. Only one thing changes at a time: the size of the canopy, or the number of coins. Each is dropped three times and the times are averaged, because one drop can be spoilt by a gust or a tangle. The scrunched-up sheet is the control. It shows what the same polythene does with no canopy.",
       "results_table": [
@@ -938,10 +938,10 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Cut a 20 centimetre square and a 40 centimetre square from the polythene. Tape a 30 centimetre string to each corner. Tape the four strings to one coin, so the strings are even.",
+          "do": "Cut a 20 centimetre square and a 40 centimetre square from the polythene. Tape a 30 centimetre string to each corner. Tape the loose ends of the four strings to one coin, so that all four strings are the same length.",
           "say": "Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to a coin.",
           "kid": "Cut two squares. Tape a string to each corner. Tape the strings to a coin.",
-          "parent": "Make the squares exact. Make a third parachute with the big square and 4 coins taped together. Keep the strings even, or the canopy will lean. With 2 to 4 children, each child makes one parachute (A, B, C or D) and the same child does the dropping or timing for it, so all four are built at once. Label them A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch the big sheet into a tight ball and tape it round 1 coin.",
+          "parent": "Make the squares exact, and keep the strings even, or the canopy will lean. Make a third parachute with a big square and 4 coins taped together. Label the three parachutes A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch a big sheet into a tight ball and tape it round 1 coin. With 2 to 4 children, each child makes one of A, B, C and D, so all four are built at once. The same child then does the dropping or timing for it.",
           "check": {
             "t": "mcq",
             "q": "Why must the strings and the polythene be the same for every parachute?",
@@ -958,7 +958,7 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Mark a spot about 2 metres up a wall with tape. Stand the adult underneath it. Hold parachutes A and B at the mark, one in each hand. Let go at the same moment and watch which lands first.",
+          "do": "Mark a spot about 2 metres up a wall with tape. A grown-up stands under the mark and holds parachutes A and B at the mark, one in each hand. The grown-up lets go of both at the same moment. Watch which lands first.",
           "say": "Hold both at the same height. Let go together. Which lands first? Is it what you thought?",
           "kid": "Hold two parachutes up high. Let go together. Which lands first?",
           "ask": [
@@ -971,7 +971,7 @@
               ]
             }
           ],
-          "parent": "Hold each parachute by the middle of the canopy and the coin, then let go together. If a parachute folds up and drops like a stone, count it as a failed drop and do it again. Choose a room with the fans off and windows shut, because a breath of air spoils a parachute that falls slowly. Do not explain yet. Let your child say what they see.",
+          "parent": "Hold each parachute by the middle of the canopy and the coin, then let go together. If a parachute folds up and drops like a stone, count it as a failed drop and do it again. Choose a room with the fans off and windows shut, because even a little moving air spoils the fall of a slow parachute. Do not explain yet. Let your child say what they see.",
           "context": "In this step, you race the small and the big parachute without a stopwatch."
         },
         {
@@ -990,7 +990,7 @@
               ]
             }
           ],
-          "parent": "Typical times from 2 metres are about 2 seconds for the small parachute, about 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ, so trust your own table. The big parachute is the slowest and the scrunched ball the fastest; those two should be clear. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds, and drop it again. With several children, one drops, one times and one writes, and everyone swaps after each parachute. If the times are all too short to tell apart, ask a grown-up to drop from the top of a stair flight with a clear floor below.",
+          "parent": "Typical times from 2 metres are about 2 seconds for the small parachute, about 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ, so trust your own table. The big parachute is the slowest and the scrunched ball the fastest; those two should be clear. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds, and drop it again. With several children, one drops, one times and one writes, and everyone swaps after each parachute. If the times are all too short to tell apart, a grown-up can drop from the top of a flight of stairs with a clear floor below.",
           "check": {
             "t": "mcq",
             "q": "Parachute B takes 2.8, 2.6 and 2.7 seconds. What is the average?",
@@ -1026,7 +1026,7 @@
         {
           "id": "s6",
           "mins": 4,
-          "do": "Ask your child to say what they thought, what they saw and why. Then explain terminal speed, once they have said their ideas.",
+          "do": "Ask your child to say what they thought, what they saw and why. After they have said their ideas, explain terminal speed.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
           "kid": "Say what you thought, what you saw, and why.",
           "think": "Why did the scrunched sheet fall so fast, when it is the same polythene?",
@@ -1109,7 +1109,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guesses. Mark the left and right wing with a pencil L and R, as seen by the pilot looking forward.",
+          "parent": "Do not correct the guesses. Write L and R in pencil on the left and right wings. Left and right are as a pilot sitting in the plane and looking forward would see them.",
           "context": "This is the first step of the Steer a Paper Plane test. You guess before you test."
         },
         {
@@ -1138,7 +1138,7 @@
           "do": "Stand behind the start line. Throw plane 1, with no bends, three times, level and gently. Write what it does and where it lands each time.",
           "say": "Throw it level, like putting a ball on a shelf. Do it three times. Write where it lands and which way it curves, if it curves.",
           "kid": "Throw the plane three times. Write where it lands.",
-          "parent": "Plane 1 is the control. If it already curves, bend the wings level again, and refold if needed. Use the same gentle throw each time, and let the same child throw every plane, because a different arm changes the result more than a bend does. Fans off and windows shut. Others stand behind the thrower, one marks the landing spot with chalk or a pencil and one writes.",
+          "parent": "Plane 1 is the control. If it already curves, bend the wings level again, and refold if needed. Use the same gentle throw each time, and let the same child throw every plane, because a different arm changes the result more than a bend does. Keep the fans off and the windows shut. Everyone else stands behind the thrower. One child marks the landing spot with chalk or a pencil and one writes.",
           "context": "In this step, you throw the plane with no bends, to see how it flies by itself."
         },
         {
@@ -1160,7 +1160,7 @@
               "q": "When the left edge is up and the right edge is down, which way does the plane turn?",
               "good": [
                 "To the left.",
-                "It turns towards the up flap."
+                "It turns towards the wing with the edge bent up."
               ]
             }
           ],
@@ -1181,7 +1181,7 @@
         {
           "id": "s5",
           "mins": 4,
-          "do": "Ask your child to say what they thought, what they saw and why. Then explain pitch, roll and banking, once they have said their ideas.",
+          "do": "Ask your child to say what they thought, what they saw and why. After they have said their ideas, explain pitch, roll and banking.",
           "say": "Tell me three things. What did you think each bend would do? What did you see? Why do you think it happened?",
           "kid": "Say what you thought, what you saw, and why.",
           "think": "How does a bird steer, when she has no flaps?",
@@ -1223,7 +1223,7 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Hang the card in the fan's wind four ways. Measure how far each way is blown. Compare the pushes."
+          "what": "Hang the card in the fan's wind four ways. Measure how far the card is blown each way. Compare the pushes."
         }
       ],
       "safety": "A grown-up sets up the fan and turns it on. Keep fingers and hair away from the fan grill.",
@@ -1267,7 +1267,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Turn on the fan, low. Wait 10 seconds for the card to settle. Read how far it is blown, flat to the fan. Then turn it edge-on. Then bend it into a cup, open side to the fan. Then turn the cup round. Write the four readings. Do each one three times and write the middle value. To make the cup, curl the card round a pen and tape the edges.",
+          "do": "Turn on the fan, low. Wait 10 seconds for the card to settle. With the card flat to the fan, read on the ruler how far it is blown. Then turn the card edge-on and read again. Then make a cup: curl the card round a pen and tape the edges. Read with the open side of the cup facing the fan, and then with the cup turned round. Do each of the four ways three times and write the middle value.",
           "say": "Wait until the card stops swinging. Then read the ruler. Do the flat card, the edge-on card, the open cup and the rounded back of the cup. Write each reading.",
           "kid": "Wait for the card to settle. Read the ruler. Test all four ways. Write each reading.",
           "adult": true,
@@ -1281,7 +1281,7 @@
               ]
             }
           ],
-          "parent": "The flat card and the open cup are blown about the same, and the cup's rounded back about a third as far. Edge-on is blown almost nothing. Your numbers will differ. The cup's rounded back is blown clearly less than the open cup, even if not exactly a third. With several children, one holds the ruler, one reads, one writes, and each child bends a cup of their own. The cup is bent from the same card, so only its shape changes.",
+          "parent": "The flat card and the open cup are blown about the same, and the cup's rounded back about a third as far. The edge-on card is hardly blown at all. Your numbers will differ. The cup's rounded back is blown clearly less than the open cup, even if not exactly a third. With several children, one holds the ruler, one reads, one writes, and each child bends a cup of their own. The cup is bent from the same card, so only its shape changes.",
           "check": {
             "t": "mcq",
             "q": "The open cup is blown further than the rounded back of the same cup. What does this show?",
@@ -1333,7 +1333,7 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Pull a spoon and a ruler through the pepper and watch the whirls behind each."
+          "what": "Pull a spoon and a ruler through water sprinkled with pepper, and watch the whirls behind each."
         }
       ],
       "safety": "Keep pepper away from eyes and noses, and skip it if anyone is allergic to pepper or turmeric. Wipe up spilled water at once so nobody slips.",
@@ -1359,7 +1359,7 @@
           "mins": 5,
           "do": "Fill the tray with 2 centimetres of water. Wait until the water is still. Sprinkle a very thin layer of pepper over it. Ask your child to guess which shape will leave the bigger swirl behind it.",
           "say": "We will pull two shapes through the water. One is round and one is a thin edge. Which do you think will leave the bigger whirl behind it? Why?",
-          "kid": "Pepper on still water. Which shape leaves the bigger swirl? Why?",
+          "kid": "There is pepper on still water. Which shape will leave the bigger swirl? Why?",
           "ask": [
             {
               "q": "Which shape do you think leaves the bigger whirls, and why?",
@@ -1397,14 +1397,14 @@
               ]
             }
           ],
-          "parent": "The round spoon usually leaves two whirls that keep turning for a few seconds after you stop. The ruler edge-first leaves very little. If you see nothing, use less pepper, make the water 3 centimetres deep, wait for still water, and pull faster, about 15 centimetres in 1 second. Count how many seconds the whirls keep turning and write it down for the spoon and the ruler. It may take a few tries and the whirls may be faint, but a round shape leaves a bigger mess than an edge. One child pulls, one watches, one counts seconds; a phone filming in slow-motion shows the whirls clearly. Water and air are both fluids, and the same kinds of whirls form in air.",
+          "parent": "The round spoon usually leaves two whirls that keep turning for a few seconds after you stop. The ruler edge-first leaves very little. If you see nothing, use less pepper, make the water 3 centimetres deep, wait for still water, and pull faster, about 15 centimetres in 1 second. Count how many seconds the whirls keep turning and write it down for the spoon and the ruler. It may take a few tries and the whirls may be faint, but a round shape leaves bigger whirls than an edge. One child pulls, one watches, one counts seconds; a phone filming in slow-motion shows the whirls clearly. Water and air are both fluids, which means they flow, and the same kinds of whirls form in air.",
           "context": "In this step, you pull each shape through the pepper and watch the wake."
         },
         {
           "id": "s3",
           "mins": 5,
           "do": "Ask your child to say what they saw. Ask what the whirls tell us about the water, and what the same shapes would do in air.",
-          "say": "The spoon is gone, but the water is still moving. What does that tell us about water? What do you think happens to air behind a bus?",
+          "say": "The spoon has stopped, but the water is still moving. What does that tell us about water? What do you think happens to air behind a bus?",
           "kid": "The spoon stopped. Why does the water keep moving?",
           "think": "If the water behind the spoon keeps moving, what does it have that it did not have before?",
           "context": "This is the last step of Whirls Behind a Spoon. You think about what the wake shows."
@@ -1441,7 +1441,7 @@
           "what": "Light one incense stick. Swish a card near the smoke and watch the whirls."
         }
       ],
-      "safety": "A grown-up lights the incense and keeps it away from paper and cloth. Skip this activity if anyone has asthma, an allergy to smoke or breathing trouble, and keep it short (under ten minutes of smoke), and use Whirls Behind a Spoon instead. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.",
+      "safety": "A grown-up lights the incense and keeps it away from paper and cloth. If anyone has asthma, an allergy to smoke or breathing trouble, skip this activity and use Whirls Behind a Spoon instead. Keep the activity short, with under ten minutes of smoke. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.",
       "record": "Draw the smoke line before the swish, and the whirls after it. Write how long the whirls kept turning.",
       "context": "In this activity, you swish a card through a thin line of smoke and watch the air keep moving after the card has stopped.",
       "setup": [
@@ -1464,7 +1464,7 @@
           "mins": 4,
           "do": "A grown-up lights the incense stick and puts it in the holder. Close the windows and turn off the fans. Wait until the smoke rises in a thin, straight ribbon. Ask your child what the card will do to the smoke.",
           "say": "The smoke is rising in a thin line. If I swish this card past it, what do you think the smoke will do? Why do you think so?",
-          "kid": "A thin line of smoke. What will the card do to it?",
+          "kid": "The smoke rises in a thin line. What will the card do to it?",
           "adult": true,
           "ask": [
             {
@@ -1496,7 +1496,7 @@
               ]
             },
             {
-              "q": "What did the card move, since it did not touch the smoke?",
+              "q": "The card did not touch the smoke. What did the card move?",
               "good": [
                 "The air.",
                 "The air pushed the smoke.",
@@ -1504,7 +1504,7 @@
               ]
             }
           ],
-          "parent": "A quick swish about 20 centimetres from the smoke usually bends the ribbon into curls that turn for a second or two. A slower swish makes less. If nothing happens, swish faster or move a little closer. Do not blow on the smoke. If the ribbon still wobbles on its own, put the stick inside the box on its side. In damp weather the smoke is thicker and slower to curl; swish more slowly. With several children, one swishes, one counts seconds the whirls last and one draws; take turns.",
+          "parent": "A quick swish about 20 centimetres from the smoke usually bends the ribbon into curls that turn for a second or two. A slower swish makes less. If nothing happens, swish faster or move a little closer. Do not blow on the smoke. If the ribbon still wobbles on its own, put the stick inside the box on its side. In damp weather the smoke is thicker and slower to curl; swish more slowly. With several children, one swishes, one counts how many seconds the whirls last and one draws. Then take turns.",
           "check": {
             "t": "mcq",
             "q": "The card stopped, but the smoke kept curling. What does that show?",
@@ -1561,7 +1561,7 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Hang the shape from two holes. Mark the lines. Find where they cross. Check by balancing."
+          "what": "Hang the shape from two holes, one at a time. Mark a line each time. Find where the two lines cross. Check by balancing the shape at that spot."
         }
       ],
       "safety": "A grown-up makes the holes by pushing a sharp pencil point through the card, on a pad of old newspaper, never over a hand.",
@@ -1619,7 +1619,7 @@
               ]
             }
           ],
-          "parent": "The thread always hangs straight down from the hole. The balance point lies on that line. Where two lines cross, there is only one spot. If the card does not balance, redraw the lines more carefully. A third hole gives a third line; if all three cross at the same spot you have measured it well. With several children, each cuts a different shape and a friend holds the thread still.",
+          "parent": "The thread always hangs straight down from the hole. The balance point lies on that line. Two lines cross at only one spot, so that spot is the balance point. If the card does not balance, redraw the lines more carefully. A third hole gives a third line; if all three cross at the same spot you have measured it well. With several children, each cuts a different shape and a friend holds the thread still.",
           "check": {
             "t": "mcq",
             "q": "Why does the card balance at the point where the two lines cross?",
@@ -1706,12 +1706,12 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Toss the shuttlecock gently, about 2 metres, with the feathers forward. Watch it turn. Try six tosses, in different directions, and tally how many turned cork-first. Then try the homemade one with its strips, and a ball with no strips for comparison.",
-          "say": "Toss it with the feathers forward. Watch the air. Does it keep going feathers-first? Try six tosses.",
+          "do": "Toss the shuttlecock gently, about 2 metres, with the feathers forward. Watch it turn. Try six tosses, in different directions, and tally how many turned cork-first. Then try the homemade shuttlecock, a paper ball with paper strips, and a ball with no strips for comparison.",
+          "say": "Toss it with the feathers forward. Watch it in the air. Does it keep going feathers-first? Try six tosses.",
           "kid": "Toss it feathers-first. Does it turn round? Try six tosses.",
           "ask": [
             {
-              "q": "Which end leads in the end, the cork or the feathers?",
+              "q": "Which end is in front by the end of the flight, the cork or the feathers?",
               "good": [
                 "The cork leads.",
                 "The heavy end goes first.",
@@ -1719,7 +1719,7 @@
               ]
             }
           ],
-          "parent": "The shuttlecock should turn within about a metre and fly cork-first almost every time. Toss low and away from people and glass. One child tosses, one tallies and one watches where it turns. The ball with no strips should tumble and not turn the same way; if the strips ball also tumbles, make the strips longer. The feathers have much more drag than the cork, and drag pulls them behind. If you use the homemade one, the paper strips should trail behind the paper ball.",
+          "parent": "The shuttlecock should turn within about a metre and fly cork-first almost every time. Toss low and away from people and glass. One child tosses, one tallies and one watches where it turns. The ball with no strips should tumble and not turn the same way; if the ball with strips also tumbles, make the strips longer. The feathers have much more drag than the cork, and drag pulls them behind. If you use the homemade one, the paper strips should trail behind the paper ball.",
           "check": {
             "t": "mcq",
             "q": "Why does the shuttlecock end up with the cork in front?",
@@ -1740,7 +1740,7 @@
           "say": "What turned the shuttlecock round? Where else have you seen a tail or feathers at the back that keeps something straight?",
           "kid": "What turned it round? Where else is there a tail at the back?",
           "think": "What would happen to an arrow with no feathers?",
-          "context": "This is the last step of the shuttlecock activity. You think about tails."
+          "context": "This is the last step of Why a Shuttlecock Always Turns Round. You think about tails."
         }
       ]
     },
@@ -1776,7 +1776,7 @@
       ],
       "safety": "A grown-up sets up the fan. Keep fingers away from the fan grill.",
       "record": "A table with the distance behind the book (5, 10, 20 and 40 centimetres) and what the ribbon does at each: flutters, hangs, or flaps wildly.",
-      "context": "In this activity, you find out how far behind a blunt shape the wind is calm, which is the wind's shadow.",
+      "context": "In this activity, you find the calm patch of air behind a blunt shape, called the wind's shadow, and see how far back it reaches.",
       "setup": [
         {
           "art": "A fan blowing at a ribbon on a stick, which flutters straight out in the wind.",
@@ -1797,7 +1797,7 @@
           "mins": 4,
           "do": "Stand the book upright in front of the fan, about 30 centimetres away. A grown-up turns on the fan, low. Ask your child to guess what the ribbon will do right behind the book.",
           "say": "The book stands in the wind. What will the ribbon do if I hold it right behind the book? What if I move it further back? Why?",
-          "kid": "A book in the wind. What will the ribbon do behind it? Why?",
+          "kid": "A book stands in the wind. What will the ribbon do behind it? Why?",
           "adult": true,
           "ask": [
             {
@@ -1828,7 +1828,7 @@
               ]
             }
           ],
-          "parent": "The ribbon should hang quite still close behind the book, then flutter and flap as you move it away, and in some places it will flap oddly, as the air swirls round the edges. Your distances will differ. Switch off the fan's side-to-side swing. If the ribbon flutters everywhere, use the bigger board and a lower fan speed. Then try a round bottle in place of the board: which leaves the longer calm patch? One child holds the ribbon, one measures with the paper strip, one writes. This calm patch is called the wake or wind's shadow.",
+          "parent": "The ribbon should hang quite still close behind the book, then flutter and flap as you move it away. In some places it will flap oddly, because the air swirls round the edges. Your distances will differ. Switch off the fan's side-to-side swing. If the ribbon flutters everywhere, use the bigger board and a lower fan speed. Then try a round bottle in place of the board: which leaves the longer calm patch? One child holds the ribbon, one measures with the paper strip, one writes. This calm patch is called the wake or the wind's shadow.",
           "check": {
             "t": "mcq",
             "q": "A rider cycles close behind another rider in the wind. Why does she find it easier?",
@@ -2017,7 +2017,7 @@
           "mins": 4,
           "do": "Show your child the straw and the paper strips. Ask them to guess if a straw with two paper rings can fly, and why.",
           "say": "This is a glider with no wings. It is a straw with two paper rings. Do you think it will fly? Why?",
-          "kid": "A straw with two rings. Will it fly? Why?",
+          "kid": "This is a straw with two rings. Will it fly? Why?",
           "ask": [
             {
               "q": "Do you think a glider with no wings will fly, and why?",
@@ -2037,7 +2037,7 @@
           "do": "Cut one strip 3 centimetres by 15 centimetres and one 3 centimetres by 25 centimetres. Curl each into a ring, with the ends overlapping 1 centimetre, and tape them. Tape the small ring near the front end of the straw. Tape the big ring near the back end.",
           "say": "Cut two strips, one short and one long. Curl each into a ring. Tape the small ring to the front of the straw. Tape the big ring to the back.",
           "kid": "Cut two strips. Curl them into rings. Tape the small ring to the front.",
-          "parent": "The rings should be as round as you can make them. Tape the straw to the inside wall of each ring, so the rings are short tubes lying along the straw, like a hula hoop that is open front and back, not hanging from it.",
+          "parent": "The rings should be as round as you can make them. Tape the straw to the inside wall of each ring. Each ring should sit like a short tube lying along the straw, open at the front and the back. It should not hang down from the straw.",
           "context": "In this step, you make the glider."
         },
         {
@@ -2178,13 +2178,13 @@
               ]
             }
           ],
-          "parent": "Remind your child of the cup in the fan (The Card in the Fan activity), if they did it. Anna Mani, an Indian physicist from Kerala, led work on making wind and sunshine instruments for India's weather service.",
+          "parent": "If your child did The Card in the Fan activity, remind them of the cup in the fan's wind. Anna Mani, an Indian physicist from Kerala, led work on making wind and sunshine instruments for India's weather service.",
           "context": "This is the first step of the Cup Wind Meter. You guess before you build."
         },
         {
           "id": "s2",
           "mins": 20,
-          "do": "Cross the two straws in the middle, and push a pin through both. Staple a cup to each end of each straw, so all four cups face the same way round. Push the pin into the rubber of the pencil. Blow gently to make sure it spins freely. Colour one cup with a marker.",
+          "do": "Cross the two straws in the middle, and push a pin through both. Staple a cup to each end of each straw, so all four cups face the same way round. Push the pin into the rubber at the end of the pencil. Blow gently to make sure it spins freely. Colour one cup with a marker.",
           "say": "Cross the straws and push the pin through the middle. Staple a cup to each end. The open sides must all face the same way round. Push the pin into the pencil rubber, and blow to test it.",
           "kid": "Cross the straws. Staple a cup at each end. All cups face the same way.",
           "adult": true,
@@ -2227,7 +2227,7 @@
           "mins": 5,
           "do": "Draw a bar chart of the three results. Ask your child what the chart shows, and how a weather station might use a meter like this.",
           "say": "What does the chart show? How could a weather station use a spinning wind meter?",
-          "kid": "What does your chart show? How is a weather station like this?",
+          "kid": "What does your chart show? How could a weather station use a meter like this?",
           "think": "How could you turn the number of turns into a wind speed in kilometres an hour?",
           "context": "This is the last step of the Cup Wind Meter. You show your results."
         }
@@ -2254,7 +2254,7 @@
         "a stopwatch"
       ],
       "general": [
-        "A big square canopy with a string at each corner, like the Parachute Races.",
+        "A big square canopy with a string at each corner, like the ones in the Parachute Races.",
         "A round canopy cut in a circle, which opens evenly.",
         "Long strings so that the canopy opens fully before the load."
       ],
@@ -2366,7 +2366,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Read the problem aloud. Ask your child to say what they will change to make a plane fly straight, and what to turn it left.",
+          "do": "Read the problem aloud. Ask your child to say what they will change to make a plane fly straight, and what they will change to make it turn left.",
           "say": "What will you change to make it fly straight? What will you change to make it curve left? Why?",
           "kid": "What makes a plane fly straight? What makes it turn left?",
           "ask": [
@@ -2587,7 +2587,7 @@
         },
         {
           "t": "perspective",
-          "p": "Imagine a friend says: Heavy things always fall faster than light things.",
+          "p": "Here is a claim: Heavy things always fall faster than light things.",
           "views": [
             {
               "who": "Aristotle, an ancient Greek thinker",
@@ -2602,7 +2602,7 @@
               "says": "I dropped a hammer and a feather, and they landed at the same moment, because there is no air here."
             }
           ],
-          "ask": "Whose view fits what you saw in the parachute races? What does drag do to the stone and the feather?",
+          "ask": "Whose view fits what you saw in the Parachute Races? What does drag do to the stone and the feather?",
           "a": "Answers vary. A strong answer says that in air, drag slows the light, wide feather more than the stone, and with no air they fall together.",
           "why": "In the parachute races, the big canopy fell slowly because of drag. Weight alone is not what sets how fast things fall in air.",
           "outcome": 1
@@ -2632,7 +2632,7 @@
             "A heavier parachute has a smaller canopy"
           ],
           "a": 0,
-          "why": "Drag grows with speed. A heavier load needs more drag to balance it, so the drag only grows enough at a higher speed.",
+          "why": "Drag grows with speed. A heavier load needs more drag to balance it, and the drag grows big enough only at a higher speed.",
           "outcome": 1
         },
         {
@@ -2642,7 +2642,7 @@
             "2",
             "two"
           ],
-          "why": "The speed grows with the square root of the weight. The square root of 4 is 2.",
+          "why": "The speed grows with the square root of the weight. The square root of 4 is 2, because 2 times 2 is 4.",
           "outcome": 1
         },
         {
@@ -2713,7 +2713,7 @@
         },
         {
           "t": "count",
-          "p": "A car at 40 kilometres an hour has some amount of air drag. At 120 kilometres an hour, how many times bigger is that drag?",
+          "p": "A car at 40 kilometres an hour feels some air drag. At 120 kilometres an hour, how many times bigger is the drag?",
           "a": "9",
           "why": "120 is three times 40. The drag grows with the square of the speed, so it is 3 times 3, which is 9 times bigger.",
           "outcome": 0
@@ -2766,7 +2766,7 @@
         },
         {
           "t": "truefalse",
-          "p": "In space, an aircraft's wing flaps could steer a spacecraft.",
+          "p": "Wing flaps like those on an aircraft could steer a spacecraft in space.",
           "a": false,
           "why": "False. Flaps work only by pushing on air. With no air, they do nothing, so a spacecraft steers by firing small rockets.",
           "outcome": 6
@@ -2985,14 +2985,14 @@
         },
         {
           "t": "perspective",
-          "p": "Asha, Bilal and Pooja plan to cycle 30 kilometres into a headwind in a line. Asha is the strongest rider.",
+          "p": "Three riders plan to cycle 30 kilometres into a headwind in a line. One of them is the strongest rider.",
           "views": [
             {
-              "who": "Asha, the strongest (an imagined view)",
+              "who": "The strongest rider (an imagined view)",
               "says": "I am the strongest, so I should lead the whole way."
             },
             {
-              "who": "Pooja, the smallest (an imagined view)",
+              "who": "The smallest rider (an imagined view)",
               "says": "Let us all take turns, so no one gets too tired."
             },
             {
@@ -3034,7 +3034,7 @@
         },
         {
           "t": "write",
-          "p": "A friend says: Bigger raindrops fall faster than small ones. Is she right? Say why.",
+          "p": "Do bigger raindrops fall faster than small ones? Say why.",
           "lines": 4,
           "a": "Yes. A bigger drop is heavier for the size of its surface, so it needs more speed before drag equals its weight. It reaches a higher steady speed.",
           "why": "A strong answer says that the steady speed depends on the balance of drag and weight, and a bigger drop has a higher steady speed.",
@@ -3058,7 +3058,7 @@
     },
     {
       "t": "mcq",
-      "p": "A car goes from 30 kilometres an hour to 60. About how does the air drag change?",
+      "p": "A car goes from 30 kilometres an hour to 60. About how much does the air drag change?",
       "opts": [
         "It becomes about 4 times bigger",
         "It stays the same",
@@ -3089,7 +3089,7 @@
         "They fall at the same speed"
       ],
       "a": 0,
-      "why": "A heavier load needs more drag to balance it, so it falls faster. But the speed grows only with the square root of the weight, so four times the weight gives about twice the speed.",
+      "why": "A heavier load needs more drag to balance it, so it falls faster. But the speed grows only with the square root of the weight. The square root of 4 is 2, so four times the weight gives about twice the speed.",
       "outcome": 1
     },
     {
@@ -3257,7 +3257,7 @@
   "open_questions": [
     {
       "q": "Can anyone predict exactly how the swirling air behind a moving thing will behave?",
-      "why_open": "The equations for moving air are well known, but nobody can solve them exactly for swirling, turbulent air. Whether they always have smooth answers is a million-dollar prize problem."
+      "why_open": "The equations for moving air are well known, but nobody can solve them exactly for swirling air, which scientists call turbulent. Whether they always have smooth answers is a million-dollar prize problem."
     },
     {
       "q": "How much energy does a V really save for each kind of bird?",
@@ -3337,7 +3337,7 @@
       "answer": "9 times.",
       "explain": "30 is 3 times 10. The drag grows with the square of the speed, so it is 3 times 3, which is 9 times.",
       "math_unit": "math.number-sense.powers-and-roots.L4",
-      "context": "You have learned that drag grows faster than speed.",
+      "context": "Drag grows faster than speed: twice the speed gives about four times the drag.",
       "why_maths": "Squaring a number lets you predict how much harder the wind pushes when you go faster."
     },
     {
@@ -3349,7 +3349,7 @@
       "why_maths": "A steady speed makes the sum easy: distance divided by speed gives the time."
     },
     {
-      "problem": "The 1-coin parachute lands 2 metres down in 2.6 seconds. Four times the weight gives about twice the speed. About how long would the 4-coin parachute take to fall the same 2 metres?",
+      "problem": "The 1-coin parachute takes 2.6 seconds to fall 2 metres. Four times the weight gives about twice the speed. About how long would the 4-coin parachute take to fall the same 2 metres?",
       "answer": "About 1.3 seconds.",
       "explain": "Twice the speed means half the time. Half of 2.6 is 1.3 seconds.",
       "math_unit": "math.fractions.ratio-and-proportion.L4",
@@ -3396,7 +3396,7 @@
       "answer": "198,000 metres, which is 198 kilometres.",
       "explain": "There are 3,600 seconds in an hour. 55 times 3,600 is 198,000 metres. Divide by 1,000 to get 198 kilometres.",
       "math_unit": "math.length.kilometres-and-conversions.L4",
-      "context": "A skydiver stops speeding up when drag equals her weight, at a steady speed.",
+      "context": "A skydiver stops speeding up when drag equals her weight. After that she falls at a steady speed.",
       "why_maths": "Changing metres each second into kilometres an hour lets you compare her speed with a car or a train."
     },
     {
@@ -3649,5 +3649,5 @@
     "wrong_idea": "The neat mathematics said that a smooth object in a smooth fluid would feel no drag. The sums left out the thin sticky layer of air, and Prandtl's experiment showed that this layer, and the wake it makes, is where drag comes from."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Parachute Races: the fall times are estimates from the usual sums for a polythene canopy. Expect about 2 seconds for the small canopy and 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 for the scrunched ball. A canopy that folds up counts as a failed drop and is repeated. A stopwatch adds about a fifth of a second of error, so the steps ask for the average of three drops. Steer a Paper Plane: the usual result is that both back edges bent up make the nose rise, both bent down make it dive, and one up and one down turn the plane towards the wing with the flap up. Results depend on a level, gentle throw, so the steps say what to do if a plane behaves oddly. The Card in the Fan: the card should swing a clear 10 to 30 centimetres on a low fan setting. The open cup and the flat card are blown about the same, and the cup's rounded back much less. Whirls Behind a Spoon and Swish in the Smoke need a still room and a thin sprinkle of pepper or a thin ribbon of smoke. If the whirls are faint, move more slowly or more quickly, and try again. Smoke is skipped for anyone with breathing trouble. Straw Hoop Glider: the small hoop goes in front. The result with the hoops turned round has not been tried, so the steps say to write what is seen. Cup Wind Meter: the cups must all face the same way or it will not spin. Facts to check before the unit goes live: Haldane's essay was in 1926 and he moved to India in 1957; Sarla Thakral's 1936 solo flight at the age of 21; Anna Mani's work on wind and sunshine instruments; the 2014 ibis study and the 2001 pelican study; Prandtl's water channel; the density of air at 10 kilometres being about a third of that at the ground; the Apollo 15 hammer and feather drop in 1971; and the SRE-1 landing in January 2007. The videos have no address yet.",
- "warm": {"words": ["PLANE", "FLAPS", "SPEED", "GEESE", "FALLS"], "quiz": [["Drag always pushes against the direction a thing is moving.", true, "Drag is the air pushing back on a moving thing, so it always works against the movement."], ["A thing falling through air keeps speeding up for as long as it falls.", false, "Drag grows with speed. When drag equals weight, the thing stops speeding up and falls at a steady speed."], ["If a thing goes twice as fast, the drag on it is about four times bigger.", true, "At everyday speeds drag grows with the square of the speed, so doubling speed gives about four times the drag."], ["With no air at all, heavy things fall faster than light things.", false, "Without air there is no drag, so all things fall together. This was seen on the Moon."], ["The best shape for moving through air is round at the front and gently tapered at the back.", true, "Air flows smoothly round this shape and closes up neatly behind it, leaving a small wake."], ["The best shape for moving through air always has a sharp, pointed front.", false, "At everyday speeds, a rounded front with a long gentle tail has less drag than a sharp point."], ["A plane turns mainly by banking, so its tilted wings pull it round the curve.", true, "Rolling the wings over changes the lift, and that lift pulls the plane round. The rudder only fine-tunes."], ["A plane turns by pointing its rudder, just like a boat.", false, "A plane mostly banks to turn. Its rudder only swings the nose a little to fine-tune."], ["Air is empty space, so a moving thing meets nothing.", false, "Air has weight and pushes back. A card swished through still smoke leaves whirls behind that keep turning."], ["Geese in a V can save energy by catching rising air from the bird ahead.", true, "A flying bird leaves moving air behind, and a bird in the right place is lifted by it."]], "odd": [[["Teardrop shape", "Rounded front", "Long gentle tail", "Flat blunt front"], "Flat blunt front", "The first three let air flow smoothly and give less drag. A flat blunt front makes air pile up and swirl."], [["Going faster", "Wider face to the air", "Blunt shape", "Thinner air"], "Thinner air", "The first three make drag bigger. Thinner air has less to push back with, so drag gets smaller."], [["Raindrop", "Skydiver", "Falling leaf", "Hammer on the Moon"], "Hammer on the Moon", "The first three fall through air and reach a steady top speed. The Moon has no air, so there is no drag."], [["Pitch", "Roll", "Yaw", "Wake"], "Wake", "Pitch, roll and yaw are ways a plane can turn. A wake is the swirling air left behind."], [["Elevator", "Aileron", "Rudder", "Parachute canopy"], "Parachute canopy", "The first three are flaps that steer a plane. A canopy is the wide cloth that catches air to slow a fall."]]}
+ "warm": {"words": ["PLANE", "FLAPS", "SPEED", "GEESE", "FALLS"], "quiz": [["Drag always pushes against the direction a thing is moving.", true, "Drag is the air pushing back on a moving thing, so it always works against the movement."], ["A thing falling through air keeps speeding up for as long as it falls.", false, "Drag grows with speed. When drag equals weight, the thing stops speeding up and falls at a steady speed."], ["If a thing goes twice as fast, the drag on it is about four times bigger.", true, "At everyday speeds drag grows with the square of the speed, so doubling speed gives about four times the drag."], ["With no air at all, heavy things fall faster than light things.", false, "Without air there is no drag, so all things fall together. This was seen on the Moon."], ["The best shape for moving through air is round at the front and gently tapered at the back.", true, "Air flows smoothly round this shape and closes up neatly behind it, leaving a small wake."], ["The best shape for moving through air always has a sharp, pointed front.", false, "At everyday speeds, a rounded front with a long gentle tail has less drag than a sharp point."], ["A plane turns mainly by banking, so its tilted wings pull it round the curve.", true, "Rolling the wings over tilts the lift, and the tilted lift pulls the plane round. The rudder only fine-tunes the turn."], ["A plane turns by pointing its rudder, just like a boat.", false, "A plane mostly banks to turn. Its rudder only swings the nose a little, to fine-tune the turn."], ["Air is empty space, so a moving thing meets nothing.", false, "Air has weight and pushes back. A card swished through still smoke leaves whirls behind that keep turning."], ["Geese in a V can save energy by catching rising air from the bird ahead.", true, "A flying bird leaves moving air behind, and a bird in the right place is lifted by it."]], "odd": [[["Teardrop shape", "Rounded front", "Long gentle tail", "Flat blunt front"], "Flat blunt front", "The first three let air flow smoothly and give less drag. A flat blunt front makes air pile up and swirl."], [["Going faster", "Wider face to the air", "Blunt shape", "Thinner air"], "Thinner air", "The first three make drag bigger. Thinner air has less to push back with, so drag gets smaller."], [["Raindrop", "Skydiver", "Falling leaf", "Hammer on the Moon"], "Hammer on the Moon", "The first three fall through air and reach a steady top speed. The Moon has no air, so there is no drag."], [["Pitch", "Roll", "Yaw", "Wake"], "Wake", "Pitch, roll and yaw are ways a plane can turn. A wake is the swirling air left behind."], [["Elevator", "Aileron", "Rudder", "Parachute canopy"], "Parachute canopy", "The first three are flaps that steer a plane. A canopy is the wide cloth that catches air to slow a fall."]]}
 }

@@ -44,13 +44,13 @@
   {
    "term": "Rival explanations",
    "meaning": "Two or more explanations for the same thing you saw. They cannot all be right, so you have to find a way to choose between them.",
-   "example": "Leaked through the steel and came out of the air are rival explanations for the drops.",
+   "example": "'It leaked through the steel' and 'it came out of the air' are rival explanations for the drops on a cold tumbler.",
    "art": "Two arrows pointing to the same wet tumbler from two different ideas."
   },
   {
    "term": "Hypothesis",
    "meaning": "The scientists' word for an explanation that you can test. A hypothesis has to be something that could turn out wrong.",
-   "example": "The drops come from the air is a hypothesis. We can colour the water inside and see whether the drops are coloured.",
+   "example": "'The drops come from the air' is a hypothesis. We can colour the water inside and see whether the drops are coloured.",
    "art": "A card with the words 'The drops come from the air' and a tick-box marked 'test it'."
   },
   {
@@ -68,7 +68,7 @@
   {
    "term": "Deciding question",
    "meaning": "A question that two explanations answer differently. When you get the answer, one explanation is in trouble.",
-   "example": "Is the water on the outside the same colour as the water inside? Leaking says yes, and the air idea says no.",
+   "example": "Is the water on the outside the same colour as the water inside? The leaking idea says yes, and the air idea says no.",
    "art": "A fork in a path, each branch labelled with one explanation, and a question mark at the fork."
   },
   {
@@ -133,7 +133,7 @@
   },
   {
    "term": "Pulsar",
-   "meaning": "A star that has collapsed into a tiny, spinning ball and sends out a beam that sweeps past the Earth like a lighthouse, so we get a pulse each turn.",
+   "meaning": "A star that has collapsed into a tiny, spinning ball. It sends out a beam that sweeps past the Earth like the beam of a lighthouse, so we get one pulse each turn.",
    "example": "The first pulsar was found by Jocelyn Bell in 1967 as a regular blip on a paper chart.",
    "art": "A tiny bright star with two beams sweeping through space like a lighthouse."
   }
@@ -153,10 +153,10 @@
    "perspectives": []
   },
   {
-   "concept": "Rival explanations: many stories for one sight",
+   "concept": "Rival explanations: many stories for one thing you saw",
    "status": "defined",
    "definition": "Rival explanations are different explanations for the same observation. Usually at most one of them is right.",
-   "description": "One sight can have many stories. A wet patch appears on the wall under the bathroom. Is it a leaking pipe? Is it rain coming through the terrace? Is it damp from the cold water pipe? Each story fits the wet patch. So the wet patch alone cannot choose between them. This is why we write the rival explanations down side by side before we test anything. It stops us falling in love with the first story we thought of. It also reminds us to look for a fourth story, because the right one is sometimes the one nobody has said yet.",
+   "description": "One thing you see can have many stories. A wet patch appears on the wall under the bathroom. Is it a leaking pipe? Is it rain coming through the terrace? Is it damp from the cold water pipe? Each story fits the wet patch. So the wet patch alone cannot choose between them. This is why we write the rival explanations down side by side before we test anything. It stops us falling in love with the first story we thought of. It also reminds us to look for a fourth story, because the right one is sometimes the one nobody has said yet.",
    "examples": [
     "Drops on a cold tumbler: the water leaked through, it came out of the air, or it was my own wet hand.",
     "A dosa batter rises overnight: it was the warm kitchen, the time, or the microbes already in the batter.",
@@ -169,11 +169,11 @@
    "concept": "A deciding question tells two ideas apart",
    "status": "defined",
    "definition": "A deciding question is a question that two explanations answer differently. Whichever answer you get, at least one explanation is in trouble.",
-   "description": "Watching more of the same thing often cannot choose between two ideas, because both ideas fit. You need a question where the ideas disagree. For the tumbler, ask: what colour will the drops be if the water inside is coloured? If the water leaked through the steel, the drops will be coloured. If the water came from the air, the drops will be clear. The ideas disagree, so the colour decides. To find a deciding question, take each idea in turn and ask: if this were true, what else would I see, that the other idea would not give me?",
+   "description": "Watching more of the same thing often cannot choose between two ideas, because both ideas fit. You need a question where the ideas disagree. For the tumbler, ask: what colour will the drops be if the water inside is coloured? If the water leaked through the steel, the drops will be coloured. If the water came from the air, the drops will be clear. The ideas disagree, so the colour decides. To find a deciding question, take each idea in turn and ask: if this idea were true, what else would I see that I would not see if the other idea were true?",
    "examples": [
-    "Bell or dusk: do the pigeons still leave on an evening when the bell does not ring?",
-    "Leak or air: is the water on the outside the same colour as the water inside?",
-    "Wet patch from a pipe or from rain: does the patch grow on a dry day?"
+    "Do pigeons leave a water tank because of the temple bell or because of the dusk? Ask: do the pigeons still leave on an evening when the bell does not ring?",
+    "Did the drops on a cold tumbler leak through the steel or come from the air? Ask: is the water on the outside the same colour as the water inside?",
+    "Is a wet patch on the wall from a pipe or from rain? Ask: does the patch grow on a dry day?"
    ],
    "art": "A signpost at a fork in a path, each arm pointing to one idea, with a question on the post.",
    "perspectives": []
@@ -198,7 +198,7 @@
    "description": "Suppose someone says: the drops are made by a tiny invisible helper who hides whenever we look. Whatever we see, the helper explains it. If the drops are clear, the helper made them clear. If they are yellow, the helper made them yellow. An idea that fits every possible result tells us nothing about this tumbler. It might even be true, but we cannot test it. A good scientific idea sticks its neck out. It says: if I am right, you will see this. If you do not see it, I am wrong. That is what makes it useful, because it can be checked by anyone.",
    "examples": [
     "'The drops come from the air' sticks its neck out. A coloured-water test could show it wrong.",
-    "'Pigeons leave because of the bell' sticks its neck out. A bell-free evening could show it wrong.",
+    "'Pigeons leave because of the bell' sticks its neck out. An evening without the bell could show it wrong.",
     "'Mangoes taste best because that is how mangoes are' cannot be tested, because no result could ever show it wrong."
    ],
    "art": "A boxer's head sticking out of a box labelled testable idea, next to a closed box labelled can never be wrong.",
@@ -221,7 +221,7 @@
    "concept": "Why drops form on the outside of a cold tumbler",
    "status": "defined",
    "definition": "The air around us holds invisible water called water vapour. When air touches something cold, some of its vapour turns into tiny drops of liquid water. This is called condensation.",
-   "description": "Air is a mix of gases, and one of them is water vapour. Warmer air can hold more vapour than colder air. When air touches the cold steel, the air right next to the steel cools. It can no longer hold all its vapour as a gas. Some of the vapour turns into liquid and lands on the steel as tiny drops. The drops grow and join. The water does not come from inside the tumbler. The steel is a closed wall, and coloured water inside does not cross it. A warm tumbler does not sweat, because the air next to it stays warm. On a very dry day the drops come slowly, because there is less vapour to collect.",
+   "description": "Air is a mix of gases, and one of them is water vapour. Warmer air can hold more vapour than colder air. When air touches the cold steel, the air right next to the steel cools. It can no longer hold all its vapour as a gas. Some of the vapour turns into liquid and lands on the steel as tiny drops. The drops grow and join. The water does not come from inside the tumbler. The steel is a closed wall, and coloured water inside does not cross it. A warm tumbler stays dry, because the air next to it stays warm. On a very dry day the drops come slowly, because there is less vapour to collect.",
    "examples": [
     "A cold bottle taken from the fridge is wet within minutes, though its cap is shut tight.",
     "Mist forms on a bathroom mirror after a hot shower, because the warm moist air touches the cooler glass.",
@@ -247,7 +247,7 @@
    "concept": "A pattern is not the same as a cause",
    "status": "defined",
    "definition": "When two things go together, one may cause the other, or a third thing may cause both, or it may be chance. A pattern alone cannot tell you which.",
-   "description": "Taller people have longer arms. Does being tall make your arms long? Partly, because the same growing body makes both. Something else goes along with height too: older children are taller, and they also have bigger shoes. Bigger shoes do not make children taller. Age makes both bigger. When we find a pattern, we should say 'these go together' and then ask why. To find out whether one thing causes another, we need a fair test, where we change one thing ourselves. If we cannot, we keep looking for other things that could explain the pattern.",
+   "description": "Taller people have longer arms. Does being tall make your arms long? Not quite. One growing body makes both the height and the arms. Something else goes along with height too: older children are taller, and they also have bigger shoes. Bigger shoes do not make children taller. Age makes both bigger. When we find a pattern, we should say 'these go together' and then ask why. To find out whether one thing causes another, we need a fair test, where we change one thing ourselves. If we cannot, we keep looking for other things that could explain the pattern.",
    "examples": [
     "Shoe size and reading ability go together in primary school, because both grow with age.",
     "Ice cream sales and sunburn cases go up together, because both happen on hot sunny days.",
@@ -260,11 +260,11 @@
    "concept": "When the result is a surprise",
    "status": "defined",
    "definition": "A surprising result is a result that does not match your prediction. Check it, repeat it, write it down as it is, and then ask what it could mean.",
-   "description": "Sometimes a test gives a result that nobody expected. The first thing to do is not to throw it away. First check that you did the test the way you planned, and read the measurement again. Then repeat the test. If the surprise happens again, it is real, and you have learned something new. It may mean the idea was wrong, or that a detail you did not think of matters. If it does not happen again, write down that the first result was probably a slip. Many important discoveries began as a surprising result that someone kept and looked at. Jocelyn Bell noticed a strange mark on a paper chart and would not let it go.",
+   "description": "Sometimes a test gives a result that nobody expected. Do not throw it away. First check that you did the test the way you planned, and read the measurement again. Then repeat the test. If the surprise happens again, it is real, and you have learned something new. It may mean the idea was wrong, or that a detail you did not think of matters. If it does not happen again, write down that the first result was probably a slip. Many important discoveries began as a surprising result that someone kept and looked at. Jocelyn Bell noticed a strange mark on a paper chart and would not let it go.",
    "examples": [
     "You expect the warm tumbler to stay dry, but it gets a few drops. Perhaps the room is very humid.",
     "One person's arm span is 10 centimetres more than their height. Measure again before you decide it is real.",
-    "A pigeon stays on the tank after the usual time. Write it down. It may be one pigeon, or a clue."
+    "A pigeon stays on the tank after the usual time. Write it down. It may be just one odd pigeon, or it may be a clue."
    ],
    "art": "A hand holding a strange squiggle on a paper chart with a magnifying glass over it, and a note: check, repeat, write it down.",
    "perspectives": []
@@ -273,9 +273,9 @@
    "concept": "Why we see what we expect",
    "status": "defined",
    "definition": "People notice and remember what fits their idea more than what does not. Writing the prediction first, and asking what would show us wrong, helps us fight this habit.",
-   "description": "When an idea feels right to us, we tend to notice the evidence for it and overlook the evidence against it. This happens to children and grown-ups, and to scientists too. A person who thinks the bell scares the pigeons will notice the evenings when the bell and the leaving happen together. They may not even notice the evening the bell was late. Psychologists have shown this in many experiments. The cure is not to stop having ideas. The cure is to write the predictions before the test, to ask 'what would show me wrong?' and to ask someone who disagrees to look at the results too.",
+   "description": "When an idea feels right to us, we tend to notice the evidence for it and overlook the evidence against it. This happens to children and grown-ups, and to scientists too. A person who thinks the temple bell scares the pigeons away will notice the evenings when the bell rings and the pigeons leave at the same moment. They may not even notice the evening the bell was late. Psychologists have shown this in many experiments. The cure is not to stop having ideas. The cure is to write the predictions before the test, to ask 'what would show me wrong?' and to ask someone who disagrees to look at the results too.",
    "examples": [
-    "Two friends who each hope their team wins see the same close match and each count different fouls.",
+    "Two friends support different teams. They watch the same close match, and each one counts different fouls.",
     "A child who expects the lemon slice to stay white may not look closely at a brown edge.",
     "Francis Bacon, an English thinker, wrote in 1620 that a mind that has taken up an idea draws everything else in to support it."
    ],
@@ -286,7 +286,7 @@
    "concept": "Signal or noise? Jocelyn Bell's star-time test",
    "status": "defined",
    "definition": "A signal is a pattern that carries information. Noise is random wobble. To check whether a strange mark is a signal from far away or noise from nearby, ask when it comes back.",
-   "description": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She was checking long paper charts from a radio telescope, a set of wires that listens for radio waves from space. She noticed a small strange mark, which she called a 'bit of scruff'. It came again. At first the team asked if it was interference from something on Earth, such as a car or a radio. Here was a deciding question. A thing in the sky rises and sets with the stars, and comes back about four minutes earlier by the clock each day. A car or a machine follows the clock on the wall. The mark followed the stars. So it came from space. We now know that it came from a pulsar.",
+   "description": "In 1967 Jocelyn Bell was a research student at Cambridge in England. She was checking long paper charts from a radio telescope, a set of wires that listens for radio waves from space. She noticed a small strange mark, which she called a 'bit of scruff'. It came again. At first the team asked if it was interference from something on Earth, such as a car or a radio. The deciding question was: when does the mark come back? A thing in the sky rises and sets with the stars, and comes back about four minutes earlier by the clock each day. This is called star time. A car or a machine follows the clock on the wall. The mark followed the stars. So it came from space. We now know that it came from a pulsar.",
    "examples": [
     "A noisy machine next door follows the clock. A star follows star time, about four minutes earlier each day.",
     "A radio crackle every evening at six may be a neighbour's machine. A crackle that moves earlier each day may not be.",
@@ -298,12 +298,12 @@
   {
    "concept": "How do pigeons tell that evening is coming?",
    "status": "idea",
-   "definition": "Many town birds settle for the night as the light fades, and a dark cloudy evening can send them to roost early. Scientists know that light matters. They are still working out exactly how birds judge it.",
-   "description": "Birds have eyes, and they also have light-sensitive cells deep in the brain. Scientists have found that these help a bird tell day length and the time of year. Evening roosting seems to depend on how bright the sky is, and also on the bird's own inner body clock. Birds in cities also meet street lights, which can change when they sleep. We do not yet know exactly how all these signals are added up by the bird. This is a good example of an idea where we know a part and are still asking.",
+   "definition": "Many town birds settle for the night as the light fades, and a dark cloudy evening can make them settle early. Scientists know that light matters. They are still working out exactly how birds judge it.",
+   "description": "Birds have eyes, and they also have light-sensitive cells deep in the brain. Scientists have found that these help a bird tell day length and the time of year. The time when birds settle for the night seems to depend on how bright the sky is, and also on the bird's own inner body clock. Birds in cities also meet street lights, which can change when they sleep. We do not yet know exactly how the bird adds up all these signals. This is a good example of something we know in part and are still asking about.",
    "examples": [
-    "Many crows gather to roost in the same trees around dusk in Indian cities.",
+    "Many crows gather in the same trees around dusk in Indian cities, to settle for the night.",
     "Street lights can keep some city birds singing late into the night, which scientists have studied.",
-    "A very dark rain cloud in the afternoon can send birds to roost early."
+    "A very dark rain cloud in the afternoon can make birds settle for the night early."
    ],
    "art": "Pigeons settling along a rooftop edge under an orange evening sky with a faint streetlight beginning to glow.",
    "perspectives": []
@@ -361,7 +361,7 @@
    "claim": "I saw the water leak through the steel.",
    "who": "Many children, and some grown-ups.",
    "for": "Water appears on the outside of a cold tumbler. It is easy to think it came from the inside.",
-   "against": "Nobody can see water crossing steel. What was seen was drops on the outside. A drop of coloured water inside leaves the outside drops clear, which shows the water came from somewhere else.",
+   "against": "Nobody can see water crossing steel. What was seen was drops on the outside. When the water inside is coloured, the drops outside stay clear. This shows the water came from somewhere else.",
    "status": "rejected"
   },
   {
@@ -484,11 +484,11 @@
    "\"An evening when the two ideas disagree,\" said Chitra. \"One where the light goes at a different time from the bell.\"",
    "\"We cannot make the bell ring at a different time,\" said Kiran. \"The priest will not listen to me.\"",
    "Chitra looked up at the sky. The grey November clouds were already piling up in the west. \"Maybe the sky will do it for us.\"",
-   "For three evenings they watched and wrote. Day, bell, pigeons, sky. The pigeons left just as the bell began, and the sky was bright until the very end. On the fourth evening, black rain clouds rolled in before half past four. By five the streetlights were on, and the balcony was dim.",
+   "For three evenings they watched and wrote down the day, the bell, the pigeons and the sky. The pigeons left just as the bell began, and the sky was bright until the very end. On the fourth evening, black rain clouds rolled in before half past four. By five the streetlights were on, and the balcony was dim.",
    "They stood at the door with the notebook and a pencil. Kiran held his breath. At twelve minutes past five, the pigeons lifted off the tank, circled and left. The bell had not rung.",
    "\"They went early,\" whispered Kiran. They waited. At six the bell rang. The tank was empty and nothing moved.",
    "\"So it is not the bell,\" said Kiran, a little sadly.",
-   "\"Not on this evening,\" said Chitra. \"But you have a good point coming, I can see it.\"",
+   "\"Not on this evening,\" said Chitra. \"But I can see you have a good point coming.\"",
    "Kiran jumped. \"What if the rain scared them? Rain is loud, too!\"",
    "Chitra beamed. \"A third idea. Good. Now we need a dark evening with no rain.\" She wrote it down.",
    "Two evenings later the sky was thick and grey all afternoon, but no drop fell. The pigeons left early again, when the light had gone dim. And one more evening, the temple priest was away and the bell did not ring at all. The pigeons left at the usual time.",
@@ -505,7 +505,7 @@
    "What was the deciding question that Chitra found, and what did each idea predict about it?",
    "Kiran suggested a third idea, that the rain scared the pigeons. How did Chitra test it?",
    "Chitra said she could not be sure about every pigeon in Mysuru. Why was that a good thing to say?",
-   "What is the next question that Kiran asked, and how might you find out?"
+   "What question did Kiran ask at the end? How might you find the answer?"
   ],
   "art": [
    "A girl and a small boy on a flat balcony at dusk, holding glasses of milk, watching pigeons fly off a rooftop water tank.",
@@ -669,7 +669,7 @@
    ],
    "rules": [
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
-    "Every other player puts one token face down. The two tokens are I SAW and I THINK.",
+    "Every other player chooses I SAW or I THINK and puts that token face down.",
     "Everyone turns their tokens over together. Then the reader reads the back.",
     "A player scores 1 point for each right token. Tick a box on the score sheet.",
     "If the card says I THINK, any player can win 1 bonus point by saying a different story that fits the same thing.",
@@ -690,8 +690,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Read the first three cards as practice. Let everyone choose a token first. Then read the back of each card.",
-     "say": "Here is the first card. Do you think I SAW or I THINK? Hold up your token. Now we turn it over together. What does the back say?",
-     "kid": "Read a card. Pick a token. Turn it over. Check the back.",
+     "say": "Here is the first card. Is it I SAW or I THINK? Put your token face down. Now we turn the tokens over together. What does the back of the card say?",
+     "kid": "Read a card. Pick a token and put it face down. Turn the token over. Check the back of the card.",
      "context": "In this step, you play three practice cards and learn how to score.",
      "parent": "Let your child choose without hints. If a card feels tricky, ask: 'Could someone else tell a different story about it?'",
      "check": {
@@ -715,7 +715,7 @@
      "context": "In this step, you play most of the cards. You also practise making rival stories.",
      "ask": [
       {
-       "q": "A card says 'The ants smelled the sugar from far away.' What else might explain it?",
+       "q": "A card says 'The ants smelled the sugar from far away.' What else might explain how the ants found the sugar?",
        "good": [
         "They followed a trail left by another ant.",
         "They saw the sugar.",
@@ -731,8 +731,8 @@
      "do": "Add up the points. Look at the cards that fooled you. Talk about what made them sound like 'I SAW' when they were 'I THINK'.",
      "say": "Let's count the points. Which cards fooled someone? What made them sound like something we saw?",
      "kid": "Add up your points. Which card fooled you? Why?",
-     "context": "In this step, you add up and talk about the cards that tricked you.",
-     "think": "Words like because, wants, made and is angry are clues that a story slipped in. Can you spot more of them?"
+     "context": "In this step, you add up the points and talk about the cards that tricked you.",
+     "think": "Words like 'because', 'wants', 'made' and 'is angry' are clues that a story slipped in. Can you spot more of them?"
     }
    ]
   },
@@ -787,7 +787,7 @@
       },
       {
        "f": "A steel spoon and a wooden spoon lie on the table. The steel feels colder. Idea A: the steel really is colder. Idea B: the steel only feels colder because it takes heat from your hand faster. Which check tells them apart? 1) Touch them again. 2) Leave them in the same room for an hour, and then put a room thermometer against each. 3) Weigh them.",
-       "b": "Check 2. If A is true, the thermometer will read lower for the steel. If B is true, both will read the same. Touching again just repeats the feeling, and weighing does nothing to temperature."
+       "b": "Check 2. If A is true, the thermometer will read lower for the steel. If B is true, both will read the same. Touching again just repeats the feeling, and weighing tells you nothing about temperature."
       },
       {
        "f": "A streetlight comes on at 6:10 pm. Idea A: a timer switches it at the same clock time each day. Idea B: a light sensor switches it when it gets dark. Which check tells them apart? 1) Watch it on a very dark, cloudy evening. 2) Look closely at the bulb. 3) Count the poles on the street.",
@@ -815,11 +815,11 @@
       },
       {
        "f": "A humming sound comes from the kitchen wall at night. Idea A: the fridge is making it. Idea B: the water pipes are making it. Which check tells them apart? 1) Ask a grown-up to switch the fridge off for two minutes and listen. 2) Put a pillow on your head. 3) Wait until morning.",
-       "b": "Check 1. If A is true, the hum stops when the fridge is off, and the grown-up should switch it back on afterwards. If B is true, the hum carries on. A pillow or waiting does not tell the ideas apart."
+       "b": "Check 1. If A is true, the hum stops when the fridge is off. If B is true, the hum carries on. A pillow or waiting does not tell the ideas apart. Ask the grown-up to switch the fridge back on afterwards."
       },
       {
        "f": "The kolam at the door is gone by the evening. Idea A: people walking over it rub it away. Idea B: the wind blows it away. Which check tells them apart? 1) Draw one small kolam indoors where people walk but there is no wind, and one on a quiet balcony ledge where the wind blows but nobody walks. 2) Draw it bigger. 3) Draw it earlier in the morning.",
-       "b": "Check 1. If A is true, the indoor kolam will fade and the balcony kolam will stay. If B is true, it will be the other way round. Drawing it bigger or earlier changes neither idea."
+       "b": "Check 1. If A is true, the indoor kolam will fade and the balcony kolam will stay. If B is true, it will be the other way round. Drawing the kolam bigger or earlier does not separate the ideas."
       },
       {
        "f": "The wooden door sticks in the monsoon but not in summer. Idea A: the wood swells in the damp. Idea B: the hinges rust. Which check tells them apart? 1) Put a few drops of oil on the hinges and see whether the door still sticks on a damp day. 2) Push harder. 3) Paint the door.",
@@ -870,7 +870,7 @@
      "context": "In this step, you play one practice card and learn how to work out what each idea would show.",
      "ask": [
       {
-       "q": "Why does looking longer not help?",
+       "q": "Why does looking at the tumbler for longer not help to choose between the two ideas?",
        "good": [
         "Both ideas say the drops will look the same.",
         "I would just see more drops, which both ideas expect."
@@ -893,7 +893,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Play the other 15 cards. Take turns to read. For each card, say out loud what each idea would show before you choose.",
-     "say": "Read the card. Say what idea A would show. Say what idea B would show. Then choose the check. Hold up your fingers together.",
+     "say": "Read the card. Say what idea A would show. Say what idea B would show. Then choose the check. Everyone holds up their fingers at the same time.",
      "kid": "Take turns. Say what each idea would show. Then pick a check.",
      "context": "In this step, you play most of the cards and practise finding deciding questions.",
      "parent": "If your child picks the wrong check, do not tell them yet. Ask: 'What would you see with idea A? And with idea B?' Usually they find it themselves."
@@ -927,7 +927,7 @@
    "days": 1,
    "question": "A steel tumbler of ice water gets wet on the outside. Did the water leak through the steel, or did it come from the air?",
    "predict": "Before you start, guess. What will happen to the outside of a tumbler filled with ice water? Where do you think the water will come from? Why do you think so? Write your guess and your reason.",
-   "fair_test": "This test puts two ideas against each other. It does not change one thing to see what it does. The deciding question is the colour of the drops. Leaking predicts coloured drops, and water from the air predicts clear drops. To keep it fair, both tumblers are the same size and start dry. They stand on the same kind of plate in the same place and are checked at the same times. The warm tumbler is the control, because it shows what the room does when the steel is not cold.",
+   "fair_test": "This test puts two ideas against each other. It does not change one thing to see what it does. The deciding question is: what colour are the drops? Leaking predicts coloured drops, and water from the air predicts clear drops. To keep it fair, both tumblers are the same size and start dry. They stand on the same kind of plate in the same place and are checked at the same times. The warm tumbler is the control, because it shows what the room does when the steel is not cold.",
    "results_table": [
     "Time (minutes)",
     "Cold tumbler: what the outside looks like",
@@ -996,7 +996,7 @@
      "mins": 5,
      "do": "Show your child the two tumblers and the ice. Ask what will happen to the outside of the ice-water tumbler. Ask why. Write the guess and the reason at the top of the page.",
      "say": "We will fill this tumbler with ice water. In ten minutes, what do you think the outside will look like? Why do you think so?",
-     "kid": "A tumbler of ice water. What will the outside look like in ten minutes? Why?",
+     "kid": "We will fill a tumbler with ice water. What will the outside look like in ten minutes? Why?",
      "context": "This is the first step of the Weeping Tumbler. You guess before you test.",
      "ask": [
       {
@@ -1015,7 +1015,7 @@
      "mins": 5,
      "do": "Tell your child that people disagree about where the water comes from. Write two ideas. Idea A: the water leaked through the steel. Idea B: the water came from the air. Ask for a third idea. Then ask for an if-then sentence for each idea about the colour of the drops.",
      "say": "Some people say the water leaks through the steel. Some say it comes from the air. Do you have another idea? If we colour the water inside red, what will we see outside if idea A is true? And if idea B is true?",
-     "kid": "Two ideas. A: it leaks through. B: it comes from the air. What colour will the drops be for each?",
+     "kid": "There are two ideas about the drops. A: the water leaked through the steel. B: the water came from the air. If the water inside is red, what colour will the drops be for each idea?",
      "context": "In this step, you write the rival ideas and what each one predicts, before any test.",
      "ask": [
       {
@@ -1049,7 +1049,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Fill the first tumbler three-quarters with chilled water. Add 6 to 8 ice cubes. Stir in the colour until the water is strongly coloured. 2. Fill the second tumbler with warm tap water and the same amount of colour. 3. Wipe the outside of both tumblers completely dry. Do not touch the outsides again. 4. Put each tumbler on its own dry plate. 5. Start the timer and write the time.",
+     "do": "1. Fill the first tumbler three-quarters with chilled water. Add 6 to 8 ice cubes. Stir in the food colour or haldi until the water is strongly coloured. 2. Fill the second tumbler with warm tap water and the same amount of colour. 3. Wipe the outside of both tumblers completely dry. Do not touch the outsides again. 4. Put each tumbler on its own dry plate. 5. Start the timer and write the time.",
      "say": "Fill this one with chilled water and ice. Fill the other with warm water. Add the same colour to both. Now dry the outsides well. Do not touch them again.",
      "kid": "Fill one tumbler with ice water. Fill one with warm water. Add colour. Dry the outsides.",
      "context": "In this step, you set up both tumblers so they start dry and the same, except for the temperature.",
@@ -1080,8 +1080,8 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "1. On the cold tumbler, wipe one patch of the outside dry with a tissue. 2. Watch that patch for three minutes. 3. Ask your child where the new drops come from, if there is no hole.",
-     "say": "I will wipe this patch dry. Watch it for three minutes. What do you notice? If the steel leaked, where would the water come from now?",
+     "do": "1. On the cold tumbler, wipe one patch of the outside dry with a tissue. 2. Watch that patch for three minutes. 3. Ask your child: the steel has no hole, so where do the new drops come from?",
+     "say": "I will wipe this patch dry. Watch it for three minutes. What do you notice? The steel has no hole here. So where does the new water come from?",
      "kid": "Wipe one patch dry. Watch it. Do new drops come back?",
      "context": "In this step, you use a second test. You wipe one patch dry and see if drops return.",
      "ask": [
@@ -1099,13 +1099,13 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say or write a claim, the evidence and the reasoning. Then read the explanation 'Why drops form on the outside of a cold tumbler'.",
+     "do": "Ask your child to say or write three things: what they think happened (the claim), what they saw that shows it (the evidence), and why it happened that way (the reasoning). Then read the explanation 'Why drops form on the outside of a cold tumbler'.",
      "say": "What do you think happened? What did you see that shows it? Why do you think it happened that way?",
      "kid": "What did you find? What did you see? Why do you think so?",
      "context": "In this step, you say what you found, what you saw and why. Then you read the science.",
      "ask": [
       {
-       "q": "What do you think, what did you see, and why?",
+       "q": "What do you think happened? What did you see that shows it? Why did it happen that way?",
        "good": [
         "The water came from the air. The drops were clear but the water inside was red. The air has water vapour that turns to drops on the cold steel.",
         "I was wrong. I thought it leaked, but the colour stayed inside."
@@ -1173,7 +1173,7 @@
    ],
    "safety": "Ask each person before you measure them. Do not stand on chairs to reach the top of the wall.",
    "record": "Fill in the results table for each person. Draw a number line from minus 10 to plus 10 and put a dot for each person's span minus height.",
-   "context": "In this experiment, you measure the height and arm span of six or more people and look for a pattern, as Leonardo da Vinci drew about 1490.",
+   "context": "In this experiment, you measure the height and arm span of six or more people and look for a pattern. In about 1490, Leonardo da Vinci drew a person whose arm span was equal to their height.",
    "setup": [
     {
      "art": "A girl standing barefoot with her back against a wall while a helper holds a flat book on her head and marks the wall with a pencil.",
@@ -1202,7 +1202,7 @@
      "mins": 5,
      "do": "Ask your child to guess whether arm span will be shorter than height, the same, or longer. Ask why. Write the guess. Draw the results table.",
      "say": "Stretch your arms out wide. Do you think the distance from fingertip to fingertip is shorter than your height, the same or longer? Why do you think so?",
-     "kid": "Arms wide. Is your span shorter, the same, or longer than your height? Why?",
+     "kid": "Stretch your arms out wide. Is your arm span shorter than your height, the same, or longer? Why?",
      "context": "This is the first step of the Arm Span test. You guess before you measure.",
      "ask": [
       {
@@ -1238,8 +1238,8 @@
       "t": "mcq",
       "q": "You measure the same child twice and get 128 cm and 129 cm. What is the best thing to do?",
       "options": [
-       "Write both numbers and use the bigger one or the middle, and say there is about a centimetre of wobble",
-       "Throw away one and not say",
+       "Write both numbers, use the middle or the bigger one, and say there is about a centimetre of wobble",
+       "Throw one number away and tell nobody",
        "Measure a third time and hide the other two"
       ],
       "a": 0,
@@ -1262,7 +1262,7 @@
      "say": "Now we measure everyone else the same way. Write each number in the table. Then take away the height from the span. If the span is shorter, the answer is a number below zero.",
      "kid": "Measure at least five more people. Write each person in your table.",
      "context": "In this step, you measure at least five more people and fill in the table.",
-     "parent": "Roles for 2 to 4 children: one stands, one holds the book and the sticky note, one holds the tape, one writes. Swap so each child measures and is measured. With one child, you are the helper and measure the child, then yourself with your child's help. You need at least six people. If your home has only four, ask two neighbours or friends. You can also measure again on another day. Measure at least one child and at least one grown-up. Children grow, so their spans may differ from adults' spans in a different way."
+     "parent": "Roles for 2 to 4 children: one stands, one holds the book and the sticky note, one holds the tape, one writes. Swap so each child measures and is measured. With one child, you are the helper and measure the child, then yourself with your child's help. You need at least six people. If your home has only four, ask two neighbours or friends. You can also measure again on another day. Measure at least one child and at least one grown-up. Children are still growing, so the gap between their span and their height may not be the same as for grown-ups."
     },
     {
      "id": "s5",
@@ -1285,7 +1285,7 @@
        "good": [
         "Measure them again.",
         "Check the tape was straight.",
-        "Write them in anyway if it is the same twice."
+        "Keep them in the table if the second measurement is the same."
        ]
       }
      ]
@@ -1293,7 +1293,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Ask your child to say a claim, the evidence and the reason. Then ask what the numbers cannot tell us. Read the explanation 'Looking for a pattern in many cases'.",
+     "do": "Ask your child to say three things: what they found (the claim), which numbers show it (the evidence), and why they think so (the reason). Then ask what the numbers cannot tell us. Read the explanation 'Looking for a pattern in many cases'.",
      "say": "What can you say about span and height from your numbers? What can you not say?",
      "kid": "What did you find? What can't you say from only a few people?",
      "context": "In this step, you write a careful conclusion from your numbers. You also say what you cannot tell.",
@@ -1307,7 +1307,7 @@
        ]
       }
      ],
-     "parent": "A typical result is that most people are within a few centimetres of zero, with some a little over and some under. Grown-ups, especially men, often have a span a few centimetres longer than their height, and the numbers wobble more with a small group, so do not be surprised if only half your people are within 3 centimetres. Leonardo drew arm span equal to height, but real people vary. If your child's numbers are all over the place, check the measuring before you decide there is no pattern.",
+     "parent": "A typical result is that most people are within a few centimetres of zero, with some a little over and some under. Grown-ups, especially men, often have a span a few centimetres longer than their height. The numbers wobble more with a small group, so do not be surprised if only half your people are within 3 centimetres. Leonardo drew arm span equal to height, but real people vary. If your child's numbers are all over the place, check the measuring before you decide there is no pattern.",
      "check": {
       "t": "mcq",
       "q": "Six people have an arm span within 4 centimetres of their height. Which claim goes too far?",
@@ -1347,16 +1347,16 @@
      "qty": 1
     }
    ],
-   "safety": "Keep it a quiet scene. Do not leave water where someone can slip. Use an old peel and crumbs that nobody will eat, so food allergies do not matter.",
+   "safety": "Keep the scene small and calm. Do not leave water where someone can slip. Use an old peel and crumbs that nobody will eat, so food allergies do not matter.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Stage the scene. Write what you saw and what you think. Make a rival story and a deciding question."
+     "what": "Set up the scene. Write what you saw and what you think. Make a rival story and a deciding question."
     }
    ],
    "record": "A page with two columns, I saw and I think. Under it, one rival story and one deciding question.",
-   "context": "In this activity, you stage a small scene in the kitchen and sort your sentences about it into what you saw and what you think.",
+   "context": "In this activity, a grown-up sets up a small scene in the kitchen. You sort your sentences about it into what you saw and what you think.",
    "setup": [
     {
      "art": "A kitchen table with a plate of crumbs, a banana peel, a half-full glass with a wet ring, a chair pulled out and a slipper on its side.",
@@ -1375,10 +1375,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "While your child waits outside, stage the scene. Put crumbs and a banana peel on a plate. Add a half-full glass with a wet ring, a chair pulled out and a slipper on its side. Then call your child in.",
-     "say": "Close your eyes. I am setting a scene. Now come in and look carefully. Do not touch anything. What do you see?",
-     "kid": "Wait outside. A grown-up sets a scene. Then come in and look. Do not touch.",
-     "context": "This is the first step of the Kitchen Scene. A grown-up sets the scene.",
+     "do": "While your child waits outside, set up the scene. Put crumbs and a banana peel on a plate. Add a half-full glass with a wet ring, a chair pulled out and a slipper on its side. Then call your child in.",
+     "say": "Wait outside while I set up a scene. Now come in and look carefully. Do not touch anything. What do you see?",
+     "kid": "Wait outside. A grown-up sets up a scene. Then come in and look. Do not touch.",
+     "context": "This is the first step of the Kitchen Scene. A grown-up sets up the scene.",
      "adult": true,
      "parent": "Keep the scene gentle and silly. Avoid anything that looks like a real mess or a real accident."
     },
@@ -1393,7 +1393,7 @@
       {
        "q": "How can you tell a sentence is in the wrong column?",
        "good": [
-        "It has because in it.",
+        "It has 'because' in it.",
         "Someone else might say something different.",
         "I did not see it, I worked it out."
        ]
@@ -1428,7 +1428,7 @@
        ]
       }
      ],
-     "parent": "Good deciding questions often use time: is the water ring still wet? Is the peel brown? Let your child swap places next. Your child stages a scene for you, and you write the columns. With 2 to 4 children, one stages the scene while the rest wait outside. Everyone writes their own two columns, then compares: whose I saw lists match, and whose I think stories differ?"
+     "parent": "Good deciding questions often use time: is the water ring still wet? Is the peel brown? Let your child swap places next. Your child sets up a scene for you, and you write the columns. With 2 to 4 children, one sets up the scene while the rest wait outside. Everyone writes their own two columns and then compares them. Whose 'I saw' lists match, and whose 'I think' stories differ?"
     }
    ]
   },
@@ -1521,9 +1521,9 @@
      "id": "s3",
      "mins": 5,
      "do": "Switch on a fan or a radio next to the helper. Ask them to tap the steady beat again. Ask your child to listen for it through the noise and draw the dots. Then ask how they could be sure the beat was there.",
-     "parent": "Measure how well it works. Before you start, ask your child to predict whether they will still hear the beat. Switch the fan or radio on low, then medium, then high, and ask the child to count the taps they heard out of 12 each time. Write the three counts. The count usually drops as the noise rises, and that gap shows how noise hides a signal. Keep the radio at a sensible volume to protect ears.",
+     "parent": "Measure how well your child hears the beat through the noise. Before you start, ask your child to predict whether they will still hear the beat. Switch the fan or radio on low, then medium, then high. Each time, ask your child to count how many of the 12 taps they heard. Write the three counts. The count usually drops as the noise rises, and that drop shows how noise hides a signal. Keep the radio at a sensible volume to protect ears.",
      "say": "Now there is background noise. Can you still hear the beat? How could you be sure, if you could not see the helper?",
-     "kid": "Noise is on. Can you still find the beat? How could you be sure?",
+     "kid": "Now there is noise. Can you still find the beat? How could you be sure?",
      "context": "In this step, you add noise and try to find the signal in it. This is what scientists do with weak signals.",
      "ask": [
       {
@@ -1594,7 +1594,7 @@
      "say": "Which column does this question go in? Why? Is there another way to find out? If a question fits two columns, we can argue about it.",
      "kid": "Put each strip in a column. Say why. Some fit two columns.",
      "context": "In this step, you sort the questions into three columns.",
-     "parent": "With 2 to 4 children, each child sorts a set of strips alone first, then compare and argue. With one child, you sort too and say why. Expect arguments, and enjoy them. The fairness and the cage questions are about what people value. A test cannot decide them alone, although evidence can help the talk.",
+     "parent": "With 2 to 4 children, each child sorts a set of strips alone first. Then they compare and argue. With one child, you sort too and say why. Expect arguments, and enjoy them. The fairness and the cage questions are about what people value. A test cannot decide them alone, although evidence can help the talk.",
      "check": {
       "t": "mcq",
       "q": "'Do taller people have longer feet?' Which column fits best?",
@@ -1645,7 +1645,7 @@
     }
    ],
    "record": "Two drawings of the cold tumbler, one before and one after reading the explanation, with the differences circled.",
-   "context": "In this activity, you draw a model of what is happening in the air and on the tumbler wall. A model is a drawing that explains, including parts you cannot see.",
+   "context": "In this activity, you draw a model of what is happening in the air and on the tumbler wall. A model is a drawing that explains what is happening, including the parts you cannot see.",
    "setup": [
     {
      "art": "A child drawing a cold tumbler with the air around it and arrows showing where she thinks the water comes from.",
@@ -1696,7 +1696,7 @@
        "The colour of the drops"
       ],
       "a": 0,
-      "why": "The drops come from invisible water vapour in the air. A model that leaves out the air leaves out the main actor."
+      "why": "The drops come from invisible water vapour in the air. A model that leaves out the air leaves out the most important part."
      }
     },
     {
@@ -1766,7 +1766,7 @@
        "It is trying to annoy us"
       ],
       "a": 0,
-      "why": "Counting drips is something you saw. A worn washer and an annoyed tap are stories about why."
+      "why": "Counting drips is something you saw. A worn washer and a tap that is trying to annoy us are stories about why."
      }
     },
     {
@@ -1778,7 +1778,7 @@
      "context": "In this step, you write two rival ideas and what each one predicts.",
      "ask": [
       {
-       "q": "What would you see if idea A is true that you would not see for idea B?",
+       "q": "If idea A is true, what would you see that you would not see if idea B is true?",
        "good": [
         "Something that only happens with A.",
         "A different sound or a different time."
@@ -1862,7 +1862,7 @@
     }
    ],
    "record": "A table with the date, the weather, the sunset time, the time the light came on and the difference. At the end, one sentence about what you found and one about what you cannot say.",
-   "context": "In this project, you watch a light that comes on by itself at dusk, for a week, and use a deciding day to tell two ideas apart.",
+   "context": "In this project, you watch a light that comes on by itself at dusk, every evening for a week. You look for a very cloudy evening, because that is when two ideas about the light predict different things.",
    "setup": [
     {
      "art": "A child at a window with a notebook looking at a streetlight in the distance at dusk.",
@@ -1883,7 +1883,7 @@
      "mins": 15,
      "do": "1. Choose a light that comes on by itself, such as a streetlight or a security light. 2. Write two ideas. Idea A: a timer switches it on at the same clock time every day. Idea B: a light sensor switches it on when it gets dark. 3. Write an if-then sentence for each, for a very cloudy evening. 4. Draw the table.",
      "say": "Some lights come on by themselves. Maybe a timer switches them on at the same time every day. Maybe a sensor switches them on when it is dark. What would you see on a dark, cloudy evening for each idea?",
-     "kid": "Choose a light. Write two ideas. Timer or sensor? What happens on a cloudy day?",
+     "kid": "Choose a light that comes on by itself. Write two ideas: a timer switches it on, or a light sensor does. What would each idea show on a very cloudy evening?",
      "context": "This is day 1 of the Streetlight Detective. You choose the light and plan.",
      "ask": [
       {
@@ -1913,7 +1913,7 @@
      "do": "Each evening for the next five days, write the date, the sky, the sunset time and the time the light came on. Work out the difference between the sunset time and the time the light came on.",
      "say": "Watch the light from about twenty minutes before sunset. Write what time it comes on. Look at the sky. Was it clear or cloudy?",
      "kid": "Each evening, write the time the light comes on. Is the sky clear or cloudy?",
-     "context": "In these days, you collect a week of evidence about when the light comes on.",
+     "context": "On these five evenings, you write down when the light comes on. This gives you a week of evidence.",
      "parent": "Look at the light for ten minutes around the usual time. If you miss an evening, write 'missed'. Do not guess. A phone weather app often shows the sunset time. With 2 to 4 children, share jobs each evening: one reads the sunset time, one watches the light, one judges the sky, one writes. Swap daily. Many city lights come on a little after sunset, and some are switched by hand or by a central timer, so whatever you see is a real result. Sunset moves by only a minute or less a day, so a week of the same clock time may still fit a timer. In dry months you may not get a cloudy evening. Then look at how the gap between sunset and light-on changes, and say honestly that you could not tell the ideas apart.",
      "wait": "Do this each evening for the next five days."
     },
@@ -1948,7 +1948,7 @@
     "Do not leave the fridge door open for more than a few seconds.",
     "Do not take the fridge apart or touch anything electrical.",
     "A grown-up must help with the phone and the fridge door.",
-    "Your test must give a different result if the light is on and if it is off."
+    "Your test must give one result if the light is on and a different result if it is off."
    ],
    "materials": [
     "a fridge",
@@ -1957,7 +1957,7 @@
     "a notebook and a pencil"
    ],
    "general": [
-    "Record a video of the inside of the fridge with a phone, close the door for 30 seconds and open it again. Check whether the video shows light.",
+    "Put a phone inside the fridge and start recording a video. Close the door for 30 seconds and open it again. Check whether the video shows light.",
     "Do the same in a dark cupboard, as a control. Compare how bright the two videos are."
    ],
    "creative": [
@@ -1987,7 +1987,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Write the two ideas. Idea A: the light goes off when the door closes. Idea B: the light stays on when the door closes. Ask your child what is hard about checking. Ask for their design.",
-     "say": "Two ideas. The light goes off when the door shuts. Or the light stays on. Why can't we just look? How could we find out without opening the door?",
+     "say": "There are two ideas about the fridge light. It goes off when the door shuts, or it stays on. Why can't we just look? How could we find out without opening the door?",
      "kid": "Two ideas about the fridge light. Why can't you just look? How could you find out?",
      "context": "This is the first step of the Fridge Light challenge. You plan your design.",
      "ask": [
@@ -2092,14 +2092,14 @@
     },
     {
      "t": "truefalse",
-     "p": "Mira says, 'Every inference is wrong, so scientists should never make one.' Is she right?",
+     "p": "Every inference is wrong, so scientists should never make one.",
      "a": false,
      "why": "False. Inferences are guesses made from what we saw, and science is full of them. The point is to know which sentences are inferences, so we can test them.",
      "outcome": 0
     },
     {
      "t": "mcq",
-     "p": "Kavya sees her money plant leaning towards the window. Which sentence is an inference?",
+     "p": "A money plant is leaning towards the window. Which sentence is an inference?",
      "opts": [
       "The leaves are pointing to the window",
       "The plant wants the sunlight",
@@ -2120,7 +2120,7 @@
     },
     {
      "t": "write",
-     "p": "Meenakshi's dosa batter did not rise overnight. Write two different explanations that could both fit.",
+     "p": "A bowl of dosa batter did not rise overnight. Write two different explanations that could both fit.",
      "a": "For example: the kitchen was too cold. Or: there was not enough time. Or: the batter was too thick. Any two sensible, different explanations score.",
      "why": "A good answer gives two ideas that are different from each other and that could each be checked, for example by keeping batter in a warm place and in a cold place.",
      "lines": 3,
@@ -2128,7 +2128,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan says ants find the sugar by smell. Arjun says they follow a trail left by other ants. Which check can tell the ideas apart?",
+     "p": "One idea is that ants find the sugar by smell. Another idea is that they follow a trail left by other ants. Which check can tell the ideas apart?",
      "opts": [
       "Count how many ants arrive",
       "Wipe a short piece of the ants' path and watch what they do",
@@ -2229,7 +2229,7 @@
     },
     {
      "t": "mcq",
-     "p": "In a tumbler test, a girl colours the water inside red. The drops on the outside are clear. What is the best conclusion?",
+     "p": "In the Weeping Tumbler test, the water inside a cold tumbler is coloured red. The drops on the outside are clear. What is the best conclusion?",
      "opts": [
       "The drops did not come from the water inside",
       "Colour cannot go through steel",
@@ -2346,7 +2346,7 @@
     },
     {
      "t": "write",
-     "p": "Priya measured 8 people. Seven had an arm span within 4 centimetres of their height. One had a span 12 centimetres more than the height. What should Priya do about the odd one, and why?",
+     "p": "You measure 8 people. Seven have an arm span within 4 centimetres of their height. One has a span 12 centimetres more than their height. What should you do about the odd one, and why?",
      "a": "Measure that person again, check the tape was straight, and write down both results. If it is the same again, keep it. Do not rub it out.",
      "why": "A good answer says to check and repeat before deciding, and to keep the record honest whatever the second measurement shows.",
      "lines": 3,
@@ -2534,7 +2534,7 @@
     {
      "t": "write",
      "p": "A damp patch grows on the wall under the terrace. Idea A: rain is seeping in. Idea B: a pipe is leaking. Write a deciding question and say what each idea predicts.",
-     "a": "Does the patch grow on a long dry spell? If rain, it will stop growing on dry days. If a pipe, it will keep growing on dry days too.",
+     "a": "Does the patch grow during a long dry spell? If rain is seeping in, the patch will stop growing on dry days. If a pipe is leaking, the patch will keep growing on dry days too.",
      "why": "A strong answer chooses something about which the ideas disagree and says what each would show.",
      "lines": 4,
      "outcome": 2
@@ -2760,7 +2760,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl colours the water inside a cold tumbler. What would show that the drops on the outside came from the air?",
+   "p": "The water inside a cold tumbler is coloured. What would show that the drops on the outside came from the air?",
    "opts": [
     "The drops are coloured",
     "The drops are clear",
@@ -2791,7 +2791,7 @@
     "The light is switched by a sensor"
    ],
    "a": 1,
-   "why": "An idea that fits every possible result cannot be shown wrong, so no test can use it.",
+   "why": "An idea that fits every possible result cannot be shown wrong, so no test can check it.",
    "outcome": 3
   },
   {
@@ -2808,9 +2808,9 @@
   },
   {
    "t": "mcq",
-   "p": "Arman measured the arm span and height of 8 people. The two numbers were close for almost everyone. What can he say?",
+   "p": "You measure the arm span and height of 8 people. The two numbers are close for almost everyone. What can you say?",
    "opts": [
-    "In the people he measured, arm span was close to height",
+    "In the people you measured, arm span was close to height",
     "Everyone in the world has an arm span equal to their height",
     "A long arm span makes you taller"
    ],
@@ -2875,7 +2875,7 @@
     "The tumblers were different sizes"
    ],
    "a": 0,
-   "why": "Same air and same room, but different temperatures, so the cold made the difference.",
+   "why": "The air and the room were the same for both tumblers. Only the temperature was different. So the cold made the difference.",
    "outcome": 4
   }
  ],
@@ -2885,7 +2885,7 @@
    "channel": "Okie Dokie Odie",
    "youtube": "XpPc3egw74k",
    "mins": 4,
-   "why": "To see water vapour turning into drops on a cold glass, a clear picture of the Weeping Tumbler.",
+   "why": "It shows water vapour turning into drops on a cold glass, which is what happens in the Weeping Tumbler experiment.",
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
@@ -2990,7 +2990,7 @@
   "Is there a question that the two ideas would answer differently?",
   "What would show your idea wrong?",
   "How many people or things should we check before we say a pattern is real?",
-  "Does going up together mean one makes the other go up?",
+  "If two things go up together, does one make the other go up?",
   "What do you do when a result surprises you?",
   "What is something at home that you do not understand yet? How could you find out?"
  ],
@@ -3038,16 +3038,16 @@
  ],
  "maths": [
   {
-   "problem": "Aadhira is 132 centimetres tall and her arm span is 129 centimetres. What is her span minus her height?",
+   "problem": "A person is 132 centimetres tall and has an arm span of 129 centimetres. What is the span minus the height?",
    "answer": "Minus 3 centimetres.",
-   "explain": "129 minus 132 is minus 3. The negative sign means her span is 3 centimetres shorter than her height.",
+   "explain": "129 minus 132 is minus 3. The negative sign means the span is 3 centimetres shorter than the height.",
    "math_unit": "math.number-sense.negative-numbers.L4",
    "context": "In the Arm Span test, you measure height and arm span and work out span minus height for each person.",
    "how": "e2",
    "why_maths": "A negative number tells you which one is longer as well as by how much, so you can compare people easily."
   },
   {
-   "problem": "Eight people had these differences between arm span and height, in centimetres: 0, +2, −1, +3, −4, +1, 0, +12. How many were within 3 centimetres of zero? Which one is the odd one out, and by how much is it more than the next biggest?",
+   "problem": "Eight people had these differences between arm span and height, in centimetres: 0, +2, −1, +3, −4, +1, 0, +12. How many were within 3 centimetres of zero? Which number is the odd one out? How much bigger is it than the next biggest number?",
    "answer": "Six were within 3 centimetres of zero. The odd one is +12, which is 9 more than +3.",
    "explain": "The numbers 0, +2, −1, +3, +1 and 0 are within 3 of zero. That is six. The number −4 is 4 away from zero, so it is outside. The biggest is +12 and the next biggest is +3. 12 minus 3 is 9.",
    "math_unit": "math.data.reading-data.L4",
@@ -3096,7 +3096,7 @@
    }
   },
   {
-   "problem": "A cold tumbler had 12 drops on its outside after 5 minutes, 30 after 10 minutes and 55 after 15 minutes. How many new drops formed between each look? What does this tell you about the speed?",
+   "problem": "A cold tumbler had 12 drops on its outside after 5 minutes, 30 after 10 minutes and 55 after 15 minutes. How many new drops formed between each look? Are the drops forming faster or slower?",
    "answer": "18 new drops in the second five minutes, and 25 new drops in the third. The drops are forming faster.",
    "explain": "30 minus 12 is 18. 55 minus 30 is 25. The first five minutes gave 12 drops, then 18, then 25. The number of new drops each five minutes is going up.",
    "math_unit": "math.addition-subtraction.written-methods.L4",
@@ -3105,7 +3105,7 @@
    "why_maths": "Comparing how many new drops appear in each time gap shows whether the change is speeding up or slowing down."
   },
   {
-   "problem": "A height of 125 centimetres has a measurement wobble of 2 centimetres. About how many in every 100 centimetres is that wobble?",
+   "problem": "A height of 125 centimetres is measured with a wobble of 2 centimetres. About how many centimetres of wobble is that for every 100 centimetres?",
    "answer": "About 2 in every 100.",
    "explain": "2 out of 125 is 1.6 out of 100, which is about 2 out of 100. It is a small wobble compared with the height.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3118,7 +3118,7 @@
    "answer": "About 7:40 pm.",
    "explain": "4 minutes earlier each day for 5 days is 4 times 5, which is 20 minutes. 20 minutes before 8:00 pm is 7:40 pm.",
    "math_unit": "math.time.duration.L4",
-   "context": "Jocelyn Bell's team told a signal from the sky from a machine on Earth by seeing that the signal came back about four minutes earlier each day.",
+   "context": "Jocelyn Bell's team worked out that a signal came from the sky and not from a machine on Earth. They saw that the signal came back about four minutes earlier each day.",
    "why_maths": "Multiplying the daily shift by the number of days predicts when a star will return, so you can check if a signal follows star time."
   },
   {
@@ -3126,7 +3126,7 @@
    "answer": "About 56 minutes earlier, so about 7:04 pm.",
    "explain": "4 times 14 is 56 minutes. 8:00 pm take away 56 minutes is 7:04 pm. After about two weeks the star comes back nearly an hour earlier.",
    "math_unit": "math.multiplication.multi-digit.L4",
-   "context": "Things in the sky return about four minutes earlier each day, which is how a signal from the sky can be told from a machine.",
+   "context": "Things in the sky return about four minutes earlier each day. That is how you can tell a signal from the sky apart from a machine on Earth.",
    "why_maths": "Multiplying a small daily change shows how it adds up over weeks, which is why a long watch can reveal a slow drift."
   },
   {
@@ -3134,7 +3134,7 @@
    "answer": "35 minutes earlier.",
    "explain": "From 5:35 pm to 6:00 pm is 25 minutes. From 6:00 pm to 6:10 pm is 10 more minutes. 25 plus 10 is 35.",
    "math_unit": "math.time.duration.L4",
-   "context": "In the Streetlight Detective project, you compare the time the light comes on during a clear evening and a very cloudy evening.",
+   "context": "In the Streetlight Detective project, you compare the time the light comes on on a clear evening and on a very cloudy evening.",
    "how": "p1",
    "why_maths": "The size of the time gap tells you whether the light followed the darkness or the clock, which separates the two ideas."
   },
@@ -3150,9 +3150,9 @@
   {
    "problem": "In one class, 3 of 4 nine-year-olds wore big shoes, and 1 of 4 six-year-olds did. Older children also read better. Compare the two shares. Could age explain both big shoes and better reading?",
    "answer": "Big shoes were three times as common among the nine-year-olds. Yes, age could explain both.",
-   "explain": "3 out of 4 is 75 out of 100 and 1 out of 4 is 25 out of 100. 75 is three times 25. Older children have bigger feet and also read better, so age can sit behind both.",
+   "explain": "3 out of 4 is 75 out of 100 and 1 out of 4 is 25 out of 100. 75 is three times 25. Older children have bigger feet and also read better, so age can be the cause of both.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
-   "why_maths": "Comparing shares in two groups shows how a third thing, age, can sit behind two things that go together."
+   "why_maths": "Comparing shares in two groups shows how a third thing, age, can be the cause of two things that go together."
   },
   {
    "problem": "A helper reads a tape measure and gets 128 centimetres. Another gets 130 centimetres for the same child. They agree to give the middle value. What is the middle value, and by how much does each reading differ from it?",
@@ -3338,7 +3338,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1967, Jocelyn Bell was a research student at Cambridge in England. Her job was to read long paper charts from a new radio telescope that listened to the sky. One day she saw a small strange mark, which she called a bit of scruff. It came back. The team first asked if it was interference from something on Earth, such as a passing car or a radio. Then Bell noticed something clever. The mark returned about four minutes earlier each day by the clock. Things in the sky do that, because the stars rise earlier each day. Machines on Earth follow the clock on the wall. So the mark came from space. Looking closer, the mark was a very regular pulse. The team half-jokingly wondered if it was a message. In fact, it was a new kind of star, now called a pulsar. In 1974 the Nobel Prize for this work went to her supervisor and another senior scientist, and not to her.",
+  "story": "In 1967, Jocelyn Bell was a research student at Cambridge in England. Her job was to read long paper charts from a new radio telescope that listened to the sky. One day she saw a small strange mark, which she called a bit of scruff. It came back. The team first asked if it was interference from something on Earth, such as a passing car or a radio. Then Bell noticed something clever. The mark returned about four minutes earlier each day by the clock. Things in the sky do that, because the stars rise earlier each day. Machines on Earth follow the clock on the wall. So the mark came from space. When the team looked closer, the mark was a very regular pulse. The team half-jokingly wondered if it was a message. In fact, it was a new kind of star, now called a pulsar. In 1974 the Nobel Prize for this work went to her supervisor and another senior scientist, and not to her.",
   "who": "Jocelyn Bell (now Jocelyn Bell Burnell), a research student at Cambridge, with her supervisor Antony Hewish and their team",
   "when": "1967, and published in 1968",
   "wrong_idea": "Nobody expected a star to pulse so fast and so evenly, so the first guess was that a regular beat must come from machines on Earth. Bell's team showed that the beat followed star time, so it came from far beyond the Earth."
@@ -3351,11 +3351,11 @@
    "evidence": "In the Weeping Tumbler, the red water stayed inside and the drops outside were clear. Everyone saw the same drops, and only a question about colour could separate the stories."
   },
   "three": {
-   "who_am_i": "You tell yourself stories all day about what you see. When a friend does not smile, you think she is cross. The smile was seen. The 'cross' was added.",
+   "who_am_i": "You tell yourself stories all day about what you see. When a friend does not smile, you think she is cross. What you saw was a face without a smile. The 'cross' was added by you.",
    "what_is_life": "Many beings read the world and guess. A crow turns their head and decides if your hand holds food. A seedling leans towards the light. Living beings act on guesses about what they sense, and they learn when a guess fails.",
-   "what_is_this_world": "The air, the steel, the ice and your eyes took part in one happening. We cut it into 'what I saw' and 'what I think' afterwards. The world did not come with that cut."
+   "what_is_this_world": "The air, the steel, the ice and your eyes were all part of one event. Afterwards we sorted it into 'what I saw' and 'what I think'. The world does not come sorted that way. We do the sorting."
   },
-  "thread": "The cold tumbler, the air, the drops and your eyes were all part of one happening. Nothing in it came labelled 'observation' or 'explanation'. We make that cut ourselves, so that we can check our stories one at a time. Everything we know comes from bodies meeting the world, and every body adds a little of its own. A bee sees the same flower as you, and in a different way. When we pull the seeing and the story apart and test the story, we are not leaving the world. We are looking at it more carefully.",
+  "thread": "The cold tumbler, the air, the drops and your eyes were all part of one event. Nothing in it came labelled 'observation' or 'explanation'. We do that sorting ourselves, so that we can check our stories one at a time. Everything we know comes to us through a body sensing the world, and every body senses in its own way. A bee and you can look at the same flower and see it differently. When we pull apart what we saw and the story we added, and then test the story, we are not leaving the world. We are looking at it more carefully.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 17, Autumn Floods",
@@ -3364,8 +3364,8 @@
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
-    "teaching": "The hymn of creation asks where everything came from. It ends by saying that perhaps even the one who looks down from the highest heaven knows, or perhaps even that one does not know.",
-    "link": "It is very old and it shows honest not-knowing. 'I do not know yet' is where a good question begins, before any story is chosen."
+    "teaching": "The hymn of creation asks where everything came from. It ends by saying that perhaps the one who looks down from the highest heaven knows, or perhaps even that one does not know.",
+    "link": "This hymn is very old, and it honestly says 'we do not know'. 'I do not know yet' is where a good question begins, before any story is chosen."
    },
    {
     "source": "Nyaya Sutra 1.1.1",
@@ -3388,7 +3388,7 @@
    "view": "No observation is ever free of ideas. What we choose to look at, and the words we use for it, already carry theories. So the line between what I saw and what I think is never sharp. It is a useful habit, but not a clean split."
   },
   "practice": {
-   "title": "Seeing and storying",
+   "title": "What I see and the story I add",
    "mins": 3,
    "say": "Look at a steel tumbler or a plate. Say three things you see, in the plainest words you have. Do not use the word because. Now notice a voice inside that wants to say why. Let it speak, and then go back to looking. Breathe in slowly three times.",
    "kid": "Look at a plate or tumbler. Say three things you see. No 'because'. Notice the voice that wants to explain. Let it pass. Breathe in slowly three times."
