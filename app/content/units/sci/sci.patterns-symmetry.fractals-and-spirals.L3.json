@@ -17,7 +17,7 @@
   "I can explain why lungs, trees and ferns branch, starting with the problem each one has.",
   "I can count the spirals on a pineapple or a picture of a sunflower, and explain why each new seed grows in a gap.",
   "I can explain how a snail's shell grows into a spiral without the snail ever moving out.",
-  "I can explain how branching patterns such as snowflake arms grow, because the tips that stick out grow fastest."
+  "I can explain how branching patterns such as snowflake arms grow: the tips that stick out grow fastest."
  ],
  "cards_mins": 15,
  "terms": [
@@ -131,14 +131,14 @@
   },
   {
    "concept": "How long is a coast?",
-   "context": "This card explains what you found in the coast test: the same coast measured longer with a shorter strip.",
+   "context": "In the experiment How Long Is the Coast?, the same coast on a map measures longer with a 1 cm strip than with a 4 cm strip. This card explains why.",
    "status": "defined",
    "definition": "A bendy line such as a coast has bends inside bends. A long ruler steps across the small bends. A shorter ruler goes into them, so it measures a longer length.",
    "description": "On a map, a coast looks bendy. Zoom in on one bay and its edge is bendy too. Walk along the real beach and every rock and sand bar adds more bends. Each time you measure with a shorter step, you follow more bends, and the length grows. A smooth coast, like most of Kerala's, grows only a little. A very bendy coast, like Gujarat's, grows a lot. So when a book gives the length of a coast, it should also say how it was measured. India's official coastline length was about 7,516 kilometres for many years. In 2024, a new count with more detailed maps gave about 11,098 kilometres. The coast had not changed. The measuring had.",
    "examples": [
     "On the map, a 4 cm strip and a 1 cm strip give different lengths for the same coast.",
     "A thread laid into every bend gives the longest length of all.",
-    "India's coastline was measured again with more detailed maps and came out about half as long again."
+    "India's coastline was measured again with more detailed maps. The new length was about one and a half times the old one."
    ],
    "perspectives": [],
    "art": "A wiggly coast on a map, measured twice: once with a few long straight steps that cut across the bays, once with many short steps that follow the bends."
@@ -161,7 +161,7 @@
    "concept": "Why plants grow in Fibonacci spirals",
    "context": "Scientists agree on what the spirals look like. This card is about how the plant ends up making them, which is still being studied.",
    "status": "debated",
-   "description": "The spirals are real and well measured. How the plant makes them has more than one explanation, and scientists study how they fit together.",
+   "description": "The spirals are real and well measured. There is more than one explanation for how the plant makes them, and scientists are still studying how the explanations fit together.",
    "examples": [
     "In 2016, members of the public grew 657 sunflowers for a study. Of 768 spiral counts, 565 were Fibonacci numbers. Some heads had no neat spirals at all.",
     "Some plants, such as tulsi and mint, grow their leaves in pairs opposite each other, turning a quarter circle at each pair, and show no Fibonacci spirals."
@@ -177,7 +177,7 @@
     },
     {
      "who": "Many plant scientists today",
-     "explanation": "Both are true together. The growing tip chooses each gap by sensing where there is room and chemical. That choice is what makes the good packing."
+     "explanation": "Both explanations are true together. The growing tip starts each new bud where there is the most room and the most of the growth chemical auxin left. That is what makes the good packing."
     }
    ],
    "art": "A close-up of a plant's growing tip with tiny bumps, each new bump appearing in the widest space between the others."
@@ -201,7 +201,7 @@
    "context": "This card is about branching patterns that grow in non-living things, like snowflakes, lightning and paint squeezed between two plates.",
    "status": "defined",
    "definition": "In many growing shapes, the tips that stick out grow fastest. So bumps become arms, and bumps on the arms become smaller arms.",
-   "description": "A snowflake is an ice crystal that grows as water vapour in a cloud freezes onto it. The six corners stick out furthest into the moist air, so they collect water fastest and grow into arms. Bumps on the arms stick out too, so they grow into side branches. In 1936, Ukichiro Nakaya in Japan grew the first snow crystals in a laboratory. He showed that the air's temperature and wetness decide their shape. Lightning and river deltas branch in a similar way. In the paint test, air pushes into the paint, and each finger of air that gets ahead grows faster and splits again.",
+   "description": "A snowflake is an ice crystal that grows as water vapour in a cloud freezes onto it. The six corners stick out furthest into the moist air, so they collect water fastest and grow into arms. Bumps on the arms stick out too, so they grow into side branches. In 1936, Ukichiro Nakaya in Japan grew the first snow crystals in a laboratory. He showed that the air's temperature and wetness decide their shape. Lightning and river deltas branch in a similar way. In the activity Branches With No Plan, you pull apart two sheets with paint between them. Air pushes into the paint, and each finger of air that gets ahead grows faster and splits again.",
    "examples": [
     "Snowflakes have six arms, and the arms have side branches.",
     "Lightning splits into smaller and smaller branches.",
@@ -236,7 +236,7 @@
    "perspectives": [
     {
      "who": "Benoit Mandelbrot, mathematician, 1982",
-     "explanation": "He wrote that clouds are not spheres, mountains are not cones and coastlines are not circles. Fractals are the right shapes for describing nature."
+     "explanation": "He wrote that clouds are not spheres, mountains are not cones and coastlines are not circles. He said fractals are the right shapes for describing nature."
     },
     {
      "who": "Many scientists today",
@@ -287,7 +287,7 @@
    "for": "A nautilus shell is a beautiful, even spiral, and it grows by the same rule all its life.",
    "against": "When scientists measure real nautilus shells, they widen more slowly than a golden spiral would. The shell is a spiral of the same family, but not the golden one.",
    "status": "rejected",
-   "context": "This card is about a famous shell and a famous claim about it."
+   "context": "This card is about the claim that the nautilus shell is a perfect golden spiral."
   },
   {
    "claim": "Fractals are only a mathematician's game and are not really in nature.",
@@ -312,7 +312,7 @@
   {
    "q": "Each new seed in a sunflower grows in the biggest gap. How does the growing tip sense where the gap is?",
    "kind": "deep",
-   "hint": "The tip senses a chemical called auxin around it. What does it feel like to sense where there is room?"
+   "hint": "The tip senses a chemical called auxin around it. How do you sense where there is room around you?"
   },
   {
    "q": "Your lungs, a tree and a river delta all branch. Why would such different things end up with the same shape?",
@@ -361,7 +361,7 @@
    "\"That shell is a snail's house,\" said Paati. \"The snail made the shell bigger by adding a new edge at the opening, a little wider each time. So the shell curled round as the snail grew.\"",
    "That night, Farhan wrote in his notebook: \"Beach. Rope: 240 metres. Stick: 310 metres. Crab: we cannot measure.\" Then he drew the crab, running along the wet edge, going into every curve."
   ],
-  "epiphany": "For the parent: the rope and the stick measured the same beach, but the stick gave a longer length, because it followed curves that the rope stepped across. A bendy edge has curves at every size, so its length depends on the size of what measures it. This is what the child finds on the map in the coast test.",
+  "epiphany": "For the parent: the rope and the stick measured the same beach, but the stick gave a longer length, because it followed curves that the rope stepped across. A bendy edge has curves at every size, so its length depends on the size of what measures it. The child finds the same thing on a map in the experiment How Long Is the Coast?",
   "ask": [
    "Why did the stick give a longer length than the rope?",
    "Farhan said the crab walked the same beach. Meenakshi said a different one. What do you think?",
@@ -522,7 +522,7 @@
      "mins": 10,
      "do": "Each player steps round the island and works out their length.",
      "say": "Step carefully, end to end. Then multiply your steps by your strip size.",
-     "kid": "Step round the island. Make dots. Count your steps. Times them by your strip size.",
+     "kid": "Step round the island. Make dots. Count your steps. Multiply them by your strip size.",
      "parent": "One child alone can do all four strips in turn. When the last gap back to START is about half a step, count it as half a step. If it is less, leave it out."
     },
     {
@@ -565,7 +565,7 @@
    "days": 1,
    "question": "Does a coast measure the same length if we use a long ruler or a short one?",
    "predict": "Guess first. We will measure the same coast with a 4 cm strip and then a 1 cm strip. Will the two lengths be the same, or will one be longer? Which one, and why do you think so?",
-   "fair_test": "Measure the same stretch of coast each time, from the same start to the same end. Only the strip length changes. Measure each strip twice, because one try can be a fluke. Then do the same for a smooth coast, to compare.",
+   "fair_test": "Measure the same stretch of coast each time, from the same start to the same end. Only the strip length changes. Measure with each strip twice, because one try can be a fluke. Then do the same for a smooth coast, to compare.",
    "results_table": [
     "Coast",
     "4 cm strip: steps",
@@ -634,7 +634,7 @@
        ]
       }
      ],
-     "parent": "Most children guess the same. That is a fine guess. Don't hint. The test will answer it."
+     "parent": "Most children guess that the two lengths will be the same. That is a fine guess. Don't hint. The test will answer it."
     },
     {
      "id": "s3",
@@ -648,7 +648,7 @@
      "id": "s4",
      "mins": 8,
      "do": "1. Repeat the same stretch with the 1 cm strip. 2. Count the steps. 3. The number of steps is the length in centimetres. 4. Do it a second time and check you get nearly the same.",
-     "say": "Now the short strip. Same start, same end. Watch where it goes that the long strip didn't.",
+     "say": "Now use the short strip, from the same start to the same end. Watch for places where the short strip goes and the long strip did not.",
      "kid": "Now use the short strip. Start at the same place. Count your steps again.",
      "ask": [
       {
@@ -665,14 +665,14 @@
      "mins": 4,
      "do": "1. Lay the thread along the coast, pressing it into every bend. 2. Pinch the thread at the end. 3. Pull it straight along the ruler and read the length.",
      "say": "A thread can follow even the tiniest bends. Let's see how long the coast is now.",
-     "kid": "Lay the thread into every bend. Pinch the end. Pull it straight on the ruler. How long?"
+     "kid": "Lay the thread into every bend. Pinch the end. Pull it straight on the ruler. How long is it?"
     },
     {
      "id": "s6",
      "mins": 5,
      "do": "1. Measure the Kerala coast with the 4 cm strip, the 1 cm strip and the thread. 2. Compare how much each coast grew.",
      "say": "Now the smooth coast. Did its length grow as much as Gujarat's?",
-     "kid": "Measure Kerala with the long strip, the short strip and the thread. Did it grow as much?",
+     "kid": "Measure Kerala with the long strip, the short strip and the thread. Did its length grow as much as Gujarat's?",
      "ask": [
       {
        "q": "Which coast grew more when you measured more closely? Why?",
@@ -799,7 +799,7 @@
      "do": "1. Mark one scale near the bottom with the sketch pen. 2. Count the rows going up to the right, one at a time. 3. Stop when you come back to the marked row. 4. Write the number. 5. Count again.",
      "say": "Mark one row so you know where you started. Then count each row as you turn the pineapple.",
      "kid": "Mark one row. Count each row as you turn the pineapple. Stop when you reach the mark.",
-     "parent": "Mark the top of each row you count, or stick a little paper tab on it. Many pineapples have 8 rows one way and 13 the other. A smaller or bigger one may show another pair of neighbours in the list, such as 5 and 8 or 13 and 21. If your counts differ by one, count a third time."
+     "parent": "Mark the top of each row you count, or stick a little paper tab on it. Many pineapples have 8 rows one way and 13 the other. A smaller or bigger one may show another pair of numbers that are next to each other in the list 1, 1, 2, 3, 5, 8, 13, 21, such as 5 and 8 or 13 and 21. If your counts differ by one, count a third time."
     },
     {
      "id": "s4",
@@ -885,7 +885,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Break a cauliflower into smaller and smaller pieces. Count how many times each piece still looks like a cauliflower."
+     "what": "Break a cauliflower into smaller and smaller pieces. Count how many times you can break it before a piece stops looking like a cauliflower."
     }
    ],
    "record": "Lay the pieces in a row on the plate, biggest to smallest. Draw the row, and write how many times you could break it and still see a cauliflower.",
@@ -1047,7 +1047,7 @@
      "mins": 4,
      "do": "1. Cover the table. 2. Put a teaspoon of paint in the middle of one sheet. 3. Lay the other sheet on top. 4. Press down so the paint spreads into a circle.",
      "say": "We will pull these apart. What shape do you think the paint will leave? Why?",
-     "kid": "Put a blob of paint on one sheet. Put the other on top. Press. Guess what will happen.",
+     "kid": "Put a blob of paint on one sheet. Put the other sheet on top. Press. Guess what shape the paint will leave when you pull the sheets apart.",
      "adult": true
     },
     {
@@ -1100,7 +1100,7 @@
    "title": "Draw a Fractal Tree and a Triangle of Triangles",
    "mins": 20,
    "days": 1,
-   "context": "In this drawing activity you make two fractals by following one rule again and again, and count how fast the parts grow.",
+   "context": "In this drawing activity you make two fractals by following one rule again and again, and count how fast the number of parts grows.",
    "materials": [
     {
      "item": "a notebook or a sheet of paper",
@@ -1193,7 +1193,7 @@
      "mins": 10,
      "do": "1. In the middle of the page, draw two 1-box squares side by side. 2. Above them, draw a 2-box square. 3. Next to those, a 3-box square. 4. Then a 5-box square below, and an 8-box square to the side.",
      "say": "Each new square is as long as the two before it put together. That is the Fibonacci rule.",
-     "kid": "Draw two tiny squares. Then a 2 square, a 3 square, a 5 and an 8. Each fits the two before.",
+     "kid": "Draw two tiny squares. Then a 2 square, a 3 square, a 5 and an 8. Each new square is as long as the two before it put together.",
      "parent": "Go round in one direction, adding each new square against the long side of the shape so far. If it goes wrong, it still makes a fine pattern. Just keep going round."
     },
     {
@@ -1209,7 +1209,7 @@
      "mins": 4,
      "do": "Compare the spiral with a shell, a picture of one, or a murukku.",
      "say": "A snail adds a wider piece to their shell each time. Your spiral adds a bigger square each time. How are they alike?",
-     "kid": "Each square is bigger. Each new bit of shell is wider. How are they alike?",
+     "kid": "Each new square is bigger than the last. Each new bit of a snail's shell is wider than the last. How are your spiral and a shell alike?",
      "parent": "This spiral is close to the curve of many shells, but real shells each widen at their own rate. They are not all this exact spiral."
     }
    ],
@@ -1394,7 +1394,7 @@
      "mins": 3,
      "do": "1. Draw a 10 cm square. 2. Draw a round island inside it. 3. Measure its coast with a thread.",
      "say": "A plain round island makes a short coast. How could you make the coast longer without making the island bigger?",
-     "kid": "Draw a round island in the square. Measure it with the thread. How could you make it longer?"
+     "kid": "Draw a round island in the square. Measure its coast with the thread. How could you make the coast longer?"
     },
     {
      "id": "s2",
@@ -1436,7 +1436,7 @@
    "title": "Be a Sunflower: which turn packs the seeds best?",
    "mins": 30,
    "context": "In this challenge you place seeds on paper, turning by the same amount each time, like a sunflower's growing tip. You find out which turn packs the seeds with the fewest gaps.",
-   "problem": "A sunflower must fit as many seeds as it can into a round head, with no big gaps. Place 30 small dried beans, each turned the same amount on a clock face from the last. Which turn fills the circle best?",
+   "problem": "A sunflower must fit as many seeds as they can into a round head, with no big gaps. Place 30 small dried beans on a paper clock face, one at a time. Turn each bean the same number of minutes round from the last one. Which turn fills the circle best?",
    "constraints": [
     "Use a clock face drawn on paper, with the 60 minute marks.",
     "Each new bean goes a little further from the centre than the last.",
@@ -1518,7 +1518,7 @@
    "channel": "Veritasium",
    "youtube": "I_rw-AJqpCM",
    "mins": 4,
-   "why": "For the parent and curious older children: why the measured length of a coast keeps growing as the ruler shrinks, the same idea as the map test.",
+   "why": "For the parent and curious older children: why the measured length of a coast keeps growing as the ruler shrinks. It is the same idea as the experiment How Long Is the Coast?",
    "check": "Watch it yourself before showing it to a child."
   },
   {
@@ -1534,7 +1534,7 @@
    "channel": "Mathologer",
    "youtube": "_GkxCIW46to",
    "mins": 15,
-   "why": "For the parent: why turning by the golden angle packs seeds best, with animations of seeds placed by different turns, like the bean challenge. It is long and goes into more maths than the unit.",
+   "why": "For the parent: why turning by the golden angle packs seeds best, with animations of seeds placed by different turns, like the challenge Be a Sunflower. It is long and goes into more maths than the unit.",
    "check": "Watch it yourself before showing it to a child."
   }
  ],
@@ -1567,7 +1567,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anu, a girl in Class 3, steps a 2 cm strip along a bendy coast on a map. Then she uses a 1 cm strip. What happens to the length?",
+   "p": "You step a 2 cm strip along a bendy coast on a map. Then you use a 1 cm strip. What happens to the length you measure?",
    "opts": [
     "It gets longer",
     "It stays the same",
@@ -1576,7 +1576,7 @@
    ],
    "a": 0,
    "how": "e1",
-   "why": "The shorter strip goes into bends the longer one stepped across. Picking 'stays the same' means thinking a coast has one length whatever we use.",
+   "why": "The shorter strip goes into bends that the longer one stepped across. If you chose 'It stays the same', you were thinking that a coast has one length whatever you measure it with.",
    "outcome": 1
   },
   {
@@ -1620,7 +1620,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rekha, a girl in Class 4, counts 8 spiral rows going one way on a pineapple. How many will she most likely count going the other way?",
+   "p": "You count 8 spiral rows going one way on a pineapple. How many will you most likely count going the other way?",
    "opts": [
     "13",
     "8",
@@ -1678,7 +1678,7 @@
     "They stick out into the moist air, so water freezes on them fastest",
     "The wind blows them into shape",
     "They are heavier",
-    "A cloud cuts it into shape"
+    "A cloud cuts them into shape"
    ],
    "a": 0,
    "why": "The parts that stick out furthest meet the most water vapour, so they grow fastest. Bumps on the arms grow into side branches the same way.",
@@ -1708,7 +1708,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3 in Madurai, breaks a floret off a cauliflower. What does the floret look like?",
+     "p": "Break a floret off a cauliflower. What does the floret look like?",
      "opts": [
       "A small cauliflower",
       "A carrot",
@@ -1752,7 +1752,7 @@
     },
     {
      "t": "write",
-     "p": "In the coast test, the 1 cm strip gave a longer coast than the 4 cm strip. Explain why in your own words.",
+     "p": "In the experiment How Long Is the Coast?, the 1 cm strip gave a longer coast than the 4 cm strip. Explain why in your own words.",
      "lines": 3,
      "how": "e1",
      "a": "The 4 cm strip stepped straight across the small bays. The 1 cm strip went into them, so it followed more of the coast's bends.",
@@ -1815,21 +1815,21 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends measured the same stretch of the Gujarat coast on a map. Divya, a girl in Class 4, used a 4 cm strip and got 20 cm. Farah, a girl in Class 3, used a 1 cm strip and got 31 cm.",
+     "p": "Two friends measured the same stretch of the Gujarat coast on a map. One used a 4 cm strip and got 20 cm. The other used a 1 cm strip and got 31 cm.",
      "views": [
       {
-       "who": "Divya, aged 9",
+       "who": "The friend with the 4 cm strip",
        "says": "My strip is right. 31 must be a mistake, because the coast did not grow."
       },
       {
-       "who": "Farah, aged 8",
+       "who": "The friend with the 1 cm strip",
        "says": "My strip is right. It followed the small bays, so the coast is 31 cm."
       }
      ],
-     "ask": "Which friend do you agree with? Use what you found in the coast test. Then say one thing the other friend has right.",
+     "ask": "Which friend do you agree with? Use what you found in the experiment How Long Is the Coast? Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer says both numbers are true for the strip used. The short strip followed more bends, so it gave more. Divya is right that the coast did not change. Farah is right that her strip followed more of the coast.",
-     "why": "This tests the central idea: a bendy edge's length depends on the size of the step. Neither child made a mistake."
+     "a": "A strong answer says both numbers are true for the strip used. The short strip followed more bends, so it gave more. The friend with the 4 cm strip is right that the coast did not grow. The friend with the 1 cm strip is right that the short strip followed more of the coast.",
+     "why": "This tests the central idea: a bendy edge's length depends on the size of the step. Neither friend made a mistake."
     },
     {
      "t": "odd",
@@ -1856,7 +1856,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the coast test in order.",
+     "p": "Put the steps of the experiment How Long Is the Coast? in order.",
      "items": [
       "Count the steps and work out the length",
       "Guess whether the two strips will give the same length",
@@ -1889,7 +1889,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Rahim, a boy in Class 3, says, 'You can keep breaking a cauliflower floret, and every piece will look like a cauliflower, for ever.' Is he right?",
+     "p": "You can keep breaking a cauliflower floret for ever, and every piece will still look like a cauliflower.",
      "a": false,
      "how": "a1",
      "why": "False. After a few breaks the pieces are too small to keep the shape. A real cauliflower is a fractal only over a few sizes."
@@ -1917,7 +1917,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Class 4, measures the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?",
+     "p": "Measure the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?",
      "opts": [
       "Gujarat, because it has more bends",
       "Kerala, because it is in the south",
@@ -1933,26 +1933,26 @@
      "p": "A sunflower makes each new seed in the biggest gap left by the others. Three people explain how.",
      "views": [
       {
-       "who": "Anjali, a plant scientist",
+       "who": "A plant scientist",
        "says": "The growing tip senses a chemical called auxin and starts each new seed where the most auxin is left."
       },
       {
-       "who": "Ravi, a mathematician",
+       "who": "A mathematician",
        "says": "Turning by the golden angle packs seeds best, so plants that did it made more seeds over many generations."
       },
       {
-       "who": "Kamala, a farmer",
+       "who": "A farmer",
        "says": "The sunflower chooses where each seed goes, the way I choose where to plant each seedling."
       }
      ],
      "ask": "Which explanation do you find most useful? Give a reason. Then say how one of the others could also be true.",
      "lines": 5,
-     "a": "A strong answer picks one with a reason, and sees that they can fit together: the tip senses room and chemical, chooses the gap, and that choice packs seeds well.",
+     "a": "A strong answer picks one explanation and gives a reason. It also sees that they can fit together: the growing tip senses where the most auxin is left and starts the seed in that gap, and that packs the seeds well.",
      "why": "These are three real ways of explaining the same pattern. They answer different parts of the question."
     },
     {
      "t": "mcq",
-     "p": "Nila, a girl in Class 3, places beans on a paper clock, each one 15 minutes round from the last and a little further out. What will she see?",
+     "p": "Place beans on a paper clock, each one 15 minutes round from the last and a little further out. What will you see?",
      "opts": [
       "Four straight spokes with gaps between",
       "Even spirals that fill the circle",
@@ -1972,7 +1972,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Harini, a girl in Class 5, reads on a poster that every sunflower has Fibonacci spirals. Is the poster right?",
+     "p": "Every sunflower has Fibonacci spirals.",
      "a": false,
      "why": "False. Many counts are Fibonacci numbers, but in a 2016 study of 657 sunflowers, some heads had other numbers or no neat spirals. A strong answer says many, not all."
     },
@@ -2076,7 +2076,7 @@
     },
     {
      "t": "write",
-     "p": "Ishaan, a boy in Class 4, says, 'The thread gave the true length of the coast, so the strips were wrong.' Is he right? Explain.",
+     "p": "After measuring a coast on a map with a 4 cm strip, a 1 cm strip and a thread, someone says, 'The thread gave the true length of the coast, so the strips were wrong.' Is that right? Explain.",
      "lines": 3,
      "how": "e1",
      "a": "Not quite. The thread followed smaller bends than the strips, so it gave more. But an even thinner thread, or an ant, would follow smaller bends still. Each number is true for its tool.",
@@ -2141,14 +2141,14 @@
        "says": "Both could be right. They probably measured with different step sizes."
       }
      ],
-     "ask": "Who do you agree with? Use what you found in the coast test. Then say what both countries should do so their numbers match.",
+     "ask": "Who do you agree with? Use what you found in the experiment How Long Is the Coast? Then say what both countries should do so their numbers match.",
      "lines": 5,
      "a": "Richardson is right that a shorter step gives a longer border. To match, both countries should agree on the same step size or map scale and say it with the number.",
      "why": "This is the real puzzle Richardson solved. A strong answer suggests agreeing on the measuring step."
     },
     {
      "t": "mcq",
-     "p": "Leela, a girl in Class 5, turns her beans by 22 minutes on the paper clock, instead of 23. What will she most likely see?",
+     "p": "On the paper clock, you turn your beans by 22 minutes each time, instead of 23. What will you most likely see?",
      "opts": [
       "The beans start to line up into spokes again",
       "Exactly the same even spirals",
@@ -2188,7 +2188,7 @@
      "t": "write",
      "p": "Tulsi grows leaves in pairs, each pair turned a quarter circle from the last. A sunflower turns each seed by the golden angle. Why might a seed head need the golden angle more than a tulsi stem?",
      "lines": 4,
-     "a": "A sunflower must pack hundreds of seeds into one round head, so it needs a turn that leaves no gaps. Tulsi has only a few leaves spread along a tall stem, so a quarter turn already stops one pair shading the one below.",
+     "a": "A sunflower must pack hundreds of seeds into one round head, so they need a turn that leaves no gaps. Tulsi has only a few leaves spread along a tall stem, so a quarter turn already stops one pair shading the one below.",
      "why": "A strong answer compares the two plants' problems. This is thinking with the idea, not remembering it."
     },
     {
@@ -2221,7 +2221,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each found one piece of the story of patterns inside patterns."
+     "why": "Each person found out one thing about patterns inside patterns."
     },
     {
      "t": "sort",
@@ -2261,7 +2261,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the paint test, Aditi, a girl in Class 3, pulls the sheets apart very slowly once and very fast once. What is she testing?",
+     "p": "In the activity Branches With No Plan, you pull the two sheets of paint apart very slowly once and very fast once. What are you testing?",
      "opts": [
       "Whether the speed of the pull changes the branches",
       "Whether paint is wet",
@@ -2297,14 +2297,14 @@
     },
     {
      "t": "write",
-     "p": "A long straight road is measured with a 1 metre stick, and then with a 10 cm ruler. Gujarat's coast grew a lot when the strip got shorter. Will the road grow as much? Explain.",
+     "p": "A long straight road is measured with a 1 metre stick, and then with a 10 cm ruler. On the map, Gujarat's coast measured much longer when the strip got shorter. Will the road measure much longer too? Explain.",
      "lines": 3,
      "a": "No. A straight road has hardly any bends for the shorter ruler to go into, so both give nearly the same length.",
      "why": "A strong answer links growth in length to the number of bends. Kerala's smoother coast grew less than Gujarat's for the same reason."
     },
     {
      "t": "fill",
-     "p": "In the bean test, a turn of about ____ minutes on the clock is close to the golden angle.",
+     "p": "In the challenge Be a Sunflower, a turn of about ____ minutes on the paper clock is close to the golden angle.",
      "a": [
       "23"
      ],
@@ -2313,7 +2313,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the bean test in order.",
+     "p": "Put the steps of the challenge Be a Sunflower in order.",
      "items": [
       "Compare the gaps in the two patterns",
       "Place beans 15 minutes round from each other and a little further out each time",
@@ -2389,7 +2389,7 @@
   },
   {
    "q": "How do so many different things, from rivers to lungs to lightning, end up with similar branching shapes?",
-   "why_open": "Scientists understand each one fairly well, but whether there is one deep rule linking them all is still studied."
+   "why_open": "Scientists understand each one fairly well, but whether there is one deep rule linking them all is still being studied."
   }
  ],
  "ask_kids": [
@@ -2442,11 +2442,11 @@
  ],
  "maths": [
   {
-   "problem": "In the coast test, the 4 cm strip took 5 steps along the Gujarat coast. The 1 cm strip took 31 steps. How long was the coast each time? How much longer was it with the short strip?",
+   "problem": "In the experiment How Long Is the Coast?, the 4 cm strip took 5 steps along the Gujarat coast. The 1 cm strip took 31 steps. How long was the coast each time? How much longer was it with the short strip?",
    "answer": "20 cm and 31 cm. The short strip gave 11 cm more.",
    "explain": "With the 4 cm strip, 5 steps of 4 cm is 5 × 4 = 20 cm. With the 1 cm strip, 31 steps of 1 cm is 31 cm. 31 − 20 = 11 cm more.",
    "math_unit": "math.multiplication.equal-groups.L3",
-   "context": "This is about the coast test, where you stepped card strips along a coast on a map.",
+   "context": "This is about the experiment How Long Is the Coast?, where you step card strips along a coast on a map.",
    "how": "e1",
    "why_maths": "Steps are equal groups, so multiplying turns a count of steps into a length we can compare."
   },
@@ -2455,7 +2455,7 @@
    "answer": "2,000 km with the long strip and 3,100 km with the short strip.",
    "explain": "Each centimetre stands for 100 km. 20 × 100 = 2,000 km. 31 × 100 = 3,100 km. The real coast did not change, but the number did, because of the step.",
    "math_unit": "math.multiplication.equal-groups.L3",
-   "context": "This is about the coast test. A map is drawn smaller than the real land, and its scale tells you how much smaller.",
+   "context": "This is about the experiment How Long Is the Coast? A map is drawn smaller than the real land, and its scale tells you how much smaller.",
    "how": "e1",
    "why_maths": "A map's scale turns centimetres on paper into kilometres of real coast, and shows how big the difference really is."
   },
@@ -2464,7 +2464,7 @@
    "answer": "2, 4, 8, 16, 32. Each number is double the one before.",
    "explain": "One trunk splits into 2. Each of those splits into 2, making 4. Then 8, 16 and 32. Each time, every tip becomes two.",
    "math_unit": "math.patterns.number-patterns.L3",
-   "context": "This is about the fractal tree you drew, where every branch splits into two shorter branches.",
+   "context": "This is about the fractal tree in the activity Draw a Fractal Tree and a Triangle of Triangles, where every branch splits into two shorter branches.",
    "how": "a4",
    "why_maths": "Spotting the doubling rule lets you predict the next level without drawing it."
   },
@@ -2482,16 +2482,16 @@
    "answer": "27 and 81.",
    "explain": "Each coloured triangle turns into 3 smaller ones. 9 × 3 = 27. 27 × 3 = 81.",
    "math_unit": "math.patterns.shape-patterns.L3",
-   "context": "This is about the triangle of triangles you drew, where each coloured triangle has its middle left white.",
+   "context": "This is about the Sierpinski triangle in the activity Draw a Fractal Tree and a Triangle of Triangles, where each coloured triangle has its middle left white.",
    "how": "a4",
    "why_maths": "A shape pattern with a rule can be counted far beyond what you can draw."
   },
   {
-   "problem": "Pavithra, a girl in Class 4, halves the length of her strip each time, and the coast measures a bit longer each time. If the coast had bends at every size forever, would the length ever stop growing?",
+   "problem": "You halve the length of your strip each time, and the coast measures a bit longer each time. If the coast had bends at every size forever, would the length ever stop growing?",
    "answer": "No. A coast with bends at every size would keep getting longer, without end.",
    "explain": "Each shorter strip finds more bends to go into, so it adds more length. If there were always smaller bends, there would always be more to add, so the length would never stop growing. Real coasts stop at the size of sand grains and smaller bits.",
    "math_unit": "math.number-sense.infinity.L3",
-   "context": "This is about the coast test, where shorter strips gave longer coasts.",
+   "context": "This is about the experiment How Long Is the Coast?, where shorter strips give longer coasts.",
    "how": "e1",
    "why_maths": "Thinking about what happens forever helps us understand why a fractal's length has no top limit."
   }
@@ -2659,9 +2659,9 @@
  "roots": {
   "context": "We have learned that a cauliflower, a fern and a coast have patterns inside patterns, and that a coast measures longer with a shorter ruler. Now we ask what these patterns tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "On your map, the 1 cm strip gave a longer coast than the 4 cm strip. It went into small bays that the long strip stepped across. A coast has bends inside bends, down to the grains of sand. So a coast has no single length until we choose the size of our step.",
+   "truth": "In the experiment How Long Is the Coast?, the 1 cm strip gave a longer coast on the map than the 4 cm strip. It went into small bays that the long strip stepped across. A coast has bends inside bends, down to the grains of sand. So a coast has no single length until we choose the size of our step.",
    "habit": "We think every object has one true size, waiting to be measured. A bendy edge shows that its length also depends on how closely we look, so a number is only complete when it says how it was measured.",
-   "evidence": "In the coast test, the 4 cm strip, the 1 cm strip and the thread gave three different lengths for the same coast of Gujarat. Kerala's smooth coast changed much less. India's official coastline grew from about 7,516 km to about 11,098 km when it was measured on more detailed maps."
+   "evidence": "In the experiment How Long Is the Coast?, the 4 cm strip, the 1 cm strip and the thread gave three different lengths for the same coast of Gujarat. Kerala's smooth coast changed much less. India's official coastline grew from about 7,516 km to about 11,098 km when it was measured on more detailed maps."
   },
   "three": {
    "who_am_i": "Your lungs and blood vessels branch inside you, again and again, so that air and blood reach every part of your body.",
@@ -2678,7 +2678,7 @@
    {
     "source": "Jain teaching of anekantavada, many-sidedness, told with the story of the blind men and the elephant (also in the Buddhist Udana 6.4)",
     "teaching": "Each blind man touches one part of the elephant and describes that part truly, but no one of them has the whole elephant.",
-    "link": "The 4 cm strip, the 1 cm strip and the thread each measured the coast truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast."
+    "link": "In the experiment How Long Is the Coast?, the 4 cm strip, the 1 cm strip and the thread each measured the coast truly, and each got a different length. Each number is right for its own step, and no one number is the whole truth about the coast."
    }
   ],
   "science": [
@@ -2702,7 +2702,7 @@
    "kid": "Look at your whole hand. Now one finger. Now the lines on one fingertip. Breathe in as you look closer. Breathe out as you look at the whole hand. Do it three times."
   },
   "ask": [
-   "If the beach has a different length for every stick, which length is the beach's own?",
+   "In the story, the rope and the stick gave two different lengths for the same beach. Which one is the beach's real length?",
    "A floret is a small cauliflower. Is it a part, or a whole, or both?",
    "Your lungs branch inside you, like the trees outside. Why might a body and a tree end up with the same shape?"
   ],

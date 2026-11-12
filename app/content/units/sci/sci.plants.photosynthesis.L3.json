@@ -255,7 +255,7 @@
    "concept": "Light is energy that comes in packets",
    "status": "defined",
    "definition": "Light carries energy from the Sun. It arrives in tiny packets called photons. Chlorophyll catches photons and uses their energy to make sugar.",
-   "description": "The Sun is a giant ball of hot gas. Deep inside it, the smallest atoms, hydrogen, crash together and join into helium. This joining gives off huge amounts of energy. Some of it leaves the Sun as light. The light crosses space and reaches Earth about eight minutes later. When a photon hits a chlorophyll molecule, its energy jumps into it. The leaf passes that energy along, and uses it to split water and build sugar. So the energy in your idli is sunlight, caught by the leaf of a rice plant and stored. When you run, you are using energy that reached a paddy field from the Sun a few months ago. A leaf is not very efficient. A field of crops stores only about 2 out of every 100 parts, often less, of the sunlight that falls on it. The rest bounces away or warms the leaf.",
+   "description": "The Sun is a giant ball of hot gas. Deep inside it, the smallest atoms, hydrogen, crash together and join into helium. This joining gives off huge amounts of energy. Some of it leaves the Sun as light. The light crosses space and reaches Earth about eight minutes later. Light arrives in tiny packets called photons. When a photon hits a chlorophyll molecule, the photon's energy passes into the molecule. The leaf passes that energy along, and uses it to split water and build sugar. So the energy in your idli is sunlight, caught by the leaf of a rice plant and stored. When you run, you are using energy that reached a paddy field from the Sun a few months ago. A leaf is not very efficient. A field of crops stores only about 2 out of every 100 parts, often less, of the sunlight that falls on it. The rest bounces away or warms the leaf.",
    "examples": [
     "Solar panels on a roof also catch photons, but they turn the energy into electricity instead of sugar.",
     "The energy in a banana you eat today reached the banana plant from the Sun."
@@ -298,8 +298,8 @@
    "definition": "Plants and algae make their own food from light. Almost every other living being gets their food by eating them, or by eating something that ate them.",
    "description": "Think of your lunch. The rice and dal came from plants. The milk came from a cow that ate grass. The fish ate smaller animals, which ate tiny algae in the sea. Follow any food back far enough and you reach a green thing in the sunlight. Living things that make their own food are called producers. Animals, which must eat, are called consumers. Mushrooms and many bacteria feed on dead plants and animals. They return carbon dioxide and minerals to the air and soil, so plants can use them again. The atoms go round and round. Only the energy comes in fresh each day, as sunlight. The unit on food chains follows this much further.",
    "examples": [
-    "Grass to goat to leopard.",
-    "Tiny algae to small shrimps to a fish to a family eating fish curry in Kerala or fish and rice in Bengal.",
+    "A goat eats grass, and a leopard eats the goat.",
+    "Small shrimps eat tiny algae, a fish eats the shrimps, and a family eats the fish, as fish curry in Kerala or fish and rice in Bengal.",
     "A fallen mango rots. Its atoms go back to the air and soil."
    ],
    "perspectives": [],
@@ -310,7 +310,7 @@
    "concept": "Who made the air we breathe",
    "status": "defined",
    "definition": "There was almost no oxygen in Earth's air for the first two billion years. Tiny living things called cyanobacteria made it, by photosynthesis, very slowly over hundreds of millions of years.",
-   "description": "Young Earth's air had nitrogen and carbon dioxide, but hardly any oxygen. Then cyanobacteria appeared in the sea. They were the first to split water with light. Their spare oxygen bubbled out. About 2.4 billion years ago, enough had built up to change the air for ever. Scientists call it the Great Oxidation Event. Later, a bigger cell swallowed a cyanobacterium but did not digest them. The two lived on together. The swallowed one became the chloroplast. The cells that carried it on became algae, and later plants. An American scientist, Lynn Margulis, argued for this idea in 1967. Many scientists thought she was wrong, and her paper was rejected many times. Today the evidence shows she was right. Chloroplasts even have their own small set of genes, like a bacterium.",
+   "description": "Young Earth's air had nitrogen and carbon dioxide, but hardly any oxygen. Then cyanobacteria appeared in the sea. They were the first to split water with light. Their spare oxygen bubbled out. About 2.4 billion years ago, enough had built up to change the air for ever. Scientists call it the Great Oxidation Event. Later, a bigger cell swallowed a cyanobacterium but did not digest them. The two lived on together. The swallowed one became the chloroplast. The cells that came from this pair became algae, and later plants. An American scientist, Lynn Margulis, argued for this idea in 1967. Many scientists thought she was wrong, and her paper was rejected many times. Today the evidence shows she was right. Chloroplasts even have their own small set of genes, like a bacterium.",
    "examples": [
     "Every chloroplast in a leaf is descended from a cyanobacterium that once lived on their own.",
     "In some places, like Shark Bay in Australia, cyanobacteria still build rocky mounds called stromatolites, as they did billions of years ago."
@@ -595,7 +595,7 @@
    "That summer, Govindan Mudalali, the richest man in the village, built a wall. He built it of new red bricks, right round the tree, with an iron gate and a padlock. He hung a board on the gate. It said PRIVATE.",
    "'The tree stands in my field,' he told anyone who asked. 'Their roots go deep into my soil. Every mango is made of my land. So every mango is mine.'",
    "The children stopped waiting under the tree. The mangoes fell inside the wall and were loaded into the Mudalali's cart for the market. Malar's mother stopped sweeping. She did not say anything about it, which was worse.",
-   "Malar was nine, and she did not like the word PRIVATE. She liked the word made even less. Made of my land. It sat in her head like a stone in a shoe.",
+   "Malar was nine, and she did not like the word PRIVATE. She liked the word 'made' even less. 'Made of my land.' It sat in her head like a stone in a shoe.",
    "At school, Revathi Miss had once drawn a leaf on the blackboard with arrows going in and out. 'Leaves make food,' she had said, 'from sunlight, water and air.' Everybody had copied it into their notebooks. Nobody had believed it, least of all Malar. Air was nothing. You could not build a mango out of nothing.",
    "That evening, Malar watered the tulsi in the clay pot by their door. Her mother had planted this tulsi the year Malar was born, from a seed no bigger than a mustard seed. Now the tulsi was a bush as tall as Malar's waist. Every winter her mother cut them back and gave bunches of their leaves to the whole lane, and every spring they grew again.",
    "On the inside of the pot, just above the soil, there was a scratch. Her mother had made it with a nail on the first day, so she would know when the soil sank and needed more.",
@@ -766,7 +766,7 @@
     "Leaf Kitchen: for each LEAF you have built, you may trade 1 SUNLIGHT, 1 WATER and 1 CARBON DIOXIDE for 1 SUGAR. Each time, put 1 OXYGEN bubble into the middle of the table, for the air. If the oxygen bubbles or the sugar run out, make tally marks on paper instead.",
     "Spend SUGAR to build on your plant mat: put a coin on a space and put the SUGAR back in the middle. More leaves let you make more sugar.",
     "When you draw a QUESTION card, another player reads it aloud. You answer, then they read the back and check you.",
-    "The first plant to build the ROOT, the STEM, all 3 LEAF spaces, the FLOWER and the SEED wins. Finish the round so everyone has the same number of turns. If two plants finish together, they both win. Then count the oxygen bubbles together. That is the air your plants made for everyone."
+    "The first plant to build the ROOT, the STEM, all 3 LEAF spaces, the FLOWER and the SEED wins. Finish the round so everyone has the same number of turns. If two plants finish together, they both win. Then count the oxygen bubbles together. That is the oxygen your plants made for everyone."
    ],
    "flow": [
     {
@@ -825,7 +825,7 @@
      "mins": 3,
      "do": "When someone wins, stop. Count the oxygen bubbles in the middle together.",
      "say": "Look how many oxygen bubbles our plants made. Who gets to breathe that air?",
-     "kid": "Count the oxygen bubbles in the middle. Your plants made all that air! Who breathes it?",
+     "kid": "Count the oxygen bubbles in the middle. Your plants made all that oxygen! Who breathes it?",
      "think": "Your plant made oxygen for everybody. Where does the oxygen in your room come from right now?"
     },
     {
@@ -1048,19 +1048,19 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun, a boy in Class 3, says, 'Plants take in oxygen to make their food, just like we do.' What has he mixed up?",
+     "p": "Someone says, 'Plants take in oxygen to make their food, just like we do.' What have they mixed up?",
      "opts": [
       "To make food, a leaf takes in carbon dioxide and gives out oxygen",
       "Plants do not make food at all",
       "Plants take in smoke",
-      "Nothing, he is right"
+      "Nothing, they are right"
      ],
      "a": 0,
-     "why": "Photosynthesis takes in carbon dioxide and gives out oxygen. Arjun is half right about one thing: plants also use a little oxygen all the time to get energy from their sugar, as we do. A strong answer separates making food from using it."
+     "why": "Photosynthesis takes in carbon dioxide and gives out oxygen. The speaker is half right about one thing: plants also use a little oxygen all the time to get energy from their sugar, as we do. A strong answer separates making food from using it."
     },
     {
      "t": "mcq",
-     "p": "A girl puts sunk spinach discs in baking-soda water, and leaves the cup in a dark cupboard for 25 minutes. What will she see?",
+     "p": "You put sunk spinach discs in baking-soda water, and leave the cup in a dark cupboard for 25 minutes. What will you see?",
      "opts": [
       "The discs stay at the bottom",
       "The discs all float up",
@@ -1104,7 +1104,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the starch picture experiment, the black paper is clipped on both sides of the leaf, top and bottom. Why?",
+     "p": "In The Starch Picture, the black paper is clipped on both sides of the leaf, top and bottom. Why?",
      "opts": [
       "So no light at all reaches that part of the leaf",
       "So the leaf does not fall off",
@@ -1114,7 +1114,7 @@
      "a": 0,
      "why": "The test asks: does a leaf make starch only where light falls? So the covered part must get no light at all, from above or below. A strong answer says what the test is checking.",
      "how": "e2",
-     "context": "In the starch picture experiment, you clip a black paper shape on a leaf for two sunny days. Then you test the leaf for starch with iodine, which turns blue-black on starch."
+     "context": "In The Starch Picture, you clip a black paper shape on a leaf for two sunny days. Then you test the leaf for starch with iodine, which turns blue-black on starch."
     },
     {
      "t": "write",
@@ -1212,7 +1212,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at the chart from the bubble count. About how many bubbles would you expect in one minute with the lamp 30 cm away?",
+     "p": "Look at the chart from Count the Bubbles. About how many bubbles would you expect in one minute with the lamp 30 cm away?",
      "opts": [
       "About 10",
       "About 40",
@@ -1222,7 +1222,7 @@
      "a": 0,
      "why": "30 cm is between 20 cm, which gave 16 bubbles, and 40 cm, which gave 6. So the answer should be between 6 and 16. Picking 'about 40' would mean the plant made more oxygen in dimmer light. A strong answer uses the pattern to predict.",
      "how": "e3",
-     "context": "In the bubble count, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
+     "context": "In Count the Bubbles, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: bubbles from a water plant in one minute",
@@ -1271,7 +1271,7 @@
      "t": "write",
      "p": "Most people guess that a tree is built from soil. Give two pieces of evidence from this unit that it is not.",
      "lines": 4,
-     "a": "Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In my own pot, the plants got heavier but the soil did not get lighter.",
+     "a": "Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In Van Helmont's Willow, in Five Weeks, my plants got heavier but the soil did not get lighter.",
      "why": "A strong answer gives real evidence, with numbers where it can, and says what each one shows."
     },
     {
@@ -1556,11 +1556,11 @@
      "lines": 4,
      "a": "A strong answer says a mango tree is built mostly from carbon dioxide in the air and water from rain, using sunlight. Only a tiny pinch, the minerals, comes from the soil. So if he owns only the soil, he owns only a pinch of the tree.",
      "why": "The answer should say what the tree is made of, and link the tiny soil part to the pinch.",
-     "context": "A man claims the mangoes of a tree because it grows in his soil."
+     "context": "A man claims the mangoes of a tree because the tree grows in his soil."
     },
     {
      "t": "write",
-     "p": "Imagine every plant and alga on Earth stopped photosynthesis tomorrow. What would run out first, food or oxygen? Explain.",
+     "p": "Suppose every plant and alga on Earth stopped photosynthesis tomorrow. What would run out first, food or oxygen? Explain.",
      "lines": 4,
      "a": "A strong answer says food would run out first. Every food chain starts with plants and algae, and animals would soon have nothing to eat. The air holds a huge store of oxygen, so it would last much longer, but slowly be used up by breathing and rotting.",
      "why": "This asks the child to compare two effects and reason about which is faster."
@@ -1736,7 +1736,7 @@
      "say": "Baking soda puts carbon dioxide into the water, in a form that leaves can use to make food. Boiling drives the carbon dioxide out of water, so the boiled water has very little. Both glasses hold boiled water, so the baking soda is the only difference.",
      "kid": "Stir baking soda into one glass of boiled water, now cool. The other glass has only boiled water. Add one drop of soap to each. Label three cups A, B and C.",
      "parent": "The soap helps the liquid soak into the leaf. Baking soda water holds carbon dioxide that the leaf can use. Tap water often holds some carbon dioxide too, which is why both glasses use water that was boiled and left to cool.",
-     "context": "This is the first step of the leaf disc experiment. Tiny circles of spinach leaf are sunk in water. If they make oxygen, the bubbles make them float back up."
+     "context": "This is the first step of The Rising Leaf Discs. Tiny circles of spinach leaf are sunk in water. If they make oxygen, the bubbles make them float back up."
     },
     {
      "id": "s2",
@@ -1751,7 +1751,7 @@
      "mins": 10,
      "do": "1. Take the plunger out of the syringe. Drop in 10 discs. 2. Push the plunger back in, nearly to the discs. 3. Suck up 5 ml of baking soda water. 4. Put a finger tightly over the tip. Pull the plunger back hard and hold for 10 seconds. 5. Let go and tap. Repeat until the discs sink. 6. Do all of this again with 10 more discs and baking soda water. 7. Rinse the syringe, then do it once more with 10 discs and the plain boiled water.",
      "say": "Pulling the plunger sucks the air out of the leaf. The liquid rushes in, and the discs get heavy and sink. Now they're empty of air, ready to start.",
-     "kid": "Put 10 circles in the syringe. Suck up a little baking soda water. Finger over the tip. Pull back hard. Let go. Repeat until they sink.",
+     "kid": "Put 10 circles in the syringe. Suck up a little baking soda water. Put a finger over the tip. Pull the plunger back hard. Let go. Repeat until the circles sink.",
      "adult": true,
      "parent": "It can take 3 or 4 pulls before the discs sink. If some still float, leave them out. You need 10 sunk discs for each cup."
     },
@@ -1816,7 +1816,7 @@
      "id": "s6",
      "mins": 3,
      "do": "Compare the three cups at the end. Help your child draw one bar for each cup.",
-     "say": "Which cup floated? Which cups stayed sunk? What was different about them?",
+     "say": "In which cup did the discs float? In which cups did they stay sunk? What was different about them?",
      "kid": "Draw one bar for each cup. Which cup's circles floated? What did that cup have that the others didn't?",
      "check": {
       "t": "mcq",
@@ -1860,7 +1860,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a leaf needs light and carbon dioxide to make oxygen. What I saw: after 15 minutes, all 10 discs floated in the sunny baking soda cup, cup A. None floated in the other two cups. Why: the leaf used light to make food from carbon dioxide and water. The spare oxygen made the discs float."
     }
    ],
@@ -1982,7 +1982,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the starch picture experiment. First you learn the iodine test: brown iodine turns blue-black where there is starch.",
+     "context": "This is the first step of The Starch Picture. First you learn the iodine test: brown iodine turns blue-black where there is starch.",
      "parent": "Starch turns dark blue or almost black within a few seconds. Sugar and salt stay brown."
     },
     {
@@ -2037,7 +2037,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a leaf makes food only where light falls on it. What I saw: after iodine, the leaf turned blue-black everywhere except the star shape, which stayed pale. Why: blue-black means starch, and starch is stored food. The leaf needs light to make it, and under the star there was no light."
     }
    ],
@@ -2139,21 +2139,21 @@
      "say": "Pond plants make their food under water. The baking soda gives them extra carbon dioxide. Watch the cut end.",
      "kid": "Stir a pinch of baking soda into the water. Clip the plant so they sink. Put the cut end at the top.",
      "adult": true,
-     "context": "This is the first step of the bubble count. A water plant gives off bubbles of oxygen as they make food. You count the bubbles with a lamp close by and far away."
+     "context": "This is the first step of Count the Bubbles. A water plant gives off bubbles of oxygen as they make food. You count the bubbles with a lamp close by and far away."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. A grown-up puts the lamp 10 cm from the glass, measured with a ruler. 2. Wait 3 minutes for the plant to get going. 3. Count the bubbles from the cut end for exactly one minute. 4. Count again for another minute.",
      "say": "We wait first, because the plant needs time to get used to the new light. Then we count for exactly one minute.",
-     "kid": "Lamp 10 cm away. Wait 3 minutes. Then count the bubbles for one minute. Count again for another minute."
+     "kid": "A grown-up puts the lamp 10 cm from the glass. Wait 3 minutes. Then count the bubbles for one minute. Count again for another minute."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Move the lamp to 20 cm. Wait 3 minutes and count twice. 2. Move it to 40 cm. Wait and count twice. 3. Switch the lamp off and cover the glass with the cardboard box. Wait and count twice by lifting the box for the count only.",
-     "say": "Each time, only the distance changes. Same plant, same glass, same minute. That keeps the test fair.",
-     "kid": "Now move the lamp to 20 cm. Count twice. Then 40 cm. Count twice. Then switch it off. Count again.",
+     "do": "1. Move the lamp to 20 cm. Wait 3 minutes and count twice. 2. Move it to 40 cm. Wait 3 minutes and count twice. 3. Switch the lamp off and cover the glass with the cardboard box. Wait 3 minutes and count twice. Lift the box only while you count.",
+     "say": "Each time, only the distance changes. We use the same plant and the same glass, and we count for one minute. That keeps the test fair.",
+     "kid": "Now the lamp moves to 20 cm. Wait, then count twice. Do the same at 40 cm. Then switch the lamp off, cover the glass with the box, and count twice more.",
      "ask": [
       {
        "q": "What happened to the bubbles when the lamp moved further away?",
@@ -2218,7 +2218,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a water plant makes oxygen faster in brighter light. What I saw: with the lamp 10 cm away, they gave 30 bubbles a minute. At 40 cm they gave only 6, and with the lamp off, none. Why: the plant uses light's energy to make food and split water, so more light means more oxygen."
     }
    ],
@@ -2295,7 +2295,7 @@
      "what": "Hold a big tree's seed, look at the tree, and write down your guess about where the tree came from."
     }
    ],
-   "record": "Write your guess: the tree came mostly from soil, water, air or sunlight? Keep the page. You will look at it again at the end of the unit.",
+   "record": "Write your guess: did the tree come mostly from soil, water, air or sunlight? Keep the page. You will look at it again at the end of the unit.",
    "flow": [
     {
      "id": "s1",
@@ -2380,7 +2380,7 @@
      "mins": 5,
      "do": "1. The night before, stir one teaspoon of chuna into a glass of water. 2. Leave it to settle overnight. 3. In the morning, gently pour the clear top part into a clean glass. That clear liquid is limewater.",
      "say": "Limewater is a detector. It turns milky when carbon dioxide gets into it.",
-     "kid": "A grown-up makes limewater from chuna. It looks clear like water. But it is a secret detector for carbon dioxide!",
+     "kid": "A grown-up makes limewater from chuna. It looks clear like water. But it turns milky when carbon dioxide gets into it.",
      "adult": true,
      "context": "This is the first step of The Breath a Tree Eats. You make limewater from chuna, the lime paste used in paan. Limewater turns milky when carbon dioxide gets in."
     },
@@ -2871,7 +2871,7 @@
      "mins": 20,
      "do": "1. Once a week, measure the tallest plant with a ruler and draw the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser.",
      "say": "We are giving the plants only water. Watch what they build.",
-     "kid": "Each week, measure the tallest plant. Draw them. Give only clean water. No plant food!",
+     "kid": "Each week, measure the tallest plant. Draw the plants. Give them only clean water. Do not add manure or fertiliser.",
      "wait": "Check once a week for about 4 weeks."
     },
     {
@@ -2937,7 +2937,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this, with made-up numbers. What I think: my plants were built mostly from air. What I saw: my 6 dry seeds weighed 4 grams, and the dried plants weighed 11 grams. The soil stayed at 1,200 grams. Why: the leaves used sunlight to build sugar from carbon dioxide in the air. The sugar became stems and leaves."
     }
    ],
@@ -3053,7 +3053,7 @@
    "id": "c2",
    "title": "The Fastest Float",
    "mins": 60,
-   "problem": "In the leaf disc experiment, the sunlit discs in baking soda water floated up after some minutes. Can you make 10 discs all float in less time?",
+   "problem": "In The Rising Leaf Discs, the sunlit discs in baking soda water floated up after some minutes. Can you make all 10 discs float in less time?",
    "constraints": [
     "You must use leaf discs cut with a straw, sunk in a syringe.",
     "You may change only one thing at a time, so you know what made the difference.",
@@ -3078,9 +3078,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Find how long your sunlit discs took in The Rising Leaf Discs. Write it at the top of a page. You will also set up one cup exactly like that one, to beat.",
-     "say": "Last time, how long did all 10 discs take to float? That's the time to beat.",
-     "kid": "How long did the discs take last time? Write that down. That is the time to beat!",
+     "do": "Find how long your sunlit discs took to float in The Rising Leaf Discs. Write it at the top of a page. That is the time to beat. You will also set up one cup exactly as you did then, to compare with the new cups.",
+     "say": "In The Rising Leaf Discs, how long did all 10 sunlit discs take to float? That's the time to beat.",
+     "kid": "How long did your sunlit discs take to float in The Rising Leaf Discs? Write that down. That is the time to beat!",
      "context": "This is the first step of The Fastest Float. You try to make spinach leaf discs float up faster, by giving the leaf better conditions for making oxygen."
     },
     {
@@ -3093,20 +3093,20 @@
     {
      "id": "s3",
      "mins": 45,
-     "do": "1. Sink 10 discs in the syringe for each idea. Sink 10 more for a cup set up exactly like the first experiment. 2. Put the cups side by side. In each cup, change only one thing. 3. Time how long until all 10 discs float in each cup. 4. Write each time down.",
+     "do": "1. Sink 10 discs in the syringe for each idea. Sink 10 more for a cup set up exactly as in The Rising Leaf Discs. 2. Put the cups side by side. In each cup, change only one thing. 3. Time how long until all 10 discs float in each cup. 4. Write each time down.",
      "say": "Try one idea at a time. If we change two things together, we won't know which one worked.",
      "kid": "Try each idea one at a time. Time how long until all 10 float. Write each time down.",
      "check": {
       "t": "mcq",
-      "q": "A girl put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say?",
+      "q": "Suppose you put your cup in brighter light AND added more baking soda at the same time. Your discs floated faster. What can you say?",
       "options": [
-       "Something helped, but she can't tell which change did it",
+       "Something helped, but you can't tell which change did it",
        "Brighter light is the reason",
        "Baking soda is the reason",
        "Leaves don't need light"
       ],
       "a": 0,
-      "why": "She changed two things at once. So either one, or both together, might have made the difference. To find out, she must change only one thing at a time. Picking 'brighter light is the reason' is a good guess, but her test cannot prove it."
+      "why": "You changed two things at once. So either one, or both together, might have made the difference. To find out, you must change only one thing at a time. Picking 'brighter light is the reason' is a good guess, but this test cannot prove it."
      },
      "parent": "Brighter light and a little more baking soda usually help the most. Very hot water damages the leaf, so keep it only slightly warm. Some leaves, like thick waxy ones, are hard to sink in the syringe."
     },
@@ -3119,7 +3119,7 @@
      "think": "A field of rice is millions of leaves like these. How could a farmer help them make more food?"
     }
    ],
-   "context": "This is a challenge using the leaf disc experiment. You try to make sunk leaf discs float faster, by changing one thing at a time to help the leaf make oxygen.",
+   "context": "This challenge uses The Rising Leaf Discs experiment. You try to make sunk leaf discs float faster, by changing one thing at a time to help the leaf make oxygen.",
    "setup": [
     {
      "art": "A notebook page with the time to beat written at the top and a stopwatch beside a cup of floating green leaf discs.",
@@ -3201,12 +3201,12 @@
    "a": 0,
    "why": "In a fair test, only one thing changes. Here that is the light. Picking the second answer changes two things at once, the light and the baking soda. Then you can't tell which one made the difference.",
    "outcome": 1,
-   "context": "In the leaf disc experiment, sunk spinach discs float up when the leaf makes oxygen.",
+   "context": "In The Rising Leaf Discs, sunk spinach discs float up when the leaf makes oxygen.",
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "A girl drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?",
+   "p": "You drop iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?",
    "opts": [
     "The potato has starch in it, and the sugar does not",
     "The sugar has more starch than the potato",
@@ -3348,7 +3348,7 @@
   "Plant breeders choose plants that give more food. In the 1930s, the Indian scientist Janaki Ammal helped breed sweeter sugarcane for India.",
   "Scientists are trying to give rice the sugarcane way of catching carbon dioxide, so rice grows more grain.",
   "Artificial leaves are being built to use sunlight to make clean fuels.",
-  "Coal, oil and gas are the remains of plants and tiny sea living things from millions of years ago. Burning them releases ancient stored sunlight and carbon.",
+  "Coal, oil and gas are the remains of plants and tiny sea living things from millions of years ago. Burning them lets out carbon, and energy from sunlight, that were stored long ago.",
   "Biogas plants in Indian villages turn cow dung and plant waste into cooking gas. That energy began as sunlight caught by grass.",
   "Making jaggery and sugar from sugarcane collects sugar made by photosynthesis."
  ],
@@ -3374,7 +3374,7 @@
    "art": "A water tank with a green film of algae in the sunlight."
   },
   {
-   "text": "A sugarcane juice cart. You are drinking sunlight stored as sugar.",
+   "text": "A sugarcane juice cart. The juice holds the Sun's energy, stored as sugar.",
    "art": "A roadside sugarcane juice cart with a glass of fresh juice."
   },
   {
@@ -3401,7 +3401,7 @@
   },
   {
    "q": "Can we build an artificial leaf that is cheap and lasts?",
-   "why_open": "Some work in the lab, but they are expensive or wear out. A real leaf mends itself every day."
+   "why_open": "Some artificial leaves work in the lab, but they are expensive or wear out. A real leaf mends itself every day."
   },
   {
    "q": "Can rice be given the sugarcane trick for catching carbon dioxide?",
@@ -3421,10 +3421,10 @@
   "You just breathed out. Where might that breath end up?",
   "Why is the grass under that brick yellow?",
   "If the soil does not feed the tree, what does the soil do?",
-  "Is a leaf working right now, at night? What is it doing instead?",
+  "It is night. Is a leaf making food right now? What is the leaf doing instead?",
   "What is this wooden chair really made of?",
   "Which do you think made more of the oxygen you breathed today: the trees on land, or the tiny living things in the sea?",
-  "Where did the energy for your run today come from, all the way back?",
+  "Where did the energy for your run today first come from?",
   "Why are the leaves at the top of a tree often smaller and thicker than the ones in the shade below?",
   "If you could see carbon dioxide, what would the air in this room look like?"
  ],
@@ -3521,11 +3521,11 @@
    "why_maths": "A leaf cannot make or lose atoms. It can only rearrange them. Counting the balls in and out proves that every atom in the sugar came from the air and the water."
   },
   {
-   "problem": "Look at the line chart from the leaf disc experiment. How many discs were floating at 9 minutes? How many more had floated up by 15 minutes?",
+   "problem": "Look at the line chart from The Rising Leaf Discs. How many discs were floating at 9 minutes? How many more had floated up by 15 minutes?",
    "answer": "4 discs at 9 minutes. 6 more by 15 minutes.",
    "explain": "Find 9 on the bottom line, go up to the line, and read across: 4 discs. At 15 minutes it reads 10. 10 − 4 = 6. So 6 more discs floated up in those 6 minutes.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "In the leaf disc experiment, tiny circles of spinach leaf are sunk in water. If the leaf makes oxygen, bubbles gather and the circles float back up.",
+   "context": "In The Rising Leaf Discs, tiny circles of spinach leaf are sunk in water. If the leaf makes oxygen, bubbles gather and the circles float back up.",
    "chart": {
     "type": "line",
     "title": "Made-up example: discs floating in the sunny cup, minute by minute",
@@ -3601,11 +3601,11 @@
    "why_maths": "Weighing is how van Helmont, and you, can prove where a tree came from. Comparing the tree's gain with the soil's loss shows the soil could not have been the source."
   },
   {
-   "problem": "In the bubble count, the water plant gave 30 bubbles in one minute with the lamp 10 cm away. If the lamp stayed there, about how many bubbles would the plant give in 10 minutes? In half an hour?",
+   "problem": "In Count the Bubbles, the water plant gave 30 bubbles in one minute with the lamp 10 cm away. If the lamp stayed there, about how many bubbles would the plant give in 10 minutes? In half an hour?",
    "answer": "About 300 bubbles in 10 minutes. About 900 in half an hour.",
    "explain": "One minute gives 30 bubbles. 10 minutes is 10 groups of 30, so 10 × 30 = 300. Half an hour is 30 minutes, and 30 × 30 = 900. Real bubbles would not stay exactly the same, so these are only estimates.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
-   "context": "In the bubble count, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
+   "context": "In Count the Bubbles, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
    "how": "e3",
    "why_maths": "Counting for one minute is quick, but it tells you the rate. Multiplying the rate shows how much oxygen a plant could make over a longer time."
   },
@@ -3803,7 +3803,7 @@
    "a": "Blue-black."
   },
   {
-   "q": "Most of a tree's wood comes from the soil, the water or the air?",
+   "q": "Where does most of a tree's wood come from: the soil, the water or the air?",
    "a": "The air. Carbon dioxide from the air."
   },
   {
@@ -3926,9 +3926,9 @@
  "roots": {
   "context": "We have been learning how a leaf makes food from air, water and sunlight. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Spinach leaf discs floated up only when they had both light and carbon dioxide. They were making food and oxygen from air and water, using light. Van Helmont's willow gained about 75 kilograms, while their soil lost only about 60 grams. So most of a tree's wood was once a gas in the air.",
+   "truth": "In The Rising Leaf Discs, spinach leaf discs sunk in water floated up only when they had both light and carbon dioxide. That showed they were making food and oxygen from air and water, using light. Van Helmont's willow gained about 75 kilograms, while their soil lost only about 60 grams. So most of a tree's wood was once a gas in the air.",
    "habit": "We assume a living thing is made of what they seem to feed on, and a plant seems to feed on soil through their roots. This mixes up what holds a plant in place and brings them water with what builds their body.",
-   "evidence": "In the rising leaf discs test, discs floated in the light with baking soda water, but not in the dark or in plain boiled water. Van Helmont's willow gained about 75 kilograms in five years, while their soil lost about 60 grams. Burn dry twigs, and only a little ash is left."
+   "evidence": "In The Rising Leaf Discs, discs floated in the light with baking soda water, but not in the dark or in plain boiled water. Van Helmont's willow gained about 75 kilograms in five years, while their soil lost about 60 grams. In Burn It Back to Air, dry twigs burn down to only a little ash."
   },
   "three": {
    "who_am_i": "The energy in your breakfast came from sunlight caught by a leaf.",
@@ -3965,7 +3965,7 @@
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "Many biologists say a leaf is wonderful chemistry, and nothing more. Life works through atoms and energy. They see no need for a One behind it."
+   "view": "Many biologists say a leaf is wonderful chemistry, and nothing more. Life works through atoms and energy. They do not think there is one living whole behind it."
   },
   "practice": {
    "title": "Breathe with a plant",

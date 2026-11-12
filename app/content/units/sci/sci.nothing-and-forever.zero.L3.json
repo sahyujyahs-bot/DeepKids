@@ -114,7 +114,7 @@
    "concept": "Zero holds an empty place",
    "status": "defined",
    "definition": "In our way of writing numbers, a digit's place tells its value. A 0 holds a place that is empty, so the other digits stay in their places.",
-   "description": "We write every number with only ten digits. A 5 on the right means five ones. One place to the left, it means five tens. Two places to the left, five hundreds. So the place matters. In 205 there are no tens. If we just leave the tens place out, the 2 slides next to the 5, and we read 25. The 0 stops that from happening. It says 'this place is empty' out loud, in ink.",
+   "description": "We write every number with only ten digits. A 5 on the right means five ones. One place to the left, it means five tens. Two places to the left, it means five hundreds. So the place matters. In 205 there are no tens. If we just leave the tens place out, the 2 slides next to the 5, and we read 25. The 0 stops that from happening. It is a written sign that says 'this place is empty'.",
    "examples": [
     "205 is two hundreds, no tens and five ones.",
     "Without the 0, 520 becomes 52, ten times smaller.",
@@ -128,7 +128,7 @@
    "concept": "Why a gap is not enough",
    "status": "defined",
    "definition": "A blank space can hold an empty place in the middle of a number, but nobody can see a blank at the end.",
-   "description": "About 2,300 years ago, scribes in Babylon, in what is now Iraq, wrote numbers on clay. At first they left a gap for an empty place. Gaps were easy to miss, so later scribes drew two small slanted marks in the gap. But they did not put the mark at the end of a number. So a reader had to guess from the story whether a number meant 2 or 120 or 7,200. You can see the same problem in the missing zero test: blanks at the end of a number go unseen.",
+   "description": "About 2,300 years ago, scribes in Babylon, in what is now Iraq, wrote numbers on clay. At first they left a gap for an empty place. Gaps were easy to miss, so later scribes drew two small slanted marks in the gap. But they did not put the mark at the end of a number. So a reader had to guess, from the writing around the number, whether it meant 2 or 120 or 7,200. You can see the same problem in the missing zero test: blanks at the end of a number go unseen.",
    "examples": [
     "52 followed by a blank looks exactly like 52.",
     "3, a gap, then 4 might be read as 34 or as 304."
@@ -219,7 +219,7 @@
   {
    "concept": "Do animals understand zero?",
    "status": "debated",
-   "description": "A honeybee visits many flowers in one trip, so she must judge quickly which patch has more flowers. In 2018, scientists in Melbourne, Australia, trained honeybees to choose the card with fewer shapes. When shown a blank card, the bees placed it below a card with one shape. In 2021, scientists in Germany found brain cells in crows that respond when there are no dots at all. Scientists disagree about what this means.",
+   "description": "A honeybee visits many flowers in one trip, so she must judge quickly which patch has more flowers. In 2018, scientists in Melbourne, Australia, trained honeybees to choose the card with fewer shapes. Then they showed the bees a blank card and a card with one shape. The bees chose the blank card as the one with fewer. In 2021, scientists in Germany found brain cells in crows that respond when there are no dots at all. Scientists disagree about what this means.",
    "examples": [
     "Bees chose a blank card as 'fewer' than a card with one dot.",
     "Crows hide food in many places, so knowing which places are empty helps them."
@@ -227,7 +227,7 @@
    "perspectives": [
     {
      "who": "Scarlett Howard, Adrian Dyer and their team (RMIT University, Melbourne, 2018)",
-     "explanation": "The bees put 'none' at the bottom of a row of numbers, below one. That is the first step in understanding zero as a number."
+     "explanation": "The bees treated 'none' as less than one, as if it comes below one in the order of numbers. That is the first step in understanding zero as a number."
     },
     {
      "who": "Other scientists",
@@ -258,7 +258,7 @@
   },
   {
    "text": "In our place-value system, a 0 holds an empty place, and leaving it out changes the number.",
-   "evidence": "Take the 0 out of 520 and you get 52. You can see it in the missing zero test and with three katoris."
+   "evidence": "Take the 0 out of 520 and you get 52. You can see this in the missing zero test, and when you make numbers with beans in three katoris."
   },
   {
    "text": "Brahmagupta, in India, wrote the first known rules for calculating with zero, in 628.",
@@ -293,7 +293,7 @@
   {
    "claim": "The Bakhshali manuscript holds the oldest written zero in the world.",
    "who": "The Bodleian Library in Oxford, after carbon dating in 2017",
-   "for": "This old maths book on birch bark, found in 1881 near the village of Bakhshali (now in Pakistan), uses a dot for zero. One piece of bark tested came out at about the years 224 to 383.",
+   "for": "This old maths book on birch bark, found in 1881 near the village of Bakhshali (now in Pakistan), uses a dot for zero. One piece of the bark was tested, and its age came out as somewhere between the years 224 and 383.",
    "against": "Other pieces of the same book came out hundreds of years younger. Some historians think the text was copied onto old bark, or added to over time, so the oldest date may not be the date of the writing.",
    "status": "debated",
    "context": "Where is the oldest written zero? This card is about an old Indian maths book whose age is argued about."
@@ -310,14 +310,14 @@
    "claim": "0 °C means there is no heat at all.",
    "who": "A common idea",
    "for": "0 °C is cold enough to freeze water, and the 0 looks like 'none'.",
-   "against": "0 °C is only the temperature where water freezes, chosen as a starting point. Many places get much colder, like Leh in winter. Ice at 0 °C still has heat in it. Even the original Celsius scale of 1742 had 0 at boiling and 100 at freezing, before it was turned round.",
+   "against": "0 °C is only the temperature where water freezes, chosen as a starting point. Many places get much colder, like Leh in winter. Ice at 0 °C still has heat in it. The first Celsius scale, made in 1742, had 0 at boiling and 100 at freezing. Later it was turned round.",
    "status": "rejected",
    "context": "Does 0 °C mean no heat? This card looks at the zero on a thermometer."
   },
   {
    "claim": "Honeybees understand zero.",
    "who": "Scarlett Howard, Adrian Dyer and their team, 2018",
-   "for": "Trained bees placed a blank card below a card with one shape, as if none is less than one.",
+   "for": "Trained bees chose a blank card as having fewer than a card with one shape, as if none is less than one.",
    "against": "The bees may only have learned to choose 'less stuff', without an idea of none as a number. Some scientists think the test cannot yet tell these two apart.",
    "status": "debated",
    "context": "Can a bee understand 'none'? This card is about a real test with honeybees."
@@ -332,7 +332,7 @@
   {
    "q": "A 0 adds nothing to count, yet 520 and 52 are very different numbers. Where does the difference come from?",
    "kind": "deep",
-   "hint": "Use the katoris. Which katori does the 5 sit in, with the 0 and without it?"
+   "hint": "Use three katoris for hundreds, tens and ones. Which katori does the 5 sit in, with the 0 and without it?"
   },
   {
    "q": "Why can't you share 12 pedas into groups of zero?",
@@ -464,8 +464,8 @@
      "mins": 10,
      "do": "Play 5 rounds. Turn over a new goal card each round. After each round, everyone reads their number aloud, saying the hundreds, tens and ones.",
      "say": "Read your number out loud. Say how many hundreds, tens and ones.",
-     "kid": "Roll, write, roll, write, roll, write. Read your number aloud. Who wins this round?",
-     "parent": "Listen for numbers like 405 and 450. Ask, 'Where is your zero, and what is it holding?' A child who reads 405 as 'forty-five' is missing the empty tens place, so make it with katoris."
+     "kid": "Roll the dice and write the digit, three times. Read your number aloud. Who wins this round?",
+     "parent": "Listen for numbers like 405 and 450. Ask, 'Where is your zero, and what is it holding?' A child who reads 405 as 'forty-five' is missing the empty tens place. Make 405 with beans in three katoris to show it."
     }
    ],
    "setup": [
@@ -923,7 +923,7 @@
      "what": "Find 3 things there are zero of, and 5 places where a 0 is written."
     }
    ],
-   "record": "Draw two lists: 'Zero of these here' and 'Places I saw a 0'.",
+   "record": "Write two lists: 'Zero of these here' and 'Places I saw a 0'.",
    "flow": [
     {
      "id": "s1",
@@ -1044,7 +1044,7 @@
      "kid": "Make 250, then 502, then 520. Write each one. Now make one for your grown-up to write.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 3, has 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it?",
+      "q": "There are 5 beans in Hundreds, 0 in Tens and 2 in Ones. What number is it?",
       "options": [
        "52",
        "502",
@@ -1283,7 +1283,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Give lift rides: 'Start at 2, go down 3 floors. Where are you?' Move the toy to check.",
+     "do": "Ask lift questions, such as 'Start at 2, go down 3 floors. Where are you?' Your child moves the toy along the number line to check.",
      "say": "Start on floor 2. Go down 3 floors. Where are you now?",
      "kid": "Put your toy on 2. Go down 3 floors. Where are you?",
      "ask": [
@@ -1496,7 +1496,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Talk about the problem, and look at the katori abacus from before.",
+     "do": "Talk about the problem. Look again at the katori abacus, the three katoris for hundreds, tens and ones.",
      "say": "Our katori abacus had 3 places. Can we build one with 4 places that will show 1,005?",
      "kid": "Your katori abacus had three places. Can you build one with four?",
      "context": "This is the first step of a building challenge. You build a counting frame that shows numbers with empty places, like 1,005."
@@ -1569,7 +1569,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Ananya, a girl in Class 3, has a plate with no dosas on it. How many dosas are on her plate?",
+   "p": "A plate has no dosas on it. How many dosas are on the plate?",
    "opts": [
     "One",
     "Zero",
@@ -1581,7 +1581,7 @@
   },
   {
    "t": "mcq",
-   "p": "Isha, a girl in Class 3, writes 520 but forgets the 0. What number has she written?",
+   "p": "You write 520 but forget the 0. What number have you written?",
    "opts": [
     "52, which is ten times smaller",
     "520, because the 0 means nothing",
@@ -1593,14 +1593,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the missing zero test, Nila, a girl in Class 3, showed a neighbour the card '52' with a blank space after it. She meant 520. What did the neighbour most likely say?",
+   "p": "In the missing zero test, a reader is shown the card '52' with a blank space after it. The writer meant 520. What will the reader most likely say?",
    "opts": [
     "Five hundred and twenty",
     "Fifty-two",
     "Five hundred and two"
    ],
    "a": 1,
-   "why": "A blank at the end of a number looks like ordinary paper, so they see only 52. That is why a 0 is needed at the end of a number.",
+   "why": "A blank at the end of a number looks like ordinary paper, so the reader sees only 52. That is why a 0 is needed at the end of a number.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1618,7 +1618,7 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi, a girl in Class 3, has 7 empty plates with no murukkus on each. How many murukkus is that altogether?",
+   "p": "There are 7 empty plates, with no murukkus on any of them. How many murukkus is that altogether?",
    "opts": [
     "7",
     "0",
@@ -1630,7 +1630,7 @@
   },
   {
    "t": "mcq",
-   "p": "Keerthana, a girl in Class 3, types 8 ÷ 0 on a calculator. What will it show?",
+   "p": "You type 8 ÷ 0 on a calculator. What will it show?",
    "opts": [
     "0",
     "8",
@@ -1666,10 +1666,10 @@
   },
   {
    "t": "mcq",
-   "p": "Mehak, a girl in Class 3, measures a pencil from the very edge of her ruler. The 0 mark is 5 mm in from the edge. What happens?",
+   "p": "You measure a pencil from the very edge of a ruler. The 0 mark is 5 mm in from the edge. What happens?",
    "opts": [
-    "Her answer is 5 mm too long",
-    "Her answer is 5 mm too short",
+    "The answer is 5 mm too long",
+    "The answer is 5 mm too short",
     "It makes no difference"
    ],
    "a": 0,
@@ -1679,7 +1679,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shalini, a girl in Class 3, lives in Hyderabad. The lift in her building has buttons B2, B1, G, 1, 2. If G is 0, what number is B1?",
+   "p": "A lift has the buttons B2, B1, G, 1, 2. If G is 0, what number is B1?",
    "opts": [
     "1",
     "-1",
@@ -1749,7 +1749,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Gauri, a girl in Class 3, says, 'A 0 means nothing, so 30 and 3 are the same number.' Is she right?",
+     "p": "'A 0 means nothing, so 30 and 3 are the same number.' Is this true?",
      "a": false,
      "why": "False. 30 is three tens. 3 is three ones. The 0 holds the ones place, so the 3 stays in the tens place. A strong answer uses beans or katoris to show it."
     },
@@ -1888,7 +1888,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 3, says, 'Zero means I don't know.' Her rain gauge in Mysuru reads 0 mm. What does the 0 really tell her?",
+     "p": "A rain gauge reads 0 mm. Someone says, 'Zero means I don't know.' What does the 0 really tell us?",
      "opts": [
       "That no rain fell",
       "That nobody checked",
@@ -1908,9 +1908,9 @@
    "items": [
     {
      "t": "write",
-     "p": "Tara, a girl in Class 3, has 12 beans. She tries to put them into groups of 0. Explain, in your own words, why she can never finish.",
+     "p": "Try to put 12 beans into groups of 0. Explain, in your own words, why you can never finish.",
      "lines": 3,
-     "a": "Each group takes no beans, so the heap never gets smaller. However many groups she makes, she still has 12 beans left. So no number of groups uses them up.",
+     "a": "Each group takes no beans, so the heap never gets smaller. However many groups you make, you still have 12 beans left. So no number of groups uses them up.",
      "why": "A strong answer says that the heap stays the same size, and links it to 12 ÷ 0 having no answer.",
      "how": "a3"
     },
@@ -1959,7 +1959,7 @@
       "105 and 150"
      ],
      "a": 0,
-     "why": "With no mark at the end, 20 would be written just like 2. A reader had to guess from the story. A middle gap had a mark, so 203 and 230 could be told apart."
+     "why": "With no mark at the end, 20 would be written just like 2. A reader had to guess from the writing around the number. A middle gap had a mark, so 203 and 230 could be told apart."
     },
     {
      "t": "sort",
@@ -2126,7 +2126,7 @@
     },
     {
      "t": "write",
-     "p": "The Romans had no zero, but Indian numbers won across the world. Using what you saw with CCCV and 305, say why you think this happened.",
+     "p": "Roman numbers had no zero. Indian numbers, with zero, came to be used across the world. Think of how 305 is written as CCCV in Roman numbers. Why do you think the Indian numbers won?",
      "lines": 4,
      "a": "Open answer. A strong answer says that with place value, ten digits can write any number, and the 0 keeps places, so the numbers are short and easy to add on paper. Roman signs need a new sign for every size.",
      "why": "A strong answer compares how long and how easy the two ways of writing 305 are."
@@ -2192,7 +2192,7 @@
     },
     {
      "t": "write",
-     "p": "The Bakhshali manuscript had three pieces carbon-dated. One came out about 1,700 years old, and others much younger. Why might one piece of bark be older than the writing on it?",
+     "p": "The Bakhshali manuscript is an old Indian maths book written on birch bark. Three pieces of it were tested to find their age. One came out about 1,700 years old, and the others much younger. Why might a piece of bark be older than the writing on it?",
      "lines": 4,
      "a": "The writer might have used old bark that was made long before. Or the book might have been copied and added to over many years. So the age of the bark doesn't have to be the age of the writing.",
      "why": "This is what historians really argue about. A strong answer gives one possible reason and says why it matters."
@@ -2206,14 +2206,14 @@
     },
     {
      "t": "mcq",
-     "p": "Sunita, a girl in Class 3, reads the card '6' with a blank space after it, and says sixty. She is right. Why might she have guessed it?",
+     "p": "A reader sees the card '6' with a blank space after it, and says sixty. That is right. How might the reader have guessed it?",
      "opts": [
-      "She asked if something was missing, or noticed the chit was extra wide",
+      "The reader asked if something was missing, or noticed the chit was extra wide",
       "Because blank spaces always mean zero",
       "Because 6 is always sixty"
      ],
      "a": 0,
-     "why": "A blank at the end gives no sign at all. A reader can only guess from something else, like the size of the chit. Babylonian readers also had to guess from the story around a number."
+     "why": "A blank at the end gives no sign at all. A reader can only guess from something else, like the size of the chit. Babylonian readers also had to guess from the writing around a number."
     },
     {
      "t": "odd",
@@ -2393,9 +2393,9 @@
    "why_maths": "Listing every way in order makes sure you miss none, and shows how much the 0's place changes the number."
   },
   {
-   "problem": "Kavya, a girl in Class 3, forgot the 0 when she wrote ₹500 in her savings book. She wrote ₹50. How much money went missing from her record?",
+   "problem": "Someone meant to write ₹500 in a savings book, but forgot a 0 and wrote ₹50. How much money went missing from the record?",
    "answer": "₹450.",
-   "explain": "She meant 500 but wrote 50. 500 - 50 = 450. A missing 0 at the end made the number ten times smaller.",
+   "explain": "The writer meant 500 but wrote 50. 500 - 50 = 450. A missing 0 at the end made the number ten times smaller.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about what happens when a 0 is left off the end of a number, as in the missing zero test.",
    "how": "e1",
@@ -2416,7 +2416,7 @@
    "explain": "12 ÷ 6 = 2, 12 ÷ 4 = 3, 12 ÷ 3 = 4, 12 ÷ 2 = 6, 12 ÷ 1 = 12. As each group gets smaller, you need more groups. A group of 0 uses up no beans, so no number of groups is ever enough.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "a3",
-   "context": "This is about sharing beans into groups, from Brahmagupta's rules with beans.",
+   "context": "This is about sharing beans into groups, from the activity Brahmagupta's rules with beans.",
    "chart": {
     "type": "bar",
     "title": "Groups needed for 12 beans",
@@ -2628,7 +2628,7 @@
  "roots": {
   "context": "We have learned that zero is the number for none, and that a 0 holds an empty place. Now we ask what zero tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In your test, a blank at the end of a number was missed, so 520 was read as 52. Numbers with a 0 written at the end, like 610, were read right. The 0 adds nothing to count, but it keeps the 5 and the 2 in their places. So a mark for 'none' does real work: it tells the other digits what they are worth.",
+   "truth": "In the missing zero test, a blank at the end of a number was missed, so 520 was read as 52. Numbers with a 0 written at the end, like 610, were read right. The 0 adds nothing to count, but it keeps the 5 and the 2 in their places. So a mark for 'none' does real work: it tells the other digits what they are worth.",
    "habit": "We think 'nothing' means 'doesn't matter', so it can be left out. But in a number, leaving out the mark for none changes the value of every digit beside it.",
    "evidence": "In the missing zero test, cards with a blank at the end were misread almost every time, and the same numbers with a 0 were read right. With the katoris, taking the empty katori away turned 205 into 25."
   },
@@ -2681,7 +2681,7 @@
   },
   "ask": [
    "In 205 the 0 adds nothing to count. Why can't we leave it out?",
-   "Is a place with nothing in it the same as a place that is not there? Think of the empty katori.",
+   "Is a place with nothing in it the same as a place that is not there? Think of the empty Tens katori when you made 205.",
    "What did you notice in the pause between breaths?"
   ],
   "art": "A night sky over a quiet terrace in Kochi, with a large faint circle drawn among the stars, and a child sitting cross-legged below with eyes closed."

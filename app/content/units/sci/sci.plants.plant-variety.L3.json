@@ -17,8 +17,8 @@
   "I can explain why some plants climb or creep instead of standing up on their own.",
   "I can name many ways people use plants: food, medicine, shade, wood, cloth, rope, paper and more.",
   "I can measure and compare, for example how much cooler the ground is in a tree's shade, and show it in a bar chart.",
-  "I can say what scientists agree about kinds of plants, and give plants that do not fit the boxes.",
-  "I can go deep: wood took millions of years to appear, trees grew from many different plant families, and nobody knows how many plants are still undiscovered."
+  "I can say what scientists agree about kinds of plants, and name plants that do not fit the five kinds.",
+  "I can explain three harder ideas: wood took millions of years to appear, trees come from many different plant families, and nobody knows how many plants are still undiscovered."
  ],
  "cards_mins": 20,
  "terms": [
@@ -231,7 +231,7 @@
    "context": "This card explains why plants grow in such different ways: they are all reaching for sunlight."
   },
   {
-   "concept": "Plants that break the boxes",
+   "concept": "Plants that do not fit the five kinds",
    "status": "debated",
    "description": "Our five kinds are useful, but not every plant fits them. A banana plant looks like a tree, but they have no wood at all. Their 'trunk' is made of leaf bottoms rolled tightly around each other, so botanists call them a giant herb. Bamboo grows as tall as a tree, but bamboo is a grass. Tulsi starts soft, like a herb, and becomes woody, like a shrub. Papaya has a single trunk, but it is soft and spongy inside. A pumpkin creeps or climbs, depending on what they find. So scientists use the five kinds as a handy guide, not as strict rules.",
    "examples": [
@@ -242,7 +242,7 @@
    "perspectives": [
     {
      "who": "Many botanists who sort plants by how they grow",
-     "explanation": "Life forms, like tree and climber, are real and useful. They tell you how a plant lives and wins light. In 1904 a Danish botanist, Christen Raunkiaer, made a famous system of plant life forms that is still used."
+     "explanation": "Kinds like tree and climber, which botanists call life forms, are real and useful. They tell you how a plant lives and reaches the light. In 1904 a Danish botanist, Christen Raunkiaer, made a famous system of plant life forms that is still used."
     },
     {
      "who": "Botanists who sort plants by family",
@@ -284,7 +284,7 @@
    "concept": "There is no single 'tree family'",
    "status": "defined",
    "definition": "Being a tree is a way of growing, not a family. Plants from many unrelated families have become trees on their own.",
-   "description": "You might think all trees are close cousins. They are not. Many unrelated plant families grew tall woody trunks separately, at different times. A pine, a coconut palm and a mango are all trees, but they are distant relatives. The coconut is closer to rice and bamboo than to the mango. It also went the other way. Some herbs came from woody ancestors, and on some islands, herbs turned back into woody shrubs. So 'tree' describes how a plant grows, not which family they belong to.",
+   "description": "You might think all trees are close cousins. They are not. Many unrelated plant families grew tall woody trunks separately, at different times. A pine, a coconut palm and a mango are all trees, but they are distant relatives. The coconut is closer to rice and bamboo than to the mango. The change also happened in the other direction. Some herbs came from woody ancestors, and on some islands, herbs turned back into woody shrubs. So 'tree' describes how a plant grows, not which family they belong to.",
    "examples": [
     "Coconut palms are related to grasses, not to mango trees.",
     "There are about 73,000 kinds of trees, from hundreds of different plant families.",
@@ -297,7 +297,7 @@
   {
    "concept": "One plant or a whole forest?",
    "status": "debated",
-   "description": "A banyan tree drops roots from their branches. These prop roots grow thick and become new trunks. The Great Banyan in the Botanic Garden at Howrah, near Kolkata, is about 250 years old. They have thousands of prop roots and covers more ground than two football fields. Their first trunk died and was removed in 1925, but the tree lives on. So are they one tree or many? In Utah, in America, there is a grove of about 47,000 aspen trunks, called Pando. They all grow from one root system, with the same genes. Some scientists call them one plant, maybe the heaviest living thing on Earth.",
+   "description": "A banyan tree drops roots from their branches. These prop roots grow thick and become new trunks. The Great Banyan in the Botanic Garden at Howrah, near Kolkata, is about 250 years old. They have thousands of prop roots and cover more ground than two football fields. Their first trunk died and was removed in 1925, but the tree lives on. So are they one tree or many? In Utah, in America, there is a grove of about 47,000 aspen trunks, called Pando. The trunks all grow from one root system, with the same genes. Some scientists call Pando one plant, maybe the heaviest living thing on Earth.",
    "examples": [
     "A banyan can look like a small forest, but they are one plant.",
     "A bamboo clump is many stems joined underground.",
@@ -361,8 +361,8 @@
   {
    "concept": "Shade: how trees cool a street",
    "status": "defined",
-   "definition": "A leaf in strong sun can get too hot. Water evaporating from the leaf cools it, the way sweat cools your skin. The leaves also block sunlight, so the ground and air under a tree stay cooler.",
-   "description": "A leaf sitting in the afternoon sun soaks up heat. If it gets too hot, it can be damaged. Water evaporates from tiny holes in the leaf, which means it turns into an invisible gas. That takes heat away, the same way sweat cools your skin. A big tree lets a lot of water evaporate on a hot day. This cools the air around the tree too. The leaves also catch the sunlight before it reaches the ground, so the ground underneath stays cooler. That is why you feel the difference at once when you step from a sunny road under a tree. Streets with many trees can be several degrees cooler than streets with none.",
+   "definition": "A leaf in strong sun can get too hot. Water evaporates from the leaf, which means the water turns into an invisible gas. This cools the leaf, the way sweat cools your skin. The leaves also block sunlight, so the ground and air under a tree stay cooler.",
+   "description": "A leaf sitting in the afternoon sun soaks up heat. If the leaf gets too hot, it can be damaged. Water evaporates from tiny holes in the leaf. That means the water turns into an invisible gas. This takes heat away, the same way sweat cools your skin. A big tree lets a lot of water evaporate on a hot day. This cools the air around the tree too. The leaves also catch the sunlight before it reaches the ground, so the ground underneath stays cooler. That is why you feel the difference at once when you step from a sunny road under a tree. Streets with many trees can be several degrees cooler than streets with none.",
    "examples": [
     "Cows, dogs and auto drivers all choose the shade of a tree on a hot afternoon.",
     "Old roads in India were planted with lines of trees, like banyan, neem and mango, to shade travellers.",
@@ -461,7 +461,7 @@
   },
   {
    "claim": "All trees are close relatives.",
-   "who": "A very natural idea, because trees look alike.",
+   "who": "Many people, because trees look alike.",
    "for": "Most trees share the same body plan: one trunk, branches and leaves.",
    "against": "When scientists compare genes, they find that trees come from many separate plant families. A coconut palm is closer to rice than to a mango tree.",
    "status": "rejected",
@@ -624,7 +624,7 @@
    "kid": "Stand straight with your eyes closed. Feel yourself sway a little. Now lean one hand on a wall. Do your legs work less? A climber leans like this."
   },
   "ask": [
-   "Is any plant useless? Useless to whom?",
+   "Is any plant useless? If so, useless to whom?",
    "If a tree and a climber both reach the top, which one did more work?"
   ],
   "art": "A tall tree, a vine climbing their trunk, a shrub, a herb and a creeper, each holding their leaves up to the same sunlight in a different way."
@@ -653,7 +653,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 plant cards to cut out (each card shows the plant, its kind and what people use it for)",
+     "title": "24 plant cards to cut out (each card shows the plant, their kind and what people use them for)",
      "items": [
       {
        "f": "Neem: tree. Uses: shade, datun twigs, wood",
@@ -854,9 +854,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 24 cards. 2. Lay the family mat on the table. 3. Look at all the cards together: each one shows the plant, its kind and its uses.",
-     "say": "Each card names a plant, its kind and how people use it. We are going to collect families of three.",
-     "kid": "Cut out the cards. Look at each plant, its kind and its uses.",
+     "do": "1. Cut out the 24 cards. 2. Lay the family mat on the table. 3. Look at all the cards together: each one shows the plant, their kind and their uses.",
+     "say": "Each card names a plant, their kind and how people use them. We are going to collect families of three.",
+     "kid": "Cut out the cards. Look at each plant, their kind and their uses.",
      "context": "This is the first step of Plant Families, a card game about kinds of plants and their uses. Here you set up the game."
     },
     {
@@ -864,7 +864,7 @@
      "mins": 3,
      "do": "Find the neem, mango and peepal cards and lay them side by side on the mat. Then shuffle all the cards and deal 5 to each player. Put the rest face down in a pile.",
      "say": "Let's practise. Neem, mango and peepal. What do these three share?",
-     "kid": "Practice round. Look at neem, mango and peepal. What do they share? Then take 5 cards each.",
+     "kid": "This is a practice round. Look at neem, mango and peepal. What do they share? Then take 5 cards each.",
      "check": {
       "t": "mcq",
       "q": "Neem, mango and peepal make a family. What do they share?",
@@ -1201,9 +1201,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say or write three short sentences. What I think. What I saw. Why I think it happened.",
+     "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: woody stems can hold a plant up, and thin soft stems cannot. What I saw: the twig did not dent and stood up straight, but the money plant flopped over. Why: wood is hard, so a tree can stand alone. A money plant has to hold on to something to grow up."
     }
    ]
@@ -1344,10 +1344,10 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask your child for claim, evidence and reasoning.",
+     "do": "Ask your child to say three things: what they think, what they measured, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you measure? Why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I measured. Why.",
-     "parent": "A good answer sounds like this. What I think: a big tree gives the coolest shade. What I saw: the sun was 46 degrees and the tree shade was 31 degrees. Why: the leaves stop the sunlight, and the tree gives off water that cools the air."
+     "kid": "Say or write three things: what you think, what you measured, and why you think it happened.",
+     "parent": "A good answer sounds like this. What I think: a big tree gives the coolest shade. What I measured: the sunny ground was 46 degrees and the ground in the tree's shade was 31 degrees. Why: the leaves stop the sunlight, and the tree gives off water that cools the air."
     }
    ]
   },
@@ -1481,10 +1481,10 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child for claim, evidence and reasoning.",
+     "do": "Ask your child to say three things: what they think, what they smelled, and why they think some leaves smell so strong.",
      "say": "What do you think now? What did you smell? Why do you think some leaves smell so strong?",
-     "kid": "Say three things. What I think. What I smelled. Why.",
-     "parent": "A good answer: What I think: mint and curry leaf have the strongest smell. What I saw: they scored 5 and 4, and spinach scored 1. Why: these plants make smelly chemicals in their leaves that keep many insects away. People use the same chemicals in food."
+     "kid": "Say three things: what you think, what you smelled, and why you think some leaves smell so strong.",
+     "parent": "A good answer sounds like this. What I think: mint and curry leaf have the strongest smell. What I smelled: they scored 5 and 4, and spinach scored 1. Why: these plants make smelly chemicals in their leaves that keep many insects away. People use the same chemicals in food."
     }
    ]
   }
@@ -1537,7 +1537,7 @@
      "say": "Let's count plants. For each plant, we decide: tree, shrub, herb, climber or creeper. Then we make a tally mark.",
      "kid": "Count the plants you can see. Decide each one's kind. Make a tally mark.",
      "context": "This is the first step of the Plant Count. You count plants of each kind around your home.",
-     "parent": "Sow a few bean seeds in a small pot today. In two weeks they will be ready for the Circling Shoot."
+     "parent": "Sow a few bean seeds in a small pot today. In two weeks they will be ready for the Circling Shoot activity."
     },
     {
      "id": "s2",
@@ -1563,7 +1563,7 @@
      "say": "Look high and low. Look at walls, grills and cracks too. What kind is this one?",
      "kid": "Look up and look down. Make a tally mark for each plant.",
      "adult": true,
-     "parent": "Do not worry about being exactly right. The point is to look at stems. If you both disagree, write it in a 'not sure' row. That is honest science. A tree field guide, like Trees of Delhi on the shopping list, helps you name the trees."
+     "parent": "Do not worry about being exactly right. The point is to look at stems. If the two of you disagree about a plant, write that plant in a 'not sure' row. That is honest science. A tree field guide, like Trees of Delhi on the shopping list, helps you name the trees."
     },
     {
      "id": "s4",
@@ -1573,7 +1573,7 @@
      "kid": "Count each row. Which kind did you see most? Which least?",
      "check": {
       "t": "mcq",
-      "q": "Mitali, a girl in Class 3, sees a plant with a thin stem growing up her window grill. This plant has little roots along their stem. What kind of plant is this?",
+      "q": "A plant with a thin stem is growing up a window grill. The plant has little roots along their stem. What kind of plant is this?",
       "options": [
        "A tree",
        "A climber",
@@ -1650,7 +1650,7 @@
      "kid": "Count each box. Which box is the fullest?",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 3, has chappals made of natural rubber. Where does natural rubber come from?",
+      "q": "Some chappals are made of natural rubber. Where does natural rubber come from?",
       "options": [
        "From a rock dug out of the ground",
        "From the milky sap of a rubber tree",
@@ -1663,9 +1663,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Imagine a breakfast with no plants at all.",
+     "do": "Ask your child to think of a breakfast with no plants at all.",
      "say": "If every plant disappeared, what would be left for breakfast? Think about milk and eggs too.",
-     "kid": "Imagine there are no plants. What could you eat for breakfast?",
+     "kid": "Suppose there were no plants. What could you eat for breakfast?",
      "think": "Is there any food at all that does not come from a plant in the end?"
     }
    ]
@@ -2162,7 +2162,7 @@
      "mins": 10,
      "do": "On Day 28, make the plant friend card together.",
      "say": "What did you learn about your plant friend? What surprised you most?",
-     "kid": "Make your plant friend card. Kind, uses, visitors, changes.",
+     "kid": "Make your plant friend card. Write their kind, their uses, their visitors and what changed.",
      "wait": "Day 28",
      "think": "Does your plant know you visited them? How could you ever find out?"
     }
@@ -2177,7 +2177,7 @@
    "problem": "A young bottle gourd or bean climber in a pot has nothing to climb. Their stem is flopping on the floor. Build them a support so they can climb up to the light, using only things from home.",
    "constraints": [
     "Use only things you find at home.",
-    "The support must be steady and not fall over when a climber leans on the support.",
+    "The support must be steady. It must not fall over when a climber leans on it.",
     "It must be at least 1 metre tall.",
     "It must not hurt the plant."
    ],
@@ -2224,7 +2224,7 @@
      "mins": 6,
      "do": "Let your child draw two or three ideas for a support before building anything.",
      "say": "Draw a few ideas first. Think: how will the plant hold on? With tendrils, or by twisting their stem?",
-     "kid": "Draw two ideas. How will the plant hold on to them?",
+     "kid": "Draw two ideas for a support. How will the plant hold on to each one?",
      "check": {
       "t": "mcq",
       "q": "A bottle gourd climbs with curly tendrils. Which support will they find easiest to hold?",
@@ -2521,9 +2521,9 @@
     },
     {
      "t": "write",
-     "p": "Nila, a girl in Class 3, says, 'A rose is a tree, because their stems are woody.' What has Nila got right, and what is her mistake?",
+     "p": "Someone says, 'A rose is a tree, because their stems are woody.' What is right in this, and what is the mistake?",
      "lines": 3,
-     "a": "Nila is right that a rose has woody stems. But a tree has one thick trunk. A rose has many woody stems coming up from near the ground, and stays small. So a rose is a shrub.",
+     "a": "It is right that a rose has woody stems. But a tree has one thick trunk. A rose has many woody stems coming up from near the ground, and stays small. So a rose is a shrub.",
      "why": "A strong answer uses two clues, not one: how hard the stem is, and how many main stems there are. Woody alone does not make a tree."
     },
     {
@@ -2597,14 +2597,14 @@
       "Someone tied pepper on the tree"
      ],
      "a": 0,
-     "why": "Pepper is a climber. It grows up a tree, holding on with little roots. From a distance, the two plants look like one. Picking 'jackfruit trees make pepper' is exactly the painter's mistake.",
+     "why": "Pepper is a climber. They grow up a tree, holding on with little roots. From a distance, the two plants look like one. Picking 'jackfruit trees make pepper' is exactly the painter's mistake.",
      "context": "Pepper is a climbing plant that grows up the trunks of other trees."
     },
     {
      "t": "write",
-     "p": "Bina, a girl in Class 4, wants to compare the ground in the sun with the ground under a neem tree. She measures the sunny spot at noon and the shady spot at 3 o'clock in the afternoon. Why is her test not fair, and what should she change?",
+     "p": "You want to compare the ground in the sun with the ground under a neem tree. Suppose you measure the sunny spot at noon and the shady spot at 3 o'clock in the afternoon. Why is this test not fair, and what should you change?",
      "lines": 3,
-     "a": "She measured at two different times of day. The Sun is lower and weaker at 3 o'clock, so the ground has already started to cool and the two numbers cannot be compared. She should measure both places at about the same time.",
+     "a": "The two places were measured at different times of day. The Sun is lower and weaker at 3 o'clock, so the ground has already started to cool and the two numbers cannot be compared. Measure both places at about the same time.",
      "why": "A strong answer says that only the place should differ. Anything else that changes, like the time, could explain the result.",
      "context": "In Shade Detective, you measure how hot the ground is in the sun and in shade with a thermometer.",
      "how": "e2"
@@ -2708,7 +2708,7 @@
      "t": "odd",
      "p": "Which one is the odd one out, and why? Money plant, pepper, bitter gourd, pumpkin.",
      "a": "Pumpkin, because a pumpkin is a creeper that spreads along the ground. The others are climbers.",
-     "why": "Money plant, pepper and bitter gourd grow upwards by holding on to a support. A pumpkin usually spreads on the soil. But if their tendrils find a fence, they will climb it, so the boxes are not perfectly neat."
+     "why": "Money plant, pepper and bitter gourd grow upwards by holding on to a support. A pumpkin usually spreads on the soil. But if their tendrils find a fence, they will climb it, so the kinds are not perfectly neat."
     },
     {
      "t": "perspective",
@@ -2801,7 +2801,7 @@
      ],
      "ask": "Is the Great Banyan one plant or thousands? Pick a side and give your reason. Then say what the other side has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with a reason. For one plant: every trunk grew from the same seed, and they still share one body of branches. For many: each trunk can stand and feed themselves on their own. A strong answer then sees that the word 'one plant' was made for animals like us, and does not fit plants neatly.",
+     "a": "A strong answer picks a side with a reason. For one plant: every trunk grew from the same seed, and they still share one body of branches. For many: each trunk can stand and feed themselves on their own. A strong answer then sees that the idea of 'one living thing' was made for animals like us, and does not fit plants neatly.",
      "why": "This is still argued about. There is no single right answer. The puzzle shows that our ideas of 'one living thing' come from animals, and plants do not always fit them."
     },
     {
@@ -2827,7 +2827,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Circling Shoot, a climber's tip moved in slow loops. Revathi, a girl in Class 4, says the wind caused the loops. How could you test her idea?",
+     "p": "In the Circling Shoot, a climber's tip moved in slow loops. Suppose someone says the wind caused the loops. How could you test this idea?",
      "opts": [
       "Keep the pot indoors with no fan or breeze, and see if it still circles",
       "Shout at the plant",
@@ -2846,7 +2846,7 @@
     },
     {
      "t": "write",
-     "p": "A farmer has a small plot and wants to grow both pumpkins and pepper. Which one needs a support, and which one needs space on the ground? Explain using how each kind holds up their stem.",
+     "p": "A farmer has a small plot and wants to grow both pumpkins and pepper. Which one needs a support, and which one needs space on the ground? In your answer, say how each kind of plant holds up their stem.",
      "lines": 4,
      "a": "Pepper is a climber, so the farmer needs a tree or a post for the vine to hold on to. Pumpkin is a creeper, so they need open ground to spread over. Both have thin, weak stems that cannot stand alone.",
      "why": "A strong answer links what each plant needs to their kind: a climber needs something to grip, a creeper needs room to spread."
@@ -2995,7 +2995,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Papaya stands up like a tree, but their trunk is not woody like a tree's. So they sit between the boxes. The five kinds are a useful guide, but some plants do not fit them well."
+   "why": "Papaya stands up like a tree, but their trunk is not woody like a tree's. So papaya is partly like a tree and partly not. The five kinds are a useful guide, but some plants do not fit them well."
   },
   {
    "t": "mcq",
@@ -3006,7 +3006,7 @@
     "Trees were the first plants on Earth"
    ],
    "a": 1,
-   "why": "'Tree' is a way of growing. Many unrelated families found it. Tiny land plants came long before trees.",
+   "why": "'Tree' is a way of growing. Plants from many unrelated families began to grow this way. Tiny land plants came long before trees.",
    "outcome": 6
   },
   {
@@ -3182,15 +3182,15 @@
  ],
  "maths": [
   {
-   "problem": "Lakshmi, a girl in Class 3, did a Plant Count from her windows. She counted 12 trees, 8 shrubs, 20 herbs, 4 climbers and 2 creepers. How many plants did she count in all? Which kind did she see most of?",
+   "problem": "In a Plant Count from the windows of a home, there were 12 trees, 8 shrubs, 20 herbs, 4 climbers and 2 creepers. How many plants were counted in all? Which kind was seen most?",
    "answer": "46 plants. Herbs were the most.",
-   "explain": "Add them up: 12 + 8 is 20. 20 + 20 is 40. 40 + 4 is 44. 44 + 2 is 46. The biggest number is 20, for herbs, so she saw herbs most.",
+   "explain": "Add them up: 12 + 8 is 20. 20 + 20 is 40. 40 + 4 is 44. 44 + 2 is 46. The biggest number is 20, for herbs, so herbs were seen most.",
    "math_unit": "math.data.sorting-and-tallies.L3",
    "how": "a1",
    "context": "This is about the Plant Count. You count plants of each kind with tally marks, looking from your windows and balcony.",
    "chart": {
     "type": "bar",
-    "title": "Lakshmi's Plant Count: plants of each kind",
+    "title": "Plant Count: plants of each kind",
     "x": "Kind of plant",
     "y": "Number counted",
     "data": [
@@ -3423,12 +3423,12 @@
    "a": "A herb. Their stem is soft and green."
   },
   {
-   "q": "Pumpkin: climber or creeper?",
-   "a": "Creeper. They spread on the ground."
+   "q": "Is a pumpkin a climber or a creeper?",
+   "a": "A creeper. They spread on the ground."
   },
   {
-   "q": "Money plant: climber or creeper?",
-   "a": "Climber. They hold on and grow up."
+   "q": "Is a money plant a climber or a creeper?",
+   "a": "A climber. They hold on and grow up."
   },
   {
    "q": "Bamboo is a giant what?",

@@ -7,7 +7,7 @@
   "art": "A child's squared-paper map of a bedroom, with a bed, a cupboard and a door drawn from above, a small X in the middle of the floor, and an arrow marked N in the corner."
  },
  "intro": {
-  "hook": "Put a coin on the floor of a room. Can you draw a map so good that someone who did not see you can walk in and put a finger on the coin?",
+  "hook": "Put a coin on the floor of a room. Can you draw a map so good that someone who did not see where you put it can walk in and put a finger on the coin?",
   "text": "In this unit you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.",
   "art": "A grandmother standing in a doorway holding a small paper map, looking at a coin on a tiled floor, while a girl watches from behind the door."
  },
@@ -254,7 +254,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your tile map had no colours and no cushions on it, yet it found the coin. What does a map need to keep to be true?",
+   "q": "A tile map has no colours and no cushions on it, yet it can lead someone to a hidden coin. What does a map need to keep to be true?",
    "kind": "deep",
    "hint": "Think about what you left out, and what you were careful to get right."
   },
@@ -382,7 +382,7 @@
     "Shuffle the 16 direction cards and put them face down. One player is the caller. With two players, you take turns being the caller.",
     "The caller turns over a card and reads it aloud. The words in brackets tell the caller which direction it is. Everyone else turns to face that direction and points.",
     "Anyone pointing at the right wall scores 1. The last one to turn, or anyone pointing at the wrong wall, scores 0. The caller does not score on their own cards.",
-    "The caller changes after every 4 cards. After each caller's 4 cards, that caller also says one corner, such as 'between north and east'. Everyone points to that corner, and the right corner scores 1.",
+    "Each caller reads 4 cards. Then that caller names one corner, such as 'between north and east'. Everyone points to that corner, and anyone pointing at the right corner scores 1. Then the next player becomes the caller.",
     "Play the first 8 cards with the labels up. Then take the labels down and play the last 8 cards from memory.",
     "The game ends when all 16 cards are used. The player with the most points wins."
    ],
@@ -497,7 +497,7 @@
       "H4, hall. Wall on the north side.",
       "I4, hall. Door on the north side.",
       "J4, hall. Coin spot: the pooja shelf. Wall on the north and east sides.",
-      "A5, hall. START square. Door on the west (the front door) side. Wall on the south side.",
+      "A5, hall. START square. The front door is on the west side. Wall on the south side.",
       "B5, hall. Coin spot: the shoe rack. Door on the south side.",
       "C5, hall. Wall on the south side.",
       "D5, hall. Wall on the south side.",
@@ -591,7 +591,7 @@
     "Lay the squares out in 8 rows of 10, with A1 at the top left. North is the top row. Put all tokens on the START square, A5, at the front door. Put a paper coin on each of the 8 coin spots.",
     "Shuffle the direction cards and put them face down. Each player holds 3 cards.",
     "On your turn, play one card. Move your token that many squares in a straight line in that direction. Then take a new card.",
-    "Walls and doors are on the square sides. You cannot go through a wall. If a wall stops you, stay on the last square before it. You can only go from one room to the next through a door.",
+    "Walls and doors are marked on the sides of the squares. You cannot go through a wall. If a wall stops you, stay on the last square before it. You can only go from one room to the next through a door.",
     "If none of your cards can move you, play one anyway. It goes on the used pile and you take a new one. When the face-down cards run out, shuffle the used pile and use it again.",
     "Before you move, say which square you will end on. If you are right, score 1 point.",
     "Land on a coin spot to pick up the coin there. Each coin is worth 2 points.",
@@ -629,7 +629,7 @@
      "mins": 12,
      "do": "1. Take turns. 2. Say where you will land, then move. 3. Keep score. 4. Stop when the coins are gone or everyone has had 8 turns.",
      "say": "Say which square you will land on before you move. A right guess is a point. Which door will you use to reach a coin in another room?",
-     "kid": "Say where you will land. Then move. Right guess? Extra point!",
+     "kid": "Say where you will land. Then move. If you were right, you get a point.",
      "parent": "Ask your child to give you directions sometimes: 'Tell me how to get from the fridge to the balcony.' A strong answer uses directions and counts, such as '2 squares south, then 4 east', and goes through the doors."
     },
     {
@@ -637,7 +637,7 @@
      "mins": 2,
      "do": "Talk about the game.",
      "say": "If I turned the board round, would '3 squares east' still take you to the same place?",
-     "kid": "Turn the board round. Does 3 east still go the same place?",
+     "kid": "Turn the board round. Does '3 squares east' still take you to the same place?",
      "think": "East on the board is fixed by the north arrow. What happens if someone draws the arrow pointing the other way?"
     }
    ],
@@ -744,15 +744,15 @@
      "mins": 12,
      "do": "1. The finder waits outside. 2. Your child puts the coin on a tile in open floor, away from furniture. 3. They mark an X on the memory map and secretly write the true spot, as tiles from two walls. 4. They pick up the coin. 5. The finder comes in with the memory map and puts the chit where the X shows. 6. Put the coin back on its true tile and count the tiles between the chit and the coin. 7. Do the same with a new spot and the tile map. 8. Do one more round with each map.",
      "say": "Now the finder comes in with only the map. No hints and no pointing. When the chit is down, we count how many tiles off it is.",
-     "kid": "Hide the coin. Mark an X. Pick the coin up. Let the finder use the map. How many tiles off?",
+     "kid": "Hide the coin. Mark an X on the map. Pick the coin up. Let the finder use the map. Count how many tiles off the chit is.",
      "parent": "The tile map is usually closer to the coin, often on the right tile or the next one. The memory map is often a few tiles off, because some things were drawn too big. But luck plays a part. If the memory map wins a round, write that down too, because it is a real result. If both maps land close, choose a spot further from all furniture and try again."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer, if the tile map was closer: What I think: the tile map is better for finding things. What I saw: the tile map was 0 and 1 tiles off, and the memory map was 3 and 2 tiles off. Why: on the tile map, every distance was shrunk by the same amount, so the X was in the right place compared with the walls.",
      "check": {
       "t": "mcq",
@@ -867,7 +867,7 @@
      "mins": 5,
      "do": "1. Put the cushion on a tile at least 4 tiles from every wall. 2. Stand on it facing east, and put the coin 3 tiles forward and 2 tiles to the right. 3. Write chit A: 'Walk 3 tiles forward. Turn right. Walk 2 tiles.' 4. Write chit B: 'Walk 3 tiles towards the east wall. Then walk 2 tiles towards the south wall.'",
      "say": "We will write two sets of directions to the same coin. One uses forward and right. The other uses east and south.",
-     "kid": "Two chits. Both lead to the coin. One says right. One says east and south.",
+     "kid": "Write two chits. Both lead to the coin. One uses forward and right. The other uses east and south.",
      "adult": false,
      "parent": "Check the coin's place. Facing east, your right hand points south. So '2 tiles right' and '2 tiles towards the south wall' are the same tiles.",
      "context": "This is the first step of the Left-Right or East-West test. You find out which kind of directions still work when someone starts facing another way."
@@ -885,7 +885,7 @@
      "mins": 10,
      "do": "1. Pick a folded 'face' chit. 2. Stand on the cushion facing that wall. 3. Follow chit A and put a finger on the tile where you stop. 4. Go back to the cushion, face the same wall, and follow chit B. 5. Fill in the table. 6. Do all four 'face' chits.",
      "say": "Pick a chit to see which wall to face. Follow chit A. Did you land on the coin? Now chit B.",
-     "kid": "Pick a chit. Face that wall. Follow A. Then follow B. Coin?",
+     "kid": "Pick a 'face' chit. Face that wall. Follow chit A, then chit B. Did each one reach the coin?",
      "parent": "Chit B finds the coin all four times. Chit A finds it only when you start facing east, the way the writer faced."
     },
     {
@@ -896,7 +896,7 @@
      "kid": "Which chit always found the coin? Why?",
      "check": {
       "t": "mcq",
-      "q": "Why did chit B find the coin from every start?",
+      "q": "Why did chit B find the coin whichever wall you faced at the start?",
       "options": [
        "East and south stay the same whichever way you face",
        "Chit B was written more neatly",
@@ -1189,7 +1189,7 @@
      "mins": 5,
      "do": "1. Stand in the middle of the room with your right arm pointing to the sunny side. 2. You are now facing north. 3. Stick E on the sunny wall and N on the wall in front. Stick W on your left and S behind you.",
      "say": "Point your right arm at the sunny side. That is east. Now you face north. Where are south and west?",
-     "kid": "Right arm to the sun side. That is east. You face north.",
+     "kid": "Point your right arm at the sunny side. That is east. Now you are facing north.",
      "parent": "If the walls do not line up exactly with the directions, stick each label on the wall that is closest."
     },
     {
@@ -1252,7 +1252,7 @@
      "mins": 5,
      "do": "1. Walk through the home together. 2. In each room, ask your child which wall is next to which room.",
      "say": "Let's walk through our home. Which room is next to the kitchen? Which door leads to the balcony?",
-     "kid": "Walk through your home. What room is next to what?",
+     "kid": "Walk through your home. Which room is next to which?",
      "context": "In this activity you draw a map of your whole home, with symbols and a key."
     },
     {
@@ -1261,7 +1261,7 @@
      "do": "1. Draw each room as a box, in the right place next to the others. 2. Show doors as gaps. 3. Draw small symbols for a few things: the fridge, beds, taps, the pooja shelf, the TV.",
      "say": "Draw each room as a box. Make the big rooms bigger. Leave a gap where each door is.",
      "kid": "Draw each room as a box. Doors are gaps.",
-     "parent": "Help your child keep the rooms in the right order. Exact sizes do not matter here. The tile map in the experiment is for exact sizes."
+     "parent": "Help your child keep the rooms in the right order. Exact sizes do not matter here. The tile map in the Memory Map or Tile Map experiment is for exact sizes."
     },
     {
      "id": "s3",
@@ -1411,7 +1411,7 @@
        "Autos are not allowed on maps"
       ],
       "a": 1,
-      "why": "A map shows things that stay, so it is still right tomorrow. An auto may be gone in five minutes. A temple or a big tree is a good landmark, because they stay in one place."
+      "why": "A map shows things that stay, so it is still right tomorrow. An auto may be gone in five minutes. Temples and big trees are good landmarks, because they stay in one place."
      }
     },
     {
@@ -1456,13 +1456,13 @@
      "what": "Hold the map in different rooms and turn it until its north arrow points to the real north."
     }
    ],
-   "record": "Write one sentence: what happens to the rooms on the map when its arrow points the real north?",
+   "record": "Write one sentence: what happens to the rooms on the map when its arrow points to the real north?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Stand in the hall holding the map with the writing the right way up. 2. Point to the kitchen on the map, then to the real kitchen. 3. Now turn the map until its N arrow points to the N wall. 4. Point again.",
-     "say": "Point to the kitchen on the map. Now point to the real kitchen. Same way? Now turn the map until its arrow points north.",
+     "say": "Point to the kitchen on the map. Now point to the real kitchen. Did you point the same way? Now turn the map until its arrow points north.",
      "kid": "Point to the kitchen on the map. Now to the real one.",
      "context": "In this activity you learn to turn a map so that it lines up with the place you are standing in."
     },
@@ -1613,7 +1613,7 @@
    ],
    "general": [
     "Use pictures as symbols: a small drawing of a fridge, a plant pot for the balcony, a tap for the bathroom.",
-    "Show north with a picture of a rising Sun on the east side instead of the letter N."
+    "Show direction with a picture of a rising Sun on the east side, instead of the letter N."
    ],
    "creative": [
     "Use colours as a code: blue for water places, green for plants, yellow for light.",
@@ -1718,7 +1718,7 @@
        "5 tiles south"
       ],
       "a": 0,
-      "why": "Going 2 north and then 2 south cancels out, so the car ends just 3 tiles east of where it began. It goes the long way round only if something is in the way."
+      "why": "Going 2 north and then 2 south cancels out, so the car ends just 3 tiles east of where it began. The car needs the long way round only if something is in the way."
      }
     },
     {
@@ -1795,11 +1795,11 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 3, gives her friend directions to a hidden coin: 'Walk 3 tiles forward, then turn right.' Her friend starts facing a different wall. What happens?",
+   "p": "A child gives a friend directions to a hidden coin: 'Walk 3 tiles forward, then turn right.' The friend starts facing a different wall from the one the child faced. What happens?",
    "opts": [
-    "She finds the coin anyway",
-    "She ends up in a different place",
-    "She cannot move"
+    "The friend finds the coin anyway",
+    "The friend ends up in a different place",
+    "The friend cannot move"
    ],
    "a": 1,
    "why": "Forward and right depend on which way you face. A different start means a different path. Directions like 'towards the east wall' work from any start.",
@@ -1831,7 +1831,7 @@
   },
   {
    "t": "mcq",
-   "p": "Pooja, a girl in Class 3, draws a small blue circle on her map for the water tank. Where should she say what the blue circle means?",
+   "p": "You draw a small blue circle on your map for the water tank. Where should you say what the blue circle means?",
    "opts": [
     "In the key",
     "On the north arrow",
@@ -1843,7 +1843,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arun, a boy in Class 3, made a tile map with one square for each floor tile. His bed is 5 tiles long. How long is the bed on his map?",
+   "p": "On a tile map, one square stands for one floor tile. A bed is 5 tiles long. How long is the bed on the map?",
    "opts": [
     "1 square",
     "5 squares",
@@ -1856,7 +1856,7 @@
   },
   {
    "t": "mcq",
-   "p": "On Pooja's map, one square stands for 10 steps. Two doors are 4 squares apart on the map. About how many steps apart are they in real life?",
+   "p": "On a map, one square stands for 10 steps. Two doors are 4 squares apart on the map. About how many steps apart are they in real life?",
    "opts": [
     "4 steps",
     "14 steps",
@@ -2020,9 +2020,9 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 3, points her right arm to the window where the morning Sun comes in. Which wall is she facing? Explain how you know.",
+     "p": "You point your right arm to the window where the morning Sun comes in. Which wall are you facing? Explain how you know.",
      "lines": 3,
-     "a": "She faces the north wall. The morning Sun is in the east, so her right arm points east. When east is on your right, you face north.",
+     "a": "You face the north wall. The morning Sun is in the east, so your right arm points east. When east is on your right, you face north.",
      "why": "A strong answer starts from the Sun being in the east and works out the rest.",
      "how": "a2"
     },
@@ -2056,7 +2056,7 @@
     },
     {
      "t": "write",
-     "p": "In the coin test, which map led the finder closer to the coin: the memory map or the tile map? Use your own numbers to explain.",
+     "p": "In the Memory Map or Tile Map test, which map led the finder closer to the coin: the memory map or the tile map? Use your own numbers to explain.",
      "lines": 4,
      "a": "The tile map. For example: the tile map was 0 and 1 tiles off, and the memory map was 3 and 2 tiles off. On the tile map I counted, so every distance was right compared with the others.",
      "why": "A strong answer gives the result, the numbers as evidence, and the reason: counting kept the distances in proportion.",
@@ -2085,7 +2085,7 @@
     },
     {
      "t": "mcq",
-     "p": "Leela, a girl in Class 3, is drawing a map of her home. What should she draw to show which way north is?",
+     "p": "You are drawing a map of your home. What should you draw to show which way north is?",
      "opts": [
       "A key",
       "A north arrow",
@@ -2116,7 +2116,7 @@
      ],
      "ask": "Who do you agree with? Give a reason from this unit. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Revathi: in the left-right test, 'turn right' worked only from one start, but east worked every time. For Anu: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.",
+     "a": "A strong answer picks a side with evidence. For Revathi: in the Left-Right or East-West test, 'turn right' worked only from one start, but east worked every time. For Anu: most people do not know which way east is inside a building, and someone walking up the stairs always faces the same way, so 'left' works there.",
      "why": "Both sisters have a point. East works for any reader. Left works when everyone arrives facing the same way."
     }
    ]
@@ -2129,7 +2129,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In the coin test, why is it fair to hide the coin away from all furniture?",
+     "p": "In the Memory Map or Tile Map test, the coin is hidden away from all furniture. Why does that make the test fair?",
      "lines": 3,
      "a": "If the coin is next to the bed, the finder can just look for 'next to the bed' on any map. In open floor, only a map with the right distances shows where it is.",
      "why": "A strong answer says how a landmark next to the coin would let a bad map look good.",
@@ -2175,7 +2175,7 @@
     },
     {
      "t": "write",
-     "p": "In the left-right test, chit A said 'forward, then right'. It found the coin only when you started facing east. Why that wall?",
+     "p": "In the Left-Right or East-West test, chit A said 'forward, then right'. It found the coin only when you started facing east. Why only then?",
      "lines": 3,
      "a": "Chit A was written by someone facing east. It works only for someone standing the same way, because forward and right turn with your body.",
      "why": "A strong answer links the one start that worked with the way the writer was facing.",
@@ -2190,7 +2190,7 @@
       "North"
      ],
      "a": 1,
-     "why": "Facing south, west is on your right and east is on your left. It is the mirror of facing north. Stand up and try it."
+     "why": "Facing south, west is on your right and east is on your left. It is the opposite of facing north. Stand up and try it."
     },
     {
      "t": "draw",
@@ -2254,7 +2254,7 @@
     },
     {
      "t": "mcq",
-     "p": "On Anil's map, 1 square stands for 5 steps. The shop is 6 squares from his gate. About how many steps is that?",
+     "p": "On a map, 1 square stands for 5 steps. The shop is 6 squares from the gate. About how many steps is that?",
      "opts": [
       "11 steps",
       "30 steps",
@@ -2466,7 +2466,7 @@
   "Phone maps use GPS satellites to find where you are. Gladys West's careful maths on the exact shape of the Earth helped make GPS accurate.",
   "In the 1950s, Marie Tharp drew the first maps of the floor of the Atlantic Ocean from depth measurements taken by ships. She found a long valley running down the middle of an underwater mountain range.",
   "Auto, taxi and delivery drivers use maps to reach addresses they have never visited.",
-  "Pilots and sailors steer by compass directions, because at sea or in the sky there is no left turn at the temple.",
+  "Pilots and sailors steer by compass directions, because at sea or in the sky there are no landmarks, such as a temple, to turn left at.",
   "Architects draw a plan of a flat from above before it is built, with every room to scale.",
   "Fire exit maps in malls and hospitals show the way out, with a red dot marking 'you are here'.",
   "Farmers and village offices keep land maps that show where each field begins and ends.",
@@ -2502,7 +2502,7 @@
  "open_questions": [
   {
    "q": "How exactly do birds such as Arctic terns find their way across whole oceans?",
-   "why_open": "Scientists know birds use the Sun, the stars, smells and the Earth's magnetism. But how a bird senses magnetism, and how they put all these clues together, is still argued about."
+   "why_open": "Scientists know birds use the Sun, the stars, smells and the Earth's magnetism. But how birds sense magnetism, and how they put all these clues together, is still argued about."
   },
   {
    "q": "How does the brain turn signals from grid cells into the feeling of knowing where you are?",
@@ -2565,11 +2565,11 @@
  ],
  "maths": [
   {
-   "problem": "Lakshmi, a girl in Class 3, made a tile map of her room. The room is 8 tiles long and 6 tiles wide. How many tiles cover the whole floor?",
+   "problem": "A room is 8 tiles long and 6 tiles wide. How many tiles cover the whole floor?",
    "answer": "48 tiles.",
    "explain": "The floor has 6 rows, and each row has 8 tiles. 6 times 8 is 48.",
    "math_unit": "math.multiplication.equal-groups.L3",
-   "context": "This is about the tile map from the coin test, where one floor tile is one square on paper.",
+   "context": "This is about the tile map from the Memory Map or Tile Map test, where one floor tile is one square on paper.",
    "why_maths": "Counting rows of equal size tells you the number of tiles without counting each one.",
    "how": "e1"
   },
@@ -2582,7 +2582,7 @@
    "why_maths": "The scale turns squares on paper back into real steps, so you can plan a walk before you take it."
   },
   {
-   "problem": "A treasure is 3 squares north and 4 squares east of the door on a grid. Ravi, a boy in Class 3, says, 'Then it is 4 squares east and 3 squares north.' Is he right?",
+   "problem": "A treasure is 3 squares north and 4 squares east of the door on a grid. Someone says, 'Then it is 4 squares east and 3 squares north.' Is that right?",
    "answer": "Yes.",
    "explain": "Going 3 north then 4 east, or 4 east then 3 north, ends on the same square. The order of the moves does not change where you end up, as long as nothing blocks the way.",
    "math_unit": "math.position.directions-and-grids.L3",
@@ -2591,11 +2591,11 @@
    "how": "g2"
   },
   {
-   "problem": "In the coin test, the memory map was 3, 2 and 4 tiles off in three rounds. The tile map was 0, 1 and 0 tiles off. How many tiles off was each map in total? How many times better was the tile map?",
+   "problem": "In the Memory Map or Tile Map test, the memory map was 3, 2 and 4 tiles off in three rounds. The tile map was 0, 1 and 0 tiles off. How many tiles off was each map in total? How many times closer was the tile map?",
    "answer": "The memory map was 9 tiles off in total. The tile map was 1 tile off. So the tile map was 9 times closer.",
    "explain": "3 + 2 + 4 = 9. 0 + 1 + 0 = 1. 9 divided by 1 is 9.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "This is about the coin test, where a finder used each map to put a chit on the hidden coin's tile.",
+   "context": "This is about the Memory Map or Tile Map test, where a finder used each map to put a chit on the hidden coin's tile.",
    "why_maths": "Adding up the rounds smooths out lucky guesses, and comparing totals shows how much better one map is.",
    "how": "e1",
    "chart": {
@@ -2620,7 +2620,7 @@
   {
    "problem": "A child measured a room as 18 steps long and 14 steps wide. A grown-up measured the same room as 13 steps long. About how wide do you think the grown-up found it: 5, 10 or 14 steps? Why?",
    "answer": "About 10 steps.",
-   "explain": "For the child, the width is a bit less than the length, about 4 steps less out of 18. The grown-up's steps are longer, so both numbers shrink. 10 is a bit less than 13 in the same way. 14 would make the room nearly square, and 5 would make it very thin.",
+   "explain": "The room is the same shape for both people. For the child, the width (14 steps) is a bit less than the length (18 steps). So for the grown-up, the width must be a bit less than 13 steps. That is 10. 14 would make the room nearly square, and 5 would make it very thin.",
    "math_unit": "math.measurement-basics.estimation-and-precision.L3",
    "context": "This is about the Child Steps, Grown-up Steps test, where two people measure the same room with their own feet.",
    "why_maths": "If both maps have the same shape, you can predict one person's count from the other's.",
@@ -2784,9 +2784,9 @@
  "roots": {
   "context": "We have drawn maps of a room, a home and a street, and tested which map finds a hidden coin. Now we ask what a map tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your tile map had no colours, no cushions and no smells. Yet it led someone straight to the coin. It kept only how far apart things are, and which way they lie. So a map can be true about a place while looking nothing like it.",
+   "truth": "A tile map has no colours, no cushions and no smells. Yet it can lead someone to a hidden coin. It keeps only how far apart things are, and which way they lie. So a map can be true about a place while looking nothing like it.",
    "habit": "We think a true picture must look like the thing it shows, like a photo. But a map is true in a different way. It keeps the distances and directions between things, and drops almost everything else.",
-   "evidence": "In the coin test, the plain tile map led the finder to the right tile, while the memory map, with its guessed distances, was tiles off. In the child-and-grown-up test, two maps of different sizes had the same shape, and both were right."
+   "evidence": "In the Memory Map or Tile Map test, the plain tile map led the finder to the right tile, while the memory map, with its guessed distances, was tiles off. In the Child Steps, Grown-up Steps test, two maps of different sizes had the same shape, and both were right."
   },
   "three": {
    "who_am_i": "You carry a map of your home inside you. That is how you find the bathroom in the dark.",
@@ -2798,17 +2798,17 @@
    {
     "source": "Alfred Korzybski, Science and Sanity (1933), page 58",
     "teaching": "A map is not the land it shows. But if the map is correct, it has the same arrangement as the land, and that is why it is useful.",
-    "link": "This is what the coin test showed. The tile map was not the room, but every distance on it matched the room's arrangement. That is why it found the coin."
+    "link": "This is what the Memory Map or Tile Map test showed. The tile map was not the room, but every distance on it matched the room's arrangement. That is why it found the coin."
    },
    {
     "source": "Jorge Luis Borges, 'On Exactitude in Science' (1946)",
-    "teaching": "In this very short story, mapmakers in an empire made a map as big as the empire itself, matching it point for point. The next people found it useless and left it to rot in the desert.",
-    "link": "A map helps because it is smaller than the place and leaves things out. Your tile map fitted on one page, so you could see the whole room at once."
+    "teaching": "In this very short story, mapmakers in an empire made a map as big as the empire itself, matching it point for point. The people who came after them found it useless and left it to rot in the desert.",
+    "link": "A map helps because it is smaller than the place and leaves things out. A tile map fits on one page, so you can see the whole room at once."
    },
    {
     "source": "Majjhima Nikaya 22, the Alagaddupama Sutta (the parable of the raft)",
     "teaching": "The Buddha said his teaching is like a raft for crossing a river. When you reach the other bank, you do not carry the raft on your head. You leave it and walk on.",
-    "link": "A map is the same kind of tool. It is for getting somewhere, such as from the door to the coin. Once Thatha knew the way home, he hardly needed the map."
+    "link": "A map is the same kind of tool. It is for getting somewhere, such as from the door to the coin. In the story Thatha and the Six Towers, once Thatha knew the way home, he hardly needed the map."
    }
   ],
   "science": [
@@ -2821,7 +2821,7 @@
     "status": "settled"
    },
    {
-    "text": "How signals from these cells become the feeling of knowing where you are is not known.",
+    "text": "How signals from place cells and grid cells become the feeling of knowing where you are is not known.",
     "status": "open"
    }
   ],
@@ -2833,11 +2833,11 @@
    "title": "Walk the map with your eyes closed",
    "mins": 3,
    "say": "Sit still and close your eyes. Picture your bed. Now picture walking from your bed to the kitchen. Count the steps in your head. Which way do you turn at each door? Open your eyes. Now walk it for real and count. Was the map in your head right?",
-   "kid": "Close your eyes. Picture walking from your bed to the kitchen. Count the steps. Now open your eyes. Walk it and count. Was your inside map right?"
+   "kid": "Close your eyes. Picture walking from your bed to the kitchen. Count the steps. Now open your eyes. Walk it and count. Was the map in your head right?"
   },
   "ask": [
    "Which of the maps you made in this unit was the most useful, and who was it useful to?",
-   "Thatha hardly needed his map once he knew the way home. What is a map for?",
+   "In the story Thatha and the Six Towers, Thatha hardly needed his map once he knew the way home. So what is a map for?",
    "If an ant, a bird and you each map the same building, whose map is the real one?"
   ],
   "art": "A girl sitting cross-legged with her eyes closed on a tiled floor, a faint grid of light over the tiles around her, and a small ant walking across one tile."

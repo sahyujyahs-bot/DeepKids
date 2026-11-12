@@ -36,7 +36,7 @@
   {
    "term": "Infinite",
    "meaning": "Something is infinite if it has no end at all. However much of it you count or measure, there is always more.",
-   "example": "The counting numbers are infinite. The grains of sand on Marina Beach are not: there are a huge number, but it is a number.",
+   "example": "The counting numbers are infinite. The grains of sand on Marina Beach are not: there is a huge number of grains, but it is still a number.",
    "art": "Two pictures side by side: a beach with sand, labelled 'very many', and a line of numbers with an arrow, labelled 'infinite'."
   },
   {
@@ -89,7 +89,7 @@
    "concept": "Infinity is not a number you can count to",
    "status": "defined",
    "definition": "Infinity means without end. It is not one of the counting numbers, so you can never reach it by counting.",
-   "description": "Many children think infinity is the biggest number, waiting far away at the end of the counting. But the counting has no end, so there is nowhere for infinity to wait. If infinity were a counting number, then infinity plus one would be bigger, and that does not work. So infinity is a word for the never-ending, not a place on the number line. In maths books the sign ∞ is used to say 'the numbers go on'. Much later, mathematicians found careful ways to compare different endless collections. You can meet those ideas in Class 5.",
+   "description": "Many children think infinity is the biggest number, waiting far away at the end of the counting. But the counting has no end, so there is nowhere for infinity to wait. If infinity were a counting number, then infinity plus one would be a bigger number, and infinity would not be the end after all. So infinity is a word for the never-ending, not a place on the number line. In maths books the sign ∞ is used to say 'the numbers go on'. Mathematicians have also found careful ways to compare different endless collections. You can meet those ideas in Class 5.",
    "examples": [
     "Counting 1, 2, 3, … and reaching infinity is impossible, because there is always a next number.",
     "Saying 'infinity plus one' does not give a new number, because infinity was never a counting number.",
@@ -111,7 +111,7 @@
    ],
    "perspectives": [],
    "art": "A heap of rice on a steel plate being split into small groups, with a big number written on a slate beside it.",
-   "context": "This card is about the difference between a very big number and infinity. It goes with the rice-counting experiment."
+   "context": "This card is about the difference between a very big number and infinity. It goes with the experiment 'How Many Grains of Rice in a Cup?'."
   },
   {
    "concept": "Is anything in the real world infinite?",
@@ -144,9 +144,9 @@
    "concept": "How can we be sure of something we can never finish?",
    "status": "idea",
    "definition": "",
-   "description": "Nobody has ever counted all the numbers, and nobody ever will. Yet every mathematician agrees that they never end. We know it from a rule that works every time: add one, and you get a bigger number. People cannot check every case, but they can be sure the rule never fails. This is one of the oldest ideas in maths. Thinkers still discuss what it means that a short life can be sure of something endless.",
+   "description": "Nobody has ever counted all the numbers, and nobody ever will. Yet every mathematician agrees that they never end. We know it from a rule that works every time: add one, and you get a bigger number. People cannot check every case, but they can be sure the rule never fails. This is one of the oldest ideas in maths. Thinkers still discuss how a person, who lives only a short time, can be sure of something endless.",
    "examples": [
-    "You never counted past a few hundred, but you are sure there is a number after a crore crore.",
+    "You have never counted past a few hundred, but you are sure there is a number after a crore crore.",
     "An old Greek thinker, Aristotle, said infinity is something you can always go further into, but never finish.",
     "Jain thinkers in ancient India sorted numbers into countable, uncountable and infinite."
    ],
@@ -220,7 +220,7 @@
   {
    "q": "If you can never count to infinity, how do you know the numbers never end?",
    "kind": "deep",
-   "hint": "Think about the plus-one game. Did you need to check every number to know you would always win?"
+   "hint": "Think about the game One More Than You, where the second player always says one more. Did you need to check every number to know the second player would always win?"
   },
   {
    "q": "Is anything you can touch infinite, or are only ideas infinite?",
@@ -435,7 +435,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Look at the table together. 2. Ask what the times show. 3. Ask for the child's claim, evidence and reasoning.",
+     "do": "1. Look at the table together. 2. Ask what the times show. 3. Ask your child to say what they found, which times show it, and why they think it happened.",
      "say": "What do your times show? Which list was slowest? Why do you think it took longer?",
      "kid": "Look at your times. Which list was slowest? Why do you think so? Say it in one sentence.",
      "ask": [
@@ -958,9 +958,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on a side of the paper.",
+     "do": "1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on the 'very many' side or the 'never ends' side of the paper.",
      "say": "Let's find things that seem to go on for ever. Salt in the jar? Hairs on your head? Drops in the water tank? Write each one down.",
-     "kid": "Walk around the home. Find things that seem endless. Write each one on the side you think is right.",
+     "kid": "Walk around the home. Find things that seem endless. Write each one on the 'very many' side or the 'never ends' side, whichever you think is right.",
      "parent": "Good things to find: grains of salt, sugar or muri (puffed rice), hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers themselves."
     },
     {
@@ -1122,7 +1122,7 @@
      "mins": 3,
      "do": "Ask how many cards you would need to make the biggest number of all.",
      "say": "If we kept playing with more and more cards, would anyone ever make the biggest number of all?",
-     "kid": "Imagine you kept getting more cards. Could you make the biggest number of all?",
+     "kid": "Suppose you kept getting more cards. Could you make the biggest number of all?",
      "think": "Every round had a winner, but the game could never have a 'biggest number ever' winner. Why?"
     }
    ]
@@ -1312,16 +1312,16 @@
    "items": [
     {
      "t": "truefalse",
-     "p": "Arjun, a boy aged 7, says, 'A crore is the biggest number.' Is he right?",
+     "p": "A crore is the biggest number.",
      "a": false,
      "why": "False. A crore and one is bigger than a crore. Any number plus one is bigger, so there is no biggest number. A strong answer names a number bigger than a crore."
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?",
+     "p": "A child says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?",
      "opts": [
-      "Her mother, because she can always add one",
-      "Meenakshi, if she says a very big number",
+      "The mother, because she can always add one",
+      "The child, if she says a very big number",
       "Nobody can say who wins"
      ],
      "a": 0,
@@ -1377,14 +1377,14 @@
     },
     {
      "t": "truefalse",
-     "p": "In the counting test, reading 1,23,451 to 1,23,470 out loud takes longer than reading 1 to 20.",
+     "p": "In the experiment 'Does Counting Get Slower?', reading 1,23,451 to 1,23,470 out loud takes longer than reading 1 to 20.",
      "a": true,
-     "why": "True. Both lists have 20 numbers, but each big number has many more words to say. A strong answer gives the times from your own test.",
+     "why": "True. Both lists have 20 numbers, but each big number has many more words to say. A strong answer gives your own times from the experiment.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Kavya, a girl aged 9, says, 'Infinity is the biggest number of all.' Explain what is wrong with her idea.",
+     "p": "Someone says, 'Infinity is the biggest number of all.' Explain what is wrong with this idea.",
      "lines": 3,
      "a": "If infinity were the biggest number, you could add one and get a bigger number. That can't happen to the biggest one. So infinity is not a number at the end. It is the word for the numbers never ending.",
      "why": "A strong answer uses the plus-one idea to show that there cannot be a biggest number, so infinity cannot be one."
@@ -1451,7 +1451,7 @@
     },
     {
      "t": "write",
-     "p": "Use your own times from the counting test. Why could nobody ever count to the end of the numbers?",
+     "p": "In the experiment 'Does Counting Get Slower?', you timed yourself reading lists of small and big numbers aloud. Use your own times to explain why nobody could ever count to the end of the numbers.",
      "lines": 4,
      "a": "My list of big numbers took much longer than my list of small numbers. Bigger numbers keep getting longer to say. And every number has a next one, so the counting can never finish.",
      "why": "A strong answer uses the child's own evidence (the times) and the plus-one idea together.",
@@ -1470,7 +1470,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a picture of a sheet with three lists from the counting test. Label each list 'fastest', 'middle' or 'slowest'.",
+     "p": "Here is a picture of the three lists from the experiment 'Does Counting Get Slower?'. Each list has 20 numbers to read aloud. Label each list 'fastest', 'middle' or 'slowest'.",
      "labels": [
       "1 to 20",
       "351 to 370",
@@ -1487,26 +1487,26 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Kochi look at a sack of rice in a shop.",
+     "p": "Two sisters look at a sack of rice in a shop.",
      "views": [
       {
-       "who": "Divya, aged 9",
+       "who": "The older sister",
        "says": "There are infinitely many grains in that sack. Nobody could ever count them."
       },
       {
-       "who": "Anu, aged 7",
+       "who": "The younger sister",
        "says": "There are a lot, but not infinitely many. If we counted a spoonful, we could work it out."
       }
      ],
-     "ask": "Which sister do you agree with? Use what you found in the rice test. Then say one thing the other sister has right.",
+     "ask": "Which sister do you agree with? Use what you found in the experiment 'How Many Grains of Rice in a Cup?'. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer agrees with Anu, using the rice test: a spoonful had about 200 grains, so a sack holds a big number that can be estimated. It also sees what Divya has right: counting every grain one by one would take a very long time.",
+     "a": "A strong answer agrees with the younger sister, using the experiment 'How Many Grains of Rice in a Cup?': a spoonful had about 200 grains, so a sack holds a big number that can be estimated. It also sees what the older sister has right: counting every grain one by one would take a very long time.",
      "why": "This question asks the child to use evidence and to tell 'very many' apart from 'infinite', while being fair to the other view.",
      "how": "e2"
     },
     {
      "t": "write",
-     "p": "In the rice test, why did you count the grains in one teaspoon instead of counting the whole tumbler?",
+     "p": "In the experiment 'How Many Grains of Rice in a Cup?', why did you count the grains in one teaspoon instead of counting the whole tumbler?",
      "lines": 3,
      "a": "Counting a small part is quick. Then I can multiply by the number of spoons to find the whole. The tumbler of rice turned out to be a number I could work out, not infinite.",
      "why": "A strong answer says that a small count plus multiplying gives a good estimate of a big collection.",
@@ -1522,7 +1522,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 4, says 'infinity plus one'. What do mathematicians say about this?",
+     "p": "Someone says 'infinity plus one'. What do mathematicians say about this?",
      "opts": [
       "Infinity is not a counting number, so adding one does not give a new counting number",
       "It is a number one bigger than infinity",
@@ -1566,7 +1566,7 @@
     },
     {
      "t": "write",
-     "p": "Sneha, a girl in Class 3, says a sikku kolam line is infinite, because you can trace it round and round for ever. Is the line infinite? Explain.",
+     "p": "A sikku kolam is a kolam made of one line that loops around dots and joins back to its start. Someone says the line is infinite, because you can trace it round and round for ever. Is the line infinite? Explain.",
      "lines": 3,
      "a": "The line is not infinite. You can measure it with a thread. Tracing it never ends because it joins up, so you go round the same line again. The numbers are different: each new number is new, and you never come back to the start.",
      "why": "A strong answer separates a path you can go round for ever from a thing that has no end.",
@@ -1574,14 +1574,14 @@
     },
     {
      "t": "mcq",
-     "p": "Imagine filling a whole room with sand. Is the number of grains infinite?",
+     "p": "Suppose a whole room were filled with sand. Is the number of grains infinite?",
      "opts": [
       "No. It is a huge number, but the room has an end, so the grains can be given a number",
       "Yes. Sand is always infinite",
       "Sand is too small to count"
      ],
      "a": 0,
-     "why": "Very many is not the same as endless. You could count a spoonful and multiply, as in the rice test. Only something with no end can be infinite."
+     "why": "Very many is not the same as endless. You could count a spoonful and multiply, as you did with rice in the experiment 'How Many Grains of Rice in a Cup?'. Only something with no end can be infinite."
     },
     {
      "t": "draw",
@@ -1598,7 +1598,7 @@
     },
     {
      "t": "order",
-     "p": "Put the steps of the rice estimate in order.",
+     "p": "In the experiment 'How Many Grains of Rice in a Cup?', you estimated the grains of rice in a tumbler. Put the steps in order.",
      "items": [
       "Multiply the grains in a spoon by the number of spoons",
       "Count how many spoons fill the tumbler",
@@ -1619,11 +1619,11 @@
      "p": "Two scientists talk about space, the huge emptiness that holds all the stars.",
      "views": [
       {
-       "who": "A cosmologist from Bengaluru",
+       "who": "The first scientist",
        "says": "Space is flat as far as we can measure. A flat space with no edge would go on for ever. So space may be infinite."
       },
       {
-       "who": "A cosmologist from Pune",
+       "who": "The second scientist",
        "says": "Space could curve back on itself very gently, like the outside of a huge ball. Then it has no edge, but it is not infinite."
       }
      ],
@@ -1692,7 +1692,7 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Class 4, wrote down her counting times:: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?",
+     "p": "Here are one child's times for reading three lists of 20 numbers aloud: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, and 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?",
      "opts": [
       "Even longer than 48 seconds",
       "About 9 seconds",
@@ -1707,11 +1707,11 @@
      "p": "Three people argue about a very big number that nobody could ever write out.",
      "views": [
       {
-       "who": "Malini, a maths teacher in Madurai",
+       "who": "A maths teacher",
        "says": "Every number is real in maths, even if nobody writes it. The plus-one rule makes them all."
       },
       {
-       "who": "Ravi, a computer engineer",
+       "who": "A computer engineer",
        "says": "A number with more digits than there are atoms in the universe can never be written. Maybe it is only a name, not a real number."
       },
       {
@@ -1721,7 +1721,7 @@
      ],
      "ask": "Whose view do you agree with most? Give a reason. Then say one thing another person has right.",
      "lines": 6,
-     "a": "Any view with a reason. A strong answer might side with Malini because the rule works every time, while granting Ravi that some numbers can never be written, or Aristotle that nobody can hold infinity all at once.",
+     "a": "Any view with a reason. A strong answer might side with the maths teacher because the rule works every time, while granting the computer engineer that some numbers can never be written, or Aristotle that nobody can hold infinity all at once.",
      "why": "This is a real disagreement among mathematicians and philosophers. The child weighs three serious views, not a wrong one."
     },
     {
@@ -1759,7 +1759,7 @@
     },
     {
      "t": "write",
-     "p": "Your rice test gave a number for one tumbler. Explain how you could estimate the grains in a 25 kg sack without counting every grain.",
+     "p": "In the experiment 'How Many Grains of Rice in a Cup?', you found the number of grains in one tumbler. Explain how you could estimate the grains in a 25 kg sack without counting every grain.",
      "lines": 4,
      "a": "Find how many tumblers fill the sack, or weigh one tumbler of rice and see how many tumblers make 25 kg. Then multiply the grains in one tumbler by that number.",
      "why": "A strong answer uses the same idea as the experiment: count a small part, find how many parts make the whole, and multiply.",
@@ -1820,7 +1820,7 @@
     },
     {
      "t": "write",
-     "p": "Your head is small, and your life is not endless. Yet you know the numbers never end. How is that possible?",
+     "p": "Nobody lives long enough to count all the numbers. Yet you know the numbers never end. How do you know?",
      "lines": 4,
      "a": "Because of a rule I understand: any number plus one is bigger. I don't need to count them all. A rule can tell me about every number at once.",
      "why": "There is no single right answer. A strong answer uses the plus-one rule and thinks about what it means to know something without seeing all of it."
@@ -1884,7 +1884,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Nila, a girl in Class 3, says, 'There is no biggest number.' Why is she right?",
+   "p": "Why is there no biggest number?",
    "opts": [
     "Any number plus one is a bigger number",
     "Big numbers are too hard to say",
@@ -1921,7 +1921,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the counting test, 20 small numbers and 20 big numbers were read aloud. Which list took longer?",
+   "p": "In the experiment 'Does Counting Get Slower?', 20 small numbers and 20 big numbers were read aloud. Which list took longer?",
    "opts": [
     "The big numbers, because each one has more words",
     "The small numbers",
@@ -1934,7 +1934,7 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi, a girl in Chennai, counts about 200 grains of rice in a teaspoon. A tumbler holds 40 teaspoons. What does this tell her?",
+   "p": "A teaspoon holds about 200 grains of rice. A tumbler holds 40 teaspoons. What does this tell you?",
    "opts": [
     "The tumbler holds about 8,000 grains, a big but finite number",
     "The tumbler holds infinitely many grains",
@@ -2029,12 +2029,12 @@
    "channel": "Math with Mr. J",
    "youtube": "ljT8wNiCG7g",
    "mins": 5,
-   "why": "For the child, after the counting test: a teacher works out how long counting to a million would take.",
+   "why": "For the child, after the experiment 'Does Counting Get Slower?': a teacher works out how long counting to a million would take.",
    "check": "Preview it first and check its length."
   }
  ],
  "applications": [
-  "Computer programmers must stop programs from looping for ever. Radia Perlman's Spanning Tree Protocol stops data from going round network loops without end.",
+  "Computer programmers must stop programs from going round in a loop for ever. Radia Perlman wrote a set of rules, called the Spanning Tree Protocol, that stops data from going round and round a computer network without end.",
   "Mathematicians use the plus-one idea to prove facts about every number at once, without checking them one by one.",
   "Scientists estimate huge numbers, such as the fish in a lake or the stars in a galaxy, by counting a small part and multiplying.",
   "Astronomers measure whether space curves, to find out whether the universe could be infinite."
@@ -2114,11 +2114,11 @@
  ],
  "maths": [
   {
-   "problem": "In the counting test, Revathi, a girl in Class 3, read 20 small numbers in 10 seconds and 20 big numbers in 40 seconds. How many times as long did the big numbers take?",
+   "problem": "Reading 20 small numbers aloud took 10 seconds. Reading 20 big numbers aloud took 40 seconds. How many times as long did the big numbers take?",
    "answer": "4 times as long.",
    "explain": "The big numbers took 40 seconds and the small ones took 10. 40 divided by 10 is 4. Check: 10 + 10 + 10 + 10 = 40.",
    "math_unit": "math.division.sharing-and-grouping.L3",
-   "context": "This is about the counting test, where you timed yourself reading 20 small numbers and 20 big numbers aloud.",
+   "context": "This is about the experiment 'Does Counting Get Slower?', where you timed yourself reading 20 small numbers and 20 big numbers aloud.",
    "how": "e1",
    "chart": {
     "type": "bar",
@@ -2141,11 +2141,11 @@
    "why_maths": "Dividing one time by the other tells us how many times slower the big numbers are, so we can predict how slow counting gets."
   },
   {
-   "problem": "Lakshmi, a girl in Class 3, found 200 grains in one teaspoon of rice. Her tumbler held 40 teaspoons. How many grains are in 5 tumblers?",
+   "problem": "One teaspoon of rice holds 200 grains. A tumbler holds 40 teaspoons. How many grains are in 5 tumblers?",
    "answer": "40,000 grains.",
    "explain": "One tumbler is 200 times 40, which is 8,000 grains. Five tumblers is 8,000 times 5, which is 40,000. That is a lot of rice, but it is still a finite number.",
    "math_unit": "math.multiplication.equal-groups.L3",
-   "context": "This is about the rice test, where you counted the grains in a teaspoon and the teaspoons in a tumbler.",
+   "context": "This is about the experiment 'How Many Grains of Rice in a Cup?', where you counted the grains in a teaspoon and the teaspoons in a tumbler.",
    "how": "e2",
    "why_maths": "Multiplying lets us find a huge number from a small count, without counting every grain."
   },
@@ -2155,7 +2155,7 @@
    "explain": "One crore is 10 times ten lakh. 89 times 10 is 890 days. But each number above ten lakh has more words, so the real time would be more than 890 days.",
    "math_unit": "math.number-sense.infinity.L3",
    "context": "This is about Jeremy Harper, who counted out loud from 1 to ten lakh in 2007.",
-   "why_maths": "A quick multiplication shows how much longer each new step of counting takes, and the counting test shows why the real answer is even bigger."
+   "why_maths": "A quick multiplication shows how much longer each new step of counting takes. The experiment 'Does Counting Get Slower?' shows why the real answer is even bigger: bigger numbers take longer to say."
   },
   {
    "problem": "In the Make It Bigger game, the biggest number you can make with 3 cards is 999. The smallest number with 4 cards is 1,000. Which is bigger, and by how much?",
@@ -2293,16 +2293,16 @@
  "roots": {
   "context": "We have learned that the numbers never end, and that infinity is the word for this never-ending. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Saying 20 big numbers took you longer than saying 20 small ones, and soon you had to stop. Yet you know the numbers never run out. You know it from one rule: any number plus one is a bigger number. So a mind can be sure of something endless without ever seeing all of it.",
+   "truth": "In the experiment 'Does Counting Get Slower?', saying 20 big numbers took you longer than saying 20 small ones, and soon you had to stop. Yet you know the numbers never run out. You know it from one rule: any number plus one is a bigger number. So a person can be sure of something endless without ever seeing all of it.",
    "habit": "We think knowing a thing means seeing or counting all of it, and we picture infinity as a very big number far away. But nobody can count all the numbers, and still everyone who understands the plus-one rule can be sure they never stop.",
-   "evidence": "The stopwatch showed that bigger numbers take longer to say, and Jeremy Harper needed 89 days to reach ten lakh. The counting can never finish. Yet the plus-one rule shows, in a moment, that there is always a next number."
+   "evidence": "In the experiment 'Does Counting Get Slower?', the stopwatch showed that bigger numbers take longer to say. Jeremy Harper needed 89 days to count out loud to ten lakh. So the counting can never finish. Yet the plus-one rule shows, in a moment, that there is always a next number."
   },
   "three": {
    "who_am_i": "You are someone who can count only a little way, yet can understand that the numbers never end.",
-   "what_is_life": "A life has a length you can count in days. Within it, you can still think about the endless.",
+   "what_is_life": "A life has a length you can count in days. Even so, a person can think about things that never end.",
    "what_is_this_world": "The world is full of very big numbers: grains, hairs, stars. Whether anything in it is truly infinite, nobody knows yet."
   },
-  "thread": "The counting numbers begin with one. Add one, and you have two. Add one again, and again, and every counting number appears, without end. So one plain rule, used over and over, gives numbers without end.",
+  "thread": "The counting numbers begin with one. Add one, and you have two. Keep adding one, and you get every counting number. So one plain rule, used over and over, gives numbers without end.",
   "teachings": [
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
@@ -2332,7 +2332,7 @@
   ],
   "other_view": {
    "who": "Ultrafinitists, a small group of mathematicians",
-   "view": "A rule that can never be carried out to the end tells us about the rule, not about an endless thing. Numbers too big for anyone to ever write may not really exist, so nothing endless is known at all."
+   "view": "Nobody can ever follow the plus-one rule all the way to the end. So the rule tells us only about the rule. It does not show that an endless collection of numbers exists. Numbers too big for anyone to ever write may not really exist. If so, we do not know of anything endless at all."
   },
   "practice": {
    "title": "Count your breaths, then begin again",
@@ -2341,7 +2341,7 @@
    "kid": "Sit still and close your eyes. Breathe out slowly and count: one. Count each breath out, up to ten. Then start again at one. Do this three times. Open your eyes. Did your breathing stop when your counting stopped?"
   },
   "ask": [
-   "How can a small head be sure of something that never ends?",
+   "How can a person be sure of something that never ends?",
    "If you could live for ever, would you ever finish counting?",
    "Do you think anything you can touch is infinite? Why or why not?"
   ],
@@ -2349,9 +2349,9 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. The counting test uses lists from 351 and from 1,23,451, because round numbers such as 1,00,001 ('one lakh and one') are quick to say and would hide the pattern. The parent writes the lists, because few children of 8 can read 1,23,451 alone, and the step says to practise one number first. Times vary, but list C almost always takes four or more times as long as list A. The rice test needs about 2 cups of raw rice and a level teaspoon. Counts vary with the kind of rice (short grains give more), so the step gives a range and accepts any number. The thousand-dots project is split into 3 days of 15 minutes, because 1,000 dots in one sitting is tiring. The sikku kolam step accepts any single closed loop, since full sikku patterns take practice. Nothing needs to be bought. The spine fits about 85 minutes: intro 2, a1 8, e1 30, explanations about 15, roots about 15, quiz about 11.",
  "how_we_found_out": {
-  "story": "For thousands of years, people said that the grains of sand were infinite. In many languages, 'as many as the sand' meant 'too many to number'. About 2,200 years ago, Archimedes, a Greek thinker who lived in Syracuse in Sicily, decided to test this idea. He wrote a short book for King Gelon, called The Sand Reckoner. It begins: 'There are some, King Gelon, who think that the number of the sand is infinite.' Archimedes guessed how many grains fit inside a poppy seed. Then he worked out how many poppy seeds would fill a finger-width, a stadium, the Earth, and at last the whole universe, as people pictured it then. The Greek number names stopped at a myriad, which is ten thousand. So Archimedes invented new names for bigger and bigger numbers. His answer was that fewer than a 1 followed by 63 zeros grains of sand would fill the universe. That is a huge number, but it is a number. Archimedes showed that 'too many to count' is not the same as infinite. Only the numbers themselves have no end.",
+  "story": "For thousands of years, people said that the grains of sand were infinite. In many languages, 'as many as the sand' meant 'too many to number'. About 2,200 years ago, Archimedes, a Greek thinker who lived in Syracuse in Sicily, decided to test this idea. He wrote a short book for King Gelon, called The Sand Reckoner. It begins: 'There are some, King Gelon, who think that the number of the sand is infinite.' Archimedes guessed how many grains fit inside a poppy seed. Then he worked out how many poppy seeds would fill a finger-width, a stadium, the Earth, and at last the whole universe, as people pictured it then. The Greek number names stopped at a myriad, which is ten thousand. So Archimedes invented new names for bigger and bigger numbers. His answer was that the grains of sand needed to fill the universe would be fewer than a 1 followed by 63 zeros. That is a huge number, but it is a number. Archimedes showed that 'too many to count' is not the same as infinite. Only the numbers themselves have no end.",
   "who": "Archimedes of Syracuse, a Greek mathematician",
-  "when": "About 3rd century BCE, in his book The Sand Reckoner",
+  "when": "In the 3rd century BCE, about 2,200 years ago, in his book The Sand Reckoner",
   "wrong_idea": "People believed the grains of sand were infinite. Archimedes showed that even the sand needed to fill the universe, as he pictured it, could be given a number: fewer than a 1 followed by 63 zeros."
  }
 }
