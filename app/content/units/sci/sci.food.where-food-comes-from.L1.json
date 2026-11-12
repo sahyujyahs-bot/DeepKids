@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?",
-  "text": "Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan, the way bees make honey.",
+  "text": "Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.",
   "art": "A child tipping two steel spoons side by side: honey creeping off one in a slow golden ribbon, water splashing off the other."
  },
  "outcomes": [
@@ -112,20 +112,20 @@
    "concept": "How bees make honey",
    "status": "defined",
    "definition": "Honey bees drink flower nectar, carry it home, and dry it into thick honey.",
-   "description": "A worker bee sucks up nectar and carries the nectar home in her body. At the hive, the bees mix it with juices from their own bodies. They spread it in the wax cells and fan their wings over it. The moving air makes water evaporate. When the honey is thick, they close the cell with wax.",
+   "description": "A worker bee sucks up nectar and carries it home in her body. At the hive, the bees mix the nectar with juices from their own bodies. They spread it in the wax cells and fan their wings over it. The moving air makes water evaporate. When the honey is thick, they close the cell with wax.",
    "examples": [
     "All the honey-making bees in a hive are female. The male bees make no honey.",
     "One worker bee makes less than one teaspoon of honey in her whole life.",
     "In Kerala, people also collect cheruthen, honey from tiny bees who do not sting."
    ],
    "perspectives": [],
-   "context": "This card is about the sugar water test, where a drop under the fan turned thick and sticky.",
+   "context": "This card is about how bees make honey from flower nectar.",
    "art": "Bees on a honeycomb fanning their wings over open cells of honey, with soft wavy lines of moving air."
   },
   {
    "concept": "Do bees and flowers choose?",
    "status": "debated",
-   "description": "Bees choose which flowers to visit, and they remember where the best ones are. A honey bee can tell her sisters where flowers are by dancing on the comb. Flowers make nectar and bright colours, and bees carry their pollen. Some scientists say this is all instinct, not choosing.",
+   "description": "Bees choose which flowers to visit, and they remember where the best ones are. A honey bee can tell her sisters where flowers are by dancing on the comb. Flowers make nectar and bright colours, and bees carry their pollen. Some scientists say this is all instinct, not choosing. Instinct means doing something without having to learn it or decide it.",
    "examples": [
     "Karl von Frisch, an Austrian scientist, found that honey bees dance to show the way to flowers.",
     "A bee visits the same kind of flower again and again on one trip.",
@@ -134,11 +134,11 @@
    "perspectives": [
     {
      "who": "Many scientists who study bee behaviour",
-     "explanation": "Bees learn, remember, decide and tell each other where food is. Flowers sense and respond too. Both are minds at work."
+     "explanation": "Bees learn, remember, decide and tell each other where food is. Flowers sense and respond too. These scientists say both bees and flowers have a kind of mind."
     },
     {
      "who": "Many other scientists",
-     "explanation": "Bees and flowers follow instincts built over a very long time. They prefer words like 'behaviour' and 'response' to 'choose'."
+     "explanation": "Bees and flowers follow instincts built over a very long time. These scientists prefer words like 'behaviour' and 'response' to 'choose'."
     }
    ],
    "context": "This card is about whether bees and flowers make choices.",
@@ -214,14 +214,14 @@
   "note": "Divya, her Ajji (grandmother) and her Appa (father) are made up. The bee facts are true: rock bees build one large open comb, often under ledges and water tanks in Indian cities. They sting if disturbed, and they move to a new place after some months.",
   "text": [
    "Divya lived on the fourth floor of a tall building in Bengaluru. She was six. One morning she heard a soft, steady hum outside her window.",
-   "Under the water tank of the next building hung a huge brown shape. The shape was as big as a door, and the shape was moving.",
+   "Under the water tank of the next building hung a huge brown shape. It was as big as a door, and it was moving.",
    "'Ajji!' she called. Ajji, her grandmother, came slowly with her glasses.",
    "'Rock bees,' said Ajji. 'They have built a honeycomb. Thousands of bees are sitting on the comb, keeping it safe.'",
    "Appa, her father, came to look. 'We must call someone to burn it,' he said. 'Bees sting.'",
    "'Rock bees sting if you disturb them,' said Ajji. 'So we will not disturb them. We will watch from inside, with the window shut. Rock bees move on after some months.'",
    "So every day, Divya watched through the glass. Bees flew away from the comb in a stream. Other bees flew back.",
    "'Where do they go?' she asked.",
-   "'To the flowers,' said Ajji. 'Look at the drumstick tree in the park, and the yellow flowers on the gulmohar road. Inside each flower is a drop of sweet juice called nectar. A bee drinks the nectar and carries the nectar home inside her.'",
+   "'To the flowers,' said Ajji. 'Look at the drumstick tree in the park, and the yellow flowers on the gulmohar road. Inside each flower is a drop of sweet juice called nectar. A bee drinks the nectar and carries it home inside her.'",
    "'Is it honey already?' asked Divya.",
    "'Not yet. Nectar is thin and watery. The bees spread it in little wax rooms in the comb. Then they fan their wings over it, hour after hour. The moving air dries it. Slowly it turns thick. Then it is honey.'",
    "Appa put down his phone. 'I did not know that,' he said. 'I thought honey just came in a bottle.'",
@@ -239,7 +239,7 @@
    "Only the empty comb was left, pale and full of little holes.",
    "Divya pressed her nose to the window. 'Thank you for not burning them, Appa,' she said.",
    "'Thank Ajji,' said Appa. 'She taught me to look first.'",
-   "Divya tried it at home the next day. She made sugar water, thin like nectar. She put a little on a plate under the fan. By morning it was thick and sticky, just like honey.",
+   "The next day, Divya tried drying nectar herself. She made sugar water, thin like nectar. She put a little on a plate under the fan. By morning it was thick and sticky, just like honey.",
    "'The fan was my bee,' she said."
   ],
   "epiphany": "For the parent: Divya sorts her dinner into food from plants and food from animals, and then sees that honey belongs to both. A flower made the nectar, and the bees dried it into honey.",
@@ -413,9 +413,9 @@
     "Before you play, your child draws the food on each card under the word, so a child who cannot read can play. The reader reads out each word.",
     "Put the four plate labels on the floor. Put the leaf plate and the cow plate in front, and Both and Neither at the side.",
     "Mix the cards and put them in a pile, words up.",
-    "On your turn, take the top card and say the food. Put the card on the plate where you think the card belongs.",
-    "The reader turns the card over and reads the back. If you were right, make a mark by your name on a sheet of paper. If not, move the card to the right plate.",
-    "When the pile is empty, count your marks. The most marks wins. If two players have the same, they both win. Playing alone, try to beat your marks from last time."
+    "On your turn, take the top card and say the food. Put the card on the plate where you think it belongs.",
+    "The reader turns the card over and reads the back. If you were right, make a mark by your name on a sheet of paper. If you were wrong, move the card to the correct plate.",
+    "When the pile is empty, count your marks. The player with the most marks wins. If two players have the same number, they both win. If you are playing alone, try to beat your marks from last time."
    ],
    "flow": [
     {
@@ -477,7 +477,7 @@
    "title": "Who Made My Food? a memory game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game. Half the cards show a food, and half show the plant or animal who made that food. Players turn over two cards at a time to find a food and their maker.",
+   "context": "This is a memory game. Half the cards show a food, and half show the plant or animal who made that food. Players turn over two cards at a time to find a food and its maker.",
    "printables": [
     {
      "kind": "cards",
@@ -586,7 +586,7 @@
      "mins": 9,
      "do": "1. Take turns turning over two cards. 2. Each time someone finds a pair, say the pair out loud.",
      "say": "Honey and honey bees! The bees made the honey from flower nectar.",
-     "kid": "Turn two cards. Is it a food and their maker?",
+     "kid": "Turn over two cards. Are they a food and its maker?",
      "ask": [
       {
        "q": "You found milk and a cow. What does the cow eat to make the milk?",
@@ -634,7 +634,7 @@
    "title": "Nectar to Honey: what turns thin sugar water thick?",
    "mins": 24,
    "days": 2,
-   "context": "In this experiment you make pretend flower nectar from sugar water. You put a drop under a fan and cover another drop with a katori. The next morning you tilt both plates and see which one runs.",
+   "context": "In this experiment you make pretend flower nectar from sugar water. You put a drop under a fan and cover another drop with a katori. The next morning you tilt both plates and see which drop runs.",
    "question": "We leave thin sugar water out overnight, one drop under a fan and one drop covered. Which one will turn thick, like honey?",
    "predict": "Guess first. Tomorrow, will the drop under the fan be runny like water, or thick like honey? What about the covered drop? Why do you think so?",
    "fair_test": "Both drops are the same sugar water, the same size, on the same kind of plate, in the same room. Only one thing is different: one drop is open to the moving air, and one is covered by a katori.",
@@ -681,7 +681,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make sugar water. Feel how runny it is. Guess. Put one drop under the fan, and cover one drop with a katori."
+     "what": "Make sugar water. Feel how runny it is. Guess which drop will turn thick. Put one drop under the fan, and cover one drop with a katori."
     },
     {
      "day": 1,
@@ -767,7 +767,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Ask your child what they think, what they saw and why. 2. Then tell them how bees make honey.",
+     "do": "1. Ask your child what they saw, and why they think it happened. 2. Then tell them how bees make honey.",
      "say": "The moving air took water out of the open drop. The water evaporated. Bees fan their wings over nectar in the same way, until the nectar turns thick. That is honey.",
      "kid": "The fan dried the open drop. Bees fan nectar with their wings. Then nectar turns into honey.",
      "ask": [
@@ -962,7 +962,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child feels one food and describes the food out loud. 2. They guess. 3. They take it out to check. 4. They say plant or animal.",
+     "do": "1. Your child feels one food and describes the food out loud. 2. They guess what it is. 3. They take it out to check. 4. They say if it came from a plant or an animal.",
      "say": "Is it smooth or rough? Hard or soft? What do you think it is? Did a plant or an animal make this food?",
      "kid": "Feel one food. Is it smooth or rough? Guess. Then take it out.",
      "ask": [
@@ -985,7 +985,7 @@
       {
        "q": "Which part of a plant is the potato, and which part is the peanut?",
        "good": [
-        "The potato grows under the soil.",
+        "The potato is a stem that grows under the soil.",
         "The peanut is a seed."
        ]
       }
@@ -1032,7 +1032,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put the paper there. 3. Put the four bits in a row, a finger apart.",
+     "do": "1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put the paper there. 3. Put the four food bits in a row on the paper, a finger apart.",
      "say": "Which food do you think the ants will like best? Why?",
      "kid": "Put four foods near the ants. Which one will ants like?",
      "ask": [
@@ -1142,7 +1142,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Fold a sheet into 7 boxes. 2. Write a day in each box. 3. Your child draws today's lunch in the first box. 4. Put a green dot by each food from a plant and a red dot by each food from an animal.",
-     "say": "Draw your lunch. Then a green dot for each plant food and a red dot for each animal food.",
+     "say": "Draw your lunch. Then put a green dot by each food from a plant and a red dot by each food from an animal.",
      "kid": "Draw your lunch. Green dot for plants. Red dot for animals.",
      "wait": "Do the same every day for six more days."
     },
@@ -1223,7 +1223,7 @@
     "Two cotton buds tied together.",
     "A fold of paper shaped like a little cup."
    ],
-   "your_turn": "Make your own bee tongue from things at home. Give your tool 10 dips. Did your tool beat the best tool?",
+   "your_turn": "Make your own bee tongue from things at home. Give your tool 10 dips. Did it carry more sugar water than the best of the five tools?",
    "flow": [
     {
      "id": "c1s1",
@@ -1244,7 +1244,7 @@
     {
      "id": "c1s2",
      "mins": 10,
-     "do": "1. Your child gives each tool 10 dips into the cup and taps or squeezes each one into its own cap. 2. Line up the caps.",
+     "do": "1. Your child dips one tool into the cup, carries it to a bottle cap, and taps or squeezes the sugar water into the cap. 2. Do this 10 times. 3. Do the same with each tool, using a new cap each time. 4. Line up the caps.",
      "say": "Dip, carry, drip. Ten times. Count with me.",
      "kid": "Dip, carry, drip. Do it ten times with each tool."
     },
@@ -1403,7 +1403,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw your two plates from the sugar water test, the morning after. Show which drop ran when you tilted the plate.",
+     "p": "In the Nectar to Honey experiment, you left one drop of sugar water under a fan and covered another drop with a katori. Draw the two plates as they looked the next morning. Show which drop ran when you tilted the plate.",
      "a": "The open drop thick and still. The covered drop running down the plate.",
      "why": "A strong drawing shows the open drop staying put and the covered drop running in a line.",
      "how": "e1",
@@ -1417,7 +1417,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did the drop under the fan turn thick?",
+     "p": "In the Nectar to Honey experiment, why did the drop of sugar water under the fan turn thick? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "The moving air made the water evaporate. Less water was left, so the sugar water turned thick.",
      "why": "A strong answer says the water went into the air, and uses what the child saw: the open drop got smaller and stickier.",
@@ -1455,7 +1455,7 @@
     },
     {
      "t": "count",
-     "p": "Lalitha's lunch is rice, sambar, curd, a banana and a glass of buttermilk. How many of these came from an animal?",
+     "p": "A lunch is rice, sambar, curd, a banana and a glass of buttermilk. How many of these came from an animal?",
      "a": 2,
      "why": "Curd and buttermilk are both made from milk, so 2 came from an animal. Rice, sambar and the banana came from plants."
     },
@@ -1511,7 +1511,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Think of the sugar water drop under the fan. What would it look like after two more days? Why?",
+     "p": "In the Nectar to Honey experiment, the drop of sugar water under the fan turned thick overnight. What would the drop look like after two more days under the fan? Why?",
      "lines": 3,
      "a": "Even smaller and harder, maybe a shiny crust. The moving air keeps taking water away until almost none is left.",
      "why": "A strong answer says what the child would see and says the water keeps leaving into the air.",
@@ -1644,7 +1644,7 @@
      "t": "write",
      "p": "Plants make their own food from sunlight. You cannot. So where does all your food come from?",
      "lines": 3,
-     "a": "From plants, from animals, and a little, like salt and water, from the Earth.",
+     "a": "From plants and from animals. A little, like salt and water, comes from the Earth.",
      "why": "A strong answer says that people, like other animals, must eat food that plants or other animals made."
     }
    ]
@@ -1696,7 +1696,7 @@
     "The tree eats the soil"
    ],
    "a": 0,
-   "why": "Green plants make their own food in their leaves. The soil gives water and a little of some minerals, not food.",
+   "why": "Green plants make their own food in their leaves. The soil gives the tree water and small amounts of minerals, but not food.",
    "outcome": 1
   },
   {
@@ -1876,16 +1876,16 @@
  ],
  "maths": [
   {
-   "problem": "Ammu sorted her lunch. She put 5 foods on the leaf plate and 2 foods on the cow plate. How many more foods are on the leaf plate?",
+   "problem": "A lunch is sorted onto two plates. 5 foods go on the leaf plate, for food from plants. 2 foods go on the cow plate, for food from animals. How many more foods are on the leaf plate?",
    "answer": "3 more foods are on the leaf plate.",
-   "explain": "Start at 2 and count on to 5: 3, 4, 5. That is 3 more. Most of her lunch came from plants.",
+   "explain": "Start at 2 and count on to 5: 3, 4, 5. That is 3 more. Most of this lunch came from plants.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a1",
    "context": "This is about Leaf Plate, Cow Plate, where you sort foods from plants and from animals. These are made-up results.",
    "why_maths": "Finding how many more shows at a glance which kind of food made up most of the lunch."
   },
   {
-   "problem": "In a second go at the Be a Bee challenge, Sundari counted the dips each tool needed to fill a cap. The spoon needed 4 dips, the paintbrush 7 and the cotton bud 12. Put them in order, from the fewest dips to the most.",
+   "problem": "In a second go at the Be a Bee challenge, count the dips each tool needs to fill a bottle cap. The spoon needs 4 dips, the paintbrush 7 and the cotton bud 12. Put them in order, from the fewest dips to the most.",
    "answer": "Spoon 4, paintbrush 7, cotton bud 12.",
    "explain": "4 is less than 7, and 7 is less than 12. The fewer dips a tool needs, the more it carries each time. So the spoon carried most each dip, and the cotton bud least.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1953,7 +1953,7 @@
    "a": "From an animal. Curd is made from milk."
   },
   {
-   "q": "Why did the sugar water under the fan turn thick?",
+   "q": "In the Nectar to Honey experiment, why did the sugar water under the fan turn thick?",
    "a": "The moving air made the water evaporate."
   }
  ],
@@ -2020,23 +2020,23 @@
   ]
  },
  "roots": {
-  "context": "We have sorted foods from plants and foods from animals, and turned thin sugar water thick. Now we ask what honey tells us about how plants, animals and we are joined.",
+  "context": "We have sorted foods from plants and foods from animals, and turned thin sugar water thick. Now we ask what honey shows about how plants, animals and people depend on each other.",
   "deep_truth": {
-   "truth": "Our thin sugar water, left under the fan, turned thick and sticky like honey. The moving air took its water away. Bees thicken flower nectar the same way, by fanning it. A flower made the nectar and bees made the honey, so honey needs a plant and an animal.",
+   "truth": "In the Nectar to Honey experiment, thin sugar water left under the fan turned thick and sticky like honey. The moving air took its water away. Bees thicken flower nectar the same way, by fanning it. A flower made the nectar and bees made the honey, so honey needs a plant and an animal.",
    "habit": "We sort every food into two boxes, plant or animal, as if each food has one maker. Honey needs both: a flower made the nectar, and bees changed it into honey.",
    "evidence": "In the sugar water test, the open drop under the fan turned thick and barely moved when tilted, while the covered drop stayed runny. Bees dry nectar in the comb by fanning it with their wings."
   },
   "three": {
    "who_am_i": "You are an animal too. Like every animal, you must eat what plants and other animals made.",
    "what_is_life": "Life passes food along. A flower makes nectar, a bee makes honey, and you eat the honey.",
-   "what_is_this_world": "A world where flowers and bees feed each other. The bee gets nectar, and the flower gets pollen carried to the next flower."
+   "what_is_this_world": "In this world, flowers and bees help each other. The bee gets nectar from the flower, and the bee carries the flower's pollen to the next flower."
   },
-  "thread": "Sunlight falls on a leaf, and the plant makes sugar. The flower turns some of that sugar into nectar. A bee drinks the nectar, and bees dry the nectar into honey, and you eat the honey. The same sunlight has become a plant's food, a bee's food and your food.",
+  "thread": "Sunlight falls on a leaf, and the plant makes sugar. The flower turns some of that sugar into nectar. A bee drinks the nectar, and the bees dry it into honey. Then you eat the honey. The same sunlight has become a plant's food, a bee's food and your food.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey)",
     "teaching": "This earth is honey for all beings, and all beings are honey for this earth.",
-    "link": "In honey, a flower feeds the bees and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says."
+    "link": "To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says."
    },
    {
     "source": "Dhammapada, verse 49",
@@ -2076,7 +2076,7 @@
   "story": "For a very long time, people in Europe believed that a king bee ruled every hive. The Greek thinker Aristotle wrote about the king bee about 2,350 years ago. He also wrote that honey falls from the air, and the bees only gather it. Beekeepers watched their bees closely, and saw them drinking from flowers. In 1586, a Spanish beekeeper named Luis Méndez de Torres wrote that the big bee in the hive is a female who lays eggs. In 1609, the English beekeeper Charles Butler said the same in a book called The Feminine Monarchie. Many people still did not believe it. Then, around 350 years ago, the Dutch scientist Jan Swammerdam cut open the big bee and looked inside with a microscope. He found the parts that make eggs. The king was a queen, the mother of the whole hive. Today we know more. The queen lays the eggs. The worker bees, who are all female too, gather nectar and make the honey. The male bees make no honey at all.",
   "who": "Luis Méndez de Torres, Charles Butler and Jan Swammerdam",
   "when": "1586, 1609, and Swammerdam's dissections between 1669 and the 1670s",
-  "wrong_idea": "That a male king bee rules the hive, and that honey falls from the air. Swammerdam's microscope showed the big bee makes eggs, so she is a mother, and watching bees showed honey is made from flower nectar.",
+  "wrong_idea": "People believed that a male king bee rules the hive, and that honey falls from the air. Swammerdam's microscope showed that the big bee makes eggs, so she is a mother. Watching bees showed that honey is made from flower nectar.",
   "art": "An old wooden table with a microscope, a large bee on a glass slide, and a drawing of a honeycomb beside it."
  },
  "playtest": "Walked through the sugar water test, the lunch sort, the feely bag, the ants' menu, the food week, both games and the bee tongue challenge as a parent and a six-year-old in a city flat would. Fixed: the sorting game scored two ways (cards kept versus cards left on plates), so wrong guesses now move the card and right guesses earn a mark; the bee challenge listed five tools but said four caps and four tools; the feely bag could have no animal food, so paneer is the swap for families without eggs; the sugar water step said to leave plates until morning but the evening look came first; 'was never alive' lines for salt and water now say what is true without denying anything; the story note lost its internal wording; video titles lost their working notes; the food week question no longer assumes sambar; and repeated sugar water questions in the sheets and quiz were replaced with new ones. The sugar water test needs only sugar, water, two steel plates, a katori and a fan, and is checked the next morning. Both games have every card written out.",

@@ -139,21 +139,21 @@
    "claim": "Heavy things are harder to start and harder to stop.",
    "who": "What most people feel when they push a cupboard or catch a big ball",
    "for": "A full trolley needs a big push to start, and a big push to stop. An empty one needs only a small push.",
-   "against": "Nobody has found a heavy thing that is easy to start or stop with the same push. This idea holds up in every test.",
+   "against": "Nobody has found a heavy thing that starts or stops as easily as a light one. This idea holds up in every test.",
    "status": "accepted",
    "context": "This card is about how heavy things start and stop."
   }
  ],
  "big_questions": [
   {
-   "q": "When you tapped the rolling ball from the front, it slowed down. Was that the same kind of push as the one that started it?",
+   "q": "In the Tap Test, one tap started the still ball, and a tap from the front slowed the rolling ball. Were they the same kind of push?",
    "kind": "deep",
-   "hint": "Think about what your hand did each time. What was different, only the side?"
+   "hint": "Think about what your hand did each time. Was the side you tapped from the only thing that changed?"
   },
   {
    "q": "If there was no floor and no air at all, would a rolling ball ever stop?",
    "kind": "deep",
-   "hint": "What slowed the ball down in your test? What if those were gone?"
+   "hint": "The floor and the air slowed the rolling ball down. What if they were gone?"
   },
   {
    "q": "When you stand very still, is anything in you still moving?",
@@ -219,7 +219,7 @@
    "title": "The Tap Test: can one tap make a ball faster, slower or stop?",
    "mins": 20,
    "days": 1,
-   "context": "This is the main experiment of the unit. A grown-up rolls a ball slowly across the floor. You tap it with a rolled-up newspaper: when it is still, from behind, and from the front. What does the same gentle tap do each time?",
+   "context": "This is the main experiment of the unit. A grown-up rolls a ball slowly across the floor. You tap the ball with a rolled-up newspaper three ways: when it is still, from behind when it is rolling, and from the front when it is rolling. What does the same gentle tap do each time?",
    "question": "What happens when you tap a rolling ball from behind? What happens when you tap it from the front?",
    "predict": "Guess first. If you tap a rolling ball from behind, will it go faster, slower, or stop? If you tap it from the front, what will it do? Why do you think so?",
    "fair_test": "We use the same ball, the same rolled newspaper and the same gentle tap every time. The grown-up rolls the ball just as slowly each time. Only the side we tap from changes. We try each side 3 times, because one try might be luck.",
@@ -253,7 +253,7 @@
      "what": "Guess, tap a still ball, tap a rolling ball from behind and from the front, then try to stop it with just one tap."
     }
    ],
-   "record": "Draw the ball and the newspaper for each tap. Draw a cheetah next to the faster tap and a snail next to the slower tap.",
+   "record": "Draw the ball and the newspaper for each tap. Draw a cheetah next to the tap that made the ball faster and a snail next to the tap that made it slower.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -304,16 +304,16 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Clear a stretch of floor. 2. Roll the newspaper tight. 3. Show your child a gentle tap on your own palm.",
-     "say": "This is our tapper. Every tap is gentle, like this, tap. We will see what one gentle tap does to a ball.",
+     "say": "This is our tapper. Every tap is gentle, like this. We will see what one gentle tap does to a ball.",
      "kid": "This is your tapper. Tap gently, like this. Watch what one tap does.",
      "parent": "A gentle tap with a rolled newspaper is easier to keep the same than a hand. A tiled floor works best. Move mats and dari out of the way."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Hold up the ball. 2. Ask both guesses and the reasons. 3. Your child draws the guesses, and a grown-up writes them in the table.",
+     "do": "1. Hold up the ball. 2. Ask for both guesses and the reasons. 3. Your child draws the guesses, and a grown-up writes them in the table.",
      "say": "If you tap a rolling ball from behind, what will it do? If you tap it from the front, what will it do? Why do you think so?",
-     "kid": "Guess. A tap from behind: faster, slower or stop? A tap from the front? Why?",
+     "kid": "Guess. If you tap the rolling ball from behind, will it go faster, go slower or stop? What if you tap it from the front? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -348,7 +348,7 @@
      "mins": 4,
      "do": "1. Roll the ball slowly along the floor. 2. Your child walks beside it and taps it gently from behind. 3. Do this 3 times.",
      "say": "I will roll the ball slowly. Walk beside it and tap it from behind, gently. Did it speed up, slow down or stop?",
-     "kid": "Walk beside the ball. Tap it from behind. Faster, slower or stopped?",
+     "kid": "Walk beside the ball. Tap it from behind. Did it go faster, go slower or stop?",
      "ask": [
       {
        "q": "What did the ball do?",
@@ -452,7 +452,7 @@
      "what": "Guess, flick gently 3 times, flick hard 3 times, and count the tiles each time."
     }
    ],
-   "record": "Draw a row of tiles. Put a small dot where the gentle flicks stopped and a big dot where the hard flicks stopped.",
+   "record": "Draw a row of tiles. Put a small dot where the cap stopped after the gentle flicks and a big dot where it stopped after the hard flicks.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -493,7 +493,7 @@
      "mins": 3,
      "do": "1. Put tape on the floor as a start line. 2. Show a gentle flick and a hard flick. 3. Ask for a guess and a reason.",
      "say": "We will flick the cap gently, then hard. Which one will go further? How many tiles? Why do you think so?",
-     "kid": "Gentle flick or hard flick: which goes further? Why?",
+     "kid": "Which will send the cap further, a gentle flick or a hard flick? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -577,7 +577,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Watch the fan start, speed up, slow down and stop, and count how long it keeps turning after switching off."
+     "what": "Watch the fan start, speed up, slow down and stop, and count how long it keeps turning after it is switched off."
     }
    ],
    "record": "Draw the fan four times: still, slow, fast, and slowing down. Draw lines round the fast one to show it is fast.",
@@ -614,7 +614,7 @@
      "mins": 2,
      "do": "Turn the speed knob up, then down.",
      "say": "Now I turn the knob up. What happens? Now down. What happens?",
-     "kid": "The knob goes up. What happens? Now down?",
+     "kid": "The knob is turned up. What does the fan do? Now the knob is turned down. What does the fan do?",
      "ask": [
       {
        "q": "What happened?",
@@ -689,7 +689,7 @@
      "what": "Watch for 5 minutes, put a tick in a box for each change you see, then talk about what pushed each one."
     }
    ],
-   "record": "Your paper with ticks in the four boxes, and a drawing of one thing you saw stop.",
+   "record": "Keep your paper with ticks in the four boxes. Draw one thing you saw stop.",
    "setup": [
     {
      "art": "A girl and a grown-up at a flat window, looking down at a road with autos, a scooter and a bus stopping at a stop.",
@@ -707,7 +707,7 @@
      "do": "Watch out of the window together. Each time your child sees something start, stop, speed up or slow down, they put a tick in that box.",
      "say": "Look! That auto is slowing down. Tick SLOWER. Can you spot something that starts?",
      "kid": "Look out. Tick a box when something starts, stops, goes faster or slower.",
-     "parent": "Buses at a stop, autos at a signal, a person walking then running, a crow landing on a wall: all good. If the road is quiet, watch birds, or people in the corridor."
+     "parent": "Buses at a stop, autos at a signal, a person walking then running, a crow landing on a wall: these are all good things to spot. If the road is quiet, watch birds, or people in the corridor."
     },
     {
      "id": "s2",
@@ -908,8 +908,8 @@
     "Cut out the 8 cards and the 2 arrows: green is SAME WAY and red is AGAINST.",
     "Put the cards in a pile, front side up. The grown-up reads the front of the top card to the player whose turn it is.",
     "The player says SAME WAY or AGAINST, and lays the green or red arrow next to the card.",
-    "The grown-up reads the back. A right answer wins the card. For a START card, any arrow is right, because a still thing has no way yet.",
-    "A wrong answer: the grown-up shows it with a ball or a hand, and the card goes to the bottom of the pile to come round again.",
+    "The grown-up reads the back. A right answer wins the card. For a START card, any arrow is right, because a still thing is not moving any way yet.",
+    "After a wrong answer, the grown-up shows the right push with a ball or a hand. The card goes to the bottom of the pile to come round again.",
     "Players take turns. The game ends when all 8 cards are won. Whoever has the most cards wins, and a tie means you all win. With two people, the child plays and tries to win all 8."
    ],
    "setup": [
@@ -941,7 +941,7 @@
        "q": "Why the red arrow?",
        "good": [
         "To stop it you push against it.",
-        "Like my tap from the front."
+        "Like my tap from the front in the Tap Test."
        ]
       }
      ],
@@ -951,7 +951,7 @@
      "id": "s3",
      "mins": 1,
      "do": "Ask the check question.",
-     "say": "Last one, about the swing.",
+     "say": "Here is one last question, about the swing.",
      "kid": "Last one.",
      "check": {
       "t": "mcq",
@@ -971,8 +971,8 @@
    "id": "g2",
    "title": "Cheetah, Snail, Statue",
    "mins": 8,
-   "players": "2 or more players. One is the caller, a grown-up first.",
-   "context": "This is a moving game. The caller holds up a card, and the players walk faster, slower, start or stop. Then you say what your feet did.",
+   "players": "2 or more players. One player is the caller. A grown-up is the caller first.",
+   "context": "This is a moving game. The caller holds up a card, and the players start walking, walk faster, walk slower or stop. Then you say what your feet did.",
    "printables": [
     {
      "kind": "cards",
@@ -1206,7 +1206,7 @@
      "mins": 10,
      "do": "Your child tries their ideas. Let them change one thing at a time.",
      "say": "Try your idea. Did it stop before the line, on it, or after it? What will you change?",
-     "kid": "Try your idea. Before the line, on it or after it? Change one thing.",
+     "kid": "Try your idea. Did the ball stop before the line, on it or after it? Change one thing.",
      "parent": "Let your child try and fail. The towel slows the ball by rubbing. Moving the towel nearer or further changes where it stops."
     },
     {
@@ -1239,7 +1239,7 @@
    "items": [
     {
      "t": "match",
-     "p": "Draw a line from each wish to the push that does it.",
+     "p": "Draw a line from what you want the ball to do to the push that does it.",
      "pairs": [
       [
        "Make a still ball start",
@@ -1263,7 +1263,7 @@
      "t": "draw",
      "p": "Draw the Tap Test: the ball, the rolled newspaper, and you tapping it from the front.",
      "a": "A ball, a newspaper tapper in front of it, and the child kneeling.",
-     "why": "A strong drawing shows the tapper on the side of the ball that faces where it is going.",
+     "why": "A strong drawing shows the tapper in front of the ball, on the side the ball is rolling towards.",
      "how": "e1",
      "art": "A blank box with a line for the floor."
     },
@@ -1324,7 +1324,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: what did your tap do when you tapped the ball from behind?",
+     "p": "In the Tap Test, you tapped the rolling ball from behind. What did your tap do? Say it out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "It made the ball go faster, because I pushed it the same way it was rolling.",
      "why": "A strong answer says what the ball did and that the push went the same way as the ball.",
@@ -1332,7 +1332,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 1, flicks a bottle cap gently. It goes 2 tiles. Then she flicks it hard. What will happen?",
+     "p": "You flick a bottle cap gently. It goes 2 tiles. Then you flick it hard. What will happen?",
      "opts": [
       "It goes further than 2 tiles",
       "It goes only 1 tile",
@@ -1454,7 +1454,7 @@
     },
     {
      "t": "count",
-     "p": "Farhan, a boy in Class 1, flicked a cap 3 times gently. It went 2 tiles, 1 tile and 2 tiles. How many tiles in all?",
+     "p": "A cap was flicked gently 3 times. It went 2 tiles, 1 tile and 2 tiles. How many tiles in all?",
      "a": 5,
      "why": "2 and 1 make 3. 3 and 2 make 5.",
      "how": "e2"
@@ -1506,7 +1506,7 @@
       "Her hands get bigger"
      ],
      "a": 0,
-     "why": "Pulling the hands back makes the ball slow down more slowly. The push on her hands is then smaller."
+     "why": "Pulling the hands back gives the ball more time to slow down. The push on her hands is then smaller."
     }
    ]
   }
@@ -1598,23 +1598,23 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 1, wants her swing to go slower. What can she do?",
+   "p": "You are on a swing and want it to go slower. What can you do?",
    "opts": [
-    "Drag her feet on the ground",
+    "Drag your feet on the ground",
     "Ask for a push from behind",
     "Lean forward hard"
    ],
    "a": 0,
-   "why": "Her feet on the ground push against the swing's movement, so it slows down.",
+   "why": "Your feet on the ground push against the swing's movement, so it slows down.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Meera, a girl in Class 1, guesses that a tap from the front will make a ball go faster. She tests it, and the ball slows down. What should she say?",
+   "p": "You guess that a tap from the front will make a ball go faster. You test it, and the ball slows down. What should you say?",
    "opts": [
     "My guess was wrong. A tap from the front slows it down.",
     "The test was wrong.",
-    "She should still say it goes faster."
+    "I will still say it goes faster."
    ],
    "a": 0,
    "why": "A good scientist trusts what the test shows, and changes their idea. A wrong guess is how we learn.",
@@ -1622,7 +1622,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ammu, a girl in a story, wants to stop her boat. Which way should she push her oar?",
+   "p": "In the story Ammu Stops the Boat, Ammu wants to stop her boat. Which way should she push her oar?",
    "opts": [
     "Forward, towards the front of the boat",
     "Backward, like when rowing fast",
@@ -1647,7 +1647,7 @@
    "channel": "Joe Flo",
    "youtube": "mfHhc6_YOek",
    "mins": 2,
-   "why": "Shows birds pushing their feet forward and spreading their wings to slow down as they land, like Ammu's oar.",
+   "why": "Shows birds pushing their feet forward and spreading their wings to slow down as they land, like Ammu's oar in the story Ammu Stops the Boat.",
    "check": "Found by search: \"Ducks landing in water - slow motion\" by Joe Flo, 1 minute 34 seconds. A parent may preview it."
   },
   {
@@ -1655,7 +1655,7 @@
    "channel": "boats.com",
    "youtube": "uHn94aJPSeo",
    "mins": 2,
-   "why": "Shows a rower pulling the oars back to move the boat and pushing forward to slow it, as in the story.",
+   "why": "Shows a rower pulling the oars back to move the boat and pushing forward to slow it, as in the story Ammu Stops the Boat.",
    "check": "Found by search: \"How To Row a Boat\" by boats.com, 2 minutes 7 seconds. A parent may preview it."
   }
  ],
@@ -1745,7 +1745,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Flick Test, Kavya, a girl in Class 1, flicks a cap. Her gentle flick went 2 tiles. Her hard flick went 7 tiles. How many more tiles did the hard flick go?",
+   "problem": "In the Flick Test, a gentle flick sent the cap 2 tiles. A hard flick sent it 7 tiles. How many more tiles did the hard flick go?",
    "answer": "5 more tiles.",
    "explain": "Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the bigger push sent the cap 5 tiles further.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1754,7 +1754,7 @@
    "why_maths": "Taking the small number from the big one shows how much difference the bigger push made."
   },
   {
-   "problem": "Farhan, a boy in Class 1, flicks a cap three times: 4 tiles, 1 tile and 6 tiles. One was gentle, one was medium and one was hard. Put them in order from the gentlest to the hardest flick.",
+   "problem": "A cap is flicked three times. It goes 4 tiles, 1 tile and 6 tiles. One flick was gentle, one was medium and one was hard. Put them in order from the gentlest to the hardest flick.",
    "answer": "1 tile, 4 tiles, 6 tiles.",
    "explain": "A bigger push sends the cap further. So the gentlest flick went the shortest way, 1 tile, and the hardest went the furthest, 6 tiles.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1763,8 +1763,8 @@
    "why_maths": "Putting the numbers in order lets us guess which flick was which, without seeing them."
   },
   {
-   "problem": "In Window Watch, Nila, a girl in Class 1, made 3 ticks for START, 5 ticks for STOP, 2 ticks for FASTER and 4 ticks for SLOWER. Which change did she see most? Which least?",
-   "answer": "She saw STOP most, 5 times. She saw FASTER least, 2 times.",
+   "problem": "In Window Watch, there were 3 ticks for START, 5 ticks for STOP, 2 ticks for FASTER and 4 ticks for SLOWER. Which change was seen most? Which was seen least?",
+   "answer": "STOP was seen most, 5 times. FASTER was seen least, 2 times.",
    "explain": "5 is the biggest number, so STOP came most often. 2 is the smallest, so FASTER came least often. On a busy road, things stop a lot at signals and bus stops.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a2",
@@ -1814,7 +1814,7 @@
    "a": "Put a flat hand in front of it, pushing against it."
   },
   {
-   "q": "Does a hard flick or a gentle flick go further?",
+   "q": "Which sends a bottle cap further, a hard flick or a gentle flick?",
    "a": "A hard flick. A bigger push makes a bigger change."
   },
   {
@@ -1829,7 +1829,7 @@
  "roots": {
   "context": "We have tapped, flicked and stopped moving things. Now we ask what the Tap Test tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "One gentle tap started the still ball, made the rolling ball faster, and made it slower or stop. The tap was the same each time. Only the side you tapped from changed. So speeding up and slowing down are one kind of change, and the push's direction decides which.",
+   "truth": "One gentle tap started the still ball, made the rolling ball faster, and made it slower or stop. The tap was the same each time. Only the side you tapped from changed. So speeding up and slowing down are one kind of change, and the way the push goes decides which.",
    "habit": "We think of going and stopping as opposites with different causes: a push makes things go, and they stop on their own. The test shows one cause for both. A push the same way speeds a thing up, and a push the other way slows it down.",
    "evidence": "In the Tap Test, the same rolled newspaper and the same gentle tap made the ball faster from behind and slower from the front. A just-right tap from the front stopped it dead, and a bigger one sent it back."
   },
@@ -1838,7 +1838,7 @@
    "what_is_life": "Every living being that moves pushes on something to start and to stop. A duck pushes the water, and a crow pushes the air.",
    "what_is_this_world": "Everything in the world is moving somehow. Pushes and pulls change how fast it moves, all the time."
   },
-  "thread": "Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. A ball, a boat, an auto and a swing all follow it. Everything is conscious, and each moving thing meets every push in its own way.",
+  "thread": "Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. This is true for a ball, a boat, an auto and a swing. Everything is conscious, and each moving thing meets every push in its own way.",
   "teachings": [
    {
     "source": "Tattvartha Sutra 5.17 (Jain)",
@@ -1863,7 +1863,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "A ball's movement is fully explained by the forces on it. For them, nothing more is going on in the ball, and feeling belongs only to living beings with nerves."
+   "view": "A ball's movement is fully explained by the forces on it. In this view, nothing more is going on in the ball, and feeling belongs only to living beings with nerves."
   },
   "practice": {
    "title": "Slow down to still",
@@ -1949,5 +1949,5 @@
   ]
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a flat. Made both games finish with 2 or 4 players (a winner in Which Way to Push, caller turns in Cheetah, Snail, Statue) and moved the child out from under the ceiling fan. Added tile-size and uneven-flick notes to the Flick Test, and a balcony warning to Window Watch. Removed repeated worksheet and quiz questions and extra jokes, and introduced every made-up child at first mention. Second pass: took the extra duck out of the story to keep it short, made the pillow stand up so it can stop a ball, said what to do if the ball stops short of the line, wrote the game ending for ties and for two people, made the game picture match the text-only cards, replaced two applications and a mountain-road claim I could not check, made Lakshmi and Farhan friends, and swapped four weak jokes.",
- "warm": {"words": ["FORCE", "PULLS", "SPEED", "ROLLS", "STOPS"], "quiz": [["A push the same way a ball is moving makes it go faster.", true, "A push the same way adds to the movement, so the ball speeds up."], ["Hitting a moving ball always makes it go faster.", false, "A hit from the front slows the ball or stops it. Only a push the same way speeds it up."], ["A still ball starts moving only when something pushes or pulls it.", true, "A still thing needs a force, a push or a pull, to start moving."], ["A ball rolls further on a thick towel than on smooth tiles.", false, "The towel pushes against the ball more, so the ball slows down and stops sooner."], ["A bigger push makes a bigger change in speed.", true, "A small push changes the speed a little, and a big push changes it a lot."], ["A force can start a thing moving, but it cannot stop one.", false, "A force can start, stop, speed up or slow down a thing."], ["The floor and the air push against a rolling ball all the time.", true, "These small pushes are why a rolling ball slows down slowly."], ["Pulling a moving cart forward makes it slow down.", false, "A pull the same way the cart moves makes it go faster."], ["A pull is a force, just like a push.", true, "A force is a push or a pull, and both can change how things move."], ["A rolling ball stops all by itself, with nothing slowing it.", false, "Something outside the ball, the floor and the air, pushes against it and slows it."]], "odd": [[["Kick", "Rope pull", "Strong wind", "Shadow"], "Shadow", "Kick, rope pull and strong wind are pushes or pulls that can move things; a shadow cannot move anything."], [["Push from the front", "Push against the move", "Tap from the front", "Push from behind"], "Push from behind", "The first three push against the movement and slow a ball down; a push from behind speeds it up."], [["Kick", "Pull", "Push", "Waiting"], "Waiting", "A kick, a pull and a push are forces that can start a still thing; waiting is no force."], [["Cheetah", "Jet plane", "Racing car", "Snail"], "Snail", "Cheetah, jet plane and racing car have a high speed; a snail has a very low speed."], [["Thick towel", "Grass", "Sand", "Smooth tile"], "Smooth tile", "Towel, grass and sand push hard against a rolling ball and stop it soon; smooth tile pushes only a little."]]}
+ "warm": {"words": ["FORCE", "PULLS", "SPEED", "ROLLS", "STOPS"], "quiz": [["A push the same way a ball is moving makes it go faster.", true, "A push the same way adds to the movement, so the ball speeds up."], ["Hitting a moving ball always makes it go faster.", false, "A hit from the front slows the ball or stops it. Only a push the same way speeds it up."], ["A still ball starts moving only when something pushes or pulls it.", true, "A still thing needs a force, a push or a pull, to start moving."], ["A ball rolls further on a thick towel than on smooth tiles.", false, "The towel pushes against the ball more, so the ball slows down and stops sooner."], ["A bigger push makes a bigger change in speed.", true, "A small push changes the speed a little, and a big push changes it a lot."], ["A force can start a thing moving, but it cannot stop one.", false, "A force can start, stop, speed up or slow down a thing."], ["The floor and the air push against a rolling ball all the time.", true, "These small pushes are why a rolling ball slows down slowly."], ["Pulling a moving cart forward makes it slow down.", false, "A pull the same way the cart moves makes it go faster."], ["A pull is a force, just like a push.", true, "A force is a push or a pull, and both can change how things move."], ["A rolling ball stops all by itself, with nothing slowing it.", false, "Something outside the ball, the floor and the air, pushes against it and slows it."]], "odd": [[["Kick", "Rope pull", "Strong wind", "Shadow"], "Shadow", "A kick, a pull on a rope and a strong wind are pushes or pulls that can move things. A shadow cannot move anything."], [["Push from the front", "Push against the movement", "Tap from the front", "Push from behind"], "Push from behind", "The first three push against the movement and slow a ball down. A push from behind speeds it up."], [["Kick", "Pull", "Push", "Waiting"], "Waiting", "A kick, a pull and a push are forces that can start a still thing. Waiting is not a force."], [["Cheetah", "Jet plane", "Racing car", "Snail"], "Snail", "A cheetah, a jet plane and a racing car have a high speed. A snail has a very low speed."], [["Thick towel", "Grass", "Sand", "Smooth tile"], "Smooth tile", "A towel, grass and sand push hard against a rolling ball and stop it soon. Smooth tiles push only a little."]]}
 }

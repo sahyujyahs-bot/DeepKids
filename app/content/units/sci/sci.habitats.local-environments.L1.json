@@ -3,12 +3,12 @@
  "title": "Homes near our home: a tree, a pond, a park and under a stone",
  "level": 1,
  "summary": {
-  "text": "Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers wet soil with a plate and finds, a few hours later, a damp home right next to dry soil.",
+  "text": "Lift a stone and the ground under it is dark, damp and cool. Earthworms, ants and pill bugs live there. A tree, a pond and a park are homes too. Your child covers half of some wet soil with a plate. A few hours later, the soil under the plate is still a damp home, right next to dry soil.",
   "art": "A park scene cut in half: on the left a lifted stone with earthworms, ants and a pill bug in the dark soil below; on the right a tree with a crow's nest, a pond with tadpoles and a lotus, and grass with a grasshopper."
  },
  "intro": {
   "hook": "Touch the floor in a sunny spot. Now touch the floor under a bucket or a doormat. Do they feel the same?",
-  "text": "They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is the same. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.",
+  "text": "They do not. The floor in the sun is usually warm and dry. The floor under the bucket is often cooler and a little damp. The ground under a stone in a park is cool and damp in the same way. Lift a stone and you may find earthworms, ants and pill bugs. We will visit homes near our home, and then make a small one.",
   "art": "A girl kneeling on a balcony, one hand on the sunny floor and one hand under an upturned steel bucket, looking surprised."
  },
  "outcomes": [
@@ -16,7 +16,7 @@
   "By the end I can say what a place gives a living being: food, water, shelter and the right warmth.",
   "By the end I can say what it is like under a stone, and who lives there.",
   "By the end I can say that one tree or one pond is home to many living beings at once.",
-  "By the end I can guess, test, and say what I saw in my plate test.",
+  "By the end I can make a guess, test it with a plate on wet soil, and say what I saw.",
   "By the end I can look at small homes gently, and put a stone back the way I found it."
  ],
  "cards_mins": 8,
@@ -367,7 +367,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the pairs. Gather all the place cards in a row and put each living being under a home.",
+     "do": "Count the pairs. Lay all the place cards in a row. Put each living being card under the place where they live.",
      "say": "Look at all the homes. Which one is the darkest and dampest?",
      "kid": "Count your pairs. Which home is the darkest and dampest?",
      "check": {
@@ -434,7 +434,7 @@
     "The child is a pill bug and crawls on hands and knees.",
     "The grown-up turns over a place card and reads the front aloud.",
     "In a dry, bright place, the pill bug crawls fast.",
-    "In a damp, dark place, the pill bug slows down and rests under the cloth.",
+    "In a damp, dark place, the pill bug slows down and rests under the cloth that hangs over the table or chair.",
     "If the card says someone touches you, the grown-up taps your shoulder. Roll up into a ball.",
     "After all 8 cards, talk about it: were you resting in damp places or in dry places?"
    ],
@@ -501,7 +501,7 @@
    "title": "The Plate on the Soil: what happens under a cover?",
    "mins": 20,
    "days": 1,
-   "context": "You wet the soil in a pot and cover half of it with a plate, like a stone. You leave the pot in the sun for about three hours. Then you look at and touch both halves.",
+   "context": "You wet the soil in a pot and cover half of it with a plate. The plate is like a stone. You leave the pot in the sun for about three hours. Then you look at both halves and touch them.",
    "question": "After a few hours in the sun, is the soil under a plate different from the soil in the open?",
    "predict": "Guess first. After three hours, will the soil under the plate be wet or dry? And the soil in the sun? Why do you think so?",
    "fair_test": "Both halves are in the same pot, with the same soil and the same water, in the same sun, for the same time. Only one thing is different: one half has a plate on top.",
@@ -604,14 +604,14 @@
        ]
       }
      ],
-     "parent": "Write down your child's guess and their reason. Use a plant that can take a few hours of sun, or a tub of soil with no plant."
+     "parent": "Write down your child's guess and their reason. Use a pot with a plant that can take a few hours of sun, or a tub of soil with no plant."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Put the pot in the sunniest window or on the balcony. Look at the clock together and note the time.",
-     "say": "Now the sun gets to work. We will come back in three hours.",
-     "kid": "Put the pot in the sun. Look at the clock. We come back in three hours.",
+     "say": "Now we leave the pot in the sun. We will come back in three hours.",
+     "kid": "Put the pot in the sun. Look at the clock. We will come back in three hours.",
      "wait": "Leave the pot in the sun for about three hours. If there is no sun today, leave it in the brightest place until evening."
     },
     {
@@ -630,7 +630,7 @@
        ]
       },
       {
-       "q": "Look under the plate itself. Do you see any drops of water?",
+       "q": "Turn the plate over and look at the side that was on the soil. Do you see any drops of water?",
        "good": [
         "Yes, there are little drops.",
         "The plate is wet underneath."
@@ -642,7 +642,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to say three things: what they think, what they saw, and why. Then look back at their guess together.",
+     "do": "Ask your child to say three things: what they think happened, what they saw, and why. Then look back at their guess together.",
      "say": "Tell me what you found. What did you see and feel? Why do you think the plate made a difference? Was your guess right?",
      "kid": "Say what you found. What did you see and feel? Why did the plate make a difference?",
      "ask": [
@@ -845,7 +845,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask how a seed got into a crack so high. Then your child draws one plant in their crack.",
+     "do": "Ask how a seed got into a crack so high. Then your child draws one plant growing in a crack.",
      "say": "Birds eat the small figs of peepal and banyan trees. The seeds come out in their droppings. How could a seed get into a crack high on a wall?",
      "kid": "How did a seed get into this crack? Draw the plant that grows in this crack.",
      "ask": [
@@ -857,7 +857,7 @@
        ]
       }
      ],
-     "think": "A crack has only a little soil. What does the plant find there that they need?"
+     "think": "A crack has only a little soil. What does the plant need that the crack gives?"
     }
    ]
   },
@@ -928,7 +928,7 @@
    "title": "A Stone Home on the Balcony",
    "mins": 20,
    "days": 3,
-   "context": "In this three-day project you make a small damp, dark place with a tile on soil, like a stone. Each morning you lift the tile slowly to see if anyone has moved in. Then you put the tile back gently.",
+   "context": "In this three-day project you lay a tile on damp soil. This makes a small damp, dark place, like the ground under a stone. Each morning you lift the tile slowly to see if anyone has moved in. Then you put the tile back gently.",
    "materials": [
     {
      "item": "a plant pot, a tray or a bowl of soil",
@@ -1065,7 +1065,7 @@
      "id": "s2",
      "adult": true,
      "mins": 10,
-     "do": "Your child chooses a plate and a stone and sets them up. Pour in water no deeper than a finger.",
+     "do": "Your child chooses a plate and a stone and sets them up. Pour in water no deeper than the first knuckle of a finger.",
      "say": "Why should the water be shallow? Why should it be in the shade?",
      "kid": "Choose a plate. Put a stone in the middle. Pour in a little water.",
      "parent": "Place it where it cannot fall from a height. Change the water every day."
@@ -1153,9 +1153,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw the soil from your plate test. Colour the wet soil dark brown and the dry soil pale.",
+     "p": "Draw the soil from the Plate on the Soil test. Colour the wet soil dark brown and the dry soil pale.",
      "a": "The half that was under the plate is coloured dark. The half in the sun is pale.",
-     "why": "A strong drawing shows the two halves different, as the child saw: dark and damp under the plate, pale and dry in the sun.",
+     "why": "A strong drawing shows the two halves looking different, the way the child saw them: dark and damp under the plate, pale and dry in the sun.",
      "how": "e1",
      "art": "An empty circle for the top of a plant pot, split in half by a dotted line."
     },
@@ -1163,7 +1163,7 @@
      "t": "count",
      "p": "Count the animals in this picture of a tree: a crow on a nest, two squirrels, three ants on the bark, and a kite string caught in the branches.",
      "a": 6,
-     "why": "One crow, two squirrels and three ants make 6 animals. The kite string was never alive. The tree is alive too, but the tree is a plant.",
+     "why": "One crow, two squirrels and three ants make 6 animals. The kite string is not alive. The tree is alive, but the tree is a plant, not an animal.",
      "art": "A tree with a crow on a nest, two squirrels, three ants on the bark and a kite string caught in a branch."
     },
     {
@@ -1246,14 +1246,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 1, lays a tile on damp soil in a sunny pot. After lunch, she lifts the tile. What will she most likely find?",
+     "p": "You lay a tile on damp soil in a sunny pot. After lunch, you lift the tile. What will you most likely find?",
      "opts": [
       "Dry, pale soil",
       "Damp, dark soil",
       "Hot sand"
      ],
      "a": 1,
-     "why": "The tile keeps off the sun and holds the water in, just like the plate in our test. Dry, pale soil is what the open half looks like.",
+     "why": "The tile keeps off the sun and holds the water in, just like the plate in the Plate on the Soil test. Dry, pale soil is what you find on the open half, with no cover.",
      "how": "e1"
     },
     {
@@ -1408,7 +1408,7 @@
    "channel": "Deep Look",
    "youtube": "sj8pFX9SOXE",
    "mins": 4,
-   "why": "Shows a pill bug up close and how it rolls into a ball, which a child may never see up close.",
+   "why": "Shows a pill bug up close, and how a pill bug rolls into a ball. A child may never have seen this.",
    "check": "Found by search: \"Roly Polies Came From the Sea to Conquer the Earth\" by Deep Look, 3 minutes, 30 seconds. A parent may preview it."
   },
   {
@@ -1503,7 +1503,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the plate test, which soil was cooler to touch?",
+   "p": "In the Plate on the Soil test, which soil was cooler to touch?",
    "opts": [
     "The soil under the plate",
     "The soil in the open sun",
@@ -1540,7 +1540,7 @@
   },
   {
    "t": "mcq",
-   "p": "Paati's ants carried their white young away when she tipped the pot. Why?",
+   "p": "In the story The Old Pot on Paati's Balcony, Paati tipped the pot. The ants carried their white young ones away. Why?",
    "opts": [
     "The young ones need a dark place, and the pot's roof was gone",
     "The young ones wanted to see the sun",
@@ -1590,7 +1590,7 @@
   },
   {
    "q": "What does a pill bug sense and feel when the stone above them is lifted?",
-   "why_open": "Pill bugs sense light, touch and damp. What that is like from inside a pill bug, nobody knows."
+   "why_open": "Pill bugs sense light, touch and damp. Nobody knows what that feels like for a pill bug."
   }
  ],
  "ask_kids": [
@@ -1636,16 +1636,16 @@
  ],
  "maths": [
   {
-   "problem": "In the plate test, Selvi, a girl in Class 1, put the plate on the soil at 9 o'clock. She lifted the plate at 12 o'clock. How many hours did the plate stay on?",
+   "problem": "In the plate test, you put the plate on the soil at 9 o'clock. You lift the plate at 12 o'clock. How many hours did the plate stay on?",
    "answer": "3 hours.",
-   "explain": "From 9 to 10 is one hour, 10 to 11 is two, and 11 to 12 is three. So the plate stayed on for 3 hours.",
+   "explain": "From 9 to 10 is one hour. From 10 to 11 makes two hours. From 11 to 12 makes three hours. So the plate stayed on for 3 hours.",
    "math_unit": "math.time.daily-time.L1",
    "how": "e1",
    "context": "This is about the plate test, where you covered half the soil and left the pot in the sun.",
    "why_maths": "Knowing how long the plate stayed on lets us compare our test with a friend's, and try a longer or shorter time."
   },
   {
-   "problem": "Revathi, a girl in Class 1, counted small plants growing in wall cracks. She found 4 on the shady wall and 1 on the sunny wall. Which wall had more plants? Why might that be?",
+   "problem": "You counted small plants growing in wall cracks. You found 4 on the shady wall and 1 on the sunny wall. Which wall had more plants? Why might that be?",
    "answer": "The shady wall had more plants, 4 instead of 1.",
    "explain": "4 is more than 1. A shady wall stays damp for longer after rain, so small plants and moss can live there more easily.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1654,9 +1654,9 @@
    "why_maths": "Comparing the two counts shows a pattern, and the pattern makes us ask why shade helps plants in cracks."
   },
   {
-   "problem": "Mahi, a girl in Class 1, laid a tile on damp soil on day 1. On day 2 she lifted it and found 2 ants. On day 3 she found 5 ants. Which day had more ants? What is happening to the number?",
+   "problem": "You laid a tile on damp soil on day 1. On day 2 you lifted the tile and found 2 ants. On day 3 you found 5 ants. Which day had more ants? What is happening to the number?",
    "answer": "Day 3 had more ants, 5. The number is going up.",
-   "explain": "2, then 5: there were more ants on day 3 than on day 2. More ants were finding the damp, dark place.",
+   "explain": "There were 2 ants on day 2 and 5 ants on day 3. 5 is more than 2. More ants were finding the damp, dark place.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "p1",
    "context": "This is about the stone home project, where you lifted a tile each morning to see who had moved in.",
@@ -1803,7 +1803,7 @@
   "deep_truth": {
    "truth": "We covered half of some wet soil with a plate and left it in the sun for three hours. Under the plate, the soil stayed dark, damp and cool. In the open, the same soil turned pale and dry. So a flat cover makes a new place, where animals that need damp can live.",
    "habit": "We think of a home as a big place, like a forest or a pond. But a home can be as small as the ground under one stone.",
-   "evidence": "In the plate test, the same soil, the same water and the same sun gave two different places a hand apart. Only the plate was different."
+   "evidence": "In the plate test, both halves had the same soil, the same water and the same sun. Only the plate was different. Yet the two halves, a hand's width apart, became two different places."
   },
   "three": {
    "who_am_i": "You are an animal who looks for a cool, shady place on a hot day, just as a pill bug does under a stone.",
@@ -1815,7 +1815,7 @@
    {
     "source": "Tolkappiyam, Porulatikaram (Akattinaiyiyal)",
     "teaching": "The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has its own trees, flowers, birds and animals.",
-    "link": "Our plate test found two different homes a hand apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings."
+    "link": "In the plate test, the damp soil under the plate and the dry soil in the open were two different homes, a hand's width apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings."
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1",
@@ -1858,5 +1858,5 @@
   "art": "A woman in a long dress of the 1600s at a table, painting a caterpillar and a butterfly on a leafy branch, with a box of caterpillars on leaves beside her."
  },
  "playtest": "Walked through both games, the plate test, the four activities, the stone-home project and the bird-water challenge as a parent and a child would in a flat, and checked minutes, step ids, schedules and counts. Earlier fixes: game 1 prints 12 plain cards with an ending rule; repeated questions, an overnight step, assumed family members and weak jokes were cut; safety lines were added where real. This pass: game 2 now uses the cloth it asks for and says who taps the shoulder, game 1 says whose turn comes next, the project maths now matches the two lifts in the project, and three repeated questions (plate cooler, ants moving their young, pill bug not an insect) were replaced.",
- "warm": {"words": ["WORMS", "STONE", "WATER", "GRASS", "SHADE"], "quiz": [["The ground under a stone is dark, damp and cool.", true, "The stone keeps off the sun and holds the water in."], ["It is hotter under a stone than on top of the stone in the sun.", false, "The stone keeps off the sun, so under it is cool."], ["An earthworm needs damp skin to breathe.", true, "A worm stays in damp soil because dry skin cannot take in air."], ["Pill bugs gather under stones and pots, where it is damp and dark.", true, "Pill bugs like damp, dark places, so we find them there."], ["Most small animals under a stone will hurt you.", false, "Earthworms, pill bugs and ants do not hurt people, though a centipede or scorpion can bite or sting."], ["A pond with green water is always a dead pond.", false, "The green colour comes from tiny living algae, which many pond animals eat."], ["Wild habitats are only in forests, far away from cities.", false, "A city tree, a lake and the soil under a pot are habitats for crows, squirrels, frogs and ants."], ["One tree gives homes and food to many living beings at once.", true, "Birds, squirrels, ants and many more can live in or eat from one tree."], ["A park is one habitat, with the same living beings everywhere.", false, "Grass, flowers and soil are different habitats, each with their own living beings."], ["A pond is still water where water plants and water animals live.", true, "A pond is a home in water for living beings who need to stay wet."]], "odd": [[["Wet soil", "Under a flower pot", "Under a stone", "Hot dry road"], "Hot dry road", "The first three are damp places where small animals live; a hot dry road is not damp."], [["Fish", "Water plant", "Tadpole", "Squirrel"], "Squirrel", "Fish, water plants and tadpoles live in a pond; a squirrel lives on land and in trees."], [["Hot sun", "Heavy rain", "Hungry animal", "Tree hole"], "Tree hole", "A shelter keeps a living being safe from the sun, rain and danger; the tree hole is a shelter."], [["Grass", "Moss", "Lotus", "Earthworm"], "Earthworm", "Grass, moss and lotus are plants that stay in one place; an earthworm is an animal that moves."], [["Earthworm", "Pill bug", "Ant", "Scorpion"], "Scorpion", "Earthworms, pill bugs and ants do not hurt people; a scorpion can sting."]]}
+ "warm": {"words": ["WORMS", "STONE", "WATER", "GRASS", "SHADE"], "quiz": [["The ground under a stone is dark, damp and cool.", true, "The stone keeps off the sun and holds the water in."], ["It is hotter under a stone than on top of the stone in the sun.", false, "The stone keeps off the sun, so under it is cool."], ["An earthworm needs damp skin to breathe.", true, "A worm stays in damp soil because dry skin cannot take in air."], ["Pill bugs gather under stones and pots, where it is damp and dark.", true, "Pill bugs like damp, dark places, so we find them there."], ["Most small animals under a stone will hurt you.", false, "Earthworms, pill bugs and ants do not hurt people, though a centipede or scorpion can bite or sting."], ["A pond with green water is always a dead pond.", false, "The green colour comes from tiny living algae, which many pond animals eat."], ["Wild habitats are only in forests, far away from cities.", false, "A city tree, a lake and the soil under a pot are habitats for crows, squirrels, frogs and ants."], ["One tree gives homes and food to many living beings at once.", true, "Birds, squirrels, ants and many more can live in or eat from one tree."], ["A park is one habitat, with the same living beings everywhere.", false, "Grass, flowers and soil are different habitats, each with their own living beings."], ["A pond is still water where water plants and water animals live.", true, "A pond is a home in water for living beings who need to stay wet."]], "odd": [[["Wet soil", "Under a flower pot", "Under a stone", "Hot dry road"], "Hot dry road", "The other three are damp places where small animals live. A hot dry road is not damp."], [["Fish", "Water plant", "Tadpole", "Squirrel"], "Squirrel", "Fish, water plants and tadpoles live in a pond; a squirrel lives on land and in trees."], [["Hot sun", "Heavy rain", "Hungry animal", "Tree hole"], "Tree hole", "A shelter keeps a living being safe from the sun, rain and danger; the tree hole is a shelter."], [["Grass", "Moss", "Lotus", "Earthworm"], "Earthworm", "Grass, moss and lotus are plants that stay in one place; an earthworm is an animal that moves."], [["Earthworm", "Pill bug", "Ant", "Scorpion"], "Scorpion", "Earthworms, pill bugs and ants do not hurt people; a scorpion can sting."]]}
 }

@@ -63,7 +63,7 @@
    "concept": "Why we wash our hands",
    "status": "defined",
    "definition": "Washing hands with soap and water takes away dirt and germs, so they cannot get from our hands into our mouths.",
-   "description": "Your hands touch door handles, toys, the floor and your nose. Germs from those things stay on your hands. If you eat with your fingers, the germs go into your mouth. Some can give you a tummy upset or a cold. Water alone washes off loose dirt. But skin is a little oily, and oil holds on to germs. Soap lifts the oil, and the water carries it away. Rub all six parts: palms, backs of the hands, between the fingers, backs of the fingers, thumbs, and fingertips in the palm. Rub for 20 seconds. That is Happy Birthday sung twice.",
+   "description": "Your hands touch door handles, toys, the floor and your nose. Germs from those things stay on your hands. If you eat with your fingers, the germs go into your mouth. Some can give you a tummy upset or a cold. Water alone washes off loose dirt. But skin is a little oily, and oil holds on to germs. Soap lifts the oil, and the water carries it away. Rub all six parts: palms, backs of the hands, between the fingers, backs of the fingers, thumbs, and fingertips (scratch them in your palm). Rub for 20 seconds. That is Happy Birthday sung twice.",
    "examples": [
     "Before you eat, and after you use the toilet, wash with soap.",
     "After playing outside, or touching a pet, wash with soap.",
@@ -502,7 +502,7 @@
    "items": [
     {
      "t": "draw",
-     "p": "Remember the biscuit test? Draw a back tooth. Draw where the crumbs stayed after you swished water.",
+     "p": "In the Biscuit Test, you ate a biscuit and swished water round your mouth. Draw a back tooth. Draw where the crumbs stayed after the swish.",
      "a": "A wide tooth with grooves on top, and crumbs drawn inside the grooves.",
      "why": "A strong drawing shows the grooves on top of the back tooth and puts the crumbs inside them, because that is where water did not reach.",
      "how": "e1",
@@ -547,11 +547,11 @@
     },
     {
      "t": "mcq",
-     "p": "A child has a new big tooth at the back, with little hills and valleys on top. After eating puttu, where is the food most likely to hide?",
+     "p": "You have a new big tooth at the back, with little hills and valleys on top. After you eat puttu, where is the food most likely to hide?",
      "opts": [
       "In the grooves on top of the tooth",
-      "On the tip of her tongue",
-      "Behind her ear"
+      "On the tip of your tongue",
+      "Behind your ear"
      ],
      "a": 0,
      "why": "A back tooth has little hills and valleys on top. Food hides in those valleys, which are called grooves."
@@ -623,14 +623,14 @@
     },
     {
      "t": "mcq",
-     "p": "Nila, a girl of 6 in Madurai, only brushes her front teeth. What is she missing?",
+     "p": "If you only brush your front teeth, what are you missing?",
      "opts": [
       "The back teeth, where food hides",
       "Nothing, the front is enough",
-      "Her tongue only"
+      "Only the tongue"
      ],
      "a": 0,
-     "why": "Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the biscuit test."
+     "why": "Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the Biscuit Test: after a swish of water, crumbs stayed in the grooves of the back teeth."
     },
     {
      "t": "draw",
@@ -723,7 +723,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl of 6 in Kochi, smells her socks after a hot day. Where does the smell come from?",
+     "p": "Socks can smell after a hot day. Where does the smell come from?",
      "opts": [
       "Tiny beings on the skin, who feed on sweat",
       "The sweat itself, which always smells strong",
@@ -789,10 +789,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Look at the teeth, eat a biscuit, rinse, brush, and look after each one."
+     "what": "Look at the teeth. Eat a biscuit, rinse with water, then brush. Look at the teeth again after each step."
     }
    ],
-   "record": "A tooth map: a big U shape for the teeth. Colour where crumbs were after rinsing in one colour, and after brushing in the other.",
+   "record": "A tooth map: draw a big U shape for the teeth. Use one colour to mark where crumbs were after rinsing. Use a second colour to mark where crumbs were after brushing.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -971,7 +971,7 @@
    "context": "In this experiment you wipe a damp white cloth on your skin before a bath, and again after it. You look at the cloth to see what the bath took away.",
    "question": "Does our skin carry dirt we cannot see? Does a bath take it away?",
    "predict": "Your skin looks clean. If we wipe it with a white cloth before your bath, will the cloth get dirty? What about after the bath? Why do you think so?",
-   "fair_test": "We wipe the same three places each time: the back of the neck, the inside of the elbow and the sole of one foot. We use the same kind of cloth, made just damp, and wipe each place three times. Each place gets a new square.",
+   "fair_test": "We wipe the same three places each time: the back of the neck, the inside of the elbow and the sole of one foot. We use the same kind of cloth, made just damp, and wipe each place three times. Each place gets a new square of cloth.",
    "results_table": [
     "Place on my body",
     "Before the bath: mark on the cloth?",
@@ -998,7 +998,7 @@
      "what": "Wipe three places before the bath and three after. Compare the cloths."
     }
    ],
-   "record": "Lay the six squares on paper in two rows: before and after. Draw them, or keep them dry in an envelope.",
+   "record": "Lay the six cloth squares on paper in two rows: before the bath and after the bath. Draw them, or keep them dry in an envelope.",
    "setup": [
     {
      "art": "A grown-up wiping the back of a child's neck with a small damp white cloth square, with two more squares on a sheet of paper.",
@@ -1042,7 +1042,7 @@
      "do": "1. Your child has their bath as usual, with soap. 2. After drying, wipe the same three places with three new damp squares. 3. Put them in a second row under the first.",
      "say": "Now you have had your bath. Let's wipe the same places again, with new cloths. Neck, elbow, foot.",
      "kid": "After your bath, wipe the same three places. Use new cloths. Put them in a second row.",
-     "parent": "The bath itself does not count in the minutes. Do this right after drying, before the feet walk on the floor again."
+     "parent": "The time for the bath is not counted in the time for this experiment. Do this step right after drying, before the feet walk on the floor again."
     },
     {
      "id": "s4",
@@ -1082,7 +1082,7 @@
    "context": "In this experiment you feel your teeth with your tongue in the morning, before and after brushing. You do it two mornings in a row. You find out if the fuzzy feeling comes back.",
    "question": "Our teeth feel fuzzy in the morning. After we brush, does the fuzz stay away, or does it come back?",
    "predict": "After you brush tonight, will your teeth feel fuzzy again tomorrow morning? Why do you think so?",
-   "fair_test": "We feel the same teeth, the back teeth, with the tongue each time. We feel them at the same time: right after waking up, and right after brushing.",
+   "fair_test": "Each time, we feel the same teeth, the back teeth, with the tongue. We feel them at the same two times each morning: right after waking up, and right after brushing.",
    "results_table": [
     "When",
     "Before brushing: smooth or fuzzy?",
@@ -1420,7 +1420,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird preening their feathers with their beak, or an ant cleaning her feelers. 3. Draw what you saw, or draw your favourite animal from the game.",
+     "do": "1. Look out of the window or at the balcony for a minute or two. 2. Look for a bird combing their feathers with their beak (this is called preening), or an ant cleaning her feelers. 3. Draw what you saw, or draw your favourite animal from the game.",
      "say": "Let's watch the window for a little while. Can you see a bird combing their feathers with their beak?",
      "kid": "Look out of the window. Is a bird combing their feathers with their beak? Draw what you see.",
      "parent": "Crows and pigeons often preen on ledges. If no bird comes, that is fine: draw an animal from the acting game. If you leave a shallow dish of water on the balcony, a crow or pigeon may come to bathe over the next few days."
@@ -1788,7 +1788,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before testing, Bindu, a girl of 6, said 'I think the water will wash all the crumbs away.' What was that?",
+   "p": "Before the Biscuit Test, you might say: 'I think the water will wash all the crumbs away.' What is that?",
    "opts": [
     "A guess, to check with a test",
     "The answer",
@@ -1891,14 +1891,14 @@
   {
    "problem": "In the biscuit test, you looked at 4 back teeth. After a water rinse, 3 of them still had crumbs in the grooves. How many were clean?",
    "answer": "1 back tooth was clean.",
-   "explain": "4 teeth take away the 3 with crumbs leaves 1. So most of the back teeth kept crumbs after the rinse.",
+   "explain": "Take the 3 teeth with crumbs away from the 4 teeth, and 1 is left. So most of the back teeth kept crumbs after the rinse.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
    "context": "This is about the biscuit test, where you ate a biscuit and looked at your teeth after a water rinse.",
    "why_maths": "Counting the teeth that kept crumbs shows how often water missed the grooves."
   },
   {
-   "problem": "Malini brushes her teeth 2 times every day. How many times does she brush in 3 days?",
+   "problem": "You brush your teeth 2 times every day. How many times do you brush in 3 days?",
    "answer": "6 times.",
    "explain": "2 and 2 and 2 make 6. Count in twos: 2, 4, 6.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1916,7 +1916,7 @@
    "why_maths": "Comparing the two rows shows which habit needs help."
   },
   {
-   "problem": "Your mouth has 4 parts: top left, top right, bottom left and bottom right. You brush each part for 30 counts. Which pattern shows the right order to go round the mouth, so no part is missed?",
+   "problem": "Your mouth has 4 parts: top left, top right, bottom left and bottom right. You brush each part for 30 counts. In what order can you go round the mouth, so that no part is missed?",
    "answer": "Any order that visits each of the 4 parts once, for example top left, top right, bottom right, bottom left.",
    "explain": "There are many right answers. A good one goes round in a circle, so you always know which part comes next and none is missed.",
    "math_unit": "math.position.position-words.L1",
@@ -2051,18 +2051,18 @@
   ]
  },
  "roots": {
-  "context": "We have looked into our own mouths, and found where food stays after we eat. Now we ask what that tells us about ourselves, and about who we share our bodies with.",
+  "context": "In the Biscuit Test, we looked into our own mouths and found where food stays after we eat. Now we ask what that tells us about ourselves, and about the tiny living beings who share our bodies.",
   "deep_truth": {
    "truth": "In the biscuit test, crumbs stayed in the grooves of your back teeth after a rinse. Tiny living beings in your mouth eat those leftovers. So every time you eat, you feed them too. Brushing takes their leftovers away, so they make less of the acid that wears teeth.",
    "habit": "We think of a meal as ours alone, and of our mouth as only ours. But many kinds of living beings share every meal we eat, right there on our teeth.",
-   "evidence": "After a water rinse, crumbs stayed in the grooves of the back teeth, and only the brush took them out. Every morning the fuzzy plaque was back, built overnight by the bacteria who live in the mouth."
+   "evidence": "In the Biscuit Test, crumbs stayed in the grooves of the back teeth after a water rinse, and only the brush took them out. In the Morning Tongue Test, the fuzzy plaque was back every morning, built overnight by the bacteria who live in the mouth."
   },
   "three": {
    "who_am_i": "You are a home. Many kinds of tiny living beings live in your mouth and on your skin.",
    "what_is_life": "Every living being eats and keeps their body in order: a bacterium, a cat licking her fur, and you with your toothbrush.",
    "what_is_this_world": "The water that washes you came from rain and rivers. It goes back to them, carrying what it washed off you."
   },
-  "thread": "One meal feeds many lives at once. The rice on your plate feeds you, and the crumbs left on your teeth feed the bacteria in your mouth. Your body is one home where many kinds of life live together. Keeping clean does not empty that home. It keeps the many lives in it in balance with you.",
+  "thread": "One meal feeds many lives at once. The rice on your plate feeds you, and the crumbs left on your teeth feed the bacteria in your mouth. Your body is a home where many kinds of tiny living beings live. Keeping clean does not remove all of them. It keeps their numbers small, and keeps the harmful kinds out of your mouth.",
   "teachings": [
    {
     "source": "Thirukkural 298, by Thiruvalluvar",
@@ -2072,7 +2072,7 @@
    {
     "source": "Thich Nhat Hanh, Present Moment Wonderful Moment (1990), the verse for turning on the water",
     "teaching": "Water flows from high in the mountains, and runs deep in the Earth. It comes to us, and keeps all life going.",
-    "link": "The water in your tap came a long way, from rain and rivers, before it washed your hands. Every hand wash is a meeting with that water."
+    "link": "The water in your tap came a long way, from rain and rivers, before it washed your hands. Every time you wash your hands, you use that water."
    }
   ],
   "science": [
@@ -2092,8 +2092,8 @@
   "practice": {
    "title": "A tongue tour of your teeth",
    "mins": 3,
-   "say": "Close your eyes. Close your mouth. Now, slowly, let your tongue walk along your teeth. Start at the front. Feel how thin and smooth the front teeth are. Now walk to the back. Feel the wide back teeth, and the little grooves on top. Many tiny beings live here, in this home that is you. Take one slow breath in through your nose, and out. Open your eyes.",
-   "kid": "Close your eyes and your mouth. Walk your tongue slowly along your teeth. Feel the smooth front teeth. Feel the bumpy back teeth. Take one slow breath."
+   "say": "Close your eyes. Close your mouth. Now, slowly, move your tongue along your teeth. Start at the front. Feel how thin and smooth the front teeth are. Now move to the back. Feel the wide back teeth, and the little grooves on top. Many tiny beings live here, in your mouth. Take one slow breath in through your nose, and out. Open your eyes.",
+   "kid": "Close your eyes and your mouth. Move your tongue slowly along your teeth. Feel the smooth front teeth. Feel the bumpy back teeth. Take one slow breath."
   },
   "ask": [
    "If tiny beings eat every meal with you, is your mouth only yours?",
@@ -2110,5 +2110,5 @@
   "wrong_idea": "That holes in teeth are made by a tooth worm. No one ever found a tooth worm. Leeuwenhoek saw tiny living beings in plaque instead, and Miller showed that their acid softens teeth.",
   "art": "A man in a long old-fashioned coat holding a tiny hand-held microscope up to his eye by a window, with a small dish of water on the table."
  },
- "warm": {"words": ["CLEAN", "GERMS", "TEETH", "WATER", "BRUSH"], "quiz": [["Washing hands with soap and water helps stop illnesses from spreading.", true, "Soap and water lift dirt and germs off, so they cannot get into our mouths."], ["If your front teeth look clean after a rinse, your whole mouth is clean.", false, "Crumbs still sit in the grooves of the back teeth, and only brushing reaches them."], ["Tiny living beings in your mouth eat the food left on your teeth.", true, "They make an acid that can wear teeth away, so we brush the leftovers off."], ["Brushing very hard cleans teeth better.", false, "Plaque is soft and comes off gently; brushing very hard can hurt the gums."], ["Soap helps water carry away oil and dirt from your skin.", true, "Soap lifts oil, dirt and germs off the skin so the water can wash them away."], ["Milk teeth fall out anyway, so they do not need brushing.", false, "A hole in a milk tooth can hurt, and milk teeth keep space for the grown-up teeth."], ["Most of the tiny living beings on your skin do you no harm.", true, "Many of them help you, and some keep harmful kinds away just by living there."], ["Washing hands only matters when they look dirty.", false, "Germs are too small to see, so clean-looking hands can still carry them."], ["A bath washes away sweat, dust and old skin from the whole body.", true, "Sweat, dust, oil and old skin gather on us through the day."], ["Playing in a little dirt means you never need to wash your hands.", false, "Washing before eating and after the toilet still stops many illnesses."]], "odd": [[["Before eating", "After the toilet", "After playing outside", "While asleep"], "While asleep", "We wash hands when germs could reach our mouths; asleep, our hands are not near food."], [["Acid", "Sugar left on teeth", "Plaque", "Fluoride toothpaste"], "Fluoride toothpaste", "Acid, sugar and plaque harm teeth; fluoride toothpaste helps stop holes in teeth."], [["Cat licking fur", "Sparrow dust bath", "Elephant spraying water", "Dog sleeping"], "Dog sleeping", "The other animals are cleaning their bodies; a sleeping dog is resting."], [["Brush back teeth", "Brush gently", "Brush twice a day", "Brush very hard"], "Brush very hard", "The other three keep teeth clean safely; brushing very hard can hurt the gums."], [["Soap", "Water", "Toothbrush", "Biscuit"], "Biscuit", "Soap, water and a toothbrush take dirt away; a biscuit leaves crumbs behind."]]}
+ "warm": {"words": ["CLEAN", "GERMS", "TEETH", "WATER", "BRUSH"], "quiz": [["Washing hands with soap and water helps stop illnesses from spreading.", true, "Soap and water lift dirt and germs off, so they cannot get into our mouths."], ["If your front teeth look clean after a rinse, your whole mouth is clean.", false, "Crumbs still sit in the grooves of the back teeth, and only brushing reaches them."], ["Tiny living beings in your mouth eat the food left on your teeth.", true, "They make an acid that can wear teeth away, so we brush the leftovers off."], ["Brushing very hard cleans teeth better.", false, "Plaque is soft and comes off gently; brushing very hard can hurt the gums."], ["Soap helps water carry away oil and dirt from your skin.", true, "Soap lifts oil, dirt and germs off the skin so the water can wash them away."], ["Milk teeth fall out anyway, so they do not need brushing.", false, "A hole in a milk tooth can hurt, and milk teeth keep space for the grown-up teeth."], ["Most of the tiny living beings on your skin do you no harm.", true, "Many of them help you, and some keep harmful kinds away just by living there."], ["Washing hands only matters when they look dirty.", false, "Germs are too small to see, so clean-looking hands can still carry them."], ["A bath washes away sweat, dust and old skin from the whole body.", true, "Sweat, dust, oil and old skin gather on us through the day."], ["Playing in a little dirt means you never need to wash your hands.", false, "Washing before eating and after the toilet still stops many illnesses."]], "odd": [[["Before eating", "After the toilet", "After playing outside", "While asleep"], "While asleep", "We wash our hands when germs could reach our mouths. When we are asleep, our hands are not near food."], [["Acid", "Sugar left on teeth", "Plaque", "Fluoride toothpaste"], "Fluoride toothpaste", "Acid, sugar and plaque harm teeth; fluoride toothpaste helps stop holes in teeth."], [["Cat licking fur", "Sparrow dust bath", "Elephant spraying water", "Dog sleeping"], "Dog sleeping", "The other animals are cleaning their bodies; a sleeping dog is resting."], [["Brush back teeth", "Brush gently", "Brush twice a day", "Brush very hard"], "Brush very hard", "The other three keep teeth clean safely; brushing very hard can hurt the gums."], [["Soap", "Water", "Toothbrush", "Biscuit"], "Biscuit", "Soap, water and a toothbrush take dirt away; a biscuit leaves crumbs behind."]]}
 }

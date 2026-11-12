@@ -50,9 +50,9 @@
    "concept": "A push or a pull makes a still thing move",
    "status": "defined",
    "definition": "A thing that is still stays still until something pushes or pulls it. Scientists call every push and every pull a force.",
-   "description": "The ball on the floor stayed still for a whole minute. It started to roll only when your finger pushed it. The box in the box test stayed by the start line until your hand pushed it. A swing hangs still until someone pushes it. A pull works too: a toy on a string moves when you pull the string. Scientists use one word for every push and every pull. They call it a force.",
+   "description": "The ball on the floor stayed still for a whole minute. It started to roll only when your finger pushed it. In the Little Push, Big Push test, the box stayed behind the start line until your hand pushed it. A swing hangs still until someone pushes it. A pull works too: a toy on a string moves when you pull the string. Scientists use one word for every push and every pull. They call it a force.",
    "examples": [
-    "In the box test, the box stayed still until your hand pushed it.",
+    "In the Little Push, Big Push test, the box stayed still until your hand pushed it.",
     "A football sits on the ground until someone kicks it.",
     "A bucket of water comes up from a well only when someone pulls the rope."
    ],
@@ -78,28 +78,28 @@
    "concept": "A bigger push sends a thing further",
    "status": "defined",
    "definition": "A gentle push makes a thing move slowly, and it stops soon. A big push makes it move fast, and it goes further.",
-   "description": "In the box test, your gentle push sent the empty box only a little way. Your big push sent the same box much further. A big push makes the box move faster. The floor rubs on the box and slows it down. A fast box takes longer to slow down, so it slides further before it stops. This is why you kick a ball hard to send it far.",
+   "description": "In the Little Push, Big Push test, your gentle push sent the empty box only a little way. Your big push sent the same box much further. A big push makes the box move faster. The floor rubs on the box and slows it down. A fast box takes longer to slow down, so it slides further before it stops. This is why you kick a ball hard to send it far.",
    "examples": [
-    "In the box test, the gentle push sent the box about one foot step. The big push sent it many steps.",
+    "In the Little Push, Big Push test, the gentle push sent the box about one foot step. The big push sent it many steps.",
     "A bigger push on a swing sends it higher.",
     "A carrom striker flicked hard shoots across the board. A soft flick stops halfway."
    ],
    "perspectives": [],
-   "context": "This card is about the box test, where you gave a box a gentle push and a big push.",
+   "context": "This card is about the Little Push, Big Push test, where you gave a box a gentle push and a big push.",
    "art": "Two lunch boxes on a tiled floor: one stopped close to a start line after a gentle push, and one far away after a big push, each with a chappal beside it as a marker."
   },
   {
    "concept": "A heavy thing needs a bigger push or pull",
    "status": "defined",
    "definition": "A heavy thing is harder to start moving than a light thing. It needs a bigger push or a bigger pull.",
-   "description": "When you filled the box with rice, the same big push sent it only a short way. In the Pull-Along Train, the rubber band stretched a little for one box. It stretched much longer for three boxes. A longer stretch means a bigger pull. So heavy things need bigger pushes and pulls. That is why people push a stuck car together, and why a tractor, a big machine, pulls a heavy trolley.",
+   "description": "In the Little Push, Big Push test, you filled the box with rice. Then the same big push sent it only a short way. In the Pull-Along Train, the rubber band stretched a little for one box. It stretched much longer for three boxes. A longer stretch means a bigger pull. So heavy things need bigger pushes and pulls. That is why people push a stuck car together, and why a tractor, a big machine, pulls a heavy trolley.",
    "examples": [
-    "In the box test, the full box slid only a short way after a big push.",
+    "In the Little Push, Big Push test, the full box slid only a short way after a big push.",
     "In the Pull-Along Train, the rubber band stretched longest for three loaded boxes.",
     "Many people together push a heavy fishing boat down the beach. One person alone cannot."
    ],
    "perspectives": [],
-   "context": "This card is about the full box and the Pull-Along Train, where heavy things needed bigger pushes and pulls.",
+   "context": "This card is about the Little Push, Big Push test and the Pull-Along Train, where heavy things needed bigger pushes and pulls.",
    "art": "A child pulling a train of three cardboard boxes on a string, with a rubber band in the string stretched long."
   }
  ],
@@ -113,7 +113,7 @@
    "evidence": "Anyone can test it. A ball left on a flat floor stays put. It moves when a push, a pull, a slope or a gust of wind acts on it."
   },
   {
-   "text": "A heavier thing needs a bigger push or pull to move it the same way.",
+   "text": "A heavier thing needs a bigger push or pull to move it.",
    "evidence": "An empty box slides far with one push, but a full one hardly moves. People use machines and many hands to move very heavy things."
   }
  ],
@@ -145,7 +145,7 @@
  ],
  "big_questions": [
   {
-   "q": "In the box test, your hand let go at the start line. Why did the box keep sliding for a while after that?",
+   "q": "In the Little Push, Big Push test, your hand let go of the box at the start line. Why did the box keep sliding for a while after that?",
    "kind": "deep",
    "hint": "Nothing pushed it after your hand let go. What slowed it down in the end? Try it on a mat and on tiles."
   },
@@ -189,7 +189,7 @@
    "'One push is small,' said Paati. 'Six pushes together are big. That is why we all push together.'",
    "Selvi found an empty fish basket instead. One little push, and it slid right across the sand. 'A light thing needs only a little push,' she told Muthu.",
    "In the evening, the fishers came back. Then it was time to bring in the big net. Out in the sea, a long net was full of fish. Two long ropes ran from it to the beach.",
-   "Everyone stood in a line on the rope: Paati at the front, then Selvi, then Muthu at the very end. They pulled together, hand over hand.",
+   "Everyone stood in a line along the rope: Paati at the front, then Selvi, then Muthu at the very end. They pulled together, hand over hand.",
    "Slowly, slowly, the net came up out of the sea. Silver fish jumped and flapped on the sand.",
    "On the way home, Selvi stopped. A line of ants was crossing the path. Four ants were pulling a grain of rice. One more ant pushed from behind.",
    "'Look, Muthu,' said Selvi. 'They're doing it like us. Some pull and some push.'",
@@ -385,7 +385,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 1, pushes an empty box gently, then hard. Which push sends it further?",
+      "q": "You push an empty box gently, then hard. Which push sends it further?",
       "options": [
        "The hard push",
        "The gentle push",
@@ -394,7 +394,7 @@
       "a": 0,
       "why": "A bigger push makes the box move faster, so it slides further before the floor slows it to a stop."
      },
-     "parent": "Wait for your child's own claim and evidence first. Then say it plainly: a bigger push sends a thing further, and a heavy thing needs a bigger push."
+     "parent": "Let your child say what they found, and how they know, first. Then say it plainly: a bigger push sends a thing further, and a heavy thing needs a bigger push."
     }
    ]
   },
@@ -615,14 +615,14 @@
      "kid": "Answer one question.",
      "check": {
       "t": "mcq",
-      "q": "A girl called Meena closes a kitchen drawer. Is that a push or a pull?",
+      "q": "You close a kitchen drawer. Is that a push or a pull?",
       "options": [
        "A push",
        "A pull",
        "Neither"
       ],
       "a": 0,
-      "why": "The drawer moves away from Meena, so it is a push. Opening it would be a pull."
+      "why": "The drawer moves away from you, so it is a push. Opening it would be a pull."
      }
     }
    ]
@@ -703,11 +703,11 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Ravi pushes a door shut from inside. His sister Anu pulls the same door shut from outside. Which way does the door go?",
+      "q": "You push a door shut from inside. Later you pull the same door shut from outside. Which way does the door go?",
       "options": [
        "The same way both times",
        "Opposite ways",
-       "It does not move when Anu pulls"
+       "It does not move when you pull"
       ],
       "a": 0,
       "why": "The door swings the same way both times. A push moves a thing away from you, and a pull moves it towards you. So push or pull depends on where you stand."
@@ -1016,14 +1016,14 @@
      "kid": "Answer the last one.",
      "check": {
       "t": "mcq",
-      "q": "A girl called Divya pulls a dupatta off the washing line. Is that a push or a pull?",
+      "q": "You pull a dupatta off the washing line. Is that a push or a pull?",
       "options": [
        "A pull",
        "A push",
        "Neither"
       ],
       "a": 0,
-      "why": "The dupatta comes towards Divya, so it is a pull."
+      "why": "The dupatta comes towards you, so it is a pull."
      }
     }
    ]
@@ -1218,7 +1218,7 @@
        "Neither"
       ],
       "a": 0,
-      "why": "The toy comes towards you, so it is a pull."
+      "why": "The toy moves away from you, so it is a push."
      }
     }
    ]
@@ -1300,7 +1300,7 @@
       "options": [
        "The sheet pulls the teddy along with it",
        "The teddy walks",
-       "The bed pushes the teddy away"
+       "The table pushes the teddy away"
       ],
       "a": 0,
       "why": "The teddy sits on the sheet. When the sheet is pulled, it carries the teddy along with it."
@@ -1379,7 +1379,7 @@
     },
     {
      "t": "mcq",
-     "p": "Tara, a girl who plays carrom, flicks a striker softly, then flicks it hard. Which time does the striker go further?",
+     "p": "You flick a carrom striker softly, then flick it hard. Which time does the striker go further?",
      "opts": [
       "The gentle push",
       "The hard push",
@@ -1422,7 +1422,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did the full box not slide as far as the empty box?",
+     "p": "In the Little Push, Big Push test, why did the full box not slide as far as the empty box? Say it out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "It was heavy. The same push was not big enough to send it far.",
      "why": "A strong answer says the full box was heavier, and a heavier thing needs a bigger push.",
@@ -1462,7 +1462,7 @@
       "push",
       "pull"
      ],
-     "why": "The swing and the roundabout move away from the hands, so those are pushes. The toy car and the boy's body come towards his hands, so those are pulls.",
+     "why": "The swing and the roundabout move away from the hands, so those are pushes. The toy car comes towards the boy who holds it, so that is a pull. The boy on the climbing frame brings his body up towards his hands, so that is a pull too.",
      "art": "A busy playground with a swing, a roundabout, a climbing frame and a child pulling a toy car, each with an empty label."
     }
    ]
@@ -1499,7 +1499,7 @@
     },
     {
      "t": "perspective",
-     "p": "Ishita and Gauri are talking about pushes and pulls in Hyderabad.",
+     "p": "Ishita and Gauri are talking about pushes and pulls.",
      "views": [
       {
        "who": "Ishita, aged 7",
@@ -1513,7 +1513,7 @@
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right. A grown-up writes your answer.",
      "lines": 3,
      "a": "A strong answer picks a side and gives a reason. For Gauri: both are forces. For Ishita: a floppy rope can only pull, so for a rope they really are different.",
-     "why": "Both girls see something true. Pushes and pulls are both forces. But some things, like a rope, can only pull, so builders care which one a thing must take.",
+     "why": "Both girls see something true. Pushes and pulls are both forces. But some things, like a rope, can only pull, so builders need to know whether a part will be pushed or pulled.",
      "how": "e2"
     },
     {
@@ -1604,14 +1604,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "A girl called Diya drags a mat across the room by its corner, walking backwards. Is that a push or a pull?",
+   "p": "You drag a mat across the room by its corner, walking backwards. Is that a push or a pull?",
    "opts": [
     "A pull",
     "A push",
     "Neither"
    ],
    "a": 0,
-   "why": "The mat comes towards Diya, so it is a pull.",
+   "why": "The mat comes towards you, so it is a pull.",
    "outcome": 0
   },
   {
@@ -1652,7 +1652,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl called Bornali wants her toy car to go as far as it can. What should she do?",
+   "p": "You want your toy car to go as far as it can. What should you do?",
    "opts": [
     "Give it a tiny push",
     "Hold it still",
@@ -1664,7 +1664,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl called Thenmozhi pushes her little sister on a swing. Which push sends the swing higher?",
+   "p": "You push someone on a swing. Which push sends the swing higher?",
    "opts": [
     "A smaller push",
     "A bigger push",
@@ -1712,14 +1712,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the playground, a girl called Lakshmi pushes a roundabout. What does her push do?",
+   "p": "In the playground, you push a roundabout. What does your push do?",
    "opts": [
     "It makes the roundabout start to turn",
-    "It pulls the roundabout towards her",
+    "It pulls the roundabout towards you",
     "Nothing"
    ],
    "a": 0,
-   "why": "Her push moves the roundabout away from her hands, so it starts to turn.",
+   "why": "Your push moves the roundabout away from your hands, so it starts to turn.",
    "outcome": 4
   }
  ],
@@ -1779,7 +1779,7 @@
  "open_questions": [
   {
    "q": "How do a group of ants agree which way to pull a big crumb?",
-   "why_open": "Many ants pull together without bumping into each other's way. Scientists have found that some ants seem to steer the group, but they are still studying how the whole group decides."
+   "why_open": "Many ants pull together without getting in each other's way. Scientists have found that some ants seem to steer the group, but they are still studying how the whole group decides."
   },
   {
    "q": "What is the Earth's pull, gravity, really?",
@@ -1834,25 +1834,25 @@
  ],
  "maths": [
   {
-   "problem": "In the box test, Kavya, a girl in Class 1, gave a gentle push that sent the box 2 foot steps. Her big push sent it 7 foot steps. How many more steps did the big push go?",
+   "problem": "In the Little Push, Big Push test, a gentle push sent the box 2 foot steps. A big push sent it 7 foot steps. How many more steps did the big push go?",
    "answer": "5 more steps.",
    "explain": "Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the big push sent the box 5 steps further.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
-   "context": "This is about the box test, where you pushed a lunch box gently and hard.",
+   "context": "This is about the Little Push, Big Push test, where you pushed a lunch box gently and hard.",
    "why_maths": "Taking away the small number from the big one shows how much further the big push went."
   },
   {
-   "problem": "Pooja, a girl in Class 1, watched people at home for ten minutes. She saw 6 pushes and 4 pulls. Did she see more pushes or more pulls? How many did she see in all?",
+   "problem": "You watch people at home for ten minutes. You see 6 pushes and 4 pulls. Did you see more pushes or more pulls? How many did you see in all?",
    "answer": "More pushes. 10 in all.",
-   "explain": "6 is more than 4, so she saw more pushes. 6 and 4 make 10, so she saw 10 pushes and pulls in all.",
+   "explain": "6 is more than 4, so you saw more pushes. 6 and 4 make 10, so you saw 10 pushes and pulls in all.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a1",
    "context": "This is about Push Hands, Pull Hands, where you watched jobs at home.",
    "why_maths": "Sorting and counting tells us which kind of force we saw most."
   },
   {
-   "problem": "In the Pull-Along Train, Revathi, a girl in Class 1, marked the rubber band on a paper strip three times. Which mark is the longest? Which train made it?",
+   "problem": "In the Pull-Along Train, you marked the rubber band on a paper strip three times: for one box, two boxes and three boxes. Which mark is the longest? Which train made it?",
    "answer": "The longest mark is from the train of 3 boxes.",
    "explain": "Lay the marks side by side, all starting from the same end of the strip. The 3-box mark reaches furthest, so it is the longest. The longest stretch means the biggest pull.",
    "math_unit": "math.length.comparing-length.L1",
@@ -1915,10 +1915,10 @@
   }
  ],
  "roots": {
-  "context": "We have pushed boxes, pulled toys and closed a door from both sides. Now we ask what the door that swung the same way both times tells us about ourselves and the world.",
+  "context": "We have pushed boxes, pulled toys and closed a door from both sides. In the Two-Sided Door, the door swung the same way when you pushed it and when you pulled it. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "You closed one door by pushing it from one side and pulling it from the other. The door swung the same way both times. A push is a force away from you, and a pull is a force towards you. So whether a force is a push or a pull depends on where you stand.",
-   "habit": "We think of push and pull as two opposite kinds of thing. The door test shows the same force on the same door gets either name. The name tells us where the person is standing.",
+   "habit": "We think of push and pull as two opposite kinds of thing. The Two-Sided Door shows that the same force on the same door can be called a push or a pull. The name tells us where the person is standing.",
    "evidence": "In the Two-Sided Door, the child closed the same door twice, once pushing from inside and once pulling from outside. The door swung and shut the same way both times. In the story, Selvi's push and Muthu's pull both sent the boat towards the sea."
   },
   "three": {
@@ -1935,7 +1935,7 @@
    },
    {
     "source": "Udana 6.4 (a Buddhist text)",
-    "teaching": "People who could not see each touched one part of an elephant. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part.",
+    "teaching": "Some people who could not see touched an elephant, each at a different part. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part.",
     "link": "A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand."
    }
   ],
@@ -1951,7 +1951,7 @@
   ],
   "other_view": {
    "who": "Builders and engineers",
-   "view": "For the thing being pushed or pulled, they are really different. A pull stretches a rope, and a push squashes a pillar. A rope can pull a boat, but it cannot push one. So builders always ask whether a part must take a push or a pull."
+   "view": "For the thing being pushed or pulled, a push and a pull are really different. A pull stretches a rope, and a push squashes a pillar. A rope can pull a boat, but it cannot push one. So builders always ask whether a part must take a push or a pull."
   },
   "practice": {
    "title": "Two hands, one push",

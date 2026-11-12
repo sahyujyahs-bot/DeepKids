@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "A steel dabba is shut tight. You shake it, and it goes shhh, like rain. What do you think is inside? How could you know without opening it?",
-  "text": "You just found a clue with your ears. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this unit you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.",
+  "text": "When a shaken dabba goes shhh, your ears have found a clue. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this unit you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.",
   "art": "A child holding a closed steel dabba near one ear with eyes wide, while a grown-up in the kitchen doorway smiles and holds a finger to her lips."
  },
  "outcomes": [
@@ -29,7 +29,7 @@
   {
    "term": "Observe",
    "meaning": "To observe means to notice something very carefully, using your eyes, ears, nose and hands. A scientist observes before saying what something is.",
-   "example": "Rani, a girl in Class 1, watched an ant. The ant carried a crumb bigger than her own head.",
+   "example": "Watch an ant for a minute. You may see her carry a crumb bigger than her own head.",
    "art": "A girl lying on her tummy on a kitchen floor, watching one ant carry a sugar grain, her chin on her hands."
   },
   {
@@ -52,8 +52,8 @@
    "definition": "To wonder is to notice something and ask yourself a question about it: what is it, how does it work, or why does it happen?",
    "description": "You notice something and ask a question about it. Why is the sky dark at night? How does a spider make a web? Some answers are known, and some nobody knows yet.",
    "examples": [
-    "In 1921, C. V. Raman was on a ship and looked at the deep blue sea. He wondered why it was so blue. He found that the water itself sends blue light in all directions, not only the sky.",
-    "In the story, Kavya, a girl in Bengaluru, hears a tap-tap at her window every morning. She wonders who is tapping, and why.",
+    "In 1921, C. V. Raman was on a ship and looked at the deep blue sea. He wondered why it was so blue. He found that the blue does not come only from the sky above. The water itself sends blue light in all directions.",
+    "In the story The Tap-Tap at the Window, Kavya, a girl in Bengaluru, hears a tap-tap at her window every morning. She wonders who is tapping, and why.",
     "A child sees the moon in the day sky and asks, 'Why is the moon out when the sun is out?'"
    ],
    "perspectives": [],
@@ -92,7 +92,7 @@
    "concept": "Other living beings find out about the world too",
    "status": "debated",
    "definition": "",
-   "description": "Every living being is aware of the world and finds out about it. A crow looks at a new thing with one eye, then the other. An ant taps a crumb with her feelers. A plant's roots sense water and grow towards water. Scientists still argue about whether they wonder the way we do.",
+   "description": "Every living being is aware of the world and finds out about it. A crow looks at a new thing with one eye, then the other. An ant taps a crumb with her feelers. A plant's roots sense water and grow towards it. Scientists still argue about whether other living beings wonder the way we do.",
    "examples": [
     "A crow on the balcony walks around a new shiny spoon, looks at it from every side, and pecks it once before picking it up.",
     "Ants touch each other with their feelers when they meet, and find out who is from their nest.",
@@ -105,7 +105,7 @@
     },
     {
      "who": "Some other scientists",
-     "explanation": "They say we can see that animals explore, but we cannot know if they wonder or ask questions inside, because they cannot tell us in words."
+     "explanation": "They say we can see that animals explore. But animals cannot tell us in words, so we cannot know if they wonder or ask questions in their minds."
     }
    ],
    "context": "This card is about whether other animals and plants are curious too.",
@@ -154,12 +154,12 @@
  ],
  "big_questions": [
   {
-   "q": "You never saw inside the closed dabba, but you knew what was there. Did you really know, or did you only guess?",
+   "q": "In the Mystery Dabbas experiment, you said what was inside each closed dabba before you saw it. Did you really know, or did you only guess?",
    "kind": "deep",
    "hint": "Think about your clues. How sure were you before you opened the lid? How sure were you after?"
   },
   {
-   "q": "When a dabba made no sound at all, was that a clue too?",
+   "q": "In the Mystery Dabbas experiment, one dabba made no sound at all when you shook it. Was that a clue too?",
    "kind": "deep",
    "hint": "What kind of thing makes no sound when you shake it? What does that tell you?"
   },
@@ -184,7 +184,7 @@
    "One morning, Kavya woke up to a sound. Tap. Tap-tap. Tap. It came from the big window in the hall.",
    "She ran to look. Nothing was there. There was only the glass, the curtain and the grey morning sky.",
    "'Paati, someone is knocking on our window!' she said. 'But we live on the fifth floor.'",
-   "Paati was making filter coffee. She did not say what it was. Instead she asked, 'What do you notice? And what do you wonder?'",
+   "Paati was making filter coffee. She did not tell Kavya the answer. Instead she asked, 'What do you notice? And what do you wonder?'",
    "Kavya thought hard. 'I notice the sound comes from the hall window. I notice it stops when I come close.' Then she said, 'I wonder who is tapping. And I wonder why they stop.'",
    "'Those are good questions,' said Paati. 'How could you find out?'",
    "'I could watch,' said Kavya. 'But quietly, so I don't scare them away.'",
@@ -293,7 +293,7 @@
        "q": "Which question helped you most? Why?",
        "good": [
         "'Is it soft?', because then I knew it was a pillow or a cloth.",
-        "'Is it near the window?', because it took away half the room."
+        "'Is it near the window?', because after that I only had to look in half the room."
        ]
       }
      ],
@@ -325,7 +325,7 @@
    "title": "Question Dice: roll a word, ask a question",
    "mins": 12,
    "players": "2 or more players. A grown-up reads the dice word and the card to anyone who cannot read yet.",
-   "context": "This is a game for asking many kinds of questions. You roll a dice with question words on it, turn over a thing card, and ask a question about that thing that starts with the word you rolled.",
+   "context": "This is a game for asking many kinds of questions. You roll a dice with question words on it and turn over a thing card. Then you ask a question about that thing, starting with the word you rolled.",
    "printables": [
     {
      "kind": "cards",
@@ -388,7 +388,7 @@
     "A player rolls the dice and turns over the top thing card. If the word and the thing do not fit together at all, roll again.",
     "The player asks a question about that thing, starting with the word on the dice. For example: WHY plus A crow makes 'Why do crows caw?'",
     "Everyone claps for every real question. There are no wrong questions. Put the card aside.",
-    "If nobody at home knows the answer, put a star next to the question on the paper, to find out later.",
+    "A grown-up writes each question on a sheet of paper. If nobody at home knows the answer, put a star next to that question, to find out later.",
     "The game is won together. You win when all 12 thing cards have a question. Then pick the 3 questions you most want to find out later, and write them down."
    ],
    "setup": [
@@ -406,7 +406,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Make the dice or the bowl of slips. 2. Read the six question words with your child.",
-     "say": "These are question words. What, why, how, where, when and who. Every question needs one of them, or a yes-or-no start.",
+     "say": "These are question words. What, why, how, where, when and who. Most questions start with one of them. The others are questions you answer with yes or no.",
      "kid": "These are question words. Say them with me."
     },
     {
@@ -424,7 +424,7 @@
        ]
       }
      ],
-     "parent": "Clap for odd questions too. 'When does the Moon sleep?' is a real question: it leads to where the Moon goes in the day."
+     "parent": "Clap for odd questions too. 'When does the Moon sleep?' is a real question. It leads to finding out where the Moon goes in the day."
     },
     {
      "id": "s3",
@@ -453,7 +453,7 @@
    "title": "Mystery Dabbas: what is inside, without looking?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment a grown-up hides one thing in each of three closed dabbas. You find out what is inside each one by shaking, lifting and tilting, without looking. Then you open them and check. Then you swap, and your child hides things for you.",
+   "context": "In this experiment a grown-up hides one thing in each of three closed dabbas. The child finds out what is inside each one by shaking, lifting and tilting, without looking. Then the lids come off to check. After that they swap, and the child hides things for the grown-up.",
    "question": "Can you find out what is inside a closed dabba without looking? Which of your senses gives you the best clues?",
    "predict": "Guess first. Will you be able to tell what is inside without looking? Which sense will help most: your ears, your hands or your nose? Why do you think so?",
    "fair_test": "All three dabbas are the same kind and size, so only what is inside is different. You shake each one the same way, three gentle shakes. You say your guess and your reason for every dabba before any lid comes off.",
@@ -680,17 +680,17 @@
        "One cotton ball"
       ],
       "a": 1,
-      "why": "Many small grains hit the steel at many tiny moments, so they make a shhh sound, like rain. One lemon makes one knock and a roll. A cotton ball makes almost no sound."
+      "why": "Many small grains hit the steel one after another, very fast, so they make a shhh sound, like rain. One lemon makes one knock and a roll. A cotton ball makes almost no sound."
      },
      "think": "What else could you find out about without looking at it?"
     },
     {
      "id": "s8",
      "mins": 5,
-     "do": "Swap. Your child hides one thing in each dabba, out of your sight, while you turn your back. Choose from dal, salt, a steel spoon or a twist of paper with atta. You shake, lift and tilt, say your guess and the clue, then open the lids.",
+     "do": "Swap. Turn your back while your child hides one thing in each dabba. They can choose from dal, salt, a steel spoon or a twist of paper with atta. Then you shake, lift and tilt each dabba, say your guess and the clue, and open the lids.",
      "say": "Now you hide something in each dabba, and I will find out without looking. I will think aloud about my clues.",
      "kid": "Hide one thing in each dabba. Don't tell. Can the grown-up find out?",
-     "parent": "Think aloud as you shake: 'It goes shhh, so many small pieces.' A salt and a dal dabba may sound alike. That is a real result: say which clue could not tell them apart."
+     "parent": "Think aloud as you shake: 'It goes shhh, so many small pieces.' A dabba of salt and a dabba of dal may sound alike. That is a real result: say that the sound could not tell them apart."
     }
    ]
   }
@@ -832,7 +832,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Walk slowly through the home with your child. 2. Stop at anything they ask about, or ask 'What do you wonder about this?' 3. Write their question on a slip, word for word, and tape it on.",
+     "do": "1. Walk slowly through the home with your child. 2. Stop at anything they ask about, or ask 'What do you wonder about this?' 3. Write their question on a slip, word for word, and tape the slip on the thing.",
      "say": "Let's walk round slowly and find things you wonder about. Look at the fan. What do you wonder about it? I'll write it down.",
      "kid": "Walk round slowly. Find things you wonder about. Say your question.",
      "ask": [
@@ -1063,8 +1063,8 @@
     "Lift it and feel the weight. More coins are heavier."
    ],
    "creative": [
-    "Fill the second dabba with 1 coin, then 3, then 6. Shake both, one in each hand, and find the one that sounds the same.",
-    "Hold both dabbas, one in each hand, and add coins to yours until they feel equally heavy."
+    "Put 1 coin in the second dabba, then 3, then 6. Each time, shake both dabbas, one in each hand. Find the number of coins that sounds the same as the closed dabba.",
+    "Hold both dabbas, one in each hand. Add coins to the second dabba until both feel equally heavy."
    ],
    "your_turn": "Now you hide some coins in a dabba for a grown-up. Can they find out how many, without looking?",
    "setup": [
@@ -1137,7 +1137,7 @@
    "channel": "wgaltv",
    "youtube": "1yrBXQaOTgI",
    "mins": 2,
-   "why": "Shows the real behaviour in the story: a bird mistaking their reflection for another bird, and why that happens.",
+   "why": "Shows the real behaviour in the story The Tap-Tap at the Window: a bird mistaking their reflection for another bird, and why that happens.",
    "check": "Found by search: \"Wild Moments: Why are birds attacking windows and mirrors?\" by wgaltv, 1 minute, 41 seconds. A parent may preview it."
   },
   {
@@ -1152,7 +1152,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Meera sees a snail on the balcony wall. Which one is a question?",
+   "p": "You see a snail on the balcony wall. Which one is a question?",
    "opts": [
     "The snail is slow.",
     "Why does the snail leave a shiny line?",
@@ -1164,14 +1164,14 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan wants to find out why the ceiling fan makes a clicking sound. What should he do first?",
+   "p": "You want to find out why the ceiling fan makes a clicking sound. What should you do first?",
    "opts": [
     "Watch and listen to the fan closely",
     "Decide it is broken",
     "Forget about it"
    ],
    "a": 0,
-   "why": "Observing closely comes first. Farhan may see where the click comes from, and how often.",
+   "why": "Observing closely comes first. You may see where the click comes from, and how often it comes.",
    "outcome": 0
   },
   {
@@ -1183,7 +1183,7 @@
     "What is my friend's name?"
    ],
    "a": 0,
-   "why": "You can find out by looking. The other questions have nothing to do with the ant.",
+   "why": "You can count the ant's legs by looking closely. The other questions have nothing to do with the ant.",
    "outcome": 1
   },
   {
@@ -1225,7 +1225,7 @@
   },
   {
    "t": "mcq",
-   "p": "You tilt a shut dabba slowly. One thing rolls and knocks the end. What is it most like?",
+   "p": "You tilt a shut dabba slowly. One thing rolls and knocks the end. What is most likely inside?",
    "opts": [
     "Something round, like a lemon",
     "Lots of tiny grains, like salt",
@@ -1238,26 +1238,26 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi guessed rice, but the dabba had dal in it. What is the best thing for her to do?",
+   "p": "You guessed rice, but the dabba had dal in it. What is the best thing to do?",
    "opts": [
     "Feel bad and stop",
-    "Say which clue fooled her, and try again",
-    "Say she was right anyway"
+    "Say which clue fooled you, and try again",
+    "Say you were right anyway"
    ],
    "a": 1,
-   "why": "Rice and dal sound alike. Knowing which clue fooled her helps her next time. That is how scientists learn from a wrong guess.",
+   "why": "Rice and dal sound alike. Knowing which clue fooled you helps you next time. That is how scientists learn from a wrong guess.",
    "outcome": 3
   },
   {
    "t": "mcq",
    "p": "You guess what is in a shut dabba. Why do you open it at the end?",
    "opts": [
-    "To check if our clues led us to the right answer",
+    "To check if your clues led you to the right answer",
     "Because shaking is boring",
     "To eat what is inside"
    ],
    "a": 0,
-   "why": "Clues help us guess. Opening the lid checks the guess.",
+   "why": "Clues help you guess. Opening the lid checks the guess.",
    "how": "e1",
    "outcome": 3
   },
@@ -1332,7 +1332,7 @@
       "Shut the curtain and forget it"
      ],
      "a": 0,
-     "why": "Watching quietly is observing. It gives real clues, for example that a bird is pecking at its own reflection."
+     "why": "Watching quietly is observing. It gives real clues, for example that a bird is pecking at his own reflection."
     },
     {
      "t": "draw",
@@ -1414,14 +1414,14 @@
     },
     {
      "t": "mcq",
-     "p": "Ammu, a girl in Class 1, wants to know if her glass of milk is hot. What is the safest way to find out first?",
+     "p": "You want to know if your glass of milk is hot. What is the safest way to find out first?",
      "opts": [
       "Look for steam and gently touch the outside of the glass",
       "Gulp it fast",
-      "Put her finger in the milk"
+      "Put your finger in the milk"
      ],
      "a": 0,
-     "why": "Steam and a warm glass are clues from the outside. They tell her the milk is hot without hurting her."
+     "why": "Steam and a warm glass are clues from the outside. They tell you the milk is hot without hurting you."
     }
    ]
   },
@@ -1499,7 +1499,7 @@
       "Singing"
      ],
      "a": 0,
-     "why": "The crow gathers clues with her eyes before she touches it, as we gather clues before opening a dabba."
+     "why": "The crow gathers clues with her eyes before she touches the clip, as we gather clues before opening a dabba."
     },
     {
      "t": "match",
@@ -1523,7 +1523,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Ants smell and touch with their feelers. Dogs follow smells. Crows spot food with their sharp eyes. A snake flicks the tongue to pick up smells."
+     "why": "Ants smell and touch with their feelers. Dogs follow smells. Crows spot food with their sharp eyes. A snake flicks her tongue to pick up smells."
     },
     {
      "t": "mcq",
@@ -1551,7 +1551,7 @@
      "t": "write",
      "p": "A friend says, 'If you cannot see a thing, you cannot know what it is.' Say out loud what you would tell your friend, and a grown-up writes it.",
      "lines": 2,
-     "a": "A strong answer uses the dabbas: we never saw inside, but sounds, weight and rolling told us. Opening the lid checked it.",
+     "a": "A strong answer uses the Mystery Dabbas experiment: we never saw inside the dabbas, but sounds, weight and rolling told us what was there. Opening the lids checked it.",
      "why": "A strong answer uses the child's own experiment as evidence against the idea."
     }
    ]
@@ -1597,7 +1597,7 @@
   },
   {
    "q": "Do ants, crows and plants wonder about things?",
-   "why_open": "We can watch them explore and find out. But nobody can know from the inside what it is like to be them, so scientists still argue about what goes on inside."
+   "why_open": "We can watch ants, crows and plants explore. But nobody can know what it is like to be them, so scientists still argue about whether they wonder."
   }
  ],
  "ask_kids": [
@@ -1644,7 +1644,7 @@
  ],
  "maths": [
   {
-   "problem": "Divya, a girl in Class 1, looked at an elaichi pod. After a quick look she noticed 1 thing. After a slow look she noticed 5 things. How many more things did she notice with the slow look?",
+   "problem": "You look at an elaichi pod. After a quick look you notice 1 thing. After a slow look you notice 5 things. How many more things did you notice with the slow look?",
    "answer": "4 more things.",
    "explain": "5 take away 1 is 4. The slow look, with more senses, found 4 more clues.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1653,17 +1653,17 @@
    "why_maths": "Counting what we notice shows how much more a slow, careful look finds."
   },
   {
-   "problem": "In the Yes-or-No Detective game, Meenakshi found the pillow in 6 questions. Her brother Sai found the spoon in 9 questions. Who used fewer questions?",
-   "answer": "Meenakshi. 6 is fewer than 9.",
-   "explain": "Count up from 6 to 9: 7, 8, 9. That is 3 more questions for Sai. So Meenakshi's questions found the answer faster.",
+   "problem": "In the Yes-or-No Detective game, one detective found the pillow in 6 questions. Another detective found the spoon in 9 questions. Who used fewer questions?",
+   "answer": "The detective who found the pillow. 6 is fewer than 9.",
+   "explain": "Count up from 6 to 9: 7, 8, 9. That is 3 more questions for the detective who found the spoon. So the detective who found the pillow got to the answer faster.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "g1",
    "context": "This is about the Yes-or-No Detective game, where you find a hidden thing by asking yes-or-no questions.",
    "why_maths": "Comparing the numbers shows which questions were better at finding the answer."
   },
   {
-   "problem": "Gauri, a girl in Class 1, guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled her?",
-   "answer": "1 guess was wrong. Maybe the cotton ball, because no sound made her think the dabba was empty.",
+   "problem": "You guessed what was in 3 shut dabbas. 2 guesses were right. How many guesses were wrong? Which clue might have fooled you?",
+   "answer": "1 guess was wrong. Maybe the cotton ball, because no sound can make you think the dabba is empty.",
    "explain": "3 take away 2 leaves 1. A dabba with a cotton ball and an empty dabba both make almost no sound, so that clue could fool anyone.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
@@ -1789,8 +1789,8 @@
  "roots": {
   "context": "We have asked questions, looked closely at an elaichi pod, and found out what was inside closed dabbas. Now we ask what the Mystery Dabbas experiment tells us about knowing.",
   "deep_truth": {
-   "truth": "You never saw inside the closed dabbas. Still, shaking, tilting and lifting told you what each one held. When you opened the lids, you could check your clues. People found out what is in the middle of the Earth the same way, without ever seeing it.",
-   "habit": "We think we know a thing only when we see it. The test shows that sounds, weight and movement carry true clues about hidden things, and that we can check those clues afterwards.",
+   "truth": "In the Mystery Dabbas experiment, you did not see inside the closed dabbas until the end. Still, shaking, tilting and lifting told you what each one held. When you opened the lids, you could check your clues. People found out what is in the middle of the Earth the same way, without ever seeing it.",
+   "habit": "We think we know a thing only when we see it. The Mystery Dabbas experiment shows that sounds, weight and movement carry true clues about hidden things, and that we can check those clues afterwards.",
    "evidence": "In the Mystery Dabbas experiment, rice went shhh and slid, the lemon bumped and rolled, and the cotton ball was almost silent and very light. The child named what was inside from these clues, then opened the lids to check."
   },
   "three": {
@@ -1798,11 +1798,11 @@
    "what_is_life": "Every living being finds out about the world. An ant feels with her feelers, and a crow looks with one eye, then the other.",
    "what_is_this_world": "The world is full of hidden things, like the inside of a dabba or the middle of the Earth. Everything that happens leaves clues."
   },
-  "thread": "The lemon in the dabba was hidden, but you still found it. When you shook the dabba, the lemon knocked the steel, the air carried the sound, and your ear caught it. An earthquake works the same way: the Earth shakes, and machines far away feel it. A hidden thing that moves sends out clues that we can catch.",
+  "thread": "In the Mystery Dabbas experiment, the lemon was hidden in a dabba, but you still found it. When you shook the dabba, the lemon knocked the steel, the air carried the sound, and your ear caught it. An earthquake works the same way: the Earth shakes, and machines far away feel it. A hidden thing that moves sends out clues that we can catch.",
   "teachings": [
    {
     "source": "The blind men and the elephant, told in Jain teaching and in the Buddhist Udana 6.4",
-    "teaching": "Some men who cannot see each touch one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none has the whole elephant.",
+    "teaching": "Some men cannot see. Each of them touches one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none of them knows the whole elephant.",
     "link": "In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose maybe none. Putting the clues together came closest to the whole answer."
    },
    {
