@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Can you move your body in five different ways? Try to roll, slide, spin, swing and bounce.",
-  "text": "Everything that moves moves in some way. A ball rolls. A chappal slides on a wet floor. A fan spins. A swing swings. A ball bounces. In this unit you move in all five ways, find them at home, and test one thing two ways: does it go further when it rolls or when it slides?",
+  "text": "Things move in different ways. A ball rolls. A chappal slides on a wet floor. A fan spins. A swing swings. A ball bounces. In this unit you move in all five ways, find them at home, and push one dabba two ways: does it go further when it rolls or when it slides?",
   "art": "A small girl on a mat in a flat, rolling sideways, while a ceiling fan spins above her and a cloth bag swings on the door handle."
  },
  "outcomes": [
@@ -70,14 +70,14 @@
     "A steel plate slides on the table, spins when you twist it and rolls when you stand it on its edge."
    ],
    "perspectives": [],
-   "context": "This card is about the five ways of moving you tried with your body.",
+   "context": "This card is about the five ways of moving you tried in Five Ways With My Body: roll, slide, spin, swing and bounce.",
    "art": "Five small drawings in a row: a rolling ball, a sliding plate, a spinning top, a swinging bag and a bouncing ball."
   },
   {
    "concept": "Rolling goes further than sliding",
    "status": "defined",
    "definition": "With the same push, a thing that rolls goes much further than the same thing sliding, because rolling rubs the floor far less.",
-   "description": "When the dabba slid, its whole flat bottom rubbed along the floor, and the rubbing stopped it soon. When the dabba rolled, each part touched the floor for a moment and lifted off again, so it hardly rubbed. The rubbing that slows things down is called friction. This is why wheels make heavy things easier to move.",
+   "description": "In the Roll or Slide Test, when the dabba slid standing flat, its whole flat bottom rubbed along the floor, and the rubbing stopped it soon. When the dabba rolled on its side, each part touched the floor for a moment and lifted off again, so it hardly rubbed. The rubbing that slows things down is called friction. This is why wheels make heavy things easier to move.",
    "examples": [
     "In the Roll or Slide Test, the dabba on its side rolled many tiles. Standing flat, it slid only one or two.",
     "A suitcase with wheels is easy to pull. Without wheels, it scrapes and is hard to drag.",
@@ -158,7 +158,7 @@
  ],
  "big_questions": [
   {
-   "q": "The dabba was the same both times. Why did it go so much further when it rolled?",
+   "q": "In the Roll or Slide Test, the dabba was the same both times. Why did it go so much further when it rolled?",
    "kind": "deep",
    "hint": "Think about which part of the dabba touched the floor each time."
   },
@@ -262,7 +262,7 @@
      "what": "Guess, push the dabba 3 times on its side and 3 times standing flat, mark where it stops, and count the tiles."
     }
    ],
-   "record": "Draw the dabba on its side and standing flat. Next to each, draw a line as long as the way it went.",
+   "record": "Draw the dabba on its side and standing flat. Next to each, draw a line that shows how far it went.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -303,7 +303,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Stick two tape lines on the floor, one hand-width apart. 2. Show your child the dabba and the book.",
-     "say": "This is our pusher. The dabba touches the front of the book. You slide the book to the second line and stop. That is one push.",
+     "say": "This book is our pusher. The dabba sits touching the front of the book. You slide the book to the second line and stop. That is one push.",
      "kid": "This book is your pusher. Slide it from one line to the next. Then stop.",
      "parent": "Stopping the book at the second line keeps every push about the same. A short, wide dabba stands flat without tipping over. Close it tight. A roll of cello tape works just as well."
     },
@@ -311,7 +311,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Hold the dabba on its side, then standing flat. 2. Ask for a guess and a reason. 3. Write or draw the guess.",
-     "say": "First we lie the dabba on its side. Then we stand it flat. Which way will it go further? Why do you think so?",
+     "say": "First we lay the dabba on its side. Then we stand it flat. Which way will it go further? Why do you think so?",
      "kid": "Which way will the dabba go further? On its side or standing flat? Why?",
      "ask": [
       {
@@ -329,8 +329,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Lay the dabba on its side, touching the book. 2. Your child pushes 3 times. 3. Put a slip where it stops each time.",
-     "say": "Lie the dabba on its side, touching the book. Slide the book to the line and stop. Watch where the dabba stops. Put a slip there.",
-     "kid": "Lie the dabba on its side. Push with the book. Mark where it stops.",
+     "say": "Lay the dabba on its side, touching the book. Slide the book to the line and stop. Watch where the dabba stops. Put a slip there.",
+     "kid": "Lay the dabba on its side. Push with the book. Mark where it stops.",
      "parent": "The round side must be on the floor, with the flat ends facing left and right. If the dabba curves into a wall, just try again. A rolling dabba often goes many tiles. If it reaches the end of the room, write \"all the way\". Push the same way each time, firmly enough that the standing dabba slides."
     },
     {
@@ -378,7 +378,7 @@
       "a": 0,
       "why": "Rolling hardly rubs the floor, so the dabba kept going. Sliding rubbed its whole flat bottom on the floor, so it stopped soon."
      },
-     "parent": "Now you can explain. Sliding rubs the whole bottom along the floor, and the rubbing stops the dabba. Rolling sets each bit down and lifts it up again, so it hardly rubs. Scientists call the rubbing friction.",
+     "parent": "Now you can explain. Sliding rubs the whole bottom along the floor, and the rubbing stops the dabba. When the dabba rolls, each bit of it touches the floor and lifts off again, so it hardly rubs. Scientists call the rubbing friction.",
      "think": "What else in our home has wheels to make it roll?"
     }
    ]
@@ -786,7 +786,7 @@
      "mins": 4,
      "do": "1. Your child gives the bag one gentle push. 2. Count each time it comes back to them, until it stops.",
      "say": "Give it one gentle push. Now count each time it comes back to you. Keep counting until it stops.",
-     "kid": "Push the bag once. Count each time it comes back. Stop when it stops.",
+     "kid": "Push the bag once. Count each time it comes back. Stop counting when the bag stops.",
      "ask": [
       {
        "q": "Did it keep going for ever?",
@@ -990,7 +990,7 @@
     "Mix the 12 cards and make a pile, front side up. The grown-up reads the top card out loud.",
     "The player shows that motion with their hands, then puts the card on a mat.",
     "The grown-up turns the card over and reads the back. If the mat is right, the player keeps the card. The auto wheels card fits two mats, ROLL and SPIN, and either one is right.",
-    "If the player gives a good reason for a different mat, that wins too.",
+    "If the player gives a good reason for a different mat, the player keeps the card too.",
     "If the mat is wrong, the grown-up shows the right mat and slides the card under the pile for one more try. After a second wrong try, the card goes on its right mat and nobody keeps it.",
     "The game ends when the pile is finished. The player with the most cards wins. When one child plays, try to keep 8 or more of the 12."
    ],
@@ -1086,7 +1086,7 @@
     "The player picks one slip. The grown-up reads it.",
     "The grown-up counts slowly to 10.",
     "Before 10, the player finds something in the room that moves that way and makes it move.",
-    "Each one found wins a tick on the score sheet. Put the slip back and pick again.",
+    "Each thing found wins a tick on the score sheet. Put the slip back and pick again.",
     "Each player gets 5 turns. The player with the most ticks wins. If you play alone, try to beat your own total next time.",
     "No running, and nothing breakable."
    ],
@@ -1124,7 +1124,7 @@
        ]
       }
      ],
-     "parent": "Your child's own body always counts. That is a good way to win when the room runs out of ideas."
+     "parent": "Your child's own body always counts. That helps when there is nothing left in the room to find."
     },
     {
      "id": "s3",
@@ -1284,7 +1284,7 @@
    ],
    "creative": [
     "Tape a piece of flat cardboard along the bottle, so the bottle lies on it and cannot turn.",
-    "Press a lump of dough on one side, so the bottle lies on it like a foot.",
+    "Press a lump of dough on one side of the bottle. The lump works like a foot and stops the bottle turning.",
     "Put the bottle inside a small box, so the flat box slides instead.",
     "Tape the bottle onto a thin book, so the book slides."
    ],
@@ -1339,7 +1339,7 @@
        "The tape makes the bottle round"
       ],
       "a": 0,
-      "why": "The flat cardboard keeps its whole side on the table, so the bottle cannot turn over. It slides instead."
+      "why": "The flat cardboard lies flat on the table, so the bottle cannot turn over. It slides instead."
      }
     }
    ]
@@ -1453,7 +1453,7 @@
     },
     {
      "t": "label",
-     "p": "Look at the girl moving her body five ways. Under each, say ROLL, SLIDE, SPIN, SWING or BOUNCE, and a grown-up writes it.",
+     "p": "Look at the girl moving her body five ways. Under each picture, say ROLL, SLIDE, SPIN, SWING or BOUNCE, and a grown-up writes it.",
      "labels": [
       "Lying on a mat, turning over and over",
       "In socks, gliding on the floor",
@@ -1515,7 +1515,7 @@
      ],
      "ask": "Who do you agree with? Try it with a plate, then say why. Then say one thing the other person might say back.",
      "a": "Anjali. A plate slides when pushed flat, spins when twisted, and rolls when stood on its edge.",
-     "why": "A strong answer uses a test with a real plate. It also sees why Rohan thought so: we usually only see plates slide on a table."
+     "why": "A strong answer uses a test with a real plate. It also says why Rohan thought so: we usually only see plates slide on a table."
     },
     {
      "t": "draw",
@@ -1530,7 +1530,7 @@
      "p": "Many people think round things always roll. Say what you saw in the Roll or Slide Test that shows this is not always true.",
      "lines": 2,
      "a": "The round dabba standing flat did not roll. It slid, because its flat bottom touched the floor.",
-     "why": "A strong answer uses the dabba standing flat as evidence: round, but it slid.",
+     "why": "A strong answer says the dabba standing flat was round, but it slid.",
      "how": "e1"
     },
     {
@@ -1636,12 +1636,12 @@
      "p": "A pencil keeps rolling off the desk. What could you do to stop it rolling? Say why it would work.",
      "lines": 2,
      "a": "Use a pencil with flat sides, or press a lump of dough on one side so it sits flat. A flat side or a lump stops it turning over.",
-     "why": "A strong answer changes how the pencil touches the desk, like in the bottle challenge.",
+     "why": "A strong answer changes how the pencil touches the desk, as in Make the Bottle Slide, Not Roll.",
      "how": "c1"
     },
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 1, drops a sock ball and a rubber ball from the same table. Only the rubber ball bounces well. What is the best reason?",
+     "p": "A sock ball and a rubber ball are dropped from the same table. Only the rubber ball bounces well. What is the best reason?",
      "opts": [
       "The socks squash but spring back only a little",
       "The sock ball was dropped from lower down",
@@ -1792,7 +1792,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera, a girl in Class 1, must move a heavy round tin across the floor with a small push. What should she do?",
+   "p": "You must move a heavy round tin across the floor with a small push. What should you do?",
    "opts": [
     "Lay it on its side and roll it",
     "Push it standing up",
@@ -1818,7 +1818,7 @@
   },
   {
    "t": "mcq",
-   "p": "A grandmother pushes a steel plate flat across the floor. How does it move?",
+   "p": "You push a steel plate flat across the floor. How does it move?",
    "opts": [
     "It slides",
     "It bounces",
@@ -1842,7 +1842,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ravi, a boy in Class 1, guesses the dabba will go further standing flat. What should he do next?",
+   "p": "You guess the dabba will go further standing flat. What should you do next?",
    "opts": [
     "Test it, and see what happens",
     "Ask someone and believe them",
@@ -1905,7 +1905,7 @@
  ],
  "applications": [
   "Wheels on carts, cycles, autos, trains and suitcases make heavy things roll instead of slide.",
-  "Ball bearings, little steel balls inside fans, cycle wheels and skates, let parts roll instead of rub.",
+  "Ball bearings are little steel balls inside fans, cycle wheels and skates. They let parts roll instead of rub.",
   "Playground slides are smooth so that children slide down easily.",
   "Balls for cricket, football and tennis are made to bounce well.",
   "Potters spin clay on a wheel to shape round pots.",
@@ -2000,8 +2000,8 @@
    "why_maths": "Taking the small number from the big one shows how much further rolling went."
   },
   {
-   "problem": "In a Kitchen Motion Hunt, 4 things were put on ROLL, 2 on SLIDE, 3 on SPIN, 1 on SWING and 1 on BOUNCE. Which slip had the most? Which kind was hardest to find?",
-   "answer": "ROLL had the most, 4 things. SWING and BOUNCE were hardest, with 1 each.",
+   "problem": "In a Kitchen Motion Hunt, 4 things were put on ROLL, 2 on SLIDE, 3 on SPIN, 1 on SWING and 1 on BOUNCE. Which slip had the most things? Which slips had the fewest?",
+   "answer": "ROLL had the most, 4 things. SWING and BOUNCE had the fewest, with 1 each. Those were the hardest to find.",
    "explain": "4 is the biggest number, so ROLL had the most. 1 is the smallest, and two slips had 1. Many kitchen things are round, which may be why so many rolled.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a2",
@@ -2075,26 +2075,26 @@
  "roots": {
   "context": "We have rolled, slid, spun, swung and bounced, at home and with our own bodies. Now we ask what the Roll or Slide Test tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "With the same push, your dabba rolled far on its side and slid only a little standing flat. It was the same dabba both times. Rolling rubs the floor much less than sliding. So how a thing touches the floor changes how far it goes.",
-   "habit": "We often think how far a thing goes depends only on what it is and how hard we push. The test kept both the same and changed only how the dabba touched the floor.",
+   "truth": "In the Roll or Slide Test, the same push made the dabba roll far on its side and slide only a little standing flat. It was the same dabba both times. Rolling rubs the floor much less than sliding. So how a thing touches the floor changes how far it goes.",
+   "habit": "We often think how far a thing goes depends only on what it is and how hard we push. The Roll or Slide Test kept both the same and changed only how the dabba touched the floor.",
    "evidence": "In the Roll or Slide Test, the same dabba with the same push went many tiles rolling on its side and only one or two tiles sliding flat."
   },
   "three": {
-   "who_am_i": "You are a body that can roll, slide, spin, swing and bounce. The same you moves in many ways.",
+   "who_am_i": "Your body can roll, slide, spin, swing and bounce. You are the same person, moving in many ways.",
    "what_is_life": "Humans and other animals move in these ways too. A snake slides along the ground, a monkey swings from branch to branch, and a child rolls, spins and bounces.",
    "what_is_this_world": "Everything in the world is moving somehow. Even the floor under you is spinning with the whole Earth."
   },
-  "thread": "Rolling, sliding, spinning, swinging and bouncing are five ways of moving, and one dabba or plate can do several of them. What decides the way is how the thing is pushed and how it touches the floor. Everything is moving all the time, even the floor under you.",
+  "thread": "Rolling, sliding, spinning, swinging and bouncing are five ways of moving, and one dabba or plate can do several of them. How a thing moves depends on how it is pushed and how it touches the floor. Everything is moving all the time, even the floor under you.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
-    "teaching": "Thirty spokes meet at the hub of a wheel. It is the empty space at the centre that makes the wheel useful.",
+    "teaching": "Thirty spokes meet at the hub, the middle of a wheel. It is the empty space at the centre that makes the wheel useful.",
     "link": "A wheel turns round its hub, and the hub stays in place. In Spin It, every spinning thing turned round a middle that stayed put."
    },
    {
     "source": "Plato, Cratylus 402a, reporting Heraclitus",
     "teaching": "The Greek thinker Heraclitus taught that everything moves and nothing stays still. You cannot step into the same river twice.",
-    "link": "We found motion everywhere: in the kitchen, in our bodies, and in the spinning Earth under a dabba that seems still."
+    "link": "We found motion everywhere: in the kitchen, in our bodies, and even in a dabba that seems still, because the Earth under it is spinning."
    }
   ],
   "science": [
@@ -2109,7 +2109,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "A rolling dabba is fully explained by the forces on it and the way it touches the floor. For them, nothing more is going on in the dabba, and feeling belongs only to living beings with nerves."
+   "view": "Some people say a rolling dabba is fully explained by the forces on it and the way it touches the floor. For them, nothing more is going on in the dabba, and feeling belongs only to living beings with nerves."
   },
   "practice": {
    "title": "Still on a spinning Earth",
@@ -2118,7 +2118,7 @@
    "kid": "Sit still. Shut your eyes. The Earth is spinning you round. Can you feel it? Now roll onto your side and sit up. Could you feel that?"
   },
   "ask": [
-   "The dabba was the same both times. So what made the difference?",
+   "In the Roll or Slide Test, the dabba and the push were the same both times. So why did the dabba go further on its side?",
    "When you sit very still, are you really still?",
    "Is there anything in the world that is not moving at all?"
   ],
@@ -2129,7 +2129,7 @@
   "who": "Potters in Mesopotamia, in what is now Iraq; early cart-makers in Mesopotamia and Europe; and the people of the Indus Valley cities, such as Harappa and Mohenjo-daro",
   "when": "About 5,500 to 4,000 years ago",
   "wrong_idea": "The wheel was first made for carts, to roll along the ground.",
-  "story": "Many people think the first wheel was made for carts. But archaeologists, people who dig up and study the past, found something different. Many of them now think the first wheels did not roll at all. They spun. In Mesopotamia, in what is now Iraq, potters put clay on a flat round wheel and turned it, about 5,500 years ago. The clay spun round and round in one place while the potter shaped a round pot. Later, people stood wheels on their edge and fixed them to carts. Now the wheels rolled along the ground. A heavy load that was hard to drag could be pulled easily. The oldest wooden wheel found so far, from a marsh in Slovenia, is about 5,150 years old. In the Indus Valley cities of Harappa and Mohenjo-daro, about 4,500 years ago, small clay toy carts with wheels that turn were made, and children may have played with them. The same round shape could spin flat or roll on its edge. Potters in India still spin clay on wheels today."
+  "story": "Many people think the first wheel was made for carts. But archaeologists, people who dig up and study the past, found something different. Many of them now think the first wheels did not roll at all. They spun. In Mesopotamia, in what is now Iraq, potters put clay on a flat round wheel and turned it, about 5,500 years ago. The clay spun round and round in one place while the potter shaped a round pot. Later, people stood wheels on their edge and fixed them to carts. Now the wheels rolled along the ground. A heavy load that was hard to drag could be pulled easily. The oldest wooden wheel found so far, from a marsh in Slovenia, is about 5,150 years old. In the Indus Valley cities of Harappa and Mohenjo-daro, about 4,500 years ago, people made small clay toy carts with wheels that turn, and children may have played with them. The same round shape could spin flat or roll on its edge. Potters in India still spin clay on wheels today."
  },
  "plan": {
   "start_options": [

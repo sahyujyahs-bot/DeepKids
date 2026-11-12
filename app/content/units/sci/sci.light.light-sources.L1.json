@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Switch off the lights in a room at night. Hold your hand in front of your face. Can you see it?",
-  "text": "In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. Your hand is back! The torch made light, and the light let you see. In this unit you find out which things make their own light, and which things only look bright.",
+  "text": "In the dark, you cannot see your hand, even though it is right there. Now switch on a torch. You can see your hand again. The torch made light, and the light let you see. In this unit you find out which things make their own light, and which things only look bright.",
   "art": "A child in a dark room holding up one hand, and a torch beam just switched on, lighting up the hand."
  },
  "outcomes": [
@@ -64,7 +64,7 @@
    "concept": "Shiny things only send back light",
    "status": "defined",
    "definition": "A shiny thing, like a steel spoon or a mirror, makes no light of its own. It looks bright only when light from a light source falls on it.",
-   "description": "In a bright room, the steel spoon and the mirror look very bright. Many children guess they make light. But in the dark room, you could not see them at all. When you pointed the torch at the spoon, it shone again. When you pointed the torch away, it vanished. The spoon was only sending back the torch's light.",
+   "description": "In a bright room, the steel spoon and the mirror look very bright. Many children guess they make light. But in the dark room test, you could not see them at all. When you pointed the torch at the spoon, it shone again. When you pointed the torch away, it vanished. The spoon was only sending back the torch's light.",
    "examples": [
     "In the dark room test, the spoon vanished until the torch shone on it.",
     "A steel tumbler shines next to a lamp, and goes dark when the lamp is taken away.",
@@ -78,7 +78,7 @@
    "concept": "A lamp makes light only while it is working",
    "status": "defined",
    "definition": "A lamp or a torch does not keep light inside it. It makes new light every moment, as long as it has oil, cells or electricity.",
-   "description": "When you switched the torch off, the dark came back at once. The torch had not kept any light inside. It makes new light only while it is switched on. A torch needs cells (people often call them batteries). A tube light needs electricity from the wires. A diya needs oil and a wick.",
+   "description": "In the dark room test, when you switched the torch off, the dark came back at once. The torch had not kept any light inside. It makes new light only while it is switched on. A torch needs cells (people often call them batteries). A tube light needs electricity from the wires. A diya needs oil and a wick.",
    "examples": [
     "In the dark room test, the dark came back the moment the torch was switched off.",
     "In a power cut, every tube light goes dark at the same moment.",
@@ -110,7 +110,7 @@
   },
   {
    "text": "We see things that are not light sources only when light falls on them.",
-   "evidence": "In the dark room, the spoon could be seen only while the torch was pointed at it."
+   "evidence": "In the dark room test, the spoon could be seen only while the torch was pointed at it."
   },
   {
    "text": "The Sun is a star, made mostly of hydrogen gas.",
@@ -137,12 +137,12 @@
  ],
  "big_questions": [
   {
-   "q": "When you switched off the torch, the dark came back at once. Where did the light go?",
+   "q": "In the dark room test, you switched off the torch and the dark came back at once. Where did the light go?",
    "kind": "deep",
    "hint": "The light flew out of the torch and landed on the walls, the floor and you. Things take in most of the light that lands on them."
   },
   {
-   "q": "The steel spoon looked bright in the day. Why could you not see it in the dark?",
+   "q": "A steel spoon looks bright in the day. Why could you not see it in the dark room test?",
    "kind": "deep",
    "hint": "Did the spoon have any light of its own? Where did its brightness come from in the day?"
   },
@@ -159,7 +159,7 @@
   {
    "q": "The Sun was shining long before there were any people. Was it making light, even with no eyes to see it?",
    "kind": "big",
-   "hint": "Think of the torch shining in an empty room. Plants, animals and the sea all met the Sun's light before people did."
+   "hint": "Think of the torch shining in an empty room. The Sun's light fell on plants, animals and the sea before there were any people."
   }
  ],
  "story": {
@@ -218,7 +218,7 @@
    "days": 1,
    "context": "In this experiment you gather some things from home and guess which ones make their own light. Then you take them into a dark room and find out.",
    "question": "Which of these things make their own light, and which only look bright?",
-   "predict": "Look at each thing in the basket. Will you be able to see it in the dark room? Why do you think so?",
+   "predict": "Look at each thing on the tray. Will you be able to see it in the dark room? Why do you think so?",
    "fair_test": "We use the same dark room for every thing. We wait one whole minute in the dark before we start, so our eyes get used to it. We hold each thing in the same place, an arm's length in front of us.",
    "results_table": [
     "Thing",
@@ -329,7 +329,7 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Your child switches the torch on and points it at the ceiling. 2. Then off, and on again, three times. 3. Then they shine it on the spoon, and then point it away from the spoon.",
+     "do": "1. Your child switches the torch on and points it at the ceiling. 2. They switch it off and on again, three times. 3. Then they shine it on the spoon, and then point it away from the spoon.",
      "say": "Switch the torch on. Now off. Is any light left? Now shine it on the spoon. Now point it away. What happens to the spoon?",
      "kid": "Switch the torch on and off. Shine it on the spoon. Now point it away.",
      "ask": [
@@ -341,7 +341,7 @@
        ]
       },
       {
-       "q": "What did the spoon do?",
+       "q": "What happened to the spoon when you shone the torch on it, and when you pointed the torch away?",
        "good": [
         "It shone when the torch was on it.",
         "It went dark when I pointed the torch away."
@@ -358,7 +358,7 @@
      "kid": "Which things shone in the dark? Which vanished? Why?",
      "ask": [
       {
-       "q": "What did you find?",
+       "q": "What did you find out in the dark room?",
        "good": [
         "Only the torch and the phone shone in the dark.",
         "The spoon only shines when light is on it.",
@@ -368,14 +368,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Lakshmi is in a dark room with a steel spoon and a torch that is switched on. Which one makes its own light?",
+      "q": "You are in a dark room with a steel spoon and a torch that is switched on. Which one makes its own light?",
       "options": [
        "The torch",
        "The spoon",
        "Both of them"
       ],
       "a": 0,
-      "why": "The torch is a light source: it makes its own light. The spoon makes no light. Lakshmi can see the spoon only when the torch shines on it."
+      "why": "The torch is a light source: it makes its own light. The spoon makes no light. You can see the spoon only when the torch shines on it."
      }
     }
    ]
@@ -387,7 +387,7 @@
    "days": 1,
    "context": "In this experiment you stand at one end of a dark room with three different light sources. You find out which one lets you see a drawing on the far wall.",
    "question": "Do all light sources give the same amount of light?",
-   "predict": "Which will help you see the drawing best: the phone screen or the torch? Why do you think so? (If you do the diya extra, guess for the diya too.)",
+   "predict": "Which will help you see the drawing best: the phone screen or the torch? Why do you think so? (If a grown-up will light a diya too, guess for the diya as well.)",
    "fair_test": "We stand in the same place each time, and hold each light at the same height. We use one light at a time. We look at the same drawing every time.",
    "results_table": [
     "Light source (phone, torch, and diya if you use it)",
@@ -412,7 +412,7 @@
      "qty": 1
     }
    ],
-   "safety": "If you do the diya extra, only a grown-up lights, carries and blows out the diya or candle. Keep it on a steel plate, away from curtains and clothes.",
+   "safety": "If you use a diya or a candle, only a grown-up lights it, carries it and blows it out. Keep it on a steel plate, away from curtains and clothes.",
    "schedule": [
     {
      "day": 1,
@@ -451,7 +451,7 @@
      "kid": "Which light will show the drawing best? Why?",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Why do you think that light will show the drawing best?",
        "good": [
         "The torch, because it is the brightest.",
         "The diya, because fire is strong."
@@ -464,7 +464,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Switch off the room light and wait one minute. 2. Your child holds up the phone screen, facing the drawing. 3. Then the torch, pointed at the drawing. 4. Extra, if a grown-up is happy to light a flame: you hold up the lit diya at the same spot.",
-     "say": "First the phone screen. Can you see the drawing? Can you see its colours? Now the torch. (Extra: now the diya.)",
+     "say": "First the phone screen. Can you see the drawing? Can you see its colours? Now the torch. (If you are using a diya: now the diya.)",
      "kid": "Hold up the phone. Can you see the drawing? Now try the torch.",
      "adult": true,
      "ask": [
@@ -486,7 +486,7 @@
      "kid": "Which light was brightest? Do all lights give the same light?",
      "ask": [
       {
-       "q": "What did you find?",
+       "q": "What did you find out about the three lights?",
        "good": [
         "Some light sources make more light than others.",
         "The torch was brightest."
@@ -495,7 +495,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Revathi has a phone screen and a torch in a dark room. She wants to see a toy far away. Which should she use?",
+      "q": "You have a phone screen and a torch in a dark room. You want to see a toy far away. Which should you use?",
       "options": [
        "The torch",
        "The phone screen",
@@ -641,7 +641,7 @@
      "kid": "How many did you find? What do they need to keep shining?",
      "ask": [
       {
-       "q": "What do they need?",
+       "q": "What do the little lights need to keep shining?",
        "good": [
         "Electricity.",
         "If the power goes, they go out."
@@ -740,7 +740,7 @@
      "adult": true,
      "ask": [
       {
-       "q": "What does it need?",
+       "q": "What does the diya need to keep making light?",
        "good": [
         "Oil.",
         "A wick.",
@@ -750,7 +750,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Ramya's diya has burnt for a long time. Now its oil is all used up. What will happen?",
+      "q": "A diya has burnt for a long time. Now its oil is all used up. What will happen?",
       "options": [
        "The flame goes out",
        "The flame gets brighter",
@@ -901,7 +901,7 @@
      "kid": "What would make the torch and the candle shine?",
      "check": {
       "t": "mcq",
-      "q": "Nisha, a girl in your class, says a mirror is a light source because it shines. Is she right?",
+      "q": "Someone says a mirror is a light source because it shines. Are they right?",
       "options": [
        "No, a mirror only sends back light from somewhere else",
        "Yes, a mirror makes its own light",
@@ -1018,7 +1018,7 @@
      "kid": "The power is back! What do tube lights need to shine?",
      "check": {
       "t": "mcq",
-      "q": "Faiz plays 'Power cut!'. The tube light goes dark. What does it need to shine again?",
+      "q": "In a power cut, a tube light goes dark. What does it need to shine again?",
       "options": [
        "Electricity from the wires",
        "Sunlight on the glass",
@@ -1037,7 +1037,7 @@
    "title": "The Paper-Cup Star Lantern",
    "mins": 25,
    "days": 2,
-   "context": "In this project you make a lantern from a paper cup with holes in its bottom. On the second night you put it over a torch, and fill the ceiling with spots of light.",
+   "context": "In this project you make a lantern from a paper cup with holes in its bottom. The next night you put it over a torch, and fill the ceiling with spots of light.",
    "materials": [
     {
      "item": "a paper cup that fits over the lit end of your torch",
@@ -1060,7 +1060,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up makes the holes. Push the point down into the dough inside the cup, away from fingers.",
+   "safety": "A grown-up makes the holes. Push the pencil point down into the dough inside the cup, away from fingers.",
    "schedule": [
     {
      "day": 1,
@@ -1108,7 +1108,7 @@
      "kid": "Look up at the ceiling. Count the spots. Where does the light come from?",
      "ask": [
       {
-       "q": "Where does the light come from?",
+       "q": "Where does the light in the spots come from?",
        "good": [
         "From the torch, through the holes.",
         "The cup makes no light. The torch does."
@@ -1125,7 +1125,7 @@
      "kid": "Switch the torch off. Where did the spots go?",
      "check": {
       "t": "mcq",
-      "q": "Anjali switches off the torch under her star lantern. What happens to the spots on the ceiling?",
+      "q": "You switch off the torch under the star lantern. What happens to the spots on the ceiling?",
       "options": [
        "They vanish at once",
        "They stay on the ceiling",
@@ -1144,7 +1144,7 @@
    "title": "Read in the Power Cut",
    "mins": 12,
    "context": "This is a problem to solve. Pretend there is a power cut at night. You want to look at a picture book. How can you light it up?",
-   "problem": "Gayatri and a grown-up want to read a picture book together, but the power has gone. How can they light up the page well enough to see the pictures?",
+   "problem": "The power has gone at night. You and a grown-up want to read a picture book together. How can you light up the page well enough to see the pictures?",
    "constraints": [
     "Pretend the room lights and fans do not work.",
     "Only a grown-up may use a flame.",
@@ -1188,7 +1188,7 @@
      "kid": "It is a pretend power cut. How can you light up the book?",
      "ask": [
       {
-       "q": "What could we use?",
+       "q": "What could we use to light up the book?",
        "good": [
         "The torch.",
         "The phone.",
@@ -1213,11 +1213,11 @@
      "kid": "Which way was best? Which light did it start with?",
      "check": {
       "t": "mcq",
-      "q": "Gayatri holds a steel plate next to her book in the dark. No torch is on. Will the plate light up the book?",
+      "q": "You hold a steel plate next to a book in the dark. No torch is on. Will the plate light up the book?",
       "options": [
        "No, the plate makes no light",
        "Yes, steel shines",
-       "Only if she holds it close"
+       "Only if you hold it close"
       ],
       "a": 0,
       "why": "A steel plate is not a light source. It can only send back light that falls on it. In the dark, with no torch, it has no light to send."
@@ -1494,7 +1494,7 @@
     },
     {
      "t": "write",
-     "p": "Rani, a girl in Class 1, says: 'In a power cut, the light runs away to the power station.' Say what you would tell her, and a grown-up writes it.",
+     "p": "Someone says: 'In a power cut, the light runs away to the power station.' Say what you would tell them, and a grown-up writes it.",
      "lines": 2,
      "a": "The light does not run away. The tube light stops making light because no electricity comes to it. When the power comes back, it makes new light.",
      "why": "A strong answer says a lamp makes light only while electricity reaches it. The light is not stored anywhere waiting to come back."
@@ -1576,7 +1576,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavitha switches off the tube light at night. Why does the room go dark?",
+   "p": "You switch off the tube light at night. Why does the room go dark?",
    "opts": [
     "The tube light stops making light",
     "The light goes back into the tube",
@@ -1612,7 +1612,7 @@
   },
   {
    "t": "mcq",
-   "p": "Pooja wants to see the Sun better. What should she do?",
+   "p": "What is the rule for looking at the Sun?",
    "opts": [
     "Never look straight at it",
     "Look at it through sunglasses",
@@ -1767,34 +1767,34 @@
  ],
  "maths": [
   {
-   "problem": "In the dark room test, Meena, a girl in Class 1, guessed that 5 things would shine. Only 2 really did: the torch and the phone. How many fewer shone than she guessed?",
+   "problem": "In the dark room test, a child guessed that 5 things would shine in the dark. Only 2 really did: the torch and the phone. How many fewer shone than the child guessed?",
    "answer": "3 fewer.",
-   "explain": "Count on from 2 to 5: 3, 4, 5. That is 3. So 3 fewer things shone than Meena guessed. The others were shiny things.",
+   "explain": "Count on from 2 to 5: 3, 4, 5. That is 3. So 3 fewer things shone than the child guessed. The others were shiny things.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
    "context": "This is about the dark room test, where you found which things shine in the dark.",
    "why_maths": "Taking away shows how many of the guesses were wrong, and those are the things worth thinking about."
   },
   {
-   "problem": "On the Little Lights Hunt, Sowmya found 3 tiny lights in the kitchen and 4 in the hall. Which room had more? How many did she find in all?",
+   "problem": "On the Little Lights Hunt, you find 3 tiny lights in the kitchen and 4 in the hall. Which room has more? How many do you find in all?",
    "answer": "The hall. 7 in all.",
-   "explain": "4 is more than 3, so the hall had more. 3 and 4 make 7, so Sowmya found 7 little lights in all.",
+   "explain": "4 is more than 3, so the hall has more. 3 and 4 make 7, so you find 7 little lights in all.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a2",
    "context": "This is about the Little Lights Hunt, where you counted tiny lights at night.",
    "why_maths": "Tally marks help us count every light, and comparing the counts shows where the most light sources are."
   },
   {
-   "problem": "Joseph's star lantern has 6 holes, and it makes 6 spots on the ceiling. He pokes 4 more holes. How many spots will he see now?",
+   "problem": "A star lantern has 6 holes, and it makes 6 spots on the ceiling. A grown-up pokes 4 more holes. How many spots will it make now?",
    "answer": "10 spots.",
-   "explain": "Each hole lets out a little torch light and makes one spot. 6 holes and 4 more holes make 10 holes. So he will see 10 spots.",
+   "explain": "Each hole lets out a little torch light and makes one spot. 6 holes and 4 more holes make 10 holes. So it will make 10 spots.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "p1",
    "context": "This is about the Paper-Cup Star Lantern, where a torch makes spots on the ceiling.",
    "why_maths": "Knowing that one hole makes one spot lets us predict the spots before we switch on the torch."
   },
   {
-   "problem": "For Karthigai Deepam, Anu sets lamps in a row: diya, diya, LED, diya, diya, LED, diya, diya. What comes next?",
+   "problem": "For Karthigai Deepam, lamps are set in a row: diya, diya, LED, diya, diya, LED, diya, diya. What comes next?",
    "answer": "An LED.",
    "explain": "The pattern is two diyas, then one LED, again and again. After two diyas comes an LED.",
    "math_unit": "math.patterns.repeating-patterns.L1",
@@ -1863,11 +1863,11 @@
   }
  ],
  "roots": {
-  "context": "We have tested which things shine in the dark, and switched a torch on and off. Now we ask what that tells us about light, about ourselves and about the world.",
+  "context": "In the dark room test, we found out which things shine in the dark, and we switched a torch on and off. Now we ask what that tells us about light, about ourselves and about the world.",
   "deep_truth": {
    "truth": "In the dark room, the torch lit things only while it was switched on. The dark came back the moment it went off. So the torch makes new light every moment. Every lamp needs oil, cells or electricity to keep making it.",
-   "habit": "We talk about light as if it fills a room and stays there, like water in a tank. The torch test shows a room has light only while a light source keeps making it.",
-   "evidence": "In the dark room test, the dark came back the instant the torch went off. When a grown-up blew out the diya, its light was gone at once too."
+   "habit": "We talk about light as if it fills a room and stays there, like water in a tank. The dark room test shows that a room has light only while a light source keeps making it.",
+   "evidence": "In the dark room test, the dark came back the instant the torch went off. In The Diya Up Close, when a grown-up blew out the diya, its light was gone at once too."
   },
   "three": {
    "who_am_i": "You are someone who sees by light. Every time you see a face you love, light from a light source has bounced off that face into your eyes.",
@@ -1908,7 +1908,7 @@
    "kid": "Look gently at the flame. Count to ten. Now close your eyes. Can you see a glowing spot? Watch it fade."
   },
   "ask": [
-   "When you closed your eyes, the spot glowed for a while. Was that light in the room, or in you?",
+   "After you looked at the diya flame and closed your eyes, a spot glowed for a while. Was that light in the room, or in you?",
    "The torch makes new light every moment. Are you new every moment too?",
    "If the Sun is a light source and you see by the Sun, where does your seeing start?"
   ],
@@ -1986,5 +1986,5 @@
   ]
  },
  "playtest": "Walked through the dark room test, the far-wall test, the three activities, the star lantern, the power-cut challenge and both games as a parent and a 6-year-old would in a flat. Cut the dark room test to 15 minutes by taking out its diya extra (the diya has its own activity), and fixed the cards, answers and evidence that mentioned it. Made the card sorting game playable: cards stay on their paper, wrong ones turn face down, and the count and the NOT NOW question use those. Gave the moving game a score for one child and a new check, so torch-off is not asked again. Introduced Nisha in the mirror check.",
- "warm": {"words": ["LIGHT", "FLAME", "TORCH", "SHINE", "STARS"], "quiz": [["A torch makes its own light.", true, "A torch is a light source, and it makes light while its cells work."], ["A steel spoon makes its own light because it is shiny.", false, "A shiny spoon only sends back light that falls on it, so you cannot see it in the dark."], ["The Sun is a star.", true, "It is a huge ball of very hot gas that makes its own light."], ["The Sun stops shining at night.", false, "The Sun never stops shining. At night our side of the Earth faces away from it."], ["A mirror looks bright only when light from a source falls on it.", true, "A mirror makes no light of its own, so in the dark you cannot see it."], ["A lamp keeps light stored inside it, so the light stays after you switch it off.", false, "A lamp makes new light every moment while it works, and the light stops when it is off."], ["A firefly makes its own light.", true, "A firefly is a light source, so you can see it even in the dark."], ["The Moon makes its own light, like the Sun.", false, "The Moon only sends back light that comes from the Sun."], ["Most of the light on Earth in the day comes from the Sun.", true, "The Sun is our biggest light source."], ["A phone screen only sends back light that falls on it.", false, "A phone screen makes its own light, so it is a light source."]], "odd": [[["The Sun", "A torch", "A candle flame", "A mirror"], "A mirror", "The first three make their own light, but a mirror only sends back light that falls on it."], [["Torch", "Electric lamp", "Phone screen", "The Sun"], "The Sun", "The first three stop making light when switched off, but the Sun keeps shining all the time."], [["Fire", "Candle flame", "The Sun", "Firefly"], "Firefly", "The first three are hot as well as bright, but a firefly makes cool light."], [["The Sun", "Lightning", "Firefly", "Torch"], "Torch", "The first three are light sources found in nature, but people make torches."], [["The Sun", "Pole Star", "Distant stars", "The Moon"], "The Moon", "The Sun and stars are hot balls of gas that make their own light, but the Moon only sends back sunlight."]]}
+ "warm": {"words": ["LIGHT", "FLAME", "TORCH", "SHINE", "STARS"], "quiz": [["A torch makes its own light.", true, "A torch is a light source, and it makes light while its cells work."], ["A steel spoon makes its own light because it is shiny.", false, "A shiny spoon only sends back light that falls on it, so you cannot see it in the dark."], ["The Sun is a star.", true, "It is a huge ball of very hot gas that makes its own light."], ["The Sun stops shining at night.", false, "The Sun never stops shining. At night our side of the Earth faces away from it."], ["A mirror looks bright only when light from a source falls on it.", true, "A mirror makes no light of its own, so in the dark you cannot see it."], ["A lamp keeps light stored inside it, so the light stays after you switch it off.", false, "A lamp makes new light every moment while it works, and the light stops when it is off."], ["A firefly makes their own light.", true, "A firefly is a light source, so you can see them even in the dark."], ["The Moon makes its own light, like the Sun.", false, "The Moon only sends back light that comes from the Sun."], ["Most of the light on Earth in the day comes from the Sun.", true, "The Sun is our biggest light source."], ["A phone screen only sends back light that falls on it.", false, "A phone screen makes its own light, so it is a light source."]], "odd": [[["The Sun", "A torch", "A candle flame", "A mirror"], "A mirror", "The first three make their own light, but a mirror only sends back light that falls on it."], [["Torch", "Electric lamp", "Phone screen", "The Sun"], "The Sun", "The first three stop making light when switched off, but the Sun keeps shining all the time."], [["Fire", "Candle flame", "The Sun", "Firefly"], "Firefly", "The first three are hot as well as bright, but a firefly makes cool light."], [["The Sun", "Lightning", "Firefly", "Torch"], "Torch", "The first three are light sources found in nature, but people make torches."], [["The Sun", "Pole Star", "Distant stars", "The Moon"], "The Moon", "The Sun and stars are hot balls of gas that make their own light, but the Moon only sends back sunlight."]]}
 }

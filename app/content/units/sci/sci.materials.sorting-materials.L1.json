@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Here are six things: a steel spoon, a pencil, a comb, a key, a bottle cap and a wooden spoon. Can you put them into two groups? What question did you ask to make your groups?",
-  "text": "People sort things every day. A grandmother in Kochi puts the steel vessels on one shelf and the glass jars on another. In Mumbai, the dabbawalas sort thousands of tiffin boxes by the marks on the lids. To sort, you ask one question about each thing, like 'Is it metal?' The things that say yes go in one group. The things that say no go in the other.",
+  "text": "People sort things every day. A grandmother in Kochi puts the steel vessels on one shelf and the glass jars on another. In Mumbai, the dabbawalas sort thousands of tiffin boxes by the marks on the lids. To sort, you ask one question about each thing, like 'Is it metal?' If the answer is yes, the thing goes in one group. If the answer is no, it goes in the other group.",
   "art": "Three small pictures side by side: a grandmother putting steel vessels on a shelf, a dabbawala in a white cap sorting tiffin boxes with painted marks, and a bangle seller with rows of red and green bangles."
  },
  "outcomes": [
@@ -41,7 +41,7 @@
   {
    "term": "Test",
    "meaning": "A test is something you do to find out an answer, instead of only guessing.",
-   "example": "Tap a tumbler with a spoon. If it rings, ting, it is probably metal.",
+   "example": "Tap a tumbler with a spoon. If it rings with a 'ting', it is probably metal.",
    "art": "A girl tapping a steel tumbler with a spoon, with small lines around the tumbler to show it ringing."
   },
   {
@@ -75,7 +75,7 @@
   {
    "concept": "A question makes the groups",
    "status": "defined",
-   "definition": "To sort, you ask the same question about every thing. The things that answer yes make one group. The things that answer no make the other group.",
+   "definition": "To sort, you ask the same question about every thing. If the answer is yes, the thing goes in one group. If the answer is no, it goes in the other group.",
    "description": "The question 'Is it metal?' makes two groups: metal things and things that are not metal. The question 'Is it made of wood?' makes two different groups. You can sort the same heap with many questions. Each question gives new groups. A good sorting question has a clear answer for each thing.",
    "examples": [
     "'Is it metal?' puts a key and a coin together, and a pencil and a comb in the other group.",
@@ -97,7 +97,7 @@
     "A steel tiffin is heavier than a plastic tiffin of the same size."
    ],
    "perspectives": [],
-   "context": "This card is about the things that were hard to sort, and how to decide.",
+   "context": "This card is about things that are hard to sort, and how to decide where they go.",
    "art": "A girl tapping a clear bottle with a spoon and listening carefully, with a second clear bottle beside it."
   },
   {
@@ -159,7 +159,7 @@
   {
    "q": "The katori is steel, with air inside it. Is it a steel thing or an air thing?",
    "kind": "deep",
-   "hint": "Try floating it with the air, and then without. What changed?"
+   "hint": "Float the katori empty, with air inside it. Then fill it with water. What changed?"
   },
   {
    "q": "If a thing fits in two groups, which one is the right group?",
@@ -180,7 +180,7 @@
  "roots": {
   "context": "We have sorted things by what they are made of, and then by whether they float. Now we ask what the floating katori tells us about things, and about ourselves.",
   "deep_truth": {
-   "truth": "In your water test, the steel spoon sank, but the steel katori floated. When you filled the katori with water, it sank too. The air inside its hollow shape had held it up. So whether a thing floats depends on its material and on the air its shape holds.",
+   "truth": "In the Sink or Float Sort, the steel spoon sank, but the steel katori floated. When you filled the katori with water, it sank too. The air inside its hollow shape had held it up. So whether a thing floats depends on its material and on the air its shape holds.",
    "habit": "We sort things by material and expect everything in one group to act the same: metal sinks, wood floats. But a thing is its material and its shape together, and the shape can hold air.",
    "evidence": "In the Sink or Float Sort, the spoon, the coin and the key sank, while the katori floated. Once the katori was filled with water, it went to the bottom like the spoon."
   },
@@ -189,7 +189,7 @@
    "what_is_life": "Living beings sort things all the time. A crow picks out the food she wants from a heap. Your tongue sorts sweet from bitter.",
    "what_is_this_world": "The world has many materials, and each one can be made into many shapes. A material and its shape together decide what a thing can do."
   },
-  "thread": "A heap of spoons, keys, combs and pencils falls into a few materials: metal, wood and plastic. But the same steel can be a spoon that sinks or a katori that floats, because the shape holds air. Everything is conscious: the steel, the water, the air, and the child who sorts them.",
+  "thread": "A heap of spoons, keys, combs and pencils can be sorted into a few materials: metal, wood and plastic. But the same steel can be a spoon that sinks or a katori that floats, because the shape holds air. Everything is conscious: the steel, the water, the air, and the child who sorts them.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
@@ -214,7 +214,7 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Steel, water and air are only materials. For these scientists, only living beings with brains are aware."
+   "view": "Many scientists say that steel, water and air are only materials, and that only living beings with brains are aware."
   },
   "practice": {
    "title": "Fill up like a katori",
@@ -467,7 +467,7 @@
        ]
       }
      ],
-     "parent": "Wait for a reason with every guess. Many children say 'all metal sinks'. Don't correct this. The water will answer it."
+     "parent": "Wait for a reason with every guess. Many children say 'all metal sinks'. Don't correct this. The test in the water will show them."
     },
     {
      "id": "s3",
@@ -671,7 +671,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Nila, a girl in Class 1, asks 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle?",
+      "q": "You ask 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle?",
       "options": [
        "The pencil",
        "The coin",
@@ -744,7 +744,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Cover your eyes. 2. Your child chooses four things and puts them on the other plate. 3. Open your eyes and guess.",
-     "say": "Now you make a plate for me. Put three things of one material and one different thing. I will close my eyes.",
+     "say": "Now you make a plate for me. Put three things of one material and one different thing on it. I will close my eyes.",
      "kid": "Make a plate for the grown-up. Three the same, one different.",
      "parent": "Guess out loud and give your reason. Get one wrong on purpose, and let your child explain why."
     },
@@ -948,7 +948,7 @@
     "The player runs and drops the card in the metal basket or the not-metal basket, then runs back.",
     "The caller reads the back of the card. A card in the right basket scores one point. For the pressure cooker card, either basket scores.",
     "For a tricky card, like the pressure cooker or the chips packet, a player who says why gets one more point.",
-    "After all 16 cards, add up the points. The most points wins. With two people, add up each person's points from both turns."
+    "After all 16 cards, add up the points. The player with the most points wins. With two people, add up each person's points from both turns."
    ],
    "setup": [
     {
@@ -1172,7 +1172,7 @@
        "q": "Which group was biggest?",
        "good": [
         "Steel.",
-        "Plastic, we have many dabbas."
+        "Plastic. We have many dabbas."
        ]
       }
      ]
@@ -1204,7 +1204,7 @@
      "wait": "Day 3",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 1, sorts her toys by 'Is it soft?' Where does her cloth rabbit go?",
+      "q": "You sort your toys by the question 'Is it soft?' Where does a cloth rabbit go?",
       "options": [
        "In the soft group",
        "In the hard group",
@@ -1244,7 +1244,7 @@
    ],
    "creative": [
     "Lay an empty plastic bottle on its side, and tape the sticks on top of it.",
-    "Use a steel katori as a boat, since you saw that it floats.",
+    "Use a steel katori as a boat. It floated in the Sink or Float Sort.",
     "Make the raft wider, so it does not tip over."
    ],
    "your_turn": "Build your raft and test it with the toy. If it tips or sinks, change one thing and try again. Draw your best raft, and colour each material in a different colour.",
@@ -1263,8 +1263,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Read the problem to your child. 2. Look back at the float pile from the Sink or Float Sort.",
-     "say": "The toy wants to cross the water and stay dry. Which things floated in our test? Which would make a good raft?",
-     "kid": "Which things floated in your test? Which could make a raft?",
+     "say": "The toy wants to cross the water and stay dry. Which things floated in the Sink or Float Sort? Which would make a good raft?",
+     "kid": "Which things floated in the Sink or Float Sort? Which could make a raft?",
      "ask": [
       {
        "q": "Which things will you use? Why?",
@@ -1311,7 +1311,7 @@
       "t": "mcq",
       "q": "Why are ice-cream sticks better than coins for a raft?",
       "options": [
-       "The sticks floated in our test, and the coins sank",
+       "Wood floated in the Sink or Float Sort, and the coin sank",
        "The sticks are a nicer colour",
        "The coins are too round"
       ],
@@ -1363,7 +1363,7 @@
       ]
      ],
      "a": "see items",
-     "why": "A key, a tumbler and a coin are metal: hard, shiny and they ring when tapped. A pencil is wood, a towel is cloth and a comb is plastic.",
+     "why": "A key, a tumbler and a coin are metal. They are hard and shiny, and they ring when tapped. A pencil is wood, a towel is cloth and a comb is plastic.",
      "how": "a1",
      "art": "Six small pictures in a row: a key, a pencil, a steel tumbler, a folded towel, a coin and a comb."
     },
@@ -1406,11 +1406,11 @@
       "A bucket"
      ],
      "a": 2,
-     "why": "A bottle cap, a comb and a bucket are usually plastic. A steel spoon is metal: shiny, cold and it rings when tapped."
+     "why": "A bottle cap, a comb and a bucket are usually plastic. A steel spoon is metal. It is shiny and cold, and it rings when tapped."
     },
     {
      "t": "mcq",
-     "p": "Meena, a girl in Class 1, puts a key, a coin and a spoon together. What question did she ask?",
+     "p": "A key, a coin and a spoon are put together in one group. What question was asked?",
      "opts": [
       "Is it metal?",
       "Is it soft?",
@@ -1487,11 +1487,11 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Anjali, a girl in Class 1, has a clear bottle. She does not know if it is glass or plastic. What is a good test?",
+     "p": "You have a clear bottle. You do not know if it is glass or plastic. What is a good test?",
      "opts": [
       "Tap it with a spoon and listen",
       "Look at its colour",
-      "Count how many she has"
+      "Count how many you have"
      ],
      "a": 0,
      "why": "Glass goes ting and plastic goes tock. Lifting it helps too: glass is heavier. The colour does not tell you."
@@ -1535,14 +1535,14 @@
     },
     {
      "t": "write",
-     "p": "Fatima, a girl of 7, says, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell Fatima? Say it, and a grown-up writes it down.",
+     "p": "Some people say, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell them? Say it, and a grown-up writes it down.",
      "lines": 2,
      "a": "The log floats. So heavy things do not always sink. A small key is light, and it sinks. What a thing is made of, and its shape, matter more than how heavy it is.",
-     "why": "A strong answer uses an example that does not fit Fatima's rule, like a heavy log that floats or a light key that sinks."
+     "why": "A strong answer uses an example that does not fit the rule, like a heavy log that floats or a light key that sinks."
     },
     {
      "t": "count",
-     "p": "In the Sink or Float Sort, Selvi, a girl in Class 1, had a metal group with a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?",
+     "p": "In the Sink or Float Sort, the metal group had a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?",
      "a": 3,
      "why": "4 metal things, and 1 floated. 4 take away 1 is 3. The spoon, the coin and the key sank.",
      "how": "e1"
@@ -1592,9 +1592,9 @@
     },
     {
      "t": "write",
-     "p": "Kannan, a boy of 4, sorted his toys into 'red' and 'not red'. His sister sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.",
+     "p": "One child sorted some toys into 'red' and 'not red'. Another child sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.",
      "lines": 2,
-     "a": "Yes. Each question makes its own groups. Kannan sorted by colour and his sister sorted by material. Both are good ways to sort.",
+     "a": "Yes. Each question makes its own groups. One child sorted by colour and the other sorted by material. Both are good ways to sort.",
      "why": "A strong answer says that the same heap can be sorted in many ways, and each question gives different groups."
     },
     {
@@ -1659,7 +1659,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl of six, asks 'Is it metal?' about each thing. Which one goes in the yes group?",
+   "p": "You ask 'Is it metal?' about each thing. Which one goes in the yes group?",
    "opts": [
     "A steel tumbler",
     "A cotton towel",
@@ -1744,11 +1744,11 @@
   },
   {
    "t": "mcq",
-   "p": "Before testing, Nila, a girl in Class 1, guessed that the pencil would float. What should she do next?",
+   "p": "Before testing, you guess that the pencil will float. What should you do next?",
    "opts": [
     "Test it in the water and see",
-    "Change her guess without testing",
-    "Say she was right without testing"
+    "Change your guess without testing",
+    "Say you were right without testing"
    ],
    "a": 0,
    "why": "A guess is where science starts. Then you test it, and the test shows if the guess was right.",
@@ -1756,9 +1756,9 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Class 1, guessed all the metal things would sink. The katori floated. What does that tell him?",
+   "p": "You guessed that all the metal things would sink. The katori floated. What does that tell you?",
    "opts": [
-    "His guess was wrong for the katori, so he learned something new",
+    "Your guess was wrong for the katori, so you learned something new",
     "The test went wrong",
     "The katori is not really metal"
    ],
@@ -1773,7 +1773,7 @@
    "channel": "HD1080ide",
    "youtube": "VyMFdjCPiFs",
    "mins": 3,
-   "why": "Shows a huge steel ship floated out of its dock into the water, like a giant version of the katori in the Sink or Float Sort.",
+   "why": "Shows a huge steel ship being floated out of its dock into the water, like a giant version of the katori in the Sink or Float Sort.",
    "check": "Found by search: \"Big Ship Launch: Float Out of Cruise Ship DISNEY WISH at Meyer Werft Shipyard\" by HD1080ide, 3 minutes. A parent may preview it."
   },
   {
@@ -1881,7 +1881,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Sink or Float Sort, Meena, a girl in Class 1, put 8 things in the water. 5 floated. How many sank?",
+   "problem": "In the Sink or Float Sort, 8 things go into the water. 5 float. How many sink?",
    "answer": "3 sank.",
    "explain": "Count 8 fingers. Fold down 5 for the things that floated. 3 fingers are left, so 3 things sank. 8 take away 5 is 3.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1890,7 +1890,7 @@
    "why_maths": "Taking away tells us how many are in the second group when we know the total and the first group."
   },
   {
-   "problem": "In the Yes-or-No Sort, the metal circle has 4 things and the not-metal circle has 6 things. Lakshmi, a girl of six, lays a knife across the edge of both circles, so it counts in both. How many things are in each circle now?",
+   "problem": "In the Yes-or-No Sort, the metal circle has 4 things and the not-metal circle has 6 things. Then a knife is laid across the edge of both circles, so it counts in both. How many things are in each circle now?",
    "answer": "5 things in the metal circle and 7 things in the not-metal circle.",
    "explain": "The knife is metal and plastic, so it counts in both circles. 4 and 1 more is 5. 6 and 1 more is 7.",
    "math_unit": "math.logic.sets-and-venn.L2",
@@ -1899,7 +1899,7 @@
    "why_maths": "Counting a thing that belongs to two groups shows how groups can overlap."
   },
   {
-   "problem": "Kavya, a girl in Class 1, made tally marks for her Recycling Corner this week: paper 6, plastic 9, metal 2. Which bag filled up fastest? What might her family do to throw away less of it?",
+   "problem": "Here are the tally marks from a Recycling Corner for one week: paper 6, plastic 9, metal 2. Which bag filled up fastest? What might the family do to throw away less of it?",
    "answer": "Plastic, with 9 things. They could carry a cloth bag to the shop, or buy things with less plastic wrapping.",
    "explain": "9 is more than 6, and 6 is more than 2. So the plastic bag got the most things. The numbers show where most of the waste comes from.",
    "math_unit": "math.data.sorting-and-tallies.L1",

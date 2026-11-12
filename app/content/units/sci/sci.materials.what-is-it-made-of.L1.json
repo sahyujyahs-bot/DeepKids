@@ -12,7 +12,7 @@
   "art": "A woman holding a small white paper cup of tea, and a curious girl beside her pointing at the cup with a puzzled face."
  },
  "outcomes": [
-  "By the end I can name six materials, wood, metal, plastic, glass, fabric and paper, and find things made of each one at home.",
+  "By the end I can name six materials (wood, metal, plastic, glass, fabric and paper) and find things made of each one at home.",
   "By the end I can tell what a thing is made of by looking at it, touching it, tapping it and lifting it.",
   "By the end I can say that one material can make many things, and one thing can be made of more than one material.",
   "By the end I can say where wood, paper, cotton cloth, metal, glass and plastic come from.",
@@ -75,7 +75,7 @@
     "Your rubber chappal is made of rubber."
    ],
    "perspectives": [],
-   "context": "This card says what a material is. It is what you looked for in the Material Hunt.",
+   "context": "This card says what a material is. In the Material Hunt, you sorted kitchen things by material.",
    "art": "A kitchen shelf with a steel kadai, a glass jar, a plastic dabba, a wooden ladle, a folded towel and a paper bag, each with a small label."
   },
   {
@@ -103,7 +103,7 @@
     "A spoon can be steel, wood, plastic or even silver, and it is still a spoon."
    ],
    "perspectives": [],
-   "context": "This card is about what you found in the Paper Cup Puzzle: one cup, two materials.",
+   "context": "In the Paper Cup Puzzle, you cut a paper cup open and found a thin plastic skin inside. This card explains how one thing can be made of two materials.",
    "art": "A paper cup cut open and laid flat, with a thin clear plastic skin peeling away from the inside, next to an open umbrella with arrows to its fabric, metal and handle."
   },
   {
@@ -148,7 +148,7 @@
    "claim": "Paper can only be made from trees.",
    "who": "Many people today, because most paper is made from wood",
    "for": "Most paper in shops is made from wood from trees.",
-   "against": "Paper can be made from any plant threads. Old paper was made from rags, bark and old fishing nets. Paper in India is also made from bamboo and from sugarcane waste.",
+   "against": "Paper can be made from any plant threads. Long ago, paper was made from rags, bark and old fishing nets. Paper in India is also made from bamboo and from sugarcane waste.",
    "status": "rejected",
    "context": "This card is about what paper is made from."
   },
@@ -245,7 +245,7 @@
    "title": "Material Bingo: cover all six",
    "mins": 15,
    "players": "1 to 3 players and one caller. A grown-up can be the caller.",
-   "context": "This is a board game. Each player has a board with six materials. The caller reads a thing, and you put a bean on that thing's material. The first to cover all six squares wins. With just a grown-up and a child, the grown-up calls and the child plays. The goal is to cover all six squares.",
+   "context": "This is a board game. Each player has a board with six materials. The caller reads out a thing, and you put a bean on the material it is made of. The first to cover all six squares wins. With just a grown-up and a child, the grown-up calls and the child plays.",
    "printables": [
     {
      "kind": "board",
@@ -407,7 +407,7 @@
        ]
       }
      ],
-     "parent": "Some things are made of more than one material, like a pressure cooker with a plastic handle. Let any answer that fits the back count. If your child says something else that could be true, ask 'How could we check?'"
+     "parent": "Some things are made of more than one material, like a pressure cooker with a plastic handle. Accept any answer that matches the back of the card. If your child says something else that could be true, ask 'How could we check?'"
     },
     {
      "id": "s3",
@@ -498,7 +498,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Clear the floor of toys. 2. Show your child the six material cards. 3. Say the glass rule.",
+     "do": "1. Clear the floor of toys. 2. Show your child the six material cards. 3. Tell them the glass rule: touch glass gently, do not carry it.",
      "say": "I will call a material. You find something made of it before I count to 20. For glass, don't carry it. Just touch it gently and tell me.",
      "kid": "Listen for the material. Find something made of it. For glass, just touch it.",
      "adult": false,
@@ -675,7 +675,7 @@
        "q": "Why do you think so?",
        "good": [
         "Paper gets wet, so both will leak.",
-        "The shop cup will hold it, because people drink tea from it.",
+        "The paper cup will hold it, because people drink tea from it.",
         "The newspaper will go soft."
        ]
       }
@@ -722,7 +722,7 @@
      "mins": 5,
      "do": "1. Pour the water out of the paper cup. 2. Cut it down one side with scissors and open it flat. 3. Your child feels the inside and the outside. 4. Tear a strip slowly from the cut edge, and look at the torn edge.",
      "say": "Feel the outside, then feel the inside. Are they the same? Now watch the edge as I tear it slowly.",
-     "kid": "Feel outside. Feel inside. Watch the edge when it tears.",
+     "kid": "Feel the outside of the cup. Feel the inside. Watch the edge when it tears.",
      "adult": true,
      "ask": [
       {
@@ -808,7 +808,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the six material cards on the kitchen floor. 2. Point to each one and name it.",
-     "say": "These are six materials. In our kitchen, which material do you think we will find the most things made of? Why?",
+     "say": "These are six materials. In our kitchen, which material do you think the most things are made of? Why?",
      "kid": "Look at the six cards. Which material is used most in our kitchen? Guess, and say why.",
      "ask": [
       {
@@ -924,7 +924,7 @@
      "mins": 8,
      "do": "Make a rubbing of the jute bag or towel, the steel plate and the plastic basket, each on new paper.",
      "say": "Before you rub, guess. Will the steel plate make a pattern? Why do you think so?",
-     "kid": "Guess first. Then rub the cloth, the plate and the basket.",
+     "kid": "Guess first: will the steel plate make a pattern? Then rub the cloth, the plate and the basket.",
      "ask": [
       {
        "q": "What did the steel plate make?",
@@ -1073,14 +1073,14 @@
      "mins": 2,
      "do": "Show your child the foil and the inside of the chips packet.",
      "say": "Both of these are shiny. Kitchen foil is a metal called aluminium. Is the chips packet metal too? What do you think, and why?",
-     "kid": "Both are shiny. Is the chips packet metal too? Why do you think so?"
+     "kid": "The foil and the chips packet are both shiny. Is the chips packet metal too? Why do you think so?"
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Your child scrunches each one into a tight ball. 2. Put both balls on the table. 3. Watch for one minute.",
      "say": "Squeeze each one into a tight ball. Put them down. Now watch them for a minute.",
-     "kid": "Scrunch both into balls. Put them down. Watch.",
+     "kid": "Scrunch the foil and the chips packet into balls. Put them down. Watch them for a minute.",
      "ask": [
       {
        "q": "What happened?",
@@ -1202,7 +1202,7 @@
      "mins": 15,
      "do": "On day 2, your child adds a cloth sheet, a foil mirror or a bottle-cap plate, and paper pictures.",
      "say": "Now add fabric, metal and paper. Which part will be fabric?",
-     "kid": "Add a cloth sheet, a metal mirror and paper pictures.",
+     "kid": "Add a cloth sheet, a foil mirror and paper pictures.",
      "wait": "Day 2"
     },
     {
@@ -1291,7 +1291,7 @@
      "mins": 10,
      "do": "1. Help your child make one fan from each material, all about the same size. 2. Show the zigzag fold for the paper.",
      "say": "Fold the paper forward, then back, then forward. Pinch one end. That is your fan.",
-     "kid": "Make a fan from each one. Fold the paper back and forth."
+     "kid": "Make one fan from paper, one from cloth and one from plastic. Fold the paper back and forth."
     },
     {
      "id": "s3",
@@ -1439,7 +1439,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meena, a girl in Class 1, taps a tumbler with a spoon. It rings: ting! It is shiny and cold. What is the tumbler made of?",
+     "p": "You tap a tumbler with a spoon. It rings: ting! It is shiny and cold. What is the tumbler made of?",
      "opts": [
       "Metal",
       "Plastic",
@@ -1462,7 +1462,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the Paper Cup Puzzle, where water went into a newspaper cone and a paper cup. Why did the newspaper cone leak, but the paper cup held the water? Say it, and a grown-up writes it down.",
+     "p": "Remember the Paper Cup Puzzle, where water went into a newspaper cone and a paper cup. Why did the newspaper cone leak, while the paper cup held the water? Say it, and a grown-up writes it down.",
      "lines": 2,
      "a": "The newspaper is only paper, and paper soaks up water. The paper cup has a thin plastic skin inside, and water cannot soak through it.",
      "why": "A strong answer says what was different: the plastic skin inside the paper cup.",
@@ -1515,7 +1515,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Anjali, a girl in Class 1, finds a light, red, smooth box. She taps it: tock. She cannot see through it. What is it most likely made of?",
+     "p": "You find a light, red, smooth box. You tap it: tock. You cannot see through it. What is it most likely made of?",
      "opts": [
       "Plastic",
       "Glass",
@@ -1534,7 +1534,7 @@
     },
     {
      "t": "sort",
-     "p": "Where does it come from? Sort these into 'from a plant' and 'from under the ground'.",
+     "p": "Where does it come from? Sort these into 'From a plant' and 'From the ground'.",
      "cats": [
       "From a plant",
       "From the ground"
@@ -1566,7 +1566,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Cotton grows on a plant, and paper and wood come from trees. Steel comes from iron in rocks, glass from sand, and most plastic from oil. All three are dug or pumped out of the ground."
+     "why": "Cotton grows on a plant, and paper and wood come from trees. Steel comes from iron in rocks, glass from sand, and most plastic from oil. Iron, sand and oil are all dug or pumped out of the ground."
     },
     {
      "t": "draw",
@@ -1895,7 +1895,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Material Hunt, Pooja, a girl in Class 1, made these tally marks: metal 7, plastic 5, glass 2. Which material had the most things?",
+   "problem": "After a Material Hunt in the kitchen, the tally marks are: metal 7, plastic 5, glass 2. Which material had the most things?",
    "answer": "Metal, with 7 things.",
    "explain": "7 is more than 5, and 5 is more than 2. So metal had the most, and glass had the fewest.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1904,7 +1904,7 @@
    "why_maths": "Tally marks turn a heap of things into numbers we can compare at a glance."
   },
   {
-   "problem": "In the Material Hunt, Nila, a girl in Class 1, found 6 things made of metal and 4 things made of plastic. How many more metal things did she find?",
+   "problem": "In a Material Hunt, you find 6 things made of metal and 4 things made of plastic. How many more metal things did you find?",
    "answer": "2 more metal things.",
    "explain": "Line up the metal things and the plastic things in pairs. 4 pairs match, and 2 metal things are left over. 6 take away 4 is 2.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -2041,7 +2041,7 @@
  "roots": {
   "context": "We have named the materials around us, and found that a paper cup is paper and plastic together. Now we ask what that tells us about things, and about ourselves.",
   "deep_truth": {
-   "truth": "The newspaper cone leaked, but the paper cup held its water. Inside the cup, you found a thin skin of plastic. The paper keeps the cup stiff, and the plastic keeps the water in. Many things are made of two or more materials, each doing its own part of the job.",
+   "truth": "In the Paper Cup Puzzle, the newspaper cone leaked, but the paper cup held its water. When the cup was cut open, you found a thin skin of plastic inside. The paper keeps the cup stiff, and the plastic keeps the water in. Many things are made of two or more materials, each doing its own part of the job.",
    "habit": "We name a thing after one material: a paper cup, a steel almirah, a wooden door. The name tells us only the main part. To know what a thing is made of, we have to look at every part.",
    "evidence": "In the Paper Cup Puzzle, the newspaper cone dripped within about a minute, while the paper cup stayed dry outside. When the cup was cut open, a thin clear skin stretched at the torn edge and could be peeled from the paper."
   },
@@ -2050,7 +2050,7 @@
    "what_is_life": "Some materials are made by living beings. Trees make wood, cotton plants make cotton, and silkworms spin silk.",
    "what_is_this_world": "The world is full of things, and every one is made of materials. A few materials, used again and again, make most of what you see."
   },
-  "thread": "Steel makes a tumbler, a spoon and a train. A paper cup is paper and plastic together. All these materials come from the Earth: from trees, plants, rocks, sand and oil. Everything is conscious, including the tree that gave the wood and the rock that gave the steel. Many scientists disagree, as the other view says.",
+  "thread": "Steel makes a tumbler, a spoon and a train. A paper cup is paper and plastic together. All these materials come from the Earth: from trees, plants, rocks, sand and oil. Everything is conscious, including the tree that gave the wood and the rock that gave the steel. Many scientists disagree. They say only living beings, or only beings with brains, are aware.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4",
@@ -2075,7 +2075,7 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Bose's metal wires changed because of changes on the metal's surface. For these scientists, that is a chemical change, and only living beings, or only beings with brains, are aware."
+   "view": "Many scientists say Bose's metal wires changed because of changes on the metal's surface. For them, that is a chemical change. They say only living beings, or only beings with brains, are aware."
   },
   "practice": {
    "title": "Two spoons, eyes closed",
@@ -2085,8 +2085,8 @@
   },
   "ask": [
    "Which part of your body feels hard like wood, and which part feels soft like cloth?",
-   "If a thing is made of two materials, which one is it really?",
-   "Bose said a metal can get tired like a muscle. What test could you try on a steel spoon?"
+   "If a thing is made of two materials, like a paper cup, which material is it really?",
+   "The scientist Jagadish Chandra Bose said a metal can get tired, like a muscle. What test could you try on a steel spoon?"
   ],
   "art": "A girl with her eyes closed holding a steel spoon in one hand and a wooden spoon in the other, with a faint tree behind the wooden spoon and a faint rock behind the steel one."
  },

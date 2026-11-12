@@ -350,7 +350,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Hold up each thing, one at a time. Name the steel plate in the fridge too, and show it in step 4. 2. Ask your child to guess. 3. Write their guesses in the table.",
+     "do": "1. Hold up each thing, one at a time. The steel plate stays in the fridge, so just say its name. You will show it in step 4. 2. Ask your child to guess. 3. Write their guesses in the table.",
      "say": "Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall? Why do you think so?",
      "kid": "Look at each thing. Shiny or dull? Will it make a bright spot? Why?",
      "ask": [
@@ -380,7 +380,7 @@
        ]
       }
      ],
-     "parent": "Tilt each thing a little, or move the torch, until you find the spot. The mirror gives the brightest spot. Newspaper feels smooth but makes no spot. That surprise matters later."
+     "parent": "Tilt each thing a little, or move the torch, until you find the spot. The mirror gives the brightest spot. Newspaper feels smooth but makes no spot. That is because it has bumps too small to feel."
     },
     {
      "id": "s4",
@@ -442,7 +442,7 @@
       "a": 0,
       "why": "Your breath left tiny drops of water on the steel. The drops made the surface bumpy, so the light went off in many directions. When the drops dried, the smooth steel shone again."
      },
-     "parent": "Wait for your child's own claim first. Then say the explanation: smooth surfaces reflect light back in one direction."
+     "parent": "Let your child say their own idea first. Then say the explanation: smooth surfaces reflect light back in one direction."
     }
    ]
   },
@@ -708,8 +708,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Take the wrapper off the crayon. 2. Show your child how to hold the crayon on its side.",
-     "say": "We are going to catch the bumps of things on paper. Hold the crayon on its side, like this.",
-     "kid": "Hold the crayon on its side. You will catch bumps on paper."
+     "say": "We are going to make the bumps on things show up on paper. Hold the crayon on its side, like this.",
+     "kid": "Hold the crayon on its side. You will make the bumps on things show up on paper."
     },
     {
      "id": "s2",
@@ -1183,7 +1183,7 @@
     "Long before glass mirrors, people looked at their faces in still water."
    ],
    "creative": [
-    "Smooth kitchen foil very flat over a piece of card, with no creases.",
+    "Press kitchen foil very flat onto a piece of card, so that it has no creases.",
     "Use the back of a shiny steel spoon. Your face looks funny, because the spoon is curved.",
     "Put clear plastic over black paper. It reflects only a little, so dim the room and look closely for a faint face."
    ],
@@ -1210,7 +1210,7 @@
        "q": "What must a mirror be like?",
        "good": [
         "Shiny.",
-        "Very smooth, like the steel plate in the torch test."
+        "Very smooth, like the steel plate in the Torch Spot Test."
        ]
       }
      ]
@@ -1221,7 +1221,7 @@
      "do": "Your child makes two mirrors from the materials. Help smooth the foil.",
      "say": "Smooth the foil very flat on the card. Rub it gently with your palm. Can you see your face? Now crumple a bit of it. What happens?",
      "kid": "Make a mirror. Smooth the foil flat. Can you see your face?",
-     "parent": "Flat foil shows a blurry face. Crumpled foil shows none. That matches the torch test."
+     "parent": "Flat foil shows a blurry face. Crumpled foil shows none. The Torch Spot Test showed the same thing: smooth things shine, and bumpy things do not."
     },
     {
      "id": "s3",
@@ -1356,7 +1356,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 1, smooths kitchen foil flat and sees a blurry face in it. Then she crumples the foil into a ball. What will she see now?",
+     "p": "You smooth kitchen foil flat and see a blurry face in it. Then you crumple the foil into a ball. What will you see now?",
      "opts": [
       "No face at all",
       "A clearer face",
@@ -1376,7 +1376,7 @@
       },
       {
        "who": "Thenmozhi, aged 7",
-       "says": "Still water is shiny. In the torch test it made a bright spot on the ceiling, and I can see my face in it."
+       "says": "Still water is shiny. In the Torch Spot Test it made a bright spot on the ceiling, and I can see my face in it."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
@@ -1402,7 +1402,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Nila, a girl in Class 1, folds her paper bridge so the folds run across the gap, not from one pile of books to the other. How will it hold coins?",
+     "p": "You fold your paper bridge so that the folds run across the gap, not from one pile of books to the other. How well will it hold coins?",
      "opts": [
       "It sags with few coins, because folds must run from pile to pile",
       "It holds the same as the zigzag bridge",
@@ -1420,7 +1420,7 @@
     },
     {
      "t": "sort",
-     "p": "Bend each one gently in your mind. Is it bendy or stiff?",
+     "p": "Think about bending each one gently. Is it bendy or stiff?",
      "cats": [
       "Bendy",
       "Stiff"
@@ -1619,14 +1619,14 @@
   },
   {
    "t": "mcq",
-   "p": "Bornali, a girl in Class 1, splashes a bucket of still water. Her face in the water breaks into pieces. Why?",
+   "p": "You splash a bucket of still water. Your face in the water breaks into pieces. Why?",
    "opts": [
     "The ripples make the surface bumpy",
     "The water went dark",
     "The bucket moved away"
    ],
    "a": 0,
-   "why": "Ripples make the water's surface bumpy, so the light goes off in many directions. When the water is still again, her face comes back.",
+   "why": "Ripples make the water's surface bumpy, so the light goes off in many directions. When the water is still again, your face comes back.",
    "outcome": 2
   },
   {
@@ -1655,10 +1655,10 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi, a girl in Class 1, guesses that the hanky will make a bright spot in the torch test. It does not. What should she do?",
+   "p": "You guess that the hanky will make a bright spot in the Torch Spot Test. It does not. What should you do?",
    "opts": [
-    "Say what she saw, and change her idea",
-    "Keep her guess, because it was hers",
+    "Say what you saw, and change your idea",
+    "Keep your guess, because it was yours",
     "Stop doing the test"
    ],
    "a": 0,
@@ -1667,7 +1667,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why do we hold the torch at the same slant for each thing in the torch test?",
+   "p": "Why do we hold the torch at the same slant for each thing in the Torch Spot Test?",
    "opts": [
     "So the test is fair for each thing",
     "So the torch does not get hot",
@@ -1692,7 +1692,7 @@
    "channel": "Vadim I",
    "youtube": "SNWgI7mVsSM",
    "mins": 3,
-   "why": "Shows real magnified paper, a tangle of tiny fibres, though it looks smooth. This is why paper looks dull.",
+   "why": "Shows real paper under a microscope. It looks smooth, but it is a tangle of tiny fibres. This is why paper looks dull.",
    "check": "Found by search: \"Different Types of Paper under microscope [in 4K 2160p]\" by Vadim I, 3 minutes. A parent may preview it."
   },
   {
@@ -1743,7 +1743,7 @@
   },
   {
    "q": "Can we make a material that is very hard and very bendy at once?",
-   "why_open": "Hard things are often stiff, and bendy things are often soft. Scientists keep trying new materials to have both, and the search is not finished."
+   "why_open": "Hard things are often stiff, and bendy things are often soft. Scientists keep trying to make new materials that are both, and the search is not finished."
   }
  ],
  "ask_kids": [
@@ -1790,9 +1790,9 @@
  ],
  "maths": [
   {
-   "problem": "In the Torch Spot Test, Nila, a girl in Class 1, tested 7 things. 4 of them made a bright spot. How many made no spot?",
+   "problem": "In the Torch Spot Test, you tested 7 things. 4 of them made a bright spot. How many made no spot?",
    "answer": "3.",
-   "explain": "7 things take away the 4 that made a spot leaves 3. So 3 things were dull.",
+   "explain": "Take the 4 that made a spot away from the 7 things. That leaves 3. So 3 things made no spot.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
    "context": "This is about the Torch Spot Test, where you shone a torch on things from home.",
@@ -1872,7 +1872,7 @@
   }
  ],
  "roots": {
-  "context": "We have pressed, stroked, bent and shone a torch on things from home. Now we ask what the misty steel plate tells us about ourselves and the world.",
+  "context": "We have pressed, stroked, bent and shone a torch on things from home. Now we look at what we learn from the steel plate that went dull under a breath and then shone again.",
   "deep_truth": {
    "truth": "You breathed on a cold, shiny steel plate, and it went dull. A few seconds later it shone again. The steel never changed: tiny drops of water had made its surface bumpy. So a very smooth surface shines, whether it is steel, glass or still water.",
    "habit": "We think of shiny as something only some materials are, like metal. The test shows that shine belongs to the surface. The same steel was dull and then shiny, and plain water shone too.",
@@ -1913,7 +1913,7 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Shine is only light bouncing off a surface, and nothing more is going on in the steel. For these scientists, feeling belongs to living beings with nerves."
+   "view": "Many scientists say that shine is only light bouncing off a surface, and nothing more is going on in the steel. For them, feeling belongs to living beings with nerves."
   },
   "practice": {
    "title": "Watch the mist go",
@@ -1932,7 +1932,7 @@
   "story": "For about 200 years, the best telescopes used mirrors made of thick discs of metal. Isaac Newton made one of the first, in 1668. In England, in the 1770s and 1780s, Caroline Herschel helped her brother William make many more. Polishing one mirror could take many hours without a break, so Caroline fed William by hand while he polished. She also found comets, and became one of the first women ever paid to do science. But metal mirrors had a problem. In damp air they slowly went dull, and had to be polished all over again. In 1835, the German chemist Justus von Liebig found a way to lay a very thin layer of silver onto glass. In 1856 and 1857, Carl August von Steinheil in Germany and Léon Foucault in France made telescope mirrors this way. A smooth glass disc with a thin silver skin shone better than solid metal. Today, big telescope mirrors are glass with a layer of aluminium far thinner than a hair. The shine is all in the surface.",
   "who": "Isaac Newton, an English scientist; Caroline Herschel, a German-born astronomer in England, and her brother William; Justus von Liebig, a German chemist; Carl August von Steinheil, a German scientist; Léon Foucault, a French scientist",
   "when": "From 1668 to 1857",
-  "wrong_idea": "A good telescope mirror had to be a thick disc of solid metal. Thin silver on smooth glass shone better."
+  "wrong_idea": "People thought a good telescope mirror had to be a thick disc of solid metal. In fact, thin silver on smooth glass shone better."
  },
  "plan": {
   "start_options": [
