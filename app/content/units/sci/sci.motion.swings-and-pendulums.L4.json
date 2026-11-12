@@ -1043,7 +1043,7 @@
    "context": "In this experiment you time a 25 centimetre pendulum by timing 1 swing, then 10, then 30. You find out which gives the steadiest answer for the time of one swing.",
    "question": "If you work out the time of one swing by timing 1 swing, 10 swings or 30 swings, which way gives answers that are closest to each other?",
    "predict": "Before you start, guess. Which way will give the answers that are closest together: timing 1 swing, 10 swings or 30 swings? Why do you think so?",
-   "fair_test": "Use the same 25 centimetre pendulum, and pull the bag the same small distance aside every time. Only the number of swings you time changes. Press the stopwatch the same way each time, and do the same number of tries for each count.",
+   "fair_test": "Use the same 25 centimetre pendulum, and pull the bag the same small distance aside every time. Only the number of swings you time changes. Press the stopwatch the same way each time. Do five tries for 1 swing, five for 10 swings and three for 30 swings, because 30 swings takes longer.",
    "results_table": [
     "Number of swings timed",
     "Try 1 (s)",

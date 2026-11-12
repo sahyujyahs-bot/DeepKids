@@ -139,7 +139,7 @@
    "definition": "Every bit of light that falls on a material has one of four fates. It can bounce back, be soaked up, be scattered in many directions, or pass on through. The four shares always add up to the whole of the light that fell.",
    "description": "Think of 100 equal parts of light falling on a material. A clean window passes on about 90 of them. About 8 bounce back, a little from the front surface and a little from the back, and about 2 are soaked up by the glass. 90 plus 8 plus 2 makes 100. A mirror bounces back about 90 or more and soaks up the rest. Black velvet soaks up nearly all of it. A frosted window scatters most of the light that gets through, so you cannot see a clear picture through it. We call a material transparent when most light passes on in straight lines, translucent when light passes on but is scattered, and opaque when none passes on. These are not three separate kinds of stuff. They are three ways of sharing out the same light. No material is perfectly one thing. Even a clean window bounces some light back, which is why you can see a faint picture of the room in it at night.",
    "examples": [
-    "A clean glass window passes on about nine tenths of the light and bounces about one twelfth of it back.",
+    "A clean glass window passes on about nine tenths of the light and bounces about 8 parts in 100 of it back.",
     "A mirror bounces back most of the light, and soaks up the rest.",
     "Black velvet soaks up nearly all the light that falls on it, so it looks very dark."
    ],
@@ -299,7 +299,7 @@
    "perspectives": [
     {
      "who": "Pliny the Elder, a Roman writer, about 77 CE",
-     "explanation": "In his book Natural History, he told the tale of sailors resting their cooking pots on blocks of natron on a beach. The heat, he said, melted the sand and the natron into glass. Modern experiments suggest that an ordinary campfire is not hot enough."
+     "explanation": "In his book Natural History, he told the tale of sailors resting their cooking pots on blocks of natron, a natural salt, on a beach. The heat, he said, melted the sand and the natron into glass. Modern experiments suggest that an ordinary campfire is not hot enough."
     },
     {
      "who": "Archaeologists of West Asia and Egypt",
@@ -550,7 +550,7 @@
      "items": [
       {
        "f": "PRACTICE CARD. Sunlight falls on a clean glass window.",
-       "b": "PASSES ON. About nine tenths of the light goes through. About one twelfth bounces back, which is why you can see a faint picture of the room in a window at night."
+       "b": "PASSES ON. About nine tenths of the light goes through. About 8 parts in 100 bounce back, which is why you can see a faint picture of the room in a window at night."
       },
       {
        "f": "Sunlight falls on a bathroom mirror.",
@@ -634,7 +634,7 @@
       },
       {
        "f": "TEST IT. At night, with the room light on, look at a clean window pane. You see yourself faintly in it. Which fate of light shows you your face?",
-       "b": "BOUNCES. A small share of the light, about one twelfth, bounces back from the glass and makes a faint mirror."
+       "b": "BOUNCES. A small share of the light, about 8 parts in 100, bounces back from the glass and makes a faint mirror."
       },
       {
        "f": "TEST IT. Put a pinch of sugar candy powder and a lump of the candy side by side on a black plate. What happens to most of the light in the powder?",
@@ -1254,7 +1254,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Put two lumps of candy in the zip bag, and close it. Lay the bag on a firm table, with a cloth over it. Roll or tap a rolling pin firmly over the bag until the candy is a coarse powder. Kalkandu is hard, so this takes a few minutes. The base of a heavy steel tumbler or a pestle also works. Children take turns, with the grown-up holding the bag. Pour a pinch of the powder onto the white plate, and another pinch onto the black plate. Put a whole lump next to each.",
+     "do": "Put two lumps of candy in the zip bag, and close it. Lay the bag on a firm table, with a cloth over it. Roll or tap a rolling pin firmly over the bag until the candy is a fine powder. Kalkandu is hard, so this takes a few minutes. The base of a heavy steel tumbler or a pestle also works. Children take turns, with the grown-up holding the bag. Pour a pinch of the powder onto the white plate, and another pinch onto the black plate. Put a whole lump next to each.",
      "say": "Put the candy in the bag. Roll the pin over it until it is powder. Now tip a pinch onto each plate. Which looks clear, and which looks white?",
      "kid": "Put the candy in a bag. Roll it flat. Tip a pinch onto each plate.",
      "adult": true,
@@ -1277,8 +1277,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Spread a thin, even layer of powder over the printed word on the paper. Can you still read the word? Now put 2 or 3 drops of cooking oil on half of the layer and spread them with the spoon. Watch what happens to the white. Can you read the word under the oiled half and not under the dry half? Shine the torch from the side, and look at both halves. Each child can try a heap of their own on a black plate.",
-     "say": "Put one drop of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which one lets you see the plate?",
-     "kid": "Put a drop of oil on the powder. What happens to the white?",
+     "say": "Put a few drops of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which one lets you see the plate?",
+     "kid": "Put a few drops of oil on the powder. What happens to the white?",
      "ask": [
       {
        "q": "Why do you think the oil made the white powder look darker?",
@@ -2839,8 +2839,8 @@
    "a": "It was feeling a bit scattered."
   },
   {
-   "j": "How many clean windows in a row does it take to halve the light?",
-   "a": "About seven, if each one passes nine tenths."
+   "j": "Why is a clean window such a good friend?",
+   "a": "You can always see right through it."
   }
  ],
  "maths": [

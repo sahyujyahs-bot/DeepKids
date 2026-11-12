@@ -941,7 +941,7 @@
           "do": "Cut a 20 centimetre square and a 40 centimetre square from the polythene. Tape a 30 centimetre string to each corner. Tape the loose ends of the four strings to one coin, so that all four strings are the same length.",
           "say": "Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to a coin.",
           "kid": "Cut two squares. Tape a string to each corner. Tape the strings to a coin.",
-          "parent": "Make the squares exact, and keep the strings even, or the canopy will lean. Make a third parachute with a big square and 4 coins taped together. Label the three parachutes A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch a big sheet into a tight ball and tape it round 1 coin. With 2 to 4 children, each child makes one of A, B, C and D, so all four are built at once. The same child then does the dropping or timing for it.",
+          "parent": "Make the squares exact, and keep the strings even, or the canopy will lean. Make a third parachute with a big square and 4 coins taped together. Label the three parachutes A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch a big sheet into a tight ball and tape it round 1 coin. With 2 to 4 children, each child makes one of A, B, C and D, so all four are built at once. The same child then does the timing for it, and the grown-up does all the dropping.",
           "check": {
             "t": "mcq",
             "q": "Why must the strings and the polythene be the same for every parachute?",
@@ -1665,7 +1665,7 @@
         {
           "day": 1,
           "mins": 15,
-          "what": "Throw a shuttlecock feathers-first and watch it turn. Try it with fewer feathers."
+          "what": "Throw a shuttlecock feathers-first and watch it turn. Try it with a paper-strip shuttlecock."
         }
       ],
       "record": "Draw the path of a shuttlecock thrown feathers-first. Mark the point where it turns round.",
@@ -1828,7 +1828,7 @@
               ]
             }
           ],
-          "parent": "The ribbon should hang quite still close behind the book, then flutter and flap as you move it away. In some places it will flap oddly, because the air swirls round the edges. Your distances will differ. Switch off the fan's side-to-side swing. If the ribbon flutters everywhere, use the bigger board and a lower fan speed. Then try a round bottle in place of the board: which leaves the longer calm patch? One child holds the ribbon, one measures with the paper strip, one writes. This calm patch is called the wake or the wind's shadow.",
+          "parent": "The ribbon should hang quite still close behind the book, then flutter and flap as you move it away. In some places it will flap oddly, because the air swirls round the edges. Your distances will differ. Switch off the fan's side-to-side swing. If the ribbon flutters everywhere, use a bigger book and a lower fan speed. Then try a round bottle in place of the book: which leaves the longer calm patch? One child holds the ribbon, one measures with the paper strip, one writes. This calm patch is called the wake or the wind's shadow.",
           "check": {
             "t": "mcq",
             "q": "A rider cycles close behind another rider in the wind. Why does she find it easier?",

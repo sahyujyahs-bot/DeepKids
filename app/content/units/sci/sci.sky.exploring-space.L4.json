@@ -208,7 +208,7 @@
       "description": "Chandrayaan-3 was launched on 14 July 2023 and landed on 23 August 2023, 40 days later. The rocket did not throw it straight at the Moon. It left the spacecraft in a long oval orbit round the Earth. Over the next days, ISRO fired the spacecraft's engine several times when it was closest to the Earth. Each firing is called a burn, and each burn stretched the oval farther out. On 1 August a last burn sent the spacecraft off towards the Moon. On 5 August the Moon's gravity caught it, and it began to orbit the Moon. More burns lowered that orbit step by step, until the lander separated and came down. A single big push would have needed a much bigger rocket. Many small burns take longer, but a smaller rocket can do the job. Mangalyaan did the same round the Earth in 2013 before it left for Mars.",
       "examples": [
         "From 14 July to 23 August is 40 days: 17 days left in July, and 23 more in August.",
-        "Mangalyaan was launched on 5 November 2013. It reached Mars orbit on 24 September 2014, about 320 days later.",
+        "Mangalyaan was launched on 5 November 2013. It reached Mars orbit on 24 September 2014. The trip to Mars took about 300 days.",
         "Mars launch windows come about every 26 months, so Mangalyaan could not simply wait a week and go."
       ],
       "perspectives": [],
@@ -510,7 +510,7 @@
       "A phone buzzed in Thamarai's mother's hand. She read the message and let out a long breath. \"The coast guard has his position. The boat's engine failed, but he is safe, drifting about ten kilometres out. A coast guard boat is on its way.\"",
       "Everyone cheered. Thamarai felt her knees go weak and she sat down on the sand.",
       "Two hours later, the lights of a big ship came in, with her father's small boat behind it on a rope. He stepped onto the beach, wet and tired and smiling.",
-      "That night Thamarai lay on the roof and looked at the stars. She knew now that one of them was not a star at all. It was a box of metal 36,000 kilometres away, falling round the Earth and always missing, and moving so exactly in time with the turning of the world that it stayed above her village.",
+      "That night Thamarai lay on the roof and looked at the sky. She could not see it, but she knew now that far above the sea, 36,000 kilometres away, a box of metal was falling round the Earth and always missing, and moving so exactly in time with the turning of the world that it stayed above her village.",
       "She took a pebble from her pocket. She held it out over the dark sea and opened her hand. It fell, as it always had. Now she knew why. The pebble had no sideways speed, so it landed. A satellite has so much that it never does."
     ],
     "epiphany": "For the parent: a satellite is not held up by anything. It is falling around the Earth and missing. A higher orbit is slower, and at 36,000 kilometres one lap takes exactly one day. That matches the Earth's spin, so the satellite stays over the same spot. That is why the alert box could always point to one place in the sky.",
@@ -1518,7 +1518,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Tell your child that 1 centimetre on the paper stands for 1,000 kilometres. Ask them to guess how far from the Earth's edge the space station's circle will be.",
-          "say": "On this map, 1 centimetre is 1,000 kilometres. The Earth will be a circle with a radius of 6 and a half centimetres. How far above its edge do you think the space station circle will be?",
+          "say": "On this map, 1 centimetre is 1,000 kilometres. The Earth will be a circle with a radius of 6.4 centimetres. How far above its edge do you think the space station circle will be?",
           "kid": "1 centimetre stands for 1,000 kilometres. Guess how far above the Earth the space station is.",
           "parent": "Most children guess several centimetres. Do not correct it yet. The Earth's radius is about 6,371 kilometres, so 6.4 centimetres.",
           "context": "In this activity you draw the orbits of satellites to scale, to see how far apart they really are."
@@ -1642,7 +1642,7 @@
         {
           "id": "s2",
           "mins": 7,
-          "do": "A grown-up makes a small hole in the bottom of each cup with a pin. Thread the string through each hole from the outside. Tie the end to a button inside, with a double knot, so it cannot slip out.",
+          "do": "A grown-up makes a small hole in the bottom of each cup with a sharp pencil tip or a skewer. Thread the string through each hole from the outside. Tie the end to a button inside, with a double knot, so it cannot slip out.",
           "say": "Push the string through the hole from outside. Tie the end to a button inside the cup, with a double knot. Do the same on the other cup.",
           "kid": "Thread the string through the hole. Tie a double knot round a button.",
           "adult": true,
@@ -1811,7 +1811,7 @@
     },
     {
       "id": "a4",
-      "title": "Journey Strips: how many days to the Moon, the Sun's edge and Mars?",
+      "title": "Journey Strips: how many days to the Moon, a place near the Sun and Mars?",
       "mins": 20,
       "days": 1,
       "materials": [
@@ -1841,7 +1841,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Tell your child the four journeys and their days. Apollo 11 took about 4 days to land on the Moon. Chandrayaan-3 took 40. Aditya-L1 took about 126 days to reach its place near the Sun. Mangalyaan took about 320 days to reach Mars. Ask for a guess of which is the longest.",
+          "do": "Tell your child the four journeys and their days. Apollo 11 took about 4 days to land on the Moon. Chandrayaan-3 took 40. Aditya-L1 took about 126 days to reach its place near the Sun. Mangalyaan took about 300 days to reach Mars. Ask for a guess of which is the longest.",
           "say": "Here are four real journeys. A trip to the Moon in 1969, India's Moon landing, India's Sun mission, and India's Mars mission. Which was the longest, and which the shortest?",
           "kid": "Four space journeys. Which was shortest? Which was longest?",
           "parent": "Apollo 11 landed in July 1969. Aditya-L1 was launched in September 2023 and reached its working place near the Sun in January 2024. The numbers of days are approximate.",
@@ -1850,7 +1850,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Cut a strip 4 millimetres long for Apollo 11. Cut one 40 millimetres long for Chandrayaan-3. Cut one 126 millimetres long for Aditya-L1. Cut one 320 millimetres long for Mangalyaan.",
+          "do": "Cut a strip 4 millimetres long for Apollo 11. Cut one 40 millimetres long for Chandrayaan-3. Cut one 126 millimetres long for Aditya-L1. Cut one 300 millimetres long for Mangalyaan.",
           "say": "One millimetre for each day. Apollo 11 is 4 millimetres. Chandrayaan-3 is 4 centimetres. Aditya-L1 is 12 centimetres and 6 millimetres. Mangalyaan is 32 centimetres.",
           "kid": "Cut four strips. One millimetre for each day.",
           "parent": "With 2 to 4 children, each child cuts one strip, and then they lay the strips together. One child alone cuts all four. Make the cuts as exact as you can. The Apollo 11 strip is only 4 millimetres long, about the width of a pencil. Seeing how short it is next to the others is the point.",
@@ -1862,7 +1862,7 @@
           "do": "Lay the strips side by side with their left ends together. Compare them. Then count how many 4 millimetre Apollo strips would fit along the Mangalyaan strip. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.",
           "say": "Both flew to the same Moon. Why did one journey take 4 days and the other 40? Think about the rocket and the burns.",
           "kid": "Why did the same Moon trip take 4 days and 40 days?",
-          "parent": "About 80 Apollo trips would fit in one Mangalyaan trip (the real trip took about 300 days). Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.",
+          "parent": "About 75 Apollo trips would fit in one Mangalyaan trip (the real trip took about 300 days). Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.",
           "check": {
             "t": "mcq",
             "q": "Chandrayaan-3 took 40 days to reach the Moon and Apollo 11 took about 4. What is the best reason?",

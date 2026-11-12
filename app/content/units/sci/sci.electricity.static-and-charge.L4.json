@@ -3,7 +3,7 @@
  "title": "The charge ladder: which materials give electrons, which take them, and where the charge goes",
  "level": 4,
  "summary": {
-  "text": "A plain hand pulls a charged balloon, and so does a charged ruler. So how can you tell which one is really charged? Only a push proves it. In this unit you rub six materials on wool and on polythene, and use the pushes to build a ladder of who gives electrons and who takes them. A material in the middle gives to the rungs below it and takes from the rungs above it. So plus and minus describe how two things meet, not what one thing is. You also follow the charge as it runs through metal and a body into the Earth, and find out why that matters in a printing press, a petrol tanker and a storm.",
+  "text": "A plain hand pulls a charged balloon, but a charged ruler pushes it. So how can you tell which one is really charged? Only a push proves it. In this unit you rub five things on wool and on polythene, and use the pushes to build a ladder of who gives electrons and who takes them. A material in the middle gives to the rungs below it and takes from the rungs above it. So plus and minus describe how two things meet, not what one thing is. You also follow the charge as it runs through metal and a body into the Earth, and find out why that matters in a printing press, a petrol tanker and a storm.",
   "art": "A balloon hanging on a thread between a child's open hand on one side and a rubbed ruler on the other, the balloon leaning towards the hand and swinging away from the ruler."
  },
  "intro": {
@@ -1496,7 +1496,7 @@
     {
      "day": 3,
      "mins": 20,
-     "what": "Compare the two days. Draw your final ladder with all nine rungs."
+     "what": "Compare the two days. Draw your final ladder with all eleven rungs."
     }
    ],
    "record": "A table with three columns: the thing, its result on the dry day, its result on the damp day. Then a final ladder with all eleven rungs.",
@@ -2638,7 +2638,7 @@
    "explain": "Put the numbers in order: 7, 8, 9. The middle one is 8. The middle value is a fair summary, even if one try went wrong.",
    "math_unit": "math.data.reading-data.L4",
    "how": "e2",
-   "context": "In the Two Balloons test, you measure the gap three times for each number of rubs.",
+   "context": "In the Two Balloons test, you measure the gap twice for each number of rubs.",
    "why_maths": "Several tries give slightly different numbers, and the middle value is a fair way to pick one answer from them."
   },
   {

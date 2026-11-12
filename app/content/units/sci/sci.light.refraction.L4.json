@@ -953,7 +953,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Put the box on the paper. Its long front wall goes on the surface line. Its left end goes about 4 centimetres left of O. Pour in the water, 3 centimetres deep. Add the milk, if you use it. Switch off the room light. Lay the torch at the end of the normal line, pointing at O. Look at where the bright line leaves the far wall.",
+     "do": "Put the box on the paper. Its long front wall goes on the surface line. Its left end goes about 4 centimetres left of O. Pour in the water, 3 centimetres deep. Add a few drops of milk, if you use it. Switch off the room light. Lay the torch at the end of the normal line, pointing at O. Look at where the bright line leaves the far wall.",
      "say": "First the straight-on beam. The torch is on the normal line. Watch the line that comes out of the far wall. Does it carry on straight, or does it bend?",
      "kid": "Put the torch on the normal line. Switch off the light. Does the beam bend?",
      "ask": [

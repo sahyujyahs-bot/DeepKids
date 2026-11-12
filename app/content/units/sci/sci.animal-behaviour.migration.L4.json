@@ -477,7 +477,7 @@
         "If nobody guesses right, the reader reads the back and nobody scores.",
         "Take turns being the reader. The player with the most points after 16 cards wins. With 2 to 4 players, everyone gets one guess per clue, said aloud or written down. The first right guess wins the points. A player who guesses wrong sits out the rest of that card.",
         "Playing alone: lay the cards face up, hide the answer with a finger, and guess for each card. The most you can score is 48 points. Try to beat your own best score.",
-        "Afterwards, sort the cards into three piles: birds, other animals, and animals that move only a short way."
+        "Afterwards, sort the cards into three piles: long journeys, short journeys, and a journey that has stopped."
       ],
       "flow": [
         {
@@ -1190,7 +1190,7 @@
               "q": "What do the flat parts and the steep parts mean?",
               "good": [
                 "Flat parts are where she stays and feeds. Steep parts are where she flies.",
-                "She stayed about three weeks at the middle stopover (four weekly readings at 33).",
+                "She stayed about four weeks at the middle stopover (four weekly readings at 33).",
                 "She went from 48 to 27, which is 21 degrees."
               ]
             }

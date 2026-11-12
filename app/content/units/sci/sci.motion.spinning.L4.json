@@ -927,7 +927,7 @@
      "say": "Start whirling. When the tape is steady, say go. Count every time the bag passes in front of you for 10 seconds. Write down the number.",
      "kid": "Whirl the bag steadily. The helper counts the turns in 10 seconds. Do it three times for each number of coins.",
      "adult": true,
-     "parent": "Use the middle of the three results. With more coins, the bag should go round faster and faster. With 16 coins the bag goes round nearly twice every second, so the helper can count in twos or film it. Expect roughly 9, 12 and 17 turns for 4, 8 and 16 coins (typical, not promised: your coins, string and counting will change them). Four times the coins should need about twice the turns, not four times. If counting is hard, film the bag with a phone and count the turns when you play it back. With 2 to 4 children: one whirls, one times and counts aloud, one loads the coins and writes the table, and the fourth films or double-counts. Swap roles after each coin setting so everyone whirls once. If the bag will not stay steady at all, the usual causes are a bag heavier than the pouch, a string that rubs the pen, or an arm that moves up and down; fix those first.",
+     "parent": "Use the middle of the three results. With more coins, the bag should go round faster and faster. With 16 coins the bag goes round nearly twice every second, so the helper can count in twos or film it. Expect roughly 9, 13 and 18 turns for 4, 8 and 16 coins (typical, not promised: your coins, string and counting will change them). Four times the coins should need about twice the turns, not four times. If counting is hard, film the bag with a phone and count the turns when you play it back. With 2 to 4 children: one whirls, one times and counts aloud, one loads the coins and writes the table, and the fourth films or double-counts. Swap roles after each coin setting so everyone whirls once. If the bag will not stay steady at all, the usual causes are a bag heavier than the pouch, a string that rubs the pen, or an arm that moves up and down; fix those first.",
      "check": {
       "t": "mcq",
       "q": "With 16 coins, the bag went round faster than with 4 coins. Why did it need to?",
@@ -1258,7 +1258,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Put 5 coins inside the sock and tie it shut. Whirl it at the same speed as the slow whirl. Feel the pull. Is it bigger or smaller than for the plain sock?",
+     "do": "Put 10 coins inside the sock and tie it shut. Whirl it at the same speed as the slow whirl. Feel the pull. Is it bigger or smaller than for the plain sock?",
      "say": "Now the sock is heavier. Whirl it at the same slow speed as before. Is the pull bigger or smaller?",
      "kid": "Put coins in the sock. Whirl it at the same speed. Is the pull bigger or smaller?",
      "adult": true,
@@ -2967,7 +2967,7 @@
  ],
  "song": {
   "topic_level": "sci.motion.L4",
-  "title": "Back and Forth",
+  "title": "Round and Round",
   "note": "Topic-level song"
  },
  "links": [

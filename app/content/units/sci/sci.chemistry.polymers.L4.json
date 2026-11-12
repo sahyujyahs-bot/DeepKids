@@ -486,7 +486,7 @@
         "The reader reads the back. Every player whose token matches the first words of the back scores one point.",
         "A player who also says one thing about how the material behaves, for example that it stretches, bends or does not melt, scores one more point. The reader decides, using the back of the card.",
         "With two players, the parent and the child swap the reader's job after every card. With one player, read the front, choose a token, then check the back and keep your own score.",
-        "After each card, the reader's job passes to the player on the left.",
+        "With three or more players, the reader's job passes to the player on the left after each card.",
         "The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win."
       ],
       "flow": [
@@ -1638,7 +1638,7 @@
               "Neither, because both are sticky"
             ],
             "a": 0,
-            "why": "A design has to meet the whole problem. Folding 15 times is slightly better, but the problem also asks for a film that is not sticky."
+            "why": "The better film depends on the job. Folding 15 times is slightly better, but if the job needs a film that is not sticky, the film that folded 14 times meets the problem better. So say what the job is first."
           },
           "context": "In this step, you test your new film."
         },

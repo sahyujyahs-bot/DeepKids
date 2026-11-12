@@ -1228,11 +1228,11 @@
         {
           "day": 1,
           "mins": 25,
-          "what": "Guess the order of the three liquids, fastest to slowest. Drop the same ball into each liquid and time each fall. Warm the honey (or cool it) and try again."
+          "what": "Guess the order of the three liquids, fastest to slowest. Drop the same nut into each liquid and time each fall. Warm the honey (or cool it) and try again."
         }
       ],
-      "record": "Write the three times. Write which liquid had the most friction on the falling ball, and what warming the honey did.",
-      "context": "In this activity, you drop the same ball into water, oil and honey. Liquids have friction too. It is called fluid friction.",
+      "record": "Write the three times. Write which liquid had the most friction on the falling nut, and what warming the honey did.",
+      "context": "In this activity, you drop the same nut into water, oil and honey. Liquids have friction too. It is called fluid friction.",
       "setup": [
         {
           "art": "Three tall glasses side by side, filled with water, oil and honey, with a marble held above each.",
@@ -2400,8 +2400,8 @@
       "a": "I'm so glad you're always there to hold me."
     },
     {
-      "j": "What do you call a friction test that got jealous?",
-      "a": "A grip-ful of envy."
+      "j": "Why was the slippery floor so popular?",
+      "a": "Everyone fell for it."
     },
     {
       "j": "Why was the chalk so noisy?",

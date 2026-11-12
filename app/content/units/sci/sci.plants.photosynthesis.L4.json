@@ -1665,8 +1665,8 @@
     {
      "t": "draw",
      "p": "Sketch how you would expect the oxygen around a pot plant in a sealed bag to change from 6 in the morning to 6 the next morning. Mark where the plant is at the compensation point.",
-     "a": "The oxygen rises from a low point in the morning as the light gets stronger. It crosses the compensation point shortly after dawn, peaks in the afternoon, falls through the evening and goes down all night.",
-     "why": "A strong sketch shows that the line crosses the compensation point twice, once in the morning and once in the evening, when the light gets too dim.",
+     "a": "The oxygen starts to rise shortly after dawn, once the light is strong enough for the plant to reach the compensation point. It keeps rising through the day and peaks in the late afternoon or evening, when the light falls to the compensation point again. Then it falls through the rest of the evening and all night.",
+     "why": "A strong sketch shows the plant at the compensation point twice: once in the morning, when the oxygen starts to rise, and once in the evening, when the light gets too dim and the oxygen peaks and starts to fall.",
      "art": "An empty graph frame with the time of day along the bottom and oxygen change up the side.",
      "outcome": 3
     },
@@ -1904,7 +1904,7 @@
        ]
       }
      ],
-     "parent": "Make the colour ladder first, from spare cabbage water: put the same amount in 4 small cups and add 0, 1, 2 and 3 drops of lemon juice or vinegar, so they go from blue to pink. Number the cups 1 (blue) to 5 (pink); jar D is about 1. Expected with water plant: jar D stays blue. Jar A stays pink-purple. Jar B is bluer than A. Jar C is pinker than A. The changes can be small, so judge side by side on white paper. If all jars look the same, the plants may be too few or the light too weak, or your water is hard. Leave them one more day, or repeat with more plant. With house-plant leaves, expect little or no change; that is also a real result, so write it down.",
+     "parent": "Make the colour ladder first, from spare cabbage water: put the same amount in 5 small cups and add 0, 1, 2, 3 and 4 drops of lemon juice or vinegar, so they go from blue to pink. Number the cups 1 (blue) to 5 (pink); jar D is about 1. Expected with water plant: jar D stays blue. Jar A stays pink-purple. Jar B is bluer than A. Jar C is pinker than A. The changes can be small, so judge side by side on white paper. If all jars look the same, the plants may be too few or the light too weak, or your water is hard. Leave them one more day, or repeat with more plant. With house-plant leaves, expect little or no change; that is also a real result, so write it down.",
      "think": "Jar A had no leaves and stayed pink. What does that tell you about the colour change in B?",
      "context": "In this step, you compare the jars after a day and say what you saw."
     },

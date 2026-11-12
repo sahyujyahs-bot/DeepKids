@@ -43,7 +43,7 @@
   {
    "term": "Pinna",
    "meaning": "The part of the ear you can see on the side of your head, the ear flap. Its folds change sounds a little depending on the direction they come from.",
-   "example": "Folded forwards, your pinna lets in more sound from the front. Cupped behind with a hand, it catches more sound from the back.",
+   "example": "Folded forwards, your pinna lets in more sound from the front. Cupped behind with a hand, it catches more sound from the front too, and blocks some from the back.",
    "art": "A side view of an ear with its folds and an arrow from the front and an arrow from behind."
   },
   {
@@ -604,7 +604,7 @@
       },
       {
        "f": "A wall clock ticking in a quiet room",
-       "b": "About 25 decibels. Safe all day."
+       "b": "About 30 decibels. Safe all day."
       },
       {
        "f": "A whisper",
@@ -700,12 +700,12 @@
      "kind": "board",
      "title": "A ladder with 6 bands to draw on a big sheet of paper",
      "items": [
-      "0 to 40 decibels: very quiet",
-      "40 to 60 decibels: quiet to normal talk",
-      "60 to 80 decibels: loud, but safe for hours",
-      "80 to 100 decibels: harmful after minutes or hours",
-      "100 to 120 decibels: harmful in minutes or seconds",
-      "Over 120 decibels: can hurt at once"
+      "20 to 39 decibels: very quiet",
+      "40 to 59 decibels: quiet to normal talk",
+      "60 to 79 decibels: loud, but safe for hours",
+      "80 to 99 decibels: harmful after minutes or hours",
+      "100 to 119 decibels: harmful in minutes or seconds",
+      "120 decibels and up: can hurt at once"
      ]
     }
    ],
@@ -1805,7 +1805,7 @@
   },
   {
    "id": "a5",
-   "title": "Ten Signs: a first lesson in Indian Sign Language",
+   "title": "A Few Signs: a first lesson in Indian Sign Language",
    "mins": 20,
    "days": 1,
    "context": "In this activity you try a short conversation with no sound, then learn a few signs from Indian Sign Language, to feel what talking without hearing is like.",
@@ -1849,7 +1849,7 @@
       }
      ],
      "parent": "This is mime, which is not the same as a sign language. It shows how much meaning hands and faces can carry. A real sign language is far richer. Count how many breakfast items were guessed right in the minute. With 2 to 4 children, take turns as signer and guessers.",
-     "context": "This is the first step of Ten Signs. You try a silent chat."
+     "context": "This is the first step of the signs activity. You try a silent chat."
     },
     {
      "id": "s2",
@@ -3116,8 +3116,8 @@
    "a": "A cochlea check."
   },
   {
-   "j": "Why did the mosquito fall in love?",
-   "a": "She heard the right wingbeat."
+   "j": "Why did the male mosquito fall in love?",
+   "a": "He heard her wingbeat, and it was just right."
   },
   {
    "j": "How do you know a drum is fond of decibels?",
@@ -3142,9 +3142,9 @@
    "why_maths": "Dividing a speed by 100 or 1,000 shows how short the time between your ears really is, and why the brain's skill is so remarkable."
   },
   {
-   "problem": "A whisper is about 25 decibels. A mixer-grinder is about 85 decibels. The difference is 60 decibels. How many tens is that, and how many times as much energy does the mixer-grinder have?",
-   "answer": "6 tens. The mixer-grinder has 1,000,000 times as much energy.",
-   "explain": "60 divided by 10 is 6 steps of 10. Each step multiplies the energy by 10. So 10 times 10 times 10 times 10 times 10 times 10 is 1,000,000. That is one million.",
+   "problem": "A whisper is about 30 decibels. A normal conversation is about 60 decibels. The difference is 30 decibels. How many tens is that, and how many times as much energy does the conversation have?",
+   "answer": "3 tens. The conversation has 1,000 times as much energy.",
+   "explain": "30 divided by 10 is 3 steps of 10. Each step multiplies the energy by 10. So 10 times 10 times 10 is 1,000.",
    "math_unit": "math.number-sense.powers-and-roots.L4",
    "context": "In the Decibel Ladder, every 10 decibels more means 10 times the sound energy.",
    "why_maths": "Multiplying 10 again and again shows how a small change in decibels is a huge change in energy."

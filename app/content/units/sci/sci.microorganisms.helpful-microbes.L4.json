@@ -509,7 +509,7 @@
       },
       {
        "f": "Dry yeast and sugar are stirred into boiling hot water.",
-       "b": "Stops. Most yeast die in water hotter than about 55 degrees, so no gas is made."
+       "b": "Stops. Most yeast die in water hotter than about 60 degrees, so no gas is made."
       },
       {
        "f": "Dry yeast is stirred into warm water with a teaspoon of sugar.",
@@ -537,7 +537,7 @@
       },
       {
        "f": "A tray of yeast dough goes into a very hot oven. Will the yeast keep making gas?",
-       "b": "Stops. Yeast die above about 55 degrees. The dough puffs a little more as the gas expands, and then the crust sets."
+       "b": "Stops. Yeast die above about 60 degrees. The dough puffs a little more as the gas expands, and then the crust sets."
       },
       {
        "f": "A pot of curd sits in the fridge for a week.",
@@ -1970,7 +1970,7 @@
       "Sugar stops yeast from working"
      ],
      "a": 0,
-     "why": "Yeast die in water hotter than about 50 degrees. Dead yeast cannot eat sugar or make gas.",
+     "why": "Yeast die in water hotter than about 60 degrees. Dead yeast cannot eat sugar or make gas.",
      "outcome": 3
     },
     {

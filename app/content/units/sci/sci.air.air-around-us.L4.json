@@ -1467,7 +1467,7 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Look at all the marks. Check them against the weather. Did the straw rise before rain?"
+     "what": "Look at all the marks. Check them against the weather. Did the straw tip go down before rain?"
     }
    ],
    "record": "Draw a table with the day, where the straw points in centimetres on the card, and the weather. At the end, draw a line graph of the marks.",
@@ -1603,7 +1603,7 @@
      "mins": 15,
      "do": "Let your child try their plan. If they get stuck, suggest they fill the tube with water before they use it. Test each idea and note what happens.",
      "say": "Try your plan. If it does not work, ask why. What would happen if the tube were already full of water? Where must the low end of the tube be?",
-     "kid": "Try your plan. If it fails, fill the tube first. Keep both ends under water.",
+     "kid": "Try your plan. If it fails, fill the tube first. Keep the top end under water. Let the low end hang lower, in the empty bucket.",
      "parent": "The tube must be full of water, with no air bubbles, and the outlet end must be lower than the water level in the top bucket. If the water stops, an air bubble has probably got in. Fill the tube again and try once more.",
      "context": "In this step, you test your plan and fix what goes wrong."
     },

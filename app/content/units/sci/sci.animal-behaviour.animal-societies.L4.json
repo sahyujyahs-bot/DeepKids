@@ -155,13 +155,13 @@
       "art": "A timeline of a worker bee's life from day 1 to day 40, with a small drawing of her job at each stage."
     },
     {
-      "concept": "Castes with different bodies: termite soldiers and army ant majors",
+      "concept": "Castes with different bodies: termite soldiers and big-headed carpenter ants",
       "status": "defined",
       "definition": "In some insects the castes have different bodies, and a soldier cannot change into a worker.",
       "description": "A honeybee worker can do every worker's job in her life. A termite is different. Termite workers and soldiers have different bodies, because each one is built that way as she or he grows up. A soldier has a big, hard head and large jaws and cannot feed herself or himself, so workers feed soldiers. Termite colonies have workers and soldiers of both sexes. A king and a queen live together for many years. Many termites also farm: workers in some kinds carry chewed plant material to grow a fungus, and the whole colony eats the fungus. Some wild mushrooms that come up in the rains out of old mounds are the fruiting parts of such a fungus, and in parts of India people collect and eat them. Termites are related to cockroaches.",
       "examples": [
         "A termite soldier blocking a tunnel with her large head.",
-        "Big-headed major workers of some carpenter ants, who cut hard food.",
+        "Big-headed workers of some carpenter ants, who cut hard food.",
         "A termite queen several times longer than a worker, who lays eggs all day."
       ],
       "perspectives": [],
@@ -964,7 +964,7 @@
     },
     {
       "id": "e2",
-      "title": "The Jar of Dal: is a crowd's middle guess better than one person's guess?",
+      "title": "The Glass of Chana: is a crowd's middle guess better than one person's guess?",
       "mins": 36,
       "days": 1,
       "question": "If six or more people each guess how many chana are in a glass, is the middle guess closer to the true number than most people's own guesses? And does hearing other people's guesses first make the crowd better or worse?",

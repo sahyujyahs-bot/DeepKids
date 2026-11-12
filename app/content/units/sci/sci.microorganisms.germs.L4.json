@@ -1854,7 +1854,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Ask a grown-up to hide the cup labels and mix the order of the cups. 2. Take a small sip from each cup. Use a clean spoon for each. 3. Guess which is plain water, sugar water and ORS. 4. Write how each tastes and check the guesses. 5. If you have a packet of ORS, make a cup of it and compare.",
-     "say": "Take a small sip of each. Which tastes sweet? Which tastes a little salty? ORS tastes slightly salty, about as salty as tears.",
+     "say": "Take a small sip of each. Which tastes sweet? Which tastes a little salty? ORS tastes only slightly salty, less salty than tears.",
      "kid": "Take a small sip from each cup. Write how each tastes.",
      "context": "In this step you taste the three cups."
     },

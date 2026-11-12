@@ -974,7 +974,7 @@
      "do": "1. Put the compass 1 centimetre from the north pole. 2. Mark a dot at each end of the needle. 3. Move the compass so its white end sits on the red-end dot. 4. Mark a new dot at the red end. 5. Keep going until you reach the south pole or the edge of the paper. 6. Join the dots into a smooth line and add an arrow.",
      "say": "Mark the two ends of the needle. Then slide the compass along, so the white end sits on the last dot. Keep going. The dots draw a field line.",
      "kid": "Mark the needle ends. Slide the compass on. Keep going. Join the dots.",
-     "parent": "This takes practice. If the dots wander, the compass needle may be sticking, so tap the paper lightly. If the line leaves the paper, start a new one. Make at least four lines, starting at different places around the north pole. Use a different colour for each. Each line takes about 5 minutes, so two lines are enough, and more is a bonus. With 2 to 4 children, one slides the compass and one marks the dots, then they swap. Or each child draws a different line from a different spot on the same paper, and you join them. For two separate maps (3 or 4 children), use two magnets, two papers and two compasses at least 1 metre apart. Otherwise one group's magnet pulls the other group's compass. Lines that start within about 2 centimetres of the pole usually reach the south pole. A line that starts further out may bend away towards the Earth's north instead. That is the Earth's own field, and worth talking about.",
+     "parent": "This takes practice. If the dots wander, the compass needle may be sticking, so tap the paper lightly. If the line leaves the paper, start a new one. Make at least two lines, starting at different places around the north pole. Use a different colour for each. Each line takes about 5 minutes, so two lines are enough, and more is a bonus. With 2 to 4 children, one slides the compass and one marks the dots, then they swap. Or each child draws a different line from a different spot on the same paper, and you join them. For two separate maps (3 or 4 children), use two magnets, two papers and two compasses at least 1 metre apart. Otherwise one group's magnet pulls the other group's compass. Lines that start within about 2 centimetres of the pole usually reach the south pole. A line that starts further out may bend away towards the Earth's north instead. That is the Earth's own field, and worth talking about.",
      "context": "In this step, you walk the compass to draw one field line, and then repeat it to draw several."
     },
     {
@@ -1262,7 +1262,7 @@
        ]
       }
      ],
-     "parent": "It can take a few tries. Hold the magnet still, and lower it a little if the clip drops. If the clip jumps up and sticks, lift the magnet a few centimetres higher and start again. A shorter thread, about 15 centimetres, is easier. Keep the thread short, about 2 to 3 centimetres between the tape and the clip, so it is shorter than your magnet's reach (about 2 to 4 centimetres for a school magnet). A long thread goes slack and the clip just jumps on to the magnet. If the clip sticks to the magnet, lower the magnet and lift it more slowly. With 2 to 4 children, one holds the magnet, one slides in things, one measures the gap; swap round.",
+     "parent": "It can take a few tries. Hold the magnet still, and lower it a little if the clip drops. If the clip jumps up and sticks, lift the magnet a few centimetres higher and start again. A short thread is easier. Keep about 2 to 3 centimetres of thread between the tape and the clip, so it is shorter than your magnet's reach (about 2 to 4 centimetres for a school magnet). A long thread goes slack and the clip just jumps on to the magnet. If the clip sticks to the magnet, lower the magnet and lift it more slowly. With 2 to 4 children, one holds the magnet, one slides in things, one measures the gap; swap round.",
      "context": "This is the first step of the Floating Clip. You use a magnet to hold a clip in the air."
     },
     {
@@ -1455,7 +1455,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Seal a pinch of filings flat in a bag, lay the bag over a magnet and tap gently to see the lines."
+     "what": "Seal a teaspoon of filings flat in a bag, lay the bag over a magnet and tap gently to see the lines."
     }
    ],
    "record": "Draw what you see. Compare it with the field lines you drew with the compass.",
@@ -1463,10 +1463,10 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. A grown-up puts a small pinch of filings in the zip-lock bag. 2. Seal the bag, pressing out the air. 3. Shake the filings flat so they spread out. 4. Lay the bag flat on a sheet of paper.",
+     "do": "1. A grown-up puts a teaspoon of filings in the zip-lock bag. 2. Seal the bag, pressing out the air. 3. Shake the filings flat so they spread out. 4. Lay the bag flat on a sheet of paper.",
      "say": "The bag keeps the sharp filings safe. Press out the air and spread the filings thin.",
      "kid": "Ask a grown-up to seal the filings in a bag. Spread them flat.",
-     "parent": "A teaspoon of filings is plenty. Check the bag is sealed all along its edge. Do not let a small child open it. No filings? Skip this activity: the compass map from Walk the Compass shows the same pattern. About a teaspoon in a small flat bag gives a clear picture; a pinch is too thin. One grown-up runs it; children take turns tapping the bag, and all can look and draw.",
+     "parent": "A teaspoon of filings in a small flat bag is plenty and gives a clear picture. Check the bag is sealed all along its edge. Do not let a small child open it. No filings? Skip this activity: the compass map from Walk the Compass shows the same pattern. One grown-up runs it; children take turns tapping the bag, and all can look and draw.",
      "context": "This is the first step of the iron filings picture. A grown-up seals the filings in a bag."
     },
     {

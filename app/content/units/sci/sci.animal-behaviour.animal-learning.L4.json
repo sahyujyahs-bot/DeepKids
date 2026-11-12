@@ -1876,7 +1876,7 @@
      "t": "order",
      "p": "Put these in order, for a sea slug getting used to a gentle touch.",
      "a": [
-      "The siphon is touched gently",
+      "The siphon (a small spout on the slug's body) is touched gently",
       "The touch-sensing cell sends a message across a synapse",
       "The message makes the muscle pull in the gill",
       "The touch is repeated many times",
@@ -2538,7 +2538,7 @@
  ],
  "song": {
   "topic_level": "sci.animal-behaviour.L4",
-  "title": "Pack Your Fat, Cross the Sea",
+  "title": "Learning Is a Path in the Brain",
   "note": "Topic-level song"
  },
  "links": [
@@ -2788,7 +2788,7 @@
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Spoon Test needs a steel plate, a spoon, a small tin of rice and two willing volunteers. In my head it takes about 36 minutes. The jumps are scored by eye, so the scores are rough and two scorers may differ. The rice tin should give a clear jump back, but if the volunteer braces before each ring, the steps say to vary the gap. Crammed or Spread Out uses eight words per list, so the result can be close or even the other way round, and the steps say to write exactly what happens. Bee School needs two to four players and three paper cards. The Appointment works only if a bird, squirrel or neighbourhood animal already visits, and the steps give a fallback. The Meerkat Lesson, One Time Is Enough and the Signal challenge need only paper and things from the kitchen. Facts to check before the unit goes live: the bumblebee ball-rolling result, the exact number of days in the slime mould study, the Mimosa details, the Carew 1972 spaced and massed result, the wording about Lashley, and the video addresses, which are still to find.",
  "how_we_found_out": {
-  "story": "For years, scientists thought that learning was too tangled to follow. From the 1920s, Karl Lashley trained rats to run a maze and then cut away parts of their brains, looking for the place where the memory lived. He never found one spot. Many people decided a memory was spread everywhere, and could not be traced to particular cells. In the 1960s, Eric Kandel chose a very different animal, the sea slug Aplysia. Their nerve cells are large enough to see, and the whole nervous system has only about 20,000 of them. When the slug's siphon was touched gently again and again, the gill pulled in less each time. Kandel and his team followed the message through the cells. They found that the cell sensing the touch sent less chemical across its connection to the next cell. A simple memory could be traced to a single connection. Kandel shared a Nobel Prize for this work in 2000.",
+  "story": "For years, scientists thought that learning was too tangled to follow. From the 1920s, Karl Lashley trained rats to run a maze and then cut away parts of their brains, looking for the place where the memory lived. He never found one spot. Many people decided a memory was spread everywhere, and could not be traced to particular cells. In the 1960s, Eric Kandel chose a very different animal, the sea slug Aplysia. Their nerve cells are large enough to see, and the whole nervous system has only about 20,000 of them. When the slug's siphon (a small spout on its body) was touched gently again and again, the gill pulled in less each time. Kandel and his team followed the message through the cells. They found that the cell sensing the touch sent less chemical across its connection to the next cell. A simple memory could be traced to a single connection. Kandel shared a Nobel Prize for this work in 2000.",
   "who": "Karl Lashley, and then Eric Kandel and his team at New York University",
   "when": "1920s to 1970s",
   "wrong_idea": "That learning was too spread out through a brain to be traced to particular cells and connections."

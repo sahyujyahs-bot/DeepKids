@@ -1290,7 +1290,7 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Make four salt waters. Put 10 dry seeds on wet tissue in each saucer."
+          "what": "Make four salt waters. Put 10 soaked seeds on wet tissue in each saucer."
         },
         {
           "day": 2,
@@ -1466,9 +1466,9 @@
       "title": "Cover or Bare: does a cover of dry leaves keep the soil damp?",
       "mins": 25,
       "days": 4,
-      "question": "Two cups of the same damp soil sit in the same sunny window. One is covered with dry leaves and one is bare. Which dries out deeper in three days?",
-      "predict": "Which cup will have a thicker dry layer at the top after three days? Will the cover of leaves make a difference? Why do you think so?",
-      "fair_test": "Both cups have the same soil, the same depth of soil, and the same amount of water poured in slowly. They sit side by side in the same sunny place. Only the leaf cover changes. We measure the pale dry layer at the same time each day.",
+      "question": "Three cups of the same damp soil sit in the same sunny window. One is covered with dry leaves, one is bare and one has loosened soil on top. Which dries out deepest in three days?",
+      "predict": "Which cup will have the thickest dry layer at the top after three days? Will the cover of leaves make a difference? Why do you think so?",
+      "fair_test": "All three cups have the same soil, the same depth of soil, and the same amount of water poured in slowly. They sit side by side in the same sunny place. Only the top changes: leaf cover, bare, or loosened soil. We measure the pale dry layer at the same time each day.",
       "results_table": [
         "Day",
         "Bare cup: thickness of the pale dry layer (mm)",
@@ -1530,8 +1530,8 @@
           "id": "s1",
           "mins": 3,
           "do": "Show the three cups, the soil and the leaves. Ask for a guess and a reason, and write it down.",
-          "say": "Two cups of the same soil, in the same Sun. One gets a cover of dry leaves. Which dries out more? Why do you think so?",
-          "kid": "Two cups hold the same soil. One is covered with dry leaves. Which will dry out more? Why?",
+          "say": "Three cups of the same soil, in the same Sun. One gets a cover of dry leaves, one stays bare and one has loose soil on top. Which dries out most? Why do you think so?",
+          "kid": "Three cups hold the same soil. One is covered with dry leaves, one is bare and one is loosened. Which will dry out most? Why?",
           "ask": [
             {
               "q": "Why do you think the leaves will make a difference?",
@@ -1848,7 +1848,7 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Plan eight seasons for one field with the cards. Put one crop in each season. Use each pulse at least twice. Never put the same crop in two seasons in a row.",
+          "do": "Plan eight seasons for one field with the cards. Put one crop in each season. Use at least three pulses. Never put the same crop in two seasons in a row.",
           "say": "Plan a field for eight seasons. A cereal, then a pulse, then a cereal again. How will you keep the soil from getting tired?",
           "kid": "Plan eight seasons. Mix cereals and pulses.",
           "parent": "Many answers work. One good plan is rice, black gram, rice, groundnut, ragi, red gram, rice, moong. Ask your child why the pulses are placed where they are. With two to four children, each plans a field alone, then swaps with a neighbour, who checks the two rules and finds the first season that might fail.",

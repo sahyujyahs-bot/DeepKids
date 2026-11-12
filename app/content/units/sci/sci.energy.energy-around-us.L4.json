@@ -877,8 +877,8 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Switch on one appliance. For a slow blink, count blinks for 120 seconds. For a fast blink, time how long 10 blinks take. Switch it off. Do the fan, then the medium appliance, then the heating appliance.",
-     "say": "Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the medium one. A grown-up will do the heating one, and time ten blinks.",
+     "do": "Switch on one appliance. For a slow blink, count blinks for 120 seconds. For a fast blink, time how long 10 blinks take. Switch it off. Do the fan, then the mixer grinder, then the iron.",
+     "say": "Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the mixer grinder. A grown-up will do the iron, and time ten blinks.",
      "kid": "Switch on one appliance. Count the blinks. Write the number. Switch it off.",
      "adult": true,
      "parent": "Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts, which you measured with nothing extra switched on. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds. Be honest about the size of the error: one blink is 1,125 joules, so over 120 seconds a single blink is about 9 watts. For an appliance with few watts, such as a fan, count for 300 seconds if you have time. A heating appliance such as an iron switches its heater on and off, so its average may be below its rating plate. With 2 to 4 children, one counts blinks aloud, one times, one writes, and the grown-up works the appliance. Swap jobs for each appliance.",
@@ -998,7 +998,7 @@
      "kid": "How many lifts equal one chapati? Guess first. Then work it out.",
      "ask": [
       {
-       "q": "Why does eating one chapati not let you lift the bottle 42,000 times at once?",
+       "q": "Why does eating one chapati not let you lift the bottle 52,500 times at once?",
        "good": [
         "The body lets the energy out slowly.",
         "Muscles get tired.",

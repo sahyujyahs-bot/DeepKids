@@ -1449,10 +1449,10 @@
         {
           "day": 1,
           "mins": 30,
-          "what": "Draw a circle and four ellipses with the pins at different distances. Measure each. Find out what Kepler's Mars would look like."
+          "what": "Draw a circle and three ellipses with the pins at different distances. Measure each. Find out what Kepler's Mars would look like."
         }
       ],
-      "record": "Keep all five drawings on one page, and fill in a table with the pin distance, the width and the height of each shape.",
+      "record": "Keep all four drawings on one page, and fill in a table with the pin distance, the width and the height of each shape.",
       "flow": [
         {
           "id": "s1",
@@ -1513,7 +1513,7 @@
           }
         }
       ],
-      "context": "In this activity you draw a circle and four ellipses using a loop of thread and two pins. It shows what Kepler found, and how close to a circle the planets' paths really are.",
+      "context": "In this activity you draw a circle and three ellipses using a loop of thread and two pins. It shows what Kepler found, and how close to a circle the planets' paths really are.",
       "setup": [
         {
           "art": "A sheet of paper on a card with two pins and a loop of thread round them and a pencil pulling the thread tight.",
@@ -1741,7 +1741,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "On the seventh night, draw it a third time. Then use the app to speed up time by a month a second. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.",
+          "do": "On the seventh night, draw it a third time. Then use the app to speed up time, with the time step set to one day. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.",
           "say": "Now the app can show us a whole year in a few seconds. Watch the planet against the stars. Does it ever stop and slide backwards? When?",
           "kid": "Speed up time in the app. Watch the planet. Does it slide backwards?",
           "parent": "In the app, choose a planet that is far from the Sun, such as Mars or Jupiter. Set the time step to one day. When the planet seems to stop, slide back and go forward again, you have seen retrograde motion. Earth overtakes it, as a car overtakes a lorry.",

@@ -1139,7 +1139,7 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the start of Pack the Coins. Coins stand in for particles, so you can see how a repeated pattern makes straight edges.",
-     "do": "1. Lay the coins flat on the tray. 2. Push them together tightly, in rows. 3. Set each coin in the dip between two coins of the row below, like a honeycomb.",
+     "do": "1. Lay the coins flat on the plate. 2. Push them together tightly, in rows. 3. Set each coin in the dip between two coins of the row below, like a honeycomb.",
      "say": "Pretend each coin is a particle of a crystal. Pack them as tightly as you can. How many coins touch each coin in the middle?",
      "kid": "Each coin is a particle. Pack them tight. Count the coins touching one in the middle.",
      "parent": "A coin in the middle touches 6 others. If your cluster looks untidy, nudge the coins into rows."

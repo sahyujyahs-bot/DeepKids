@@ -1275,7 +1275,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess whether a planet 4 times as far from the Sun has a year 4 times as long. Test two ideas on real data. Find the rule. Use it to predict the year of Ceres."
+     "what": "Guess whether a planet 5 times as far from the Sun has a year 5 times as long. Test two ideas on real data. Find the rule. Use it to predict the year of Ceres."
     }
    ],
    "record": "A table with each planet's distance, year, the result of Test 1 and the result of Test 2. Write down which test worked, and the year you predicted for Ceres.",
@@ -1423,7 +1423,7 @@
      "say": "A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.",
      "kid": "You are the rover on Mars. Close your eyes. Your helper is Mission Control.",
      "adult": true,
-     "parent": "Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. With one child, the grown-up plays the other part. With 3 or 4 children, add an observer who keeps the tally and a second Mission Control who writes the plan together with the first. Swap roles after the three rounds so both children, or both you and your child, play each part. The real time ranges from about 4 to 24 minutes each way, depending on where the planets are.",
+     "parent": "Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. With one child, the grown-up plays the other part. With 3 or 4 children, add an observer who keeps the tally and a second Mission Control who writes the plan together with the first. Swap roles after the three rounds so both children, or both you and your child, play each part. The real time ranges from about 3 to 22 minutes each way, depending on where the planets are.",
      "context": "This is the first step of Drive a Rover. You set up the course and the rules."
     },
     {

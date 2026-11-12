@@ -1021,10 +1021,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess, feel the warmth in three places, block it with a card, and draw what you found."
+     "what": "Guess, feel the warmth in two places, block it with a card, and draw what you found."
     }
    ],
-   "record": "A drawing of the diya with three palms around it, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.",
+   "record": "A drawing of the diya with two palms near it, one at the side and one above, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.",
    "context": "In this activity, you hold a palm in different places near a flame, and block the warmth with a card. You find that the flame sends warmth in two different ways.",
    "setup": [
     {
@@ -1623,7 +1623,7 @@
    "id": "c1",
    "title": "Cool Roof: keep a shoebox house coolest in the Sun",
    "mins": 50,
-   "problem": "You have three identical shoebox houses, and one hot hour of sunlight. Cover the roof of each with something different to keep the inside as cool as possible. Which roof keeps the box coolest, and by how much?",
+   "problem": "You have three identical shoebox houses, and half an hour of hot sunlight. Cover the roof of each with something different to keep the inside as cool as possible. Which roof keeps the box coolest, and by how much?",
    "constraints": [
     "Each box has the same size roof and walls.",
     "You can only change the covering on the roof.",
@@ -1670,7 +1670,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Read the problem together. Ask your child to sketch three roof designs, and to guess which one will keep the box coolest.",
-     "say": "You have three shoebox houses and a hot hour of sunlight. How could you cover the roofs to keep the inside cool? Draw three ideas. Which do you think will work best, and why?",
+     "say": "You have three shoebox houses and half an hour of hot sunlight. How could you cover the roofs to keep the inside cool? Draw three ideas. Which do you think will work best, and why?",
      "kid": "You have three boxes and three roofs. Draw some ideas. Which box will stay coolest?",
      "ask": [
       {
@@ -3086,7 +3086,7 @@
   ],
   "art": "A child sitting with palms close together, and soft wavy lines between the hands and warm air rising from the child's head in a quiet room."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Colour Currents: a plain drinking glass about 8 centimetres deep, red food colour and a straw filled by dipping and closing the top with a finger. The hot drop (about 60 degrees) should rise in a few seconds, the ice-cold drop should sink, and the room drop should barely move. The times depend on how gently the straw is emptied, so the steps say to write what you really see, and to use less colour if the drop smears. Dark, White and Shiny: the foil lids make the sides do the work, so the black tumbler should rise several degrees and the foil one very little in 30 minutes of strong sun. It needs a sunny hour and a thermometer, so it is outside the core path. Hands Around a Diya: the card stops the side warmth at once and does nothing to the warmth above. The steps keep the palm no closer than 15 centimetres above the flame and ask a grown-up to stay beside the child. Paper Spiral: the spiral turns slowly at 25 centimetres above a small flame and does not turn in a draught, so the steps say to switch off fans. Cool the Jug Fast: ice at the top should leave the top clearly cooler, and ice at the bottom should leave a cold layer at the bottom and a warm top. A small ice amount gives small differences, so the steps ask the child to feel both layers as well as read the thermometer. Foil Sun Oven: chocolate usually softens in 20 to 30 minutes and melts in 30 to 60 minutes in strong sun, and may not melt at all on a hazy day. The videos have no address yet. Facts to check before the unit goes live: that the high ventilators and open courtyard in old Chettinad houses help cooling as described in the story, that white cool roofs have been used on tin roofs in Ahmedabad, the details of Anna Mani's work on solar radiation instruments, that Joseph Henry read Eunice Foote's paper at the 1856 meeting, the figure for how fast the mantle moves, and that the tea-light and diya flames give off enough radiation to feel at 10 centimetres.",
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Colour Currents: a plain drinking glass about 8 centimetres deep, red food colour and a straw filled by dipping and closing the top with a finger. The hot drop (about 60 degrees) should rise in a few seconds, the ice-cold drop should sink, and the room drop should barely move. The times depend on how gently the straw is emptied, so the steps say to write what you really see, and to use less colour if the drop smears. Dark, White and Shiny: the foil lids make the sides do the work, so the black tumbler should rise several degrees and the foil one very little in 20 minutes of strong sun. It needs a sunny hour and a thermometer, so it is outside the core path. Hands Around a Diya: the card stops the side warmth at once and does nothing to the warmth above. The steps keep the palm no closer than 15 centimetres above the flame and ask a grown-up to stay beside the child. Paper Spiral: the spiral turns slowly at 25 centimetres above a small flame and does not turn in a draught, so the steps say to switch off fans. Cool the Jug Fast: ice at the top should leave the top clearly cooler, and ice at the bottom should leave a cold layer at the bottom and a warm top. A small ice amount gives small differences, so the steps ask the child to feel both layers as well as read the thermometer. Foil Sun Oven: chocolate usually softens in 20 to 30 minutes and melts in 30 to 60 minutes in strong sun, and may not melt at all on a hazy day. The videos have no address yet. Facts to check before the unit goes live: that the high ventilators and open courtyard in old Chettinad houses help cooling as described in the story, that white cool roofs have been used on tin roofs in Ahmedabad, the details of Anna Mani's work on solar radiation instruments, that Joseph Henry read Eunice Foote's paper at the 1856 meeting, the figure for how fast the mantle moves, and that the tea-light and diya flames give off enough radiation to feel at 10 centimetres.",
  "how_we_found_out": {
   "story": "In 1800, the astronomer William Herschel wanted to know whether the colours in sunlight carry different amounts of heat. Most people then thought of heat as a weightless fluid, and not as anything to do with light. Herschel let sunlight pass through a glass prism, which spreads it into a rainbow. He put thermometers with blackened bulbs in the different colours. The temperature rose from violet to red. Then he did something clever. He placed a thermometer just beyond the red edge, where there was no visible light at all. It got the hottest of all. So there were invisible rays that carry heat, and they behave like light. We now call them infrared. In 1856, an American scientist named Eunice Foote showed that sunlight warms a jar of carbon dioxide more than a jar of ordinary air. A man read her paper aloud for her at a science meeting.",
   "who": "William Herschel, in 1800, and Eunice Foote, in 1856",

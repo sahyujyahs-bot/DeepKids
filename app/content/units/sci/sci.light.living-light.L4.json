@@ -901,7 +901,7 @@
     "Each player gets five tokens: Hot, Made by chemistry, Sent back at once, Stored, and Only bounced. Shuffle the cards and make a pile with the fronts facing up.",
     "One player is the reader. The reader takes the top card and reads the front aloud, but does not show the back.",
     "Everyone else lays one token face down. Then everyone turns their token over together.",
-    "The reader turns the card over and reads the back aloud. Each player with the right token takes the card. If you got it right and can also say why, you take the card and a point.",
+    "The reader turns the card over and reads the back aloud. Only one player takes each card. If one player has the right token, that player takes the card. If several players have it, the first one to say why it is right takes the card.",
     "Pass the reader job to the next player. Play until the pile runs out.",
     "Playing alone: take the top card, pick a token, then check the back. Count your right answers out of 26, and try to beat your score the next day.",
     "The player with the most cards wins. In a tie, everyone wins."
@@ -1824,7 +1824,7 @@
      "do": "Keep waiting in the dark. At 10 minutes, the timer rings. Do the sheets test again. Write the number. Put all the sheets back. Do not turn on any light.",
      "say": "Ten minutes. Same test again. Lift off one sheet at a time. Say stop when you see the glow. Remember, no lights, and no phone screens.",
      "kid": "At 10 minutes, do the sheet test again.",
-     "parent": "The numbers often rise slowly at first and then more quickly. Do not tell your child what number you expect.",
+     "parent": "The numbers often rise quickly at first and then more slowly. Do not tell your child what number you expect.",
      "context": "In this step, you do the third test, at 10 minutes."
     },
     {

@@ -421,7 +421,7 @@
    "concept": "Weighing without gravity",
    "status": "defined",
    "definition": "A spring and a load bounce at a beat that depends on the load and the stiffness, not on gravity. So the bounce time can show how much mass a thing has, even where nothing weighs anything.",
-   "description": "A bag of rice weighs less on the Moon, but it is still the same bag of rice. In space, an astronaut floats, and a bathroom scale cannot weigh her, because she does not press on it. But a spring can still measure her mass. NASA has used springy seats for this. In the 1970s, the space station Skylab had a Body Mass Measurement Device. The astronaut was strapped to a seat on springs and set bouncing. A heavier astronaut bounces more slowly, and the time of the bounce shows her mass. You can do the same on a table at home. Clamp a ruler to a table edge. Fix a lump of clay to the free end. Flick it, and count the wobbles in ten seconds. A heavier lump wobbles more slowly. If you lay the ruler flat along the table, it works the same way. Gravity is not needed, because the beat depends on the mass and the stiffness. Weighing by wobbling measures the amount of stuff, the mass, rather than the pull of a planet.",
+   "description": "A bag of rice weighs less on the Moon, but it is still the same bag of rice. In space, an astronaut floats, and a bathroom scale cannot weigh her, because she does not press on it. But a spring can still measure her mass. NASA has used springy seats for this. In the 1970s, the space station Skylab had a Body Mass Measurement Device. The astronaut was strapped to a seat on springs and set bouncing. A heavier astronaut bounces more slowly, and the time of the bounce shows her mass. You can do the same on a table at home. Clamp a ruler to a table edge. Fix a lump of clay to the free end. Flick it, and count the wobbles in ten seconds. A heavier lump wobbles more slowly. If you turn the ruler on its side, it works the same way. Gravity is not needed, because the beat depends on the mass and the stiffness. Weighing by wobbling measures the amount of stuff, the mass, rather than the pull of a planet.",
    "examples": [
     "An astronaut's mass is found on a spring seat by timing the bounces.",
     "A ruler with a big lump of clay wobbles more slowly than the same ruler with a small lump.",
@@ -677,7 +677,7 @@
    "Why do many small pushes at the right moments move a swing higher than a few big pushes at the wrong moments?",
    "What is a natural beat, and what two things set the natural beat of a bottle on a band?",
    "When you push a swing as it is coming towards you, what happens to the swing? Why?",
-   "Why does a heavier swing, with a heavier rider, have a slower natural beat?",
+   "Does a heavier rider change how fast a swing goes back and forth on its own? Why or why not?",
    "Name another springy thing, other than a swing or a vehicle, where timing the pushes could make a small push build a big movement."
   ],
   "art": [
@@ -3065,7 +3065,7 @@
  ],
  "song": {
   "topic_level": "sci.forces.L4",
-  "title": "Grip and Glide",
+  "title": "Stretch and Bounce",
   "note": "Topic-level song"
  },
  "links": [

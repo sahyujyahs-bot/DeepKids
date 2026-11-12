@@ -912,7 +912,7 @@
           "say": "Every jar gets three tablespoons of liquid. Each colour goes in one water jar and one oil jar. Only the liquid changes, so it is a fair test.",
           "kid": "Label six jars. Put 3 spoons of water in three jars. Put 3 spoons of oil in the other three. Add one colour to each pair.",
           "adult": true,
-          "parent": "Three tablespoons gives a layer deep enough to see colour in. Use a quarter of a teaspoon of powder, no more. Too much powder makes every jar cloudy. Wear old clothes. With 2 to 4 children, each child takes one colour and does their own pair, a water jar and an oil jar. Use the same spoon to measure every jar. One child can take the food colour and beetroot. A child working alone does all six jars, with a parent holding the labels.",
+          "parent": "Three tablespoons gives a layer deep enough to see colour in. Use a quarter of a teaspoon of powder, no more. Too much powder makes every jar cloudy. Wear old clothes. With 2 to 4 children, each child takes one colour and does their own pair, a water jar and an oil jar. Use the same spoon to measure every jar. One child can take the food colour. A child working alone does all six jars, with a parent holding the labels.",
           "check": {
             "t": "mcq",
             "q": "Why does each colour go into one water jar and one oil jar, with the same amount of liquid?",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "a4",
-      "title": "Curd, Water or Oil: what soothes a chilli?",
+      "title": "Curd, Water or Nothing: what soothes a chilli?",
       "mins": 30,
       "days": 1,
       "context": "In this activity a grown-up who likes spicy food helps you find out whether water or curd soothes the burn of a hot chilli better than doing nothing. The children set the order, keep the time and write down the scores. Children should not eat the chilli.",
@@ -1694,7 +1694,7 @@
             }
           ],
           "parent": "Do not say what will happen. Most children guess water. Drawing the order from the slips matters: the first piece may feel hotter than later ones, and a random order keeps one remedy from being unfairly first. NOTHING is the comparison, as the burn fades by itself. If two or more adults are tasting, each can take a different order and you can compare.",
-          "context": "This is the first step of the Curd, Water or Oil test. You guess before you try."
+          "context": "This is the first step of the Curd, Water or Nothing test. You guess before you try."
         },
         {
           "id": "s2",
@@ -3036,12 +3036,12 @@
   ],
   "maths": [
     {
-      "problem": "A bottle holds 500 millilitres of oil. One tablespoon is 15 millilitres. How many whole tablespoons of oil are in the bottle? Each Water or Oil test uses 3 tablespoons of oil. How many tests can you do?",
-      "answer": "33 tablespoons, and 11 tests.",
-      "explain": "500 divided by 15 is 33 with 5 left over, so there are 33 whole tablespoons. 33 divided by 3 is 11, so you can do 11 tests.",
+      "problem": "A bottle holds 500 millilitres of oil. One tablespoon is 15 millilitres. How many whole tablespoons of oil are in the bottle? Each oil jar in the Water or Oil test needs 3 tablespoons of oil. How many oil jars can you fill?",
+      "answer": "33 tablespoons, and 11 oil jars.",
+      "explain": "500 divided by 15 is 33 with 5 left over, so there are 33 whole tablespoons. 33 divided by 3 is 11, so you can fill 11 oil jars.",
       "math_unit": "math.division.division-facts.L4",
       "how": "e1",
-      "context": "In the Water or Oil test, each water or oil jar needs a measured tablespoon of liquid.",
+      "context": "In the Water or Oil test, each water or oil jar needs 3 measured tablespoons of liquid.",
       "why_maths": "Working out how many tests one bottle can supply helps you plan an experiment before you buy or borrow things."
     },
     {
@@ -3108,7 +3108,7 @@
   ],
   "song": {
     "topic_level": "sci.states.L4",
-    "title": "Heavy for Its Size",
+    "title": "What Water Takes",
     "note": "Topic-level song"
   },
   "links": [
@@ -3301,5 +3301,5 @@
       "Chandogya Upanishad 6.13; Kabir, couplet on the drop and the ocean, as sung in many collections"
     ]
   },
-  "playtest": "Every experiment, activity, game and challenge was walked through as if in a city flat with kitchen things. Water or Oil uses one tablespoon of liquid in each of six small jars, so colour is strong enough to see. Warm oil takes turmeric and chilli colour faster, so the oil jars stand in bath-warm water made by a grown-up, and the step tells a family what to do if the colour is faint. Food colour should stay in the water jar and show as beads in the oil. Fizz and Warmth needs two fresh bottles of the same soda, one chilled and one warmed in a water bath. A grown-up opens the bottles slowly over a sink, because a warm soda can spray. If both balloons are the same size, swirl the warm bottle more or use a fresh bottle. Kulfi in a Bag works with table salt and ice from the freezer. The milk in the plain ice bag stays liquid, and the milk in the salty bag turns thick and slushy after about ten minutes, and the salty bag is very cold, so hands are wrapped in towels. Thread on Ice works about two times in three, and the step says what to try if it fails. The chilli activity is only for a grown-up who is happy to eat a small piece. Children never eat the chilli. The TDS activity needs a meter that many homes with a purifier already own. Rescue the Salt uses rava and not sand, so a flat without a garden can do it, and the salt takes several hours to dry in a sunny window, or about ten minutes on a stove with a grown-up. Kitchen Dyes needs a grown-up for all simmering, and the colours vary with the cloth and the water, so the notes tell the family to write exactly what they see. Facts to verify: the Nolden 2019 study on beverages and capsaicin, the Tewksbury and Nabhan 2001 result on birds and chillies, the figure of a quarter for the ocean carbon sink, and the claim that casein helps with chilli burn, which is marked as a scientists' idea. The spine is the intro, Fizz Watch, Water or Oil, the explanation cards, roots and the quiz, about 95 minutes."
+  "playtest": "Every experiment, activity, game and challenge was walked through as if in a city flat with kitchen things. Water or Oil uses three tablespoons of liquid in each of six small jars, so colour is strong enough to see. Warm oil takes turmeric and chilli colour faster, so the oil jars stand in bath-warm water made by a grown-up, and the step tells a family what to do if the colour is faint. Food colour should stay in the water jar and show as beads in the oil. Fizz and Warmth needs two fresh bottles of the same soda, one chilled and one warmed in a water bath. A grown-up opens the bottles slowly over a sink, because a warm soda can spray. If both balloons are the same size, swirl the warm bottle more or use a fresh bottle. Kulfi in a Bag works with table salt and ice from the freezer. The milk in the plain ice bag stays liquid, and the milk in the salty bag turns thick and slushy after about ten minutes, and the salty bag is very cold, so hands are wrapped in towels. Thread on Ice works about two times in three, and the step says what to try if it fails. The chilli activity is only for a grown-up who is happy to eat a small piece. Children never eat the chilli. The TDS activity needs a meter that many homes with a purifier already own. Rescue the Salt uses rava and not sand, so a flat without a garden can do it, and the salt takes several hours to dry in a sunny window, or about ten minutes on a stove with a grown-up. Kitchen Dyes needs a grown-up for all simmering, and the colours vary with the cloth and the water, so the notes tell the family to write exactly what they see. Facts to verify: the Nolden 2019 study on beverages and capsaicin, the Tewksbury and Nabhan 2001 result on birds and chillies, the figure of a quarter for the ocean carbon sink, and the claim that casein helps with chilli burn, which is marked as a scientists' idea. The spine is the intro, Fizz Watch, Water or Oil, the explanation cards, roots and the quiz, about 95 minutes."
 }

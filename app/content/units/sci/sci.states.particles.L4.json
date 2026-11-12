@@ -3,12 +3,12 @@
  "title": "Particles: one picture that explains why solids hold, liquids pour and gases squash",
  "level": 4,
  "summary": {
-  "text": "One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into a cup of fresh water, then do it again and again. The colour gets fainter each time, but it does not vanish at once. Press the plunger of a syringe full of air, and the air squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air, water and rice. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the air in a pressure cooker can make it whistle.",
+  "text": "One drop of red food colour turns a cup of water pink. Pour a spoonful of that pink water into a cup of fresh water, then do it again and again. The colour gets fainter each time, but it does not vanish at once. Press the plunger of a syringe full of air, and the air squashes to less than half. Press one full of water, and it will not move. Your child dilutes colour through a row of cups and squeezes air and water. Then they build one picture, the particle model, that explains what a solid, a liquid and a gas are, and why the air in a pressure cooker can make it whistle.",
   "art": "A row of six clear cups on a white paper, the water going from deep pink on the left to almost clear on the right, with a syringe of air and a syringe of water beside them."
  },
  "intro": {
   "hook": "Put one drop of red colour into a cup of water, and the whole cup turns pink. Now take a spoonful of that pink water and mix it into a fresh cup. Do it again, and again. How many cups can one single drop colour before the pink is gone?",
-  "text": "The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air, water and rice in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.",
+  "text": "The answer is surprising, and it tells us something big. A drop is made of far more tiny pieces than anyone can count, and those pieces spread into every cup. In this unit you test how far one drop goes, and you squeeze air and water in a syringe. You find out why air squashes and water does not, and why a steel spoon holds its shape while the steam in a cooker pushes on the lid. One picture explains all of it: everything is made of particles, and what a solid, a liquid and a gas do depends on how close the particles are and how they move.",
   "art": "A child at a kitchen table with a row of cups of fading pink water, a teaspoon and a small bottle of red food colour."
  },
  "outcomes": [
@@ -2988,7 +2988,7 @@
   "deep_truth": {
    "truth": "In the Squeeze Test, the air in the syringe squashed to under half its size, and the water hardly moved. Both are made of particles. The difference is the empty space between them. A thing that looks 'full' has particles with little room between them. A thing that looks like 'nothing' has particles with a lot of room.",
    "habit": "We think a solid is full of stuff and a gas is nothing. That is wrong for the gas, because air is stuff too. It is also wrong for the solid, because it has gaps inside.",
-   "evidence": "In the Squeeze Test, the air in the syringe squashed to about half, the water hardly moved, and the rice moved a little as the grains settled. In the Full Jar activity, the mustard seeds slid into the gaps between the chana and filled the jar. If your numbers differ, write them down as they are."
+   "evidence": "In the Squeeze Test, the air in the syringe squashed to about half, and the water hardly moved. In the Full Jar activity, the mustard seeds slid into the gaps between the chana and filled the jar. If your numbers differ, write them down as they are."
   },
   "three": {
    "who_am_i": "More than half of your weight is water. Your lungs fill with a gas, and the empty space between air particles is why you can breathe in and out.",

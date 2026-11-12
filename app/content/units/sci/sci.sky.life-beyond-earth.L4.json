@@ -220,7 +220,7 @@
    "status": "idea",
    "context": "Most searches for life look for liquid water. This card is about a moon that has liquid, but not water, on its surface.",
    "definition": "Titan, a moon of Saturn, has lakes and seas of liquid methane and ethane on its surface, and a thick nitrogen atmosphere. It is too cold for water to be liquid there.",
-   "description": "Titan is the only moon in our solar system with a thick atmosphere. It is about minus 179 degrees on the surface. In such cold, rock is as hard as steel and water is ice. But methane and ethane, which are gases on Earth, are liquid there. Rain falls, rivers run and lakes fill. In 2005 the Huygens probe landed on Titan. NASA plans to send a flying lander, called Dragonfly, in the late 2020s. Some scientists wonder whether a kind of life could use methane as its liquid instead of water. Nobody has found such life, and nobody knows if it could exist. Under the ice, Titan may also have a layer of liquid water. Titan shows us that life as we know it may not be the only kind to look for.",
+   "description": "Titan is the only moon in our solar system with a thick atmosphere. It is about minus 179 degrees on the surface. In such cold, water is ice, and the ice is as hard as rock. But methane and ethane, which are gases on Earth, are liquid there. Rain falls, rivers run and lakes fill. In 2005 the Huygens probe landed on Titan. NASA plans to send a flying lander, called Dragonfly, in the late 2020s. Some scientists wonder whether a kind of life could use methane as its liquid instead of water. Nobody has found such life, and nobody knows if it could exist. Under the ice, Titan may also have a layer of liquid water. Titan shows us that life as we know it may not be the only kind to look for.",
    "examples": [
     "Rivers of liquid methane have carved valleys on Titan, like rivers of water on Earth.",
     "The Huygens probe sent back pictures from Titan's surface in 2005.",
@@ -3123,7 +3123,7 @@
    "explain": "From minus 60 up to 0 is 60 degrees. From 0 up to 460 is another 460 degrees. 60 plus 460 is 520 degrees. So Venus is 520 degrees hotter than Mars.",
    "math_unit": "math.addition-subtraction.written-methods.L4",
    "context": "This is about Venus and Mars, two planets next to Earth. One is far too hot and the other is far too cold.",
-   "why_maths": "Counting up through zero is how you find the gap between a hot world and a cold one, and tells how much the air of a planet changes its temperature."
+   "why_maths": "Counting up through zero is how you find the gap between a hot world and a cold one. Venus and Mars are far apart in temperature, and the air of each planet is one of the reasons."
   },
   {
    "problem": "A spacecraft crosses a plume at about 8 kilometres every second. A made-up plume is 40 kilometres wide. How many seconds does the crossing take?",

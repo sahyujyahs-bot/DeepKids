@@ -208,7 +208,7 @@
       "concept": "The wedge: two ramps that push things apart",
       "status": "defined",
       "definition": "A wedge is two ramps back to back, with a thin edge at the front. When you push it in, its sloping sides push the material apart. The sideways force is bigger than your push, but the material moves a smaller distance.",
-      "description": "When you push a wedge into a log, the thin edge goes in only a short way, while the two sloping sides push the wood apart. The thinner the wedge, the longer and gentler its sloping sides, and the more it multiplies your push. A knife is a wedge. When it is sharpened, it gets thinner, so it cuts with less push. A blunt knife needs more push because it is a thick wedge. Your front teeth are wedges, for biting through an apple. A nail, a needle and the bow of a boat are wedges as well. A wedge works best along a line where the material wants to split. Wood splits along the grain far more easily than across it, and an axe or a knife slips in along the weak line.",
+      "description": "When you push a wedge into a log, the wedge goes in a long way, while the wood is pushed apart only a short way. The thinner the wedge, the longer and gentler its sloping sides, and the more it multiplies your push. A knife is a wedge. When it is sharpened, it gets thinner, so it cuts with less push. A blunt knife needs more push because it is a thick wedge. Your front teeth are wedges, for biting through an apple. A nail, a needle and the bow of a boat are wedges as well. A wedge works best along a line where the material wants to split. Wood splits along the grain far more easily than across it, and an axe or a knife slips in along the weak line.",
       "examples": [
         "A knife gets easier to use when it is sharpened, because the wedge is thinner.",
         "A door stop is a wedge that holds a door by jamming under it.",
@@ -369,7 +369,7 @@
       "hint": "Think about Emmy Noether's idea about the laws being the same on every day."
     },
     {
-      "q": "A bicycle is slow up a hill in a high gear and fast on the flat in a low one. Why can't we have both at once?",
+      "q": "On a bicycle, a low gear makes a hill easy but is slow on the flat, and a high gear is fast on the flat but hard up a hill. Why can't we have both at once?",
       "kind": "deep",
       "hint": "Think about the Count the Ropes test, where you could swap pull for distance but could not get a smaller pull and a shorter distance together."
     },
@@ -1573,7 +1573,7 @@
       ],
       "creative": [
         "Hang a second moving reel from the first one's string, so the pull is a quarter, with 3 reels in all.",
-        "Use bigger, smoother reels, so there is less rubbing and the band stretches less than the ideal numbers suggest.",
+        "Use bigger, smoother reels, so there is less rubbing and the pull gets closer to the ideal numbers.",
         "Use a different string, such as thread, and test whether friction goes down."
       ],
       "your_turn": "Sketch your design. Build it and test it. Count the strings that hold the bottle. Work out the pull you should get, and measure the real stretch. How close were they? Where did the extra pull go?",

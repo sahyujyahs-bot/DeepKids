@@ -3,7 +3,7 @@
   "title": "Maps and directions: how to map a place you cannot see, and find where you are from three distances",
   "level": 4,
   "summary": {
-    "text": "A closed shoebox hides a small landscape of hills. All your child may do is push a thin stick down through holes in the lid and measure how far it goes. From those measurements, your child draws a map of hills they cannot see. Sailors and scientists mapped the floor of the sea in the same way. Your child also learns that a narrow ridge lying between two holes can be missed completely. Your child then finds a hidden coin from three distances, and measures a route on a map with the scale bar and walks it to check the map. Then the child sees why a phone needs at least three satellites to know where it is.",
+    "text": "A closed shoebox hides a small landscape of hills. All your child may do is push a thin stick down through holes in the lid and measure how far it goes. From those measurements, your child draws a map of hills they cannot see. Sailors and scientists mapped the floor of the sea in the same way. Your child also learns that a narrow ridge lying between two holes can be missed completely. Your child then finds a hidden coin from three distances, and measures a route on a map with the scale bar and walks it to check the map. Then the child sees why a phone needs at least four satellites to know where it is.",
     "art": "A shoebox with a lid full of small holes, a child pushing a thin stick through one hole, and beside the box a squared-paper map with numbers and coloured squares."
   },
   "intro": {
@@ -1417,7 +1417,7 @@
         {
           "id": "s4",
           "mins": 7,
-          "do": "Measure the length of your step. Mark a start line and walk 20 normal steps in a straight line along a floor or a pavement. Measure the distance. Divide it by 20. Then divide the real distance of the route by your step length to find the steps you expect.",
+          "do": "Measure the length of your step. Mark a start line and walk 10 normal steps in a straight line along a floor or a pavement. Measure the distance. Divide it by 10. Then divide the real distance of the route by your step length to find the steps you expect.",
           "say": "Walk ten steps in a line, then measure how far you went. Divide by ten. That is one step. Now how many steps in the whole route?",
           "kid": "Walk ten steps. Measure. Divide by ten.",
           "parent": "A child of about nine has a step of roughly 50 to 60 centimetres, but yours may differ. Use your own."

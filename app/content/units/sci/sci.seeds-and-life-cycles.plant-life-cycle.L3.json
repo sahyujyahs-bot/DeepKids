@@ -1488,7 +1488,7 @@
     },
     {
      "t": "write",
-     "p": "A willow tree grows in a pot for five years. The tree gains about 74 kilograms. The soil loses only about 57 grams. What does this show? If the tree's body did not come from the soil, where else could it have come from?",
+     "p": "A willow tree grows in a pot for five years. The tree gains about 75 kilograms. The soil loses only about 60 grams. What does this show? If the tree's body did not come from the soil, where else could it have come from?",
      "lines": 4,
      "a": "It shows that the tree's body did not come from the soil, because the soil hardly changed. It must have come from what else the tree took in: water and air. Most of a tree's dry body is built from carbon dioxide in the air, joined with water using sunlight.",
      "why": "A strong answer uses the numbers as evidence, then names water and air. Most people guess 'the soil', and the numbers show that cannot be right."
@@ -2334,7 +2334,7 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Compare all three flowers on day 5.",
+     "do": "Compare all three flowers on day 4.",
      "say": "Edmond found out that vanilla flowers needed someone to carry their pollen. Who carried pollen to our red flower?",
      "kid": "Compare your three flowers. Who carried pollen to the open red flower? Edmond did this job for vanilla flowers!",
      "think": "Bees, butterflies, moths and even bats carry pollen for free. What would happen to our food if they all disappeared?"
@@ -3562,7 +3562,7 @@
    ],
    "a": 1,
    "outcome": 5,
-   "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds their wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 74 kilograms while their soil lost only about 57 grams."
+   "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds their wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 75 kilograms while their soil lost only about 60 grams."
   },
   {
    "t": "mcq",

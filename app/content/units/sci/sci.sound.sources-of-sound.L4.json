@@ -1658,7 +1658,7 @@
           "id": "s2",
           "mins": 25,
           "do": "First blow across the empty bottle and find its note on the harmonium or keyboard. Call that note Sa. Now play Re, Ga, Pa and Dha above it. For each next bottle, start with the first-guess amount in the parent note and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it, and label the bottle. Each bottle needs more water than the one before.",
-          "say": "Play Sa on the harmonium. Blow across the first bottle and compare. Is yours lower or higher? Add water to go higher, or pour some out to go lower. Match it, and label it. Then do Re, Ga, Pa and Dha.",
+          "say": "Blow across the empty bottle. Play that note on the harmonium. We will call it Sa. Now fill the next bottle a little and blow across it. Is it lower or higher than Sa? Add water to go higher, or pour some out to go lower. Match it, and label it. Then do Re, Ga, Pa and Dha.",
           "kid": "Play a note. Blow across a bottle. Add water to go higher. Pour out to go lower.",
           "adult": false,
           "parent": "A bottle's lowest blown note is often below the harmonium's usual Sa, so we start from the bottle's own note, and the empty bottle is Sa. Typical first guesses for a 250 to 300 millilitre bottle, to be tuned by ear: Re about 50 millilitres, Ga about 90, Pa about 140, Dha about 170. Your bottles will differ, so trust your ears. Add water in small amounts, 10 millilitres at a time. Blow gently, because a hard blow jumps to a higher note. Each higher note needs more water. If you have no harmonium, use a keyboard app on a phone, or sing the scale and match by ear. Write the amounts of water as you go.",

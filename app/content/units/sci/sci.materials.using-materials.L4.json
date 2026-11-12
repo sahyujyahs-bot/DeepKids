@@ -1252,7 +1252,7 @@
   },
   {
    "id": "e2",
-   "title": "Back to the Earth: what does soil do to our scraps?",
+   "title": "The Burial Test: what does soil do to our scraps?",
    "mins": 55,
    "days": 14,
    "schedule": [
@@ -1890,7 +1890,7 @@
      "kid": "Write the results. Which mend would you choose?",
      "check": {
       "t": "mcq",
-      "q": "The stitched strip held 12 coins and the taped strip held 9. The unmended strip held 6. What does this tell you?",
+      "q": "The stitched strip held 120 millilitres of water and the taped strip held 90. The unmended strip held 60. What does this tell you?",
       "options": [
        "Both mends helped, and stitching helped more in this test",
        "The tape made it weaker",

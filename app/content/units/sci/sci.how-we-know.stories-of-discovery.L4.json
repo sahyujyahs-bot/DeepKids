@@ -1269,7 +1269,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Say in a very sure voice: you cannot fold a sheet of paper in half more than seven times. Ask your child to doubt this kindly. Offer four starter questions on a card.",
+     "do": "Say in a very sure voice: you cannot fold a sheet of paper in half more than seven times. Ask your child to doubt this kindly. Offer three starter questions on a card.",
      "say": "You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show that you are wrong? Did you do it yourself?",
      "kid": "Doubt the claim kindly. Ask: Can I try it? What would show that you are wrong?",
      "ask": [
@@ -1752,7 +1752,7 @@
    "id": "c1",
    "title": "The Size Card: report how big something looks, so anyone can check",
    "mins": 35,
-   "problem": "Look at three tiny things through your water-drop lens. Make a card that tells someone far away how big each thing looks, using only everyday things for comparison, so that they can draw each one at the right size without seeing it.",
+   "problem": "Look at four tiny things through your water-drop lens. Make a card that tells someone far away how big each thing looks, using only everyday things for comparison, so that they can draw each one at the right size without seeing it.",
    "constraints": [
     "Use your own water-drop lens from the experiment, or a magnifying glass.",
     "Describe each thing by comparing it with something else, not with a number alone.",

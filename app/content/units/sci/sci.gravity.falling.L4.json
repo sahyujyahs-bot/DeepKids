@@ -159,7 +159,7 @@
       ],
       "perspectives": [],
       "art": "One paper cup and a stack of four paper cups falling side by side, with the stack ahead of the single cup.",
-      "context": "In the Drop Race, a heavy bottle and a light bottle landed together. This card explains when the air changes that answer."
+      "context": "In a vacuum, heavy and light things fall together. This card explains when the air changes that answer."
     },
     {
       "concept": "Sideways speed and falling are separate",
@@ -769,7 +769,7 @@
           "mins": 5,
           "do": "Check that all five liners are exactly alike. Stick a strip of tape on the wall at the height of the grown-up's raised hand. Always drop from this height. If you have no liners, cut five circles from newspaper, 12 centimetres wide, using a katori as a guide. Cut a slit to the middle of each and overlap the cut edges by 1 centimetre. Tape them into five shallow cones.",
           "say": "All the liners must be the same. The drop height must be the same too. We will mark it on the wall.",
-          "kid": "Check the four liners are the same. Put tape on the wall to mark the drop height.",
+          "kid": "Check the five liners are the same. Put tape on the wall to mark the drop height.",
           "parent": "The grown-up should do every drop, holding the liners at the tape with a straight arm. A child on tiptoe changes the height each time. Press nested liners together so they act as one thing.",
           "check": {
             "t": "mcq",
@@ -803,7 +803,7 @@
           "parent": "A liner that tumbles over is a wobble. Call it a wobble and repeat that drop. The stack of four should land first by a clear gap. If the single liner wins, check that the stack is pressed together and that the openings face up. If they land together, your liners are small and stiff: use a stack of eight against a single one, or use bigger liners or newspaper cones. If nothing differs even then, say so honestly: that is a result too, and the air matters less for small, stiff things. With two or more children, each guesses before every race and keeps a tally of who guessed right.",
           "check": {
             "t": "mcq",
-            "q": "The stack of four landed first. In the Drop Race, a heavy bottle and a light bottle landed together. What is different with the liners?",
+            "q": "The stack of four landed first. In a vacuum, heavy and light things fall together. What is different with the liners?",
             "options": [
               "The liners are wide and light, so the air pushes on them a lot",
               "Gravity works differently on paper",
@@ -1067,7 +1067,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Show the marble and explain that it will be dropped from 10, 20 and 40 centimetres. Ask your child to guess which dent will be deepest and how much deeper the dent from 40 centimetres will be. Ask for a reason.",
-          "say": "We drop a marble into soft dough from three heights. Which dent will be deepest? How much deeper will the 40 centimetre dent be than the 20 centimetre dent? Why?",
+          "say": "We drop a marble into soft dough from three heights. Which dent will be deepest? How much deeper will the 40 centimetre dent be than the 10 centimetre dent? Why?",
           "kid": "A marble drops into dough from three heights. Which dent is deepest? Why?",
           "ask": [
             {

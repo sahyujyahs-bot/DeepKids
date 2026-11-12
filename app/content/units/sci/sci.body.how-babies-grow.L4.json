@@ -261,7 +261,7 @@
       "concept": "What shapes a person: genes, surroundings, or both?",
       "status": "debated",
       "definition": "",
-      "description": "Genes give the instructions, but a baby's surroundings change how the instructions are used. Scientists agree on this. They argue about how much each one counts, and about how the surroundings make their mark. In the winter of 1944 to 1945 the Netherlands had a famine called the Hunger Winter. Babies whose mothers were hungry in early pregnancy grew up with more health problems as adults, even though their genes were the same as their brothers' and sisters'. Scientists still debate exactly how the hunger left its mark.",
+      "description": "Genes give the instructions, but a baby's surroundings change how the instructions are used. Scientists agree on this. They argue about how much each one counts, and about how the surroundings make their mark. In the winter of 1944 to 1945 the Netherlands had a famine called the Hunger Winter. Babies whose mothers were hungry in early pregnancy grew up with more health problems as adults, even though they had the same parents as their brothers and sisters. Scientists still debate exactly how the hunger left its mark.",
       "examples": [
         "Identical twins have the same genes but are not the same.",
         "A well-fed, well-cared-for child grows taller than the same child would with too little food.",
@@ -1696,7 +1696,7 @@
         },
         {
           "t": "mcq",
-          "p": "A cell from a tadpole's gut is put into an egg cell, and a whole frog grows. What does this show about the gut cell?",
+          "p": "The nucleus of a cell from a tadpole's gut is put into an egg cell, and a whole frog grows. What does this show about the gut cell?",
           "opts": [
             "It still holds every instruction for building a frog",
             "It was already part of a frog's egg",
@@ -2277,7 +2277,7 @@
       "title": "Human Embryo Growing from Fertilization to Day 6 Blastocyst",
       "channel": "Texas Fertility Center",
       "mins": 4,
-      "why": "To see cells split, form a ball, and start to make a heart and a spine.",
+      "why": "To see cells split and form a ball in the first six days. The video stops at day 6, before the heart and spine begin to form.",
       "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
       "youtube": "RcjJ8LUvdkc"
     },

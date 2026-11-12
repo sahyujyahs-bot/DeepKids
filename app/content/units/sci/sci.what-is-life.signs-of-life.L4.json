@@ -1199,7 +1199,7 @@
      "kid": "Count the sprouts on each plate. Write the numbers. Keep the tissue damp.",
      "parent": "A sprout means a small white root, at least as long as the seed is wide. Do not remove sprouts from the plate.",
      "wait": "Day 3",
-     "context": "In this step, you count the first sprouts, two days after you set up."
+     "context": "In this step, you count the first sprouts on day 3 after you set up."
     },
     {
      "id": "s4",
@@ -2750,7 +2750,7 @@
   },
   {
    "problem": "In the seed test, a group of 10 fresh seeds has 9 sprouts, a group of 10 seeds from last year has 8, a group from three years ago has 5, and the oldest group has 2. What percentage of each group sprouted? Between which two groups did the number fall the most?",
-   "answer": "90 percent, 80 percent, 50 percent and 20 percent. The biggest fall was between the group from last year and the group from three years ago.",
+   "answer": "90 percent, 80 percent, 50 percent and 20 percent. The biggest fall was 30 percentage points. It happened twice: from last year to three years ago, and from three years ago to the oldest group.",
    "explain": "Each group has 10 seeds, so 9 out of 10 is 90 out of 100, or 90 percent. 8 is 80 percent, 5 is 50 percent and 2 is 20 percent. The falls are 10, 30 and 30 percentage points. The 30-point falls happen from last year to three years ago, and from three years ago to the oldest. Both are the biggest.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "how": "e3",
