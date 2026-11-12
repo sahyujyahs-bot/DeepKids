@@ -174,7 +174,7 @@
    "status": "defined",
    "context": "This card is about tricky animals that do not fit one simple rule.",
    "definition": "Scientists sort animals by looking at many body parts together, not just one.",
-   "description": "Wings alone do not make a bird: butterflies and bats have wings too. Fins alone do not make a fish: dolphins have fins. Scales alone do not make a reptile: the Indian pangolin is a mammal covered in scales, and the mother feeds her baby on milk. So scientists look at the covering, the legs, how the animal breathes and how the babies are fed, all together. Humans are mammals: you have hair, you breathed air from your first minute, and babies drink milk.",
+   "description": "Wings alone do not make a bird: butterflies and bats have wings too. Fins alone do not make a fish: dolphins have fins. Scales alone do not make a reptile: the Indian pangolin is a mammal covered in scales, and the mother feeds her baby on milk. So scientists look at the covering, the legs, how the animal breathes and how the babies are fed, all together. Humans are mammals: you have hair, you have breathed air from your first minute, and human babies drink milk.",
    "examples": [
     "A bat has wings and fur, so a bat is a mammal.",
     "A pangolin has scales and drinks milk as a baby, so a pangolin is a mammal.",
@@ -259,9 +259,9 @@
  ],
  "big_questions": [
   {
-   "q": "When you stand still, which parts of you are working? Who decides each tiny shift?",
+   "q": "When you stand still, your feet and ankles keep making tiny moves. Who decides each move: you, or your body by itself?",
    "kind": "deep",
-   "hint": "Remember standing with your eyes shut. Did you decide to move your ankle, or did your ankle move by itself?"
+   "hint": "In the Dough Legs experiment, you stood with your eyes shut. Did you decide to move your ankle, or did your ankle move by itself?"
   },
   {
    "q": "Is a pet a kind of animal, or a kind of friendship between an animal and a family?",
@@ -549,7 +549,7 @@
     }
    ],
    "rules": [
-    "Before you play, share the cards and draw a quick animal under each name, so that a child who cannot read yet can play. A simple shape is enough.",
+    "Before you play, share out the cards between the players. Each player draws a quick animal under the name on each of their cards, so that a child who cannot read yet can play. A simple shape is enough.",
     "Lay the five covering mats in a circle on the floor.",
     "Mix the cards and put them face down in a pile.",
     "One player turns over the top card and reads the name aloud.",
@@ -580,7 +580,7 @@
        ]
       }
      ],
-     "parent": "The tricky cards are the bat, the pangolin, the butterfly, the ant and the dolphin. Let the race stop for these, and talk about them."
+     "parent": "The tricky cards are the bat, the pangolin, the butterfly, the ant and the dolphin. Stop the race for these cards, and talk about them."
     },
     {
      "id": "s3",
@@ -617,7 +617,7 @@
    "title": "Build-a-Beast",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a drawing game about how animal bodies go together. Players pick a covering, a number of legs and an extra part, draw the beast, and then try to name a real animal with that body.",
+   "context": "This is a drawing game about how animal bodies go together. Players pick a covering, a number of legs and an extra part, and draw a made-up beast with that body. Then they try to name a real animal with that body.",
    "printables": [
     {
      "kind": "cards",
@@ -736,7 +736,7 @@
    "days": 1,
    "context": "In this experiment you make an animal body from atta dough, and give the body 1, 2, 3, 4 and then 6 legs. You test which ones stand by themselves. Then you stand on two legs with your eyes shut, and feel what your own feet do.",
    "question": "How many legs does a body need to stand still without help? And how do we stand on only two?",
-   "predict": "Guess first. How many legs will the dough animal need to stand without help without falling over? Why do you think so?",
+   "predict": "Guess first. How many legs will the dough animal need to stand without help? Why do you think so?",
    "fair_test": "We use the same dough body and legs of the same length every time. Only the number of legs changes. We let go and count to five each time, and try each number twice, because one try can be luck.",
    "results_table": [
     "Number of legs",
@@ -786,7 +786,7 @@
      "kid": "Guess. How many legs does it need to stand? Why?",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Why do you think the dough animal needs that many legs?",
        "good": [
         "Two, because I stand on two legs.",
         "Four, because a cow and a dog stand on four."
@@ -810,7 +810,7 @@
        ]
       }
      ],
-     "parent": "Push the legs in so they spread out a little, like the legs of a stool. With one or two legs, the body tips over every time. With three legs spread out, it stands. Four and six stand easily. If three legs fall, spread them wider and keep the body in the middle."
+     "parent": "Push the legs in so they spread out a little, like the legs of a stool. With one or two legs, the body tips over every time. With three legs spread out, the body stands. With four and six legs, the body stands easily. If the body falls on three legs, spread the legs wider and keep the body in the middle."
     },
     {
      "id": "s4",
@@ -837,12 +837,12 @@
        ]
       }
      ],
-     "parent": "Your child will feel the toes press, the ankles tighten and loosen, and the body sway a little. Shutting the eyes makes the sway bigger, so the corrections are easier to feel. Standing on one foot makes them bigger still."
+     "parent": "Your child will feel the toes press, the ankles tighten and loosen, and the body sway a little. Shutting the eyes makes the sway bigger, so these tiny moves are easier to feel. Standing on one foot makes them bigger still."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say what they think, what they saw, and why.",
+     "do": "Ask your child what they think the answer is, what they saw in the test, and why it happened.",
      "say": "So, how many legs did the dough animal need? And how do you stand on two?",
      "kid": "How many legs did it need? How do you stand on two?",
      "ask": [
@@ -864,7 +864,7 @@
        "Because you are heavier"
       ],
       "a": 1,
-      "why": "Your body keeps catching itself before you tip, many times while you stand. The dough cannot do that, so it needs three legs in a triangle."
+      "why": "All the time you stand, your body keeps catching itself before you tip over. The dough cannot do that, so it needs three legs in a triangle."
      }
     }
    ],
@@ -1016,12 +1016,12 @@
        ]
       }
      ],
-     "parent": "With the fin, the bottle rocks a little and stops. The fin has to push a lot of water out of the way to turn, so it hardly turns."
+     "parent": "With the fin, the bottle rocks a little and stops. To turn, the fin has to push a lot of water out of the way, so the bottle hardly turns."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say what they think, what they saw, and why.",
+     "do": "Ask your child what they think the answer is, what they saw in the test, and why it happened.",
      "say": "So what does a fin on a fish's back or belly do?",
      "kid": "What does a fin do for a fish?",
      "ask": [
@@ -1033,7 +1033,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses the counts: no fin, the bottle rolled. With a fin, it stopped. Fins on a fish's back and belly do the same job. They push against the water and keep the fish upright.",
+     "parent": "A strong answer uses the counts: without a fin, the bottle rolled. With a fin, the bottle rocked and stopped. Fins on a fish's back and belly do the same job. They push against the water and keep the fish upright.",
      "check": {
       "t": "mcq",
       "q": "With a fin, the bottle stopped rolling. What does the fin on a fish's back do?",
@@ -1108,7 +1108,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "An hour before, put sugar out for ants. Then zoom in and count an ant's legs and feelers."
+     "what": "An hour before you start, put sugar out for ants. Then zoom in and count an ant's legs and feelers."
     }
    ],
    "record": "Draw the ant with every leg. Write the number of legs.",
@@ -1116,7 +1116,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. About an hour before, put a pinch of sugar on a white plate. 2. Put the plate on the floor where you have seen ants.",
+     "do": "1. About an hour before you start, put a pinch of sugar on a white plate. 2. Put the plate on the floor where you have seen ants.",
      "say": "Ants find sugar fast. Let's give them some and see who comes.",
      "kid": "Put sugar on a plate where the ants walk."
     },
@@ -1229,14 +1229,14 @@
      "id": "s2",
      "mins": 3,
      "do": "If you have a feather, zoom in on it and compare with the hair.",
-     "say": "A feather grows out of a bird's skin, as your hair grows out of yours. How are they the same? How are they different?",
+     "say": "A feather grows out of a bird's skin, just as your hair grows out of your skin. How are they the same? How are they different?",
      "kid": "Look at the feather. How is it like your hair?",
      "parent": "Your hair, your nails, a bird's feathers, a cow's horns and a gecko's scales are all made of the same tough material, called keratin. Fish scales are made of a bony material instead."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about coverings.",
+     "do": "Talk about what body coverings are made of.",
      "say": "Your covering is skin and hair. Which animals have a covering made of the same material as your nails?",
      "kid": "Which animals are covered in the same material as your nails?",
      "check": {
@@ -1297,7 +1297,7 @@
      "mins": 4,
      "do": "Take turns: one person moves like an animal, and the others guess.",
      "say": "Which animal am I? How do you know?",
-     "kid": "Move like an animal. Can they guess?",
+     "kid": "Move like an animal. Can the others guess which animal you are?",
      "ask": [
       {
        "q": "How did you know I was a snake?",
@@ -1389,7 +1389,7 @@
      "do": "Talk about the tricky ones: a street dog, a cow walking on the road, a parrot in a cage.",
      "say": "A street dog is fed by the whole lane. Is she a pet, or wild? What do you think?",
      "kid": "Is a street dog a pet or wild? Why?",
-     "parent": "There is no single right answer for a street dog. Some people say community dog. The important thing is the reason your child gives.",
+     "parent": "There is no single right answer for a street dog. Some people call her a community dog. The important thing is the reason your child gives.",
      "check": {
       "t": "mcq",
       "q": "A crow lives on the water tank of your building. What kind of animal is the crow?",
@@ -1457,12 +1457,12 @@
      "do": "Drip three drops of water on the feather and three on the paper. Watch.",
      "say": "Look at the drops. Which ones soak in? Which ones roll?",
      "kid": "Drip the water. Watch the drops.",
-     "parent": "On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. If the drops soak in, the feather may be dirty or fluffy down. Try a bigger, smooth feather, such as a pigeon's wing feather."
+     "parent": "On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. If the drops soak into the feather, the feather may be dirty, or may be a soft, fluffy one. Try a bigger, smooth feather, such as a pigeon's wing feather."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about it.",
+     "do": "Talk about what the water did on the feather and on the paper.",
      "say": "Why does a crow need feathers that keep water off?",
      "kid": "Why does a crow need dry feathers?",
      "check": {
@@ -1532,7 +1532,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about what you saw.",
+     "do": "Talk about which fins moved when the fish swam, turned and stopped.",
      "say": "What did the side fins do when the fish stopped?",
      "kid": "What did the side fins do?",
      "check": {
@@ -1684,7 +1684,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the challenge. Remind your child what happened with two legs in the Dough Legs test.",
-     "say": "Our dough animal fell over on two legs. Can you make one that stands?",
+     "say": "In the Dough Legs test, our dough animal fell over on two legs. Can you make one that stands?",
      "kid": "Make a two-legged dough animal that stands!"
     },
     {
@@ -1841,7 +1841,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did the dough animal with two legs fall over?",
+     "p": "Say your answer out loud, and ask a grown-up to write it down. In the Dough Legs test, why did the dough animal with two legs fall over?",
      "lines": 2,
      "a": "Two legs only make a thin line to stand on, so the dough tipped forward or back. The dough cannot move to catch itself.",
      "why": "A strong answer says that two legs are not enough to hold the body up by themselves, and may say that three legs make a triangle.",
@@ -1923,14 +1923,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and her friend Arjun live in Kochi. A brown street dog sleeps outside their building. Many people in the lane feed her.",
+     "p": "A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.",
      "views": [
       {
-       "who": "Kavya, aged 7",
+       "who": "One child",
        "says": "She is a pet. The whole lane looks after her."
       },
       {
-       "who": "Arjun, aged 7",
+       "who": "Another child",
        "says": "She is wild. Nobody owns her, and she sleeps on the road."
       }
      ],
@@ -2070,18 +2070,18 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi's grandmother in Madurai keeps a green parakeet in a cage. The parakeet copies her voice.",
+     "p": "A grandmother keeps a green parakeet in a cage. The parakeet copies her voice. Three people say what they think.",
      "views": [
       {
        "who": "Meenakshi's grandmother",
        "says": "The parakeet is happy. She talks to me and eats well."
       },
       {
-       "who": "Meenakshi, aged 8",
+       "who": "Her granddaughter, aged 8",
        "says": "Parakeets live in big flocks and fly far. A cage is too small."
       },
       {
-       "who": "Dr Shalini, a vet",
+       "who": "A vet",
        "says": "In India it is against the law to keep wild Indian birds like parakeets. Some small parrots, such as budgies from Australia, are bred in cages as pets."
       }
      ],
@@ -2154,7 +2154,7 @@
       "The bottle sinks"
      ],
      "a": 1,
-     "why": "The fin pushes against the water when the bottle starts to roll, so it rocks and stops. A fish's back fin does the same job.",
+     "why": "The fin pushes against the water when the bottle starts to roll, so the bottle rocks and stops. A fish's back fin does the same job.",
      "how": "e2"
     },
     {
@@ -2188,20 +2188,20 @@
      "t": "write",
      "p": "A three-legged stool never rocks, even on a bumpy floor. A four-legged chair sometimes rocks. Why do you think this is?",
      "lines": 3,
-     "a": "Three legs always all touch the floor, even if it is bumpy. With four legs, if one leg is short or the floor is bumpy, one leg lifts and the chair rocks.",
-     "why": "A strong answer says that three feet can always all touch the ground. This is why old milking stools often had three legs.",
+     "a": "All three legs always touch the floor, even if the floor is bumpy. With four legs, if one leg is short or the floor is bumpy, one leg lifts and the chair rocks.",
+     "why": "A strong answer says that all three feet can always touch the ground. This is why old milking stools often had three legs.",
      "how": "e1"
     },
     {
      "t": "perspective",
-     "p": "Revathi and her friend Sana argue about legs.",
+     "p": "Two children argue about how many legs are best.",
      "views": [
       {
-       "who": "Revathi, aged 8",
+       "who": "One child",
        "says": "Four legs are best. You can stand still without falling, like a cow."
       },
       {
-       "who": "Sana, aged 8",
+       "who": "Another child",
        "says": "Two legs are best. Your hands are free to carry things, like we do."
       }
      ],
@@ -2249,7 +2249,7 @@
     },
     {
      "t": "write",
-     "p": "Guess: if the fin on the floating bottle sticks up into the air instead of down into the water, will the fin still stop the rolling? Why?",
+     "p": "In the Roll Stopper test, a fin taped under a floating bottle stopped the bottle rolling. If the fin sticks up into the air instead of down into the water, will the fin still stop the rolling? Why?",
      "lines": 3,
      "a": "No, or much less. The fin works by pushing against the water. Air is much thinner than water, so a fin in the air hardly pushes.",
      "why": "A strong answer says the fin must be in water to work, because water pushes back much harder than air. A fish is under water, so all of their fins work.",
@@ -2366,14 +2366,14 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 2, says: 'All animals with wings are birds.' Which animal shows that she is wrong?",
+     "p": "Someone says: 'All animals with wings are birds.' Which animal shows that this is wrong?",
      "opts": [
       "A crow",
       "A butterfly",
       "A peacock"
      ],
      "a": 1,
-     "why": "A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show she is wrong."
+     "why": "A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show that it is wrong."
     },
     {
      "t": "write",
@@ -2480,13 +2480,13 @@
     "Helps the fish breathe"
    ],
    "a": 1,
-   "why": "The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle. The tail fin pushes the fish forward.",
+   "why": "The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle in the Roll Stopper test. The tail fin pushes the fish forward.",
    "how": "e2",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "When you stood still with your eyes shut, what did your feet and ankles do?",
+   "p": "In the Dough Legs experiment, you stood still with your eyes shut. What did your feet and ankles do?",
    "opts": [
     "Nothing at all",
     "Kept making tiny moves to keep you up",
@@ -2758,7 +2758,7 @@
    "a": "A crow, a pigeon, a squirrel, a gecko or an ant."
   },
   {
-   "q": "How many legs did the dough animal need to stand without help?",
+   "q": "In the Dough Legs test, how many legs did the dough animal need to stand without help?",
    "a": "Three, spread out in a triangle."
   }
  ],
@@ -2837,21 +2837,21 @@
  "roots": {
   "context": "We have compared animals by their coverings, legs, wings and fins, and tested how many legs a body needs to stand. Now we ask what standing on two legs tells us about ourselves.",
   "deep_truth": {
-   "truth": "Your dough animal stood up without help on three or four legs, but fell over on two. Standing on two legs with your eyes shut, you felt your feet and ankles keep shifting. Each shift catches your body before it tips, so you do not fall. So standing on two legs is work your body keeps doing, every second you stand.",
-   "habit": "We think standing still means doing nothing. But a body on two legs is acting all the time to stay up, and the body decides each tiny shift without you having to think about it.",
-   "evidence": "In the Dough Legs test, the dough animal fell over on two legs every time, and stood on three or four. Standing with eyes shut, children feel their toes press and their ankles tighten and loosen to keep them up."
+   "truth": "In the Dough Legs test, your dough animal stood without help on three or four legs, but fell over on two. Then you stood on two legs with your eyes shut, and felt your feet and ankles keep shifting. Each shift catches your body before it tips, so you do not fall. So standing on two legs is work that your body keeps doing, every second you stand.",
+   "habit": "We think standing still means doing nothing. But a body on two legs is working all the time to stay up. Your body makes each tiny shift without you having to think about it.",
+   "evidence": "In the Dough Legs test, the dough animal fell over on two legs every time, and stood on three or four. When children stand with their eyes shut, they feel their toes press and their ankles tighten and loosen to keep them up."
   },
   "three": {
    "who_am_i": "You are an animal with hair, skin and two legs. Your body keeps you standing, second by second.",
-   "what_is_life": "A living body keeps acting to stay as it is. Standing up on two legs is one of the things your body does without stopping.",
+   "what_is_life": "A living body keeps working to stay as it is. Standing on two legs is one of the things your body does without stopping.",
    "what_is_this_world": "The world is full of bodies built in different ways: two legs or eight, feathers or fins. Each body suits the life that animal lives."
   },
-  "thread": "Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor, and your muscles answer each shift.",
+  "thread": "Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. But many of these different coverings are made of one material: your hair, a crow's feathers and a gecko's scales are all keratin. Bodies also stay up in different ways. A stool stands because of its shape. A crow and you stand by feeling each small tilt and correcting it, all the time. Your feet and ankles feel the floor, and your muscles answer each shift.",
   "teachings": [
    {
     "source": "Yoga Sutras of Patanjali 2.46 and 2.47",
-    "teaching": "A posture should be steady and comfortable. Patanjali says it becomes steady when effort is relaxed and the mind rests on the endless.",
-    "link": "In the eyes-shut stand, you were steady only because your feet and ankles kept working. Your effort could relax, because your body kept correcting below what you noticed."
+    "teaching": "Patanjali says that the way you sit or stand, your posture, should be steady and comfortable. He says it becomes steady when effort is relaxed and the mind rests on the endless.",
+    "link": "When you stood with your eyes shut in the Dough Legs experiment, you were steady only because your feet and ankles kept working. You did not have to try hard, because your body made the corrections without you noticing."
    },
    {
     "source": "Udana 6.4, the Tittha Sutta (Buddhist Pali Canon)",
@@ -2865,13 +2865,13 @@
     "status": "settled"
    },
    {
-    "text": "Many of these corrections are run by the spinal cord and brain without our attention. Whether the body feels or knows each correction in its own way is an open question.",
+    "text": "The brain and the spinal cord, the bundle of nerves inside the backbone, run many of these corrections without our attention. Nobody knows yet whether the body feels or knows each correction in its own way.",
     "status": "open"
    }
   ],
   "other_view": {
    "who": "Many neuroscientists",
-   "view": "These quick corrections are reflexes: fixed, automatic loops of nerves, with no awareness needed. In this view, awareness belongs to the brain, and only some of what the body does reaches it."
+   "view": "These quick corrections are reflexes: the nerves do them automatically, the same way every time, and you do not need to be aware of them. In this view, awareness belongs to the brain, and only some of what the body does reaches the brain."
   },
   "practice": {
    "title": "Let the Floor Hold You",
@@ -2893,5 +2893,5 @@
   "wrong_idea": "A whale is a fish, because whales live in the sea and swim with fins."
  },
  "playtest": "Walked every game, experiment, activity and worksheet as a parent and child in a flat. Fixed: Covering Snap now shares the drawing, handles wrong slaps and ties; Build-a-Beast now has three turns each so it fits 15 minutes, clear scoring, and returns used cards; fish-tank schedule now matches its 7-minute step; the project no longer asks a child if she is a pet or a farm animal; 'stuff' replaced; two quiz and worksheet questions that repeated others were changed; a name in a question is now introduced; the gecko toe line is now true to the facts. Dough Legs, Roll Stopper and ant steps, minutes, fair tests and checks agree and work with home materials. The three videos still have no checked ids.",
- "warm": {"words": ["WINGS", "SCALE", "SHELL", "BIRDS", "WHALE"], "quiz": [["Every bird has feathers, and no other animal alive today has them.", true, "Feathers are what make an animal a bird."], ["A bat is a bird because a bat has wings.", false, "Bats have fur and feed their babies milk, so bats are mammals."], ["A dolphin is a fish because it lives in water and has fins.", false, "Dolphins breathe air and feed their babies milk, so they are mammals."], ["A body stands by itself when its weight is above the space between its feet.", true, "Feet spread apart make a bigger space that holds the weight steady."], ["Wild animals live only in forests.", false, "Crows, squirrels, geckos and ants are wild and live right in our cities."], ["Scientists sort animals by many body parts together, not just one.", true, "One part can mislead, as a bat's wings do."], ["Feathers first grew so that animals could fly.", false, "Some dinosaurs had feathers millions of years before any bird flew."], ["Every adult insect has six legs.", true, "Ants, bees and flies all have six legs once they are grown."], ["Humans are mammals, because we have hair and mothers feed babies milk.", true, "Hair and milk for babies are the signs of a mammal."], ["An animal with four legs must be a mammal.", false, "Lizards and frogs have four legs but are not mammals."]], "odd": [[["Crow", "Hen", "Penguin", "Bat"], "Bat", "The others have feathers, but a bat has fur."], [["Ant", "Bee", "Housefly", "Spider"], "Spider", "The others are insects with six legs; a spider has eight."], [["Stool with three spread legs", "Table with three spread legs", "Chair with four legs", "Pencil on its tip"], "Pencil on its tip", "The others stand because their weight is above the space between their legs; the pencil has no such space."], [["Cow kept for milk", "Hen kept for eggs", "Goat kept for milk", "Crow in the city"], "Crow in the city", "The others are kept by people for milk or eggs; the crow is wild."], [["Dolphin", "Whale", "River dolphin", "Rohu fish"], "Rohu fish", "The others breathe air and feed their babies milk; a rohu breathes with gills."]]}
+ "warm": {"words": ["WINGS", "SCALE", "SHELL", "BIRDS", "WHALE"], "quiz": [["Every bird has feathers, and no other animal alive today has them.", true, "Feathers are what make an animal a bird."], ["A bat is a bird because a bat has wings.", false, "Bats have fur and feed their babies milk, so bats are mammals."], ["A dolphin is a fish because dolphins live in water and have fins.", false, "Dolphins breathe air and feed their babies milk, so they are mammals."], ["A body stands by itself when its weight is above the space between its feet.", true, "Feet spread apart make a bigger space that holds the weight steady."], ["Wild animals live only in forests.", false, "Crows, squirrels, geckos and ants are wild and live right in our cities."], ["Scientists sort animals by many body parts together, not just one.", true, "One part can fool you: a bat has wings, but a bat is not a bird."], ["Feathers first grew so that animals could fly.", false, "Some dinosaurs had feathers millions of years before any bird flew."], ["Every adult insect has six legs.", true, "Ants, bees and flies all have six legs once they are grown."], ["Humans are mammals, because we have hair and mothers feed babies milk.", true, "Hair and milk for babies are the signs of a mammal."], ["An animal with four legs must be a mammal.", false, "Lizards and frogs have four legs but are not mammals."]], "odd": [[["Crow", "Hen", "Penguin", "Bat"], "Bat", "The others have feathers, but a bat has fur."], [["Ant", "Bee", "Housefly", "Spider"], "Spider", "The others are insects with six legs; a spider has eight."], [["Stool with three spread legs", "Table with three spread legs", "Chair with four legs", "Pencil on its tip"], "Pencil on its tip", "The others stand because their weight is above the space between their legs. A pencil on its tip has no space like that."], [["Cow kept for milk", "Hen kept for eggs", "Goat kept for milk", "Crow in the city"], "Crow in the city", "The others are kept by people for milk or eggs; the crow is wild."], [["Dolphin", "Whale", "River dolphin", "Rohu fish"], "Rohu fish", "The others breathe air and feed their babies milk; a rohu breathes with gills."]]}
 }

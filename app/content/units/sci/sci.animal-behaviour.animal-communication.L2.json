@@ -76,7 +76,7 @@
    "status": "defined",
    "context": "This card says what scientists mean when they say animals communicate.",
    "definition": "Communicating is sending a signal that another being notices and acts on.",
-   "description": "Every message needs two: a sender and a receiver. The sender gives a signal. The signal can be a sound, a movement, a touch or a smell. The receiver notices the signal and does something because of it. A crow caws at a cat, and the other crows fly up. A hen clucks, and her chicks come running. Humans are animals too, and we communicate with words, faces, hands and the tune of our voice.",
+   "description": "Every message needs two beings: a sender and a receiver. The sender gives a signal. The signal can be a sound, a movement, a touch or a smell. The receiver notices the signal and does something because of it. A crow caws at a cat, and the other crows fly up. A hen clucks, and her chicks come running. Humans are animals too, and we communicate with words, faces, hands and the tune of our voice.",
    "examples": [
     "A street dog barks at a stranger, and the watchman comes to the gate.",
     "Two ants meet and touch antennae, then one turns round and follows the other's path.",
@@ -186,11 +186,11 @@
  "challenging": [
   {
    "claim": "Only male birds sing.",
-   "who": "A common idea in many old bird books, written mostly in Europe and North America, where in many kinds of birds mostly males sing.",
+   "who": "A common idea in old bird books. Most of them were written in Europe and North America, where in many kinds of birds it is mostly the males who sing.",
    "for": "In many birds near those scientists' homes, the males sang far more than the females.",
    "against": "In 2014, a team led by Karan Odom checked over a thousand kinds of songbirds around the world. In most of the kinds they could check, females sing too. In many tropical birds, a female and male even sing a duet together.",
    "status": "rejected",
-   "context": "This card is about an idea that left out half the birds."
+   "context": "This card is about the old idea that only male birds sing."
   },
   {
    "claim": "A wagging tail always means a dog is happy and friendly.",
@@ -342,7 +342,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make 12 message slips, guess, send 12 la-la messages from behind a door, then count which messages got through. If there is time, swap places and send 12 more."
+     "what": "Make 12 message slips. Guess how many the listener will get right. Send 12 la-la messages from behind a door, then count which messages got through. If there is time, swap places and send 12 more."
     }
    ],
    "record": "Fill in the results table. Then draw a tally for each message: how many times out of 3 the listener got it right. Circle the easiest message.",
@@ -401,7 +401,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. The sender picks one slip and reads it silently. 2. The sender says 'la-la' once or twice, in the way the slip says. 3. The listener says their guess. 4. Write the slip, the guess, and right or wrong. 5. Put the slip aside. 6. Do all 12 slips.",
+     "do": "1. The sender picks one slip and reads it silently. 2. The sender says 'la-la' once or twice, in a voice that fits the message on the slip. 3. The listener says their guess. 4. Write down the message on the slip, the guess, and whether the guess was right or wrong. 5. Put the slip aside. 6. Do all 12 slips.",
      "say": "Pick a slip. Don't tell me what it says. Just say 'la-la' the way the message feels. I'll guess.",
      "kid": "Pick a slip. Say only 'la-la'. Make it sound like the message.",
      "parent": "Do not give hints, and do not say whether a guess was right until all 12 are done. A hint helps the next guess and makes the test unfair. If your child says a real word by mistake, put that slip back in the bowl."
@@ -441,7 +441,7 @@
       "a": 0,
       "why": "'La-la' has no meaning, so the word could not help. The listener could not see the sender either. Only the tune changed, so the tune carried the message. If you picked luck, look at your table: with 4 messages, luck alone would give about 3 right out of 12."
      },
-     "parent": "A strong answer uses what your child saw: 'I got 9 right. The go away one was low and rough, and I got it every time.' Now read the card 'The tune carries the message'. Messages that are often mixed up, like 'happy' and 'come here', are normal. Both are friendly sounds."
+     "parent": "A strong answer uses what your child saw: 'I got 9 right. The go away one was low and rough, and I got it every time.' Now read the card 'The tune carries the message'. It is normal to mix up 'I am happy' and 'Come here!'. Both are friendly sounds."
     }
    ]
   },
@@ -525,7 +525,7 @@
      "do": "1. Stand where the pet cannot see your face. 2. Say the first word in a normal voice. 3. Watch for 15 seconds. Did the ears move? Did the head turn? 4. Write ticks or crosses. 5. Do the same for words 2, 3 and 4. 6. Then say the name, the same way.",
      "say": "Same voice every time. Now watch closely. Did the ears move? Did the head turn?",
      "kid": "Watch the ears and the head. Tick what you see.",
-     "parent": "Ears can move very quickly. Watch the ears, not just the head. If the pet walks away, stop and try another day. A pet who comes to you is giving a big answer."
+     "parent": "Ears can move very quickly. Watch the ears, not just the head. If the pet walks away, stop and try another day. If the pet comes to you, that is a strong sign that they noticed the word."
     },
     {
      "id": "s4",
@@ -559,7 +559,7 @@
        "Because pets only hear one voice"
       ],
       "a": 0,
-      "why": "If you said the name in a happy voice and the other words in a flat voice, the pet might answer the happy tune, not the name. Keeping the voice the same makes the test fair."
+      "why": "If you said the name in a happy voice and the other words in a flat voice, the pet might be reacting to the happy tune, not to the name. Keeping the voice the same makes the test fair."
      },
      "parent": "Some pets show little difference, and that is a real result too. In Saito's test, not every cat answered. Talk about what else the pet might be noticing: your footsteps, the time of day, the smell of food."
     }
@@ -1203,7 +1203,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Play music on the phone at the a low loudness. 2. Lay it on the table. 3. Your child walks away slowly, counting steps, until they cannot hear it. 4. Write the number.",
+     "do": "1. Play music on the phone at a low loudness. 2. Lay the phone on the table. 3. Your child walks away slowly, counting steps, until they cannot hear the music. 4. Write the number of steps.",
      "say": "First, the phone alone. Walk away slowly. Stop when you can't hear the music. How many steps?",
      "kid": "Walk away from the phone. Count your steps. Stop when you can't hear it.",
      "parent": "Turn off the fan and close the windows if you can. Set the music low, so your child stops hearing it within a few steps. Keep the loudness the same for every test."
@@ -1229,7 +1229,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask why the designs worked, and link back to the cricket.",
+     "do": "Ask why the designs worked, and why a cricket might want to be loud.",
      "say": "Why do you think the tumbler or cone changed the music? Why might a cricket want to be loud?",
      "kid": "Why was it louder? Why does a cricket want to be loud?",
      "check": {
@@ -1281,7 +1281,7 @@
     },
     {
      "t": "mcq",
-     "p": "A boy sees a dog give a low, rough growl over a bone. What is the dog most likely saying?",
+     "p": "A dog gives a low, rough growl over a bone. What is the dog most likely saying?",
      "opts": [
       "Come and play with me.",
       "This is my bone. Stay away.",
@@ -1365,7 +1365,7 @@
      "t": "fill",
      "p": "When a cat's voice box buzzes very fast while she breathes in and out, the sound is called a ________.",
      "a": "purr",
-     "why": "A purr is made by the voice box, more than 20 times every second, through both breaths."
+     "why": "A purr is made by the voice box, which shakes more than 20 times every second. It goes on while the cat breathes in and while she breathes out."
     },
     {
      "t": "perspective",
@@ -1384,16 +1384,16 @@
        "says": "People feed him at the gate. Maybe he is asking you for food."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. What could Meera listen or look for, to find out?",
+     "ask": "Who do you agree with? Give one reason. What could Meera listen for or look for to find out?",
      "lines": 4,
      "a": "A strong answer picks a view and gives a reason, then says what to check: is the bark low and fast, or higher with gaps? Is his tail stiff or loose? Does he stop when she walks past, or follow her to where food is?",
      "why": "A bark can mean 'stay back', 'feed me' or 'let's play'. The tune of the bark and the dog's body help to tell them apart."
     },
     {
      "t": "write",
-     "p": "Rohan, a boy aged 5, says, 'Only people can talk. Animals just make noise.' Is he right? Say one thing from this unit that helps you answer.",
+     "p": "Someone says, 'Only people can talk. Animals just make noise.' Is that right? Say one thing from this unit that helps you answer.",
      "lines": 3,
-     "a": "He is not quite right. A dog barks differently at a stranger and in play, and the watchman comes. Vervet monkeys have a different call for each danger.",
+     "a": "It is not quite right. A dog barks differently at a stranger and in play, and the watchman comes. Vervet monkeys have a different call for each danger.",
      "why": "A strong answer uses one example where an animal's sound carries a message that others act on. It may also say that humans are animals too."
     }
    ]
@@ -1546,7 +1546,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sita is doing the la-la test. She makes her 'Go away!' la-la high and squeaky. What will the listener most likely guess?",
+     "p": "In the la-la test, a sender makes the 'Go away!' la-la high and squeaky. What will the listener most likely guess?",
      "opts": [
       "Help, I'm scared!",
       "Go away!",
@@ -1723,7 +1723,7 @@
     "Her tummy rumbles after food"
    ],
    "a": 1,
-   "why": "A purr comes from the voice box, more than 20 times every second, through both breaths. That is why you can feel it.",
+   "why": "A purr comes from the voice box, which shakes more than 20 times every second, while the cat breathes in and while she breathes out. That is why you can feel it.",
    "outcome": 2
   },
   {
@@ -1917,7 +1917,7 @@
  ],
  "maths": [
   {
-   "problem": "In the story, Rohan, a boy aged 5, listened in the la-la test. He got 3 right for 'Go away!', 2 for 'Come here!', 2 for 'I am happy' and 2 for 'Help, I'm scared!'. How many did he get right in all, out of 12? How many were wrong?",
+   "problem": "In the la-la test, a listener got 3 right for 'Go away!', 2 for 'Come here!', 2 for 'I am happy' and 2 for 'Help, I'm scared!'. How many did the listener get right in all, out of 12? How many were wrong?",
    "answer": "9 right and 3 wrong.",
    "explain": "3 and 2 make 5. 5 and 2 make 7. 7 and 2 make 9. There were 12 tries, and 12 take away 9 is 3.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1926,7 +1926,7 @@
    "why_maths": "Adding up the tallies for each message shows how well the tune carried the messages."
   },
   {
-   "problem": "There were 4 kinds of message and 12 tries. If Rohan had covered his ears and only guessed, about how many would he get right? He got 9. How many times more is that?",
+   "problem": "In the la-la test there are 4 kinds of message and 12 tries. If a listener covered their ears and only guessed, about how many would they get right? One listener got 9 right. How many times as many is that?",
    "answer": "About 3 by guessing. 9 is 3 times as many as 3.",
    "explain": "A pure guess is right about 1 time in 4. 12 shared into 4 equal groups is 3. 3 and 3 and 3 make 9, so 9 is three times 3.",
    "math_unit": "math.division.sharing-and-grouping.L2",
@@ -1935,7 +1935,7 @@
    "why_maths": "Working out what luck alone would give tells us whether the result really means something."
   },
   {
-   "problem": "A cat purrs about 25 buzzes every second. How many buzzes in 4 seconds?",
+   "problem": "A cat's purr has about 25 buzzes every second. How many buzzes is that in 4 seconds?",
    "answer": "About 100 buzzes.",
    "explain": "4 groups of 25. 25 and 25 make 50. 50 and 50 make 100.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -1943,7 +1943,7 @@
    "why_maths": "Counting in equal groups shows how fast a purr is, even though we cannot count it by ear."
   },
   {
-   "problem": "In her sound dictionary, Ayesha, a girl in Class 2, heard the crow caw 14 times, the pigeon coo 6 times and the street dog bark 9 times. Put the animals in order, from most sounds to fewest. How many more caws than coos?",
+   "problem": "In a sound dictionary, the crow cawed 14 times, the pigeon cooed 6 times and the street dog barked 9 times. Put the animals in order, from most sounds to fewest. How many more caws than coos were there?",
    "answer": "Crow 14, dog 9, pigeon 6. There were 8 more caws than coos.",
    "explain": "14 is more than 9, and 9 is more than 6. Count on from 6 to 14: 7, 8, 9, 10, 11, 12, 13, 14. That is 8 more.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2111,8 +2111,8 @@
  "roots": {
   "context": "We have listened to barks, purrs and birdsong, and sent messages with only 'la-la'. Now we ask what the la-la test tells us about ourselves and other animals.",
   "deep_truth": {
-   "truth": "In your test, the listener guessed 'go away' or 'scared' from a sound with no words. Dogs, cats and people all make low, rough sounds to warn others off. High, soft sounds often mean 'I am friendly' or 'help me'. So the tune of a sound carries a message that many kinds of animals understand.",
-   "habit": "We think a message lives in its words, so animals without words have nothing to say. But in your test the word never changed, and the message still got through.",
+   "truth": "In the la-la test, the listener guessed 'go away' or 'scared' from a sound with no words. Dogs, cats and people all make low, rough sounds to warn others off. High, soft sounds often mean 'I am friendly' or 'help me'. So the tune of a sound carries a message that many kinds of animals understand.",
+   "habit": "We think a message lives in its words, so animals without words have nothing to say. But in the la-la test the word was always 'la-la', and the message still got through.",
    "evidence": "In the la-la test, the listener got far more right than guessing alone would give. In 1977 Eugene Morton found that many birds and mammals use low, rough sounds to threaten and high, clear sounds when friendly or afraid. In 2017 Piera Filippi and her team found that people can hear whether frogs, alligators, pandas and elephants are calm or excited."
   },
   "three": {

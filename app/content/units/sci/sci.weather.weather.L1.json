@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?",
-  "text": "Guess first, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.",
+  "text": "Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.",
   "art": "A child's hand touching a steel tumbler in front of a table fan, with a puzzled face, and a second tumbler on a shelf across the room."
  },
  "outcomes": [
@@ -67,7 +67,7 @@
    "status": "defined",
    "context": "This card explains why a wind feels cold, after the fan test.",
    "definition": "Wind is air moving from one place to another. When moving air passes a warm body, it carries some of the body's warmth away.",
-   "description": "Your body is warm. Your skin warms the thin layer of air touching it. In still air, that warm layer stays on you. Wind blows it away and brings new air. So you lose your warmth faster, and you feel cold. This works when the air is cooler than your skin. The steel tumbler is only as warm as the room. It has no extra warmth to lose.",
+   "description": "Your body is warm. Your skin warms the thin layer of air touching it. In still air, that warm layer stays on you. Wind blows it away and brings new air. So you lose your warmth faster, and you feel cold. This happens when the air is cooler than your skin. A steel tumbler in the same wind is only as warm as the room. It has no extra warmth to lose.",
    "examples": [
     "A fan feels cool on your skin, but it does not make the room colder.",
     "On a windy beach at Kanyakumari, you can feel cool even when the air is warm.",
@@ -95,7 +95,7 @@
    "status": "defined",
    "context": "This card is about choosing clothes, after the fan test.",
    "definition": "Clothes help our bodies in the weather: they keep off the sun, keep off the rain, keep out the wind, and keep in our warmth.",
-   "description": "Each kind of weather needs a different job from clothes. In hot sun, a cap and loose cotton clothes shade you. In rain, a raincoat or umbrella keeps the water off. In cold, a woollen sweater keeps your warmth in. But a sweater has tiny gaps, and wind blows straight through them. So on a cold, windy day, people wear a thin layer that stops wind on top.",
+   "description": "Each kind of weather needs a different job from clothes. In hot sun, a cap and loose cotton clothes shade you. In rain, a raincoat or umbrella keeps the water off. In cold, a woollen sweater keeps your warmth in. But a sweater has tiny gaps, and wind blows straight through them. So on a cold, windy day, people wear a thin layer on top that stops the wind.",
    "examples": [
     "Farmers in Kerala used the thoppikkuda, a hat made of palm leaves, shaped like a small umbrella.",
     "Khasi farmers in Meghalaya wear the knup, a rain shield of bamboo and leaves, on their head and back. It leaves both hands free to work.",
@@ -134,7 +134,7 @@
   },
   {
    "text": "Wind makes a warm body lose warmth faster, but it does not make the air itself colder.",
-   "evidence": "A thermometer in front of a fan reads the same as one in still air in the same room. Water in a wind freezes faster than water in still air at the same cold."
+   "evidence": "A thermometer in front of a fan reads the same as one in still air in the same room. Water freezes faster in wind than in still air, even when both are equally cold."
   },
   {
    "text": "Clouds are made of tiny drops of water, or of tiny bits of ice high up.",
@@ -441,7 +441,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Leave a tumbler in the fan's wind for 5 minutes. Feel it. Test each cloth with the paper strip, and feel it on your arm."
+     "what": "Leave a steel tumbler in the fan's wind for 5 minutes, then feel it. Test each cloth with the paper strip, and feel the wind on your arm behind the cloth."
     }
    ],
    "record": "Draw the fan, the cloth and the paper strip for each test. Draw the strip flying for 'a lot', and hanging down for 'still'.",
@@ -526,12 +526,12 @@
        ]
       }
      ],
-     "parent": "Most children guess the tumbler will get cold, and that the thick sweater will stop the wind. Write the guesses down. Don't say what will happen. With only a ceiling fan, stand under it. Hold each cloth flat like a roof, and hang the strip just under its middle."
+     "parent": "Most children guess the tumbler will get cold, and that the thick sweater will stop the wind. Write the guesses down. Don't say what will happen. If you only have a ceiling fan, stand under it. Hold each cloth flat like a roof, and hang the strip just under its middle."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "After five minutes, ask your child to touch the tumbler in the wind, then the tumbler far away. Then hold a hand in the wind again.",
+     "do": "After five minutes, ask your child to touch the tumbler in the wind, then the tumbler far away. Then ask your child to hold a hand in the fan's wind again.",
      "say": "Touch the tumbler from the fan. Now touch the one from far away. Is one colder? Now put your hand in the wind. How does it feel?",
      "kid": "Touch both tumblers. Is one colder? Now feel the wind on your hand.",
      "ask": [
@@ -560,7 +560,7 @@
      "id": "s4",
      "mins": 4,
      "adult": true,
-     "do": "1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Try nothing, the dupatta, the sweater, the raincoat and the newspaper, in turn.",
+     "do": "1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Test with no cloth first, then the dupatta, the sweater, the raincoat and the newspaper, one at a time.",
      "say": "Hold the strip just behind the cloth. Watch it. Does it fly, wave a little, or hang still?",
      "kid": "Hold the strip just behind the cloth. Does it fly? Or hang still?",
      "ask": [
@@ -572,19 +572,19 @@
        ]
       },
       {
-       "q": "What did it do behind the raincoat?",
+       "q": "What did the strip do behind the raincoat?",
        "good": [
         "It hung still.",
         "No wind came through."
        ]
       }
      ],
-     "parent": "Hold the cloth bigger than the strip, so wind does not curl round the edge. If the strip twitches a little behind the raincoat, that is air curling round the edges. Compare it with the sweater."
+     "parent": "The cloth must be wider than the paper strip, so wind does not curl round the edge. If the strip twitches a little behind the raincoat, that is air curling round the edges. Compare it with how much the strip moved behind the sweater."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "1. Your child puts on the sweater and holds that arm in the wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Hold the arm in the wind again.",
+     "do": "1. Your child puts on the sweater and holds one arm in the fan's wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Your child holds the same arm in the wind again.",
      "say": "Feel the wind through the sweater. Now we put the raincoat over the top. What changed? Why did wind go through the sweater but not the raincoat?",
      "kid": "Feel the wind through your sweater. Now cover it with the raincoat. What changed? Why?",
      "ask": [
@@ -782,7 +782,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Lay out the four papers. Your child picks one thing at a time, puts it on a paper, and says its job.",
+     "do": "Lay out the four papers, one for each pile: sun, rain, wind and cold. Your child picks one thing at a time, puts it on a paper, and says its job.",
      "say": "Which weather is this for? What job does it do? Does it keep off the sun, the rain or the wind, or keep warmth in?",
      "kid": "Pick a thing. Which weather is it for? What job does it do?",
      "ask": [
@@ -800,7 +800,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Hold up the sweater. Ask which pile it goes on, and what it can't do. Remind your child of the fan test if you have done it.",
-     "say": "The sweater keeps us warm. But what happened when the fan blew on it? What could we wear on top on a windy day?",
+     "say": "The sweater keeps us warm. But in the fan test, what happened when the fan blew on it? What could we wear on top on a windy day?",
      "kid": "Where does the sweater go? What can you wear on top when it is windy?",
      "ask": [
       {
@@ -845,17 +845,17 @@
     {
      "day": 2,
      "mins": 3,
-     "what": "Look out. Dress the doll. Draw today's weather picture on the chart."
+     "what": "Look out of the window. Dress the doll. Draw today's weather picture on the chart."
     },
     {
      "day": 3,
      "mins": 3,
-     "what": "Look out. Dress the doll. Draw today's weather picture."
+     "what": "Look out of the window. Dress the doll. Draw today's weather picture on the chart."
     },
     {
      "day": 4,
      "mins": 3,
-     "what": "Look out. Dress the doll. Draw today's weather picture."
+     "what": "Look out of the window. Dress the doll. Draw today's weather picture on the chart."
     },
     {
      "day": 5,
@@ -899,7 +899,7 @@
      "wait": "Come back each morning on days 2, 3 and 4.",
      "do": "Each morning, look out of the window together. Your child says the weather, dresses the doll and draws a weather picture in that day's box.",
      "say": "What is the weather this morning? What will the doll wear? Why?",
-     "kid": "Look out. What is the weather? Dress the doll. Draw the weather.",
+     "kid": "Look out of the window. What is the weather? Dress the doll. Draw the weather.",
      "parent": "If the weather is mixed, let your child draw both, like a sun behind a cloud."
     },
     {
@@ -1033,7 +1033,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the fan test? One tumbler stood in the fan's wind for five minutes. How did it feel next to the other tumbler?",
+     "p": "In the fan test, one steel tumbler stood in the fan's wind for five minutes. The other tumbler was kept far from the fan. How did the tumbler from the wind feel next to the other one?",
      "opts": [
       "Much colder",
       "The same",
@@ -1045,7 +1045,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the paper strip behind the sweater, and behind the raincoat. Show what each strip did.",
+     "p": "In the fan test, you held a paper strip behind each cloth. Draw the strip behind the sweater, and the strip behind the raincoat. Show what each strip did.",
      "a": "Behind the sweater, the strip waves or flies. Behind the raincoat, the strip hangs straight down.",
      "why": "A strong drawing shows the difference: wind came through the sweater's tiny gaps, but not through the raincoat.",
      "how": "e1",
@@ -1130,20 +1130,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Bengaluru are going up a cold, windy hill.",
+     "p": "Two friends are going up a cold, windy hill.",
      "views": [
       {
-       "who": "Divya, aged 6",
+       "who": "The first friend",
        "says": "I will wear my thickest sweater. Nothing else."
       },
       {
-       "who": "Farhan, aged 7",
+       "who": "The second friend",
        "says": "I will wear a thin sweater and a raincoat on top."
       }
      ],
      "ask": "Who will be warmer in the wind? Use what you saw in the fan test. Then say one thing the other friend got right.",
-     "a": "Farhan will be warmer in the wind, because the raincoat stops the wind. But Divya is right that a thick sweater keeps warmth in well on a still day.",
-     "why": "A strong answer uses the fan test: wind went through the sweater but not the raincoat. It is also fair to Divya: wool is good at keeping warmth in.",
+     "a": "The second friend will be warmer in the wind, because the raincoat stops the wind. But the first friend is right that a thick sweater keeps warmth in well on a still day.",
+     "why": "A strong answer uses the fan test: wind went through the sweater but not the raincoat. It is also fair to the first friend: wool is good at keeping warmth in.",
      "how": "e1"
     }
    ]
@@ -1156,10 +1156,10 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A bus is racing along in the wind. Nandini, a girl in Kolkata, sits at the window in a dry shirt. Her friend sits beside her in a wet shirt. Who feels colder?",
+     "p": "A bus is racing along in the wind. Two children sit at the window. One wears a dry shirt. The other wears a wet shirt. Who feels colder?",
      "opts": [
-      "Nandini, in the dry shirt",
-      "Her friend, in the wet shirt",
+      "The child in the dry shirt",
+      "The child in the wet shirt",
       "Both the same"
      ],
      "a": 1,
@@ -1191,7 +1191,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the torch and the white cloth? What did the cloth do to the toy's shadow?",
+     "p": "In A Cloud for the Torch, you held a thin white cloth in front of the torch. What did the cloth do to the toy's shadow?",
      "opts": [
       "Made it sharper",
       "Made it soft and pale",
@@ -1245,7 +1245,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 1, says: 'My sweater is so thick, no wind can get through it.' What would you tell Kavya? Say it to a grown-up, who writes it down.",
+     "p": "Someone says: 'My sweater is so thick, no wind can get through it.' What would you tell them? Say it to a grown-up, who writes it down.",
      "lines": 2,
      "a": "In the fan test, wind came through the thick sweater. It has tiny gaps between the wool. A thin raincoat on top would stop the wind.",
      "why": "A strong answer uses the evidence from the test, not only an opinion, and suggests what would work.",
@@ -1369,26 +1369,26 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi is going out in the hot May sun in Madurai. What should she wear?",
+   "p": "You are going out in the hot May sun. What should you wear?",
    "opts": [
     "A thick sweater",
     "A cap and loose cotton clothes",
     "A raincoat"
    ],
    "a": 1,
-   "why": "A cap shades her head, and loose cotton lets her sweat dry and cool her.",
+   "why": "A cap shades your head, and loose cotton lets your sweat dry and cool you.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "It is cold and windy on a hill. What should Anjali wear?",
+   "p": "It is cold and windy on a hill. What should you wear?",
    "opts": [
     "Only a cotton shirt",
     "A sweater with a jacket on top",
     "Only a cap"
    ],
    "a": 1,
-   "why": "The sweater keeps her warmth in. The jacket on top stops the wind blowing it away.",
+   "why": "The sweater keeps your warmth in. The jacket on top stops the wind blowing it away.",
    "outcome": 3
   },
   {
@@ -1406,10 +1406,10 @@
   },
   {
    "t": "mcq",
-   "p": "Rani guessed the sweater would stop the wind. In the test, wind came through it. What should Rani do?",
+   "p": "You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?",
    "opts": [
     "Say the test was wrong",
-    "Change her idea to fit what she saw",
+    "Change your idea to fit what you saw",
     "Never test again"
    ],
    "a": 1,
@@ -1503,7 +1503,7 @@
  ],
  "maths": [
   {
-   "problem": "Meera dressed her window doll for five mornings. 3 mornings were sunny and 2 were rainy. Were there more sunny mornings or rainy mornings? How many more?",
+   "problem": "A window doll was dressed for five mornings. 3 mornings were sunny and 2 were rainy. Were there more sunny mornings or rainy mornings? How many more?",
    "answer": "More sunny mornings. There was 1 more sunny morning than rainy mornings.",
    "explain": "3 sunny and 2 rainy. 3 is more than 2. 3 take away 2 is 1.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1512,7 +1512,7 @@
    "why_maths": "Comparing the counts shows which weather came most that week."
   },
   {
-   "problem": "In the fan test, Priya tested 5 things. The paper strip moved behind 3 of them. Behind how many did it hang still?",
+   "problem": "In the fan test, 5 things were tested. The paper strip moved behind 3 of them. Behind how many did it hang still?",
    "answer": "2 things. The strip hung still behind 2 things, the raincoat and the newspaper.",
    "explain": "5 things take away the 3 where the strip moved leaves 2.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
@@ -1716,7 +1716,7 @@
   "story": "People in cold places knew that a windy day feels far colder than a still day, even when a thermometer reads the same. Around 1940, two men tested this in Antarctica. Paul Siple was an American explorer. Charles Passel was a scientist on the same expedition. At their camp, Little America III, they filled a plastic tube with about 250 grams of water and hung it outside. They timed how long it took to freeze. They did this about a hundred times, in still air and in strong wind. In strong wind, the water froze much faster, though the thermometer read the same. In 1945 they published their results. These became the 'wind chill' numbers in weather reports. Later, scientists found that a tube of water loses warmth faster than skin does. So in 2001, new numbers were worked out from tests on real people's faces.",
   "who": "Paul Siple, an American explorer, and Charles Passel, a scientist on the same expedition to Antarctica",
   "when": "Their tests were around 1940, at Little America III in Antarctica. They published them in 1945. New wind chill numbers came in 2001.",
-  "wrong_idea": "That a thermometer alone tells how cold it is for a body. At the same thermometer reading, water froze much faster in the wind, so wind matters too.",
+  "wrong_idea": "The wrong idea was that a thermometer alone tells how cold it is for a body. At the same thermometer reading, water froze much faster in the wind, so wind matters too.",
   "art": "Two explorers in thick fur-lined coats on the snow, looking up at a small tube of water hanging from a tall pole in the wind."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and a 6-year-old in a flat would. Cut the fan test from 22 to 15 minutes by taking out the wet-hand step, so the steps, minutes, schedule, materials and safety line agree, and made the second tumbler wait in the same room so the test is fair. Moved the wet-shirt idea into a bus question, replaced a repeated sunburn question with a drawing, dropped a repeated cold-from-cold card and a repeated think question, swapped two weak jokes. The three videos still have no checked address and stay marked to find. Both games work with 2 and 4 players and every card is written out."

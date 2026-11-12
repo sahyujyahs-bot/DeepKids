@@ -56,7 +56,7 @@
    "concept": "What living things do",
    "status": "defined",
    "definition": "A living thing eats, grows, moves, breathes and has young. It also senses the world around it.",
-   "description": "One sign alone does not tell us. A car moves, but it does not grow or have baby cars. A crow does all of these things. So does a mango tree, only more slowly. Animals eat food. Plants make their own food in their green leaves, using sunlight, air and water. Living things also feel what is around them. A cat hears her name. A plant feels the light.",
+   "description": "One sign alone does not tell us that a thing is alive. A car moves, but a car does not grow or have baby cars. A crow does all of these things. So does a mango tree, only more slowly. Animals eat food. Plants make their own food in their green leaves, using sunlight, air and water. Living things also feel what is around them. A cat hears her name. A plant feels the light.",
    "examples": [
     "A crow eats, flies, breathes and lays eggs.",
     "A baby grows, drinks milk and breathes, and will one day be able to have babies.",
@@ -97,11 +97,11 @@
   {
    "concept": "Is a picked leaf still alive?",
    "status": "debated",
-   "description": "A leaf picked from a plant does not die at once. In our mint test, droopy picked mint stood up again in water. Picked mint can even grow new roots in a glass of water. But a picked leaf cannot make new seeds alone, and after some days it dries up. So people answer this question in different ways.",
+   "description": "A leaf picked from a plant does not die at once. In the Droopy Mint experiment, droopy picked mint stood up again in water. Picked mint can even grow new roots in a glass of water. But a picked leaf cannot make new seeds alone, and after some days the leaf dries up. So people answer this question in different ways.",
    "examples": [
     "Droopy picked mint stands up firm again in a cup of water.",
     "A mint sprig in water grows white roots in about one or two weeks.",
-    "A dry tej patta in water stays dry and brown inside."
+    "A dry tej patta in water stays brown and stiff."
    ],
    "perspectives": [
     {
@@ -113,7 +113,7 @@
      "explanation": "A picked leaf is a living part, not a whole living plant. The leaf cannot live on for long unless it grows roots of its own."
     }
    ],
-   "context": "This card is about the mint test, where a droopy picked mint sprig stood up again in water.",
+   "context": "This card is about the Droopy Mint experiment, where a droopy picked mint sprig stood up again in water.",
    "art": "Two glasses: one with a droopy mint sprig, one with the same sprig standing firm, and a clock between them showing one hour passing."
   },
   {
@@ -183,7 +183,7 @@
   {
    "q": "When we pick a leaf, when does the leaf stop being alive?",
    "kind": "deep",
-   "hint": "Think of the droopy mint that stood up again in water. Was it still alive?"
+   "hint": "Think of the droopy mint that stood up again in water. Was the mint still alive?"
   },
   {
    "q": "A wooden spoon was once part of a living tree. Is any of the tree still in the spoon?",
@@ -229,7 +229,7 @@
    "Kiran clapped his hands. 'Snail, you eat, you move and you breathe,' he said. 'You are alive!'",
    "Later that day, Anjali found another round shell behind the pot. This one was white and dry, and very light. She looked inside. It was empty.",
    "'Is this one alive?' Kiran asked.",
-   "Anjali turned the shell over in her hand. 'No,' she said. 'This shell was once part of a living snail. But no snail lives in the shell now. The shell is once alive, like a dry leaf.'",
+   "Anjali turned the shell over in her hand. 'No,' she said. 'This shell was once part of a living snail. But no snail lives in the shell now. The shell was once alive, like a dry leaf.'",
    "'And a stone?' asked Kiran.",
    "'A stone was never alive,' said Anjali. 'A stone never ate, and never moved, and never had babies.'",
    "Aaji nodded. 'Snails lay tiny eggs in wet soil,' she said. 'If you are lucky, there will be baby snails in the pots next month, no bigger than a grain of rice.'",
@@ -611,7 +611,7 @@
        ]
       }
      ],
-     "parent": "Paper is made mostly from wood, so a newspaper was once alive. A ceiling fan moves, but it is never alive. Let your child argue, then read the card."
+     "parent": "Paper is made mostly from wood, so a newspaper was once alive. A ceiling fan moves, but a fan was never alive. Let your child argue, then read the card."
     },
     {
      "id": "s3",
@@ -690,7 +690,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Two or three hours before, leave two mint sprigs out on a plate to go floppy. Then feel the three leaves. Guess. Put them in water. Wait one hour. Feel them again and draw what you see."
+     "what": "Two or three hours before, leave two mint sprigs out on a plate to go floppy. Feel the mint, the tej patta and the paper leaf. Guess which ones will stand up in water. Put one mint sprig, the tej patta and the paper leaf in cups of water, and leave the other mint sprig on the dry plate. Wait one hour. Feel them again and draw what you see."
     }
    ],
    "record": "Draw the three cups and the plate, before and after. Circle the ones that changed.",
@@ -720,9 +720,9 @@
      "kid": "Guess. Which will stand up in water? Why?",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Which ones will stand up in water, and why?",
        "good": [
-        "The mint will stand up, because it is still a bit alive.",
+        "The mint will stand up, because the mint is still a bit alive.",
         "The paper will go soggy, because paper soaks up water."
        ]
       }
@@ -779,7 +779,7 @@
       {
        "q": "Why did only the mint stand up?",
        "good": [
-        "Because the mint is still alive, so it can drink the water.",
+        "Because the mint is still alive, so the mint can drink the water.",
         "Because the tej patta is dry and no longer alive."
        ]
       }
@@ -874,7 +874,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw a small plant, a leaf with a tick and a stone on three paper labels and put one on each plate. 2. Put out the three plates and show your child each drawing. 3. Bring out the kitchen things one at a time.",
+     "do": "1. Make three paper labels: draw a small plant on one, a leaf with a tick on the next, and a stone on the last. Put one label on each plate. 2. Put out the three plates and show your child each drawing. 3. Bring out the kitchen things one at a time.",
      "say": "This plate is for things that are alive now. This one is for things that were once alive. This one is for things that were never alive.",
      "kid": "Look at the three plates. Alive. Once alive. Never alive."
     },
@@ -943,7 +943,7 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Ten minutes before, put a steel plate in the fridge. Breathe out on it. Hold the plate near a toy's mouth. Compare."
+     "what": "Ten minutes before, put a steel plate in the fridge. Breathe out on the plate and look for a cloudy patch. Then hold the plate near a toy's mouth and look again."
     }
    ],
    "record": "Draw the plate with your breath patch, and the plate near the toy.",
@@ -1046,7 +1046,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask where the new body comes from.",
+     "do": "Ask your child what their body grew from.",
      "say": "You grew so much. What did your body grow from?",
      "kid": "What helps you grow?",
      "ask": [
@@ -1290,14 +1290,14 @@
      "id": "s4",
      "mins": 8,
      "do": "Look at the roots together and ask the question below. If you have a pot of soil, plant one sprig.",
-     "say": "The mint was picked from the plant. Now it has new roots. Is it alive?",
+     "say": "The mint was picked from the plant. Now the mint has new roots. Is the mint alive?",
      "kid": "The mint grew roots. Is it alive?",
      "ask": [
       {
        "q": "How do you know the mint is alive?",
        "good": [
-        "Because it grew new roots.",
-        "Because it is growing, and growing is a sign of life."
+        "Because the mint grew new roots.",
+        "Because the mint is growing, and growing is a sign of life."
        ]
       }
      ]
@@ -1508,7 +1508,7 @@
     },
     {
      "t": "mcq",
-     "p": "The droopy mint stood up in water. The paper leaf did not. Why?",
+     "p": "In the Droopy Mint experiment, the droopy mint stood up in water. The paper leaf did not. Why?",
      "opts": [
       "The mint was still alive",
       "The paper leaf was too big",
@@ -1577,20 +1577,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meena and her brother Ravi look at a potted plant on their balcony in Kochi.",
+     "p": "Two children look at a potted plant on their balcony.",
      "views": [
       {
-       "who": "Ravi, aged 5",
+       "who": "The first child",
        "says": "The plant is not alive. The plant never moves."
       },
       {
-       "who": "Meena, aged 7",
+       "who": "The second child",
        "says": "The plant is alive. The plant grows new leaves."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing Ravi has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the first child has right.",
      "lines": 3,
-     "a": "A strong answer agrees with Meena, because the plant grows, makes food and breathes. Ravi is right that the plant does not walk around. But plants do move slowly, turning their leaves to the light.",
+     "a": "A strong answer agrees with the second child, because the plant grows, makes food and breathes. The first child is right that the plant does not walk around. But plants do move slowly, turning their leaves to the light.",
      "why": "Many young children think plants are not alive because plants stay in one place. Plants show the other signs of life, and they move too, only slowly."
     },
     {
@@ -1640,7 +1640,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the mint in water before and after one hour.",
+     "p": "Draw the droopy mint sprig before going into water, and the same sprig after one hour in water.",
      "a": "A droopy mint sprig in the first picture, and the same sprig standing up in the second.",
      "why": "Living mint takes in water and stands up firm. A strong drawing shows the change clearly.",
      "how": "e1",
@@ -1650,7 +1650,7 @@
      "t": "truefalse",
      "p": "A dry tej patta from the kitchen is alive.",
      "a": false,
-     "why": "False. The tej patta was once alive, on a tree. Now it is dry. In our mint test, the tej patta did not stand up in water.",
+     "why": "False. The tej patta was once alive, on a tree. Now the leaf is dry. In the Droopy Mint experiment, the tej patta did not stand up in water.",
      "how": "e1"
     },
     {
@@ -1689,20 +1689,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her grandfather in Madurai look at a wooden chair.",
+     "p": "A child and her grandfather look at a wooden chair.",
      "views": [
       {
        "who": "Grandfather",
        "says": "The chair was never alive. A chair does not eat or grow."
       },
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The child",
        "says": "The chair was once alive. The wood came from a tree."
       }
      ],
      "ask": "Who is right? Why? What does Grandfather have right?",
      "lines": 3,
-     "a": "A strong answer agrees with Lakshmi: the wood came from a living tree, so the chair was once alive. Grandfather is right that the chair does not eat or grow now.",
+     "a": "A strong answer agrees with the child: the wood came from a living tree, so the chair was once alive. Grandfather is right that the chair does not eat or grow now.",
      "why": "Once alive means the thing was part of a living thing. The chair is not alive now, but the wood was part of a tree."
     },
     {
@@ -1758,14 +1758,14 @@
       "Never alive"
      ],
      "a": 1,
-     "why": "The shell was once part of a living snail, so the shell is once alive. No snail lives in the shell now."
+     "why": "The shell was once part of a living snail, so the shell was once alive. No snail lives in the shell now."
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did we leave one droopy mint sprig on a dry plate?",
+     "p": "Say out loud, and a grown-up writes it down: in the Droopy Mint experiment, why did we leave one droopy mint sprig on a dry plate?",
      "lines": 2,
-     "a": "To see what happens without water. It stayed droopy, so the water made the other mint stand up.",
-     "why": "A strong answer sees that the dry plate sprig shows what water did. Without it, we could not be sure the water made the difference.",
+     "a": "To see what happens without water. The sprig on the plate stayed droopy, so the water made the other mint stand up.",
+     "why": "A strong answer says the sprig on the dry plate shows what happens without water. Without that sprig, we could not be sure the water made the difference.",
      "how": "e1"
     },
     {
@@ -1792,7 +1792,7 @@
     },
     {
      "t": "count",
-     "p": "Priya counted 12 tomato seeds on each of two plates. How many seeds in all?",
+     "p": "There are 12 tomato seeds on each of two plates. How many seeds in all?",
      "a": 24,
      "why": "12 and 12 make 24. Every one of those seeds could grow into a new tomato plant.",
      "how": "a4"
@@ -1900,7 +1900,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the mint test, what happened to the droopy mint in water?",
+   "p": "In the Droopy Mint experiment, what happened to the droopy mint in water?",
    "opts": [
     "The mint stood up firm again",
     "The mint went soggy like paper",
@@ -1938,7 +1938,7 @@
    "channel": "eLapse",
    "youtube": "QzIkdEeIjIA",
    "mins": 2,
-   "why": "Shows in two minutes what the mint project shows in two weeks.",
+   "why": "Shows in two minutes what the Mint Grows Roots project shows in two weeks.",
    "check": "Not yet watched by a person: watch it first."
   },
   {
@@ -1946,7 +1946,7 @@
    "channel": "András Sándor",
    "youtube": "t4RkOgcwWsg",
    "mins": 2,
-   "why": "Shows a droopy plant standing up again after water, like the mint test.",
+   "why": "Shows a droopy plant standing up again after water, like the mint in the Droopy Mint experiment.",
    "check": "Not yet watched by a person: watch it first."
   }
  ],
@@ -1954,7 +1954,7 @@
   "Doctors check if a person is breathing, to see if they need help.",
   "Farmers and gardeners keep picked greens in water or in a cool, damp cloth so they stay fresh longer.",
   "Gardeners grow new mint, money plants and roses from cut stalks.",
-  "Scientists looking for life on other planets look for signs of life, such as breathing out gases."
+  "Scientists looking for life on other planets look for signs of life, such as the gases that living things breathe out."
  ],
  "spotted": [
   {
@@ -2039,12 +2039,12 @@
  ],
  "maths": [
   {
-   "problem": "Ishita sorted her kitchen things. On the alive plate she put 2 things. On the once alive plate she put 4 things. On the never alive plate she put 3 things. Which plate had the most?",
+   "problem": "Kitchen things were sorted onto three plates. The alive plate had 2 things. The once alive plate had 4 things. The never alive plate had 3 things. Which plate had the most?",
    "answer": "The once alive plate had the most, with 4 things.",
    "explain": "2, 4 and 3. 4 is bigger than 3, and 3 is bigger than 2. So the once alive plate had the most. Many kitchen things come from plants and animals.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "a1",
-   "context": "This is about the three plates activity, where you sorted kitchen things into alive, once alive and never alive.",
+   "context": "This is about the Three Plates activity, where you sorted kitchen things into alive, once alive and never alive.",
    "chart": {
     "type": "bar",
     "title": "Things on each plate",
@@ -2071,12 +2071,12 @@
    "why_maths": "Comparing the plates shows that many kitchen things were once part of a living thing."
   },
   {
-   "problem": "From the window, Divya saw 3 crows, 2 pigeons and 1 tree. How many living things did she see?",
+   "problem": "From the window you see 3 crows, 2 pigeons and 1 tree. How many living things do you see?",
    "answer": "6 living things.",
    "explain": "3 crows and 2 pigeons make 5. Add 1 tree and you get 6. The tree counts, because trees are alive.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "a5",
-   "context": "This is about the window watch, where you made a mark for every living thing you saw.",
+   "context": "This is about the Window Watch activity, where you made a mark for every living thing you saw.",
    "why_maths": "Making a mark for each living thing and counting them shows how much life is around us, even in a city."
   },
   {
@@ -2085,7 +2085,7 @@
    "explain": "Start at 3 and count on to 7: 4, 5, 6, 7. That is 4 more roots. The mint kept growing, so the mint was alive.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "p1",
-   "context": "This is about the mint project, where a picked mint sprig in water grew new roots over two weeks.",
+   "context": "This is about the Mint Grows Roots project, where a picked mint sprig in water grew new roots over two weeks.",
    "why_maths": "Counting on from one day to the next shows the mint was still growing, and growing is a sign of life."
   }
  ],
@@ -2214,15 +2214,15 @@
   ]
  },
  "roots": {
-  "context": "We have learned how to tell what is alive, once alive and never alive. Now we ask what the droopy mint tells us about being alive.",
+  "context": "We have learned how to tell what is alive, once alive and never alive. Now we ask what the Droopy Mint experiment tells us about being alive.",
   "deep_truth": {
-   "truth": "Our mint was picked before we bought it, and the sprigs had gone droopy. In a cup of water, they stood up firm again. The dry tej patta and the paper leaf stayed as they were. So a picked sprig stays alive for days, and living does not stop the moment we pick.",
+   "truth": "In the Droopy Mint experiment, a picked mint sprig that had gone droopy stood up firm again in a cup of water. The dry tej patta and the paper leaf did not stand up. So a picked sprig stays alive for days. Life does not stop the moment we pick a leaf.",
    "habit": "We think a thing is either alive or dead, and that picking a leaf ends their life at once. The mint shows that going from alive to once alive is slow, and takes days.",
-   "evidence": "In the mint test, droopy picked mint stood up firm in water within about an hour, but the dry tej patta did not change. In the mint project, a picked sprig grew new roots in a glass of water."
+   "evidence": "In the Droopy Mint experiment, droopy picked mint stood up firm in water within about an hour, but the dry tej patta did not change. In the Mint Grows Roots project, a picked sprig grew new roots in a glass of water."
   },
   "three": {
    "who_am_i": "You are alive. You eat, grow, move and breathe every day, even while you sleep.",
-   "what_is_life": "Life is something a body keeps doing: taking in water and food, growing and making more. The picked mint kept doing it for days.",
+   "what_is_life": "Being alive is something a body keeps doing: taking in water and food, growing and having young. The picked mint kept taking in water for days.",
    "what_is_this_world": "Many things around us were once alive: the wooden spoon, the cotton shirt, the paper in your book. Living things become part of the world around them."
   },
   "thread": "The mint, the snail, the crow and you are all alive, each in their own way. All life on Earth comes from other life, going back a very long time. The wooden spoon and the paper were part of that life once. Everything is conscious, and every living thing feels and acts in their own way. The mint feels the water, and takes it in.",
@@ -2230,7 +2230,7 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "When people are born, they are soft and bendy. When they die, they are stiff and hard. Plants are soft and full of sap while they live. When they die, they are dry and brittle.",
-    "link": "We felt this in the mint test. The living mint was soft, and stood up full of water. The dry tej patta was stiff and brittle, and water could not bring it back."
+    "link": "We felt this in the Droopy Mint experiment. The living mint was soft, and stood up full of water. The dry tej patta was stiff and brittle, and water could not bring it back."
    },
    {
     "source": "Tirukkural 322",
@@ -2250,7 +2250,7 @@
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "A picked sprig is a living part of a plant, not a whole living plant. They say the sprig is alive only in the sense that its tiny parts are still living, until it grows roots of its own."
+   "view": "Some scientists say a picked sprig is a living part of a plant, not a whole living plant. They say the sprig is alive only because the tiny parts inside are still living, until the sprig grows roots of their own."
   },
   "practice": {
    "title": "Soft leaf, dry leaf",
@@ -2260,7 +2260,7 @@
   },
   "ask": [
    "If the dry tej patta sat in water for a whole day, what do you think would happen?",
-   "Which sign of life did the mint show in the glass?",
+   "In the Mint Grows Roots project, the mint sprig grew new roots in a glass of water. Which sign of life is that?",
    "What would you need to stay alive if you were the mint in the glass?"
   ],
   "art": "A child with eyes closed, holding a fresh green mint sprig in one open hand and a dry brown tej patta in the other."

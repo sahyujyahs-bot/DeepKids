@@ -204,7 +204,7 @@
    "status": "defined",
    "context": "This card is about animals who look as if they belong to one group, but really belong to another.",
    "definition": "To sort an animal into a group, check several clues, not just one: the covering, the breathing, the babies and milk.",
-   "description": "Some animals fool us if we look at only one clue. A bat flies, but has fur, and the mother feeds her baby milk, so a bat is a mammal. A river dolphin swims with fins, but breathes air and drinks milk as a baby, so she is a mammal. A turtle swims in the sea, but has dry scales and lungs, so she is a reptile. A pangolin is covered in scales, but has some hair and feeds her baby milk, so she is a mammal. A caecilian has no legs, like a snake, but has smooth damp skin, so they are an amphibian.",
+   "description": "Some animals fool us if we look at only one clue. A bat flies, but has fur, and the mother feeds her baby milk, so a bat is a mammal. A river dolphin swims with fins, but breathes air and drinks milk as a baby, so she is a mammal. A turtle swims in the sea, but has dry scales and lungs, so she is a reptile. A pangolin is covered in scales, but has some hair and feeds her baby milk, so she is a mammal. A caecilian has no legs, like a snake, but has smooth damp skin, so a caecilian is an amphibian.",
    "examples": [
     "Bat: flies, but a mammal.",
     "River dolphin: swims, but a mammal.",
@@ -231,7 +231,7 @@
     },
     {
      "who": "Scientists who draw family trees of animals",
-     "explanation": "Groups should hold relatives. Birds and crocodiles came from the same ancestors, so birds belong inside the reptile family. And 'fish' is really several groups."
+     "explanation": "A group should hold animals who are related to each other. Birds and crocodiles came from the same ancestors, so birds belong inside the reptile family. And 'fish' is really several groups."
     }
    ],
    "art": "A simple family tree with branches ending in a shark, a sardine, a frog, a lizard, a crocodile, a bird and a cow."
@@ -293,7 +293,7 @@
   {
    "q": "Your backbone is many small bones working together. Are you one thing, or many things working together?",
    "kind": "deep",
-   "hint": "Think of the straw backbone. Was it one thing or eight pieces? Can it be both?"
+   "hint": "Think of the straw backbone in the Bendy Backbone test. Was it one thing or eight pieces? Can it be both?"
   },
   {
    "q": "A pangolin has scales like a lizard, but is a mammal. Who decides which group an animal is in: nature, or people?",
@@ -445,7 +445,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Show the four chains you will test: 1, 2, 4 and 8 pieces. Ask for a guess and a reason. Write the guess down.",
+     "do": "Tell your child the four chains you will test: 1, 2, 4 and 8 pieces. Ask for a guess and a reason. Write the guess down.",
      "say": "We will cut the straw into more and more pieces. Which one will wrap round the tumbler best? Why do you think so?",
      "kid": "Guess. Which will wrap round the tumbler best? Why?",
      "ask": [
@@ -511,7 +511,7 @@
        "It has no bones at all"
       ],
       "a": 1,
-      "why": "In your test, more pieces made a rounder curve. A snake has a few hundred vertebrae, so they can coil tightly. If you chose 'no bones', remember that snakes are vertebrates: they have a backbone."
+      "why": "In the Bendy Backbone test, more pieces made a rounder curve. A snake has a few hundred vertebrae, so a snake can coil tightly. If you chose 'no bones', remember that snakes are vertebrates: they have a backbone."
      }
     }
    ]
@@ -580,7 +580,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Write the 18 names from the list in the grown-up note below, one on each card. 2. Your child adds a tiny picture to each. 3. Out of sight, put a coloured dot on the back of each card.",
-     "say": "Add a tiny picture to each card. I will put a secret colour on the back. It shows the animal's true group.",
+     "say": "Add a tiny picture to each card. I will put a coloured dot on the back, where you cannot see it. The dot shows the animal's true group.",
      "kid": "Add a tiny picture to each card. Do not look at the backs!",
      "parent": "The 18 animals: sardine, shark, seahorse, frog, toad, tree frog, house gecko, cobra, crocodile, sea turtle, crow, duck, peacock, bat, river dolphin, cow, pangolin, you. Dots: blue for sardine, shark, seahorse. Green for frog, toad, tree frog. Brown for gecko, cobra, crocodile, turtle. Red for crow, duck, peacock. Yellow for bat, river dolphin, cow, pangolin, you."
     },
@@ -894,12 +894,12 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "For each finger, help your child write the group, one clue and draw one animal. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.",
-     "say": "Which group goes on your thumb? What clue helps you know a fish? Draw one.",
+     "do": "For each finger, help your child write the group and one clue, and draw one animal. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.",
+     "say": "Which group goes on your thumb? What clue helps you know a fish? Draw a fish.",
      "kid": "Write a group on each finger. Add a clue. Draw an animal.",
      "ask": [
       {
-       "q": "Which finger are you on?",
+       "q": "Which finger is your own group on?",
        "good": [
         "The mammal finger, because I have hair and drank milk."
        ]
@@ -1082,7 +1082,7 @@
     }
    ],
    "rules": [
-    "Draw the animal quickly on the front of each card, under its name.",
+    "Draw the animal quickly on the front of each card, under the animal's name.",
     "Mix the cards and put them face down in a pile.",
     "One player is the keeper. The keeper takes the top card and reads the back secretly. The back has the clues.",
     "The others take turns to ask one question each about the animal's body. The keeper may answer only yes or no, using the clues on the back.",
@@ -1153,7 +1153,7 @@
    "title": "Odd One Out: four animals, one does not fit",
    "mins": 12,
    "players": "2 or more players",
-   "context": "This is a quick thinking game. Each card shows four animals. Three are in the same group, and one is not. Players find the odd one out and say which clue gave it away.",
+   "context": "This is a quick thinking game. Each card shows four animals. Three are in the same group, and one is not. Players find the odd one out and say which clue told them.",
    "printables": [
     {
      "kind": "cards",
@@ -1359,7 +1359,7 @@
    "context": "This is a design challenge. In the Bendy Backbone test, the chain of 8 straw pieces bent round the tumbler. But on loose wool, it flops over and cannot hold up a head. Your back can do both. Can you make a backbone that bends and also stands up?",
    "problem": "Can you make a straw backbone that wraps round a tumbler, and also stands up straight holding a one-rupee coin on top for 10 seconds?",
    "constraints": [
-    "Use the 8 straw pieces from the test, or pieces like them.",
+    "Use the 8 straw pieces from the Bendy Backbone test, or pieces like them.",
     "You may use wool, rubber bands, paper, tape and small pieces of eraser or cotton.",
     "The backbone must still bend round the tumbler afterwards."
    ],
@@ -1395,7 +1395,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Stand the loose 8-piece chain from the test up on the table and let go. Watch it flop.",
+     "do": "Stand the loose 8-piece chain from the Bendy Backbone test up on the table and let go. Watch it flop.",
      "say": "Our chain bent beautifully, but look. It cannot stand up. Your back can bend and stand. How?",
      "kid": "Your chain flops. Can you make it bend and stand up?"
     },
@@ -1558,20 +1558,20 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi sells fish at the market in Kochi. Dr Asha is a scientist who studies animals. They sort sea animals in different ways.",
+     "p": "A fish seller at a market and a scientist who studies animals sort sea animals in different ways.",
      "views": [
       {
-       "who": "Lakshmi, the fish seller",
+       "who": "The fish seller",
        "says": "I put fish, prawns and crabs in one basket, because they all come from the sea and people cook them in the same curry."
       },
       {
-       "who": "Dr Asha, the scientist",
+       "who": "The scientist",
        "says": "I sort fish apart from prawns and crabs. Fish have a backbone and gills. Prawns and crabs have no backbone."
       }
      ],
      "ask": "Which way would you use to sort a market, and which for a science book? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer sees that both ways are useful for different jobs. Lakshmi's way helps shoppers and cooks. Dr Asha's way shows which animals have the same kind of body and are related.",
+     "a": "A strong answer sees that both ways are useful for different jobs. The fish seller's way helps shoppers and cooks. The scientist's way shows which animals have the same kind of body and are related.",
      "why": "There is more than one good way to sort. The scientist's five groups are best for finding relatives. The seller's way is best for cooking and selling."
     },
     {
@@ -1665,13 +1665,13 @@
     {
      "t": "draw",
      "p": "Make up a new reptile and draw them. Show two clues that tell people your animal is a reptile.",
-     "a": "A made-up animal with dry scales, and eggs with shells laid on land, or lungs.",
+     "a": "A made-up animal that shows two reptile clues: dry scales, eggs with shells laid on land, or lungs.",
      "why": "A strong drawing shows reptile clues, like dry scales and shelled eggs, and leaves out feathers, fur and gills.",
      "art": "An empty box for drawing."
     },
     {
      "t": "perspective",
-     "p": "After the Clue Test, Ammu and her friend Divya, both aged 7, argue about the best clue.",
+     "p": "After the Clue Test, two children, Ammu and Divya, argue about the best clue.",
      "views": [
       {
        "who": "Ammu",
@@ -1767,7 +1767,7 @@
       "Invertebrates, like earthworms"
      ],
      "a": 1,
-     "why": "Smooth, damp skin with no scales is the amphibian clue. A caecilian has a backbone, so is not an invertebrate. No legs is not enough to make an animal a snake."
+     "why": "Smooth, damp skin with no scales is the amphibian clue. A caecilian has a backbone, so a caecilian is not an invertebrate. Having no legs is not enough to make an animal a snake."
     },
     {
      "t": "draw",
@@ -1936,7 +1936,7 @@
     "A prawn"
    ],
    "a": 1,
-   "why": "A crow has a backbone, so is a vertebrate. Ants and prawns have no backbone.",
+   "why": "A crow has a backbone, so a crow is a vertebrate. Ants and prawns have no backbone.",
    "outcome": 1
   },
   {
@@ -2332,7 +2332,7 @@
  "roots": {
   "context": "We have learnt that a backbone is a chain of small bones, and that every fish, amphibian, reptile, bird and mammal has one. Now we ask what the Bendy Backbone test tells us about bodies, and about ourselves.",
   "deep_truth": {
-   "truth": "You felt many separate bumps down your back. Your straw backbone hugged the tumbler only when cut into many short pieces. Each piece tilts a little, and together the tilts make a big curve. A backbone bends because it is a chain of many hard bones.",
+   "truth": "In the Find Your Own Backbone activity, you felt many separate bumps down a grown-up's back. In the Bendy Backbone test, the straw backbone hugged the tumbler only when it was cut into many short pieces. Each piece tilted a little, and together the tilts made a big curve. A backbone bends because it is a chain of many hard bones.",
    "habit": "We say 'backbone', one word, as if it were one stiff bone. In fact it is a chain of many small vertebrae, and the bending happens at the joints between them.",
    "evidence": "In the Bendy Backbone test, the whole straw stayed straight and touched the tumbler at one point, while 8 pieces wrapped round it. When a grown-up bends forward, the bumps of the vertebrae spread apart and stand out. A cooked fish's backbone lifts out as a row of tiny bones that can bend."
   },
@@ -2351,7 +2351,7 @@
    {
     "source": "Tirukkural 322",
     "teaching": "Thiruvalluvar, the Tamil poet, wrote that sharing your food and caring for the many kinds of living beings is the greatest of all teachings.",
-    "link": "Fish, frogs, lizards, birds and mammals are the many kinds of beings with a backbone, and humans are one of them. Knowing how each group lives, wet skin or dry, water or air, is a first step in caring for them."
+    "link": "Fish, frogs, lizards, birds and mammals are the many kinds of beings with a backbone, and humans are one of them. Knowing how each group lives, with wet skin or dry, in water or in air, is a first step in caring for them."
    }
   ],
   "science": [
@@ -2366,7 +2366,7 @@
   ],
   "other_view": {
    "who": "The Nyaya thinkers of ancient India",
-   "view": "The Nyaya school argued about this with Buddhist thinkers. They said a whole, like a cloth, is a real thing of its own, not only its threads. In this view, your backbone really is one thing, made of many bones."
+   "view": "The Nyaya school argued with Buddhist thinkers about whether a whole thing is only a name for its parts. The Nyaya thinkers said a whole, like a cloth, is a real thing of its own, not only its threads. In this view, your backbone really is one thing, made of many bones."
   },
   "practice": {
    "title": "Bend Like a Chain",

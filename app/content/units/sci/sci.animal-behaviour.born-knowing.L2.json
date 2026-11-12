@@ -12,8 +12,8 @@
   "art": "Two halves of one picture: on the left a newborn baby gripping a grown-up's finger, on the right the same child, now seven, wobbling on a cycle with a grown-up holding the seat."
  },
  "outcomes": [
-  "By the end I can say that some things an animal can do from birth, with no teaching, and that this is called instinct.",
-  "By the end I can say that other things an animal learns, by trying again and again or by watching others.",
+  "By the end I can say that an animal can do some things from birth, with no teaching, and that this is called instinct.",
+  "By the end I can say that an animal learns other things, by trying again and again or by watching others.",
   "By the end I can give examples of both in humans and other animals: a spider spins a web by instinct, and a child learns to talk.",
   "By the end I can say that many things are both: an animal is born ready to do them and gets better with practice.",
   "By the end I can make a guess with a reason, test whether I can stop my knee kick by trying, count my results and say what I found.",
@@ -47,7 +47,7 @@
   },
   {
    "term": "Spiderling",
-   "meaning": "A spiderling is a baby spider, just come out of the egg.",
+   "meaning": "A spiderling is a baby spider who has just come out of the egg.",
    "example": "Spiderlings come out of a silk egg bag. Each spiderling goes off alone, and spins her own web.",
    "art": "A round silk egg bag split open on a leaf, with many tiny spiderlings climbing out."
   },
@@ -100,7 +100,7 @@
    "status": "defined",
    "context": "This card is about actions that an animal is born ready for, and then gets better at with practice.",
    "definition": "Many actions start as an instinct and get better with practice. Instinct and learning work together.",
-   "description": "A chick pecks at grains on the day she hatches. Nobody teaches her, but she misses many grains at first. After a few days she hits more of them. Weaver birds are born ready to weave a nest of grass. Elsie Collias and her husband Nicholas, scientists in the United States, studied the village weaver, an African cousin of the baya. Young males weave untidy nests at first, and get better with practice. A human baby is born moving her legs in steps when she is held up. But walking takes about a year of falling and trying again. Every baby is born ready to learn a language, but the one she speaks depends on what she hears.",
+   "description": "A chick pecks at grains on the day she hatches. Nobody teaches her, but she misses many grains at first. After a few days she hits more of them. Weaver birds are born ready to weave a nest of grass. Elsie Collias and her husband Nicholas, scientists in the United States, studied the village weaver, an African cousin of the baya weaver bird. They found that young males weave untidy nests at first, and get better with practice. A newborn human baby moves her legs in steps when she is held up. But walking takes about a year of falling and trying again. Every baby is born ready to learn a language, but the one she speaks depends on what she hears.",
    "examples": [
     "A chick pecks from birth, and her aim gets better with practice.",
     "A weaver bird is born ready to weave, and young males' nests get neater with practice.",
@@ -127,7 +127,7 @@
    "concept": "Does an instinct need thinking?",
    "status": "debated",
    "context": "This card is about a real argument: when an animal acts by instinct, is the animal thinking?",
-   "description": "A spider is born knowing how to spin. But she still makes many choices. She picks a place for her web, such as a corner where flies come. She fixes holes after the wind. In 1973, two garden spiders were taken to a space station, where nothing has weight. Arabella's first web was messy. Her next webs were much more like the webs spiders spin on Earth. So she seemed to change what she did, to suit a strange new place. Scientists agree on what spiders do. They argue about what goes on inside the spider while she spins.",
+   "description": "A spider is born knowing how to spin. But she still makes many choices. She picks a place for her web, such as a corner where flies come. She fixes holes after the wind. In 1973, two garden spiders were taken to a space station, where nothing has weight. One of them, Arabella, spun a messy first web. Her next webs were much more like the webs spiders spin on Earth. So she seemed to change what she did, to suit a strange new place. Scientists agree on what spiders do. They argue about what goes on inside the spider while she spins.",
    "examples": [
     "A spider chooses the corner for her web.",
     "A spider mends a hole in her web.",
@@ -148,12 +148,12 @@
  ],
  "agreed": [
   {
-   "text": "Some actions animals can do from birth, with no teaching. Spiders spin webs, newborn calves stand, and human babies suck and grip.",
+   "text": "Animals can do some actions from birth, with no teaching. Spiders spin webs, newborn calves stand, and human babies suck and grip.",
    "evidence": "Spiderlings that hatch alone, away from any other spider, still spin the web shape of their own kind. Doctors check a newborn baby's grip and sucking on the first day."
   },
   {
    "text": "Many things are learned after birth, such as which foods are safe, where food can be found and which language to speak.",
-   "evidence": "Children speak the language they hear around them as babies, whatever language their parents' parents spoke. Crows and pigeons come to the places where people feed them every day."
+   "evidence": "Children speak the language they hear around them as babies, whatever language their grandparents spoke. Crows and pigeons come to the places where people feed them every day."
   },
   {
    "text": "Many born-with actions get better with practice.",
@@ -189,7 +189,7 @@
    "claim": "When an animal acts by instinct, the animal is not thinking.",
    "who": "Some scientists, for over a hundred years",
    "for": "An instinct can run in the same steps every time, even in an animal who has never seen the job done.",
-   "against": "Animals use their instincts with choices: a spider picks her web's place and mends holes, and Arabella changed her webs in space. Many scientists say instinct and thinking work together.",
+   "against": "Animals make choices while they use their instincts. A spider picks the place for her web and mends holes. Arabella, a spider taken to a space station, changed her webs there. Many scientists say instinct and thinking work together.",
    "status": "debated",
    "context": "This card is about a real argument among scientists."
   }
@@ -206,9 +206,9 @@
    "hint": "Where does the message from your knee go? Does it wait for you to decide?"
   },
   {
-   "q": "A chick is born pecking, but her aim gets better. Is pecking born or learned?",
+   "q": "A chick pecks from the day she hatches, but her aim gets better. Is she born knowing how to peck, or does she learn it?",
    "kind": "deep",
-   "hint": "Could it be a bit of both? Which part came with her, and which part did she work out?"
+   "hint": "Could it be a bit of both? Which part was she born with, and which part did she work out?"
   },
   {
    "q": "If you had grown up in a different family far away, which things about you would be the same, and which would be different?",
@@ -228,7 +228,7 @@
   "note": "A made-up story. The facts in it are true: newborn babies grip a finger tight, the knee kick happens by itself at every age, and many spiders that spin round webs build them at dusk and rebuild them in the same place.",
   "text": [
    "Kayal lived on the third floor of a building in Visakhapatnam. She was seven. Her little brother Sabari was five. Their grandmother, Ammamma, lived with them.",
-   "One Sunday, Pinni came to visit. Pinni was their mother's younger sister. That is what a mother's younger sister is called in Telugu. She carried a bundle wrapped in a soft cotton towel. Inside was baby Nila, only two weeks old.",
+   "One Sunday, Pinni came to visit. Pinni is the Telugu word for a mother's younger sister. She carried a bundle wrapped in a soft cotton towel. Inside was baby Nila, only two weeks old.",
    "Kayal sat very still on the sofa, and Pinni laid Nila in her lap. Nila's fingers were tiny and pink. Kayal put one finger into Nila's open hand.",
    "At once, the little fingers closed around hers. Nila held on tight. Kayal gently lifted her finger, and Nila still did not let go.",
    "'She is so strong!' said Kayal. 'Who taught her to hold on like that?'",
@@ -261,7 +261,7 @@
    "'What do you think?' asked Ammamma.",
    "'I don't know,' said Kayal. 'But I can find out.'"
   ],
-  "epiphany": "For the parent: Kayal notices two kinds of know-how side by side: the baby's grip, the spider's web and the knee kick, which nobody taught, and waving and whistling, which have to be learned. The story ends on a real question that the stop test will answer: can you stop a born-with action just by trying?",
+  "epiphany": "For the parent: Kayal notices two kinds of know-how. Nobody taught the baby's grip, the spider's web or the knee kick. Waving and whistling have to be learned. The story ends on a real question that the Stop Test experiment will answer: can you stop a born-with action just by trying?",
   "ask": [
    "What could baby Nila do that nobody had taught her?",
    "How did Ammamma know that Sabari was not born whistling?",
@@ -345,7 +345,7 @@
        "q": "Why do you think so?",
        "good": [
         "I can stop it, because it is my leg and I move it.",
-        "I cannot stop it, because the boy's leg in the story kicked by itself.",
+        "I cannot stop it, because Sabari's leg kicked by itself in the story The Grip and the Web.",
         "Pulling will make it smaller, because I will be busy."
        ]
       }
@@ -424,7 +424,7 @@
       "a": 1,
       "why": "Most children still kick on some taps, though the kick may be smaller, because the kick happens before you decide. If you picked 'never kicks', did you stop the kick, or hold your leg stiff against it?"
      },
-     "parent": "A strong answer uses the numbers: 'Relaxed, I kicked 5 times. Trying to stop, I still kicked 3 times, but small. Pulling, I kicked 5 big kicks.' Now read the card on reflexes."
+     "parent": "A strong answer uses the numbers: 'Relaxed, I kicked 5 times. Trying to stop, I still kicked 3 times, but small. Pulling, I kicked 5 big kicks.' Now read the card called 'Your born-with actions: reflexes'."
     }
    ]
   }
@@ -435,7 +435,7 @@
    "title": "Web Watch: a web that nobody taught (if you find a web)",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look for a spider web in your home or on the balcony, and look closely at the pattern. The spider spun this with no teacher.",
+   "context": "In this activity you look for a spider web in your home or on the balcony, and look closely at the pattern. The spider spun this web with no teacher.",
    "materials": [
     {
      "item": "a torch",
@@ -578,7 +578,7 @@
    "title": "Born Ready for Any Language: can you say 'zh'?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you try to say a sound from Tamil and Malayalam, the 'zh' in 'Tamizh' and 'mazhai'. You find out who you know can say it easily, and who learned it as a baby.",
+   "context": "In this activity you try to say a sound from Tamil and Malayalam, the 'zh' in 'Tamizh' and 'mazhai'. You find out which people you know can say it easily, and which of them learned it as a baby.",
    "materials": [
     {
      "item": "a family member who speaks Tamil or Malayalam, or a phone recording of these words",
@@ -614,7 +614,7 @@
      "do": "Listen to someone say 'Tamizh' (the name of the Tamil language) and 'mazhai' (rain) and 'vaazhaipazham' (banana).",
      "say": "Listen to this sound. It is in Tamil and Malayalam. 'Tamizh'. 'Mazhai'. Can you hear the 'zh'?",
      "kid": "Listen. 'Tamizh'. 'Mazhai'. Can you hear the 'zh' sound?",
-     "parent": "The sound is made by curling the tip of the tongue up and back, and letting the sound flow without touching. If nobody at home speaks Tamil or Malayalam, many free videos and dictionary apps say these words aloud."
+     "parent": "To make the sound, curl the tip of your tongue up and back, and let the sound flow without the tongue touching the roof of the mouth. If nobody at home speaks Tamil or Malayalam, many free videos and dictionary apps say these words aloud."
     },
     {
      "id": "s2",
@@ -701,7 +701,7 @@
       },
       {
        "f": "You are a turtle hatchling. A street light is brighter than the sea, and you crawl to it.",
-       "b": "Born-with know-how fooled by something new. Go back 2.",
+       "b": "Your born-with know-how was fooled by something new. Go back 2.",
        "img": {
         "src": "media/cards/born-knowing-g1-0-05.jpg",
         "credit": "Teja Yantrapalli, CC BY, via iNaturalist"
@@ -786,7 +786,7 @@
     "Mix the cards and put them face down in a pile.",
     "Take turns. Turn over the top card, read the front aloud, then read the back and move as it says. You can never go back past 'Born'.",
     "Put used cards at the bottom of the pile, so the pile never runs out.",
-    "If you land on a 'Say it!' square, tell the others one thing you learned to do, then move forward 1. This extra move does not count as landing again.",
+    "If you land on a 'Say it!' square, tell the others one thing you learned to do, then move forward 1. Your turn ends on the new square, and nothing more happens there.",
     "The first player to reach or pass 'One year old' wins. With two players, you can also play on until both reach the end."
    ],
    "flow": [
@@ -839,7 +839,7 @@
    "title": "Turtle Run: find the sea in the dark",
    "mins": 15,
    "players": "2 to 5 players",
-   "context": "This is a game about olive ridley turtle hatchlings on the beaches of Odisha and Chennai. Hatchlings are born knowing to crawl towards the brighter sky over the sea. In a dark room, a torch is the bright sky over the sea. Then a street light comes on. You play together as one clutch of hatchlings, and try to reach the sea on as many nights as you can.",
+   "context": "This is a game about olive ridley turtle hatchlings on the beaches of Odisha and Chennai. Hatchlings are born knowing to crawl towards the brighter sky over the sea. In a dark room, a torch is the bright sky over the sea. Then a street light comes on. You play together as one group of hatchlings, and try to reach the sea on as many nights as you can.",
    "setup": [
     {
      "art": "A dark room with a child crouched on a mat at one end, and at the other end a torch standing on the floor, leaning on a book and pointing at the ceiling to make a soft glow, with a grown-up beside it.",
@@ -931,14 +931,14 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about it.",
-     "say": "The hatchlings were born knowing the way. What can people do so that their born-with know-how works?",
+     "say": "The hatchlings were born knowing the way. What can people do so that the hatchlings' born-with know-how leads them to the sea?",
      "kid": "How can people help baby turtles find the sea?",
      "check": {
       "t": "mcq",
       "q": "A shop near a turtle beach puts a dark shade over the bright sign. What will the hatchlings do?",
       "options": [
        "Crawl to the shop, because it is still a light",
-       "Crawl to the sea, because the sea sky is now the brightest light",
+       "Crawl to the sea, because the sky over the sea is now the brightest light",
        "Stay in the sand for ever"
       ],
       "a": 1,
@@ -1048,7 +1048,7 @@
    "title": "Beak Weaving: weave like a baya",
    "mins": 25,
    "context": "This is a design challenge. A male baya weaver weaves a hanging nest of grass strips using only his beak and feet. Now you weave a small mat from paper strips, using only the thumb and first finger of one hand, like a beak.",
-   "problem": "Can you weave a small mat from paper strips, with one hand as a beak, that stays together when you lift it by the pencil and holds 10 chana lying on it?",
+   "problem": "Weave a small mat from paper strips, using one hand as a beak. Does the mat stay together when you lift it by the pencil? Does it hold 10 chana when it lies flat?",
    "constraints": [
     "Weave with only the thumb and first finger of one hand. Your other hand may only hold the pencil, like a branch.",
     "Use 24 paper strips, each about as wide as your finger and as long as a ruler. Twelve are for the first mat and twelve for the second.",
@@ -1148,7 +1148,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these baby animals: can do this on the first day, or needs months to learn?",
+     "p": "Sort these. Can the baby animal do this on the first day, or does she need months to learn it?",
      "cats": [
       "Ready on the first day",
       "Needs months to learn"
@@ -1185,7 +1185,7 @@
     },
     {
      "t": "draw",
-     "p": "Remember the stop test. Draw your leg three times: relaxed, trying to stop, and pulling your fingers. Show how big each kick was with an arrow.",
+     "p": "In the Stop Test, a grown-up tapped below your kneecap in three ways. Draw your leg three times: when you relaxed, when you tried not to kick, and when you pulled your hooked fingers. Draw an arrow on each leg to show how big the kick was.",
      "a": "Three legs. Usually a long arrow for relaxed, a shorter arrow or none for trying to stop, and the longest arrow for pulling.",
      "why": "A strong drawing shows a different arrow for each way, and matches the results table.",
      "how": "e1",
@@ -1193,7 +1193,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: in the stop test, could you stop your knee kick by trying? What did you see?",
+     "p": "Say your answer out loud, and a grown-up writes it down. In the Stop Test, could you stop your knee kick by trying? What did you see?",
      "lines": 2,
      "a": "Not always. When I tried hard not to kick, my leg still kicked on some taps, but smaller.",
      "why": "A strong answer uses the result from the test, with numbers if possible, and says that the kick happens before you decide.",
@@ -1273,7 +1273,7 @@
     },
     {
      "t": "count",
-     "p": "A girl does the stop test. Her knee kicked 5 times relaxed, 3 times when she tried to stop it, and 5 times when she pulled her fingers. How many kicks in all?",
+     "p": "A girl did the Stop Test. Her knee kicked 5 times when she relaxed, 3 times when she tried to stop it, and 5 times when she pulled her fingers. How many kicks is that in all?",
      "a": 13,
      "why": "5 and 3 make 8, and 5 more makes 13. Even when she tried to stop it, her leg kicked 3 times.",
      "how": "e1"
@@ -1439,7 +1439,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali's baby cousin was born in Kolkata to a Telugu-speaking family. The family speaks only Telugu at home. Which language will the baby speak first?",
+     "p": "A baby is born in Kolkata. Her family speaks only Telugu at home. Which language will the baby speak first?",
      "opts": [
       "Bengali, because she was born in Kolkata",
       "Telugu, because that is what she hears every day",
@@ -1450,7 +1450,7 @@
     },
     {
      "t": "write",
-     "p": "Arabella, a spider in a space station, spun a messy first web. Her next webs were much better. Was web spinning an instinct or learned for her? Explain.",
+     "p": "Arabella, a spider in a space station, spun a messy first web. Her next webs were much better. For her, was web spinning an instinct, or was it learned? Explain.",
      "lines": 3,
      "a": "Both. She was born knowing how to spin, so she spun a web straight away. But she did better after trying, so she also changed what she did.",
      "why": "A strong answer sees both parts: the know-how she was born with, and the way she got better in a strange place."
@@ -1464,7 +1464,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort: instinct, learned, or both?",
+     "p": "Sort each one: is it an instinct, is it learned, or is it both?",
      "cats": [
       "Instinct",
       "Learned",
@@ -1534,10 +1534,10 @@
     },
     {
      "t": "write",
-     "p": "Grace, in Shillong, says: 'An animal acting by instinct is just like a machine.' What would you say back? Use the spider to help you.",
+     "p": "Someone says: 'An animal acting by instinct is just like a machine.' What would you say back? Use the spider to help you.",
      "lines": 3,
      "a": "For example: a spider is born knowing how to spin, but she still picks where to put her web and mends holes. So she is making choices too.",
-     "why": "A strong answer uses a fact about choices the spider makes, and can also say what Grace's idea gets right: the know-how is the same in every spider of a kind."
+     "why": "A strong answer uses a fact about choices the spider makes. It can also say what the machine idea gets right: the know-how is the same in every spider of a kind."
     }
    ]
   }
@@ -1548,7 +1548,7 @@
    "channel": "BBC Earth",
    "youtube": "zNtSAQHNONo",
    "mins": 5,
-   "why": "Shows the spokes going out from the middle and the spiral laid round them, as in the Web Watch.",
+   "why": "Shows the spokes going out from the middle and the spiral laid round them, as in the Web Watch activity.",
    "check": "Found by search: \"Beautiful Spider Web Build Time-lapse | BBC Earth\" by BBC Earth, 4 min 37 s. A parent may preview it."
   },
   {
@@ -1620,7 +1620,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl in Kochi, does the stop test. Relaxed, her knee kicks 5 times. Trying to stop it, her knee still kicks 4 times. What does this show?",
+   "p": "A girl does the Stop Test. When she relaxes, her knee kicks 5 times. When she tries to stop it, her knee still kicks 4 times. What does this show?",
    "opts": [
     "She is not trying hard enough",
     "The kick happens by itself, before she decides",
@@ -1860,7 +1860,7 @@
  "buy": [],
  "warmup": [
   {
-   "q": "What is something an animal can do from birth, without being taught, called?",
+   "q": "An animal can do some things from birth, without being taught. What is this called?",
    "a": "An instinct."
   },
   {
@@ -1884,7 +1884,7 @@
    "a": "Towards the brighter sky over the sea."
   },
   {
-   "q": "Is a chick pecking born or learned?",
+   "q": "Is a chick born knowing how to peck, or does she learn it?",
    "a": "Both. She pecks from birth, and her aim gets better with practice."
   }
  ],
@@ -1957,22 +1957,22 @@
   ]
  },
  "roots": {
-  "context": "We have met animals who are born knowing and animals who learn, and tried to stop our own knee kick. Now we ask what this tells us about who is in charge of a body.",
+  "context": "We have met animals who are born knowing and animals who learn. In the Stop Test, we tried to stop our own knee kick. Now we ask what this tells us about who is in charge of a body.",
   "deep_truth": {
-   "truth": "When you tried hard not to kick, your leg often kicked anyway. Nobody ever taught you that kick, and trying could not switch it off. It was ready in your body on the day you were born. So knowing how to do something can come before any lesson.",
+   "truth": "In the Stop Test, a grown-up tapped below your kneecap while you tried hard not to kick. Your leg often kicked anyway. Nobody ever taught you that kick, and trying could not switch it off. It was ready in your body on the day you were born. So knowing how to do something can come before any lesson.",
    "habit": "We think that knowing how to do something always starts with being taught. But some know-how is ready in the body at birth, like the knee kick and a spider's web, and this know-how works without any lesson.",
    "evidence": "In the stop test, the knee often kicked even when the child tried hard not to kick, and kicked biggest when the mind was busy pulling the fingers. Spiderlings spin the web of their own kind with no teacher."
   },
   "three": {
    "who_am_i": "You are the one who decides, and you are also a body that knew how to grip, sneeze and kick before you ever decided anything.",
    "what_is_life": "Every living being starts life already knowing some things, and then keeps learning. A spider, a calf and a baby all do both.",
-   "what_is_this_world": "The world is full of know-how passed from parents to young, in every web on every balcony and every nest in every palm tree."
+   "what_is_this_world": "The world is full of know-how passed from parents to young. You can see it in a spider's web on a balcony and in a weaver bird's nest in a palm tree."
   },
   "thread": "Every spider alive today got her web know-how in her genes from her parents, who got theirs from their parents. Nobody wrote it down, and no spider taught another. It travelled inside bodies, from one life to the next, for millions of years. So one small spider on a balcony grill carries the know-how of a long line of spiders before her. Your knee kick and your grip came to you the same way, down a long line of people and the animals before them.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
-    "teaching": "Uddalaka asks his son to split a tiny banyan seed. The son sees nothing inside. Uddalaka says the whole great banyan tree grows from that nothing you cannot see.",
+    "teaching": "Uddalaka asks his son to split a tiny banyan seed. The son sees nothing inside. Uddalaka says the whole great banyan tree grows from something in the seed that is too fine to see.",
     "link": "A spiderling's know-how to spin cannot be seen inside her either. Yet the whole round web comes out of her, the first time she spins."
    },
    {
@@ -1983,7 +1983,7 @@
    {
     "source": "Plato, Meno",
     "teaching": "In this old Greek book, Socrates asks a boy who has never studied geometry a series of questions. The boy works out a hard answer. Socrates says that some knowing was already in him before any lesson.",
-    "link": "Scientists today say that born-with know-how is passed on in genes from parents, not remembered from before. But Plato also noticed that we do not start with nothing."
+    "link": "Scientists today say that born-with know-how is passed on in genes from parents. It is not remembered from before birth. But Plato also noticed that we do not start with nothing."
    }
   ],
   "science": [
@@ -2017,7 +2017,7 @@
   "story": "In 1973, astronauts lived for weeks on Skylab, a space station going round the Earth. Judith Miles, a high school student from Lexington in the United States, asked a question. Could a spider spin her web in space, where nothing has weight? On Earth, a spider uses her own weight as she drops and swings on her threads. Many people expected the web-spinning would go wrong without it. NASA sent up two garden spiders, Arabella and Anita, and the astronaut Owen Garriott watched them. At first, Arabella spun a messy, uneven web. But her next webs looked much more like the round webs that spiders spin on Earth. Anita spun a fine web too. The spiders were born knowing how to spin. Arabella's later webs show that her spinning could change a little in a strange new place.",
   "who": "Judith Miles, a high school student who suggested the test, with NASA and the astronaut Owen Garriott, who watched the spiders Arabella and Anita",
   "when": "1973, on the Skylab space station",
-  "wrong_idea": "That a spider's web-spinning is a fixed set of steps that would fail in a strange place with no weight. Arabella's first web was messy, but her next webs were much better.",
+  "wrong_idea": "People thought that a spider's web-spinning was a fixed set of steps, and that it would fail in a strange place with no weight. Arabella's first web was messy, but her next webs were much better.",
   "art": "Two garden spiders in small clear boxes floating inside a space station, one with a round web, and an astronaut looking in through the window, with a photo of a smiling girl student pinned beside the boxes."
  },
  "playtest": "Walked through the unit as a parent and child in a flat. The 20-square board is now written out square by square, with three Say-it squares, and the race rules say what happens at the start and the end. The Turtle Run game could never have a winner, because everyone crawls to the same light; it is now one shared goal, with torches a single grown-up can switch, and a shaded-sign card. The weaving challenge now has strips for two mats and a lift test, the family names and mothers assumed in steps were removed, and repeated questions and one weak joke were cut.",

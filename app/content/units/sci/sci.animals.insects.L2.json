@@ -118,8 +118,8 @@
    "concept": "Small bodies are strong for their size",
    "status": "defined",
    "context": "This card explains why an ant can carry such a big crumb. Read it after the crumb test.",
-   "definition": "A small animal can carry a much bigger load, for the size of their body, than a big animal can.",
-   "description": "Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick it is, and a body's weight depends on how much of it there is. Imagine an ant made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles, and ants can carry so much.",
+   "definition": "For the size of their body, a small animal can carry a much bigger load than a big animal can.",
+   "description": "Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick it is, and a body's weight depends on how much of it there is. Suppose an ant were made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles. That is why ants can carry so much.",
    "examples": [
     "An ant carrying a sugar grain bigger than her own head.",
     "A group of ants dragging a crumb too big for one ant.",
@@ -218,7 +218,7 @@
   {
    "q": "A bee sees colours on a flower that you cannot see. Is the colour in the flower, or in the eyes looking at the flower?",
    "kind": "big",
-   "hint": "A bee sees ultraviolet patterns on many flowers. A person sees no pattern there. Who is seeing the real flower?"
+   "hint": "A bee sees patterns on many flowers in ultraviolet, a kind of light that people cannot see. A person sees no pattern there. Who is seeing the real flower?"
   },
   {
    "q": "There are far more ants on Earth than people. Whose planet is it?",
@@ -294,7 +294,7 @@
    "context": "In this experiment you put biscuit crumbs of four sizes beside a line of ants. You watch for 20 minutes. Then you count which crumbs the ants carried away, and how they did it.",
    "question": "Which sizes of crumb can ants carry away, and which are too big?",
    "predict": "Guess first. Which crumbs will the ants carry away: the tiny ones, the rice-sized ones, the chana-sized ones, or even the big ones? Why do you think so?",
-   "fair_test": "All the crumbs come from the same biscuit, so they taste the same. There are 5 crumbs of each size, because one crumb can be luck. All 20 crumbs go in one line, with the sizes mixed up, so every size is the same distance from the ants. We count at 10 minutes and again at 20 minutes.",
+   "fair_test": "All the crumbs come from the same biscuit, so they taste the same. There are 5 crumbs of each size, because what happens to one crumb could be luck. All 20 crumbs go in one line, with the sizes mixed up, so every size is the same distance from the ants. We count at 10 minutes and again at 20 minutes.",
    "results_table": [
     "Crumb size",
     "Crumbs at the start",
@@ -426,7 +426,7 @@
     {
      "id": "s7",
      "mins": 2,
-     "do": "Ask what your child thinks, what they saw, and why.",
+     "do": "Ask your child which crumbs the ants carried away, which ones stayed, and why.",
      "say": "Which crumbs did the ants carry? Was your guess right? Did any ant carry a crumb bigger than her own head?",
      "kid": "Which crumbs went? Did an ant carry a crumb bigger than her head?",
      "ask": [
@@ -438,7 +438,7 @@
        ]
       }
      ],
-     "parent": "A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Different ants give different results, and that is fine. Now read the card on why small bodies are strong for their size."
+     "parent": "A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Different ants give different results, and that is fine. Now read the card 'Small bodies are strong for their size'."
     }
    ]
   },
@@ -448,7 +448,7 @@
    "mins": 20,
    "days": 1,
    "context": "In this experiment you give earthworms a choice between damp paper and dry paper, under a cover. After 10 minutes, you look where they went. Do this only if you can find earthworms after rain, or get them from a plant nursery that sells vermicompost.",
-   "question": "If an earthworm can choose, will they go to damp paper or dry paper?",
+   "question": "If earthworms can choose, will they go to damp paper or dry paper?",
    "predict": "Guess first. Will the worms go to the damp side, the dry side, or stay in the middle? Why do you think so?",
    "fair_test": "Both sides are the same paper and the same size. Both are covered, so both are equally dark. Only one thing is different: one side is damp. We use 3 or more worms, because one worm could go either way by chance.",
    "results_table": [
@@ -505,7 +505,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put two paper towels side by side on the tray. 2. Sprinkle water on one, until damp but not dripping. 3. Leave the other dry.",
+     "do": "1. Put two paper towels side by side on the tray. 2. Sprinkle water on one, until it is damp but not dripping. 3. Leave the other dry.",
      "say": "One side is damp and one is dry. Everything else is the same.",
      "kid": "Make one side damp. Keep the other side dry.",
      "adult": true,
@@ -530,7 +530,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Lay the worms gently across the middle line. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.",
+     "do": "1. Lay the worms gently along the middle, where the two paper towels meet. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.",
      "say": "Let's cover them, so it is dark on both sides. In ten minutes we will look.",
      "kid": "Cover the tray. Wait ten minutes. Then look.",
      "parent": "Most worms usually move to the damp side. An earthworm breathes through the skin, and the skin must stay damp to do that. If the worms stay in the middle or go to the dry side, write that down too. Worms sometimes do not move much.",
@@ -549,7 +549,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Put the worms back on damp soil, in a pot or in the garden. Wash hands.",
+     "do": "Put the worms back on damp soil, in a pot or in the garden. Wash your hands.",
      "say": "Thank you, worms. Let's put them back in the soil, where they live.",
      "kid": "Put the worms back in the soil. Wash your hands."
     }
@@ -726,7 +726,7 @@
    "title": "If I Were an Ant: draw a load my size",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you compare your body with an ant's. You draw round your child on newspaper. Then you draw a crumb next to the outline, bigger than the head, like the ant's crumb.",
+   "context": "In this activity your child compares their body with an ant's. You draw round your child on newspaper. Then you draw a crumb next to the outline, bigger than your child's head, because an ant can carry a crumb bigger than her own head.",
    "materials": [
     {
      "item": "old newspapers, taped together to be as long as your child",
@@ -745,7 +745,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw round your child on newspaper, then draw a crumb as big, for them, as the ant's crumb was for the ant."
+     "what": "Draw round your child on newspaper. Then draw a crumb bigger than your child's head, just as an ant's crumb is bigger than her head."
     }
    ],
    "record": "A photo or a small drawing of your outline and your giant crumb.",
@@ -1094,7 +1094,7 @@
     }
    ],
    "rules": [
-    "The first dancer takes a hiding card, hides the paper flower in that place, and the others close their eyes.",
+    "The other players close their eyes. The first dancer takes a hiding card and hides the paper flower in that place.",
     "The dancer stands in the middle of the room. No talking!",
     "The dancer waggles their body from side to side while walking towards the flower, then walks back to the middle. They do this three times.",
     "A short waggle walk of two or three steps means the flower is near. A long waggle walk of many steps means the flower is far.",
@@ -1375,7 +1375,7 @@
     },
     {
      "t": "draw",
-     "p": "Remember the crumb test. Draw the four sizes of crumb on the paper, and draw what the ants did with each size.",
+     "p": "In the crumb test, you put biscuit crumbs of four sizes beside a line of ants. Draw the four sizes of crumb, and draw what the ants did with each size.",
      "a": "Four sizes of crumb. Ants carrying the tiny ones, a team pulling a rice-sized one, and many ants crowded on the big ones.",
      "why": "A strong drawing shows the four sizes, and shows that the small crumbs were carried away and the big ones were not.",
      "how": "e1",
@@ -1383,7 +1383,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: an ant has six legs and a spider has eight. Say one more way a spider's body is different from an ant's.",
+     "p": "An ant has six legs and a spider has eight. Say one more way a spider's body is different from an ant's. (Say it out loud, or a grown-up can write it for you.)",
      "lines": 2,
      "a": "A spider's body has two parts, not three, and a spider has no antennae.",
      "why": "A strong answer says two body parts, or no antennae. It may also say that a spider has no wings."
@@ -1565,9 +1565,9 @@
     },
     {
      "t": "write",
-     "p": "Fatima, a girl in Hyderabad, says: 'Ants are the strongest animals in the world.' Is she right? Say what you think, and why. (Say it out loud, or a grown-up can write it for you.)",
+     "p": "Someone says: 'Ants are the strongest animals in the world.' Is that right? Say what you think, and why. (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
-     "a": "She is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. It depends on whether you compare the size of the load with the size of the animal.",
+     "a": "This is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. The answer depends on whether you compare the load with the size of the animal.",
      "why": "A strong answer says ants are strong for their size, but not the strongest in total, and explains the difference."
     },
     {
@@ -1608,7 +1608,7 @@
     },
     {
      "t": "write",
-     "p": "Imagine an ant made as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)",
+     "p": "Suppose an ant grew as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
      "a": "No. When a body gets bigger, the weight grows much faster than the strength of the muscles. A dog-sized ant would be very heavy, and would have little strength left for a load.",
      "why": "A strong answer says that weight grows faster than strength as a body gets bigger. It may use numbers: twice as big each way means about 4 times the strength but about 8 times the weight."
@@ -1626,7 +1626,7 @@
     },
     {
      "t": "write",
-     "p": "Ishaan, a boy in Class 2, did the crumb test with tiny red ants. His big crumbs stayed, but the ants ate them in little bits. His cousin Divya used big black ants, and one ant carried a rice crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)",
+     "p": "One child did the crumb test with tiny red ants. The big crumbs stayed, but the ants ate them in little bits. Another child used big black ants, and one ant carried a rice-sized crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)",
      "lines": 3,
      "a": "The ants were different kinds and sizes. A big black ant is stronger than a tiny red ant, so she can carry a bigger crumb alone. The tiny ants worked as a team or ate the crumb bit by bit.",
      "why": "A strong answer says different kinds of ants are different sizes and strengths, so a fair comparison must use the same kind of ant.",
@@ -1778,7 +1778,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera, a girl in Pune, counts eight legs on a small creature in a corner. What is the creature?",
+   "p": "You count eight legs on a small creature in a corner. What is the creature?",
    "opts": [
     "An insect",
     "A spider, or one of the spider group",
@@ -1814,7 +1814,7 @@
   },
   {
    "t": "mcq",
-   "p": "Roshni, a girl in Kolkata, sees a butterfly standing on four legs. What is true?",
+   "p": "You see a butterfly standing on four legs. What is true?",
    "opts": [
     "The butterfly has lost two legs",
     "The butterfly has six legs, but keeps two folded up",
@@ -1839,7 +1839,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why did we put all the crumbs along one line, with the sizes mixed up?",
+   "p": "In the crumb test, why did we put all 20 crumbs along one line, with the sizes mixed up?",
    "opts": [
     "So every size was the same distance from the ants",
     "So the paper looked nice",
@@ -1852,7 +1852,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why can a small ant carry a load bigger than her head, when a person cannot carry a load bigger than the person?",
+   "p": "A small ant can carry a load bigger than her own head. A person cannot carry a load bigger than their own body. Why can the ant carry so much?",
    "opts": [
     "A small body is very light for the strength of the muscles",
     "Ants eat more food than people",
@@ -2007,7 +2007,7 @@
    "why_maths": "If you know how many legs each creature has, you can work backwards from the legs to the creatures."
   },
   {
-   "problem": "In the Small Creature Diary, Kavya made these marks over five days. Ants: |||| |||| ||. Spiders: |||. Flies: ||||. Which creature did she see most often, and how many more times than spiders?",
+   "problem": "Here are the tally marks from a Small Creature Diary kept for five days. Ants: |||| |||| ||. Spiders: |||. Flies: ||||. Which creature was seen most often, and how many more times than spiders?",
    "answer": "Ants, 12 times. That is 9 more times than spiders, who were seen 3 times.",
    "explain": "Count each group of tally marks: 5 and 5 and 2 make 12 ants. Spiders have 3 marks. 12 take away 3 is 9.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2180,7 +2180,7 @@
   "context": "We have counted legs, met insects, spiders and worms, and watched ants carry crumbs. Now we ask what the crumb test tells us about size, strength and ourselves.",
   "deep_truth": {
    "truth": "An ant can carry a crumb bigger than her own head. You cannot carry a load as heavy as your own body. A small body weighs very little for the strength of its muscles. So smaller animals are usually stronger for their size.",
-   "habit": "We think of big as strong and small as weak. But strength depends on size in a surprising way: as a body grows, the weight grows faster than the strength. So a small body is not a weaker copy of a big one. Being small brings its own powers.",
+   "habit": "We think of big as strong and small as weak. But strength depends on size in a surprising way: as a body grows, the weight grows faster than the strength. So a small body is not a weaker copy of a big one. Being small has its own advantages.",
    "evidence": "In the crumb test, ants carried the tiny crumbs, and teams sometimes moved bigger ones. In 1638 Galileo worked out that when a body is made bigger, the weight grows faster than the strength."
   },
   "three": {
@@ -2188,7 +2188,7 @@
    "what_is_life": "Life comes in every size. Each size has its own strengths: an ant lifts big loads, and a person can carry a baby a long way.",
    "what_is_this_world": "The world is full of small creatures, far more of them than of us. Ants, bees, spiders and worms do huge work together, one small load at a time."
   },
-  "thread": "An ant colony carries home far more food than any one ant could. Each ant brings a crumb, and thousands of sisters together feed the whole nest. A honeybee brings home a tiny drop of nectar, and many trips make a comb of honey. Worms move a little soil each, and together they turn over whole fields. The work of one small life joins the work of millions, and the colony, the hive and the soil are what the many build together.",
+  "thread": "An ant colony carries home far more food than any one ant could. Each ant brings a crumb, and thousands of sisters together feed the whole nest. A honeybee brings home a tiny drop of nectar, and many trips make a comb of honey. Worms move a little soil each, and together they turn over whole fields. Each small creature does a little, and millions of them together feed the colony, fill the hive and turn the soil.",
   "teachings": [
    {
     "source": "Acharanga Sutra 1.2.3",
@@ -2227,9 +2227,9 @@
    "kid": "Lie on your tummy. Put your cheek near the floor. Look along the floor like an ant. What looks huge? Breathe slowly three times. Think of the ant and her crumb."
   },
   "ask": [
-   "Is a small life less strong than a big one, or strong in a different way?",
+   "Is a small animal weaker than a big one, or strong in a different way?",
    "If you were as small as an ant, what could you do that you cannot do now?",
-   "An ant carries one crumb, and the nest is fed. What do you carry that helps your family?"
+   "Each ant carries one crumb, and together the ants feed the nest. What do you do that helps your family?"
   ],
   "art": "A girl lying on her tummy on a kitchen floor with her cheek near the tiles, looking along the floor at a tiny ant carrying a crumb towards her."
  },

@@ -3,7 +3,7 @@
  "title": "Animal babies: how they grow up, and how they are cared for",
  "level": 2,
  "summary": {
-  "text": "A sparrow chick in a dark hole in the wall cannot see the parent coming. Yet the parent finds the chick's mouth every time. Young animals grow and change until they are adults, and many need care on the way: food, warmth and safety. Some babies can walk within an hour of birth, and some need years of care, like human babies. Your child makes a dark nest of paper chick mouths and tests which mouth colours a parent finds and feeds first.",
+  "text": "A sparrow chick in a dark hole in the wall cannot see the parent coming. Yet the parent finds the chick's mouth every time. Young animals grow and change until they are adults, and many need care on the way: food, warmth and safety. Some babies can walk within an hour of birth, and some need years of care, like human babies. Your child makes a dark nest of paper chick mouths and tests which mouth colours a parent finds and feeds most often.",
   "art": "A hole in a city wall with two open chick mouths inside, each with bright yellow edges, and a brown sparrow arriving with an insect in her beak."
  },
  "intro": {
@@ -131,7 +131,7 @@
    "examples": [
     "House sparrow chicks: bright yellow mouth edges, in nests inside holes.",
     "Crow chicks: a red mouth inside, in open nests of sticks.",
-    "In your dark nest test, yellow paper mouths were found more often than dark ones."
+    "In the Find the Hungry Mouth experiment, yellow paper mouths were found more often than dark ones in dim light."
    ],
    "perspectives": [
     {
@@ -173,7 +173,7 @@
    "claim": "If a person touches a baby bird, the parents will smell the person and leave the chick.",
    "who": "A very common belief, told to many children",
    "for": "It is true that people should not touch nests or chicks. Disturbing a nest can scare the parents, and the chicks can get hurt.",
-   "against": "Most small birds have a weak sense of smell. Scientists who must handle chicks, to weigh them, find that the parents come back and keep feeding them. Still, leave nests alone and watch from far away.",
+   "against": "Most small birds have a weak sense of smell. Scientists sometimes have to handle chicks to weigh them. They find that the parents come back and keep feeding the chicks. Still, leave nests alone and watch from far away.",
    "status": "rejected",
    "context": "This card is about a belief that is wrong, though the advice behind it is good."
   },
@@ -188,8 +188,8 @@
   {
    "claim": "Babies love whoever feeds them.",
    "who": "Many baby doctors and scientists, about 70 years ago",
-   "for": "Babies do feel calm and happy after a feed, with the person who fed them.",
-   "against": "Mary Ainsworth in Uganda, and Rudolph Schaffer and Peggy Emerson in Scotland, watched babies closely. Babies held on most to the people who answered them: who came when they cried, talked and played with them. That was often, but not always, the person who fed them.",
+   "for": "After a feed, babies do feel calm and happy with the person who fed them.",
+   "against": "Mary Ainsworth in Uganda, and Rudolph Schaffer and Peggy Emerson in Scotland, watched babies closely. Babies held on most to the people who answered them: the people who came when they cried, and who talked and played with them. That was often, but not always, the person who fed them.",
    "status": "rejected",
    "context": "This card is about a wrong idea about babies, and how it was tested."
   }
@@ -198,7 +198,7 @@
   {
    "q": "When a baby cries and a grown-up picks them up, who started the caring: the baby or the grown-up?",
    "kind": "deep",
-   "hint": "Think about the dark nest test. Did the paper mouths do anything to get fed? What do real chicks do?"
+   "hint": "Think about the Find the Hungry Mouth experiment. Did the paper mouths do anything to get fed? What do real chicks do?"
   },
   {
    "q": "Why does a human child need so many years of care, when a calf can walk on the first day?",
@@ -275,7 +275,7 @@
    "context": "In this experiment you make a nest of paper chick mouths in four colours. In a dim room, you play the parent bird and feed every mouth you can find. Then you count which colours got fed most.",
    "question": "In a dark nest, which colour of chick mouth does a parent find and feed most often?",
    "predict": "Guess first. In the dim nest, which colour of mouth will you feed most: yellow, orange, brown or black? Why do you think so?",
-   "fair_test": "All the mouths are the same size, and there are two of each colour. The grown-up mixes them up before every round, so no colour is always in the best place. Each round lasts the same 10 seconds. We do three rounds in dim light, because one round can be luck. Then one round in bright light, to see if the light makes a difference.",
+   "fair_test": "All the mouths are the same size, and there are two of each colour. The grown-up mixes them up before every round, so no colour is always in the best place. Each round lasts the same 10 seconds. We do three rounds in dim light, because the result of one round can be luck. Then we do one round in bright light, to see if the light makes a difference.",
    "results_table": [
     "Colour of mouth",
     "Round 1",
@@ -400,7 +400,7 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Add up the dim-light rounds for each colour. 2. Your child draws one block for each chana, to make a block graph. 3. Ask what they think, what they saw, and why.",
+     "do": "1. Add up the dim-light rounds for each colour. 2. Your child draws one block for each chana, to make a block graph. 3. Ask your child which colour got fed most, and why.",
      "say": "Which colour got fed most in the dark? Was your guess right? Why do you think that colour did best?",
      "kid": "Add up. Which colour got the most food? Why?",
      "ask": [
@@ -422,7 +422,7 @@
        "Yellow edges make the food taste better"
       ],
       "a": 1,
-      "why": "In your dim nest, yellow mouths were found and fed more than dark ones. A parent coming into a dark hole can find bright yellow edges quickly. If you picked warmth, remember that the colour only changed how easy the mouths were to see."
+      "why": "In the Find the Hungry Mouth experiment, yellow mouths were found and fed more than dark ones in dim light. A parent coming into a dark hole can find bright yellow edges quickly. If you picked warmth, remember that the colour only changed how easy the mouths were to see."
      }
     }
    ]
@@ -1055,14 +1055,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 2, counted 30 marks for care she got and 12 for care she gave. What does that show?",
+      "q": "In a Care Count, there are 30 marks for care you got and 12 marks for care you gave. What does that show?",
       "options": [
-       "Kavya never cares for anyone",
-       "Kavya gets more care than she gives, but she gives care too",
-       "Kavya's family does not care"
+       "You never care for anyone",
+       "You get more care than you give, but you give care too",
+       "Your family does not care"
       ],
       "a": 1,
-      "why": "Children need a lot of care, so they usually get more than they give. But 12 marks show that Kavya cares for others too."
+      "why": "Children need a lot of care, so they usually get more than they give. But 12 marks show that you care for others too."
      }
     }
    ]
@@ -1085,7 +1085,7 @@
     "a bottle cap to draw round",
     "glue",
     "silver foil from a chocolate or a food packet, if you have some",
-    "the dark nest from the experiment"
+    "the dark nest from the Find the Hungry Mouth experiment"
    ],
    "general": [
     "Use the brightest colour you have, like yellow or white.",
@@ -1101,8 +1101,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read the challenge. Remind your child which mouths were easiest to find in the experiment.",
-     "say": "In the dark nest, yellow mouths were found most. Can you make a mouth that is even easier to find?",
+     "do": "Read the challenge. Remind your child which mouths were easiest to find in the Find the Hungry Mouth experiment.",
+     "say": "In the Find the Hungry Mouth experiment, yellow mouths were found most in the dark nest. Can you make a mouth that is even easier to find?",
      "kid": "Make a mouth that is easy to find in the dark!"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: in dim light, black paper mouths on a dark cloth are often missed. Why?",
+     "p": "In dim light, black paper mouths on a dark cloth are often missed. Why? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "The black mouths look like the dark cloth, so they are hard to see in dim light.",
      "why": "A strong answer says the black mouths are the same colour as the cloth, and that the light is dim.",
@@ -1326,7 +1326,7 @@
      "p": "Sparrow chicks are fed in a dark hole. Crow chicks are fed in an open nest of sticks, in daylight. Which chicks need bright mouth edges more? Why?",
      "lines": 3,
      "a": "The sparrow chicks, because their nest is dark and the parent must find their mouths without much light.",
-     "why": "A strong answer uses the dark nest test: colour mattered in dim light, and hardly at all in bright light.",
+     "why": "A strong answer uses the Find the Hungry Mouth experiment: colour mattered in dim light, and hardly at all in bright light.",
      "how": "e1"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
      "t": "count",
-     "p": "In the dim nest, the yellow mouths got 2, 1 and 2 chana in three rounds. How many in all?",
+     "p": "In the Find the Hungry Mouth experiment, the yellow mouths got 2, 1 and 2 chana in the three dim rounds. How many in all?",
      "a": 5,
      "why": "2 and 1 make 3. 3 and 2 make 5.",
      "how": "e1"
@@ -1487,7 +1487,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya lays coloured paper chick mouths on a white cloth instead of a dark one. Which mouths would be hardest to find now?",
+     "p": "Coloured paper chick mouths are laid on a white cloth instead of a dark one. Which mouths would be hardest to find now?",
      "opts": [
       "Black ones",
       "Yellow ones",
@@ -1605,7 +1605,7 @@
    "channel": "kinbigbird",
    "youtube": "ekSpqX6ElmE",
    "mins": 4,
-   "why": "Shows the chicks' yellow-edged mouths opening when a parent arrives, as in Kavya's story and the dark nest test.",
+   "why": "Shows the chicks' yellow-edged mouths opening when a parent arrives, as in the story The Yellow Mouths in the Meter Box and the Find the Hungry Mouth experiment.",
    "check": "Found by search: \"House Sparrow Feeding Babies\" by kinbigbird, 3 minutes, 39 seconds. A parent may preview it."
   },
   {
@@ -1621,7 +1621,7 @@
    "channel": "Smithsonian Channel",
    "youtube": "u_IjTDYpj9o",
    "mins": 3,
-   "why": "Shows a langur female other than the mother carrying and caring for a baby, so many carers can look after one baby.",
+   "why": "Shows a langur female other than the mother carrying and caring for a baby. More than one carer can look after one baby.",
    "check": "Found by search: \"A Langur Female Steals a Baby to Practice Being a Mom\" by Smithsonian Channel, 3 minutes, 26 seconds. A parent may preview it."
   }
  ],
@@ -1652,7 +1652,7 @@
   },
   {
    "t": "mcq",
-   "p": "How does a sparrow chick look when they first hatch?",
+   "p": "What does a sparrow chick look like when they first hatch?",
    "opts": [
     "Covered in brown feathers",
     "Almost bare, with shut eyes",
@@ -1712,7 +1712,7 @@
   },
   {
    "t": "mcq",
-   "p": "In a game, paper chick mouths of different colours are laid in a dark box. A 'parent' drops chana into the ones it finds. Why should the mouths be mixed up before every round?",
+   "p": "Paper chick mouths of different colours are laid in a dark box. A player puts chana on the mouths they find. Why should the mouths be mixed up before every round?",
    "opts": [
     "So no colour is always in the best place",
     "To make the game longer",
@@ -1725,7 +1725,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the dim nest, yellow mouths got 5 chana in all and black mouths got 1. What does that show?",
+   "p": "In the Find the Hungry Mouth experiment, yellow mouths got 5 chana in all in dim light and black mouths got 1. What does that show?",
    "opts": [
     "Yellow mouths are easier to find in dim light",
     "Black mouths are hungrier",
@@ -1872,8 +1872,8 @@
    "why_maths": "To compare these times, we must think about the units (hours, weeks and months), not only the numbers."
   },
   {
-   "problem": "In the Care Count project, Rahul, a boy of six, made these marks in one day. Care he got: |||| |||| (two groups of 4). Care he gave: |||. Which column has more marks, and how many more?",
-   "answer": "'Care he got' has 8 marks and 'care he gave' has 3. Care he got has 5 more.",
+   "problem": "In a Care Count, one day's marks look like this. Care I got: |||| |||| (two groups of 4). Care I gave: |||. Which column has more marks, and how many more?",
+   "answer": "'Care I got' has 8 marks and 'Care I gave' has 3. 'Care I got' has 5 more.",
    "explain": "Count each group of tally marks: 4 and 4 make 8, and the other column has 3. 8 take away 3 is 5. Children get more care than they give, but they give some too.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "p1",
@@ -2007,9 +2007,9 @@
   ]
  },
  "roots": {
-  "context": "We have learnt how young animals grow up, how they are cared for, and how they beg to be fed. Now we ask what the dark nest test tells us about care, and about ourselves.",
+  "context": "We have learnt how young animals grow up, how they are cared for, and how they beg to be fed. Now we ask what the Find the Hungry Mouth experiment tells us about care, and about ourselves.",
   "deep_truth": {
-   "truth": "In your dim nest, yellow mouths got the most chana, and dark mouths were often missed. In bright light, every colour was found. Sparrow chicks in dark holes have bright yellow mouth edges. So a chick helps to get fed, by being easy for a parent to find.",
+   "truth": "In the Find the Hungry Mouth experiment, yellow paper mouths got the most chana in dim light, and dark mouths were often missed. In bright light, every colour was found. Sparrow chicks in dark holes have bright yellow mouth edges. So a chick helps to get fed, by being easy for a parent to find.",
    "habit": "We picture a baby as helpless, with care flowing one way, from the parent to the baby. But babies beg, call, cry, grip and show bright mouths, and the carer answers. Care is something the baby and the carer do together.",
    "evidence": "In the Find the Hungry Mouth test, yellow paper mouths were fed far more often than black ones in dim light, but not in bright light. Scientists found the same with real great tit chicks in 2003: in dim nests, parents fed yellow-painted mouths more than red-painted ones."
   },
@@ -2018,7 +2018,7 @@
    "what_is_life": "A young life grows because others feed and protect them, and because the young one asks for what they need.",
    "what_is_this_world": "The world is full of babies asking and carers answering: sparrows in walls, langurs on temples, people in every home."
   },
-  "thread": "Every animal alive today, including you, was once young. Many were fed by someone else. A sparrow chick's yellow mouth and a parent's search for it work as one: neither alone gets the food where it must go. A human baby's cry and a grandmother's arms work the same way. The many babies of the world each grow up inside a web of others who answer them.",
+  "thread": "Every animal alive today, including you, was once young. Many were fed by someone else. A sparrow chick's yellow mouth and the parent's search for that mouth work together: the food reaches the chick only when both do their part. A human baby's cry and a grandmother's arms work the same way. Every baby grows up among others who answer them.",
   "teachings": [
    {
     "source": "Mencius 2A:6",
@@ -2059,7 +2059,7 @@
   "art": "A dark hole in a wall with three yellow-edged chick mouths open, a sparrow flying in with food, and below, a grandmother holding a baby who grips her finger."
  },
  "how_we_found_out": {
-  "story": "About 70 years ago, many doctors and scientists thought babies love whoever feeds them. They said a baby holds on to the mother because she gives milk. Some even told parents not to pick up a crying baby too often. In the 1950s, a scientist called Mary Ainsworth went to villages in Uganda, near Kampala. She sat in homes and watched mothers and babies for many months. She saw babies crawl after their mothers, cry when they left and smile when they came back. Babies held on most to people who came quickly when they cried. In Glasgow, in Scotland, Rudolph Schaffer and Peggy Emerson visited 60 babies again and again through their first year. Many babies held on most to someone who played with them and answered them, even when another person did more of the feeding. So babies do not only want food. They want people who answer their signals.",
+  "story": "About 70 years ago, many doctors and scientists thought babies love whoever feeds them. They said a baby holds on to the mother because she gives milk. Some even told parents not to pick up a crying baby too often. In the 1950s, a scientist called Mary Ainsworth went to villages in Uganda, near Kampala. She sat in homes and watched mothers and babies for many months. She saw babies crawl after their mothers, cry when their mothers left and smile when they came back. Babies held on most to people who came quickly when they cried. In Glasgow, in Scotland, Rudolph Schaffer and Peggy Emerson visited 60 babies again and again through their first year. Many babies held on most to someone who played with them and answered them, even when another person did more of the feeding. So babies do not only want food. They want people who answer their signals.",
   "who": "Mary Ainsworth, a scientist from Canada and the United States, working in Uganda (1954 to 1955); Rudolph Schaffer and Peggy Emerson in Glasgow, Scotland (1964)",
   "when": "Ainsworth watched babies in Uganda in 1954 and 1955 and wrote her book in 1967. Schaffer and Emerson published their study in 1964.",
   "wrong_idea": "That babies love whoever feeds them, and that picking up a crying baby too often spoils them. Watching real babies showed that babies hold on most to the people who answer their cries and play with them.",

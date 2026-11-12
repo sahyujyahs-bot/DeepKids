@@ -30,7 +30,7 @@
   {
    "term": "Height",
    "meaning": "Your height is how tall you are, from the floor to the top of your head.",
-   "example": "Meenakshi, a girl of 7, is 120 centimetres tall. Her grandmother, Ajji, is 150 centimetres tall.",
+   "example": "A child of 7 may be 120 centimetres tall. A grandmother may be 150 centimetres tall.",
    "art": "A girl standing straight against a wall, with an arrow from the floor to the top of her head."
   },
   {
@@ -98,7 +98,7 @@
   {
    "concept": "Why you are taller in the morning",
    "status": "defined",
-   "context": "This card is about the bedtime and morning height test, where you marked your height twice.",
+   "context": "This card is about the Bedtime Tall, Morning Tall experiment, where you marked your height at bedtime and again in the morning.",
    "definition": "Most people are a little taller in the morning, because the soft discs in their backbone are squashed during the day and fill up again during sleep.",
    "description": "Your backbone is a stack of small bones with a soft disc between each pair. The discs hold water, a bit like a wet sponge. When you stand and walk, your weight squashes the discs and presses some water out, so they get thinner. At night you lie flat and the weight is off, so the discs soak water back up. That is why you are a little taller when you wake up. Children lose about half a centimetre to one and a half centimetres in a day, mostly in the first few hours after getting up.",
    "examples": [
@@ -195,14 +195,14 @@
  ],
  "big_questions": [
   {
-   "q": "Almost every part of your body has grown and changed since you were a baby. So what is it that stays you?",
+   "q": "Almost every part of your body has grown and changed since you were a baby. So what makes you still you?",
    "kind": "big",
    "hint": "Your size changed, your teeth changed and your hair changed. Your name and your memories stayed. Is that what makes you you?"
   },
   {
    "q": "If your height is different in the morning and at night, what is your real height?",
    "kind": "deep",
-   "hint": "Think about the bedtime and morning test. Is one of the marks wrong? Or are both true?"
+   "hint": "In the Bedtime Tall, Morning Tall experiment, your morning mark was higher than your bedtime mark. Is one of the marks wrong? Or are both true?"
   },
   {
    "q": "You did not see yourself grow even one day. How do you know you grew at all?",
@@ -409,14 +409,14 @@
      "parent": "A strong answer uses the lines: 'My red line was 6 millimetres higher than my blue line.' Now read the card on why you are taller in the morning.",
      "check": {
       "t": "mcq",
-      "q": "Meenakshi, a girl of 7, was measured at bedtime and again in the morning. What usually happens?",
+      "q": "You are measured at bedtime and again the next morning. What usually happens?",
       "options": [
-       "She is a little taller in the morning",
-       "She is a little taller at bedtime",
-       "She is always exactly the same"
+       "You are a little taller in the morning",
+       "You are a little taller at bedtime",
+       "You are always exactly the same"
       ],
       "a": 0,
-      "why": "At night she lies flat, and the soft discs in her backbone fill up again. So she is a little taller in the morning. If you picked bedtime, look at your own blue and red lines again."
+      "why": "At night you lie flat, and the soft discs in your backbone fill up again. So you are a little taller in the morning. If you picked bedtime, look at your own blue and red lines again."
      }
     }
    ]
@@ -534,7 +534,7 @@
      "kid": "Was your guess right? Are your two strings close?",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl of 9, measured her family. What did she most likely find?",
+      "q": "You measure the arm span and the height of everyone in a family. What will you most likely find?",
       "options": [
        "Arm span and height are close for most people",
        "Arm span is always twice the height",
@@ -600,8 +600,8 @@
       {
        "q": "Which part of you grew the most?",
        "good": [
-        "My arms, the sleeves are short.",
-        "My legs, the frock is too short now.",
+        "My arms. The sleeves are short.",
+        "My legs. The frock is too short now.",
         "My feet stick out of the chappals."
        ]
       }
@@ -616,7 +616,7 @@
      "kid": "You did not see yourself grow. How did the clothes show it?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl of 7, finds her old frock from when she was 4. The sleeves stop above her wrists. What does this show?",
+      "q": "A girl of 7 tries on a frock she wore when she was 4. The sleeves stop above her wrists. What does this show?",
       "options": [
        "Her arms have grown longer",
        "The frock has shrunk in the wash",
@@ -652,7 +652,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw round everyone's foot, cut out, order by size, then by age, and compare."
+     "what": "Draw round everyone's foot and cut the outlines out. Put them in order by size, then by age, and compare the two orders."
     }
    ],
    "record": "Glue or tape the feet in a row on the floor or in your notebook, with names and ages.",
@@ -677,7 +677,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Your child puts the feet in a row from smallest to biggest. Then measures each with the ruler.",
+     "do": "Your child puts the feet in a row from smallest to biggest. Then your child measures each one with the ruler.",
      "say": "Put the feet in a row, from the smallest to the biggest. How long is each one?",
      "kid": "Line up the feet, smallest to biggest. Measure each one."
     },
@@ -705,7 +705,7 @@
    "title": "As Heavy as a Newborn: the atta packet baby",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hold a bag as heavy as a newborn baby. Then you think about how much heavier you are now.",
+   "context": "In this activity you hold a bundle as heavy as a newborn baby. Then you think about how much heavier you are now.",
    "materials": [
     {
      "item": "three 1-kilogram packets of atta, rice, salt or sugar, or a kitchen scale and a bag of potatoes",
@@ -750,8 +750,8 @@
      "id": "s2",
      "mins": 4,
      "do": "If you have a bathroom scale, weigh your child. If not, ask how many packets they think they weigh.",
-     "say": "How many packets heavy do you think you are now? Let's check.",
-     "kid": "How many packets heavy are you now? Guess, then check.",
+     "say": "How many packets do you think you weigh now? Let's check.",
+     "kid": "How many packets do you weigh now? Guess, then check.",
      "parent": "Many 7-year-olds weigh about 18 to 25 kilograms, so about 6 to 8 times their birth weight. Every child is different. Do not compare children's weights in a way that hurts."
     },
     {
@@ -818,15 +818,15 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Cut a string as long as your child's birth length. Then lay it next to your child, lying down.",
+     "do": "Cut a string as long as your child's birth length. Then ask your child to lie down, and lay the string next to them.",
      "say": "This string is as long as you were when you were born. Lie down next to it.",
      "kid": "Lie down next to the string. That is how long you were."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Lay the birth-length string along the floor, end to end, beside your child lying down. Count how many strings make the whole child.",
-     "say": "How many baby-you strings would make you now?",
+     "do": "Your child stays lying down. Move the birth-length string along the floor beside them, end to end, from feet to head. Count how many string lengths it takes.",
+     "say": "How many of these baby strings does it take to make you now?",
      "kid": "How many baby strings make you now?",
      "ask": [
       {
@@ -883,7 +883,7 @@
        "b": "Taller. Many girls have their growth spurt around this age."
       },
       {
-       "f": "A boy of 20, and the same boy at 25. Taller, shorter or the same at 25?",
+       "f": "A man of 20, and the same man at 25. Taller, shorter or the same at 25?",
        "b": "The same. Most men stop getting taller at about 17 or 18."
       },
       {
@@ -1019,7 +1019,7 @@
       "Growth spurt! Many teenagers grow very fast for a year or two. Move 3 squares.",
       "Children lose their first milk tooth at about 6 or 7 years. Move 1 square.",
       "A whole year of slow, steady growing: about 6 centimetres. Move 1 square.",
-      "You stood and played all day. The discs in your backbone squashed a little. Move back 1 square.",
+      "You stood and played all day. The discs in your backbone were squashed a little. Move back 1 square.",
       "You slept all night. The discs in your backbone filled up again. Move 1 square.",
       "You grew out of your school uniform. Move 1 square.",
       "You drank milk and ate ragi. Your body built new bone and muscle. Move 1 square.",
@@ -1117,7 +1117,7 @@
      "what": "Measure for the third time. Measure how much you grew in two months, and guess how much you will grow in a year."
     }
    ],
-   "record": "The chart with three dated lines, and a small table of the three heights.",
+   "record": "Keep the chart with its three dated lines, and write the three heights in a small table.",
    "setup": [
     {
      "art": "A long strip of chart paper taped upright on a bedroom wall.",
@@ -1132,12 +1132,12 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Tape the strip so it does not move. 2. In the morning, measure your child the same way as in the bedtime test. 3. Draw a line and write the date and the time.",
+     "do": "1. Tape the strip so it does not move. 2. In the morning, measure your child the same way as in the Bedtime Tall, Morning Tall experiment: barefoot, against the wall, with a flat book on the head. 3. Draw a line and write the date and the time.",
      "say": "We will measure you once a month, always in the morning. Why do we always choose the morning?",
      "kid": "Stand straight. Draw your line. Write the date.",
      "ask": [
       {
-       "q": "Why the morning?",
+       "q": "Why do we always measure in the morning?",
        "good": [
         "Because I am taller in the morning, so it must be the same time each month."
        ]
@@ -1217,9 +1217,9 @@
      "kid": "Were your answers the same? What can you change?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl of 7, measured her doll three times and got 30, 34 and 31 centimetres. What should she do?",
+      "q": "You measure a doll three times and get 30, 34 and 31 centimetres. What should you do?",
       "options": [
-       "Find out what changed, and make her way of measuring the same each time",
+       "Find out what changed, and make your way of measuring the same each time",
        "Pick the biggest number",
        "Stop measuring"
       ],
@@ -1292,7 +1292,7 @@
     },
     {
      "t": "draw",
-     "p": "Remember the bedtime and morning test. Draw the paper strip with your blue bedtime line and your red morning line.",
+     "p": "In the Bedtime Tall, Morning Tall experiment, you marked your height in blue at bedtime and in red in the morning. Draw the paper strip with both lines.",
      "a": "A strip with a red line a little above the blue line, with names.",
      "why": "A strong drawing shows the red morning line a little higher than the blue bedtime line, and says whose lines they are.",
      "how": "e1",
@@ -1300,7 +1300,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why were you a little taller in the morning?",
+     "p": "Why were you a little taller in the morning? Say your answer aloud. A grown-up can write it down.",
      "lines": 2,
      "a": "At night I lay down, and the soft discs in my backbone filled up again.",
      "why": "A strong answer names the backbone or the discs, and says that lying down takes the weight off them.",
@@ -1314,7 +1314,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy of 7, wants to see if he has grown since last month. When should he measure himself?",
+     "p": "You want to see if you have grown since last month. When should you measure yourself?",
      "opts": [
       "At the same time of day as last month",
       "Any time at all",
@@ -1349,7 +1349,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Bones and muscles are built from food. Deep sleep sends out the body's growing message. Long illness and hunger slow growing down."
+     "why": "Bones and muscles are built from food. In deep sleep the body makes more growth hormone, which tells bones to grow. Long illness and hunger slow growing down."
     },
     {
      "t": "label",
@@ -1388,9 +1388,9 @@
    "items": [
     {
      "t": "write",
-     "p": "Meenakshi, a girl of 7, drew round the feet of everyone at home. Her grandmother's foot was smaller than her mother's, though her grandmother is older. Why might that be? A grown-up can write down what you say.",
+     "p": "A child drew round the feet of everyone at home. The grandmother's foot was smaller than the mother's, though the grandmother is older. Why might that be? A grown-up can write down what you say.",
      "lines": 3,
-     "a": "Grown-ups stop growing. Ajji's feet stopped growing long ago, and people's adult sizes are all different.",
+     "a": "Grown-ups stop growing. The grandmother's feet stopped growing long ago, and grown-ups' sizes are all different.",
      "why": "A strong answer says that adults have stopped growing, so age does not set foot size after the teens.",
      "how": "a2"
     },
@@ -1408,7 +1408,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, aged 9, and her family are talking about the bedtime and morning test.",
+     "p": "Kavya, Amma and Ajji did the Bedtime Tall, Morning Tall experiment. Everyone was a little taller in the morning. Now they are talking about which height is the real one.",
      "views": [
       {
        "who": "Kavya",
@@ -1426,7 +1426,7 @@
      "ask": "Who do you agree with? Give one reason. Then say one thing another person has right. A grown-up can write down what you say.",
      "lines": 4,
      "a": "A strong answer picks one view and gives a reason. Kavya is right that the morning is the most stretched height. Amma is right that we spend most of the day shorter. Ajji is right that both are measurements of real heights.",
-     "why": "There is no single true height. A fair answer uses the test and says why writing the time matters."
+     "why": "There is no single true height. A fair answer uses the Bedtime Tall, Morning Tall experiment and says why writing the time matters."
     },
     {
      "t": "order",
@@ -1443,7 +1443,7 @@
       "a girl of 7",
       "a woman of 30"
      ],
-     "why": "Newborn about 50 centimetres, toddler about 85, girl of 7 about 120, woman about 150 to 160."
+     "why": "A newborn is about 50 centimetres, a toddler about 85, a girl of 7 about 120, and a woman about 150 to 160."
     },
     {
      "t": "odd",
@@ -1478,14 +1478,14 @@
     },
     {
      "t": "write",
-     "p": "Arjun, Meenakshi's brother, is a boy of 3. He wants to be measured on tiptoes. Why is that not fair? A grown-up can write down what you say.",
+     "p": "A boy of 3 wants to be measured standing on tiptoes. Why is that not fair? A grown-up can write down what you say.",
      "lines": 2,
      "a": "Tiptoes make him look taller than he is. Every measurement must be done the same way, heels down.",
      "why": "A strong answer says the method must be the same each time, so only real growing shows."
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl of 7, grows 5 millimetres in a month. Why can she not see herself growing?",
+     "p": "A girl of 7 grows 5 millimetres in a month. Why can she not see herself growing?",
      "opts": [
       "It is far too slow to notice",
       "She is not growing at all",
@@ -1504,10 +1504,10 @@
    "items": [
     {
      "t": "write",
-     "p": "A doctor measures Priya, a girl of 8, at 9 in the morning. Next month a different doctor measures her at 6 in the evening. She seems to have grown nothing. Has she really stopped growing? Explain. A grown-up can write down what you say.",
+     "p": "A doctor measures a girl of 8 at 9 in the morning. Next month a different doctor measures her at 6 in the evening. She seems to have grown nothing. Has she really stopped growing? Explain. A grown-up can write down what you say.",
      "lines": 4,
      "a": "Maybe not. She was measured in the evening, when people are a little shorter. Her growth may be hidden by the time of day.",
-     "why": "A strong answer uses the bedtime and morning test: evening height is lower, so the two times are not fair to compare.",
+     "why": "A strong answer uses the Bedtime Tall, Morning Tall experiment: people are a little shorter in the evening, so a morning height and an evening height are not fair to compare.",
      "how": "e1"
     },
     {
@@ -1548,9 +1548,9 @@
     },
     {
      "t": "write",
-     "p": "Meenakshi, a girl of 7, grew 6 centimetres last year. Her mother grew nothing. Both ate the same food. Why the difference? A grown-up can write down what you say.",
+     "p": "A girl of 7 grew 6 centimetres last year. Her mother grew nothing. Both ate the same food. Why the difference? A grown-up can write down what you say.",
      "lines": 3,
-     "a": "Amma is an adult. The growing parts of her bones turned to hard bone in her teens, so she cannot get taller.",
+     "a": "Her mother is an adult. The growing parts of her bones turned to hard bone in her teens, so she cannot get taller.",
      "why": "A strong answer says adults have stopped growing taller, whatever they eat."
     },
     {
@@ -1561,7 +1561,7 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each to the way it is measured.",
+     "p": "Draw a line from each one to the way of measuring that fits.",
      "pairs": [
       [
        "a baby",
@@ -1599,7 +1599,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these changes: happens to children as they grow, or happens to many older adults.",
+     "p": "Sort these changes into two groups: changes that happen to children as they grow, and changes that happen to many older adults.",
      "cats": [
       "Children",
       "Older adults"
@@ -1642,7 +1642,7 @@
    "channel": "Twinkl Kids TV",
    "youtube": "2vUPhZUofco",
    "mins": 4,
-   "why": "Shows the life stages from baby to grown-up, to go with the growing cards.",
+   "why": "Shows the life stages from baby to grown-up, to go with the card 'Growing up means getting bigger and changing'.",
    "check": "Found by search: \"The Life Cycle of a Human\" by Twinkl Kids TV, 4 minutes. A parent may preview it."
   },
   {
@@ -1650,7 +1650,7 @@
    "channel": "Business Insider",
    "youtube": "tcq0y_lL_O4",
    "mins": 1,
-   "why": "Explains the discs of the backbone, after your child has done the bedtime and morning test.",
+   "why": "Explains the discs of the backbone. Watch it after your child has done the Bedtime Tall, Morning Tall experiment.",
    "check": "Found by search: \"Why You're Taller In The Morning Than At Night\" by Business Insider, 1 minute. A parent may preview it."
   },
   {
@@ -1725,7 +1725,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl of 9, measures herself every month. What makes her measuring fair?",
+   "p": "You measure yourself every month. What makes your measuring fair?",
    "opts": [
     "The same wall, the same book, the same time of day, heels down",
     "A different wall each month",
@@ -1761,14 +1761,14 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun's morning line is 8 millimetres above his bedtime line. Farhan's is 5 millimetres above his. How much more did Arjun's change?",
+   "p": "One child's morning line is 8 millimetres above the bedtime line. Another child's morning line is 5 millimetres above. How much more did the first child's height change?",
    "opts": [
     "3 millimetres more",
     "13 millimetres more",
     "5 millimetres more"
    ],
    "a": 0,
-   "why": "8 take away 5 is 3. Arjun's height changed 3 millimetres more than Farhan's.",
+   "why": "8 take away 5 is 3. The first child's height changed 3 millimetres more than the other child's.",
    "outcome": 5,
    "how": "e1"
   },
@@ -1869,12 +1869,12 @@
  ],
  "maths": [
   {
-   "problem": "Meenakshi, a girl of 7, and her mother did the bedtime and morning test. Meenakshi's red morning line was 6 millimetres above her blue line. Her mother's was 12 millimetres above. How many times bigger was her mother's change?",
+   "problem": "A girl of 7 and her mother did the Bedtime Tall, Morning Tall experiment. The girl's red morning line was 6 millimetres above her blue bedtime line. Her mother's was 12 millimetres above. How many times bigger was her mother's change?",
    "answer": "2 times bigger.",
-   "explain": "6 and 6 make 12. So her mother's change was two lots of Meenakshi's change.",
+   "explain": "6 and 6 make 12. So her mother's change was two lots of the girl's change.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e1",
-   "context": "This is about the bedtime and morning test, where you marked your height twice.",
+   "context": "This is about the Bedtime Tall, Morning Tall experiment, where you marked your height at bedtime and again in the morning.",
    "why_maths": "Comparing the two changes shows who changed more, and how much more, not just that both changed."
   },
   {
@@ -1886,20 +1886,20 @@
    "why_maths": "Taking away the first length from the second shows how much growing happened."
   },
   {
-   "problem": "Kavya grows about 6 centimetres a year. She is 130 centimetres now. About how tall will she be in two years?",
+   "problem": "A child grows about 6 centimetres a year. The child is 130 centimetres tall now. About how tall will the child be in two years?",
    "answer": "About 142 centimetres.",
    "explain": "6 and 6 make 12. 130 and 12 make 142. This is only a guess, because children do not grow exactly the same every year.",
    "math_unit": "math.length.standard-units-length.L2",
-   "context": "This is about the Growing Chart project, where you measure yourself each month.",
+   "context": "This is about the My Growing Chart project, where you measure yourself once a month.",
    "why_maths": "Adding the growth for each year lets you predict, and later check your prediction."
   },
   {
-   "problem": "Farhan, a boy of 7, measured his height three times: 121 centimetres, 122 centimetres and 121 centimetres. Which number should he write down, and why?",
+   "problem": "You measure your height three times and get 121 centimetres, 122 centimetres and 121 centimetres. Which number should you write down, and why?",
    "answer": "121 centimetres.",
-   "explain": "Two of the three tries say 121, and the middle number, when put in order, is 121. One try was a little off.",
+   "explain": "Two of the three tries say 121. When you put the three numbers in order, the middle one is also 121. The try that gave 122 was a little off.",
    "math_unit": "math.length.standard-units-length.L2",
    "how": "e1",
-   "context": "This is about why we measure three times in the bedtime and morning test.",
+   "context": "This is about why we measure three times in the Bedtime Tall, Morning Tall experiment.",
    "why_maths": "Looking at all three numbers together shows which one is the real height and which was a small mistake."
   }
  ],
@@ -2011,15 +2011,15 @@
   ]
  },
  "roots": {
-  "context": "We have learnt how a body grows from a baby to a grown-up, and how to measure growing carefully. Now we ask what the bedtime and morning test tells us about ourselves.",
+  "context": "We have learnt how a body grows from a baby to a grown-up, and how to measure growing carefully. Now we ask what the Bedtime Tall, Morning Tall experiment tells us about ourselves.",
   "deep_truth": {
-   "truth": "At bedtime you marked your height, and next morning the mark was a little higher. You did not grow that much in one night. The discs in your backbone are pressed thin by day and fill up again as you lie down. So a body's size goes up and down every day, as well as growing over the years.",
+   "truth": "In the Bedtime Tall, Morning Tall experiment, you marked your height at bedtime, and next morning the mark was a little higher. You did not grow that much in one night. The discs in your backbone are pressed thin during the day and fill up again when you lie down. So a body's size goes up and down every day, as well as growing over the years.",
    "habit": "We think of our height as one fixed number about us, like our name. But a body is always changing, even in a single day. Every measurement is a measurement at one time.",
-   "evidence": "In the bedtime and morning test, the red morning lines were higher than the blue bedtime lines, usually by a few millimetres for a child and more for a grown-up. A doctor in England wrote about the same change 300 years ago, and studies of children since then find a daily change of about half a centimetre to one and a half centimetres."
+   "evidence": "In the Bedtime Tall, Morning Tall experiment, the red morning lines were higher than the blue bedtime lines, usually by a few millimetres for a child and more for a grown-up. A doctor in England wrote about the same change 300 years ago. Studies of children since then find a daily change of about half a centimetre to one and a half centimetres."
   },
   "three": {
    "who_am_i": "You are a body that keeps changing: bigger every year, taller every morning, a little shorter every evening. And you are still you.",
-   "what_is_life": "Being alive means building yourself again and again, out of food, sleep and the care of others.",
+   "what_is_life": "A living body keeps building itself, again and again. It builds with food and sleep, and it needs the care of other people.",
    "what_is_this_world": "Everything that lives is growing or changing all the time, even when it is too slow to see: a mango tree, a calf, a grandmother, you."
   },
   "thread": "You began very small, and every part of you since then has been built from food: milk, rice, dal, greens. The food came from plants, and the plants grew from sunlight, water and soil. So the water and soil of a paddy field in Thanjavur can become part of your thigh bone. Your body is always taking in new material and changing.",
@@ -2070,5 +2070,5 @@
   "art": "A woman health worker in a South Delhi home measuring a baby lying on a measuring board, while the mother watches."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a parent and child in a flat. Rewrote the 'Grow to Grown-up' cards so each makes sense on any square, marked the six card squares on the board, and added rules for a full card pile, no dice, and landing on a second card square. Made the Taller, Shorter or Same? cards fit the three hand signs. Gave the bedtime test two short paper strips so a child and a grown-up both fit, fixed the arm span steps, removed assumed family members, corrected 'less than a millimetre a week' to about a millimetre, and replaced repeated worksheet questions, jokes and discussion questions with new ones.",
- "warm": {"words": ["SLEEP", "DISCS", "SPURT", "CHILD", "GROWN"], "quiz": [["The soft discs in your backbone fill up again while you sleep.", true, "That is why most people are a little taller in the morning."], ["Your height stays exactly the same all day.", false, "Your backbone discs get squashed during the day, so you are a little shorter at night."], ["Teenagers have a growth spurt, and then growing taller stops.", true, "A growth spurt is a time of fast growing. Growing taller stops in the late teens."], ["Children grow fastest when they are about eight years old.", false, "Babies grow fastest, in their first year. Children then grow slowly and steadily."], ["Growing well needs good food, enough sleep and good health.", true, "A body needs food to build itself, and sleep and health help it grow."], ["Children in some countries are naturally smaller, so they need their own growth charts.", false, "Healthy, well-fed children in many countries grew in the same way."], ["A newborn baby is about 50 centimetres long, and by age 7 most children are twice as tall.", true, "Babies grow very fast, so children double their length in a few years."], ["How tall you become depends only on the food you eat.", false, "It also depends on what you get from your parents, and on sleep and health."], ["Children grow about 5 to 6 centimetres a year.", true, "After the first year, children grow slowly and steadily until the teenage spurt."], ["You keep growing taller all your life.", false, "Growing taller stops in the late teens. After that you are an adult."]], "odd": [[["Kitten", "Calf", "Chick", "Grown goat"], "Grown goat", "A kitten, a calf and a chick are young and still growing. A grown goat has finished growing."], [["Good food", "Enough sleep", "Good health", "Big shoes"], "Big shoes", "Food, sleep and good health help a body grow. Wearing big shoes does not make you grow."], [["Morning", "Just after waking", "After a night's sleep", "Bedtime"], "Bedtime", "You are tallest after the discs fill up in sleep. At bedtime they have been squashed all day."], [["Centimetre", "Metre", "Inch", "Kilogram"], "Kilogram", "A centimetre, a metre and an inch measure length, so they can measure height. A kilogram measures weight."], [["Newborn baby", "Baby in its first year", "Teenager in a growth spurt", "Child of eight"], "Child of eight", "Newborns, babies and teenagers in a spurt grow fast. A child of eight grows slowly and steadily."]]}
+ "warm": {"words": ["SLEEP", "DISCS", "SPURT", "CHILD", "GROWN"], "quiz": [["The soft discs in your backbone fill up again while you sleep.", true, "That is why most people are a little taller in the morning."], ["Your height stays exactly the same all day.", false, "Your backbone discs get squashed during the day, so you are a little shorter at night."], ["Teenagers have a growth spurt, and then growing taller stops.", true, "A growth spurt is a time of fast growing. Growing taller stops in the late teens."], ["Children grow fastest when they are about eight years old.", false, "Babies grow fastest, in their first year. Children then grow slowly and steadily."], ["Growing well needs good food, enough sleep and good health.", true, "A body needs food to build itself, and sleep and health help it grow."], ["Children in some countries are naturally smaller, so they need their own growth charts.", false, "Healthy, well-fed children in many countries grew in the same way."], ["A newborn baby is about 50 centimetres long, and by age 7 most children are twice as tall.", true, "Babies grow very fast, so children double their length in a few years."], ["How tall you become depends only on the food you eat.", false, "It also depends on what you get from your parents, and on sleep and health."], ["Children grow about 5 to 6 centimetres a year.", true, "After the first year, children grow slowly and steadily until the teenage spurt."], ["You keep growing taller all your life.", false, "Growing taller stops in the late teens. After that you are an adult."]], "odd": [[["Kitten", "Calf", "Chick", "Grown goat"], "Grown goat", "A kitten, a calf and a chick are young and still growing. A grown goat has finished growing."], [["Good food", "Enough sleep", "Good health", "Big shoes"], "Big shoes", "Food, sleep and good health help a body grow. Wearing big shoes does not make you grow."], [["Morning", "Just after waking", "After a night's sleep", "Bedtime"], "Bedtime", "You are tallest after the discs fill up in sleep. At bedtime they have been squashed all day."], [["Centimetre", "Metre", "Inch", "Kilogram"], "Kilogram", "A centimetre, a metre and an inch measure length, so they can measure height. A kilogram measures weight."], [["Newborn baby", "Baby in the first year", "Teenager in a growth spurt", "Child of eight"], "Child of eight", "Newborns, babies and teenagers in a spurt grow fast. A child of eight grows slowly and steadily."]]}
 }
