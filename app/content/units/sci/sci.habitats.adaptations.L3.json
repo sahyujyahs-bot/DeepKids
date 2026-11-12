@@ -174,7 +174,7 @@
    "concept": "Keeping water in a hot, dry place: plants",
    "status": "defined",
    "definition": "Water evaporates from a plant into dry air, mostly through their leaves. Desert plants lose water slowly because they have little surface for their size, a thick waxy coat, and stomata that open mostly at night.",
-   "description": "A plant's problem in a desert is that rain may come only a few times a year, while the hot, dry air pulls water out of the plant every day. Water can only escape through a plant's outside, where it touches the air. A big, thin leaf has a lot of outside, so it loses water fast. A cactus has no flat leaves at all. Their leaves are spines, and their stem is fat and round. That shape holds a lot of water with little outside, just like the rolled-up towel in this unit's experiment. Their stem is covered with a thick waxy coat, which water hardly passes through. Their stomata, the tiny holes that let air in and water out, open mostly at night, when the air is cooler and less water escapes. Aloe vera stores water in thick, juicy leaves. Other desert plants solve the problem differently. The khejri tree of the Thar Desert, the state tree of Rajasthan, sends their roots very deep to reach water far underground. Some grasses, and rice in a dry spell, roll their leaves into thin tubes in the hot afternoon and open them again in the evening.",
+   "description": "A plant's problem in a desert is that rain may come only a few times a year, while the hot, dry air pulls water out of the plant every day. Water can only escape through a plant's outside, where it touches the air. A big, thin leaf has a lot of outside, so it loses water fast. A cactus has no flat leaves at all. Their leaves are spines, and their stem is fat and round. That shape holds a lot of water with little outside, like the rolled-up towel in the Three Wet Leaves experiment, which stayed wet inside. Their stem is covered with a thick waxy coat, which water hardly passes through. Their stomata, the tiny holes that let air in and water out, open mostly at night, when the air is cooler and less water escapes. Aloe vera stores water in thick, juicy leaves. Other desert plants solve the problem differently. The khejri tree of the Thar Desert, the state tree of Rajasthan, sends their roots very deep to reach water far underground. Some grasses, and rice in a dry spell, roll their leaves into thin tubes in the hot afternoon and open them again in the evening.",
    "examples": [
     "The spines of a cactus are their leaves. They also protect the juicy stem from thirsty animals.",
     "Rub a cabbage leaf with your finger and you feel a smooth wax. Many plants have a waxy coat, but desert plants have the thickest.",
@@ -188,7 +188,7 @@
    "concept": "Keeping cool and saving water: desert animals",
    "status": "defined",
    "definition": "Desert animals keep cool and save water by hiding from the midday heat, by losing little water from their bodies, and by getting rid of heat through big ears and thin parts of the body.",
-   "description": "Sweating cools a body, because sweat takes heat away as it evaporates. But in a desert, every drop of sweat is water an animal may not be able to replace. So desert animals have other ways. The camel lets their body warm up by several degrees during a hot day, instead of sweating to stay cool. At night their body cools down again. Their thick fur on their back shades their skin from the sun. Their hump is a store of fat, not water. They can close their nostrils against blowing sand, and their long eyelashes keep sand out of their eyes. Many small desert animals, like gerbils, lizards and beetles, spend the hot day in burrows under the sand, where it is cooler, and come out at night or at dawn. Desert foxes have big ears. Blood flows close to the thin skin of the ears, and heat leaves the blood into the air. A fennec fox of the Sahara has the biggest ears for their size of any fox. An Arctic fox has small ears, which lose little heat.",
+   "description": "Sweating cools a body, because sweat takes heat away as it evaporates. But in a desert, every drop of sweat is water an animal may not be able to replace. So desert animals have other ways. The camel lets their body warm up by several degrees during a hot day, instead of sweating to stay cool. At night their body cools down again. The thick fur on their back shades their skin from the sun. Their hump is a store of fat, not water. They can close their nostrils against blowing sand, and their long eyelashes keep sand out of their eyes. Many small desert animals, like gerbils, lizards and beetles, spend the hot day in burrows under the sand, where it is cooler, and come out at night or at dawn. Desert foxes have big ears. Blood flows close to the thin skin of the ears, and heat leaves the blood into the air. A fennec fox of the Sahara has the biggest ears for their size of any fox. An Arctic fox has small ears, which lose little heat.",
    "examples": [
     "A camel can lose water equal to about a quarter of their body weight and still recover when they drink. Most mammals would die long before that.",
     "Many desert animals get most of their water from their food, like seeds, leaves and the insects they eat.",
@@ -311,7 +311,7 @@
    "definition": "Living things that are not closely related often end up with similar adaptations when they live in similar places. Scientists call this convergent evolution.",
    "description": "Cactuses grow wild in the Americas. Some euphorbias grow in the dry parts of Africa and India. They come from very different plant families. Yet both have fat, green, spiny stems and almost no leaves. The same problem, keeping water in the desert, led to the same shape twice. Look at a shark and a dolphin. A shark is a fish. A dolphin is a mammal, like a cow or you, and breathes air. Yet both have a streamlined body, a fin on the back and a strong tail, because both must swim fast through water. In caves all over the world, from Mexico to Meghalaya, fish, shrimps and beetles have turned pale and lost their eyes.",
    "examples": [
-    "A fat, spiny euphorbia hedge in an Indian village can look so like a cactus that most people call these plants cactus. Break a stem carefully and look: a euphorbia has white, milky sap. Their sap stings eyes and skin, so only a grown-up should do this.",
+    "A fat, spiny euphorbia hedge in an Indian village can look so much like a cactus that most people call it cactus. A broken euphorbia stem has white, milky sap. The sap stings eyes and skin, so only a grown-up should break a stem to look.",
     "Penguins and dolphins both swim with flippers, though one is a bird and the other a mammal."
    ],
    "perspectives": [],
@@ -419,12 +419,12 @@
  ],
  "big_questions": [
   {
-   "q": "Your flat towel and your rolled towel held the same water. Why did one dry so much faster?",
+   "q": "In the Three Wet Leaves experiment, the flat towel and the rolled towel held the same water. Why did the flat one dry so much faster?",
    "kind": "deep",
    "hint": "Where does the water leave from? How much of each towel touched the air?"
   },
   {
-   "q": "Ice cubes in a huddle melted more slowly than ice cubes spread apart. Does a huddle of penguins lose their warmth more slowly for the same reason?",
+   "q": "In the Huddle Test, ice cubes in a huddle melted more slowly than ice cubes spread apart. Does a huddle of penguins lose their warmth more slowly for the same reason?",
    "kind": "deep",
    "hint": "Think about which parts of each cube or penguin touch the outside."
   },
@@ -434,7 +434,7 @@
    "hint": "Think about what their taste buds and lateral line can do."
   },
   {
-   "q": "A camel calf is born already able to save water. Who or what 'designed' them?",
+   "q": "A camel calf is born already able to save water. Nobody taught them. Where did that ability come from?",
    "kind": "deep",
    "hint": "Think about their parents, and their parents, going back many generations in the desert."
   },
@@ -599,7 +599,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Turn over the CAVE card and play it as practice. Then shuffle it back in.",
+     "do": "Find the CAVE place card, turn it face up and play one round with it as practice. Then shuffle it back into the place cards.",
      "say": "Practice round. Which feature would help in a cave that is always dark?",
      "kid": "Practice round. A cave is always dark. Which card helps?",
      "check": {
@@ -848,7 +848,7 @@
        "Rolling paper makes water"
       ],
       "a": 1,
-      "why": "Water evaporates only from a surface that touches the air. In the rolled towel, most of the paper was hidden inside the roll, so its water could not escape. Picking 'more water' is a fair worry. But we wet all three the same way, and a scale would show they started about the same."
+      "why": "Water evaporates only from a surface that touches the air. In the rolled towel, most of the paper was hidden inside the roll, so its water could not escape. Choosing 'more water to start with' is a fair guess. But we wet all three the same way, and a scale would show they started about the same."
      },
      "parent": "You will usually find that the outer layer of the rolled towel is dry, but the middle is still wet. The covered towel is often wet all over, apart from tiny dry spots near the pin holes."
     },
@@ -857,7 +857,7 @@
      "mins": 6,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a leaf loses water fastest when it is flat and open. What I saw: the flat towel was dry in an hour. The rolled one was still wet inside, and the covered one was wet nearly all over. Why: water escapes only where the towel touches the air. Rolling hides most of it, and the plastic covers it. That is why a cactus is fat and round, with a waxy coat.",
      "think": "A cactus is fat and round with a waxy skin. Which of your three towels was most like a cactus?"
     }
@@ -1003,7 +1003,7 @@
        "Ice likes to be together"
       ],
       "a": 1,
-      "why": "Heat from the warm air goes into ice through its outside. In the huddle, the sides of the cubes that touched each other were hidden from the warm air. So less heat got in. Picking 'smaller to start with' is a fair worry, but all the cubes came from the same tray. A penguin huddle works for the same reason: less of each penguin's body faces the icy wind, so less heat escapes."
+      "why": "Heat from the warm air goes into ice through its outside. In the huddle, the sides of the cubes that touched each other were hidden from the warm air. So less heat got in. Choosing 'smaller to start with' is a fair guess, but all the cubes came from the same tray. A penguin huddle works for the same reason: less of each penguin's body faces the icy wind, so less heat escapes."
      },
      "how": "e2"
     },
@@ -1012,7 +1012,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: things in a huddle swap less heat with the air around them. What I saw: after 30 minutes, the huddled cubes still had their block shape, and their glass had less water. Why: in the huddle, many sides of each cube were hidden from the warm air. That is why penguins huddle in the cold, and why a dog curls up on a cold night."
     }
    ],
@@ -1152,7 +1152,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a waxy coat helps a leaf keep its water. What I saw: after a few hours the plain leaf was floppy, and the coated leaf was still firm. Why: the jelly covered the leaf's surface and its tiny holes, so less water escaped. Desert plants have a thick waxy coat of their own."
     }
    ],
@@ -1585,7 +1585,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read out the five places and let your child pick one. The places are the Thar at noon, a Ladakh winter night, a mangrove, a cave and a pond.",
+     "do": "Read out the five places and let your child pick one. The places are the Thar Desert at noon, a Ladakh winter night, a mangrove, a cave and a pond.",
      "say": "Pick a place. What problems would a living thing have there? Let's list them first.",
      "kid": "Pick a place: desert, snowy mountain, mangrove, cave or pond. What problems would you have there?",
      "context": "This is the first step of Design an Animal. You invent a living thing for one of the hard places in this unit."
@@ -1596,7 +1596,7 @@
      "do": "1. Ask your child to write down three problems of that place. 2. Then draw an animal or plant with one feature for each problem. 3. Label each feature with its problem.",
      "say": "Start with the problem, then the feature. For the desert: little water, so what could your animal have?",
      "kid": "Write three problems of your place. Draw a creature with a feature for each. Label them.",
-     "parent": "Good drawings name the problem first: 'It is very cold, so they have thick fur and a short tail.' Any made-up feature is fine if your child can say how it helps. Ask what it would cost: thick fur would be too hot in summer."
+     "parent": "Good drawings name the problem first: 'It is very cold, so they have thick fur and a short tail.' Any made-up feature is fine if your child can say how it helps. Then ask what problem the feature might cause. For example, thick fur would be too hot in summer."
     },
     {
      "id": "s3",
@@ -1721,7 +1721,7 @@
    "constraints": [
     "Use one wet paper towel, the same size as a plain one.",
     "At least half of the towel must be open to the air, not covered or rolled inside.",
-    "Test it beside a plain flat towel, under the fan, with the tissue touch test."
+    "Test it beside a plain flat wet towel, under the fan. Every 15 minutes, press a dry tissue on each towel to see whether it is still wet."
    ],
    "materials": [
     "2 paper towels of the same size",
@@ -1760,7 +1760,7 @@
     {
      "id": "s3",
      "mins": 27,
-     "do": "1. Build your best idea with a wet towel. 2. Put it beside a plain flat wet towel under the fan. 3. Do the touch test every 15 minutes.",
+     "do": "1. Build your best idea with a wet towel. 2. Put it beside a plain flat wet towel under the fan. 3. Every 15 minutes, press a dry tissue on each towel. A wet patch on the tissue means the towel is still wet.",
      "say": "Which stays wet longer, yours or the plain one?",
      "kid": "Build your best idea. Put it beside a plain wet towel. Test them every 15 minutes.",
      "parent": "Folding or pleating usually helps a lot, because folds hide part of the surface and shade each other."
@@ -1794,7 +1794,7 @@
    "constraints": [
     "Use only drinking straws, aluminium foil, tape and a bottle cap.",
     "It must float in a bucket for 2 minutes with 10 one-rupee coins on it.",
-    "No plastic bottles or boxes, which are too easy."
+    "Do not use plastic bottles or boxes. They make it too easy."
    ],
    "materials": [
     "drinking straws",
@@ -1896,10 +1896,10 @@
   },
   {
    "t": "mcq",
-   "p": "Meena moves from Bengaluru to hot Chennai. After two weeks she starts to sweat sooner on hot days. What is this called?",
+   "p": "A person moves from Bengaluru to hot Chennai. After two weeks they start to sweat sooner on hot days. What is this called?",
    "opts": [
-    "An adaptation passed on to her children",
-    "Acclimatising: her body getting used to a new place in her own life",
+    "An adaptation passed on to their children",
+    "Acclimatising: their body getting used to a new place in their own life",
     "Hibernation",
     "Echolocation"
    ],
@@ -1909,7 +1909,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy in Class 3, wets three paper towels the same way. He leaves one flat, rolls one up tight, and covers one with plastic. Which one dries first?",
+   "p": "Three paper towels are wetted the same way. One is left flat, one is rolled up tight, and one is covered with plastic. Which one dries first?",
    "opts": [
     "The flat one",
     "The rolled one",
@@ -1975,7 +1975,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 3, puts 6 ice cubes close together in a block, and 6 more spread apart. Which melt more slowly?",
+   "p": "6 ice cubes are put close together in a block, and 6 more are spread apart. Which melt more slowly?",
    "opts": [
     "The spread-out cubes",
     "The cubes close together",
@@ -2073,7 +2073,7 @@
     },
     {
      "t": "write",
-     "p": "Think of a cold night at home. Name two things you do to keep warm. For each, say which animal's way of keeping warm yours is like.",
+     "p": "Think of a cold night at home. Name two things you do to keep warm. For each one, name an animal that keeps warm in a similar way.",
      "a": "For example: I curl up under a blanket, like a dog curling into a ball. I wear a woollen sweater, like a yak's thick coat, because both trap still air.",
      "why": "A good answer links each thing to an animal's adaptation and says how it keeps heat in.",
      "lines": 4
@@ -2218,7 +2218,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl aged 9, puts her pots of plants close together in the shade on a hot day. Why might this help the plants keep their water?",
+     "p": "In the story Twenty Pots and One Bucket, Kavya puts her pots of plants close together in the shade on a hot day. Why might this help the plants keep their water?",
      "a": "The pots shade each other and hide from the hot wind, so less water evaporates from the leaves and soil.",
      "why": "Crowding together means less of each plant faces the sun and hot air, so less water escapes.",
      "lines": 3
@@ -2265,7 +2265,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sneha, a girl in Class 3, coats one spinach leaf with petroleum jelly and leaves another plain. After 4 hours the plain leaf is floppy. What does this show?",
+     "p": "One spinach leaf is coated with petroleum jelly and another is left plain. After 4 hours the plain leaf is floppy, but the coated leaf is still firm. What does this show?",
      "opts": [
       "Petroleum jelly is plant food",
       "A coat on the surface slows down the water escaping from a leaf",
@@ -2451,15 +2451,15 @@
      "p": "A school in Chennai wants to plant something in its sunny yard.",
      "views": [
       {
-       "who": "Mrs Borah, the gardener",
+       "who": "The school gardener",
        "says": "Plant a euphorbia or a cactus. Their fat, waxy stems need hardly any watering, even in a hot summer."
       },
       {
-       "who": "Mr Patil, a teacher",
+       "who": "A teacher",
        "says": "Plant a neem tree. A cactus gives no shade, but a neem tree cools the yard and the children can sit under it."
       },
       {
-       "who": "Zoya, aged 9",
+       "who": "A pupil aged 9",
        "says": "Plant both. The cactus survives when water is short, and the neem gives shade when there is enough water."
       }
      ],
@@ -2518,14 +2518,14 @@
     },
     {
      "t": "write",
-     "p": "Bergmann said animals of the same kind are bigger in colder places. Many animals do not follow this rule. Write one reason a scientist might give for why a big body could help in the cold, and one reason the rule might not always hold.",
+     "p": "Bergmann said animals of the same kind are bigger in colder places. Many animals do not follow this rule. Write one reason a big body could help in the cold. Then write one reason the rule might not always hold.",
      "a": "A big body has less outside for its size, so it loses heat more slowly. But food, enemies and other things also change how big an animal grows.",
      "why": "A good answer gives a reason for the rule and a reason it might fail. Scientists still argue about it.",
      "lines": 4
     },
     {
      "t": "write",
-     "p": "Your rolled towel stayed wet inside. Explain, in your own words, what this tells you about why a cactus is fat and round.",
+     "p": "In the Three Wet Leaves experiment, the rolled towel stayed wet inside. Explain, in your own words, what this tells you about why a cactus is fat and round.",
      "a": "Water escapes only from the outside, where the air touches it. A fat, round cactus has little outside for all the water inside them, so they keep their water, like the inside of the roll.",
      "why": "A full answer links the towel's hidden inside to the cactus's small surface.",
      "lines": 4,
@@ -2576,7 +2576,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya spreads dry leaves over the soil in her pots. How could you test whether a layer of dry leaves keeps soil damp longer? Say what you would keep the same.",
+     "p": "In the story Twenty Pots and One Bucket, Kavya spreads dry leaves over the soil in her pots. How could you test whether a layer of dry leaves keeps soil damp longer? Say what you would keep the same.",
      "a": "Fill two pots with the same soil and the same amount of water, and put them side by side. Cover one with dry leaves and leave the other bare. Check how damp the soil is each day. Keep the pot size, soil, water and place the same.",
      "why": "A fair test changes only one thing. Here only the layer of dry leaves changes.",
      "lines": 4
@@ -2593,7 +2593,7 @@
   }
  ],
  "applications": [
-  "Builders in hot places use thick walls, light colours and shade, as desert animals do with burrows.",
+  "Builders in hot places use thick walls, light colours and shade to keep homes cool, as desert animals use burrows.",
   "Gardeners group pots together and cover the soil with dry leaves, called mulch, to save water in summer.",
   "Wetsuits for divers trap a thin layer of water and work as insulation, like an otter's fur or a seal's blubber.",
   "Swimmers' flippers copy webbed feet.",
@@ -2724,7 +2724,7 @@
  ],
  "maths": [
   {
-   "problem": "In the three wet leaves test, Lakshmi, a girl in Class 3, weighed her towels. In one hour, the flat towel lost 18 grams of water. The covered towel lost only 2 grams. How many times as much water did the flat towel lose?",
+   "problem": "In the Three Wet Leaves test, the towels were weighed. In one hour, the flat towel lost 18 grams of water. The covered towel lost only 2 grams. How many times as much water did the flat towel lose?",
    "answer": "9 times as much.",
    "explain": "The flat towel lost 18 grams and the covered towel lost 2 grams. 18 divided by 2 is 9. So the flat towel lost 9 times as much water. Check: 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2765,7 +2765,7 @@
    "why_maths": "Counting the faces that touch the air explains the result. Fewer faces in the air means less heat can get in, so the huddle melts more slowly."
   },
   {
-   "problem": "Bodil and Knut Schmidt-Nielsen measured a thirsty camel in the Sahara. Their body was 34 degrees Celsius in the early morning and 40 degrees by late afternoon. How many degrees did their body warm up during the day?",
+   "problem": "Bodil and Knut Schmidt-Nielsen measured a thirsty camel in the Sahara. The camel's body was 34 degrees Celsius in the early morning and 40 degrees by late afternoon. How many degrees did the camel's body warm up during the day?",
    "answer": "6 degrees.",
    "explain": "40 take away 34 is 6. So the camel's body warmed up by 6 degrees. Your body stays close to 37 degrees all day. If it warmed up by 6 degrees, you would have a dangerous fever.",
    "math_unit": "math.temperature.reading-thermometers.L3",
@@ -2773,7 +2773,7 @@
    "why_maths": "Working out the difference shows how big the camel's daily change is, compared with yours."
   },
   {
-   "problem": "In the three wet leaves test, Farhan, a boy in Class 3, did the touch test every 15 minutes. The flat towel was dry at the 4th check. The rolled towel was still wet inside at the 8th check. How long did each take?",
+   "problem": "In the Three Wet Leaves test, you do the touch test every 15 minutes. The flat towel was dry at the 4th check. The rolled towel was still wet inside at the 8th check. How long did each take?",
    "answer": "The flat towel was dry after 60 minutes. The rolled towel was still wet inside after 120 minutes, which is 2 hours.",
    "explain": "4 checks of 15 minutes is 15 + 15 + 15 + 15 = 60 minutes. 8 checks is twice as many, 120 minutes. So the rolled towel kept its water for at least twice as long.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2782,7 +2782,7 @@
    "why_maths": "Counting in equal groups of 15 minutes turns the number of checks into a time, so you can compare how long each towel kept its water."
   },
   {
-   "problem": "In the huddle test, the spread-out cubes made 120 millilitres of meltwater in 30 minutes, and the huddle made 60 millilitres. Arjun, a boy in Class 3, says, 'If I spread the cubes even further apart, they will make even more meltwater.' Is he right? What would you test to find out?",
+   "problem": "In the Huddle Test, the spread-out cubes made 120 millilitres of meltwater in 30 minutes, and the huddle made 60 millilitres. If you spread the cubes even further apart, would they make even more meltwater? What would you test to find out?",
    "answer": "Probably not much more. Once the cubes are apart, all 5 of their faces already touch the air. Spreading them further would not open up any more faces. You could test it by putting 6 cubes a finger-width apart and 6 cubes a hand-width apart.",
    "explain": "The huddle made half as much meltwater, 60 out of 120, because it hid faces from the air. Spread-out cubes already show every face except the bottom. So spreading them further should change little. A fair test would change only the distance between cubes.",
    "math_unit": "math.logic.puzzles.L3",
@@ -3014,13 +3014,13 @@
  "roots": {
   "context": "We have learned how living things are suited to heat, cold, water and darkness. Now we ask what this tells us about living things and about ourselves.",
   "deep_truth": {
-   "truth": "Your three wet towels held the same water, yet they dried at very different speeds. Water escapes only through a surface that touches the air. Rolled up or covered, a towel kept its water for hours. So a cactus's shape and waxy skin save their water every minute, even while they rest.",
+   "truth": "In the Three Wet Leaves experiment, three wet towels held the same water, yet they dried at very different speeds. Water escapes only through a surface that touches the air. Rolled up or covered, a towel kept its water for hours. In the same way, a cactus's shape and waxy skin save their water all the time.",
    "habit": "We think of saving water as something done on purpose, like turning off a tap. A cactus also decides things, such as when to open their tiny leaf holes. But much of their saving is done by their body's shape and coat, all the time.",
-   "evidence": "The flat towel was dry within an hour or two. The rolled towel was still wet inside, and the covered towel was wet nearly all over. The same water, the same towel and the same fan: only the shape and covering changed."
+   "evidence": "In the Three Wet Leaves experiment, the flat towel was dry within an hour or two. The rolled towel was still wet inside, and the covered towel was wet nearly all over. The water, the towels and the fan were the same. Only the shape and the covering changed."
   },
   "three": {
    "who_am_i": "Your body is adapted too. You sweat to cool down, and you curl up under a blanket to keep warm.",
-   "what_is_life": "Every living thing carries features that suit the place their parents and grandparents lived, going back many generations.",
+   "what_is_life": "Every living thing carries features that suit the place where their parents and grandparents lived, going back many generations.",
    "what_is_this_world": "The Earth has burning sand, ice, deep water and dark caves, and living things live in all of them."
   },
   "thread": "All living things on Earth share one family tree, going back to the first living cells. From that one beginning came the camel, the snow leopard, the cave fish and the cactus. Each place on Earth set its own problem: keep water, keep warm, move in water, find food in the dark. Life found a different shape for each. A dolphin's flipper, a bat's wing and your hand even have the same bones inside, shaped in different ways.",

@@ -108,9 +108,9 @@
    "definition": "A muscle needs energy to contract. It keeps a small, quick store of fuel inside its cells. To refill that store, the muscle needs oxygen and food, which the blood brings.",
    "description": "When you squeeze a peg fast, your finger muscles contract again and again. Each contraction uses some of the quick fuel store. If you keep going without a break, the muscle uses the fuel faster than the blood can help refill it. Waste also builds up inside the muscle. So the muscle slows down and starts to ache. When you stop, blood keeps flowing through the muscle. It brings oxygen, and the muscle uses it to refill its store. It also carries the waste away. After a short rest the muscle can work hard again. The quick fuel is called phosphocreatine. It was found in 1927 by Cyrus Fiske and Yellapragada Subbarow, who grew up in Andhra Pradesh, and at the same time by Grace and Philip Eggleton in England.",
    "examples": [
-    "Squeezing a peg for two and a half minutes without stopping, your count falls in every round.",
+    "When you squeeze a peg for two and a half minutes without stopping, your count falls in every round.",
     "After a short rest, a fast bowler can run in and bowl hard again.",
-    "Carrying a heavy bag up three floors, your legs ache by the top. After a minute of standing, they feel better."
+    "When you carry a heavy bag up three floors, your legs ache by the top. After a minute of standing, they feel better."
    ],
    "perspectives": [],
    "art": "A cut-away of a finger muscle with a small fuel tank inside the muscle cells emptying, and a red blood vessel beside it bringing oxygen dots in.",
@@ -221,11 +221,11 @@
  "agreed": [
   {
    "text": "A muscle that works hard without a break gets slower and weaker, and rest lets it recover.",
-   "evidence": "Anyone can see it with the peg test at home. Scientists measure it with machines that record muscle force."
+   "evidence": "Anyone can see it at home with the Tired Peg test, where you squeeze a clothes peg again and again. Scientists measure it with machines that record muscle force."
   },
   {
    "text": "Working muscles need oxygen, which the blood brings. When less blood reaches a muscle, it tires faster.",
-   "evidence": "Squeezing a peg with the arm held up, so less blood reaches the hand, usually tires the fingers a little faster. Lab studies that squeeze the blood supply with a cuff show the same."
+   "evidence": "Squeezing a peg with the arm held up, so less blood reaches the hand, usually tires the fingers a little faster. Lab studies that use a tight cuff to cut down the blood supply show the same."
   },
   {
    "text": "Regular exercise makes muscles, bones, the heart and the lungs stronger.",
@@ -252,8 +252,8 @@
   {
    "claim": "Most tiredness during exercise is made by the brain, not by the muscle.",
    "who": "Tim Noakes, a South African sports scientist, and others",
-   "for": "People can often speed up at the end of a race, so their muscles had more left.",
-   "against": "The peg test shows the muscle itself slowing down. Lab tests show the muscle's fuel store falling.",
+   "for": "People can often speed up at the end of a race, so their muscles still had some strength left.",
+   "against": "In the Tired Peg test, the finger muscles slow down even when you try your hardest. Lab tests show the muscle's fuel store falling.",
    "status": "debated",
    "context": "This card is about a question scientists still argue about: is tiredness in the muscle or in the brain?"
   },
@@ -269,14 +269,14 @@
    "claim": "Resting is a waste of time.",
    "who": "A common feeling, among busy children and grown-ups",
    "for": "While you rest, you are not getting anything visible done.",
-   "against": "In the peg test, two minutes of rest brought back much of the strength. In deep sleep, the body releases growth hormone. Rest is when the body refills, repairs and grows.",
+   "against": "In the Tired Peg test, where you squeeze a clothes peg again and again, two minutes of rest brought back much of the strength. In deep sleep, the body releases growth hormone. Rest is when the body refills, repairs and grows.",
    "status": "rejected",
    "context": "This card is about the idea that resting achieves nothing."
   }
  ],
  "big_questions": [
   {
-   "q": "After two minutes of rest, your peg count went up again. Where did the strength come back from?",
+   "q": "In the Tired Peg test, your count went up again after two minutes of rest. Where did the strength come back from?",
    "kind": "deep",
    "hint": "Think about what kept flowing through your hand while it rested."
   },
@@ -438,7 +438,7 @@
        "b": "Rapid eye movement."
       },
       {
-       "f": "After light sleep comes deep sleep or dreaming sleep?",
+       "f": "Which comes after light sleep: deep sleep or dreaming sleep?",
        "b": "Deep sleep. Dreaming sleep comes after that."
       },
       {
@@ -504,9 +504,9 @@
    "rules": [
     "Each player puts a counter on square 1, 6 a.m., and takes 3 energy tokens. Energy never goes above 5 or below 0.",
     "On your turn, another player reads you a card and checks the answer on the back. Playing alone? Read it yourself.",
-    "Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square. If the cards run out, shuffle them and use them again.",
+    "If you answer right, roll the dice and move that many squares. If you answer wrong, move 1 square. If the cards run out, shuffle them and use them again.",
     "On a TRY IT card, do it for real. Then gain 1 energy and roll.",
-    "Follow what the square you land on says. Squares you move on to from a square do not count: only the square you landed on.",
+    "Do what the square you land on says. If that square moves you on to another square, do not follow the second square.",
     "If your energy is 0 at the start of your turn, you must REST: miss that turn and gain 2 energy.",
     "When you land on or pass square 16, BEDTIME, take its 1 energy and write down your energy. That is your score. Then keep going through the night to square 24.",
     "When everyone has reached square 24, the game ends. The highest score wins, and equal scores share the win. Playing alone? Try for a score of 4 or more. Then everyone says one thing their body does during sleep."
@@ -534,7 +534,7 @@
        "No, a tired muscle stays tired all day"
       ],
       "a": 0,
-      "why": "While a muscle rests, blood keeps flowing through it. The blood brings oxygen, and the muscle uses it to refill its quick fuel. That is why your peg count rose after two minutes of rest."
+      "why": "While a muscle rests, blood keeps flowing through it. The blood brings oxygen, and the muscle uses it to refill its quick fuel. That is why, in the Tired Peg test, the count rises after two minutes of rest."
      }
     },
     {
@@ -549,7 +549,7 @@
      "id": "s4",
      "mins": 4,
      "do": "When everyone has reached the morning, each player says one thing the body does during sleep.",
-     "say": "Everyone is in bed. Tell me one thing your body or brain is doing while you sleep.",
+     "say": "Everyone has reached the morning. Tell me one thing your body or brain does while you sleep.",
      "kid": "You reached the morning. Say one thing your body does while you sleep.",
      "ask": [
       {
@@ -645,7 +645,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "End by asking about pairs.",
+     "do": "End by asking how muscles work in pairs.",
      "say": "When you bend your arm, the front muscle contracts. What does the back of your arm do?",
      "kid": "Bend your arm. The front muscle is hard. Feel the back of your arm. Is it hard or soft?",
      "think": "Muscles can only pull, never push. So how does your arm straighten again?",
@@ -703,7 +703,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess. Squeeze the peg for five rounds of 30 seconds with no break. Rest two minutes. Do round 6. Draw a bar chart."
+     "what": "Guess what will happen. Squeeze the peg for five rounds of 30 seconds with no break. Rest for two minutes. Do round 6. Draw a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw one bar for each round, as tall as the number of squeezes.",
@@ -746,7 +746,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Go straight on to round 2, with no break. Write the number in 2 or 3 seconds. 2. Do rounds 3, 4 and 5 the same way. 3. After each round, ask how the fingers feel, and write one word.",
+     "do": "1. Go straight on to round 2, with no break. Take only 2 or 3 seconds to write the number. 2. Do rounds 3, 4 and 5 the same way. 3. After each round, ask how the fingers feel, and write one word.",
      "say": "No break! Round 2, go! Keep squeezing as hard as you can. How do your fingers feel now?",
      "kid": "No break. Keep going, round after round. Squeeze as fast as you can. How do your fingers feel?",
      "parent": "The count usually falls from round to round, and the child says the hand burns, aches or feels slow. If your child slows down on purpose to save strength, remind them to go as fast as they can every round. The test only works if every round is full effort."
@@ -759,11 +759,11 @@
      "kid": "Rest your hand on the table. Wait two minutes. Then do round 6, as fast as you can.",
      "check": {
       "t": "mcq",
-      "q": "Riya, a girl in Class 3, did five rounds with no break. Her counts were 50, 44, 39, 35 and 31. After two minutes of rest, what do you think round 6 was?",
+      "q": "A child did five rounds of the Tired Peg test with no break. The counts were 50, 44, 39, 35 and 31. After two minutes of rest, what do you think round 6 was?",
       "options": [
-       "About 25, because she is more tired",
+       "About 25, because the fingers are more tired",
        "About 31, the same as round 5",
-       "About 45, because the rest let her fingers recover"
+       "About 45, because the rest let the fingers recover"
       ],
       "a": 2,
       "why": "Rest lets the muscle recover. In two minutes, blood brings oxygen and the muscle refills much of its quick fuel, so the count goes up again. Picking 25 means thinking tiredness only builds up. Picking 31 means thinking rest does nothing. Your own round 6 is the real test."
@@ -780,9 +780,9 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Your child draws a bar chart, one bar per round. 2. Then ask for three sentences: what I think, what I saw, why.",
+     "do": "1. Your child draws a bar chart, one bar per round. 2. Then ask your child to say three things: what they think, what they saw, and why it happened.",
      "say": "Draw a bar for each round. Then tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Draw a bar for each round. Then say three things. What I think. What I saw. Why.",
+     "kid": "Draw a bar for each round. Then say three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a muscle gets tired when it works without a break, and rest brings its strength back. What I saw: my count went from 48 to 29 in five rounds, then up to 43 after resting. Why: the muscle used up its fuel, and while I rested my blood helped refill it. Now read the card 'What a working muscle uses up' together."
     }
    ],
@@ -922,7 +922,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Compare the totals and the ache times. 2. Ask for what I think, what I saw, why.",
+     "do": "1. Compare the totals and the ache times. 2. Ask your child to say what they think, what they saw, and why it happened.",
      "say": "Which way gave more squeezes? When did the ache start each time? Tell me what you think, what you saw, and why.",
      "kid": "Which way gave more squeezes? Which started aching sooner? Say what you think, what you saw, and why.",
      "check": {
@@ -939,7 +939,7 @@
      "parent": "Usually the arm-up count is lower and the ache comes sooner. After only one minute the difference can be small, and it can go the other way. If the two counts are within a few squeezes of each other, say honestly that it is too close to call, and try again another day. Ask what might have been different, such as tired fingers from earlier or counting mistakes."
     }
    ],
-   "context": "In this experiment you squeeze a peg with your arm held up and then hanging down, to see whether blood flow changes how fast a muscle tires.",
+   "context": "In this experiment you squeeze a peg with your arm hanging down and then with it held up, to see whether blood flow changes how fast a muscle tires.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: squeezes in one minute",
@@ -1044,7 +1044,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Work out the difference. 2. Ask for what I think, what I saw, why.",
+     "do": "1. Work out the difference. 2. Ask your child to say what they think, what they saw, and why it happened.",
      "say": "How much taller or shorter were you this morning? Tell me what you think, what you saw, and why.",
      "kid": "Take away the night number from the morning number. That is the difference. What do you think made it?",
      "check": {
@@ -1154,7 +1154,7 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. Let your child guess. The unit answers this in the peg test."
+     "parent": "Do not explain yet. Let your child guess. The Tired Peg experiment in this unit answers the question."
     },
     {
      "id": "s3",
@@ -1231,7 +1231,7 @@
      "mins": 3,
      "do": "1. Lie on the tummy with hands under the shoulders. 2. Press gently and lift the head and chest, keeping the hips down. 3. Hold for three breaths. Lower slowly.",
      "say": "This is cobra pose, bhujangasana. Lift your chest slowly, like a cobra lifting her head. Keep your hips on the floor.",
-     "kid": "Lie on your tummy. Hands under your shoulders. Lift your head and chest slowly. Breathe three times. Come down slowly.",
+     "kid": "Lie on your tummy. Put your hands under your shoulders. Lift your head and chest slowly. Breathe three times. Come down slowly.",
      "parent": "Keep the elbows a little bent. The pose should feel like a gentle stretch at the front of the body, never a pinch in the back."
     },
     {
@@ -1297,22 +1297,22 @@
     {
      "day": 3,
      "mins": 2,
-     "what": "The same as day 2."
+     "what": "Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime."
     },
     {
      "day": 4,
      "mins": 2,
-     "what": "The same as day 2."
+     "what": "Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime."
     },
     {
      "day": 5,
      "mins": 2,
-     "what": "The same as day 2."
+     "what": "Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime."
     },
     {
      "day": 6,
      "mins": 2,
-     "what": "The same as day 2."
+     "what": "Write the wake-up time, the hours slept, how you feel, and how long you played or exercised yesterday. Write tonight's bedtime."
     },
     {
      "day": 7,
@@ -1409,7 +1409,7 @@
      "kid": "Sort all 12 slips. Some could go in two bowls. Which ones?",
      "ask": [
       {
-       "q": "Which activities use more than one kind?",
+       "q": "Which activities use more than one kind of exercise?",
        "good": [
         "Kabaddi uses stamina, strength and stretch.",
         "Bharatanatyam needs stamina, strength and flexibility.",
@@ -1537,42 +1537,42 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Practise for 5 minutes."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Practise for 5 minutes."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes."
     },
     {
      "day": 5,
      "mins": 15,
-     "what": "Practise for 5 minutes, then test again and write the numbers."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes. Then do the tree pose test and the sit and reach test again, and write the numbers."
     },
     {
      "day": 6,
      "mins": 5,
-     "what": "Practise for 5 minutes."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes."
     },
     {
      "day": 7,
      "mins": 5,
-     "what": "Practise for 5 minutes."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes."
     },
     {
      "day": 8,
      "mins": 5,
-     "what": "Practise for 5 minutes."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes."
     },
     {
      "day": 9,
      "mins": 5,
-     "what": "Practise for 5 minutes."
+     "what": "Practise tree pose and the toe-touch stretch for 5 minutes."
     },
     {
      "day": 10,
      "mins": 10,
-     "what": "Final test. Draw a chart of your tree pose times and reach on days 1, 5 and 10."
+     "what": "Do the tree pose test and the sit and reach test one last time. Draw a chart of your tree pose times and reach on days 1, 5 and 10."
     }
    ],
    "record": "A table with columns: day, tree pose on the left leg (seconds), tree pose on the right leg (seconds), sit and reach (cm).",
@@ -1606,15 +1606,15 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. On day 10, test again. 2. Draw a bar chart of tree pose times on days 1, 5 and 10. 3. Ask for what I think, what I saw, why.",
+     "do": "1. On day 10, test again. 2. Draw a bar chart of tree pose times on days 1, 5 and 10. 3. Ask your child to say what they think, what they saw, and why it happened.",
      "say": "Did your times change? Tell me what you think, what you saw, and why.",
      "kid": "Draw a bar for day 1, day 5 and day 10. Did you get steadier? Why do you think so?",
      "check": {
       "t": "mcq",
-      "q": "Nisha, a girl in Class 3, held tree pose for 12 seconds on day 1 and 40 seconds on day 10. What is the best explanation?",
+      "q": "A child held tree pose for 12 seconds on day 1 and 40 seconds on day 10, after practising every day. What is the best explanation?",
       "options": [
-       "Her leg grew longer",
-       "Her body and brain got better at the tiny corrections that keep her balanced",
+       "The child's leg grew longer",
+       "The child's body and brain got better at the tiny corrections that keep the body balanced",
        "The floor got flatter"
       ],
       "a": 1,
@@ -1662,7 +1662,7 @@
     "March fast on the spot, or dance on the spot, for stamina.",
     "Slow squats, or sitting against a wall as if on a chair, for strength.",
     "Cobra pose and a slow side bend for flexibility.",
-    "Work for one minute, then rest for 30 seconds, then the next move."
+    "Do one move for one minute, rest for 30 seconds, then start the next move."
    ],
    "creative": [
     "Make a dice where each number is a move, and roll for the order.",
@@ -1677,7 +1677,7 @@
      "mins": 5,
      "do": "Read the problem and the rules together.",
      "say": "It's been raining for a week. Plan a 10-minute workout for our flat, with no jumping.",
-     "kid": "Rain all week! Plan a 10-minute workout in a small space. No jumping. Include stamina, strength and stretch.",
+     "kid": "It has rained all week. Plan a 10-minute workout in a small space. No jumping. Include stamina, strength and stretch.",
      "context": "This is the first step of the monsoon workout challenge. Here you read the problem."
     },
     {
@@ -1690,7 +1690,7 @@
       {
        "q": "Why put rests between the moves?",
        "good": [
-        "So the muscles can recover, like in the peg test.",
+        "So the muscles can recover, as they did in the Tired Peg test.",
         "So the blood can refill the muscles before the next move."
        ]
       }
@@ -1719,7 +1719,7 @@
    "id": "c2",
    "title": "The Sleep Den: help someone fall asleep in a noisy city",
    "mins": 30,
-   "problem": "Kavya, a girl in Class 3, lives beside a busy road in Hyderabad. A street light shines into her room, autos honk late at night, and her room gets hot. She keeps waking up. Design changes to her room and her bedtime that would help her sleep through the night.",
+   "problem": "Kavya lives beside a busy road in Hyderabad. A street light shines into her room, autos honk late at night, and her room gets hot. She keeps waking up. Design changes to her room and her bedtime that would help her sleep through the night.",
    "constraints": [
     "You may only use things that most homes have, or that are cheap to buy.",
     "The family cannot move house or change rooms.",
@@ -1737,7 +1737,7 @@
     "Go to bed and wake up at the same time every day."
    ],
    "creative": [
-    "Put the head of the bed on the wall furthest from the road.",
+    "Put the head of the bed against the wall furthest from the road.",
     "Fold a soft cloth into an eye mask.",
     "Make a bedtime routine card with pictures: bath, brush, story, lights out.",
     "Open the window on the far side of the flat in the evening to let cooler air through."
@@ -1811,24 +1811,24 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Meena, a girl in Class 3, squeezes a clothes peg for five rounds of 30 seconds with no break. What usually happens to her count?",
+   "p": "You squeeze a clothes peg for five rounds of 30 seconds with no break. What usually happens to your count?",
    "opts": [
     "It goes up each round",
     "It goes down each round",
     "It stays exactly the same"
    ],
    "a": 1,
-   "why": "With no break, her finger muscles use up their quick fuel faster than her blood can help refill it, so each round she manages fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.",
+   "why": "With no break, your finger muscles use up their quick fuel faster than your blood can help refill it, so each round you manage fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.",
    "outcome": 0,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "After the five rounds, Meena rests her hand for two minutes. What happens to her next count?",
+   "p": "You squeeze a clothes peg for five rounds with no break. Then you rest your hand for two minutes. What happens to your next count?",
    "opts": [
     "It goes up again",
     "It falls even lower",
-    "She cannot squeeze at all"
+    "You cannot squeeze at all"
    ],
    "a": 0,
    "why": "During the rest, blood brings oxygen and the muscle refills much of its fuel. Picking 'falls even lower' means thinking rest does nothing.",
@@ -1851,7 +1851,7 @@
    "t": "mcq",
    "p": "Why is it a fair test to use the same peg and the same hand in every round?",
    "opts": [
-    "So only the rest changes, and nothing else",
+    "So the only thing that changes is whether you rested",
     "So the test is quicker",
     "Because pegs are expensive"
    ],
@@ -1947,7 +1947,7 @@
   },
   {
    "t": "mcq",
-   "p": "Karthik, a boy in Class 3, has a test tomorrow. Which plan will help his body and brain most?",
+   "p": "You have a test tomorrow. Which plan will help your body and brain most?",
    "opts": [
     "Study late until midnight, then wake up at 6",
     "Study, play outside, and go to bed on time for 10 hours of sleep",
@@ -2140,7 +2140,7 @@
      "p": "Write two things your body does while you sleep.",
      "lines": 3,
      "a": "It releases growth hormone in deep sleep, which helps me grow and repair. My brain dreams and sorts what I learned. The discs in my back fill up with water.",
-     "why": "Any two true things show that sleep is a busy time, not doing nothing."
+     "why": "Any two true things are right. They show that sleep is a busy time, not a time of doing nothing."
     },
     {
      "t": "draw",
@@ -2159,7 +2159,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 3, squeezes a peg for one minute with her arm up, and later with her arm down. Which way do her fingers usually tire faster?",
+     "p": "You squeeze a peg for one minute with your arm up, and later with your arm down. Which way do your fingers usually tire faster?",
      "opts": [
       "Arm up",
       "Arm down",
@@ -2178,7 +2178,7 @@
       "It does not matter at all"
      ],
      "a": 0,
-     "why": "The second try often goes better because you have practised. Doing arm-down first puts that extra practice on the arm-up side, so if arm-up is still lower, the reason must be something else, such as blood flow.",
+     "why": "The second try often goes better because you have practised. Arm-up comes second, so practice helps it. If the arm-up count is still lower, the reason must be something else, such as blood flow.",
      "how": "e2"
     },
     {
@@ -2281,7 +2281,7 @@
     },
     {
      "t": "write",
-     "p": "Your hand looked paler after you held it up for one minute. What does that tell you about blood? How does it explain the arm-up peg result?",
+     "p": "In the Arm Up, Arm Down test, your hand looked paler after you held it up for one minute. What does that tell you about blood? How does it explain why fingers tire faster with the arm up?",
      "lines": 4,
      "a": "Less blood was in the raised hand, because it had to be pumped uphill. With less blood, less oxygen reached the finger muscles, so they could not refill their fuel as fast, and tired sooner.",
      "why": "A strong answer links the colour to blood, and the blood to the muscle's fuel.",
@@ -2289,7 +2289,7 @@
     },
     {
      "t": "write",
-     "p": "Your grown-up's peg counts were different from yours, but both sets fell and then rose after rest. Why does the pattern matter more than the size of the numbers?",
+     "p": "In the Tired Peg test, your grown-up's counts were different from yours. But both sets of counts fell with no rest and then rose after the rest. Why does the pattern matter more than the size of the numbers?",
      "lines": 3,
      "a": "The question was about what rest does. Both of us showed counts falling with no rest and rising after it. Different people give different numbers. The same pattern in two people makes the result less likely to be a fluke.",
      "why": "A strong answer says that the test compared rounds within one person, not people with each other.",
@@ -2304,7 +2304,7 @@
     },
     {
      "t": "perspective",
-     "p": "Nandini, a girl in Class 4, and her cousin Vikram are arguing about the tired peg test.",
+     "p": "Nandini and her cousin Vikram are arguing about the tired peg test.",
      "views": [
       {
        "who": "Nandini",
@@ -2448,7 +2448,7 @@
     },
     {
      "t": "write",
-     "p": "Eugene Aserinsky first thought the machine was broken when the lines went wild. Why was it important that he tested again and again, and with other sleepers?",
+     "p": "In 1951, Eugene Aserinsky used a machine to record the brain signals of sleepers. Several times a night the lines went wild, and at first he thought the machine was broken. Why was it important that he tested again and again, and with other sleepers?",
      "lines": 4,
      "a": "If it was a broken machine, it would go wild at random times. It happened at regular times each night, and in other people too, so it was real. Testing again ruled out a fault.",
      "why": "A strong answer says how repeating a test separates a real finding from a mistake."
@@ -2470,7 +2470,7 @@
     },
     {
      "t": "perspective",
-     "p": "Pooja, a girl in Class 5, wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend Ritu says she should do both, a little.",
+     "p": "Pooja wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend Ritu says she should do both, a little.",
      "views": [
       {
        "who": "Pooja",
@@ -2601,7 +2601,7 @@
  ],
  "maths": [
   {
-   "problem": "In the tired peg test, Meera, a girl in Class 3, counted 48, 41, 36, 32 and 29 squeezes in five rounds with no break. How many fewer squeezes did she do in round 5 than in round 1?",
+   "problem": "In the tired peg test, a child counted 48, 41, 36, 32 and 29 squeezes in five rounds with no break. How many fewer squeezes did the child do in round 5 than in round 1?",
    "answer": "19 fewer.",
    "explain": "48 take away 29 is 19. Count up from 29: 1 more makes 30, then 18 more makes 48. 1 + 18 = 19.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2610,7 +2610,7 @@
    "why_maths": "Taking away shows how much strength the muscle lost, as a single number.",
    "chart": {
     "type": "bar",
-    "title": "Meera's squeezes in 30 seconds",
+    "title": "Squeezes in 30 seconds",
     "x": "Round",
     "y": "Squeezes",
     "data": [
@@ -2638,7 +2638,7 @@
    }
   },
   {
-   "problem": "Meera, a girl in Class 3, did the tired peg test. Her count fell each round: 48 to 41, 41 to 36, 36 to 32, 32 to 29. Is the fall getting bigger or smaller? Guess what round 6 would be without a rest.",
+   "problem": "In the tired peg test, a child's count fell each round: 48 to 41, 41 to 36, 36 to 32, 32 to 29. Is the fall getting bigger or smaller? Guess what round 6 would be without a rest.",
    "answer": "The fall gets smaller each round: 7, then 5, then 4, then 3. Round 6 would probably be about 26 or 27.",
    "explain": "48 − 41 = 7. 41 − 36 = 5. 36 − 32 = 4. 32 − 29 = 3. The drops shrink, so the next drop might be about 2 or 3. 29 − 3 = 26.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -2647,16 +2647,16 @@
    "why_maths": "Finding the pattern in the drops lets you predict what would happen next, before you test it."
   },
   {
-   "problem": "In the tired peg test, Meera, a girl in Class 3, rested for two minutes after her fifth round. Her count went from 29 back up to 43. Her first round was 48. Did the rest bring back all of her strength?",
-   "answer": "Not all of it. She got back 14 of the 19 squeezes she had lost.",
-   "explain": "She lost 48 − 29 = 19 squeezes. The rest brought her up 43 − 29 = 14. 19 − 14 = 5, so she was still 5 short of round 1. A longer rest would probably bring back the rest.",
+   "problem": "In the tired peg test, a child's count fell from 48 in round 1 to 29 in round 5. After two minutes of rest, the count went back up to 43. Did the rest bring back all of the strength?",
+   "answer": "Not all of it. The child got back 14 of the 19 squeezes lost.",
+   "explain": "The child lost 48 − 29 = 19 squeezes. The two minutes of rest brought the count up by 43 − 29 = 14. 19 − 14 = 5, so the count was still 5 short of round 1. A longer rest would probably bring back the last 5.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the tired peg test. After five rounds with no break, you rest for two minutes and squeeze again.",
    "how": "e1",
    "why_maths": "Comparing what was lost with what came back tells you how much a short rest helps."
   },
   {
-   "problem": "Kavya, a girl in Class 3, goes to sleep at 9 at night and wakes up at 6:30 in the morning. How long did she sleep? Is it enough for a child of 8?",
+   "problem": "A child goes to sleep at 9 at night and wakes up at 6:30 in the morning. How long does the child sleep? Is it enough for a child of 8?",
    "answer": "9 and a half hours. Yes, it is within the 9 to 12 hours a child of 8 needs.",
    "explain": "From 9 at night to midnight is 3 hours. From midnight to 6 in the morning is 6 hours. Then 30 more minutes to 6:30. 3 + 6 = 9 hours, plus half an hour.",
    "math_unit": "math.time.duration.L3",
@@ -2674,7 +2674,7 @@
    "why_maths": "Seeing sleep as a part of the whole day shows how much of your life is rest."
   },
   {
-   "problem": "Sneha, a girl in Class 3, measured her height at bedtime: 128.3 cm. In the morning she measured 129.0 cm. How many millimetres taller was she in the morning?",
+   "problem": "A child measured 128.3 cm at bedtime and 129.0 cm the next morning. How many millimetres taller was the child in the morning?",
    "answer": "7 millimetres.",
    "explain": "129.0 − 128.3 = 0.7 centimetres. One centimetre is 10 millimetres, so 0.7 centimetres is 7 millimetres.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -2683,11 +2683,11 @@
    "why_maths": "The difference is very small, so changing to millimetres makes it easier to see and compare."
   },
   {
-   "problem": "In the arm up, arm down test, Divya, a girl in Class 3, squeezed 62 times with her arm up and 81 times with her arm down. Her brother squeezed 70 times arm up and 90 times arm down. Did both show the same pattern?",
-   "answer": "Yes. Both did more squeezes with the arm down: Divya 19 more, her brother 20 more.",
+   "problem": "Two children did the arm up, arm down test. The first child squeezed 62 times with the arm up and 81 times with the arm down. The second child squeezed 70 times with the arm up and 90 times with the arm down. Did both show the same pattern?",
+   "answer": "Yes. Both did more squeezes with the arm down: the first child 19 more, the second child 20 more.",
    "explain": "81 − 62 = 19. 90 − 70 = 20. The numbers are different, but both did better with the arm down by about the same amount.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
-   "context": "This is about the arm up, arm down test, where you squeeze a peg for one minute with your arm raised and then with it hanging down.",
+   "context": "This is about the arm up, arm down test, where you squeeze a peg for one minute with your arm hanging down and then with it raised.",
    "how": "e2",
    "why_maths": "Comparing the differences, not just the numbers, shows whether two people's results tell the same story.",
    "chart": {
@@ -2697,19 +2697,19 @@
     "y": "Squeezes",
     "data": [
      {
-      "label": "Divya, arm up",
+      "label": "First child, arm up",
       "value": 62
      },
      {
-      "label": "Divya, arm down",
+      "label": "First child, arm down",
       "value": 81
      },
      {
-      "label": "Brother, arm up",
+      "label": "Second child, arm up",
       "value": 70
      },
      {
-      "label": "Brother, arm down",
+      "label": "Second child, arm down",
       "value": 90
      }
     ]
@@ -2900,21 +2900,21 @@
  "roots": {
   "context": "We have learned how muscles get tired and recover, what exercise builds and what happens in sleep. Now we ask what rest tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the peg test, your squeezes slowed each round you did not rest. After two minutes of rest, your count went up again. In those two minutes, your blood brought oxygen and helped the muscle refill its fuel. So a resting muscle is busy, getting ready to work again.",
-   "habit": "We split the day into working and resting, and think of resting as doing nothing. But the peg test shows that strength comes back during rest, because the body is busy refilling and clearing the muscle.",
-   "evidence": "The peg count fell from round to round without a break, then rose after two minutes of rest. With the arm held up, so less blood reached the hand, the fingers usually tired a little faster."
+   "truth": "In the Tired Peg test, you squeezed a clothes peg for five rounds with no break, and your count fell each round. After two minutes of rest, your count went up again. In those two minutes, your blood brought oxygen and helped the muscle refill its fuel. So a resting muscle is busy, getting ready to work again.",
+   "habit": "We split the day into working and resting, and think of resting as doing nothing. But the Tired Peg test shows that strength comes back during rest, because the body is busy refilling and clearing the muscle.",
+   "evidence": "In the Tired Peg test, the count fell from round to round without a break, then rose after two minutes of rest. In the Arm Up, Arm Down test, the arm was held up so that less blood reached the hand, and the fingers usually tired a little faster."
   },
   "three": {
    "who_am_i": "You are a body that works and rests in turns, all day and all night. Even your heart rests for a moment between beats.",
    "what_is_life": "Every living thing has times of activity and times of rest. Tamarind trees fold their leaves at night, and a dog sleeps and dreams.",
-   "what_is_this_world": "The Earth turns from day to night, and the sea comes in and goes out. Much of the world moves in rhythms of more and less."
+   "what_is_this_world": "The Earth turns from day to night, and the sea comes in and goes out. Much of the world works in turns like this: more for a while, then less."
   },
-  "thread": "The peg test showed a rhythm: work uses the fuel up, and rest fills it again. Your heart contracts and then relaxes, every second of your life. Your lungs fill and empty. Tamarind trees fold their leaves at night and open them by day. Your whole body sleeps and wakes.",
+  "thread": "The Tired Peg test showed a pattern: work uses the fuel up, and rest fills it again. You can find the same pattern in other places. Your heart contracts and then relaxes, every second of your life. Your lungs fill and empty. Tamarind trees fold their leaves at night and open them by day. Your whole body sleeps and wakes.",
   "teachings": [
    {
     "source": "Bhagavad Gita 6.16–6.17",
     "teaching": "Yoga is not for someone who eats too much or too little, or sleeps too much or too little. It is for someone who keeps a balance in eating, playing, working, sleeping and waking.",
-    "link": "The peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them."
+    "link": "The Tired Peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them."
    },
    {
     "source": "Yoga Sutras of Patanjali 2.46",
@@ -2943,7 +2943,7 @@
   ],
   "other_view": {
    "who": "Tim Noakes, a South African sports scientist, and others",
-   "view": "Much of what we feel as tiredness is made by the brain, which slows us down early to keep us safe. So the peg test may show the brain's caution as much as the muscle's empty store."
+   "view": "Much of what we feel as tiredness is made by the brain, which slows us down early to keep us safe. So in the Tired Peg test, the falling count may come from the brain being careful as much as from the muscle running out of fuel."
   },
   "practice": {
    "title": "Feel the rest arrive",
@@ -2965,5 +2965,5 @@
   "when": "1951 to 1953 (published in the journal Science in 1953)",
   "wrong_idea": "Many scientists thought the brain switches off during sleep, like a lamp. The recordings showed that several times every night the brain becomes almost as active as when awake, and that this is when most vivid dreams happen."
  },
- "warm": {"words": ["SLEEP", "BLOOD", "DREAM", "BONES", "TIRED"], "quiz": [["A tired muscle gets much of its strength back after a short rest.", true, "Rest gives the muscle time to refill its quick store of fuel."], ["The ache the next day after hard exercise is caused by leftover lactic acid.", false, "Lactic acid clears within about an hour, so the ache the next day has a different cause."], ["A muscle with less blood reaching it gets tired faster.", true, "Blood brings the oxygen a muscle needs to refill its fuel and carries waste away."], ["Sleeping late on Sunday fully makes up for a week of short nights.", false, "One long sleep does not undo a week of short nights; a steady bedtime works better."], ["Your backbone discs soak up water at night, so you are a little taller in the morning.", true, "Standing and sitting squeeze water out of the discs; lying down lets them soak it back."], ["Yoga is only bending and stretching; breathing and attention are not part of it.", false, "Yoga has poses called asanas, slow breathing called pranayama, and paying close attention to body and mind."], ["Exercising often for many weeks makes muscles, bones, the heart and lungs stronger.", true, "Regular exercise, done over weeks, builds up the whole body, not just the muscles."], ["A muscle gets longer and thinner when it contracts.", false, "A contracting muscle gets shorter and fatter as it pulls on a bone."], ["Each night, sleep goes round in cycles of light, deep and dreaming sleep.", true, "A cycle lasts about an hour and a half, and the brain is very busy in dreaming sleep."], ["The brain switches off while you sleep, so sleep is doing nothing.", false, "The brain is very busy during sleep, and deep sleep is when the body releases growth hormone."]], "odd": [[["Asana (poses)", "Pranayama (breathing)", "Paying close attention", "Sprinting"], "Sprinting", "Poses, slow breathing and close attention are the three parts of yoga; sprinting is not one of them."], [["Gets shorter", "Gets fatter", "Pulls on a bone", "Goes soft and long"], "Goes soft and long", "A contracting muscle gets shorter, fatter and pulls on a bone; going soft and long is relaxing."], [["Bones", "Heart", "Lungs", "Fingernails"], "Fingernails", "Regular exercise makes bones, heart and lungs stronger, but it does not strengthen fingernails."], [["Muscle with little blood", "Muscle with no break", "Many squeezes in a row", "Two minutes of rest"], "Two minutes of rest", "The other three make a muscle tire; rest lets it refill its fuel and get its strength back."], [["Lifting a heavy bucket", "Pushing a cart", "Pulling a rope", "Touching your toes"], "Touching your toes", "Lifting, pushing and pulling test strength, how hard muscles work; touching toes tests how far you can bend."]]}
+ "warm": {"words": ["SLEEP", "BLOOD", "DREAM", "BONES", "TIRED"], "quiz": [["A tired muscle gets much of its strength back after a short rest.", true, "Rest gives the muscle time to refill its quick store of fuel."], ["The ache the next day after hard exercise is caused by leftover lactic acid.", false, "Lactic acid clears within about an hour, so the ache the next day has a different cause."], ["A muscle with less blood reaching it gets tired faster.", true, "Blood brings the oxygen a muscle needs to refill its fuel and carries waste away."], ["Sleeping late on Sunday fully makes up for a week of short nights.", false, "One long sleep does not undo a week of short nights; a steady bedtime works better."], ["Your backbone discs soak up water at night, so you are a little taller in the morning.", true, "Standing and sitting squeeze water out of the discs; lying down lets them soak it back."], ["Yoga is only bending and stretching; breathing and attention are not part of it.", false, "Yoga has poses called asanas, slow breathing called pranayama, and paying close attention to body and mind."], ["Exercising often for many weeks makes muscles, bones, the heart and lungs stronger.", true, "Regular exercise, done over weeks, builds up the whole body, not just the muscles."], ["A muscle gets longer and thinner when it contracts.", false, "A contracting muscle gets shorter and fatter as it pulls on a bone."], ["Each night, sleep goes round in cycles of light, deep and dreaming sleep.", true, "A cycle lasts about an hour and a half, and the brain is very busy in dreaming sleep."], ["The brain switches off while you sleep, so sleep is doing nothing.", false, "The brain is very busy during sleep, and deep sleep is when the body releases growth hormone."]], "odd": [[["Asana (poses)", "Pranayama (breathing)", "Paying close attention", "Sprinting"], "Sprinting", "Poses, slow breathing and close attention are the three parts of yoga; sprinting is not one of them."], [["Gets shorter", "Gets fatter", "Pulls on a bone", "Goes soft and long"], "Goes soft and long", "A contracting muscle gets shorter, fatter and pulls on a bone; going soft and long is relaxing."], [["Bones", "Heart", "Lungs", "Fingernails"], "Fingernails", "Regular exercise makes bones, heart and lungs stronger, but it does not strengthen fingernails."], [["Muscle with little blood", "Muscle with no break", "Many squeezes in a row", "Two minutes of rest"], "Two minutes of rest", "The other three make a muscle tire; rest lets it refill its fuel and get its strength back."], [["Lifting a heavy bucket", "Pushing a cart", "Pulling a rope", "Touching your toes"], "Touching your toes", "Lifting, pushing and pulling take strength, which is how hard your muscles can push or pull. Touching your toes takes flexibility, which is how far you can bend."]]}
 }

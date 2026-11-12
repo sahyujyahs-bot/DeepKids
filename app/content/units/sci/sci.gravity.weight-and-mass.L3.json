@@ -15,7 +15,7 @@
   "I can say that weight is the pull of gravity on a thing, measured in newtons. I can say that mass is how much matter a thing has, measured in kilograms.",
   "I can weigh things with a forcemeter. I hang the thing, wait until it is still, read the scale at eye level and write the unit. I can find the pattern: about 10 newtons for every kilogram on Earth.",
   "I can explain that a scale or a forcemeter shows how hard it is holding a thing up. I can say that floors, chairs and water push back on us.",
-  "I can tell apart my weight, which is gravity's pull on me, from what a scale shows. I can say that the scale's number and my feeling of weight both come from the push holding me up. I can say which of them change in water, in a lift and while falling.",
+  "I can tell the difference between my weight, which is gravity's pull on me, and what a scale shows. I can say that the scale's number and my feeling of weight both come from the push holding me up. I can say which of them change in water, in a lift and while falling.",
   "I can explain why astronauts float in the space station, even though gravity there is almost as strong as on the ground.",
   "I can explain that weight changes from world to world but mass does not. I can say that mass is a form of energy.",
   "I can say what scientists agree about weight and mass, and what they still do not know."
@@ -72,7 +72,7 @@
   },
   {
    "term": "Scale",
-   "meaning": "A tool for weighing. A bathroom scale measures how hard you press down on it. It turns that push into kilograms, using the Earth's pull. A forcemeter is a hanging scale.",
+   "meaning": "A tool for weighing. A bathroom scale measures how hard you press down on it. Then it works out how many kilograms the Earth pulls that hard, and shows that number. A forcemeter is a hanging scale.",
    "example": "You stand on a bathroom scale at the doctor's clinic.",
    "art": "A child standing on a bathroom scale with a dial."
   },
@@ -138,7 +138,7 @@
   },
   {
    "term": "Gravitas",
-   "meaning": "A Latin word meaning heaviness. Said of a person, it means a calm, serious way of being that makes people listen. It comes from 'gravis', which means heavy.",
+   "meaning": "A Latin word meaning heaviness. When we say a person has gravitas, we mean a calm, serious way of being that makes people listen. The word comes from 'gravis', which means heavy.",
    "example": "A good teacher can quiet a noisy class just by standing still. People say she has gravitas.",
    "art": "A calm teacher standing quietly while a noisy class turns to listen."
   },
@@ -302,9 +302,9 @@
    "definition": "When a lift starts to go up, its floor must push you harder than usual to speed you up. So you feel heavier, and a scale shows more. When it starts to go down, the floor pushes less. So you feel lighter, and a scale shows less.",
    "description": "Gravity pulls on you just the same all through a lift ride. What changes is the push of the floor. To start you moving up, the floor has to push you up harder than gravity pulls you down. You feel that extra push in your knees. Once the lift is moving at a steady speed, the push goes back to normal. You feel normal, even though you are moving. When the lift slows down at the top, the floor pushes less. For a moment, you feel light. The same thing happens on a swing, a jhoola at a fair, or a bus going over a bump.",
    "examples": [
-    "A lift starting up: knees feel squashed, you feel heavy.",
-    "A lift slowing down at the top: your tummy feels floaty, you feel light.",
-    "A giant wheel at a mela going over the top: you feel lighter for a moment."
+    "When a lift starts going up, your knees feel squashed and you feel heavy.",
+    "When a lift slows down at the top, your tummy feels floaty and you feel light.",
+    "When a giant wheel at a mela carries you over the top, you feel lighter for a moment."
    ],
    "perspectives": [],
    "art": "A family in a lift shown three times: starting up (knees bent, big up arrow from the floor), moving steadily (normal), slowing at the top (hair lifting, small up arrow).",
@@ -390,7 +390,7 @@
    "examples": [
     "A child with a mass of 30 kilograms weighs about 300 newtons on Earth, and about 50 newtons on the Moon.",
     "On Mars, the same child would weigh a little more than a third of their Earth weight.",
-    "Your mass, 30 kilograms, would be the same in every one of these places."
+    "The child's mass, 30 kilograms, would be the same in every one of these places."
    ],
    "perspectives": [],
    "art": "The same child jumping on the Moon (very high), the Earth (normal) and Jupiter's clouds (barely off the ground), with mass 30 kg written beside each.",
@@ -697,7 +697,7 @@
   {
    "q": "You feel your weight only through the push of the floor, a chair or the water. If nothing touched you at all, how could you tell that you had weight?",
    "kind": "deep",
-   "hint": "Think about the falling bottle, and the astronauts. What could you measure instead of a push?"
+   "hint": "Think about the leaking bottle that stopped squirting while it fell, and the astronauts floating in the space station. What could you measure instead of a push?"
   },
   {
    "q": "The Sanskrit word guru means heavy, and a guru is a teacher. The Latin word gravitas means weight, and a person with gravitas makes people listen. Why do people link heaviness with wisdom?",
@@ -743,7 +743,7 @@
    "She sat on my top step every morning, with her knees under her chin. 'I'll sink,' she said, whenever her mother called. 'Like a stone. I'm too heavy.'",
    "'You are not a stone,' Sunaina said. 'Breathe in, and you will float.'",
    "'Not me,' said Gauri.",
-   "One hot afternoon, a sack of wet seeds slipped off the bank. It slid into my shallows, still hanging from the hook of Champa Mausi's balance. She grabbed the pole before it fell. Gauri watched the needle on the dial. As the sack sank into me, the needle crept back, back, back towards zero.",
+   "One hot afternoon, a sack of wet seeds slipped off the bank. It slid into my shallows, still hanging from the hook of Champa Mausi's balance. She grabbed the pole before it fell. Gauri watched the needle on the dial. As the sack sank into me, the needle crept slowly back towards zero.",
    "'The pond is stealing its weight!' Gauri cried.",
    "Champa Mausi laughed and hauled the sack out. Water poured from it, and the needle swung all the way back. 'The pond never steals anything,' she said. 'It only holds.' Gauri frowned at me for a long time after that.",
    "The next morning, she let her mother lead her down my steps. One step, two steps, three. My water reached her knees, then her waist. She was shivering, though the sun was warm.",
@@ -908,7 +908,7 @@
      "mins": 12,
      "do": "1. Take turns to roll and move. 2. On a gravity event, the player may play a force card and explain it. 3. On a star, they do a challenge card.",
      "say": "When you play a force card, tell us how it fights gravity. A good explanation saves you.",
-     "kid": "Roll and move. Gravity event? Play a force card. Say how it fights gravity. Star? Do a challenge and earn a card.",
+     "kid": "Roll the dice and move. If you land on a gravity event, play a force card and say how it fights gravity. If you land on a star, do a challenge and earn a card.",
      "ask": [
       {
        "q": "Why does SUPPORT FORCE beat the Rotten Plank?",
@@ -1212,7 +1212,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put the bag on the kitchen scale and pour in rice until it shows 100 grams. (Press the scale's zero button first, with the empty bag on it, if it has one.) 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.",
+     "do": "1. Put the empty bag on the kitchen scale. If the scale has a zero button, press it now. Then pour in rice until the scale shows 100 grams. 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.",
      "say": "Wait until it's completely still. While it bounces, the spring is pulling up harder, then softer. Only when it's still does the spring pull up exactly as hard as gravity pulls down.",
      "kid": "Pour 100 grams of rice into the bag. Hang it up. Wait until it is still. Read the number. Write it down.",
      "ask": [
@@ -1291,7 +1291,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: every 100 grams of rice weighs about 1 newton, so a kilogram weighs about 10 newtons. What I saw: 100 grams read 1 newton, 500 grams read 5 newtons, and 1,000 grams read nearly 10 newtons. Why: the more rice there is, the more matter there is for the Earth to pull on, so the pull gets bigger by the same amount each time."
     }
    ],
@@ -1462,7 +1462,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: water pushes up on things in it, so they seem lighter, but gravity does not change. What I saw: the stone read 3 newtons in the air, 2 newtons under the water, and 3 newtons again when I lifted it out. Why: the water helped hold the stone up, so the forcemeter's spring had less to hold."
     }
    ],
@@ -1550,7 +1550,7 @@
      "what": "Ride a lift up and down with a bag hanging from a forcemeter. Watch the reading at each moment."
     }
    ],
-   "record": "Fill in the table. Draw a line graph of the reading during the ride, or watch the film and write the numbers.",
+   "record": "Fill in the table. Draw a line graph of the reading during the ride. Or, if you filmed the pointer, watch the film and write the numbers.",
    "context": "In this experiment you take a forcemeter with a bag hanging from it into a lift. You watch the reading change as the lift starts, moves and stops.",
    "flow": [
     {
@@ -1567,7 +1567,7 @@
      "mins": 8,
      "do": "1. Get in the lift and press a button for a floor high up. 2. Hold the forcemeter still. 3. Watch the pointer as the lift starts, while it moves, and as it slows and stops. 4. Film it if you can. No lift? Hold the forcemeter in your hand and move it up quickly, then steadily, then slow it down, and watch the pointer.",
      "say": "Watch closely. The lift is starting. What is the pointer doing? Now we're moving steadily. And now we're slowing down.",
-     "kid": "Watch the pointer! The lift starts. Up or down? Now it moves steadily. Now it slows. What happens each time?",
+     "kid": "Watch the pointer as the lift starts. Does the reading go up or down? Watch again while the lift moves steadily, and as it slows. What happens each time?",
      "adult": true,
      "parent": "Going up, the reading rises a little as the lift starts. It goes back to normal while the lift moves steadily. It dips a little as the lift slows at the top. Coming down, it is the other way round. The changes are small, often about half a newton to 1 newton, and a slow lift may show hardly any change. If you cannot see it, film the pointer and play it back slowly, or use the arm version, which gives a bigger change.",
      "chart": {
@@ -1621,17 +1621,17 @@
      "mins": 5,
      "do": "Ride down again and watch the same four moments. If you have no lift, do this at home: move the forcemeter up quickly, then stop it, then move it down quickly.",
      "say": "Going down, what happens at the start? Did your own legs feel the same thing?",
-     "kid": "Ride down. Watch the pointer again. Did your legs feel heavy or floaty? At the same moments as the bag?",
+     "kid": "Ride down. Watch the pointer again. Did your legs feel heavy or floaty at the same moments as the bag's reading changed?",
      "check": {
       "t": "mcq",
       "q": "A lift starts to go up. The bag's reading goes from 10 newtons to 11 newtons. What happened?",
       "options": [
        "The spring had to pull harder to speed the bag up",
        "Gravity got stronger",
-       "More water got into the bottle"
+       "Something extra got into the bag"
       ],
       "a": 0,
-      "why": "To start the bag moving upwards, the spring must pull it up harder than gravity pulls it down. So the reading goes up for a moment. Gravity is just the same. The bottle has the same water in it. Picking 'gravity got stronger' is a natural guess, because you feel heavier too. But your heavy feeling is the floor pushing harder on you."
+      "why": "To start the bag moving upwards, the spring must pull it up harder than gravity pulls it down. So the reading goes up for a moment. Gravity is just the same. The bag has the same things in it. Picking 'gravity got stronger' is a natural guess, because you feel heavier too. But your heavy feeling is the floor pushing harder on you."
      }
     },
     {
@@ -1647,7 +1647,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a forcemeter reads more when a lift starts going up, and less when it slows at the top, but gravity stays the same. What I saw: the bag read 10 newtons standing still and 11 as the lift started up. It read 10 while moving steadily, and 9 as it slowed at the top. Why: to speed the bag up, the spring had to pull harder. To slow it down, the spring pulled less."
     }
    ],
@@ -1785,10 +1785,10 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Extra, and hard to see. 1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.",
+     "do": "This step is an extra, and the result is hard to see. 1. Tape the stack of coins to one end of the rubber band. 2. Lower the coins into the bottle, and hang the other end of the band over the rim of the bottle's mouth. 3. Screw the cap on over the band, so the cap holds it tight. The coins should hang clear of the bottom, stretching the band. 4. Hold the bottle upright above a pillow and look at the band. 5. Drop the bottle onto the pillow, watching the band. Do it three times.",
      "say": "The coins stretch the band, like a tiny forcemeter. What will the band do while the bottle falls? It is a very quick fall, so you may not see it. That is fine.",
-     "kid": "Extra! The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow. Watch the band. Does it stay stretched? It is very quick, so it is fine if you cannot see it.",
-     "parent": "If the coins touch the bottom, use fewer coins or a shorter band. While it falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this one is much harder to see than the leaking bottle, and may not work in a plain home test. If you see nothing, say so honestly and go on; the leaking bottle is the main result. Film it in slow motion and play it back. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero."
+     "kid": "This one is an extra. The coins stretch the rubber band, like a forcemeter. Drop the bottle onto a pillow and watch the band. Does it stay stretched? The fall is very quick, so it is fine if you cannot see it.",
+     "parent": "If the coins touch the bottom, use fewer coins or a shorter band. While the bottle falls, the band springs back and pulls the coins up towards the cap. The coins no longer pull down on the band, because they are falling just as fast as the bottle. The fall is very quick and the band is inside the bottle, so this is much harder to see than the leaking bottle, and you may not see it at home. Film it in slow motion and play it back. If you still see nothing, say so honestly and go on. The leaking bottle is the main result. A forcemeter dropped onto a bed does the same: its pointer jumps back to zero."
     },
     {
      "id": "s4",
@@ -1803,7 +1803,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: falling things stop pressing on what holds them, so they feel weightless, but gravity still pulls them. What I saw: the water stopped squirting while the bottle fell. If you could see it, the rubber band sprang back and pulled the coins up while the bottle fell onto the pillow. Why: everything was falling together at the same speed, so nothing had to hold anything else up."
     }
    ],
@@ -1967,7 +1967,7 @@
      "do": "1. Put two scales side by side. 2. Your child stands with one foot on each. 3. Read both numbers and add them up.",
      "say": "Each scale is holding up part of you. Let's add them. That's the push holding all of you up.",
      "kid": "Put one foot on each scale. Read both numbers. Add them up. That is all of you!",
-     "parent": "Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out the kilograms for the Earth's pull. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it for the other foot. You cannot add two numbers then, but you can still watch the one number change as you lean, and the books hold the rest.",
+     "parent": "Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out how many kilograms the Earth pulls that hard. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it for the other foot. You cannot add two numbers then, but you can still watch the one number change as you lean, and the books hold the rest.",
      "context": "This is the first step of Two Scales, One You. You stand with one foot on each of two bathroom scales, to see how they share your weight."
     },
     {
@@ -2186,7 +2186,7 @@
      "what": "Read the notebook together. For each moment, work out what was pushing harder or less."
     }
    ],
-   "record": "A list of moments, each marked HEAVY or LIGHT, with what was speeding up, slowing down or holding you.",
+   "record": "Make a list of the moments. Mark each one HEAVY or LIGHT, and write what was speeding up, slowing down or holding you.",
    "context": "This is a two-day hunt for moments when you feel heavier or lighter than usual. Think of a swing, a lift or a pool. Then you work out why.",
    "flow": [
     {
@@ -2344,7 +2344,7 @@
      "say": "Inside the root tip are cells holding tiny heavy grains of starch. The grains sink to the bottom of each cell. The cell feels where they land. So each cell knows which way is down.",
      "kid": "Root tip cells have tiny heavy grains inside. The grains sink to the bottom of each cell. So the cell knows which way is down!",
      "think": "Astronauts have grown plants in the space station, where everything floats. Which way do you think the roots grew?",
-     "parent": "In the space station, roots tend to grow away from the seed, and towards water and sometimes light. Without felt weight, the starch grains don't settle. Scientists are still studying exactly how plants sense gravity."
+     "parent": "In the space station, roots tend to grow away from the seed, and towards water and sometimes light. Where nothing feels any weight, the starch grains don't settle. Scientists are still studying exactly how plants sense gravity."
     }
    ],
    "setup": [
@@ -2396,7 +2396,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Explain the problem. Remind your child of the falling bottle: the water stopped pressing on it. A forcemeter dropped onto a pillow also reads zero while it falls.",
+     "do": "Explain the problem. Remind your child of the Drop It experiment: while the leaking bottle fell, the water stopped pressing on it and stopped squirting out. A forcemeter dropped onto a pillow also reads zero while it falls.",
      "say": "In the space station, a forcemeter reads zero for everything. But an astronaut still has mass. How could a doctor find it?",
      "kid": "In space, a forcemeter reads zero for everything. But things still have mass. How can we compare them?",
      "context": "This is the first step of Weigh It in Space. You must find a way to compare masses that would work even where nothing has weight you can feel."
@@ -2549,7 +2549,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A shopkeeper in Madurai says, 'This bag of rice weighs 1 kilogram.' A scientist would say the 1 kilogram is something else. What is it?",
+     "p": "A shopkeeper says, 'This bag of rice weighs 1 kilogram.' To a scientist, the 1 kilogram is not the bag's weight. What is it?",
      "opts": [
       "The bag's mass: how much rice is in it",
       "The bag's weight: how hard the Earth pulls it",
@@ -2734,7 +2734,7 @@
       "1 kilogram of rice"
      ],
      "a": "order shown",
-     "why": "More mass means a bigger pull. About half a newton, 1 newton, 5 newtons and 10 newtons. It does not matter whether it is salt or rice, only how much there is.",
+     "why": "More mass means a bigger pull. The readings are about half a newton, 1 newton, 5 newtons and 10 newtons. It does not matter whether it is salt or rice, only how much there is.",
      "how": "e1"
     },
     {
@@ -3033,9 +3033,9 @@
     },
     {
      "t": "write",
-     "p": "Sowmya, a girl in Class 4, stands on two bathroom scales, one foot on each. One reads 14 kilograms and the other reads 16. Her brother says the scales must be broken, because they do not match. Is he right? Explain.",
+     "p": "A girl stands on two bathroom scales, one foot on each. One reads 14 kilograms and the other reads 16. Her brother says the scales must be broken, because they do not match. Is he right? Explain.",
      "lines": 4,
-     "a": "A strong answer says no. Sowmya is probably leaning a little to one side, so one foot presses harder. The total, 30 kilograms, is what she weighs. Leaning moves her weight between the scales, but the total stays the same.",
+     "a": "A strong answer says no. The girl is probably leaning a little to one side, so one foot presses harder. The total, 30 kilograms, is what she weighs. Leaning moves her weight between the scales, but the total stays the same.",
      "why": "Each scale shows how hard it is pushing up. Together they hold up all of her.",
      "how": "a2",
      "context": "In the Two Scales, One You activity, you stand with one foot on each of two bathroom scales."
@@ -3325,7 +3325,7 @@
      "p": "Einstein said his happiest thought was this: a person falling from a roof would not feel their own weight. Explain why a falling person feels no weight.",
      "lines": 4,
      "a": "A strong answer says we feel our weight only through the push of whatever holds us up, like a floor or a chair. A falling person has nothing holding them up, so nothing pushes on them. Gravity still pulls, but they feel weightless.",
-     "why": "Weight you feel is the support force. No support, no feeling of weight. This is also why the leaky bottle stops squirting as it falls."
+     "why": "The weight you feel is the support force. With no support, there is no feeling of weight. This is also why the leaky bottle stops squirting as it falls."
     },
     {
      "t": "mcq",

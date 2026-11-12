@@ -3,12 +3,12 @@
  "title": "Fair tests: change one thing and keep the rest the same",
  "level": 3,
  "summary": {
-  "text": "A slice of apple left on a plate turns brown. Does lemon juice stop it? You can only find out if every slice gets the same apple, the same air and the same wait, and only the lemon is different. That is a fair test: change one thing, keep everything else the same, and watch what happens. You will also learn to write results in a table, and why one try is never enough.",
+  "text": "A slice of apple left on a plate turns brown. Does lemon juice stop it? You can only find out if every slice comes from the same apple, sits in the same air and waits the same time, and only the lemon is different. That is a fair test: change one thing, keep everything else the same, and watch what happens. You will also learn to write results in a table, and why one try is never enough.",
   "art": "Four apple slices in a row on a steel plate, three turning brown and one still white, with a child's hand-drawn results table beside them."
  },
  "intro": {
-  "hook": "Lakshmi drops her rubber ball from above her head. Her little brother drops his plastic ball from his knee. Her ball bounces much higher. \"My ball is bouncier!\" she says. Is she right?",
-  "text": "We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, they must fall from the same height onto the same floor. Then the ball is the only thing left that is different.",
+  "hook": "Two children each drop a ball. The girl drops a rubber ball from above her head. Her little brother drops a plastic ball from his knee. The rubber ball bounces much higher. \"My ball is bouncier!\" she says. Is she right?",
+  "text": "We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, both must fall from the same height onto the same floor. Then the ball is the only thing left that is different.",
   "art": "A girl holding a red ball high above her head and a small boy holding a blue ball at his knee, both about to drop them on a tiled floor."
  },
  "outcomes": [
@@ -132,10 +132,10 @@
    "concept": "Why changing two things at once spoils a test",
    "status": "defined",
    "definition": "When two things change at once, you cannot tell which one caused the result. A test can answer one question at a time.",
-   "description": "Meenakshi puts sugar in two tumblers of water. One tumbler has warm water and she stirs it. The other has cold water and she does not stir it. The sugar in the warm, stirred tumbler disappears first. Was it the warm water or the stirring? She cannot know, because she changed both. To find out, she does two fair tests. First, warm and cold water, both stirred. Then stirred and not stirred, both cold.",
+   "description": "Put sugar in two tumblers of water. One tumbler has warm water and you stir it. The other has cold water and you do not stir it. The sugar in the warm, stirred tumbler disappears first. Was it the warm water or the stirring? You cannot know, because you changed both. To find out, do two fair tests. First, warm and cold water, both stirred. Then stirred and not stirred, both cold.",
    "examples": [
     "A plant on the balcony grows better than one inside. But it also got more water. Was it the light or the water?",
-    "Divya's new chappals feel faster in a race. But she also ran on a smoother road that day."
+    "New chappals feel faster in a race. But the race was also on a smoother road that day. Was it the chappals or the road?"
    ],
    "perspectives": [],
    "art": "Two tumblers of sugar water, one steaming with a spoon in it and one cold with no spoon, and a big question mark between them.",
@@ -159,7 +159,7 @@
    "concept": "Writing results in a table",
    "status": "defined",
    "definition": "A results table has rows and columns. Each column has a heading that says what it holds, with the unit, such as 'Height (cm)'. Each row is one thing you tested.",
-   "description": "When you test, you see many things quickly, and memory forgets. A table keeps every result in its place. Draw it before you start, so you are ready. Put the thing you change in the first column. Put what you measure or see in the next columns. Write the units in the headings, not after every number. Later, you can read across a row to see one thing, or down a column to compare all of them. Florence Nightingale, a nurse in the Crimean War (1854 to 1856), kept careful tables of the soldiers who died in army hospitals. They showed that many more soldiers died of diseases than of their wounds. Her records helped make hospitals cleaner.",
+   "description": "When you test, you see many things quickly, and it is easy to forget them. A table keeps every result in its place. Draw it before you start, so you are ready. Put the thing you change in the first column. Put what you measure or see in the next columns. Write the units in the headings, not after every number. Later, you can read across a row to see one thing, or down a column to compare all of them. Florence Nightingale, a nurse in the Crimean War (1854 to 1856), kept careful tables of the soldiers who died in army hospitals. They showed that many more soldiers died of diseases than of their wounds. Her records helped make hospitals cleaner.",
    "examples": [
     "Apple test: one row for each slice, one column for each time you look.",
     "Bounce test: one row for each ball, three columns for three drops.",
@@ -173,7 +173,7 @@
    "concept": "Why we repeat a test",
    "status": "defined",
    "definition": "Doing a test only once can mislead you, because one try can be a fluke. Repeating it in the same way shows whether the result is real.",
-   "description": "Throw a paper ball at a bucket once and it may go in by luck. Throw it ten times and you learn how good the throw really is. Small things change from try to try: how your hand moves, a breath of wind, where the ball lands. Repeating a test lets these small changes even out. If one result is very different from the others, look for a reason. Maybe the ball hit the edge of the table. Write it down, try again, and say what happened.",
+   "description": "Throw a paper ball at a bucket once and it may go in by luck. Throw it ten times and you learn how good the throw really is. Small things change from try to try: how your hand moves, a little wind, where the ball lands. Repeating a test lets these small changes even out. If one result is very different from the others, look for a reason. Maybe the ball hit the edge of the table. Write down what happened, and try again.",
    "examples": [
     "Drop each ball three times and look at all three heights.",
     "Count how many of 10 throws go in, not just the first one.",
@@ -201,7 +201,7 @@
    "concept": "Can every question be answered with a fair test?",
    "status": "debated",
    "definition": "",
-   "description": "A fair test needs you to change one thing yourself. Sometimes that is impossible, or unkind. Nobody can change the Sun to see what happens. Nobody should make people ill to test a cure. Scientists have other careful ways to find out. They compare many observations, or they wait for nature to make the change for them. People still argue about how sure these other ways can make us.",
+   "description": "A fair test needs you to change one thing yourself. Sometimes that is impossible, or unkind. Nobody can change the Sun to see what happens. Nobody should make people ill to test a cure. Scientists have other careful ways to find out. They compare many observations, or they wait for nature to make the change for them. People still argue about how sure we can be of answers found in these other ways.",
    "examples": [
     "Astronomers cannot change a star, so they compare thousands of stars of different sizes.",
     "To learn whether a medicine works, doctors give it to people who are already ill, and compare them with a similar group who get the usual care."
@@ -235,7 +235,7 @@
   },
   {
    "text": "Results should be written down at the time, in a clear table.",
-   "evidence": "Florence Nightingale's tables of hospital deaths showed what nobody had seen from memory alone."
+   "evidence": "Florence Nightingale's tables of hospital deaths showed something nobody had noticed from memory alone."
   },
   {
    "text": "Lemon juice slows the browning of a cut apple.",
@@ -290,7 +290,7 @@
   {
    "q": "How many times must you repeat a test before you are sure?",
    "kind": "deep",
-   "hint": "Think about the paper ball throws. When did the tally stop surprising you?"
+   "hint": "Think about Ten Throws. After how many throws did the tally stop surprising you?"
   },
   {
    "q": "You can't test the Sun, or the dinosaurs. How do we know anything about them?",
@@ -378,11 +378,11 @@
      "title": "16 test cards (print front and back: the answer is on the back)",
      "items": [
       {
-       "f": "Meenakshi tests which wrapping keeps an idli warm longest. She wraps one idli in a banana leaf and one in foil. The idlis are the same size, from the same batch, and she feels both after 20 minutes.",
+       "f": "A test of which wrapping keeps an idli warm longest. One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch. Both are felt after 20 minutes.",
        "b": "FAIR. Only the wrapping is different. Everything else is the same."
       },
       {
-       "f": "Farhan drops two balls from the same height onto the same tiled floor.",
+       "f": "A test of which ball bounces higher. Two balls are dropped from the same height onto the same tiled floor.",
        "b": "FAIR. Only the ball is different, so the ball is the only thing that can explain a higher bounce.",
        "img": {
         "src": "media/cards/fair-tests-g1-0-01.jpg",
@@ -390,7 +390,7 @@
        }
       },
       {
-       "f": "Divya tests which soil grows beans better. She puts red soil in a big pot by the window and black soil in a small pot in the shade.",
+       "f": "A test of which soil grows beans better. Red soil goes in a big pot by the window. Black soil goes in a small pot in the shade.",
        "b": "UNFAIR. The soil, the pot size and the light are all different. Fix: use two pots of the same size, in the same place, with the same water and the same kind of bean.",
        "img": {
         "src": "media/cards/fair-tests-g1-0-02.jpg",
@@ -398,7 +398,7 @@
        }
       },
       {
-       "f": "Gauri tests which wrapping stops a cut banana going dark. She cuts three equal pieces from one banana. She wraps one in cloth and one in foil, and leaves one open. She looks at all three after an hour.",
+       "f": "A test of which wrapping stops a cut banana going dark. Three equal pieces are cut from one banana. One is wrapped in cloth, one is wrapped in foil, and one is left open. All three are checked after an hour.",
        "b": "FAIR. Only the wrapping is different. The open piece is the control.",
        "img": {
         "src": "media/cards/fair-tests-g1-0-03.jpg",
@@ -406,47 +406,47 @@
        }
       },
       {
-       "f": "Revathi puts one apple slice in the fridge and one on the table, and puts lemon only on the fridge slice.",
+       "f": "One apple slice goes in the fridge and one stays on the table. Lemon is put only on the fridge slice.",
        "b": "UNFAIR. The place and the lemon are both different. Fix: change only one, for example keep both slices on the table and put lemon on one."
       },
       {
-       "f": "Anjali dries one hanky in the sun and one in the bathroom. Both are the same cloth and equally wet. She is testing where it dries faster.",
+       "f": "A test of where a hanky dries faster. One hanky dries in the sun and one in the bathroom. Both are the same cloth and equally wet.",
        "b": "FAIR. Only the place is different. The cloth and the wetness are the same."
       },
       {
-       "f": "Hetal tests which cloth soaks up the most water. She uses a big towel and a small hanky.",
+       "f": "A test of which cloth soaks up the most water. The two cloths are a big towel and a small hanky.",
        "b": "UNFAIR. The size is different as well as the cloth. Fix: cut the same size piece from each cloth."
       },
       {
-       "f": "Kavya times two toy cars down the same ramp. She lets go of both without pushing.",
+       "f": "Two toy cars are timed down the same ramp. Both are let go without a push.",
        "b": "FAIR. Only the car is different. Same ramp, same start, no push."
       },
       {
-       "f": "Mitali times her own run on the road and her friend's run on sand.",
+       "f": "A girl times her own run on the road and her friend's run on sand.",
        "b": "UNFAIR. The ground and the runner are both different. Fix: the same person runs on both, or two friends run on the same ground."
       },
       {
-       "f": "Joseph tests whether warm water dissolves sugar faster. He puts one spoon of sugar in each tumbler and stirs both the same way.",
+       "f": "A test of whether warm water dissolves sugar faster. One spoon of sugar goes in each tumbler, and both are stirred the same way.",
        "b": "FAIR. Only the warmth is different. The sugar and the stirring are the same."
       },
       {
-       "f": "Shalini tests whether warm water dissolves sugar faster. She stirs only the warm one.",
+       "f": "A test of whether warm water dissolves sugar faster. Only the warm tumbler is stirred.",
        "b": "UNFAIR. The warmth and the stirring are both different. Fix: stir both tumblers the same way, or neither."
       },
       {
-       "f": "Meera throws a paper ball once overarm and once underarm, and decides which is better.",
+       "f": "A paper ball is thrown once overarm and once underarm, to decide which way is better.",
        "b": "UNFAIR. One try each can be a fluke. Fix: throw ten times each from the same line."
       },
       {
-       "f": "Asha throws a paper ball 10 times underarm and 10 times overarm from the same line.",
+       "f": "A paper ball is thrown 10 times underarm and 10 times overarm from the same line.",
        "b": "FAIR. Same line, same ball, same number of throws. Only the way of throwing is different."
       },
       {
-       "f": "Sowmya tests which shoe grips best. She tests one on the tiled floor and the other on the doormat.",
+       "f": "A test of which shoe grips best. One shoe is tested on the tiled floor and the other on the doormat.",
        "b": "UNFAIR. The shoe and the floor are both different. Fix: test both shoes on the same floor."
       },
       {
-       "f": "Arun tests which paper plane flies furthest. He throws one and his sister throws the other.",
+       "f": "A test of which paper plane flies furthest. A boy throws one plane and his sister throws the other.",
        "b": "UNFAIR. The plane and the thrower are both different. Fix: the same person throws both planes, several times each.",
        "img": {
         "src": "media/cards/fair-tests-g1-0-14.jpg",
@@ -454,7 +454,7 @@
        }
       },
       {
-       "f": "Nandini tests which cloth keeps ice from melting. She wraps ice cubes of the same size from one tray in different cloths and checks them all at the same times.",
+       "f": "A test of which cloth keeps ice from melting. Ice cubes of the same size from one tray are wrapped in different cloths. All are checked at the same times.",
        "b": "FAIR. Only the cloth is different. The ice cubes and the checking times are the same.",
        "img": {
         "src": "media/cards/fair-tests-g1-0-15.jpg",
@@ -500,18 +500,18 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Read the top card as a practice round: Meenakshi's idlis in two wrappings.",
-     "say": "Meenakshi wraps one idli in a banana leaf and one in foil. The idlis are the same size, from the same batch. She feels both after 20 minutes. Fair or unfair?",
+     "do": "Read the top card as a practice round: the idlis in two wrappings.",
+     "say": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size, from the same batch. Both are felt after 20 minutes. Fair or unfair?",
      "kid": "One idli in a banana leaf, one in foil. Same size, same batch. Fair or unfair?",
      "check": {
       "t": "mcq",
-      "q": "Meenakshi wraps one idli in a banana leaf and one in foil. The idlis are the same size and from the same batch, and she feels both after 20 minutes. Is her test fair?",
+      "q": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch, and both are felt after 20 minutes. Is this test fair?",
       "options": [
        "Fair, because only the wrapping is different",
-       "Unfair, because she used two wrappings"
+       "Unfair, because two wrappings were used"
       ],
       "a": 0,
-      "why": "Only the wrapping changes. The idlis, the time and the way she checks are the same, so any difference must come from the wrapping."
+      "why": "Only the wrapping changes. The idlis, the time and the way they are checked are the same, so any difference must come from the wrapping."
      }
     },
     {
@@ -522,7 +522,7 @@
      "kid": "Read a card. Hold up FAIR or UNFAIR. If unfair, say how to fix it.",
      "ask": [
       {
-       "q": "How would you make Hetal's cloth test fair?",
+       "q": "One card tests a big towel against a small hanky. How would you make that cloth test fair?",
        "good": [
         "Use two cloths of the same size.",
         "Cut the same size piece from each cloth."
@@ -804,7 +804,7 @@
     {
      "id": "s6",
      "mins": 10,
-     "do": "Ask your child to say or write a claim, the evidence and a reason. Then read the card on why apples turn brown together.",
+     "do": "Ask your child to say or write what they found (a claim), what they saw (the evidence) and why they think it happened (a reason). Then read together the card 'Why a cut apple turns brown, and what lemon does'.",
      "say": "What did you find out? What did you see that shows it? Why do you think it happened?",
      "kid": "What did you find? What did you see? Why do you think so?",
      "ask": [
@@ -961,7 +961,7 @@
      "mins": 4,
      "do": "Count the tallies, write the numbers and compare.",
      "say": "Which throw got more in? Was the first throw a good guide?",
-     "kid": "Count the tallies. Which throw won? Did the first throw tell the truth?",
+     "kid": "Count the tallies. Which throw won? Did the first throw give the right answer?",
      "ask": [
       {
        "q": "What would you change to make the test even better?",
@@ -972,7 +972,7 @@
        ]
       }
      ],
-     "parent": "Results differ from child to child. Many children land more underarm from close up, but not all. Throwing underarm and overarm in turns means practice and tiredness help both ways equally. A child who notices a problem such as a bucket that is too easy has spotted something real."
+     "parent": "Results differ from child to child. Many children get more balls in underarm from close up, but not all. Throwing underarm and overarm in turns means practice and tiredness affect both ways equally. A child who notices a problem, such as a bucket that is too easy, has spotted something real."
     }
    ],
    "example_chart": {
@@ -1019,7 +1019,7 @@
    "context": "Many cooks in India put cut brinjal into a bowl of water until it is time to cook. In this experiment you test whether the water really stops it going brown.",
    "question": "Does keeping cut brinjal under water stop it turning brown?",
    "predict": "Which brinjal piece do you think will stay pale longest: the one on a plate, the one under water, or the one under salt water? Why do you think so?",
-   "fair_test": "The thing we change: where each piece waits: on a plate, under plain water, or under salt water. The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a steel lid, or the top would be in the air. The piece on the plate is the control.",
+   "fair_test": "The thing we change: where each piece waits (on a plate, under plain water, or under salt water). The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a steel lid, or the top would be in the air. The piece on the plate is the control.",
    "results_table": [
     "Piece",
     "Where it waited",
@@ -1073,7 +1073,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in each bowl and press it under with a steel lid.",
+     "do": "1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in the bowl of plain water and one in the bowl of salt water, and press each under with a steel lid.",
      "say": "Look, the brinjal floats. If it floats, its top is in the air. Is that fair? So I hold each one under.",
      "kid": "The brinjal floats! The top is in the air. So hold it under with a steel lid.",
      "adult": true,
@@ -1093,7 +1093,7 @@
      "do": "At 20 minutes, take all three out and put them side by side. Compare and talk.",
      "say": "Put them side by side. What do you see? Were the cooks right?",
      "kid": "Put all three side by side. Were the cooks right?",
-     "wait": "Wait until 20 minutes.",
+     "wait": "Wait until 20 minutes have passed.",
      "ask": [
       {
        "q": "What did the water do, and how do you know?",
@@ -1409,7 +1409,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Read the How We Found Out card about James Lind. Lay out 12 paper sailors in pairs, with one label beside each pair.",
+     "do": "Read the How We Found Out card about James Lind. Lay out 12 paper sailors in pairs, with a label beside each pair naming its treatment.",
      "say": "Lind had twelve sick sailors. He gave each pair a different treatment. What did he keep the same for all of them?",
      "kid": "Twelve sick sailors, in pairs. Each pair gets something different. What stayed the same?",
      "context": "This is the start of the James Lind act-out, about the first famous fair test in medicine.",
@@ -1657,8 +1657,8 @@
      "id": "s2",
      "mins": 12,
      "do": "Run the test ten times. Record each guess as right or wrong.",
-     "say": "Ten tries. Change the order with a coin toss each time. Write right or wrong.",
-     "kid": "Ten tries. Toss a coin for the order. Write right or wrong.",
+     "say": "Ten tries. Toss a coin each time to decide the order. Write 'right' or 'wrong' for each guess.",
+     "kid": "Ten tries. Toss a coin for the order. Write 'right' or 'wrong' each time.",
      "adult": true,
      "parent": "A grown-up boils the water earlier and lets it cool fully, so it is the same temperature as the tap water."
     },
@@ -1724,7 +1724,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan wants to know which of two balls is bouncier. What must he do?",
+   "p": "You want to know which of two balls is bouncier. What must you do?",
    "opts": [
     "Drop them from different heights",
     "Drop them from the same height onto the same floor",
@@ -1737,20 +1737,20 @@
   },
   {
    "t": "mcq",
-   "p": "Divya puts one tomato plant on the sunny balcony and waters that plant every day. She puts another inside and forgets to water it. The balcony plant grows better. What is wrong with her test?",
+   "p": "One tomato plant sits on the sunny balcony and is watered every day. Another sits inside and is not watered. The balcony plant grows better. What is wrong with this test?",
    "opts": [
     "Nothing, it is fair",
-    "She changed two things: the light and the water",
-    "She used plants",
-    "She should have used three plants"
+    "Two things were different: the light and the water",
+    "It used plants",
+    "It should have used three plants"
    ],
    "a": 1,
-   "why": "Light and water were both different, so she cannot tell which one helped the balcony plant.",
+   "why": "Light and water were both different, so nobody can tell which one helped the balcony plant.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Lakshmi tests whether lemon keeps an apple slice white. Why does she also keep one slice with nothing on it?",
+   "p": "In a test of whether lemon keeps an apple slice white, why is one slice kept with nothing on it?",
    "opts": [
     "To eat it",
     "To compare: it shows what happens with no lemon",
@@ -1778,7 +1778,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera throws a paper ball once underarm and it goes in. She throws once overarm and misses. What should she do next?",
+   "p": "You throw a paper ball once underarm and it goes in. You throw once overarm and miss. What should you do next?",
    "opts": [
     "Decide underarm is better",
     "Throw many more times each, the same way",
@@ -1805,21 +1805,21 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya's table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can she say?",
+   "p": "A table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can you say from it?",
    "opts": [
     "Overarm got more in",
-    "Underarm got more in, in her test",
+    "Underarm got more in, in this test",
     "They were the same",
-    "She can't say anything"
+    "You can't say anything"
    ],
    "a": 1,
-   "why": "7 is more than 4. So in her ten throws each, more went in underarm. She could repeat it to be surer.",
+   "why": "7 is more than 4. So in this test of ten throws each, more went in underarm. Repeating the test would make you surer.",
    "outcome": 3,
    "how": "e2"
   },
   {
    "t": "mcq",
-   "p": "A cut apple slice turns brown because:",
+   "p": "Why does a cut apple slice turn brown?",
    "opts": [
     "It is dirty",
     "Substances in the broken cells meet oxygen in the air",
@@ -1859,15 +1859,15 @@
   },
   {
    "t": "mcq",
-   "p": "Shalini's test shows something she didn't expect. What is the best thing to do?",
+   "p": "Your test shows something you didn't expect. What is the best thing to do?",
    "opts": [
-    "Change the result to match her guess",
+    "Change the result to match your guess",
     "Keep the result, check the test was fair, and repeat it",
     "Throw the table away",
     "Say the test is broken"
    ],
    "a": 1,
-   "why": "An unexpected result is still a result. If the test was fair and gives the same result again, she has learned something new.",
+   "why": "An unexpected result is still a result. If the test was fair and gives the same result again, you have learned something new.",
    "outcome": 5
   }
  ],
@@ -1880,7 +1880,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Revathi wants to know which floats longer, a paper boat folded from newspaper or one folded from a notebook page. Which test is fair?",
+     "p": "Which floats longer: a paper boat folded from newspaper, or one folded from a notebook page? Which test is fair?",
      "a": 1,
      "why": "The boats must be the same size, and they must float in the same water at the same time. Only the paper is different.",
      "opts": [
@@ -1891,7 +1891,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Meenakshi says, 'If I change two things at once, I can still tell which one made the difference.' Is she right?",
+     "p": "True or false: if you change two things at once, you can still tell which one made the difference.",
      "a": false,
      "why": "False. If two things change together, either one could have caused the result. Change one thing at a time."
     },
@@ -1901,27 +1901,27 @@
      "a": [
       "control"
      ],
-     "why": "The control shows what happens anyway. The plain apple slice was the control."
+     "why": "The control shows what happens anyway. In the Brown Apple Test, the plain apple slice was the control."
     },
     {
      "t": "write",
-     "p": "Bhavana says her new cricket bat hits the ball further than her old one. She hit with the old bat on a calm morning, and with the new bat on a windy evening. Why can't she be sure the new bat is better?",
+     "p": "A new cricket bat seems to hit the ball further than the old one. But the old bat was used on a calm morning, and the new bat on a windy evening. Why can't we be sure the new bat is better?",
      "a": "Two things were different: the bat and the weather. The wind could have carried the ball further, not the bat.",
      "why": "A strong answer names both differences, the bat and the wind, and says either could explain the result.",
      "lines": 3
     },
     {
      "t": "sort",
-     "p": "Kavya is testing whether lemon keeps apple white. Sort each thing: does she change it, or keep it the same?",
+     "p": "In a test of whether lemon keeps apple white, sort each thing: is it changed, or kept the same?",
      "a": "see items",
-     "why": "She changes only what goes on the slice. Everything else stays the same so it cannot make a difference.",
+     "why": "Only what goes on the slice is changed. Everything else stays the same so it cannot make a difference.",
      "cats": [
       "Change",
       "Keep the same"
      ],
      "items": [
       [
-       "what she puts on each slice",
+       "what goes on each slice",
        "Change"
       ],
       [
@@ -1937,7 +1937,7 @@
        "Keep the same"
       ],
       [
-       "the time she checks",
+       "the time the slices are checked",
        "Keep the same"
       ],
       [
@@ -2015,7 +2015,7 @@
     },
     {
      "t": "write",
-     "p": "In your apple test, which slice stayed whitest? Use your table as evidence.",
+     "p": "In the Brown Apple Test, which slice stayed whitest? Use your table as evidence.",
      "a": "For example: the lemon slice. It scored 0 at 30 minutes while the plain slice scored 2.",
      "why": "A strong answer names the slice and quotes the scores or colours from the table, comparing it with the control.",
      "lines": 3,
@@ -2082,25 +2082,25 @@
    "items": [
     {
      "t": "write",
-     "p": "Farhan wants to know if salt makes ice melt faster. Plan a fair test. Write what he changes, what he keeps the same, and what he watches.",
+     "p": "Does salt make ice melt faster? Plan a fair test. Write what you change, what you keep the same, and what you watch.",
      "a": "Change: salt or no salt on the ice cube. Keep the same: cubes from the same tray, same size, same plates, same place, same time. Watch: which cube melts first, or how much water there is after 15 minutes.",
      "why": "A strong plan has all three parts and a control cube with no salt.",
      "lines": 5
     },
     {
      "t": "mcq",
-     "p": "Nila tests paper planes. She throws plane A three times: 3 m, 4 m, 3 m. She throws plane B three times: 6 m, 1 m, 3 m. What can she say?",
+     "p": "Paper plane A is thrown three times: 3 m, 4 m, 3 m. Plane B is thrown three times: 6 m, 1 m, 3 m. What can you say?",
      "a": 1,
-     "why": "A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so she can't yet say which is better. She should throw more.",
+     "why": "A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so you can't yet say which is better. More throws are needed.",
      "opts": [
       "Plane B is better because it went 6 m once",
-      "She can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total",
+      "You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total",
       "Plane A is broken"
      ]
     },
     {
      "t": "write",
-     "p": "Tanvi wants to know whether newspaper or notebook paper makes a paper plane that flies further. Write what she changes, two things she keeps the same, and what she measures.",
+     "p": "Does newspaper or notebook paper make a paper plane that flies further? Plan a fair test. Write what you change, two things you keep the same, and what you measure.",
      "a": "Change: the kind of paper. Keep the same: the plane's fold and size, the thrower, the throwing spot, the number of throws. Measure: how far each plane flies, in metres.",
      "why": "A strong plan has all three parts, and the things kept the same are ones that could really change the distance.",
      "lines": 5
@@ -2212,18 +2212,18 @@
     },
     {
      "t": "order",
-     "p": "Divya does the sugar puzzle. Put her tests in an order that untangles warmth and stirring.",
+     "p": "Put these sugar puzzle tests in an order that untangles warmth and stirring.",
      "a": [
-      "Warm and stirred against cold and not stirred: she cannot tell which helped",
+      "Warm and stirred against cold and not stirred: you cannot tell which helped",
       "Cold and stirred against cold and not stirred: this shows what stirring does",
       "Warm and stirred against cold and stirred: this shows what warmth does",
-      "She says what each one did"
+      "Say what warmth did and what stirring did"
      ],
-     "why": "First the unfair test shows the problem. Then two fair tests change one thing each. Then she concludes.",
+     "why": "First the unfair test shows the problem. Then two fair tests change one thing each. Then comes the conclusion.",
      "items": [
-      "She says what each one did",
+      "Say what warmth did and what stirring did",
       "Cold and stirred against cold and not stirred: this shows what stirring does",
-      "Warm and stirred against cold and not stirred: she cannot tell which helped",
+      "Warm and stirred against cold and not stirred: you cannot tell which helped",
       "Warm and stirred against cold and stirred: this shows what warmth does"
      ],
      "how": "a3"
@@ -2300,7 +2300,7 @@
     },
     {
      "t": "write",
-     "p": "Arun says his toy car is faster because it beat his sister's car down the stairs. Write one question you would ask him to check if his test was fair.",
+     "p": "Someone says their toy car is faster because it beat another car down the stairs. Write one question you would ask to check if the test was fair.",
      "a": "For example: Did both cars start from the same step? Did you both let go without pushing?",
      "why": "A strong question names one thing that might have been different apart from the car.",
      "lines": 2
@@ -2342,7 +2342,7 @@
      "t": "mcq",
      "p": "In a fair test of salt on ice, the salted cube makes more water in 15 minutes. But the salt itself has also dissolved into the water. What does this mean?",
      "a": 1,
-     "why": "The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. A larger difference than the salt could explain still shows the salt melted more ice.",
+     "why": "The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. If the difference is bigger than the salt alone could add, it still shows that the salt melted more ice.",
      "opts": [
       "The test is useless",
       "The salt adds a little to the water, so a small difference might not mean much",
@@ -2351,7 +2351,7 @@
     },
     {
      "t": "write",
-     "p": "Your plain apple slice went brown with nothing on it. What was making it brown? How does this help you understand what the lemon did?",
+     "p": "In the Brown Apple Test, the plain apple slice went brown with nothing on it. What was making it brown? How does this help you understand what the lemon did?",
      "a": "Air, warmth and the cut were browning it, because the apple's broken cells meet oxygen. Every slice had those. So the plain slice shows what happens without lemon, and the difference with the lemon slice is what the lemon did.",
      "why": "A strong answer names the causes every slice shared and uses the control to explain the lemon's effect.",
      "lines": 5,
@@ -2455,7 +2455,7 @@
       "Why I think it happened (my reasoning)",
       "What I would test next"
      ],
-     "why": "Claim, evidence, reasoning, and then a new question.",
+     "why": "First the claim, then the evidence, then the reasoning, and last a new question to test.",
      "items": [
       "Why I think it happened (my reasoning)",
       "What I would test next",
@@ -2608,7 +2608,7 @@
  ],
  "maths": [
   {
-   "problem": "In Ten Throws, Kavya got 7 of 10 balls in underarm and 4 of 10 overarm. How many more went in underarm?",
+   "problem": "In Ten Throws, 7 of 10 balls went in underarm and 4 of 10 went in overarm. How many more went in underarm?",
    "answer": "3 more went in underarm.",
    "explain": "7 take away 4 is 3. So underarm got 3 more balls in out of the same 10 throws.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2617,7 +2617,7 @@
    "how": "e2",
    "chart": {
     "type": "bar",
-    "title": "Kavya's Ten Throws",
+    "title": "Ten Throws results",
     "x": "Throw",
     "y": "Balls in, out of 10",
     "data": [
@@ -2643,9 +2643,9 @@
    "why_maths": "Adding up all the tries is fairer than looking at one try, because one try can be a fluke."
   },
   {
-   "problem": "Kavya's family did the Family Balance Table. Her grandmother, Paati, stood on one foot for 20, 22 and 18 seconds. Her father, Appa, stood for 8, 10 and 12 seconds. About how many times longer did Paati balance?",
+   "problem": "In the Family Balance Table, a grandmother stood on one foot for 20, 22 and 18 seconds. A father stood for 8, 10 and 12 seconds. About how many times longer did the grandmother balance?",
    "answer": "About 2 times as long.",
-   "explain": "Paati's total is 20 + 22 + 18 = 60 seconds. Appa's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30.",
+   "explain": "The grandmother's total is 20 + 22 + 18 = 60 seconds. The father's total is 8 + 10 + 12 = 30 seconds. 60 is 2 times 30.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "This is about the Family Balance Table, where each person in the family stands on one foot three times.",
    "why_maths": "Saying 'about 2 times as long' compares the two people more clearly than just 'longer'.",
@@ -2660,9 +2660,9 @@
    "why_maths": "Sharing into equal groups keeps a test fair, so every treatment gets the same number of people."
   },
   {
-   "problem": "Nila's plane A flew 3, 4 and 3 metres. Plane B flew 6, 1 and 3 metres. Which plane is more reliable, and why might B's 6 be a fluke?",
+   "problem": "Paper plane A flew 3, 4 and 3 metres. Plane B flew 6, 1 and 3 metres. Which plane is more reliable, meaning it flies about the same distance each time? Why might B's 6 be a fluke?",
    "answer": "Plane A is more reliable. Its throws are close together. B's throws jump about, and its 6 metres happened only once.",
-   "explain": "Both planes add up to 10 metres. But A's three numbers are all close, while B's are very different from each other. A number far from the others might be a fluke, so Nila should throw more times.",
+   "explain": "Both planes add up to 10 metres. But A's three numbers are all close, while B's are very different from each other. A number far from the others might be a fluke, so more throws are needed.",
    "math_unit": "math.measurement-basics.estimation-and-precision.L3",
    "context": "This is about testing two paper planes three times each.",
    "why_maths": "Looking at how spread out the numbers are tells you how much to trust a result."
@@ -2791,16 +2791,16 @@
  "roots": {
   "context": "We have run fair tests, kept a control and written our results in tables. Now we ask what fair tests tell us about how we know anything.",
   "deep_truth": {
-   "truth": "Your lemon slice stayed white, but on its own that proved nothing. It meant something only beside the plain slice, which browned in the same air. A cause can be seen only by comparing. To know what one thing does, you must also watch what happens without it.",
-   "habit": "We think we can see a cause just by watching it work: lemon goes on, the slice stays white. But the white slice alone could not tell us whether it would have stayed white anyway. Only the comparison with the plain slice showed what the lemon did.",
+   "truth": "In the Brown Apple Test, the lemon slice stayed white, but on its own that proved nothing. It meant something only beside the plain slice, which went brown in the same air. You can see what causes something only by comparing. To know what one thing does, you must also watch what happens without it.",
+   "habit": "We think we can see a cause just by watching it work: lemon goes on, the slice stays white. But in the Brown Apple Test, the white slice alone could not tell us whether it would have stayed white anyway. Only the comparison with the plain slice showed what the lemon did.",
    "evidence": "In the Brown Apple Test, the plain slice and the lemon slice came from one apple, sat on one plate and waited the same time. Only the lemon was different, and only by putting the two side by side could you see what the lemon did."
   },
   "three": {
-   "who_am_i": "You know you have grown only by comparing: a pencil mark on the wall from last year.",
-   "what_is_life": "A cut apple browns because the plant's cells answer the cut. Living things are always answering what happens to them.",
-   "what_is_this_world": "Air, warmth and the cut were acting on every slice at once. In the world, many causes always act together."
+   "who_am_i": "You can tell you have grown only by comparing, for example with last year's pencil mark on the wall.",
+   "what_is_life": "A cut apple browns because the apple's cells react to the cut. Living things always react to what happens to them.",
+   "what_is_this_world": "In the Brown Apple Test, air, warmth and the cut all acted on every slice at the same time. In the world, many causes always act together."
   },
-  "thread": "On the plate, air, warmth, the cut and the apple's own substances all act together on each slice. Nature does them all at once, as one happening. In a fair test, we hold all but one of them the same, so that one can be noticed. The many causes we name are parts we pick out of one whole happening. Science studies the parts, and the parts still belong to one whole.",
+  "thread": "In the Brown Apple Test, air, warmth, the cut and the apple's own substances all act on each slice at the same time. In nature they happen together, as one event. In a fair test, we keep all but one of them the same, so that we can notice what that one does. The causes we name are parts that we pick out of one whole event. Science studies the parts, but the parts still belong to the whole.",
   "teachings": [
    {
     "source": "Kalama Sutta, Anguttara Nikaya 3.65",
@@ -2825,7 +2825,7 @@
   ],
   "other_view": {
    "who": "The Charvaka school of ancient India",
-   "view": "The Charvakas said that only what we perceive directly is sure knowledge. Inference can always be wrong, because we can never check every case. You saw a white slice and a brown slice. Saying 'the lemon caused it' is an inference, and a new apple might behave differently."
+   "view": "The Charvakas said that only what we perceive directly is sure knowledge. Inference can always be wrong, because we can never check every case. In the Brown Apple Test, you saw a white slice and a brown slice. Saying 'the lemon caused it' is an inference, and a new apple might behave differently."
   },
   "practice": {
    "title": "One thing different",
