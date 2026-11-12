@@ -8,7 +8,7 @@
   "sci.animals.animal-life-cycles.L4"
  ],
  "summary": {
-  "text": "In dry parts of India, people once drank from step wells, and about a year later a worm as long as an arm pushed out through the skin of their foot. The worm was never in the water as a worm. She began as a speck inside a tiny water animal that nobody noticed. A folded piece of old sari cloth over the pot stopped her. Your child tests which cloth catches pretend water animals and how fast the water flows through, then follows the journeys of the Guinea worm, the filaria worm, the malaria parasite and a liver fluke, and finds out why a parasite that must pass through several bodies has to lay thousands of eggs so that one of them may succeed.",
+  "text": "In dry parts of India, people once drank from step wells. About a year later, a worm as long as an arm pushed out through the skin of their foot. The worm was never in the water as a worm. She began as a speck inside a tiny water animal that nobody noticed. A folded piece of old sari cloth over the pot stopped her. Your child tests which cloth catches pretend water animals and how fast the water flows through. Then your child follows the journeys of the Guinea worm, the filaria worm, the malaria parasite and a liver fluke. A parasite that must pass through several bodies loses most of her eggs on the way, and your child finds out why she has to lay thousands for one to succeed.",
   "art": "A woman stretching a folded old sari cloth over the mouth of a clay matka and pouring water through it, while a tiny water animal as big as a poppy seed is drawn large in a circle beside her."
  },
  "intro": {
@@ -24,7 +24,7 @@
   "I can describe how a mosquito carries the filaria worm and the malaria parasite, and why malaria fever comes in waves.",
   "I can say how a liver fluke, a tapeworm and a mite each reach a new host, and how to break each journey.",
   "I can choose the weakest link in a life cycle, and say what would break it.",
-  "I can tell how Patrick Manson's wrong guess about the filaria worm was shown to be wrong by George Low."
+  "I can tell how George Low showed that Patrick Manson's guess about the filaria worm was wrong."
  ],
  "cards_mins": 22,
  "terms": [
@@ -73,7 +73,7 @@
   {
    "term": "Copepod",
    "meaning": "A tiny water animal, about as big as a poppy seed or a little bigger. Many swim in ponds and wells, and people often call them water fleas.",
-   "example": "A copepod swims by jerks. A cloth filter can catch copepods.",
+   "example": "A copepod swims in jerks. A cloth filter can catch copepods.",
    "art": "A copepod drawn large from above, pear-shaped with two long feelers and a pair of egg sacs."
   },
   {
@@ -149,7 +149,7 @@
    "status": "defined",
    "context": "This card says what a life cycle is, and names the different hosts a parasite can use.",
    "definition": "A life cycle is the series of stages a living being passes through. A parasite's cycle often needs more than one kind of host.",
-   "description": "A free-living animal, such as a frog, has a life cycle too. Egg, tadpole, frog, egg again. A parasite's cycle is harder, because every stage must find the right body. A final host is the body where the parasite becomes an adult and makes eggs. An intermediate host is a body where a young stage grows but does not become an adult. A vector is a carrier, like a mosquito, who moves a parasite from one host to the next. Not every parasite uses all three. A louse uses one host for the whole life. The Guinea worm uses two, a copepod and a person. The malaria parasite uses two, a person and a mosquito. A liver fluke uses three, a snail, a plant and a cow. Each extra host is one more place where the journey can fail, and one more place where people can cut it.",
+   "description": "A free-living animal, such as a frog, has a life cycle too: egg, tadpole, frog, and then eggs again. A parasite's cycle is harder, because every stage must find the right body. A final host is the body where the parasite becomes an adult and makes eggs. An intermediate host is a body where a young stage grows but does not become an adult. A vector is a carrier, like a mosquito, who moves a parasite from one host to the next. Not every parasite uses all three. A louse uses one host for her whole life. The Guinea worm uses two, a copepod and a person. The malaria parasite uses two, a person and a mosquito. A liver fluke uses three, a snail, a plant and a cow. Each extra host is one more place where the journey can fail, and one more place where people can cut it.",
    "examples": [
     "A head louse lives all of her life on one person, so she has only one host.",
     "The Guinea worm needs a copepod and a person, so she has two hosts.",
@@ -165,7 +165,7 @@
    "definition": "The Guinea worm is a parasitic worm whose life cycle needs a person as the final host and a copepod as the intermediate host.",
    "description": "A person drinks water that holds copepods. Some copepods carry baby worms, which are called larvae. Stomach acid kills the copepods, and frees the larvae. The larvae go through the wall of the gut and grow. About a year later, a female worm, about 70 to 120 centimetres long, moves to the skin of a leg or foot and makes a painful blister. The burning makes the person put the foot into water. The worm pushes out her head and lets out a cloud of tiny larvae. A copepod swallows the larvae. Inside the copepod the larvae grow for about two weeks, until they are ready to infect a person. Nobody can catch the Guinea worm from another person, or from touching the worm. People catch the worm only by drinking the water with the copepods. For centuries the worm was drawn out slowly, a little each day, round a stick. In dry parts of India, such as Rajasthan, people drank from step wells and ponds that were full of copepods. From the 1980s, health workers taught people to filter their water through cloth, and to keep an infected foot out of the water. They also treated ponds and step wells, and later dug wells and laid pipes. India was certified free of Guinea worm in 2000. In the 1980s there were several million cases a year in many countries, and now there are only a handful.",
    "examples": [
-    "Larvae in a copepod take about two weeks to be ready. A person who drinks the copepod a year before the blister shows has no idea.",
+    "Larvae in a copepod take about two weeks to be ready. A person who swallows the copepod does not know it. The blister shows only about a year later.",
     "A person with a blister who keeps the foot out of the village water breaks the journey at the first link.",
     "A cloth over the pot holds the copepods back, which breaks the journey at the second link."
    ],
@@ -173,14 +173,14 @@
    "art": "A circle of five pictures with arrows: a person drinking from a step well, a larva leaving the gut, a long worm under the skin of a foot, a blister touching water, and a copepod swallowing larvae."
   },
   {
-   "concept": "Filters: a size gate, and the price of a finer one",
+   "concept": "Filters: what gets through depends on size, and a finer filter is slower",
    "status": "defined",
-   "context": "This card explains how a cloth filter works and what it cannot do. You tested this yourself.",
+   "context": "This card explains how a cloth filter works and what it cannot do. You test this yourself in the Sari Filter Test.",
    "definition": "A filter is a barrier with tiny gaps. It lets water and everything smaller than the gaps pass, and holds back everything bigger.",
    "description": "A filter is not a trap. It is a gate with a fixed width. Anything wider than the gaps stays on top, and anything narrower goes through. A copepod is about one to two millimetres long, as big as a poppy seed or a little bigger. A fine cotton cloth has gaps much narrower than that, so it holds the copepods back. But a gate that holds back more things also lets less water through. A cloth folded into four layers has narrower and longer gaps than one layer, so it catches more, and the water passes more slowly. A filter has another limit. Germs are a thousand times smaller than a copepod, and dissolved things are smaller still. A cloth does not catch them. So a cloth stops the Guinea worm's copepods, but does not make water free of bacteria, viruses or chemicals. For those, water must be boiled, treated or passed through a finer filter, such as a ceramic candle. A cloth filter is a good first step. It is not the last one.",
    "examples": [
     "A tea strainer holds back leaves but lets the tea through, and the same idea holds back copepods when the gaps are small enough.",
-    "Turmeric stirred into water stays yellow after a cloth, because the colour is made of pieces much smaller than the gaps.",
+    "Water with turmeric stirred in is still yellow after it passes through a cloth, because the colour is made of pieces much smaller than the gaps.",
     "A ceramic candle filter has gaps small enough to hold back many bacteria, so it takes much longer to drip."
    ],
    "perspectives": [],
@@ -191,21 +191,21 @@
    "status": "defined",
    "context": "This card explains why parasites make huge numbers of eggs, using the odds at each stage of a journey.",
    "definition": "The chance of a parasite finishing her whole journey is the chances at every stage multiplied together.",
-   "description": "Suppose an egg has a 1 in 10 chance of getting through each of four stages. Maybe it must land in water, then be eaten by the right animal, then grow, then reach a person. The chance of finishing all four is 1 in 10, then 1 in 100, then 1 in 1,000, then 1 in 10,000. So to get one adult, the parasite needs about ten thousand eggs. Real parasites have worse odds than that, so they make many thousands. A female roundworm can lay many thousands of eggs a day. A tapeworm releases whole segments full of eggs. A liver fluke gets help from a snail, because one young fluke inside a snail makes hundreds of copies of herself. The more stages and hosts a journey has, the more eggs the parasite makes. This is not waste. It is how a very fragile journey carries on, when most of it fails.",
+   "description": "Suppose an egg has a 1 in 10 chance of getting through each of four stages. Maybe it must land in water, then be eaten by the right animal, then grow, then reach a person. The chance of getting through one stage is 1 in 10. For two stages it is 1 in 100, for three it is 1 in 1,000, and for all four it is 1 in 10,000. So to get one adult, the parasite needs about ten thousand eggs. Real parasites have worse odds than that, so they make many thousands. A female roundworm can lay many thousands of eggs a day. A tapeworm releases whole segments full of eggs. A liver fluke gets help from a snail, because one young fluke inside a snail makes hundreds of copies of herself. The more stages and hosts a journey has, the more eggs the parasite makes. This is not waste. Most of the eggs fail, so the parasite needs a great many for a few to finish the journey.",
    "examples": [
     "If the chance at each of 4 stages is 1 in 10, about 10,000 eggs are needed for one adult.",
     "A parasite with only 2 stages and the same odds needs about 100 eggs for one adult.",
-    "A louse lives on one head and does not need the chance of the outside world, so she lays only a few eggs a day."
+    "A louse lives her whole life on one head, so her eggs face few risks, and she lays only a few eggs a day."
    ],
    "perspectives": [],
    "art": "A funnel with ten thousand dots at the wide top, one hundred in the middle after two gates, and a single dot at the narrow bottom after four gates."
   },
   {
-   "concept": "Filaria: a mosquito, the night and a swollen leg",
+   "concept": "Filaria: a worm carried by a mosquito that bites at night",
    "status": "defined",
    "context": "This card follows the filaria worm, which is carried by mosquitoes. Many people in India live where it is found.",
    "definition": "Lymphatic filariasis is an illness caused by thread-like worms that live in the lymph vessels. It is spread by mosquito bites.",
-   "description": "The commonest kind in India is spread by the Culex mosquito, who breeds in dirty, still water such as blocked drains. Adult worms live in the lymph vessels of a person for years. They make millions of tiny baby worms, which swim in the blood. Most of these baby worms are in the blood at night. This matches the night biting of the Culex mosquito. When the mosquito bites, she drinks some baby worms. In her body they grow for about two weeks, then move to her mouthparts. At her next bite they slip into the skin of a new person. Over many years the adult worms block lymph vessels, and a leg or another part of the body can swell. This is called elephantiasis. The swelling cannot be caught by touching a person. Care for the skin helps. In many districts of India, health workers offer everyone a yearly dose of tablets that clears the baby worms from the blood, so that the mosquitoes pick up none. After some years of this, the cycle stops. India has a large share of the world's cases, and works to eliminate them.",
+   "description": "The commonest kind in India is spread by the Culex mosquito, who breeds in dirty, still water such as blocked drains. Adult worms live in the lymph vessels of a person for years. They make millions of tiny baby worms, which swim in the blood. Most of these baby worms are in the blood at night. The Culex mosquito bites at night, so that is when she can pick them up. When the mosquito bites, she drinks some baby worms. In her body they grow for about two weeks, then move to her mouthparts. At her next bite they slip into the skin of a new person. Over many years the adult worms block lymph vessels, and a leg or another part of the body can swell. This is called elephantiasis. The swelling cannot be caught by touching a person. Looking after the skin of the swollen part helps. In many districts of India, health workers offer everyone a yearly dose of tablets that clears the baby worms from the blood, so that the mosquitoes pick up none. After some years of this, the cycle stops. India has a large share of the world's cases, and is working to eliminate the illness.",
    "examples": [
     "A mosquito that bites a person at night is more likely to pick up the baby worms, because they are in the blood then.",
     "Filling blocked drains and keeping water moving takes away the places where Culex breeds.",
@@ -219,11 +219,11 @@
    "status": "defined",
    "context": "This card goes deeper into the malaria parasite you met in Level 3. It explains why the fever comes in waves.",
    "definition": "The malaria parasite changes shape and place several times in her journey, and each stage has a different job.",
-   "description": "A mosquito injects a stage called a sporozoite. She goes to the liver and multiplies there. Then many new parasites leave the liver and enter red blood cells. Inside each red cell they multiply again. After about two days, for the commonest kinds, many red cells burst at almost the same time and release a new crowd. The person shivers and then gets a high fever. This is why the fever returns every other day, in waves. A few days later it repeats, as the next crowd bursts out. Some of the parasites in the blood turn into a different stage that is made to be picked up by a mosquito. That is the way the parasite gets back to the insect. One kind, called vivax, has a special sleeping stage in the liver. It can wake weeks or months later and cause a relapse. So treatment must be complete, as the doctor says. India has several kinds of malaria, and people are tested by a quick blood test to find out which kind. In 2021 and 2023, the World Health Organization recommended the first two malaria vaccines, for children in places where malaria is common.",
+   "description": "A mosquito injects a stage called a sporozoite. She goes to the liver and multiplies there. Then many new parasites leave the liver and enter red blood cells. Inside each red cell they multiply again. After about two days, for the commonest kinds, many red cells burst at almost the same time and release a new crowd of parasites. The person shivers and then gets a high fever. The same thing happens each time the next crowd bursts out. This is why the fever returns every other day, in waves. Some of the parasites in the blood turn into a different stage that a mosquito can pick up. That is the way the parasite gets back to the insect. One kind, called vivax, has a special sleeping stage in the liver. It can wake weeks or months later and cause a relapse. So the person must finish the whole treatment the doctor gives. India has several kinds of malaria, and people are given a quick blood test to find out which kind they have. In 2021 and 2023, the World Health Organization recommended the first two malaria vaccines, for children in places where malaria is common.",
    "examples": [
     "Fever on Monday evening, again on Wednesday evening and again on Friday evening matches the two day wave of some kinds of malaria.",
     "A person who felt well for months and then had malaria again may have had a relapse from a sleeping stage in the liver.",
-    "A blood test can find out which kind of malaria parasite a person has, and the doctor chooses the medicine from the kind."
+    "A blood test can find out which kind of malaria parasite a person has, and the doctor chooses the medicine for that kind."
    ],
    "perspectives": [],
    "art": "A fever line that rises every second day like waves, with small pictures of red blood cells bursting under each peak."
@@ -235,7 +235,7 @@
    "definition": "The liver fluke is a flat worm that lives in the liver of cattle and buffalo. Her life cycle needs a snail and a plant as well as the cow.",
    "description": "A fluke in a cow's liver lays eggs, which go out in the dung. If the dung falls in or near water, the egg hatches into a tiny swimmer. The swimmer finds a particular kind of pond snail and burrows into her. Inside the snail, one young fluke makes many copies of herself, each of which grows into a new swimming stage. The new stage leaves the snail, swims to a blade of grass or a water plant, and forms a tough cyst. A cow eats the plant. The cyst opens in her gut, and the young fluke travels to her liver and grows into an adult. People can also be infected if they eat raw water plants, though the usual host is the cow. Cooking water plants, and keeping dung out of ponds, break the journey. So does treating the herd with the medicine a vet gives. Cattle with liver flukes grow poorly and give less milk, so this parasite costs farmers a great deal.",
    "examples": [
-    "One snail that carries a young fluke can send out hundreds of new swimmers, which is how the odds are made up.",
+    "One snail that carries a young fluke can send out hundreds of new swimmers, which makes up for all the eggs that are lost.",
     "A cow that grazes at the edge of a pond can swallow cysts on the grass.",
     "Cooking water plants kills the cysts, so raw water plants are the risk, and cooked ones are not."
    ],
@@ -243,7 +243,7 @@
    "art": "A line of four pictures: a cow's dung falling by a pond, a snail with tiny swimmers coming out, a blade of grass with a tough cyst, and a cow eating the grass."
   },
   {
-   "concept": "Tapeworms: the hands and the food are links too",
+   "concept": "Tapeworms: eggs can also pass on hands and food",
    "status": "defined",
    "context": "This card is about the tapeworm, and about how an illness can pass through eggs on hands and food.",
    "definition": "A tapeworm is a long flat worm that lives in the gut. The pork tapeworm can also cause a serious illness when her eggs are swallowed.",
@@ -275,7 +275,7 @@
    "status": "defined",
    "context": "This card explains why some single-celled parasites can survive outside a body, and why boiling water matters.",
    "definition": "A cyst is a tough resting stage of a single-celled parasite, with a hard coat that protects it outside a body.",
-   "description": "Amoeba and Giardia are single-celled parasites that live in the gut and cause loose motions. They live in a soft, active form in the gut. When they leave the body, many turn into cysts. A cyst has a hard coat, no feeding and no movement. It can wait in water or on food for days or weeks. When someone swallows it, the coat opens in the gut, and the parasite comes out and begins to feed. A cyst is tough. Some cysts of Giardia survive the amount of chlorine that is used to treat drinking water. So boiling the water, or passing it through a fine filter, is a better way to remove them. The cyst stage is why these parasites can travel in water over a long distance without a vector. It is also why washing hands and covering food matter.",
+   "description": "Amoeba and Giardia are single-celled parasites that live in the gut and cause loose motions. They live in a soft, active form in the gut. When they leave the body, many turn into cysts. A cyst has a hard coat. It does not feed or move. It can wait in water or on food for days or weeks. When someone swallows it, the coat opens in the gut, and the parasite comes out and begins to feed. A cyst is tough. Some cysts of Giardia survive the amount of chlorine that is used to treat drinking water. So boiling the water, or passing it through a fine filter, is a better way to remove them. The cyst stage is why these parasites can travel in water over a long distance without a vector. It is also why washing hands and covering food matter.",
    "examples": [
     "An amoeba is soft and active in the gut, and a cyst is hard and still in the water.",
     "A cyst in a glass of water can wait for days until somebody drinks it.",
@@ -289,11 +289,11 @@
    "status": "defined",
    "context": "This card says how parasites find a body in the first place. They sense the world and act on what they find.",
    "definition": "Parasites find hosts by sensing signs of a living body, such as warmth, breath, smell, light and movement.",
-   "description": "A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that the malaria mosquito, Anopheles, uses a heat-sensing receptor to find warm skin from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses she has, and each reads the world in her own way. A mosquito reads breath and warmth as food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.",
+   "description": "A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that the malaria mosquito, Anopheles, has a part that senses heat, and she uses it to find warm skin from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses she has. To a mosquito, breath and warmth mean food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.",
    "examples": [
     "A mosquito finds you more easily after you run, because you breathe out more carbon dioxide.",
     "Hookworm larvae sense the touch of a bare foot, which is why chappals help.",
-    "A tick waits for hours on a blade of grass, ready to grip when the breath of an animal passes."
+    "A tick waits for hours on a blade of grass, ready to grip an animal when she senses the animal's breath."
    ],
    "perspectives": [],
    "art": "A mosquito flying towards a sleeping person with three dotted lines for breath, warmth and smell."
@@ -313,11 +313,11 @@
    "art": "A table of five journeys with a cut mark on the weakest link in each."
   },
   {
-   "concept": "Parasites began again and again",
+   "concept": "Living as a parasite began many separate times",
    "status": "defined",
    "context": "This card says how common parasites are among living beings, and how they came to be.",
    "definition": "A parasite is a being who lives on or in another and feeds from her. Scientists have found that this way of life began many separate times.",
-   "description": "Parasitism is not rare or odd. By one count, many scientists think that a large share of all animal species are parasites at some point in their lives, though no one has counted them all. The ancestors of the tapeworm, the louse, the tick and the mosquito were free-living animals. They became parasites in different ways, many separate times, over millions of years. Free-living ancestors may have begun by eating the food or the waste of a larger animal and gradually stayed. Once inside, a parasite often loses parts she no longer needs, such as eyes or a gut. A tapeworm has no gut at all. She soaks up food through her skin from the food her host digests. A parasite's body is shaped by her journey as much as by her host. Each stage keeps what it needs and loses the rest.",
+   "description": "Parasitism is not rare or odd. Many scientists think that a large share of all animal species are parasites at some point in their lives, though no one has counted them all. The ancestors of the tapeworm, the louse, the tick and the mosquito were free-living animals. They became parasites in different ways, many separate times, over millions of years. Free-living ancestors may have begun by eating the food or the waste of a larger animal and gradually stayed. Parasites who live inside a host have often lost parts they no longer need, such as eyes or a gut. A tapeworm has no gut at all. She soaks up food through her skin from the food her host digests. A parasite's body is shaped by her journey as much as by her host. Each stage keeps what it needs and loses the rest.",
    "examples": [
     "A tapeworm has no gut. She soaks up food from the food in her host's gut.",
     "Mosquitoes, ticks and lice come from different ancestors, and all of them are parasites for part or all of their lives.",
@@ -342,7 +342,7 @@
     },
     {
      "who": "Many ecologists",
-     "explanation": "Mosquitoes are part of food webs. Taking away even one species could have effects that nobody can predict, so we should test small and go slowly."
+     "explanation": "Mosquitoes are part of food webs. Taking away even one species could have effects that nobody can predict, so we should test on a small scale and go slowly."
     },
     {
      "who": "Some ethicists and local communities",
@@ -363,7 +363,7 @@
   },
   {
    "text": "Lymphatic filariasis is spread by mosquito bites, and giving a medicine to a whole community for several years can stop it.",
-   "evidence": "In places where everyone at risk took the yearly tablets for several years, tests of the blood found far fewer baby worms, and mosquitoes picked up none. Many districts have stopped needing the tablets."
+   "evidence": "In places where everyone at risk took the yearly tablets for several years, blood tests found far fewer baby worms, and mosquitoes picked up none. Many districts have stopped needing the tablets."
   },
   {
    "text": "Malaria fever returns in waves because the parasites in the red blood cells burst out at about the same time.",
@@ -384,7 +384,7 @@
  ],
  "challenging": [
   {
-   "claim": "A parasite is a being who is only harmful, and the world would be better without them.",
+   "claim": "Parasites are only harmful, and the world would be better without them.",
    "who": "A common idea, and the view of many people who have suffered from parasites",
    "for": "Parasites cause great suffering. Malaria, filaria and worm infections harm millions of people, and most of them are poor.",
    "against": "Many ecologists point out that parasites are a very large share of living beings, and may help keep ecosystems steady. Wiping out an illness is a good aim. Wiping out a whole kind of living being is a bigger question.",
@@ -435,7 +435,7 @@
    "claim": "A parasite that kills her host has done well.",
    "who": "A common idea",
    "for": "A parasite that takes a lot from a host seems to be winning.",
-   "against": "A parasite that kills her host too soon dies with the host, unless she has already passed on. Many parasites do best when the host lives long enough to spread them, which is why most parasites harm their host only a little.",
+   "against": "A parasite that kills her host too soon dies with the host, unless she has already spread to a new host. Many parasites do best when the host lives long enough to spread them, which is why most parasites harm their host only a little.",
    "status": "rejected",
    "context": "This card is about whether it is good for a parasite to kill her host."
   }
@@ -457,7 +457,7 @@
    "hint": "Think about the size of the gaps compared with the size of the thing."
   },
   {
-   "q": "The malaria parasite changes her shape and her home several times. When does she stop being the same being?",
+   "q": "The malaria parasite changes her shape and her home several times. Is she still the same being after every change?",
    "kind": "deep",
    "hint": "Think about a caterpillar and a butterfly, and about yourself as a baby."
   },
@@ -482,7 +482,7 @@
    "hint": "Think about everyone who depends on the same water, including the tiny animals."
   },
   {
-   "q": "Nobody has ever seen a Guinea worm larva swim into a copepod without a lens. How can we know the parts of a journey that we cannot see?",
+   "q": "Without a lens, nobody can see a copepod swallow a Guinea worm larva. How can we know the parts of a journey that we cannot see?",
    "kind": "big",
    "hint": "Think about how Manson and Low found out, by cutting open mosquitoes, and what other tools help."
   }
@@ -496,7 +496,7 @@
    "Sunita lived in a village in Rajasthan, where the land is dry and every drop of water counts. In the middle of the village was a step well. Stone steps went down, and down, and down, until the last step touched green water.",
    "Every morning, the women of the village climbed down with clay matkas, and climbed up again with the matkas full, balanced on their heads. Sunita went with her mother. She liked the cool air at the bottom, and the way her voice echoed.",
    "But there was one thing Sunita did not like. That was the hot season before the rains, when the worm came.",
-   "Every year, a few people in the village woke up with a painful blister on a foot or a leg. This year it was Sunita's cousin Mohan. After a few days the blister burst, and a thin white thread showed at the top. \"The worm,\" said Dadi, Sunita's grandmother. \"It comes every year, like the heat.\"",
+   "Every year, a few people in the village woke up with a painful blister on a foot or a leg. This year it was Sunita's cousin Mohan. After a few days the blister burst, and a thin white thread showed at the top. \"The worm,\" said Dadi, Sunita's grandmother. \"She comes every year, like the heat.\"",
    "Dadi showed Sunita what to do. Each day they wound a little more of the thread round a matchstick, slowly and gently, never pulling hard. If it broke, the foot would swell and hurt even more. It took many days. When the whole worm came out, she was as long as Sunita's arm.",
    "Mohan's foot burned as if it was on fire. The only thing that eased it was cold water. So every afternoon he limped down the stone steps of the well and sat with his foot in the water, sighing.",
    "One morning, a woman came to the village on a bicycle, with a cloth bag on the handlebar. She was Kamla Didi, the health worker. She sat under the neem tree and asked everyone, \"Who has had the worm this year? Who had it before? Where do you get your water?\" She wrote everything in a notebook.",
@@ -517,7 +517,7 @@
    "Kamla Didi came back on her bicycle to count, and she was smiling. \"Not one,\" she said. \"You cut the circle in two places, Sunita. The worm could not find her way round.\"",
    "Sunita looked down into the cool green water at the bottom of the well. Somewhere in it, the white specks were still swimming. They had done nothing wrong. They were only one stage in a long journey, and now the journey had a gap in it."
   ],
-  "epiphany": "A parasite's journey is a circle with links. The Guinea worm needs a foot in the water, and then the water in a mouth. Cutting one link, a cloth on the pot or a sore foot kept out of the well, stops the whole circle, even though nobody can see the worm.",
+  "epiphany": "A parasite's journey is a circle made of links. The Guinea worm needs a sore foot to go into the water, and then a person to drink that water. Cutting one link stops the whole circle, even though nobody can see the worm. A cloth on the pot cuts one link. Keeping a sore foot out of the well cuts another.",
   "ask": [
    "Which two links in the circle did Sunita cut, and how did she cut each?",
    "Why did some people still get blisters in the first hot season after the cloths were used?",
@@ -533,18 +533,18 @@
   ]
  },
  "roots": {
-  "context": "We have followed a worm through a person and a tiny water animal, and watched a cloth cut the circle. Now we ask what a journey through many bodies tells us about what a living being is.",
+  "context": "This unit followed the Guinea worm through a person and a copepod, and showed how a cloth over the pot cut her journey. Now we ask what a journey through many bodies tells us about what a living being is.",
   "deep_truth": {
    "truth": "A Guinea worm begins as a speck in a tiny water animal. She ends as a worm as long as your arm, inside a person. Her shape, size and home all change, but she is one life from start to finish. A parasite is not one body but a journey through several bodies.",
    "habit": "We name a living being by the body we meet, such as a worm, a larva or a mosquito, and think she is that body. But a parasite is a speck, a young stage and an adult, each in a different body and a different home.",
-   "evidence": "In the Sari Filter Test, the copepods that a cloth holds back are about a millimetre long. A Guinea worm larva inside one is about half a millimetre, and the adult female can be 80 centimetres, about 1,600 times longer. Cutting the journey at any one stage ends the whole life."
+   "evidence": "The copepods that a cloth holds back are about a millimetre long. A Guinea worm larva inside one is about half a millimetre, and the adult female can be 80 centimetres, about 1,600 times longer. Cutting the journey at any one stage ends the whole life."
   },
   "three": {
-   "who_am_i": "You were once a single cell, then a baby, then a child. Your shape, size and home have changed many times, and you still say you are the same person. A parasite's life makes the same question very plain.",
+   "who_am_i": "You were once a single cell, then a baby, then a child. Your shape, size and home have changed many times, and you still say you are the same person. A parasite's life raises the same question: is she the same being at every stage?",
    "what_is_life": "Every being passes through many shapes and places in a life. A parasite shows it more clearly because her shapes and homes are so different from each other.",
    "what_is_this_world": "Water, copepods, people, snails and mosquitoes are joined into circles. A cloth over a pot can change the health of a whole village, because everything in the circle depends on every link."
   },
-  "thread": "The Guinea worm lives as a speck, a larva and a long worm, in water, in a copepod and in a person. No stage looks like the next, and none could live the whole life alone. What goes on is the journey itself, passed from body to body. Cut one link and the whole circle ends, however many stages it has. Your own life, from one cell to a grown person, is a thread of the same kind.",
+  "thread": "The Guinea worm lives as a speck, a larva and a long worm, in water, in a copepod and in a person. No stage looks like the next, and none could live the whole life alone. What goes on is the journey itself, passed from body to body. Cut one link and the whole circle ends, however many stages it has. Your own life, from one cell to a grown person, also passes through many stages.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.13",
@@ -554,7 +554,7 @@
    {
     "source": "Heraclitus, as quoted by Plato in Cratylus 402a",
     "teaching": "Everything moves and nothing stays still, and you could not step twice into the same river.",
-    "link": "The parasite is never the same twice, and yet she is the same life. Like the river, she is a flow and not a fixed thing."
+    "link": "The parasite is never the same twice, and yet she is the same life. Like the river, she keeps changing and is never a fixed thing."
    }
   ],
   "science": [
@@ -575,7 +575,7 @@
    "title": "The same hands",
    "mins": 3,
    "say": "Sit still. Think of a photograph of yourself as a baby. Now look at your hands. Nothing in them is the same as when you were a baby, and yet they are yours. Breathe in slowly and out slowly, three times. Then think of a Guinea worm as a speck, and as a long worm, and ask the same question.",
-   "kid": "Think of a photo of you as a baby. Look at your hands now. Breathe slowly three times. Are they the same?"
+   "kid": "Think of a photo of you as a baby. Look at your hands now. Breathe slowly three times. Are they the same hands?"
   },
   "ask": [
    "Which one is the Guinea worm: the speck in the copepod, the long worm in the foot, or the whole journey?",
@@ -587,7 +587,7 @@
  "games": [
   {
    "id": "g1",
-   "title": "Order the Journey: five life cycles to put right",
+   "title": "Order the Journey: put five life cycles in the right order",
    "mins": 20,
    "players": [
     "alone",
@@ -704,7 +704,7 @@
     },
     {
      "kind": "cards",
-     "title": "10 cut cards (the weak link it breaks is on the back)",
+     "title": "10 cut cards (the link each card breaks is on the back)",
      "items": [
       {
        "f": "CUT: a folded cloth over the water pot.",
@@ -980,7 +980,7 @@
    "title": "The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?",
    "mins": 36,
    "days": 1,
-   "question": "A cloth over the pot held back the tiny water animals that carried the Guinea worm. Which cloth, and how many layers of it, catches pretend copepods, and how much slower (in seconds) does the water flow when the cloth is finer?",
+   "question": "A cloth over the pot held back the tiny water animals that carried the Guinea worm. Which cloth, and how many layers of it, catches all the pretend copepods? How many more seconds does the water take to pass through a finer cloth?",
    "predict": "Before you start, guess. Which cloth, with how many layers, will catch all the pretend copepods? Which filter will let the water through the slowest? Why do you think so?",
    "fair_test": "Every test uses the same amount of water, the same number of seeds, the same glass and the same slow pour. Only the filter changes. You use 10 mustard seeds as big pretend copepods and 10 khus khus seeds as small ones. You time how long 100 millilitres of water takes to pass, and you count the seeds that get through into the glass. If the water takes more than 3 minutes, you stop timing and write more than 3 minutes.",
    "results_table": [
@@ -1041,11 +1041,11 @@
     {
      "day": 1,
      "mins": 36,
-     "what": "Make the filters. Run six tests with seeds and one test with turmeric. Fill in the table and decide which filter is best."
+     "what": "Make the filters. Run six tests with seeds and one test with coloured water. Fill in the table and decide which filter is best."
     }
    ],
    "record": "Fill in the table. Then draw a bar for each filter, as tall as the number of seeds that got through. Mark the filter that you would choose for a village pot.",
-   "context": "In this experiment you pour water with pretend copepods through different cloths, and find which filter catches them, and what a finer filter costs in time.",
+   "context": "In this experiment you pour water with pretend copepods through different cloths. You find which filter catches them, and how much slower a finer filter is.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1163,7 +1163,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Test 3 and Test 4. 1. Put the loose cloth in 4 layers over a clean, dry glass. 2. Stir in a new pile of each seed, pour slowly, time it and count. 3. Do the same with the tight cotton in 1 layer. 4. Write both results.",
-     "say": "Same pour, same seeds, same time. Only the cloth is different. Write what you see.",
+     "say": "Pour the same way, with the same number of seeds, and time it the same way. Only the cloth is different. Write what you see.",
      "kid": "Test the loose cloth in four layers. Then the tight cotton in one layer. Count and time.",
      "context": "In this step you run Test 3 with four layers of loose cloth and Test 4 with one layer of tight cotton.",
      "parent": "Wet cloth tends to sag. If the khus khus stick in the cloth and few reach the glass, rinse them off the cloth with a little water into a bowl rather than counting them as through."
@@ -1174,7 +1174,7 @@
      "do": "Test 5 and Test 6. 1. Put the tight cotton in 2 layers over a clean, dry glass. 2. Stir in a new pile of each seed, pour slowly, time it and count. 3. Do the same with the tight cotton in 4 layers. 4. Write both results.",
      "say": "Now the tight cotton in two layers and in four layers. Do more layers catch more seeds? Do they make the water slower?",
      "kid": "Test the tight cotton in two layers. Then in four layers. Count and time.",
-     "parent": "Four layers of tight cotton may take over 3 minutes. If so, write more than 3 minutes and move on. If every test catches every seed, try a looser cloth or the finest rava in place of khus khus. A time over 3 minutes is only written as more than 3 minutes. All times are your own: kitchen water, cloth and glass sizes change them, so compare the filters with each other, not with the made-up example. The seed counts in the example are also made up and typical, not promised.",
+     "parent": "Four layers of tight cotton may take over 3 minutes. If so, write more than 3 minutes and move on. If every test catches every seed, try a looser cloth or the finest rava in place of khus khus. Your times depend on your water, your cloth and the size of your glass, so compare your filters with each other, not with the made-up example. The seed counts in the example are made up too, so yours may differ.",
      "check": {
       "t": "mcq",
       "q": "A filter with more layers catches more seeds but lets the water through more slowly. Why does a finer filter flow more slowly?",
@@ -1191,12 +1191,12 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Test 7, the colour test. 1. Stir a few drops of food colour or ink into 100 millilitres of water. 2. Pour it slowly through your finest cloth that passes 100 millilitres in under 3 minutes. 3. Hold the filtered water against white paper, beside the coloured water you started with. 4. Compare the colours.",
+     "do": "Test 7, the colour test. 1. Stir a few drops of food colour or ink into 100 millilitres of water. 2. Pour it slowly through the finest cloth filter that let 100 millilitres through in under 3 minutes. 3. Hold the filtered water against white paper, beside the coloured water you started with. 4. Compare the colours.",
      "say": "This water is coloured. We pour it through our finest usable filter. Is the water that comes out clear, or still coloured?",
      "kid": "Stir colour into water. Pour it through your finest filter. Is the water still coloured?",
      "ask": [
       {
-       "q": "What does the yellow water tell us about what a cloth cannot catch?",
+       "q": "The water is still coloured after it passes through the cloth. What does this tell us about what a cloth cannot catch?",
        "good": [
         "Very tiny things, like the colour, pass through the gaps.",
         "A cloth cannot catch germs, because they are much smaller than the gaps."
@@ -1214,13 +1214,13 @@
      "kid": "Say what you think, what you saw, and why. Which filter would you choose?",
      "ask": [
       {
-       "q": "What I think, what I saw, and why?",
+       "q": "What do you think happened, what did you see, and why?",
        "good": [
         "What I think: a finer filter catches more but is slower. What I saw: four layers of tight cotton caught every seed and took longest. Why: the gaps are narrower."
        ]
       },
       {
-       "q": "Which filter would you choose, and what did you trade away?",
+       "q": "Which filter would you choose, and what did you give up to get it?",
        "good": [
         "Two layers of tight cotton, which caught all the seeds in a short enough time.",
         "The fastest filter that still catches every seed."
@@ -1421,7 +1421,7 @@
      "parent": "If a pot has too many wrigglers to count, write more than 20. Also mark the water line with tape on day 1 and on day 5, to see if any water was lost. If a lid stopped mosquitoes landing, the lid pot will be empty. If oil was put on the water, some wrigglers may be dead or struggling. Write what you see.",
      "check": {
       "t": "mcq",
-      "q": "The covered pot with a tight lid had no wrigglers, and the open pot had many. What does this show?",
+      "q": "The pot with a tight lid had no wrigglers, and the open pot had many. What does this show?",
       "options": [
        "A mosquito could not lay eggs on water she could not reach",
        "Lids make the water too warm for wrigglers",
@@ -1440,7 +1440,7 @@
      "kid": "Say what you think, what you saw, and why.",
      "ask": [
       {
-       "q": "What I think, what I saw, and why?",
+       "q": "What do you think happened, what did you see, and why?",
        "good": [
         "What I think: a cover stops mosquitoes laying eggs. What I saw: wrigglers only in the open pot. Why: the mosquito could not reach the water."
        ]
@@ -1505,7 +1505,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut an 80 centimetre piece of string. 2. Ask your child to guess how many days it would take to wind the whole string. Each day, only 2 centimetres are wound on. Write your guess.",
-     "say": "A Guinea worm can be as long as your arm, and it was drawn out a little each day. Today we pretend each day gives 2 centimetres. How many days do you think the whole worm would take? Why do you think so?",
+     "say": "A Guinea worm can be as long as your arm, and she was wound out a little each day. Today we pretend each day gives 2 centimetres. How many days do you think the whole worm would take? Why do you think so?",
      "kid": "A pretend worm, 80 centimetres long. Each day you may wind 2 centimetres. Guess how many days.",
      "context": "This is the first step of Wind a Worm. You guess before you wind."
     },
@@ -1515,7 +1515,7 @@
      "do": "1. Lay the string beside your arm. 2. Wind exactly 2 centimetres on to the stick, slowly and gently. 3. Stop. That is one day. 4. Measure what is left.",
      "say": "Wind it slowly, never pull. Stop at 2 centimetres. That is a whole day's work. How much of the worm is still to come out?",
      "kid": "Wind only 2 centimetres of string on to the stick. Slowly. Stop there.",
-     "parent": "In real life the worm was wound a little at a time, because if it broke, the rest would stay in the body and cause swelling and infection. A day's winding was usually a few centimetres.",
+     "parent": "In real life the worm was wound a little at a time, because if she broke, the rest would stay in the body and cause swelling and infection. A day's winding was usually a few centimetres.",
      "check": {
       "t": "mcq",
       "q": "Why was the worm wound out only a little at a time, and never pulled?",
@@ -1534,7 +1534,7 @@
      "mins": 6,
      "do": "1. Work out how many days the whole string would take. 2. Write the answer. 3. Try a 60 centimetre worm and a 100 centimetre worm, at 2 and at 3 centimetres a day. 4. Fill a small table. 5. Talk about the question below.",
      "say": "80 centimetres, 2 centimetres a day. How many days? Was your guess close? A Guinea worm larva is about half a millimetre long. How many times longer than the larva is the adult?",
-     "kid": "80 divided by 2. How many days? Was your guess close?",
+     "kid": "Work out 80 divided by 2. How many days is that? Was your guess close?",
      "ask": [
       {
        "q": "A larva is about half a millimetre. How many times longer is a worm of 80 centimetres?",
@@ -1543,9 +1543,9 @@
        ]
       }
      ],
-     "think": "One life, from a speck to an arm's length. Which one is the Guinea worm?",
+     "think": "The speck and the arm-long worm are one life. Which one is the Guinea worm?",
      "context": "In this step you work out the number of days and compare the sizes.",
-     "parent": "Real worms are about 60 to 100 centimetres long, and often take weeks to come out. Answers: 80 centimetres takes 40 days at 2 centimetres a day. 60 takes 30 or 20 days, 100 takes 50 or about 34 days. With two to four children, each child winds a worm of a different length and the group compares days. With one child, the parent picks the second length."
+     "parent": "Real worms are about 60 to 100 centimetres long, and often take weeks to come out. Answers: 80 centimetres takes 40 days at 2 centimetres a day. At 2 or 3 centimetres a day, 60 centimetres takes 30 or 20 days, and 100 centimetres takes 50 or about 34 days. With two to four children, each child winds a worm of a different length and the group compares days. With one child, the parent picks the second length."
     }
    ]
   },
@@ -1620,7 +1620,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Draw three sets of axes with the days along the bottom and the temperature up the side. 2. Ask your child to guess what a malaria chart would look like.",
-     "say": "A malaria parasite bursts out of red blood cells all at the same time, about every two days. What shape do you think the fever chart will make? Why do you think so?",
+     "say": "Malaria parasites burst out of red blood cells all at the same time, about every two days. What shape do you think the fever chart will make? Why do you think so?",
      "kid": "Draw three graphs. Guess what a malaria chart looks like.",
      "context": "This is the first step of Fever Chart Detective. You guess before you draw.",
      "parent": "Alone: draw all three patients. In a group: one patient each, then swap and compare. Squared paper is not needed; mark a ruler line for each degree."
@@ -1631,7 +1631,7 @@
      "do": "Draw each patient's line. Patient A, evening readings from Monday to Friday: 38.5, 38.8, 38.2, 37.4, 36.8. Patient B, evening readings from Monday to Saturday: 39.8, 37.0, 39.9, 37.1, 40.0, 37.2. Patient C, evening readings from Monday to Friday: 37.8, 38.4, 38.9, 39.4, 39.8.",
      "say": "Mark each reading with a dot. Join the dots with a line. Do it for all three patients. What shape does each make?",
      "kid": "Draw a dot for each reading. Join the dots. Do all three patients.",
-     "parent": "These are made-up numbers. Patient A falls slowly, like many viral fevers. Patient B rises on every second evening, like waves, as in many kinds of malaria. Patient C climbs day by day, which doctors call a step-ladder, a pattern seen in typhoid. A pattern is a clue, and only a test can tell.",
+     "parent": "These are made-up numbers. Patient A falls slowly, like many viral fevers. Patient B rises on every second evening, like waves, as in many kinds of malaria. Patient C climbs day by day, which doctors call a step-ladder, a pattern seen in typhoid. A pattern is only a clue. Only a test can tell which illness it is.",
      "check": {
       "t": "mcq",
       "q": "Patient B's fever peaks on Monday, Wednesday and Friday. If the pattern goes on, when is the next peak?",
@@ -1660,7 +1660,7 @@
        ]
       },
       {
-       "q": "How many days apart are the peaks in Patient B, and what would Patient B temperature be on Sunday?",
+       "q": "How many days apart are the peaks in Patient B's chart, and what would Patient B's temperature be on Sunday?",
        "good": [
         "Two days apart. About 40 degrees, a peak, because the pattern repeats."
        ]
@@ -1702,7 +1702,7 @@
      "what": "Run 36 eggs through four gates with a die. Run it again with a snail that makes copies. Compare the two."
     }
    ],
-   "record": "A table with four rows, one for each gate, and the number of eggs that got in and got through, for both runs.",
+   "record": "A table with four rows, one for each gate. For both runs, write how many eggs reached the gate and how many got through.",
    "context": "In this activity you roll a die to send 36 pretend eggs through four gates of a parasite's journey, and see how few come out the other end.",
    "example_chart": {
     "type": "table",
@@ -1792,7 +1792,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Compare the two runs. Ask your child to say what they think, what they saw, and why.",
-     "say": "How many came through in the plain run? How many in the snail run? Why can a parasite that lays thousands of eggs and one that makes copies in a snail both do well?",
+     "say": "How many came through in the plain run? How many in the snail run? One parasite lays thousands of eggs. Another makes copies of herself in a snail. Why do both ways work?",
      "kid": "Compare the two runs. Which gave more adults? Why?",
      "ask": [
       {
@@ -2034,7 +2034,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Choose one journey from the unit, such as the Guinea worm, filaria, malaria or the liver fluke. 2. Divide the paper into twelve panels. 3. Plan the story in pencil, one stage in each panel or two. 4. Mark one panel with a scissors sign, where the journey is cut.",
+     "do": "1. Choose one journey from the unit, such as the Guinea worm, filaria, malaria or the liver fluke. 2. Divide the paper into twelve panels. 3. Plan the story in pencil, giving each stage one or two panels. 4. Mark one panel with a scissors sign, where the journey is cut.",
      "say": "A comic is a good way to show a journey. Which parasite will you pick? What will be in each panel? Which panel shows the cut?",
      "kid": "Pick one journey. Plan twelve panels. Mark the panel where you cut it.",
      "ask": [
@@ -2094,7 +2094,7 @@
     "A cloth stretched over a wide ring, so that it has more area and the water passes more quickly.",
     "A funnel made from a cut plastic bottle with a cloth in the neck, to pour from a jug without spilling."
    ],
-   "your_turn": "Sketch your design. Build it and test it with seeds and one litre of water. Write how many seeds got through and how many seconds it took. Change one thing, such as the number of layers, and test again. Which design was best, and what did you trade away?",
+   "your_turn": "Sketch your design. Build it and test it with seeds and one litre of water. Write how many seeds got through and how many seconds it took. Change one thing, such as the number of layers, and test again. Which design was best, and what did you give up to get it?",
    "context": "This is a design challenge that follows the Sari Filter Test. You build the best pot filter you can, and measure how well it works.",
    "setup": [
     {
@@ -2160,8 +2160,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Talk about what to change, and test again if there is time.",
-     "say": "What would you change to get fewer seeds through or a faster flow? What did you trade away to get a better catch?",
-     "kid": "What would you change? What did you trade away?"
+     "say": "What would you change to get fewer seeds through or a faster flow? What did you give up to catch more seeds?",
+     "kid": "What would you change? What did you give up?"
     }
    ]
   },
@@ -2178,7 +2178,7 @@
    ],
    "materials": [
     "a large tray or a baking dish",
-    "damp sand or garden soil (sand is not needed: soil from a plant pot works), to make slopes. Flour or rangoli powder is a fallback",
+    "damp sand or garden soil, to make slopes. Soil from a plant pot works. If you have neither, use flour or rangoli powder",
     "a small katori sunk in the sand as the well",
     "a small bowl as the station",
     "a cup of water with half a teaspoon of turmeric stirred in",
@@ -2218,7 +2218,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Build the model on the tray. Shape the sand into a slope, sink the katori for the well, and put the bowl for the station. Pour the cup of yellow water into the station bowl and watch where it flows.",
+     "do": "Build the model on the tray. Shape the sand into a slope, sink the katori into it as the well, and set the bowl in place as the station. Pour the cup of yellow water into the station bowl and watch where it flows.",
      "say": "Build the village. Pour the yellow water at the station. Does any reach the well? Where does it go?",
      "kid": "Build the model. Pour yellow water at the station. Watch where it goes.",
      "parent": "Press the sand firmly so that water does not simply sink in. If all the yellow water sinks into the sand and none runs, that is also a result. Test a steeper slope. One child with a parent: the child builds, the parent pours the cup. Two to four children: each builds one design, then pour the same cup into each and compare how much yellow reaches the well. Sand that is very dry drinks up the water, so dampen it a little.",
@@ -2402,7 +2402,7 @@
       "The malaria parasite herself"
      ],
      "a": 0,
-     "why": "A vector carries a parasite or a germ between hosts. The mosquito does this for malaria, while the person and the parasite are the host and the parasite."
+     "why": "A vector carries a parasite or a germ between hosts. The mosquito does this for malaria. The person is the host, and the malaria parasite is the parasite, so neither is a vector."
     },
     {
      "t": "fill",
@@ -2427,7 +2427,7 @@
       "More eggs make the host stronger"
      ],
      "a": 0,
-     "why": "The odds at each stage multiply, so very few eggs finish the whole journey. A parasite with thousands of eggs gets a few adults."
+     "why": "The odds at each stage multiply, so very few eggs finish the whole journey. Out of thousands of eggs, only a few become adults."
     },
     {
      "t": "truefalse",
@@ -2440,11 +2440,11 @@
      "p": "A town has many mosquitoes that carry malaria and filaria. Two health officers disagree about what to do.",
      "views": [
       {
-       "who": "Dr Anitha, a health officer",
+       "who": "The first health officer",
        "says": "Spend the money on nets, drains and tablets. They work now, and they save lives."
       },
       {
-       "who": "Ms Bhavani, a health officer",
+       "who": "The second health officer",
        "says": "Nets and tablets are not enough. We must fix the drains and the water supply, so that there is no place for mosquitoes to breed."
       }
      ],
@@ -2592,11 +2592,11 @@
      "p": "Scientists are developing a way to spread a change through a whole species of mosquito so that the mosquitoes cannot carry malaria.",
      "views": [
       {
-       "who": "Dr Meena, a doctor who treats malaria",
+       "who": "A doctor who treats malaria",
        "says": "Malaria kills very many children. If this is safe, we should use it as soon as we can."
       },
       {
-       "who": "Prof Aruna, an ecologist",
+       "who": "An ecologist",
        "says": "Mosquitoes are part of food webs. We should test it small and slowly, and ask the people who live there."
       }
      ],
@@ -2643,7 +2643,7 @@
      "t": "truefalse",
      "p": "A parasite that kills her host quickly is the most successful kind.",
      "a": false,
-     "why": "False. A parasite that kills her host too quickly dies with the host, unless she has already passed on. Many parasites do best when the host lives long enough to spread them."
+     "why": "False. A parasite that kills her host too quickly dies with the host, unless she has already spread to a new host. Many parasites do best when the host lives long enough to spread them."
     },
     {
      "t": "draw",
@@ -2660,7 +2660,7 @@
       "Look at a patient's foot"
      ],
      "a": 0,
-     "why": "Looking inside the mosquito at different days shows the stages growing. That is how Manson found it, and how Low found them in the mouthparts."
+     "why": "Looking inside mosquitoes on different days shows the stages growing. That is how Patrick Manson found the worms growing inside mosquitoes, and how George Low found them in the mouthparts."
     },
     {
      "t": "fill",
@@ -2692,7 +2692,7 @@
     {
      "t": "write",
      "p": "A head louse lives on one person for her whole life and lays only a few eggs a day. A liver fluke needs three hosts and lays very many. Explain the difference.",
-     "a": "The louse has one host and almost no gates to pass. She is already at home, so her chance is high. The fluke has to pass a snail, a plant and a cow, so her chances multiply to a very small number, and she needs many eggs.",
+     "a": "The louse has one host and almost no stages to get through. She is already at home, so her chance is high. The fluke has to pass a snail, a plant and a cow, so her chances multiply to a very small number, and she needs many eggs.",
      "why": "The number of eggs fits the length of the journey. More stages and hosts mean smaller odds, so more eggs."
     },
     {
@@ -2711,11 +2711,11 @@
      "p": "A country has money to do one thing. It can finish wiping out a rare parasite for good, or it can cut the cases of a very common one.",
      "views": [
       {
-       "who": "Dr Rekha, a public health doctor",
+       "who": "The first public health doctor",
        "says": "Finish the rare one. Once it is gone, we never need to spend on it again."
       },
       {
-       "who": "Dr Sameera, a public health doctor",
+       "who": "The second public health doctor",
        "says": "Reduce the common one. It harms many more people today, and every month we wait costs lives."
       }
      ],
@@ -2792,7 +2792,7 @@
     {
      "t": "write",
      "p": "In 1872 a doctor found baby worms in the blood of patients in Calcutta, but nobody knew how the worms got into the blood. Why does finding something in the blood not tell you how it got there?",
-     "a": "A parasite in the blood could have come by many routes, such as the skin, the water or a bite. To find the route you must follow the parasite step by step, as Manson did by cutting open mosquitoes that had fed on a patient's blood.",
+     "a": "A parasite in the blood could have come by many routes, such as the skin, the water or a bite. To find the route you must follow the parasite step by step, as Patrick Manson did by cutting open mosquitoes that had fed on a patient's blood.",
      "why": "Finding a parasite shows where it is, not how it arrived. A journey must be followed with tests."
     },
     {
@@ -3035,7 +3035,7 @@
   "Hospital labs look at a drop of blood under a microscope, or use a rapid test, to find which kind of malaria parasite a patient has.",
   "Town water plants pass water through beds of sand before they add chlorine, so that large particles and copepods are held back first.",
   "Meat inspectors and cooks make sure meat is cooked through, which cuts the journey of the pork tapeworm.",
-  "Scientists check whether mosquitoes in a district still die when they touch the insecticide on nets, because tough mosquitoes can take over, as in the Rice and Dal game.",
+  "Scientists check whether mosquitoes in a district still die when they touch the insecticide on nets, because mosquitoes that the insecticide does not kill can take over.",
   "Schools and anganwadis give deworming tablets to children twice a year, and teach hand-washing, to cut the journey of worm eggs from hands to mouths."
  ],
  "spotted": [
@@ -3105,7 +3105,7 @@
   "If you had to cut a parasite's journey in the cheapest way, where would you cut it?",
   "Have you seen wrigglers? What do they do when you disturb the water?",
   "How do you think a copepod looks to a Guinea worm larva?",
-  "Why do you think a parasite would be shaped by her journey?",
+  "A tapeworm has no gut and a louse has no wings. Why do you think parasites lose parts they do not need?",
   "What is the longest journey you have taken, and how many different places did you stay in?",
   "Who in your family remembers an illness that has gone away from your area?",
   "If a baby frog becomes a frog, and a caterpillar becomes a butterfly, which stage is the real one?"
@@ -3164,7 +3164,7 @@
    "explain": "10 times 10 times 10 times 10 is 10,000. 5,000 times 30 is 150,000. 150,000 divided by 10,000 is 15. These are made-up numbers for practice.",
    "math_unit": "math.multiplication.multi-digit.L4",
    "context": "This is about why a parasite with several stages and hosts lays so many eggs.",
-   "why_maths": "Chaining the chances and then scaling up by the days shows how a very small chance can still keep a parasite going."
+   "why_maths": "Multiplying the chances, and then multiplying by the number of days, shows how a very small chance can still keep a parasite going."
   },
   {
    "problem": "A pretend Guinea worm is 80 centimetres long. If 2 centimetres are wound out each day, how many days does it take? How many days if 3 centimetres are wound each day?",
@@ -3282,10 +3282,10 @@
    "explain": "2,400 divided by 100 is 24, and 24 times 85 is 2,040. 2,400 minus 2,040 is 360. The cycle can only stop if almost everyone takes the tablets.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
    "context": "This is about mass drug administration, when everyone at risk in a district is offered the same tablets on the same days.",
-   "why_maths": "A percentage of a whole district tells how many people are left unprotected, who could keep the cycle going."
+   "why_maths": "Working out a percentage of a whole district shows how many people are left unprotected. They could keep the cycle going."
   },
   {
-   "problem": "A person drinks water with Guinea worm larvae on 10 April. The blister usually shows 10 to 14 months later. Between which months of the following year would it appear? The larvae let out into water on 3 May need 14 days in a copepod. On which date are they ready to infect a person?",
+   "problem": "A person drinks water with Guinea worm larvae on 10 April. The blister usually shows 10 to 14 months later. Between which two months of the following year would it appear? In another case, larvae are let out into water on 3 May and need 14 days in a copepod. On which date are they ready to infect a person?",
    "answer": "Between February and June of the following year. The larvae let out on 3 May are ready on 17 May.",
    "explain": "10 April plus 10 months is 10 February, a year later. 10 April plus 14 months is 10 June. 3 May plus 14 days is 17 May.",
    "math_unit": "math.time.calendar.L4",

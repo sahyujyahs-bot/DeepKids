@@ -3,7 +3,7 @@
  "title": "Sorting materials: where to draw the line, and what a map of two numbers can show",
  "level": 4,
  "summary": {
-  "text": "Weigh one katori of each of ten kitchen foods, and they line up in a ladder with no clear gap in the middle. So which foods are heavy and which are light? Anyone can draw the line anywhere. Then measure a second thing, how tall each food piles up, and put both numbers on a map. Sometimes the foods fall into clumps with empty space between them. Your child sorts dal by eye, in a hurry and with care, and counts the two kinds of mistake. They learn why a sorter can swap its mistakes but not remove them. They meet the astronomers who found whole families of stars by putting two numbers side by side. They also see why the groups we find depend on what we measure.",
+  "text": "Weigh one katori of each of ten kitchen foods, and they line up from the lightest to the heaviest, like a ladder, with no clear gap in the middle. So which foods are heavy and which are light? Anyone can draw the line anywhere. Then measure a second thing, how tall each food piles up, and put both numbers on a map. Sometimes the foods fall into clumps with empty space between them. Your child sorts dal by eye, in a hurry and with care, and counts the two kinds of mistake. They learn why a sorter can swap its mistakes but not remove them. They meet the astronomers who found whole families of stars by putting two numbers side by side. They also see why the groups we find depend on what we measure.",
   "art": "A kitchen counter with ten katoris of different foods in a row and a hand-drawn map of dots beside them, with some dots drawn close together in rings."
  },
  "intro": {
@@ -15,7 +15,7 @@
   "I can put things in order by a number, draw a cut-off to make two groups, and say that the cut-off was my choice.",
   "I can show that moving the cut-off moves some things into the other group while others never move.",
   "I can plot two measurements for each thing on a map, and say whether the things fall into clumps with gaps.",
-  "I can explain that a gap on a map belongs to the numbers I chose as well as to the things, and that other numbers can give other groups.",
+  "I can explain that a gap on a map depends on the numbers I chose to measure, not only on the things, and that other numbers can give other groups.",
   "I can count the mistakes a sorter makes, name the two kinds, and explain why moving the cut-off swaps one for the other.",
   "I can sort at more than one level, lumping or splitting, and say which level suits which job.",
   "I can give real examples of sorting by numbers, such as the star map, the plastic codes and rice grading.",
@@ -73,13 +73,13 @@
   },
   {
    "term": "Wrongly kept back",
-   "meaning": "A mistake made by a sorter that holds back a thing that belongs in the group. It is also called a missed one.",
+   "meaning": "A mistake in sorting: a thing that belongs in the group is left out of it. It is also called a missed one.",
    "example": "A good grain of toor dal that was left in the pile because the sorter was not sure of it.",
    "art": "A toor dal piece left in the mixed pile while its group sits in a bowl nearby."
   },
   {
    "term": "Wrongly let through",
-   "meaning": "A mistake made by a sorter that lets in a thing that does not belong to the group. It is also called a false alarm.",
+   "meaning": "A mistake in sorting: a thing that does not belong in the group is let into it. It is also called a false alarm.",
    "example": "A piece of chana dal that landed in the bowl for toor dal.",
    "art": "A piece of chana dal sitting in a bowl full of toor dal."
   },
@@ -97,7 +97,7 @@
   },
   {
    "term": "Level",
-   "meaning": "A step in sorting into groups inside groups. A coarse level has few big groups, and a fine level has many small groups.",
+   "meaning": "One layer of a sorting that has groups inside groups. A coarse level has few big groups, and a fine level has many small groups.",
    "example": "Metal is a coarse level, steel is a finer level, and stainless steel is finer still.",
    "art": "A tree diagram with metal at the top, steel and brass below, and stainless steel below steel."
   },
@@ -109,7 +109,7 @@
   },
   {
    "term": "Grade",
-   "meaning": "A name for a group in a sorting by quality, such as grade A and grade B.",
+   "meaning": "The name of a group when things are sorted by quality, such as grade A and grade B.",
    "example": "Tea is sorted into grades by the size of the leaf pieces.",
    "art": "Three bowls of tea leaves of different sizes labelled by grade."
   },
@@ -149,7 +149,7 @@
    "concept": "Sorting by a number: the ladder and the cut-off",
    "status": "defined",
    "definition": "A ladder puts things in order by a number. A cut-off is a number chosen to split the ladder into two groups.",
-   "description": "In the earlier unit on sorting, you sorted things by yes or no questions, such as hard or not hard. Many properties are not yes or no. How heavy is a katori of rice? It is a number, such as 120 grams. When you weigh ten foods, you can line them up from the lightest to the heaviest. That line is a ladder. To make two groups, you choose a cut-off. For example, you could say that any food at 100 grams or more is a heavy food. Everything on the ladder at 100 grams or more goes into one group. Everything below goes in the other. The ladder came from the foods. The cut-off came from you. A friend can choose 110 grams, and her groups will be different. Neither of you is wrong. Both are saying what you mean by heavy.",
+   "description": "Some things can be sorted by a yes or no question, such as hard or not hard. But many properties are not yes or no. How heavy is a katori of rice? It is a number, such as 120 grams. When you weigh ten foods, you can line them up from the lightest to the heaviest. That line is a ladder. To make two groups, you choose a cut-off. For example, you could say that any food at 100 grams or more is a heavy food. Everything on the ladder at 100 grams or more goes into one group. Everything below goes in the other. The ladder came from the foods. The cut-off came from you. A friend can choose 110 grams, and her groups will be different. Neither of you is wrong. Each of you is saying what you mean by heavy.",
    "examples": [
     "A cut-off of 100 grams puts rice and dal in the heavy group, and a cut-off of 130 grams puts them in the light group.",
     "A school may set a pass mark of 35 out of 100. A child with 35 passes, and a child with 34 does not.",
@@ -162,7 +162,7 @@
    "concept": "Moving the cut-off: who moves and who never does",
    "status": "defined",
    "definition": "When a cut-off moves, only the things close to it change group. Things far away from it stay in the same group, whatever sensible cut-off you pick.",
-   "description": "Imagine a ladder of ten foods. In most kitchens, salt is the heaviest and poha is the lightest. If you draw the line anywhere in the middle, salt stays in the heavy group and poha stays in the light group. They are far from every sensible line. But a food in the middle, such as sooji, moves from one group to the other each time you slide the line past it. These are the borderline cases. They are the ones people argue about. You can measure how borderline a thing is. Ask ten people to draw their line, and count for each food how many put it in the heavy group. Salt will get ten out of ten and poha will get zero. Sooji might get five out of ten. A number from zero to ten tells you how sure the group is. This is better than just saying tricky. It also shows that the argument is about the line and not about the food.",
+   "description": "Take a ladder of ten foods. In most kitchens, salt is the heaviest and poha is the lightest. If you draw the line anywhere in the middle, salt stays in the heavy group and poha stays in the light group. They are far from every sensible line. But a food in the middle, such as sooji, moves from one group to the other each time you slide the line past it. These are the borderline cases. They are the ones people argue about. You can measure how borderline a thing is. Ask ten people to draw their line, and count for each food how many put it in the heavy group. Salt will get ten out of ten and poha will get zero. Sooji might get five out of ten. A number from zero to ten tells you how sure the group is. That tells you more than just calling a food tricky. It also shows that the argument is about the line and not about the food.",
    "examples": [
     "Salt and poha stay put whatever cut-off you choose, and foods in the middle of the ladder swap groups.",
     "A student who scores 34 and a student who scores 36 are almost the same, but a pass mark of 35 puts them in different groups.",
@@ -223,7 +223,7 @@
    "concept": "The star map: Hertzsprung, Russell and the families of stars",
    "status": "defined",
    "definition": "A star map, called the Hertzsprung–Russell diagram, places each star by its colour across and its brightness up. Most stars fall on a band called the main sequence, with giants above it and white dwarfs below it.",
-   "description": "About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed a map that put brightness against type for many stars. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. Cecilia Payne, in 1925, had shown that the types were really a ladder of temperature.",
+   "description": "About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed a map that put brightness against type for many stars. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. In 1925, Cecilia Payne showed that the types were really a ladder of temperature. Later, physics showed that the band is made of stars of different masses, all burning hydrogen.",
    "examples": [
     "The Sun sits in the middle of the main sequence.",
     "Betelgeuse is a red giant, cool and very bright.",
@@ -262,7 +262,7 @@
    "concept": "The trade-off: no cut-off removes both mistakes",
    "status": "defined",
    "definition": "When two groups overlap on one number, moving the cut-off swaps one kind of mistake for the other. Only a better measurement can reduce both.",
-   "description": "In the Strict and Relaxed test, a strict sorter takes only pieces she is sure of. She lets almost no wrong pieces in, but she leaves many good ones behind. A relaxed sorter takes everything that might be right. She leaves almost none behind, but she lets in many wrong pieces. Moving from strict to relaxed does not remove mistakes. It swaps one kind for the other. This happens whenever the two groups overlap on the thing you measure. A small chana dal may look just like a big toor dal. No cut-off on size can split them perfectly. To do better, you need a second number that separates them, such as colour or weight. With two numbers, the overlap may disappear. This is why real mills pass grain through several machines, each sorting by a different number. When one number leaves the groups overlapping, a cleverer cut-off will not fix it. A new number might.",
+   "description": "In the Strict or Relaxed test, a strict sorter takes only pieces she is sure of. She lets almost no wrong pieces in, but she leaves many good ones behind. A relaxed sorter takes everything that might be right. She leaves almost none behind, but she lets in many wrong pieces. Moving from strict to relaxed does not remove mistakes. It swaps one kind for the other. This happens whenever the two groups overlap on the thing you measure. A small chana dal may look just like a big toor dal. No cut-off on size can split them perfectly. To do better, you need a second number that separates them, such as colour or weight. With two numbers, the overlap may disappear. This is why real mills pass grain through several machines, each sorting by a different number. When one number leaves the groups overlapping, a cleverer cut-off will not fix it. A new number might.",
    "examples": [
     "A strict sorter lets nothing wrong in, and wrongly keeps back many good pieces.",
     "A relaxed sorter wrongly keeps back almost none, and lets many wrong pieces in.",
@@ -275,7 +275,7 @@
    "concept": "Fast and careful: how sorters check their work",
    "status": "defined",
    "definition": "Hurrying makes more mistakes, so careful sorters check a sample and sort in more than one stage.",
-   "description": "A quick sort and a careful sort give different results. When you hurry, you make more mistakes of both kinds, because you glance at each piece for less time. Real sorting systems know this. A buyer does not look at every grain in a sack. She takes a sample, a small handful, and counts the broken or wrong grains in it. If the share of wrong grains in the sample is small, she assumes the sack is good. Mills also sort in stages. A fast, cheap first stage removes most of the rubbish. A slower, more careful stage works on what is left. This is cheaper than one slow stage for everything. A bigger sample gives a better guess, but it takes longer. So sorting is always a balance between speed, cost and the number of mistakes you can live with.",
+   "description": "A quick sort and a careful sort give different results. When you hurry, you make more mistakes of both kinds, because you glance at each piece for less time. People who do real sorting know this. A buyer does not look at every grain in a sack. She takes a sample, a small handful, and counts the broken or wrong grains in it. If the share of wrong grains in the sample is small, she assumes the sack is good. Mills also sort in stages. A fast, cheap first stage removes most of the rubbish. A slower, more careful stage works on what is left. This is cheaper than one slow stage for everything. A bigger sample gives a better guess, but it takes longer. So sorting is always a balance between speed, cost and the number of mistakes you can live with.",
    "examples": [
     "A trader takes a handful from a sack to judge the whole sack.",
     "A mill removes dust and big stones first, then uses a camera sorter on the cleaner rice.",
@@ -301,7 +301,7 @@
    "concept": "Sorting plastics: the number in the triangle",
    "status": "defined",
    "definition": "A resin code is a number from 1 to 7 stamped inside a triangle of arrows on plastic things. It names the family of plastic the thing is made from.",
-   "description": "Turn over a plastic bottle, a curd cup or a tiffin box. Many have a small triangle of arrows with a number inside. This is a resin code. It started in the United States in 1988, to help sort plastics for recycling. A 1 means PET, the plastic of most clear drink bottles. A 2 means HDPE, used for milk cans and many caps. A 5 means polypropylene, used for many tiffin boxes and curd cups. A 7 means other, which is a box for everything that does not fit the first six. That makes it the tricky middle again. Recycling plants use the differences between plastics to sort them. For example, many of them put chopped plastic in a tank of water. Some plastics, such as HDPE and polypropylene, float, and others, such as PET, sink. The code tells you what the plastic is made of. It does not tell you whether your town can recycle it.",
+   "description": "Turn over a plastic bottle, a curd cup or a tiffin box. Many have a small triangle of arrows with a number inside. This is a resin code. It started in the United States in 1988, to help sort plastics for recycling. A 1 means PET, the plastic of most clear drink bottles. A 2 means HDPE, used for milk cans and many caps. A 5 means polypropylene, used for many tiffin boxes and curd cups. A 7 means other, which is a box for everything that does not fit the first six. So a thing marked 7 may be any of many different kinds of plastic. Recycling plants use the differences between plastics to sort them. For example, many of them put chopped plastic in a tank of water. Some plastics, such as HDPE and polypropylene, float, and others, such as PET, sink. The code tells you what the plastic is made of. It does not tell you whether your town can recycle it.",
    "examples": [
     "A clear water bottle often has a 1 in the triangle.",
     "A milk can or shampoo bottle often has a 2.",
@@ -314,7 +314,7 @@
    "concept": "Sorting by computers: clumps in many numbers",
    "status": "idea",
    "definition": "",
-   "description": "A human can draw a map of two numbers. A computer can find clumps among hundreds. In 1936, a British statistician named Ronald Fisher studied 150 iris flowers that an American botanist, Edgar Anderson, had measured four ways each. When he looked at the numbers, one kind of iris was cleanly separate. The other two kinds overlapped, so no cut-off on those four numbers could sort them without some mistakes. Today, computer programs sort photographs, voices and shopping habits in the same way. They look for clumps, or they learn a rule from examples. But they still need a person to decide which numbers to give them, and what the clumps mean. And they can make mistakes unevenly. In 2018, two researchers, Joy Buolamwini and Timnit Gebru, reported a problem. Several commercial computer systems tried to tell men from women in photographs. They made far more mistakes on darker-skinned women than on lighter-skinned men. Counting both kinds of mistake, for every group of people, is how such a problem is found.",
+   "description": "A person can draw a map of two numbers. A computer can find clumps among hundreds of numbers. In 1936, a British statistician named Ronald Fisher studied 150 iris flowers. An American botanist, Edgar Anderson, had measured each flower in four ways. When Fisher looked at the numbers, one kind of iris was cleanly separate. The other two kinds overlapped, so no cut-off on those four numbers could sort them without some mistakes. Today, computer programs sort photographs, voices and shopping habits in the same way. They look for clumps, or they learn a rule from examples. But they still need a person to decide which numbers to give them, and what the clumps mean. They can also make more mistakes on some groups of people than on others. In 2018, two researchers, Joy Buolamwini and Timnit Gebru, reported a problem. Several commercial computer systems tried to tell men from women in photographs. They made far more mistakes on darker-skinned women than on lighter-skinned men. Counting both kinds of mistake, for every group of people, is how such a problem is found.",
    "examples": [
     "Fisher found that one kind of iris was cleanly separate and two overlapped.",
     "A computer can find clumps among hundreds of numbers at once.",
@@ -335,7 +335,7 @@
   },
   {
    "text": "A sorter that uses one measurement on groups that overlap has to trade one kind of mistake for the other.",
-   "evidence": "In the Strict and Relaxed test, the strict round left more good pieces behind and the relaxed round let in more wrong pieces."
+   "evidence": "In the Strict or Relaxed test, the strict round left more good pieces behind and the relaxed round let in more wrong pieces."
   },
   {
    "text": "The Hertzsprung–Russell diagram shows families of stars: the main sequence, giants and white dwarfs.",
@@ -343,11 +343,11 @@
   },
   {
    "text": "Families of materials, such as metals, woods, plastics and ceramics, appear as clumps on charts that plot two properties.",
-   "evidence": "Ashby's charts, built from the measured properties of thousands of materials."
+   "evidence": "Ashby's charts show this. They were built from the measured properties of thousands of materials."
   },
   {
    "text": "Computers can find clumps in many numbers at once, but people choose the numbers and decide what the clumps mean.",
-   "evidence": "Fisher's iris study in 1936, and tests of face-sorting systems that counted mistakes for each group of people."
+   "evidence": "This is seen in Fisher's iris study in 1936, and in tests of face-sorting systems that counted mistakes for each group of people."
   }
  ],
  "challenging": [
@@ -376,7 +376,7 @@
    "claim": "A sorter that makes more mistakes is a worse sorter.",
    "who": "Many people.",
    "for": "Fewer mistakes seems always better.",
-   "against": "A strict sorter and a relaxed sorter can make the same total number of mistakes. They make different kinds, and one kind may cost far more. A smoke alarm should rather ring for toast than miss a fire.",
+   "against": "A strict sorter and a relaxed sorter can make the same total number of mistakes. They make different kinds, and one kind may cost far more. It is better for a smoke alarm to ring for toast than to miss a fire.",
    "status": "debated"
   },
   {
@@ -428,7 +428,7 @@
   {
    "q": "Should a sorter ever be allowed to say that it is not sure? What would we need to change if it could?",
    "kind": "big",
-   "hint": "Think of the unsure bowl in a sorting test and what happens to the pieces in it."
+   "hint": "Think of the pieces a strict sorter leaves behind because she is not sure of them. What happens to those pieces?"
   },
   {
    "q": "On a map, the dots made clumps that we did not draw. Does that mean the groups were already in the foods, or did our two numbers make them?",
@@ -436,7 +436,7 @@
    "hint": "Think about what would happen on a map made from two different numbers."
   },
   {
-   "q": "Many languages have fewer or more words for colours than others, and draw the line between blue and green at different places. Is the colour line in the world, or in the people?",
+   "q": "Some languages have more words for colours than others, and they draw the line between blue and green at different places. Is the colour line in the world, or in the people?",
    "kind": "big",
    "hint": "Think about a ladder of colours with no gaps and about who needs the line."
   }
@@ -453,14 +453,14 @@
    "The trouble began on the second day. A customer in Kumbakonam telephoned. She had bitten on a small stone in her rice, and it had hurt her tooth. Kamala Athai frowned. 'Make the machine stricter,' she said. Karthik turned the dial up.",
    "On the third day, the side bin was full to the brim. Meenakshi looked into it. Most of what lay there was good white rice, with a chalky spot or a slightly different shade. Kamala Athai looked at the bin, and then at her account book. 'At this rate,' she said, 'we throw away more than we sell.' She told Karthik to turn the dial down.",
    "On the fourth day, a stone got through again. Kamala Athai said nothing for a long time. She had turned the dial up, and she had turned it down, and each time she had swapped one trouble for the other.",
-   "Meenakshi had learned at school that week how to count the mistakes of a sorter. She asked the kitchen for two cups. She took a handful from the side bin and a handful from the front bin. Then she sat on her bucket and counted. In the front bin, a few stones. In the side bin, many good grains. She wrote two columns in her notebook.",
+   "Meenakshi had learned at school that week how to count the mistakes of a sorter. She asked the kitchen for two cups. She took a handful from the side bin and a handful from the front bin. Then she sat on her bucket and counted. In the handful from the front bin, she found a few stones. In the handful from the side bin, she found many good grains. She wrote two columns in her notebook.",
    "'The dial does not take the mistakes away,' she said slowly. 'It only moves them. Strict has fewer stones and more thrown-away rice. Loose has more stones and less thrown-away rice. It is a seesaw.' Karthik rolled his eyes. 'Then how do you fix a seesaw?' 'You don't push it,' said Meenakshi. 'You look at something else.'",
-   "She laid thirty things on a newspaper: ten stones from the bin, ten chalky grains and ten good grains. She looked at them very hard. By colour, the stones and the chalky grains looked almost the same, pale and dull. That was why the camera could not tell them apart. But when she held a stone in one hand and a chalky grain in the other, one felt like nothing, and the other felt like a tiny weight.",
+   "She laid thirty things on a newspaper: ten stones from the bin, ten chalky grains and ten good grains. She looked at them very hard. By colour, the stones and the chalky grains looked almost the same, pale and dull. That was why the camera could not tell them apart. But when she held a stone in one hand and a chalky grain in the other, the grain felt like nothing, and the stone felt like a tiny weight.",
    "She borrowed the little scale from the tea shop and weighed the things in tens. Then she drew a map. Across the page went how pale a thing was. Up the page went how heavy it was. She put a dot for every one of the thirty things.",
    "The dots fell into three small clumps. The good grains sat low down on one side. The chalky grains sat low down on the other. The stones sat high above both, with a clear gap of empty paper between. 'Look,' said Meenakshi. 'The camera cannot find the stones by colour. A scale finds them at once.'",
    "Kamala Athai looked at the map for a long time. 'There is an old machine in the back shed,' she said. 'It shakes the rice on a sloping tray with a little wind. The heavy things stay on the tray, and the light rice floats off. We never used it, because the new machine had a camera.' Karthik fetched it. They put it first in the line, and the camera second. Meenakshi turned the dial of the camera back to its middle.",
    "By Pongal morning, the stones were gone from the front bin, and the side bin was nearly empty. The camera now threw out only the chalky grains that it was meant to find. Kamala Athai tore the page from Meenakshi's notebook and pinned it beside the machine.",
-   "'Why did it work?' asked Karthik. 'One number could not split them,' said Meenakshi. 'Two numbers could.' She looked at the pinned page. Three clumps and a gap. The grains had never been the problem. The problem was the way they had been looked at.",
+   "'Why did it work?' asked Karthik. 'One number could not split them,' said Meenakshi. 'Two numbers could.' She looked at the pinned page. It showed three clumps and a gap. The grains had never been the problem. The problem was the way they had been looked at.",
    "Outside, the first pots of Pongal were beginning to boil over in the courtyards of the village. Not one of them held a stone."
   ],
   "epiphany": "A dial can only swap one kind of mistake for the other. When two groups look alike on one number, a second number can pull them apart into clumps with a gap between.",
@@ -628,7 +628,7 @@
     }
    ],
    "rules": [
-    "The squish score is a score made up for this game. It goes from 1, rock hard, to 20, very squishy. The order of the cards is roughly right.",
+    "The squish score is a score made up for this game. It goes from 1, rock hard, to 20, very squishy. The scores are rough, but the order of the cards is about right.",
     "One player is the Judge. The Judge secretly writes a cut-off number between 6 and 15 on a slip of paper and folds it.",
     "Squishy means a squish score at or above the cut-off. Everything below it is firm.",
     "The other players take turns to point at one card and ask, 'Is this card squishy?' The Judge says yes or no, using the cut-off.",
@@ -641,7 +641,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the 24 cards and the 20 tokens. Lay the cards in a row, from the highest squish score to the lowest. Check that the order is a ladder.",
+     "do": "Cut out the 24 cards and the 20 tokens. Lay the cards in a row, from the highest squish score to the lowest. Check that the scores go down in order. This row is a ladder.",
      "say": "These cards have squish scores from 1 to 20. We lay them in a row from the highest to the lowest. That makes a ladder.",
      "kid": "Cut out the cards. Lay them in a row from 20 down to 1.",
      "context": "This is the first step of Where Is the Line? You set up the cards and make the ladder.",
@@ -697,7 +697,7 @@
       "options": [
        "The two cards are almost the same, and the line was the Judge's choice",
        "The cut-off is a fact about the cards",
-       "The card with 9 is much harder than the card with 10"
+       "The card with 8 is much harder than the card with 10"
       ],
       "a": 0,
       "why": "A score of 10 and a score of 8 are close. The Judge could have put the cut-off a step or two higher, and the card with 10 would have joined the firm group. The line was the Judge's choice and not a fact about the cards."
@@ -805,7 +805,7 @@
     },
     {
      "t": "sort",
-     "p": "Which of these are mistakes that wrongly keep back, and which wrongly let through? Sort them.",
+     "p": "Sort these mistakes into two kinds: wrongly kept back and wrongly let through.",
      "cats": [
       "Wrongly kept back",
       "Wrongly let through"
@@ -842,7 +842,7 @@
       "Wrongly letting in pieces that do not belong"
      ],
      "a": 0,
-     "why": "A strict sorter holds back every piece she is not sure of. That means she leaves many good pieces behind. She lets in almost no wrong pieces. Picking 'neither kind' forgets that no sorter on overlapping groups is perfect.",
+     "why": "A strict sorter holds back every piece she is not sure of. That means she leaves many good pieces behind. She lets in almost no wrong pieces. 'Neither kind' is wrong, because no sorter is perfect when the groups overlap.",
      "outcome": 4
     },
     {
@@ -1054,10 +1054,10 @@
       },
       {
        "who": "A cook",
-       "says": "Use a second machine that looks at a different thing, such as weight, and keep the first one in the middle."
+       "says": "Use a second machine that looks at a different thing, such as weight, and keep the first one at its middle setting."
       }
      ],
-     "ask": "Which advice do you agree with most? Give a reason that uses the two kinds of mistake. Then say one thing that another person has right.",
+     "ask": "Which advice do you agree with most? Give a reason that uses the two kinds of mistake. Then name one thing that another person is right about.",
      "lines": 5,
      "a": "A strong answer picks one piece of advice and says which mistake it reduces and which it increases. For example, the cook's idea of a second measurement could reduce both kinds. It then admits a fair point from someone else, such as the customer's wish for no stones, or the accountant's worry about waste.",
      "why": "Nobody is wrong. A strict setting protects customers but wastes rice. A second measurement may help with both. The right choice depends on which mistake costs more.",
@@ -1296,19 +1296,19 @@
      "p": "Three scientists talk about the groups we find in nature.",
      "views": [
       {
-       "who": "Aditi, a chemist",
+       "who": "A chemist",
        "says": "All gold atoms are exactly alike. The group gold is there whether or not anybody draws a line."
       },
       {
-       "who": "Joseph, a gardener",
-       "says": "Weed is just a plant in a place where somebody does not want it. Nature has no weeds."
+       "who": "A gardener",
+       "says": "A weed is just a plant growing in a place where somebody does not want it. Nature has no weeds."
       },
       {
-       "who": "Karan, an astronomer",
+       "who": "An astronomer",
        "says": "Stars fall in families on the map whatever we do. But the names are ours, and the families depend on what we measure."
       }
      ],
-     "ask": "Are the groups in the world, or are they made by us? Give a reason that uses something you found in this unit. Then say one thing that another person has right.",
+     "ask": "Are the groups in the world, or are they made by us? Give a reason that uses something you found in this unit. Then name one thing that another person is right about.",
      "lines": 5,
      "a": "A strong answer may take either side or the middle, and gives a reason from the unit, such as the gap in the star map, the dependence of clumps on the numbers plotted, or the pass mark as a chosen line. It then admits a fair point from another person.",
      "why": "Some groups are likely real and some are made by us. Which is which depends on whether the group stays when we change what we measure.",
@@ -1329,7 +1329,7 @@
     },
     {
      "t": "count",
-     "p": "On the map, flour is at 80 grams and 48 millimetres high, and maida is at 80 grams and 51 millimetres high. How many millimetres higher is the maida heap than the flour heap?",
+     "p": "On the Katori Map, flour is at 80 grams and 48 millimetres high, and maida is at 80 grams and 51 millimetres high. How many millimetres higher is the maida heap than the flour heap?",
      "a": "3 millimetres",
      "why": "Both are at 80 grams, so they are in the same place across. 51 take away 48 is 3. So maida is 3 millimetres higher, and the two dots sit very close together.",
      "outcome": 2,
@@ -1441,7 +1441,7 @@
       "Maps cannot show gaps"
      ],
      "a": 2,
-     "why": "A gap on a map is a fact about the numbers plotted. A different pair of numbers might fill it in, or show a different gap. Checking with other numbers tells you if the group is robust.",
+     "why": "A gap on a map is a fact about the numbers plotted. A different pair of numbers might fill it in, or show a different gap. Checking with other numbers tells you whether the group still holds.",
      "outcome": 3
     },
     {
@@ -1476,7 +1476,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A very slow, careful sorter will make no mistakes if the two groups overlap on the number she measures.",
+     "p": "Two groups overlap on the number a sorter measures. If she is very slow and careful, she will make no mistakes.",
      "a": false,
      "why": "False. If the groups overlap, no cut-off can separate them. Care changes which mistakes are made, but cannot remove them. Only a new measurement can.",
      "outcome": 4
@@ -1504,7 +1504,7 @@
    "mins": 40,
    "days": 1,
    "question": "If you sort ten kitchen foods by the mass of one katori, is there a gap in the ladder? And if you also measure how tall each food piles up, do the foods fall into clumps?",
-   "predict": "Before you start, guess. Which food will be the heaviest in a katori, and which the lightest? Which will make the tallest heap? Will any foods sit close together on both counts? Why do you think so?",
+   "predict": "Before you start, guess. Which food will be the heaviest in a katori, and which the lightest? Which will make the tallest heap? Will any foods be close together in both mass and heap height? Why do you think so?",
    "fair_test": "You use the same katori, filled level to the top, for every food. You pour each food from the same height onto the same plate, slowly. You measure each heap in the same way. Only the food changes, so any difference in mass or in heap height comes from the food.",
    "results_table": [
     "Food",
@@ -1677,9 +1677,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Compare your ladder and your map. Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask where they would draw the groups now.",
+     "do": "Compare your ladder and your map. Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened. Ask where they would draw the groups now.",
      "say": "Look at the ladder and at the map. Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why.",
+     "kid": "Say or write three sentences: what you thought would happen, what you saw, and why you think it happened.",
      "parent": "A good answer says that the ladder had no clear gap, so the line was a choice, and that the map may have shown clumps or none. If the foods did not clump, that is also a finding: it means these two numbers do not split these foods. Let your child try first. Then read the Clumps and Gaps card together.",
      "context": "In this step, you compare the ladder and the map and explain what you found."
     }
@@ -1796,7 +1796,7 @@
      "do": "Set the timer for 30 seconds. Say go. Your child moves into the toor bowl only the pieces they are very sure are toor dal. Stop when the timer ends. Then count the pieces in the bowl, and count carefully how many of them are chana dal.",
      "say": "Strict round. Take only the pieces you are very sure are toor dal. You have thirty seconds. Ready, go. Now stop, and count.",
      "kid": "Strict round. Take only pieces you are sure of. Thirty seconds. Go.",
-     "parent": "Count slowly with no time limit, because the aim now is to find every mistake. Toor dal not in the bowl is 20 minus the toor dal that is in the bowl. A strict round often leaves many good pieces behind and has almost no chana dal in the bowl.",
+     "parent": "After the round, count slowly, with no time limit, because the aim now is to find every mistake. Toor dal not in the bowl is 20 minus the toor dal that is in the bowl. A strict round often leaves many good pieces behind and has almost no chana dal in the bowl.",
      "check": {
       "t": "mcq",
       "q": "In a strict round, the toor bowl had 9 pieces and all were toor dal. 11 toor dal were left in the heap. What kind of mistake were the 11?",
@@ -1833,9 +1833,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Fill in the table for both rounds. Add the two kinds of mistake for each round. Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Fill in the table for both rounds. Add the two kinds of mistake for each round. Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened.",
      "say": "Write the counts in your table. Add up the mistakes for each round. Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Fill in the table. Say or write three sentences. What I think. What I saw. Why.",
+     "kid": "Fill in the table. Say or write three sentences: what you thought would happen, what you saw, and why you think it happened.",
      "ask": [
       {
        "q": "What happened to the two kinds of mistake when you changed from strict to relaxed?",
@@ -1846,7 +1846,7 @@
        ]
       }
      ],
-     "parent": "A good reason says that the two groups look alike, so no rule can be right every time. Moving from strict to relaxed swaps one kind of mistake for the other. Let your child say it first. Then read the Trade-off card together. The second round is easier because the pieces are now familiar. To be fair, let the next sorter, or the next day, do the relaxed round first and see if the pattern holds.",
+     "parent": "A good reason says that the two groups look alike, so no rule can be right every time. Moving from strict to relaxed swaps one kind of mistake for the other. Let your child say it first. Then read the Trade-off card together. The second round is easier because the pieces are now familiar. To be fair, the next sorter, or the same child on another day, can do the relaxed round first and see if the pattern holds.",
      "context": "In this step, you total the mistakes and explain what you found."
     }
    ]
@@ -1890,7 +1890,7 @@
      "qty": 1
     }
    ],
-   "safety": "Fingernails press only a gentle push. Do not use a knife or a sharp thing. Use an unlit candle, and keep it away from flames and matches.",
+   "safety": "Press with a fingernail gently. Do not use a knife or any sharp thing. Use an unlit candle, and keep it away from flames and matches.",
    "record": "For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest. Also count how many things all the voters agreed on in each round.",
    "context": "In this experiment, five voters decide whether ten things are soft or hard, first by their own feeling and then by a fingernail test. You find which things split the vote.",
    "setup": [
@@ -1990,9 +1990,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask which round had more agreement.",
+     "do": "Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened. Ask which round had more agreement.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Which round had more agreement?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why.",
+     "kid": "Say or write three sentences: what you thought would happen, what you saw, and why you think it happened.",
      "parent": "A good reason says that the things in the middle of the ladder split the vote. A clear test makes people agree more, but it cannot remove the middle. Let your child try first. Then read the Moving the Cut-off card together.",
      "context": "In this step, you explain what you found."
     }
@@ -2064,7 +2064,7 @@
        ]
       }
      ],
-     "parent": "Many things in India carry no mark at all. If you find fewer than four with a code, borrow things from a neighbour or look at bigger containers, such as a bucket or an oil can. Do not tell your child yet what the number means. Let them guess. Some packs in India show only letters such as PET, HDPE or PP, or no mark at all. Count those too. None is a result. Carry bags, pouches and chips packets often have no number. One child with a parent: the parent holds the list. Two to four children: each child hunts in one room, such as the kitchen, the bathroom or the store room, and finds at least three things.",
+     "parent": "Many things in India carry no mark at all. If you find fewer than four with a code, borrow things from a neighbour or look at bigger containers, such as a bucket or an oil can. Do not tell your child yet what the number means. Let them guess. Some packs show only letters such as PET, HDPE or PP. Count those too. Carry bags, pouches and chips packets often have no number, and finding no mark is also a result. One child with a parent: the parent holds the list. Two to four children: each child hunts in one room, such as the kitchen, the bathroom or the store room, and finds at least three things.",
      "context": "This is the first step of the Plastic Code Hunt. You find the codes."
     },
     {
@@ -2099,19 +2099,19 @@
        "good": [
         "Some plastics do not fit the first six.",
         "It is for mixtures.",
-        "It is the tricky middle."
+        "It is a box for everything else."
        ]
       }
      ],
-     "parent": "Number 7 is a box for everything that does not fit the first six. It is the tricky middle from the earlier unit on sorting. A thing marked 7 may hold many different plastics, so recycling plants often cannot sort it.",
+     "parent": "Number 7 is a box for everything that does not fit the first six. A thing marked 7 may hold many different plastics, so recycling plants often cannot sort it.",
      "context": "In this step, you check your rows against what the numbers mean."
     },
     {
      "id": "a1s4",
      "mins": 4,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why.",
+     "kid": "Say or write three sentences: what you thought would happen, what you saw, and why you think it happened.",
      "parent": "A good reason says that things with the same number are alike in what they are made of, and often in how they feel and what they are used for. The code is a sort by one question, what family of plastic, so it hides other differences, such as colour and shape.",
      "context": "In this step, you explain what you found."
     }
@@ -2222,7 +2222,7 @@
     {
      "id": "a2s4",
      "mins": 3,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask which level they would use to put the spices away.",
+     "do": "Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened. Ask which level they would use to put the spices away.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Which level would you choose?",
      "kid": "Say or write three sentences. Which level would you use, and why?",
      "parent": "A good answer says that the right level depends on the job. A coarse level is quick to set up, and a fine level is quick to search. A job that needs only to know seeds from powders can lump. A job that needs to find cumin in the dark must split.",
@@ -2276,7 +2276,7 @@
     {
      "id": "a3s1",
      "mins": 6,
-     "do": "Draw a grid of 5 squares across and 5 up. Make each square about 3 centimetres wide. Before you plot, guess if the dots will spread evenly or gather. Across the bottom, write colour: 1 red, 2 orange, 3 yellow, 4 white, 5 blue-white. Up the side, write brightness: 1 very faint, 2 faint, 3 like the Sun, 4 bright, 5 very bright. The steps are rough.",
+     "do": "Draw a grid of 5 squares across and 5 up. Make each square about 3 centimetres wide. Before you plot, guess if the dots will spread evenly or gather. Across the bottom, write colour: 1 red, 2 orange, 3 yellow, 4 white, 5 blue-white. Up the side, write brightness: 1 very faint, 2 faint, 3 like the Sun, 4 bright, 5 very bright. These steps are rough ranks, not exact measurements.",
      "say": "Draw a grid, five by five. Colour goes along the bottom, from red to blue. Brightness goes up the side, from very faint to very bright.",
      "kid": "Draw the grid. Colour goes across. Brightness goes up.",
      "parent": "This is a simplified version of a real star map. The steps are rough ranks, and the star values are rounded. Stars differ so much in brightness that astronomers use a special scale, but ranks show the same families.",
@@ -2285,7 +2285,7 @@
     {
      "id": "a3s2",
      "mins": 10,
-     "do": "Plot these stars, as colour step then brightness step. Proxima Centauri, 1 and 1. Barnard's Star, 1 and 1. 61 Cygni A, 2 and 2. Epsilon Eridani, 2 and 2. The Sun, 3 and 3. Alpha Centauri A, 3 and 3. Sirius A, 4 and 4. Vega, 4 and 4. Altair, 4 and 4. Spica, 5 and 5. Rigel, 5 and 5. Arcturus, 2 and 4. Aldebaran, 2 and 4. Betelgeuse, 1 and 5. Antares, 1 and 5. Sirius B, 4 and 2.",
+     "do": "Plot these stars. For each star, the first number is its colour step and the second is its brightness step. Proxima Centauri, 1 and 1. Barnard's Star, 1 and 1. 61 Cygni A, 2 and 2. Epsilon Eridani, 2 and 2. The Sun, 3 and 3. Alpha Centauri A, 3 and 3. Sirius A, 4 and 4. Vega, 4 and 4. Altair, 4 and 4. Spica, 5 and 5. Rigel, 5 and 5. Arcturus, 2 and 4. Aldebaran, 2 and 4. Betelgeuse, 1 and 5. Antares, 1 and 5. Sirius B, 4 and 2.",
      "say": "Plot all sixteen stars. Colour step goes across and brightness step goes up. Put dots side by side if two stars share a square.",
      "kid": "Plot the sixteen stars. Colour across, brightness up.",
      "parent": "Stars that share a square can be drawn as two dots side by side. Colour the dot to match the star's colour. Betelgeuse and Antares are red, Arcturus and Aldebaran are orange, the Sun is yellow, Sirius is white, and Rigel and Spica are blue-white. Some squares hold two or three stars. Draw the dots side by side in the square. One child with a parent: the parent reads the list and the child plots. Two to four children: share one big sheet and let each child plot four stars, then ring the clumps together.",
@@ -2317,14 +2317,14 @@
        "The stars are in the wrong places"
       ],
       "a": 1,
-      "why": "If stars could have any colour and any brightness, the dots would fill the map. They gather in a band, with a few above and below. So stars come in families. Wrong places and all stars being the same would not make a pattern."
+      "why": "If stars could have any colour and any brightness, the dots would fill the map. They gather in a band, with a few above and below. So stars come in families. The stars are not in the wrong places, and they are not all the same."
      },
      "context": "In this step, you find the families of stars on your map."
     },
     {
      "id": "a3s4",
      "mins": 6,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask what the map shows that a plain list of stars did not.",
+     "do": "Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened. Ask what the map shows that a plain list of stars did not.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? What did the map show that a list did not?",
      "kid": "Say or write three sentences. What did the map show that a list could not?",
      "parent": "A good answer says that a list of names and numbers hides the pattern, and a map makes it clear: the band, the giants and the white dwarf. Hertzsprung and Russell found families of stars in this way, before anybody knew why they were there.",
@@ -2388,7 +2388,7 @@
        ]
       }
      ],
-     "parent": "Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why. Mid-morning is usually quiet. Buying one small thing is a kind thanks. Two to four children: each takes a different shelf or cupboard, then compare trees.",
+     "parent": "Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why. Mid-morning is usually quiet. Buying one small thing is a kind way to say thanks. Two to four children: each takes a different shelf or cupboard, and then they compare their trees.",
      "context": "This is the first step of Shelf Detective. You find the groups."
     },
     {
@@ -2414,9 +2414,9 @@
     {
      "id": "a4s3",
      "mins": 7,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think the shop sorts that way. Ask which level the shop uses the most.",
+     "do": "Ask your child to say or write three sentences: what they thought they would find, what they saw, and why they think the shop sorts that way. Ask which level the shop uses the most.",
      "say": "Write three sentences. What did you think? What did you see? Why does the shop sort that way?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why.",
+     "kid": "Say or write three sentences: what you thought you would find, what you saw, and why you think the shop sorts that way.",
      "parent": "A good reason says that the shop sorts to help the customer find things quickly, and the rule fits the job. Most shops use two or three levels: aisle, shelf group and brand.",
      "context": "In this step, you explain what you found."
     }
@@ -2495,8 +2495,8 @@
      "id": "p1s2",
      "mins": 18,
      "do": "Weigh one katori of each new food, filled level. Pour each into a heap from 10 centimetres up, twice, and measure the heights in millimetres. Write the mass and the average height for each food.",
-     "say": "Measure the six new foods just as before. Weigh a katori of each. Pour two heaps and measure them. Write the numbers.",
-     "kid": "Weigh and pour each new food, just as before. Write the numbers.",
+     "say": "Measure the six new foods in the same way as the first ten foods on your Katori Map. Weigh a katori of each. Pour two heaps and measure them. Write the numbers.",
+     "kid": "Weigh and pour each new food, the same way as the first ten foods. Write the numbers.",
      "parent": "Use the same katori, the same plate, the same height for pouring and the same ruler. Flours make dust, so pour slowly. Short of time? Do four foods, or finish the rest in a second sitting. Two to four children: each child takes two or three foods and weighs, pours and measures them. One child with a parent: the parent writes and holds the ruler. Keep foods in closed jars in damp weather, and say if one lumps.",
      "check": {
       "t": "mcq",
@@ -2532,9 +2532,9 @@
     {
      "id": "p1s4",
      "mins": 5,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Ask what the map can and cannot predict.",
+     "do": "Ask your child to say or write three sentences: what they thought would happen, what they saw, and why they think it happened. Ask what the map can and cannot predict.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? What can the map predict?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why.",
+     "kid": "Say or write three sentences: what you thought would happen, what you saw, and why you think it happened.",
      "parent": "A good answer says that the map predicts well when a new food is like the others in what matters for the two numbers, such as being a fine flour. It predicts badly when a new food has a shape or stickiness that the old foods did not have. An outlier teaches the most.",
      "context": "In this step, you explain how good your map was at predicting."
     }
@@ -2568,7 +2568,7 @@
    ],
    "creative": [
     "A slot that is narrow at the top and wider at the bottom, so that pieces fall through at the place that suits their width.",
-    "Two sorters one after the other, the first by size and the second by colour, picked by a second person.",
+    "Two sorters one after the other: the first sorts by size, and then a second person picks by colour.",
     "A slope with a bump or a lip that makes the heavier or rounder pieces bounce further."
    ],
    "your_turn": "Sketch your sorter. Measure the width of five pieces of each dal with a ruler, and choose a first gap. Build it and test it. Count both kinds of mistake. Change the gap, and test again. Which gap gave the fewest mistakes? Why can no gap give none?",
@@ -2640,7 +2640,7 @@
      "mins": 8,
      "do": "Compare your tests. Read the usual solutions and the creative ideas together. Ask your child why no gap gave zero mistakes, and what a second number might add.",
      "say": "Which gap made the fewest mistakes? Why could no gap make none? Read the other ideas. What second number would help?",
-     "kid": "Which gap was best? Why no zero? Read the other ideas.",
+     "kid": "Which gap was best? Why did no gap give zero mistakes? Read the other ideas.",
      "ask": [
       {
        "q": "What second thing could a sorter look at, to do better than size alone?",
@@ -2651,7 +2651,7 @@
        ]
       }
      ],
-     "parent": "A good answer says that some pieces of the two dals overlap in size, so a gap cannot split them. A second number, such as colour, may separate them. This is what the rice mill in the story discovered.",
+     "parent": "A good answer says that some pieces of the two dals overlap in size, so a gap cannot split them. A second number, such as colour, may separate them. In the story The Dial on the Machine, the rice mill found the same thing.",
      "context": "In this step, you compare your designs and think about a second number."
     }
    ]
@@ -2793,7 +2793,7 @@
    "t": "truefalse",
    "p": "The number 7 in the triangle on plastic means other, a box for plastics that do not fit the first six.",
    "a": true,
-   "why": "True. The codes 1 to 6 name particular families of plastic, and 7 is for the rest. It is a tricky middle where many plastics are lumped together.",
+   "why": "True. The codes 1 to 6 name particular families of plastic, and 7 is for the rest. Many different plastics are lumped together under 7.",
    "outcome": 6
   },
   {
@@ -2971,7 +2971,7 @@
    "why_maths": "Counting how many things fall on each side of a cut-off shows how the choice of line changes the groups, and which things never move."
   },
   {
-   "problem": "In the strict round, 11 out of 20 toor dal were wrongly kept back. In the relaxed round, 11 out of 20 chana dal were wrongly let through. What percentage is each? Which round made fewer mistakes in total, if the strict round also let 0 chana through and the relaxed round also kept 1 toor dal back?",
+   "problem": "In a strict round of sorting dal, 11 out of 20 toor dal were wrongly kept back, and 0 chana dal were wrongly let through. In a relaxed round, 11 out of 20 chana dal were wrongly let through, and 1 toor dal was wrongly kept back. What percentage of the toor dal was kept back in the strict round? What percentage of the chana dal was let through in the relaxed round? Which round made fewer mistakes in total?",
    "answer": "55 percent each. The strict round made fewer mistakes: 11 compared with 12.",
    "explain": "11 out of 20 is 55 out of 100, which is 55 percent. The strict round had 11 plus 0, which is 11 mistakes. The relaxed round had 11 plus 1, which is 12 mistakes. So the strict round made 1 fewer.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3185,16 +3185,16 @@
  "roots": {
   "context": "We have sorted things by lines and by maps. Now we ask what sorting tells us about the world, and about the one who sorts.",
   "deep_truth": {
-   "truth": "Laid out by one number, the foods made a ladder with no gaps. Every line we drew on it was our choice. Laid out by two numbers, some foods fell into clumps with empty space between them. A gap belongs to the numbers we chose, as well as to the foods.",
-   "habit": "We say that these foods are one kind, as if the group sat inside the foods. But the same foods can fall into other groups when we measure other numbers, so a group is partly a fact about our measuring.",
+   "truth": "In the Katori Map, ten foods lined up by the mass of one katori made a ladder with no clear gap, so every line we drew on it was our choice. When we added a second number, the height of the heap, some foods fell into clumps with empty space between them. A gap depends on the numbers we chose to measure, as well as on the foods.",
+   "habit": "We say that these foods are one kind, as if the group sat inside the foods. But the same foods can fall into other groups when we measure other numbers, so a group partly depends on what we chose to measure.",
    "evidence": "On the Katori Map, which foods formed a clump depended on the two numbers we plotted. On the mass ladder alone, there was no clear gap, so every cut-off was a choice. If your map shows no clear clumps, that tells you something too: those two numbers do not split these foods."
   },
   "three": {
-   "who_am_i": "You are a dot on many maps at once, such as your height, your age and your marks. On each map you sit in a different clump, and no clump is the whole of you.",
+   "who_am_i": "You can be placed as a dot on many maps at once: by your height, by your age, by your marks. On each map you sit in a different clump, and no clump says everything about you.",
    "what_is_life": "Your body sorts all the time. Your tongue sorts sweet from bitter, and your gut sorts what to keep from what to pass on. Every sorter in a body makes some mistakes, and the body lives with them.",
    "what_is_this_world": "Nature has real patterns, such as the gap between white dwarfs and bright stars. The boxes and the names are ours, and a new number can show a new pattern."
   },
-  "thread": "Start with one heap of foods. One number puts the heap in a line. Two numbers spread the heap into a flat picture, where clumps may show. More numbers can show more. At every step the heap is the same heap. The groups come from looking, and the looking is done by someone who is part of the same world as the heap.",
+  "thread": "Start with one heap of foods. One number puts the heap in a line. Two numbers spread the heap into a flat picture, where clumps may show. More numbers can show more. At every step the heap is the same heap. The groups appear only when someone measures it, and that person is part of the same world as the heap.",
   "teachings": [
    {
     "source": "Udana 6.4",
@@ -3209,7 +3209,7 @@
    {
     "source": "Chandogya Upanishad 6.10.1-2",
     "teaching": "Rivers that flow east and rivers that flow west all go to the sea and become the sea. Once they are in the sea, they do not know 'I am this river, I am that river'.",
-    "link": "The names we give to groups are like the names of rivers. They are useful on the way, and they all belong to one heap."
+    "link": "The names we give to groups are like the names of rivers. The names are useful while we are sorting, but all the groups are still part of one heap."
    }
   ],
   "science": [
@@ -3235,12 +3235,12 @@
   "ask": [
    "If you could measure only one thing about a friend, which would you choose, and what would you miss?",
    "Is there a group you belong to that you did not choose? Is there one that you did choose?",
-   "When you stop sorting and just look, what is left?"
+   "In Sort the Sounds, you stopped sorting and just listened. What did you notice then?"
   ],
   "art": "A heap of mixed kitchen foods in the middle, with a ladder drawn on the left and a map of dots on the right, both made from the same heap."
  },
  "how_we_found_out": {
-  "story": "About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. These were two ladders: a type, and a brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.",
+  "story": "About 1900, astronomers at Harvard College Observatory sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. That gave astronomers two ladders: one of type, and one of brightness. Around 1905, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed brightness against type for many stars on one map. The stars were not scattered everywhere. Most lay along a long band, with bright giants above it and faint white dwarfs below. For a while, many thought the map showed the path that every star travels as it ages. That turned out to be wrong. Later, physics showed that the band is made of stars of different masses, all burning hydrogen. One map had shown the families before anybody knew why they existed.",
   "who": "Ejnar Hertzsprung (Danish) and Henry Norris Russell (American), using the sorting by Annie Jump Cannon and Antonia Maury",
   "when": "About 1905 to 1914",
   "wrong_idea": "Many thought that the band of stars on the map was a path that every star follows as it ages, from giant to dwarf. Later work showed that stars of different masses sit at different places on the band, and that each star stays near one place for most of its life."
@@ -3339,5 +3339,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Katori Map needs a kitchen scale, and a fallback with ranks is given. Heap heights depend on how the food is poured, so the same pouring height is used for every food. The clumps shown in the explanations (flours, smooth seeds, salt and sugar) are what is expected, but your child's results may differ, and the notes say that no clumps is also a result. In Strict or Relaxed, toor dal and chana dal look alike in many kitchens, and an alternative pair is given if they do not. The 30 second limit is built so that the strict round leaves many good pieces behind. In Soft or Hard, voters must write secretly, and the second round with a fingernail test should raise agreement but may not remove all splits. The squish scores in Where Is the Line? are made up for the game, and the cards say so. The star colour and brightness steps in the Star Map are rough ranks, rounded from commonly quoted values. The Slot Sorter may take several tries because dal pieces do not slide smoothly, and the notes say to tap the rails. Facts to verify before the unit is final: the 1988 date of the resin codes, the Darwin letter on lumpers and splitters, the dates of Hertzsprung and Russell's maps, the Ashby start date, the floating and sinking of plastics, and the two places in Bengaluru and Mumbai (opening times). The three videos still need ids.",
- "warm": {"words": ["SIEVE", "CLUMP", "GROUP", "ORDER", "SCALE"], "quiz": [["When you move a cut-off, only the things close to it change group.", true, "Things far from the cut-off stay in the same group, however sensibly you move the line."], ["A map of two numbers can show clumps that a list of one number hides.", true, "A second number can pull things apart, so empty gaps appear between groups that looked joined."], ["If two groups overlap on the number you measure, every cut-off will make some mistakes.", true, "Some things from each group have the same number, so no line can split them cleanly."], ["Making a sorter stricter lets fewer wrong things through but holds back more right things.", true, "Moving a cut-off swaps one kind of mistake for the other, so it is a trade-off."], ["Things can be sorted into a few big groups or many small ones, and both can be useful.", true, "The right number of groups depends on the job you want the sorting to do."], ["The clumps you find stay the same, whichever two things you measure.", false, "Other measurements can give other clumps, so the groups depend on what we choose to measure."], ["A careful enough sorter can end with no mistakes, whatever it measures.", false, "When groups overlap on the measured number, care only moves mistakes around. A better measurement is needed."], ["Things in the same clump are alike in every way.", false, "They are alike only in the numbers used. They can still differ in colour, taste and use."], ["A computer that sorts using numbers cannot be unfair.", false, "People choose the numbers and the examples, so unfairness can come from those choices."], ["There is one right number of groups for any set of things.", false, "Different people can sort the same things into fewer or more groups, and each can suit a different job."]], "odd": [[["Grams of rice", "Height of a pile in mm", "Length in cm", "How tasty it is"], "How tasty it is", "The first three are measurements with units that make a ladder; tastiness has no unit and no scale."], [["Atta sieve", "Tea strainer", "Sand sieve", "Magnet"], "Magnet", "The first three sort by the size of the pieces; a magnet sorts by whether the thing is made of iron."], [["34 marks", "35 marks", "36 marks", "92 marks"], "92 marks", "The first three sit next to a pass mark of 35 and could change group if it moved; 92 would not."], [["Silent alarm in a fire", "Ripe mango thrown out", "Sick child marked well", "Alarm ringing for toast"], "Alarm ringing for toast", "The first three are sorters holding back something that belonged; the toast alarm lets in something that did not."], [["Main sequence stars", "Giant stars", "White dwarf stars", "Comets"], "Comets", "On the star map, stars fall into families such as these three; comets are not stars."]]}
+ "warm": {"words": ["SIEVE", "CLUMP", "GROUP", "ORDER", "SCALE"], "quiz": [["When you move a cut-off, only the things close to it change group.", true, "Things far from the cut-off stay in the same group, whatever sensible line you pick."], ["A map of two numbers can show clumps that a list of one number hides.", true, "A second number can pull things apart, so empty gaps appear between groups that looked joined."], ["If two groups overlap on the number you measure, every cut-off will make some mistakes.", true, "Some things from each group have the same number, so no line can split them cleanly."], ["Making a sorter stricter lets fewer wrong things through but holds back more right things.", true, "Moving a cut-off swaps one kind of mistake for the other, so it is a trade-off."], ["Things can be sorted into a few big groups or many small ones, and both can be useful.", true, "The right number of groups depends on the job you want the sorting to do."], ["The clumps you find stay the same, whichever two things you measure.", false, "Other measurements can give other clumps, so the groups depend on what we choose to measure."], ["A careful enough sorter can end with no mistakes, whatever it measures.", false, "When groups overlap on the measured number, care only moves mistakes around. A better measurement is needed."], ["Things in the same clump are alike in every way.", false, "They are alike only in the numbers used. They can still differ in colour, taste and use."], ["A computer that sorts using numbers cannot be unfair.", false, "People choose the numbers and the examples, so unfairness can come from those choices."], ["There is one right number of groups for any set of things.", false, "Different people can sort the same things into fewer or more groups, and each can suit a different job."]], "odd": [[["Grams of rice", "Height of a pile in mm", "Length in cm", "How tasty it is"], "How tasty it is", "The first three are measurements with units that make a ladder; tastiness has no unit and no scale."], [["Atta sieve", "Tea strainer", "Sand sieve", "Magnet"], "Magnet", "The first three sort by the size of the pieces; a magnet sorts by whether the thing is made of iron."], [["34 marks", "35 marks", "36 marks", "92 marks"], "92 marks", "The first three sit next to a pass mark of 35 and could change group if it moved; 92 would not."], [["Silent alarm in a fire", "Ripe mango thrown out", "Sick child marked well", "Alarm ringing for toast"], "Alarm ringing for toast", "The first three are sorters holding back something that belonged; the toast alarm lets in something that did not."], [["Main sequence stars", "Giant stars", "White dwarf stars", "Comets"], "Comets", "On the star map, stars fall into families such as these three; comets are not stars."]]}
 }

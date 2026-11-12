@@ -12,7 +12,7 @@
   "art": "A doctor's table with two children: one holding a strip of tablets, the other holding a cup of warm water, and above them a small drawing of a bacterium and a virus."
  },
  "intro": {
-  "hook": "A boy in your class had measles last year. You have never had measles, and you did not catch it, even though you sat in the same room. Something in your body was ready for the germ before the germ arrived. What was it, and who put it there?",
+  "hook": "A child in a class has measles. Most of the other children sit in the same room and do not catch it. Their bodies were ready for the germ before the germ arrived. What made them ready?",
   "text": "In this unit you find out what happens inside a body when germs get in, and what medicines can and cannot do. You test which kitchen things slow down a living microbe. You play a game with rice and dal in which a medicine leaves a few tough germs behind, and see what those survivors do next. And you learn, in plain words, how a vaccine works and why it protects people who never had it.",
   "art": "A child's arm with a small round plaster on it, and beside the arm a faint drawing of the same arm with tiny defenders standing guard in the blood."
  },
@@ -54,7 +54,7 @@
   },
   {
    "term": "Antibody",
-   "meaning": "A tiny protein that the body makes to fit one particular germ, the way a key fits one lock. It sticks to the germ and marks them to be removed.",
+   "meaning": "A tiny protein that the body makes to fit one particular germ, the way a key fits one lock. It sticks to that germ and marks the germ to be removed.",
    "example": "After measles, your blood holds antibodies that fit the measles virus and no other germ.",
    "art": "Small Y-shaped antibodies attached to the knobbly surface of a germ, each fitting a knob like a key in a lock."
   },
@@ -78,7 +78,7 @@
   },
   {
    "term": "Resistant",
-   "meaning": "A germ is resistant to a medicine when the medicine no longer kills them. The germ is resistant, not the person.",
+   "meaning": "Germs are resistant to a medicine when the medicine no longer kills them. The germs are resistant, not the person.",
    "example": "Resistant bacteria can carry on multiplying in a body that is taking an antibiotic.",
    "art": "A crowd of bacteria with most crossed out by a tablet and a few standing untouched at the edge."
   },
@@ -114,7 +114,7 @@
   },
   {
    "term": "Immunity",
-   "meaning": "Being protected from a germ because the body is ready for them. Immunity can come from a vaccine or from having had the illness.",
+   "meaning": "Being protected from a germ because the body is ready for that germ. Immunity can come from a vaccine or from having had the illness.",
    "example": "After chickenpox, most people have immunity for life.",
    "art": "A child with a shield made of antibodies, a germ bouncing off."
   },
@@ -159,7 +159,7 @@
    "art": "A table with five columns headed bacteria, virus, fungus, parasite and no germ, with a small picture of an illness in each."
   },
   {
-   "concept": "Inside you: from landing to feeling ill",
+   "concept": "Inside you: from the germ getting in to feeling ill",
    "status": "defined",
    "context": "This card follows an infection through a body, day by day, and says what a fever is for.",
    "definition": "The time between germs getting in and the first sign of illness is the incubation period. During it the germs are multiplying, and the body is getting ready.",
@@ -177,7 +177,7 @@
    "status": "defined",
    "context": "This card says how the body clears germs, and why it is quicker the second time. Vaccines depend on this.",
    "definition": "The immune system is the set of parts that find and remove germs. Its first part is a set of walls. Its second part is a set of defenders that learn.",
-   "description": "The walls come first. Skin, tears, mucus in the nose, and the acid in the stomach stop most germs. A germ that gets past the walls meets patrol cells, which are kinds of white blood cell. Some patrol cells swallow germs whole. Other white blood cells make antibodies. An antibody is a tiny protein with a shape that fits one particular germ, the way a key fits one lock. The antibody sticks to the germ and marks them, so that the patrol cells can find and remove them. The first time the body meets a germ, making enough of the right antibodies takes about a week or two. That is why you can be ill for days. After the fight, some of the white blood cells stay on for years, ready to make the same antibody quickly. These are memory cells. The second time the same germ arrives, the body may clear them in a day or two, often before you feel anything.",
+   "description": "The walls come first. Skin, tears, mucus in the nose, and the acid in the stomach stop most germs. A germ that gets past the walls meets patrol cells, which are kinds of white blood cell. Some patrol cells swallow germs whole. Other white blood cells make antibodies. An antibody is a tiny protein with a shape that fits one particular germ, the way a key fits one lock. Antibodies stick to the germs they fit and mark them, so that the patrol cells can find and remove them. The first time the body meets a germ, making enough of the right antibodies takes about a week or two. That is why you can be ill for days. After the fight, some of the white blood cells stay on for years, ready to make the same antibody quickly. These are memory cells. The second time the same germ arrives, the body may clear the germ in a day or two, often before you feel anything.",
    "examples": [
     "After chickenpox, memory cells stay in your blood for many years, so most people never get chickenpox twice.",
     "A cut that gets dirty still heals, because patrol cells swallow the bacteria that got in.",
@@ -205,7 +205,7 @@
    "status": "defined",
    "context": "This card says how antibiotics work, and why they cannot work on a virus.",
    "definition": "An antibiotic works by stopping something that bacteria need and that human cells do not have.",
-   "description": "A bacterium is a single cell with a tough wall around the outside. To grow and split, she must keep building that wall. Penicillin stops the building. The wall weakens, and the bacterium bursts. Human cells have no wall, so penicillin has nothing to hit in us. Other antibiotics block the tiny machines inside a bacterium that build proteins. Those machines have a different shape from ours, so the medicine fits theirs and not ours. A virus is different again. A virus is not a cell, has no wall and no machines of their own. They make copies only by taking over a cell that belongs to someone else. So an antibiotic has nothing to attack in a virus. That is also why an antiviral is hard to make. It must stop a virus without stopping the cell the virus is using. Antibiotics are not perfect. They also kill some of the helpful bacteria in the gut, which is why they sometimes cause loose motions.",
+   "description": "A bacterium is a single cell with a tough wall around the outside. To grow and split, she must keep building that wall. Penicillin stops the building. The wall weakens, and the bacterium bursts. Human cells have no wall, so penicillin has nothing to hit in us. Other antibiotics block the tiny machines inside a bacterium that build proteins. Those machines have a different shape from ours, so the medicine fits theirs and not ours. Viruses are different again. They are not cells, and they have no wall and no machines of their own. They make copies only by taking over a cell that belongs to someone else. So an antibiotic has nothing to attack in a virus. That is also why an antiviral is hard to make. It must stop a virus without stopping the cell the virus is using. Antibiotics are not perfect. They also kill some of the helpful bacteria in the gut, which is why they sometimes cause loose motions.",
    "examples": [
     "Penicillin makes the wall of a bacterium weak, so the bacterium bursts as she grows.",
     "A cold virus has no wall, so penicillin has nothing to attack.",
@@ -231,12 +231,12 @@
   {
    "concept": "How germs become resistant",
    "status": "defined",
-   "context": "This card explains why a medicine that works today can stop working, using the game you played with rice and dal.",
+   "context": "This card explains why a medicine that works today can stop working. It uses the Rice and Dal game, in which rice grains are ordinary germs and dal grains are tough germs.",
    "definition": "Resistance appears when a few germs survive a medicine, multiply, and become the new crowd. The germ becomes resistant. The person does not.",
    "description": "Bacteria multiply by splitting in two, and each time they copy their genes, a tiny mistake can creep in. Most mistakes change nothing. A very few help the bacterium to survive a medicine, for example by making a chemical that breaks the medicine down. So in a crowd of billions of bacteria, a few may already be tough before any medicine arrives. When a person takes an antibiotic, the ordinary bacteria die. The tough few are left, with plenty of food and room, and they multiply. After a few days, nearly all the bacteria in the body are tough. Bacteria can also hand pieces of their genes to each other, even to bacteria of other kinds, so a tough gene can spread fast. This is natural selection, the same process that shaped every living being. The medicine does not teach the bacteria anything. It only chooses which ones carry on. The more an antibiotic is used, the more chances tough bacteria have. Doctors call this a world-wide problem. A study published in 2022 estimated that more than a million people died in 2019 as a direct result of infections that medicines could not treat.",
    "examples": [
     "A person does not become resistant. The bacteria in their body become resistant.",
-    "In the rice and dal game, the medicine removed most of the rice, and the dal grains multiplied in the space that was left.",
+    "In the Rice and Dal game, the medicine removed most of the rice grains, which were the ordinary germs. The dal grains, which were the tough germs, multiplied in the space that was left.",
     "A bacterium can pass a tough gene to a different kind of bacterium, so resistance can jump between kinds."
    ],
    "perspectives": [],
@@ -247,7 +247,7 @@
    "status": "defined",
    "context": "This card gives plain rules for medicines at home, and says when a child needs a doctor.",
    "definition": "A medicine helps only when it is the right one for the cause, in the right dose, for the right time. A medicine taken for the wrong reason can do harm and no good.",
-   "description": "Here are the rules that doctors give families. Give a medicine only when a doctor or a health worker has said so, and follow the dose and times on the label. A child's dose depends on weight, so never guess. Do not give a child a medicine that was bought for someone else, and do not save left-over tablets for next time. Check the date on the packet, and keep all medicines out of reach of small children. Do not press a doctor for an antibiotic for a cold. For most colds and coughs, rest, warm drinks and time are the treatment. Ask the doctor when to stop a medicine, because the right length depends on the illness. Some signs mean a child needs a doctor at once. The signs are these. A child cannot drink, vomits everything, has a fit, is very sleepy and hard to wake, or has trouble breathing. A fever that lasts more than two or three days also needs a doctor. This card is general advice. A doctor who knows the child knows best.",
+   "description": "Here are the rules that doctors give families. Give a medicine only when a doctor or a health worker has said so, and follow the dose and times on the label. A child's dose depends on weight, so never guess. Do not give a child a medicine that was bought for someone else, and do not save left-over tablets for next time. Check the date on the packet, and keep all medicines out of reach of small children. Do not press a doctor for an antibiotic for a cold. For most colds and coughs, rest, warm drinks and time are the treatment. Ask the doctor when to stop a medicine, because the right length depends on the illness. Some signs mean a child needs a doctor at once: the child cannot drink, vomits everything, has a fit, is very sleepy and hard to wake, or has trouble breathing. A fever that lasts more than two or three days also needs a doctor. This card is general advice. A doctor who knows the child knows best.",
    "examples": [
     "A child with a cold and a runny nose needs rest and drinks, not an antibiotic.",
     "A child who cannot keep any drink down needs a doctor the same day.",
@@ -265,7 +265,7 @@
    "examples": [
     "The tetanus vaccine holds a harmless form of the poison that tetanus bacteria make.",
     "The measles vaccine holds a weakened measles virus that barely multiplies.",
-    "A person bitten by a dog that might have rabies is given the vaccine at once, as the virus is still on the way."
+    "A person bitten by a dog that might have rabies is given the vaccine at once, because the virus is still on the way to the brain."
    ],
    "perspectives": [],
    "art": "A vaccine vial with four small labelled pictures floating out of it: a killed germ, a weakened germ, a piece of the coat and a harmless form of a poison."
@@ -273,9 +273,9 @@
   {
    "concept": "Herd protection: how vaccinated people protect others",
    "status": "defined",
-   "context": "This card connects vaccines to the germ chains you studied in Level 3, and to the Ring the Germ game.",
+   "context": "This card explains how vaccinated people protect others. A germ chain is the path a germ takes from one person to the next. The card also uses the Ring the Germ game, in which an illness spreads from house to house in a paper village.",
    "definition": "Herd protection means that when most people in a group are protected against a germ, the germ rarely finds anyone to pass to, so people who are not protected are safer too.",
-   "description": "Every germ chain needs a next person. A vaccinated person is a broken link. If most of the people around a germ are vaccinated, the germ keeps meeting broken links, and the chain dies out. This protects babies who are too young for a vaccine, and people whose bodies cannot take it, for example those having cancer treatment. How many people need to be protected depends on the germ. Measles is one of the most contagious illnesses known. One ill child can pass it to twelve to eighteen others who are not protected. So about 95 out of every 100 people need protection to stop measles spreading. Herd protection is not a promise, because it works only while enough people stay vaccinated. When vaccination falls in a place, measles comes back there. In the Ring the Germ game, you saw this. When most houses were vaccinated, the illness stayed small. When only a third were, it spread far.",
+   "description": "Every germ chain needs a next person. A vaccinated person is a broken link. If most of the people around a germ are vaccinated, the germ keeps meeting broken links, and the chain dies out. This protects babies who are too young for a vaccine, and people whose bodies cannot take it, for example those having cancer treatment. How many people need to be protected depends on the germ. Measles is one of the most contagious illnesses known. One ill child can pass it to twelve to eighteen others who are not protected. So about 95 out of every 100 people need protection to stop measles spreading. Herd protection is not a promise, because it works only while enough people stay vaccinated. When vaccination falls in a place, measles comes back there. The Ring the Germ game shows this. When most houses were vaccinated before the illness arrived, the illness stayed small. When only a third were, it spread far.",
    "examples": [
     "A baby of five months cannot yet have the measles vaccine, but she is safer when her brothers, cousins and neighbours have had it.",
     "A school where almost every child is vaccinated rarely has a measles outbreak, even if one ill child comes in.",
@@ -287,7 +287,7 @@
   {
    "concept": "A short history of vaccines",
    "status": "defined",
-   "context": "This card tells where vaccines came from, from a village trick to the end of smallpox.",
+   "context": "This card tells where vaccines came from, from an old practice of healers to the end of smallpox.",
    "definition": "People learned to protect each other from illness long before anyone knew what a germ was.",
    "description": "Smallpox was an illness that killed about three in every ten people who caught it. In several countries, people noticed that someone who had survived smallpox never caught it again. So healers scratched a little material from a smallpox sore into the skin of a healthy person, who then usually had a mild illness and was protected. This was called variolation. It sometimes killed the person. Lady Mary Wortley Montagu saw it done in Istanbul, and in 1721 she had her young daughter protected in London, and she told other people. In England in 1774 a farmer called Benjamin Jesty protected his family with matter from cowpox, a mild illness of cows. In 1796, Edward Jenner tested the same idea carefully. A milkmaid called Sarah Nelmes had cowpox sores, and Jenner used matter from one sore on a boy named James Phipps. Later he showed that James did not catch smallpox. In the 1880s, Louis Pasteur made a vaccine for rabies. In 1897, Waldemar Haffkine made a vaccine for plague in Bombay and tested it first on himself. In the 1960s and 1970s, a world campaign found every case of smallpox and vaccinated everyone around it. The last natural case was in 1977, and in 1980 the world was declared free of smallpox. India reported its last case in 1975. India's last case of polio was reported in January 2011, in a girl in West Bengal, and in 2014 the region was declared free of polio. In India, Gagandeep Kang, a doctor and scientist who worked in Vellore, helped test Rotavac. Rotavac is a rotavirus vaccine made in India, and it protects babies from a common cause of dangerous loose motions.",
    "examples": [
@@ -303,7 +303,7 @@
    "status": "defined",
    "context": "This card says why some vaccines last for life and others need to be repeated.",
    "definition": "A vaccine can stop working as well over time, or because the germ has changed. A booster or a new vaccine fixes the problem.",
-   "description": "Memory cells last longer for some germs than for others. After two doses of the measles vaccine, protection usually lasts a lifetime. Protection against tetanus and diphtheria fades over some years, so a booster is given, as it is to ten-year-olds in India. Another reason is that some germs change. Flu viruses change a little every year, so last year's antibodies may not fit this year's virus, as an old key may not fit a new lock. So scientists study the flu viruses going around every year, and each year's flu vaccine is made to match. Some germs are hard to make a vaccine for, because they change fast or hide from defenders. There is no vaccine yet for the common cold, which is caused by hundreds of kinds of virus. In 2021 and 2023, the World Health Organization recommended the first two vaccines against malaria, for children in places where malaria is common.",
+   "description": "Memory cells last longer for some germs than for others. After two doses of the measles vaccine, protection usually lasts a lifetime. Protection against tetanus and diphtheria fades over some years, so a booster is given, as it is to ten-year-olds in India. Some vaccines need repeating for a different reason: the germ changes. Flu viruses change a little every year, so last year's antibodies may not fit this year's virus, as an old key may not fit a new lock. So scientists study the flu viruses going around every year, and each year's flu vaccine is made to match. Some germs are hard to make a vaccine for, because they change fast or hide from defenders. There is no vaccine yet for the common cold, which is caused by hundreds of kinds of virus. In 2021 and 2023, the World Health Organization recommended the first two vaccines against malaria, for children in places where malaria is common.",
    "examples": [
     "A tetanus booster tops up the memory cells that fade over the years.",
     "A flu vaccine is updated each year to match the viruses that are going around.",
@@ -340,9 +340,9 @@
   {
    "concept": "Germs that eat germs: bacteriophages",
    "status": "idea",
-   "context": "This card is about an idea from the edge of science: viruses that kill bacteria, and might one day replace some antibiotics.",
+   "context": "This card is about an idea that scientists are still testing: viruses that kill bacteria, and might one day replace some antibiotics.",
    "definition": "A bacteriophage, or phage, is a virus that attacks only bacteria. Phages are the most common living things on Earth.",
-   "description": "A phage lands on one kind of bacterium, pushes in their genes, and makes the bacterium build many new phages. Then the bacterium bursts. In 1896, Ernest Hankin, a British scientist working in Agra, reported that the water of the Ganga and the Yamuna killed cholera bacteria. He also reported that boiling the water removed this power. That is an early sign of phages. In 1915 Frederick Twort in England and in 1917 Felix d'Herelle in France both described them. D'Herelle named them. A phage is very choosy and attacks only one kind of bacterium, and does not hurt people. Doctors in Georgia have used phages to treat infections for about a hundred years, and scientists elsewhere are testing them now for infections that no antibiotic can cure. Nobody yet knows whether phages will work widely, because bacteria can become resistant to phages too, and testing them takes a long time.",
+   "description": "A phage lands on one kind of bacterium, pushes the phage's own genes into the bacterium, and makes the bacterium build many new phages. Then the bacterium bursts. In 1896, Ernest Hankin, a British scientist working in Agra, reported that the water of the Ganga and the Yamuna killed cholera bacteria. He also reported that boiling the water removed this power. That is an early sign of phages. Frederick Twort described phages in England in 1915, and Felix d'Herelle described them in France in 1917. D'Herelle named them. A phage is very choosy. Each phage attacks only one kind of bacterium, and does not hurt people. Doctors in Georgia have used phages to treat infections for about a hundred years, and scientists elsewhere are testing them now for infections that no antibiotic can cure. Nobody yet knows whether phages will work widely, because bacteria can become resistant to phages too, and testing them takes a long time.",
    "examples": [
     "A phage that attacks the bacteria of cholera does not touch the bacteria of tuberculosis.",
     "Phage treatment is already used in some hospitals for infections that no antibiotic can cure, under special rules."
@@ -358,7 +358,7 @@
   },
   {
    "text": "Germs that survive a medicine multiply, so the more a medicine is used, the more common resistant germs become.",
-   "evidence": "Laboratory tests, including the replica plating of Esther and Joshua Lederberg in 1952, show that a few resistant bacteria are already in a crowd. Hospital records show resistance rising in places where antibiotics are used a lot."
+   "evidence": "Laboratory tests, including the velvet stamp test of Esther and Joshua Lederberg in 1952, show that a few resistant bacteria are already in a crowd before any medicine arrives. Hospital records show resistance rising in places where antibiotics are used a lot."
   },
   {
    "text": "Vaccines teach the body to recognise a germ, without giving the illness.",
@@ -441,12 +441,12 @@
  ],
  "big_questions": [
   {
-   "q": "In the rice and dal game, the medicine did not make any germ tougher. It only removed the ordinary ones. So did the medicine cause the tough germs, or did it only uncover them?",
+   "q": "In the Rice and Dal game, rice grains are ordinary germs and dal grains are tough germs. The medicine did not make any germ tougher. It only removed the ordinary ones. So did the medicine cause the tough germs, or did it only uncover them?",
    "kind": "deep",
-   "hint": "Think about where the dal grains were before the medicine came, and what the Lederbergs found on the dish that had never met the medicine."
+   "hint": "Think about where the dal grains were before the medicine came. In 1952, Esther Lederberg found resistant bacteria on a dish that had never touched the medicine."
   },
   {
-   "q": "A vaccine holds no working germ, yet your body remembers a germ that never met this body before. Where is the memory kept?",
+   "q": "A vaccine holds no working germ. Yet afterwards your body remembers a germ that has never been inside you. Where is that memory kept?",
    "kind": "deep",
    "hint": "Think about memory cells, and how long a single white blood cell can live. Nobody has a complete answer yet."
   },
@@ -461,7 +461,7 @@
    "hint": "Think about the bacteria that help you digest food, and what happens to them."
   },
   {
-   "q": "A baby too young for a vaccine is protected because other people are vaccinated. Who is protecting whom in a class, and is it fair to ask for it?",
+   "q": "A baby too young for a vaccine is protected because the people around her are vaccinated. In a class, who is protecting whom? Is it fair to ask people to be vaccinated for the sake of others?",
    "kind": "big",
    "hint": "Think about the child who cannot be vaccinated, and about the child who just does not like the needle."
   },
@@ -476,7 +476,7 @@
    "hint": "Think about where the illness is worst, who makes the vaccine, and what it costs."
   },
   {
-   "q": "We say we fight germs. Is fight the right word, when most microbes are harmless and a few are only living their own lives?",
+   "q": "We say we fight germs. Is fight the right word, when most microbes are harmless, and the few that make us ill are only living their own lives?",
    "kind": "big",
    "hint": "Think about a farmer, a doctor, and a Jain monk, who each see a germ differently."
   },
@@ -515,7 +515,7 @@
    "Anu came back with a steel plate of rice flour. On the balcony floor, Muthassi made dots in a square, like the start of a kolam. One dot she made red with a pinch of kumkum. \"That is Gopi's house. If a germ goes from house to house, which dots will the germ reach first?\"",
    "Anu pointed to the dots that touched the red one. \"Those. And then the ones touching those.\"",
    "\"Now, if every one of those dots around the red one has a stamp?\"",
-   "Anu rubbed white flour over the dots around the red one. Then she saw it. The germ had nowhere to go. A ring of protected people around the ill one, and the germ was stuck.",
+   "Anu rubbed white flour over the dots around the red one. Then she saw it. The germ had nowhere to go. There was a ring of protected people around the ill one, and the germ was stuck.",
    "\"So the stamp was not only for you,\" she said. \"It was for the milkman and the neighbours, and for everyone in the next village too.\"",
    "\"For all of them,\" said Muthassi. \"That is why Thankamma Chechi cycled from house to house. Every stamp was a gap in the road the germ wanted to travel.\"",
    "On Thursday, Anu stood in the line outside the school hall. The health worker was a young woman with a steady hand. \"It will sting for a moment,\" she said. Anu looked at the small raised dot on her own arm, from a vaccine she had as a baby. She took a breath, counted to three, and looked away. It stung. Then it was done.",
@@ -527,7 +527,7 @@
    "Why did Thankamma Chechi vaccinate the milkman and the neighbours, and not only Gopi's family?",
    "How could Muthassi sleep in Gopi's room for two weeks and stay well?",
    "What did the ring of white flour show Anu about how a germ spreads?",
-   "Anu was afraid of the needle at the start. What changed her mind, and was it a fear or a fact that changed?"
+   "Anu was afraid of the needle at the start. What changed her mind? Did her fear go away, or did she learn a new fact?"
   ],
   "art": [
    "A girl in school uniform holding a pink slip, with her teacher at a classroom door.",
@@ -538,18 +538,18 @@
   ]
  },
  "roots": {
-  "context": "We have watched a medicine leave a few tough germs behind, and a vaccine teach a body before the germ arrives. Now we ask what these tell us about the fight we call health, and about ourselves.",
+  "context": "In the Rice and Dal game, a medicine removed the ordinary germs and left a few tough ones behind. A vaccine teaches the body about a germ before the germ arrives. This part asks what these two things tell us about staying healthy, and about ourselves.",
   "deep_truth": {
-   "truth": "In the rice and dal game, the medicine did not make any germ tougher. It removed the ordinary ones, and the few tough ones carried on. So the germs of tomorrow are the survivors of what we do today. We are part of the fight, not outside it.",
+   "truth": "In the Rice and Dal game, rice grains were ordinary germs and dal grains were tough germs. The medicine did not make any germ tougher. It removed the ordinary ones, and the few tough ones carried on and multiplied. So the way we use medicines today decides which germs are around tomorrow. We are part of what happens to germs, not outside it.",
    "habit": "We picture illness as a war between us and a fixed enemy called germs. But germs are never all the same, and the ones that survive our medicines become the next crowd.",
-   "evidence": "In the Rice and Dal game, the plate with the medicine ended with mostly tough germs, and the plate with no medicine kept its ordinary crowd. Esther Lederberg's velvet stamp showed that real resistant bacteria were already on a dish that had never met the medicine."
+   "evidence": "In the Rice and Dal game, the plate with the medicine ended with mostly tough germs, and the plate with no medicine kept its ordinary crowd. In 1952, Esther Lederberg used a velvet stamp to copy bacteria from one dish to others. She showed that real resistant bacteria were already on a dish that had never touched the medicine."
   },
   "three": {
    "who_am_i": "You are a body that remembers. Your defenders keep a record of the germs you have met, and a vaccine can add to that record without making you ill.",
-   "what_is_life": "A crowd of bacteria is never all the same. A few differ by chance, and when the world changes, those few carry on. Life goes on because it is varied.",
+   "what_is_life": "A crowd of bacteria is never all the same. A few differ by chance, and when the world changes, those few carry on. Life goes on because living beings are not all the same.",
    "what_is_this_world": "People, medicines and germs shape each other. Our medicines decide which germs live, and the germs that live decide which medicines we must make next."
   },
-  "thread": "In the game, a crowd that looked all the same held a few that were different. When the medicine came, those few became the future. A world that holds many kinds can survive a change that would end a world of one kind. Your own defenders work this way too: your body makes millions of kinds of antibody before any germ arrives, and the germ finds the one that fits. Nobody plans the variety. It is how life keeps going when conditions change.",
+  "thread": "In the Rice and Dal game, a crowd of germs that looked all the same held a few that were different. When the medicine came, those few survived and became the new crowd. A group with many kinds in it can survive a change that would wipe out a group with only one kind. Your own defenders work this way too. Your body makes millions of kinds of antibody before any germ arrives, and one of them fits the germ. Nobody plans this variety. It is how life keeps going when conditions change.",
   "teachings": [
    {
     "source": "Tao Te Ching 64",
@@ -579,7 +579,7 @@
   ],
   "other_view": {
    "who": "Some biologists",
-   "view": "Saying that germs and medicines 'shape each other' is a picture. A bacterium copies her genes with small mistakes, and a medicine sorts the copies. That is all the evidence needs. Calling it a fight, or a conversation, adds a story that the evidence does not require."
+   "view": "Saying that germs and medicines 'shape each other' is a way of speaking, not a fact. A bacterium copies her genes with small mistakes, and a medicine removes some of the copies and leaves others. That is all the evidence shows. Calling it a fight, or a conversation, adds a story that the evidence does not need."
   },
   "practice": {
    "title": "Feel your pulse: the blood that carries your defenders",
@@ -589,8 +589,8 @@
   },
   "ask": [
    "If a medicine decides which germs carry on, who is shaping whom? Are we shaping the germs, or are the germs shaping the medicines we make?",
-   "Your defenders remember germs you met when you were too young to remember anything yourself. Who is the you that remembers?",
-   "Esther Lederberg's name is often left out of the story of her own discovery. How can we know who did a piece of science, and who should get the credit?"
+   "Your defenders remember germs you met when you were too young to remember anything yourself. Is that memory part of you, even though you cannot recall it?",
+   "Esther Lederberg invented the velvet stamp that showed resistant bacteria are there before the medicine arrives. Her name is often left out of the story of her own discovery. How can we know who did a piece of science, and who should get the credit?"
   ],
   "art": "Two plates side by side: one with a few green dal grains among many white rice grains, and the same plate after a medicine with only green grains left, and a child's pulse drawn as a small wave between them."
  },
@@ -622,15 +622,15 @@
      "title": "18 situation cards (the best response is on the back)",
      "items": [
       {
-       "f": "Divya has a runny nose and a mild cough for two days. She feels well enough to play.",
+       "f": "A child has had a runny nose and a mild cough for two days. She feels well enough to play.",
        "b": "REST AND DRINKS. A cold is caused by a virus, so an antibiotic would do nothing."
       },
       {
-       "f": "Farhan has had loose motions three times today and feels thirsty. He can still drink.",
+       "f": "A child has had loose motions three times today and feels thirsty. He can still drink.",
        "b": "ORS. His body is losing water and salts. Tell a doctor if it goes on or if he cannot drink."
       },
       {
-       "f": "A doctor tests Tara's sore throat and finds the bacteria that cause the sore throat.",
+       "f": "A doctor tests a child's sore throat and finds bacteria that cause sore throats.",
        "b": "GERM-KILLING MEDICINE. The doctor found bacteria, so an antibiotic chosen by the doctor can work."
       },
       {
@@ -638,27 +638,27 @@
        "b": "VACCINE. In India a newborn is given the first vaccines soon after birth, for tuberculosis, polio and hepatitis B."
       },
       {
-       "f": "Arjun has body ache, a high fever and a cough. The doctor says it is flu and he is otherwise healthy.",
+       "f": "A child has body ache, a high fever and a cough. The doctor says it is flu, and that the child is otherwise healthy.",
        "b": "REST AND DRINKS. Flu is caused by a virus, so an antibiotic does not help. A doctor may give an antiviral to people at high risk."
       },
       {
-       "f": "A stray dog bites Lakshmi on the leg near the bus stop in Chennai.",
+       "f": "A stray dog bites a child on the leg.",
        "b": "DOCTOR AT ONCE. Wash the bite with soap and running water for several minutes, then go to a doctor for the rabies vaccine the same day."
       },
       {
-       "f": "Meenakshi's little brother is nine months old.",
+       "f": "A baby is nine months old.",
        "b": "VACCINE. In India, the measles and rubella vaccine is given to babies at about this age."
       },
       {
-       "f": "Rahul has had a cough for three weeks and he is losing weight.",
+       "f": "A child has had a cough for three weeks and is losing weight.",
        "b": "DOCTOR AT ONCE. A cough that lasts more than two weeks needs a test, for example for tuberculosis."
       },
       {
-       "f": "Priya has chickenpox spots and a mild fever. She is playing quietly.",
+       "f": "A child has chickenpox spots and a mild fever. She is playing quietly.",
        "b": "REST AND DRINKS. Chickenpox is caused by a virus. A doctor can advise, and she stays home so she does not pass it on."
       },
       {
-       "f": "Kavya has a cold. Her friend says her left-over tablets from last month would help.",
+       "f": "A child has a cold. Her friend says that tablets left over from last month would help.",
        "b": "REST AND DRINKS. Left-over tablets are not for a new illness. A doctor must say which medicine is right."
       },
       {
@@ -666,15 +666,15 @@
        "b": "DOCTOR AT ONCE. Not being able to drink and being very sleepy are danger signs."
       },
       {
-       "f": "Ayesha has a deep cut from a rusty nail, and she has not had a tetanus booster for years.",
+       "f": "A child has a deep cut from a rusty nail, and she has not had a tetanus booster for years.",
        "b": "DOCTOR AT ONCE. Tetanus bacteria live in soil and can get into deep cuts. A doctor decides about cleaning and a booster."
       },
       {
-       "f": "A doctor finds that Nandini's itchy round rash is ringworm.",
+       "f": "A doctor finds that a child's itchy round rash is ringworm.",
        "b": "GERM-KILLING MEDICINE. Ringworm is caused by a fungus, so the doctor gives an antifungal cream, not an antibiotic."
       },
       {
-       "f": "Gowri is ten years old and the school health team is coming with the booster against tetanus and diphtheria.",
+       "f": "A child is ten years old, and the school health team is coming with the booster against tetanus and diphtheria.",
        "b": "VACCINE. A booster tops up the memory cells that fade over the years."
       },
       {
@@ -682,15 +682,15 @@
        "b": "DOCTOR AT ONCE. In a small baby, a high fever can be a sign of serious illness."
       },
       {
-       "f": "Sneha has a blocked nose and a scratchy throat. Her teacher says, give her an antibiotic and she will be fine by morning.",
+       "f": "A child has a blocked nose and a scratchy throat. Her teacher says, \"Give her an antibiotic and she will be fine by morning.\"",
        "b": "REST AND DRINKS. A scratchy throat with a cold is usually a virus. If it gets worse or lasts, a doctor can test for bacteria."
       },
       {
-       "f": "Bhavna has watery loose motions after a wedding feast. She has also been vomiting, but she can still sip.",
+       "f": "A child has watery loose motions after a wedding feast. She has also been vomiting, but she can still sip.",
        "b": "ORS. Small, frequent sips of ORS keep her from drying out. If she cannot keep it down, she needs a doctor."
       },
       {
-       "f": "A doctor finds that Thatha's chest infection is caused by bacteria that are resistant to the usual antibiotic.",
+       "f": "A doctor finds that a grandfather's chest infection is caused by bacteria that are resistant to the usual antibiotic.",
        "b": "GERM-KILLING MEDICINE. The doctor chooses a different medicine after testing, which is why tests matter."
       }
      ]
@@ -883,12 +883,12 @@
     }
    ],
    "rules": [
-    "One player is the Germ keeper and the other is the Health worker. Playing alone? Play both parts, and be fair to both. With three or four players, make two teams: a Germ team, who put the red token and spread the illness, and a Health team, who place the vaccine tokens.",
+    "One player is the Germ keeper and the other is the Health worker. Playing alone? Play both parts, and be fair to both. With three or four players, make two teams: a Germ team, who place the red token and spread the illness, and a Health team, who place the vaccine tokens.",
     "Round 1, nobody vaccinated: the Germ keeper puts the red token on house C3. At the end of each week, the illness spreads to every neighbour of an ill house. Put a red mark on each newly ill house. Play four weeks and count all the ill houses, including C3.",
     "Round 2, a ring at once: start again with house C3 ill. Before each week's spread, the Health worker puts 3 vaccine tokens on houses that are not ill. A vaccinated house can never become ill. Play four weeks and count.",
     "Round 3, a ring one week late: start again with house C3 ill. The Health worker puts no tokens in week 1, because nobody has noticed yet. From week 2, the Health worker puts 3 tokens before each spread. Play four weeks and count.",
     "Round 4, vaccinated first: clear the board. Shuffle the 36 house slips and deal one to each house. Put a vaccine token on every house whose slip says VACCINATED. The Germ keeper picks any NOT YET house and puts the red token there. Play four weeks with no new tokens and count the ill houses.",
-    "Round 5, only a third vaccinated: deal again. Turn 12 of the VACCINATED slips so that they count as NOT YET. Play as in Round 4 and count.",
+    "Round 5, only a third vaccinated: clear the board. Turn over 12 of the 24 VACCINATED slips, so that they count as NOT YET. Now only 12 slips count as VACCINATED. Shuffle and deal the slips again, play as in Round 4, and count.",
     "Write each count on the score sheet. Compare the five numbers. The Health worker wins a round by keeping the count low."
    ],
    "flow": [
@@ -923,7 +923,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Play Round 2 and then Round 3. Count the ill houses each time.",
-     "say": "Now the Health worker places 3 vaccine tokens before every spread. Where will you put them? Then try again, one week late.",
+     "say": "Now the Health worker places 3 vaccine tokens before every spread. Where will you put them? Then play again, but start placing the tokens one week late.",
      "kid": "Play Round 2 and Round 3. Place 3 tokens each week. Count the ill houses.",
      "parent": "A good ring in Round 2 can stop the illness at 2 to 4 ill houses. Place tokens on the neighbours of the ill houses first. In Round 3 the same careful play usually ends with about 17 to 23 ill houses.",
      "ask": [
@@ -986,7 +986,7 @@
    "title": "The Yeast Test: which kitchen things really slow down a living microbe?",
    "mins": 35,
    "days": 1,
-   "question": "Salt, vinegar, garlic and turmeric are used in pickles and home remedies, and people say they stop microbes. If we add each one to a glass of yeast, a living microbe, which one slows her bubbles the most?",
+   "question": "Salt, vinegar, garlic and turmeric are used in pickles and home remedies, and people say they stop microbes. Yeast is a living microbe who makes bubbles. If we add each of the four to a glass of yeast, which one slows the bubbles the most?",
    "predict": "Before you start, guess. Which thing will slow the yeast the most? Which will slow her the least? Why do you think so?",
    "fair_test": "Every glass gets the same warm water, the same sugar and the same yeast, stirred for the same time. Only the thing we add changes. One glass gets nothing added, so we can see how much foam is normal. All the glasses stand side by side in the same place, and we measure them at the same moment.",
    "results_table": [
@@ -1194,7 +1194,7 @@
      },
      "ask": [
       {
-       "q": "What I think, what I saw, and why?",
+       "q": "What do you think happened, what did you see, and why did it happen?",
        "good": [
         "What I think: strong salt and vinegar slow microbes. What I saw: less foam in those glasses. Why: they make it hard for yeast to live."
        ]
@@ -1354,7 +1354,7 @@
      "do": "Play Day 1 on Plate B, with no medicine. 1. Night: count the rice grains on the plate and add the same number from the supply. 2. Do the same with the dal grains. 3. Crowding: put all the grains in the bowl and mix. 4. Look away and pick 40 grains, one at a time, back on to the plate. 5. Count the rice and the dal on the plate and write the numbers.",
      "say": "At night every germ splits in two, so each kind doubles. But the body has food for only 40 germs, so the rest die. We pick the 40 without looking, so the picking is fair.",
      "kid": "Add the same number of grains to each kind. Mix. Pick 40 without looking. Count.",
-     "parent": "On Plate B there are 76 rice and 4 dal after the night, which makes 80 grains. You pick 40 of the 80. The dal share usually stays small, around 2 out of 40. Chance changes it, so 1 or 3 is normal. Slow children can count rice in fives. If you run short of time, stop after Day 2 and finish Day 3 later; leave the plates as they are and write the table first.",
+     "parent": "On Plate B there are 76 rice and 4 dal after the night, which makes 80 grains. You pick 40 of the 80. The dal share usually stays small, around 2 out of 40. Chance changes it, so 1 or 3 is normal. Children who count slowly can count the rice in fives. If you run short of time, stop after Day 2 and finish Day 3 later. Write the table first, and leave the plates as they are.",
      "context": "In this step you play the first day on Plate B, the plate with no medicine."
     },
     {
@@ -1383,7 +1383,7 @@
       "a": 0,
       "why": "The medicine removes the ordinary germs, but the tough germs survive. Each night every surviving tough germ splits in two, so their number doubles. The medicine did not feed them. It only took away the others, which left them room and food."
      },
-     "parent": "On Plate A, a typical run is 3 rice and 2 dal after Day 1, then 0 rice and 4 dal after Day 2, then 0 rice and 8 dal after Day 3. On Plate B, a typical run keeps about 38 rice and 2 dal each day, though chance may give 1, 3 or 4 dal. About one game in four, the dal on Plate B disappear by chance, because only a few grains can be thrown out by luck. That is a real result. Write it down and play again.",
+     "parent": "On Plate A, a typical run is 3 rice and 2 dal after Day 1, then 0 rice and 4 dal after Day 2, then 0 rice and 8 dal after Day 3. On Plate B, a typical run keeps about 38 rice and 2 dal each day, though chance may give 1, 3 or 4 dal. About one game in four, the dal on Plate B disappear by chance, because there are so few dal grains that luck can throw all of them out. That is a real result. Write it down and play again.",
      "context": "In this step you play Day 2 and Day 3 on both plates."
     },
     {
@@ -1394,7 +1394,7 @@
      "kid": "Say what you think, what you saw, and why.",
      "ask": [
       {
-       "q": "What I think, what I saw, and why?",
+       "q": "What do you think happened, what did you see, and why did it happen?",
        "good": [
         "What I think: the medicine does not make germs tough, it removes the ordinary ones. What I saw: Plate A ended with mostly dal, and Plate B stayed mostly rice. Why: with the ordinary germs gone, the tough ones had all the room and food."
        ]
@@ -1412,8 +1412,8 @@
     {
      "id": "s7",
      "mins": 4,
-     "do": "Read the fact aloud. Then ask the question below.",
-     "say": "Real bacteria work like this. A crowd of billions has a few that are tough before any medicine arrives. In 1952, Esther Lederberg showed this with a velvet stamp. The medicine does not teach them. It only decides which ones carry on. Why might a doctor avoid giving an antibiotic when it is not needed?",
+     "do": "Read aloud the fact about real bacteria. Then ask the question below.",
+     "say": "Real bacteria work like this. A crowd of billions has a few that are tough before any medicine arrives. In 1952, Esther Lederberg showed this by copying bacteria from one dish to others with a velvet stamp. The medicine does not teach them. It only decides which ones carry on. Why might a doctor avoid giving an antibiotic when it is not needed?",
      "kid": "Real germs work like this. The medicine only chooses which ones carry on.",
      "check": {
       "t": "mcq",
@@ -1424,7 +1424,7 @@
        "It makes the person tougher against all germs"
       ],
       "a": 0,
-      "why": "An antibiotic does nothing to a virus, so the antibiotic cannot help a cold. But the antibiotic still removes ordinary bacteria in the body and leaves room for tough ones. A virus does not become tougher, because the antibiotic never touched them."
+      "why": "An antibiotic does nothing to a virus, so the antibiotic cannot help a cold. But the antibiotic still removes ordinary bacteria in the body and leaves room for tough ones. The virus does not become tougher, because the antibiotic never touched the virus."
      },
      "think": "In the game, who made the tough germs: the medicine, or chance? Where were the dal grains before the medicine began?",
      "context": "In this step you connect the game to real bacteria."
@@ -1623,7 +1623,7 @@
      "do": "1. Write a different three-letter code on each of 30 cards. Use codes like KRT, PAM or LOB, and no two the same. 2. The helper secretly chooses three codes and writes each on a germ card. 3. Spread the 30 antibody cards face up on the table.",
      "say": "Each antibody card has its own code. Each germ card matches exactly one of them. The helper picks three germs in secret, so you will not know which cards to look for.",
      "kid": "Write 30 different codes on 30 cards. The helper writes three germ cards.",
-     "parent": "Help your child write the codes quickly. The three germ cards must each match one antibody card exactly, and the helper must keep them hidden from the searcher. Name the germ cards 1, 2 and 3. Use codes that look alike in a few cases, such as KRT and KRL, so the search takes real time. Two to four children: take turns as searcher, so each child makes the four searches, and use different codes for each turn. Add the times of the group and use the middle one. Before each timed search, shuffle the 30 antibody cards face up so the child cannot remember where a card lies.",
+     "parent": "Help your child write the codes quickly. The three germ cards must each match one antibody card exactly, and the helper must keep them hidden from the searcher. Name the germ cards 1, 2 and 3. Make a few of the codes look alike, such as KRT and KRL, so the search takes real time. Two to four children: take turns as searcher, so each child makes the four searches, and use different codes for each turn. Collect the group's times for each search and use the middle one. Before each timed search, shuffle the 30 antibody cards face up so the child cannot remember where a card lies.",
      "context": "In this step you make the cards for the game."
     },
     {
@@ -1662,7 +1662,7 @@
      "kid": "Draw four bars. Say what you think, what you saw, and why.",
      "ask": [
       {
-       "q": "What did the safe picture give your search?",
+       "q": "How did the safe picture of Germ 2 help your search?",
        "good": [
         "It let me find the match before the germ came, so I could look in the memory pile.",
         "It saved time when the real germ arrived."
@@ -1993,7 +1993,7 @@
        "q": "Why might the body raise its temperature when germs get in?",
        "good": [
         "It may help the defenders work better.",
-        "Some germs grow worse when it is warmer."
+        "Some germs grow less well when it is warmer."
        ]
       }
      ],
@@ -2101,7 +2101,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up comes to the health centre or the doctor, and chooses what personal information to share. Never write medicine doses on the sheet unless the doctor tells you to. Keep the sheet on the fridge, not in a place children can reach medicines.",
+   "safety": "A grown-up comes to the health centre or the doctor, and chooses what personal information to share. Never write medicine doses on the sheet unless the doctor tells you to. Keep the sheet on the fridge, not next to medicines that children could reach.",
    "schedule": [
     {
      "day": 1,
@@ -2114,7 +2114,7 @@
      "what": "Meet the health worker or doctor with a grown-up. Fill in the answers and ask them to check the sheet."
     }
    ],
-   "record": "A photo or the finished sheet with: the nearest health centre and doctor's number, when the next vaccines are due, the danger signs that need a doctor at once, and how to make ORS.",
+   "record": "The finished sheet, or a photo of it, with: the nearest health centre and doctor's number, when the next vaccines are due, the danger signs that need a doctor at once, and how to make ORS.",
    "context": "In this 2-day project you ask a real health worker, nurse or doctor your questions, and make a one-page health sheet for your home.",
    "setup": [
     {
@@ -2297,7 +2297,7 @@
    "creative": [
     "A row of pockets, one for each time of day, with the tablets for that time put in by a grown-up.",
     "A chart with a sticker for each day, so the person can see at a glance what has been taken.",
-    "A chart with a picture of what each medicine is for, in a few words, so it is not just a name."
+    "A chart that shows what each medicine is for, with a picture and a few words, so it is not just a name."
    ],
    "your_turn": "Now design your own medicine reminder chart. Draw it, make it, and ask an elder to read it from one metre away. What did they find hard? What did you change?",
    "context": "This is a design challenge about doses and times. You make a chart that helps someone take the right medicine at the right time.",
@@ -2504,7 +2504,7 @@
      "t": "write",
      "p": "Why is the body usually faster the second time it meets the same germ?",
      "a": "A strong answer says that after the first meeting some white blood cells stay on as memory cells. They remember the shape of the germ and make the right antibody quickly, often before the person feels ill.",
-     "why": "Memory cells are why most people do not get chickenpox twice. A vaccine uses the same trick, so the first meeting is safe."
+     "why": "Memory cells are why most people do not get chickenpox twice. A vaccine works the same way, and makes the first meeting safe."
     },
     {
      "t": "mcq",
@@ -2523,7 +2523,7 @@
      "a": [
       "antibody"
      ],
-     "why": "An antibody fits one particular germ, sticks to them and marks them to be removed."
+     "why": "An antibody fits one particular germ, sticks to that germ and marks the germ to be removed."
     },
     {
      "t": "draw",
@@ -2682,7 +2682,7 @@
       "Flu is a bacterium"
      ],
      "a": 0,
-     "why": "Antibodies fit one shape, like a key in a lock. If the virus changes their shape, the old key may not fit. So each year's vaccine is matched to the viruses that are going around."
+     "why": "Antibodies fit one shape, like a key in a lock. If the virus changes shape, the old key may not fit. So each year's vaccine is matched to the viruses that are going around."
     },
     {
      "t": "write",
@@ -2771,7 +2771,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw how a velvet stamp copies a pattern of dots from one dish of bacteria to two new dishes. Show which dish has the medicine in it.",
+     "p": "Esther Lederberg used a round velvet stamp to copy bacteria from one dish to other dishes. Draw how the stamp copies a pattern of dots from one dish of bacteria to two new dishes. Show which dish has the medicine in it.",
      "a": "A drawing of a dish with dots, a round velvet pad pressed on it, then pressed on two new dishes where the same pattern of dots appears, one with a label for the medicine.",
      "why": "The stamp copies the position of each colony, so scientists can compare the same colony on a dish with and without the medicine."
     },
@@ -2796,7 +2796,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A scientist stamps a dish of bacteria on to new dishes with a medicine in them. Resistant dots grow in the same places on every copy, and those same places on the first dish also hold resistant bacteria. Which finding would have shown that the medicine made the bacteria resistant?",
+     "p": "A scientist presses a velvet stamp on a dish of bacteria, and then on new dishes that have a medicine in them. Resistant dots grow in the same places on every copy. The bacteria in those same places on the first dish are resistant too. What different result would have shown that the medicine made the bacteria resistant?",
      "opts": [
       "Resistant dots appearing in different places on each copy, and none on the first dish",
       "Resistant dots in the same places on every copy",
@@ -2807,7 +2807,7 @@
     },
     {
      "t": "write",
-     "p": "A trial gives a new vaccine to 1,000 children and a dummy injection to another 1,000. In the next year, 5 vaccinated children and 50 dummy children catch the illness. What does this show, and how big is the effect?",
+     "p": "A trial gives a new vaccine to 1,000 children and a dummy injection to another 1,000. In the next year, 5 of the vaccinated children and 50 of the children who had the dummy injection catch the illness. What does this show, and how big is the effect?",
      "a": "The vaccinated group had far fewer cases, 5 against 50. That is 10 times fewer, or 9 out of 10 fewer cases (90 percent fewer).",
      "why": "Comparing a group that gets the vaccine with one that does not shows what the vaccine does. 50 minus 5 is 45, and 45 out of 50 is 9 out of 10."
     },
@@ -2827,11 +2827,11 @@
      "p": "A new vaccine is made, but there is only enough for a few thousand people.",
      "views": [
       {
-       "who": "Dr Lakshmi, a health officer",
+       "who": "A health officer",
        "says": "Give it first to the people most likely to become very ill, such as the very old and children with weak defences."
       },
       {
-       "who": "Dr Zainab, a health officer",
+       "who": "Another health officer",
        "says": "Give it first to the people who meet the most others, such as bus drivers and teachers, so the germ spreads less."
       }
      ],
@@ -2985,7 +2985,7 @@
    "t": "mcq",
    "p": "What does an antibody do?",
    "opts": [
-    "Fits one germ like a key in a lock, sticks to them and marks them to be removed",
+    "Fits one germ like a key in a lock, sticks to that germ and marks the germ to be removed",
     "Kills every germ at once",
     "Carries oxygen in the blood"
    ],
@@ -3145,7 +3145,7 @@
  "applications": [
   "A hospital lab grows bacteria from a patient on a dish and puts small paper discs of different antibiotics on top. A clear ring round a disc shows which medicine works, the same clue that Fleming noticed round a mould.",
   "Doctors choose an antibiotic only after finding out the cause, and hospitals keep rules to use antibiotics only when they are needed, so that they keep working.",
-  "Health workers carry vaccines to villages in insulated boxes with ice packs, and in cold rooms and fridges at health centres, so that the vaccine stays between 2 and 8 degrees Celsius all the way.",
+  "Vaccines are kept in cold rooms and fridges at health centres. Health workers carry them to villages in insulated boxes with ice packs, so that the vaccine stays between 2 and 8 degrees Celsius all the way.",
   "When a case of measles, polio or Ebola is found, health workers find the people around the ill person and vaccinate them, which makes a ring that the germ cannot cross.",
   "ORS packets are kept in anganwadis, health centres and chemists, and given with zinc tablets to children with loose motions.",
   "Scientists in many countries study the flu viruses that are going around each year, and the flu vaccine is made to match them.",
@@ -3222,9 +3222,9 @@
   "If you get a cold, who can you protect by staying home?",
   "What do you think your body remembers about germs you met when you were a baby?",
   "Why do you think a vaccine is given before the illness and not after?",
-  "How would you explain to a younger child why a needle is not an attack?",
+  "How would you explain to a younger child why a vaccine needle is not an attack?",
   "What do we do at home when someone has loose motions?",
-  "Why do you think the doctor asked you to take the medicine at exact times?",
+  "Why do you think a doctor asks you to take a medicine at exact times?",
   "If the bacteria in your gut are helpful, why might a doctor still give an antibiotic?"
  ],
  "jokes": [
@@ -3271,7 +3271,7 @@
    "answer": "16 tough germs after 3 nights, and 128 after 6 nights.",
    "explain": "Doubling 3 times: 2, 4, 8, 16. Doubling 6 times: 2, 4, 8, 16, 32, 64, 128. After 3 more nights the number is 8 times larger, because 2 times 2 times 2 is 8.",
    "math_unit": "math.patterns.number-patterns.L4",
-   "context": "In the Rice and Dal game, you play a plate with medicine every day and watch the tough germs double each night.",
+   "context": "In the Rice and Dal game, one plate gets a medicine every day, and the tough germs on that plate double each night.",
    "how": "e2",
    "why_maths": "Doubling shows how fast a few survivors can become the whole crowd once the others are gone.",
    "answer_chart": {
@@ -3323,7 +3323,7 @@
    "why_maths": "Comparing the share of tough germs before and after each dose shows how a medicine changes the crowd."
   },
   {
-   "problem": "In Memory Cards, Kavya took 24 seconds to find the matching antibody the first time, and 3 seconds after a safe picture from a vaccine. How many times faster was she, and how many seconds did the vaccine save?",
+   "problem": "In Memory Cards, a child took 24 seconds to find the matching antibody card the first time. After a vaccine had shown her a safe picture of the germ, she took 3 seconds. How many times faster was she, and how many seconds did the vaccine save?",
    "answer": "8 times faster, and 21 seconds saved.",
    "explain": "24 divided by 3 is 8, so she was 8 times faster. 24 minus 3 is 21 seconds saved.",
    "math_unit": "math.division.division-facts.L4",
@@ -3401,16 +3401,16 @@
    "why_maths": "The balance of salt and sugar must stay the same whatever the amount of water, so the amounts go up and down together."
   },
   {
-   "problem": "On Meera's chart, her temperature was 36.4 in the morning, 36.8 in the afternoon and 37.0 in the evening. At night it was 38.4. By how much did it rise from the evening to the night? Is the night reading a fever?",
+   "problem": "A child's temperature was 36.4 in the morning, 36.8 in the afternoon and 37.0 in the evening. At night it was 38.4. By how much did it rise from the evening to the night? Is the night reading a fever?",
    "answer": "It rose by 1.4 degrees. Yes, 38.4 is above 38, so it is a fever.",
-   "explain": "38.4 minus 37.0 is 1.4. A fever is about 38 degrees or more. The three day readings all fall in the normal range for a well person.",
+   "explain": "38.4 minus 37.0 is 1.4. A fever is about 38 degrees or more. The three daytime readings all fall in the normal range for a well person.",
    "math_unit": "math.data.line-graphs.L4",
    "context": "In A Day of Temperatures, you measure the temperature of two well people three times in a day and draw a line through the readings.",
    "how": "a5",
    "why_maths": "A line through the readings shows the ordinary rise and fall in a day, so a real fever stands out.",
    "chart": {
     "type": "line",
-    "title": "Meera's temperature over a day",
+    "title": "One child's temperature over a day",
     "x": "Time of day",
     "y": "Temperature (degrees Celsius)",
     "data": [
@@ -3434,8 +3434,8 @@
    }
   },
   {
-   "problem": "A child is exposed to measles on 3 March. Measles usually shows after 10 to 14 days. Between which dates would she usually first feel ill? On what date at the latest should a doctor have vaccinated her contacts, if the vaccine must be given within 3 days of meeting the germ?",
-   "answer": "She would usually first feel ill between 13 March and 17 March. The contacts' vaccines should be given by 6 March at the latest.",
+   "problem": "A child catches the measles germ on 3 March. The first signs of measles usually show after 10 to 14 days. Between which dates would she usually first feel ill? The people who were near her on 3 March need the vaccine within 3 days of meeting the germ. By what date must they be vaccinated?",
+   "answer": "She would usually first feel ill between 13 March and 17 March. The people who were near her should be vaccinated by 6 March at the latest.",
    "explain": "3 March plus 10 days is 13 March. 3 March plus 14 days is 17 March. For the vaccine, 3 March plus 3 days is 6 March.",
    "math_unit": "math.time.calendar.L4",
    "context": "This is about the incubation period, the time between catching a germ and the first sign of illness.",
@@ -3538,7 +3538,7 @@
   },
   {
    "q": "What does an antibody do?",
-   "a": "It fits one germ like a key in a lock and marks them to be removed."
+   "a": "It fits one germ like a key in a lock and marks that germ to be removed."
   },
   {
    "q": "Why does an antibiotic not work on a cold?",
@@ -3654,7 +3654,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In the 1940s, scientists argued about a puzzle. When a medicine or a virus attacked a dish of bacteria, a few survived, and their children were resistant. Did the attack change those bacteria, as if they had learned to resist? Or were a few already different, by chance, before the attack came? In 1943, Salvador Luria and Max Delbrück ran a test with numbers that pointed to chance. In 1952, Esther Lederberg showed it with her own eyes. She invented a stamp made from a round piece of velvet. She pressed it on a dish where bacteria had grown as dots, so the velvet picked up a copy of the pattern. Then she pressed the velvet on new dishes with a medicine in them. Dots grew in the same places on every copy. She went back to the first dish, which had never touched the medicine, and tested the dots in those same places. They were resistant already. Joshua Lederberg shared a Nobel Prize in 1958 for other work on bacteria. Esther did not share it.",
+  "story": "In the 1940s, scientists argued about a puzzle. When a medicine or a virus attacked a dish of bacteria, a few survived, and their children were resistant. Did the attack change those bacteria, as if they had learned to resist? Or were a few already different, by chance, before the attack came? In 1943, Salvador Luria and Max Delbrück ran a test with numbers that pointed to chance. In 1952, Esther Lederberg found a way to see it directly. She invented a stamp made from a round piece of velvet. She pressed it on a dish where bacteria had grown as dots, so the velvet picked up a copy of the pattern. Then she pressed the velvet on new dishes with a medicine in them. Dots grew in the same places on every copy. She went back to the first dish, which had never touched the medicine, and tested the dots in those same places. They were resistant already. Joshua Lederberg shared a Nobel Prize in 1958 for other work on bacteria. Esther did not share it.",
   "who": "Esther Lederberg and Joshua Lederberg, with the earlier work of Salvador Luria and Max Delbrück",
   "when": "1943 (the numbers test) and 1952 (the velvet stamp)",
   "wrong_idea": "Many scientists thought that bacteria become resistant because of the medicine, as if the medicine changed them. Esther Lederberg's velvet stamp showed that the resistant bacteria were already there, on a dish that had never met the medicine."

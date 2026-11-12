@@ -3,12 +3,12 @@
  "title": "Choosing materials: no material is best, so how do we choose?",
  "level": 4,
  "summary": {
-  "text": "Paper bends and never breaks. Dried flour paste snaps like a biscuit. Glue four layers of paper together with that paste, and the bar holds more than either one alone. So what is the strength of a bar made of two weak things? Your child makes bars, bends them to the limit and finds out. Then they ask a harder question that every maker faces: if no material is best at everything, how do we choose? They score materials for a job, follow a thing from the ground to the bin, and bury scraps to watch what time does to them.",
+  "text": "A strip of paper bends easily. Dried flour paste snaps like a biscuit. But glue four layers of paper together with that paste, and the bar holds more than either one alone. Your child makes these bars and loads them until they fail, to find out how two weak things can make a strong one. Then they take up a harder question: if no material is best at everything, how do we choose? They score materials for a job, follow a thing from the ground to the bin, and bury scraps in soil to see which ones rot.",
   "art": "A kitchen table with four dried bars of paper and paste laid across two piles of books, a hanging cup of water on one bar, and a jar of soil with scraps in it beside a notebook with a scoring table."
  },
  "intro": {
   "hook": "A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?",
-  "text": "There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. Real jobs ask for many things together, and the things pull against each other. Here you go a step further. You will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and watch which ones come back to the earth.",
+  "text": "There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this unit you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.",
   "art": "Four cups on a kitchen table in a row, steel, paper, clay and plastic, each with a small tag that says what it is good at and what it is bad at."
  },
  "outcomes": [
@@ -79,7 +79,7 @@
   {
    "term": "Life cycle",
    "meaning": "The whole life of an object: where its material comes from, how it is made, how it is used and what happens after.",
-   "example": "The life cycle of a steel katori begins as iron ore in the ground and ends as scrap that can be melted again.",
+   "example": "A steel katori begins as iron ore in the ground and ends as scrap that can be melted again.",
    "art": "A circle of four pictures joined by arrows: ground, factory, kitchen, scrapyard."
   },
   {
@@ -108,7 +108,7 @@
   },
   {
    "term": "Compost",
-   "meaning": "The dark crumbly soil made when plant and food waste is broken down by tiny living things, and which feeds new plants.",
+   "meaning": "Dark, crumbly soil made when tiny living things break down plant and food waste. It feeds new plants.",
    "example": "Vegetable peels in a pot of soil turn into compost in a few weeks.",
    "art": "A pot of dark crumbly compost with a small green seedling in the soil."
   },
@@ -157,7 +157,7 @@
   {
    "term": "Microplastic",
    "meaning": "A tiny piece of plastic, smaller than a grain of rice. Big plastic things break into microplastics over many years, and the pieces get into water, soil and living bodies.",
-   "example": "A synthetic cloth sheds tiny threads in the wash, and the threads are microplastics.",
+   "example": "A polyester shirt sheds tiny threads in the wash, and the threads are microplastics.",
    "art": "A magnified drop of water with tiny coloured plastic specks floating in it."
   },
   {
@@ -172,25 +172,25 @@
    "concept": "There is no best material, only trade-offs",
    "status": "defined",
    "definition": "A trade-off means that getting more of one good thing costs you some of another. Every material choice has one.",
-   "description": "Think about a drinking cup. Steel does not break and lasts for years, but it is heavy, it conducts heat to your hand, and it costs more. Glass is clear and does not change the taste, but it breaks. Paper is light and cheap, but it goes soft and is used once. Clay keeps water cool, but it cracks if it falls. Plastic is light and tough, but it can last in the ground for a very long time. Each one wins in some ways and loses in others. This is a trade-off: to get more of one good thing, you give up some of another. Because every material has a catch, choosing is a skill. First, you decide what the job needs. Then you decide which needs matter most. Only then can you pick the material that gives up the least of what matters.",
+   "description": "Think about a drinking cup. Steel does not break and lasts for years, but it is heavy, it gets too hot to hold, and it costs more. Glass is clear and does not change the taste, but it breaks. Paper is light and cheap, but it goes soft and is used once. Clay keeps water cool, but it cracks if it falls. Plastic is light and tough, but it can last in the ground for a very long time. Each one wins in some ways and loses in others. This is a trade-off: to get more of one good thing, you give up some of another. Because every material has a catch, choosing is a skill. First, you decide what the job needs. Then you decide which needs matter most. Only then can you pick the material that gives up the least of what matters.",
    "examples": [
     "A steel tumbler is strong but heavy and hot to hold. A paper cup is light but weak.",
-    "A thick glass bottle is safe from leaks but breaks if dropped. A plastic bottle is the other way round.",
+    "A thick glass bottle does not leak, but it breaks if dropped. A plastic bottle does not break if dropped, but it may leak.",
     "A bicycle frame of thin steel tube is light and strong, but costs more than a heavy frame."
    ],
    "perspectives": [],
    "art": "Five cups in a row, steel, glass, paper, clay and plastic, each with two small icons showing one thing it is good at and one thing it is bad at.",
-   "context": "We looked at several cups and none was perfect. This card explains why no material is best at everything, and what that means for choosing."
+   "context": "A steel cup, a paper cup, a clay cup and a plastic cup each have a weak side. This card explains why no material is best at everything, and what that means for choosing."
   },
   {
    "concept": "A decision matrix: scoring materials for a job",
    "status": "defined",
    "definition": "A decision matrix is a table that scores each material against each need, using weights for how much each need matters.",
-   "description": "When a job has many needs, a table helps you compare. Put the materials down the side and the needs along the top. Give each need a weight from 1 to 3 for how much it matters. Then give each material a score from 1 to 5 for each need. Multiply each score by the weight and add up the row. The highest total is the best fit for this job. Suppose you want a tiffin box for school. Cost has weight 2, light has weight 2, does not leak has weight 3 and lasts has weight 1. A plastic box might score 4 on cost, 5 on light, 3 on leaks and 3 on lasting. A steel box might score 2, 3, 5 and 5. The matrix adds up the answers. But be honest: the scores are your judgement, not facts. Change the weights and the winner may change. That is useful, because it shows what the argument is really about.",
+   "description": "When a job has many needs, a table helps you compare. Put the materials down the side and the needs along the top. Give each need a weight from 1 to 3 for how much it matters. Then give each material a score from 1 to 5 for each need. Multiply each score by the weight and add up the row. The highest total is the best fit for this job. Suppose you want a tiffin box for school. 'Cost' has weight 2, 'light' has weight 2, 'does not leak' has weight 3 and 'lasts' has weight 1. A plastic box might score 4 on cost, 5 on light, 3 on leaks and 3 on lasting. A steel box might score 2, 3, 5 and 5. Multiply each score by its weight and add up each row to get the totals. But be honest: the scores are your judgement, not facts. Change the weights and the winner may change. That is useful, because it shows what people are really disagreeing about.",
    "examples": [
     "Plastic: 4 times 2, plus 5 times 2, plus 3 times 3, plus 3 times 1, which is 30.",
     "Steel: 2 times 2, plus 3 times 2, plus 5 times 3, plus 5 times 1, which is 30. It is a tie, and the weights decide.",
-    "If the box will travel in a bag with the curry, the weight for leaks goes up and steel wins."
+    "If the box will carry curry in a school bag, the weight for 'does not leak' goes up and steel wins."
    ],
    "perspectives": [],
    "art": "A table on paper with four rows for materials and four columns for needs, numbers in each box and a total on the right, with one total circled.",
@@ -261,7 +261,7 @@
    "examples": [
     "Banana peel, left in damp soil, rots within weeks.",
     "An aluminium can can be melted and made into a new can again and again.",
-    "A plastic bottle can last for hundreds of years in a landfill, according to estimates, and no one has seen one finish."
+    "Experts estimate that a plastic bottle can last for hundreds of years in a landfill. Nobody has watched one for long enough to see it break down fully."
    ],
    "perspectives": [],
    "art": "Four paths leaving a pile of used things: one to soil with a seedling, one to a rusty heap, one to a furnace and back to a new can, and one to a long dusty road with tiny specks along it.",
@@ -270,9 +270,9 @@
   {
    "concept": "Can plastic be eaten? The race against plastic waste",
    "status": "debated",
-   "description": "For many years, people thought no living being could break down plastic. In 2016, a team of scientists in Japan led by Shosuke Yoshida reported a bacterium, Ideonella sakaiensis, that they found at a plastic bottle recycling site. She could use the plastic in some bottles, called PET, as food. Her enzymes cut its long chains into smaller pieces. Other groups have found enzymes in other microbes, and have improved them in laboratories. Some wax worm caterpillars and some fungi have also been reported to chew some plastics. But the pace is slow, and it is not clear this can solve the waste problem. Many plastics are not PET. Some are mixed. Some contain additives. Scientists disagree about whether enzymes can clean up a landfill, or whether the better answer is to make less plastic, reuse it more and design new plastics that are made to break down. Both views agree that we do not yet have a simple fix.",
+   "description": "For many years, people thought no living being could break down plastic. In 2016, a team of scientists in Japan led by Shosuke Yoshida reported a bacterium, Ideonella sakaiensis, that they found at a plastic bottle recycling site. She could use the plastic in some bottles, called PET, as food. Her enzymes, the chemicals a living being makes to break things down, cut the plastic's long chains into smaller pieces. Other groups have found enzymes in other microbes, and have improved them in laboratories. Some wax worm caterpillars and some fungi have also been reported to chew some plastics. But the pace is slow, and it is not clear this can solve the waste problem. Many plastics are not PET. Some are mixtures of several plastics. Some have other chemicals added. Scientists disagree about whether enzymes can clean up a landfill, or whether the better answer is to make less plastic, reuse it more and design new plastics that are made to break down. Both sides agree that we do not yet have a simple fix.",
    "examples": [
-    "Some labs are making enzymes that break PET bottles down into their building blocks in a few days, which can then be made into new bottles.",
+    "Some labs are making enzymes that break PET bottles down into their building blocks in a few days. The building blocks can then be made into new bottles.",
     "Cotton, wool and paper are made by living beings, and living beings can break them down. That is why they rot.",
     "Some new plastics made from plants are designed to break down, but many only do so in hot industrial compost."
    ],
@@ -299,7 +299,7 @@
    "definition": "Old choices of materials were tested by long use. Many have good reasons, and some beliefs about them still need testing.",
    "description": "Before laboratories and plastics, people chose materials by trying them for generations. Many of their choices have good reasons. Banana leaf plates are light, flat, waterproof enough for a meal and rot in a few weeks, so there is nothing to wash and nothing left. Clay pots keep water cool, because a little water seeps through the clay and dries on the outside. Coir ropes and mats are strong, do not rot quickly in salt water and come from a coconut tree that grows again. Mud and lime plaster let a wall breathe. Brass and copper vessels were used for water and cooking for a very long time. Not every old belief is proved. For example, many people believe that water from a copper vessel is healthier. Studies show copper can kill some germs on its surface, but the claims about health are still being debated. A good scientist honours old knowledge and tests it. Some of it turns out to be wise, and some of it does not.",
    "examples": [
-    "Banana leaf plates and areca leaf plates are used in many parts of India and are made of a leaf.",
+    "Banana leaf plates and areca leaf plates are made from leaves, and are used in many parts of India.",
     "Coir mats and ropes are made from the husk of coconuts.",
     "A clay kullad is used once and then returns to the earth as clay pieces."
    ],
@@ -310,11 +310,11 @@
   {
    "concept": "The Iron Pillar of Delhi: why has it hardly rusted?",
    "status": "debated",
-   "description": "In Delhi, near the Qutub Minar, stands an iron pillar about seven metres tall. It was made more than 1,500 years ago, probably in the Gupta period. It has stood in the open air through monsoons for centuries, and it has not rusted away. Iron usually rusts in months when it is left out in the rain. So what is special? One explanation, from R. Balasubramaniam and others at IIT Kanpur, is that the iron has a lot of phosphorus in it, and a thin skin of a phosphorus compound formed on the surface and shielded the iron below. Other scientists have stressed that Delhi's climate is dry for much of the year, so the iron stays dry for months. Others note that the pillar is also protected by the oils and touch of many hands over centuries. Maybe all of these matter. It shows that a good material choice can be a combination of the right material and the right place.",
+   "description": "In Delhi, near the Qutub Minar, stands an iron pillar about seven metres tall. It was made more than 1,500 years ago, probably in the Gupta period. It has stood in the open air through monsoons for centuries, and it has not rusted away. Iron usually rusts in months when it is left out in the rain. So what is special about this pillar? One explanation, from R. Balasubramaniam and others at IIT Kanpur, is that the iron has a lot of phosphorus in it, and a thin skin of a phosphorus compound formed on the surface and shielded the iron below. Other scientists have stressed that Delhi's climate is dry for much of the year, so the iron stays dry for months. Others note that the pillar is also protected by the oils and touch of many hands over centuries. Maybe all of these matter. The pillar shows that a good material choice can be a combination of the right material and the right place.",
    "examples": [
     "Iron with a lot of phosphorus, like the pillar's, is different from the low-phosphorus iron of most modern steel.",
     "Delhi has a dry climate for most of the year, which slows rusting.",
-    "A coastal pillar in a damp place such as Mumbai or Kochi would probably rust faster."
+    "The same pillar in a damp place by the sea, such as Mumbai or Kochi, would probably rust faster."
    ],
    "perspectives": [
     {
@@ -396,7 +396,7 @@
   },
   {
    "text": "Every object has a whole life: its source, its making, its use and what happens after.",
-   "evidence": "Engineers measure the energy and water used at each stage, and they measure what happens to a thing after it is thrown away. The measures differ widely from one material to the next."
+   "evidence": "Engineers measure the energy and water used at each stage, and they measure what happens to a thing after it is thrown away. The amounts differ widely from one material to the next."
   },
   {
    "text": "Some materials rot, some rust, some can be remade and some last a very long time, and this matters when we choose.",
@@ -448,7 +448,7 @@
    "claim": "If something rots, it is automatically the greener choice.",
    "who": "Many shoppers",
    "for": "Things that rot return to the soil and do not pile up.",
-   "against": "A paper cup lined with plastic does not rot easily. Some 'compostable' plastics only break down in very hot industrial composters. Growing and carrying the plant needs land, water and fuel. The honest answer comes from looking at the whole life, and often the best choice is something used many times.",
+   "against": "A paper cup lined with plastic does not rot easily. Some 'compostable' plastics only break down in very hot industrial composters. A material that rots usually comes from plants, and growing and carrying the plants needs land, water and fuel. The honest answer comes from looking at the whole life, and often the best choice is something used many times.",
    "status": "debated",
    "context": "This card is about whether 'biodegradable' always means better."
   },
@@ -463,14 +463,14 @@
  ],
  "big_questions": [
   {
-   "q": "Paper alone bends, dried paste alone snaps, and the two together are strong. Where does the strength of the bar live?",
+   "q": "Paper alone bends, dried paste alone snaps, and the two together are strong. Where does the strength of the bar come from?",
    "kind": "deep",
    "hint": "Think about what the paper does when the bar is pulled, and what the paste does."
   },
   {
    "q": "If there is no best material, what does it mean to choose well?",
    "kind": "deep",
-   "hint": "Think about how a decision table can be changed by what we care about."
+   "hint": "Think about how the winner in a decision matrix changes when we change what we care about."
   },
   {
    "q": "Whose job is it to decide what matters most when we choose a material: the maker, the buyer, the neighbour who will live near the factory, or the children who will live with the waste?",
@@ -478,7 +478,7 @@
    "hint": "Think about who pays when a material's cost shows up later."
   },
   {
-   "q": "A bamboo bridge, a steel bridge and a living root bridge can all cross a river. Is a bridge that grows stronger every year cheaper or more expensive?",
+   "q": "A bamboo bridge, a steel bridge and a living root bridge can all cross a river. The living root bridge takes many years to grow, but it gets stronger every year. Is it cheaper or more expensive than the others?",
    "kind": "big",
    "hint": "Cost today and cost over fifty years can give different answers."
   },
@@ -488,19 +488,19 @@
    "hint": "Think of a medicine bottle, and then of a bag used for ten minutes."
   },
   {
-   "q": "Atoms in a banana leaf, a steel spoon and a plastic bag are all made of the same kinds of atoms. Why do they have such different lives after we are done with them?",
+   "q": "A banana leaf, a steel spoon and a plastic bag are all made of atoms. Why do they have such different lives after we are done with them?",
    "kind": "deep",
    "hint": "Think about how the atoms are joined, and who can break the joins apart."
   },
   {
-   "q": "Old people chose banana leaf plates for good reasons without ever using a laboratory. How do we know if a tradition is wise?",
+   "q": "People long ago chose banana leaf plates for good reasons, without ever using a laboratory. How do we know if a tradition is wise?",
    "kind": "big",
    "hint": "Think about what you could test, and what you could not."
   },
   {
-   "q": "A material that did its job well turned out to harm people many years later. How can we choose well when we cannot see the future?",
+   "q": "Asbestos and lead did their jobs well, and turned out to harm people many years later. How can we choose well when we cannot see the future?",
    "kind": "big",
-   "hint": "Think about asbestos and lead. What could makers do before they use a new material everywhere?"
+   "hint": "What could makers do before they use a new material everywhere?"
   },
   {
    "q": "Everything we make comes from the ground, and goes back into the ground, the air or the sea. Is there such a thing as 'away' when we throw something away?",
@@ -514,10 +514,10 @@
   }
  ],
  "how_we_found_out": {
-  "story": "For a long time, surgeons believed the body would fight any metal put inside it. They expected scar tissue to wall it off, or the body to push it out. Around 1952, in Lund in Sweden, a doctor named Per-Ingvar Brånemark was studying how bone heals. He screwed a tiny titanium chamber into the leg bone of a rabbit, so that he could watch blood flow through a microscope. When the study was over, he tried to take the chambers out. They would not come out. The bone had grown tightly around the titanium and held it fast. Brånemark realised that bone could join itself to titanium without scar tissue. He called it osseointegration. Over the next years, with many tests, he and others made titanium roots for teeth, and later joints, which could last for years inside people. The old idea that metal in the body would always be rejected was wrong for titanium.",
+  "story": "For a long time, surgeons believed the body would fight any metal put inside it. They expected scar tissue to wall it off, or the body to push it out. Around 1952, in Lund in Sweden, a doctor named Per-Ingvar Brånemark was studying how bone heals. He screwed tiny titanium chambers into the leg bones of rabbits, so that he could watch the blood flow with a microscope. When the study was over, he tried to take the chambers out. They would not come out. The bone had grown tightly around the titanium and held it fast. Brånemark realised that bone could join itself to titanium without scar tissue. He called this joining osseointegration. Over the next years, with many tests, he and others made titanium roots for teeth, and later joints, which could last for years inside people. The old idea that metal in the body would always be rejected was wrong for titanium.",
   "who": "Per-Ingvar Brånemark, a Swedish doctor, and the colleagues who tested titanium after him",
   "when": "About 1952, with the first uses in people in the 1960s",
-  "wrong_idea": "That the body always walls off or pushes out metal placed inside it. In his rabbit studies, bone grew so tightly onto titanium that the chambers could not be removed. This showed that the right material can join the body.",
+  "wrong_idea": "That the body always walls off or pushes out metal placed inside it. In Brånemark's rabbit studies, bone grew so tightly onto titanium that the chambers could not be removed. This showed that the right material can join the body.",
   "art": "A doctor in a 1950s laboratory in Sweden holding a tiny titanium chamber beside a microscope, with a rabbit's leg bone drawn in cross-section showing bone grown tightly around the metal."
  },
  "story": {
@@ -542,7 +542,7 @@
    "'It depends,' said Mr. Das slowly. 'On what we count. If we count only next year, steel wins. If we count fifty years, the roots win.' 'Then count both,' said Daiaphi.",
    "The village decided to do both. Mr. Das would build one small, light steel footbridge, quickly, for the village to cross while the old path was mended. And the next week, the village led new roots from the fig on the far bank, along fresh trunks of betel-nut palm, across the river. Daiaphi tied the first knot. It would not be ready for many years. By then she would be a grown woman, and her own children would cross."
   ],
-  "epiphany": "Steel wins when only next year counts. The roots win when fifty years count, and they leave no waste. The turn comes when Daiaphi asks what the bridge must do, and scores both materials on every need. The best material depends on what we count. So the village uses both, and plans for the long run.",
+  "epiphany": "Steel wins if only next year counts. The roots win if fifty years count, and they leave no waste. Daiaphi sees this when she asks what the bridge must do, and scores both materials on every need. The best material depends on what we count. So the village uses both, and plans for the long run.",
   "ask": [
    "What needs did the village list for the bridge?",
    "Why did steel win when only next year counted, and the roots win when fifty years counted?",
@@ -593,7 +593,7 @@
       },
       {
        "f": "2. A roof for a house in a hill village with very heavy monsoon rain. Choose one: clay tiles, a tin sheet or a thatch of grass.",
-       "b": "Good answers: any, with a catch. Clay tiles shed water and keep the house cool, but they are heavy. A tin sheet is light, but loud and hot. Thatch is cheap and cool, but needs mending every few years."
+       "b": "All three can be good, each with a catch. Clay tiles shed water and keep the house cool, but they are heavy. A tin sheet is light, but loud and hot. Thatch is cheap and cool, but needs mending every few years."
       },
       {
        "f": "3. Plates for a wedding feast for 500 people. Choose one: steel plates, banana leaves or paper plates with a plastic lining.",
@@ -605,7 +605,7 @@
       },
       {
        "f": "5. A bag for the market. Choose one: a jute bag, a thin plastic bag or a paper bag.",
-       "b": "Good answers: jute for a heavy load, used many times. The catch is cost at first. Plastic is cheap and holds when wet but may last for a very long time in the ground. Paper is weak when wet."
+       "b": "Good answer: a jute bag. It carries a heavy load and can be used many times. The catch is that it costs more at first. A plastic bag is cheap and holds when wet, but it may last for a very long time in the ground. A paper bag is weak when wet."
       },
       {
        "f": "6. A spoon for stirring a hot pan. Choose one: a wooden spoon, a steel spoon or a plastic spoon.",
@@ -633,7 +633,7 @@
       },
       {
        "f": "12. A water store for a summer in a village home. Choose one: a clay matka, a steel drum or a plastic tank.",
-       "b": "Good answer: a clay matka for drinking water, because water seeps through the clay and keeps the water cool. The catch is that it is heavy and cracks. A steel drum is long-lasting but warms. A plastic tank is light but the water gets warm."
+       "b": "Good answer: a clay matka for drinking water, because a little water seeps through the clay and keeps the rest cool. The catch is that it is heavy and can crack. A steel drum lasts long, but the water in it gets warm. A plastic tank is light, but the water in it gets warm too."
       },
       {
        "f": "13. A raincoat. Choose one: cotton, plastic-coated cloth or paper.",
@@ -665,7 +665,7 @@
       },
       {
        "f": "20. A drinking cup for a tea stall. Choose one: a clay kullad, a paper cup or a steel tumbler.",
-       "b": "All three can be good. A clay kullad is cheap, has no washing and crumbles back to clay, but it is heavy and breaks. A paper cup is light but is often lined with plastic. A steel tumbler lasts for years but must be washed."
+       "b": "All three can be good. A clay kullad is cheap, needs no washing and crumbles back to clay, but it is heavy and breaks. A paper cup is light but is often lined with plastic. A steel tumbler lasts for years but must be washed."
       }
      ]
     },
@@ -709,7 +709,7 @@
    "rules": [
     "Cut out the 20 cards. Shuffle them and put them in a pile, face down.",
     "The reader turns over the top card and reads the front aloud, including the job and all three materials.",
-    "Each player chooses one material, and holds up one, two or three fingers at the same time.",
+    "Each player chooses one material. Everyone shows their choice at the same time by holding up one, two or three fingers, for the first, second or third material on the card.",
     "Each player says the catch of the material they chose. The catch is what it is bad at.",
     "Turn the card over and read the back. A player who chose a good answer wins one token.",
     "A player who named a catch that is on the back, or a good true catch of their own, wins one more token.",
@@ -721,7 +721,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 20 cards. 2. Shuffle them and put them face down. 3. Put the tokens in a bowl. 4. Choose a first reader.",
-     "say": "Every card has a job and three materials. Nothing is perfect. We choose and name the catch.",
+     "say": "Every card has a job and three materials. No material is perfect. We each choose one material and say its catch, which is what it is bad at.",
      "kid": "Cut out the cards. Shuffle them. Put out the tokens.",
      "context": "This is the first step of Which Material, and What's the Catch?, a game about choosing materials for jobs.",
      "parent": "Works with one child and a parent, or 2 to 4 children. The reader changes after each card. The youngest player can read the first card with help."
@@ -742,7 +742,7 @@
        ]
       }
      ],
-     "parent": "If a child cannot name a catch, ask: what would a different place or person say?",
+     "parent": "If a child cannot name a catch, ask: would this material still be a good choice in a different place, or for a different person?",
      "context": "In this step, you practise with one card, to learn how to name a catch."
     },
     {
@@ -769,7 +769,7 @@
        "It is the best material"
       ],
       "a": 0,
-      "why": "Good and bad belong to the job and the place. A long-lasting material is a gain for a bridge and a problem for a bag used for ten minutes. Choosing 'worst' or 'best' usually means looking at only one side."
+      "why": "Whether a material is good or bad depends on the job and the place. A long-lasting material is a gain for a bridge and a problem for a bag used for ten minutes. Choosing 'worst' or 'best' usually means looking at only one side."
      },
      "context": "In this step, you play most of the cards. Notice that more than one material can be a good choice."
     },
@@ -784,7 +784,7 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask each player to think of one job at home that needs a new material choice. What would they choose and what is the catch?",
+     "do": "Ask each player to think of one job at home and choose a material for it. What would they choose, and what is the catch?",
      "say": "Think of a job at home. Which material would you choose? What is its catch?",
      "kid": "Pick a job at home. Name a material and its catch.",
      "context": "This is the last step of the game. You use what you learned on a real job at home."
@@ -830,11 +830,11 @@
       },
       {
        "f": "3. A glass bottle.",
-       "b": "Remade. Glass can be melted and made into new bottles with little loss. It also can be washed and refilled."
+       "b": "Remade. Glass can be melted and made into new bottles with little loss. It can also be washed and refilled."
       },
       {
        "f": "4. A sheet of newspaper.",
-       "b": "Both rots and remade. In damp soil it rots in weeks to months. It can also be pulped and made into paper a few times, getting weaker each time."
+       "b": "It can rot or be remade. In damp soil it rots in weeks to months. It can also be pulped and made into paper a few times, getting weaker each time."
       },
       {
        "f": "5. A thin plastic carry bag.",
@@ -858,7 +858,7 @@
       },
       {
        "f": "10. A plastic water bottle made of PET.",
-       "b": "Both remade and stays. In many places PET bottles are melted and made into new things. If nobody collects the bottle, it stays for hundreds of years, say experts, though no one has watched one finish."
+       "b": "It can be remade, or it stays. In many places PET bottles are melted and made into new things. If nobody collects the bottle, experts say it stays for hundreds of years. Nobody has watched one for long enough to see it break down fully."
       },
       {
        "f": "11. A clay kullad.",
@@ -953,7 +953,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Lay out the four mats. 2. Shuffle the 20 cards and put them face down. 3. Put the tokens in a bowl.",
-     "say": "Today we sort things by what happens to them after we finish with them. Four mats: rots, rusts, remade and stays.",
+     "say": "Today we sort things by what happens to them after we finish with them. There are four mats: rots, rusts, remade and stays.",
      "kid": "Put out the four mats. Shuffle the cards.",
      "context": "This is the first step of Where Does It Go?, a sorting game about the end of a thing's life."
     },
@@ -989,7 +989,7 @@
        "Rusts, because clay is a metal"
       ],
       "a": 0,
-      "why": "Fired clay does not rot or rust. It breaks into smaller clay pieces that join the soil. 'Stays' does not always mean harmful. Picking 'rots' usually means thinking natural means rotting."
+      "why": "Fired clay does not rot or rust. It breaks into smaller clay pieces that join the soil. 'Stays' does not always mean harmful. Picking 'rots' usually comes from thinking that anything natural rots."
      },
      "context": "In this step, you play most of the game and learn what happens to common things."
     },
@@ -1030,9 +1030,9 @@
      "what": "Test all eight bars across a gap with a hanging cup of water. Draw the chart and write what you found."
     }
    ],
-   "question": "A strip of paper bends easily. A dried bar of flour paste snaps easily. Is a bar of paper layers glued with paste stronger than either one alone, and what about paste with tiny fibres mixed in?",
+   "question": "A strip of paper bends easily. A dried bar of flour paste snaps easily. Is a bar of paper layers glued with paste stronger than either one alone? And is paste with tiny fibres mixed in stronger than plain paste?",
    "predict": "Before you start, guess. Which of the four bars will hold the most water in a hanging cup before it snaps or sags? Which will hold the least? Why do you think so?",
-   "fair_test": "All four kinds of bar are the same length and width. They use the same newspaper and the same paste. They dry in the same place for the same time. They rest across the same gap, and water is poured in at the same slow speed. The order of the bars is drawn from a bowl. Only the make-up of the bar changes. Two bars of each kind show how much each kind varies.",
+   "fair_test": "All four kinds of bar are the same length and width. They use the same newspaper and the same paste. They dry in the same place for the same time. They rest across the same gap, and water is poured in at the same slow speed. The order in which the bars are tested is picked by drawing chits from a bowl. Only what the bar is made of changes. Two bars of each kind show how much each kind varies.",
    "results_table": [
     "Bar",
     "What it is made of",
@@ -1084,7 +1084,7 @@
      "qty": 1
     }
    ],
-   "safety": "The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff the bar. Throw the bar away and make another. A grown-up should use the scissors. Wash your hands after the paste. Scissors are for the grown-up only. Keep a tray under the cup so the water does not wet the floor. Maida is wheat flour, so a child with a wheat allergy should not handle the dry flour or paste.",
+   "safety": "The paste is flour and water, but do not eat it or the bars. If a bar grows mould while drying, do not sniff it. Throw it away and make another. Only a grown-up should use the scissors. Wash your hands after touching the paste. Keep a tray under the cup so the water does not wet the floor. Maida is wheat flour, so a child with a wheat allergy should not handle the dry flour or the paste.",
    "record": "Write what each bar was made of. Write the water each bar held in millilitres and how it failed. Then draw a bar chart with one bar for each kind, using the bigger of the two results. Work out how many times stronger the layered bar was than the paste bar and than the paper stack.",
    "context": "In this experiment, you make four kinds of bar from newspaper and flour paste, dry them for two days, and test how much water each can hold. You find out whether two weak things together can be strong.",
    "setup": [
@@ -1113,7 +1113,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the paper, the paste and the tissue shreds. Ask for a guess and a reason for which bar will hold the most water, and which the least.",
+     "do": "Show your child the paper, the paste and the tissue shreds. Ask which bar they think will hold the most water and which the least, and why.",
      "say": "We will make four kinds of bar. One is paste. One is a stack of paper. One is paper glued with paste. One is paste with fibres. Which holds the most? Which holds the least? Why do you think so?",
      "kid": "Four bars. Which holds the most water? Which holds the least? Why?",
      "ask": [
@@ -1142,14 +1142,14 @@
      "do": "1. Mix 6 level tablespoons of flour with a pinch of salt in a bowl. 2. Add cold water a spoon at a time, until the paste is smooth and thick like curd. 3. Cut 16 newspaper strips (4 for each of bars B and C, two bars of each), each 4 centimetres wide and 20 centimetres long.",
      "say": "Make the paste smooth, with no lumps. It should be as thick as curd. The pinch of salt may help slow the mould.",
      "kid": "Mix flour and water into a paste. Cut the paper into strips.",
-     "parent": "Use cold paste. One batch makes the eight bars of one child. With 2 or more children, each child makes their own batch and their own A, B, C and D (one of each kind). The two children's bars together give the two bars of each kind, and a different child tests each bar than the one who made it. There is no need to cook it. Cut all the strips the same size with a ruler. Cutting strips with the grain, along the long side of the newspaper, gives stronger strips, but just keep them all the same direction.",
+     "parent": "Use the paste cold. There is no need to cook it. One batch makes all eight bars for one child. With 2 or more children, each child makes their own batch and one bar of each kind (A, B, C and D). Two children's bars together give the two bars of each kind. Each bar is tested by a different child from the one who made it. Cut all the strips the same size with a ruler. Strips cut with the grain, along the long side of the newspaper, are stronger. What matters most is that all the strips are cut in the same direction.",
      "adult": true,
      "context": "In this step, you make the paste and cut the paper."
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Bar A: spread a layer of paste about 3 millimetres thick, 20 centimetres by 4 centimetres, on a plastic sheet. Bar B: stack 4 dry strips of paper, and lay them next to the others. Bar C: brush paste on 4 strips, stack them and press flat. Bar D: stir a tablespoon of shreds into some paste, and spread it like bar A. Make two bars of each kind.",
+     "do": "Bar A: spread a layer of paste about 3 millimetres thick, 20 centimetres by 4 centimetres, on a plastic sheet. Bar B: stack 4 dry strips of paper, and lay them next to the others. Bar C: brush paste on 4 strips, stack them and press flat. Bar D: stir a tablespoon of tissue shreds into some paste, and spread it like bar A. Make two bars of each kind.",
      "say": "Bar A is plain paste. Bar B is four dry strips. Bar C is four strips glued with paste. Bar D is paste with shreds. Two of each.",
      "kid": "Make two of each bar. Label them A, B, C and D.",
      "parent": "Bar B is not glued. It is just a stack of paper, for comparison. Keep paste thickness the same in A and D. Press C flat with your palm and smooth out bubbles. Make the paste layers about 2 to 3 millimetres thick. A thicker layer cracks and curls as it dries. Label each bar with tape and a letter on the plastic sheet.",
@@ -1162,7 +1162,7 @@
        "To use up the paper"
       ],
       "a": 0,
-      "why": "One bar may have a hidden flaw. Two bars of a kind show how much the kind varies, and whether a difference between kinds is bigger than the variation. Picking 'one will break' misses the point."
+      "why": "One bar may have a hidden flaw. Two bars of the same kind show how much that kind varies. Then you can tell whether the difference between two kinds is bigger than that. Picking 'one will break' misses the point."
      },
      "adult": true,
      "context": "In this step, you build the bars. Each kind is made twice, so you can see how much one kind varies."
@@ -1179,12 +1179,12 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Day 3. 1. Stand the two piles of books 12 centimetres apart. 2. Peel the dry bars off the plastic. 3. Make a small loop of thread to hang the cup from. 4. Stand a ruler beside the gap to read the sag.",
+     "do": "Day 3. 1. Stand the two piles of books 12 centimetres apart. 2. Peel the dry bars off the plastic. 3. Make a small loop of thread to hang the cup from. 4. Stand a ruler beside the gap, to measure how far the middle of a bar sinks.",
      "say": "Today we test. The bar rests across the gap. A cup hangs from its middle. We pour water into the cup slowly.",
      "kid": "Set up the gap and the cup. Peel the bars off the plastic.",
      "ask": [
       {
-       "q": "Why does the order of testing come from a bowl?",
+       "q": "Why do we pick the order of testing by drawing chits from a bowl?",
        "good": [
         "So no bar always goes first.",
         "So the tester cannot favour a bar."
@@ -1197,7 +1197,7 @@
     {
      "id": "s6",
      "mins": 14,
-     "do": "Draw a chit for the first bar. Rest it across the gap. Hang the empty cup from its middle. Pour water into the cup from the jug, slowly and steadily. Stop when the bar snaps or the middle sinks 2 centimetres. Pour the water from the cup into a medicine cup and read the millilitres. Test all eight bars.",
+     "do": "Draw a chit from the bowl to pick the first bar. Rest that bar across the gap. Hang the empty cup from its middle. Pour water into the cup from the jug, slowly and steadily. Stop when the bar snaps or the middle sinks 2 centimetres. Pour the water from the cup into a medicine cup and read the millilitres. Test all eight bars in this way.",
      "say": "Rest the bar across the gap. Hang the cup. Pour slowly. Stop when the bar snaps or sinks two centimetres. Measure the water.",
      "kid": "Test one bar at a time. Pour slowly. Measure the water.",
      "parent": "The cup itself weighs a little, so the same cup is used each time. Pour at the same speed. Keep a tray under the cup. Bar B, the loose paper stack, usually sags with only a few millilitres, and that is a good result. Bar C may hold more than a cup of water. If the cup is full and the bar has not failed, empty the cup into the measuring cup, write it down, refill and carry on, then add the totals. Roles for 2 to 4 children: one pours, one watches the ruler and says stop, one reads the millilitres, one writes. Swap roles for each bar.",
@@ -1278,7 +1278,7 @@
    "results_table": [
     "Scrap",
     "Guess",
-    "Looked like on day 7 (through the cup)",
+    "What it looked like on day 7 (through the cup)",
     "Score on day 14, from 0 for unchanged to 4 for gone",
     "How easily it tore on day 14, compared with the spare piece"
    ],
@@ -1339,7 +1339,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the six scraps. Ask for a guess and a reason for each: rots, changes a little, or stays the same.",
+     "do": "Show your child the six scraps. For each scrap, ask whether it will rot, change a little or stay the same, and why.",
      "say": "Here are six scraps. We will bury them in damp soil. Which will rot? Which will stay the same? Why do you think so?",
      "kid": "Six scraps. Which will rot? Which will stay the same? Why?",
      "ask": [
@@ -1360,7 +1360,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Write each guess in the table. Some children think that anything from a plant rots at the same speed. We will see.",
+     "parent": "Do not correct the guesses. Write each guess in the table. Some children think that anything from a plant rots at the same speed. The test will show whether that is true.",
      "context": "This is the first step of the Burial Test. You guess before you bury."
     },
     {
@@ -1388,7 +1388,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Every three days, touch the soil. It should feel like a squeezed-out sponge. If it feels dry, sprinkle one or two spoons of water on the cup. If it feels wet or sticky, add no water and leave the cover off for a day. In hot dry weather you may need water more often. In the monsoon, you need less. Write the date on the label.",
-     "say": "Every three days, add one spoon of water to each cup. Keep the soil damp, not wet.",
+     "say": "Every three days, touch the soil. If it feels dry, add a spoon or two of water. Keep the soil damp, not wet.",
      "kid": "Check the soil every three days. Add a little water if it is dry.",
      "context": "In this step, you keep the soil damp. Damp soil is where bacteria and fungi do their work."
     },
@@ -1415,7 +1415,7 @@
        ]
       }
      ],
-     "parent": "By day 7, the banana peel is usually brown and soft, and may have white or grey mould. The paper may be darker and soft. The rest usually look the same. If you see mould, that is normal. Do not open the cups and do not sniff them. Which scraps changed first may differ in your home, as the weather changes the speed.",
+     "parent": "By day 7, the banana peel is usually brown and soft, and may have white or grey mould. The paper may be darker and soft. The rest usually look the same. If you see mould, that is normal. Do not open the cups and do not sniff them. Different scraps may change first in your home, because the weather changes how fast things rot.",
      "context": "In this step, you look at the scraps halfway. Do not touch them yet."
     },
     {
@@ -1539,8 +1539,8 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Lift each cup and score its weight from 1 to 5. A light cup scores 5. 2. A grown-up pours about 100 millilitres of hot drinking-temperature water into each cup, one at a time. 3. Touch the outside and then hold it for 20 seconds, only if it is comfortable. Let go if it feels too hot. Score how comfortable it is from 1 to 5. 4. Pour the water out. Fill each cup with cold water and leave it on a napkin for 10 minutes. Score leaks from 1 to 5.",
-     "say": "Lift each cup and score it. Then warm water. Hold the outside. Score it. Then cold water on a napkin for ten minutes. Score leaks.",
+     "do": "1. Lift each cup and score its weight from 1 to 5. A light cup scores 5. 2. A grown-up pours about 100 millilitres of hot water into each cup, one at a time. The water must be cool enough to sip. 3. Touch the outside of the cup. If it is comfortable, hold it for 20 seconds. Let go if it feels too hot. Score how comfortable it is from 1 to 5. 4. Pour the water out. Fill each cup with cold water and leave it on a napkin for 10 minutes. Score leaks from 1 to 5.",
+     "say": "Lift each cup and score its weight. Then a grown-up pours in warm water. Hold the outside of the cup and score how comfortable it is. Then fill each cup with cold water, leave it on a napkin for ten minutes, and score leaks.",
      "kid": "Lift each cup. Hold the warm cup. Check the leaks.",
      "parent": "Use water you could sip, never boiling water. Tap water that is only warm feels the same in every cup, so use hot water from a flask. The steel cup and the glass cup will usually feel hottest. A coated paper cup often does not leak at all, while an unglazed clay cup may sweat on the outside. If nothing leaks, give all cups a 5. That is a real result. Handle the glass cup with care. With 2 to 4 children, each child scores alone first, then compare. If scores differ, discuss why. Roles: one pours (a grown-up), one times, one writes. Write the scores down as you go.",
      "adult": true,
@@ -1550,7 +1550,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Ask a grown-up what each cup cost and how long it lasts in years. Divide the price by the years to get the cost for each year. Score the lowest cost 5 and the highest cost 1. Then ask what happens to each cup after use. Score the cups that rot or can be remade higher.",
-     "say": "Ask the price and how many years each cup lasts. Divide price by years. Cheapest for each year scores 5.",
+     "say": "Ask the price and how many years each cup lasts. Divide the price by the years. The cup that costs least for each year scores 5.",
      "kid": "Ask the price and the years. Divide price by years.",
      "check": {
       "t": "mcq",
@@ -1568,8 +1568,8 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Make the matrix. Job 1 is a cup for a school bag. Give weights: light 3, does not leak 3, cost 2, comfort 1 and after 1. Multiply each score by its weight. Add up the totals for each cup.",
-     "say": "Job one is a school bag cup. Weight the needs. Multiply each score by its weight. Add up each row.",
+     "do": "Make the matrix. Job 1 is a cup for a school bag. Give weights: light 3, does not leak 3, cost 2, comfort 1 and what happens after 1. Multiply each score by its weight. Add up the totals for each cup.",
+     "say": "Job one is a school bag cup. Give each need a weight. Multiply each score by its weight. Add up each row.",
      "kid": "Make the matrix for a school bag cup. Add up the totals.",
      "parent": "Walk through one row together before they do the rest. Check the multiplication. If two cups tie, discuss which need would break the tie.",
      "context": "In this step, you build the decision matrix for the first job."
@@ -1577,7 +1577,7 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Job 2 is a cup for a hot day at a tea stall, used 200 times a day. Change the weights: cost has weight 3, comfort has weight 3, after has weight 2, light has weight 1. Work out the new totals. Did the best cup change?",
+     "do": "Job 2 is a cup for a hot day at a tea stall, used 200 times a day. Change the weights: cost has weight 3, comfort has weight 3, what happens after has weight 2, light has weight 1. Work out the new totals. Did the best cup change?",
      "say": "Job two is a tea stall. Change the weights. Work out the new totals. Did the winner change?",
      "kid": "Change the weights for the tea stall. Did the winner change?",
      "ask": [
@@ -1589,7 +1589,7 @@
        ]
       }
      ],
-     "parent": "With 2 to 4 children, each child does one job's matrix, then swap and check each other's sums. Good discussion: the scores are your judgement, not facts. Two families could disagree. Ask: what would make you change a score?",
+     "parent": "With 2 to 4 children, each child does one job's matrix, then they swap and check each other's sums. A good point to discuss: the scores are your judgement, not facts. Two families could disagree. Ask: what would make you change a score?",
      "context": "In this step, you score the same cups for a second job. The winner may change."
     }
    ]
@@ -1681,7 +1681,7 @@
        ]
       }
      ],
-     "parent": "There is no single right answer. For a steel katori, making uses a lot of energy, but a katori lasts for decades. For a plastic bag, use is a few minutes and the after lasts very long.",
+     "parent": "There is no single right answer. For a steel katori, making uses a lot of energy, but a katori lasts for decades. A plastic bag is used for a few minutes, and then stays as waste for a very long time.",
      "context": "In this step, you think about the cost of each stage."
     },
     {
@@ -1692,14 +1692,14 @@
      "kid": "Write three questions you cannot answer yet.",
      "check": {
       "t": "mcq",
-      "q": "A good question about an object's whole life is:",
+      "q": "Which is a good question about an object's whole life?",
       "options": [
        "How much energy does it take to make, and how many times can it be used?",
        "What colour is it?",
        "Is it nice?"
       ],
       "a": 0,
-      "why": "A good question about a whole life is one that can be measured or looked up, and it covers a stage of the life. Colour and taste are about the object, not its life."
+      "why": "A good question about a whole life is one that can be measured or looked up, and it covers a stage of the life. The colour of an object, and whether it is nice, are about the object, not its life."
      },
      "context": "In this step, you write the open questions. Knowing what we do not know is part of the science."
     }
@@ -1750,7 +1750,7 @@
      "do": "Ask your child to write five questions for an older person. Suggestions: what did you drink from, eat from, carry shopping in, write on and wrap things in when you were young?",
      "say": "Write five questions for a grandparent about the things they used when they were young. What did they drink from? What did they carry things in?",
      "kid": "Write five questions for an older person.",
-     "parent": "With 2 to 4 children, each child writes the questions, then take turns to ask on a call, or interview a different person each and share. Choose someone your child feels easy with. Phone calls are fine.",
+     "parent": "With 2 to 4 children, each child writes their own questions. Then they take turns to ask them on one call, or each child interviews a different person and they share what they heard. Choose someone your child feels easy with. Phone calls are fine.",
      "context": "This is the first step of Ask a Grandparent. You prepare your questions."
     },
     {
@@ -1780,7 +1780,7 @@
      "kid": "Fill in the table. Compare old and new.",
      "check": {
       "t": "mcq",
-      "q": "An older person says banana leaf plates were used because they cost nothing and rotted afterwards. Which words describe those choices?",
+      "q": "An older person says banana leaf plates were used because they cost nothing and rotted afterwards. Which words describe the leaf plates?",
       "options": [
        "The leaf was cheap, light, and biodegradable",
        "The leaf was strong and lasted for years",
@@ -1789,7 +1789,7 @@
       "a": 0,
       "why": "A leaf plate costs little, is light and rots after use. It does not last for years, and it is not made in a factory. Choosing 'lasted for years' mixes up leaf plates with steel plates."
      },
-     "context": "In this step, you compare old and new choices with a fair eye."
+     "context": "In this step, you compare old and new choices fairly."
     }
    ]
   },
@@ -1828,7 +1828,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Cut 1 centimetre into each strip. Mend them in three ways, leave one unmended, then load each strip with water until it tears. Compare."
+     "what": "Cut a slit 1 centimetre long in each of four paper strips. Mend three of them in three ways and leave one unmended. Then load each strip with water until it tears. Compare."
     }
    ],
    "record": "A table with four rows: unmended, tape, paste patch and stitched. For each, the water in millilitres that the strip held before it tore (one millilitre weighs about one gram). A note on which mend was strongest and which was easiest.",
@@ -1866,7 +1866,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Cut a slit 1 centimetre long, halfway across the edge of 4 strips (each strip is 2 centimetres wide). 2. Leave one strip unmended. 3. Put a strip of tape over the slit on the second strip. 4. Stick a paste patch on the third. 5. Sew three stitches across the slit on the fourth strip. Let the paste patch dry for 10 minutes.",
+     "do": "1. Take 4 strips, each 2 centimetres wide. In the edge of each strip, cut a slit 1 centimetre long, which is halfway across. 2. Leave one strip unmended. 3. Put a strip of tape over the slit on the second strip. 4. Stick a paste patch over the slit on the third. 5. Sew three stitches across the slit on the fourth strip. Let the paste patch dry for 10 minutes.",
      "say": "Cut a slit in each strip. Leave one alone. Mend one with tape, one with a paste patch and one with stitches. Wait ten minutes for the paste to dry.",
      "kid": "Cut slits. Mend three strips three ways. Leave one.",
      "parent": "A slit is a small crack. A mend can spread the load round it. Use the same size of tape, patch and number of stitches for each. Keep the mended area the same size.",
@@ -1880,7 +1880,7 @@
      "say": "Hang each strip. Pour water slowly into the bucket. Stop when it tears. Measure the water.",
      "kid": "Hang a strip. Pour water slowly. Measure the water when it tears.",
      "parent": "Pour at the same speed each time, and keep feet clear: the bucket will drop. Newspaper is stronger than it looks; a strip this size typically holds a kilogram or more, so use a bucket and be ready to pour for a while. If the strip tears at the tape and not at the slit, write that down: the mend was stronger than the paper. If every strip holds too much, make the slit longer, up to 1.5 centimetres. Do two strips of each kind if you have time. The unmended strip with a slit is your base number to beat. With 2 to 4 children, one pours, one watches the strip, one measures and one writes; swap for each strip.",
-     "context": "In this step, you test each mend. Add coins gently, one at a time."
+     "context": "In this step, you test each mend. Pour the water slowly."
     },
     {
      "id": "s4",
@@ -2121,12 +2121,12 @@
     {
      "id": "s5",
      "mins": 16,
-     "do": "Day 3. Peel off the dry sheet. Cut a strip 2 centimetres wide. Cut a strip of the same size from the old newspaper. Fold the top end of each strip over a pencil and tape it. Hang it from the backs of two chairs and tie the bucket to the bottom end the same way. Pour water slowly into the bucket until the strip tears. Measure the water. Compare. Look at the torn edges.",
+     "do": "Day 3. Peel off the dry sheet. Cut a strip 2 centimetres wide. Cut a strip of the same size from the old newspaper. Test one strip at a time. Fold the top end of the strip over a pencil and tape it down. Fold the bottom end over a second pencil in the same way, and tie a string from that pencil to the bucket. Rest the top pencil across the backs of two chairs. Pour water slowly into the bucket until the strip tears. Measure the water. Compare the two strips. Look at the torn edges.",
      "say": "Cut a strip of new paper and a strip of old paper, both the same width. Pour water slowly into a bucket until each tears. Which held more?",
      "kid": "Test a strip of new paper and a strip of old. Compare.",
      "ask": [
       {
-       "q": "Which strip held more coins? Why do you think so?",
+       "q": "Which strip held more water before it tore? Why do you think so?",
        "good": [
         "The old paper, because the fibres are longer.",
         "The new paper, because it is thicker."
@@ -2170,7 +2170,7 @@
     "a paper napkin, a plate and a clock"
    ],
    "general": [
-    "Fold a large leaf like a leaf cup, and pin the corners with toothpicks.",
+    "Fold a large leaf into the shape of a cup, and pin the corners with toothpicks.",
     "Use two leaves, one on top of the other, with the veins at right angles to each other.",
     "Press the folds sharply so water cannot run along them."
    ],
@@ -2247,7 +2247,7 @@
        "The steel bowl rots"
       ],
       "a": 0,
-      "why": "Each choice gives up something. The leaf bowl gives up long life and gets rid of waste and washing. The steel bowl gives up that and gets many uses. Saying one is stronger or better in every way misses the trade-off."
+      "why": "Each choice gives up something. The leaf bowl cannot be used again, but it leaves no waste and needs no washing. The steel bowl must be washed, but it can be used for years. Saying one is stronger or better in every way misses the trade-off."
      },
      "context": "In this step, you compare your designs and look at the trade-off."
     }
@@ -2276,7 +2276,7 @@
     "Find one thing that could have been mended or reused."
    ],
    "creative": [
-    "Weigh the basket by lifting it, and draw how the pile might look after a week or a year.",
+    "Lift the basket to feel how heavy it is, and draw how the pile might look after a week or a year.",
     "Make a poster of what your family could do instead, with pictures.",
     "Find a use for one thing from the basket, such as a jar, a tin or a cloth."
    ],
@@ -2751,7 +2751,7 @@
      "t": "write",
      "p": "Give two reasons why the best roof for a house in Cherrapunji might not be the best roof for a house in the Thar desert.",
      "lines": 4,
-     "a": "In Cherrapunji, the roof has to shed very heavy rain, so it is sloped and does not rot in the damp. In the Thar desert, the roof has to keep out the midday heat, so it is thick and made of a material that heats slowly. The place changes which needs matter most.",
+     "a": "In Cherrapunji, the roof has to shed very heavy rain, so it must be sloped and must not rot in the damp. In the Thar desert, the roof has to keep out the midday heat, so it must be thick and made of a material that heats slowly. The place changes which needs matter most.",
      "why": "The same job can need different materials in different places, because the needs have different weights."
     },
     {
@@ -2772,7 +2772,7 @@
       ],
       [
        "A clay matka in a village home",
-       "Water seeps through and cools the water"
+       "Water seeps through the clay and cools the water inside"
       ],
       [
        "A steel bottle in a school bag",
@@ -3062,7 +3062,7 @@
     {
      "t": "draw",
      "p": "Draw the life of a plastic bottle in four boxes in a circle. Add a second arrow to show it being remade, and a third to show it staying in the ground.",
-     "a": "Source: oil or gas from the ground. Making: a factory. Use: a drink, a few days. After: three arrows, one to a recycling plant back to a new bottle, one to a landfill, and one to a river.",
+     "a": "Source: oil or gas from the ground. Making: a factory. Use: a drink, a few days. After: three arrows, one to a recycling plant and back to a new bottle, one to a landfill, and one to a river.",
      "why": "A life cycle can have different endings. The ending depends on who collects the bottle and what they do with it.",
      "art": "A circle of four boxes with a bottle, and three arrows leaving the last box to a recycling plant, a landfill and a river."
     },
@@ -3075,7 +3075,7 @@
     },
     {
      "t": "mcq",
-     "p": "A cup is sold as 'compostable', but it only breaks down in very hot industrial composters. What does a family without such a composter do?",
+     "p": "A cup is sold as 'compostable', but it only breaks down in very hot industrial composters. What happens to the cup in a family that has no such composter?",
      "opts": [
       "The cup may stay for a long time, so the claim does not help them",
       "The cup rots in their garden in a week",
@@ -3184,14 +3184,14 @@
     "Bronze is made colder"
    ],
    "a": 0,
-   "why": "Atoms of a different size jam the layers. This is how alloys are harder than pure metals.",
+   "why": "Atoms of a different size jam the layers. This is why alloys are harder than pure metals.",
    "outcome": 2
   },
   {
    "t": "mcq",
    "p": "Which stage is not part of the whole life of a steel katori?",
    "opts": [
-    "A stage where the katori turns into a living plant",
+    "Turning into a living plant",
     "Mining iron ore",
     "Making it in a factory",
     "Using it in the kitchen"
@@ -3325,7 +3325,7 @@
   "Planning a school's furniture to suit the local climate and budget.",
   "Working out the cost of a thing over its whole life when buying school shoes, bags and appliances.",
   "Setting up recycling for metals, glass and paper in towns.",
-  "Repairing and reusing, as in cobblers, tailors and tinkers who mend things."
+  "Repairing and reusing things, as cobblers, tailors and tinkers do when they mend them."
  ],
  "spotted": [
   {
@@ -3434,7 +3434,7 @@
   },
   {
    "j": "Why was the glass bottle the best at reusing?",
-   "a": "It could be refilled, not just refilled with water."
+   "a": "It kept coming back for a refill."
   },
   {
    "j": "Why did the clay kullad never complain?",
@@ -3454,7 +3454,7 @@
   {
    "problem": "In a decision matrix for a cup, the needs have weights: light 3, comfortable 1, does not leak 3, cost for each year 2 and what happens after 1. Steel scores 2, 3, 5, 4 and 4. Plastic scores 5, 4, 4, 3 and 1. Work out each total. Which wins? If the weight for what happens after goes up to 3, which wins now?",
    "answer": "Steel 36, plastic 38, so plastic wins. With after at weight 3, steel is 44 and plastic is 40, so steel wins.",
-   "explain": "Steel: 2 times 3 is 6, 3 times 1 is 3, 5 times 3 is 15, 4 times 2 is 8, 4 times 1 is 4. Add: 6, 9, 24, 32, 36. Plastic: 15, 4, 12, 6, 1, which adds to 38. If the last weight is 3, steel gains 8 more to make 44 and plastic gains 2 more to make 40. The winner flipped because what we care about changed.",
+   "explain": "Steel: 2 times 3 is 6, 3 times 1 is 3, 5 times 3 is 15, 4 times 2 is 8, 4 times 1 is 4. Adding them one at a time gives 6, 9, 24, 32 and then 36. Plastic: 15, 4, 12, 6 and 1, which add up to 38. If the last weight is 3, steel gains 8 more to make 44 and plastic gains 2 more to make 40. The winner changed because what we care about changed.",
    "math_unit": "math.multiplication.multiplication-facts.L4",
    "how": "a1",
    "context": "In the Score the Cup activity, you score four cups against five needs, multiply by weights and add the rows.",
@@ -3470,7 +3470,7 @@
    "why_maths": "A ratio says how many times stronger one bar is than another, which is a clearer way to see a composite's advantage than the two raw numbers."
   },
   {
-   "problem": "Making a new aluminium can from ore uses about 100 units of energy. Making one from old cans uses about 5 units, as reported. If you have 100 units of energy, how many cans can you make from old cans? How many from ore?",
+   "problem": "Reports say that making a new aluminium can from ore uses about 100 units of energy, and making one from old cans uses about 5 units. If you have 100 units of energy, how many cans can you make from old cans? How many from ore?",
    "answer": "20 cans from old cans, and 1 can from ore.",
    "explain": "100 divided by 5 is 20. 100 divided by 100 is 1. So the same energy makes 20 times as many cans when they are made from old cans. The numbers are rough, and they differ in different studies, but the saving is big.",
    "math_unit": "math.division.division-facts.L4",
@@ -3520,7 +3520,7 @@
    "why_maths": "A steady growth each year is a pattern you can add up, which shows how a slow material becomes strong over time."
   },
   {
-   "problem": "A sample of bone is made of about two-thirds hard mineral and one-third soft protein, in this made-up example. A sample weighs 300 grams. How many grams are mineral? How many are protein?",
+   "problem": "In this made-up example, bone is about two-thirds hard mineral and one-third soft protein. A piece of bone weighs 300 grams. How many grams are mineral? How many are protein?",
    "answer": "200 grams of mineral and 100 grams of protein.",
    "explain": "One third of 300 is 100. Two thirds is 2 times 100, which is 200. So 200 grams are mineral and 100 grams are protein. The two add up to 300.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -3639,7 +3639,7 @@
   },
   {
    "q": "What does cost per use tell you?",
-   "a": "The price divided by the number of uses, a fairer way to compare."
+   "a": "What each use costs: the price divided by the number of uses. It is a fairer way to compare than price alone."
   },
   {
    "q": "What is the order of the four steps for less waste?",
@@ -3703,23 +3703,23 @@
   ]
  },
  "roots": {
-  "context": "We have made bars from paper and paste, scored cups and followed things from the ground to the bin. Now we ask what these tell us about the stuff we are made of.",
+  "context": "In this unit you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.",
   "deep_truth": {
-   "truth": "A bar of paper bends and never breaks. A bar of dried paste snaps. Glue four layers of paper with that paste and the bar holds many times more than either. The strength is in how the parts are joined.",
-   "habit": "We name what a thing is made of, 'it is paper' or 'it is paste', and think that tells us what it can do. That leaves out how the parts are put together, and one list of ingredients can give two very different things.",
+   "truth": "A strip of paper bends easily. A bar of dried paste snaps. Glue four layers of paper together with that paste, and the bar holds many times more than either one alone. The strength comes from how the parts are joined.",
+   "habit": "We name what a thing is made of, 'it is paper' or 'it is paste', and think that tells us what it can do. But this leaves out how the parts are put together. The same ingredients, put together in two ways, can give two very different things.",
    "evidence": "In the Paper and Paste experiment, the plain paste bar and the loose paper stack each failed early. The paper glued with paste held far more. Your own numbers may be different, and you should write them just as they are."
   },
   "three": {
    "who_am_i": "Your bones are a composite of a hard mineral and a soft protein. The mineral alone would be brittle like chalk, and the protein alone would be bendy like rubber. Your bones work because the two are joined.",
-   "what_is_life": "Where two fig roots touch, they can join and grow into one thicker root. A living bridge is mended by the same roots that make it, and not by anything brought in from outside.",
+   "what_is_life": "Where two fig roots touch, they can join and grow into one thicker root. A living root bridge is mended by the same roots that make it, and not by anything brought in from outside.",
    "what_is_this_world": "Mud with straw, steel in concrete, copper with tin: the world's most useful things are mixtures. What each mixture can do depends on how the parts are put together, as well as on the parts."
   },
-  "thread": "Every question in this unit came back to joining. Paper and paste, straw and mud, copper and tin, and a root and a tree are each more than their ingredients. The way parts are joined, the place a thing is used and the years it lasts decide what it is good for. A thing is not only what it is made of. It is also what it is made with, where it is, and what becomes of it. Choosing a material is therefore not looking up a number in a table. It is looking at the whole picture.",
+  "thread": "Every question in this unit came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6, an Indian text more than 2,500 years old",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay, since the different shapes are only names and the clay is the same. He says the same of gold and of iron.",
-    "link": "A pot, a cup and a kullad are different shapes of one clay. Choosing a material means choosing the stuff, but what we make from it, and how, decides its use."
+    "link": "A pot, a cup and a kullad are different shapes of one clay. When we choose a material, we choose the stuff. But what we make from it, and how we make it, decides what it is used for."
    },
    {
     "source": "Kabir, a poet-saint of the 15th century, in a well-known doha",
@@ -3738,17 +3738,17 @@
     "status": "settled"
    },
    {
-    "text": "Why the Iron Pillar of Delhi has hardly rusted is explained by several ideas, including the iron's phosphorus, the dry climate and its history of care, and scientists still debate how much each matters.",
+    "text": "There are several ideas about why the Iron Pillar of Delhi has hardly rusted, including the phosphorus in the iron, the dry climate and its history of care. Scientists still debate how much each one matters.",
     "status": "debated"
    },
    {
-    "text": "Whether we can make strong materials that also rot or can be remade easily everywhere, at low cost, is not yet known.",
+    "text": "Nobody knows yet whether we can make strong, low-cost materials that also rot, or can be remade easily, anywhere.",
     "status": "open"
    }
   ],
   "other_view": {
    "who": "Many materials engineers",
-   "view": "A composite's strength can be worked out from the strengths of the parts and the way they share the load, using a rule. So nothing new appears when parts are joined. The strength was already there in the numbers for the fibre and the matrix, and the maths just adds it up. They would say the new property is not a mystery, but a result you can calculate."
+   "view": "Many materials engineers say that a composite's strength can be worked out with a rule, from the strengths of the parts and the way they share the load. So nothing new appears when the parts are joined. The strength was already there in the numbers for the fibre and the matrix, and the maths just adds it up. To them, the strength of a composite is not a mystery, but a result you can calculate."
   },
   "practice": {
    "title": "Braid and pull",

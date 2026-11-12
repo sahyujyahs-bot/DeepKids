@@ -3,7 +3,7 @@
  "title": "Properties of materials: why the same paper tears straight one way and crooked the other",
  "level": 4,
  "summary": {
-  "text": "Tear a sheet of newspaper from top to bottom and the tear runs straight. Tear it from side to side and the tear wanders. It is the same paper, so why does the way you pull matter? Your child finds the hidden direction in paper, cardboard and cloth with three tests. Then they bend a paper clip until it snaps, to see that a metal can wear out. Along the way they learn why wood and bamboo split along their length. They learn why a tailor cuts cloth on the slant, and why plywood is made of crossed layers. They also find out why a folded sheet of paper can carry more than a flat one. The unit ends with what nobody can yet predict: a material's properties from its atoms alone.",
+  "text": "Tear a sheet of newspaper from top to bottom and the tear runs straight. Tear it from side to side and the tear wanders. It is the same paper, so why does the way you pull matter? Your child finds the hidden direction in paper, cardboard and cloth with three tests. Then they bend a paper clip until it snaps, to see that a metal can wear out. Along the way they learn why wood and bamboo split along their length. They learn why a tailor cuts cloth on the slant, and why plywood is made of crossed layers. They also find out why a folded sheet of paper can carry more than a flat one. The unit ends with a question nobody can yet answer: can we work out a material's properties from its atoms alone?",
   "art": "A sheet of newspaper torn in two ways on a kitchen table, one tear running straight and neat, the other crooked and ragged, with a paper clip snapped in two beside it."
  },
  "intro": {
@@ -15,7 +15,7 @@
   "I can explain that some materials have a direction, which is called a grain, and name at least three of them.",
   "I can run a test that shows the same material behaving differently along its grain and across it.",
   "I can explain that the direction comes from how fibres, cells or threads lie inside the material.",
-  "I can tell a property of a material from a property of an object, and show that shape can make a thing stiffer without changing the material.",
+  "I can tell the difference between a property of a material and a property of an object, and show that shape can make a thing stiffer without changing the material.",
   "I can explain how crossed layers, as in plywood and cardboard, cancel out a material's direction.",
   "I can explain that stiff, strong and tough are three different properties, and give an example of each.",
   "I can predict that a wire bent back and forth will snap, and explain that a property can wear out with use.",
@@ -103,7 +103,7 @@
   },
   {
    "term": "Stress",
-   "meaning": "How hard a material is being pulled, pushed or bent, shared across the area it acts on. The same weight on a thin string is a bigger stress than on a thick rope.",
+   "meaning": "The force on a material, shared out over the area that carries it. The same weight on a thin string is a bigger stress than on a thick rope.",
    "example": "A heavy bag hung from a thin string puts more stress on the string than the same bag on a thick rope.",
    "art": "A thin string and a thick rope each holding the same bag, with the thin string drawn stretched."
   },
@@ -137,7 +137,7 @@
    "concept": "A property can have a direction",
    "status": "defined",
    "definition": "A material is anisotropic when a property, such as strength or stiffness, is different in different directions. It is isotropic when the property is the same in every direction.",
-   "description": "In the first unit on properties, you saw that a property tells you what a material is like, such as hard, flexible or waterproof. Now look closer. Pull a strip of newspaper from top to bottom and it tears straight. Pull it from side to side and it tears crookedly. The property is not only in the material. It also depends on which way the force acts. So when someone says 'wood is strong', a careful scientist asks 'strong in which direction?' Many materials are the same in every direction. Glass, steel balls and still water are close to this. But many natural materials, and many made ones, have a direction built in. Knowing the direction lets you use the material well. You split wood along the grain, you hang cloth from its threads and you fold a card along its grain.",
+   "description": "A property tells you what a material is like, such as hard, flexible or waterproof. Now look closer. Pull a strip of newspaper from top to bottom and it tears straight. Pull it from side to side and it tears crookedly. The property is not only in the material. It also depends on which way the force acts. So when someone says 'wood is strong', a careful scientist asks 'strong in which direction?' Many materials are the same in every direction. Glass, steel balls and still water are close to this. But many natural materials, and many made ones, have a direction built in. Knowing the direction lets you use the material well. You split wood along the grain, you hang cloth from its threads and you fold a card along its grain.",
    "examples": [
     "Wood is many times stronger to pull along the grain than across it.",
     "A sheet of paper tears straight along its grain and crookedly across it.",
@@ -150,7 +150,7 @@
    "concept": "Paper has a grain, and where it comes from",
    "status": "defined",
    "definition": "Paper grain is the direction in which most of the paper's fibres lie. It is set when the paper is made.",
-   "description": "Paper is a thin mat of plant fibres. Each fibre is a tiny strand, a fraction of a millimetre wide and a few millimetres long. In a paper mill, a watery mix of fibres is poured onto a fast-moving belt. As the water drains away, the long fibres tend to line up in the direction the belt is moving. That direction is the grain of the paper. Along the grain, a tear has to cut through the gaps between the lines of fibres, so it runs straight. Across the grain, a tear must break fibres and slip between them, so it wanders. Paper is also stiffer along the grain. And when paper gets wet, the fibres swell mostly in width, not in length, so a wet sheet curls and grows more across the grain than along it.",
+   "description": "Paper is a thin mat of plant fibres. Each fibre is a tiny strand, a fraction of a millimetre wide and a few millimetres long. In a paper mill, a watery mix of fibres is poured onto a fast-moving belt. As the water drains away, the long fibres tend to line up in the direction the belt is moving. That direction is the grain of the paper. Along the grain, a tear can run through the gaps between the lines of fibres, so it runs straight. Across the grain, a tear must break fibres and slip between them, so it wanders. Paper is also stiffer along the grain. And when paper gets wet, the fibres swell mostly in width, not in length, so a wet sheet curls and grows more across the grain than along it.",
    "examples": [
     "A newspaper tears straight along its columns because that is usually the grain direction.",
     "A sheet of card folds more cleanly when the fold runs along the grain.",
@@ -163,7 +163,7 @@
    "concept": "Wood: bundles of long tubes",
    "status": "defined",
    "definition": "Wood is made of long, thin cells lying side by side along the trunk. Their walls are strong fibres of cellulose, held together by a glue called lignin.",
-   "description": "Cut a tree trunk across and look closely. You see rings and tiny holes. Each hole is the end of a long, narrow cell. These cells run up and down the tree, like a bundle of drinking straws. They carry water up from the roots and hold the tree upright. Their walls are tough, so pulling a plank along the grain pulls on the walls themselves. But the glue that holds the cells side by side is weaker, so a force across the grain can slip them apart, and the wood splits. That is why a carpenter or a woodcutter splits logs along the grain with a wedge. It is also why a plank with the grain running across a short shelf can snap, while the same plank turned the right way holds many books. In a living tree, the same cells carry water up from the roots. So the wood that holds a tree upright is also their plumbing.",
+   "description": "Cut a tree trunk across and look closely. You see rings and tiny holes. Each hole is the end of a long, narrow cell. These cells run up and down the tree, like a bundle of drinking straws. They carry water up from the roots and hold the tree upright. Their walls are tough, so pulling a plank along the grain pulls on the walls themselves. But the glue that holds the cells side by side is weaker, so a force across the grain can slip them apart, and the wood splits. That is why a carpenter or a woodcutter splits logs along the grain with a wedge. It is also why a plank with the grain running across a short shelf can snap, while the same plank turned the right way holds many books. So the wood that holds a tree upright is also the pipework that carries her water.",
    "examples": [
     "A woodcutter splits a log with one wedge, because the wood opens along its grain.",
     "A wooden ruler snaps easily if you bend it across a knot, where the grain turns.",
@@ -176,7 +176,7 @@
    "concept": "Bamboo: a grass that is stronger than it looks",
    "status": "defined",
    "definition": "Bamboo is a giant grass with a hollow stem. Its strong fibres run along its length, so it splits easily lengthwise and is hard to snap across when it is whole.",
-   "description": "Bamboo is not a tree. The grass family is where bamboo belongs, with rice and sugarcane. Its stem is a hollow tube, divided by solid rings called nodes. The wall of the tube is packed with strong fibres that run along the length of the stem. This makes bamboo strong to pull and to bend, and light for its size. It also means that bamboo splits easily along its length, because there are no fibres holding the sides together. Basket makers in Assam and Kerala use this on purpose. They split a stem into thin strips with a knife, then weave the strips into baskets, mats and hats. Some kinds of bamboo grow very fast, up to about 90 centimetres in a day in the best conditions, so bamboo is also a material that can be harvested again and again.",
+   "description": "Bamboo is not a tree. It belongs to the grass family, with rice and sugarcane. Its stem is a hollow tube, divided by solid rings called nodes. The wall of the tube is packed with strong fibres that run along the length of the stem. This makes bamboo strong to pull and to bend, and light for its size. It also means that bamboo splits easily along its length, because there are no fibres holding the sides together. Basket makers in Assam and Kerala use this on purpose. They split a stem into thin strips with a knife, then weave the strips into baskets, mats and hats. Some kinds of bamboo grow very fast, up to about 90 centimetres in a day in the best conditions, so bamboo is also a material that can be harvested again and again.",
    "examples": [
     "Basket makers split bamboo into long strips, because the strips come off cleanly along the fibres.",
     "A bamboo scaffold on a building site holds workers because the whole tube is stiff.",
@@ -189,7 +189,7 @@
    "concept": "Cloth: threads, the weave and the slant",
    "status": "defined",
    "definition": "Woven cloth is made of two sets of threads crossing at right angles. It is stiff along the threads and stretches most on the bias, which is the diagonal.",
-   "description": "A woven cloth, such as cotton, has warp threads running one way and weft threads running the other. Each thread is strong and does not stretch much. So if you pull the cloth along either set of threads, you are pulling on the threads, and the cloth hardly stretches. But if you pull on the diagonal, the threads do not stretch. Instead the squares between them squeeze into long thin diamonds. The cloth gets longer in one way and thinner in the other. This is why tailors say 'cut on the bias' when they want cloth to stretch round a curve, such as a neckline or a sleeve edge. In the 1920s, a French dress designer named Madeleine Vionnet became famous for cutting whole dresses on the bias so that they hung and moved softly along the body. Knitted cloth, such as a T-shirt, works differently. Its threads are looped, and loops can open, so it stretches in all directions.",
+   "description": "A woven cloth, such as cotton, has warp threads running one way and weft threads running the other. Each thread is strong and does not stretch much. So if you pull the cloth along either set of threads, you are pulling on the threads, and the cloth hardly stretches. But if you pull on the diagonal, the threads do not stretch. Instead the squares between them squeeze into long thin diamonds. The cloth gets longer one way and narrower the other. This is why tailors say 'cut on the bias' when they want cloth to stretch round a curve, such as a neckline or a sleeve edge. In the 1920s, a French dress designer named Madeleine Vionnet became famous for cutting whole dresses on the bias so that they hung and moved softly along the body. Knitted cloth, such as a T-shirt, works differently. Its threads are looped, and loops can open, so it stretches in all directions.",
    "examples": [
     "A strip of cotton cut on the bias bends smoothly round a curve, and the same strip cut along the threads does not.",
     "A woven dupatta stretches little along its length but pulls into a diamond shape if you tug a corner.",
@@ -215,7 +215,7 @@
    "concept": "Shape makes a stiffer thing: material and object are different",
    "status": "defined",
    "definition": "A property of a material is the same whatever the shape. A property of an object depends on the shape too. The same material can make a floppy object or a stiff one.",
-   "description": "A flat sheet of paper laid across a gap sags and falls. Fold the same sheet into a zigzag, or roll it into a tube, and it can carry a pile of coins. The paper has not changed. Only the shape has. A thin sheet bends easily because its two surfaces are close together. Fold it, and some of the paper lies far from the middle. Stretching and squashing happen at the edges of a bend, so material far from the middle does most of the work. This is why a bicycle frame is made of tubes and a steel girder has an I-shape, with thick flanges top and bottom. Thickness matters hugely. If you double the thickness of a plank, it becomes about eight times harder to bend. That is why a thick plank does not sag under your weight, and a thin one of the same wood does.",
+   "description": "A flat sheet of paper laid across a gap sags and falls. Fold the same sheet into a zigzag, or roll it into a tube, and it can carry a pile of coins. The paper has not changed. Only the shape has. When a thing bends, the stretching and squashing happen at its outer surfaces, far from the middle. So material far from the middle does most of the work against a bend. A thin flat sheet bends easily because its two surfaces are close together. Fold it, and some of the paper lies far from the middle. This is why a bicycle frame is made of tubes and a steel girder has an I-shape, with thick flanges top and bottom. Thickness matters hugely. If you double the thickness of a plank, it becomes about eight times harder to bend. That is why a thick plank does not sag under your weight, and a thin one of the same wood does.",
    "examples": [
     "A folded paper bridge holds many coins, and a flat sheet holds almost none.",
     "A bamboo tube is far stiffer than a solid stick of the same weight.",
@@ -241,7 +241,7 @@
    "concept": "Fatigue: a property can wear out with use",
    "status": "defined",
    "definition": "Fatigue is damage that builds up in a material when it is loaded again and again. After enough repeats, it breaks at a force far below the force that would break it once.",
-   "description": "Bend a paper clip once and nothing happens. Bend it back and forth, and after ten or twenty bends it snaps. The force on each bend was the same, so why did it break? Inside a metal are tiny crystals. Each bend pushes layers of atoms inside the crystals to slide over each other by a tiny amount, and tiny cracks begin at the places where this happens most. Each bend lengthens the crack a little, until the wire is too thin to hold and snaps. Feel the bent place: it is warm, because the bending itself makes heat. In the 1850s and 1860s, a German railway engineer named August Wöhler showed that train axles broke after millions of turns under loads far smaller than their breaking strength. Fatigue is why machine parts are checked and replaced, and why aircraft windows have rounded corners. A sharp corner makes the stress bigger, so a crack starts there first.",
+   "description": "Bend a paper clip once and nothing happens. Bend it back and forth, and after ten or twenty bends it snaps. The force on each bend was the same, so why did it break? Inside a metal are tiny crystals. Each bend makes layers of atoms inside the crystals slide over each other by a tiny amount, and tiny cracks begin at the places where this happens most. Each bend lengthens the crack a little, until the metal that is left is too thin to hold, and the wire snaps. Feel the bent place: it is warm, because the bending itself makes heat. In the 1850s and 1860s, a German railway engineer named August Wöhler showed that train axles broke after millions of turns under loads far smaller than their breaking strength. Fatigue is why machine parts are checked and replaced, and why aircraft windows have rounded corners. A sharp corner makes the stress bigger, so a crack starts there first.",
    "examples": [
     "A paper clip bent back and forth snaps after a few bends.",
     "Railway axles and aircraft parts are checked for tiny cracks.",
@@ -254,7 +254,7 @@
    "concept": "Work hardening: where the metal was bent, it gets harder",
    "status": "defined",
    "definition": "Work hardening is the way a metal becomes harder and stiffer in a place where it has been bent or hammered.",
-   "description": "Straighten a paper clip into a wire. Bend it at one place, then straighten it again. The wire keeps a kink there, and the metal in the kink is harder than the wire beside it. That is work hardening. When a metal is bent past its springy limit, tiny faults inside its crystals, called dislocations, are made and moved. They pile up and block each other, so the metal gets harder where it was bent. Blacksmiths have used this for thousands of years. They hammer a blade to make its edge harder. The price is that the metal becomes less bendy and more likely to crack, so a smith heats the metal again when it gets too stiff. Bending a metal back and forth many times uses up this hardened metal, because each bend also does a little damage, and the damage ends in a snap.",
+   "description": "Straighten a paper clip into a wire. Bend it at one place, then straighten it again. The wire keeps a kink there, and the metal in the kink is harder than the wire beside it. That is work hardening. When a metal is bent past its springy limit, tiny faults inside its crystals, called dislocations, are made and moved. They pile up and block each other, so the metal gets harder where it was bent. Blacksmiths have used this for thousands of years. They hammer a blade to make its edge harder. The price is that the metal becomes less bendy and more likely to crack, so a smith heats the metal again when it gets too stiff. Hardening does not save a metal that is bent back and forth many times. Each bend also does a little damage, and in the end the metal snaps.",
    "examples": [
     "A paper clip is harder in the kink where it was bent than in the wire beside it.",
     "A blacksmith hammers a blade edge to make it harder.",
@@ -350,7 +350,7 @@
    "claim": "Doubling the thickness of a plank makes it twice as stiff.",
    "who": "Many people, by guessing.",
    "for": "Twice as much material seems to mean twice as much stiffness.",
-   "against": "For a beam bending under a load, the stiffness grows with the cube of the thickness. Double the thickness and the plank is about eight times stiffer. Two sheets laid loosely on each other are only twice as stiff, because they slide.",
+   "against": "For a beam bending under a load, the stiffness grows with the cube of the thickness. The cube means the thickness times itself, times itself again. Double the thickness and the plank is about eight times stiffer, because 2 times 2 times 2 is 8. Two sheets laid loosely on each other are only twice as stiff, because they slide.",
    "status": "rejected"
   },
   {
@@ -419,12 +419,12 @@
    "hint": "Think about a thing you own, and try to list the people who helped to make it."
   },
   {
-   "q": "In the Zhuangzi, a carpenter calls a huge, crooked oak useless, because its grain twists and it cannot be sawn into planks. The oak lives to a great age. Useful for what, and useful to whom?",
+   "q": "In the Zhuangzi, a carpenter calls a huge, crooked oak useless, because its grain twists and it cannot be sawn into planks. The oak lives to a great age. When we call a thing useful, useful for what, and useful to whom?",
    "kind": "big",
    "hint": "Think about who decides what a thing is for, and who is not asked."
   },
   {
-   "q": "When you break a snapped paper clip, the metal looks bright and grainy inside. What do you think you are seeing, and how could you find out?",
+   "q": "When a paper clip snaps, the metal at the break looks bright and grainy. What do you think you are seeing, and how could you find out?",
    "kind": "deep",
    "hint": "Think of a broken biscuit and a broken stick. What do their insides look like?"
   }
@@ -540,7 +540,7 @@
       },
       {
        "f": "A thin sheet of rubber from a balloon.",
-       "b": "No grain. Its tangled chains stretch about the same way in every direction, so a flat sheet stretches evenly."
+       "b": "No grain. Its long molecules are tangled in every direction, so a flat sheet stretches evenly."
       },
       {
        "f": "A cereal box.",
@@ -617,7 +617,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the 8 tokens. Take out the plywood card and the three practice cards: newspaper, glass marble and bamboo stick. Shuffle the rest and put them in a pile. Give each player one token of each kind.",
-     "say": "These cards show things around us. Each player gets two tokens. Has a grain, and No grain. We guess which kind each thing is.",
+     "say": "These cards show things around us. Each player gets two tokens. One says Has a grain and the other says No grain. We guess which kind each thing is.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one token of each kind.",
      "context": "This is the first step of Grain or No Grain. You set up the cards and the tokens.",
      "parent": "A grown-up cuts out the cards with scissors. The tests on the backs are said aloud during the game. Do not try them in the game. Try them afterwards with a grown-up beside you, because bamboo and wood can splinter."
@@ -666,7 +666,7 @@
        "It is weak"
       ],
       "a": 1,
-      "why": "No grain means no direction. The property is about the same whichever way you test it. It does not mean the material is weak. Glass is stiff. Picking fibres lying one way describes a material with a grain, such as wood."
+      "why": "No grain means no direction. The property is about the same whichever way you test it. It does not mean the material is weak. Glass is stiff. 'Made of fibres lying one way' describes a material with a grain, such as wood."
      },
      "context": "In this step, you play eight cards and start scoring."
     },
@@ -727,7 +727,7 @@
       "The top of the paper is thicker than the sides"
      ],
      "a": 1,
-     "why": "A tear follows the direction in which most fibres lie. Straight one way and crooked the other shows that the paper is not the same in every direction. Picking 'damaged' or 'random' suggests that the result would change each time, but it repeats.",
+     "why": "A tear follows the direction in which most fibres lie. Straight one way and crooked the other shows that the paper is not the same in every direction. If the paper were damaged, or if tearing were random, the result would change each time. But it repeats.",
      "outcome": 0
     },
     {
@@ -736,7 +736,7 @@
      "a": [
       "grain"
      ],
-     "why": "The grain is the direction of the fibres or long cells. Along it, a material behaves differently from across it.",
+     "why": "The grain is the direction of the fibres or long cells. A material behaves differently along its grain and across it.",
      "outcome": 0
     },
     {
@@ -847,7 +847,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a square of woven cloth with three arrows drawn on it. Label each arrow with the word stretches least or stretches most.",
+     "p": "Here is a square of woven cloth with three arrows drawn on it. Label each arrow 'stretches least' or 'stretches most'.",
      "labels": [
       "Arrow along the left edge, along the threads",
       "Arrow along the top edge, along the other threads",
@@ -996,7 +996,7 @@
       "About twice as hard"
      ],
      "a": 2,
-     "why": "For a plank bending under a load, the stiffness grows with the cube of the thickness. Double the thickness is two times two times two, which is eight. So the plank is about eight times stiffer. Picking twice as hard counts the extra material, but forgets how much further it sits from the middle.",
+     "why": "For a plank bending under a load, the stiffness grows with the cube of the thickness. The cube of 2 is two times two times two, which is eight. So a plank twice as thick is about eight times stiffer. Picking twice as hard counts the extra material, but forgets how much further it sits from the middle.",
      "outcome": 3
     },
     {
@@ -1062,7 +1062,7 @@
       "Four sheets glued together"
      ],
      "a": "order shown",
-     "why": "Glued sheets act like one thicker sheet, and stiffness grows with the cube of the thickness. Two sheets are about eight times as stiff as one, and four sheets are about sixty-four times as stiff.",
+     "why": "Glued sheets act like one thicker sheet, and stiffness grows with the cube of the thickness. Two sheets are about eight times as stiff as one, because 2 times 2 times 2 is 8. Four sheets are about sixty-four times as stiff, because 4 times 4 times 4 is 64.",
      "outcome": 3
     },
     {
@@ -1130,7 +1130,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya wants a long shelf for heavy books. Three people in her family give advice.",
+     "p": "A family wants a long shelf for heavy books. Three people in the family give advice.",
      "views": [
       {
        "who": "Appa",
@@ -1153,10 +1153,10 @@
     },
     {
      "t": "write",
-     "p": "A ship's engineer finds that a metal part broke after months of use, though the load on it was never more than half of what it could carry once. Use what you learned from the paper clip to explain what may have happened.",
+     "p": "A ship's engineer finds that a metal part broke after months of use, though the load on it was never more than half of what it could carry once. In the Bend Until It Snaps test, a paper clip snapped after being bent back and forth. Use what that test showed to explain what may have happened to the part.",
      "lines": 4,
      "a": "A strong answer says that the part was loaded again and again, and each load did a small amount of damage. Tiny cracks started and grew a little each time, until the part was too thin to hold, and it broke. This is called fatigue. A force that is safe once can break something that is loaded many times.",
-     "why": "The paper clip showed that a force too small to break a metal once can break it after many repeats.",
+     "why": "In the Bend Until It Snaps test, the paper clip showed that a force too small to break a metal once can break it after many repeats.",
      "outcome": 6
     },
     {
@@ -1225,7 +1225,7 @@
       "Both kinds of bend took the same number of bends"
      ],
      "a": 2,
-     "why": "The tall bar is for the small bends, about 28 on average, and the short bar is for the big bends, about 9. A smaller bend does less damage each time, so it takes more bends to build up. Picking the big bend means reading the bars the wrong way round.",
+     "why": "The tall bar is for the small bends, about 28 on average, and the short bar is for the big bends, about 9. A smaller bend does less damage each time, so it takes more bends for the damage to build up. Picking the big bend means reading the bars the wrong way round.",
      "outcome": 6,
      "how": "e3",
      "context": "In the paper clip test, you bend three straightened clips by big bends and three by small bends and count the bends until each snaps.",
@@ -1315,21 +1315,21 @@
      "p": "A shop sells a table of material strengths. It gives one number for each material. Three people talk about it.",
      "views": [
       {
-       "who": "Anita, an engineer",
+       "who": "An engineer",
        "says": "One number per material is all I need to pick a material for most jobs."
       },
       {
-       "who": "Lakshmi, a materials scientist",
+       "who": "A materials scientist",
        "says": "Wood, paper and cloth change with the direction of the pull. One number hides this."
       },
       {
-       "who": "Farhan, a teacher",
+       "who": "A teacher",
        "says": "A single number is a good start, but I would like to see a note about direction."
       }
      ],
      "ask": "Do you think one number per material is enough? Give a reason that uses what you saw in the paper or cloth tests. Then say one thing that another person has right.",
      "lines": 5,
-     "a": "A strong answer decides, and gives a reason from the tests: the same newspaper tore straight one way and crooked the other, and woven cloth stretched far more on the slant. So one number can mislead for these materials. It then admits that one number can still be a useful start, as Anita and Farhan say, if the direction is also given.",
+     "a": "A strong answer decides, and gives a reason from the tests: the same newspaper tore straight one way and crooked the other, and woven cloth stretched far more on the slant. So one number can mislead for these materials. It then admits that one number can still be a useful start, as the engineer and the teacher say, if the direction is also given.",
      "why": "A single number is a summary. It is useful, but for materials with a grain it leaves out the direction.",
      "outcome": 0
     },
@@ -1340,11 +1340,11 @@
       "The wire is bent",
       "Tiny cracks start where the metal is stretched most",
       "The cracks grow a little with every bend",
-      "The wire left uncracked is too thin to hold",
+      "The part of the wire that is not cracked is too thin to hold",
       "The wire snaps"
      ],
      "a": "order shown",
-     "why": "Fatigue is a story in steps. Each bend starts or lengthens cracks. When too little sound metal is left, the next bend snaps it.",
+     "why": "Fatigue happens in steps. Each bend starts or lengthens cracks. When too little sound metal is left, the next bend snaps it.",
      "outcome": 6
     },
     {
@@ -1489,8 +1489,8 @@
    "title": "Which Way Does It Tear? Paper has a grain",
    "mins": 45,
    "days": 1,
-   "question": "Is a sheet of paper the same in every direction? Does it tear in the same way, and droop the same amount, when it is cut along one direction and across it?",
-   "predict": "Before you start, guess. Will a sheet of newspaper tear in the same way from top to bottom and from side to side? Will two strips cut the other ways droop the same amount? Why do you think so?",
+   "question": "Is a sheet of paper the same in every direction? Does it tear the same way, and droop the same amount, in both directions?",
+   "predict": "Before you start, guess. Will a sheet of newspaper tear in the same way from top to bottom and from side to side? Will two strips cut in these two directions droop the same amount? Why do you think so?",
    "fair_test": "The two strips for each paper come from the same sheet, with the same width and the same length. They stick out over the table by the same amount, with the same book on the end. Only the direction of the cut changes. So any difference in the droop comes from the direction, and not from the paper, the width or the table.",
    "results_table": [
     "Paper",
@@ -1636,9 +1636,9 @@
     {
      "id": "s6",
      "mins": 9,
-     "do": "Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip. Then ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Write three sentences. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why it happened.",
+     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "ask": [
       {
        "q": "What did you notice about the strips cut in the two directions?",
@@ -1750,13 +1750,13 @@
      "say": "Look at the cloth. You can see threads in two directions. Pull out one thread. The gap shows the straight line of the threads.",
      "kid": "Pull out one thread near the edge. The gap shows the way the threads run.",
      "adult": true,
-     "parent": "Use woven cloth, not a knitted T-shirt. Knitted cloth is made of loops and stretches both ways. If the cloth has a printed stripe or check, you can also follow that. Do not worry if the square is not perfect. If a tight weave will not let you pull out a thread, follow a printed stripe or the woven edge of the cloth. The threads run in two straight directions at right angles.",
+     "parent": "Use woven cloth, not a knitted T-shirt. Knitted cloth is made of loops and stretches both ways. In woven cloth, the threads run in two straight directions at right angles. If a tight weave will not let you pull out a thread, follow a printed stripe or check, or the woven edge of the cloth. Do not worry if the square is not perfect.",
      "context": "In this step, you find the line of the threads and cut the cloth into a square."
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "Fold the square corner to corner, so the fold crosses the cloth at a slant. Press the fold and draw a pencil line along it. Cut one strip 5 centimetres wide and 35 centimetres long along the threads. Cut a second strip of the same size centred on the fold line.",
+     "do": "Fold the square corner to corner, so the fold crosses the cloth at a slant. Press the fold and draw a pencil line along it. Cut one strip 5 centimetres wide and 35 centimetres long along the threads. Cut a second strip of the same size along the fold line, with the line running down the middle of the strip.",
      "say": "Fold the cloth from corner to corner. That fold is the slant, which tailors call the bias. Cut one strip along the threads and one along the bias.",
      "kid": "Fold the cloth corner to corner. That fold is the bias. Cut one strip each way.",
      "adult": true,
@@ -1776,7 +1776,7 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "Lay strip 1 flat and draw two pencil marks 20 centimetres apart. Clip the top of the strip to the hook. Clip a carry bag to the bottom. Measure between the marks. Then put the bottle in the bag, wait ten seconds, and measure again.",
+     "do": "Lay the strip cut along the threads flat and draw two pencil marks 20 centimetres apart. Clip the top of the strip to the hook. Clip a carry bag to the bottom. Measure between the marks. Then put the bottle in the bag, wait ten seconds, and measure again.",
      "say": "Mark two points 20 centimetres apart. Hang the strip, with the bag clipped to the bottom. Measure. Then add the bottle. Wait ten seconds and measure again.",
      "kid": "Mark 20 centimetres. Hang the strip. Add the bottle. Measure again.",
      "parent": "Hold the bag steady while someone reads the ruler, because a swinging bag gives wrong numbers. Along the threads, the marks may stay almost 20 centimetres apart. On the slant, a typical thin cotton stretches about 1 to 4 centimetres. A very old or loose cloth may stretch more, and a stiff new cloth less. If the slant strip stretches only a few millimetres, try a thinner cloth or a 1 litre bottle. Read the ruler at eye level.",
@@ -1794,9 +1794,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then look closely at the cloth and its threads in bright light.",
+     "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look closely at the cloth and its threads in bright light.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Then look closely at the threads.",
-     "kid": "Say or write three sentences. What I think. What I saw. Why it happened.",
+     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "ask": [
       {
        "q": "What do you think the threads did on the slant?",
@@ -1899,17 +1899,17 @@
      "say": "Straighten each clip into a wire. A big bend turns the wire to a right angle. A small bend turns it only half as far.",
      "kid": "Straighten the clips. A big bend is a right angle. A small bend is half of that.",
      "adult": true,
-     "parent": "Each clip is straightened in the same way. Keep two for spares. Mark the three for big bends with B and the three for small bends with S on the results table. Fold the notebook corner in half, corner to corner, to make a guide for the small bend.",
+     "parent": "Straighten every clip in the same way. Keep two as spares. On the results table, mark the three clips for big bends with B and the three for small bends with S. Fold the notebook corner in half, corner to corner, to make a guide for the small bend.",
      "context": "In this step, you straighten the clips and learn the two sizes of bend."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Hold a wire low between thumb and finger, with 2 centimetres sticking out. Bend the end to one side to the right angle. That is bend 1. Bring it back through straight and over to the right angle on the other side. That is bend 2. Keep counting until it snaps. Do this with three wires.",
+     "do": "Hold a wire low between thumb and finger, with 2 centimetres sticking out. Bend the end to one side until it makes a right angle. That is bend 1. Bend it back, past straight, until it makes a right angle on the other side. That is bend 2. Keep counting until it snaps. Do this with three wires.",
      "say": "Hold the wire low. Bend the end to one side. Count one. Bend it over to the other side. Count two. Keep going until it snaps.",
      "kid": "Bend the wire to one side. Count one. Bend it back. Count two. Keep going.",
      "adult": true,
-     "parent": "In many tests a big bend snaps a clip in about 5 to 15 bends. This is typical, not a promise. Clips vary a lot with the maker, so write down what you get. If the fingers of a young child are too weak to bend the wire, a grown-up does the bending while the child counts.",
+     "parent": "In many tests a big bend snaps a clip in about 5 to 15 bends. This is typical, not a promise. Clips vary a lot with the maker, so write down what you get. If a young child's fingers are not strong enough to bend the wire, a grown-up does the bending while the child counts.",
      "context": "In this step, you test three wires with big bends and count the bends until each snaps."
     },
     {
@@ -1955,9 +1955,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group. Then ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Find the average number of bends for each group. Then write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Find the average for each group. Say or write three sentences.",
+     "kid": "Find the average for each group. Then say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "parent": "A good reason says that each bend does a little damage to the inside of the metal. Tiny cracks start and grow. Bigger bends do more damage each time. Let your child try first. Then read the Fatigue card together.",
      "context": "In this step, you work out the averages and explain what you found."
     }
@@ -2050,13 +2050,13 @@
      "do": "Hold a skewer by its blunt end. Push your thumbnail into the end and try to split it down its length. Then bend the skewer until it snaps across. Do the same with an ice-cream stick.",
      "say": "Press your thumbnail into the end of the stick. Does it split along its length? Now bend it to snap it across. Which was easier?",
      "kid": "Split the stick along its length. Then snap it across. Which was easier?",
-     "parent": "A thin bamboo skewer often splits when you push a thumbnail into its blunt end. A flat ice-cream stick may need more force. If it does not split, press harder or ask a grown-up to start the split. Either way, write down what happens. Wood and bamboo split along the grain much more easily than across. Ice-cream sticks are often birch and may not split. If so, write 'did not split', then snap it. A clean snap straight across is itself a clue about the grain.",
+     "parent": "A thin bamboo skewer often splits when you push a thumbnail into its blunt end. A flat ice-cream stick may need more force, so press harder or start the split for your child. Ice-cream sticks are often birch and may not split at all. If so, write 'did not split', then snap it. A clean snap straight across is itself a clue about the grain. Either way, write down what happens. Wood and bamboo split along the grain much more easily than across.",
      "context": "In this step, you split and snap a bamboo skewer and an ice-cream stick."
     },
     {
      "id": "a1s3",
      "mins": 8,
-     "do": "Take the celery stalk. Snap the end and pull gently so a string peels off. Then take the leaf. Look for its fine parallel veins. Tear it along the veins from the edge. Then try tearing it across the veins.",
+     "do": "Take the celery stalk. Snap the end and pull gently so a string peels off. Then take the banana leaf. Look for its fine parallel veins. Tear it along the veins from the edge. Then try tearing it across the veins.",
      "say": "Snap the end of the celery and pull. Do strings peel off? Tear the leaf along its veins. Then try across them.",
      "kid": "Peel a string off the celery. Tear the leaf along its veins. Then tear across them.",
      "check": {
@@ -2083,9 +2083,9 @@
     {
      "id": "a1s5",
      "mins": 4,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why it happened.",
+     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "parent": "A good reason says that these materials are built of long fibres or veins lying in lines. A split slips between the lines, and a snap has to break through them.",
      "context": "In this step, you explain what you found."
     }
@@ -2183,7 +2183,7 @@
     {
      "id": "a2s3",
      "mins": 12,
-     "do": "Set the two stacks of books 25 centimetres apart. Hold a ruler upright beside the middle of the gap. Lay the strip with the flutes along its length across the gap. Read the height of the strip's underside. Lay the bottle across the middle and read it again. The sag is the difference. Do the same with the other strip.",
+     "do": "Set the two stacks of books 25 centimetres apart. Hold a ruler upright beside the middle of the gap. Lay the strip with the flutes along its length across the gap. Read the height of the strip's underside. Lay the bottle across the middle of the strip and read the height again. The sag is the difference. Do the same with the other strip.",
      "say": "Lay each strip across the gap. Read the height of its underside. Put the bottle in the middle and read again. The sag is the difference, in millimetres.",
      "kid": "Lay a strip across the gap. Put the bottle on. Measure the sag in millimetres.",
      "parent": "Typical sags are a few millimetres for the strip with flutes along its length, and about 1 to 3 centimetres for the strip with flutes across, which may even fold flat. If it folds, write 'folded'. A thin box sags more and a thick one less, so numbers differ from box to box. If the sag is too small to read, use a longer gap. The direction of the flutes should still make the difference.",
@@ -2203,10 +2203,10 @@
     {
      "id": "a2s4",
      "mins": 7,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then look at the cut edge again and draw it with its waves.",
+     "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look at the cut edge again and draw it with its waves.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Then draw the cut edge.",
-     "kid": "Say or write three sentences. What I think. What I saw. Why it happened.",
-     "parent": "A good reason says that the waves hold the two flat layers apart, like a row of arches. Along the waves, they work as a beam. Across them, they fold like a concertina.",
+     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "parent": "A good reason says that the waves hold the two flat layers apart, like a row of arches. Along the waves, they work as a beam. Across the waves, the strip folds easily at each wave.",
      "context": "In this step, you explain what you found and draw the cut edge."
     }
    ]
@@ -2322,9 +2322,9 @@
     {
      "id": "a3s4",
      "mins": 5,
-     "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences. What I think. What I saw. Why it happened.",
+     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "parent": "A good reason says that the material is the same, but the shape is different. A property of a material, such as how stiff paper is, does not change. A property of an object, such as how stiff the bridge is, depends on its shape.",
      "context": "In this step, you explain what you found."
     }
@@ -2390,7 +2390,7 @@
       }
      ],
      "parent": "Plywood furniture is common: look at the back of a cupboard, a drawer bottom, a bed base or a school desk. The layers are thin and look like stripes. Let your child count them. If your furniture is made of a pressed board with no layers, just a speckled brown mass of tiny chips, it is not plywood. That is a result too. Compare it with a plywood edge. With 2 to 4 children, each child examines a different item and draws it.",
-     "context": "This is the first step of Plywood Edge Detective. You look before you learn."
+     "context": "This is the first step of Plywood Edge Detective. You look closely before anything is explained."
     },
     {
      "id": "a4s2",
@@ -2415,7 +2415,7 @@
     {
      "id": "a4s3",
      "mins": 8,
-     "do": "Compare the plywood edge with the end of a plank. Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Compare the plywood edge with the end of a plank. Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Look at the end of a plank, then at the plywood edge. Write three sentences. What did you think? What did you see? Why?",
      "kid": "Compare the plank end with the plywood edge. Say or write three sentences.",
      "parent": "A good reason says that each layer is turned across the one below. Where one layer is weak, the next is strong. So the board is much less likely to split along one line than a plank. The crossed layers also stop the board from shrinking or swelling too much.",
@@ -2475,7 +2475,7 @@
     {
      "day": 2,
      "mins": 25,
-     "what": "Cut strips from each board and test them as in the droop test. Compare."
+     "what": "Cut strips from each board. Measure how far each strip droops over the edge of the table. Compare."
     }
    ],
    "record": "A table with two boards, the droop of a strip cut each way from each board, and a sentence about what you found.",
@@ -2526,10 +2526,10 @@
      "id": "p1s2",
      "mins": 8,
      "do": "Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.",
-     "say": "Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts eight pieces. Six with the arrow along the long side. Two with it across.",
+     "say": "Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts eight pieces. Six have the arrow along the long side, and two have it along the short side.",
      "kid": "Find the grain on each sheet. Draw an arrow. A grown-up cuts eight pieces.",
      "adult": true,
-     "parent": "You can use the same rule as in the tear test. Keep the arrows visible on every piece. Board A uses four pieces with the arrow along the long side. Board B uses two of those, and the two pieces with the arrow along the short side go second and fourth.",
+     "parent": "Find the grain as in the Which Way Does It Tear experiment: the straight tear runs along the grain. Keep the arrows visible on every piece. Board A uses four pieces with the arrow along the long side. Board B uses two of those, and the two pieces with the arrow along the short side go second and fourth.",
      "context": "In this step, you find the grain and cut eight pieces of newspaper."
     },
     {
@@ -2565,7 +2565,7 @@
     {
      "id": "p1s5",
      "mins": 25,
-     "do": "Take out the boards. A grown-up cuts a strip 3 centimetres wide from each board along the long side, and another across the short side. Put each strip on the table with 14 centimetres sticking out and the book on the end. Measure the droop. Do each strip twice. Write the numbers.",
+     "do": "Take out the boards. A grown-up cuts a strip 3 centimetres wide from each board along the long side, and another across the short side. Put each strip on the table with 14 centimetres sticking out over the edge, and a heavy book on the other end. Measure the droop. Do each strip twice. Write the numbers.",
      "say": "Cut one strip from each board along the long side and one across. Test each strip's droop. Write down the numbers. Which board is more even?",
      "kid": "Cut strips from both boards. Test their droop. Compare along and across.",
      "adult": true,
@@ -2656,7 +2656,7 @@
      "do": "Build your first design. Rest it on the books with the cup in the middle. Add coins one at a time. Count them. Keep going until it sags to the table or twists away. Write down the number.",
      "say": "Build your first beam. Put the cup in the middle. Add coins one at a time. Count them. Write the number down, so you have something to beat.",
      "kid": "Build your beam. Add coins one at a time. Count them. Write the number.",
-     "parent": "Place the cup carefully in the middle. Add coins gently so the beam does not twist. The first number is the one to beat. A good tube can carry more coins than you own. Then add dry rice by level spoonfuls, or load the same 30 coins and compare how far each beam sags.",
+     "parent": "Place the cup carefully in the middle. Add coins gently so the beam does not twist. The first number is the one to beat. A good tube can carry more coins than you own. If that happens, add dry rice by level spoonfuls, or load the same 30 coins and compare how far each beam sags.",
      "context": "In this step, you build your first design and test it."
     },
     {
@@ -3011,14 +3011,14 @@
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "how": "e1",
    "context": "In the droop test, you cut one strip along the grain and one across it, and measure how far each tip drops.",
-   "why_maths": "Dividing one result by the other tells you how many times bigger the difference is, which is easier to compare than two separate numbers."
+   "why_maths": "Dividing one result by the other tells you how many times bigger one is than the other. That is easier to compare than two separate numbers."
   },
   {
    "problem": "A plank is doubled in thickness and becomes about 8 times as stiff, because 2 times 2 times 2 is 8. About how many times as stiff would it be if its thickness were tripled?",
    "answer": "About 27 times.",
    "explain": "Tripling the thickness is 3 times 3 times 3. 3 times 3 is 9, and 9 times 3 is 27. So the plank would be about 27 times as stiff.",
    "math_unit": "math.number-sense.powers-and-roots.L4",
-   "why_maths": "The stiffness of a plank grows with the cube of its thickness. A small change in thickness gives a big change in stiffness, and powers are the tool to see how big."
+   "why_maths": "The stiffness of a plank grows with the cube of its thickness, which means the thickness times itself, times itself again. So a small change in thickness gives a big change in stiffness, and multiplying shows how big."
   },
   {
    "problem": "Five loose sheets of paper laid on each other are only 5 times as stiff as one sheet, because they slide. Five sheets glued into one act like a sheet 5 times as thick, so they are 5 times 5 times 5 times as stiff. How many times stiffer is the glued stack than the loose stack?",
@@ -3235,33 +3235,33 @@
   }
  ],
  "roots": {
-  "context": "We have found that paper, wood, bamboo and cloth have a direction. Now we ask what that tells us about the things we call the same all the way through, and about ourselves.",
+  "context": "In this unit we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.",
   "deep_truth": {
    "truth": "A sheet of newspaper tears straight one way and crooked the other. The paper did not change. Its fibres lie mostly one way, so it has a direction built in. One number for how strong paper is leaves out which way you pull.",
-   "habit": "We write one value for a material, such as 'paper is weak' or 'wood is strong', as if a property pointed nowhere. That hides the direction of the pull.",
-   "evidence": "In the tear test, the same newspaper tore straight along its grain and crookedly across it. In the droop test, strips cut along the grain drooped less than strips cut across. Cloth cut on the slant stretched far more than cloth cut along its threads. If your own results differ, write them down as they are and test again."
+   "habit": "We write one value for a material, such as 'paper is weak' or 'wood is strong', as if the direction did not matter. That hides the direction of the pull.",
+   "evidence": "In the Which Way Does It Tear experiment, the same newspaper tore straight along its grain and crookedly across it, and strips cut along the grain drooped less than strips cut across. In the Tailor's Trick, cloth cut on the slant stretched far more than cloth cut along its threads. If your own results differ, write them down as they are and test again."
   },
   "three": {
    "who_am_i": "Your bones are built of layers, and the struts inside them tend to line up with the way you stand and walk. Your body is built with directions in it.",
    "what_is_life": "A tree that is swayed by the wind grows a thicker trunk. A leaning tree makes special wood on one side to stand up again. A living body keeps a record of the pushes it has felt.",
-   "what_is_this_world": "Paper still carries the direction of the belt it was made on, and wood carries the direction of the cells that the tree grew. Things carry their past inside them as a direction."
+   "what_is_this_world": "Paper still carries the direction of the belt it was made on, and wood carries the direction of the cells that the tree grew. So the direction inside a thing tells you something about how it was made."
   },
   "thread": "Zoom into a sheet of paper and you see thin fibres lying mostly one way. Zoom into wood and you see long tubes. Zoom into a metal and you see tiny crystals made of rows of atoms. At every size, a material is made of smaller parts placed in an arrangement. The direction comes from the arrangement. So what a material is depends on how its parts are placed, as well as on what they are.",
   "teachings": [
    {
     "source": "Tao Te Ching 76",
     "teaching": "People are born soft and bendy, and they die stiff and hard. Green plants are soft and full of sap, and they die dry and brittle. So the stiff and hard belong to death, and the soft and yielding belong to life. A tree that cannot bend is easily broken.",
-    "link": "Bamboo bends a long way in a storm and springs back, because its fibres run unbroken. The brittle strips in our tests snapped."
+    "link": "Bamboo bends a long way in a storm and springs back, because its fibres run unbroken. In the Grain Hunt, the stiff sticks snapped when we bent them across."
    },
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka teaches his son that when you know one lump of clay, you know everything made of clay. The pots and plates are only names, and the truth of each is clay.",
-    "link": "A spoon, a tumbler and a bowl of steel are one material in different shapes. Our paper bridge showed that a shape changes how stiff a thing is, and the material stays the same."
+    "link": "A spoon, a tumbler and a bowl of steel are one material in different shapes. In Paper Bridges, the same paper made a floppy flat bridge and a stiff folded one. The shape changes how stiff a thing is, and the material stays the same."
    },
    {
     "source": "Zhuangzi, chapter 4",
     "teaching": "A carpenter walks past a huge old oak and calls it useless, because its wood is twisted and cannot be sawn into planks. That night the oak speaks to the carpenter in a dream and says that this is why they have lived so long.",
-    "link": "A carpenter reads the grain of wood before cutting. Twisted grain means a crooked plank, and the tree was left alone."
+    "link": "A carpenter reads the grain of wood before cutting. Twisted grain gives crooked planks, so the carpenter left the oak alone."
    }
   ],
   "science": [
@@ -3287,7 +3287,7 @@
   "ask": [
    "Is paper one thing, or is it many different things depending on which way you hold it?",
    "A tree grows thicker where the wind pushes. Is the wind part of what builds the tree?",
-   "If a thing carries its past in its direction, what do you carry in yours?"
+   "Paper and wood keep a trace of how they were made. What traces of your own past does your body keep?"
   ],
   "art": "A sheet of paper and a bamboo stick lying side by side, with fine lines drawn inside them showing the fibres all lying one way."
  },

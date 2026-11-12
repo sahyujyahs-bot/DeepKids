@@ -305,6 +305,16 @@
   "sci.light.reflection.L4",
   "sci.light.refraction.L4",
   "sci.light.transparent-opaque.L4",
-  "sci.light.what-is-light.L4"
+  "sci.light.what-is-light.L4",
+  "sci.magnets.magnets-and-materials.L4",
+  "sci.magnets.poles.L4",
+  "sci.materials.magnetic-materials.L4",
+  "sci.materials.properties.L4",
+  "sci.materials.sorting-materials.L4",
+  "sci.materials.testing-materials.L4",
+  "sci.materials.using-materials.L4",
+  "sci.microorganisms.germs.L4",
+  "sci.microorganisms.helpful-microbes.L4",
+  "sci.microorganisms.parasites.L4"
  ]
 }

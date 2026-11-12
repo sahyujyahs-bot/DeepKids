@@ -8,7 +8,7 @@
   },
   "intro": {
     "hook": "You drop a rubber ball from the height of your hip, and it bounces to 31 centimetres. You drop a table-tennis ball from the same height, and it bounces to 33 centimetres. So the table-tennis ball is bouncier. Is that right? Now drop the rubber ball again. This time it bounces to 34.",
-    "text": "The same ball gave two different numbers, with nothing changed. So can one drop tell you anything at all? This is the next question in testing materials. In the Class 3 unit you learned to change one thing at a time and to repeat a test three times. Here you go a step further. You will repeat a test ten times, draw every result as a dot, and ask how big the ordinary wobble is. Only a difference bigger than the wobble can be believed. You will also learn why your own eyes and hopes can fool you, and how scientists test in the dark on purpose.",
+    "text": "The same ball gave two different numbers, with nothing changed. So can one drop tell you anything at all? This is the next question in testing materials. In the Class 3 unit you learned to change one thing at a time and to repeat a test three times. Here you go a step further. You will repeat a test ten times, draw every result as a dot, and ask how big the ordinary wobble is. Only a difference bigger than the wobble can be believed. You will also learn why your own eyes and hopes can fool you, and why scientists hide from the tester which sample is which.",
     "art": "A child kneeling by a bouncing rubber ball, with two different numbers floating in the air above two drops from the same hand."
   },
   "outcomes": [
@@ -162,7 +162,7 @@
     },
     {
       "term": "Safety factor",
-      "meaning": "How many times stronger than the biggest load we expect we make a thing. It protects us from the weakest piece and from surprises.",
+      "meaning": "How many times stronger we make a thing than the biggest load we expect it to carry. It protects us from the weakest piece and from surprises.",
       "example": "A lift cable that will only ever carry 1,000 kilograms is made to hold several times that.",
       "art": "A cable holding a lift, with a much bigger weight drawn beside it to show how much more it could hold."
     }
@@ -180,7 +180,7 @@
       ],
       "perspectives": [],
       "art": "A rubber ball dropped ten times, with ten different bounce marks on a wall ruler and a few of the tiny causes drawn as little labels: finger, dust, spin, spot on the floor.",
-      "context": "Last year you repeated a test three times and took the middle value. This card explains why three was only a start, and why the numbers are never the same."
+      "context": "In the Class 3 unit you repeated a test three times and took the middle value. This card explains why three was only a start, and why the numbers are never the same."
     },
     {
       "concept": "Spread, range and the dot plot",
@@ -227,7 +227,7 @@
       "concept": "Is the difference real? Compare the gap with the wobble",
       "status": "defined",
       "definition": "A difference is real when it is bigger than the ordinary wobble. If the ranges overlap a lot, the test cannot tell the materials apart.",
-      "description": "Look at the three made-up balls. The rubber ball's middle value was 32 centimetres. The table-tennis ball's was 34. The marble's was 25. Which differences are worth trusting? Compare each gap with the wobble. The rubber ball and the table-tennis ball differ by 2, but each one wobbles over a range of 5. Their ranges overlap a lot, from 31 to 35. A rubber ball sometimes bounces higher than a table-tennis ball. So this test cannot say which is bouncier. Now compare the rubber ball and the marble. The marble's highest bounce, 28, is lower than the rubber ball's lowest, 30. Their ranges do not overlap at all. That is a real difference. A good rule of thumb: if the gap between the middle values is smaller than the range of each ball, say 'we cannot tell'. If the ranges do not touch, say 'there is a real difference'. Scientists have more careful rules, but this one already stops many mistakes.",
+      "description": "Look at three made-up balls. The rubber ball's ten bounces went from 30 to 35 centimetres, with a middle value of 32. The table-tennis ball's went from 31 to 36, with a middle value of 34. The marble's went from 23 to 28, with a middle value of 25. Which differences are worth trusting? Compare each gap with the wobble. The rubber ball and the table-tennis ball differ by 2, but each one wobbles over a range of 5. Their ranges overlap a lot, from 31 to 35. A rubber ball sometimes bounces higher than a table-tennis ball. So this test cannot say which is bouncier. Now compare the rubber ball and the marble. The marble's highest bounce, 28, is lower than the rubber ball's lowest, 30. Their ranges do not overlap at all. That is a real difference. A good rule of thumb: if the gap between the middle values is smaller than the range of each ball, say 'we cannot tell'. If the ranges do not touch, say 'there is a real difference'. Scientists have more careful rules, but this one already stops many mistakes.",
       "examples": [
         "Rubber 30 to 35 and table-tennis 31 to 36 overlap, so we cannot tell.",
         "Rubber 30 to 35 and marble 23 to 28 do not touch, so the difference is real.",
@@ -270,7 +270,7 @@
       "examples": [
         "Three drops of one ball: one lucky drop can mislead. Ten drops: much safer.",
         "Ten strips from one roll tell you about that roll. Strips from five rolls tell you about the brand.",
-        "A hundred drops of a ball with a taped ruler on the wall that sits 1 centimetre too high will all be wrong by 1 centimetre."
+        "If the ruler taped to the wall sits 1 centimetre too high, a hundred drops of a ball will all be wrong by 1 centimetre."
       ],
       "perspectives": [],
       "art": "A scale balancing three tries on one side and ten tries on the other, with a thumb pressing the scale down on a side marked 'ruler with a chipped end'.",
@@ -294,7 +294,7 @@
       "concept": "Hopes fool us: bias and the blind test",
       "status": "defined",
       "definition": "Bias is a push on a result that always goes one way. A blind test stops the tester knowing which sample is which.",
-      "description": "Imagine you are sure the red cloth is the strongest. You pull the red cloth and the blue cloth to see which tears first. Without knowing it, you may pull the blue one a little faster, because you want to see it lose. This is called bias. It is not cheating. It happens without our noticing, even to expert scientists. A famous case is a horse called Clever Hans. In Berlin, about 1904, people thought he could do sums, because he tapped the right number with his hoof. In 1907 a psychologist named Oskar Pfungst showed that Hans was reading tiny movements of the person who asked the question. The questioners nodded very slightly as the taps reached the right number. They did not know they did it. When the questioner did not know the answer, Hans got it wrong. The fix for bias is a blind test. A helper puts secret codes on the samples and keeps the list. The tester does not know which is which until all the results are written down. Medicine trials work the same way. Often the helper also draws the order of testing from a bowl, which is the random part.",
+      "description": "Suppose you are sure the red cloth is the strongest. You pull the red cloth and the blue cloth to see which tears first. Without knowing it, you may pull the blue one a little faster, because you want to see it lose. This is called bias. It is not cheating. It happens without our noticing, even to expert scientists. A famous case is a horse called Clever Hans. In Berlin, about 1904, people thought he could do sums, because he tapped the right number with his hoof. In 1907 a psychologist named Oskar Pfungst showed that Hans was reading tiny movements of the person who asked the question. The questioners nodded very slightly as the taps reached the right number. They did not know they did it. When the questioner did not know the answer, Hans got it wrong. The fix for bias is a blind test. A helper puts secret codes on the samples and keeps the list. The tester does not know which is which until all the results are written down. Medicine trials work the same way. Often the helper also draws the order of testing from a bowl, so that the order is random.",
       "examples": [
         "Judges at a talent show who cannot see the singers can judge only the voice.",
         "Researchers testing a new medicine give half the patients a plain pill, and neither the patients nor the doctors know who got which.",
@@ -302,7 +302,7 @@
       ],
       "perspectives": [],
       "art": "A horse in a courtyard tapping his hoof while a man in a long coat stands very still, with a small arrow showing a tiny nod of the man's head.",
-      "context": "You may think your own eyes would never be unfair. This card shows how hopes sneak into a test, and how scientists test in the dark on purpose."
+      "context": "You may think your own eyes would never be unfair. This card shows how hopes get into a test, and how scientists keep the tester from knowing which sample is which."
     },
     {
       "concept": "A fair order: why we draw lots",
@@ -336,11 +336,11 @@
       "concept": "A control: do nothing, and watch",
       "status": "defined",
       "definition": "A control is a sample that gets everything except the thing you are testing.",
-      "description": "Sometimes things change by themselves while you are testing. A wet paper strip dries a little. A ball warms up. Ink fades in sunlight. To know what happens anyway, scientists keep a control. A control is a sample that gets everything except the thing you are testing. Say you want to know if rubbing makes a cloth thinner. Keep a piece of the same cloth that is not rubbed, in the same room for the same time. If the untouched piece is also thinner, something else is thinning it. Or say you drop a rubber ball and wonder if the floor matters. Keep one drop from a different, harder floor, but with all else the same. A control is the quiet partner of every fair test. Without it, you may give the credit for a change to the wrong cause.",
+      "description": "Sometimes things change by themselves while you are testing. A wet paper strip dries a little. A ball warms up. Ink fades in sunlight. To know what happens anyway, scientists keep a control. A control is a sample that gets everything except the thing you are testing. Say you want to know if rubbing makes a cloth thinner. Keep a piece of the same cloth that is not rubbed, in the same room for the same time. If the untouched piece is also thinner, something else is thinning it. Or say you drop a rubber ball and wonder if the floor matters. Drop it once on a different, harder floor, and keep everything else the same. Every fair test needs a control. Without it, you may give the credit for a change to the wrong cause.",
       "examples": [
         "A strip of cloth in a drawer, while its twin is rubbed, is a control.",
         "A glass of plain water beside the salty water in a floating test is a control.",
-        "A plant watered with plain water beside a plant watered with the new plant food."
+        "A plant watered with plain water, beside a plant watered with the new plant food, is a control."
       ],
       "perspectives": [],
       "art": "Two identical cloth squares on a table, one rubbed on sandpaper and one lying untouched under a small card labelled control.",
@@ -350,7 +350,7 @@
       "concept": "Why a ball bounces, and why no two bounces are equal",
       "status": "defined",
       "definition": "A ball bounces because it squashes, stores energy, and springs back. Some energy always leaves as sound and warmth.",
-      "description": "When a ball hits the floor, it squashes a little. While it squashes, it stores energy, like a squeezed spring. Then it springs back and throws itself up. A bouncier ball is one that stores more of the energy and gives more of it back. But no ball gives back all of it. Some energy becomes sound, the 'thud' you hear. Some becomes a tiny amount of warmth inside the rubber, as its tangled chains rub on each other. That is why each bounce is lower than the last. Now think about why two drops differ. The ball's spin, the exact angle, the spot on the floor, the air and your fingers all change a little. Each tiny change moves the bounce by a tiny amount. We cannot control them all, so we cannot predict one drop exactly. We can only say what usually happens, and how much it varies. A simple way to score a ball's bounciness is the fraction of the drop height that comes back: divide the bounce height by the drop height.",
+      "description": "When a ball hits the floor, it squashes a little. While it squashes, it stores energy, like a squeezed spring. Then it springs back and throws itself up. A bouncier ball is one that stores more of the energy and gives more of it back. But no ball gives back all of it. Some energy becomes sound, the 'thud' you hear. Some becomes a tiny amount of warmth inside the rubber, as the tiny tangled chains that make up the rubber rub on each other. That is why each bounce is lower than the last. Now think about why two drops differ. The ball's spin, the exact angle, the spot on the floor, the air and your fingers all change a little. Each tiny change moves the bounce by a tiny amount. We cannot control them all, so we cannot predict one drop exactly. We can only say what usually happens, and how much it varies. A simple way to score a ball's bounciness is the fraction of the drop height that comes back: divide the bounce height by the drop height.",
       "examples": [
         "A ball that bounces from 50 centimetres to 32 centimetres gives back 32 out of 50, which is about 0.64.",
         "A ball of clay does not bounce, because it keeps its squashed shape and turns the energy into warmth.",
@@ -358,14 +358,14 @@
       ],
       "perspectives": [],
       "art": "A rubber ball squashing flat against the floor, with a tiny spring drawn inside it, then jumping up, with small labels for sound and warmth leaving the ball.",
-      "context": "We dropped balls and saw different heights. This card explains why a ball bounces at all and why no two bounces are the same.",
+      "context": "In the Bounce Test, you drop balls and see a different height each time. This card explains why a ball bounces at all and why no two bounces are the same.",
       "how": "e1"
     },
     {
       "concept": "Standard tests: so that labs can agree",
       "status": "defined",
       "definition": "A standard test is an agreed recipe. Anyone who follows it should get close to the same answer.",
-      "description": "If a company in Chennai says its rope holds 200 kilograms, and a lab in Delhi says it holds 150, who is right? Perhaps both. The company may have pulled slowly, and the lab quickly. It may have been hot or damp. To make results comparable, countries write down standard tests. A standard says exactly how big a sample is, how it is held, how fast it is pulled and in what air. In India, the Bureau of Indian Standards writes many of these. A product that passes its tests may carry the ISI mark. Labs also check each other. Many labs test the same sample and compare numbers. If one lab is far from the rest, it checks its machine. This is the same idea as your two rulers. A test is only useful if other people can repeat it and get close to the same answer.",
+      "description": "If a company in Chennai says its rope holds 200 kilograms, and a lab in Delhi says it holds 150, who is right? Perhaps both. The company may have pulled slowly, and the lab quickly. The air may have been hot or damp. To make results comparable, countries write down standard tests. A standard says exactly how big a sample is, how it is held, how fast it is pulled and in what kind of air. In India, the Bureau of Indian Standards writes many of these. A product that passes its tests may carry the ISI mark. Labs also check each other. Many labs test the same sample and compare numbers. If one lab is far from the rest, it checks its machine. This is the same idea as checking one ruler against another ruler. A test is only useful if other people can repeat it and get close to the same answer.",
       "examples": [
         "A helmet that carries the ISI mark has passed fixed tests.",
         "Labs in different countries test the same piece of steel and compare numbers, to check their machines.",
@@ -378,7 +378,7 @@
     {
       "concept": "Design for the weakest piece, not the average",
       "status": "defined",
-      "definition": "A safety factor is how many times stronger than the expected load we make a thing. It covers the weakest piece and surprises.",
+      "definition": "A safety factor is how many times stronger we make a thing than the load we expect it to carry. It covers the weakest piece and surprises.",
       "description": "A lift cable is made of steel strands. Suppose tests on a hundred pieces show a middle value of 20 tonnes before breaking, but a few pieces broke at 14. An engineer will not use 20 as the number to trust. She asks about the weakest pieces and about the worst day. If a cable only ever carries 2 tonnes, she may build it to hold much more than that. This extra strength is the safety factor. It covers unseen cracks, rust, shocks and mistakes. It is also why the spread matters so much. If every piece broke at nearly the same load, a small safety factor would do. If the spread is wide, the factor must be larger. The same idea is used for ropes, chains, bridges and helmets. A fair test finds how far the weakest piece falls below the middle.",
       "examples": [
         "A rope sold for 100 kilograms of load may be tested to break above 500 kilograms.",
@@ -447,7 +447,7 @@
       "claim": "The bigger number wins, so a ball that bounced higher once is the bouncier ball.",
       "who": "Many people, and many adverts",
       "for": "A bigger number is easy to see and to remember. Sometimes the gap is so big that one try would have shown it.",
-      "against": "When the ranges of two balls overlap, a repeat of the test can reverse the order. The ten drops of the rubber ball and the table-tennis ball in the made-up data overlapped almost completely. A fair claim says 'we cannot tell'.",
+      "against": "When the ranges of two balls overlap, a repeat of the test can reverse the order. In the made-up bounce heights, the rubber ball ranged from 30 to 35 centimetres and the table-tennis ball from 31 to 36, so they overlapped almost completely. A fair claim says 'we cannot tell'.",
       "status": "rejected",
       "context": "This card is about the shortcut of picking the bigger number from one try."
     },
@@ -463,7 +463,7 @@
       "claim": "An odd result is a mistake, so throw it away.",
       "who": "Many people when they are in a hurry",
       "for": "Sometimes an odd result really is a slip, such as a coin dropped hard or a strip with a nick.",
-      "against": "Sometimes the odd result is the discovery. In 1965, at the DuPont company in the USA, the chemist Stephanie Kwolek made a thin, cloudy liquid that most chemists would have thrown away. She asked for it to be spun into a fibre, and the tests showed the fibre was very stiff and strong for its weight. It became the material called Kevlar. In 1982 the scientist Dan Shechtman saw a pattern in a metal that the textbooks said could not exist. He checked it again and again, many scientists laughed for years, and he won the Nobel Prize in Chemistry in 2011. The rule is to check an odd result, and not to delete it.",
+      "against": "Sometimes the odd result is the discovery. In 1965, at the DuPont company in the USA, the chemist Stephanie Kwolek made a thin, cloudy liquid that most chemists would have thrown away. She asked for it to be spun into a fibre, and the tests showed the fibre was very stiff and strong for its weight. It became the material called Kevlar. In 1982 the scientist Dan Shechtman saw a pattern in a metal that the textbooks said could not exist. He checked it again and again. Many scientists laughed at him for years. He won the Nobel Prize in Chemistry in 2011. The rule is to check an odd result, and not to delete it.",
       "status": "debated",
       "context": "This card is about what to do with the one result that does not fit the others."
     },
@@ -481,7 +481,7 @@
       "for": "Changing one thing makes the cause clear. It is the best rule for a beginner.",
       "against": "In 1926 the statistician Ronald Fisher argued that scientists can ask nature several questions at once, if the tests are planned in a careful pattern. Farm trials and factory tests now often change two or three things together, and then work out each one's effect with sums. One at a time is a good rule to start with, but not the only fair one.",
       "status": "debated",
-      "context": "This card is about a rule you learned earlier, and a way that expert scientists sometimes go beyond it."
+      "context": "This card is about the rule of changing only one thing at a time, and a way that expert scientists sometimes go beyond it."
     },
     {
       "claim": "The test that copies real life is always better than a simple fair test in the kitchen.",
@@ -494,7 +494,7 @@
   ],
   "big_questions": [
     {
-      "q": "One ball, ten drops, ten different heights. What is 'the bounce of the ball'? Is it any single number?",
+      "q": "You drop one ball ten times and get ten different heights. What is 'the bounce of the ball'? Is it any single number?",
       "kind": "deep",
       "hint": "Think about the middle value, the range, and whether the ball itself changed between drops."
     },
@@ -514,9 +514,9 @@
       "hint": "The questioners nodded without knowing. The horse noticed. Was the horse clever?"
     },
     {
-      "q": "Seeds from the same packet, planted on the same day in the same pot, sprout on different days. Is the spread a problem for life, or something life needs?",
+      "q": "Seeds from the same packet, planted on the same day in the same pot, sprout on different days. Is this spread a problem for living things, or something they need?",
       "kind": "deep",
-      "hint": "If every seed sprouted on the same hour, what would happen in a drought?"
+      "hint": "If every seed sprouted in the same hour, what would happen in a drought?"
     },
     {
       "q": "A test can show that a rope is weak but cannot show that it will hold for ever. Is there anything in life we can know for sure?",
@@ -534,7 +534,7 @@
       "hint": "What would you ask the advert to show you? How many tries? Which ranges?"
     },
     {
-      "q": "Every drop is a little different, so no one can predict exactly where a ball will land. Is the world really exact, with us just unable to see it, or fuzzy at its edges?",
+      "q": "Every drop is a little different, so no one can predict exactly where a ball will land. Is the world exact underneath, and we just cannot see it well enough? Or is the world itself a little uncertain?",
       "kind": "deep",
       "hint": "Scientists disagree about this at the very smallest scale. Think about which tiny causes you could control and which you could not."
     },
@@ -548,7 +548,7 @@
     "story": "Around 1904 in Berlin, a horse called Clever Hans became famous. His owner, a retired teacher named Wilhelm von Osten, said that Hans could add, subtract and tell the date. Asked a sum, Hans tapped the answer with his hoof. A committee of experts watched and found no trick by the owner. Then a young psychologist, Oskar Pfungst, tried something new. He had people ask questions in secret, without knowing the answer themselves. He also put screens between Hans and the questioner. Hans got the answers wrong. When the questioner knew the answer and Hans could see their face, he was right. Pfungst saw that people made a tiny movement of the head as the taps reached the right number, and Hans stopped there. No one had meant to give a signal. Pfungst published his work in 1907. Since then, scientists test blind, so that nobody can nudge the result by accident.",
     "who": "Oskar Pfungst, a German psychologist, who tested Clever Hans, the horse of Wilhelm von Osten",
     "when": "1904 to 1907",
-    "wrong_idea": "That Hans could do sums, and that if the owner was honest the test must be fair. Pfungst showed that the horse followed tiny, unwitting signals from people who knew the answer. A fair test needs the tester to be in the dark.",
+    "wrong_idea": "That Hans could do sums, and that if the owner was honest the test must be fair. Pfungst showed that the horse followed tiny signals that people who knew the answer gave without meaning to. A fair test needs a tester who does not know the answer.",
     "art": "A horse in a Berlin courtyard tapping his hoof, a crowd of people watching, and a young man in a long coat holding a notebook standing behind a screen."
   },
   "story": {
@@ -564,7 +564,7 @@
       "Sree had a teacher at school who said one thing again and again: never trust one drop. One drop of a ball, one pull of a strip, one anything. 'One piece of rope,' said Sree, 'is only one piece.'",
       "Jose chettan laughed kindly. 'A test is a test, child.' But Sree's mother said, 'Let her.' So Sree asked for ten pieces of each rope, all cut to the same length.",
       "They set the first ten pieces in a row. Jose chettan poured the water, mug by mug, and Sree wrote the numbers. After a while Ammamma said, 'You pour the green ones softly, like you are feeding a baby. And you pour the coir ones fast, like you are late for a bus.'",
-      "Jose chettan opened his mouth to say no. Then he looked at the notebook, and he closed it again. 'I did not know I did that,' he said slowly.",
+      "Jose chettan opened his mouth to say no. Then he looked at the notebook, and he closed his mouth again. 'I did not know I did that,' he said slowly.",
       "'Then nobody should know which is which,' said Sree. Her cousin Anu tied a paper tag with a secret letter on each of the twenty pieces. Sree wrote the list of letters in the notebook, folded the page, and put it in her pocket. Then they shook the tags in a steel bowl and drew them, one by one, to decide the order.",
       "Before the first piece was hung, Ammamma took each tagged rope in her hands. She ran the rope between her fingers, and she did not look at the tag. She put two pieces aside. 'These two are poor,' she said. 'I do not know why. They feel thin.'",
       "Now Jose chettan poured, and he did not know whether he was pouring on nylon or coir. He poured every piece the same way, mug after mug, until each snapped. Sree wrote the number for every tag. It took the whole afternoon.",
@@ -574,12 +574,12 @@
       "Sree shook her head. 'Her hands are a test too,' she said. 'But it was the blind test with ten pieces that let us see it. One piece each told us a story that was not true.'",
       "Her mother bought the green rope for the biggest boat, where a snap would be worst. For that rope, she asked Jose chettan to cut her a spare piece from every new coil, so that Ammamma could feel it first. And before any new rope was trusted, Sree tied a ribbon on it, and the family called it 'a rope not yet tested'."
     ],
-    "epiphany": "One piece of rope tells you about one piece. Ten pieces show how much ropes of one kind differ, and the ranges of the two kinds overlap, so 'twice as strong' was too much. The turn comes when the tester is kept in the dark with tags and random order. Then the test is fair, and even Ammamma's hands can be checked.",
+    "epiphany": "One piece of rope tells you about one piece. Ten pieces show how much ropes of one kind differ. The ranges of the two kinds overlap, so 'twice as strong' was too much to claim. The test became fair only when Jose chettan did not know which rope he was testing, because of the secret tags and the random order. Then even Ammamma's hands could be checked.",
     "ask": [
       "Why was it not enough to test one piece of each rope?",
       "How did the secret tags make the test fairer?",
       "If the ranges of the two ropes overlap, what can Sree honestly say about which rope is stronger?",
-      "Ammamma felt two weak pieces before the test. How could Sree check that she was not just lucky?",
+      "Ammamma felt two weak pieces before the test. How could Sree check that Ammamma was not just lucky?",
       "Why did Sree tie a ribbon on any rope that had not been tested?"
     ],
     "art": [
@@ -705,7 +705,7 @@
             },
             {
               "f": "22. A ruler's first centimetre is chipped, so it starts at 1 centimetre. Every reading is 1 centimetre too big. Two ropes read 21 and 24 centimetres of stretch. Is the gap between them changed by the chipped end?",
-              "b": "No. Both readings are too big by the same amount, so the gap between them is the same. The chipped end hurts the true size of each stretch but not the difference."
+              "b": "No. Both readings are too big by the same amount, so the gap between them is the same. The chipped end makes each reading of stretch wrong, but it does not change the difference."
             },
             {
               "f": "23. The rubber ball bounced 30, 30, 31, 31, 32. The marble bounced 25, 24, 24, 26, 12. Is the marble's 12 something to delete?",
@@ -748,7 +748,7 @@
         "Turn the card over and read the back. A player with the right token wins one point.",
         "A player who also says the reason in their own words wins one more point.",
         "Cards 19 to 24 have a catch. Think about the number of tries, the tester and the tools before you choose.",
-        "After all the cards, the player with most points wins. If it is a tie, the winners share."
+        "After all the cards, the player with the most points wins. If it is a tie, the winners share."
       ],
       "flow": [
         {
@@ -774,7 +774,7 @@
               ]
             }
           ],
-          "parent": "If the children say 'the bigger number wins', ask: could another set of tries change the order? Let the card answer.",
+          "parent": "If the children say 'the bigger number wins', ask: could another set of tries change the order? Then turn the card over and read the answer.",
           "context": "In this step, you practise with one card to learn how to find a range and compare two ranges."
         },
         {
@@ -782,7 +782,7 @@
           "mins": 12,
           "do": "Play cards 2 to 18. After every four cards, stop and ask the question below.",
           "say": "Read the card. Choose a token. Turn it over together. Now check the back.",
-          "kid": "Read, choose, turn, check. Keep score.",
+          "kid": "Read the card. Choose a token. Turn it over. Check the back. Keep score.",
           "ask": [
             {
               "q": "What do the Cannot tell cards have in common?",
@@ -853,15 +853,15 @@
           "title": "18 two-sided cards: a short story on the front, the answer and the fix on the back",
           "items": [
             {
-              "f": "1. Anu dropped a ball once and read 36 centimetres. Her brother dropped it once and read 31. They argued about who was right.",
+              "f": "1. A girl dropped a ball once and read 36 centimetres. Her brother dropped it once and read 31. They argued about who was right.",
               "b": "The thing varies. One drop is only one drop. The fix: drop it ten times and draw a dot plot."
             },
             {
-              "f": "2. Ravi wanted the green cloth to win, and he pulled the blue cloth a little faster each time without noticing.",
+              "f": "2. A tester wanted the green cloth to win. He pulled the blue cloth a little faster each time without noticing.",
               "b": "We hoped for it. The fix: a helper puts secret codes on the cloths and keeps the list until the end."
             },
             {
-              "f": "3. A ruler is chipped, so it starts at 1 centimetre. Meena measured every strip with it.",
+              "f": "3. A ruler is chipped, so it starts at 1 centimetre. A child measured every strip with it.",
               "b": "The measuring is rough. This is a zero error. The fix: check the ruler against another ruler, or subtract 1."
             },
             {
@@ -869,15 +869,15 @@
               "b": "The thing varies. No two strips are exactly the same. The fix: test ten strips from the roll."
             },
             {
-              "f": "5. Kavya reads the bounce from far away and from a high chair. Her mother reads it from eye level. They get different numbers.",
+              "f": "5. A girl reads the bounce from far away, sitting on a high chair. Her mother reads it from eye level. They get different numbers.",
               "b": "The measuring is rough. Where you look from changes what you read. The fix: both read from eye level, or film in slow motion."
             },
             {
-              "f": "6. Farhan tested the red cloth first, when his arms were fresh. He tested the blue cloth last, when he was tired.",
+              "f": "6. A tester tested the red cloth first, when his arms were fresh. He tested the blue cloth last, when he was tired.",
               "b": "We hoped for it, in a quiet way. The order favoured the red cloth. The fix: draw the order from a bowl."
             },
             {
-              "f": "7. A kitchen scale moves in steps of 5 grams. Lakshmi tries to tell if a coin weighs 2 grams more than another coin.",
+              "f": "7. A kitchen scale moves in steps of 5 grams. A child tries to tell if one coin weighs 2 grams more than another coin.",
               "b": "The measuring is rough. The tool's smallest step is bigger than the difference. The fix: use a finer scale, or weigh 10 coins at once."
             },
             {
@@ -885,7 +885,7 @@
               "b": "The thing varies. Grains of one kind are never the same length. The fix: report the range and the middle value."
             },
             {
-              "f": "9. Selvi was told that the new bag was the best. She tested it three times and the old bag only once.",
+              "f": "9. A tester was told that the new bag was the best. She tested it three times and the old bag only once.",
               "b": "We hoped for it. She gave the new bag more chances to show a good result. The fix: give both bags the same number of tries."
             },
             {
@@ -897,7 +897,7 @@
               "b": "The measuring is rough. Eyes are slow. The fix: film the bounce on a phone and look at it frame by frame."
             },
             {
-              "f": "12. Joseph only wrote down the tries that agreed with his guess, and he forgot the others.",
+              "f": "12. A tester wrote down only the tries that agreed with his guess, and he forgot the others.",
               "b": "We hoped for it. He picked results to fit his idea. The fix: write down every try, even the ones you do not like."
             },
             {
@@ -905,11 +905,11 @@
               "b": "The thing varies. Even cups from one box differ a little. The fix: test many cups and give the range."
             },
             {
-              "f": "14. Ishita measured with a cloth tape that has stretched with use.",
+              "f": "14. A child measured with a cloth tape that has stretched with use.",
               "b": "The measuring is rough. A stretched tape gives a reading that is too small, the same way each time. The fix: compare it with a rigid ruler."
             },
             {
-              "f": "15. A baker is sure the new flour makes better rotis, and she tastes the roti with the new flour first and tells everyone.",
+              "f": "15. A baker is sure the new flour makes better rotis. She tastes the roti made with the new flour first, and tells everyone.",
               "b": "We hoped for it. Her own hopes, and what she told others, could change what they tasted. The fix: serve the rotis to tasters with secret codes."
             },
             {
@@ -969,7 +969,7 @@
         "Turn the card over and read the back. A player who chose the right mat wins one token.",
         "A player who says the fix before the card is turned over wins one more token.",
         "Some cards could fit two mats. If the group can give a good reason, the parent decides.",
-        "After all the cards, the player with most tokens wins."
+        "After all the cards, the player with the most tokens wins."
       ],
       "flow": [
         {
@@ -1028,7 +1028,7 @@
         {
           "id": "s5",
           "mins": 3,
-          "do": "Ask each player to tell one test they did at home. Which mat does the biggest risk in it belong to?",
+          "do": "Ask each player to describe one test they did at home. Which of the three mats is the biggest risk for that test?",
           "say": "Think of one of your own tests. Which mat is the biggest risk for it?",
           "kid": "Pick one of your tests. Which mat is its biggest risk?",
           "context": "This is the last step of Three Ways to Be Fooled. You use the mats on a real test of your own."
@@ -1090,8 +1090,8 @@
         }
       ],
       "safety": "Keep marbles away from children under five, and pick up every marble after the test so nobody slips on one. Use a marble without chips or cracks, and keep faces back from the bounce.",
-      "record": "Draw a table with one row for each ball. Write the ten readings by you, and the ten readings by your helper. Then draw a dot plot with a row for each ball on one number line. Write the range and the middle value of each ball.",
-      "context": "In this experiment, you drop four things ten times each from the same height and look at how much the bounces vary. Then you decide which differences between balls are real.",
+      "record": "Draw a table with one row for each ball. Write your ten readings and your helper's ten readings. Then draw a dot plot with a row for each ball on one number line. Write the range and the middle value of each ball.",
+      "context": "In this experiment, you drop a rubber ball, a table-tennis ball, a marble and a ball of clay ten times each from the same height, and look at how much the bounces vary. Then you decide which differences between balls are real.",
       "setup": [
         {
           "art": "A tailor's tape measure taped up a wall with its zero at the floor, a small flag of masking tape at 50 centimetres and a square of tape on the floor below.",
@@ -1120,7 +1120,7 @@
           "mins": 4,
           "do": "Show your child the four things. Ask for a guess and a reason. Write the guess down.",
           "say": "We will drop four things from the same height. Which will bounce highest? Which will bounce lowest? If we drop one ball ten times, will it bounce the same each time? Why do you think so?",
-          "kid": "Four things to drop. Which bounces highest? Will one ball bounce the same each time? Why?",
+          "kid": "We will drop four things. Which will bounce highest? Will one ball bounce the same each time? Why?",
           "ask": [
             {
               "q": "Why do you think that thing will bounce highest?",
@@ -1144,7 +1144,7 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "1. Tape the tape measure up a wall, with zero at the floor. 2. Stick a flag of tape at 50 centimetres. 3. Tape a square on the floor below. 4. Fold the four chits and put them in a bowl. 5. Draw the results table.",
+          "do": "1. Tape the tape measure up a wall, with zero at the floor. 2. Stick a flag of tape at 50 centimetres. 3. Tape a square on the floor below. 4. Write the name of each ball on a paper chit, fold the four chits and put them in a bowl. 5. Draw the results table.",
           "say": "We need a place where every drop is the same. The flag marks the height. The square marks the spot. The bowl will decide the order.",
           "kid": "Tape up the measure. Mark the flag and the square.",
           "parent": "If the floor is soft, such as carpet or a mat, put a smooth hard board, a ceramic tile or a thick book on the floor under the square. The same hard floor must be used for every ball.",
@@ -1168,12 +1168,12 @@
           "say": "Let go, do not throw. Crouch down. Look at the bottom of the ball when it is highest. Read that number.",
           "kid": "Let go. Crouch. Look at the top of the bounce.",
           "parent": "Reading a bounce by eye is hard. If you have a phone, film the three practice drops in slow motion next to the tape measure, then play them back. Show your child how the eye misses the highest point. Roles: with one child and a parent, the child lets go and both of you read. With 2 to 4 children, one lets go, two read, one writes. Swap jobs after each ball, but keep the same person letting go for all ten drops of one ball.",
-          "context": "In this step, you practise reading a bounce. It is quick, so you need a few tries."
+          "context": "In this step, you practise reading a bounce. A bounce is quick, so you need a few tries to learn to read it."
         },
         {
           "id": "s4",
           "mins": 8,
-          "do": "1. Draw the four chits. That is the order of the balls. 2. Drop each ball once in that order. 3. Then drop each ball once in the reverse order. 4. Both of you write down every reading, without looking at each other's paper. 5. Do this twice.",
+          "do": "1. Draw the four chits. That is the order of the balls. 2. Drop each ball once in that order. 3. Then drop each ball once in the reverse order. 4. Both of you write down every reading, without looking at each other's paper. 5. Do steps 2 to 4 once more, so each ball has four drops.",
           "say": "Draw the chits for the order. Drop each ball once. Then go backwards. Write what you see. Do not look at each other's paper.",
           "kid": "Draw the order. Drop each ball. Then go backwards. Write the numbers.",
           "ask": [
@@ -1191,7 +1191,7 @@
         {
           "id": "s5",
           "mins": 8,
-          "do": "Keep going until each ball has been dropped ten times. Keep the same method. Draw new chits for the order at the start of every second pair.",
+          "do": "Keep going until each ball has been dropped ten times. Keep the same method: drop each ball once in the drawn order, then once in the reverse order. After every two rounds like this, draw the chits again for a new order.",
           "say": "Ten drops for each ball. Same method, same flag, same square. Keep writing every number, even the odd ones.",
           "kid": "Finish ten drops for each ball. Write every number.",
           "parent": "If a ball rolls off the square, call it a miss and drop again, but write down that it was a miss. Do not hide misses. The clay ball will not bounce. Write 0 for it every time.",
@@ -1231,7 +1231,7 @@
               ]
             }
           ],
-          "parent": "Typically each row is about 2 to 6 centimetres wide, but your numbers depend on your balls and your floor. Some may overlap and some may not. Both are good results. If your rows are very wide, look at the biggest gaps in step 6 for a hint.",
+          "parent": "Typically each row is about 2 to 6 centimetres wide, but your numbers depend on your balls and your floor. Some may overlap and some may not. Both are good results. If your rows are very wide, look at the biggest gaps between your readings and your helper's readings for a hint.",
           "context": "In this step, you draw all the drops as dots, so you can see the spread and the overlaps."
         },
         {
@@ -1261,7 +1261,7 @@
       "title": "The Secret Code Test: does a label change what we feel?",
       "mins": 30,
       "days": 1,
-      "question": "Do people feel the same cloth as softer when it has a 'Premium' label, and does the score change when they cannot see the label?",
+      "question": "Does the same cloth feel softer to people when it has a 'Premium' label? Does their score change when they cannot see the label?",
       "predict": "Before you start, guess. Will people give the cloth marked Premium a higher softness score than the cloth marked Basic, even though both squares are cut from the same cloth? Will the answer change when people cannot see the labels? Why do you think so?",
       "fair_test": "All squares are cut from one piece of cloth, so they are exactly the same. The same people feel them, with clean dry hands, in the same room. A coin toss decides whether a person feels the Premium or Basic square first. You say nothing while people give their scores, so your face and voice cannot help. The only thing that changes between rounds is whether people can see the label.",
       "results_table": [
@@ -1334,7 +1334,7 @@
           "mins": 4,
           "do": "Show your child the cloth. Ask for a guess and a reason. Do not say yet what the test will show.",
           "say": "We will ask people how soft two squares feel. One is labelled Premium. One is labelled Basic. Will they say Premium is softer? Why do you think so?",
-          "kid": "Two squares. One says Premium. One says Basic. Which will people call softer? Why?",
+          "kid": "There are two squares of cloth. One says Premium. One says Basic. Which will people call softer? Why?",
           "ask": [
             {
               "q": "Why do you think people will give those scores?",
@@ -1361,7 +1361,7 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Ask the first person to feel both labelled squares. Toss a coin for who goes first. Heads is Premium first. Ask for a softness score from 0 to 10 for each. Write the scores. Say nothing else.",
+          "do": "Ask the first person to feel both labelled squares. Toss a coin to decide which square they feel first. Heads means the Premium square first. Ask for a softness score from 0 to 10 for each. Write the scores. Say nothing else.",
           "say": "Please feel these two squares. Give each one a softness score from 0 to 10. Zero is rough. Ten is very soft.",
           "kid": "Toss a coin. Ask for two scores from 0 to 10. Say nothing else.",
           "parent": "Do not smile, nod or say anything while the person is scoring. If you react, your face may tell them which score you hoped for. Repeat with every person. Use the same words for each person. Roles: one child asks and writes, one tosses the coin and hands over the squares. Other children wait in another room, because they know the secret. If you cannot find 5 people, run it with 3 and say that the result is weak.",
@@ -1381,7 +1381,7 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "Now ask each person to close their eyes or wear the scarf. Hand over the squares marked K and M, one after the other. Toss a coin for the order. Ask for a score for each. Write the scores by the letters.",
+          "do": "Now ask each person to close their eyes or wear the scarf over their eyes. Hand over the squares marked K and M, one after the other. Toss a coin for the order. Ask for a score for each. Write the scores by the letters.",
           "say": "Close your eyes please. Feel this square, then this one. Give each a softness score from 0 to 10.",
           "kid": "Eyes closed. Hand over the K and M squares. Write the scores.",
           "parent": "Keep a record of which square, K or M, went first. Do not tell anybody what you expect.",
@@ -1431,7 +1431,7 @@
       "title": "The Rub Test: which cloth wears through first?",
       "mins": 45,
       "days": 1,
-      "question": "Which of four cloths wears through first when rubbed on sandpaper with the same push, and is the difference bigger than the wobble between two runs of the same cloth?",
+      "question": "Which of four cloths wears through first when you rub each one on sandpaper with the same push? Is the difference between cloths bigger than the wobble between two runs of the same cloth?",
       "predict": "Before you start, guess. Which cloth will wear through in the fewest rubs, and which will last longest? How many rubs do you think the longest will take? Why do you think so?",
       "fair_test": "Each cloth is stretched over the flat bottom of the same steel katori with the same weight inside. It is slid the same 20 centimetres along the sandpaper, and back, at the same speed. Each run uses a fresh lane of sandpaper, so lint from one cloth does not change the next run. The order of the cloths is drawn from a bowl. Each cloth is run twice. Only the cloth changes.",
       "results_table": [
@@ -1507,7 +1507,7 @@
           "mins": 4,
           "do": "Show your child the four cloths. Ask for a guess and a reason. Write the guess down.",
           "say": "We will rub four cloths on sandpaper until they wear through. Which will wear through first? Which will last longest? Why do you think so?",
-          "kid": "Four cloths. Which wears out first? Which lasts longest? Why?",
+          "kid": "We will rub four cloths. Which wears out first? Which lasts longest? Why?",
           "ask": [
             {
               "q": "Why do you think that cloth will last longest?",
@@ -1518,7 +1518,7 @@
               ]
             },
             {
-              "q": "What would the real life use of the cloth be?",
+              "q": "What is this cloth used for in real life?",
               "good": [
                 "A school bag.",
                 "A shirt.",
@@ -1535,7 +1535,7 @@
           "do": "1. Tape the sandpaper flat to the table. 2. Draw eight lanes as wide as the katori, along the long side of the sheets (three lanes fit on one sheet). 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.",
           "say": "We are building a rubbing machine. The sandpaper is the rough road. The katori with coins is the weight. Each lane is used only once.",
           "kid": "Tape down the sandpaper. Draw eight lanes. Number them.",
-          "parent": "The sandpaper clogs with lint, so a used lane rubs more gently. That is why each run gets a new lane. Calibrate first on the scrap: put 30 coins in the katori and rub a square of the thinnest cotton. If it has no hole after 50 rubs, add more coins or stones and try again on a new patch. Aim for a hole in the thinnest cloth in about 20 to 50 rubs, then keep this load for the whole test. These numbers are only typical; home sandpaper and katoris differ.",
+          "parent": "The sandpaper clogs with lint, so a used lane rubs more gently. That is why each run gets a new lane. First find the right weight, using the scrap of sandpaper: put 30 coins in the katori and rub a square of the thinnest cotton. If it has no hole after 50 rubs, add more coins or stones and try again on a new patch. Aim for a hole in the thinnest cloth in about 20 to 50 rubs, then keep this load for the whole test. These numbers are only typical; home sandpaper and katoris differ.",
           "adult": true,
           "context": "In this step, you build the rubbing machine. Eight lanes mean every run starts with fresh sandpaper."
         },
@@ -1556,7 +1556,7 @@
             "a": 0,
             "why": "If one cloth is loose and another is tight, a difference in the rubs might come from the tightness. Only the cloth should change. Choosing 'looks nicer' misses that this is a fair-test step."
           },
-          "context": "In this step, you dress the katori with a cloth. A tight cloth gives a fair test."
+          "context": "In this step, you cover the bottom of the katori with a cloth. A tight cloth gives a fair test."
         },
         {
           "id": "s4",
@@ -1575,7 +1575,7 @@
           "kid": "Slide there and back. Count. Every ten rubs, look for light.",
           "ask": [
             {
-              "q": "Which cloth is going to last longest, now that you have watched?",
+              "q": "Now that you have watched, which cloth do you think will last longest?",
               "good": [
                 "The jeans.",
                 "The cotton.",
@@ -1805,7 +1805,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Count out 20 grains of long rice for pile A. Count out 20 grains of short rice for pile B. Take 20 more grains from the same packet for pile C. Ask your child to guess the middle length of each pile.",
+          "do": "Count out 20 grains of long rice for pile A. Count out 20 grains of short rice for pile B. Take 20 more grains from the same packet of short rice for pile C. Ask your child to guess the middle length of each pile.",
           "say": "Pile A is long rice. Pile B and pile C are both short rice from the same packet. Guess the usual length of a grain in each pile. Why do you think so?",
           "kid": "Count 20 grains for each pile. Guess a length for each.",
           "ask": [
@@ -1853,7 +1853,7 @@
               "The ruler is broken"
             ],
             "a": 0,
-            "why": "B and C were meant to be the same. Their small gap shows how big the gap by chance can be. A real difference between rice kinds should be much bigger than that. Choosing 'different kinds' usually means ignoring that two spoonfuls of the same rice can differ."
+            "why": "B and C were meant to be the same. Their small gap shows how big a gap chance alone can make. A real difference between rice kinds should be much bigger than that. Choosing 'different kinds' usually means ignoring that two spoonfuls of the same rice can differ."
           },
           "context": "In this step, you draw the lengths as dots, so you can compare the piles at a glance."
         },
@@ -1958,13 +1958,13 @@
           "do": "Round 1. Your child feels each box and sorts them into a Heavy pile of four and a Light pile of four. The helper counts how many heavy boxes were found, without saying which. Repeat for five rounds, re-shuffling each time.",
           "say": "Feel each box. Sort them into Heavy and Light, four in each pile. Then the helper counts how many heavy boxes you found.",
           "kid": "Feel each box. Make a Heavy pile and a Light pile.",
-          "parent": "Do not tell the child which boxes were right until all five rounds are finished. Telling them would help them learn, and it would not be a test.",
+          "parent": "Do not tell the child which boxes were right until all five rounds are finished. If you tell them, they learn from it, and then it is no longer a fair test.",
           "context": "In this step, you sort the boxes five times, and the helper writes down how many heavy boxes you found each time."
         },
         {
           "id": "s4",
           "mins": 6,
-          "do": "Now simulate pure luck. Put 4 red and 4 blue slips in a bowl. Draw 4 slips without looking. Count the red ones. Do this ten times, putting the slips back each time. Write down the ten counts.",
+          "do": "Now find out what pure luck gives. Put 4 red and 4 blue slips in a bowl. Draw 4 slips without looking. Count the red ones. Do this ten times, putting the slips back each time. Write down the ten counts.",
           "say": "Now we find out what luck gives. Draw four slips from the bowl. Count the red ones. Put them back. Do it ten times.",
           "kid": "Draw four slips. Count the red ones. Do it ten times.",
           "ask": [
@@ -1987,7 +1987,7 @@
           "parent": "With only five rounds, your result may look like luck even if your hands are good. Say so. More rounds would help.",
           "check": {
             "t": "mcq",
-            "q": "In pure luck, which count is the most common for the number of heavy boxes found among four?",
+            "q": "If you sort the boxes by pure luck, how many of the four heavy boxes will you find most often?",
             "options": [
               "2",
               "4",
@@ -2139,7 +2139,7 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Read cases 4 to 6 aloud. Case 4: in 1965 a chemist made a cloudy, thin liquid that others would throw away. She had it spun anyway. Case 5: a fifth strip held 80 coins when the others held 20, because the helper added coins by mistake. Case 6: a cloth lasted 20 rubs one time and 90 the next, with no known reason.",
+          "do": "Read cases 4 to 6 aloud. Case 4: in 1965 a chemist made a cloudy, thin liquid that others would throw away. She had it spun into a fibre anyway. Case 5: a fifth strip held 80 coins when the others held 20, because the helper added coins by mistake. Case 6: a cloth lasted 20 rubs one time and 90 the next, with no known reason.",
           "say": "Read the last three cases. Which odd results are mistakes? Which could be discoveries?",
           "kid": "Read three more cases. Mistake or discovery?",
           "ask": [
@@ -2179,7 +2179,7 @@
           "do": "Share the rule you wrote. Ask what a scientist loses if she deletes every odd result.",
           "say": "Read out your rule. What might a scientist lose if she deletes every odd result?",
           "kid": "Read your rule aloud.",
-          "context": "In this step, you share your rule and talk about what is at risk."
+          "context": "In this step, you share your rule and talk about what a scientist loses by deleting odd results."
         }
       ]
     },
@@ -2243,8 +2243,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Show your child the four papers. Ask for a guess and a reason. Which paper will hold the most when dry? Which when wet? Will the order change?",
-          "say": "Four papers. Dry and wet. Which holds most when dry? Which holds most when wet? Will the order change? Why do you think so?",
-          "kid": "Four papers. Dry and wet. Will the order change? Why?",
+          "say": "We will test four papers, dry and wet. Which holds most when dry? Which holds most when wet? Will the order change? Why do you think so?",
+          "kid": "We will test four papers, dry and wet. Will the order change? Why?",
           "ask": [
             {
               "q": "Why do you think wetting will change the order?",
@@ -2271,7 +2271,7 @@
           "id": "s3",
           "mins": 12,
           "do": "Draw four chits for the order. For each paper, test one dry strip. Dip a second strip in water for 10 seconds. Let it drip for 5 seconds. Then test it wet. Pour water slowly, in a steady stream, until the strip tears. Measure the water in the cup.",
-          "say": "Pour slowly and steadily into the cup. Stop when the strip tears. Pour the water in the cup into the medicine cup. Write the millilitres.",
+          "say": "Pour slowly and steadily into the cup. Stop when the strip tears. Then pour the water from the hanging cup into the medicine cup to measure it. Write the millilitres.",
           "kid": "Pour slowly. Stop when it tears. Measure the water.",
           "parent": "A wet strip may tear at the peg. If it slips out, note it and try a new strip. Tissue paper may tear very early, with only a spoon of water. A strip as narrow as 1 centimetre is used because wide strips of paper are very strong. If a strip carries a full cup without tearing, write 'cup full' with the millilitres, which means that paper is stronger than the rig; do not hide it. Pour over a plate and wipe up spills so nobody slips. Roles: one pours, one holds the cup steady, one writes; with one child and a parent, the child pours.",
           "context": "In this step, you test each paper dry and wet. One millilitre of water weighs about one gram."
@@ -2294,7 +2294,7 @@
           ],
           "check": {
             "t": "mcq",
-            "q": "A paper bag for rainy days: which test should you trust?",
+            "q": "You want a paper bag for rainy days. Which test should you trust?",
             "options": [
               "The wet test, because rain makes bags wet",
               "The dry test, because it is easier",
@@ -2531,9 +2531,9 @@
           "id": "s3",
           "mins": 16,
           "do": "Build the first gadget. Drop the ball ten times through it, in a random order mixed with hand drops. Read each bounce. Write the numbers.",
-          "say": "Build your gadget. Test it ten times. Mix with some hand drops. Draw the order from a bowl.",
+          "say": "Build your gadget. Test it ten times. Mix the gadget drops with hand drops. Draw the order from a bowl.",
           "kid": "Build the gadget. Test it ten times.",
-          "parent": "Mixing hand drops and gadget drops in a random order stops the ball warming up or the tester getting better from favouring one.",
+          "parent": "Mix hand drops and gadget drops in a random order. Otherwise the ball warming up, or the tester getting better with practice, could favour one kind of drop.",
           "context": "In this step, you build and test your gadget."
         },
         {
@@ -2575,7 +2575,7 @@
       ],
       "general": [
         "Write the recipe as numbered steps, with every size and amount.",
-        "Draw the picture for each step, like the step pictures in this unit.",
+        "Draw a picture for each step, like the step pictures in this unit.",
         "Add a results table to the recipe so the friend writes in the same format."
       ],
       "creative": [
@@ -2978,7 +2978,7 @@
             "Add the numbers together"
           ],
           "a": 0,
-          "why": "Different methods give different numbers. A standard test fixes the method, so labs can agree. Believing one lab without checking is a bet.",
+          "why": "Different methods give different numbers. A standard test fixes the method, so labs can agree. Believing one lab without checking is only a guess.",
           "outcome": 5
         },
         {
@@ -3118,7 +3118,7 @@
           "t": "write",
           "p": "In the Secret Code Test, all four cloth squares were cut from one cloth. Explain why people could still give different scores.",
           "lines": 4,
-          "a": "The label can push a person's score up or down without them knowing, which is bias. Also, touch is rough. A person's score can wobble from one moment to the next, even for the same square. The blind round shows how much is just wobble.",
+          "a": "The label can push a person's score up or down without them knowing, which is bias. Also, judging by touch is not exact. A person's score can wobble from one moment to the next, even for the same square. The blind round shows how much is just wobble.",
           "why": "Scores include a push from the label and a wobble from the person. The blind round takes away the push."
         },
         {
@@ -3188,7 +3188,7 @@
       "items": [
         {
           "t": "mcq",
-          "p": "In the Eight Matchboxes game, 4 of 8 boxes are heavy. A player picks 4 boxes at random. There are 70 ways to pick 4 boxes from 8. In how many of these 70 ways are all 4 chosen boxes heavy?",
+          "p": "In the Eight Matchboxes activity, 4 of 8 boxes are heavy. A player picks 4 boxes at random. There are 70 ways to pick 4 boxes from 8. In how many of these 70 ways are all 4 chosen boxes heavy?",
           "opts": [
             "1",
             "4",
@@ -3273,7 +3273,7 @@
               "Breaks it"
             ],
             [
-              "Shining ultrasound into a railway line",
+              "Sending ultrasound (sound too high to hear) into a railway line to look for cracks",
               "Leaves it whole"
             ],
             [
@@ -3459,7 +3459,7 @@
     },
     {
       "t": "mcq",
-      "p": "Why is a helper who knows the secret list not the tester?",
+      "p": "In a blind test, a helper keeps the secret list. Why must the helper not be the tester?",
       "opts": [
         "The tester must not know which sample is which, so hopes cannot nudge the result",
         "The helper is better at measuring",
@@ -3757,7 +3757,7 @@
     {
       "problem": "In the Rub Test, the middle values of rubs until a hole were: thin cotton 45, polyester 70, kitchen duster 62 and old jeans 100 or more. A cloth is rubbed 40 times a minute. How many minutes does the polyester need to reach its middle value? And how many minutes of rubbing does thin cotton need?",
       "answer": "Polyester: 70 divided by 40 is 1 and three-quarter minutes, which is about 1 minute 45 seconds. Thin cotton: 45 divided by 40 is a little over 1 minute.",
-      "explain": "70 divided by 40 is 1.75 minutes, which is 1 minute and 45 seconds. 45 divided by 40 is 1.125 minutes, which is about 1 minute 8 seconds. So the whole wear test for cotton takes about a minute, but copies much longer of real use.",
+      "explain": "70 divided by 40 is 1.75 minutes, which is 1 minute and 45 seconds. 45 divided by 40 is 1.125 minutes, which is about 1 minute 8 seconds. So the whole wear test for cotton takes about a minute, but it copies a much longer time of real use.",
       "math_unit": "math.time.duration.L4",
       "how": "e3",
       "context": "In the Rub Test, you slide a cloth-covered katori along sandpaper and count rubs until a hole shows.",
@@ -3790,7 +3790,7 @@
       "why_maths": "A test number becomes more useful when you divide it by cost. It shows that the best material depends on more than one number."
     },
     {
-      "problem": "A lift cable is made so that its middle piece breaks at 20 tonnes and its weakest piece at 14 tonnes. The lift carries at most 2 tonnes. How many times bigger than the load is the weakest piece, and how many times bigger is the middle piece?",
+      "problem": "A lift cable is made so that its middle piece breaks at 20 tonnes and its weakest piece at 14 tonnes. The lift carries at most 2 tonnes. How many times the load can the weakest piece hold? How many times the load can the middle piece hold?",
       "answer": "The weakest piece is 7 times the load. The middle piece is 10 times the load.",
       "explain": "14 divided by 2 is 7. 20 divided by 2 is 10. A safety factor of 7 is the smaller of the two, and it is the one engineers trust. The gap between 7 and 10 shows why the spread matters.",
       "math_unit": "math.division.division-facts.L4",
@@ -3988,28 +3988,28 @@
     ]
   },
   "roots": {
-    "context": "We have dropped balls, drawn dots, and learned that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.",
+    "context": "In this unit you drop balls, draw every bounce as a dot, and learn that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.",
     "deep_truth": {
       "truth": "Drop one ball ten times and you get ten different heights. Often the wobble in one ball is wider than the gap between two balls. So a ball has no single bounce. It has a habit, a range of bounces.",
       "habit": "We say 'this ball bounces 31 centimetres' or 'this paper holds 14 coins' as if one number belonged to the thing, like its colour. That leaves out the wobble every test shows.",
       "evidence": "In the Bounce Test, each ball's ten drops spread over several centimetres, and some balls' ranges overlapped. In made-up results, the rubber ball and the table-tennis ball overlapped almost completely. Your own dots will show how wide your wobble is. Write them as they are."
     },
     "three": {
-      "who_am_i": "You never run to the gate in exactly the same time twice. What you can do is a range, and so is what you are like, from day to day.",
-      "what_is_life": "Seeds from one packet sprout on different days, in the same pot. This variation is how a group of living beings can meet a late monsoon, a new disease or a hot summer.",
-      "what_is_this_world": "Even a ball, with no choice at all, will not do the same thing twice. Many tiny causes, such as a speck of dust or a slightly different touch, add up. The world repeats its patterns, but never exactly."
+      "who_am_i": "You never run to the gate in exactly the same time twice. So what you can do is not one number. It is a range. What you are like also changes a little from day to day.",
+      "what_is_life": "Seeds from one packet sprout on different days, in the same pot. Because of this variation, some of a group of living beings can get through a late monsoon, a new disease or a hot summer.",
+      "what_is_this_world": "Even a ball, which makes no choices, does not do exactly the same thing twice. Many tiny causes, such as a speck of dust or a slightly different touch, add up. The world repeats its patterns, but never exactly."
     },
-    "thread": "Every test in this unit gave a spread. The same ball, the same strip and the same grain of rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a habit that shows up as a range. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the habit, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.",
+    "thread": "Every test in this unit gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a habit that shows up as a range. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the habit, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.",
     "teachings": [
       {
         "source": "Heraclitus of Ephesus, a Greek thinker of about 500 BCE (reported by later writers)",
-        "teaching": "Heraclitus is reported to have said that you cannot step into the same river twice, because other and still other waters flow on those who step in.",
-        "link": "The same ball dropped from the same hand is a different drop each time. A pattern can stay, while each case is new."
+        "teaching": "Heraclitus is reported to have said that you cannot step into the same river twice, because new water keeps flowing past whoever steps in.",
+        "link": "The same ball dropped from the same hand is a different drop each time. The pattern stays the same, but each drop is new."
       },
       {
         "source": "Richard Feynman, in a talk to graduates at Caltech, 1974",
         "teaching": "The first principle is that you must not fool yourself, and you are the easiest person to fool.",
-        "link": "A blind test with secret codes is a way of not fooling yourself. It takes your hopes out of the room."
+        "link": "A blind test with secret codes is a way of not fooling yourself. It stops your hopes from changing the result."
       },
       {
         "source": "Thiruvalluvar, Tirukkural, couplet 423",
@@ -4038,11 +4038,11 @@
     "practice": {
       "title": "Ten claps, none the same",
       "mins": 3,
-      "say": "Sit comfortably. Clap your hands once, and listen. Now clap nine more times, trying to make each clap exactly the same. Listen to each one. No two are quite alike. Now breathe in slowly and out slowly three times. Notice that no two breaths are alike either. You are a pattern that repeats, but never in exactly the same way.",
+      "say": "Sit comfortably. Clap your hands once, and listen. Now clap nine more times, trying to make each clap exactly the same. Listen to each one. No two are quite alike. Now breathe in slowly and out slowly three times. Notice that no two breaths are alike either. You do the same things again and again, but never in exactly the same way.",
       "kid": "Clap ten times. Try to make every clap the same. Listen. No two are alike. Now breathe three times. No two breaths are alike either."
     },
     "ask": [
-      "Does a ball have a bounce, or does it only have a habit of bouncing?",
+      "Does a ball have one bounce height, or does it only have a range of bounce heights?",
       "If we could make a perfect test with no wobble, would the ball bounce the same each time?",
       "Is the spread in a group of living beings a problem, or something they need?"
     ],

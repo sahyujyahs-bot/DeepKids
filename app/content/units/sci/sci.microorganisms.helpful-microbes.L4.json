@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "I can explain that fermentation is done by living microbes that eat sugar and make gas, acid or alcohol.",
-  "I can say which microbe makes curd, idli batter and bread rise, and what each one makes.",
+  "I can say which microbes set curd and which make idli batter and bread rise, and what each one makes.",
   "I can run a fair test that changes one thing at a time, record the results in a table and draw a line graph.",
   "I can explain why microbes need food, water and the right warmth, and why too much heat kills them.",
   "I can tell fermented food from spoiled food, and say when food must be thrown away.",
@@ -36,7 +36,7 @@
   },
   {
    "term": "Fungus",
-   "meaning": "A living being that feeds by absorbing food from what they grow on. Mushrooms, moulds and yeast are fungi.",
+   "meaning": "Fungi are living beings that take in food from whatever they grow on. Mushrooms, moulds and yeast are fungi.",
    "example": "Yeast, a single-celled fungus, makes bread dough rise.",
    "art": "A mushroom, a patch of mould on bread, and a single yeast cell, each labelled fungus."
   },
@@ -54,7 +54,7 @@
   },
   {
    "term": "Carbon dioxide",
-   "meaning": "An invisible gas with no smell. People and other animals breathe it out, and yeast and bacteria make carbon dioxide when they ferment.",
+   "meaning": "An invisible gas with no smell. People and other animals breathe it out. Yeast and bacteria make it when they ferment food.",
    "example": "The bubbles in idli batter and in a fizzy drink are carbon dioxide.",
    "art": "Bubbles rising from a yeast and sugar mixture inside a clear glass."
   },
@@ -108,7 +108,7 @@
   },
   {
    "term": "Control",
-   "meaning": "The part of an experiment where you change nothing, so you can compare what happens.",
+   "meaning": "The part of an experiment that is left without the thing you are testing, so you can compare the other parts with it.",
    "example": "In the yeast test, the bottle with no yeast is the control.",
    "art": "Four bottles in a row with a label on one that says no yeast: the control."
   },
@@ -162,7 +162,7 @@
   {
    "concept": "Idli and dosa batter: a team of microbes",
    "status": "defined",
-   "definition": "Idli and dosa batter ferments because many kinds of bacteria and yeast, which arrive on the rice, dal, utensils and air, eat the sugars in the batter.",
+   "definition": "Idli and dosa batter ferments because many kinds of bacteria and yeast eat the sugars in the batter. They arrive on the rice, the dal and the utensils, and from the air.",
    "description": "Nobody adds yeast or bacteria to most home-made batter. Microbes are already on the urad dal, the rice and the grinder. Once the batter is mixed and kept in a warm place, they begin to eat. Scientists have studied idli batter in many kitchens. They found that a bacterium called Leuconostoc is often the main gas-maker, with other lactic acid bacteria and some yeasts working alongside. The mix is slightly different in every kitchen. The microbes make carbon dioxide gas and lactic acid. The urad dal makes the batter sticky, so the gas stays trapped in tiny bubbles. Steaming then kills the microbes and sets the idli into a soft, spongy cake.",
    "examples": [
     "The batter rises in a few hours in a warm Chennai kitchen.",
@@ -176,7 +176,7 @@
    "concept": "What microbes need: food, water and the right warmth",
    "status": "defined",
    "definition": "Microbes grow best with food, water and the right warmth. Cold slows them down, and too much heat kills them.",
-   "description": "Every living being needs food, water and a place to live, and microbes are the same. Most helpful microbes in the kitchen grow best at about the warmth of a warm room, around 30 to 40 degrees Celsius. In the fridge, at about 4 degrees, they still live but grow very slowly. That is why the fridge keeps food fresh for longer. Above about 50 degrees, most of them begin to die. At the temperature of boiling water, most of them are killed in minutes. That is why we boil milk before making curd, and why we cool it down before adding the starter. If the milk is too hot, the bacteria in the starter would die. The rule is the same for yeast.",
+   "description": "Every living being needs food, water and a place to live, and microbes are the same. Most helpful microbes in the kitchen grow best at about the warmth of a warm room, around 30 to 40 degrees Celsius. In the fridge, at about 4 degrees, they still live but grow very slowly. That is why the fridge keeps food fresh for longer. Above about 50 degrees, most of them begin to die. At the temperature of boiling water, most of them are killed in minutes. That is why we boil milk before making curd, and why we cool it down before adding the starter. If the milk is too hot, the bacteria in the starter die. The rule is the same for yeast.",
    "examples": [
     "Curd sets overnight in a warm kitchen, but takes much longer on a cold winter morning.",
     "Dry yeast stirred into boiling water dies and does not make bubbles.",
@@ -204,7 +204,7 @@
    "definition": "Fermented food has been changed by microbes that we want. Spoiled food has been changed by microbes that we do not want.",
    "description": "Both kinds of food are changed by microbes. The difference is which microbes, and whether we chose them. In curd and idli batter, the helpful microbes make acid. The acid makes it hard for harmful microbes to grow. That is one reason curd stays safe for days. Spoilage is different. It happens when unwanted microbes grow, often because food was left damp and warm for too long. Fuzzy mould, a slimy surface, an unpleasant smell or odd colours are signs of spoilage. If you are not sure, do not taste it. Throw it away. Never cut off the mould and eat the rest, because mould threads can spread deep into soft food.",
    "examples": [
-    "Sour smell from batter or curd is expected.",
+    "A sour smell from batter or curd is normal.",
     "Fuzzy green, white, black or pink patches on bread, chapati or curd mean it must be thrown away.",
     "Leftover rice left in a warm kitchen all day can grow bacteria that cause food poisoning."
    ],
@@ -250,7 +250,7 @@
    "concept": "Other jobs of helpful microbes",
    "status": "defined",
    "definition": "Microbes also break down dead plants and animals in the soil, clean water, and make medicines.",
-   "description": "Without microbes, the world would be buried under dead leaves and animals. Bacteria and fungi in soil and compost break dead material into simple parts that plants take up again. Sewage plants use microbes to clean dirty water. In 1928, Alexander Fleming noticed that a Penicillium mould on a dish had killed the bacteria around the mould. This led to penicillin, the first antibiotic. Dorothy Hodgkin worked out the shape of the penicillin molecule in 1945. In 1954, India began making penicillin at Hindustan Antibiotics in Pimpri, near Pune. Antibiotics kill bacteria, but they do not work against viruses such as colds and flu.",
+   "description": "Without microbes, the world would be buried under dead leaves and animals. Bacteria and fungi in soil and compost break dead material into simple parts that plants take up again. Sewage plants use microbes to clean dirty water. In 1928, Alexander Fleming noticed that a Penicillium mould on a dish had killed the bacteria around the mould. This led to penicillin, the first antibiotic. Dorothy Hodgkin worked out the shape of the penicillin molecule in 1945. In 1954, India began making penicillin at Hindustan Antibiotics in Pimpri, near Pune. Antibiotics kill bacteria, but they do not work against illnesses caused by viruses, such as colds and flu.",
    "examples": [
     "Compost heaps get warm because decomposers are working hard.",
     "Penicillin comes from the Penicillium mould.",
@@ -263,9 +263,9 @@
    "concept": "Choosing our microbes: pasteurised milk and starters",
    "status": "defined",
    "definition": "Pasteurising milk kills most harmful microbes by gentle heating. After that, we choose the microbes we want by adding a starter.",
-   "description": "Raw milk from a cow can carry harmful bacteria. Heating milk to boiling kills most of them, and packet milk is pasteurised in a factory, which means it is heated just enough to kill harmful ones. Louis Pasteur showed in the 1860s that gentle heating could stop wine from going sour, by killing the microbes that spoil it. The word pasteurise comes from his name. Later, dairies used the same idea for milk. After heating, the milk has almost no microbes left. We then add a spoonful of curd, which has the lactic acid bacteria we want. These bacteria grow fast, make acid, and leave little room for others. Cooks have used the same idea for centuries, long before anyone knew why it worked. They kept a bit of the last batch to begin the next.",
+   "description": "Raw milk from a cow can carry harmful bacteria. Boiling the milk kills most of them. Packet milk is pasteurised in a factory, which means it is heated just enough to kill the harmful ones. Louis Pasteur showed in the 1860s that gentle heating could stop wine from going sour, by killing the microbes that spoil it. The word pasteurise comes from his name. Later, dairies used the same idea for milk. After heating, the milk has almost no microbes left. We then add a spoonful of curd, which has the lactic acid bacteria we want. These bacteria grow fast, make acid, and leave little room for others. Cooks have used the same idea for centuries, long before anyone knew why it worked. They kept a bit of the last batch to begin the next.",
    "examples": [
-    "A kitchen starter kept going for many years from one batch of curd.",
+    "A kitchen starter can be kept going for many years, all from one batch of curd.",
     "Packet curd is made in a dairy with chosen bacteria added to pasteurised milk.",
     "Sourdough bread uses a starter that has been fed with flour and water for days, years or even centuries."
    ],
@@ -340,7 +340,7 @@
   {
    "q": "When you make curd, who makes it: you, or the bacteria?",
    "kind": "deep",
-   "hint": "Think about what you did, and what stayed the same when you did nothing."
+   "hint": "Think about what you did in the Curd Test, and what happened in cup D, which got no starter."
   },
   {
    "q": "If a spoon of curd is full of living bacteria, are we eating a food or a community?",
@@ -358,7 +358,7 @@
    "hint": "Think about where microbes come from: the dal, the rice, the grinder, the air."
   },
   {
-   "q": "Every living being sees the world through chemicals. What might sugar mean to a yeast cell?",
+   "q": "A yeast cell senses sugar and takes it in. What might sugar mean to a yeast cell?",
    "kind": "big",
    "hint": "Think about how a yeast cell finds, takes in and uses sugar."
   },
@@ -394,10 +394,10 @@
    "'Then what is wrong?' asked Uncle.",
    "Thara thought about what she knew. In Chennai, her grandmother's batter always rose by morning. In Chennai, the kitchen was warm even at night. She remembered how yeast made bubbles in warm sugar water, and not in cold. 'The batter is full of living microbes,' she said. 'They eat the sugar and make the gas. But they eat very slowly when it is cold. I think your kitchen is too cold for them.'",
    "'Microbes,' said Uncle. He looked at the pot. 'You mean there are tiny living things in there?'",
-   "'Yes. The dal and the rice are covered in them. They were asleep all night, almost. They need a warm place.'",
+   "'Yes. The dal and the rice are covered in them. They were almost asleep all night. They need a warm place.'",
    "Reena Aunty thought for a moment. 'The oven,' she said. 'If I switch on only the little light inside, it gets warm, like the inside of a cupboard in summer.'",
    "Thara put her hand inside the oven after a few minutes. It felt as warm as a kitchen in Chennai. They put the pot in, closed the door, and left a note on the oven so that nobody would switch on the heat.",
-   "That evening, they lifted the lid. The batter had risen right to the top, and the top was covered in tiny bubbles. It smelled a little sour, exactly like her grandmother's kitchen in Chennai Thara put her ear close, and heard a very quiet fizzing, like tiny bubbles popping.",
+   "That evening, they lifted the lid. The batter had risen right to the top, and the top was covered in tiny bubbles. It smelled a little sour, exactly like her grandmother's kitchen in Chennai. Thara put her ear close, and heard a very quiet fizzing, like tiny bubbles popping.",
    "They steamed the idlis and everyone ate them hot. Raghu Uncle ate four. 'I was wrong about the baking soda,' he said. 'The batter was not broken. It was just cold.'",
    "Thara smiled. 'The batter was alive all the time. It just needed to be warm.'",
    "Before bed, Thara told Reena Aunty one more thing her grandmother did. She always kept a spoonful of the old batter, to stir into the next one. 'She calls it the starter,' said Thara. 'It is already awake.' Reena Aunty found a small steel cup and set a spoonful of batter aside, in the fridge.",
@@ -419,7 +419,7 @@
  "roots": {
   "context": "We have tested what yeast and curd bacteria need, and learned how they change our food. Now we ask what this tells us about who does the work, and who we are.",
   "deep_truth": {
-   "truth": "In the curd test, milk with a spoon of old curd set. The same milk without a spoon stayed milk. The spoon carried living bacteria, who changed the milk as they ate the sugar in the milk. A cook only makes the warm, sweet place where they can work.",
+   "truth": "In the Curd Test, milk with a spoon of old curd set. The same milk with no old curd stayed milk. The old curd carried living bacteria, who changed the milk as they ate the sugar in it. A cook only makes the warm, sweet place where they can work.",
    "habit": "We say 'I made the curd' and 'the dough rose' as if the cook did all the work. The cook prepared the place. Living beings we cannot see did the changing.",
    "evidence": "In the curd test, the cup with a starter set and the cup with no starter stayed liquid. In the yeast test, the bottle with no yeast made no gas. If your own results differ, write them down as they are and test again."
   },
@@ -433,11 +433,11 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "A father asks his son to put salt in water, and to bring the water back the next morning. The salt cannot be seen. But the father asks the son to taste the water from the top, the middle and the bottom, and it is salty everywhere. The father teaches that something unseen can be in everything.",
-    "link": "You cannot see the microbes in batter, but you know they are there because of what they do: the bubbles, the sour smell and the rise. The unseen is not absent."
+    "link": "You cannot see the microbes in batter, but you know they are there because of what they do: the bubbles, the sour smell and the rise. Something you cannot see can still be there."
    },
    {
     "source": "Thich Nhat Hanh, Peace Is Every Step (1991), chapter on interbeing",
-    "teaching": "Thich Nhat Hanh asks us to look deeply at a sheet of paper. If you look carefully, you can see a cloud, the sun and a tree inside the paper. Nothing exists alone.",
+    "teaching": "Thich Nhat Hanh asks us to look deeply at a sheet of paper. He says that if you look carefully, you can see a cloud, the sun and a tree in the paper, because the paper could not exist without them. Nothing exists alone.",
     "link": "In a bowl of curd you can find the grass the cow ate, the farmer, the sun and the bacteria. Each one is needed for the curd to exist."
    },
    {
@@ -467,7 +467,7 @@
    "kid": "Hold your ear near the bowl. Close your eyes. Listen for a tiny fizz. Breathe in slowly three times. Many tiny beings are working in there."
   },
   "ask": [
-   "If a spoon of curd carries the bacteria, is the new curd a new thing, or a continuing one?",
+   "If a spoon of curd carries the bacteria, is the new curd something new, or the old curd carrying on?",
    "When you eat curd, are you eating a food, or meeting a community?",
    "What might a yeast cell be doing at the moment sugar arrives?"
   ],
@@ -620,7 +620,7 @@
     "Works well means the microbes are growing fast. Slows down means they are alive but working slowly. Stops means they cannot work or are dead.",
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
     "Every other player puts one verdict token face down. Then everyone turns the tokens over together.",
-    "The reader turns the card around and reads the back. Every player whose token matches the first word of the back scores one point.",
+    "The reader turns the card around and reads the back. Every player whose token matches the verdict at the start of the back scores one point.",
     "With two players, the parent and the child swap roles after every card. The reader never guesses on their own card.",
     "After each card, the reader passes the reader's job to the player on their left.",
     "The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win."
@@ -630,7 +630,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
-     "say": "These cards show situations in a kitchen. Each player gets three tokens. Works well, Slows down, and Stops. We will guess what the microbes do.",
+     "say": "These cards show situations in a kitchen. Each player gets three tokens: Works well, Slows down and Stops. We will guess what the microbes do.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes three tokens.",
      "context": "This is the first step of Kitchen Verdict. You set up the cards and the tokens.",
      "parent": "A grown-up cuts the cards with scissors, or the children cut them with blunt scissors while you watch. If you cannot print, write the 24 cards on small pieces of paper. With one child, you play with them; with 2 to 4 children, the reader changes after every card."
@@ -643,7 +643,7 @@
      "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
      "ask": [
       {
-       "q": "Why do you think the microbes slowed down or stopped on that card?",
+       "q": "Think of a card where the microbes slowed down or stopped. Why do you think that happened?",
        "good": [
         "It was too cold.",
         "It was too hot.",
@@ -676,7 +676,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Play the last ten cards. When the pile is finished, count each player's points.",
-     "say": "Last cards. Think about what the microbes need on each card, and what the temperature is.",
+     "say": "These are the last cards. Think about what the microbes need on each card, and what the temperature is.",
      "kid": "Play the last cards. Count your points.",
      "context": "In this step, you finish the pile of cards and count the points."
     },
@@ -686,7 +686,7 @@
      "do": "Say who won. Ask your child which card surprised them most, and why.",
      "say": "Who got the most points? Which card surprised you most? Why did it surprise you?",
      "kid": "Who won? Which card surprised you most? Why?",
-     "think": "Which card would you change, and what would change the verdict?",
+     "think": "Pick one card. What would you change on it to get a different verdict?",
      "context": "This is the last step of Kitchen Verdict. You look back at the game."
     }
    ]
@@ -700,7 +700,7 @@
    "days": 1,
    "question": "Which bottle makes the most gas: yeast with sugar and warm water, yeast with no sugar, yeast with sugar in the cold, or sugar with no yeast?",
    "predict": "Before you start, guess. Which balloon will fill the most? Which will stay flat? Why do you think so?",
-   "fair_test": "Every bottle has the same size, 200 millilitres of water and the same kind of balloon. Bottle A has everything. Bottle B has no sugar. Bottle C is kept in the fridge. Bottle D has no yeast. Each bottle differs from A in only one way, so any difference in the balloons comes from that one thing. Bottle D is the control.",
+   "fair_test": "Every bottle is the same size, with 200 millilitres of water and the same kind of balloon. Bottle A has everything. Bottle B has no sugar. Bottle C is kept in the fridge. Bottle D has no yeast. Each bottle differs from A in only one way, so any difference in the balloons comes from that one thing. Bottle D is the control.",
    "results_table": [
     "Bottle",
     "What is in it",
@@ -750,7 +750,7 @@
     }
    ],
    "safety": "Use warm water, never hot, because hot water kills yeast and can scald. A grown-up checks the water first. Do not drink anything in the bottles. Keep the balloon away from the mouth, and do not blow into it. Wash hands after handling the yeast water. Keep burst balloon pieces away from children under five, because they can choke on them.",
-   "record": "Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle. The sizes are not promised: your own numbers are the result.",
+   "record": "Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle. There are no right sizes. Whatever you measure is your result.",
    "context": "In this experiment, you find out what yeast need to make gas. You change one thing at a time, and catch the gas in a balloon.",
    "setup": [
     {
@@ -798,8 +798,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Pour 200 millilitres of warm water into bottles A, B and D. Pour 200 millilitres of cold water into bottle C. Add two level teaspoons of sugar to A, C and D. Stir each until the sugar disappears.",
-     "say": "Warm water first, into A, B and D. Cold water goes into C. Now two teaspoons of sugar goes into A, C and D, but not into B. Stir until the sugar has dissolved.",
-     "kid": "Pour 200 millilitres of warm water into A, B and D. Pour cold water into C. Add one spoon of sugar to A, C and D. Stir.",
+     "say": "Warm water first, into A, B and D. Cold water goes into C. Now two teaspoons of sugar go into A, C and D, but not into B. Stir until the sugar has dissolved.",
+     "kid": "Pour 200 millilitres of warm water into A, B and D. Pour cold water into C. Add two teaspoons of sugar to A, C and D. Stir.",
      "parent": "Warm means about 40 degrees. You can hold a finger in it for 10 seconds. If it is too hot to hold, let it cool first. Hot water kills the yeast. Roles: with one child, you pour and your child stirs and labels. With 2 to 4 children, each child owns one bottle (A, B, C or D), adds its ingredients and measures its balloon; a grown-up checks the water.",
      "check": {
       "t": "mcq",
@@ -819,8 +819,8 @@
      "mins": 7,
      "do": "Add one level teaspoon of dry yeast to A, B and C. Do not add yeast to D. Swirl each bottle for 10 seconds. Fit a stretched balloon on each bottle. Put C in the fridge on a low shelf. Leave A, B and D on a tray in the kitchen.",
      "say": "Yeast goes into A, B and C, and not into D. Swirl each bottle. Now fit a balloon on the top of each one. The balloon will catch the gas.",
-     "kid": "Add one spoon of yeast to A, B and C. Not D. Swirl. Fit a balloon on each bottle. Put C in the fridge.",
-     "parent": "Dry yeast looks like tiny beige grains. Swirl gently so the bottle does not foam over. Leave nothing on top of bottle C in the fridge, so the balloon has room. Fit each balloon snugly over the neck, and add a rubber band if it is loose, because a leaking neck gives a false \"no gas\". If your yeast sachet is old, first test a pinch in a cup of warm sugar water: it should foam in 10 minutes.",
+     "kid": "Add one teaspoon of yeast to A, B and C. Do not add any to D. Swirl. Fit a balloon on each bottle. Put C in the fridge.",
+     "parent": "Dry yeast looks like tiny beige grains. Swirl gently so the bottle does not foam over. Leave nothing on top of bottle C in the fridge, so the balloon has room. Fit each balloon snugly over the neck, and add a rubber band if it is loose. If gas leaks out at the neck, the balloon stays flat even when the yeast are making gas. If your yeast sachet is old, first test a pinch in a cup of warm sugar water: it should foam in 10 minutes.",
      "context": "In this step, you add the yeast and put on the balloons. The balloon will catch any gas the yeast make."
     },
     {
@@ -870,7 +870,7 @@
    "title": "The Curd Test: does milk need a starter, and does it need warmth?",
    "mins": 38,
    "days": 2,
-   "question": "Does boiled milk set into curd without a starter? And does it set faster in a warm place, on the counter, or in the fridge?",
+   "question": "Does boiled milk set into curd without a starter? And where does it set fastest: in a warm place, on the counter or in the fridge?",
    "predict": "Before you start, guess. Which cup will set first? Which will not set at all? Why do you think so?",
    "fair_test": "Every cup has the same amount of the same milk, and the cups are the same kind. Cups A, B and C get the same amount of the same starter curd. They differ only in where they are kept: a warm place, the counter, or the fridge. Cup D gets no starter and is kept on the counter with B. Cup D is the control.",
    "results_table": [
@@ -916,7 +916,7 @@
     {
      "day": 1,
      "mins": 18,
-     "what": "Guess. Do this in the evening, around 8 or 9 pm. Boil and cool the milk. Fill the cups, add the starter to A, B and C, and put each cup in its place."
+     "what": "Do this in the evening, around 8 or 9 pm. Guess first. Then boil and cool the milk. Fill the cups, add the starter to A, B and C, and put each cup in its place."
     },
     {
      "day": 2,
@@ -924,7 +924,7 @@
      "what": "Morning check (7 minutes). Evening check and talk about the results (13 minutes)."
     }
    ],
-   "record": "Check each cup twice, once in the morning and once in the evening. Give each cup a number from 0 to 3, and write the smell.",
+   "record": "Check each cup twice, once in the morning and once in the evening. Each time, give the cup a number from 0 (runny like milk) to 3 (firm), and write down how it smells.",
    "context": "In this experiment, you find out what milk needs to turn into curd. You change the starter and the temperature, one at a time.",
    "setup": [
     {
@@ -973,7 +973,7 @@
      "mins": 10,
      "adult": true,
      "do": "A grown-up boils the milk, then lets it cool until a clean finger can stay in it for 10 seconds. Pour 150 millilitres into each of four cups. Label them A, B, C and D. Add one teaspoon of starter to A, B and C. Use a clean spoon each time. Stir gently. Do not add starter to D.",
-     "say": "The milk must be boiled first, then cooled to finger-warm. If it is too hot, it would kill the bacteria in the starter. Pour the same amount into each cup. Add a spoon of starter to A, B and C, and stir gently.",
+     "say": "The milk must be boiled first, then cooled to finger-warm. If it is too hot, it will kill the bacteria in the starter. Pour the same amount into each cup. Add a spoon of starter to A, B and C, and stir gently.",
      "kid": "Ask a grown-up to boil the milk. Let it cool to finger-warm. Fill four cups. Add starter to A, B and C. Not D.",
      "parent": "Too hot is worse than too cool. If the milk burns your finger, wait. Use a clean spoon for each cup so you do not carry starter into D.",
      "check": {
@@ -1001,7 +1001,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "The next morning, about 10 hours later, look at each cup without moving the plate far. Tilt each one a little. Give each cup a number: 0 for runny like milk, 1 for slightly thick, 2 for set but soft, 3 for firm. Smell each cup. Write down the numbers.",
+     "do": "The next morning, about 10 hours later, slide the plate aside just enough to look into each cup. Tilt each one a little. Give each cup a number: 0 for runny like milk, 1 for slightly thick, 2 for set but soft, 3 for firm. Smell each cup. Write down the numbers.",
      "say": "Tilt each cup gently, and see whether the top moves like milk or holds like a jelly. Give it a number from 0 to 3. Then smell it. What do you notice?",
      "kid": "Tilt each cup gently. Give it a number from 0 to 3. Smell it. Write what you find.",
      "ask": [
@@ -1020,7 +1020,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "In the evening, about 10 hours after the morning check, look at each cup again. Tilt, give each cup a number and smell it. Write down the numbers. Taste a small spoonful only from a cup that has set well.",
+     "do": "In the evening, about 10 hours after the morning check, look at each cup again. Tilt each cup, give it a number from 0 to 3 and smell it. Write down the numbers. Taste a small spoonful only from a cup that has set well.",
      "say": "Check the cups again. Which ones changed since the morning? Which stayed the same? Taste only a cup that has set well, and only a small spoon.",
      "kid": "Check the cups again. Give each a number. Smell each one. Taste only a cup that has set well.",
      "parent": "Cup C in the fridge may be thicker than in the morning, but is usually still runny. Cup D may smell slightly sour. That comes from other microbes that landed in it. Do not taste D.",
@@ -1042,7 +1042,7 @@
      "mins": 8,
      "do": "Ask your child to say what they thought, what they saw and why. Then sort the cups from the firmest to the runniest, and write which thing mattered more, the starter or the warmth.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Which mattered more, the starter or the warmth?",
-     "kid": "Say what you thought, what you saw, and why. Which mattered more?",
+     "kid": "Say what you thought, what you saw, and why. Which mattered more, the starter or the warmth?",
      "think": "How could you make curd in a very cold winter kitchen?",
      "parent": "A strong answer says that the starter was needed, because D did not set. Warmth made it faster, because A and B set before C. After they have said what they saw, explain: the bacteria in the starter eat milk sugar and make lactic acid. The acid makes the milk protein join into a net. Cold slows the bacteria down.",
      "context": "This is the last step of the Curd Test. You explain what you found."
@@ -1115,7 +1115,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Pour the batter into the jar until it is one third full. Slip a rubber band around the jar at the top of the batter. Measure the height with a ruler. Write the number down. Cover the jar loosely with a plate. If you have a second jar, fill it the same way and put it in the fridge. Ask for a guess and a reason.",
+     "do": "Pour the batter into the jar until it is one third full. Slip a rubber band around the jar at the top of the batter. Measure the height with a ruler. Write the number down. Cover the jar loosely with a plate. If you have a second jar, fill it the same way and put it in the fridge. Ask your child for a guess and a reason.",
      "say": "We will leave the batter overnight. How high do you think it will be in the morning? Why do you think so?",
      "kid": "Pour batter into the jar. Mark the top with a rubber band. Measure it. How high will it be tomorrow? Why?",
      "ask": [
@@ -1124,7 +1124,7 @@
        "good": [
         "Tiny living things in it make gas.",
         "Gas gets trapped in the batter.",
-        "It rises in the warm."
+        "Warmth helps it rise."
        ]
       }
      ],
@@ -1222,8 +1222,8 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Call a grandparent or an older relative, or ask a grown-up at home. Ask them to name foods that sit and change before they are eaten, such as curd, batter, pickle or bread. Fill in the table. Ask them to say one story about how they learned to make it.",
-     "say": "Which foods do you make where you leave them to change for a day or more? What are they made from? How do you know when they are ready?",
+     "do": "Call a grandparent or an older relative, or ask a grown-up at home. Ask them to name foods that sit and change before they are eaten, such as curd, batter, pickle or bread. Fill in the table. Ask them to tell one story about how they learned to make it.",
+     "say": "Which foods do you make that have to be left for a day or more to change? What are they made from? How do you know when they are ready?",
      "kid": "Ask your elder which foods they leave to change before eating. Ask how they know it is ready. Write it down.",
      "ask": [
       {
@@ -1236,8 +1236,8 @@
        ]
       }
      ],
-     "parent": "If nobody in the family makes fermented food, ask a neighbour or a shop owner. Idli, dosa, curd, pickle, bread, vinegar and kanji all count. People often know it by smell, sight and taste. With one child, you can ask and your child writes. With 2 to 4 children, one asks, one writes and one draws the map; each child can interview a different elder. Elders are glad to tell the stories behind a food.",
-     "context": "In this step, you interview someone. You collect the foods and how they know it is ready."
+     "parent": "If nobody in the family makes fermented food, ask a neighbour or a shop owner. Idli, dosa, curd, pickle, bread, vinegar and kanji all count. People often know a food is ready by smell, sight and taste. With one child, you can ask and your child writes. With 2 to 4 children, one asks, one writes and one draws the map; each child can interview a different elder. Elders are glad to tell the stories behind a food.",
+     "context": "In this step, you interview someone. You write down the foods, and how the person knows each one is ready."
     },
     {
      "id": "s3",
@@ -1306,10 +1306,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Walk through the kitchen with your child. First guess: out of all the foods you will see, how many were made with microbes? Find at least eight foods that you think were made with microbes. Write down the names.",
+     "do": "Walk through the kitchen with your child. First, ask your child to guess how many of the foods you will see were made with microbes. Then find at least eight foods that you think were made with microbes. Write down the names.",
      "say": "Let's look for foods that microbes helped to make. Curd and bread are easy. What else can you find?",
      "kid": "Look around the kitchen. Find foods you think microbes helped make. Write them down.",
-     "parent": "Easy finds: curd, buttermilk, bread, idli or dosa batter, cheese, soy sauce, and some pickles, which are fermented in salt. Tricky ones: oil-and-spice pickles are only preserved, and some cheap vinegar and soy sauce are made with chemicals, so the label decides. Ketchup is not fermented, but its vinegar is made by microbes. Papad is not fermented. Foods that are not: rice, plain milk, paneer, dal, fresh vegetables, sugar. With 2 to 4 children, each takes a shelf and then they compare. A grown-up opens the fridge and handles glass jars and knives.",
+     "parent": "Easy finds: curd, buttermilk, bread, idli or dosa batter, cheese, soy sauce, and some pickles, which are fermented in salt. Tricky ones: oil-and-spice pickles are only preserved, and some cheap vinegar and soy sauce are made with chemicals, so the label decides. Ketchup is not fermented, but its vinegar is made by microbes. Papad is not fermented. Foods that are not made with microbes: rice, plain milk, paneer, dal, fresh vegetables, sugar. With 2 to 4 children, each takes a shelf and then they compare. A grown-up opens the fridge and handles glass jars and knives.",
      "context": "This is the first step of Kitchen Safari. You search the kitchen."
     },
     {
@@ -1433,7 +1433,7 @@
        ]
       }
      ],
-     "parent": "Use cool water. Soaking is a good time to do other lessons. The grains are already covered with microbes that will wake up in the batter. Roles: with one child, your child washes and soaks while you grind and steam. With 2 to 4 children, one washes the rice, one the dal, one marks and measures the batter, and one greases the plates (grown-up fills them).",
+     "parent": "Use cool water. While the rice and dal soak, you can do other lessons. The grains are already covered with microbes that will wake up in the batter. Roles: with one child, your child washes and soaks while you grind and steam. With 2 to 4 children, one washes the rice, one the dal, one marks and measures the batter, and one greases the plates (a grown-up fills them).",
      "context": "This is the first step of Make Idli. You soak the rice and the dal."
     },
     {
@@ -1513,7 +1513,7 @@
    "id": "c1",
    "title": "Winter Batter: keep the batter warm in a cold kitchen",
    "mins": 40,
-   "problem": "It is winter, and your kitchen is cold. The batter needs to stay warm for 10 hours, about as warm as a spring day, to rise. Design a way to keep a pot warm without a flame, using only things you find at home.",
+   "problem": "It is winter, and your kitchen is cold. To rise, the batter needs to stay about as warm as a spring day for 10 hours. Design a way to keep a pot warm without a flame, using only things you find at home.",
    "constraints": [
     "Use only things you have at home.",
     "Never leave a flame or a hot stove on.",
@@ -1539,7 +1539,7 @@
     "Use a thermocol box from a delivery as a small oven, with a bottle of warm water inside.",
     "Stir in a spoonful of yesterday's batter. The microbes in it are already active, so they will begin quickly even in a cooler place."
    ],
-   "your_turn": "Test two ways to keep a bottle of warm water warm. Check it after 3 hours with your finger or a thermometer. Pick the best one. Then try it with a pot of batter overnight and check the batter in the morning.",
+   "your_turn": "Test two ways to keep a bottle of warm water warm. Check each bottle after 3 hours with your finger or a thermometer. Pick the best way. Then try it with a pot of batter overnight and check the batter in the morning.",
    "context": "This is a design challenge about microbes and warmth. You keep a pot of batter warm in a cold kitchen, without a flame.",
    "setup": [
     {
@@ -1581,8 +1581,8 @@
      "do": "Fill three identical bottles with the same warm water. Leave one bare. Wrap one in a towel. Wrap one in a towel and put it in a box. Leave them for 3 hours. Then feel each one, or measure it with a thermometer.",
      "say": "We are testing three ways to keep something warm. Which will stay warm the longest? Why do you think so?",
      "kid": "Fill three bottles with warm water. Wrap them in different ways. Check them in 3 hours.",
-     "parent": "The warm water should feel comfortable on your wrist. Not hot. The towel in the box will usually stay warmest, because wrapping slows the escape of heat.",
-     "context": "In this step, you test three ways of keeping warm."
+     "parent": "The warm water should feel comfortable on your wrist, not hot. The bottle wrapped in a towel inside the box will usually stay warmest, because wrapping slows the escape of heat.",
+     "context": "In this step, you test three ways of keeping a bottle of water warm."
     },
     {
      "id": "s3",
@@ -1737,7 +1737,7 @@
     },
     {
      "t": "count",
-     "p": "Meenakshi, a girl in Class 4 in Madurai, measures around a balloon on a bottle of yeast and sugar water. It is 4 centimetres at 10 minutes, 10 at 20 minutes and 16 at 30 minutes. How many centimetres did it grow between 10 and 30 minutes?",
+     "p": "A balloon on a bottle of yeast and sugar water measures 4 centimetres around at 10 minutes, 10 at 20 minutes and 16 at 30 minutes. How many centimetres did it grow between 10 and 30 minutes?",
      "a": "12",
      "why": "16 take away 4 is 12. The balloon grew by 12 centimetres, because the yeast kept making gas.",
      "outcome": 2
@@ -1890,7 +1890,7 @@
     },
     {
      "t": "count",
-     "p": "Lakshmi, a girl in Class 4 in Mysuru, finds that yeast in warm dough double in number every 90 minutes. She starts with 1 cell. How many cells are there after 6 hours?",
+     "p": "Yeast in warm dough double in number every 90 minutes. You start with 1 cell. How many cells are there after 6 hours?",
      "a": "16",
      "why": "6 hours is 360 minutes. 360 divided by 90 is 4 doublings. 1 doubled four times is 2, 4, 8, 16. So there are 16 cells.",
      "outcome": 3
@@ -1963,7 +1963,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali, a girl in Class 4 in Kochi, stirs dry yeast into boiling water and adds sugar. No bubbles appear. What is the best explanation?",
+     "p": "Dry yeast is stirred into boiling water, and sugar is added. No bubbles appear. What is the best explanation?",
      "opts": [
       "The heat killed the yeast",
       "Yeast cannot make gas",
@@ -2018,7 +2018,7 @@
      "t": "draw",
      "p": "Draw a bowl of curd with a spoon. Then draw a circle zoomed in on one drop, showing bacteria turning milk sugar into lactic acid.",
      "a": "A bowl of curd with a spoon, and a zoomed circle with small rod-shaped bacteria and arrows from a sugar to an acid.",
-     "why": "A strong drawing shows the bacteria and shows the change, from sugar into acid. It shows that these are tiny living beings, so they are drawn much too small to see in the bowl.",
+     "why": "A strong drawing shows the bacteria and shows the change, from sugar into acid. The bacteria appear only in the zoomed circle, because they are too small to see in the bowl.",
      "outcome": 1
     },
     {
@@ -2063,7 +2063,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 4 in Madurai, sets up four cups of milk. P has starter and is kept warm. Q has starter and is kept in the fridge. R has no starter and is kept warm. After 10 hours only P has set. What does this best show?",
+     "p": "Some cups of milk are set up. Cup P has starter and is kept warm. Cup Q has starter and is kept in the fridge. Cup R has no starter and is kept warm. After 10 hours only P has set. What does this best show?",
      "opts": [
       "Both a starter and warmth are needed",
       "A starter alone is enough",
@@ -2078,11 +2078,11 @@
      "p": "A new idli factory has to decide how to start its batter.",
      "views": [
       {
-       "who": "Chitra, a grandmother in Mysuru (an imagined view)",
+       "who": "A grandmother in Mysuru (an imagined view)",
        "says": "I always stir in a spoon of yesterday's batter. It carries the right microbes for our home, and it is free."
       },
       {
-       "who": "Meera, a food scientist (an imagined view)",
+       "who": "A food scientist (an imagined view)",
        "says": "In a factory we need the same idli every day. I would use a tested mix of microbes in measured amounts, so each batch is safe and the same."
       }
      ],
@@ -2245,9 +2245,9 @@
     },
     {
      "t": "count",
-     "p": "A dosa batter recipe uses 4 cups of rice for every 1 cup of dal. Preeti, a girl in Class 4 in Bengaluru, wants to use 3 cups of dal. How many cups of rice does she need?",
+     "p": "A dosa batter recipe uses 4 cups of rice for every 1 cup of dal. You want to use 3 cups of dal. How many cups of rice do you need?",
      "a": "12",
-     "why": "The recipe keeps the same ratio of 4 rice to 1 dal. 3 cups of dal is 3 times 1 cup, so she needs 3 times 4 cups of rice. 3 times 4 is 12.",
+     "why": "The recipe keeps the same ratio of 4 rice to 1 dal. 3 cups of dal is 3 times 1 cup, so you need 3 times 4 cups of rice. 3 times 4 is 12.",
      "outcome": 2
     }
    ]
@@ -2432,7 +2432,7 @@
   "Making cheese, which uses bacteria and sometimes moulds.",
   "Brewing and fermenting drinks such as kanji and kvass, and making vinegar.",
   "Making medicines such as penicillin from moulds.",
-  "Treating sewage so dirty water can be cleaned by microbes.",
+  "Using microbes to clean dirty water in sewage plants.",
   "Making compost from kitchen waste.",
   "Keeping food for longer without a fridge, as in fermented soybeans and pickled vegetables.",
   "Making vitamins and some other nutrients in factories with the help of microbes."
@@ -2558,16 +2558,16 @@
    "why_maths": "A line graph lets you see how fast something grows, and make a sensible guess about what comes next."
   },
   {
-   "problem": "A bacterium in warm milk splits into two every hour. Mehr, a girl in Class 4 in Hyderabad, starts with 5 bacteria. How many are there after 5 hours?",
+   "problem": "A bacterium in warm milk splits into two every hour. You start with 5 bacteria. How many are there after 5 hours?",
    "answer": "160 bacteria.",
    "explain": "The number doubles each hour. 5 becomes 10, then 20, then 40, then 80, then 160. That is 5 times 32, because doubling five times is multiplying by 32.",
    "math_unit": "math.patterns.number-patterns.L4",
    "why_maths": "This shows how quickly a small number of microbes can become a very large number, which is why a spoon of starter is enough to set a whole pot of milk."
   },
   {
-   "problem": "A dosa batter recipe uses 4 cups of rice for every 1 cup of dal. Preeti has 2 cups of dal. How many cups of rice does she need to keep the same ratio?",
+   "problem": "A dosa batter recipe uses 4 cups of rice for every 1 cup of dal. You have 2 cups of dal. How many cups of rice do you need to keep the same ratio?",
    "answer": "8 cups.",
-   "explain": "She has 2 times as much dal as the recipe. So she needs 2 times as much rice. 2 times 4 is 8.",
+   "explain": "You have 2 times as much dal as the recipe. So you need 2 times as much rice. 2 times 4 is 8.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "why_maths": "A ratio keeps the batter the same, however much you make. The right mix of rice and dal gives the right stickiness to hold the gas."
   },
@@ -2579,7 +2579,7 @@
    "why_maths": "You need to know how much starter to add so that there are enough bacteria to set the milk, and not too many to make it sour too fast."
   },
   {
-   "problem": "Sai sets curd at 9:30 in the evening. It sets after 9 hours and 15 minutes. At what time is it ready?",
+   "problem": "Milk with starter is left to set at 9:30 in the evening. It takes 9 hours and 15 minutes to set. At what time is the curd ready?",
    "answer": "6:45 in the morning.",
    "explain": "From 9:30 pm, 9 hours later is 6:30 am. Then 15 more minutes makes 6:45 am.",
    "math_unit": "math.time.duration.L4",
@@ -2597,7 +2597,7 @@
    "why_maths": "A fraction of the starting height tells you how much the batter rose, whatever the size of the jar."
   },
   {
-   "problem": "Five friends each did the Curd Test and counted how many homes had set curd by the morning. Use the bar chart. Cups B and D were kept in the same place, but only B had a starter. How many more homes had set curd in cup B than in cup D?",
+   "problem": "Five friends each did the Curd Test at home. The bar chart shows, for each cup, in how many homes the curd had set by the morning. Cups B and D were kept in the same place, but only B had a starter. In how many more homes did cup B set than cup D?",
    "answer": "4 more homes.",
    "explain": "The bar for cup B is 4 and the bar for cup D is 0. 4 minus 0 is 4. B and D were kept in the same place, so the difference comes from the starter.",
    "math_unit": "math.data.bar-charts.L4",
@@ -2721,7 +2721,7 @@
    "a": "Food, water and the right warmth."
   },
   {
-   "q": "Is fuzzy green mould on bread safe to cut off and eat the rest?",
+   "q": "Is it safe to cut fuzzy green mould off bread and eat the rest?",
    "a": "No. Throw the whole piece away."
   },
   {
@@ -2799,7 +2799,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For thousands of years, people made bread, curd and wine without knowing how it worked. In the 1830s, many scientists, including the famous German chemist Justus von Liebig, taught that fermentation was just chemistry. Sugar fell apart as it rotted, they said, and no living thing was needed. Louis Pasteur, a French chemist, did not agree. In 1857 he looked at fermenting milk under a microscope and saw tiny living things, which he said made the acid. In 1860 he showed that yeast cells grew and multiplied as sugar fermented. Then he boiled a sugar broth in a flask with a long, curved neck. Dust and microbes could not climb in, and the broth stayed clear for months. When he tipped the neck, microbes arrived and the broth turned cloudy. Fermentation needed living microbes.",
+  "story": "For thousands of years, people made bread, curd and wine without knowing how it worked. In the 1830s, many scientists, including the famous German chemist Justus von Liebig, taught that fermentation was just chemistry. They said sugar fell apart as it rotted, and no living thing was needed. Louis Pasteur, a French chemist, did not agree. In 1857 he looked at fermenting milk under a microscope and saw tiny living things, which he said made the acid. In 1860 he showed that yeast cells grew and multiplied as sugar fermented. Then he boiled a sugar broth in a flask with a long, curved neck. Dust and microbes could not climb in, and the broth stayed clear for months. When he tipped the neck, microbes arrived and the broth turned cloudy. This showed that fermentation needs living microbes.",
   "who": "Louis Pasteur, a French chemist (1822 to 1895)",
   "when": "1857 to 1861",
   "wrong_idea": "Many scientists thought fermentation was only chemistry, a kind of rotting with nothing alive in it. Pasteur showed that it stopped when the microbes were killed, and began again when they were let back in."
