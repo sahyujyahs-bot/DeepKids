@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, in a city flat, with the materials listed. The rot jar test gives each thing its own clear jar, pressed against the glass, so a child sees changes without digging. It uses soil from a pot where a plant has been growing for some months, or two handfuls from under a tree outside, because new packaged potting mix and cocopeat hold few microbes. The plastic is a strip of an empty milk packet, which every home has, instead of a thin carry bag. The cloth must be pure cotton, because polyester is a plastic. The soil must be damp like a squeezed sponge, not soggy, or the jar smells. The peel shows big changes within a week in warm months. In a cold winter, run the test for three to four weeks indoors. Cotton and paper change only a little in two weeks, which is a real result, so the table scores 'how much is left' from 5 to 0 instead of 'rotted or not'. The crayon test works only with wax crayons, and is heated in a bowl over hot water by a grown-up, never on a flame. The bag test uses 1-kilogram weights that most kitchens have (full 1-litre water bottles, or sealed 1 kg packets of atta, rice or dal), stops at 10 kilograms, and has a grown-up lift once a bag holds more than 3 kilograms. A thin plastic bag is often stronger than children expect, and the unit treats that honestly. The newspaper bag's bottom fold is hard, so a simpler fold is given. The T-shirt bag needs a grown-up for the thick cuts. Recycled paper needs 1 to 3 days to dry, and works without a mixer by hand-mashing. Both games were played through with two and with four players, and every card and square does something. The newspaper bag needs 30 minutes to dry with paste. Start the rot jar test on day 1, because it runs for two weeks.",
  "summary": {
-  "text": "A banana peel left on soil is gone in a few weeks. A plastic packet left in the same place is still there years later. The peel rots because soil microbes feed on it, using enzymes that fit its molecules. Almost no microbe has an enzyme that fits plastic yet. So the best plan is to make less waste in the first place. Next comes using things again and mending them, and recycling comes last. You will bury four things in jars of soil, act out a bottle's journey, and mend something at home.",
+  "text": "A banana peel left on soil is gone in a few weeks. A plastic packet left in the same place is still there years later. The peel rots because tiny living things in the soil, called microbes, feed on it. They cut it up with enzymes, which are tiny tools that fit the peel's molecules. Almost no microbe has an enzyme that fits plastic yet. So the best plan is to make less waste in the first place. Next comes using things again and mending them, and recycling comes last. You will bury four things in jars of soil, act out a bottle's journey, and mend something at home.",
   "art": "A child holding an empty plastic bottle, with a dotted path behind it winding past a kabadiwala's cart, a sorting shed, a factory and a T-shirt, and a second path going to a smoking dump. Above, a clear glass jar of soil with a blackened banana peel and an unchanged strip of milk packet pressed against the glass."
  },
  "intro": {
@@ -61,7 +61,7 @@
   },
   {
    "term": "Rot (decompose)",
-   "meaning": "When tiny living things feed on a dead plant or animal and break them down. What is left becomes part of the soil. Scientists call it decomposing.",
+   "meaning": "When tiny living things feed on dead plants or animals and break them down. What is left becomes part of the soil. Scientists call it decomposing.",
    "example": "A fallen mango left under a tree turns soft, brown and then disappears into the soil.",
    "art": "A fallen mango shown four times, each softer and browner, until only a dark patch of soil is left."
   },
@@ -190,7 +190,7 @@
    "concept": "Why peels rot: microbes and their enzymes",
    "status": "defined",
    "definition": "A peel rots because microbes, such as bacteria and fungi, feed on the peel. They use enzymes, tiny cutting tools, to cut its long molecules into small pieces they can eat.",
-   "description": "A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But a microbe has no mouth, and cannot swallow a whole chain. So they pour out enzymes all around them. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbe soaks the pieces in as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.",
+   "description": "A banana peel is made of long chain molecules, such as cellulose and starch. Microbes in the soil feed on them. But microbes have no mouths, and cannot swallow a whole chain. So they pour out enzymes all around them. Each enzyme is shaped to fit one kind of chain, like a key fits a lock. It snips the chain into small pieces. The microbes soak up the pieces as food. What is left over becomes part of the soil. Microbes have been feeding on dead plants and animals for hundreds of millions of years. So for almost everything that was once alive, some microbe somewhere has the right enzyme. Warmth, water and air help them work faster. That is why peels rot quickly in a warm, damp pot, and slowly in a dry desert.",
    "examples": [
     "Bread left in a damp box grows white and green fluffy mould. That mould is a fungus eating the bread.",
     "Leaves under a tree turn into dark soil in the monsoon.",
@@ -198,7 +198,7 @@
    ],
    "perspectives": [],
    "art": "A zoom in four steps: a banana peel in soil, threads of fungus on the peel, a single microbe releasing tiny scissor-shaped enzymes, and the enzymes snipping a long chain into small beads.",
-   "context": "In the jar test, the peel rots first. This card zooms in to show what is really eating it."
+   "context": "In the rot jar test, the banana peel rots first. This card explains what is eating it."
   },
   {
    "concept": "Why most plastic does not rot",
@@ -206,18 +206,18 @@
    "definition": "Most plastics do not rot because microbes have almost no enzymes that fit their molecules. Plastic molecules are a new kind of long chain. Most plastic has been made only in the last 75 years.",
    "description": "A plastic bag is made of very long chain molecules, mostly of carbon and hydrogen atoms. Their atoms hold on to each other very strongly. The chains pack tightly, and water cannot soak in. Microbes have had hundreds of millions of years to evolve enzymes for leaves, wood and bones. Most plastic has existed for less than 75 years. Almost no microbe has an enzyme that fits plastic. So a plastic bag in the soil just sits there. Sunlight and heat slowly crack it into smaller and smaller pieces. But tiny pieces are still plastic. Nobody has watched a bag for hundreds of years. So times on posters, like '450 years for a bottle', are rough guesses from tests.",
    "examples": [
-    "A milk packet in the jar test looks the same after two weeks.",
+    "In the rot jar test, a strip of milk packet buried in damp soil looks the same after two weeks.",
     "Old plastic buckets left in the sun go pale and brittle and crack. They do not turn into soil.",
     "Leo Baekeland made Bakelite, one of the first plastics made entirely from chemicals, in 1907. Most of the plastic in the world has been made since 1950."
    ],
    "perspectives": [],
    "art": "Two chains side by side under a magnifier: a peel chain with keyhole-shaped gaps that enzyme keys fit into, and a smooth plastic chain with no keyholes and an enzyme key bouncing off.",
-   "context": "In the jar test, the plastic does not change at all. This card explains why, by zooming in to its molecules."
+   "context": "In the rot jar test, the strip of milk packet does not change at all. This card explains why, by looking at the molecules plastic is made of."
   },
   {
    "concept": "Plastic breaks into microplastics, which travel everywhere",
    "status": "defined",
-   "definition": "Microplastics are pieces of plastic smaller than a grain of rice. Big plastic things break into them slowly, in sunlight, heat and rubbing.",
+   "definition": "Microplastics are pieces of plastic smaller than a grain of rice. Sunlight, heat and rubbing slowly break big plastic things into them.",
    "description": "In 2004, the British scientist Richard Thompson and his team gave these tiny pieces a name: microplastics. Since then, scientists have looked for them almost everywhere, and found them. They are in the deepest parts of the ocean. In 2019, climbers on Mount Everest collected snow on the way up. The British scientist Imogen Napper and her team tested it. They found microplastics as high as about 8,400 metres, close to the top. Wind, rivers and rain carry them. Fish, birds, turtles and tiny sea animals swallow them by mistake, along with their food. Scientists have also found them inside people. What they do inside bodies is still being studied.",
    "examples": [
     "A polyester T-shirt sheds tiny plastic threads every time it is washed.",
@@ -232,7 +232,7 @@
    "concept": "Where waste really goes in an Indian city",
    "status": "defined",
    "definition": "City waste goes along two main roads. Mixed waste is taken to a dumping ground. Sorted waste can be composted or sold for recycling, much of it by waste pickers and kabadiwalas.",
-   "description": "India's towns and cities throw out more than a lakh tonnes of waste every day. About half of it is wet waste, like peels and leftover food. The rest is dry: paper, plastic, metal, glass and cloth. When it is all mixed in one bag, the wet part soaks and spoils the paper. Then most of it goes to a dumping ground on the edge of the city. Ghazipur in Delhi began in 1984. By 2019 its hill of waste was about 65 metres high, almost as tall as the Qutub Minar. Inside dumps like this, wet waste rots without air and makes methane gas. It catches fire, and the smoke harms the people and animals nearby. When waste is sorted at home, it goes a better way. Wet waste can become compost or cooking gas. Dry waste is picked up by waste pickers and kabadiwalas. They sort it and sell it on to recycling factories. Indore, in Madhya Pradesh, sorts almost all its waste. It has been ranked India's cleanest city again and again since 2017.",
+   "description": "India's towns and cities throw out more than a lakh tonnes of waste every day. About half of it is wet waste, like peels and leftover food. The rest is dry: paper, plastic, metal, glass and cloth. When it is all mixed in one bag, the wet part soaks and spoils the paper. Then most of it goes to a dumping ground on the edge of the city. Ghazipur in Delhi began in 1984. By 2019 its hill of waste was about 65 metres high, almost as tall as the Qutub Minar. Inside dumps like this, wet waste rots without air and makes methane gas. The methane catches fire, and the smoke harms the people and animals nearby. When waste is sorted at home, it goes a better way. Wet waste can become compost or cooking gas. Dry waste is picked up by waste pickers and kabadiwalas. They sort it and sell it on to recycling factories. Indore, in Madhya Pradesh, sorts almost all its waste. It has been ranked India's cleanest city again and again since 2017.",
    "examples": [
     "A cow on the street eats a plastic bag with food inside. The plastic can block her stomach.",
     "A rinsed, dry milk packet can be sold. A milk packet full of sour milk and peels usually ends up in the dump.",
@@ -287,7 +287,7 @@
   {
    "concept": "Plastic-eating microbes and worms",
    "status": "debated",
-   "description": "In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named this bacterium Ideonella sakaiensis. Ideonella makes two enzymes that cut PET into small pieces, and then eats the pieces. Ideonella is slow, and took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, Federica Bertocchini, an Italian scientist working in Spain, noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that they seem to break down polyethylene, the plastic of most bags. How much they truly digest is still argued about.",
+   "description": "In 2016, a team of Japanese scientists led by Shosuke Yoshida and Kohei Oda made a surprise discovery. Near a bottle recycling plant in the city of Sakai, they found a bacterium living on PET plastic, the plastic of drinking bottles. They named this bacterium Ideonella sakaiensis. Ideonella makes two enzymes that cut PET into small pieces, and then eats the pieces. Ideonella is slow, and took about six weeks to eat a thin film of plastic. Scientists have since changed these enzymes to make them faster. And in 2017, Federica Bertocchini, an Italian scientist working in Spain, noticed that wax worms, the young of a moth, chewed holes in a plastic bag. She and her colleagues found that the worms seem to break down polyethylene, the plastic of most bags. Scientists still argue about how much plastic the worms truly digest.",
    "examples": [
     "A bacterium found near a Japanese recycling plant feeds on bottle plastic.",
     "Wax worms, which normally eat beeswax in beehives, chew through plastic bags."
@@ -376,7 +376,7 @@
  "agreed": [
   {
    "text": "Things that were once alive, like peels, paper and cotton, are rotted by microbes. Most plastics are not.",
-   "evidence": "Bury tests, done by scientists and by children, show peels and paper breaking down while plastic stays the same. Scientists have found and studied the enzymes that microbes use to do the cutting."
+   "evidence": "Scientists and children have both buried things in soil to test this. Peels and paper break down, while plastic stays the same. Scientists have found and studied the enzymes that microbes use to do the cutting."
   },
   {
    "text": "Reducing waste is better than recycling it.",
@@ -481,7 +481,7 @@
   {
    "q": "Why can a microbe eat a peel but not a plastic packet?",
    "kind": "deep",
-   "hint": "Think of keys and locks. What happens when someone invents a brand-new lock?"
+   "hint": "An enzyme fits a molecule like a key fits a lock. Plastic is like a brand-new lock. Does any microbe have a key for it yet?"
   },
   {
    "q": "If atoms are never destroyed, can anything really be thrown out?",
@@ -491,7 +491,7 @@
   {
    "q": "Long ago, wood may have piled up because few living things could rot it. Will life learn to eat plastic? Should we wait for it?",
    "kind": "deep",
-   "hint": "A bacterium that eats bottle plastic was found in 2016. How fast do you think they work?"
+   "hint": "A bacterium that eats bottle plastic was found in 2016. How fast do you think this bacterium works?"
   },
   {
    "q": "Is a broken thing finished? Who decides when a thing becomes waste?",
@@ -521,7 +521,7 @@
   {
    "q": "A peel feeds microbes, then worms, then a plant. What does a plastic packet feed?",
    "kind": "deep",
-   "hint": "Think of your rot jars. Did anything grow on the plastic?"
+   "hint": "Think of the rot jar test. Did anything grow on the strip of milk packet?"
   },
   {
    "q": "If everyone in the world lived like your family, how much waste would there be?",
@@ -560,7 +560,7 @@
    "Nek Chand kept building for the rest of his long life. Today millions of people have walked through his garden. Most of them never notice one dancer in a far corner, whose skirt is made of pieces of green bangles.",
    "Kamla noticed. And every evening she helped her mother sort the city's sacks, tink and tuk, cotton and shiny, so that less of it went to the dump."
   ],
-  "epiphany": "For the parent: the turn comes when Kamla asks 'cleared away where?'. Glass, tile and ceramic do not rot, so there is no away for them. They can only become a dump or become something else. The same property that makes some waste a problem, that it lasts, is what makes it perfect for a garden that lasts. Bimla's lesson is the other half: waste is mostly things mixed up and in the wrong place. Sorted, they are useful again.",
+  "epiphany": "For the parent: the story turns when Kamla asks 'Cleared away where?'. Glass, tile and ceramic do not rot, so there is no 'away' for them. They can only sit in a dump or become something else. Some waste is a problem because it lasts. That same lasting makes it perfect for a garden that lasts. Bimla's lesson is the other half: waste is mostly things mixed up and in the wrong place. Once sorted, they are useful again.",
   "ask": [
    "Kamla asked the officer, 'Cleared away where?' Why was that such a good question?",
    "Why did Nek Chand use only glass, tile and broken cups, and never peels or paper?",
@@ -815,7 +815,7 @@
      "mins": 2,
      "do": "1. Count the points and find the winner. 2. Look at the seven mats together.",
      "say": "Look at the mats. Which mat has the most cards? Which cards were the hardest to place?",
-     "kid": "Add up your points. Who won? Look at the DUMP mat. Could that card have been stopped at the start?",
+     "kid": "Add up your points. Who won? Look at the DUMP mat. Could the things on it have been avoided in the first place?",
      "think": "Which cards would not exist at all if we reduced first?"
     }
    ],
@@ -963,9 +963,9 @@
    "items": [
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 4, and her family buy a new plastic bottle of water every day. Her mother says, \"That is fine, because we give the bottles for recycling.\" Kavya thinks they should fill a steel bottle at home instead. Explain why Kavya's plan is better. Use the word energy or materials.",
+     "p": "A family buys a new plastic bottle of water every day. They say this is fine, because they give the bottles for recycling. A different plan is to fill a steel bottle at home instead. Explain why the steel bottle plan is better. Use the word energy or materials.",
      "lines": 4,
-     "a": "Kavya's plan means no new bottle is made at all, so no plastic, oil or energy is used to make one. Recycling still needs trucks, washing, shredding and melting, which all use energy. And many bottles never reach a factory. A steel bottle can be used for years.",
+     "a": "With a steel bottle, no new bottle is made at all, so no plastic, oil or energy is used to make one. Recycling still needs trucks, washing, shredding and melting, which all use energy. And many bottles never reach a factory. A steel bottle can be used for years.",
      "why": "A strong answer says that reducing stops the waste being made, while recycling still uses energy and materials. That is why reduce comes first."
     },
     {
@@ -1034,7 +1034,7 @@
     },
     {
      "t": "mcq",
-     "p": "Before the rot jar test, a girl makes a prediction. Which thing should she expect to look most changed after two weeks?",
+     "p": "Before the rot jar test, you make a prediction. Which thing should you expect to look most changed after two weeks?",
      "opts": [
       "The banana peel",
       "The newspaper",
@@ -1054,10 +1054,10 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Class 4, says, \"Plastic does not rot because it is buried too deep for the microbes to reach.\" What is wrong with her idea?",
+     "p": "Someone says, \"Plastic does not rot because it is buried too deep for the microbes to reach.\" What is wrong with this idea?",
      "opts": [
       "Plastic lying on top of the soil does not rot either. The real reason is that almost no microbe has an enzyme that fits plastic",
-      "Nothing. Pooja is right",
+      "Nothing. The idea is right",
       "Plastic rots quickly if it is buried deep enough"
      ],
      "a": 0,
@@ -1119,7 +1119,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl aged 9, and her family are deciding what to do with their old newspapers.",
+     "p": "A family is deciding what to do with their old newspapers.",
      "views": [
       {
        "who": "Lakshmi, aged 9",
@@ -1237,7 +1237,7 @@
       "The bucket is too big for the fungus"
      ],
      "a": 0,
-     "why": "A fungus can only feed on molecules that their enzymes fit. Their enzymes fit wood, so they can rot a log. Plastic molecules are a different shape, so the fungus has no key for that lock."
+     "why": "Fungi can only feed on molecules that their enzymes fit. Their enzymes fit wood, so they can rot a log. Plastic molecules are a different shape, so fungi have no key for that lock."
     },
     {
      "t": "fill",
@@ -1540,7 +1540,7 @@
      "p": "Fungi are busy rotting a fallen log. Do they matter for their own sake, or only because they make soil for us? Write what you think and why.",
      "lines": 3,
      "a": "I think fungi matter for their own sake, because they are alive and feeding, like we are. They also help the forest, and that helps us too.",
-     "why": "There is no single right answer. Every living thing matters for their own sake, not only for what they give us. Some people think a living thing matters mainly for what they do for people."
+     "why": "There is no single right answer. All living things matter for their own sake, not only for what they give us. Some people think living things matter mainly for what they do for people."
     },
     {
      "t": "write",
@@ -1698,7 +1698,7 @@
        "It rotted, but too slowly to see"
       ],
       "a": 1,
-      "why": "Microbes rot things by cutting their molecules with enzymes, and almost none fit plastic. Picking 'buried too deep' means thinking depth was the reason. But the peel was just as deep, and it rotted. Picking 'too slowly to see' is close to the truth for some plastics. But most don't rot at all, they only crack into tiny pieces."
+      "why": "Microbes rot things by cutting their molecules with enzymes, and almost none fit plastic. Picking 'buried too deep' means thinking depth was the reason. But the peel was just as deep, and it rotted. Picking 'too slowly to see' is close to the truth for some plastics. But most don't rot at all. They only crack into tiny pieces."
      },
      "chart": {
       "type": "bar",
@@ -2173,7 +2173,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Walk Road 2 with the bottle. At the end, ask how long it will stay in the sea.",
-     "say": "Now the bottle went into a mixed bag. Where does it go?",
+     "say": "This time the bottle goes into a mixed bag. Where does it go next?",
      "kid": "Walk Road 2. Where does the bottle end up? What happens to it in the sea?",
      "parent": "On Road 2, the bottle sits in a dump, or washes from a drain into a river and the sea. Sunlight cracks it into microplastics, which fish and birds swallow. Nobody knows exactly how long it lasts. Estimates are hundreds of years.",
      "think": "What small thing at home decides which road the bottle takes?"
@@ -2382,7 +2382,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Fold the double sheet in half along its long side, so it is a long strip of four layers. 2. Bring the two short ends together so they overlap by 2 cm. 3. Paste the overlap. You now have a loop. Press it flat into a tube.",
+     "do": "1. Fold a double sheet of newspaper in half along its long side, so it is a long strip of four layers. 2. Bring the two short ends together so they overlap by 2 cm. 3. Paste the overlap. You now have a loop. Press it flat into a tube.",
      "say": "Newspapers used to be folded into bags in shops all over India. Let's make one.",
      "kid": "Fold the newspaper in half the long way. Bring the short ends together so they overlap. Paste them. Press it flat into a tube.",
      "context": "This is the first step of Fold a Newspaper Bag. You make a paper bag from one sheet of newspaper and flour paste."
@@ -2538,7 +2538,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Mend it together. For a button, knot the thread. Push the needle up through one hole and down through the next. Do this six times, then knot it underneath. For a book: tape the tear on both sides. For a sock: sew small stitches across the hole, back and forth.",
+     "do": "Mend it together. For a button: knot the thread. Push the needle up through one hole and down through the next. Do this six times, then knot it underneath. For a book: tape the tear on both sides. For a sock: sew small stitches across the hole, back and forth.",
      "say": "Slow and careful. Repairers are patient people.",
      "kid": "Mend your thing with a grown-up. Small careful stitches, or neat tape. Take your time.",
      "adult": true,
@@ -2735,7 +2735,7 @@
    "creative": [
     "Wrap food in a clean banana leaf, as many South Indian homes do. It goes back to the soil.",
     "Make a spoon from a thick slice of carrot or a piece of dosa, so there is nothing to wash or throw.",
-    "Bring a small cloth bag to carry the tiffin, made in the T-shirt bag activity."
+    "Carry the tiffin in the cloth bag you made in the No-Sew T-shirt Bag activity."
    ],
    "your_turn": "Now plan your own zero-waste tiffin. Draw it, pack it, eat it, and check the dustbin afterwards. Did anything end up there?",
    "flow": [
@@ -2916,7 +2916,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy in Class 3, finds that his school shirt has lost a button. What is the best thing to do?",
+   "p": "Your school shirt has lost a button. What is the best thing to do?",
    "opts": [
     "Send it to be recycled",
     "Sew the button back on",
@@ -3059,7 +3059,7 @@
   },
   {
    "t": "mcq",
-   "p": "Riya, a girl in Class 3, cuts up an old T-shirt and ties it into a shopping bag. What is this called?",
+   "p": "You cut up an old T-shirt and tie it into a shopping bag. What is this called?",
    "opts": [
     "Upcycling",
     "Burning",
@@ -3086,7 +3086,7 @@
   },
   {
    "t": "mcq",
-   "p": "In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about this bacterium?",
+   "p": "In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about bacteria like this one?",
    "opts": [
     "They have already cleaned up the oceans",
     "They are real and exciting, but slow, and work mainly on one kind of plastic",
@@ -3094,7 +3094,7 @@
     "They eat all plastic quickly"
    ],
    "a": 1,
-   "why": "Ideonella sakaiensis is real, but they took weeks to eat a thin film, and only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.",
+   "why": "The bacterium, Ideonella sakaiensis, is real. But these bacteria took weeks to eat a thin film of plastic, and they eat only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.",
    "outcome": 6
   },
   {
@@ -3111,7 +3111,7 @@
   },
   {
    "t": "mcq",
-   "p": "Only about how many out of every 100 parts of all plastic waste ever made have been recycled, by a 2017 estimate?",
+   "p": "By a 2017 estimate, about how many out of every 100 parts of all the plastic waste ever made have been recycled?",
    "opts": [
     "About 9",
     "About 50",
@@ -3624,14 +3624,14 @@
  "roots": {
   "context": "We have been learning where waste goes, and why some things rot and others don't. Now we ask what waste tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the same damp soil, the peel rotted and the plastic stayed the same. Soil microbes have fed on dead plants for millions of years, so they have enzymes that fit them. Plastic is new, and almost no microbe has an enzyme for plastic yet. So whether a thing rots depends on the living things around it as much as on the thing itself.",
-   "habit": "We say a peel is 'biodegradable' and plastic is not, as if rotting were hidden inside the material. But rotting is something living things do when they feed. A material rots only once some living thing has the tools to eat it.",
+   "truth": "In the rot jar test, a banana peel and a strip of milk packet were buried in the same damp soil. The peel rotted and the plastic stayed the same. Soil microbes have fed on dead plants for millions of years, so they have enzymes that fit them. Plastic is new, and almost no microbe has an enzyme for plastic yet. So whether a thing rots depends on the living things around it as much as on the thing itself.",
+   "habit": "We say a peel is 'biodegradable' and plastic is not, as if rotting were something the material does by itself. But rotting is something living things do when they feed. A material rots only once some living thing has the tools to eat it.",
    "evidence": "In the rot jar test, the peel went black and soft and grew white threads of fungus, while the milk packet looked new after 14 days. Long ago, wood may have piled up as coal partly because few fungi could rot it. In 2016, a bacterium was found that feeds on bottle plastic."
   },
   "three": {
    "who_am_i": "Your food grew in soil that microbes made from old leaves and peels. So part of you was once something that rotted.",
    "what_is_life": "Almost every living thing becomes food for others when they die. Microbes take them apart, and new plants grow from what is left.",
-   "what_is_this_world": "A world where leaves, peels and bodies are taken apart and used again. Plastic is one of the few things it cannot yet take apart."
+   "what_is_this_world": "This is a world where leaves, peels and bodies are taken apart and used again. Plastic is one of the few things this world cannot yet take apart."
   },
   "thread": "In a forest, a fallen leaf feeds fungi and worms. What is left becomes soil, and the soil feeds a tree. The same atoms take turns as leaf, worm, soil and tree. Plastic stays out of this circle for now, because almost nothing can take it apart.",
   "teachings": [
@@ -3643,7 +3643,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding, 1988",
     "teaching": "Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud, no rain. Without rain, no tree. Without the tree, no paper. He called this 'interbeing': nothing exists on its own.",
-    "link": "Your recycled paper carries the same cloud, rain and tree, and the work of the people who collected it."
+    "link": "A sheet of recycled paper carries the same cloud, rain and tree. It also carries the work of the people who collected the old paper."
    },
    {
     "source": "Tattvartha Sutra 7.1 (Jain)",
@@ -3657,13 +3657,13 @@
     "status": "settled"
    },
    {
-    "text": "Microbes have been breaking down and recycling the materials of dead living things for billions of years. Without them, the Earth would be buried in dead leaves and bodies.",
+    "text": "Microbes have been breaking down and recycling the materials of dead plants and animals for billions of years. Without them, the Earth would be buried in dead leaves and bodies.",
     "status": "settled"
    }
   ],
   "other_view": {
    "who": "Many engineers and economists",
-   "view": "Waste is a practical problem of materials, money and rules. Better recycling, fair pay for waste pickers and smart laws can solve it. There is no need to bring in oneness or the self. That is an honest view, and much of the work it calls for is the same."
+   "view": "Waste is a practical problem of materials, money and rules. Better recycling, fair pay for waste pickers and smart laws can solve it. There is no need to bring in ideas about oneness or the self. This is an honest view, and it calls for much of the same work."
   },
   "practice": {
    "title": "Look deeply at one thing",

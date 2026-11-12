@@ -264,14 +264,14 @@
  ],
  "big_questions": [
   {
-   "q": "In the closed box, water kept leaving the wet cloth and landing back. Is a glass of water standing on the table ever really still?",
+   "q": "In the Closed Box Test, water kept leaving the wet cloth and landing back on it. Is a glass of water standing on the table ever really still?",
    "kind": "deep",
    "hint": "Think about the water particles at the top of the glass. What are the fastest ones doing?"
   },
   {
    "q": "You cannot see the water vapour in your room. How could you prove to a friend that it is there?",
    "kind": "deep",
-   "hint": "What did a cold bottle or a cold lid do?"
+   "hint": "A cold bottle from the fridge gets wet on the outside. Where does that water come from?"
   },
   {
    "q": "A towel stays damp in a bathroom, but dries on a breezy balcony. Is 'dry' something a towel is, or something that happens between the towel and the air?",
@@ -330,11 +330,11 @@
   ]
  },
  "roots": {
-  "context": "We have seen water leave a wet cloth, wait in the air and come back as drops. Now we ask what that tells us about ourselves and the world.",
+  "context": "In the Closed Box Test, water left a wet cloth, stayed in the air and came back as drops on the cold lid. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the closed box, the wet cloth stayed wet for hours. Yet ice on the lid brought drops out of the box's air, so water had been leaving the cloth. It stayed wet because about as much water landed back on it. A thing dries only when more water leaves it than lands back on it.",
+   "truth": "In the Closed Box Test, the cloth in the closed box stayed wet for hours. But when ice was put on the lid, drops formed on the inside of the lid. So water had been leaving the cloth all the time. The cloth stayed wet because about as much water landed back on it. A thing dries only when more water leaves it than lands back on it.",
    "habit": "We think of drying as a one-way trip, where water leaves and is gone. We also call a cloth simply 'wet' or 'dry'. But water leaves and lands back on every wet thing all the time. What we see is which of the two is bigger.",
-   "evidence": "In the Closed Box Test, the cloth in the closed box stayed wet while the cloth in the open box dried. Ice on the lid made drops form inside, so water vapour from the cloth filled the box. When the lid came off, the same cloth dried."
+   "evidence": "In the Closed Box Test, the cloth in the closed box stayed wet while the cloth in the open box dried. Ice on the lid made drops form on the inside of the lid. This shows that water vapour from the cloth had filled the box. When the lid came off, the same cloth dried."
   },
   "three": {
    "who_am_i": "Every breath you breathe out carries water vapour from inside you into the room. A cold mirror shows it coming back as drops.",
@@ -375,7 +375,7 @@
    "kid": "Take a steel plate from the fridge. Hold it near your mouth. Breathe out slowly. Watch the mist come. Watch it fade away. That water was inside you. Now it is in the room. Do it three times. Then sit still and feel your breath."
   },
   "ask": [
-   "When the cloth in the closed box stayed wet, was anything happening to it?",
+   "In the Closed Box Test, the cloth in the closed box stayed wet. Was anything happening to it?",
    "The water in your breath leaves you and joins the room. When does it stop being your water?",
    "A glass of water loses some particles and gains others all the time. Is it the same water tomorrow?"
   ],
@@ -662,7 +662,7 @@
     "Each player puts a cloth token on square 1, WET. Two players are enough. Four can play.",
     "On your turn, another player reads you a question card. If you answer correctly, roll the dice and move that many squares.",
     "If your answer is wrong, the reader says the right answer. You move 1 square and do not roll.",
-    "A special square only works when you land on it by moving. If a square sends you to another square, ignore that second square.",
+    "A special square works only when your own move ends on it. If a square sends you to another square, do nothing more on the square you are sent to.",
     "Miss a turn means you skip your next turn, and the question card goes to the bottom of the pile.",
     "When the question cards run out, shuffle them and use them again.",
     "The first cloth to reach square 20, DRY, wins. You do not need an exact roll. Going past 20 counts.",
@@ -733,7 +733,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meena, a girl in Class 4, mops the kitchen floor. An hour later, the floor is dry. Where did the water go?",
+     "p": "A kitchen floor is mopped. An hour later, the floor is dry. Where did the water go?",
      "opts": [
       "Into the floor tiles",
       "Into the air, as water vapour",
@@ -745,7 +745,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 4, takes a cold water bottle out of the fridge. Soon its outside is covered in drops. Where did the drops come from?",
+     "p": "A cold water bottle is taken out of the fridge. Soon its outside is covered in drops. Where did the drops come from?",
      "opts": [
       "Water leaked through the bottle",
       "Water vapour in the room's air condensed on the cold bottle",
@@ -853,7 +853,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Closed Box Test, the cloth in the open box dried, but the cloth in the closed box stayed wet. What was different for the closed cloth?",
+     "p": "In the Closed Box Test, the cloth in the open box dried, but the cloth in the closed box stayed wet. What was different for the cloth in the closed box?",
      "opts": [
       "It had more water to begin with",
       "The air in its box filled up with water vapour, so as much water landed back as left",
@@ -891,7 +891,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in your class, says the Sun has destroyed the water in the puddle on her balcony. What would you tell her, and what could she do to check?",
+     "p": "A friend says the Sun has destroyed the water in the puddle on her balcony. What would you tell her, and what could she do to check?",
      "lines": 3,
      "a": "The water was not destroyed. It evaporated into the air as water vapour. She could put some water in a closed box in the sun and see drops form on the lid, or hold a cold plate over a warm puddle.",
      "why": "A strong answer says the water is still there as vapour, and gives a test that brings it back as drops."
@@ -906,14 +906,14 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl in Class 4, finds her school uniform still damp at 7 o'clock on a rainy morning. School starts at 9. Three people in her family each have an idea.",
+     "p": "A girl finds her school uniform still damp at 7 o'clock on a rainy morning. School starts at 9. Three people in her family each have an idea.",
      "views": [
       {
        "who": "Paati",
        "says": "Hang it on a hanger under the ceiling fan, with the windows open. It is free and safe."
       },
       {
-       "who": "Her brother Arjun",
+       "who": "Her brother",
        "says": "Ask Amma to iron it. The hot iron will dry it in ten minutes."
       },
       {
@@ -955,14 +955,14 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 5, wears spectacles. She walks out of a cold, air-conditioned shop into a hot, damp street in Kochi. What happens to her spectacles?",
+     "p": "You wear spectacles. You walk out of a cold, air-conditioned shop into a hot, damp street in Kochi. What happens to your spectacles?",
      "opts": [
       "They mist up",
       "They get hot and dry",
       "Nothing happens"
      ],
      "a": 0,
-     "why": "Her spectacles are still cold from the shop. The street's damp air touches them, and its water vapour condenses into a mist of drops."
+     "why": "The spectacles are still cold from the shop. The street's damp air touches them, and its water vapour condenses into a mist of drops."
     },
     {
      "t": "odd",
@@ -1049,7 +1049,7 @@
     },
     {
      "t": "perspective",
-     "p": "An air conditioner in the flat of Sumathi, a girl in Class 4, drips a bucket of water a day onto the balcony. Three people say what to do with it.",
+     "p": "An air conditioner in a flat drips a bucket of water a day onto the balcony. Three people say what to do with the water.",
      "views": [
       {
        "who": "Sumathi's mother",
@@ -1064,7 +1064,7 @@
        "says": "It is condensed water from the air, so it has almost no salt. But it can pick up dust and mould inside the AC. Use it for plants or cleaning, never for drinking."
       }
      ],
-     "ask": "Which would you choose? Give a reason from what you learned about where AC water comes from. Then answer back from another person's side.",
+     "ask": "Which would you choose? Give a reason from what you learned about where AC water comes from. Then say what one of the other people might reply.",
      "lines": 4,
      "a": "A strong answer explains that the water condensed from the room's air. It then weighs saving water for plants against the neighbour's worry about dirt. That worry is partly right, because of dust and mould inside the AC.",
      "why": "Each view has a point. The water is not from a tap or drain, so it is not sewage, but it is not clean enough to drink."
@@ -1081,7 +1081,7 @@
      "p": "On a clear night, dew forms on a scooter parked in the open, but not on one parked under a shed. Why?",
      "lines": 3,
      "a": "In the open, the scooter loses warmth to the clear sky and gets colder than the air, so water vapour condenses on it. Under the shed, the roof stops it cooling as much, so it stays too warm for dew.",
-     "why": "A strong answer says dew needs a surface that has cooled down, and the shed stops that cooling. Wells found the same with covered wool."
+     "why": "A strong answer says dew needs a surface that has cooled down, and the shed stops that cooling. William Wells found the same with covered wool."
     },
     {
      "t": "mcq",
@@ -1096,9 +1096,9 @@
     },
     {
      "t": "write",
-     "p": "Gayathri, a girl in Class 5, wants to test whether a thin cotton cloth dries faster than a thick towel. Name two things she must keep the same, and the one thing she changes.",
+     "p": "You want to test whether a thin cotton cloth dries faster than a thick towel. Name two things you must keep the same, and the one thing you change.",
      "lines": 4,
-     "a": "She must keep the same amount of water in each, by squeezing them the same way, and the same place and time. She changes only the kind of cloth.",
+     "a": "Keep the same amount of water in each, by squeezing them the same way. Keep the same place and time. Change only the kind of cloth.",
      "why": "A strong answer names the things kept the same and says only one thing is changed, so the result can be trusted."
     },
     {
@@ -1142,7 +1142,7 @@
     },
     {
      "t": "count",
-     "p": "Sumathi, a girl in Class 4, kept a Drying Diary. Her handkerchief took 2 hours to dry on Monday and 6 hours on a rainy Wednesday. How many more hours did it take on Wednesday?",
+     "p": "A Drying Diary shows that a handkerchief took 2 hours to dry on Monday and 6 hours on a rainy Wednesday. How many more hours did it take on Wednesday?",
      "a": 4,
      "why": "6 minus 2 is 4. The rainy day took 4 hours more, three times as long, because the humid air made water land back on the cloth.",
      "how": "p1"
@@ -1165,15 +1165,15 @@
      "p": "A village farm pond loses a lot of water to evaporation every summer. Three people have ideas.",
      "views": [
       {
-       "who": "Shanthi, a farmer",
+       "who": "A farmer",
        "says": "Cover the pond with a plastic sheet. Less water will escape."
       },
       {
-       "who": "Revathi, who keeps fish in the pond",
+       "who": "A person who keeps fish in the pond",
        "says": "Leave it open. A sheet would block light and air from the fish and the water plants."
       },
       {
-       "who": "Kamala, an engineer",
+       "who": "An engineer",
        "says": "Float solar panels on part of it. They shade the water and also make electricity, though they cost a lot."
       }
      ],
@@ -1441,7 +1441,7 @@
     {
      "id": "s7",
      "mins": 8,
-     "do": "1. Ask your child for a claim, the evidence and the reasoning. 2. Then read the explanation card 'Leaving and landing back, at the same time'.",
+     "do": "1. Ask your child what they think happened in the closed box, what they saw that makes them think so, and why. 2. Then read the explanation card 'Leaving and landing back, at the same time'.",
      "say": "What do you think happened in the closed box? What did you see that makes you think so? Now let's read what scientists found.",
      "kid": "Say what you think happened. Say what you saw. Then read the card about leaving and landing back.",
      "check": {
@@ -2100,7 +2100,7 @@
     "Hang it near an open window on the side the wind comes from, with another window open on the far side.",
     "Washing machines spin clothes very fast, which throws water out before they are hung up. Can you think of a safe way to throw water out of the towel?"
    ],
-   "your_turn": "Now invent your own way to dry the towel by the deadline. Draw it, try it, and compare with the folded control. Which idea saved the most time?",
+   "your_turn": "Now invent your own way to dry the towel in 2 hours. Draw it, try it, and compare it with the folded control towel. Which idea dried the towel most?",
    "context": "This is an engineering challenge. You must dry a wet towel quickly on a rainy day, using what you know about drying.",
    "setup": [
     {
@@ -2126,7 +2126,7 @@
      "mins": 8,
      "do": "List three ideas before trying anything. Think about warmth, moving air, spreading out and dry air.",
      "say": "Remember the Closed Box Test. What stopped the cloth from drying? How can we do the opposite?",
-     "kid": "Think first. Draw three ideas. What made the closed cloth stay wet? Do the opposite!"
+     "kid": "Think first. Draw three ideas. In the Closed Box Test, what made the cloth in the closed box stay wet? Do the opposite!"
     },
     {
      "id": "s3",
@@ -2167,8 +2167,8 @@
    ],
    "creative": [
     "Rub a tiny drop of liquid soap on one half and polish it until it looks clear. On that half, the condensed water spreads into a thin, flat layer you can see through, instead of tiny drops that scatter light.",
-    "Swimmers rub the inside of their goggles with a little soapy film for the same reason.",
-    "Car drivers blow dry or warm air onto a misty windscreen. Which part of the science does each one use?"
+    "Swimmers rub a little soap on the inside of their goggles, so the goggles do not mist up.",
+    "Car drivers blow dry air or warm air onto a misty windscreen. How does dry air clear the mist? How does warm air clear it?"
    ],
    "your_turn": "Now invent your own way to keep the mirror clear. Test it against the untreated half. Did it work?",
    "context": "This is a design challenge. You try to stop condensation from misting up a mirror.",
@@ -2195,7 +2195,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Rub a tiny drop of liquid soap on one half of the mirror with a tissue. 2. Polish it until it looks clear. 3. Leave the other half plain. 4. Breathe on both halves.",
-     "say": "Let's treat one half and leave the other. Then breathe on both. Which stays clearer?",
+     "say": "Let's rub soap on one half and leave the other half plain. Then breathe on both. Which stays clearer?",
      "kid": "Rub a tiny drop of soap on one half. Polish it. Breathe on both halves. Which stays clear?"
     },
     {
@@ -2288,7 +2288,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali, a girl in Class 3, puts a wet cloth in a box and closes the lid tightly. What will happen after a day?",
+   "p": "A wet cloth is put in a box, and the lid is closed tightly. What will happen after a day?",
    "opts": [
     "The cloth will be dry",
     "The cloth will still be wet, with drops on the inside of the box",
@@ -2328,7 +2328,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rani, a girl in Class 4, lifts the lid off a pot of cooking rice. Drops of water hang under the lid. Where did they come from?",
+   "p": "The lid is lifted off a pot of cooking rice. Drops of water hang under the lid. Where did they come from?",
    "opts": [
     "From the steel of the lid",
     "From the rice water, which evaporated and condensed on the cooler lid",
@@ -2356,7 +2356,7 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi, a girl in Class 4, wants to test whether a fan makes a cloth dry faster. Which is a fair test?",
+   "p": "You want to test whether a fan makes a cloth dry faster. Which is a fair test?",
    "opts": [
     "One cloth under a fan in the sun, and one with no fan in the shade",
     "Two identical wet cloths in the same place, one with a fan and one without",
@@ -2519,7 +2519,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Closed Box Test, Priya, a girl in Class 4, put the cloths in the boxes at 10:00 in the morning. The cloth in the open box was dry at 12:30. How long did it take to dry?",
+   "problem": "In the Closed Box Test, the cloths were put in the boxes at 10:00 in the morning. The cloth in the open box was dry at 12:30. How long did it take to dry?",
    "answer": "2 hours and 30 minutes.",
    "explain": "From 10:00 to 12:00 is 2 hours. From 12:00 to 12:30 is 30 minutes more. So it took 2 hours and 30 minutes, which is 150 minutes.",
    "math_unit": "math.time.duration.L3",
@@ -2528,7 +2528,7 @@
    "why_maths": "Writing the start and end times lets you work out exactly how long drying took, so you can compare it with another day or another cloth."
   },
   {
-   "problem": "Sumathi, a girl in Class 4, kept a Drying Diary for 6 days. Her handkerchief took these times to dry: Monday 2 hours, Tuesday 3 hours, Wednesday 6 hours, Thursday 5 hours, Friday 2 hours, Saturday 1 hour. On two days it rained. Which two days do you think they were? Tomorrow is forecast to be hot, dry and windy. Predict roughly how long it will take.",
+   "problem": "A Drying Diary was kept for 6 days. The handkerchief took these times to dry: Monday 2 hours, Tuesday 3 hours, Wednesday 6 hours, Thursday 5 hours, Friday 2 hours, Saturday 1 hour. On two days it rained. Which two days do you think they were? Tomorrow is forecast to be hot, dry and windy. Predict roughly how long the handkerchief will take to dry.",
    "answer": "Wednesday and Thursday were probably the rainy days. Tomorrow it should take about 1 hour, or a little less.",
    "explain": "The two longest times, 6 hours and 5 hours, stand out from the rest. Rainy days have humid air, which slows drying. Saturday, the fastest day, took 1 hour. A hot, dry, windy day should be as fast as that, or faster.",
    "math_unit": "math.data.line-graphs.L4",
@@ -2536,7 +2536,7 @@
    "how": "p1",
    "chart": {
     "type": "line",
-    "title": "Sumathi's Drying Diary",
+    "title": "The Drying Diary",
     "x": "Day",
     "y": "Hours to dry",
     "data": [
@@ -2605,7 +2605,7 @@
    "why_maths": "Multiplying one hour's water by the number of hours tells you how much water the AC takes out of the room's air in a whole night."
   },
   {
-   "problem": "Two wet towels hang in the same room. Towel A is spread out flat and has 4 times as much surface touching the air as towel B, which is folded. Towel A dried in 1 hour. Arun, a boy in Class 4, says towel B will take exactly 4 hours. Is that a fair guess, and why might it take even longer?",
+   "problem": "Two wet towels hang in the same room. Towel A is spread out flat and has 4 times as much surface touching the air as towel B, which is folded. Towel A dried in 1 hour. Is 4 hours a fair guess for towel B? Why might it take even longer?",
    "answer": "It is a fair first guess, but it may take longer than 4 hours.",
    "explain": "With a quarter of the surface, water can leave only a quarter as fast, so about 4 times as long is a good first guess. But inside the folds, damp air is trapped, so water lands back too. That can slow it down even more.",
    "math_unit": "math.logic.problem-solving.L4",

@@ -4,12 +4,12 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, in a city flat, with the materials listed. The two-jar test uses things every kitchen has: newspaper, a piece of a biscuit box, a rinsed milk packet, a peel and two spoons of leftover sambar or dal. Newspaper soaks up sambar within a few minutes, so the result is clear in a 15-minute wait. Wet newspaper tears with a gentle pull, while the dry strip from the other jar does not, so the child feels the difference in their own hands. The milk packet rinses clean under the tap, which surprises most children and is a real result: plastic, metal and glass can be washed, paper and cloth cannot. The next-day smell check is optional and is done near a window by a grown-up. The sorting race uses 30 small things from the kitchen and the dustbin, and the mixed round really takes several times longer, because used tea leaves stick to paper. Gloves or a spoon are used for the mixed round. The lid test depends on ants or fruit flies finding the open box. They nearly always do in a warm Indian kitchen within a day, and the step says what to do if they don't. The building walk and the poster project are outside the core path, because not every family can go round their building. Both games were played through with two players and with four, and both finish.",
  "summary": {
-  "text": "A dry newspaper can be sold, pulped and made into new paper. Drop it in a bin with wet sambar and peels, and within minutes it is soaked, stained and tears in your hand. No washing can make it good paper again. That is why we sort waste the moment we throw it: wet waste in one bin, dry waste in another, and dangerous things like batteries, tube lights and broken glass in a box of their own. You will soak waste in two jars, race to sort waste before and after it is mixed, and set up a sorting station at home.",
+  "text": "A dry newspaper can be sold, pulped and made into new paper. Drop it in a bin with wet sambar and peels, and within minutes it is soaked and stained, and it tears in your hand. No washing can make it good paper again. That is why we sort waste the moment we throw it: wet waste in one bin, dry waste in another, and dangerous things like batteries, tube lights and broken glass in a box of their own. You will soak waste in two jars, race to sort waste before and after it is mixed, and set up a sorting station at home.",
   "art": "Two glass jars side by side on a kitchen counter. In the left jar, a crisp newspaper strip, a biscuit-box piece and a milk packet sit clean and dry. In the right jar, the same three things lie in sambar, rice and a banana peel, the newspaper dark and soggy. Behind them, a green bin, a blue bin and a small red-marked box."
  },
  "intro": {
   "hook": "Take one sheet of newspaper and tear it in half. Dip one half in a bowl of water for a minute. Now pull each half gently from both ends. Which one tears first?",
-  "text": "Every home in India throws out two very different kinds of waste. Wet waste is food and other things that rot, like peels, leftover rice and used tea leaves. Dry waste is things that do not rot quickly, like paper, plastic, metal and glass. Dry waste that is clean can be sold and made into new things. But when the two kinds go into one bag, the wet soaks into the dry. Can we ever separate them again afterwards? The two-jar test will show you.",
+  "text": "Every home in India throws out two very different kinds of waste. Wet waste is food and other things that rot, like peels, leftover rice and used tea leaves. Dry waste is things that do not rot quickly, like paper, plastic, metal and glass. Dry waste that is clean can be sold and made into new things. But when the two kinds go into one bag, the wet soaks into the dry. Can we ever separate them again afterwards? The Two-Jar Test will show you.",
   "art": "A child pulling two halves of a newspaper sheet, one dry and whole, one wet and tearing in the middle, over a steel bowl of water."
  },
  "outcomes": [
@@ -151,7 +151,7 @@
    "concept": "What happens to sorted waste and to mixed waste",
    "status": "defined",
    "definition": "Sorted wet waste can become compost or cooking gas, and sorted dry waste can be recycled. Mixed waste mostly ends up on a dump.",
-   "description": "Sorted wet waste can go to a compost pot at home, or to a city compost yard or biogas plant. Bacteria make biogas from wet waste. Biogas is a gas that can be used for cooking. Sorted dry waste goes to a kabadiwala or a dry waste collection centre. There, people sort it again into paper, hard plastic, soft plastic, metal and glass, and sell each kind. Mixed waste is hard to use. Most of it is dumped on a landfill. In a landfill, the wet waste rots without air and makes methane, a gas that warms the Earth and catches fire easily. In March 2023, the dumping ground at Brahmapuram near Kochi caught fire, and smoke covered parts of the city for nearly two weeks.",
+   "description": "Sorted wet waste can go to a compost pot at home, or to a city compost yard or biogas plant. Bacteria make biogas from wet waste. Biogas is a gas that can be used for cooking. Sorted dry waste goes to a kabadiwala or a dry waste collection centre. There, people sort it again into paper, hard plastic, soft plastic, metal and glass, and sell each kind. Mixed waste is hard to use. Most of it goes to a dumping ground, which is also called a landfill. There, the wet waste rots without air and makes methane, a gas that warms the Earth and catches fire easily. In March 2023, the dumping ground at Brahmapuram near Kochi caught fire, and smoke covered parts of the city for nearly two weeks.",
    "examples": [
     "Peels from a sorted green bin become compost for a balcony plant.",
     "Clean newspapers from a sorted blue bin are sold by weight to the kabadiwala.",
@@ -206,7 +206,7 @@
    "perspectives": [
     {
      "who": "Most waste experts, and India's 2016 rules",
-     "explanation": "Sort at source. Mixing happens in seconds and cannot be undone, so the person holding the waste is the best one to sort it. It costs almost nothing at home."
+     "explanation": "Waste should be sorted at source, which means in the home. Mixing happens in seconds and cannot be undone, so the person holding the waste is the best one to sort it. It costs almost nothing at home."
     },
     {
      "who": "Some engineers and city planners",
@@ -236,7 +236,7 @@
   },
   {
    "text": "Wet waste dumped in heaps makes methane, a gas that warms the Earth and catches fire.",
-   "evidence": "Gas is measured coming out of landfills all over the world. Dumping grounds like Deonar in Mumbai and Brahmapuram near Kochi have had large fires."
+   "evidence": "Methane has been measured coming out of dumping grounds all over the world. Dumping grounds like Deonar in Mumbai and Brahmapuram near Kochi have had large fires."
   },
   {
    "text": "Still water in thrown-away containers lets mosquitoes breed, and some of them spread dengue.",
@@ -252,7 +252,7 @@
    "claim": "There is no point sorting at home, because the truck mixes it all again.",
    "who": "Many people living in cities",
    "for": "In some places this really happened. Workers tipped sorted bags into one truck, and people stopped bothering.",
-   "against": "Most cities now collect wet and dry waste in separate parts of the truck or on separate days. Where they don't, the fix is to complain, not to stop sorting. Once mixed at home, the dry waste is already spoiled.",
+   "against": "Most cities now collect wet and dry waste in separate parts of the truck or on separate days. Where they don't, the fix is to complain, not to stop sorting. And once waste is mixed at home, the dry waste is already spoiled.",
    "status": "rejected",
    "context": "Some families say sorting is useless. This card asks whether that is true."
   },
@@ -313,7 +313,7 @@
   {
    "q": "Is a thing still 'yours' after you throw it out?",
    "kind": "big",
-   "hint": "Think of the mercury at Minamata. Who did the harm belong to?"
+   "hint": "At Minamata in Japan, a factory poured mercury into the sea, and it poisoned people and cats who ate the fish. Who did that harm belong to?"
   },
   {
    "q": "Could a city have no garbage heaps at all?",
@@ -351,7 +351,7 @@
    "On Friday, Lissy chechi came again. Uncle Babu was waiting at the door with a bag of clean, dry newspapers, a bundle of rinsed milk packets and a cardboard box folded flat. 'Sorted, chechi,' he said. 'And this time, I sorted it myself.'",
    "Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she said, 'is worth something.' The rain came that night and the smoke over Kochi began to clear. In the kitchen, the green bucket was full of peels for the compost pot, and the blue box was full of things that would be made new."
   ],
-  "epiphany": "For the parent: the turn comes when Lissy chechi says it takes one minute to mix and all day to pull apart. Uncle Babu thinks waste is one thing, 'all rubbish'. Lissy chechi shows him that dry paper, worth money, became curry-soaked rubbish only because it shared a bag. The tea bag on Wednesday makes the same point in small: mixing is instant and cannot be undone. The hidden glass would have cut Lissy chechi, not Uncle Babu, so the person who mixes is not always the one who pays.",
+  "epiphany": "For the parent: the turn comes when Lissy chechi says it takes one minute to mix and all day to pull apart. Uncle Babu thinks waste is one thing, 'all rubbish'. Lissy chechi shows him that dry paper, worth money, became curry-soaked rubbish only because it shared a bag. The tea bag on Wednesday makes the same point on a small scale: mixing is instant and cannot be undone. The hidden glass would have cut Lissy chechi, not Uncle Babu, so the person who mixes is not always the one who pays.",
   "ask": [
    "Uncle Babu said, 'It's all rubbish. What does it matter how it's packed?' What did Lissy chechi show him?",
    "Why could the milk packet be saved, but not the newspaper?",
@@ -830,7 +830,7 @@
     },
     {
      "t": "write",
-     "p": "Your guess before the Two-Jar Test, and what happened. Were you right? What did the test teach you that the guess did not?",
+     "p": "Before the Two-Jar Test, you guessed which things would still be good enough to sell. What did you guess, and what happened? Were you right? What did the test teach you that the guess did not?",
      "lines": 4,
      "a": "I guessed everything could be washed. But the newspaper tore and the box piece stayed stained. Only the milk packet came clean. So paper can't be saved once it is soaked.",
      "why": "A strong answer compares the guess and the result honestly, and says what was learned. Being wrong in a guess is how scientists learn.",
@@ -868,19 +868,19 @@
      "p": "Three people argue about who should sort a city's waste.",
      "views": [
       {
-       "who": "Priya, a mother in a Chennai flat",
+       "who": "A mother in a Chennai flat",
        "says": "Every home should sort its own waste. It takes a few seconds at the bin."
       },
       {
-       "who": "Ravi, an engineer",
+       "who": "An engineer",
        "says": "Families make too many mistakes. Big sorting plants with machines can do it better."
       },
       {
-       "who": "Selvi, a waste picker",
+       "who": "A waste picker",
        "says": "Homes should sort, and the waste should come to people like me. This is our living."
       }
      ],
-     "ask": "Who do you agree with most? Give a reason from your own tests. Then say one thing another person has right.",
+     "ask": "Who do you agree with most? Give a reason from the Two-Jar Test or the Sorting Race. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses evidence, for example that in the Two-Jar Test the paper was spoiled within 15 minutes, so no sorting plant could save the paper later. It then fairly says what another view gets right, like that machines can sort metal quickly.",
      "why": "Each view has some truth. The Two-Jar Test supports sorting at home, because mixing does harm before any plant sees the waste."
@@ -899,7 +899,7 @@
     },
     {
      "t": "mcq",
-     "p": "Fathima, a girl in Class 3, says her family puts their peels inside a plastic bag and then into the wet bin. What is the problem?",
+     "p": "A family puts their peels inside a plastic bag and then puts the bag into the wet bin. What is the problem?",
      "opts": [
       "There is no problem",
       "The plastic bag won't rot, so it spoils the compost",
@@ -985,7 +985,7 @@
     },
     {
      "t": "mcq",
-     "p": "Asha, a girl in Class 3, throws a used tea bag into the dry box, onto a stack of newspapers. What is the most likely result?",
+     "p": "A used tea bag is thrown into the dry box, onto a stack of newspapers. What is the most likely result?",
      "opts": [
       "Nothing changes",
       "A brown stain spreads into the newspapers below it",
@@ -1018,7 +1018,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meera, a girl in Class 3, wants to test whether wet waste spoils cotton cloth too. Which test is fair?",
+     "p": "You want to test whether wet waste spoils cotton cloth too. Which test is fair?",
      "opts": [
       "Put a cotton rag in sambar and compare it with nothing",
       "Put one cotton rag in a dry jar and the same kind of rag in a jar with sambar, for the same time",
@@ -1026,18 +1026,18 @@
       "Ask a friend what they think"
      ],
      "a": 1,
-     "why": "A fair test changes only one thing. Here the only difference is the sambar. Without a dry jar to compare, she can't be sure the sambar made the difference."
+     "why": "A fair test changes only one thing. Here the only difference is the sambar. Without a dry jar to compare, you can't be sure the sambar made the difference."
     },
     {
      "t": "perspective",
-     "p": "Two people talk about the Minamata story.",
+     "p": "At Minamata in Japan, a factory poured mercury into the sea, and people and cats who ate the fish became very ill. Two people talk about it.",
      "views": [
       {
-       "who": "Anjali, a scientist",
+       "who": "A scientist",
        "says": "The factory should have tested its waste before pouring it into the sea."
       },
       {
-       "who": "Ramesh, a factory owner in the 1950s",
+       "who": "A factory owner in the 1950s",
        "says": "Nobody knew then that mercury builds up in fish. The sea looked big enough to take anything."
       }
      ],
@@ -1050,14 +1050,14 @@
      "t": "write",
      "p": "In the Sorting Race, a child sorted the mixed round faster than the first round. Think of two reasons this might happen.",
      "lines": 4,
-     "a": "They had practised in the first round and knew the things. Or the mixed bowl had too little water, so nothing stuck. Or the first round was handed over slowly.",
+     "a": "They had practised in the first round and knew the things. Or the mixed bowl had too little water, so nothing stuck. Or the things were handed over slowly in the first round.",
      "why": "Explaining an odd result is real science. A strong answer gives reasons that could be checked, like practice, and suggests a fix, like doing each round twice or swapping the order.",
      "how": "e2",
      "context": "In the Sorting Race, you timed sorting 30 things as they were handed to you, and then sorting the same 30 after they were mixed with wet tea leaves."
     },
     {
      "t": "count",
-     "p": "A building has 40 flats. If one family in every 4 flats sorts badly, how many flats sort badly?",
+     "p": "A building has 40 flats. If 1 flat in every 4 sorts badly, how many flats sort badly?",
      "a": 10,
      "why": "40 divided into groups of 4 makes 10 groups. One flat in each group sorts badly, so 10 flats sort badly."
     },
@@ -1075,7 +1075,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the path of mercury at Minamata: from the factory, to tiny living things, to small fish, to big fish, to a cat or person. Show the mercury growing at each step.",
+     "p": "Draw the path of mercury at Minamata: from the factory, to tiny living things, to small fish, to big fish, to a cat or person. Show more mercury at each step.",
      "a": "A chain of drawings with arrows, from the factory pipe to tiny living things, small fish, big fish and a cat, with more and more dots of mercury at each step.",
      "why": "The amount grows at each step because each animal eats many of the ones below, and keeps the mercury in their body."
     },
@@ -1169,7 +1169,7 @@
     },
     {
      "t": "write",
-     "p": "Lissy chechi, a waste collector in a story, said: 'It takes one minute to mix. It takes a person all day to pull a mixed heap apart.' Do your own tests agree with her? Explain.",
+     "p": "In the story Lissy Chechi Says No, Lissy chechi, a waste collector, said: 'It takes one minute to mix. It takes a person all day to pull a mixed heap apart.' Do the Sorting Race and the Two-Jar Test agree with her? Explain.",
      "lines": 4,
      "a": "Yes. In the Sorting Race, mixing took ten seconds, but sorting the mixed bowl took much longer than sorting as I threw. In the Two-Jar Test, some things could not be unmixed at all.",
      "why": "A strong answer uses numbers or results from the child's own tests, not only agreement."
@@ -1226,7 +1226,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess, set up both jars, shake them gently and wait 15 minutes. Then do the lift test, the pull test and the rinse test, and fill in the table."
+     "what": "Guess, set up both jars, tip them gently and wait 15 minutes. Then lift out the newspaper strips and pull them gently, rinse the box piece and the milk packet, and fill in the table."
     },
     {
      "day": 2,
@@ -1266,7 +1266,7 @@
      "kid": "Look at the newspaper, the box piece and the milk packet. Which will still be good after sitting in sambar? Why?",
      "ask": [
       {
-       "q": "Why do you think that one will survive?",
+       "q": "Why do you think that one will still be good enough to sell?",
        "good": [
         "Plastic doesn't soak things up.",
         "Paper gets soggy.",
@@ -1384,7 +1384,7 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "Ask for a claim, the evidence and the reasoning.",
+     "do": "Ask your child what they found, what they saw that shows it, and why they think it happened.",
      "say": "Tell me what you found. What do you think now? What did you see that shows it? And why does it happen?",
      "kid": "Say what you found. Say what you saw. Then say why you think it happened.",
      "ask": [
@@ -1419,7 +1419,7 @@
    "context": "This is the Sorting Race. You time how long it takes to sort 30 things as you throw them, and how long to sort the same 30 things after they are mixed.",
    "question": "How much longer does it take to sort waste after it has been mixed, compared with sorting each thing as you throw it?",
    "predict": "Guess how many seconds each round will take. Will the mixed round take a little longer, twice as long, or much longer? Why do you think so?",
-   "fair_test": "Use the same 30 things, the same three bowls and the same person sorting in both rounds. Only one thing changes: whether the things are mixed first. Do each round twice and take the faster time, because one try can be a fluke.",
+   "fair_test": "Use the same 30 things, the same three bowls and the same person sorting in both rounds. Only one thing changes: whether the things are mixed first. Do each round twice and take the faster time, because one try can be lucky or unlucky.",
    "results_table": [
     "Round",
     "My guess (seconds)",
@@ -1451,7 +1451,7 @@
     }
    ],
    "safety": "Wear gloves or use a spoon for the mixed round. Wash hands with soap afterwards.",
-   "record": "Write your times in the table. Then draw two bars, one for each round, as tall as the faster time.",
+   "record": "Write your times in the table. Then draw two bars, one for each round. Make each bar as tall as that round's faster time.",
    "setup": [
     {
      "art": "A parent handing a child one bottle cap at a time, while the child drops it into one of three labelled bowls and a phone timer runs.",
@@ -1605,7 +1605,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Show both boxes and ask for a guess and a reason.",
-     "say": "Both boxes get a sweet peel. One has a lid. Who will find the peels? Will anyone get into the closed box? Why do you think so?",
+     "say": "Both boxes get a sweet peel. One has a lid. Will ants or flies find the peels? Will they get into the closed box? Why do you think so?",
      "kid": "Which box will ants or flies find? Can they get in the closed one? Why?",
      "context": "This is the first step of the Lid or No Lid test. You find out whether a lid keeps creatures away from wet waste."
     },
@@ -1629,8 +1629,8 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Next morning, count again. 2. Open the closed box and look inside. 3. Empty both peels into the wet bin and wash the boxes.",
-     "say": "What did the lid do? Now think of the dustbin under our sink.",
-     "kid": "Count again. Open the closed box. Did anyone get in?",
+     "say": "What did the lid do? What does that tell us about the dustbin under our sink?",
+     "kid": "Count again. Open the closed box. Did any ants or flies get in?",
      "wait": "Do this the next morning.",
      "check": {
       "t": "mcq",
@@ -1638,7 +1638,7 @@
       "options": [
        "Ants only like bananas",
        "A lid keeps the smell in, so ants and flies don't find the waste or get to it",
-       "The closed peel had gone bad",
+       "The peel in the closed box had gone bad",
        "Ants are scared of boxes"
       ],
       "a": 1,
@@ -1674,7 +1674,7 @@
     }
    ],
    "safety": "Do not handle any broken glass or blades yourself. Leave them for a grown-up to wrap.",
-   "record": "Draw your sorting station, with an arrow from three things you threw out today to the right container.",
+   "record": "Draw your sorting station. Then draw three things you threw out today, with an arrow from each one to the right container.",
    "setup": [
     {
      "art": "A kitchen corner under the sink with a lidded steel bucket marked WET, a cardboard box marked DRY and a small tin with a red cross.",
@@ -1699,7 +1699,7 @@
      "mins": 5,
      "do": "1. Put the wet bin, the dry box and the danger tin side by side, close to where you cook. 2. Put the danger tin up high, out of small children's reach.",
      "say": "We keep them together near the stove. Then sorting takes no extra walking. Why should the danger tin go up high?",
-     "kid": "Put the three together near the kitchen. Put the danger tin up high.",
+     "kid": "Put the wet bin, the dry box and the danger tin together, close to where you cook. Put the danger tin up high.",
      "ask": [
       {
        "q": "Why put all three together, close to the stove?",
@@ -1727,7 +1727,7 @@
      "kid": "Show your family the station. Teach them where each thing goes.",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 3, has just finished a cup of curd. Where should the empty plastic curd cup go?",
+      "q": "You have just finished a cup of curd. Where should the empty plastic curd cup go?",
       "options": [
        "In the wet bin, because it had curd in it",
        "Rinse it, then put it in the dry box",
@@ -1794,7 +1794,7 @@
      "what": "Check and tally. Count up each day's marks and see whether the mistakes went down."
     }
    ],
-   "record": "The tally sheet, with the total for each day, and one sentence about the most common mistake.",
+   "record": "Keep the tally sheet, with the total for each day, and write one sentence about the most common mistake.",
    "setup": [
     {
      "art": "A sheet on the kitchen wall with seven rows for the days and a column for tally marks, a pencil hanging from a string.",
@@ -1831,7 +1831,7 @@
      "kid": "Count the marks for each day. Did they go down? Which mistake happened most?",
      "check": {
       "t": "mcq",
-      "q": "In Sorting Week, Meenakshi, a girl in Class 3, found tea bags in the dry box on four days. What is the best fix?",
+      "q": "In Sorting Week, you find tea bags in the dry box on four days. What is the best fix?",
       "options": [
        "Stop drinking tea",
        "Put a small bowl for tea bags right beside the stove, and empty it into the wet bin",
@@ -1905,7 +1905,7 @@
      "mins": 7,
      "do": "1. Wrap glass and blades in thick newspaper. 2. Your child writes on each packet what is inside. 3. Put batteries, medicines and bulbs in the box.",
      "say": "Write on each packet in big letters, like BROKEN GLASS or SHARP. Then the person who picks it up knows to be careful.",
-     "kid": "Write on each packet in big letters. BROKEN GLASS. SHARP. Then the collector knows.",
+     "kid": "Write on each packet in big letters, like BROKEN GLASS or SHARP. Then the collector knows to be careful.",
      "adult": true,
      "parent": "Ask your building, your city's waste helpline, or a shop that sells batteries or bulbs where to take the danger box. Many cities have collection days or points for this.",
      "check": {
@@ -1952,7 +1952,7 @@
      "mins": 3,
      "do": "Before you go, make a tally sheet with five rows: open bins, closed bins, litter, still water, blocked drains.",
      "say": "We are going to be safety inspectors. What could make our building unsafe?",
-     "kid": "Make five rows: open bins, closed bins, litter, still water, blocked drains.",
+     "kid": "Make a tally sheet with five rows: open bins, closed bins, litter, still water, blocked drains.",
      "adult": true,
      "context": "This is the first step of the Clean and Safe Walk. Do this only if you can go round your building or lane with a grown-up."
     },
@@ -1973,7 +1973,7 @@
      "kid": "Count your marks. What was the biggest problem? What one change would help?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 3, finds a coconut shell full of rainwater near her building's gate. Why should it be emptied?",
+      "q": "A coconut shell full of rainwater is lying near a building's gate. Why should it be emptied?",
       "options": [
        "It looks untidy",
        "Mosquitoes can lay eggs in still water, and some spread dengue",
@@ -2018,10 +2018,10 @@
     {
      "day": 3,
      "mins": 15,
-     "what": "Add the three golden rules at the bottom. Show it to your family and ask one neighbour what they think."
+     "what": "Write three rules at the bottom. Show the poster to your family and ask one neighbour what they think."
     }
    ],
-   "record": "A photo of the finished poster, and one thing a neighbour or family member said about it.",
+   "record": "Take a photo of the finished poster, and write down one thing a neighbour or family member said about it.",
    "setup": [
     {
      "art": "A child at a table with a list of things sorted into three columns on a notebook page.",
@@ -2043,7 +2043,7 @@
      "do": "1. Together, list 18 things your family throws out. 2. Sort them into WET, DRY and DANGER. 3. Put a question mark next to any tricky ones and talk them over.",
      "say": "What do we throw out most? Let's list 18 things. Which ones are tricky?",
      "kid": "List 18 things your family throws out. Sort them into WET, DRY and DANGER.",
-     "parent": "Tricky ones: a used tissue, a chips packet, a pizza box with cheese, a tea bag, a broken toy, an old toothbrush, a used diaper. Tissues and stained food boxes are often taken as wet or reject waste. Check your city's rules. Chips packets are dry waste, but many recyclers don't take them.",
+     "parent": "Tricky ones: a used tissue, a chips packet, a pizza box with cheese, a tea bag, a broken toy, an old toothbrush, a used diaper. Tissues and stained food boxes are often collected with wet waste, or as reject waste, which means waste that cannot be composted or recycled. Check your city's rules. Chips packets are dry waste, but many recyclers don't take them.",
      "context": "This is the first step of the Sorting Guide project. You list and sort 18 things your family throws out."
     },
     {
@@ -2258,7 +2258,7 @@
    "channel": "SciShow",
    "youtube": "0Yhaei1S5oQ",
    "mins": 8,
-   "why": "For the parent first. Explains how mercury from a factory built up in fish at Minamata, which goes with the how-we-found-out card and the danger box.",
+   "why": "For the parent first. Explains how mercury from a factory built up in fish at Minamata. It goes with the story of how the Minamata poisoning was found out, and with the Danger Box activity.",
    "check": "It talks about illness and death, so a parent should watch it first and decide whether to show it."
   }
  ],
@@ -2291,7 +2291,7 @@
   },
   {
    "t": "mcq",
-   "p": "Sneha, a girl in Class 3, puts a newspaper strip in a jar of dal for 15 minutes, and another strip in an empty jar. What will she most likely find?",
+   "p": "You put a newspaper strip in a jar of dal for 15 minutes, and another strip in an empty jar. What will you most likely find?",
    "opts": [
     "Both strips stay the same",
     "The strip in the dal is soaked and tears easily",
@@ -2471,7 +2471,7 @@
    "why_open": "Cities have tried fines, rewards, school campaigns, and refusing to collect mixed bags. What works in one city often fails in another, and people still argue about why."
   },
   {
-   "q": "Should cities sort waste at home, in big machine plants, or both?",
+   "q": "Should a city's waste be sorted at home, in big plants with machines, or both?",
    "why_open": "Machines are getting better at sorting dry waste, but they are costly and can take work away from waste pickers. No one agrees on the best mix."
   },
   {
@@ -2479,7 +2479,7 @@
    "why_open": "Scientists can measure them in soil and water near some dumps, but it is hard to say how much harm they do over many years."
   },
   {
-   "q": "Can we make packets that are easy to sort and recycle, like chips packets?",
+   "q": "Can packets like chips packets be made easy to sort and recycle?",
    "why_open": "Many packets are made of several layers stuck together, like plastic and metal foil. Pulling the layers apart is hard, and researchers are still working on it."
   }
  ],
@@ -2543,7 +2543,7 @@
    "why_maths": "Saying 'mixed waste is slower' is a start. Multiplying shows exactly how much more time mixing costs."
   },
   {
-   "problem": "In Sorting Week, Kavya, a girl in Class 3, made these tallies of mistakes: Monday 8, Tuesday 6, Wednesday 6, Thursday 4, Friday 3, Saturday 2, Sunday 1. Did the mistakes go down? On which day did they first go below half of Monday's?",
+   "problem": "In Sorting Week, one family's tallies of mistakes were: Monday 8, Tuesday 6, Wednesday 6, Thursday 4, Friday 3, Saturday 2, Sunday 1. Did the mistakes go down? On which day did they first go below half of Monday's?",
    "answer": "Yes, they went down. Half of Monday's 8 is 4. Thursday had exactly 4, so Friday, with 3, was the first day below half.",
    "explain": "Each day had the same or fewer mistakes than the day before, so they went down. Half of 8 is 4. 4 is not below 4, so Thursday doesn't count. Friday's 3 is below 4.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -2590,7 +2590,7 @@
   {
    "problem": "A collector buys clean, dry newspaper for 12 rupees a kilogram. A family has 5 kilograms of clean newspaper and 2 kilograms that got soaked in curry. How much money does the family get?",
    "answer": "60 rupees.",
-   "explain": "Only the clean newspaper can be sold. 5 kilograms times 12 rupees is 60 rupees. The 2 soaked kilograms are worth nothing, so they would have earned 24 more rupees if they had been kept dry.",
+   "explain": "Only the clean newspaper can be sold. 5 kilograms times 12 rupees is 60 rupees. The 2 soaked kilograms are worth nothing. If they had been kept dry, the family would have earned 24 more rupees.",
    "math_unit": "math.money.money-in-life.L3",
    "context": "In the Two-Jar Test, you found that newspaper soaked in sambar tears and can't be recycled. Collectors only buy clean, dry paper. The price here is made up.",
    "how": "e1",
@@ -2605,7 +2605,7 @@
    "why_maths": "Grouping lets you plan a big job by thinking about one small part of it."
   },
   {
-   "problem": "In the Lid or No Lid test, Divya, a girl in Class 3, counted 14 ants at the open box after 4 hours and 0 at the closed box. The next morning there were 23 at the open box. How many more ants came overnight?",
+   "problem": "In the Lid or No Lid test, there were 14 ants at the open box after 4 hours and 0 at the closed box. The next morning there were 23 ants at the open box. How many more ants came overnight?",
    "answer": "9 more ants.",
    "explain": "23 take away 14 is 9. You can check: 14 + 9 = 23. More ants came because ants that find food lay a smell trail that leads other ants to it.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2773,14 +2773,14 @@
  "roots": {
   "context": "We have been learning to sort waste, and finding out that mixing is quick and unmixing is slow. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the mixed jar, sambar soaked into the newspaper by itself within minutes. Once soaked, the paper tore when lifted and could not be sold. Mixing took no effort, but no rinsing could undo it. So the easiest moment to sort waste is the moment you throw it.",
+   "truth": "In the Two-Jar Test, sambar soaked into the newspaper in the MIXED jar by itself within minutes. Once soaked, the paper tore when lifted and could not be sold. Mixing took no effort, but no rinsing could undo it. So the easiest moment to sort waste is the moment you throw it.",
    "habit": "We think of sorting as a job for someone later: the truck, the waste picker, the plant. But mixing starts the moment things touch, and undoing it is slow, dirty work. So sorting belongs to the person holding the waste.",
-   "evidence": "In the two-jar test, the dry newspaper stayed whole while the one beside the sambar soaked and tore. In the sorting race, sorting the mixed heap took several times longer than sorting as you threw. Waste pickers at dumping grounds spend whole days pulling dry waste out of mixed heaps."
+   "evidence": "In the Two-Jar Test, the newspaper in the dry jar stayed whole, while the newspaper in the jar with sambar soaked and tore. In the Sorting Race, sorting the mixed things took several times longer than sorting each thing as it was thrown. Waste pickers at dumping grounds spend whole days pulling dry waste out of mixed heaps."
   },
   "three": {
    "who_am_i": "You are the person holding the waste at the one moment when sorting is easy. That makes you the first part of the city's cleaning.",
    "what_is_life": "Living things in nature mostly keep their leftovers where others can use them. A fallen leaf feeds worms and fungi right where it falls.",
-   "what_is_this_world": "A world where things mix by themselves and only work can pull them apart. Every clean street is kept clean by someone's work."
+   "what_is_this_world": "In this world, things mix by themselves, and only work can pull them apart. Every clean street is kept clean by someone's work."
   },
   "thread": "In nature, one living thing's leftovers become another's food, because they stay where others can reach them. A leaf falls and is eaten by worms and fungi, and the soil they make feeds the tree. People's waste breaks this circle when it is mixed. A peel stuck in plastic cannot feed the soil, and paper soaked in curry cannot become paper again. Sorting puts each thing back where it can be used.",
   "teachings": [
@@ -2792,7 +2792,7 @@
    {
     "source": "Tirukkural, verse 298",
     "teaching": "Water makes the outside clean. Truthfulness makes the inside clean.",
-    "link": "In the two-jar test, water rinsed the milk packet clean, but it could not clean the soaked paper. Water cleans only the outside of things."
+    "link": "In the Two-Jar Test, water rinsed the milk packet clean, but it could not clean the soaked paper. Water cleans only the outside of things."
    },
    {
     "source": "M. K. Gandhi, An Autobiography (The Story of My Experiments with Truth), 1927",
@@ -2802,7 +2802,7 @@
   ],
   "science": [
    {
-    "text": "Things that are mixed tend to stay mixed, and separating them takes energy. Physicists measure how mixed-up things are with a quantity called entropy, and left to itself it does not go down.",
+    "text": "Things that are mixed tend to stay mixed, and separating them takes energy. Physicists measure how mixed-up things are with a quantity called entropy. Left alone, entropy does not go down.",
     "status": "settled"
    },
    {
@@ -2824,7 +2824,7 @@
    "If nobody ever saw where their waste went, would they still sort it?",
    "Sugar spreads through tea by itself but never gathers back. Is there anything that unmixes by itself?",
    "Does a crow sorting through a garbage heap see waste, or food?",
-   "Lissy chechi carried the danger of the hidden glass, not the person who threw it. Is that fair?"
+   "In the story Lissy Chechi Says No, the broken glass hidden in the mixed bag could have cut Lissy chechi, the waste collector, and not Uncle Babu, who threw it. Is that fair?"
   ],
   "art": "A child standing still beside a green bin and a blue bin, eyes half-closed, holding a milk packet in both hands, with a faint line of hands stretching away from it: a collector, a sorter, a recycler."
  },

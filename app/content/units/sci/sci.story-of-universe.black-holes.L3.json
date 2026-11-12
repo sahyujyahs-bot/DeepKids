@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "I can explain that a black hole is a place where gravity is so strong that nothing, not even light, can get out.",
-  "I can show with the box test that a hole which lets light in but not out looks blacker than black paper, and say why a black hole looks black.",
+  "I can show with the Blackest Black experiment that a hole which lets light in but not out looks blacker than black paper, and say why a black hole looks black.",
   "I can explain escape speed: the faster you throw something up, the higher it goes, and at escape speed it never comes back down.",
   "I can explain that a black hole forms when a huge amount of mass is squeezed into a tiny space, for example when a giant star collapses.",
   "I can explain that from far away a black hole pulls no harder than a star of the same mass, so it does not suck things in.",
@@ -106,7 +106,7 @@
    "concept": "Why a black hole looks black",
    "status": "defined",
    "definition": "We see a thing when light comes from it to our eyes. A black hole looks black because no light comes out of it.",
-   "description": "Most things do not make their own light. We see them because light from the Sun or a lamp bounces off them into our eyes. White paper reflects most of the light that falls on it, so it looks bright. Black paper absorbs most of the light, but it still reflects a little. That little bit is why you can still see that it is paper. In the box test, light went into the small hole, bounced around inside, and was absorbed a little more at every bounce. Almost none found its way back out of the hole, so the hole looked blacker than black paper. A black hole is blacker still. Light that crosses its edge can never come back out at all.",
+   "description": "Most things do not make their own light. We see them because light from the Sun or a lamp bounces off them into our eyes. White paper reflects most of the light that falls on it, so it looks bright. Black paper absorbs most of the light, but it still reflects a little. That little bit is why you can still see that it is paper. In the Blackest Black experiment, light went into the small hole in the box, bounced around inside, and was absorbed a little more at every bounce. Almost none found its way back out of the hole, so the hole looked blacker than black paper. A black hole is blacker still. Light that crosses its edge can never come back out at all.",
    "examples": [
     "The pupil, the round black centre of your eye, is a hole into your eye. It looks black because light goes in and is absorbed inside.",
     "A deep well or a railway tunnel seen in bright daylight looks black inside, because very little light comes back out of it.",
@@ -196,11 +196,11 @@
   },
   {
    "text": "There is a black hole about 4 million times as heavy as the Sun at the centre of the Milky Way.",
-   "evidence": "The star S2 goes round it once every 16 years. Its speed and path give the mass. In 2022, a picture of the glowing gas round it was made."
+   "evidence": "The star S2 goes round it once every 16 years. From the star's speed and path, astronomers worked out the mass. In 2022, a picture of the glowing gas round it was made."
   },
   {
    "text": "Black holes form when giant stars collapse at the end of their lives.",
-   "evidence": "Black holes found next to ordinary stars, like Cygnus X-1, are a few to a few tens of times as heavy as the Sun, the mass a collapsed giant star would leave."
+   "evidence": "Black holes found next to ordinary stars, like Cygnus X-1, are from a few times to a few tens of times as heavy as the Sun. That is the mass a collapsed giant star would leave."
   },
   {
    "text": "Far away, a black hole pulls no harder than any other thing of the same mass.",
@@ -227,7 +227,7 @@
   {
    "claim": "Black holes slowly give off a very faint glow and shrink away over a very long time.",
    "who": "Stephen Hawking, in 1974",
-   "for": "His working joined the rules of the very small, quantum physics, with Einstein's gravity. Most physicists accept the working.",
+   "for": "His calculation joined quantum physics, the rules of the very small, with Einstein's theory of gravity. Most physicists accept the calculation.",
    "against": "The glow from real black holes would be far too faint to measure, so nobody has seen it.",
    "status": "debated",
    "context": "This card is about whether black holes last for ever."
@@ -253,7 +253,7 @@
    "hint": "A black hole has mass, like a thing. But its edge is not a surface you could touch. Which word fits better, and why?"
   },
   {
-   "q": "When the hole in your box looked blacker than black paper, was the blackness in the box or in your eyes?",
+   "q": "In the Blackest Black experiment, the hole in the box looked blacker than black paper. Was the blackness in the box or in your eyes?",
    "kind": "deep",
    "hint": "What was actually happening to the light? What did your eyes receive from the hole, and from the paper?"
   },
@@ -300,7 +300,7 @@
    "Is a black hole really a hole? What is it?",
    "What did Paati show with the soft ball?",
    "Why did Paati squeeze the slice of bread?",
-   "How did Nila work out that the Earth would not fall into a black hole Sun?"
+   "How did Nila work out that the Earth would not fall in if the Sun became a black hole?"
   ],
   "art": [
    "Karthik, a worried boy of seven, standing at the door of his grandmother's room in a Mysuru flat, while Kamala Paati reads the newspaper.",
@@ -363,7 +363,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess. Cover the lid with black paper and make a small hole. Rank the hole, the black paper and white paper. Make the hole bigger and rank again. Line the inside with black and rank again. Say what you think, what you saw and why."
+     "what": "Guess which will look darkest. Cover the box lid with black paper and make a small hole in it. Rank the hole, the black paper and white paper from darkest to lightest. Make the hole bigger and rank again. Line the inside of the box with black paper or cloth and rank again. Then say what you think, what you saw and why it happened."
     }
    ],
    "record": "Fill in the results table. Draw the lid, shading each part as dark as it looked.",
@@ -504,7 +504,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Measure a slice of bread. Squeeze it into a hard little ball and measure again. Compare the Earth with a marble to see how small the Earth would be as a black hole."
+     "what": "Measure a slice of bread. Squeeze it into a hard little ball and measure again. Then hold a big ball and a marble side by side to see how small the Earth would be as a black hole."
     }
    ],
    "record": "Draw the slice before and the ball after, with their widths written beside them.",
@@ -533,7 +533,7 @@
      "do": "1. Your child squeezes the slice in their fist, rolls it and squeezes again, as hard as they can. 2. Measure the ball. 3. Weigh it again, if you have a scale.",
      "say": "Squeeze as hard as you can. Roll it and squeeze again. How wide is it now? Does it weigh the same?",
      "kid": "Squeeze the bread hard. Roll it. Squeeze again. How wide is it now? Weigh it again.",
-     "parent": "A slice about 10 centimetres wide usually squeezes to a ball 2 or 3 centimetres wide. The weight stays the same, or within a gram or two, because a few crumbs may fall off. The air between the bread's holes was pushed out, but the bread itself is all still there.",
+     "parent": "A slice about 10 centimetres wide usually squeezes to a ball 2 or 3 centimetres wide. The weight stays the same, or within a gram or two, because a few crumbs may fall off. The air in the bread's holes was pushed out, but the bread itself is all still there.",
      "check": {
       "t": "mcq",
       "q": "After squeezing, the bread ball has:",
@@ -550,8 +550,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Hold up the big ball and say it is the Earth. 2. Hold up the marble beside it. 3. Tell your child what the Earth would look like as a black hole.",
-     "say": "Imagine squeezing the whole Earth like the bread, until it is as small as this marble. It would become a black hole. All the Earth's mass, in a ball about 2 centimetres wide. Why do you think its gravity would be so strong close to it?",
-     "kid": "This big ball is the Earth. Squeeze the whole Earth to marble size. It would be a black hole! Why?",
+     "say": "Suppose we squeezed the whole Earth like the bread, until it was as small as this marble. It would become a black hole, with all the Earth's mass in a ball about 2 centimetres wide. Why do you think its gravity would be so strong close to it?",
+     "kid": "This big ball is the Earth. If the whole Earth were squeezed to the size of this marble, it would be a black hole. Why would its gravity be so strong close to it?",
      "ask": [
       {
        "q": "Why would a marble-sized Earth have such strong gravity close to it?",
@@ -578,7 +578,7 @@
      "caption": "3. The whole Earth, squeezed to marble size."
     }
    ],
-   "context": "This is Squeeze the Bread. You squeeze a slice of bread to see that squeezing makes things smaller without changing their mass, the way a black hole forms."
+   "context": "This is Squeeze the Bread. You squeeze a slice of bread to see that squeezing makes things smaller without changing their mass. A black hole forms when a huge mass is squeezed into a tiny space."
   },
   {
    "id": "a2",
@@ -603,7 +603,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Act out the Earth going round the Sun on a scarf. Then the Sun crouches small and turns off its torch, and the Earth keeps going round."
+     "what": "A grown-up is the Sun and a child is the Earth, each holding one end of a scarf. The Earth walks round the Sun. Then the Sun crouches small and turns off its torch, and the Earth keeps going round."
     }
    ],
    "record": "Draw two pictures: the Earth going round the Sun, and the Earth going round a black hole of the same mass.",
@@ -614,7 +614,7 @@
      "do": "1. The grown-up stands in the middle as the Sun, holding a lit torch and one end of the scarf. 2. The child holds the other end and walks round in a big circle as the Earth, keeping the scarf tight.",
      "say": "I am the Sun. The scarf is gravity, pulling you towards me. Walk round me, keeping it tight. That is the Earth going round the Sun.",
      "kid": "You are the Earth. Hold the scarf tight. Walk round the Sun in a circle.",
-     "context": "This is the first step of Swap the Sun. You act out the Earth going round the Sun on a scarf."
+     "context": "This is the first step of Swap the Sun. You act out the Earth going round the Sun, with a scarf as gravity."
     },
     {
      "id": "s2",
@@ -701,7 +701,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Make the room dark. 2. Prop a phone on a shelf, facing the clear space, and start filming. If another person is at home, they can sit by the wall and watch instead. 3. The child holds a lit torch at chest height, pointing up. 4. The grown-up, in dark clothes, holds the child's other hand.",
-     "say": "The torch is a star you can see. I am a hidden partner, like a black hole. We must find me using only the light.",
+     "say": "The torch is a star you can see. I am a hidden partner, like a black hole. We will find where I am using only the light.",
      "kid": "Hold the torch up. Hold the grown-up's hand. The film or the watcher can only see your light.",
      "adult": true,
      "context": "This is the first step of the Hidden Partner. You find an unseen partner by watching a light move round them, the way astronomers find black holes."
@@ -709,7 +709,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. The child and the grown-up lean back a little and turn round slowly together, holding hands, three or four times. 2. Stop the film, then watch it together (or the watcher points). Point to where the hidden partner must be.",
+     "do": "1. The child and the grown-up lean back a little and turn round slowly together, holding hands, three or four times. 2. Stop the film and watch it together. Point to where the hidden partner must be. If a person watched instead of the phone, they point.",
      "say": "The light is going round in a circle. Where do you think the hidden partner is standing?",
      "kid": "Spin slowly with the grown-up. Then watch the film. Where is the hidden partner? Point!",
      "adult": true,
@@ -722,7 +722,7 @@
        ]
       }
      ],
-     "parent": "The heavier grown-up turns almost on the spot, while the lighter child makes a big circle. So the hidden partner is near the middle of the light's circle. The film shows only the moving light, so the grown-up can stand still in the middle and the circle is easy to see."
+     "parent": "The heavier grown-up turns almost on the spot, while the lighter child makes a big circle. So the hidden partner is near the middle of the light's circle. The grown-up can simply turn on the spot in the middle. The film shows only the moving light, so the circle is easy to see."
     },
     {
      "id": "s3",
@@ -884,9 +884,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the first box. Ask how they could make a darker black.",
-     "say": "Your box hole was darker than black paper. How could you make something even darker? What did the test teach you?",
-     "kid": "Your hole was blacker than black paper. How could you make it even darker? Think of the test.",
+     "do": "Show your child the box from the Blackest Black experiment. Ask how they could make a darker black.",
+     "say": "In the Blackest Black experiment, the hole in your box looked darker than black paper. How could you make something even darker? What did that experiment teach you?",
+     "kid": "The hole in your Blackest Black box was blacker than black paper. How could you make something even darker?",
      "context": "This is the first step of the Blackest Black challenge. You design a light trap that looks even darker than your first box."
     },
     {
@@ -901,7 +901,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Put the new design next to the first box. Ask a second person which looks darker.",
+     "do": "Put the new design next to the Blackest Black box. Ask a second person which looks darker.",
      "say": "Which looks darker? Why do you think your change helped, or did not help?",
      "kid": "Put them side by side. Which is darker? Why?",
      "ask": [
@@ -1127,7 +1127,7 @@
    ],
    "a": 1,
    "outcome": 0,
-   "why": "A black hole is a place where a huge amount of mass is squeezed so tight that its gravity traps even light. Picking 'an empty hole' is a common mix-up from the name. A black hole is not empty at all."
+   "why": "A black hole is a place where a huge amount of mass is squeezed so tight that its gravity traps even light. Many people pick 'an empty hole' because of the name, but a black hole is not empty at all."
   },
   {
    "t": "mcq",
@@ -1143,11 +1143,11 @@
   },
   {
    "t": "mcq",
-   "p": "A boy throws a ball straight up, harder each time. What happens?",
+   "p": "You throw a ball straight up, harder each time. What happens?",
    "opts": [
     "It goes higher each time before it falls back",
     "It always goes to the same height",
-    "It falls back faster when he throws it gently"
+    "It falls back faster when you throw it gently"
    ],
    "a": 0,
    "outcome": 2,
@@ -1179,7 +1179,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Class 3, squeezes a slice of bread into a tiny ball. What has changed?",
+   "p": "You squeeze a slice of bread into a tiny ball. What has changed?",
    "opts": [
     "Its mass, the amount of bread",
     "Its size",
@@ -1337,7 +1337,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the box from the experiment, cut in half so we can see inside. Draw an arrow for light going into the hole and bouncing around inside.",
+     "p": "Draw the box from the Blackest Black experiment, cut in half so we can see inside. Draw an arrow for light going into the hole and bouncing around inside.",
      "a": "A box with a hole in the lid, and an arrow entering the hole and zig-zagging between the walls, getting shorter or fainter at each bounce, without coming back out.",
      "why": "The drawing shows the idea: light gets in, but each bounce soaks some up, so almost none finds the hole again.",
      "how": "e1",
@@ -1345,7 +1345,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 3, throws a ball up gently, then harder. The harder throw:",
+     "p": "You throw a ball up gently, then harder. The harder throw:",
      "opts": [
       "goes higher before it comes back",
       "comes back at once",
@@ -1421,7 +1421,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl in Class 3, and her friend Arjun talk about the name 'black hole'.",
+     "p": "Two children, Kavya and Arjun, talk about the name 'black hole'.",
      "views": [
       {
        "who": "Kavya, aged 8",
@@ -1434,7 +1434,7 @@
      ],
      "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Kavya: no light comes out, so it is black, and anything that crosses the edge falls in for good. For Arjun: a black hole is a huge mass squeezed small, not an empty space. Then it gives the other side its due.",
+     "a": "A strong answer picks a side with evidence. For Kavya: no light comes out, so it is black, and anything that crosses the edge falls in for good. For Arjun: a black hole is a huge mass squeezed small, not an empty space. Then it says one thing the other person has right.",
      "why": "Both are partly right. The name describes what we see and what happens to things that fall in, but not what a black hole is made of."
     }
    ]
@@ -1447,7 +1447,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In the experiment, the bigger hole usually looks less black than the small hole. Why might that be?",
+     "p": "In the Blackest Black experiment, the bigger hole usually looks less black than the small hole. Why might that be?",
      "lines": 3,
      "how": "e1",
      "context": "In the Blackest Black experiment, a box lid is covered with black paper and a small hole is made in it. The child compares how dark the hole looks with the black paper beside it.",
@@ -1456,7 +1456,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the experiment, lining the inside of the box with black cloth made the big hole look:",
+     "p": "In the Blackest Black experiment, lining the inside of the box with black cloth made the big hole look:",
      "opts": [
       "darker",
       "lighter",
@@ -1514,7 +1514,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "The stronger the gravity at a place, the faster you must go to escape it. A black hole's is the highest of all."
+     "why": "The stronger the gravity at a place, the faster you must go to escape it. A black hole's escape speed is the highest of all."
     },
     {
      "t": "draw",
@@ -1526,10 +1526,10 @@
     },
     {
      "t": "write",
-     "p": "Farhan, a boy in Class 4, says: 'Squeezing the Sun into a black hole would make it pull the Earth harder.' Is he right? Explain.",
+     "p": "Someone says: 'Squeezing the Sun into a black hole would make it pull the Earth harder.' Is that right? Explain.",
      "lines": 3,
-     "a": "No. Squeezing does not add mass, as the bread showed. From the Earth's distance, the pull depends on the mass, so it would stay the same.",
-     "why": "A strong answer uses the bread test as evidence and says that the pull from far away depends on mass."
+     "a": "No. Squeezing does not add mass. In Squeeze the Bread, the squeezed ball had the same mass as the slice. From the Earth's distance, the pull depends on the mass, so it would stay the same.",
+     "why": "A strong answer uses Squeeze the Bread as evidence and says that the pull from far away depends on mass."
     },
     {
      "t": "sort",
@@ -1611,7 +1611,7 @@
     },
     {
      "t": "perspective",
-     "p": "Priya, a girl in Class 4, and her grandmother argue about the black hole at the centre of our galaxy.",
+     "p": "Priya and her grandmother argue about the black hole at the centre of our galaxy.",
      "views": [
       {
        "who": "Priya, aged 9",
@@ -1624,7 +1624,7 @@
      ],
      "ask": "Who do you agree with more? Give a reason from this unit. Then say one thing the other person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Priya: seeing is strong evidence, and no picture shows the black hole itself, only gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it gives the other side its due.",
+     "a": "A strong answer picks a side with evidence. For Priya: seeing is strong evidence, and no picture shows the black hole itself, only gas round it. For her grandmother: many teams have tracked the stars for years, and no other heavy thing could fit in so small a space. Then it says one thing the other person has right.",
      "why": "This is a real question about evidence. Most knowledge about black holes comes from what they do to things nearby, not from seeing them."
     }
    ]
@@ -1640,11 +1640,11 @@
      "p": "Why do you think a deep well looks black from the top, even on a sunny day?",
      "lines": 3,
      "a": "Light goes down into the well and bounces off the walls, and a little is soaked up at each bounce. Very little comes back up out of the opening, so it looks black, like the hole in the box.",
-     "why": "A strong answer uses the box test to explain something new."
+     "why": "A strong answer uses the Blackest Black experiment to explain something new."
     },
     {
      "t": "mcq",
-     "p": "Zoya, a girl in Class 4, wants to make a hole that looks even blacker than her box hole. Which change would help most?",
+     "p": "You want to make a hole that looks even blacker than the hole in the Blackest Black box. Which change would help most?",
      "opts": [
       "A bigger hole in a shallow box",
       "A smaller hole in a deeper box lined with black cloth",
@@ -1660,7 +1660,7 @@
      "p": "If the Earth were squeezed until it was as small as a marble, would the Moon be pulled into it? Explain.",
      "lines": 4,
      "a": "No. The Earth would have the same mass, so from the Moon's distance it would pull just as hard as now. The Moon would keep going round it, as before.",
-     "why": "A strong answer applies the Sun-swap idea to a new case: the pull from far away depends on mass, not size."
+     "why": "A strong answer applies the idea from Swap the Sun to a new case: the pull from far away depends on mass, not size."
     },
     {
      "t": "truefalse",
@@ -1783,7 +1783,7 @@
      "t": "write",
      "p": "Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this unit.",
      "lines": 4,
-     "a": "A strong answer gives a view and evidence. For example: it is real, because stars swing round it and gas glows near it, the way the watcher found the hidden partner. Or: we should keep testing, because we only know it from clues.",
+     "a": "A strong answer gives a view and evidence. For example: it is real, because stars swing round it and gas glows near it. In the Hidden Partner activity, the watcher found the hidden partner in the same way. Or: we should keep testing, because we only know it from clues.",
      "why": "This asks how we can know something we cannot see. Any side is fine if it uses evidence."
     },
     {
@@ -1795,7 +1795,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three people talk about what is inside a black hole: Divya, a girl in Class 5, Gurpreet, her friend, and Divya's aunt, a physicist.",
+     "p": "Three people talk about what is inside a black hole: Divya, her friend Gurpreet, and Divya's aunt, who is a physicist.",
      "views": [
       {
        "who": "Divya, aged 10",
@@ -1823,7 +1823,7 @@
   "Einstein's theory of gravity, which predicts black holes, is also used to keep GPS clocks on satellites correct, so phone maps show the right place.",
   "The LIGO detectors that picked up colliding black holes measure lengths to far less than the width of an atom. India is building its own detector, LIGO-India, in Maharashtra.",
   "The computer methods used to make the first picture of the gas round a black hole, from many telescopes at once, are like methods used to build clearer pictures in medical scans.",
-  "Coatings that trap light like the box hole, such as Vantablack, line telescopes and cameras so stray light does not spoil the picture.",
+  "Coatings that trap light like the hole in the Blackest Black box, such as Vantablack, line telescopes and cameras so stray light does not spoil the picture.",
   "The study of hot gas falling into black holes helps scientists understand how matter behaves at temperatures far higher than any on Earth."
  ],
  "spotted": [
@@ -1920,17 +1920,17 @@
  ],
  "maths": [
   {
-   "problem": "In the Blackest Black experiment, Revathi, a girl in Class 3, made a small square hole 1 centimetre wide and a big square hole 3 centimetres wide. Draw both on squared paper with 1 centimetre squares. How many squares does each hole cover?",
+   "problem": "Suppose the small hole in the Blackest Black box was a square 1 centimetre wide, and the big hole was a square 3 centimetres wide. Draw both on squared paper with 1 centimetre squares. How many squares does each hole cover?",
    "answer": "The small hole covers 1 square. The big hole covers 9 squares.",
-   "explain": "The big hole is 3 squares wide and 3 squares tall. 3 times 3 is 9. So the big hole lets in 9 times as much light, and gives the light a much bigger way back out. That helps explain why it looked less black.",
+   "explain": "The big hole is 3 squares wide and 3 squares tall. 3 times 3 is 9. So the big hole lets in 9 times as much light, and gives the light a much bigger way back out. That helps explain why the big hole looked less black than the small one.",
    "math_unit": "math.area-perimeter.area.L3",
    "how": "e1",
    "context": "In the Blackest Black experiment, a box lid is covered with black paper and a small hole is made in it. The child compares how dark the hole looks with the black paper beside it.",
    "why_maths": "Counting squares shows how much bigger the opening really is, which helps explain the result."
   },
   {
-   "problem": "The Moon's escape speed is about 2 and a half kilometres a second. The Earth's is about 11. How many Moon escape speeds add up to about the Earth's? Is it more or less than 4?",
-   "answer": "A little more than 4.",
+   "problem": "The Moon's escape speed is about 2 and a half kilometres a second. The Earth's is about 11 kilometres a second. Is the Earth's escape speed more or less than 4 times the Moon's?",
+   "answer": "A little more than 4 times.",
    "explain": "2 and a half plus 2 and a half is 5. Four of them make 10, and 11 is a little more than 10. So the Earth's escape speed is a little more than 4 times the Moon's. This is why rockets leaving the Moon need far less fuel.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
    "why_maths": "Comparing two speeds by multiplying shows how much stronger one place's gravity is than another's."
@@ -1957,7 +1957,7 @@
    "why_maths": "Subtracting tells us how old the light is, in years we can place in history."
   },
   {
-   "problem": "In the Hidden Partner activity, the torch of Ishita, a girl in Class 3, went round 6 times in 30 seconds. How long did one round take?",
+   "problem": "In the Hidden Partner activity, the torch went round 6 times in 30 seconds. How long did one round take?",
    "answer": "5 seconds.",
    "explain": "30 seconds shared equally among 6 rounds is 5 seconds for each round. 6 times 5 is 30. Astronomers do the same with stars: they time the rounds to find how long one orbit takes.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2014,7 +2014,7 @@
  "warmup": [
   {
    "q": "What can never get out of a black hole?",
-   "a": "Anything, not even light."
+   "a": "Anything that falls in, even light."
   },
   {
    "q": "Why does a black hole look black?",
@@ -2122,12 +2122,12 @@
  "roots": {
   "context": "We have been learning that a black hole is a place where gravity is so strong that light cannot get out, so it looks perfectly black. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The hole in your box looked blacker than the black paper. Light went in through the hole and almost none came back out. We see black wherever light does not come back to our eyes. A black hole is black because its gravity lets no light come back at all.",
-   "habit": "We think of black as a colour that some things are made of, and of a black hole as a dark lump in space. Black is what we see when no light reaches our eyes from a place, and a black hole is a place that light cannot leave.",
+   "truth": "In the Blackest Black experiment, the hole in the box looked blacker than the black paper. Light went in through the hole and almost none came back out. We see black wherever light does not come back to our eyes. A black hole is black because its gravity lets no light come back at all.",
+   "habit": "We usually think of black as a colour that some things are made of, and of a black hole as a dark lump in space. In fact, black is what we see when no light reaches our eyes from a place, and a black hole is a place that light cannot leave.",
    "evidence": "In the Blackest Black experiment, a hole into a closed box looked darker than black paper, and a smaller hole usually looked darker than a bigger one. Nothing about the hole was coloured black. Only the light that came back out was different."
   },
   "three": {
-   "who_am_i": "You know about the black hole at the centre of our galaxy only by thinking about what you see around it. Your mind can know a place that your eyes can never see.",
+   "who_am_i": "Nobody can see the black hole at the centre of our galaxy. We know it is there only by thinking about how the stars round it move. Your mind can know a place that your eyes can never see.",
    "what_is_life": "Life on Earth runs on sunlight. If the Sun were swapped for a black hole of the same mass, the Earth would keep going round, but plants would have no light to make their food.",
    "what_is_this_world": "The same gravity that brings your ball back down holds stars on their paths round the black hole at the centre of our galaxy, 26,000 light-years away."
   },
@@ -2135,13 +2135,13 @@
   "teachings": [
    {
     "source": "Annambhatta's Tarkasangraha (17th century), the Nyaya school's example of inference",
-    "teaching": "The hill has fire, because the hill has smoke. Wherever there is smoke, there is fire, as in a kitchen. We do not see the fire, but we know it from the smoke. The Nyaya school called this kind of knowing anumana, inference.",
+    "teaching": "The Nyaya school of ancient India gave this example. You see smoke rising from a hill. Wherever there is smoke there is fire, as in a kitchen. So the hill has fire, though you cannot see the fire. The Nyaya school called this kind of knowing anumana, inference.",
     "link": "Nobody sees the black hole at the centre of our galaxy. Astronomers know it from the stars racing round it, the way the Nyaya thinkers knew the fire from the smoke."
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta (verses 3 and 7)",
-    "teaching": "In the beginning, darkness was hidden by darkness. The hymn ends by asking where everything came from, and says that perhaps even the one who watches from the highest heaven does not know.",
-    "link": "The inside of a black hole is a darkness nobody can look into. Scientists say honestly that they do not yet know what happens at its centre, as the hymn honestly asks rather than claims."
+    "teaching": "This hymn about where everything came from says that in the beginning, darkness was hidden by darkness. It ends by asking where everything came from, and says that perhaps even the one who watches from the highest heaven does not know.",
+    "link": "The inside of a black hole is a darkness nobody can look into. Scientists say honestly that they do not yet know what happens at its centre. The hymn does the same: it asks a question honestly instead of claiming an answer."
    }
   ],
   "science": [
@@ -2169,7 +2169,7 @@
    "kid": "Rub your hands warm. Cup them over your closed eyes. See the black? Breathe slowly five times. Open your eyes. Look at your pupil in a mirror. Light goes in there. Almost none comes out."
   },
   "ask": [
-   "When you saw the box hole look blacker than black paper, was the blackness in the box or in your eyes?",
+   "In the Blackest Black experiment, the hole in the box looked blacker than black paper. Was the blackness in the box or in your eyes?",
    "Can you really know something that you can never see? How?",
    "Is a black hole the end of the light that falls in, or only the end of our seeing it?"
   ],

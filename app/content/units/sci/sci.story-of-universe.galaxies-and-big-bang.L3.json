@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "I can say what a galaxy is, and name the main shapes: spiral, barred spiral, elliptical and irregular.",
-  "I can explain, using my balloon test, why far galaxies move away from us faster than near ones.",
+  "I can explain, using the Bindi Balloon experiment, why far galaxies move away from us faster than near ones.",
   "I can explain why galaxies moving away from us does not mean we are at the centre of the universe.",
   "I can say what the Big Bang was, and give two clues that the universe had a hot beginning.",
   "I can explain why we see a far galaxy as it was long ago, not as it is now.",
@@ -167,7 +167,7 @@
    ],
    "perspectives": [],
    "art": "The same group of galaxies drawn twice, the second time with every gap bigger, and arrows from one galaxy to all the others.",
-   "context": "This card explains what the bindi balloon showed."
+   "context": "This card explains what the Bindi Balloon experiment showed about the universe."
   },
   {
    "concept": "The Big Bang: the universe had a beginning",
@@ -225,7 +225,7 @@
  "agreed": [
   {
    "text": "The universe is expanding. Distant galaxies are moving apart, and the further away they are, the faster they move away.",
-   "evidence": "Astronomers measure the redshift of galaxies, how much their light is stretched. Since Hubble's work in 1929, thousands of galaxies have been measured, and the further away they are, the more their light is stretched."
+   "evidence": "Astronomers measure the redshift of galaxies, which is how much their light is stretched. Since Hubble's work in 1929, thousands of galaxies have been measured, and the further away they are, the more their light is stretched."
   },
   {
    "text": "About 13.8 billion years ago, the universe was extremely hot and packed together. This is the Big Bang.",
@@ -276,7 +276,7 @@
  ],
  "big_questions": [
   {
-   "q": "Every bindi on the balloon saw the others move away. If every place is like that, where is the centre of the universe?",
+   "q": "In the Bindi Balloon experiment, the other bindis moved away from every bindi. If every place in the universe is like that, where is the centre of the universe?",
    "kind": "deep",
    "hint": "Think about the balloon. Could you point to the centre on its skin? Is the middle of the air inside part of the model?"
   },
@@ -336,7 +336,7 @@
   "ask": [
    "Arjun said Periamma was not nineteen any more. Why was the letter still about a nineteen-year-old?",
    "How is sunlight like a letter that takes eight minutes to arrive?",
-   "Appa thought we must be in the middle of everything. How did Kavya show him what the balloon says?",
+   "Appa thought we must be in the middle of everything. How did Kavya use the balloon to show him that we are not?",
    "Why didn't the bindis get bigger when the balloon grew?",
    "What did Kavya mean when she said the beginning happened 'here too'?"
   ],
@@ -451,10 +451,10 @@
      "mins": 3,
      "do": "Play the first round together as practice, with the Andromeda card and the Pinwheel card.",
      "say": "Andromeda's light set off 2.5 million years ago. The Pinwheel's set off 21 million years ago. Which wins?",
-     "kid": "Andromeda, 2.5 million years. Pinwheel, 21 million years. Which light is older?",
+     "kid": "Andromeda's light set off 2.5 million years ago. The Pinwheel's light set off 21 million years ago. Which light is older?",
      "check": {
       "t": "mcq",
-      "q": "Which galaxy's light is older, so that galaxy is further away?",
+      "q": "Which galaxy's light set off longer ago, and so is further away: Andromeda or the Pinwheel?",
       "options": [
        "Andromeda",
        "The Pinwheel",
@@ -508,7 +508,7 @@
    "mins": 35,
    "days": 1,
    "question": "When a balloon grows, do the bindis on it all move apart by the same amount? Is there any bindi that the others do not move away from?",
-   "predict": "Before you blow the balloon bigger, guess. Will a near bindi and a far bindi move away from your home bindi by the same amount, or different amounts? Why do you think so?",
+   "predict": "One bindi on the balloon will be the home bindi. Before you blow the balloon bigger, guess. Will a bindi near the home bindi and a bindi far from it move away from it by the same amount, or by different amounts? Why do you think so?",
    "fair_test": "Use one balloon and do not move the bindis. Measure every gap the same way, from the middle of one bindi to the middle of the other, with the thread lying flat on the rubber. Measure all the gaps when the balloon is small, then all of them again when it is big.",
    "results_table": [
     "Pair of bindis",
@@ -547,7 +547,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Stick six bindis on a small balloon. Measure the gaps. Blow it bigger. Measure again. Say what you found."
+     "what": "Guess what will happen. Stick six bindis on a small balloon and measure the gaps between them. Blow the balloon bigger and measure the gaps again. Then say what you found."
     }
    ],
    "record": "Fill in the results table. Then write one sentence: the bindi that was furthest away moved ____ cm, and the nearest one moved ____ cm.",
@@ -560,7 +560,7 @@
      "kid": "Each bindi is a galaxy. The rubber is space. When the balloon grows, will near and far bindis move the same? Guess. Say why.",
      "ask": [
       {
-       "q": "Which bindi do you think will move furthest from home? Why?",
+       "q": "Which bindi do you think will move furthest from the home bindi: a near one or a far one? Why?",
        "good": [
         "They will all move the same, because the balloon grows the same everywhere.",
         "The far one, because there is more rubber between them to stretch."
@@ -615,7 +615,7 @@
      "kid": "Measure the same gaps again. Write them down. How much further apart is each pair?",
      "check": {
       "t": "mcq",
-      "q": "From home, which bindi moved furthest away?",
+      "q": "Which bindi moved furthest away from the home bindi, H?",
       "options": [
        "The nearest one, A",
        "The middle one, B",
@@ -646,9 +646,9 @@
     {
      "id": "s7",
      "mins": 4,
-     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why it happened.",
+     "kid": "Say or write three things: what you think now, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: when space stretches, far things move apart faster than near things, and there is no centre. What I saw: the bindi 9 cm away moved about three times as far as the one 3 cm away, and the bindis moved away from C as well as from H. Why: there is more rubber between far bindis, so more of it stretches. Now explain: galaxies are moving away from us in the same way. Hubble found that a galaxy twice as far away moves away about twice as fast. Every galaxy would see the same thing, so we are not at the centre."
     }
    ],
@@ -701,7 +701,7 @@
    "mins": 25,
    "days": 1,
    "question": "Does a spiral galaxy look the same from every direction? Does a ball-shaped galaxy?",
-   "predict": "Guess first. When you hold the plate so you see it exactly from the side, what shape will the spiral make? Will the orange change shape when you turn it? Why do you think so?",
+   "predict": "You will draw a spiral on a paper plate, and look at the plate and an orange from different sides. Guess first. When you see the plate exactly from the side, what shape will it look like? Will the orange change shape when you turn it? Why do you think so?",
    "fair_test": "Look at both models from the same distance, about one big step away, with one eye closed. Change only one thing: how much the model is tilted. Use the same three tilts for both: from the top, at a slant, and from the side.",
    "results_table": [
     "Model",
@@ -736,7 +736,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Draw a spiral on a plate. Look at the plate and an orange from the top, at a slant and from the side. Draw each shape. Compare with real galaxy photos from the ESA/Hubble website."
+     "what": "Guess what will happen. Draw a spiral on a plate. Look at the plate and an orange from the top, at a slant and from the side, and draw each shape you see. Then compare your drawings with real galaxy photos from the ESA/Hubble website."
     }
    ],
    "record": "Draw the six shapes you saw in the results table. Then write which model changed shape and which did not.",
@@ -812,9 +812,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why does it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why it happened.",
+     "kid": "Say or write three things: what you think now, what you saw, and why it happened.",
      "parent": "A good answer sounds like this. What I think: a spiral galaxy looks round, oval or like a line, depending on where we see it from, but a ball of stars looks round from everywhere. What I saw: the plate changed from a circle to a thin line, but the orange stayed round. Why: the plate is flat and the orange is not. Now explain: astronomers can only photograph each galaxy from one direction, from Earth. So they look for clues, like a bulge or a dark line of dust, to tell a disc seen from the side from a different kind of galaxy."
     }
    ],
@@ -899,8 +899,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Your child counts the galaxies in one box of the grid, leaving out the stars with spikes. 2. They multiply by 10 for the whole picture.",
-     "say": "Count the galaxies in just this one box. Don't count the bright ones with spikes. Now there are 10 boxes. About how many galaxies in the whole picture?",
-     "kid": "Count the galaxies in one box. Skip the spiky stars. Now times 10.",
+     "say": "Count the galaxies in just this one box. Don't count the bright ones with spikes. The picture has 10 boxes. So about how many galaxies are in the whole picture?",
+     "kid": "Count the galaxies in one box. Skip the spiky stars. Then multiply by 10.",
      "check": {
       "t": "mcq",
       "q": "Why do we count one box and multiply by 10?",
@@ -918,7 +918,7 @@
      "mins": 2,
      "do": "Ask about the smallest, faintest, reddest smudges.",
      "say": "Some smudges are tiny, faint and red. Why do you think they look like that?",
-     "kid": "Some smudges are tiny, faint and red. Why do you think so?",
+     "kid": "Some smudges are tiny, faint and red. Why do you think they look like that?",
      "parent": "Accept any guess now. The tiny red ones are mostly the furthest away. Their light set off billions of years ago, and on the way it was stretched towards red by the expanding universe. The unit comes back to this."
     }
    ],
@@ -991,7 +991,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Look at the calendar together. Point at where all of human history fits.",
-     "say": "Look how empty most of the year is for us. All of human history fits into the last few minutes of 31 December. Your whole life is less than a tenth of a second.",
+     "say": "For most of the year there are no people at all. All of human history fits into the last few minutes of 31 December. Your whole life is less than a tenth of a second.",
      "kid": "All of human history is in the last minutes of the year. Your life is shorter than a blink.",
      "check": {
       "t": "mcq",
@@ -1061,7 +1061,7 @@
      "do": "1. Lay the elastic along the ruler without stretching it. 2. Your child marks dots at 0, 2, 4, 6 and 8 cm. 3. Tape the end with the 0 dot to the table, at 0 on the ruler.",
      "say": "These dots are galaxies on a line, 2 centimetres apart. The dot at 0 is home. Let's tape it down.",
      "kid": "Mark dots at 0, 2, 4, 6 and 8 cm. The 0 dot is home. Tape it down.",
-     "context": "This is the first step of the Stretch the Elastic activity. You test the bindi balloon's pattern again on a straight line."
+     "context": "This is the first step of the Stretch the Elastic activity. You check the pattern from the Bindi Balloon experiment again, this time on a straight line."
     },
     {
      "id": "s2",
@@ -1152,9 +1152,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Find the Great Square: four stars making a big box, in the eastern sky. 2. From its corner where a line of stars leads away, follow two bright stars. 3. At the second one, look a little upwards for a faint smudge. 4. Look slightly to one side of it. 5. Draw it by red torchlight.",
+     "do": "1. Find the Great Square: four stars making a big box, in the eastern sky. 2. Find the corner of the square where a line of stars leads away, and follow that line two bright stars along. 3. At the second star, look a little upwards for a faint smudge. 4. Look slightly to one side of the smudge. 5. Draw it by red torchlight.",
      "say": "Find the big square of four stars. Go to the corner where a line of stars leads away, then two stars along. Now look up a little, slightly to one side.",
-     "kid": "Find the big square. Go to its corner. Two stars along, then look up a bit.",
+     "kid": "Find the big square of four stars. Go to the corner where a line of stars leads away. Go two stars along, then look up a little.",
      "adult": true,
      "parent": "The edge of your eye sees faint things better than the middle, which is why looking slightly to one side helps. With binoculars, the smudge is much easier. If you cannot see it, the sky is not dark enough. Use Stellarium Web to see where it should be.",
      "wait": "Do this on a clear, dark night in a place far from city lights."
@@ -1228,7 +1228,7 @@
      "mins": 10,
      "do": "Your child answers the questions for 20 galaxies. For each one, they also make a tally mark: spiral, smooth, or something else.",
      "say": "Is this one smooth and round, or does it have arms or a disc? Make a tally mark too.",
-     "kid": "Smooth, or arms and a disc? Answer. Then make a tally mark.",
+     "kid": "Is the galaxy smooth, or does it have arms or a disc? Answer, then make a tally mark.",
      "adult": true
     },
     {
@@ -1321,8 +1321,8 @@
      "id": "s3",
      "mins": 15,
      "do": "1. Your child adds a page about the Milky Way. 2. They add a last page of tips for telling galaxy shapes apart.",
-     "say": "What tips would you give someone sorting galaxies? Remember the plate and the orange.",
-     "kid": "Write tips for telling galaxy shapes apart. Remember the plate and the orange.",
+     "say": "What tips would you give someone sorting galaxies? Remember the plate and the orange in the Tilt the Spiral experiment.",
+     "kid": "Write tips for telling galaxy shapes apart. Remember the plate and the orange in the Tilt the Spiral experiment.",
      "ask": [
       {
        "q": "What is one tip?",
@@ -1357,7 +1357,7 @@
    "constraints": [
     "Use only things you have at home.",
     "Someone who has not done this unit must be able to see all three things in your model.",
-    "You can explain it in 5 sentences or fewer."
+    "You must be able to explain it in 5 sentences or fewer."
    ],
    "materials": [
     "a balloon, elastic, an old banian or stretchy cloth",
@@ -1370,7 +1370,7 @@
     "A stretchy cloth with buttons stitched or taped on, pulled from all sides."
    ],
    "creative": [
-    "Zoom in on a phone photo of dots with two fingers. Every dot moves away from every other dot. But the dots also get bigger, so this model gets one thing wrong. Can you find it?",
+    "Take a phone photo of some dots and zoom in on it with two fingers. Every dot moves away from every other dot. But the dots also get bigger, so this model gets one thing wrong. Can you find it?",
     "Use a stretchy cloth pulled by four people at four corners, so it stretches in every direction at once.",
     "Draw dots on paper, then draw the same dots on a bigger sheet with every gap doubled."
    ],
@@ -1483,7 +1483,7 @@
     "Yes, because the Milky Way is the biggest galaxy"
    ],
    "a": 1,
-   "why": "On the balloon, every bindi saw the others move away. So every galaxy sees the same, and no galaxy is the centre. The Milky Way is not the biggest galaxy either.",
+   "why": "In the Bindi Balloon experiment, the other bindis moved away from every bindi. In the same way, from every galaxy the others seem to move away, so no galaxy is the centre. The Milky Way is not the biggest galaxy either.",
    "outcome": 2
   },
   {
@@ -1496,7 +1496,7 @@
     "They are falling towards the Sun"
    ],
    "a": 0,
-   "why": "The galaxies are not being pushed. The space between them is growing, like the rubber between the bindis.",
+   "why": "The galaxies are not being pushed. The space between them is growing, like the rubber between the bindis on the balloon.",
    "outcome": 1
   },
   {
@@ -1539,7 +1539,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl looks at a galaxy twice as far away as Andromeda. Compared with Andromeda's light, when did her galaxy's light set off?",
+   "p": "A galaxy is twice as far away as Andromeda. Compared with Andromeda's light, when did this galaxy's light set off?",
    "opts": [
     "About twice as long ago",
     "At the same time",
@@ -1650,7 +1650,7 @@
     },
     {
      "t": "write",
-     "p": "On your balloon, was there any bindi that the others did not move away from? What does that tell you about where the centre of the universe is?",
+     "p": "In the Bindi Balloon experiment, was there any bindi that the others did not move away from? What does that tell you about where the centre of the universe is?",
      "lines": 3,
      "how": "e1",
      "context": "In the Bindi Balloon experiment, you stick bindis on a small balloon, measure the gaps between them with a thread, blow the balloon bigger, and measure again.",
@@ -1726,29 +1726,29 @@
     },
     {
      "t": "perspective",
-     "p": "Ananya, a girl in Class 3, and her family are talking about galaxies moving away from us.",
+     "p": "Three people in a family are talking about galaxies moving away from us.",
      "views": [
       {
-       "who": "Ananya's Thatha, her grandfather",
+       "who": "The grandfather",
        "says": "Almost every galaxy is moving away from us. So we must be at the centre of the universe."
       },
       {
-       "who": "Ananya, aged 8",
-       "says": "On my balloon, every bindi saw the others move away. So every galaxy would see the same thing, and there is no centre."
+       "who": "The child, aged 8",
+       "says": "In the Bindi Balloon experiment, the other bindis moved away from every bindi. So every galaxy would see the same thing, and there is no centre."
       },
       {
-       "who": "Farhana, her cousin, aged 12",
+       "who": "The cousin, aged 12",
        "says": "We can only see part of the universe. So we can't know where the middle is, or if it has one."
       }
      ],
-     "ask": "Who do you agree with most? Give a reason from the balloon test. Then say one thing that another person has right.",
+     "ask": "Who do you agree with most? Give a reason from the Bindi Balloon experiment. Then say one thing that another person has right.",
      "lines": 5,
-     "a": "A strong answer often agrees with Ananya, using the measurements from a second bindi. It also admits that Thatha's idea is a fair first guess, and that Farhana is right that we see only part of the universe.",
-     "why": "Thatha's idea was what many people thought at first. Ananya's is what astronomers found. Farhana's point is a real limit: light from beyond a certain distance has not had time to reach us."
+     "a": "A strong answer often agrees with the child, using the measurements from a second bindi. It also admits that the grandfather's idea is a fair first guess, and that the cousin is right that we see only part of the universe.",
+     "why": "The grandfather's idea was what many people thought at first. The child's is what astronomers found. The cousin's point is a real limit: light from beyond a certain distance has not had time to reach us."
     },
     {
      "t": "write",
-     "p": "Rohini, a girl in Class 4, says the Big Bang was a bomb that went off at one place in space. Use your balloon test to explain what is wrong with her picture.",
+     "p": "Some people say the Big Bang was a bomb that went off at one place in space. Use the Bindi Balloon experiment to explain what is wrong with this picture.",
      "lines": 4,
      "how": "e1",
      "context": "In the Bindi Balloon experiment, you stick bindis on a small balloon, measure the gaps between them with a thread, blow the balloon bigger, and measure again.",
@@ -1816,7 +1816,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Tilt the Spiral test, Lakshmi turns an orange round in her hand. What shape does she see from every side?",
+     "p": "In the Tilt the Spiral experiment, you turn an orange round in your hand. What shape do you see from every side?",
      "opts": [
       "Always a circle",
       "A thin line from the side",
@@ -1870,7 +1870,7 @@
      "t": "truefalse",
      "p": "Galaxies themselves are getting bigger as the universe expands.",
      "a": false,
-     "why": "False. Gravity holds a galaxy's stars together, so the galaxy does not grow. Only the space between groups of galaxies stretches. On the balloon, the bindis stayed the same size."
+     "why": "False. Gravity holds a galaxy's stars together, so the galaxy does not grow. Only the space between groups of galaxies stretches. In the Bindi Balloon experiment, the bindis stayed the same size."
     },
     {
      "t": "sort",
@@ -1911,7 +1911,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Stretch the Elastic activity, Meena's marks at 2 cm, 4 cm and 6 cm ended up at 4 cm, 8 cm and 12 cm. How far did the mark that started at 6 cm move?",
+     "p": "In the Stretch the Elastic activity, marks at 2 cm, 4 cm and 6 cm ended up at 4 cm, 8 cm and 12 cm. How far did the mark that started at 6 cm move?",
      "opts": [
       "2 cm",
       "4 cm",
@@ -1976,7 +1976,7 @@
      ],
      "ask": "Who would you have agreed with in the 1950s, before 1965? Give a reason. Then say what was found in 1965, and which side it helped.",
      "lines": 5,
-     "a": "Either side can be argued before 1965. Lemaître's idea follows simply from running the stretching backwards. Hoyle's idea avoids a beginning, which many people found hard to accept, and nobody had seen new matter appear, but nobody could have seen so little. In 1965, Penzias and Wilson found the faint glow left from a hot beginning, which helped Lemaître's side.",
+     "a": "Either side can be argued before 1965. Lemaître's idea follows simply from running the stretching backwards. Hoyle's idea avoids a beginning, which many people found hard to accept. Nobody had seen new matter appear, but so little was needed that nobody could have seen it. In 1965, Penzias and Wilson found the faint glow left from a hot beginning, which helped Lemaître's side.",
      "why": "This was a real debate between careful scientists. It was settled by a new measurement, not by who argued better."
     },
     {
@@ -2008,7 +2008,7 @@
    "items": [
     {
      "t": "write",
-     "p": "On the balloon, only the rubber skin stood for space. The air inside and the room outside were not part of the model. Why does this matter when you use the balloon to think about the universe?",
+     "p": "In the Bindi Balloon experiment, only the rubber skin stood for space. The air inside the balloon and the room outside were not part of the model. Why does this matter when you use the balloon to think about the universe?",
      "lines": 4,
      "how": "e1",
      "context": "In the Bindi Balloon experiment, you stick bindis on a small balloon, measure the gaps between them with a thread, blow the balloon bigger, and measure again.",
@@ -2017,7 +2017,7 @@
     },
     {
      "t": "mcq",
-     "p": "On a bigger balloon, Gargi, a girl in Class 5, found that bindi D started 4 times as far from home as bindi A. When the balloon grew, A moved 2 cm further away. About how far did D move?",
+     "p": "On a bigger balloon, bindi D started 4 times as far from the home bindi as bindi A. When the balloon grew, A moved 2 cm further away. About how far did D move?",
      "opts": [
       "2 cm",
       "4 cm",
@@ -2031,7 +2031,7 @@
     },
     {
      "t": "write",
-     "p": "Imagine the stretching of the universe played backwards, like a film in reverse. What would happen to the galaxies? What would the universe be like at the start?",
+     "p": "Suppose the stretching of the universe was played backwards, like a film in reverse. What would happen to the galaxies? What would the universe be like at the start?",
      "lines": 4,
      "a": "The galaxies would come closer and closer together. Everything would get packed tighter, and packed things get hotter. At the start, everything would be squeezed together and extremely hot. That is the Big Bang.",
      "why": "A strong answer goes step by step: closer, packed, hotter."
@@ -2119,9 +2119,9 @@
     },
     {
      "t": "write",
-     "p": "Dev, a boy in Class 3, says: 'Space is stretching, so my house must be stretching too.' What would you tell him?",
+     "p": "Someone says: 'Space is stretching, so my house must be stretching too.' What would you tell them?",
      "lines": 3,
-     "a": "Your house does not stretch. The stretching only shows across the huge gaps between groups of galaxies. Close by, the forces holding things together are far stronger. Even on the balloon, the bindis did not get bigger.",
+     "a": "Your house does not stretch. The stretching only shows across the huge gaps between groups of galaxies. Close by, the forces holding things together are far stronger. In the Bindi Balloon experiment, the bindis did not get bigger either.",
      "why": "A strong answer uses the bindis as evidence and names what holds things together."
     },
     {
@@ -2134,7 +2134,7 @@
       "Galaxies are not moving at all"
      ],
      "a": 0,
-     "why": "When everything stretches, there is more stretching space between you and a far galaxy than a near one. So far galaxies move away faster. This is just what the bindis did, and it is what astronomers measure."
+     "why": "When everything stretches, there is more stretching space between you and a far galaxy than a near one. So far galaxies move away faster. This is just what the bindis on the balloon did, and it is what astronomers measure."
     },
     {
      "t": "order",
@@ -2295,8 +2295,8 @@
  ],
  "maths": [
   {
-   "problem": "Bidisha, a girl in Class 4, did the Bindi Balloon test. She measured these gaps from home. Small balloon: A 3 cm, B 6 cm, C 9 cm. Big balloon: A 6 cm, B 12 cm, C 18 cm. How much further away did each bindi go? What pattern do you see?",
-   "answer": "A went 3 cm further, B 6 cm and C 9 cm. Each bindi moved as far again as it started, so each gap doubled.",
+   "problem": "In a Bindi Balloon test, these gaps were measured from the home bindi. Small balloon: A 3 cm, B 6 cm, C 9 cm. Big balloon: A 6 cm, B 12 cm, C 18 cm. How much further away did each bindi go? What pattern do you see?",
+   "answer": "A went 3 cm further, B 6 cm and C 9 cm. Each bindi moved as far as its starting distance from home, so each gap doubled.",
    "explain": "6 take away 3 is 3. 12 take away 6 is 6. 18 take away 9 is 9. The bindi that started 3 times as far away moved 3 times as much.",
    "math_unit": "math.patterns.number-patterns.L3",
    "how": "e1",
@@ -2352,7 +2352,7 @@
    "why_maths": "Comparing two big numbers shows how long the light was travelling before there were any people like us to see it."
   },
   {
-   "problem": "Deepti, a girl in Class 5, sorted 20 galaxy photos on Galaxy Zoo. She found 11 spirals, 6 smooth ovals and 3 that were something else. Draw a bar chart. Then say why some of Deepti's smooth ovals might really be spirals.",
+   "problem": "Someone sorted 20 galaxy photos on Galaxy Zoo. They found 11 spirals, 6 smooth ovals and 3 that were something else. Draw a bar chart. Then say why some of the smooth ovals might really be spirals.",
    "answer": "Bars of 11, 6 and 3. Some 'smooth ovals' might be spirals seen from a slant or far away, so their arms don't show.",
    "explain": "11 and 6 and 3 make 20. In the Tilt the Spiral test, the plate looked like an oval when tilted, and the arms were harder to see.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2360,7 +2360,7 @@
    "context": "In the Galaxy Zoo activity, you sort real galaxy photos on a website and keep a tally of their shapes.",
    "chart": {
     "type": "bar",
-    "title": "Deepti's Galaxy Zoo tally (made-up example)",
+    "title": "A Galaxy Zoo tally (made-up example)",
     "x": "Shape",
     "y": "Number of galaxies",
     "data": [
@@ -2570,26 +2570,26 @@
  "roots": {
   "context": "We have stretched a balloon, met the shapes of galaxies and learned that far light is old light. Now we ask what this says about where we are, and where everything came from.",
   "deep_truth": {
-   "truth": "On your balloon, every bindi moved away from every other, and far ones moved furthest. No bindi was the centre. Galaxies move apart the same way, because the space between them stretches. So the Big Bang happened everywhere at once, including right where you sit.",
+   "truth": "In the Bindi Balloon experiment, every bindi moved away from every other, and far ones moved furthest. No bindi was the centre. Galaxies move apart the same way, because the space between them stretches. So the Big Bang happened everywhere at once, including right where you sit.",
    "habit": "We picture the Big Bang as a bomb going off at one spot, with galaxies flying out like sparks. That picture puts a centre somewhere, and puts us off to one side. But the stretching happens everywhere at once, so there is no centre, and our place was part of the beginning like every other.",
-   "evidence": "On the balloon, the bindi three times as far from home moved about three times as much, and the same was true from a second bindi. Hubble and Lemaître found this pattern in real galaxies: twice as far away means moving away about twice as fast, in every direction."
+   "evidence": "In the Bindi Balloon experiment, the bindi three times as far from home moved about three times as much, and the same was true from a second bindi. Hubble and Lemaître found this pattern in real galaxies: twice as far away means moving away about twice as fast, in every direction."
   },
   "three": {
-   "who_am_i": "From every galaxy, the others seem to move away, just as from every bindi. So no place is the centre of the universe, and your place is as central as any other.",
-   "what_is_life": "Living things are made of carbon, oxygen and other atoms that only stars can make. The first stars had to shine and explode before there were any. So the universe was already hundreds of millions of years old before life could begin anywhere.",
+   "who_am_i": "From every galaxy, the others seem to move away, just as the other bindis moved away from every bindi on the balloon. So no place is the centre of the universe, and your place is as central as any other.",
+   "what_is_life": "Living things are made of carbon, oxygen and other atoms that only stars can make. The first stars had to shine and explode before any of these atoms existed. So the universe was already hundreds of millions of years old before life could begin anywhere.",
    "what_is_this_world": "The world is not standing still. The space between the galaxies grows every moment, and the light reaching us carries pictures of the past. The sky you see tonight shows many different times at once."
   },
-  "thread": "On the balloon there was no special bindi. Every one saw the same thing: the others moving away. Science found that every place in the universe is like this. No galaxy is the middle and none is the edge, and every place was part of the same hot beginning. People are one kind of life on one planet, in one galaxy among hundreds of billions, and that galaxy is in the middle exactly as much as every other.",
+  "thread": "In the Bindi Balloon experiment, no bindi was special. From every one, the others moved away. Science found that every place in the universe is like this. No galaxy is the middle and none is the edge, and every place was part of the same hot beginning. People are one kind of life on one planet, in one galaxy among hundreds of billions, and that galaxy is in the middle exactly as much as every other.",
   "teachings": [
    {
     "source": "Nicholas of Cusa, On Learned Ignorance (De docta ignorantia), Book 2, chapter 12, 1440",
     "teaching": "The world has its centre everywhere and its edge nowhere.",
-    "link": "Nicholas of Cusa, a German thinker, wrote this nearly 500 years before Hubble. On the balloon, every bindi could be called the centre, because from each one the others moved away."
+    "link": "Nicholas of Cusa, a German thinker, wrote this nearly 500 years before Hubble. In the Bindi Balloon experiment, every bindi could be called the centre, because from each one the others moved away."
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta (the hymn of creation)",
     "teaching": "Then there was neither being nor non-being. Who really knows where this world came from? The one who watches over it from the highest heaven perhaps knows, or perhaps does not know.",
-    "link": "Science has traced the universe back 13.8 billion years, to a hot, packed beginning. Before that, it does not know either. The hymn asks the same question, and is just as honest about not knowing."
+    "link": "Science has traced the universe back 13.8 billion years, to a hot, packed beginning. It does not know what came before that. This hymn, the Nasadiya Sukta in the Rig Veda, asks the same question, and is just as honest about not knowing."
    }
   ],
   "science": [

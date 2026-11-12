@@ -177,7 +177,7 @@
    "status": "defined",
    "context": "This card explains why a big compost heap can steam on a cool morning.",
    "definition": "When microbes break food down, they give out heat, the same way your body gives out heat. In a big heap, the heat cannot escape quickly, so the heap gets hot.",
-   "description": "The middle of a large compost heap can get hotter than 55 degrees Celsius. That is hotter than a cup of tea you can drink. Different microbes take over as it heats up, ones that live well in heat. The heat kills many seeds and germs. A small pot in a flat loses its heat too fast, so it only gets a little warm, or not warm at all. It still makes compost. It just takes longer.",
+   "description": "The middle of a large compost heap can get hotter than 55 degrees Celsius. That is hotter than a cup of tea you can drink. As the heap heats up, microbes that live well in heat take over. The heat kills many seeds and germs. A small pot in a flat loses its heat too fast, so it only gets a little warm, or not warm at all. It still makes compost. It just takes longer.",
    "examples": [
     "On a cold morning, steam rises from big compost heaps on farms.",
     "A small balcony pot may feel slightly warm in the middle, or just cool and damp."
@@ -268,7 +268,7 @@
    "claim": "Food and paper rot away quickly in a dump.",
    "who": "What most people believed until the 1980s",
    "for": "On a compost heap, peels disappear in weeks.",
-   "against": "Digging into landfills found readable newspapers and food that could still be recognised after decades. Without air, rotting almost stops.",
+   "against": "People who dug into landfills found newspapers they could still read, and food they could still recognise, after decades. Without air, rotting almost stops.",
    "status": "rejected",
    "context": "This card is about what really happens to garbage in a dump."
   },
@@ -292,7 +292,7 @@
    "claim": "Burning dry leaves is a clean way to get rid of them.",
    "who": "A common habit in many cities and villages",
    "for": "The leaves are gone in minutes.",
-   "against": "Burning fills the air with smoke that harms our lungs. Composted, the same leaves become browns for a compost pot and food for plants.",
+   "against": "Burning fills the air with smoke that harms our lungs. Put in a compost pot instead, the same leaves are browns, and they become food for plants.",
    "status": "rejected",
    "context": "This card is about what to do with fallen leaves."
   }
@@ -502,7 +502,7 @@
     "NOT IN THE POT: say why it does not go in the pot, and which bin it goes in. Turn the card over to check. If you are right, score 1 point. Then put the card on the discard pile.",
     "STIR, HEAVY RAIN and TIGHT LID: do what the card says. DRY WEEK and WORM FRIEND: answer the question, turn the card over, and score 1 point if you are right.",
     "A pot is sour when it has more greens than browns. WET markers count as greens. After every turn, check your pot and turn the pot card to the right side.",
-    "The game ends when the last card is played. Every pot that is Sweet scores 3 points. The most points wins. If points are equal, the player with the most browns wins.",
+    "The game ends when the last card is played. Every pot that is Sweet scores 3 points. The player with the most points wins. If points are equal, the player with the most browns wins.",
     "Playing alone: play one pot through all 32 cards and try to beat your own score next time."
    ],
    "flow": [
@@ -519,7 +519,7 @@
      "mins": 12,
      "do": "Take turns. After each turn, count the greens and browns in your pot.",
      "say": "Your pot has three greens and one brown. Is it sweet or sour? Why?",
-     "kid": "Count your greens and browns. More greens? Your pot goes sour.",
+     "kid": "Count your greens and browns. If you have more greens than browns, your pot goes sour.",
      "ask": [
       {
        "q": "Why does a pot with more greens than browns go sour?",
@@ -547,7 +547,7 @@
        "Heavy rain"
       ],
       "a": 0,
-      "why": "Her pot has too many wet greens. A brown such as newspaper soaks up the wet and makes air spaces. Mango skin and rain would make it wetter still."
+      "why": "The pot has too many wet greens. A brown such as newspaper soaks up the wet and makes air spaces. Mango skin and rain would make it wetter still."
      }
     }
    ]
@@ -678,7 +678,7 @@
      "mins": 8,
      "adult": true,
      "do": "1. Chop the peels into thumbnail-sized pieces. 2. Measure 1 cup of peels into jar A. 3. Measure 1 cup into jar B. 4. Add 1 spoon of potted-plant soil to each jar.",
-     "say": "Exactly the same peels in each jar, one cup each. And a spoon of soil each. Why do you think we add a little soil?",
+     "say": "Each jar gets exactly the same peels, one cup each. Each jar also gets a spoon of soil. Why do you think we add a little soil?",
      "kid": "A grown-up chops the peels. Put one cup in each jar. Add one spoon of soil to each.",
      "ask": [
       {
@@ -721,7 +721,7 @@
      "mins": 12,
      "wait": "Check on days 3, 5 and 7, for about 4 minutes each time.",
      "do": "1. Look at each jar from the side. 2. Is there liquid at the bottom? Are the peels slimy, grey, or covered with white threads? 3. Lift the cloth and waft the smell towards you. 4. Score the smell from 0 to 5. 5. Fill in the table.",
-     "say": "Let's check our jars. Look from the side first. Is there liquid at the bottom? Now let's waft the smell, never sniff right inside. Which jar smells worse?",
+     "say": "Let's check our jars. Look from the side first. Is there liquid at the bottom? Now let's waft the smell towards us. We never sniff right inside a jar. Which jar smells worse?",
      "kid": "Look at each jar from the side. Is there liquid at the bottom? Wave the smell towards your nose. Give each jar a smell score.",
      "parent": "In a warm Indian home, jar A usually collects brown liquid at the bottom by day 3 to 5, and the peels turn grey and slimy. It often smells sour, like old curd or vinegar, or worse. Jar B often stays drier, because the paper soaks up the liquid. Its smell is milder and more like damp soil. White fluffy fungus threads often appear in jar B. Small fruit flies may gather on the cloth. That is normal. If both jars smell the same by day 5, give them more time. If jar A is not wet at all, the peels were too dry. Add a few watery peels to both jars and keep checking. Real jars differ with the weather and the peels, so use your own scores, whatever they are."
     },
@@ -742,7 +742,7 @@
        "Paper stops all rotting"
       ],
       "a": 0,
-      "why": "Both jars had the same peels. Wet peels slump together and leave no room for air. Then microbes that live without air take over, and they make sour smells. The paper in jar B soaked up the wet and held the peels apart, so air got in. Paper does not stop rotting: the paper in jar B was rotting too. If you picked 'more peels', check the table: both jars had one cup."
+      "why": "Both jars had the same peels. Wet peels slump together and leave no room for air. Then microbes that live without air take over, and they make sour smells. The paper in jar B soaked up the wet and held the peels apart, so air got in. Paper does not stop rotting: the paper in jar B was rotting too. If you picked 'more peels', remember that both jars had one cup."
      }
     },
     {
@@ -789,10 +789,10 @@
    "title": "Stir or Leave: does stirring a jar of peels change the smell?",
    "mins": 40,
    "days": 7,
-   "context": "This test follows the paper jar test. Here both jars have only peels. One is stirred every day, the other is left alone.",
+   "context": "This test comes after the Peels Alone or Peels with Paper test. Here both jars have only peels, with no paper. One jar is stirred every day, and the other is left alone.",
    "question": "Two jars hold the same peels, with no paper. Jar C is stirred once a day. Jar D is never stirred. Does stirring change the smell?",
    "predict": "Guess first. Will the stirred jar smell better, worse or the same as the jar that is left alone? And why do you think so?",
-   "fair_test": "Same jars, same amount of the same peels, one spoon of soil each, the same cloth cover and the same place. Only one thing is different: jar C is stirred for 10 seconds every day.",
+   "fair_test": "Both jars are the same size and hold the same amount of the same peels. Each gets one spoon of soil and the same cloth cover, and they stand in the same place. Only one thing is different: jar C is stirred for 10 seconds every day.",
    "results_table": [
     "Day",
     "Jar C, stirred: smell (0 to 5)",
@@ -881,8 +881,8 @@
      "mins": 5,
      "context": "This is the first step of the Stir or Leave test. You find out whether stirring changes the smell.",
      "do": "1. Explain that both jars get only peels, no paper. 2. Ask for a guess and a reason. 3. Write them down.",
-     "say": "This time, no paper. Jar C gets stirred every day. Jar D is left alone. Which do you think will smell worse? Why?",
-     "kid": "No paper this time. Jar C gets stirred every day. Jar D does not. Which will smell worse? Why?",
+     "say": "Both jars get only peels, with no paper. Jar C gets stirred every day. Jar D is left alone. Which do you think will smell worse? Why?",
+     "kid": "Both jars get only peels, with no paper. Jar C gets stirred every day. Jar D does not. Which will smell worse? Why?",
      "ask": [
       {
        "q": "What do you think stirring will do?",
@@ -899,7 +899,7 @@
      "mins": 10,
      "adult": true,
      "do": "1. Chop the peels. 2. Put 1 cup in each jar with 1 spoon of soil. 3. Press each down gently 5 times. 4. Cover both with cloth. 5. Stand them side by side in the shade.",
-     "say": "Same peels, same soil, same presses. The only difference will be the stirring.",
+     "say": "Both jars get the same peels, the same soil and the same presses. The only difference will be the stirring.",
      "kid": "Put one cup of peels in each jar. Add a spoon of soil. Press five times. Cover them.",
      "parent": "Label the jars C and D so nobody stirs the wrong one."
     },
@@ -910,7 +910,7 @@
      "do": "1. Lift the cloth on jar C. 2. Stir from the bottom to the top for 10 seconds. 3. Cover it. 4. Waft the smell of each jar and score it. 5. Write the scores.",
      "say": "Stir jar C right from the bottom, so the bottom peels come up to the top. Now let's score both smells.",
      "kid": "Stir jar C from the bottom up. Count to ten. Then score both smells.",
-     "parent": "Jar D often smells sourer by day 4 or 5, with liquid at the bottom. Jar C may smell less, because stirring brings the bottom peels up to the air. The difference is usually smaller than in the paper test, because the peels in jar C are still wet. Right after you stir, jar C can smell stronger for a few minutes. Score it after a minute. If the two jars smell about the same, that is a real result too. It shows that air and dryness both matter."
+     "parent": "Jar D often smells sourer by day 4 or 5, with liquid at the bottom. Jar C may smell less, because stirring brings the bottom peels up to the air. The difference is usually smaller than in the Peels Alone or Peels with Paper test, because the peels in jar C are still wet. Right after you stir, jar C can smell stronger for a few minutes. Score it after a minute. If the two jars smell about the same, that is a real result too. It shows that air and dryness both matter."
     },
     {
      "id": "s4",
@@ -920,7 +920,7 @@
      "kid": "Which jar smelled worse? What did stirring do? Draw a line for each jar.",
      "check": {
       "t": "mcq",
-      "q": "A friend stirred one jar of peels every day and left another alone. The stirred jar smelled less sour. Why?",
+      "q": "One jar of peels was stirred every day. Another jar was left alone. The stirred jar smelled less sour. Why?",
       "options": [
        "Stirring let air reach the peels at the bottom",
        "Stirring killed all the microbes",
@@ -997,7 +997,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Open the wet-waste bin. 2. Waft the smell the same way. 3. Ask what it smells like.",
-     "say": "Now the bin, the same way. What does this smell like?",
+     "say": "Now smell the bin the same way. What does this smell like?",
      "kid": "Now wave the smell from the bin towards you. What does it smell like?",
      "ask": [
       {
@@ -1028,8 +1028,8 @@
        ]
       }
      ],
-     "think": "Keep your idea. The jar test will help you check it.",
-     "parent": "Don't give the answer. The paper jar test answers it."
+     "think": "Keep your idea. The Peels Alone or Peels with Paper test, with two jars of peels, will help you check it.",
+     "parent": "Don't give the answer. The Peels Alone or Peels with Paper test answers it."
     }
    ]
   },
@@ -1252,7 +1252,7 @@
     {
      "day": 56,
      "mins": 17,
-     "what": "Tip out the compost. Pick out any big pieces to go back in. If it is not dark and crumbly yet, leave it 2 to 4 more weeks. Use the compost in a pot and plant a seedling in the compost."
+     "what": "Tip out the compost. Pick out any big pieces to go back in. If it is not dark and crumbly yet, leave it 2 to 4 more weeks. Mix the compost into the soil of a pot and plant a seedling in it."
     }
    ],
    "record": "Keep a compost diary: the date, what you added, the smell, whether it felt warm, and what you saw. Draw the pot on days 1, 28 and 56.",
@@ -1299,7 +1299,7 @@
      "wait": "Every day, add peels and cover them with browns. Every 3 or 4 days, stir and do the squeeze test.",
      "do": "1. Every day, add the peels and cover them. 2. Every 3 or 4 days, stir from the bottom up. 3. Squeeze a handful with a gloved hand.",
      "say": "Let's do the squeeze test. If water drips out, it is too wet, so add more browns. If it crumbles dry, sprinkle a little water.",
-     "kid": "Squeeze a handful with your glove on. Lots of drips? Add browns. Dry and dusty? Add water.",
+     "kid": "Squeeze a handful with your glove on. If lots of water drips out, add browns. If it is dry and dusty, add a little water.",
      "ask": [
       {
        "q": "The pot smells sour today. What should we do?",
@@ -1320,7 +1320,7 @@
      "kid": "Smell the pot. Feel its side. Look for tiny helpers. Write it in your diary.",
      "check": {
       "t": "mcq",
-      "q": "Farhan's compost pot smells sour and there is water at the bottom. What should he add?",
+      "q": "A compost pot smells sour and there is water at the bottom. What should you add?",
       "options": [
        "Dry browns, such as torn newspaper, and then stir",
        "More wet peels",
@@ -1388,9 +1388,9 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the No-Smell Kitchen Composter challenge. You start from the problem.",
-     "do": "Remind your child of jar A in the paper jar test. Ask what made it smell.",
-     "say": "Remember jar A, with only peels? It went sour and slimy. What made it smell? So what must our composter do?",
-     "kid": "Remember the sour jar of peels? What made it smell? What must your composter do?",
+     "do": "Remind your child of jar A in the Peels Alone or Peels with Paper test, which had only peels and went sour. Ask what made it smell.",
+     "say": "In the Peels Alone or Peels with Paper test, jar A had only peels. It went sour and slimy. What made it smell? So what must our composter do?",
+     "kid": "In the Peels Alone or Peels with Paper test, the jar with only peels went sour. What made it smell? What must your composter do?",
      "ask": [
       {
        "q": "What must a no-smell composter do?",
@@ -1443,7 +1443,7 @@
    "channel": "WASTERUSH",
    "youtube": "-YdN5HCk7Bw",
    "mins": 5,
-   "why": "For the parent: William Rathje, from the How we found out card, talking about what digging into garbage taught him.",
+   "why": "For the parent: William Rathje, the archaeologist who dug into landfills, talks about what the garbage taught him.",
    "check": "Watch it yourself first, and check that it suits your child."
   }
  ],
@@ -1475,7 +1475,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl in Class 3, puts the same peels in two jars. She mixes torn paper into jar B only. After a week, jar A has liquid at the bottom and smells sour. What does this show?",
+   "p": "The same peels go into two jars. Torn paper is mixed into jar B only. After a week, jar A has liquid at the bottom and smells sour. What does this show?",
    "opts": [
     "Paper keeps peels drier and lets air in",
     "Paper makes peels rot faster than anything",
@@ -1488,7 +1488,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the paper jar test, why do both jars get exactly one cup of the same peels?",
+   "p": "In the Peels Alone or Peels with Paper test, jar B has paper mixed in and jar A does not. Why do both jars get exactly one cup of the same peels?",
    "opts": [
     "So the only difference is the paper",
     "Because one cup is the most a jar can hold",
@@ -1526,7 +1526,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy in Class 3, has a compost pot. It is dry and dusty, and nothing has changed for two weeks. What should he do?",
+   "p": "A compost pot is dry and dusty, and nothing has changed for two weeks. What should you do?",
    "opts": [
     "Sprinkle a little water and stir",
     "Add a tight lid",
@@ -1720,7 +1720,7 @@
     },
     {
      "t": "write",
-     "p": "In the paper jar test, jar B smelled less than jar A. Explain why. Use the words 'paper' and 'air'.",
+     "p": "In the Peels Alone or Peels with Paper test, jar A had only peels. Jar B had the same peels with torn paper mixed in. Jar B smelled less than jar A. Explain why. Use the words 'paper' and 'air'.",
      "lines": 3,
      "a": "The paper soaked up the water from the peels and held them apart. So air could get in. Microbes that use air did the work, and they do not make sour smells.",
      "why": "A full answer says what the paper did (soaked up water, kept spaces open) and why that matters (air for the microbes).",
@@ -1730,8 +1730,8 @@
      "t": "write",
      "p": "A neighbour in your building says a compost pot will make the whole balcony stink. What would you tell your neighbour, and what would you show them?",
      "lines": 4,
-     "a": "I would tell her that a pot only stinks when it has too little air or too much water. With holes, plenty of browns and stirring, it smells like damp soil. I would let them waft the smell of our pot or of jar B.",
-     "why": "A strong answer explains the cause of the smell and offers evidence they can check herself."
+     "a": "I would tell my neighbour that a pot only stinks when it has too little air or too much water. With holes, plenty of browns and stirring, it smells like damp soil. I would let my neighbour waft the smell of our pot, or of jar B from the Peels Alone or Peels with Paper test.",
+     "why": "A strong answer explains the cause of the smell and offers evidence the neighbour can check for themselves."
     },
     {
      "t": "label",
@@ -1953,7 +1953,7 @@
     },
     {
      "t": "write",
-     "p": "Before 1861, most people thought every living thing needed air. Then Louis Pasteur found microbes that live without air. Where in the paper jar test did you see signs of these microbes?",
+     "p": "Before 1861, most people thought every living thing needed air. Then Louis Pasteur found microbes that live without air. In the Peels Alone or Peels with Paper test, jar A had only peels. Where in that test did you see signs of microbes that live without air?",
      "lines": 3,
      "a": "At the bottom of jar A, where the peels were packed and wet. That is where there was least air, and it was slimy, grey and sour.",
      "why": "A strong answer connects Pasteur's discovery to evidence the child saw: the airless, sour bottom layer.",
@@ -2017,9 +2017,9 @@
     },
     {
      "t": "write",
-     "p": "The paper jar test used one jar of each kind. Why would a scientist repeat the test with more jars?",
+     "p": "The Peels Alone or Peels with Paper test used one jar of peels alone and one jar of peels with paper. Why would a scientist repeat the test with more jars?",
      "lines": 3,
-     "a": "One pair of jars could be different by luck, for example if one jar got warmer. If many pairs show the same, we can trust the result more.",
+     "a": "One pair of jars could be different by luck, for example if one jar got warmer. If many pairs show the same result, we can trust it more.",
      "why": "A strong answer says that one result can be a fluke, and that repeating it makes the result more trustworthy.",
      "how": "e1"
     }
@@ -2033,16 +2033,16 @@
    "items": [
     {
      "t": "write",
-     "p": "Meena, a girl in Class 3, did the paper jar test. Her jar B, with paper, smelled worse than jar A. Give two reasons that might explain this odd result.",
+     "p": "In the Peels Alone or Peels with Paper test, jar B has paper mixed in. Suppose jar B smelled worse than jar A, which had peels alone. Give two reasons that might explain this odd result.",
      "lines": 4,
-     "a": "Perhaps she poured water into jar B, so it was too wet. Perhaps she used shiny magazine paper, which does not soak up water. Perhaps cooked food got into jar B. Perhaps jar B was pressed down much harder.",
+     "a": "Perhaps water was poured into jar B, so it was too wet. Perhaps the paper was shiny magazine paper, which does not soak up water. Perhaps cooked food got into jar B. Perhaps jar B was pressed down much harder.",
      "why": "A strong answer looks for a second thing that changed, because in a fair test only the paper should be different."
     },
     {
      "t": "write",
      "p": "Plan a fair test to find out whether chopped peels become compost faster than whole peels. Say what you would keep the same and what you would change.",
      "lines": 5,
-     "a": "Two same jars, the same amount of the same kind of peel, the same soil, paper and place. Chop the peels in one jar into small pieces. Leave the other whole. Check every few days how much peel is left.",
+     "a": "Use two jars that are the same, with the same amount of the same kind of peel, the same soil and paper, in the same place. Chop the peels in one jar into small pieces. Leave the peels in the other jar whole. Check every few days how much peel is left.",
      "why": "A fair test changes only one thing, here the size of the pieces, and keeps everything else the same."
     },
     {
@@ -2170,14 +2170,14 @@
     },
     {
      "t": "write",
-     "p": "Plan a fair test to find out whether the spoon of soil in the jars made any difference. Say what you keep the same and what you change.",
+     "p": "In the Peels Alone or Peels with Paper test, each jar got a spoon of soil. Plan a fair test to find out whether the soil made any difference. Say what you keep the same and what you change.",
      "lines": 5,
-     "a": "Use two same jars with the same amount of the same peels and paper, in the same place. Put a spoon of soil in one jar and none in the other. Compare the smell and the look every few days.",
+     "a": "Use two jars that are the same, with the same amount of the same peels and paper, in the same place. Put a spoon of soil in one jar and none in the other. Compare the smell and the look every few days.",
      "why": "A fair test changes only one thing, here the soil, and keeps all the rest the same."
     },
     {
      "t": "write",
-     "p": "A waste picker says, 'Mixed waste makes my work dirty and slow.' What do you think she means? Use what wet peels do to paper.",
+     "p": "A waste picker says, 'Mixed waste makes my work dirty and slow.' What do you think she means? In your answer, say what wet peels do to paper.",
      "lines": 4,
      "a": "Wet peels and food soak into paper and cardboard and make them dirty, so they cannot be sorted and recycled easily. The waste also smells and is unpleasant to touch.",
      "why": "A strong answer links wet waste to spoiling dry waste, and to the person who has to sort it."
@@ -2294,7 +2294,7 @@
  ],
  "maths": [
   {
-   "problem": "Kavya, a girl in Class 3, weighed her family's peels on a kitchen scale for three days: 400 grams on Monday, 300 grams on Tuesday and 500 grams on Wednesday. How much was that altogether? Is it more or less than 1 kilogram?",
+   "problem": "A family weighed their peels on a kitchen scale for three days: 400 grams on Monday, 300 grams on Tuesday and 500 grams on Wednesday. How much was that altogether? Is it more or less than 1 kilogram?",
    "answer": "1,200 grams, which is 1 kilogram and 200 grams. That is more than 1 kilogram.",
    "explain": "400 + 300 = 700. 700 + 500 = 1,200 grams. 1,000 grams make 1 kilogram, so 1,200 grams is 1 kilogram and 200 grams.",
    "math_unit": "math.weight-capacity.weight.L3",
@@ -2302,11 +2302,11 @@
    "why_maths": "Weighing turns 'a lot of peels' into a number we can compare and add up over a week or a year."
   },
   {
-   "problem": "Here are made-up smell scores from the paper jar test, from 0 (no smell) to 5 (very bad). Jar A: day 3 is 2, day 5 is 3, day 7 is 4. Jar B: day 3 is 1, day 5 is 1, day 7 is 1. Draw a bar chart for day 7. What pattern do you see across the days, and what do you predict for day 9?",
+   "problem": "Here are made-up smell scores from the Peels Alone or Peels with Paper test, from 0 (no smell) to 5 (very bad). Jar A: day 3 is 2, day 5 is 3, day 7 is 4. Jar B: day 3 is 1, day 5 is 1, day 7 is 1. Draw a bar chart for day 7. What pattern do you see across the days, and what do you predict for day 9?",
    "answer": "On day 7, jar A's bar is 4 and jar B's is 1. Jar A's smell grows by 1 every two days, so it may be about 5 on day 9. Jar B stays at 1.",
    "explain": "Jar A went 2, 3, 4: up by 1 each check. If that goes on, day 9 would be 5, the highest score. Jar B stayed the same, so we predict 1. A prediction is a careful guess from a pattern. It can be wrong, so we check it.",
    "math_unit": "math.data.bar-charts.L3",
-   "context": "This is about the paper jar test. Two jars hold the same peels, and jar B also has torn paper mixed in. Every few days you score how bad each smells.",
+   "context": "This is about the Peels Alone or Peels with Paper test. Two jars hold the same peels, and jar B also has torn paper mixed in. Every few days you score how bad each jar smells.",
    "how": "e1",
    "chart": {
     "type": "bar",
@@ -2338,7 +2338,7 @@
    "why_maths": "Equal groups help us mix the pot in the right amounts, so it does not turn sour."
   },
   {
-   "problem": "Meenakshi, the girl in the story, starts her compost pot on 1 March. The compost is ready about 8 weeks later. About when will it be ready? How many days is 8 weeks?",
+   "problem": "A compost pot is started on 1 March. The compost is ready about 8 weeks later. About when will it be ready? How many days is 8 weeks?",
    "answer": "About 26 April. 8 weeks is 56 days.",
    "explain": "1 week is 7 days, so 8 weeks is 8 × 7 = 56 days. March has 31 days. From 1 March, 30 days takes us to 31 March. 26 more days takes us to 26 April. 30 + 26 = 56.",
    "math_unit": "math.time.calendar.L3",
@@ -2476,9 +2476,9 @@
  "roots": {
   "context": "We have been learning how microbes and worms turn peels into compost, and why air matters. Now we ask what compost tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In your test, the peels pressed alone went slimy and smelled sour. The same peels mixed with dry paper smelled like damp soil. Paper let air in, and microbes that use air did the work. So the smell of rotting tells us which microbes are at work, and whether they have air.",
+   "truth": "In the Peels Alone or Peels with Paper test, the peels pressed alone went slimy and smelled sour. The same peels mixed with dry paper smelled like damp soil. The paper let air in, and microbes that use air did the work. So the smell of rotting tells us which microbes are at work, and whether they have air.",
    "habit": "We say 'garbage stinks', as if the bad smell were packed inside the waste. But the same peels smelled sour in one jar and earthy in the other. The smell depends on who is feeding on the waste, and that depends on air.",
-   "evidence": "In the paper jar test, jar A, with peels alone, collected liquid and smelled sour within a few days. Jar B, with the same peels and paper, stayed drier and smelled milder, like damp earth. Stirring a jar every day can also make it smell less sour. In dumps, where garbage is pressed down with no air, food and paper last for decades."
+   "evidence": "In the Peels Alone or Peels with Paper test, jar A, with peels alone, collected liquid and smelled sour within a few days. Jar B, with the same peels and paper, stayed drier and smelled milder, like damp earth. Stirring a jar every day can also make it smell less sour. In dumps, where garbage is pressed down with no air, food and paper last for decades."
   },
   "three": {
    "who_am_i": "Your gut is full of microbes that live without air. They help digest the fibre in your food.",
@@ -2495,7 +2495,7 @@
    {
     "source": "Thich Nhat Hanh, Peace Is Every Step (1991), the chapter 'The Rose and the Garbage'",
     "teaching": "Look deeply at a rose, and you can see the garbage it will become. Look deeply at garbage, and you can see the compost and the roses it will become.",
-    "link": "In the project, peels became the compost that a tulsi or marigold grows in. The flower and the garbage are the same stuff at different times."
+    "link": "In the project Our Balcony Compost Pot, peels become the compost that a tulsi or marigold grows in. The flower and the garbage are the same stuff at different times."
    }
   ],
   "science": [
@@ -2526,7 +2526,7 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through for a city flat with home materials. The main test uses two cut plastic bottles, peels from one day's cooking, newspaper and a spoon of potted-plant soil, all found in most homes. Watery peels such as cucumber, tomato or watermelon rind are asked for, because they make jar A visibly wet and sour within 3 to 5 days in a warm home. The parent note says what to do if both jars smell the same. Smells are always wafted, never sniffed inside a jar. No step depends on worms or a garden: worms appear only in explanations and the game. The compost pot uses a bucket with holes melted by a grown-up, with a terracotta pot as the alternative.",
  "how_we_found_out": {
-  "story": "For a long time, most people thought a landfill worked like a giant compost heap. A landfill is a huge pit or pile where a city's garbage is dumped, pressed down and covered. People believed that food, paper and wood soon rotted away there. William Rathje, an archaeologist at the University of Arizona in the United States, decided to check. Archaeologists usually dig up old cities to learn how people lived. Rathje and his students dug into garbage instead. In 1973, in the city of Tucson, they began sorting and recording what families threw away. In 1987 they began drilling deep into landfills and pulling out what was buried there. They found newspapers that could still be read, decades after they were thrown away. The dates printed on them showed how long they had been buried. They found hot dogs and other food that could still be recognised. Packed tight, with almost no air and little water, the microbes that rot food and paper could hardly work. A landfill turned out to keep garbage for a very long time, not to compost it.",
+  "story": "For a long time, most people thought a landfill worked like a giant compost heap. A landfill is a huge pit or pile where a city's garbage is dumped, pressed down and covered. People believed that food, paper and wood soon rotted away there. William Rathje, an archaeologist at the University of Arizona in the United States, decided to check. Archaeologists usually dig up old cities to learn how people lived. Rathje and his students dug into garbage instead. In 1973, in the city of Tucson, they began sorting and recording what families threw away. In 1987 they began drilling deep into landfills and pulling out what was buried there. They found newspapers that could still be read, decades after they were thrown away. The dates printed on them showed how long they had been buried. They found hot dogs and other food that could still be recognised. The garbage was packed tight, with almost no air and little water, so the microbes that rot food and paper could hardly work. A landfill turned out to keep garbage for a very long time, not to compost it.",
   "who": "William Rathje and his students, the Garbage Project, University of Arizona",
   "when": "The Garbage Project began in 1973. The landfill digs began in 1987.",
   "wrong_idea": "A landfill rots food and paper away quickly, like a giant compost heap. Digging showed newspapers that could still be read and food that could still be recognised after decades."

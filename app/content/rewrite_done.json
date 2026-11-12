@@ -235,6 +235,16 @@
   "sci.sound.sources-of-sound.L3",
   "sci.sound.waves.L3",
   "sci.states.crystals.L3",
-  "sci.states.dissolving.L3"
+  "sci.states.dissolving.L3",
+  "sci.states.evaporation-and-condensation.L3",
+  "sci.states.liquids-up-close.L3",
+  "sci.states.particles.L3",
+  "sci.story-of-universe.black-holes.L3",
+  "sci.story-of-universe.galaxies-and-big-bang.L3",
+  "sci.story-of-universe.galaxies.L3",
+  "sci.the-very-small.atoms.L3",
+  "sci.waste.compost-and-disposal.L3",
+  "sci.waste.reduce-reuse-recycle.L3",
+  "sci.waste.sorting-waste.L3"
  ]
 }

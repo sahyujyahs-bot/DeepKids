@@ -3,7 +3,7 @@
  "title": "Thick and runny liquids, and the skin on water",
  "level": 3,
  "summary": {
-  "text": "Tip a spoon of water and a spoon of honey together, and the water is gone while the honey crawls. How easily a liquid flows is called its viscosity. Honey has a high viscosity because its particles hold on to each other and slide past each other slowly. Warm honey runs much faster than cool honey, because warmth makes its particles move faster. Water is runny, but its particles attract each other too, and at the top this makes a stretchy skin called surface tension. Water striders, insects with long, hairy, waterproof legs, live on that skin and hunt insects that fall onto ponds.",
+  "text": "Tip a spoon of water and a spoon of honey at the same moment. The water falls at once, and the honey comes down slowly. How much a liquid resists flowing is called its viscosity. Honey has a high viscosity because its particles hold on to each other and slide past each other slowly. Warm honey runs much faster than cool honey, because warmth makes its particles move faster. Water is runny, but its particles attract each other too. At the top of the water, this pull is called surface tension, and it makes the water act like a stretchy skin. Water striders, insects with long, hairy, waterproof legs, live on that skin and hunt insects that fall onto ponds.",
   "art": "A split picture. On the left, a spoon pouring a thin fast stream of water beside a spoon pouring a slow golden rope of honey that coils on a plate. On the right, a water strider standing on a pond, with small dimples in the water under each foot."
  },
  "intro": {
@@ -173,7 +173,7 @@
    "examples": [
     "Drops of water pile up on a coin into a dome before they spill over.",
     "A drop of soap breaks the skin, and the dome spills at once.",
-    "A loop of thread on water snaps into a circle when soap touches inside it."
+    "A loop of thread on water snaps into a circle when soap touches the water inside it."
    ],
    "perspectives": [],
    "art": "A side view of water in a glass with a magnified circle at the top: surface particles pulled down and sideways by their neighbours, forming a skin.",
@@ -478,7 +478,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Take turns. Each turn, two cards, a guess and a reason. Check with your results.",
+     "do": "Take turns. On each turn, turn over two cards, guess which liquid is thicker, and give a reason. Then check with your results.",
      "say": "Turn over two cards. Which is thicker? Tell us why.",
      "kid": "Turn two cards. Which is thicker? Say why. Then check.",
      "parent": "Some pairs are close, such as milk and buttermilk. If the tip test does not show a clear winner, call it a draw. That is a good scientific answer."
@@ -570,7 +570,7 @@
        }
       },
       {
-       "f": "A moth falls in after a night of lights. Big ripples! Skate 4 squares.",
+       "f": "A moth falls in after flying around lights all night. They make big ripples. Skate 4 squares.",
        "img": {
         "src": "media/cards/liquids-up-close-g2-1-02.jpg",
         "credit": "Raja bandi, CC BY, via iNaturalist"
@@ -628,7 +628,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the board pieces, cards and tokens. 2. Shuffle the pond cards. 3. Put the tokens on Start.",
+     "do": "1. Cut out the board pieces, cards and tokens. 2. Shuffle the pond cards. 3. Put the tokens on the steps, just before square 1.",
      "say": "You are water striders living on a temple tank. You hunt insects that fall onto the water. Let's see who reaches the lotus leaves first.",
      "kid": "You are a water strider on a temple tank. Hunt for food. Reach the lotus leaves.",
      "context": "This is the start of Strider Hunt, a board game about how water striders live on the surface of a pond."
@@ -792,7 +792,7 @@
      "mins": 3,
      "do": "1. Put half a teaspoon of honey in the small steel bowl. 2. Stand the bowl in the big bowl of warm water. 3. Wait 5 minutes.",
      "say": "This honey is warming in the water. Will it be faster, slower, or the same as the honey you raced at room warmth? Why?",
-     "kid": "Honey in a bowl in warm water. Will it be faster than the room-warm honey? Why?",
+     "kid": "Stand the bowl of honey in warm water. Will the warm honey be faster than the room-warm honey? Why?",
      "adult": true,
      "wait": "Wait 5 minutes while the honey warms. Look back at the table of results.",
      "ask": [
@@ -977,7 +977,7 @@
      "mins": 6,
      "do": "1. Drop plain water onto the middle of the coin, one drop at a time. 2. Make a tally mark for every drop. 3. Stop when the water spills over the edge. 4. Dry the coin and repeat twice more.",
      "say": "Count out loud. Look at the coin from the side. What shape is the water making?",
-     "kid": "Drop, count, drop, count. Look from the side. What shape is the water?",
+     "kid": "Add one drop at a time, and count each drop. Look from the side. What shape is the water?",
      "ask": [
       {
        "q": "What do you notice about the water as you add drops?",
@@ -994,7 +994,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Dry the coin well. 2. Do the same with the soapy water, three times. 3. Then do it with the oil, three times, wiping the coin with a tissue between tries.",
-     "say": "Now soapy water. Will it make the same tall dome? Then oil.",
+     "say": "Now try soapy water. Will it make the same tall dome? After that, try oil.",
      "kid": "Now try soapy water three times. Then oil three times. Count each drop.",
      "parent": "Soapy water usually holds far fewer drops, and makes a low, flat puddle that spills early. Oil also spreads flatter than water. Dry the coin very well after the soapy water. Any soap left on it will spoil the next plain water try."
     },
@@ -1274,7 +1274,7 @@
      "mins": 3,
      "do": "1. Let the water go still. 2. Float the paper squares near one edge. 3. Drop one grain of rice onto the far side, from about 10 centimetres up.",
      "say": "Watch the water, and watch the paper squares.",
-     "kid": "Float the paper squares. Drop a rice grain on the far side from up high. Watch.",
+     "kid": "Float the paper squares. Drop a rice grain onto the far side, from about 10 centimetres up. Watch.",
      "ask": [
       {
        "q": "What happened to the paper squares?",
@@ -1299,7 +1299,7 @@
      "do": "1. Your child closes their eyes. 2. They rest four fingertips very lightly on the water, as if they had strider legs. 3. Drop a rice grain or one drop of water on one side. 4. They point to where it came from.",
      "say": "Close your eyes. Rest your fingertips on the water, very lightly. When you feel a ripple, point to where it came from.",
      "kid": "Close your eyes. Touch the water lightly with your fingertips. Point where the ripple came from.",
-     "parent": "Keep the room quiet and the fingertips still. The ripple is small, and some children feel it and some do not. If your child cannot, drop the rice from higher up, or open their eyes and watch the paper squares instead.",
+     "parent": "Keep the room quiet and the fingertips still. The ripple is small, and some children feel it and some do not. If your child cannot, drop the rice from higher up, or let them open their eyes and watch the paper squares instead.",
      "think": "A water strider has six legs spread wide. How could that help them tell which way a ripple came from?"
     }
    ],
@@ -1344,7 +1344,7 @@
      "mins": 2,
      "do": "1. Check the caps are tight. 2. Stand the bottles in a row. 3. Ask for a guess.",
      "say": "When we turn each bottle upside down, the air bubble will rise. In which bottle will it rise slowest? Why?",
-     "kid": "Flip each bottle. The bubble will rise. Which bubble will be slowest? Why?",
+     "kid": "When you flip a bottle, the air bubble rises. In which bottle will it rise slowest? Why?",
      "context": "This is the first step of the bubble race. You guess which bottle's air bubble will rise slowest."
     },
     {
@@ -1416,7 +1416,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Hold the ketchup bottle upside down over the plate, without squeezing or shaking. 2. Count to ten. 3. Now tap the bottom of the bottle firmly with your palm.",
-     "say": "Upside down, and no squeezing. Does it come out? Now tap it hard.",
+     "say": "Hold the bottle upside down, with no squeezing. Does the ketchup come out? Now tap it hard.",
      "kid": "Hold the ketchup upside down. Don't squeeze. Wait. Now tap it hard.",
      "ask": [
       {
@@ -1440,12 +1440,12 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about why.",
+     "do": "Talk about why the ketchup and the curd got runnier.",
      "say": "Ketchup and curd have tiny bits inside them that hold each other in a loose net. Shaking and stirring break the net, so they flow.",
      "kid": "Shaking breaks a tiny net inside ketchup and curd. Then they flow.",
      "check": {
       "t": "mcq",
-      "q": "Aditi, a girl in Class 3, cannot get ketchup out of a full bottle. What should she try?",
+      "q": "Ketchup will not come out of a full bottle. What should you try?",
       "options": [
        "Put the bottle in the fridge",
        "Tap or shake the bottle",
@@ -1555,7 +1555,7 @@
    "title": "Slow Down the Water",
    "mins": 25,
    "context": "This is a challenge. You turn plain water into a liquid as slow as honey, using only things from the kitchen.",
-   "problem": "A juice-stall owner in Mysuru wants to make a thick drink that pours as slowly as honey. Start with 4 spoons of water. Add things from the kitchen to make it race down the tray as slowly as your honey did.",
+   "problem": "Make a thick drink that pours as slowly as honey. Start with 4 teaspoons of water. Add things from the kitchen until it runs down the syrup race tray as slowly as your honey did.",
    "constraints": [
     "Start with 4 teaspoons of water.",
     "Use only things from the kitchen, cold, with no cooking.",
@@ -1647,7 +1647,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem aloud. Remind your child about the thread loop.",
-     "say": "Remember the thread loop that jumped into a circle? Soap weakens the water's skin. How could that move a boat?",
+     "say": "In the Thread Loop activity, soap touched the water inside the loop, and the thread jumped into a circle. Soap weakens the water's skin. How could that move a boat?",
      "kid": "Soap makes the water's skin weaker. How could that move a boat?",
      "context": "This is the first step of the Soap Boat challenge. You plan a boat that soap can move."
     },
@@ -1677,7 +1677,7 @@
      "do": "Compare designs.",
      "say": "Which boat went furthest? Why do you think it worked best?",
      "kid": "Which boat went furthest? Why?",
-     "think": "If soapy water from a washing step ran into a pond, what would happen to the water striders?"
+     "think": "If soapy water ran into a pond, what would happen to the water striders?"
     }
    ],
    "setup": [
@@ -1745,10 +1745,10 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3, races half a teaspoon of each liquid down a tray. Why must every liquid use the same amount?",
+   "p": "In the syrup race, half a teaspoon of each liquid is raced down a tray. Why must every liquid use the same amount?",
    "opts": [
     "So the test is fair, and only the liquid changes",
-    "So she uses less honey",
+    "So less honey is used",
     "So the tray stays clean"
    ],
    "a": 0,
@@ -1778,7 +1778,7 @@
     "Warm honey is heavier"
    ],
    "a": 1,
-   "why": "Warmth makes the particles jiggle harder, so they let go of their neighbours more easily. Picking 'water in it' is a fair worry, but the honey was in its own dry bowl.",
+   "why": "Warmth makes the particles jiggle harder, so they let go of their neighbours more easily. Picking 'water in it' is a fair worry, but in the syrup race the honey was warmed in its own dry bowl.",
    "outcome": 2
   },
   {
@@ -1815,7 +1815,7 @@
     "Nothing"
    ],
    "a": 1,
-   "why": "Soap weakens the skin. That is why the soapy dome spilled sooner and the thread loop jumped into a circle.",
+   "why": "Soap weakens the skin. That is why soapy water spilled off the coin sooner than plain water, and why the thread loop jumped into a circle when soap touched the water inside it.",
    "outcome": 3
   },
   {
@@ -1887,7 +1887,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3, puts half a teaspoon each of water, honey and shampoo at the top of a sloping tray. Which reaches the bottom first?",
+     "p": "Half a teaspoon each of water, honey and shampoo is put at the top of a sloping tray. Which reaches the bottom first?",
      "opts": [
       "Water",
       "Shampoo",
@@ -1898,7 +1898,7 @@
     },
     {
      "t": "mcq",
-     "p": "Plain water made a tall dome on a coin. Then Priya, a girl in Class 3, tried water with a drop of soap. What did she see?",
+     "p": "Plain water made a tall dome on a coin. Then you try water with a drop of soap in it. What do you see?",
      "opts": [
       "A taller dome",
       "A flatter puddle that spilled sooner",
@@ -2033,14 +2033,14 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Class 3, says water striders stand on water only because they are light. What would you tell her?",
+     "p": "Someone says water striders stand on water only because they are light. What would you tell them?",
      "lines": 3,
      "a": "Being light helps, but their legs matter too. Their waxy, hairy legs keep the water off, so the water's skin holds them. With soap in the water, they sink, though they are just as light.",
      "why": "A strong answer agrees that light weight helps, and adds the legs and the water's skin, with the soap evidence."
     },
     {
      "t": "draw",
-     "p": "Draw the coin from the side, just before the water spilled. Show how high the water rose above the coin's edge.",
+     "p": "In How Many Drops Fit on a Coin?, water piled up on the coin. Draw the coin from the side, just before the water spilled. Show how high the water rose above the coin's edge.",
      "a": "A coin with a rounded dome of water rising clearly above its edge.",
      "why": "A strong drawing shows the water higher than the coin's edge, held up by its skin.",
      "art": "A coin seen from the side, with an empty space above it to draw on."
@@ -2055,7 +2055,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, flips closed bottles of water, oil and honey upside down. In which one does the air bubble rise slowest?",
+     "p": "Closed bottles of water, oil and honey are flipped upside down. In which one does the air bubble rise slowest?",
      "opts": [
       "Water",
       "Oil",
@@ -2192,7 +2192,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Striders need a strong water skin, dry legs and clear ripples. Soap and oil weaken the skin, and rain hides the ripples from food."
+     "why": "Striders need a strong water skin, dry legs and clear ripples. Soap and oil weaken the skin, and rain hides the ripples that food makes."
     },
     {
      "t": "write",
@@ -2203,9 +2203,9 @@
     },
     {
      "t": "write",
-     "p": "Sana, a girl in Class 3, raced water using a full spoon and honey using half a spoon. She says honey is slower. Why is her test not fair? How would you fix it?",
+     "p": "In a race, a full spoon of water was used, but only half a spoon of honey. The honey was slower. Why is this test not fair? How would you fix it?",
      "lines": 4,
-     "a": "She used different amounts. A bigger blob may flow differently. She should use half a spoon of each, on the same slope.",
+     "a": "The amounts were different. A bigger blob may flow differently. Use half a spoon of each, on the same slope.",
      "why": "A strong answer names the one thing that was different (the amount) and says to keep it the same for every liquid."
     },
     {
@@ -2217,18 +2217,18 @@
        "says": "Pitch is a liquid. It flows, only very slowly. Wait long enough and you will see it drip."
       },
       {
-       "who": "Revathi, a road builder who uses tar every day",
+       "who": "A road builder who uses tar every day",
        "says": "Pitch is a solid. You can stand on it and break it into pieces. Something you can shatter is not a liquid."
       },
       {
-       "who": "Kavya, a girl in Class 3",
+       "who": "A child in Class 3",
        "says": "It is both. In one second it acts like a solid. In ten years it acts like a liquid. It depends on how long you watch."
       }
      ],
      "ask": "Which view do you agree with most, and why? Then say what one of the other views gets right.",
      "lines": 5,
-     "a": "A strong answer picks a view with a reason, for example Kavya's, because the same pitch breaks when hit fast and drips over years. It also says what another view gets right, for example that Revathi is right that pitch acts like a solid in everyday life.",
-     "why": "Each view has a point. Parnell's funnel shows pitch flows, Revathi's experience shows it acts solid when hit, and Kavya notices that time decides which you see."
+     "a": "A strong answer picks a view with a reason, for example the child's, because the same pitch breaks when hit fast and drips over years. It also says what another view gets right, for example that the road builder is right that pitch acts like a solid in everyday life.",
+     "why": "Each view has a point. Parnell's funnel shows pitch flows, the road builder's experience shows it acts solid when hit, and the child notices that time decides which you see."
     },
     {
      "t": "draw",
@@ -2254,10 +2254,10 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 3, raced water and oil. Strangely, the oil won. Which is the most likely reason?",
+     "p": "In a race between water and oil, the oil won. That is strange. Which is the most likely reason?",
      "opts": [
       "Oil is runnier than water",
-      "His tray was tipped more steeply in the oil's lane, or the water spread out sideways",
+      "The tray was tipped more steeply in the oil's lane, or the water spread out sideways",
       "Oil is heavier than water"
      ],
      "a": 1,
@@ -2392,21 +2392,21 @@
      "p": "Mosquitoes spread dengue. Spreading a film of special oil on stagnant water stops mosquito larvae from breathing. Three people talk about it.",
      "views": [
       {
-       "who": "Lakshmi, a health worker in Chennai",
+       "who": "A health worker in Chennai",
        "says": "Oil on stagnant drains saves people from dengue. That matters most."
       },
       {
-       "who": "Anjali, who studies insects in ponds",
+       "who": "A scientist who studies insects in ponds",
        "says": "Oil also harms water striders and other small animals that live on the water's skin. Use it only where there is no other way."
       },
       {
-       "who": "Meera, a parent in a flat",
+       "who": "A parent who lives in a flat",
        "says": "The best way is to stop water from standing at all. Empty pots and coolers every week, and no oil is needed."
       }
      ],
      "ask": "Which view do you agree with most, and why? Then say what one of the others gets right.",
      "lines": 5,
-     "a": "A strong answer picks a view with a reason, for example Meera's, because emptying standing water stops mosquitoes without harming other animals. It also says what another gets right, for example that Lakshmi is right that dengue is dangerous, and some drains cannot be emptied.",
+     "a": "A strong answer picks a view with a reason, for example the parent's, because emptying standing water stops mosquitoes without harming other animals. It also says what another gets right, for example that the health worker is right that dengue is dangerous, and some drains cannot be emptied.",
      "why": "This is a real trade-off. Health workers, insect scientists and families each see a true part of it."
     },
     {
@@ -2420,7 +2420,7 @@
      "t": "write",
      "p": "Warm honey and tapped ketchup both get runnier. Are they getting runnier for the same reason? Explain.",
      "lines": 4,
-     "a": "No. Warm honey is runnier because its particles move faster. Tapped ketchup is runnier because tapping breaks a tiny net inside it. Nothing was warmed.",
+     "a": "No. Warm honey is runnier because its particles move faster. Tapped ketchup is runnier because tapping breaks a tiny net inside it. The ketchup was not warmed.",
      "why": "A strong answer gives a different reason for each: warmth speeds up particles, and shaking breaks a net."
     },
     {
@@ -2551,7 +2551,7 @@
  ],
  "maths": [
   {
-   "context": "This is about the syrup race. You timed honey at room warmth and warmed honey down the same tray.",
+   "context": "This is about the syrup race, where honey at room warmth and warmed honey are each timed down the same tray.",
    "problem": "Honey at room warmth took 150 seconds to reach the finish line. Warmed honey took 30 seconds. How many seconds faster was the warm honey?",
    "answer": "120 seconds faster.",
    "explain": "150 minus 30 is 120. So the warm honey arrived 120 seconds sooner. That is 2 whole minutes, because 60 + 60 = 120.",
@@ -2588,7 +2588,7 @@
   },
   {
    "context": "This is about the coin drop experiment. You counted how many drops of water fit on a coin, three times.",
-   "problem": "Nila, the girl in the story, counted 26, 31 and 28 drops of plain water on her coin. Which is the middle number? Why is it a good number to use?",
+   "problem": "In three tries, 26, 31 and 28 drops of plain water fit on a coin. Which is the middle number? Why is it a good number to use?",
    "answer": "28.",
    "explain": "In order, the numbers are 26, 28, 31. The middle one is 28. One try can be a fluke, for example a drop that splashed. The middle number is not pulled up or down by one odd try.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2797,7 +2797,7 @@
  "roots": {
   "context": "We have raced liquids and watched the water's skin hold up a dome of drops. Now we ask what thick and runny liquids tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The same honey crawled down your plate at room warmth and ran fast once warmed. Warmth makes a liquid's particles jiggle harder, so they slip past each other more easily. So a liquid's thickness depends on how warm it is, as well as on what it is made of.",
+   "truth": "In the Syrup Race, honey at room warmth crawled down the tray, and the same honey ran fast once it was warmed. Warmth makes a liquid's particles jiggle harder, so they slip past each other more easily. So a liquid's thickness depends on how warm it is, as well as on what it is made of.",
    "habit": "We say 'honey is thick' and 'water is runny' as if thickness were a fixed part of each, like a name. But thickness is how easily particles slide past each other, and that changes with warmth. The same honey can crawl or run.",
    "evidence": "In the syrup race, honey from the same jar ran down the same tray twice. The only difference was five minutes in warm water. The warmed honey reached the finish line several times faster."
   },

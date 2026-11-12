@@ -8,13 +8,13 @@
  },
  "intro": {
   "hook": "Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?",
-  "text": "In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. That is the secret of the Milky Way's milky glow. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.",
+  "text": "In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. This is why the Milky Way looks like a milky glow and not like separate stars. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.",
   "art": "A dark room with a small card on a pile of books, lit from behind by a torch, showing a few tiny points of light. A child stands far back across the room, looking at it."
  },
  "outcomes": [
   "I can explain that a galaxy is a huge group of stars, gas and dust held together by gravity, and that the Milky Way is our galaxy.",
   "I can explain why the Milky Way looks like a pale band across the sky: we live inside its flat disc.",
-  "I can show with the pinhole test why many far lights blur into one glow, and say how Galileo found that the Milky Way is made of stars.",
+  "I can show with the Pinhole Galaxy experiment why many far lights blur into one glow, and say how Galileo found that the Milky Way is made of stars.",
   "I can name the three main shapes of galaxies, spiral, elliptical and irregular, and say what each looks like.",
   "I can tell how Henrietta Leavitt and Edwin Hubble showed that the Andromeda galaxy is far outside the Milky Way.",
   "I can say where the Sun is in the Milky Way, how long it takes to go round, and what lies at the centre."
@@ -88,7 +88,7 @@
    "concept": "Why the Milky Way looks like a band",
    "status": "defined",
    "definition": "The Milky Way is a flat disc of stars about 100,000 light-years across and only about 1,000 light-years thick. We live inside the disc, so we see it edge-on, as a band round the sky.",
-   "description": "Imagine standing in the middle of a big paddy field. Look across the field, and you see rows and rows of plants, one behind another. Look straight up, and you see only sky. The Milky Way is like that field, but made of stars. Its disc is flat, like a huge round dosa. When we look along the disc, we see stars piled behind stars, so the sky glows. That glow is the band. When we look up or down out of the disc, there are far fewer stars in the way. Dark patches in the band are clouds of dust that block the light of stars behind them.",
+   "description": "Think of standing in the middle of a big paddy field. When you look across the field, you see rows and rows of plants, one behind another. When you look straight up, you see only sky. The Milky Way is like that field, but made of stars. Its disc is flat, like a huge round dosa. When we look along the disc, we see stars piled behind stars, so the sky glows. That glow is the band. When we look up or down out of the disc, there are far fewer stars in the way. Dark patches in the band are clouds of dust that block the light of stars behind them.",
    "examples": [
     "In the Rice Galaxy experiment, the thread pointing to the middle of the circle crossed the most grains.",
     "The brightest part of the band is towards the constellations Scorpius and Sagittarius, where the centre of the galaxy lies.",
@@ -127,7 +127,7 @@
    "concept": "What holds a galaxy together",
    "status": "debated",
    "definition": "",
-   "description": "Gravity holds a galaxy together. The stars near the edge of a galaxy should go round more slowly than the stars nearer the middle, the way far planets go round the Sun more slowly. In the 1970s, Vera Rubin and Kent Ford measured how fast stars and gas go round in many spiral galaxies. The outer stars were going round much too fast for the stars and gas that we can see to hold them. So something more is pulling, or our idea of gravity needs fixing at these huge sizes.",
+   "description": "Gravity holds a galaxy together. The stars near the edge of a galaxy should go round more slowly than the stars nearer the middle, the way far planets go round the Sun more slowly. In the 1970s, Vera Rubin and Kent Ford measured how fast stars and gas go round in many spiral galaxies. The outer stars were going round much too fast. The gravity of the stars and gas that we can see is not enough to hold them. So something more is pulling, or our idea of gravity needs fixing at these huge sizes.",
    "examples": [
     "Vera Rubin measured spiral galaxies, including Andromeda, in the 1970s.",
     "Astronomers have searched for dark matter particles for over 30 years and have not yet caught one."
@@ -168,7 +168,7 @@
   },
   {
    "text": "There are many galaxies outside the Milky Way.",
-   "evidence": "In 1923 Edwin Hubble found a pulsing star in Andromeda, used Henrietta Leavitt's rule to work out its distance, and found it far beyond our galaxy."
+   "evidence": "In 1923 Edwin Hubble found a pulsing star in Andromeda. He used Henrietta Leavitt's rule for pulsing stars to work out its distance, and found it was far beyond our galaxy."
   },
   {
    "text": "A black hole about 4 million times as heavy as the Sun sits at the centre of the Milky Way.",
@@ -217,7 +217,7 @@
   {
    "q": "Is the Milky Way one thing, or billions of things?",
    "kind": "deep",
-   "hint": "Think about your pinhole card. From far away it looked like one light. Up close it was many. Which was the real card?"
+   "hint": "Think about the Pinhole Galaxy experiment. From far away the bunch of holes looked like one light. Up close it was many lights. Which was the real card?"
   },
   {
    "q": "If we live inside the Milky Way, how can anyone know its shape? Nobody has ever seen it from outside.",
@@ -334,7 +334,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Make the pinhole card. Light it from behind in a dark room. Walk back from each pair until it looks like one light, twice. Look at the bunch of holes from far and near."
+     "what": "Guess which pair of lights will join into one first. Make the pinhole card and light it from behind in a dark room. Walk back from each pair of holes until it looks like one light, and do this twice. Then look at the bunch of holes from far away and from close up."
     }
    ],
    "record": "Fill in the results table. Draw the card as it looks up close, and as it looks from the far end of the room.",
@@ -361,9 +361,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. On the cardboard, draw three short lines with a pencil, about 3 centimetres apart. 2. On the first line, mark two dots 1 millimetre apart, using the ruler. 3. On the second line, two dots 2 millimetres apart. 4. On the third line, two dots 3 millimetres apart. 5. A grown-up pushes the needle through each dot. 6. Below them, the grown-up pokes about 15 holes close together inside a circle about 6 millimetres across, smaller than a little fingernail.",
+     "do": "1. On the cardboard, draw three short lines with a pencil, about 3 centimetres apart. 2. On the first line, mark two dots 1 millimetre apart, using the ruler. 3. On the second line, mark two dots 2 millimetres apart. 4. On the third line, mark two dots 3 millimetres apart. 5. A grown-up pushes the needle through each dot. 6. Below the three lines, the grown-up pokes about 15 holes close together inside a circle about 6 millimetres across, smaller than a little fingernail.",
      "say": "We are making tiny stars. Each pair of holes will be two stars. The bunch of holes at the bottom is a tiny galaxy.",
-     "kid": "Mark three pairs of dots with the ruler. A grown-up makes the holes with a needle. Then a bunch of holes for a galaxy.",
+     "kid": "Mark three pairs of dots with the ruler. A grown-up makes the holes with a needle. Then the grown-up makes a bunch of holes for a galaxy.",
      "adult": true,
      "parent": "Push the needle in only as far as its tip, so the holes are small and all about the same size. Push into an eraser or a folded cloth behind the card, never towards a hand. Write 1, 2 and 3 next to the pairs, and G next to the bunch."
     },
@@ -385,8 +385,8 @@
       {
        "q": "Which pair do you think will join up first? Why?",
        "good": [
-        "The 1 one, because its holes are closest.",
-        "The 3 one will be last, because its gap is biggest."
+        "The pair marked 1, because its holes are closest.",
+        "The pair marked 3 will be last, because its gap is biggest."
        ]
       }
      ],
@@ -415,7 +415,7 @@
      "id": "s6",
      "mins": 2,
      "do": "If you have binoculars, or a phone with a zoom camera, stand where the bunch looks like one light. Look at it through the binoculars, or zoom in on it with the phone.",
-     "say": "Now be Galileo. Look at the fuzzy light through the binoculars. What happens?",
+     "say": "Galileo looked at the Milky Way through a telescope. Now do the same with the fuzzy light: look at it through the binoculars. What happens?",
      "kid": "If you have binoculars, look at the fuzzy light. Does it split into stars?",
      "parent": "This step is a bonus. Binoculars or a zoom lens make the gaps look bigger, so the glow splits into points again. If you have neither, skip it."
     },
@@ -425,7 +425,7 @@
      "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
      "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: lights that are close together look like one light from far away. What I saw: the 1 millimetre pair joined into one light first, and the 3 millimetre pair last. The bunch looked like one glow from far away. Why: from further away the gap looks smaller, until my eyes cannot tell the lights apart. Now explain: the Milky Way's stars are so far away that they blur into one glow in the same way."
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: lights that are close together look like one light from far away. What I saw: the 1 millimetre pair joined into one light first, and the 3 millimetre pair last. The bunch looked like one glow from far away. Why: from further away the gap looks smaller, until my eyes cannot tell the lights apart. Then tell your child that the Milky Way's stars are so far away that they blur into one glow in the same way."
     }
    ],
    "setup": [
@@ -454,7 +454,7 @@
    "mins": 30,
    "days": 1,
    "question": "If you live inside a flat galaxy, can counting stars in different directions show you where its middle is? What happens if dust hides the faraway stars?",
-   "predict": "Before you count, guess. From the paper Sun, which way will the thread cross the most rice grains? Will it still work if you can only see a short way? Why do you think so?",
+   "predict": "Before you count, guess. From the paper Sun, which way will the thread cross the most rice grains? Will counting still show where the middle is if you can only see a short way? Why do you think so?",
    "fair_test": "Keep the rice and the paper Sun in the same place the whole time. Count the same way each time: every grain the thread touches or that lies within one finger-width of it. Change only the direction of the thread, and then its length.",
    "results_table": [
     "Direction of the thread",
@@ -488,7 +488,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess. Make a rice galaxy on newspaper. Count grains from the paper Sun in four directions with a long thread, then with a short one."
+     "what": "Guess which way the thread will cross the most grains. Make a rice galaxy on newspaper. Count grains from the paper Sun in four directions with a long thread, then with a short one."
     }
    ],
    "record": "Fill in the results table. Draw the circle with the Sun and four arrows, and write each count on its arrow.",
@@ -514,7 +514,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Spread a large newspaper sheet on the floor. 2. Tie a pencil to a 25 centimetre thread. Hold the other end in the middle of the sheet and draw a circle. 3. Sprinkle one heaped tablespoon of raw rice, a pinch at a time, all over the circle. 4. Spread the grains with your fingertips so they are spread evenly.",
+     "do": "1. Spread a large newspaper sheet on the floor. 2. Tie a pencil to a 25 centimetre thread. Hold the other end in the middle of the sheet and draw a circle. 3. Sprinkle one heaped tablespoon of raw rice, a pinch at a time, all over the circle. 4. Move the grains with your fingertips until they are spread evenly.",
      "say": "This circle is our galaxy, seen from above. Each grain of rice is a star. Spread them out evenly, like stars in a disc.",
      "kid": "Draw a big circle with the pencil and thread. Sprinkle rice all over it. Spread the grains out.",
      "parent": "Try to get the grains about the same distance apart everywhere. A few clumps do not matter. Do this where nobody will walk."
@@ -530,9 +530,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Lay the 40 centimetre thread from the Sun straight to the edge of the circle, pointing at the middle. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same pointing away from the middle, and in the two directions sideways. 4. Write each count in the table.",
-     "say": "Now you are an astronomer like Caroline Herschel. Count every star within one finger of the thread. Which way has the most?",
-     "kid": "Lay the thread from the Sun to the edge. Count the grains next to it. Do it four ways. Write each count.",
+     "do": "1. Lay the 40 centimetre thread from the paper Sun through the middle of the circle to the edge on the far side. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same with the thread pointing away from the middle, and then pointing to each side. 4. Write each count in the table.",
+     "say": "Now you are an astronomer like Caroline Herschel. Count every star within one finger-width of the thread. Which way has the most?",
+     "kid": "Lay the thread from the Sun to the edge. Count the grains next to it. Do this in four directions. Write each count.",
      "ask": [
       {
        "q": "Which direction had the most grains? Why?",
@@ -652,7 +652,7 @@
        "countless tiny stars"
       ],
       "a": 2,
-      "why": "The pale band is made of stars. They are too close together for your eyes to see one by one, so from far they blur into a glow."
+      "why": "The pale band is made of stars. They are too close together for your eyes to see one by one, so from far away they blur into a glow."
      }
     },
     {
@@ -707,14 +707,14 @@
      "what": "Use a coin as the whole solar system. Find how far away the nearest star and the edge of the galaxy would be."
     }
    ],
-   "record": "Draw the coin, and write how far the nearest star and the Milky Way would stretch at this size.",
+   "record": "Draw the coin. Write how far away the nearest star would be at this size, and how far the Milky Way would stretch.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "Put a 1 rupee coin on the table.",
-     "say": "Imagine this coin is our whole solar system: the Sun, the Earth and all the planets out to Neptune. Guess how far away the next nearest star would be.",
-     "kid": "This coin is the whole solar system. The Sun and all eight planets. How far is the next star? Guess.",
+     "say": "Let this coin stand for our whole solar system: the Sun, the Earth and all the planets out to Neptune. Guess how far away the next nearest star would be.",
+     "kid": "This coin is the whole solar system: the Sun and all eight planets. How far away is the next star? Guess.",
      "ask": [
       {
        "q": "How far away do you think the nearest star would be at this size?",
@@ -732,14 +732,14 @@
      "mins": 4,
      "do": "Tell your child the answer, and find a place about 90 metres from your door, about 120 big steps away.",
      "say": "At this size the nearest star would be about 90 metres away. That is about the length of a football field, or a row of 10 to 15 houses. In between, there would be almost nothing.",
-     "kid": "The nearest star would be about 90 metres away. That's a football field! Almost nothing is in between.",
+     "kid": "The nearest star would be about 90 metres away. That is as long as a football field! Almost nothing is in between.",
      "parent": "The coin is 2 centimetres across and stands for the solar system out to Neptune's path. The nearest star, Proxima Centauri, is about 4,500 times further than that, about 90 metres at this size."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Open the map of India. Find Kanyakumari and Delhi.",
-     "say": "And the whole Milky Way? At this size it would stretch from Kanyakumari to Delhi. Full of coins, each about 90 metres from the next.",
+     "say": "And the whole Milky Way? At this size it would stretch from Kanyakumari to Delhi. It would be full of coins like this one, each about 90 metres from the next.",
      "kid": "Find Kanyakumari and Delhi on the map. At this size, the galaxy would reach from one to the other!",
      "check": {
       "t": "mcq",
@@ -758,7 +758,7 @@
      "mins": 2,
      "do": "Ask the last question and let your child think.",
      "say": "Andromeda, the nearest big galaxy, is about 25 times as far as the width of the Milky Way. What does that tell you about the space between galaxies?",
-     "kid": "Andromeda is 25 Milky Ways away. Is there a lot of space between galaxies?",
+     "kid": "Andromeda is about 25 times as far away as the Milky Way is wide. Is there a lot of space between galaxies?",
      "parent": "Stars inside a galaxy are very far apart compared with their size. Galaxies are only a few times their own width apart, so they are close together compared with their size."
     }
    ],
@@ -802,7 +802,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "On a clear evening between June and August, go to a balcony or terrace that faces south. Turn off the lights behind you and spend the five minutes letting your eyes get used to the dark.",
+     "do": "On a clear evening between June and August, go to a balcony or terrace that faces south. Turn off the lights behind you and wait five minutes for your eyes to get used to the dark.",
      "say": "Let's find the direction of the centre of our galaxy. First, our eyes need time to get used to the dark.",
      "kid": "Go out on a clear evening. Face south. Wait for your eyes to get used to the dark.",
      "adult": true,
@@ -869,7 +869,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Sort 12 galaxy photos by shape. If you like, then try Galaxy Zoo, where children and adults sort real galaxy photos for scientists."
+     "what": "Sort 12 galaxy photos by shape. Then, if you like, try Galaxy Zoo, where children and adults sort real galaxy photos for scientists."
     }
    ],
    "record": "Draw one galaxy of each shape, and write one way to tell each shape apart.",
@@ -877,7 +877,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. A grown-up searches for photos of these 12 galaxies (NASA, ESA and Hubble pictures are free to look at) and shows them one at a time, or prints them. 2. Lay out the three labelled sheets. 3. Ask your child to sort the galaxies by shape. Put each one on a sheet.",
+     "do": "1. A grown-up searches for photos of these 12 galaxies (NASA, ESA and Hubble pictures are free to look at) and shows them one at a time, or prints them. 2. Lay out three sheets labelled spiral, elliptical and irregular. 3. Ask your child to sort the galaxies by shape and put each one on a sheet.",
      "say": "These are photos of real galaxies taken by big telescopes. Sort them by shape. Put each one on a sheet.",
      "kid": "These are real galaxies. Sort them by shape. Put each on a sheet.",
      "parent": "Spirals: Whirlpool Galaxy (M51), Pinwheel Galaxy (M101), Andromeda Galaxy (M31), NGC 891 (seen edge-on). Ellipticals: M87, M49, M60. Irregulars: Large Magellanic Cloud, Small Magellanic Cloud, NGC 1569, NGC 4449. Do not show the names to your child as hints. Spiral galaxies have curved arms. Elliptical ones are smooth ovals. Irregular ones have no clear shape. A spiral seen edge-on looks like a thin line with a bulge. Children often put it with the ellipticals, which is a good thing to talk about.",
@@ -886,7 +886,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Look at the cards your child found hard to sort. Talk about why.",
+     "do": "Look at the photos your child found hard to sort. Talk about why.",
      "say": "Which ones were hard to sort? Why? Could a spiral look different if we saw it from the side?",
      "kid": "Which were hard to sort? Why? Could a spiral look like a line from the side?",
      "check": {
@@ -980,7 +980,7 @@
      "mins": 15,
      "do": "1. Next day, below the first kolam, draw a long, thin line of dots, with a round bulge in the middle. 2. Put the Sun about halfway along, inside the line. 3. Draw arrows from the Sun along the line, and up out of it.",
      "say": "Now draw our galaxy from the side. It is about 100 times wider than it is thick. Draw arrows from the Sun. Which arrow goes through more stars?",
-     "kid": "Draw the galaxy from the side. Very thin, with a bulge. Put the Sun in it. Draw arrows. Which arrow crosses more stars?",
+     "kid": "Draw the galaxy from the side. Make it very thin, with a bulge in the middle. Put the Sun in it. Draw arrows from the Sun. Which arrow crosses more stars?",
      "wait": "Do this on day 2.",
      "check": {
       "t": "mcq",
@@ -1015,7 +1015,7 @@
    "mins": 30,
    "problem": "Nobody can count all the stars in the Milky Way one by one. Astronomers count a small part and work out the rest. Find a way to tell how many grains are in a katori of rice without counting them all. Then find the answer a second way and see how close the two are.",
    "constraints": [
-    "You may count only small spoonfuls of grains one by one, two at most.",
+    "You may count grains one by one in only one or two small spoonfuls.",
     "You may use a spoon, a plate and a pencil.",
     "Finish within 30 minutes."
    ],
@@ -1028,7 +1028,7 @@
    "general": [
     "Count the grains in one level teaspoon. Count how many teaspoons fill the katori. Multiply.",
     "Spread the rice flat on a plate, count the grains in one small square, count how many squares the rice covers, and multiply.",
-    "Do the small count twice and take the middle answer, because one count can be a fluke."
+    "Do the small count twice and use the number halfway between the two, because one count can be a fluke."
    ],
    "creative": [
     "If you have a kitchen scale, weigh 100 grains, then weigh the whole katori.",
@@ -1049,8 +1049,8 @@
      "id": "s2",
      "mins": 15,
      "do": "Let your child try one of their own ideas first. If they are stuck, suggest the teaspoon method.",
-     "say": "Try your idea. If you are stuck, count one teaspoon, then count how many teaspoons fill the katori.",
-     "kid": "Try your idea. Stuck? Count one teaspoon. Then count teaspoons in the katori.",
+     "say": "Try your idea. If you are stuck, count the grains in one teaspoon, then count how many teaspoons fill the katori.",
+     "kid": "Try your idea. If you are stuck, count the grains in one teaspoon. Then count how many teaspoons fill the katori.",
      "parent": "A level teaspoon of raw rice usually holds a few hundred grains, and a katori many thousands. Any careful method is good."
     },
     {
@@ -1239,7 +1239,7 @@
      "mins": 8,
      "do": "Players take turns to add a card to the line, smallest on the left. After each card, peek at the backs to check the place and score a point.",
      "say": "Put down a card where it belongs. Is the solar system bigger or smaller than the Milky Way?",
-     "kid": "Put your card in the line. Smallest to biggest. Think hard!",
+     "kid": "Put your card in the line, from smallest to biggest. Think hard!",
      "check": {
       "t": "mcq",
       "q": "Which is bigger: the solar system or the Milky Way?",
@@ -1271,7 +1271,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Read the whole address aloud together, from the room to the universe. Count up the points.",
-     "say": "Let's read your whole address. Room, home, street, all the way to the universe.",
+     "say": "Let's read your whole address. It goes from your room, home and street all the way to the universe.",
      "kid": "Read your whole address out loud. Who won?",
      "parent": "Use your real street, city and state names when you read it aloud."
     }
@@ -1303,7 +1303,7 @@
    "channel": "HubbleWebbESA (ESA/Hubble)",
    "youtube": "rqZGt97rGo8",
    "mins": 3,
-   "why": "A tour of the biggest Hubble photo of Andromeda. The soft glow seen by eye breaks into hundreds of millions of separate stars, just like the pinhole bunch up close.",
+   "why": "A tour of the biggest Hubble photo of Andromeda. The soft glow seen by eye breaks into hundreds of millions of separate stars, just like the bunch of pinholes seen up close in the Pinhole Galaxy experiment.",
    "check": "A parent should watch it first."
   },
   {
@@ -1338,7 +1338,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, but dust had fooled them."
+   "why": "The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, because dust hid the faraway stars and fooled them."
   },
   {
    "t": "mcq",
@@ -1354,7 +1354,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 3, makes a card with two tiny holes 2 millimetres apart and lights it from behind. She walks away from it. What happens?",
+   "p": "You make a card with two tiny holes 2 millimetres apart and light it from behind. Then you walk away from it. What happens?",
    "opts": [
     "The two lights get further apart",
     "At some distance the two lights look like one",
@@ -1362,7 +1362,7 @@
    ],
    "a": 1,
    "outcome": 2,
-   "why": "From further away the gap looks smaller, until her eyes cannot tell the two lights apart. The Milky Way's stars blur together in the same way."
+   "why": "From further away the gap looks smaller, until your eyes cannot tell the two lights apart. The Milky Way's stars blur together in the same way."
   },
   {
    "t": "mcq",
@@ -1614,7 +1614,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 3, says the Milky Way is a long cloud. Tell her one way to check whether it is a cloud.",
+     "p": "Someone says the Milky Way is a long cloud. Tell them one way to check whether it is a cloud.",
      "lines": 3,
      "a": "Watch it for a while. Clouds move and change shape, but the Milky Way stays in the same place among the stars. Or look at it through binoculars: it breaks into stars.",
      "why": "A strong answer suggests a real test, such as watching for movement or using binoculars, and says what the result would show."
@@ -1633,7 +1633,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl in Class 3, and her friend Farhan look at a photo of the Milky Way. They disagree about what it is.",
+     "p": "Two children look at a photo of the Milky Way. They disagree about what it is.",
      "views": [
       {
        "who": "Lakshmi, aged 8",
@@ -1644,7 +1644,7 @@
        "says": "The Milky Way is billions of things. It is just stars that happen to be together."
       }
      ],
-     "ask": "Who do you agree with more? Give a reason from the pinhole test or from this unit. Then say one thing the other person has right.",
+     "ask": "Who do you agree with more? Give a reason from the Pinhole Galaxy experiment or from this unit. Then say one thing the other person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence. For Lakshmi: the stars all go round one centre together, held by gravity, so the galaxy acts as one. For Farhan: up close, the pinhole glow was many separate lights. Then it gives the other side its due.",
      "why": "Both are partly right. A galaxy is many stars, and it is also one system moving together. A strong answer uses evidence for both."
@@ -1683,7 +1683,7 @@
      "t": "truefalse",
      "p": "Binoculars make faraway stars bigger, so the Milky Way breaks into stars.",
      "a": false,
-     "why": "False, almost. Stars are so far away that they stay tiny points even in binoculars. What binoculars make bigger is the gap between stars, so your eyes can tell them apart. They also gather more light, so fainter stars show."
+     "why": "False. Stars are so far away that they stay tiny points even in binoculars. What binoculars make bigger is the gap between stars, so your eyes can tell them apart. They also gather more light, so fainter stars show."
     },
     {
      "t": "mcq",
@@ -1694,7 +1694,7 @@
       "It has no stars, only gas"
      ],
      "a": 1,
-     "why": "Andromeda is about 2 and a half million light-years away. From here its stars are far too close together, as we see them, and too faint, for our eyes to split. It is the pinhole bunch seen from very far away."
+     "why": "Andromeda is about 2 and a half million light-years away. From here its stars look far too close together, and are too faint, for our eyes to tell apart. It is like the bunch of pinholes in the Pinhole Galaxy experiment, seen from very far away."
     },
     {
      "t": "fill",
@@ -1783,7 +1783,7 @@
     },
     {
      "t": "mcq",
-     "p": "If the whole solar system, out to Neptune, shrank to the size of a 1 rupee coin, the nearest star would be about 90 metres away, a football field. What does this tell you?",
+     "p": "If the whole solar system, out to Neptune, shrank to the size of a 1 rupee coin, the nearest star would be about 90 metres away, about the length of a football field. What does this tell you?",
      "how": "a2",
      "context": "In the Coin activity, a 1 rupee coin stands for the whole solar system, out to Neptune.",
      "opts": [
@@ -1792,7 +1792,7 @@
       "Stars are packed close together"
      ],
      "a": 0,
-     "why": "A whole solar system is a tiny coin, and the next one is a football field away. Most of a galaxy is empty space between the stars."
+     "why": "If a whole solar system is the size of a tiny coin, the next star is a football field away. Most of a galaxy is empty space between the stars."
     },
     {
      "t": "odd",
@@ -1858,11 +1858,11 @@
    "items": [
     {
      "t": "write",
-     "p": "In the pinhole test, the pair 3 millimetres apart stayed two lights for longer than the pair 1 millimetre apart. If you made a pair 6 millimetres apart, about how far could you walk before it looked like one light? Explain your thinking.",
+     "p": "In the Pinhole Galaxy experiment, the pair 3 millimetres apart stayed two lights for longer than the pair 1 millimetre apart. If you made a pair 6 millimetres apart, about how far could you walk before it looked like one light? Explain your thinking.",
      "lines": 4,
      "how": "e1",
      "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
-     "a": "About twice as far as the 3 millimetre pair, and about six times as far as the 1 millimetre pair, because the gap is twice and six times as big.",
+     "a": "About twice as far as the 3 millimetre pair, and about six times as far as the 1 millimetre pair, because its gap is twice as big as 3 millimetres and six times as big as 1 millimetre.",
      "why": "A strong answer spots the pattern: double the gap, and you can walk about double the distance. This is why bigger telescopes, which split smaller gaps, show more stars."
     },
     {
@@ -2159,7 +2159,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Rice Galaxy experiment, Meenakshi counted 24 grains along the thread towards the middle and 8 grains along the thread away from the middle. How many times as many grains were towards the middle?",
+   "problem": "In the Rice Galaxy experiment, you count 24 grains along the thread towards the middle and 8 grains along the thread away from the middle. How many times as many grains were towards the middle?",
    "answer": "3 times as many.",
    "explain": "24 divided by 8 is 3. So there were 3 times as many grains towards the middle. This shows the paper Sun is not in the middle.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2168,7 +2168,7 @@
    "why_maths": "Dividing one count by the other tells how much bigger it is, which shows how far off-centre the Sun is."
   },
   {
-   "problem": "In the Pinhole Galaxy experiment, Kavya's 1 millimetre pair became one light at 3 steps, and her 2 millimetre pair at 6 steps. Guess at how many steps her 3 millimetre pair will become one light. Explain your guess.",
+   "problem": "In the Pinhole Galaxy experiment, the 1 millimetre pair became one light at 3 steps, and the 2 millimetre pair at 6 steps. Guess at how many steps the 3 millimetre pair will become one light. Explain your guess.",
    "answer": "About 9 steps.",
    "explain": "When the gap doubled from 1 to 2 millimetres, the steps doubled from 3 to 6. So each millimetre of gap adds about 3 steps. 3 millimetres times 3 is 9 steps.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2200,7 +2200,7 @@
    "why_maths": "Turning the galaxy's huge sizes into the size of a dosa shows just how flat it is."
   },
   {
-   "problem": "In the Rice Galaxy experiment, Lakshmi's counts with the long thread were: towards the middle 22, away 7, left side 14, right side 13. Draw a bar chart of her counts. Which bar is tallest, and what does it tell you?",
+   "problem": "In the Rice Galaxy experiment, the counts with the long thread were: towards the middle 22, away 7, left side 14, right side 13. Draw a bar chart of these counts. Which bar is tallest, and what does it tell you?",
    "answer": "The bar for 'towards the middle' is tallest, at 22. It shows the most stars lie in that direction, so that is where the middle of the galaxy is.",
    "explain": "Draw four bars: 22, 7, 14 and 13. The two side bars are nearly the same, because the middle is neither left nor right.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2390,16 +2390,16 @@
  "roots": {
   "context": "We have been learning that the Milky Way is a galaxy of billions of stars, which our eyes see as one pale glow. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Up close, your pinholes were separate lights, and from across the room they made one soft glow. The holes had not changed. Your eyes could no longer tell them apart. The Milky Way's pale band is billions of stars, blurred into one glow by distance in this way.",
-   "habit": "We take what we see as one thing to be one thing: a cloud, a smudge, a glow. Whether we see one or many often depends on how far away we are and how fine our eyes are.",
-   "evidence": "In the Pinhole Galaxy experiment, the bunch of holes looked like one fuzzy light from far away and like separate points up close. Galileo's telescope did the same to the Milky Way in 1610."
+   "truth": "In the Pinhole Galaxy experiment, the bunch of pinholes was separate lights up close, and one soft glow from across the room. The holes had not changed. Your eyes could no longer tell them apart. The Milky Way's pale band is billions of stars, blurred into one glow by distance in the same way.",
+   "habit": "When something looks like one thing, such as a cloud, a smudge or a glow, we assume it is one thing. But whether we see one or many often depends on how far away we are and how sharp our eyes are.",
+   "evidence": "In the Pinhole Galaxy experiment, the bunch of holes looked like one fuzzy light from far away and like separate points up close. In 1610, Galileo's telescope showed the Milky Way's glow as separate stars in the same way."
   },
   "three": {
    "who_am_i": "Your body is made of about 30 trillion cells, more than the stars in the Milky Way. From across the room, you look like one person.",
    "what_is_life": "Dung beetles roll a ball of dung away in a straight line, so that other beetles cannot steal it. On moonless nights, they steer by the bright band of the Milky Way.",
    "what_is_this_world": "The Sun is one star in a galaxy of billions, and our galaxy is one of hundreds of billions. All the stars we can see by eye belong to just one of them."
   },
-  "thread": "A galaxy is many and one at the same time. It is billions of separate suns, each with its own light. Gravity holds them all, so they all go round one centre together. From far away their lights join into one glow. Each star is fully itself, and each is also part of something bigger that holds it.",
+  "thread": "A galaxy is many and one at the same time. It is billions of separate suns, each with its own light. Gravity holds them all, so they all go round one centre together. From far away their lights join into one glow. Each star is a separate star, and each is also part of something bigger that holds it.",
   "teachings": [
    {
     "source": "Milindapanha (The Questions of King Milinda), Book 2, the simile of the chariot",
@@ -2434,7 +2434,7 @@
   },
   "ask": [
    "Is the Milky Way one thing or billions of things? Can it be both?",
-   "When the pinhole lights blurred into one glow, was the glow in the card or in your eyes?",
+   "In the Pinhole Galaxy experiment, the lights blurred into one glow. Was the glow in the card or in your eyes?",
    "Could your cells feel as if they each live alone, the way each star shines alone?"
   ],
   "art": "A child on a rooftop looking up at the pale band of the Milky Way. In a circle, the band zoomed in to show countless separate stars. In another circle, the child's hand zoomed in to show countless separate cells."
