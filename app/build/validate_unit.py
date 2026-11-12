@@ -33,7 +33,7 @@ def plain(u, P):
             for v in x: walk(v, key)
         elif isinstance(x, str) and key in ("kid", "say", "do"):
             lim = 12 if key == "kid" else 20
-            for sen in re.split(r"(?<=[.!?])\s+", x):
+            for sen in re.split(r"(?<=[.!?:])\s+", x):
                 n = len(re.findall(r"[\w'’-]+", re.sub(r"\([^)]*\)", "", sen)))
                 if n > lim + 2: long_.append(f"{key}: {n} words: {sen[:60]}…")
             if ";" in x: P(f"no semicolons (WRITING.md rule 10): {x[:60]}…")

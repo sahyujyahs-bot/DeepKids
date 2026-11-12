@@ -301,7 +301,7 @@
    "concept": "Temperature can decide boy or girl",
    "status": "defined",
    "definition": "In many turtles and in crocodiles, the warmth of the nest decides whether a baby becomes male or female.",
-   "description": "In birds and mammals, a baby is a boy or a girl from the very start. But in many reptiles, the sand around the egg decides. In olive ridley sea turtles, warmer nests give more females. Cooler nests give more males. This is one more way the sun and the ground shape the life of an animal that takes their heat from outside. It also means a warmer world could change how many male and female turtles hatch. Scientists are studying this on beaches around the world.",
+   "description": "In birds and mammals, a baby is a boy or a girl from the very start. But in many reptiles, the warmth of the sand around the egg decides. In olive ridley sea turtles, warmer nests give more females. Cooler nests give more males. This is one more way the sun and the ground shape the life of an animal that takes their heat from outside. It also means a warmer world could change how many male and female turtles hatch. Scientists are studying this on beaches around the world.",
    "examples": [
     "Olive ridley nests on Rushikulya beach in Odisha are studied by forest staff and scientists.",
     "Crocodile breeders can predict whether babies will be male or female from how warm the eggs were kept."
@@ -354,7 +354,7 @@
  "agreed": [
   {
    "text": "Vertebrates are sorted into five big groups: fish, amphibians, reptiles, birds and mammals.",
-   "evidence": "These groups share body plans, ways of breathing and ways of having young. Fossils and DNA both show they are related, branching from early fish."
+   "evidence": "Animals in each group have the same kind of body, way of breathing and way of having young. Fossils and DNA both show the groups are related, branching from early fish."
   },
   {
    "text": "Fish breathe with gills, and reptiles, birds and mammals breathe with lungs.",
@@ -366,7 +366,7 @@
   },
   {
    "text": "Shelled eggs let reptiles and birds lay eggs on dry land.",
-   "evidence": "Shelled eggs keep their water in air, while frog and fish eggs dry up. The oldest shelled-egg animals appear in rocks more than 300 million years old."
+   "evidence": "A shelled egg keeps its water when it lies in air, while frog and fish eggs dry up. The oldest shelled-egg animals appear in rocks more than 300 million years old."
   },
   {
    "text": "Making your own heat uses much more food.",
@@ -403,12 +403,12 @@
   {
    "q": "Why do you think frogs need water to lay eggs, but crocodiles do not?",
    "kind": "deep",
-   "hint": "What happens to a jelly sweet left out in the sun?"
+   "hint": "A frog's egg is soft jelly with no shell. What happens to jelly left out in dry air?"
   },
   {
    "q": "If your body is a little stove, what is its fuel? And where did the fuel's energy come from?",
    "kind": "deep",
-   "hint": "Follow your lunch back to the field and the sky."
+   "hint": "Your lunch came from plants. What did the plants need to grow?"
   },
   {
    "q": "Is it better to make your own heat, or to take it from the sun? Can one way be better for everyone?",
@@ -423,7 +423,7 @@
   {
    "q": "Your body keeps making heat, and the heat keeps leaving you. Where does your warmth go?",
    "kind": "big",
-   "hint": "Think of the warm chair after you stand up, and the bottle in the dry sock."
+   "hint": "Think of a chair that feels warm after you stand up. In the Fur Coat Test, even the bottle in the dry sock kept cooling."
   },
   {
    "q": "Why do you think a tiny bird needs to eat all day, but a big snake can wait for weeks?",
@@ -469,7 +469,7 @@
    "Noor thought of the long summer days, the bajra plants standing in the blazing light, and she smiled into the dark.",
    "In the morning, the girgit was on their stone, grey and still, waiting. Noor did not call anyone this time. She sat down next to them with her hands under her shawl, and they waited for the sun together."
   ],
-  "epiphany": "For the parent: the lizard and the chick are both cold, but they need different help. The lizard takes their heat from outside, so the sun is all they need, and a cold night only makes them slow. The chick makes their own heat from food, but they are tiny and almost bare, so their heat leaks away fast. More sun cannot help once the sun is setting. What they need is insulation, something to hold their own heat in, and a warm body beside it. That is why birds sit on their chicks. The last turn follows the warmth back to its source. The sparrow's heat comes from grain, and the grain's energy came from sunlight. Both kinds of warm are the sun's warmth, taken by two different paths.",
+  "epiphany": "For the parent: the lizard and the chick are both cold, but they need different help. The lizard takes their heat from outside, so the sun is all they need, and a cold night only makes them slow. The chick makes their own heat from food, but they are tiny and almost bare, so their heat leaks away fast. More sun cannot help once the sun is setting. What they need is insulation, something to hold their own heat in, and a warm body beside them. That is why birds sit on their chicks. The end of the story follows the warmth back to where it came from. The sparrow's heat comes from grain, and the grain's energy came from sunlight. Both kinds of warm are the sun's warmth, taken in two different ways.",
   "ask": [
    "Why did Noor think the lizard was dead? What was really happening?",
    "Why did the sun help the lizard but not the chick?",
@@ -694,7 +694,7 @@
     "Shuffle the animal cards and deal 5 to each player. Put the rest face down in a pile.",
     "Shuffle the question cards and put them face down in their own pile. When they run out, shuffle them and use them again.",
     "On your turn, take the top animal card from the pile (if the pile is empty, skip this). Then turn over the top question card.",
-    "Choose any animal in your hand and answer the question for that animal. Then say which family mat it belongs on. The mats list the clues to check against.",
+    "Choose any animal in your hand and answer the question for that animal. Then say which family mat they belong on. The mats list the clues to check against.",
     "If the others agree, put the animal on the right mat and score one point.",
     "If you are wrong, the others tell you the right answer. The card still goes on the right mat, but with no point. The next player goes.",
     "The player who puts the fifth card on a mat gets a bonus point.",
@@ -755,7 +755,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Play the WARM question with the Garden lizard card.",
-     "say": "Here is a garden lizard. Do they make their own heat, or take heat from outside? Remember the lizard on the wall in the morning.",
+     "say": "Here is a garden lizard. Do they make their own heat, or take heat from outside? Think of a garden lizard lying on a wall in the morning sun.",
      "kid": "Game moment: the garden lizard. Where does their warmth come from?",
      "context": "This is a game moment in Five Families. The question is where a garden lizard gets their warmth.",
      "check": {
@@ -1105,7 +1105,7 @@
        ]
       },
       {
-       "q": "Why do ducks oil their feathers?",
+       "q": "Ducks spread oil on their feathers. Why might that help them stay warm?",
        "good": [
         "So the water rolls off and their feathers stay dry and warm."
        ]
@@ -1140,7 +1140,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "context": "This is the last step of the fur coat test. You say what you found out, like a scientist.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this (with the made-up numbers from the chart). What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 6 degrees, the dry sock bottle cooled only 4, and the wet sock bottle cooled 9. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it."
     }
@@ -1281,7 +1281,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "context": "This is the last step of the lizard on a wall test. You say what you found out, like a scientist.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this (with made-up numbers). What I think: things that cannot make their own heat get warm from the sun. What I saw: the sunny tumbler went from 26 to 32 degrees, but the shady one only went to 28. Why: sunlight warms what it lands on. A lizard is warmed the same way."
     }
@@ -1293,10 +1293,10 @@
    "mins": 30,
    "days": 2,
    "question": "Does a shell stop an egg from drying out in the air?",
-   "predict": "Guess. After one day, which jelly egg clump will be the most dried up: the one in the open, the one in water, or the one inside an eggshell? Why do you think so?",
+   "predict": "Guess. Soaked sabja seeds look like frog eggs: a dark dot in a ball of jelly. After one day, which spoonful of these jelly eggs will be the most dried up: the one in the open, the one in water, or the one inside an eggshell? Why do you think so?",
    "fair_test": "Use the same amount of soaked sabja seeds in each place. Keep all three in the same room. Change only one thing: open air, water, or inside a shell.",
    "results_table": [
-    "Jelly eggs kept",
+    "Where the jelly eggs were kept",
     "How they look at the start",
     "After 3 hours",
     "After 1 day",
@@ -1372,7 +1372,7 @@
      "kid": "Put one spoonful in the open bowl. Put one in water. Put one inside an eggshell, and tape it shut.",
      "context": "This is step 2 of the egg in the air test. Here you put the jelly eggs in three different places.",
      "how": "e3",
-     "parent": "A steel box keeps in even more water than a real shell, because a real shell has tiny holes that let air through. In very humid weather the open spoonful dries slowly, so keep the bowls in moving air. If it is still damp after a day, leave it one more day."
+     "parent": "If you use a small steel box in place of the eggshell, it will keep in even more water than a real shell does, because a real shell has tiny holes that let air through. In very humid weather the open spoonful dries slowly, so keep the bowls in moving air. If it is still damp after a day, leave it one more day."
     },
     {
      "id": "s3",
@@ -1400,7 +1400,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "context": "This is the last step of the egg in the air test. You say what you found out, like a scientist.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: jelly eggs need water, but a shell keeps an egg moist in air. What I saw: the open seeds dried into a crust, but the ones in water and in the shell stayed soft. Why: water escapes from jelly into dry air. The shell slows that down. That is why frogs lay eggs in water and hens can lay eggs in a dry nest."
     }
@@ -1444,7 +1444,7 @@
      "mins": 2,
      "do": "Give your child two steel spoons that have been lying in the room. Ask them to touch both to their cheek.",
      "say": "Touch both spoons to your cheek. How do they feel? Now hold one spoon tight in your fist. Keep the other on the table.",
-     "kid": "Touch both spoons to your cheek. Cool? Now hold one tight in your fist.",
+     "kid": "Touch both spoons to your cheek. Do they feel cool? Now hold one tight in your fist.",
      "context": "This is the start of the spoon in your fist. You feel two steel spoons, then hold one in your hand."
     },
     {
@@ -1485,7 +1485,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask the question below. Then tell your child what the unit will explore.",
+     "do": "Ask the question below. Then say that this unit is about animals that make their own heat and animals that do not.",
      "say": "Some animals are like your hand. They make their own heat. Others are more like the spoon. They warm up only when something warm is near them, like the sun. Which animals do you think are like the spoon?",
      "kid": "Some animals make heat, like your hand. Some are like the spoon. They need the sun. Guess which ones.",
      "context": "This is the last step of the spoon in your fist. It links the spoon to animals that make their own heat and animals that do not.",
@@ -1526,7 +1526,7 @@
      "what": "Spend 20 minutes at a window or balcony. Tick each animal with a backbone you see, and write how they were keeping warm or cool. Extra, next time you are at a fish stall: look at the fish's gills and tick the fish too."
     }
    ],
-   "record": "Tick every vertebrate you see in their group. Next to each, write one thing they were doing to keep warm or cool.",
+   "record": "Tick every vertebrate you see, in the column for their group. Next to each, write one thing they were doing to keep warm or cool.",
    "context": "This is a spotting activity for animals with backbones that live around a city home: crows, pigeons, house lizards, dogs, cats, the fish at the market, and people. You sort them into the five groups and watch how each one keeps warm or cool.",
    "setup": [
     {
@@ -1546,7 +1546,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the five columns in the notebook. Sit at a window or on the balcony together.",
+     "do": "Draw five columns in the notebook, one for each group: fish, amphibians, reptiles, birds and mammals. Sit at a window or on the balcony together.",
      "say": "Today we are animal spotters. We only count animals with a backbone. For each one, we look at what they are doing to stay warm or cool.",
      "kid": "You are an animal spotter. Count animals with a backbone. Watch how they keep warm or cool.",
      "context": "This is the start of backbone spotting. You get your chart ready at a window or balcony.",
@@ -1587,7 +1587,7 @@
      "context": "This is the last step of backbone spotting. You count what you found and think about why.",
      "check": {
       "t": "mcq",
-      "q": "In the monsoon you saw a frog sitting in a wet drain on a hot day. Why might they stay there?",
+      "q": "A frog sits in a wet drain on a hot day in the monsoon. Why might they stay there?",
       "options": [
        "Frogs like dirty water",
        "Frogs must keep their skin damp, because they breathe through it",
@@ -1744,7 +1744,7 @@
      "mins": 4,
      "do": "A grown-up fills both bottles with the same warm water. Measure the start temperature of each.",
      "say": "The big bottle is an elephant. The small bottle is a mouse. Both start just as warm. Which do you think will cool down faster?",
-     "kid": "Big bottle is an elephant. Small bottle is a mouse. Which will cool faster? Guess.",
+     "kid": "The big bottle is an elephant. The small bottle is a mouse. Which will cool faster? Guess.",
      "context": "This is the start of big body, small body. You fill a big and a small bottle with warm water.",
      "adult": true
     },
@@ -1773,7 +1773,7 @@
        "Size makes no difference"
       ],
       "a": 1,
-      "why": "A small body has lots of skin for its size, so heat escapes quickly. That is why a tiny sunbird or a mouse eats almost all day. Picking 'stay warm more easily' mixes up 'small' with 'cosy'. An elephant has the opposite problem. It must work to cool down."
+      "why": "A small body has lots of skin for its size, so heat escapes quickly. That is why a tiny sunbird or a mouse eats almost all day. Picking 'stay warm more easily' mixes up 'small' with 'cosy'. An elephant has the opposite problem. They must work to cool down."
      },
      "how": "a4"
     }
@@ -1842,7 +1842,7 @@
      "id": "s2",
      "mins": 12,
      "do": "Repeat on day 2 and day 3, at the same times.",
-     "say": "Same times as yesterday. Morning and evening.",
+     "say": "We measure at the same times as yesterday, morning and evening.",
      "kid": "Measure again, at the same times as yesterday.",
      "context": "This is the second and third day of my steady warmth. You measure again at the same times.",
      "wait": "Do this again on the next two days"
@@ -1916,7 +1916,7 @@
      "mins": 8,
      "do": "Look at the chart together and ask the questions below.",
      "say": "Look at the numbers. Which animals have the most babies? Which ones look after their babies most? Do you see a pattern?",
-     "kid": "Look at the chart. Many babies, or few? Lots of care, or none? See a pattern?",
+     "kid": "Look at the chart. Which animals have many babies? Which ones care for them most? Do you see a pattern?",
      "context": "This is the pattern step of who looks after the babies. You look for a link between how many babies and how much care.",
      "check": {
       "t": "mcq",
@@ -1980,11 +1980,11 @@
     {
      "day": 2,
      "mins": 35,
-     "what": "Build your nest around a warm water egg. Measure how warm it stays after 20 minutes. Compare with a bare egg."
+     "what": "Build your nest around a small bottle of warm water, which is your egg. Measure how warm it stays after 20 minutes. Compare with a bare bottle."
     }
    ],
    "record": "Draw your nest and label what you used. Write the egg's temperature at the start and after 20 minutes, with and without your nest.",
-   "context": "In this two-day project you build a nest that keeps a warm water egg warm, the way birds keep their eggs warm. Then you test it with a thermometer.",
+   "context": "In this two-day project you build a nest around a small bottle of warm water, which stands in for an egg. The nest should keep it warm, the way birds keep their eggs warm. Then you test it with a thermometer.",
    "setup": [
     {
      "art": "A child gathering cotton wool, a strip of old cloth and wool scraps into a box at home, a pigeon nest of twigs visible on a ledge outside.",
@@ -2095,7 +2095,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Ask the question below. Then let your child choose materials.",
-     "say": "We found that wool keeps a warm bottle warm. Do you think it could keep an ice cube cold? Some people think a sweater would make it melt faster.",
+     "say": "In the Fur Coat Test, the dry woollen sock kept a warm bottle warm. Do you think a woollen sock could keep an ice cube cold? Some people think a sweater would make it melt faster.",
      "kid": "Will a woollen coat make ice melt faster, or slower? Guess first.",
      "context": "This is the start of save the ice cube. You guess whether a coat keeps cold things cold.",
      "check": {
@@ -2107,7 +2107,7 @@
        "Nothing at all"
       ],
       "a": 1,
-      "why": "Wool is not warm by itself. It slows heat moving from one side to the other, in either direction. So it keeps the room's heat away from the ice. Picking 'melt it faster' is the most common guess, because we feel warm in sweaters. But the warmth was ours all along."
+      "why": "Wool is not warm by itself. It slows heat moving from one side to the other, in either direction. So it keeps the room's heat away from the ice. Picking 'melt it faster' is the most common guess, because we feel warm in sweaters. But that warmth comes from our own bodies, not from the wool."
      }
     },
     {
@@ -2117,7 +2117,7 @@
      "say": "Let's check. Which one is a puddle? Which one is still a cube?",
      "kid": "Check every 10 minutes. Which ice cube is melting fastest?",
      "context": "This is the testing part of save the ice cube. You check each cube every 10 minutes.",
-     "parent": "A bare cube melts in about 20 to 40 minutes in a warm room, and a wrapped one lasts longer, so keep checking after the 20 minutes. Bigger cubes (frozen in a small cup) are easier to compare."
+     "parent": "A bare cube melts in about 20 to 40 minutes in a warm room, and a wrapped one lasts longer, so keep checking after the bare cube has melted. Bigger cubes (frozen in a small cup) are easier to compare."
     },
     {
      "id": "s3",
@@ -2453,11 +2453,11 @@
       "Seahorse"
      ],
      "a": 1,
-     "why": "A tortoise has dry scales on its shell, breathes with lungs and lays shelled eggs on land. A toad is an amphibian and a seahorse is a fish."
+     "why": "A tortoise has dry scales on their shell, breathes with lungs and lays shelled eggs on land. A toad is an amphibian and a seahorse is a fish."
     },
     {
      "t": "write",
-     "p": "Choose one animal from your Five Families cards. Write which family it belongs to, and one clue that shows it.",
+     "p": "Choose one animal from your Five Families cards. Write which family they belong to, and one clue that shows it.",
      "lines": 3,
      "a": "Any animal with a correct family and a real clue. For example: a peacock is a bird, because peacocks have feathers and lay hard-shelled eggs.",
      "why": "Sorting by clues such as skin, breathing and eggs is how scientists put animals in families."
@@ -2635,7 +2635,7 @@
       "Thermometers do not work on lizards"
      ],
      "a": 1,
-     "why": "The lizard is warmer, but they took that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word."
+     "why": "The lizard is warmer, but they took that heat from the sun. The child makes their own. This is why 'cold-blooded' is a misleading word."
     },
     {
      "t": "truefalse",
@@ -2663,7 +2663,7 @@
      "ask": "Which idea do you find most convincing? Give your reason. Then say what new evidence would change your mind.",
      "lines": 5,
      "a": "A strong answer uses a piece of evidence, such as feathers, fast-growing bones, or the Big Body, Small Body test where the big bottle cooled more slowly. It says what could change the answer, such as measuring growth rings in many more dinosaur bones. It may say different dinosaurs could have been different.",
-     "why": "This is a real, open argument. A good answer uses evidence and stays ready to change their mind."
+     "why": "This is a real argument that scientists have not settled. A good answer uses evidence, and says what would change your mind."
     },
     {
      "t": "mcq",
@@ -2701,7 +2701,7 @@
     },
     {
      "t": "mcq",
-     "p": "Alligators were found in 2010 to share something with birds. What?",
+     "p": "In 2010, scientists found that alligators share something with birds. What is it?",
      "opts": [
       "Feathers",
       "Air flowing one way through their lungs",
@@ -2843,7 +2843,7 @@
     "Because they are scared of the sun"
    ],
    "a": 0,
-   "why": "A lizard cannot make or lose heat on purpose the way a sparrow can. So they move: into the sun to warm up, into the shade before they get too hot. Their behaviour does the job that a mammal's or a bird's body does inside.",
+   "why": "A lizard's body cannot make much heat or cool itself the way a sparrow's can. So the lizard moves: into the sun to warm up, and into the shade before they get too hot. Moving about does the job that a bird's or a mammal's body does from inside.",
    "outcome": 2
   },
   {
@@ -2947,7 +2947,7 @@
   }
  ],
  "applications": [
-  "Doctors use thermometers to check whether a person's steady body warmth has turned into a fever.",
+  "Doctors use thermometers to check whether a person's body is warmer than usual, which is a fever.",
   "Warm clothes, quilts and sleeping bags copy fur and feathers by trapping still air.",
   "Thermos flasks and cool boxes slow heat moving in or out, like fur and feathers.",
   "Poultry farmers use incubators to keep eggs at the warmth a hen would give them.",
@@ -3019,7 +3019,7 @@
   "If you were a frog, where would you hide on a hot day?",
   "How do you think a baby bird stays warm at night?",
   "Is a dolphin a fish? Why not?",
-  "What did your body burn today to stay warm?",
+  "What food did your body use today to make heat?",
   "Would you rather make your own heat or take it from the sun? Why?",
   "Which animals near us lay eggs? Which ones feed milk?"
  ],
@@ -3349,12 +3349,12 @@
   "deep_truth": {
    "truth": "In the fur coat test, even the bottle in the dry sock kept cooling. A sparrow loses heat like that every minute, and makes new heat from food to replace it. A lizard lets their body cool at night and warms up again in the sun. That is why a sparrow must eat many times more than a lizard of the same weight.",
    "habit": "We say a sparrow 'is warm-blooded', as if their warmth were fixed, like the colour of their feathers. In fact their heat leaks away all the time, and has to be made again from food.",
-   "evidence": "In the fur coat test, every bottle cooled, even the one in the dry sock. In the body diary, your temperature stayed near 37 °C while the air changed by many degrees. A mouse needs many times more food than a snake of the same weight, because they keep making heat."
+   "evidence": "In the fur coat test, every bottle cooled, even the one in the dry sock. In the three-day body temperature diary, your temperature stayed near 37 °C while the air changed by many degrees. A mouse needs many times more food than a snake of the same weight, because they keep making heat."
   },
   "three": {
    "who_am_i": "You are a body that stays near 37 degrees, because you make new heat from food every minute, even while you sleep.",
-   "what_is_life": "Staying alive and warm means never stopping: eating, breathing and making heat, day and night.",
-   "what_is_this_world": "A world where a lizard is about as warm as the air around them, and a pigeon keeps their own warmth with food and feathers."
+   "what_is_life": "For a bird or a mammal, staying alive means eating, breathing and making heat all the time, day and night.",
+   "what_is_this_world": "In this world, a lizard is about as warm as the air around them, and a pigeon keeps their own warmth with food and feathers."
   },
   "thread": "All animals with a backbone come from early fish that lived in the sea more than 500 million years ago. From that one beginning came frogs, crocodiles, sparrows, cows and you. Each group found its own way to breathe, keep warm and have young. They still share one body plan, a backbone with a skull at one end. And the warmth of every one of them comes, in the end, from the same sun.",
   "teachings": [
@@ -3408,5 +3408,5 @@
   "wrong_idea": "That no animal can live in air hotter than their own body, because a body heats up like any other object."
  },
  "playtest": "Played Five Families with 2 and with 4 players: all 25 cards and 5 question cards are listed, the score sheet now matches the scoring (points and bonus), and the bonus is for the fifth card on a mat. Played Sun, Shade and Snow with 2 and with 4: the 2-player rule was contradictory, so now the player is a lizard for 10 cards, then roles swap for 10 more; an empty food pile and sitting out are explained; tokens are ragi and the corners use a cloth. Did every experiment in a flat: the sock can be a woollen shawl, step 2 notes now point to the right step, the sunny tumbler note gives an honest expected difference (2 to 5 degrees, small on a cloudy day), the sabja eggs sit in moving air and the eggshell is only peeked at after 3 hours, the ice cube challenge has a bare comparison cube and an honest melting time, the frog sponge rules are clearer, the nest project needs 2 bottles, and the elephant-ear activity uses newspaper. Removed the pointless water-near-sockets safety line, the unused animal cards from the babies chart, one joke, internal video notes, and repeats (the frog egg question, the cold-blooded question and claim, the sweater and small-bottle questions), replacing one with a wet-dog question. Fixed the confusing mother/ladder line in the story. I could not watch the three videos, only confirm that the titles exist, so a parent is told to preview them. Science facts were read and not changed.",
- "warm": {"words": ["LUNGS", "GILLS", "SHADE", "BIRDS", "YOUNG"], "quiz": [["Birds and mammals make their own body heat from food.", true, "Their bodies use up food to stay warm, even when the air is cold."], ["A lizard is called cold-blooded because her blood is always cold.", false, "A lizard in the sun can have warm blood. She simply takes her heat from outside."], ["An animal that makes her own heat needs many times more food.", true, "Making heat uses up lots of food. A lizard of the same size needs far less."], ["Animals that make their own heat are more advanced than the others.", false, "Fish, amphibians and reptiles suit their lives well and need less food. Life is a branching tree."], ["Fur, feathers and fat help keep an animal warm.", true, "They slow down heat leaking out of the body. This is called insulation."], ["Water drying off an animal's skin makes her hotter.", false, "Drying water carries heat away, so a wet animal in the wind cools down."], ["Reptiles and birds can lay eggs on dry land because their eggs have shells.", true, "A shell stops the egg drying out. Frog eggs are soft and must stay in water."], ["Animals that lay many eggs usually look after every egg.", false, "Animals with many eggs usually leave them. Animals with few young usually care for them."], ["Gills take oxygen out of water, while lungs take it out of air.", true, "Fish use gills in water; reptiles, birds and mammals use lungs to breathe air."], ["Most mammals lay soft eggs in water.", false, "Most mammals give birth to live babies and feed them milk."]], "odd": [[["Crow", "Cow", "Bat", "Lizard"], "Lizard", "Crows, cows and bats make their own heat from food; a lizard takes heat from outside."], [["Snake", "Crow", "Cow", "Rohu"], "Rohu", "Snakes, crows and cows breathe air with lungs; a rohu breathes with gills."], [["Crow", "Turtle", "Lizard", "Frog"], "Frog", "Crows, turtles and lizards lay shelled eggs on land; a frog lays soft eggs in water."], [["Panting", "Sitting in shade", "Wallowing in mud", "Huddling together"], "Huddling together", "Panting, shade and mud help an animal cool down; huddling helps keep warmth in."], [["Rohu", "Frog", "Catla", "Mugger crocodile"], "Mugger crocodile", "Rohu, frogs and catla usually leave their eggs; a mugger mother carries her babies."]]}
+ "warm": {"words": ["LUNGS", "GILLS", "SHADE", "BIRDS", "YOUNG"], "quiz": [["Birds and mammals make their own body heat from food.", true, "Their bodies use up food to stay warm, even when the air is cold."], ["A lizard is called cold-blooded because her blood is always cold.", false, "A lizard in the sun can have warm blood. She simply takes her heat from outside."], ["An animal that makes her own heat needs many times more food.", true, "Making heat uses up lots of food. A lizard of the same size needs far less."], ["Animals that make their own heat are more advanced than the others.", false, "Fish, amphibians and reptiles suit their lives well and need less food. The groups are branches of one tree, not steps on a ladder."], ["Fur, feathers and fat help keep an animal warm.", true, "They slow down heat leaking out of the body. This is called insulation."], ["Water drying off an animal's skin makes her hotter.", false, "Drying water carries heat away, so a wet animal in the wind cools down."], ["Reptiles and birds can lay eggs on dry land because their eggs have shells.", true, "A shell stops the egg drying out. Frog eggs are soft and must stay in water."], ["Animals that lay many eggs usually look after every egg.", false, "Animals with many eggs usually leave them. Animals with few young usually care for them."], ["Gills take oxygen out of water, while lungs take it out of air.", true, "Fish use gills in water; reptiles, birds and mammals use lungs to breathe air."], ["Most mammals lay soft eggs in water.", false, "Most mammals give birth to live babies and feed them milk."]], "odd": [[["Crow", "Cow", "Bat", "Lizard"], "Lizard", "Crows, cows and bats make their own heat from food; a lizard takes heat from outside."], [["Snake", "Crow", "Cow", "Rohu"], "Rohu", "Snakes, crows and cows breathe air with lungs; a rohu breathes with gills."], [["Crow", "Turtle", "Lizard", "Frog"], "Frog", "Crows, turtles and lizards lay shelled eggs on land; a frog lays soft eggs in water."], [["Panting", "Sitting in shade", "Wallowing in mud", "Huddling together"], "Huddling together", "Panting, shade and mud help an animal cool down; huddling helps keep warmth in."], [["Rohu", "Frog", "Catla", "Mugger crocodile"], "Mugger crocodile", "Rohu, frogs and catla usually leave their eggs; a mugger mother carries her babies."]]}
 }

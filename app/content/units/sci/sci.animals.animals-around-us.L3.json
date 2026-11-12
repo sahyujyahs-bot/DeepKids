@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?",
-  "text": "Most people say 'two or three'. Then they look again. A crow on the wire. Ants on the wall. A pigeon on the ledge above. A spider in the corner. A gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has their own day. They wake, eat, rest and hide at their own times. You can find those patterns by watching the same animal again and again.",
+  "text": "Most people say 'two or three'. Then they look again and find more: a crow on the wire, ants on the wall, a pigeon on the ledge above, a spider in the corner, a gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has their own day. They wake, eat, rest and hide at their own times. You can find those patterns by watching the same animal again and again.",
   "art": "A child at an open window, eyes wide, with small numbered circles drawn around a crow, an ant line, a pigeon, a spider web and a gecko."
  },
  "outcomes": [
@@ -206,7 +206,7 @@
   {
    "concept": "Homes that control heat: the termite mound",
    "status": "idea",
-   "description": "In south India the termite Odontotermes obesus builds mounds taller than a child. For years, books said these mounds work like air coolers, with the termites' own warmth pushing air up a chimney. Then in 2015 a team of scientists measured air inside real mounds near Bengaluru. They found the mound breathes with the day. In the day, the thin outer walls warm up faster than the middle, and air moves one way. At night the walls cool faster, and air moves the other way. So the daily change from hot day to cool night moves the air through the termites' home. Scientists are still studying how this works in mounds of other kinds.",
+   "description": "In south India the termite Odontotermes obesus builds mounds taller than a child. For years, books said these mounds work like air coolers, with the termites' own warmth pushing air up a chimney. Then in 2015 a team of scientists measured air inside real mounds near Bengaluru. They found something different. In the day, the thin outer walls warm up faster than the middle, and air moves one way. At night the walls cool faster, and air moves the other way. So the daily change from hot day to cool night moves the air through the termites' home. Scientists are still studying how this works in mounds built by other kinds of termites.",
    "examples": [
     "Deep inside a mound, the temperature changes much less between day and night than it does outside.",
     "Termites grow a fungus garden inside the mound, which needs steady warmth and damp air.",
@@ -214,7 +214,7 @@
    ],
    "perspectives": [],
    "art": "A cut-away termite mound with red arrows of air going up the thin outer walls in the sun, and blue arrows going the other way under a night sky.",
-   "context": "This card goes deep into one animal home. It shows how a termite mound in India keeps its air fresh using day and night."
+   "context": "This card looks closely at one animal home. It shows how the change from hot day to cool night moves fresh air through a termite mound in India."
   },
   {
    "concept": "Why so many animals live near people",
@@ -235,7 +235,7 @@
    "concept": "Animals of towns, villages and forests in India",
    "status": "defined",
    "definition": "Different places in India hold different animals, but many animals live in more than one kind of place.",
-   "description": "In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals cross the lines. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and bird watchers often find dozens of kinds in a single city park.",
+   "description": "In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals live in more than one of these places. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and bird watchers often find dozens of kinds in a single city park.",
    "examples": [
     "Indian grey hornbills nest in old trees in Delhi and Mumbai, not only in forests.",
     "Peacocks walk on the rooftops of villages in Rajasthan and Tamil Nadu.",
@@ -271,11 +271,11 @@
    "perspectives": [
     {
      "who": "Many scientists who study bird eyes",
-     "explanation": "A substance in birds' eyes, called cryptochrome, may let them sense Earth's magnetism using a strange quantum effect. Experiments on robins support this. It is not proven yet."
+     "explanation": "A substance in birds' eyes, called cryptochrome, may let them sense Earth's magnetism. Experiments on robins support this. It is not proven yet."
     },
     {
      "who": "Other scientists",
-     "explanation": "Birds may sense magnetism with tiny bits of iron in their bodies, perhaps in the beak or the ear. Some early studies of this did not hold up. So they keep testing it."
+     "explanation": "Birds may sense magnetism with tiny bits of iron in their bodies, perhaps in the beak or the ear. Some early studies of this did not hold up. So scientists keep testing this idea."
     }
    ],
    "art": "A line of geese flying over the Himalayas at night, with faint magnetic field lines and stars drawn in the sky.",
@@ -285,7 +285,7 @@
    "concept": "Watching kindly",
    "status": "defined",
    "definition": "Watching kindly means we look without harming, chasing, catching or scaring the animal, and without touching their home.",
-   "description": "An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In our tests we only watch animals. We do not pick them up.",
+   "description": "An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In the tests in this unit we only watch animals. We do not pick them up.",
    "examples": [
     "Use binoculars, or sit at a window, to watch a nest.",
     "If a bird keeps calling and diving at you, walk away. You are too close to a nest.",
@@ -335,7 +335,7 @@
    "claim": "Wild animals belong only in forests. Animals in cities are lost or out of place.",
    "who": "Many of us think this without noticing.",
    "for": "Forests do hold most of India's wild animals, and many animals cannot survive in cities.",
-   "against": "Crows, pigeons, kites, palm squirrels and geckos have lived alongside people for thousands of years. Leopards live in Mumbai's park and some walk past homes at night. For these animals the town is home.",
+   "against": "Crows, pigeons, kites, palm squirrels and geckos have lived alongside people for thousands of years. Leopards live in Sanjay Gandhi National Park, inside Mumbai, and some walk past homes at night. For these animals the town is home.",
    "status": "rejected",
    "context": "This card is about a common idea that wild animals do not belong in towns."
   },
@@ -367,7 +367,7 @@
    "claim": "Male baya weaver birds put blobs of mud inside their nests to make them heavy, so the wind does not swing them.",
    "who": "An idea from Indian bird watchers.",
    "for": "The mud is real. Many nests have blobs of wet mud stuck inside the walls.",
-   "against": "Nobody has proven why. Others think the mud may help the male show off, or help the nest keep its shape. Scientists still argue.",
+   "against": "Nobody has proven why the mud is there. Other bird watchers think the mud may help the male show off, or help the nest keep its shape. Scientists still argue about it.",
    "status": "debated",
    "context": "This card is about a real puzzle: why weaver birds put mud inside their nests."
   },
@@ -389,7 +389,7 @@
   {
    "q": "How does a bat know that evening has come, deep inside a dark cave?",
    "kind": "deep",
-   "hint": "Think about the clock inside every body."
+   "hint": "Think about the body clock, the timer inside every animal."
   },
   {
    "q": "Why do most birds sleep on branches and not in their nests?",
@@ -417,7 +417,7 @@
    "hint": "Can a home be two places, or a whole journey?"
   },
   {
-   "q": "How can a termite mound breathe without a single fan?",
+   "q": "How does air move through a termite mound without a single fan?",
    "kind": "deep",
    "hint": "What changes between day and night?"
   },
@@ -768,7 +768,7 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Count the leaf tokens. Ask the closing question.",
+     "do": "Count the leaf tokens. Then ask which home was the cleverest, and why.",
      "say": "Count your leaves. Now think. Which home was the cleverest, and why?",
      "kid": "Count your leaf tokens. Which home was the cleverest? Say why.",
      "context": "This is the last step of Who Lives Here?, the animal homes memory game.",
@@ -1021,7 +1021,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Stop and ask the big question.",
+     "do": "Stop the game and ask why many animals are busy at dawn and dusk.",
      "say": "Many animals rest at noon and are busy at dawn and dusk. Why do you think that is? Think of heat, light and enemies.",
      "kid": "Why are many animals busy at dawn and dusk? Think of heat and light.",
      "context": "This step of Day Shift, Night Shift asks why animals choose a time to be busy.",
@@ -1034,7 +1034,7 @@
        "They are scared of the Sun."
       ],
       "a": 0,
-      "why": "In India the noon sun is fierce. Moving about in that heat makes an animal lose water and tire quickly. Dawn and dusk are cooler, and there is still a little light to see by. Picking 'cannot see in daylight' is true only for a few animals. Most dawn-and-dusk animals see well in the day."
+      "why": "In India the noon sun is fierce. Moving about in that heat makes an animal lose water and tire quickly. Dawn and dusk are cooler, and there is still a little light to see by. 'They cannot see at all in daylight' is true only for a few animals. Most dawn-and-dusk animals see well in the day."
      }
     }
    ]
@@ -1180,7 +1180,7 @@
      "context": "This step of the Busy Times test is where you add up your bird counts and draw a bar chart.",
      "check": {
       "t": "mcq",
-      "q": "In the made-up results, morning had 14 visits, noon 3, and evening 11. What do they show?",
+      "q": "Here are some made-up results: 14 visits in the morning, 3 at noon and 11 in the evening. What do they show?",
       "options": [
        "Birds drink most in the cool morning and evening, and rest at noon.",
        "Birds never drink water at noon.",
@@ -1193,11 +1193,11 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask your child to say or write: what I think, what I saw, and why.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw that shows it, and why they think it happened.",
      "say": "Now tell me three things, the way scientists report a result. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw that shows it, and why you think it happened.",
      "context": "This is the last step of the Busy Times test. You say your claim, your evidence and your reasoning.",
-     "parent": "This is claim, evidence and reasoning. A good answer sounds like this. What I think: birds come to drink mostly in the morning and evening. What I saw: 14 visits in the mornings, 11 in the evenings, but only 3 at noon. Why: noon is very hot, so birds rest in the shade and save energy."
+     "parent": "Scientists call these three things the claim, the evidence and the reasoning. A good answer sounds like this. What I think: birds come to drink mostly in the morning and evening. What I saw: 14 visits in the mornings, 11 in the evenings, but only 3 at noon. Why: noon is very hot, so birds rest in the shade and save energy."
     }
    ]
   },
@@ -1208,7 +1208,7 @@
    "days": 1,
    "question": "On a hot day, is it cooler inside a hole in the ground than on the open ground in the sun?",
    "predict": "Guess the order before you measure. Which will be hottest: soil in the sun, soil in the shade, or inside a hole in the soil? Which will be coolest? Why do you think so?",
-   "fair_test": "To make it fair, use the same thermometer for every place. Push the tip into the soil, about 1 cm deep, and leave it for the same 5 minutes in each place before reading it. Measure all three places within the same half hour, when the sun is strong, so the Sun is the same.",
+   "fair_test": "To make it fair, use the same thermometer for every place. Push the tip into the soil, about 1 cm deep, and leave it for the same 5 minutes in each place before reading it. Measure all three places within the same half hour, when the sun is strong, so the Sun is equally strong for all three.",
    "results_table": [
     "Place",
     "Temperature after 5 minutes (°C)"
@@ -1237,7 +1237,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess the order. Measure the temperature in the sun, in the shade and inside a hole. Compare."
+     "what": "Guess which place will be hottest and which coolest. Measure the temperature in the sun, in the shade and inside a hole. Compare the three."
     }
    ],
    "record": "Write the three temperatures in the table. Put a star next to the coolest place.",
@@ -1289,7 +1289,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "In the sunny pot or soil, dig a small hole. Make it as deep as your hand is long, or as deep as the pot allows. Put the tip of the thermometer at the bottom. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
+     "do": "In the same sunny soil, in a garden bed or a flower pot, dig a small hole. Make it as deep as your hand is long, or as deep as the pot allows. Put the tip of the thermometer at the bottom. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
      "say": "This hole is like a little burrow. Let's see how warm it is inside.",
      "kid": "Dig a small hole, a hand deep. Put the thermometer tip at the bottom. Wait 5 minutes. Read it.",
      "context": "This step of the Cool Home Test measures the temperature inside a small hole, like an animal's burrow.",
@@ -1310,9 +1310,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Fill in the hole. Ask for claim, evidence and reasoning.",
+     "do": "Fill in the hole. Then ask your child to say what they think, what they saw, and why.",
      "say": "Let's fill the hole in, so no one trips. Now, like a scientist: what do you think, what did you see, and why?",
-     "kid": "Fill the hole in. Then say: what I think, what I saw, and why.",
+     "kid": "Fill the hole in. Then say three things: what you think, what you saw that shows it, and why you think it happened.",
      "context": "This is the last step of the Cool Home Test. You tidy up, then say your claim, your evidence and your reasoning.",
      "parent": "A good answer: What I think: a burrow keeps an animal cool on a hot day. What I saw: the hole was 30 °C, but the open ground was 44 °C. Why: the Sun heats the top of the ground, and the heat moves down slowly."
     }
@@ -1362,7 +1362,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "About an hour before, put out the sugar where you have seen ants. When a trail has formed, count the ants, test the trail and say what you found."
+     "what": "About an hour before you start, put out a pinch of sugar where you have seen ants. When a trail has formed, count the ants, test the trail and say what you found."
     }
    ],
    "record": "Write the number of ants that crossed the spot in 1 minute: before, with a hand above, just after rubbing, and 3 minutes after rubbing. Next to each number, write what the ants did.",
@@ -1385,7 +1385,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. About an hour before, put a pinch of sugar on a square of paper where you have seen ants. 2. Wait until a line of ants walks to it. 3. Show your child the trail.",
+     "do": "1. About an hour before you start, put a pinch of sugar on a square of paper where you have seen ants. 2. Wait until a line of ants walks to it. 3. Show your child the trail.",
      "say": "Look, the ants walk in a line, one behind another. How do you think they all know the way to the sugar?",
      "kid": "Look at the line of ants. How do they all know the way?",
      "context": "This is the first step of the Ant Trail Test. You set out sugar and wait for a line of ants.",
@@ -1443,7 +1443,7 @@
      "mins": 10,
      "do": "Ask your child to say or write what they think, what they saw, and why. Then wipe up the sugar.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think the ants did that?",
-     "kid": "Say three things. What I think. What I saw. Why. Then wipe up the sugar.",
+     "kid": "Say three things: what you think now, what you saw that shows it, and why you think the ants did that. Then wipe up the sugar.",
      "context": "This is the last step of the Ant Trail Test. You say your claim, your evidence and your reasoning, then tidy up.",
      "parent": "A good answer: What I think: ants find their way by following a smell on the floor. What I saw: the ants walked on when my hand was above them, but stopped and wandered where I rubbed the floor. After a few minutes the line came back. Why: rubbing wiped away their smell trail, and new ants laid it again. This is how a whole line of ants keeps to one path. Afterwards, wipe up the sugar and wipe the floor with a damp cloth, so the ants stop coming to that spot."
     }
@@ -1687,9 +1687,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the ticks. Ask which sign told the most.",
+     "do": "Count the ticks. Ask which sign told you the most about an animal's habits.",
      "say": "Which clue told us the most about an animal's habits?",
-     "kid": "Count your ticks. Which clue was the best?",
+     "kid": "Count your ticks. Which clue told you the most about an animal?",
      "context": "This is the last step of Animal Signs Bingo."
     }
    ]
@@ -1858,7 +1858,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Look at the folds. Ask why those animals do well in more than one place.",
+     "do": "Look at the animals you put on the fold lines. Ask why those animals do well in more than one place.",
      "say": "Look at the animals on the folds. What do they have in common?",
      "kid": "Look at the animals on the folds. Why can they live in many places?",
      "context": "This is the last step of Town, Village, Forest.",
@@ -1924,8 +1924,8 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Listen in silence for 5 minutes. Open eyes briefly to mark each sound.",
-     "say": "Shh. Near or far? Up or down? Left or right?",
+     "do": "Listen in silence for 5 minutes. Open your eyes briefly to mark each sound on the paper.",
+     "say": "Shh. Is the sound near or far? Is it up or down? Is it on the left or the right?",
      "kid": "Listen. Is the sound near or far? Mark it on your map.",
      "context": "This is the listening step of the Sound Map.",
      "parent": "Common sounds: crows, koels, mynas, pigeons cooing, dogs barking, squirrels chattering, crickets and frogs in the evening. A Sound Map at dawn and another at dusk shows how animal habits change through the day."
@@ -1987,7 +1987,7 @@
     {
      "day": 4,
      "mins": 10,
-     "what": "Watch at the first time again. Draw your animal from life."
+     "what": "Watch again at the time of day you used on the first day. Draw your animal from life."
     },
     {
      "day": 5,
@@ -2083,7 +2083,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask for claim, evidence and reasoning about one habit.",
+     "do": "Ask your child to name one habit of their animal, say what they saw that shows it, and say why they think the animal does that.",
      "say": "Tell me like a scientist. What is one habit of your animal? What did you see that shows it? And why do you think they do that?",
      "kid": "Say one habit of your animal. Say what you saw. Say why you think they do that.",
      "context": "This is the last step of My Animal Week. You share one habit with your claim, evidence and reasoning.",
@@ -2447,7 +2447,7 @@
        "says": "Fruit bats carry seeds far away when they feed at night, and new trees grow from them. If we cut the tree, they lose their roost."
       },
       {
-       "who": "Revathi, who helps at a bird and bat rescue centre",
+       "who": "A helper at a bird and bat rescue centre",
        "says": "Keep the tree. Move the cars to the other side of the building, away from the roost."
       }
      ],
@@ -2489,7 +2489,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A girl did the Busy Times test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?",
+     "p": "In the Busy Times test, you count the birds that visit a bowl of water. A girl did the test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?",
      "opts": [
       "Nothing. She saw it herself.",
       "One rainy day can be unusual. She should count on more days.",
@@ -2502,7 +2502,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Ant Trail Test, why did we first hold a finger just above the trail, without touching the floor?",
+     "p": "In the Ant Trail Test, you rub away a short piece of an ant trail to see what the ants do. Why do you first hold a finger just above the trail, without touching the floor?",
      "opts": [
       "To check that our hand and its shadow were not what stopped the ants",
       "To feed the ants",
@@ -2584,7 +2584,7 @@
        "says": "Feeding animals is kind. In a hot summer, the crows can hardly find food."
       },
       {
-       "who": "Selvi, who works at a wildlife rescue centre in Bengaluru",
+       "who": "A worker at a wildlife rescue centre in Bengaluru",
        "says": "Cooked food, bread and sweets can make birds ill. Feeding monkeys teaches them to grab from people. Clean water in a bowl is kinder."
       },
       {
@@ -2594,7 +2594,7 @@
      ],
      "ask": "Who do you agree with most? Give a reason. Then answer back from one of the other sides.",
      "lines": 4,
-     "a": "A strong answer picks a side with a reason, and then argues fairly from another side. For example: 'I agree with Selvi, because a bowl of water helps in summer without making birds ill. But Paati is right that some animals go hungry in hard times.'",
+     "a": "A strong answer picks a side with a reason, and then argues fairly from another side. For example: 'I agree with the rescue centre worker, because a bowl of water helps in summer without making birds ill. But Paati is right that some animals go hungry in hard times.'",
      "why": "Scientists and kind people really do disagree about feeding wild animals. A good answer weighs what helps the animal, what harms the animal, and what is fair to the neighbours."
     },
     {
@@ -2621,7 +2621,7 @@
       "They do not like Indian water."
      ],
      "a": 0,
-     "why": "Migration is a trade. The northern lakes are rich in summer but freeze in winter. India is warm in winter. So the geese go where food is, each season. Picking 'too cold' gets it backwards."
+     "why": "The geese move with the seasons. The northern lakes are rich in food in summer but freeze in winter. India is warm in winter. So the geese go where the food is, each season. Picking 'too cold' gets it backwards."
     },
     {
      "t": "sort",
@@ -3246,7 +3246,7 @@
    "why_maths": "Taking one number from another tells us how big the difference is, so we can say how much busier one time is, not just that it is busier."
   },
   {
-   "problem": "Here are the tally marks from the Busy Times test: morning, two groups of five and four more. How many visits is that?",
+   "problem": "In the Busy Times test, the tally marks for the morning were two groups of five and four more lines. How many visits is that?",
    "answer": "14 visits.",
    "explain": "Each group of five tally marks is 5. Two groups make 5 + 5 = 10. Four more lines make 10 + 4 = 14.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -3561,16 +3561,16 @@
  "roots": {
   "context": "We have been watching the animals around us: when they are busy, where they live, and how ants keep to one path. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "An ant that has never been to the sugar can still find it. They follow the scent that other ants left on the floor. Rub the scent away, and the ants stop and wander until ants lay the scent again. So the colony keeps their way to food on the floor, as a trail that every ant can follow.",
-   "habit": "We think whatever an animal knows must be stored inside their own head. An ant colony keeps their way to food on the ground, as a trail that every ant can follow and add to.",
+   "truth": "An ant that has never been to the sugar can still find it. They follow the scent that other ants left on the floor, and wander when it is rubbed away. So the way to the food is not kept in any one ant's head. It is kept on the floor, as a scent trail that every ant can follow.",
+   "habit": "We think whatever an animal knows must be stored inside their own head. But the ants of one nest keep their way to food on the ground, as a scent trail that every ant can follow and add to.",
    "evidence": "In the Ant Trail Test, ants walked on under a hand held above the trail, but stopped and wandered where the floor was rubbed. A few minutes later the line formed again."
   },
   "three": {
    "who_am_i": "You are an animal too. You have habits, a home and a body clock, like the crow outside.",
    "what_is_life": "Living things make homes from what is near, like twigs and mud, and from what their bodies make, like wax and silk. City crows even use wire and plastic that people throw away.",
-   "what_is_this_world": "The world is one big shared home. Every wall, tree and drain is somebody's house."
+   "what_is_this_world": "The world is a home that many living things share. Every wall, tree and drain is some animal's home."
   },
-  "thread": "The crows' nest in the story was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. One awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.",
+  "thread": "In the story The Wire Nest, the crows' nest was made of a neem tree, a family's lost wire and two crows' work. An ant trail is made by hundreds of ants, each adding a little scent. Neither belongs to one maker. One awareness runs through the whole world and shows itself in countless separate lives. A nest or a trail is a small, real picture of that: many lives making one thing together.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 1",

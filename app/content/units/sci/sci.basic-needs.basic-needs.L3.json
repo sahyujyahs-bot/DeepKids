@@ -126,7 +126,7 @@
    "concept": "Why we need air",
    "status": "defined",
    "definition": "We breathe in air for its oxygen. Our cells use oxygen to get energy from food, and they make carbon dioxide, which we breathe out.",
-   "description": "Every cell in your body is using food for energy right now. To do it, each cell needs oxygen. Your lungs take oxygen from the air, and your blood carries it everywhere. The cells give back carbon dioxide, and your blood carries it to your lungs to breathe out. Your body stores very little oxygen, so you must keep breathing. That is why you could not save up a breath. A child at rest breathes about 20 times a minute.",
+   "description": "Every cell in your body is using food for energy right now. To do it, each cell needs oxygen. Your lungs take oxygen from the air, and your blood carries it everywhere. The cells give back carbon dioxide, and your blood carries it to your lungs to breathe out. Your body stores very little oxygen, so you must keep breathing. That is why you cannot save up a breath. A child at rest breathes about 20 times a minute.",
    "examples": [
     "After running, you breathe faster, because your muscles are using food and oxygen faster.",
     "Air breathed out still has some oxygen in it. That is why mouth-to-mouth breathing can help a person who has stopped breathing.",
@@ -140,7 +140,7 @@
    "concept": "Why we need water, every day",
    "status": "defined",
    "definition": "About 60 percent of a grown-up's body is water, and a child's body is a little more. Water carries food and oxygen in the blood, helps digest food, takes away waste and cools us as sweat.",
-   "description": "Your body loses water all day. It leaves in urine, in sweat, in every breath, and through your skin even when you feel dry. You saw this in the Hidden Water Test. Even on a cool day, a grown-up loses a few glasses of water through skin and breath alone. So we must drink every day to put that water back. Food helps too: rice, fruit, curd and rasam are mostly water. Thirst is the body's signal that it needs more. Dark yellow urine is another sign.",
+   "description": "Your body loses water all day. It leaves in urine, in sweat, in every breath, and through your skin even when you feel dry. In the Hidden Water Test, a plastic bag on a dry hand turns misty inside within minutes. Even on a cool day, a grown-up loses a few glasses of water through skin and breath alone. So we must drink every day to put that water back. Food helps too: rice, fruit, curd and rasam are mostly water. Thirst is the body's signal that it needs more. Dark yellow urine is another sign.",
    "examples": [
     "On a hot day in Madurai, a child playing outside sweats a lot and needs to drink much more than on a cool day.",
     "Breathe on a cold steel plate, and a mist of water forms. That water came from inside you.",
@@ -209,7 +209,7 @@
   {
    "concept": "Needs and wants",
    "status": "debated",
-   "description": "A need is something we cannot live or stay well without. A want is nice to have. Many things are easy to sort: water is a need, a video game is a want. Others are hard. A sweater is a need in Shimla in winter and a want in Chennai in May. A fan is a want for a person who stays healthy without one, but in a heatwave it can protect an old person's health. People also argue about whether there are other needs, such as love, friends, learning and play. Here are two views.",
+   "description": "A need is something we cannot live or stay well without. A want is nice to have. Many things are easy to sort: water is a need, a video game is a want. Others are hard. A sweater is a need in Shimla in winter and a want in Chennai in May. A fan is a want for a person who stays healthy without one, but in a heatwave it can protect an old person's health. People also argue about whether there are other needs, such as love, friends, learning and play. Here are some views.",
    "examples": [
     "Medicine is a want for a healthy person, but a need for a person with diabetes who needs insulin.",
     "A mobile phone is usually a want. For a fisherwoman checking a cyclone warning at sea, it can save her life.",
@@ -254,7 +254,7 @@
   },
   {
    "text": "The body loses water all day, through urine, sweat, breath and the skin, so we must drink every day.",
-   "evidence": "Santorio's weighing chair in 1614, and many careful measurements since, show the body losing weight as water even when no sweat can be seen. You saw it in the Hidden Water Test."
+   "evidence": "Santorio's weighing chair in 1614, and many careful measurements since, show the body losing weight as water even when no sweat can be seen. In the Hidden Water Test, a plastic bag on a dry hand turns misty within minutes."
   },
   {
    "text": "We breathe in oxygen and breathe out carbon dioxide, and our cells use oxygen to get energy from food.",
@@ -311,7 +311,7 @@
   {
    "q": "The water you drank this morning is already leaving you through your skin and breath. Is the water inside you part of you, or just passing through?",
    "kind": "deep",
-   "hint": "Think about the misty bag, and where that water goes next."
+   "hint": "Think about the Hidden Water Test, where a plastic bag on a dry hand turned misty. Where does that water go next?"
   },
   {
    "q": "You can store food in your body as fat, and some water, but almost no air. Why do you think the body cannot store up air?",
@@ -331,7 +331,7 @@
   {
    "q": "A sweater is a need in Shimla and a want in Chennai. Is anything a need everywhere, for everyone?",
    "kind": "deep",
-   "hint": "Think about air and water, and whether even they ever change."
+   "hint": "Think about air and water. Is there any person or place that does not need them?"
   },
   {
    "q": "Many people in the world do not have safe drinking water. What would it take for everyone to have it?",
@@ -696,7 +696,7 @@
      "mins": 3,
      "do": "1. Your child washes and dries their hands well with a towel. 2. Wait two minutes. 3. Ask them to touch their palm to their cheek.",
      "say": "First, let's make sure your hand is really dry. Dry it well and wait. Now touch your cheek with your palm. Does it feel wet or dry?",
-     "kid": "Dry your hands well. Wait two minutes. Touch your cheek. Wet or dry?",
+     "kid": "Dry your hands well. Wait two minutes. Touch your palm to your cheek. Does it feel wet or dry?",
      "parent": "The hand should feel dry. That is the point: we start with a hand that seems to give out nothing.",
      "context": "This is the first step of the Hidden Water Test. You check that your hand feels completely dry."
     },
@@ -705,7 +705,7 @@
      "mins": 4,
      "do": "1. Show the two bags and the tumbler. 2. Explain the plan. 3. Ask for a guess and a reason for each bag. 4. Write the guesses down.",
      "say": "One bag will go over your hand. The other goes over this empty tumbler. In 15 minutes, what will each bag look like inside? Why do you think so?",
-     "kid": "One bag on your hand. One on the tumbler. What will each look like? Why?",
+     "kid": "One bag goes over your hand and one over the empty tumbler. What will each bag look like inside after 15 minutes? Why?",
      "ask": [
       {
        "q": "Why did you guess that?",
@@ -721,11 +721,11 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Slide one bag over your child's hand. 2. Close it at the wrist with a loose band, one finger can slip under it. 3. Put the tumbler in the other bag, closed the same way.",
+     "do": "1. Slide one bag over your child's hand. 2. Close it at the wrist with a band, loose enough that one finger can slip under it. 3. Put the tumbler in the other bag, closed the same way.",
      "say": "Let's put the bags on. The band must be loose. Can you slip a finger under it? Good.",
      "kid": "Put your hand in the bag. Keep the band loose. Put the tumbler in the other bag.",
      "adult": true,
-     "parent": "Never tight. The bag only needs to stop air rushing in. Keep the child away from the fan and from sunlight, because both would change the result."
+     "parent": "The band must never be tight. The bag only needs to stop air rushing in. Keep the child away from the fan and from sunlight, because both would change the result."
     },
     {
      "id": "s4",
@@ -759,8 +759,8 @@
      "mins": 5,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it matter for your body?",
-     "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "This is claim, evidence and reasoning. A good answer: My skin gives out water even when it feels dry. The hand bag misted and dripped, but the tumbler bag stayed clear. My body is losing water all the time, so I need to drink every day. Scientists call this insensible perspiration, which means sweat you cannot sense.",
+     "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "This is how scientists explain a result: a claim, the evidence for it, and the reasoning. A good answer: My skin gives out water even when it feels dry. The hand bag misted and dripped, but the tumbler bag stayed clear. My body is losing water all the time, so I need to drink every day. Scientists call this insensible perspiration, which means sweat you cannot sense.",
      "think": "If you did 20 jumps first, would the bag mist faster or slower? Try it another day."
     }
    ]
@@ -879,8 +879,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask for a guess and a reason, and write it down.",
-     "say": "Which sugar will the ants reach first? Will they reach the island at all? Why do you think so?",
-     "kid": "Which sugar will the ants find? Why do you think so?",
+     "say": "One cap of sugar will sit on a dry plate. The other will sit on a little island in a ring of water. Which sugar will the ants reach first? Will they reach the island at all? Why do you think so?",
+     "kid": "Which sugar will the ants reach: the one on the dry plate, the one inside the water ring, or both? Why do you think so?",
      "ask": [
       {
        "q": "Why do you think that?",
@@ -898,7 +898,7 @@
      "mins": 5,
      "do": "1. Put half a teaspoon of sugar in each cap. 2. Put one cap on a dry plate. 3. Turn the katori upside down in the middle of the other plate. 4. Pour water round it, about 1 cm deep. 5. Put the second cap on top of the katori.",
      "say": "This sugar sits on a dry plate. This one sits on an island with a moat of water round it, like a fort. Make sure nothing touches the island.",
-     "kid": "Put sugar in both caps. One on a dry plate. One on the island in water.",
+     "kid": "Put sugar in both caps. Put one cap on a dry plate. Put the other cap on the upturned katori, the island, with water all round it.",
      "parent": "Check that the island is dry on top and that no spoon, cloth or wall touches it. Put the two plates about 30 cm apart, both near the ant path."
     },
     {
@@ -1003,7 +1003,7 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. The explanation card on air comes later. Accept every idea, and ask your child to remember theirs."
+     "parent": "Do not explain yet. The 'Why we need air' card explains it later. Accept every idea, and ask your child to remember theirs."
     }
    ]
   },
@@ -1066,7 +1066,7 @@
      "kid": "Look at the middle slips. When is each one a need?",
      "check": {
       "t": "mcq",
-      "q": "Medicine is in the middle. When is it a need?",
+      "q": "When is medicine a need?",
       "options": [
        "Always, for everyone",
        "When a person is ill and the medicine keeps them well",
@@ -1408,7 +1408,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Food day. Check that cooked food and dabbas are covered. If ants come, stand the sugar dabba in a plate of water.",
-     "say": "Today is food day. Is our food covered from flies, ants and dust? What did the Water Ring test teach us?",
+     "say": "Today is food day. Is our food covered from flies, ants and dust? In the Water Ring test, ants did not cross a ring of water to reach the sugar. How can we use that here?",
      "kid": "Food day. Is our food covered? Can ants get in?"
     },
     {
@@ -1544,8 +1544,8 @@
      "id": "s2",
      "mins": 12,
      "do": "Your child makes a list under five headings: water, food, clothes, shelter, and things we need to stay well.",
-     "say": "Make your list under the five needs. How much water for three days? Who needs medicine?",
-     "kid": "Make a list under each need. Think about everyone in the family.",
+     "say": "Make your list under the five headings. How much water for three days? Who needs medicine?",
+     "kid": "Make a list under each heading. Think about everyone in the family.",
      "parent": "Each person needs water every day to drink and some for cooking and washing. Dry food that needs no cooking is best."
     },
     {
@@ -1782,7 +1782,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 3, finds a flower-pot plate full of still water on her balcony. Why should she empty it?",
+     "p": "You find a flower-pot plate full of still water on your balcony. Why should you empty it?",
      "opts": [
       "The water will make the plant grow too fast",
       "Mosquitoes can lay eggs in it",
@@ -1793,10 +1793,10 @@
     },
     {
      "t": "write",
-     "p": "A boy says, \"I don't need to drink water today, because I'm not sweating.\" What would you tell him? Use your own test.",
+     "p": "A boy says, \"I don't need to drink water today, because I'm not sweating.\" What would you tell him? Use what you saw in the Hidden Water Test.",
      "lines": 4,
-     "a": "I would tell him his body loses water even without sweating. In my test, a bag on my dry hand turned misty and dripped. Water also leaves in every breath and in urine. So he needs to drink every day.",
-     "why": "A strong answer uses evidence from the bag test, not only a rule.",
+     "a": "I would tell him his body loses water even without sweating. In the Hidden Water Test, a bag on my dry hand turned misty and dripped. Water also leaves in every breath and in urine. So he needs to drink every day.",
+     "why": "A strong answer uses evidence from the Hidden Water Test, not only a rule.",
      "how": "e1"
     },
     {
@@ -1973,9 +1973,9 @@
     },
     {
      "t": "write",
-     "p": "Meera, a girl in Class 3, does the Water Ring test, and her ants reach the sugar on the island. She finds a long thread lying from the floor up onto the katori. What happened, and how should she fix her test?",
+     "p": "In a Water Ring test, the ants reach the sugar on the island. A long thread is lying from the floor up onto the katori. What happened, and how should the test be fixed?",
      "lines": 4,
-     "a": "The thread made a bridge over the water, so the ants walked across it. She should remove the thread, check that nothing touches the island, and try again.",
+     "a": "The thread made a bridge over the water, so the ants walked across it. Remove the thread, check that nothing touches the island, and try again.",
      "why": "A strong answer spots the bridge and says how to make the test fair again: only the water should differ.",
      "how": "e2"
     },
@@ -2149,7 +2149,7 @@
    "items": [
     {
      "t": "perspective",
-     "p": "In 1943, a psychologist and later researchers disagreed about the order of our needs.",
+     "p": "A psychologist in 1943 and later researchers disagreed about whether our needs come in a fixed order.",
      "views": [
       {
        "who": "Abraham Maslow, a psychologist in the USA",
@@ -2167,15 +2167,15 @@
     },
     {
      "t": "write",
-     "p": "Santorio, a doctor in Italy 400 years ago, weighed his food and drink, and everything that came out of him as urine and stools. The waste weighed much less than what went in, yet his own weight stayed about the same. Where did the rest go? How does your bag test help you answer?",
+     "p": "Santorio, a doctor in Italy 400 years ago, weighed his food and drink, and everything that came out of him as urine and stools. The waste weighed much less than what went in, yet his own weight stayed about the same. Where did the rest go? How does the Hidden Water Test help you answer?",
      "lines": 5,
-     "a": "The rest left his body unseen, as water through his skin and in his breath. My bag test showed it: a dry hand misted up a bag within minutes. So water leaves the skin all the time, even when you cannot feel it.",
+     "a": "The rest left his body unseen, as water through his skin and in his breath. The Hidden Water Test showed it: a dry hand misted up a bag within minutes. So water leaves the skin all the time, even when you cannot feel it.",
      "why": "A strong answer joins Santorio's numbers to the child's own evidence, the misty bag.",
      "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 3, wants to test whether ants will cross a ring of salty water as well as plain water. Which test is fair?",
+     "p": "You want to test whether ants will cross a ring of salty water as well as plain water. Which test is fair?",
      "opts": [
       "One plate with salty water and one with plain water, the same sugar on both islands, side by side",
       "Salty water today, plain water next week in a different room",
@@ -2262,14 +2262,14 @@
     },
     {
      "t": "mcq",
-     "p": "After playing in the May sun, Ritu has a headache and dark yellow urine. What should she do first?",
+     "p": "After playing in the May sun, a child has a headache and dark yellow urine. What should the child do first?",
      "opts": [
       "Drink water and rest in the shade",
       "Play more, to sweat it out",
       "Put on a woollen sweater"
      ],
      "a": 0,
-     "why": "A headache and dark yellow urine can be signs of dehydration. She has lost more water than she has taken in, so she should drink and cool down."
+     "why": "A headache and dark yellow urine can be signs of dehydration. The child has lost more water than they have taken in, so they should drink and cool down."
     },
     {
      "t": "truefalse",
@@ -2447,9 +2447,9 @@
    }
   },
   {
-   "problem": "Kavya, a girl in Class 3, sat still with a bag on her hand, and saw mist after 6 minutes. Another day, she did 20 jumps first, and saw mist after 2 minutes. How many times faster did the mist come after jumping? Why?",
+   "problem": "A child sat still with a plastic bag on one hand, and saw mist after 6 minutes. Another day, the child did 20 jumps first, and saw mist after 2 minutes. How many times faster did the mist come after jumping? Why?",
    "answer": "3 times faster.",
-   "explain": "6 divided by 2 is 3. After jumping, her body was warmer and sweating to cool down, so more water left her skin.",
+   "explain": "6 divided by 2 is 3. After jumping, the child's body was warmer and sweating to cool down, so more water left the skin.",
    "math_unit": "math.division.division-facts.L3",
    "context": "This is about the Hidden Water Test, where a plastic bag on a dry hand turns misty.",
    "why_maths": "Dividing one time by the other gives one number that compares the two tests.",
@@ -2487,7 +2487,7 @@
    "a": "Air, water, food, clothes and a home."
   },
   {
-   "q": "Which gas do we breathe in for?",
+   "q": "Which gas in the air does our body need when we breathe in?",
    "a": "Oxygen."
   },
   {
@@ -2587,7 +2587,7 @@
  "roots": {
   "context": "We have found out what our bodies keep needing, and how families take care of those needs. Now we ask what our needs tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your hand felt dry, yet inside the bag it misted up within minutes. Your skin lets water out all the time, and so does every breath. Water you drank this morning is already leaving you. So you need water every day because your body never stops letting it go.",
+   "truth": "In the Hidden Water Test, your hand felt dry, yet the plastic bag over it turned misty within minutes. Your skin lets water out all the time, and so does every breath. Water you drank this morning is already leaving you. So you need water every day because your body never stops letting it go.",
    "habit": "We think of the body as a closed container, like a bottle that we fill and that then stays full. But a body is always open: water, used air and heat leave it every minute, so it must keep taking them in.",
    "evidence": "In the Hidden Water Test, the bag on a dry hand misted within minutes while the bag on an empty tumbler stayed clear. Santorio's weighing chair showed the same: more than half of what he ate and drank left him unseen."
   },
@@ -2596,12 +2596,12 @@
    "what_is_life": "A living being keeps taking in and giving out. An ant, a crow, a tulsi plant and you all need air and water every day.",
    "what_is_this_world": "The water that leaves your skin goes into the air, and may fall as rain somewhere else. Another living being will drink it."
   },
-  "thread": "Air goes in and out of you about 20 times a minute. Water leaves your skin, your breath and your body all day, and comes back in drinks and food. The same air and water pass through plants, ants, crows and people in turn. A tulsi plant gives out water from her leaves, and a crow drinks from a bowl. Our needs are the places where the world's air and water flow into us and out again.",
+  "thread": "Air goes in and out of you about 20 times a minute. Water leaves your skin, your breath and your body all day, and comes back in drinks and food. The same air and water pass through plants, ants, crows and people in turn. A tulsi plant gives out water from her leaves, and a crow drinks from a bowl. Needing air and water means that the world's air and water keep flowing into us and out again.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna what the source of life is. Varuna tells him to look deeply. Bhrigu first finds that food is the answer: beings are born from food, live by food and return to food.",
-    "link": "Your body is built from food and water and keeps giving them back. Bhrigu's first answer is the science of this unit. The Upanishad then keeps going deeper, to breath, mind and joy."
+    "link": "Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this unit teaches. The Upanishad then keeps going deeper, to breath, mind and joy."
    },
    {
     "source": "Heraclitus, a Greek thinker, as quoted by Plato in Cratylus 402a",
@@ -2611,7 +2611,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud in it, because without the rain from the cloud no tree could grow to make the paper.",
-    "link": "Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The mist in your bag will be in a cloud one day."
+    "link": "Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The mist in the bag from the Hidden Water Test will be in a cloud one day."
    }
   ],
   "science": [

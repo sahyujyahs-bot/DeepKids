@@ -195,7 +195,7 @@
    "concept": "How a colony decides without a leader",
    "status": "defined",
    "definition": "A colony makes choices as a group. Each ant makes small choices, such as which trail to follow and how much scent to lay. Together, these small choices become one choice for the whole colony.",
-   "description": "Think of your sugar test. No ant tasted every drop and then gave orders. The ants that drank the strong sugar laid more scent on the way home. More ants followed that trail, so more ants laid scent there. The trail to the weak drop stayed faint. Soon most ants were at the strong drop. The scientist Deborah Gordon studied harvester ants in the deserts of Arizona for more than 30 years. She found that ants decide whether to go out for food by how often they meet ants coming back with food. Many quick meetings mean food is easy to find. Scientists call a group choice like this collective decision-making. Sometimes the crowd gets stuck. If ants find a weak drop first and build a strong trail, they may keep going there even after a sweeter drop appears.",
+   "description": "In the sugar drop test, you put a weak sugar drop and a strong sugar drop near an ant road. No ant tasted both drops and then gave orders. The ants that drank the strong sugar laid more scent on the way home. More ants followed that trail, so more ants laid scent there. The trail to the weak drop stayed faint. Soon most ants were at the strong drop. The scientist Deborah Gordon studied harvester ants in the deserts of Arizona for more than 30 years. She found that ants decide whether to go out for food by how often they meet ants coming back with food. Many quick meetings mean food is easy to find. Scientists call a group choice like this collective decision-making. Sometimes the crowd gets stuck. If ants find a weak drop first and build a strong trail, they may keep going there even after a sweeter drop appears.",
    "examples": [
     "Honeybees choose a new home the same way: scouts dance for the places they found, and the best place gets the most dancers.",
     "A flock of starlings turns together because each bird watches the seven or so birds nearest to them.",
@@ -331,7 +331,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your ants chose the sweeter drop together. Who made the choice: each ant, the whole colony, or both?",
+   "q": "In the sugar drop test, most ants usually end up at the sweeter drop. Who made the choice: each ant, the whole colony, or both?",
    "kind": "deep",
    "hint": "Think about what one ant did, and what the crowd did. Could one ant alone have done what the crowd did?"
   },
@@ -348,7 +348,7 @@
   {
    "q": "Every worker ant is a female, and elephant families are led by females. Why do people so often picture a male leader?",
    "kind": "big",
-   "hint": "Think about stories, cartoons and words like 'king of the jungle'. Where do our pictures come from?"
+   "hint": "Think about stories, cartoons and words like 'king of the jungle'. Where do our ideas of a leader come from?"
   },
   {
    "q": "Is a city like an ant colony? Who decides where people walk on a crowded street?",
@@ -488,7 +488,7 @@
        "b": "Elephant family"
       },
       {
-       "f": "There can be thousands of members, sisters, in one home.",
+       "f": "There can be thousands of members in one home, and they are all sisters.",
        "b": "Ant colony"
       },
       {
@@ -700,7 +700,7 @@
     "You need the board, the cards, one dice and a counter for each player. Each counter is an elephant family. Put every counter on square 0.",
     "On your turn, another player reads you the top question card. Playing alone? Read it yourself, say your answer, then turn the card over to check.",
     "Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.",
-    "If you land on a square with a message, do what it says. Squares you are sent to by a message do nothing more.",
+    "If you land on a square with a message, do what it says. If the message sends you to another square, ignore any message on that square.",
     "On a TELL IT card, any sensible true answer counts as right.",
     "When the cards run out, shuffle them and use them again.",
     "The first family to reach the Kabini river, square 16, wins. You don't need the exact number to finish."
@@ -899,7 +899,7 @@
       }
      ],
      "parent": "Ants that keep moving are hard to count. Count the ants touching the square, and count twice if you are unsure. If after 15 minutes no ant has come to either drop, move both squares closer to the ant road, together, and start the count again. Sometimes the ants find the weak drop first and keep crowding it. That is a real result too, and the explanation cards say why it happens.",
-     "think": "No ant has tasted both drops and told the others. So how do the ants end up at one more than the other?"
+     "think": "No ant has tasted both drops and told the others. So how do more ants end up at one drop than at the other?"
     },
     {
      "id": "s4",
@@ -1009,7 +1009,7 @@
      "do": "1. Ask each person the 6 questions, one at a time, in the same order. 2. Don't give hints. 3. Write down each answer. 4. Answer the questions yourself first, before anyone else, so you don't hear their answers.",
      "say": "We ask everyone exactly the same way, so the test is fair. No hints, even if they get stuck.",
      "kid": "Answer the questions yourself first. Then ask the others. Same questions, same order. No hints!",
-     "parent": "A grown-up helps to make the phone call. Older people may want to tell long stories. Listen, and write down the answer to the question."
+     "parent": "If you ask someone by phone, a grown-up helps to make the call. Older people may want to tell long stories. Listen, and write down the answer to the question."
     },
     {
      "id": "s4",
@@ -1099,7 +1099,7 @@
      "mins": 1,
      "do": "Leave your child with a question.",
      "say": "So if nobody is the boss, how do all these ants know where to go?",
-     "kid": "No boss. But they all go the same way. How do they know?",
+     "kid": "There is no boss ant. But the ants all go the same way. How do they know?",
      "think": "How could thousands of ants agree on where to go, if nobody gives orders?"
     }
    ]
@@ -1215,7 +1215,7 @@
      "mins": 5,
      "do": "Read this list to your child: young worker ants look after the eggs and young. Middle-aged workers clean and build the nest. The oldest workers guard the entrance and go out to find food.",
      "say": "In many kinds of ants, the youngest workers stay safe deep in the nest. The oldest ones go out, where it is most dangerous. Why might that be?",
-     "kid": "Young ants look after the babies. Older ants build. The oldest go out for food. Why the oldest?",
+     "kid": "Young ants look after the babies. Older ants build. The oldest go out for food. Why do the oldest go out?",
      "ask": [
       {
        "q": "Why might the oldest ants do the most dangerous job?",
@@ -1630,7 +1630,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl in Class 3 in Hyderabad, put a weak and a strong sugar drop near an ant road. After 30 minutes the strong drop had 20 ants and the weak drop had 3. What is the best explanation?",
+   "p": "A weak sugar drop and a strong sugar drop were put near an ant road. After 30 minutes the strong drop had 20 ants and the weak drop had 3. What is the best explanation?",
    "opts": [
     "The ants at the strong drop were bigger",
     "Ants that drank the strong sugar laid more scent, so more ants followed their trail",
@@ -1820,7 +1820,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3 in Coimbatore, wipes a short piece of an ant road with a wet cloth. What do the ants arriving at the wiped part probably do?",
+     "p": "You wipe a short piece of an ant road with a wet cloth. What do the ants arriving at the wiped part probably do?",
      "opts": [
       "Walk straight across, as before",
       "Stop and wander about, then find the trail again",
@@ -1884,7 +1884,7 @@
     },
     {
      "t": "write",
-     "p": "In your sugar drop test, how did you know when ants were following a trail, and not just wandering?",
+     "p": "In the sugar drop test, you counted the ants at a weak and a strong sugar drop. How did you know when ants were following a trail, and not just wandering?",
      "lines": 3,
      "a": "The ants walked one behind another along the same path between the drop and the ant road, and the line got busier.",
      "why": "A strong answer uses evidence from the test: ants walking in a line, on the same path, in both directions, and more ants over time.",
@@ -1903,7 +1903,7 @@
        "says": "There is no leader. Every ant just follows the smell."
       }
      ],
-     "ask": "Who do you agree with? Use what you saw in your ant watch or sugar test. Then say one thing the other friend has right.",
+     "ask": "Who do you agree with? Use what you saw when you watched an ant road or did the sugar drop test. Then say one thing the other friend has right.",
      "lines": 5,
      "a": "A strong answer agrees with Farhan, using evidence: no ant was in charge, and ants followed the scent trail. It also gives Anjali some credit: one ant did find the food first, so the first ant did show the way, by leaving scent.",
      "why": "The first ant does lead in a way, by laying the first trail, but she gives no orders and the line keeps going without her. A strong answer sees both."
@@ -2053,7 +2053,7 @@
        "says": "The colony is many ants. Each ant chooses, and the colony's choice is just all of them added up."
       }
      ],
-     "ask": "Which scientist do you agree with? Use your sugar drop test as evidence. Then give the best point the other scientist makes.",
+     "ask": "Which scientist do you agree with? Use what you saw in the sugar drop test as evidence. Then give the best point the other scientist makes.",
      "lines": 5,
      "a": "A strong answer uses the test: each ant laid scent and followed trails, which supports Dr Kavitha, yet the crowd ended up at the sweeter drop as one, which supports Dr Lakshmi. Both views fit some of the evidence.",
      "why": "Scientists really do argue about this. A strong answer uses evidence for both and does not pretend the question is settled."
@@ -2244,7 +2244,7 @@
       "They pick the first place found, always"
      ],
      "a": 1,
-     "why": "Scouts dance longer for better places. More bees go to look, and dance too. The best place gains dancers fastest, like your strong sugar drop gaining ants."
+     "why": "Scouts dance longer for better places. More bees go to look, and dance too. The best place gains dancers fastest, like the strong drop gaining ants in the sugar drop test."
     },
     {
      "t": "label",
@@ -2438,7 +2438,7 @@
    "why_maths": "Taking one count from the other shows how big the difference is, so we can see whether the colony really chose."
   },
   {
-   "problem": "At a new sugar drop, Kavya, a girl in Class 3, counted 1 ant at 2 minutes, 2 ants at 4 minutes, 4 ants at 6 minutes and 8 ants at 8 minutes. If the pattern carries on, how many ants will there be at 10 minutes? Why might the pattern stop later?",
+   "problem": "At a new sugar drop, there was 1 ant at 2 minutes, 2 ants at 4 minutes, 4 ants at 6 minutes and 8 ants at 8 minutes. If the pattern carries on, how many ants will there be at 10 minutes? Why might the pattern stop later?",
    "answer": "16 ants. Later the pattern stops because the drop gets crowded and runs out, and there are only so many ants in the colony.",
    "explain": "Each count is double the one before: 1, 2, 4, 8. Double 8 is 16. Every ant that drank laid scent and brought more ants, so the number grew faster and faster. But no drop can feed endless ants, so the growth slows down.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2452,7 +2452,7 @@
    "explain": "22 take away 9 is 13. So an elephant mother waits about 13 months more, more than a whole extra year.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about elephant calves. Elephants wait longer for a baby than any other land animal.",
-   "why_maths": "Comparing the two numbers shows how much an elephant family invests in each calf, which is one reason they guard calves so carefully."
+   "why_maths": "Comparing the two numbers shows how long an elephant family waits for each calf, which is one reason they guard calves so carefully."
   },
   {
    "problem": "A wolf pack has 8 wolves: a mother, a father, 2 young wolves from last year and 4 new pups. What fraction of the pack are new pups?",
@@ -2463,9 +2463,9 @@
    "why_maths": "Knowing that half the pack can't hunt yet shows why the parents and older young wolves must bring food back for everyone."
   },
   {
-   "problem": "In the Ask the Elders test, Nila's grandmother scored 5 out of 6, her mother scored 4, and Nila scored 3. Nila scored 3 out of 3 on the 'now' questions, and her grandmother scored 2 out of 3 on them. Who knew most about long ago, and who knew most about now?",
-   "answer": "The grandmother knew most about long ago: 3 out of 3. Nila knew most about now: 3 out of 3.",
-   "explain": "The grandmother's total was 5, and 2 of those were 'now' questions, so 5 - 2 = 3 were 'long ago'. Nila's total was 3, all 'now'. So each person knew most about the years they had lived through.",
+   "problem": "In the Ask the Elders test, a grandmother scored 5 out of 6, a mother scored 4, and a child scored 3. The child scored 3 out of 3 on the 'now' questions, and the grandmother scored 2 out of 3 on them. Who knew most about long ago, and who knew most about now?",
+   "answer": "The grandmother knew most about long ago: 3 out of 3. The child knew most about now: 3 out of 3.",
+   "explain": "The grandmother's total was 5, and 2 of those were 'now' questions, so 5 - 2 = 3 were 'long ago'. The child's total was 3, all 'now'. So each person knew most about the years they had lived through.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "This is about the Ask the Elders test, where you ask people of different ages the same 6 questions.",
    "chart": {
@@ -2686,7 +2686,7 @@
  "roots": {
   "context": "We have learned how elephant families, ant colonies and wolf packs live and decide together. Now we ask what animal societies tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Usually the strong sugar drop ends up with far more ants than the weak one. No ant is in charge, and none gives orders. Ants that drink the sweeter sugar lay more scent on their way home. Those many small choices add up to one choice for the whole nest.",
+   "truth": "In the sugar drop test, the strong sugar drop ended up with far more ants than the weak one. No ant is in charge, and none gives orders. Ants that drink the sweeter sugar lay more scent on their way home. Those many small choices add up to one choice for the whole nest.",
    "habit": "We expect every group to have a boss who decides, like a captain or a head teacher. An ant nest has a queen, but she stays inside laying eggs and gives no orders. The choice is made by many ants together.",
    "evidence": "In the sugar drop test, the strong drop usually gains ants faster and faster, while the weak drop keeps only a few. The queen is never there. The ants decide out on the floor, one ant at a time."
   },
@@ -2695,7 +2695,7 @@
    "what_is_life": "Many living beings survive by living together. An elephant calf, a worker ant and a wolf pup could not grow up alone.",
    "what_is_this_world": "Scientists estimate that about 20 million billion ants are alive on Earth. All ants live in colonies, on nearly every piece of land."
   },
-  "thread": "One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. An elephant family carries the memory of their oldest member to every calf. In each society, the members act together, and each member still senses and chooses for herself.",
+  "thread": "One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. In an elephant family, what the oldest member remembers is passed on to every calf. In each society, the members act together, and each member still senses and chooses for herself.",
   "teachings": [
    {
     "source": "Bhagavad Gita 3.21",
@@ -2705,7 +2705,7 @@
    {
     "source": "Tao Te Ching 17",
     "teaching": "The best leaders are hardly noticed. When the work is done, the people say, 'We did it ourselves.'",
-    "link": "In your sugar test no ant was seen leading, yet the colony chose the sweeter drop. The choice came from the ants themselves."
+    "link": "In the sugar drop test, no ant leads, yet most ants usually end up at the sweeter drop. The choice comes from the ants themselves."
    },
    {
     "source": "Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa: umuntu ngumuntu ngabantu",
@@ -2734,7 +2734,7 @@
    "kid": "Stand with your family. Nobody talks. Watch the person next to you. Move when they move. Now stop. Breathe slowly five times. Who decided where you went?"
   },
   "ask": [
-   "Your ants chose the strong drop together. Did the colony choose, or did each ant choose, or both?",
+   "In the sugar drop test, most ants usually end up at the strong drop. Did the colony choose, or did each ant choose, or both?",
    "An elephant grandmother remembers water from long ago. Who in your family remembers things that no one else does?",
    "If no ant is in charge, why does the colony not fall apart?"
   ],

@@ -260,7 +260,7 @@
    "concept": "'Invertebrate' is not one family",
    "status": "defined",
    "definition": "Invertebrates are not one family of animals. The word just means 'every animal that is not a vertebrate'. Some invertebrates are more closely related to us than to other invertebrates.",
-   "description": "Imagine you sorted all the people in the world into 'my family' and 'everyone else'. 'Everyone else' would not be a family. It would hold many families, some close to yours and some far away. 'Invertebrate' is like that. It holds many very different branches of the animal family tree. Scientists compare the bodies, the way babies grow, and the genes of animals to draw this tree. And it gives a surprise. Starfish and sea urchins are on the same big branch as vertebrates, the branch that includes you. So a starfish is a closer cousin of yours than they are of a snail, a spider or a jellyfish. Jellyfish branched off very early, long before worms or snails.",
+   "description": "Suppose you sorted all the people in the world into 'my family' and 'everyone else'. 'Everyone else' would not be a family. It would hold many families, some close to yours and some far away. 'Invertebrate' is like that. It holds many very different branches of the animal family tree. Scientists compare the bodies, the way babies grow, and the genes of animals to draw this tree. Genes are the instructions for building a body, passed from parents to their babies. And the tree gives a surprise. Starfish and sea urchins are on the same big branch as vertebrates, the branch that includes you. So a starfish is a closer cousin of yours than they are of a snail, a spider or a jellyfish. Jellyfish branched off very early, long before worms or snails.",
    "examples": [
     "A starfish and a fish share a branch. A starfish and a jellyfish do not, even though both live in the sea and have no bones.",
     "An octopus is closer to a snail than to a fish, even though they swim like a fish.",
@@ -309,7 +309,7 @@
    ],
    "perspectives": [],
    "art": "A cut-away of the sea floor: living snails and corals at the top, old shells piling up below, then layers of pale rock, and at the bottom a block of white marble.",
-   "context": "This card follows the idea out to the Earth itself: how shells built by animals without backbones become rock."
+   "context": "This card explains how shells built by animals without backbones turn into rock over millions of years."
   },
   {
    "concept": "Tiny and tough: tardigrades and the first animals",
@@ -323,7 +323,7 @@
    ],
    "perspectives": [],
    "art": "A plump, eight-legged tardigrade drawn huge on a moss leaf, with a small spacecraft and stars in a round window behind them.",
-   "context": "This card follows invertebrates out to deep time and to space: the first animals, and the toughest."
+   "context": "This card is about the first animals, which had no backbones, and the tardigrade, a tiny animal that survived in space."
   },
   {
    "concept": "Which animal branched off first?",
@@ -527,7 +527,7 @@
    "So were mine.",
    "I think of the doctor, who had books, and of the lady who had a bucket and a summer and the patience to look. And I think of that thin white film, spreading across a broken place, in the dark green water of the harbour."
   ],
-  "epiphany": "For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside.",
+  "epiphany": "For the parent: people thought a soft animal with no bones could never make something hard, so the paper sailor (an octopus also called the argonaut) must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the paper sailor all do it. Our bones are made the same way, from food, only on the inside.",
   "ask": [
    "Why did the doctor think the paper sailor must have stolen her shell?",
    "How did the cracked shell help Signora Power find the answer?",
@@ -855,11 +855,11 @@
      "id": "s2",
      "mins": 3,
      "do": "Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it. Then shuffle it back into the pile.",
-     "say": "Let's practise with one card. An earthworm. Do they have a backbone?",
-     "kid": "Practice card: an earthworm. Backbone or not? Say your answer.",
+     "say": "Let's practise with one card: the earthworm. Does an earthworm have a backbone?",
+     "kid": "This is a practice card: the earthworm. Do they have a backbone or not? Say your answer.",
      "check": {
       "t": "mcq",
-      "q": "An earthworm. Which mat do they go on?",
+      "q": "Which mat does an earthworm go on?",
       "options": [
        "BACKBONE",
        "NO BACKBONE"
@@ -874,10 +874,10 @@
      "do": "Take turns. Take the top card, read the name and put it on a mat. Say why, then turn the card over to check. Help with the six trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.",
      "say": "Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just their name.",
      "kid": "Take a card. Put it on a mat. Say why. Watch out: some names are tricks!",
-     "parent": "The trick cards say TRICK CARD on the back. Starfish, jellyfish, cuttlefish and silverfish are not fish, and have no backbone. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though it has no legs.",
+     "parent": "The trick cards say TRICK CARD on the back. Starfish, jellyfish, cuttlefish and silverfish are not fish, and have no backbone. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though they have no legs.",
      "check": {
       "t": "mcq",
-      "q": "A seahorse card. Which mat?",
+      "q": "You pick up the seahorse card. Which mat does the seahorse go on?",
       "options": [
        "BACKBONE",
        "NO BACKBONE"
@@ -900,7 +900,7 @@
      "mins": 2,
      "do": "Ask your child to say three things: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now? What did the cards show? And why do you think so many animals have no backbone?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think now, what the cards showed, and why so many animals have no backbone.",
      "parent": "A good answer sounds like this. What I think: most animals have no backbone. What I saw: 21 of our 30 cards had no backbone. Why: lots of small animals hold themselves up with shells, armour or water instead of bones."
     }
    ]
@@ -1022,7 +1022,7 @@
     "One player secretly picks one animal and writes their name on a scrap of paper.",
     "The others take turns asking yes or no questions about the animal's body. 'Are they cute?' does not count.",
     "After each answer, turn over every card that it rules out. If only one card is left face up, that is the secret animal.",
-    "Whoever names the secret animal first wins that round. With two players, the guesser wins by naming the animal. If nobody has named it after 8 questions, the player who picked it wins the round.",
+    "Whoever names the secret animal first wins that round. With two players, the guesser wins by naming the animal. If nobody has named the animal after 8 questions, the player who picked them wins the round.",
     "Try to find the animal in 4 questions or fewer. Then the next player picks a secret animal. Play until everyone has picked once. The player who won the most rounds wins; a tie is a shared win."
    ],
    "setup": [
@@ -1082,7 +1082,7 @@
      "do": "Now take turns. Each player picks a secret animal while the others guess.",
      "say": "Your turn to pick a secret animal. We will ask the questions.",
      "kid": "Your turn. Pick a secret animal. Answer the questions truthfully.",
-     "parent": "Watch whether your child asks about legs first. Leg count splits the cards fastest. If they ask 'is it brown?', ask them whether that is about their body plan or just their colour."
+     "parent": "Watch whether your child asks about legs first. Leg count splits the cards fastest. If your child asks 'Are they brown?', ask whether that question is about how the animal's body is built or only about colour."
     },
     {
      "id": "s4",
@@ -1219,13 +1219,13 @@
      "t": "truefalse",
      "p": "A starfish is a kind of fish, because 'fish' is in their name.",
      "a": false,
-     "why": "False. A starfish has no backbone and no fins, like a fish has. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either."
+     "why": "False. A fish has a backbone and fins. A starfish has neither. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either."
     },
     {
      "t": "truefalse",
      "p": "An animal with no backbone has no skeleton of any kind.",
      "a": false,
-     "why": "False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, lean on the sea instead."
+     "why": "False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, have no skeleton and let the sea hold them up."
     },
     {
      "t": "mcq",
@@ -1265,7 +1265,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Water Bones experiment? You pressed down on pairs of plastic bottles: open and empty, capped with air, and capped with water. You used books, then sat on the board, then squeezed the capped bottles by hand. Which bottle did not give when you squeezed it hard?",
+     "p": "In the Water Bones experiment, you squeezed the bottles hard by hand. Which bottle did not give?",
      "opts": [
       "The open, empty bottle",
       "The capped bottle with air",
@@ -1293,7 +1293,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the Backbone Census, where you looked for animals in and around your home. Which group had more kinds? Write one sentence about what you saw and one about why.",
+     "p": "Remember the Backbone Census, where you looked for animals in and around your home. Which group had more kinds: animals with a backbone, or animals without one? Write one sentence about what you saw and one about why.",
      "lines": 3,
      "a": "We found more kinds of animal without a backbone. I think this is because small animals can live in corners, cracks and plant pots, and a home has lots of those.",
      "why": "Most families find more kinds of invertebrate. Scientists find the same all over the world.",
@@ -1302,18 +1302,18 @@
     },
     {
      "t": "perspective",
-     "p": "After heavy rain, two cousins find lots of earthworms lying on the wet road. Nobody is sure why worms come up in rain.",
+     "p": "After heavy rain, lots of earthworms lie on the wet road. Nobody is sure why worms come up in rain. Here are three ideas.",
      "views": [
       {
-       "who": "Nila, one cousin",
+       "who": "The flooding idea",
        "says": "Their burrows fill with water, so they come up so they don't drown."
       },
       {
-       "who": "Arjun, the other cousin",
+       "who": "The travelling idea",
        "says": "Wet ground lets them travel far to a new place without drying out. So they come up to travel."
       },
       {
-       "who": "Shobha Aunty, who keeps a big compost heap",
+       "who": "The danger idea",
        "says": "The drumming of rain feels like a mole digging. Worms move up to get away from the danger."
       }
      ],
@@ -1417,7 +1417,7 @@
     },
     {
      "t": "write",
-     "p": "A jellyfish lying on the sand looks like a flat blob. In the sea, the same jellyfish is round and spread out. Explain the difference. Use what you saw in Jellyfish in a Bottle.",
+     "p": "A jellyfish lying on the sand looks like a flat blob. In the sea, the same jellyfish is round and spread out. Explain the difference. Use what you saw in Jellyfish in a Bottle, where the plastic bag jellyfish spread out in the water and flopped when you lifted it out.",
      "lines": 4,
      "a": "A jellyfish is mostly water, with no bones, no shell and no armour. In the sea, the water around them holds their body up and in shape. On the sand nothing holds them up, so they flop flat, like the plastic bag jellyfish lifted out of the bottle.",
      "why": "A strong answer says the jellyfish has no skeleton, and that the sea itself does the job of holding them in shape.",
@@ -1468,7 +1468,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off. In one family's test, one sucker held 3 cups and four suckers held 11 cups. What does that show about a starfish's tube feet?",
+     "p": "In one family's Many Small Suckers test, one sucker held 3 cups of rice and four suckers held 11 cups. What does that show about a starfish's tube feet?",
      "opts": [
       "Small grips add up to a strong hold",
       "Only one tube foot works at a time",
@@ -1522,7 +1522,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Arthropods come from land and water, and some have stings, but all have jointed legs and armour. Molluscs have no legs at all. Snails and slugs glide on one foot, and an octopus has arms."
+     "why": "Arthropods live on land and in water, and some have stings, but all have jointed legs and armour. Molluscs have no legs at all. Snails and slugs glide on one foot, and an octopus has arms."
     },
     {
      "t": "fill",
@@ -1538,7 +1538,7 @@
      "p": "Your bones grow with you, but a crab's armour does not. Why do you think that is?",
      "lines": 3,
      "a": "My bones are alive inside me, with blood in them, so they can grow. A crab's armour is a hard outer layer that cannot stretch or grow, so the crab has to make a new one.",
-     "why": "Bones are living tissue that grows. An exoskeleton is a hardened outer layer, so it must be shed."
+     "why": "Bones are alive, so they grow. An exoskeleton is a hard outer layer that cannot grow, so the animal must moult and make a new one."
     },
     {
      "t": "draw",
@@ -1579,7 +1579,7 @@
      "p": "Some people say 'invertebrate' is not a real group of animals. What do they mean? Use an example.",
      "lines": 4,
      "a": "They mean that 'invertebrate' just means 'not a vertebrate'. It is like sorting people into 'my family' and 'everyone else'. For example, a starfish is a closer cousin to us than to a snail, yet both the starfish and the snail are called invertebrates.",
-     "why": "A real group of animals shares one ancestor that no outsider shares. Invertebrates include many separate branches."
+     "why": "In a real group, all the animals come from one ancestor, and no animal outside the group comes from that ancestor. Invertebrates are many separate branches."
     },
     {
      "t": "perspective",
@@ -1634,7 +1634,7 @@
       "Land is always too hot for them."
      ],
      "a": 0,
-     "why": "In water, a heavy soft body is held up, so the animal does not need a strong frame. On land, a big soft body would sag, and armour would get too heavy. You saw the same thing with Jellyfish in a Bottle."
+     "why": "In water, a heavy soft body is held up, so the animal does not need a strong frame. On land, a big soft body would sag, and armour would get too heavy. You saw the same thing in Jellyfish in a Bottle: the plastic bag jellyfish kept its shape in the water and flopped in the air."
     },
     {
      "t": "write",
@@ -1658,13 +1658,13 @@
        "says": "All of this might be reflexes and simple learning. We cannot yet measure a feeling from the outside. We should wait for better tests."
       },
       {
-       "who": "Sarala, a cook in Kochi",
+       "who": "A cook in Kochi",
        "says": "Crabs feed many families here, and boiling is quick. A small kitchen has no special machine to stun crabs first. If nobody is sure crabs feel pain, why make cooking harder and costlier?"
       }
      ],
-     "ask": "Which view do you agree with most, and why? Then answer back from one of the other sides.",
+     "ask": "Which view do you agree with most, and why? Then give a fair reply to one of the other views.",
      "lines": 5,
-     "a": "A strong answer uses the evidence, such as the hermit crab test where crabs left a poor shell sooner than a good one after a small shock. It answers back fairly, for example: 'The second group is right that we cannot see a feeling from outside. But if we are not sure, being gentle costs us little.' Since 2022 a law in the United Kingdom protects crabs as animals that feel.",
+     "a": "A strong answer uses the evidence, such as the hermit crab test where crabs left a poor shell sooner than a good one after a small shock. It replies fairly to another view, for example: 'The second group is right that we cannot see a feeling from outside. But if we are not sure, being gentle costs us little.' Since 2022 a law in the United Kingdom protects crabs as animals that feel.",
      "why": "This is a real argument among scientists and cooks. A good answer weighs evidence and is fair to each side."
     },
     {
@@ -1681,7 +1681,7 @@
     },
     {
      "t": "mcq",
-     "p": "Which is the best question to add to a key so that it separates a spider from a scorpion?",
+     "p": "A key is a set of yes or no questions that leads you to an animal's group. Which question is best to add to a key, so that it separates a spider from a scorpion?",
      "opts": [
       "Do they have 8 legs?",
       "Do they have a long tail with a sting?",
@@ -1731,7 +1731,7 @@
      "why": "False. Every year scientists name thousands of new insects, worms and sea animals. Places like the deep sea floor are hardly explored. So the total is only a guess, and guesses differ a lot, from a few million to many millions."
     }
    ],
-   "context": "This worksheet is for big thinkers: family trees, deep time, giant insects, open questions and designing your own animal."
+   "context": "This worksheet is for big thinkers: family trees, animals of long ago, giant insects, questions scientists still argue about, and designing your own animal."
   }
  ],
  "experiments": [
@@ -2016,7 +2016,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think now about how a worm stays firm, what you saw, and why it happened.",
      "parent": "A good answer: What I think: a worm stays firm because their liquid is held in tight, and liquid cannot be squeezed. What I saw: under the books, the open bottles sank 5 cm, but both capped pairs hardly sank. When I sat on the board, the air bottles went down about 1 cm, and the water bottles hardly moved. When I squeezed them, the air bottle gave and the water bottle did not. Why: air can be squeezed into less space, but water cannot. So water shut in tight holds its shape."
     }
    ]
@@ -2118,7 +2118,7 @@
      "mins": 2,
      "do": "Ask your child to guess which shape will hold the most.",
      "say": "Which shape do you think will hold the most books before it crumples? Why?",
-     "kid": "Which shape will hold the most? Guess. Why?",
+     "kid": "Which shape will hold the most books? Guess, and say why.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -2209,8 +2209,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
-     "say": "Tell me three things. Why do you think an ant's legs are hollow tubes of armour? What did you see? And why?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "say": "Tell me three things. What do you think now: why are an ant's legs hollow tubes of armour? What did you see in the test? And why did it happen?",
+     "kid": "Say three things: why you think an ant's legs are hollow tubes, what you saw, and why it happened.",
      "parent": "A good answer might be: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.",
      "think": "Bicycle frames, bamboo and the bones in your legs are all tubes. Why do you think so many strong things are tubes?"
     }
@@ -2312,7 +2312,7 @@
      "do": "1. Wipe a smooth tile clean and dry. 2. Wet each sucker a little. 3. Press one sucker firmly onto the tile at about knee height. 4. Spread a towel underneath.",
      "say": "A starfish has hundreds of tiny tube feet under their arms. Each one grips like a little sucker. Let's find out what happens when many small grips work together.",
      "kid": "Clean a tile. Wet a sucker a little. Press it hard on the tile, low down. Put a towel underneath.",
-     "context": "This is the first step of the Many Small Suckers experiment. You find out how many small suckers can hold more than one, like a starfish's tube feet."
+     "context": "This is the first step of the Many Small Suckers experiment. You find out whether many small suckers together hold more than one sucker, like a starfish's tube feet."
     },
     {
      "id": "s2",
@@ -2402,7 +2402,7 @@
      "mins": 3,
      "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now about many small suckers? What did you see? And why?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think now about many small suckers, what you saw, and why it happened.",
      "parent": "A good answer: What I think: more suckers hold more weight. What I saw: one sucker held 3 cups and four suckers held 11 cups. Why: each sucker grips a little, and their grips add up. A starfish has hundreds of tube feet, so they hold on very tightly."
     }
    ]
@@ -2515,7 +2515,7 @@
      "id": "s4",
      "mins": 11,
      "do": "1. Spend about 3 minutes in each place. 2. Look along walls, in corners, under the sink, at window grills and in plant pots. 3. Shine the torch into dark corners and behind cupboards. 4. For each new kind of animal, make one tally mark in the right column. Dead insects on a windowsill count too.",
-     "say": "Look high and low. In the corners. Under the sink. At the window. Every new kind of animal gets one tally mark.",
+     "say": "Look high and low: in the corners, under the sink and at the window. Every new kind of animal gets one tally mark.",
      "kid": "Look in corners and under the sink. Shine the torch. One tally mark for each new kind of animal.",
      "adult": true,
      "parent": "Count kinds, not single animals. Twenty ants of the same kind count as one mark. A big black ant and a tiny red ant count as two. Common finds in a flat: ants, houseflies, mosquitoes, tiny fruit flies near fruit, a spider in a corner, a cockroach, a silverfish, a moth, and a snail on a pot after rain. Animals with a backbone: people, a gecko on the wall, a crow, a pigeon or a myna at the window, perhaps a cat or a dog. If you find very few animals, add the ones you see on the way to school or the shop tomorrow.",
@@ -2562,7 +2562,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think there were more of one group?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think there were more of one group.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: there are more kinds of animal without a backbone. What I saw: we found 9 kinds without a backbone and 4 with one. Why: small animals can live in tiny places, like a crack or a corner, and a home has lots of those. In a very clean flat the two bars may be close. That is a real result too. Talk about where small animals might be hiding that you could not see.",
      "check": {
       "t": "mcq",
@@ -2635,7 +2635,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Take the cards one by one. Your child counts the legs and follows the key out loud.",
+     "do": "Take the 12 minibeast cards from Guess My Minibeast, one by one. Your child counts the legs and follows the key out loud.",
      "say": "Let's try the ant. Do they have legs? Yes. Exactly 6? Yes. So the ant is an insect.",
      "kid": "Pick a card. Count the legs. Follow the key. Which group are they in?",
      "check": {
@@ -2779,7 +2779,7 @@
      "mins": 3,
      "do": "Ask your child to draw the foot from underneath and say three things: what I think, what I saw and why.",
      "say": "Draw what you saw. Then tell me: what do you think moves a snail? What did you see? Why does that make sense?",
-     "kid": "Draw the foot from underneath. What I think. What I saw. Why.",
+     "kid": "Draw the foot from underneath. Then say three things: what you think moves a snail, what you saw, and why that makes sense.",
      "parent": "A good answer: What I think: a snail moves by squeezing their foot. What I saw: dark stripes moved along the foot from back to front. Why: each stripe is a squeeze, and the squeezes push the snail along on their slime."
     }
    ]
@@ -2980,7 +2980,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask your child to draw the three stages and say why armour and growing are a problem.",
+     "do": "Ask your child to draw the three stages and say why growing is a problem for an animal with armour.",
      "say": "Draw the three pictures. Why can't armour just grow with the animal, like your bones grow with you?",
      "kid": "Draw armour on, armour split and new armour. Why can't armour stretch?",
      "parent": "Bones are alive and grow from inside, with blood in them. An exoskeleton is a hard outer layer that cannot grow, so it must be replaced."
@@ -3044,7 +3044,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Spray a light mist onto the web from at least an arm's length away.",
+     "do": "Spray a light mist of water onto the web from at least an arm's length away.",
      "say": "Watch the silk appear. Each drop of water hangs on a thread like a bead.",
      "kid": "Ask a grown-up to spray a light mist on the web. Watch the threads sparkle.",
      "adult": true
@@ -3119,7 +3119,7 @@
      "mins": 4,
      "do": "1. Draw round a tumbler on paper. 2. Mark five dots evenly round the edge. Think of the numbers on a clock. Put dots at 12, a little after 2, a little before 5, a little after 7, and a little before 10. 3. Draw a small circle in the middle. 4. Join each dot to the middle circle with two lines. Each pair of lines makes one long thin arm. 5. A grown-up helps cut the star out.",
      "say": "A starfish has five arms, all the same, around a middle. Let's draw one and cut it out.",
-     "kid": "Draw round a bowl. Put five dots round the edge. Draw an arm to each dot. Cut out your star.",
+     "kid": "Draw round a tumbler. Put five dots round the edge. Draw an arm to each dot. Cut out your star.",
      "adult": true,
      "parent": "The dots do not have to be perfect. If the arms come out uneven, the halves will nearly match, and that is fine. Talk about it.",
      "context": "This is the first step of the Five-Arm Fold. You make a paper star to see how a starfish's body is built in five matching parts."
@@ -3356,7 +3356,7 @@
      "mins": 3,
      "do": "Read the problem together. Look at the crab, prawn and woodlouse cards from Backbone or Not?",
      "say": "A crab's armour cannot grow, so they have to break out of it. Can we invent armour that grows with you?",
-     "kid": "Read the problem. Armour that can grow. Look at how a woodlouse's back is made of plates.",
+     "kid": "Read the problem: design armour that can grow. Look at how a woodlouse's back is made of plates.",
      "context": "This is the first step of the Armour That Can Grow challenge. You design armour that can get bigger without being thrown away."
     },
     {
@@ -3388,7 +3388,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Measure around the armour. Slide a folded cloth underneath to make the arm 'grow'. Measure again. Check the elbow bends and look for gaps.",
-     "say": "Let's test it. Measure around. Now grow. Measure again. Any gaps? Does the elbow bend?",
+     "say": "Let's test it. Measure around the armour. Now slide the cloth under it to 'grow'. Measure again. Are there any gaps? Does the elbow still bend?",
      "kid": "Measure around your armour. Slide a cloth under it. Measure again. Any gaps?",
      "check": {
       "t": "mcq",
@@ -3437,7 +3437,7 @@
    "general": [
     "Make an inchworm. Fold a strip of paper into a zigzag. Pull a thread through it to squash it, then let go so it springs out. Tape a little sandpaper or a rubber band under the back end, so it grips while the front slides.",
     "Copy the worm's bristles. Stick short pieces of a toothbrush or stiff paper fringe underneath, all leaning backwards. They slide forwards but catch backwards, so each push moves the worm one way.",
-    "Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. Bunch and stretch, bunch and stretch."
+    "Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. The sock bunches up and stretches out, again and again."
    ],
    "creative": [
     "Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. The wet paper swells and opens out, so the worm stretches. A real worm stretches by squeezing the liquid inside, not by soaking it up.",
@@ -3512,7 +3512,7 @@
    "channel": "The Nature Realm",
    "youtube": "F2DBLBejpLM",
    "mins": 3,
-   "why": "Shows the ring muscles squeezing and the body stretching, the same push you saw when the water rose up the bottle neck.",
+   "why": "Shows the worm's ring muscles squeezing and the body stretching. It is the same push you saw in the Water Bones experiment, when you squeezed an open bottle of water and the water rose up the neck.",
    "check": "Title and channel confirmed on YouTube. Watch it yourself first, then show your child."
   },
   {
@@ -3520,7 +3520,7 @@
    "channel": "BBC Earth",
    "youtube": "f1dnocPQXDQ",
    "mins": 4,
-   "why": "Hermit crabs cannot make their own shells, so they line up and swap into bigger empty ones. Compare them with the snail and the argonaut in the story, which build their own.",
+   "why": "Hermit crabs cannot make their own shells, so they line up and swap into bigger empty ones. Compare them with the snail, and with the paper sailor in the story The Shell Nobody Lent, who build their own.",
    "check": "Title and channel confirmed on YouTube. Watch it yourself first, then show your child."
   },
   {
@@ -3574,7 +3574,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl counts the kinds of animal on her balcony. She finds 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?",
+   "p": "You count the kinds of animal on a balcony. You find 2 kinds with a backbone, a pigeon and a gecko, and 9 kinds without one. Is that unusual?",
    "opts": [
     "No. Most kinds of animal have no backbone, so most homes show the same.",
     "Yes. Most animals have a backbone.",
@@ -3860,7 +3860,7 @@
    "why_maths": "Saying 'more' is a start. Working out 'how many more' tells us how big the difference really is."
   },
   {
-   "problem": "Using the Leg Count Key, a child sorts 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether?",
+   "problem": "Using the Leg Count Key, you sort 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether?",
    "answer": "34 legs.",
    "explain": "3 ants have 3 groups of 6 legs. 6 + 6 + 6 = 18. 2 spiders have 2 groups of 8 legs. 8 + 8 = 16. 18 + 16 = 34 legs altogether.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -3869,7 +3869,7 @@
    "why_maths": "Every animal of a group has the same number of legs. So we can count in equal groups instead of counting every leg one by one."
   },
   {
-   "problem": "In one family's Water Bones test, under 5 books the board sank 5 cm on the open bottles, half a centimetre on the capped air bottles and 0 cm on the capped water bottles. With a child sitting on it, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why?",
+   "problem": "In one family's Water Bones test, the board sank this far under 5 books: 5 cm on the open bottles, half a centimetre on the capped air bottles, and 0 cm on the capped water bottles. With a child sitting on the board, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why?",
    "answer": "Capped water, then capped air, then open and empty. The capped water bottles are most like an earthworm.",
    "explain": "The less the board sank, the firmer the pair. Under the books, the open bottles sank 5 cm, far more than the others. Half a centimetre is so small that it could be a mistake in reading the ruler. The sitting test is heavier, so it decides: 0 cm is less than 1 cm. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squeezed into less space.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -4060,7 +4060,7 @@
   },
   {
    "q": "What holds up a jellyfish?",
-   "a": "The sea. Out of water it collapses."
+   "a": "The sea. Out of water they collapse."
   },
   {
    "q": "Who makes a snail's shell?",
@@ -4162,7 +4162,7 @@
  "roots": {
   "context": "We have been learning how animals without backbones hold their soft bodies in shape, and how they feel and decide. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Under the books, the open bottles squashed, but the capped bottles held firm. When you sat on them or squeezed them, the air bottles gave, but the water bottles hardly moved. Water cannot be squeezed into less space, so water shut in tight makes a body firm. An earthworm has no bones, only liquid held in by their muscles, and that is enough.",
+   "truth": "In the Water Bones experiment, the open bottles squashed under the books, but the capped bottles held firm. When you sat on the capped bottles or squeezed them, the air bottles gave, but the water bottles hardly moved. Water cannot be squeezed into less space, so water shut in tight makes a body firm. An earthworm has no bones, only liquid held in by their muscles, and that is enough.",
    "habit": "We think being firm needs something hard inside, like bone or wood. An earthworm shows that liquid held in tight is enough.",
    "evidence": "In Water Bones, the open bottles squashed under the books, but the capped bottles held firm. Under a sitting child and a hard squeeze, the air bottles gave and the water bottles did not."
   },
@@ -4190,7 +4190,7 @@
     "status": "settled"
    },
    {
-    "text": "In 2021, a review of more than 300 studies found strong evidence that crabs, lobsters, octopuses and squid feel pain. What an ant or a worm feels from the inside is still open.",
+    "text": "In 2021, a review of more than 300 studies found strong evidence that crabs, lobsters, octopuses and squid feel pain. What an ant or a worm feels from the inside is still not known.",
     "status": "debated"
    }
   ],

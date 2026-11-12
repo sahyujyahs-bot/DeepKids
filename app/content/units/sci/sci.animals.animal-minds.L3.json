@@ -3,11 +3,11 @@
  "title": "Animal minds: how animals think, feel and remember",
  "level": 3,
  "summary": {
-  "text": "Animals think, feel, remember and decide. A crow remembers a face for years, and a dog follows a pointing finger to a hidden treat. Puppies, rats and even bumblebees play, just for fun. You will test what raises water in a glass with the fewest pieces, as rooks did, and learn how scientists test animal minds fairly. Some scientists say we cannot yet know what an animal feels inside, and nobody knows what being a crow is like.",
+  "text": "Animals think, feel, remember and decide. A crow remembers a face for years, and a dog follows a pointing finger to a hidden treat. Puppies, rats and even bumblebees play, just for fun. In the Thirsty Crow Test you will find out what raises the water in a glass with the fewest pieces, as rooks did in a real test. You will also learn how scientists test animal minds fairly. Some scientists say we cannot yet know what an animal feels inside, and nobody knows what being a crow is like.",
   "art": "A crow on a steel railing bending a twig with their beak, a puppy doing a play bow beside them, and a child watching both with a notebook."
  },
  "intro": {
-  "hook": "You probably know the story of the thirsty crow. They drop pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?",
+  "hook": "You probably know the story of the thirsty crow, who drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?",
   "text": "In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this unit you will find out what else animals learn, remember and work out.",
   "art": "A black rook beside a tall clear tube of water, a stone in their beak, a worm floating near the top, and a small pile of pebbles beside the tube."
  },
@@ -295,7 +295,7 @@
   {
    "concept": "Brains, neurons and tiny sparks",
    "status": "defined",
-   "definition": "A brain is made of tiny messenger cells called neurons. Neurons pass signals by moving charged atoms, called ions, in and out.",
+   "definition": "A brain is made of tiny messenger cells called neurons. Neurons pass signals by moving charged atoms, called ions, in and out of the cell.",
    "description": "In a brain, every thought, memory and feeling comes with neurons sending tiny electric signals. The signal is made by charged atoms of sodium and potassium, the same atoms that are in salt and bananas. Your brain has about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, helped count them. A honeybee has about one million neurons in a brain smaller than a sesame seed. In 2016, scientists found that bird brains pack neurons very tightly. A crow's small brain has about as many neurons in their thinking part as some monkeys have. So brain size alone does not tell you how clever an animal is.",
    "examples": [
     "Your brain uses about a fifth of all the energy your body uses, even while you sleep.",
@@ -316,7 +316,7 @@
    ],
    "perspectives": [],
    "art": "An octopus on the sea floor holding two halves of a coconut shell, one arm curling off to explore a rock on its own.",
-   "context": "This card goes deep: a very different kind of clever animal, and what this tells us about how minds came to be."
+   "context": "This card is about the octopus, a very different kind of clever animal, and what they tell us about how minds came to be."
   },
   {
    "concept": "Animals feel",
@@ -375,7 +375,7 @@
    "claim": "Only humans make and use tools.",
    "who": "Many people before 1960. Some books still say it.",
    "for": "No other animal builds cars, phones or houses like ours.",
-   "against": "Jane Goodall saw chimpanzees make tools from grass stems in 1960. Her teacher Louis Leakey wrote that we must now redefine 'tool', redefine 'man', or accept chimpanzees as humans. Crows bend hooks too.",
+   "against": "Jane Goodall saw chimpanzees make tools from grass stems in 1960. Her teacher Louis Leakey wrote that we must now change what we mean by 'tool', change what we mean by 'man', or accept chimpanzees as humans. Crows bend hooks too.",
    "status": "rejected",
    "context": "This card is about an old idea that tools make humans special, and why scientists dropped it."
   },
@@ -462,7 +462,7 @@
    "hint": "Can you tell from the outside whether something feels?"
   },
   {
-   "q": "If crows and octopuses got clever on their own, could minds grow anywhere in the universe?",
+   "q": "Crows and octopuses each became clever separately. Could minds grow anywhere in the universe?",
    "kind": "big",
    "hint": "Crows and octopuses come from very different branches of life."
   },
@@ -768,7 +768,7 @@
      "do": "Take turns drawing cards. After each card, turn it over and read the back. Hand out tokens.",
      "say": "Your turn. Read the card. Everyone say true or tall tale. Now, how do you think scientists found out?",
      "kid": "Take a card. Read it out. True or tall tale? Then say how scientists could test it.",
-     "parent": "Elephants do have very good memories, but no animal remembers everything. If someone doubts a back, ask what test could settle it.",
+     "parent": "The card 'An elephant never forgets anything at all' is a tall tale. Elephants do have very good memories, but no animal remembers everything. If someone doubts the answer on the back of a card, ask what test could settle it.",
      "check": {
       "t": "mcq",
       "q": "Card: 'A horse called Hans really could do sums.' What is the truth?",
@@ -905,7 +905,7 @@
      "mins": 2,
      "do": "Ask your child to say what they think, what they saw, and why.",
      "say": "What do you think now about reading faces? What did you see in the game? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer sounds like this. What I think: faces show feelings best. What I saw: we guessed most faces in round one, but body-only was harder. Why: eyes and mouths change most with feelings.",
      "context": "This is the last step of Read My Face. The child says what they think, what they saw, and why."
     }
@@ -967,7 +967,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Test big stones, small stones and thermocol. Count and write down the numbers. Draw a bar chart."
+     "what": "Guess how many pieces each will need. Then test big stones, small stones and thermocol. Count and write down the numbers. Draw a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw a bar chart with one bar for each thing you dropped in.",
@@ -1015,7 +1015,7 @@
      "mins": 3,
      "do": "1. Fill the glass with water until it is about 4 cm below the top. 2. Put a strip of tape at the water level. This is the starting line. 3. Put a second strip 2 cm higher, about two finger-widths. This is the top line. 4. Float the thermocol 'worm' on the water.",
      "say": "Remember the thirsty crow story? The crow dropped pebbles in a pot until they could drink. Let's be the crow. The thermocol is the worm. A crow's beak can only reach as far as the top line.",
-     "kid": "Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the worm. Can you bring it up to the line?",
+     "kid": "Fill the glass. Mark where the water is. Mark a line two fingers higher. Float the piece of thermocol on the water. This is the 'worm'. Can you bring the worm up to the top line?",
      "parent": "Use a glass about 6 to 7 cm across. In a wider glass the water rises too slowly, and you will need many more stones. A steel tumbler works too, but a clear glass lets you see the water rise.",
      "context": "This is the first step of the thirsty crow test. You set up a glass of water with a floating 'worm' to raise."
     },
@@ -1039,7 +1039,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Drop in big stones one at a time, counting, until the worm reaches the top line. Write the number. Empty the glass, refill to the starting line, and do the same with small stones. Then do it with the thermocol pieces. Stop the thermocol at 20.",
+     "do": "Drop in big stones one at a time, counting, until the worm reaches the top line. Write the number. Empty the glass, refill to the starting line, and do the same with small stones. Then do it with the thermocol pieces. Stop after 20 pieces of thermocol.",
      "say": "One stone at a time. Count out loud. Stop when the worm reaches the line. Now let's empty it and start again, so the test is fair.",
      "kid": "Drop in one big stone at a time. Count. Stop at the line. Empty the glass. Fill it to the start line. Now try small stones. Then thermocol.",
      "parent": "In a glass 6 to 7 cm across, the water must rise 2 cm, so you need to push about 60 to 75 millilitres of water out of the way. A walnut-sized stone takes up about 10 millilitres, so it takes about 5 to 8 big stones. A marble-sized stone takes up only about 2 millilitres, so it takes about 30 to 40 small ones. Thermocol floats and weighs almost nothing, so 20 pieces hardly raise the water at all. This surprises most children.",
@@ -1047,7 +1047,7 @@
       "t": "mcq",
       "q": "In the thirsty crow test, why did the thermocol hardly raise the water?",
       "options": [
-       "They are too small",
+       "The thermocol pieces are too small",
        "It floats, so it does not push much water out of the way",
        "Thermocol soaks up the water"
       ],
@@ -1095,7 +1095,7 @@
      "mins": 3,
      "do": "Tell your child what real rooks and crows did in this test.",
      "say": "In 2009, Christopher Bird and Nathan Emery gave rooks a tube like this. The rooks dropped in stones to reach a floating worm. They chose the big stones first. Later, New Caledonian crows passed similar tests. They chose sinking things over floating ones, just as you found out.",
-     "kid": "Real rooks did this test! They chose big stones first. Crows picked sinkers, not floaters. Did you?",
+     "kid": "Real rooks did this test! They chose big stones first. Crows picked things that sink, not things that float. Did you?",
      "think": "The rooks could not measure or talk it over. How do you think they worked out which stones to use?",
      "context": "This step of the thirsty crow test compares your results with what real rooks and crows did."
     },
@@ -1103,8 +1103,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why.",
-     "say": "What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "say": "Which raises the water with the fewest pieces? What did you see that shows it? And why did it happen?",
+     "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: big stones raise the water with the fewest pieces. What I saw: it took 6 big stones but 32 small stones, and the thermocol never got there. Why: big sinking stones take up more room under the water, so the water has to go up.",
      "context": "This is the last step of the thirsty crow test. The child says what they think, what they saw, and why."
     }
@@ -1205,7 +1205,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Now the helper must not know. The guesser shuts their eyes and the helper turns away. The third person puts the coin under a cup, then leaves the room or turns their back. The helper turns back and sits facing the guesser. Play 10 more times and count. If you have no third person, skip this step.",
+     "do": "Now the helper must not know. The guesser shuts their eyes and the helper turns away. A third person puts the coin under a cup, then leaves the room or turns their back. The helper turns back and sits facing the guesser. Play 10 more times and count. If you have no third person, skip this step.",
      "say": "Now I won't know where the coin is either. This is called a blind test. Let's see what happens to your score.",
      "kid": "Now your helper doesn't know either. This is a blind test. Someone else hides the coin. Play 10 more times. Count your right guesses.",
      "check": {
@@ -1256,8 +1256,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say what they think, what they saw, and why.",
-     "say": "What do you think now? What did you see? Why did it happen? And why do scientists use blind tests when they test animals?",
-     "kid": "Say three things. What I think. What I saw. Why. Then say why scientists use blind tests.",
+     "say": "Can you find a coin by reading a face? What did you see that shows it? Why did it happen? And why do scientists use blind tests when they test animals?",
+     "kid": "Say three things: what you think, what you saw, and why it happened. Then say why scientists use blind tests.",
      "parent": "A good answer sounds like this. What I think: faces give away clues. What I saw: I got 8 right when you knew, and only 3 when you didn't. Why: your face changed a tiny bit at the right cup. Scientists use blind tests so an animal cannot get the answer from them by mistake. If both scores were about the same, that is a real result too. It means your helper kept a very still face.",
      "context": "This is the last step of the Clever Hans test. The child says what they think, what they saw, and why."
     }
@@ -1364,7 +1364,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Kneel between the bowls. Say the dog's name to get their attention. Point clearly at the bowl with the treat and look at it. The owner lets the dog go. Tick right or wrong. Do this 10 times, changing the bowl in a mixed-up order.",
-     "say": "Watch, I'll say their name, point and look at the bowl. Then let go. Which bowl did they go to?",
+     "say": "Watch. I'll say the dog's name, point at the bowl and look at it. Then the owner lets go. Which bowl did the dog go to?",
      "kid": "Say the dog's name. Point at the right bowl and look at it. Let the dog go. Tick right or wrong. Do it 10 times.",
      "adult": true,
      "context": "This step of the pointing test is the round with pointing."
@@ -1455,7 +1455,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the five play signs with your child: play bow, chasing, jumping and twisting, tossing a thing, gentle wrestling.",
+     "do": "Draw the five play signs with your child: play bow, chasing, jumping and twisting, tossing a stick, gentle wrestling.",
      "say": "Play has signs. A play bow means 'let's play'. Chasing, jumping just for fun, tossing a stick and gentle wrestling are signs too. Let's draw them.",
      "kid": "Draw five play signs. A play bow. Chasing. Jumping for fun. Tossing a stick. Gentle wrestling.",
      "context": "This is the first step of Play Spotters, where you watch animals for signs of play."
@@ -1558,7 +1558,7 @@
      "wait": "Do this the next day.",
      "check": {
       "t": "mcq",
-      "q": "In Be a Jay, a child found 6 of 8 groundnuts the next day. A nutcracker bird finds a lot of their many thousands of seeds months later. What does this show?",
+      "q": "In Be a Jay, you had to find 8 groundnuts after one day. A Clark's nutcracker finds a lot of their many thousands of seeds months later. What does this show?",
       "options": [
        "Birds have no memory, they just get lucky",
        "Some birds have amazing memories for places",
@@ -1893,7 +1893,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the big question.",
+     "do": "Ask your child how they knew the child in the mirror was them.",
      "say": "When you saw yourself in the mirror, how did you know it was you?",
      "kid": "How do you know the child in the mirror is you?",
      "think": "Is there a 'you' inside, looking out? Where is it?",
@@ -1946,27 +1946,27 @@
     {
      "day": 3,
      "mins": 6,
-     "what": "Same again. Are crows waiting nearby before you come out?"
+     "what": "Same place, same time, same cap. Time the first crow. Are crows waiting nearby before you come out?"
     },
     {
      "day": 4,
      "mins": 6,
-     "what": "Same again. Write the time."
+     "what": "Same place, same time, same cap. Time the first crow and write it down."
     },
     {
      "day": 5,
      "mins": 6,
-     "what": "Same again. Write the time."
+     "what": "Same place, same time, same cap. Time the first crow and write it down."
     },
     {
      "day": 6,
      "mins": 6,
-     "what": "Same again. Write the time."
+     "what": "Same place, same time, same cap. Time the first crow and write it down."
     },
     {
      "day": 7,
      "mins": 13,
-     "what": "Same again. Then draw a line chart of all seven days, and talk about what the crows learned."
+     "what": "Same place, same time, same cap. Time the first crow. Then draw a line chart of all seven days, and talk about what the crows learned."
     }
    ],
    "record": "Write the minutes until the first crow each day. Note how many crows came, and whether any were waiting. Draw a line chart.",
@@ -2066,7 +2066,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child for claim, evidence and reasoning. Then plan a follow-up test.",
+     "do": "Ask your child what the crows learned, what the evidence is, and why they think so. Then plan a follow-up test.",
      "say": "What do you think the crows learned? What is your evidence? How could we test if they learned your cap, your face or just the time?",
      "kid": "What did the crows learn? What is your evidence? How could you test if they know your face?",
      "parent": "A good follow-up: wear a different cap, or let someone else come out at the same time, and see if the crows behave differently.",
@@ -2123,7 +2123,7 @@
      "mins": 5,
      "do": "A grown-up cuts the top off a tall plastic bottle. Make a tiny bucket from the bottom of a paper cup. Tape on a loop of thin card as a handle, standing straight up. Put a sweet in the bucket and drop it to the bottom.",
      "say": "A crow called Betty did this in Oxford in 2002. She had a straight wire and a bucket of food at the bottom of a tube. Let's see if you can do what Betty did.",
-     "kid": "The sweet is at the bottom. No fingers inside! You only have a straight pipe cleaner.",
+     "kid": "The sweet is in the bucket at the bottom of the bottle. Lift the bucket out. No fingers inside, and no tipping the bottle! You only have a straight pipe cleaner.",
      "adult": true,
      "context": "This is the first step of Hook It Like Betty, a challenge to make a tool like a clever crow."
     },
@@ -2131,7 +2131,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Let your child try. Do not tell them to make a hook. Count the tries.",
-     "say": "Try it. If the straight one doesn't work, what could you change about it?",
+     "say": "Try it. If the straight pipe cleaner doesn't work, what could you change about it?",
      "kid": "Try to lift the bucket. Does a straight pipe cleaner work? What can you change?",
      "check": {
       "t": "mcq",
@@ -2212,7 +2212,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Put it out for a pet, or for crows on the balcony. Watch from a distance and time how long it takes.",
+     "do": "Put the puzzle feeder out for a pet, or for crows on the balcony. Watch from a distance and time how long it takes.",
      "say": "Let's step back and watch. Is the animal trying different things? Are they getting quicker?",
      "kid": "Step back. Watch quietly. Time it. What does the animal try first?",
      "adult": true,
@@ -2234,7 +2234,7 @@
      "mins": 10,
      "do": "Design a harder puzzle together, with two steps.",
      "say": "How could we make it a bit harder, but still fair? What would a crow find interesting?",
-     "kid": "Draw a harder puzzle. Two steps. Make it fair. Build it tomorrow!",
+     "kid": "Draw a harder puzzle with two steps. Make sure the animal can still solve it. Build it tomorrow!",
      "context": "This is the last step of Build a Puzzle Feeder. You design a harder puzzle."
     }
    ]
@@ -2371,10 +2371,10 @@
     },
     {
      "t": "perspective",
-     "p": "A girl in Class 3 comes home to find that her dog Rani has chewed a chappal. Rani's head is low and her ears are back. People explain this look in different ways.",
+     "p": "A dog called Rani has chewed a chappal. When her family comes home, her head is low and her ears are back. People explain this look in different ways.",
      "views": [
       {
-       "who": "The girl, in Class 3",
+       "who": "A child in Rani's family",
        "says": "Rani feels guilty. She knows she did something wrong."
       },
       {
@@ -2382,7 +2382,7 @@
        "says": "In my tests, dogs looked most 'guilty' when their owner scolded them, even if they had done nothing wrong."
       },
       {
-       "who": "The girl's grandmother",
+       "who": "The child's grandmother",
        "says": "Rani may be feeling something real, but it may be worry about the scolding, not guilt about the chappal."
       }
      ],
@@ -2638,9 +2638,9 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake. A girl did the Thirsty Crow Test. She filled the glass higher for the small stones than for the big stones. Why can't she compare her two counts?",
+     "p": "Find the mistake. In the Thirsty Crow Test, someone filled the glass higher for the small stones than for the big stones. Why can't they compare the two counts?",
      "lines": 3,
-     "a": "Because she changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. She must start both at the same line.",
+     "a": "Because they changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. Both must start at the same line.",
      "why": "In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.",
      "how": "e1",
      "context": "In the Thirsty Crow Test, you dropped big stones, small stones or pieces of thermocol into a glass of water, and counted how many it took to raise the water to a line."
@@ -2662,7 +2662,7 @@
        "says": "Many street dogs in India follow pointing, though nobody trained them."
       }
      ],
-     "ask": "Which explanation do you find most convincing? Use evidence. Then answer back from another side.",
+     "ask": "Which explanation do you find most convincing? Give evidence for it. Then say what a scientist who disagrees might reply.",
      "lines": 5,
      "a": "A strong answer picks a side and uses the evidence given, for example that untrained street dogs follow pointing, or that wolves raised by people can learn it. It notices that street dogs also live around people, so they might learn it too. Many answers end up saying both are partly true.",
      "why": "Many scientists today think both are true: dogs are born ready to watch people, and living with people makes them better at it."
@@ -2716,7 +2716,7 @@
     },
     {
      "t": "write",
-     "p": "Meera's cat comes running every time the fridge door opens. Meera says her cat understands what a fridge is. Give a simpler explanation, and say how you could test it.",
+     "p": "A cat comes running every time the fridge door opens. Their owner says the cat understands what a fridge is. Give a simpler explanation, and say how you could test it.",
      "lines": 3,
      "a": "For example: the cat learned that the sound of the fridge door comes before food. To test it, open a cupboard that makes a similar sound, or open the fridge door very quietly, and see if the cat still comes.",
      "why": "The simplest explanation that fits is often learning, as in Pavlov's dogs. A good test changes one thing at a time, such as the sound."
@@ -2772,7 +2772,7 @@
        "says": "Animals act as if they feel. But nobody can yet measure what anyone feels inside, so we should say what we can test."
       }
      ],
-     "ask": "Who do you agree with? Give one piece of evidence. Then answer back from another side.",
+     "ask": "Who do you agree with? Give one piece of evidence. Then say what someone who disagrees might reply.",
      "lines": 5,
      "a": "A strong answer picks a side and gives evidence, for example a scared dog's tucked tail, or bumblebees rolling balls for no reward. It answers back fairly, for example that we cannot see feelings directly, only what animals do.",
      "why": "Most scientists today agree that mammals and birds feel, and many think other animals do too. How to test feelings is still argued about.",
@@ -2865,9 +2865,9 @@
     },
     {
      "t": "write",
-     "p": "Your friend Selvi says her parrot can count to three. Design a blind test to check. What must be true about the person asking the questions?",
+     "p": "A friend says their parrot can count to three. Design a blind test to check. What must be true about the person asking the questions?",
      "lines": 5,
-     "a": "For example: put 1, 2 or 3 groundnuts under a cloth, and let someone who did not see how many count out the answer with the parrot. The person asking must not know the answer, so they cannot give clues by mistake, as with Clever Hans.",
+     "a": "For example: put 1, 2 or 3 groundnuts under a cloth. Then someone who did not see how many asks the parrot to count them. The person asking must not know the answer, so they cannot give clues by mistake, as happened with Clever Hans.",
      "why": "In a blind test, nobody near the animal knows the answer. Then any right answers must come from the animal."
     },
     {
@@ -2893,7 +2893,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 4, wants to test whether her neighbour's pet dog follows pointing. Which plan is fairest?",
+     "p": "You want to test whether a neighbour's pet dog follows pointing. Which plan is fairest?",
      "opts": [
       "Hide a treat under one bowl and point at it once",
       "Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without",
@@ -2978,7 +2978,7 @@
     "Chimpanzees are drawing a picture"
    ],
    "a": 0,
-   "why": "The stem is a tool: the chimpanzee uses it to reach food it could not get with its fingers. So humans are not the only tool users. Picking 'building a house' is a guess with no evidence.",
+   "why": "The stem is a tool: the chimpanzee uses it to reach food they could not get with their fingers. So humans are not the only tool users. Picking 'building a house' is a guess with no evidence.",
    "outcome": 1
   },
   {
@@ -3153,7 +3153,7 @@
   },
   {
    "q": "How do tiny neurons passing signals become a feeling or a memory?",
-   "why_open": "We can see neurons fire, but nobody knows how that becomes the feeling of being happy. This is called the hard problem of consciousness."
+   "why_open": "We can see neurons send signals, but nobody knows how that becomes the feeling of being happy. This is called the hard problem of consciousness."
   },
   {
    "q": "Which animals know themselves?",
@@ -3249,7 +3249,7 @@
    "why_maths": "Saying 'big stones were better' is a start. Working out how many fewer tells us how much better."
   },
   {
-   "problem": "In the Clever Hans test, a girl got 8 right out of 10 when her helper knew, and 3 right out of 10 in the blind round. What fraction did she get right in each round?",
+   "problem": "In the Clever Hans test, a guesser got 8 right out of 10 when the helper knew where the coin was, and 3 right out of 10 in the blind round. What fraction did the guesser get right in each round?",
    "answer": "8 out of 10, and 3 out of 10.",
    "explain": "In the first round, 8 out of 10 tries were right. That is 8 tenths. In the blind round, 3 out of 10 were right. That is 3 tenths. 3 tenths is about what lucky guessing gives with 3 cups.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -3323,9 +3323,9 @@
    "why_maths": "Timing in minutes turns 'the crows got quicker' into a clear number we can draw on a line chart and compare."
   },
   {
-   "problem": "In Be a Jay, a girl hid 8 groundnuts. The next day she found 6. What fraction did she find? How many did she forget?",
-   "answer": "She found 6 out of 8, which is three quarters. She forgot 2.",
-   "explain": "8 take away 6 is 2, so she forgot 2. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So she found three quarters.",
+   "problem": "In Be a Jay, 8 groundnuts were hidden. The next day, 6 were found. What fraction were found? How many were forgotten?",
+   "answer": "6 out of 8 were found, which is three quarters. 2 were forgotten.",
+   "explain": "8 take away 6 is 2, so 2 were forgotten. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So three quarters were found.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
    "context": "This is about Be a Jay. You hide 8 treats in a room, then try to find them the next day with no map, like a bird that hides seeds.",
    "how": "a2",
@@ -3551,7 +3551,7 @@
  "roots": {
   "context": "We have been learning that animals play, learn, remember and read faces. Now we ask what that tells us about minds, about ourselves and about the world.",
   "deep_truth": {
-   "truth": "In your glass, big stones raised the water with the fewest pieces, and you could say why. Rooks given a tube of water also chose big stones first, though they cannot tell us why. Nobody can see inside another mind, so we judge even a friend's mind by what they do. Judged the same way, the rook was thinking, just as you were.",
+   "truth": "In the Thirsty Crow Test, big stones raised the water with the fewest pieces, and you could say why. Rooks given a tube of water also chose big stones first, though they cannot tell us why. Nobody can see inside another mind, so we judge even a friend's mind by what they do. Judged the same way, the rook was thinking, just as you were.",
    "habit": "We accept that a friend thinks because of what they do and say. For animals we often ask for much more proof. That uses one rule for people and a stricter one for every other animal.",
    "evidence": "In 2009, Christopher Bird and Nathan Emery gave rooks a tube with a worm floating out of reach. The rooks dropped in stones until they could eat it, and they picked big stones first. In the thirsty crow test, you found the same thing: big sinking stones raise the water with the fewest pieces."
   },
@@ -3560,7 +3560,7 @@
    "what_is_life": "Living things notice, learn, remember and choose. Crows, dogs, octopuses and you all do this, with very different bodies.",
    "what_is_this_world": "A crow, a dog and a bee notice different things in the same street. Each of them lives in their own version of the world."
   },
-  "thread": "A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on neurons passing signals with the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. Awareness runs through all of life, from crows and dogs to eight-armed octopuses.",
+  "thread": "A crow, a dog and you look very different from outside. Inside, your thinking and theirs runs on neurons passing signals with the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.",
   "teachings": [
    {
     "source": "Bhagavad Gita 5.18",
@@ -3570,7 +3570,7 @@
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river",
     "teaching": "Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?'",
-    "link": "Huizi could not see inside Zhuangzi's mind either, yet he argued with him as a mind. We know every other mind, a friend's or a fish's, from what they do."
+    "link": "Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do."
    },
    {
     "source": "Isha Upanishad, verse 6",
@@ -3590,7 +3590,7 @@
   ],
   "other_view": {
    "who": "Many careful scientists, following Conwy Lloyd Morgan, and the philosopher Rene Descartes before them",
-   "view": "We should not read human feelings into animals. A crow bending a hook may be following simple learned rules, with nothing it is like inside. Descartes went further and said animals feel nothing at all. Most scientists today disagree with Descartes, but many still warn against seeing a mind like ours in every animal. That is an honest and careful view."
+   "view": "We should not read human feelings into animals. A crow bending a hook may be following simple learned rules, with no thoughts or feelings inside. Descartes went further and said animals feel nothing at all. Most scientists today disagree with Descartes, but many still warn against seeing a mind like ours in every animal. That is an honest and careful view."
   },
   "practice": {
    "title": "Be a quiet watcher",

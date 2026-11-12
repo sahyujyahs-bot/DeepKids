@@ -2,7 +2,17 @@
  "note": "Units whose text has been read line by line and rewritten in plain words. Do not run them again.",
  "done": [
   "sci.air.air-around-us.L3",
+  "sci.animal-behaviour.animal-learning.L3",
+  "sci.animal-behaviour.animal-societies.L3",
+  "sci.animal-behaviour.foraging-and-survival.L3",
   "sci.animal-behaviour.migration.L3",
+  "sci.animals.animal-bodies.L3",
+  "sci.animals.animal-life-cycles.L3",
+  "sci.animals.animal-minds.L3",
+  "sci.animals.animals-around-us.L3",
+  "sci.animals.invertebrates.L3",
+  "sci.animals.vertebrate-groups.L3",
+  "sci.basic-needs.basic-needs.L3",
   "sci.evolution.story-of-life.L3",
   "sci.forces.stretching-springs.L3",
   "sci.what-is-life.cells.L3"

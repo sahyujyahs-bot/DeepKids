@@ -197,7 +197,7 @@
    "concept": "How gills work",
    "status": "defined",
    "definition": "Gills take oxygen out of water. A fish gulps water in through their mouth. The water flows over the gills and out under the gill covers.",
-   "description": "Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching oxygen. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.",
+   "description": "Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching oxygen. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through the gills the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than the blood has. So a fish can take most of the oxygen out of the water that passes over their gills. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.",
    "examples": [
     "Rohu, catla and goldfish breathe with gills.",
     "Tadpoles breathe with gills. Most grow lungs when they become frogs.",
@@ -320,7 +320,7 @@
    "definition": "",
    "description": "After heavy rain, you often see earthworms lying on paths and roads. Earthworms breathe through their skin, so many people think they come up to stop drowning. But earthworms can live under water for a long time if the water has oxygen in it. So scientists are not sure. There are several ideas, and maybe more than one is true.",
    "examples": [
-    "Earthworms on a wet road in the monsoon.",
+    "In the monsoon, you can see earthworms lying on wet roads.",
     "In experiments, earthworms have stayed alive under water for a long time when the water had oxygen in it.",
     "Some fishermen in other countries drum on the ground to call worms up."
    ],
@@ -335,7 +335,7 @@
     },
     {
      "who": "The mole idea",
-     "explanation": "The drumming of rain may feel like the digging of a mole, which eats worms. The worms crawl up to escape it. People who drum on the ground to call worms up support this idea."
+     "explanation": "The drumming of rain may feel like the digging of a mole, which eats worms. The worms crawl up to escape. This idea fits with the fishermen who drum on the ground to call worms up."
     }
    ],
    "art": "A wet path in the monsoon with several earthworms on it, and three thought bubbles above them: a bubble, a road, and a mole.",
@@ -419,7 +419,7 @@
    "for": "These tiny parts, called mitochondria, use oxygen just as some bacteria do. They even have their own little bit of DNA, like bacteria.",
    "against": "At first, most biologists thought the idea was strange and unlikely. But DNA tests later showed that mitochondria really did come from bacteria that moved into bigger cells long ago.",
    "status": "accepted",
-   "context": "This card is about a once-mocked idea about where our cells' breathing parts came from."
+   "context": "This card is about an idea that most biologists first thought was strange: the parts of our cells that use oxygen were once bacteria."
   }
  ],
  "big_questions": [
@@ -429,7 +429,7 @@
    "hint": "Think of a wet paintbrush taken out of water. What happens to its soft hairs?"
   },
   {
-   "q": "Where was the oxygen in your last breath a week ago?",
+   "q": "A week ago, where was the oxygen that you just breathed in?",
    "kind": "deep",
    "hint": "Who puts oxygen into the air? Think of trees, grass and the green algae in ponds and seas."
   },
@@ -854,11 +854,11 @@
      "id": "s2",
      "mins": 3,
      "do": "Take out the frog card and play that card together as a practice round. Then shuffle it back into the pile.",
-     "say": "Practice card: frog. Where does it go? Careful, this one is tricky.",
-     "kid": "Practice card: frog. Which mat? It might be two!",
+     "say": "Let's try one card together first: the frog. Which mat does the frog card go on? Careful, this one is tricky.",
+     "kid": "Try the frog card together first. Which mat does the frog card go on? It might be two!",
      "check": {
       "t": "mcq",
-      "q": "Practice card: frog. Where does it go?",
+      "q": "Where does the frog card go?",
       "options": [
        "Between LUNGS and SKIN",
        "GILLS only",
@@ -878,7 +878,7 @@
      "parent": "Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin). Air pipes: grasshopper, butterfly, ant, mosquito.",
      "check": {
       "t": "mcq",
-      "q": "Card: Ganges river dolphin. They live in water all their life. Where does the card go?",
+      "q": "The Ganges river dolphin lives in water all their life. Where does the dolphin card go?",
       "options": [
        "LUNGS",
        "GILLS",
@@ -1094,7 +1094,7 @@
     },
     {
      "t": "mcq",
-     "p": "Predict. You count your breaths for one minute sitting still. Then you run up two floors of stairs and count again. What will you find?",
+     "p": "You count your breaths for one minute sitting still. Then you run up two floors of stairs and count again. What do you expect to find?",
      "opts": [
       "More breaths after the stairs, because working muscles need more oxygen",
       "Fewer breaths, because you are tired",
@@ -1115,7 +1115,7 @@
     },
     {
      "t": "write",
-     "p": "In the Limewater Test, the glass with your breath turned milky. The glass with room air stayed clear. Kavya, a girl in Class 3, says, 'The milky colour just comes from bubbles.' How does the room-air glass show she is wrong?",
+     "p": "In the Limewater Test, the glass with your breath turned milky. The glass with room air stayed clear. Someone says, 'The milky colour just comes from bubbles.' How does the room-air glass show that this is wrong?",
      "lines": 3,
      "a": "Both glasses got bubbles, but only the breath glass went milky. So the bubbles alone did not do it. Something in breath, carbon dioxide, made the limewater milky.",
      "why": "The room-air glass is the comparison. Everything was the same except the kind of air, so the difference must come from the air.",
@@ -1138,7 +1138,7 @@
       "To keep sand out of their eyes"
      ],
      "a": 0,
-     "why": "More surface lets more oxygen in at once. Remember the towel test: the frilly towel dried much faster than the crumpled one. Picking 'swim faster' mixes gills up with fins.",
+     "why": "More surface lets more oxygen in at once. In the gill shape test, the frilly wet towel dried much faster than the crumpled one, because more of the towel touched the air. Picking 'swim faster' mixes gills up with fins.",
      "how": "a4",
      "context": "In the gill shape test, you hung up a crumpled wet towel and a frilly wet towel to see which dried first."
     },
@@ -1151,22 +1151,22 @@
     },
     {
      "t": "perspective",
-     "p": "Three girls argue about which way of breathing is best.",
+     "p": "Here are three views about which way of breathing is best.",
      "views": [
       {
-       "who": "Meenakshi, in Class 3",
+       "who": "The lungs view",
        "says": "Lungs are best. Air has about 30 times more oxygen than water."
       },
       {
-       "who": "Farida, Meenakshi's friend",
+       "who": "The gills view",
        "says": "Gills are best for a fish. Lungs would fill with water and be useless in a river."
       },
       {
-       "who": "Lakshmi, Meenakshi's cousin",
+       "who": "The two-ways view",
        "says": "Having two ways is best, like a frog. Lungs work on land, and damp skin works in the pond."
       }
      ],
-     "ask": "Which way do you think is best? Give a reason from this unit. Then say one thing another friend has right.",
+     "ask": "Which way do you think is best? Give a reason from this unit. Then say one thing another view has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.",
      "why": "There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as the skin stays damp."
@@ -1194,7 +1194,7 @@
       "It squeezes the heart"
      ],
      "a": 0,
-     "why": "When the diaphragm pulls down, there is more space in the chest, and air flows in to fill it. That's what the bottle lung showed. Picking 'pushes air up' is what happens when you breathe out, not in.",
+     "why": "When the diaphragm pulls down, there is more space in the chest, and air flows in to fill it. In Make a Bottle Lung, pulling the bottom balloon down filled the balloon inside in the same way. Picking 'pushes air up' is what happens when you breathe out, not in.",
      "how": "a2",
      "context": "In Make a Bottle Lung, you pulled the stretchy balloon at the bottom of a bottle and watched the balloon inside fill."
     },
@@ -1227,7 +1227,7 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the ant chart. Most ants went to the sugar and almost none to the salt. Predict: if you put out jaggery instead of salt, what would you expect?",
+     "p": "Look at the ant chart. Most ants went to the sugar and almost none to the salt. If you put out jaggery instead of salt, what would you expect?",
      "opts": [
       "Many ants, like on the sugar, because jaggery is mostly sugar too",
       "No ants, because jaggery is brown",
@@ -1300,7 +1300,7 @@
      "t": "write",
      "p": "An owl hunts mice in the dark. An eagle hunts mice by day. Which sense does each one rely on most, and why?",
      "lines": 3,
-     "a": "The owl relies on hearing. She can find a mouse in the dark by the sound of it rustling. The eagle relies on sight. He spots a mouse from high in the sky in daylight.",
+     "a": "The owl relies on hearing. She can find a mouse in the dark by the sound of the mouse rustling. The eagle relies on sight. He spots a mouse from high in the sky in daylight.",
      "why": "Each animal relies on the sense that works best where and when they hunt."
     },
     {
@@ -1340,7 +1340,7 @@
      "p": "Earthworms often lie on wet roads after heavy rain. People explain this in different ways.",
      "views": [
       {
-       "who": "Anjali, who grows plants on her terrace",
+       "who": "A common idea",
        "says": "They come up so they don't drown in the wet soil."
       },
       {
@@ -1348,7 +1348,7 @@
        "says": "Worms can live for a long time in water that has oxygen in it. They come up because wet ground lets them travel far without drying out."
       },
       {
-       "who": "Ishita, in Class 4",
+       "who": "The mole idea",
        "says": "Rain drumming on the ground feels like a mole digging, so they escape."
       }
      ],
@@ -1486,7 +1486,7 @@
     },
     {
      "t": "sort",
-     "p": "Imagine the bottom of a dark, muddy river. Sort these senses: which would work well there, and which would hardly work?",
+     "p": "Think of the bottom of a dark, muddy river. Sort these senses: which would work well there, and which would hardly work?",
      "cats": [
       "Would work well",
       "Would hardly work"
@@ -1522,10 +1522,10 @@
     },
     {
      "t": "mcq",
-     "p": "Karthik, a boy in Class 4, says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' Divya, a girl in his class, has done the Limewater Test and read about breath. What should Divya tell him?",
+     "p": "Someone says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' You have done the Limewater Test and read about breath. What should you tell them?",
      "opts": [
       "Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air",
-      "He is completely right",
+      "They are completely right",
       "We breathe out only water"
      ],
      "a": 0,
@@ -1568,7 +1568,7 @@
     },
     {
      "t": "write",
-     "p": "For about 2,000 years, many people taught that we breathe to cool the heart. Then Lavoisier put a guinea pig in a box packed with ice. What did the melted ice and the breath of the guinea pig show about what breathing really does?",
+     "p": "For about 2,000 years, many people taught that we breathe to cool the heart. Then, in 1783, the French chemist Antoine Lavoisier put a guinea pig in a box packed with ice. The ice melted, and the guinea pig breathed out carbon dioxide. What did this show about what breathing really does?",
      "lines": 4,
      "a": "The guinea pig's warmth melted the ice, and the animal breathed out carbon dioxide. This showed that breathing uses oxygen from the air to release energy from food, a slow burning inside the body, and makes heat and carbon dioxide. It does not just cool the heart.",
      "why": "A good answer links the warmth, the oxygen and the carbon dioxide to one idea: cells use oxygen to get energy from food."
@@ -1584,7 +1584,7 @@
    "days": 1,
    "question": "Do we breathe faster after exercise? How much faster?",
    "predict": "Before you start, guess. How many breaths do you take in one minute while sitting still? Will the number go up, go down or stay the same after one minute of jumping? Why do you think so?",
-   "fair_test": "To make it fair, count in the same way every time: sit in the same chair, and count for the same time. Only one thing changes: resting or just after jumping. Count 3 times for each, because one count can be a fluke.",
+   "fair_test": "To make it fair, count in the same way every time: sit in the same chair, and count for the same time. Only one thing changes: resting or just after jumping. Count 3 times for each, because one count can be wrong by chance.",
    "results_table": [
     "When I counted",
     "Count 1: breaths in 1 minute",
@@ -1614,7 +1614,7 @@
     {
      "day": 1,
      "mins": 33,
-     "what": "Guess. Count breaths sitting still, 3 times. Jump for one minute. Count again. Draw a bar chart."
+     "what": "Guess first. Count your breaths sitting still, 3 times. Jump for one minute, then count again. Draw a bar chart."
     }
    ],
    "record": "Fill in the table. Draw two bars: one for resting, one for after jumping. Then write a claim, your evidence and your reasoning.",
@@ -1841,7 +1841,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Day 2. 1. Gently pour the clear water from the top of the jug into two glasses, half full each. Leave the white powder behind. 2. Put a straw in glass 1. 3. Push a second straw into the neck of the empty bottle, and press atta dough round it so no air leaks. This bottle will push room air into glass 2.",
+     "do": "Day 2. 1. Gently pour the clear water from the top of the jug into two glasses, half full each. Leave the white powder behind. 2. Put a straw in glass 1. 3. Push a second straw into the neck of an empty plastic bottle, and press atta dough round the straw so no air leaks. This bottle will push room air into glass 2.",
      "say": "Look, both glasses are clear. Carbon dioxide turns this water milky. Which kind of air do you think has more carbon dioxide: your breath, or the air in this room? Why do you think so?",
      "kid": "Look at the two glasses. Both are clear. Guess. Which will turn milky: your breath or room air?",
      "adult": true,
@@ -2346,7 +2346,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Compare the fish's count with your own breath count from the Breath Count experiment, if you did it.",
-     "say": "You took about 20 breaths a minute sitting still. The fish moved water over their gills many more times. Why might a fish have to work harder?",
+     "say": "A child takes about 20 breaths a minute sitting still. The fish moved water over their gills many more times than that. Why might a fish have to work harder?",
      "kid": "Was the fish's number bigger or smaller than yours? Why might a fish breathe so fast?",
      "check": {
       "t": "mcq",
@@ -2437,14 +2437,14 @@
      "do": "Every 10 minutes, for about 30 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes only a minute, so do something else in between.",
      "say": "Let's check. Touch them gently. Which feels drier? The water is leaving through the surface, just as oxygen enters through the surface of a gill.",
      "kid": "Every 10 minutes, touch both towels. Wet, damp or dry? Write it down.",
-     "parent": "The frilly towel usually dries much faster, in less time than the crumpled ball. The crumpled ball may still be damp at the end, and on a humid day both may stay damp longer. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
+     "parent": "The frilly towel usually dries much faster than the crumpled ball. The crumpled ball may still be damp at the end, and on a humid day both may stay damp longer. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
      "context": "This is the step where you check the two towels every 10 minutes to see which dries first."
     },
     {
      "id": "s3",
      "mins": 7,
      "do": "Talk about what the result means for gills and lungs.",
-     "say": "Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles. What's the trick?",
+     "say": "Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles. Why do you think they have these shapes?",
      "kid": "The frilly one dried faster. Gills are frilly too. Lungs have millions of tiny bubbles. Why?",
      "check": {
       "t": "mcq",
@@ -2526,7 +2526,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Talk about animal noses and other senses.",
-     "say": "A dog's nose is far, far better than ours. It can follow a smell trail days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?",
+     "say": "A dog's nose is far, far better than ours. A dog can follow a smell trail that is days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?",
      "kid": "A dog could find the snack at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?",
      "check": {
       "t": "mcq",
@@ -2587,7 +2587,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Your child sits cross-legged. 2. They take one normal breath, not a huge one, and hold it. 3. Time how long they hold it comfortably. 4. Stop the moment it feels uncomfortable. 5. Time anyone else at home who wants to try.",
-     "say": "Sit tall. Take a normal breath, and hold it gently. Don't push yourself. The moment you want to breathe, breathe. It's not a race to hurt. It's to notice.",
+     "say": "Sit tall. Take a normal breath, and hold it gently. Don't push yourself. The moment you want to breathe, breathe. This is not a contest, and it should not hurt. We only want to notice how long feels comfortable.",
      "kid": "Sit tall. Take a normal breath. Hold it gently. Breathe the moment you want to. Never push.",
      "adult": true,
      "parent": "Most children can comfortably hold for 15 to 40 seconds. The urge to breathe comes mostly from carbon dioxide building up in the blood, not from running out of oxygen. Never let this become a contest to hold too long, and never do it in water.",
@@ -2713,7 +2713,7 @@
      "kid": "Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Which was your favourite?",
      "check": {
       "t": "mcq",
-      "q": "A flamingo eats tiny shrimps floating in lake water. In the buffet, which tool worked like their beak?",
+      "q": "A flamingo eats tiny shrimps floating in lake water. In the Mouth Tools Buffet, which tool worked like a flamingo's beak?",
       "options": [
        "The tea strainer",
        "The straw",
@@ -2803,7 +2803,7 @@
      "id": "s2",
      "mins": 24,
      "do": "Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths for one minute while they sleep. On day 4, count a pet or another person at home, with permission, if there is one.",
-     "say": "Today's counts are in the diary plan. Remember, sit the same way each time, and count for one whole minute.",
+     "say": "Do today's counts and write them in your diary table. Remember, sit the same way each time, and count for one whole minute.",
      "kid": "Do today's counts. Write each one in your table. Count for one whole minute.",
      "wait": "Do the next count tomorrow.",
      "parent": "Sleeping breaths are usually slowest. A cat or dog at rest often breathes 20 to 30 times a minute. Small animals breathe faster than big ones.",
@@ -2854,7 +2854,7 @@
    "id": "c1",
    "title": "Design a River-Bottom Hunter",
    "mins": 30,
-   "problem": "Imagine a new animal that lives at the bottom of a deep, muddy river, like the Ganga. The water is so brown that it is dark even at noon, and in summer it has very little oxygen. Design an animal that can breathe and find food there.",
+   "problem": "Invent a new animal who lives at the bottom of a deep, muddy river, like the Ganga. The water is so brown that it is dark even at noon, and in summer it has very little oxygen. Design your animal so that they can breathe and find food there.",
    "constraints": [
     "Your animal must get enough oxygen, even in summer.",
     "Your animal must find food in water too muddy to see through.",
@@ -2983,7 +2983,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. A grown-up cuts the top off a plastic bottle to make a funnel. 2. Stir one spoon of used tea leaves into a jug of water. 3. Try the tea strainer first, as the test to beat.",
+     "do": "1. A grown-up cuts the top off a plastic bottle to make a funnel. 2. Stir one spoon of used tea leaves into a jug of water. 3. Try the tea strainer first, as the filter to beat.",
      "say": "Let's start with the tea strainer. Pour slowly. How long did the water take? Did any bits of leaf get into the bowl?",
      "kid": "A grown-up makes a funnel. Pour the tea water through a tea strainer. Time it. Did leaves get through?",
      "adult": true,
@@ -2997,7 +2997,7 @@
      "kid": "Build your own filter. Pour the tea water through. Time it. Try again and make it better.",
      "check": {
       "t": "mcq",
-      "q": "Imagine a pleated cloth catches all the tea leaves, just like a flat cloth, but the water goes through faster. Why?",
+      "q": "A pleated cloth catches all the tea leaves, just like a flat cloth, but the water goes through the pleated cloth faster. Why?",
       "options": [
        "Pleats give more cloth for the water to pass through",
        "Pleats make the water colder",
@@ -3035,7 +3035,7 @@
    "channel": "Smithsonian Channel",
    "youtube": "VosMbumTzIg",
    "mins": 2,
-   "why": "Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the skin breathing card.",
+   "why": "Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the card called Breathing through skin.",
    "check": "A parent should preview it first."
   },
   {
@@ -3163,7 +3163,7 @@
     "Very sharp hearing in big ears"
    ],
    "a": 0,
-   "why": "Pit vipers, like the Malabar pit viper of the Western Ghats, have pits that feel the warmth of a mouse. Picking 'echolocation' mixes it up with bats. Snakes don't have outer ears at all.",
+   "why": "Pit vipers, like the Malabar pit viper of the Western Ghats, have pits that feel the warmth of a mouse. Picking 'echolocation' mixes pit vipers up with bats. Snakes don't have outer ears at all.",
    "outcome": 4
   },
   {
@@ -3199,7 +3199,7 @@
     "Because they are lost"
    ],
    "a": 0,
-   "why": "Scientists still argue. Some think the worms need air, some think it's a good time to travel, and some think rain sounds like a hungry mole. Picking a simple answer is natural. But this is a real open question.",
+   "why": "Scientists still argue. Some think the worms need air, some think it's a good time to travel, and some think rain sounds like a hungry mole. Picking a simple answer is natural. But nobody knows the answer for sure yet.",
    "outcome": 6
   },
   {
@@ -3385,7 +3385,7 @@
    "explain": "After jumping the bar shows 40. Sitting still it shows 20. 40 divided by 20 is 2. So you breathed twice as many times. Check: 20 + 20 = 40.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "e1",
-   "context": "This is about the Breath Count experiment, where you counted breaths sitting still and just after jumping one minute.",
+   "context": "This is about the Breath Count experiment, where you counted breaths sitting still and just after jumping for one minute.",
    "chart": {
     "type": "bar",
     "title": "Made-up results: breaths in one minute",
@@ -3448,7 +3448,7 @@
    "why_maths": "Adding up and comparing bars tells us clearly which food the ants liked most, and by how much."
   },
   {
-   "problem": "In the breath diary, you breathed 16 times a minute asleep and 34 times a minute after climbing stairs. What is the difference?",
+   "problem": "In My Breath Diary, you breathed 16 times a minute asleep and 34 times a minute after climbing stairs. What is the difference?",
    "answer": "18 breaths a minute.",
    "explain": "34 take away 16. 34 take away 10 is 24. 24 take away 6 is 18. So you breathed 18 more times a minute after the stairs.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -3726,9 +3726,9 @@
  "roots": {
   "context": "We have seen what is in our breath, and how animals breathe and find food. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your breath turned clear limewater milky, but room air hardly changed it. The milkiness comes from carbon dioxide, which your cells make as they use food for energy. The carbon in that gas came from the food you ate. So part of every meal leaves your body in your breath.",
-   "habit": "We think of eating and breathing as two separate jobs, and we think food leaves the body only as poo and wee. In fact, much of the food we digest leaves through the lungs. Eating and breathing meet in every cell.",
-   "evidence": "In the limewater test, the glass with your breath turned milky within a minute, and the glass with room air stayed almost clear. Breathed-out air has about 100 times as much carbon dioxide as room air. In 2014, two scientists worked out that most of the fat a person loses leaves through the lungs, as carbon dioxide."
+   "truth": "In the Limewater Test, your breath turned clear limewater milky, but room air hardly changed the limewater. The milkiness comes from carbon dioxide, which your cells make as they use food for energy. The carbon in that gas came from the food you ate. So part of every meal leaves your body in your breath.",
+   "habit": "We think of eating and breathing as two separate jobs, and we think food leaves the body only as poo and wee. In fact, much of the food we digest leaves through the lungs. Eating and breathing work together in every cell.",
+   "evidence": "In the Limewater Test, the glass with your breath turned milky within a minute, and the glass with room air stayed almost clear. Breathed-out air has about 100 times as much carbon dioxide as room air. In 2014, two scientists worked out that most of the fat a person loses leaves through the lungs, as carbon dioxide."
   },
   "three": {
    "who_am_i": "You are millions of millions of cells, and almost every one uses oxygen to get energy from food. The tiny parts that do this were once free-living bacteria.",

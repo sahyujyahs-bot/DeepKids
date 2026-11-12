@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Cut 20 small strips from a newspaper and 20 from plain paper. Scatter them all over an open newspaper on the floor. Now pick up as many as you can in 20 seconds, one at a time. Which ones did you miss?",
-  "text": "A bird hunting insects on a tree faces this test every day. So do the insects, who stay alive only if the bird misses them. In this unit you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.",
+  "text": "Picking small strips off a newspaper is like what a bird does every day when she hunts insects on a tree. The insects stay alive only if the bird misses them. In this unit you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.",
   "art": "A child kneeling over a newspaper spread on a floor, quickly picking up small white paper strips, while strips cut from newspaper lie unnoticed all around her hand."
  },
  "outcomes": [
@@ -66,7 +66,7 @@
   {
    "term": "Graze",
    "meaning": "To graze is to eat grass or other low plants, bite after bite, while moving slowly along.",
-   "example": "Buffaloes grazing on the bank of a canal near Thanjavur.",
+   "example": "Buffaloes eating grass on the bank of a canal near Thanjavur are grazing.",
    "art": "Two water buffaloes with their heads down, grazing on a green canal bank."
   },
   {
@@ -89,7 +89,7 @@
   },
   {
    "term": "Countershading",
-   "meaning": "Countershading means being darker on the back and paler on the belly. Light from above makes the back bright and leaves the belly in shadow, so the two even out and the body looks flat.",
+   "meaning": "Countershading means being darker on the back and paler on the belly. Light from above brightens the back and leaves the belly in shadow. The dark back and pale belly even this out, so the body looks flat and is harder to see.",
    "example": "A mackerel, called bangda in many Indian markets, is dark blue on top and silvery white underneath.",
    "art": "A mackerel fish seen from the side, dark blue-green back and silver-white belly."
   },
@@ -173,7 +173,7 @@
    "concept": "Camouflage: a match between a body and a place",
    "status": "defined",
    "definition": "Camouflage is colour, pattern or shape that makes a body hard to see in the place where they are.",
-   "description": "Camouflage works only against the right background. A green leaf insect is hidden among green leaves, but easy to see on a white wall. That is what your paper strips showed. Many camouflaged animals also choose where to rest. Some moths land on bark, then walk and turn until their pattern lines up with the cracks in the bark. A team of scientists in South Korea filmed this in 2012. Stripes and spots break up the outline of a body, so a hunter's eye cannot easily find the edge. Countershading, a dark back and a pale belly, evens out the shadow under the body.",
+   "description": "Camouflage works only against the right background. A green leaf insect is hidden among green leaves, but easy to see on a white wall. The Paper Caterpillars experiment shows the same thing: newspaper strips are hard to find on a newspaper, but easy to find on a plain sheet. Many camouflaged animals also choose where to rest. Some moths land on bark, then walk and turn until their pattern lines up with the cracks in the bark. A team of scientists in South Korea filmed this in 2012. Stripes and spots break up the outline of a body, so a hunter's eye cannot easily find the edge. Countershading, a dark back and a pale belly, evens out the shadow under the body.",
    "examples": [
     "Oakleaf butterflies in India's forests look like a dry leaf when their wings are closed, with a line like the middle vein of a leaf.",
     "Ghost crabs on the beaches of Chennai and Puri are the colour of sand, and dash into their burrows when something comes near.",
@@ -181,7 +181,7 @@
    ],
    "perspectives": [],
    "art": "A grey moth on a tree trunk, half-hidden, next to the same moth on a white wall, where she is easy to see.",
-   "context": "This card explains camouflage, which you tested with paper caterpillars. Hiding depends on the place as well as the body."
+   "context": "This card explains camouflage, which you test in the Paper Caterpillars experiment. Hiding depends on the place as well as the body."
   },
   {
    "concept": "What does a deer see when a tiger is near?",
@@ -199,7 +199,7 @@
    "concept": "Staying alive: watch, keep still, run and stay together",
    "status": "defined",
    "definition": "Prey animals stay alive by noticing danger early, keeping still, running away, living in groups, and carrying protection such as shells or spines.",
-   "description": "Many hunters notice movement first. So a prey animal who keeps still is harder to spot, as you found when the moving strip was seen first. Living in a group helps too. A herd or flock has many eyes, so someone spots the predator sooner, and each animal can spend more time eating. An alarm call warns everyone. Chital deer and langur monkeys listen to each other's alarm calls. Langurs sitting high in trees can see a tiger or leopard from far away, and chital have a sharp sense of smell. Some animals carry protection. A tortoise pulls into her shell, an Indian pangolin rolls into a ball of hard scales, and a porcupine raises and rattles sharp quills.",
+   "description": "Many hunters notice movement first. So a prey animal who keeps still is harder to spot. The Still or Moving experiment shows this: a wriggling paper strip is spotted much sooner than a still one. Living in a group helps too. A herd or flock has many eyes, so someone spots the predator sooner, and each animal can spend more time eating. An alarm call warns everyone. Chital deer and langur monkeys listen to each other's alarm calls. Langurs sitting high in trees can see a tiger or leopard from far away, and chital have a sharp sense of smell. Some animals carry protection. A tortoise pulls into her shell, an Indian pangolin rolls into a ball of hard scales, and a porcupine raises and rattles sharp quills.",
    "examples": [
     "In a study in England, a trained hawk caught fewer pigeons from big flocks than from small ones, because big flocks noticed the hawk and flew off sooner.",
     "A chital who senses danger stamps a front foot, gives a sharp alarm call and raises her tail to show its white underside.",
@@ -251,7 +251,7 @@
   },
   {
    "text": "Camouflage helps prey survive.",
-   "evidence": "In experiments, wild birds were given paper or pastry 'insects' of different colours. They ate fewer of the ones that matched the background, just as in your paper caterpillar test."
+   "evidence": "In experiments, wild birds were given paper or pastry 'insects' of different colours. They ate fewer of the ones that matched the background. The Paper Caterpillars experiment shows the same thing with paper strips on a newspaper."
   },
   {
    "text": "Grass and leaves give less energy in each mouthful than meat does, so plant eaters spend more of their day eating.",
@@ -310,9 +310,9 @@
  ],
  "big_questions": [
   {
-   "q": "Your newspaper strips were hidden on newspaper, but easy to see on the plain sheet. Is being hidden something the strip has, or something that happens between the strip and the place?",
+   "q": "In the Paper Caterpillars experiment, the newspaper strips were hard to find on the newspaper, but easy to see on the plain sheet. Is being hidden something the strip has, or something that happens between the strip and the place?",
    "kind": "deep",
-   "hint": "Did anything about the strip change between the two tests?"
+   "hint": "Did anything about the strip change when it moved from the newspaper to the plain sheet?"
   },
   {
    "q": "A deer may see a tiger's orange coat as green. Which is the real colour of the tiger: the one we see, or the one the deer sees?",
@@ -322,12 +322,12 @@
   {
    "q": "Why does keeping still make an animal so much harder to see?",
    "kind": "deep",
-   "hint": "Remember the Still or Moving test. What did your eyes notice first?"
+   "hint": "Think of the Still or Moving experiment, where one paper strip kept still and one wriggled. Which did your eyes notice first?"
   },
   {
    "q": "Every eater is also food for someone. When a tiger dies, her body feeds vultures, beetles and the soil. Is anyone only an eater and never food?",
    "kind": "big",
-   "hint": "Follow the food of the soil, the grass and the deer. Where does it go next?"
+   "hint": "The soil feeds the grass, and the grass feeds the deer. Who does the deer feed? And who feeds the soil?"
   },
   {
    "q": "Is it wrong for a tiger to hunt a deer? Is it wrong to feel sad for the deer?",
@@ -346,7 +346,7 @@
   "read_aloud": true,
   "note": "Bandipur Tiger Reserve in Karnataka, chital, grey langurs, jungle nightjars, house geckos and the way chital and langurs listen to each other's alarm calls are all real. Meenakshi, Arun, Lakshmi and this morning are made up.",
   "text": [
-   "Meenakshi had waited all year for this. Her aunt, Lakshmi Chikkamma, was a forest watcher in Bandipur, in Karnataka. This summer, Meenakshi and her cousin Arun were allowed to ride with her on the morning round.",
+   "Meenakshi had waited all year for this summer. Her aunt, Lakshmi Chikkamma, was a forest watcher in Bandipur, in Karnataka. This summer, Meenakshi and her cousin Arun were allowed to ride with her on the morning round.",
    "Arun was eleven. He had watched a hundred wildlife films on his tablet in Bengaluru, and he told everyone so. 'I know everything about tigers,' he said, as the jeep bumped along the red mud track. 'They are the best hunters in the world. They catch whatever they want.'",
    "Lakshmi Chikkamma smiled and said nothing. She stopped the jeep, pointed at the track just ahead of the front wheel, and whispered, 'Tell me what you see.'",
    "Arun looked. 'Dry leaves. Mud. Some stones.'",
@@ -371,7 +371,7 @@
    "On the way back they passed the nightjar again, still as a leaf. This time Arun saw her first. 'I looked for the eye,' he said proudly. 'Meenakshi taught me.'",
    "That night, at the forest quarters, a house gecko sat very still on the wall beside the tube light. A moth fluttered close. The gecko waited, and waited, and then darted. Meenakshi laughed. 'Look, Arun,' she said. 'A tiny tiger. She hunts by waiting too.'"
   ],
-  "epiphany": "For the parent: the nightjar and the tiger were both hidden by camouflage, because their colours and patterns matched the dry leaves and grass where they lay. Meenakshi found them by looking for what did not match: a shiny eye, a stripe curving the wrong way, an ear that moved. The chital graze for most of the day because grass gives little energy, so they eat in a herd, where many eyes keep watch, and they feed near langurs, who see far from the treetops. Once the alarm calls showed the tiger that she had been seen, her ambush could no longer work, so she gave up rather than waste energy on a chase. Most hunts fail, and the hunter and the hunted both depend on the other to stay as they are.",
+  "epiphany": "For the parent: the nightjar and the tiger were both hidden by camouflage, because their colours and patterns matched the dry leaves and grass where they lay. Meenakshi found them by looking for what did not match: a shiny eye, a stripe curving the wrong way, an ear that moved. The chital graze for most of the day because grass gives little energy, so they eat in a herd, where many eyes keep watch, and they feed near langurs, who see far from the treetops. Once the alarm calls showed the tiger that she had been seen, her ambush could no longer work, so she gave up rather than waste energy on a chase. Most hunts fail. Tigers need deer to eat, but if tigers caught every deer, there would soon be no deer, and then no tigers either.",
   "ask": [
    "How did the nightjar stay safe without a nest?",
    "What trick did Meenakshi use to find the nightjar and the tiger?",
@@ -397,7 +397,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about how animals get food and stay safe. You sort 20 animal cards into four piles and check the backs.",
+   "context": "This is a card game about how animals get food and stay safe. You sort 20 animal cards into four piles, and turn each card over to check the answer on the back.",
    "printables": [
     {
      "kind": "cards",
@@ -576,7 +576,7 @@
     "Cut out the 20 animal cards and the 4 pile labels. Lay the 4 labels in a row on the floor.",
     "Shuffle the animal cards and put them face down in a pile.",
     "On your turn, take the top card and read it out loud. Put it on the pile you think is right, and say why.",
-    "Turn the card over to check. If you were right, keep the card as a point. If not, put the card at the bottom of the pile to come back later.",
+    "Turn the card over to check. If you were right, keep the card as a point. If not, put the card at the bottom of the face-down pile, so that it comes up again later.",
     "Playing alone? Read each card, choose a pile, then turn it over to check.",
     "The game ends when every card has been won. The player with the most cards wins."
    ],
@@ -691,7 +691,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Play three rounds. After each round, write each deer's grass and whether they were caught.",
+     "do": "Play three rounds. After each round, write how many strips of grass each deer collected, and whether they were caught.",
      "say": "Tiger, face the wall. Deer, go! Remember to freeze.",
      "kid": "Go! Pick up grass. Freeze when the tiger turns. Don't wobble!",
      "parent": "As the tiger, turn round at uneven times. Sometimes quickly, sometimes after a long wait. That is what makes freezing hard."
@@ -832,7 +832,7 @@
      "id": "s5",
      "mins": 5,
      "do": "1. Take away the newspaper and spread the plain sheet on the floor. 2. Ask for a new guess and a reason. 3. Scatter all 40 strips on it while the hunter's eyes are closed. 4. Hunt for 20 seconds, 3 rounds, as before. 5. Write the numbers each time.",
-     "say": "The caterpillars have landed somewhere new. Which kind will you catch more of now? Why?",
+     "say": "Now the caterpillars are on a plain sheet, not a newspaper. Which kind will you catch more of now? Why?",
      "kid": "Now hunt on the plain sheet. Guess first. Which kind will you catch more now? Why? Hunt 3 times. Write the numbers.",
      "ask": [
       {
@@ -849,7 +849,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "Any honest answer with all three parts is good. A strong answer sounds like this. What I think: prey that match the background are harder for a hunter to find. What I saw: on the newspaper I caught about 15 plain strips and only 3 newspaper strips. On the plain sheet it was the other way round. Why: the newspaper strips matched the newspaper, so my eyes missed them. On the plain sheet they did not match, so they stood out."
     }
    ],
@@ -957,7 +957,7 @@
        "Both took the same time"
       ],
       "a": 0,
-      "why": "Eyes are very quick to notice movement, even when the colour matches. That is why many prey animals freeze when danger is near. If your still strip was faster, check the strip had not landed on a white gap in the newspaper."
+      "why": "Eyes are very quick to notice movement, even when the colour matches. That is why many prey animals freeze when danger is near. If you spotted the still strip faster, check that the strip had not landed on a white gap in the newspaper."
      }
     },
     {
@@ -965,7 +965,7 @@
      "mins": 4,
      "do": "Ask your child for three short sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A strong answer sounds like this. What I think: moving gives hidden prey away. What I saw: the still strip took me 12, 9 and 15 seconds to find, but the wriggling one took only 2, 1 and 3 seconds. Why: my eyes noticed the movement straight away, even though the colour matched."
     }
    ],
@@ -1160,7 +1160,7 @@
      "do": "Ask your child to say what they saw and why, in two or three sentences.",
      "say": "Tell me what you saw. Why do you think so many fish and deer have pale bellies?",
      "kid": "Say what you saw. Why do fish and deer have pale bellies?",
-     "parent": "The difference is real but gentle. It is clearest with one light directly above and the room otherwise dim. A good answer: the white tube had a dark shadow underneath, so it looked round. The shaded tube looked flatter, because its dark top and pale bottom evened out the light."
+     "parent": "The difference is real but small. It is clearest with one light directly above and the room otherwise dim. A good answer: the white tube had a dark shadow underneath, so it looked round. The shaded tube looked flatter, because its dark top and pale bottom evened out the light."
     }
    ],
    "setup": [
@@ -1304,14 +1304,14 @@
      "do": "1. Fill the bowl with dry rava, about 4 cm deep. 2. With the spoon, scoop rava out of the middle and flick it over the side. 3. Keep scooping until you have a cone-shaped pit with steep, loose sides.",
      "say": "An antlion is the young of a winged insect. They dig a pit in dry sand by flicking it out, just like this.",
      "kid": "Fill the bowl with rava. Scoop rava out of the middle. Flick it away. Make a pit like a cone.",
-     "parent": "The sides settle at their steepest, which makes them slide easily. Rava gives a neat pit. Sand works too, but it must be completely dry.",
+     "parent": "Loose rava settles into sides that are as steep as they can be, so the smallest push makes them slide. Rava gives a neat pit. Sand works too, but it must be completely dry.",
      "context": "This is the first step of the Antlion's Trap. You dig a cone-shaped pit like an antlion's."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Put a rice grain 'ant' near the top edge of the pit. 2. Nudge it gently towards the middle with a fingertip. 3. Watch the rava slide and carry the grain down.",
-     "say": "Here comes an ant, walking along. Let's see what happens at the edge.",
+     "say": "This rice grain is an ant, walking along. Let's see what happens at the edge of the pit.",
      "kid": "Put a rice grain at the edge. Push it gently to the middle. Where does the grain end up?",
      "ask": [
       {
@@ -1373,7 +1373,7 @@
      "what": "If you can see birds feeding, count how often one bird looks up in a minute. Do it for a bird in a big group and a bird alone or in a small group."
     }
    ],
-   "record": "Write the number of head-ups in one minute, and how many birds were in the group.",
+   "record": "Write how many times the bird looked up in one minute, and how many birds were in the group.",
    "context": "In this activity you watch birds feeding, if you can see some, and count how often they stop to look for danger.",
    "flow": [
     {
@@ -1395,7 +1395,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Now pick a bird who is feeding alone or with only one or two others. 2. Count their head-ups for one minute. 3. Compare the two numbers.",
+     "do": "1. Now pick a bird who is feeding alone or with only one or two others. 2. Count how many times they lift their head in one minute. 3. Compare the two numbers.",
      "say": "Now a bird with fewer friends. Who looks up more?",
      "kid": "Now pick a bird who is alone, or nearly alone. Count again. Who looked up more?",
      "ask": [
@@ -1617,7 +1617,7 @@
    "youtube": "hUrFgiDiLF0",
    "mins": 4,
    "why": "Seeing real camouflaged animals, and then seeing them move, shows how well hiding works and how movement gives it away.",
-   "check": "Not yet watched by a person: watch it first."
+   "check": "No person has checked this video yet. Watch it yourself first, before your child does."
   },
   {
    "title": "How The Archerfish Guns Down Spiders With Spit",
@@ -1625,7 +1625,7 @@
    "youtube": "jEojXgR_kP0",
    "mins": 3,
    "why": "A surprising way to hunt: a fish who knocks insects off leaves with a jet of water.",
-   "check": "Not yet watched by a person: watch it first."
+   "check": "No person has checked this video yet. Watch it yourself first, before your child does."
   },
   {
    "title": "Tiger Enters the Scene | Spotted Deer Alert Call Caught on Camera | Raw Jungle Moment",
@@ -1633,7 +1633,7 @@
    "youtube": "1pIJzXvBhaQ",
    "mins": 5,
    "why": "Shows an ambush in real life: how close a tiger must creep, how chital and langurs give alarm calls, and how often a hunt fails.",
-   "check": "Not yet watched by a person: watch it first."
+   "check": "No person has checked this video yet. Watch it yourself first, before your child does."
   }
  ],
  "quiz": [
@@ -1705,7 +1705,7 @@
   },
   {
    "t": "mcq",
-   "p": "The same newspaper strips were moved onto a plain white sheet. What happened?",
+   "p": "Newspaper strips were hard to find on a newspaper. Then the same strips were moved onto a plain white sheet. What happened?",
    "opts": [
     "They became easy to find",
     "They stayed just as hidden",
@@ -1818,7 +1818,7 @@
     },
     {
      "t": "mcq",
-     "p": "Leela, a girl in Class 3 in Kochi, sees a pond heron stand still at the edge of a pond for a long time. Then the heron stabs the water. How is the heron hunting?",
+     "p": "A pond heron stands still at the edge of a pond for a long time. Then the heron stabs the water. How is the heron hunting?",
      "opts": [
       "By chasing",
       "By ambush: waiting still, then striking",
@@ -1842,7 +1842,7 @@
      "a": [
       "camouflage"
      ],
-     "why": "Camouflage is a match between a body and the place. The newspaper strips were camouflaged on the newspaper."
+     "why": "Camouflage is a match between a body and the place. In the Paper Caterpillars test, the newspaper strips were camouflaged on the newspaper."
     },
     {
      "t": "match",
@@ -2167,7 +2167,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Graze or Hunt race, one rajma bean weighed about as much as 20 rice grains. Priya picked 30 rice grains and found 2 beans. Which gave her more food?",
+     "p": "In the Graze or Hunt race, one rajma bean weighs about as much as 20 rice grains. You pick 30 rice grains and find 2 beans. Which gives you more food?",
      "opts": [
       "The 2 beans, which weigh about as much as 40 rice grains",
       "The 30 rice grains",
@@ -2282,7 +2282,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sunlight comes from above, so the top of a caterpillar is lit and its belly is in shadow. Pastry caterpillars are put on branches for wild birds to find. Which will the birds eat least?",
+     "p": "Sunlight comes from above, so the top of a caterpillar is lit and the belly is in shadow. Pastry caterpillars are put on branches for wild birds to find. Which will the birds eat least?",
      "opts": [
       "Ones darker on top and paler below",
       "Ones paler on top and darker below",
@@ -2312,7 +2312,7 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake. Arjun says, 'Camouflage is a colour. If you paint a strip green, it is camouflaged.' What is wrong with his idea? Use your test results.",
+     "p": "Find the mistake. Someone says, 'Camouflage is a colour. If you paint a strip green, it is camouflaged.' What is wrong with this idea? Use your results from the Paper Caterpillars test.",
      "lines": 4,
      "a": "Camouflage is a match between a body and a place, not a colour. In my test, the newspaper strips were hidden on the newspaper but easy to see on the plain sheet. A green strip would be hidden on green leaves but not on a white floor.",
      "why": "A strong answer uses the evidence that the same strip was hidden in one place and seen in another.",
@@ -2414,11 +2414,11 @@
     },
     {
      "t": "mcq",
-     "p": "In the Still or Moving test, Revathi spotted the still strip after 14, 10 and 12 seconds, and the wriggling strip after 2, 1 and 3 seconds. What is the best conclusion?",
+     "p": "In the Still or Moving test, a hunter spotted the still strip after 14, 10 and 12 seconds, and the wriggling strip after 2, 1 and 3 seconds. What is the best conclusion?",
      "opts": [
       "Moving gave the strip away",
       "The wriggling strip was a different colour",
-      "Revathi got tired",
+      "The hunter got tired",
       "There is no pattern"
      ],
      "a": 0,
@@ -2436,7 +2436,7 @@
   "Bird feeders with small holes let sparrows and sunbirds eat without bigger birds taking everything.",
   "Fishing nets work like a spider's web: a trap that catches food without chasing it.",
   "Studying how cows and goats graze helps farmers decide how many animals a field can feed.",
-  "Scientists copy countershading and disruptive patterns when they design things that should be hard to see."
+  "Scientists copy countershading, and patterns that break up an outline, when they design things that should be hard to see."
  ],
  "spotted": [
   {
@@ -2548,11 +2548,11 @@
  ],
  "maths": [
   {
-   "problem": "In the Paper Caterpillars test on the newspaper, Nandini caught 15 plain strips and only 3 newspaper strips. How many times as many plain strips did she catch?",
+   "problem": "In the Paper Caterpillars test on the newspaper, a hunter caught 15 plain strips and only 3 newspaper strips. How many times as many plain strips did the hunter catch?",
    "answer": "5 times as many.",
-   "explain": "She caught 15 plain strips and 3 newspaper strips. 15 divided by 3 is 5. So she caught 5 times as many plain strips. Check: 3 + 3 + 3 + 3 + 3 = 15.",
+   "explain": "The hunter caught 15 plain strips and 3 newspaper strips. 15 divided by 3 is 5. So the hunter caught 5 times as many plain strips. Check: 3 + 3 + 3 + 3 + 3 = 15.",
    "math_unit": "math.division.sharing-and-grouping.L3",
-   "why_maths": "Saying '5 times as many' shows how much better the camouflaged strips survived, far more clearly than 'more'.",
+   "why_maths": "Saying '5 times as many' tells you how big the difference was. Just saying 'more' does not.",
    "context": "This is about the Paper Caterpillars test, where you hunted paper strips on a newspaper for 20 seconds.",
    "how": "e1",
    "chart": {
@@ -2575,7 +2575,7 @@
    }
   },
   {
-   "problem": "In the Still or Moving test, Revathi took 12, 9 and 15 seconds to spot the still strip, and 2, 1 and 3 seconds to spot the wriggling strip. How much longer did the still strip take in all?",
+   "problem": "In the Still or Moving test, a hunter took 12, 9 and 15 seconds to spot the still strip, and 2, 1 and 3 seconds to spot the wriggling strip. How much longer did the still strip take in all?",
    "answer": "30 seconds longer.",
    "explain": "Still: 12 + 9 + 15 = 36 seconds. Wriggling: 2 + 1 + 3 = 6 seconds. 36 − 6 = 30. So the still strip took 30 seconds longer to find in all.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2607,12 +2607,12 @@
    "explain": "22 chital × 2 eyes = 44 eyes. 6 langurs × 2 eyes = 12 eyes. 44 + 12 = 56 eyes. A chital alone has only her own 2 eyes, so the herd has 28 times as many eyes watching.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "why_maths": "Counting the eyes shows in numbers why living in a group helps prey notice danger sooner.",
-   "context": "This is about why deer graze in herds. In the story, Arun counted the eyes in the herd."
+   "context": "This is about why deer graze in herds. In the story The Bird on the Jeep Track, Arun counted the eyes of the deer in the herd."
   },
   {
-   "problem": "In the Graze or Hunt race, Asha picked 40 rice grains. Ravi found 3 rajma beans. One rajma bean weighs about as much as 20 rice grains. Who collected more food?",
-   "answer": "Ravi, with about 60 grains' worth.",
-   "explain": "3 beans × 20 = about 60 rice grains' worth. Asha had 40 grains. 60 is more than 40, so Ravi collected more food, even though he picked up far fewer things.",
+   "problem": "In the Graze or Hunt race, one player picked 40 rice grains. Another player found 3 rajma beans. One rajma bean weighs about as much as 20 rice grains. Who collected more food?",
+   "answer": "The player with the 3 beans, with about 60 grains' worth.",
+   "explain": "3 beans × 20 = about 60 rice grains' worth. The other player had 40 grains. 60 is more than 40, so the player with the beans collected more food, even though they picked up far fewer things.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "why_maths": "Counting pieces alone is misleading. Multiplying by the weight of each piece shows how much food there really was.",
    "context": "This is about the Graze or Hunt race, where you picked rice like a grazer and hunted for hidden beans like a hunter.",
@@ -2805,7 +2805,7 @@
  "roots": {
   "context": "We have learned how animals find food, and how prey stay alive by watching, keeping still and hiding. Now we ask what hunting and hiding tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your newspaper strips were hard to find on newspaper, but easy to find on the plain sheet. The strips stayed exactly the same, and only the place under them changed. So hiding is a match between a body and a place. A moth hidden on bark is seen at once on a white wall.",
+   "truth": "In the Paper Caterpillars test, newspaper strips were hard to find on newspaper but easy to find on plain paper. The strips stayed exactly the same, and only the place under them changed. So hiding is a match between a body and a place. A moth hidden on bark is seen at once on a white wall.",
    "habit": "We say an animal 'is camouflaged', as if hiding were a part of their body, like their legs. But the same body is hidden in one place and seen in another. Hiding belongs to the body and the place together, and to the eyes that look.",
    "evidence": "In the Paper Caterpillars test, the hunter missed most newspaper strips on the newspaper, then caught most of them on the plain sheet. Nothing about the strips changed. Only the background did."
   },
@@ -2814,7 +2814,7 @@
    "what_is_life": "Every living being needs food, and most animals must also avoid becoming food. Hunter and hunted each stay alive by noticing the other.",
    "what_is_this_world": "In this world, how a thing looks depends on where it is and who is looking. A tiger we call orange may look green to a deer."
   },
-  "thread": "Sunlight feeds the grass, the grass feeds the chital, and the chital feed the tiger. Over millions of years, the tiger's stripes and quiet paws were shaped by the deer's sharp eyes and ears. The deer's watchfulness was shaped by the tiger. Neither can be understood alone. One flow of sunlight and life runs through many bodies, and each body is shaped by meeting the others.",
+  "thread": "Sunlight feeds the grass, the grass feeds the chital, and the chital feed the tiger. Over millions of years, the tiger's stripes and quiet paws were shaped by the deer's sharp eyes and ears. The deer's watchfulness was shaped by the tiger. So you cannot explain a tiger without the deer, or a deer without the tiger. The same energy from sunlight passes from the grass to the deer to the tiger, and each animal's body was shaped by the others.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.10.6",
@@ -2829,7 +2829,7 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
     "teaching": "Whatever comes into being by depending on other things has no being of its own, apart from them.",
-    "link": "Being hidden comes into being only from a body, a place and the eyes looking, all together. Take away any one of them, and the hiding is gone."
+    "link": "Being hidden is like this. It needs a body, a place and eyes that look, all together. Take away any one of them, and the hiding is gone."
    }
   ],
   "science": [
@@ -2856,7 +2856,7 @@
    "When a moth rests on the wrong wall, is she still camouflaged?",
    "A deer may see a tiger's orange as green. Whose colour is the true one?",
    "The chital eat, and are eaten. Is anyone in the forest only an eater, and never food?",
-   "When you freeze in a game of statues, what are you hiding from: the eyes, or the movement?"
+   "When you freeze in a game of statues, what are you hiding: your body, or your movement?"
   ],
   "art": "A pond heron standing still in a paddy field at dawn, a grey moth half-hidden on a tree trunk at the edge of the field, and faint shapes of a chital and a tiger reflected in the water."
  },
