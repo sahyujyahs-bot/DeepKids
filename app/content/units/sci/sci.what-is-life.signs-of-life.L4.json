@@ -121,7 +121,7 @@
   {
    "term": "Combustion",
    "meaning": "Burning. Fuel joins with oxygen from the air and gives out heat and light.",
-   "example": "A candle flame is combustion of wax gas.",
+   "example": "A candle flame is wax gas burning.",
    "art": "A candle flame with arrows for wax gas coming in and air coming in, and heat and light going out."
   }
  ],
@@ -143,17 +143,17 @@
    "concept": "Why one sign of life is never enough: fire",
    "status": "defined",
    "definition": "Combustion is burning. Fuel joins with oxygen and gives out heat and light.",
-   "description": "A candle flame does many of the things on the list of life. It takes in fuel, which is wax gas. It takes in air. It gives out heat, light, carbon dioxide and water. It grows when you add more wick. It moves, and it spreads to a new wick or a dry leaf. It even goes out when it runs out of food or air. Yet a flame is not alive. A flame is a place where fuel is joining with oxygen, a burning that is happening right now. Nothing in a flame is built, kept or mended. If you blow it out, nothing is left that could start again. A flame is only as old as its fuel.",
+   "description": "A candle flame does many of the things on the list of life. It takes in fuel, which is wax gas. It takes in air. It gives out heat, light, carbon dioxide and water. It grows when you add more wick. It moves, and it spreads to a new wick or a dry leaf. It even goes out when it runs out of fuel or air. Yet a flame is not alive. A flame is a place where fuel is joining with oxygen, a burning that is happening right now. Nothing in a flame is built, kept or mended. If you blow it out, nothing is left that could start again. A flame lasts only as long as its fuel.",
    "examples": [
-    "A forest fire eats, breathes, grows and travels far.",
+    "A forest fire uses up fuel and air, grows and travels far, and it is not alive.",
     "A diya flame needs oil and a wick, and goes out under a katori.",
-    "A flame can light a second wick, but both flames are made of the same burning, with no instructions passed on."
+    "A flame can light a second wick, but the second flame is only the same burning in a new place. No instructions are passed on."
    ],
    "art": "A candle flame with arrows for wax gas and air going in, and heat, light and smoke going out.",
    "perspectives": []
   },
   {
-   "concept": "Crystals grow by adding more of the same, living things grow by turning other things into themselves",
+   "concept": "Crystals grow by adding more of the same. Living things grow by turning other things into themselves",
    "status": "defined",
    "definition": "Metabolism is all the chemical changes in a living body that turn food into energy and into new body parts.",
    "description": "Put a grain of salt in strong salt water and it grows. Break the crystal and each piece grows too. A crystal can even copy its pattern. Each new layer is laid down just like the one below it. But look at what the crystal is doing. It only adds more salt that was already in the water. Nothing is changed into salt. A bean sprout is different. A bean sprout is made of sugar, water, air and a little soil. None of these is a bean sprout. The sprout takes them in and changes them into new roots and leaves. This turning of other stuff into your own body is called metabolism. A crystal stacks. A living thing builds.",
@@ -169,7 +169,7 @@
    "concept": "Staying different: a living body works to stay unlike its surroundings",
    "status": "defined",
    "definition": "Homeostasis is a living body keeping something steady, such as its warmth, even when the outside changes.",
-   "description": "Warm water in a tumbler cools down until it is as warm as the room. Then it stays that way. Left alone, everything drifts to match its surroundings. A living body does not. Your body stays near 37 degrees Celsius whether the room is warm or cool. It does this by burning food, by shivering, by sweating and by moving blood around. Inside every cell there is also a different amount of salt, sugar and water from outside the cell. A living thing is a place where the inside is kept unlike the outside. This is called homeostasis. It takes energy every second. When a living thing dies, the work stops and the inside slowly becomes the same as the outside.",
+   "description": "Warm water in a tumbler cools down until it is as warm as the room. Then it stays that way. Left alone, everything drifts to match its surroundings. A living body does not. Your body stays near 37 degrees Celsius whether the room is warm or cool. It does this by burning food, by shivering, by sweating and by moving blood around. The amounts of salt, sugar and water inside every cell are also different from the amounts outside the cell. A living thing keeps its inside unlike the outside. This is called homeostasis. It takes energy every second. When a living thing dies, the work stops and the inside slowly becomes the same as the outside.",
    "examples": [
     "Your body stays near 37 degrees Celsius in a 28-degree room.",
     "A fish keeps the salt in her blood at a steady level in river water.",
@@ -184,18 +184,18 @@
    "definition": "A cell membrane is the thin skin around a cell that controls what goes in and what stays out.",
    "description": "Every living cell has a thin skin around it, called the cell membrane. This skin is made of fat and protein. It works like a careful door. It lets some things in and out and keeps other things inside. In a beetroot cell, the red pigment is kept inside a bag in the cell. The membranes keep it there. Cold or room-temperature water does not hurt the membranes much, so a whole beetroot stays red inside and the water around it stays clear. Heat shakes the fat and protein of the skin out of their places. Holes open and the pigment leaks out. That is why boiled beetroot turns the cooking water red. A cell with a broken skin can no longer keep its inside different from the outside.",
    "examples": [
-    "Beetroot cubes in cold water stay in their colour, but cubes in very hot water turn the water red.",
-    "A boiled potato slice no longer keeps the water balance of a fresh slice.",
-    "Bacteria in curd are each wrapped in a skin that keeps their chemistry together."
+    "Beetroot cubes in cold water keep their colour, but cubes in very hot water turn the water red.",
+    "A boiled potato slice can no longer control how much water is inside its cells, as a fresh slice can.",
+    "Each bacterium in curd has a skin around her that keeps her chemicals inside."
    ],
    "art": "Two beetroot cells drawn side by side. The left one has a whole skin and red dots inside. The right one has a torn skin and red dots leaking out.",
    "perspectives": []
   },
   {
-   "concept": "Exceptions that are alive: mules, worker bees and the sleepers",
+   "concept": "Living things that fail the tests: mules, worker bees and dry seeds",
    "status": "defined",
    "definition": "Sterile means not able to have young.",
-   "description": "Many people say that living things make young. But a mule almost never does, because the chromosomes from a horse mother and a donkey father do not pair up neatly. A worker honeybee almost never lays eggs either. The queen does that for the whole hive. Yet mules and worker bees are alive. So the test 'makes young' belongs to a kind of living thing across many generations, and not to each single body. Another exception is the sleeper. A dry seed, or a tiny animal dried to dust, may show no sign of life for years. Neither is dead. Each is dormant, alive but resting. So some tests have to be about what a living thing can do, and not what she is doing right now.",
+   "description": "Many people say that living things make young. But a mule almost never does. Her chromosomes, which carry the body's instructions, come from a horse mother and a donkey father, and they do not pair up neatly. A worker honeybee almost never lays eggs either. The queen does that for the whole hive. Yet mules and worker bees are alive. So the test 'makes young' is true of a whole kind of living thing over many generations. It is not true of every single body. Another exception is a living thing that is resting, which we can call a sleeper. A dry seed, or a tiny animal dried to dust, may show no sign of life for years. Neither is dead. Each is dormant, alive but resting. So some tests have to be about what a living thing can do, and not what she is doing right now.",
    "examples": [
     "A mule works hard on a farm and is alive, though she is almost always sterile.",
     "A worker bee flies, feeds the young and builds the comb, and does not lay eggs.",
@@ -208,7 +208,7 @@
    "concept": "Seeds and animals that wait: how long can life pause?",
    "status": "defined",
    "definition": "Dormant means alive but resting, with almost nothing going on.",
-   "description": "Some living things can pause their life. A seed dries out until almost nothing is going on inside. This is called dormancy. How long can it last? Most kitchen seeds are best within a couple of years. But a date palm seed found at Masada in Israel, about 2,000 years old, was sprouted by Elaine Solowey in 2005 and grew into a tree. In 2012, Svetlana Yashina's team in Russia grew whole plants of a flower called Silene from fruit tissue that had been frozen in Siberian ice for about 32,000 years. Tiny animals called tardigrades can dry up and wait, and one frozen for over 30 years woke up. Scientists call this deep pause cryptobiosis. The pause shows us that being alive is not the same as doing something right now.",
+   "description": "Some living things can pause their life. A seed dries out until almost nothing is going on inside. This is called dormancy. How long can it last? Most kitchen seeds sprout best within a couple of years. But a date palm seed found at Masada in Israel, about 2,000 years old, was sprouted by Elaine Solowey in 2005 and grew into a tree. In 2012, Svetlana Yashina's team in Russia grew whole plants of a flower called Silene from fruit tissue that had been frozen in Siberian ice for about 32,000 years. Tiny animals called tardigrades can dry up and wait, and one tardigrade who was frozen for over 30 years woke up. Scientists call this deep pause cryptobiosis. The pause shows us that being alive is not the same as doing something right now.",
    "examples": [
     "A sacred lotus seed from an old lake bed in China, about 1,300 years old, has sprouted.",
     "A tardigrade dries into a tiny barrel and wakes when water returns.",
@@ -220,7 +220,7 @@
   {
    "concept": "Scientists' working definitions of life",
    "status": "debated",
-   "description": "There is no agreed definition of life. Scientists have tried many. A group at NASA, in the 1990s, wrote: life is a self-sustaining chemical system capable of Darwinian evolution. This is useful for planning how to look for life on other worlds. In 2002, the American biochemist Daniel Koshland listed seven pillars of life: a program of instructions, improvisation when conditions change, compartments, energy, regeneration, adaptability and seclusion, which means keeping each chemical reaction apart from the others. Each of these definitions has a hard case that bends it. In the NASA one, a single mule is not able to evolve alone, so the definition has to be about the whole kind. In the pillars, a dormant seed is not using much energy. Scientists use these definitions as tools, not as the final answer.",
+   "description": "There is no agreed definition of life. Scientists have tried many. A group at NASA, in the 1990s, wrote: life is a self-sustaining chemical system capable of Darwinian evolution. In plain words, life is a set of chemicals that keeps itself going, and its kind can change over many generations. This is useful for planning how to look for life on other worlds. In 2002, the American biochemist Daniel Koshland listed seven pillars of life: a program of instructions, improvisation when conditions change, compartments, energy, regeneration, adaptability and seclusion, which means keeping each chemical reaction apart from the others. Each of these definitions has a hard case that does not fit. Take NASA's definition: one mule cannot evolve alone, so the definition has to be about the whole kind. Take the pillars: a dormant seed uses almost no energy. Scientists use these definitions as tools, not as the final answer.",
    "examples": [
     "NASA's definition has three parts: chemical, self-sustaining, and able to evolve by Darwin's rules.",
     "Koshland's seven pillars come from his work as a biochemist.",
@@ -230,11 +230,11 @@
    "perspectives": [
     {
      "who": "A NASA group in the 1990s",
-     "explanation": "Life is a self-sustaining chemical system capable of Darwinian evolution. The key point is that living things change over generations, so a kind of life can improve at surviving."
+     "explanation": "Life is a self-sustaining chemical system capable of Darwinian evolution. In plain words, life is a set of chemicals that keeps itself going, and its kind changes over many generations, so it can get better at surviving."
     },
     {
      "who": "Daniel Koshland, an American biochemist, 2002",
-     "explanation": "Life is seven things together: a program, improvisation, compartments, energy, regeneration, adaptability and seclusion. No one of them is enough, but a living thing shows them all."
+     "explanation": "Life is seven things together: a program of instructions, improvisation when conditions change, compartments, energy, regeneration, adaptability and seclusion, which means keeping each chemical reaction apart from the others. No single one is enough, but a living thing shows them all."
     },
     {
      "who": "Carol Cleland, an American philosopher of science",
@@ -245,7 +245,7 @@
   {
    "concept": "Viruses: alive, not alive, or something in between?",
    "status": "debated",
-   "description": "A virus is a package of instructions in a protein coat. By itself, a virus does not take in food, grow or use energy. Inside a living cell, though, the virus takes over the cell and uses her machinery to make thousands of copies. Those copies change a little, and the changes are passed on, so viruses evolve. In 1935, Wendell Stanley made crystals of a plant virus, and the crystals still made plants sick when they were dissolved again. In 2003, scientists found a giant virus called mimivirus, big enough to see through a good light microscope. Whether viruses are alive depends on which tests you choose, and scientists honestly disagree.",
+   "description": "A virus is a package of instructions in a protein coat. By itself, a virus does not take in food, grow or use energy. Inside a living cell, though, the virus takes over the cell and uses the cell's machinery to make thousands of copies. Those copies change a little, and the changes are passed on, so viruses evolve. In 1935, Wendell Stanley made crystals of a plant virus, and the crystals still made plants sick when they were dissolved again. In 2003, scientists found a giant virus called mimivirus, big enough to see through a good light microscope. Whether viruses are alive depends on which tests you choose, and scientists honestly disagree.",
    "examples": [
     "The virus that causes a cold makes copies inside the cells of a nose.",
     "A tobacco mosaic virus crystal can lie in a jar for years and still infect a leaf.",
@@ -270,7 +270,7 @@
   {
    "concept": "Could life be made of other things, and could we make it?",
    "status": "idea",
-   "description": "All the life we know uses carbon, water and cells, and passes instructions on in DNA or RNA. We have not yet found a second kind. Some scientists think that life on other worlds could use a different liquid, or a different material, and we need tests that would still work. In 2010, a team led by Craig Venter built a whole bacterial genome in a laboratory and put it into an empty bacterial cell, which then started to live and divide. In 2016, the same group built a very small cell with 473 genes and found that about 149 of those genes had no known job. So, even in the simplest known cell, scientists still do not know what everything does. Others make patterns in computers, such as the glider in John Conway's Game of Life, which moves and copies itself on a screen. Most scientists say these are models, not life. Nobody can yet say for sure.",
+   "description": "All the life we know uses carbon, water and cells, and passes instructions on in DNA or RNA. We have not yet found a second kind. Some scientists think that life on other worlds could use a different liquid, or a different material, so we need tests that would still work for that kind of life. In 2010, a team led by Craig Venter built a whole bacterial genome, the full set of instructions for a bacterium, in a laboratory. They put it into an empty bacterial cell, which then started to live and divide. In 2016, the same group built a very small cell with 473 genes and found that about 149 of those genes had no known job. So, even in the simplest known cell, scientists still do not know what everything does. Other scientists make patterns in computers, such as the glider in John Conway's Game of Life, which moves and copies itself on a screen. Most scientists say these are models, not life. Nobody can yet say for sure.",
    "examples": [
     "A cell with a lab-built genome has been made, but it was put inside a cell that already existed.",
     "The glider in the Game of Life is a pattern that moves across a grid, not a living thing.",
@@ -284,7 +284,7 @@
    "status": "debated",
    "description": "Put all these cases in a row: a rock, a crystal, a flame, a virus, a dry seed, a bacterium, an ant, a person. Each one has some of the traits of life and not others. A flame uses fuel, a crystal copies its pattern, a virus evolves, a dry seed waits, a bacterium builds and mends herself. No single trait separates the living things from the rest. Some philosophers say that this is like the word 'game'. There is no one thing that all games share, but we know games when we see them. Others say there is a real line, and that we have not yet found it. Both views are sensible, and the evidence we have does not settle it.",
    "examples": [
-    "No single trait is shared by all and only living things.",
+    "No single trait is found in every living thing and in nothing else.",
     "Scientists often use a bundle of traits at once.",
     "A hard case helps us find which trait matters most."
    ],
@@ -296,7 +296,7 @@
     },
     {
      "who": "Many biologists",
-     "explanation": "There is a real line, which is Darwinian evolution by cells or by something like cells. The edge cases are rare and can be handled one by one."
+     "explanation": "There is a real line. A thing is alive if it is made of cells, or of something like cells, and its kind evolves by Darwin's rules. The edge cases are rare and can be handled one by one."
     }
    ]
   }
@@ -330,7 +330,7 @@
  "challenging": [
   {
    "claim": "Fire is alive, because it eats, breathes, grows and spreads.",
-   "who": "Many children, and some of the oldest ideas. The Greek thinker Heraclitus, about 500 BCE, called the world an ever-living fire.",
+   "who": "Many children say this. The Greek thinker Heraclitus, about 500 BCE, called the world an ever-living fire.",
    "for": "A flame passes many tests: it uses fuel and air, it grows, it moves and it spreads.",
    "against": "A flame builds nothing and mends nothing. It cannot keep its own warmth steady, and its new flames pass on no instructions. If the fuel stops, the flame ends, with nothing left to start again.",
    "status": "rejected",
@@ -339,14 +339,14 @@
   {
    "claim": "A thing that cannot have young is not alive.",
    "who": "Many people who learned 'living things reproduce' as a rule.",
-   "for": "Making young is the way a kind of living thing goes on. Without it, a kind ends.",
+   "for": "Making young is the way a kind of living thing carries on. Without young, the kind ends.",
    "against": "A mule, a worker bee and an old tree that no longer flowers are all alive. The test is about a kind over many generations, not about each single body.",
    "status": "rejected",
    "context": "This card is about the common rule that living things make young, and a case that breaks it."
   },
   {
    "claim": "A thing that does nothing is dead.",
-   "who": "Many people, and any rule that depends only on what a body is doing right now.",
+   "who": "Many people. Any rule that looks only at what a body is doing right now says the same.",
    "for": "Signs of life such as moving, breathing and growing are things we can watch.",
    "against": "A dry seed, a dried tardigrade and a frozen bacterium do almost nothing and wake up again. What matters is what a body can still do.",
    "status": "rejected",
@@ -362,7 +362,7 @@
   },
   {
    "claim": "Life must be made of carbon and water, in cells.",
-   "who": "Many biologists, because every living thing we know is built this way. This is sometimes called carbon chauvinism.",
+   "who": "Many biologists, because every living thing we know is built this way. This view is sometimes called carbon chauvinism, which means favouring carbon only because it is what we know.",
    "for": "Carbon makes long, flexible chains, and water lets chemicals move and meet. All known life uses them.",
    "against": "We have only studied one example of life, which began once on Earth. Other worlds may have other chemistries, and a test built only for our kind might miss them.",
    "status": "debated",
@@ -379,9 +379,9 @@
  ],
  "big_questions": [
   {
-   "q": "Warm water cools to match the room, and you do not. If staying different from the room is the work of being alive, what is happening to a body when she dies?",
+   "q": "Warm water cools to match the room, but your body does not. Staying different from the room is the work of being alive. So what happens to a body when she dies?",
    "kind": "deep",
-   "hint": "Think about what you measured, and what stopped."
+   "hint": "In the Staying Warm test, the water cooled and your temperature stayed steady. Think about what stops when a body dies."
   },
   {
    "q": "A dry seed in a drawer shows no sign of life for a hundred years and then sprouts. Was the seed alive all that time, or is 'alive' something that only happens when a body is doing things?",
@@ -394,12 +394,12 @@
    "hint": "Think about which traits matter most to you, and why."
   },
   {
-   "q": "A bee sees a flower as a pattern of ultraviolet. A child sees it as a pink. Are they seeing the same flower differently, or two different flowers? Would a being from another world see us as alive?",
+   "q": "A bee sees a flower as a pattern of ultraviolet light. A child sees the same flower as pink. A being from another world might see us differently too. Would that being see us as alive?",
    "kind": "big",
    "hint": "Think about the tests another being might use, and what they would measure."
   },
   {
-   "q": "The water that turned the beetroot red was colourless a minute before. Where was the red before, and what kept it there?",
+   "q": "In the Beetroot Bleed test, the very hot water was clear at first and then turned red. Where was the red before, and what kept it there?",
    "kind": "deep",
    "hint": "Think about the skin around each cell."
   },
@@ -430,14 +430,14 @@
    "Selvi's grandmother, Aachi, had worked the pans for fifty years, and Aachi said salt was alive. 'It grows,' she said, sitting on an upturned basket with her feet in the warm brine. 'Drop one grain in a pan, and by the evening it is the size of a lentil. Break a lump in two, and each half grows on. Salt is the sea's child, and it has children of its own.'",
    "Selvi liked this. But at school that week her teacher had given her a list of the signs of life. Living things take in food. They grow. They make more of their own kind. 'Salt does not eat, Aachi,' she said.",
    "'It eats the sea,' said Aachi, and she laughed, because Selvi had no answer.",
-   "All day Selvi turned it over. That afternoon she took a steel plate of the strongest brine from the last pan. She dropped in a single grain and carried the plate home in the shade. By the next morning the grain had grown a small crown of new cubes. Selvi looked at it with her mother's magnifying glass. Every new cube was exactly like the old one. White, square, stacked on the same corners. There was nothing in that plate but salt and water, and the salt had simply picked up more salt.",
+   "All day Selvi thought about it. That afternoon she took a steel plate of the strongest brine from the last pan. She dropped in a single grain and carried the plate home in the shade. By the next morning the grain had grown a small crown of new cubes. Selvi looked at it with her mother's magnifying glass. Every new cube was exactly like the old one. White, square, stacked on the same corners. There was nothing in that plate but salt and water, and the salt had simply picked up more salt.",
    "'It just stacks,' she said to herself. 'Like putting one brick on another.'",
-   "That afternoon, a wind came from the east that smelled of wet tin. Amudha looked at the sky and said one word, and every woman on the pans began to run. Rain in the dry season was the thing they feared most. The heaps by the road were piled with a month of work, and rain would melt them back to water.",
+   "Later that day, a wind came from the east that smelled of wet tin. Amudha looked at the sky and said one word, and every woman on the pans began to run. Rain in the dry season was the thing they feared most. The heaps by the road were piled with a month of work, and rain would melt them back to water.",
    "Selvi ran with the rest. They dragged the big palm-leaf mats over the heaps, and they weighed them down with stones. The first fat drops hit the pans like thrown pebbles. Aachi, who could not run any more, stood at the end of the dyke and called out the order of the heaps. One heap at the far end was never covered. It was too far and the rain came too fast.",
    "The rain fell for an hour. When it stopped, the pans were silver sheets, and the uncovered heap was a grey puddle. Aachi stood looking at it for a long time. 'My salt,' she said quietly. 'Gone back to the sea.'",
    "Next morning, Selvi walked out along the dyke to see what was left. By the side of the track lay a coconut that had fallen there months before. A week ago she had seen a pale shoot, as fat as her finger, poking out of one eye of the nut, and a few thin roots creeping into the mud. Now, after the rain, the shoot was a hand longer. And it was green.",
    "Selvi crouched down beside it and stayed there until the sun was hot on her back.",
-   "The same rain had fallen on both. It had melted the salt, and the salt had gone into the water and stayed there as salt. The sea had taken back exactly what it had given. But the coconut had drunk the same rain, and the water had not stayed water. It had gone into a shoot. Nothing in that shoot was coconut water, or air, or the white flesh of the nut. Yet the shoot was made of all three. The salt had only added to itself. The coconut was making herself out of things that were not herself.",
+   "The same rain had fallen on the salt heap and on the coconut. It had melted the salt, and the salt had gone into the water and stayed there as salt. The sea had taken back exactly what it had given. But the coconut had drunk the same rain, and the water had not stayed water. It had gone into a shoot. Nothing in that shoot was coconut water, or air, or the white flesh of the nut. Yet the shoot was made of all three. The salt had only added to itself. The coconut was making herself out of things that were not herself.",
    "She ran back to the heaps. Aachi was sitting on her basket with her feet in the brine, which was already a little thicker as the sun came back.",
    "'The salt grows,' Selvi said, out of breath. 'But it only grows with more salt. The coconut grows out of water and air and her own nut, none of which is coconut. That is the difference.'",
    "Aachi was quiet. Then she lifted one hand from the brine and held it up in front of her face, thin and brown and creased with fifty years of sun.",
@@ -461,14 +461,14 @@
  "roots": {
   "context": "We have tested rules for life and watched what heat does to a living cell. Now we ask what these tests tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A living thing is a place that stays different from its surroundings. Warm water cooled to match the room, but your body stayed warm. A beetroot cell kept its red inside, until heat broke the skin around it. Staying different takes work every second, and dying is when the work stops.",
+   "truth": "A living thing stays different from its surroundings. In the Staying Warm test, warm water cooled to match the room, but your body stayed warm. In the Beetroot Bleed test, a beetroot cell kept its red inside until heat broke the skin around it. Staying different takes work every second, and dying is when the work stops.",
    "habit": "We think 'alive' means having something extra, or doing one special thing such as moving or growing. But a flame does those things, and a sleeping seed does not. What living things share is ongoing work, to keep an inside that is unlike the outside.",
-   "evidence": "In the warmth test, the warm water cooled towards the temperature of the room, but a child's own temperature stayed almost the same. In the beetroot test, cubes in cold water kept their colour, and cubes in very hot water turned the water red. If your results differ, write them down as they are and test again."
+   "evidence": "In the Staying Warm test, the warm water cooled towards the temperature of the room, but a child's own temperature stayed almost the same. In the Beetroot Bleed test, cubes in cold water kept their colour, and cubes in very hot water turned the water red. If your results differ, write them down as they are and test again."
   },
   "three": {
-   "who_am_i": "You are not only a thing, you are also a doing. Every second, your body burns food to stay warm, to rebuild itself and to keep the inside of each cell apart from the outside.",
+   "who_am_i": "You are not only a body. You are also the work that your body does. Every second, your body burns food to stay warm, to rebuild itself and to keep the inside of each cell apart from the outside.",
    "what_is_life": "Life is the work of keeping an inside that is different from the outside, and of building that inside out of whatever the outside provides.",
-   "what_is_this_world": "Sunlight goes into plants, plants become food, food becomes warmth, and the warmth leaves into space. Life is one of the places where this flow of energy stops for a while and builds something."
+   "what_is_this_world": "Sunlight goes into plants, plants become food, food becomes warmth, and the warmth leaves into space. Life is one of the places where this energy is held for a while and used to build something."
   },
   "thread": "From the One come particles, stars, and then, on at least one world, living bodies. Everything is conscious, down to the smallest particle, and in a living body this shows up as sensing, choosing and mending. A bacterium senses food and swims towards food, and a root chooses where to grow. The edge of a living body is not a wall that cuts her off from the world. It is a boundary that she keeps rebuilding, from the world's own rice, water and air.",
   "teachings": [
@@ -484,7 +484,7 @@
    },
    {
     "source": "The Questions of King Milinda (Milindapanha), the chariot passage",
-    "teaching": "In this old Buddhist text, the monk Nagasena tells the king that 'chariot' is a name for the pole, the axle, the wheels and the rest put together. There is no chariot apart from the parts.",
+    "teaching": "In an old Buddhist text, the monk Nagasena tells the king that 'chariot' is a name for the pole, the axle, the wheels and the rest put together. There is no chariot apart from the parts.",
     "link": "'Alive' may be like 'chariot', a name for a bundle of traits that come together, such as energy use, a skin, repair and copying. No single trait is the aliveness."
    }
   ],
@@ -570,16 +570,16 @@
        "b": "Fails. A worker bee almost never lays eggs. The queen does. A worker bee is alive, so this test is fooled."
       },
       {
-       "f": "A dry moong seed in a jar. Test: does it move?",
+       "f": "A dry moong seed in a jar. Test: does the seed move?",
        "b": "Fails. A dry seed does not move. A seed is alive and resting, so this test is fooled."
       },
       {
-       "f": "A dry moong seed in a jar. Test: does it use food and air?",
+       "f": "A dry moong seed in a jar. Test: does the seed use food and air?",
        "b": "Fails, almost. A resting seed uses almost nothing. A seed is alive and resting, so this test is fooled."
       },
       {
-       "f": "A date palm seed, 2,000 years old, in a drawer. Test: does it show any sign of life while it waits?",
-       "b": "Fails. It showed no sign for 2,000 years, then sprouted in 2005. It was alive and resting, so this test is fooled."
+       "f": "A date palm seed, 2,000 years old, in a drawer. Test: does the seed show any sign of life while waiting?",
+       "b": "Fails. The seed showed no sign for 2,000 years, then sprouted in 2005. The seed was alive and resting, so this test is fooled."
       },
       {
        "f": "A robot vacuum cleaner. Test: does it move around and sense walls?",
@@ -658,16 +658,16 @@
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
     "Every other player puts one token face down: Passes or Fails. Then everyone turns the tokens over together.",
     "The reader reads the back. Every player whose token matches the first word of the back scores one point.",
-    "The reader then says if the test was fooled or fair. Before the reveal, each player says aloud \"fooled\" or \"fair\" as they turn their token. A player who was right scores one more point.",
+    "Before the reader reads the back, each player also says 'fooled' or 'fair' aloud while turning over the token. After reading the back, the reader says whether the test was fooled or fair. A player who said the right word scores one more point.",
     "After each card, the reader writes F on a score sheet if the test was fooled, and a tick if it was fair. The reader's job passes to the player on the left.",
-    "If you play alone, you are every player. Guess, then read the back, and score one point for each right guess. You win if you score 30 or more out of 48.",
+    "If you play alone, guess Passes or Fails for each card, and guess fooled or fair. Then read the back. Score one point for each right guess. You win if you score 30 or more out of 48.",
     "The game ends when all 24 cards are read. The player with the most points wins. If there is a tie, the tied players share the win. Count the F marks too, to see how often tests are fooled."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Print and cut out the 24 cards and the 8 tokens. No printer? Copy each card onto a paper slip. Shuffle the cards and put them in a pile. Give each player a Passes and a Fails token.",
+     "do": "Print and cut out the 24 cards and the 8 tokens. If you have no printer, copy each card onto a paper slip. Shuffle the cards and put them in a pile. Give each player a Passes and a Fails token.",
      "say": "Each card names a thing and a test for life. You decide if the thing passes the test or fails it. Then we find out if the test gave the right answer.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take a Passes and a Fails token.",
      "context": "This is the first step of Fool the Test. It is a card game about tests for life. Here you set up the game."
@@ -678,7 +678,7 @@
      "do": "Play the first three cards. The reader reads the front. Every other player puts one token face down. Turn the tokens over together. The reader reads the back.",
      "say": "Read the front aloud. Everyone picks Passes or Fails, face down. Turn the tokens over together. Then the reader reads the back.",
      "kid": "Read a card. Pick a token. Turn the tokens over. Read the back.",
-     "parent": "After the first reveal, ask your child what they notice. Keep the first rounds slow, so everyone sees how a round works. Two players is enough: one reads and one guesses, and then swap. For three or four, the readers take turns.",
+     "parent": "After the first reveal, ask your child what they notice. Keep the first rounds slow, so everyone sees how a round works. Two players is enough: one reads and one guesses, and then they swap. With three or four players, take turns to be the reader.",
      "context": "In this step, you play the first three cards and learn how a round works."
     },
     {
@@ -808,7 +808,7 @@
      "mins": 5,
      "do": "Show your child the beetroot and the four glasses. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We will put beetroot cubes in four glasses of water, from icy to very hot. Which glass will turn the reddest? Which will stay clearest? Why do you think so?",
-     "kid": "Four glasses of water, from cold to hot. Which one turns reddest? Why do you think so?",
+     "kid": "Beetroot cubes go into four glasses of water, from cold to hot. Which glass will turn the reddest? Why do you think so?",
      "ask": [
       {
        "q": "Why do you think that glass will turn the reddest?",
@@ -819,7 +819,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it down so your child can compare it later. Two or more children: each child makes their own guess, then one child pours with the grown-up, one starts the timer and one scores. Swap jobs for the 20-minute look, and score the glasses separately before comparing. With one child, the grown-up only pours the hot water.",
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Write it down so your child can compare it later. With two or more children, each child makes their own guess. Then one child pours with the grown-up, one starts the timer and one scores. Swap jobs for the 20-minute look. Each child scores the glasses separately, and then they compare. With one child, the grown-up only pours the hot water.",
      "context": "This is the first step of the Beetroot Bleed test. You guess before you test."
     },
     {
@@ -846,11 +846,11 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Label four glasses A, B, C and D. Pour half a cup of water into each. A is cold from the fridge. B is tap water at room temperature. C is hand-hot, from a kettle mixed with tap water. D is very hot, from a just-boiled kettle.",
-     "say": "A grown-up pours the hot water. A is cold, B is room water, C is as warm as a bath, and D is very hot. Each has the same amount.",
-     "kid": "A grown-up pours the water. A is cold. B is room water. C is warm. D is very hot.",
+     "do": "Label four glasses A, B, C and D. Pour half a cup of water into each. A is cold water from the fridge. B is tap water at room temperature. C is hand-hot: hot water from a kettle mixed with tap water. D is very hot, from a just-boiled kettle.",
+     "say": "A grown-up pours the hot water. A is cold, B is tap water at room temperature, C is as warm as a bath, and D is very hot. Each glass has the same amount.",
+     "kid": "A grown-up pours the water. A is cold. B is tap water. C is warm. D is very hot.",
      "adult": true,
-     "parent": "C should feel comfortably hot on the back of the wrist, roughly 50 degrees Celsius, so about half boiled water and half tap water. D is hot enough to hurt, so keep your child's hands away. Put the white paper behind the glasses so the colours are easy to see. Use a thick glass or steel tumbler for D. Use the same cup to measure the water for every glass.",
+     "parent": "C should feel comfortably hot on the back of the wrist, roughly 50 degrees Celsius, so about half boiled water and half tap water. D is hot enough to hurt, so keep your child's hands away. Put a sheet of white paper behind the glasses so the colours are easy to see. Use a thick glass or steel tumbler for D. Use the same cup to measure the water for every glass.",
      "check": {
       "t": "mcq",
       "q": "Why do all four glasses get the same amount of water and the same number of cubes?",
@@ -880,7 +880,7 @@
        ]
       }
      ],
-     "parent": "Hold the white paper behind each glass to judge the colour. Typical results, which can vary with the beetroot, are glass A and B clear to very pale pink, glass C light pink, and glass D pink to deep red within minutes. Beetroot is cheap (a kilo is about Rs 40), so if the result is unclear, repeat with fresh cubes. If every glass looks the same, your cubes were too small or not rinsed enough. Start again with bigger cubes and fresh water.",
+     "parent": "Hold the white paper behind each glass to judge the colour. Results vary with the beetroot. Usually glasses A and B stay clear or go very pale pink, glass C goes light pink, and glass D goes pink to deep red within minutes. Beetroot is cheap (a kilo is about Rs 40), so if the result is unclear, repeat with fresh cubes. If every glass looks the same, your cubes were too small or not rinsed enough. Start again with bigger cubes and fresh water.",
      "check": {
       "t": "mcq",
       "q": "Glass A stays clear and glass D turns deep red. What does this suggest?",
@@ -986,7 +986,7 @@
      "mins": 4,
      "do": "Show your child the tumbler, the wrapped bottle and the thermometer. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We will watch warm water and you for half an hour in the same room. Who will cool the most? Who will cool the least? Why do you think so?",
-     "kid": "Warm water in a tumbler. Warm water in a wrapped bottle. And you. Who cools most? Why?",
+     "kid": "There is warm water in a tumbler, warm water in a wrapped bottle, and you. Which one will cool the most? Why?",
      "ask": [
       {
        "q": "Do you think your temperature will go down, up, or stay about the same? Why?",
@@ -1013,8 +1013,8 @@
      "id": "s3",
      "mins": 5,
      "do": "A grown-up pours warm water from one jug into the tumbler and into the bottle. Screw the cap on the bottle and wrap it in the sock. Measure both and write the starting numbers.",
-     "say": "Warm water goes into both from the same jug, so they start the same. The sock goes round the bottle. Measure each one and write the numbers.",
-     "kid": "A grown-up pours warm water in both. Wrap the bottle in a sock. Measure both.",
+     "say": "Warm water goes into the tumbler and the bottle from the same jug, so they start the same. The sock goes round the bottle. Measure each one and write the numbers.",
+     "kid": "A grown-up pours warm water into the tumbler and the bottle. Wrap the bottle in a sock. Measure both.",
      "adult": true,
      "parent": "The water should be about 40 to 42 degrees Celsius, as warm as a comfortable bath. To measure the bottle, open the cap, put the thermometer tip in, then close the cap again and keep it wrapped. Wrap the thermometer tip in cling film if it is not made for water.",
      "check": {
@@ -1036,7 +1036,7 @@
      "do": "At 5, 10 and 15 minutes, measure the tumbler and the bottle and write the numbers. At 15 minutes, measure your child under the arm too.",
      "say": "Measure the tumbler and the bottle every five minutes. At 15 minutes, measure yourself too. Sit quietly in between.",
      "kid": "Measure the tumbler and the bottle every five minutes. At 15 minutes, measure yourself.",
-     "parent": "Keep the room still, away from a fan pointing at the tumbler. Your child must sit still and not run about, because exercise warms the body. Measure the bottle quickly and screw the cap back on, so little heat escapes. Armpit readings can wobble by a few tenths of a degree, so take the same reading twice if it looks odd. With two or more children: one is the body being measured, one reads the tumbler, one the bottle, one writes. Swap roles if the thermometer is shared, and the second child can be measured at the end for a comparison.",
+     "parent": "Keep the air in the room still, and keep the tumbler away from a fan. Your child must sit still and not run about, because exercise warms the body. Measure the bottle quickly and screw the cap back on, so little heat escapes. Armpit readings can wobble by a few tenths of a degree, so take a reading again if it looks odd. With two or more children, one child is measured, one reads the tumbler, one reads the bottle and one writes. If the children share the thermometer, they can swap jobs, and a second child can be measured at the end to compare.",
      "context": "In this step, you take the first readings while the water cools."
     },
     {
@@ -1055,10 +1055,10 @@
        ]
       }
      ],
-     "parent": "Typical results, which vary with the room and the size of the tumbler, in a room near 28 to 30 degrees Celsius are the tumbler falling by roughly 4 to 8 degrees, the wrapped bottle falling by roughly 2 to 4 degrees, and the child changing by half a degree or less. In a very hot room the water falls less. If the wrapped bottle and the tumbler fall by almost the same amount, check that the sock is thick and the bottle is closed. Move to the coolest room, because the test needs a room cooler than your body.",
+     "parent": "Results vary with the room and the size of the tumbler. In a room near 28 to 30 degrees Celsius, the tumbler usually falls by roughly 4 to 8 degrees, the wrapped bottle by roughly 2 to 4 degrees, and the child changes by half a degree or less. In a very hot room the water falls less, so move to the coolest room, because the test needs a room cooler than your body. If the wrapped bottle and the tumbler fall by almost the same amount, check that the sock is thick and the bottle is closed.",
      "check": {
       "t": "mcq",
-      "q": "Imagine the water went from 41 to 34 degrees, and the child went from 36.6 to 36.7 degrees. What does this show?",
+      "q": "In one test, the water went from 41 to 34 degrees, and the child went from 36.6 to 36.7 degrees. What does this show?",
       "options": [
        "The water drifted towards the room's temperature, and the child's body worked to stay warm",
        "The thermometer was broken",
@@ -1072,9 +1072,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Draw one line for each on the same graph. Ask your child to say what they thought, what they saw and why. Then ask the last question.",
-     "say": "Draw three lines. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a line for each. Say what you thought, what you saw, and why.",
+     "do": "Draw one line each for the tumbler, the bottle and your child, on the same graph. Ask your child to say what they thought, what they saw and why. Then ask the question about the gecko.",
+     "say": "Draw three lines on one graph: one for the tumbler, one for the bottle and one for you. Then tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
+     "kid": "Draw a line for the tumbler, a line for the bottle and a line for you. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says the water drifted towards the room's warmth, the sock slowed the drift but did not stop it, and the child stayed steady. After they have said what they saw, explain: a living body burns food to make heat, and uses sweat, shivering and blood flow to keep steady. A gecko, a frog, a fish and a plant mostly match their surroundings, and they are alive. So 'stays warmer than the room' is a test that works for birds and mammals, and gives the wrong answer for many living things. Cold-blooded animals still use energy every second to keep other things steady inside their cells.",
      "think": "A gecko on a cold morning is as cold as the wall. If you measured her, what would the thermometer say? Would you call her not alive?",
      "context": "In this step, you look at the lines and say what they show."
@@ -1168,10 +1168,10 @@
        ]
       }
      ],
-     "parent": "Use whole seeds, never split dal, because split dal cannot sprout. If you only have one packet, borrow seeds from a neighbour or buy a fresh packet of the same kind. Some shop seeds are heated or treated, so a group may not sprout at all. That is a result too. Write down what you find. Kitchen moong kept sealed and dry often still sprouts well after two or three years, so the groups may look almost the same. That is an honest result: say it, and say which groups were not very old. A boiled group will not sprout and shows what a dead seed does. Two or more children: each child looks after one or two plates and counts them, then everyone compares.",
+     "parent": "Use whole seeds, never split dal, because split dal cannot sprout. If you only have one packet, borrow seeds from a neighbour or buy a fresh packet of the same kind. Some shop seeds are heated or treated, so a group may not sprout at all. That is a result too. Write down what you find. Kitchen moong kept sealed and dry often still sprouts well after two or three years, so the groups may look almost the same. That is an honest result. Say so, and say which groups were not very old. If you add a group of boiled seeds, they will not sprout, and they show what a dead seed does. With two or more children, each child looks after one or two plates and counts them, and then everyone compares.",
      "check": {
       "t": "mcq",
-      "q": "Why do all four groups use the same kind of seed?",
+      "q": "Why do all the groups use the same kind of seed?",
       "options": [
        "So only the age changes",
        "So the plates look the same",
@@ -1188,7 +1188,7 @@
      "do": "Wet the tissue and lay it on each plate. Count out ten seeds from the first packet onto the first plate. Do the same for each packet. Label each plate.",
      "say": "Wet the tissue so it is damp but not dripping. Put ten seeds on each plate, spread out. Check each plate has the right label.",
      "kid": "Wet the tissue. Put ten seeds on each plate. Label each plate.",
-     "parent": "Damp, not soaking. Seeds that sit in water can rot instead of sprouting. Keep the plates in the shade, in the same place, and away from the fridge. Rewet the tissue each day if it dries. In hot weather above about 35 degrees Celsius, cover each plate with another plate to stop the tissue drying out, and lift it once a day to let air in. Moong sprouts in 1 to 2 days in warm weather, so do not worry if some are well up by day 3. Count them anyway.",
+     "parent": "The tissue should be damp, not soaking. Seeds that sit in water can rot instead of sprouting. Keep the plates in the shade, in the same place, and away from the fridge. Wet the tissue again each day if it dries. In hot weather above about 35 degrees Celsius, cover each plate with another plate to stop the tissue drying out, and lift it once a day to let air in. Moong sprouts in 1 to 2 days in warm weather, so do not worry if some are well up by day 3. Count them anyway.",
      "context": "In this step, you set up one plate for each age of seed."
     },
     {
@@ -1224,10 +1224,10 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Ask your child to say what they thought, what they saw and why. Then ask the last question.",
+     "do": "Ask your child to say what they thought, what they saw and why. Then ask the question about the date palm seed.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Say what you thought, what you saw, and why.",
-     "parent": "A strong answer says that more of the older seeds did not wake, that a few did, and that the seeds are alive but resting. After they have said what they saw, explain: a dormant seed uses almost no energy, but the seed's tiny store of repair work still runs, and over time damage builds up inside the seed. In the right conditions, such as very dry and cool, damage builds up slowly. The 2,000-year-old date palm seed was kept dry in a dry place. Most kitchen seeds are kept in warm, humid kitchens, so they lose their ability to wake much faster.",
+     "parent": "A strong answer says that more of the older seeds did not wake, that a few did, and that the seeds are alive but resting. After they have said what they saw, explain: a dormant seed uses almost no energy. A little repair still goes on inside her, but over time damage builds up. In the right conditions, such as very dry and cool, damage builds up slowly. The 2,000-year-old date palm seed was kept dry in a dry place. Most kitchen seeds are kept in warm, humid kitchens, so they lose their ability to wake much faster.",
      "think": "A date palm seed about 2,000 years old sprouted. How could one seed wait so long when your old seeds did worse?",
      "wait": "Day 4",
      "context": "In this step, you say what the evidence shows."
@@ -1308,13 +1308,13 @@
        ]
       }
      ],
-     "parent": "Take any rule they give. Common rules are 'it moves', 'it grows', 'it eats', 'it breathes' or 'it has babies'. Write the rule exactly as they say it. Two to four children: each child writes their own rule in secret, then everyone tests all the rules on the same eight cases. The rule that gets the most cases right wins, and then mend it together. With one child, you can also write a rule and try to break it.",
+     "parent": "Take any rule they give. Common rules are 'it moves', 'it grows', 'it eats', 'it breathes' or 'it has babies'. Write the rule exactly as they say it. With two to four children, each child writes their own rule in secret. Then everyone tests all the rules on the same eight cases. The rule that gets the most cases right wins, and everyone mends that rule together. With one child, you can also write a rule and try to break it.",
      "context": "This is the first step of Break Your Own Rule. You write a rule for life."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Read the eight cases one at a time. The cases are a candle flame, a salt crystal growing in brine, a mule and a dry seed in a jar. The rest are a worker bee, a robot vacuum cleaner, a virus and a person asleep. For each, ask what the rule says. Then say what is really true.",
+     "do": "Read the eight cases one at a time. They are a candle flame, a salt crystal growing in strong salt water, a mule, a dry seed in a jar, a worker bee, a robot vacuum cleaner, a virus and a person asleep. For each, ask what the rule says. Then say what is really true.",
      "say": "Here are eight cases. For each one, use your rule to say alive or not alive. Then I will tell you what scientists say. Do they match?",
      "kid": "Use your rule on each case. Alive or not alive? Then check if you were right.",
      "ask": [
@@ -1327,7 +1327,7 @@
        ]
       }
      ],
-     "parent": "What is really true: the flame is not alive. It uses fuel and air, grows and spreads. The salt crystal is not alive. It grows by adding salt from the brine. The mule is alive, though almost never able to have young. The dry seed is alive but resting. The worker bee is alive, though workers almost never lay eggs. The robot vacuum cleaner is not alive. It moves and senses, but someone built it and charges it. A virus is debated. It copies and evolves, but only inside a living cell. The sleeping person is alive. Count how many cases the rule got right.",
+     "parent": "Here is what is really true for each case. The flame is not alive, though it uses fuel and air, grows and spreads. The salt crystal is not alive. It grows by adding salt from the salt water. The mule is alive, though she is almost never able to have young. The dry seed is alive but resting. The worker bee is alive, though workers almost never lay eggs. The robot vacuum cleaner is not alive. It moves and senses, but someone built it and charges it. Scientists disagree about the virus. A virus copies and evolves, but only inside a living cell. The sleeping person is alive. Count how many cases the rule got right.",
      "check": {
       "t": "mcq",
       "q": "Your rule says 'alive means it moves'. A dry seed does not move, but is alive. What does this show?",
@@ -1400,7 +1400,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The last four are a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
+     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed, a mule, a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
      "say": "We will use three real tests on eight cases. Test one is the seven signs, which you know. Test two is NASA's. Test three is Koshland's seven pillars.",
      "kid": "Draw a table. Three tests go across the top. Eight cases go down the side.",
      "parent": "The three tests in plain words. The seven signs: it feeds, breathes, grows, moves, senses, gets rid of waste and makes young. NASA's test: it is a chemical system that keeps itself going, and its kind can change by Darwin's rules over many generations. Koshland's pillars: it has instructions, it improvises when conditions change, it has a skin that makes compartments, it uses energy, it regenerates, it adapts and it keeps its chemical reactions apart.",
@@ -1412,17 +1412,17 @@
      "do": "Go down the table one case at a time. For each of the three tests, ask 'does it pass?' and write yes, no or maybe. Use the notes below to help.",
      "say": "For each case, ask: does this pass the seven signs? Does it pass NASA's test? Does it pass Koshland's pillars? Write yes, no or maybe.",
      "kid": "For each case, ask if it passes each test. Write yes, no or maybe.",
-     "parent": "A guide to the boxes. Flame: no, no, no. Salt crystal: no, no, no. Dry seed: maybe, yes, maybe, because the seven signs are not all seen while resting, and the seed is resting. Mule: yes with one exception on young, yes as part of the horse and donkey lines, yes. Virus: no, maybe, no. Curd bacterium: yes, yes, yes. Robot: no, no, no. Forest fire: no, no, no. Accept good reasons for different answers. Two or more children: each child fills in one column for all eight cases, then you compare columns. With one child, the parent fills in the columns the child does not know yet.",
+     "parent": "Here is a guide to the boxes. The three answers for each case are in this order: the seven signs, NASA's test, Koshland's pillars. Flame: no, no, no. Salt crystal: no, no, no. Dry seed: maybe, yes, maybe, because a resting seed does not show all seven signs. Mule: yes, except for making young. Yes, as part of the horse and donkey lines. Yes. Virus: no, maybe, no. Curd bacterium: yes, yes, yes. Robot: no, no, no. Forest fire: no, no, no. Accept good reasons for different answers. With two or more children, each child fills in one column for all eight cases, and then you compare columns. With one child, the parent fills in the columns the child does not know yet.",
      "check": {
       "t": "mcq",
-      "q": "A mule almost never has young, but passes NASA's test as part of the horse and donkey lines. Why?",
+      "q": "A mule almost never has young. Why does she still pass NASA's test?",
       "options": [
        "The test is about a kind of living thing over many generations, not each single body",
        "A mule is secretly not alive",
        "NASA made an error"
       ],
       "a": 0,
-      "why": "NASA's test asks if a system can evolve, which is a feature of a kind across generations. A single mule is a member of lines that do."
+      "why": "NASA's test asks if a kind of living thing can evolve over many generations. A mule comes from the horse and donkey lines, and those lines do evolve."
      },
      "context": "In this step, you fill in the table with your child."
     },
@@ -1480,8 +1480,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Walk through the house with your child. Find four machines that keep something steady. A fridge keeps cold. A geyser keeps water hot. An iron keeps its heat. A rice cooker clicks off when the rice is done.",
-     "say": "Many machines keep one thing steady. A fridge keeps cold. A geyser keeps water hot. Find four machines at home. Write down what each one keeps steady.",
+     "do": "Walk through the house with your child. Find four machines that keep something steady. A fridge keeps its inside cold. A geyser keeps water hot. An iron keeps its heat. A rice cooker clicks off when the rice is done.",
+     "say": "Many machines keep one thing steady. A fridge keeps its inside cold. A geyser keeps water hot. Find four machines at home. Write down what each one keeps steady.",
      "kid": "Find four machines that keep something steady. Write what each keeps steady.",
      "ask": [
       {
@@ -1493,7 +1493,7 @@
        ]
       }
      ],
-     "parent": "Any machine that holds a temperature works. Do not open any machine or touch a hot iron. Keep to looking at the dials and the lights. Only a grown-up touches plugs, the geyser or the iron, and nobody opens a machine. Before the walk, ask your child to guess which machines will have a thermostat. If you have no geyser or AC, use a fridge, an iron, a rice cooker or pressure cooker, an electric kettle that clicks off, or a ceiling fan with a regulator for comparison.",
+     "parent": "Any machine that holds a temperature works. Nobody opens a machine. Only a grown-up touches plugs, the geyser or the iron. Keep to looking at the dials and the lights. Before the walk, ask your child to guess which machines will have a thermostat. If you have no geyser or AC, use a fridge, an iron, a rice cooker or pressure cooker, an electric kettle that clicks off, or a ceiling fan with a regulator for comparison.",
      "context": "This is the first step of Spot the Thermostats. You find four machines."
     },
     {
@@ -1502,7 +1502,7 @@
      "do": "For each machine, ask three questions. What does it sense? What does it switch on or off? Where does the energy come from? Write the answers in the table.",
      "say": "For each machine ask three things. What does it sense? What does it switch on or off? Where does its energy come from?",
      "kid": "For each machine: What does it sense? What does it switch? Where does its energy come from?",
-     "parent": "A fridge senses the temperature inside, switches the cooling on and off, and gets its energy from electricity. A geyser senses the water temperature, switches the heater, and uses electricity. The inside of a machine like this is called a thermostat. Two to four children: each child takes one machine and reports to the others. With one child, do two machines yourself and let the child do the rest.",
+     "parent": "A fridge senses the temperature inside, switches the cooling on and off, and gets its energy from electricity. A geyser senses the water temperature, switches the heater on and off, and uses electricity. The part that senses the temperature and does the switching is called a thermostat. With two to four children, each child takes one machine and reports to the others. With one child, do two machines yourself and let the child do the rest.",
      "check": {
       "t": "mcq",
       "q": "Which part of a fridge works like your skin sensing that you are cold?",
@@ -1514,12 +1514,12 @@
       "a": 0,
       "why": "A thermostat senses the temperature and tells the machine to switch on or off. Your skin and brain do the same job for your body."
      },
-     "context": "In this step, you take each machine apart in your head."
+     "context": "In this step, you work out how each machine keeps something steady."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "Add a row for your own body. Ask what the body senses, what it switches and where its energy comes from. Then ask what a fridge can do that a living body can do, and what it cannot.",
+     "do": "Add a row for your own body. Ask what the body senses, what it switches and where its energy comes from. Then ask what a fridge and a living body can both do, and what only a living body can do.",
      "say": "Now fill in a row for you. What does your body sense? What does it switch on or off? Where does your energy come from?",
      "kid": "Fill in a row for your body. What does it sense? What does it switch? Where is the energy from?",
      "parent": "The body senses with skin and nerves, switches sweating, shivering and blood flow, and gets energy from food. After your child has answered, explain: a fridge was built by people and powered from outside. It cannot build its parts from other materials, and it cannot mend itself or make a new fridge. So keeping steady is one of the traits of life, but not enough on its own.",
@@ -1590,7 +1590,7 @@
     }
    ],
    "record": "A table with one row for each piece: the stem with a node, the leaf alone, the potato piece with an eye, the potato piece without an eye. For each day write what you see, such as roots, sprouts or rot. Draw each piece on day 1 and day 10.",
-   "context": "In this project, you cut living things into pieces and find out which pieces can start again. A broken salt crystal grows in every piece, but a living thing needs more.",
+   "context": "In this project, you cut living things into pieces and find out which pieces can start again. Every piece of a broken salt crystal keeps growing, but a piece of a living thing needs more to start again.",
    "setup": [
     {
      "art": "A money plant stem standing in a glass of water, with a single leaf lying in water in a second glass.",
@@ -1636,7 +1636,7 @@
      "say": "A grown-up does the cutting. The stem and the leaf go in water. The potato pieces go on damp tissue in the dabba, in a dark place.",
      "kid": "A grown-up cuts the potato. Put the stem and the leaf in water. Put the potato pieces in the dabba.",
      "adult": true,
-     "parent": "Put the glasses on a bright windowsill, but not in direct hot sun. In hot, wet weather a closed damp dabba rots potato quickly, so keep the lid loose. Change the water in the glasses every three days. Two to four children: one set each, or one child per piece; each draws and measures their own, with the grown-up doing the cutting. Keep the potato dabba in a cupboard. Check the tissue is damp but not soaking. Label each piece with a small piece of paper.",
+     "parent": "Put the glasses on a bright windowsill, but not in direct hot sun. Change the water in the glasses every three days. Keep the potato dabba in a cupboard, with the lid loose, because a closed damp dabba rots potato quickly in hot, wet weather. Check that the tissue is damp but not soaking. Label each piece with a small piece of paper. With two to four children, give each child a full set of pieces, or give each child one piece. Each child draws and measures their own, and the grown-up does the cutting.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep all four pieces in similar places, with water or damp tissue?",
@@ -1666,7 +1666,7 @@
      "do": "Look again. Measure any roots or sprouts with a ruler and write the lengths. Notice which pieces have changed and which have not.",
      "say": "Look closely. Use a magnifying glass for tiny roots. Which pieces are changing? Which are not?",
      "kid": "Look closely. Measure any roots or sprouts. Which pieces are changing?",
-     "parent": "A money plant stem may show small white roots or bumps by now, or only in a week more. Roots can take two to three weeks, so on day 10 small white bumps are a good result. If nothing has changed in a piece, keep it going for a few more days. If a potato piece has gone soft and smelly, throw it away and write 'rotted'. That is a result too.",
+     "parent": "A money plant stem may show small white roots or bumps by now, or only after another week. Roots can take two to three weeks, so on day 10 small white bumps are a good result. If nothing has changed in a piece, keep it going for a few more days. If a potato piece has gone soft and smelly, throw it away and write 'rotted'. That is a result too.",
      "wait": "Day 6",
      "context": "In this step, you measure the pieces on day 6."
     },
@@ -1676,7 +1676,7 @@
      "do": "Look at everything one last time. Draw each piece again. Ask your child to say what they thought, what they saw and why.",
      "say": "Draw each piece again. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Draw each piece again. Say what you thought, what you saw, and why.",
-     "parent": "A strong answer says that the stem with a node and the potato piece with an eye started again, and that the leaf alone and the potato without an eye did not. After they have said what they saw, explain: a piece can start again if it has a growing point, such as a node or an eye, and enough stored food to live on until new roots or leaves can feed it. This is called regeneration. A crystal piece has no growing point, because it just keeps stacking.",
+     "parent": "A strong answer says that the stem with a node and the potato piece with an eye started again, and that the leaf alone and the potato without an eye did not. After they have said what they saw, explain: a piece can start again if it has a growing point, such as a node or an eye, and enough stored food to live on until new roots or leaves can feed it. This is called regeneration. A piece of crystal needs no growing point. It just keeps stacking.",
      "think": "A broken salt crystal grows in every piece. Why do only some pieces of a living thing start again?",
      "wait": "Day 10",
      "context": "In this step, you compare all four pieces on day 10 and say what the evidence shows."
@@ -1694,7 +1694,7 @@
     "Your faker must not be alive. It can be made of fire, crystals, metal, plastic, a computer or anything non-living.",
     "Use the seven signs of life as your tests: feeds, breathes, grows, moves, senses, gets rid of waste, makes young.",
     "Draw or build your faker with a label for each test it passes.",
-    "Your sleeper must be a real living thing that really exists."
+    "Your sleeper is the living thing that fails the tests. She must be a living thing that really exists."
    ],
    "materials": [
     "paper and coloured pencils",
@@ -1755,7 +1755,7 @@
      "do": "Pick the best idea. Draw it or build it from scrap. Label each of the seven signs it passes. Count how many it passes.",
      "say": "Pick your best idea. Draw it or build it. Put a label for each sign your faker passes. Count them.",
      "kid": "Pick your best faker. Draw or build it. Label the signs it passes.",
-     "parent": "If foil or a candle is used in the model, a grown-up must be there for any real flame. A drawn flame is enough.",
+     "parent": "If the model uses a real candle flame, a grown-up must be there. A drawn flame is enough.",
      "check": {
       "t": "mcq",
       "q": "Your faker passes six of seven signs. Is it alive?",
@@ -1772,16 +1772,16 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Now draw a living thing that fails as many of the signs as possible. Tick the signs it passes. Count how many it fails.",
-     "say": "Now the opposite. Draw a living thing that fails as many signs as it can. A dry seed is one. Can you find another?",
-     "kid": "Now draw a living thing that fails many signs. Tick the signs it passes.",
+     "do": "Now draw your sleeper: a living thing that fails as many of the signs as possible. Tick the signs your sleeper passes. Count how many she fails.",
+     "say": "Now the opposite. Draw a living thing that fails as many signs as possible. A dry seed is one. Can you find another?",
+     "kid": "Now draw a living thing that fails many signs. Tick the signs she passes.",
      "parent": "A dried tardigrade, a dry seed, a bacterium frozen in ice and a worker bee are all good answers.",
      "context": "In this step, you draw your sleeper, a living thing that fails the tests."
     },
     {
      "id": "s4",
      "mins": 7,
-     "do": "Ask your child which sign was the hardest to fake and what test they would add to catch a faker. Ask for what they thought, what they made and why.",
+     "do": "Ask your child which sign was the hardest to fake and what test they would add to catch a faker. Ask them to say what they thought, what they made and why.",
      "say": "Which sign was the hardest to fake? What test would you add, to catch a faker? Tell me what you thought, what you made, and why.",
      "kid": "Which sign was hardest to fake? What test would catch a faker?",
      "parent": "A strong answer says that making young, and keeping a steady inside without being built, were the hardest. After they have said it, explain: this is why scientists add tests such as evolution and using energy to repair themselves. A good test is one that fakers have not yet passed.",
@@ -1953,7 +1953,7 @@
      "t": "truefalse",
      "p": "A dry seed that does not move or eat is dead.",
      "a": false,
-     "why": "False. A dry seed is dormant, which means alive but resting. It can wake and sprout when water arrives.",
+     "why": "False. A dry seed is dormant, which means alive but resting. The seed can wake and sprout when water arrives.",
      "outcome": 4
     },
     {
@@ -1992,20 +1992,20 @@
     },
     {
      "t": "perspective",
-     "p": "Asha and Rizwan are talking about viruses. Each has a reason.",
+     "p": "Here are two views about viruses. Each has a reason.",
      "views": [
       {
-       "who": "Asha, a girl in Class 4 (an imagined view)",
+       "who": "One view (an imagined view)",
        "says": "A virus has genes, copies them and evolves. So a virus is alive."
       },
       {
-       "who": "Rizwan, a boy in Class 4 (an imagined view)",
+       "who": "Another view (an imagined view)",
        "says": "A virus does nothing at all without a host cell. So a virus is not alive."
       }
      ],
-     "ask": "Whose view do you agree with more? What would you want to know before deciding?",
+     "ask": "Which view do you agree with more? What would you want to know before deciding?",
      "a": "Answers vary. A strong answer picks a side, gives a reason, and says what else it would want to know, such as whether needing a host should count against being alive.",
-     "why": "Both have a point. Scientists still disagree, because a virus passes some tests and fails others.",
+     "why": "Both views have a point. Scientists still disagree, because a virus passes some tests and fails others.",
      "outcome": 5
     }
    ]
@@ -2128,20 +2128,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meera and Farhan are talking about a seed that has been in a drawer for 100 years.",
+     "p": "Here are two views about a seed that has been in a drawer for 100 years.",
      "views": [
       {
-       "who": "Meera, a girl in Class 4 (an imagined view)",
+       "who": "One view (an imagined view)",
        "says": "The seed is alive the whole time, because the seed can still wake up and sprout."
       },
       {
-       "who": "Farhan, a boy in Class 4 (an imagined view)",
+       "who": "Another view (an imagined view)",
        "says": "A seed that does nothing for 100 years is no different from a stone until water arrives."
       }
      ],
-     "ask": "Whose view do you agree with more? How could you find out which is closer to the truth?",
+     "ask": "Which view do you agree with more? How could you find out which is closer to the truth?",
      "a": "Answers vary. A strong answer picks a side and describes a test, such as giving the seed water and seeing if the seed sprouts, as a stone never would.",
-     "why": "Both views can be defended. The test is to wake the seed. A stone never sprouts, and a living seed can. That shows the seed has something a stone does not, even while it waits.",
+     "why": "Both views can be defended. The test is to wake the seed. A stone never sprouts, and a living seed can. That shows the seed has something a stone does not, even while the seed waits.",
      "outcome": 4
     },
     {
@@ -2167,7 +2167,7 @@
      "t": "truefalse",
      "p": "A gecko, being a cold-blooded animal, keeps her body warmer than the air.",
      "a": false,
-     "why": "False. A gecko's body is close to the temperature of the air or the wall. She is alive, so 'warmer than the surroundings' fools the test for her.",
+     "why": "False. A gecko's body is close to the temperature of the air or the wall. She is alive, so the test 'warmer than the surroundings' gives the wrong answer for her.",
      "outcome": 2
     },
     {
@@ -2243,22 +2243,22 @@
     },
     {
      "t": "perspective",
-     "p": "Three people are talking about whether a virus is alive.",
+     "p": "Here are three views about whether a virus is alive.",
      "views": [
       {
-       "who": "Doctor Nair, a virologist (an imagined view)",
+       "who": "A virologist (an imagined view)",
        "says": "A virus has genes and evolves, so she is alive."
       },
       {
-       "who": "Doctor Banerjee, a biochemist (an imagined view)",
+       "who": "A biochemist (an imagined view)",
        "says": "A virus has no energy of her own and cannot copy herself alone, so she is a chemical, not a living thing."
       },
       {
-       "who": "Doctor Wilson, a philosopher (an imagined view)",
+       "who": "A philosopher (an imagined view)",
        "says": "'Alive' is the wrong question. A virus has some traits of life and not others, and we should say which."
       }
      ],
-     "ask": "Whose view do you agree with most? What would convince you to change your mind?",
+     "ask": "Which view do you agree with most? What would convince you to change your mind?",
      "a": "Answers vary. A strong answer picks a view, gives a reason, and says what new evidence would change it, such as finding a virus that makes energy on her own.",
      "why": "All three can be defended. They use different tests, so they reach different answers.",
      "outcome": 5
@@ -2291,7 +2291,7 @@
     },
     {
      "t": "write",
-     "p": "Explain why a fridge is not alive, even though it keeps its inside different from the outside, using the words 'build' and 'energy'.",
+     "p": "A fridge keeps its inside different from the outside. Explain why a fridge is still not alive. Use the words 'build' and 'energy'.",
      "lines": 3,
      "a": "A fridge needs energy from electricity to stay cold, and so does a living body. But a fridge cannot build its own parts from other materials or mend itself. People built it and people repair it.",
      "why": "Keeping an inside different takes energy in both. Only a living thing builds and mends itself.",
@@ -2400,12 +2400,12 @@
       "It builds its own parts from raw materials, repairs itself, and its copies change in ways that are passed on and help it survive"
      ],
      "a": 2,
-     "why": "Moving and copying are passed by flames and crystals too. Building and repairing itself from other materials, and evolving, are much harder to fake.",
+     "why": "Flames and crystals can move or copy too. Building and repairing itself from other materials, and evolving, are much harder to fake.",
      "outcome": 1
     },
     {
      "t": "write",
-     "p": "Predict: you heat beetroot cubes to only 40 degrees Celsius instead of boiling water. What would the water look like after 20 minutes? Explain why.",
+     "p": "You put beetroot cubes in water at only 40 degrees Celsius, instead of boiling water. What would the water look like after 20 minutes? Explain why.",
      "lines": 3,
      "a": "The water would be only a little pink, much less than from boiling water. At 40 degrees the cell skins are not badly damaged, so only a little red leaks out. Boiling damages most of them.",
      "why": "Heat damages cell skins more as it gets hotter. A moderate temperature damages a few, and a very high temperature damages most.",
@@ -2413,7 +2413,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A dried tardigrade uses a lot of energy while it waits.",
+     "p": "A dried tardigrade uses a lot of energy while she waits.",
      "a": false,
      "why": "False. A dried tardigrade uses almost no energy. When water returns, she begins to use energy again.",
      "outcome": 4
@@ -2462,7 +2462,7 @@
     "The water's temperature drifts towards the room's, while the child's temperature stays almost the same"
    ],
    "a": 2,
-   "why": "Left alone, warm water matches the room. A living body keeps working to stay warm.",
+   "why": "Left alone, warm water cools until it matches the room. A living body keeps working to stay warm.",
    "outcome": 2
   },
   {
@@ -2503,7 +2503,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why did people find the tobacco mosaic virus crystals so surprising?",
+   "p": "In 1935, Wendell Stanley made crystals of the tobacco mosaic virus. Why were people so surprised by the crystals?",
    "opts": [
     "They were the biggest crystals ever seen",
     "They were red like beetroot",
@@ -2579,7 +2579,7 @@
    "title": "What life actually is | a biologist explains",
    "channel": "Simon Pierce | University of Milan",
    "mins": 5,
-   "why": "To hear scientists explain why there is no single definition of life.",
+   "why": "To hear a biologist explain why there is no single definition of life.",
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first.",
    "youtube": "YmdHBL9F740"
   },
@@ -2674,10 +2674,10 @@
   "Can you think of something that does many things that a living thing does, but is not alive?",
   "Can you think of something alive that does almost nothing?",
   "What is the warmest thing in the room that is not alive, and why is it warm?",
-  "If you cooked a beetroot, why does the water turn red?",
-  "Why do you stay warm on a cold day, and a cup of tea does not?",
+  "When you boil a beetroot, why does the water turn red?",
+  "Why do you stay warm on a cold day when a cup of tea does not?",
   "What would you need to see, to be sure that a robot was alive?",
-  "A seed can wait for a hundred years. Is it alive the whole time?",
+  "A seed can wait for a hundred years. Is the seed alive the whole time?",
   "What do the fridge, the geyser and your body have in common?",
   "Do you think a flame is alive? What would change your mind?",
   "What would you test first if you found something strange on another planet?"
@@ -2693,7 +2693,7 @@
   },
   {
    "j": "Why did the seed take a hundred years off?",
-   "a": "It was dormant."
+   "a": "The seed was dormant."
   },
   {
    "j": "Why did the mule not want young?",
@@ -2713,7 +2713,7 @@
   },
   {
    "j": "Why did the gecko stay on the wall all morning?",
-   "a": "It was waiting for the sun to warm up."
+   "a": "She was waiting for the sun to warm up."
   },
   {
    "j": "What did the fridge say to the thermostat?",
@@ -2733,14 +2733,14 @@
   {
    "problem": "A tumbler of water falls 2 degrees every 5 minutes for the first 30 minutes, from 41 to 29 degrees. The room is 29 degrees. Would you expect it to fall another 12 degrees in the next 30 minutes? Explain.",
    "answer": "No. It would stay close to 29 degrees.",
-   "explain": "The water has reached the room's temperature of 29 degrees. Warm water drifts towards the room's temperature and stops there. It cannot go on falling 2 degrees every 5 minutes, because a pattern in numbers can stop when something stops it.",
+   "explain": "The water has reached the room's temperature of 29 degrees. Warm water drifts towards the room's temperature and stops there. It cannot go on falling 2 degrees every 5 minutes. A number pattern lasts only as long as the cause behind it lasts.",
    "math_unit": "math.patterns.number-patterns.L4",
    "how": "e2",
    "context": "In the Staying Warm test, warm water cools towards the temperature of the room.",
    "why_maths": "Seeing that a pattern can stop teaches you not to carry a number pattern past the point where nature changes it."
   },
   {
-   "problem": "In the beetroot test, the colour scores after 20 minutes are glass A 1, glass B 1, glass C 2 and glass D 4. Glass D scores how many times as much as glass A? If you added the four scores, what is the total?",
+   "problem": "In the beetroot test, the colour scores after 20 minutes are glass A 1, glass B 1, glass C 2 and glass D 4. How many times as much as glass A does glass D score? What is the total of the four scores?",
    "answer": "4 times as much. The total is 8.",
    "explain": "4 divided by 1 is 4, so glass D scored 4 times as much as glass A. 1 plus 1 plus 2 plus 4 is 8.",
    "math_unit": "math.multiplication.multiplication-facts.L4",
@@ -2758,7 +2758,7 @@
    "why_maths": "A percentage lets you compare groups of different sizes, and the falls show where the seeds lose their ability to wake."
   },
   {
-   "problem": "A student wants to show the seed results from the Waking Up test. Should she use a bar chart or a line graph for four groups of seeds of different ages? Which tells the story better? Explain your choice.",
+   "problem": "You want to show the seed results from the Waking Up test, for four groups of seeds of different ages. Should you use a bar chart or a line graph? Explain your choice.",
    "answer": "A bar chart shows each group clearly. A line graph can also show the fall with age. Both work, but a line graph shows the trend.",
    "explain": "A bar chart has one bar for each group, so it is easy to compare the groups. A line graph joins the points, and shows how the number falls as the seeds get older. Because age is a number that goes up, the line shows the trend best.",
    "math_unit": "math.data.bar-charts.L4",
@@ -2783,9 +2783,9 @@
    "why_maths": "Counting back from a date shows how long a seed waited, and the word 'about' reminds us that measurements are not exact."
   },
   {
-   "problem": "Imagine a crystal grows 2 millimetres thicker every day. A bacterium divides every 20 minutes, and none die. In 3 hours, how many times does the bacterium divide, and how many bacteria are there? How many millimetres does the crystal grow in the same 3 hours?",
+   "problem": "Suppose a crystal grows 2 millimetres thicker every day. A bacterium divides every 20 minutes, and none die. In 3 hours, how many times does the bacterium divide, and how many bacteria are there? How many millimetres does the crystal grow in the same 3 hours?",
    "answer": "The bacterium divides 9 times and there are 512 bacteria. The crystal grows 0.25 millimetres.",
-   "explain": "3 hours is 180 minutes. 180 divided by 20 is 9, so the count doubles 9 times. 2 times itself 9 times is 512. 3 hours is one eighth of a day, so the crystal grows 2 divided by 8, which is 0.25 millimetres.",
+   "explain": "3 hours is 180 minutes. 180 divided by 20 is 9, so the count doubles 9 times. Start with 1 and double it 9 times, and you get 512. 3 hours is one eighth of a day, so the crystal grows 2 divided by 8, which is 0.25 millimetres.",
    "math_unit": "math.number-sense.powers-and-roots.L4",
    "context": "A crystal adds a thin layer at a steady pace, but a living thing that copies itself can double again and again.",
    "why_maths": "Comparing a steady pace with doubling shows why copying is so powerful, and why living things can spread so fast."
@@ -2854,7 +2854,7 @@
  ],
  "warmup": [
   {
-   "q": "Can a flame be alive just because it uses fuel and air?",
+   "q": "Is a flame alive just because it uses fuel and air?",
    "a": "No. A flame builds nothing and mends nothing."
   },
   {
@@ -2874,8 +2874,8 @@
    "a": "A seed that is alive but resting."
   },
   {
-   "q": "Why is a mule alive even though she has no young?",
-   "a": "The test is about a kind across many generations."
+   "q": "Why is a mule alive even though she almost never has young?",
+   "a": "The test 'makes young' is about a whole kind over many generations, not about one body."
   },
   {
    "q": "What is a working definition?",

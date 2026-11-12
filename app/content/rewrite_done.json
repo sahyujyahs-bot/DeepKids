@@ -345,6 +345,12 @@
   "sci.states.dissolving.L4",
   "sci.states.evaporation-and-condensation.L4",
   "sci.states.floating-and-sinking.L4",
-  "sci.states.liquids-up-close.L4"
+  "sci.states.liquids-up-close.L4",
+  "sci.states.particles.L4",
+  "sci.what-is-life.cells-divide.L4",
+  "sci.what-is-life.cells.L4",
+  "sci.what-is-life.inside-a-cell.L4",
+  "sci.what-is-life.signs-of-life.L4",
+  "sci.plants.plant-variety.L5"
  ]
 }

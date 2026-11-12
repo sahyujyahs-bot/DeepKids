@@ -3,7 +3,7 @@
  "title": "How plants are grouped: by the way they make new plants",
  "level": 5,
  "summary": {
-  "text": "Ferns and mosses never make a flower or a seed, yet new ferns and mosses keep appearing on wet walls. They grow from spores, single cells far too small to see one by one. Scientists group plants by how they make new plants: mosses and ferns make spores, conifers make seeds on cones, and flowering plants make seeds inside fruits. Your child tests how far spores and seeds travel in moving air, builds a key and a family tree of plant groups, and meets what botanists still argue about, such as where flowers came from.",
+  "text": "Ferns and mosses never make a flower or a seed, yet new ferns and mosses keep appearing on wet walls. They grow from spores, single cells far too small to see one by one. Scientists group plants by how they make new plants: mosses and ferns make spores, conifers make seeds on cones, and flowering plants make seeds inside fruits. Your child tests how far spores and seeds travel in moving air, builds a key and a family tree of plant groups, and learns what botanists still argue about, such as where flowers came from.",
   "art": "A wet wall in the monsoon with green moss and a small fern in a crack, a deodar branch with a cone, and a hibiscus flower, each with a small label: spores, seeds on a cone, seeds in a fruit."
  },
  "intro": {
@@ -124,7 +124,7 @@
    "concept": "The four big groups of land plants",
    "status": "defined",
    "definition": "Land plants fall into four big groups by how they make new plants and whether they have veins. Mosses (and their relatives the liverworts and hornworts) have no stiff veins and make spores. Ferns have veins and make spores. Conifers and cycads have veins and make naked seeds on cones. Flowering plants have veins and make seeds inside fruits.",
-   "description": "A key with three questions sorts almost any plant. Does the plant have flowers? Then the plant is a flowering plant. If not, does it make cones? Then the plant is probably a conifer or a cycad. If not, does it have veins? Then the plant is a fern. Small, soft and without veins? Then the plant is a moss or one of their relatives. The groups are not equal in size. About 9 in every 10 kinds of plant alive today are flowering plants. There are about 12,000 kinds of moss, about 10,500 kinds of fern and only about 600 kinds of conifer.",
+   "description": "A key with three questions sorts almost any plant. Does the plant have flowers? Then the plant is a flowering plant. If not, does the plant make cones? Then the plant is probably a conifer or a cycad. If not, does the plant have veins? Then the plant is a fern. If the plant is small and soft and has no veins, the plant is a moss or one of the mosses' relatives. The groups are not equal in size. About 9 in every 10 kinds of plant alive today are flowering plants. There are about 12,000 kinds of moss, about 10,500 kinds of fern and only about 600 kinds of conifer.",
    "examples": [
     "Flowering: tulsi, rice, lotus, the banyan tree (their tiny flowers are hidden inside the figs)",
     "Conifers and cycads: deodar, chir pine, the Khasi pine, the 'Christmas tree' (Araucaria) in many building gardens, and the cycad palm-like plant in hotel gardens",
@@ -160,7 +160,7 @@
    "perspectives": [
     {
      "who": "Many plant scientists",
-     "explanation": "A moss reviving after rain is a set of chemical responses in their cells. They prefer not to call it sensing or deciding."
+     "explanation": "When a moss revives after rain, that is a set of chemical responses in the moss's cells. These scientists prefer not to call it sensing or deciding."
     },
     {
      "who": "Scientists who study plant behaviour",
@@ -266,7 +266,7 @@
    "claim": "Mosses, liverworts and hornworts form one natural family of relatives.",
    "who": "Many botanists, using DNA studies since about 2018",
    "for": "Large DNA studies now mostly place these three groups together on one branch, next to the branch with all the plants that have veins.",
-   "against": "For decades, other DNA studies placed them as separate steps, one after another, below the plants with veins. Some scientists still think the question is not fully settled.",
+   "against": "For decades, other DNA studies placed the three groups on separate branches, one after another, below the plants with veins. Some scientists still think the question is not fully settled.",
    "status": "debated",
    "context": "This card is about whether the small plants without veins are one family or three separate ones."
   },
@@ -304,7 +304,7 @@
   {
    "q": "If we sort plants by colour, by use or by family, we get different groups. Which groups are real, and which are made by us?",
    "kind": "big",
-   "hint": "Try sorting the same six plants three ways. Which way would a plant agree with?"
+   "hint": "Try sorting the same six plants three ways. Which way puts relatives together?"
   },
   {
    "q": "Mosses lived on land long before any flower. Why are they still here, if flowering plants are so successful?",
@@ -355,7 +355,7 @@
   "ask": [
    "Why did Arjun think the fern was sick? How did Nila work out that the fern was not?",
    "What was the brown dust on the white paper?",
-   "Paati said a seed is like a full tiffin box with a passenger, and a spore is a passenger with none. What did she mean?",
+   "Paati said a seed is like a full tiffin box with a small passenger inside, and a spore is a passenger with no tiffin. What did she mean?",
    "Why did the pine cones open in the sun and stay shut in the morning mist?",
    "Why did it take so long for Arjun's fern to grow, and why did a heart shape grow first?"
   ],
@@ -372,12 +372,12 @@
   "context": "We have learned how mosses, ferns, conifers and flowering plants make new plants, and how scientists group them. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the fan test, the haldi dust drifted far, but the mustard seeds dropped close to the fan. A fern's spore is one tiny cell, so the wind carries spores far. A seed holds a young plant and a food store, so seeds are heavier and land nearer. In moving air, the lighter a plant's young are, the farther they travel, and the less food they carry.",
-   "habit": "We call mosses and ferns 'lower plants', as if a spore were a failed seed. But spores and seeds are two different bargains. Spores travel far and cost the parent little each. Seeds travel less far but start their life fed. Neither is the better way everywhere.",
+   "habit": "We call mosses and ferns 'lower plants', as if a spore were a failed seed. But spores and seeds are two different ways, and each has a cost. A spore travels far and costs the parent plant very little to make, but carries almost no food. A seed travels less far, but starts life with food. Neither way is better everywhere.",
    "evidence": "In the fan test, haldi as fine as spores spread across the paper track, while mustard fell within a short distance and rajma almost straight down. Orchid seeds, as fine as dust and with almost no food, also travel far, and they need a fungus to feed them before they can sprout."
   },
   "three": {
    "who_am_i": "You started as one cell too, like a spore. But you were fed by your mother for nine months, more like a seed.",
-   "what_is_life": "Many living beings send their young out into the world. Plants do it in different ways: many light travellers, or a few well-fed ones.",
+   "what_is_life": "Many living beings send their young out into the world. Plants do it in different ways: some send out many light spores, and others send out fewer seeds that carry food.",
    "what_is_this_world": "The air around you carries spores from ferns, mosses and fungi, too small to see. Some of them came from far away."
   },
   "thread": "All land plants came from one kind of green alga, living in fresh water more than 470 million years ago. From that one ancestor came mosses, then plants with veins, then seed plants, then flowering plants. Each new branch kept going alongside the old ones. So the one green ancestor became the many plants around you, from the moss on a wall to the rice on your plate. They are all one family, living in different ways.",
@@ -412,9 +412,9 @@
    "view": "The family tree of plants is real, because plants really do have ancestors. But where we cut that tree into named groups is our choice. Nature does not label her branches 'fern' or 'moss'. People do."
   },
   "practice": {
-   "title": "Watch the spores in a sunbeam",
+   "title": "Watch the specks in a sunbeam",
    "mins": 3,
-   "say": "Let's make the room a little dark and let one beam of sunlight in. Look at the tiny specks floating in the beam. Most are dust and fibres. The air also carries spores, but each one is too small for us to see. Let's breathe slowly six times and watch the specks. Each spore is a single cell, waiting for somewhere damp.",
+   "say": "Let's make the room a little dark and let one beam of sunlight in. Look at the tiny specks floating in the beam. Most are dust and fibres. The air also carries spores, but each one is too small for us to see. Let's breathe slowly six times and watch the specks. Each spore is a single cell that can grow if it lands somewhere damp.",
    "kid": "Close the curtain a little. Let one sunbeam in. Watch the specks floating in it. Most are dust. Spores float in the air too, but they are too small to see. Breathe slowly six times."
   },
   "ask": [
@@ -490,7 +490,7 @@
       },
       {
        "f": "Jasmine (malli): white flowers worn in the hair",
-       "b": "Flower group. Jasmine is known by her flowers; the cultivated kinds seldom set seed.",
+       "b": "Flower group. You can tell jasmine by her flowers. The kinds grown in gardens seldom make seeds.",
        "img": {
         "src": "media/cards/plant-variety-g1-0-07.jpg",
         "credit": "Nathasha K V, CC BY, via iNaturalist"
@@ -631,7 +631,7 @@
    "rules": [
     "Shuffle the cards and put them in a pile, plant side up.",
     "On your turn, read the top card aloud. Say which group the plant belongs to, and give one reason.",
-    "Turn the card over. If you named the right group and gave a reason, keep the card. If not, put the card on the right space of the mat.",
+    "Turn the card over. If you named the right group and gave a reason, keep the card. If not, put the card on its correct space on the mat.",
     "When the pile is finished, the player with the most cards wins.",
     "Playing alone: try to keep all 24, then play again to beat your score."
    ],
@@ -654,7 +654,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 24 cards and the mat. 2. Shuffle the cards. 3. Put them in a pile, plant side up.",
-     "say": "Every plant makes new plants in one of three ways. Spores, seeds on cones, or seeds in fruits. Let's see if we can tell which.",
+     "say": "Every plant makes new plants in one of three ways: spores, seeds on cones, or seeds in fruits. Let's see if we can tell which.",
      "kid": "Cut out the cards and the mat. Mix the cards. Put them in a pile.",
      "context": "This is the first step of Spore, Cone or Flower? Here you set up the cards and the mat."
     },
@@ -872,7 +872,7 @@
      "kid": "Count the questions in your best round. Halve 16 until you reach 1. How many halvings was that?",
      "check": {
       "t": "mcq",
-      "q": "Every question cuts the cards exactly in half. What is the fewest yes-or-no questions that always finds one card out of 16?",
+      "q": "Suppose every question cuts the cards exactly in half. How many yes-or-no questions do you need to get from 16 cards to one?",
       "options": [
        "4",
        "8",
@@ -881,7 +881,7 @@
       "a": 0,
       "why": "16 halves to 8, then 4, then 2, then 1. That is 4 questions. In real life a question rarely splits the cards exactly in half, so a real key often needs more."
      },
-     "context": "This is the last step of Twenty Questions with a Key. Here you turn your best questions into a key."
+     "context": "This is the last step of Twenty Questions with a Key. Here you count how many questions it takes to get from 16 cards to one."
     }
    ]
   }
@@ -941,7 +941,7 @@
      "what": "Lay the paper track. Drop each thing 3 times in front of the fan. Measure, find the averages and draw a bar chart."
     }
    ],
-   "record": "Fill in the table, then draw a bar chart with one bar for each thing you dropped. Write one sentence for your claim, one for your evidence and one for your reasoning.",
+   "record": "Fill in the table, then draw a bar chart with one bar for each thing you dropped. Write one sentence saying what you found (your claim), one giving the numbers that show it (your evidence) and one saying why you think it happened (your reasoning).",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: average distance travelled",
@@ -1001,7 +1001,7 @@
        "q": "Why do you think so?",
        "good": [
         "The haldi is lighter, so the wind can push it more easily.",
-        "The rajma is heavy, so the bean falls fast before the wind can push them."
+        "The rajma is heavy and falls fast, before the wind can push the bean far."
        ]
       }
      ],
@@ -1010,17 +1010,17 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Hold one rajma bean level with the middle of the fan, at the drop spot. 2. Let go without throwing. 3. Measure where the bean first landed, before rolling, if you can see. 4. Do this 3 times and write each distance in the table.",
+     "do": "1. Hold one rajma bean level with the middle of the fan, at the drop spot. 2. Let go without throwing. 3. Measure to the spot where the bean first hit the paper, not where the bean rolled to. 4. Do this 3 times and write each distance in the table.",
      "say": "Hold your hand at the drop spot, level with the middle of the fan. Just open your fingers. Don't throw.",
      "kid": "Hold one rajma at the drop spot, level with the fan's middle. Let go. Where did it land? Do it 3 times.",
      "parent": "If a bean rolls, measure where the bean first hit the paper. Watching carefully is part of the test.",
-     "context": "This step of the Fan Test drops the biggest seed, a rajma bean, in front of the fan and measures how far it lands."
+     "context": "This step of the Fan Test drops the biggest seed, a rajma bean, in front of the fan and measures how far away the bean lands."
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "1. Hold 3 or 4 mustard seeds at the same height. 2. Let them fall. 3. Measure to the seed that landed farthest. 4. Do this 3 times and write each distance in the table.",
-     "say": "Now the mustard seeds. Same height, same spot. Watch where they land.",
+     "say": "Now drop the mustard seeds from the same height and the same spot. Watch where they land.",
      "kid": "Drop a few mustard seeds from the same height. Find the one that went farthest. Measure. Do it 3 times.",
      "context": "This step of the Fan Test drops small seeds, mustard, in front of the fan and measures how far they travel."
     },
@@ -1047,7 +1047,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Ask your child to choose one more thing to test, such as til, jeera, sooji or a wisp of cotton. 2. Ask them to predict where it fits among the three results. 3. Test it 3 times in the same way.",
+     "do": "1. Ask your child to choose one more thing to test, such as til, jeera, sooji or a wisp of cotton. 2. Ask them to guess whether it will land nearer or farther than the haldi, the mustard and the rajma. 3. Test it 3 times in the same way.",
      "say": "Now you design part of the test. Choose one more thing. Where do you think it will land, compared with the others? Why?",
      "kid": "Choose one more thing to test. Guess where it will land. Say why. Test it 3 times.",
      "parent": "This is your child's own investigation. Ask them which things must stay the same for it to be fair: the height, the spot and the fan speed.",
@@ -1056,7 +1056,7 @@
     {
      "id": "s7",
      "mins": 6,
-     "do": "1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart. 3. Say a claim, the evidence and the reasoning.",
+     "do": "1. Work out the average for each thing: add the three distances and divide by 3. 2. Draw a bar chart. 3. Say what you found (your claim), which numbers show it (your evidence) and why you think it happened (your reasoning).",
      "say": "What did we find? Tell me your claim, the evidence from our numbers, and why you think it happened.",
      "kid": "Add your three numbers. Divide by 3. Draw a bar for each thing. Say what you found and why.",
      "ask": [
@@ -1084,7 +1084,7 @@
        "The rajma was dropped from lower down"
       ],
       "a": 1,
-      "why": "Tiny, light grains fall very slowly, so moving air has time to carry them far. A rajma is heavy and falls fast. Colour has nothing to do with it. And in a fair test, everything was dropped from the same height."
+      "why": "Tiny, light grains fall very slowly, so moving air has time to carry them far. A rajma is heavy and falls fast. Colour has nothing to do with it. And the test was fair: everything was dropped from the same height."
      },
      "context": "This is the last step of the Fan Test. Here you find the averages, draw a bar chart and explain what you found."
     }
@@ -1095,7 +1095,7 @@
    "title": "The Pine Cone Weather Test (if you have a pine cone)",
    "mins": 25,
    "days": 2,
-   "context": "In this experiment you soak a pine cone in water and then dry it, to see whether the cone opens and closes with the weather. You need a dry, open pine cone: from a hill station, a craft shop or a nursery.",
+   "context": "In this experiment you soak one pine cone in water and then dry it, to see whether the cone opens and closes with the weather. You need two dry, open pine cones, from a hill station, a craft shop or a nursery.",
    "question": "Does a pine cone close when wet and open when dry? How does that help the pine tree?",
    "predict": "Guess first. What will happen to an open pine cone after an hour in water? What will happen when it dries in the sun again? Why do you think so?",
    "fair_test": "Measure the same cone at its widest point each time, with the same ruler. Compare it with a second cone that stays dry, so you know the change came from the water and not from time passing.",
@@ -1319,7 +1319,7 @@
    "title": "Split a Dhania Seed: seed or fruit?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at seeds from the kitchen, and find out that some 'seeds' are really whole fruits. It starts the big question of the unit: how do plants without flowers or fruits make new plants?",
+   "context": "In this activity you look closely at seeds from the kitchen, and find out that some 'seeds' are really whole fruits. It leads to the big question of the unit: how do plants without flowers or fruits make new plants?",
    "materials": [
     {
      "item": "whole dhania (coriander) seeds",
@@ -1370,7 +1370,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what it can have inside. 3. Write your child's guess to compare with the Fan Test.",
+     "do": "1. Line up a rajma, a mustard seed and a dhania seed, biggest to smallest. 2. Say that a fern spore is far smaller than all three. Ask what could fit inside a spore. 3. Write down your child's guess, so you can compare it with the results of the Fan Test.",
      "say": "A fern spore is much smaller than the smallest of these. What could fit inside something so small, and what could not?",
      "kid": "A fern spore is smaller than all of these. What could fit inside it? What could not? Write your guess.",
      "ask": [
@@ -1382,7 +1382,7 @@
        ]
       }
      ],
-     "context": "This is the last step of Split a Dhania Seed. Here you ask how plants without seeds make new plants."
+     "context": "This is the last step of Split a Dhania Seed. Here you ask what could fit inside a fern spore, which is far smaller than any seed."
     }
    ]
   },
@@ -1420,7 +1420,7 @@
      "do": "1. Copy this key onto paper. Question 1: Does the plant make flowers? Yes means a flowering plant. 2. Question 2: Does the plant make cones? Yes means a conifer or cycad. 3. Question 3: Does the plant have veins? Yes means a fern. No means a moss or relative.",
      "say": "A key is a set of questions. Each answer sends you down one arrow. Let's draw one.",
      "kid": "Copy the key. Each question has a yes arrow and a no arrow.",
-     "context": "This is the first step of the Four-Question Key. Here you copy a key that sorts plants into four groups."
+     "context": "This is the first step of A Key for the Four Plant Groups. Here you copy a key that sorts plants into four groups."
     },
     {
      "id": "s2",
@@ -1437,13 +1437,13 @@
        ]
       }
      ],
-     "context": "This step of the Four-Question Key walks each plant card through the key."
+     "context": "This step of A Key for the Four Plant Groups takes each plant card through the key."
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "1. Ask your child to make a new key for the same plants. It should start with a different question, such as 'Does the plant make seeds?'. 2. Test it on every card. 3. Check that each plant still ends up in their group.",
-     "say": "Can you make a key that starts with a different question? Does the plant still sort every plant correctly?",
+     "say": "Can you make a key that starts with a different question? Does your key still sort every plant correctly?",
      "kid": "Make your own key. Start with a new question. Test it on every card.",
      "parent": "A strong key asks about features that every plant either has or lacks, such as seeds or veins. Questions like 'Is the plant big?' fail, because 'big' means different things to different people.",
      "check": {
@@ -1457,7 +1457,7 @@
       "a": 1,
       "why": "Every plant either makes seeds or does not, so everyone gets the same answer. 'Pretty' and 'big' depend on who is looking, so two people could go down different arrows."
      },
-     "context": "This is the last step of the Four-Question Key. Here you design a key of your own and test it."
+     "context": "This is the last step of A Key for the Four Plant Groups. Here you design a key of your own and test it."
     }
    ]
   },
@@ -1568,7 +1568,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Ask whether the moss is the 'ancestor' of the fern. 2. Point out that the moss on your wall today is a cousin, not a grandparent.",
-     "say": "Is the moss alive today the great-grandmother of the fern? Or are they cousins?",
+     "say": "Is the moss that is alive today the great-grandmother of the fern? Or are the moss and the fern cousins?",
      "kid": "Is today's moss the fern's grandmother? Or their cousin? Why?",
      "parent": "Living mosses and living ferns share an ancestor that lived long ago, but neither came from the other. Both have kept changing since. This is why a family tree has living plants only at the tips.",
      "check": {
@@ -1702,7 +1702,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Pour what is left in each tumbler into the measuring cup. 2. Take it away from 200 ml to find what each one held.",
+     "do": "1. Pour the water that is left in each tumbler into the measuring cup. 2. Take that amount away from 200 ml. The answer is how much water the moss or the soil held.",
      "say": "If 140 ml is left, then the moss held 60 ml. Let's find out.",
      "kid": "Measure what is left. Take it away from 200. That is what each one held.",
      "context": "This step of the Moss Sponge measures how much water the moss and the soil held."
@@ -1896,7 +1896,7 @@
      "what": "Compare the two jars and write a conclusion."
     }
    ],
-   "record": "Draw both jars every week. Write a claim, the evidence and your reasoning at the end.",
+   "record": "Draw both jars every week. At the end, write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).",
    "setup": [
     {
      "art": "Two jars a quarter full of soil, one open and one covered with cling film, on a bright windowsill.",
@@ -1931,8 +1931,8 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Compare the jars on day 28. 2. Write a claim, the evidence and your reasoning.",
-     "say": "What did the open jar catch that the covered jar did not? What does that tell us about the air?",
+     "do": "1. Compare the jars on day 28. 2. Write what you found (your claim), what you saw that shows it (your evidence) and why you think it happened (your reasoning).",
+     "say": "What did jar A, the open jar, catch that jar B, the closed jar, did not? What does that tell us about the air?",
      "kid": "Compare the jars. What grew in each? What does that tell you about the air?",
      "ask": [
       {
@@ -1954,9 +1954,9 @@
    "title": "A Seed That Flies and Still Carries Food",
    "mins": 30,
    "context": "This is an engineering challenge. In the Fan Test, the heavy rajma barely moved. Here you design wings or hairs that help a heavy seed travel farther in the same wind.",
-   "problem": "Use a kabuli chana as your seed, with the food store inside. Add a design that makes the chana land as far as possible from the drop spot in front of the fan.",
+   "problem": "Use a kabuli chana as your heavy seed, with a food store inside. Add something to the chana that makes the chana land as far as possible from the drop spot in front of the fan.",
    "constraints": [
-    "The chana must stay attached and must not be cut.",
+    "The chana must stay attached to your design, and you must not cut the chana.",
     "Use only paper, thread, tape and cotton from home.",
     "Drop the chana from the same height and spot as in the Fan Test (level with the middle of the fan), with the fan on its lowest speed."
    ],
@@ -2116,7 +2116,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Pooja, a girl in Class 5 in Pune, says, 'Every plant makes flowers at some time in their life.' Is she right?",
+     "p": "True or false: every plant makes flowers at some time in their life.",
      "a": false,
      "why": "False. Mosses, ferns and conifers never make flowers. A strong answer names one, such as a fern or a pine."
     },
@@ -2211,7 +2211,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 5 in Kochi, sees green moss on her wall in the monsoon. In April the same moss looks brown and dry. Why?",
+     "p": "Green moss grows on a wall in the monsoon. In April the same moss looks brown and dry. Why?",
      "opts": [
       "Mosses grow and stay green only when they are wet",
       "Moss turns brown because they are old and dead",
@@ -2248,7 +2248,7 @@
     },
     {
      "t": "order",
-     "p": "Put these steps of a fair test of how far things blow in front of a fan in order.",
+     "p": "These are the steps of a fair test of how far things travel in front of a fan. Put them in order.",
      "a": [
       "Lay a paper track in front of the fan and mark it every 25 cm",
       "Guess which will travel farthest and say why",
@@ -2278,16 +2278,16 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Hyderabad argue about spores and seeds.",
+     "p": "Two friends argue about spores and seeds.",
      "a": "A strong answer uses how far things blow: tiny spores travel far, heavy seeds stay near. It sees that each way has a cost: spores have no food, seeds travel less far. It agrees with one friend and gives one fair point from the other.",
      "why": "There is no single winner. Each way of making new plants suits a different kind of life.",
      "views": [
       {
-       "who": "Farhana, aged 10",
+       "who": "The first friend",
        "says": "Seeds are better. A seed has food inside, so the young plant gets a good start."
       },
       {
-       "who": "Meenakshi, aged 11",
+       "who": "The second friend",
        "says": "Spores are better. They are so light that the wind carries them far, and a fern makes millions of them."
       }
      ],
@@ -2337,7 +2337,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 5 in Madurai, finds a small fern growing on a wall across the street from any other fern. Explain how the fern could have got there.",
+     "p": "A small fern is growing on a wall, across the street from any other fern. Explain how the fern could have got there.",
      "a": "A fern somewhere nearby released spores into the air. The wind carried one spore to the damp wall. The spore grew into a tiny heart-shaped plant, and then into a new fern.",
      "why": "A strong answer uses the idea that spores are light enough for the wind to carry far, as the haldi was in the Fan Test.",
      "lines": 4,
@@ -2395,7 +2395,7 @@
     },
     {
      "t": "mcq",
-     "p": "Shalini, a girl in Class 5, measured where her mustard seeds landed in the Fan Test: they landed 15 cm, 20 cm and 25 cm away. What is the average?",
+     "p": "In the Fan Test, the mustard seeds landed 15 cm, 20 cm and 25 cm away in three tries. What is the average distance?",
      "opts": [
       "20 cm",
       "60 cm",
@@ -2424,7 +2424,7 @@
        "says": "Seaweeds are plants. They are green or brown and make food from sunlight, just like a tulsi."
       },
       {
-       "who": "Dr Sudha, a botanist",
+       "who": "A botanist",
        "says": "Only land plants, which all came from one green alga, should be called plants. Red and brown seaweeds are on very different branches of the tree of life."
       }
      ],
@@ -2553,11 +2553,11 @@
      "why": "This is still argued about. Both kinds of evidence are real, and each has limits.",
      "views": [
       {
-       "who": "Dr Anjali, who studies fossils",
+       "who": "A scientist who studies fossils",
        "says": "The oldest flower fossils are about 130 million years old. So flowering plants began about then, and spread fast."
       },
       {
-       "who": "Dr Grace, who studies DNA",
+       "who": "A scientist who studies DNA",
        "says": "By measuring how fast DNA changes, we think flowering plants began much earlier, but stayed small and rare at first."
       }
      ],
@@ -2578,7 +2578,7 @@
     },
     {
      "t": "write",
-     "p": "Before seed plants, only mosses, ferns and their relatives lived on land. Explain why seed plants could spread into dry lands where they could not.",
+     "p": "Before seed plants, only mosses, ferns and their relatives lived on land. Explain why seed plants could spread into dry lands where mosses and ferns could not live.",
      "a": "Seed plants use pollen, which travels by wind or animals, so their male cells don't need water to swim. Their seeds carry food and a tough coat, so they can wait in dry ground until rain comes.",
      "why": "A strong answer gives both reasons: pollen means the male cells need no water to travel, and seeds can survive dry times.",
      "lines": 4
@@ -2587,7 +2587,7 @@
      "t": "truefalse",
      "p": "Cycads and the ginkgo tree still make male cells that swim, inside the pollen.",
      "a": true,
-     "why": "True. In 1896 two Japanese scientists, Sakugoro Hirase and Seiichiro Ikeno, found swimming male cells in the ginkgo and in cycads, one in each. Even so, they swim only a very short way, within the seed plant."
+     "why": "True. In 1896 two Japanese scientists, Sakugoro Hirase and Seiichiro Ikeno, found swimming male cells. One scientist found them in the ginkgo and the other in cycads. These male cells swim only a very short way, inside the plant."
     },
     {
      "t": "mcq",
@@ -2605,7 +2605,7 @@
     {
      "t": "write",
      "p": "Long ago, ferns, mosses, algae and fungi were put into one group because none of them has flowers. Why is 'has no flowers' a poor way to make a group?",
-     "a": "No flowers only says what the plants lack. Mosses and ferns turned out to be relatives of conifers, but fungi and algae are far away on the tree of life. A good group needs a shared ancestor, not a shared missing part.",
+     "a": "'Has no flowers' only says what the plants lack. Mosses and ferns turned out to be relatives of conifers, but fungi and algae are far away on the tree of life. A good group needs a shared ancestor, not a shared missing part.",
      "why": "A strong answer says that a group made from something missing can mix unrelated living beings, and that a shared ancestor is what makes a real group.",
      "lines": 4
     },
@@ -2690,7 +2690,7 @@
     {
      "t": "write",
      "p": "When a fern's spore cases dry out, they snap open and fling the spores out, fast. Some people say the fern senses dry air and chooses that moment. Others say it is only a mechanism, like a spring. Write both views, then say what you think.",
-     "a": "Ferns sense the weather and release their spores when the air is dry, which is when spores fly best. Many scientists describe this as a mechanism: the walls of the spore case dry and bend until they snap. My view, with a reason.",
+     "a": "One view: ferns sense the weather and release their spores when the air is dry, which is when spores fly best. The other view, held by many scientists: this is a mechanism. The walls of the spore case dry and bend until they snap. Then the child gives their own view, with a reason.",
      "why": "A strong answer states both views fairly, and gives a reason for its own view. Both views agree on what happens. They differ on how to describe it.",
      "lines": 5
     },
@@ -2792,7 +2792,7 @@
   },
   {
    "t": "mcq",
-   "p": "You are using a key. The first question is 'Does the plant have flowers?' The answer is no. The next is 'Does the plant make cones?' The answer is no. The plant has fronds with veins. What is it?",
+   "p": "You are using a key. The first question is 'Does the plant have flowers?' The answer is no. The next is 'Does the plant make cones?' The answer is no. The plant has fronds with veins. What is the plant?",
    "opts": [
     "A fern",
     "A conifer",
@@ -2865,12 +2865,12 @@
     "Mosses have flowers"
    ],
    "a": 0,
-   "why": "Mosses' ancestors came earlier, but living mosses are not unfinished plants. 'Lower' suggests a ladder, and a family tree is a bush.",
+   "why": "Mosses' ancestors came earlier, but living mosses are not unfinished plants. 'Lower' suggests a ladder, but a family tree branches like a bush.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Rekha, a girl in Class 5, wants to know if til travels farther than mustard in the Fan Test. Which test is fair?",
+   "p": "You want to know if til travels farther than mustard in the Fan Test. Which test is fair?",
    "opts": [
     "Drop both from the same height, at the same spot, with the same fan speed, 3 times each",
     "Drop til from higher up because it is lighter",
@@ -2897,7 +2897,7 @@
    "channel": "MartinMicroscope",
    "youtube": "-xF83pHEx6Q",
    "mins": 3,
-   "why": "Fern spore cases fling out spores faster than the eye can see. Slow motion shows the catapult.",
+   "why": "Fern spore cases fling out spores faster than the eye can see. Slow motion shows how the spore case flings them.",
    "check": "Not yet watched by a person: watch it first."
   },
   {
@@ -3100,7 +3100,7 @@
    "why_maths": "Huge spans of time are impossible to picture. A scale shrinks them onto a strip you can see, so you notice that flowers are a recent arrival."
   },
   {
-   "problem": "On a pine cone, Bornali, a girl in Class 5, counted 8 spirals going one way and 13 going the other. In the pattern 1, 1, 2, 3, 5, 8, 13, each number is the sum of the two before it. What are the next two numbers?",
+   "problem": "A pine cone has 8 spirals going one way and 13 going the other. In the pattern 1, 1, 2, 3, 5, 8, 13, each number is the sum of the two before it. What are the next two numbers?",
    "answer": "21 and 34.",
    "explain": "8 + 13 = 21. 13 + 21 = 34. Sunflower heads often have 21 and 34, or 34 and 55, spirals.",
    "math_unit": "math.patterns.number-patterns.L5",
@@ -3295,7 +3295,7 @@
  },
  "how_we_found_out": {
   "context": "How did people find out where ferns and mosses come from? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In 1753 the Swedish botanist Carl Linnaeus sorted plants by counting the parts of their flowers. Ferns, mosses, algae and fungi had no flowers to count, so he put them all into one group. He called it Cryptogamia, 'hidden marriage', because nobody knew how they made new plants. In Europe, many people still believed ferns had invisible seeds. In the 1840s, botanists watched fern spores grow into tiny heart-shaped plants. Then a young man in Leipzig, Wilhelm Hofmeister, studied mosses, ferns and conifers under his microscope. He had never been to university. He worked in his father's music shop and studied plants in his spare time. In 1851 he published a book showing that mosses, ferns and conifers all follow one pattern. Each life has a spore-making stage and an egg-and-sperm stage. In conifers the second stage is hidden inside the cone and the pollen. So the 'hidden' plants were not a separate world. They were relatives of the seed plants, with the same plan of life. The University of Rostock gave him an honorary doctorate, and in 1863 he became a professor.",
+  "story": "In 1753 the Swedish botanist Carl Linnaeus sorted plants by counting the parts of their flowers. Ferns, mosses, algae and fungi had no flowers to count, so he put them all into one group. He called it Cryptogamia, 'hidden marriage', because nobody knew how they made new plants. In Europe, many people still believed ferns had invisible seeds. In the 1840s, botanists watched fern spores grow into tiny heart-shaped plants. Then a young man in Leipzig, Wilhelm Hofmeister, studied mosses, ferns and conifers under his microscope. He had never been to university. He worked in his father's music shop and studied plants in his spare time. In 1851 he published a book showing that mosses, ferns and conifers all follow one pattern. The life of each of these plants has two stages: one that makes spores, and one that makes eggs and sperm. In conifers the second stage is hidden inside the cone and the pollen. So the 'hidden' plants were not a separate world. They were relatives of the seed plants, with the same plan of life. The University of Rostock gave him an honorary doctorate, and in 1863 he became a professor.",
   "who": "Carl Linnaeus, a Swedish botanist; Wilhelm Hofmeister, a German botanist who taught himself",
   "when": "1753 (Linnaeus), the 1840s (fern spores watched as they grew) and 1851 (Hofmeister)",
   "wrong_idea": "That ferns and mosses were a separate, mysterious kind of plant with hidden or invisible seeds. Hofmeister showed that they follow the same pattern of life as conifers, only without seeds.",

@@ -3,7 +3,7 @@
   "title": "Inside a cell: the skin, the jelly and the instruction room",
   "level": 4,
   "summary": {
-    "text": "A potato strip dropped in plain water stays stiff. The same strip in strong salt water goes floppy, though nobody squeezed it. Every potato cell has a thin skin, and water moves through that skin in both directions. Your child tests this with a fair test, then finds the three main parts of a cell, the membrane, the cytoplasm and the nucleus. They see how plant cells and animal cells differ, why cells are so small, and how one cell on her own can eat, move and sense. They learn how scientists proved the skin was there long before anyone could see it, and what nobody yet knows about the very first cell.",
+    "text": "A strip of potato left in plain water stays stiff. A strip from the same potato left in strong salt water goes floppy, though nobody squeezed it. Every potato cell has a thin skin, and water moves through that skin in both directions. Your child tests this with a fair test, then finds the three main parts of a cell: the membrane, the cytoplasm and the nucleus. They see how plant cells and animal cells differ, why cells are so small, and how one cell on her own can eat, move and sense. They learn how scientists proved the skin was there long before anyone could see it, and what nobody yet knows about the very first cell.",
     "art": "Two potato strips held side by side: one stiff and straight from a cup of plain water, the other drooping over a finger from a cup of salty water."
   },
   "intro": {
@@ -13,11 +13,11 @@
   },
   "outcomes": [
     "I can name the three main parts of a cell, the membrane, the cytoplasm and the nucleus, and say what each one does.",
-    "I can say how plant cells and animal cells are alike and how they differ: cell wall, chloroplasts and a big vacuole.",
+    "I can say how plant cells and animal cells are alike, and name the three things only plant cells have: a cell wall, chloroplasts and a big vacuole.",
     "I can explain that a cell's skin lets some things through and keeps others out, and that water moves through it in both directions.",
     "I can run a fair test with potato strips in plain and salty water, and explain the result.",
     "I can give examples of single-celled living things and say how one cell eats, moves, senses and gets rid of waste.",
-    "I can explain why cells stay small, using the idea of surface.",
+    "I can explain why cells stay small: food and oxygen come in through the surface, and a big cell has too little surface for her size.",
     "I can tell how scientists found the cell's skin before they could see it.",
     "I can say that mitochondria and chloroplasts began as bacteria, and name what nobody knows yet about the first cells."
   ],
@@ -125,7 +125,7 @@
       "concept": "The three main parts of a cell: skin, jelly and instruction room",
       "status": "defined",
       "definition": "Almost every cell has a cell membrane around the outside, cytoplasm filling the inside, and DNA that holds the instructions. In many cells the DNA is kept inside a nucleus.",
-      "description": "Think of a cell as a very small kitchen. The membrane is the wall and door of the kitchen. It decides what comes in and what goes out. The cytoplasm is everything inside the kitchen, the air and the counters. It is a jelly that is mostly water, and most of the cell's work happens in it. The nucleus is a locked cupboard that holds the recipe book. The recipe book is DNA. It tells the cell which things to build and when. Plant, animal and fungus cells have a nucleus. Bacteria do not. Their DNA floats loose in the cytoplasm. The kitchen picture is only a help. A real cell is not a still room. Everything in her is moving all the time.",
+      "description": "Think of a cell as a very small kitchen. The membrane is the wall and door of the kitchen. It decides what comes in and what goes out. The cytoplasm is everything inside the kitchen, the air and the counters. It is a jelly that is mostly water, and most of the cell's work happens in it. The nucleus is a locked cupboard that holds the recipe book. The recipe book is DNA. It tells the cell which things to build and when. Plant, animal and fungus cells have a nucleus. Bacteria do not. Their DNA floats loose in the cytoplasm. The kitchen is only a picture to help you. A real cell is not a still room. Everything in her is moving all the time.",
       "examples": [
         "A cheek cell has a membrane, cytoplasm and a nucleus.",
         "A bacterium has a membrane and cytoplasm, and a loop of DNA floating loose in the cytoplasm with no nucleus.",
@@ -151,7 +151,7 @@
       "concept": "Osmosis: water moves towards the saltier side",
       "status": "defined",
       "definition": "Osmosis is the movement of water through a membrane from the side with less dissolved stuff to the side with more dissolved stuff.",
-      "description": "Water molecules are always moving, and they pass back and forth through the cell membrane both ways. When there is more dissolved stuff on one side, such as salt or sugar, more water ends up on that side. In plain water, a potato cell has more dissolved stuff inside than outside. So water moves in, and the cell grows firm. In strong salt water, there is more dissolved stuff outside, so water moves out. The cell loses water and goes limp. This is why salt draws water out of mango pieces in pickle, and why a raisin swells in water. The salt does not suck on the water. Water simply moves through the membrane both ways, and more of it ends up on the side with more dissolved stuff. Osmosis happens at every skin. A cell can change how much dissolved stuff she keeps inside.",
+      "description": "Water molecules are always moving, and they pass through the cell membrane in both directions. When there is more dissolved stuff on one side, such as salt or sugar, more water ends up on that side. In plain water, a potato cell has more dissolved stuff inside than outside. So water moves in, and the cell grows firm. In strong salt water, there is more dissolved stuff outside, so water moves out. The cell loses water and goes limp. This is why salt draws water out of mango pieces in pickle, and why a raisin swells in water. The salt does not suck on the water. Water simply moves through the membrane both ways, and more of it ends up on the side with more dissolved stuff. Osmosis happens at the skin of every cell. A cell can change how much dissolved stuff she keeps inside.",
       "examples": [
         "Salt sprinkled on cut brinjal slices draws water out and leaves a wet plate.",
         "Raisins left in water overnight swell, because their sugary insides draw water in.",
@@ -166,7 +166,7 @@
       "definition": "Cytoplasm is everything inside the cell membrane apart from the nucleus. It is a jelly made mostly of water, with the organelles floating in it.",
       "description": "Most of the chemistry of life goes on in the cytoplasm. Food is broken down, parts are built and waste is made. Tiny molecules zip around it, and larger parts are carried along on thin threads. In some cells, such as the cells of a pond plant called Hydrilla, the whole cytoplasm flows round the cell in a slow stream. This is called cytoplasmic streaming. It moves food and organelles around the cell. The cytoplasm is crowded. Proteins and other big molecules fill the space, so the jelly is thicker than the water you drink. Organelles float in it. The mitochondria release energy from food. In plant cells, the chloroplasts make sugar from sunlight.",
       "examples": [
-        "Look at a Hydrilla leaf under a good microscope and the green chloroplasts are carried around the cell by the streaming cytoplasm.",
+        "Under a good microscope, you can see the green chloroplasts in a Hydrilla leaf being carried around the cell by the streaming cytoplasm.",
         "A raw egg yolk is one huge cell, packed with food for a chick.",
         "When a red blood cell squeezes through a very narrow tube, her cytoplasm lets her bend and fold."
       ],
@@ -229,7 +229,7 @@
       "concept": "Single cells that do everything",
       "status": "defined",
       "definition": "A single-celled living thing is a whole being made of one cell. That one cell takes in food, makes energy, senses her surroundings, moves, gets rid of waste and divides to make more.",
-      "description": "Your body has different cells for different jobs. A single cell has to do every job herself. An amoeba pushes out a part of herself and flows forward. When she meets food, she wraps herself round it, and the food ends up in a bubble inside her where it is broken down. A paramecium swims by beating thousands of tiny hairs. She can back away from an obstacle and try another way. Pond water keeps flowing into her by osmosis, so she has a small pump called a contractile vacuole that pushes the extra water out again and again. A euglena has chloroplasts and makes sugar in the light, and she can also swim towards the light with a whip-like tail and sense it with a red spot. A bacterium senses food and swims towards the smell. A single cell is not a half-made body. She is a complete life.",
+      "description": "Your body has different cells for different jobs. A single cell has to do every job herself. An amoeba pushes out a part of herself and flows forward. When she meets food, she wraps herself round it, and the food ends up in a bubble inside her where it is broken down. A paramecium swims by beating thousands of tiny hairs. She can back away from an obstacle and try another way. Pond water keeps flowing into her by osmosis, so she has a small pump called a contractile vacuole that pushes the extra water out again and again. A euglena has chloroplasts and makes sugar in the light. She senses the light with a red spot and swims towards it with a whip-like tail. A bacterium senses food and swims towards the smell. A single cell is not a half-made body. She is a complete life.",
       "examples": [
         "An amoeba wraps round a smaller cell and takes it in.",
         "A paramecium swims backwards when she bumps into something.",
@@ -242,7 +242,7 @@
       "concept": "Mitochondria and chloroplasts: visitors who stayed",
       "status": "defined",
       "definition": "Scientists agree that mitochondria and chloroplasts began as free-living bacteria that were taken inside larger cells more than a billion years ago and stayed as partners. This is called endosymbiosis.",
-      "description": "Mitochondria and chloroplasts have their own small loops of DNA, their own double membranes, and they divide on their own inside the cell, like bacteria do. Their DNA is more like the DNA of bacteria than that of the cell they live in. Lynn Margulis, an American biologist, argued for this in 1967, and her paper was turned down by many journals before one published it. At first, many biologists thought the idea was wild. Since then, DNA studies have shown that she was right. A mitochondrion cannot live outside her cell now, and the cell cannot live without her mitochondria. So your cells are built out of partnerships. Scientists still argue about exactly how the first partnership began.",
+      "description": "Mitochondria and chloroplasts have their own small loops of DNA and their own double membranes. They divide on their own inside the cell, as bacteria do. Their DNA is more like the DNA of bacteria than the DNA of the cell they live in. Lynn Margulis, an American biologist, argued in 1967 that they began as free-living bacteria. Her paper was turned down by many journals before one published it. At first, many biologists thought the idea was wild. Since then, DNA studies have shown that she was right. A mitochondrion cannot live outside her cell now, and the cell cannot live without her mitochondria. So your cells are built out of partnerships. Scientists still argue about exactly how the first partnership began.",
       "examples": [
         "The mitochondria in your cells have their own DNA, which you inherit only from your mother.",
         "The chloroplasts of a leaf are descended from bacteria that could already catch sunlight.",
@@ -269,7 +269,7 @@
         },
         {
           "who": "Instructions first (the RNA world)",
-          "explanation": "RNA can store a message and also act as a tool. A first molecule that could copy herself could start evolution, and a skin could come later."
+          "explanation": "RNA can store a message and also act as a tool. A first molecule that could copy itself could start evolution, and a skin could come later."
         },
         {
           "who": "Chemistry first",
@@ -285,7 +285,7 @@
     },
     {
       "text": "The cell membrane is made of two layers of fatty molecules with proteins set into it.",
-      "evidence": "In 1925 Evelyn Gorter and François Grendel measured the fat from red blood cells and found twice as much as one layer needs. Electron microscopes later showed the two layers directly."
+      "evidence": "In 1925 Evert Gorter and François Grendel measured the fat from red blood cells and found twice as much as one layer needs. Electron microscopes later showed the two layers directly."
     },
     {
       "text": "Water passes through a membrane towards the side with more dissolved stuff, and this is called osmosis.",
@@ -330,7 +330,7 @@
       "claim": "A body is a team of separate cells working together.",
       "who": "Some biologists who describe a body as a community of cells.",
       "for": "Cells can be grown on their own in a lab. Many cells in a body have their own life cycle and die or divide.",
-      "against": "Cells in a body signal each other all the time and cannot live alone for long without the right surroundings. Others say it makes more sense to call the body one living being whose cells are its parts.",
+      "against": "Cells in a body signal each other all the time and cannot live alone for long without the right surroundings. Others say it makes more sense to call the body one living being, with the cells as her parts.",
       "status": "debated"
     },
     {
@@ -343,9 +343,9 @@
   ],
   "big_questions": [
     {
-      "q": "A potato strip went floppy in salt water, and it never touched anything except her skin. If water goes through a cell's skin in both directions, what decides which way it goes?",
+      "q": "A potato strip went floppy in strong salt water, though nobody squeezed it. The salt water only touched the skins of the potato cells. If water goes through a cell's skin in both directions, what decides which way more of it goes?",
       "kind": "deep",
-      "hint": "Think about what you found in the cups. What was different on the two sides of the skin?"
+      "hint": "In the Potato Strips test, cup A had plain water and cup C had a lot of salt. What was different on the two sides of the cell skin?"
     },
     {
       "q": "A cell's skin must let food in and keep her own chemicals from leaking out. How can one skin do both jobs?",
@@ -360,12 +360,12 @@
     {
       "q": "Why are there no cells as big as a mango?",
       "kind": "deep",
-      "hint": "Think about the ice race and the cubes. What happens to the surface when something gets bigger?"
+      "hint": "In the Ice Race, crushed ice melted faster than a whole cube because it had more surface. What happens to the surface, compared with the inside, when something gets bigger?"
     },
     {
-      "q": "Is a cell a thing, or is she something that keeps happening? What if the skin stopped choosing for one minute?",
+      "q": "A cell's skin keeps choosing what comes in and what goes out, for as long as she lives. What do you think would happen to the cell if the skin stopped choosing for one minute?",
       "kind": "big",
-      "hint": "A stone stays a stone while nothing happens to it. Does a cell stay a cell?"
+      "hint": "A stone stays a stone even when nothing is happening to it. Would a cell stay a cell if nothing went in or out?"
     },
     {
       "q": "You are about 30 trillion cells, and each one is alive. Are you one living being, or a crowd of living beings that live together?",
@@ -400,7 +400,7 @@
       "Rafi stared. 'But she is standing in water,' he said. 'How can she be thirsty? That makes no sense.'",
       "Anjana did not know. She sat on the kitchen step, with her chin in her hands, and watched the seedling droop.",
       "Behind her, Ammamma was making mango pickle. She had cut green mangoes into small pieces and mixed in a big handful of salt. 'Leave it overnight,' she said, and she covered the bowl with a plate.",
-      "Next morning, Anjana lifted the plate. At the bottom of the bowl was a pool of water. The mango pieces were smaller and softer. Nobody had squeezed them. Nobody had added water. And the water was not in a tumbler. It came out of the mango.",
+      "Next morning, Anjana lifted the plate. At the bottom of the bowl was a pool of water. The mango pieces were smaller and softer. Nobody had squeezed them. Nobody had added water. The water had come out of the mango.",
       "Anjana stood very still.",
       "'Ammamma,' she said, 'the salt pulled the water out of the mango.'",
       "'Of course,' said Ammamma. 'That is how pickle keeps. Everyone knows that.'",
@@ -565,7 +565,7 @@
             },
             {
               "f": "A cell uses energy to push salt out through her membrane. What part of the membrane does this?",
-              "b": "A pump. Pumps are proteins in the membrane, and they use energy to push things across against the way they would go."
+              "b": "A pump. Pumps are proteins in the membrane, and they use energy to push things across against the way they would naturally go."
             }
           ]
         }
@@ -597,7 +597,7 @@
             }
           ],
           "parent": "Read the reason on the back each time, even when the answer was right. The reasons are the learning. If nobody gets a card, put it at the bottom.",
-          "context": "In this step you play the first rounds. The back of each card tells you why."
+          "context": "In this step you play the first rounds. The back of each card gives the answer and the reason."
         },
         {
           "id": "s3",
@@ -614,14 +614,14 @@
               "A bacterium"
             ],
             "a": 0,
-            "why": "Those three parts belong to plant cells. Animal cells have no wall and no chloroplasts, and a bacterium has no nucleus or big vacuole. If you picked animal, check the plant-only list again."
+            "why": "Those three parts belong to plant cells. Animal cells have no wall and no chloroplasts, and a bacterium has no nucleus or big vacuole. If you picked animal, remember the three things that only plant cells have: a wall, chloroplasts and a big vacuole."
           },
           "context": "In this step you finish the game and count the cards."
         },
         {
           "id": "s4",
           "mins": 2,
-          "do": "Pick the card you found hardest. Ask your child to explain it again in their own words.",
+          "do": "Ask your child which card was hardest. Ask them to explain it again in their own words.",
           "say": "Which card was hardest? Explain it to me again in your own words.",
           "kid": "Which card was hardest? Explain it again in your own words.",
           "think": "If you could add one more card to the game, what clue would you write?",
@@ -688,7 +688,7 @@
             },
             {
               "f": "Glucose, a sugar, outside a muscle cell.",
-              "b": "HELPER. Glucose is too big and too watery to slip through, so a carrier protein in the membrane passes it across."
+              "b": "HELPER. Glucose is too big to slip through, and it mixes with water. So a carrier protein in the membrane passes it across."
             },
             {
               "f": "Amino acids, the building blocks for proteins, outside a cell.",
@@ -699,7 +699,7 @@
               "b": "PUMP. A pump protein uses energy to push sodium out, against the way it would naturally go."
             },
             {
-              "f": "Potassium that the cell needs to gather inside, where there is already plenty.",
+              "f": "Potassium, outside a cell. The cell needs to gather it inside, where there is already plenty.",
               "b": "PUMP. The same pump that pushes sodium out brings potassium in. It uses energy."
             },
             {
@@ -741,7 +741,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Cut out the cards, the signs and the tokens. Put the energy tokens in the middle. Read the four signs aloud and say what each one means.",
-          "say": "Cut out everything. PASS means no help. HELPER means a carrier protein. PUMP costs energy. BLOCK means it cannot get through.",
+          "say": "Cut out everything. PASS means the visitor slips through with no help. HELPER means a carrier protein passes the visitor across. PUMP means the cell uses energy to push the visitor across. BLOCK means the visitor cannot get through.",
           "kid": "Cut out the cards. Learn the four signs: PASS, HELPER, PUMP, BLOCK.",
           "parent": "If you are playing alone, put the visitor cards in a pile and play the gatekeeper for every card.",
           "context": "This is the first step of Gatekeeper. You get the game ready and learn the four signs."
@@ -763,7 +763,7 @@
             }
           ],
           "parent": "Read the reason on the back each time. If the cell runs out of energy, talk about why: real cells run out of energy too, and pumps stop when they do. Then play again.",
-          "context": "In this step you play the game. The back of each card says why."
+          "context": "In this step you play the game. The back of each card says what the skin does and why."
         },
         {
           "id": "s3",
@@ -920,7 +920,7 @@
         },
         {
           "t": "count",
-          "p": "Meenakshi, a girl in Class 4 in Madurai, finds that her strip in cup A droops 2 mm after 40 minutes, and her strip in cup C droops 26 mm. How many times more does the strip in C droop than the strip in A?",
+          "p": "In the Potato Strips test, the strip in cup A droops 2 mm after 40 minutes, and the strip in cup C droops 26 mm. How many times as much does the strip in C droop as the strip in A?",
           "a": "13",
           "why": "26 divided by 2 is 13. The strip in strong salt water drooped 13 times as much, because the salt was the only thing that was different.",
           "outcome": 3
@@ -1001,7 +1001,7 @@
           "t": "mcq",
           "p": "Oxygen crosses the cell membrane with no help, but sugar needs a carrier protein. What is the best reason?",
           "opts": [
-            "Oxygen is tiny and slips between the fat molecules, but sugar is too big and watery",
+            "Oxygen is tiny and slips between the fat molecules, but sugar is bigger and mixes with water",
             "Oxygen is heavier than sugar",
             "Sugar is alive and oxygen is not"
           ],
@@ -1011,7 +1011,7 @@
         },
         {
           "t": "mcq",
-          "p": "Which part of the membrane uses energy to push salt out against the way it would go?",
+          "p": "Which part of the membrane uses energy to push salt out, against the way it would naturally go?",
           "opts": [
             "A pump protein",
             "A water channel",
@@ -1167,7 +1167,7 @@
         },
         {
           "t": "mcq",
-          "p": "Evelyn Gorter and François Grendel spread the fat from red blood cells on water. It covered about twice the surface of the cells. What did they conclude?",
+          "p": "Evert Gorter and François Grendel spread the fat from red blood cells on water. It covered about twice the surface of the cells. What did they conclude?",
           "opts": [
             "The skin of a cell is two layers of fat thick",
             "The cells were twice as big as they looked",
@@ -1186,7 +1186,7 @@
             "A book said so"
           ],
           "a": 0,
-          "why": "Wilhelm Pfeffer and others saw that water moved in a way only a thin skin could explain. When a tool cannot see something, scientists can still tell it is there from what it does.",
+          "why": "Wilhelm Pfeffer and others saw that water moved in a way only a thin skin could explain. Even when no tool can show a thing, scientists can still tell it is there from what it does.",
           "outcome": 6
         },
         {
@@ -1231,7 +1231,7 @@
           "t": "mcq",
           "p": "A hospital drip is made with a little salt, about 9 grams in a litre of water, and not with plain water. Why?",
           "opts": [
-            "Plain water would make blood cells swell and burst, and the salt keeps the balance",
+            "Plain water would make blood cells swell and burst, and the salt keeps them the right size",
             "Salt makes the drip taste nicer",
             "Salt kills germs in the drip"
           ],
@@ -1290,7 +1290,7 @@
               "noticed that substances that dissolve in fat get into cells fastest"
             ],
             [
-              "Evelyn Gorter and François Grendel",
+              "Evert Gorter and François Grendel",
               "showed that the cell skin is two layers thick, in 1925"
             ],
             [
@@ -1316,7 +1316,7 @@
         },
         {
           "t": "order",
-          "p": "Put these steps in the order that scientists found them out.",
+          "p": "Put these discoveries about the cell skin in the order scientists made them.",
           "a": [
             "Pfeffer showed that water moves as though through a skin (1877)",
             "Overton showed that fat-soluble substances get in fastest (1890s)",
@@ -1351,7 +1351,7 @@
         },
         {
           "t": "mcq",
-          "p": "Which of these about the first cell is still debated?",
+          "p": "Which of these questions about the first cell are scientists still debating?",
           "opts": [
             "Whether the skin, the instructions or the chemistry came first",
             "Whether the first cells lived more than three billion years ago",
@@ -1423,7 +1423,7 @@
         {
           "day": 1,
           "mins": 15,
-          "what": "Pour the cooled water in the jar, add the grass and a teaspoon of pond or vase water. Cover loosely. Put it near a window, out of direct sun."
+          "what": "Pour the cooled water into the jar. Add the grass and a teaspoon of pond or vase water. Cover loosely. Put the jar near a window, out of direct sun."
         },
         {
           "day": 3,
@@ -1461,7 +1461,7 @@
           "mins": 15,
           "do": "A grown-up boils the water and lets it cool. Pour 300 millilitres into the jar. Add the pinch of grass and 1 teaspoon of pond or vase water. Cover the jar loosely and put it near a window. Ask your child what might grow in the jar.",
           "say": "Pour the cooled water into the jar. Add the grass and a teaspoon of pond or vase water. Cover it loosely. Put it by a window.",
-          "kid": "Make the pond. Water, grass, a teaspoon of pond water. Cover it loosely.",
+          "kid": "Make the pond. Put the cooled water, the grass and a teaspoon of pond or vase water in the jar. Cover it loosely.",
           "adult": true,
           "ask": [
             {
@@ -1520,7 +1520,7 @@
               "The water has got old"
             ],
             "a": 0,
-            "why": "Boiling kills the microbes. The pond water and the grass brought new ones, and they eat and divide, so the water turns cloudy. If you picked dissolved grass, check whether the grass changed."
+            "why": "Boiling kills the microbes in the water. The pond water and the grass brought new ones, and they eat and divide, so the water turns cloudy. If you picked dissolved grass, look at whether the grass is still in the jar."
           },
           "context": "This is the last step of the Hay Pond. You compare your drawings and think about who lives there."
         }
@@ -1603,9 +1603,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show the three cups. Say what goes in each. Ask your child to guess which strip will be stiffest and which will be floppiest, and to say why. Write down both.",
+          "do": "Show the three cups. Say what goes in each. Ask your child to guess which strip will be stiffest and which will be floppiest, and to say why. Write down the guess and the reason.",
           "say": "We will put potato strips in three cups. Cup A has plain water. Cup B has a little salt. Cup C has a lot of salt. After 40 minutes, which strip will be stiffest? Which will be floppiest? Why do you think so?",
-          "kid": "Three cups. A is plain. B has a little salt. C has a lot. Which strip ends up floppiest? Why?",
+          "kid": "There are three cups of water. A is plain. B has a little salt. C has a lot of salt. Which potato strip will end up floppiest? Why?",
           "ask": [
             {
               "q": "Why do you think that strip will be the floppiest?",
@@ -1622,7 +1622,7 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "A grown-up cuts six strips from one potato, each 1 centimetre wide and 6 centimetres long. Cut them thin, about 5 millimetres. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.",
+          "do": "A grown-up cuts six strips from one potato, each 1 centimetre wide, 6 centimetres long and about 5 millimetres thick. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.",
           "say": "Pour 200 millilitres of water into each cup. Stir one level teaspoon of salt into B. Stir four teaspoons into C. Stir C until you cannot see any salt. Write A, B and C on the labels.",
           "kid": "Pour water into three cups. Stir 1 spoon of salt into B. Stir 4 spoons into C.",
           "adult": true,
@@ -1663,7 +1663,7 @@
         {
           "id": "s4",
           "mins": 20,
-          "do": "At 20 minutes, take one strip from each cup. Pat it dry. Measure the droop the same way. Write the number and what the strip feels like. Put it back. Repeat at 40 minutes. While you wait, read the cell membrane card.",
+          "do": "At 20 minutes, take one strip from each cup. Pat it dry. Measure the droop the same way. Write the number and what the strip feels like. Put it back. Repeat at 40 minutes. While you wait, read the card called 'The cell membrane: a skin that chooses what passes'.",
           "say": "At 20 minutes, take one strip from each cup and pat it dry. Measure how far the tip droops, and feel it. Write both down. Do it again at 40 minutes.",
           "kid": "Take a strip out. Pat it dry. Measure the droop. Feel it. Write it down.",
           "ask": [
@@ -1687,16 +1687,16 @@
               "The salt got inside the cells and made them hard"
             ],
             "a": 0,
-            "why": "Cups A and C differ only in the salt. Strong salt water pulls water out through the skin of the cells. The cells lose their firmness and the strip goes floppy. If you picked the second one, check which strip was floppy, and which was firm."
+            "why": "Cups A and C differ only in the salt. Strong salt water pulls water out through the skin of the cells. The cells lose their firmness and the strip goes floppy. If you picked water going into the cells, check which strip was floppy and which was firm."
           },
           "context": "In this step you measure and feel the strips twice. The numbers show what the water did to the cells."
         },
         {
           "id": "s5",
           "mins": 10,
-          "do": "Draw a line graph with minutes along the bottom and droop up the side. Draw one line for each cup. Then ask your child to say what they thought, what they saw and why.",
+          "do": "Draw a line graph with minutes along the bottom and droop up the side. Draw one line for each cup. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-          "kid": "Draw a line for each cup. Say what you thought, what you saw, and why.",
+          "kid": "Draw a line for each cup. Say what you thought would happen, what you saw, and why you think it happened.",
           "parent": "A strong answer says that the strip in strong salt water went floppy because the salt was outside, and that water left the cells. After they have said what they saw, explain: water passes through the thin skin of every cell in both directions, and ends up on the side with more dissolved stuff. This is osmosis. Plain water gives a firm strip, because the cells have more dissolved stuff inside than outside, so water moves in.",
           "think": "A potato strip in plain water for a whole night might even grow a little longer and firmer. Why might that happen?",
           "context": "This is the last step of the Potato Strips test. You draw the graph and explain what you found."
@@ -1743,14 +1743,14 @@
           "qty": 1
         }
       ],
-      "safety": "Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Wash your hands after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead. Raw egg can carry germs, so wash hands and the bowl with soap after touching it.",
+      "safety": "Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Raw egg can carry germs, so wash your hands and the bowl with soap after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead.",
       "record": "Write the distance around the egg on days 3, 4 and 5, and what it looks and feels like. Draw the egg at each stage.",
       "context": "In this experiment you dissolve the shell of a raw egg and watch the thin skin that is left. The skin lets water through like the skin of a cell, so the egg swells or shrinks.",
       "schedule": [
         {
           "day": 1,
           "mins": 10,
-          "what": "Guess. Put the egg in a jar and cover it with vinegar. Watch the bubbles."
+          "what": "Guess what will happen to the shell. Put the egg in a jar and cover it with vinegar. Watch the bubbles."
         },
         {
           "day": 2,
@@ -1809,7 +1809,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. The vinegar is an acid, and the shell is made of calcium carbonate. They react and make carbon dioxide, which is the gas in the bubbles. Cover the jar loosely and keep it out of the sun. If your kitchen is very hot, keep the jar in the fridge, and then the shell may take 3 days. With 2-4 children, give each pair its own egg and jar, so everyone can measure, or share one egg with children taking turns to measure.",
+          "parent": "Do not correct the guess. The vinegar is an acid, and the shell is made of calcium carbonate. They react and make carbon dioxide, which is the gas in the bubbles. Cover the jar loosely and keep it out of the sun. If your kitchen is very hot, keep the jar in the fridge, and then the shell may take 3 days. With 2-4 children, give each pair their own egg and jar, so everyone can measure, or share one egg with children taking turns to measure.",
           "context": "This is the first step of the Naked Egg test. You guess, and then you set up the jar."
         },
         {
@@ -1859,7 +1859,7 @@
           "mins": 10,
           "do": "On day 4, lift the egg out and measure around the middle. Write the number. Put the egg in a jar and pour honey or thick syrup over it until it is covered. The egg will float, so turn it over every few hours, or press a small plate on top.",
           "say": "Measure around the egg again. What is different? Then move the egg into the honey or syrup jar.",
-          "kid": "Measure the egg again. Is it bigger? Put it in honey.",
+          "kid": "Measure the egg again. Is it bigger? Put it in the honey or syrup.",
           "adult": true,
           "ask": [
             {
@@ -1877,10 +1877,10 @@
         {
           "id": "s5",
           "mins": 10,
-          "do": "On day 5, lift the egg out gently and measure around the middle. Look at the skin. Write the number. Ask your child to say what they thought, what they saw and why.",
+          "do": "On day 5, lift the egg out gently and measure around the middle. Look at the skin. Write the number. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
           "say": "Measure the egg for the last time. Tell me three things. What did you think would happen? What did you see? Why did it happen?",
-          "kid": "Measure the egg. Say what you thought, what you saw, and why.",
-          "parent": "After one day the egg in honey is typically smaller and wrinkled, and honey works better than thin syrup, because water left the egg and went into the thick sugar syrup. After they have said what they saw, explain: water crosses the thin skin in both directions and ends up on the side with more dissolved stuff. In plain water the egg swelled. In syrup it shrank. Wash hands, then throw the egg and the liquids away.",
+          "kid": "Measure the egg. Say what you thought would happen, what you saw, and why you think it happened.",
+          "parent": "After one day in honey, the egg is typically smaller and wrinkled, because water left the egg and went into the thick sugar syrup. Honey works better than thin syrup. After they have said what they saw, explain: water crosses the thin skin in both directions and ends up on the side with more dissolved stuff. In plain water the egg swelled. In syrup it shrank. Wash hands, then throw the egg and the liquids away.",
           "think": "A hen's egg is one huge cell. What else in the kitchen is a single cell?",
           "context": "This is the last step of the Naked Egg test. You say what happened and why."
         }
@@ -1944,7 +1944,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Leave the bunch on the counter overnight, out of the fridge and out of the sun. Ask your child to guess how it will look tomorrow, and what will bring it back.",
+          "do": "Leave the bunch of herbs on the counter overnight, out of the fridge and out of the sun. Ask your child to guess how it will look tomorrow, and what will make it stand up again.",
           "say": "Leave this bunch out overnight. How do you think it will look tomorrow? What might make it stand up again? Why?",
           "kid": "Leave the bunch out. Guess how it will look tomorrow. Why?",
           "parent": "In a warm kitchen, coriander goes limp in a few hours. If your bunch is still firm, leave it for longer.",
@@ -2028,7 +2028,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show the two cubes. Ask your child which will melt first: a whole cube or the same amount crushed. Ask for a reason. Write down both.",
+          "do": "Show the two cubes. Ask your child which will melt first: a whole cube or the same amount crushed. Ask for a reason. Write down the guess and the reason.",
           "say": "Here are two cubes of ice. One will stay whole. One will be crushed into tiny pieces. Which will melt first? Why do you think so?",
           "kid": "One ice cube stays whole. One is crushed. Which melts first? Why?",
           "ask": [
@@ -2056,21 +2056,21 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "Check both katoris every 5 minutes. Write how much ice is left in each. Note the time when each one is fully melted. Ask your child to say what they thought, what they saw and why.",
+          "do": "Check both katoris every 5 minutes. Write how much ice is left in each. Note the time when each one is fully melted. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
           "say": "Look every five minutes. When did the crushed ice finish melting? When did the whole cube finish? Why do you think that happened?",
           "kid": "Look every five minutes. Which melts first? Why?",
           "parent": "The times depend on how warm your kitchen is. Typically the crushed ice melts about two to four times faster than the whole cube. A whole cube may take 15 to 40 minutes, and the crushed ice 5 to 15. With 2-4 children, give one child each job: timer, whole-cube watcher, crushed-ice watcher and recorder. One child alone can do all four. After they have said what they saw, explain: heat only reaches the ice through its surface. The crushed pieces have much more surface in all, so heat reaches all of the ice faster. A cell takes in food and oxygen through her surface in the same way, which is why cells stay small.",
           "think": "If a cell grew as big as a mango, how would food reach the middle?",
           "check": {
             "t": "mcq",
-            "q": "Why does crushed ice melt faster than a whole cube of the same amount?",
+            "q": "Why does crushed ice melt faster than a whole cube that has the same amount of ice?",
             "options": [
               "It has more surface for the warmth to reach",
               "It is colder to start with",
               "It has less water in it"
             ],
             "a": 0,
-            "why": "Warmth gets into the ice through its surface. The same amount of ice, crushed into small pieces, has far more surface. If you picked colder, both came from the same tray."
+            "why": "Warmth gets into the ice through its surface. The same amount of ice, crushed into small pieces, has far more surface. If you picked colder, remember that both cubes came from the same tray."
           },
           "context": "In this step you watch the race and say why one won."
         }
@@ -2139,7 +2139,7 @@
         {
           "id": "s1",
           "mins": 10,
-          "do": "Lay out all the things. Ask your child which thing could stand for each cell part. Name the skin, the jelly, the instruction room, the green parts, the water bag and the stiff box. Let them choose first.",
+          "do": "Lay out all the things. Say the cell parts aloud: the skin (membrane), the jelly (cytoplasm), the instruction room (nucleus), the green parts (chloroplasts), the water bag (vacuole) and the stiff box (cell wall). Ask your child which kitchen thing could stand for each part. Let them choose first.",
           "say": "Here are the kitchen things. Which one could be the jelly? Which could be the nucleus? Which could be the stiff wall? Choose first.",
           "kid": "Look at the things. Which could be the jelly? The nucleus? The wall?",
           "ask": [
@@ -2177,7 +2177,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot. Then close your eyes while a grown-up hides one part, and name the missing part.",
+          "do": "Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot. Then your child closes their eyes while you hide one part, and names the missing part.",
           "say": "Label every part. What is the same in both cells? What is different? What can the plant cell do that the animal cell cannot?",
           "kid": "Label every part. What is the same? What is different?",
           "ask": [
@@ -2249,7 +2249,7 @@
           "mins": 8,
           "do": "Measure the longest side of 3 raisins from the packet and write the average. Put 6 raisins in each cup. Pour plain water in one and strong salt water in the other. Ask your child to guess what each cup of raisins will look like tomorrow, and why.",
           "say": "Put six raisins in each cup. One cup has plain water. One has strong salt water. What will each look like tomorrow? Why?",
-          "kid": "Six raisins in each cup. Plain water in one. Salt water in the other. Guess why.",
+          "kid": "Put six raisins in each cup. Pour plain water in one and salt water in the other. Guess what each cup of raisins will look like tomorrow, and why.",
           "ask": [
             {
               "q": "Which raisins do you think will change the most? Why?",
@@ -2266,7 +2266,7 @@
           "id": "s2",
           "mins": 12,
           "do": "Next morning, take out 3 raisins from each cup. Look at them, measure the longest side of each, write the average and squeeze them gently. Draw both. Ask your child what they saw and why.",
-          "say": "Take one raisin out of each cup. Look, measure and squeeze. Tell me what you thought, what you saw, and why.",
+          "say": "Take one raisin out of each cup. Look, measure and squeeze. Tell me what you thought would happen, what you saw, and why you think it happened.",
           "kid": "Take a raisin out of each cup. Look. Squeeze. What changed?",
           "parent": "Raisins in plain water are typically plump and smooth, often clearly bigger than at the start. Raisins in salt water stay smaller and more wrinkly, although they may swell a little. After they have said what they saw, explain: a raisin is a dried grape, packed with sugar. Plain water has less dissolved stuff than the raisin's cells, so water moves in. Strong salt water has nearly as much, so less water moves in.",
           "think": "Why do we put raisins in warm milk or water before making payasam?",
@@ -2482,7 +2482,7 @@
     "Pickling mango, lime and vegetables with salt, which pulls water out of the microbes' cells so they cannot grow.",
     "Making jam and keeping honey, where a lot of sugar stops microbes growing in the same way.",
     "Hospital drips made with a little salt, so that blood cells do not swell or shrink.",
-    "Oral rehydration solution for diarrhoea, first used widely in 1971 in refugee camps by Dilip Mahalanabis and his team, where carriers take sugar and salt in and water follows.",
+    "Oral rehydration solution for diarrhoea. Carriers in the gut cells take in sugar and salt, and water follows. Dilip Mahalanabis and his team first used it widely in refugee camps in 1971.",
     "Growing salt-tolerant rice such as Pokkali in the salty backwater fields of Kerala.",
     "Medicines such as penicillin, which stop bacteria from building their cell walls. Human cells have no wall, so they are not harmed.",
     "Watering plants and keeping vegetables fresh by sprinkling them with water.",
@@ -2547,10 +2547,10 @@
     }
   ],
   "ask_kids": [
-    "What do you think is happening to the water in your tumbler when you put salt in?",
+    "What do you think happens to the water in a tumbler when you stir salt into it?",
     "If you were a cell, what would you let through your skin, and what would you keep out?",
     "Where in the kitchen do you see water moving out of food when salt is added?",
-    "Why is a cucumber crisp but a day-old one is soft?",
+    "Why is a fresh cucumber crisp, while a day-old one is soft?",
     "Which of your body's cells do you think is the biggest? Which is the longest?",
     "If a single cell can eat, move and sense, what do you think she does when she is scared?",
     "Why do you think plants are green but mushrooms are not?",
@@ -2723,7 +2723,7 @@
           "mins": 5,
           "do": "Read the problem together. Ask your child what the filter must stop and what it must let through. Ask what in a real cell does a similar job.",
           "say": "Your filter must stop rice, sago and sand. It must let water and salt through. What does a similar job in a real cell?",
-          "kid": "The filter stops rice, sago and sand. It lets water through. Where is a skin like this?",
+          "kid": "The filter stops rice, sago and sand. It lets water through. What part of a cell does a job like this?",
           "ask": [
             {
               "q": "What in a cell stops some things and lets others in?",
@@ -2770,7 +2770,7 @@
               "Only if the paper is wet"
             ],
             "a": 0,
-            "why": "Dissolved salt is made of tiny particles, far smaller than the holes in any cloth or paper. Only a real cell skin, with pumps and carriers, can stop dissolved salt. If you picked yes, taste is not a test. You could dry a spoon of the water on a plate in the sun to see crystals."
+            "why": "Dissolved salt is made of tiny particles, far smaller than the holes in any cloth or paper. Only a real cell skin, with pumps and carriers, can stop dissolved salt. If you picked yes, do not taste the water to check. Dry a spoon of the water on a plate in the sun and look for crystals."
           },
           "context": "In this step you test your layers. You write what each one stops."
         },
@@ -2779,7 +2779,7 @@
           "mins": 10,
           "do": "Ask your child to explain their best filter. Then ask how a cell's skin is cleverer than the filter.",
           "say": "Explain your best filter. Then tell me one thing that a cell skin can do and your filter cannot.",
-          "kid": "Explain your best filter. What can a cell skin do that it cannot?",
+          "kid": "Explain your best filter. What can a cell skin do that your filter cannot?",
           "think": "Your filter picks only by size. A cell skin also picks by what the visitor is made of. How could it do that?",
           "context": "This is the last step of Be the Membrane. You explain your design and compare it with a cell skin."
         }
@@ -2849,7 +2849,7 @@
       "a": "In both directions. More ends up on the side with more dissolved stuff."
     },
     {
-      "q": "Which part of a cell holds the DNA in most cells?",
+      "q": "In most cells, which part holds the DNA?",
       "a": "The nucleus."
     },
     {
@@ -2923,23 +2923,23 @@
     ]
   },
   "roots": {
-    "context": "We have tested what salt does to the water in a cell, and looked inside a cell at her skin, jelly and instruction room. Now we ask what the cell's edge tells us about being one thing among many.",
+    "context": "We have tested what salt does to the water in a cell, and looked inside a cell at her skin, jelly and instruction room. Now we ask what the cell's skin tells us: no cell lives shut off from what is around her.",
     "deep_truth": {
-      "truth": "Potato strips stayed stiff in plain water and went limp in strong salt water. A cell's skin lets water through in both directions. So the water inside a cell depends on the world outside as well as on the cell. A cell is not a sealed bag that decides alone.",
-      "habit": "We picture a cell, and a body, as a sealed bag with its own fixed contents, and a skin as a wall that shuts the world out. A skin is where a cell and her surroundings trade all the time.",
-      "evidence": "In the potato strips test, the same strips were stiff or floppy depending only on how much salt was in the water outside. The water that left the strips went into the cup. If your results differ, write them down as they are and test again."
+      "truth": "In the Potato Strips test, strips stayed stiff in plain water and went limp in strong salt water. A cell's skin lets water through in both directions. So the water inside a cell depends on the world outside as well as on the cell. A cell is not a sealed bag. What is outside her changes what is inside her.",
+      "habit": "We usually picture a cell, and a body, as a sealed bag with its own fixed contents, and a skin as a wall that shuts the world out. But a skin is the place where a cell and her surroundings trade all the time.",
+      "evidence": "In the Potato Strips test, strips from the same potato were stiff or floppy depending only on how much salt was in the water outside. The water that left the strips went into the cup. If your results differ, write them down as they are and test again."
     },
     "three": {
       "who_am_i": "You are about thirty trillion cells, and each one trades water and food with the cells and the blood around her. Your body is a place where water keeps coming and going.",
-      "what_is_life": "Every living thing we know is at least one cell. A cell is a pocket with an edge that keeps choosing what comes in and what goes out, for as long as she lives.",
-      "what_is_this_world": "The water in a potato strip, a pickle bowl and a pond all follows the same rule. Water ends up on the side with more dissolved stuff. The same rule works inside a plant and outside it."
+      "what_is_life": "Every living thing we know is at least one cell. A cell is a small space with a skin around it. The skin keeps choosing what comes in and what goes out, for as long as the cell lives.",
+      "what_is_this_world": "Water in a potato strip, in a pickle bowl and in a pond follows the same rule: it ends up on the side with more dissolved stuff. The same rule works inside a plant and outside her."
     },
-    "thread": "A cell has an inside only because she has an edge, and she stays alive only by trading across that edge. Water, air and food pass through her skin every second. The cell you were at the very start came from a cell, in a line of cells going back billions of years. In some of those cells, a bacterium moved into a bigger cell and stayed, and both lived on together. So even one cell is a meeting of many living beings. The cell's edge is the place where many become one and one meets many.",
+    "thread": "A cell has an inside only because she has a skin, and she stays alive only by trading across that skin. Water, air and food pass through it every second. The cell you were at the very start came from a cell, in a line of cells going back billions of years. In some of those cells, a bacterium moved into a bigger cell and stayed, and both lived on together. So even one cell is made of living beings that joined together. A cell's skin does not cut her off from the world. It is where she meets it.",
     "teachings": [
       {
         "source": "Tao Te Ching 11",
         "teaching": "Thirty spokes meet in the hub of a wheel, but the empty space in the middle makes the wheel useful. Clay is shaped into a pot, but the empty space inside makes the pot useful.",
-        "link": "A cell is also a shape that makes an inside. Her skin makes a space where chemistry can happen, and the space is what makes her a cell."
+        "link": "A cell is like the pot. Her skin makes a space inside where chemistry can happen, and that space is what makes her a cell."
       },
       {
         "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
@@ -2948,7 +2948,7 @@
       },
       {
         "source": "Lynn Margulis, Symbiotic Planet (1998)",
-        "teaching": "Margulis argued that life has grown as much by living things joining together as by competing. She showed that mitochondria began as free-living bacteria that moved into other cells.",
+        "teaching": "Lynn Margulis, an American biologist, argued that life has grown as much by living things joining together as by competing. She showed that mitochondria began as free-living bacteria that moved into other cells.",
         "link": "Each of your cells holds the descendants of bacteria that became partners. A cell is a community."
       }
     ],
@@ -2969,21 +2969,21 @@
     "practice": {
       "title": "Feel your own edge",
       "mins": 3,
-      "say": "Sit still and rest one hand on your other arm. Feel your skin. Breathe in slowly and feel the air move in. Breathe out. Air is crossing a very thin skin in your lungs right now. Your edge is busy all the time. Breathe three times and notice the busy edge.",
-      "kid": "Sit still. Put a hand on your arm. Feel your skin. Breathe in slowly. Breathe out. Your edge is busy all the time. Do it three times."
+      "say": "Sit still and rest one hand on your other arm. Feel your skin. Breathe in slowly and feel the air move in. Breathe out. Air is crossing a very thin skin in your lungs right now. Your skin is your edge, and it is busy all the time. Breathe three times and notice it.",
+      "kid": "Sit still. Put a hand on your arm. Feel your skin. Breathe in slowly. Breathe out. Air is crossing a thin skin in your lungs. Your edge is busy all the time. Breathe like this three times."
     },
     "ask": [
       "If water keeps passing through a cell's skin both ways, where does the cell stop and the world start?",
       "A bacterium moved into another cell and became a mitochondrion. Is your cell one living being or two?",
-      "What might a cell be like, if she had no edge to choose with?"
+      "What would happen to a cell if she had no skin to choose what comes in and what goes out?"
     ],
     "art": "A single cell in the middle with arrows of water, air and food crossing her skin in both directions, and a lineage of earlier cells fading behind her."
   },
   "how_we_found_out": {
-    "story": "By the 1800s, scientists could see the stiff walls around plant cells. But the thin skin around the living jelly inside was far too thin for any microscope. Some scientists said it was not there at all, and that the jelly simply stopped. In 1877, Wilhelm Pfeffer, a German plant scientist, measured how strongly water is pulled through a man-made skin. Plant scientists such as Hugo de Vries saw plant cells shrink away from their walls in strong solutions. A living skin that lets water through must be there, they said, though nobody could see it. In the 1890s, Ernest Overton found that substances that dissolve in fat get into cells fastest, so the skin must be fatty. In 1925, a Dutch children's doctor named Evelyn Gorter and her colleague François Grendel spread out the fat from red blood cells on water. It covered about twice the surface of the cells, so the skin had two layers. Their measurements were rough. Electron microscopes in the 1950s finally showed the skin, with two layers.",
-    "who": "Wilhelm Pfeffer, Ernest Overton, and Evelyn Gorter with François Grendel",
+    "story": "By the 1800s, scientists could see the stiff walls around plant cells. But the thin skin around the living jelly inside was far too thin for any microscope. Some scientists said it was not there at all, and that the jelly simply stopped. In 1877, Wilhelm Pfeffer, a German plant scientist, measured how strongly water is pulled through a man-made skin. Plant scientists such as Hugo de Vries saw plant cells shrink away from their walls in strong solutions. A living skin that lets water through must be there, they said, though nobody could see it. In the 1890s, Ernest Overton found that substances that dissolve in fat get into cells fastest, so the skin must be fatty. In 1925, a Dutch children's doctor named Evert Gorter and his colleague François Grendel spread out the fat from red blood cells on water. It covered about twice the surface of the cells, so the skin had two layers. Their measurements were rough. Electron microscopes in the 1950s finally showed the skin, with two layers.",
+    "who": "Wilhelm Pfeffer, Ernest Overton, and Evert Gorter with François Grendel",
     "when": "1877 to the 1950s",
-    "wrong_idea": "Some scientists thought a cell had no skin and that the jelly simply stopped. Water and dissolved stuff moved in a way only a skin could explain, and the skin was finally seen with an electron microscope."
+    "wrong_idea": "Some scientists thought a cell had no skin and that the jelly simply stopped. But water and dissolved stuff moved in a way only a skin could explain, and the skin was finally seen with an electron microscope."
   },
   "sources": {
     "founder": [
