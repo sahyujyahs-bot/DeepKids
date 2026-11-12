@@ -40,7 +40,7 @@
   },
   {
    "term": "Fungus",
-   "meaning": "A fungus is a living being that grows by spreading thin threads and feeding on what they grow on. Mushrooms, mould and yeast are fungi.",
+   "meaning": "A fungus is a living being that grows by spreading thin threads. The threads feed on whatever they grow on. Mushrooms, mould and yeast are fungi.",
    "example": "A fluffy green patch on an old orange is a fungus called a mould.",
    "art": "A mushroom, a slice of bread with fuzzy green mould, and a pinch of yeast, side by side."
   },
@@ -99,11 +99,11 @@
   {
    "concept": "Microbes live everywhere",
    "status": "defined",
-   "context": "This card is about where microbes live. Remember the potato slices that grew spots.",
+   "context": "This card is about where microbes live. In the Three Potato Slices experiment, the slices touched by fingers and by soil grew spots.",
    "definition": "Microbes live almost everywhere on Earth: on our skin, inside our bodies, in soil, water and air, and on everything we touch.",
    "description": "Your hands carry thousands of microbes, even when they look clean. One teaspoon of rich soil can hold about as many bacteria as there are people in India. Microbes float in the air on dust, and live in the sea, in hot springs and deep in ice. Most of the microbes in your body live in your tummy.",
    "examples": [
-    "Spots grew on the potato slice your fingers touched.",
+    "In the Three Potato Slices experiment, spots grew on the slice your fingers touched.",
     "The soil slice grew the most spots, because soil is packed with microbes.",
     "Even a slice that nobody touched can grow a spot, from microbes that floated in on the air."
    ],
@@ -194,7 +194,7 @@
    "claim": "A hand that looks clean has nothing living on it.",
    "who": "A common idea among children and grown-ups",
    "for": "We cannot see anything on a clean-looking hand.",
-   "against": "The potato slice touched by fingers grew spots, and the slice nobody touched grew the fewest. Microbes were on the fingers, too small to see.",
+   "against": "In the Three Potato Slices experiment, the slice touched by fingers grew spots, and the slice nobody touched grew the fewest. Microbes were on the fingers, too small to see.",
    "status": "rejected",
    "context": "This card is about the idea that clean-looking means nothing living is there."
   },
@@ -227,12 +227,12 @@
   {
    "q": "You cannot see a microbe. So how do you know microbes are there?",
    "kind": "deep",
-   "hint": "Think about the spots on the potato slices, and the curd that set overnight."
+   "hint": "Think about the spots that grew on the potato slices, and the milk that turned into curd overnight."
   },
   {
    "q": "The spots grew on the potato. Did they come from the potato, or from somewhere else?",
    "kind": "deep",
-   "hint": "Think about the slice that nobody touched. How many spots did that slice grow?"
+   "hint": "In the Three Potato Slices experiment, nobody touched one of the slices. How many spots did that slice grow?"
   },
   {
    "q": "Millions of microbes live on you and inside you. Are they part of you, or are they guests?",
@@ -301,7 +301,7 @@
    "context": "In this experiment you put three slices of boiled potato in three closed boxes. Your fingers touch one slice, a pinch of soil touches another, and nothing touches the third. Over three or four days you count the spots that grow. This shows where microbes were hiding.",
    "question": "Our fingers and the soil in a flower pot look like they have nothing alive on them. Do they carry microbes we cannot see?",
    "predict": "Guess first. Which slice will grow the most spots: the finger slice, the soil slice, or the slice nobody touched? Which will grow the fewest? Why do you think so?",
-   "fair_test": "All three slices come from the same potato, are the same thickness, sit in the same kind of box, in the same place, for the same days. Only one thing is different: what touched each slice. So if the slices grow different numbers of spots, what touched them made the difference. The slice nobody touched shows what grows from the air alone.",
+   "fair_test": "All three slices come from the same potato, are the same thickness, sit in the same kind of box, in the same place, for the same number of days. Only one thing is different: what touched each slice. So if the slices grow different numbers of spots, what touched them made the difference. The slice nobody touched shows what grows from the air alone.",
    "results_table": [
     "Slice",
     "Spots on day 2",
@@ -339,7 +339,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Cut three slices. Guess. Touch one with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands."
+     "what": "Cut three slices. Guess which slice will grow the most spots. Touch one slice with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands."
     },
     {
      "day": 2,
@@ -461,7 +461,7 @@
        ]
       }
      ],
-     "parent": "Usually the soil slice grows the most spots, in many colours, often with grey or green fuzz. The finger slice grows spots near where the fingers pressed. The Nobody slice grows the fewest, maybe none, maybe one or two from the air. Any spot on that slice is not a failure. It shows microbes float in the air too.",
+     "parent": "Usually the soil slice grows the most spots, in many colours, often with grey or green fuzz. The finger slice grows spots near where the fingers pressed. The Nobody slice grows the fewest: maybe none, maybe one or two from the air. A spot on the Nobody slice is not a failure. It shows that microbes float in the air too.",
      "check": {
       "t": "mcq",
       "q": "The finger slice grew spots. The slice nobody touched grew almost none. What does this show?",
@@ -563,7 +563,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "In the evening, pour warm milk into three katoris. Add a spoon of curd to one, a drop to one and nothing to one. Guess. Cover and leave in a warm place."
+     "what": "In the evening, pour warm milk into three katoris. Add a spoon of curd to one, a drop to one and nothing to one. Guess which ones will turn into curd. Cover and leave in a warm place."
     },
     {
      "day": 2,
@@ -604,7 +604,7 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Stir one teaspoon of curd into the Spoon katori. 2. Dip the tip of a toothpick in the curd, and stir that tiny drop into the Drop katori. 3. Add nothing to the Nothing katori. 4. Cover all three with plates.",
-     "say": "A whole spoon in this one. Just a drop on the toothpick in this one. Nothing in the last one. Plates on.",
+     "say": "A whole spoon of curd goes into this one. Just a drop on the toothpick goes into this one. Nothing goes into the last one. Now we put the plates on.",
      "kid": "Stir a spoon of curd into one. Stir a toothpick drop into one. Add nothing to the last. Cover them.",
      "parent": "Use a clean toothpick or spoon handle, so that the drop is the only curd that goes in."
     },
@@ -633,7 +633,7 @@
        ]
       }
      ],
-     "parent": "Usually the Spoon katori is firm curd. The Drop katori often sets too, but softer, or needs a few more hours. The Nothing katori stays runny milk. In very hot weather, it can turn sour and lumpy by the next day, but it does not set smooth and firm. If the Drop katori is still runny, leave it covered for 4 more hours and look again."
+     "parent": "Usually the Spoon katori is firm curd. The Drop katori often sets too, but softer, or needs a few more hours. The Nothing katori stays runny milk. In very hot weather, the milk in the Nothing katori can turn sour and lumpy by the next day, but it does not set smooth and firm. If the Drop katori is still runny, leave it covered for 4 more hours and look again."
     },
     {
      "id": "s6",
@@ -710,8 +710,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Choose a pot whose top soil is dry. 2. Ask your child to bend close and smell the dry soil.",
-     "say": "Smell the dry soil. Does it smell of much?",
-     "kid": "Bend close to the dry soil. Smell it. Does it smell of much?",
+     "say": "Smell the dry soil. Does it have much of a smell?",
+     "kid": "Bend close to the dry soil. Smell it. Does it have much of a smell?",
      "ask": [
       {
        "q": "What does the dry soil smell like?",
@@ -753,7 +753,7 @@
        ]
       }
      ],
-     "parent": "The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little. If the soil smells of little, try a dry clay diya or matka, which often smells earthy when wet."
+     "parent": "The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little. If the soil has very little smell, try a dry clay diya or matka, which often smells earthy when wet."
     },
     {
      "id": "s4",
@@ -843,7 +843,7 @@
        ]
       }
      ],
-     "parent": "Good places: door handles, the tap, the sponge, the flower pots, the curd, the idli or dosa batter, the dustbin, the pillow, the toothbrush, the pet's bowl, and your own hands and mouth. Almost nowhere has none. A sealed tin of food and water that has just boiled have almost none alive."
+     "parent": "Good places to check: door handles, the tap, the sponge, the flower pots, the curd, the idli or dosa batter, the dustbin, the pillow, the toothbrush, the pet's bowl, and your own hands and mouth. Almost no place is free of microbes. A sealed tin of food and water that has just boiled have almost none alive."
     },
     {
      "id": "s3",
@@ -1122,7 +1122,7 @@
     "Every player puts one answer card face down at the same time, then everyone turns the cards over.",
     "Turn the place card over and read the back aloud.",
     "Everyone who chose the right answer makes one tally mark on a sheet of paper.",
-    "Play until all 12 place cards are done. The player with the most tally marks reads first next time. If marks are level, everyone wins."
+    "Play until all 12 place cards are done. The player with the most tally marks reads first next time. If the marks are equal, everyone wins."
    ],
    "flow": [
     {
@@ -1256,7 +1256,7 @@
     "Mix the 12 microbe cards and deal them out, front side up.",
     "On your turn, read one card aloud and put the card by the label you think is right.",
     "When all 12 cards are down, turn each one over to check. Move any card that is by the wrong label.",
-    "Count how many cards are by each label. The goal is to sort all 12 right together."
+    "Count how many cards are by each label. The goal is for everyone, together, to sort all 12 cards correctly."
    ],
    "flow": [
     {
@@ -1352,7 +1352,7 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Set the first katori with a spoon of curd. Draw the first link of the chain on the chart."
+     "what": "Set the first katori with a spoon of curd. Draw the first ring of the chain on the chart."
     },
     {
      "day": 2,
@@ -1362,22 +1362,22 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Check, eat, save a spoon, set the next katori. Add a link to the chain."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Check, eat, save a spoon, set the next katori. Add a link."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Check, eat, save a spoon, set the next katori. Add a link."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
     },
     {
      "day": 6,
      "mins": 5,
-     "what": "Check, eat, save a spoon, set the next katori. Add a link."
+     "what": "Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart."
     },
     {
      "day": 7,
@@ -1449,7 +1449,7 @@
    "id": "c1",
    "title": "Keep the Slice Clean",
    "mins": 20,
-   "context": "This is a design challenge. You saw how fast spots grew on a boiled potato slice. Now you invent a way to keep a slice free of spots for as long as you can.",
+   "context": "This is a design challenge. In the Three Potato Slices experiment, spots grew on a boiled potato slice in a few days. Now you invent a way to keep a slice free of spots for as long as you can.",
    "problem": "Spots grow on a boiled potato slice in a few days in a warm kitchen. How could you keep a slice without spots for the longest time, using only things from home?",
    "constraints": [
     "Use only things from home.",
@@ -1576,11 +1576,11 @@
      "t": "truefalse",
      "p": "A hand that looks clean has no microbes on it.",
      "a": false,
-     "why": "False. In the potato test, the slice touched by fingers grew spots. Microbes live on hands even when the hands look clean."
+     "why": "False. In the Three Potato Slices experiment, the slice touched by fingers grew spots. Microbes live on hands even when the hands look clean."
     },
     {
      "t": "draw",
-     "p": "Draw the three potato slices from your test on the last day. Draw every spot you saw.",
+     "p": "Draw the three potato slices from the Three Potato Slices experiment as they looked on the last day. Draw every spot you saw.",
      "how": "e1",
      "art": "Three empty slice outlines in a row, labelled Soil, Fingers and Nobody.",
      "a": "Three slices. The soil slice has the most spots, the finger slice has some spots near the fingerprints, and the Nobody slice has the fewest.",
@@ -1722,9 +1722,9 @@
     },
     {
      "t": "write",
-     "p": "Ammu, a girl in Class 2, wants to set curd tonight. She has warm milk, but no curd. Write what she could do.",
+     "p": "You want to set curd tonight. You have warm milk, but no curd. Write what you could do.",
      "lines": 2,
-     "a": "She could ask a neighbour for one spoon of curd, or buy a little plain curd, and stir it into the warm milk.",
+     "a": "Ask a neighbour for one spoon of curd, or buy a little plain curd, and stir it into the warm milk.",
      "why": "A strong answer knows that curd needs a starter with living curd bacteria. Without the bacteria, the milk will not set into smooth curd."
     },
     {
@@ -1761,7 +1761,7 @@
     },
     {
      "t": "label",
-     "p": "Label the three katoris from the curd test: thick curd, soft curd, runny milk. Then write what went into each.",
+     "p": "Label the three katoris from the experiment A Spoon, a Drop or Nothing: thick curd, soft curd, runny milk. Then write what went into each.",
      "labels": [
       "thick curd",
       "soft curd",
@@ -1811,7 +1811,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 2, does the potato test again. This time she washes her hands with soap before pressing her fingers on the slice. What will probably happen?",
+     "p": "Suppose you do the Three Potato Slices experiment again. This time you wash your hands with soap before pressing your fingers on the slice. What will probably happen?",
      "opts": [
       "More spots than before",
       "Fewer spots than before",
@@ -1822,7 +1822,7 @@
     },
     {
      "t": "write",
-     "p": "Suppose in the curd test the Drop katori set softer than the Spoon katori. Why do you think so?",
+     "p": "In the curd experiment, one katori of warm milk got a spoon of curd and one got only a drop. Suppose the Drop katori set softer than the Spoon katori. Why would that happen?",
      "lines": 2,
      "how": "e2",
      "a": "The drop had fewer curd bacteria, so they took longer to multiply and set the milk.",
@@ -1866,9 +1866,9 @@
     },
     {
      "t": "count",
-     "p": "In the curd chain, Meera, a girl in Class 3, set a new katori of curd every night for 6 nights. Then she shared one spoon with each of 3 neighbours. How many katoris of curd came from her first spoon?",
+     "p": "In the curd chain, suppose you set a new katori of curd every night for 6 nights. Then you share one spoon with each of 3 neighbours, and each neighbour sets one katori. How many katoris of curd came from your first spoon?",
      "a": 9,
-     "why": "6 katoris at home and 3 at the neighbours' homes. 6 and 3 make 9. All of them carry bacteria from Meera's first spoon."
+     "why": "6 katoris at home and 3 at the neighbours' homes. 6 and 3 make 9. All of them carry bacteria from the first spoon."
     },
     {
      "t": "label",
@@ -1973,10 +1973,10 @@
   },
   {
    "t": "mcq",
-   "p": "Shruti, a girl in Class 2, presses unwashed fingers on one potato slice. She puts a second slice in a box without touching it. Why does she need the second slice?",
+   "p": "You press unwashed fingers on one potato slice. You put a second slice in a box without touching it. Why do you need the second slice?",
    "opts": [
     "To eat it later",
-    "To compare, so she knows the spots came from her fingers",
+    "To compare, so you know the spots came from your fingers",
     "To make the box heavier"
    ],
    "a": 1,
@@ -2032,7 +2032,7 @@
    "channel": "SciShow",
    "youtube": "PDrElHWBT6A",
    "mins": 2,
-   "why": "Explains the earthy rain smell from the smell test, and the soil bacteria and the chemical geosmin they make.",
+   "why": "Explains the earthy smell of rain, which you smelled in the Smell the Soil activity, and how soil bacteria make it with a chemical called geosmin.",
    "check": "Found by search: \"Why Does Rain Smell?\" by SciShow, 2 minutes, 21 seconds. A parent may preview it."
   }
  ],
@@ -2288,9 +2288,9 @@
  "roots": {
   "context": "We have been growing microbes on potato slices and in milk. Now we ask what the smallest living beings tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "All three potato slices looked clean on day one. By day four, the soil and finger slices had spots, and the untouched slice had the fewest. Each spot grew from microbes too small to see. So a hand can look clean and still carry many living beings.",
+   "truth": "In the Three Potato Slices experiment, all three slices looked clean on day one. By day four, the soil and finger slices had spots, and the untouched slice had the fewest. Each spot grew from microbes too small to see. So a hand can look clean and still carry many living beings.",
    "habit": "We decide what is alive, and what is clean, by what our eyes can see. Our eyes miss most of the living beings on Earth, so how a thing looks tells us little about who lives on it.",
-   "evidence": "Spots grew where fingers and soil had touched the boiled potato, and the fewest grew where nothing touched it. One drop of curd, holding bacteria nobody could see, set a whole katori of milk overnight."
+   "evidence": "In the Three Potato Slices experiment, spots grew where fingers and soil had touched the boiled potato, and the fewest grew where nothing touched it. In the curd experiment, one drop of curd, holding bacteria nobody could see, set a whole katori of milk overnight."
   },
   "three": {
    "who_am_i": "You are one person, and you are also home to millions of tiny living beings on your skin and in your tummy.",
@@ -2306,7 +2306,7 @@
    },
    {
     "source": "Chandogya Upanishad 6.12",
-    "teaching": "Uddalaka asks his son Shvetaketu to break open a seed of the banyan fruit. 'What do you see?' 'Nothing at all.' Uddalaka says that from this fine thing he cannot see, the great banyan tree grows.",
+    "teaching": "Uddalaka asks his son Shvetaketu to break open a seed of the banyan fruit. 'What do you see?' 'Nothing at all.' Uddalaka says that the great banyan tree grows from this tiny thing that his son cannot see.",
     "link": "We could not see the microbes on our fingers either. Yet from them, big spots grew on the potato. What is too small to see can still be alive and grow into something big."
    }
   ],
@@ -2322,7 +2322,7 @@
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "A microbe is a single cell that reacts to chemicals the way a thermostat reacts to heat. They would say microbes are alive and busy, but that sensing and reacting is not thinking or feeling."
+   "view": "Many biologists say a microbe is a single cell that reacts to chemicals the way a thermostat reacts to heat. They say microbes are alive and busy, but that sensing and reacting is not thinking or feeling."
   },
   "practice": {
    "title": "Hello to the tiny ones",
@@ -2332,7 +2332,7 @@
   },
   "ask": [
    "If most living beings are too small to see, what else might we be missing around us?",
-   "Uddalaka's son saw nothing inside the seed. Is something we cannot see always empty?"
+   "Uddalaka's son saw nothing inside the seed. When we cannot see anything in a place, is that place always empty?"
   ],
   "art": "A child sitting cross-legged with open palms, and a soft zoom circle above one palm showing many tiny round and rod-shaped microbes."
  },

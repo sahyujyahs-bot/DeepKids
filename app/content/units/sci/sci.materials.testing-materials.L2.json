@@ -65,7 +65,7 @@
   },
   {
    "term": "Predict",
-   "meaning": "To say what you think will happen, before you test it, and why.",
+   "meaning": "To say what you think will happen, and why, before you test it.",
    "example": "'I predict the rubber band will stretch the most, because it is bendy.'",
    "art": "A child with a thinking bubble showing a long rubber band."
   }
@@ -190,14 +190,14 @@
    "for": "Rubber bands, hair bands and socks stretch and spring back, and these are the stretchy things we use most.",
    "against": "A strip of milk packet and a roll of atta dough stretch and stay stretched. Even a rubber band stays a little longer if it is stretched too far for too long.",
    "status": "rejected",
-   "context": "This card is about what you saw in the stretch test."
+   "context": "In the Stretch Test, the rubber band went back to its old length and the milk packet strip stayed long. This card asks if everything that stretches springs back."
   }
  ],
  "big_questions": [
   {
-   "q": "Why did the rubber band go back, but the milk packet strip stayed long?",
+   "q": "Why did the rubber band go back to its old length, while the milk packet strip stayed long?",
    "kind": "deep",
-   "hint": "Think of the tiny chains inside. Did they curl up again, or slide to new places?"
+   "hint": "Think of the tiny chains inside each material. Did they curl up again, or slide to new places?"
   },
   {
    "q": "How many tests do you need before you really know a material?",
@@ -221,7 +221,7 @@
   }
  ],
  "how_we_found_out": {
-  "story": "For a long time, many people in Europe and America believed that useful rubber was invented in 1839. Raw rubber went sticky in summer and hard and cracked in winter. In 1839, an American named Charles Goodyear heated rubber with sulfur. It stayed stretchy in heat and cold. But people in Mexico and Central America had made bouncy, long-lasting rubber more than 3,000 years before that. The Olmec, Maya and Aztec peoples made rubber balls for a ball game. In the 1990s, Dorothy Hosler, an archaeologist at MIT in the USA, wanted to know how. With her students, she collected milky latex from the Castilla rubber tree. They mixed it with juice from a morning glory vine. The mixture became rubber that was much bouncier and stronger than dried latex alone. Later, Hosler and Michael Tarkanian found that different amounts of vine juice made different rubbers: some best for bouncing balls, some best for tough sandal soles. The old rubber makers had been testing materials to fit each job.",
+  "story": "For a long time, many people in Europe and America believed that useful rubber was invented in 1839. Raw rubber went sticky in summer and hard and cracked in winter. In 1839, an American named Charles Goodyear heated rubber with sulfur. It stayed stretchy in heat and cold. But people in Mexico and Central America had made bouncy, long-lasting rubber more than 3,000 years before that. The Olmec, Maya and Aztec peoples made rubber balls for a ball game. In the 1990s, Dorothy Hosler wanted to know how they did it. She is an archaeologist, a scientist who studies how people lived long ago, at MIT in the USA. With her students, she collected milky latex from the Castilla rubber tree. They mixed it with juice from a morning glory vine. The mixture became rubber that was much bouncier and stronger than dried latex alone. Later, Hosler and Michael Tarkanian found that different amounts of vine juice made different rubbers: some best for bouncing balls, some best for tough sandal soles. The old rubber makers had been testing materials to fit each job.",
   "who": "The Olmec, Maya and Aztec rubber makers; Charles Goodyear (1839); Dorothy Hosler, with Sandra Burkett and Michael Tarkanian (1999)",
   "when": "About 1600 BCE in Mexico; 1839; 1999",
   "wrong_idea": "That useful, lasting rubber was first made by Charles Goodyear in 1839. Hosler's team showed that the peoples of ancient Mexico had made it more than 3,000 years earlier, by mixing latex with morning glory juice.",
@@ -252,7 +252,7 @@
    "Back at the house, Meenu found a ball of string, a ruler and an old water bottle. She filled the bottle with water. She tied a piece of new rubber band, a strip of polythene and a strip of cotton from an old towel to the window bars, one beside the other.",
    "\"Every one gets the same bottle,\" she said. \"Then it is fair.\"",
    "She hung the bottle on the rubber band. The band stretched long, nearly double. Joseph measured it with the ruler. She took the bottle off. The band went back to its old length.",
-   "Then the polythene strip. It stretched a little and stayed a little longer. Then the cotton strip. It hardly moved at all.",
+   "Then she hung the bottle on the polythene strip. It stretched a little, and stayed a little longer when the bottle came off. Then she hung the bottle on the cotton strip. It hardly moved at all.",
    "\"So the cotton is strongest and not stretchy,\" said Joseph slowly. \"The rubber band is stretchy and comes back. The polythene stretches and stays.\"",
    "\"Now you know three things,\" said Aunt Susheela. \"And you did not guess them. You tested them.\"",
    "Meenu looked at her old hair band. \"So why did my band stop coming back?\"",
@@ -348,10 +348,10 @@
     {
      "day": 1,
      "mins": 24,
-     "what": "Pull and guess. Hang the four strips. Measure each before, with the bottle and after. Pull the milk packet strip. Say what you found."
+     "what": "Pull each material and guess which will stretch the most. Hang the rubber band and the three strips. Measure each one before the bottle, with the bottle, and after the bottle comes off. Pull the milk packet strip by hand. Say what you found."
     }
    ],
-   "record": "Write your guess and your reason at the top. Fill in the results table. Draw each strip before and with the bottle. Circle the ones that came back.",
+   "record": "Write your guess and your reason at the top. Fill in the results table. Draw each strip before the bottle and with the bottle. Circle the ones that came back.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -441,7 +441,7 @@
      "mins": 5,
      "do": "1. Put two chairs back to back, about half a metre apart. 2. Rest a broom handle across the tops. 3. Wrap the top of each strip once round the handle, and tape it to itself. 4. Hang the rubber band over the handle. 5. Fold the bottom of each strip over a paper clip and tape it. Hook a clip through the rubber band too. 6. Tie the string round the bottle neck to make a loop. 7. Put the cushion on the floor below.",
      "say": "We hang every strip from the same handle, the same way. Then only the material is different.",
-     "kid": "Help hang the four strips on the handle. Put the cushion underneath.",
+     "kid": "Help hang the rubber band and the three strips on the broom handle. Put the cushion underneath.",
      "adult": true,
      "parent": "Cut the T-shirt strip across the shirt, from one side seam towards the other. Knitted cloth stretches more that way. Keep the strips spaced so they don't touch. The bottle should hang well above the cushion. Tape the ends of the broom handle to the chairs so it cannot roll."
     },
@@ -540,7 +540,7 @@
    "title": "The Spot Test: which materials keep water out?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put six squares of different materials over paper marked with sketch pen. You pour the same water on each one, wait, and lift it up. If the sketch pen circle has run, water got through.",
+   "context": "In this experiment you put six squares of different materials over paper marked with sketch pen. You pour the same amount of water on each one, wait, and lift it up. If the sketch pen circle has run, which means the ink has spread, water got through.",
    "question": "Which of these materials are waterproof, and which let water through?",
    "predict": "Feel each square. Which ones do you think will keep the water out? Why do you think so?",
    "fair_test": "Every square is the same size. Every square gets one level teaspoon of water, poured in the middle, one after the other. We lift all of them after the same 2 minutes. The papers underneath are all the same, with the same kind of sketch pen circle.",
@@ -581,7 +581,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Draw circles and set out the squares. Guess. Pour water on each. Wait 2 minutes. Lift and look. Sort into waterproof and not waterproof."
+     "what": "Draw a sketch pen circle on each paper and put one square on each. Guess which squares are waterproof. Pour water on each square. Wait 2 minutes. Lift each square and look at the circle. Sort the squares into waterproof and not waterproof."
     }
    ],
    "record": "Fill in the table. Stick the six papers in your notebook, in two groups: dry and wet. Write the name of the material next to each.",
@@ -677,7 +677,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Pour one level teaspoon of water slowly onto the middle of each square, one after the other. 2. Watch the water on each one. 3. Start the clock after you pour the last square.",
+     "do": "1. Pour one level teaspoon of water slowly onto the middle of each square, one after the other. 2. Watch the water on each one. 3. Start the clock after you pour water on the last square.",
      "say": "Watch the water. On which squares does the water sit on top as a round drop? On which does it soak in?",
      "kid": "Pour one spoon of water on each square. Watch. Does it soak in or stay on top?",
      "ask": [
@@ -726,7 +726,7 @@
      "parent": "A strong answer uses what your child saw: 'The circle under the foil stayed dry, so foil is waterproof.'",
      "check": {
       "t": "mcq",
-      "q": "Thara, a girl in Class 2, wants to keep her notebook dry on a rainy walk to school. What should she wrap it in?",
+      "q": "You want to keep your notebook dry on a rainy walk to school. What should you wrap it in?",
       "options": [
        "A paper napkin",
        "A piece of milk packet",
@@ -782,7 +782,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay out the three sheets. 2. Go round the home with your child and collect 8 to 10 things that might stretch.",
+     "do": "1. Lay out the three sheets, one for each group: springs back, stays stretched, does not stretch. 2. Go round the home with your child and collect 8 to 10 things that might stretch.",
      "say": "Let's find things that might stretch. Look in the cupboard, the kitchen and the bathroom.",
      "kid": "Find things that might stretch. Bring them here.",
      "parent": "Roll a small piece of atta dough into a snake. Clay or play dough works too."
@@ -855,7 +855,7 @@
     {
      "day": 1,
      "mins": 18,
-     "what": "Guess. Hang each strip in turn. Add water one cup at a time. Count the cups until it tears."
+     "what": "Guess which strip is strongest. Hang the bottle from each strip in turn. Add water one cup at a time. Count the cups until the strip tears."
     }
    ],
    "record": "A table: material, my guess, number of cups when it tore (or 'held the full bottle').",
@@ -893,7 +893,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Tape one strip to the broom handle and fold a paper clip into the bottom. 2. Hang the empty bottle on it, over the bucket. 3. Pour in one cup of water. Wait 5 seconds. 4. Keep adding one cup at a time, and count. 5. Stop when it tears or the bottle is full. 6. Do the same for each strip.",
+     "do": "1. Tape one strip to the broom handle. Fold the bottom of the strip over a paper clip and tape it. 2. Hang the empty bottle on the clip, over the bucket. 3. Pour in one cup of water. Wait 5 seconds. 4. Keep adding one cup at a time, and count. 5. Stop when the strip tears or the bottle is full. 6. Do the same for each strip.",
      "say": "One cup at a time. Count with me. Each strip gets the same bottle and the same cups.",
      "kid": "Pour in one cup. Count. Wait. Pour another. Stop when it tears.",
      "adult": true,
@@ -922,7 +922,7 @@
    "title": "Pick the Material: the right one for the job",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you use what you found in your tests to choose a material for six new jobs, and say which test tells you it is right.",
+   "context": "In this activity you use what you found in the Stretch Test, the Spot Test and the Bottle Lift to choose a material for six new jobs. You also say which test tells you it is right.",
    "materials": [
     {
      "item": "your results tables from the stretch test, the spot test and the bottle lift",
@@ -955,19 +955,19 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Read each job to your child. 2. The six jobs are: a shower curtain. A dishcloth. A strap to carry a full water bottle. A pyjama waistband. A cover to keep a school book dry in the rain. A rope to pull up a bucket from a well. 3. For each one, ask which material from your tests they would use. 4. Ask which test told them.",
+     "do": "1. Read each job to your child. The six jobs are: a shower curtain, a dishcloth, a strap to carry a full water bottle, a pyjama waistband, a cover to keep a school book dry in the rain, and a rope to pull up a bucket from a well. 2. For each one, ask which material from your tests they would use. 3. Ask which test told them.",
      "say": "For a shower curtain, which material would you choose? Which of our tests tells you it is right?",
      "kid": "Pick a material for each job. Which test helps you choose?",
      "ask": [
       {
-       "q": "Which material for a dishcloth? Which test?",
+       "q": "Which material would you use for a dishcloth? Which test tells you?",
        "good": [
         "Cotton, because it soaked up the water in the spot test.",
         "A napkin is absorbent too, but it tore in the bottle lift."
        ]
       }
      ],
-     "parent": "There is often more than one good answer. A strong answer names the property the job needs, and the test that showed it."
+     "parent": "There is often more than one good answer. A strong answer says what the job needs (waterproof, absorbent, strong or elastic), and names the test that showed it."
     },
     {
      "id": "s2",
@@ -986,7 +986,7 @@
    "title": "The Right Material for the Job",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a card game about choosing materials. A job card is turned over, every player points to the material they would use, and you say why.",
+   "context": "This is a card game about choosing materials. A job card is turned over, and every player points to the material they would use and says why.",
    "printables": [
     {
      "kind": "cards",
@@ -1107,7 +1107,7 @@
    ],
    "rules": [
     "Cut out the cards. Lay the 10 material cards face up in the middle of the table. Put the job cards face down in a pile.",
-    "Turn over the top job card and read the job aloud, but not the back.",
+    "Turn over the top job card and read the job aloud. Do not read the back yet.",
     "On the count of three, every player points to one material card in the middle. Players may point to the same card.",
     "Each player says in one sentence why that material works for the job.",
     "Read the back of the job card. A player whose material is listed gets one point. If another material would really work and everyone agrees, that player gets one point too.",
@@ -1191,7 +1191,7 @@
     "Collect the six things on the cards. Cut out one set of six cards for each player.",
     "Each player puts the six cards in a line on their score sheet, from least stretchy to most stretchy, without pulling anything.",
     "Now test. One player holds each thing between two fingers of each hand, 5 cm apart, and pulls until it is hard to pull further.",
-    "Everyone watches and agrees an order.",
+    "Everyone watches and agrees on the order, from least stretchy to most stretchy.",
     "Each player gets one point for every card in the right place.",
     "The player with the most points wins. If two players tie, they both win."
    ],
@@ -1355,7 +1355,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These are the four property words we tested in this unit."
+     "why": "These four words say what a material can do. We tested all four in this unit."
     },
     {
      "t": "mcq",
@@ -1425,7 +1425,7 @@
     },
     {
      "t": "mcq",
-     "p": "Deepa, a girl in Class 2, hangs a full bottle on the rubber band, and an empty cup on the T-shirt strip. Why is her stretch test not fair?",
+     "p": "In a stretch test, a full bottle hangs on the rubber band, and an empty cup hangs on the T-shirt strip. Why is this test not fair?",
      "opts": [
       "The two strips hold different weights, so more than the material is different",
       "The rubber band is too short",
@@ -1438,7 +1438,7 @@
     },
     {
      "t": "count",
-     "p": "In the spot test, Fathima, a girl in Class 2, tested 6 squares. 3 circles stayed dry. How many circles ran?",
+     "p": "In a spot test, 6 squares were tested. 3 circles stayed dry. How many circles ran?",
      "a": 3,
      "why": "6 squares take away 3 dry ones leaves 3 that ran.",
      "context": "This question is about the spot test. You pour a teaspoon of water on squares of different materials over paper marked with sketch pen, then lift each square to see if the water got through.",
@@ -1458,7 +1458,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: what happened to the milk packet strip when you pulled it and let go?",
+     "p": "What happened to the milk packet strip when you pulled it and let go? Say it out loud, and a grown-up will write it down.",
      "lines": 2,
      "a": "It got longer and thinner, went white in the middle, and stayed long.",
      "why": "A strong answer says both parts: it stretched, and it did not come back.",
@@ -1530,7 +1530,7 @@
     },
     {
      "t": "match",
-     "p": "Match each job to the property it needs.",
+     "p": "Match each job to what its material must be.",
      "pairs": [
       [
        "a hair band",
@@ -1550,7 +1550,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each job needs a different property. No one material is best for all of them."
+     "why": "Each job needs something different from its material. No one material is best for all of them."
     }
    ]
   },
@@ -1601,7 +1601,7 @@
     },
     {
      "t": "write",
-     "p": "Kavitha, a girl in Class 2, says, 'The T-shirt strip and the rubber band were both 13 cm with the bottle, so they stretch the same.' Is she right? Why?",
+     "p": "The rubber band started at 6 cm and the T-shirt strip started at 10 cm. Both were 13 cm with the bottle. Did they stretch the same amount? Why?",
      "lines": 3,
      "a": "No. The rubber band started at 6 cm and grew 7 cm. The T-shirt strip started at 10 cm and grew only 3 cm. So the rubber band stretched more.",
      "why": "A strong answer looks at how much each one grew, not only the final length.",
@@ -1643,7 +1643,7 @@
     },
     {
      "t": "write",
-     "p": "Ishaan, a boy in Pune, tested two cloths, a hanky and a thick towel. He poured 1 spoon of water on the hanky and 3 spoons on the towel. More water got through the towel. Is his test fair? Why?",
+     "p": "In a test of two cloths, a hanky got 1 spoon of water and a thick towel got 3 spoons. More water got through the towel. Is this test fair? Why?",
      "lines": 3,
      "a": "No. The towel got more water, so of course more got through. Each cloth needs the same amount of water.",
      "why": "A strong answer spots that two things changed: the cloth and the amount of water."
@@ -1690,7 +1690,7 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Ahmedabad, needs a material for a catapult. What must it be?",
+     "p": "You need a material for a catapult band. What must it be?",
      "opts": [
       "Waterproof and absorbent",
       "Stretchy and elastic",
@@ -1787,7 +1787,7 @@
    "channel": "Everyday Slow-Mo",
    "youtube": "ZqaOo0MjSxw",
    "mins": 2,
-   "why": "Shows a band getting long and thin, and springing back, closer than a child can see.",
+   "why": "Shows a rubber band getting long and thin, then springing back, in slow motion.",
    "check": "Not yet watched by a person: watch it first."
   },
   {
@@ -1795,14 +1795,14 @@
    "channel": "mendezium",
    "youtube": "GtvvMAWun60",
    "mins": 2,
-   "why": "Shows why a leaf is waterproof: drops stay round and roll off.",
+   "why": "Shows that a banana leaf is waterproof: water drops stay round and roll off.",
    "check": "Not yet watched by a person: watch it first."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "Hema, a girl in Class 2, hangs the same bottle from a rubber band and a hanky strip. Which stretches more?",
+   "p": "The same bottle hangs from a rubber band and from a hanky strip. Which stretches more?",
    "opts": [
     "The rubber band",
     "The hanky strip",
@@ -1827,7 +1827,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila, a girl in Chennai, pulls a strip of milk packet and lets go. What happens?",
+   "p": "You pull a strip of milk packet and let go. What happens?",
    "opts": [
     "It springs back",
     "It stays long and thin",
@@ -1864,7 +1864,7 @@
   },
   {
    "t": "mcq",
-   "p": "Mary, a girl in Goa, hangs a bottle from strips and adds water one cup at a time. What is she testing?",
+   "p": "A bottle hangs from each strip in turn, and water is added one cup at a time until the strip tears. What does this test?",
    "opts": [
     "Which is the most waterproof",
     "Which is the strongest",
@@ -1908,7 +1908,7 @@
   },
   {
    "t": "mcq",
-   "p": "Harpreet, a girl in Ludhiana, tests strips with the same bottle. She waits 10 seconds for one strip and 5 minutes for another. Is it fair?",
+   "p": "In a stretch test, every strip gets the same bottle. One strip waits 10 seconds before it is measured, and another waits 5 minutes. Is this fair?",
    "opts": [
     "Yes",
     "No, the waiting time changed"
@@ -1949,7 +1949,7 @@
  ],
  "open_questions": [
   {
-   "q": "Why does rubber get old, cracked and stop springing back?",
+   "q": "Why does rubber get old, crack and stop springing back?",
    "why_open": "Scientists know sunlight, heat and air slowly break the long chains. But exactly how fast this happens in each kind of rubber is still being studied, so makers keep testing new ways to make rubber last."
   },
   {
@@ -2018,8 +2018,8 @@
    "why_maths": "Comparing the start length with the end length shows that a strip can stay a little longer after the pull."
   },
   {
-   "problem": "Bornali, a girl in Class 2, tested 8 squares in the spot test. 5 kept water out. How many let water through? Her friend Fathima found only 3 waterproof squares. Who found more waterproof squares, and how many more?",
-   "answer": "3 let water through. Bornali found 2 more waterproof squares than Fathima.",
+   "problem": "In one spot test, 8 squares were tested and 5 kept water out. How many let water through? In a second spot test, only 3 squares were waterproof. Which test found more waterproof squares, and how many more?",
+   "answer": "3 let water through. The first test found 2 more waterproof squares than the second.",
    "explain": "8 take away 5 is 3. 5 is more than 3, and 5 take away 3 is 2.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e2",
@@ -2119,7 +2119,7 @@
    "a": "It stays long and thin."
   },
   {
-   "q": "Which tore first in the bottle lift: napkin or cloth?",
+   "q": "Which tore first in the bottle lift: the napkin or the cloth?",
    "a": "The napkin."
   },
   {
@@ -2180,14 +2180,14 @@
  "roots": {
   "context": "We have tested which materials stretch, keep water out and hold weight. Now we ask what the stretch test tells us about materials, and about ourselves.",
   "deep_truth": {
-   "truth": "Under the bottle, the rubber band stretched long, then went back to its old length. The milk packet strip we pulled stayed long and thin. Both stretched, yet only one came back. So to know a material, we must also watch what it does after the pull stops.",
-   "habit": "We think 'stretchy' is one thing, and that a material we have stretched is the same afterwards. The test showed two stretchy materials doing opposite things once the pull stopped.",
+   "truth": "In the Stretch Test, the rubber band stretched long with the bottle hanging from it, then went back to its old length when the bottle came off. The milk packet strip, pulled by hand, stayed long and thin. Both stretched, but only one came back. So to know a material, we must also watch what it does after the pull stops.",
+   "habit": "We think 'stretchy' is one thing, and that a material we have stretched is the same afterwards. The Stretch Test showed two stretchy materials doing opposite things once the pull stopped.",
    "evidence": "In the stretch test, the rubber band grew about 7 cm with the bottle and went back to its old length. The milk packet strip, pulled by hand, got thin and white and stayed long. Inside rubber, long curled chains straighten and curl back. In the plastic, the chains slide to new places and stay."
   },
   "three": {
    "who_am_i": "Your skin is elastic. You bend your knee, and the skin stretches. You straighten it, and the skin goes back.",
    "what_is_life": "A rubber tree makes latex, and latex seals a cut in the bark. Living things make the materials they need.",
-   "what_is_this_world": "Every material does something different when it is pulled, wetted or loaded. We only find out by testing."
+   "what_is_this_world": "Every material does something different when it is pulled, made wet or given a weight to hold. We only find out by testing."
   },
   "thread": "Rubber, cotton, paper and polythene are all made of tiny particles, joined in different ways. Long curled chains let rubber spring back. Short, loose fibres let a napkin tear. Everything is conscious, the rubber tree too. When the tree is cut, latex flows out and dries to seal the cut.",
   "teachings": [

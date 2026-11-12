@@ -30,7 +30,7 @@
   {
    "term": "Pattern",
    "meaning": "A pattern is something that repeats in the same way, again and again.",
-   "example": "Red, blue, red, blue on a border of a saree is a pattern. So is the beat in a song you clap along to.",
+   "example": "Red, blue, red, blue on the border of a saree is a pattern. So is the beat in a song you clap along to.",
    "art": "A strip of cloth with a border of red and blue triangles repeating along it."
   },
   {
@@ -121,7 +121,7 @@
    "status": "defined",
    "context": "This card puts the leaf test and the splash test together.",
    "definition": "A thing can follow exact rules and still be impossible to predict. This happens when tiny changes at the start grow into big changes at the end. Scientists call this chaos.",
-   "description": "People often think that if something is messy, nothing is in charge of it. It is just luck. But the paper leaf and the splash both followed rules every time. Gravity pulled them down. The air pushed them, and the water spread out. The rules did not change. What changed were tiny things we cannot see or control. Weather, clouds and waves are chaotic too. Weather scientists can say what is likely in the next few days, but not exactly what will happen a month from now.",
+   "description": "People often think that if something is messy, no rules decide it and it is just luck. But the paper leaf and the splash both followed rules every time. Gravity pulled them down. The air pushed them, and the water spread out. The rules did not change. What changed were tiny things we cannot see or control. Weather, clouds and waves are chaotic too. Weather scientists can say what is likely in the next few days, but not exactly what will happen a month from now.",
    "examples": [
     "A falling leaf",
     "A splash",
@@ -148,11 +148,11 @@
     },
     {
      "who": "Many physicists today",
-     "explanation": "They say that the tiniest particles, smaller than atoms, behave in ways that are truly random. Even knowing everything, you could only say what is likely."
+     "explanation": "They say that the tiniest particles, smaller than atoms, behave in ways that are truly random. Even if you knew everything, you could only say what is likely."
     },
     {
      "who": "Other physicists",
-     "explanation": "They say there may be hidden rules even for the tiniest particles, that we have not found yet. Nobody has settled this."
+     "explanation": "They say that even the tiniest particles may follow hidden rules that we have not found yet. Nobody has settled this."
     }
    ],
    "art": "A girl looking at a falling leaf through a magnifying glass, with a question mark beside her."
@@ -161,7 +161,7 @@
  "agreed": [
   {
    "text": "Gravity pulls every falling thing down, and the air pushes against it as it falls.",
-   "evidence": "In the paper leaf test, both landed on the floor. The flat leaf took longer and swung about, because the air pushed on its big flat side."
+   "evidence": "In the paper leaf test, the paper ball and the flat leaf both landed on the floor. The flat leaf took longer and swung about, because the air pushed on its big flat side."
   },
   {
    "text": "A flat, light thing like a leaf or a feather lands in a different place almost every time it falls.",
@@ -179,7 +179,7 @@
  "challenging": [
   {
    "claim": "Splashes make neat crowns, with the points spaced evenly.",
-   "who": "Arthur Worthington, an English scientist, believed this for many years from his drawings of splashes, made in the late 1800s.",
+   "who": "Arthur Worthington, an English scientist. He believed this for many years, because of the drawings of splashes he made in the late 1800s.",
    "for": "When he saw splashes in a flash of light, they looked like neat crowns with evenly spaced points.",
    "against": "When he took photographs of splashes in the 1890s, they were far less even than his drawings. He had drawn them neater than they really were, without meaning to.",
    "status": "rejected",
@@ -189,7 +189,7 @@
    "claim": "A leaf falls wherever luck sends it, and no rules decide where it lands.",
    "who": "Many people think this.",
    "for": "Nobody can say where a falling leaf will land, so it seems to be pure luck.",
-   "against": "Gravity and the air push the leaf by the same rules every time. Scientists who study falling paper with computers can work out how it will swing, if they know exactly how it started.",
+   "against": "Gravity pulls the leaf and the air pushes it, by the same rules every time. Scientists who study falling paper with computers can work out how it will swing, if they know exactly how it started.",
    "status": "rejected",
    "context": "This card is about a common idea that messy means no rules."
   },
@@ -333,7 +333,7 @@
    "record": "Fill in the results table with a tick for inside and a cross for outside. Count the ticks for the ball and for the leaf. Draw the newspaper with all the crosses on it.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Divya's flat in Hyderabad",
+    "title": "Made-up example results",
     "cols": [
      "",
      "Inside the circle",
@@ -389,11 +389,11 @@
      "mins": 3,
      "context": "In this step of the paper leaf test, you set up the target and guess.",
      "do": "1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.",
-     "say": "We will drop each one ten times, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?",
-     "kid": "You will drop each one ten times over the circle. Which lands inside more often? Why?",
+     "say": "We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?",
+     "kid": "You will drop the ball and the flat leaf ten times each over the circle. Which one will land inside more often? Why?",
      "ask": [
       {
-       "q": "Which one will land inside the circle more often? Why?",
+       "q": "Which one will land inside the circle more often, the ball or the flat leaf? Why?",
        "good": [
         "The ball, because it is round and falls straight.",
         "The leaf, because it is flat and floats down slowly.",
@@ -515,7 +515,7 @@
    "record": "Fill in the results table. Draw a circle around each splash and write its height beside it.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Sreeja's home in Kochi",
+    "title": "Made-up example results",
     "cols": [
      "Splash",
      "Height",
@@ -593,7 +593,7 @@
      "do": "1. Stand the ruler up on the paper. 2. Your child fills the dropper and holds its tip at the top of the ruler, 30 cm up. 3. Squeeze gently until one drop falls. 4. Move to a new part of the paper and do it again, four times in all.",
      "say": "Hold the dropper at the top of the ruler. Squeeze very gently, so just one drop falls. Look at the splash. Now make another one next to it.",
      "kid": "Hold the dropper at the top of the ruler. Squeeze gently. Look at the splash.",
-     "parent": "With a straw, dip one end in the water, put a finger on the top end and lift it out. Lift your finger a little to let one drop go. Each drop makes a yellow spot with some little dots around it."
+     "parent": "If you use a straw instead of a dropper, dip one end in the water, put a finger on the top end and lift it out. Lift your finger a little to let one drop go. Each drop makes a yellow spot with some little dots around it."
     },
     {
      "id": "s3",
@@ -652,7 +652,7 @@
    "title": "Shake and Tip: can the beans land the same way twice?",
    "mins": 7,
    "days": 1,
-   "context": "In this activity you shake ten rajma beans in a tumbler and tip them onto a plate, twice. Then you put them in a neat row. You notice which way you can make again.",
+   "context": "In this activity you shake ten rajma beans in a tumbler and tip them onto a plate, twice. Then you put them in a neat row. You see which one you can make again: the heap or the row.",
    "materials": [
     {
      "item": "ten rajma beans, or ten chana, buttons or small pebbles",
@@ -696,7 +696,7 @@
      "do": "1. Your child puts ten beans in the tumbler, covers it with a hand and shakes it. 2. Tip the beans onto the plate. 3. Your child draws where they landed.",
      "say": "Shake the tumbler and tip the beans onto the plate. Look at where they landed. Draw them quickly.",
      "kid": "Shake the beans. Tip them out. Draw where they landed.",
-     "parent": "This is the thing to notice first. Do not explain anything yet."
+     "parent": "Just let your child look at where the beans landed. Do not explain anything yet."
     },
     {
      "id": "s2",
@@ -719,7 +719,7 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Your child lines the ten beans up in a straight row. 2. Mix them up, and ask your child to make the row again.",
-     "say": "Now put them in a straight row. Now I mix them up. Can you make the row again? Which way could you make the same twice, the row or the heap?",
+     "say": "Now put them in a straight row. Now I mix them up. Can you make the row again? Which could you make the same again, the row or the heap?",
      "kid": "Line the beans up in a row. Can you make the row again?",
      "ask": [
       {
@@ -792,7 +792,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child makes nine new dots next to the first kolam. 2. Draws the same kolam again. 3. Compare the two.",
+     "do": "1. Your child makes nine new dots next to the first kolam. 2. Your child draws the same kolam again. 3. Compare the two kolams.",
      "say": "Now draw the same kolam again, next to the first one. Is it the same? How did you know where the line goes?",
      "kid": "Draw the same kolam again. Is it the same? How did you know?",
      "ask": [
@@ -849,7 +849,7 @@
       {
        "q": "Is every drop the same?",
        "good": [
-        "The drops come at about the same time, but the splashes look different.",
+        "The drops come at a steady beat, but the splashes look different.",
         "Some splash higher than others."
        ]
       }
@@ -859,7 +859,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Ask the question below. 2. Turn off the tap. Save the water in the plate for a plant.",
-     "say": "The drops fall at about the same speed, one after the other. That part has a pattern. But do the splashes? Which part is neat, and which part is messy?",
+     "say": "The drops fall one after the other, at a steady beat. That part has a pattern. Do the splashes have a pattern too? Which part is neat, and which part is messy?",
      "kid": "The drops come one after another. Do the splashes look the same too?",
      "ask": [
       {
@@ -972,7 +972,7 @@
     "One player turns over the top card and reads it out.",
     "Everyone holds up one sign at the same time.",
     "Turn the card over and read the back. Everyone who was right gets a point.",
-    "When the pile is finished, the player with the most points wins. Playing alone, sort the cards into two piles and then check the backs."
+    "When the pile is finished, the player with the most points wins. If you are playing alone, sort the cards into two piles and then check the backs."
    ],
    "setup": [
     {
@@ -1184,7 +1184,7 @@
      "id": "s2",
      "mins": 7,
      "wait": "The next day",
-     "do": "1. In the morning, your child draws the clouds from a window. 2. In the evening, draws them again.",
+     "do": "1. In the morning, your child draws the clouds from a window. 2. In the evening, your child draws them again.",
      "say": "Look out of the window. Draw the clouds. We will look again this evening. Will they be the same?",
      "kid": "Draw the clouds this morning. Look again this evening. Are they the same?",
      "ask": [
@@ -1202,7 +1202,7 @@
      "id": "s3",
      "mins": 7,
      "wait": "The next day",
-     "do": "1. Your child finds two new things in the kitchen. 2. Then reads the whole diary aloud.",
+     "do": "1. Your child finds two new things in the kitchen. 2. Then your child reads the whole diary aloud.",
      "say": "Find two things in the kitchen today. Then let's read your whole diary. Which page do you like best?",
      "kid": "Find two things in the kitchen. Then read your diary. Which page is best?",
      "ask": [
@@ -1222,7 +1222,7 @@
  "challenges": [
   {
    "id": "c1",
-   "title": "The Landing Challenge: make a flat paper land on the target",
+   "title": "The Landing Challenge: make a flat paper leaf land on the target",
    "mins": 20,
    "context": "This is a design challenge. A flat paper leaf lands in a new place every time. Without crumpling it, can you change it so it lands inside the circle more often?",
    "problem": "Change a flat paper leaf so that it lands inside the plate circle as often as possible, without crumpling it into a ball.",
@@ -1279,7 +1279,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Your child changes a new leaf in their own way. 2. Drops it ten times from the same height. 3. Counts how many land inside the circle. 4. Tries one more design.",
+     "do": "1. Your child changes a new leaf in their own way. 2. Your child drops it ten times from the same height. 3. Count together how many land inside the circle. 4. Your child tries one more design.",
      "say": "Make your design. Drop it ten times from the same height. Count how many land inside the circle.",
      "kid": "Make your design. Drop it ten times. Count how many land inside.",
      "parent": "A paper clip on the tip often makes the leaf dive tip first, so it lands closer to the circle. A cone or a thick folded square may fall straighter too. Some designs will not work, and that is part of the test."
@@ -1403,7 +1403,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did the flat leaf swing from side to side as it fell?",
+     "p": "Say your answer out loud, and a grown-up writes it down. Why did the flat leaf swing from side to side as it fell?",
      "lines": 2,
      "a": "The air pushed on its big flat side, so it swung and slid instead of falling straight down.",
      "why": "A strong answer names the air pushing on the flat side. Saying 'because it is paper' is not enough, because the ball was paper too.",
@@ -1412,7 +1412,7 @@
     },
     {
      "t": "count",
-     "p": "Divya dropped her paper ball 10 times. 9 landed inside the circle. How many landed outside?",
+     "p": "A paper ball was dropped 10 times. 9 drops landed inside the circle. How many landed outside?",
      "a": 1,
      "why": "10 take away 9 is 1. So only 1 drop landed outside the circle. The ball was easy to predict.",
      "context": "This question is about the paper leaf test. You dropped a flat paper leaf and a crumpled paper ball ten times each, from the same height, and marked where each one landed.",
@@ -1447,7 +1447,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For example, agreeing with Meenakshi because gravity and air push on the leaf the same way each time. It also says Arjun is right that nobody can predict where it lands.",
+     "a": "A strong answer picks a side and gives a reason. For example, agreeing with Meenakshi because gravity pulls the leaf and the air pushes it the same way each time. It also says Arjun is right that nobody can predict where it lands.",
      "why": "Both have a point. The leaf follows rules, but tiny changes make it impossible to predict. A strong answer uses the paper leaf test as evidence."
     },
     {
@@ -1498,7 +1498,7 @@
       "Both made the same number"
      ],
      "a": 1,
-     "why": "A drop from higher up hits harder. It spreads further and breaks into more little dots. Choosing \"the same number\" means thinking that the splash does not care how far the drop falls.",
+     "why": "A drop from higher up hits harder. It spreads further and breaks into more little dots. Choosing \"the same number\" means thinking that the height of the drop makes no difference to the splash.",
      "context": "This question is about the splash test. You let drops of yellow haldi water fall onto white paper from the same height, and looked at each splash.",
      "how": "e2"
     },
@@ -1546,7 +1546,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these by what decides how they fall: 'falls nearly straight' or 'swings and drifts'.",
+     "p": "Sort these by how they fall: 'falls nearly straight' or 'swings and drifts'.",
      "cats": [
       "Falls nearly straight",
       "Swings and drifts"
@@ -1582,7 +1582,7 @@
     },
     {
      "t": "count",
-     "p": "Kavya dropped a flat paper leaf 10 times. 2 landed inside the circle. Her paper ball landed inside 9 times. How many more times did the ball land inside?",
+     "p": "A flat paper leaf was dropped 10 times. It landed inside the circle 2 times. A paper ball was dropped 10 times. It landed inside 9 times. How many more times did the ball land inside?",
      "a": 7,
      "why": "9 take away 2 is 7. The ball landed inside 7 more times than the leaf, because the air pushed the flat leaf about.",
      "context": "This question is about the paper leaf test. You dropped a flat paper leaf and a crumpled paper ball ten times each, from the same height, and marked where each one landed.",
@@ -1620,7 +1620,7 @@
       "Nobody has ever tried"
      ],
      "a": 1,
-     "why": "Weather is chaotic, like the falling leaf. Tiny changes in the air grow over the days. Choosing 'no rules at all' mixes up hard to predict with having no rules."
+     "why": "Weather is chaotic, like the falling leaf. Tiny changes in the air grow over the days. Choosing 'no rules at all' mixes up 'hard to predict' with 'has no rules'."
     }
    ]
   }
@@ -1678,7 +1678,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya drops a crumpled paper ball ten times from the same height. Where does it land?",
+   "p": "You drop a crumpled paper ball ten times from the same height. Where does it land?",
    "opts": [
     "Near the same spot every time",
     "In a new place far away each time",
@@ -1690,7 +1690,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya drops a flat paper leaf ten times from the same height. Where does it land?",
+   "p": "You drop a flat paper leaf ten times from the same height. Where does it land?",
    "opts": [
     "In exactly the same spot every time",
     "In a new place each time",
@@ -1726,7 +1726,7 @@
   },
   {
    "t": "mcq",
-   "p": "Sreeja drops four drops of haldi water from the same height onto paper. What will she see?",
+   "p": "You drop four drops of haldi water from the same height onto paper. What will you see?",
    "opts": [
     "Four splashes exactly the same",
     "Four splashes, each a little different",
@@ -1762,7 +1762,7 @@
   },
   {
    "t": "mcq",
-   "p": "Scientists call things that follow rules but never happen the same way twice by a special name. What is it?",
+   "p": "What do scientists call things that follow rules but never happen the same way twice?",
    "opts": [
     "Order",
     "Chaos",
@@ -1794,7 +1794,7 @@
  ],
  "spotted": [
   {
-   "text": "A kolam at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune. Both are order made by rules.",
+   "text": "A kolam at a doorstep early in the morning in Chennai or Madurai, or a rangoli at a doorway during Diwali in Pune. Both have order, because they are made by following rules.",
    "art": "A white dot kolam on a swept doorstep in the early morning light."
   },
   {
@@ -1875,7 +1875,7 @@
  ],
  "maths": [
   {
-   "problem": "In the paper leaf test, Divya kept a tally for the paper ball. Inside the circle she made one group of 5 marks and one group of 4 marks. Outside she made 1 mark. How many drops did she make?",
+   "problem": "In the paper leaf test, you keep a tally for the paper ball. Inside the circle there is one group of 5 marks and one group of 4 marks. Outside there is 1 mark. How many drops were made?",
    "answer": "10 drops.",
    "explain": "5 and 4 make 9, so 9 drops landed inside. 1 landed outside. 9 and 1 make 10.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1884,7 +1884,7 @@
    "why_maths": "A tally helps you keep count while you drop, so you do not lose track."
   },
   {
-   "problem": "Divya's paper ball landed inside the circle 9 times out of 10. Her flat leaf landed inside 2 times out of 10. If she drops the leaf once more, is it likely or unlikely to land inside?",
+   "problem": "A paper ball landed inside the circle 9 times out of 10. A flat paper leaf landed inside 2 times out of 10. If the leaf is dropped once more, is it likely or unlikely to land inside?",
    "answer": "Unlikely.",
    "explain": "The leaf landed inside only 2 times out of 10, and outside 8 times. So it is unlikely to land inside next time. But it could, because sometimes it did.",
    "math_unit": "math.probability.likely-and-unlikely.L2",
@@ -1893,7 +1893,7 @@
    "why_maths": "We cannot predict one leaf drop, but counting many drops tells us what is likely."
   },
   {
-   "problem": "Nila draws a kolam border with a pattern: big loop, small loop, small loop, big loop, small loop, small loop. What are the next three loops?",
+   "problem": "A kolam border has a pattern: big loop, small loop, small loop, big loop, small loop, small loop. What are the next three loops?",
    "answer": "Big loop, small loop, small loop.",
    "explain": "The pattern repeats every three loops: big, small, small. So after the second small loop, it starts again with big, small, small.",
    "math_unit": "math.patterns.repeating-patterns.L2",
@@ -1902,9 +1902,9 @@
    "why_maths": "A pattern has order, so maths can tell you what comes next."
   },
   {
-   "problem": "In the splash test, Sreeja's four splashes from 30 cm had 4, 7, 3 and 5 little dots. Her splash from one metre had 14. Which splash from 30 cm had the most dots? How many more did the high splash have than that one?",
+   "problem": "In the splash test, four splashes from 30 cm had 4, 7, 3 and 5 little dots. A splash from one metre had 14 little dots. Which splash from 30 cm had the most dots? How many more dots did the high splash have than that one?",
    "answer": "The splash with 7 dots had the most. The high splash had 7 more.",
-   "explain": "7 is bigger than 4, 3 and 5. 14 take away 7 is 7. So even the busiest low splash had only half as many dots as the high one.",
+   "explain": "7 is bigger than 4, 3 and 5. 14 take away 7 is 7. So even the low splash with the most dots had only half as many dots as the high one.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e2",
    "context": "This question is about the splash test. You let drops of yellow haldi water fall onto white paper from the same height, and looked at each splash.",
@@ -2020,21 +2020,21 @@
  "roots": {
   "context": "We have dropped paper leaves and paper balls, made splashes and drawn a kolam. Now we ask what neat and messy things tell us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "Your paper ball landed near the same spot every time, but your flat leaf landed somewhere new each time. Both followed the same rules: gravity pulled them down, and the air pushed against them. The air pushed the light, flat leaf so much that tiny changes in each drop sent it somewhere new. So something can follow exact rules and still never happen the same way twice.",
+   "truth": "In the paper leaf test, the paper ball landed near the same spot every time, but the flat leaf landed somewhere new each time. Both followed the same rules: gravity pulled them down, and the air pushed against them. The air pushed the light, flat leaf so much that tiny changes in each drop sent it somewhere new. So something can follow exact rules and still never happen the same way twice.",
    "habit": "We think that when something is messy or cannot be predicted, no rules are at work and it is just luck. The paper leaf followed exactly the same rules as the ball, every time.",
    "evidence": "In the paper leaf test, two pieces of the same paper, with the same weight, were dropped the same way. The ball's crosses were bunched in the circle. The leaf's crosses were spread across the newspaper."
   },
   "three": {
-   "who_am_i": "Every breath you take is a little different from the last one. You follow the same rules of your body each day, and still no two days of you are the same.",
+   "who_am_i": "Every breath you take is a little different from the last one. Your body follows the same rules each day, and still no two of your days are the same.",
    "what_is_life": "A plant grows each new leaf by the same rules. Still, each leaf has its own small bends and curves.",
-   "what_is_this_world": "Clouds, rivers, waves and falling leaves all follow rules. Yet the world never happens the same way twice."
+   "what_is_this_world": "Clouds, rivers, waves and falling leaves all follow rules. Yet nothing in the world happens exactly the same way twice."
   },
   "thread": "A few rules, like gravity and the push of the air, act on every falling leaf and every drop. From those same rules come many different landings and splashes, and no two are alike. Everything is conscious, the moving air and the falling water too, each meeting the world in their own way. Many scientists disagree, and say only living things with brains can be aware.",
   "teachings": [
    {
     "source": "Heraclitus, a Greek thinker from about 500 BCE, as reported by Plato in the Cratylus, 402a",
     "teaching": "Heraclitus said that you cannot step twice into the same river. The water you stepped into has already flowed on, and new water has come.",
-    "link": "The river follows the same rules every day, but it is never the same water twice. Your paper leaf and your splashes were like that too: the same rules, but a new result each time."
+    "link": "The river follows the same rules every day, but it is never the same water twice. The paper leaf test and the splash test were like that too: the same rules, but a new result each time."
    },
    {
     "source": "Dhammapada, verse 277",
@@ -2054,7 +2054,7 @@
   ],
   "other_view": {
    "who": "Pierre-Simon Laplace, a French scientist, in 1814, and many people since",
-   "view": "If we knew everything about the leaf and the air, we could predict exactly where it would land. So 'never the same twice' is only about what we know, not about the world. Many also say air and water have no awareness at all."
+   "view": "If we knew everything about the leaf and the air, we could predict exactly where it would land. So the leaf seems to land in a new place each time only because we do not know enough, not because the world cannot be predicted. Many also say air and water have no awareness at all."
   },
   "practice": {
    "title": "Three drops",
@@ -2063,9 +2063,9 @@
    "kid": "Dip your finger in water. Hold it over a plate. Watch a drop fall. Breathe slowly. Watch two more drops. Was any drop the same?"
   },
   "ask": [
-   "The paper leaf followed rules, but nobody could say where it would land. Is not knowing the same as there being no rules?",
+   "The paper leaf followed rules, but nobody could say where it would land. Does not knowing where it will land mean there are no rules?",
    "If you could live today again in exactly the same way, would it come out the same?",
-   "Is a neat kolam or a new splash more beautiful? Why?"
+   "Which is more beautiful, a neat kolam or a new splash? Why?"
   ],
   "art": "A child watching a single drop fall from a fingertip into a steel plate, with a paper leaf drifting down beside her and a white kolam on the floor."
  },

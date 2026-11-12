@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Hold a clear polythene bag up to the window. You can see the trees and the sky through it. Now guess: if you pour water on it, will the water go through too?",
-  "text": "Most children guess yes. If light can get through, water should get through too. You are going to test it. A property is what a material is like, such as waterproof or see-through. Every material has many properties. Some of them surprise us, so we test them.",
+  "text": "Most children guess yes. They think that if light can get through, water should get through too. You are going to test it. A property is what a material is like, such as waterproof or see-through. Every material has many properties. Some of them surprise us, so we test them.",
   "art": "A child holding a clear polythene bag up to a window, with a thinking bubble showing a drop of water."
  },
  "outcomes": [
@@ -92,8 +92,8 @@
    "definition": "Water gets through a material only where there is a gap or a hole. A waterproof material has no gaps that water can pass through.",
    "description": "Cloth and paper are made of fibres, with tiny gaps between them. Water creeps into the gaps and comes out the other side. A tea strainer has holes you can see, so water runs straight through. Polythene, foil and steel have no gaps, so water stays on top. A banana leaf and a chembu leaf keep water out with a smooth, waxy skin.",
    "examples": [
-    "Water dripped through the cotton hanky in our test.",
-    "Water sat on the polythene for a whole minute.",
+    "In the light and water test, water dripped through the cotton hanky.",
+    "In the light and water test, water sat on the polythene for a whole minute.",
     "Rasam stays on a banana leaf at a meal."
    ],
    "perspectives": [],
@@ -116,7 +116,7 @@
   {
    "concept": "How light gets through solid plastic",
    "status": "defined",
-   "context": "This card answers the puzzle from our test: how did light get through polythene that had no holes?",
+   "context": "This card answers the puzzle from the light and water test: how did light get through polythene that has no holes?",
    "definition": "Light is not a material, and it does not need a hole. It can travel through some solid materials, such as glass, clear plastic and water.",
    "description": "Water is a material. It is made of tiny particles, and it can only pass where there is a gap. Light is different. It can pass straight through the particles of glass and clear plastic. A tea strainer lets light through in another way, through its holes. So a material can let light through and still keep water out.",
    "examples": [
@@ -145,7 +145,7 @@
  "agreed": [
   {
    "text": "Every material has many properties at the same time.",
-   "evidence": "In our yes-or-no grid, the steel tumbler, polythene bag, rubber band and hanky each had a different set of answers."
+   "evidence": "In the yes-or-no grid activity, the steel tumbler, polythene bag, rubber band and hanky each had a different set of answers."
   },
   {
    "text": "Water gets through a material only through gaps or holes.",
@@ -153,7 +153,7 @@
   },
   {
    "text": "Light can pass through some solid materials that have no holes, such as glass and clear plastic.",
-   "evidence": "A glass window lets in daylight but keeps out rain. In our test, water sat on the polythene, yet we could see the window through it."
+   "evidence": "A glass window lets in daylight but keeps out rain. In the light and water test, water sat on the polythene, yet we could see the window through it."
   }
  ],
  "challenging": [
@@ -438,7 +438,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "1. Pour 1 teaspoon of water slowly into the middle. 2. Count slowly to 60. 3. Look at the tumbler from the side. 4. Lift the cover and feel the bottom of it. 5. Write the result. 6. Wipe the tumbler dry and do the next one. 7. Rest the strainer on top instead of using the band.",
+     "do": "1. Pour 1 teaspoon of water slowly into the middle. 2. Count slowly to 60. 3. Look at the tumbler from the side. 4. Lift the cover and feel the bottom of it. 5. Write the result. 6. Wipe the tumbler dry and do the next material. 7. For the tea strainer, rest it on top of the tumbler. It does not need the rubber band.",
      "say": "Pour the water slowly into the middle. Now count to sixty with me. Look at the bottom of the tumbler. Is there any water? Feel underneath the cover. Is it wet or dry?",
      "kid": "Pour one spoon of water in the middle. Count to sixty. Look in the tumbler. Is there water? Feel under the cover.",
      "ask": [
@@ -994,14 +994,14 @@
      "do": "1. Read the front of each card. 2. Wait for every player to jump or freeze. 3. Read the back. 4. Send wrong movers back one jump.",
      "say": "Water meets a glass window! Jump or freeze?",
      "kid": "Listen. Does it go through? Jump. Is it stopped? Freeze.",
-     "parent": "The last card is a surprise. Neutrinos are real, tiny particles that come from the Sun. Nearly all of them pass straight through the whole Earth."
+     "parent": "The neutrino card is a surprise. Neutrinos are real, tiny particles that come from the Sun. Nearly all of them pass straight through the whole Earth."
     },
     {
      "id": "s3",
      "mins": 1,
      "do": "1. At the end, ask the question below.",
      "say": "Light and water both met the glass window. Why did one jump and one freeze?",
-     "kid": "Why did light go through the glass, but water froze?",
+     "kid": "Why did light go through the glass window, but water was stopped?",
      "ask": [
       {
        "q": "Why?",
@@ -1042,7 +1042,7 @@
     "A clear polythene roof that slopes, so the water runs off the edge.",
     "A mosquito net piece under the polythene, so the window keeps out both insects and rain."
    ],
-   "your_turn": "Design your own skylight. Test it with 3 teaspoons of water, then peep inside. If the dots on the floor run, find where the water got in, and make it better.",
+   "your_turn": "Design your own skylight. Test it with 3 teaspoons of water, then peep inside. If the sketch pen dots on the paper are wet and have spread, find where the water got in, and make it better.",
    "setup": [
     {
      "art": "A shoebox lid with a matchbox-sized hole cut in it, and a small peep hole in the side of the box.",
@@ -1236,7 +1236,7 @@
     },
     {
      "t": "count",
-     "p": "Kamala, a girl in Class 2, tested 5 materials with water. 2 of them kept the water out. How many let the water through?",
+     "p": "You test 5 materials with water. 2 of them keep the water out. How many let the water through?",
      "a": 3,
      "why": "5 take away 2 leaves 3.",
      "context": "This question is about the light and water test. You look at a window through five materials, then pour a teaspoon of water on each one over a glass tumbler.",
@@ -1262,7 +1262,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anu wants to cover her school book in the rain, and still read its name on the front. Which cover is best?",
+     "p": "You want to cover your school book in the rain, and still read its name on the front. Which cover is best?",
      "opts": [
       "Newspaper",
       "Clear polythene",
@@ -1361,7 +1361,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi wants a bathroom window that lets light in, but stops people outside from seeing in. Which material should she pick?",
+     "p": "A bathroom window must let light in, but stop people outside from seeing in. Which material is best?",
      "opts": [
       "Clear glass",
       "Frosted glass, which is translucent",
@@ -1412,7 +1412,7 @@
     },
     {
      "t": "count",
-     "p": "In the Four Boxes game, Revathi put 4 cards in each of the 4 boxes. How many cards did she sort?",
+     "p": "In the Four Boxes game, there are 4 cards in each of the 4 boxes. How many cards are there?",
      "a": 16,
      "why": "4 boxes with 4 cards each: 4 + 4 + 4 + 4 = 16.",
      "context": "This question is about the Four Boxes game. You sort cards of things into four boxes: see-through or not, and keeps water out or lets it through.",
@@ -1427,7 +1427,7 @@
    "channel": "Make It Easy Education",
    "youtube": "Hy-XtuTlmN4",
    "mins": 2,
-   "why": "Shows light going through some materials and not others, like our light test.",
+   "why": "Shows light going through some materials and not others, like the light and water test.",
    "check": "Found by search: \"TRANSPARENT, TRANSLUCENT, OPAQUE OBJECT | LIGHT | HOW DO WE SEE THINGS? || SCIENCE EDUCATIONAL VIDEO\" by Make It Easy Education, 1 minute 34 seconds. A parent may preview it."
   },
   {
@@ -1474,7 +1474,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nisha, a girl in Mysuru, pours a teaspoon of water on kitchen foil over a tumbler. What happens?",
+   "p": "You pour a teaspoon of water on kitchen foil over a tumbler. What happens?",
    "opts": [
     "The water sits on top",
     "The water drips into the tumbler",
@@ -1524,7 +1524,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Kolkata, tries to push a toy car with a thread. What happens?",
+   "p": "You try to push a toy car with a thread. What happens?",
    "opts": [
     "The car moves fast",
     "The thread bends, and the car stays still",
@@ -1537,7 +1537,7 @@
   },
   {
    "t": "mcq",
-   "p": "You take 3 pencils out of two bundles. Which bundle stays tight?",
+   "p": "One bundle of pencils is held by a rubber band, and one by a cotton thread. You take 3 pencils out of each. Which bundle stays tight?",
    "opts": [
     "The one held by a cotton thread",
     "The one held by a rubber band",
@@ -1655,7 +1655,7 @@
  ],
  "maths": [
   {
-   "problem": "Megha, a girl in Pune, did the light and water test with 5 materials. Water stayed on top of 2 of them. Draw a block for each material in two columns: 'kept water out' and 'let water through'. Which column is taller, and by how many blocks?",
+   "problem": "In the light and water test, you tested 5 materials. Water stayed on top of 2 of them. Draw a block for each material in two columns: 'kept water out' and 'let water through'. Which column is taller, and by how many blocks?",
    "answer": "'Let water through' is taller, by 1 block.",
    "explain": "5 materials take away the 2 that kept water out leaves 3 that let it through. 3 blocks is 1 more than 2 blocks.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1666,14 +1666,14 @@
   {
    "problem": "Draw two circles that overlap. Label one 'lets light through' and the other 'keeps water out'. Where do these go: clear polythene, a tea strainer, kitchen foil and newspaper?",
    "answer": "Polythene goes in the middle, in both circles. The strainer goes only in 'lets light through'. Foil goes only in 'keeps water out'. Newspaper goes outside both circles.",
-   "explain": "Polythene does both things, so it belongs in the overlap. The strainer lets light through but not water out. Foil keeps water out but blocks light. Newspaper lets only a faint glow through, which is not a clear picture, and it lets water through.",
+   "explain": "Polythene does both things, so it belongs in the overlap. The strainer lets light through but does not keep water out. Foil keeps water out but blocks light. Newspaper lets only a faint glow through, which is not a clear picture, and it lets water through.",
    "math_unit": "math.logic.sets-and-venn.L2",
    "how": "e1",
    "context": "This question is about the light and water test. You look at a window through five materials, then pour a teaspoon of water on each one over a glass tumbler.",
    "why_maths": "Overlapping circles show which materials have both properties at once."
   },
   {
-   "problem": "You made a bundle of 10 pencils with a rubber band and took 3 out. How many pencils were left in the bundle? The thread bundle also had the same number left, but it fell apart. Why did the same number of pencils give two different results?",
+   "problem": "In the tight bundle activity, you made a bundle of 10 pencils with a rubber band and took 3 out. How many pencils were left in the bundle? The thread bundle had the same number left, but it fell apart. Why did the same number of pencils give two different results?",
    "answer": "7 pencils were left. The rubber band shrank to hold 7 tightly. The thread stayed the size it was for 10, so it was too loose for 7.",
    "explain": "10 take away 3 is 7. The number of pencils was the same, so the difference came from the materials: one can get shorter, and one cannot.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1729,7 +1729,7 @@
    "a": "A steel plate, a pressure cooker, foil or a wooden spoon."
   },
   {
-   "q": "Did water go through the clear polythene?",
+   "q": "In the light and water test, did water go through the clear polythene?",
    "a": "No. It sat on top."
   },
   {
@@ -1798,8 +1798,8 @@
  "roots": {
   "context": "We have tested what gets through polythene, foil, cloth, newspaper and a tea strainer. Now we ask what that tells us about materials, and about ourselves.",
   "deep_truth": {
-   "truth": "Water sat on the clear polythene and never dripped into the tumbler, so it has no holes. Yet you saw the window clearly through it. Light passed through the solid plastic, where water could not. What gets through a material depends on what is trying to get through.",
-   "habit": "We think of things as either open or closed, like a door. We expect anything that lets something through to have holes. The test showed one sheet of plastic open to light and closed to water.",
+   "truth": "In the light and water test, water sat on the clear polythene and never dripped into the tumbler. So the polythene has no holes. Yet you saw the window clearly through it. Light passed through the solid plastic, where water could not. What gets through a material depends on what is trying to get through.",
+   "habit": "We think of things as either open or closed, like a door. We expect anything that lets something through to have holes. The light and water test showed one sheet of plastic open to light and closed to water.",
    "evidence": "In the light and water test, you saw the window clearly through the polythene. A teaspoon of water sat on it for a full minute, and the tumbler stayed dry. The tea strainer let both through, because it has holes."
   },
   "three": {

@@ -60,7 +60,7 @@
   {
    "term": "Like",
    "meaning": "A like is something you enjoy and choose when you can. A dislike is something you would rather not have.",
-   "example": "Lakshmi likes mango and dislikes bitter gourd.",
+   "example": "You might like mango and dislike bitter gourd.",
    "art": "A plate with a slice of mango and a piece of bitter gourd, a girl pointing happily at the mango."
   }
  ],
@@ -135,9 +135,9 @@
    "status": "debated",
    "context": "This card is about whether other living beings, not only humans, tell themselves apart from others.",
    "definition": "",
-   "description": "Humans are not the only beings who tell their own from another's. Many flowers know their own pollen and stop it from making seeds. Roots of some grasses grow differently near their own roots than near roots of another plant. A male cricket sings very loudly, and his hearing turns down while he sings, so his own song does not deafen him. Your brain does something like this when you tickle yourself. Plants and crickets sense, decide and know their own. Some scientists call this an automatic response and say a real sense of self needs a brain like ours.",
+   "description": "Humans are not the only beings who tell their own from another's. Pollen is the fine dust that flowers make. Many flowers know their own pollen and stop it from making seeds. Roots of some grasses grow differently near their own roots than near roots of another plant. A male cricket sings very loudly, and his hearing turns down while he sings, so his own song does not deafen him. Your brain does something like this when you tickle yourself. Plants and crickets sense, decide and know their own. Some scientists call this an automatic response and say a real sense of self needs a brain like ours.",
    "examples": [
-    "A flower keeps its own pollen from making seeds, and lets in pollen from another plant.",
+    "A flower keeps their own pollen from making seeds, and lets in pollen from another plant.",
     "A singing cricket turns down his own hearing while he sings.",
     "Newborn human babies turn their head more to someone else's touch than to their own."
    ],
@@ -161,7 +161,7 @@
   },
   {
    "text": "Your voice sounds different to you than to others, because you also hear it through the bones of your head.",
-   "evidence": "When people hear their voice with their ears blocked, it sounds deeper. Recordings, which pick up only air, sound higher to the speaker."
+   "evidence": "When people hear their voice with their ears blocked, it sounds deeper. A recording picks up only the sound in the air, so it sounds higher to the person who spoke."
   },
   {
    "text": "A sense of self starts very early. Newborn babies react differently to their own touch and someone else's.",
@@ -173,7 +173,7 @@
    "claim": "You cannot tickle yourself only because you know when the touch is coming.",
    "who": "A common idea",
    "for": "When you tickle yourself you do know when and where the touch will be.",
-   "against": "In Sarah-Jayne Blakemore's tests, people moved a robot that touched their own hand. They knew exactly when. When the robot added a tiny delay, the touch tickled more. So it is about precise prediction, not only knowing.",
+   "against": "In Sarah-Jayne Blakemore's tests, people moved a robot that touched their own hand. They knew exactly when the touch would come. When the robot added a tiny delay, the touch tickled more. So knowing is not enough. The brain has to predict the touch exactly.",
    "status": "rejected",
    "context": "This card is about why your own touch tickles less."
   },
@@ -198,7 +198,7 @@
   {
    "q": "Your voice sounds one way to you and another way to everyone else. Which one is your real voice?",
    "kind": "big",
-   "hint": "Your family hears the air voice. You hear the air voice and the bone voice together. Are you hearing differently, or hearing different voices?"
+   "hint": "Your family hears your voice through the air. You hear it through the air and through the bones of your head together. Is that one voice heard in two ways, or two different voices?"
   },
   {
    "q": "Your brain turns down the feeling of your own touch. What else might your brain be turning down without telling you?",
@@ -211,7 +211,7 @@
    "hint": "Think of a like you had at 3 that has gone, and one you still have."
   },
   {
-   "q": "A flower knows its own pollen. Does that flower have a sense of self?",
+   "q": "A flower knows their own pollen. Does that flower have a sense of self?",
    "kind": "deep",
    "hint": "What would the flower have to do for you to say yes? What would make you say no?"
   },
@@ -247,9 +247,9 @@
    "They drew four faces on the paper. A straight face meant 0, not ticklish. A small smile meant 1. A big smile meant 2. A laughing face meant 3, very ticklish.",
    "First Kavya stroked her own foot with the feather, five slow strokes, with her eyes shut. Then she opened them and pointed at the straight face. Then Ammachi stroked the same spot with the same feather, five slow strokes. Kavya kicked and laughed. She pointed at the laughing face.",
    "\"Now Appa,\" said Kavya. Appa took off his socks, looking worried. He stroked his own foot. Zero. Kavya stroked it. Appa giggled so much that Anu laughed too. Three.",
-   "They tested each person twice. Every time, the own touch scored lower than the other touch.",
+   "They tested each person twice. Every time, the person's own touch scored lower than someone else's touch.",
    "\"Appa, you said it is because you know it is coming,\" said Kavya. \"But my eyes were shut when Ammachi did it, and I still knew she was going to stroke me. I knew where. I knew it was coming. And it still tickled.\"",
-   "Appa scratched his head. \"Then why does your own feather not tickle?\"",
+   "Appa scratched his head. \"Then why does the feather not tickle when you do it yourself?\"",
    "Ammachi said, \"When you move your hand, your brain sends a message to your muscles. It keeps a copy too. From the copy it works out exactly what you will feel, at exactly the right moment. When the touch arrives just as expected, the brain turns it down. My hand is not your hand. Your brain cannot work out my strokes so exactly.\"",
    "\"So my brain knows which touches are mine,\" said Kavya slowly. \"And it knows which voice is mine, from the inside.\"",
    "That evening Kavya showed Appa one more thing. She hummed with her fingers in her ears. \"Try it,\" she said. Appa hummed with his fingers in his ears. His eyes went wide. \"It is so loud inside!\"",
@@ -362,7 +362,7 @@
      "mins": 2,
      "do": "Agree the fair rules together and say them out loud: same feather, same spot, five slow strokes, eyes shut.",
      "say": "What must we keep the same each time, so the test is fair?",
-     "kid": "Keep it fair. Same feather. Same spot. Five slow strokes. Eyes shut.",
+     "kid": "Keep it fair. Use the same feather and the same spot. Do five slow strokes, with your eyes shut.",
      "ask": [
       {
        "q": "Why must the strokes be the same?",
@@ -376,7 +376,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. The child strokes the middle of their own sole five times with eyes shut, then opens them and points to a face. 2. You stroke the same spot five times at the same speed, eyes shut again, and the child points to a face. 3. Repeat both once more. 4. Write every score.",
+     "do": "1. The child strokes the middle of their own sole five times with eyes shut, then opens them and points to a face. 2. The child shuts their eyes again. You stroke the same spot five times at the same speed, and the child opens their eyes and points to a face. 3. Repeat both once more. 4. Write every score.",
      "say": "First your own stroke, eyes shut. Open them and point to a face. Now my stroke, the same way. Point to a face again.",
      "kid": "Stroke your own foot five times, eyes shut. Open them and point to a face. Now let someone else do it. Point again.",
      "parent": "Try to copy the child's strokes: same pressure, same speed. If the sole is not ticklish for anyone, use the side of the foot instead."
@@ -393,7 +393,7 @@
      "mins": 3,
      "do": "Count together. How many people had a lower score for their own stroke? How many the same? How many higher?",
      "say": "Look at the table. What did you notice? Was your guess right?",
-     "kid": "Count. How many people tickled themselves less? Was your guess right?",
+     "kid": "Count. For how many people did their own stroke tickle less? Was your guess right?",
      "ask": [
       {
        "q": "What did you see?",
@@ -407,14 +407,14 @@
      "think": "Your eyes were shut both times, and you knew the stroke was coming. So why was there a difference?",
      "check": {
       "t": "mcq",
-      "q": "A girl called Meena strokes her own foot five times and scores 0. Her brother strokes it the same way, and she scores 3. What does this show?",
+      "q": "You stroke your own foot five times and score 0. Someone else strokes it the same way, and you score 3. What does this show?",
       "options": [
-       "Her own stroke tickles less than someone else's",
+       "Your own stroke tickles less than someone else's",
        "The feather is broken",
-       "Her brother pressed harder, so it is not fair"
+       "The other person pressed harder, so it is not fair"
       ],
       "a": 0,
-      "why": "If the strokes were the same, the only change was who made them. Her brain predicted her own stroke and turned the feeling down."
+      "why": "If the strokes were the same, the only change was who made them. Your brain predicted your own stroke and turned the feeling down."
      }
     }
    ]
@@ -455,7 +455,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Set up the glove and the wall, then do the same-moment and different-moment strokes, and ask each person what they felt."
+     "what": "Set up the glove and the book that hides the hand. Then do the same-moment strokes and the different-moment strokes, and ask each person what they felt."
     }
    ],
    "record": "Write yes, a bit or no for each try. Draw the set-up.",
@@ -484,7 +484,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. The child sits with both arms on the table. 2. Stand a book up to hide their left hand. 3. Put the glove 15 cm from the hidden hand, in line with the arm. 4. Drape a towel from shoulder to glove.",
+     "do": "1. The child sits with both arms on the table. 2. Stand a book up to hide their left hand. 3. Put the glove 15 cm from the hidden hand, in line with the arm. 4. Drape a towel from the child's shoulder to the glove.",
      "say": "Keep your hidden hand very still. Look only at the glove.",
      "kid": "Keep your hidden hand still. Look at the glove."
     },
@@ -493,12 +493,12 @@
      "mins": 5,
      "do": "Stroke the same finger of the glove and of the hidden hand at exactly the same moment, slowly, for about two minutes.",
      "say": "Keep watching the glove. Tell me if anything changes.",
-     "kid": "Watch the glove. Tell me if it starts to feel like you."
+     "kid": "Watch the glove. Say if it starts to feel like your hand."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "First take the towel off and let the child shake their hands out for a minute. Put it back. Now stroke the glove and the hand at different moments: first the glove, then the hand, for two minutes.",
+     "do": "First take the towel off and let the child shake their hands out for a minute. Then put the towel back. Now stroke the glove and the hand at different moments: first the glove, then the hand, for two minutes.",
      "say": "This time I will stroke them at different moments. Does it feel the same?",
      "kid": "Now the strokes come at different times. Is it different?"
     },
@@ -710,8 +710,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Put a sticker on the child's right cheek. The child looks in the mirror and lifts their right hand.",
-     "say": "Lift your right hand. Which hand does the mirror girl lift? Where is her sticker?",
-     "kid": "Lift your right hand. Look at the mirror you. Which hand did she lift?"
+     "say": "Lift your right hand. Which hand does the you in the mirror lift? Where is the sticker in the mirror?",
+     "kid": "Lift your right hand. Look at yourself in the mirror. Which hand did the mirror you lift?"
     },
     {
      "id": "s2",
@@ -726,7 +726,7 @@
      "do": "Ask which picture looks more like them, then ask the family the same question.",
      "say": "Which one looks more like you, the mirror or the photo? Let's ask everyone.",
      "kid": "Which one looks like you? Ask your family too.",
-     "parent": "In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each liked the face they were used to seeing.",
+     "parent": "In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each person liked the face they were used to seeing.",
      "think": "You see the mirror you every day. Your friends see the photo you. Which is the real you?"
     }
    ]
@@ -872,7 +872,7 @@
      "mins": 2,
      "do": "Cut out the cards and make three piles.",
      "say": "Some things are clearly you, some clearly not, and some are hard to decide. Let's sort them.",
-     "kid": "Three piles. Me. Not me. Not sure."
+     "kid": "Make three piles: Me, Not me and Not sure."
     },
     {
      "id": "s2",
@@ -885,7 +885,7 @@
        "q": "Why is it on that pile?",
        "good": [
         "My hand is me, because I can feel it.",
-        "My shadow is not sure, because it moves with me but nobody can touch it."
+        "I put my shadow on Not sure, because it moves with me but nobody can touch it."
        ]
       }
      ]
@@ -1116,7 +1116,7 @@
      "id": "s2",
      "mins": 12,
      "do": "The child builds and changes a machine with string, a ruler and tape.",
-     "say": "What will make the feather move later, or in a different direction, from your hand?",
+     "say": "What will make the feather move later than your hand, or in a different direction?",
      "kid": "Build it. Try it. Change it."
     },
     {
@@ -1149,7 +1149,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Remember the tickle test. Whose stroke tickled you more?",
+     "p": "In the Tickle Test, you stroked your own foot with a feather, and then someone else stroked it. Whose stroke tickled you more?",
      "opts": [
       "My own stroke",
       "Someone else's stroke",
@@ -1161,14 +1161,14 @@
     },
     {
      "t": "draw",
-     "p": "Draw the four tickle faces you used, from 0 to 3.",
+     "p": "In the Tickle Test, you scored each tickle with four faces, from 0 to 3. Draw the four faces.",
      "a": "A straight face for 0, a small smile for 1, a big smile for 2 and a laughing face for 3.",
      "why": "A strong drawing shows the four faces in order, so anyone can see what each score means.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: will a stroke on your foot tickle less if you do it yourself, or if someone else does it? Why?",
+     "p": "Will a stroke on your foot tickle less if you do it yourself, or if someone else does it? Why? Say your answer out loud, and a grown-up can write it down.",
      "lines": 2,
      "a": "My own stroke tickles less. My brain knows exactly when and how my own hand will move, so it expects the touch.",
      "why": "A strong answer makes a guess and gives a reason: the brain predicts its own movements.",
@@ -1248,7 +1248,7 @@
     },
     {
      "t": "mcq",
-     "p": "You put a sticker on your right cheek. Which picture shows your friends the way they see you: the mirror or the photo?",
+     "p": "You put a sticker on your right cheek. Which one shows you the way your friends see you: the mirror or the photo?",
      "opts": [
       "The mirror",
       "The photo",
@@ -1275,18 +1275,18 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 2, records her voice and says 'That's not me!' Her friend says 'That's just like you.' Who is right?",
+     "p": "Riya records her voice and says 'That's not me!' Her friend says 'That's just like you.' Who is right?",
      "opts": [
       "Only Riya",
       "Only her friend",
       "Both: Riya hears it from the inside, her friend from the outside"
      ],
      "a": 2,
-     "why": "Riya hears her voice through her bones too, so it sounds deeper to her. Her friend hears only the air, like the phone."
+     "why": "Riya hears her voice through her bones too, so it sounds deeper to her. Her friend hears it only through the air, like the phone."
     },
     {
      "t": "write",
-     "p": "A boy called Farhan strokes his foot hard and his sister strokes it gently. He says his own stroke tickled less. What is wrong with his test?",
+     "p": "A boy strokes his own foot hard, and his sister strokes it gently. He says his own stroke tickled less. What is wrong with his test?",
      "lines": 2,
      "a": "The strokes were not the same. He should stroke the same way as his sister.",
      "why": "A strong answer spots that two things changed: who stroked and how hard. A fair test changes only one thing.",
@@ -1341,8 +1341,8 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say what the other person has right. A grown-up can write your answer.",
      "lines": 4,
-     "a": "A strong answer picks a side and uses a fact: the flower tells own pollen from other pollen. It also says what the other side means.",
-     "why": "Scientists argue about this. Both use the same fact, the flower rejecting its own pollen, but they mean different things by 'sense of self'."
+     "a": "A strong answer picks a side and uses a fact: the flower tells their own pollen from other pollen. It also says what the other side means.",
+     "why": "Scientists argue about this. Both sides use the same fact, that the flower rejects their own pollen. But they mean different things by 'sense of self'."
     },
     {
      "t": "order",
@@ -1365,7 +1365,7 @@
     {
      "t": "draw",
      "p": "Draw yourself looking in a mirror with a sticker on your right cheek. Draw where the sticker is on the mirror you.",
-     "a": "In the mirror, the sticker is on the side of the mirror girl's face that is nearest your own right hand. In a photo it is on the other side.",
+     "a": "In the mirror, the sticker is on the side of the mirror face that is nearest your own right hand. In a photo it is on the other side.",
      "why": "In a mirror your sides look swapped compared with a photo. A strong drawing shows the sticker on the other side in the photo.",
      "how": "a3"
     },
@@ -1430,7 +1430,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. What would you test next to find out more? A grown-up can write your answer.",
      "lines": 4,
-     "a": "A strong answer sees that the test worked for one person and not the other, which is a real result. Meenakshi's idea fits her result. Divya is right that it doesn't work for everyone. Test more people, and with strokes at the same and different moments.",
+     "a": "A strong answer sees that the test worked for one person and not the other, which is a real result. Meenakshi's idea fits her result. Divya is right that it doesn't work for everyone. Next, test more people, with strokes at the same moment and at different moments.",
      "why": "Scientists found the glove trick works for many people, not all. One person's result is not enough either way.",
      "how": "e2"
     },
@@ -1449,12 +1449,12 @@
      "t": "draw",
      "p": "Draw a machine that could let you tickle yourself. Label the part you move and the part that touches your foot.",
      "a": "A drawing with labels, for example a string over a chair with a feather on one end.",
-     "why": "A strong design makes the feather move later or in a different direction from the hand.",
+     "why": "A strong design makes the feather move later than the hand, or in a different direction.",
      "how": "c1"
     },
     {
      "t": "write",
-     "p": "A girl called Sahana says, 'I know exactly how my friend feels, because I can see her face.' Is she right? Why?",
+     "p": "A girl says, 'I know exactly how my friend feels, because I can see her face.' Is she right? Why?",
      "lines": 3,
      "a": "Not completely. A face gives clues, but only her friend feels it from inside. She should ask.",
      "why": "A strong answer says others only see clues, and asking is the way to know."
@@ -1479,7 +1479,7 @@
      "pairs": [
       [
        "a flower",
-       "keeps its own pollen out"
+       "keeps their own pollen out"
       ],
       [
        "a singing cricket",
@@ -1497,7 +1497,7 @@
      "t": "truefalse",
      "p": "True or false: if the glove never feels like your hand, you did the test wrong.",
      "a": false,
-     "why": "False. The glove trick works for many people but not for everyone. No result is a real result too.",
+     "why": "False. The glove trick works for many people but not for everyone. If nothing happens, that is a real result too.",
      "how": "e2"
     },
     {
@@ -1607,12 +1607,12 @@
     "You speak differently to phones"
    ],
    "a": 0,
-   "why": "You also hear your voice through your bones. The phone hears only the air.",
+   "why": "You also hear your voice through your bones. The phone records only the sound in the air.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Arjun did not like curd when he was 3. Now he loves it. What does this show?",
+   "p": "A boy did not like curd when he was 3. Now he loves it. What does this show?",
    "opts": [
     "Likes can change",
     "He is a different boy",
@@ -1707,7 +1707,7 @@
    "art": "A red hibiscus flower on a window sill, yellow pollen on the long middle part."
   },
   {
-   "text": "Children in Kolkata during Durga Puja, looking at themselves in a mirror after new clothes.",
+   "text": "Children in Kolkata during Durga Puja, looking at themselves in a mirror after putting on new clothes.",
    "art": "A girl in a new frock looking at herself in a long mirror in a pandal crowd."
   }
  ],
@@ -1764,7 +1764,7 @@
  ],
  "maths": [
   {
-   "problem": "In a family tickle test, 5 people tried. 4 people scored their own stroke lower than someone else's. 1 person scored them the same. How many more people scored their own stroke lower than the same?",
+   "problem": "In a family tickle test, 5 people tried. 4 people scored their own stroke lower than someone else's. 1 person gave both strokes the same score. How many more people scored their own stroke lower than gave both the same score?",
    "answer": "3 more people.",
    "explain": "4 take away 1 is 3. Most people in the family found their own stroke tickled less.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1773,12 +1773,12 @@
    "why_maths": "Comparing the counts shows how strong the pattern is, not just that it happened once."
   },
   {
-   "problem": "Kavya's own-stroke scores were 0 and 1. Her scores for Ammachi's stroke were 3 and 3. Add each pair. How much bigger is Ammachi's total?",
+   "problem": "In the story Kavya's Two Voices, Kavya's scores for her own stroke were 0 and 1. Her scores for her grandmother Ammachi's stroke were 3 and 3. Add each pair. How much bigger is the total for Ammachi's stroke?",
    "answer": "5 bigger.",
    "explain": "0 + 1 = 1. 3 + 3 = 6. 6 take away 1 is 5. Ammachi's stroke tickled much more.",
    "math_unit": "math.addition-subtraction.number-facts.L2",
    "how": "e1",
-   "context": "This is about the tickle test, where Kavya had two tries of each kind of stroke.",
+   "context": "This is about the tickle test in the story Kavya's Two Voices, where Kavya had two tries of each kind of stroke.",
    "why_maths": "Adding two tries together evens out a fluke, so the totals are fairer to compare."
   },
   {
@@ -1834,7 +1834,7 @@
   },
   {
    "q": "Why does your voice sound different on a phone?",
-   "a": "The phone hears only the air. You also hear through your bones."
+   "a": "The phone picks up only the sound in the air. You also hear your voice through the bones of your head."
   },
   {
    "q": "Is your face in a mirror the same way round as your face in a photo?",
@@ -1930,8 +1930,8 @@
    "evidence": "In the tickle test, with the same feather, spot and strokes, most people scored their own stroke lower than someone else's."
   },
   "three": {
-   "who_am_i": "You are a body whose movements your brain keeps track of, so it knows which touches are yours.",
-   "what_is_life": "Many living beings tell their own from another's: a baby with a finger on the cheek, a flower with pollen, a cricket with a song.",
+   "who_am_i": "Your brain keeps track of every movement your body makes, so it knows which touches are yours.",
+   "what_is_life": "Many living beings tell their own from another's. A newborn baby turns more to someone else's finger than to their own hand. A flower knows their own pollen. A cricket turns down his hearing for his own song.",
    "what_is_this_world": "The world is full of beings who each know their own touch, their own song or their own pollen."
   },
   "thread": "A baby, a flower and a cricket each tell their own from another's, in their own way. You do it with touch: your brain predicts your own touch and turns it down. Telling 'me' from 'not me' starts in the body, before words.",
@@ -1949,11 +1949,11 @@
   ],
   "science": [
    {
-    "text": "Your own touch feels weaker because your brain predicts it from a copy of your movement message.",
+    "text": "Your own touch feels weaker because your brain keeps a copy of the message it sends to your muscles, and uses the copy to predict the touch.",
     "status": "settled"
    },
    {
-    "text": "Whether plants and insects have a sense of self in the same way as humans is argued about.",
+    "text": "Scientists do not agree on whether plants and insects have a sense of self in the way humans do.",
     "status": "debated"
    }
   ],
@@ -1977,7 +1977,7 @@
   "story": "For a long time people simply said you can't tickle yourself because you know the touch is coming. In 1971, Lawrence Weiskrantz and his colleagues at Oxford tested it with a tickling machine. People rated being tickled by someone else as more ticklish than tickling themselves. In the late 1990s, Sarah-Jayne Blakemore, a young scientist in London, worked with Daniel Wolpert and Chris Frith to test this idea more exactly. People moved a lever with one hand. A robot then stroked their other palm with soft foam. With no delay, the stroke hardly tickled. When the robot added a delay of a fraction of a second, or moved in a different direction, the same stroke tickled more. The people still knew the touch was coming, because they made it. So knowing was not enough. The brain predicts the exact touch from the movement, and turns down only what matches. Brain scans showed a part at the back of the brain, called the cerebellum, helps make this prediction.",
   "who": "Lawrence Weiskrantz and colleagues at Oxford, then Sarah-Jayne Blakemore with Daniel Wolpert and Chris Frith in London",
   "when": "The first tickling machine study was in 1971. The robot studies were in 1998 and 1999.",
-  "wrong_idea": "That you can't tickle yourself only because you know the touch is coming. Blakemore's robot showed that even when people knew, a tiny delay made their own touch tickle again.",
+  "wrong_idea": "People thought you can't tickle yourself only because you know the touch is coming. Blakemore's robot showed that even when people knew, a tiny delay made their own touch tickle again.",
   "art": "A woman scientist in a lab beside a small robot arm with a piece of soft foam, and a volunteer moving a lever with one hand while the other palm lies under the foam."
  },
  "playtest": "Walked through the tickle test, the glove hand test and the recording, mirror and then-and-now activities as a parent and child in a flat, with only a feather, a rubber glove, a book, a towel, a phone and a mirror. The tickle test now has the child open their eyes before pointing to a face, and the glove test gets a rest between tries and a set distance for the glove, with a note that it may not work for everyone. Me or Not Me now has a clear stack order and an end with no winner, and the cards no longer say a mirror flips left to right. The Me book steps now match its five-day schedule, no step assumes a grandmother or sibling at home, and repeated worksheet and quiz questions were replaced with new ones."

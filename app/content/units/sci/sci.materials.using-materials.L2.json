@@ -3,7 +3,7 @@
  "title": "Choosing the right material: grip for a tray, slip for a slide",
  "level": 2,
  "summary": {
-  "text": "Put a steel katori on a tilted plastic sheet, and it slides off. Put it on rubber, and it stays, even when the board is steep. A material is right for a job when it has the properties the job needs. Your child tests five materials as a mat for a tray, and measures how high the board can go before the katori slides. Then they use the same results to choose a material for a slide, where the winner is the other way round.",
+  "text": "Put a steel katori on a tilted plastic sheet, and it slides off. Put it on rubber, and it stays, even when the board is steep. A material is right for a job when it has the properties the job needs. Your child tests five materials as a mat for a tray, and measures how high the board can go before the katori slides. Then they use the same results to choose a material for a slide. For a slide, the best material is the one that grips least.",
   "art": "A child lifting one end of a chopping board covered with rubber bands, with a steel katori sitting still on it, and a ruler standing upright at the lifted end."
  },
  "intro": {
@@ -103,7 +103,7 @@
    "concept": "Cloth bag or plastic bag: more than one thing to think about",
    "status": "debated",
    "context": "This card is about a choice many families make at the vegetable shop. People who think carefully still disagree about it.",
-   "description": "We also ask what a material costs, how long it lasts, and what happens to it when it is thrown away. A thin plastic bag is cheap and light, but it can stay as litter for a very long time. Making one cloth bag uses much more water and energy than making one plastic bag. But a cloth bag lasts for years. So a cloth bag is the kinder choice only if you use it many, many times.",
+   "description": "When we choose a material, we also ask what it costs, how long it lasts, and what happens to it when it is thrown away. A thin plastic bag is cheap and light, but it can stay as litter for a very long time. Making one cloth bag uses much more water and energy than making one plastic bag. But a cloth bag lasts for years. So a cloth bag is the kinder choice only if you use it many, many times.",
    "examples": [
     "A cotton or jute bag used every week for years.",
     "A thin plastic bag used once and thrown away.",
@@ -133,7 +133,7 @@
   },
   {
    "text": "Rubber grips most hard, dry surfaces better than paper, cloth or hard plastic.",
-   "evidence": "In tilt tests like yours, things stay on rubber at a much steeper slope. This is why tyres, chappal soles and the feet of a mixie are made of rubber."
+   "evidence": "In tilt tests, a thing is put on a board and one end of the board is lifted. Things stay on rubber at a much steeper slope than on other materials. This is why tyres, chappal soles and the feet of a mixie are made of rubber."
   },
   {
    "text": "Friction happens wherever two surfaces touch and press together.",
@@ -168,7 +168,7 @@
  ],
  "big_questions": [
   {
-   "q": "Why did the katori stay on the rubber, when it slid off the plastic?",
+   "q": "In the Tilt Test, why did the katori stay on the rubber but slide off the plastic?",
    "kind": "deep",
    "hint": "Think of the tiny bumps on the katori. Which material can squash into them?"
   },
@@ -180,7 +180,7 @@
   {
    "q": "Does a heavier katori grip better than a light one?",
    "kind": "deep",
-   "hint": "Test it. Put coins in the katori and try the same material again."
+   "hint": "Test it on a tilted board. Try the katori empty, then with coins in it, on the same material."
   },
   {
    "q": "If nothing in the world had any grip, what would happen at dinner time?",
@@ -190,7 +190,7 @@
   {
    "q": "Who decides what a material is for?",
    "kind": "big",
-   "hint": "Patsy Sherman's mixture was made for one job and turned out right for another."
+   "hint": "Patsy Sherman's mixture was made for the fuel pipes of jet planes. It turned out to be right for keeping cloth clean."
   }
  ],
  "how_we_found_out": {
@@ -308,7 +308,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Feel and guess. Test each of the five surfaces 3 times. Write the heights. Choose a material for a tray mat and one for a slide."
+     "what": "Feel the five surfaces and guess which one grips best. Test each one 3 times and write down the heights. Then choose a material for a tray mat and one for a slide."
     }
    ],
    "record": "Write your guess and your reason at the top. Fill in the results table. Circle the best material for a tray mat in green, and the best for a slide in blue.",
@@ -383,7 +383,7 @@
        ]
       }
      ],
-     "parent": "Don't say if the guess is right. Any guess with a reason is good. The test will answer it.",
+     "parent": "Don't say whether the guess is right. Any guess with a reason is good. The test will answer it.",
      "context": "This is the first step of the tilt test. You feel five surfaces and guess which one grips a katori best."
     },
     {
@@ -415,14 +415,14 @@
      "id": "s4",
      "mins": 8,
      "do": "1. Take the rubber bands off. 2. Tape the cloth flat on the board. 3. Do three tries and write the heights. 4. Do the same with the newspaper, the plastic sheet and the bare board.",
-     "say": "Now we change only the material. Everything else stays the same. Which one do you think will be next?",
+     "say": "Now we change only the material. Everything else stays the same. After rubber, which one do you think will hold the katori best?",
      "kid": "Change the material. Keep the katori and coins the same. Test each one three times.",
      "parent": "Tape the materials at the edges, under the board if you can, so the tape is not under the katori. The heights for cloth, newspaper and the bare board may be close together. That is a real result. Rubber usually holds the katori far higher than all the others."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. For each material, circle the middle number of the three tries. 2. Ask your child to point to the highest and the lowest.",
+     "do": "1. For each material, circle the middle number of the three tries. 2. Ask your child to point to the highest middle number and the lowest one.",
      "say": "Look at the middle numbers. Which material held the katori on the steepest tilt? Which let it slide first?",
      "kid": "Find the biggest number and the smallest number. Which materials are they?",
      "ask": [
@@ -450,7 +450,7 @@
      "id": "s6",
      "mins": 2,
      "do": "1. Ask the first question below. 2. Then ask the second one. 3. Let your child answer both from the table.",
-     "say": "Paati wants a mat for her tray, so the tumblers don't slide. Which material should she use? Now a park needs a new slide. Which material should it be covered with?",
+     "say": "We want a mat for a tray, so the tumblers don't slide. Which material should we use? Now a park needs a new slide. Which material should cover it?",
      "kid": "Which material is best for a tray mat? Which is best for a slide? Look at your table.",
      "ask": [
       {
@@ -607,7 +607,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Now look for things that need to slip. 2. Try a drawer, the carrom board, an iron box's flat bottom, a plastic comb through hair. 3. Draw all the things.",
+     "do": "1. Now look for things that need to slip. 2. Try a drawer, the carrom board, the flat bottom of an iron box, and a plastic comb going through hair. 3. Draw all the things.",
      "say": "Now find things that are meant to slide. What would happen if a drawer had a rubber bottom?",
      "kid": "Find 3 things that slip. Draw all your things.",
      "parent": "Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough. Look at the iron box only when it is unplugged and cool."
@@ -661,8 +661,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Ask the question below, and write down your child's guess and reason.",
-     "say": "Which will stay on a steeper tilt: the empty katori or the full one? Why do you think so?",
-     "kid": "Which will stay on longer: empty or full? Why?",
+     "say": "Which will stay on a steeper tilt: the empty katori or the katori with 20 coins in it? Why do you think so?",
+     "kid": "Which katori will stay on the board longer: the empty one or the one with 20 coins? Why?",
      "ask": [
       {
        "q": "Why?",
@@ -677,7 +677,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Test the empty katori 3 times, lifting slowly. 2. Write the heights. 3. Put 20 coins in it. 4. Test it 3 times again.",
-     "say": "Same board, same newspaper, same lifting. Only the weight changes. Lift slowly.",
+     "say": "We use the same board, the same newspaper on it and the same slow lifting. Only the weight changes.",
      "kid": "Test the empty one 3 times. Add the coins. Test 3 times again.",
      "parent": "On newspaper, the two usually slide at about the same height. A difference of 1 or 2 cm counts as the same. If you see a big difference, check that you lifted at the same speed."
     },
@@ -686,7 +686,7 @@
      "mins": 2,
      "do": "Compare the middle numbers. Ask the question below.",
      "say": "Did the heavy katori stay on a steeper tilt? What does that tell us about the guess?",
-     "kid": "Were they about the same? Was the guess right?",
+     "kid": "Did the two katoris slide at about the same height? Was your guess right?",
      "ask": [
       {
        "q": "What did you find?",
@@ -950,7 +950,7 @@
    ],
    "rules": [
     "Cut out all the cards. Lay the 8 question cards face up. Put the job cards face down.",
-    "The detective-keeper takes a job card and looks at it secretly.",
+    "One player is the keeper. The keeper takes a job card and looks at it secretly.",
     "The other players take turns to pick a question card and ask it. The keeper answers 'yes' or 'no', using the back of the job card.",
     "After 5 questions, the other players guess the job and name a good material.",
     "A right job gets 1 point. A suitable material gets 1 more point. Then the next player is keeper."
@@ -1067,7 +1067,7 @@
      "say": "Where in the kitchen do we need grip? Where do we need things to slide?",
      "kid": "Put green where things must grip. Put blue where they must slip.",
      "wait": "Do this the next day.",
-     "parent": "Use the things from the Grip and Slip Hunt if you did it."
+     "parent": "If you did the Grip and Slip Hunt, use the things you found in it."
     },
     {
      "id": "s3",
@@ -1087,7 +1087,7 @@
    "title": "The Slipperiest Slide for a Matchbox",
    "mins": 20,
    "context": "This is a making challenge. In the tilt test you looked for grip. Now you do the opposite: you make a slide that a matchbox slides down at the smallest tilt.",
-   "problem": "Cover a piece of card to make a slide. A matchbox with 2 coins inside must slide down by itself. Make it slide with the end of the card lifted as low as you can.",
+   "problem": "Cover a piece of card to make a slide. A matchbox with 2 coins inside must slide down by itself. Try to make it slide with the end of the card lifted as little as possible.",
    "constraints": [
     "Use only things from home.",
     "Use one piece of card from a box, about 30 cm long.",
@@ -1261,14 +1261,14 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why are chappal soles made of rubber?",
+     "p": "Why are chappal soles made of rubber? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "Rubber grips the road, so you don't slip. It also bends when you walk.",
      "why": "A strong answer names the property, grip, and says why the job needs it."
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 2, is choosing a material for a new slide in her park. Which property does the slide need?",
+     "p": "A park needs a new slide. Which property does the material for the slide need?",
      "opts": [
       "It grips well",
       "It soaks up water",
@@ -1305,7 +1305,7 @@
     },
     {
      "t": "count",
-     "p": "Ishita, a girl in Class 2, tested 5 materials in the tilt test. The katori slid off 4 of them before the board was 15 cm high. How many held the katori past 15 cm?",
+     "p": "In a tilt test, 5 materials were tested. The katori slid off 4 of them before the board was 15 cm high. How many materials held the katori past 15 cm?",
      "a": 1,
      "why": "5 materials take away 4 is 1. In most homes, that one is the rubber.",
      "context": "This question is about the tilt test. You put a steel katori on a board covered with different materials, lift one end slowly, and measure how high it is when the katori slides.",
@@ -1321,14 +1321,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavitha says, 'Steel is good for a tumbler because it is shiny.' What does a tumbler really need?",
+     "p": "Someone says, 'Steel is good for a tumbler because it is shiny.' What does a tumbler really need?",
      "opts": [
       "To be shiny",
       "To hold water and not break when dropped",
       "To be cold"
      ],
      "a": 1,
-     "why": "Shiny does not help a tumbler hold water. Kavitha has named a property, but not one the job needs."
+     "why": "Being shiny does not help a tumbler hold water. Shiny is a property of steel, but it is not one the job needs."
     },
     {
      "t": "write",
@@ -1464,7 +1464,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sindhu, a girl in Class 2, ran the tilt test once. The katori slid off the cloth at 12 cm. Her brother tried it and got 9 cm. What should they do?",
+     "p": "The tilt test was done once, and the katori slid off the cloth at 12 cm. Then a second person did it and got 9 cm. What should they do?",
      "opts": [
       "Believe the first try only",
       "Try it 3 more times and look at the middle number",
@@ -1491,7 +1491,7 @@
       "Rough, so it grips wheels and feet"
      ],
      "a": 2,
-     "why": "A ramp is a slope. Without grip, wheels and feet slide back down, like the katori on the plastic."
+     "why": "A ramp is a slope. Without grip, wheels and feet slide back down, as the katori slid off the plastic in the tilt test."
     },
     {
      "t": "sort",
@@ -1556,7 +1556,7 @@
     },
     {
      "t": "count",
-     "p": "Gauri's katori stayed on the rubber until 20 cm. It slid off the plastic at 5 cm. Count in 5s from 5 to 20. How many 5s is that?",
+     "p": "In a tilt test, the katori stayed on the rubber until 20 cm. It slid off the plastic at 5 cm. Count in 5s from 5 to 20. How many 5s is that?",
      "a": 4,
      "why": "5, 10, 15, 20 is four 5s. So the rubber held the katori 4 times as high as the plastic.",
      "context": "This question is about the tilt test. You put a steel katori on a board covered with different materials, lift one end slowly, and measure how high it is when the katori slides.",
@@ -1622,7 +1622,7 @@
   },
   {
    "t": "mcq",
-   "p": "Hema, a girl in Class 2, puts a katori on rubber bands and then on a plastic sheet, and tilts the board. Which holds the katori on a steeper tilt?",
+   "p": "You put a katori on rubber bands and then on a plastic sheet, and tilt the board each time. Which holds the katori on a steeper tilt?",
    "opts": [
     "The rubber bands",
     "The plastic sheet",
@@ -1654,12 +1654,12 @@
     "It is see-through"
    ],
    "a": 1,
-   "why": "Rubber's grip is the very thing that makes it a good tray mat and a bad slide.",
+   "why": "Rubber grips, so you would stop halfway down. The same grip is what makes rubber a good tray mat.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Revathi's tumbler is steel. Which property matters most for a tumbler's job?",
+   "p": "A tumbler is made of steel. Which property matters most for a tumbler's job?",
    "opts": [
     "It holds water and does not break when dropped",
     "It is shiny",
@@ -1684,7 +1684,7 @@
   },
   {
    "t": "mcq",
-   "p": "Paati wants her tea tumblers to stay still on a tray. Which mat is most suitable?",
+   "p": "You want tea tumblers to stay still on a tray. Which mat is most suitable?",
    "opts": [
     "Foil",
     "A plastic sheet",
@@ -1696,11 +1696,11 @@
   },
   {
    "t": "mcq",
-   "p": "Lalitha thinks cloth will grip better than newspaper. What should she do next?",
+   "p": "You think cloth will grip better than newspaper. What should you do next?",
    "opts": [
     "Test both on the tilted board and compare",
     "Write it down as true",
-    "Ask her friend only"
+    "Ask a friend only"
    ],
    "a": 0,
    "why": "A guess becomes something we know only after a test.",
@@ -1739,7 +1739,7 @@
     "It is heavy"
    ],
    "a": 0,
-   "why": "More places touching means more grip. Picking 'it is wet' may come from wet floors, but water usually makes things slip.",
+   "why": "More places touching means more grip. Picking 'it is wet' may come from thinking of wet floors, but water usually makes things slip.",
    "outcome": 2
   }
  ],
@@ -1823,7 +1823,7 @@
    "a": "We have very different jobs!"
   },
   {
-   "j": "Why did Arjun stop halfway down the slide?",
+   "j": "Why did the boy on the rubber mat stop halfway down the slide?",
    "a": "He was sitting on too much friction!"
   }
  ],
@@ -1847,7 +1847,7 @@
    "why_maths": "Putting the heights in order shows which material grips best, and close numbers tell us when we cannot be sure."
   },
   {
-   "problem": "Ishita tried the rubber 3 times. The katori slid at 20 cm, 23 cm and 21 cm. Put the three numbers in order. Which one is in the middle?",
+   "problem": "In the tilt test, the rubber was tried 3 times. The katori slid at 20 cm, 23 cm and 21 cm. Put the three numbers in order. Which one is in the middle?",
    "answer": "20, 21, 23. The middle number is 21 cm.",
    "explain": "In order, the numbers are 20, 21 and 23. The middle one is 21. We use the middle number because one strange try, too high or too low, does not change it much.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -1856,7 +1856,7 @@
    "why_maths": "Three tries give three slightly different numbers. The middle one is a fair number to write down."
   },
   {
-   "problem": "In the Grip and Slip Hunt, Tejal found 7 things made to grip and 3 things made to slip. Draw one green circle for each grip thing and one blue circle for each slip thing. How many more grip things did she find?",
+   "problem": "In a Grip and Slip Hunt, 7 things made to grip and 3 things made to slip were found. Draw one green circle for each grip thing and one blue circle for each slip thing. How many more grip things were found than slip things?",
    "answer": "4 more grip things.",
    "explain": "7 green circles and 3 blue circles. Match them in pairs: 3 pairs, and 4 green circles are left over. So 7 take away 3 is 4.",
    "math_unit": "math.data.pictographs.L2",
@@ -1974,7 +1974,7 @@
  "roots": {
   "context": "We have tested which material grips a katori, and used the results to choose a tray mat and a slide. Now we ask what the tilt test tells us about materials, and about ourselves.",
   "deep_truth": {
-   "truth": "On your tilted board, the soft rubber held the hard steel katori long after the others let go. The rubber squashed into tiny bumps under the katori and touched it in many more places. The hard, smooth plastic touched only the tops of those bumps. So a soft material can grip better than a hard one.",
+   "truth": "In the Tilt Test, the soft rubber held the hard steel katori on the board long after the other materials let it slide. The rubber squashed into tiny bumps under the katori and touched it in many more places. The hard, smooth plastic touched only the tops of those bumps. So a soft material can grip better than a hard one.",
    "habit": "We think hard materials hold things best, and that soft ones are weak. In the tilt test, soft rubber gave by far the best grip.",
    "evidence": "In the tilt test, the same katori with the same coins slid off the plastic at a low tilt and stayed on the rubber until the board was much higher. Rubber is soft enough to squash into the tiny bumps of a surface, so it touches in many more places. This is why tyres, chappal soles and the feet of a mixie are soft rubber."
   },
@@ -1983,7 +1983,7 @@
    "what_is_life": "A house gecko walks across your ceiling. Tiny hairs on their toes give them the grip their life needs.",
    "what_is_this_world": "Everything that touches something else has some friction. With no grip at all, nothing in the world would stay where it was put."
   },
-  "thread": "Rubber and steel are made of tiny particles. Where they touch, the particles hold on to each other, and that holding is part of friction. Everything is conscious, so this holding is also a meeting, where each material answers the other. Many physicists describe it only as electric forces between particles, with no awareness in it. Either way, the job comes from someone who needs it: the same meeting helps on a tray and gets in the way on a slide.",
+  "thread": "Rubber and steel are made of tiny particles. Where they touch, the particles hold on to each other, and that holding is part of friction. Everything is conscious, so this holding is also a meeting between the two materials, where each one responds to the other. Many physicists describe it only as electric forces between particles, with no awareness in it. Either way, the material does not decide its job. Someone who needs something does. The same grip helps on a tray and gets in the way on a slide.",
   "teachings": [
    {
     "source": "Plato, Republic, Book 1 (352e to 353a)",

@@ -60,7 +60,7 @@
  ],
  "explanations": [
   {
-   "concept": "Cause and effect: every happening is made to happen",
+   "concept": "Cause and effect: what makes things happen",
    "status": "defined",
    "context": "This card explains the two words this whole unit is about.",
    "definition": "A cause is what makes something happen. An effect is what happens because of it. The cause always comes first, and the effect comes after.",
@@ -173,7 +173,7 @@
    "for": "Rotting meat left out soon had maggots on it, and nobody saw where they came from.",
    "against": "In 1668, Francesco Redi covered some jars of meat with fine cloth. No maggots grew on that meat. Flies had laid their eggs on the cloth instead. Maria Sibylla Merian raised insects from eggs and drew every stage.",
    "status": "rejected",
-   "context": "This card is about an old idea that some things have no parents."
+   "context": "This card is about an old idea that some small creatures have no parents."
   },
   {
    "claim": "The rooster's crowing makes the Sun rise.",
@@ -187,7 +187,7 @@
    "claim": "A small push can only ever make a small effect.",
    "who": "Many people think this.",
    "for": "A gentle push on one domino seems far too small to knock down a whole line.",
-   "against": "In the domino test, one gentle push knocked down ten dominoes. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over one about one and a half times bigger than itself.",
+   "against": "In the domino test, one gentle push knocked down ten dominoes. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over another one about one and a half times its size.",
    "status": "rejected",
    "context": "This card is about whether small causes can have big effects."
   },
@@ -195,7 +195,7 @@
    "claim": "Every effect has just one cause.",
    "who": "We often talk this way, for example 'the wind knocked it over'.",
    "for": "It is easy to name the last thing that happened before the effect.",
-   "against": "In the domino test, the last domino fell because of the domino before it, and that one because of the one before it, and so on back to your finger. A cut in any link would have stopped it. So every link was a cause.",
+   "against": "In the domino test, the last domino fell because of the domino before it, and that one because of the one before it, and so on back to your finger. Taking away any one domino would have stopped it. So every link was a cause.",
    "status": "debated",
    "context": "This card is about how many causes one effect really has."
   }
@@ -222,7 +222,7 @@
    "hint": "Think of the line of dominoes, and how far one push travelled."
   },
   {
-   "q": "If you follow causes back and back, where does the chain begin?",
+   "q": "If you keep asking what caused each cause, where does the chain begin?",
    "kind": "big",
    "hint": "What made the first domino fall? What made you push it? What came before that?"
   }
@@ -231,7 +231,7 @@
   "story": "For about two thousand years, most people in Europe believed that small creatures had no parents. They thought maggots grew by themselves out of rotting meat, and caterpillars out of mud and leaves. In 1668, an Italian doctor called Francesco Redi tested this. He put pieces of meat in jars. He left some jars open. He covered others with fine cloth, so air could get in but flies could not. Flies landed on the open meat, and soon it was full of maggots. The covered meat rotted too, but no maggots grew on it. Instead, flies laid their eggs on top of the cloth. So the maggots came from fly eggs, not from the meat. At the same time in Germany, Maria Sibylla Merian was raising caterpillars at home. She fed them leaves and watched them every day. She drew each stage: the egg, the caterpillar, the pupa and the moth. Her book of 1679 showed that every caterpillar hatches from an egg laid by a moth or butterfly.",
   "who": "Francesco Redi, an Italian doctor, and Maria Sibylla Merian, a German artist and scientist",
   "when": "Redi's jar test was published in 1668. Merian's first book on caterpillars came out in 1679.",
-  "wrong_idea": "That maggots, caterpillars and other small creatures grow by themselves from rotting meat or mud, with no parents. Redi's covered jars showed that maggots grow only where flies lay eggs, and Merian's drawings showed every stage from egg to moth.",
+  "wrong_idea": "People believed that maggots, caterpillars and other small creatures grow by themselves from rotting meat or mud, with no parents. Redi's covered jars showed that maggots grow only where flies lay eggs, and Merian's drawings showed every stage from egg to moth.",
   "art": "On the left, three glass jars of meat, one open with flies, one covered with cloth and one sealed. On the right, a woman at a table drawing a caterpillar on a leaf, with a moth and an egg drawn on the same page."
  },
  "story": {
@@ -288,7 +288,7 @@
    "context": "In this experiment you stand ten dominoes in a line and push the first one. You try three different gaps between them, and count how many fall each time.",
    "question": "How far apart can dominoes stand and still knock each other down, all the way to the end of the line?",
    "predict": "We will try three gaps: one finger wide, half a domino tall, and one whole domino tall. Which gaps will make all ten dominoes fall? Why do you think so?",
-   "fair_test": "We change only the gap. We use the same ten dominoes on the same floor each time. We give the first domino the same gentle push with one finger. We switch off the fan, because moving air can knock over light dominoes. We try each gap twice, because one try can be a fluke.",
+   "fair_test": "We change only the gap. We use the same ten dominoes on the same floor each time. We give the first domino the same gentle push with one finger. We switch off the fan, because moving air can knock over light dominoes. We try each gap twice, because one try can go wrong by chance.",
    "results_table": [
     "Gap",
     "First try: how many fell (out of 10)?",
@@ -324,7 +324,7 @@
    "record": "Fill in the results table. Then draw the line of dominoes for the widest gap, showing which ones fell and which stayed up.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Kavya's flat in Mysuru, with empty matchboxes",
+    "title": "Made-up example results, using empty matchboxes",
     "cols": [
      "Gap",
      "First try",
@@ -375,9 +375,9 @@
      "id": "s1",
      "mins": 4,
      "context": "This is the first step of the domino gap test. You make a strip of paper to measure the gaps.",
-     "do": "1. Stand one domino on its short end on the paper strip. 2. Your child marks the strip level with the top of the domino. 3. Cut the strip at the mark. 4. Fold it in half and mark the fold.",
+     "do": "1. Stand one domino on its short end. 2. Hold the paper strip upright beside it, with one end on the floor. 3. Your child marks the strip level with the top of the domino. 4. Cut the strip at the mark. 5. Fold it in half and mark the fold.",
      "say": "This strip is exactly as long as a domino is tall. Folded in half, it shows half a domino's height. We will use it to set the gaps.",
-     "kid": "Stand a domino on the paper. Mark how tall it is. Cut the paper there. Fold it in half.",
+     "kid": "Stand a domino up. Hold the paper strip beside it. Mark how tall the domino is. Cut the paper there. Fold it in half.",
      "parent": "Measuring with the strip means the test works with any dominoes, matchboxes or blocks, whatever their size."
     },
     {
@@ -403,8 +403,8 @@
      "id": "s3",
      "mins": 7,
      "context": "In this step of the domino gap test, you try the smallest gap: one finger wide.",
-     "do": "1. Your child stands ten dominoes in a straight line, one finger apart. 2. Start at the far end, so a slip knocks over only a few. 3. Push the first domino gently with one finger. 4. Count how many fell. 5. Do it once more.",
-     "say": "Put one finger between each domino and the next. Now give the first one a gentle push. Don't push hard. How many fell?",
+     "do": "1. Your child stands ten dominoes in a straight line, one finger apart. 2. Build the line from the far end towards you, so that a slip knocks over only a few. 3. Push the first domino gently with one finger. 4. Count how many fell. 5. Do it once more.",
+     "say": "Leave a gap one finger wide between each domino and the next. Now give the first one a gentle push. Don't push hard. How many fell?",
      "kid": "Stand ten dominoes in a line, one finger apart. Push the first one gently. Count how many fall.",
      "parent": "If some fall while your child is setting them up, that is normal. Stand them up again. With a one-finger gap, all ten usually fall."
     },
@@ -439,8 +439,8 @@
      "id": "s6",
      "mins": 4,
      "context": "This is the last step of the domino gap test. You take one domino out and say what you found.",
-     "do": "1. Stand the line again with the half-strip gaps. 2. Take out the fifth domino. 3. Push the first one and count how many fall. 4. Ask your child what they think, what they saw and why. 5. Then read the card on why the last domino falls.",
-     "say": "This time we take one domino out of the middle. What will happen? Push. How many fell? Why do you think the chain stopped where it did?",
+     "do": "1. Stand the line again with the half-strip gaps. 2. Take out the fifth domino. 3. Push the first one and count how many fall. 4. Ask your child what they saw, and why they think the chain stopped. 5. Then read the card 'A chain of causes: why the last domino falls'.",
+     "say": "This time we take one domino out of the middle. What will happen? Push the first one. How many fell? Why do you think the chain stopped where it did?",
      "kid": "Take out the fifth domino. Push the first one. Where does the chain stop? Why?",
      "ask": [
       {
@@ -475,7 +475,7 @@
    "context": "In this experiment you put coins in a line, touching each other. You slide one more coin into the end of the line, and watch which coin moves away.",
    "question": "If you slide a coin into one end of a line of coins, which coin will move away?",
    "predict": "When the sliding coin hits the line, which coin will move? The first one, the middle ones, the last one, or all of them? Why do you think so?",
-   "fair_test": "All the coins are the same kind, so they are the same size and weight. They touch each other in a straight line. We slide the coin the same way each time, on the same smooth surface. We try each test three times, because one try can be a fluke.",
+   "fair_test": "All the coins are the same kind, so they are the same size and weight. They touch each other in a straight line. We slide the coin the same way each time, on the same smooth surface. We try each test three times, because one try can go wrong by chance.",
    "results_table": [
     "Test",
     "Which coins moved away?",
@@ -505,7 +505,7 @@
    "record": "Draw the line of coins before and after each test. Draw an arrow on each coin that moved.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Lakshmi's flat in Chennai, on a carrom board",
+    "title": "Made-up example results, on a carrom board",
     "cols": [
      "Test",
      "Which coins moved away?",
@@ -589,7 +589,7 @@
      "id": "s4",
      "mins": 4,
      "context": "This is the last step of the coin chain test. You say what you found.",
-     "do": "1. Ask your child what they think, what they saw and why. 2. Then read the card on why the last domino falls.",
+     "do": "1. Ask your child what they saw, and how they think the push reached the last coin. 2. Then read the card 'A chain of causes: why the last domino falls'.",
      "say": "The middle coins hardly moved. But the last coin flew off. How did the push get to the end?",
      "kid": "The middle coins hardly moved. How did the push get to the end coin?",
      "ask": [
@@ -654,7 +654,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Your child drops the spoon onto the plate. 2. Holds the paper strip in front of the fan and switches the fan on. 3. Stirs a spoon of sugar into the water and tastes it. 4. Breathes on the steel tumbler. 5. Claps once. 6. Switches the light off and on.",
+     "do": "Your child does each of these. 1. Drop the spoon onto the plate. 2. Hold the paper strip in front of the fan and switch the fan on. 3. Stir a spoon of sugar into the water and taste it. 4. Breathe on the steel tumbler. 5. Clap once. 6. Switch the light off and on.",
      "say": "Do this, and tell me what happened because of it. What you did is called the cause. What happened is called the effect.",
      "kid": "Do each action. Then say what happened. What you did is the cause. What happened is the effect.",
      "ask": [
@@ -829,7 +829,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Talk about the chain together. 2. Afterwards, move the paper outside or wipe the sugar away, without hurting the ants.",
-     "say": "First the sugar. Then one ant found the sugar. Then she left a smell trail. Then many ants came. What started the chain?",
+     "say": "First we put down the sugar water. Then one ant found it. Then she left a smell trail. Then many ants came. What started the chain?",
      "kid": "One ant found the sugar. Then many came. What started the chain?",
      "parent": "Ants sense, think and tell each other where food is. Some scientists say the trail is only an automatic reaction, and others say each ant chooses. Either way, one ant's find was the cause of all the others coming."
     }
@@ -937,7 +937,7 @@
     "On your turn, put down one card that can come next in any chain. Say the chain out loud with 'so': 'The tawa gets hot, so Amma pours the batter.'",
     "The other players turn your card over. If the back shows the right chain and the right number, you keep it there. If not, take it back.",
     "If you cannot put down a card, take one from the pile.",
-    "The first player with no cards left wins. Playing alone, build all three chains, then check the backs."
+    "The first player with no cards left wins. If you play alone, build all three chains, then check the backs."
    ],
    "setup": [
     {
@@ -1119,7 +1119,7 @@
      "what": "Line up the same ten chana and measure again. Compare."
     }
    ],
-   "record": "Write how long the line of ten chana was at night and in the morning. Draw one chana before and after, the right sizes.",
+   "record": "Write how long the line of ten chana was at night and in the morning. Draw one chana before soaking and one after, each at its real size.",
    "setup": [
     {
      "art": "Ten dry chana in a touching line along a ruler, with the length marked.",
@@ -1369,7 +1369,7 @@
     },
     {
      "t": "count",
-     "p": "Kavya stood up 10 dominoes with the widest gap. When she pushed, only 1 fell. How many stayed standing?",
+     "p": "You stood up 10 dominoes with the widest gap. When you pushed the first one, only 1 fell. How many stayed standing?",
      "a": 9,
      "why": "10 take away 1 is 9. Nine dominoes stayed standing, because the first one could not reach the second.",
      "context": "This question is about the domino gap test. You stood ten dominoes in a line, pushed the first one, and counted how many fell with three different gaps.",
@@ -1377,7 +1377,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi, a girl in Class 2, and her brother Arjun watch the last domino fall.",
+     "p": "Meenakshi pushes the first domino in a line. She and her brother Arjun watch the last domino fall.",
      "views": [
       {
        "who": "Meenakshi",
@@ -1459,7 +1459,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meenu, a girl in Class 2, made a new friend after her school van was late because a coconut fell on the road. Her cousins Revathi and Joel talk about it.",
+     "p": "In the story, Meenu made a new friend after her school van was late because a coconut fell on the road. Her cousins Revathi and Joel talk about it.",
      "views": [
       {
        "who": "Revathi",
@@ -1477,7 +1477,7 @@
     },
     {
      "t": "fill",
-     "p": "Soaked overnight in water, dry chana become ____ by the morning.",
+     "p": "Dry chana soaked in water overnight become ____ by the morning.",
      "a": "bigger",
      "why": "The chana seeds soak up water through the night. The effect takes hours to show.",
      "context": "This question is about soaking chana. You measured a line of ten dry chana at night, soaked them, and measured them again in the morning.",
@@ -1499,7 +1499,7 @@
     },
     {
      "t": "count",
-     "p": "Before soaking, Kavya's line of 10 chana was 8 centimetres long. In the morning, it was 12 centimetres long. How much longer was it?",
+     "p": "Before soaking, a line of 10 chana was 8 centimetres long. In the morning, the line was 12 centimetres long. How much longer was it?",
      "a": 4,
      "why": "12 take away 8 is 4. The line was 4 centimetres longer, because each chana had soaked up water.",
      "context": "This question is about soaking chana. You measured a line of ten dry chana at night, soaked them, and measured them again in the morning.",
@@ -1537,7 +1537,7 @@
     },
     {
      "t": "perspective",
-     "p": "Nila, a girl in Class 2, and her grandmother watch a domino line fall.",
+     "p": "Nila and her grandmother watch a line of dominoes fall.",
      "views": [
       {
        "who": "Nila",
@@ -1827,7 +1827,7 @@
   },
   {
    "t": "mcq",
-   "p": "Long ago, many people thought maggots grew by themselves out of rotting meat. Meat is put in two jars: one open, and one covered with fine cloth so flies cannot get in. Maggots grow only in the open jar. What does this show?",
+   "p": "Long ago, many people thought maggots grew by themselves out of rotting meat. Meat is put in two jars. One jar is open. The other is covered with fine cloth, so flies cannot get in. Maggots grow only in the open jar. What does this show?",
    "opts": [
     "Maggots come from eggs that flies lay",
     "Meat turns into maggots when it gets old",
@@ -1883,10 +1883,10 @@
  ],
  "ask_kids": [
   "What did you do today that caused something else to happen?",
-  "Something happened at lunch today. What caused it? What caused that?",
+  "Think of one thing that happened at lunch today. What caused it? And what caused that cause?",
   "Look at the traffic from the window or the bus. When one car stops, what happens behind it?",
   "Can you think of an effect that comes a long time after its cause?",
-  "If you took one step out of your morning, which other things would not happen?"
+  "If you left out one thing you do every morning, which other things would not happen?"
  ],
  "jokes": [
   {
@@ -1928,16 +1928,16 @@
  ],
  "maths": [
   {
-   "problem": "Kavya stood 10 dominoes in a line and took out the fifth one. When she pushed the first, 4 fell. How many dominoes were still standing?",
+   "problem": "You stood 10 dominoes in a line and took out the fifth one. When you pushed the first, 4 fell. How many dominoes were still standing?",
    "answer": "5 dominoes.",
-   "explain": "She took 1 domino out, so 9 were in the line. 4 fell. 9 take away 4 is 5. So 5 stayed standing after the gap.",
+   "explain": "You took 1 domino out, so 9 were in the line. 4 fell. 9 take away 4 is 5. So 5 stayed standing after the gap.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e1",
    "context": "This question is about the domino gap test. You stood ten dominoes in a line, pushed the first one, and counted how many fell with three different gaps.",
    "why_maths": "Counting what fell and what stood tells you exactly where the chain stopped."
   },
   {
-   "problem": "Each of Kavya's dominoes is 5 centimetres tall. A gap must be less than one domino's height for the chain to work. Which of these gaps will work: 2 centimetres, 4 centimetres or 6 centimetres?",
+   "problem": "Each domino is 5 centimetres tall. A gap must be less than one domino's height for the chain to work. Which of these gaps will work: 2 centimetres, 4 centimetres or 6 centimetres?",
    "answer": "2 centimetres and 4 centimetres.",
    "explain": "2 and 4 are both less than 5, so the falling domino can reach the next one. 6 is more than 5, so the falling domino lies flat before it reaches the next one.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2088,16 +2088,16 @@
  "roots": {
   "context": "We have knocked down dominoes, sent a push through a line of coins and watched chana swell overnight. Now we ask what chains of causes tell us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "In your domino line, your finger pushed only the first domino. Yet the last one fell too, because each domino pushed the next. When one gap was too wide, the push stopped there, and the rest stayed standing. So one small push can reach far away, as long as every link passes it on.",
+   "truth": "In the Domino Gap Test, your finger pushed only the first domino. Yet the last one fell too, because each domino pushed the next. When the gap was too wide, the push stopped there, and the rest stayed standing. So one small push can reach far away, as long as every link passes it on.",
    "habit": "We usually name one cause for an effect, such as 'my finger knocked them down' or 'the wind did it'. The domino test shows that every link in between is a cause too, and taking away any one of them stops the effect.",
    "evidence": "In the domino gap test, one gentle push knocked down all ten dominoes when the gaps were small. With the widest gap, or with one domino taken out, the chain stopped at that spot and the rest stayed standing."
   },
   "three": {
    "who_am_i": "You are the effect of a very long chain: your parents and grandparents, the food you have eaten and the air you have breathed. And everything you do starts new chains.",
-   "what_is_life": "Living beings take in causes and pass them on. A chana seed drinks water and swells. An ant finds sugar and tells the others.",
+   "what_is_life": "Things happen to living beings, and living beings make more things happen. A chana seed drinks water and swells. An ant finds sugar and tells the others.",
    "what_is_this_world": "The world is full of chains of causes that cross each other everywhere. A coconut falling in the night can reach all the way to a new friendship."
   },
-  "thread": "Before the push, the line of dominoes stood still, ready to fall. One push, one single action, became ten falls, one after another. In the same way, one coconut falling became a line of stopped cars, a late van and a new friend. One cause keeps becoming many effects. Everything is conscious, the dominoes and the coins too, each one taking in the push and passing it on in their own way. Many scientists disagree, and say only living beings with brains are aware.",
+  "thread": "Before the push, the line of dominoes stood still. Then one push made ten dominoes fall, one after another. In the same way, one falling coconut led to a line of stopped cars, a late van and a new friend. One cause keeps leading to many effects. Everything is conscious, the dominoes and the coins too, each one taking in the push and passing it on in their own way. Many scientists disagree, and say only living beings with brains are aware.",
   "teachings": [
    {
     "source": "Samyutta Nikaya 12.21, in the Pali Canon, the oldest written collection of the Buddha's teachings",
@@ -2112,7 +2112,7 @@
   ],
   "science": [
    {
-    "text": "When a domino or a coin hits the next one, it passes on some of its energy. That is how one push can travel down a whole line. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over one about one and a half times bigger.",
+    "text": "When a domino or a coin hits the next one, it passes on some of its energy. That is how one push can travel down a whole line. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over another one about one and a half times its size.",
     "status": "settled"
    },
    {

@@ -97,7 +97,7 @@
    "concept": "Round motion seen from the side",
    "status": "defined",
    "definition": "A thing going round in a circle looks like it goes back and forth when you watch from the side, at the same height.",
-   "description": "From above, you saw the keys go round in a circle. From the side, you could not see them coming towards you or going away. You saw only their left and right, so they seemed to go back and forth, like a swing. Their shadow on the wall did the same.",
+   "description": "In the keys test, you watched keys going round on a string. From above, you saw them go round in a circle. From the side, you could not see them coming towards you or going away. You saw them move only left and right, so they seemed to go back and forth, like a swing. Their shadow on the wall did the same.",
    "examples": [
     "In the keys test, 10 rounds from above matched about 10 back-and-forths from the side.",
     "A fan's blade tips go round. A gecko on the wall, level with the fan, would see them go back and forth.",
@@ -154,7 +154,7 @@
    "claim": "A round path and a back-and-forth path are always easy to tell apart.",
    "who": "A common first guess",
    "for": "From above, a circle and a swing look very different.",
-   "against": "In the shadow game, the shadow of keys going round looked almost the same as the shadow of keys swinging. Galileo first took Jupiter's moons for ordinary stars in a line, until he saw them change places from night to night.",
+   "against": "In the shadow game of the keys test, the shadow of keys going round looked almost the same as the shadow of keys swinging. At first, Galileo thought Jupiter's moons were ordinary stars in a line. Then he saw them change places from night to night.",
    "status": "rejected",
    "context": "This card is about the idea that round and back-and-forth paths always look different."
   },
@@ -177,12 +177,12 @@
  ],
  "big_questions": [
   {
-   "q": "The keys went round the whole time. Why did they seem to go back and forth from the side?",
+   "q": "In the keys test, the keys went round the whole time. Why did they seem to go back and forth when you watched from the side?",
    "kind": "deep",
    "hint": "From the side, could you tell when the keys were coming towards you or going away?"
   },
   {
-   "q": "Why did your walk drift off the line when your eyes were shut?",
+   "q": "In Eyes Shut, Walk Straight, why did you drift off the line when your eyes were shut?",
    "kind": "deep",
    "hint": "With your eyes open, what tells you that you have started to turn?"
   },
@@ -192,7 +192,7 @@
    "hint": "Think of the keys seen from the side, and of Jupiter's moons."
   },
   {
-   "q": "When you decide to get up and walk, where does the start of that walk come from?",
+   "q": "When you decide to get up and walk, what starts you moving?",
    "kind": "big",
    "hint": "Think about what you ate, and what you wanted to do."
   }
@@ -215,7 +215,7 @@
    "She looked at the wall. The shadow went to the left, then to the right, then to the left again. It looked exactly like a swing.",
    "\"Are you swinging them?\" she asked.",
    "\"No! You told me to go round,\" said Arjun.",
-   "Revathi got up and looked down at the keys from above. They were going round in a circle. She sat down on the sofa again. Back and forth. She got up again. Round.",
+   "Revathi got up and looked down at the keys from above. They were going round in a circle. She sat down on the sofa again. The shadow went back and forth. She got up again. The keys went round.",
    "\"It's the same keys,\" she said slowly. \"From the top, they go round. From the side, they go back and forth.\"",
    "\"So which is it?\" asked Arjun.",
    "\"Let's test,\" said Revathi. \"I'll shut my eyes. You make them swing, or go round. Then I'll open my eyes and look only at the shadow. I'll guess which.\"",
@@ -389,9 +389,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Your child lies on the floor 2 big steps away, with chin on hands and eyes as low as the keys (or sits on the floor). 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.",
+     "do": "1. Your child lies on the floor 2 big steps away, chin on hands, so that their eyes are as low as the keys. Sitting on the floor also works. 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.",
      "say": "Now put your eyes as low as the keys. Say tick each time they reach the left end. What path do you see now?",
-     "kid": "Lie down. Look from the side. Say tick at the left end.",
+     "kid": "Lie down and look at the keys from the side. Say 'tick' each time they reach the left end.",
      "ask": [
       {
        "q": "What path did you see from the side?",
@@ -417,7 +417,7 @@
      "mins": 3,
      "do": "1. Fill in the table together. 2. Ask what your child saw, and why it looked different.",
      "say": "From the top you saw a circle. From the side you saw back and forth. Were the keys doing two things, or one thing?",
-     "kid": "From the top, a circle. From the side, back and forth. Did the keys change?",
+     "kid": "From the top you saw a circle. From the side you saw back and forth. Did the keys change what they were doing?",
      "ask": [
       {
        "q": "Why did the keys look different?",
@@ -437,7 +437,7 @@
        "The keys stood still"
       ],
       "a": 1,
-      "why": "From the side you see only the keys' left and right, so a round path looks like back and forth."
+      "why": "From the side you see the keys move only left and right, so a round path looks like back and forth."
      },
      "think": "Where else might something going round look like it goes back and forth?"
     }
@@ -451,7 +451,7 @@
    "context": "In this experiment you walk along a straight line, first with your eyes open and then with your eyes shut. You find out how far you drift from the line.",
    "question": "Can you walk 8 steps along a straight line with your eyes shut, and stay on it?",
    "predict": "Guess first. With your eyes shut, will you stay on the line, or drift off it? If you drift, which way? Why do you think so?",
-   "fair_test": "We use the same line, the same start and the same 8 steps every time. Only the eyes change: open or shut. We try eyes open 2 times and eyes shut 3 times, because one try can be a fluke.",
+   "fair_test": "We use the same line, the same start and the same 8 steps every time. Only the eyes change: open or shut. We try eyes open 2 times and eyes shut 3 times, because one try on its own can come out well or badly by chance.",
    "results_table": [
     "Try",
     "Eyes open or shut",
@@ -543,7 +543,7 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess and a reason, and write it down.",
-     "say": "First with eyes open, then with eyes shut. Will you stay on the line with your eyes shut? Why do you think so?",
+     "say": "You will walk the line first with your eyes open, then with your eyes shut. Will you stay on the line with your eyes shut? Why do you think so?",
      "kid": "With your eyes shut, will you stay on the line? Why?",
      "ask": [
       {
@@ -559,7 +559,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child walks 8 steps along the line with eyes open. 2. Put a slip at their toes. 3. Measure the gap to the line in hand-widths of your child's hand. 4. Do it twice.",
+     "do": "1. Your child walks 8 steps along the line with eyes open. 2. Put a slip at their toes. 3. Measure the gap from the slip to the line, counting in widths of your child's hand. 4. Do it twice.",
      "say": "Walk 8 steps along the line with your eyes open. Stop. How far are your toes from the line?",
      "kid": "Eyes open. Walk 8 steps on the line. Stop. Look at your toes.",
      "parent": "With eyes open, most children stay on the line or very close to it."
@@ -745,7 +745,7 @@
      "mins": 2,
      "do": "1. Draw the three columns on paper. 2. Explain each one with an example.",
      "say": "Some things start moving by themselves, like you. Some need a push or a pull. Some have a motor or an engine inside.",
-     "kid": "Three columns. By themselves. Pushed or pulled. Motor or engine."
+     "kid": "There are three columns: by themselves, pushed or pulled, and motor or engine."
     },
     {
      "id": "s2",
@@ -769,7 +769,7 @@
      "mins": 4,
      "do": "1. Add things from inside the home: the fan, a ball, an ant, the door, you. 2. Talk about any that are hard to sort.",
      "say": "Now the fan. Does it move by itself, or is it moved? What happens to the fan in a power cut?",
-     "kid": "Now look inside. The fan. A ball. An ant. You. Which column?",
+     "kid": "Now look inside your home: the fan, a ball, an ant, and you. Which column does each one go in?",
      "ask": [
       {
        "q": "Which one was hardest to sort? Why?",
@@ -814,10 +814,10 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Flick the ruler with a long end and a short end sticking out, and feel your throat while you hum."
+     "what": "Flick the ruler with a long end sticking out, then with a short end sticking out. Then feel your throat while you hum."
     }
    ],
-   "record": "Draw the ruler on the table, with arrows at both ends of its free end.",
+   "record": "Draw the ruler on the table. At the end that sticks out, draw one arrow pointing up and one arrow pointing down.",
    "setup": [
     {
      "art": "A ruler lying on a table with half of it sticking out over the edge, and a girl's hand pressing the part on the table down firmly.",
@@ -832,7 +832,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the ruler on the table with about half sticking out. 2. Your child presses the table end down hard. 3. They flick the free end down.",
+     "do": "1. Lay the ruler on the table with about half sticking out. 2. Your child presses down hard on the end that is on the table. 3. They flick the free end down.",
      "say": "Press this end down hard. Now flick the other end. What does it do?",
      "kid": "Press one end down. Flick the other end. Watch it move.",
      "ask": [
@@ -1082,7 +1082,7 @@
        }
       },
       {
-       "f": "A pulled cart of vegetables",
+       "f": "A cart of vegetables being pulled by a person",
        "b": "PULLED by the person"
       },
       {
@@ -1117,7 +1117,7 @@
      "mins": 2,
      "do": "Teach the three hand signs and practise each one.",
      "say": "Hands on your chest means the thing moves by itself. Pushing palms means a push or pull. Rolling fists means a motor.",
-     "kid": "Learn the signs. Chest, pushing palms, rolling fists."
+     "kid": "Learn the three signs: hands on your chest, pushing palms, and rolling fists."
     },
     {
      "id": "s2",
@@ -1326,7 +1326,7 @@
     "Hold the string still with one finger in the middle, and pull the pencil round on the tight string.",
     "Keep the pencil still and turn the paper round under it, like a potter's wheel.",
     "Use your own arm: keep your elbow still on the paper and swing your hand round.",
-    "Poke a pencil through a hole at one end of a strip of card, and pin the other end down with a finger."
+    "Poke a pencil through a hole at one end of a strip of card. Pin the other end down with a finger, and move the pencil round."
    ],
    "your_turn": "Try two ways to draw a circle. Which circle came out rounder? Why do you think so?",
    "setup": [
@@ -1474,8 +1474,8 @@
      "t": "write",
      "p": "Say out loud, and a grown-up writes it down: why did the shadow on the wall look like a swing, when the keys were going round?",
      "lines": 2,
-     "a": "Because the shadow showed only the left and right of the keys, not their coming closer and going away.",
-     "why": "A strong answer says the keys were really going round, and that from the side we see only their left and right.",
+     "a": "Because the shadow showed the keys moving only left and right. It did not show them coming closer and going away.",
+     "why": "A strong answer says the keys were really going round, and that from the side we see them move only left and right.",
      "how": "e1"
     },
     {
@@ -1552,7 +1552,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the path of the tip of a fan blade, as you see it lying under the fan. Then draw what a gecko on the wall, level with the fan, would see.",
+     "p": "Draw the path of the tip of a fan blade, as you see it when you lie under the fan. Then draw what a gecko on the wall, level with the fan, would see.",
      "a": "From below: a circle. From the wall: a straight line with arrows at both ends.",
      "why": "A strong drawing shows a circle from below and back and forth from the side, like the keys test.",
      "how": "e1",
@@ -1654,11 +1654,11 @@
     },
     {
      "t": "mcq",
-     "p": "Mira, a girl in Class 2, puts her fingers on the front of her throat and hums. What does she feel?",
+     "p": "Put your fingers on the front of your throat and hum. What do you feel?",
      "opts": [
       "Nothing, because the throat stays still",
       "A circle going round",
-      "A buzz, because parts inside her throat vibrate"
+      "A buzz, because parts inside my throat vibrate"
      ],
      "a": 2,
      "why": "Parts inside the throat move back and forth very fast when we hum. Moving back and forth very fast is called vibrating.",
@@ -1709,7 +1709,7 @@
     },
     {
      "t": "draw",
-     "p": "Nisha, a girl in Class 2, says a ball lying still will start rolling by itself if you wait long enough. Draw how you would test this. What do you expect to see?",
+     "p": "Someone says a ball lying still will start rolling by itself if you wait long enough. Draw how you would test this. What do you expect to see?",
      "a": "A ball on a flat floor and a clock. The ball stays still until something pushes it or the floor slopes.",
      "why": "A strong plan uses a flat floor, waits a set time, and changes nothing else. It expects the ball to stay still unless a push or a slope starts it."
     },
@@ -1721,7 +1721,7 @@
     },
     {
      "t": "write",
-     "p": "Asha, a girl in Class 2, says, 'Plants cannot move by themselves.' How would you test what Asha says?",
+     "p": "Someone says, 'Plants cannot move by themselves.' How would you test this?",
      "lines": 2,
      "a": "Grow seedlings by a window, see them lean to the light, turn the cup, and see them lean back by the next day.",
      "why": "A strong answer describes a test, like the seedling project, where the plant moves with nobody touching the plant.",
@@ -1764,7 +1764,7 @@
       "Back and forth"
      ],
      "a": 0,
-     "why": "The rim goes round the middle, but the middle itself goes straight along the road with the cycle."
+     "why": "The rim goes round the middle, but the middle itself goes straight along the road."
     },
     {
      "t": "sort",
@@ -1805,7 +1805,7 @@
     },
     {
      "t": "count",
-     "p": "Kalpana, a girl in Class 2, watches a giant wheel go round 3 times. She stands to the side of the wheel. Her friend's seat goes up and down. How many times does the seat reach the top?",
+     "p": "You stand to the side of a giant wheel and watch one seat go up and down. The wheel goes round 3 times. How many times does the seat reach the top?",
      "a": 3,
      "why": "Each time the wheel goes round once, the seat goes up to the top once. So 3 rounds make 3 trips to the top."
     },
@@ -1894,13 +1894,13 @@
     "The blades seem to stand still"
    ],
    "a": 1,
-   "why": "From the side, the gecko sees only the left and right of each blade, so a round path looks like back and forth.",
+   "why": "From the side, the gecko sees each blade move only left and right, so a round path looks like back and forth.",
    "outcome": 2,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "Which of these moves by themselves?",
+   "p": "Which of these starts moving with no push or pull?",
    "opts": [
     "A football",
     "A curtain",
@@ -1937,14 +1937,14 @@
   },
   {
    "t": "mcq",
-   "p": "Gopal, a boy in Class 2, guesses the keys will look round from every side. What should he do next?",
+   "p": "You guess that the keys will look round from every side. What should you do next?",
    "opts": [
     "Test it by looking from the side",
     "Ask a friend and believe them",
     "Give up"
    ],
    "a": 0,
-   "why": "A guess is checked by a test. Gopal can lie down and look from the side.",
+   "why": "A guess is checked by a test. You can lie down and look at the keys from the side.",
    "outcome": 5,
    "how": "e1"
   }
@@ -1955,7 +1955,7 @@
    "channel": "Ted Judah",
    "youtube": "WuJWitQx_Zk",
    "mins": 1,
-   "why": "Shows the moons going back and forth beside Jupiter, as Galileo saw them, because we see their circles from the side.",
+   "why": "Shows the moons going back and forth beside Jupiter, as Galileo saw them. They look this way because we see their circles from the side.",
    "check": "Found by search: \"Jupiter and Its Moons - Six Hour Timelapse\" by Ted Judah, 27 seconds. A parent may preview it."
   },
   {
@@ -2072,18 +2072,18 @@
    "why_maths": "Comparing the two counts shows that the round path and the back-and-forth path were the same motion."
   },
   {
-   "problem": "Lakshmi, a girl in Class 2, did the eyes-shut test. She stopped 0 and 0 hand-widths from the line with her eyes open. With her eyes shut she stopped 1, 3 and 2 hand-widths away. Which try was furthest from the line? What do the numbers tell you about eyes?",
+   "problem": "Here are the results of one eyes-shut test. With eyes open, the walker stopped 0 and 0 hand-widths from the line. With eyes shut, the walker stopped 1, 3 and 2 hand-widths away. Which try was furthest from the line? What do the numbers tell you about eyes?",
    "answer": "The second eyes-shut try, at 3 hand-widths. Every eyes-shut try was further from the line than every eyes-open try.",
-   "explain": "3 is the biggest number, so that try drifted most. All the eyes-shut numbers are bigger than 0. So eyes help Lakshmi stay on the line, even though each eyes-shut try was different.",
+   "explain": "3 is the biggest number, so that try drifted most. All the eyes-shut numbers are bigger than 0. So eyes help the walker stay on the line, even though each eyes-shut try was different.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e2",
    "context": "This is about the eyes-shut test, where you walked 8 steps along a line.",
    "why_maths": "Comparing the numbers shows a pattern: eyes shut always meant further from the line."
   },
   {
-   "problem": "Fatima, a girl in Class 2, did the Path Hunt. She ticked 5 things for STRAIGHT, 4 for ROUND and 3 for BACK AND FORTH. Draw a tally for each. How many things did she find in all? Which path did she find most?",
+   "problem": "In one Path Hunt, 5 things were ticked for STRAIGHT, 4 for ROUND and 3 for BACK AND FORTH. Draw a tally for each. How many things were found in all? Which path was found most?",
    "answer": "12 things in all. STRAIGHT had the most, with 5.",
-   "explain": "5 and 4 make 9, and 3 more makes 12. 5 is the biggest number, so straight things were the most common in her home.",
+   "explain": "5 and 4 make 9, and 3 more makes 12. 5 is the biggest number, so straight things were the most common in that home.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "a1",
    "context": "This is about the Path Hunt, where you ticked three columns for moving things at home.",
@@ -2156,7 +2156,7 @@
    "what_is_life": "Living beings start, stop and turn by themselves. An ant, a crow and a mustard seedling each move towards what they need.",
    "what_is_this_world": "The world is full of round motions: fans, wheels, and the Moon round the Earth. From the side, many of them look like back and forth."
   },
-  "thread": "We sorted motions into three kinds: straight, round, and back and forth. Then one bunch of keys showed two of the kinds at once. The kinds are names we give from where we watch, and one motion can fit more than one of them. Everything is conscious, and every watcher meets the world from their own place. A gecko on the wall, an ant on the floor and you each see the same fan move in a different path.",
+  "thread": "We sorted motions into three kinds: straight, round, and back and forth. Then, in the keys test, one bunch of keys showed two of the kinds at once. Which kind we name depends on where we watch from, and one motion can fit more than one kind. Everything is conscious, and every watcher sees the world from their own place. A gecko on the wall, an ant on the floor and you each see the same fan move in a different path.",
   "teachings": [
    {
     "source": "Vaisheshika Sutra 1.1.7, by Kanada",
@@ -2166,7 +2166,7 @@
    {
     "source": "Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada, many-sidedness",
     "teaching": "Some blind people each touch a different part of an elephant. One says an elephant is like a rope, and another says like a wall. Each is right about the part they touched.",
-    "link": "From above you saw a circle, and from the side a line. Each view told the truth about the keys from one place."
+    "link": "In the keys test, you saw a circle from above and a line from the side. Each view was true for the place you watched from."
    },
    {
     "source": "Aristotle, Physics, Book 7, chapter 1",
@@ -2195,8 +2195,8 @@
    "kid": "Hand on your tummy. Breathe in. It goes out. Breathe out. It comes in. Now draw a slow circle in the air, one round for each breath."
   },
   "ask": [
-   "The keys went round, and they went back and forth. Which one was the real path, or were both real?",
-   "When you watch the fan from your bed, what path would a gecko on the wall see?",
+   "In the keys test, the keys went round when you watched from above, and back and forth when you watched from the side. Which one was the real path, or were both real?",
+   "From your bed, you see the fan blades go round. What path would a gecko on the wall, level with the fan, see?",
    "Does anything start moving with nothing at all to start it?"
   ],
   "art": "A girl sitting cross-legged on a mat, one hand on her tummy, drawing a slow circle in the air with the other hand, while a ceiling fan turns above and a little gecko watches from the wall."
@@ -2205,8 +2205,8 @@
   "context": "How did people find out that things in the sky can go round something other than the Earth? This card tells what Galileo saw in 1610.",
   "who": "Galileo Galilei, an Italian scientist, and Simon Marius, a German astronomer",
   "when": "January 1610",
-  "wrong_idea": "Everything in the sky goes round the Earth. At first, Galileo also took Jupiter's moons for ordinary stars.",
-  "story": "For a very long time, many people in Europe believed that everything in the sky went round the Earth. On 7 January 1610, Galileo Galilei, an Italian scientist, pointed his new telescope at the planet Jupiter. Beside it he saw three tiny bright points, in a straight line. At first he took them for stars. But the next night they had moved. Within a week he had seen four. Night after night, they moved back and forth along the same line, never going far from Jupiter. Sometimes one vanished behind Jupiter and later came out again. Galileo worked out what this meant. The four points were moons, going round and round Jupiter. We see their round paths from the side, so they seem to go back and forth. Here were things in the sky going round something that was not the Earth. Galileo wrote about them in a little book, The Starry Messenger, in March 1610. A German astronomer, Simon Marius, said he had seen the moons at about the same time. The names we use for them today, Io, Europa, Ganymede and Callisto, are the ones Marius printed."
+  "wrong_idea": "Everything in the sky goes round the Earth. At first, Galileo also thought Jupiter's moons were ordinary stars.",
+  "story": "For a very long time, many people in Europe believed that everything in the sky went round the Earth. On 7 January 1610, Galileo Galilei, an Italian scientist, pointed his new telescope at the planet Jupiter. Beside it he saw three tiny bright points, in a straight line. At first he thought they were stars. But the next night they had moved. Within a week he had seen four. Night after night, they moved back and forth along the same line, never going far from Jupiter. Sometimes one vanished behind Jupiter and later came out again. Galileo worked out what this meant. The four points were moons, going round and round Jupiter. We see their round paths from the side, so they seem to go back and forth. Here were things in the sky going round something that was not the Earth. Galileo wrote about them in a little book, The Starry Messenger, in March 1610. A German astronomer, Simon Marius, said he had seen the moons at about the same time. The names we use for them today, Io, Europa, Ganymede and Callisto, are the ones Marius printed."
  },
  "plan": {
   "start_options": [
