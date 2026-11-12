@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stand in a sunny patch by a window and hold out your hand. Feel the warmth. That warmth came from the Sun. The same Sun is shining on seven other planets right now. Do they all feel the same warmth as your hand?",
-  "text": "In this unit you find out. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.",
+  "text": "In this unit you find out whether all the planets get the same warmth from the Sun. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.",
   "art": "A child's hand held out in a patch of sunlight on a tiled floor, with a window behind and a faint row of eight planets drawn in the sky outside."
  },
  "outcomes": [
@@ -41,7 +41,7 @@
   },
   {
    "term": "Orbit",
-   "meaning": "The path one thing takes as it goes round another in space. An orbit is also the word for going round.",
+   "meaning": "The path one thing takes as it goes round another in space. 'To orbit' also means to go round.",
    "example": "The Earth orbits the Sun once a year.",
    "art": "A dotted oval path round the Sun with a small Earth on it and an arrow showing the way it moves."
   },
@@ -119,7 +119,7 @@
    ],
    "perspectives": [],
    "art": "The view from the rocky surface of Mars at dusk, with a tiny blue dot shining low in the sky and a label 'Earth'.",
-   "context": "This card explains the main idea of the unit: the ground under your feet belongs to a planet."
+   "context": "This card explains the main idea of the unit: the ground under your feet is part of a planet."
   },
   {
    "concept": "The eight planets in order",
@@ -143,7 +143,7 @@
    "examples": [
     "Mars is red because its rocks and dust contain rusty iron.",
     "Jupiter has a giant storm, the Great Red Spot, that is wider than the whole Earth.",
-    "Saturn is so light for its size that, on average, it is less heavy than the same amount of water."
+    "Saturn is light for its size. On average, it weighs less than a ball of water of the same size would."
    ],
    "perspectives": [],
    "art": "The four rocky planets on one side, small and solid, and the four giants on the other side, huge, striped and ringed.",
@@ -230,11 +230,11 @@
    "perspectives": [
     {
      "who": "The International Astronomical Union, in 2006",
-     "explanation": "A planet must have cleared its path. Pluto has not, so it is a dwarf planet. This keeps the list of planets to eight clear, different kinds of world."
+     "explanation": "A planet must have cleared its path. Pluto has not, so it is a dwarf planet. This keeps the list of planets short and clear, at eight."
     },
     {
      "who": "Alan Stern, the scientist who led the New Horizons mission, and others who study planets' surfaces",
-     "explanation": "A planet should be any world big enough for its own gravity to pull it round. By that rule, Pluto is a planet, and so are Eris and some big moons. Where a world goes round should not decide what it is."
+     "explanation": "A planet should be any world big enough for its own gravity to pull it into a round shape. By that rule, Pluto is a planet, and so are Eris and some big moons. Where a world goes round should not decide what it is."
     }
    ],
    "art": "Small icy Pluto with its heart-shaped plain, and two speech bubbles from two astronomers: 'dwarf planet' and 'planet'.",
@@ -351,7 +351,7 @@
   {
    "q": "There are probably more planets in our galaxy than stars. Is the Earth special, or one of many?",
    "kind": "big",
-   "hint": "Scientists have found more than 6,000 planets round other stars, but none yet that we know has life."
+   "hint": "Scientists have found more than 6,000 planets round other stars, but they have not yet found life on any of them."
   },
   {
    "q": "Everything you eat grew from sunlight that reached the Earth. How much of you came from the Sun?",
@@ -447,7 +447,7 @@
        }
       },
       {
-       "f": "MARS. Width: 0.5 Earths. Distance from the Sun: 1 times the Earth's.5 times the Earth's. Year: 687 days.",
+       "f": "MARS. Width: 0.5 Earths. Distance from the Sun: 1.5 times the Earth's. Year: 687 days.",
        "img": {
         "src": "media/cards/solar-system-g1-0-03.jpg",
         "credit": "JPL/NASA/STScI, public domain"
@@ -486,7 +486,7 @@
    ],
    "rules": [
     "Shuffle the 8 cards and deal them out face down. With 2 players each gets 4. With 3 or 4 players, deal as evenly as you can and give any left-over card to the winner of the first round.",
-    "The first player looks at their top card without showing it and picks one of the three: width, distance or year. They read that number aloud.",
+    "The first player looks at their top card without showing it and picks one of the three numbers: width, distance or year. They read that number aloud.",
     "Everyone else reads the same number from their own top card. The biggest number wins all the top cards played.",
     "The winner puts the won cards at the bottom of their pile and picks next. Before the numbers are read, anyone may guess who will win and say why.",
     "A player with no cards left is out.",
@@ -611,7 +611,7 @@
     "One player picks a secret planet card and keeps it hidden. The picker reads the clues and the name. The others see neither.",
     "The others take turns asking questions that can be answered yes or no, such as 'Are you a giant?' The picker answers using the clues on the card.",
     "Each question gets a tick on the tally. A wrong guess of the planet's name gets 2 ticks. The asker who names the planet with the fewest ticks wins the round.",
-    "Swap so everyone gets a turn to pick. With 2 players, you each ask once and the fewer ticks wins.",
+    "Swap so everyone gets a turn to pick. With 2 players, you each ask once, and the player with fewer ticks wins.",
     "Playing alone? Shuffle the cards with the clues up. Read one clue at a time from the top card and guess after each clue. Turn the card over to check, and count the clues you needed."
    ],
    "setup": [
@@ -793,7 +793,7 @@
      "mins": 2,
      "do": "Ask your child to guess before you measure anything.",
      "say": "Soon we'll catch the light on squared paper, first 20 cm from the torch and then 40 cm. 40 is twice as far as 20. At 40 cm, will the light cover the same number of squares, twice as many, or four times as many? Why do you think so?",
-     "kid": "Guess. At twice as far, will the light cover the same squares? Twice as many? Four times as many? Why?",
+     "kid": "Guess. At twice as far, will the light cover the same number of squares? Twice as many? Four times as many? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -811,7 +811,7 @@
      "do": "1. Tape the squared paper to a big book. 2. Stand the book 20 cm from the torch, facing it, so the light through the hole falls on the paper. 3. Measure how wide the lit square is. 4. Count the squares that are more than half lit. 5. Score the brightness 3, for bright.",
      "say": "Here's the patch of light at 20 cm. How wide is it? How many squares does it cover? Let's count them together.",
      "kid": "Put the paper 20 cm from the torch. Measure the lit square. Count the lit squares. Write the numbers.",
-     "parent": "The patch should be about 4 cm wide and cover about 16 squares. The edges are a little fuzzy, so count a square if more than half of it is lit. Your numbers may be a little different. That's fine. Phone torches are not perfect points of light, so the edges are fuzzy. That is the main reason counts differ."
+     "parent": "The patch should be about 4 cm wide and cover about 16 squares. Phone torches are not perfect points of light, so the edges of the patch are a little fuzzy. Count a square if more than half of it is lit. Your numbers may be a little different, mainly because of the fuzzy edges. That's fine."
     },
     {
      "id": "s5",
@@ -871,7 +871,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? Why do you think it happens?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: light gets weaker the further it travels. What I saw: at 20 cm the light covered 16 squares and was bright. At 40 cm it covered 64 squares and was dim. Why: the same light spreads over a bigger area, so each square gets less. That is why far planets are cold and dark."
     }
    ]
@@ -1008,7 +1008,7 @@
      "kid": "Look at your lines. Did the marble curve or go straight? What made it curve before?",
      "check": {
       "t": "mcq",
-      "q": "While the marble went round, the rim pushed it inwards. What does the Sun do for the planets, like the rim did for the marble?",
+      "q": "While the marble went round, the rim pushed it inwards. What does the same job for the planets?",
       "options": [
        "The Sun's gravity pulls each planet inwards, so its path keeps curving",
        "The Sun pushes the planets along from behind",
@@ -1023,7 +1023,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a moving thing goes straight unless something turns it. What I saw: all 5 times, the marble rolled straight on at the gap. Why: the rim had been pushing it inwards. The Sun's gravity does that for the planets."
     }
    ]
@@ -1165,7 +1165,7 @@
      "what": "Move a ball round a lamp and watch its shape and size change. Then try the old Earth-centred plan and see what is missing."
     }
    ],
-   "record": "Draw how Venus looked when it was near you and far from you.",
+   "record": "Draw how the ball (Venus) looked when it was nearest you, and how it looked when it was on the far side of the lamp.",
    "context": "In this activity you repeat Galileo's test of 1610 with a lamp and a ball. You see why the changing shape of Venus showed that Venus goes round the Sun.",
    "setup": [
     {
@@ -1222,7 +1222,7 @@
      "kid": "Now Venus stays between you and the Sun. Can you ever see it fully lit?",
      "check": {
       "t": "mcq",
-      "q": "In your lamp test, when did the ball look small and fully lit?",
+      "q": "In Galileo's Venus Test with the lamp and the ball, when did the ball look small and fully lit?",
       "options": [
        "When it was on the far side of the lamp from your child",
        "When it was nearest your child",
@@ -1298,7 +1298,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Go to a window, balcony or terrace facing that way. 2. Look for a bright dot that shines steadily, without much twinkling. 3. Check it against the map.",
+     "do": "1. Go to a window, balcony or terrace that faces the direction the sky map showed. 2. Look for a bright dot that shines steadily, without much twinkling. 3. Check it against the map.",
      "say": "Planets shine steadily, while stars twinkle more. Can you find a bright, steady dot?",
      "kid": "Find a bright dot that does not twinkle much. That is a planet!",
      "adult": true
@@ -1306,7 +1306,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child what the planet's light is.",
+     "do": "Ask your child where the planet's light comes from.",
      "say": "That planet makes no light of its own. What are we seeing?",
      "kid": "The planet makes no light. So what light are you seeing?",
      "ask": [
@@ -1385,8 +1385,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Stand at the Sun end and look along the string. 2. Ask what this means for sunlight.",
-     "say": "Remember the torch test? Sunlight spreads out as it goes. Which planets get the most sunlight? Which get almost none?",
-     "kid": "Remember the torch test? Which planets get lots of sunlight? Which get very little?",
+     "say": "In the torch test, the light spread out and got dimmer as the paper moved further away. Sunlight spreads out in the same way. Which planets get the most sunlight? Which get almost none?",
+     "kid": "In the torch test, the light got dimmer further away. Sunlight does the same. Which planets get lots of sunlight? Which get very little?",
      "check": {
       "t": "mcq",
       "q": "Saturn is about 10 times as far from the Sun as the Earth. How strong is sunlight on Saturn?",
@@ -1448,14 +1448,14 @@
      "kid": "Divide your days by 88 for Mercury. By 687 for Mars. How old are you there?",
      "check": {
       "t": "mcq",
-      "q": "Gauri, a girl in Class 3, is 8 years old on the Earth. Is she older or younger in Mars years?",
+      "q": "You are 8 years old on the Earth. Are you older or younger in Mars years?",
       "options": [
        "Younger: about 4 Mars years old",
        "Older: about 16 Mars years old",
        "The same: 8 Mars years old"
       ],
       "a": 0,
-      "why": "Mars takes longer than the Earth to go round the Sun, so its year is longer. Fewer long years fit into Gauri's life: 2,920 days divided by 687 is about 4. Picking 'older' means thinking a longer orbit gives more birthdays, but it gives fewer."
+      "why": "Mars takes longer than the Earth to go round the Sun, so its year is longer. Fewer long years fit into 8 Earth years: 2,920 days divided by 687 is about 4. Picking 'older' means thinking a longer orbit gives more birthdays, but it gives fewer."
      }
     }
    ]
@@ -1531,11 +1531,11 @@
     {
      "id": "s2",
      "mins": 40,
-     "do": "1. On each page, write five short lines. How far from the Sun, compared with the Earth. How wide, compared with the Earth. How long its year is. How strong the sunlight is, compared with the Earth (times the distance by itself, as in the torch test). One thing a visitor would see. 2. Draw the planet.",
-     "say": "Use your string and your dough planets to help. Jupiter is 5 times as far. 5 times 5 is 25, so sunlight there is 25 times weaker. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.",
+     "do": "1. On each page, write five short lines: how far the planet is from the Sun, compared with the Earth; how wide it is, compared with the Earth; how long its year is; how strong the sunlight is, compared with the Earth (multiply the distance by itself, as in the torch test); and one thing a visitor would see. 2. Draw the planet.",
+     "say": "Use the 3-metre string and the dough planets from the Planet Line-up to help. Jupiter is 5 times as far. 5 times 5 is 25, so sunlight there is 25 times weaker. What would a visitor see on Venus? Thick yellow clouds, and terrible heat.",
      "kid": "Write five facts on each page. How far. How wide. How long a year. How weak the sunlight is. What a visitor sees. Then draw it.",
      "wait": "Do three planets a day, over three days.",
-     "parent": "Use about 7 times stronger for Mercury, 2 times stronger for Venus, half as strong for Mars, 25 times weaker for Jupiter, 100 times weaker for Saturn, 400 times weaker for Uranus and 900 times weaker for Neptune. These are rounded."
+     "parent": "For the strength of sunlight compared with the Earth, use these: about 7 times stronger for Mercury, 2 times stronger for Venus, half as strong for Mars, 25 times weaker for Jupiter, 100 times weaker for Saturn, 400 times weaker for Uranus and 900 times weaker for Neptune. These are rounded."
     },
     {
      "id": "s3",
@@ -1562,10 +1562,10 @@
    "id": "c1",
    "title": "Sunlight for a Spacecraft Going to Jupiter",
    "mins": 25,
-   "problem": "A spacecraft runs on sunlight. Near the Earth, a solar panel 1 square big gives it all the power it needs. Design solar panels that give the same power at Mars, at Jupiter and at Saturn.",
+   "problem": "A spacecraft runs on sunlight. Near the Earth, a solar panel the size of 1 square of squared paper gives it all the power it needs. Design solar panels that give the same power at Mars, at Jupiter and at Saturn.",
    "constraints": [
     "Use squared paper: 1 square is the panel the spacecraft needs near the Earth.",
-    "Use the torch-test rule: times the distance by itself to find how much weaker the sunlight is.",
+    "Use the torch-test rule: multiply the distance by itself to find how many times weaker the sunlight is.",
     "Your panels must fold up to fit inside a rocket, which is about 3 squares wide."
    ],
    "materials": [
@@ -1600,8 +1600,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Remind your child of the torch test. 2. Ask how big a panel must be at Jupiter, 5 times as far as the Earth.",
-     "say": "Remember the torch test? Twice as far, four times the squares. Jupiter is 5 times as far. How many squares must the panel be?",
-     "kid": "Jupiter is 5 times as far. How many squares of panel do you need? Times 5 by 5.",
+     "say": "In the torch test, when the paper was twice as far away, the light covered four times as many squares. Jupiter is 5 times as far from the Sun as the Earth. How many squares must the panel be?",
+     "kid": "Jupiter is 5 times as far. How many squares of panel do you need? Multiply 5 by 5.",
      "context": "This is the first step of the spacecraft panel challenge. You work out how big a panel must be far from the Sun."
     },
     {
@@ -1955,7 +1955,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Moni, a girl in Class 3, says, 'The Earth is not a planet. Planets are the dots up in the sky.' Is she right?",
+     "p": "The Earth is not a planet. Planets are the dots up in the sky.",
      "a": false,
      "why": "False. The Earth goes round the Sun, like the other seven planets, so it is a planet too. From Mars, the Earth looks like a bright dot in the sky. A strong answer says the Earth only looks different because we are standing on it."
     },
@@ -2011,20 +2011,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Kochi, Meera and Sana, are arguing about Pluto.",
+     "p": "Two friends are arguing about Pluto.",
      "views": [
       {
-       "who": "Meera, aged 9",
+       "who": "The first friend",
        "says": "Pluto is a planet. It is round, it has moons, and it goes round the Sun."
       },
       {
-       "who": "Sana, aged 9",
+       "who": "The second friend",
        "says": "Pluto is a dwarf planet. It shares its path with lots of other icy worlds, so it has not cleared its path."
       }
      ],
      "ask": "Which friend do you agree with? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses the 2006 rule or Pluto's features as evidence. It also gives the other side its due. Meera is right that Pluto is round and has moons. Sana is right that the 2006 rule says a planet must clear its path.",
+     "a": "A strong answer picks a side and uses the 2006 rule or Pluto's features as evidence. It also gives the other side its due. The first friend is right that Pluto is round and has moons. The second friend is right that the 2006 rule says a planet must clear its path.",
      "why": "This is a real argument among astronomers. It is about where to draw the line around the word 'planet', so both sides have good reasons."
     },
     {
@@ -2096,7 +2096,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Imagine the Earth were half as far from the Sun as it is now. How strong would sunlight on the Earth be?",
+     "p": "If the Earth were half as far from the Sun as it is now, how strong would sunlight on the Earth be?",
      "opts": [
       "2 times stronger",
       "4 times stronger",
@@ -2104,7 +2104,7 @@
       "The same"
      ],
      "a": 1,
-     "why": "Half the distance is the torch test backwards. The same light would cover one quarter of the area, so each part gets 4 times as much. Picking '2 times stronger' forgets that light spreads in two directions."
+     "why": "This is the torch test backwards. At half the distance, the same light covers one quarter of the area, so each part gets 4 times as much. Picking '2 times stronger' forgets that light spreads in two directions."
     },
     {
      "t": "write",
@@ -2153,9 +2153,9 @@
     },
     {
      "t": "write",
-     "p": "Kavitha, a girl in Class 4, says, 'The torch light ran out as it travelled, like water draining away. That's why the far patch was dim.' Is she right? What really happened?",
+     "p": "Someone says, 'The torch light ran out as it travelled, like water draining away. That's why the far patch was dim.' Is that right? What really happened?",
      "lines": 4,
-     "a": "She is not right. The light did not run out. The same amount of light reached the paper, but it was spread over more squares. So each square got less, and the patch looked dimmer.",
+     "a": "No, that is not right. The light did not run out. The same amount of light reached the paper, but it was spread over more squares. So each square got less, and the patch looked dimmer.",
      "why": "A strong answer uses the square counts as evidence: 16 squares bright, 64 squares dim, the same light.",
      "how": "e1"
     },
@@ -2180,7 +2180,7 @@
     },
     {
      "t": "write",
-     "p": "Look at your dough planet line-up. Write two things you noticed about the sizes of the planets.",
+     "p": "Look at the dough and newspaper planets from the Planet Line-up. Write two things you noticed about the sizes of the planets.",
      "lines": 3,
      "a": "For example: Jupiter is about 11 times as wide as the Earth. Venus is almost the same size as the Earth. Mercury is the smallest. The giants are all much bigger than the rocky planets.",
      "why": "A strong answer uses numbers from the line-up, not just 'big' and 'small'.",
@@ -2273,21 +2273,21 @@
      "p": "Three people talk about why life is found on the Earth.",
      "views": [
       {
-       "who": "Revathi, a planet scientist",
+       "who": "A planet scientist",
        "says": "Distance matters most. The Earth is at the right distance from the Sun for liquid water."
       },
       {
-       "who": "Farhan, a weather scientist",
+       "who": "A weather scientist",
        "says": "Air matters most. Venus is not far from the right distance, but its thick air makes it far too hot."
       },
       {
-       "who": "Shalini, a biologist",
+       "who": "A biologist",
        "says": "We cannot be sure yet. We know only one planet with life, so we do not know everything life needs."
       }
      ],
      "ask": "Which person do you agree with most? Use evidence from this unit. Then say what one of the others gets right.",
      "lines": 6,
-     "a": "A strong answer picks one view and backs it with evidence: the torch test and Neptune's weak sunlight for Revathi, Venus's thick air for Farhan, or the fact that we know only one living planet for Shalini. It also gives another view its due.",
+     "a": "A strong answer picks one view and backs it with evidence: the torch test and Neptune's weak sunlight for the planet scientist, Venus's thick air for the weather scientist, or the fact that we know only one living planet for the biologist. It also gives another view its due.",
      "why": "All three have a point. Distance sets how much sunlight arrives, air decides how much heat stays, and with only one example of life, nobody can be sure what matters most."
     },
     {
@@ -2311,14 +2311,14 @@
     },
     {
      "t": "write",
-     "p": "Tara, a girl in Class 4, says, 'If the Sun's gravity pulls the planets in, they should all fall into the Sun.' Why don't they?",
+     "p": "The Sun's gravity pulls the planets inwards. Why don't they all fall into the Sun?",
      "lines": 4,
      "a": "The planets are moving forwards very fast. Gravity pulls them inwards, but their forward motion carries them past. Together, these bend their paths into orbits, so they keep going round instead of falling in.",
-     "why": "A strong answer names both parts: the forward motion and the inward pull. Tara has noticed something true: if a planet stopped moving forwards, it would fall into the Sun."
+     "why": "A strong answer names both parts: the forward motion and the inward pull. The question is a fair one: if a planet stopped moving forwards, it would fall into the Sun."
     },
     {
      "t": "mcq",
-     "p": "Leela, a girl in Class 4, does the torch test with the paper at 10 cm and then at 30 cm. How many times as many squares does the light cover at 30 cm?",
+     "p": "In the torch test, the paper is at 10 cm and then at 30 cm. How many times as many squares does the light cover at 30 cm?",
      "opts": [
       "3 times as many",
       "6 times as many",
@@ -2357,7 +2357,7 @@
      "p": "Plan an investigation. Your friend thinks a white ball and a black ball would look the same in the torch light. How would you test it fairly? What would you keep the same?",
      "lines": 5,
      "a": "Put each ball the same distance from the same torch, in a dark room, one at a time. Keep the torch, the distance and the room the same. Only change the colour of the ball. Then compare how bright each ball looks.",
-     "why": "A strong answer changes only one thing and names at least two things kept the same. Planets differ in colour too: icy, cloudy Venus reflects much more sunlight than dark rocky Mercury."
+     "why": "A strong answer changes only one thing and names at least two things kept the same. Planets differ in colour too: cloudy Venus reflects much more sunlight than dark rocky Mercury."
     },
     {
      "t": "mcq",
@@ -2547,7 +2547,7 @@
  ],
  "maths": [
   {
-   "problem": "In the torch test, the patch of light was 4 cm wide at 20 cm and 6 cm wide at 30 cm. How many 1 cm squares does each patch cover? The paper moved 1 and a half times as far. Did the squares go up 1 and a half times?",
+   "problem": "In the torch test, the patch of light was 4 cm wide at 20 cm and 6 cm wide at 30 cm. How many 1 cm squares does each patch cover? The paper moved 1 and a half times as far. Did the number of squares also go up 1 and a half times?",
    "answer": "16 squares and 36 squares. No, 36 is more than twice 16, so the squares went up by more than 2 times.",
    "explain": "A patch 4 cm wide and 4 cm tall covers 4 times 4, which is 16 squares. A patch 6 cm wide and 6 cm tall covers 6 times 6, which is 36 squares. 36 divided by 16 is a little more than 2. The patch grows in two directions, so the squares go up by 1 and a half times 1 and a half, which is about 2 and a quarter.",
    "math_unit": "math.area-perimeter.area.L3",
@@ -2556,7 +2556,7 @@
    "context": "This is about the torch test, where you shone a phone torch through a square hole onto squared paper."
   },
   {
-   "problem": "Sunlight gets weaker by the distance times itself. Mars is about 1 and a half times as far from the Sun as the Earth. Uranus is about 19 times as far. Work out roughly how many times weaker sunlight is at Mars and at Uranus.",
+   "problem": "Sunlight gets weaker with distance. To find how many times weaker it is, multiply the number of times as far by itself. Mars is about 1 and a half times as far from the Sun as the Earth. Uranus is about 19 times as far. Work out roughly how many times weaker sunlight is at Mars and at Uranus.",
    "answer": "About 2 times weaker at Mars, and about 360 times weaker at Uranus.",
    "explain": "1 and a half times 1 and a half is 2 and a quarter, so about 2 times weaker. 19 times 19 is 361, so about 360 times weaker.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
@@ -2579,7 +2579,7 @@
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "a5",
    "why_maths": "Dividing one length of time by another shows how a planet's distance from the Sun changes the length of its year.",
-   "context": "This is about the length of a year on different planets, like the ones you used when working out your age on other planets."
+   "context": "This is about the length of a year on different planets. You used these year lengths in How Old Would You Be on Mars?, to work out your age on other planets."
   },
   {
    "problem": "The Earth is about 150 million kilometres from the Sun. Neptune is about 30 times as far. About how far from the Sun is Neptune?",
@@ -2781,8 +2781,8 @@
  "roots": {
   "context": "We have met the eight planets and measured how light spreads out. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the torch test, twice as far meant the same light spread over four times as many squares. The Sun's light spreads the same way, out to all eight planets. Neptune is 30 times further from the Sun than Earth, so sunlight there is about 900 times weaker. Earth's warmth, rain and plant food all run on the share of sunlight that reaches Earth's distance.",
-   "habit": "We talk about 'the Earth' and 'the planets' as if the Earth were a different kind of thing, and as if its warmth were its own. But the Earth stands in the same sunlight as the other seven planets. What makes it warm, wet and living is mostly the share of that light its distance gives it.",
+   "truth": "In the torch test, when the paper was twice as far from the torch, the same light spread over four times as many squares. The Sun's light spreads the same way, out to all eight planets. Neptune is 30 times as far from the Sun as the Earth, so sunlight there is about 900 times weaker. The Earth's warmth, its rain and the food plants make all depend on how much sunlight reaches the Earth's distance.",
+   "habit": "We talk about 'the Earth' and 'the planets' as if the Earth were a different kind of thing, and as if its warmth were its own. But the Earth stands in the same sunlight as the other seven planets. It is warm, wet and living mostly because of how much of that light reaches it at its distance.",
    "evidence": "At 20 cm the torch light covered 16 squares and was bright. At 40 cm the same light covered 64 squares and was dim. Spacecraft measure sunlight weakening in exactly this way as they fly out from the Sun."
   },
   "three": {
@@ -2790,12 +2790,12 @@
    "what_is_life": "Every living thing we know of lives on the Earth, at a distance from the Sun where water stays liquid.",
    "what_is_this_world": "The Earth is one of eight planets sharing one Sun. Each gets a different share of its light."
   },
-  "thread": "One Sun sends out its light in every direction. The same light reaches all eight planets, but at each distance it is spread thinner. That one difference, along with what each planet is made of and how much air it has, gives eight very different worlds: scorched Mercury, cloud-wrapped Venus, blue Earth, red Mars and the cold, dim giants. On the Earth, the share of sunlight we get drives the wind and rain and feeds every plant. So the same Sun lights eight very different worlds, and on one of them plants and animals all run on their share of that light.",
+  "thread": "One Sun sends out its light in every direction. The same light reaches all eight planets, but at each distance it is spread thinner. That one difference, along with what each planet is made of and how much air it has, gives eight very different worlds: scorched Mercury, cloud-wrapped Venus, blue Earth, red Mars and the cold, dim giants. On the Earth, the sunlight we get drives the wind and rain and feeds every plant. Plants and animals here all live on that light.",
   "teachings": [
    {
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is the self of all that moves and all that stands still.",
-    "link": "Almost everything that moves on the Earth, wind, rivers, plants and animals, runs on the Sun's light. The unit shows how that light reaches each planet."
+    "link": "Almost everything that moves on the Earth (wind, rivers, plants and animals) runs on the Sun's light. The unit shows how that light reaches each planet."
    },
    {
     "source": "Nicolaus Copernicus, De revolutionibus, 1543, Book 1, chapter 10",
@@ -2829,12 +2829,12 @@
   "practice": {
    "title": "Hold the sunlight",
    "mins": 3,
-   "say": "Let's sit in a patch of sunlight by the window. Hold out your hand and close your eyes. Feel the warmth. This light has come about 150 million kilometres from the Sun. The same light is going on, past us, to Mars, to Jupiter, all the way to Neptune. Take five slow breaths. With each breath, think of one planet it reaches. Now open your eyes and look at your hand.",
+   "say": "Let's sit in a patch of sunlight by the window. Hold out your hand and close your eyes. Feel the warmth. This light has come about 150 million kilometres from the Sun. The same light is going on, past us, to Mars, to Jupiter, all the way to Neptune. Take five slow breaths. With each breath, think of one planet the light reaches. Now open your eyes and look at your hand.",
    "kid": "Sit in the sunshine. Hold out your hand. Close your eyes and feel the warmth. This light came from the Sun. It goes on to Mars and Jupiter too. Breathe slowly five times."
   },
   "ask": [
    "The Earth's warmth comes from the Sun. Is the warmth yours, or the Sun's, or both?",
-   "From Venus, the Earth is a bright dot. Does 'up there' mean anything without a place to stand?",
+   "From Venus, the Earth is a bright dot. Does 'up there' mean anything unless you say where you are standing?",
    "If the Earth were where Mars is, would there still be you? What would be different?"
   ],
   "art": "A child sitting cross-legged in a patch of sunlight by a window, palm open, with a faint beam passing through the window and on out into space past small drawings of the other planets."

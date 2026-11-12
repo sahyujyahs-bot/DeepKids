@@ -3,7 +3,7 @@
  "title": "Our ears: how we hear, how to protect hearing, and the sounds animals hear that we can't",
  "level": 3,
  "summary": {
-  "text": "A phone can be playing music while you hear nothing at all. Every ear has a quietest sound it can catch, and softer sounds pass it by. Your ear works as a chain. The ear flap collects sound, the eardrum vibrates, three tiny bones pass the vibration on, and hair cells in the cochlea turn it into signals for the brain. People hear only a band of pitches, and the top of that band drops as we grow older. Loud sound can break hair cells, and in people they never grow back, so ears need protecting. Bats, moths, cats and dogs hear sounds too high for us, and elephants and pigeons hear sounds too low for us. Each of them hears what their own life needs.",
+  "text": "A phone can be playing music while you hear nothing at all. Every ear has a quietest sound it can catch, and you do not hear sounds softer than that. Your ear works as a chain. The ear flap collects sound, the eardrum vibrates, three tiny bones pass the vibration on, and hair cells in the cochlea turn it into signals for the brain. People hear only a band of pitches, and the top of that band drops as we grow older. Loud sound can break hair cells, and in people they never grow back, so ears need protecting. Bats, moths, cats and dogs hear sounds too high for us, and elephants and pigeons hear sounds too low for us. Each of them hears what their own life needs.",
   "art": "A child with eyes shut and one hand raised, listening to a phone across the room. Around the room, faint coloured sound lines that the child cannot hear: a bat at the window, a cat with ears turned, and an elephant's low rumble drawn as long slow waves."
  },
  "intro": {
@@ -102,7 +102,7 @@
   {
    "term": "Quietest sound you can hear",
    "meaning": "The softest sound that your ears can just catch. Scientists call it your hearing threshold. A sound softer than this reaches you, but you do not hear it.",
-   "example": "In the volume test, Kavya, a girl aged 9, heard the song first at volume step 2. Step 2 was her quietest sound at that distance.",
+   "example": "In the volume test, a listener might first hear the song at volume step 2. Step 2 is then the listener's quietest sound at that distance.",
    "art": "A volume bar on a phone with the first step grey and a bright mark at step 2 where the girl raises her hand."
   },
   {
@@ -154,19 +154,19 @@
    "concept": "The quietest sound you can hear",
    "status": "defined",
    "definition": "Every ear has a quietest sound it can catch, called the hearing threshold. A softer sound still reaches the ear, but it does not make a strong enough signal to be heard.",
-   "description": "In the volume test, the phone was playing at the lowest steps, but you heard nothing. The sound was there in the air. It was too soft for your hair cells to send a clear signal. When the volume went up, you heard it. Covering the ear raised the step you needed, because less sound got in. An audiologist tests hearing this way. They play soft beeps of different pitches and find the quietest one you hear for each pitch.",
+   "description": "In the Quietest Sound experiment, you turned a phone up one step at a time from across the room. At the lowest steps the phone was playing, but you heard nothing. The sound was there in the air. It was too soft for your hair cells to send a clear signal. When the volume went up, you heard it. Covering the ear raised the step you needed, because less sound got in. An audiologist tests hearing this way. They play soft beeps of different pitches and find the quietest one you hear for each pitch.",
    "examples": [
     "A ticking wall clock you can hear at night, but not in the day when the road is busy.",
     "A child who hears a whisper from 3 metres away, while a grandparent needs the speaker to come closer."
    ],
    "perspectives": [],
    "art": "A phone volume bar with grey steps at the bottom and a child's raised hand at the step where the song is first heard.",
-   "context": "This card explains what you found in the volume test."
+   "context": "This card explains what you found in the Quietest Sound experiment, where you turned a phone up step by step until you heard it."
   },
   {
    "concept": "Pitch, and the band of sounds people hear",
    "status": "defined",
-   "definition": "Pitch depends on how many times each second a thing vibrates. People hear from about 20 to about 20,000 vibrations each second, called 20 to 20,000 hertz.",
+   "definition": "Pitch depends on how many times each second a thing vibrates. People hear from about 20 to about 20,000 vibrations each second. This is written as 20 to 20,000 hertz.",
    "description": "A big drum skin vibrates slowly and makes a low pitch. A small bell vibrates very fast and makes a high pitch. Young people hear from about 20 hertz up to about 20,000 hertz. Sounds above that are called ultrasound. Sounds below it are called infrasound. They are real sounds, but our hair cells do not respond to them. Different hair cells pick up different pitches. Those for high sounds sit near the start of the coil in the cochlea, and those for low sounds sit deep inside it.",
    "examples": [
     "A mosquito's whine is a few hundred hertz. You hear it well.",
@@ -183,7 +183,7 @@
    "description": "High-pitch hair cells sit at the start of the cochlea, where every sound passes. Over many years, more of them stop working. A child may hear a tone of 17,000 hertz that most grown-ups over 40 cannot. Many grandparents hear deep voices well but miss high sounds, like the 's' and 'f' in words. So 'fifty' and 'sixty' can sound the same to them. Loud places and some illnesses make this happen sooner.",
    "examples": [
     "A grandmother who hears the temple drum but misses the microwave beep.",
-    "In the family pitch test, the children hear the tone for longer than the parents."
+    "In the family pitch test, a tone rises higher and higher. The children usually keep hearing it after the parents have stopped."
    ],
    "perspectives": [],
    "art": "Three family members in a row, a girl, her mother and her grandfather, each with a band of colour above them that is a little shorter at the high end than the one before.",
@@ -205,7 +205,7 @@
   {
    "concept": "Keeping your ears safe",
    "status": "defined",
-   "definition": "You protect your hearing by keeping loud sound short, keeping away from its source, covering your ears, and never pushing anything into the ear canal.",
+   "definition": "You protect your hearing by keeping loud sound short, staying away from the thing that makes it, covering your ears, and never pushing anything into the ear canal.",
    "description": "Moving away from a loud sound helps a lot, because sound spreads out and gets weaker with distance. Covering the ears helps, and a cover that seals the ear hole helps most. With earphones, keep the volume low enough to hear someone talking next to you. Earwax keeps the canal clean and moves out by itself as you chew and talk. A cotton bud can push wax deeper or scratch the eardrum. Doctors say to put nothing in your ear, not a bud, a hairpin, a matchstick or oil. If an ear hurts, leaks or feels blocked, see a doctor.",
    "examples": [
     "Standing far back and pressing your ear flaps shut when crackers burst at Deepavali.",
@@ -321,7 +321,7 @@
  ],
  "big_questions": [
   {
-   "q": "When the phone played at the lowest volume and you heard nothing, was there a sound in the room or not?",
+   "q": "In the Quietest Sound experiment, the phone played at the lowest volume and you heard nothing. Was there a sound in the room or not?",
    "kind": "deep",
    "hint": "Think about what the phone was doing, and what your ears were doing."
   },
@@ -333,7 +333,7 @@
   {
    "q": "Your voice sounds different to you than to everyone else. Which one is your real voice?",
    "kind": "deep",
-   "hint": "Remember the recording, and the humming test with your ears shut."
+   "hint": "Think of the recording of your voice, and of how your hum got louder when you pressed your ears shut."
   },
   {
    "q": "If a forest is full of bat calls that no person can hear, is the forest noisy or quiet?",
@@ -509,7 +509,7 @@
     "Turn over the top sound card and read it out. Don't look at the back yet.",
     "Each player says, for each of their two listeners, 'hears it' or 'does not hear it'.",
     "Turn the card over and read the answer. Each listener you got right scores 1 point.",
-    "For 1 bonus point, say how hearing this sound helps one animal that hears this sound. For example, a moth hears a bat and dives away.",
+    "For 1 bonus point, name one animal that hears this sound and say how hearing it helps them. For example, a moth hears a bat and dives away.",
     "Play until all 10 sound cards are used. The highest score wins. If scores are equal, those players share the win."
    ],
    "flow": [
@@ -524,8 +524,8 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Play the rounds. After each card, ask why.",
-     "say": "A bat hunting a moth. Which of your listeners can hear it? Why does the moth need to?",
+     "do": "Play the rounds. After each sound card, ask why a listener needs to hear that sound.",
+     "say": "This card says: a bat hunting a moth. Which of your listeners can hear it? Why does the moth need to hear it?",
      "kid": "Read the sound card. Can your listeners hear it? Say why.",
      "ask": [
       {
@@ -669,7 +669,7 @@
     "Each player puts a counter on square 1, the ear flap. Shuffle the ear cards and put them face down in a pile.",
     "Take turns to roll a dice and move that many squares. With no dice, write 1 to 6 on six paper slips and pick one without looking.",
     "Read out the name of the ear part you land on, and what it does.",
-    "When you land on a square marked STAR, take the top ear card and do what it says. Question cards: a grown-up reads the answer from the back. If you move by a card, you do not take another card.",
+    "When you land on a square marked STAR, take the top ear card and do what it says. For a question card, a grown-up checks your answer against the back of the card. If a card moves you, you do not take another card, even if you land on a STAR.",
     "Moving back never takes you before square 1. If you must miss a turn, your counter stays where it is.",
     "When the pile is empty, shuffle the used cards and make a new pile.",
     "The first player to reach or pass square 24, the brain, wins. Everyone else can keep going to see who comes second."
@@ -686,7 +686,7 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "Play. At each part, the player says what it does.",
+     "do": "Play the game. On each square, the player says what that ear part does.",
      "say": "You landed on the eardrum. What does it do?",
      "kid": "Say the part you landed on. What does it do?",
      "ask": [
@@ -736,9 +736,9 @@
    "mins": 30,
    "days": 1,
    "context": "In this experiment you find the quietest sound you can hear from across a room. Then you test which ear cover makes you need the loudest sound, because that cover blocks the most.",
-   "question": "Which ear cover blocks the most sound: cupped hands, a thick folded towel, or the small ear flaps pressed shut with a fingertip?",
-   "predict": "Guess first. Which cover will block the most sound: cupped hands, a folded towel, or pressing the small flaps shut? Which will block the least? Why do you think so?",
-   "fair_test": "Keep everything the same except the ear cover: the same phone, the same song, the same distance of 3 metres, the same quiet room, the same listener. The helper turns the volume up one step at a time, slowly and evenly. The listener keeps their eyes shut so they can't see the phone. Try each cover twice, because one try can be a fluke.",
+   "question": "Which ear cover blocks the most sound: cupped hands, a thick folded towel, or the small flap in front of each ear hole pressed shut with a fingertip?",
+   "predict": "Guess first. Which cover will block the most sound: cupped hands, a folded towel, or the small flap in front of each ear hole pressed shut? Which will block the least? Why do you think so?",
+   "fair_test": "Keep everything the same except the ear cover: the same phone, the same song, the same distance of 3 metres, the same quiet room, the same listener. The helper turns the volume up one step at a time, slowly and evenly. The listener keeps their eyes shut so they can't see the phone. Try each cover twice, because one try can go wrong by chance.",
    "results_table": [
     "Ear cover",
     "Volume step when first heard (try 1)",
@@ -827,7 +827,7 @@
      "say": "Same phone, same place, same song. Only the ear cover changes. Raise your hand when you hear it.",
      "kid": "Cover your ears the new way. Shut your eyes. Raise your hand when you hear it.",
      "adult": false,
-     "parent": "Show the small flap: it is the bump of cartilage just in front of the ear hole. Pushing it back over the hole closes the hole without putting anything inside. If the listener cannot hear the song even at full volume with a cover, write 'more than full' and move closer for every test.",
+     "parent": "Show the small flap: it is the bump of cartilage just in front of the ear hole. Pushing it back over the hole closes the hole without putting anything inside. If the listener cannot hear the song even at full volume with a cover, write 'more than full'. Then move the chair closer and do every test again from there.",
      "context": "In this step you test three ear covers in the same way."
     },
     {
@@ -838,20 +838,20 @@
      "kid": "Which cover needed the most steps? That one blocked most. Were you right?",
      "check": {
       "t": "mcq",
-      "q": "Meera, a girl in Class 3, heard the song at step 2 with open ears and at step 7 with her ear flaps pressed shut. What does that tell you?",
+      "q": "A listener heard the song at step 2 with open ears and at step 7 with the ear flaps pressed shut. What does that tell you?",
       "options": [
        "Pressing the flaps made the song quieter at the phone",
-       "Pressing the flaps blocked sound, so she needed a louder song to hear it",
-       "Meera's hearing got worse"
+       "Pressing the flaps blocked sound, so the listener needed a louder song to hear it",
+       "The listener's hearing got worse"
       ],
       "a": 1,
-      "why": "The phone played the same at each step. What changed was how much sound got into Meera's ears. With the flaps shut, less got in, so the song had to be louder before she caught it. Her hearing is fine: open the flaps and she hears step 2 again."
+      "why": "The phone played the same at each step. What changed was how much sound got into the listener's ears. With the flaps shut, less got in, so the song had to be louder before the listener caught it. The listener's hearing is fine: with the flaps open, the song is heard at step 2 again."
      }
     },
     {
      "id": "s6",
      "mins": 5,
-     "do": "Talk about the results. Then go back to step 1 of the volume, with the song still playing and ears open.",
+     "do": "Talk about the results. Then set the phone to volume step 1, with the song still playing and the listener's ears open.",
      "say": "Look. At step 1 the song is playing, but you can't hear it. What is happening to that sound?",
      "kid": "The song plays at step 1. You can't hear it. Where is the sound going?",
      "ask": [
@@ -966,8 +966,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Open the tone generator. 2. Set it to 1,000 hertz. 3. Set the volume to a comfortable talking level. 4. Put the phone on a table 1 metre from where everyone sits.",
-     "say": "This plays one pure note. The number is how many times each second the speaker vibrates. Let's hear 1,000 first.",
+     "do": "1. Open a free tone generator in the phone's browser. 2. Set it to 1,000 hertz. 3. Set the volume to a comfortable talking level. 4. Put the phone on a table 1 metre from where everyone sits.",
+     "say": "The tone generator plays one pure note. The number is how many times each second the speaker vibrates. Let's hear 1,000 hertz first.",
      "kid": "Listen to the note. The speaker vibrates 1,000 times a second. Is it high or low?",
      "adult": true,
      "parent": "Use the device's own speaker, not earphones. Leave the volume at this level for the whole test. Higher notes can sound sharp, so keep it moderate.",
@@ -1008,14 +1008,14 @@
      "kid": "Who heard the highest note? Is there a pattern with age?",
      "check": {
       "t": "mcq",
-      "q": "Meenakshi, aged 8, hears the note up to 18,000 hertz. Her grandmother stops at 9,000. Why?",
+      "q": "A child aged 8 hears the note up to 18,000 hertz. The child's grandmother stops hearing it at 9,000 hertz. Why?",
       "options": [
        "The grandmother wasn't trying",
        "Hair cells for the highest pitches wear out first as people grow older",
        "Older people hear only low sounds"
       ],
       "a": 1,
-      "why": "The hair cells for the highest pitches sit at the start of the cochlea, and they wear out first over the years. The grandmother still hears many high sounds, just not the very highest. 'Only low sounds' goes too far."
+      "why": "The hair cells for the highest pitches sit at the start of the cochlea, and they wear out first over the years. The grandmother still hears many high sounds, just not the very highest. Saying that older people hear 'only low sounds' goes too far."
      }
     },
     {
@@ -1025,7 +1025,7 @@
      "say": "Most of us hear nothing now. Many phone speakers cannot play a note this high, so we cannot be sure. But a dog or a cat would hear a note like this easily.",
      "kid": "Do you hear anything? A dog or a cat could hear a note this high.",
      "think": "What else in our home might make sounds too high for us?",
-     "parent": "If the speaker cannot play 20,000 hertz, nothing was made at all. The idea still holds: sounds above our band are real, and a dog hears them."
+     "parent": "If the speaker cannot play 20,000 hertz, it made no sound at all. The idea is still true: sounds above our band are real, and a dog hears them."
     }
    ],
    "example_chart": {
@@ -1077,7 +1077,7 @@
    "fair_test": "Use the same phone, the same volume and the same place for both notes. Listen from the same spot, first with the door open, then shut. Only the pitch and the door change.",
    "results_table": [
     "Note",
-    "Door open: how loud (3 big, 2 medium, 1 soft, 0 nothing)",
+    "Door open: how loud (3 loud, 2 medium, 1 soft, 0 nothing)",
     "Door shut: how loud",
     "How much quieter?"
    ],
@@ -1117,7 +1117,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. The helper sets the phone to 200 hertz inside the room, presses play and steps out, leaving the door open. 2. Score how loud it sounds from outside with the door open. 3. The helper shuts the door. Score it again from the same spot. 4. Open the door, stop the note, and do the same with 4,000 hertz.",
-     "say": "Score it: 3 for big, 2 for medium, 1 for soft, 0 for nothing.",
+     "say": "Score it: 3 for loud, 2 for medium, 1 for soft, 0 for nothing.",
      "kid": "Listen. Give it a score from 0 to 3. Now the door shuts. Score it again.",
      "parent": "The helper must not change the volume between notes. Low notes often sound softer than high notes at the same volume, because ears are less sensitive to them. That is why we compare how much each note drops when the door shuts. Phone speakers play low notes weakly. If 200 hertz is barely there with the door open, try 400 hertz, or use a laptop. Scores are guesses, so the result is only a rough sign."
     },
@@ -1129,7 +1129,7 @@
      "kid": "Which note lost more when the door shut?",
      "check": {
       "t": "mcq",
-      "q": "Ibemhal, a girl in Class 4 in Imphal, hears her neighbour's music through the wall. She hears the drum beat but not the words. Why?",
+      "q": "You hear a neighbour's music through the wall. You hear the drum beat but not the words. Why?",
       "options": [
        "The neighbour plays only drums",
        "Walls and doors block high sounds more than low sounds",
@@ -1144,7 +1144,7 @@
      "mins": 5,
      "do": "Talk about elephants.",
      "say": "Elephants call with very low rumbles. Why might low sounds be useful for a herd spread across a forest?",
-     "kid": "Elephants rumble very low. Why is low good in a big forest?",
+     "kid": "Elephants rumble very low. Why is a low sound useful in a big forest?",
      "ask": [
       {
        "q": "Why might low rumbles help an elephant herd?",
@@ -1154,7 +1154,7 @@
        ]
       }
      ],
-     "parent": "In your test the high note usually drops more. If both dropped the same, the door may have a big gap. Try a heavier door."
+     "parent": "In the door test, the high note usually drops more. If both dropped the same, the door may have a big gap. Try a heavier door."
     }
    ],
    "setup": [
@@ -1295,7 +1295,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Explain why, after the child has said what they noticed.",
+     "do": "After the child has said what they noticed, explain why the recording sounds different.",
      "say": "When you talk, you hear yourself through the air and through the bones of your head. The bones carry the low parts best. Everyone else hears only the air part.",
      "kid": "You hear yourself through your bones too. Others hear only the air part."
     }
@@ -1330,7 +1330,7 @@
      "what": "Cup hands behind your ears and listen to a sound in front. Then turn your back to the sound and cup your hands in front of your ears, facing backwards. Compare."
     }
    ],
-   "record": "Draw your hands for the way that made the sound in front loudest, and the way that made a sound behind you loudest.",
+   "record": "Draw how you held your hands when the sound in front was loudest, and how you held them when the sound behind you was loudest.",
    "flow": [
     {
      "id": "s1",
@@ -1361,12 +1361,12 @@
      "mins": 2,
      "do": "Talk about cats.",
      "say": "A cat can turn each ear flap separately, without moving the head. Why would that help a cat who hunts mice?",
-     "kid": "A cat turns each ear on their own. Why does that help catch a mouse?",
+     "kid": "A cat can turn each ear separately. Why does that help catch a mouse?",
      "ask": [
       {
        "q": "How does turning ears help a cat?",
        "good": [
-        "They can hear a mouse rustling and find which way it is.",
+        "They can hear a mouse rustling and find which way the mouse is.",
         "They can listen in two directions at once."
        ]
       }
@@ -1441,7 +1441,7 @@
      "do": "1. Stretch the balloon piece over the other end of the tube. 2. Hold it with a rubber band.",
      "say": "This is the eardrum. Tap the tube and feel it vibrate.",
      "kid": "Stretch the balloon over the end. That is your eardrum.",
-     "parent": "If you sprinkle a few grains of salt on the eardrum and shout into the flap, they may jump. It is a bonus, not a must."
+     "parent": "If you sprinkle a few grains of salt on the balloon eardrum and shout into the flap, the grains may jump. This is an extra, and you can skip it."
     },
     {
      "id": "s3",
@@ -1518,7 +1518,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Explain the test.",
+     "do": "Explain the arm's-length test.",
      "say": "Here is a test doctors use. Stand one arm's length from someone. If you have to shout to be heard, the place is loud enough to harm ears over time.",
      "kid": "Stand an arm's length from a family member. Talk. Do you need to shout?",
      "context": "This is the first step of the noise check. Here you learn a simple test for harmful noise."
@@ -1595,7 +1595,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Explain, after asking for ideas.",
+     "do": "Ask what the click might be. Then explain.",
      "say": "Behind each eardrum is a little space full of air. A thin tube joins it to your throat. When you swallow, the tube opens, and the air on both sides of the eardrum evens out.",
      "kid": "A tiny tube joins your ear to your throat. Swallowing opens it.",
      "ask": [
@@ -1682,7 +1682,7 @@
      "id": "s2",
      "mins": 24,
      "do": "Keep the diary on days 2, 3 and 4. On day 4, add up the minutes for each day.",
-     "say": "Remember the arm's-length test. Did we have to shout?",
+     "say": "Use the arm's-length test: stand one arm's length apart and talk. Did we have to shout?",
      "kid": "Keep writing loud moments. Add up the minutes.",
      "wait": "Keep the diary for 3 more days",
      "parent": "Common entries: the mixer grinder, the pressure cooker, honking traffic, a loud TV, a festival loudspeaker."
@@ -1726,7 +1726,7 @@
    "id": "c1",
    "title": "Earmuffs for the Festival",
    "mins": 35,
-   "context": "This is a design challenge. You make the best ear protectors you can from home things, and test them with the volume test.",
+   "context": "This is a design challenge. You make the best ear protectors you can from home things, and test them with the volume test from the Quietest Sound experiment.",
    "problem": "At the Ganesh Chaturthi procession, the dhol-tasha drums and firecrackers are very loud. A 4-year-old child hates it. Design ear protectors from home things that block the most sound and are comfortable.",
    "constraints": [
     "Use only things from home.",
@@ -1751,12 +1751,12 @@
     "A thick woollen cap pulled down over the ears.",
     "A shawl wrapped round the head, with folded cloth over each ear."
    ],
-   "your_turn": "Design and build your own ear protectors. Test them with the volume test from the quietest sound experiment. How many steps more than open ears did they need?",
+   "your_turn": "Design and build your own ear protectors. Test them with the volume test from the Quietest Sound experiment. How many steps more than open ears did they need?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem. Remember the volume test.",
+     "do": "Read the problem. Think back to the volume test in the Quietest Sound experiment, where you tested ear covers.",
      "say": "In the volume test, which cover blocked the most? What made it good?",
      "kid": "Which cover worked best in the volume test? Why?",
      "context": "This is the first step of the festival earmuff challenge. Here you think about what made a good ear cover."
@@ -1780,12 +1780,12 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Set up the phone as in the quietest sound experiment: 3 metres from the chair, the same song. Test the ear protectors with the volume test, twice.",
+     "do": "Set up the phone as in the Quietest Sound experiment: 3 metres from the chair, the same song. Test the ear protectors with the volume test, twice.",
      "say": "Let's test. At which step do you hear the song now?",
      "kid": "Put them on. Shut your eyes. Raise your hand when you hear it.",
      "check": {
       "t": "mcq",
-      "q": "Riya, a girl in Class 3, makes cup earmuffs that block 2 steps. A second pair, lined with cloth, blocks 4 steps. Why might the lining help?",
+      "q": "One pair of cup earmuffs blocks 2 steps. A second pair, lined with cloth, blocks 4 steps. Why might the lining help?",
       "options": [
        "It fills the gaps, so less sound leaks round the edges",
        "Cloth is heavier than air",
@@ -1937,7 +1937,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl in Class 3, turns a phone up one step at a time from across the room. Her brother first hears the song at step 3. What is step 3?",
+   "p": "A phone is turned up one step at a time from across the room. A boy first hears the song at step 3. What is step 3?",
    "opts": [
     "The loudest sound he can hear",
     "The quietest sound he can hear from there",
@@ -1978,11 +1978,11 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali, a girl in Class 4, has to shout to be heard by her friend, an arm's length away. What does that tell her?",
+   "p": "You have to shout to be heard by a friend who is an arm's length away. What does that tell you?",
    "opts": [
-    "Her friend is not listening",
+    "Your friend is not listening",
     "The place is loud enough to harm hearing over time",
-    "She should talk faster",
+    "You should talk faster",
     "Nothing, shouting is normal"
    ],
    "a": 1,
@@ -2127,7 +2127,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the volume test, Kavya, a girl aged 9, hears the song at step 2 with open ears. With cupped hands she hears it at step 3. What does the cupped-hands result tell you?",
+     "p": "In the volume test, a girl hears the song at step 2 with open ears. With cupped hands she hears it at step 3. What does the cupped-hands result tell you?",
      "opts": [
       "Her hands blocked a little sound",
       "Her hands made the phone quieter",
@@ -2147,7 +2147,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Farhan, a boy in Class 3, says, 'The stirrup is the biggest bone in the ear.' Is he right?",
+     "p": "'The stirrup is the biggest bone in the ear.' Is this right?",
      "a": false,
      "why": "False. The stirrup is the smallest of the three tiny bones, and the smallest bone in the whole body. It is about 3 millimetres long."
     },
@@ -2299,7 +2299,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Nithya, a girl in Class 4, tested ear covers. Her results in the volume test: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?",
+     "p": "Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?",
      "opts": [
       "Cupped hands",
       "Towel",
@@ -2533,7 +2533,7 @@
        "says": "The forest is quiet. I can't hear a thing."
       }
      ],
-     "ask": "Who is right? Use what you found at step 1 of the volume test. Then say what the other person has right.",
+     "ask": "Who is right? Use what you found in the volume test, when the song played at step 1 and you could not hear it. Then say what the other person has right.",
      "lines": 5,
      "a": "A strong answer says both are describing something real. The air is full of vibration, as the microphone shows, but it is too high for human ears, so for the woman it is quiet. It might say the forest is noisy for a bat and quiet for a person.",
      "why": "There is no single answer. Whether a place is 'quiet' depends on who is listening."
@@ -2547,7 +2547,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the door test, Sneha, a girl in Class 4, scored the low note 2 with the door open and 2 with it shut. She scored the high note 3 open and 1 shut. What do her results show?",
+     "p": "In the door test, a listener scored the low note 2 with the door open and 2 with it shut. The listener scored the high note 3 with the door open and 1 with it shut. What do these results show?",
      "opts": [
       "The door blocked the high note more",
       "The door blocked the low note more",
@@ -2641,7 +2641,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Facing and lip-reading, less background noise and slower speech help. Shouting makes the voice higher and blurrier, and covering your mouth hides your lips.",
+     "why": "Facing the person so they can read your lips, less background noise and slower speech all help. Shouting makes the voice higher and blurrier, and covering your mouth hides your lips.",
      "how": "c2"
     },
     {
@@ -2799,16 +2799,16 @@
  ],
  "maths": [
   {
-   "problem": "In the volume test, Kavya, a girl aged 9, heard the song at step 2 with open ears and at step 8 with her ear flaps pressed shut. How many more steps did she need with the flaps shut?",
+   "problem": "In the volume test, a listener heard the song at step 2 with open ears and at step 8 with the ear flaps pressed shut. How many more steps did the listener need with the flaps shut?",
    "answer": "6 more steps.",
-   "explain": "8 take away 2 is 6. So pressing the flaps shut made her need 6 more steps before she heard the song.",
+   "explain": "8 take away 2 is 6. So with the flaps pressed shut, the listener needed 6 more steps before hearing the song.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "This is about the volume test, where you turn a phone up step by step until the listener hears it.",
    "how": "e1",
    "why_maths": "The step number alone doesn't say how much a cover blocks. The difference from open ears does."
   },
   {
-   "problem": "Kavya, a girl aged 9, tested ear covers. Her results: open ears 2, cupped hands 3, towel 5, ear flaps shut 8. Draw a bar chart. Which cover blocked about twice as much as the towel did?",
+   "problem": "Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Draw a bar chart. Which cover blocked about twice as much as the towel did?",
    "answer": "The ear flaps pressed shut.",
    "explain": "The towel needed 3 more steps than open ears (5 take away 2). The flaps needed 6 more (8 take away 2). 6 is twice 3.",
    "math_unit": "math.data.bar-charts.L3",
@@ -2845,9 +2845,9 @@
    "why_maths": "A bar chart shows at a glance which cover blocks most, and comparing differences tells you by how much."
   },
   {
-   "problem": "In a family pitch test, Kavya (9) heard up to 18,000 hertz, her mother (38) up to 16,000, and her grandfather (70) up to 9,000. Put them in order and describe the pattern. Predict roughly where a 20-year-old cousin might stop.",
-   "answer": "Kavya, her mother, her grandfather. The older the person, the lower they stop. A 20-year-old might stop somewhere between 16,000 and 18,000 hertz.",
-   "explain": "The numbers go down as age goes up. A 20-year-old is between Kavya and her mother in age, so a good guess is between their numbers. Real people vary, so it is only a prediction.",
+   "problem": "In a family pitch test, a child aged 9 heard up to 18,000 hertz, her mother (38) up to 16,000, and her grandfather (70) up to 9,000. Put them in order and describe the pattern. Predict roughly where a 20-year-old cousin might stop.",
+   "answer": "The child, her mother, her grandfather. The older the person, the lower they stop. A 20-year-old might stop somewhere between 16,000 and 18,000 hertz.",
+   "explain": "The numbers go down as age goes up. A 20-year-old is between the child and her mother in age, so a good guess is between their numbers. Real people vary, so it is only a prediction.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
    "context": "This is about the family pitch test, where a note rises until each person stops hearing it.",
    "how": "e2",
@@ -3036,12 +3036,12 @@
  "roots": {
   "context": "We have been learning how the ear catches sound, how to protect it, and which sounds other animals hear. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "At the lowest volume steps, the phone was playing, yet you heard nothing. The sound reached your ears, but it was too soft for them to catch. Bats, cats and elephants catch sounds that human ears miss. So a room that seems silent to you still has sounds in it.",
+   "truth": "In the Quietest Sound experiment, the phone was playing at the lowest volume steps, yet you heard nothing. The sound reached your ears, but it was too soft for them to catch. Bats, cats and elephants catch sounds that human ears miss. So a room that seems silent to you still has sounds in it.",
    "habit": "We say a room is 'silent' when we hear nothing, as if no sound were there. But silent only tells us about our own ears. The same room can be full of sound for a cat, a bat or a mouse.",
-   "evidence": "In the volume test, the phone was playing at step 1, but nobody heard it until a higher step. In the pitch test, a 20,000 hertz note is above what most people hear, and a dog would hear the note easily."
+   "evidence": "In the Quietest Sound experiment, the phone was playing at step 1, but nobody heard it until a higher step. In the family pitch test, a 20,000 hertz note is above what most people hear, but a dog would hear it easily."
   },
   "three": {
-   "who_am_i": "You are a listener with your own band of hearing. Your ears catch some sounds and miss others, and your band changes as you grow.",
+   "who_am_i": "You are a listener who hears only some of the sounds around you. Your ears catch some sounds and miss others, and what you can hear changes as you grow older.",
    "what_is_life": "Every creature hears what their own life needs. A moth hears the bat, a cat hears the mouse, and an elephant hears the herd far away.",
    "what_is_this_world": "The world is full of vibrations, far more than any one creature hears. Each listener hears their own part of it."
   },
@@ -3060,7 +3060,7 @@
    {
     "source": "John Cage, Silence, 1961",
     "teaching": "The composer John Cage sat in a room built to block all sound. He still heard two sounds, from his own body. He wrote that there is no such thing as empty time or empty space: there is always something to hear.",
-    "link": "In the volume test you found that a room can be playing sound while you hear nothing. Cage found that even the quietest room still has sound."
+    "link": "In the Quietest Sound experiment you found that a phone can be playing sound in a room while you hear nothing. Cage found that even the quietest room still has sound."
    }
   ],
   "science": [
@@ -3092,7 +3092,7 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat. The volume test needs a phone, a helper and a 3-metre space, and works in any quiet room with the fan off. On some phones the lowest volume step is already audible at 3 metres, so the step says to move further away. Ear covers never go inside the ear. The pitch test uses a free browser tone generator at a moderate volume, set at 1,000 hertz, without earphones. Phone speakers often can't play above about 16,000 to 18,000 hertz, so the step tells parents to try a laptop. The door test compares how much each note drops, because low notes sound softer to us at the same volume, and phone speakers play low notes weakly. Ear popping uses swallowing with the nose pinched, never blowing. Foam earplugs are kept away from children under 5. The spine fits about 85 minutes.",
  "how_we_found_out": {
-  "story": "In 1793, in Italy, Lazzaro Spallanzani wondered how bats fly at night without hitting anything. He covered the eyes of some bats, and they still flew around his room easily. In 1794 a Swiss surgeon, Louis Jurine, tried plugging bats' ears with wax instead. Now the bats bumped into walls. Spallanzani repeated the test and found the same. So hearing mattered. But nobody could hear any sound from the bats. The famous French scientist Georges Cuvier said bats must feel the air with the skin of their wings, by touch. Most people accepted that for more than a hundred years. Then in 1938, in America, a student named Donald Griffin brought bats to the physicist George Pierce. Pierce had built a machine that could pick up sounds too high for people to hear. When the bats flew in front of it, the machine was full of their calls. Bats call in ultrasound and listen to the echoes. Griffin later named this echolocation. The wrong idea came from one mistake: people thought that a sound they could not hear did not exist.",
+  "story": "In 1793, in Italy, Lazzaro Spallanzani wondered how bats fly at night without hitting anything. He covered the eyes of some bats, and they still flew around his room easily. In 1794 a Swiss surgeon, Louis Jurine, tried plugging bats' ears with wax instead. Now the bats bumped into walls. Spallanzani repeated the test and found the same. So hearing mattered. But nobody could hear any sound from the bats. The famous French scientist Georges Cuvier said bats must feel the air with the skin of their wings, by touch. Most people accepted that for more than a hundred years. Then in 1938, in America, a student named Donald Griffin brought bats to the physicist George Pierce. Pierce had built a machine that could pick up sounds too high for people to hear. When the bats flew in front of it, the machine picked up their calls, one after another. Bats call in ultrasound and listen to the echoes. Griffin later named this echolocation. The wrong idea came from one mistake: people thought that a sound they could not hear did not exist.",
   "who": "Lazzaro Spallanzani in Italy, Louis Jurine in Switzerland, Georges Cuvier in France, and Donald Griffin and George Pierce in America",
   "when": "1793 to 1794, and 1938",
   "wrong_idea": "Bats find their way by touch, feeling the air with their wings. Jurine's wax plugs showed that bats need their ears. Pierce's machine showed that bats make sounds too high for people to hear, and use the echoes to find their way."

@@ -3,7 +3,7 @@
  "title": "Crystals: how salt and sugar grow their own flat faces",
  "level": 3,
  "summary": {
-  "text": "Leave salty water to dry, and the salt comes back as tiny cubes, though nobody cut them. A crystal is a solid whose particles join in the same pattern again and again, so it grows flat faces and sharp corners. Each substance has its own shape: salt makes cubes, phitkari makes two pyramids joined at the base, and sugar makes slanted blocks. In this unit your child dries the same salt water fast on a plate and slowly in a glass, and finds out what decides a crystal's size and what decides its shape. They also crack a crystal, grow their own kalkandu on a thread, and meet the giant crystals of a cave in Mexico.",
+  "text": "Leave salty water to dry, and the salt comes back as tiny cubes, though nobody cut them. A crystal is a solid whose particles join in the same pattern again and again, so it grows flat faces and sharp corners. Each substance has its own shape: salt makes cubes, phitkari makes two pyramids joined at the base, and sugar makes slanted blocks. In this unit your child dries the same salt water fast on a plate and slowly in a glass, and finds out what decides a crystal's size and what decides its shape. They also crack a crystal, grow their own kalkandu on a thread, and learn about the giant crystals of a cave in Mexico.",
   "art": "A steel plate with a white crust of tiny salt grains next to a small glass with a few big clear salt cubes at the bottom, and a zoomed-in circle showing one cube with its flat faces."
  },
  "intro": {
@@ -90,7 +90,7 @@
    "concept": "Why a crystal has flat faces",
    "status": "defined",
    "definition": "A crystal has flat faces because new particles join it in rows that follow the same pattern. A row that is complete is flat, like a finished row of bricks in a wall.",
-   "description": "Think of laying bricks. If every brick goes into the pattern, the wall has a flat side, even though nobody smoothed it. A crystal is the same, with particles instead of bricks. When you cracked a kal uppu crystal, the pieces also had flat sides and square corners. That is because the crystal breaks most easily between its rows of particles, so even the broken sides follow the pattern.",
+   "description": "Think of laying bricks. If every brick goes into the pattern, the wall has a flat side, even though nobody smoothed it. A crystal is the same, with particles instead of bricks. In the Crack a Crystal activity, you press a kal uppu crystal until it cracks. The pieces also have flat sides and square corners. That is because the crystal breaks most easily between its rows of particles, so even the broken sides follow the pattern.",
    "examples": [
     "Crack a lump of rock salt (sendha namak) and the pieces have flat sides that meet in square corners.",
     "A diamond cutter finds the directions in which a diamond splits most easily, and uses them."
@@ -117,7 +117,7 @@
    "concept": "Slow growth makes bigger crystals",
    "status": "defined",
    "definition": "When a solution dries or cools slowly, a few crystals start and keep growing, so they become big. When it dries or cools fast, very many crystals start at once, so each stays tiny.",
-   "description": "On the plate, the water was thin and spread out, so it evaporated in a day or two. Salt particles were pushed out of the water all at once, and thousands of tiny crystals started everywhere. In the glass, the water evaporated slowly over days. Only a few crystals started, and new particles had time to join them. So the glass grew fewer, bigger crystals. Both were the same salt, and both made cubes.",
+   "description": "In the Fast Plate or Slow Glass experiment, the water on the plate was thin and spread out, so it evaporated in a day or two. Salt particles were pushed out of the water all at once, and thousands of tiny crystals started everywhere. In the glass, the water evaporated slowly over days. Only a few crystals started, and new particles had time to join them. So the glass grew fewer, bigger crystals. Both were the same salt, and both made cubes.",
    "examples": [
     "At the salt pans, slow drying grows bigger grains than fast drying.",
     "Kalkandu makers leave their syrup still for days, so the crystals grow big. Stirring and fast cooling give fine sugar instead.",
@@ -189,7 +189,7 @@
    "claim": "To grow the biggest crystals, make the salt water as salty as possible and dry it as fast as possible.",
    "who": "A common first guess",
    "for": "More salt and faster drying do give more salt quickly.",
-   "against": "Fast drying starts thousands of crystals at once, so each one stays tiny. Big crystals need slow, still growth. Your plate and glass test shows it.",
+   "against": "Fast drying starts thousands of crystals at once, so each one stays tiny. Big crystals need slow, still growth. The Fast Plate or Slow Glass experiment shows it.",
    "status": "rejected"
   },
   {
@@ -203,8 +203,8 @@
   {
    "context": "This card is about snowflakes.",
    "claim": "No two snowflakes are alike.",
-   "who": "A saying that is very common",
-   "for": "A big snowflake grows its arms through changing air on its fall, so each one takes its own path. Two big, branched flakes that match exactly have never been found.",
+   "who": "A very common saying",
+   "for": "A big snowflake grows its arms as it falls through changing air, and each flake falls by its own path. Two big, branched flakes that match exactly have never been found.",
    "against": "In 1988, Nancy Knight, a scientist in the USA, found two tiny, simple snow crystals, shaped like short six-sided columns, that looked the same under her microscope.",
    "status": "debated"
   }
@@ -213,7 +213,7 @@
   {
    "q": "Nobody shapes a salt crystal, yet it comes out as a neat cube. Where does the shape come from?",
    "kind": "deep",
-   "hint": "Think about your fast plate and your slow glass. The size changed. Did the shape?"
+   "hint": "In the Fast Plate or Slow Glass experiment, the size of the crystals changed. Did the shape?"
   },
   {
    "q": "If you cracked a salt crystal again and again, would the pieces always have square corners?",
@@ -270,7 +270,7 @@
   ],
   "epiphany": "For the parent: both tumblers held the same sugar syrup. Arjun cooled his fast and stirred it, so huge numbers of tiny crystals started at once and the syrup set into fine grains. Nila's syrup cooled slowly and stayed still, so only a few crystals started on the string, and the dissolved sugar joined them over days. Under the phone, Arjun's grains had the same slanted faces as Nila's crystals. The speed decided the size. The sugar decided the shape. This is the same thing your child sees in the Fast Plate or Slow Glass experiment with salt.",
   "ask": [
-   "Arjun and Nila used the same syrup. Why did Arjun get sand and Nila get big crystals?",
+   "Arjun and Nila used the same syrup. Why did Arjun get fine, sandy sugar and Nila get big crystals?",
    "What did Nila see when she zoomed in on Arjun's sandy sugar?",
    "Why do you think Valli Athai's rule was that nobody touches the pots?",
    "If you wanted kalkandu fast, is there any way to hurry it without making it sandy?",
@@ -414,7 +414,7 @@
     "Shuffle the 16 solid cards and put them in a pile with the names facing up and the answers underneath.",
     "On your turn, take the top card and read the name aloud. Do not turn the card over.",
     "Put it on 'Crystal' or 'Not a crystal', and give one clue.",
-    "Now turn the card over. Right: keep the card. Wrong: the card stays on the table and nobody keeps it. A good clue, such as 'it has flat faces' or 'it was cooled fast': 1 more point.",
+    "Now turn the card over. If you were right, keep the card. If you were wrong, the card stays on the table and nobody keeps it. A good clue, such as 'it has flat faces' or 'it was cooled fast', earns 1 more point.",
     "The game ends when the pile is finished. Each card you kept is 1 point. The most points wins, and a tie is shared.",
     "Playing alone, try to keep all 16 cards with a clue for each."
    ],
@@ -592,10 +592,10 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Link the game to the plate and the glass.",
-     "say": "Which round was like the fast plate? Which was like the slow glass?",
-     "kid": "Which round was like the plate? Which was like the glass?",
-     "think": "In both rounds you coloured 12 squares. Where did the same amount of salt go?"
+     "do": "Link the game to the Fast Plate or Slow Glass experiment.",
+     "say": "In the Fast Plate or Slow Glass experiment, the plate dried fast and the glass dried slowly. Which round was like the plate? Which was like the glass?",
+     "kid": "In the Fast Plate or Slow Glass experiment, the plate dried fast and the glass slowly. Which round was like the plate? Which was like the glass?",
+     "think": "Both rounds used the same amount of salt: 12 squares. How was it shared out differently in each round?"
     }
    ]
   }
@@ -726,7 +726,7 @@
        ]
       }
      ],
-     "parent": "Keep the leftover salt water in a closed bottle. You can use it for the challenge of growing the biggest crystal."
+     "parent": "Keep the leftover salt water in a closed bottle. You can use it for the Grow the Biggest Salt Crystal challenge."
     },
     {
      "id": "s4",
@@ -797,7 +797,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: slow drying grows bigger crystals, but the shape stays the same. What I saw: the plate grains were about 1 millimetre, and the glass crystal was 5 millimetres. Both were cubes. Why: in the glass, a few crystals had days to grow. The salt makes cubes, however fast it dries."
     }
    ],
@@ -980,7 +980,7 @@
      "mins": 8,
      "do": "Ask your child to say or write three sentences: what I think, what I saw, and why.",
      "say": "What do you think now about crystal shapes? What did you see? Why might each substance grow its own shape?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer sounds like this. What I think: each substance grows its own crystal shape. What I saw: salt made cubes, phitkari made triangle faces, and sugar made slanted blocks. Why: the particles of each substance join in their own pattern, and the pattern repeats until the crystal is big enough to see.",
      "think": "If you grew phitkari again, slowly, in a bigger glass, would it still have triangle faces?"
     }
@@ -1084,7 +1084,7 @@
        "Round, like tiny beads"
       ],
       "a": 1,
-      "why": "Salt breaks most easily between its rows of particles. So the broken sides follow the same square pattern, and the pieces are small blocks. Picking 'jagged' is what glass does, because glass has no pattern inside. Picking 'round' is how worn sand grains look, after years of rubbing."
+      "why": "Salt breaks most easily between its rows of particles. So the broken sides follow the same square pattern, and the pieces are small blocks. 'Jagged' is how glass breaks, because glass has no pattern inside. 'Round' is how worn sand grains look, after years of rubbing."
      },
      "parent": "Many pieces will have smooth, flat sides that meet at square corners, like tiny bricks. This splitting along flat sides is called cleavage. The pieces are tiny, so zoom in. Not every piece will be perfect, and some salt will turn to powder. That is normal. If most of it turns to powder, try again on a bigger grain, pressing even more slowly.",
      "think": "If you could crack the smallest piece again and again, would the pieces always be little blocks?"
@@ -1411,7 +1411,7 @@
      "id": "s3",
      "mins": 15,
      "do": "On days 3, 5 and 7, look at the thread through the glass without lifting it. Draw it, and measure the biggest crystal.",
-     "say": "Don't move the jar. What is growing on the thread? Is it growing faster or slower than the salt in the glass?",
+     "say": "Don't move the jar. What is growing on the thread? Is it growing faster or slower than the salt in the slow glass of the Fast Plate or Slow Glass experiment?",
      "kid": "Look, but don't move the jar. Draw the thread. How big is the biggest crystal?",
      "parent": "Crystals usually show by day 3 and keep growing for a week or more. If a hard crust forms on top, break it gently so the water can keep evaporating. If nothing has grown by day 4, the syrup was not strong enough. A grown-up can pour it back into the pan, add half a cup more sugar, heat it until dissolved, cool it, and try again."
     },
@@ -1443,7 +1443,7 @@
    "title": "Grow the Biggest Salt Crystal",
    "mins": 30,
    "context": "This is a challenge. You use what you learned about slow growth to grow one salt crystal as big as you can.",
-   "problem": "Kavya, a girl in Class 3 in Kochi, wants to grow one salt crystal as big as her fingernail for the school science table. Her first try on a plate gave only tiny grains. Help her design a better way.",
+   "problem": "You want to grow one salt crystal as big as your fingernail. Drying salt water on a plate gives only tiny grains. Design a better way.",
    "constraints": [
     "Use only salt, water and things from home.",
     "You have two weeks.",
@@ -1484,8 +1484,8 @@
      "mins": 5,
      "context": "This is the start of the Grow the Biggest Salt Crystal challenge.",
      "do": "Read the problem aloud. Look at the crystals from your slow glass.",
-     "say": "The plate in the problem gave only tiny grains. What did our experiment show about growing big crystals?",
-     "kid": "The girl in the problem wants one big salt crystal. What did your test show about big crystals?"
+     "say": "Drying salt water on a plate gave only tiny grains. What did the Fast Plate or Slow Glass experiment show about growing big crystals?",
+     "kid": "The problem asks for one big salt crystal. What did the Fast Plate or Slow Glass experiment show about big crystals?"
     },
     {
      "id": "s2",
@@ -1510,7 +1510,7 @@
    "title": "Salt or Sugar? Tell them apart without tasting",
    "mins": 20,
    "context": "This is a challenge. Two dabbas have lost their labels. You tell salt from sugar without tasting, using what you know about crystals.",
-   "problem": "Lakshmi, a girl in Class 4, is visiting her Paati in Mysuru. Paati has two dabbas of white grains with no labels. One is salt and one is sugar. Paati has diabetes, so she must not taste the sugar to check. How can Lakshmi tell which is which?",
+   "problem": "Two dabbas of white grains have no labels. One is salt and one is sugar. Nobody may taste them to check. How can you tell which is which?",
    "constraints": [
     "Nobody may taste the grains.",
     "Use only things from home.",
@@ -1530,7 +1530,7 @@
     "Put a pinch of each near an ant trail. Ants go to sugar.",
     "Grow crystals from each. Salt water dried slowly grows cubes. Sugar water dries to a sticky patch."
    ],
-   "your_turn": "Now invent your own test. Draw it, try it, and explain to Lakshmi why it works.",
+   "your_turn": "Now invent your own test. Draw it, try it, and explain why it works.",
    "setup": [
     {
      "art": "Two steel dabbas of white grains with no labels, and a pinch from each on a dark plate.",
@@ -1563,7 +1563,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask your child to explain their answer to a friend who cannot see the grains.",
-     "say": "How would you explain to a friend that your test is reliable?",
+     "say": "How would you show a friend that your test can be trusted?",
      "kid": "Tell a friend which dabba is salt. How do you know?",
      "think": "Would the shape test still work if the salt were ground into fine powder?"
     }
@@ -1611,7 +1611,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nandini, a girl in Class 3, leaves a plate of salt water in the sun until it dries. Where did the white crust come from?",
+   "p": "A plate of salt water is left in the sun until it dries. Where did the white crust come from?",
    "opts": [
     "The salt that was dissolved in the water",
     "Dust from the air",
@@ -1636,7 +1636,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the plate and glass test, what was the same for both crystals?",
+   "p": "In the Fast Plate or Slow Glass experiment, what was the same for the crystals from both dishes?",
    "opts": [
     "Their size",
     "Their cube shape",
@@ -1698,7 +1698,7 @@
   },
   {
    "t": "mcq",
-   "p": "No two quartz crystals look exactly alike. Why might someone wrongly think crystals of one kind follow no rule?",
+   "p": "No two quartz crystals look exactly alike, yet they all follow one rule. Why is the rule hard to see?",
    "opts": [
     "Their faces grow to different sizes, which hides that the angles stay the same",
     "They are all perfect cubes",
@@ -1710,7 +1710,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shruti, a girl in Class 3, wants big kalkandu crystals on a thread. What should she do?",
+   "p": "You want big kalkandu crystals on a thread. What should you do?",
    "opts": [
     "Stir the syrup every day",
     "Cool the syrup in cold water",
@@ -1741,7 +1741,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi, a girl in Class 3, looks at salt grains with her phone zoomed in. What shape are most of the single grains?",
+     "p": "Look at salt grains with a phone zoomed in. What shape are most of the single grains?",
      "opts": [
       "Little balls",
       "Little cubes",
@@ -1845,7 +1845,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the biggest crystal you grew in the slow glass. Draw it as big as your hand. Label one face and one corner.",
+     "p": "Draw the biggest crystal you grew in the slow glass of the Fast Plate or Slow Glass experiment. Draw it as big as your hand. Label one face and one corner.",
      "a": "A cube or a square-sided block, with a face and a corner labelled.",
      "why": "A strong drawing shows flat faces meeting at square corners.",
      "how": "e1"
@@ -1921,7 +1921,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Moni, a girl in Class 4 in Guwahati, dries salt water fast on a hot plate in the sun. What will she most likely get?",
+     "p": "Salt water is dried fast on a hot plate in the sun. What will you most likely get?",
      "opts": [
       "One big cube",
       "A crust of many tiny grains",
@@ -1932,7 +1932,7 @@
     },
     {
      "t": "mcq",
-     "p": "Phitkari dissolves well in hot water. Mary, a girl in Class 3, leaves hot phitkari water to cool overnight. Why do crystals grow?",
+     "p": "Phitkari dissolves well in hot water. Hot phitkari water is left to cool overnight. Why do crystals grow?",
      "opts": [
       "Cold water holds less phitkari, so the extra comes out as crystals",
       "The cold makes new phitkari",
@@ -1955,9 +1955,9 @@
        "says": "Nobody shapes the salt. Salt grows cubes by itself, because of how its particles join."
       }
      ],
-     "ask": "Who do you agree with? Give a reason from one of your tests. Then say one thing the other sister has right.",
+     "ask": "Who do you agree with? Give a reason from one of your experiments or activities. Then say one thing the other sister has right.",
      "lines": 4,
-     "a": "A strong answer agrees with Divya, using the glass test, where cubes grew with nobody touching them, or the cracked crystal, whose pieces were also blocks. It says Priya is right that workers rake the salt, but raking moves it into heaps, and it does not shape each grain.",
+     "a": "A strong answer agrees with Divya. It uses the Fast Plate or Slow Glass experiment, where cubes grew in the glass with nobody touching them, or the Crack a Crystal activity, where the pieces were also blocks. It says Priya is right that workers rake the salt, but raking only moves it into heaps. It does not shape each grain.",
      "why": "Raking is real, but it only gathers the grains. Each grain's cube shape comes from the salt itself, as the home tests show."
     },
     {
@@ -2019,12 +2019,12 @@
      "t": "write",
      "p": "The salt pans at Thoothukudi are wide and shallow, not deep tanks. Why does shallow sea water in hot sun give salt faster?",
      "lines": 3,
-     "a": "A thin layer has a large surface, so the water evaporates quickly in the sun. The salt stays behind. The grains will be small, as on the plate.",
+     "a": "A thin layer has a large surface, so the water evaporates quickly in the sun. The salt stays behind. The grains will be small, as on the plate in the Fast Plate or Slow Glass experiment.",
      "why": "A strong answer links a thin, wide layer and hot sun to fast evaporation, and may say fast drying gives small grains."
     },
     {
      "t": "write",
-     "p": "Your seed crystal sat in fresh salt water and grew bigger. Why does new salt join the seed crystal instead of starting new crystals?",
+     "p": "In the Grow the Biggest Salt Crystal challenge, a seed crystal sits in fresh salt water and grows bigger. Why does new salt join the seed crystal instead of starting new crystals?",
      "lines": 3,
      "a": "Because the seed already has the pattern. It is easier for particles to join a pattern that is there than to start a new one from nothing.",
      "why": "A strong answer says the seed gives particles a ready pattern to join."
@@ -2110,16 +2110,16 @@
        "says": "They grew so big because the cave is huge, so they had room."
       }
      ],
-     "ask": "Which reason matters most? Use your plate and glass test in your answer. Then say what the other two have right.",
+     "ask": "Which reason matters most? Use the Fast Plate or Slow Glass experiment in your answer. Then say what the other two have right.",
      "lines": 5,
-     "a": "A strong answer picks Dr Rosa's slow, still growth, using the glass test. It says Meera is right that the water must hold enough of the mineral, and Kabir is right that the crystals needed room, but neither alone makes a few crystals grow huge.",
-     "why": "All three play a part. But a full solution that dries or cools fast makes many small crystals, as the plate showed. Slowness is the key."
+     "a": "A strong answer picks Dr Rosa's slow, still growth, using the slow glass from the Fast Plate or Slow Glass experiment. It says Meera is right that the water must hold enough of the mineral, and Kabir is right that the crystals needed room, but neither alone makes a few crystals grow huge.",
+     "why": "All three play a part. But a full solution that dries or cools fast makes many small crystals, as the plate in the Fast Plate or Slow Glass experiment showed. Slowness is the key."
     },
     {
      "t": "write",
-     "p": "Sana, a girl in Class 4, says: 'My salt crystals are lopsided, so they are not real cubes.' Is she right? Explain using the angles between the faces.",
+     "p": "Someone says: 'My salt crystals are lopsided, so they are not real cubes.' Is that right? Explain using the angles between the faces.",
      "lines": 3,
-     "a": "She is partly right that they are not perfect cubes. But their faces still meet at square corners. When a crystal grows unevenly, only the sizes of the faces change, not the angles.",
+     "a": "It is partly right: they are not perfect cubes. But their faces still meet at square corners. When a crystal grows unevenly, only the sizes of the faces change, not the angles.",
      "why": "A strong answer separates face size, which can change, from the angles, which stay the same."
     },
     {
@@ -2127,11 +2127,11 @@
      "p": "Glass is made by melting sand, and sand is mostly broken quartz crystals. Why is glass not a crystal?",
      "lines": 3,
      "a": "Because when the melted sand cools fast, its particles freeze in a jumble before they can join in a pattern.",
-     "why": "A strong answer says the pattern was lost when melted, and fast cooling stopped it forming again."
+     "why": "A strong answer says the pattern was lost when the sand melted, and fast cooling stopped it forming again."
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3, puts two seed crystals in the same glass of salt water. One is a salt cube, one is a sugar grain. What will happen?",
+     "p": "Two seed crystals are put in the same glass of salt water. One is a salt cube and one is a sugar grain. What will happen?",
      "opts": [
       "Both grow salt",
       "The salt cube grows, and the sugar grain dissolves",
@@ -2175,7 +2175,7 @@
       "Add salt"
      ],
      "a": 1,
-     "why": "Fast cooling and stirring start very many tiny crystals. That is how Arjun's syrup turned sandy."
+     "why": "Fast cooling and stirring start very many tiny crystals. In the story Arjun's Sandy Kalkandu, that is how Arjun's syrup turned sandy."
     },
     {
      "t": "fill",
@@ -2233,7 +2233,7 @@
     },
     {
      "t": "write",
-     "p": "Can you think of a reason why a big crystal might be useful to a scientist, even if small crystals of the same thing are easy to make?",
+     "p": "Small crystals are easy to make. Why might a scientist still want a big crystal of the same thing?",
      "lines": 3,
      "a": "A big crystal is easier to measure, cut and study, and X-rays give clearer spots from a bigger crystal.",
      "why": "Any well-reasoned use is good: easier to see, cut, measure or study."
@@ -2330,7 +2330,7 @@
   }
  ],
  "ask_kids": [
-  "Look at the salt on your plate. Is every grain a cube?",
+  "Put a pinch of salt on a dark plate and zoom in with the phone camera. Is every grain a cube?",
   "Why do you think kalkandu is clear, but table salt looks white?",
   "If you wanted bigger salt crystals, would you put the glass in the sun or on a shelf? Why?",
   "Is ice a crystal? How could you check?",
@@ -2380,7 +2380,7 @@
  "maths": [
   {
    "context": "This is about the Fast Plate or Slow Glass test. You measured the biggest crystal from each dish.",
-   "problem": "Meenakshi did the plate and glass test. Her biggest plate crystal was 1 millimetre across. Her biggest glass crystal was 6 millimetres across. How many plate crystals, lined up side by side, would reach across the glass crystal?",
+   "problem": "In a Fast Plate or Slow Glass test, the biggest plate crystal was 1 millimetre across. The biggest glass crystal was 6 millimetres across. How many plate crystals, lined up side by side, would reach across the glass crystal?",
    "answer": "6 plate crystals.",
    "explain": "6 divided by 1 is 6. So 6 tiny plate crystals in a row are as wide as one glass crystal.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -2397,7 +2397,7 @@
   },
   {
    "context": "This is about the faces of a salt crystal. A salt crystal is a cube, like a dice.",
-   "problem": "How many faces, edges and corners does a salt cube have? Nila, in the story, finds 4 salt cubes stuck together in a row. How many faces of the row can you see from outside?",
+   "problem": "How many faces, edges and corners does a salt cube have? Now 4 salt cubes are stuck together in a row. How many faces of the row can you see from outside?",
    "answer": "A cube has 6 faces, 12 edges and 8 corners. A row of 4 has 18 faces showing.",
    "explain": "Each cube has 6 faces, so 4 cubes have 24. Where two cubes touch, 2 faces are hidden, one on each. A row of 4 has 3 joins, so 3 times 2 is 6 faces hidden. 24 take away 6 is 18.",
    "math_unit": "math.shapes-3d.faces-edges-vertices.L3",
@@ -2405,14 +2405,14 @@
   },
   {
    "context": "This is about the Grow Your Own Kalkandu project. You measured the biggest crystal on the thread every few days.",
-   "problem": "Shruti, a girl in Class 3, grew kalkandu on a thread and measured her biggest sugar crystal. Day 3: 1 millimetre. Day 5: 3 millimetres. Day 7: 5 millimetres. If it keeps growing the same way, how big will it be on day 9? Why might it slow down later?",
+   "problem": "The biggest sugar crystal on a kalkandu thread was measured. Day 3: 1 millimetre. Day 5: 3 millimetres. Day 7: 5 millimetres. If it keeps growing the same way, how big will it be on day 9? Why might it slow down later?",
    "answer": "About 7 millimetres on day 9. It may slow down because the syrup has less sugar left to give.",
    "explain": "It grows 2 millimetres every 2 days: 1, 3, 5, so next is 7. But each crystal takes sugar out of the syrup. As the syrup holds less spare sugar, growth slows unless more water evaporates.",
    "math_unit": "math.patterns.number-patterns.L3",
    "how": "p1",
    "chart": {
     "type": "line",
-    "title": "Shruti's biggest crystal (made-up results)",
+    "title": "The biggest crystal on the thread (made-up results)",
     "x": "Day",
     "y": "Size (mm)",
     "data": [
@@ -2613,9 +2613,9 @@
  "roots": {
   "context": "We have grown salt crystals fast and slowly, and seen that each substance grows its own shape. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Both dishes held the same salt water. The fast plate grew many tiny grains and the slow glass fewer, bigger ones. Under the lens, both had flat faces and square corners. Drying speed changed their size, and the salt gave them their shape.",
+   "truth": "In the Fast Plate or Slow Glass experiment, both dishes held the same salt water. The fast plate grew many tiny grains and the slow glass grew fewer, bigger ones. Zoomed in, both had flat faces and square corners. The drying speed changed their size. The salt gave them their shape.",
    "habit": "We think a neat shape must be made from outside, by a mould, a knife or a maker's hands. Salt makes its own cubes, because its particles always join in the same square pattern.",
-   "evidence": "In the plate and glass test, the size changed but both made cubes. Cracked kal uppu broke into smaller blocks. Phitkari and sugar each grew their own different shape, in the same kind of glass."
+   "evidence": "In the Fast Plate or Slow Glass experiment, the size changed but both dishes made cubes. In the Crack a Crystal activity, kal uppu broke into smaller blocks. In the Salt, Sugar or Phitkari experiment, phitkari and sugar each grew their own shape, different from salt."
   },
   "three": {
    "who_am_i": "Your body grows crystals too. The enamel on your teeth is made of tiny crystals that your body built from the calcium in your food.",
@@ -2627,7 +2627,7 @@
    {
     "source": "Tao Te Ching, chapter 64",
     "teaching": "A tree as wide as your arms can reach grows from a tiny shoot. A tower nine storeys high starts from a heap of earth. A journey of a thousand miles starts beneath your feet.",
-    "link": "Your biggest crystal grew the same way, one tiny particle at a time, over days. The slow glass shows that big things need many small steps, not a rush."
+    "link": "Your biggest crystal grew the same way, one tiny particle at a time, over days. The slow glass in the Fast Plate or Slow Glass experiment shows that big things need many small steps, not a rush."
    },
    {
     "source": "Plato, Timaeus (about 360 BCE)",

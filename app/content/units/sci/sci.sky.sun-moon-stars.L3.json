@@ -3,7 +3,7 @@
  "title": "Sun, Moon and stars: why the Sun is a star and the Moon is not",
  "level": 3,
  "summary": {
-  "text": "The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried far down a corridor shows how a huge light can look like a tiny dot.",
+  "text": "The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. In the near lamp, far lamp test, a torch carried far down a corridor looks like a tiny dot. This shows how a huge light can look tiny when it is far away.",
   "art": "A night sky over an Indian rooftop: a big glowing Sun drawn in a corner with rays, a pale Moon with an arrow showing sunlight bouncing off it, a steady bright planet low in the west, and many tiny stars, each with a small faint sun-shape drawn beside it."
  },
  "intro": {
@@ -18,7 +18,7 @@
   "I can describe the Sun's family: the Sun in the middle, eight planets going round it, the Earth among them, and moons going round planets.",
   "I can explain that the Sun shines because hydrogen deep inside it joins up to make helium, and that stars are made mostly of hydrogen and helium.",
   "I can say what scientists agree about, what they still argue about, and who did the work, including people who were not given the credit.",
-  "I can follow the idea all the way out: starlight is old light, the atoms in my body were made in stars, and many other stars have planets.",
+  "I can explain three big ideas: starlight is old light, the atoms in my body were made in stars, and many other stars have planets.",
   "I can look at the Sun safely with a pinhole viewer, and I never look straight at the Sun."
  ],
  "cards_mins": 20,
@@ -169,7 +169,7 @@
    "concept": "The Sun is a star, the nearest one",
    "status": "defined",
    "definition": "The Sun is a star. It is the same kind of thing as the stars we see at night. It looks so much bigger and brighter only because it is so much nearer to us.",
-   "description": "The Sun is enormous. About 109 Earths would fit across its middle, side by side, like beads on a string. More than a million Earths could fit inside it. It is about 15 crore kilometres away. That is 150 million kilometres. A car going at 100 kilometres an hour, day and night without stopping, would take about 170 years to get there. Its surface is about 5,500 degrees Celsius, far hotter than any kitchen fire. The next nearest stars are about 270,000 times further away than the Sun. That is why they look like pinpricks.",
+   "description": "The Sun is enormous. About 109 Earths would fit across its middle, side by side, like beads on a string. More than a million Earths could fit inside it. It is about 15 crore kilometres away. That is 150 million kilometres. A car going at 100 kilometres an hour, day and night without stopping, would take about 170 years to get there. The Sun's surface is about 5,500 degrees Celsius, far hotter than any kitchen fire. The next nearest stars are about 270,000 times further away than the Sun. That is why they look like pinpricks.",
    "examples": [
     "If the Earth were a mustard seed, the Sun would be a ball about as big as a football, 24 metres away.",
     "A torch held near your face looks big and dazzling. The same torch far down the road looks like a small dot.",
@@ -177,7 +177,7 @@
    ],
    "perspectives": [],
    "art": "A football-sized Sun and a mustard seed Earth on a long path, with a measuring tape between them.",
-   "context": "Is the Sun a different thing from the stars? This card answers the puzzle from the start of the unit."
+   "context": "Is the Sun a different kind of thing from the stars, or the same kind of thing, just much closer? This card answers that question."
   },
   {
    "concept": "Why stars look tiny: distance",
@@ -191,7 +191,7 @@
    ],
    "perspectives": [],
    "art": "A torch beam spreading out like a cone, with a big bright splash close to the torch and a faint thin patch far away.",
-   "context": "Remember the near lamp and far lamp test, where a torch looked smaller and dimmer as it moved away? This card explains why, and what it means for stars.",
+   "context": "In the near lamp, far lamp test, a torch looked smaller and dimmer as it moved away. This card explains why, and what it means for stars.",
    "chart": {
     "type": "table",
     "title": "How long light takes to reach us",
@@ -301,7 +301,7 @@
    "concept": "What stars are made of, and who found out",
    "status": "defined",
    "definition": "Stars, including the Sun, are made mostly of hydrogen and helium. Scientists found this by splitting starlight into its colours and reading the dark lines in it.",
-   "description": "Shine sunlight through a prism and you get a rainbow. Look very closely and the rainbow has thin dark lines in it. Each kind of atom makes its own set of lines, like a fingerprint. So starlight tells us what a star is made of, without anyone going there. But the lines are hard to read, because heat changes them. In 1920 Meghnad Saha, a scientist from a poor family in a village near Dhaka, worked out how a star's heat changes its lines. In 1925 Cecilia Payne, a young English student at Harvard in the United States, used Saha's idea on the lines of many stars. She found that stars are mostly hydrogen and helium, not the same mix as the Earth. The most famous astronomer in America at the time, Henry Norris Russell, told her this was impossible. She softened her claim. Four years later, Russell agreed with her, and for years many books gave him the credit.",
+   "description": "Shine sunlight through a prism and you get a rainbow. Look very closely and the rainbow has thin dark lines in it. Each kind of atom makes its own set of lines, like a fingerprint. So starlight tells us what a star is made of, without anyone going there. But the lines are hard to read, because heat changes them. In 1920 Meghnad Saha, a scientist from a poor family in a village near Dhaka, worked out how a star's heat changes its lines. In 1925 Cecilia Payne, a young English student at Harvard in the United States, used Saha's idea on the lines of many stars. She found that stars are mostly hydrogen and helium, not the same mix as the Earth. The most famous astronomer in America at the time, Henry Norris Russell, told her this was impossible. So she wrote that her result was probably not real. Four years later, Russell agreed with her, and for years many books gave him the credit.",
    "examples": [
     "The Sun is about three quarters hydrogen and one quarter helium. All the other kinds of atom together make only about 2 parts in every 100.",
     "Helium was first found in sunlight, in 1868, before anyone found it on Earth. Its name comes from Helios, the Greek word for the Sun.",
@@ -381,7 +381,7 @@
   {
    "concept": "What we can see is only a small part",
    "status": "debated",
-   "description": "Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. When Vera Rubin was a student, Princeton University would not let her study astronomy there, because it did not take women. She kept working, and never got a Nobel Prize.",
+   "description": "Stars and the glowing gas around them are what we can see. But in the 1970s Vera Rubin, an American astronomer, and her colleague Kent Ford measured how fast stars go round in galaxies. The outer stars were moving far too fast. With only the matter we can see, their galaxies should fly apart. Something unseen seems to be holding them. When Vera Rubin was a student, Princeton University would not let her study astronomy there, because it did not take women. She kept working, but she never got a Nobel Prize.",
    "examples": [
     "If dark matter is real, there is about five times as much of it as all the stars, planets and gas put together.",
     "Huge machines deep underground are waiting to catch a single particle of dark matter. None has been caught yet."
@@ -403,7 +403,7 @@
  "agreed": [
   {
    "text": "The Sun is a star, the same kind of thing as the stars we see at night.",
-   "evidence": "Split the Sun's light and a star's light into colours, and both have the same kinds of dark lines, made by the same atoms. In 1838, Friedrich Bessel measured how far away a star was for the first time. It was so far that it had to be as bright as a sun to be seen at all."
+   "evidence": "Split the Sun's light and a star's light into colours, and both have the same kinds of dark lines, made by the same atoms. In 1838, Friedrich Bessel became the first person to measure how far away a star is. It was so far that it had to be as bright as a sun to be seen at all."
   },
   {
    "text": "Stars make their own light. The Moon and the planets shine only with reflected sunlight.",
@@ -445,7 +445,7 @@
   {
    "claim": "Stars are small sparks or little holes in a dark sky-cloth, much smaller than the Moon.",
    "who": "Many people in the past. Children everywhere still think this at first.",
-   "for": "Stars look tiny. They are much smaller than the Moon to our eyes.",
+   "for": "Stars look tiny. To our eyes, they look much smaller than the Moon.",
    "against": "Things look smaller the further away they are. When astronomers measured how far away stars are, they found that stars must be as bright as suns to be seen at all. Many are much bigger than the Sun.",
    "status": "rejected",
    "context": "This card is about an old idea of what stars are, and why scientists gave it up."
@@ -503,7 +503,7 @@
   {
    "q": "If the Sun is a star, and every star is a sun, could someone on a faraway planet be looking at our Sun right now, and calling it just a star?",
    "kind": "big",
-   "hint": "What would the Sun look like from very, very far away? Think of the torch at the end of the road."
+   "hint": "What would the Sun look like from very, very far away? A torch far down the road looks like a small dot."
   },
   {
    "q": "When you look at a star, you see light that left it years ago. Are you seeing the star now, or the star as it used to be?",
@@ -565,7 +565,7 @@
    "Sai was nine, and she had been inside the lighthouse. That made her different from her cousin Karthik, who was eleven and knew everything. The lighthouse stood on the black rocks at the end of the bay, striped red and white. One hot afternoon in May, the keeper, Mrs Fernandes, let her climb all one hundred and twelve steps to the top.",
    "At the top was the lamp. Sai had expected something like the lantern in their kitchen. Instead there was a giant glass beehive, taller than her father, made of rings and rings of thick, curved glass. In the middle sat a bulb as fat as a coconut. 'The glass gathers the light into a beam,' said Mrs Fernandes. 'The whole thing turns. The boats see two quick flashes, then darkness, then two flashes again. Every lighthouse on this coast has its own pattern, so the sailors know which one they are looking at.'",
    "'Can the boats see it from very far?' Sai asked.",
-   "'Thirty kilometres and more,' she said. Then she tapped the great glass. 'But from out there, it does not look like this. From out there, my lamp looks like one small star sitting on the edge of the sea.'",
+   "'Thirty kilometres and more,' said Mrs Fernandes. Then she tapped the great glass. 'But from out there, it does not look like this. From out there, my lamp looks like one small star sitting on the edge of the sea.'",
    "Sai did not believe her. Nothing that big could ever look that small.",
    "That evening on the roof, Karthik explained the sky to her. 'The Sun is the king,' he said. 'It is the biggest fire there is. The stars are its little sparks. They are tiny, like the sparks from Amma's wood stove.' Sai looked up. The stars did look like sparks. But she remembered the beehive of glass, and she said nothing.",
    "In the last week before the monsoon, the sea was flat and the fish came close. Sai's father let both children come out on the boat for one night, to help with the nets. Her aunt came too. They left at dusk with a lantern swinging at the front. Behind them, the lighthouse began to wink. Two flashes and darkness. Two flashes and darkness. It grew smaller and smaller as the land slid away.",
@@ -1061,7 +1061,7 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Class 3, says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain her mistake.",
+     "p": "Someone says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain the mistake.",
      "how": "e2",
      "context": "In the Own Light or Reflected Light test, you put a steel plate, a white ball and a torch on a table, make the room dark, and see which things you can still see.",
      "lines": 4,
@@ -1223,13 +1223,13 @@
        "says": "Pluto is round, has five moons, mountains of ice and a thin sky of air. It does everything a planet does. It is a planet."
       },
       {
-       "who": "Ananya, aged 9",
+       "who": "A child aged 9",
        "says": "If Pluto counts, then Eris and other icy bodies just as big must count too. We could end up with dozens of planets."
       }
      ],
      "ask": "Do you think Pluto should be called a planet? Give a reason. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer takes a side with a clear reason. For example, against: the rule of clearing the path keeps the list short and clear, and Ananya is right that Eris is about as big as Pluto. Or for: Pluto is round, has moons and weather, like the planets. It then admits a fair point from another side.",
+     "a": "A strong answer takes a side with a clear reason. For example, against: the rule of clearing the path keeps the list short and clear, and the child aged 9 is right that Eris is about as big as Pluto. Or for: Pluto is round, has moons and weather, like the planets. It then admits a fair point from another side.",
      "why": "This is a real argument about how to sort things, not about facts. Everyone agrees on what Pluto is like. They disagree about where to draw the line for the word 'planet'."
     },
     {
@@ -1280,7 +1280,7 @@
     },
     {
      "t": "write",
-     "p": "A boy aged 11 says stars are tiny sparks. His cousin has seen a lighthouse lamp that is taller than a man, yet from far out at sea it looks like one small star. Use that lamp to explain why stars might be giant suns.",
+     "p": "In the story The Lamp That Looked Like a Star, a lighthouse lamp is taller than a man. Yet from far out at sea it looks like one small star. Use that lamp to explain why stars might be giant suns.",
      "lines": 4,
      "a": "The lamp is taller than a man, but from far out at sea it looks like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.",
      "why": "A strong answer links looking small to being far away, not to being small.",
@@ -1445,15 +1445,15 @@
      "p": "Bright streetlights help people at night, but they also light up the sky. On Chennai's beaches, baby sea turtles hatch at night and should crawl towards the sea.",
      "views": [
       {
-       "who": "Selvi, an auto driver in Chennai",
+       "who": "An auto driver in Chennai",
        "says": "Bright lights keep the roads safe. I need to see people walking and dogs crossing. Do not make the streets darker."
       },
       {
-       "who": "Meenakshi, who helps sea turtles on the beach",
+       "who": "A person who helps sea turtles on the beach",
        "says": "Baby turtles crawl towards the brightest light. Near bright streetlights, they crawl the wrong way, onto the road, instead of to the sea."
       },
       {
-       "who": "Asha, who loves watching stars",
+       "who": "A person who loves watching stars",
        "says": "Most children in our city have never seen the Milky Way. The light shining up into the sky is wasted, and it hides the stars."
       }
      ],
@@ -1891,7 +1891,7 @@
        "Exactly the same"
       ],
       "a": 0,
-      "why": "The light from the Sun spreads out after it goes through the hole, so the further the paper, the bigger the picture. At 1 metre it is about 1 centimetre wide, and at 2 metres about 2 centimetres. The same light is spread over a bigger circle, so it looks dimmer. Picking 'smaller' usually comes from thinking further means smaller, as with the torch. Here the hole is making a picture, and the picture grows."
+      "why": "The light from the Sun spreads out after it goes through the hole, so the further the paper, the bigger the picture. At 1 metre it is about 1 centimetre wide, and at 2 metres about 2 centimetres. The same light is spread over a bigger circle, so it looks dimmer. Picking 'smaller' usually comes from thinking further means smaller, as in the near lamp, far lamp test, where the torch looked smaller when it was further away. Here the hole is making a picture, and the picture grows."
      },
      "parent": "If the spot at 2 metres is too faint to measure, keep the paper in shade, or measure only at 50 centimetres and 1 metre. The pattern is still clear."
     },
@@ -2488,7 +2488,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Tonight, with a grown-up, look from a window, the balcony or the terrace for one of your two star patterns. Orion is up on evenings from December to April. The Saptarishi is low in the north on evenings from February to June. If neither pattern is up this month, skip the sky and go on to the next step.",
-     "say": "Let's see if we can find the real pattern in the sky tonight. Tomorrow we'll add a wanderer to our box and show everyone.",
+     "say": "Let's see if we can find the real pattern in the sky tonight. Tomorrow we'll add a planet to our box and show everyone.",
      "kid": "Tonight, with a grown-up, look for Orion or the Saptarishi in the real sky. Tomorrow you will add a planet to your box.",
      "wait": "Finish the box the next day.",
      "adult": true
@@ -2572,8 +2572,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together, and the rule that nobody looks at the Sun.",
-     "say": "Our job is to make a picture of the Sun at least 2 centimetres wide. Remember the pinhole experiment. What made the picture bigger?",
-     "kid": "Your job: make the Sun's picture 2 centimetres wide. Never look at the Sun! What made the picture bigger last time?",
+     "say": "Our job is to make a picture of the Sun at least 2 centimetres wide. In the Pinhole Sun experiment, what made the Sun's picture bigger?",
+     "kid": "Your job: make the Sun's picture 2 centimetres wide. Never look at the Sun! In the Pinhole Sun experiment, what made the picture bigger?",
      "adult": true,
      "context": "This is the first step of the Safe Sun Viewer challenge. You design a viewer that shows a picture of the Sun without anyone looking at the Sun."
     },
@@ -2909,7 +2909,7 @@
    "t": "mcq",
    "p": "In a solar eclipse, the Moon covers most of the Sun. Is it safe to look straight at the Sun then?",
    "opts": [
-    "No. The small part still showing is bright enough to burn your eyes, and it would not hurt while it happened",
+    "No. The small part still showing is bright enough to burn your eyes, and you would feel no pain while it happened",
     "Yes, because most of the Sun is hidden",
     "Yes, if you look for less than a minute"
    ],
@@ -3049,7 +3049,7 @@
  ],
  "maths": [
   {
-   "problem": "In the near lamp, far lamp test, Meera, a girl aged 9, gave the torch a brightness score at four distances: 5 steps scored 5, 10 steps scored 4, 20 steps scored 3, and 30 steps scored 1. Draw a bar chart of these scores. Then answer: between which two distances did the score drop the most?",
+   "problem": "In the near lamp, far lamp test, a torch got these brightness scores at four distances: 5 steps scored 5, 10 steps scored 4, 20 steps scored 3, and 30 steps scored 1. Draw a bar chart of these scores. Then answer: between which two distances did the score drop the most?",
    "answer": "Between 20 steps and 30 steps, where the score dropped by 2. Here is the bar chart.",
    "explain": "Draw one bar for each distance, as tall as its score. Then find each drop. From 5 to 10 steps, the score went from 5 to 4, a drop of 1. From 10 to 20 steps, it went from 4 to 3, a drop of 1. From 20 to 30 steps, it went from 3 to 1, a drop of 2. The biggest drop is 2, between 20 and 30 steps.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3265,7 +3265,7 @@
    "a": "They are very, very far away."
   },
   {
-   "q": "Twinkles or shines steadily: which is usually a planet?",
+   "q": "Which is usually a planet: a dot that twinkles, or a dot that shines steadily?",
    "a": "Shines steadily."
   },
   {
@@ -3377,9 +3377,9 @@
  "roots": {
   "context": "We have been learning that the Sun is a star, that the stars are suns, and that the Moon and planets shine with the Sun's light. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A torch looked dazzling up close, and a small dim dot far away. The Sun and the stars are the same kind of thing. The nearest star after the Sun is about 270,000 times further away. So from a planet of another star, our Sun would look like one more faint star.",
+   "truth": "In the near lamp, far lamp test, the same torch looked dazzling up close and like a small dim dot far away. The Sun and the stars are like that. They are the same kind of thing, but the nearest star after the Sun is about 270,000 times further away. So from a planet of another star, our Sun would look like one more faint star.",
    "habit": "We sort the sky into 'the Sun', big and special, and 'the stars', small and far. That split comes from how far away they are, not from what they are.",
-   "evidence": "The same torch looked dazzling up close and a small dim dot far away. Sunlight and starlight have the same dark lines, made by the same atoms. In 1838 Bessel measured a star so far away that it must shine like a sun."
+   "evidence": "In the near lamp, far lamp test, the same torch looked dazzling up close and like a small dim dot far away. Sunlight and starlight have the same dark lines, made by the same atoms. In 1838 Bessel measured a star so far away that it must shine like a sun."
   },
   "three": {
    "who_am_i": "Almost every atom in your body, apart from hydrogen, was made inside a star. You are made of what stars make.",
@@ -3436,7 +3436,7 @@
   "story": "For about two thousand years, most people believed the stars were small lights fixed to a great ball round the Earth, not far beyond the planets. Some Greek thinkers reasoned like this. If the Earth really went round the Sun, a nearby star should seem to shift a little over a year, as the Earth moved from one side of its path to the other. Nobody could see any shift, so most people decided the Earth must stand still. The real reason was that the stars are far too distant for the shift to be seen by eye. In 1838 Friedrich Bessel, a German astronomer, used a very fine telescope to watch a faint star called 61 Cygni for over a year. It shifted by a tiny amount, about as much as a coin seen from 15 kilometres away. From that shift he worked out that its light takes about 10 years to reach us. A star that far away can only be seen at all if it shines like a sun. So the stars are suns.",
   "who": "Friedrich Bessel, a German astronomer",
   "when": "1838",
-  "wrong_idea": "The stars are small lights fixed close beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun."
+  "wrong_idea": "The stars are small lights fixed just beyond the planets, and since no star seemed to shift, the Earth must stand still. Bessel measured a star's tiny yearly shift and showed it is so far away that it must be a sun."
  },
  "playtest": "Walked the unit as a parent and child in a city flat. Both games were printed out item by item and played in my head with 2 and with 4 players: Light Source or Reflector has 24 listed cards, two mats and 20 tokens, and the two TEST IT cards that needed the night sky or a ball were replaced by tests that finish at once in a dark room (white wall, hand in front of a phone screen), so the game ends with a winner on the same day. In Spot the Wanderer the mover now scores a point if nobody spots the moved wanderer, so a two-player game is fair, and the sky is drawn by hand as the step says. Experiments: the torch test no longer carries a pointless eye warning; the pinhole Sun experiment needs direct sunshine, so it now says so and was moved out of the core list; the card size is given. Activities: the Planet Dance works with two people (the planet swings a toy as the Moon), the mustard-seed model says what to do without 24 metres, the sky diary says what to do on cloudy nights and no longer promises a planet, and the yellow dupatta became any yellow cloth. Shoebox Night Sky now says how to draw Orion and the Saptarishi without a map and that the dots are faint, and it calls the planet a torch dot, not a bead. Challenges: the Sun viewer notes the 2 metre picture is faint; the dark-sky lamp uses Odisha's Olive Ridley turtles. Removed the two storybooks from the buy list (no step needs them), the internal oEmbed notes from the video checks, and four repeated worksheet questions (torch bar chart, football Sun, 8 minutes, planet word) because the maths section or other cards already ask them. Three new questions (dark-room visibility, the Moon's spin, hooded street lamps) keep each sheet at 15 items. The lighthouse question now introduces Sai and says the story is made up. Safety fields are only for real hazards (candle, Sun, pins, roof edges). Jokes: nine kept. Not changed: facts were left as they were, and I did not check the planetarium web addresses or the YouTube ids."
 }

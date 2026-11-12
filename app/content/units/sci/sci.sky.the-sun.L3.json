@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stand in a patch of sunlight from a window for one minute. Then step into the shade next to it. Which feels warmer? That sunlight has just crossed 150 million kilometres of nearly empty space, where there is almost nothing to warm. So where does the warmth on your skin come from?",
-  "text": "The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this unit you gather sunlight with a magnifying glass and find out how much heat is hiding in it. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.",
+  "text": "The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this unit you gather sunlight with a magnifying glass and see how hot it can make paper. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.",
   "art": "A girl standing half in a bright patch of sunlight on a tiled floor by a window and half in the shade, holding out both hands, one lit and one in shadow."
  },
  "outcomes": [
@@ -36,7 +36,7 @@
   },
   {
    "term": "Energy",
-   "meaning": "What makes things happen: move, warm up, light up or grow. Sunlight carries energy.",
+   "meaning": "What makes things move, warm up, light up or grow. Sunlight carries energy.",
    "example": "Sunlight dries the clothes on the line and warms the balcony floor. Both need energy.",
    "art": "Clothes drying on a balcony line in bright sunshine, with small wavy lines rising from a wet towel."
   },
@@ -73,7 +73,7 @@
   {
    "term": "Core",
    "meaning": "The very centre of the Sun, where its energy is made. It is about 15 million degrees Celsius.",
-   "example": "Almost all the Sun's energy is made in its core, the inner quarter of the way out from the centre.",
+   "example": "Almost all the Sun's energy is made in its core. The core reaches about a quarter of the way out from the centre.",
    "art": "The Sun cut in half like an orange, with a small, white-hot ball at the centre labelled core."
   },
   {
@@ -169,7 +169,7 @@
    "status": "idea",
    "description": "Once light leaves the Sun's surface, it reaches the Earth in about 8 minutes and 20 seconds. Scientists measure that very exactly. Inside the Sun, the energy's trip is much slower. The Sun's insides are so packed that the energy is taken in and given out again countless times, in random directions, on its way from the core to the surface. Scientists work out how long this takes from models of the inside of the Sun, because nobody can see in there. Their answers range from about 10,000 years to about 170,000 years. So the sunlight on your skin today began its journey in the core many thousands of years ago, and spent only its last 8 minutes crossing space.",
    "examples": [
-    "The sunshine on your balcony at lunchtime left the Sun's surface at about a quarter to one, 8 minutes earlier.",
+    "The sunshine that reaches your balcony at lunchtime left the Sun's surface about 8 minutes earlier.",
     "If the Sun stopped shining, we would not know for about 8 minutes."
    ],
    "perspectives": [
@@ -228,7 +228,7 @@
    "concept": "The light we cannot see: infrared and ultraviolet",
    "status": "defined",
    "definition": "Sunlight carries more than the light we see. Infrared light is beyond red, and we feel it as warmth. Ultraviolet light is beyond violet, and it can burn skin and fade colours.",
-   "description": "In 1800, William Herschel, an astronomer in England, split sunlight into a rainbow with a prism. He put thermometers in each colour, and one just past the red end, where he could see no light at all. That last thermometer got the warmest. He had found infrared light. A year later, Johann Ritter in Germany found ultraviolet light beyond the violet end, because it darkened a chemical that light darkens. About half of the Sun's energy that reaches the ground is infrared. A small part is ultraviolet. Ultraviolet light is what tans and burns skin, yellows old newspaper and fades a curtain in a sunny window. Our skin also uses a little of it to make vitamin D, which keeps bones strong.",
+   "description": "In 1800, William Herschel, an astronomer in England, split sunlight into a rainbow with a prism. He put a thermometer in each colour, and one just past the red end, where he could see no light at all. That last thermometer got the warmest. He had found infrared light. A year later, Johann Ritter in Germany found ultraviolet light beyond the violet end. He could not see it, but it darkened a chemical that light darkens. About half of the Sun's energy that reaches the ground is infrared. A small part is ultraviolet. Ultraviolet light is what tans and burns skin, yellows old newspaper and fades a curtain in a sunny window. Our skin also uses a little of it to make vitamin D, which keeps bones strong.",
    "examples": [
     "A shirt left on the line for weeks fades on the side that faces the Sun.",
     "You can feel the warmth of sunlight on your closed eyelids, even though infrared light is invisible."
@@ -332,7 +332,7 @@
   {
    "q": "Sunlight felt gentle on your hand, yet the same light made paper smoke when a lens gathered it. Is sunlight gentle or fierce?",
    "kind": "deep",
-   "hint": "Think about the big circle and the tiny dot in your experiment. Was the light different, or only how much of it landed in one place?"
+   "hint": "Think about the big circle and the tiny dot in the Sun Dot experiment. Was the light different, or only how much of it landed in one place?"
   },
   {
    "q": "The light warming you now began its journey in the Sun's core many thousands of years ago. Is it old light or new light?",
@@ -389,7 +389,7 @@
    "'It's round,' said Arun. 'But the hole is square.'",
    "'Because it isn't a picture of the hole,' said Nila. 'It's a picture of the Sun.'",
    "Arun stared at it for a long time. He could stare as long as he liked, because he was looking at a wall. He did not see any spots. 'They're too small for our little mirror,' said Nila. 'But this is the real Sun, and you can look at it as long as you want.'",
-   "By evening, the vadams were dry and crisp. Paati folded the veshti with the little brown spot in it. 'All day the sun dried my vadams, and nobody gathered it into any dot,' she said. 'And it nearly burned my veshti when one glass did.'",
+   "By evening, the vadams were dry and crisp. Paati folded the veshti with the little brown spot in it. 'All day the sun dried my vadams, because nobody gathered it into a dot,' she said. 'But when one glass gathered it, it nearly burned my veshti.'",
    "That night, Paati's reading glass went into her drawer, out of the sun. Arun gave Amma back her sunglasses, and asked Nila to make the wall Sun again the next day."
   ],
   "epiphany": "For the parent: the magnifying glass made no new light. It gathered the sunlight falling on its whole face into one tiny dot, so that dot got hundreds of times more light than plain sunshine, and the cloth absorbed it as heat. The black letters smoked first because black absorbs more light than white. The eye's lens does the same job, focusing light onto the retina, which has no pain nerves. That is why looking at the Sun gives no warning, and why sunglasses and binoculars make it no safer. The covered mirror sent a beam of sunlight onto a dark wall. Far enough away, any small hole gives a round spot, because the spot is a picture of the round Sun.",
@@ -433,7 +433,7 @@
        "b": "SAFE. You look at the picture the pinhole makes, with your back to the Sun."
       },
       {
-       "f": "The little round suns under a colander, on white paper",
+       "f": "Looking at the little round suns that a colander makes on white paper",
        "b": "SAFE. Each hole makes a tiny picture of the Sun on the paper."
       },
       {
@@ -529,7 +529,7 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and put them face down. Take out the card 'Ordinary sunglasses' for a practice round.",
+    "Take out the card 'Ordinary sunglasses' for a practice round. Shuffle the other cards and put them face down.",
     "On your turn, take the top card, read it out, and put it on SAFE or NOT SAFE.",
     "Say why. A reason earns an extra point. A good reason uses words such as lens, retina, filter or wall.",
     "Turn the card over to check. A right sort scores 1 point.",
@@ -549,8 +549,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the card 'Ordinary sunglasses' together as a practice round, then lay it on NOT SAFE. It scores no points.",
-     "say": "Practice card. Ordinary sunglasses. Safe or not safe?",
-     "kid": "Practice card. Ordinary sunglasses. Safe or not safe?",
+     "say": "This is a practice card: ordinary sunglasses. Is it safe or not safe to look at the Sun through them?",
+     "kid": "This is a practice card: ordinary sunglasses. Is it safe or not safe to look at the Sun through them?",
      "check": {
       "t": "mcq",
       "q": "Is it safe to look at the Sun through ordinary sunglasses?",
@@ -559,7 +559,7 @@
        "No, they still let through far too much light"
       ],
       "a": 1,
-      "why": "Sunglasses make the Sun look dimmer, so it feels comfortable. But they still let through thousands of times too much light. The lens in your eye focuses it onto the retina, which has no pain nerves to warn you. Picking 'yes' is what many grown-ups think too, and it is a dangerous mistake."
+      "why": "Sunglasses make the Sun look dimmer, so it feels comfortable. But they still let through thousands of times too much light. The lens in your eye focuses it onto the retina, which has no pain nerves to warn you. Many grown-ups would pick 'yes' too, and it is a dangerous mistake."
      }
     },
     {
@@ -609,7 +609,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game. Each player is a sunbeam travelling from the Sun's core to the Earth. Answer Sun questions to move, and see what you do when you land.",
+   "context": "This is a board game. Each player is a sunbeam travelling from the Sun's core to the Earth. Answer questions about the Sun to move, and say what happens to you when you land on the Earth.",
    "printables": [
     {
      "kind": "board",
@@ -741,11 +741,11 @@
    ],
    "rules": [
     "You need one dice. Every sunbeam starts on square 0, the Sun's core.",
-    "On your turn, another player reads you a card. Answer right, roll the dice and move that many squares. Answer wrong, move just 1 square.",
-    "On a TRY IT card, do it, then roll and move. No sunlight in the room? Put that card back and take another.",
-    "Follow what your square says: BUMP, FAST LANE, MAGNIFYING GLASS or CLOUD. A square you are sent to by another square does nothing more.",
+    "On your turn, another player reads you a card. If you answer right, roll the dice and move that many squares. If you answer wrong, move just 1 square.",
+    "If the card says TRY IT, do what it says, then roll and move. If there is no sunlight in the room, put that card back and take another.",
+    "Follow what your square says: BUMP, FAST LANE, MAGNIFYING GLASS or CLOUD. If a square sends you to another square, do not follow what the new square says.",
     "When the cards run out, shuffle them and use them again.",
-    "Reach square 21 or beyond to arrive. You do not need an exact roll. Choose where to land and say what happens to you there. On a leaf, you become food. On a black road, you become heat. On a white wall, you are reflected.",
+    "You arrive on the Earth when you reach square 21 or beyond. You do not need an exact roll. Choose where to land and say what happens to you there. On a leaf, you become food. On a black road, you become heat. On a white wall, you are reflected.",
     "The first sunbeam to arrive and explain what happens wins. Playing alone? Try to arrive in 12 turns or fewer."
    ],
    "flow": [
@@ -941,9 +941,9 @@
      "mins": 4,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "think": "Your eye has a lens inside it too. What would it do with sunlight if you looked at the Sun?",
-     "parent": "A good answer sounds like this. What I think: sunlight smokes paper only when it is gathered into a small dot, and black paper gets hot faster than white. What I saw: the big circle never smoked in 60 seconds. The tiny dot made black paper smoke in about 4 seconds. White paper took over 30 seconds, or did not smoke. Why: the lens packed the light into a small place, and black paper absorbs more light than white."
+     "parent": "A good answer sounds like this. What I think: sunlight makes paper smoke only when it is gathered into a small dot, and black paper gets hot faster than white. What I saw: the big circle never smoked in 60 seconds. The tiny dot made black paper smoke in about 4 seconds. White paper took over 30 seconds, or did not smoke. Why: the lens packed the light into a small place, and black paper absorbs more light than white."
     }
    ],
    "context": "In this experiment a grown-up uses a magnifying glass to gather sunlight. You find out when sunlight is strong enough to make paper smoke, and whether the colour of the paper matters.",
@@ -1057,7 +1057,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Lay one sheet of paper flat on each steel plate. 2. Put both plates side by side in direct sunshine. 3. Take two ice cubes from the freezer. Put one in the middle of each sheet at the same moment.",
-     "say": "Two ice cubes, from the same tray. Two plates, side by side, in the same sun. The only difference is the paper. Black under one, white under the other.",
+     "say": "We have two ice cubes from the same tray, on two plates side by side in the same sun. The only difference is the paper: black under one, white under the other.",
      "kid": "Put the black paper and the white paper in the sun, side by side. Put one ice cube on each, at the same time.",
      "parent": "The paper will get wet, which is fine. On a hot day in direct sun, each cube may melt in about 15 to 30 minutes.",
      "context": "This is the first step of the ice test. You put an ice cube on black paper and another on white paper, in the same sunshine, to see which paper takes in more sunlight."
@@ -1099,18 +1099,18 @@
       "options": [
        "Black paper is made of warmer stuff",
        "Black paper absorbs more sunlight, and the light turns into heat",
-       "The white paper made cold"
+       "The white paper gave out cold"
       ],
       "a": 1,
-      "why": "Both sheets got the same sunlight. The black paper absorbed most of it, and the light turned into heat in the paper. The heat moved into the ice. The white paper reflected most of the light back, so it stayed cooler. Picking 'made cold' means thinking white makes coldness. It doesn't. It just takes in less of the Sun's energy."
+      "why": "Both sheets got the same sunlight. The black paper absorbed most of it, and the light turned into heat in the paper. The heat moved into the ice. The white paper reflected most of the light back, so it stayed cooler. Picking 'gave out cold' means thinking white makes coldness. It doesn't. It just takes in less of the Sun's energy."
      }
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask for three things: what I think, what I saw, why.",
+     "do": "Ask your child to say three things: what they think now, what they saw, and why it happened.",
      "say": "Tell me what you think now, what you saw, and why it happened.",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why it happened.",
      "think": "Why do people in hot places often paint their roofs white?",
      "parent": "A good answer: black paper takes in more sunlight than white paper. My ice on black melted in 18 minutes and the ice on white in 27 minutes, and the black paper felt warmer. The black paper absorbed the light and it turned into heat, which melted the ice."
     }
@@ -1187,7 +1187,7 @@
        ]
       }
      ],
-     "context": "This is a quick start for the Sun unit. You feel the difference between sunlight and shade, and wonder where the warmth comes from."
+     "context": "This is a quick start for the Sun unit. You feel the difference between sunlight and shade, and ask where the warmth comes from."
     },
     {
      "id": "s2",
@@ -1216,7 +1216,7 @@
      "think": "What could make gentle sunlight strong enough to burn?"
     }
    ],
-   "context": "This is a short way into the unit. You feel sunlight and shade with your skin and hand, and ask where the warmth comes from.",
+   "context": "This is a short activity to begin the unit. You feel sunlight and shade with your skin and hand, and ask where the warmth comes from.",
    "setup": [
     {
      "art": "A girl standing in a patch of sunlight on a tiled floor with her back to a window.",
@@ -1260,7 +1260,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Cover a mirror, cut a small square hole, 5 mm wide,, and reflect the Sun onto a far wall. Measure the round spot and how far away it is."
+     "what": "Cover a mirror with paper, cut a small square hole in the paper, 5 mm wide, and reflect the Sun onto a far wall. Measure the round spot and how far away it is."
     }
    ],
    "record": "Draw the square hole and the round spot. Write the spot's width and its distance from the mirror.",
@@ -1268,7 +1268,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Tape paper over the whole mirror. 2. Cut a small square hole in the middle, about 5 mm wide, half a fingernail.",
+     "do": "1. Tape paper over the whole mirror. 2. Cut a small square hole in the middle of the paper, about 5 mm wide. That is about half the width of a fingernail.",
      "say": "We will make a picture of the Sun that you can look at as long as you like. First we cover the mirror and cut a small square window in the paper.",
      "kid": "Tape paper over the mirror. Cut a small square hole in the middle, about half a fingernail wide. A grown-up helps with the scissors.",
      "adult": true,
@@ -1291,7 +1291,7 @@
       "a": 1,
       "why": "A small hole lets through light from every part of the Sun. Far away, that light makes a picture of the Sun itself, and the Sun is round. Picking 'the mirror is round' is a good try, but the paper covers most of the mirror, and only the square hole lets light through. Try a triangle-shaped hole too: the far spot is still round."
      },
-     "parent": "On a wall 4 to 6 metres away the spot is round. At 3 metres its corners are already rounding off. Close to the mirror, held up on a book, the spot is square, the shape of the hole. Move a sheet of paper slowly from the mirror towards the wall, catching the spot, and watch it change from square to round."
+     "parent": "On a wall 4 to 6 metres away the spot is round. At 3 metres its corners are already rounding off. Close to the mirror, the spot is square, the shape of the hole. You can catch it on a book held near the mirror. Move a sheet of paper slowly from the mirror towards the wall, catching the spot, and watch it change from square to round."
     },
     {
      "id": "s3",
@@ -1299,7 +1299,7 @@
      "do": "1. Measure the width of the round spot on the wall with a ruler. 2. Measure the distance from the mirror to the wall with the tape. 3. Write both numbers down in centimetres.",
      "say": "Let's measure the spot, and how far it is from the mirror. Scientists measure pictures like this to work out how big the Sun looks from Earth.",
      "kid": "Measure how wide the round spot is. Then measure from the mirror to the wall. Write both numbers.",
-     "parent": "On a wall 500 cm away, the spot is about 5 cm wide. On a wall 300 cm away it is about 3 cm. Take away the width of the hole, 0.5 cm, and divide the distance by what is left. You should get roughly 100. That means the Sun is about 100 times further away than it is wide. The real number is about 108."
+     "parent": "On a wall 500 cm away, the spot is about 5 cm wide. On a wall 300 cm away it is about 3 cm. Take away the width of the hole, 0.5 cm, from the width of the spot. Then divide the distance by what is left. You should get roughly 100. That means the Sun is about 100 times further away than it is wide. The real number is about 108."
     },
     {
      "id": "s4",
@@ -1308,7 +1308,7 @@
      "say": "This spot is the real Sun's light, and it is safe to look at, because it is on a wall. What do you notice? Is it white or yellow?",
      "kid": "You can look at this Sun as long as you like. Is it white or yellow? Does it wobble?",
      "think": "Why is this picture safe to look at, when the real Sun is not?",
-     "parent": "The spot usually looks white, which is the Sun's real colour. It wobbles if the mirror moves. Large sunspots are too small to see with a hole this small."
+     "parent": "The spot usually looks white, which is the Sun's real colour. It wobbles if the mirror moves. Even large sunspots are too small to see with a hole this small."
     }
    ],
    "context": "In this activity you use a covered mirror to make a safe picture of the Sun on a wall, and measure it.",
@@ -1377,7 +1377,7 @@
        ]
       }
      ],
-     "parent": "Common finds: a curtain or cushion faded on one side, a yellowed newspaper, dry clothes, warm floor tiles, a plant leaning towards the window. If you can't find faded things, the next project shows the Sun fading paper over a few days."
+     "parent": "Common finds: a curtain or cushion faded on one side, a yellowed newspaper, dry clothes, warm floor tiles, a plant leaning towards the window. If you can't find faded things, the Sun Print project shows the Sun fading paper over a few days."
     },
     {
      "id": "s3",
@@ -1387,7 +1387,7 @@
      "kid": "Count your finds. Every one needed energy. It all came from the Sun.",
      "check": {
       "t": "mcq",
-      "q": "Kavitha, a girl in Class 3, finds that her poster by the window has gone pale. What did that?",
+      "q": "A poster by the window has gone pale. What made it go pale?",
       "options": [
        "Sunlight, mostly the ultraviolet light in it",
        "The cold air from the window",
@@ -1452,7 +1452,7 @@
      "do": "1. Pile the cushions close together at one end of the room. This is the inside of the Sun. 2. Put the plant, the dark cloth and the white paper at the other end. This is the Earth.",
      "say": "These cushions are the packed insides of the Sun. Over there is the Earth. You are a bit of energy, just made in the Sun's core.",
      "kid": "The cushions are the inside of the Sun. Over there is the Earth. You are a bit of energy from the core!",
-     "context": "This is an act-out of the journey that the Sun's energy makes, from the core to the Earth."
+     "context": "In this activity you act out the journey that the Sun's energy makes, from the core to the Earth."
     },
     {
      "id": "s2",
@@ -1466,8 +1466,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Once out, your child walks straight across the room to the Earth while everyone counts slowly to 8.",
-     "say": "Now you are sunlight in empty space. Nothing gets in your way. Walk straight to the Earth while we count 8 slow minutes.",
-     "kid": "Now walk straight to the Earth. We count to 8, for 8 minutes!"
+     "say": "Now you are sunlight in empty space. Nothing gets in your way. Walk straight to the Earth while we count slowly to 8, one count for each minute of the trip.",
+     "kid": "Now walk straight to the Earth. We count to 8, one count for each minute of the trip!"
     },
     {
      "id": "s4",
@@ -1488,7 +1488,7 @@
      }
     }
    ],
-   "context": "This is an act-out. You play a bit of the Sun's energy, travelling from the core to the Earth.",
+   "context": "In this activity you act as a bit of the Sun's energy, travelling from the core to the Earth.",
    "setup": [
     {
      "art": "A pile of cushions at one end of a room, with a child zigzagging between them.",
@@ -1592,7 +1592,7 @@
        "The key's metal coloured the paper"
       ],
       "a": 0,
-      "why": "Sunlight, mostly its ultraviolet part, breaks down the colour in the paper. The key is opaque, so it blocked the light, and the paper under it kept its colour. Picking 'the key's metal coloured the paper' is a good thought, but the leaf and the cardboard star leave the same kind of shape, and they are not metal."
+      "why": "Sunlight, mostly its ultraviolet part, breaks down the colour in the paper. The key lets no light through, so the paper under it kept its colour. Picking 'the key's metal coloured the paper' is a good thought, but the leaf and the cardboard star leave the same kind of shape, and they are not metal."
      },
      "parent": "If the colour has barely changed on day 6, leave the print in the sun for another week. Fading is slower in weak sun."
     }
@@ -1623,7 +1623,7 @@
    "constraints": [
     "Use only things from home.",
     "No flame, no electricity, and no magnifying glass.",
-    "Put a piece of chocolate in a small steel bowl inside your cooker. Put a second, equal piece in a second, equal bowl in the open sun. Start both at the same moment, and time how long each takes to go soft."
+    "Put a piece of chocolate in a small steel bowl inside your cooker. Put another piece of the same size in another bowl of the same size in the open sun. Start both at the same moment, and time how long each takes to go soft."
    ],
    "materials": [
     "a cardboard box, such as a shoebox",
@@ -1667,9 +1667,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "Put one chocolate in a bowl in the open sun and one in your cooker, together. Check both every 5 minutes.",
+     "do": "Put one chocolate in a bowl in the open sun and one in your cooker, at the same moment. Check both every 5 minutes.",
      "say": "Let's race. Which chocolate goes soft first?",
-     "kid": "Put one chocolate in the open sun and one in your cooker. Do it together. Check both every 5 minutes.",
+     "kid": "Put one chocolate in the open sun and one in your cooker, at the same moment. Check both every 5 minutes.",
      "check": {
       "t": "mcq",
       "q": "Why does foil inside the box help the chocolate melt faster?",
@@ -1739,14 +1739,14 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together.",
-     "say": "Thirty people, one pair of eclipse glasses. How can everyone watch the eclipse safely?",
+     "say": "Thirty people want to watch the eclipse, and there is only one pair of eclipse glasses. How can everyone watch it safely?",
      "kid": "Thirty people want to watch an eclipse. There is one pair of eclipse glasses. How can everyone see safely?",
      "context": "This is the first step of the eclipse party challenge. You plan how a whole building can watch an eclipse without anyone looking at the Sun."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "On a sunny day, test a colander over white paper, and the Mirror Sun.",
+     "do": "On a sunny day, hold a colander over white paper. Then make the Mirror Sun picture on a wall.",
      "say": "Let's test two ideas today. Hold the colander in the sun above the paper. What do you see?",
      "kid": "Hold the colander in the sun above white paper. What do you see on the paper?",
      "check": {
@@ -1859,7 +1859,7 @@
    ],
    "a": 1,
    "outcome": 1,
-   "why": "In the core, hydrogen joins into helium, and a tiny bit of material turns into energy. This is nuclear fusion. Picking 'by shrinking' was a real idea in the 1800s, but it would have used up the Sun in a few tens of millions of years."
+   "why": "In the core, hydrogen joins into helium, and a tiny bit of material turns into energy. This is nuclear fusion. 'By shrinking' was a real idea in the 1800s, but shrinking would have used up the Sun in a few tens of millions of years."
   },
   {
    "t": "mcq",
@@ -1990,7 +1990,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Priya, a girl in Class 3, says, 'The Sun is a giant fire, burning in the sky.' Is she right?",
+     "p": "The Sun is a giant fire, burning in the sky.",
      "a": false,
      "why": "False. A fire needs oxygen from the air, and there is no air in space. The Sun shines because hydrogen joins into helium in its core. A strong answer gives this reason."
     },
@@ -2004,7 +2004,7 @@
     },
     {
      "t": "write",
-     "p": "In the Sun Dot experiment, the glass made no new light, but the tiny dot made paper smoke. Explain how.",
+     "p": "In the Sun Dot experiment, the magnifying glass made no new light, but the tiny dot made paper smoke. Explain how.",
      "lines": 3,
      "a": "The magnifying glass gathered all the sunlight that fell on it into one tiny dot. The same amount of light was packed into a much smaller place, so that spot of paper got very hot.",
      "why": "A strong answer uses the idea of gathering or focusing, and says the amount of light stayed the same but the place got smaller.",
@@ -2024,7 +2024,7 @@
     },
     {
      "t": "sort",
-     "p": "Lalitha, a girl in Class 3 in Mysuru, wants to watch the Sun. Sort these ways: safe or not safe?",
+     "p": "Sort these ways of watching the Sun: safe or not safe?",
      "cats": [
       "Safe",
       "Not safe"
@@ -2160,9 +2160,9 @@
     },
     {
      "t": "write",
-     "p": "Hari, a boy in Class 3 in Coimbatore, wears a black shirt. His friend wears a white shirt. They stand in the same sunshine. Whose shirt gets hotter? Use the words absorb and reflect.",
+     "p": "One child wears a black shirt and another wears a white shirt. They stand in the same sunshine. Whose shirt gets hotter? Use the words absorb and reflect.",
      "lines": 3,
-     "a": "Hari's black shirt gets hotter. Black cloth absorbs most of the sunlight that falls on it, and the light turns into heat. The white shirt reflects most of the light, so less of it turns into heat.",
+     "a": "The black shirt gets hotter. Black cloth absorbs most of the sunlight that falls on it, and the light turns into heat. The white shirt reflects most of the light, so less of it turns into heat.",
      "why": "A strong answer says which shirt, and uses absorb for the black shirt and reflect for the white one."
     }
    ]
@@ -2175,7 +2175,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Gurleen, a girl in Class 3 in Ludhiana, has a magnifying glass that made black paper smoke in 4 seconds. She tried again with a bigger magnifying glass, held to make an equally tiny dot. What do you predict?",
+     "p": "A magnifying glass made black paper smoke in 4 seconds. Then a bigger magnifying glass is used, held to make an equally tiny dot. What do you predict?",
      "opts": [
       "It will take longer, because the glass is heavier",
       "It will smoke faster, because a bigger glass gathers more sunlight into the dot",
@@ -2196,21 +2196,21 @@
     },
     {
      "t": "mcq",
-     "p": "Arun, a boy aged 6, says, 'If I wear two pairs of sunglasses, I can look at the Sun safely.' What is wrong with his idea?",
+     "p": "Someone says, 'If I wear two pairs of sunglasses, I can look at the Sun safely.' What is wrong with this idea?",
      "opts": [
       "Nothing, two pairs are dark enough",
       "Even two pairs let through far too much light, and the retina gives no warning",
       "Sunglasses make the Sun brighter",
-      "He should use three pairs"
+      "Three pairs would be enough"
      ],
      "a": 1,
-     "why": "Sunglasses are made to cut glare, not to block the Sun's full light. Even two pairs let through far too much. The retina has no pain nerves, so Arun would feel nothing while it was harmed. Only eclipse glasses made for the Sun are safe."
+     "why": "Sunglasses are made to cut glare, not to block the Sun's full light. Even two pairs let through far too much. The retina has no pain nerves, so you would feel nothing while it was harmed. Only eclipse glasses made for the Sun are safe."
     },
     {
      "t": "truefalse",
      "p": "A solar eclipse sends out special harmful rays that the Sun does not send on other days.",
      "a": false,
-     "why": "False. The Sun's light is just as harmful on any day. During an eclipse, the sky is darker, so the pupils open wider, and people stare for longer. That is why more eyes are harmed then."
+     "why": "False. The Sun's light is just as harmful on any day. During an eclipse, the sky is darker, so the eyes open wider, and people stare for longer. That is why more eyes are harmed then."
     },
     {
      "t": "order",
@@ -2373,7 +2373,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Farida, a girl in Class 4, has a magnifying glass 5 cm across. It packs its sunlight into a dot 1 mm across. Her friend says the dot gets the same amount of light as a 1 mm patch of plain sunshine. What is wrong?",
+     "p": "A magnifying glass 5 cm across packs its sunlight into a dot 1 mm across. Someone says the dot gets the same amount of light as a 1 mm patch of plain sunshine. What is wrong?",
      "opts": [
       "Nothing, light is light",
       "The dot gets all the light that fell on the whole glass, far more than a 1 mm patch",
@@ -2386,14 +2386,14 @@
     },
     {
      "t": "write",
-     "p": "Lord Kelvin worked out that the Sun had probably not shone for 100 million years. Geologists said the Earth's rocks were much older. Who turned out to be right, and what did Kelvin not know about?",
+     "p": "Lord Kelvin worked out that the Sun had probably shone for less than 100 million years. Geologists said the Earth's rocks were much older. Who turned out to be right, and what did Kelvin not know about?",
      "lines": 4,
      "a": "The geologists were right. Kelvin did not know about nuclear fusion, joining hydrogen into helium, which gives the Sun enough energy to shine for billions of years.",
      "why": "A strong answer says that a calculation can be careful and still wrong if it misses something nobody knew about yet."
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 4, left a glass bottle full of water on a sunny windowsill, next to a pile of old newspapers. Why is this a risk?",
+     "p": "A glass bottle full of water is left on a sunny windowsill, next to a pile of old newspapers. Why is this a risk?",
      "opts": [
       "The bottle can act as a lens and gather sunlight into a hot spot on the paper",
       "The water will boil",
@@ -2405,7 +2405,7 @@
     },
     {
      "t": "write",
-     "p": "In the ice test, Ananya, a girl in Class 4, found that her two ice cubes melted at the same time. Suggest two reasons why her result came out differently from yours.",
+     "p": "In the Ice on Black, Ice on White experiment, a child found that both ice cubes melted at the same time. Suggest two reasons why this could happen.",
      "lines": 4,
      "a": "The sky may have been cloudy, so there was little sunlight for either paper to absorb. Or the plates may have been in the shade, or the papers may have been of very similar colours. One cube may also have been bigger.",
      "why": "A strong answer thinks about what makes the test fair, and about whether there was enough sunlight to make a difference.",
@@ -2508,7 +2508,7 @@
     },
     {
      "t": "write",
-     "p": "Zoya, a girl in Class 4 in Srinagar, lifts her magnifying glass higher, so the bright spot on the black paper grows bigger than a coin. Will the paper smoke faster or slower than with a tiny dot? Explain.",
+     "p": "A magnifying glass is lifted higher, so the bright spot on the black paper grows bigger than a coin. Will the paper smoke faster or slower than with a tiny dot? Explain.",
      "lines": 3,
      "a": "Slower, or not at all. The same light is now spread over a bigger spot, so each part of the paper gets less light and heats up less.",
      "why": "A strong answer says the amount of light is the same, but it is spread over a bigger place.",
@@ -2516,7 +2516,7 @@
     },
     {
      "t": "write",
-     "p": "Bhanu, a boy in Class 4 in Shillong, says, 'Sunlight takes thousands of years to reach us across space.' What has he mixed up, and what is true?",
+     "p": "Someone says, 'Sunlight takes thousands of years to reach us across space.' What have they mixed up, and what is true?",
      "lines": 3,
      "a": "Light crosses space from the Sun to the Earth in about 8 minutes. The thousands of years are the time the energy spends getting out through the packed inside of the Sun.",
      "why": "A strong answer separates the slow trip inside the Sun from the fast trip across space."
@@ -2672,9 +2672,9 @@
    "why_maths": "Saying 'white took longer' is true, but dividing tells us how much longer, which shows how big a difference the colour makes."
   },
   {
-   "problem": "In the Mirror Sun, Rashmi, a girl in Class 3 in Pune, got a round spot of light 5 cm wide. The wall was 500 cm from the mirror. 500 divided by 5 is 100. What does that tell her about the real Sun?",
+   "problem": "In the Mirror Sun, the round spot of light on the wall was 5 cm wide. The wall was 500 cm from the mirror. 500 divided by 5 is 100. What does that tell us about the real Sun?",
    "answer": "The Sun is about 100 times further away than it is wide.",
-   "explain": "The picture of the Sun and the real Sun are in the same proportion. The picture is 100 times further from the mirror than it is wide. So the Sun is about 100 times further from us than it is wide. Scientists measure about 108, so her answer is close.",
+   "explain": "The picture of the Sun and the real Sun are in the same proportion. The picture is 100 times further from the mirror than it is wide. So the Sun is about 100 times further from us than it is wide. Scientists measure about 108, so this answer is close.",
    "math_unit": "math.division.division-facts.L3",
    "context": "This is about the Mirror Sun. You cover a mirror with paper, cut a small hole, and throw a picture of the Sun onto a far wall.",
    "how": "a2",
@@ -2686,7 +2686,7 @@
    "explain": "1 minute is 60 seconds. 8 minutes is 8 × 60 = 480 seconds. Add the 20 extra seconds: 480 + 20 = 500 seconds.",
    "math_unit": "math.time.duration.L3",
    "context": "This is about the journey of sunlight across space, from the Sun's surface to the Earth.",
-   "why_maths": "Changing minutes into seconds lets us compare the light's trip with things we can count, like the 4 seconds the paper took to smoke."
+   "why_maths": "Changing minutes into seconds lets us compare the light's trip with things we can count, like the 4 seconds the black paper took to smoke in the Sun Dot experiment."
   },
   {
    "problem": "About 109 Earths fit in a line across the Sun's face. If each Earth were a 1 cm bead, how long would the line of beads be? Is that more or less than a metre?",
@@ -2697,7 +2697,7 @@
    "why_maths": "A big number like 109 is hard to picture. Turning it into a line of beads you could lay on the floor shows the size."
   },
   {
-   "problem": "In the ice test, Mitali, a girl in Class 3 in Guwahati, saw her ice on black paper melt in 18 minutes and her ice on white paper melt in 27 minutes. Then she tried grey paper. Predict how long the ice on grey paper might take, and explain your guess.",
+   "problem": "In the ice test, the ice on black paper melted in 18 minutes and the ice on white paper melted in 27 minutes. Suppose you then try grey paper. Predict how long the ice on grey paper might take, and explain your guess.",
    "answer": "Somewhere between 18 and 27 minutes, perhaps about 22 minutes.",
    "explain": "Grey is between black and white. It should absorb more sunlight than white but less than black. So its ice should melt faster than on white but slower than on black: between 18 and 27 minutes. Halfway is 22 and a half minutes, but the real time depends on how dark the grey is.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2923,12 +2923,12 @@
  "roots": {
   "context": "We have learned what the Sun is, how its light turns into heat, and why a lens can make it fierce. Now we ask what the Sun's light tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Under the lens, black paper smoked in seconds, though the sunlight on it had only felt warm. The lens made no light. It gathered the light already falling on it into one dot. The lens in your eye gathers sunlight the same way, onto a spot that has no pain nerves.",
+   "truth": "In the Sun Dot experiment, black paper smoked in seconds under the magnifying glass, though the sunlight on it had only felt warm. The lens made no light. It gathered the light already falling on it into one dot. The lens in your eye gathers sunlight the same way, onto a spot that has no pain nerves.",
    "habit": "We judge whether something is harmful by how it feels. Sunlight feels gentle, so it seems safe. But how strong light is depends on how tightly it is gathered, and the spot in the eye where it is gathered has no pain nerves.",
    "evidence": "In the Sun Dot experiment, the big circle of light never made the paper smoke in 60 seconds. The tiny dot made from the same light did it in a few seconds. Nothing was added. The light was only packed into a smaller place."
   },
   "three": {
-   "who_am_i": "Your skin, your eyes and your food all take in sunlight. Part of you is always catching the Sun.",
+   "who_am_i": "You are one of the things that sunlight lands on. Your skin and your eyes take it in, and your food is made from it.",
    "what_is_life": "Almost every living thing runs on sunlight caught by plants, and a lizard on a wall warms up in the sunshine to start her day.",
    "what_is_this_world": "The Sun is one star among billions. The Earth catches only a tiny share of its light, and that share warms the whole world."
   },
@@ -2947,7 +2947,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
     "teaching": "If you look deeply into a sheet of paper, you can see the sunshine in it. Without sunshine, the forest cannot grow, and without the forest there is no paper.",
-    "link": "The paper in the Sun Dot experiment was made from trees that grew with sunlight. In the experiment, sunlight met paper made from sunlight."
+    "link": "The paper in the Sun Dot experiment was made from trees that grew with sunlight. So in the experiment, sunlight burned paper that sunlight had helped to make."
    }
   ],
   "science": [
@@ -2983,7 +2983,7 @@
  },
  "playtest": "Every game, experiment, activity, project and challenge was walked through as if in a city flat. The sorting game and the board game list every card and square, with answers on the back of each card, and both work for 2 or 4 players and for one child alone. The Sun Dot needs direct sun on a balcony, terrace or open window, a grown-up holds the lens, and the paper sits on a steel plate with water beside it. Only the tiny dot is tried three times on each paper, and the white paper is honestly said to take much longer or not smoke. The ice test now runs up to 25 minutes, with the checks and times matching, because ice takes 15 to 30 minutes to melt. The Mirror Sun uses a 5 mm hole so that the spot is round on a wall 3 metres or more away. The sun cooker race starts both chocolates at the same moment. The Sun Print says to leave it longer if the colour barely changes.",
  "how_we_found_out": {
-  "story": "For a long time, people pictured the Sun as a giant fire. In the 1800s, scientists checked this idea with numbers. A ball of coal as big as the Sun, burning as brightly, would burn out in a few thousand years. But rocks and fossils showed that the Earth was far older. In 1854 Hermann von Helmholtz, a German scientist, suggested that the Sun shines because it is slowly shrinking, and the squeezing heats it. In 1862 Lord Kelvin, a famous British scientist, used this idea. He wrote that the Sun had probably not shone for 100 million years. Geologists, who study rocks, said the Earth's rocks needed much longer than that. In 1920 Arthur Eddington, an English astronomer, pointed to a new measurement by Francis Aston: a helium atom weighs a little less than four hydrogen atoms. If the Sun joins hydrogen into helium, the missing material could become energy, enough for billions of years. In 1925 Cecilia Payne showed that the Sun is mostly hydrogen, so the fuel is there. In 1939 Hans Bethe worked out how the joining happens. The Sun is not a fire, and it has shone for about 4.6 billion years.",
+  "story": "For a long time, people pictured the Sun as a giant fire. In the 1800s, scientists checked this idea with numbers. A ball of coal as big as the Sun, burning as brightly, would burn out in a few thousand years. But rocks and fossils showed that the Earth was far older. In 1854 Hermann von Helmholtz, a German scientist, suggested that the Sun shines because it is slowly shrinking, and the squeezing heats it. In 1862 Lord Kelvin, a famous British scientist, used this idea. He wrote that the Sun had probably shone for less than 100 million years. Geologists, who study rocks, said the Earth's rocks needed much longer than that. In 1920 Arthur Eddington, an English astronomer, pointed to a new measurement by Francis Aston: a helium atom weighs a little less than four hydrogen atoms. If the Sun joins hydrogen into helium, the missing material could become energy, enough for billions of years. In 1925 Cecilia Payne showed that the Sun is mostly hydrogen, so the fuel is there. In 1939 Hans Bethe worked out how the joining happens. The Sun is not a fire, and it has shone for about 4.6 billion years.",
   "who": "Hermann von Helmholtz and Lord Kelvin, who were wrong, then Arthur Eddington, Francis Aston, Cecilia Payne and Hans Bethe",
   "when": "1854 to 1939",
   "wrong_idea": "People thought the Sun was a giant fire, and later that it shone by slowly shrinking. Both would have used up the Sun in far less time than the Earth's rocks show it has existed. Fusion, joining hydrogen into helium, gives enough energy for billions of years."

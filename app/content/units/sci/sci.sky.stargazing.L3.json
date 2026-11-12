@@ -29,7 +29,7 @@
   },
   {
    "term": "Asterism",
-   "meaning": "A well-known star pattern that is only part of a constellation, or made from stars of more than one.",
+   "meaning": "A well-known star pattern that is only part of a constellation, or is made from stars of more than one constellation.",
    "example": "The Saptarishi is an asterism. Its seven stars belong to a bigger constellation called Ursa Major, the Great Bear.",
    "art": "The seven stars of the Saptarishi drawn bright, inside the fainter outline of a big bear made of more stars."
   },
@@ -53,7 +53,7 @@
   },
   {
    "term": "Dark adaptation",
-   "meaning": "The way your eyes slowly get better at seeing in the dark. It takes about 20 to 30 minutes to see as many stars as you can.",
+   "meaning": "The way your eyes slowly get better at seeing in the dark. After about 20 to 30 minutes in the dark, you can see as many stars as your eyes are able to.",
    "example": "When you go from a bright room to a dark terrace, you see only a few stars at first. After 20 minutes you see many more.",
    "art": "Two pictures of the same terrace sky: one with three stars, labelled 'after 1 minute', and one with thirty, labelled 'after 20 minutes'."
   },
@@ -104,7 +104,7 @@
    ],
    "perspectives": [],
    "art": "The Saptarishi drawn three times: 50,000 years ago, today, and 50,000 years from now, with the two end stars drifting away from the other five.",
-   "context": "This card explains why the patterns in the sky are not for ever."
+   "context": "This card explains why the patterns in the sky do not last for ever."
   },
   {
    "concept": "Seeing stars from a city",
@@ -152,7 +152,7 @@
   },
   {
    "text": "The Moon comes back to the same stars about every 27 and one-third days.",
-   "evidence": "Anyone can see it. Note which star the Moon is near tonight. About 27 nights later it is back near the same star."
+   "evidence": "Anyone can check this. Note which star the Moon is near tonight. About 27 nights later it is back near the same star."
   },
   {
    "text": "The sky is divided into 88 official constellations.",
@@ -188,7 +188,7 @@
    "claim": "The nakshatra or star sign a person is born under shapes their character and their future.",
    "who": "Astrology, followed by many people in India and around the world",
    "for": "It is a very old tradition, and many people feel their star describes them well.",
-   "against": "In 1985 the physicist Shawn Carlson ran a careful test. Astrologers tried to match people's birth charts to their personality tests. They did no better than guessing. Using a birth star to choose a name or to time a festival is part of culture. Whether the stars shape a person is a question that tests have answered no.",
+   "against": "In 1985 the physicist Shawn Carlson ran a careful test. Astrologers tried to match people's birth charts to their personality tests. They did no better than guessing. Using a birth star to choose a name or to time a festival is part of culture. Tests have checked whether the stars shape a person, and the answer was no.",
    "status": "rejected",
    "context": "This card is about the difference between star names in our culture and the claim that stars decide our lives."
   },
@@ -205,7 +205,7 @@
   {
    "q": "The Saptarishi is a ladle only from near Earth. Is the ladle real, or is it something we make by looking?",
    "kind": "deep",
-   "hint": "Think of the thread model. From the Earth card you saw a ladle. From the side you did not. Were the paper stars different?"
+   "hint": "Think of the Thread Saptarishi model. From the Earth card you saw a ladle. From the side you did not. Were the paper stars different?"
   },
   {
    "q": "If you lived on a planet round Kratu, what patterns would you see? Would you see our Sun?",
@@ -253,7 +253,7 @@
    "Vikram put down a suitcase. 'So the old story picked the one pair in the ladle that really is a pair,' he said. 'Did the people who made it know that?'",
    "'Nobody could have measured it then,' said Lakshmi. 'Maybe it was luck. Maybe they just loved them for always being together.' Revathi laughed and hugged her. 'When we are in Chennai,' Vikram promised, 'I will go up on our terrace during a power cut and look for them.' 'Then switch off your phone first,' said Lakshmi. 'And wait.'"
   ],
-  "epiphany": "For the parent: from Earth, the seven stars of the Saptarishi look like a single group, but they are at different distances, so the ladle is a pattern seen from one place. Vikram assumes that stars which look together are together. Lakshmi knows they usually are not. Then comes a surprise: Arundhati (Alcor) and Vasishtha (Mizar) really are close in space and move together. So a pattern seen from Earth can hide real neighbours as well as false ones. Only measuring distances can tell which is which. With the streetlights on, Arundhati vanished: the dark matters.",
+  "epiphany": "For the parent: from Earth, the seven stars of the Saptarishi look like a single group, but they are at different distances, so the ladle is a pattern seen from one place. Vikram assumes that stars which look together are together. Lakshmi knows they usually are not. Then comes a surprise: Arundhati (Alcor) and Vasishtha (Mizar) really are close in space and move together. So a pattern seen from Earth can hide real neighbours as well as false ones. Only measuring distances can tell which is which. With the streetlights on, Arundhati vanished, which shows how much a dark sky matters for seeing faint stars.",
   "ask": [
    "Why could Lakshmi see Arundhati on the first night but not when the streetlights were on?",
    "Why did Lakshmi tell Vikram not to look at his phone?",
@@ -399,7 +399,7 @@
    ],
    "rules": [
     "Put the Moon token on Ashwini. Shuffle the question cards and make a pile face down. Put the star tokens in a heap.",
-    "On your turn, take the top card and read the front aloud. Answer it, using the board for counting cards. The other players check the answer on the back of the card.",
+    "On your turn, take the top card and read the front aloud. Answer it. If the card asks you to count spaces, count them on the board. The other players check the answer on the back of the card.",
     "A right answer wins one star token. A wrong answer wins none.",
     "Then move the Moon token on one space, in the order of the ring, because one night has passed. After Revati comes Ashwini.",
     "Put the used card at the bottom of the pile. When the pile runs out, shuffle the used cards and make a new pile.",
@@ -418,8 +418,8 @@
      "id": "s2",
      "mins": 3,
      "do": "With the Moon token on Ashwini, find the card that says 'Count on 1 space' and play it together as practice.",
-     "say": "Practice card. The Moon is on Ashwini tonight. Count one space on the ring. Which nakshatra will it be in tomorrow night?",
-     "kid": "Practice card. The Moon is on Ashwini. Count one space on. Which nakshatra is the Moon in tomorrow?",
+     "say": "This is a practice card. The Moon is on Ashwini tonight. Count one space on the ring. Which nakshatra will it be in tomorrow night?",
+     "kid": "This is a practice card. The Moon is on Ashwini. Count one space on. Which nakshatra is the Moon in tomorrow?",
      "check": {
       "t": "mcq",
       "q": "The Moon token is on Ashwini tonight. Which nakshatra will the Moon be in tomorrow night?",
@@ -438,7 +438,7 @@
      "do": "Play the game, taking turns, until the Moon token is back on Ashwini.",
      "say": "Your turn. Take a card, read it out and answer it. Then move the Moon one space.",
      "kid": "Your turn. Take a card. Read it. Answer it. Then move the Moon one space.",
-     "parent": "Help with counting round the ring. After Revati comes Ashwini again. For a counting card, count on the board together if the answer is not clear."
+     "parent": "Help with counting round the ring. After Revati comes Ashwini again. If a card asks your child to count spaces and the answer is not clear, count them on the board together."
     },
     {
      "id": "s4",
@@ -448,7 +448,7 @@
      "kid": "Count the turns. How many nights did the Moon take to go all the way round?",
      "ask": [
       {
-       "q": "What does the count tell us?",
+       "q": "The Moon took 27 turns to go all the way round the ring. What does that tell us about the real Moon?",
        "good": [
         "27 turns, so the real Moon takes about 27 days to go round the stars.",
         "That is why there are 27 nakshatras."
@@ -506,7 +506,7 @@
     "Shuffle the 20 cards and lay them face down in rows.",
     "On your turn, turn over two cards. If one is a STARS card and the other is a STORY told about those same stars, you keep the pair.",
     "Say which people tell that story. Then have another turn.",
-    "If they do not match, turn them back face down. The next player has a turn.",
+    "If the two cards do not match, turn them back face down. The next player has a turn.",
     "When all the cards are matched, the player with the most pairs wins. A tie is a shared win."
    ],
    "flow": [
@@ -524,7 +524,7 @@
      "do": "Play the game. When a pair is found, ask which people tell that story.",
      "say": "You found a pair. Who tells that story?",
      "kid": "Found a pair? Say who tells that story. Then go again.",
-     "parent": "Several story cards match the same star pattern. Any story card matches any STARS card for its pattern."
+     "parent": "Several story cards match the same star pattern. A story card matches any STARS card that shows its star pattern."
     },
     {
      "id": "s3",
@@ -610,7 +610,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. On scrap paper, draw seven dots in the shape of a ladle together: four in a bowl and three in a handle. 2. Ask the guess question below and wait for the answer and the reason.",
+     "do": "1. On scrap paper, draw seven dots together in the shape of a ladle: four in a bowl and three in a handle. 2. Ask the guess question below and wait for the answer and the reason.",
      "say": "These seven stars make a ladle. If we could fly out into space and look from the side, would they still look like a ladle? Why do you think so?",
      "kid": "Look at the seven stars of the Saptarishi. They make a ladle. Would they still look like a ladle from the side? Guess. Say why.",
      "ask": [
@@ -691,7 +691,7 @@
        "All in one straight row"
       ],
       "a": 1,
-      "why": "Five stars are about 80 light-years away, so their paper stars sit about 40 centimetres along. Kratu is at 62 centimetres and Marichi at 52, much nearer the wall. If you saw a ladle from the side, check that you are halfway along, looking across the threads."
+      "why": "Five stars are about 80 light-years away, so their paper stars sit about 40 centimetres along their threads. Kratu is at 62 centimetres and Marichi at 52, much nearer the wall. If you saw a ladle from the side, check that you are halfway between the card and the wall, looking across the threads."
      }
     },
     {
@@ -705,9 +705,9 @@
     {
      "id": "s8",
      "mins": 5,
-     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the seven stars of the Saptarishi are not all close together. What I saw: from the Earth card they made a ladle, but from the side five were in a group and two were far behind. Why: the stars only line up in that shape when you look from Earth. Now explain: a constellation is a pattern seen from one place. From a planet round another star, the same stars would make a different pattern."
     }
    ],
@@ -808,9 +808,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Switch the light back on. Ask your child to say or write what I think, what I saw, and why.",
+     "do": "Switch the light back on. Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "check": {
       "t": "mcq",
       "q": "In the dark, you saw more stars the longer you waited. Why?",
@@ -822,7 +822,7 @@
       "a": 1,
       "why": "Nothing on the paper changed, and the room stayed the same. Your eyes changed. Cells in your eye that see in dim light become much more sensitive after 20 to 30 minutes in the dark. This is called dark adaptation. If you picked 'the light under the door got brighter', check it next time: it stays the same."
      },
-     "parent": "A good answer: what I think, my eyes get better in the dark. What I saw, after 1 minute I saw 3 stars, and after 15 minutes I saw 10. Why, my eyes got used to the dark. Then explain: this is why stargazers wait 20 minutes on the terrace before they look for faint stars, and do not look at a phone."
+     "parent": "A good answer sounds like this. What I think: my eyes get better at seeing in the dark. What I saw: after 1 minute I saw 3 stars, and after 15 minutes I saw 10. Why: my eyes got used to the dark. Then explain: this is why stargazers wait 20 minutes on the terrace before they look for faint stars, and do not look at a phone."
     }
    ],
    "setup": [
@@ -905,12 +905,12 @@
     {
      "day": 2,
      "mins": 7,
-     "what": "Same time, same spot. Measure again from the same star."
+     "what": "At the same time and from the same spot, measure in fists from the same star to the Moon."
     },
     {
      "day": 3,
      "mins": 7,
-     "what": "Same time, same spot. Measure again."
+     "what": "At the same time and from the same spot, measure in fists from the same star to the Moon again."
     },
     {
      "day": 4,
@@ -923,7 +923,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Choose a week when the Moon is a crescent or half Moon in the evening sky. 2. That is about 3 to 8 days after Amavasya, the new Moon. 3. Ask the guess question.",
+     "do": "1. Choose a week when the Moon is a crescent or half Moon in the evening sky. That is about 3 to 8 days after Amavasya, the new Moon. 2. Ask the guess question.",
      "say": "Tomorrow at the same time, will the Moon be in the same place among the stars, or somewhere else? Why do you think so?",
      "kid": "Will the Moon be in the same place among the stars tomorrow? Guess. Say why.",
      "ask": [
@@ -945,7 +945,7 @@
      "say": "Hold your fist out straight, like this. How many fists fit between that bright star and the Moon?",
      "kid": "Hold your arm out straight. Make a fist. Count fists from the bright star to the Moon. Write it down.",
      "adult": true,
-     "parent": "A fist at arm's length covers about 10 degrees of sky, for children and grown-ups alike. If a building hides the star, or no bright star is near the Moon, ask a grown-up to pick one with a sky map and use it every night. If it is cloudy, skip that night and note the date. After a missed night the Moon will have moved twice as far."
+     "parent": "A fist at arm's length covers about 10 degrees of sky, for children and grown-ups alike. If a building hides the star, or no bright star is near the Moon, pick another star with a sky map and use that same star every night. If it is cloudy, skip that night and note the date. After a missed night the Moon will have moved twice as far."
     },
     {
      "id": "s3",
@@ -960,8 +960,8 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "On day 4, look at the table together. Ask your child to say what I think, what I saw, and why.",
-     "say": "How far did the Moon move each night? If it keeps going, how many nights to go all the way round the sky?",
+     "do": "On day 4, look at the table together. Ask your child to say three things: what they think, what they saw, and why they think it happened.",
+     "say": "How far did the Moon move each night? If it keeps going, how many nights will it take to go all the way round the sky?",
      "kid": "How far did the Moon move each night? Which way? Say what you think, what you saw, and why.",
      "check": {
       "t": "mcq",
@@ -972,9 +972,9 @@
        "About 1 year"
       ],
       "a": 1,
-      "why": "One nakshatra a night, and 27 nakshatras, makes about 27 nights. The real time is about 27 and one-third days. That is why Indian astronomers made 27 nakshatras: one for each day of the Moon's trip round the sky."
+      "why": "At one nakshatra a night, 27 nakshatras take about 27 nights. The real time is about 27 and one-third days. That is why Indian astronomers made 27 nakshatras: one for each day of the Moon's trip round the sky."
      },
-     "parent": "A good answer: what I think, the Moon moves east among the stars every night. What I saw, on night 1 it was 1 fist from the star, on night 2 a little over 2 fists, on night 3 about 3 and a half. Why, the Moon is going round the Earth. Then explain the nakshatras: the Moon's path is split into 27 parts, so it enters about one new nakshatra every night."
+     "parent": "A good answer sounds like this. What I think: the Moon moves east among the stars every night. What I saw: on night 1 it was 1 fist from the star, on night 2 a little over 2 fists, on night 3 about 3 and a half. Why: the Moon is going round the Earth. Then explain the nakshatras: the Moon's path is split into 27 parts, so it enters about one new nakshatra every night."
     }
    ],
    "setup": [
@@ -1106,7 +1106,7 @@
      "mins": 3,
      "do": "Check the month. From about February to June, the Saptarishi is up in the north in the evening. From about November to March, Krittika and Orion are high in the evening sky.",
      "say": "Tonight we hunt for a star pattern from home. First, let's find which way is north.",
-     "kid": "Tonight you hunt for a star pattern. First, find north. The Sun sets in the west. North is to its right.",
+     "kid": "Tonight you hunt for a star pattern. First, find north. Face where the Sun sets, which is west. North is then on your right.",
      "parent": "If you are not sure which patterns are up, a free sky map like Stellarium Web shows tonight's sky for your town.",
      "context": "This is the first step of the Find the Saptarishi activity. You look for real star patterns from home."
     },
@@ -1182,7 +1182,7 @@
      "mins": 4,
      "do": "Talk about what is the same and what is different.",
      "say": "What is the same in these stories? Why do you think so many people saw women or sisters?",
-     "kid": "What is the same in the stories? Why do so many see sisters?",
+     "kid": "What is the same in the stories? Why do so many people see sisters?",
      "ask": [
       {
        "q": "Why might some stories have six women and some have seven?",
@@ -1245,7 +1245,7 @@
      "do": "Show your child a printed calendar. Point to where it names the nakshatra for each day.",
      "say": "This calendar tells us which nakshatra the Moon is in each day. Can you find today's?",
      "kid": "Find today on the calendar. Which nakshatra is the Moon in today?",
-     "parent": "Many Tamil, Malayalam, Marathi and Bengali calendars print the nakshatra for each day, often in a corner of the date box. If you have no printed calendar, go straight to the next step, where the list is.",
+     "parent": "Many Tamil, Malayalam, Marathi and Bengali calendars print the nakshatra for each day, often in a corner of the date box. If you have no printed calendar, go straight to the next step, where the festivals are listed.",
      "context": "This is the first step of the Festival Stars activity. You find out which festivals are timed by the Moon's nakshatra."
     },
     {
@@ -1318,9 +1318,9 @@
      "id": "s1",
      "mins": 5,
      "do": "Fold the red plastic into two or three layers. Fix it over the torch with a rubber band or tape.",
-     "say": "Stargazers use red light, because it does not undo their dark eyes as much as white light. Let's make one.",
+     "say": "Once your eyes are used to the dark, white light undoes it. Red light undoes it much less, so stargazers use red light. Let's make a red torch.",
      "kid": "Fold the red plastic two or three times. Tape it over the torch.",
-     "context": "This is the first step of the Red Torch activity. You make a torch that lets you read star maps without spoiling your night eyes."
+     "context": "This is the first step of the Red Torch activity. You make a torch that lets you read star maps while your eyes stay used to the dark."
     },
     {
      "id": "s2",
@@ -1466,7 +1466,7 @@
    ],
    "creative": [
     "Use a planet as part of the shape, then watch it wander out of the pattern over a few weeks.",
-    "Make the story explain the stars' brightness: the brightest star is the eldest sister.",
+    "Make the story explain how bright the stars are. For example, the brightest star is the eldest sister.",
     "Measure the shape in fists, so the directions work anywhere."
    ],
    "your_turn": "Now invent your own. Test your directions on a family member. Can they find it without your help?",
@@ -1596,8 +1596,8 @@
    "channel": "American Museum of Natural History",
    "youtube": "sBfUBtdo8yo",
    "mins": 3,
-   "why": "A short data film from a natural history museum. It shows the stars of the Big Dipper, which is the Saptarishi, moving over many thousands of years, so the ladle bends out of shape.",
-   "check": "Preview it first. It is a short museum data film, not made for children."
+   "why": "A short film from a natural history museum. It shows the stars of the Big Dipper, which is the Saptarishi, moving over many thousands of years, so the ladle bends out of shape.",
+   "check": "Preview it first. It is a short museum film, not made for children."
   },
   {
    "title": "Where Are the Stars? See How Light Pollution Affects Night Skies",
@@ -1627,11 +1627,11 @@
    ],
    "a": 0,
    "outcome": 0,
-   "why": "Constellations join stars that lie in the same direction from Earth. Their distances are usually very different. Picking 'all the same distance' is what the sky makes us think, because it looks like a flat dome."
+   "why": "Constellations join stars that lie in the same direction from Earth. Their distances are usually very different. The sky looks like a flat dome, which makes us think the stars are all the same distance away."
   },
   {
    "t": "mcq",
-   "p": "In the Thread Saptarishi model, Meenakshi, a girl in Class 3, looked at the paper stars from the side. What did she see?",
+   "p": "In the Thread Saptarishi model, you look at the paper stars from the side. What do you see?",
    "opts": [
     "A ladle, just like from the Earth card",
     "Five paper stars close together, and two much further away",
@@ -1641,7 +1641,7 @@
    "outcome": 1,
    "how": "e1",
    "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
-   "why": "Five stars are about 80 light-years away and two are much further. From the side, the distance differences show. The ladle shows only from the Earth card."
+   "why": "Five stars are about 80 light-years away and two are much further. From the side, you can see that difference. The ladle shows only from the Earth card."
   },
   {
    "t": "mcq",
@@ -1653,7 +1653,7 @@
    ],
    "a": 0,
    "outcome": 2,
-   "why": "One nakshatra for each day of the Moon's trip round the sky. The real time is about 27 and one-third days."
+   "why": "There is one nakshatra for each day of the Moon's trip round the sky. The real time is about 27 and one-third days."
   },
   {
    "t": "mcq",
@@ -1717,15 +1717,15 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi, a girl in Madurai, goes onto the terrace to look for faint stars. What should she do first?",
+   "p": "You go onto the terrace to look for faint stars. What should you do first?",
    "opts": [
-    "Switch off nearby lights and wait about 20 minutes without looking at her phone",
-    "Look at her phone to find the stars quickly",
+    "Switch off nearby lights and wait about 20 minutes without looking at your phone",
+    "Look at your phone to find the stars quickly",
     "Shine a bright white torch at the sky"
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Her eyes need 20 to 30 minutes of darkness to see faint stars. A bright phone screen or white torch undoes it. A dim red light is fine."
+   "why": "Your eyes need 20 to 30 minutes of darkness to see faint stars. A bright phone screen or white torch undoes it. A dim red light is fine."
   },
   {
    "t": "mcq",
@@ -1757,7 +1757,7 @@
       "A very bright star"
      ],
      "a": 1,
-     "why": "A constellation is a pattern people see and name, such as the Saptarishi or Orion. Its stars are usually far apart in space. Picking 'close together in space' is the most common mistake, and the thread model shows why it is wrong."
+     "why": "A constellation is a pattern people see and name, such as the Saptarishi or Orion. Its stars are usually far apart in space. Picking 'close together in space' is the most common mistake. The Thread Saptarishi model shows why it is wrong: from the side, two paper stars were far behind the other five."
     },
     {
      "t": "truefalse",
@@ -1866,7 +1866,7 @@
       "Red light is brighter"
      ],
      "a": 1,
-     "why": "The cells that see in dim light are not very sensitive to red, so a dim red light lets you read a map without spoiling your night eyes. Red is not brighter, and starlight is many colours."
+     "why": "The cells that see in dim light are not very sensitive to red, so a dim red light lets you read a map while your eyes stay used to the dark. Red is not brighter, and starlight is many colours."
     },
     {
      "t": "order",
@@ -1925,7 +1925,7 @@
        "says": "The stars are real, and the ladle is a real view from Earth. It just isn't a group of stars that belong together."
       }
      ],
-     "ask": "Who do you agree with most? Give a reason from the thread model. Then say one thing another person has right.",
+     "ask": "Who do you agree with most? Give a reason from the Thread Saptarishi model. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence: from the side, the paper stars did not make a ladle, so Meena has a point. But it also admits that from Earth the ladle really does show every time, as the grandmother says.",
      "why": "This is a real question about what 'real' means. Everyone agrees on the facts: the distances and the view from Earth. They disagree about whether a view counts as a real thing."
@@ -1970,16 +1970,16 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 4, is doing the Eyes in the Dark test. After 10 minutes her younger brother switches on the room light for a moment. What will happen to her count?",
+     "p": "You are doing the Eyes in the Dark test. After 10 minutes someone switches on the room light for a moment. What will happen to your count of stars?",
      "opts": [
       "It goes up",
-      "It drops, and she has to wait again",
+      "It drops, and you have to wait again",
       "It stays the same"
      ],
      "a": 1,
      "how": "e2",
      "context": "In the Eyes in the Dark experiment, you sit in a nearly dark room and count faint pencil stars on a paper after 1, 5, 10 and 15 minutes.",
-     "why": "Bright white light undoes much of the dark adaptation in a moment. Her eyes need several minutes in the dark again to recover."
+     "why": "Bright white light undoes much of the dark adaptation in a moment. Your eyes need several minutes in the dark again to recover."
     },
     {
      "t": "fill",
@@ -1992,7 +1992,7 @@
     },
     {
      "t": "write",
-     "p": "In the Moon's Daily Step experiment, Kavya, a girl in your class, found the Moon was 1 fist east of a bright star on Monday and about 3 and a half fists east on Wednesday, at the same time. How far did the Moon move each night? About how long would it take to go all the way round the sky?",
+     "p": "In the Moon's Daily Step experiment, the Moon was 1 fist east of a bright star on Monday and about 3 and a half fists east on Wednesday, at the same time. How far did the Moon move each night? About how long would it take to go all the way round the sky?",
      "lines": 4,
      "how": "e3",
      "context": "In the Moon's Daily Step experiment, you measure with your fist how far the Moon is from a bright star, at the same time on three nights.",
@@ -2101,7 +2101,7 @@
     },
     {
      "t": "write",
-     "p": "Farhan, a boy in Class 4, says: 'The Moon is in Krittika tonight, so it will be in Krittika all month.' Use what you know about the nakshatras to explain his mistake.",
+     "p": "Someone says: 'The Moon is in Krittika tonight, so it will be in Krittika all month.' Use what you know about the nakshatras to explain the mistake.",
      "lines": 3,
      "a": "The Moon moves east among the stars into about one new nakshatra each night. Tonight Krittika, tomorrow Rohini, the next night Mrigashira. It comes back to Krittika after about 27 nights.",
      "why": "A strong answer says how fast the Moon moves among the stars and gives the next nakshatras as evidence."
@@ -2157,7 +2157,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Imagine you live on a planet round Kratu, the star at the corner of the Saptarishi's bowl. Would you see the Saptarishi? Explain using the thread model.",
+     "p": "Suppose you lived on a planet round Kratu, the star at the corner of the Saptarishi's bowl. Would you see the Saptarishi? Explain using the thread model.",
      "lines": 5,
      "how": "e1",
      "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
@@ -2243,7 +2243,7 @@
     },
     {
      "t": "draw",
-     "p": "Design a model, like the thread model, for Orion. Draw where you would place Betelgeuse (about 550 light-years away) and Bellatrix (about 250 light-years away) on their threads, using 1 centimetre for every 10 light-years.",
+     "p": "Design a model for Orion, like the Thread Saptarishi model. Draw where you would place Betelgeuse (about 550 light-years away) and Bellatrix (about 250 light-years away) on their threads, using 1 centimetre for every 10 light-years.",
      "a": "Betelgeuse's paper star at about 55 centimetres along its thread, and Bellatrix's at about 25 centimetres.",
      "why": "550 divided by 10 is 55, and 250 divided by 10 is 25. Betelgeuse is over twice as far away as Bellatrix, though both are 'shoulders' of Orion.",
      "art": "A blank card with a hole on the left and two lines to dots marked Betelgeuse and Bellatrix on the right."
@@ -2274,7 +2274,7 @@
     },
     {
      "t": "write",
-     "p": "Sneha, a girl in Class 5, says: 'If an old star list does not match today's sky, the old list must just be full of mistakes.' Most stars on the list match well. Only a few bright ones are far out of place. How does that help you decide?",
+     "p": "Someone says: 'If an old star list does not match today's sky, the old list must just be full of mistakes.' But most stars on the list match well. Only a few bright ones are far out of place. How does that help you decide?",
      "lines": 4,
      "a": "If the old list were careless, the mistakes would be spread over many stars. But most stars match, and only a few bright ones are far out. It is unlikely someone would make big mistakes only on the brightest stars and not their neighbours. So those stars have really moved.",
      "why": "A strong answer explains that the pattern of the differences, not one difference, is the evidence."
@@ -2320,18 +2320,18 @@
       "No, because there are no stars in the Moon's sky"
      ],
      "a": 0,
-     "why": "The Moon is about 1.3 light-seconds away, but the stars are tens of light-years away. Compared with that, the Moon is right next to Earth, so the patterns look the same. To change the shape, you must travel light-years."
+     "why": "Light from the Moon reaches us in about 1.3 seconds, but light from the stars takes tens of years. Compared with the stars, the Moon is right next to Earth, so the patterns look the same. To change the shape, you must travel light-years."
     },
     {
      "t": "label",
      "p": "On the drawing of the Moon's path, label: the Moon tonight, the Moon tomorrow, east, west, and one nakshatra.",
      "a": "The Moon tomorrow is about one nakshatra east of the Moon tonight. East is the direction the Moon moves among the stars.",
-     "why": "The Moon moves east among the stars about 13 degrees each night, one nakshatra.",
+     "why": "The Moon moves east among the stars about 13 degrees each night, which is one nakshatra.",
      "art": "A curved band across the night sky with small star groups, two blank Moon circles and five blank label lines."
     },
     {
      "t": "write",
-     "p": "Someone says the Saptarishi is 'real from here'. Write what you think they mean. Use the thread model in your answer.",
+     "p": "Someone says the Saptarishi is 'real from here'. Write what you think they mean. Use the Thread Saptarishi model in your answer.",
      "lines": 5,
      "a": "The ladle shape is real when you look from Earth, because the seven stars really do lie in those directions. But it is not a group of stars that belong together, because they are at different distances. A cluster like Krittika is different: its stars really are close in space.",
      "why": "A strong answer separates the view from Earth and the real places in space, and may compare it with stars that really are neighbours."
@@ -2482,15 +2482,15 @@
    "why_maths": "The nakshatras go round in a circle, like the hours on a clock, so after the last one you start again from 1."
   },
   {
-   "problem": "In the Eyes in the Dark test, Lakshmi, the girl in the story, counted 3 stars after 1 minute, 6 after 5 minutes, 9 after 10 minutes and 10 after 15 minutes. Draw a bar chart. Between which two times did she gain the fewest stars? What does that tell you?",
-   "answer": "Between 10 and 15 minutes, when she gained only 1 star. Her eyes were getting close to their best.",
-   "explain": "From 1 to 5 minutes she gained 3. From 5 to 10 she gained 3. From 10 to 15 she gained only 1. The gains get smaller, because the eyes have nearly finished adapting.",
+   "problem": "In the Eyes in the Dark test, suppose you count 3 stars after 1 minute, 6 after 5 minutes, 9 after 10 minutes and 10 after 15 minutes. Draw a bar chart. Between which two times did you gain the fewest stars? What does that tell you?",
+   "answer": "Between 10 and 15 minutes, when you gained only 1 star. Your eyes were getting close to their best.",
+   "explain": "From 1 to 5 minutes you gained 3. From 5 to 10 you gained 3. From 10 to 15 you gained only 1. The gains get smaller, because the eyes have nearly finished adapting.",
    "math_unit": "math.data.bar-charts.L3",
    "how": "e2",
    "context": "In the Eyes in the Dark experiment, you sit in a nearly dark room and count faint pencil stars on a paper after 1, 5, 10 and 15 minutes.",
    "answer_chart": {
     "type": "bar",
-    "title": "Stars Lakshmi saw in the dark (made-up results)",
+    "title": "Stars seen in the dark (made-up results)",
     "x": "Minutes in the dark",
     "y": "Stars seen (out of 12)",
     "data": [
@@ -2626,7 +2626,7 @@
   },
   {
    "q": "Why use a red torch for stargazing?",
-   "a": "Red light does not spoil your night eyes as much as white light."
+   "a": "Once your eyes are used to the dark, red light undoes it much less than white light."
   },
   {
    "q": "Which way does the Moon move among the stars each night?",
@@ -2713,11 +2713,11 @@
   ]
  },
  "roots": {
-  "context": "We have been learning that a constellation is a pattern of stars seen from Earth, and that the Moon walks through the 27 nakshatras. Now we ask what star patterns tell us about ourselves and the world.",
+  "context": "We have been learning that a constellation is a pattern of stars seen from Earth, and that the Moon moves through the 27 nakshatras. Now we ask what star patterns tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the thread model, the seven paper stars made the Saptarishi only from the Earth card. From the side, two of them were far behind the other five. The real seven stars are spread out in space in the same way. So a constellation is a shape that the stars make only when seen from near Earth.",
-   "habit": "We talk about a constellation as a group of stars, like a family living in one house. Most constellations are stars at very different distances, which only line up when seen from where we are.",
-   "evidence": "In the thread model, the ladle showed only from the Earth card and broke apart from the side. Measured distances say the same: Kratu is about 123 light-years away and Pulaha, just below him, about 80."
+   "truth": "In the Thread Saptarishi experiment, the seven paper stars made the Saptarishi only from the Earth card. From the side, two of them were far behind the other five. The real seven stars are spread out in space in the same way. So a constellation is a shape that the stars make only when seen from near Earth.",
+   "habit": "We talk about a constellation as a group of stars, like a family living in one house. But most constellations are made of stars at very different distances, which only line up when seen from where we are.",
+   "evidence": "In the Thread Saptarishi experiment, the ladle showed only from the Earth card and broke apart from the side. Measured distances say the same: Kratu is about 123 light-years away and Pulaha, just below him, about 80."
   },
   "three": {
    "who_am_i": "You are standing in the one place where the Saptarishi is a ladle. Part of every star pattern you see comes from where you are.",
@@ -2734,7 +2734,7 @@
    {
     "source": "The parable of the blind men and the elephant, told in Jain teaching on anekantavada (many-sidedness) and in the Buddhist Udana 6.4",
     "teaching": "Each blind man touches one part of an elephant, a leg, the trunk or an ear, and is sure the elephant is like a pillar, a snake or a fan. Each is partly right, and none sees the whole animal.",
-    "link": "From the Earth card the paper stars made a ladle. From the side they made a scattered group. Each view was true from its place, and you needed both to understand the stars."
+    "link": "In the Thread Saptarishi model, the paper stars made a ladle from the Earth card. From the side they made a scattered group. Each view was true from its place, and you needed both to understand the stars."
    }
   ],
   "science": [
@@ -2766,7 +2766,7 @@
  },
  "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat today, with the materials listed. The thread model was checked on paper: the seven dot positions make the ladle about 44 centimetres wide on a 60 centimetre sheet, which is the right size for the Saptarishi seen from 1 metre. The longest thread distance, Kratu at 62 centimetres, fits inside a 1 metre gap. The dark-room test uses pencil marks of different pressure, phone alarms for the times, and asks the parent to open or close the door if the child sees none or all at once. The Orion dots are drawn by hand from the positions given. The Moon experiment says which week to choose and what to do on a cloudy night. Night sky activities are outside the spine, because clouds and season decide what can be seen.",
  "how_we_found_out": {
-  "story": "For about 2,000 years, astronomers called the stars the 'fixed stars'. The Moon, the Sun and the planets wandered across the sky, but the stars seemed to keep the same places against each other for ever. So the constellations would never change shape. In 1718, the English astronomer Edmond Halley tested this. He compared star positions measured in his own time with the star list in Ptolemy's book, the Almagest, made in Alexandria about 1,550 years earlier. Most stars matched. But a few bright stars, including Sirius and Arcturus, did not. They were out of place by about the width of the full Moon or more. Halley reasoned that Ptolemy could hardly have made such large mistakes on the brightest stars, while getting their neighbours right. So these stars must have moved. Later astronomers measured the movements of thousands of stars. Every star moves. They only look fixed because they are so far away. Arcturus is the nakshatra Swati, and it is one of the fastest-moving bright stars in our sky.",
+  "story": "For about 2,000 years, astronomers called the stars the 'fixed stars'. The Moon, the Sun and the planets wandered across the sky, but the stars seemed to keep the same places against each other for ever. So people thought the constellations would never change shape. In 1718, the English astronomer Edmond Halley tested this. He compared star positions measured in his own time with the star list in Ptolemy's book, the Almagest, made in Alexandria about 1,550 years earlier. Most stars matched. But a few bright stars, including Sirius and Arcturus, did not. They were out of place by about the width of the full Moon or more. Halley reasoned that Ptolemy could hardly have made such large mistakes on the brightest stars, while getting their neighbours right. So these stars must have moved. Later astronomers measured the movements of thousands of stars. Every star moves. They only look fixed because they are so far away. Arcturus is the nakshatra Swati, and it is one of the fastest-moving bright stars in our sky.",
   "who": "Edmond Halley, an English astronomer, using the star list of Ptolemy of Alexandria",
   "when": "1718 (Ptolemy's star list is from about 150 CE)",
   "wrong_idea": "People thought the stars were fixed, so the constellations would keep the same shapes for ever. Halley showed that Sirius and Arcturus had moved since Ptolemy's time, so the stars do move and the patterns slowly change."
