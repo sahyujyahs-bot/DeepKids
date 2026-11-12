@@ -3,12 +3,12 @@
  "title": "How animals learn: getting used to things, linking things, and teaching",
  "level": 4,
  "summary": {
-  "text": "A sparrow that fled a scarecrow on Monday sits on its hat by Friday. Was she careless, or did she learn something? You will test this with a spoon, a plate and two volunteers, and find that getting used to a harmless sound is learned, kept and specific to that sound. Then you follow learning outwards. Animals link a taste to feeling ill in one go, bees learn which flower pays and at what hour, and meerkats and ants teach. Learning happens in a sea slug with 20,000 nerve cells, and scientists argue that a slime mould with none shows a learning-like change too. Inside a nervous system, it is a change in the connections between cells.",
+  "text": "A sparrow who flies away from a new scarecrow on Monday may be sitting on the scarecrow's head by Friday. She has not become careless. She has learned that the scarecrow does no harm. In the Spoon Test, you check the same thing on two volunteers with a spoon and a plate. You find that getting used to a harmless sound is a kind of learning: it grows with repeats, it is kept, and it belongs to that one sound. Then you look at other kinds of learning. Animals can link a taste to feeling ill after just one time. Bees learn which flowers have nectar, and at what time of day. Meerkats and ants teach. A sea slug with only 20,000 nerve cells learns, and scientists argue about whether a slime mould, with no nerve cells at all, shows a change like learning too. Inside a nervous system, learning is a change in the connections between nerve cells.",
   "art": "A sparrow sitting on the clay-pot head of a scarecrow in a rice field, with small pictures around it: a sea slug, a bee at a blue flower, a meerkat helper with a pup, and two nerve cells joined by a tiny gap."
  },
  "intro": {
   "hook": "Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?",
-  "text": "The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you follow learning outwards: to bees, meerkats and songbirds, to a sea slug with only 20,000 nerve cells, and to a slime mould with no nerve cells at all.",
+  "text": "The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould with no nerve cells at all.",
   "art": "A child sitting very still in a living room with a ceiling fan, a fridge and a wall clock, each with faint sound waves that the child has stopped noticing."
  },
  "outcomes": [
@@ -125,7 +125,7 @@
   {
    "concept": "Learned, or just tired? How scientists tell",
    "status": "defined",
-   "definition": "A drop in response counts as habituation, and not as tiredness, when it grows with repeats, comes back for a new stimulus, and belongs to one stimulus.",
+   "definition": "A drop in response counts as habituation, and not as tiredness, when it grows with repeats, when a new stimulus still gets a full response, and when the drop is only for the stimulus that was repeated.",
    "description": "In 1966, Richard Thompson and William Spencer listed the signs that a drop in response is learned and not tiredness. First, the response gets smaller with each repeat. Second, a rest lets it come back a little. Third, a different stimulus still gets a full reaction, because the drop belongs to the old stimulus only. A tired being would react less to everything, so a strong response to a new sound shows that only the old sound has been learned as harmless. A strong new stimulus can also bring back the reaction to the old one, and that is called dishabituation. Sounds that are weaker or that come faster are usually ignored sooner.",
    "examples": [
     "After ignoring a spoon, a person jumps at a rattling tin.",
@@ -152,7 +152,7 @@
    "concept": "Linking things: association",
    "status": "defined",
    "definition": "Association is learning that two things go together, so that one makes the being expect the other.",
-   "description": "In the early 1900s, Ivan Pavlov showed that a bell that came before food made dogs drool at the bell alone. Bees link a flower colour with nectar. Some links form fast. After one bad meal, a person or animal may avoid that taste for years. In 1966, John Garcia and Robert Koelling found that rats link a taste with feeling ill, even a long time later, but not a flash of light or a click. A body is ready for some links more than for others, and the ready ones are often the ones that keep a being alive.",
+   "description": "In the early 1900s, Ivan Pavlov showed that a bell that came before food made dogs drool at the bell alone. Bees link a flower colour with nectar. Some links form fast. After one bad meal, a person or animal may avoid that taste for years. In 1966, John Garcia and Robert Koelling found that rats link a taste with feeling ill, even when the illness comes a long time later. Rats do not link a flash of light or a click with feeling ill. A body is ready for some links more than for others, and the ready ones are often the ones that keep a being alive.",
    "examples": [
     "A cat comes running at the sound of a tin being opened.",
     "A child avoids a food that once made her ill.",
@@ -164,12 +164,12 @@
   {
    "concept": "Bees: small bodies that learn",
    "status": "defined",
-   "definition": "Honeybees and bumblebees learn the colour, smell, shape and place of flowers that pay, and even the time of day.",
+   "definition": "Honeybees and bumblebees learn the colour, smell, shape and place of flowers that have nectar, and even the time of day.",
    "description": "A honeybee's brain has about a million nerve cells, and a human brain has about 86 billion. Yet bees learn a lot. In 1929, Ingeborg Beling showed that honeybees fed at the same time each day came at that time on later days, even with no food there. In 2017, Olli Loukola, Lars Chittka and colleagues showed that bumblebees can learn to roll a ball to a goal for sugar by watching another bee, while bees that saw no demonstration learned more slowly. So learning does not need a big brain. It needs a body that can change with experience.",
    "examples": [
     "A honeybee returns to a feeder at four o'clock each day.",
     "A bumblebee learns to roll a ball by watching another bee.",
-    "A bee switches to a new flower colour when the old one stops paying."
+    "A bee switches to a new flower colour when the old one stops giving nectar."
    ],
    "perspectives": [],
    "art": "A bumblebee rolling a small ball towards a circle marked with sugar, while another bee watches."
@@ -177,7 +177,7 @@
   {
    "concept": "Learning without a brain",
    "status": "debated",
-   "description": "A bacterium swimming towards food compares the food now with a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, got used to crossing a harmless bitter bridge to reach food after several days. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop about a month later. Scientists agree that these changes happen. They argue about whether to call them learning.",
+   "description": "A bacterium swimming towards food compares how much food there is now with how much there was a few seconds ago, which is a tiny memory (Segall, Block and Berg, 1986). Stentor, a trumpet-shaped one-celled animal in ponds, first bends away from a puff of particles, and after many puffs stops reacting (Herbert Spencer Jennings, 1906, confirmed by Donald Wood in the 1970s). In 2016, Audrey Dussutour and colleagues showed that slime moulds, which are single giant cells, at first avoided a harmless bitter bridge on the way to food, and after several days got used to crossing it. In 2014, Monica Gagliano and colleagues reported that the plant Mimosa pudica, the touch-me-not, stopped folding the leaves when dropped again and again, and still ignored the drop about a month later. Scientists agree that these changes happen. They argue about whether to call them learning.",
    "examples": [
     "A slime mould crosses a bitter bridge that was first avoided.",
     "A touch-me-not plant stops folding the leaves at a harmless drop.",
@@ -186,7 +186,7 @@
    "perspectives": [
     {
      "who": "Scientists who link learning to nervous systems",
-     "explanation": "Learning needs nerve cells that change their connections. In a one-celled animal or a plant, the change may be simple adaptation of the cell's chemistry, and a different word would be clearer."
+     "explanation": "Learning needs nerve cells that change their connections. In a one-celled animal or a plant, the change may be the cell's chemistry simply adjusting, and a different word would be clearer."
     },
     {
      "who": "Scientists who study simple living things",
@@ -194,7 +194,7 @@
     },
     {
      "who": "Plant scientists who ask for more tests",
-     "explanation": "The Mimosa result is striking. Other laboratories want to repeat it, and to rule out the leaf's moving cells simply getting tired."
+     "explanation": "The Mimosa result is striking. Other laboratories want to repeat it, and to make sure that the cells that move the leaf were not simply tired."
     }
    ],
    "art": "A slime mould spreading over a bridge of oats, a trumpet-shaped Stentor in pond water, and a touch-me-not plant with open leaves."
@@ -203,11 +203,11 @@
    "concept": "Where the learning is kept: connections between nerve cells",
    "status": "defined",
    "definition": "A synapse is the tiny gap where one nerve cell passes a chemical message to the next, and learning changes how strongly synapses pass the message.",
-   "description": "In a sea slug, repeated gentle touches make the touch-sensing cell release less chemical across its synapse, so the gill pulls in less. A shock makes it release more. In 1949, Donald Hebb suggested that when one cell repeatedly helps to fire the next, the connection between them grows stronger. The phrase 'cells that fire together wire together' is often credited to Carla Shatz (1992). In people, Eleanor Maguire and colleagues found in 2000 that London taxi drivers, who learn about 25,000 streets, had a larger back part of the hippocampus, a part of the brain used for places. In 2011, trainees who passed the exam were found to have grown that part, and trainees who failed had not. So learning leaves a physical mark.",
+   "description": "In a sea slug, repeated gentle touches make the touch-sensing cell release less chemical across its synapse, so the gill pulls in less. A shock makes it release more. In 1949, Donald Hebb suggested that when one cell repeatedly helps to fire the next, the connection between them grows stronger. The phrase 'cells that fire together wire together' is often credited to Carla Shatz (1992). In people, Eleanor Maguire and colleagues found in 2000 that London taxi drivers, who learn about 25,000 streets, had a larger back part of the hippocampus, a part of the brain used for places. In 2011, trainee taxi drivers who passed their exam were found to have grown that part, and trainees who failed had not. So learning leaves a physical mark.",
    "examples": [
     "A sea slug's touch-sensing cell sends less chemical after many touches.",
     "A taxi driver's hippocampus grows as they learn the streets.",
-    "A path in grass gets clearer each time it is walked."
+    "A path in grass gets clearer each time someone walks on it. In the same way, a connection between nerve cells gets stronger with use."
    ],
    "perspectives": [],
    "art": "Two nerve cells with a gap between them, with fewer chemical dots crossing on one side and more on the other."
@@ -228,7 +228,7 @@
   {
    "concept": "Showing and teaching",
    "status": "debated",
-   "description": "In 1992, Tim Caro and Marc Hauser said that animal teaching needs three things. The teacher changes what she does only when a learner is near. It costs her something. And the learner learns faster. In 2006, Alex Thornton and Katherine McAuliffe showed that meerkat helpers give young pups dead scorpions, and give live ones as the pups get older. In 2006, Nigel Franks and Tom Richardson showed that a leader ant in a tandem run slows down and waits when the follower falls behind, which costs her time. Scientists agree on what these animals do. They argue about whether to call it teaching.",
+   "description": "In 1992, Tim Caro and Marc Hauser said that animal teaching needs three things. The teacher changes what she does only when a learner is near. It costs her something. And the learner learns faster. In 2006, Alex Thornton and Katherine McAuliffe showed that meerkat helpers give young pups dead scorpions, and give live ones as the pups get older. In 2006, Nigel Franks and Tom Richardson studied tandem runs, where one ant leads another. They showed that the leader ant slows down and waits when the follower falls behind, which costs her time. Scientists agree on what these animals do. They argue about whether to call it teaching.",
    "examples": [
     "A meerkat helper gives a pup a scorpion with the stinger removed.",
     "A leader ant waits for a follower in a tandem run.",
@@ -241,7 +241,7 @@
     },
     {
      "who": "Scientists who want more",
-     "explanation": "In people, a teacher knows what the learner does not know. We cannot tell whether a meerkat or an ant knows this, so some prefer the words helping to learn."
+     "explanation": "In people, a teacher knows what the learner does not know. We cannot tell whether a meerkat or an ant knows this, so some scientists prefer to call it 'helping to learn'."
     }
    ],
    "art": "A meerkat helper offering a crippled scorpion to a pup, and a leader ant waiting for a follower who is touching her back."
@@ -250,10 +250,10 @@
    "concept": "Spacing it out",
    "status": "defined",
    "definition": "Spaced practice is practice spread over time with breaks, and it usually leaves a longer-lasting memory than the same practice done all at once.",
-   "description": "In 1885, Hermann Ebbinghaus reported that learning spread over several days beat the same learning crammed together. Sea slugs show it too. In 1972, Thomas Carew, Harold Pinsker and Eric Kandel found that touches spread over days made getting used to last for weeks, while the same number of touches in one block did not last as long. Randolf Menzel and colleagues found a similar result in honeybees in 2001. Making a lasting memory takes a cell time to build new parts, and the breaks between sittings give it that time.",
+   "description": "In 1885, Hermann Ebbinghaus reported that learning spread over several days beat the same learning crammed together. Sea slugs show it too. In 1972, Thomas Carew, Harold Pinsker and Eric Kandel found that when touches were spread over days, a sea slug stayed used to the touch for weeks. The same number of touches in one block did not last as long. Randolf Menzel and colleagues found a similar result in honeybees in 2001. A cell needs time to build new parts for a lasting memory, and the breaks between sittings give it that time.",
    "examples": [
     "Four short sittings through a day beat one long sitting for a list of words.",
-    "Sea slug touches spread over days make a longer-lasting change.",
+    "Touches spread over days make a longer-lasting change in a sea slug.",
     "Honeybees remember a flower better after spaced visits."
    ],
    "perspectives": [],
@@ -267,7 +267,7 @@
   },
   {
    "text": "Learning changes the connections between nerve cells.",
-   "evidence": "Eric Kandel's team (from 1970) traced getting used to a touch in a sea slug to less chemical crossing one synapse."
+   "evidence": "Eric Kandel's team (from 1970) found that when a sea slug gets used to a touch, less chemical crosses one synapse."
   },
   {
    "text": "Practice spread over time usually lasts longer than practice crammed together.",
@@ -298,7 +298,7 @@
    "claim": "Plants such as the touch-me-not learn.",
    "who": "Monica Gagliano and colleagues, 2014",
    "for": "Plants dropped many times stopped folding the leaves, and still ignored the drop about a month later.",
-   "against": "Other laboratories want to repeat the result, and to rule out tired leaf cells.",
+   "against": "Other laboratories want to repeat the result, and to make sure the leaf cells were not simply tired.",
    "status": "minority"
   },
   {
@@ -318,7 +318,7 @@
  ],
  "big_questions": [
   {
-   "q": "A sparrow ignores a scarecrow but flies from a hawk. Is she ignoring less, or noticing better?",
+   "q": "A sparrow ignores a scarecrow but flies from a hawk. Is she paying less attention, or is she better at noticing what matters?",
    "kind": "deep",
    "hint": "Think of the Spoon Test. The person ignored the spoon but jumped at the rice tin."
   },
@@ -330,7 +330,7 @@
   {
    "q": "Is a memory kept in one place, or is it a way that many cells are connected?",
    "kind": "deep",
-   "hint": "Look at what Lashley did not find, and what Kandel did find."
+   "hint": "Karl Lashley cut away parts of rats' brains and never found one spot where a memory lived. Eric Kandel traced a simple memory in a sea slug to a single connection between cells."
   },
   {
    "q": "A person gets sick once from a food, and avoids it for years. Is that learning too fast, or learning well?",
@@ -340,7 +340,7 @@
   {
    "q": "If a being gets used to everything harmless, what is left for her to notice?",
    "kind": "big",
-   "hint": "The sparrow noticed the hawk. What kinds of things are worth noticing?"
+   "hint": "In the story The Hat on the Scarecrow, the sparrows ignored the scarecrow but noticed the hawk. What kinds of things are worth noticing?"
   },
   {
    "q": "What do you ignore every day, and who or what taught you to ignore it?",
@@ -401,7 +401,7 @@
    "title": "Bee School: which flower pays?",
    "mins": 23,
    "players": "2 to 4 players",
-   "context": "This is a guessing game about learning from a pay-off. One player is the garden and the others are bees. The bees must work out which flower colour has nectar, even when the garden quietly changes it.",
+   "context": "In this guessing game, one player is the garden keeper and the others are bees. The bees must work out which flower colour gives nectar. The keeper changes the colour during the game without telling them, so the bees learn only from whether they get nectar.",
    "setup": [
     {
      "art": "Three flower cards, blue, yellow and red, laid in a row on a table, with three face-down cards in front of the garden keeper.",
@@ -446,7 +446,7 @@
     },
     {
      "kind": "score sheet",
-     "title": "3 score blocks, one for each 8 rounds",
+     "title": "3 score blocks, one for every 8 rounds",
      "items": [
       "Block 1, rounds 1 to 8. Draw eight boxes. In each box write B, Y or R. Circle the box if you got nectar.",
       "Block 2, rounds 9 to 16. Draw eight boxes. In each box write B, Y or R. Circle the box if you got nectar.",
@@ -455,10 +455,10 @@
     }
    ],
    "rules": [
-    "One player is the garden keeper. The other players are bees. With two players, swap roles for a second game. With one child, the parent is the garden keeper. Bees write their pick on their own sheet before anyone says nectar, so they cannot copy each other.",
+    "One player is the garden keeper. The other players are bees. With two players, swap roles for a second game. With one child, the parent is the garden keeper. Bees write their pick on their own sheet before the keeper says 'nectar', so they cannot copy each other.",
     "The keeper shuffles the three rule cards and lays them face down in a row. Nobody looks at them. The first card is the rule for rounds 1 to 8. The second is for rounds 9 to 16. The third is for rounds 17 to 24.",
     "Each round, every bee writes B, Y or R on their own score sheet to pick blue, yellow or red. The keeper looks at the rule for that block.",
-    "The keeper says nectar to each bee who picked the paying colour, and nothing to each bee who did not. Bees circle their box if they got nectar.",
+    "The keeper says 'nectar' to each bee who picked the paying colour, and says nothing to each bee who did not. Bees circle their box if they got nectar.",
     "The keeper must never say which colour pays, and never says when the rule changes.",
     "After round 24, each bee counts the nectar in each block. The bee with the most nectar in total wins. If there is a tie, the tied bees share the win."
    ],
@@ -467,15 +467,15 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the flower cards and the rule cards. Choose the garden keeper. Shuffle the rule cards and lay them face down. Each bee draws a score sheet with three blocks of eight boxes.",
-     "say": "One of us is the garden. The others are bees. The bees must find out which flower has nectar. The garden will change the paying flower, and will not say when.",
+     "say": "One of us is the garden keeper. The others are bees. The bees must find out which flower has nectar. The keeper will change the paying flower, and will not say when.",
      "kid": "Cut out the cards. Pick a garden keeper. Draw your score sheet.",
      "context": "This is the first step of Bee School. You set up the cards and the score sheets."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Play rounds 1 to 8. Each bee writes a colour. The keeper says nectar or nothing. Bees circle the box if they got nectar.",
-     "say": "Round one. Pick a flower. Write it down. Now I will tell you nectar or nothing. Round two. Pick again.",
+     "do": "Play rounds 1 to 8. Each bee writes a colour. The keeper says 'nectar' to each bee who picked the paying colour, and says nothing to the others. Bees circle the box if they got nectar.",
+     "say": "Round one. Pick a flower. Write it down. Now I will say 'nectar' if you got some. If I say nothing, you got none. Round two. Pick again.",
      "kid": "Play rounds 1 to 8. Pick a colour. Circle it if you got nectar.",
      "ask": [
       {
@@ -514,7 +514,7 @@
        "Forgetting how to pick"
       ],
       "a": 0,
-      "why": "A learned link can keep running after the world has changed. Real bees do this too. Switching takes some rounds of getting nothing, and then a new link wins. Nobody is silly. Learning always has this delay."
+      "why": "A bee keeps using a link she has learned, even after it has stopped being true. Real bees do this too. It takes some rounds of getting nothing before she learns the new link. Nobody is silly. Learning always has this delay."
      },
      "context": "In this step you play rounds 9 to 16, when the paying flower has changed."
     },
@@ -546,7 +546,7 @@
    "days": 1,
    "question": "If a steel spoon rings on a plate again and again behind someone, do their jumps get smaller? If they do, is the person only tired, or have they learned something?",
    "predict": "Before you start, guess. Will the jumps get smaller, stay the same or get bigger? Then guess what a brand new sound will do. Say why you think so.",
-   "fair_test": "Use the same plate, the same spoon and the same ring every time. Stand one arm's length behind the volunteer, and wait the same 15 seconds between sounds. Each volunteer does the same puzzle and sits in the same way. Score every sound with the same card, straight away. Only the sound changes in the new-sound step, so any change in the jump comes from the sound being new.",
+   "fair_test": "Use the same plate, the same spoon and the same ring every time. Stand one arm's length behind the volunteer, and wait the same 15 seconds between sounds. Each volunteer does the same puzzle and sits in the same way. Score every sound with the same card, straight away. When you shake the rice tin, only the sound changes, so any change in the jump comes from the sound being new.",
    "results_table": [
     "Sound number",
     "Which sound",
@@ -581,7 +581,7 @@
     }
    ],
    "safety": "Ask each volunteer first. Keep the sound at a normal indoor loudness, and never ring it close to an ear. Do not use this test on a baby, on anyone who dislikes sudden sounds, or on anyone with a heart problem. Stop at once if anyone is upset.",
-   "record": "For every sound, write a score of 0, 1 or 2 for each volunteer. Then draw one line graph for each volunteer, with the sound number across and the score going up. Mark the place where the rice tin came.",
+   "record": "For every sound, write a score of 0, 1 or 2 for each volunteer. Then draw one line graph for each volunteer, with the sound number along the bottom and the score up the side. Mark the place where the rice tin came.",
    "context": "In this experiment you ring a spoon on a plate behind two volunteers, again and again, and score how much they jump. You find out whether getting used to a sound is learning.",
    "example_chart": {
     "type": "table",
@@ -788,7 +788,7 @@
     {
      "id": "s6",
      "mins": 13,
-     "do": "Repeat steps three to five with the second volunteer. Use the same plate, the same spoon and the same gaps. Score in the second column of the table.",
+     "do": "Repeat the 12 spoon rings, the rice tin and the rest with the second volunteer. Use the same plate, the same spoon and the same gaps. Score in the second column of the table.",
      "say": "Now the second volunteer. We do everything exactly the same, so that we can compare the two.",
      "kid": "Do the same with the second volunteer. Use the second column.",
      "parent": "If you only have one volunteer, do a second round another day and compare the two days. The answer may differ between people, and that is a result too.",
@@ -797,11 +797,11 @@
     {
      "id": "s7",
      "mins": 6,
-     "do": "Draw a line graph for each volunteer, with the sound number across and the score up. Mark where the rice tin came. Ask your child to say their claim, their evidence and their reason.",
+     "do": "Draw a line graph for each volunteer, with the sound number along the bottom and the score up the side. Mark where the rice tin came. Ask your child to say what they think happened, what they saw in the scores, and why they think it happened.",
      "say": "Tell me three things. What do you think happened? What did you see in the scores? Why do you think it happened?",
      "kid": "Draw a line for each volunteer. Say what you think, what you saw and why.",
      "think": "If the person were only tired, would a new sound make them jump?",
-     "parent": "A common pattern is that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the next spoon rings also jump a little more after the tin, that is called dishabituation. Real jumps are uneven, so a few ups and downs in the line are normal. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
+     "parent": "A common pattern is that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the volunteer also jumps a little more at the next spoon rings after the tin, that is called dishabituation. Real jumps are uneven, so a few ups and downs in the line are normal. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
      "context": "This is the last step of the Spoon Test. You draw the graph and say what you found."
     }
    ]
@@ -875,7 +875,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Make 16 slips. List A has eight words. Dabi is a spoon. Nuko is a window. Fesa is a shoe. Ruma is a cloud. Tilo is a broom. Gavi is a lamp. Sepu is a coin. Hiku is a kite. List B has eight words. Mako is a pencil. Zeru is a bucket. Lopi is a tree. Wudi is a drum. Kete is a towel. Fuga is a key. Nafo is a moon. Rimo is a boat. Write the guesses.",
+     "do": "Make 16 slips, one for each made-up word and its meaning. List A has eight words. Dabi is a spoon. Nuko is a window. Fesa is a shoe. Ruma is a cloud. Tilo is a broom. Gavi is a lamp. Sepu is a coin. Hiku is a kite. List B has eight words. Mako is a pencil. Zeru is a bucket. Lopi is a tree. Wudi is a drum. Kete is a towel. Fuga is a key. Nafo is a moon. Rimo is a boat. Then write down each person's guess about which way of learning will work better.",
      "say": "We will learn two lists of made-up words. One list we will learn all at once. One we will learn in short sittings through the day. Which will we remember better tomorrow, and why?",
      "kid": "Make 16 slips from the two lists. Guess which way will work better. Why?",
      "ask": [
@@ -895,7 +895,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Choose the list you will cram. Look at its slips for one minute. Then cover the meanings and say them aloud for one minute. Do this four times in a row, without a break.",
-     "say": "Look at all eight slips for one minute. Then cover the meanings and say them from memory for one minute. Then do it again, straight away, four times.",
+     "say": "Look at all eight slips for one minute. Then cover the meanings and say them from memory for one minute. Do this four times in a row, with no break.",
      "kid": "Look at the slips for one minute. Cover the meanings and say them. Do this four times.",
      "parent": "Use a timer so that each learner studies for exactly eight minutes. Both learners cram at the same time, in different corners.",
      "check": {
@@ -914,7 +914,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Study the other list for two minutes at four sittings. Do the first now. Do the next three later today. Leave at least an hour between sittings. Morning, lunch, afternoon and evening work well.",
+     "do": "Study the other list in four sittings of two minutes each. Do the first sitting now. Do the next three later today. Leave at least an hour between sittings. Morning, lunch, afternoon and evening work well.",
      "say": "This list gets four short sittings. Each time, look at the slips, cover the meanings, and say them. Remember to come back to it later today.",
      "kid": "Study this list for two minutes. Come back three more times today. Wait an hour between sittings.",
      "parent": "Put a note on the fridge to remind everyone about the sittings. If a sitting is missed, do it as soon as you remember and write the time. Do not study either list after bedtime, and do not look at the slips on day 2 before the test.",
@@ -942,7 +942,7 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Add up the scores for the crammed lists and for the spread lists. Draw two bars. Ask your child to say their claim, their evidence and their reason.",
+     "do": "Add up the scores for the crammed lists and for the spread lists. Draw two bars. Ask your child to say what they think the scores show, what they saw in the numbers, and why they think it came out this way.",
      "say": "What do you think the scores show? What did you see in the numbers? Why do you think it came out this way?",
      "kid": "Add up the scores for each way. Draw two bars. Say what you saw and why.",
      "think": "If a sea slug can show the same pattern as you, what does that say about how learning works?",
@@ -976,7 +976,7 @@
     }
    ],
    "record": "The number of sounds you guessed and the number you counted in each room, a list of sounds you did not hear until you listened, and a list of five things touching your body that you had forgotten.",
-   "context": "In this short activity you find things around you that you had stopped noticing. It is a way into the question of how and why we stop.",
+   "context": "In this short activity you find things around you that you had stopped noticing. It starts you thinking about how and why we stop noticing things.",
    "setup": [
     {
      "art": "A child sitting very still with eyes closed on a sofa, with small pictures floating around: a ceiling fan, a fridge, a clock and a scooter outside.",
@@ -991,7 +991,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "First ask your child to guess how many different sounds they will hear in 30 seconds. Then they sit very still with their eyes closed for 30 seconds and count each different sound on their fingers. Write the guess and the count. Repeat in a second room, such as the kitchen and a bedroom, and compare the two counts.",
+     "do": "First ask your child to guess how many different sounds they will hear in 30 seconds. Then they sit very still with their eyes closed for 30 seconds and count each different sound on their fingers. Write the guess and the count. Do the same in a second room. For example, use the kitchen and then a bedroom. Compare the two counts.",
      "say": "Close your eyes. Count every sound you hear for 30 seconds. Count the quiet ones too.",
      "kid": "Guess how many sounds. Sit very still, close your eyes and count for 30 seconds. Do it in two rooms.",
      "ask": [
@@ -1041,7 +1041,7 @@
        "Your ears turned off"
       ],
       "a": 0,
-      "why": "The sound reached your ears all the time. Your mind had learned that the sound does not matter, and stopped reacting. Listening on purpose brought it back. Choosing 'ears turned off' is a common idea, but ears do not switch off."
+      "why": "The sound reached your ears all the time. Your mind had learned that the sound does not matter, and stopped reacting. Listening on purpose brought it back. 'Your ears turned off' is a common idea, but ears do not switch off."
      },
      "think": "Is getting used to something a kind of learning?",
      "parent": "This is the question for the whole unit. Do not answer it. The Spoon Test will let your child find out.",
@@ -1096,7 +1096,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Pick a fold your child can make but a parent does not know. Most adults know the plain paper boat. If yours does, use a jumping frog or a tulip, and read 'boat' below as that fold. Time your child making it alone. Write the seconds.",
+     "do": "Pick a fold your child can make but a parent does not know. Most adults know the plain paper boat. If the parent knows it, use a jumping frog or a tulip instead, and read 'boat' in these steps as that fold. Time your child making it alone. Write the seconds.",
      "say": "Make the paper boat as fast as you neatly can, all alone. I will time you.",
      "kid": "Make a paper boat all alone. Ask a grown-up to time you.",
      "parent": "If your child does not know a fold yet, spend five minutes learning one from a video first. Choose a fold that takes about a minute.",
@@ -1105,7 +1105,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Teach a parent in three levels. Level one is a boat folded all but the last two folds. Level two is a half-folded boat. Level three is a plain sheet. Help only when they are stuck. Time all three levels.",
+     "do": "Teach a parent in three levels. For level one, give them a boat with all but the last two folds done. For level two, give them a half-folded boat. For level three, give them a plain sheet. Help only when they are stuck. Time all three levels.",
      "say": "Here is a nearly finished boat. Finish it. Now a half-finished one. Now a plain sheet. I will help only when you are stuck.",
      "kid": "Hand over a nearly done boat first. Then a half-done one. Then a plain sheet.",
      "ask": [
@@ -1118,7 +1118,7 @@
        ]
       }
      ],
-     "parent": "Meerkat helpers do the same. They first give young pups dead scorpions, then crippled ones, then live ones. Time each level and add them up. With 2 to 4 children, one teaches, one or two learn, and one times. For a fair comparison, let one learner only watch the fold once at full speed, then both learners try a plain sheet: who finished faster? Do not explain this yet. Let your child notice what they did as the teacher.",
+     "parent": "Meerkat helpers do the same. They first give young pups dead scorpions, then crippled ones, then live ones. Do not tell your child this yet. Let them notice what they did as the teacher. Time each level and add them up. With 2 to 4 children, one teaches, one or two learn, and one times. For a fair comparison with two learners, teach one in the three levels, and let the other only watch the fold once at full speed. Then both learners try a plain sheet. Who finishes faster?",
      "context": "In this step you teach a parent a fold in three levels, from easy to hard."
     },
     {
@@ -1136,7 +1136,7 @@
        "Nobody, because teaching is free"
       ],
       "a": 0,
-      "why": "Teaching costs the teacher. A meerkat helper gives up a scorpion meal, and an ant leader walks slowly. That cost is one reason scientists say it is rare."
+      "why": "Teaching costs the teacher. A meerkat helper gives up a scorpion meal, and an ant leader walks slowly. That cost is one reason scientists say teaching is rare."
      },
      "parent": "Teaching took longer than doing, and that is the point. In animals, scientists look for three things: the teacher changes what she does only when a learner is there, it costs her something, and the learner learns faster.",
      "context": "In this step you compare the time alone with the time spent teaching."
@@ -1166,7 +1166,7 @@
     }
    ],
    "record": "A table with five rows. Each row has a name, a food or smell they avoid after one bad time, and how many tries it took to learn a skill like riding a cycle.",
-   "context": "In this activity you ask five people how many times they needed to learn a food to avoid, and how many tries a skill took. You look for which kind of learning is faster.",
+   "context": "In this activity you ask five people how many bad times it took before they started avoiding a food, and how many tries it took them to learn a skill. You look for which kind of learning is faster.",
    "setup": [
     {
      "art": "A child with a notebook asking a grandmother two questions while she holds a cup of tea.",
@@ -1181,8 +1181,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw a table with five rows and four columns. The columns are name, food or smell avoided, tries to learn it, and tries to learn a skill. Write the two questions at the top. Before asking, guess which kind of learning took fewer tries.",
-     "say": "Question one is, is there a food or smell you avoid because it once made you feel unwell? Question two is, how many tries did a skill like riding a cycle take?",
+     "do": "Draw a table with five rows and four columns. The columns are name, food or smell avoided, how many bad times it took to start avoiding it, and how many tries it took to learn a skill. Write the two questions at the top. Before asking, guess which kind of learning took fewer tries.",
+     "say": "Question one: Is there a food or smell you avoid because it once made you feel unwell? Question two: How many tries did it take you to learn a skill like riding a cycle?",
      "kid": "Draw the table. Write two questions at the top.",
      "parent": "Tell your child to ask only people who are happy to answer, and not to ask for details of any illness. A food that once upset a stomach is enough.",
      "context": "In this step you set up the table for the family survey."
@@ -1190,8 +1190,8 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child asks five people the two questions and writes the answers. For the food, ask how many times it took to learn to avoid it. For the skill, ask roughly how many tries it took.",
-     "say": "Ask each person the two questions. For the food, ask how many times it had to happen. For the skill, ask roughly how many tries it took.",
+     "do": "Your child asks five people the two questions and writes the answers. For the food, ask how many times it made them unwell before they started avoiding it. For the skill, ask roughly how many tries it took.",
+     "say": "Ask each person the two questions. For the food, ask how many times it made them unwell before they started avoiding it. For the skill, ask roughly how many tries it took.",
      "kid": "Ask five people. Write how many times it took for each.",
      "ask": [
       {
@@ -1203,7 +1203,7 @@
        ]
       }
      ],
-     "parent": "Many people will say the food took one time, and the skill took many tries. Some people do not recall. Write 'not sure' and move on. If five people are not at home, phone relatives or pool answers with your brothers and sisters: each child asks two or three people, and you combine the tables.",
+     "parent": "Many people will say the food took one time, and the skill took many tries. Some people do not recall. Write 'not sure' and move on. If five people are not at home, phone relatives, or let brothers and sisters pool their answers: each child asks two or three people, and you combine the tables.",
      "context": "In this step you ask five people and write down their answers."
     },
     {
@@ -1240,7 +1240,7 @@
      "buy": "b-timer"
     }
    ],
-   "safety": "Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. A grown-up puts the dish out on any ledge that is high or has no railing, and your child must never lean over or climb on a ledge. Keep the dish where you can see it. If monkeys, stray dogs or snakes come near, stop feeding, move away and tell a grown-up. Empty and refill the water every day so that mosquitoes cannot breed in it, and check that your building allows feeding birds.",
+   "safety": "Put out only plain broken rice or grain and clean water, with no salty, oily or sweet food. Wash the dish and bowl each day. Do not touch the visitors, and wash your hands afterwards. If the ledge is high or has no railing, a grown-up puts the dish out. Your child must never lean over or climb on a ledge. Keep the dish where you can see it. If monkeys, stray dogs or snakes come near, stop feeding, move away and tell a grown-up. Empty and refill the water every day so that mosquitoes cannot breed in it, and check that your building allows feeding birds.",
    "schedule": [
     {
      "day": 1,
@@ -1336,7 +1336,7 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "Draw a line graph with the day across and the arrival time up. Mark day six. Ask your child to say their claim, their evidence and their reason.",
+     "do": "Draw a line graph with the day along the bottom and the arrival time up the side. Mark day six. Ask your child to say what they think happened, what the arrival times show, and why they think it happened.",
      "say": "What do you think happened? What do the arrival times show? Why do you think the visitors came, or did not come, on day six?",
      "kid": "Draw a graph of the arrival times. Say what you saw and why.",
      "parent": "Scientists have shown that honeybees learn the time of day for a feeder. Ingeborg Beling did this in 1929. Birds and mammals do it too. Your result may be messier than hers, and that is fine. Say what you saw.",
@@ -1354,8 +1354,8 @@
    "constraints": [
     "Use only things from home, such as a steel plate and spoon, a rice tin, a cycle bell and a clap.",
     "The gap between sounds must be 15 seconds every time, so only the pattern changes.",
-    "Test your pattern and the steady spoon on two different volunteers, using the scoring card from the Spoon Test.",
-    "Ring each pattern 20 times, and write down every score."
+    "Test your pattern on one volunteer and the steady spoon on another volunteer, using the scoring card from the Spoon Test.",
+    "Make 20 sounds for your pattern and 20 for the steady spoon, and write down every score."
    ],
    "materials": [
     "a steel plate and spoon, a tin of rice, and a cycle bell or another sound maker",
@@ -1375,7 +1375,7 @@
     "Add a rare sound that only comes once in a long while, to bring the attention back.",
     "Change the place you stand, as well as the sound, because the place can be new too."
    ],
-   "your_turn": "Sketch your pattern and test it on one volunteer, with the steady spoon on another. Compare the scores after 20 sounds. Which stayed higher for longer? Change one thing and test again.",
+   "your_turn": "Sketch your pattern and test it on one volunteer, with the steady spoon on another. Compare the scores after 20 sounds. Which scores stayed higher for longer? Change one thing and test again.",
    "context": "This is a design challenge about getting used to sounds. You use what you learned in the Spoon Test to build a signal that people keep noticing.",
    "setup": [
     {
@@ -1396,7 +1396,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Read the problem. Ask your child to choose four sounds from home and sketch a pattern for 20 sounds. They could use a die to choose each sound.",
-     "say": "The birds stopped caring about a steady sound. How could you make a sound pattern that people keep noticing? Sketch some ideas first.",
+     "say": "A farmer's bird scarer made the same sound every ten minutes, and the birds stopped caring. How could you make a sound pattern that people keep noticing? Sketch some ideas first.",
      "kid": "Choose four sounds from home. Sketch a pattern for 20 sounds.",
      "ask": [
       {
@@ -1414,19 +1414,19 @@
      "id": "s2",
      "mins": 15,
      "do": "Test your pattern on one volunteer: 20 sounds, 15 seconds apart. Then test the steady spoon on another volunteer in the same way. Score every sound with the Spoon Test card.",
-     "say": "Do your puzzle, please. Sounds will come from behind. First the pattern. Then the steady spoon, with a different person.",
+     "say": "Please do your puzzle. Sounds will come from behind you. (Say this to the first volunteer before your pattern, and to the second volunteer before the steady spoon.)",
      "kid": "Ring your pattern 20 times behind one volunteer. Ring the steady spoon behind another. Score each.",
-     "parent": "Pick volunteers who agree and who are not startled by sudden sounds. Follow the Spoon Test safety rules: nothing close to an ear, and no babies or anyone with a heart problem. Choose gentle volume for every sound. It is a fair test only if both volunteers sit the same way and do the same kind of puzzle. Write that the volunteers differ, and say why this matters.",
+     "parent": "Pick volunteers who agree and who are not startled by sudden sounds. Follow the Spoon Test safety rules: nothing close to an ear, and no babies or anyone with a heart problem. Choose gentle volume for every sound. It is a fair test only if both volunteers sit the same way and do the same kind of puzzle. Even then, the two volunteers are different people. Write that down, and say why it matters.",
      "context": "In this step you test your pattern and the steady spoon on two volunteers."
     },
     {
      "id": "s3",
      "mins": 9,
-     "do": "Draw a line graph of the scores for each volunteer. Compare the sounds from 10 to 20. Ask your child which pattern was ignored sooner, and why.",
+     "do": "Draw a line graph of the scores for each volunteer. Compare the scores for sounds 10 to 20. Ask your child which pattern was ignored sooner, and why.",
      "say": "Look at the two graphs. Which volunteer started ignoring the sounds first? Why do you think so? What would you change?",
      "kid": "Draw both graphs. Which pattern was ignored sooner? Why?",
      "think": "Could a pattern ever be so unpredictable that nobody gets used to it?",
-     "parent": "The pattern often keeps scores higher for longer, but it can also be ignored once all four sounds have been heard many times. Different volunteers also differ. Say what you saw.",
+     "parent": "The pattern often keeps scores higher for longer, but it can also be ignored once all four sounds have been heard many times. The two volunteers are also different people, and that can change the scores. Say what you saw.",
      "context": "This is the last step of the Signal challenge. You compare the two graphs."
     }
    ]
@@ -1469,7 +1469,7 @@
     "Something that only happens at school"
    ],
    "a": 0,
-   "why": "Learning is a change caused by experience that lasts. A reflex or growing is not learning.",
+   "why": "Learning is a change caused by experience that lasts. A reflex is not learning, and neither is growing.",
    "outcome": 0
   },
   {
@@ -1637,7 +1637,7 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, for what happens to a scarecrow's job over a week.",
+     "p": "Put these in order to show what happens with a scarecrow over a week.",
      "a": [
       "Birds meet a new scarecrow and keep far away",
       "Every day the scarecrow stands still and nothing happens",
@@ -1687,7 +1687,7 @@
     },
     {
      "t": "match",
-     "p": "Match each living thing to something it can learn.",
+     "p": "Match each living thing to something they can learn.",
      "pairs": [
       [
        "Sea slug",
@@ -1751,7 +1751,7 @@
       "Copying a sister who also refuses it"
      ],
      "a": 0,
-     "why": "Bodies are ready to link a taste with feeling ill, even a long time later and after one time. It protects against food that may harm.",
+     "why": "Bodies are ready to link a taste with feeling ill, even when the illness comes a long time later, and even after just one time. This protects against food that may harm.",
      "outcome": 2
     },
     {
@@ -1783,15 +1783,15 @@
      "p": "A sparrow sits on the clay-pot head of a scarecrow.",
      "views": [
       {
-       "who": "Meera, a girl in Class 4 (an imagined view)",
+       "who": "First view (imagined)",
        "says": "The sparrow is foolish. She should still be afraid."
       },
       {
-       "who": "Anjali, a girl in Class 4 (an imagined view)",
+       "who": "Second view (imagined)",
        "says": "The sparrow has learned that the scarecrow never hurts her. That is learning."
       }
      ],
-     "ask": "Whose view do you agree with more? What would you check?",
+     "ask": "Which view do you agree with more? What would you check?",
      "a": "Answers vary. A strong answer picks a side and gives a reason. It may suggest checking whether the sparrow still flees a hawk or a new object.",
      "why": "Both views try to explain the same fact. A way to check them is to see whether the sparrow reacts to something new. If she does, she has learned about this scarecrow only.",
      "outcome": 1
@@ -1805,7 +1805,7 @@
       "Bees only come when they smell food"
      ],
      "a": 0,
-     "why": "The bees came at the time, with no food or smell to bring them. So they had learned the time of day. This is how Ingeborg Beling found it in 1929.",
+     "why": "The bees came at four o'clock, with no food or smell to bring them. So they had learned the time of day. Ingeborg Beling found this in 1929.",
      "outcome": 3
     }
    ]
@@ -1906,7 +1906,7 @@
      "t": "odd",
      "p": "Which is the odd one out, and why: a meerkat helper giving a pup a crippled scorpion, a leader ant waiting for a follower, a crow watching another crow open a nut?",
      "a": "The crow watching. In the other two, the animal changes what she does for the learner, at a cost to herself.",
-     "why": "Teaching needs the teacher to change her behaviour for a learner. A crow that is only watched is learning, but the other crow is not teaching.",
+     "why": "Teaching needs the teacher to change her behaviour for a learner. The crow who watches is learning, but the crow who is watched is not teaching.",
      "outcome": 5
     },
     {
@@ -1977,17 +1977,17 @@
      "p": "Slime moulds get used to a harmless bitter bridge after some days, and no nerve cells are involved.",
      "views": [
       {
-       "who": "Dr Rao, a scientist (an imagined view)",
+       "who": "One scientist (an imagined view)",
        "says": "This is learning. The change is kept and belongs to one substance, just as in a sea slug."
       },
       {
-       "who": "Dr Fernandes, a scientist (an imagined view)",
+       "who": "Another scientist (an imagined view)",
        "says": "This is a simple chemical change in the cell. The word learning is best kept for animals with nerve cells."
       }
      ],
-     "ask": "Whose view do you agree with more? What would you test to decide?",
+     "ask": "Which view do you agree with more? What would you test to decide?",
      "a": "Answers vary. A strong answer picks a side or a middle path and gives a reason. It may suggest testing whether the change is kept for days and belongs to one substance.",
-     "why": "Both views agree on what the slime mould does. They differ on the word learning. Tests that are the same as for a sea slug make the first view stronger.",
+     "why": "Both views agree on what the slime mould does. They differ on the word learning. If the slime mould passes the same tests as a sea slug, the first view gets stronger.",
      "outcome": 3
     },
     {
@@ -2052,7 +2052,7 @@
     },
     {
      "t": "mcq",
-     "p": "In a famous test, thirsty rats drank sweet water that also flashed and clicked. Some were later made unwell, and the unwell rats avoided the sweet water but not the flash and click. What does this show?",
+     "p": "In a famous test, thirsty rats drank sweet water, and a light flashed and a click sounded as they drank. Some rats were later made unwell. The unwell rats avoided the sweet water afterwards, but not the flash and click. What does this show?",
      "opts": [
       "Animals are ready to link some things more easily than others",
       "Rats cannot learn",
@@ -2067,15 +2067,15 @@
      "p": "A meerkat helper gives a pup a scorpion with the stinger removed.",
      "views": [
       {
-       "who": "Zainab, a girl in Class 4 (an imagined view)",
+       "who": "First view (imagined)",
        "says": "This is teaching. The helper changes what she gives, it costs her a meal, and the pup learns faster."
       },
       {
-       "who": "Deepa, a girl in Class 4 (an imagined view)",
+       "who": "Second view (imagined)",
        "says": "We cannot be sure this is teaching. We do not know that the helper understands what the pup does not know."
       }
      ],
-     "ask": "Whose view do you agree with more? What evidence would settle it?",
+     "ask": "Which view do you agree with more? What evidence would settle it?",
      "a": "Answers vary. A strong answer picks a side and gives a reason. It may say that the three tests are met but that we cannot see what the helper knows.",
      "why": "Both views agree on what the helper does. They differ on what teaching needs. Scientists still argue about this.",
      "outcome": 5
@@ -2106,7 +2106,7 @@
      "a": [
       "specific"
      ],
-     "why": "The change belongs to one stimulus only. It is one of the signs that separates learning from tiredness.",
+     "why": "The change belongs to one stimulus only. This is one of the signs that separate learning from tiredness.",
      "outcome": 1
     },
     {
@@ -2236,7 +2236,7 @@
       ]
      ],
      "a": "as given",
-     "why": "Getting used to a touch, changed connections and spaced practice have been tested many times. Plant learning, animal teaching and engrams are still argued about.",
+     "why": "Getting used to a touch, changed connections and spaced practice have been tested many times. Plant learning, animal teaching and whether a memory sits in one group of cells are still argued about.",
      "outcome": 5
     },
     {
@@ -2283,7 +2283,7 @@
      "p": "Give two reasons why it helps an animal to get used to harmless sounds.",
      "lines": 3,
      "a": "She saves energy because she does not run from every harmless sound. She keeps her attention free to notice a real danger.",
-     "why": "A strong answer names saving energy or attention, and links it to staying alert for real dangers, as the sparrow was for the hawk.",
+     "why": "A strong answer names saving energy or attention, and links it to staying alert for real dangers, as the sparrows were for the hawk in the story The Hat on the Scarecrow.",
      "outcome": 1
     },
     {
@@ -2306,7 +2306,7 @@
   "Hospitals use alarms with different sounds and levels for different dangers, because staff can stop hearing an alarm that sounds too often.",
   "Teachers and parents teach a skill in steps from easy to hard, as meerkat helpers do.",
   "Spacing revision over several days gives longer-lasting memory than cramming the night before exams.",
-  "Dog trainers use rewards and clicks to link a good action with a good thing, an idea brought to wider use by Karen Pryor.",
+  "Dog trainers use rewards and clicks to link a good action with a good thing. Karen Pryor helped to bring this idea into wider use.",
   "Road warning lights flash and change because drivers get used to a sign that never changes.",
   "Scientists test whether a baby can tell two sounds apart by seeing when the baby stops paying attention to one and starts to look at the other.",
   "Research on sea slugs has helped scientists understand how memory is built in human brains."
@@ -2501,7 +2501,7 @@
    "why_maths": "Working out how long a visitor stays around the usual time shows how exactly an animal has learned the time."
   },
   {
-   "problem": "A die has six faces. A guard picks sound 1, 2, 3 or 4 when the die shows that number, and rolls again on a 5 or a 6. What is the chance that the next sound is the same as the last one?",
+   "problem": "A die has six faces. You pick sound 1, 2, 3 or 4 when the die shows that number, and roll again on a 5 or a 6. What is the chance that the next sound is the same as the last one?",
    "answer": "One in four.",
    "explain": "Each roll that counts gives one of four sounds, and each is equally likely. The chance of the same sound again is 1 out of 4. A pattern like this is hard for the birds to predict.",
    "math_unit": "math.probability.likely-and-unlikely.L4",
@@ -2510,7 +2510,7 @@
    "why_maths": "A chance shows how unpredictable a signal is, and a signal that is hard to predict is harder to get used to."
   },
   {
-   "problem": "Look at your own Spoon Test scores. Draw a line graph with the ring number across and the score up. Write one sentence about the shape of the line.",
+   "problem": "Look at your own Spoon Test scores. Draw a line graph with the ring number along the bottom and the score up the side. Write one sentence about the shape of the line.",
    "answer": "A line that starts high and slopes down. The jumps got smaller as the spoon was rung again and again.",
    "explain": "A falling line shows getting used to the sound. If the line jumps up at the new sound, it shows the person was not simply tired.",
    "math_unit": "math.data.line-graphs.L4",
@@ -2730,18 +2730,18 @@
   ]
  },
  "roots": {
-  "context": "We have tested whether a person gets used to a sound, and followed learning from sea slugs to teaching. Now we ask what getting used to something tells us about ourselves and the world.",
+  "context": "In the Spoon Test, we tested whether a person gets used to a sound. We also looked at learning in sea slugs, bees and meerkats. Now we ask what getting used to something tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "When the same harmless thing keeps happening, even a one-celled pond animal can stop reacting to that thing. That is not carelessness. It is the simplest kind of learning, because the body keeps the change. So learning begins with finding out what does not matter.",
    "habit": "We think learning means adding something new, and that ignoring means not paying attention. But getting used to a harmless sound is a change that is kept, and it is specific to that sound. It is learning too.",
    "evidence": "In the Spoon Test, the jumps got smaller with each ring of the spoon, yet a new sound brought the jump back at once. Sea slugs, one-celled swimmers and slime moulds all show the same pattern."
   },
   "three": {
-   "who_am_i": "All day you ignore your clothes, the fan and the fridge. Part of who you are is everything your body has learned to leave out.",
-   "what_is_life": "A sea slug, a one-celled swimmer and a slime mould all get used to harmless things. So a learning-like change is older than brains.",
+   "who_am_i": "All day you ignore your clothes, the fan and the fridge. Your body has learned to leave them out, and that learning is part of who you are.",
+   "what_is_life": "A sea slug, a one-celled swimmer and a slime mould all get used to harmless things. So a change like learning is older than brains. Living things could do this before any of them had a brain.",
    "what_is_this_world": "The world sends signals all the time. Every living being sorts them into the ones that matter and the ones that do not."
   },
-  "thread": "A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, with no nerve cells at all. In each case, a living being meets the world, is changed by it, and keeps the change. So learning is where the world leaves a mark on a being, and the being sorts out which marks to keep. The mark can be as small as one connection, or as large as a whole way of living, such as a bee knowing the time of day.",
+  "thread": "A sea slug touched again and again sends less chemical across one connection. A one-celled swimmer and a slime mould change in a similar way, with no nerve cells at all. In each case, something happens to a living being, the being changes, and the change is kept. That is what learning is. The change can be as small as one connection between two nerve cells, or as large as a whole way of living, such as a bee knowing the time of day.",
   "teachings": [
    {
     "source": "Bhagavad Gita 6.35",
@@ -2751,12 +2751,12 @@
    {
     "source": "Yoga Sutras of Patanjali 1.14",
     "teaching": "Practice becomes firmly rooted when it is kept up for a long time, without a break, and with care.",
-    "link": "Spread-out practice lasted longer than cramming in the sea slug and, perhaps, in your own lists of words."
+    "link": "Spread-out practice lasted longer than cramming in the sea slug and, perhaps, in your own lists of words in Crammed or Spread Out."
    },
    {
     "source": "Shunryu Suzuki, Zen Mind, Beginner's Mind (1970)",
     "teaching": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
-    "link": "Getting used to something makes a being calm and quick, but a new sound brings the freshness back. A beginner notices what an expert has stopped seeing."
+    "link": "Getting used to something makes a being calm and quick, but she stops noticing it. A new sound makes her notice again. A beginner notices what an expert has stopped seeing."
    }
   ],
   "science": [
@@ -2771,7 +2771,7 @@
   ],
   "other_view": {
    "who": "Some psychologists",
-   "view": "The word learning should be kept for animals with nervous systems. In a one-celled swimmer or a slime mould, they say, the change may be simple adaptation of the cell's chemistry, and calling it learning stretches the word too far."
+   "view": "Some scientists say the word learning should be kept for animals with nervous systems. In a one-celled swimmer or a slime mould, they say, the change may be the cell's chemistry simply adjusting, and calling it learning stretches the word too far."
   },
   "practice": {
    "title": "Hearing the hum",
@@ -2782,7 +2782,7 @@
   "ask": [
    "When you stop hearing the fan, has the sound gone, or has your attention moved?",
    "Is a being who ignores a harmless sound less aware, or more aware?",
-   "If a slime mould with no brain can get used to a bitter bridge, where does the knowing live?"
+   "If a slime mould with no brain can get used to a bitter bridge, where is that learning kept?"
   ],
   "art": "A child sitting cross-legged on a floor with eyes closed, a ceiling fan above, and faint ripples of sound drawn around the room."
  },

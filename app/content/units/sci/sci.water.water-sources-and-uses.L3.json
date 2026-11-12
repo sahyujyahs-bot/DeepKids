@@ -415,7 +415,7 @@
    "concept": "What a water molecule is, and why water dissolves so much",
    "status": "defined",
    "definition": "A water molecule is two hydrogen atoms joined to one oxygen atom. Its ends carry tiny electric charges, so it pulls many other substances apart and dissolves them.",
-   "description": "Zoom in to a drop of water, far past any microscope, and you reach molecules. Each one is one oxygen atom with two hydrogen atoms stuck on, like a head with two ears. Scientists write it H2O. The oxygen end has a tiny negative electric charge. The hydrogen ends have a tiny positive charge. Opposite charges attract. So water molecules attract the tiny charged parts of salt, sugar and many other things, and pull them apart. Those parts spread out between the water molecules and can no longer be seen. This is why water dissolves so many things. It is also why water is so hard to keep clean.",
+   "description": "If you could zoom in to a drop of water, much further than any microscope can, you would reach molecules. Each one is one oxygen atom with two hydrogen atoms stuck on, like a head with two ears. Scientists write it H2O. The oxygen end has a tiny negative electric charge. The hydrogen ends have a tiny positive charge. Opposite charges attract. So water molecules attract the tiny charged parts of salt, sugar and many other things, and pull them apart. Those parts spread out between the water molecules and can no longer be seen. This is why water dissolves so many things. It is also why water is so hard to keep clean.",
    "examples": [
     "Stir salt into water. Water molecules pull the salt apart, and it disappears.",
     "Oil does not dissolve in water, because oil molecules have no charged ends for water to pull on."
@@ -592,7 +592,7 @@
   {
    "q": "One family digs a very deep borewell and pumps all day. The neighbours' shallow wells go dry. Is that fair?",
    "kind": "big",
-   "hint": "Remember the well in a jar. Whose water was the deep well really pulling up?"
+   "hint": "In A Well in a Jar, pumping from one straw lowered the water for the whole jar, not just near the straw. Whose water was the deep well really pulling up?"
   },
   {
    "q": "A frog, a buffalo and a farmer all need the last water in a pond. Who should get it?",
@@ -769,7 +769,7 @@
      "mins": 3,
      "do": "Play one practice turn together. Pretend you land on square 3, the tarred road.",
      "say": "Let's practise. You landed on a tarred road. The square says go back 2. Why?",
-     "kid": "Practice turn. You land on a tarred road. Go back 2. Why do you think?",
+     "kid": "Practice turn. You land on a tarred road. The square says go back 2. Why do you think it sends you back?",
      "check": {
       "t": "mcq",
       "q": "A raindrop lands on a tarred road. Why is that bad news for reaching the well?",
@@ -787,7 +787,7 @@
      "mins": 12,
      "do": "1. Take turns. 2. Each player reads their square aloud. 3. Before moving, they say why the square sends them forward or back. 4. Fill in the score sheet as you go.",
      "say": "Remember to say why. Why does a forest help? Why does a tin roof send you back?",
-     "kid": "Roll and move. Read your square. Say why it helps or not. Then mark your score sheet.",
+     "kid": "Roll and move. Read your square. Say why it helps you or sends you back. Then mark your score sheet.",
      "ask": [
       {
        "q": "Why does a forest floor help a drop reach the well?",
@@ -906,7 +906,7 @@
     "Put it on one of the three mats and say why. A good reason wins one drop token.",
     "Other players can challenge you. If they give a better reason, they win the token instead. If you cannot agree, the grown-up decides, using the notes in the steps.",
     "When the cards run out, the player with the most tokens wins. If two players tie, they share the win.",
-    "A card you play as a practice goes back into the pile. The 20 tokens are enough for one token a card."
+    "The practice card goes back into the pile. There are 20 tokens, enough for one token for each card."
    ],
    "flow": [
     {
@@ -1116,7 +1116,7 @@
     },
     {
      "t": "fill",
-     "p": "A bucket holds about 15 litres. A girl uses 2 full buckets of water for her bath. She uses ____ litres.",
+     "p": "A bucket holds about 15 litres. A bath uses 2 full buckets of water. The bath uses ____ litres.",
      "a": [
       "30",
       "thirty"
@@ -1134,7 +1134,7 @@
     },
     {
      "t": "write",
-     "p": "Anu, a girl in Class 2, says: 'Our water comes from the overhead tank, so we will never run out.' What has she missed?",
+     "p": "Someone says: 'Our water comes from the overhead tank, so we will never run out.' What have they missed?",
      "lines": 3,
      "a": "The tank does not make water. It is filled by a motor from a sump, a borewell or the city pipe. If the river, the lake or the groundwater runs low, the tank stays empty too.",
      "why": "A strong answer follows the water back past the tank to its real source, and says that the source can run low."
@@ -1225,7 +1225,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the jar well, the water level fell after 5 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?",
+     "p": "In A Well in a Jar, the water level fell after 5 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?",
      "opts": [
       "The level rose a lot",
       "The level did not rise, because the rain could not soak in",
@@ -1391,7 +1391,7 @@
      ],
      "ask": "Pick the person you agree with most. Use what you saw in A Well in a Jar to back your choice. Then say what one of the others would say back.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses the jar well as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.",
+     "a": "A strong answer picks a side and uses A Well in a Jar as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.",
      "why": "This is a real problem in many parts of India. Groundwater is shared, but each farmer needs it. There is no single right answer, so listen for evidence and fairness.",
      "context": "This question is about A Well in a Jar. You built layers of gravel, sand and soil in a clear jar, with a straw as a well, and poured in 'rain'.",
      "how": "e2"
@@ -1457,7 +1457,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kamala is a farmer in a village in Tamil Nadu. The village eri, a big rain tank, is full of mud and weeds, and the wells nearby are low. What would help the wells most?",
+     "p": "In a village in Tamil Nadu, the eri, a big rain tank, is full of mud and weeds, and the wells nearby are low. What would help the wells most?",
      "opts": [
       "Clean out the mud and weeds, so the eri holds more monsoon rain that soaks into the ground",
       "Cover the eri with cement, so the water cannot escape",
@@ -1778,8 +1778,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about the whole street, and the whole city.",
-     "say": "Imagine a whole city covered in cement and tar. Where does the monsoon rain go?",
-     "kid": "Imagine a whole city of cement. Where does all the rain go? What happens to the wells?",
+     "say": "Think of a whole city covered in cement and tar. Where does the monsoon rain go?",
+     "kid": "Think of a whole city covered in cement. Where does all the rain go? What happens to the wells?",
      "think": "Why do cities such as Chennai and Mumbai flood in the monsoon, and then run short of water in summer?"
     },
     {
@@ -1787,8 +1787,8 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: gravel, sand and soil drink rain, but a hard tile makes it run off. What I saw: the sand puddle was gone in 10 seconds, but the puddle on the tile lasted more than 5 minutes. Why: gravel, sand and soil have gaps for water to trickle into, and a tile has none."
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "The three sentences are a claim, the evidence for it, and the reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: gravel, sand and soil drink rain, but a hard tile makes it run off. What I saw: the sand puddle was gone in 10 seconds, but the puddle on the tile lasted more than 5 minutes. Why: gravel, sand and soil have gaps for water to trickle into, and a tile has none."
     }
    ],
    "example_chart": {
@@ -1965,8 +1965,8 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a well only stays full if rain soaks in to refill the ground. What I saw: the level fell from 4 cm to 2 cm after pumping. It came back to 3 cm after rain. It did not rise when the soil was covered. Why: groundwater sits in the gaps between stones, and only rain soaking down can refill those gaps."
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "The three sentences are a claim, the evidence for it, and the reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a well only stays full if rain soaks in to refill the ground. What I saw: the level fell from 4 cm to 2 cm after pumping. It came back to 3 cm after rain. It did not rise when the soil was covered. Why: groundwater sits in the gaps between stones, and only rain soaking down can refill those gaps."
     }
    ],
    "example_chart": {
@@ -2065,7 +2065,7 @@
      "do": "1. In the morning, fill the matka and the two bottles from the same tap. 2. Wet the cloth, squeeze it a little, and wrap it round one bottle. 3. Put all three side by side in a shady, airy place. 4. Measure the water in each with the thermometer, and write it down.",
      "say": "These three start the same. Same water, same tap, same place. Which do you think will be coolest by lunchtime?",
      "kid": "Fill the matka and both bottles from the same tap. Wrap one bottle in a wet cloth. Put them side by side. Measure each one.",
-     "parent": "Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. The cloth may dry out in the shade over four hours. That is fine, but you can wet it again halfway if you like. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation. On a humid monsoon day all three may end up close together. That is a real result, and it is the answer to your guess in step 1.",
+     "parent": "Wait about one minute before reading the thermometer, so it settles. If you have no thermometer, your child can dip a finger in each and put them in order from coolest to warmest. A small clay pot gives the fairest test, because a big matka holds more water and cools more slowly. A new matka works best after soaking it in water for a few hours. The cloth may dry out in the shade over four hours. That is fine, but you can wet it again halfway if you like. If the wrapped bottle ends up coolest, that is fine too: both cool by evaporation. On a humid monsoon day all three may end up close together. That is a real result too, because a matka cools much less in humid air.",
      "context": "This is the first step of the Cool Matka Test. You fill a matka and two bottles with the same water, so you can compare them later."
     },
     {
@@ -2132,7 +2132,7 @@
      "mins": 3,
      "do": "Talk about the weather today.",
      "say": "Was today dry or sticky? A matka cools best in dry, breezy air. Why might that be?",
-     "kid": "Is today dry or sticky? Matkas work best on dry, windy days. Why do you think?",
+     "kid": "Is today dry or sticky? Matkas work best on dry, windy days. Why do you think that is?",
      "think": "Your body has its own matka trick. What is it? (Hint: you do it when you run in the sun.)"
     },
     {
@@ -2140,8 +2140,8 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the matka keeps water coolest because water evaporates from its outside. What I saw: after four hours the matka was 24 °C, the wrapped bottle 26 °C and the steel bottle 29 °C. The matka felt damp outside. Why: evaporating water takes heat away with it."
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "The three sentences are a claim, the evidence for it, and the reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the matka keeps water coolest because water evaporates from its outside. What I saw: after four hours the matka was 24 °C, the wrapped bottle 26 °C and the steel bottle 29 °C. The matka felt damp outside. Why: evaporating water takes heat away with it."
     }
    ],
    "example_chart": {
@@ -2289,8 +2289,8 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "Claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water that looks clear can still have things hidden in it. What I saw: glasses A and B looked the same. But B left a thick white ring of salt, and A left only a faint mark. Why: the salt dissolved, so I could not see it until the water evaporated."
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "The three sentences are a claim, the evidence for it, and the reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water that looks clear can still have things hidden in it. What I saw: glasses A and B looked the same. But B left a thick white ring of salt, and A left only a faint mark. Why: the salt dissolved, so I could not see it until the water evaporated."
     }
    ],
    "example_chart": {
@@ -2515,9 +2515,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "Every morning for six days, at the same time: 1. Read the water level against the ruler. 2. Write it in the sky diary, in millimetres. 3. Draw the sky. 4. Tip out water back down to the 0 line.",
+     "do": "Every morning for six days, at the same time: 1. Read the water level against the ruler. 2. Write it in the sky diary, in millimetres. 3. Draw the sky. 4. Tip water out until the level is back at the 0 line.",
      "say": "Weather scientists all over India do exactly this, every morning at the same time. Today you are one of them.",
-     "kid": "Every morning, read your gauge. Write the number. Draw the sky. Then tip the water back to 0.",
+     "kid": "Every morning, read your gauge. Write the number. Draw the sky. Then tip water out until it is back at the 0 line.",
      "ask": [
       {
        "q": "Why do we read it at the same time every day?",
@@ -2860,7 +2860,7 @@
      "id": "s2",
      "mins": 17,
      "do": "Walk slowly. Look for plants that stay green when the plants around them are dry. Look for damp or dark soil, moss and termite mounds. Look for low places where puddles form after rain.",
-     "say": "Why would one tree be green when all the grass around them is brown? What might their roots have found?",
+     "say": "Why would one tree stay green when all the grass around that tree is brown? What might the tree's roots have found?",
      "kid": "Look for green plants in dry places. Look for damp soil and moss. Look for termite mounds. Mark each one on your map.",
      "adult": true,
      "parent": "In the dry months the top soil dries out, and a shallow-rooted plant cannot reach water and turns brown. Trees such as neem, jamun and banyan send roots deep, down to damp soil, so they can keep their leaves green. Termites dry out easily, so they live where they can reach damp soil, and they build mounds from wet soil. Moss and dark soil mean water is near the surface. None of these signs is certain. Water could also come from a leaking pipe or a garden hose.",
@@ -2946,8 +2946,8 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Your child carries the two 1-litre bottles to the end of the path, about 50 steps, and back. 2. Time the trip.",
-     "say": "Imagine there is no tap. Every litre we used this morning has to be carried from a well. Let's carry two litres there and back.",
-     "kid": "Carry 2 bottles to the end of the path and back. Time it. Now imagine there are no taps at all.",
+     "say": "Suppose there is no tap. Every litre we used this morning has to be carried from a well. Let's carry two litres there and back.",
+     "kid": "Carry 2 bottles to the end of the path and back. Time it. Now think what it would be like with no taps at all.",
      "adult": true,
      "ask": [
       {
@@ -3184,8 +3184,8 @@
      "id": "s2",
      "mins": 7,
      "do": "List three ideas together before building anything.",
-     "say": "Remember the matka test. What made the matka cool? How can we use that trick?",
-     "kid": "Think like an engineer. Draw three ideas first. Remember what made the matka cool."
+     "say": "Think of the Cool Matka Test. The matka was damp on the outside, and its water stayed coolest. What made it cool? How can we use that trick?",
+     "kid": "Think like an engineer. Draw three ideas first. Think of the Cool Matka Test: what made the matka cool?"
     },
     {
      "id": "s3",
@@ -3383,7 +3383,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the jar well, what made the water level at the bottom fall?",
+   "p": "In A Well in a Jar, what made the water level at the bottom fall?",
    "opts": [
     "Pouring more rain on top",
     "Pumping water up the straw",
@@ -3457,7 +3457,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?",
+   "p": "A family counted their water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?",
    "opts": [
     "Different days use different amounts, so it is better to count on a few days",
     "Water is heavier on Sundays",
@@ -3512,7 +3512,7 @@
   "Tankas, kunds, johads, ponds and stepwells have stored rain in India for centuries.",
   "Water testing kits check wells for germs, arsenic and fluoride.",
   "Desalination plants, such as those near Chennai, take salt out of sea water.",
-  "Farmers use drip irrigation, which gives each plant small drops at their roots, to save water.",
+  "Farmers use drip irrigation, which drips a little water at the roots of each plant, to save water.",
   "Satellites that weigh water with gravity show where groundwater is being used up.",
   "Doctors give oral rehydration solution, clean water with sugar and salt, to save people with diarrhoea.",
   "Fire engines, hospitals and factories all need large stores of clean water.",
@@ -3546,7 +3546,7 @@
    "art": "A pond with buffaloes and lotus leaves."
   },
   {
-   "text": "Rainwater running off a road into a drain, while the soil beside it drinks.",
+   "text": "Rainwater running off a road into a drain, while the soil beside it soaks the rain in.",
    "art": "A road in the rain with water rushing into a drain."
   },
   {
@@ -3670,7 +3670,7 @@
    "why_maths": "One drip looks too small to matter. Multiplying it by the hours in a day shows how tiny amounts add up to whole buckets."
   },
   {
-   "problem": "Look at the family water chart. Bathing used 150 litres, the toilet 120, washing clothes 80, dishes and cooking 60, cleaning the floor 20 and drinking 10. How many litres did the family use altogether in the day?",
+   "problem": "Look at the chart from the Family Water Count. Bathing used 150 litres, the toilet 120, washing clothes 80, dishes and cooking 60, cleaning the floor 20 and drinking 10. How many litres did the family use altogether in the day?",
    "answer": "440 litres.",
    "explain": "Add the bars two at a time. 150 + 120 = 270. 80 + 60 = 140. 20 + 10 = 30. Then 270 + 140 = 410, and 410 + 30 = 440. So the family used 440 litres in one day.",
    "math_unit": "math.addition-subtraction.written-methods.L3",
@@ -3772,7 +3772,7 @@
    "why_maths": "A thermometer only helps if you can read its small marks. Then subtracting tells you how much the matka really cooled the water."
   },
   {
-   "problem": "Riya, a girl in Class 3, did Rain on Four Grounds with more water. She poured 8 cups of water onto bare soil, one cup at a time. 6 cups soaked in. 2 cups ran off. What fraction of the water ran off?",
+   "problem": "Suppose you do Rain on Four Grounds with more water. You pour 8 cups of water onto bare soil, one cup at a time. 6 cups soak in. 2 cups run off. What fraction of the water ran off?",
    "answer": "2 out of 8, which is the same as 1 quarter.",
    "explain": "2 cups out of 8 ran off. That is 2 eighths. Put the 8 cups into 4 equal groups of 2. One group ran off. So 2 eighths is the same as 1 quarter. The other 3 quarters soaked in.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -4082,9 +4082,9 @@
   ]
  },
  "roots": {
-  "context": "We have been learning where our water comes from, how we store it and when it is safe. Now we ask what the water in our glass tells us about the world it came through.",
+  "context": "We have been learning where our water comes from, how we store it and when it is safe. Now we ask what the water in our glass can tell us about the places it has passed through.",
   "deep_truth": {
-   "truth": "Plain tap water left a faint white ring when it dried. That ring is minerals, dissolved by the water from rock and soil on its way to you. Water picks up a little of every place it passes through. So each glass of water carries a trace of where it has been.",
+   "truth": "In the Invisible Ring, you dried a spoonful of plain tap water on a dark plate, and it left a faint white ring. That ring is minerals, dissolved by the water from rock and soil on its way to you. Water picks up a little of every place it passes through. So each glass of water carries a trace of where it has been.",
    "habit": "We say 'plain water' or 'just water', as if water were empty. But almost no water on Earth is only water. It carries a little of the ground, the rock and the air it has passed through.",
    "evidence": "In the Invisible Ring, glass A and glass B looked the same, but B left a thick salt ring and plain tap water left a faint ring of minerals. Arsenic in Bengal tubewells came the same way, dissolved from the mud under the ground."
   },

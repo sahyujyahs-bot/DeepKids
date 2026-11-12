@@ -3,7 +3,7 @@
  "title": "The edge of life: deciding whether a tricky case is alive",
  "level": 3,
  "summary": {
-  "text": "A candle flame moves, grows, takes in air and lights new flames, yet scientists say it is not alive. A dry seed does none of these things, yet they are alive. In this unit you test tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. You find that a flame and your own cells do the same chemistry, and that a crystal grows only by adding salt to its outside. Scientists still argue about viruses, and nobody yet knows how life first began.",
+  "text": "A candle flame moves, grows, takes in air and lights new flames, yet scientists say it is not alive. A dry seed does none of these things, yet scientists say the seed is alive. In this unit you test tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a tiny animal called a water bear, and a virus. You find that a flame and your own cells do the same chemistry, and that a crystal grows only by adding salt to its outside. Scientists still argue about viruses, and nobody yet knows how life first began.",
   "art": "A kitchen table with a row of tricky cases: a candle flame, a salt crystal, a dry seed, a tiny eight-legged water bear, a toy robot and a spiky virus ball, and a child with a magnifying glass and a checklist."
  },
  "intro": {
@@ -56,7 +56,7 @@
   {
    "term": "Instructions (genes)",
    "meaning": "The plan inside every cell that says how to build and run the living thing. Parents pass copies of it to their young.",
-   "example": "A mango seed has mango instructions inside, so they grow a mango tree, not a coconut palm.",
+   "example": "A mango seed has mango instructions inside, so the seed grows into a mango tree, not a coconut palm.",
    "art": "A mango seed with a tiny glowing instruction scroll inside, and a mango tree growing from the seed."
   },
   {
@@ -67,8 +67,8 @@
   },
   {
    "term": "Dormant",
-   "meaning": "Alive but resting. A dormant thing's life processes slow down so much that they seem to do nothing. They wake up when conditions are right.",
-   "example": "A dry karamani (cowpea) seed in the kitchen jar is dormant. Put them on wet cotton and they wake.",
+   "meaning": "Alive but resting. A dormant living thing slows down so much that they seem to do nothing. They wake up when conditions are right.",
+   "example": "A dry karamani (cowpea) seed in the kitchen jar is dormant. Put the seed on wet cotton and the seed wakes up.",
    "art": "A jar of dry karamani seeds with tiny sleeping eyes drawn on them."
   },
   {
@@ -137,7 +137,7 @@
    "concept": "The tests we use to decide if something is alive",
    "status": "defined",
    "definition": "A living thing is made of cells, uses energy from food, grows, senses, gets rid of waste, makes more of their kind, and passes on instructions to their young.",
-   "description": "Scientists do not use one sign. They use a list, and a living thing shows most of these signs, at least some of the time. The usual seven are: moving, getting energy from food, sensing, growing, making young, getting rid of waste, and taking in food. Many scientists add two more that matter most for tricky cases. A living thing is made of cells, and they carry instructions that they pass on to their young. These tests decide what biologists call alive. A flame or a crystal that fails these tests is still aware in its own way, because everything is conscious. Being alive and being aware are two different questions. Many scientists think awareness needs a living brain and nerves.",
+   "description": "Scientists do not use one sign. They use a list, and a living thing shows most of these signs, at least some of the time. The usual seven are: moving, getting energy from food, sensing, growing, making young, getting rid of waste, and taking in food. Many scientists add two more that matter most for tricky cases. Every living thing is made of cells. Every living thing also carries instructions and passes them on to their young. These tests decide what biologists call alive. A flame or a crystal that fails these tests is still aware in its own way, because everything is conscious. Being alive and being aware are two different questions. Many scientists think awareness needs a living brain and nerves.",
    "examples": [
     "A goat moves, eats grass, grows, senses you, has young (called kids), makes dung and breathes. She is made of cells. Her kids look like goats because of the instructions they got.",
     "A bicycle moves, but it does none of the other things. So one sign alone tells us nothing."
@@ -209,7 +209,7 @@
    "perspectives": [
     {
      "who": "Many biologists",
-     "explanation": "A tun is alive. Their life is only slowed down, so far that we can hardly measure it. This is like a very deep version of a seed's rest."
+     "explanation": "A tun is alive. Their life has only slowed down, so much that we can hardly measure it. This is like a seed's rest, but much deeper."
     },
     {
      "who": "David Keilin, a biologist in England, in 1959",
@@ -243,7 +243,7 @@
     },
     {
      "who": "Some scientists who study giant viruses",
-     "explanation": "In 2003, French scientists described the mimivirus, a virus so big they were first mistaken for a bacterium. Later they even found a small virus that infects the giant virus's copying factory. Maybe viruses are alive only while they are inside a cell."
+     "explanation": "In 2003, French scientists described the mimivirus, a virus so big that scientists first mistook them for a bacterium. Later they even found a small virus that infects the giant virus's copying factory. Maybe viruses are alive only while they are inside a cell."
     }
    ],
    "art": "A virus drifting alone, still and grey, then the same virus inside a big cell that glows busily, building many small copies.",
@@ -327,7 +327,7 @@
     },
     {
      "who": "A NASA group in the 1990s, often linked to the scientist Gerald Joyce",
-     "explanation": "Life is a chemical system that keeps itself going and can evolve over generations. It was written to help search for life on other planets. Joyce himself said it was a working tool, not the last word."
+     "explanation": "Life is a chemical system that keeps itself going and can evolve over generations. This definition was written to help search for life on other planets. Joyce himself said it was a working tool, not the last word."
     },
     {
      "who": "Some philosophers",
@@ -394,7 +394,7 @@
   },
   {
    "text": "Living things are made of the same kinds of atoms as non-living things.",
-   "evidence": "When living things are broken down by chemists, they find carbon, hydrogen, oxygen, nitrogen and a few others. These are found in air, water and rock too."
+   "evidence": "When chemists break living things down, they find carbon, hydrogen, oxygen, nitrogen and a few others. These are found in air, water and rock too."
   }
  ],
  "challenging": [
@@ -402,7 +402,7 @@
    "claim": "Living things move, and non-living things don't.",
    "who": "Many of us think this without noticing.",
    "for": "Animals run, fly and swim. Stones stay where they are.",
-   "against": "Rivers, clouds, wind and cars all move, and none is alive. A banyan tree hardly moves, and they are alive. Movement alone tells us nothing.",
+   "against": "Rivers, clouds, wind and cars all move, and none is alive. A banyan tree hardly moves, yet the tree is alive. Movement alone tells us nothing.",
    "status": "rejected",
    "context": "This card checks a very common idea about how to tell what is alive."
   },
@@ -457,9 +457,9 @@
  ],
  "big_questions": [
   {
-   "q": "If a seed can sleep for 1,300 years and still wake up, were they alive all that time?",
+   "q": "If a seed can sleep for 1,300 years and still wake up, was the seed alive all that time?",
    "kind": "deep",
-   "hint": "What would have to be inside the seed, all those years, for them to wake?"
+   "hint": "What would have to be inside the seed, all those years, for the seed to wake?"
   },
   {
    "q": "A virus can only make copies inside a cell. A baby cannot live without someone to feed them. Is that the same thing?",
@@ -697,7 +697,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Find the candle flame card. Play it together as a practice round.",
-     "say": "Let's practise. 'A candle flame. I eat wax, I need air, I grow and I make new flames.' Which signs does it have? Which sign cards does it not have?",
+     "say": "Let's practise. 'A candle flame. I eat wax, I need air, I grow and I make new flames.' Which sign cards does the flame have? Which sign cards does it not have?",
      "kid": "Practice card: a candle flame. Which signs does it have? Which is it missing? Say your answer out loud.",
      "ask": [
       {
@@ -710,7 +710,7 @@
        ]
       },
       {
-       "q": "Which does it not have?",
+       "q": "Which sign cards does the flame not have?",
        "good": [
         "It is not made of cells.",
         "It does not pass on instructions."
@@ -742,7 +742,7 @@
        "q": "The mule can't have babies. Are they still alive?",
        "good": [
         "Yes. They still eat, grow, breathe and are made of cells.",
-        "Making young is a sign for the kind of living thing, not for every single one."
+        "Making young is something a kind of living thing does. Not every single one has to."
        ]
       }
      ]
@@ -1071,7 +1071,7 @@
       "From the cotton thread itself"
      ],
      "a": 0,
-     "why": "A crystal grows only by more of the same salt stacking onto their outside. The plain water jar grew nothing, because it had no salt in it. A seedling grows differently: their cells turn food into new parts from inside.",
+     "why": "A crystal grows only when more of the same salt stacks onto its outside. The plain water jar grew nothing, because it had no salt in it. A seedling grows differently: their cells turn food into new parts from inside.",
      "how": "e3"
     },
     {
@@ -1082,7 +1082,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ishita, a girl in Class 3, says: 'A coconut palm cannot walk or run, so the palm is not alive.' What has Ishita forgotten?",
+     "p": "Someone says: 'A coconut palm cannot walk or run, so the palm is not alive.' What have they forgotten?",
      "opts": [
       "Palms are too tall to be alive",
       "The palm takes in water, grows from inside and makes coconuts that grow into new palms",
@@ -1114,7 +1114,7 @@
     },
     {
      "t": "write",
-     "p": "Look back at your balloon test. Is dried yeast alive? Write three sentences: what you think, what you saw in the bottles, and why.",
+     "p": "In the Balloon Test, you put dried yeast in bottles of sugar water with balloons on top. Is dried yeast alive? Write three sentences: what you think, what you saw in the bottles, and why.",
      "lines": 4,
      "a": "What I think: dried yeast is alive, but resting. What I saw: the balloon on the warm yeast bottle grew, the cold yeast bottle was slow, and the bottle with no yeast stayed flat. Why: the yeast woke in the warm sugar water, fed on the sugar and gave off gas. Sugar water alone made no gas.",
      "why": "A strong answer has all three parts: a claim, real results from the bottles, and a reason. The best answers use the no-yeast bottle as proof that the gas came from the yeast.",
@@ -1122,10 +1122,10 @@
     },
     {
      "t": "write",
-     "p": "Meena, who is 9, hears her little brother Karthik say: 'Fire is alive. It eats wood, breathes air and grows.' What should Meena tell him?",
+     "p": "A younger child says: 'Fire is alive. It eats wood, breathes air and grows.' What would you tell them?",
      "lines": 3,
-     "a": "Meena could say: 'You are right that fire uses fuel and air and grows. But fire has no cells. A new flame gets no instructions from the old one. Living things have both, so fire is not alive.'",
-     "why": "A strong answer agrees with what is true in Karthik's idea first, then names the signs fire lacks: cells and passed-on instructions."
+     "a": "You could say: 'You are right that fire uses fuel and air and grows. But fire has no cells. A new flame gets no instructions from the old one. Living things have both, so fire is not alive.'",
+     "why": "A strong answer agrees with what is true in the child's idea first, then names the signs fire lacks: cells and passed-on instructions."
     },
     {
      "t": "draw",
@@ -1136,7 +1136,7 @@
     },
     {
      "t": "perspective",
-     "p": "Riya, a girl in Class 4, and her family are arguing about the robot vacuum cleaner that cleans their floor.",
+     "p": "Riya and her family are arguing about the robot vacuum cleaner that cleans their floor.",
      "views": [
       {
        "who": "Riya",
@@ -1153,7 +1153,7 @@
      ],
      "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. Answering back, a strong answer might say Riya is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
+     "a": "A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. A strong answer also says what another person has right. For example, Riya is right that the robot senses and moves, but 'hungry' is only a word for a low battery.",
      "why": "Scientists really do disagree about whether a machine could ever be alive. There is no single right answer. A strong answer names signs of life and is fair to the other side."
     }
    ]
@@ -1190,10 +1190,10 @@
     },
     {
      "t": "mcq",
-     "p": "A mule is the young of a horse and a donkey. Mules eat, grow and breathe, but almost never have young. Nila, a girl in Class 4, says this means mules are not alive. What is wrong with her idea?",
+     "p": "A mule is the young of a horse and a donkey. Mules eat, grow and breathe, but almost never have young. Someone says this means mules are not alive. What is wrong with that idea?",
      "opts": [
       "Nothing. Mules are not alive",
-      "Making young is something a kind of living thing does, not every single one. Mules do all the other life processes",
+      "Making young is something a kind of living thing does, but not every single one has to. Mules do all the other life processes",
       "Mules have young all the time",
       "Mules are dormant, so they only look alive"
      ],
@@ -1222,12 +1222,12 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 4, tried the balloon test with just one bottle: yeast, sugar and warm water. The balloon filled up. She says this proves the yeast is alive. Why is her test not strong enough yet?",
+     "p": "Someone tried the balloon test with just one bottle: yeast, sugar and warm water. The balloon filled up. They say this proves the yeast is alive. Why is the test not strong enough yet?",
      "opts": [
-      "She used too much sugar",
+      "They used too much sugar",
       "Balloons always fill up by themselves",
-      "She has no bottle without yeast to compare with, so the gas might have come from the sugar water alone",
-      "She should have used cold water instead"
+      "There is no bottle without yeast to compare with, so the gas might have come from the sugar water alone",
+      "They should have used cold water instead"
      ],
      "a": 2,
      "why": "A comparison, called a control, is what makes a test convincing. Only a bottle with sugar and warm water but no yeast can show that the gas came from the yeast.",
@@ -1314,9 +1314,9 @@
     },
     {
      "t": "write",
-     "p": "Gowri, a girl in Class 5, says: 'A virus is just like a dry seed. Both do nothing until they get what they need.' Write one way she is right and one way she is wrong.",
+     "p": "Someone says: 'A virus is just like a dry seed. Both do nothing until they get what they need.' Write one way this is right and one way it is wrong.",
      "lines": 4,
-     "a": "She is right that both do nothing for a long time, until the right thing comes along: water for the seed, a living cell for the virus. She is wrong because the seed has their own cells and stored food, and grows by themselves. A virus has no cells, and the cell they get into does all the work.",
+     "a": "It is right that both do nothing for a long time, until the right thing comes along: water for the seed, a living cell for the virus. It is wrong because the seed has their own cells and stored food, and grows by themselves. A virus has no cells, and the cell the virus gets into does all the work.",
      "why": "A strong answer gives one real likeness and one real difference, and the difference is about cells."
     },
     {
@@ -1338,7 +1338,7 @@
      ],
      "ask": "Which scientist do you side with? Give your evidence from this unit. Then say what one of the other scientists has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and backs it with facts: copies, evolution and the flu vaccine for 'yes', or doing nothing on a table for 'no'. Answering back, it admits the best point of the other side.",
+     "a": "A strong answer picks a side and backs it with facts: copies, evolution and the flu vaccine for 'yes', or doing nothing on a table for 'no'. It also admits the best point of the other side.",
      "why": "This is a real, unsettled argument. There is no single right answer. A strong answer uses evidence, not just feelings.",
      "how": "a4"
     },
@@ -1385,7 +1385,7 @@
       },
       {
        "who": "David Keilin, a scientist in Cambridge, in 1959",
-       "says": "This is a third state, called cryptobiosis, which means hidden life. Their life processes have stopped, so it is neither ordinary life nor death."
+       "says": "This is a third state, called cryptobiosis, which means hidden life. The tun's life processes have stopped, so this is neither ordinary life nor death."
       },
       {
        "who": "A doctor",
@@ -1394,7 +1394,7 @@
      ],
      "ask": "Which view do you agree with most? Give your evidence. Then say what another view gets right.",
      "lines": 5,
-     "a": "A strong answer uses evidence. For 'alive': tuns wake up when watered, and dead ones never do. For Keilin: nothing measurable is happening, so 'alive' does not quite fit. For the doctor: the rule for people may not fit a water bear. Answering back, it admits the best point of another view.",
+     "a": "A strong answer uses evidence. For 'alive': tuns wake up when watered, and dead ones never do. For Keilin: nothing measurable is happening, so 'alive' does not quite fit. For the doctor: the rule for people may not fit a water bear. A strong answer also admits the best point of another view.",
      "why": "Scientists really do use all three ways of talking about tuns. There is no single right answer."
     },
     {
@@ -1543,7 +1543,7 @@
       "They would turn back into a seed"
      ],
      "a": 2,
-     "why": "A seed gets ready to dry out before they leave the plant. Once they sprout, their cells are busy and lose that power. Being dormant is a special skill, not something every living thing can do."
+     "why": "A seed gets ready to dry out before leaving the plant. Once the seed sprouts, the cells are busy and lose that power. Being dormant is a special skill, not something every living thing can do."
     },
     {
      "t": "write",
@@ -1934,7 +1934,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask for claim, evidence and reasoning.",
+     "do": "Ask your child to say three things: what they think, what they saw, and why.",
      "say": "Now tell me what you found. What do you think now about the yeast? What did you see? And why do you think it happened? Why was bottle 2 so slow?",
      "kid": "Say three things. What I think. What I saw. Why. Why was the cold bottle slow?",
      "parent": "A good answer: What I think: dried yeast is alive but resting. What I saw: the warm yeast balloon grew to 30 cm round, but the no-yeast balloon stayed at 10 cm. Why: the yeast woke up, ate the sugar and gave off gas. Cold slows living things down."
@@ -2055,7 +2055,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment (or your drawings of them), or your drawings of them. Go through the signs of life one by one.",
+     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your drawings of them. Go through the signs of life one by one.",
      "say": "Let's put our crystal on trial. Does it move? Eat? Get energy from food? Sense? Make young? Get rid of waste? Is it made of cells? Now the seedling. What is the difference in how they grew?",
      "kid": "Put your crystal on trial. Go through each sign. Then try the seedling. How did each one grow?",
      "check": {
@@ -2075,7 +2075,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning.",
+     "do": "Ask your child to say three things: what they think, what they saw, and why.",
      "say": "What do you think now: is the crystal alive? What did you see? Why do you think so?",
      "kid": "Say three things. What I think. What I saw. Why.",
      "parent": "A good answer: What I think: the crystal is not alive. What I saw: small crystals grew on the thread (they may be only a few millimetres), but only salt built up on the outside, and it did nothing else. The plain water thread stayed bare. Why: the salt came out of the water as the water evaporated. The crystal has no cells and takes in no food."
@@ -2170,7 +2170,7 @@
        "The salt"
       ],
       "a": 1,
-      "why": "The dry seed is alive but resting. Give them water and they grow a root. A pebble never can. Picking the toy car usually means 'it can move, so it might be alive'. But moving alone tells us nothing."
+      "why": "The dry seed is alive but resting. Give the seed water and a root grows. A pebble never can grow one. Picking the toy car usually means 'it can move, so it might be alive'. But moving alone tells us nothing."
      },
      "think": "Keep your tray. At the end of this unit, sort it again. Will you change anything?"
     }
@@ -2381,7 +2381,7 @@
      "kid": "Did anything move in the water? Yesterday the moss was dry. Were those animals dead, or waiting?",
      "check": {
       "t": "mcq",
-      "q": "Imagine tiny animals swim in the water from dry moss. Where did they come from?",
+      "q": "Suppose you see tiny animals swimming in the water squeezed from dry moss. Where did they come from?",
       "options": [
        "The water made them out of nothing",
        "They were in the dry moss all along, resting, and woke up in the water",
@@ -2489,7 +2489,7 @@
        "Because viruses are animals"
       ],
       "a": 1,
-      "why": "A virus carries instructions and makes copies, like living things. But they can only do this inside a cell, and alone they make no copies. That is why they sit on the edge. Picking 'animals' is a common mix-up. Viruses have no cells at all, while every animal is made of many cells."
+      "why": "A virus carries instructions and makes copies, like living things. But they can only do this inside a cell, and alone they make no copies. That is why viruses sit on the edge of life. Picking 'animals' is a common mix-up. Viruses have no cells at all, while every animal is made of many cells."
      }
     }
    ]
@@ -2710,7 +2710,7 @@
      "mins": 25,
      "do": "Help your child choose six cases and make a label card for each.",
      "say": "A museum label tells visitors the most important things in a few words. For each case, write the signs it shows, the signs it lacks, and your verdict.",
-     "kid": "Choose six tricky cases. Write the signs it shows. Write the signs it lacks. Then give your verdict.",
+     "kid": "Choose six tricky cases. For each one, write the signs it shows and the signs it lacks. Then give your verdict.",
      "wait": "Finish the labels today. Set up the museum tomorrow.",
      "context": "This is the first day of the Museum of Tricky Cases project. Your child makes a label for each exhibit."
     },
@@ -2731,7 +2731,7 @@
        "Only animals grow"
       ],
       "a": 1,
-      "why": "The crystal really does grow, so 'they do not really grow' is wrong. But it grows only by stacking more salt on the outside. Living things grow from inside, using food. 'Only animals grow' forgets plants, which grow all their lives."
+      "why": "The crystal really does grow, so 'Crystals do not really grow' is wrong. But it grows only by stacking more salt on the outside. Living things grow from inside, using food. 'Only animals grow' forgets plants, which grow all their lives."
      }
     }
    ]
@@ -2815,7 +2815,7 @@
        "To clean the robot"
       ],
       "a": 1,
-      "why": "A comparison shows what happens when the living things are killed. If heated soil makes as much gas as fresh soil, the gas probably came from ordinary chemistry, not life. But heat can change some chemicals too. That is one reason scientists still argue about the Viking results. This is like the pebble plate in the sleeping seeds experiment. Picking 'heated soil is more alive' is the opposite of the idea."
+      "why": "The heated soil is a comparison, like the pebble plate in the sleeping seeds experiment. It shows what happens when the living things are killed. If heated soil makes as much gas as fresh soil, the gas probably came from ordinary chemistry, not life. But heat can change some chemicals too. That is one reason scientists still argue about the Viking results. Picking 'heated soil is more alive' is the opposite of the idea."
      }
     }
    ],
@@ -2868,8 +2868,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Talk about what wakes a seed up, from the sleeping seeds experiment.",
-     "say": "Remember the seeds on wet cotton? What woke them up? So, to keep a seed asleep, what must we keep away from them?",
-     "kid": "What woke the seeds on the wet cotton? So what must you keep away to keep a seed asleep?",
+     "say": "In the sleeping seeds experiment, the seeds on wet cotton woke up. What woke them? So, to keep a seed asleep, what must we keep away from them?",
+     "kid": "In the sleeping seeds experiment, what woke the seeds on the wet cotton? So what must you keep away to keep a seed asleep?",
      "ask": [
       {
        "q": "What wakes a seed up?",
@@ -2941,7 +2941,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Ammu, a girl in Class 3, says: 'A mushroom has no legs and no eyes, and stays in one place. So a mushroom is not alive.' Which fact shows that Ammu is wrong?",
+   "p": "Someone says: 'A mushroom has no legs and no eyes, and stays in one place. So a mushroom is not alive.' Which fact shows that this is wrong?",
    "opts": [
     "The mushroom is soft",
     "The mushroom grows from inside and makes spores that grow into new mushrooms",
@@ -3130,7 +3130,7 @@
   },
   {
    "q": "How long can a seed stay dormant and still wake?",
-   "why_open": "Seeds of about 1,300 years old have grown. Nobody knows the true limit, and different seeds are very different."
+   "why_open": "A seed about 1,300 years old has grown. Nobody knows the true limit, and different seeds are very different."
   },
   {
    "q": "What is it like to be a plant?",
@@ -3522,12 +3522,12 @@
   "context": "We have tested tricky cases against the signs of life: fire, a salt crystal, a robot, a dry seed, a water bear and a virus. Now we ask what fire, the most famous tricky case, tells us about our own bodies.",
   "deep_truth": {
    "truth": "A cold spoon mists over when held above a candle flame, and when you breathe on it. The flame and your cells both join fuel with oxygen, and give out heat and water. The flame does it all at once, and your cells do it slowly, in many small steps. So you need to breathe for the same reason a candle needs air.",
-   "habit": "We think living things run on some special life-stuff that fire, rocks and machines lack. People called this idea vitalism. But your cells free their energy by the same kind of change as a flame.",
+   "habit": "We think living things run on some special life-stuff that fire, rocks and machines lack. People called this idea vitalism. But your cells release their energy by the same kind of change as a flame.",
    "evidence": "If you did the candle trial, the flame needed air, gave out warmth and misted a cold spoon, just as your body and breath did. In 1783 Lavoisier and Laplace found that a guinea pig's body heat was close to the heat from burning charcoal that made the same amount of carbon dioxide."
   },
   "three": {
    "who_am_i": "You are warm because your cells join food with oxygen, the same change that makes a flame hot. You are made of the same kinds of atoms as rocks, air and stars.",
-   "what_is_life": "Scientists find no special chemicals in living things. A cell is alive because of how their ordinary chemistry is organised, kept going and passed on.",
+   "what_is_life": "Scientists find no special chemicals in living things. A cell is alive because of how the ordinary chemistry inside is organised, kept going and passed on.",
    "what_is_this_world": "Living and non-living things are made of the same atoms and use the same chemistry. All of them are part of one consciousness, each aware in its own way."
   },
   "thread": "A flame, a crystal, a virus and you are made of the same few kinds of atoms, and a flame and your cells do the same chemistry. Everything comes from one source, consciousness, and shows up as many different things. Some of them, like you, are arranged into cells that keep themselves going and pass on instructions, and biologists call them alive. A flame or a crystal is not alive by those tests, but it is still aware in its own way. Being alive and being aware are two different questions.",
@@ -3535,7 +3535,7 @@
    {
     "source": "Charaka Samhita, Chikitsa Sthana 15.3-4",
     "teaching": "This old book of Ayurveda says there is a fire in the body, called agni, that turns food into the body. It says a person's life, strength and warmth depend on this fire, and that when it goes out, the person dies.",
-    "link": "Science found something close. Your cells set free the energy in food with oxygen, the same change as in a flame, only slower. The old healers had no microscopes, so this is a parallel, not a proof."
+    "link": "Science found something close. Your cells use oxygen to release the energy in food. This is the same change as in a flame, only slower. The old healers had no microscopes, so this is a parallel, not a proof."
    },
    {
     "source": "Heraclitus, fragment 30 (Diels-Kranz numbering)",

@@ -3,7 +3,7 @@
  "title": "Measuring the weather: thermometers, rain gauges and wind vanes",
  "level": 3,
  "summary": {
-  "text": "Hang a thermometer in the sun and it can read many degrees more than one in the shade, in the same air. A thermometer shows how warm the thermometer itself is, and sunlight heats it. So weather stations keep their thermometers in the shade, inside a white box with slatted sides. A rain gauge measures rain as a depth in millimetres. A wide pot and a narrow jar with straight sides catch the same depth of rain. A wind vane turns to point to where the wind is coming from. Write these readings down every day in a weather diary, and patterns appear: the warmest time of day, the wettest week, the usual wind.",
+  "text": "Hang a thermometer in the sun and it can read many degrees more than one in the shade, in the same air. A thermometer shows how warm the thermometer itself is, and sunlight heats it. So weather stations keep their thermometers in the shade, inside a white box with slatted sides. A rain gauge measures rain as a depth in millimetres. A wide pot and a narrow jar, both with straight sides, fill to the same depth in the same rain. A wind vane turns to point to where the wind is coming from. Write these readings down every day in a weather diary, and patterns appear: the warmest time of day, the wettest week, the usual wind.",
   "art": "A city balcony with a thermometer hanging under a small white paper roof, a plastic jar with a ruler on the ledge, and a card-and-straw wind vane on a bottle, with a child writing in a notebook."
  },
  "intro": {
@@ -103,7 +103,7 @@
   {
    "term": "Weather diary",
    "meaning": "A notebook where you write the weather at the same times every day.",
-   "example": "Kavya, a girl in Mysuru, writes in her weather diary the temperature at 8 in the morning and 3 in the afternoon.",
+   "example": "A weather diary might have the temperature at 8 in the morning and at 3 in the afternoon, every day.",
    "art": "An open notebook with a table of dates, temperatures, rain and little drawings of the sky."
   },
   {
@@ -143,7 +143,7 @@
    "concept": "A thermometer shows its own temperature",
    "status": "defined",
    "definition": "A thermometer can only show how warm the thermometer itself is. It shows the air's temperature only when the air is the only thing warming or cooling it.",
-   "description": "In the shade, the thermometer gives heat to the air or takes heat from it until both are equally warm. Then its reading is the air's temperature. In sunlight, something else happens. The thermometer takes in sunlight, and that light warms it, on top of the air. So it climbs above the air's temperature. The air around it has not changed. Only the thermometer has. This is why a thermometer in the sun can read 5, 10 or even more degrees above one in the shade nearby.",
+   "description": "In the shade, the thermometer gives heat to the air or takes heat from it until both are equally warm. Then its reading is the air's temperature. In sunlight, something else happens. The thermometer takes in sunlight, and that light warms it as well as the air does. So its reading climbs above the air's temperature. The air around it has not changed. Only the thermometer has. This is why a thermometer in the sun can read 5, 10 or even more degrees above one in the shade nearby.",
    "examples": [
     "In the Sun or Shade test, a thermometer hung in the sun read 44 °C. In the shade, a metre away, it read 33 °C.",
     "Digital temperature signs at bus stops often stand in the sun. On sunny days they can show much higher numbers than the weather report."
@@ -450,31 +450,31 @@
        "b": "Anemometer"
       },
       {
-       "f": "MISTAKE: Arjun hangs his thermometer in full sun. What goes wrong?",
+       "f": "MISTAKE: A thermometer hangs in full sun. What goes wrong?",
        "b": "It reads too high. Move it to the shade."
       },
       {
-       "f": "MISTAKE: Meena puts her rain gauge under the balcony roof. What goes wrong?",
+       "f": "MISTAKE: A rain gauge stands under the balcony roof. What goes wrong?",
        "b": "It catches no rain. Put it under open sky."
       },
       {
-       "f": "MISTAKE: Divya's rain gauge is a tumbler that is narrow at the bottom. What goes wrong?",
+       "f": "MISTAKE: A rain gauge is made from a tumbler that is narrow at the bottom. What goes wrong?",
        "b": "It fills deeper than the true rain. Use straight sides."
       },
       {
-       "f": "MISTAKE: Farhan's wind vane has a big arrowhead and a tiny tail. What goes wrong?",
+       "f": "MISTAKE: A wind vane has a big arrowhead and a tiny tail. What goes wrong?",
        "b": "It won't turn to face the wind. Make the tail bigger."
       },
       {
-       "f": "MISTAKE: Priya's thermometer touches a sunny wall. What goes wrong?",
+       "f": "MISTAKE: A thermometer touches a sunny wall. What goes wrong?",
        "b": "The hot wall warms it. Hang it in the air."
       },
       {
-       "f": "MISTAKE: Revathi reads her rain gauge only once a week in May. What goes wrong?",
-       "b": "Some water evaporates. Read it every day."
+       "f": "MISTAKE: A rain gauge is read only once a week in May. What goes wrong?",
+       "b": "Some water evaporates: it dries up into the air. Read it every day."
       },
       {
-       "f": "TEST IT: Guess the air temperature now. Then read your thermometer. Within 2 degrees? Everyone who guessed within 2 degrees scores 1 point.",
+       "f": "TEST IT: Guess the air temperature now. Then read your thermometer. Everyone who guessed within 2 degrees scores 1 point.",
        "b": "Hang the thermometer in the shade and wait 5 minutes before you read it."
       },
       {
@@ -498,8 +498,8 @@
    "rules": [
     "Lay the 4 tool cards face up in a row. Shuffle the 16 question cards and stack them face down.",
     "On your turn, turn over the top card and read the front aloud. Do not look at the back yet.",
-    "A question card: say which tool answers it and put the card under that tool. Then read the back. Right: score 1 point.",
-    "A MISTAKE card: say what goes wrong and how to fix it. Then read the back. Right: score 2 points.",
+    "A question card: say which tool answers it and put the card under that tool. Then read the back. If you are right, score 1 point.",
+    "A MISTAKE card: say what goes wrong and how to fix it. Then read the back. If you are right, score 2 points.",
     "A TEST IT card: everybody does the test together. Each player who guesses well scores 1 point.",
     "A wrong answer scores nothing. Put the card aside and play on.",
     "The game ends when all 16 cards are used. The player with the most points wins. A tie is a shared win. Playing alone? Try to beat your own score next time."
@@ -518,10 +518,10 @@
      "mins": 10,
      "do": "Take turns turning over cards until they run out. Check each answer on the back of the card.",
      "say": "Which tool would answer this question? How do you know?",
-     "kid": "Turn over a card. Read it. Which tool? Put it there.",
+     "kid": "Turn over a card and read it. Which tool answers it? Put the card under that tool.",
      "check": {
       "t": "mcq",
-      "q": "Arjun hangs his thermometer in full sun. What goes wrong?",
+      "q": "A thermometer hangs in full sun. What goes wrong?",
       "options": [
        "It reads too high, because sunlight heats it",
        "It reads too low",
@@ -576,8 +576,8 @@
     "The 'vane' stands in the middle of the room with one arm out as the arrow.",
     "The 'wind' stands by one wall and waves a newspaper or a dupatta at the vane.",
     "The vane turns to point the arrow at the wind, and calls out the wind's name, for example 'a west wind!'.",
-    "Right: the vane scores 1 point. Then swap. With three or more players, one is the vane and the others take turns as the wind.",
-    "Play five turns each. Most points wins. A tie is a shared win."
+    "If the vane is right, the vane scores 1 point. Then swap. With three or more players, one is the vane and the others take turns as the wind.",
+    "Play five turns each. The player with the most points wins. A tie is a shared win."
    ],
    "flow": [
     {
@@ -692,14 +692,14 @@
        ]
       }
      ],
-     "parent": "Don't explain anything yet. Write down your child's three guesses. The best time is late morning or early afternoon on a sunny day, when part of the balcony or window is in full sun. If the sun does not reach your balcony or windows at this hour, try another time of day. No thermometer yet? A straw thermometer, a bottle of coloured water with a straw in it, shows the same change as a rising level, without degrees.",
+     "parent": "Don't explain anything yet. Write down your child's three guesses. The best time is late morning or early afternoon on a sunny day, when part of the balcony or window is in full sun. If the sun does not reach your balcony or windows at this hour, try another time of day. No thermometer yet? Use a straw thermometer: a bottle of coloured water with a straw in it. The water rises in the straw as it warms, so it shows the same change, but without degrees.",
      "context": "This is the first step of the Sun or Shade test. You guess what a thermometer will read in three places."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Fold the white A4 sheet in half, like a roof. 2. Keep it ready with two pieces of tape. 3. Tie the thread round the top of the thermometer.",
-     "say": "This paper roof will make a shadow. We'll use it in the third test.",
+     "say": "This paper roof will make a shadow. We'll use it for the third reading, in the sun under the roof.",
      "kid": "Fold the white paper in half like a roof. Tie the thread to the thermometer.",
      "parent": "With a digital probe thermometer, hang the probe tip in the air, not touching anything. Keep the display box in the shade if you can."
     },
@@ -728,7 +728,7 @@
      "mins": 7,
      "do": "1. Move the thermometer to the sunny spot, less than two metres away, at the same height. 2. Again it hangs in the air, touching nothing. 3. Wait 5 minutes. 4. Read it twice, a minute apart.",
      "say": "Same thermometer, same thread, same height. Only the sunlight is different. What does it say now?",
-     "kid": "Hang it in the sun now. Same height. Wait 5 minutes. Read it twice. Was your guess right?",
+     "kid": "Hang the thermometer in the sun now, at the same height. Wait 5 minutes. Read it twice. Was your guess right?",
      "adult": true,
      "parent": "Expect a much higher reading, often 5 to 15 degrees above the shade. If it climbs near the top of its scale, take it out of the sun. On a cloudy day the difference is small: try again on a sunny day."
     },
@@ -738,7 +738,7 @@
      "do": "1. Leave the thermometer hanging in the sun. 2. Tape the paper roof to the grill just above it, so it hangs in the roof's shadow. 3. Leave both ends of the roof open for air. 4. Wait 5 minutes. 5. Read it twice.",
      "say": "Now the thermometer is in the same sunny air, but the paper stops sunlight landing on it. What do you think it will read?",
      "kid": "Tape the paper roof above the thermometer. It is in the shadow now. Wait 5 minutes. Read it twice.",
-     "parent": "The reading usually falls back to within a degree or three of the shade reading. It may stay a little higher, because the paper itself warms up in the sun.",
+     "parent": "The reading usually falls back to within 1 to 3 degrees of the shade reading. It may stay a little higher, because the paper itself warms up in the sun.",
      "check": {
       "t": "mcq",
       "q": "The thermometer in the sun read 44 °C. Under the paper roof, in the same spot, it read 35 °C. What did the paper roof change?",
@@ -774,7 +774,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a thermometer in the sun reads too high, so to measure the air it must be in the shade. What I saw: it read 33 °C in the shade, 44 °C in the sun and 35 °C in the sun under the paper roof. Why: sunlight heats the thermometer itself, so in the sun it shows its own warmth, not the air's."
     }
    ],
@@ -930,7 +930,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a wide and a narrow container fill to the same depth in the same rain, as long as both have straight sides. What I saw: the dabba and the glass both had about 12 mm of water, both times. Why: the wide one catches more rain but spreads it over a bigger floor, so the depth is the same. That is why rain is measured as a depth."
     }
    ],
@@ -1053,7 +1053,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air is warmest in the afternoon, not at noon. What I saw: it was 28 °C at 7, 34 °C at noon and 36 °C at 2, then it went down to 31 °C by 7 in the evening. Why: the ground and walls keep warming the air after noon, until the Sun gets low."
     }
    ],
@@ -1321,7 +1321,7 @@
      "kid": "Look out for one minute. What is moving? Which number fits?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 3 in Kochi, sees coconut leaves swaying and big branches moving from her window. Which number fits best?",
+      "q": "From a window, you see coconut leaves swaying and big branches moving. Which number on the wind strength card fits best?",
       "options": [
        "0, calm",
        "1, light",
@@ -1426,12 +1426,12 @@
      "what": "Feel a sunny surface, a shaded surface and the air above each, with the back of your hand."
     }
    ],
-   "record": "Write the four places in order, from hottest to coolest.",
+   "record": "Write the four places in order, from hottest to coolest: the sunny ledge, the air above it, the shady ledge and the air above it.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. A grown-up touches the sunny ledge first, to check it is safe. 2. Your child touches it for a moment with the back of the hand. 3. Then holds the hand in the air just above it.",
+     "do": "1. A grown-up touches the sunny ledge first, to check it is safe. 2. Your child touches it for a moment with the back of the hand. 3. Then your child holds the hand in the air just above the ledge.",
      "say": "Which feels hotter, the sunny ledge or the air just above it? Why might that be?",
      "kid": "Touch the sunny ledge for a moment. Now hold your hand just above it. Which feels hotter?",
      "adult": true,
@@ -1441,7 +1441,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Do the same on a shaded ledge or floor. 2. Put the four places in order from hottest to coolest.",
+     "do": "1. Do the same on a shaded ledge or floor. 2. Put the four places in order from hottest to coolest: the sunny ledge, the air above it, the shady ledge and the air above it.",
      "say": "Sunlight goes straight through clear air, but the ledge takes it in. What does that tell us about where to put a thermometer?",
      "kid": "Now feel a shady ledge and the air above it. Put all four in order, hottest first.",
      "check": {
@@ -1562,11 +1562,11 @@
      "kid": "Draw a bar for each afternoon. What pattern can you see?",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 3 in Mysuru, kept a weather diary. The afternoon was warmer than the morning on all seven days. What is the best thing to say?",
+      "q": "You keep a weather diary for a week. The afternoon is warmer than the morning on all seven days. What is the best thing to say?",
       "options": [
        "Afternoons are always warmer, everywhere, forever",
-       "In this week, at her home, afternoons were warmer than mornings",
-       "Her thermometer must be broken"
+       "In this week, at my home, afternoons were warmer than mornings",
+       "My thermometer must be broken"
       ],
       "a": 1,
       "why": "One week at one home shows a pattern for that week and that place. To say more, you would need more weeks and more places. That is why weather stations keep records for many years."
@@ -1600,7 +1600,7 @@
     "Use only things from home.",
     "Sunlight must never land on the thermometer.",
     "Air must be able to flow through.",
-    "Its reading in the sun must be within 2 degrees of a reading in full shade."
+    "With the screen in the sun, the thermometer inside it must read within 2 degrees of a reading in full shade."
    ],
    "materials": [
     "a cardboard box or a plastic food tub",
@@ -1623,8 +1623,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Hang the thermometer under the plain paper roof in the sun. 2. Read it after 5 minutes. 3. Write it down. 4. Read the shade spot too.",
-     "say": "This is the reading to beat. How close is the paper roof to the shade?",
+     "do": "1. Hang the thermometer under the plain paper roof in the sun. 2. Read it after 5 minutes. 3. Write it down. 4. Read the thermometer in the shady spot too.",
+     "say": "This is the reading to beat. How close is the paper roof reading to the shade reading?",
      "kid": "Read the thermometer under the paper roof. Then read it in the shade. How far apart are they?",
      "context": "This is the first step of the Weather Screen challenge. You find out how well the plain paper roof works."
     },
@@ -1758,7 +1758,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Ishita, a girl in Class 3 in Pune, hangs one thermometer in the sun and one in the shade, a metre apart. Which reads higher?",
+   "p": "One thermometer hangs in the sun and one in the shade, a metre apart. Which reads higher?",
    "opts": [
     "The one in the sun",
     "The one in the shade",
@@ -1784,7 +1784,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Sun or Shade test, why do we keep the thermometer at the same height and the same thread each time?",
+   "p": "In the Sun or Shade test, why do we keep the thermometer at the same height and on the same thread each time?",
    "opts": [
     "So that only the sunlight changes, and the test is fair",
     "So it looks neat",
@@ -1853,11 +1853,11 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3 in Mysuru, writes '0 mm' in her weather diary on a dry day. Is that useful?",
+   "p": "On a dry day, you write '0 mm' in your weather diary. Is that useful?",
    "opts": [
     "Yes, a dry day is a real reading",
     "No, only rainy days count",
-    "No, she should guess a number",
+    "No, you should guess a number",
     "Only if it is cloudy"
    ],
    "a": 0,
@@ -1900,7 +1900,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, wants to measure how warm the air is on her balcony. Where should she hang her thermometer?",
+     "p": "You want to measure how warm the air is on your balcony. Where should you hang the thermometer?",
      "opts": [
       "In the shade, hanging in the air",
       "In full sun, on the wall",
@@ -1945,7 +1945,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 3, makes a wind vane. It points east. Where is the wind coming from?",
+     "p": "A wind vane points east. Where is the wind coming from?",
      "opts": [
       "From the east",
       "From the west",
@@ -1965,7 +1965,7 @@
     },
     {
      "t": "sort",
-     "p": "Kavya, a girl in Class 3 in Mysuru, is setting up a weather station on her terrace. Sort these places for her thermometer.",
+     "p": "You are setting up a weather station on a terrace. Sort these places for the thermometer.",
      "cats": [
       "Good place",
       "Bad place"
@@ -2111,7 +2111,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 3 in Kochi, has a shade thermometer. At 7 in the morning her shade thermometer reads 26 °C. At noon it reads 31 °C. What will it most likely read at 3 in the afternoon on a clear day?",
+     "p": "At 7 in the morning, a shade thermometer in Kochi reads 26 °C. At noon it reads 31 °C. What will it most likely read at 3 in the afternoon on a clear day?",
      "opts": [
       "About 24 °C",
       "About 26 °C",
@@ -2138,21 +2138,21 @@
     },
     {
      "t": "count",
-     "p": "Divya's rain gauge shows 4 mm on Monday, 12 mm on Tuesday, 0 mm on Wednesday and 9 mm on Thursday. How much rain fell in the four days?",
+     "p": "A rain gauge shows 4 mm on Monday, 12 mm on Tuesday, 0 mm on Wednesday and 9 mm on Thursday. How much rain fell in the four days?",
      "a": 25,
      "why": "4 + 12 + 0 + 9 = 25 mm. Adding the daily depths gives the total rainfall. A strong answer counts the 0 too, because a dry day is still a day in the record."
     },
     {
      "t": "mcq",
-     "p": "Revathi measured 10 mm of rain on her terrace in Guwahati. The weather station 5 km away measured 25 mm. What is the most likely reason?",
+     "p": "You measure 10 mm of rain on a terrace in Guwahati. The weather station 5 km away measures 25 mm. What is the most likely reason?",
      "opts": [
       "One of the gauges must be broken",
       "Rain does not fall evenly, so different places get different amounts",
       "Rain gauges always give different numbers",
-      "Revathi measured in centimetres"
+      "You measured in centimetres"
      ],
      "a": 1,
-     "why": "A rain cloud can drop more rain in one place than another, even nearby. That is why IMD has many rain gauges, not one per city. A broken gauge is possible, but the first thing to think of is that the rain really was different."
+     "why": "A rain cloud can drop more rain in one place than another, even nearby. That is why the India Meteorological Department (IMD) has many rain gauges, not one per city. A broken gauge is possible, but the first thing to think of is that the rain really was different."
     },
     {
      "t": "match",
@@ -2238,7 +2238,7 @@
      ],
      "ask": "Which sister do you agree with more? Explain. Then say one thing the other sister has right.",
      "lines": 5,
-     "a": "A strong answer sees that both are partly right. Anjali is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. Kavya is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.",
+     "a": "A strong answer sees that both are partly right. Anjali is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. Lavanya is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.",
      "why": "The measured temperature describes the air. The 'feels like' number tries to describe how people's bodies cope. Different apps work it out differently."
     },
     {
@@ -2309,9 +2309,9 @@
    "items": [
     {
      "t": "write",
-     "p": "Anu, a girl in Class 4, has two thermometers. Before her test, she hangs them side by side in the shade. One reads 30 °C and the other 32 °C. What should she do before comparing sun and shade with them?",
+     "p": "You have two thermometers. Before a Sun or Shade test, you hang them side by side in the shade. One reads 30 °C and the other 32 °C. What should you do before comparing sun and shade with them?",
      "lines": 3,
-     "a": "She should note that one reads 2 degrees higher than the other, and either correct for it, or use the same thermometer in both places. Otherwise a difference she sees might come from the thermometers, not from the sun.",
+     "a": "Note that one reads 2 degrees higher than the other. Then either correct for it, or use the same thermometer in both places. Otherwise a difference you see might come from the thermometers, not from the sun.",
      "why": "A strong answer understands that tools must be checked against each other first, so the only difference in the test is the sunlight."
     },
     {
@@ -2356,7 +2356,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meena makes a rain gauge from a straight jar 10 cm wide. Her friend makes one 5 cm wide. In the same rain, Meena's shows 8 mm. What will her friend's show?",
+     "p": "One rain gauge is a straight jar 10 cm wide. Another is a straight jar 5 cm wide. In the same rain, the 10 cm one shows 8 mm. What will the 5 cm one show?",
      "opts": [
       "4 mm",
       "8 mm",
@@ -2364,7 +2364,7 @@
       "It cannot be known"
      ],
      "a": 1,
-     "why": "Both have straight sides, so both fill to the same depth: 8 mm. Meena's catches four times as much water, because its opening is four times the area, but it spreads it over four times the floor."
+     "why": "Both have straight sides, so both fill to the same depth: 8 mm. The wider one catches four times as much water, because its opening is four times the area, but it spreads that water over four times the floor."
     },
     {
      "t": "write",
@@ -2388,15 +2388,15 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Kochi, kept a weather diary. Her week of readings shows the wind coming from the southwest on 6 days out of 7, in July in Kochi. What is the best conclusion?",
+     "p": "A week of weather diary readings in Kochi, in July, shows the wind coming from the southwest on 6 days out of 7. What is the best conclusion?",
      "opts": [
       "The southwest monsoon wind was blowing that week",
-      "Her vane is stuck",
+      "The vane is stuck",
       "Winds never change",
       "The wind was going towards the southwest"
      ],
      "a": 0,
-     "why": "In July, the southwest monsoon brings winds from the southwest over Kerala. The vane pointed southwest, into the wind. Picking 'going towards the southwest' is the old mix-up about which way a vane points."
+     "why": "In July, the southwest monsoon brings winds from the southwest over Kerala. The vane pointed southwest, into the wind. Picking 'going towards the southwest' is the common mix-up about which way a vane points."
     },
     {
      "t": "order",
@@ -2557,10 +2557,10 @@
   "Which way are the clothes on the line blowing? Where is the wind coming from?",
   "Was today warmer or cooler than yesterday? How could we be sure?",
   "If you were a weather station, where on our balcony would you stand?",
-  "Why do you think the bus stop sign said a bigger number than the weather report?",
+  "Why might a temperature sign at a bus stop show a bigger number than the weather report?",
   "How much rain do you think fell last night? What would you use to measure it?",
-  "What does a crow do on a hot afternoon? Where do they sit?",
-  "What does 'max' and 'min' mean in the weather report?"
+  "What do crows do on a hot afternoon? Where do they sit?",
+  "What do 'max' and 'min' mean in the weather report?"
  ],
  "jokes": [
   {
@@ -2638,7 +2638,7 @@
    "why_maths": "Taking away one reading from another tells us exactly how much the sunlight added."
   },
   {
-   "problem": "Under the paper roof the thermometer read 35 °C, and in the shade 33 °C. The challenge says a good weather screen must be within 2 degrees of the shade. Did the paper roof pass?",
+   "problem": "In the Sun or Shade test, the thermometer read 35 °C under the paper roof and 33 °C in the shade. The Weather Screen challenge says a good weather screen must read within 2 degrees of the shade. Did the paper roof pass?",
    "answer": "Yes, just. 35 minus 33 is 2 degrees, which is within 2 degrees.",
    "explain": "35 minus 33 is 2. The rule is 'within 2 degrees', so 2 is allowed. A reading of 36 would have failed, because 36 minus 33 is 3.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2647,15 +2647,15 @@
    "why_maths": "Comparing the difference with a rule tells us whether a design is good enough, not just whether it is better."
   },
   {
-   "problem": "Kavya, a girl in Class 3 in Mysuru, kept a weather diary. Her afternoon readings for one week were 34, 35, 33, 36, 35, 31 and 34 °C. On which day was it coolest, and what might explain it?",
+   "problem": "The afternoon readings in a weather diary for one week were 34, 35, 33, 36, 35, 31 and 34 °C. On which day was it coolest, and what might explain it?",
    "answer": "The sixth day, at 31 °C. It was probably a cloudy or rainy day.",
-   "explain": "31 is the smallest number in the list. All the other days were 33 or more. A sudden drop like that often means clouds blocked the sunlight, so her sky drawing for that day is the place to check.",
+   "explain": "31 is the smallest number in the list. All the other days were 33 or more. A sudden drop like that often means clouds blocked the sunlight, so the sky drawing for that day is the place to check.",
    "math_unit": "math.data.bar-charts.L3",
    "how": "p1",
    "context": "This is about My Weather Diary, a 7-day project where you read a shade thermometer every afternoon.",
    "chart": {
     "type": "bar",
-    "title": "Kavya's afternoon temperatures",
+    "title": "Afternoon temperatures for one week",
     "x": "Day",
     "y": "Temperature (°C)",
     "data": [
@@ -2701,12 +2701,12 @@
    "why_maths": "Multiplying the depth by the area turns a rain gauge reading into real litres of water we could save."
   },
   {
-   "problem": "In the day of readings, the thermometer read 28 °C at 7 am and 36 °C at 2 pm. How many hours passed, and how many degrees did it rise?",
+   "problem": "In the experiment When Is the Air Warmest?, the thermometer read 28 °C at 7 am and 36 °C at 2 pm. How many hours passed, and how many degrees did it rise?",
    "answer": "7 hours, and 8 degrees.",
    "explain": "From 7 in the morning to 12 noon is 5 hours, and from noon to 2 pm is 2 more, so 7 hours. 36 minus 28 is 8 degrees. So the air warmed by a little over 1 degree each hour.",
    "math_unit": "math.time.duration.L3",
    "how": "e3",
-   "context": "This is about the day of readings, where you read a shade thermometer six times from morning to evening.",
+   "context": "This is about the experiment When Is the Air Warmest?, where you read a shade thermometer six times from morning to evening.",
    "why_maths": "Working out the time and the rise together shows how quickly the air warms through the morning."
   }
  ],
@@ -2872,16 +2872,16 @@
  "roots": {
   "context": "We have measured the temperature, the rain and the wind. Now we ask what measuring tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the sun, your thermometer read many degrees higher than in the shade, in the same air. Sunlight was heating the thermometer itself. A thermometer can only show how warm it is. So to measure the air, we shade it, so that only the air can warm or cool it.",
-   "habit": "We think of a measuring tool as a window that simply shows the world. But a thermometer is a thing in the world too. It takes part in what it measures, and its reading is what happened to it.",
-   "evidence": "Under the white paper roof, in the same sunny spot, the reading fell back close to the shade reading. The air had not changed. Only the sunlight landing on the thermometer had changed."
+   "truth": "In the Sun or Shade test, the thermometer read many degrees higher in the sun than in the shade, in the same air. Sunlight was heating the thermometer itself. A thermometer can only show how warm it is. So to measure the air, we shade it, so that only the air can warm or cool it.",
+   "habit": "We usually think a measuring tool just shows us what is there. But a thermometer is an object too, and sunlight, walls and air all warm it. Its reading tells us how warm the thermometer became, so where we put it matters.",
+   "evidence": "In the Sun or Shade test, the reading under the white paper roof, in the same sunny spot, fell back close to the shade reading. The air had not changed. Only the sunlight landing on the thermometer had changed."
   },
   "three": {
    "who_am_i": "Your skin is a kind of thermometer too. In a sunny patch it feels hot, even when the air is the same as in the shade.",
    "what_is_life": "Plants, birds and ants all sense the weather. A crow pants and sits in the shade on a hot afternoon, just as you would.",
    "what_is_this_world": "The same sunlight falls on the air, the ground and the walls. Each one takes in a different amount and warms in its own way."
   },
-  "thread": "On one balcony there is one Sun and one air. Yet your thermometer gave three numbers: one in the sun, one in the shade and one under paper. Each number was true. Each told what happened to the thermometer in that place. Each thing on the balcony meets the same sunlight and air in its own way. Many readings together, taken the same careful way, give a fuller picture than any one of them.",
+  "thread": "In the Sun or Shade test, one thermometer on one balcony gave three numbers: one in the sun, one in the shade and one under the paper roof. Each number was true, because each showed how warm the thermometer became in that place. The ground, the walls and the air also take in the same sunlight in different amounts. Many readings together, taken the same careful way, give a fuller picture than any one of them.",
   "teachings": [
    {
     "source": "Udana 6.4, in the Buddhist Pali Canon: the blind men and the elephant",
@@ -2891,7 +2891,7 @@
    {
     "source": "Bhagavad Gita, chapter 13, opening verses",
     "teaching": "The body is called the field. The one who knows the field is called the knower of the field.",
-    "link": "A thermometer stands inside the field it measures. The sunlight on it is part of its reading, so we have to know where it stands to know what it is telling us."
+    "link": "A thermometer is part of the place it measures. Sunlight landing on it changes its reading, so we have to know where it hangs to know what its reading means."
    }
   ],
   "science": [
@@ -2900,13 +2900,13 @@
     "status": "settled"
    },
    {
-    "text": "In physics, every measurement involves the measuring tool meeting the thing measured. For everyday things like air, the tool's effect can be made very small, but not zero.",
+    "text": "In physics, a measuring tool always affects the thing it measures a little. For everyday things like air, this effect can be made very small, but not zero.",
     "status": "settled"
    }
   ],
   "other_view": {
    "who": "Many scientists and engineers",
-   "view": "A thermometer in the sun is simply badly placed. Shade it properly, and it gives the air's temperature well enough for any weather use. There is no lesson about knowing here, only good and bad ways to set up a tool."
+   "view": "A thermometer in the sun is simply badly placed. Shade it properly, and it gives the air's temperature well enough for any weather use. There is no deeper lesson here about how we know things, only good and bad ways to set up a tool."
   },
   "practice": {
    "title": "Be the thermometer",
@@ -2915,9 +2915,9 @@
    "kid": "Stand in a sunny patch. Close your eyes. Feel your arms for ten breaths. Now step into the shade. Feel again. What changed?"
   },
   "ask": [
-   "Your thermometer gave three numbers in one place. Can more than one of them be true?",
-   "Your skin felt the sunlight, not only the air. Is your skin a good thermometer? Why, or why not?",
-   "Is there anything we can measure without the measuring tool taking part?"
+   "In the Sun or Shade test, the thermometer gave three numbers on one balcony. Can more than one of them be true?",
+   "In a sunny patch, your skin feels the sunlight, not only the air. Is your skin a good thermometer? Why, or why not?",
+   "Is there anything we can measure without the measuring tool changing it a little?"
   ],
   "art": "A child standing half in a sunbeam and half in shade on a balcony, eyes closed, arms out, with a thermometer hanging under a paper roof beside them."
  },

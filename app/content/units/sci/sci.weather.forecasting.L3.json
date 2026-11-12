@@ -170,7 +170,7 @@
    "concept": "Do weather sayings work?",
    "status": "debated",
    "definition": "",
-   "description": "Every part of the world has weather sayings. Some come from careful watching over many years and work well. Some work only in the place where they began. Some mix up a season with a day. And some do not work at all. The only way to know is to test a saying, many times, and count how often it is right. 'Red sky at night, shepherd's delight' comes from England, where most weather arrives from the west. A red sunset means the sky to the west is clear, so fine weather is coming. In places where the weather arrives from the east, the same sign can mean something else. Peacocks call loudly and dance in the monsoon. That is their breeding season, which comes with the rains. So the peacock tells you the season, not tomorrow's rain.",
+   "description": "Every part of the world has weather sayings. Some come from careful watching over many years and work well. Some work only in the place where they began. Some tell you the season, not the weather on one day. And some do not work at all. The only way to know is to test a saying, many times, and count how often it is right. 'Red sky at night, shepherd's delight' comes from England, where most weather arrives from the west. A red sunset means the sky to the west is clear, so fine weather is coming. In places where the weather arrives from the east, the same sign can mean something else. Peacocks call loudly and dance in the monsoon. That is their breeding season, which comes with the rains. So the peacock tells you the season, not tomorrow's rain.",
    "examples": [
     "'Red sky at night, shepherd's delight. Red sky in the morning, shepherd's warning.' An old English saying.",
     "In Tamil Nadu people say 'Aippasi adai mazhai': in the month of Aippasi, which falls in October and November, the rain sets in and does not stop. This matches the northeast monsoon.",
@@ -206,7 +206,7 @@
    "concept": "What 'chance of rain' means",
    "status": "defined",
    "definition": "A 60% chance of rain means that on 10 days with weather like this, rain would fall on about 6 of them.",
-   "description": "The weather never gives a forecaster all the facts. So instead of saying 'it will rain' or 'it will not rain', many forecasts say how likely rain is. A 90% chance means rain is very likely. A 10% chance means rain is unlikely, but it can still happen. If the forecast says 30% and it rains, the forecast was not wrong. Rain on 3 of 10 such days is what 30% means. You only learn whether a forecaster's numbers are good by checking many days. If they say 30% on many days, it should rain on about 3 in 10 of those days.",
+   "description": "A forecaster never has all the facts about the air. So instead of saying 'it will rain' or 'it will not rain', many forecasts say how likely rain is. A 90% chance means rain is very likely. A 10% chance means rain is unlikely, but it can still happen. If the forecast says 30% and it rains, the forecast was not wrong. Rain on 3 of 10 such days is what 30% means. You only learn whether a forecaster's numbers are good by checking many days. If they say 30% on many days, it should rain on about 3 in 10 of those days.",
    "examples": [
     "The app says '70% chance of rain in Mysuru'. Carry an umbrella.",
     "The app said '20% chance of rain', and it rained anyway. That will happen on about 1 in 5 days like this."
@@ -323,7 +323,7 @@
    "claim": "With big enough computers, we will one day forecast the weather a month ahead, day by day.",
    "who": "A hope some people have held",
    "for": "Forecasts have improved by about a day each decade, and computers keep getting faster.",
-   "against": "Lorenz showed that tiny differences grow. Most meteorologists think day-by-day detail cannot be forecast beyond about two weeks, however big the computer. Forecasts of a whole season, such as 'a wetter monsoon than usual', are possible, but only as chances.",
+   "against": "Edward Lorenz, an American meteorologist, showed that tiny differences in the air grow over time. Most meteorologists think day-by-day detail cannot be forecast beyond about two weeks, however big the computer. Forecasts of a whole season, such as 'a wetter monsoon than usual', are possible, but only as chances.",
    "status": "minority",
    "context": "This card is about how far ahead the weather could ever be forecast."
   }
@@ -332,10 +332,10 @@
   {
    "q": "Tomorrow's weather grows out of today's air. So is tomorrow already decided, or still open?",
    "kind": "big",
-   "hint": "Think of Lorenz's two runs, which started almost the same and ended completely different."
+   "hint": "In 1961 Edward Lorenz ran a weather program on his computer twice. The two runs started almost the same and ended completely different."
   },
   {
-   "q": "A storm's wind blows one way, but the whole storm travels another way. What, then, is a storm: the wind, or the swirl?",
+   "q": "A storm's wind can blow one way while the whole storm travels another way. So is a storm the wind you feel, or the whole swirl of moving air?",
    "kind": "deep",
    "hint": "Stir water in a bucket and then push the bucket. Which way does the water go round, and which way does the bucket move?"
   },
@@ -357,7 +357,7 @@
   {
    "q": "A butterfly flapping their wings changes the air a tiny bit. Could that change, weeks later, change where a storm goes?",
    "kind": "deep",
-   "hint": "Lorenz asked this question in a talk in 1972. Nobody can check it for one butterfly. What does his rounded number show?"
+   "hint": "Edward Lorenz asked this question in a talk in 1972. Nobody can check it for one butterfly. But when Lorenz rounded off one number in his weather program, the forecast came out completely different. What does that show?"
   }
  ],
  "story": {
@@ -575,8 +575,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Take the sign card 'Puffy clouds growing taller and taller on a hot afternoon' out of the pile. Play it as practice, then shuffle it back in.",
-     "say": "Practice card. Puffy clouds are growing taller and taller on a hot afternoon. What's your forecast?",
-     "kid": "Practice card. Puffy clouds are growing taller on a hot afternoon. What's your forecast?",
+     "say": "This is a practice card. Puffy clouds are growing taller and taller on a hot afternoon. What's your forecast?",
+     "kid": "This is a practice card. Puffy clouds are growing taller on a hot afternoon. What's your forecast?",
      "check": {
       "t": "mcq",
       "q": "Puffy clouds are growing taller and taller on a hot afternoon. What is the best forecast?",
@@ -586,15 +586,15 @@
        "Steady rain for days"
       ],
       "a": 1,
-      "why": "On a hot afternoon, warm damp air rises and builds the clouds taller. If they keep growing, they can become a cumulonimbus storm cloud, with thunder and heavy rain. Choosing 'fine weather' means looking at the puffy shape but not at the growing."
+      "why": "On a hot afternoon, warm damp air rises and builds the clouds taller. If they keep growing, they can become a cumulonimbus storm cloud, with thunder and heavy rain. If you chose 'fine weather', you looked at the puffy shape but missed that the clouds were growing."
      }
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "Play the other cards, keeping score on the score sheet.",
-     "say": "Next card. Choose your forecast. Ready? Turn it over. Who matched?",
-     "kid": "Turn the next card. Choose your forecast. Turn them over together. Who matched?",
+     "say": "Here is the next sign card. Choose your forecast card. Ready? Everyone turn your forecast card over. Now let's read the answer on the back of the sign card. Who matched?",
+     "kid": "Turn over the next sign card. Choose your forecast card. Everyone turns their forecast card over together. Then read the answer. Who matched?",
      "parent": "The peacock card is worth talking about. Peacocks call and dance in the monsoon because it is their breeding season. So they tell you the season, not tomorrow's weather."
     }
    ],
@@ -743,7 +743,7 @@
    ],
    "rules": [
     "Put the cyclone token on square 1. Put the four town cards face up along the coast. Shuffle the question cards and put them face down.",
-    "On your turn, read the top question card aloud to yourself and answer it. Then turn the card over to check. Right answer: put a 'warned' flag on any town that does not have one yet. Wrong answer: no flag this time.",
+    "On your turn, read the top question card and answer it. Then turn the card over to check. If you are right, put a 'warned' flag on any town that does not have one yet. If you are wrong, you get no flag this time.",
     "Playing with a parent? Take turns, one question each. Playing alone? Read the card, answer out loud, then check the back.",
     "After every turn, roll the dice. On 1, 2 or 3, the cyclone moves 1 square. On 4, 5 or 6, it moves 2 squares.",
     "If the cyclone lands on a STORM GROWS STRONGER square, it moves 1 extra square. If it lands on SATELLITE CHECK, the player whose turn it was answers 1 extra card at once.",
@@ -763,8 +763,8 @@
      "id": "s2",
      "mins": 15,
      "do": "Take turns answering a card, placing a flag if you are right, and then rolling the dice to move the cyclone.",
-     "say": "Your question. Right? Put a flag on a town. Now roll for the storm. Will we warn everyone in time?",
-     "kid": "Answer your card. Right? Put a flag on a town. Then roll to move the storm.",
+     "say": "Here is your question. If you are right, put a flag on a town. Now roll the dice to move the cyclone. Will we warn everyone in time?",
+     "kid": "Answer your card. If you are right, put a flag on a town. Then roll the dice to move the cyclone.",
      "check": {
       "t": "mcq",
       "q": "Why does warning towns early save lives?",
@@ -819,7 +819,7 @@
    "days": 8,
    "question": "Whose forecast for tomorrow is right most often: 'tomorrow will be like today', your own reading of the sky, or the weather app?",
    "predict": "Guess first. Which of the three forecasters will get the most points in a week? Which will get the fewest? Why do you think so?",
-   "fair_test": "All three forecasts are written at the same time each evening, before anyone knows what tomorrow brings. Nobody changes a forecast after writing it. All three are judged on the same two questions, by the same rules. We run the contest for 7 days, because one day can be a fluke.",
+   "fair_test": "All three forecasts are written at the same time each evening, before anyone knows what tomorrow brings. Nobody changes a forecast after writing it. All three are judged on the same two questions, by the same rules: will it rain, and will the sky be mostly sunny or mostly cloudy? We run the contest for 7 days, because one day can be a fluke.",
    "results_table": [
     "Day",
     "Same as today: rain? sky?",
@@ -859,32 +859,32 @@
     {
      "day": 3,
      "mins": 9,
-     "what": "Check and score. Make tomorrow's forecasts."
+     "what": "Check yesterday's forecasts and give points. Then make tomorrow's forecasts."
     },
     {
      "day": 4,
      "mins": 9,
-     "what": "Check and score. Make tomorrow's forecasts. Who is ahead so far?"
+     "what": "Check yesterday's forecasts and give points. Then make tomorrow's forecasts. Who is ahead so far?"
     },
     {
      "day": 5,
      "mins": 9,
-     "what": "Check and score. Make tomorrow's forecasts."
+     "what": "Check yesterday's forecasts and give points. Then make tomorrow's forecasts."
     },
     {
      "day": 6,
      "mins": 9,
-     "what": "Check and score. Make tomorrow's forecasts."
+     "what": "Check yesterday's forecasts and give points. Then make tomorrow's forecasts."
     },
     {
      "day": 7,
      "mins": 9,
-     "what": "Check and score. Make the last forecasts."
+     "what": "Check yesterday's forecasts and give points. Then make the last forecasts."
     },
     {
      "day": 8,
      "mins": 16,
-     "what": "Check and score the last day. Add up the points, draw a bar chart and say what you found."
+     "what": "Check the last forecasts and give points. Add up the points, draw a bar chart and say what you found."
     }
    ],
    "record": "Fill in one row of the table every evening. On day 8, add up each forecaster's points and draw a bar for each.",
@@ -941,12 +941,12 @@
       }
      ],
      "parent": "Always write your child's forecast before looking at the app, so the app does not change their mind. That keeps the test fair.",
-     "wait": "Every evening for the next 6 evenings, at about the same time, do step s5 first, and then steps s3 and s4 again."
+     "wait": "Do this every evening for the next 6 evenings, at about the same time. First check yesterday's three forecasts and give points. Then write today's weather and make the three new forecasts for tomorrow."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Each evening from day 2, look at yesterday's three forecasts. 2. Give each forecaster 1 point for a right rain answer, and 1 point for a right sunny or cloudy answer. 3. Then make the three new forecasts, as in steps s3 and s4.",
+     "do": "1. Each evening from day 2, look at yesterday's three forecasts. 2. Give each forecaster 1 point for a right rain answer, and 1 point for a right sunny or cloudy answer. 3. Then write today's weather and make the three new forecasts for tomorrow, in the same way as on day 1.",
      "say": "Let's check yesterday's forecasts against what really happened today. One point for the right rain answer, and one point for the right sky answer. Who scored today?",
      "kid": "Check yesterday's forecasts. Was each one right about rain? About sun or cloud? Give 1 point for each right answer.",
      "check": {
@@ -973,7 +973,7 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "Ask for a claim, evidence and reasoning. Then explain, if your child has not said it already, why 'same as today' does well and when it fails.",
+     "do": "Ask your child what they found, what on the score sheet shows it, and why they think it happened. Then explain, if your child has not said it already, why 'same as today' does well and when it fails.",
      "say": "What did you find? Who won? Which days did each forecaster get wrong? What was happening on those days?",
      "kid": "Who won? Which days did each forecaster get wrong? What was the weather doing on those days?",
      "ask": [
@@ -994,7 +994,7 @@
        ]
       }
      ],
-     "parent": "The usual pattern: weather changes slowly on most days, so 'same as today' scores well. It fails exactly when the weather changes. A good forecast earns its keep by catching those changes, and it can only do that by seeing the weather that is on its way, somewhere else. If your child's own forecasts beat 'same as today', ask which signs helped."
+     "parent": "The usual pattern: weather changes slowly on most days, so 'same as today' scores well. It fails exactly when the weather changes. A good forecast is useful because it catches those changes. It can only do that by seeing weather that is still somewhere else and on its way. If your child's own forecasts beat 'same as today', ask which signs helped."
     }
    ],
    "context": "In this week-long experiment, you run a forecast contest. Every evening three forecasters guess tomorrow's weather: 'tomorrow will be like today', you, and the weather app. Then you find out who is right most often.",
@@ -1143,8 +1143,8 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask for a claim, evidence and reasoning. Then explain humidity and what this means for the saying.",
-     "say": "What did you find? What took in the water? So, does lumpy salt tell us that rain is coming?",
+     "do": "Ask your child what they found, what they saw that shows it, and why they think it happened. Then explain humidity, and what this means for the saying that salt goes lumpy before rain.",
+     "say": "What did you find? Where did the water in the salt come from? So, does lumpy salt tell us that rain is coming?",
      "kid": "What did you find? Where did the water come from? Does lumpy salt mean rain is coming?",
      "check": {
       "t": "mcq",
@@ -1279,7 +1279,7 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Hold the ribbon out at arm's length, inside the railing. 2. The ribbon streams away from where the wind comes from. 3. Write where the wind comes from.",
-     "say": "Hold it still. The ribbon points away from where the wind comes from. So if it streams towards the west, the wind is coming from the east.",
+     "say": "Hold the pencil still. The ribbon points away from where the wind comes from. So if it streams towards the west, the wind is coming from the east.",
      "kid": "Hold the ribbon out, inside the railing. Which way does it stream? The wind comes from the other side. Write it down.",
      "adult": true,
      "parent": "Stay with your child on the balcony. Buildings bend the wind, so if the ribbon flaps about in all directions, try a different side of the balcony or an open window on another side."
@@ -1295,7 +1295,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "On day 3, compare the three days. Ask for a claim, evidence and reasoning.",
+     "do": "On day 3, compare the three days. Ask your child what they found, what in the table shows it, and why they think it happened.",
      "say": "On how many days did the clouds go the same way as the ground wind? What does that tell you about the air high up?",
      "kid": "Look at all three days. Same or different? What does it tell you about the wind high up?",
      "check": {
@@ -1307,7 +1307,7 @@
        "The clouds are standing still"
       ],
       "a": 0,
-      "why": "Clouds are carried by the wind high up, which can blow a different way from the wind near the ground. This is why Franklin's storm could move against its own ground wind. To forecast, you watch which way the clouds come from, not only which way the ground wind blows."
+      "why": "Clouds are carried by the wind high up, which can blow a different way from the wind near the ground. This is how the storm Benjamin Franklin studied in 1743 could travel against its own ground wind. To forecast, you watch which way the clouds come from, not only which way the ground wind blows."
      },
      "parent": "In the afternoon in coastal cities like Chennai, a sea breeze often blows in from the sea near the ground, while clouds above move a different way. Any result is fine. The idea is that the air has layers that move differently."
     }
@@ -1504,7 +1504,7 @@
        ]
       }
      ],
-     "parent": "Choose one testable saying to use in the project p1, the Family Book of Weather Sayings."
+     "parent": "Choose one saying you can test, and use it in the project 'Our Family Book of Weather Sayings, Tested'."
     }
    ],
    "context": "In this activity you collect weather signs and sayings from older people, and sort out which ones you could test.",
@@ -1954,7 +1954,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Meera, a girl in Class 3 in Coimbatore, sees a low grey sheet of cloud covering the whole sky. What weather is most likely?",
+   "p": "A low grey sheet of cloud covers the whole sky. What weather is most likely?",
    "opts": [
     "Long, steady rain",
     "A thunderstorm in ten minutes",
@@ -1967,7 +1967,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shalini, a girl in Mysuru, says, 'My grandmother's saying worked last Tuesday, so it always works.' What is the best way to check?",
+   "p": "Someone says, 'My grandmother's saying worked last Tuesday, so it always works.' What is the best way to check?",
    "opts": [
     "Ask more people whether they like the saying",
     "Watch for the sign many times and count how often the weather it promises really comes",
@@ -1993,7 +1993,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Chennai, sees a big swirl of cloud on a satellite picture over the Bay of Bengal, moving towards the coast. What is the best forecast for Chennai?",
+   "p": "A satellite picture shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. What is the best forecast for Chennai?",
    "opts": [
     "Rain may come soon, because the cloud is moving towards the city",
     "No rain, because the sky over Chennai is blue now",
@@ -2040,7 +2040,7 @@
     "Next week's weather is decided by the Moon"
    ],
    "a": 1,
-   "why": "Nobody can measure every bit of air. The small errors grow day by day, as Edward Lorenz found with his rounded number. So forecasts get less sure the further ahead they look.",
+   "why": "Nobody can measure every bit of air. The small errors grow day by day. Edward Lorenz found this in 1961, when rounding off one number in his weather program gave a completely different forecast. So forecasts get less sure the further ahead they look.",
    "outcome": 5
   },
   {
@@ -2071,7 +2071,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy aged 7, says, 'The sky is blue today, so it will be dry on Saturday.' The weather app says 90% chance of rain on Saturday. What is the best reason to trust the app?",
+   "p": "Someone says, 'The sky is blue today, so it will be dry on Saturday.' The weather app says 90% chance of rain on Saturday. What is the best reason to trust the app?",
    "opts": [
     "The app is always right",
     "The app can see the weather that is still far away, such as clouds over the sea",
@@ -2116,12 +2116,12 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Chennai, wants to know if it will rain tomorrow. What is the best thing to look at?",
+     "p": "You want to know if it will rain tomorrow. What is the best thing to look at?",
      "opts": [
       "What day of the week it is",
       "The clouds, the wind and how damp the air feels",
-      "What colour her umbrella is",
-      "What she had for breakfast"
+      "What colour your umbrella is",
+      "What you had for breakfast"
      ],
      "a": 1,
      "why": "Clouds, wind and damp air are signs of what is coming. What day of the week it is tells you nothing about the weather."
@@ -2136,7 +2136,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Divya, a girl in Class 4, says, 'A forecast is a promise about tomorrow.' Is she right?",
+     "p": "True or false: a forecast is a promise about tomorrow.",
      "a": false,
      "why": "False. A forecast is a careful guess made from today's weather. It is right most days, but not every day. A strong answer says what a forecast really is."
     },
@@ -2193,7 +2193,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ramesh, a boy in Hyderabad, puts salt on a plate in a steamy bathroom. After an hour, what will the salt most likely be like?",
+     "p": "You put salt on a plate in a steamy bathroom. After an hour, what will the salt most likely be like?",
      "how": "e2",
      "opts": [
       "Whiter and drier",
@@ -2254,14 +2254,14 @@
     },
     {
      "t": "truefalse",
-     "p": "Nila, a girl in Class 3, says, 'The wind on our balcony always blows the same way the clouds are moving.' Is she right?",
+     "p": "True or false: the wind on a balcony always blows the same way the clouds are moving.",
      "how": "e3",
      "a": false,
-     "why": "False. The wind high up, which carries the clouds, can blow a different way from the wind near the ground. A strong answer mentions the wind ribbon test."
+     "why": "False. The wind high up, which carries the clouds, can blow a different way from the wind near the ground. A strong answer mentions the Ground Wind and Cloud Wind experiment."
     },
     {
      "t": "mcq",
-     "p": "Sita, a girl in Kozhikode, hears that the weather office has given an orange warning for heavy rain. What does orange mean?",
+     "p": "The weather office has given an orange warning for heavy rain. What does orange mean?",
      "opts": [
       "No warning",
       "Be prepared",
@@ -2309,14 +2309,14 @@
    "items": [
     {
      "t": "write",
-     "p": "Franklin's storm blew from the northeast, but travelled towards the northeast. Explain how both can be true.",
+     "p": "In 1743 Benjamin Franklin watched a storm whose wind blew from the northeast. But the whole storm travelled towards the northeast. Explain how both can be true.",
      "lines": 4,
      "a": "The wind swirls around the storm, while the whole storm moves along. So the wind at one place can blow one way while the storm travels another way.",
      "why": "A strong answer separates the wind inside the storm from the movement of the whole storm, perhaps using the picture of water swirling in a bucket that is pushed along."
     },
     {
      "t": "mcq",
-     "p": "Pooja, a girl in Visakhapatnam, sees on the satellite film that a cloud swirl is 300 km out at sea and moving towards the coast at about 100 km each day. When might it arrive?",
+     "p": "A satellite film shows a cloud swirl 300 km out at sea, moving towards the coast at about 100 km each day. When might it arrive?",
      "how": "a4",
      "opts": [
       "Today",
@@ -2329,7 +2329,7 @@
     },
     {
      "t": "write",
-     "p": "In the salt test, the plate in the bathroom was kept away from splashes. Why did that matter?",
+     "p": "In the Salt in the Steamy Bathroom experiment, the plate in the bathroom was kept away from splashes. Why did that matter?",
      "lines": 3,
      "how": "e2",
      "a": "So that the only water reaching the salt was water vapour from the air, not drops from the tap.",
@@ -2356,10 +2356,10 @@
      "t": "mcq",
      "p": "A weather computer works out the same forecast twice. The second time, one starting number is rounded off from 0.506127 to 0.506. What will most likely happen?",
      "opts": [
-      "Both forecasts came out the same",
-      "The computer broke",
-      "After a while, the two forecasts were completely different",
-      "The second forecast was always better"
+      "Both forecasts will come out the same",
+      "The computer will break",
+      "After a while, the two forecasts will be completely different",
+      "The second forecast will always be better"
      ],
      "a": 2,
      "why": "The tiny difference grows until the two forecasts are completely different. This is why detailed forecasts many weeks ahead are not possible."
@@ -2420,7 +2420,7 @@
      ],
      "ask": "Whose view would you follow? Give your reasons. Then say what one of the others has right.",
      "lines": 6,
-     "a": "A strong answer chooses whom to trust most and gives reasons, for example that the weather office sees storms far out at sea. Then it answers back from another view: Selvam's signs are free and quick, and Anitha is right that the app can be wrong. A very strong answer says to use the warning and the signs together, and to stay ashore if either says danger.",
+     "a": "A strong answer chooses whom to trust most and gives reasons, for example that the weather office sees storms far out at sea. Then it says what one of the others has right: Selvam's signs are free and quick, and Anitha is right that a forecast can be wrong. A very strong answer says to use the warning and the signs together, and to stay ashore if either says danger.",
      "why": "There is a real trade-off between staying safe and losing a day's catch. Warnings and local signs work best together."
     },
     {
@@ -2460,7 +2460,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Rukmini, a girl in Class 4, says, 'Lumpy salt means it will certainly rain tomorrow.' Is she right?",
+     "p": "True or false: lumpy salt means it will certainly rain tomorrow.",
      "how": "e2",
      "a": false,
      "why": "False. Lumpy salt shows the air is humid. Humid air makes rain possible, but rain also needs the damp air to rise and cool into rain clouds."
@@ -2493,7 +2493,7 @@
      "t": "write",
      "p": "A family tests three ways of forecasting for a week: the weather app, a grandmother's sayings, and 'same as today'. The app wins. A seven-year-old says, 'So I should never use my own eyes.' Do you agree? Why or why not?",
      "lines": 4,
-     "a": "No. The app is usually best, but your own eyes see what is happening right now where you are, such as a storm cloud growing, which can help the app's forecast.",
+     "a": "No. The app is usually best, but your own eyes see what is happening right now where you are, such as a storm cloud growing. That adds to what the app tells you.",
      "why": "A strong answer sees that both have a use: the app sees far away, and your eyes see right here and right now."
     },
     {
@@ -2513,7 +2513,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Zainab, a girl in Pune, says, 'If we measured every bit of air on Earth perfectly, we could forecast the weather a year ahead.' What do you think? Remember that a weather computer given a starting number rounded off by a tiny amount soon gives a completely different forecast.",
+     "p": "Someone says, 'If we measured every bit of air on Earth perfectly, we could forecast the weather a year ahead.' What do you think? Remember: when a weather computer was given a starting number rounded off by a tiny amount, it soon gave a completely different forecast.",
      "lines": 5,
      "a": "Perhaps for a while, but even the tiniest bit of air we missed, or rounded off, would grow. We can never measure every bit perfectly, so forecasts a year ahead will never be possible day by day.",
      "why": "A strong answer says that tiny differences grow, and that perfect measurement is not possible in practice."
@@ -2533,7 +2533,7 @@
      ],
      "ask": "Can they both be right? Explain how. Then say which forecast a farmer planning what to plant would want, and why.",
      "lines": 6,
-     "a": "A strong answer explains that a forecast for the whole season can be given as a chance, such as 'more rain than usual is likely', while a day-by-day forecast for July cannot be made in March. Both have a point.",
+     "a": "A strong answer explains that a forecast for the whole season can be given as a chance, such as 'more rain than usual is likely', while a forecast for one day in July cannot be made in April. Both have a point.",
      "why": "This is a real difference between forecasting the weather on one day and forecasting a whole season. Both are done, in different ways."
     },
     {
@@ -2584,7 +2584,7 @@
     },
     {
      "t": "mcq",
-     "p": "Your ribbon showed wind from the east, but the clouds came from the west. Which tells you more about where tomorrow's rain might come from?",
+     "p": "In the Ground Wind and Cloud Wind experiment, suppose your ribbon showed wind from the east, but the clouds came from the west. Which tells you more about where tomorrow's rain might come from?",
      "how": "e3",
      "opts": [
       "The ground wind",
@@ -2604,7 +2604,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Gauri says, 'A forecast for 5 days ahead today is about as good as a 4-day forecast was ten years ago.' Is she right?",
+     "p": "True or false: a forecast for 5 days ahead today is about as good as a 4-day forecast was ten years ago.",
      "a": true,
      "why": "True, roughly. Forecasts for 3 to 10 days ahead have improved by about one day each decade, thanks to better measurements, faster computers and better models."
     },
@@ -2613,7 +2613,7 @@
      "p": "Draw two lines on a graph that start at almost the same point and slowly spread apart. Label one end 'sunny' and the other 'storm'. Write one sentence saying what the drawing shows.",
      "art": "A blank graph with 'Days ahead' along the bottom.",
      "a": "Two lines starting together and spreading apart, with a sentence such as 'Tiny differences at the start grow into big differences later.'",
-     "why": "A strong drawing shows the lines very close at first and far apart at the end, and the sentence names Lorenz's finding."
+     "why": "A strong drawing shows the lines very close at first and far apart at the end. The sentence says what Edward Lorenz found: tiny differences grow."
     },
     {
      "t": "sort",
@@ -2764,7 +2764,7 @@
   "Do you know any weather saying from a grandparent or an older neighbour?",
   "Is 30% chance of rain likely or unlikely? Should we take an umbrella?",
   "Why do you think fishers listen to the weather report?",
-  "Who would win the forecast contest this week, do you think?"
+  "Who do you think would win the forecast contest this week?"
  ],
  "jokes": [
   {
@@ -2808,7 +2808,7 @@
   {
    "problem": "In the forecast contest, the app scored 12 points out of 14, and 'Same as today' scored 10. How many more points did the app score?",
    "answer": "2 more points.",
-   "explain": "The app scored 12 and 'Same as today' scored 10. 12 take away 10 is 2. So the app scored 2 more points. That means the app caught one more change in the weather, worth 2 points, or two changes worth 1 point each.",
+   "explain": "The app scored 12 and 'Same as today' scored 10. 12 take away 10 is 2. So the app scored 2 more points. Each point is one right answer, so the app got 2 more answers right.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the forecast contest, where three forecasters guess tomorrow's weather every evening for a week and score points.",
    "how": "e1",
@@ -2847,7 +2847,7 @@
    "why_maths": "A bar chart shows at a glance who did best, and how close the race was."
   },
   {
-   "problem": "Priya, a girl in Thiruvananthapuram, put 6 rajma and 4 chana in a tumbler, then picked one bean without looking. Is she more likely to pick rajma or chana? What if she put in 2 rajma and 8 chana?",
+   "problem": "Put 6 rajma and 4 chana in a tumbler, then pick one bean without looking. Are you more likely to pick rajma or chana? What if you put in 2 rajma and 8 chana?",
    "answer": "With 6 rajma and 4 chana, rajma is more likely. With 2 rajma and 8 chana, chana is more likely.",
    "explain": "With 6 rajma out of 10, rajma is more likely than chana. It is like a 60% chance of rain. With 2 rajma out of 10, chana is much more likely. That is like a 20% chance of rain: rain is unlikely, but it can still happen.",
    "math_unit": "math.probability.likely-and-unlikely.L3",
@@ -2959,7 +2959,7 @@
   },
   {
    "q": "Does a storm always travel the way its wind blows?",
-   "a": "No. Franklin found a storm moving against its own wind."
+   "a": "No. In 1743 Benjamin Franklin found a storm that travelled against its own wind."
   },
   {
    "q": "What does a red weather warning mean?",
@@ -3048,14 +3048,14 @@
  "roots": {
   "context": "We have learned to make forecasts from clouds, wind and damp air, and to check them. Now we ask what forecasting tells us about time, and about the world.",
   "deep_truth": {
-   "truth": "Every forecast in your contest was made from that evening's sky and readings. The weather that came next was already in the air somewhere, moving towards you. So the better we measure today, over a wider area, the further ahead we can see.",
+   "truth": "In the forecast contest, every forecast was made from that evening's sky and readings. The weather that came next was already in the air somewhere, moving towards you. So the better we measure today, over a wider area, the further ahead we can see.",
    "habit": "We think of tomorrow as hidden and cut off from today, something only a fortune-teller could see. But tomorrow's weather grows out of air that exists today, so knowing tomorrow comes from reading today carefully and widely.",
-   "evidence": "In the forecast contest, every guess, even the weather app's, used only what could be seen or measured that evening. Franklin's storm and the Bay of Bengal rains show weather reaching one place after being somewhere else. Lorenz's rounded number shows the limit: what nobody measured grows."
+   "evidence": "In the forecast contest, every guess, even the weather app's, used only what could be seen or measured that evening. In 1743 Benjamin Franklin found that a storm reached Boston hours after it hit Philadelphia. Rain that falls on Chennai may have been over the Bay of Bengal the day before. Both show weather reaching one place after being somewhere else. There is also a limit. In 1961 Edward Lorenz rounded off one number in his weather program and got a completely different forecast. Small things that nobody measured grow bigger."
   },
   "three": {
    "who_am_i": "You are a forecaster. Every time you look at the sky and take an umbrella, you are reading today to guess tomorrow.",
    "what_is_life": "Farmers, fishers, ants and birds all live by the weather. Knowing what is coming helps every living being get ready.",
-   "what_is_this_world": "The air around the whole Earth is one moving ocean. The air on your balcony now was somewhere else this morning."
+   "what_is_this_world": "The air around the whole Earth is one layer, always moving. The air on your balcony now was somewhere else this morning."
   },
   "thread": "There is one layer of air wrapped around the whole Earth, always moving. It shows up as many weathers: a hot still afternoon in Madurai, a storm over the Bay of Bengal, snow in Ladakh. They are all the same air, warmed and cooled in different places. Because it is one moving whole, the weather in one place tomorrow grows out of the weather in other places today. That is why a forecast for one city needs readings from all over the world.",
   "teachings": [
@@ -3067,7 +3067,7 @@
    {
     "source": "The Buddha's teaching of dependent arising, in the Samyutta Nikaya 12.21",
     "teaching": "When this is, that comes to be. From the arising of this, that arises.",
-    "link": "Tomorrow's rain arises from today's warm sea, rising damp air and wind. A forecast follows these causes forward, one step at a time."
+    "link": "Tomorrow's rain comes from today's warm sea, rising damp air and wind. A forecast follows these causes forward, one step at a time."
    },
    {
     "source": "Heraclitus, the Greek philosopher, as reported by Plato in the Cratylus (402a)",
@@ -3111,6 +3111,6 @@
   "story": "On a November night in 1743, Benjamin Franklin, a printer and scientist in Philadelphia in America, hoped to watch an eclipse of the Moon. A storm came instead. Thick clouds hid the sky, and a strong wind blew from the northeast. In those days, people thought a storm travels the way its wind blows. So Franklin guessed that this storm had come from the northeast, from the direction of Boston, where his brother lived. He thought Boston must have missed the eclipse too. Later, letters and newspapers from Boston surprised him. People there had seen the eclipse clearly, and the storm reached Boston hours after it hit Philadelphia. The storm had moved towards the northeast, against its own wind. Franklin collected reports of later storms from towns along the coast and found the same pattern. A storm's winds swirl around it, while the whole storm travels somewhere else. This also showed something useful. If storms travel, news of a storm can be sent ahead of it. After the telegraph was invented, towns could be warned before a storm arrived.",
   "who": "Benjamin Franklin, a printer and scientist in Philadelphia, with letters and newspaper reports from Boston",
   "when": "1743, the night of an eclipse of the Moon",
-  "wrong_idea": "People thought a storm travels in the direction its wind blows. Franklin found that a storm with a northeast wind moved towards the northeast, against its wind, because a storm is a swirl of air that travels as a whole."
+  "wrong_idea": "People thought a storm travels in the direction its wind blows. Franklin found a storm whose wind blew from the northeast, yet the storm itself moved towards the northeast, against its wind. This is because a storm is a swirl of air that travels as a whole."
  }
 }
