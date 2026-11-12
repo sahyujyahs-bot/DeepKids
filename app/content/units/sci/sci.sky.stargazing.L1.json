@@ -92,7 +92,7 @@
    "concept": "Stars twinkle, and planets usually shine steadily",
    "status": "defined",
    "definition": "Starlight flickers because the moving air above us bends it this way and that. Planets usually shine more steadily.",
-   "description": "Starlight passes through a thick blanket of moving air before it reaches us, and the air wobbles it. A star is so far away that its light is one tiny point, so the wobble makes it flicker. A planet shows a tiny round patch, so the wobbles mostly cancel out. Planets also wander slowly among the stars from week to week.",
+   "description": "Starlight passes through a thick blanket of moving air before it reaches us, and the air wobbles it. A star is so far away that its light is one tiny point, so the wobble makes it flicker. A planet looks like a tiny round patch, not a single point. The wobbles in different parts of the patch mostly cancel out, so the planet shines steadily. Planets also wander slowly among the stars from week to week.",
    "examples": [
     "Stars low down near the rooftops twinkle more, because their light passes through more air.",
     "Jupiter usually shines steadily, like a calm lamp.",
@@ -145,14 +145,14 @@
  ],
  "big_questions": [
   {
-   "q": "When you walked past the window, the strips slid and the Moon stayed. How could you use this to tell which of two lights is further away?",
+   "q": "In the window strip test, the paper strips slid past when you walked, and the Moon stayed in the same place. How could you use this to tell which of two lights is farther away?",
    "kind": "deep",
    "hint": "Walk a few steps and watch which light slides more against the sky."
   },
   {
    "q": "In the hot tawa test, the light never changed, but it looked as if it did. When a star twinkles, is the star changing, or is it the air, or is it you?",
    "kind": "deep",
-   "hint": "Think about what changed when the stove went off."
+   "hint": "In the hot tawa test, think about what changed when the stove was switched off."
   },
   {
    "q": "A dung beetle, some birds and people all use the night sky to find their way. What do you think the sky looks like to them?",
@@ -202,7 +202,7 @@
    "Appa looked at the Moon for a long time. \"When I was small, in my village, I thought she followed only me,\" he said.",
    "\"She seemed to,\" said Nila. \"And she seemed to follow everyone else too.\""
   ],
-  "epiphany": "For the parent: Nila finds that the paper strips on the glass slide past the Moon when she walks, while the Moon stays where she is. Near things change place when we move, and the Moon is so far away that it hardly changes at all. So the Moon seems to follow everyone at once, as she sees when her cousin in Guwahati shows the same Moon on the phone. Nila then teaches her Appa.",
+  "epiphany": "For the parent: Nila finds that the paper strips on the glass slide past the Moon when she walks, while the Moon stays in the same place. Near things change place when we move, but the Moon is so far away that she hardly changes place at all. So the Moon seems to follow everyone at once. Nila sees this when her cousin in Guwahati shows the same Moon on the phone. Nila then teaches her Appa.",
   "ask": [
    "Why did the Moon seem to follow the bus, while the street lamps rushed past?",
    "What did the paper strips do when Nila walked past the window? What did the Moon do?",
@@ -330,7 +330,7 @@
      "do": "1. After dark, find a window or balcony where you can see the Moon. 2. Stick three paper strips on the glass, a hand-width apart, near the Moon. 3. Put a slipper at each end of a three-step path.",
      "say": "Stand at this slipper. Close one eye. Is the Moon to the left or the right of the first strip?",
      "kid": "Stand at the slipper. Close one eye. Find the Moon. Where is it next to the strips?",
-     "parent": "Pick an evening when the Moon is up (see the first activity). A calendar that shows Purnima helps. If you cannot see the Moon, use the brightest dot in the sky. It works the same way. On a balcony, you can watch the grill bars instead of paper strips."
+     "parent": "Pick an evening when the Moon is up (see the Look Closely at the Moon activity). A calendar that shows Purnima helps. If you cannot see the Moon, use the brightest dot in the sky. It works the same way. On a balcony, you can watch the grill bars instead of paper strips."
     },
     {
      "id": "s4",
@@ -366,7 +366,7 @@
        "The Moon"
       ],
       "a": 0,
-      "why": "The strips were the nearest, so they slid the most. The far building slid a little, and the Moon not at all. Picking the Moon means the feeling of the bus ride is still strong: try the walk once more and watch only the Moon."
+      "why": "The strips were the nearest, so they slid the most. The far building slid a little, and the Moon not at all. If your child picks the Moon, they still feel that the Moon follows the bus. Try the walk once more and watch only the Moon."
      },
      "parent": "Now link it to the bus. From a bus, the lamp posts are near, so they rush past. The Moon is so far that the bus ride hardly changes where it is. So it seems to come along."
     }
@@ -496,7 +496,7 @@
        "The light getting tired"
       ],
       "a": 0,
-      "why": "The torch made the same steady light all the time. The warm air rising from the tawa bent its light this way and that. Picking 'switching on and off' means it looked like blinking: try switching off the stove and watching it go steady again."
+      "why": "The torch made the same steady light all the time. The warm air rising from the tawa bent its light this way and that. If your child picks 'switching on and off', the shiver looked like blinking to them. Switch off the stove and watch the light go steady again."
      }
     }
    ]
@@ -669,7 +669,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Talk about what happened, and about the real beetles.",
-     "say": "Which time did you go straight? In 2013, the scientist Marie Dacke and her team found this. When beetles could see the starry sky, they rolled straight. When the sky was hidden, they wandered.",
+     "say": "Which time did you go straight? In 2013, the scientist Marie Dacke and her team tested this with dung beetles. When the beetles could see the starry sky, they rolled straight. When the sky was hidden, they wandered.",
      "kid": "Eyes open, you went straight. Eyes shut, you wandered. Beetles need the sky too."
     }
    ]
@@ -977,7 +977,7 @@
        "q": "Why are they the same?",
        "good": [
         "It is the same Moon.",
-        "The Moon is so far away that everyone sees her the same."
+        "The Moon is so far away that everyone sees it the same."
        ]
       }
      ]
@@ -999,7 +999,7 @@
    "title": "Show That the Moon Is Not Following the Scooter",
    "mins": 12,
    "context": "This is a problem to solve. A grandfather says the Moon follows his scooter home. How can you show him why it only seems to?",
-   "problem": "Revathi, a girl in Class 1, has a grandfather. He says the Moon follows his scooter all the way home. Revathi wants to show him, at home, why the Moon only seems to follow him. How can she do it?",
+   "problem": "A grandfather says the Moon follows his scooter all the way home. How can you show him, at home, why the Moon only seems to follow him?",
    "constraints": [
     "Use only things you already have at home.",
     "Do it inside the flat, or at a window.",
@@ -1122,14 +1122,14 @@
   },
   {
    "t": "mcq",
-   "p": "Two cousins, Nila in Chennai and Meher in Guwahati, look up at the same time. What do they see?",
+   "p": "One person in Chennai and another in Guwahati look up at the night sky at the same time. What do they see?",
    "opts": [
     "The same Moon",
     "Two different Moons",
-    "Only Meher can see the Moon"
+    "Only the person in Guwahati can see the Moon"
    ],
    "a": 0,
-   "why": "There is one Moon. It is so far away that people all over India see her at the same time.",
+   "why": "There is one Moon. It is so far away that people all over India see it at the same time.",
    "outcome": 1
   },
   {
@@ -1182,7 +1182,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 1, sees a bright dot that does not twinkle at all. What could it be?",
+   "p": "You see a bright dot in the night sky that does not twinkle at all. What could it be?",
    "opts": [
     "A planet",
     "A star",
@@ -1258,14 +1258,14 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 1, walks past her window and watches the Moon and the paper strips on the glass. What slides past?",
+     "p": "You walk past your window and watch the Moon and the paper strips on the glass. What slides past?",
      "opts": [
       "The paper strips",
       "The Moon",
       "Both, just the same"
      ],
      "a": 0,
-     "why": "The strips are near, so they slide past when she walks. The Moon is very far, so it stays in the same place.",
+     "why": "The strips are near, so they slide past when you walk. The Moon is very far, so it stays in the same place.",
      "how": "e1"
     },
     {
@@ -1318,7 +1318,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: a train rushes past. The poles by the track, the far hills and the Moon are all outside the window. Which one seems to move fastest, and which hardly moves? Why?",
+     "p": "Say out loud, and a grown-up writes it down: you are on a moving train. Outside the window you see the poles by the track, the far hills and the Moon. Which one seems to move fastest, and which hardly moves? Why?",
      "lines": 2,
      "a": "The poles seem to rush past, the far hills move slowly, and the Moon hardly moves. Near things change place the most, and the Moon is the farthest.",
      "why": "A strong answer puts the poles, hills and Moon in order of how near they are, and says near things seem to move more.",
@@ -1398,7 +1398,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila, a girl in Class 1, walks past her window, and the paper strips slide past the Moon. Then she walks across the road to a far building and looks again. Where is the Moon?",
+     "p": "You walk past your window, and the paper strips slide past the Moon. Then you walk across the road to a far building and look again. Where is the Moon?",
      "opts": [
       "Still in the same place in the sky",
       "Left behind at the window",
@@ -1556,7 +1556,7 @@
   },
   {
    "q": "Why does the Moon look so big when it is low near the rooftops?",
-   "why_open": "Photos show that the rising Moon is the same size as the Moon high up. The bigger look happens in our seeing. Scientists still argue about exactly why."
+   "why_open": "Photos show that the rising Moon is the same size as the Moon high up. It only looks bigger to us: the change is in how we see it, not in the Moon. Scientists still argue about exactly why."
   },
   {
    "q": "How do animals use the night sky?",
@@ -1611,25 +1611,25 @@
  ],
  "maths": [
   {
-   "problem": "Asha, a girl in Class 1, drew the Moon's face. She shaded 3 big dark patches and 4 small ones. How many dark patches did she draw in all? Were there more big ones or small ones?",
+   "problem": "You draw the Moon's face. You shade 3 big dark patches and 4 small ones. How many dark patches did you draw in all? Were there more big ones or small ones?",
    "answer": "7 patches. There were more small ones.",
    "explain": "3 big and 4 small make 7. 4 is more than 3, so there were more small patches.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a1",
-   "context": "This is about looking closely at the Moon, where you drew its shape and dark patches.",
+   "context": "This is about the Look Closely at the Moon activity, where you drew the Moon's shape and its dark patches.",
    "why_maths": "Counting and comparing the patches helps us check our drawing against the real Moon next time."
   },
   {
-   "problem": "Nila, a girl in Class 1, stuck 3 paper strips on the window. Then she stuck 3 more. How many strips are on the window now?",
+   "problem": "You stick 3 paper strips on the window. Then you stick 3 more. How many strips are on the window now?",
    "answer": "6 strips.",
    "explain": "3 strips and 3 more strips make 6 strips.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
    "context": "This is about the window strip test, where you walked past a window and watched the Moon.",
-   "why_maths": "Counting the strips helps us set up the window test and check what we see."
+   "why_maths": "Counting the strips helps us set up the window strip test and check what we see."
   },
   {
-   "problem": "Joseph, a boy in Class 1, watched 6 bright dots in the evening sky. 4 of them twinkled. The rest shone steadily. How many shone steadily? What might they be?",
+   "problem": "You watch 6 bright dots in the evening sky. 4 of them twinkle. The rest shine steadily. How many shine steadily? What might they be?",
    "answer": "2 shone steadily. They might be planets.",
    "explain": "6 dots, and 4 of them twinkled. 6 take away 4 is 2. So 2 dots shone steadily. Planets usually shine steadily, so they might be planets.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1688,14 +1688,14 @@
   },
   {
    "q": "Why does the Moon seem to follow the bus?",
-   "a": "It is very far away, so the ride hardly changes where she is."
+   "a": "It is very far away, so the ride hardly changes where you see it."
   },
   {
    "q": "What makes a star twinkle?",
    "a": "The moving air above us shakes its light."
   },
   {
-   "q": "What usually twinkles: a star or a planet?",
+   "q": "Which usually twinkles: a star or a planet?",
    "a": "A star."
   },
   {
@@ -1774,10 +1774,10 @@
   ]
  },
  "roots": {
-  "context": "We have walked past a window and watched the Moon stay put while the paper strips slid by. Now we ask what that tells us about ourselves and the world.",
+  "context": "In the window strip test, you walked past a window. The paper strips slid by, and the Moon stayed in the same place. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "When you walked past the window, the paper strips slid past, but the Moon stayed put. Near things change place when you move. The Moon is so far that a few steps hardly change where you see it. So the Moon seems to follow everyone who looks at it, all at once.",
-   "habit": "We feel that a thing which keeps up with us must be near us, or following us. The window test shows the opposite: the Moon keeps up because it is so very far away.",
+   "truth": "In the window strip test, the paper strips slid past when you walked, but the Moon stayed put. Near things change place when you move. The Moon is so far that a few steps hardly change where you see it. So the Moon seems to follow everyone who looks at it, all at once.",
+   "habit": "We feel that a thing which keeps up with us must be near us, or following us. The window strip test shows the opposite: the Moon keeps up because it is so very far away.",
    "evidence": "In the window strip test, the near strips slid past fast, a far building slid a little, and the Moon did not move at all. In the One Moon, Two Windows project, someone in another town draws the same Moon at the same time."
   },
   "three": {
@@ -1790,7 +1790,7 @@
    {
     "source": "Brahmabindu Upanishad 12",
     "teaching": "There is one Self in all beings. It is seen as one and as many, like the one Moon reflected in many pots of water.",
-    "link": "The Upanishad uses the one Moon seen in many places as a picture of one Self in many beings. Your test showed why one Moon can be seen from so many places at once: it is very far away. The teaching is a picture, not a proof."
+    "link": "The Upanishad uses the one Moon seen in many places as a picture of one Self in many beings. The window strip test showed why one Moon can be seen from so many places at once: it is very far away. The teaching is a picture, not a proof."
    },
    {
     "source": "Su Shi, 'Shui Diao Ge Tou' (China, Mid-Autumn night, 1076)",
@@ -1819,7 +1819,7 @@
    "kid": "Find the Moon. Breathe in and out slowly, five times. Think of someone far away. They may see this Moon too."
   },
   "ask": [
-   "The Moon came along with you, and with someone far away, at the same time. Whose Moon is it?",
+   "The Moon seemed to come along with you, and with someone far away, at the same time. Whose Moon is it?",
    "The Moon's light started at the Sun. When you see the Moon, are you also seeing the Sun?",
    "If nobody in the whole world looked at the Moon tonight, would it still be shining?"
   ],

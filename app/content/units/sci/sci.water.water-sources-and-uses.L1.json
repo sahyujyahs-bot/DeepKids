@@ -28,7 +28,7 @@
   },
   {
    "term": "Liquid",
-   "meaning": "A liquid is something that flows and can be poured, and takes the shape of its cup.",
+   "meaning": "A liquid is something that flows and can be poured. It takes the shape of the cup it is in.",
    "example": "Water, milk and oil are liquids. A stone and a spoon are not.",
    "art": "Water, milk and coconut oil being poured from three small jugs into three glasses."
   },
@@ -91,7 +91,7 @@
   {
    "concept": "Do plants feel thirsty?",
    "status": "debated",
-   "description": "When the soil is dry, a plant senses the dryness. Their roots grow towards damp soil. Their leaves close tiny holes, called pores, so they lose less water. If the plant stays dry, the leaves droop. Scientists agree that plants sense dry soil and answer it. They argue about how to describe what the plant does.",
+   "description": "When the soil is dry, a plant senses the dryness. Their roots grow towards damp soil. Their leaves close tiny holes, called pores, so they lose less water. If the plant stays dry, the leaves droop. Scientists agree that plants sense dry soil and act on it. They do not agree on how to describe what the plant does.",
    "examples": [
     "A pot plant droops on a hot afternoon and stands up again after a drink.",
     "Roots grow towards a damp part of the soil.",
@@ -104,7 +104,7 @@
     },
     {
      "who": "Other plant scientists",
-     "explanation": "Dry soil sets off chemical signals inside the plant. The plant answers the same way every time. They call this a response, not a feeling."
+     "explanation": "Dry soil sets off chemical signals inside the plant. The plant answers the same way every time. These scientists call this a response, not a feeling."
     }
    ],
    "context": "This card asks if plants feel thirsty, and gives two views.",
@@ -153,7 +153,7 @@
  ],
  "big_questions": [
   {
-   "q": "The poha in water went soft, but the poha in oil stayed hard. Why can water get in where oil cannot?",
+   "q": "In the Poha Test, the poha in water went soft, but the poha in oil stayed hard. Why can water get in where oil cannot?",
    "kind": "deep",
    "hint": "Think about what happens when you put a drop of oil on water. Do they mix?"
   },
@@ -322,7 +322,7 @@
     "Draw the five baskets on a big sheet. Mix the cards and put them face down in a pile.",
     "Take turns. Turn over the top card and read it aloud (or ask the grown-up to). Say what the water is doing.",
     "Put the card on the basket you think is right. Say why.",
-    "The grown-up reads the back. If the basket is right, the card stays there.",
+    "The grown-up reads the back of the card. If the basket is right, the card stays there.",
     "If it is wrong, the card goes to the bottom of the pile, to try again later.",
     "With two players, take turns one after the other. With four, go round the circle. Everyone is helping to fill the baskets.",
     "When the pile is finished, count each basket. Every basket should have 3 cards. If one has more or less, check it together."
@@ -348,7 +348,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Take turns. Turn over a card, say what the water is doing, and put it in a basket. Read the back aloud.",
+     "do": "Take turns. Turn over a card, say what the water is doing, and put it in a basket. Then read the back of the card aloud.",
      "say": "What is the water doing on your card? Which basket does it go in? Why?",
      "kid": "Turn over a card. What is the water doing? Put it in a basket.",
      "ask": [
@@ -584,7 +584,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put 2 tablespoons of dry poha in each katori. 2. Put a label in front of each. 3. Let your child pick up a dry flake and press it.",
+     "do": "1. Put 2 tablespoons of dry poha in each katori. 2. Put a label in front of each: water, oil, nothing. 3. Let your child pick up a dry flake and press it.",
      "say": "This is dry poha. Pick up one flake. Press it between your fingers. Is it hard or soft?",
      "kid": "Pick up one flake of dry poha. Press it. Is it hard or soft?",
      "ask": [
@@ -607,7 +607,7 @@
      "kid": "Water on one. Oil on one. Nothing on one. Which poha will go soft? Why?",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Which poha will go soft, and why do you think so?",
        "good": [
         "The water one, because we soak poha in water at home.",
         "Both the water and the oil, because they are both wet.",
@@ -623,12 +623,12 @@
      "do": "1. Pour 4 tablespoons of water over the poha in the water katori. 2. Pour 4 tablespoons of oil over the poha in the oil katori. 3. Leave the third katori dry. 4. Stir each one gently once.",
      "say": "Pour the water slowly. Now the oil. Make sure every flake gets wet. The third one stays dry.",
      "kid": "Pour water on the first poha. Now oil on the second. Leave the third one dry.",
-     "parent": "Use the same spoon, wiped, for both liquids. The poha should be covered or nearly covered in both katoris."
+     "parent": "Use the same spoon for both liquids, and wipe it in between. The poha should be covered or nearly covered in both katoris."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "Wait ten minutes. While you wait, look at the katoris from the side every few minutes, and read the story aloud.",
+     "do": "Wait ten minutes. While you wait, look at the katoris from the side every few minutes, and read the story, The Big Pot in Madurai, aloud.",
      "say": "Look at the katoris from the side. Is anything changing? Is the water going down? Is the oil going down?",
      "kid": "Look at the katoris from the side. Is anything changing?",
      "ask": [
@@ -646,7 +646,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Take one flake from each katori and put them on a plate. 2. Your child presses each flake with a finger. 3. Then let your child taste a flake from the water and the dry katori.",
+     "do": "1. Take one flake from each katori and put them on a plate. 2. Your child presses each flake with a finger. 3. Then let your child taste one flake from the water katori and one from the dry katori.",
      "say": "Press each flake. Which one squashes? Which one snaps? Now taste the water poha and the dry poha.",
      "kid": "Press a flake from each katori. Which one squashes? Which one snaps?",
      "ask": [
@@ -681,10 +681,10 @@
     {
      "id": "s6",
      "mins": 2,
-     "do": "Ask your child to say what they think, what they saw, and why. If you have milk, try a fourth katori of poha in milk.",
+     "do": "Ask your child what they think now, what they saw, and why they think it happened. If you have milk, try a fourth katori of poha in milk.",
      "say": "So, what do you think now? What did you see? Why do you think it happened?",
      "kid": "Say what you saw. Say why you think it happened.",
-     "parent": "A good claim is: water gets inside poha and makes it soft, and oil does not. Poha in milk goes soft too, because milk is mostly water."
+     "parent": "A good answer is: water gets inside poha and makes it soft, and oil does not. Poha in milk goes soft too, because milk is mostly water."
     }
    ]
   },
@@ -693,10 +693,10 @@
    "title": "The Sticky Plate: does soaking help washing?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you let a little dal dry hard on two plates. You wipe one plate dry. You soak the other plate in water first. Then you see which one comes clean.",
-   "question": "Dried dal sticks hard to a plate. Does a little water and a few minutes make it easier to wipe off?",
+   "context": "In this experiment you let a little dal dry hard on two plates. You wipe one plate while it is still dry. You soak the other plate in water first, and then wipe it. Then you see which one comes clean.",
+   "question": "Dried dal sticks hard to a plate. Does soaking it in a little water for a few minutes make it easier to wipe off?",
    "predict": "Guess first. Which plate will be easier to wipe clean: the dry one, or the one soaked in water? Why do you think so?",
-   "fair_test": "Both plates get the same dal, dried for the same time. Both are wiped the same way, with a dry cloth, for the same count. The only difference is the water.",
+   "fair_test": "Both plates get the same dal, dried for the same time. Both are wiped the same way, with a dry cloth, and we count the wipes. The only difference is the water.",
    "results_table": [
     "Plate",
     "How many wipes to clean?",
@@ -724,7 +724,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Smear the dal, let it dry for an hour or two, then wipe one plate dry and soak the other."
+     "what": "Smear the dal and let it dry for an hour or two. Then wipe one plate while it is dry, and soak the other in water before you wipe it."
     }
    ],
    "record": "Draw the two plates after wiping. Draw any dal that is left.",
@@ -750,17 +750,17 @@
      "do": "1. Smear one teaspoon of thick cooked dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.",
      "say": "We are making two sticky plates. Let's leave them to dry, just like plates that wait too long after lunch.",
      "kid": "Smear a little dal on each plate. Leave them to dry.",
-     "parent": "A thin patch dries in an hour or two under a fan. The dal should feel hard when you touch it. If it is still sticky, wait longer, as it may in a humid city."
+     "parent": "A thin patch dries in an hour or two under a fan. The dal should feel hard when you touch it. In a humid city it may still be sticky. If so, wait longer."
     },
     {
      "id": "s2",
      "mins": 2,
-     "do": "Pour a little water on one plate, just enough to cover the dal. Ask your child to guess, and say why.",
+     "do": "Pour a little water on one plate, just enough to cover the dal. Ask your child to guess which plate will be easier to clean, and to say why.",
      "say": "One plate gets water. The other stays dry. Which plate will be easier to clean? Why do you think so?",
      "kid": "Pour water on one plate. Which plate will be easier to clean? Why?",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Which plate will be easier to clean, and why do you think so?",
        "good": [
         "The water one, because the water makes the dal soft.",
         "The dry one, because there is no mess."
@@ -789,8 +789,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Put the two plates side by side. Ask your child what the water did to the dal.",
-     "say": "What did the water do to the dried dal? Remember the poha. Is it the same?",
-     "kid": "What did the water do to the dal? Was it like the poha?",
+     "say": "What did the water do to the dried dal? In the Poha Test, water went inside the poha and made it soft. Did the same thing happen to the dal?",
+     "kid": "What did the water do to the dal? Was it like the poha in the Poha Test?",
      "check": {
       "t": "mcq",
       "q": "Why did the soaked dal come off more easily?",
@@ -860,7 +860,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Back in one room, ask your child which place uses the most water. Then ask where the water comes from before it reaches the tap.",
+     "do": "After the walk, ask your child which place uses the most water. Then ask where the water comes from before it reaches the tap.",
      "say": "Which place do you think uses the most water? And where does the water come from before the tap?",
      "kid": "Which place uses the most water? Where does the water come from before the tap?",
      "ask": [
@@ -924,7 +924,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child which animal they liked best. Ask how you drink.",
+     "do": "Ask your child which animal they liked best. Ask how your child drinks.",
      "say": "Every animal needs water, but they drink in different ways. How do you drink? Which animal is most like you?",
      "kid": "How do you drink? Which animal is most like you?",
      "check": {
@@ -987,7 +987,7 @@
      "id": "s2",
      "mins": 7,
      "do": "At bedtime, count the lines together. Ask when your child felt most thirsty.",
-     "say": "How many lines did you make? When did you feel most thirsty today? Why do you think so?",
+     "say": "How many lines did you make? When did you feel most thirsty today? Why do you think that was?",
      "kid": "Count your lines. When were you most thirsty?",
      "ask": [
       {
@@ -1025,7 +1025,7 @@
      "qty": 1
     }
    ],
-   "safety": "Pour out the old water and fill fresh water every day, so mosquitoes cannot breed in it. A child should not lean out of a window or over a balcony rail: a grown-up places the saucer.",
+   "safety": "Pour out the old water and put in fresh water every day, so mosquitoes cannot breed in it. A child should not lean out of a window or over a balcony rail: a grown-up places the saucer.",
    "schedule": [
     {
      "day": 1,
@@ -1035,7 +1035,7 @@
     {
      "day": 2,
      "mins": 4,
-     "what": "Pour out the old water. Fill fresh water. Watch for a few minutes."
+     "what": "Pour out the old water. Fill the saucer with fresh water. Watch for a few minutes."
     },
     {
      "day": 3,
@@ -1078,12 +1078,12 @@
      "id": "s2",
      "mins": 12,
      "wait": "Come back each day for three more days.",
-     "do": "Each day, pour out the old water and fill fresh. Watch for a few minutes. Draw any visitor in the diary.",
-     "say": "Who came today? How did they drink? Did they drink, or have a bath?",
-     "kid": "Fill fresh water. Watch. Who came? Draw them.",
+     "do": "Each day, pour out the old water and fill the saucer with fresh water. Watch for a few minutes. Draw any visitor in the diary.",
+     "say": "Who came today? Did they drink, or have a bath? How did they drink?",
+     "kid": "Fill the saucer with fresh water. Watch. Who came? Draw them.",
      "ask": [
       {
-       "q": "How did the crow drink?",
+       "q": "If a crow came, how did the crow drink?",
        "good": [
         "Dipped the beak and lifted the head.",
         "Took a sip and looked up."
@@ -1151,7 +1151,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot, water it the same and give it no help, to compare. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
+     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, water it the same way but give it no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
      "say": "Which idea will you try? Let's make it.",
      "kid": "Pick an idea. Make it with a grown-up.",
      "adult": true,
@@ -1275,7 +1275,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: why do we cook rice in water and not in oil?",
+     "p": "Tell a grown-up your answer, and ask them to write it down. Why do we cook rice in water and not in oil?",
      "lines": 2,
      "a": "Water goes inside the rice and makes it soft. Oil does not go inside.",
      "why": "A strong answer uses the poha test: water soaked into the poha and oil did not.",
@@ -1333,7 +1333,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 1, puts poha in milk for breakfast. After ten minutes, what will the poha be like?",
+     "p": "Dry poha is put in milk for breakfast. After ten minutes, what will the poha be like?",
      "opts": [
       "Hard, like dry poha",
       "Soft, because milk is mostly water",
@@ -1380,14 +1380,14 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: a dry flower pot gets a mug of water. Where does the water go?",
+     "p": "Tell a grown-up your answer, and ask them to write it down. A dry flower pot gets a mug of water. Where does the water go?",
      "lines": 2,
      "a": "It soaks into the soil, and the plant's roots take the water in. Some drips out of the hole at the bottom.",
      "why": "A strong answer says the soil soaks up the water, like the poha did, and the plant takes the water in through the roots."
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: why do people put out bowls of water for birds in the summer?",
+     "p": "Tell a grown-up your answer, and ask them to write it down. Why do people put out bowls of water for birds in the summer?",
      "lines": 2,
      "a": "Birds need water too. In hot weather, many puddles and ponds dry up, so it is hard for birds to find a drink in a city.",
      "why": "A strong answer says that birds need water like we do, and that in a hot city water is hard to find.",
@@ -1429,7 +1429,7 @@
      "t": "truefalse",
      "p": "The water you drink becomes part of your body.",
      "a": true,
-     "why": "True. More than half of your body is water, and you need to drink every day to keep it so."
+     "why": "True. More than half of your body is water, and you need to drink every day to keep it that way."
     }
    ]
   }
@@ -1440,7 +1440,7 @@
    "channel": "Sic Pixels",
    "youtube": "z2fC6ryJuDs",
    "mins": 3,
-   "why": "Shows how a cat pulls up a little column of water with the tip of the tongue, as the scientists in 2010 saw.",
+   "why": "Shows how a cat pulls up a little column of water with the tip of the tongue. Scientists first saw this in 2010, with very fast cameras.",
    "check": "Found by search: \"How a Cat Drinks - Amazing Super Slow Motion 2000FPS\" by Sic Pixels, 2 minutes 53 seconds. A parent may preview it."
   },
   {
@@ -1470,7 +1470,7 @@
     "Turning on the light"
    ],
    "a": 0,
-   "why": "We cook rice in water. Water also helps us drink, wash, and give plants and animals what they need.",
+   "why": "We cook rice in water. We also drink water, wash with it, and give it to plants and animals.",
    "outcome": 0
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 1, guesses that oil will make poha soft. What should he do to find out?",
+   "p": "You guess that oil will make poha soft. What should you do to find out?",
    "opts": [
     "Ask a friend",
     "Try it and look",
@@ -1580,7 +1580,7 @@
     "Because the katoris are small"
    ],
    "a": 0,
-   "why": "If only the liquid is different, we know the liquid made the difference.",
+   "why": "If the poha is the same and only the liquid is different, we know the liquid made the difference.",
    "outcome": 4,
    "how": "e1"
   }
@@ -1670,25 +1670,25 @@
  ],
  "maths": [
   {
-   "problem": "Gurpreet fills a jug with water, one small tumbler at a time. She counts each tumbler as she pours: 1, 2, 3, 4. Then the jug is full. How many tumblers does the jug hold?",
+   "problem": "You fill a jug with water, one small tumbler at a time. You count each tumbler as you pour: 1, 2, 3, 4. Then the jug is full. How many tumblers does the jug hold?",
    "answer": "The jug holds 4 tumblers.",
-   "explain": "She counted one tumbler each time she poured, and stopped at 4 when the jug was full. A bigger jug would hold more tumblers. A smaller tumbler would need more pours to fill the same jug.",
+   "explain": "You counted one tumbler each time you poured, and stopped at 4 when the jug was full. A bigger jug would hold more tumblers. A smaller tumbler would need more pours to fill the same jug.",
    "math_unit": "math.weight-capacity.capacity.L1",
    "how": "a3",
    "context": "This is about the water tally, where you count tumblers of water.",
    "why_maths": "Counting tumblers tells us how much a jug holds, and how much water we drink."
   },
   {
-   "problem": "Divya is a girl in Class 1. On Monday, she drank 5 tumblers of water. On Tuesday, after playing in the sun, she drank 7. On which day did she drink more? Why do you think so?",
+   "problem": "On Monday, you drank 5 tumblers of water. On Tuesday, after playing in the sun, you drank 7. On which day did you drink more? Why do you think you drank more that day?",
    "answer": "Tuesday. 7 is more than 5.",
-   "explain": "7 is 2 more than 5. On Tuesday she played in the sun and lost more water by sweating, so she felt more thirsty.",
+   "explain": "7 is 2 more than 5. On Tuesday you played in the sun and lost more water by sweating, so you felt more thirsty.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "a3",
    "context": "This is about the water tally, where you make one mark for each tumbler you drink.",
    "why_maths": "Comparing two days shows that we drink more when we lose more water."
   },
   {
-   "problem": "In the Water Jobs game, Bhavna, a girl in Class 1, sorted the cards. Drinking got 3, Cooking 3, Washing 3, Plants 3 and Animals 3. How many cards did she sort?",
+   "problem": "In the Water Jobs game, the cards are sorted into five baskets. Drinking gets 3 cards, Cooking 3, Washing 3, Plants 3 and Animals 3. How many cards are there in all?",
    "answer": "15 cards.",
    "explain": "3 and 3 is 6. 6 and 3 is 9. 9 and 3 is 12. 12 and 3 is 15. Five jobs with 3 cards each make 15.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1699,7 +1699,7 @@
   {
    "problem": "Over 5 days, the bird bowl had these visitors: 2 crows, 1 myna, 3 pigeons and 1 bulbul. Make one tally mark for each bird. Which bird came most?",
    "answer": "Pigeons came most, 3 times.",
-   "explain": "Crows: 2 marks. Myna: 1 mark. Pigeons: 3 marks. Bulbul: 1 mark. The longest row of marks is the pigeons.",
+   "explain": "Crows: 2 marks. Myna: 1 mark. Pigeons: 3 marks. Bulbul: 1 mark. The pigeons have the longest row of marks.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "p1",
    "context": "This is about the bird bowl project, where you watch who comes to drink.",
@@ -1836,18 +1836,18 @@
   ]
  },
  "roots": {
-  "context": "We have seen water soak into poha, dal and soil, and seen many animals drink. Now we ask what that tells us about water, and about ourselves.",
+  "context": "Water soaks into poha, dal and soil, and every animal drinks in their own way. Now we ask what that tells us about water, and about ourselves.",
   "deep_truth": {
-   "truth": "In our poha test, the poha in water went soft within minutes. The poha in oil went shiny but stayed hard. Water slipped inside each flake, and oil only coated the outside. That is why we cook rice and dal in water, not in oil.",
-   "habit": "We think all runny, wet things are alike. Water and oil both pour and both look wet, but only water gets inside the poha, and that difference is what makes water able to cook and wash.",
-   "evidence": "In the poha test, the same poha, for the same time, went soft in water and stayed hard in oil and in the dry katori. In the sticky plate test, dried dal went soft and let go of the plate only after water soaked into it."
+   "truth": "In the Poha Test, you put dry poha in water and in oil. The poha in water went soft within minutes. The poha in oil went shiny but stayed hard. Water soaked into each flake, and oil only coated the outside. That is why we cook rice and dal in water, not in oil.",
+   "habit": "We think all runny, wet things are alike. Water and oil both pour and both look wet. But only water gets inside the poha. That difference is why water can cook and wash.",
+   "evidence": "In the Poha Test, the same poha was left for the same time in three katoris. It went soft in water. It stayed hard in oil and in the dry katori. In the Sticky Plate test, dried dal went soft and let go of the plate only after water soaked into it."
   },
   "three": {
    "who_am_i": "More than half of you is water. The water you drank this morning is part of you now.",
    "what_is_life": "Every living being needs water: you, the crow, the tulsi and the frog. Each one takes it in their own way.",
-   "what_is_this_world": "The same rain fills the rivers, the wells, the plants and our tumblers. One water is shared by everyone who lives here."
+   "what_is_this_world": "The same rain fills the rivers, the wells, the plants and our tumblers. Everyone who lives here shares the same water."
   },
-  "thread": "One rain falls on the land. Some goes into a river, some into a well, some into a tulsi pot. From there it goes into a crow, a cow, a pot of rice and you. The same water does many jobs, because it can get inside so many different things.",
+  "thread": "Rain falls on the land. Some goes into a river, some into a well, some into a tulsi pot. From there it goes into a crow, a cow, a pot of rice and you. The same water does many jobs, because it can get inside so many different things.",
   "teachings": [
    {
     "source": "Thirukkural 20, by Thiruvalluvar",
@@ -1872,7 +1872,7 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Many scientists say water is simply a substance that moves by the rules of physics and chemistry. It soaks into poha because of how its tiny particles stick to the poha, and they would not call that giving or helping."
+   "view": "Many scientists say water is simply a substance that follows the rules of physics and chemistry. It soaks into poha because its tiny particles stick to the poha. These scientists would not call that giving or helping."
   },
   "practice": {
    "title": "Cool breath, warm breath",

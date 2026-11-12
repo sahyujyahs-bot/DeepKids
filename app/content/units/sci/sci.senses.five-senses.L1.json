@@ -28,7 +28,7 @@
   },
   {
    "term": "Sense organ",
-   "meaning": "A sense organ is the part of your body that does one sense. Eyes see, ears hear, the nose smells, the tongue tastes, and the skin feels touch.",
+   "meaning": "A sense organ is the part of your body that you sense with. Each one is for one sense: eyes see, ears hear, the nose smells, the tongue tastes, and the skin feels touch.",
    "example": "Your nose is the sense organ for smell.",
    "art": "A friendly drawing of a child's face with arrows to the eyes, ears, nose and tongue, and one arrow to the skin of the hand."
   },
@@ -71,7 +71,7 @@
     "You only know if the payasam is sweet when it is in your mouth."
    ],
    "perspectives": [],
-   "context": "This card says which senses work from far away, and which need touching. It is what you found in the Smell Steps test.",
+   "context": "This card says which senses work from far away, and which need touching. In the Smell Steps test, you smelled the orange from a few steps away, but you could taste it only when it touched your tongue.",
    "art": "A child on a balcony: wavy lines of light and sound coming from a crow far away, and a small cloud of smell coming from a kitchen window, while the child's other hand holds a mango to their mouth."
   },
   {
@@ -145,7 +145,7 @@
   {
    "claim": "We have only five senses.",
    "who": "A very old idea, from the Greek thinker Aristotle",
-   "for": "Five senses each have a sense organ you can point to.",
+   "for": "Each of the five senses has a sense organ you can point to.",
    "against": "We also sense balance, warmth and cold, pain, and where our arms and legs are. Scientists count many more than five.",
    "status": "rejected",
    "context": "This card is about the idea that there are only five senses."
@@ -153,9 +153,9 @@
  ],
  "big_questions": [
   {
-   "q": "You smelled the orange from a few steps away. Is the smell in the orange, or in you?",
+   "q": "In the Smell Steps test, you smelled the orange from a few steps away. Is the smell in the orange, or in you?",
    "kind": "deep",
-   "hint": "The bits came from the orange. The smell happened when they reached your nose. Can there be a smell with no nose?"
+   "hint": "Tiny bits floated from the orange to you. The smell happened when they reached your nose. Can there be a smell with no nose?"
   },
   {
    "q": "Why can you see the orange from far away, but taste the orange only when it touches you?",
@@ -163,7 +163,7 @@
    "hint": "Think about what travels from the orange to your eyes, and to your nose. Does anything travel to your tongue?"
   },
   {
-   "q": "A dog smells many things we miss. Is the dog's world full of smells we never meet?",
+   "q": "A dog smells many things we miss. Is the dog's world full of smells that we never notice?",
    "kind": "big",
    "hint": "Think about what a dog does on a walk, and how long the dog sniffs one spot."
   },
@@ -325,7 +325,7 @@
     "The player whose turn it is hops onto the sense card that would tell them about that thing.",
     "If more than one sense would tell you, put one foot on one card and one hand on another.",
     "The caller reads the back of the card. If the player found one of the right senses, they get a point.",
-    "Players take turns, one card each. When the pile is finished, count the points. The most points wins. If you play alone, try to beat your own points next time.",
+    "Players take turns, one card each. When the pile is finished, count the points. The most points wins. If you play alone, try to beat your own score next time.",
     "Then swap: the caller hops, and a player becomes the caller. A grown-up whispers the cards to a caller who cannot read yet."
    ],
    "setup": [
@@ -465,7 +465,7 @@
     "The sound maker picks a card, makes that sound once, and asks 'What was that?'",
     "The listener guesses. The sound maker reads the back of the card.",
     "A right guess gets a tick. After the sound maker has made six sounds, put all 12 cards back, shuffle, and swap jobs, so everyone is the sound maker once. With 4 players, that is four turns of six sounds.",
-    "At the end, count the ticks. The most ticks wins, or everyone tries to beat their own ticks next time.",
+    "At the end, count the ticks. The most ticks wins, or everyone tries to beat their own score next time.",
     "A grown-up reads the cards to a sound maker who cannot read yet."
    ],
    "setup": [
@@ -570,7 +570,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess, look and listen from far away, take smell steps with an empty plate and then with a peeled orange, swap so the grown-up takes the steps too, then touch and taste."
+     "what": "Guess first. Look and listen from the start line. Take the smell steps with an empty plate, then with a peeled orange. Swap, so the grown-up takes the steps too. Then touch and taste the orange."
     }
    ],
    "record": "Draw the five sense organs in a row. Under each, draw a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.",
@@ -618,7 +618,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Switch off the fan and shut the windows. 2. Put a whole orange on a steel plate on a low table. 3. Mark a start line six small child steps from the table. 4. Clear the floor between.",
+     "do": "1. Switch off the fan and shut the windows. 2. Put a whole orange on a steel plate on a low table. 3. Mark a start line six small child steps from the table. 4. Clear the floor between the line and the table.",
      "say": "We are going to test your senses. Here is an orange on a plate. You will stand back here, at this line.",
      "kid": "Look at the orange on the plate. Now stand on the start line.",
      "parent": "Keep the second plate empty and out of sight in the kitchen. Do not peel the orange yet. Your hands must not smell of orange for the empty round."
@@ -644,9 +644,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Your child looks at the orange from the line. 2. Tap the plate twice with the steel spoon. 3. Ask about each sense. 4. Tick or cross each one.",
+     "do": "1. Your child looks at the orange from the line. 2. Tap the plate twice with a steel spoon. 3. Ask about each sense. 4. Tick or cross each one.",
      "say": "Can you see the orange from here? Now listen. Did you hear the plate? Can you smell the orange? Can you taste it, or feel it?",
-     "kid": "Look at the orange. Listen to the spoon. Can you smell it, taste it, or feel it?",
+     "kid": "Look at the orange. Listen to the spoon on the plate. Can you smell the orange, taste it, or feel it?",
      "ask": [
       {
        "q": "Which senses worked from the line?",
@@ -664,7 +664,7 @@
      "mins": 3,
      "do": "1. Your child covers their eyes. 2. Quietly swap the orange for the empty plate, and take the orange to the kitchen. 3. Your child takes one small step at a time, and sniffs three times at each step. 4. Count the steps.",
      "say": "Close your eyes. There may be something on the plate, or there may be nothing. Take one small step, and sniff three times. Raise your hand only if you really smell something.",
-     "kid": "Close your eyes. Take one small step. Sniff three times. Hand up only if you smell something.",
+     "kid": "Close your eyes. Take one small step. Sniff three times. Raise your hand only if you smell something.",
      "adult": true,
      "ask": [
       {
@@ -681,8 +681,8 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Your child sits on the start line and covers their eyes. 2. In the kitchen, with the door shut, peel the orange by hand. Squeeze a piece of peel over the plate. 3. Wash your hands with soap. 4. Put the plate with the fruit and peel on the table. 5. Your child stands, and does the smell steps again. Count the steps.",
-     "say": "Eyes closed again. Same as before: one small step, three sniffs. Hand up when you smell something. What do you smell?",
-     "kid": "Eyes closed. One small step. Sniff three times. Hand up when you smell something.",
+     "say": "Close your eyes again. Do the same as before: take one small step and sniff three times. Raise your hand when you smell something. What do you smell?",
+     "kid": "Close your eyes. Take one small step. Sniff three times. Raise your hand when you smell something.",
      "adult": true,
      "ask": [
       {
@@ -733,9 +733,9 @@
     {
      "id": "s8",
      "mins": 1,
-     "do": "Ask what they found, what they saw, and why. Then ask the check question.",
+     "do": "Ask your child what they found, what they saw, and why. Then ask the check question.",
      "say": "Which senses told you about the orange from far away? Which needed touching? The orange never moved. So how did the smell get to your nose?",
-     "kid": "Which senses worked from far? Which needed touching? How did the smell reach you?",
+     "kid": "Which senses worked from far away? Which needed touching? How did the smell reach you?",
      "ask": [
       {
        "q": "How did the smell get to your nose?",
@@ -817,7 +817,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Hand your child one thing at a time. 2. Let them explore it however they like. 3. Ask what they found out, and which body part told them.",
-     "say": "Here is a tumbler and a spoon. Find out about it. What did you find? Which part of you told you that?",
+     "say": "Here is a tumbler and a spoon. Find out about them. What did you find? Which part of you told you that?",
      "kid": "Find out about each thing. Which part of you told you?",
      "ask": [
       {
@@ -836,7 +836,7 @@
      "mins": 4,
      "do": "Play 'Touch your…': call out a sense, and your child touches its sense organ.",
      "say": "Touch the part that sees. The part that hears. The part that smells. The part that tastes. Now the part that feels a touch.",
-     "kid": "Touch the part that sees. Now hears. Now smells. Now tastes. Now feels.",
+     "kid": "Touch the part that sees. Now the part that hears. Now the part that smells. Now the part that tastes. Now the part that feels a touch.",
      "check": {
       "t": "mcq",
       "q": "Which sense organ told you that the jaggery is sweet?",
@@ -883,7 +883,7 @@
      "what": "Sit in the dark. Test each sense. Switch on the torch and talk about what changed."
     }
    ],
-   "record": "Draw a dark room. Draw the senses that still worked in the dark inside it.",
+   "record": "Draw a dark room. Inside it, draw the senses that still worked in the dark.",
    "setup": [
     {
      "art": "A woman and a girl sitting on a mattress in a dim room in the evening, the woman holding a torch that is switched off.",
@@ -1015,7 +1015,7 @@
      "mins": 5,
      "do": "1. Uncover the eyes. 2. Sort the things into a rough group and a smooth group, then a soft group and a hard group.",
      "say": "Let's sort them. Put everything that felt rough here, and everything smooth there. Now try soft and hard.",
-     "kid": "Sort them. Rough here. Smooth there. Now soft and hard.",
+     "kid": "Sort the things. Put the rough ones here and the smooth ones there. Now sort them into soft and hard.",
      "check": {
       "t": "mcq",
       "q": "Which one feels soft?",
@@ -1069,7 +1069,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Out of sight, fill two boxes with rice, two with salt and two with a few rajma. 2. Close them tightly. 3. Mix them up on the floor.",
-     "say": "These boxes all look the same. But inside, two and two are the same. Can your ears find the pairs?",
+     "say": "These boxes all look the same. But inside, they come in pairs: two boxes hold the same thing. Can your ears find the pairs?",
      "kid": "The boxes look the same. Shake them. Can your ears find the pairs?"
     },
     {
@@ -1152,7 +1152,7 @@
     {
      "day": 5,
      "mins": 5,
-     "what": "Draw something you touched on the 'Skin' page. Tell the whole book to someone."
+     "what": "Draw something you touched on the 'Skin' page. Show the whole book to someone and tell them about each page."
     }
    ],
    "record": "The finished book, with one drawing for each sense.",
@@ -1171,7 +1171,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Fold and tie the book. 2. Write 'My Senses' on the cover. 3. Write one sense at the top of each page: Eyes, Ears, Nose, Tongue, Skin. Your child writes what they can, and you write the rest.",
-     "say": "Each day this week, you will catch one thing with one sense, and draw it. Today is the eyes day. What did you see today that you liked?",
+     "say": "Each day this week, you will notice one thing with one sense, and draw it. Today is the eyes day. What did you see today that you liked?",
      "kid": "Make your book. Today, draw something you saw."
     },
     {
@@ -1180,7 +1180,7 @@
      "do": "Each day, help your child choose one thing for that day's sense and draw it.",
      "say": "Today is the ears day. What did you hear today? Was it loud or soft? Where did it come from?",
      "kid": "Today, draw something you heard. Was it loud or soft?",
-     "wait": "Do the next page tomorrow, and the next each day after that."
+     "wait": "Do the next page tomorrow, and one more page each day after that."
     },
     {
      "id": "s3",
@@ -1199,9 +1199,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "On the last day, your child draws something they touched on the Skin page. Then they tell the whole book to someone at home.",
+     "do": "On the last day, your child draws something they touched on the Skin page. Then they show the whole book to someone at home and tell them about each page.",
      "say": "What did you touch today? Was it rough, smooth, soft or hard? Now show your book to someone at home. Which page do you like best?",
-     "kid": "Draw something you touched. Then show your book to someone and tell them each page.",
+     "kid": "Draw something you touched. Then show your book to someone and tell them about each page.",
      "check": {
       "t": "mcq",
       "q": "Which page of your book could have a drawing of jasmine flowers?",
@@ -1225,7 +1225,7 @@
    "context": "This is a design challenge. A neighbour cannot hear the doorbell. You design a way for her to know someone is at the door, using a different sense.",
    "problem": "A neighbour of yours cannot hear any sounds. When someone rings her doorbell, she does not know. How could you let her know someone is at the door, using her eyes, her nose or her skin?",
    "constraints": [
-    "It must not need her to hear anything.",
+    "It must work without her hearing anything.",
     "Use things from home.",
     "A child must be able to use it, or set it going.",
     "Keep string off the floor where people walk, so nobody trips."
@@ -1296,7 +1296,7 @@
      "kid": "Did it work? What would you change?",
      "check": {
       "t": "mcq",
-      "q": "A doorbell that flashes a light uses which sense?",
+      "q": "Which sense does a doorbell that flashes a light use?",
       "options": [
        "Seeing",
        "Hearing",
@@ -1333,7 +1333,7 @@
       "tasting",
       "touching"
      ],
-     "why": "Each sense organ does one sense. The skin of the hand, and the skin all over the body, does touching.",
+     "why": "Each sense organ is for one sense. The skin of the hand, and the skin all over the body, is for touching.",
      "art": "A simple drawing of a child's face with the tongue poking out, and one hand, with an empty label next to the eye, ear, nose, tongue and hand."
     },
     {
@@ -1363,7 +1363,7 @@
     },
     {
      "t": "sort",
-     "p": "From across the room, can this sense tell you about a thing? Circle the far senses in green, and the touching senses in red.",
+     "p": "From across the room, can this sense tell you about a thing? Circle the senses that work from far away in green, and the senses that need touching in red.",
      "cats": [
       "Works from far away",
       "Needs touching"
@@ -1425,7 +1425,7 @@
       "Tongue"
      ],
      "a": 2,
-     "why": "The nose, ears and tongue are sense organs. The knee helps your leg bend, but it is not a sense organ for one of the five senses."
+     "why": "The nose, ears and tongue are sense organs. The knee helps your leg bend, but it is not the sense organ for any of the five senses."
     },
     {
      "t": "write",
@@ -1437,14 +1437,14 @@
     },
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 1, closes her eyes. Someone pours water into a tumbler. Which sense tells Riya what they did?",
+     "p": "Close your eyes. Someone pours water into a tumbler. Which sense tells you what they did?",
      "opts": [
       "Hearing",
       "Tasting",
       "Smelling"
      ],
      "a": 0,
-     "why": "The water makes a splashing sound. The sound travels to Riya's ears.",
+     "why": "The water makes a splashing sound. The sound travels to your ears.",
      "how": "g2"
     },
     {
@@ -1482,7 +1482,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Sowmya says: 'I can only smell a dosa if I can see it.' Is she right? Say what you think, and tell about a time you smelled food you could not see. A grown-up writes it down.",
+     "p": "Someone says: 'I can only smell a dosa if I can see it.' Are they right? Say what you think, and tell about a time you smelled food you could not see. A grown-up writes it down.",
      "lines": 2,
      "a": "No. Tiny bits of the dosa float through the air to your nose, so you can smell it from another room.",
      "why": "A strong answer says that smell travels through the air, so the thing does not have to be in sight.",
@@ -1492,7 +1492,7 @@
      "t": "truefalse",
      "p": "If the fan is on, the smell of the orange may reach you faster.",
      "a": true,
-     "why": "True. Moving air carries the tiny smell bits further and faster. That is why we kept the fan off, so every round was the same.",
+     "why": "True. Moving air carries the tiny smell bits further and faster. That is why the fan was off in the Smell Steps test, so every round was the same.",
      "how": "e1"
     },
     {
@@ -1710,14 +1710,14 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi smells sambar from her bedroom. What reached her nose?",
+   "p": "You smell sambar from your bedroom. What reached your nose?",
    "opts": [
     "Tiny bits from the sambar, floating in the air",
     "The sound of the sambar",
     "Nothing at all"
    ],
    "a": 0,
-   "why": "Tiny bits from the hot sambar float through the air. When they reach her nose, she smells sambar.",
+   "why": "Tiny bits from the hot sambar float through the air. When they reach your nose, you smell sambar.",
    "outcome": 2
   },
   {
@@ -1758,14 +1758,14 @@
   },
   {
    "t": "mcq",
-   "p": "Gauri in Pune tests her nose: one plate has an orange, one plate is empty. Why the empty plate?",
+   "p": "In the Smell Steps test, one plate has an orange and one plate is empty. Why is there an empty plate?",
    "opts": [
-    "To check she is not just guessing",
-    "To count how many steps she takes",
+    "To check you are not just guessing",
+    "To count how many steps you take",
     "To make the room smell nice"
    ],
    "a": 0,
-   "why": "If Gauri smells nothing at the empty plate, then the smell she finds at the other plate really came from the orange. That makes the test fair.",
+   "why": "If you smell nothing at the empty plate, then the smell you find at the other plate really came from the orange. That makes the test fair.",
    "outcome": 4
   },
   {
@@ -1871,9 +1871,9 @@
  ],
  "maths": [
   {
-   "problem": "In the Smell Steps test, Nila smelled the orange after 3 small steps. Her brother Sai smelled the orange after 5 small steps. Both started at the same line. Who smelled the orange from further away?",
-   "answer": "Nila. She took fewer steps, so she was further from the plate.",
-   "explain": "Both started at the same line. Fewer steps means you stopped further from the plate. 3 is less than 5, so Nila was further away when the smell reached her.",
+   "problem": "In the Smell Steps test, one child smelled the orange after 3 small steps. Another child smelled the orange after 5 small steps. Both started at the same line. Who smelled the orange from further away?",
+   "answer": "The child who took 3 steps. They took fewer steps, so they were further from the plate.",
+   "explain": "Both started at the same line. Fewer steps means you stopped further from the plate. 3 is less than 5, so the child who took 3 steps was further away when the smell reached them.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e1",
    "context": "This is about the Smell Steps test, where you walked towards a peeled orange with your eyes shut.",
@@ -1888,12 +1888,12 @@
    "why_maths": "Counting the senses shows that one food can give every sense something to find."
   },
   {
-   "problem": "In the Guess the Home Sound game, Bornali heard 6 sounds. She guessed 4 right. How many did she guess wrong?",
+   "problem": "In the Guess the Home Sound game, you heard 6 sounds. You guessed 4 right. How many did you guess wrong?",
    "answer": "2.",
-   "explain": "6 sounds take away 4 right guesses leaves 2. So 2 sounds were hard for her ears.",
+   "explain": "6 sounds take away 4 right guesses leaves 2. So 2 sounds were hard for your ears.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "g2",
-   "context": "This is about the listening game, where you closed your eyes and guessed what made each sound.",
+   "context": "This is about the Guess the Home Sound game, where you closed your eyes and guessed what made each sound.",
    "why_maths": "Taking away shows how many sounds were hard, so you know which ones to listen to again."
   }
  ],
@@ -2017,12 +2017,12 @@
  "roots": {
   "context": "We have tested our five senses, and found which ones reach far and which need touching. Now we ask what the Smell Steps test tells us about us and the world.",
   "deep_truth": {
-   "truth": "With your eyes shut, you smelled the orange a few steps away, before you touched it. Tiny bits of the peel had floated through the air into your nose. Your tongue could taste the orange only by touching it. So when you smell something, a little of that thing has already reached you.",
-   "habit": "We think of smelling like looking: the thing stays over there, and we notice it from here. But the test shows that bits of the orange travel and come into us. Smelling happens where the orange and your body meet.",
+   "truth": "In the Smell Steps test, with your eyes shut, you smelled the orange a few steps away, before you touched it. Tiny bits of the peel had floated through the air into your nose. Your tongue could taste the orange only by touching it. So when you smell something, a little of that thing has already reached you.",
+   "habit": "We think of smelling like looking: the thing stays over there, and we notice it from here. But the Smell Steps test shows that bits of the orange travel and come into us. Smelling happens where the orange and your body meet.",
    "evidence": "In the Smell Steps test, with eyes shut, the child smelled nothing at the empty plate, then smelled the peeled orange before reaching the plate. Taste came only when the orange touched the tongue."
   },
   "three": {
-   "who_am_i": "You are a body full of senses. Your eyes, ears, nose, tongue and skin bring the world to you all day.",
+   "who_am_i": "You have a body with senses. Your eyes, ears, nose, tongue and skin tell you about the world all day.",
    "what_is_life": "Every living being senses the world. An ant smells with her feelers, and a plant feels a touch.",
    "what_is_this_world": "Light goes to your eyes, sound goes to your ears, and tiny bits of things go to your nose."
   },
@@ -2031,12 +2031,12 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "A teacher, Uddalaka, asks his son to put salt in water overnight. In the morning the salt cannot be seen. But when the son sips from the top, the middle and the bottom, the water is salty everywhere.",
-    "link": "Your eyes could not see the salt, but your tongue found it. In the Smell Steps test, your eyes could not see the bits of orange in the air, but your nose found them."
+    "link": "The son's eyes could not see the salt, but his tongue found it. In the Smell Steps test, your eyes could not see the bits of orange in the air, but your nose found them."
    },
    {
     "source": "Kabir, a doha often quoted as 'Kasturi kundal basai'",
     "teaching": "The musk deer smells the sweet smell of musk and runs through the forest looking for it. But the musk is in the deer's own body.",
-    "link": "In the poem, the deer follows a smell. A real smell is also tiny bits of a thing carried by the air, as you found with the orange."
+    "link": "The deer follows a smell. A real smell is also tiny bits of a thing carried by the air, as you found with the orange in the Smell Steps test."
    },
    {
     "source": "Buddhist teaching of the six sense bases (Salayatana Samyutta, Samyutta Nikaya 35)",

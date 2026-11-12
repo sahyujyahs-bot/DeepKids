@@ -80,9 +80,9 @@
    "status": "defined",
    "context": "This card is about where the stars are in the day.",
    "definition": "The stars shine all the time, by day and by night. In the day, sunlight makes the whole sky so bright that we cannot see the stars' small light.",
-   "description": "In the torch test, the little torch star was hard to see in the bright spot by the window. In the dark room, the same torch star shone brightly. The torch was the same both times. Only the light around it changed. The real stars work the same way. In the day, the Sun's light lights up the air, and the whole sky glows blue. The stars are still there, but their light is too faint to see in that bright sky. When the Sun sets and the sky goes dark, we can see them again.",
+   "description": "In the torch star test, a torch covered with cardboard shone through one tiny hole, like a star. By the bright window, that torch star was hard to see. In the dark room, the same torch star shone brightly. The torch was the same both times. Only the light around it changed. The real stars work the same way. In the day, the Sun's light lights up the air, and the whole sky glows blue. The stars are still there, but their light is too faint to see in that bright sky. When the Sun sets and the sky goes dark, we can see them again.",
    "examples": [
-    "In the torch test, the star was hard to see by the sunny window and bright in the dark room.",
+    "In the torch star test, the torch star was hard to see by the sunny window and bright in the dark room.",
     "During a total eclipse of the Sun, the Moon covers the Sun for a few minutes. The sky goes dark and bright stars appear in the middle of the day.",
     "Big telescopes can find bright stars even in the daytime."
    ],
@@ -138,7 +138,7 @@
  ],
  "big_questions": [
   {
-   "q": "In the torch test, the star was still shining by the sunny window, but you could hardly see it. What else might be there all the time that we cannot see?",
+   "q": "In the torch star test, the torch was still shining by the sunny window, but you could hardly see its light. What else might be there all the time that we cannot see?",
    "kind": "deep",
    "hint": "Think of the stars in the day, the Moon on a cloudy night, or the air around you."
   },
@@ -148,7 +148,7 @@
    "hint": "Think of a steel plate next to a lamp. Where does its brightness come from?"
   },
   {
-   "q": "The ice in the sunshine melted first. How did the heat get from the Sun, so far away, to the ice?",
+   "q": "In the Sun or Shade test, one ice cube sat in the sunshine and one in the shade. The one in the sunshine melted first. How did the heat get from the Sun, so far away, to the ice?",
    "kind": "deep",
    "hint": "Nothing touched the ice except sunlight. The heat came with the light."
   },
@@ -301,7 +301,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Put the cardboard over the front of the torch. 2. Hold it on with a rubber band or tape. 3. Poke one tiny hole in the middle with a sharp pencil point. 4. Tape one small square of thin paper over the hole. 5. Switch the torch on to check that only a dim dot of light comes out.",
-     "say": "We are making a pretend star. The torch light can only come out of this tiny hole, through a thin paper. That makes one small dim dot of light, like a star.",
+     "say": "We are making a pretend star. The torch light can only come out of this tiny hole, through thin paper. That makes one small dim dot of light, like a star.",
      "kid": "Watch the grown-up make the star. Light comes out of one tiny hole.",
      "adult": true,
      "parent": "Push the pencil gently, with the torch lying on a table, away from fingers. The paper makes the dot dim, as real stars are. If the cardboard glows all over, use thicker cardboard or two layers."
@@ -310,7 +310,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask your child to guess. Write or draw the guesses in the table.",
-     "say": "First we will hold the star by the bright window. Then we will take it into the dark bathroom. Where will you see it best? Why do you think so?",
+     "say": "First we will hold the star by the bright window. Then we will take it into a dark room. Where will you see it best? Why do you think so?",
      "kid": "Where will you see the star best? By the window, or in the dark? Why?",
      "ask": [
       {
@@ -394,7 +394,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Nila, a girl in Class 1, holds the torch star by a sunny window. Her brother can hardly see it. Why?",
+      "q": "The torch star is held by a sunny window. It is switched on, but it is very hard to see. Why?",
       "options": [
        "The bright light around it hides the star",
        "The torch stops shining in the day",
@@ -533,7 +533,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Revathi, a girl in Class 1, puts one ice cube in the sunshine and one in the shade. Which melts first?",
+      "q": "You put one ice cube in the sunshine and one in the shade. Which melts first?",
       "options": [
        "The one in the sunshine",
        "The one in the shade",
@@ -895,7 +895,7 @@
     "Players take turns. On your turn, take the top card. A grown-up reads the front out.",
     "Put it on DAY, NIGHT or BOTH, and say why.",
     "A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.",
-    "When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. With one child, try to beat your last count. Play again to keep more.",
+    "When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. If one child plays alone, play again and try to keep more cards than last time.",
     "At the end, talk about the stars card: are the stars in the sky in the day?"
    ],
    "setup": [
@@ -1163,7 +1163,7 @@
    "title": "Save the Ice Cube from the Sunshine (if you have a sunny spot)",
    "mins": 15,
    "context": "This is a problem to solve. An ice cube is sitting in the sunshine. How can you keep it from melting for as long as you can?",
-   "problem": "Kamala, a girl in Class 1, must keep an ice cube in a patch of sunshine. She wants it to last as long as it can. What can she use to help it?",
+   "problem": "An ice cube must stay in a patch of sunshine. You want it to last as long as it can. What can you use to help it?",
    "constraints": [
     "The ice cube must stay in the same sunny spot.",
     "Use only things you already have at home.",
@@ -1230,7 +1230,7 @@
      "kid": "Which lasted longer? Why?",
      "check": {
       "t": "mcq",
-      "q": "Kamala, a girl in Class 1, puts a cardboard roof over one ice cube in the sunshine. Why does that ice last longer?",
+      "q": "You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer?",
       "options": [
        "The roof makes shade, so less sunshine reaches the ice",
        "Cardboard is cold",
@@ -1297,7 +1297,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meena has wet clothes. Where will they dry fastest?",
+     "p": "Where will wet clothes dry fastest?",
      "opts": [
       "On a sunny balcony line",
       "In a shady cupboard",
@@ -1342,7 +1342,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why was the torch star hard to see by the bright window?",
+     "p": "In the torch star test, why was the torch star hard to see by the bright window? Say it out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "The light all around it was so bright that the small star got lost. The torch was still shining.",
      "why": "A strong answer says the torch kept shining, and that the bright light around it hid the star.",
@@ -1440,7 +1440,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says, 'The Sun is so far away that it cannot warm me.' What would you tell your friend? Use the ice test. Say it, and a grown-up writes it down.",
+     "p": "A friend says, 'The Sun is so far away that it cannot warm me.' What would you tell your friend? Use the Sun or Shade test, where one ice cube sat in the sunshine and one in the shade. Say it, and a grown-up writes it down.",
      "lines": 3,
      "a": "The Sun's light travels all the way here, and it brings heat. In the ice test, nothing touched the ice except sunshine, but the ice in the sunshine melted first.",
      "why": "A strong answer uses the ice test as evidence: only sunshine reached the ice, and it melted first, so the sunshine brought heat.",
@@ -1455,14 +1455,14 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 1, counts 3 stars from her balcony with all the lights on. She switches off the lights and waits. What will she most likely see?",
+     "p": "You count 3 stars from your balcony with all the lights on. Then you switch off the lights and wait. What will you most likely see?",
      "opts": [
       "A few more stars",
       "No stars at all",
       "Exactly 3 stars, no more"
      ],
      "a": 0,
-     "why": "The lights near her made the sky around her a little brighter. With them off, some fainter stars can be seen. They were there all along.",
+     "why": "The lights near you made the sky around you a little brighter. With them off, some fainter stars can be seen. They were there all along.",
      "how": "a2"
     },
     {
@@ -1597,7 +1597,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera's ice cube is in a sunny spot. What will help it last longer?",
+   "p": "An ice cube is in a sunny spot. What will help it last longer?",
    "opts": [
     "Putting a cardboard roof over it to make shade",
     "Moving it closer to the window",
@@ -1609,7 +1609,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ravi puts one steel spoon in the sunshine and one in the shade for 10 minutes. Which spoon feels warmer?",
+   "p": "One steel spoon is left in the sunshine and one in the shade for 10 minutes. Which spoon feels warmer?",
    "opts": [
     "The one in the sunshine",
     "The one in the shade",
@@ -1764,16 +1764,16 @@
  ],
  "maths": [
   {
-   "problem": "Kavya, a girl in Class 1, counted 3 stars from her balcony with the lights on. With the lights off she counted 7. How many more stars did she see?",
+   "problem": "You count 3 stars from your balcony with the lights on. With the lights off you count 7. How many more stars do you see with the lights off?",
    "answer": "4 more.",
-   "explain": "Count on from 3 to 7: 4, 5, 6, 7. That is 4. So she saw 4 more stars once the lights near her were off. Those stars were there all along.",
+   "explain": "Count on from 3 to 7: 4, 5, 6, 7. That is 4. So you see 4 more stars once the lights near you are off. Those stars were there all along.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a2",
    "context": "This is about the Window Star Count, where you counted stars with the lights on and off.",
    "why_maths": "Taking one count away from the other shows how many stars the lights were hiding."
   },
   {
-   "problem": "Divya, a girl in Class 1, did the ice test. She looked at both ice cubes every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last?",
+   "problem": "In the ice test, one ice cube sat in the sunshine and one in the shade. You looked at both every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last?",
    "answer": "The shady one, by 3 looks.",
    "explain": "6 is more than 3, so the shady ice lasted longer. From 3 to 6 is 3 more looks. Each look was 5 minutes apart, so that is 15 more minutes in the shade.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1782,7 +1782,7 @@
    "why_maths": "Comparing the two numbers shows how much longer the ice lasts when the Sun's heat cannot reach it."
   },
   {
-   "problem": "Tara, the girl in the story, draws a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next?",
+   "problem": "Here is a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next?",
    "answer": "A star.",
    "explain": "The pattern is Sun, Moon, star, again and again. After Sun and Moon comes a star.",
    "math_unit": "math.patterns.repeating-patterns.L1",
@@ -1790,9 +1790,9 @@
    "why_maths": "Spotting the pattern lets us say what comes next without looking."
   },
   {
-   "problem": "Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 2 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right?",
+   "problem": "In the Day Sky or Night Sky card game, 5 cards went on DAY, 6 on NIGHT and 2 on BOTH. Which pile had the most cards? Does that mean there are more things in the night sky than in the day sky?",
    "answer": "NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.",
-   "explain": "6 is more than 5 and more than 3, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too.",
+   "explain": "6 is more than 5 and more than 2, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "g1",
    "context": "This is about the Day Sky or Night Sky card game.",
@@ -1867,9 +1867,9 @@
   }
  ],
  "roots": {
-  "context": "We have felt the Sun's heat, and found that a small light can shine without being seen. Now we ask what that tells us about the sky, about ourselves and about the world.",
+  "context": "In the ice test, we felt that sunshine brings heat. In the torch star test, the torch kept shining by the bright window, but we could hardly see it. Now we ask what that tells us about the sky, about ourselves and about the world.",
   "deep_truth": {
-   "truth": "By the sunny window, our torch star was hard to see. In the dark room, it shone brightly. The torch did not change, and the real stars do not change from day to night either. They shine all day, but we see them only when the sky around them is dark.",
+   "truth": "In the torch star test, the torch star was hard to see by the sunny window. In the dark room, it shone brightly. The torch did not change, and the real stars do not change from day to night either. They shine all day, but we see them only when the sky around them is dark.",
    "habit": "We say the stars 'come out' at night, as if they switch on like street lights. The torch test shows that a star can stay the same while the light around it changes.",
    "evidence": "In the torch star test, the same star was faint by the bright window and bright in the dark room. In a total eclipse of the Sun, stars appear at midday."
   },

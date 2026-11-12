@@ -92,7 +92,7 @@
   {
    "concept": "Every animal hears in their own way",
    "status": "debated",
-   "description": "Humans and other animals hear, but not all in the same way. An elephant hears very low rumbles from her family, from far away. A female cricket hears with ears on her front legs, and walks towards a male's song. A frog's eardrums are on the outside, as round circles behind the eyes. A snake has no ear flaps and no ear holes. Snakes pick up the shaking of the ground through their jaw. Plants may hear too. Every animal who listens hears the world in her own way. Scientists agree that all these animals hear. They argue about whether plants hear.",
+   "description": "Humans and other animals hear, but not all in the same way. An elephant hears very low rumbles from her family, from far away. A female cricket hears with ears on her front legs, and walks towards a male's song. A frog's eardrums are on the outside, as round circles behind the eyes. A snake has no ear flaps and no ear holes. Snakes pick up the shaking of the ground through their jaw. Scientists agree that all these animals hear, each in their own way. Plants may hear too, but scientists still argue about that.",
    "examples": [
     "In 1984, Katy Payne found that elephants call each other with rumbles too low for people to hear.",
     "In 2019, Lilach Hadany and her team played the buzz of a bee to evening primrose flowers. Within a few minutes, the flowers made their nectar sweeter.",
@@ -154,14 +154,14 @@
  ],
  "big_questions": [
   {
-   "q": "Arjun whispered right behind Meena, and she thought he was far away. Was the mistake in the room, or in Meena's guess?",
+   "q": "In the story Who Is Calling Meena?, Arjun whispered right behind Meena, and she thought he was far away. What did Meena get wrong: what she heard, or what she guessed?",
    "kind": "deep",
-   "hint": "Arjun was close. The 'far away' was Meena's guess. Where does a guess happen?"
+   "hint": "Arjun was close, and his whisper was soft. Meena heard a soft sound, and that was right. 'Far away' was her guess."
   },
   {
    "q": "You can shut your eyes and still know where a voice is. What do you know with your ears, and what do you only guess?",
    "kind": "deep",
-   "hint": "Think about the soft tap close by that sounded far away."
+   "hint": "In the Near or Far test, a soft tap close by sounded far away. What did your ears hear, and what did you guess?"
   },
   {
    "q": "An elephant hears her family from far away, where you would hear nothing. Is the elephant's world bigger than yours?",
@@ -314,8 +314,8 @@
     "Put the three floor cards in a line, a big step apart. NEAR is closest to the player.",
     "The caller mixes the 14 sound cards and reads the front of one out loud.",
     "The player hops to NEAR, MIDDLE or FAR, and says why.",
-    "The caller reads the back. If the player's reason makes sense, the player gets a point, even if the card is not the one on the back.",
-    "Play 7 cards, then swap jobs and play the other 7. With 4 players, one is the caller and the others hop in turn, one card each. Add up the points together and try to beat them next time.",
+    "The caller reads the back. If the player's reason makes sense, the player gets a point, even if they hopped to a different floor card from the one on the back.",
+    "Play 7 cards, then swap jobs and play the other 7. With 4 players, one is the caller and the others hop in turn, one card each. Add up everyone's points, and try to get more next time.",
     "A child who cannot read yet can be the caller if a grown-up reads each card quietly to them first."
    ],
    "setup": [
@@ -596,7 +596,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Switch off the fan and the TV. 2. Put a chair in the middle of the room. 3. Mark a near spot one big step behind the chair. 4. Mark a far spot across the room, by the door. 5. Make 6 chits.",
+     "do": "1. Switch off the fan and the TV. 2. Put a chair in the middle of the room. 3. Mark a near spot one big step behind the chair. 4. Mark a far spot across the room, by the door. 5. Make 6 paper chits.",
      "say": "We are going to test your ears. You will sit here with your eyes covered. I will hit this tumbler with a spoon, sometimes near and sometimes far.",
      "kid": "Sit on the chair. Look at the near spot and the far spot.",
      "parent": "Write the chits secretly. The three normal chits say 'normal near', 'normal far' and 'normal near'. The three trick chits say 'soft near', 'hard far' and 'soft near'. Keep the normal chits in one pile and the trick chits in another, and mix each pile."
@@ -649,7 +649,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Uncover your child's eyes. 2. Show the results together. 3. Ask what they found, what they saw and why. 4. Ask the check question.",
+     "do": "1. Uncover your child's eyes. 2. Look at the results together. 3. Ask what they found, and why they think it happened. 4. Ask the check question.",
      "say": "Look at the normal rounds and the trick rounds. Which ones tricked you? Why do you think the soft tap close by sounded far away?",
      "kid": "Which rounds tricked you? Why did the soft tap sound far?",
      "check": {
@@ -940,7 +940,7 @@
        ]
       }
      ],
-     "parent": "A gentle stamp is enough. Many children feel it in their feet before they hear it. This is a feeling activity, so no right answer."
+     "parent": "A gentle stamp is enough. Many children feel it in their feet before they hear it. This activity is about feeling, so there is no right answer."
     },
     {
      "id": "s2",
@@ -1073,7 +1073,7 @@
    ],
    "general": [
     "Walk to each room and say it in a normal voice. Going closer makes a soft sound loud enough.",
-    "Ring a small bell once. Everyone knows it means dinner, and it does not wake the baby like a shout.",
+    "Ring a small bell once. Everyone knows it means dinner, and a small bell does not wake the baby the way a shout would.",
     "Agree on a signal, like three knocks on the door, that means dinner."
    ],
    "creative": [
@@ -1260,7 +1260,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: tell one sound you heard at the Listening Window, and how you knew if it was near or far.",
+     "p": "Name one sound you heard at the Listening Window, and say how you knew if it was near or far. Say it out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "A sound the child really heard, with a reason such as 'it was loud, so I thought near' or 'it was soft, so I thought far'.",
      "why": "A strong answer names a real sound and gives a reason from how loud it was. It may also say a guess can be wrong.",
@@ -1268,10 +1268,10 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 1, hears the vegetable seller calling in the street. The call gets louder and louder. What is the vegetable seller doing?",
+     "p": "You hear the vegetable seller calling in the street. The call gets louder and louder. What is the vegetable seller doing?",
      "opts": [
-      "Coming closer to Kavya",
-      "Going away from Kavya",
+      "Coming closer to you",
+      "Going away from you",
       "Standing still"
      ],
      "a": 0,
@@ -1338,9 +1338,9 @@
     },
     {
      "t": "write",
-     "p": "A boy called Rohan cups his hand behind his ear to hear his grandmother's soft voice. What happens to her voice? Why? Say it out loud, and a grown-up writes it down.",
+     "p": "You cup your hand behind your ear to hear your grandmother's soft voice. What happens to her voice? Why? Say it out loud, and a grown-up writes it down.",
      "lines": 2,
-     "a": "Her voice sounds a little louder, because his hand catches more sound and sends it into his ear.",
+     "a": "Her voice sounds a little louder, because your hand catches more sound and sends it into your ear.",
      "why": "A strong answer says the cupped hand works like a bigger ear flap.",
      "how": "a2"
     },
@@ -1401,14 +1401,14 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan and his sister Devi are at home. Their mother stands at the kitchen door and calls 'Dinner!' in her normal voice. Farhan is near the door. Devi is in the far bedroom. Who hears the call louder?",
+     "p": "Your mother stands at the kitchen door and calls 'Dinner!' in her normal voice. You are near the door. Your sister is in the far bedroom. Who hears the call louder?",
      "opts": [
-      "Farhan, because he is closer",
-      "Devi, because she is further",
+      "You, because you are closer",
+      "Your sister, because she is further",
       "Both hear it just as loud"
      ],
      "a": 0,
-     "why": "The call gets softer as it travels. Farhan is closer, so more of the sound reaches him."
+     "why": "The call gets softer as it travels. You are closer, so more of the sound reaches you."
     },
     {
      "t": "label",
@@ -1432,7 +1432,7 @@
     },
     {
      "t": "write",
-     "p": "Your friend says: 'If I can't see a thing, I can't know where it is.' Shut your eyes. How could your ears show your friend another way? Say it out loud, and a grown-up writes it down.",
+     "p": "Your friend says: 'If I can't see a thing, I can't know where it is.' How could you use your ears, with your eyes shut, to show your friend that this is not true? Say it out loud, and a grown-up writes it down.",
      "lines": 3,
      "a": "I could shut my eyes and point to my friend when they say my name. Or I could find a hidden phone by walking to where the song gets louder.",
      "why": "A strong answer uses something from the unit, such as the Find the Hidden Song game or pointing to a voice, to show that ears can tell where a sound is.",
@@ -1518,10 +1518,10 @@
   },
   {
    "t": "mcq",
-   "p": "With her eyes covered, Ammu hears a very soft tap. What will she probably guess?",
+   "p": "With your eyes covered, you hear a very soft tap. What will you probably guess?",
    "opts": [
     "That it is far away",
-    "That it is right next to her",
+    "That it is right next to you",
     "That it is thunder"
    ],
    "a": 0,
@@ -1690,26 +1690,26 @@
  ],
  "maths": [
   {
-   "problem": "In the Near or Far test, Nila got 3 out of 3 normal rounds right. In the trick rounds, she got 1 right out of 3. How many trick rounds fooled her?",
-   "answer": "2 trick rounds fooled her.",
-   "explain": "There were 3 trick rounds, and she got 1 right. 3 take away 1 is 2. So 2 trick rounds fooled her, but no normal round did.",
+   "problem": "In the Near or Far test, you got 3 out of 3 normal rounds right. In the trick rounds, you got 1 right out of 3. How many trick rounds fooled you?",
+   "answer": "2 trick rounds fooled you.",
+   "explain": "There were 3 trick rounds, and you got 1 right. 3 take away 1 is 2. So 2 trick rounds fooled you, but no normal round did.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
    "context": "This is about the Near or Far test, where a grown-up hit a tumbler near or far while you had your eyes covered.",
    "why_maths": "Counting the wrong guesses in each kind of round shows which kind tricks the ears."
   },
   {
-   "problem": "At the Listening Window, Ravi heard 5 near sounds and 3 far sounds. Did he hear more near sounds or more far sounds? How many more?",
+   "problem": "At the Listening Window, you heard 5 near sounds and 3 far sounds. Did you hear more near sounds or more far sounds? How many more?",
    "answer": "More near sounds. 2 more.",
-   "explain": "5 is bigger than 3. 5 take away 3 is 2. So Ravi heard 2 more near sounds than far sounds.",
+   "explain": "5 is bigger than 3. 5 take away 3 is 2. So you heard 2 more near sounds than far sounds.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "a1",
    "context": "This is about the Listening Window, where you sat with your eyes shut and counted sounds.",
    "why_maths": "Comparing two counts tells you whether your home is full of near sounds or far ones."
   },
   {
-   "problem": "On her Sound Bingo board, Meenakshi made tally marks: near sounds |||| and far sounds ||. She says, 'Far sounds are rare.' Is that true everywhere?",
-   "answer": "Not always. She heard 4 near sounds and 2 far sounds by her window today. At another window or another time, the counts could be different.",
+   "problem": "On your Sound Bingo board, you made tally marks: near sounds |||| and far sounds ||. Does this mean far sounds are rare everywhere?",
+   "answer": "Not always. You heard 4 near sounds and 2 far sounds by your window today. At another window or another time, the counts could be different.",
    "explain": "4 is twice as many as 2 here. But one window at one time is not every place. At night, when the near sounds stop, far sounds like a train are easier to hear.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "g2",
@@ -1843,11 +1843,11 @@
   ]
  },
  "roots": {
-  "context": "We have looked at our ears and tested whether they can tell near from far. Now we ask what the trick taps tell us about ourselves and the world.",
+  "context": "We have looked at our ears and tested whether they can tell near from far. Now we ask what the trick taps in the Near or Far test tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "With your eyes shut, a soft tap close by can sound far away. A hard tap from across the room can sound near. Your ears hear how loud each tap is, and you guess the distance from that. So near or far is your own guess, and a guess can be fooled.",
-   "habit": "We think we simply hear where a sound is, the way we see a cup on the table. But ears catch only the sound itself. How far away it is, we work out from how loud it is and from its echoes.",
-   "evidence": "In the Near or Far test, the normal taps were mostly guessed right. In the trick rounds, a soft tap one step away may be called far, and a hard tap across the room may be called near."
+   "habit": "We think we simply hear where a sound is, the way we see a cup on the table. But ears catch only the sound itself. We work out how far away it is from how loud it is and from its echoes.",
+   "evidence": "In the Near or Far test, most children guess the normal taps right. In the trick rounds, many children call the soft tap one step away 'far', and the hard tap across the room 'near'."
   },
   "three": {
    "who_am_i": "You are a listener. Your ears catch sounds from every side, all day, and even while you sleep.",
@@ -1864,7 +1864,7 @@
    {
     "source": "Thich Nhat Hanh, the bell of mindfulness",
     "teaching": "The Vietnamese teacher Thich Nhat Hanh taught people to stop when they hear a bell, breathe, and listen to the sound until it fades away.",
-    "link": "When you listen to a bell until the end, you hear it get softer and softer. You notice the moment it becomes too soft to hear. You do the same in the practice below."
+    "link": "When you listen to a bell until the end, you hear it get softer and softer. You notice the moment it becomes too soft to hear. You do the same in the practice called Listen until it is gone."
    }
   ],
   "science": [
@@ -1889,7 +1889,7 @@
   },
   "ask": [
    "Which round in the Near or Far test fooled your ears? What did your ears hear, and what did you guess?",
-   "When you cannot see where a sound comes from, is knowing how far away it is a hearing or a guess?"
+   "When you cannot see where a sound comes from, do you hear how far away it is, or do you guess?"
   ],
   "art": "A child sitting cross-legged with eyes closed next to a steel tumbler, with soft curved lines spreading out from it and fading towards the edges of the picture."
  },

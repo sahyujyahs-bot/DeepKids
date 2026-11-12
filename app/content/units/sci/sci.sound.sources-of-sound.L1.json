@@ -62,7 +62,7 @@
    "concept": "Every sound has a source",
    "status": "defined",
    "definition": "A sound source is the thing that makes a sound.",
-   "description": "In the listening minute, every sound you heard came from somewhere. The whirr came from the fan. The caw came from a crow. The honk came from a scooter. Each of these is a sound source. Sometimes you can see the source, like a hand that claps. Sometimes it is hidden, like a neighbour's mixie behind a wall. Then you can find it by following the sound. As you walk towards the source, the sound gets louder.",
+   "description": "In One Minute of Listening, every sound you heard came from somewhere. The whirr came from the fan. The caw came from a crow. The honk came from a scooter. Each of these is a sound source. Sometimes you can see the source, like a hand that claps. Sometimes it is hidden, like a neighbour's mixie behind a wall. Then you can find it by following the sound. As you walk towards the source, the sound gets louder.",
    "examples": [
     "A ceiling fan whirring",
     "A crow cawing at the window",
@@ -76,7 +76,7 @@
    "concept": "A sound comes from something moving",
    "status": "defined",
    "definition": "Every sound is made by something moving. When it stops moving, its sound stops.",
-   "description": "In the Shaker Test, the bottles were silent while they sat on the table. When you shook them, the chana and the rice hit each other and the sides of the bottle, and you heard a rattle. Your hands make a clap only when they move and meet. Rain makes a sound when the drops hit the window. A crow calls by pushing air out from deep in the chest. Some moving is too small and too fast to see. Inside a phone, a tiny part moves back and forth very fast to make the sound you hear. In Class 3 you will learn the word for this fast shaking: vibrate.",
+   "description": "In the Shaker Test, the bottles were silent while they sat on the table. When you shook them, the chana and the rice hit each other and the sides of the bottle, and you heard a rattle. Your hands make a clap only when they move and meet. Rain makes a sound when the drops hit the window. A crow calls by pushing air out from deep in her chest. Some moving is too small and too fast to see. Inside a phone, a tiny part moves back and forth very fast to make the sound you hear. In Class 3 you will learn the word for this fast shaking: vibrate.",
    "examples": [
     "Chana hitting the inside of a bottle",
     "Two hands clapping",
@@ -90,7 +90,7 @@
    "concept": "Loud and soft sounds",
    "status": "defined",
    "definition": "A loud sound is a big sound, and a soft sound is a small one. The harder something hits, shakes or blows, the louder its sound.",
-   "description": "In the Shaker Test, a gentle shake made a soft rattle. A hard shake made a loud one. The same bottle can make a loud sound or a soft sound, depending on how hard you shake it. What hits matters too. Hard chana made a loud rattle. Soft cotton made almost no sound. And what it lands on matters. A spoon dropped on the bare floor goes clang. The same spoon dropped on a pillow makes almost no sound. A sound also gets softer as you move away from its source.",
+   "description": "In the Shaker Test, a gentle shake made a soft rattle. A hard shake made a loud one. The same bottle can make a loud sound or a soft sound, depending on how hard you shake it. What hits matters too. Hard chana made a loud rattle. Soft cotton made almost no sound. What a thing lands on matters as well. A spoon dropped on the bare floor goes clang. The same spoon dropped on a pillow makes almost no sound. A sound also gets softer as you move away from its source.",
    "examples": [
     "Shaking the chana bottle hard, then gently",
     "A whisper and a shout",
@@ -273,7 +273,7 @@
    "context": "In this experiment you make four shakers that look the same, with something different inside each one. You guess which will be loudest. Then you shake them and listen.",
    "question": "Does what is inside a shaker change how loud it sounds? And does shaking harder make it louder?",
    "predict": "Look at the four shakers: chana, rice, cotton and nothing. Which will be loudest? Which will be softest? Why do you think so?",
-   "fair_test": "All four shakers are the same kind of bottle or box. Chana and rice are two big spoons each. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.",
+   "fair_test": "All four shakers are the same kind of bottle or box. We put in two big spoons of chana and two big spoons of rice. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.",
    "results_table": [
     "Shaker",
     "My guess: loud, middle or soft?",
@@ -401,13 +401,13 @@
        ]
       }
      ],
-     "parent": "Usually the chana is loudest, and the rice makes a softer, hissing rattle. The cotton and the empty bottle are nearly silent. If two sound alike, shake them one after the other, again. Write what your child heard in the table."
+     "parent": "Usually the chana is loudest, and the rice makes a softer, hissing rattle. The cotton and the empty bottle are nearly silent. If two shakers sound alike, shake them again, one after the other. Write what your child heard in the table."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "1. Give your child the chana shaker. 2. Ask them to shake it very gently. 3. Then very hard. 4. Then very gently again.",
-     "say": "Now shake the chana one very gently. Now shake it hard. Now gently again. What changes?",
+     "say": "Now shake the chana shaker very gently. Now shake it hard. Now gently again. What changes?",
      "kid": "Shake it gently. Now shake it hard. What changes?",
      "ask": [
       {
@@ -450,7 +450,7 @@
     {
      "id": "s7",
      "mins": 2,
-     "do": "Ask your child to tell you three things. Write them down in your child's words. Ask what the shakers did while they sat still.",
+     "do": "Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words. Then ask what the shakers did while they sat still.",
      "say": "Tell me three things. What do you think now? What did you hear? Why do you think it happened?",
      "kid": "Say what you think. Say what you heard. Say why.",
      "parent": "A strong answer sounds like this. 'The shakers were silent when they sat still. The chana was loudest. Shaking hard made it louder. Hard chana makes a loud sound, and soft cotton makes a soft sound.'"
@@ -465,7 +465,7 @@
    "context": "In this experiment you drop a steel spoon onto different things and listen. Does the sound change with what the spoon lands on?",
    "question": "When a steel spoon falls, does what it lands on change how loud the sound is?",
    "predict": "We will drop a spoon onto the bare floor, a folded newspaper, a folded towel and a pillow. Which will be loudest? Which will be softest? Why do you think so?",
-   "fair_test": "We use the same spoon every time. We drop it from the same height, your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what it does.",
+   "fair_test": "We use the same spoon every time. We drop it from the same height every time: as high as your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what changes.",
    "results_table": [
     "What the spoon lands on",
     "My guess: loud or soft?",
@@ -594,7 +594,7 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to tell you three things. Write them down in your child's words.",
+     "do": "Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words.",
      "say": "What do you think now? What did you hear? Why do you think it happened?",
      "kid": "Say what you think. Say what you heard. Say why.",
      "parent": "A strong answer: 'The floor was loudest and the pillow was softest. The spoon hits the hard floor hard. The soft pillow catches it gently.'"
@@ -870,7 +870,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Walk around the home and look out of the windows. For each sound your child finds, they draw it on the right half.",
+     "do": "Walk around the home and look out of the windows. Your child draws each sound source they find on the half of the paper where it belongs.",
      "say": "What can you hear? What is making it? Is it from nature, or did people make it?",
      "kid": "Listen. What is making that sound? Nature or people?",
      "ask": [
@@ -882,7 +882,7 @@
        ]
       }
      ],
-     "parent": "Nature: wind, rain, birds, dogs, insects, a person's own voice and breathing. Made by people: fan, mixie, fridge, doorbell, scooter, TV. Let your child decide where people's own voices go, and ask why."
+     "parent": "Nature: wind, rain, birds, dogs, insects. Made by people: fan, mixie, fridge, doorbell, scooter, TV. A person's own voice and breathing can go under nature, but let your child decide where they go, and ask why."
     },
     {
      "id": "s3",
@@ -964,7 +964,7 @@
     "The sound maker makes that sound, two times.",
     "The detective says what made the sound, and what moved.",
     "The detective turns round. The sound maker shows the back of the card. If the detective was right, they keep the card. If not, the card goes to the side.",
-    "With 2 players, swap roles after six cards. With 3 or more, everyone else is a detective, the first to say the right answer keeps the card, and the sound maker's turn passes to the next person after each card.",
+    "With 2 players, swap roles after six cards. With 3 or more, everyone except the sound maker is a detective. The first detective to say the right answer keeps the card. After each card, the next person becomes the sound maker.",
     "The game ends when the pile is finished. The player with the most cards is the best detective. If it is a tie, you are all best detectives."
    ],
    "setup": [
@@ -1010,7 +1010,7 @@
      "kid": "Now you make the sounds. Can you trick me?",
      "check": {
       "t": "mcq",
-      "q": "In every sound in this game, what was always happening?",
+      "q": "Every time a sound was made in this game, what was happening?",
       "options": [
        "Something was moving",
        "Something was sitting still",
@@ -1406,7 +1406,7 @@
     },
     {
      "t": "perspective",
-     "p": "Divya, a girl in Class 1, wants to call her friend from across the playground. Three children have ideas.",
+     "p": "You want to call your friend from across the playground. Three children have ideas.",
      "views": [
       {
        "who": "Priya, aged 7",
@@ -1452,7 +1452,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meera, a girl in Class 1, rings a bell on the table. Then she walks to the other side of the room and listens. How does the ring sound from far away?",
+     "p": "You ring a bell on the table. Then you walk to the other side of the room and listen. How does the ring sound from far away?",
      "opts": [
       "Louder than close up",
       "Softer than close up",
@@ -1607,7 +1607,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy in Class 1, claps his hands. What moved to make the sound?",
+   "p": "A boy claps his hands. What moved to make the sound?",
    "opts": [
     "His ears",
     "His hands",
@@ -1619,7 +1619,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Class 1, wants a louder sound from her drum. What should she do?",
+   "p": "A girl wants a louder sound from her drum. What should she do?",
    "opts": [
     "Hit it harder",
     "Hit it more gently",
@@ -1668,14 +1668,14 @@
   },
   {
    "t": "mcq",
-   "p": "Sneha, a girl in Class 1, hears a sound behind a door, but she cannot see what made it. How can she find the sound source?",
+   "p": "You hear a sound behind a door, but you cannot see what made it. How can you find the sound source?",
    "opts": [
     "Walk towards where the sound gets louder",
-    "Cover her ears",
+    "Cover your ears",
     "Walk away from the sound"
    ],
    "a": 0,
-   "why": "A sound gets louder as you get closer to its source. Following the sound leads you to it, as the children did in the story.",
+   "why": "A sound gets louder as you get closer to its source. Following the sound leads you to it, as Kavya and Arjun did in the story The Ting in the Night.",
    "outcome": 4
   }
  ],
@@ -1685,7 +1685,7 @@
    "channel": "Deep Look",
    "youtube": "fh3uNUrAnss",
    "mins": 4,
-   "why": "Shows a tiny sound source making a loud sound, by rubbing the wings together.",
+   "why": "Shows a cricket, a tiny sound source, making a loud sound by rubbing his wings together.",
    "check": "Found by search: \"Why Crickets Just Won't Shut Up | Deep Look\" by Deep Look, 4 minutes. A parent may preview it."
   },
   {
@@ -1792,16 +1792,16 @@
  ],
  "maths": [
   {
-   "problem": "In the listening minute, Kavya, a girl in Class 1, heard 3 sounds made by things and 2 sounds made by animals. How many sounds did she hear in all?",
+   "problem": "In One Minute of Listening, you heard 3 sounds made by things and 2 sounds made by animals. How many sounds did you hear in all?",
    "answer": "5 sounds.",
-   "explain": "Start at 3 and count on 2 more: 4, 5. So Kavya heard 5 sounds in all.",
+   "explain": "Start at 3 and count on 2 more: 4, 5. So you heard 5 sounds in all.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "a1",
-   "context": "This is about the listening minute, when you sat still and counted sounds on your fingers.",
+   "context": "This is about One Minute of Listening, when you sat still and counted sounds on your fingers.",
    "why_maths": "Adding the groups together shows how many sounds there are in a room that seemed quiet."
   },
   {
-   "problem": "On the Sound Scavenger Hunt, Meera, a girl in Class 1, found these sound sources: a fan, a crow, a mixie, rain, a dog, a scooter and the wind. Sort them into 'from nature' and 'made by people'. Which group has more?",
+   "problem": "On the Sound Scavenger Hunt, a child found these sound sources: a fan, a crow, a mixie, rain, a dog, a scooter and the wind. Sort them into 'from nature' and 'made by people'. Which group has more?",
    "answer": "From nature: the crow, the rain, the dog and the wind, so 4. Made by people: the fan, the mixie and the scooter, so 3. Nature has 1 more.",
    "explain": "Put each source in its group and count each group. 4 is 1 more than 3.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1818,12 +1818,12 @@
    "why_maths": "Putting things in order is how we compare more than two of them at once."
   },
   {
-   "problem": "In the Body Band, Asha, a girl in Class 1, plays a pattern: clap, clap, stamp, clap, clap, stamp. What sound comes next?",
+   "problem": "In My Body Band, a child plays a pattern: clap, clap, stamp, clap, clap, stamp. What sound comes next?",
    "answer": "Clap.",
    "explain": "The pattern is clap, clap, stamp, and it starts again. After the second stamp comes a new clap, clap, stamp. So the next sound is a clap.",
    "math_unit": "math.patterns.repeating-patterns.L1",
    "how": "a2",
-   "context": "This is about the Body Band, where you made sounds with your hands and feet.",
+   "context": "This is about My Body Band, where you made sounds with your hands and feet.",
    "why_maths": "Finding the part that repeats lets you say what comes next, which is how music keeps a beat."
   }
  ],
@@ -1896,26 +1896,26 @@
  "roots": {
   "context": "We have shaken bottles, dropped spoons and listened with our eyes closed. Now we ask what sounds tell us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "Your bottle of chana made no sound while it sat still. Shake it, and it rattled at once. Every sound you found came from something moving. So whenever you hear a sound, something somewhere is moving right now.",
+   "truth": "In the Shaker Test, the bottle of chana made no sound while it sat still. When you shook it, it rattled at once. Every sound you found came from something moving. So whenever you hear a sound, something somewhere is moving right now.",
    "habit": "We talk as if a sound belongs to a thing, as in 'the bell's ring'. Yet a still bell is silent. A sound comes from something happening: a moment when something moves.",
-   "evidence": "In the Shaker Test, every shaker was silent on the table and rattled only while it was shaken. In the listening minute and in Sound Detective, each sound led back to something moving: a fan, a bird, keys, paper, water."
+   "evidence": "In the Shaker Test, every shaker was silent on the table and rattled only while it was shaken. In One Minute of Listening and in Sound Detective, each sound led back to something moving: a fan, a bird, keys, paper, water."
   },
   "three": {
    "who_am_i": "You are a sound source too. When you talk, sing or clap, part of you moves, and other people hear it.",
    "what_is_life": "Many living beings make sounds to find each other: a calf calling her mother, crows warning their family, crickets chirping at night.",
    "what_is_this_world": "The world is always moving, so it is full of sounds: wind, rain, waves, birds and traffic. Even a quiet room has a fan or a fridge moving."
   },
-  "thread": "Your still hands made no sound, and your moving hands did. The chana, the bell and the crow were the same: each sound came from something moving. Everything that moves is aware in its own way, the chana and the bottle too. Many scientists disagree: they say only beings with nerves are aware.",
+  "thread": "In Still hands, moving hands, your still hands made no sound, and your moving hands did. The chana, the bell and the crow were the same: each sound came from something moving. Everything that moves is aware in its own way, the chana and the bottle too. Many scientists disagree: they say only beings with nerves are aware.",
   "teachings": [
    {
     "source": "Hakuin Ekaku, a Zen teacher in Japan (1686 to 1769), who gave this question to his students",
     "teaching": "Two hands clap, and there is a sound. What is the sound of one hand?",
-    "link": "In the Body Band, a clap came only when two hands moved and met. Hakuin asked this question to make his students stop and listen deeply. It has no quick answer."
+    "link": "In My Body Band, a clap came only when two hands moved and met. Hakuin asked this question to make his students stop and listen deeply. It has no quick answer."
    },
    {
     "source": "Hatha Yoga Pradipika, chapter 4, on listening to nada, the inner sound",
     "teaching": "Sit still and listen closely. The text says the sounds you hear at first are loud, like the sea or drums. As you keep listening, they grow finer, like a flute or a humming bee.",
-    "link": "In the listening minute, you heard the loud sounds first. The longer you stayed still, the more soft sounds you noticed."
+    "link": "In One Minute of Listening, you heard the loud sounds first. The longer you stayed still, the more soft sounds you noticed."
    }
   ],
   "science": [
@@ -1939,7 +1939,7 @@
    "kid": "Close your eyes. Hold your hands still. Now rub them slowly. Listen. Now rub them fast. Now stop. Listen to the quiet."
   },
   "ask": [
-   "Your still hands made no sound, and your rubbing hands did. Was the sound in your hands, or in the rubbing?",
+   "In Still hands, moving hands, your still hands made no sound, and your rubbing hands did. Was the sound in your hands, or in the rubbing?",
    "If everything in the world stopped moving, what would you hear?",
    "When you hear a crow, you know a crow is there and calling. What else can a sound tell you?"
   ],

@@ -90,7 +90,7 @@
    "concept": "Leaves make food from sunlight",
    "status": "defined",
    "definition": "Green leaves catch sunlight. They use the light to make food for the plant, from air and water.",
-   "description": "A plant does not eat the way humans and other animals do. A plant makes their own food in the leaves. The leaf takes in air through tiny holes, and water comes up from the roots. Using sunlight, the leaf makes sugar from the air and the water. That sugar is the plant's food. Most leaves are flat and thin, to catch lots of light. The lines on a leaf are veins, and they carry water in and food out.",
+   "description": "A plant does not eat the way humans and other animals do. Plants make their own food in their leaves. The leaf takes in air through tiny holes, and water comes up from the roots. Using sunlight, the leaf makes sugar from the air and the water. That sugar is the plant's food. Most leaves are flat and thin, to catch lots of light. The lines on a leaf are veins, and they carry water in and food out.",
    "examples": [
     "Hold a palak leaf up to a window. You can see the veins as a pattern of branching lines.",
     "A lotus leaf is big and round. The lotus leaf floats flat on a pond, facing the sky.",
@@ -144,7 +144,7 @@
     },
     {
      "who": "Many other plant scientists",
-     "explanation": "Roots respond automatically to gravity, water and touch. They describe this with words like 'response', not 'choice'."
+     "explanation": "Roots respond automatically to gravity, water and touch. These scientists use words like 'response', not 'choice'."
     }
    ],
    "context": "This card is about whether roots feel the soil and choose where to grow.",
@@ -184,7 +184,7 @@
   },
   {
    "claim": "Plants eat soil through their roots.",
-   "who": "An old idea that the Greek thinker Aristotle wrote about, and many people still think",
+   "who": "An old idea that the Greek thinker Aristotle wrote about, and that many people still believe",
    "for": "Plants grow in soil, and they die if the soil dries out.",
    "against": "Roots drink water and take in tiny amounts of minerals from the soil. But most of a plant's body is made from food the leaves make, from air and water. A big tree in a pot uses up very little of the soil.",
    "status": "rejected",
@@ -193,7 +193,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your sprouts held on to the cloth. Did the roots hold the cloth, or did the cloth hold the roots?",
+   "q": "In the Sprouts Hold On experiment, the moong sprouts held on to the cloth. Did the roots hold the cloth, or did the cloth hold the roots?",
    "kind": "deep",
    "hint": "Think about what happened when you turned the cloth over, and when you tried to pull one sprout off."
   },
@@ -203,7 +203,7 @@
    "hint": "Think about what would happen to a plant with no roots, or with no leaves."
   },
   {
-   "q": "A plant stays in one place all their life. How is a plant's life different from yours?",
+   "q": "Plants stay in one place all their lives. How is a plant's life different from yours?",
    "kind": "big",
    "hint": "Think about how you get food and water, and how a plant gets food and water."
   },
@@ -433,7 +433,7 @@
     "On your turn, ask one player for a card you need, by plant and part: 'Do you have the lotus stem?'",
     "If they have the card, they give it to you, and you ask again. If not, take one card from the pile, and your turn ends. If you have no cards on your turn, take one from the pile.",
     "When you have all six parts of one plant, lay them down in a line, from the roots at the bottom to the seeds at the top. Someone reads out the back of each card.",
-    "If the pile runs out, keep asking; if they do not have the card, your turn just ends. The game ends when all four plants are laid down. The player with the most plants wins. If players have the same, they all win."
+    "If the pile runs out, keep asking for cards. If the other player does not have the card, your turn ends. The game ends when all four plants are laid down. The player with the most plants wins. If players have the same number of plants, they all win."
    ],
    "flow": [
     {
@@ -441,7 +441,7 @@
      "mins": 6,
      "do": "1. Read each card to your child. 2. Draw a small picture on each card that has no photo: you do the roots and stems, your child does the rest. 3. Mix the cards and deal 5 to each player.",
      "say": "Each card is one part of a plant. Let's draw the ones with no picture. You draw the coconut, I'll draw the roots.",
-     "kid": "Draw a little part on each card with no photo. A mango. A brinjal seed."
+     "kid": "Draw the plant part on each card with no photo, like a mango or a brinjal seed."
     },
     {
      "id": "s2",
@@ -451,7 +451,7 @@
      "kid": "Ask for a card you need. Say the plant and the part.",
      "ask": [
       {
-       "q": "You laid down the whole lotus. Which lotus part is under the water, in the mud?",
+       "q": "You laid down the whole lotus. Which lotus parts are under the water, in the mud?",
        "good": [
         "The roots, and the stem too. The lotus stem grows along the mud."
        ]
@@ -635,7 +635,7 @@
    "context": "In this experiment you grow moong sprouts on a cotton cloth and on a smooth steel plate. After two days you turn both upside down and count which sprouts hold on.",
    "question": "Moong sprouts grow on a cloth and on a steel plate. When we turn them upside down, which sprouts will hold on?",
    "predict": "Guess first. We will turn the cloth and the plate upside down. Will the sprouts on the cloth hold on, or fall off? What about the sprouts on the plate? Why do you think so?",
-   "fair_test": "Both get the same moong, soaked the same night, the same water and the same place in the kitchen. Only the thing under the seeds is different: a cotton cloth or a bare steel plate.",
+   "fair_test": "The cloth and the plate both get the same moong, soaked on the same night, the same water and the same place in the kitchen. Only the thing under the seeds is different: a cotton cloth or a bare steel plate.",
    "results_table": [
     "Where the sprouts grew",
     "How many sprouts",
@@ -681,15 +681,15 @@
     {
      "day": 3,
      "mins": 1,
-     "what": "Sprinkle a few drops of water on both, morning and evening. Peep at the roots."
+     "what": "Sprinkle a few drops of water on the cloth and on the bare plate, morning and evening. Peep at the roots."
     },
     {
      "day": 4,
      "mins": 11,
-     "what": "Turn both upside down over a bowl. Count the sprouts that hold on. Look under the cloth. Say what you saw."
+     "what": "Turn the cloth and the bare plate upside down over a bowl. Count the sprouts that hold on. Look under the cloth. Say what you saw."
     }
    ],
-   "record": "Draw the cloth and the plate after you turned them over. Draw the sprouts that held on. Write or say the two numbers.",
+   "record": "Draw the cloth and the plate after you turned them over. Draw the sprouts that held on. Write or say how many sprouts held on to the cloth, and how many held on to the plate.",
    "flow": [
     {
      "id": "s1",
@@ -728,10 +728,10 @@
     {
      "id": "s4",
      "mins": 1,
-     "do": "Twice a day, lift the covers and sprinkle a few drops of water on both. Peep at the roots together.",
+     "do": "Twice a day, lift the covers and sprinkle a few drops of water on the cloth and on the bare plate. Peep at the roots together.",
      "say": "Let's give the seeds a little water. Can you see any roots yet?",
      "kid": "Sprinkle a little water. Look for roots.",
-     "wait": "Leave the seeds for two days. Sprinkle a little water on both, morning and evening.",
+     "wait": "Leave the seeds for two days. Sprinkle a little water on the cloth and on the bare plate, morning and evening.",
      "parent": "White roots come out of the seeds in about one day. In a cold room, it can take one more day. Keep both damp, but not sitting in deep water."
     },
     {
@@ -739,7 +739,7 @@
      "mins": 6,
      "do": "1. Lift off the covers. 2. Tip any extra water off the bare plate into the sink. 3. Hold the plate with the cloth over a big bowl. 4. Turn the cloth and plate upside down, slowly, and tap the plate edge once. 5. Do the same with the bare plate. 6. Count how many sprouts stayed on each.",
      "say": "Now we turn them over. Watch closely. Count how many sprouts hold on.",
-     "kid": "Watch. Turn them over. Count the sprouts that hold on.",
+     "kid": "Turn the cloth and the plate over. Count the sprouts that hold on.",
      "adult": false,
      "ask": [
       {
@@ -755,7 +755,7 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "1. Turn the cloth over and look at the underside together. 2. Let your child gently pull one sprout off the cloth. 3. Ask your child what they think, what they saw and why.",
+     "do": "1. Turn the cloth over and look at the underside together. 2. Let your child gently pull one sprout off the cloth. 3. Ask your child what they saw, and why they think it happened.",
      "say": "Look under the cloth. What can you see? Now pull one sprout very gently. What do you feel?",
      "kid": "Look under the cloth. Pull one sprout gently. What do you feel?",
      "ask": [
@@ -860,7 +860,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Spread the newspaper on the floor. 2. Take one coriander plant out of the bunch. 3. Lay the plant down on the paper.",
-     "say": "This is one whole coriander plant. Where do you think the plant was in the soil?",
+     "say": "This is one whole coriander plant. Which end of the plant do you think was in the soil?",
      "kid": "Look at this whole plant. Which end was in the soil?",
      "parent": "Many markets sell coriander with the roots on. If the roots are cut off, use methi, palak or spring onions with roots. A small weed from a pot crack also works."
     },
@@ -1434,7 +1434,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the cloth from your sprout test after you turned the cloth upside down. Draw the sprouts that held on.",
+     "p": "In the sprout test, you grew moong sprouts on a cloth and turned the cloth upside down. Draw the cloth, and the sprouts that held on.",
      "a": "A cloth with most of the sprouts still hanging on it, and roots going into the cloth.",
      "why": "A strong drawing shows the sprouts hanging under the cloth, and roots going into it.",
      "how": "e1",
@@ -1490,25 +1490,25 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: a banyan tree sends roots down from the branches. What do you think those roots are for?",
+     "p": "A banyan tree sends roots down from the branches. What do you think those roots are for? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "They go into the ground and hold the branches up like pillars, and they drink water too.",
      "why": "A strong answer says the new roots hold up the heavy branches, like pillars, and can drink like other roots."
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and her brother Hari look at the tulsi plant on their balcony in Madurai.",
+     "p": "Two children look at a tulsi plant on a balcony.",
      "views": [
       {
-       "who": "Lakshmi, aged 7",
+       "who": "The first child",
        "says": "The roots are the most important part. They hold the plant and drink the water."
       },
       {
-       "who": "Hari, aged 5",
+       "who": "The second child",
        "says": "The leaves are the most important part. They make the food."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
+     "ask": "Which child do you agree with? Why? Then say one thing the other child has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, then sees that the other is right too. The roots need food from the leaves, and the leaves need water from the roots. A plant needs both.",
      "why": "Each part does a job the others cannot do. The parts need each other."
@@ -1572,7 +1572,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the moong cup on day 14, after you tipped the soil out. Draw the roots.",
+     "p": "In the Roots in a Clear Cup project, you tipped the soil out of the moong cup on day 14. Draw the lump of soil and the roots.",
      "a": "A lump of soil in the shape of the cup, with white roots round the outside.",
      "why": "A strong drawing shows the roots wrapped round the lump, holding the soil together.",
      "how": "p1",
@@ -1694,7 +1694,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anu, a girl in Kochi, has a brinjal plant. It fell over in a storm, and some roots broke. Later that day the leaves drooped. Why?",
+     "p": "In the story The Night the Brinjal Fell, Anu's brinjal plant fell over in a storm, and some roots broke. Later that day the leaves drooped. Why?",
      "opts": [
       "The leaves got less water",
       "The leaves got too much light",
@@ -1806,7 +1806,7 @@
   },
   {
    "t": "mcq",
-   "p": "A plant loses most of their roots. What will happen to the leaves?",
+   "p": "A plant loses most of the roots. What will happen to the leaves?",
    "opts": [
     "They will grow bigger",
     "They will droop, because less water reaches them",
@@ -1889,7 +1889,7 @@
   "If you were a plant, which part would you like to be? Why?",
   "On the way out, can you find a plant growing in a crack? How is the plant holding on?",
   "What would happen to a tree with no roots in a storm?",
-  "Where do you think the roots of that tall tree go?",
+  "Where do you think the roots of a tall tree go?",
   "What do you think the roots feel under the ground?"
  ],
  "jokes": [
@@ -1932,7 +1932,7 @@
  ],
  "maths": [
   {
-   "problem": "Shreya did the sprout test. On the cloth, 9 sprouts held on. On the bare plate, 2 sprouts held on. How many more sprouts held on to the cloth?",
+   "problem": "In the sprout test, 9 sprouts held on to the cloth. 2 sprouts held on to the bare plate. How many more sprouts held on to the cloth?",
    "answer": "7 more sprouts held on to the cloth.",
    "explain": "Start at 2 and count on to 9: 3, 4, 5, 6, 7, 8, 9. That is 7 more. The cloth held more sprouts because the roots could grow into the cloth.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1941,16 +1941,16 @@
    "why_maths": "Finding the difference shows how much the cloth helped the roots hold on."
   },
   {
-   "problem": "In the Six Parts, One Plant game, Kavya, a girl in Class 1, has 4 lotus cards. A whole plant needs 6 cards. How many more lotus cards does she need?",
+   "problem": "In the Six Parts, One Plant game, you have 4 lotus cards. A whole plant needs 6 cards. How many more lotus cards do you need?",
    "answer": "2 more cards.",
-   "explain": "4 and 2 make 6. So she needs 2 more lotus cards to have the whole lotus plant.",
+   "explain": "4 and 2 make 6. So you need 2 more lotus cards to have the whole lotus plant.",
    "math_unit": "math.addition-subtraction.number-facts.L1",
    "how": "g1",
    "context": "This is about the card game where players collect all six parts of one plant.",
-   "why_maths": "Knowing that 4 and 2 make 6 tells Kavya how many parts are still missing."
+   "why_maths": "Knowing that 4 and 2 make 6 tells you how many parts are still missing."
   },
   {
-   "problem": "On day 8 of the moong cup project, Ritu, a girl in Class 1, measured three moong plants with her finger widths. One was 3 fingers tall, one was 5 fingers tall and one was 4 fingers tall. Put them in order, from the shortest to the tallest.",
+   "problem": "On day 8 of the moong cup project, three moong plants are measured in finger widths. One is 3 fingers tall, one is 5 fingers tall and one is 4 fingers tall. Put them in order, from the shortest to the tallest.",
    "answer": "3 fingers, 4 fingers, 5 fingers.",
    "explain": "3 is less than 4, and 4 is less than 5. So the order is 3, 4, 5. The plants came from the same packet of moong, but they did not all grow the same.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -2084,18 +2084,18 @@
   ]
  },
  "roots": {
-  "context": "We have found the six parts of a plant and the job each one does. Now we ask what the sprouts on the cloth tell us about how a plant and the ground belong together.",
+  "context": "You have found the six parts of a plant and the job each one does. This part is about what the Sprouts Hold On experiment shows: a plant holds on to the ground by growing into the ground.",
   "deep_truth": {
-   "truth": "Our moong sprouts held on to the cloth when we turned it over. Their roots had grown down into the gaps between the threads. In a pot, roots grow into the gaps between bits of soil in the same way. So a plant holds on by growing into the ground, and the ground holds the plant.",
+   "truth": "In the Sprouts Hold On experiment, the moong sprouts held on to the cloth when we turned the cloth over. Their roots had grown down into the gaps between the threads. In a pot, roots grow into the gaps between bits of soil in the same way. So a plant holds on by growing into the ground, and the ground holds the plant.",
    "habit": "We picture a plant standing in the soil like a stick pushed into sand, which pulls straight out. But a plant grows into the soil, and the roots and the soil end up wrapped together. The plant and the ground hold each other.",
    "evidence": "In the sprout test, most sprouts on the cloth held on upside down, and root tips poked through the cloth. Most sprouts on the smooth plate fell off. In the moong cup project, the soil with roots came out in one lump, but bare soil crumbled."
   },
   "three": {
    "who_am_i": "You have parts that work together too. Your feet hold you up, and your mouth takes in food and water for your whole body.",
-   "what_is_life": "A plant's life is all the parts working for the whole. The roots drink for the leaves, and the leaves make food for the roots.",
+   "what_is_life": "A plant stays alive because all the parts work for the whole plant. The roots drink for the leaves, and the leaves make food for the roots.",
    "what_is_this_world": "Under every city street and park, roots are holding the soil together and holding the trees up."
   },
-  "thread": "A plant begins as one small seed. From that one seed grow roots, a stem, leaves, flowers, fruits and new seeds. Each part looks different and does a different job, yet they are all one plant. The roots feel the soil and choose where to grow, and the leaves feel the light. Together they keep one life going.",
+  "thread": "A plant begins as one small seed. From that one seed grow roots, a stem, leaves, flowers, fruits and new seeds. Each part looks different and does a different job, yet they are all one plant. The roots feel the soil and choose where to grow, and the leaves feel the light. Together they keep the plant alive.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.1",
@@ -2105,7 +2105,7 @@
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each one returns to their root. Returning to the root is called stillness.",
-    "link": "The Tao Te Ching uses the root as a picture of the quiet place that things grow from. A plant's roots are out of sight and quiet, yet they hold the plant and drink for them every day."
+    "link": "The Tao Te Ching uses the root as a picture of the quiet place that things grow from. A plant's roots are out of sight and quiet, yet they hold the plant and drink water for the plant every day."
    }
   ],
   "science": [
@@ -2130,17 +2130,17 @@
   },
   "ask": [
    "If roots could tell us what they feel under the ground, what do you think they would say?",
-   "Your sprouts held on to the cloth. What else do you think roots might hold on to?",
+   "In the Sprouts Hold On experiment, the sprouts held on to the cloth. What else do you think roots might hold on to?",
    "Is there one part of a plant that matters most, or do they all matter?"
   ],
   "art": "A child standing barefoot on a floor with eyes closed and arms out like branches, and faint roots drawn spreading down from their feet."
  },
  "how_we_found_out": {
-  "context": "Do trees under the ground live alone, or do their roots help each other? This card tells the true story of how one scientist tested it.",
+  "context": "Under the ground, does each tree live alone, or do the roots of different trees help each other? This card tells the true story of how one scientist tested it.",
   "story": "In the forests of Canada, people who planted trees used to cut down the birch trees that grew among young fir trees. They thought the birch trees took water and light from the firs. They believed each tree lived alone and only fought for their own share. Suzanne Simard grew up in those forests, in a family who had cut trees there for years. She became a forest scientist. She had seen that young firs often did worse after the birch trees were cut. So she tested what happens under the ground. She covered young birch and fir trees with plastic bags. Into the bags she put air with a specially marked kind of carbon, which the trees used to make their food. Later, she tested the other trees for the marked carbon. Some food made by the birch trees had reached the firs. It had travelled through their roots, and through thin threads of fungi that join the roots of many trees. In 1997 she published her results in the science journal Nature. Other scientists still argue about how much food trees really share this way.",
   "who": "Suzanne Simard, a forest scientist from Canada, and her team",
   "when": "The 1990s; published in 1997",
-  "wrong_idea": "That each tree lives alone under the ground, so cutting down the birch trees would always help the firs grow. Simard's marked carbon showed that some food passes between trees through roots and fungi. How much, and how much it matters, is still argued about.",
+  "wrong_idea": "People thought that each tree lives alone under the ground, so cutting down the birch trees would always help the firs grow. Simard's marked carbon showed that some food passes between trees through roots and fungi. Scientists still argue about how much food passes, and how much it matters.",
   "art": "A young birch tree and a young fir tree side by side, each covered with a clear plastic bag, with roots and thin fungus threads drawn joining them under the soil."
  },
  "playtest": "Walked through every card, game, experiment, activity, project, worksheet and the story as a parent and a six-year-old in a city flat would. Fixed: both games now say who plays and reads with 2 and with 3 or 4 players, what happens with an empty hand or an empty pile, and which cards need a drawn picture; the coconut seed card now says what is really inside; the leaf rubbing says which side faces up; the moong cup is watered until damp; the rice challenge asks the child to compare no roots with roots and to change the roots only if they like; the repeated sprout question in the core worksheet is now a new banyan-root question; made-up names are introduced where they first appear; the maths answer reads cleanly; the doubled story note, the internal song note and the video entries still need real, checked links (the validator requires 3)."

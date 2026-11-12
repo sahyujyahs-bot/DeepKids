@@ -50,7 +50,7 @@
    "concept": "A sound travels from its source to your ears",
    "status": "defined",
    "definition": "A sound starts at its source. It travels through the air until it reaches your ears. Then you hear it.",
-   "description": "When you tapped the tumbler, it shook very fast. It pushed the air next to it. That air pushed the air next to it, and so on, all the way to your ears. You cannot see this, but you hear the result. A sound can also travel through a wall, so you can hear the neighbour's mixie.",
+   "description": "When the spoon tapped the tumbler, the tumbler shook very fast. It pushed the air next to it. That air pushed the air next to it, and so on, all the way to your ears. You cannot see this, but you hear the result. A sound can also travel through a wall, so you can hear the neighbour's mixie.",
    "examples": [
     "The cooker's whistle travelling from the kitchen to the bedroom",
     "A koel's call travelling from a tree to your window",
@@ -151,7 +151,7 @@
  ],
  "big_questions": [
   {
-   "q": "When the finger rub was too far away to hear, was there still a sound in the room?",
+   "q": "In the Walk Away test, when the finger rub was too far away to hear, was there still a sound in the room?",
    "kind": "deep",
    "hint": "The fingers were still rubbing. Could someone closer still hear it? Could an ant or a cat?"
   },
@@ -243,7 +243,7 @@
    "context": "In this experiment a grown-up makes three different sounds. You walk away, one step at a time, until you cannot hear each one any more. You mark the spot for each sound and see which one travels furthest.",
    "question": "Does every sound travel the same distance before you stop hearing it? And does a hard crinkle travel further than a gentle one?",
    "predict": "The grown-up will rub fingers, crinkle a plastic bag and tap a spoon on a steel tumbler. Which sound will you hear from furthest away? Which will fade first? Why do you think so?",
-   "fair_test": "The grown-up stays on the same spot and holds each sound at the same height, next to their shoulder. They make each sound the same way each time. You take the same small steps, one heel touching the other toe, and you close your eyes before each sound.",
+   "fair_test": "The grown-up stays on the same spot and makes each sound at the same height, next to their shoulder. They make each sound the same way each time. You take the same small steps, with the heel of one foot touching the toes of the other, and you close your eyes before each sound.",
    "results_table": [
     "Sound",
     "My guess: near, middle or far?",
@@ -345,7 +345,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Your child comes back to your side. 2. Do the same with the bag, crinkled gently. 3. Then with the spoon tapped gently on the tumbler. 4. Put a chappal where each sound faded.",
-     "say": "Now the bag, crinkled gently. Same rules. Close your eyes, say yes, and step back. Now the tumbler.",
+     "say": "Now I will crinkle the bag gently. The rules are the same: close your eyes, say yes if you hear it, and step back. After the bag, we do the tumbler.",
      "kid": "Now the bag. Then the tumbler. Step back each time you hear it.",
      "ask": [
       {
@@ -388,7 +388,7 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Look at the three chappals together. 2. Count the steps to each one. 3. Ask your child to tell you three things, and write them in their words.",
+     "do": "1. Look at the three chappals together. 2. Count the steps to each one. 3. Ask your child what they think now, what they heard, and why they think it happened. Write the answers in their words.",
      "say": "Look at our chappals. Which sound went furthest? Tell me what you think now, what you heard, and why you think it happened.",
      "kid": "Look at the chappals. Which sound went furthest? Why?",
      "parent": "A strong answer sounds like this. 'The fingers faded first and the tumbler went furthest. Far away, the sounds got softer. A big sound can travel further before it fades.' Later you can add: the sound spreads out to every side, so less of it reaches you far away."
@@ -462,7 +462,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Your child stands far away, at the spot where a quiet voice is only just clear. 2. Ask them to guess which way will be clearest, and why.",
-     "say": "I will say some words three ways: no cone, cone at you, and cone at the wall. Which will be clearest? Why?",
+     "say": "I will say some words three ways: with no cone, with the cone pointing at you, and with the cone pointing at the wall. Which way will be clearest? Why?",
      "kid": "Which way will you hear best? Why do you think so?",
      "ask": [
       {
@@ -479,7 +479,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Say a short sentence quietly with no cone. 2. Say a new sentence the same way through the cone, pointing at your child. 3. Say a third sentence with the cone pointing at the side wall. 4. Each time, your child says what they heard.",
-     "say": "Listen. Tell me the words you heard. Was it clear, a little, or not at all?",
+     "say": "Listen. Tell me the words you heard. Did you hear them clearly, a little, or not at all?",
      "kid": "Listen. Say the words you heard. Was it clear?",
      "ask": [
       {
@@ -495,7 +495,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child to tell you three things. Write them down in their words.",
+     "do": "Ask your child what they think now, what they heard, and why they think the cone helped. Write the answers down in their words.",
      "say": "What do you think now? What did you hear? Why do you think the cone helped?",
      "kid": "Say what you think. Say what you heard. Say why.",
      "check": {
@@ -687,7 +687,7 @@
    "title": "Be the Air: pass the sound along",
    "mins": 8,
    "days": 1,
-   "context": "In this act-out, the family stands in a line from a drum to an ear. Each person passes a gentle tap to the next, the way the air passes a sound along, until it reaches the ear at the end.",
+   "context": "In this act-out, the family stands in a line from a steel plate to a paper ear on the wall. Each person passes a gentle tap to the next, the way the air passes a sound along, until it reaches the ear at the end.",
    "materials": [
     {
      "item": "2 or more people, and a steel plate or a box to be the drum",
@@ -702,10 +702,10 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Stand in a line and pass a tap from the drum to the ear, the way air passes a sound along."
+     "what": "Stand in a line and pass a tap from the steel plate to the paper ear, the way air passes a sound along."
     }
    ],
-   "record": "Draw your family in a line, with a drum at one end and a big ear at the other. Draw arrows from each person to the next.",
+   "record": "Draw your family in a line, with a steel plate at one end and a big ear at the other. Draw arrows from each person to the next.",
    "setup": [
     {
      "art": "A girl at one end of a line of three family members, tapping a steel plate, and a big paper ear taped to the wall at the other end.",
@@ -720,7 +720,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw a big ear on a paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.",
+     "do": "Draw a big ear on a sheet of paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.",
      "say": "The plate is the sound source. The paper is an ear. We are the air in between.",
      "kid": "The plate makes the sound. The paper is an ear. We are the air.",
      "parent": "With only two people, you tap the plate and your child is the air. They pass the tap on to the paper ear."
@@ -804,10 +804,10 @@
     "Cut out the cards and put them face down.",
     "The whisperer stands at one end of the room or the hallway.",
     "The walkers stand at the far end, next to each other.",
-    "The whisperer picks a card and whispers the word. A child who cannot read yet gets the word whispered to them by a grown-up first.",
+    "The whisperer picks a card and whispers the word. If the whisperer cannot read yet, a grown-up reads the card and whispers the word to them first.",
     "If no walker can hear it, every walker takes one step closer, and the whisperer whispers the same word again.",
     "The first walker to say the word right keeps the card.",
-    "Everyone goes back to the far end for the next card, and the next person becomes the whisperer. When the 6 cards run out, the most cards wins. If the cards are level, everyone wins."
+    "Everyone goes back to the far end for the next card, and the next person becomes the whisperer. When the 6 cards run out, the player with the most cards wins. If players have the same number of cards, everyone wins."
    ],
    "setup": [
     {
@@ -878,15 +878,15 @@
      "title": "10 Who Hears It Louder cards",
      "items": [
       {
-       "f": "A temple bell rings. Meena stands next to the bell. Her friend is at the end of the street. Who hears it louder?",
-       "b": "Meena. She is close, so more of the sound reaches her."
+       "f": "A temple bell rings. You stand next to the bell. Your friend is at the end of the street. Who hears it louder?",
+       "b": "You do. You are close, so more of the sound reaches you."
       },
       {
-       "f": "The cooker whistles in the kitchen. Arjun is in the bedroom. Can he hear it?",
+       "f": "The cooker whistles in the kitchen. You are in the bedroom. Can you hear it?",
        "b": "Yes. The whistle travels through the air, out of the kitchen door, to the bedroom."
       },
       {
-       "f": "Kavya's grandmother claps behind Kavya's back. Can Kavya hear the clap?",
+       "f": "Someone claps behind your back. Can you hear the clap?",
        "b": "Yes. A sound spreads out to every side, so it reaches you from behind too."
       },
       {
@@ -894,12 +894,12 @@
        "b": "The thunder, a little later. The sound takes time to travel to you."
       },
       {
-       "f": "Lakshmi whispers to Farhan from across a big room. He can't hear. What can he do?",
+       "f": "A friend whispers to you from across a big room. You can't hear the whisper. What can you do?",
        "b": "Come closer. A whisper fades as it travels, so it is easier to hear close by."
       },
       {
-       "f": "Riya calls through a paper cone. Should the wide end point at her friend, or at the floor?",
-       "b": "At her friend. The cone sends more of the sound out of the wide end."
+       "f": "You call to a friend through a paper cone. Should the wide end point at your friend, or at the floor?",
+       "b": "At your friend. The cone sends more of the sound out of the wide end."
       },
       {
        "f": "A koel calls from a tree far away, and another koel calls just outside the window. Both calls are equally loud to start with. Which call sounds louder to you?",
@@ -907,14 +907,14 @@
       },
       {
        "f": "A boy rides his cycle down the lane towards your door, ringing his bell. Does the bell get louder or softer as he comes closer?",
-       "b": "Louder. Each step he comes closer, the sound has less far to travel."
+       "b": "Louder. The closer he comes, the less far the sound has to travel."
       },
       {
        "f": "The neighbour's mixie is running behind the wall. Can you hear it?",
        "b": "Yes. Sound can travel through walls, as well as through air."
       },
       {
-       "f": "Ammu stands round the corner of a door. Amma rings a bell in the room. Can Ammu hear it?",
+       "f": "You stand round the corner of a door. Someone rings a bell in the room. Can you hear it?",
        "b": "Yes, a little softer. The sound spreads out through the doorway and round the corner."
       }
      ]
@@ -924,8 +924,8 @@
     "Shuffle the cards and put them face down.",
     "A grown-up reads the top card out loud. The players take turns to answer.",
     "The player whose turn it is answers, and gives a reason. Then they act it out if they can: ring, clap, whisper or whistle.",
-    "The grown-up turns the card and reads the answer. A good answer with a reason keeps the card. If not, the card is put aside.",
-    "The game ends when all 10 cards have been read. The most cards wins. If the cards are level, everyone wins. With one player, keep as many of the 10 cards as you can, then play again and try to beat your score."
+    "The grown-up turns the card and reads the answer. If the player's answer is right and has a reason, the player keeps the card. If not, the card is put aside.",
+    "The game ends when all 10 cards have been read. The player with the most cards wins. If players have the same number of cards, everyone wins. With one player, keep as many of the 10 cards as you can, then play again and try to beat your score."
    ],
    "setup": [
     {
@@ -1278,10 +1278,10 @@
      "t": "odd",
      "p": "Three of these people will hear the temple bell. One is too far away to hear it. Circle the one who is too far.",
      "opts": [
-      "Meena, standing by the bell",
-      "Her friend at the temple gate",
-      "Her aunt across the temple pond",
-      "Her cousin in another town"
+      "A child standing by the bell",
+      "A child at the temple gate",
+      "A child across the temple pond",
+      "A child in another town"
      ],
      "a": 3,
      "why": "The bell's sound spreads out and gets softer as it travels. In another town, it is far too soft to hear. The others are close enough.",
@@ -1289,7 +1289,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya wants her grandmother on the balcony to hear her. Three children have ideas.",
+     "p": "You want your grandmother on the balcony to hear you. Three children have ideas.",
      "views": [
       {
        "who": "Lakshmi, aged 7",
@@ -1335,7 +1335,7 @@
     },
     {
      "t": "truefalse",
-     "p": "The finger rub was too far away to hear, so the sound had stopped.",
+     "p": "In the Walk Away test, the finger rub was too far away to hear, so the sound had stopped.",
      "a": "False",
      "why": "False. The fingers were still rubbing, so the sound was still being made. It had spread out so much that too little of it reached your ears.",
      "how": "e1"
@@ -1371,7 +1371,7 @@
     },
     {
      "t": "write",
-     "p": "Say it out loud, and a grown-up writes it down. You stood round the corner of the door and still heard the tumbler. How did the sound get to you?",
+     "p": "Say it out loud, and a grown-up writes it down. In All Around the Tumbler, you stood round the corner of the door and still heard the tumbler. How did the sound get to you?",
      "lines": 2,
      "how": "a1",
      "a": "The sound spread out to every side. Some of it went through the doorway and spread round the corner to me.",
@@ -1395,7 +1395,7 @@
     },
     {
      "t": "count",
-     "p": "In the Walk Away test, Meenakshi, a girl in Class 1, heard the finger rub for 3 steps and the crinkly bag for 7 steps. How many more steps did the bag travel?",
+     "p": "In the Walk Away test, a child heard the finger rub for 3 steps and the crinkly bag for 7 steps. How many more steps did the sound of the bag travel?",
      "a": 4,
      "how": "e1",
      "why": "Count on from 3 to 7: 4, 5, 6, 7. That is 4 more steps. The bag made a bigger sound, so it travelled further before it faded."
@@ -1413,7 +1413,7 @@
        "says": "The sound spreads out to every room, so less of it reaches the bedroom."
       }
      ],
-     "ask": "Who do you agree with? What did you see in your own tests that helps you decide? Then say what is good about the other idea.",
+     "ask": "Who do you agree with? What did you hear in the Walk Away test or The Paper Cone that helps you decide? Then say what is good about the other idea.",
      "lines": 3,
      "a": "Zoya's idea matches the tests. The sound spreads out to every side, so less of it reaches far away. Divya is right that far means soft, but sounds do not get tired. With a cone, which stops some of the spreading, a far voice sounds louder.",
      "why": "A strong answer uses evidence, like the cone test or the finger rub fading, and is fair to Divya: she noticed that far sounds are softer."
@@ -1543,7 +1543,7 @@
   },
   {
    "t": "mcq",
-   "p": "An ambulance siren is heard from far away. Why?",
+   "p": "Why can you hear an ambulance siren from far away?",
    "opts": [
     "It is a big sound to start with, so it can spread a long way and still be heard",
     "The siren sends its sound only to your ears",
@@ -1667,7 +1667,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Walk Away test, Lakshmi heard the finger rub for 3 steps, the crinkly bag for 6 steps, and the tumbler for 10 steps. Put the sounds in order, from the one that travelled least far to the one that travelled furthest.",
+   "problem": "In the Walk Away test, a child heard the finger rub for 3 steps, the crinkly bag for 6 steps, and the tumbler for 10 steps. Put the sounds in order, from the one that travelled least far to the one that travelled furthest.",
    "answer": "The finger rub (3 steps), then the bag (6 steps), then the tumbler (10 steps).",
    "explain": "3 is less than 6, and 6 is less than 10. So the finger rub went least far and the tumbler went furthest.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1676,7 +1676,7 @@
    "why_maths": "Putting the numbers in order shows at a glance which sound travelled furthest."
   },
   {
-   "problem": "Nila counted to 6 after the first lightning flash and to 3 after the second. Was the storm closer the first time or the second time? How many fewer did she count the second time?",
+   "problem": "In the story Ammamma's Paper Cone, Nila counted to 6 after the first lightning flash and to 3 after the second. Was the storm closer the first time or the second time? How many fewer did she count the second time?",
    "answer": "Closer the second time. She counted 3 fewer.",
    "explain": "A shorter count means the thunder had less far to travel, so the storm was closer. Count down from 6 to 3: 5, 4, 3. That is 3 fewer.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1685,16 +1685,16 @@
    "why_maths": "Comparing two counts tells you whether the storm is coming closer or going away."
   },
   {
-   "problem": "Zoya can hear the whisper from 2 steps away. Her brother is 5 steps away. How many steps must he walk to hear it?",
+   "problem": "In Whisper Walk, one walker can hear the whisper from 2 steps away. Another walker is 5 steps away. How many steps closer must the second walker come to hear it?",
    "answer": "3 steps.",
-   "explain": "He is at 5. He needs to get to 2. Count down from 5: 4, 3, 2. That is 3 steps.",
+   "explain": "The second walker is at 5 steps and needs to get to 2. Count down from 5: 4, 3, 2. That is 3 steps.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "g1",
    "context": "This is about Whisper Walk, where walkers step closer until they hear the word.",
    "why_maths": "Working out the difference tells you how much closer you must come before a soft sound reaches you."
   },
   {
-   "problem": "Look at your cooker map. Count the rooms you coloured red, yellow and blue. Which colour has the most rooms?",
+   "problem": "Look at the map you coloured in Where Can You Hear the Cooker? Count the rooms you coloured red, yellow and blue. Which colour has the most rooms?",
    "answer": "It depends on your home. For example: red 2 rooms, yellow 2 rooms, blue 1 room. Red and yellow are equal, and blue has the fewest.",
    "explain": "Count each colour and write the number. Then compare the numbers. The biggest number has the most rooms.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1771,14 +1771,14 @@
   }
  ],
  "roots": {
-  "context": "We have walked away from sounds, listened from behind a door and called through a paper cone. Now we ask what a travelling sound tells us about the world, and about ourselves.",
+  "context": "In the Walk Away test, you walked away from three sounds until each one faded. In All Around the Tumbler, you heard a tap from behind and from round a door. In The Paper Cone, a cone sent a voice one way. Here we look at what these tests show: one sound is shared among everyone around it.",
   "deep_truth": {
    "truth": "In All Around the Tumbler, one tap reached you in front, behind and round the door. The sound spread out to fill the whole room at once. Far away, it had spread over more space, so less of it reached you. So one sound is shared out among every place around it.",
    "habit": "We picture a sound going from one thing to one ear, like a ball thrown to a catcher. But a sound spreads out to every side, and every ear around it catches a share of the same sound.",
    "evidence": "In All Around the Tumbler, the same tap reached every spot in the room and round the door. In the Walk Away test, the same finger rub was clear close by and gone a few steps back, where its share had become too small to hear."
   },
   "three": {
-   "who_am_i": "You are a listener in one spot. Every sound you hear has travelled to that spot, from somewhere else, to reach you.",
+   "who_am_i": "You are a listener in one spot. Every sound you hear has travelled to that spot from somewhere else.",
    "what_is_life": "Many living beings send sounds across distances to stay together: a calf calling her mother, crows calling across the city, people calling each other home.",
    "what_is_this_world": "The world is full of sounds spreading out from many places at once, crossing each other in the air, reaching everyone a little differently."
   },
@@ -1786,13 +1786,13 @@
   "teachings": [
    {
     "source": "The Nyaya philosophers of India, as summed up by Vishvanatha in the Bhasha-pariccheda (17th century), in the verses on sound",
-    "teaching": "A sound makes the next sound next to it, and that one makes the next, until a sound reaches the ear. It spreads like ripples on a pond, one ring after another. Some teachers said it spreads like a kadamba flower, whose buds open on every side at once.",
+    "teaching": "Old thinkers taught that a sound makes another sound next to it, and that one makes the next, until a sound reaches the ear. They said it spreads like ripples on a pond, one ring after another. Some teachers said it spreads like a kadamba flower, whose buds open on every side at once.",
     "link": "In All Around the Tumbler, the tap reached you in front, behind and at the sides. In Be the Air, the tap was passed from person to person. These old thinkers described the same spreading and passing on, by thinking about ripples and flowers."
    },
    {
     "source": "The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too)",
     "teaching": "Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched.",
-    "link": "In Who Hears It Louder?, Meena by the bell heard a loud sound, and her friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears."
+    "link": "In Who Hears It Louder?, the person next to the temple bell heard a loud sound, and the friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears."
    }
   ],
   "science": [
@@ -1817,7 +1817,7 @@
   },
   "ask": [
    "When the finger rub was too far away for you, could someone closer still hear it? Was the sound loud or soft, then?",
-   "One bell, many listeners, each hearing it a little differently. Which one hears the real sound?",
+   "One bell rings, and many listeners each hear it a little differently. Which one hears the real sound?",
    "Where does a sound go after it has passed you?"
   ],
   "art": "A temple bell ringing in the middle, with rings of sound spreading out to a child close by, a grown-up across a pond, a crow on a roof and a dog far down a lane, each ring a little fainter."
