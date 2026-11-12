@@ -3,7 +3,7 @@
  "title": "Alike and different: how children get features from their parents",
  "level": 1,
  "summary": {
-  "text": "Peas from one pod are all green and round, like every pea from that plant. Yet no two of them are the same size. Children are like that too. A child gets their kind, and many features, from their parents, and still comes out as someone new. Your child opens pea pods to see what is alike and what is different, then looks at old family photos to find features passed down.",
+  "text": "Peas from one pod are all green and round, like every pea from that plant. Yet no two of them are the same size. Children are like that too. A child is the same kind of being as their parents and gets many features from them, and still comes out as someone new. Your child opens pea pods to see what is alike and what is different, then looks at old family photos to find features passed down.",
   "art": "A child sitting on a kitchen floor with an open pea pod in one hand and a row of green peas of different sizes on a white sheet, with a grandmother shelling peas beside her."
  },
  "intro": {
@@ -16,19 +16,19 @@
   "By the end I can say that children get features from their parents, and name some of mine.",
   "By the end I can say why brothers and sisters do not look exactly the same.",
   "By the end I can open pea pods and say what was alike and what was different about the peas.",
-  "By the end I can tell a feature I got from my parents from something that happened to me, like a cut or a haircut."
+  "By the end I can tell the difference between a feature I got from my parents and something that happened to me, like a cut or a haircut."
  ],
  "cards_mins": 8,
  "terms": [
   {
    "term": "Similar",
    "meaning": "Similar means alike in some way.",
-   "example": "You and your cousin are similar, because you both have curly hair.",
+   "example": "Two cousins who both have curly hair are similar in that way.",
    "art": "Two children side by side, both with curly hair, smiling."
   },
   {
    "term": "Feature",
-   "meaning": "A feature is one part of how a being looks or is, like hair, eyes, ears or the shape of a leaf.",
+   "meaning": "A feature is one thing about how a living being looks, like hair, eyes, ears or the shape of a leaf.",
    "example": "Curly hair is a feature. Big brown eyes are a feature. A dimple is a feature.",
    "art": "A child's face with three labels pointing at the hair, the eyes and a dimple."
   },
@@ -50,7 +50,7 @@
    "concept": "We are similar, and we are different",
    "status": "defined",
    "definition": "All people are alike in many ways, and each person is different in some ways.",
-   "description": "All people need food, water and air. We all have a heart and a brain. Most of us have two eyes, two ears and ten fingers. That is how we are alike. But look closely: hair can be curly or straight, and noses and ears have many shapes. Even twins who look the same are different in small ways. Humans are animals, and other animals are the same. Every crow on the wall is a crow, and no two crows are exactly alike.",
+   "description": "All people need food, water and air. We all have a heart and a brain. Most of us have two eyes, two ears and ten fingers. That is how we are alike. But look closely: hair can be curly or straight, and noses and ears have many shapes. Even twins who look the same are different in small ways. Humans are animals, and it is the same with other animals. Every crow on the wall is a crow, and no two crows are exactly alike.",
    "examples": [
     "At an Onam lunch, everyone eats from a banana leaf. Every hand that eats has five fingers, but no two hands are the same size.",
     "Your family photo from Pongal or Durga Puja shows many faces. Each face has eyes, a nose and a mouth, and each face is different.",
@@ -80,7 +80,7 @@
    "definition": "Brothers and sisters each get a different mix of features from their parents, and each grows in their own way.",
    "description": "Two things make children of the same parents different. First, each child gets a different mix of the parents' features. One sister may get Amma's nose, and her brother may get Appa's nose. Second, each child grows in their own place. Peas from one pod are very much alike, because they have the same parent plant. Yet each pea sat in their own spot in the pod, and some may have got more food than others. So they grew to different sizes. Identical twins start from one egg that split in two, and still their fingerprints are different.",
    "examples": [
-    "In the pod test, all the peas were green and round, but no two were the same size.",
+    "In the Pod Sisters and Brothers experiment, all the peas were green and round, but no two were the same size.",
     "Kittens from one mother cat can be black, ginger, white or patchy.",
     "Twin sisters who look the same can have a different number of moles, and different favourite foods."
    ],
@@ -157,7 +157,7 @@
   {
    "q": "How can a feature hide in a parent and then show up in a child?",
    "kind": "deep",
-   "hint": "Think of the short pea plants a monk named Gregor Mendel grew. They did not show in their children, and came back in the grandchildren."
+   "hint": "Think of the pea plants a monk named Gregor Mendel grew. When he crossed tall plants with short ones, the children were all tall. Short plants came back in the grandchildren."
   }
  ],
  "story": {
@@ -261,7 +261,7 @@
     "Draw Amma Gumbi and Appa Gumbi at the top of a sheet.",
     "Put the five feature cards in a pile. You need one coin.",
     "Take the top card. Toss the coin. Read the back of the card to see which feature the baby gets.",
-    "Write it on the record sheet. Do all five cards. That is one baby.",
+    "Write that feature in the baby's record box. Do all five cards. That is one baby.",
     "Draw the baby and give them a name.",
     "Make four babies. With more children, take turns, and each child makes one baby.",
     "Then put the drawings side by side. Are any two babies the same?"
@@ -287,12 +287,12 @@
      "do": "1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet.",
      "say": "These are two pretend creatures, Amma Gumbi and Appa Gumbi. They are going to have four babies. Each baby gets every feature from one parent or the other.",
      "kid": "Meet Amma Gumbi and Appa Gumbi. They will have four babies.",
-     "parent": "This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. The idea that a baby gets some features from each parent is true."
+     "parent": "This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. But the main idea is true: a baby gets some features from each parent."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes or draws that feature on the record sheet. 4. Do all five cards, then draw the whole baby.",
+     "do": "1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes or draws that feature in the baby's record box. 4. Do all five cards, then draw the whole baby.",
      "say": "Heads or tails? Heads, so this baby gets round ears, like Amma Gumbi. Next card. Toss again.",
      "kid": "Toss the coin. Find out which feature the baby gets. Draw it.",
      "ask": [
@@ -322,7 +322,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Four Gumbi babies have the same two parents. What did you find?",
+      "q": "In the Coin Babies game, four Gumbi babies had the same two parents. What did you find?",
       "options": [
        "All four babies were the same",
        "Each baby had a different mix of features",
@@ -498,7 +498,7 @@
      "kid": "Was any pair the same in every way?",
      "ask": [
       {
-       "q": "Were any two exactly the same?",
+       "q": "Was any pair on the cards exactly the same?",
        "good": [
         "No, even twins and the two peas were different.",
         "No, everything had something different."
@@ -732,7 +732,7 @@
      "what": "Look at family photos. Find features you share. Draw yourself and colour the shared features."
     }
    ],
-   "record": "A drawing of your face. Colour each feature in the colour of the person you got it from.",
+   "record": "A drawing of your face. Pick one colour for each person in your family. Colour each feature in the colour of the person you share it with.",
    "setup": [
     {
      "art": "A mother and a daughter sitting close together looking at an old photo album and a phone, comparing faces.",
@@ -776,7 +776,7 @@
        ]
       }
      ],
-     "parent": "Not every family finds one. That is fine. The point is to look closely and compare."
+     "parent": "Not every family finds a feature like this. That is fine. The point is to look closely and compare."
     },
     {
      "id": "s3",
@@ -843,7 +843,7 @@
      "mins": 4,
      "do": "Your child asks a grandparent or another older relative: who in the family has this feature? Write down the names for your child.",
      "say": "Ask your grandparent: who in our family has a dimple? Did anyone have one long ago?",
-     "kid": "Ask an elder: who in our family has it?",
+     "kid": "Ask an elder: who in our family has the feature you chose?",
      "parent": "Older relatives often love this question and remember features of people long gone. If no elder can be asked, use the family photos instead."
     },
     {
@@ -851,7 +851,7 @@
      "mins": 4,
      "do": "1. Draw three rows of circles: grandparents, parents, children. 2. Write a name by each circle for your child. 3. Your child colours everyone who has the feature.",
      "say": "Colour everyone who has the feature. Does it show in every row? Did it skip anyone?",
-     "kid": "Colour everyone who has it. Did it skip anyone?",
+     "kid": "Colour everyone who has the feature. Did the feature skip anyone?",
      "ask": [
       {
        "q": "Did the feature show on every person in the line?",
@@ -997,7 +997,7 @@
    ],
    "general": [
     "Make a list of each parent's features first. Your grown-up can write it for you. Then pick some from each list for every baby.",
-    "Give the first baby most features from Amma, the second most from Appa, and the third two from each.",
+    "Give the first baby most of their features from Amma, and the second baby most from Appa. Give the third baby two features from each parent.",
     "Draw the parents along the top and the babies below, with lines from each feature to the parent it came from."
    ],
    "creative": [
@@ -1085,7 +1085,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the peas from one of your pods in a row. Make each pea the size it really was.",
+     "p": "Draw the peas from one of your pods in the Pod Sisters and Brothers experiment, in a row. Draw each pea as big as the real pea was.",
      "a": "A row of peas of different sizes, all round.",
      "why": "A strong drawing shows that the peas from one pod were all round, but not all the same size.",
      "how": "e1"
@@ -1187,7 +1187,7 @@
      "t": "count",
      "p": "Count the peas in this pod. Do not count the tiny flat speck. Write the number.",
      "a": "6 peas, and one tiny flat speck that did not grow.",
-     "why": "There are 6 peas. The tiny speck is a pea that did not grow, so it is counted on its own.",
+     "why": "There are 6 peas. The tiny speck is a pea that did not grow, so the speck is counted separately.",
      "art": "An open pea pod with six round green peas of slightly different sizes and one tiny flat green speck at the end."
     }
    ]
@@ -1218,7 +1218,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down. Ammu has curly hair. Her Amma and her Appa both have straight hair. Where could Ammu's curls have come from?",
+     "p": "Say it to a grown-up, who writes it down. A girl has curly hair. Her Amma and her Appa both have straight hair. Where could her curls have come from?",
      "lines": 2,
      "a": "From a grandparent. A parent can pass on a feature that does not show on the parent.",
      "why": "A strong answer says the curls could come from someone in the family before her parents, passed on through a parent."
@@ -1273,7 +1273,7 @@
       "A puppy"
      ],
      "a": 1,
-     "why": "A mint plant grown from a stem has only one parent, so they are almost a copy of the parent. A kitten, a human baby and a puppy each have two parents and get a mix."
+     "why": "A mint plant grown from a stem has only one parent, so the new plant is almost a copy of the parent. A kitten, a human baby and a puppy each have two parents and get a mix."
     },
     {
      "t": "write",
@@ -1292,7 +1292,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down. Why did we open five pods, and not just one?",
+     "p": "Say it to a grown-up, who writes it down. In the Pod Sisters and Brothers experiment, why did you open five pods, and not just one?",
      "lines": 2,
      "a": "One pod could be unusual. Five pods show us if the pattern is true for many pods.",
      "why": "A strong answer says that more pods make the result more trustworthy.",
@@ -1342,14 +1342,14 @@
   },
   {
    "t": "mcq",
-   "p": "Gowri and her cousin Ravi were born on the same day. Are they the same in every way?",
+   "p": "Two cousins were born on the same day. Are they the same in every way?",
    "opts": [
     "Yes, in every way",
     "No, they are alike in some ways and different in others",
     "They are different in every way"
    ],
    "a": 1,
-   "why": "Gowri and Ravi are both people, with two eyes and a beating heart. But each has their own features. Being born on the same day does not make two people the same.",
+   "why": "The two cousins are both people, with two eyes and a beating heart. But each has their own features. Being born on the same day does not make two people the same.",
    "outcome": 0
   },
   {
@@ -1366,7 +1366,7 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi has curly hair, like her Appa. What can we say?",
+   "p": "A girl has curly hair, like her Appa. What can we say?",
    "opts": [
     "She inherited curly hair from her Appa",
     "She learned to have curly hair",
@@ -1378,7 +1378,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ayesha and her sister have the same Amma and Appa. Why do they look different?",
+   "p": "Two sisters have the same Amma and Appa. Why do they look different?",
    "opts": [
     "Each sister got a different mix of features from their parents",
     "Because one sister is older",
@@ -1427,7 +1427,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anu and Annapoorna are identical twins. They look nearly the same. Is anything different about them?",
+   "p": "Two girls are identical twins. They look nearly the same. Is anything different about them?",
    "opts": [
     "No, nothing at all",
     "Yes, small things, like their fingerprints and what they like",
@@ -1439,7 +1439,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rani had her long hair cut short. Will her children be born with short hair because of that?",
+   "p": "A woman had her long hair cut short. Will her children be born with short hair because of that?",
    "opts": [
     "Yes, they get her short hair",
     "No, a haircut happens after birth and is not passed on",
@@ -1531,12 +1531,12 @@
  ],
  "maths": [
   {
-   "problem": "Meera, a girl in Class 1, opened 5 pods. They held 6, 8, 5, 8 and 7 peas. Make a tally. Which number came most often?",
+   "problem": "Five pods held 6, 8, 5, 8 and 7 peas. Make a tally. Which number came most often?",
    "answer": "8 came most often. Two pods held 8 peas.",
    "explain": "6: one mark. 8: two marks. 5: one mark. 7: one mark. Two pods held 8 peas, so 8 has the most marks. The other numbers came once each.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "e1",
-   "context": "This is about the pod test, where you counted the peas in five pods.",
+   "context": "This is about the Pod Sisters and Brothers experiment, where you counted the peas in five pods.",
    "why_maths": "A tally shows at a glance that pods hold different numbers of peas."
   },
   {
@@ -1545,11 +1545,11 @@
    "explain": "8 take away 5 leaves 3. Both pods came from the same kind of plant, yet one held 3 more peas.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
-   "context": "This is about the pod test, where you counted the peas in each pod.",
+   "context": "This is about the Pod Sisters and Brothers experiment, where you counted the peas in each pod.",
    "why_maths": "Finding the difference shows how much two pods of the same kind can differ."
   },
   {
-   "problem": "Lalitha, a girl in Class 1, made 4 Gumbi babies in the Coin Babies game. Baby 1 had 3 eyes, baby 2 had 2 eyes, baby 3 had 2 eyes and baby 4 had 3 eyes. How many babies got Amma Gumbi's 3 eyes?",
+   "problem": "In the Coin Babies game, 4 Gumbi babies were made. Baby 1 had 3 eyes, baby 2 had 2 eyes, baby 3 had 2 eyes and baby 4 had 3 eyes. How many babies got Amma Gumbi's 3 eyes?",
    "answer": "2 babies.",
    "explain": "Baby 1 and baby 4 had 3 eyes, like Amma Gumbi. Baby 2 and baby 3 had 2 eyes, like Appa Gumbi. So half the babies got each parent's eyes this time.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1683,18 +1683,18 @@
   ]
  },
  "roots": {
-  "context": "We have opened pea pods and looked for features we share with our family. Now we ask what this tells us about ourselves.",
+  "context": "In the Pod Sisters and Brothers experiment we opened pea pods. In the Old Photos activity we looked for features we share with our family. Now we ask what this tells us about ourselves.",
   "deep_truth": {
-   "truth": "All the peas from our pods were round and green, like every pea from that plant. Yet no two peas were the same size, and the pods held different numbers. Children get their kind and many features from their parents. But no two children of the same parents come out the same.",
-   "habit": "We often say a child is a copy of a parent, or half of one and half of the other. The peas showed that children of one parent share their kind, and each still comes out new.",
-   "evidence": "In the pod test, every pea was round and green. No two peas were exactly the same size, and the five pods held different numbers of peas."
+   "truth": "In the Pod Sisters and Brothers experiment, all the peas were round and green, like every pea from a pea plant. Yet no two peas were the same size, and the pods held different numbers. Children are the same kind of being as their parents, and get many features from them. But no two children of the same parents come out the same.",
+   "habit": "We often say a child is a copy of a parent, or half of one and half of the other. In the Pod Sisters and Brothers experiment, the peas in one pod were all the same kind, and still each pea was a little different from the others.",
+   "evidence": "In the Pod Sisters and Brothers experiment, every pea was round and green. No two peas were exactly the same size, and the five pods held different numbers of peas."
   },
   "three": {
    "who_am_i": "You are a new mix of features from your family. Nobody ever had your exact mix before.",
    "what_is_life": "Every living being comes from parents of their own kind, and passes features on to their own young.",
    "what_is_this_world": "Every pea, kitten and child in the world is like their family, and also someone new."
   },
-  "thread": "Before you, there were your parents, and their parents, and theirs, going back a very long way. Each of them passed features on to their children. Each child was a new mix, and passed on a new mix again. In this way, one long family of life keeps making new beings, and each one is a new mix.",
+  "thread": "Before you, there were your parents, and their parents, and their parents before them, going back a very long way. Each of them passed features on to their children, and each child was a new mix. That is how life keeps making new beings who are like their family and are still someone new.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
@@ -1736,12 +1736,12 @@
  },
  "how_we_found_out": {
   "context": "People once thought a child was a blend of the parents, like mixed paint. This card tells the true story of how that idea was shown wrong, with pea plants.",
-  "story": "Long ago, most people thought a child was a blend of the two parents, like two colours of paint mixed together. A tall parent and a short parent should have a child in between. Gregor Mendel was a monk in Brno, a city now in the Czech Republic. He tested this idea with pea plants. From 1856 to 1863, he grew thousands of pea plants in the monastery garden. He put pollen from tall pea plants onto the flowers of short pea plants. If the blending idea was right, the babies would be medium. But every baby plant grew tall. Then he let those tall babies make seeds of their own. In the next generation, about one plant in every four was short again. The shortness had been passed on, hidden, and came back. So features are not mixed like paint. They are passed on whole. Mendel published his work in 1866, but hardly anyone read it. In 1900, other scientists found it again. In England, Edith Saunders bred flowers called stocks and showed that the same rules worked in other plants too.",
+  "story": "Long ago, most people thought a child was a blend of the two parents, like two colours of paint mixed together. If that were true, a tall parent and a short parent would have a child of in-between height. Gregor Mendel was a monk in Brno, a city now in the Czech Republic. He tested this idea with pea plants. From 1856 to 1863, he grew thousands of pea plants in the monastery garden. He put pollen from tall pea plants onto the flowers of short pea plants. If the blending idea was right, the babies would be medium. But every baby plant grew tall. Then he let those tall babies make seeds of their own. In the next generation, about one plant in every four was short again. The shortness had been passed on without showing, and then it came back. So features are not mixed like paint. They are passed on whole. Mendel published his work in 1866, but hardly anyone read it. In 1900, other scientists found it again. In England, Edith Saunders bred flowers called stocks and showed that the same rules worked in other plants too.",
   "who": "Gregor Mendel, a monk in Brno; Edith Rebecca Saunders, a plant scientist in Cambridge, England",
   "when": "Mendel grew his peas from 1856 to 1863 and published in 1866. His work was found again in 1900, and Saunders published with William Bateson in 1902.",
   "wrong_idea": "That a child is a blend of the two parents, like two paints mixed together. Mendel's tall and short pea plants had all tall babies, not medium ones, and short plants came back in the next generation.",
   "art": "A monk in a dark robe in a walled garden, gently brushing pollen onto a pea flower, with rows of tall and short pea plants on sticks behind him."
  },
  "playtest": "Walked through as a parent and child in a flat. The pod test needs only five fresh pea or bean pods, paper and a pencil, and the 25 minutes add up; the mint project's 18 minutes and four day-visits match its schedule. I counted every printable (5 feature cards, 2 parents, 4 baby boxes, 16 call cards) and played both games with 2 players and with 4. Fixed: a brand-name creature renamed Gumbi, coin and crayons added to the game materials, a safety line about a bottle that was never used removed, mint compared with the same bunch, the garbled how-we-found-out heading, the unfinished video notes and song note, a file path in the sources, a fourth repeat of the haircut question (now humans are animals), and the claim that pea size comes from food, now said as 'may'.",
- "warm": {"words": ["CHILD", "ALIKE", "SEEDS", "CURLS", "TWINS"], "quiz": [["A child gets features from both the mother and the father.", true, "Features come from both parents, so a child can be like each of them."], ["A child is always in the middle, like two paints mixed together.", false, "Features do not blend, and a child can be tall like one parent."], ["A child can only look like their mother or their father.", false, "A feature can hide in a parent and show up in a child, like a grandmother's curls."], ["A mango seed grows into a mango tree, never a neem tree.", true, "A seed grows into the same kind of plant as the parent plant."], ["Brothers and sisters get exactly the same mix from their parents.", false, "Each gets a different mix, so they are alike in some ways and different in others."], ["No two people are exactly the same, not even twins.", true, "Everyone grows in their own way, so each person is someone new."], ["Peas from one pod are all exactly the same size.", false, "They come from one plant, but each pea grows in its own way."], ["All people are alike in some ways and different in others.", true, "We all have two eyes, but each face is different."], ["A kitten can be born to a dog mother.", false, "A living being always comes from parents of the same kind."], ["You get your features from your parents before you are born.", true, "Inheriting means getting a feature from your parents before birth."]], "odd": [[["Eye colour", "Curly hair", "Nose shape", "Scar from a fall"], "Scar from a fall", "The first three are features you get from your parents; a scar comes from something that happens to you later."], [["Green colour", "Round shape", "Same parent plant", "Same size"], "Same size", "Peas from one pod share colour, shape and parent plant, but each pea grows to its own size."], [["Two eyes", "Two ears", "A nose", "Curly hair"], "Curly hair", "All people have eyes, ears and a nose, but only some people have curly hair."], [["Cow and calf", "Hen and chick", "Dog and puppy", "Cat and chick"], "Cat and chick", "A baby always comes from parents of the same kind, and a chick is not a cat's baby."], [["Mango seed", "Pea seed", "Rice grain", "Small pebble"], "Small pebble", "A seed holds what grows into a plant like its parent, but a pebble is not alive."]]}
+ "warm": {"words": ["CHILD", "ALIKE", "SEEDS", "CURLS", "TWINS"], "quiz": [["A child gets features from both the mother and the father.", true, "Features come from both parents, so a child can be like each of them."], ["A child is always in the middle, like two paints mixed together.", false, "Features do not blend, and a child can be tall like one parent."], ["A child can only look like their mother or their father.", false, "A feature can hide in a parent and show up in a child, like a grandmother's curls."], ["A mango seed grows into a mango tree, never a neem tree.", true, "A seed grows into the same kind of plant as the parent plant."], ["Brothers and sisters get exactly the same mix from their parents.", false, "Each gets a different mix, so they are alike in some ways and different in others."], ["No two people are exactly the same, not even twins.", true, "Everyone grows in their own way, so each person is someone new."], ["Peas from one pod are all exactly the same size.", false, "They come from one plant, but each pea grows in their own way."], ["All people are alike in some ways and different in others.", true, "We all have two eyes, but each face is different."], ["A kitten can be born to a dog mother.", false, "A living being always comes from parents of the same kind."], ["You get your features from your parents before you are born.", true, "Inheriting means getting a feature from your parents before birth."]], "odd": [[["Eye colour", "Curly hair", "Nose shape", "Scar from a fall"], "Scar from a fall", "The first three are features you get from your parents; a scar comes from something that happens to you later."], [["Green colour", "Round shape", "Same parent plant", "Same size"], "Same size", "Peas from one pod share colour, shape and parent plant, but each pea grows to their own size."], [["Two eyes", "Two ears", "A nose", "Curly hair"], "Curly hair", "All people have eyes, ears and a nose, but only some people have curly hair."], [["Cow and calf", "Hen and chick", "Dog and puppy", "Cat and chick"], "Cat and chick", "A baby always comes from parents of the same kind, and a chick is not a cat's baby."], [["Mango seed", "Pea seed", "Rice grain", "Small pebble"], "Small pebble", "A seed holds what grows into a plant like the parent plant, but a pebble is not alive."]]}
 }

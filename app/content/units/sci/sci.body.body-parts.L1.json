@@ -70,7 +70,7 @@
    "concept": "Your thumb meets your fingers",
    "status": "defined",
    "definition": "Your thumb can bend across your hand and press against each finger. Together, the thumb and a finger can pinch and grip.",
-   "description": "Your thumb sits on the side of your hand and swings across to meet each fingertip. To pick up a grain of rice, the thumb presses from one side and a finger from the other. With your thumb taped, your fingers could only press on each other. That is why small things and buttons were so hard.",
+   "description": "Your thumb sits on the side of your hand and swings across to meet each fingertip. To pick up a grain of rice, the thumb presses from one side and a finger from the other. In the Thumb Taped test, your thumb was taped down, so your fingers could only press on each other. That is why small things and buttons were so hard.",
    "examples": [
     "Doing up a button needs a pinch on each side of the button.",
     "Holding a crayon needs your thumb on one side and two fingers on the other.",
@@ -84,7 +84,7 @@
    "concept": "Joints are where your body bends",
    "status": "defined",
    "definition": "A joint is a place where two bones meet. Bones do not bend, so your body bends at its joints. Muscles pull on the bones to move them.",
-   "description": "Bones are hard and stay straight, like a pencil. Where two bones meet, there is a joint, and the joint can move. Muscles pull on the bones, and the bones swing at the joint. With the newspaper tube on your elbow, your arm could not bend, and your hand could not reach your mouth.",
+   "description": "Bones are hard and stay straight, like a pencil. Where two bones meet, there is a joint, and the joint can move. Muscles pull on the bones, and the bones swing at the joint. In the Straight-Arm Snack, a newspaper tube kept your elbow straight. Your arm could not bend, and your hand could not reach your mouth.",
    "examples": [
     "Your elbow and knee bend one way only, like a door on its hinges.",
     "Your shoulder can swing your arm round in a big circle.",
@@ -97,7 +97,7 @@
   {
    "concept": "Bodies are alike, and each body is different",
    "status": "defined",
-   "definition": "Almost all people have the same kinds of body parts. But each person's body is a different size, shape and colour, and works in their own way.",
+   "definition": "Almost all people have the same kinds of body parts. But each person's body is a different size, shape and colour, and works in its own way.",
    "description": "You and your grandmother both have two eyes, a nose and two hands. But her hands may be bigger and more wrinkled than yours. Skin, hair and eyes come in many colours. About one person in ten is left-handed. Some people are born with a different body, or lose a part, and find another way to do the job. Many deaf people talk with their hands, in sign language.",
    "examples": [
     "The dancer Sudha Chandran lost her right leg after a road accident in the early 1980s. With an artificial leg called a Jaipur Foot, she danced Bharatanatyam on stage again.",
@@ -115,7 +115,7 @@
    "description": "A crow has two eyes, a beak, two legs and two wings. Inside a crow's wing are bones like the bones in your arm. A cat has elbows and knees, like you. An elephant's trunk is a long nose and upper lip joined together, and the tip of the trunk can pick up a single peanut. An ant has six legs and two feelers on their head. The feelers smell and touch.",
    "examples": [
     "Watch a crow at the window walk, hop and flap. The crow bends their legs at the joints, like you.",
-    "A dog smells far more than we do, because so much of a dog's nose is for smelling.",
+    "A dog can smell far better than we can, because so much of a dog's nose is for smelling.",
     "You have a small tailbone at the bottom of your back. Many other animals with a backbone have a tail there."
    ],
    "perspectives": [],
@@ -187,7 +187,7 @@
  ],
  "big_questions": [
   {
-   "q": "When your thumb was taped, you found new ways to pick things up. Where did the new way come from?",
+   "q": "With your thumb taped down, you found new ways to pick things up. Where did those new ways come from?",
    "kind": "deep",
    "hint": "Think about how you held the rice with your thumb taped, and who worked out how to do it."
   },
@@ -570,7 +570,7 @@
       "the joint in the middle of the leg: knee",
       "the part at the bottom that you stand on: foot"
      ],
-     "why": "A strong answer names each part and can touch the same part on their own body.",
+     "why": "In a strong answer, the child names each part and touches the same part on their own body.",
      "art": "A simple drawing of a child standing, with five empty boxes and lines pointing to the head, an arm, a hand, a knee and a foot."
     },
     {
@@ -600,11 +600,11 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl of six, tapes her thumb down. Which job will be the hardest for her?",
+     "p": "Your thumb is taped down. Which job will be the hardest?",
      "opts": [
       "Picking up a coin from the floor",
       "Waving goodbye",
-      "Clapping her hands"
+      "Clapping your hands"
      ],
      "a": 0,
      "why": "To pick up a flat coin, the thumb presses on one side and a finger on the other. Waving and clapping need no pinch, so they stay easy.",
@@ -670,7 +670,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: in the thumb test, why was doing up a button so hard?",
+     "p": "In the Thumb Taped test, your thumb was taped down. Why was doing up a button so hard? Say it out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "My thumb could not press on the button. My fingers had nothing to push the button against.",
      "why": "A strong answer uses what the child felt: the button slipped between the fingers, and there was no thumb on the other side.",
@@ -717,14 +717,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Rimi, a girl in Class 1 in Guwahati, has a newspaper tube round her elbow. Which can she not do with that hand?",
+     "p": "A newspaper tube is round your elbow, so your arm cannot bend. Which can you not do with that hand?",
      "opts": [
-      "Put a biscuit in her mouth",
+      "Put a biscuit in your mouth",
       "Pick up a ball from the floor",
-      "Wave to her friend"
+      "Wave to your friend"
      ],
      "a": 0,
-     "why": "With the elbow kept straight, her arm cannot fold, so her hand cannot come back to her mouth. Picking up a ball and waving need no bending at the elbow.",
+     "why": "With the elbow kept straight, your arm cannot fold, so your hand cannot come back to your mouth. Picking up a ball and waving need no bending at the elbow.",
      "how": "a2"
     },
     {
@@ -787,7 +787,7 @@
      "p": "Farhan writes with his left hand. His aunt says he should use his right hand. Say what you would tell her, and a grown-up writes it.",
      "lines": 3,
      "a": "About one person in ten is left-handed. It is a natural way for a body to be, and Farhan writes well with his left hand.",
-     "why": "A strong answer is kind to both Farhan and his aunt, and uses a fact or the bean test: most people are quicker with the hand they use most.",
+     "why": "A strong answer is kind to both Farhan and his aunt. It uses a fact, or what the Quick Hands bean test showed: most people are quicker with the hand they use most.",
      "how": "e2"
     },
     {
@@ -805,7 +805,7 @@
       "the joint between the arm and the hand: wrist",
       "the short thick finger on the side: thumb"
      ],
-     "why": "A strong answer names each part and bends each joint on their own arm.",
+     "why": "In a strong answer, the child names each part and bends each joint on their own arm.",
      "art": "An arm drawn from the shoulder to the fingertips, with four empty boxes pointing to the shoulder, the elbow, the wrist and the thumb."
     },
     {
@@ -917,7 +917,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Guess which job will be hardest. Do three jobs with your thumb free. Tape your thumb down and do them again. Put a face for each try. Talk about what you found."
+     "what": "Guess which job will be hardest. Do three jobs with your thumb free. Tape your thumb down and do them again. Draw a face for each try. Talk about what you found."
     }
    ],
    "record": "On a sheet, draw the three jobs down the side. For each job, draw a face for thumb free and a face for thumb taped: a smile for easy, a straight mouth for slow, a sad face for could not.",
@@ -991,7 +991,7 @@
     {
      "id": "s6",
      "mins": 2,
-     "do": "1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what they think, what they saw, and why.",
+     "do": "1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what your child found out, and why some jobs were so hard.",
      "say": "Your thumb is free again. Pick up one grain now. What did you find out? Why were some jobs so hard?",
      "kid": "Pinch one grain with your thumb. What did you find out?",
      "ask": [
@@ -1019,7 +1019,7 @@
    ],
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Ammu, aged 6",
+    "title": "Made-up example results from a child aged 6",
     "cols": [
      "Job",
      "Thumb free",
@@ -1150,14 +1150,14 @@
      "parent": "Most people move a few more beans with the hand they write with, because they use that hand more. Some people are nearly the same with both. Results change a little each try, so a difference of one or two beans may be luck.",
      "check": {
       "t": "mcq",
-      "q": "Ammu, a girl in Class 1, writes with her left hand. Which hand will most likely move more beans?",
+      "q": "A girl writes with her left hand. Which hand will she most likely move more beans with?",
       "options": [
        "Her left hand",
        "Her right hand",
        "Nobody can guess"
       ],
       "a": 0,
-      "why": "Most people are quicker with the hand they use most. Ammu uses her left hand most, so her left hand will most likely move more beans."
+      "why": "Most people are quicker with the hand they use most. She uses her left hand most, so her left hand will most likely move more beans."
      }
     }
    ],
@@ -1312,7 +1312,7 @@
      "say": "This tube will keep your arm straight. Your elbow cannot bend. Tell me if it is too tight.",
      "kid": "Hold your arm out straight. Your grown-up rolls a tube round it.",
      "adult": true,
-     "parent": "The tube must cover the elbow, but leave the hand and wrist free. Keep it loose: it should stop bending, not squeeze. If the arm still bends the tube, add a third sheet or a rolled magazine."
+     "parent": "The tube must cover the elbow, but leave the hand and wrist free. Keep it loose: it should stop bending, not squeeze. If the arm still bends the tube, add another sheet or a rolled magazine."
     },
     {
      "id": "s2",
@@ -1342,7 +1342,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Take the tube off. Your child eats the second snack the usual way, and feels the elbow bend.",
+     "do": "Take the tube off. Your child eats another piece of the snack the usual way, and feels the elbow bend.",
      "say": "Now the tube is off. Eat the other piece. Put your other hand on your elbow. What does it do?",
      "kid": "Eat the snack now. Feel your elbow bend.",
      "check": {
@@ -1396,7 +1396,7 @@
      "what": "Count body parts. Sort each one onto the 1, 2 or MANY sheet. Count teeth in a mirror."
     }
    ],
-   "record": "Draw one part on each sheet: one part you have one of, two of, and many of.",
+   "record": "Draw one part on each sheet: a part you have one of, a part you have two of, and a part you have many of.",
    "flow": [
     {
      "id": "s1",
@@ -1506,7 +1506,7 @@
      "mins": 2,
      "do": "Ask your child to say one thing that is the same and one that is different.",
      "say": "Tell me one way our hands are the same, and one way they are different.",
-     "kid": "Say one same thing and one different thing."
+     "kid": "Say one way the hands are the same and one way they are different."
     }
    ],
    "setup": [
@@ -1585,7 +1585,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws themself next to someone at home on page 3. 2. Ask for one way they are the same and one way they are different.",
+     "do": "1. On page 3, your child draws a picture of themselves next to someone at home. 2. Ask for one way the two of them are the same and one way they are different.",
      "say": "Who will you draw next to you? How are you the same? How are you different?",
      "kid": "Draw yourself and someone at home. How are you the same?",
      "ask": [
@@ -1647,7 +1647,7 @@
     {
      "id": "c1s1",
      "mins": 3,
-     "do": "Read the challenge. Tape your child's thumb loosely, as in the thumb test.",
+     "do": "Read the challenge. Tape your child's thumb loosely, as in the Thumb Taped test.",
      "say": "Your thumb is taped. Can you make a tool that does the thumb's job, and picks up beans?",
      "kid": "Your thumb is taped. Make a tool to pick up beans.",
      "adult": true,
@@ -1695,7 +1695,7 @@
    "channel": "Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride",
    "youtube": "E4D1Cuplctg",
    "mins": 8,
-   "why": "Shows how the rubber Jaipur Foot is made by hand, the foot that bends like a real foot.",
+   "why": "Shows how the rubber Jaipur Foot is made by hand. This artificial foot bends like a real foot.",
    "check": "Found by search: \"How To Make A Prosthetic Leg In Jaipur Foot\" by Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 7 minutes 44 seconds. A parent may preview it."
   },
   {
@@ -1874,7 +1874,7 @@
   },
   {
    "q": "Where does deciding happen in a body?",
-   "why_open": "The spine, the tummy and the skin all sense and respond on their own. Scientists still argue about whether to call this thinking, or only the brain's work."
+   "why_open": "The spine, the tummy and the skin all sense and respond on their own. Scientists still argue about whether this counts as thinking, or whether only the brain thinks."
   },
   {
    "q": "Why are about one in ten people left-handed?",
@@ -1929,9 +1929,9 @@
  ],
  "maths": [
   {
-   "problem": "In a thumb test like yours, Ammu picked up 9 rice grains in one minute with her thumb free. With her thumb taped, she picked up 3. How many fewer grains did she pick up with her thumb taped?",
+   "problem": "In the Thumb Taped test, you pick up 9 rice grains in one minute with your thumb free. With your thumb taped, you pick up 3. How many fewer grains do you pick up with your thumb taped?",
    "answer": "6 fewer grains.",
-   "explain": "Start at 3 and count on to 9: 4, 5, 6, 7, 8, 9. That is 6 more. So she picked up 6 fewer grains with her thumb taped, because her fingers had no thumb to press against.",
+   "explain": "Start at 3 and count on to 9: 4, 5, 6, 7, 8, 9. That is 6 more. So you pick up 6 fewer grains with your thumb taped, because your fingers have no thumb to press against.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
    "context": "This is about the thumb test, where you taped your thumb down and tried jobs like picking up rice. These are made-up results.",
@@ -1947,16 +1947,16 @@
    "why_maths": "Adding parts that come in twos is quicker than counting each one."
   },
   {
-   "problem": "Nithya drew round three hands. Her hand was 4 crayons long, Amma's was 6 crayons long, and baby Kuttan's was 2 crayons long. Put the hands in order, from the smallest to the biggest.",
-   "answer": "Kuttan (2), Nithya (4), Amma (6).",
-   "explain": "2 is less than 4, and 4 is less than 6. So the order is Kuttan, Nithya, Amma. All three hands have a thumb and four fingers, but they are different sizes.",
+   "problem": "You draw round three hands. Your hand is 4 crayons long, Amma's hand is 6 crayons long, and the baby's hand is 2 crayons long. Put the hands in order, from the smallest to the biggest.",
+   "answer": "The baby's hand (2), your hand (4), Amma's hand (6).",
+   "explain": "2 is less than 4, and 4 is less than 6. So the order is the baby's hand, your hand, Amma's hand. All three hands have a thumb and four fingers, but they are different sizes.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "a4",
    "context": "This is about the hand family activity, where you drew round everyone's hand. The lengths are made up.",
    "why_maths": "Putting numbers in order shows which hand is the biggest without guessing."
   },
   {
-   "problem": "In the bean test, four people said which hand they write with: right, right, left, right. Make a tally. How many write with the right hand, and how many with the left?",
+   "problem": "In the Quick Hands bean test, four people said which hand they write with: right, right, left, right. Make a tally. How many write with the right hand, and how many with the left?",
    "answer": "3 right-handed and 1 left-handed.",
    "explain": "Make a tally mark for each answer. Right gets three marks, and left gets one mark. In most families, more people are right-handed, but there is often one left-hander.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -2075,23 +2075,23 @@
   ]
  },
  "roots": {
-  "context": "We have named our body parts and found what each one helps us do. Now we ask what the thumb test tells us about where a job really happens.",
+  "context": "We have named our body parts and found what each one helps us do. Now we ask what the Thumb Taped test shows: is a job done by one part, or by parts working together?",
   "deep_truth": {
    "truth": "With your thumb taped down, you could hardly pick up one grain of rice. Your fingers were all still there. A pinch needs a thumb on one side and a finger on the other. So a pinch is done by two parts pressing together.",
-   "habit": "We give each job to one part: eyes see, legs walk, hands hold. A pinch needs a thumb and a finger together.",
+   "habit": "We usually think each job belongs to one part: eyes see, legs walk, hands hold. But a pinch needs a thumb and a finger together.",
    "evidence": "In the thumb test, the fingers were free and could still move, but the coin and the button became very hard or impossible. The rice slipped between the fingers. When the tape came off, the thumb and a finger picked up a grain at once."
   },
   "three": {
-   "who_am_i": "You are many parts that do things together. Most of what you do happens where your parts meet.",
+   "who_am_i": "You are many parts that do things together. Most of what you do needs more than one part.",
    "what_is_life": "A living body is busy all day with parts helping each other: the eyes guide the hands, the knees bend so the feet can climb.",
-   "what_is_this_world": "Humans and other animals have parts like ours, such as a crow's wing bones and a cat's elbows. Each animal uses their parts in their own way."
+   "what_is_this_world": "Other animals have parts like ours, such as a crow's wing bones and a cat's elbows. Each animal uses their parts in their own way."
   },
   "thread": "A pinch needs a thumb and a finger together. A clap needs two hands. A step needs a foot and the ground. Many jobs need two things to meet, and the job fails if one is missing.",
   "teachings": [
    {
     "source": "Livy, History of Rome 2.32 (the fable of the belly and the limbs)",
     "teaching": "The hands, the mouth and the teeth grew angry with the belly. They said the belly did no work and only ate. So they stopped feeding the belly. Soon the hands, the mouth and the teeth grew weak too. They learned that the belly was doing a job for all of them.",
-    "link": "The fable, which Livy says Menenius Agrippa told in Rome, says each part needs the others, which the thumb test shows too. Neither the thumb nor the fingers could pinch alone."
+    "link": "Livy wrote that Menenius Agrippa told this fable in Rome. It says each part needs the others. The Thumb Taped test shows the same thing: neither the thumb nor the fingers could pinch alone."
    },
    {
     "source": "Udana 6.4, a Buddhist text (the blind men and the elephant)",
@@ -2105,7 +2105,7 @@
     "status": "settled"
    },
    {
-    "text": "The spine, the gut and the skin sense and respond on their own, without waiting for the brain. Whether to call this thinking is argued about.",
+    "text": "The spine, the gut and the skin sense and respond on their own, without waiting for the brain. Scientists do not agree on whether to call this thinking.",
     "status": "debated"
    }
   ],
@@ -2131,7 +2131,7 @@
   "story": "In the 1960s, many people in India who lost a leg were given an artificial foot made in the West. It was stiff, and it was made to wear inside a shoe. But many people in India walk barefoot, sit on the floor and squat to cook or work. With a stiff foot, they could not. In 1968, in Jaipur, a craftsman named Ram Chandra Sharma brought an idea to Dr P. K. Sethi, a bone doctor at the city's big hospital. Sharma thought an artificial foot should bend like a real one. A cycle-tyre repairer named Chugga Bhai helped him make the first one from rubber, the way tyres are made. After much testing, they made a rubber foot over a wooden core that bends at the ankle and the toes. People could walk barefoot, squat and even climb trees. This Jaipur Foot is cheap, and is now fitted free for many people. The dancer Sudha Chandran danced Bharatanatyam on stage again with one. Dr Sethi was often named first, and Sharma, the craftsman, is less well known.",
   "who": "Ram Chandra Sharma, a craftsman, Dr P. K. Sethi, a bone doctor, and Chugga Bhai, a cycle-tyre repairer, in Jaipur",
   "when": "1968 onwards",
-  "wrong_idea": "That an artificial foot only needs to be a stiff support inside a shoe. Ram Chandra Sharma saw that a real foot bends at the ankle and toes, and his rubber foot bent the same way. People could then squat, sit on the floor and walk barefoot.",
+  "wrong_idea": "People thought an artificial foot only needed to be a stiff support inside a shoe. Ram Chandra Sharma saw that a real foot bends at the ankle and toes, and his rubber foot bent the same way. People could then squat, sit on the floor and walk barefoot.",
   "art": "A craftsman's workbench in Jaipur with a rubber foot on a wooden core, and beside it a person squatting barefoot on a mud floor wearing the artificial foot."
  },
  "playtest": "Walked through every part as a parent and a six-year-old in a city flat would: thumb test (minutes add to 15, same hand and jobs, thumb the only change), straight-arm snack, counting, hand family, bean test, both games with 2 and 4 players (all 12 and 10 cards written out, reader role and bean scoring now stated), body book and picker. Fixed: the elbow hook now says which hand; the newspaper tube is thicker so it really stops the elbow bending; no assumed grandparent in steps or questions; a worksheet child now matches the story (Kavya, cousin Arjun); a sort that repeated an activity is replaced; the check question names its child; a weak joke is swapped; a boatwoman replaces a boatman; 'to find' removed from video titles; a stiff phrase on finger joints fixed.",

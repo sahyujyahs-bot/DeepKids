@@ -17,7 +17,7 @@
   "By the end I can say what clothes and a home keep me safe from: sun, rain, cold, wind and insects.",
   "By the end I can show with my wind box that a wall facing the wind makes calm air behind it.",
   "By the end I can say that crows, ants and plants have needs too, and that humans are animals with the same needs.",
-  "By the end I can tell how Florence Nightingale counted, and found that clean water and fresh air keep people alive."
+  "By the end I can tell how Florence Nightingale counted who died in her hospital, and found that clean water and fresh air keep people alive."
  ],
  "cards_mins": 10,
  "terms": [
@@ -64,7 +64,7 @@
   {
    "concept": "We need air, water and food again and again",
    "status": "defined",
-   "context": "This card explains why we cannot take our needs just once and be done.",
+   "context": "This card explains why we need air, water and food again and again, not just once.",
    "definition": "Our body keeps using up air, water and food, so we must take them in again and again.",
    "description": "Your body uses air all the time, so you breathe every few seconds, even in your sleep. Water leaves your body when you wee, sweat and breathe out, so you drink every day. Food gives you energy, so you eat a few times a day.",
    "examples": [
@@ -82,7 +82,7 @@
    "definition": "Clothes and a home protect our bodies from sun, rain, cold, wind, insects and dirt.",
    "description": "Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in.",
    "examples": [
-    "Farmers in the fields of Andhra Pradesh often tie a cotton towel on the head against the sun.",
+    "Farmers in the fields of Andhra Pradesh often tie a cotton towel around their heads to keep off the sun.",
     "In Shillong in winter, people wear woollen shawls and caps.",
     "Houses in rainy Kerala often have sloping roofs, so rain runs off."
    ],
@@ -96,9 +96,9 @@
    "definition": "When wind meets a wall, the moving air cannot go through, so it flows around and over it. Behind the wall, the air is calm.",
    "description": "In the wind box test, the closed wall faced the fan. The air hit that wall and went around the box. Inside, the tissue hung still.",
    "examples": [
-    "On a windy beach, people sit on the side of a boat away from the wind.",
-    "Farmers plant rows of trees along the edge of a field, called windbreaks, to slow the wind.",
-    "A pigeon sits on the side of a water tank away from the wind."
+    "On a windy beach, people sit beside a boat, on the side away from the wind.",
+    "Farmers plant rows of trees along the edge of a field to slow the wind. These rows are called windbreaks.",
+    "A pigeon sits beside a water tank, on the side away from the wind."
    ],
    "perspectives": [],
    "art": "A box seen from above, with arrows of wind from a fan curving around both sides of the box, and a still tissue flag inside the open side away from the fan."
@@ -129,7 +129,7 @@
   },
   {
    "text": "Wind flows around a wall and leaves calmer air behind it.",
-   "evidence": "You saw it in the wind box test. Farmers see it too: the plants just behind a row of trees are sheltered from strong wind."
+   "evidence": "In the wind box test, the tissue hung still inside the box when the closed wall faced the fan. Farmers see it too: the plants just behind a row of trees are sheltered from strong wind."
   }
  ],
  "challenging": [
@@ -152,7 +152,7 @@
  ],
  "big_questions": [
   {
-   "q": "The wind went around the wind box. Where did it go after that?",
+   "q": "In the wind box test, the fan's wind went around the box. Where did it go after that?",
    "kind": "deep",
    "hint": "Think about where the fan's air ends up in the room."
   },
@@ -164,7 +164,7 @@
   {
    "q": "A pigeon, an ant and you all need a home. Is a home a thing, or a safe place?",
    "kind": "big",
-   "hint": "Think about the pigeon behind the water tank in the story."
+   "hint": "In the story The Tent on the Terrace, the pigeon's shelter was a calm ledge behind the water tank."
   },
   {
    "q": "A crow, a cat and an ant all need water. Why does every living thing need water?",
@@ -310,7 +310,7 @@
     "Take turns. Pick the top helper card and read it out.",
     "Put it under the need it gives you. Say why.",
     "Turn it over to check. If it is in the wrong place, talk about it and move it.",
-    "When all 10 are placed, each need should have two helpers. Say one thing at home that gives each need."
+    "When all 10 are placed, each need should have two helpers. Then, for each need, name one thing in your home that gives it."
    ],
    "setup": [
     {
@@ -399,7 +399,7 @@
     "The caller shows a card and reads it out.",
     "Everyone runs to the right shelter, or does the right action.",
     "The caller reads the back of the card to check.",
-    "Each caller mixes the cards and shows three of them, then the next player becomes the caller. The game ends when everyone has been the caller once. With two players, that is two turns."
+    "Each caller mixes the cards and shows three of them. Then the next player becomes the caller. The game ends when everyone has been the caller once. With two players, that is two turns."
    ],
    "setup": [
     {
@@ -453,7 +453,7 @@
    "title": "The Wind Box: which way should the door face?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make a wind with a fan and a little flag of tissue that shows where the wind is. Then you build shelters from a cardboard box and find which one keeps the flag still.",
+   "context": "In this experiment a fan makes the wind. You make a little flag of tissue that shows where the wind is. Then you build shelters from a cardboard box and find which one keeps the flag still.",
    "question": "A box has a roof, walls and one open side, like a door. To keep a tissue flag still inside, should the open side face the fan or face away from it? And does a tunnel, open at both ends, keep the wind out?",
    "predict": "Guess first. In which shelter will the tissue flag stay still: the tunnel, the box with its door to the fan, or the box with its door away from the fan? Why do you think so?",
    "fair_test": "The fan stays at the same speed and the same place, about two big steps from the box. The tissue flag stands in the middle of the box each time. Only the shelter changes.",
@@ -500,7 +500,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make the tissue flag. Test it in the open, in a tunnel, and in a box with its door to the fan and then away from it."
+     "what": "Make the tissue flag. Test it four times: in the open, in a tunnel, in a box with its door facing the fan, and in the same box with its door facing away."
     }
    ],
    "record": "Draw the box and the fan for each test. Draw the tissue flying for 'flapped' and hanging straight down for 'still'.",
@@ -641,7 +641,7 @@
     {
      "id": "s7",
      "mins": 2,
-     "do": "Ask your child to say three short sentences: what I think, what I saw, and why.",
+     "do": "Ask your child to say three short sentences: what they think, what they saw, and why it happened.",
      "say": "Tell me what you found out. Which way should a door face on a windy day? What did the flag show you? Why do you think it happened?",
      "kid": "Which way should the door face? What did your flag show you?",
      "check": {
@@ -666,7 +666,7 @@
    "title": "Five Needs on Five Fingers",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you meet each of the five basic needs with your body: a breath, a sip, a bite, a touch of your clothes and a touch of your wall.",
+   "context": "In this activity you count the five basic needs on your fingers. For each one you do something: take a breath, sip water, eat a bite, touch your clothes and touch the wall.",
    "materials": [
     {
      "item": "a tumbler of drinking water",
@@ -681,7 +681,7 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Meet each need with your body, one finger at a time."
+     "what": "Hold up one finger for each need, and breathe, sip, eat or touch as you go."
     }
    ],
    "record": "Draw your hand. Draw one need on each finger.",
@@ -743,7 +743,7 @@
        ]
       }
      ],
-     "parent": "Children often say food. Let your child hold their breath for a moment if they like, then breathe. That answers it."
+     "parent": "Children often say food. If they like, let your child hold their breath for a moment and then breathe. They will feel how soon they need air."
     }
    ]
   },
@@ -959,7 +959,7 @@
        ]
       }
      ],
-     "parent": "A sheet is floppy, so the result is less clear than with the box. Weigh the edges down with books, and watch whether the flag still moves."
+     "parent": "A sheet is floppy, so the result is less clear than with the cardboard box in the wind box test. Weigh the edges down with books, and watch whether the flag still moves."
     },
     {
      "id": "s3",
@@ -1022,7 +1022,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the problem. Look at the flag in the open fan wind first.",
+     "do": "Show your child the problem. First look at the flag in the fan's wind with no shelter.",
      "say": "Real wind can blow from any side. Can you build a home that keeps our flag calm, whichever way the wind blows?",
      "kid": "Build a home for your flag. The wind may come from any side."
     },
@@ -1078,7 +1078,7 @@
     "Only air"
    ],
    "a": 0,
-   "why": "Milk is food for the baby, and the milk is water to drink too.",
+   "why": "Milk is the baby's food, and it gives the baby water too.",
    "outcome": 1
   },
   {
@@ -1107,7 +1107,7 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the wind box test? Where should the open door of the box face, to keep the tissue flag still?",
+   "p": "In the wind box test, which way should the open door of the box face to keep the tissue flag still?",
    "opts": [
     "Towards the fan",
     "Away from the fan",
@@ -1164,19 +1164,19 @@
     "Nothing will change"
    ],
    "a": 0,
-   "why": "Dirty water and drains spread germs. Clean water and drains take the germs away, so fewer people fall ill. Florence Nightingale counted this in her hospital.",
+   "why": "Dirty water and drains spread germs. Clean water and drains take the germs away, so fewer people fall ill. Florence Nightingale's numbers showed this in her hospital: after the drains and water were cleaned, far fewer soldiers died.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Malini, a girl in Madurai, goes out in the hot sun in May. What should she wear?",
+   "p": "It is May in Madurai, and you go out in the hot sun. What should you wear?",
    "opts": [
     "A cap and loose cotton clothes",
     "A thick woollen sweater",
-    "Nothing on her head"
+    "Nothing on your head"
    ],
    "a": 0,
-   "why": "A cap shades her head, and loose cotton lets sweat dry and keeps her cool.",
+   "why": "A cap shades your head, and loose cotton lets sweat dry and keeps you cool.",
    "outcome": 2
   }
  ],
@@ -1296,7 +1296,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: you ran fast in the sun. Which two needs does your body ask for after, and how can you tell?",
+     "p": "You ran fast in the sun. Which two needs does your body ask for afterwards? How can you tell? Say your answer to a grown-up, who writes it down.",
      "lines": 2,
      "a": "Water, because I feel thirsty and sweaty. Air, because I breathe fast.",
      "why": "A strong answer names water and air, and says what the body does to show it: thirst and fast breathing."
@@ -1347,7 +1347,7 @@
     },
     {
      "t": "mcq",
-     "p": "A farmer plants a row of trees to keep the wind off her crops. Which side of the field should the trees go?",
+     "p": "A farmer plants a row of trees to keep the wind off her crops. On which side of the field should the trees go?",
      "opts": [
       "The side the wind comes from",
       "The side away from the wind",
@@ -1359,7 +1359,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: why did the flag hang still when the box's closed wall faced the fan?",
+     "p": "In the wind box test, why did the flag hang still when the box's closed wall faced the fan? Say your answer to a grown-up, who writes it down.",
      "lines": 2,
      "a": "The wind hit the closed wall and went around the box. So the air inside stayed calm.",
      "why": "A strong answer says the wind went around the wall, not through it.",
@@ -1383,14 +1383,14 @@
     },
     {
      "t": "mcq",
-     "p": "Sunita lives in Shimla. In January it is very cold. Which clothes does she need?",
+     "p": "It is January in Shimla, and it is very cold. Which clothes do you need?",
      "opts": [
       "A woollen sweater, a cap and socks",
       "A thin cotton frock only",
       "A raincoat only"
      ],
      "a": 0,
-     "why": "Wool keeps her warm. In Chennai in May she would need loose cotton instead. The need is the same, but the clothes depend on the place."
+     "why": "Wool keeps you warm. In Chennai in May you would need loose cotton instead. The need is the same, but the clothes depend on the place."
     },
     {
      "t": "draw",
@@ -1420,7 +1420,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down: how do clothes help you on a hot day, and on a cold night?",
+     "p": "How do clothes help you on a hot day, and on a cold night? Say your answer to a grown-up, who writes it down.",
      "lines": 2,
      "a": "On a hot day, a cap and loose cotton clothes shade me and keep me cool. On a cold night, a sweater or shawl keeps me warm.",
      "why": "A strong answer gives one kind of clothes for the heat and one for the cold, and says what each does."
@@ -1429,7 +1429,7 @@
   }
  ],
  "applications": [
-  "Farmers plant rows of trees along the edge of a field, called windbreaks, to slow the wind and protect the crops.",
+  "Farmers plant rows of trees along the edge of a field to slow the wind and protect the crops. These rows are called windbreaks.",
   "Campers put up a tent with its door facing away from the wind.",
   "On the coasts of Odisha and Andhra Pradesh, strong cyclone shelters are built so that families can stay safe in big storms.",
   "After a flood, relief teams bring the basic needs first: drinking water, food, clothes and tents.",
@@ -1510,16 +1510,16 @@
  ],
  "maths": [
   {
-   "problem": "In the wind box test, Priya, a girl in Class 1, did 4 tests. The tissue flag flapped in 3 of them. In how many did it hang still?",
-   "answer": "1 shelter. The flag hung still only in the box with its door facing away from the fan.",
+   "problem": "In the wind box test, you did 4 tests. The tissue flag flapped in 3 of them. In how many tests did it hang still?",
+   "answer": "1 test. The flag hung still only in the box with its door facing away from the fan.",
    "explain": "Start with 4 tests. Take away the 3 where the flag flapped. 1 is left.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
    "context": "This is about the wind box test, where a tissue flag showed if wind got in.",
-   "why_maths": "Taking away the shelters that failed tells us how many worked."
+   "why_maths": "Taking away the tests where the flag flapped tells us in how many it hung still."
   },
   {
-   "problem": "In the story, Kiran counts his needs on his fingers: air, water, food, clothes and a home. His sister Lasya counts hers too. How many fingers do they hold up together?",
+   "problem": "In the story The Tent on the Terrace, Kiran counts his needs on his fingers: air, water, food, clothes and a home. His sister Lasya counts hers too. How many fingers do they hold up together?",
    "answer": "10 fingers. Each of them has 5 needs, and 5 and 5 make 10.",
    "explain": "5 needs for Kiran and 5 for Lasya. 5 add 5 is 10. Every person has the same five needs.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1527,9 +1527,9 @@
    "why_maths": "Adding shows that every person brings the same five needs, so more people need more of each."
   },
   {
-   "problem": "Meena, a girl in Class 1, drinks 2 tumblers of water in the morning, 2 at lunch and 1 in the evening. Make a tally mark for each tumbler. How many tumblers did she drink?",
+   "problem": "You drink 2 tumblers of water in the morning, 2 at lunch and 1 in the evening. Draw one short line, called a tally mark, for each tumbler. How many tumblers did you drink?",
    "answer": "5 tumblers. The tally is 2, then 2, then 1, which makes 5 marks.",
-   "explain": "2 add 2 is 4. 4 add 1 is 5. On a hot day she may need more.",
+   "explain": "2 add 2 is 4. 4 add 1 is 5. On a hot day you may need more.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "context": "This is about why we drink water again and again through the day.",
    "why_maths": "A tally shows how many times in one day we put back the water our body loses."
@@ -1644,16 +1644,16 @@
   ]
  },
  "roots": {
-  "context": "We have found that a box kept a tissue flag still when its closed wall faced the fan. Now we ask what that tells us about homes, and about ourselves.",
+  "context": "In the wind box test, a box kept a tissue flag still when its closed wall faced the fan. Now we ask what that tells us about homes, and about ourselves.",
   "deep_truth": {
-   "truth": "With its open side turned away from the fan, the box kept the tissue still. The moving air hit the back wall and flowed around the box. Behind that wall the air stayed calm. So a home can keep out the wind even with an open door, if a wall faces the wind.",
-   "habit": "We think a shelter keeps us safe only when it is shut on every side, like a box with a lid. In the test, one wall on the windy side made calm air behind it. Which way a wall faces matters as much as how many walls there are.",
+   "truth": "In the wind box test, the box kept the tissue flag still when its open side was turned away from the fan. The moving air hit the closed wall and flowed around the box. Behind that wall the air stayed calm. So a home can keep out the wind even with an open door, if a wall faces the wind.",
+   "habit": "We think a shelter keeps us safe only when it is shut on every side, like a box with a lid. In the wind box test, one wall on the windy side made calm air behind it. Which way a wall faces matters as much as how many walls there are.",
    "evidence": "In the wind box test, the tissue flag flapped in a tunnel open at both ends, and flapped or wobbled with the box's door facing the fan. With the same box turned round, door away from the fan, the flag hung still."
   },
   "three": {
    "who_am_i": "You are an animal who needs air, water and food every day, just like a crow or a cat.",
    "what_is_life": "Being alive means taking in air, water and food again and again, and keeping safe while you do.",
-   "what_is_this_world": "The same air flows over every home on Earth. Every shelter is a calm place the moving air goes around."
+   "what_is_this_world": "The same air moves over every home on Earth. A shelter is a calm place, because the moving air goes around it."
   },
   "thread": "The air that moves as wind is the same air we breathe. A wall does not take that air away. It turns the air aside and makes a small calm place behind it. A pigeon finds that calm place behind a water tank, and a family makes it when they build a home.",
   "teachings": [
@@ -1695,17 +1695,17 @@
   },
   "ask": [
    "When the wind goes around your home, where does it go next?",
-   "In the story, the pigeon sat behind the water tank. How do you think she knew where the calm air was?",
+   "In the story The Tent on the Terrace, the pigeon sat behind the water tank. How do you think she knew where the calm air was?",
    "Is a home the walls, or the calm space the walls make?"
   ],
   "art": "A child holding one hand in front of the other and blowing gently, with soft lines of breath curving around the front hand."
  },
  "how_we_found_out": {
   "context": "How did people find out that clean water and fresh air keep people alive? This card tells a true story.",
-  "story": "In 1854, Britain was fighting a war near the Black Sea. Florence Nightingale, a nurse from England, went with 38 nurses to a big army hospital at Scutari, in Turkey. The hospital was crowded and dirty. The drains were blocked, the water was not clean, and the wards smelled bad. Many people thought war wounds were the main danger. Florence collected the numbers of who died and of what, and studied them. They showed something else. Far more soldiers were dying of illnesses than of wounds. In March 1855, a team came from Britain to clean the drains and the water supply. After that, far fewer soldiers died. Florence drew coloured pictures of her numbers, so that everyone could see. For the rest of her life she worked for clean water, fresh air and clean homes, in Britain and in India too.",
+  "story": "In 1854, Britain was fighting a war near the Black Sea. Florence Nightingale, a nurse from England, went with 38 nurses to a big army hospital at Scutari, in Turkey. The hospital was crowded and dirty. The drains were blocked, the water was not clean, and the wards smelled bad. Many people thought war wounds were the main danger. Florence wrote down how many soldiers died, and what each one died of. Then she studied the numbers. They showed something else. Far more soldiers were dying of illnesses than of wounds. In March 1855, a team came from Britain to clean the drains and the water supply. After that, far fewer soldiers died. Florence drew coloured pictures of her numbers, so that everyone could see. For the rest of her life she worked for clean water, fresh air and clean homes, in Britain and in India too.",
   "who": "Florence Nightingale, a nurse from England, her nurses, and the Sanitary Commission sent from Britain",
   "when": "1854 to 1855 at Scutari. Her diagrams were published in 1858.",
-  "wrong_idea": "Many people thought war wounds were the main danger. The numbers showed that far more soldiers died of illness, which came with dirty water and blocked drains. Florence, like many people then, also thought illness spread through bad smells. Later scientists found that germs, for example in dirty water, spread it.",
+  "wrong_idea": "Many people thought war wounds were the main danger. The numbers showed that far more soldiers died of illness, which came with dirty water and blocked drains. Florence, like many people then, also thought illness spread through bad smells. Later, scientists found that germs spread illness, for example germs in dirty water.",
   "art": "A woman in a long dress and white cap holding a lamp, writing numbers in a notebook beside rows of beds in a long hospital ward."
  },
  "playtest": "Walked every game, experiment, activity, project and challenge as a parent and child in a flat. Fixed: the four-player weather game now says how many cards each caller shows; the box experiment now lists the cardboard it needs; the calm-spots walk says to lift the flag out of the tumbler; the bedsheet tent steps now give a door that works; the stretch answer used the wrong name (Joy for Joyita); two quiz and worksheet questions that repeated each other were replaced; a nonsense joke was swapped; the fisherwoman and ant-eggs examples were made accurate; the maths wording was made clear; the mind-denying wording in the other view was reworded. Removed three videos whose ids were never found and checked, with the internal notes that came with them.",

@@ -156,7 +156,7 @@
   {
    "q": "A caterpillar crawls and a butterfly flies. Are they the same being?",
    "kind": "big",
-   "hint": "Inside the case, the caterpillar's body is built again, with wings. Nobody can say for sure where one being ends and the next begins."
+   "hint": "A caterpillar makes a case and changes inside it. Inside the case, the caterpillar's body is built again, with wings. Nobody can say for sure where one being ends and the next begins."
   },
   {
    "q": "You have changed shape since you were a baby. What about you has stayed the same?",
@@ -262,7 +262,7 @@
       },
       {
        "f": "Human baby",
-       "b": "A bit of both. A baby has the same parts as a grown-up, but a big head and short legs."
+       "b": "A bit of both. A human baby has the same parts as a grown-up, but a big head and short legs."
       },
       {
        "f": "Duckling",
@@ -270,23 +270,23 @@
       },
       {
        "f": "Tadpole",
-       "b": "Very different. A tadpole has a tail and no legs, and lives in water. Grows up into a frog."
+       "b": "Very different. A tadpole has a tail and no legs, and lives in water. The tadpole grows up into a frog."
       },
       {
        "f": "Caterpillar",
-       "b": "Very different. A caterpillar has no wings. Grows up into a butterfly or a moth."
+       "b": "Very different. A caterpillar has no wings. The caterpillar grows up into a butterfly or a moth."
       },
       {
        "f": "Maggot",
-       "b": "Very different. A maggot has no legs and no wings. Grows up into a fly."
+       "b": "Very different. A maggot has no legs and no wings. The maggot grows up into a fly."
       },
       {
        "f": "Silkworm",
-       "b": "Very different. A silkworm is a caterpillar. Grows up into a silk moth."
+       "b": "Very different. A silkworm is a caterpillar. The silkworm grows up into a silk moth."
       },
       {
        "f": "Pigeon chick, just hatched",
-       "b": "Very different at first. Pink skin and yellow fluff. Grey feathers grow in about four weeks."
+       "b": "Very different at first. A pigeon chick has pink skin and yellow fluff. Grey feathers grow in about four weeks."
       },
       {
        "f": "Ant young (white and soft)",
@@ -294,7 +294,7 @@
       },
       {
        "f": "Flamingo chick",
-       "b": "Very different at first. Grey and white. Turns pink slowly, from the food the bird eats."
+       "b": "Very different at first. The chick is grey and white, and slowly turns pink from the food they eat."
       },
       {
        "f": "Baby snake",
@@ -316,8 +316,8 @@
     "Take turns, one player at a time. The grown-up reads the name on the top card. The player puts the card on a mat and says why.",
     "The grown-up reads the back. If the player was right, the player keeps the card.",
     "If the back says 'A bit of both', the card goes in the gap between the two mats, and the player keeps it.",
-    "If the player was wrong, the card goes on the right mat and nobody keeps it.",
-    "When all 16 cards are played, count your cards. The most cards wins, and a tie is fine. It does not matter if some players had one more turn. If you play alone, try to beat your last count.",
+    "If the player was wrong, move the card to the correct mat. Nobody keeps it.",
+    "When all 16 cards are played, count your cards. The player with the most cards wins, and a tie is fine. It does not matter if some players had one more turn. If you play alone, try to beat your last count.",
     "Then look at the 'very different' mat. Which babies change the most?"
    ],
    "setup": [
@@ -353,7 +353,7 @@
        ]
       }
      ],
-     "parent": "Human baby and duckling are a bit of both, and their backs say so. Let your child decide first and explain."
+     "parent": "The human baby and duckling cards are 'A bit of both', and the back of each card says so. Let your child decide first and explain."
     },
     {
      "id": "s3",
@@ -586,7 +586,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Ask your child to guess how many heads tall a grown-up is, a child is, and a baby is. 2. Write the three guesses down for your child.",
-     "say": "Imagine we stack your head on top of itself, again and again, until we reach your feet. How many heads tall are you? And me? And a baby? Why do you think so?",
+     "say": "If we stacked your head on top of itself, again and again, until we reached your feet, how many heads would that be? How many heads tall are you? And me? And a baby? Why do you think so?",
      "kid": "Guess. How many heads tall is a grown-up? And you? And a baby? Why?",
      "ask": [
       {
@@ -644,9 +644,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Open the baby photo on the phone, or hold the printed photo. 2. Hold a paper strip against the baby's head. Mark the chin and the top of the head, and cut the strip. 3. Step it from the top of the head to the heels, and count.",
+     "do": "1. Open the baby photo on the phone, or hold the printed photo. 2. Hold a paper strip against the baby's head. Mark the chin and the top of the head, and cut the strip. 3. Move the strip end to end, from the top of the head to the heels, and count.",
      "say": "This is a photo of a real newborn baby. Let's measure the baby the same way. How many heads long is the baby?",
-     "kid": "Make a tiny strip for the baby's head. Step it along the baby. Count.",
+     "kid": "Make a tiny strip for the baby's head. Move it along the baby, end to end. Count.",
      "ask": [
       {
        "q": "How many heads long is the baby?",
@@ -676,7 +676,7 @@
       "why": "The baby was only about 4 heads long, so the head is a big part of the whole baby. The grown-up was about 7 heads tall, so their head is a smaller part.",
       "how": "e1"
      },
-     "parent": "Choose a photo where the baby lies fairly straight. A baby with curled legs measures shorter, so any answer from 3 to 5 is fine: it still shows fewer heads than the grown-up. The claim is: a baby is a different shape from a grown-up, with a bigger head and shorter legs."
+     "parent": "Choose a photo where the baby lies fairly straight. A baby with curled legs measures shorter, so any answer from 3 to 5 is fine: it still shows fewer heads than the grown-up. What the experiment shows: a baby is a different shape from a grown-up, with a bigger head and shorter legs."
     }
    ]
   }
@@ -796,7 +796,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "For two minutes, your child picks up one puffed rice with the peg. They walk to the nest and drop the puffed rice in a cup. Then back again. Count the trips aloud.",
+     "do": "For two minutes, your child picks up one puffed rice with the peg, walks to the nest and drops the puffed rice in a cup. Then they go back for the next piece. Count the trips aloud.",
      "say": "Go! One piece at a time, with your beak. Give every chick a turn. I'll count your trips.",
      "kid": "Pick up one piece with the peg. Walk to the nest. Drop it in a cup. Go back.",
      "parent": "Most children make 10 to 20 trips in two minutes. Real chicks call out for food and open their mouths wide."
@@ -899,13 +899,13 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask whether your child's head grew as much as the rest of their body.",
-     "say": "You are now more than two newborns long. Did your head grow that much too? Think about the head strips.",
+     "say": "You are now more than two newborns long. Did your head grow that much too? Think about the head strips in the Heads Tall experiment.",
      "kid": "You are more than two string babies long now. Did your head grow that much too?",
      "ask": [
       {
        "q": "Did your head grow as much as the rest of you?",
        "good": [
-        "No. My legs grew more, like in the head strip test.",
+        "No. My legs grew more, like in the Heads Tall experiment.",
         "No. A baby's head is already big."
        ]
       }
@@ -1255,20 +1255,20 @@
     },
     {
      "t": "perspective",
-     "p": "Sowmya and Ritu, two girls in Class 1, look at a photo of a newborn baby and a photo of a grown-up.",
+     "p": "Two children look at a photo of a newborn baby and a photo of a grown-up.",
      "views": [
       {
-       "who": "Sowmya, aged 6",
+       "who": "First child",
        "says": "A baby is just a small grown-up, with the same shape."
       },
       {
-       "who": "Ritu, aged 6",
+       "who": "Second child",
        "says": "A baby has a different shape. The head is big for the body."
       }
      ],
-     "ask": "Which girl do you agree with? What could you measure to find out? Then say one thing the other girl got right.",
-     "a": "Ritu is right: a baby is about 4 heads long and a grown-up about 7. But Sowmya is right that a baby has the same parts: two eyes, two arms and two legs.",
-     "why": "A strong answer uses the head strips to measure, and is fair to both girls.",
+     "ask": "Which child do you agree with? What could you measure to find out? Then say one thing the other child got right.",
+     "a": "The second child is right: a baby is about 4 heads long and a grown-up about 7. But the first child is right that a baby has the same parts: two eyes, two arms and two legs.",
+     "why": "A strong answer uses the head strips to measure, and is fair to both children.",
      "how": "e1"
     }
    ]
@@ -1381,25 +1381,25 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi and Tanvi watch a pair of crows on a tree in Mysuru. The crows are feeding a koel chick. Koel mothers lay their eggs in crows' nests.",
+     "p": "Two children watch a pair of crows on a tree. The crows are feeding a koel chick. Koel mothers lay their eggs in crows' nests.",
      "views": [
       {
-       "who": "Lakshmi, aged 6",
+       "who": "First child",
        "says": "The crows feed the chick and keep the chick safe. So the chick is their baby."
       },
       {
-       "who": "Tanvi, aged 6",
+       "who": "Second child",
        "says": "The chick hatched from a koel mother's egg. So the chick is a koel's baby, not the crows'."
       }
      ],
-     "ask": "Which girl do you agree with? Why? Then say one thing the other girl got right.",
+     "ask": "Which child do you agree with? Why? Then say one thing the other child got right.",
      "a": "Both are right in a way. The chick is a koel, from a koel's egg, and will grow up to look like a koel. But the crows are the ones who feed the chick and keep the chick safe, so they are the parents who raise the chick.",
      "why": "A strong answer sees that a parent can be the one who laid the egg, or the one who looks after the baby, and gives a reason for one side."
     },
     {
      "t": "label",
      "p": "Here is the banana jar on day 8. Label the maggot, the brown case and the fly.",
-     "a": "The white wriggler on the banana is the maggot. The small brown case on the glass is the case, called a pupa. The tiny insect with wings is the fly.",
+     "a": "The white wriggler on the banana is the maggot. The small brown thing stuck to the glass is the brown case, called a pupa. The tiny insect with wings is the fly.",
      "why": "A fruit fly starts as a maggot, makes a brown case, and comes out as a fly. All three are the same kind of animal at different ages.",
      "how": "p1",
      "art": "A glass jar covered with cloth, with a piece of banana at the bottom, a white maggot on the banana, a brown case on the glass and a tiny fly near the top, with three empty label lines."
@@ -1440,7 +1440,7 @@
    "channel": "BBC Earth",
    "youtube": "ciVsS-oZEPc",
    "mins": 3,
-   "why": "Shows a whole elephant herd gathering around a newborn calf and look after the baby.",
+   "why": "Shows a whole elephant herd gathering around a newborn calf and looking after the baby.",
    "check": "Found by search: \"Elephant Herd Celebrates a New Born Calf\" by BBC Earth, 2 minutes, 39 seconds. A parent may preview it."
   }
  ],
@@ -1559,7 +1559,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before measuring with the head strips, what did a good scientist do first?",
+   "p": "In the Heads Tall experiment, what did you do first, before you measured with the head strips?",
    "opts": [
     "Guessed, and said why",
     "Measured only the grown-up",
@@ -1656,21 +1656,21 @@
  ],
  "maths": [
   {
-   "problem": "In the head strip test, a grown-up was 7 head strips tall. A child was 6. How many more head strips tall was the grown-up?",
+   "problem": "In the Heads Tall experiment, a grown-up was 7 head strips tall. A child was 6. How many more head strips tall was the grown-up?",
    "answer": "1 more head strip.",
    "explain": "7 take away 6 leaves 1. The grown-up's legs and body have grown more than the head, so the grown-up is more heads tall.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "e1",
-   "context": "This is about the head strip test, where you counted how many of their own heads tall each person is.",
+   "context": "This is about the Heads Tall experiment, where you counted how many of their own heads tall each person is.",
    "why_maths": "Finding the difference shows that a grown-up is more heads tall than a child, so their shape is different."
   },
   {
-   "problem": "Put these in order, from fewest heads tall to most: the grown-up (7), the baby (4), the child (6).",
+   "problem": "In the Heads Tall experiment, the grown-up was 7 heads tall, the baby 4 and the child 6. Put them in order, from fewest heads tall to most.",
    "answer": "Baby 4, child 6, grown-up 7.",
    "explain": "4 is less than 6, and 6 is less than 7. The older the person, the more heads tall, because the legs keep growing.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e1",
-   "context": "This is about the head strip test with a grown-up, a child and a baby photo.",
+   "context": "This is about the Heads Tall experiment with a grown-up, a child and a baby photo.",
    "why_maths": "Putting the numbers in order shows a pattern: the older the person, the more heads tall."
   },
   {
@@ -1682,12 +1682,12 @@
    "why_maths": "Comparing the numbers helps us think about why some animals have many young and some have just one."
   },
   {
-   "problem": "On day 10, a girl called Meena looked at her banana jar. She counted 3 maggots, 4 brown cases and 5 flies. Make a tally. Which was there most of?",
+   "problem": "On day 10 of the Banana Jar project, there were 3 maggots, 4 brown cases and 5 flies in the jar. Make a tally. Which was there most of?",
    "answer": "Flies, with 5.",
    "explain": "Maggots: 3 marks. Brown cases: 4 marks. Flies: 5 marks. By day 10, many maggots had already turned into cases, and many cases into flies.",
    "math_unit": "math.data.sorting-and-tallies.L1",
    "how": "p1",
-   "context": "This is about the banana jar, where you watched fruit fly babies grow.",
+   "context": "This is about the Banana Jar project, where you watched fruit fly babies grow.",
    "why_maths": "A tally shows at a glance which stage most of the young have reached."
   }
  ],
@@ -1823,9 +1823,9 @@
  "roots": {
   "context": "We have looked at baby animals and measured our own bodies with head strips. Now we ask what growing up tells us about ourselves.",
   "deep_truth": {
-   "truth": "Our head strips showed a grown-up about 7 heads tall, a child about 6, and a baby about 4. After birth, the legs grow much more than the head does. So growing up changes the shape of a body, as well as the size.",
+   "truth": "In the Heads Tall experiment, the grown-up was about 7 heads tall, the child about 6, and the baby about 4. After birth, the legs grow much more than the head does. So growing up changes the shape of a body, as well as the size.",
    "habit": "We often picture a baby as a grown-up made small. But a baby's body has their own shape, and each part grows at a different speed.",
-   "evidence": "In the head strip test, each person was measured with a strip of their own head. The grown-up came out about 7 heads tall, the child about 6, and the newborn photo about 4."
+   "evidence": "In the Heads Tall experiment, each person was measured with a strip of their own head. The grown-up came out about 7 heads tall, the child about 6, and the newborn photo about 4."
   },
   "three": {
    "who_am_i": "Your body has changed shape since you were born. You are still you, in a new shape.",
@@ -1874,7 +1874,7 @@
  },
  "how_we_found_out": {
   "context": "Some babies look so different from their parents that people thought they were a different animal. This card tells the true story of one of them.",
-  "story": "For more than 2,000 years, nobody had ever seen a baby eel. Aristotle, in ancient Greece, wrote that eels grew out of mud. In the sea, fishermen sometimes caught a strange little fish. This fish was flat and clear as glass, shaped like a leaf. Scientists thought the leaf fish was a different kind of fish. They gave the leaf fish a name: Leptocephalus, which means 'thin head'. In 1896, two Italian scientists, Giovanni Battista Grassi and Salvatore Calandruccio, kept some of these glass leaves in tanks of sea water in Messina. They watched the leaf fish every day. Slowly, the flat leaves grew shorter and rounder. They turned into tiny see-through eels. The 'different fish' had been baby eels all along. They just looked nothing like their parents. Later, a Danish scientist, Johannes Schmidt, sailed the Atlantic Ocean for years looking for the smallest ones. They led him to the Sargasso Sea, where the eels of Europe are born.",
+  "story": "For more than 2,000 years, nobody had ever seen a baby eel. Aristotle, in ancient Greece, wrote that eels grew out of mud. In the sea, fishermen sometimes caught a strange little fish. This fish was flat and clear as glass, shaped like a leaf. Scientists thought the leaf fish was a different kind of fish. They gave the leaf fish a name: Leptocephalus, which means 'thin head'. In 1896, two Italian scientists, Giovanni Battista Grassi and Salvatore Calandruccio, kept some of these leaf fish in tanks of sea water in Messina. They watched the leaf fish every day. Slowly, the flat fish grew shorter and rounder. They turned into tiny see-through eels. The 'different fish' had been baby eels all along. They just looked nothing like their parents. Later, a Danish scientist, Johannes Schmidt, sailed the Atlantic Ocean for years looking for the smallest leaf fish. They led him to the Sargasso Sea, where the eels of Europe are born.",
   "who": "Giovanni Battista Grassi and Salvatore Calandruccio, Italian scientists (1896); Johannes Schmidt, a Danish scientist (1904 to 1922)",
   "when": "Grassi and Calandruccio watched the change in 1896. Schmidt published where European eels breed in 1922.",
   "wrong_idea": "That eels have no babies and grow out of mud, and that the glassy leaf-shaped fish was a different kind of fish. Grassi and Calandruccio watched the leaf fish turn into young eels.",

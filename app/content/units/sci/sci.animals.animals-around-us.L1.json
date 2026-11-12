@@ -211,12 +211,12 @@
    "'Amma! The spider has caught her dinner,' said Ponni. She drew the spider and her web.",
    "That night, the tube light was on in the hall. Moths flew round and round the light. Selvan pointed up and squealed. A gecko was on the wall, right beside the light. The gecko stayed very still. Then, quick as a blink, the gecko ran forward and snapped up a moth.",
    "'Will the gecko bite us?' asked Selvan. 'Is the gecko poisonous?'",
-   "'No,' said Amma. 'Our gecko has no poison. The gecko eats the moths and the mosquitoes. In the day, the gecko hides behind the cupboard, in the dark and safe.'",
+   "'No,' said Amma. 'Our gecko has no poison. The gecko eats the moths and the mosquitoes. In the day, the gecko hides behind the cupboard, where it is dark and safe.'",
    "'How does the gecko walk on the ceiling?' asked Ponni.",
    "'The gecko's toes have millions of tiny hairs,' said Amma. 'They cling to the wall, so the gecko does not fall.'",
    "Ponni drew the gecko next to the light. Then she looked at her picture. There were four people, a crow, a spider, a gecko and so many ants that she could not count them.",
    "At dinner, Paati made dosa, with a carrot salad on the side. Ponni bit a piece of carrot with her front teeth. Crunch. Then she chewed it with her back teeth, round and round.",
-   "'Paati,' said Ponni, with her mouth full. 'I bite with my front teeth, like the gecko snaps. And I chew with my back teeth. Which animal chews like me?'",
+   "'Paati,' said Ponni, with her mouth full. 'I bite with my front teeth, the way the gecko snaps up a moth. And I chew with my back teeth. Which animal chews like me?'",
    "'A cow chews grass all day with her flat back teeth,' said Paati. 'Every animal has a mouth for their own food. The crow has a beak for rice, and you have teeth for dosa and carrots.'",
    "Ponni put down her dosa. She picked up her pencil. In the middle of her picture, she wrote one more word next to her own face. The word was 'animal'.",
    "'Amma,' she said. 'Not only four of us live here. Lots of animals live here. And I am one of them.'"
@@ -397,7 +397,7 @@
     "Take turns. Turn over the top food card and read the front aloud. A grown-up helps with reading.",
     "Put the food card under an animal who you think eats that food. Say how that animal's mouth gets the food.",
     "Turn the card over and read the back. If your animal is on the back, you score 1. Make a tally mark on paper.",
-    "If your animal is not on the back, move the card under an animal from the back. Nobody scores.",
+    "If your animal is not on the back, move the card under one of the animals named on the back. Nobody scores.",
     "When the pile is used up, add up the tally marks. The player with the most wins. If it is a tie, you both win. Then look at the row. Which animal got the most food cards?"
    ],
    "setup": [
@@ -421,9 +421,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Take turns. Turn a food card, put it under an animal, then read the back aloud. Score 1 for a right match.",
+     "do": "Take turns. Turn over a food card, put it under an animal, then read the back aloud. Score 1 for a right match.",
      "say": "Who eats this food? How does that animal pick up or chew this food?",
-     "kid": "Turn a card. Who eats this food? Put it under that animal.",
+     "kid": "Turn over a card. Who eats this food? Put it under that animal.",
      "ask": [
       {
        "q": "How does the gecko eat a moth?",
@@ -490,7 +490,7 @@
       },
       {
        "f": "Spider",
-       "b": "Hide: a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in.",
+       "b": "Hide: in a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in.",
        "img": {
         "src": "media/cards/animals-around-us-g2-0-02.jpg",
         "credit": "Ram Dayal Vaishnav, CC BY, via iNaturalist"
@@ -498,7 +498,7 @@
       },
       {
        "f": "Pigeon",
-       "b": "Hide: a low shelf near a window. Why: Pigeons rest on ledges and on air-conditioner boxes."
+       "b": "Hide: on a low shelf near a window. Why: Pigeons rest on ledges and on air-conditioner boxes."
       },
       {
        "f": "Mosquito",
@@ -551,7 +551,7 @@
     "The grown-up hides the 10 cards around the home, each in a place where that animal might really live.",
     "The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.",
     "For each card found, the child says why that animal might live there.",
-    "The grown-up reads the part of the back after the word Why.",
+    "The grown-up then reads aloud what the back of the card says after the word Why.",
     "When all 10 cards are found, put them on a drawing of the home."
    ],
    "setup": [
@@ -626,7 +626,7 @@
    "context": "In this experiment you look at your own teeth in a mirror. Then you eat five small foods, one at a time. For each one, you notice which teeth bite and which teeth chew, and a grown-up counts your chews.",
    "question": "Which teeth do you use to bite and to chew each food? Which food needs the most chews?",
    "predict": "Guess first. Which food will need the most chews? Which will need no chewing at all? Why do you think so?",
-   "fair_test": "Every solid piece is about the size of the top of your thumb. Curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.",
+   "fair_test": "Every solid piece is about the size of the top of your thumb. The curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.",
    "results_table": [
     "Food",
     "Which teeth bit it?",
@@ -668,7 +668,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Look at your teeth. Guess. Test five foods and count the chews. A grown-up does it too."
+     "what": "Look at your teeth in a mirror. Guess which food needs the most chews. Eat five foods and count the chews. Then a grown-up does the same."
     }
    ],
    "record": "Draw your mouth, with thin front teeth and wide back teeth. Next to each food, draw a tally of the chews.",
@@ -750,7 +750,7 @@
      "id": "s2",
      "mins": 3,
      "adult": true,
-     "do": "1. Cut a thumb-sized piece of banana, carrot and chapati. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.",
+     "do": "1. Cut one piece each of banana, carrot and chapati, each about the size of the top of your thumb. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.",
      "say": "Which food will need the most chews? Which will need none? Why do you think so?",
      "kid": "Guess. Which food needs the most chews? Which needs none? Why?",
      "ask": [
@@ -792,18 +792,18 @@
      "id": "s4",
      "mins": 5,
      "do": "Now swap. A grown-up eats the same five foods. Your child counts the grown-up's chews.",
-     "say": "Now it is my turn. You count my chews. Will I need more chews or fewer?",
+     "say": "Now it is my turn. You count my chews. Will I need more chews than you, or fewer?",
      "kid": "Now count your grown-up's chews. Are they more or fewer than yours?",
      "ask": [
       {
-       "q": "Was the order the same for both of us?",
+       "q": "Did the same food need the most chews for both of us? And the fewest?",
        "good": [
         "Yes, curd was fewest and carrot was most.",
         "You needed fewer chews, but the carrot still needed the most."
        ]
       }
      ],
-     "parent": "A grown-up's chew counts are usually a little different, but the order of the foods is often the same. That shows the food, not only the person, decides the chewing."
+     "parent": "A grown-up's chew counts are usually a little different, but the order of the foods is often the same. This shows that how much you chew depends on the food, not only on the person."
     },
     {
      "id": "s5",
@@ -1013,8 +1013,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "An hour before, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.",
-     "say": "Watch the bird's feet. Does the bird put one foot, then the other? Or both feet together?",
+     "do": "An hour before you watch, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.",
+     "say": "Watch the bird's feet. Does the bird put down one foot, then the other? Or both feet together?",
      "kid": "Watch the bird's feet. One foot, then the other? Or both feet together?",
      "parent": "Pigeons and mynas walk, one foot at a time. Pigeons nod their head with each step. Sparrows hop with both feet together. Crows walk and also hop. Stay behind the window grill and never lean out. Birds may not come in five minutes. If none comes, watch again later in the day, or on a short walk outside.",
      "ask": [
@@ -1099,7 +1099,7 @@
      "id": "s1",
      "mins": 15,
      "adult": true,
-     "do": "1. Your child chooses three animals from the home hunt. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.",
+     "do": "1. Your child chooses three animals who live in or near your home. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.",
      "say": "Which three animals live with us? Let's make a puppet of each one.",
      "kid": "Choose three animals from your home. Draw each one. Your grown-up cuts them out.",
      "parent": "Good choices are animals your child has really seen: ants, a gecko, a crow, a pigeon or a spider.",
@@ -1135,7 +1135,7 @@
    "constraints": [
     "The food must be something already in a flat, like crumbs, insects or dust.",
     "The animal needs a safe hiding place in the flat.",
-    "The animal's mouth must fit their food, and their feet must fit the place they move."
+    "The animal's mouth must fit their food, and their feet must fit the place where they move."
    ],
    "materials": [
     "atta dough or clay",
@@ -1277,7 +1277,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the chewing test? Which food needed almost no chewing?",
+     "p": "In the Chewing Test, you ate banana, carrot, chapati, curd and puffed rice. Which food needed almost no chewing?",
      "opts": [
       "Carrot",
       "Curd",
@@ -1405,7 +1405,7 @@
     },
     {
      "t": "order",
-     "p": "Put the chewing test in order.",
+     "p": "Put the steps of the Chewing Test in the order you did them.",
      "items": [
       "Count the chews",
       "Look at your teeth in a mirror",
@@ -1627,7 +1627,7 @@
    "t": "mcq",
    "p": "Why did each piece of food in the chewing test have to be the same size?",
    "opts": [
-    "So the food was the only difference",
+    "So that only the kind of food was different",
     "To save food",
     "Because big pieces taste better"
    ],
@@ -1722,25 +1722,25 @@
  ],
  "maths": [
   {
-   "problem": "In the chewing test, Ponni, a girl in Class 1, chewed the carrot 24 times and the banana 6 times. Which food needed more chews? Why do you think so?",
+   "problem": "In the Chewing Test, a child chewed the carrot 24 times and the banana 6 times. Which food needed more chews? Why do you think so?",
    "answer": "The carrot needed more chews.",
    "explain": "24 is more than 6. The carrot is hard, so the back teeth must grind it many times. The banana is soft.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e1",
-   "context": "This is about the chewing test, where you counted your chews for each food.",
+   "context": "This is about the Chewing Test, where you counted your chews for each food.",
    "why_maths": "Comparing the two numbers shows that the hard food needed far more work from the back teeth."
   },
   {
-   "problem": "Meera, a girl in Class 1, saw 9 ants climbing the kitchen wall. Then 4 ants went into a crack. How many ants are still on the wall?",
+   "problem": "9 ants were climbing the kitchen wall. Then 4 ants went into a crack. How many ants are still on the wall?",
    "answer": "5 ants are still on the wall.",
    "explain": "9 take away 4 leaves 5. Counting back from 9: 8, 7, 6, 5.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
    "how": "a1",
-   "context": "This is about the home hunt, where you looked for every animal in your home.",
+   "context": "This is about the activity 'Who Else Lives in Our Home?', where you looked for every animal in your home.",
    "why_maths": "Taking away shows how many ants are still out after some go home."
   },
   {
-   "problem": "Divya, a girl in Class 1, watched a ledge for a few minutes. She made a tally: pigeons ||||, sparrows ||, crows |. Which bird came most? How many birds came in all?",
+   "problem": "A child watched a window ledge for a few minutes and made a tally: pigeons ||||, sparrows ||, crows |. Which bird came most? How many birds came in all?",
    "answer": "Pigeons came most, 4 times. 7 birds came in all.",
    "explain": "4 tally marks for pigeons is the most. 4 and 2 and 1 make 7.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1879,20 +1879,20 @@
   "context": "We have found the animals in our home and tested our own teeth. Now we ask what our mouths tell us about ourselves and the other animals.",
   "deep_truth": {
    "truth": "In our chewing test, front teeth bit the food and back teeth ground it up. Curd needed almost no chewing, and carrot needed the most. Humans have both kinds of teeth because humans eat many kinds of food. So an animal's mouth shows what that animal eats.",
-   "habit": "We think of teeth as just for eating, the same in everyone. But every animal's mouth is shaped by their food, so looking in a mouth tells you how that animal lives.",
+   "habit": "We usually think teeth are just for eating, and the same in every animal. But each animal's mouth is shaped for their food, so looking in a mouth tells you how that animal lives.",
    "evidence": "In the chewing test, thin front teeth bit the carrot and the chapati, and wide back teeth chewed every food except the curd. The hard carrot needed many more chews than the soft banana."
   },
   "three": {
-   "who_am_i": "You are an animal with teeth for many foods. Your mouth tells the story of what humans eat.",
+   "who_am_i": "You are an animal with teeth for many foods. Your thin front teeth and wide back teeth show that humans eat many kinds of food.",
    "what_is_life": "Every animal must find food. The ant, the crow, the gecko and you each have a body that fits your own food.",
    "what_is_this_world": "One flat is home to many animals. Each one lives where they find their food and a safe place."
   },
-  "thread": "The ant, the crow, the gecko and you all need food. Each of you gets it in a different way: jaws, a beak, tiny gripping teeth, front and back teeth. One need, food, has given each animal a different mouth. So the animals in one small flat show many answers to the same need.",
+  "thread": "The ant, the crow, the gecko and you all need food. Each of you gets it with a different mouth: the ant has jaws, the crow has a beak, the gecko has tiny gripping teeth, and you have front and back teeth. So the animals in one small flat show many ways of meeting the same need.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal)",
     "teaching": "Zhuangzi, a Chinese thinker, wrote that people eat the meat of farm animals, deer eat grass, centipedes eat snakes, and owls and crows eat mice. Then he asked: which of them knows the right taste?",
-    "link": "Our home hunt found the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone."
+    "link": "The animals in our home show the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone."
    },
    {
     "source": "Thirukkural 322, by Thiruvalluvar",
@@ -1929,10 +1929,10 @@
  },
  "how_we_found_out": {
   "context": "How can people find out what an animal ate, even an animal who lived long ago? This card tells the true story of a woman who found out.",
-  "story": "About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton, and she grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.",
+  "story": "About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton. She grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.",
   "who": "Mary Anning, an English fossil hunter, with her brother Joseph; William Buckland, who named coprolites",
   "when": "The ichthyosaur skeleton about 1811 to 1812; coprolites named in 1829",
-  "wrong_idea": "That the 'bezoar stones' on the beach were just odd stones. Mary Anning found them inside ichthyosaur skeletons, broke them open and found fish bones and scales: they were fossil poo, which showed what ichthyosaurs ate.",
+  "wrong_idea": "People thought the 'bezoar stones' on the beach were just odd stones. Mary Anning found them inside ichthyosaur skeletons, broke them open and found fish bones and scales. They were fossil poo, which showed what ichthyosaurs ate.",
   "art": "A woman in a long dress and bonnet on a rocky beach, breaking open a round stone to show tiny fish bones, with a fossil skeleton in the cliff behind her."
  },
  "playtest": "Walked through the unit as a parent and a six-year-old in a city flat. Played both card games with 2 and with 4 players: all 8 animal cards, 16 food cards and 10 hiding cards are written out, with a score and a winner. Checked the chewing test (five foods, minutes add to 25, fair pieces), home hunt, gecko watch, bird watch, puppet show and invent-an-animal steps against their minutes and materials. Fixed a crow called 'he' in the story, made the bird-watch rice go out an hour before, moved the puppet 'come back tomorrow' to day 1, listed exactly what to cut for the chewing test, replaced a repeated true-or-false and a repeated joke, corrected Mary Anning's age, and removed three video entries with no address that carried internal notes.",

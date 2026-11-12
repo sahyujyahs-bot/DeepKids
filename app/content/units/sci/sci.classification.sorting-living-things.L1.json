@@ -85,14 +85,14 @@
    "concept": "No two living beings are exactly the same",
    "status": "defined",
    "definition": "Every living being is one of a kind. Beings in the same group share one feature, and are still different in many other ways.",
-   "description": "Lay two curry leaves on top of each other, and the edges do not match. One leaf grew in more light, and one grew later. Animals are the same: two crows both have grey necks, but one is bigger.",
+   "description": "Lay two curry leaves on top of each other, and the edges do not match. One leaf grew in more light, and one grew later. It is like this with animals too: two crows both have grey necks, but one is bigger.",
    "examples": [
     "Two leaves on one tulsi plant are different sizes.",
     "Two crows on the window grill look alike, but one is a little bigger.",
     "You and a friend may both have black hair, but you are not the same person."
    ],
    "perspectives": [],
-   "context": "This card is about what we found in the leaf test: even two leaves from one plant are different.",
+   "context": "This card is about what we found in the Leaf Twins experiment: even two leaves from one plant are different.",
    "art": "Two pencil tracings of curry leaves side by side on white paper, with a small circle round the tip where they differ."
   },
   {
@@ -371,7 +371,7 @@
    "rules": [
     "Put the two labels on the floor, a little apart. Each label is a basket. You can use two real baskets, two plates or two dupattas.",
     "Mix the animal cards and put them in a pile, face up.",
-    "The grown-up calls out a rule: 'Has wings'.",
+    "The grown-up calls out a rule, for example 'Has wings'.",
     "Take turns. Pick up the top card, say the animal's name, and put the card on YES or NO.",
     "If you are not sure, turn the card over. The grown-up reads the back.",
     "When all the cards are sorted, count each basket. Then mix the cards and play again with a new rule: 'Has 4 legs', 'Has fur or hair', 'Has no legs'."
@@ -500,7 +500,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "You go first. Take the rule card 'Has feathers'. Make two groups: crow, hen, peacock, and bat, cow, snake.",
+     "do": "You go first. Take the rule card 'Has feathers'. Make two groups: the crow, hen and peacock in one, and the bat, cow and snake in the other.",
      "say": "I have a secret rule. Look at my two groups. What is the same about everyone in this group?",
      "kid": "Look at the two groups. What is the same in this group?",
      "ask": [
@@ -651,7 +651,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show your child two steel spoons from one set. 2. Then show the sprig. 3. Ask for a guess and a reason. 4. Write the guess down.",
+     "do": "1. Show your child two steel spoons from one set. 2. Then show a sprig of curry leaves. 3. Ask for a guess and a reason. 4. Write the guess down.",
      "say": "These two spoons came from a factory. Will two leaves from one plant be exactly the same? Why do you think so?",
      "kid": "Will two leaves from one plant be exactly the same? Guess. Why do you think so?",
      "ask": [
@@ -671,7 +671,7 @@
      "do": "1. Pull off several leaves and lay them on the white paper. 2. Your child picks the two that look most alike.",
      "say": "Look at all the leaves. Find the two that look most like each other. Take your time.",
      "kid": "Look at all the leaves. Find two that look the most alike.",
-     "parent": "We pick the most alike pair on purpose. If even these two are different, the answer is strong. Small leaves are fiddly, so use big tulsi or money plant leaves if your child finds curry leaves too small."
+     "parent": "We pick the most alike pair on purpose. If even these two are different, we can be sure of the answer. Small leaves are fiddly, so use big tulsi or money plant leaves if your child finds curry leaves too small."
     },
     {
      "id": "s3",
@@ -713,9 +713,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to say what they found, what they saw, and why.",
+     "do": "Ask your child whether their guess was right, what they saw, and why the two leaves were different.",
      "say": "Was your guess right? What did you see? Why do you think two leaves from one plant came out different?",
-     "kid": "Was your guess right? What did you see? Why?",
+     "kid": "Was your guess right? What did you see? Why were the two leaves different?",
      "ask": [
       {
        "q": "Why are the two leaves different?",
@@ -858,7 +858,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Call a new rule: 'Everyone with hair or fur.' Swap the cards.",
+     "do": "Call a new rule: 'Everyone with hair or fur.' Your child takes the old cards off the towel and puts on every animal card with hair or fur.",
      "say": "Now everyone with hair or fur. Who comes onto the towel now?",
      "kid": "Hair or fur? Stand on the towel. Which animals come too?",
      "ask": [
@@ -875,7 +875,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the last question.",
+     "do": "Ask your child whether they are the same as the crow.",
      "say": "We were in the two-legs group, and in the hair group. You and a crow are both in the two-legs group. Are you the same as the crow?",
      "kid": "You and a crow both have two legs. Are you the same as the crow?",
      "check": {
@@ -1017,7 +1017,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Your child tells the book to someone at home, page by page, by looking at the drawings.",
+     "do": "Your child shows the book to someone at home and explains each page from the drawings.",
      "say": "Tell me about your book. Who is on the 'two legs' page? Did anyone fit on two pages?",
      "kid": "Show your book to someone. Who fits on two pages?",
      "ask": [
@@ -1110,7 +1110,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "A girl puts a crow, a hen and a peacock in one group. What could her rule be?",
+   "p": "A crow, a hen and a peacock are in one group. What could the rule be?",
    "opts": [
     "They all have feathers",
     "They are all black",
@@ -1146,14 +1146,14 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in your class, picks two tulsi leaves from one plant. Are they exactly the same?",
+   "p": "You pick two tulsi leaves from one plant. Are they exactly the same?",
    "opts": [
     "Yes, leaves from one plant are exactly the same",
     "No, they are a little different in size or shape",
     "They are the same only when they are small"
    ],
    "a": 1,
-   "why": "Each leaf grows in a different spot and gets different light, so no two come out exactly the same. This is what the leaf test showed.",
+   "why": "Each leaf grows in a different spot and gets different light, so no two come out exactly the same. This is what the Leaf Twins experiment showed.",
    "outcome": 3
   },
   {
@@ -1182,7 +1182,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before you do a test, what should a scientist do first?",
+   "p": "What should a scientist do first, before doing a test?",
    "opts": [
     "Guess what will happen, and say why",
     "Throw away the things to test",
@@ -1206,7 +1206,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meena, a girl in Class 1, sorts leaves into 'big' and 'small'. Her brother says one leaf is in the middle. What can they do?",
+   "p": "You sort leaves into 'big' and 'small'. One leaf is in the middle, not clearly big or small. What can you do?",
    "opts": [
     "Make the rule clearer, like 'bigger than my palm'",
     "Throw that leaf away",
@@ -1218,7 +1218,7 @@
   },
   {
    "t": "mcq",
-   "p": "You feed a caterpillar and watch it for many days. It makes a hard case, and later a butterfly comes out. What does this show?",
+   "p": "You feed a caterpillar and watch her for many days. She makes a hard case, and later a butterfly comes out. What does this show?",
    "opts": [
     "A caterpillar grows into a butterfly",
     "Caterpillars grow out of mud",
@@ -1300,7 +1300,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the two leaves you traced in the leaf test. Circle one place where they are different.",
+     "p": "Draw the two leaves you traced in the Leaf Twins experiment. Circle one place where they are different.",
      "a": "Two leaf outlines, with a circle round a difference such as the tip, the size or a spot.",
      "why": "A strong drawing shows two leaves that look alike, and points to a real difference the child found.",
      "how": "e1"
@@ -1627,7 +1627,7 @@
  ],
  "maths": [
   {
-   "problem": "In the 'has wings' group are a crow and a butterfly. Count all their legs.",
+   "problem": "A crow and a butterfly are both in the 'has wings' group. Count all their legs.",
    "answer": "8 legs.",
    "explain": "The crow has 2 legs and the butterfly has 6. 2 and 6 make 8. Both have wings, but they have very different numbers of legs.",
    "math_unit": "math.addition-subtraction.meaning.L1",
@@ -1636,7 +1636,7 @@
    "why_maths": "Adding the legs shows that two animals in one group can still be very different."
   },
   {
-   "problem": "Nandini, a girl in Class 1, sorted 9 animal cards. 4 cards have wings. The rest have no wings. How many have no wings?",
+   "problem": "You sort 9 animal cards. 4 cards have wings. The rest have no wings. How many have no wings?",
    "answer": "5 cards have no wings.",
    "explain": "4 and 5 make 9, so 5 cards are left. You can check by counting on from 4: 5, 6, 7, 8, 9. That is 5 more.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
@@ -1645,7 +1645,7 @@
    "why_maths": "Every card goes in one of the two groups, so the two groups always add up to the whole pile."
   },
   {
-   "problem": "In the leaf pile sort, Meena, a girl in Class 1, put 5 leaves on the 'big' plate and 3 on the 'small' plate. Which plate has more? How many more?",
+   "problem": "In the Leaf Pile Sort, there are 5 leaves on the 'big' plate and 3 on the 'small' plate. Which plate has more? How many more?",
    "answer": "The 'big' plate has 2 more.",
    "explain": "5 is more than 3. Count from 3 up to 5: 4, 5. That is 2 more.",
    "math_unit": "math.data.sorting-and-tallies.L1",
@@ -1788,11 +1788,11 @@
   ]
  },
  "roots": {
-  "context": "We have been sorting living beings into groups by what we can see. Now we ask what the leaf test tells us about belonging to a group.",
+  "context": "We have been sorting living beings into groups by what we can see. Now we ask what the Leaf Twins experiment tells us about belonging to a group.",
   "deep_truth": {
-   "truth": "We chose the two curry leaves that looked most alike. Laid one on the other, their edges still did not match. A curry leaf and a palak leaf also both had a stalk and a vein down the middle. So leaves on one plant are all different, and leaves on different plants still share features.",
-   "habit": "We think beings in one group are all the same, and beings in different groups have nothing in common. A group is made from one shared feature. Every member is still different from all the others, and members of different groups still share a lot.",
-   "evidence": "In the leaf test, the two most alike curry leaves from one sprig did not match when laid on top of each other. Leaves from different plants all had a stalk and veins."
+   "truth": "In the Leaf Twins experiment, we chose the two curry leaves that looked most alike. When we laid one on the other, their edges still did not match. A curry leaf and a palak leaf also both had a stalk and a vein down the middle. So leaves on one plant are all different, and leaves on different plants still share features.",
+   "habit": "It is easy to think that beings in one group are all the same, and that beings in different groups have nothing in common. But a group is made from only one shared feature. Every member is still different from all the others, and members of different groups still share a lot.",
+   "evidence": "In the Leaf Twins experiment, the two most alike curry leaves from one sprig did not match when laid on top of each other. Leaves from different plants all had a stalk and veins."
   },
   "three": {
    "who_am_i": "You belong to many groups: two legs with the crow, hair with the cow. In every one of those groups, there is only one you.",
@@ -1804,12 +1804,12 @@
    {
     "source": "Gottfried Leibniz, fourth letter to Samuel Clarke (1716), section 4",
     "teaching": "Leibniz told of a day in the palace garden at Herrenhausen in Germany. A clever gentleman said he could find two leaves exactly alike. Sophia, who lived in the palace, challenged him to do it. He searched the garden for a long time, and could not find two. Leibniz said that no two real things are ever exactly the same.",
-    "link": "You searched one sprig of curry leaves, and found what the gentleman found: no two leaves exactly alike."
+    "link": "In the Leaf Twins experiment, you searched one sprig of curry leaves and found what the gentleman found: no two leaves exactly alike."
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "A person who sees all beings in themselves, and themselves in all beings, hates no one.",
-    "link": "In the family sort, you stood in the two-legs group with the crow and in the hair group with the cow. Finding what you share with other animals is one small way of seeing yourself in them."
+    "link": "In Stand in My Group, you stood in the two-legs group with the crow and in the hair group with the cow. Finding what you share with other animals is one small way of seeing yourself in them."
    }
   ],
   "science": [
@@ -1841,12 +1841,12 @@
  },
  "how_we_found_out": {
   "context": "If you sort animals only by how they look, can looks fool you? This card tells the true story of a woman who watched closely and found out.",
-  "story": "About 350 years ago, many people in Europe believed that insects grew out of mud or rotting things. Maria Sibylla Merian, born in Frankfurt in Germany, wanted to see for herself. Since she was a girl she kept silkworms and other caterpillars in boxes, and fed them the leaves they ate. She watched them every day. She saw each caterpillar stop eating and turn into a still, hard case. Weeks later, a moth or a butterfly came out of the case. If you sort animals only by how they look, a caterpillar and a butterfly go in different groups. Merian showed that they are one animal at two ages. In 1679 she published a book of her paintings, showing each insect at every age on the plant they eat. In 1699, when she was 52, she sailed to Suriname in South America with her daughter Dorothea, to paint the insects there. Her book about them came out in 1705, and scientists still admire it today.",
+  "story": "About 350 years ago, many people in Europe believed that insects grew out of mud or rotting things. Maria Sibylla Merian, born in Frankfurt in Germany, wanted to see for herself. From the time she was a girl, she kept silkworms and other caterpillars in boxes, and fed them the leaves they ate. She watched them every day. She saw each caterpillar stop eating and turn into a still, hard case. Weeks later, a moth or a butterfly came out of the case. If you sort animals only by how they look, a caterpillar and a butterfly go in different groups. Merian showed that they are one animal at two ages. In 1679 she published a book of her paintings, showing each insect at every age on the plant they eat. In 1699, when she was 52, she sailed to Suriname in South America with her daughter Dorothea, to paint the insects there. Her book about them came out in 1705, and scientists still admire it today.",
   "who": "Maria Sibylla Merian, a German painter and naturalist, with her daughter Dorothea",
   "when": "1679 (her first caterpillar book) and 1705 (her book on the insects of Suriname)",
   "wrong_idea": "That insects grow out of mud or rotting things. By raising caterpillars and watching every stage, Merian showed that each insect comes from an egg laid by a mother, and that a caterpillar and a butterfly are the same animal.",
   "art": "A woman in a long dress of the 1600s, painting a caterpillar on a leaf at a table, with small boxes of leaves and a butterfly beside her."
  },
  "playtest": "Walked through every card, game, activity, experiment, project, challenge and both worksheets as a parent and a 6-year-old would. Fixed: leaf test cut from 20 to 15 minutes (steps agree); Guess My Rule parent note made correct; family-sort answers now include the bat and the check now matches the step; the book project and challenge no longer need reading and no longer use a story name; a repeated bat question and a repeated leaf question replaced; weak jokes replaced; the story's doubled 'For the parent' removed; deep truth no longer jumps from leaves to all beings; video placeholders with internal notes removed; song note rewritten.",
- "warm": {"words": ["BIRDS", "WINGS", "GROUP", "SORTS", "CHECK"], "quiz": [["Every bird has feathers.", true, "No other animal alive today has feathers, so feathers tell us it is a bird."], ["A bat is a bird because a bat has wings and flies.", false, "A bat has fur and no feathers. A bat mother feeds her baby milk."], ["A good sorting rule is one that everyone can check with their eyes or hands.", true, "Then everyone who uses the rule makes the same groups."], ["A spider is an insect.", false, "Every insect has six legs. A spider has eight legs, so it is in a different group."], ["Humans are animals.", true, "When we sort animals, people fit into groups with other animals, like the two-legs group."], ["Colour is a good way to sort animals.", false, "A male koel is black and a female koel is brown, but they are the same kind of bird."], ["No two living beings are exactly the same.", true, "Even beings in one group are different in many other ways."], ["Two leaves from the same plant are exactly the same.", false, "Even the most alike pair of leaves has small differences."], ["A hen is not a bird because she hardly flies.", false, "She has feathers, and every bird has feathers. Flying is not the rule."], ["A bat is not a bird.", true, "A bat has fur, no feathers and no beak, and it feeds its baby milk."]], "odd": [[["Crow", "Hen", "Peacock", "Bat"], "Bat", "Crow, hen and peacock all have feathers, but a bat has fur."], [["Ant", "Butterfly", "Beetle", "Spider"], "Spider", "Ant, butterfly and beetle have six legs, but a spider has eight."], [["Crow", "Human", "Hen", "Cow"], "Cow", "Crow, human and hen walk or stand on two legs, but a cow has four."], [["Has six legs", "Has a smooth edge", "Has wings", "Looks pretty"], "Looks pretty", "The others are features anyone can check, but what looks pretty is different for each person."], [["Cow", "Goat", "Human", "Hen"], "Hen", "Cow, goat and human mothers feed their babies milk, but a hen lays eggs."]]}
+ "warm": {"words": ["BIRDS", "WINGS", "GROUP", "SORTS", "CHECK"], "quiz": [["Every bird has feathers.", true, "No other animal alive today has feathers, so an animal with feathers is a bird."], ["A bat is a bird because a bat has wings and flies.", false, "A bat has fur and no feathers. A bat mother feeds her baby milk."], ["A good sorting rule is one that everyone can check with their eyes or hands.", true, "Then everyone who uses the rule makes the same groups."], ["A spider is an insect.", false, "Every insect has six legs. A spider has eight legs, so a spider is in a different group."], ["Humans are animals.", true, "When we sort animals, people fit into groups with other animals, like the two-legs group."], ["Colour is a good way to sort animals.", false, "A male koel is black and a female koel is brown, but they are the same kind of bird."], ["No two living beings are exactly the same.", true, "Even beings in one group are different in many other ways."], ["Two leaves from the same plant are exactly the same.", false, "Even the most alike pair of leaves has small differences."], ["A hen is not a bird because she hardly flies.", false, "She has feathers, and every bird has feathers. Flying is not the rule."], ["A bat is not a bird.", true, "A bat has fur, no feathers and no beak, and a bat mother feeds her baby milk."]], "odd": [[["Crow", "Hen", "Peacock", "Bat"], "Bat", "Crow, hen and peacock all have feathers, but a bat has fur."], [["Ant", "Butterfly", "Beetle", "Spider"], "Spider", "Ant, butterfly and beetle have six legs, but a spider has eight."], [["Crow", "Human", "Hen", "Cow"], "Cow", "Crow, human and hen walk or stand on two legs, but a cow has four."], [["Has six legs", "Has a smooth edge", "Has wings", "Looks pretty"], "Looks pretty", "The others are features anyone can check, but what looks pretty is different for each person."], [["Cow", "Goat", "Human", "Hen"], "Hen", "Cow, goat and human mothers feed their babies milk, but a hen lays eggs."]]}
 }

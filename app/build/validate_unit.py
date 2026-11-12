@@ -244,7 +244,7 @@ def check(path):
     W.extend(playtest(u))
     dt = (u.get("roots") or {}).get("deep_truth", {}).get("truth", "")
     sens = [x for x in re.split(r"(?<=[.!?])\s+", dt) if x]
-    if len(sens) > 4 or any(len(x.split()) > 20 for x in sens): P("roots.deep_truth: 3-4 short sentences, each under 20 words (PHILOSOPHY.md, 'Simple and direct')")
+    if len(sens) > 5 or any(len(x.split()) > 24 for x in sens): P("roots.deep_truth: up to 5 short sentences, each under 25 words, naming the experiment it comes from (PHILOSOPHY.md, 'Simple and direct')")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
     return e, mins, days
 

@@ -95,7 +95,7 @@
    "examples": [
     "Some children feel calm with Amma's old saree or dupatta, because it smells of her.",
     "A dog greets each person at the door by sniffing them first.",
-    "Two ants meet on the wall and touch feelers for a moment, then walk on."
+    "Two ants meet on the wall and touch feelers for a moment. They are smelling if they are from the same nest. Then they walk on."
    ],
    "perspectives": [],
    "art": "A small girl asleep, hugging a folded old cotton saree printed with small flowers, with a night lamp glowing beside her."
@@ -107,7 +107,7 @@
    "description": "Your skin is home to millions of microbes, tiny living beings too small to see. They feed on your sweat, and as they feed they make much of your smell. People who live together hug, hold hands and touch the same things, so they pass microbes to each other. In 2013, scientists in the United States found that people in one home share more skin microbes than people in different homes. Scientists do not yet know if shared microbes stay for long, or come and go after each touch.",
    "examples": [
     "Nila's grandmother, Ammachi, hugs Nila's little brother Arjun every morning. Each hug passes a few microbes between them.",
-    "Everyone at home drinks from the same steel tumblers and sits on the same sofa.",
+    "Everyone at home drinks from the same steel tumblers and sits on the same sofa, so microbes pass between them.",
     "If the family has a pet dog, she licks everyone's hands and shares microbes with the whole family."
    ],
    "perspectives": [
@@ -398,7 +398,7 @@
    "title": "Whose Cloth Is This? Can you find your family by smell alone?",
    "mins": 22,
    "days": 2,
-   "context": "In this experiment, everyone at home sleeps one night in a cotton T-shirt or vest. In the morning, each one goes into a steel tumbler. With your eyes covered, you sniff each tumbler and guess whose shirt it is.",
+   "context": "In this experiment, everyone at home sleeps one night in a cotton T-shirt or vest. In the morning, each shirt goes into its own steel tumbler. With your eyes covered, you sniff each tumbler and guess whose shirt it is.",
    "question": "Can I tell who wore a shirt just by smelling it, with my eyes covered?",
    "predict": "Guess first. Whose shirt will you know most easily by smell? Whose will be hardest? Why do you think so?",
    "fair_test": "Every shirt goes in the same kind of steel tumbler, so the tumblers give no clue. Your eyes are covered, so you cannot see the shirt. Your hands stay in your lap, so your fingers give no clue. Nobody wears perfume the night before. We add one clean, washed shirt, to see what 'nobody' smells like. We do two rounds, because one right guess could be luck.",
@@ -443,7 +443,7 @@
     {
      "day": 2,
      "mins": 20,
-     "what": "In the morning: put each shirt in a tumbler. Cover the eyes, sniff, guess. Do two rounds and record."
+     "what": "In the morning: put each shirt in a tumbler. Cover your child's eyes. Your child sniffs each tumbler and guesses whose shirt it is. Do this twice and write down the guesses."
     }
    ],
    "record": "Draw one tumbler for each shirt. Under each, draw the face of the person you guessed. Put a tick when you were right.",
@@ -548,7 +548,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Hold one tumbler under your child's nose for a few slow sniffs. 2. Ask whose shirt it is. 3. Write the guess next to that tumbler's place. 4. Do every tumbler. Between tumblers, let your child sniff the inside of their own elbow.",
+     "do": "1. Hold one tumbler under your child's nose for a few slow sniffs. 2. Ask whose shirt it is. 3. Write down the guess for that tumbler. 4. Do every tumbler. Between tumblers, let your child sniff the inside of their own elbow.",
      "say": "Take three slow sniffs. Whose shirt is this? It is fine to say 'I don't know' or 'nobody'.",
      "kid": "Sniff slowly, three times. Whose shirt is it? You can say 'I don't know'.",
      "ask": [
@@ -556,7 +556,7 @@
        "q": "What does this one smell like?",
        "good": [
         "Like hair oil and someone I know.",
-        "Like nothing, maybe it is the clean one."
+        "Like nothing. Maybe it is the clean one."
        ]
       }
      ],
@@ -567,13 +567,13 @@
      "mins": 4,
      "do": "1. Take the dupatta off. 2. Mix the tumblers again while your child turns away. 3. Cover the eyes again and do round 2. 4. Write the second guesses.",
      "say": "Now we do it all again in a new order. One right guess could be luck. Two right guesses is a real clue.",
-     "kid": "Let's do it again in a new order. Two right guesses is not luck.",
+     "kid": "Let's do it again in a new order. One right guess could be luck. Two right guesses is a real clue.",
      "parent": "Keep the chits under the tumblers as you mix them."
     },
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Take off the dupatta. 2. Lift each tumbler and read the chit together. 3. Your child puts a tick on the results for each right guess.",
+     "do": "1. Take off the dupatta. 2. Lift each tumbler and read the chit together. 3. Your child puts a tick in the results table for each right guess.",
      "say": "Let's look under the tumblers. Whose shirts did you know both times? Which ones were hard? Why do you think so?",
      "kid": "Look under each tumbler. Which ones did you get right? Which were hard?",
      "ask": [
@@ -605,7 +605,7 @@
    "title": "Pass the Smell: how far does it go along a line of hands?",
    "mins": 12,
    "days": 1,
-   "context": "In this experiment, one person rubs a crushed clove of garlic on their palm. Then everyone shakes hands down a line. Who still smells of garlic at the end? A smell is made of tiny bits too small to see, like microbes, and this shows how such tiny bits can pass from person to person.",
+   "context": "In this experiment, one person rubs a crushed clove of garlic on their palm. Then everyone shakes hands down a line. Who still smells of garlic at the end? A smell is made of tiny bits, too small to see. Microbes are too small to see as well. This experiment shows how such tiny things can pass from person to person.",
    "question": "If one person has garlic on their hand, and we shake hands down a line, how far does the smell go?",
    "predict": "Guess first. Will the last person in the line smell of garlic? Why do you think so?",
    "fair_test": "Everyone washes and dries their hands first, so they start the same. Everyone shakes hands the same way, for the count of three. Everyone smells their own palm the same way.",
@@ -637,7 +637,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Wash hands. Rub garlic on one palm. Pass the smell down the line. Smell each one and record."
+     "what": "Everyone washes their hands. A grown-up rubs garlic on one palm. Shake hands down the line. Everyone sniffs their own palm, and your child records how strong the garlic smell is."
     }
    ],
    "record": "Draw the line of people, and the spoon and cloth if you used them. Colour each hand: dark green for a strong smell, light green for a little, no colour for none.",
@@ -678,13 +678,13 @@
      "do": "1. The grown-up stands first in the line. 2. The grown-up crushes the garlic clove with the back of the spoon. 3. The grown-up rubs it on one palm for a few seconds.",
      "say": "Smell the garlic. Now the first person rubs it on their palm.",
      "kid": "Smell the garlic. The first person rubs it on their palm.",
-     "parent": "A grown-up crushes the garlic. Throw the clove in the cooking afterwards.",
+     "parent": "A grown-up crushes the garlic. Use the clove in cooking afterwards.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. The first person shakes hands with the second, for a count of three. 2. The second shakes with the third. 3. Go to the end of the line. If you are only two: after the handshake, your child holds the spoon in the hand for a count of three. Then the spoon is pressed on the cloth for a count of three.",
+     "do": "1. The first person shakes hands with the second, for a count of three. 2. The second shakes with the third. 3. Go to the end of the line. If you are only two: after the handshake, your child holds the steel spoon in that same hand for a count of three. Then press the spoon on the cotton cloth for a count of three.",
      "say": "Shake hands, one, two, three. Now pass it on to the next person.",
      "kid": "Shake hands. Count one, two, three. Pass it on.",
      "parent": "Use the same hand each time. With only two people, the spoon and cloth are the end of the line. Their smell may be very faint, and that is a result too."
@@ -693,8 +693,8 @@
      "id": "s4",
      "mins": 3,
      "do": "1. Everyone sniffs their own palm, then the spoon and the cloth if you used them. 2. Each says strong, a little, or none. 3. Your child records it.",
-     "say": "Sniff each hand in the line. Is the garlic smell strong, a little, or none? Which has the most? Which has the least?",
-     "kid": "Sniff each one. Strong, a little, or none?",
+     "say": "Everyone sniffs their own palm. Is the garlic smell strong, a little, or none? Who has the most? Who has the least?",
+     "kid": "Sniff your palm. Is the garlic smell strong, a little, or none?",
      "ask": [
       {
        "q": "Why did the smell get weaker down the line?",
@@ -943,7 +943,7 @@
      "do": "1. Everyone lines up behind the leader. 2. Each person holds the back of the shirt of the person in front, like a trunk holding a tail. 3. Walk slowly round the home.",
      "say": "Hold on, like a baby elephant holding their mother's tail with their trunk. Walk slowly. Our leader is taking us to the river!",
      "kid": "Hold on to the person in front. Walk slowly behind the leader.",
-     "parent": "This is only a game. Baby elephants walk close beside their mothers."
+     "parent": "Holding the tail is only for the game. Real baby elephants walk close beside their mothers."
     },
     {
      "id": "s3",
@@ -1053,7 +1053,7 @@
    "title": "Who Looked After Me as a Baby? A three-day memory book",
    "mins": 30,
    "days": 3,
-   "context": "In this project your child asks a family member each day about when they were a baby. Who fed them? Who sang to them? Who held them at night? They make one page a day.",
+   "context": "In this project your child asks a family member each day about the time when your child was a baby. Who fed them? Who sang to them? Who held them at night? Your child makes one page a day.",
    "materials": [
     {
      "item": "4 sheets of paper (3 pages and a cover), stapled or tied with thread into a little book",
@@ -1165,7 +1165,7 @@
    ],
    "general": [
     "Fold a strip of cardboard into a triangle and tape it to the back of the picture, like a photo frame.",
-    "Glue the picture on thick cardboard. Fold a wide strip at the bottom forward to make a flat foot.",
+    "Glue the picture on thick cardboard. Fold the bottom of the cardboard forward in a wide strip, so it makes a flat foot.",
     "Fold the paper into a tent shape, with the picture on one side."
    ],
    "creative": [
@@ -1266,7 +1266,7 @@
      "t": "draw",
      "p": "Draw three things in your home that you can know by their smell alone. Ask a grown-up to write what they are.",
      "a": "A drawing of three things with a smell, such as tea, soap or a flower.",
-     "why": "A strong drawing shows things the child really knows by smell, which shows that smell tells us who and what is near."
+     "why": "A strong drawing shows things the child really knows by smell. Smell tells us who and what is near."
     },
     {
      "t": "match",
@@ -1305,7 +1305,7 @@
      "t": "truefalse",
      "p": "A family must always have a mother, a father and children.",
      "a": false,
-     "why": "False. Some families have one parent, some have grandparents raising a child, and some have aunts. Every kind with grown-ups who care is a family."
+     "why": "False. Some families have one parent, some have grandparents raising a child, and some have aunts. Any group with grown-ups who care for a child is a family."
     },
     {
      "t": "odd",
@@ -1396,22 +1396,22 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Nila, a girl in Kochi, sniffs two shirts. Her mother wore one all night. The other was just washed. Which one smells of a person?",
+     "p": "Here are two shirts. A mother wore one all night. The other was just washed. Which one smells of a person?",
      "opts": [
-      "The one her mother wore",
+      "The one the mother wore",
       "The one just washed",
       "Both the same"
      ],
      "a": 0,
-     "why": "A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why we used a washed shirt as the 'nobody' shirt.",
+     "why": "A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why the Whose Cloth Is This? test has one washed shirt that nobody wore.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down. In your shirt test, did you know the clean shirt? What does that tell you about a shirt nobody has worn?",
+     "p": "Say it to a grown-up, who writes it down. In the Whose Cloth Is This? test, one shirt was clean and washed. Could you tell which one it was? What does that tell you about a shirt nobody has worn?",
      "lines": 2,
      "a": "For example: The clean shirt smelled of nothing much, so a worn shirt smells of the person who wore it.",
-     "why": "A strong answer uses the clean shirt from their own test as evidence that the smell on a worn shirt comes from the person.",
+     "why": "A strong answer uses the clean shirt from the child's own test as evidence that the smell on a worn shirt comes from the person.",
      "how": "e1"
     },
     {
@@ -1462,7 +1462,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Humans and other animals use smell to know who is near. Smell is one of the most important ways.",
+     "why": "Humans and other animals use smell to know who is near. It is one of the most important ways they have.",
      "art": "Two ants touching feelers, a mother sheep sniffing a lamb, and a brown dog sniffing a boy's hand at a gate."
     },
     {
@@ -1479,7 +1479,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up. Arjun, a boy of four, says, 'People cannot smell each other. Only dogs use their noses.' What would you tell him from your test?",
+     "p": "Say it to a grown-up. Someone says, 'People cannot smell each other. Only dogs use their noses.' What would you tell them from your shirt test?",
      "lines": 2,
      "a": "I found some of my family by smell alone, with my eyes covered. So people do use their noses.",
      "why": "A strong answer uses the child's own shirt test as evidence against the idea.",
@@ -1555,7 +1555,7 @@
     },
     {
      "t": "truefalse",
-     "p": "The ants you see walking on the kitchen floor are all girls, and daughters of a queen in their nest.",
+     "p": "The ants you see walking on the kitchen floor are all girls. They are daughters of a queen in their nest.",
      "a": true,
      "why": "True. The worker ants are all female. Each one is a daughter of a queen in the nest."
     },
@@ -1635,14 +1635,14 @@
   },
   {
    "t": "mcq",
-   "p": "Tenzin lives in Gangtok with her mother and her grandmother. Is that a family?",
+   "p": "A girl lives with her mother and her grandmother. Is that a family?",
    "opts": [
     "Yes",
     "No, there is no father",
     "No, it is too small"
    ],
    "a": 0,
-   "why": "Tenzin's mother and grandmother look after her. Families come in many kinds, and this is one.",
+   "why": "Her mother and grandmother look after her. Families come in many kinds, and this is one.",
    "outcome": 1
   },
   {
@@ -1684,14 +1684,14 @@
   },
   {
    "t": "mcq",
-   "p": "Thenu, a girl in Class 1, does the shirt test once and gets one right. Why should she do it again?",
+   "p": "You do the shirt test once and get one guess right. Why should you do it again?",
    "opts": [
     "One right guess could be luck",
     "To make it take longer",
     "Because the first time is always wrong"
    ],
    "a": 0,
-   "why": "A guess can be right by luck. If she is right two times, it is more likely her nose really knows.",
+   "why": "A guess can be right by luck. If you are right two times, it is more likely your nose really knows.",
    "outcome": 4,
    "how": "e1"
   },
@@ -1722,7 +1722,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi and her Amma hug every day. What passes between them?",
+   "p": "A girl and her mother hug every day. What passes between them?",
    "opts": [
     "Tiny microbes from their skin",
     "Nothing at all",
@@ -1834,7 +1834,7 @@
  ],
  "maths": [
   {
-   "problem": "In the shirt test, Nila guessed 5 shirts. She got 3 right. How many did she get wrong?",
+   "problem": "In the shirt test, you guess whose shirt is in 5 tumblers. You get 3 right. How many did you get wrong?",
    "answer": "2 wrong.",
    "explain": "5 shirts take away 3 right ones leaves 2. So 2 guesses were wrong.",
    "math_unit": "math.addition-subtraction.word-problems.L1",
@@ -1982,13 +1982,13 @@
  "roots": {
   "context": "We sniffed family shirts and passed a smell down a line of hands. Now we ask what this tells us about who we are, and what a family is.",
   "deep_truth": {
-   "truth": "With your eyes covered, your nose could find some of your family. Much of each person's smell is made by microbes living on their skin. People who live together pass these microbes to each other. So everyone in one home shares tiny living beings, whether born into the family or not.",
-   "habit": "We often say family means 'the same blood', the people you are born from. The shirt test and the microbe study show that living close together also makes people alike, even people who were not born related.",
+   "truth": "In the Whose Cloth Is This? test, many children find at least one family member by smell alone, with their eyes covered. Much of each person's smell is made by microbes living on their skin. People who live together pass these microbes to each other. So everyone in one home shares tiny living beings, whether born into the family or not.",
+   "habit": "We often say family means 'the same blood', the people you are born from. The shirt test and the 2013 study of skin microbes show that living close together also makes people alike, even people who were not born related.",
    "evidence": "In the shirt test, many children find at least one family member by smell alone. In 2013, scientists found that people in one home share more skin microbes, and a husband and wife share many, though they are not related by birth."
   },
   "three": {
    "who_am_i": "You are a person, and also a home for millions of tiny living beings. Some of them came from the people who hug you.",
-   "what_is_life": "Life is shared. Living beings pass to each other through every hug, every handshake and every shared tumbler.",
+   "what_is_life": "Living beings share with each other. Microbes pass from person to person with every hug, every handshake and every shared tumbler.",
    "what_is_this_world": "The world is full of families of many kinds: elephant families, ant sisters, joint families and families of two."
   },
   "thread": "A family begins with one person caring for another. Then more join, by birth, by marriage or by adoption. Each person brings their own smell and their own tiny beings. Living close, they share them, until the home has a smell of its own.",
@@ -2019,7 +2019,7 @@
    "view": "Family is about being born related. Genes from your parents shape your face, your body and part of your smell, and living together cannot change those genes."
   },
   "practice": {
-   "title": "Breathe in the people you love",
+   "title": "Smell someone you love",
    "mins": 3,
    "say": "Sit close to someone you love. Close your eyes. Breathe in slowly through your nose, three times. Can you smell them? Now breathe out slowly. Each breath out carries a little of you into the room. Sit quietly together for one more breath.",
    "kid": "Sit close to someone you love. Close your eyes. Breathe in slowly three times. Can you smell them? Breathe out slowly."
@@ -2032,11 +2032,11 @@
   "art": "A grandmother, a mother, a girl and a small boy sitting close together on a mat with their eyes closed, breathing in, with a soft glow of tiny friendly microbes drifting between them."
  },
  "how_we_found_out": {
-  "story": "For a long time, many scientists thought people had a poor sense of smell. In 1879, Paul Broca, a French doctor who studied the brain, said that humans smell poorly. He said the smell part of the human brain was small next to the rest of the brain. Most people believed this for over 100 years. Then scientists began to test real noses. In 1981, Richard Porter and John Moore in the United States asked children to wear plain T-shirts. Then their brothers, sisters and mothers sniffed the shirts. They could pick out their own family member's shirt by smell alone. In 1987, Marsha Kaitz and her team in Jerusalem tested new mothers. After less than an hour with their babies, nine out of ten mothers could pick out their own baby's shirt by smell. In 2017, the brain scientist John McGann wrote that the weak human nose is a myth. The smell part of the human brain has about as many nerve cells as in many other mammals.",
+  "story": "For a long time, many scientists thought people had a poor sense of smell. In 1879, Paul Broca, a French doctor who studied the brain, said that humans smell poorly. He said the smell part of the human brain was small next to the rest of the brain. Most people believed this for over 100 years. Then scientists began to test real noses. In 1981, Richard Porter and John Moore in the United States asked children to wear plain T-shirts. Then their brothers, sisters and mothers sniffed the shirts. They could pick out their own family member's shirt by smell alone. In 1987, Marsha Kaitz and her team in Jerusalem tested new mothers. After less than an hour with their babies, nine out of ten mothers could pick out their own baby's shirt by smell. In 2017, the brain scientist John McGann wrote that the weak human nose is a myth. The smell part of the human brain has about as many nerve cells as the smell part in many other mammals.",
   "who": "Paul Broca, a French doctor (1879); Richard Porter and John Moore in the United States (1981); Marsha Kaitz and her team at the Hebrew University in Jerusalem (1987); John McGann, a brain scientist in the United States (2017)",
   "when": "1879 to 2017",
   "wrong_idea": "People thought humans had a weak sense of smell, much weaker than other mammals. Tests showed that people can know their own family, and a mother her new baby, by smell alone."
  },
  "playtest": "Walked every game, experiment and activity as a parent and a Class 1 child in a flat. Earlier fixes kept: games and garlic test work with 2 people, real record lines, days and minutes agree. This pass: game blurb now says who reads the card; garlic test puts the grown-up first in the line; memory book has a sheet for the cover; shirt-test checks no longer claim success when a guess fails; unchecked 'many children' claims softened; adoption-law line made general; Malayali aunt word fixed; one repeated drawing question replaced; weak jokes replaced; names made family-neutral. Videos still need checked ids.",
- "warm": {"words": ["SMELL", "UNCLE", "ADOPT", "HOMES", "SHIRT"], "quiz": [["You can know your family by their smell.", true, "Every person has their own smell, and you learn the smells of the people you live with."], ["Only dogs can use smell. People cannot.", false, "People can tell their own family by smell, even with their eyes shut."], ["Tiny living beings on your skin help make your body smell.", true, "They feed on your sweat, and as they feed they make much of your smell."], ["A child who is adopted is not a real part of the family.", false, "An adopted child is the child of the new parents in every way, and is loved and cared for."], ["Families can be big or small, and every kind is a real family.", true, "A family is people who belong to each other and look after each other, in any shape."], ["Your body smell comes only from the family you were born into.", false, "Food, soap, sweat and skin microbes change your smell, and people who live together share microbes."], ["People who live together share tiny living beings from their skin.", true, "They hug, hold hands and touch the same things, so the tiny living beings pass between them."], ["A family is only the people you are related to by birth.", false, "A family is people who belong to each other and look after each other, including adopted children."], ["A baby can know its family before it can talk.", true, "Smell helps a baby know its family long before it can see clearly or talk."], ["The tiny living beings on your skin are big enough to see easily.", false, "Microbes are far too small to see, but they are alive."]], "odd": [[["Microbe", "Ant", "Cow", "Shirt"], "Shirt", "The first three are living beings; a shirt is not alive."], [["Grandmother", "Aunt", "Cousin", "Teacher"], "Teacher", "The first three are relatives in a family; a teacher is not a relative."], [["Food", "Soap", "Sweat", "Eye colour"], "Eye colour", "The first three change how you smell; eye colour does not."], [["Hugging", "Holding hands", "Sharing a towel", "Waving from far away"], "Waving from far away", "The first three are touching, which passes skin microbes; waving from far away has no touch."], [["Born into it", "Adopted", "Married into it", "Lives next door"], "Lives next door", "The first three are ways of becoming part of a family; living next door is not."]]}
+ "warm": {"words": ["SMELL", "UNCLE", "ADOPT", "HOMES", "SHIRT"], "quiz": [["You can know your family by their smell.", true, "Every person has their own smell, and you learn the smells of the people you live with."], ["Only dogs can use smell. People cannot.", false, "People can tell their own family by smell, even with their eyes shut."], ["Tiny living beings on your skin help make your body smell.", true, "They feed on your sweat, and as they feed they make much of your smell."], ["A child who is adopted is not a real part of the family.", false, "An adopted child is the child of the new parents in every way, and is loved and cared for."], ["Families can be big or small, and every kind is a real family.", true, "A family is people who belong to each other and look after each other, whatever kind of family it is."], ["Your body smell comes only from the family you were born into.", false, "Food, soap, sweat and skin microbes change your smell, and people who live together share microbes."], ["People who live together share tiny living beings from their skin.", true, "They hug, hold hands and touch the same things, so the tiny living beings pass between them."], ["A family is only the people you are related to by birth.", false, "A family is people who belong to each other and look after each other, including adopted children."], ["A baby can know their family before they can talk.", true, "Smell helps a baby know their family long before they can see clearly or talk."], ["The tiny living beings on your skin are big enough to see easily.", false, "Microbes are far too small to see, but they are alive."]], "odd": [[["Microbe", "Ant", "Cow", "Shirt"], "Shirt", "The first three are living beings; a shirt is not alive."], [["Grandmother", "Aunt", "Cousin", "Teacher"], "Teacher", "The first three are relatives in a family; a teacher is not a relative."], [["Food", "Soap", "Sweat", "Eye colour"], "Eye colour", "The first three change how you smell; eye colour does not."], [["Hugging", "Holding hands", "Sharing a towel", "Waving from far away"], "Waving from far away", "The first three are touching, which passes skin microbes; waving from far away has no touch."], [["Born into it", "Adopted", "Married into it", "Lives next door"], "Lives next door", "The first three are ways of becoming part of a family; living next door is not."]]}
 }

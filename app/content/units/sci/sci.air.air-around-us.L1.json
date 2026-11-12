@@ -50,7 +50,7 @@
   {
    "concept": "Air is all around us",
    "status": "defined",
-   "context": "This card says what air is and where it is, after catching air in a bag.",
+   "context": "This card says what air is and where it is. It follows Catch the Air, where you caught air in a bag.",
    "definition": "Air is a real thing that fills the space around us, indoors and outdoors, all over the Earth.",
    "description": "A room that looks empty is full of air. So is the space under your bed, inside a cupboard and inside an empty bottle. Air is made of tiny bits, far too small to see, and it wraps the whole Earth like a blanket.",
    "examples": [
@@ -78,7 +78,7 @@
   {
    "concept": "We feel air when it moves",
    "status": "defined",
-   "context": "This card explains why we feel air only sometimes, after the still-and-moving test.",
+   "context": "This card explains why we feel air only sometimes. It follows Still Air, Moving Air, where you sat still and then moved the air.",
    "definition": "We feel air when it moves against our skin, or when we move through it. Moving air is called wind.",
    "description": "The tiny bits of air touch your skin all the time, from every side. When the air is still, you do not notice it. When air moves, it bends the tiny hairs on your arms and presses your skin, and you feel it.",
    "examples": [
@@ -177,7 +177,7 @@
   {
    "q": "The sky is blue, and the sky is air. So can we see air after all?",
    "kind": "big",
-   "hint": "Think about a little air in a room, and a huge pile of air above us."
+   "hint": "Think about a little air in a room, and the huge amount of air above us."
   }
  ],
  "story": {
@@ -384,7 +384,7 @@
     }
    ],
    "rules": [
-    "Put a line of tape or a chappal at the start, and another two big steps away for the finish.",
+    "Mark the start with a line of tape or a chappal. Mark the finish the same way, two big steps away.",
     "Each player puts a cotton ball on the start line, in their own lane.",
     "Move your cotton ball to the finish line using only air. Don't touch it with anything.",
     "Count your waves, blows or squeezes. The fewest wins the round.",
@@ -533,8 +533,8 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Untwist the bag and open it wide. 2. In the first place, sweep the open bag through the air in one big scoop. 3. Twist the neck shut three times. 4. Look, then squeeze. 5. Mark the table. 6. Press the air out and go to the next place.",
-     "say": "Open the bag wide. Sweep it through, in one big scoop. Twist it shut. Did it puff up? Now the next place.",
-     "kid": "Open the bag. Sweep it through. Twist it shut. Is it fat?",
+     "say": "Open the bag wide. Sweep it through the air in one big scoop. Twist it shut. Did it puff up? Now the next place.",
+     "kid": "Open the bag. Sweep it through the air. Twist it shut. Is it fat?",
      "parent": "Under the bed: hold the bag open with both hands, push it under, and pull it out fast. In the cupboard and the bucket, scoop the bag right inside. If a bag is only half full, scoop again, a little faster. Every place fills the bag."
     },
     {
@@ -558,8 +558,8 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the table together. Ask for a claim, the evidence and a reason.",
-     "say": "What did you find out? Which places had air? How do you know? Were any of your guesses different?",
+     "do": "Look at the table together. Ask your child what they found out, how they know, and why they think it happened.",
+     "say": "What did you find out? Which places had air? How do you know? Was any guess different from what happened?",
      "kid": "Which places had air? How do you know?",
      "ask": [
       {
@@ -630,7 +630,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show your child the five places to test. They are the palm, the back of the hand, the cheek, the arm and the foot's sole. Draw the table.",
+     "do": "Show your child the five places to test. They are the palm, the back of the hand, the cheek, the arm and the sole of the foot. Draw the table.",
      "say": "I will wave this notebook near your skin, without touching. Which part do you think will feel the air best? Which least? Why?",
      "kid": "Which part will feel the air best? Which least? Why?",
      "ask": [
@@ -647,10 +647,10 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Your child shuts their eyes. 2. For each place, wave the notebook once, one hand-span away, three times, with a pretend wave mixed in. 3. For a pretend wave, move your arm but keep the notebook far away. 4. Write each answer.",
+     "do": "1. Your child shuts their eyes. 2. At each place, make 3 real waves and 1 pretend wave, in a mixed-up order. For a real wave, wave the notebook once, one hand-span from the skin. 3. For a pretend wave, move your arm but keep the notebook far away. 4. Write each answer.",
      "say": "Eyes shut. Say 'yes' when you feel air. Ready? Here comes the next one.",
      "kid": "Keep your eyes shut. Say 'yes' when you feel air.",
-     "parent": "The pretend waves keep the test fair, so we know your child is not just guessing. Waving gently is better than waving hard, so that there is a difference to find."
+     "parent": "The pretend waves keep the test fair, so we know your child is not just guessing. Wave gently, not hard. A hard wave is felt everywhere, so there is no difference to find."
     },
     {
      "id": "s3",
@@ -1295,12 +1295,12 @@
       ]
      ],
      "a": "All five go in 'Air is here'.",
-     "why": "Every place had air. The bag puffed up even under the bed and inside the bucket. A strong answer puts nothing in 'No air here'.",
+     "why": "Every place had air. In Catch the Air, the bag puffed up even under the bed and inside the bucket. A strong answer puts nothing in 'No air here'.",
      "how": "e1"
     },
     {
      "t": "draw",
-     "p": "Draw the bag twice: when it was squeezed flat and twisted shut, and after you caught air in it.",
+     "p": "In Catch the Air, you squeezed the bag flat and twisted it shut. Later you caught air in it. Draw the bag both ways.",
      "a": "A flat, crinkly bag, and a fat, round bag.",
      "why": "A strong drawing shows the difference: the bag stayed flat when no air could get in, and puffed up when it scooped air.",
      "how": "e1",
@@ -1320,7 +1320,7 @@
     },
     {
      "t": "match",
-     "p": "Draw a line from each one to what its moving air does.",
+     "p": "Each of these moves air. Draw a line from each one to what its moving air does.",
      "pairs": [
       [
        "A ceiling fan",
@@ -1353,7 +1353,7 @@
      "p": "Say it to a grown-up, who writes it down: how do you know there is air inside an empty bucket?",
      "lines": 2,
      "a": "I swept a bag inside the bucket and it puffed up.",
-     "why": "A strong answer uses evidence from the test, the bag puffing up, not just 'because air is everywhere'.",
+     "why": "A strong answer uses what happened in Catch the Air: the bag puffed up. It does not just say 'because air is everywhere'.",
      "how": "e1"
     },
     {
@@ -1365,14 +1365,14 @@
     },
     {
      "t": "mcq",
-     "p": "A girl called Kavya sits very still in a room with the fan off. She feels no air on her arm. Why?",
+     "p": "You sit very still in a room with the fan off. You feel no air on your arm. Why?",
      "opts": [
       "There is no air in the room",
       "The air is not moving",
-      "Her arm is asleep"
+      "Your arm is asleep"
      ],
      "a": 1,
-     "why": "The air is there, but it is still. Kavya will feel it when it moves, or when she moves through it.",
+     "why": "The air is there, but it is still. You will feel it when it moves, or when you move through it.",
      "how": "a1"
     },
     {
@@ -1402,7 +1402,7 @@
      ],
      "ask": "Who is right? Use what you found in Catch the Air. Then say one thing Divya got right.",
      "a": "Lakshmi is right: the bottle is full of air, just like the bucket and the space under the bed. Divya is right that there is no water and nothing we can see inside.",
-     "why": "A strong answer uses the bag test: every place that looked empty had air. It is also fair to Divya: 'empty' usually means nothing we can see.",
+     "why": "A strong answer uses Catch the Air: every place that looked empty had air. It is also fair to Divya: 'empty' usually means nothing we can see.",
      "how": "e1"
     }
    ]
@@ -1445,7 +1445,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the air coming out of the bag onto your cheek. Show the moving air with lines.",
+     "p": "In Catch the Air, the grown-up let the air out of the bag near your cheek. Draw the air coming out of the bag onto your cheek. Show the moving air with lines.",
      "a": "A bag near a face, with wavy lines going from the bag's neck to the cheek, and hair lifting.",
      "why": "A strong drawing shows the air moving from the bag to the cheek. Lines are how we draw air we cannot see.",
      "how": "e1"
@@ -1481,7 +1481,7 @@
      "p": "Say it to a grown-up, who writes it down: the air in your room looks clear, but the sky looks blue. The sky is made of air too. Why might it look blue?",
      "lines": 2,
      "a": "There is a huge amount of air above us, and so much air sends back some blue light.",
-     "why": "A strong answer says that a little air looks clear, but a very big amount of air looks blue. Any answer that thinks about how much air there is, is a good start."
+     "why": "A strong answer says that a little air looks clear, but a very big amount of air looks blue. An answer that talks about how much air there is makes a good start."
     },
     {
      "t": "sort",
@@ -1616,8 +1616,8 @@
  ],
  "maths": [
   {
-   "problem": "A girl called Revathi caught air in a bag in 6 places. The bag puffed up in every place. In how many places did she find no air?",
-   "answer": "0 places. She found air in all 6 places.",
+   "problem": "In Catch the Air, you caught air in a bag in 6 places. The bag puffed up in every place. In how many places did you find no air?",
+   "answer": "0 places. You found air in all 6 places.",
    "explain": "6 places, and the bag puffed up in 6. 6 take away 6 is 0. So there was no place without air.",
    "math_unit": "math.addition-subtraction.meaning.L1",
    "how": "e1",
@@ -1625,16 +1625,16 @@
    "why_maths": "Taking away the places with air from all the places shows how many had no air, and that number is zero."
   },
   {
-   "problem": "In the skin test, a girl called Meena felt 3 out of 3 waves on her cheek, but only 1 out of 3 on the sole of her foot. Where did she feel more? How many more?",
-   "answer": "On her cheek. She felt 2 more waves there.",
+   "problem": "In Where Does Your Skin Feel Air Best?, a child felt 3 out of 3 waves on the cheek, but only 1 out of 3 on the sole of the foot. Where did the child feel more waves? How many more?",
+   "answer": "On the cheek. The child felt 2 more waves there.",
    "explain": "3 is more than 1. 3 take away 1 is 2.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "e2",
-   "context": "This is about the skin test, where a grown-up waved a notebook near different parts of your skin.",
+   "context": "This is about Where Does Your Skin Feel Air Best?, where a grown-up waved a notebook near different parts of your skin.",
    "why_maths": "Comparing the two numbers shows which part of the skin feels moving air better."
   },
   {
-   "problem": "In the Cotton Ball Race, a girl called Nisha fanned her ball with a notebook and needed 7 waves. With a bag of air she needed only 4 squeezes. Which way needed fewer? How many fewer?",
+   "problem": "In the Cotton Ball Race, a player fanned the ball with a notebook and needed 7 waves. With a bag of air, the player needed only 4 squeezes. Which way needed fewer? How many fewer?",
    "answer": "The bag of air needed fewer. It needed 3 fewer.",
    "explain": "4 is less than 7. 7 take away 4 is 3.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
@@ -1768,9 +1768,9 @@
   ]
  },
  "roots": {
-  "context": "We have caught air in a bag in every corner of our home, and felt it on our skin only when it moved. Now we ask what that tells us about ourselves and the world.",
+  "context": "In Catch the Air, we caught air in a bag in every corner of our home. In Still Air, Moving Air, we felt air on our skin only when it moved. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Sitting still, you felt no air on your skin, yet your bags found air in every corner. When the bag's air rushed out onto your cheek, you felt it at once. Your skin feels air when air moves against it. So air touches you all the time, and you notice it only when it moves.",
+   "truth": "In Still Air, Moving Air, you sat still and felt no air on your skin. Yet in Catch the Air, your bag found air in every corner. When the air from the bag rushed out onto your cheek, you felt it at once. Your skin feels air when air moves against it. So air touches you all the time, and you notice it only when it moves.",
    "habit": "We think that if something were touching us, we would feel it. But air presses on our skin all day, and we notice only when it moves. Not feeling something does not tell us it is not there.",
    "evidence": "In Still Air, Moving Air, a child sitting still with the fan off felt no air at all. In Catch the Air, a bag swept through every place, even under the bed and inside an empty bucket, puffed up. When its air was squeezed out onto the cheek, the child felt it straight away."
   },
@@ -1784,12 +1784,12 @@
    {
     "source": "Vaisheshika Sutra of Kanada, 2.1.9 to 2.1.10",
     "teaching": "Kanada, a thinker in ancient India, said that touch is the sign of air. The touch we feel in a wind does not belong to anything we can see. So, he said, air is a real thing of its own, known by touch and not by sight.",
-    "link": "This is what you found too. Your eyes could not find the air. Your cheek and your hands could."
+    "link": "This is what you found in Catch the Air too. Your eyes could not find the air. Your cheek and your hands could."
    },
    {
     "source": "Tao Te Ching 5",
     "teaching": "The space between sky and earth is like a bellows. It is empty, yet it never runs out. The more it moves, the more comes out.",
-    "link": "A bellows is a bag that pushes out air when you squeeze it, like your bag of caught air. The room looked empty, but each bag you swept through it came back full."
+    "link": "A bellows is a bag that pushes out air when you squeeze it, like the bag of air in Catch the Air. The room looked empty, but each time you swept the bag through it, the bag came back full."
    }
   ],
   "science": [
@@ -1828,5 +1828,5 @@
   "art": "A man on a ship's deck looking at a deep blue sea under a blue sky."
  },
  "playtest": "Walked the whole unit as a parent and a six-year-old in a Kochi-style flat: both games with 2 and 4 players (all 12 cards and 3 mats listed; game 2 now says what a tied round means and to catch the bag of air first), the bag, skin, paint, bubble and boat activities (minutes add up; the bag test now says 'scoop' in the fair test and the steps, no contradiction), the 3-day air book (the child shows and tells instead of reading), and the quiz (one repeat of the bag test replaced by a new question about guesses). Removed the internal note on the song (the three videos still need checked addresses; the validator requires exactly 3), shortened the Rayleigh and Raman story, and made the mountain climbers' cylinders oxygen.",
- "warm": {"words": ["WINDY", "SPACE", "LIGHT", "LUNGS", "BLOWN"], "quiz": [["A bottle that looks empty is really full of air.", true, "We cannot see air, but it fills every space that looks empty."], ["Trees make the wind by waving their branches.", false, "Wind is moving air. The branches wave because the wind pushes them."], ["There is air only outside, where the wind blows.", false, "Air is indoors too. It is just not moving, so we do not feel it."], ["A fan can make wind in a room that has no trees.", true, "Wind is air that is moving, and a fan makes air move."], ["We cannot see air because light goes straight through it.", true, "Nothing bounces back to our eyes, so air looks like nothing."], ["If you cannot feel any air on your skin, there is no air near you.", false, "Still air is not moving against your skin, but it is still there."], ["Fast moving air pushes harder than slow moving air.", true, "The faster air moves, the harder it pushes whatever is in its way."], ["Only people need air to live.", false, "All animals breathe air too, and plants take air in as well."], ["The wind stops being air when it stops blowing.", false, "Wind is just air that is moving. When it stops, the air is still there."], ["A kite flies high because moving air pushes on it.", true, "Moving air pushes on things, so we can see what the wind does."]], "odd": [[["Air", "Wind", "Smell", "Stone"], "Stone", "We cannot see air, wind or a smell, but we can see a stone."], [["Kite", "Dry leaf", "Paper boat", "Big rock"], "Big rock", "Wind easily pushes light things, but a big heavy rock is too heavy for wind to move."], [["Child", "Crow", "Goat", "Toy car"], "Toy car", "A child, a crow and a goat breathe air to stay alive, but a toy car does not."], [["Empty bottle", "Puffed-up bag", "Pumped football", "Glass full of water"], "Glass full of water", "The first three are full of air. The glass is full of water, so there is no room for air."], [["Fan breeze", "Sea breeze", "Storm wind", "Still room air"], "Still room air", "Fan breeze, sea breeze and storm wind are moving air we can feel. Still room air is not moving."]]}
+ "warm": {"words": ["WINDY", "SPACE", "LIGHT", "LUNGS", "BLOWN"], "quiz": [["A bottle that looks empty is really full of air.", true, "We cannot see air, but it fills every space that looks empty."], ["Trees make the wind by waving their branches.", false, "Wind is moving air. The branches wave because the wind pushes them."], ["There is air only outside, where the wind blows.", false, "Air is indoors too. It is just not moving, so we do not feel it."], ["A fan can make wind in a room that has no trees.", true, "Wind is air that is moving, and a fan makes air move."], ["We cannot see air because light goes straight through it.", true, "No light bounces back to our eyes, so we see nothing where the air is."], ["If you cannot feel any air on your skin, there is no air near you.", false, "Still air is not moving against your skin, but it is still there."], ["Fast moving air pushes harder than slow moving air.", true, "The faster air moves, the harder it pushes whatever is in its way."], ["Only people need air to live.", false, "All animals breathe air too, and plants take air in as well."], ["The wind stops being air when it stops blowing.", false, "Wind is just air that is moving. When it stops, the air is still there."], ["A kite flies high because moving air pushes on it.", true, "Moving air pushes on things, so we can see what the wind does."]], "odd": [[["Air", "Wind", "Smell", "Stone"], "Stone", "We cannot see air, wind or a smell, but we can see a stone."], [["Kite", "Dry leaf", "Paper boat", "Big rock"], "Big rock", "Wind easily pushes light things, but a big heavy rock is too heavy for wind to move."], [["Child", "Crow", "Goat", "Toy car"], "Toy car", "A child, a crow and a goat breathe air to stay alive, but a toy car does not."], [["Empty bottle", "Puffed-up bag", "Pumped football", "Glass full of water"], "Glass full of water", "The first three are full of air. The glass is full of water, so there is no room for air."], [["Fan breeze", "Sea breeze", "Storm wind", "Still room air"], "Still room air", "Fan breeze, sea breeze and storm wind are moving air we can feel. Still room air is not moving."]]}
 }
