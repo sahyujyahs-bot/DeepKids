@@ -7,8 +7,8 @@
   "art": "A girl holding a clipboard in a kitchen, looking at a wall clock while her grandmother points at it, with a tick and a cross on the clipboard."
  },
  "intro": {
-  "hook": "Kavya's aunt says, \"Our wall clock has all twelve numbers on it. I see it every day.\" Kavya's uncle says, \"No, it only has 12, 3, 6 and 9.\" Both of them are completely sure. They cannot both be right.",
-  "text": "Feeling sure did not settle it. Looking at the clock did. In this unit you find out how often people are sure and wrong, and how to check a claim before you believe it.",
+  "hook": "An aunt says, \"Our wall clock has all twelve numbers on it. I see it every day.\" An uncle says, \"No, it only has 12, 3, 6 and 9.\" Both of them are completely sure. They cannot both be right.",
+  "text": "Feeling sure cannot settle it. Looking at the clock can. In this unit you find out how often people are sure and wrong, and how to check a claim before you believe it.",
   "art": "A woman and a man in a living room both pointing confidently at a round wall clock that the viewer cannot quite see, with a girl between them looking up."
  },
  "outcomes": [
@@ -43,7 +43,7 @@
   {
    "term": "Check",
    "meaning": "To look at the real thing, or ask someone who really knows, to see if a claim is true.",
-   "example": "Meenakshi checked how many steps go up to her floor by counting them as she climbed.",
+   "example": "To check how many steps go up to your floor, count them as you climb.",
    "art": "A girl counting steps on a staircase in a block of flats, with numbers above each step."
   },
   {
@@ -98,7 +98,7 @@
    ],
    "perspectives": [],
    "art": "A boy drawing a clock from memory with numbers in the wrong places, beside the real clock on the wall.",
-   "context": "This card explains what your Sure or Right? test showed: feeling sure does not make an answer right."
+   "context": "In the Sure or Right? test, you asked your family about things at home and then checked their answers. This card explains what the test showed: feeling sure does not make an answer right."
   },
   {
    "concept": "Says who? Where a claim comes from",
@@ -148,7 +148,7 @@
    "definition": "People tend to notice and remember the times a saying came true, and forget the times it did not. Scientists call this confirmation bias.",
    "description": "A day when a guest arrives is easy to remember. A day when nothing happens is easy to forget. So if you believe that a cawing crow brings a guest, you remember every time it worked. The many mornings when the crow cawed and nobody came slip away. The saying seems to come true again and again. The fix is to write down every time, the hits and the misses, and then count both.",
    "examples": [
-    "Meenakshi's Paati remembered four guests on crow days, and forgot nine crow days with no guest.",
+    "In the story Paati's Crow, Paati remembered the 4 crow days when a guest came. She forgot the 9 crow days when nobody came.",
     "Someone who thinks Fridays are unlucky remembers the bad Fridays and forgets the good ones.",
     "A tally kept every day remembers the misses for you."
    ],
@@ -171,7 +171,7 @@
     },
     {
      "who": "Thomas Kuhn, a historian of science (1922 to 1996)",
-     "explanation": "Scientists work inside a shared way of seeing. They do not drop an idea after one failed test. They often keep it until a better idea comes along."
+     "explanation": "Scientists who work on the same subject share the same main ideas. They do not drop one of these ideas after one failed test. They often keep it until a better idea comes along."
     },
     {
      "who": "Many working scientists",
@@ -205,7 +205,7 @@
   },
   {
    "text": "A claim is more trustworthy when other people can repeat the test and get the same result.",
-   "evidence": "N-rays were seen in one lab and its followers, but careful tests elsewhere found nothing. Real discoveries, like X-rays, were seen by everyone who repeated the test."
+   "evidence": "N-rays were rays that a French scientist said he had found in 1903. He and his followers saw them, but careful tests in other places found nothing. Real discoveries, like X-rays, were seen by everyone who repeated the test."
   },
   {
    "text": "Evidence that leaves out a group can give the wrong answer for that group.",
@@ -217,7 +217,7 @@
    "claim": "If very many people believe something, it must be true.",
    "who": "A common idea",
    "for": "Many things that most people believe are true, such as the Earth being round.",
-   "against": "Many people once believed in N-rays, and many still believe that lightning never strikes twice. The number of believers is not evidence. What counts is whether the claim was checked.",
+   "against": "Many people once believed in N-rays, which did not exist. Many still believe that lightning never strikes the same place twice. The number of believers is not evidence. What counts is whether the claim was checked.",
    "status": "rejected",
    "context": "This card is about a common idea: if many people believe it, it must be true."
   },
@@ -233,7 +233,7 @@
    "claim": "Scientists are never fooled.",
    "who": "Some people",
    "for": "Science has ways to catch mistakes, such as repeating tests.",
-   "against": "In 1903 and 1904, many scientists in France reported N-rays, which did not exist. They saw what they expected to see. Science caught the mistake only when someone tested it in a way that could fail.",
+   "against": "In 1903 and 1904, many scientists in France reported N-rays, which did not exist. They saw what they expected to see. The mistake was caught only when someone ran a test that could have shown the rays were real, and it showed they were not.",
    "status": "rejected",
    "context": "This card is about whether scientists can be fooled too."
   },
@@ -248,7 +248,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your family member was very sure, and wrong. What was the feeling of being sure made of, if it was not made of knowing?",
+   "q": "In the Sure or Right? test, someone in your family may have been very sure and still wrong. If they did not really know, where did the sure feeling come from?",
    "kind": "deep",
    "hint": "Think about where the answer came from: the clock, or their memory of the clock."
   },
@@ -265,12 +265,12 @@
   {
    "q": "When a whole group is missing from the evidence, who decides that they should be included?",
    "kind": "big",
-   "hint": "Think of the crash-test dummy. Who noticed women were missing?"
+   "hint": "For many years, crash-test dummies were built to the size of an average man. Who noticed that women were missing?"
   },
   {
    "q": "If a saying is not true, why do people keep passing it on?",
    "kind": "big",
-   "hint": "Paati kept feeding the crows. Does a saying do other things for people, apart from being true?"
+   "hint": "In the story Paati's Crow, Paati kept feeding the crows even after the saying failed the test. Does a saying do other things for people, apart from being true?"
   }
  ],
  "story": {
@@ -523,7 +523,7 @@
        ]
       }
      ],
-     "parent": "The 'how could we find out' part matters more than the card. Some claims sound strange and are true, like the octopus. Some sound sensible and are wrong, like the camel."
+     "parent": "Saying how someone could find out matters more than getting the card right. Some claims sound strange and are true, like the octopus. Some sound sensible and are wrong, like the camel."
     },
     {
      "id": "s4",
@@ -700,7 +700,7 @@
      "what": "Choose 8 questions, draw the table, ask each person, check every answer, and count."
     }
    ],
-   "record": "Fill in the table. Then count three numbers for each colour: how many answers were given, how many were right, how many were wrong. Write them in a small box at the bottom of the page.",
+   "record": "Fill in the table. Then, for each colour (green, yellow and red), count three numbers: how many answers were given, how many were right, how many were wrong. Write them in a small box at the bottom of the page.",
    "flow": [
     {
      "id": "s1",
@@ -732,10 +732,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Your child asks each person the 8 questions, one person at a time, in another room from the others. 2. After each answer, your child asks: very sure, a bit sure, or just guessing? 3. Your child writes the answer and colours the sure box.",
+     "do": "1. Your child asks each person the 8 questions, one person at a time, in another room from the others. 2. After each answer, your child asks: very sure, a bit sure, or just guessing? 3. Your child writes the answer and colours the 'How sure' box: green for very sure, yellow for a bit sure, red for just guessing.",
      "say": "Ask each question in the same words. After each answer, ask how sure they are. Don't tell them if they are right.",
-     "kid": "Ask each person alone. Say each question the same way. Then ask: how sure are you? Colour green, yellow or red.",
-     "parent": "Answer the questions yourself too, honestly, without looking. Nobody may walk to the clock or the tap before answering. If only one grown-up is at home, phone a relative and ask about their own home, and they check while you wait on the phone."
+     "kid": "Ask each person alone. Say each question the same way. Then ask: how sure are you? Colour the box green for very sure, yellow for a bit sure, red for just guessing.",
+     "parent": "Answer the questions yourself too, honestly, without looking. Nobody may walk to the clock or the tap before answering. If only one grown-up is at home, phone a relative and ask about their own home. They check while you wait on the phone."
     },
     {
      "id": "s4",
@@ -758,7 +758,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Count the green answers, and how many of them were wrong. Do the same for yellow and red. 2. Ask your child for a claim, the evidence and a reason. 3. Then read the card 'Being sure is not the same as being right'.",
+     "do": "1. Count the green (very sure) answers, and how many of them were wrong. Do the same for yellow and red. 2. Ask your child what they found out (a claim), what they saw that shows it (the evidence), and why they think it happened (a reason). 3. Then read the card 'Being sure is not the same as being right'.",
      "say": "What did you find out? What did you see that shows it? Why do you think it happened?",
      "kid": "Count each colour. How many were wrong? What did you find out?",
      "ask": [
@@ -801,7 +801,7 @@
    ],
    "example_chart": {
     "type": "bar",
-    "title": "Kavya's family: answers that were wrong",
+    "title": "One family: answers that were wrong",
     "x": "How sure",
     "y": "Wrong answers",
     "data": [
@@ -921,7 +921,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Tip everything onto the large plate, mix it well with clean hands, and pour it back into the jar. 2. Take three spoonfuls from three depths: push the spoon down for the top, the middle and near the bottom. 3. Count each one and write the numbers.",
+     "do": "1. Tip everything onto the large plate, mix it well with clean hands, and pour it back into the jar. 2. Take three spoonfuls: one from the top, one from the middle and one from near the bottom. Push the spoon down to reach the lower ones. 3. Count each one and write the numbers.",
      "say": "Now the dal is mixed. Take three spoonfuls from three places. Do they agree with each other now?",
      "kid": "Mix the dal. Take three spoonfuls from three places. Count each.",
      "ask": [
@@ -938,7 +938,7 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask for a claim, the evidence and a reason.",
+     "do": "Ask your child what they found out (a claim), what they saw that shows it (the evidence), and why they think it happened (a reason).",
      "say": "What did you find out about taking one spoonful from the top?",
      "kid": "What did you find out? What did you see?",
      "think": "Where else might someone take a sample from only the top, and get the wrong answer?"
@@ -1015,7 +1015,7 @@
        "q": "How could you find out?",
        "good": [
         "Look it up in a book about animals.",
-        "Ask someone who studies octopuses.",
+        "Ask someone who studies snails or crows.",
         "Find out how scientists know."
        ]
       }
@@ -1024,7 +1024,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Tell your child which was true. Then try one more claim to check right now. Claim: with arms stretched wide, the length from fingertip to fingertip is about your height. Use the string.",
+     "do": "Tell your child which was true. Then give one more claim that your child can check right now. Claim: with arms stretched wide, the length from fingertip to fingertip is about your height. Use the string.",
      "say": "The snail one is true. People looked at snail tongues under a microscope and counted the teeth. Now here is a claim you can check yourself, right now. With your arms stretched out wide, the length from fingertip to fingertip is about your height. Stretch the string along your arms, then hold it up against your height. Is it about the same?",
      "kid": "Stretch your arms out wide. Is that length about your height? Check with the string.",
      "check": {
@@ -1143,7 +1143,7 @@
    "title": "Be Clever Hans: the horse who read faces",
    "mins": 12,
    "days": 1,
-   "context": "About 1904, a horse in Berlin called Hans was famous for tapping out answers to sums with a hoof. In 1907, a scientist called Oskar Pfungst found that Hans watched the face and body of the person asking. In this activity you play Hans and find out how.",
+   "context": "Around 1904, a horse in Berlin called Hans was famous for tapping out answers to sums with a hoof. In 1907, a scientist called Oskar Pfungst found that Hans watched the face and body of the person asking. In this activity you play Hans and find out how he did it.",
    "materials": [
     {
      "item": "a steel spoon and a steel plate, to tap",
@@ -1166,7 +1166,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Write ten easy sums on ten slips, each with an answer from 1 to 9, such as 2 + 3. Make two piles of five. 2. Tell the story of Clever Hans in a few words, using the context above.",
+     "do": "1. Write ten easy sums on ten slips, each with an answer from 1 to 9, such as 2 + 3. Make two piles of five. 2. Tell the story of Clever Hans in a few words: a horse in Berlin who was famous for tapping out answers to sums with a hoof.",
      "say": "Hans was a horse in Berlin. People asked him sums, and he tapped his hoof the right number of times. Many experts were fooled. How do you think he did it?",
      "kid": "Hans was a horse who tapped out answers to sums. How did he do it?",
      "context": "This is the start of Be Clever Hans. You hear about a horse who seemed to do sums."
@@ -1185,7 +1185,7 @@
      "do": "Round 2: Shuffle the second pile and put it face down. Your child takes the top slip without looking, and you do not look either. Your child taps and stops where it feels right. Then turn the slip over, read the sum, and mark right or wrong. Do all five.",
      "say": "This time I don't know the sum. Tap and watch me, and stop when it feels right.",
      "kid": "The grown-up doesn't know the answer now. Tap and watch. What happens?",
-     "parent": "Neither of you knows the answer, so you cannot give any sign, even by accident. If your child gets only one or two right in round 2, that is the finding."
+     "parent": "Neither of you knows the answer, so you cannot give any sign, even by accident. If your child gets only one or two right in round 2, that is what this round is meant to show."
     },
     {
      "id": "s4",
@@ -1266,7 +1266,7 @@
      "kid": "Did the answer change? Whose answer was missing?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl aged 9, asked only her parents if the rasam was too spicy. Both said no. What is the problem with saying 'Nobody thinks it's too spicy'?",
+      "q": "A child asked only the two parents if the rasam was too spicy. Both said no. What is the problem with saying 'Nobody thinks it's too spicy'?",
       "options": [
        "Parents never tell the truth",
        "The children, and anyone else not asked, are missing",
@@ -1327,7 +1327,7 @@
      "do": "The message goes along the line. The last person says it out loud. Then open the paper and read the first message.",
      "say": "Last person, say it out loud. Now let's read what I first wrote.",
      "kid": "Say the message out loud. Now read the paper. What changed?",
-     "parent": "With only two people at home, whisper it to your child, who tells it to a relative on the phone, who tells it back after a few minutes of other chat."
+     "parent": "With only two people at home, whisper it to your child. Your child tells it to a relative on the phone. After a few minutes of other chat, the relative says it back."
     },
     {
      "id": "s3",
@@ -1448,13 +1448,13 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. On day 7, fill in the last row, then count the four boxes. 2. Your child tells the family what they found, with the table as evidence.",
+     "do": "1. On day 7, fill in the last row. Then count the days for each of the four boxes: crow and guest, crow and no guest, no crow and guest, no crow and no guest. 2. Your child tells the family what they found, with the table as evidence.",
      "say": "Count the days the crow called and a guest came. Now count the days the crow called and nobody came. What does the table show?",
      "kid": "Count the four boxes. What does your table show?",
      "wait": "Day 7: count and tell the family.",
      "check": {
       "t": "mcq",
-      "q": "Divya, a girl aged 8, tested the saying for a week. A crow called on all 7 mornings and a guest came on 2 days. Does the crow bring guests?",
+      "q": "Someone tested the saying for a week. A crow called on all 7 mornings and a guest came on 2 days. Does the crow bring guests?",
       "options": [
        "Yes, because guests came on crow days",
        "We can't tell, because the crow called every day, so there are no quiet days to compare",
@@ -1504,11 +1504,11 @@
     "Measure from the floor to each mark and write the numbers in a table."
    ],
    "creative": [
-    "Measure also how low each person can bend comfortably, for an older relative whose knees hurt. The shelf must be between the highest low point and the lowest high point.",
+    "Also measure how low each person can reach comfortably. This matters for an older relative whose knees hurt. The shelf must be above the highest of these low marks and below the lowest of the reach-up marks.",
     "If you know someone who uses a wheelchair or has a baby, ask how high they can reach, and add them to the chart.",
     "Make two shelves: one for the snacks children may take, and one higher up for things only grown-ups should reach, like medicines."
    ],
-   "your_turn": "Now find something else in your home that was made for one size of person. A mirror, a light switch or a hook for bags. Who is it too high or too low for?",
+   "your_turn": "Now find something else in your home that was made for one size of person. It could be a mirror, a light switch or a hook for bags. Who is it too high or too low for?",
    "flow": [
     {
      "id": "s1",
@@ -1545,14 +1545,14 @@
      "kid": "How high can the shelf be? Whose reach decided it?",
      "check": {
       "t": "mcq",
-      "q": "In one home, the father reaches 210 centimetres, the mother 195, and their son Arun, who is six, 140. How high can the shelf be so everyone can reach it?",
+      "q": "In one home, the father reaches 210 centimetres, the mother 195, and their six-year-old son 140. How high can the shelf be so everyone can reach it?",
       "options": [
        "210 centimetres",
        "195 centimetres",
        "No higher than 140 centimetres"
       ],
       "a": 2,
-      "why": "Arun has the lowest reach. A shelf above 140 centimetres would leave him out. Measuring only the grown-ups would have given the wrong answer."
+      "why": "The son has the lowest reach. A shelf above 140 centimetres would leave him out. Measuring only the grown-ups would have given the wrong answer."
      }
     }
    ],
@@ -1597,7 +1597,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Ask your child what a person should ask before passing on a message.",
-     "say": "Imagine a message comes on the phone and says, 'Forward to everyone!' What should we ask first?",
+     "say": "A message comes on the phone and says, 'Forward to everyone!' What should we ask first?",
      "kid": "A message says 'Forward to everyone!' What should you ask first?",
      "context": "This is a design challenge. You make a card to help the family check messages before forwarding them.",
      "ask": [
@@ -1682,7 +1682,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali, a girl aged 9, lives in a flat. Her grandfather is very sure the flat has six windows. Her mother is very sure it has eight. What is the best way to find out?",
+   "p": "In one flat, the grandfather is very sure there are six windows. The mother is very sure there are eight. What is the best way to find out?",
    "opts": [
     "Believe the oldest person",
     "Believe whoever sounds most sure",
@@ -1696,7 +1696,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, aged 7, did the Sure or Right? test with her family. She found that 3 of their 'very sure' answers were wrong. What does this show?",
+   "p": "A girl did the Sure or Right? test with her family. She found that 3 of their 'very sure' answers were wrong. What does this show?",
    "opts": [
     "Her family is careless",
     "Feeling very sure does not always mean being right",
@@ -1723,7 +1723,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy aged 8, asked the five children in the front row of his class which sweet they like best. All five said jalebi. He says, 'Everyone in my class likes jalebi best.' What is the problem?",
+   "p": "A boy asked the five children in the front row of his class which sweet they like best. All five said jalebi. He says, 'Everyone in my class likes jalebi best.' What is the problem?",
    "opts": [
     "Jalebi is not a sweet",
     "Five children from one row are few, and the rest of the class is missing",
@@ -1776,7 +1776,7 @@
   },
   {
    "t": "mcq",
-   "p": "In 1904, Robert Wood secretly took away the prism while Prosper-René Blondlot was looking for N-rays. Blondlot kept reading out the same numbers. What did this show?",
+   "p": "In 1904, Prosper-René Blondlot said he could see invisible rays, called N-rays, with the help of a prism. Robert Wood secretly took the prism away while Blondlot was looking. Blondlot kept reading out the same numbers. What did this show?",
    "opts": [
     "N-rays can pass through anything",
     "Blondlot was seeing what he expected, not real rays",
@@ -1784,12 +1784,12 @@
     "Wood was not a real scientist"
    ],
    "a": 1,
-   "why": "Without the prism, the rays could not have fallen where Blondlot said. He kept seeing them because he expected to. Wood's test could have failed, and it did not.",
+   "why": "Without the prism, the rays could not have fallen where Blondlot said. He kept seeing them because he expected to. Wood's test could have shown the rays were real, and it showed they were not.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Why were many scientists fooled by N-rays?",
+   "p": "In 1903 and 1904, many scientists said they saw N-rays, which did not exist. Why were they fooled?",
    "opts": [
     "They expected to see them, and the signs were faint and hard to judge",
     "N-rays were real but disappeared later",
@@ -1815,7 +1815,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl aged 9, says, 'If a claim sounds true and lots of people say it, it must be true.' What is wrong with this?",
+   "p": "A girl says, 'If a claim sounds true and lots of people say it, it must be true.' What is wrong with this?",
    "opts": [
     "Nothing, she is right",
     "Many claims that sound true and are repeated often turn out wrong when checked",
@@ -1823,7 +1823,7 @@
     "Only children repeat claims"
    ],
    "a": 1,
-   "why": "The goldfish and lightning stories are repeated by many people and are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.",
+   "why": "Many people say that a goldfish forgets everything after three seconds, and that lightning never strikes the same place twice. Both are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.",
    "outcome": 3
   }
  ],
@@ -1852,14 +1852,14 @@
     },
     {
      "t": "truefalse",
-     "p": "Divya, a girl aged 8, says, 'If someone is very sure, they must be right.' Is she right?",
+     "p": "True or false: 'If someone is very sure, they must be right.'",
      "a": false,
      "why": "False. In the Sure or Right? test, some very sure answers were wrong. Being sure is a feeling, not evidence.",
      "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "Revathi, a girl aged 9, wants to know how many steps go up to her floor. Which is the best evidence?",
+     "p": "A girl wants to know how many steps go up to her floor. Which is the best evidence?",
      "opts": [
       "Her brother's guess",
       "Counting the steps as she climbs",
@@ -1935,7 +1935,7 @@
     },
     {
      "t": "mcq",
-     "p": "Simran, a girl aged 8, asked only the grown-ups in her home if the TV was too loud. They all said no. What is missing from her evidence?",
+     "p": "A girl asked only the grown-ups in her home if the TV was too loud. They all said no. What is missing from her evidence?",
      "opts": [
       "The TV's brand",
       "The children's and grandparents' answers",
@@ -1955,7 +1955,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Arun, a boy aged 6, says, 'A whispered message stays the same however many people pass it on.' Is he right?",
+     "p": "True or false: 'A whispered message stays the same however many people pass it on.'",
      "a": false,
      "why": "False. In the Passing Message, the words changed as they went along. Each person can add, drop or change a little.",
      "how": "a5"
@@ -2031,14 +2031,14 @@
    "items": [
     {
      "t": "write",
-     "p": "Paati said a crow calling means a guest is coming. What result in a tally would make you think the saying might be true?",
+     "p": "In the story Paati's Crow, Paati said a crow calling means a guest is coming. What result in a tally would make you think the saying might be true?",
      "lines": 3,
      "a": "Guests coming on many of the crow days, and hardly ever on the days with no crow, over many weeks.",
      "why": "A strong answer compares crow days with no-crow days, and wants many days, not a few."
     },
     {
      "t": "truefalse",
-     "p": "Tanvi, a girl aged 9, says, 'Asking who is missing means the evidence is useless.' Is she right?",
+     "p": "True or false: 'Asking who is missing means the evidence is useless.'",
      "a": false,
      "why": "False. It means the evidence tells you about the people who were asked, not about everyone. You can then go and ask the missing people."
     },
@@ -2058,7 +2058,7 @@
     },
     {
      "t": "mcq",
-     "p": "A horse seems to answer sums by tapping its hoof. It gets them right when the people watching know the answer, and wrong when nobody watching knows it. What is the horse really doing?",
+     "p": "A horse seems to answer sums by tapping his hoof. He gets them right when the people watching know the answer, and wrong when nobody watching knows it. What is the horse really doing?",
      "opts": [
       "Doing the sums in his head",
       "Reading tiny signs from the people watching him",
@@ -2185,7 +2185,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ishita, a girl aged 9, wore a red hair band in three cricket matches, and her team won all three. She says the band brings luck. Why is this not good evidence?",
+     "p": "A girl wore a red hair band in three cricket matches, and her team won all three. She says the band brings luck. Why is this not good evidence?",
      "opts": [
       "Hair bands are not allowed in cricket",
       "Her team may have won for other reasons, and she has not compared matches without the band",
@@ -2227,7 +2227,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Sure or Right? test, Kavya's family gave 12 'very sure' answers, and 3 were wrong. They gave 10 'just guessing' answers, and 5 were wrong. What is the fairest conclusion?",
+     "p": "In one Sure or Right? test, a family gave 12 'very sure' answers, and 3 were wrong. They gave 10 'just guessing' answers, and 5 were wrong. What is the fairest conclusion?",
      "opts": [
       "Being sure is useless",
       "Very sure answers were right more often than guesses, but some were still wrong",
@@ -2240,7 +2240,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three people talk about the N-rays story.",
+     "p": "In 1903 and 1904, many scientists said they saw N-rays. Then Robert Wood secretly took away the prism, and showed that the rays were not there. Three people talk about this story.",
      "views": [
       {
        "who": "Shanta, a science teacher",
@@ -2289,7 +2289,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Nila says, 'If a test of a claim could never come out wrong, the test tells us nothing.' Is she right?",
+     "p": "True or false: 'If a test of a claim could never come out wrong, the test tells us nothing.'",
      "a": true,
      "why": "True. If every result would fit the claim, the test cannot tell us whether the claim is right. Wood's prism test was strong because it could have shown the rays were real."
     },
@@ -2372,7 +2372,7 @@
       "Look at the result",
       "Share what happened so others can judge"
      ],
-     "why": "First the claim, then the test that could fail, then the result, then sharing it so others could judge."
+     "why": "First the claim, then the test that could fail, then the result, then sharing it so others can judge."
     },
     {
      "t": "match",
@@ -2402,7 +2402,7 @@
      "t": "label",
      "p": "A grandmother believes a calling crow brings a guest. Her granddaughter keeps a two-week tally: crow and guest 4, crow and no guest 9, no crow and guest 0, no crow and no guest 1. Label the box the grandmother probably remembers, and the box she probably forgets.",
      "a": "Remembered: crow and guest (4). Forgot: crow and no guest (9).",
-     "why": "The hits were remembered and the misses forgotten. The no-crow boxes are too small to tell anything, because there was only one quiet day.",
+     "why": "The hits were remembered and the misses forgotten. The two no-crow boxes cannot tell us anything, because there was only one day without a crow.",
      "art": "A 2 by 2 grid with the four numbers filled in and two empty labels.",
      "how": "p1"
     },
@@ -2523,7 +2523,7 @@
  ],
  "maths": [
   {
-   "problem": "In Kavya's Sure or Right? test, her family gave 12 'very sure' answers. 3 were wrong. How many were right?",
+   "problem": "In one Sure or Right? test, a family gave 12 'very sure' answers. 3 were wrong. How many were right?",
    "answer": "9 were right.",
    "explain": "12 take away 3 is 9. So 9 of the 12 very sure answers were right, and 3 were wrong.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2532,7 +2532,7 @@
    "how": "e1"
   },
   {
-   "problem": "Kavya's family gave 10 'just guessing' answers, and 5 were right. They gave 12 'very sure' answers, and 9 were right. Which kind of answer was right more often?",
+   "problem": "In one Sure or Right? test, a family gave 10 'just guessing' answers, and 5 were right. They gave 12 'very sure' answers, and 9 were right. Which kind of answer was right more often?",
    "answer": "The very sure answers. 9 out of 12 is more than half. 5 out of 10 is exactly half.",
    "explain": "Half of 12 is 6, and 9 is more than 6. Half of 10 is 5, so the guesses were right exactly half the time. Very sure answers did better, but not perfectly.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
@@ -2541,7 +2541,7 @@
    "how": "e1",
    "chart": {
     "type": "bar",
-    "title": "Kavya's family: right answers",
+    "title": "One family: right answers",
     "x": "How sure",
     "y": "Right answers",
     "data": [
@@ -2567,9 +2567,9 @@
    "why_maths": "Counting the misses as well as the hits is how a tally catches a saying that only sounds true."
   },
   {
-   "problem": "Divya, a girl aged 8, plays One True, One Made Up with 10 pairs of claims. If she only guesses, about how many will she get right?",
+   "problem": "You play One True, One Made Up with 10 pairs of claims. If you only guess, about how many will you get right?",
    "answer": "About 5.",
-   "explain": "Each pair has two choices, so a guess is right about half the time. Half of 10 is 5. If she gets 9 or 10 right, she probably knows something.",
+   "explain": "Each pair has two choices, so a guess is right about half the time. Half of 10 is 5. If you get 9 or 10 right, you probably know something.",
    "math_unit": "math.probability.likely-and-unlikely.L3",
    "context": "This is about One True, One Made Up, where a grown-up says two claims and you pick the true one.",
    "why_maths": "Knowing what guessing would give tells you whether a good score shows real knowledge or luck.",
@@ -2632,7 +2632,7 @@
   },
   {
    "q": "Why did Paati think the crow always brought guests?",
-   "a": "She remembered the hits and forgot the misses."
+   "a": "She remembered the days a guest came and forgot the days nobody came."
   },
   {
    "q": "Who showed that N-rays were not real?",
@@ -2725,8 +2725,8 @@
  "roots": {
   "context": "We have tested how often people are sure and wrong, and learned to ask: says who, how do they know, and who is missing? Now we ask what this tells us about knowing anything at all.",
   "deep_truth": {
-   "truth": "Some answers your family gave as 'very sure' were wrong when you checked the real thing. Being sure is a feeling inside the person. The clock on the wall stays the same, however sure anyone feels. So how sure someone sounds tells you about them, and only checking tells you about the clock.",
-   "habit": "We treat a sure voice as if it were proof, our own most of all. But the feeling of being sure comes from memory and habit, which can drift away from the thing itself. The test showed the two can come apart.",
+   "truth": "In Sure or Right?, some answers your family gave as 'very sure' were wrong when you checked the real thing. Being sure is a feeling inside the person. The clock on the wall stays the same, however sure anyone feels. So how sure someone sounds tells you about them, and only checking tells you about the clock.",
+   "habit": "We often treat a sure voice as proof, and our own sure feeling most of all. But the feeling of being sure comes from memory and habit, and a memory can be different from the real thing. The Sure or Right? test showed that a person can feel sure and still be wrong.",
    "evidence": "In Sure or Right?, every person answered from memory and said how sure they were. Then the family looked at the clock, the windows and the tap. Some very sure answers did not match what was there."
   },
   "three": {
@@ -2734,7 +2734,7 @@
    "what_is_life": "Every living thing acts on what they sense and remember. A crow comes back each morning to the balcony where rice was put out before, and looks to see if there is more.",
    "what_is_this_world": "The world is the same whatever anyone believes about it. That is why two people who check carefully end up agreeing."
   },
-  "thread": "Each person in your home carries their own picture of the flat in their memory. The pictures differ a little, and each one feels sure. But there is only one flat, and when everyone goes and looks, the pictures come together.",
+  "thread": "Each person in your home carries their own picture of the flat in their memory. The pictures differ a little, and each one feels sure. But there is only one flat. When everyone goes and looks, they all see the same thing.",
   "teachings": [
    {
     "source": "Kalama Sutta, Anguttara Nikaya 3.65",
@@ -2744,7 +2744,7 @@
    {
     "source": "Jain anekantavada, many-sidedness, and the story of the blind men and the elephant",
     "teaching": "Several blind men touch one elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is sure, and each has only a part.",
-    "link": "In the Top-Spoon Test, the top spoonful was sure the jar was all chana. It had only a part. Asking 'who is missing?' is asking what part of the elephant we have not touched."
+    "link": "In the Top-Spoon Test, the top spoonful held only chana, so it seemed the jar was all chana. But the spoonful was only a part of the jar. Asking 'who is missing?' is asking which part of the elephant we have not touched."
    }
   ],
   "science": [
@@ -2758,7 +2758,7 @@
    }
   ],
   "other_view": {
-   "who": "Philosophers who study trust, such as many in the tradition of Thomas Reid",
+   "who": "Philosophers who study trust, such as those who follow the ideas of Thomas Reid",
    "view": "Most of what anyone knows comes from what others told us, and we could not live if we checked it all. Trusting what people say is the normal way of knowing, and doubting should be kept for when there is a reason to doubt."
   },
   "practice": {
@@ -2768,7 +2768,7 @@
    "kid": "Close your eyes. Is the door handle on the left or right? How sure are you? Open your eyes and look. Close them again. Feel the floor under you."
   },
   "ask": [
-   "If you are sure about something and wrong, what was your sureness made of?",
+   "If you are sure about something and wrong, where did the sure feeling come from?",
    "Can two people who are both sure ever both be right?",
    "Is there anything you know without anyone telling you?",
    "What do you believe that you have never checked?"

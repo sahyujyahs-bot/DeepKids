@@ -12,11 +12,11 @@
   "art": "Two fist prints side by side in a plate of atta, one small and faint, one wide and deep, with a ruler lying across them."
  },
  "outcomes": [
-  "I can describe India's flag exactly: saffron, white and green bands, a navy-blue Ashoka Chakra with 24 spokes, and a length to height of 3 to 2. I can say what each part stands for, and who first designed it.",
+  "I can describe India's flag exactly: saffron, white and green bands, a navy-blue Ashoka Chakra with 24 spokes, and a shape that is 3 parts long for every 2 parts high. I can say what each part stands for, and who first designed it.",
   "I can name India's national emblem, animal, bird and flower, and the rupee symbol. I can say how the tiger's stripes and the peacock's tail help in their own lives.",
   "I can say who wrote the national anthem and the national song, and what 15 August, 26 January and 2 October remember.",
   "I can test whether one hand always leaves the same print, and explain why a print changes with the ground and with how hard you press.",
-  "I can explain why scientists now tell tigers apart by their stripes, using camera traps, and how Sariska showed that the old footprint count was wrong.",
+  "I can explain why scientists now tell tigers apart by their stripes, using camera traps. I can say how Sariska Tiger Reserve, found to have no tigers in 2005, showed that the old footprint count was wrong.",
   "I can check a claim against evidence, such as 'hockey is India's official national game', and say what I found."
  ],
  "cards_mins": 15,
@@ -169,7 +169,7 @@
    "concept": "The tiger, the peacock and the lotus in their own lives",
    "status": "defined",
    "definition": "The tiger is India's national animal, the peacock is the national bird and the lotus is the national flower. Each one's body helps them with a problem in their own life.",
-   "description": "A tiger's problem is food. Tigers cannot run fast for long, so they must creep very close to a deer before they leap. Their stripes break up their shape among tall grass and shadows. Deer see colours differently from us. To a deer, a tiger's orange looks much like green. So the deer does not see the tiger until too late. A peacock's problem is to be chosen. Peahens choose which male they mate with. In the rainy season, males spread their long trains and shake them to show themselves. The shining blue and green of the feathers is not paint. It comes from tiny ridges in the feathers that send back light in different ways. The lotus grows in muddy ponds. Their leaves are covered in tiny waxy bumps, so water rolls off in balls and carries the dust away. A clean leaf can catch more sunlight. The tiger became the national animal in 1973, when Project Tiger began. Before that it was the lion. The peacock became the national bird in 1963.",
+   "description": "A tiger's problem is food. Tigers cannot run fast for long, so they must creep very close to a deer before they leap. Their stripes break up their shape among tall grass and shadows. Deer see colours differently from us. To a deer, a tiger's orange looks much like green. So the deer does not see the tiger until too late. A peacock's problem is to be chosen. Peahens choose which male they mate with. In the rainy season, males spread their long trains and shake them to show themselves. The shining blue and green of the feathers is not paint. It comes from tiny ridges in the feathers that send back light in different ways. Lotus plants grow in muddy ponds. Their leaves are covered in tiny waxy bumps, so water rolls off in balls and carries the dust away. A clean leaf can catch more sunlight. The tiger became the national animal in 1973, when Project Tiger began. Before that, the national animal was the lion. The peacock became the national bird in 1963.",
    "examples": [
     "Hold a peacock feather and tilt it. The 'eye' changes colour as you turn it.",
     "A tiger photographed in tall dry grass is hard to spot, even for people.",
@@ -183,7 +183,7 @@
    "concept": "How India counts its tigers",
    "status": "defined",
    "definition": "Today India counts its tigers mainly with camera traps. Each tiger's stripe pattern is different from every other tiger's, and the pattern stays the same all their life. So a photo of the stripes shows exactly which tiger walked past.",
-   "description": "From the 1970s, forest staff counted tigers from pugmarks. They traced each print on glass or paper and decided which prints came from the same tiger. But a print changes with the ground and with how the tiger walks. In soft wet mud it spreads and looks bigger. In dry dust its edges crumble. A heavy tiger, or one running, presses deeper. So one tiger could be counted as two, and two tigers as one. In the early 1990s, the Indian scientist K. Ullas Karanth began using camera traps in Nagarahole, Karnataka. He recognised each tiger from their stripes. In 2005, scientists found that Sariska Tiger Reserve in Rajasthan had no tigers left at all, though the official records had still shown tigers there. After that, India changed how it counts. Since 2006, every count every four years uses camera traps and careful sums. The count in 2006 found about 1,411 tigers. The count in 2022 photographed at least 3,167. That is about three out of every four wild tigers in the world.",
+   "description": "From the 1970s, forest staff counted tigers from pugmarks. They traced each print on glass or paper and decided which prints came from the same tiger. But a print changes with the ground and with how the tiger walks. In soft wet mud it spreads and looks bigger. In dry dust its edges crumble. A heavy tiger, or one running, presses deeper. So one tiger could be counted as two, and two tigers as one. In the early 1990s, the Indian scientist K. Ullas Karanth began using camera traps in Nagarahole, Karnataka. He recognised each tiger from their stripes. In 2005, scientists found that Sariska Tiger Reserve in Rajasthan had no tigers left at all, though the official records had still shown tigers there. After that, India changed how it counts. Since 2006, tigers are counted every four years, with camera traps and careful sums. The count in 2006 found about 1,411 tigers. The count in 2022 photographed at least 3,167. That is about three out of every four wild tigers in the world.",
    "examples": [
     "A camera trap photographs a tigress's left side. Two weeks later another camera, 5 km away, photographs the same stripe pattern. It is the same tigress.",
     "A camera always photographs one side of a tiger. The left and right sides have different stripes, so scientists compare left with left.",
@@ -461,7 +461,7 @@
     }
    ],
    "rules": [
-    "Lay the 8 pugmark cards face up. Sort them into piles, one pile for each tiger you think made them. Bigger prints in one pile, smaller in another, or any way you choose.",
+    "Lay the 8 pugmark cards face up. Sort them into piles, one pile for each tiger you think made them. You could put bigger prints in one pile and smaller prints in another, or sort them any way you choose.",
     "Write how many tigers you counted from the pugmarks.",
     "Now lay out the 10 camera-trap cards face up. Sort them by stripe pattern. Each pattern is one tiger.",
     "Write how many tigers you counted from the stripes.",
@@ -472,8 +472,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Lay out the 8 pugmark cards. 2. Your child sorts them into one pile per tiger. 3. Write the count.",
-     "say": "You are the forest guard. Sort these prints into tigers. How many tigers do you think there are?",
-     "kid": "Sort the pugmark cards. One pile for each tiger. How many tigers?",
+     "say": "You are the forest guard. Sort these prints into piles, one pile for each tiger. How many tigers do you think there are?",
+     "kid": "Sort the pugmark cards. Make one pile for each tiger. How many tigers are there?",
      "parent": "Children usually sort by size and count 3 to 6 tigers. Any count is fine. Don't say the answer yet.",
      "context": "This is the first step of Count the Tigers. You sort pugmark cards to count tigers, like forest staff once did."
     },
@@ -662,7 +662,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Fill one plate with dry atta and one with damp atta. Press the same fist gently and hard into each. Measure every print. Then guess whose print is whose."
+     "what": "Fill one plate with dry atta and one with damp atta. Press the same fist gently and hard into each. Measure every print. Then you and your parent each make one print, and guess whose print is whose."
     }
    ],
    "record": "Fill in the results table. Draw one gentle print and one hard print, side by side, and write the widths under them.",
@@ -688,8 +688,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Show your child how to make the 'paw'. 2. Make a loose fist. 3. Turn it so the flat backs of the four bent fingers face down. 4. Those four bumps are the toes.",
-     "say": "A tiger's pugmark has four toe marks in a curve. Our fingers will be the toes. Now, will all the prints be the same width? Why do you think so?",
-     "kid": "Make a fist. Turn it so your four bent fingers face down. Those are your toes! Will all your prints be the same width? Why?",
+     "say": "A tiger's pugmark has four toe marks in a curve. Our fingers will be the toes. If we press this fist into dry atta and damp atta, gently and hard, will all the prints be the same width? Why do you think so?",
+     "kid": "Make a fist. Turn it so your four bent fingers face down. Those four bumps are the toes. Will all your prints be the same width? Why?",
      "ask": [
       {
        "q": "Will the same fist always leave the same print? Why do you think so?",
@@ -718,7 +718,7 @@
      "kid": "Now press into the damp atta. Gently, then hard. Measure each print. Are the edges sharp or crumbly?",
      "check": {
       "t": "mcq",
-      "q": "Your hard press left a wider print than your gentle press. Why?",
+      "q": "A hard press usually leaves a wider print than a gentle press. Why?",
       "options": [
        "The fist grew bigger",
        "The fist went deeper, so more of it touched the atta",
@@ -740,9 +740,9 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three short sentences: what they think now, what they saw, and why they think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the same hand leaves different prints. What I saw: my hard prints were about 2 cm wider than my gentle ones, and the dry prints were blurred. Why: pressing harder pushes the fist deeper, and dry atta crumbles in. So one print alone can't tell you whose hand it was."
     }
    ],
@@ -892,9 +892,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three short sentences: what they think now, what they saw, and why they think it happened.",
      "say": "What do you think now? What did the clock show? And why do you think people sing at different speeds?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: people sing the same song at different speeds. What I saw: my parent took 56 seconds and I took 49. Together we took 53. Why: each person has their own pace. When we sing together, we listen and keep the same speed. That is why the official anthem has a fixed tune and timing, so a whole school can sing it as one."
     }
    ],
@@ -969,7 +969,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Fold the paper circle in half. 2. Fold the half into three equal parts, like a fan. 3. Fold that in half. 4. Fold it in half again. 5. Open it out. 6. Draw over each crease in blue, from the middle to the edge. Draw a blue ring round the edge.",
-     "say": "Let's count as we fold. Half makes 2 parts. Into three makes 6. Half again makes 12. Half again makes 24.",
+     "say": "Let's count as we fold. Folding in half makes 2 parts. Folding into three makes 6. Folding in half again makes 12, and once more makes 24.",
      "kid": "Fold the circle in half. Then in three. Then in half. Then in half again. Open it. Draw blue lines on the folds.",
      "adult": true,
      "check": {
@@ -1109,7 +1109,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Your child asks 5 people you know, such as relatives or neighbours, by phone or in person two questions. 2. 'What is India's national game?' 3. 'Is it official, or not?' 4. Write each answer and whether they felt sure.",
+     "do": "1. Your child asks 5 people you know, such as relatives or neighbours, two questions, by phone or in person. 2. The first question is 'What is India's national game?' 3. The second is 'Is it official, or not?' 4. Write each answer, and whether the person felt sure.",
      "say": "Let's ask five people what India's national game is. Write down how sure each one feels.",
      "kid": "Ask 5 people. What is India's national game? Is it official? Write their answers.",
      "context": "This is the first step of the Fact Check. You find out what people believe about India's national game."
@@ -1118,8 +1118,8 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Count the answers. 2. Tell your child what happened in 2012. 3. Your child tells each person what the government said.",
-     "say": "In 2012, a schoolgirl asked the government when hockey was made the national game. The sports ministry replied that no game has been declared the national game. Why do so many people believe it?",
-     "kid": "In 2012 a schoolgirl asked the government. The answer was: India has no official national game! Why do so many people believe it?",
+     "say": "In 2012, a schoolgirl asked the government when hockey was made the national game. The sports ministry replied that no game has been declared the national game. Why do so many people believe hockey is the national game?",
+     "kid": "In 2012 a schoolgirl asked the government when hockey was made the national game. The answer was that India has no official national game. Why do so many people believe hockey is the national game?",
      "ask": [
       {
        "q": "Why do so many people believe hockey is the official national game?",
@@ -1266,7 +1266,7 @@
      "mins": 25,
      "do": "1. Set out the things on a table. 2. Your child writes a label for each. 3. Each label says what it is, what it stands for, and one surprising fact.",
      "say": "A museum label is short. What is it? What does it stand for? What is one surprise about it?",
-     "kid": "Put each thing on the table. Write a label. What is it? What does it mean? One surprise!",
+     "kid": "Put each thing on the table. Write a label for each: what it is, what it stands for, and one surprising fact.",
      "parent": "Good surprises: the tiger's orange looks green to a deer. Peacock colours come from tiny ridges, not paint. India has no official national game.",
      "context": "This is the first step of the National Symbols Museum. You set up a small museum and write a label for each thing.",
      "wait": "Open the museum on another day."
@@ -1275,7 +1275,7 @@
      "id": "s2",
      "mins": 20,
      "do": "1. Family members or friends are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.",
-     "say": "Welcome to the museum! Please tell us about this flag. How do scientists know which tiger is which?",
+     "say": "I am a visitor in your museum. Please tell us about this flag. How do scientists know which tiger is which?",
      "kid": "Welcome your visitors. Tell them about each thing. Answer their questions.",
      "ask": [
       {
@@ -1353,7 +1353,7 @@
      "kid": "Show your flag for 10 seconds. Hide it. Can they draw it? What did they forget?",
      "check": {
       "t": "mcq",
-      "q": "Deepa, a girl in Class 4, designs a flag with eight colours and tiny writing. Her friend can't draw it from memory. What would help most?",
+      "q": "A flag has eight colours and tiny writing. Nobody can draw it from memory. What would help most?",
       "options": [
        "Add more writing",
        "Use fewer colours and bigger shapes",
@@ -1419,7 +1419,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lalitha, a girl in Class 3, draws a flag 18 cm high. How long should it be, to be 3 to 2?",
+   "p": "A flag is 18 cm high. How long should it be, so that its length and height are 3 to 2?",
    "opts": [
     "9 cm",
     "12 cm",
@@ -1479,7 +1479,7 @@
     "It gives the date of Gandhi's birthday"
    ],
    "a": 0,
-   "why": "A constitution is the country's main set of rules: who makes the laws, how leaders are chosen, and what rights every person has. Republic Day, 26 January, remembers the day India's came into force.",
+   "why": "A constitution is the country's main set of rules: who makes the laws, how leaders are chosen, and what rights every person has. Republic Day, 26 January, remembers the day India's Constitution came into force.",
    "outcome": 2
   },
   {
@@ -1497,7 +1497,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila, a girl in Class 3, presses her fist into damp atta, first gently, then hard. What will she find?",
+   "p": "You press your fist into damp atta, first gently, then hard. What will you find?",
    "opts": [
     "Both prints are the same width",
     "The hard print is wider",
@@ -1585,7 +1585,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Anjali, a girl in Class 3 in Hyderabad, is making a flag 30 cm long. How high should it be?",
+     "p": "A flag is 30 cm long. How high should it be?",
      "opts": [
       "10 cm",
       "20 cm",
@@ -1632,7 +1632,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Bhaswati, a girl in Class 3 in Kolkata, says the flag should be flown with green on top on Republic Day. Is she right?",
+     "p": "Someone says the flag should be flown with green on top on Republic Day. Is this right?",
      "a": false,
      "why": "False. Saffron is always on top, every day. A flag with green on top is upside down."
     },
@@ -1670,7 +1670,7 @@
     },
     {
      "t": "write",
-     "p": "Priya, a girl in Class 3 in Kochi, pressed her fist into dry atta gently and then hard. The hard print was 2 cm wider. Explain why, in your own words.",
+     "p": "In the Paw Print Test, a fist pressed hard into dry atta left a print 2 cm wider than the same fist pressed gently. Explain why, in your own words.",
      "lines": 3,
      "a": "Pressing hard pushed the fist deeper into the atta. A fist is rounded, so when it goes deeper, more of its sides touch the atta and the print is wider.",
      "why": "A strong answer says the hand did not change size: the depth of the press did.",
@@ -1771,17 +1771,17 @@
      "p": "Two friends in Madurai argue about pugmarks.",
      "views": [
       {
-       "who": "Kavitha, aged 9",
+       "who": "The first friend",
        "says": "Pugmarks are useless for counting tigers. The same tiger leaves different prints."
       },
       {
-       "who": "Selvi, aged 8",
+       "who": "The second friend",
        "says": "Pugmarks are useful. They show where tigers walk and which way they went."
       }
      ],
      "ask": "Which friend do you agree with more? Use what you found in the Paw Print Test. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer uses the test: one fist left prints of different widths, so prints alone can't count tigers. It also gives Selvi her due: a print still shows that a tiger walked there, which way and how recently. Trackers use them for that today.",
+     "a": "A strong answer uses the Paw Print Test: one fist left prints of different widths, so prints alone can't count tigers. It also says what the second friend has right: a print still shows that a tiger walked there, which way and how recently. Trackers use pugmarks for that today.",
      "why": "Both have a point. Pugmarks are poor for telling tigers apart, and good for knowing where they go.",
      "how": "e1"
     }
@@ -1795,9 +1795,9 @@
    "items": [
     {
      "t": "write",
-     "p": "Hema has two prints from her Paw Print Test: 6 cm in damp atta and 6 cm in dry atta. Her brother says this proves the ground makes no difference. What would you tell him?",
+     "p": "In the Paw Print Test, a child gets two prints that are both 6 cm wide: one in damp atta and one in dry atta. Someone says this proves the ground makes no difference. What would you tell them?",
      "lines": 4,
-     "a": "One pair of prints can be a fluke. She should press each several times, the same way, and also look at the edges: dry prints are crumbly and blurred. The ground can change the shape and edges even when the width is close.",
+     "a": "One pair of prints can be a fluke. The child should press into each plate several times, the same way, and also look at the edges: dry prints are crumbly and blurred. The ground can change the shape and edges even when the width is close.",
      "why": "A strong answer asks for more tries before deciding, and looks at more than one thing about the print.",
      "how": "e1"
     },
@@ -1845,7 +1845,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why might a country choose a special old date to start something new, like its Constitution?",
+     "p": "Why might a country start something new, like its Constitution, on a date that was already special?",
      "opts": [
       "The printing was late",
       "To honour an earlier day that meant a lot to people",
@@ -1885,7 +1885,7 @@
        "says": "Hockey. India won 8 Olympic gold medals in hockey."
       },
       {
-       "who": "Lakshmi, aged 10",
+       "who": "A child, aged 10",
        "says": "Cricket. It is what most Indians play and watch today."
       },
       {
@@ -1982,13 +1982,13 @@
      "t": "write",
      "p": "Plan a new test to answer this question: does a heavier body leave a deeper print? Use things from home. Say what you would change and what you would keep the same.",
      "lines": 5,
-     "a": "Fill a steel tumbler with nothing, then half with water, then full. Rest it gently on damp atta each time, from the same height. Measure how deep each print is with a matchstick. Keep the same tumbler, the same atta and the same way of setting it down. Change only the weight.",
+     "a": "Use a steel tumbler three times: empty, then half full of water, then full. Rest it gently on damp atta each time, from the same height. Measure how deep each print is with a matchstick. Keep the same tumbler, the same atta and the same way of setting it down. Change only the weight.",
      "why": "A strong plan changes one thing only, the weight, and measures the result the same way each time.",
      "how": "e1"
     },
     {
      "t": "perspective",
-     "p": "In 2005, after Sariska, people argued about how to count tigers.",
+     "p": "In 2005, Sariska Tiger Reserve was found to have no tigers, though the records still counted some. After that, people argued about how to count tigers.",
      "views": [
       {
        "who": "A forest officer",
@@ -2010,11 +2010,11 @@
      "p": "Many people say 'hockey is our national game'. Write two things you could do to check whether a claim like this is true.",
      "lines": 4,
      "a": "Ask the people who would really decide it, such as the government ministry. Look for an official record, such as a law or a notice. Don't just count how many people say it.",
-     "why": "A strong answer goes to the source that would know, not to how sure or how many people are."
+     "why": "A strong answer goes to the source that would know. It does not rely on how sure people are, or on how many people say it."
     },
     {
      "t": "mcq",
-     "p": "Mitali, a girl in Class 3 in Guwahati, says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with her thinking?",
+     "p": "Someone says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with this thinking?",
      "opts": [
       "Nothing, there are three",
       "The fourth lion is hidden behind, because they sit back to back",
@@ -2035,7 +2035,7 @@
      "t": "truefalse",
      "p": "The same person always leaves exactly the same footprint, so footprints can always tell you who walked past.",
      "a": false,
-     "why": "False. Your own fist left prints of different sizes in the Paw Print Test, depending on the press and the ground.",
+     "why": "False. In the Paw Print Test, one fist left prints of different sizes, depending on the press and the ground.",
      "how": "e1"
     },
     {
@@ -2274,8 +2274,8 @@
  ],
  "maths": [
   {
-   "problem": "A flag must be 3 parts long for every 2 parts high. Hema makes a flag 30 cm long. How high must it be? Her brother makes one 60 cm long. How high must his be?",
-   "answer": "Hema's: 20 cm. Her brother's: 40 cm.",
+   "problem": "A flag must be 3 parts long for every 2 parts high. One flag is 30 cm long. How high must it be? Another flag is 60 cm long. How high must it be?",
+   "answer": "The 30 cm flag: 20 cm high. The 60 cm flag: 40 cm high.",
    "explain": "30 cm is 3 groups of 10 cm, so the height is 2 groups of 10 cm, which is 20 cm. 60 cm is 3 groups of 20 cm, so the height is 2 groups of 20 cm, which is 40 cm. Check: a flag twice as long is twice as high.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "context": "This is about making an exact flag. India's flag is always 3 to 2: 3 parts long for every 2 parts high.",
@@ -2283,9 +2283,9 @@
    "why_maths": "A ratio keeps the flag the same shape at any size, so a tiny paper flag and a huge one on a fort look exactly alike."
   },
   {
-   "problem": "In the Paw Print Test, Divya's gentle press in damp atta was 5 cm wide. Her hard press was 7 cm wide. Her mother's gentle press was 6 cm wide. Divya says, 'The 7 cm print must be my mother's, because it is the biggest.' Is she right?",
-   "answer": "No. The 7 cm print was Divya's own hard press.",
-   "explain": "Divya's own prints were 5 cm and 7 cm, a difference of 2 cm. Her mother's gentle print was 6 cm, which is in between. So the biggest print came from the smaller hand, pressed hard. Size alone can't tell you whose print it is.",
+   "problem": "In the Paw Print Test, a child's gentle print in damp atta was 5 cm wide. The same child's hard print was 7 cm wide. The child's mother made a gentle print 6 cm wide. Someone says, 'The 7 cm print must be the mother's, because it is the biggest.' Is that right?",
+   "answer": "No. The 7 cm print was the child's own hard press.",
+   "explain": "The child's own prints were 5 cm and 7 cm, a difference of 2 cm. The mother's gentle print was 6 cm, which is in between. So the biggest print came from the smaller hand, pressed hard. Size alone can't tell you whose print it is.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
    "context": "This is about the Paw Print Test, where you press your fist into atta gently and hard, and measure the prints.",
    "how": "e1",
@@ -2342,9 +2342,9 @@
    "why_maths": "Doubling gives a quick way to say how big a change is, instead of just saying 'more'."
   },
   {
-   "problem": "In the Anthem Clock, Arjun sang Jana Gana Mana in 58 seconds. His grandmother sang it in 50 seconds. Who was closer to 52 seconds, and by how much?",
-   "answer": "His grandmother, by 4 seconds.",
-   "explain": "Arjun was 58 minus 52, which is 6 seconds too slow. His grandmother was 52 minus 50, which is 2 seconds too fast. 2 is less than 6, so she was closer, by 6 minus 2, which is 4 seconds.",
+   "problem": "In the Anthem Clock, a child sang Jana Gana Mana in 58 seconds. The child's grandmother sang it in 50 seconds. Who was closer to 52 seconds, and by how much?",
+   "answer": "The grandmother, by 4 seconds.",
+   "explain": "The child was 58 minus 52, which is 6 seconds too slow. The grandmother was 52 minus 50, which is 2 seconds too fast. 2 is less than 6, so she was closer, by 6 minus 2, which is 4 seconds.",
    "math_unit": "math.time.duration.L3",
    "context": "This is about the Anthem Clock, where you time each person singing the national anthem.",
    "how": "e2",
@@ -2493,10 +2493,10 @@
   ]
  },
  "roots": {
-  "context": "We have tested footprints with our own hands, and learned why tigers are now known by their stripes. Now we ask what this tells us about knowing who someone is, and about checking what is true.",
+  "context": "In the Paw Print Test, one fist left prints of different sizes. That is why tigers are now told apart by their stripes, not by their footprints. This part asks what that tells us about knowing who someone is, and about checking what is true.",
   "deep_truth": {
-   "truth": "Your one fist left a wider print when pressed hard, and a blurred one in dry atta. A print is shaped by the ground and the press, as well as the hand. So one print cannot say for sure whose it is. Scientists tell tigers apart by their stripes, which stay the same all their life.",
-   "habit": "We think of a footprint as belonging to one foot, like a signature. But the same foot leaves a different print on every kind of ground and with every kind of step. To know who someone is, you need a clue that does not change with the moment.",
+   "truth": "In the Paw Print Test, the same fist left a wider print when pressed hard, and a blurred print in dry atta. A print is shaped by the ground and the press, as well as by the hand. So one print cannot say for sure whose it is. Scientists tell tigers apart by their stripes, which stay the same all their life.",
+   "habit": "We think of a footprint as belonging to one foot, like a signature. But the same foot leaves a different print on every kind of ground and with every kind of step. To know who someone is, you need a clue that stays the same every time.",
    "evidence": "In the Paw Print Test, the same fist gave hard prints about 1 or 2 cm wider than gentle ones, and blurred prints in dry atta. A smaller hand pressing hard could match a bigger hand pressing gently. In 2005, Sariska had no tigers left, though footprint records still counted them."
   },
   "three": {
@@ -2504,7 +2504,7 @@
    "what_is_life": "A tigress walks her forest every night. She does not know she is a symbol. Her stripes are for hiding from deer, and her life is her own.",
    "what_is_this_world": "A country is many millions of people who have never met. A flag, a song and a shared animal help them know they belong together."
   },
-  "thread": "A tiger leaves thousands of prints in a life, and no two are quite the same. Wet mud spreads them and dry dust crumbles them. Through all of it, the tigress herself stays the same, and so do her stripes. A country works a little like this. Its people speak many languages, and each place leaves its own mark. Some things stay shared through all of it: a flag, an anthem, a constitution. Finding what really stays, and checking it truly, is how both a tiger scientist and a citizen come to know who someone is.",
+  "thread": "A tiger leaves thousands of prints in a life, and no two are quite the same. Wet mud spreads them and dry dust crumbles them. The tigress herself stays the same, and so do her stripes. A country is a little like this. Its people speak many languages, and every place is different. A few things are shared by all of them: a flag, an anthem, a constitution. A tiger scientist looks for what stays the same, and checks it carefully. A citizen can do the same.",
   "teachings": [
    {
     "source": "Mundaka Upanishad 3.1.6, the line written under India's emblem",
@@ -2519,7 +2519,7 @@
    {
     "source": "Rabindranath Tagore, Gitanjali, poem 35 (1912)",
     "teaching": "Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit.",
-    "link": "Counting tigers by pugmarks went on for about 30 years partly out of habit. The writer of our anthem hoped for an India where people keep testing old habits with clear reasons, as Karanth did with his cameras."
+    "link": "Counting tigers by pugmarks went on for about 30 years, partly out of habit. Tagore, who wrote our anthem, hoped for an India where people keep testing old habits with clear reasons, as Karanth did with his camera traps."
    }
   ],
   "science": [
@@ -2548,7 +2548,7 @@
   },
   "ask": [
    "A tiger's prints change every day, but the tiger is the same tiger. What makes you the same person from day to day?",
-   "Many people believed hockey was official, and they were sure. What makes us believe things we have never checked?",
+   "Many people were sure that hockey is India's official national game. It is not. What makes us believe things we have never checked?",
    "The tiger does not know they are our national animal. Who is the symbol really for?"
   ],
   "art": "A tigress walking along a muddy forest path at night, her line of pugmarks changing size behind her, and a small camera trap on a tree catching her striped side in a flash of light."
@@ -2560,5 +2560,5 @@
   "when": "Camera-trap studies from the early 1990s; Sariska found empty in 2004 and 2005; camera-trap counts across India from 2006",
   "wrong_idea": "People thought each tiger's pugmark was different enough to count tigers by footprints alone. But one tiger leaves different prints on different ground, and the empty forest at Sariska showed that the footprint counts could be badly wrong. Stripes photographed by camera traps now tell each tiger apart."
  },
- "warm": {"words": ["TIGER", "LIONS", "WHEEL", "COUNT", "PRINT"], "quiz": [["Each tiger has their own stripe pattern that stays the same for life.", true, "A photo of the stripes shows exactly which tiger it is."], ["A tiger's footprint is always the same, so footprints alone can count tigers.", false, "The same tiger leaves different prints on different ground, so prints can mislead."], ["The tiger has always been India's national animal.", false, "The lion was the national animal until 1973, when the tiger took its place."], ["Republic Day remembers the Constitution coming into force, not freedom from British rule.", true, "Independence Day, 15 August, remembers freedom; Republic Day, 26 January, remembers the Constitution."], ["Hockey is India's official national game.", false, "In 2012 the government replied that no sport has been declared the national game."], ["Counting tigers matters because protecting them needs knowing how many there are.", true, "Without a good count, nobody can tell whether the tigers are growing or shrinking."], ["Jana Gana Mana was written to praise King George V.", false, "Tagore wrote that the giver of India's destiny in his song could never be a king."], ["Whether a thing is a national symbol is decided by people, not by the animal.", true, "A tiger does not know it is a symbol; people chose it to stand for the country."], ["A republic is a country whose head is born into the job.", false, "In a republic the head is chosen, not born into the job like a king or queen."], ["A country picks symbols, such as a flag or an animal, to stand for all its people.", true, "A symbol is a shared sign that every person in the country can call their own."]], "odd": [[["Stripe pattern", "Stripes in a photo", "Stripes at age two", "Footprint on mud"], "Footprint on mud", "The first three stay the same for a tiger's whole life; a footprint changes with the ground."], [["Tricolour", "Lion Capital", "Jana Gana Mana", "A shop's signboard"], "A shop's signboard", "The first three were chosen to stand for the whole country; a signboard stands for one shop."], [["Tiger", "Peacock", "Lotus", "Flag"], "Flag", "The first three are living things whose bodies help them live; a flag is only cloth and dye."], [["Photo of stripes", "Count of animals", "Measured print", "A story that sounds true"], "A story that sounds true", "The first three are evidence you can see or check; a story that only sounds true has not been checked."], [["Head chosen by vote", "Voting by people", "A written Constitution", "King by birth"], "King by birth", "The first three belong to a republic; a king by birth is the opposite of a chosen head."]]}
+ "warm": {"words": ["TIGER", "LIONS", "WHEEL", "COUNT", "PRINT"], "quiz": [["Each tiger has their own stripe pattern that stays the same for life.", true, "A photo of the stripes shows exactly which tiger it is."], ["A tiger's footprint is always the same, so footprints alone can count tigers.", false, "The same tiger leaves different prints on different ground, so prints can mislead."], ["The tiger has always been India's national animal.", false, "The lion was the national animal until 1973, when the tiger took the lion's place."], ["Republic Day remembers the Constitution coming into force, not freedom from British rule.", true, "Independence Day, 15 August, remembers freedom; Republic Day, 26 January, remembers the Constitution."], ["Hockey is India's official national game.", false, "In 2012 the government replied that no sport has been declared the national game."], ["Counting tigers matters because protecting them needs knowing how many there are.", true, "Without a good count, nobody can tell whether the tigers are growing or shrinking."], ["Jana Gana Mana was written to praise King George V.", false, "Tagore wrote that the giver of India's destiny in his song could never be a king."], ["Whether a thing is a national symbol is decided by people, not by the animal.", true, "A tiger does not know they are a symbol; people chose the tiger to stand for the country."], ["A republic is a country whose head is born into the job.", false, "In a republic the head is chosen, not born into the job like a king or queen."], ["A country picks symbols, such as a flag or an animal, to stand for all its people.", true, "A symbol is a shared sign that every person in the country can call their own."]], "odd": [[["Stripe pattern", "Stripes in a photo", "Stripes at age two", "Footprint on mud"], "Footprint on mud", "The first three stay the same for a tiger's whole life; a footprint changes with the ground."], [["Tricolour", "Lion Capital", "Jana Gana Mana", "A shop's signboard"], "A shop's signboard", "The first three were chosen to stand for the whole country; a signboard stands for one shop."], [["Tiger", "Peacock", "Lotus", "Flag"], "Flag", "The first three are living things whose bodies help them live; a flag is only cloth and dye."], [["Photo of stripes", "Count of animals", "Measured print", "A story that sounds true"], "A story that sounds true", "The first three are evidence you can see or check; a story that only sounds true has not been checked."], [["Head chosen by vote", "Voting by people", "A written Constitution", "King by birth"], "King by birth", "The first three belong to a republic; a king by birth is the opposite of a chosen head."]]}
 }
