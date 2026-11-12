@@ -319,7 +319,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Draw six pictures on a white sheet with a thick black pen. Make them go from big to small. 2. Show your child the four sheets. 3. Let them feel each one.",
+     "do": "1. Make the picture card: draw six pictures on a white sheet with a thick black pen. Make them go from big to small. 2. Show your child the four sheets. 3. Let them feel each one.",
      "say": "Here are four sheets: white paper, newspaper, black cloth and shiny foil. Soon we will shine a torch on each one in the dark.",
      "kid": "Look at the four sheets. Feel each one. Which one looks brightest?"
     },
@@ -343,10 +343,10 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. In the darkest room you have at night, lay the torch flat on the floor. 2. Hold the white sheet up, one ruler length in front of the torch, with its face straight to the torch. 3. Stand the card beside the torch, facing the sheet. 4. Stand the book between the torch's front and the card.",
+     "do": "1. In the darkest room you have at night, lay the torch flat on the floor. 2. Hold the white paper upright, one ruler length in front of the torch, facing the torch straight on. 3. Stand the card beside the torch, facing the white paper. 4. Stand the book between the front of the torch and the card.",
      "say": "The torch shines on the white paper. The book stops the torch shining straight on the pictures. Now let's switch off the room light and wait for one minute.",
      "kid": "Help set it up. Then the room light goes off. Wait one minute with me.",
-     "parent": "You hold the sheet. A bathroom with the door shut works well. If light comes under the door, lay a towel along the gap. Check with the room light on that the torch beam does not land on the card itself. Keep every sheet in the same place, flat and straight to the torch."
+     "parent": "You hold the sheet. A bathroom with the door shut works well. If light comes under the door, lay a towel along the gap. Check with the room light on that the torch beam does not land on the card itself. Keep every sheet in the same place, flat and facing the torch straight on."
     },
     {
      "id": "s4",
@@ -363,13 +363,13 @@
        ]
       }
      ],
-     "parent": "In dim light we lose the small pictures first. White paper usually shows most of the six, newspaper fewer, and black cloth few or none. Foil is the surprise. Held flat and straight to the torch, it works like a mirror and sends the beam straight back, so the card may stay dark. Crumple it a little and flatten it again, and it spreads the light and lights the card better. Say what you really saw, even if it is odd."
+     "parent": "In dim light we lose the small pictures first. White paper usually shows most of the six, newspaper fewer, and black cloth few or none. Foil is the surprise. When it is held flat and facing the torch straight on, it works like a mirror and sends the beam straight back, so the card may stay dark. Crumple it a little and flatten it again, and it spreads the light and lights the card better. Write down what you really saw, even if it is odd."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "Put the white paper back. Then switch the torch off. Wait ten seconds.",
-     "say": "The white paper made the pictures visible. Now I am switching the torch off. Is the paper still lighting the pictures?",
+     "say": "The white paper let you see the pictures. Now I am switching the torch off. Is the paper still lighting the pictures?",
      "kid": "The torch goes off. Can the white paper still light the pictures?",
      "ask": [
       {
@@ -405,7 +405,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Revathi, a girl in Kochi, shines a torch on white paper in a dark room. The paper lights up her drawing. Then she switches the torch off. What happens?",
+      "q": "You shine a torch on white paper in a dark room. The paper lights up your drawing. Then you switch the torch off. What happens?",
       "options": [
        "The drawing goes dark",
        "The paper keeps glowing for a minute",
@@ -476,7 +476,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. If you have spare black paper or cloth, line the inside of the box with it. 2. Glue black paper over one outside side of the box. 3. Push a pencil through the middle to make a hole as wide as the pencil. 4. Close the lid.",
+     "do": "1. If you have spare black paper or cloth, line the inside of the box with it. 2. Glue black paper over one side of the box, on the outside. 3. Push a pencil through the middle of the black paper to make a hole as wide as the pencil. 4. Close the lid.",
      "say": "We have covered the box with black paper. Now I will make a small hole in it. Black is the darkest colour we have.",
      "kid": "Watch the grown-up make a small hole in the black paper.",
      "adult": true
@@ -514,7 +514,7 @@
      "kid": "Why is the hole so dark? Where did the light go?",
      "check": {
       "t": "mcq",
-      "q": "Thara, a girl in Mysuru, sees that the hole in her box is darker than black paper. Why?",
+      "q": "In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why?",
       "options": [
        "Almost no light comes back out of the hole",
        "The hole is painted blacker",
@@ -570,7 +570,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Switch off the light in a small room, such as the bathroom. 2. Put the white paper on its floor. 3. Your child stands inside. 4. You stand outside in the lit hall and close the door.",
+     "do": "1. Switch off the light in a small room, such as the bathroom. 2. Put a sheet of white paper on the floor of that room. 3. Your child stands inside. 4. You stand outside in the lit hall and close the door.",
      "say": "Stand in the dark room and look at the white paper on the floor. Soon I will open the door. What do you think will happen? Why?",
      "kid": "Stand in the dark. Look at the paper. What will happen when the door opens?",
      "parent": "If your child is nervous in the dark, go in with them and let them open the door. A little light under the door is fine; a towel along the gap makes it darker."
@@ -652,7 +652,7 @@
     {
      "day": 3,
      "mins": 6,
-     "what": "Look again at the same time. Draw it again, then compare the two drawings. Which way did the bright side face each time?"
+     "what": "Two days later, look at the Moon again at the same time. Draw it again, then compare the two drawings. Which way did the bright side face each time?"
     }
    ],
    "record": "Draw the Moon each evening. Draw an arrow from the bright side towards where the Sun went down.",
@@ -678,8 +678,8 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Two days later, look again at the same time. Draw it again.",
-     "say": "The Moon has moved and grown fatter. Which side is bright now? Is it still the side near the Sun?",
+     "do": "Two days later, look at the Moon again at the same time. Ask your child to draw the Moon again.",
+     "say": "The Moon has moved and grown fatter. Which side is bright now? Is it still the side nearer to where the Sun went down?",
      "kid": "Draw the Moon again. Which side is bright now?",
      "wait": "Look again 2 days later"
     },
@@ -700,7 +700,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Ananya, a girl in Lucknow, sees the Moon in the evening. The bright side faces the place where the Sun has just set. What does this show?",
+      "q": "You see the Moon in the evening. The bright side faces the place where the Sun has just set. What does this show?",
       "options": [
        "The Moon's light comes from the Sun",
        "The Moon makes light on one side only",
@@ -717,7 +717,7 @@
    "title": "Arrows of Light: draw how moonlight reaches you",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you draw a picture that explains: the Sun, the Moon, the Earth and your window. Then you draw arrows to show the path the light takes to your eyes.",
+   "context": "In this activity you draw the Sun, the Moon, the Earth and your window. Then you draw arrows to show the path the light takes to your eyes.",
    "materials": [
     {
      "item": "a big sheet of paper",
@@ -894,12 +894,12 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the cards. Then ask about the dark card.",
-     "say": "Inside a shut dabba, what is there to trace? Why is it dark in there?",
+     "do": "Count the cards. Then ask about the card 'Inside a shut steel dabba'.",
+     "say": "One card says 'Inside a shut steel dabba'. Is there any light to trace in there? Why is it dark?",
      "kid": "Why is it dark inside the shut dabba?",
      "check": {
       "t": "mcq",
-      "q": "Sindhu, a girl in Chennai, gets the card 'The Moon in the night sky'. Where did its light start?",
+      "q": "You get the card 'The Moon in the night sky'. Where did its light start?",
       "options": [
        "At the Sun",
        "At the Moon",
@@ -944,7 +944,7 @@
       },
       {
        "f": "Face the Moons, then turn your back.",
-       "b": "Dance, then freeze at once. Light stops the moment it stops arriving."
+       "b": "The Moons dance, then freeze at once. A Moon goes dark the moment light stops reaching it."
       }
      ]
     }
@@ -984,15 +984,15 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Stop and ask the question.",
+     "do": "Stop the game and ask why the Moons froze.",
      "say": "Why did the Moons freeze when the Sun turned away?",
      "kid": "Why did you freeze when the Sun turned away?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl playing a Moon, must freeze when the Sun turns away from her. Why?",
+      "q": "In the Sun and Moons game, a Moon must freeze when the Sun turns away. Why?",
       "options": [
-       "No light reaches her, and Moons make none of their own",
-       "She is tired",
+       "No light reaches that Moon, and Moons make none of their own",
+       "The player is tired",
        "The Moon shines only on Sundays"
       ],
       "a": 0,
@@ -1057,7 +1057,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Draw round the steel plate on the white paper. 2. Help your child cut out the circle. 3. They draw a few light grey patches and small round craters.",
+     "do": "1. Draw round the steel plate on the white paper. 2. Help your child cut out the circle. 3. Your child draws a few light grey patches and small round craters on it.",
      "say": "The real Moon has dark patches and craters. Draw some on your Moon. Keep most of it white. Why do we keep it white?",
      "kid": "Draw round the plate. Cut it out. Add a few grey craters. Keep most of it white.",
      "ask": [
@@ -1097,12 +1097,12 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the last question.",
-     "say": "In our room, the torch is the Sun. What is the real Moon's torch?",
+     "do": "Ask your child what lights the real Moon.",
+     "say": "In our room, the torch lights the paper Moon. What lights the real Moon?",
      "kid": "Your torch is like the Sun. What lights the real Moon?",
      "check": {
       "t": "mcq",
-      "q": "Ishita, a girl in Surat, lights her room with a paper Moon and a torch. What is the torch like?",
+      "q": "You light your room with a paper Moon and a torch. What is the torch like?",
       "options": [
        "The Sun",
        "The Moon",
@@ -1121,7 +1121,7 @@
    "title": "Light the Hidden Picture",
    "mins": 15,
    "context": "This is a problem to solve. A picture is hidden behind a box, and the torch must not move. How can you get light to the picture?",
-   "problem": "Meera, a girl in Hyderabad, puts a picture behind a big box in a dark room. The torch is fixed on the other side and shines at the wall. She may not move the torch. How can she light up the picture, the way the Moon lights up the night when the Sun is hidden?",
+   "problem": "A picture is behind a big box in a dark room. The torch is fixed on the other side of the box and shines at the wall. You may not move the torch. How can you light up the picture, the way the Moon lights up the night when the Sun is hidden?",
    "constraints": [
     "The torch stays where it is, pointing the same way.",
     "The box stays where it is.",
@@ -1187,7 +1187,7 @@
      "kid": "Which way was best? Where did the light start?",
      "check": {
       "t": "mcq",
-      "q": "Meera lit the hidden picture with a mirror. Where did the light on the picture start?",
+      "q": "You light the hidden picture with a mirror. Where did the light on the picture start?",
       "options": [
        "At the torch",
        "At the mirror",
@@ -1209,7 +1209,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "A grown-up reads each one. Does it make its own light, or does it only send on light? Colour the light sources yellow.",
+     "p": "A grown-up reads out each thing. Does it make its own light, or does it only send on light? Colour the light sources yellow.",
      "cats": [
       "Light source",
       "Sends on light"
@@ -1329,7 +1329,7 @@
      "ask": "Who do you agree with? Give one reason from your own tests. Then say what Arjun noticed that is true.",
      "lines": 3,
      "a": "Kavya is right about where the light starts. Arjun is right that the Moon is very bright at night.",
-     "why": "A strong answer uses evidence, such as the white paper going dark when the torch went off, or the bright side facing the Sun. It also says fairly that Arjun's noticing is true: the Moon really is bright."
+     "why": "A strong answer uses evidence, such as the white paper going dark when the torch went off, or the bright side of the Moon facing the Sun. It also says what Arjun got right: the Moon really is bright."
     },
     {
      "t": "count",
@@ -1452,7 +1452,7 @@
     },
     {
      "t": "mcq",
-     "p": "Leela, a girl in Pune, sees the Moon in the daytime. It looks pale and faint. Why?",
+     "p": "In the daytime, the Moon looks pale and faint. Why?",
      "opts": [
       "The sky around it is bright too",
       "The Moon makes less light in the day",
@@ -1489,7 +1489,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Kolkata, Rimi and Joy, test bouncers in the dark.",
+     "p": "Two friends in Kolkata, Rimi and Joy, do the Paper Moon test. They ask which sheet bounces light best.",
      "views": [
       {
        "who": "Rimi",
@@ -1508,9 +1508,9 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Bhopal, says on a moonlit night: the Sun is lighting my floor. Is she right? Explain. Say it, and a grown-up writes it.",
+     "p": "On a moonlit night, someone says: the Sun is lighting my floor. Is that right? Explain. Say it, and a grown-up writes it.",
      "lines": 3,
-     "a": "Yes. Moonlight is sunlight that bounced off the Moon. So the light on her floor started at the Sun, about eight minutes earlier.",
+     "a": "Yes. Moonlight is sunlight that bounced off the Moon. So the light on the floor started at the Sun, about eight minutes earlier.",
      "why": "A strong answer traces the light back to the Sun and says the Moon only sends it on."
     },
     {
@@ -1558,13 +1558,13 @@
     },
     {
      "t": "draw",
-     "p": "Draw a picture that shows darkness. Then write: how did you show it, when darkness is no light?",
+     "p": "Draw a picture that shows darkness. Darkness is no light, so how did you show it? Write one sentence.",
      "a": "Any honest drawing, for example a black shut cupboard, with a sentence like: I drew no light reaching inside.",
      "why": "A strong answer sees that we draw darkness by leaving out light, or by showing that light is blocked."
     },
     {
      "t": "label",
-     "p": "This is the Paper Moon test from above. Label the light source, the bouncer and the thing being lit.",
+     "p": "This picture shows the Paper Moon test. Label the light source, the bouncer and the thing being lit.",
      "labels": [
       "torch",
       "white paper",
@@ -1656,7 +1656,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl in Indore, shines a torch on white paper in the dark. The paper lights up her drawing. What is the paper like?",
+   "p": "You shine a torch on white paper in the dark. The paper lights up your drawing. What is the paper like?",
    "opts": [
     "The Moon",
     "The Sun",
@@ -1830,7 +1830,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Paper Moon test, Gayathri, a girl in Coimbatore, saw 6 pictures with white paper and 2 with newspaper. How many more did the white paper show?",
+   "problem": "In the Paper Moon test, the white paper showed 6 pictures and the newspaper showed 2. How many more pictures did the white paper show?",
    "answer": "4 more.",
    "explain": "Count on from 2 to 6: 3, 4, 5, 6. That is 4. So the white paper showed 4 more pictures than the newspaper.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1839,7 +1839,7 @@
    "why_maths": "Finding the difference shows how much better one sheet is than another, not just which one wins."
   },
   {
-   "problem": "Mona, a girl in Nagpur, wrote down these made-up results: white paper 6, foil 4, newspaper 3, black cloth 1. Put the sheets in order from most pictures to fewest.",
+   "problem": "Here are some made-up results from the Paper Moon test: white paper 6, foil 4, newspaper 3, black cloth 1. Put the sheets in order from most pictures to fewest.",
    "answer": "White paper, foil, newspaper, black cloth.",
    "explain": "6 is the biggest, then 4, then 3, then 1. So the order is white paper, foil, newspaper, black cloth.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -1848,7 +1848,7 @@
    "why_maths": "Putting the results in order shows the pattern at a glance: the paler the sheet, the more pictures we see."
   },
   {
-   "problem": "Sneha, a girl in Jaipur, did the Paper Moon test, but her black cloth showed 5 pictures, nearly as many as white paper. Her friend says a little light was coming under the door. What would you change, and why?",
+   "problem": "In a Paper Moon test, the black cloth showed 5 pictures, nearly as many as the white paper. A little light was coming under the door. What would you change, and why?",
    "answer": "Put a towel along the gap under the door, then test again.",
    "explain": "Light from under the door was lighting the pictures too, so the count was not only from the bounced light. Blocking it makes the test fair.",
    "math_unit": "math.logic.problem-solving.L2",
@@ -1857,9 +1857,9 @@
    "why_maths": "An odd number in a result is a clue that something else changed, and finding it makes the test fair."
   },
   {
-   "problem": "Revathi, a girl in Kochi, sees the full Moon rise at 6 o'clock in the evening. She watches it until 8 o'clock. For how many hours did she watch?",
+   "problem": "The full Moon rises at 6 o'clock in the evening. You watch it until 8 o'clock. For how many hours did you watch?",
    "answer": "2 hours.",
-   "explain": "From 6 to 7 is 1 hour. From 7 to 8 is 1 more hour. So she watched for 2 hours.",
+   "explain": "From 6 to 7 is 1 hour. From 7 to 8 is 1 more hour. So you watched for 2 hours.",
    "math_unit": "math.time.telling-time.L2",
    "context": "This is about watching the Moon in the evening.",
    "why_maths": "Counting the hours between two times helps us plan how long to watch the sky."
@@ -1933,15 +1933,15 @@
   }
  ],
  "roots": {
-  "context": "We have made a paper Moon in the dark and watched light come in through a door. Now we ask what that tells us about the night, about ourselves and about the world.",
+  "context": "In the Paper Moon test, we made a paper Moon in a dark room. In the Door Test, we watched light come in through a door. Now we ask what that tells us about the night, about ourselves and about the world.",
   "deep_truth": {
-   "truth": "In the dark room, the white paper lit your pictures only while the torch shone on it. The Moon lights our nights the same way, with sunlight. So on a moonlit night, the light on your floor left the Sun about eight minutes earlier.",
+   "truth": "In the Paper Moon test, the white paper lit your pictures only while the torch shone on it. The Moon lights our nights the same way, with sunlight. So on a moonlit night, the light on your floor left the Sun about eight minutes earlier.",
    "habit": "We split time into day, when the Sun lights us, and night, when the Sun is gone. Moonlight shows that the Sun keeps lighting our nights, by way of the Moon.",
    "evidence": "In the Paper Moon test, the pictures went dark the moment the torch went off. The bright side of the Moon always faces the Sun, and Moon rock makes no light of its own."
   },
   "three": {
-   "who_am_i": "You see only what light reaches you. Almost everything you see, you see by light that bounced off it.",
-   "what_is_life": "On full-Moon nights, many sea creatures, such as some corals, time their lives by moonlight. They are living by sunlight that came the long way round.",
+   "who_am_i": "You can see a thing only when light from it reaches your eyes. Almost everything you see, you see by light that bounced off it.",
+   "what_is_life": "Many sea creatures, such as some corals, time their lives by the light of the full Moon. That moonlight is sunlight that bounced off the Moon on its way to them.",
    "what_is_this_world": "The world has a few light sources and countless things that pass light on. The Moon, the walls of your home and your own face all pass on light."
   },
   "thread": "The Sun makes the light, and the Moon, the clouds, the walls and your face pass it on. The light on your terrace floor is the Sun's light, bounced once off the Moon. Everything is aware in its own way, the Sun and the Moon too. Many scientists disagree, and say only living beings with nerves are aware.",
@@ -2057,5 +2057,5 @@
   ]
  },
  "playtest": "Walked through every step as a parent and child in a flat. Both card games now work with two players: Trace It Back has turns, a reader and an ending, and Sun and Moons has 6 cards that all do something, one Sun and any number of Moons. The Paper Moon test now uses a thick pen so the pictures can be seen, and says honestly that foil held flat may send the beam straight back. The Moon-watching schedule matches its steps (day 1 and day 3), the creative idea that moved the torch was removed, names are introduced, repeated questions and one inaccurate joke were cut, and family assumptions and a stock line were taken out.",
- "warm": {"words": ["LIGHT", "SHINE", "WHITE", "BLACK", "TORCH"], "quiz": [["The Moon shines because sunlight bounces off it.", true, "The Moon makes no light of its own; it sends back light from the Sun."], ["The Moon makes its own light, like a lamp.", false, "The Moon is grey rock; the light we see is sunlight bouncing off it."], ["White paper sends back more light than black paper.", true, "White things reflect most of the light that falls on them; black things take most in."], ["Darkness is a thing that comes into a room and pushes the light out.", false, "Darkness is only the place where no light is arriving; nothing comes in."], ["If you wait long in a room with no light, your eyes will see.", false, "Eyes can get used to a little light, but with no light nothing reaches them."], ["In a dim room, your eyes can get used to the little light.", true, "Dim means a little light is there, so your eyes can slowly see more."], ["We see a chair because light bounces off the chair into our eyes.", true, "Most things make no light; we see them by the light that bounces off them."], ["The Moon looks bright because it sends back most of the sunlight on it.", false, "It sends back only about one tenth; it looks bright because the sky around it is dark."], ["A piece of white paper glows by itself in a dark room.", false, "Paper makes no light; it shines only while a torch lights it."], ["In a fair test, you change only one thing and keep the rest the same.", true, "Then you know that the one thing you changed made the difference."]], "odd": [[["Sun", "Candle flame", "Torch", "Moon"], "Moon", "The Sun, a candle flame and a torch make their own light; the Moon only sends back sunlight."], [["White paper", "Silver foil", "White wall", "Black cloth"], "Black cloth", "White and shiny things send back most light; black cloth takes in most light and sends back little."], [["Room with one candle", "Dusk outside", "Dim corridor", "Shut cupboard"], "Shut cupboard", "In the first three a little light arrives, so eyes can adjust; a shut cupboard has none."], [["Same torch", "Same distance", "Same dark room", "Colour of paper"], "Colour of paper", "A fair test keeps the torch, distance and room the same and changes only the paper colour."], [["The Sun", "A welder's spark", "A laser pointer", "The Moon"], "The Moon", "Looking straight at the Sun, a welding spark or a laser can hurt your eyes; moonlight is gentle."]]}
+ "warm": {"words": ["LIGHT", "SHINE", "WHITE", "BLACK", "TORCH"], "quiz": [["The Moon shines because sunlight bounces off it.", true, "The Moon makes no light of its own; it sends back light from the Sun."], ["The Moon makes its own light, like a lamp.", false, "The Moon is grey rock; the light we see is sunlight bouncing off it."], ["White paper sends back more light than black paper.", true, "White things reflect most of the light that falls on them; black things take most in."], ["Darkness is a thing that comes into a room and pushes the light out.", false, "Darkness is only the place where no light is arriving; nothing comes in."], ["If you wait long enough in a room with no light, you will start to see.", false, "Eyes can get used to a little light, but with no light nothing reaches them."], ["In a dim room, your eyes can get used to the little light.", true, "Dim means a little light is there, so your eyes can slowly see more."], ["We see a chair because light bounces off the chair into our eyes.", true, "Most things make no light; we see them by the light that bounces off them."], ["The Moon looks bright because it sends back most of the sunlight that falls on it.", false, "It sends back only about one tenth; it looks bright because the sky around it is dark."], ["A piece of white paper glows by itself in a dark room.", false, "Paper makes no light; it shines only while a torch lights it."], ["In a fair test, you change only one thing and keep the rest the same.", true, "Then you know that the one thing you changed made the difference."]], "odd": [[["Sun", "Candle flame", "Torch", "Moon"], "Moon", "The Sun, a candle flame and a torch make their own light; the Moon only sends back sunlight."], [["White paper", "Silver foil", "White wall", "Black cloth"], "Black cloth", "White and shiny things send back most light; black cloth takes in most light and sends back little."], [["Room with one candle", "Dusk outside", "Dim corridor", "Shut cupboard"], "Shut cupboard", "In the first three a little light arrives, so eyes can adjust; a shut cupboard has none."], [["Same torch", "Same distance", "Same dark room", "Colour of paper"], "Colour of paper", "A fair test keeps the torch, distance and room the same and changes only the paper colour."], [["The Sun", "A welder's spark", "A laser pointer", "The Moon"], "The Moon", "Looking straight at the Sun, a welding spark or a laser can hurt your eyes; moonlight is gentle."]]}
 }

@@ -72,7 +72,7 @@
   {
    "term": "Recover",
    "meaning": "To get back to how you were before. After exercise, your breathing and heartbeat recover and slow down again.",
-   "example": "After the fast dance, your breathing took a few minutes to recover.",
+   "example": "In the Puff Count, your breathing takes a few minutes to recover after the fast dance.",
    "art": "Four small pictures of the same child: dancing, puffing, sitting, and then calm and smiling."
   }
  ],
@@ -140,7 +140,7 @@
    "status": "defined",
    "context": "This card explains why sleep matters, even though you seem to be doing nothing.",
    "definition": "Sleep is a long daily rest. While you sleep, your body grows and repairs itself, and your brain sorts out what you learned.",
-   "description": "When you fall asleep, your muscles relax and your breathing slows down. But your body is busy. In deep sleep, your body sends out most of the growth signal that helps children grow. It mends small injuries. Your brain goes over what you did and learned in the day, and keeps the important parts. You also dream. A child of 6 to 12 needs about 9 to 12 hours of sleep every night. Without enough sleep, it is harder to learn, to stay cheerful and to play well.",
+   "description": "When you fall asleep, your muscles relax and your breathing slows down. But your body is busy. In deep sleep, your body sends out most of the signal that tells it to grow. It mends small injuries. Your brain goes over what you did and learned in the day, and keeps the important parts. You also dream. A child of 6 to 12 needs about 9 to 12 hours of sleep every night. Without enough sleep, it is harder to learn, to stay cheerful and to play well.",
    "examples": [
     "After a late night at a wedding, a child is grumpy and sleepy the next day.",
     "A new baby sleeps for about 14 to 17 hours a day.",
@@ -152,8 +152,8 @@
   {
    "concept": "Do all animals sleep?",
    "status": "debated",
-   "context": "This card is about sleep in humans and other animals. Scientists still argue about how far sleep goes.",
-   "description": "Every mammal and bird that scientists have studied sleeps. But they sleep in very different ways. In a 2017 study, Nadine Gravett and her team in South Africa tracked two wild elephant matriarchs in Botswana. The elephants slept only about 2 hours a day, mostly standing up. A little brown bat sleeps about 20 hours a day. A dolphin sleeps with half of the brain at a time, so she can keep swimming and come up to breathe. In 2017, scientists in America found that upside-down jellyfish have a sleep-like rest at night. These jellyfish have no brain at all.",
+   "context": "This card is about sleep in humans and other animals. Scientists still argue about which living things really sleep.",
+   "description": "Every mammal and bird that scientists have studied sleeps. But they sleep in very different ways. In a 2017 study, Nadine Gravett and her team in South Africa tracked two wild elephant mothers in Botswana. The elephants slept only about 2 hours a day, mostly standing up. A little brown bat sleeps about 20 hours a day. A dolphin sleeps with half of her brain at a time, so she can keep swimming and come up to breathe. In 2017, scientists in America found that upside-down jellyfish have a sleep-like rest at night. These jellyfish have no brain at all.",
    "examples": [
     "A house cat sleeps about 12 to 15 hours a day.",
     "A crow sleeps at night in a tree with many other crows.",
@@ -162,7 +162,7 @@
    "perspectives": [
     {
      "who": "Many sleep scientists",
-     "explanation": "Sleep is found in every animal that has been carefully studied, even ones with no brain. So sleep is very old, and may be needed by every body made of cells."
+     "explanation": "Sleep is found in every animal that has been carefully studied, even ones with no brain. So sleep probably began a very long time ago, and every living body made of cells may need it."
     },
     {
      "who": "Other scientists",
@@ -191,7 +191,7 @@
   },
   {
    "text": "The body grows and repairs itself during sleep.",
-   "evidence": "Blood tests during the night show that most of the growth signal comes out in deep sleep."
+   "evidence": "Blood tests during the night show that most of the signal that tells the body to grow comes out in deep sleep."
   }
  ],
  "challenging": [
@@ -229,7 +229,7 @@
    "hint": "Follow one breath from a plant, into you, and back out again."
   },
   {
-   "q": "An elephant sleeps 2 hours and a bat sleeps 20. Is there a right amount of sleep, or does each body find their own?",
+   "q": "An elephant sleeps 2 hours a day and a bat sleeps 20. Is there one right amount of sleep, or does each kind of animal need a different amount?",
    "kind": "big",
    "hint": "Think about how each animal lives: what they eat, and who might hunt them."
   }
@@ -253,19 +253,19 @@
    "\"Your body noticed by itself,\" said Ammachi. \"Now sit still, and let's count.\" She held up the phone timer. Anju counted Tomin's breaths, and Tomin counted Anju's. Each minute the numbers were smaller. After about four minutes they were back to where they had started.",
    "\"It went back down,\" said Tomin, surprised. \"Without me doing anything.\"",
    "\"Resting is not nothing,\" said Ammachi. \"While you sat, your body was getting your muscles ready to work again.\"",
-   "They drank a tumbler of water each. Then Anju had an idea. \"Let's make the dance every day, until the rain stops,\" she said. Ammachi agreed, as long as everyone took a bath after, because they were sweaty.",
+   "They drank a tumbler of water each. Then Anju had an idea. \"Let's do the dance every day, until the rain stops,\" she said. Ammachi agreed, as long as everyone took a bath afterwards, because they were sweaty.",
    "That night, Tomin fell asleep before his story was finished. Anju lay awake a little longer, listening to the rain on the window. She felt heavy and warm and sleepy.",
    "\"Ammachi,\" she whispered. \"Why am I so sleepy tonight?\"",
    "\"Because you used your body today,\" said Ammachi softly. \"Now it will take its long rest. While you sleep, your body grows a tiny bit, and mends any little bumps. Your brain sorts out what you learned. Tomorrow you will wake up fresh.\"",
    "\"So my body works even when I'm asleep?\"",
-   "\"All night long,\" said Ammachi. \"Your heart keeps beating. Your breathing keeps going, slow and steady. And you need about ten hours of it, because you are still growing.\"",
+   "\"All night long,\" said Ammachi. \"Your heart keeps beating. Your breathing keeps going, slow and steady. And you need about ten hours of sleep, because you are still growing.\"",
    "Anju counted the hours on the clock in her head. Nine o'clock to seven o'clock. Ten hours. She was asleep before she reached the end.",
    "In the morning, the rain was still falling. But Anju jumped out of bed. She felt fresh, and her legs wanted to dance again.",
    "\"First breakfast,\" said Ammachi, putting out puttu and kadala curry. \"Muscles need food for energy, too. Then we dance.\"",
    "By the end of the rainy week, Anju noticed something. On Thursday, the dance had made her puff for four minutes. By the next Wednesday, she was back to normal in three. Ammachi said that was her heart and lungs getting stronger.",
    "On the last day, the sun came out at last. The play area dried. Anju and Tomin raced down six floors of stairs to play. At the bottom, they stopped, panting, and grinned at each other.",
    "\"Count!\" said Tomin, putting his hand on his tummy.",
-   "And they both started to laugh too much to count anything."
+   "Then they both laughed so much that they could not count anything."
   ],
   "epiphany": "When I danced, my body breathed faster all by itself, to bring in more air for my muscles. When I rested and slept, it got my body ready to move again. Moving and resting work together.",
   "ask": [
@@ -379,7 +379,7 @@
      "id": "s1",
      "mins": 2,
      "context": "This is the start of the sleep matching game. You get ready and guess.",
-     "do": "1. Cut out and mix the cards. 2. Ask your child to guess which animal sleeps the longest and which the shortest.",
+     "do": "1. Cut out and mix the cards. 2. Ask your child to guess which sleeper sleeps the longest and which the shortest.",
      "say": "Which of these sleepers do you think sleeps the longest in a day? Which the shortest? Why?",
      "kid": "Which sleeper sleeps the longest? Which sleeps the shortest? Why?"
     },
@@ -481,8 +481,8 @@
     "Each player puts a counter on square 1.",
     "Take turns to roll a dice and move that many squares. Read the square you land on aloud, and do what it says.",
     "If you land on the bottom of a ladder, read it aloud and climb up to the square it names. If you land on the start of a slide (the higher number), read it aloud and slide down to the square it names.",
-    "When you climb or slide, say one more reason why that thing helps or harms the body. If you can, the next player gives a cheer.",
-    "Do not follow a ladder or slide again when you arrive at the square it sends you to. Just do what that square says.",
+    "When you climb or slide, say one more reason why that thing helps or harms the body. If you can say one, the next player gives a cheer.",
+    "A ladder or a slide moves you only once. On the square it sends you to, just do what that square says.",
     "The first player to reach square 30 wins. You do not need an exact roll: any roll that takes you to 30 or past it wins."
    ],
    "setup": [
@@ -574,7 +574,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Sit still and count your breaths. Dance fast for one minute. Count again straight away, then every minute for five minutes. Say what you found."
+     "what": "Guess what will happen. Sit still and count your breaths. Dance fast for one minute. Count again straight away, then every minute for five minutes. Say what you found."
     }
    ],
    "record": "Write your guesses at the top. Fill in the table: sitting still, right after dancing, and after 1, 2, 3, 4 and 5 minutes of rest. Draw a tall or short tower of blocks for each count.",
@@ -724,11 +724,11 @@
      "mins": 3,
      "context": "This is the last step of the puff count test. You say what you think now, what you saw, and why.",
      "do": "1. Ask the three questions below, one at a time. 2. Write the answers down. 3. Only after your child has answered, read the card 'Why you breathe faster when you move'.",
-     "say": "What do you think now? What did you see that tells you so? Why do you think it happened?",
-     "kid": "What do you think now? What did you see? Why?",
+     "say": "What do you think dancing does to your breathing now? What did you see that tells you so? Why do you think it happened?",
+     "kid": "What does dancing do to your breathing? What did you see? Why did it happen?",
      "ask": [
       {
-       "q": "What do you think now?",
+       "q": "What do you think dancing does to your breathing now?",
        "good": [
         "Dancing makes me breathe faster.",
         "It takes a few minutes for my breathing to calm down."
@@ -784,7 +784,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Count your sitting breaths. Do each move for one minute and count after it, resting in between. Draw your results."
+     "what": "Guess which move will make you breathe fastest. Count your breaths sitting still. Do each move for one minute and count after it, resting in between. Draw your results."
     }
    ],
    "record": "Fill in the table. Draw three towers of blocks, one for each move, and colour the tallest one.",
@@ -865,8 +865,8 @@
      "mins": 4,
      "context": "This is the last step of the three moves test. You say what you found and why.",
      "do": "1. Help your child draw three towers. 2. Ask the three questions below.",
-     "say": "What do you think now? What did you see? Why do you think star jumps and stretching were so different?",
-     "kid": "What do you think now? What did you see? Why?",
+     "say": "Which move do you now think makes you breathe fastest? What did you see? Why do you think star jumps and stretching were so different?",
+     "kid": "Which move made you breathe fastest? What did you see? Why?",
      "ask": [
       {
        "q": "Why do you think it happened?",
@@ -876,7 +876,7 @@
        ]
       }
      ],
-     "think": "Which games you play make you breathe like star jumps? Which are more like stretching?"
+     "think": "Which of the games you play make you breathe as fast as star jumps do? Which are more like stretching?"
     }
    ]
   }
@@ -966,7 +966,7 @@
   },
   {
    "id": "a2",
-   "title": "My Bedtime Steps: put a wind-down in order",
+   "title": "My Bedtime Steps: put what you do before bed in order",
    "mins": 12,
    "days": 1,
    "context": "In this activity you draw the things you do before bed, on small cards. Then you put them in order, and find out which steps help your body get ready to sleep.",
@@ -1098,11 +1098,11 @@
      "mins": 3,
      "context": "This is the last step of the day chart. You look for links between the boxes.",
      "do": "1. Ask the question below.",
-     "say": "Look at your chart. Did one box help another box? For example, did a sweaty game mean you needed a wash?",
-     "kid": "Did one box help another? Did a sweaty game need a wash?",
+     "say": "Look at your chart. Did something in one box lead to something in another box? For example, did a sweaty game mean you needed a wash?",
+     "kid": "Did one box lead to another? Did a sweaty game mean you needed a wash?",
      "ask": [
       {
-       "q": "How do the boxes help each other?",
+       "q": "How did one box lead to another?",
        "good": [
         "After running I was hungry, so I ate.",
         "I played a lot, so I slept well.",
@@ -1315,7 +1315,7 @@
    "id": "c1",
    "title": "A Chair Workout: exercise for someone who cannot jump",
    "mins": 20,
-   "context": "This is a design challenge. You plan five minutes of exercise for an older person who finds standing for long hard. Every move must be done sitting in a chair.",
+   "context": "This is a design challenge. You plan five minutes of exercise for an older person who finds it hard to stand for long. Every move must be done sitting in a chair.",
    "problem": "Plan five minutes of exercise that an older person can do sitting in a chair. It must make their muscles work, and it must be safe and fun.",
    "constraints": [
     "Every move is done sitting down on a steady chair with no wheels.",
@@ -1483,7 +1483,7 @@
     "Only your hair"
    ],
    "a": 1,
-   "why": "Exercise strengthens all the muscles you use, your heart, which is a muscle, and your bones.",
+   "why": "Exercise makes the muscles you use stronger. It also makes your heart, which is a muscle, and your bones stronger.",
    "outcome": 2
   },
   {
@@ -1666,17 +1666,17 @@
     },
     {
      "t": "count",
-     "p": "Lakshmi, a girl in Class 2, took 10 breaths in half a minute sitting still. After dancing she took 20. How many more breaths did she take after dancing?",
+     "p": "You take 10 breaths in half a minute sitting still. After dancing you take 20. How many more breaths do you take after dancing?",
      "a": 10,
-     "why": "20 take away 10 is 10. She took 10 more breaths, which is twice as many as sitting still.",
+     "why": "20 take away 10 is 10. That is 10 more breaths, which is twice as many as sitting still.",
      "context": "This question is about the puff count test. You count your breaths sitting still, dance fast for one minute, then count again every minute while you rest.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Zoya, a girl in Class 2, runs for the bus and puffs hard. Say out loud why her breathing is so fast, and a grown-up writes it down.",
+     "p": "You run for the bus and puff hard. Say out loud why your breathing is so fast. A grown-up can write it down.",
      "lines": 2,
-     "a": "Her leg muscles are working hard and need more oxygen, so she breathes in more air.",
+     "a": "My leg muscles are working hard and need more oxygen, so I breathe in more air.",
      "why": "A strong answer links the muscles working to needing more oxygen, and more oxygen to more breaths."
     },
     {
@@ -1757,7 +1757,7 @@
     },
     {
      "t": "count",
-     "p": "Revathi, a girl in Class 2, takes 12 breaths in half a minute sitting still. How many breaths does she take in a whole minute, if she goes on breathing the same way?",
+     "p": "You take 12 breaths in half a minute sitting still. How many breaths do you take in a whole minute, if you go on breathing the same way?",
      "a": 24,
      "why": "A whole minute is two half minutes. 12 and 12 make 24.",
      "context": "This question is about counting breaths for half a minute, as in the puff count test.",
@@ -1843,9 +1843,9 @@
    "items": [
     {
      "t": "write",
-     "p": "Gowri, a girl in Class 2, counted 12 breaths sitting still and only 13 after dancing. What might have gone wrong in her test? You can say it out loud and a grown-up can write it down.",
+     "p": "A child counted 12 breaths sitting still and only 13 after dancing. What might have gone wrong in the test? You can say it out loud and a grown-up can write it down.",
      "lines": 3,
-     "a": "She may have waited too long before counting, or danced slowly, or counted the wrong way.",
+     "a": "The child may have waited too long before counting, or danced slowly, or counted the wrong way.",
      "why": "A strong answer finds a reason in how the test was done: the count must start straight after a fast dance, and last exactly half a minute.",
      "context": "This question is about the puff count test. You count your breaths sitting still, dance fast for one minute, then count again every minute while you rest.",
      "how": "e1"
@@ -1872,14 +1872,14 @@
     },
     {
      "t": "mcq",
-     "p": "Tara, a girl in Class 3, walks up the stairs every day for a month. At the end of the month, what will most likely happen?",
+     "p": "You walk up the stairs every day for a month. At the end of the month, what will most likely happen?",
      "opts": [
-      "She puffs more on the stairs than before",
-      "She puffs less, and recovers faster",
+      "You puff more on the stairs than before",
+      "You puff less, and recover faster",
       "Nothing changes"
      ],
      "a": 1,
-     "why": "Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'puffs more' mixes up being tired after one climb with getting fitter over weeks."
+     "why": "Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'you puff more' mixes up being tired after one climb with getting fitter over weeks."
     },
     {
      "t": "write",
@@ -1928,7 +1928,7 @@
     },
     {
      "t": "count",
-     "p": "In the three moves test, Asha, a girl in Class 2, counted 11 breaths after stretching, 14 after walking and 21 after star jumps. How many more breaths came after star jumps than after walking?",
+     "p": "In the three moves test, a child counted 11 breaths after stretching, 14 after walking and 21 after star jumps. How many more breaths came after star jumps than after walking?",
      "a": 7,
      "why": "21 take away 14 is 7. Star jumps gave 7 more breaths in half a minute than walking.",
      "context": "This question is about the three moves test. You count your breaths after slow stretching, after walking on the spot, and after fast jumping, with a rest in between.",
@@ -1964,7 +1964,7 @@
    "art": "Women and men walking fast along a sea front at sunrise, some in saris and canvas shoes."
   },
   {
-   "text": "A whole family asleep on mats on a terrace on a hot summer night, in many towns.",
+   "text": "In many towns, a whole family asleep on mats on a terrace on a hot summer night.",
    "art": "Mats laid out on a flat roof at night, with a family sleeping under the stars and a water pot nearby."
   }
  ],
@@ -2027,9 +2027,9 @@
  ],
  "maths": [
   {
-   "problem": "Fathima, a girl in Class 2, took 11 breaths in half a minute sitting still. After dancing, she took 22. Is that more or less than twice as many?",
+   "problem": "A child took 11 breaths in half a minute sitting still. After dancing, the child took 22. Is 22 more than twice 11, less than twice 11, or exactly twice 11?",
    "answer": "Exactly twice as many.",
-   "explain": "Double 11 is 11 and 11, which is 22. So after dancing Fathima took exactly twice as many breaths.",
+   "explain": "Double 11 is 11 and 11, which is 22. So after dancing the child took exactly twice as many breaths.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "why_maths": "Comparing two counts shows how big the change was, not just that there was one.",
    "how": "e1"
@@ -2043,7 +2043,7 @@
    "how": "e1"
   },
   {
-   "problem": "In the three moves test, Sneha, a girl in Class 2, took 12 breaths after stretching, 15 after walking and 24 after star jumps. Put the three moves in order from most breaths to fewest.",
+   "problem": "In the three moves test, a child took 12 breaths after stretching, 15 after walking and 24 after star jumps. Put the three moves in order from most breaths to fewest.",
    "answer": "Star jumps, walking, stretching.",
    "explain": "24 is the biggest number, then 15, then 12.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2051,7 +2051,7 @@
    "how": "e2"
   },
   {
-   "problem": "Karthik, a boy in Class 2, sleeps from 9 at night to 6 in the morning. A child of 7 needs at least 9 hours. Is he getting enough?",
+   "problem": "A child of 7 sleeps from 9 at night to 6 in the morning. A child of 7 needs at least 9 hours of sleep. Is this enough?",
    "answer": "Yes, 9 hours, but only just.",
    "explain": "Count on from 9: 10, 11, 12, 1, 2, 3, 4, 5, 6. That is 9 hours. 9 is the least a child of 7 needs.",
    "math_unit": "math.time.telling-time.L2",
@@ -2065,7 +2065,7 @@
    "why_maths": "Counting in equal groups shows how hugely different two animals' sleep can be."
   },
   {
-   "problem": "Doctors say children should be active for about 60 minutes a day, all added up. Divya, a girl in Class 3, skipped for 15 minutes, danced for 20 minutes and climbed stairs for 10 minutes. How many more minutes does she need to reach 60?",
+   "problem": "Doctors say children should be active for about 60 minutes a day, all added up. A child skipped for 15 minutes, danced for 20 minutes and climbed stairs for 10 minutes. How many more minutes does the child need to reach 60?",
    "answer": "15 more minutes.",
    "explain": "15 and 20 make 35. 35 and 10 make 45. From 45 to 60 is 15 more.",
    "math_unit": "math.time.duration.L3",
@@ -2214,7 +2214,7 @@
   "context": "We have counted our breaths before and after dancing, and learned why the body needs rest and sleep. Now we ask what the puff count tells us about our bodies and the air around us.",
   "deep_truth": {
    "truth": "Sitting still, you took about 10 breaths in half a minute. Right after dancing, you took many more, and bigger ones. Working muscles use oxygen fast, so your body pulled in more air. So the harder you move, the more of the room's air passes through you.",
-   "habit": "We think of exercise as something the legs and arms do, and of our body as ending at the skin. The puff count shows that moving the legs changes the breathing, so the air of the room joins in every move.",
+   "habit": "We think of exercise as something the legs and arms do, and of our body as ending at the skin. The puff count shows that when the legs work, the breathing changes too. So every move you make also uses the air around you.",
    "evidence": "In the puff count test, the count right after a fast dance was much higher than sitting still, often about twice as high. In the three moves test, star jumps raised it far more than slow stretching. Then the count fell back, minute by minute, as the muscles rested."
   },
   "three": {
@@ -2232,7 +2232,7 @@
    {
     "source": "Anguttara Nikaya 6.55, the Sona Sutta",
     "teaching": "A monk named Sona tried so hard that his feet bled from walking. The Buddha asked him, 'You used to play the vina. When the strings were too tight, did it sound good?' 'No.' 'And when they were too loose?' 'No.' 'When they were neither too tight nor too loose?' 'Then it sounded good.' The Buddha said effort is the same.",
-    "link": "A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a string tuned badly."
+    "link": "A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a vina string that is too tight or too loose."
    }
   ],
   "science": [
@@ -2247,7 +2247,7 @@
   ],
   "other_view": {
    "who": "Many physiologists, the scientists who study how bodies work",
-   "view": "They say the faster breathing is a reflex. Sensors in the blood vessels and the brain detect more carbon dioxide and send signals to the breathing muscles. They describe it as a chain of signals, that you do not have to decide on."
+   "view": "They say the faster breathing is a reflex. Sensors in the blood vessels and the brain detect more carbon dioxide and send signals to the breathing muscles. They describe it as a chain of signals that works without you deciding anything."
   },
   "practice": {
    "title": "Watch your breath slow down",
@@ -2266,7 +2266,7 @@
   "story": "For a long time, many people thought that children need less sleep as they grow older. Babies sleep most of the day, and grown-ups sleep less. So a teenager who slept late was often called lazy. In 1976, a young scientist called Mary Carskadon helped start a summer sleep camp at Stanford University in America, with the sleep scientist William Dement. Children aged 10 to 12 came to the camp each summer, and came back year after year as they grew up. They played games in the day. At night they slept with small wires taped to their heads, to record their sleep. Every two hours in the day, they lay down to see how fast they fell asleep. Carskadon expected the older children to need less sleep. They did not. The teenagers needed as much sleep as they had at age 10, and they got sleepier in the day. Later, her studies showed that a teenager's body clock shifts later, so they feel sleepy later at night.",
   "who": "Mary Carskadon, a sleep scientist, working with William Dement at Stanford University",
   "when": "The Stanford summer sleep camp ran from 1976 to 1985. The work on teenagers' body clocks followed in the 1990s.",
-  "wrong_idea": "That older children need less sleep, so teenagers who sleep late are lazy. The camp showed teenagers need as much sleep as younger children, and their bodies want it later at night.",
+  "wrong_idea": "People thought that older children need less sleep, so teenagers who sleep late are lazy. The camp showed that teenagers need as much sleep as younger children, and their bodies want it later at night.",
   "art": "A woman scientist in the 1970s at a desk with long strips of paper covered in wavy lines, and a sleeping child with small wires on their head in a room behind a glass window."
  },
  "playtest": "Walked through both games and every experiment as a parent and child in a flat. The Healthy Day Ladders board now lists all 30 squares, each with a small thing to do, and says how to finish and how ladders and slides work; the sleep matching game has a tie rule. The puff count and three moves tests only need a phone timer and some floor space, and the three moves test now says how to check that breathing is calm before each move. The rajma leaf project was lengthened to 14 days so the leaves open before the two night and two morning drawings, and it now says a small droop is a fair result. Repeated questions, a made-up name in a challenge, a missing card material, a weak joke and a repeated teenage sleep claim were removed, and every named child is introduced.",

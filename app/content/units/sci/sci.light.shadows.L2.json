@@ -102,7 +102,7 @@
    "status": "defined",
    "context": "This card is about what you need to make a shadow, from the Make a Shadow, Lose a Shadow activity.",
    "definition": "To make a shadow you need a light, something that blocks the light, and a surface for the shadow to fall on.",
-   "description": "Switch the torch off, and the shadow is gone. Take your hand away, and the shadow is gone. Shine the torch at an open window at night, and there is no wall for the shadow to fall on, so you see none. All three are needed at once: a light, a thing in the way, and a surface behind it.",
+   "description": "Switch the torch off, and the shadow is gone. Take your hand away, and the shadow is gone. Shine the torch out of an open window at night, and there is no wall for the shadow to fall on, so you see none. All three are needed at once: a light, a thing in the way, and a surface behind it.",
    "examples": [
     "No light: switch off the torch and the hand shadow vanishes.",
     "No blocker: take your hand away and the wall is all lit.",
@@ -157,7 +157,7 @@
    "status": "defined",
    "context": "This card is about the Which Way Does It Point? activity, where you moved a torch round a toy.",
    "definition": "A shadow always falls on the side of the thing that is away from the light.",
-   "description": "Light comes from the torch and stops at the toy. The place that misses out is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.",
+   "description": "Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.",
    "examples": [
     "The torch on the left: the shadow falls on the right.",
     "A light on the ceiling: the shadow of a chair is under the chair.",
@@ -304,7 +304,7 @@
    "hint": "Think of the gap in a row of teeth. It is empty, yet you can see it and count it."
   },
   {
-   "q": "Your toy made a small shadow and a giant one. Which one is the toy's real shadow?",
+   "q": "In the Near or Far test, your toy made a small shadow and a giant one. Which one is the toy's real shadow?",
    "kind": "deep",
    "hint": "Is there one right size for a shadow, or does it depend on where the toy and the light are?"
   },
@@ -490,7 +490,7 @@
      "kid": "Which card was hardest? What did you learn?",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl of 7, wants her hand's shadow to have a fuzzy edge. Where should she hold her hand?",
+      "q": "You want your hand's shadow to have a fuzzy edge. Where should you hold your hand?",
       "options": [
        "Close to the torch",
        "Close to the wall",
@@ -591,7 +591,7 @@
        ]
       }
      ],
-     "parent": "If a child goes the wrong way, let them look at their shadow and try again. They will soon feel the pattern."
+     "parent": "If a child goes the wrong way, let them look at their shadow and try again. They will soon see the pattern."
     },
     {
      "id": "s3",
@@ -756,7 +756,7 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "Look at the table together. Ask your child what they think, what they saw, and why. Then read the card Nearer the light, bigger shadow.",
+     "do": "Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Nearer the light, bigger shadow.",
      "say": "Was your guess right? The toy never changed size. So why did its shadow grow?",
      "kid": "Was your guess right? The toy stayed the same. Why did the shadow grow?",
      "ask": [
@@ -771,7 +771,7 @@
      "parent": "A strong answer uses the marks: 'Near the wall the shadow was 10 centimetres, near the torch it was 30. The toy blocked more of the light near the torch.'",
      "check": {
       "t": "mcq",
-      "q": "Meenakshi, a girl of 7, wants a giant shadow of her small toy horse. Where should she put the horse?",
+      "q": "You want a giant shadow of a small toy horse. Where should you put the horse?",
       "options": [
        "Close to the torch",
        "Close to the wall",
@@ -891,7 +891,7 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Look at the table together. Ask your child what they think, what they saw, and why. Then read the card Two lights, two shadows.",
+     "do": "Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Two lights, two shadows.",
      "say": "How many shadows did the toy have with two lights? Why was each one paler than with one light?",
      "kid": "How many shadows with two lights? Why were they paler?",
      "ask": [
@@ -906,7 +906,7 @@
      "parent": "A strong answer: 'Two shadows, one from each light. Each one was pale, because the other light still shone there. Where they crossed, no light got in, so it was dark.'",
      "check": {
       "t": "mcq",
-      "q": "Jonali in Guwahati has a tube light and a table lamp on in her room. How many shadows does her chair make on the floor?",
+      "q": "A room has a tube light and a table lamp switched on. How many shadows does a chair in that room make on the floor?",
       "options": [
        "Two",
        "One",
@@ -989,7 +989,7 @@
      "kid": "What does a shadow need? Count them on your fingers.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl of 7, switches off the torch. What happens to her hand shadow?",
+      "q": "You switch off the torch. What happens to your hand shadow?",
       "options": [
        "It disappears at once",
        "It stays on the wall for a while",
@@ -1132,7 +1132,7 @@
      "what": "Shine the torch from four sides and from above, and draw each shadow."
     }
    ],
-   "record": "On the paper, the toy's spot in the middle, with four shadow drawings round it and an arrow showing where the torch was for each.",
+   "record": "Keep the paper. It shows the toy's spot in the middle, four shadow drawings round it, and an arrow showing where the torch was for each one.",
    "setup": [
     {
      "art": "A toy standing in the middle of a sheet of paper on the floor, with a torch on the paper to the left of it, low down, and a shadow stretching to the right.",
@@ -1176,7 +1176,7 @@
      "parent": "With the light straight above, the shadow becomes short and sits round the bottom of the toy, like the shadow under a chair from a ceiling light.",
      "check": {
       "t": "mcq",
-      "q": "Farhan holds the torch on the left of his toy. Where does the shadow fall?",
+      "q": "The torch is on the left of a toy. Where does the toy's shadow fall?",
       "options": [
        "On the right of the toy",
        "On the left of the toy",
@@ -1564,7 +1564,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya wants to make a shadow on her bedroom wall. Which of these does she NOT need?",
+   "p": "You want to make a shadow on a wall. Which of these do you NOT need?",
    "opts": [
     "A mirror",
     "A light",
@@ -1663,7 +1663,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi holds her hand very close to the torch. What does the edge of the shadow look like?",
+   "p": "You hold your hand very close to the torch. What does the edge of its shadow look like?",
    "opts": [
     "Soft and fuzzy",
     "Sharp and crisp",
@@ -1738,7 +1738,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the Near or Far test. Say it, and a grown-up writes it down: why did your toy's shadow grow when it was near the torch?",
+     "p": "In the Near or Far test, why did your toy's shadow grow when the toy was near the torch? Say your answer, and a grown-up writes it down.",
      "lines": 2,
      "a": "Near the torch, the toy blocked more of the light, so the dark patch on the wall was bigger.",
      "why": "A strong answer says the toy stayed the same size, and that near the torch it blocked a bigger part of the spreading light.",
@@ -1829,7 +1829,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi holds her puppet close to the wall. Its shadow is small and sharp. What happens if she moves it towards the lamp?",
+     "p": "A puppet is held close to the wall. Its shadow is small and sharp. What happens if the puppet moves towards the lamp?",
      "opts": [
       "The shadow gets bigger and fuzzier",
       "The shadow gets smaller and sharper",
@@ -1862,7 +1862,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the Two Lights test. Why did one toy have two shadows?",
+     "p": "In the Two Lights test, why did one toy have two shadows?",
      "lines": 2,
      "a": "Each light made its own shadow, because the toy blocked some light from each one.",
      "why": "A strong answer says one shadow came from each light, and may add that switching one light off made its shadow go.",
@@ -1902,7 +1902,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sai sees his shadow on the floor pointing towards the door. Where is the light?",
+     "p": "Your shadow on the floor points towards the door. Where is the light?",
      "opts": [
       "On the side away from the door",
       "Next to the door",
@@ -1964,9 +1964,9 @@
     },
     {
      "t": "write",
-     "p": "Hetal, a girl in Class 2, wants the shadow of her toy to be almost the same size as the toy. Where should she hold it? Why?",
+     "p": "You want the shadow of your toy to be almost the same size as the toy. Where should you hold the toy? Why?",
      "lines": 3,
-     "a": "As close to the wall as she can, because there the toy blocks only a small part of the spreading light, so the shadow is about the same size as the toy.",
+     "a": "As close to the wall as you can. There the toy blocks only a small part of the spreading light, so the shadow is about the same size as the toy.",
      "why": "A strong answer gives the place and says the shadow grows as the toy moves towards the torch, so near the wall it stays small.",
      "how": "e1"
     },
@@ -2197,7 +2197,7 @@
    "why_maths": "Putting the numbers in order lets us match each shadow to where the toy stood."
   },
   {
-   "problem": "Nila folds a card in half and cuts out half a butterfly along the fold. When she opens it, both wings match. Will the butterfly's shadow have matching wings too? Why?",
+   "problem": "Fold a card in half and cut out half a butterfly along the fold. When you open the card, both wings match. Will the butterfly's shadow have matching wings too? Why?",
    "answer": "Yes. The shadow has the same outline as the card, so its two halves match as well.",
    "explain": "The fold is a line of symmetry. A shadow keeps the outline of the card, so the shadow has the same line of symmetry.",
    "math_unit": "math.symmetry.line-symmetry.L2",
@@ -2265,7 +2265,7 @@
    "a": "A light, something to block it, and a surface."
   },
   {
-   "q": "To make a shadow bigger, move the thing nearer the light or nearer the wall?",
+   "q": "To make a shadow bigger, do you move the thing nearer the light or nearer the wall?",
    "a": "Nearer the light."
   },
   {
@@ -2273,7 +2273,7 @@
    "a": "The side away from the light."
   },
   {
-   "q": "One toy, two lights. How many shadows?",
+   "q": "Two lights shine on one toy. How many shadows does the toy have?",
    "a": "Two."
   },
   {
@@ -2363,28 +2363,28 @@
   ]
  },
  "roots": {
-  "context": "We have made shadows grow, shrink, split in two and tell a story. Now we ask what the Near or Far test tells us about shadows, and about ourselves.",
+  "context": "In the Near or Far test, the same toy made a small shadow near the wall and a big one near the torch. Now we ask what that tells us about shadows, and about ourselves.",
   "deep_truth": {
-   "truth": "Your toy stayed the same size, yet its shadow grew as you moved it nearer the torch. A shadow is the patch the toy keeps light from reaching. Near the torch, the toy blocks a wider spread of the light. So a shadow's size is set by where the toy stands, as much as by the toy.",
-   "habit": "We think of a shadow as a dark copy that belongs to a thing, with the thing's own size. But the same toy made a small shadow and a huge one. The size came from the toy's place between the light and the wall.",
+   "truth": "In the Near or Far test, your toy stayed the same size, yet its shadow grew as you moved it nearer the torch. A shadow is the patch of wall that the toy stops the light from reaching. Near the torch, the toy blocks a wider spread of the light. So the size of a shadow depends on where the toy stands, as much as on the toy itself.",
+   "habit": "We think of a shadow as a dark copy that belongs to a thing, with the thing's own size. But in the Near or Far test, the same toy made a small shadow and a huge one. The size came from the toy's place between the light and the wall.",
    "evidence": "In the Near or Far test, the toy's shadow was only a little taller than the toy near the wall, and about three times as tall near the torch. The toy did not change at all."
   },
   "three": {
    "who_am_i": "You are something light cannot pass through. Wherever you stand in the light, you leave a patch of shade behind you.",
    "what_is_life": "A plant feels the shade of a neighbour and grows taller to reach the light. Living beings sense shadows and act on them.",
-   "what_is_this_world": "The world is full of light and of the shapes that block it. Night itself is your side of the Earth in the Earth's own shadow."
+   "what_is_this_world": "The world is full of light and of things that block it. Night is when your side of the Earth is in the Earth's own shadow."
   },
-  "thread": "One torch and one toy made a small sharp shadow, a big fuzzy one, and, with a second torch, two pale shadows. The toy never changed. Each shadow was a different meeting of the same light with the same toy. A shadow is made by the light, the thing and the surface together, and by where each one is.",
+  "thread": "One torch and one toy made a small sharp shadow near the wall and a big fuzzy one near the torch. With a second torch, the toy made two pale shadows. The toy never changed. What changed was where the toy and the lights were. A shadow is made by the light, the thing and the surface together, and by where each one is.",
   "teachings": [
    {
     "source": "Katha Upanishad 1.3.1",
     "teaching": "The Katha Upanishad speaks of two that live together in the body. It says the wise call them shadow and sunlight.",
-    "link": "In your tests, a shadow was only ever there because of the light. Shadow and light come as a pair: switch off the torch, and the shadow goes too."
+    "link": "In the Make a Shadow, Lose a Shadow activity, the shadow was only there because of the light. Shadow and light come as a pair: switch off the torch, and the shadow goes too."
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "The Tao Te Ching, an old Chinese book, says that long and short show each other, and high and low lean on each other.",
-    "link": "Your toy's shadow was not long or short by itself. It was long or short depending on where the toy stood between the torch and the wall."
+    "link": "In the Near or Far test, your toy's shadow was not long or short by itself. It was long or short depending on where the toy stood between the torch and the wall."
    },
    {
     "source": "Plato, Republic, Book 7 (514a to 520a)",

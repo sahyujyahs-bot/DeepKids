@@ -15,7 +15,7 @@
   "By the end I can say that a town or city is a habitat, and name birds, trees, insects and other animals who live in it with us.",
   "By the end I can say what a street tree gives: shade, food, and places for nests and for resting.",
   "By the end I can say why some animals do well in cities: they eat many kinds of food, and they use buildings like cliffs or tree holes.",
-  "By the end I can guess, test and say what I saw in the noise test.",
+  "By the end I can make a guess, do the Words in the Noise experiment, and say what I saw.",
   "By the end I can say how city noise changes bird songs, and one more way city animals change what they do.",
   "By the end I can watch city animals kindly and safely, from a distance."
  ],
@@ -84,7 +84,7 @@
     "A squirrel runs up a coconut palm to a nest near the top."
    ],
    "perspectives": [],
-   "context": "This card says what one street tree gives to the living beings around them.",
+   "context": "This card says what one street tree gives to the living beings nearby.",
    "art": "A big peepal tree by a road, with a crow's nest, a squirrel, a koel eating figs, bees at flowers, a caterpillar on a leaf and a dog asleep in the shade."
   },
   {
@@ -93,7 +93,7 @@
    "definition": "Animals who eat many kinds of food, and who can nest in many kinds of places, usually do well in cities.",
    "description": "House crows eat almost anything: scraps, insects, fruit and grain. City pigeons come from wild rock doves, who nest on cliff ledges. To a pigeon, a window ledge is like a ledge on a cliff. Mynas nest in holes in walls and pipes. Other beings find a city hard. Hornbills need big old trees with holes. House sparrows have become fewer in many Indian cities, and scientists are still finding out why.",
    "examples": [
-    "Pigeons nest on window ledges, like their wild relatives nest on cliffs.",
+    "Pigeons nest on window ledges, just as their wild relatives nest on cliffs.",
     "A myna nests inside a hole in an old wall.",
     "Rock bees hang a big hive under the ledge of a tall building."
    ],
@@ -141,7 +141,7 @@
    "perspectives": [
     {
      "who": "An older idea",
-     "explanation": "Insects steer by keeping the Moon at the same angle. A lamp is so close that keeping it at one angle makes them fly round and round it."
+     "explanation": "Insects find their way at night by keeping the Moon on the same side of them as they fly. A lamp is much closer than the Moon, so keeping the lamp on the same side makes them fly round and round the lamp."
     },
     {
      "who": "Scientists who filmed insects at night in 2024",
@@ -163,7 +163,7 @@
   },
   {
    "text": "City noise covers bird songs, and many birds change how they sing.",
-   "evidence": "Scientists record birds in noisy and quiet places and compare the songs. In your noise test, soft words were lost in the noise too, until the speaker spoke louder."
+   "evidence": "Scientists record birds in noisy and quiet places and compare the songs. In the Words in the Noise experiment, soft words were lost in the loud noise too, until the speaker spoke louder."
   }
  ],
  "challenging": [
@@ -187,7 +187,7 @@
    "claim": "Feeding street animals is always kind.",
    "who": "Some people",
    "for": "Food helps hungry dogs, cows, crows and pigeons, especially in the hot summer.",
-   "against": "Bread, biscuits and fried snacks can make birds ill. Too much food in one place brings huge flocks of pigeons, and their droppings can make people's lungs sick. Monkeys who are fed by people may start to snatch food and bite. Clean water in summer helps almost every animal. Food needs more care.",
+   "against": "Bread, biscuits and fried snacks can make birds ill. Too much food in one place brings huge flocks of pigeons, and their droppings can make people's lungs sick. Monkeys who are fed by people may start to snatch food and bite. Clean water in summer helps almost every animal. Giving food needs more care.",
    "status": "debated",
    "context": "This card is about a question families argue about: is feeding street animals always a kind thing to do?"
   }
@@ -196,7 +196,7 @@
   {
    "q": "Why do we hear more birds on a quiet holiday morning?",
    "kind": "deep",
-   "hint": "Think about the noise test. What happened to the soft words when the noise was on?"
+   "hint": "Think about the Words in the Noise experiment. What happened to the soft words when the loud noise was on?"
   },
   {
    "q": "Why do pigeons like window ledges so much?",
@@ -209,7 +209,7 @@
    "hint": "Was it a field, a lake, a scrub forest or a farm? Who lives in places like that?"
   },
   {
-   "q": "Whose city is it: only people's, or everyone's who lives in it?",
+   "q": "Does the city belong only to people, or to everyone who lives in it?",
    "kind": "big",
    "hint": "Think about the crow, the dog, the neem tree and you. Who needs the street, and for what?"
   }
@@ -220,18 +220,18 @@
   "read_aloud": true,
   "note": "Kavya, Arjun and Paati are made up. The birds are real city birds of South India. Koels call loudly in the hot months, and a koel mother lays her eggs in a crow's nest. Palm squirrels give a sharp chip-chip call when they are alarmed.",
   "text": [
-   "Kavya lived on the fifth floor of a building in Chennai. The building stood beside a busy road. Every morning, buses roared, autos rattled and horns honked all day long.",
+   "Kavya lived on the fifth floor of a building in Chennai. The building stood beside a busy road. Every day, buses roared, autos rattled and horns honked all day long.",
    "Kavya was eight. Her brother Arjun was six. Their grandmother, Paati, lived with them.",
    "\"There are no birds on our road,\" Arjun said one day. \"Birds live in forests. Our road only has buses.\"",
    "Kavya was not so sure. But she could not think how to show him.",
-   "It was the summer holidays, in May. One night Paati said, \"Tomorrow I will wake you both very early. Before the sun. I want you to hear something.\"",
+   "It was the summer holidays, in May. One night Paati said, \"Tomorrow I will wake you both very early, before the sun is up. I want you to hear something.\"",
    "At half past five, the sky was dark blue. Paati, Kavya and a sleepy Arjun stood on the balcony. The road below was empty. No buses. No autos. No horns.",
    "Then they heard it. \"Ku-oo! Ku-oo! Ku-oo!\" The call came from the neem tree across the road. Each call was louder and higher than the one before.",
    "\"That is a koel,\" said Paati.",
    "Then a crow called, \"Kaa, kaa.\" A gang of mynas chattered on the wall. A tiny bird sang a sweet, quick song from the coconut palm. A squirrel ran down the neem tree and called, \"Chip-chip-chip!\"",
    "Arjun's eyes went wide. \"Where did they all come from?\" he whispered.",
    "Kavya listened hard. She thought about it. \"I don't think they came from anywhere,\" she said slowly. \"I think they live here. We just never hear them.\"",
-   "Paati smiled and said nothing. She only said, \"Let's come back at nine o'clock.\"",
+   "Paati smiled. She only said, \"Let's come back at nine o'clock.\"",
    "At nine, the road was full again. A bus roared past. An auto honked. Kavya and Arjun stood on the balcony and listened.",
    "Kavya saw the koel's tail move in the neem tree. She could see the koel's throat move as he called. But she could only just hear him, very faint, under the traffic.",
    "\"Arjun, can you hear the koel?\" she called. Arjun shook his head. Kavya had to shout it again before he heard her at all.",
@@ -294,7 +294,7 @@
       },
       {
        "f": "Pigeon: Gutr-goo, gutr-goo",
-       "b": "Pigeons coo softly on window ledges, where they nest like their wild relatives on cliffs.",
+       "b": "Pigeons coo softly on window ledges. They nest there, just as their wild relatives nest on cliffs.",
        "img": {
         "src": "media/cards/city-nature-g1-0-02.jpg",
         "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
@@ -348,7 +348,7 @@
      "items": [
       {
        "f": "Call louder",
-       "b": "Nightingales in a noisy city sang louder in noisier places."
+       "b": "Nightingales in the city of Berlin sang louder in noisier places."
       },
       {
        "f": "Call higher, in a squeaky voice",
@@ -407,9 +407,9 @@
     "The bird stands at one end of the room. The friend bird stands at the other end, with their back to the bird.",
     "The traffic player sits next to the friend bird, with a steel plate and a spoon. With 2 players, the friend bird also plays the traffic: turn the traffic card and make the noise yourself.",
     "The bird takes a call card and keeps the card secret.",
-    "The traffic player turns over a traffic card. Knock on the plate with the spoon for the seconds written on the back of the card. A quiet card means no noise.",
+    "The traffic player turns over a traffic card and knocks on the plate with the spoon for as many seconds as the back of the card says. A quiet card means no noise.",
     "While the noise is going, the bird calls once in a soft voice. The friend bird says the sound they heard, for example \"Kaa kaa\".",
-    "If the friend bird did not say the right sound, the bird picks one trick card and calls again, with the same noise made again. Put the trick card back afterwards. For the quiet gap trick, the bird waits until the noise stops, then calls.",
+    "If the friend bird did not say the right sound, the bird picks one trick card. The traffic player makes the same noise again, and the bird calls again using the trick. Put the trick card back afterwards. For the quiet gap trick, the bird waits until the noise stops, then calls.",
     "A call heard right on the first try wins 2 points. A call heard right after a trick wins 1 point. A call still not heard wins no point.",
     "Play 8 calls, one call card each time. Swap jobs after every 2 calls. Add up all the points as one team score, and say which trick worked best."
    ],
@@ -609,7 +609,7 @@
    "context": "In this experiment a grown-up says 10 soft words across a room, and you say back what you heard. You do it three times: with no noise, with loud noise, and with loud noise and a loud voice. You count the words you heard each time.",
    "question": "Five big steps away, how many soft words can you hear with no noise? How many with loud noise on? And how many when the speaker speaks loudly in the noise?",
    "predict": "Guess first. Out of 10 soft words, how many will you hear with no noise? How many with the noise on? Will a loud voice help in the noise? Why do you think so?",
-   "fair_test": "The same person speaks every time, from the same place, five big steps away. The listener always faces the wall, so they cannot read the speaker's lips. Each round uses 10 new short words, so nobody can remember them. Only the noise and the loudness of the voice change.",
+   "fair_test": "The same person speaks every time, from the same place, five big steps away. The listener always faces the wall, so they cannot read the speaker's lips. Each round uses 10 new short words, so the listener cannot remember them from the round before. Only the noise and the loudness of the voice change.",
    "results_table": [
     "Round",
     "Noise on or off?",
@@ -702,7 +702,7 @@
       {
        "q": "How many words do you think you will hear with the noise on? Why?",
        "good": [
-        "Fewer, because the noise covers my words.",
+        "Fewer, because the noise covers the words.",
         "All of them, because I listen hard.",
         "Some, if you speak in the gaps."
        ]
@@ -716,7 +716,7 @@
      "do": "Round 1: no noise. Say the 10 words of list 1 softly, one at a time. Tick each word your child says back right.",
      "say": "Here is the first word. Say it back to me.",
      "kid": "Listen to each soft word. Say it back.",
-     "parent": "If your child gets all 10 easily, take two more steps back. If they hear fewer than 6, step one step closer. Then use the spare list 4 for round 1 instead, and keep the new distance for all three rounds. You want a distance where soft words are heard well in the quiet."
+     "parent": "If your child gets all 10 easily, take two more steps back. If they hear fewer than 6, take one step closer. If you changed the distance, do round 1 again with the spare list 4, and keep the new distance for all three rounds. You want a distance where soft words are heard well in the quiet."
     },
     {
      "id": "s4",
@@ -745,13 +745,13 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Fill in the table together. Ask your child to say three things: what they think, what they saw, and why. Then look back at their guess.",
+     "do": "Fill in the table together. Ask your child to say three things: what they found, what they saw that shows it, and why they think it happened. Then look back at their guess.",
      "say": "Look at the three numbers. What happened to the soft words when the noise was on? Why did the loud words get through? Was your guess right?",
      "kid": "Look at your three numbers. What did you find? Why?",
      "think": "A koel calls from a tree beside a busy road. What could the koel do, so that another koel hears him?",
      "check": {
       "t": "mcq",
-      "q": "Most families hear the fewest words in which round?",
+      "q": "In which round do most families hear the fewest words?",
       "options": [
        "Round 2: soft words with the noise on",
        "Round 1: soft words with no noise",
@@ -821,7 +821,7 @@
      "do": "Look every 5 minutes. Note the time when each cube has melted away.",
      "say": "Let's look. Which cube is smaller now?",
      "kid": "Look every 5 minutes. Which cube is smaller?",
-     "parent": "In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If it is still there after 12 minutes, write 'not melted yet' and compare the sizes. Do not let your child stare at the sun.",
+     "parent": "In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If the shade cube is still there after 12 minutes, write 'not melted yet' and compare the sizes of the two cubes. Do not let your child stare at the sun.",
      "ask": [
       {
        "q": "What is the shade doing for the ice?",
@@ -890,7 +890,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Watch for 10 minutes. Make one tally mark for each being. Count a bird again only if a new one comes.",
+     "do": "Watch for 10 minutes. Make one tally mark for each being. Do not count the same bird twice. Make a new mark only when a new bird comes.",
      "say": "Who do you see? Where are they? What are they doing?",
      "kid": "Watch for 10 minutes. Make a mark for each one.",
      "parent": "Look high and low: roof edges, wires, ledges, tree tops, the road, under parked cars, and flowers. Don't forget people. Humans are animals too, so your child can add a row for people if they like."
@@ -1136,7 +1136,7 @@
      "kid": "Read your diary to someone. Who surprised you most?",
      "check": {
       "t": "mcq",
-      "q": "Ishita, a girl in Class 2, saw a gecko by the light at dusk and a squirrel on the tree at noon. What does this show?",
+      "q": "Suppose you see a gecko by the light at dusk and a squirrel on the tree at noon. What does this show?",
       "options": [
        "Different beings use the street at different times",
        "Geckos and squirrels are the same",
@@ -1218,7 +1218,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Check the list together. Then ask the \"one more thing\" question.",
+     "do": "Check the list together. Then ask: who might still find your street hard to live in? Add one more thing for them.",
      "say": "Let's check. Has every being got what they need? Who might still find it hard?",
      "kid": "Check your list. Who still needs something?",
      "check": {
@@ -1281,7 +1281,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw yourself in round 2 of the noise test. Show the noise next to you and the soft words going towards you.",
+     "p": "Draw yourself in round 2 of the Words in the Noise experiment, when the noise was on and the words were soft. Show the noise next to you and the soft words going towards you.",
      "a": "A drawing of the child facing the wall, the noise maker close by, and only a few words reaching them.",
      "how": "e1",
      "why": "A strong drawing shows the noise between the words and the listener, and fewer words getting through."
@@ -1301,7 +1301,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these beings: eats many kinds of food, or eats one main kind of food.",
+     "p": "Sort these beings into two groups: those who eat many kinds of food, and those who eat one main kind of food.",
      "cats": [
       "Eats many kinds",
       "Eats one main kind"
@@ -1401,7 +1401,7 @@
     },
     {
      "t": "write",
-     "p": "Two families did the noise test. In both, the child heard 9 soft words in the quiet. With the noise on, one child heard only 2 words, and the other child heard 9. What might have been different in the second family?",
+     "p": "Two families did the Words in the Noise experiment. In both, the child heard 9 soft words with no noise. With the noise on, one child heard only 2 words, and the other child heard 9. What might have been different in the second family?",
      "lines": 3,
      "how": "e1",
      "a": "The noise may have been too quiet or too far away, the speaker may have spoken louder, or the child may have seen the speaker's lips.",
@@ -1445,7 +1445,7 @@
      ],
      "ask": "Who do you agree with? What could you look for to check? Then say why someone might think the other way.",
      "lines": 3,
-     "a": "Most evidence supports Mehrunnisa, but the full answer is still studied. A child might suggest counting sparrows near old buildings with holes and near new glass buildings.",
+     "a": "Most evidence supports Mehrunnisa, but the full answer is still being studied. A child might suggest counting sparrows near old buildings with holes and near new glass buildings.",
      "why": "A strong answer names a way to check, such as comparing old and new buildings, and is fair to Priya: sparrows did become fewer as towers spread."
     },
     {
@@ -1479,7 +1479,7 @@
       "shade under the neem tree: C",
       "pale pavement: in between"
      ],
-     "why": "Dark roads in the sun get hottest. The shade of leaves keeps the ground coolest, as the ice cube and the hand test show.",
+     "why": "Dark roads in the sun get hottest. The shade of leaves keeps the ground coolest. The Sun or Shade ice cube experiment and the Sun Road, Shade Road walk both show this.",
      "art": "A street scene with a black road in sun, a pale pavement and a neem tree's shade, each with an empty box."
     },
     {
@@ -1605,7 +1605,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the noise test, what helped the words get through the noise?",
+   "p": "In the Words in the Noise experiment, what helped the words get through the noise?",
    "opts": [
     "Speaking loudly",
     "Speaking more softly",
@@ -1618,7 +1618,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why did the listener face the wall in the noise test?",
+   "p": "In the Words in the Noise experiment, why did the listener face the wall?",
    "opts": [
     "So they could not read the speaker's lips",
     "So the noise was quieter",
@@ -1650,7 +1650,7 @@
     "Sing much louder"
    ],
    "a": 0,
-   "why": "With less noise to sing over, they would not need to sing so loudly, and their songs would still carry further. When this really happened in a quiet city, the birds sang more softly.",
+   "why": "With less noise to sing over, they would not need to sing so loudly, and their songs would still carry further. When this really happened in San Francisco in 2020, the birds sang more softly.",
    "outcome": 4
   },
   {
@@ -1751,25 +1751,25 @@
  ],
  "maths": [
   {
-   "problem": "Nandini, a girl in Class 2, did the noise test. She heard 9 soft words with no noise. With the noise on, she heard only 3. How many words did the noise take away?",
+   "problem": "In the Words in the Noise experiment, a child heard 9 soft words with no noise. With the noise on, the child heard only 3. How many words did the noise take away?",
    "answer": "6 words.",
-   "explain": "9 words in the quiet take away the 3 heard in the noise leaves 6. 9 - 3 = 6.",
+   "explain": "9 words were heard in the quiet and 3 in the noise. 9 take away 3 leaves 6. 9 - 3 = 6.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e1",
-   "context": "This is about the noise test, where a grown-up said soft words across a room, with and without loud noise.",
+   "context": "This is about the Words in the Noise experiment, where a grown-up said soft words across a room, with and without loud noise.",
    "why_maths": "Taking away shows how much the noise covered, which tells us how strong the noise was compared with the voice."
   },
   {
-   "problem": "In 10 minutes at the window, Swati, a girl in Class 2, made a tally: 7 crows, 12 pigeons and 3 dogs. Which did she see most? How many more pigeons than crows?",
+   "problem": "A tally from 10 minutes at the window shows 7 crows, 12 pigeons and 3 dogs. Which animal was seen most? How many more pigeons than crows were there?",
    "answer": "Pigeons. 5 more pigeons than crows.",
    "explain": "12 is the biggest number. 12 - 7 = 5.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "a1",
-   "context": "This is about the window watch, where you make a tally mark for every being you see.",
+   "context": "This is about the Window Watch activity, where you make a tally mark for every being you see.",
    "why_maths": "A tally lets us compare at a glance who lives on the street in the biggest numbers."
   },
   {
-   "problem": "Imagine a sparrow's song could be heard 10 big steps away on a busy road. In the quiet of the lockdown, songs could be heard about twice as far. How far is that?",
+   "problem": "Suppose a sparrow's song can be heard 10 big steps away on a busy road. When the roads went quiet in the 2020 lockdown, songs could be heard about twice as far. How far is that?",
    "answer": "About 20 big steps.",
    "explain": "Twice 10 is two groups of 10. 10 + 10 = 20.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -1777,11 +1777,11 @@
    "why_maths": "Doubling shows how much further a song carries when the noise goes away."
   },
   {
-   "problem": "Kavya counted bird calls she heard in one minute at different times: 6 o'clock, 8 calls. 7 o'clock, 6 calls. 8 o'clock, 4 calls. As the traffic grew, the number went down. What pattern do you see? What might she count at 9 o'clock?",
-   "answer": "The number goes down by 2 each hour. At 9 o'clock she might count 2 calls.",
+   "problem": "These bird calls were heard in one minute from a balcony. At 6 o'clock: 8 calls. At 7 o'clock: 6 calls. At 8 o'clock: 4 calls. The traffic grew each hour. What pattern do you see? How many calls might be heard at 9 o'clock?",
+   "answer": "The number goes down by 2 each hour. At 9 o'clock there might be 2 calls.",
    "explain": "8, 6, 4: each number is 2 less than the one before. The next would be 2.",
    "math_unit": "math.patterns.number-patterns.L2",
-   "context": "These are made-up counts from a girl listening on her balcony as the morning traffic grew.",
+   "context": "These are made-up counts of bird calls heard from a balcony as the morning traffic grew.",
    "why_maths": "Spotting the pattern helps us predict, and then we can listen at 9 o'clock to check if the noise really covers more calls."
   }
  ],
@@ -1926,13 +1926,13 @@
  "roots": {
   "context": "We have met the beings who share our streets, and tested what loud noise does to a soft voice. Now we ask what that tells us about a city and the lives in it.",
   "deep_truth": {
-   "truth": "With the noise on, you missed most soft words, until the speaker spoke louder. A call works only if it can be heard over the other sounds. Many city birds sing louder or higher than birds of the same kind in quiet places. So the noise of a city changes the songs of the birds who live in it.",
-   "habit": "We think of a city as a place built for people, where other animals just carry on as they would in the wild. But the city changes them. Birds by busy roads change how they sing, the way you changed your voice in the noise.",
-   "evidence": "In the noise test, the same speaker, the same place and the same kind of words gave many words in the quiet and few in the noise. A loud voice brought the words back. Recordings show great tits singing higher in noisy city places, and San Francisco sparrows singing more softly when the roads went quiet in 2020."
+   "truth": "In the Words in the Noise experiment, you missed most of the soft words when the noise was on, until the speaker spoke louder. A call works only if it can be heard over the other sounds. Many city birds sing louder or higher than birds of the same kind in quiet places. So the noise of a city changes the songs of the birds who live in it.",
+   "habit": "We think of a city as a place built for people, where other animals just carry on as they would in the wild. But the city changes them. Birds by busy roads change how they sing, the way the speaker in the Words in the Noise experiment had to speak louder to be heard.",
+   "evidence": "In the Words in the Noise experiment, the speaker, the place and the kind of words stayed the same. The listener heard many words in the quiet and few in the noise. When the speaker spoke loudly, the listener heard the words again. Recordings show great tits singing higher in noisy city places, and San Francisco sparrows singing more softly when the roads went quiet in 2020."
   },
   "three": {
-   "who_am_i": "You are one of the animals who live in this town. In the noise you changed your voice, the way a bird changes their song.",
-   "what_is_life": "Living beings keep fitting themselves to where they are. A koel by a busy road decides when and how to call, so that another koel can hear.",
+   "who_am_i": "You are one of the animals who live in this town. In the Call Over the Traffic game, you changed your call to be heard over the noise, the way a bird changes their song.",
+   "what_is_life": "Living beings keep changing what they do to suit the place where they live. A koel by a busy road changes when and how he calls, so that another koel can hear.",
    "what_is_this_world": "One street is home to many beings at once: people, crows, a neem tree, bees and a sleeping dog. Each one hears and uses the street in their own way."
   },
   "thread": "One street holds many lives. The same neem tree gives shade to a dog, flowers to bees and a high fork to a crow. Traffic noise covers the koel's call, and the koel answers by calling louder, higher or at quieter times. Each being on the street senses it in their own way and acts on it. So the street shapes each life, and each life shapes the street a little in return.",
@@ -1970,7 +1970,7 @@
   },
   "ask": [
    "When the traffic stops for a moment, what do you hear that was there all along?",
-   "If a dog, a crow and you walked down the same street, would you all meet the same street?",
+   "If a dog, a crow and you walked down the same street, would the street seem the same to all three of you?",
    "Which sound on your street do the birds have to sing over?"
   ],
   "art": "A child sitting by a window with eyes closed, with a band of traffic noise drawn below and small bird notes rising above the band from a neem tree."
@@ -1983,5 +1983,5 @@
   "wrong_idea": "Many people thought city noise bothered only humans, and that birds kept singing in the same way whatever the noise."
  },
  "playtest": "Played the calling game in my head with 2 and with 4 players: it now works with a parent and child, the traffic cards say how long to make noise, the quiet-gap trick has a clear meaning, and the game ends after 8 calls with a team score. The memory game now ends when no pair is left. In the noise test I added a spare word list so a changed distance stays fair, and made the ice test and the 5-day diary add up in minutes. I removed repeated shade, pigeon and noise questions, a non-joke, and family members assumed in the steps.",
- "warm": {"words": ["CROWS", "TREES", "BIRDS", "NESTS", "SHADE"], "quiz": [["A city street is a habitat for many living beings, not only for people.", true, "Crows, squirrels, bees, ants and trees all find water, food and shelter in a city."], ["Real nature lives only in forests, and not in towns or cities.", false, "Crows, pigeons, squirrels, bees, ants, and trees and plants in cracks all live on city streets."], ["House sparrows became fewer because mobile phone towers drove them away.", false, "No good study shows this. Other things changed too, such as the places where sparrows can nest."], ["Many city birds sing louder or higher so that traffic noise does not cover their songs.", true, "Loud noise covers soft sounds, so birds near busy roads change how they sing."], ["Animals who eat many kinds of food and nest in many places usually do well in cities.", true, "A city has many kinds of food and places, so such animals can always find what they need."], ["Feeding street animals is always kind.", false, "Bread and fried snacks can make birds ill, and too much food in one place brings huge flocks."], ["Birds are easier to hear on a quiet holiday morning because they were there all week.", true, "Birds are there on busy days too, but traffic noise covers their songs."], ["Insects gather round bright lights at night, and no animals hunt them there.", false, "Some nocturnal animals hunt the insects that fly round lights."], ["Cutting down a street tree changes nothing for the birds who nested in it.", false, "A street tree gives other living beings shade, food, and places to nest and rest."], ["Trees make a street cooler, so shade under them helps people and animals.", true, "Shade and the water from leaves cool the air under a tree."]], "odd": [[["Shade", "Place to nest", "Fruit and seeds", "Loud traffic"], "Loud traffic", "Shade, nest places and fruit are things a street tree gives other beings; traffic is noise, and trees give none."], [["Owl", "Fruit bat", "Moth", "Crow"], "Crow", "Owls, fruit bats and moths are active at night; a crow is awake and active in the daytime."], [["Soft whisper", "Bird song", "Quiet talking", "Loud horn"], "Loud horn", "Traffic noise covers soft sounds so we cannot hear them well; a loud horn is not covered."], [["Crow's nest", "Squirrel's nest", "Bees' hive", "Bus shelter"], "Bus shelter", "The first three are homes that animals build for their young; a bus shelter is built by people."], [["Neem tree", "Koel", "Squirrel", "Lamp post"], "Lamp post", "Neem tree, koel and squirrel are living beings who share our streets; a lamp post is not alive."]]}
+ "warm": {"words": ["CROWS", "TREES", "BIRDS", "NESTS", "SHADE"], "quiz": [["A city street is a habitat for many living beings, not only for people.", true, "Crows, squirrels, bees, ants and trees all find water, food and shelter in a city."], ["Real nature lives only in forests, and not in towns or cities.", false, "Crows, pigeons, squirrels, bees, ants, and trees and plants in cracks all live on city streets."], ["House sparrows became fewer because mobile phone towers drove them away.", false, "No good study shows this. Other things changed too, such as the places where sparrows can nest."], ["Many city birds sing louder or higher so that traffic noise does not cover their songs.", true, "Loud noise covers soft sounds, so birds near busy roads change how they sing."], ["Animals who eat many kinds of food and nest in many places usually do well in cities.", true, "A city has many kinds of food and places, so such animals can always find what they need."], ["Feeding street animals is always kind.", false, "Bread and fried snacks can make birds ill, and too much food in one place brings huge flocks."], ["Birds are easier to hear on a quiet holiday morning because they were there all week.", true, "Birds are there on busy days too, but traffic noise covers their songs."], ["Insects gather round bright lights at night, and no animals hunt them there.", false, "Some nocturnal animals hunt the insects that fly round lights."], ["Cutting down a street tree changes nothing for the birds who nested in it.", false, "A street tree gives other living beings shade, food, and places to nest and rest."], ["Trees make a street cooler, so shade under them helps people and animals.", true, "Shade and the water from leaves cool the air under a tree."]], "odd": [[["Shade", "Place to nest", "Fruit and seeds", "Loud traffic"], "Loud traffic", "Shade, nest places and fruit are things a street tree gives other beings. Traffic does not come from a tree."], [["Owl", "Fruit bat", "Moth", "Crow"], "Crow", "Owls, fruit bats and moths are active at night; a crow is awake and active in the daytime."], [["Soft whisper", "Bird song", "Quiet talking", "Loud horn"], "Loud horn", "Traffic noise covers soft sounds so we cannot hear them well; a loud horn is not covered."], [["Crow's nest", "Squirrel's nest", "Bees' hive", "Bus shelter"], "Bus shelter", "The first three are homes that animals build for their young; a bus shelter is built by people."], [["Neem tree", "Koel", "Squirrel", "Lamp post"], "Lamp post", "Neem tree, koel and squirrel are living beings who share our streets; a lamp post is not alive."]]}
 }

@@ -12,7 +12,7 @@
   "art": "A plastic bottle filled to the top with rice on a steel tray, a pencil lying beside it, and a child's hand hovering over it with a question mark above."
  },
  "outcomes": [
-  "By the end I can tell a question we can test by trying from one we cannot, and say why.",
+  "By the end I can tell which questions we can test by trying and which we cannot, and say why.",
   "By the end I can make a prediction and give a reason for it, before a test.",
   "By the end I can do a test, count what happens, and say if my prediction was right.",
   "By the end I can say what I learned when my prediction was wrong.",
@@ -162,7 +162,7 @@
   },
   {
    "text": "One test can be a fluke, so we test again.",
-   "evidence": "In the Lucky Blow test, the two counts of sixes are often different just by chance. Doing it again often swaps which one is bigger."
+   "evidence": "In the Lucky Blow test, you count the sixes with a blow and the sixes without. The two counts are often different just by chance. When you do the test again, the bigger count is often on the other side."
   }
  ],
  "challenging": [
@@ -185,7 +185,7 @@
   {
    "claim": "A real scientific idea must be one that a test could prove wrong.",
    "who": "Karl Popper, a philosopher born in Austria, in the 1930s",
-   "for": "An idea that no test could ever show wrong fits everything, so it tells us nothing.",
+   "for": "If no test could ever show that an idea is wrong, the idea fits whatever happens. So it tells us nothing about what will happen.",
    "against": "Some scientists say ideas about the very start of the universe are still science, though nobody can test them yet. They hope tests will come later, as they did for the stars.",
    "status": "debated",
    "context": "This card is about a big argument: does science need ideas that can be tested?"
@@ -205,7 +205,7 @@
   {
    "q": "A question nobody could test in 1835 was tested later. Which questions that we can't test today might be tested one day?",
    "kind": "big",
-   "hint": "Think about the stars, the middle of the Earth, the inside of an ant's life, or the start of everything."
+   "hint": "Think about the stars, the middle of the Earth, what it feels like to be an ant, or the start of everything."
   },
   {
    "q": "Why do you think people like to predict things, like rain, a cricket score or the end of a story?",
@@ -379,7 +379,7 @@
      "mins": 2,
      "do": "1. Cut out the cards. 2. Put the two pile cards face up. 3. Read both pile cards aloud.",
      "say": "Some questions we can answer by trying something and watching. Some we can't. Let's sort these cards into two piles.",
-     "kid": "Two piles. Questions you can test. Questions you can't."
+     "kid": "Make two piles: questions you can test, and questions you can't."
     },
     {
      "id": "s2",
@@ -523,7 +523,7 @@
      "do": "1. Read a card aloud. 2. Each player predicts and gives a reason. 3. Do the test. 4. Read the back. 5. Give points.",
      "say": "What do you predict? Why do you think so? Now let's try it and watch.",
      "kid": "Read the card. Say your guess and why. Now try it.",
-     "parent": "Play your own prediction honestly. If you are wrong, say so cheerfully, and say what you will think next time.",
+     "parent": "Make your own prediction honestly. If you are wrong, say so cheerfully, and say what you will think next time.",
      "check": {
       "t": "mcq",
       "q": "You predicted the lemon would sink, but it floated. What gets you a point?",
@@ -704,8 +704,8 @@
      "id": "s5",
      "mins": 7,
      "do": "1. Your child pokes the pencil in and out, counting aloud. 2. Every 10 pokes, tap the bottle on the tray 5 times. 3. Top up the rice to the very top. 4. After every 10 pokes, leave the pencil in and try a slow lift.",
-     "say": "Poke in and out, and count. Every ten, tap the bottle and fill it up again. Then push the pencil in and try lifting.",
-     "kid": "Poke and count. Every ten, tap it and add rice. Then try to lift.",
+     "say": "Poke in and out, and count. After every ten pokes, tap the bottle and fill it up again. Then push the pencil in and try lifting.",
+     "kid": "Poke and count. After every ten pokes, tap the bottle and add rice. Then try to lift.",
      "parent": "The rice gets lower as it packs, so keep adding rice to the very top. Many bottles lift after 20 to 50 pokes, but it varies. A rough wooden chopstick or ice-cream stick grips better than a shiny painted pencil. If yours has not lifted after 60 pokes, use a narrower bottle or fill it fuller.",
      "adult": false
     },
@@ -714,7 +714,7 @@
      "mins": 3,
      "do": "1. When the bottle lifts, write the number of pokes. 2. Ask your child to say what they think, what they saw, and why.",
      "say": "It lifted! How many pokes did it take? Was your prediction right? What do you think made the difference?",
-     "kid": "How many pokes? Was your guess right? What made it work?",
+     "kid": "How many pokes did it take? Was your guess right? What made the bottle lift?",
      "ask": [
       {
        "q": "What made it work the second time?",
@@ -732,7 +732,7 @@
      "mins": 2,
      "do": "Pull the pencil out. Ask for one more prediction. Then push it back in and lift.",
      "say": "Now I'll pull the pencil out. If I push it back in, will it lift straight away, or need many pokes again? Why?",
-     "kid": "Pencil out, then back in. Will it lift at once? Why?",
+     "kid": "Pull the pencil out, then push it back in. Will it lift at once? Why?",
      "parent": "It usually lifts at once, because the rice is still packed tight. If not, it needs only a few pokes.",
      "check": {
       "t": "mcq",
@@ -816,16 +816,16 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child blows on the die in their closed hand, shakes it and rolls it onto the tray. 2. Count 30 rolls. 3. Make a tally mark in 'Blow' for each six.",
-     "say": "Blow, shake, roll. Thirty times. Each time it shows six, make a mark in the Blow column.",
-     "kid": "Blow, shake, roll. Thirty times. Mark each six.",
+     "say": "Blow on the die, shake it and roll it. Do this thirty times. Each time it shows six, make a mark in the Blow column.",
+     "kid": "Blow on the die, shake it and roll it. Do this thirty times. Mark each six.",
      "parent": "Count the rolls on your fingers or with pebbles, so you stop at exactly 30."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "Do 30 more rolls the same way, without blowing. Mark each six in 'No blow'.",
-     "say": "Now 30 more, exactly the same, but no blowing. Mark each six.",
-     "kid": "Thirty more. Same shake. No blowing. Mark each six."
+     "say": "Now roll 30 more times, exactly the same way, but without blowing. Mark each six.",
+     "kid": "Roll thirty more times with the same shake, but no blowing. Mark each six."
     },
     {
      "id": "s4",
@@ -849,7 +849,7 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask for a claim, the evidence and a reason.",
+     "do": "Ask your child: does blowing help, what do the marks show, and why?",
      "say": "So, does blowing help? What is your evidence? Why do you think the die did that?",
      "kid": "Does blowing help? What did your marks show?"
     }
@@ -895,15 +895,15 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Your child holds the spoon above the cushion. 2. Before each drop, they say what will happen. 3. They let go. 4. Tick if the prediction was right. 5. Do it 10 times.",
-     "say": "Before you let go, tell me: what will the spoon do? Now let go. Again, ten times.",
+     "say": "Before you let go, tell me: what will the spoon do? Now let go. Do it ten times.",
      "kid": "Say what the spoon will do. Let go. Do it ten times."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Your child shakes the coin in cupped hands. 2. Before each drop, they say 'heads' or 'tails'. 3. They drop it on the bed. 4. Tick if right, cross if wrong. 5. Do it 10 times.",
-     "say": "Say heads or tails first. Now shake and drop. Was it right? Ten times.",
-     "kid": "Say heads or tails. Shake. Drop. Tick or cross."
+     "say": "Say heads or tails first. Now shake the coin and drop it. Were you right? Do it ten times.",
+     "kid": "Say heads or tails. Shake the coin and drop it. Tick if you were right, cross if you were wrong."
     },
     {
      "id": "s3",
@@ -973,9 +973,9 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Help your child change it into a test question. Write it down.",
-     "say": "Let's make it a test question. Which plane flies further from the same line?",
-     "kid": "Make it a test. Which plane flies further from the same line?"
+     "do": "Help your child change 'Which paper plane is the best?' into a test question. Write it down.",
+     "say": "Let's make 'Which paper plane is the best?' into a test question. Which plane flies further when we throw from the same line?",
+     "kid": "Turn 'Which paper plane is best?' into a test question: which plane flies further from the same line?"
     },
     {
      "id": "s3",
@@ -983,7 +983,7 @@
      "do": "1. Fold two different planes. 2. Ask for a prediction and a reason. 3. Throw each one 3 times from the same line. 4. Mark where each lands with a slipper.",
      "say": "Which plane will go further? Why? Now throw each one three times from the line. Throw the same way each time.",
      "kid": "Which plane will go further? Why? Throw each three times.",
-     "parent": "Three throws each, because one throw can be a fluke."
+     "parent": "Throw each plane three times, because one throw can be a fluke."
     },
     {
      "id": "s4",
@@ -1145,15 +1145,15 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Day 2: predict the number of birds seen from a window in two minutes after lunch. Count them then.",
+     "do": "Day 2, morning: your child predicts how many birds they will see from the window in two minutes after lunch. After lunch, count them.",
      "say": "How many birds will you see from the window in two minutes after lunch? Why that number?",
-     "kid": "How many birds in two minutes? Guess. Then count.",
+     "kid": "How many birds will you see in two minutes? Guess, then count.",
      "wait": "Do this on day 2."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Day 3: predict what time the lights will need to go on in the evening. Check the clock then.",
+     "do": "Day 3, morning: your child predicts what time the lights will need to be switched on in the evening. In the evening, check the clock.",
      "say": "When will it get dark enough to switch on the lights? What time do you predict? Why?",
      "kid": "What time will we need the lights? Guess. Check tonight.",
      "wait": "Do this on day 3."
@@ -1161,7 +1161,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Day 4: wet two hankies the same, hang one under the fan and one in a still corner. Predict which dries first, then feel them every hour.",
+     "do": "Day 4: wet two hankies the same amount. Hang one under the fan and one in a corner away from the fan. Your child predicts which will dry first, then feels them every hour.",
      "say": "Which hanky will dry first? Why? Let's feel them every hour.",
      "kid": "Which hanky will dry first? Why? Feel them every hour.",
      "wait": "Do this on day 4."
@@ -1182,7 +1182,7 @@
    "id": "c1",
    "title": "Fewest Pokes: make the rice grip faster",
    "mins": 15,
-   "context": "This is a challenge for after the Rice Bottle Lift. Can you make a pencil lift a bottle of rice with fewer pokes than last time?",
+   "context": "This is a challenge for after the Rice Bottle Lift. Can you make a pencil lift a bottle of rice with fewer pokes than it took then?",
    "problem": "In the Rice Bottle Lift, you counted how many pokes it took before the bottle lifted. Can you make it lift with fewer pokes?",
    "constraints": [
     "Use rice and a pencil or stick.",
@@ -1221,29 +1221,29 @@
      "id": "s1",
      "mins": 2,
      "do": "Read the problem to your child. Remind them of their poke count from the Rice Bottle Lift.",
-     "say": "Last time it took this many pokes. Can you make it lift with fewer? What could you change?",
-     "kid": "Last time took many pokes. Can you do it in fewer?"
+     "say": "In the Rice Bottle Lift it took this many pokes. Can you make the bottle lift with fewer? What could you change?",
+     "kid": "In the Rice Bottle Lift it took many pokes. Can you make the bottle lift with fewer?"
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Your child chooses one change. They predict the number of pokes and give a reason.",
      "say": "What will you change? How many pokes will it take now? Why?",
-     "kid": "Pick one change. Guess the pokes. Say why."
+     "kid": "Pick one change. Guess how many pokes it will take, and say why."
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "Your child fills the bottle and tests the change, counting pokes. Write the number.",
      "say": "Fill it, poke and count. Try a slow lift every ten pokes.",
-     "kid": "Fill it. Poke and count. Try to lift every ten."
+     "kid": "Fill the bottle. Poke and count. Try to lift after every ten pokes."
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Compare the new count with the old one. Ask why.",
+     "do": "Compare the new count with the count from the Rice Bottle Lift. Ask why it was different.",
      "say": "Was it fewer pokes? Was your prediction close? Why do you think that change helped, or didn't?",
-     "kid": "Fewer pokes? Was your guess close? Why?"
+     "kid": "Did it take fewer pokes? Was your guess close? Why?"
     }
    ]
   }
@@ -1289,14 +1289,14 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi, a girl in Class 2, says 'Idli is tastier than dosa.' What kind of sentence is that?",
+   "p": "'Idli is tastier than dosa.' What kind of sentence is that?",
    "opts": [
     "An opinion",
     "A test result",
     "A prediction"
    ],
    "a": 0,
-   "why": "It is what Revathi likes. Someone else may like dosa more, and they are right for themselves.",
+   "why": "It is what one person likes. Someone else may like dosa more, and they are right for themselves.",
    "outcome": 0
   },
   {
@@ -1338,14 +1338,14 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi, a girl in Chennai, predicted the lemon would sink. It floated. What is the best thing to do?",
+   "p": "You predicted the lemon would sink. It floated. What is the best thing to do?",
    "opts": [
     "Write down that it floated, and think about why",
-    "Pretend she said it would float",
+    "Pretend you said it would float",
     "Stop doing tests"
    ],
    "a": 0,
-   "why": "A wrong prediction shows which idea to change. Selvi can now wonder what makes a lemon float.",
+   "why": "A wrong prediction shows which idea to change. Now you can wonder what makes a lemon float.",
    "outcome": 3
   },
   {
@@ -1378,7 +1378,7 @@
     "It will rain tomorrow"
    ],
    "a": 0,
-   "why": "Same path and a steady gap of years suggest one comet coming back again and again. A good prediction uses the pattern, and then a test can check it.",
+   "why": "The same path and the same gap of years suggest it is one comet that keeps coming back. A good prediction uses a pattern like this, and then a test can check it.",
    "outcome": 5
   },
   {
@@ -1435,14 +1435,14 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali, a girl in Class 2, says, 'The crumpled paper will land first.' What should she add to make it a prediction?",
+     "p": "Someone says, 'The crumpled paper will land first.' What should they add to make it a prediction?",
      "opts": [
-      "Her reason: because it is a small ball",
-      "Her favourite colour",
+      "A reason: because it is a small ball",
+      "A favourite colour",
       "Nothing more"
      ],
      "a": 0,
-     "why": "A prediction has a reason. The reason shows what Anjali thinks is going on, so the test can check it."
+     "why": "A prediction has a reason. The reason shows what the person thinks is going on, so the test can check it."
     },
     {
      "t": "draw",
@@ -1493,7 +1493,7 @@
     {
      "t": "count",
      "how": "a1",
-     "p": "In the Sure or Not Sure activity, Bina dropped a spoon 10 times and predicted right every time. She shook a coin 10 times and was right 4 times. How many coin predictions were wrong?",
+     "p": "In the Sure or Not Sure activity, you drop a spoon 10 times and predict right every time. You shake a coin 10 times and predict right 4 times. How many coin predictions were wrong?",
      "a": 6,
      "why": "10 take away 4 is 6. Coin shakes land by chance, so many guesses are wrong."
     },
@@ -1584,7 +1584,7 @@
       "Do the test and watch",
       "Write down what happened"
      ],
-     "why": "First a question, then a prediction with a reason before testing, then the test, then the result written down."
+     "why": "First you ask a question. Then you make a prediction with a reason, before testing. Then you do the test and write down the result."
     },
     {
      "t": "mcq",
@@ -1769,25 +1769,25 @@
  ],
  "maths": [
   {
-   "problem": "In the Lucky Blow test, Shreya got 6 sixes with a blow and 4 sixes without, in 30 rolls each. How many more sixes did blowing give? Does that prove blowing works?",
+   "problem": "In the Lucky Blow test, you get 6 sixes with a blow and 4 sixes without, in 30 rolls each. How many more sixes did blowing give? Does that prove blowing works?",
    "answer": "2 more. No, that does not prove it.",
-   "explain": "6 take away 4 is 2. But a die lands by chance, so counts of sixes change every time. A difference of 2 is small. Shreya needs to test again to see if it was a fluke.",
+   "explain": "6 take away 4 is 2. But a die lands by chance, so counts of sixes change every time. A difference of 2 is small. You need to test again to see if it was a fluke.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e2",
    "context": "This is about the Lucky Blow test, where you rolled a die 30 times with a blow and 30 times without.",
    "why_maths": "Counting tally marks lets us compare two results, and thinking about the size of the difference stops us being fooled by luck."
   },
   {
-   "problem": "In the Sure or Not Sure activity, Leela predicted 10 coin shakes and got 5 right. Her brother Dev got 7 right. Is Dev better at predicting coins?",
+   "problem": "In the Sure or Not Sure activity, one child predicted 10 coin shakes and got 5 right. A second child got 7 right. Is the second child better at predicting coins?",
    "answer": "No. Both got about half right, which is what chance gives.",
-   "explain": "A coin lands by chance, so over 10 shakes anyone gets about half right, sometimes a few more, sometimes a few fewer. 5 and 7 are both near half of 10. If Dev shakes again, he may get 4.",
+   "explain": "A coin lands by chance, so over 10 shakes anyone gets about half right, sometimes a few more, sometimes a few fewer. 5 and 7 are both near half of 10. If the second child tries again, they may get 4.",
    "math_unit": "math.probability.likely-and-unlikely.L2",
    "how": "a1",
    "context": "This is about the Sure or Not Sure activity, where you predicted heads or tails 10 times.",
    "why_maths": "Knowing that half of 10 is 5 helps us see whether a result is just chance or something more."
   },
   {
-   "problem": "In Guess the Grains, one spoon of chana had 23 chana. Predict how many are in two spoons. Then the real count was 45. How close was the prediction?",
+   "problem": "In Guess the Grains, one spoonful had 23 chana. Predict how many are in two spoonfuls. The real count was 45. How close was the prediction?",
    "answer": "Predict 46. It was 1 more than the real count.",
    "explain": "23 and 23 make 46. The real count was 45, and 46 take away 45 is 1. So the prediction was only 1 away, because it used the first count.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1796,9 +1796,9 @@
    "why_maths": "Adding the first count to itself turns a wild guess into a prediction built on evidence."
   },
   {
-   "problem": "In the Rice Bottle Lift, Thara first predicted the bottle would lift after 5 pokes. It took 30. Next time she predicted 25, and it took 20. Which prediction was closer?",
+   "problem": "In the Rice Bottle Lift, your first prediction was that the bottle would lift after 5 pokes. It took 30. The next time you predicted 25, and it took 20. Which prediction was closer?",
    "answer": "The second one, 25.",
-   "explain": "From 5 to 30 is 25 pokes away. From 20 to 25 is only 5 pokes away. 5 is less than 25, so her second prediction was much closer. It was closer because she used her first result.",
+   "explain": "From 5 to 30 is 25 pokes away. From 20 to 25 is only 5 pokes away. 5 is less than 25, so the second prediction was much closer. It was closer because it used the first result.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e1",
    "context": "This is about the Rice Bottle Lift, where you counted pokes until a pencil could lift a bottle of rice.",
@@ -1917,7 +1917,7 @@
    "quiz"
   ]
  },
- "playtest": "Checked in the head for a city flat: the Rice Bottle Lift needs only a plastic bottle, raw rice and a pencil, and the packed rice grips well enough to lift a small bottle in most homes (keep topping up and tapping; use a narrower bottle if it will not lift). The coin and die activities give chance results, so the notes say what range to expect. The two games were played through with 2 players: each has a clear end and a winner. Guess First needs about ten household things on a tray before you start.",
+ "playtest": "Checked by thinking it through, for a city flat: the Rice Bottle Lift needs only a plastic bottle, raw rice and a pencil, and the packed rice grips well enough to lift a small bottle in most homes (keep topping up and tapping; use a narrower bottle if it will not lift). The coin and die activities give chance results, so the notes say what range to expect. The two games were played through with 2 players: each has a clear end and a winner. Guess First needs about ten household things on a tray before you start.",
  "sources": {
   "founder": [
    "ideas/by_topic/how-we-know.md: the Grade 1 and 2 grid ('New ideas must be tested, not just imagined'; 'Progress = openness + skepticism'), used in the Lucky Blow test and the challenging views.",
@@ -1940,14 +1940,14 @@
   "deep_truth": {
    "truth": "In the Rice Bottle Lift, you and your grown-up made different predictions. The bottle did the same thing in front of both of you. Anyone who repeats the test sees the same result. A question about which colour is best has no test, because each person's answer is true for them.",
    "habit": "We treat every question as the same kind: either you know the answer or you don't. But some questions are answered by a test that everyone sees the same way, and others by what each person likes or feels.",
-   "evidence": "In the Rice Bottle Lift, two people made different predictions, and the bottle did the same thing in front of both of them. In the story, the two tumblers showed the same to Ila and Kiran mama, while 'idli or dosa?' had a different right answer for each person."
+   "evidence": "In the Rice Bottle Lift, two people made different predictions, and the bottle did the same thing in front of both of them. In the story Two Tumblers of Batter, Ila and Kiran mama both saw the same thing in the two tumblers. But 'idli or dosa?' had a different right answer for each person."
   },
   "three": {
    "who_am_i": "You are someone who can wonder, predict and test. Your likes, like your favourite colour, are part of you too.",
    "what_is_life": "Living beings get ready for what is coming. A young sunflower turns to face east during the night, ready for the morning sun.",
    "what_is_this_world": "The world answers our tests in the same way for everyone who tries. That is why people everywhere can share what they find."
   },
-  "thread": "Before the test, the answer was not in anyone's guess. It was in the rice and the pencil, and how hard the grains pressed together. Everyone who watched saw the same result. Your liking for a colour is real too, but it belongs to the person who has it.",
+  "thread": "In the Rice Bottle Lift, nobody's guess decided the answer. What decided it was how hard the rice grains pressed on the pencil. Everyone who watched saw the same result. Your liking for a colour is real too, but it is yours: another person can like a different colour.",
   "teachings": [
    {
     "source": "Cula-Malunkyovada Sutta, Majjhima Nikaya 63",
@@ -1957,7 +1957,7 @@
    {
     "source": "Confucius, Analects 2.17",
     "teaching": "Confucius tells his student: when you know a thing, say that you know it. When you do not know a thing, say that you do not know it. That is real knowing.",
-    "link": "A prediction is said honestly before a test. When the test shows it was wrong, a good finder-out says so, and learns."
+    "link": "A prediction is said honestly before a test. When the test shows it was wrong, an honest person says so, and learns."
    }
   ],
   "science": [
@@ -1977,8 +1977,8 @@
   "practice": {
    "title": "Predict your breath",
    "mins": 3,
-   "say": "Sit still and close your eyes. Before you breathe, predict: will this breath feel warm or cool on your top lip? Now breathe out through your nose and feel. Were you right? Now predict a breath in. Breathe in slowly. Notice what really happened. Do it three times.",
-   "kid": "Close your eyes. Guess: warm or cool? Breathe out. Feel your lip. Now breathe in."
+   "say": "Sit still and close your eyes. Before you breathe, predict: will this breath feel warm or cool on your top lip? Now breathe out through your nose and feel. Were you right? Now predict for a breath in: warm or cool? Breathe in slowly and feel what really happened. Do it three times.",
+   "kid": "Close your eyes. Guess: will your breath feel warm or cool on your top lip? Breathe out and feel. Then guess again and breathe in."
   },
   "ask": [
    "If a test shows the same thing to everyone, is the answer in the world or in us?",
@@ -1988,7 +1988,7 @@
   "art": "A girl and a woman side by side, both looking at a rice bottle hanging from a pencil, with two different thought bubbles above them, one with a tick and one with a cross."
  },
  "how_we_found_out": {
-  "story": "For thousands of years, people around the world saw comets as surprises. Many thought each comet came once and was a sign of bad times. In England, Edmond Halley studied old records. He saw that comets seen in 1531, 1607 and 1682 had moved across the sky along almost the same path, about 76 years apart. In 1705 he wrote that they were one comet going round the Sun, and predicted it would come back around 1758. Halley died in 1742, before he could see if he was right. In France, Nicole-Reine Lepaute worked with Alexis Clairaut and Jérôme Lalande. For months they calculated how the pull of Jupiter and Saturn would slow the comet down. They predicted it would pass closest to the Sun in mid-April 1759. On Christmas night in 1758, a farmer in Germany named Johann Palitzsch spotted it. It passed closest to the Sun on 13 March 1759, about a month from their date. Clairaut later left Lepaute's name out of his book, but Lalande gave her the credit.",
+  "story": "For thousands of years, people around the world saw comets as surprises. Many thought each comet came once and was a sign of bad times. In England, Edmond Halley studied old records. He saw that comets seen in 1531, 1607 and 1682 had moved across the sky along almost the same path, about 76 years apart. In 1705 he wrote that they were one comet going round the Sun, and predicted it would come back around 1758. Halley died in 1742, before he could see if he was right. In France, Nicole-Reine Lepaute worked with Alexis Clairaut and Jérôme Lalande. For months they calculated how the pull of Jupiter and Saturn would slow the comet down. They predicted it would pass closest to the Sun in mid-April 1759. On Christmas night in 1758, a farmer in Germany named Johann Palitzsch spotted it. It passed closest to the Sun on 13 March 1759, about a month before the date they predicted. Clairaut later left Lepaute's name out of his book, but Lalande gave her the credit.",
   "who": "Edmond Halley, an English astronomer, and Nicole-Reine Lepaute, a French astronomer and calculator, with Alexis Clairaut and Jérôme Lalande",
   "when": "1705 (Halley's prediction) to 1759 (the comet's return)",
   "wrong_idea": "Each comet comes once, passes by and never returns, often as a sign of bad times."

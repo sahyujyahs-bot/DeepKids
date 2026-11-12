@@ -68,7 +68,7 @@
   {
    "concept": "What sleep is",
    "status": "defined",
-   "definition": "Sleep is a long, regular rest in which the body lies still and notices much less of the world, and from which it can be woken.",
+   "definition": "Sleep is a long rest that comes every day. The body lies still and notices much less of the world, but it can be woken.",
    "description": "When you sleep, your eyes close and your muscles go soft. You do not hear quiet sounds, like the fan or a car outside. A loud sound or a shake wakes you up quickly. That is how sleep is different from fainting, when a person cannot be woken easily. Every night you sleep for many hours, and then you wake by yourself. Your brain stays busy all night.",
    "examples": [
     "A child in deep sleep may not hear the pressure cooker whistle in the next room, but wakes when shaken and called by name.",
@@ -109,7 +109,7 @@
     },
     {
      "who": "Maiken Nedergaard, Lulu Xie and their team, in 2013",
-     "explanation": "In sleeping mice, fluid washed waste out of the brain much faster than in mice that were awake. So sleep may be a time for the brain to clean itself. In 2024, another team found the opposite in mice, so this idea is now argued about."
+     "explanation": "In sleeping mice, fluid washed waste out of the brain much faster than in mice that were awake. So sleep may be a time for the brain to clean itself. In 2024, another team found the opposite in mice, so scientists now argue about this idea."
     },
     {
      "who": "Scientists who study animals in the wild",
@@ -187,19 +187,19 @@
    "claim": "You can make up for lost sleep by sleeping very late at the weekend.",
    "who": "A common belief",
    "for": "After a short night, a long sleep does make you feel better.",
-   "against": "A long lie-in moves your body clock later, so Sunday night's sleep comes late. Studies find that a lie-in helps a little, but does not undo a whole week of short nights.",
+   "against": "Sleeping very late in the morning moves your body clock later, so Sunday night's sleep comes late. Studies find that sleeping late helps a little, but does not undo a whole week of short nights.",
    "status": "debated",
    "context": "This card is about catching up on sleep."
   }
  ],
  "big_questions": [
   {
-   "q": "In the morning, the picture pairs were still in your head. Who was keeping them while you slept?",
+   "q": "In the Sleep on It test, you learned picture pairs at bedtime. In the morning they were still in your head. Who was keeping them while you slept?",
    "kind": "deep",
-   "hint": "Think about whether you need to be aware of something for your mind to work on it."
+   "hint": "Think about this: can your mind work on something while you are not noticing it?"
   },
   {
-   "q": "An upside-down jellyfish has no brain, but rests like sleep every night. If sleep is not only for brains, what else might it be for?",
+   "q": "An upside-down jellyfish has no brain, but has a rest like sleep every night. If sleep is not only for brains, what else might it be for?",
    "kind": "deep",
    "hint": "Think about the jellyfish's whole body, which senses light, food and touch."
   },
@@ -365,7 +365,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Take turns to turn over two cards. Keep a pair. Turn non-pairs back over in the same place.",
+     "do": "Take turns to turn over two cards. If they are a pair, keep them. If they are not a pair, turn them face down again in the same places.",
      "say": "Turn over two. Is this the bat and the bat's sleep card? If not, try to remember where they are.",
      "kid": "Turn over two cards. Do they match? Remember where they were.",
      "parent": "This game uses memory, just like the picture-pairs test. Say aloud where each card was when you turn it back. That helps everyone remember."
@@ -471,7 +471,7 @@
     "Lay the two sheets on the floor. Mix the cards and stack them face down.",
     "Take turns. Turn over the top card and read the front aloud. A grown-up can read for a child who cannot read it yet.",
     "Guess which sheet the card goes on, and say why.",
-    "Turn the card over and read the back aloud. Put the card on the right sheet, even if you guessed wrong.",
+    "Turn the card over and read the back aloud. Put the card on the correct sheet, even if you guessed wrong.",
     "When all 14 cards are sorted, take the 8 'Helps me sleep' cards. Choose five and put them in the order you would do them at bedtime.",
     "That is your own bedtime routine."
    ],
@@ -496,7 +496,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Take turns to turn a card, guess where it goes and say why. Then read the back aloud and put the card on the right sheet.",
+     "do": "Take turns to turn a card, guess where it goes and say why. Then read the back aloud and put the card on the correct sheet.",
      "say": "Where does this card go? Why do you think so? Now let's read the back.",
      "kid": "Where does this card go? Say why. Then read the back.",
      "parent": "Watching a phone in bed is the card children argue about most. Many feel it relaxes them. Let them say so, then read the back. Studies find that children with screens in bed sleep later and less."
@@ -640,7 +640,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. In the morning, open each day-set card and show it for a slow count of 5. 2. Your child says both names aloud. 3. Go through all 8 cards twice. 4. Then fold each card so only the left picture shows, mix the cards, and ask for the partner of each. 5. Write down how many are right.",
-     "say": "Look at the pair. Say both names. Elephant and umbrella. Now I show you only the elephant. What was with it?",
+     "say": "Look at the pair. Say both names. Elephant and umbrella. Now I show you only the elephant. What was with the elephant?",
      "kid": "Look at each pair. Say both names. Then say the missing partner.",
      "parent": "Do not correct wrong answers in the test, and do not practise the cards during the day. Note the time. Put the envelope away."
     },
@@ -648,7 +648,7 @@
      "id": "s4",
      "mins": 5,
      "wait": "Do this at bedtime, about 11 hours after the morning test.",
-     "do": "1. At bedtime, before lights off, test the day set the same way. 2. Fold each card, mix them, and show only the left picture. 3. Write down how many are right. 4. Do not show the pairs first.",
+     "do": "1. At bedtime, before lights off, test the day set the same way as in the morning. Do not show the pairs first. 2. Fold each card so only the left picture shows, and mix the cards. 3. Ask for the partner of each, and write down how many are right.",
      "say": "Do you remember the day set from this morning? I show the first picture. What was its partner?",
      "kid": "Here is the first picture. What was its partner?",
      "parent": "Test in the same way as the morning: show the first picture and wait for the partner's name."
@@ -699,7 +699,7 @@
    "context": "In this experiment a grown-up yawns again and again while your child watches. Another time, the grown-up smiles instead. Your child counts their own yawns each time.",
    "question": "Will you yawn more while you watch someone yawn, or while you watch someone smile?",
    "predict": "Will you yawn more while watching yawns, or while watching smiles? Why do you think so?",
-   "fair_test": "Each watch lasts 3 minutes. The grown-up does it at the same distance, in the same room and the same light. Only one thing changes: yawning or smiling. We do the smiling watch first, so the yawns do not carry on into it.",
+   "fair_test": "Each watch lasts 3 minutes. The grown-up sits at the same distance, in the same room and the same light. Only one thing changes: yawning or smiling. We do the smiling watch first, so the yawns do not carry on into it.",
    "results_table": [
     "What I watched",
     "My guess",
@@ -919,7 +919,7 @@
      "qty": 1
     }
    ],
-   "record": "A list of every light found, and what you did about it. The count before and after.",
+   "record": "A list of every light found and what you did about it, with the count of lights before and after.",
    "setup": [
     {
      "art": "A dark bedroom seen from the bed, with a glowing dot on a charger, a blinking light on a wifi box and a streetlight glow at the curtain edge.",
@@ -999,7 +999,7 @@
      "do": "1. About 20 minutes before sunset, stand at a window. 2. For 5 minutes, your child makes a mark for every crow flying past. 3. Note which way most of them fly.",
      "say": "Watch for crows. Make a mark for each one. Which way are they going?",
      "kid": "Watch the sky. Mark each crow. Which way are they flying?",
-     "parent": "House crows in many Indian cities gather in big groups in a few tall trees to sleep, called a roost. If you see none, try another evening, or look for other birds settling into trees or ledges. Look at the sky away from the Sun, never straight at it."
+     "parent": "House crows in many Indian cities gather in big groups to sleep in a few tall trees. Such a sleeping place is called a roost. If you see none, try another evening, or look for other birds settling into trees or ledges. Look at the sky away from the Sun, never straight at it."
     },
     {
      "id": "s2",
@@ -1114,8 +1114,8 @@
    "id": "c1",
    "title": "A Sleep Kit for the Overnight Train",
    "mins": 20,
-   "context": "This is a planning challenge. Your family is taking an overnight train from Chennai to Kochi. The coach lights stay on for a while, people talk, and the train rattles. Can you pack a sleep kit from home things, and plan a bedtime routine that works on a train?",
-   "problem": "Plan a bag of home things and a short routine that will help you fall asleep on a busy night train.",
+   "context": "This is a planning challenge. Your family is taking an overnight train from Chennai to Kochi. The coach lights stay on for a while, people talk, and the train rattles. Can you pack a sleep kit using things from home, and plan a bedtime routine that works on a train?",
+   "problem": "Plan a bag of things from home and a short routine that will help you fall asleep on a busy night train.",
    "constraints": [
     "Use only things you already have at home.",
     "The kit must fit in one small cloth bag.",
@@ -1124,7 +1124,7 @@
    "materials": [
     "paper and crayons",
     "a small cloth bag",
-    "home things to test, like a dupatta, a soft cap and a small book"
+    "things from home to test, like a dupatta, a soft cap and a small book"
    ],
    "general": [
     "An eye cover made from a folded dupatta or a soft cloth, to block the light.",
@@ -1236,11 +1236,11 @@
   },
   {
    "t": "mcq",
-   "p": "Meena, a girl in Class 2, learned a new song at bedtime and slept well. What is most likely in the morning?",
+   "p": "You learn a new song at bedtime and sleep well. What is most likely in the morning?",
    "opts": [
-    "She has forgotten all of it",
-    "She remembers it well, maybe better than at bedtime",
-    "She can only sing it backwards"
+    "You have forgotten all of it",
+    "You remember it well, maybe better than at bedtime",
+    "You can only sing it backwards"
    ],
    "a": 1,
    "why": "Sleep helps the brain keep what you learned that day. Many people find a new song or step comes out easier after a night's sleep.",
@@ -1272,7 +1272,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun went to bed very late. What will he most likely be like the next day?",
+   "p": "A child went to bed very late. What will the child most likely be like the next day?",
    "opts": [
     "Cross, slow and forgetful",
     "Full of energy all day",
@@ -1296,7 +1296,7 @@
   },
   {
    "t": "mcq",
-   "p": "An upside-down jellyfish has no brain. At night it pulses more slowly and is slower to respond. Kept awake all night, it is sluggish the next day. What does this suggest?",
+   "p": "Upside-down jellyfish have no brain. At night they pulse more slowly and are slower to respond. After being kept awake all night, they are sleepy the next day. What does this suggest?",
    "opts": [
     "The jellyfish never rests",
     "Something like sleep does not need a brain",
@@ -1320,7 +1320,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya's room has a bright tube light on until she falls asleep. What would help her most?",
+   "p": "A child's room has a bright tube light on until the child falls asleep. What would help the child most?",
    "opts": [
     "Switching to a dim lamp, then lights off",
     "A brighter light",
@@ -1396,7 +1396,7 @@
      "t": "truefalse",
      "p": "If you sleep very late on Sunday morning, it fully makes up for a whole week of short nights.",
      "a": false,
-     "why": "False. A long lie-in helps a little. But it moves your body clock later, and it does not undo a whole week of short nights."
+     "why": "False. Sleeping late helps a little. But it moves your body clock later, and it does not undo a whole week of short nights."
     },
     {
      "t": "mcq",
@@ -1501,7 +1501,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy of 8, sleeps at 9 on school nights and at midnight on Saturday. Why might Sunday night be hard?",
+     "p": "A boy of 8 sleeps at 9 on school nights and at midnight on Saturday. Why might Sunday night be hard for him?",
      "opts": [
       "His body clock moved later, so he is not sleepy at 9 on Sunday",
       "He has too much sleep stored up",
@@ -1550,7 +1550,7 @@
     },
     {
      "t": "mcq",
-     "p": "Priya, a girl in Class 2, did the yawn test. She yawned 4 times while watching yawns and once while watching smiles. What does this show?",
+     "p": "A girl in Class 2 did the Yawn Test. She yawned 4 times while watching yawns and once while watching smiles. What does this show?",
      "opts": [
       "Seeing a yawn made her yawn more",
       "Smiling makes you sleepy",
@@ -1678,7 +1678,7 @@
  ],
  "maths": [
   {
-   "problem": "In the picture-pairs test, Divya knew 7 day pairs straight after learning and 5 at bedtime. She knew 7 night pairs at bedtime and 7 the next morning. How many pairs did she lose from each set?",
+   "problem": "In the picture-pairs test, a girl knew 7 day pairs straight after learning and 5 at bedtime. She knew 7 night pairs at bedtime and 7 the next morning. How many pairs did she lose from each set?",
    "answer": "She lost 2 day pairs and 0 night pairs.",
    "explain": "7 take away 5 is 2, so 2 day pairs were lost. 7 take away 7 is 0, so no night pairs were lost. She kept the night set better.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1687,7 +1687,7 @@
    "why_maths": "Taking away tells us how many pairs were lost, so we can compare the two sets fairly."
   },
   {
-   "problem": "Meena, a girl of 7, goes to bed at 8 in the evening and wakes at 7 in the morning. A child of her age needs 9 to 12 hours. Is she getting enough?",
+   "problem": "A girl of 7 goes to bed at 8 in the evening and wakes at 7 in the morning. A child of her age needs 9 to 12 hours. Is she getting enough?",
    "answer": "Yes. She sleeps 11 hours, which is between 9 and 12.",
    "explain": "From 8 to 12 midnight is 4 hours. From 12 to 7 is 7 hours. 4 and 7 make 11.",
    "math_unit": "math.time.telling-time.L2",
@@ -1696,7 +1696,7 @@
   },
   {
    "problem": "In a family sleep survey, a baby slept 15 hours, a girl of 7 slept 10, her mother slept 7 and her grandmother slept 6. Put them in order from most sleep to least. What pattern do you see?",
-   "answer": "Baby 15, girl of 7 10, mother 7, grandmother 6. The younger the person, the more they slept.",
+   "answer": "Baby 15 hours, girl 10 hours, mother 7 hours, grandmother 6 hours. The younger the person, the more they slept.",
    "explain": "15 is the biggest number, then 10, then 7, then 6. The ages go the other way, from youngest to oldest.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "p1",
@@ -1839,8 +1839,8 @@
  "roots": {
   "context": "We have tested what a night of sleep does to picture pairs, and met humans and other animals that sleep, even a jellyfish with no brain. Now we ask what sleep tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "At bedtime you learned eight picture pairs, then slept and knew nothing of the night. In the morning, most pairs were still there. You did not keep them on purpose, because you were asleep. So part of your mind keeps working while you are not aware of it.",
-   "habit": "We think of 'me' as the part that is awake and noticing, and of sleep as a blank where nothing happens. But keeping what you learned went on all night, while you noticed nothing at all.",
+   "truth": "In the Sleep on It test, you learned eight picture pairs at bedtime. Then you slept, and you noticed nothing all night. In the morning, most pairs were still there. You did not keep them on purpose, because you were asleep. So part of your mind keeps working while you are not aware of it.",
+   "habit": "We think of 'me' as the part that is awake and noticing, and of sleep as a blank where nothing happens. But your mind went on keeping what you learned all night, while you noticed nothing at all.",
    "evidence": "In the picture-pairs test, compare the pairs lost from the night set with the pairs lost from the day set. In studies of children aged 6 to 8, those who slept after learning kept more than those who stayed awake."
   },
   "three": {
@@ -1848,11 +1848,11 @@
    "what_is_life": "Every living being rests and works by turns. Crows, bats, bees, jellyfish and you all sleep and wake each day.",
    "what_is_this_world": "The world takes turns too: day and night, light and dark. Humans and other animals sleep and wake in time with it."
   },
-  "thread": "Sleep looks like stopping, but it is a different kind of working. In the picture-pairs test, your mind kept what you learned while you were not aware of anything. Upside-down jellyfish have no brain, yet they rest and wake on a daily rhythm and get sleepy when kept awake. Their bodies rest at night and are sleepy after a night kept awake. So the work of a mind is not only done by brains, and not only done while we are watching. Some scientists ask whether a rest without a brain should be called sleep.",
+  "thread": "Sleep looks like stopping, but it is a different kind of working. In the picture-pairs test, your mind kept what you learned while you were not aware of anything. Upside-down jellyfish have no brain, yet they rest every night, and they are sleepy after a night kept awake. So the work of a mind is not only done by brains, and not only done while we are watching. Some scientists ask whether a rest without a brain should be called sleep.",
   "teachings": [
    {
     "source": "Yoga Sutras of Patanjali 1.6 and 1.10",
-    "teaching": "Patanjali lists five kinds of activity of the mind: right knowing, mistaken knowing, imagining, sleep and memory. He says sleep is the activity of the mind that rests on the absence of other things.",
+    "teaching": "Patanjali lists five kinds of activity of the mind: right knowing, mistaken knowing, imagining, sleep and memory. He says sleep is the mind's activity when there is nothing else for it to hold.",
     "link": "Patanjali counts sleep as something the mind does, not as the mind being gone. The picture-pairs test shows the mind keeping memories during sleep."
    },
    {
@@ -1882,7 +1882,7 @@
    "kid": "Lie still after lights off. Breathe slowly five times. Feel your arms and legs get heavy. Can you catch the moment you fall asleep?"
   },
   "ask": [
-   "Who kept the picture pairs safe while you were asleep?",
+   "In the picture-pairs test, who kept the pairs safe while you were asleep?",
    "When you are in deep sleep and not dreaming, are you still there?",
    "A jellyfish with no brain still sleeps. What else might be doing a mind's work without a brain?"
   ],
@@ -1910,5 +1910,5 @@
   ]
  },
  "playtest": "We laid out all 16 game cards and the 14 sorting cards and played both games with two players and with four. We then followed each experiment, activity, project and challenge step by step as a family in a flat would. Fixed: the picture-pairs cards now match what the steps say (16 folded cards, one pair on each, with drawing shared between child and parent), the minutes now add up, and the unfair parts of the test are named. The matching game's cat and baby cards no longer fit the same animal, the sorting game now ends with every card placed, and a tie is settled. Repeated questions and exercises were swapped for new ones, names were introduced, family members are no longer assumed, and the writing asks now let a grown-up write for a child of 7.",
- "warm": {"words": ["SLEEP", "NIGHT", "DREAM", "BRAIN", "CLOCK"], "quiz": [["When you sleep, your brain switches off completely.", false, "Scientists find the brain busy all night, and in some parts of sleep nearly as busy as awake."], ["Sleeping after you learn something helps you remember it the next day.", true, "While you sleep, your brain keeps what you learned that day."], ["Looking at a phone in bed helps children fall asleep faster.", false, "Most studies find children who use screens in bed go to sleep later and sleep less."], ["A child of seven needs about nine to twelve hours of sleep each night.", true, "Children aged 6 to 12 need about 9 to 12 hours so the body and brain can do their work."], ["A child of seven needs only about five hours of sleep.", false, "Children aged 6 to 12 need about 9 to 12 hours of sleep each night."], ["Doing the same calm steps in the same order each night helps you fall asleep.", true, "Your body learns that the steps mean sleep is coming, so it gets ready."], ["Sleeping very late on Sunday morning fully makes up for sleep you missed.", false, "A long lie-in moves your body clock later, so sleep comes late again. It helps only a little."], ["Some animals sleep in the day and are awake at night.", true, "Animals sleep in many different ways, places and times, and bats and owls rest by day."], ["Too little sleep has no effect on how well your body fights germs.", false, "Too little sleep makes it harder for the body to fight germs."], ["Nearly every animal that has been studied sleeps or rests in a way like sleep.", true, "Even a jellyfish with no brain rests like sleep, so sleep must matter a lot."]], "odd": [[["Dim lights", "Quiet story", "Warm wash", "Bright phone game"], "Bright phone game", "The first three calm you for sleep; a bright screen keeps you awake and makes you sleep later."], [["Body grows", "Brain keeps what you learned", "Body fights germs", "Eyes see the room clearly"], "Eyes see the room clearly", "Sleep helps growing, remembering and fighting germs, but in sleep you notice much less of what is around you."], [["Owl", "Bat", "Jackal", "Crow"], "Crow", "Owl, bat and jackal are awake at night and rest in the day; a crow is awake in the day."], [["Brush teeth", "Wash face", "Read a calm book", "Run a race"], "Run a race", "The first three are calm steps for a bedtime routine; running makes the body more awake."], [["Dark room", "Quiet house", "Cool air", "Bright morning sun"], "Bright morning sun", "The first three tell your body clock that it is night; bright morning sun tells it to wake up."]]}
+ "warm": {"words": ["SLEEP", "NIGHT", "DREAM", "BRAIN", "CLOCK"], "quiz": [["When you sleep, your brain switches off completely.", false, "Scientists find the brain busy all night. In some parts of sleep it is nearly as busy as when you are awake."], ["Sleeping after you learn something helps you remember it the next day.", true, "While you sleep, your brain keeps what you learned that day."], ["Looking at a phone in bed helps children fall asleep faster.", false, "Most studies find children who use screens in bed go to sleep later and sleep less."], ["A child of seven needs about nine to twelve hours of sleep each night.", true, "Children aged 6 to 12 need about 9 to 12 hours so the body and brain can do their work."], ["A child of seven needs only about five hours of sleep.", false, "Children aged 6 to 12 need about 9 to 12 hours of sleep each night."], ["Doing the same calm steps in the same order each night helps you fall asleep.", true, "Your body learns that the steps mean sleep is coming, so it gets ready."], ["Sleeping very late on Sunday morning fully makes up for sleep you missed.", false, "Sleeping very late moves your body clock later, so sleep comes late again. It helps only a little."], ["Some animals sleep in the day and are awake at night.", true, "Animals sleep in many different ways, places and times. Bats and owls rest by day."], ["Too little sleep has no effect on how well your body fights germs.", false, "Too little sleep makes it harder for the body to fight germs."], ["Nearly every animal that has been studied sleeps or rests in a way like sleep.", true, "Even a jellyfish with no brain has a rest like sleep, so sleep must matter a lot."]], "odd": [[["Dim lights", "Quiet story", "Warm wash", "Bright phone game"], "Bright phone game", "The first three calm you for sleep; a bright screen keeps you awake and makes you sleep later."], [["Body grows", "Brain keeps what you learned", "Body fights germs", "Eyes see the room clearly"], "Eyes see the room clearly", "Sleep helps growing, remembering and fighting germs, but in sleep you notice much less of what is around you."], [["Owl", "Bat", "Jackal", "Crow"], "Crow", "Owl, bat and jackal are awake at night and rest in the day; a crow is awake in the day."], [["Brush teeth", "Wash face", "Read a calm book", "Run a race"], "Run a race", "The first three are calm steps for a bedtime routine; running makes the body more awake."], [["Dark room", "Quiet house", "Cool air", "Bright morning sun"], "Bright morning sun", "The first three tell your body clock that it is night; bright morning sun tells it to wake up."]]}
 }

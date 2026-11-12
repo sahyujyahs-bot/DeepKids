@@ -103,7 +103,7 @@
    "status": "defined",
    "context": "This card is about the fins of a fish, and what each one does.",
    "definition": "Fins are thin, flat parts of a fish's body that push on the water.",
-   "description": "A fish swims by bending her body from side to side. Her tail fin pushes the water back, and the water pushes her forward. The fin on her back stops her from rolling over. The fins on her sides help her steer, turn and stop. Water is thick and heavy to move through, so a fish's body is smooth and narrow at the front. Her slime protects her skin from germs.",
+   "description": "A fish swims by bending her body from side to side. Her tail fin pushes the water back, and the water pushes her forward. The fin on her back stops her from rolling over. The fins on her sides help her steer, turn and stop. Water is thick and heavy to move through, so a fish's body is smooth and narrow at the front. The slime on her skin protects her from germs.",
    "examples": [
     "A rohu has seven fins.",
     "A sardine, called mathi in Kerala, swims fast with her forked tail fin.",
@@ -191,7 +191,7 @@
    "status": "defined",
    "context": "This card is about how living beings come to have their adaptations.",
    "definition": "Adaptations pass from parents to their young, and change slowly over very many generations.",
-   "description": "A camel calf is born with wide feet and long eyelashes, before she has ever walked on sand. She got them from her parents. In every family, some young are a little different from others. In a desert, young camels whose feet spread a little wider might walk more easily and live longer. They have more calves, who are born with wide feet too. Over thousands of generations, the whole family changes to suit their place. One camel cannot grow wider feet by walking on sand, and pass them on.",
+   "description": "A camel calf is born with wide feet and long eyelashes, before she has ever walked on sand. She got them from her parents. In every family, some young are a little different from others. In a desert, young camels whose feet spread a little wider might walk more easily and live longer. They have more calves, who are born with wide feet too. Over thousands of generations, the whole family changes to suit their place. A camel cannot grow wider feet by walking on sand and then pass them on to her calf.",
    "examples": [
     "A puppy has her mother's ears.",
     "A camel calf has long eyelashes at birth.",
@@ -230,7 +230,7 @@
   },
   {
    "text": "Fish, camels and humans all come from the same ancient ancestors.",
-   "evidence": "Fossils show fish with fin bones that slowly became the leg bones of four-legged animals. Your arm has the same pattern of bones."
+   "evidence": "Fossils show fish with fin bones that slowly became the leg bones of four-legged animals. The bones in your arm follow the same pattern."
   }
  ],
  "challenging": [
@@ -269,7 +269,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your bottle fish needed only a little air to float. Why is air so light?",
+   "q": "In the Bottle Fish experiment, the bottle needed only a little air to float. Why is air so light?",
    "kind": "deep",
    "hint": "Squeeze an empty bottle with the cap off. The air rushes out easily. What does that tell you about air?"
   },
@@ -281,7 +281,7 @@
   {
    "q": "Is any place on Earth a bad place to live, or only a bad place for some bodies?",
    "kind": "big",
-   "hint": "Think of the camel in the sea and the fish in the desert. Then think of the mudskipper."
+   "hint": "Think of the camel in the sea and the fish in the desert. Then think of the mudskipper, a fish who hops about on mud."
   },
   {
    "q": "Why does a cactus have spines, but a lotus has wide, soft leaves?",
@@ -436,13 +436,13 @@
        ]
       }
      ],
-     "parent": "The hard cards are the koi fish, the mudskipper, the shark and the pigeon. When one comes up, stop and talk about how that body part suits the place."
+     "parent": "The hard cards are the koi fish, the mudskipper, the shark and the pigeon. When one comes up, stop and talk about how that living being's body suits their place."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Add up the points. Then pick one card and talk about it.",
-     "say": "Which living being surprised you most? What was suited to their place?",
+     "say": "Which living being surprised you most? Which part of them is suited to their place?",
      "kid": "Count your points. Which card surprised you?",
      "check": {
       "t": "mcq",
@@ -473,7 +473,7 @@
    "title": "Air In, Air Out: a moving game",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game. One player calls out a card, and everyone moves like a fish or a camel. It helps the body remember what a swim bladder, fins and a camel's adaptations do.",
+   "context": "This is a moving game. One player calls out a card, and everyone moves like a fish or a camel. Doing the moves helps you remember what a swim bladder, fins and a camel's adaptations do.",
    "printables": [
     {
      "kind": "cards",
@@ -501,7 +501,7 @@
       },
       {
        "f": "Shark!",
-       "b": "A shark has no swim bladder. Keep marching on the spot until the next card, or you sink to a crouch."
+       "b": "A shark has no swim bladder. March on the spot until the next card. If you stop, sink down into a crouch."
       },
       {
        "f": "Hover!",
@@ -596,7 +596,7 @@
    "context": "In this experiment you make a 'fish' from a bottle with coins inside. The coins make it heavier than water, like a real fish's bones and muscles. Then you find out how much air the bottle needs inside to float.",
    "question": "A bottle with coins inside sinks when it is full of water. How many spoons of air does it need before it floats?",
    "predict": "Guess first. Will the bottle need a lot of air to float, about half a bottle, or only a little? Why do you think so?",
-   "fair_test": "We use the same bottle, the same coins and the same bucket each time. The only change is how much air is inside. We test each amount twice, because a bubble stuck on the outside can fool us once.",
+   "fair_test": "We use the same bottle, the same coins and the same bucket each time. The only change is how much air is inside. We test each amount twice, because a bubble stuck on the outside of the bottle can give a wrong result once.",
    "results_table": [
     "Spoons of water poured out (spoons of air in)",
     "Sinks or floats?",
@@ -663,7 +663,7 @@
      "do": "1. Take the bottle out and open it. 2. Pour one tablespoon of water out of the bottle. 3. Close the cap. 4. Put the bottle under the water and let go. 5. Write sinks or floats in the table. 6. Test it once more.",
      "say": "One spoon of water out means one spoon of air in. Now let go. Sink or float?",
      "kid": "Pour out one spoon of water. Close it. Let go. Sink or float?",
-     "parent": "Pour slowly from the bottle into the spoon, over the bucket. Each time, push the bottle to the middle of the water before you let go. Many 500 ml bottles with five coins float after two to four tablespoons. Tilt the bottle slowly to fill the spoon, then stand the bottle straight."
+     "parent": "Pour over the bucket. Tilt the bottle slowly to fill the spoon, then stand the bottle straight again. Each time, push the bottle to the middle of the water before you let go. Many 500 ml bottles with five coins float after two to four tablespoons of water are poured out."
     },
     {
      "id": "s5",
@@ -1131,7 +1131,7 @@
      "do": "Tell your child the answers and compare with the guesses.",
      "say": "Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right? What do you think about the others?",
      "kid": "Check your guesses. How many were right?",
-     "parent": "Aloe vera probably comes from dry lands in Arabia. Most cactus plants come from dry parts of the Americas. The money plant grew wild in a rainforest on an island in the Pacific Ocean, climbing up trees. Tulsi and curry leaves are from India. They are fine to guess about, and a guess with a reason is a good answer.",
+     "parent": "Aloe vera probably comes from dry lands in Arabia. Most cactus plants come from dry parts of the Americas. The money plant grew wild in a rainforest on an island in the Pacific Ocean, climbing up trees. Tulsi and curry leaves are from India. For these two, any guess with a reason is a good answer.",
      "check": {
       "t": "mcq",
       "q": "A plant has very thick, juicy leaves. Where does the plant's family most likely come from?",
@@ -1184,7 +1184,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Put the fish on a plate. Count the fins together: back, tail, two at the sides near the head, two underneath and one near the tail underneath. A rohu or mathi has seven. Other fish can have a different number.",
+     "do": "Put the fish on a plate. Count the fins together: one on the back, one tail fin, two at the sides near the head, two under the belly and one underneath near the tail. A rohu or mathi has seven. Other fish can have a different number.",
      "say": "Let's count every fin. Point to each one as you count.",
      "kid": "Count every fin on the fish."
     },
@@ -1302,8 +1302,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Float the bottle fish, with the amount of air that made the bottle float, in a bucket of water. Push it gently and watch.",
-     "say": "Which way does it float? Push it gently. Do the fins change how it moves?",
+     "do": "Put the bottle fish in a bucket of water, with the same amount of air inside that made it float in the Bottle Fish experiment. Push it gently and watch.",
+     "say": "How does it sit in the water? Push it gently. Do the fins change how it moves?",
      "kid": "Float your fish. Push it gently. Watch the fins.",
      "ask": [
       {
@@ -1345,9 +1345,9 @@
    "title": "Make the Bottle Fish Hover",
    "mins": 20,
    "context": "This is a making challenge. In the Bottle Fish experiment, the bottle either sank to the bottom or floated at the top. A real fish with a swim bladder can hang still in the middle of the water. Can you make your bottle do that?",
-   "problem": "Make your bottle fish hang under the water, not floating on top and not lying on the bottom, or sink very slowly, for a count of ten.",
+   "problem": "Make your bottle fish hang under the water for a count of ten. It must not float on top or lie on the bottom. Sinking very slowly also counts.",
    "constraints": [
-    "Use the same bottle and coins as before.",
+    "Use the same bottle and coins as in the Bottle Fish experiment.",
     "You may add or take away water, coins or small stones.",
     "You may not hold the bottle once you let go."
    ],
@@ -1373,7 +1373,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the challenge. Remind your child how the bottle sank with no air and floated with a little air.",
-     "say": "Our fish sank, then floated. Can you make it hang in the middle of the water, like a real fish?",
+     "say": "In the Bottle Fish experiment, our bottle sank with no air and floated with a little air. Can you make it hang in the middle of the water, like a real fish?",
      "kid": "Can you make the bottle hang in the middle?"
     },
     {
@@ -1484,7 +1484,7 @@
     "Her fins stop working"
    ],
    "a": 1,
-   "why": "Air has plenty of oxygen. But out of water, the thin gill flaps stick together, like the paintbrush hairs, so the fish cannot take enough oxygen in.",
+   "why": "Air has plenty of oxygen. But out of water, the thin gill flaps stick together, the way the brush hairs did in the Paintbrush Gill activity. So the fish cannot take enough oxygen in.",
    "outcome": 1
   },
   {
@@ -1659,7 +1659,7 @@
      "p": "Say out loud, and a grown-up writes it down: why did a little air make your heavy bottle float?",
      "lines": 2,
      "a": "Air is very light. It took the place of some heavy water, so the whole bottle got light enough to float.",
-     "why": "A strong answer says that air is much lighter than water, and uses what happened: no air, it sank, a little air, it floated.",
+     "why": "A strong answer says that air is much lighter than water, and uses what happened: with no air the bottle sank, and with a little air it floated.",
      "how": "e1"
     },
     {
@@ -1776,7 +1776,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Remember the paintbrush in water. Why can't most fish breathe for long in air?",
+     "p": "In the Paintbrush Gill activity, the brush hairs spread apart in water and stuck together in air. Why can't most fish breathe for long in air?",
      "lines": 3,
      "a": "In water, the thin gill flaps spread apart, like the brush hairs. In air, they stick together and dry out, so the fish cannot take in enough oxygen.",
      "why": "A strong answer compares the gills with the brush, and says that air has oxygen but the stuck-together gills cannot take it in.",
@@ -1961,7 +1961,7 @@
      "t": "truefalse",
      "p": "A camel who walks on sand all her life grows wider feet, and her calf is born with these wider feet.",
      "a": false,
-     "why": "False. Things a body gets by using it are not passed to the young. Calves get their feet from their parents' families, and camel feet changed over very many generations."
+     "why": "False. A change a body gets from being used is not passed on to the young. A calf gets her feet from her parents, and camel feet changed slowly over very many generations."
     },
     {
      "t": "draw",
@@ -2113,7 +2113,7 @@
  ],
  "ask_kids": [
   "If you had to live in the sea, which part of your body would you want to change first?",
-  "What helps a crow sitting on a window ledge live in a city?",
+  "Look at a crow on a window ledge. What helps her live in a city?",
   "Why do you think a pigeon can stand on such a thin ledge?",
   "Look at a plant on the way to the shop. Do you think their family comes from a dry place or a wet place? Why?",
   "When you take a big breath in a swimming pool or a bucket bath, do you feel lighter? Why might that be?"
@@ -2154,9 +2154,9 @@
  ],
  "maths": [
   {
-   "problem": "Lakshmi's bottle fish floated after 3 spoons of water were poured out. Her friend Nila's bottle floated after 5 spoons. How many more spoons did Nila's bottle need?",
+   "problem": "One bottle fish floated after 3 spoons of water were poured out. Another bottle fish floated after 5 spoons. How many more spoons did the second bottle need?",
    "answer": "2 more spoons.",
-   "explain": "Count up from 3 to 5: 4, 5. That is 2 more. Nila's bottle may have had more coins, or been a different size.",
+   "explain": "Count up from 3 to 5: 4, 5. That is 2 more. The second bottle may have had more coins, or been a different size.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e1",
    "context": "This is about the Bottle Fish experiment, where you swapped water for air one spoon at a time.",
@@ -2331,21 +2331,21 @@
  "roots": {
   "context": "We have looked at fins, gills, a swim bladder, a camel's hump and a cactus's spines, and made a bottle fish float. Now we ask what being suited to a place tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your bottle fish sank when the bottle was full of coins and water. Swapping just a few spoons of water for air made the same bottle float. Air is much lighter than water, so a little air was enough to keep the heavy bottle up. A fish's small swim bladder keeps her heavy body from sinking in the same way.",
-   "habit": "We think heavy things sink and light things float. But a body of heavy bones and muscles floats in mid-water with only a small bag of gas inside. Whether a body sinks depends on how heavy it is for its size, compared with the water around it.",
+   "truth": "In the Bottle Fish experiment, the bottle sank when it was full of coins and water. Swapping just a few spoons of water for air made the same bottle float. Air is much lighter than water, so a little air was enough to keep the heavy bottle up. A fish's small swim bladder keeps her heavy body from sinking in the same way.",
+   "habit": "We think heavy things sink and light things float. But a fish, with her heavy bones and muscles, can hang in the middle of the water with only a small bag of gas inside. Whether a body sinks depends on how heavy it is for its size, compared with the water around it.",
    "evidence": "In the Bottle Fish test, the full bottle with coins sank every time. After two to four spoons of water were swapped for air, the same bottle with the same coins floated."
   },
   "three": {
    "who_am_i": "You are an animal suited to your place too. You sweat to cool down, and the bones in your arm come from the fin bones of fish long ago.",
    "what_is_life": "Living beings come in shapes that fit their homes: fins for water, wide feet for sand, spines for dry ground.",
-   "what_is_this_world": "Each place on Earth asks different things of a body. The living beings there answer in their own ways."
+   "what_is_this_world": "Each place on Earth has its own problems: water all around, hot sand, or snow. The living beings in each place have bodies that deal with those problems."
   },
   "thread": "Fish, camels, cactus plants and you belong to one very old family of life. Long ago, all of them came from the same early living beings. Over very many generations, that family spread into seas, deserts and snowy mountains, and their bodies changed to suit each place. Your arm and a fish's fin are built on the same pattern of bones. One family of life became many shapes, one for each kind of home.",
   "teachings": [
    {
     "source": "Tirukkural 495, chapter 50 (Knowing the Place), by Thiruvalluvar",
     "teaching": "In deep water, a crocodile beats anyone who fights her. Out of the water, anyone can beat the crocodile.",
-    "link": "A body's strength belongs to a body in their own place. Your bottle fish needed water to float, and a camel's wide feet help her only on sand."
+    "link": "A living being is strong in their own place and weak outside it. Your bottle fish needed water to float, and a camel's wide feet help her only on sand."
    },
    {
     "source": "Zhuangzi, chapter 18 (Supreme Happiness), the seabird of Lu",
@@ -2381,11 +2381,11 @@
   "art": "A child sitting cross-legged with eyes closed, breathing in, with a faint drawing of a fish hanging still in water above her head."
  },
  "how_we_found_out": {
-  "story": "Your arms and legs came, very long ago, from the fins of fish. But why did fins turn into legs? For many years, many scientists, such as Alfred Romer in America, thought it happened because of land. They said some fish lived in ponds that dried up. Fish with strong fins crawled over land to the next pond, and over a long time their fins became legs. In 1987, Jenny Clack, a scientist from Cambridge in England, led a team to the cold mountains of East Greenland. In the rocks they found skeletons of an animal called Acanthostega, who lived about 365 million years ago. Acanthostega had four legs, with eight fingers on each front leg. But they also had gills like a fish, and a flat tail with a fin. Their legs were too weak to walk well on land. So the first legs grew on animals who still lived in water. Legs may have helped them push through shallow, weedy water. Walking on land came later.",
+  "story": "Your arms and legs came, very long ago, from the fins of fish. But why did fins turn into legs? For many years, many scientists, such as Alfred Romer in America, thought fins turned into legs so that fish could move over land. They said some fish lived in ponds that dried up. Fish with strong fins crawled over land to the next pond, and over a long time their fins became legs. In 1987, Jenny Clack, a scientist from Cambridge in England, led a team to the cold mountains of East Greenland. In the rocks they found skeletons of an animal called Acanthostega, who lived about 365 million years ago. Acanthostega had four legs, with eight fingers on each front leg. But they also had gills like a fish, and a flat tail with a fin. Their legs were too weak to walk well on land. So the first legs grew on animals who still lived in water. Legs may have helped them push through shallow, weedy water. Walking on land came later.",
   "who": "Jenny Clack, a scientist who studied fossils at the University of Cambridge, with her team; Alfred Romer, an American scientist who held the older idea",
   "when": "The expedition was in 1987, in East Greenland. The main papers came out in 1990 and 1991.",
   "wrong_idea": "Many scientists thought legs first grew so that fish could crawl over land from one drying pond to the next. Acanthostega had legs, but also gills and a tail fin, and lived in water. So legs first suited life in water."
  },
  "playtest": "Played both games with 2 and with 4 players: the 12 clue cards and 12 move cards are all written out, the moves game now says what to do when the cards run out, and the shark move says how long to keep moving. Followed the bottle fish, wrinkly fingers, paintbrush gill, camel, plant and fish-market steps in a flat: all use common things and the minutes add up, the wrinkly fingers result is marked as honestly undecided, and the fish count now says other fish can differ. Removed a safety line that was not needed, a weak joke and repeated check questions, and fixed family-assumed wording, a name used for two people, and a half-of-33 sum that is too hard for age 7.",
- "warm": {"words": ["FLOAT", "WATER", "CAMEL", "SPINE", "GILLS"], "quiz": [["A camel's hump is a store of fat, which she uses when food is short.", true, "Fat is stored food, so a hungry camel's hump gets smaller."], ["A camel's hump is full of water, so she can walk far in a desert.", false, "The hump is mostly fat, not water. It shrinks and flops when she has no food for long."], ["Every fish dies very quickly once she is out of the water.", false, "Mudskippers hop about on mud and breathe through their skin and the inside of their mouth."], ["A fish breathes by taking oxygen out of the water with her gills.", true, "Gills pull oxygen out of water, so a fish can breathe without coming up for air."], ["A small bag of air inside a fish helps stop her sinking.", true, "Gas is very light, so even a little of it inside the body holds a fish up."], ["Legs first grew on fish so that they could walk out onto land.", false, "An early animal with legs also had gills and a tail fin, and lived in water."], ["Body parts that suit a habitat pass from parents to young over many generations.", true, "Adaptations are passed down in a family and change slowly over very many generations."], ["Fingers wrinkle in water so that we can grip wet things better.", false, "In a test in 2014, wrinkled fingers did not help at all, and scientists still argue."], ["Humans are not animals, so people have no body parts suited to their places.", false, "Humans are animals, and our bodies and habits are suited to our habitats too."], ["A cactus spine is a leaf that has changed shape to suit a dry place.", true, "A cactus has hard, sharp leaves that changed shape, which suits a place with very little rain."]], "odd": [[["Fins", "Gills", "Swim bladder", "Hump"], "Hump", "Fins, gills and the swim bladder help a fish live in water; the hump helps a camel in a hot, dry place."], [["Cactus", "Khejri tree", "Camel", "Lotus"], "Lotus", "Cactus, khejri and camel are suited to dry places with little rain; a lotus has soft leaves for wet places."], [["Bottle with air", "Fish's air bag", "Air-filled ball", "Iron coin"], "Iron coin", "The first three hold air, which is light and keeps them floating; a coin has no air and sinks."], [["Camel's hump", "Fish's fins", "Cactus spines", "A scar on your knee"], "A scar on your knee", "Hump, fins and spines pass from parents to young; a scar comes from one life and is not passed on."], [["Rohu fish", "Catla fish", "Tadpole", "Camel"], "Camel", "Fish and tadpoles breathe in water with gills, but a camel breathes air with lungs."]]}
+ "warm": {"words": ["FLOAT", "WATER", "CAMEL", "SPINE", "GILLS"], "quiz": [["A camel's hump is a store of fat, which she uses when food is short.", true, "Fat is stored food, so a hungry camel's hump gets smaller."], ["A camel's hump is full of water, so she can walk far in a desert.", false, "The hump is mostly fat, not water. It shrinks and flops when she has no food for long."], ["Every fish dies very quickly once she is out of the water.", false, "Mudskippers hop about on mud and breathe through their skin and the inside of their mouth."], ["A fish breathes by taking oxygen out of the water with her gills.", true, "Gills pull oxygen out of water, so a fish can breathe without coming up for air."], ["A small bag of air inside a fish helps stop her sinking.", true, "Gas is very light, so even a little of it inside the body holds a fish up."], ["Legs first grew on fish so that they could walk out onto land.", false, "An early animal with legs also had gills and a tail fin, and lived in water."], ["Body parts that suit a habitat pass from parents to young over many generations.", true, "Adaptations are passed down in a family and change slowly over very many generations."], ["Fingers wrinkle in water so that we can grip wet things better.", false, "In a test in 2014, wrinkled fingers did not help at all, and scientists still argue."], ["Humans are not animals, so people have no body parts suited to their places.", false, "Humans are animals, and our bodies and habits are suited to our habitats too."], ["A cactus spine is a leaf that has changed shape to suit a dry place.", true, "A cactus has hard, sharp leaves that changed shape, which suits a place with very little rain."]], "odd": [[["Fins", "Gills", "Swim bladder", "Hump"], "Hump", "Fins, gills and the swim bladder help a fish live in water; the hump helps a camel in a hot, dry place."], [["Cactus", "Khejri tree", "Camel", "Lotus"], "Lotus", "Cactus, khejri and camel are suited to dry places with little rain; a lotus has soft leaves for wet places."], [["Bottle with air", "Fish's air bag", "Air-filled ball", "Iron coin"], "Iron coin", "The other three hold air, which is light and keeps them floating; a coin has no air and sinks."], [["Camel's hump", "Fish's fins", "Cactus spines", "A scar on your knee"], "A scar on your knee", "Hump, fins and spines pass from parents to young; a scar comes from one life and is not passed on."], [["Rohu fish", "Catla fish", "Tadpole", "Camel"], "Camel", "Fish and tadpoles breathe in water with gills, but a camel breathes air with lungs."]]}
 }
