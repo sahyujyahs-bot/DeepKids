@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "I can show with a test that air takes up space, and explain why a 'full' glass of grain can still take in water.",
-  "I can show that air can be squashed into less space, and explain this with particles that are far apart.",
+  "I can show that air can be squashed into less space, and explain why: the particles of air are far apart.",
   "I can say that air has weight, and give the weight of one litre of air, about 1.2 grams.",
   "I can name the main gases in air: nitrogen, oxygen, a little carbon dioxide and water vapour.",
   "I can explain why we breathe: our cells need oxygen to get energy from food, and we breathe out carbon dioxide.",
@@ -182,7 +182,7 @@
    "concept": "Plants and air",
    "status": "defined",
    "definition": "Plants take carbon dioxide from the air to make food, using light, and give out oxygen. Like us, they also take in oxygen to use their food, day and night.",
-   "description": "A plant cannot walk about to find food, so they make their own. Their leaves take in carbon dioxide from the air through tiny holes called stomata. Inside the leaf, they join it with water, using the energy of light, to make sugar. This is called photosynthesis. Oxygen is left over, and goes out into the air. But every part of a plant is also alive and working, so they also need oxygen, day and night, just as we do. In sunlight, a leaf makes much more oxygen than the plant uses. In the dark, the plant only uses oxygen. Roots need oxygen too. That is why a pot that is always soaked with water can make a plant sick: water fills the air spaces in the soil.",
+   "description": "Plants cannot walk about to find food, so they make their own. Their leaves take in carbon dioxide from the air through tiny holes called stomata. Inside the leaf, they join it with water, using the energy of light, to make sugar. This is called photosynthesis. Oxygen is left over, and goes out into the air. But every part of a plant is also alive and working, so plants also need oxygen, day and night, just as we do. In sunlight, a leaf makes much more oxygen than the plant uses. In the dark, the plant only uses oxygen. Roots need oxygen too. That is why a pot that is always soaked with water can make a plant sick: water fills the air spaces in the soil.",
    "examples": [
     "A money plant on a sunny window gives out oxygen in the day, and uses a little oxygen at night.",
     "Seeds need air to sprout. Seeds kept deep under water for days often fail to sprout.",
@@ -198,7 +198,7 @@
    "definition": "Some plants grow where their roots sit in wet mud with very little air. They have special ways to get air down to their roots.",
    "description": "Mud under a pond or a river has almost no air in it. So a lotus has a problem: their roots and underground stem need oxygen, but they are stuck in airless mud. The lotus solves this with air canals. These are long hollow tubes that run from the leaves, down the stalks, into the stem in the mud. Air travels down them to the parts that need it. That is why a slice of lotus stem, sold in markets as kamal kakdi or thamarai thandu, is full of holes. Mangrove trees grow in salty mud by the sea. Many of them send up breathing roots, like pencils sticking out of the mud. These roots take in air at low tide and pass it down to the roots below.",
    "examples": [
-    "A slice of lotus stem has a ring of big holes, like the spokes of a wheel. They are its air canals.",
+    "A slice of lotus stem has a ring of big holes, set out like the spokes of a wheel. They are its air canals.",
     "At Pichavaram, near Chidambaram in Tamil Nadu, thousands of mangrove breathing roots stick up out of the mud.",
     "Rice plants in a flooded field also have air spaces in their stems that carry air to their roots."
    ],
@@ -289,7 +289,7 @@
  ],
  "big_questions": [
   {
-   "q": "The glass of chana looked full, but it was partly air. Is anything really full?",
+   "q": "A glass filled to the top with chana looks full, but the gaps between the grains hold air. Is anything really full?",
    "kind": "deep",
    "hint": "Even a stone has tiny spaces in it. And inside every particle, there is a lot of empty space."
   },
@@ -316,7 +316,7 @@
   {
    "q": "Long ago, many people believed that an 'empty' pot held nothing. What ideas do people hold today that might turn out just as wrong?",
    "kind": "big",
-   "hint": "What did people believe that was obvious, but turned out wrong when someone tested it?"
+   "hint": "Think of something that seemed obvious to everyone, until someone tested it."
   }
  ],
  "story": {
@@ -547,7 +547,7 @@
       },
       {
        "f": "Why does a lotus need air canals?",
-       "b": "Its roots and stem are in airless mud. The canals carry air down from the leaves."
+       "b": "The lotus's roots and stem are in airless mud. The canals carry air down from the leaves."
       },
       {
        "f": "Why can air be squashed but water can't?",
@@ -645,8 +645,8 @@
    "days": 1,
    "context": "This is the main investigation of the unit. You fill a glass to the top with grains, then find out how much water still fits in. The water takes the place of the air between the grains.",
    "question": "A glass filled to the top with chana looks full. How much water can still go in? Do big grains leave more room for air than small ones?",
-   "predict": "Look at the three grains: big chana, middle-sized moong and tiny mustard seeds. Which one do you think will take in the most water before it is full? Why do you think so?",
-   "fair_test": "Use the same glass for every grain, filled to the same tape line. Tap each glass the same way so the grains settle. Fill glass B with water to the same line each time. Pour slowly and stop when the water just reaches the tape line on glass A. Only the kind of grain changes.",
+   "predict": "Look at the three grains: big chana, middle-sized moong and tiny mustard seeds. You will fill a glass with each one in turn and pour in water. Which glass do you think will take in the most water? Why do you think so?",
+   "fair_test": "Use the same two glasses every time: glass A for the grain and glass B for the water. Fill glass A with grain to its tape line, and tap it the same way each time so the grains settle. Fill glass B with water to its tape line each time. Pour slowly from glass B and stop when the water just reaches the tape line on glass A. Only the kind of grain changes.",
    "results_table": [
     "Grain",
     "My guess: lots of water, some, or a little?",
@@ -758,7 +758,7 @@
      "mins": 6,
      "do": "Look at the table together. Ask your child to say, or write, what they think, what they saw, and why.",
      "say": "What do you think now? What did you see? Why do you think it happened? Was the glass of chana really full?",
-     "kid": "Say what you think, what you saw and why. Was the glass really full?",
+     "kid": "Was the glass of chana really full? Say what you saw, and why you think it happened.",
      "ask": [
       {
        "q": "Why did the water go into a glass that was already full of chana?",
@@ -856,7 +856,7 @@
        "The syringe has a spring inside"
       ],
       "a": 0,
-      "why": "When air is squashed, its particles are pushed closer together. They push back on the plunger, so it springs out when you let go. A syringe has no spring inside. That is why a squashed football bounces."
+      "why": "When air is squashed, its particles are pushed closer together. They push back on the plunger, so it springs out when you let go. A syringe has no spring inside. A football bounces for the same reason: the squashed air inside pushes back."
      }
     },
     {
@@ -870,7 +870,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Look at the table together. Ask your child to say what they think, what they saw, and why. Then show the drawing of particles in the explanation card.",
+     "do": "Look at the table together. Ask your child to say what they saw, and why they think it happened. Then look together at the drawing of particles in the card 'Air can be squashed'.",
      "say": "Air squashed, and water hardly did. What does that tell you about the tiny particles inside air and inside water?",
      "kid": "Air squashed. Water didn't. What does that tell you about their tiny particles?",
      "ask": [
@@ -974,7 +974,7 @@
        "The hole let more air into the balloon"
       ],
       "a": 0,
-      "why": "The bottle was full of air. Air takes up space, so the balloon could not grow until that air had a way out. Picking 'more air into the balloon' mixes up the two airs: the hole is in the bottle, not the balloon."
+      "why": "The bottle was full of air. Air takes up space, so the balloon could not grow until that air had a way out. Picking 'more air into the balloon' is a mix-up: the hole is in the bottle, not in the balloon."
      },
      "think": "The bottle looked empty. Was it?"
     }
@@ -1033,7 +1033,7 @@
      "do": "1. Now cover the top of the empty straw first. 2. Push the straw down into the water. 3. Look at how far the water goes up inside. 4. Lift the finger, still under water.",
      "say": "This time, cover the top first, then push it in. Does the water go up inside the straw? Now let go.",
      "kid": "Cover the top first. Then push the straw in. Does water go in? Now let go.",
-     "parent": "With the top covered, only a little water gets into the straw, because the air inside is in the way. When the finger lifts, the air rushes out and the water jumps up to the level of the glass."
+     "parent": "With the top covered, only a little water gets into the straw, because the air inside is in the way. When the finger lifts, the air rushes out and the water jumps up inside the straw to the level of the water in the glass."
     },
     {
      "id": "s3",
@@ -1050,7 +1050,7 @@
        "Your finger is too cold"
       ],
       "a": 1,
-      "why": "The straw is full of air. With the top covered, the air cannot get out, so the water cannot take its place. Water can go up a straw, as you saw when you let go."
+      "why": "The straw is full of air. With the top covered, the air cannot get out, so the water cannot take its place. Water can go up a straw: it rose inside as soon as you lifted your finger."
      }
     }
    ],
@@ -1093,7 +1093,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch it where the end meets. 4. Measure the string against a ruler.",
+     "do": "1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch the string at the point where its end meets the rest of it. 4. Measure that length of string against a ruler.",
      "say": "Breathe all the way out. I'll measure round your chest. Now guess: how much bigger will it be when you breathe in deeply?",
      "kid": "Breathe all the way out. Your grown-up measures round your chest. Guess: how much bigger after a deep breath?",
      "parent": "Keep the string level and snug, not tight. Write the number down."
@@ -1251,7 +1251,7 @@
      "mins": 4,
      "do": "1. A grown-up cuts a thin slice off one end of the lotus stem. 2. Hold the slice up to the light. 3. Count the big holes.",
      "say": "A lotus grows with its roots and this stem deep in the mud at the bottom of a pond. What is the problem with living in mud?",
-     "kid": "Look at the slice. Count the holes. Why might a mud plant need holes?",
+     "kid": "Look at the slice. Count the holes. Why might a plant that grows in mud need holes?",
      "adult": true,
      "parent": "Most slices show a ring of large holes round a middle one. Mud under a pond has almost no air. The lotus's stem and roots still need oxygen to live."
     },
@@ -1348,7 +1348,7 @@
        "Soil makes air"
       ],
       "a": 0,
-      "why": "Soil is made of grains with tiny gaps between them, like the chana in the glass. The gaps hold air. Water pushes the air out as it soaks in. Roots use the oxygen in this air."
+      "why": "Soil is made of grains with tiny gaps between them, just as a glass of chana has gaps between the grains. The gaps hold air. Water pushes the air out as it soaks in. Roots use the oxygen in this air."
      }
     }
    ],
@@ -1416,7 +1416,7 @@
      "say": "Each cubic metre is a box one metre on every side. The air in one of those boxes weighs about 1.2 kilograms. How heavy is all the air in our room?",
      "kid": "Multiply length by width by height. Then multiply by 1.2. That is the air's weight in kilograms!",
      "wait": "Day 2: work out the weight of the air.",
-     "parent": "For a room 3 by 3 by 3 metres: 27 cubic metres, and 27 times 1.2 is about 32 kilograms, about as heavy as a child of 9 or 10. Rounding 1.2 to 1 gives 27 kilograms, which is close enough to compare. Lift the 5 bottles to feel 5 kilograms. The air in the room weighs more than six times that.",
+     "parent": "For a room 3 by 3 by 3 metres: 27 cubic metres, and 27 times 1.2 is about 32 kilograms, about as heavy as a child of 9 or 10. Rounding 1.2 to 1 gives 27 kilograms, which is close enough to compare. Lift the 5 one-litre bottles of water together to feel 5 kilograms. The air in the room weighs more than six times that.",
      "check": {
       "t": "mcq",
       "q": "Why don't we feel the weight of all the air in a room?",
@@ -1541,7 +1541,7 @@
     "Swirl the bottle round fast as you turn it over. The water spins and leaves a hole in the middle, so air can come in while the water pours out round it.",
     "Push a bent straw up into the bottle so air can go in through the straw."
    ],
-   "your_turn": "Now invent your own way to empty the bottle faster. Time it and see if it beats the swirl.",
+   "your_turn": "Now invent your own way to empty the bottle faster. Time it and see if it is faster than swirling the bottle.",
    "flow": [
     {
      "id": "s1",
@@ -1619,24 +1619,24 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Why did water go into a glass that was already full of dry chana?",
+   "p": "A glass is filled to the top with dry chana. Water poured in still goes in. Why?",
    "opts": [
     "The chana shrank",
     "The gaps between the grains were full of air, and the water pushed it out",
     "The glass got bigger"
    ],
    "a": 1,
-   "why": "A full glass of grain is part grain and part air. Water can take the place of the air but not of the grains. Bubbles of air came up as it did.",
+   "why": "A full glass of grain is part grain and part air. Water can take the place of the air but not of the grains. The air comes up as bubbles.",
    "outcome": 0,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "Anu, a girl in Class 3, tries to blow up a balloon inside a closed, empty bottle. It hardly grows. Why?",
+   "p": "You push a balloon into an empty bottle, stretch its mouth over the bottle's neck, and try to blow it up. It hardly grows. Why?",
    "opts": [
     "The balloon is broken",
     "The bottle is full of air, and the air has nowhere to go",
-    "Her breath is too weak"
+    "Your breath is too weak"
    ],
    "a": 1,
    "why": "Air takes up space. The air already in the bottle stops the balloon growing. With a hole in the bottle, it blows up easily.",
@@ -1737,7 +1737,7 @@
     "That air is made of fire"
    ],
    "a": 0,
-   "why": "A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A covered water thief jar keeps water out for the same reason.",
+   "why": "A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A water thief is a jar with small holes in the bottom. When its top is covered, the air inside keeps water out for the same reason.",
    "outcome": 6,
    "how": "a2"
   }
@@ -1793,7 +1793,7 @@
      "t": "draw",
      "p": "Draw a glass full of chana. Use dots to show where the air is.",
      "a": "A glass with round chana grains, and dots in all the gaps between the grains, right down to the bottom.",
-     "why": "A strong drawing puts air in every gap, not only at the top, because the bubbles came up from all through the glass.",
+     "why": "A strong drawing puts air in every gap, not only at the top. In the Full Glass test, bubbles came up from all through the glass.",
      "art": "An empty outline of a glass on a page.",
      "how": "e1"
     },
@@ -1836,10 +1836,10 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi, a girl in Class 4, waters her tulsi plant every hour, so the soil is always soaking wet. After a week, the plant looks sick. Use what you know about air to explain why.",
+     "p": "A tulsi plant is watered every hour, so the soil is always soaking wet. After a week, the plant looks sick. Use what you know about air to explain why.",
      "lines": 3,
      "a": "Roots need oxygen from the air in the soil. When the soil is always soaked, water fills all the air spaces, so the roots cannot get oxygen.",
-     "why": "A strong answer says roots need oxygen and that water pushes the air out of the soil, as it did from the chana."
+     "why": "A strong answer says roots need oxygen and that water pushes the air out of the soil, just as water pushed the air out of the glass of chana in the Full Glass test."
     },
     {
      "t": "order",
@@ -1891,7 +1891,7 @@
        "says": "Maybe both. Most of the bubbles came from the gaps, but a few could come from inside the grains."
       }
      ],
-     "ask": "Which idea do you agree with most? Give a reason from your own test. Then say what you would do to check another person's idea.",
+     "ask": "Which idea do you agree with most? Give a reason from your own Full Glass test. Then say what you would do to check another person's idea.",
      "lines": 5,
      "a": "A strong answer picks a side with evidence: most bubbles came at once, from between the grains, as the water reached them. To check Rohan's idea, put one chana grain in water and watch whether it gives bubbles by itself.",
      "why": "This is a real question. Dry grains do have a little air in tiny cracks, so Amma's view is fair. The test with a single grain can show how much comes from the grain itself.",
@@ -1899,7 +1899,7 @@
     },
     {
      "t": "mcq",
-     "p": "Raj, a boy in Class 3, puts a dry tissue at the bottom of a steel tumbler. He turns the tumbler upside down and pushes it straight down into a bucket of water. What happens to the tissue?",
+     "p": "A dry tissue is pressed into the bottom of a steel tumbler. The tumbler is turned upside down and pushed straight down into a bucket of water. What happens to the tissue?",
      "opts": [
       "It stays dry or nearly dry",
       "It gets soaked at once",
@@ -1973,7 +1973,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Full Glass test, Nila, a girl in Class 3, used big chana and tiny mustard seeds. Both glasses took in about the same amount of water. Why?",
+     "p": "In the Full Glass test, a glass of big chana and a glass of tiny mustard seeds took in about the same amount of water. Why?",
      "opts": [
       "Mustard seeds soak up water faster",
       "Big grains leave big gaps but fewer of them. Small seeds leave small gaps but many more of them",
@@ -2019,7 +2019,7 @@
     },
     {
      "t": "write",
-     "p": "A lotus has their roots stuck in mud at the bottom of a pond. What problem does this give the lotus, and how do the holes in the stem help?",
+     "p": "The roots of a lotus are stuck in mud at the bottom of a pond. What problem does this give the lotus, and how do the holes in the stem help?",
      "lines": 4,
      "a": "Mud under water has almost no air, so the roots and stem can't get oxygen there. The holes are air canals that carry air down from the leaves to the parts in the mud.",
      "why": "A strong answer says the problem first, no oxygen in mud, then how the canals solve it.",
@@ -2049,10 +2049,10 @@
     },
     {
      "t": "write",
-     "p": "Anjali and Shanthi are two girls in Class 4. Anjali says, \"A football full of air is heavier than a flat one.\" Shanthi says, \"No, air has no weight.\" How could they find out who is right?",
+     "p": "One person says, \"A football full of air is heavier than a flat one.\" Another says, \"No, air has no weight.\" How could they find out who is right?",
      "lines": 4,
      "a": "Weigh the flat football on a kitchen scale. Pump it up hard and weigh it again. If it is heavier, the extra air has weight. The difference is only a few grams, so the scale must show grams.",
-     "why": "A strong answer describes a fair test with one change, and says what result would show each girl right."
+     "why": "A strong answer describes a fair test with one change, and says what result would show each person right."
     },
     {
      "t": "match",
@@ -2163,14 +2163,14 @@
        "says": "The pot is full of air. Squeeze an empty-looking wine bag, and it pushes back."
       }
      ],
-     "ask": "Who do you agree with? Use your own tests to support your answer. Then say why the first idea seemed sensible to people.",
+     "ask": "Who do you agree with? Use the tests you did in this unit to support your answer. Then say why the first idea seemed sensible to people.",
      "lines": 5,
      "a": "A strong answer agrees with Anaxagoras, with evidence: the balloon in the bottle, the straw water thief and the bubbles from the chana. It also says the first idea made sense because air can't be seen or smelt, and usually feels like nothing.",
      "why": "A strong answer gives evidence from the child's own tests, and is fair to the old idea by saying why people believed it."
     },
     {
      "t": "write",
-     "p": "Long ago, a Greek engineer wrote that air is made of tiny pieces with empty space between them. You push the plunger of a closed syringe full of air, then of one full of water. What would you see, and how does it support his idea?",
+     "p": "Hero of Alexandria, an engineer who lived about 2,000 years ago, wrote that air is made of tiny pieces with empty space between them. Block the tip of a syringe full of air and push the plunger. Then do the same with a syringe full of water. What would you see, and how does it support Hero's idea?",
      "lines": 4,
      "a": "The air can be squashed into less space, but the water cannot. If air is tiny pieces with gaps between them, pushing moves the pieces closer and closes the gaps.",
      "why": "A strong answer says the air squashes and the water does not, and explains how gaps between particles let air be squashed.",
@@ -2184,9 +2184,9 @@
     },
     {
      "t": "write",
-     "p": "Sana, a girl in Class 4, poured water into a glass of sand and a glass of chana. The sand took in much less water than she expected, and some sand stayed dry on top. Suggest two reasons.",
+     "p": "Water is poured into a glass of sand and a glass of chana. The sand takes in much less water than expected, and some sand stays dry on top. Suggest two reasons.",
      "lines": 4,
-     "a": "Wet sand clumps and can trap air, so the water cannot reach all the gaps. She might have poured too fast, so the water sat on top. Fine grains of different sizes also pack tighter, with small grains filling the gaps between big ones.",
+     "a": "Wet sand clumps and can trap air, so the water cannot reach all the gaps. The water might have been poured too fast, so it sat on top. Fine grains of different sizes also pack tighter, with small grains filling the gaps between big ones.",
      "why": "A strong answer thinks about how the test was done, not only about the sand. Spotting a weak test is part of being a scientist."
     },
     {
@@ -2254,9 +2254,9 @@
     },
     {
      "t": "mcq",
-     "p": "In the Full Glass test, Ishita, a girl in Class 4, forgot to fill her second glass of water to the same line each time. Why does that matter?",
+     "p": "In the Full Glass test, glass B is the glass of water you pour from. Suppose you forget to fill glass B to the same line each time. Why does that matter?",
      "opts": [
-      "She can't compare how far the water dropped, because each try started at a different level",
+      "You can't compare how far the water dropped, because each try started at a different level",
       "It doesn't matter at all",
       "The grains will float"
      ],
@@ -2288,10 +2288,10 @@
     },
     {
      "t": "write",
-     "p": "Raji, a girl in Class 4, fills a plastic bottle with water and makes a tiny hole in its bottom with a pin. With the cap screwed on tight, hardly any water comes out of the hole. When she opens the cap, water pours out. Explain why.",
+     "p": "A plastic bottle is filled with water, and a tiny hole is made in its bottom with a pin. With the cap screwed on tight, hardly any water comes out of the hole. When the cap is opened, water pours out. Explain why.",
      "lines": 4,
      "a": "With the cap on, no air can get into the bottle to take the place of the water, so the water stays in. With the cap off, air comes in at the top, and the water can run out of the hole.",
-     "why": "A strong answer says that water can only leave if air takes its place, as in the balloon in the bottle and the glugging bottle."
+     "why": "A strong answer says that water can only leave if air takes its place. The same thing happened in the Bottle Race, where the bottle glugged as air went in, and in The Balloon That Won't Blow Up, where the balloon shrank only when air could get back into the bottle."
     }
    ]
   }
@@ -2412,7 +2412,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Full Glass test, Meenakshi used a 200 ml glass. Water poured in: chana 80 ml, moong 76 ml, mustard seeds 74 ml. Which grain left the most air? How much more than the least?",
+   "problem": "In a Full Glass test with a 200 ml glass, this much water went in: chana 80 ml, moong 76 ml, mustard seeds 74 ml. Which grain left the most air? How much more than the grain that left the least?",
    "answer": "Chana left the most air. That is 6 ml more than the mustard seeds.",
    "explain": "The biggest number is 80 ml, for chana. The smallest is 74 ml, for mustard seeds. 80 - 74 = 6 ml. 6 ml is small compared with 200 ml, so the three grains left almost the same amount of air.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2421,7 +2421,7 @@
    "how": "e1",
    "chart": {
     "type": "bar",
-    "title": "Meenakshi's Full Glass test",
+    "title": "Results of a Full Glass test",
     "x": "Grain",
     "y": "Water that went in (ml)",
     "data": [
@@ -2453,7 +2453,7 @@
    "how": "e1"
   },
   {
-   "problem": "One cubic metre of air weighs about 1.2 kilograms. Arjun, a boy in Class 4, has a bedroom that is 4 metres long, 3 metres wide and 3 metres high. About how much does the air in it weigh?",
+   "problem": "One cubic metre of air weighs about 1.2 kilograms. A bedroom is 4 metres long, 3 metres wide and 3 metres high. About how much does the air in it weigh?",
    "answer": "About 43 kilograms.",
    "explain": "The volume is 4 × 3 × 3 = 36 cubic metres. 36 × 1.2 = 36 + 7.2 = 43.2. So the air weighs about 43 kilograms, more than a 10-year-old child.",
    "math_unit": "math.multiplication.multiplication-facts.L3",
@@ -2462,9 +2462,9 @@
    "how": "p1"
   },
   {
-   "problem": "Divya, a girl in Class 3, pushed a 10 ml syringe of air in to the 5 ml mark. Her mother pushed it to the 4 ml mark. Divya's grandmother pushed a 10 ml syringe of water and it moved less than half a ml. What pattern do you see, and what does it tell you?",
+   "problem": "With the tip blocked, a child pushed a 10 ml syringe of air in to the 5 ml mark. A grown-up, pushing harder, got it to the 4 ml mark. Then a grown-up pushed a 10 ml syringe of water, and it moved less than half a ml. What pattern do you see, and what does it tell you?",
    "answer": "The harder the push, the more the air squashed, but the water hardly squashed at all.",
-   "explain": "Divya halved the space of the air, from 10 to 5. Her mother, pushing harder, got it to 4. But even a strong push hardly moved the water. So air squashes more the harder you push, and water hardly squashes at all.",
+   "explain": "The child halved the space of the air, from 10 to 5. The grown-up, pushing harder, got it to 4. But even a strong push hardly moved the water. So air squashes more the harder you push, and water hardly squashes at all.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
    "context": "This is about the syringe experiment, where you block the tip and push the plunger. Here are some made-up results.",
    "why_maths": "Comparing the numbers side by side shows a pattern you can explain with particles.",
@@ -2672,21 +2672,21 @@
  "roots": {
   "context": "We have found out that air fills every gap, has weight, and keeps us and plants alive. Now we ask what air tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your glass looked full of chana, yet over a third of a glass of water still went in. Tiny mustard seeds left about the same share of air as big chana. Smaller seeds leave smaller gaps, but many more of them. So a glass of round grains is about one-third air, whether the grains are big or small.",
-   "habit": "We call a glass of grain 'full' when we can see no room left, and we expect big grains to leave much more empty space than small ones. Both habits come from what our eyes notice. The test shows the gaps are full of air, and that the share of air hardly depends on grain size.",
+   "truth": "In the Full Glass test, a full-looking glass of chana still took over a third of a glass of water. Tiny mustard seeds left about the same share of air as big chana. Smaller seeds leave smaller gaps, but many more of them. So a glass of round grains is about one-third air, whether the grains are big or small.",
+   "habit": "We call a glass of grain 'full' when we can see no room left, and we expect big grains to leave much more empty space than small ones. Both habits come from what our eyes notice. The Full Glass test shows that the gaps are full of air, and that the share of air hardly depends on the size of the grains.",
    "evidence": "In the Full Glass test, a glass filled to the line with chana, moong or mustard seeds still took in a lot of water, and bubbles of air came out as it did. The amounts for the three grains came out close, though the chana are several times bigger than the mustard seeds."
   },
   "three": {
-   "who_am_i": "Every few seconds you take air into your body, and some of its oxygen becomes part of the way you live. You are not sealed off from the air. You are always sharing it.",
+   "who_am_i": "Every few seconds you take air into your body, and your cells use some of its oxygen to get energy from food. You are not sealed off from the air. You share it with everyone and everything that breathes.",
    "what_is_life": "Plants and tiny sea beings put oxygen into the air, and every breathing being uses it. Life made the air we breathe.",
-   "what_is_this_world": "We live at the bottom of a deep layer of air, many kilometres high. It weighs about a kilogram on every square centimetre of the ground."
+   "what_is_this_world": "We live at the bottom of a deep layer of air, many kilometres high. The air above each square centimetre of the ground weighs about a kilogram."
   },
-  "thread": "Air looks like nothing, and yet it fills every gap in a glass of grain, every bottle and every pair of lungs. It keeps moving and mixing round the whole Earth. The oxygen in it was given out by plants and tiny sea beings. You breathe it in, and your breath goes out to be breathed by others, by crows, by the money plant on the window. One invisible air flows through countless separate lives and joins them.",
+  "thread": "Air looks like nothing, yet it fills every gap in a glass of grain, every bottle and every pair of lungs. It keeps moving and mixing round the whole Earth. The oxygen in it was given out by plants and tiny sea beings. You breathe it in, and the air you breathe out is breathed in by other people, by crows, and by the money plant on the window. So all living things share the same air.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
     "teaching": "Clay is shaped into a pot. But it is the empty space inside that makes the pot useful.",
-    "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way, just as the bubbles in the chana showed."
+    "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way. In the Full Glass test, we saw that air come out as bubbles."
    },
    {
     "source": "Chandogya Upanishad 4.3, the teaching of Raikva",

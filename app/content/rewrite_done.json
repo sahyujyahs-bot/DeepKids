@@ -1,0 +1,10 @@
+{
+ "note": "Units whose text has been read line by line and rewritten in plain words. Do not run them again.",
+ "done": [
+  "sci.air.air-around-us.L3",
+  "sci.animal-behaviour.migration.L3",
+  "sci.evolution.story-of-life.L3",
+  "sci.forces.stretching-springs.L3",
+  "sci.what-is-life.cells.L3"
+ ]
+}
