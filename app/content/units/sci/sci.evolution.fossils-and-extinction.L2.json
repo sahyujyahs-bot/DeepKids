@@ -92,7 +92,7 @@
    "definition": "Hard parts of a body, like bones, teeth, shells and wood, become fossils far more often than soft parts.",
    "description": "Soft parts rot away quickly or get eaten, by animals and by tiny living beings called bacteria. Hard parts last longer, so mud has time to cover them. In your Print Test, the key and the coin left sharp prints, and the banana and the tomato left blurry dents. So most fossils are bones, teeth and shells. Worms and jellyfish have lived in the sea for hundreds of millions of years, but we have found very few of their fossils.",
    "examples": [
-    "A shark's skeleton is made of soft cartilage, but its teeth are hard. Fossil shark teeth are common, and whole fossil sharks are rare.",
+    "A shark's skeleton is made of soft cartilage, but the teeth are hard. Fossil shark teeth are common, and whole fossil sharks are rare.",
     "An ammonite was a sea animal with a soft body and a coiled shell. We find the shells, and almost never the soft body.",
     "Very rarely, soft bodies are kept too, when they are buried fast in very fine mud. Feathers and skin have been found this way."
    ],
@@ -104,7 +104,7 @@
    "concept": "Deeper layers are older",
    "status": "defined",
    "definition": "When layers pile up one on top of another, the layer at the bottom was laid down first, so it is the oldest.",
-   "description": "Mud and sand settle at the bottom of rivers, lakes and seas. Each new layer lies on top of the last one. Over millions of years the layers turn into rock. So the deeper you dig, the further back in time you go, and a deep fossil is usually older than one above it. Your newspaper pile worked the same way: the oldest paper was at the bottom. Sometimes the Earth folds or tips the layers, and then scientists look for other clues.",
+   "description": "Mud and sand settle at the bottom of rivers, lakes and seas. Each new layer lies on top of the last one. Over millions of years the layers turn into rock. So the deeper you dig, the further back in time you go, and a deep fossil is usually older than one above it. The Newspaper Pile activity works the same way: the oldest paper is at the bottom. Sometimes the Earth folds or tips the layers, and then scientists look for other clues.",
    "examples": [
     "A pile of old newspapers waiting for the raddi collector has the oldest paper at the bottom.",
     "The striped sides of a quarry show many layers, with the oldest at the bottom.",
@@ -141,7 +141,7 @@
    "perspectives": [
     {
      "who": "Most scientists",
-     "explanation": "The asteroid was the main cause. The iridium layer and the giant crater both date to the very time the dinosaurs vanish."
+     "explanation": "The asteroid was the main cause. The iridium layer and the giant crater are both from the very time the dinosaurs vanished."
     },
     {
      "who": "Gerta Keller, a scientist at Princeton University, and others",
@@ -192,7 +192,7 @@
    "claim": "Dinosaurs were slow, cold, tail-dragging lizards.",
    "who": "Many scientists, about 100 years ago",
    "for": "Dinosaurs are reptiles, and most lizards today are slow when they are cold.",
-   "against": "Most dinosaur trackways have no mark of a tail dragging behind. Many dinosaurs walked tall and fast, and some had feathers to keep warm.",
+   "against": "Most dinosaur trackways, which are lines of footprints in rock, have no mark of a tail dragging behind. Many dinosaurs walked tall and fast, and some had feathers to keep warm.",
    "status": "rejected",
    "context": "This card is about an old idea of how dinosaurs moved."
   },
@@ -348,7 +348,7 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and put them in a pile, words up.",
+    "Shuffle the cards and put them in a pile, with the answer side face down.",
     "On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.",
     "Say what the fossil tells us about life long ago, and why.",
     "The player next to you turns the card over and reads the back. If your idea matches, you keep the card.",
@@ -381,14 +381,14 @@
      "kid": "Read the card. Say what it tells us. Say why. Turn it over.",
      "ask": [
       {
-       "q": "Why can't we say nothing lived where a rock has no fossils?",
+       "q": "A rock has no fossils in it. Why can't we be sure that nothing lived there?",
        "good": [
         "Soft bodies rot away.",
         "Maybe they were soft, like worms."
        ]
       }
      ],
-     "parent": "Accept any answer that fits the clue, even if the words differ from the back. The last card, the rock with no fossils, is the hardest. Link it to the Print Test if your child has done it. If you play with one child, you take turns too, and your child reads your backs."
+     "parent": "Accept any answer that fits the clue, even if the words differ from the back. The last card, the rock with no fossils, is the hardest. Link it to the Print Test if your child has done it. If you play with one child, you take turns too, and your child reads the back of your cards."
     },
     {
      "id": "s3",
@@ -506,11 +506,11 @@
    ],
    "rules": [
     "Put the two mat labels on the floor: Lived through it, and Died out.",
-    "Shuffle the animal cards and put them in a pile, words up.",
+    "Shuffle the animal cards and put them in a pile, with the answer side face down.",
     "On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.",
     "Say which mat it goes on, and why. Put the card on that mat.",
     "The player next to you turns the card over and reads the back. If you were right, make a tally mark for yourself on the paper.",
-    "If you were wrong, move the card to the right mat. Nobody loses a point.",
+    "If you were wrong, move the card to the correct mat. Nobody loses a point.",
     "When the pile is gone, the player with the most tally marks wins. Then look at the Lived through it mat. What do those animals have in common?"
    ],
    "setup": [
@@ -742,7 +742,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Look at each print together. 2. For each one, write clear, blurry or none in the table. 3. Look at the key print closely for its small lines.",
+     "do": "1. Look at each print together. 2. For each one, write clear, blurry or none in the table. 3. Look closely at the print of the key for small lines.",
      "say": "Look at each print. Can you see the shape clearly? Can you see any tiny lines? Is it clear, blurry, or nothing at all?",
      "kid": "Look at each print. Is it clear, blurry or nothing? Fill in the table.",
      "check": {
@@ -828,7 +828,7 @@
      "do": "1. Stack the newspapers with the oldest at the bottom. 2. Slip the leaf in near the bottom. 3. Put the ticket in the middle and the wrapper near the top, while your child is not looking. 4. Ask your child the question.",
      "say": "This pile grew one paper a day. Which paper do you think is the oldest, the top one or the bottom one? Why?",
      "kid": "This pile grew one paper each day. Is the oldest one at the top or the bottom? Why?",
-     "parent": "If your pile has been mixed up, sort the papers by date first, with the newest on top. The activity only works if the pile grew in order. Pretend that each paper came on a different day, and that the three small things fell into the pile on the days they were put in."
+     "parent": "If your pile has been mixed up, sort the papers by date first, with the newest on top. The activity only works if the pile grew in order. Pretend that each paper came on a different day, and that the leaf, the ticket and the wrapper each fell onto the pile on a different day, as the pile grew."
     },
     {
      "id": "s2",
@@ -849,7 +849,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Look at the list and the stars together. 2. Ask which buried thing is the oldest.",
-     "say": "Look at the dates next to the stars. Which thing is under the oldest papers? That one fell into the pile first. How do you know?",
+     "say": "Look at the dates next to the stars. Which thing was buried under the oldest papers? How do you know that one fell into the pile first?",
      "kid": "Which thing was buried first? How do you know?",
      "check": {
       "t": "mcq",
@@ -916,7 +916,7 @@
      "mins": 3,
      "do": "1. Lay the newspaper in two lines and tape the ends. 2. Put the plate of water and the towel at the start of the first line. 3. Ask the question.",
      "say": "When you walk fast, will your footprints be closer together or farther apart than when you walk slowly? Why do you think so?",
-     "kid": "Walk slow, then walk fast. Will the prints be closer or farther apart? Why?"
+     "kid": "Walk slowly, then walk fast. Will the prints be closer or farther apart? Why?"
     },
     {
      "id": "s2",
@@ -960,7 +960,7 @@
        ]
       }
      ],
-     "parent": "Footprints are trace fossils. A trace fossil is a mark an animal left, not their body. Dinosaur trackways have been found in many places around the world."
+     "parent": "Footprints are trace fossils. A trace fossil is a mark an animal left, not their body. Lines of dinosaur footprints, called trackways, have been found in many places around the world."
     }
    ]
   }
@@ -1042,7 +1042,7 @@
      "id": "s3",
      "mins": 15,
      "wait": "Leave the prints to dry for one more day",
-     "do": "1. Your child writes a label for each print: what made it, and one thing it tells. 2. Set them out on a shelf. 3. Your child shows someone at home round the museum.",
+     "do": "1. Your child writes a label for each print: what made it, and one thing it tells us. 2. Set them out on a shelf. 3. Your child shows someone at home round the museum.",
      "say": "Write what made each print. Then add one thing a visitor can learn from it. Who will you show round your museum?",
      "kid": "Write a label for each fossil. Show someone your museum.",
      "ask": [
@@ -1103,8 +1103,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Read the problem aloud. 2. Your child picks two or three materials to try.",
-     "say": "Real footprints in mud lasted millions of years. Can you make a print that is still clear tomorrow, even after some water?",
-     "kid": "Make a print that lasts until tomorrow. Even after drops of water."
+     "say": "Real footprints in mud lasted millions of years. Can you make a print that is still clear two days later, even after some water falls on it?",
+     "kid": "Make a print that is still clear two days later, even after drops of water fall on it."
     },
     {
      "id": "s2",
@@ -1118,7 +1118,7 @@
      "mins": 9,
      "wait": "Leave the prints for two days",
      "do": "1. Sprinkle five drops of water on each print. 2. Wait one minute and look. 3. Talk about which lasted best, and why.",
-     "say": "Five drops on each. Now look. Which print is still clear? Why do you think that one lasted?",
+     "say": "Sprinkle five drops of water on each print. Now look. Which print is still clear? Why do you think that one lasted?",
      "kid": "Put five drops on each. Which print is still clear? Why?",
      "check": {
       "t": "mcq",
@@ -1228,7 +1228,7 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down. In your Print Test, why did the banana slice not leave a sharp print?",
+     "p": "In the Print Test, why did the banana slice not leave a sharp print? Say your answer to a grown-up, who writes it down.",
      "lines": 2,
      "a": "The banana is soft. It squashed and spread out when I pressed it, so its edges were not sharp.",
      "why": "A strong answer says the banana is soft, so it changed shape when pressed instead of pushing its shape into the dough.",
@@ -1236,14 +1236,14 @@
     },
     {
      "t": "perspective",
-     "p": "Nila, a girl in Class 2, and her brother Ravi are talking about dinosaurs.",
+     "p": "Two children are talking about dinosaurs.",
      "views": [
       {
-       "who": "Nila, aged 7",
+       "who": "The first child",
        "says": "All the dinosaurs are gone. They died out 66 million years ago."
       },
       {
-       "who": "Ravi, aged 6",
+       "who": "The second child",
        "says": "Not all of them. Birds come from dinosaurs, so the crow on our window is a kind of dinosaur."
       }
      ],
@@ -1255,7 +1255,7 @@
      "t": "label",
      "p": "Here is the side of a hill with three layers of rock. Write 1 on the oldest layer and 3 on the newest layer.",
      "a": "1 on the bottom layer, 2 on the middle layer and 3 on the top layer.",
-     "why": "Layers pile up one on top of another, so the bottom one was laid down first and is the oldest. Your newspaper pile showed the same thing.",
+     "why": "Layers pile up one on top of another, so the bottom one was laid down first and is the oldest. The Newspaper Pile activity shows the same thing: the oldest paper is at the bottom.",
      "art": "The side of a hill with three stripes of rock: a grey bottom stripe with a shell fossil, a brown middle stripe with a bone, and a cream top stripe with a small tooth.",
      "how": "a1"
     },
@@ -1267,7 +1267,7 @@
     },
     {
      "t": "count",
-     "p": "Asha, a girl in Class 2, makes a pile of 7 newspapers, one for each day of a week, with the oldest at the bottom. She hides a leaf under the 3rd paper from the top. How many papers are under the leaf?",
+     "p": "A pile has 7 newspapers, one for each day of a week, with the oldest at the bottom. A leaf is hidden under the 3rd paper from the top. How many papers are under the leaf?",
      "a": "4 papers",
      "why": "7 papers in all, and 3 are above the leaf. 7 take away 3 is 4. So 4 papers are under the leaf, and they are older than the leaf's day.",
      "how": "a1"
@@ -1298,7 +1298,7 @@
       }
      ],
      "ask": "Which do you think is right? Give one reason. Then say what someone on another side might answer.",
-     "a": "Any side, with a reason. For the asteroid: a giant crater and a layer of iridium date to that very time. For the volcanoes: the Deccan lava poured out around the same time and changed the air. For both: they happened close together.",
+     "a": "Any side, with a reason. For the asteroid: a giant crater and a layer of iridium are both from that very time. For the volcanoes: the Deccan lava poured out around the same time and changed the air. For both: they happened close together.",
      "why": "A strong answer picks a side, gives a piece of evidence, and fairly says one point from another side. Nobody knows for sure yet."
     },
     {
@@ -1320,7 +1320,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 2, finds a fossil sea shell in a rock on a hill in Ariyalur, far from the sea. What does this tell her about that place? Say it, and a grown-up writes it down.",
+     "p": "A fossil sea shell is found in a rock on a hill in Ariyalur, far from the sea. What does this tell us about that place? Say it, and a grown-up writes it down.",
      "lines": 2,
      "a": "The sea once covered that land, long ago. The shell sank into the mud on the sea floor, and the mud turned to rock.",
      "why": "A strong answer says the sea used to be there, and explains how a sea shell came to be inside rock."
@@ -1362,7 +1362,7 @@
     },
     {
      "t": "write",
-     "p": "Anjali, a girl in Class 2, says: 'The dinosaurs died out because they were stupid and slow.' What would you tell her? Say it, and a grown-up writes it down.",
+     "p": "Someone says: 'The dinosaurs died out because they were stupid and slow.' What would you tell them? Say it, and a grown-up writes it down.",
      "lines": 3,
      "a": "The dinosaurs lived on Earth for about 165 million years, so they were very good at living. They died out because the world changed suddenly, and many could not find enough food.",
      "why": "A strong answer says the dinosaurs did well for a very long time, and that a sudden change, not being slow or stupid, ended the big ones. Many fast and clever animals died too."
@@ -1459,7 +1459,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Class 2, finds the shape of a leaf in a dark rock. What is it?",
+   "p": "You find the shape of a leaf in a dark rock. What is it?",
    "opts": [
     "A fossil",
     "A drawing",
@@ -1495,7 +1495,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Print Test, Meena, a girl in Class 2, pressed a key and a tomato into dough. What did she see?",
+   "p": "In the Print Test, a key and a tomato were pressed into dough. What prints did they leave?",
    "opts": [
     "The key left a sharp print, and the tomato left a blurry one",
     "Both left sharp prints",
@@ -1534,7 +1534,7 @@
    "t": "mcq",
    "p": "How do scientists know when the big dinosaurs died out?",
    "opts": [
-    "Their fossils stop appearing in rocks younger than a certain age",
+    "Their fossils are not found in rocks younger than a certain age",
     "Someone saw the last one",
     "From old books"
    ],
@@ -1556,7 +1556,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farida, a girl in Class 2, says humans are mammals. Is she right?",
+   "p": "Are humans mammals?",
    "opts": [
     "Yes. Humans have hair and feed babies on milk",
     "No. Mammals are only animals with four legs",
@@ -1660,7 +1660,7 @@
  ],
  "maths": [
   {
-   "problem": "Asha did the Print Test with 8 things. 5 left clear prints, 2 left blurry prints and 1 left almost nothing. How many more clear prints than blurry prints were there? What does this tell you?",
+   "problem": "In a Print Test with 8 things, 5 left clear prints, 2 left blurry prints and 1 left almost nothing. How many more clear prints than blurry prints were there? What does this tell you?",
    "answer": "3 more clear prints than blurry prints.",
    "explain": "5 take away 2 is 3. So there were 3 more clear prints. Most of the clear prints came from hard things, which tells us hard things leave better prints.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1677,9 +1677,9 @@
    "why_maths": "Measuring with something we know, like a car, helps us picture how big an animal was."
   },
   {
-   "problem": "In Footprint Detective, a girl called Revathi took slow steps 2 hand spans apart. Her quick steps were 4 hand spans apart. A scientist finds two lines of prints from the same kind of dinosaur. In one line the gaps are 2 metres, and in the other the gaps are 4 metres. Which dinosaur was moving faster?",
+   "problem": "In Footprint Detective, slow steps were 2 hand spans apart and quick steps were 4 hand spans apart. A scientist finds two lines of prints from the same kind of dinosaur. In one line the gaps are 2 metres. In the other line the gaps are 4 metres. Which dinosaur was moving faster?",
    "answer": "The one whose prints were 4 metres apart.",
-   "explain": "Revathi's quick steps had the bigger gaps, 4 spans instead of 2. So bigger gaps mean faster. 4 metres is more than 2 metres, so that dinosaur was moving faster.",
+   "explain": "In Footprint Detective, the quick steps had the bigger gaps, 4 hand spans instead of 2. So bigger gaps mean faster. 4 metres is more than 2 metres, so that dinosaur was moving faster.",
    "math_unit": "math.measurement-basics.comparing-and-non-standard.L2",
    "how": "a2",
    "context": "This is about Footprint Detective, where you made wet footprints walking slowly and quickly.",
@@ -1826,14 +1826,14 @@
   ]
  },
  "roots": {
-  "context": "We have pressed hard and soft things into dough, and dug down through layers. Now we ask what the rocks tell us about life, and about ourselves.",
+  "context": "In the Print Test we pressed hard and soft things into dough. In the Newspaper Pile we dug down through layers of paper. Now we ask what the rocks tell us about life, and about ourselves.",
   "deep_truth": {
-   "truth": "In your dough, the key and the spoon left sharp prints, but the banana left a blurry dent. Rocks keep hard parts much better than soft bodies. Most fossils are bones, teeth, shells and wood. So the story in the rocks leaves out most soft animals, like worms and jellyfish.",
-   "habit": "We think the fossils show us everything that lived long ago, and that no fossil means no animal. The Print Test shows that rocks keep mostly hard parts, so many soft beings lived and left no trace at all.",
+   "truth": "In the Print Test, the key and the spoon left sharp prints in the dough, but the banana left a blurry dent. Rocks work the same way: they keep hard parts much better than soft bodies. Most fossils are bones, teeth, shells and wood. So the story in the rocks leaves out most soft animals, like worms and jellyfish.",
+   "habit": "It is easy to think that fossils show us everything that lived long ago, and that no fossil means no animal. The Print Test shows that rocks keep mostly hard parts, so many soft beings lived and left no trace at all.",
    "evidence": "In the Print Test, every hard thing left a clear print, and every soft thing squashed into a blurry mark. Worms and jellyfish have lived for hundreds of millions of years, yet their fossils are very rare."
   },
   "three": {
-   "who_am_i": "You are an animal and a mammal, in a family of life far older than the dinosaurs. Your thumb print in the dough is a trace of you.",
+   "who_am_i": "You are an animal and a mammal, in a family of life far older than the dinosaurs. When you press your thumb into dough, the print is a trace of you.",
    "what_is_life": "Life keeps changing shape. Kinds of beings appear, live for a long time, and some die out, while others carry on as new kinds.",
    "what_is_this_world": "The ground under your feet was once sea floor and forest. The rocks hold traces of beings who lived there long before us."
   },
@@ -1846,8 +1846,8 @@
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
-    "teaching": "Some men who cannot see each touch one part of an elephant. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right.",
-    "link": "Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed it was a thumb spike."
+    "teaching": "A few men who cannot see touch an elephant. Each one touches a different part. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right.",
+    "link": "Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb."
    },
    {
     "source": "Rig Veda 10.129.7, the Nasadiya Sukta",
@@ -1887,8 +1887,8 @@
   "story": "Before about 1800, many people in Europe thought no kind of animal could ever die out. When huge bones were dug up, they said the animals must still be alive somewhere far away. Georges Cuvier was a young scientist at the natural history museum in Paris. In 1796, he compared the teeth and jaws of elephants from India and from Africa. He showed that they were two different kinds of elephant. Then he looked at mammoth bones dug up in Siberia, in the far north of Russia. Their teeth were different from both kinds of living elephant. A mammoth was a huge animal. Travellers could not have missed herds of them. So Cuvier said that the mammoth was a kind that had died out for ever. Later, fossil hunters like Mary Anning, a young woman from a poor family in England, found many more animals that no longer lived anywhere. Today we know the last mammoths lived on Wrangel Island, in the Arctic Ocean, until about 4,000 years ago.",
   "who": "Georges Cuvier, a French scientist in Paris (1796); later Mary Anning, a fossil hunter in Lyme Regis, England (early 1800s)",
   "when": "Cuvier read his paper on living and fossil elephants in Paris in 1796. Mary Anning made her finds from about 1811 onwards.",
-  "wrong_idea": "That no kind of animal could ever die out, so huge fossil bones must belong to animals still living somewhere unexplored. Cuvier showed the mammoth was a different kind from any living elephant, and far too big to stay hidden."
+  "wrong_idea": "The wrong idea was that no kind of animal could ever die out, so huge fossil bones must belong to animals still living somewhere unexplored. Cuvier showed the mammoth was a different kind from any living elephant, and far too big to stay hidden."
  },
  "playtest": "Played both games with 2 and with 4 players and found that game 1 never ended and game 2 had a contradicting rule about keeping cards, so I rewrote the rules and removed the score sheet. Followed the Print Test, Newspaper Pile, Footprint Detective, salt dough project and the Footprint challenge step by step in a flat: fixed the footprint paper (two lines, not one reused), the plaster of Paris idea, the drying time for the dough prints, and a food-safety note about reusing dough. Fixed the story ending that put off what the unit teaches, made-up people (Arjun was a baby brother in the story and a classmate on a worksheet), repeated questions about footprints, and cut one weak joke.",
- "warm": {"words": ["BONES", "SHELL", "LAYER", "ROCKS", "TEETH"], "quiz": [["A seashell fossil on a high hill shows the land was once under the sea.", true, "Sea mud turned into rock with shells in it, and later the land rose up."], ["Soft parts like skin become fossils more often than hard bones.", false, "Hard parts like bones, teeth and shells last long enough to turn into fossils."], ["In a pile of layers, the layer at the bottom is the oldest.", true, "It was laid down first, and newer layers piled on top of it."], ["Dinosaurs and humans lived at the same time.", false, "The big dinosaurs died out about 66 million years ago, and people came much later."], ["A footprint in rock is a fossil, even though it is not a body.", true, "A footprint is a trace fossil, a mark a living being left behind."], ["A kind of animal can never die out completely.", false, "When the last one dies, that kind is extinct and never comes back, like mammoths."], ["Birds come from dinosaurs.", true, "Some small dinosaurs had feathers, and birds are their family still living today."], ["Most dinosaurs dragged their tails along the ground as they walked.", false, "Trackways show no tail marks, so many dinosaurs walked tall and fast."], ["After the big dinosaurs died out, mammals and birds spread into many new kinds.", true, "Many places and foods were free for them, so new kinds of animals appeared."], ["All dinosaurs were as big as buses.", false, "Some dinosaurs were huge, and some were as small as a hen."]], "odd": [[["Footprint", "Nest", "Burrow", "Bone"], "Bone", "A footprint, a nest and a burrow are marks left behind, but a bone is part of a body."], [["Tooth", "Shell", "Bone", "Soft jellyfish"], "Soft jellyfish", "Hard parts often become fossils, but a soft body usually rots away before it can."], [["Cat", "Elephant", "Whale", "Hen"], "Hen", "Cats, elephants and whales are mammals with hair that feed their babies milk; a hen is a bird."], [["Woolly mammoth", "Ammonite", "Tyrannosaurus", "Crow"], "Crow", "The first three kinds are extinct for ever; crows are alive today and come from dinosaurs."], [["Humans", "New kinds of mammals", "New kinds of birds", "Long-necked dinosaurs"], "Long-necked dinosaurs", "The first three came or spread after the big dinosaurs died out; long-necked dinosaurs died out then."]]}
+ "warm": {"words": ["BONES", "SHELL", "LAYER", "ROCKS", "TEETH"], "quiz": [["A seashell fossil on a high hill shows the land was once under the sea.", true, "Sea mud turned into rock with shells in it, and later the land rose up."], ["Soft parts like skin become fossils more often than hard bones.", false, "Hard parts like bones, teeth and shells last long enough to turn into fossils."], ["In a pile of layers, the layer at the bottom is the oldest.", true, "It was laid down first, and newer layers piled on top of it."], ["Dinosaurs and humans lived at the same time.", false, "The big dinosaurs died out about 66 million years ago, and people came much later."], ["A footprint in rock is a fossil, even though it is not a body.", true, "A footprint is a trace fossil, a mark a living being left behind."], ["A kind of animal can never die out completely.", false, "When the last one dies, that kind is extinct and never comes back, like mammoths."], ["Birds come from dinosaurs.", true, "Some small dinosaurs had feathers, and birds are their family still living today."], ["Most dinosaurs dragged their tails along the ground as they walked.", false, "Lines of dinosaur footprints show no tail marks, so many dinosaurs walked tall and fast."], ["After the big dinosaurs died out, mammals and birds spread into many new kinds.", true, "Many places and foods were free for them, so new kinds of animals appeared."], ["All dinosaurs were as big as buses.", false, "Some dinosaurs were huge, and some were as small as a hen."]], "odd": [[["Footprint", "Nest", "Burrow", "Bone"], "Bone", "A footprint, a nest and a burrow are marks left behind, but a bone is part of a body."], [["Tooth", "Shell", "Bone", "Soft jellyfish"], "Soft jellyfish", "Hard parts often become fossils, but a soft body usually rots away before it can."], [["Cat", "Elephant", "Whale", "Hen"], "Hen", "Cats, elephants and whales are mammals, who have hair and feed their babies milk; a hen is a bird."], [["Woolly mammoth", "Ammonite", "Tyrannosaurus", "Crow"], "Crow", "The first three kinds are extinct for ever; crows are alive today and come from dinosaurs."], [["Humans", "New kinds of mammals", "New kinds of birds", "Long-necked dinosaurs"], "Long-necked dinosaurs", "The first three came or spread after the big dinosaurs died out; long-necked dinosaurs died out then."]]}
 }

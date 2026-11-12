@@ -59,7 +59,7 @@
   },
   {
    "term": "Treat",
-   "meaning": "A treat is a food we have now and then, in a small amount. Treats have lots of sugar, fat or salt and few helpers.",
+   "meaning": "A treat is a food we have now and then, in a small amount. Treats have lots of sugar, fat or salt, and very little that helps you grow or stay well.",
    "example": "A laddu at Diwali, a piece of mysorepak, or a packet of chips on a trip.",
    "art": "A small plate with one laddu, one piece of mysorepak and a few chips."
   }
@@ -83,25 +83,25 @@
    "concept": "How energy foods give us energy",
    "status": "defined",
    "definition": "Energy foods are full of starch, and starch is long chains of sugar. Your body cuts the chains into sugar and uses the sugar for energy.",
-   "description": "Rice and chapati do not taste sweet, but their starch is made of sugar pieces joined in long chains. Saliva, or spit, has a helper called amylase that cuts the chains into short pieces of sugar. That is why chapati tastes a little sweet if you chew it for a long time. It is also why spit made the thick paste runny in our test. Your gut finishes the job, and the sugar goes into your blood for every part of you to use.",
+   "description": "Rice and chapati do not taste sweet, but their starch is made of sugar pieces joined in long chains. Saliva, or spit, has a helper called amylase that cuts the chains into short pieces of sugar. That is why chapati tastes a little sweet if you chew it for a long time. It is also why spit made the thick rice-flour paste runny in the Spit Test. Your gut finishes the job, and the sugar goes into your blood for every part of you to use.",
    "examples": [
     "A piece of chapati chewed thirty times starts to taste a little sweet.",
     "Thick rice-flour paste with spit stirred in goes runny in about ten minutes.",
     "Ragi mudde, a ball of cooked ragi flour eaten in Karnataka, is mostly starch, so it is an energy food."
    ],
    "perspectives": [],
-   "context": "This card says how rice and chapati turn into energy. It goes with the spit test.",
+   "context": "This card says how rice and chapati turn into energy. It goes with the Spit Test experiment.",
    "art": "A long chain of round beads in a mouth, being snipped into short pieces by small scissors labelled amylase."
   },
   {
    "concept": "Treats in small amounts",
    "status": "defined",
    "definition": "Treats give lots of energy from sugar or fat, but little to help you grow or protect you. So they are best now and then, in small amounts.",
-   "description": "Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they carry few grow or protect helpers. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja.",
+   "description": "Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja.",
    "examples": [
     "Many sweet fizzy drinks have about 4 to 5 teaspoons of sugar in one 200 ml glass.",
     "A small plate of murukku at Diwali is a treat. A plate every day after school is not.",
-    "A guava gives sweetness and protect helpers together. A packet of sweets gives only the sweetness."
+    "A guava gives sweetness and vitamins that protect you, together. A packet of sweets gives only the sweetness."
    ],
    "perspectives": [],
    "context": "This card says why some foods are treats.",
@@ -172,14 +172,14 @@
  ],
  "big_questions": [
   {
-   "q": "Your spit started to cut the rice paste before you even swallowed it. When does food stop being food and start being you?",
+   "q": "Your spit starts to cut the starch in rice before you even swallow it. When does food stop being food and start being you?",
    "kind": "deep",
    "hint": "Think about the mouth, the tummy, the blood, and the new skin on a healed cut."
   },
   {
    "q": "A chapati does not taste sweet, but your body turns it into sugar. What else might be different from how it tastes or looks?",
    "kind": "deep",
-   "hint": "Think of milk, which looks like water but holds grow, energy and protect helpers."
+   "hint": "Think of milk. It looks like one plain white drink, but it helps you grow, gives you energy and protects you."
   },
   {
    "q": "Why do you think people everywhere make special sweets for festivals?",
@@ -299,7 +299,7 @@
       },
       {
        "f": "Spinach or keerai",
-       "b": "Protect. Green leaves give iron for blood and folate.",
+       "b": "Protect. Green leaves give iron and folate, which your blood needs.",
        "img": {
         "src": "media/cards/healthy-food-g1-0-12.jpg",
         "credit": "Tanzil Rahman Tonoy, CC0, via iNaturalist"
@@ -553,8 +553,8 @@
    "rules": [
     "Each player draws a thali with a Grow bowl, a Go bowl, a Protect bowl and a Treat star. Mix the cards. Give each player 3 cards to hold, with the food names facing you. Put the rest face down in a pile.",
     "On your turn, pick up the top card of the pile. You now hold 4 cards. Then do one of two things: lay one card on your thali, or put one card face up on a new discard pile. You end your turn holding 3 cards.",
-    "Before you lay a card on your thali, say its job. Another player reads the back. If you were right, the card stays on an empty spot of the matching bowl. If you were wrong, the card goes on the discard pile.",
-    "Each bowl holds one card. A Treat goes only on the Treat star, and only one. When you lay a Treat, take another turn straight away. Any other Treat goes on the discard pile.",
+    "Before you lay a card on your thali, say its job. Another player reads the back. If you were right, put the card in the matching bowl, if that bowl is empty. If you were wrong, the card goes on the discard pile.",
+    "Each bowl holds one card. A Treat goes only on the Treat star, and only one. When you lay a Treat, take another turn straight away. If you already have a Treat on your star, any other Treat goes on the discard pile.",
     "If the pile runs out, shuffle the discard pile and turn it face down as the new pile.",
     "The first player with a Grow, a Go and a Protect food on their thali says 'Full thali!' and wins. The Treat is a bonus, not needed to win."
    ],
@@ -755,7 +755,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Your child looks at a lemon or tamarind to make spit come. 2. They let spit run into a clean teaspoon until it is about half full, twice. 3. Stir one lot into bowl 2 and one into bowl 3. 4. Stir half a teaspoon of water into bowl 1. 5. Stir each bowl ten times.",
+     "do": "1. Your child looks at a lemon or tamarind to make spit come. 2. They let spit run into a clean teaspoon until it is about half full. They do this twice, once for bowl 2 and once for bowl 3. 3. Stir one half-spoon of spit into bowl 2 and the other into bowl 3. 4. Stir half a teaspoon of water into bowl 1. 5. Stir each bowl ten times.",
      "say": "Look at the lemon. Think about how sour it is. Can you feel your mouth filling with spit? Let it run into the spoon.",
      "kid": "Look at the lemon. Feel the spit come. Let it run into the spoon.",
      "parent": "Thinking about sour food really does make saliva flow. Half a teaspoon of spit in each bowl is plenty. Use a different spoon for each bowl. Set a timer for 10 minutes."
@@ -789,7 +789,7 @@
     {
      "id": "s7",
      "mins": 2,
-     "do": "Ask your child what they think, what they saw, and why. Then tell them about amylase. Throw the paste and curd away and wash the bowls.",
+     "do": "Ask your child what they think spit does, and what they saw that tells them so. Then tell them about amylase. Throw the paste and curd away and wash the bowls.",
      "say": "What do you think spit does? What did you see that tells you? Spit has a helper called amylase. It cuts starch into sugar.",
      "kid": "What did spit do? Spit cuts starch into sugar. That gives you energy.",
      "check": {
@@ -848,8 +848,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Lay out the three marked sheets. 2. Say what each job means, with one example.",
-     "say": "Grow foods build your muscles, skin and blood, like dal. Energy foods give you go, like rice. Protect foods help you stay well, like carrots.",
-     "kid": "Grow foods build you. Energy foods give you go. Protect foods keep you well."
+     "say": "Grow foods build your muscles, skin and blood, like dal. Energy foods give you the energy to move, like rice. Protect foods help you stay well, like carrots.",
+     "kid": "Grow foods build you. Energy foods give you energy to move. Protect foods keep you well."
     },
     {
      "id": "s2",
@@ -1349,7 +1349,7 @@
    "t": "mcq",
    "p": "Why is a sweet fizzy drink a treat, not an everyday drink?",
    "opts": [
-    "It has lots of sugar and few helpers",
+    "It has lots of sugar and very little that helps you grow or stay well",
     "It has too much protein",
     "It has no water in it"
    ],
@@ -1371,7 +1371,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before the spit test, Nila, a girl in Class 2, guessed the water bowl would go runniest. It stayed thick. What should Nila say?",
+   "p": "Before the Spit Test, you guess that the bowl of rice paste with water will go runniest. It stays thick. What should you say?",
    "opts": [
     "My guess was wrong. Spit did something water did not.",
     "The test is broken.",
@@ -1496,7 +1496,7 @@
     },
     {
      "t": "perspective",
-     "p": "Priya, a girl of 7 in Chennai, and her brother Vikram, who is 5, are looking at a packet of chips.",
+     "p": "Priya and her brother Vikram are looking at a packet of chips.",
      "views": [
       {
        "who": "Vikram",
@@ -1510,32 +1510,32 @@
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason, for example: 'Priya, because frying adds lots of oil, and chips have lots of salt.' Then it is fair to Vikram: chips really are made from potato, and they do give energy.",
-     "why": "Both are partly right. Chips start as potato, a go food. But frying and salt change them, so they give lots of energy and salt and few protect helpers."
+     "why": "Both are partly right. Chips start as potato, a go food. But frying and salt change them, so they give lots of energy and salt, and very little that protects you."
     },
     {
      "t": "label",
      "p": "Here is a plate of idli, sambar and a banana. Write G, E or P next to each food.",
      "a": "E next to the idli, G next to the sambar, P next to the banana. The banana could also get an E.",
-     "why": "Idli is mostly rice starch. Sambar is made with dal, a grow food, and vegetables. A banana gives protect helpers and sugar for energy.",
+     "why": "Idli is mostly rice starch. Sambar is made with dal, a grow food, and vegetables. A banana is a protect food, and it also gives sugar for energy.",
      "art": "A steel plate with two idlis, a bowl of sambar and a banana, with an empty box beside each."
     },
     {
      "t": "mcq",
-     "p": "Aruna, a girl of 7, ate a big plate of sweets and now does not want her dinner. What is the problem?",
+     "p": "You eat a big plate of sweets, and now you do not want your dinner. What is the problem?",
      "opts": [
-      "Sweets filled her up, so there is no room for grow and protect foods",
+      "Sweets filled you up, so there is no room for grow and protect foods",
       "Sweets have too much protein",
       "There is no problem"
      ],
      "a": 0,
-     "why": "Sweets give lots of energy but few grow or protect helpers. When they fill the tummy, the body misses the foods that build and protect it."
+     "why": "Sweets give lots of energy but do little to help you grow or stay well. When they fill the tummy, the body misses the foods that build and protect it."
     },
     {
      "t": "mcq",
-     "p": "Tara, a girl in Class 2, says: 'Only sweet foods give us sugar.' What would you tell her?",
+     "p": "A friend says: 'Only sweet foods give us sugar.' What would you tell your friend?",
      "opts": [
       "Rice and chapati give sugar too, because the body cuts their starch into sugar",
-      "Tara is right",
+      "Your friend is right",
       "Sugar comes only from sugarcane"
      ],
      "a": 0,
@@ -1564,7 +1564,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya, a girl of 8 in Mysuru, and her grandmother are talking about milk.",
+     "p": "Kavya and her grandmother are talking about milk.",
      "views": [
       {
        "who": "Kavya",
@@ -1605,7 +1605,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi, a girl of 7, wants a drink after playing. Which is the everyday drink, not a treat?",
+     "p": "You want a drink after playing. Which is the everyday drink, not a treat?",
      "opts": [
       "Plain water",
       "A bottle of sweet fizzy drink",
@@ -1630,13 +1630,13 @@
       "Diwali laddus have no sugar"
      ],
      "a": 0,
-     "why": "A treat gives lots of energy but few helpers. Having it often leaves less room for the foods that build and protect you."
+     "why": "A treat gives lots of energy but does little to help you grow or stay well. Having it often leaves less room for the foods that build and protect you."
     },
     {
      "t": "write",
-     "p": "Say it out loud, and a grown-up writes it: Ramya, a girl in Class 2, ate only rice for lunch. Which jobs are missing, and what could she add?",
+     "p": "Say it out loud, and a grown-up writes it: you ate only rice for lunch. Which jobs are missing, and what could you add?",
      "lines": 2,
-     "a": "Grow and protect are missing. She could add dal or curd for grow, and a vegetable or fruit for protect.",
+     "a": "Grow and protect are missing. You could add dal or curd for grow, and a vegetable or fruit for protect.",
      "why": "A strong answer names both missing jobs and gives a real food from home for each."
     },
     {
@@ -1730,7 +1730,7 @@
   },
   {
    "j": "Why did the tomato turn red?",
-   "a": "Because it saw the salad dressing!"
+   "a": "Because they saw the salad dressing!"
   },
   {
    "j": "What did the milk say to the curd?",
@@ -1757,16 +1757,16 @@
    "why_maths": "Comparing spoons shows how much more sugar a sweet drink holds than a drink we make at home."
   },
   {
-   "problem": "In a week of plates, Meera, a girl in Class 2, drew 12 yellow foods, 6 red foods and 3 green foods. She wants as many green as red next week. How many more green foods does she need?",
+   "problem": "In your week of plates, you drew 12 yellow foods, 6 red foods and 3 green foods. You want as many green as red next week. How many more green foods do you need?",
    "answer": "3 more green foods.",
-   "explain": "She had 3 green and 6 red. 6 take away 3 is 3. So 3 more green foods would make them equal.",
+   "explain": "You had 3 green and 6 red. 6 take away 3 is 3. So 3 more green foods would make them equal.",
    "math_unit": "math.data.pictographs.L2",
    "how": "p1",
    "context": "This is about the week of plates project, where you colour each food by its job.",
    "why_maths": "Counting the colours shows which job is missing from a week of meals, and how many foods would balance it."
   },
   {
-   "problem": "In the Grow, Go or Protect game, Farhana, a girl in Class 2, sorted 20 cards. 7 were grow, 5 were go, and 6 were protect. The rest were treats. How many treat cards were there?",
+   "problem": "The Grow, Go or Protect game has 20 cards. 7 are grow, 5 are go, and 6 are protect. The rest are treats. How many treat cards are there?",
    "answer": "2 treat cards.",
    "explain": "7 and 5 make 12. 12 and 6 make 18. 20 take away 18 is 2.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -1906,10 +1906,10 @@
   ]
  },
  "roots": {
-  "context": "We have watched spit turn thick rice paste runny, and learned that starchy foods become sugar inside us. Now we ask what that tells us about ourselves and the world.",
+  "context": "In the Spit Test, spit turned thick rice paste runny. We learned that starchy foods become sugar inside us. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your spit turned the thick rice paste runny, but water did not. Spit cuts starch into sugar. Rice and ragi do not taste sweet, yet they become sugar inside you. So you cannot tell which foods give you sugar just by tasting them.",
-   "habit": "We sort food by taste, into sweet and not sweet, and think only sweet foods give us sugar. But taste tells us only what reaches the tongue now, not what the body makes of the food.",
+   "truth": "In the Spit Test, your spit turned the thick rice paste runny, but water did not. Spit cuts starch into sugar. Rice and ragi do not taste sweet, yet they become sugar inside you. So you cannot tell which foods give you sugar just by tasting them.",
+   "habit": "We sort food by taste, into sweet and not sweet, and think only sweet foods give us sugar. But taste only tells us what a food is like in the mouth. It does not tell us what the body turns the food into.",
    "evidence": "In the spit test, the rice paste with spit dripped off the spoon almost at once after ten minutes, while the paste with water stayed thick. Curd with spit stayed thick too, because curd is not thickened by starch. A chapati chewed thirty times starts to taste a little sweet."
   },
   "three": {
@@ -1917,7 +1917,7 @@
    "what_is_life": "Living beings take food and change it into themselves. Your spit, your gut and every cell in you are doing this all day.",
    "what_is_this_world": "The rice on your plate grew from sunlight, rain and soil. Inside you, it becomes the energy you run and think with."
   },
-  "thread": "Sunlight falls on a rice plant, and the plant makes sugar and joins the sugar into starch in the grain. You eat the rice, and your spit and gut cut the starch back into sugar. Your cells use that sugar to move, think and grow. The energy that left the Sun is the same energy you run with. Your cells sense how much sugar they have and decide whether to use it or store it, so thinking is not only something brains do. Many scientists call this an automatic chemical response.",
+  "thread": "Sunlight falls on a rice plant, and the plant makes sugar and joins the sugar into starch in the grain. You eat the rice, and your spit and gut cut the starch back into sugar. Your cells use that sugar to move, think and grow. The energy that left the Sun is the same energy you run with. Your cells sense how much sugar they have, and use it or store it. Some people see this as a kind of thinking, done by cells and not only by brains. Many scientists call it an automatic chemical response.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 2.1 to 2.2",
@@ -1959,12 +1959,12 @@
  },
  "how_we_found_out": {
   "context": "How did people find out that leafy foods protect our blood? This card tells the true story of a woman scientist who worked in India.",
-  "story": "In 1928, an English doctor and scientist called Lucy Wills came to Bombay, now Mumbai. Another doctor, Margaret Balfour, had asked her to help. Many young women who worked in the cotton mills were very ill when they were expecting babies. Their blood was weak and pale, a kind of illness called anaemia. Some doctors thought it was the same as another kind of anaemia. Then she looked at what the women ate. The poorest women ate very few vegetables, fruit, milk or eggs. Wills fed rats and monkeys meals like the women's, and they became anaemic too. When she added a cheap paste made from yeast, the animals got better. So did the women. The cure was in the food. Years later, scientists found the helper she had found. They called it folic acid, from the Latin word for leaf, because green leaves like spinach are full of it.",
+  "story": "In 1928, an English doctor and scientist called Lucy Wills came to Bombay, now Mumbai. Another doctor, Margaret Balfour, had asked her to help. Many young women who worked in the cotton mills were very ill when they were expecting babies. Their blood was weak and pale, an illness called anaemia. Some doctors thought it was the same as another kind of anaemia. Wills looked at what the women ate. The poorest women ate very few vegetables, fruit, milk or eggs. Wills fed rats and monkeys meals like the women's, and they became anaemic too. When she added a cheap paste made from yeast, the animals got better. So did the women. The cure was in the food. Years later, scientists found the helper in the food that had cured them. They called it folic acid, from the Latin word for leaf, because green leaves like spinach are full of it.",
   "who": "Lucy Wills, an English doctor and scientist, working in Bombay with women patients, at the invitation of Dr Margaret Balfour",
   "when": "She began in Bombay in 1928 and reported the yeast cure in 1931. Folic acid was named in 1941.",
-  "wrong_idea": "That the anaemia of these women was the same illness as another known anaemia. Wills showed it came from what was missing in their food, and that a food could cure it.",
+  "wrong_idea": "Some doctors thought the anaemia of these women was the same illness as another known anaemia. Wills showed it came from what was missing in their food, and that a food could cure it.",
   "art": "A woman scientist in 1920s clothes at a laboratory bench in Bombay, with a bowl of greens and a jar of yeast paste beside her notebook."
  },
  "playtest": "We walked through every game, experiment and activity as a parent and a child would in a flat. In the two card games, the rules left players stuck: wrong cards in the sorting game went to the bottom of the pile so it never ended, and Treat cards in the thali game did nothing. We fixed both and printed the thali as four spots. The spit test paste was far too thin with 1 teaspoon of flour, so it is now 1 level tablespoon. We also removed repeated spit-test questions, the weak jokes, and unfair or unintroduced wording in the quiz and maths.",
- "warm": {"words": ["GRAIN", "SUGAR", "TREAT", "BONES", "FRUIT"], "quiz": [["Rice and ragi give energy because their starch is made of many joined sugar pieces.", true, "Your body cuts the starch chains into sugar and uses the sugar for energy."], ["Only sweet foods give the body sugar.", false, "Starch in rice, wheat and potatoes is sugar pieces in chains, which the body cuts apart."], ["Saliva starts to break down starch in your mouth.", true, "A little saliva in thick rice paste makes it runny as the starch is cut."], ["Fruit juice is just as good as eating the whole fruit.", false, "Squeezing leaves pulp and fibre behind, and a glass holds the sugar of several fruits."], ["Most foods do more than one job in the body.", true, "Milk gives protein to grow, fat for energy and calcium for bones."], ["Rice is bad for you, so you should stop eating it.", false, "Rice has fed families for thousands of years, and with dal it makes a good meal."], ["Dal is only a grow food and gives the body nothing else.", false, "Dal gives protein to help you grow, and also starch for energy."], ["Treats are best now and then, because they give lots of energy but little else.", true, "They have much sugar, fat or salt, and few helpers to make you grow or stay well."], ["Protect foods give us most of our energy.", false, "Protect foods give small amounts of vitamins and minerals; grains, sugar and oil give most energy."], ["Sugar left on teeth often can make holes in them.", true, "Eating lots of sugar, again and again, harms teeth."]], "odd": [[["Rice", "Ragi", "Wheat", "Egg"], "Egg", "Rice, ragi and wheat are grains that give energy; an egg mainly gives protein to grow."], [["Ghee", "Oil", "Sugar", "Spinach"], "Spinach", "Ghee, oil and sugar are energy foods; spinach mainly gives vitamins and minerals to protect."], [["Jalebi", "Samosa", "Chips", "Banana"], "Banana", "Jalebi, samosa and chips are treats with lots of sugar, fat or salt; a banana also gives helpers."], [["Saliva in rice paste", "Chewing rice slowly", "Chapati held in the mouth", "Water in rice paste"], "Water in rice paste", "The first three mix starch with saliva, which cuts it into sugar; water does not."], [["Whole orange", "Whole apple", "Whole guava", "Packet fruit juice"], "Packet fruit juice", "The first three keep the pulp and fibre of the fruit; juice leaves them behind."]]}
+ "warm": {"words": ["GRAIN", "SUGAR", "TREAT", "BONES", "FRUIT"], "quiz": [["Rice and ragi give energy because their starch is made of many joined sugar pieces.", true, "Your body cuts the starch chains into sugar and uses the sugar for energy."], ["Only sweet foods give the body sugar.", false, "Starch in rice, wheat and potatoes is sugar pieces in chains, which the body cuts apart."], ["Saliva starts to break down starch in your mouth.", true, "A little saliva in thick rice paste makes it runny as the starch is cut."], ["Fruit juice is just as good as eating the whole fruit.", false, "Squeezing leaves pulp and fibre behind, and a glass holds the sugar of several fruits."], ["Most foods do more than one job in the body.", true, "Milk gives protein to grow, fat for energy and calcium for bones."], ["Rice is bad for you, so you should stop eating it.", false, "Rice has fed families for thousands of years, and with dal it makes a good meal."], ["Dal is only a grow food and gives the body nothing else.", false, "Dal gives protein to help you grow, and also starch for energy."], ["Treats are best now and then, because they give lots of energy but little else.", true, "They have lots of sugar, fat or salt, and very little that helps you grow or stay well."], ["Protect foods give us most of our energy.", false, "Protect foods give small amounts of vitamins and minerals; grains, sugar and oil give most energy."], ["Sugar that is often left on teeth can make holes in them.", true, "Eating lots of sugar, again and again, harms teeth."]], "odd": [[["Rice", "Ragi", "Wheat", "Egg"], "Egg", "Rice, ragi and wheat are grains that give energy; an egg mainly gives protein to grow."], [["Ghee", "Oil", "Sugar", "Spinach"], "Spinach", "Ghee, oil and sugar are energy foods; spinach mainly gives vitamins and minerals to protect."], [["Jalebi", "Samosa", "Chips", "Banana"], "Banana", "Jalebi, samosa and chips are treats with lots of sugar, fat or salt; a banana is a protect food."], [["Saliva in rice paste", "Chewing rice slowly", "Chapati held in the mouth", "Water in rice paste"], "Water in rice paste", "The first three mix starch with saliva, which cuts it into sugar; water does not."], [["Whole orange", "Whole apple", "Whole guava", "Packet fruit juice"], "Packet fruit juice", "The first three keep the pulp and fibre of the fruit; juice leaves them behind."]]}
 }

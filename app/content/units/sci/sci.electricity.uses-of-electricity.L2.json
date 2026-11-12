@@ -3,11 +3,11 @@
  "title": "Where we use electricity: from the wall and from cells",
  "level": 2,
  "summary": {
-  "text": "In a power cut, the fan, the lights and the fridge stop at once, but the torch and the wall clock keep going. The things that stop get mains electricity, which comes along wires from a power station to the socket in the wall. The things that keep going carry their own cells, small stores of electricity. Your child listens to the jobs electricity does at home, then tests old cells that the family thought were dead. Many cells that cannot light a torch still make a clock tick.",
+  "text": "In a power cut, the fan, the lights and the fridge stop at once, but the torch and the wall clock keep going. The things that stop get mains electricity, which comes along wires from a power station to the socket in the wall. The things that keep going carry their own cells, small stores of electricity. Your child listens to the appliances at home and names the job electricity does in each. Then they test old cells that the family thought were dead. Many cells that cannot light a torch still make a clock tick.",
   "art": "A flat at night in a power cut: a still ceiling fan and a dark TV on one side, and a girl holding a glowing torch under a ticking wall clock on the other."
  },
  "intro": {
-  "hook": "Imagine the power goes off on a hot evening. What stops working? What keeps going?",
+  "hook": "The power goes off on a hot evening. What stops working? What keeps going?",
   "text": "Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where wall electricity comes from, and you test how long a cell lasts.",
   "art": "A child at a dark window in a power cut, holding a torch, with the street lights outside also dark."
  },
@@ -75,7 +75,7 @@
    "concept": "Electricity does many jobs at home",
    "status": "defined",
    "definition": "Electricity is a kind of energy. Appliances change it into light, sound, heat, cold or movement.",
-   "description": "In the listening activity, you heard the fan whirr and the fridge hum. When the switch went off, the sound stopped. Electricity was doing a job in each one. A bulb changes electricity into light. A doorbell changes it into sound. An iron and a geyser change it into heat. A fridge uses it to make cold. A fan and a mixie use it to make movement. Some appliances do two jobs at once. A TV makes light and sound.",
+   "description": "In the Listen to the Electricity activity, you heard the fan whirr and the fridge hum. When the switch went off, the sound stopped. Electricity was doing a job in each one. A bulb changes electricity into light. A doorbell changes it into sound. An iron and a geyser change it into heat. A fridge uses it to make cold. A fan and a mixie use it to make movement. Some appliances do two jobs at once. A TV makes light and sound.",
    "examples": [
     "A tube light changes electricity into light.",
     "A mixie changes electricity into movement, so the blade spins and grinds the chutney.",
@@ -114,7 +114,7 @@
    "concept": "Living bodies use electricity too",
    "status": "debated",
    "definition": "Nerves in animals, including us, send messages as tiny electric signals. Plants also send electric signals through their bodies.",
-   "description": "Your body has no plug and no cell, but it uses electricity all the time. Tiny electric signals run along your nerves when you touch something. A tiny electric signal also starts every beat of your heart. The energy for these signals comes from the food you eat. Plants send electric signals too. Touch a touch-me-not plant, and a signal runs along her stalk. Her leaves fold within seconds. Scientists still argue about what this means.",
+   "description": "Your body has no plug and no cell, but it uses electricity all the time. Tiny electric signals run along your nerves when you touch something. A tiny electric signal also starts every beat of your heart. The energy for these signals comes from the food you eat. Plants send electric signals too. Touch a touch-me-not plant, and a signal runs along her stalk. Her leaves fold within seconds. Scientists still argue about whether the plant feels the touch.",
    "examples": [
     "A doctor's ECG machine shows the electric signals of a beating heart as a wavy line.",
     "A touch-me-not plant folds her leaves after a touch, and an electric signal runs along her stalk first.",
@@ -160,7 +160,7 @@
    "claim": "A cell is either new or dead. A dead cell has nothing left.",
    "who": "A common idea",
    "for": "A torch with old cells goes dark, so the cells seem empty.",
-   "against": "In the Tired Cell Test, many old cells that could not light the torch still made the clock tick. They still held some electricity, too little for the torch.",
+   "against": "In the Tired Cell Test, many old cells that could not light the torch still made the clock tick. They still held some electricity, but too little for the torch.",
    "status": "rejected",
    "context": "This card is about whether old cells are really empty."
   },
@@ -183,7 +183,7 @@
  ],
  "big_questions": [
   {
-   "q": "The clock ran on a cell that the torch could not use. Was that cell empty or not?",
+   "q": "In the Tired Cell Test, some cells could not light the torch but still ran the clock. Were those cells empty or not?",
    "kind": "deep",
    "hint": "Think about what the cell could still do, and what it could not."
   },
@@ -378,7 +378,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Put an old cell in the torch (two cells, if it takes two). 2. Point it at a wall and switch it on. 3. Mark a tick if it lights, a cross if not. 4. Do the same for the other cells. A pair shares one result.",
+     "do": "1. Put an old cell in the torch (two cells, if it takes two). 2. Point it at a wall and switch it on. 3. Mark a tick if it lights, a cross if not. 4. Do the same for the other cells. If you test two cells together, both get the same mark.",
      "say": "Put cell number 1 in the torch. Switch it on. Does it light the wall? Tick or cross?",
      "kid": "Put a cell in the torch. Switch it on. Does it light?",
      "ask": [
@@ -404,9 +404,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Count the ticks in each column. 2. Sort the cells into three groups. 3. Ask what your child found, and why. 4. Ask the check question.",
+     "do": "1. Count the ticks in each column. 2. Sort the cells into three groups: ran both, ran only the clock, ran nothing. 3. Ask what your child found, and why. 4. Ask the check question.",
      "say": "How many cells lit the torch? How many ran the clock? What did you find out? Why do you think that happened?",
-     "kid": "Count your ticks. Which ran more cells, the torch or the clock? Why?",
+     "kid": "Count your ticks. Which worked with more cells, the torch or the clock? Why?",
      "ask": [
       {
        "q": "Why did some cells run the clock but not the torch?",
@@ -416,7 +416,7 @@
        ]
       }
      ],
-     "parent": "Wait for your child's own claim and evidence. Then say it plainly: the old cells still held some electricity. The torch needs a lot every second, so it stopped. The clock needs very little, so it kept going. If every cell ran both, your cells were not so old. If none ran the clock, they were truly used up. Both are real results. Put the clock-only cells in a clock or a remote, and take the red ones to an e-waste box.",
+     "parent": "Wait for your child to say what they found and how they know. Then say it plainly: the old cells still held some electricity. The torch needs a lot every second, so it stopped. The clock needs very little, so it kept going. If every cell ran both, your cells were not so old. If none ran the clock, they were truly used up. Both are real results. Put the cells that ran only the clock in a clock or a remote. Take the cells that ran nothing to an e-waste box.",
      "check": {
       "t": "mcq",
       "q": "A cell cannot light the torch, but it makes the clock tick. What does that show?",
@@ -426,7 +426,7 @@
        "The clock makes its own electricity"
       ],
       "a": 0,
-      "why": "The clock only ticks if electricity flows from the cell. So the cell still had some, too little for the torch. 'Completely empty' is a common guess, but the clock shows it is not true."
+      "why": "The clock only ticks if electricity flows from the cell. So the cell still had some, but too little for the torch. 'Completely empty' is a common guess, but the clock shows it is not true."
      }
     }
    ]
@@ -438,7 +438,7 @@
    "days": 1,
    "context": "In this experiment you watch a phone's battery number. First the phone rests with its screen off. Then it plays a video with its torch on. A phone battery is a store of electricity that is filled from the wall.",
    "question": "Does a phone's battery go down faster when the phone is resting, or when it plays a video with its torch on?",
-   "predict": "Guess first. In which 8 minutes will the battery number drop more? Why do you think so?",
+   "predict": "Guess first. Will the battery number drop more in the 8 minutes of resting, or in the 8 minutes of video with the torch on? Why do you think so?",
    "fair_test": "We use the same phone, not charging, for both tests. Each test lasts exactly 8 minutes on a timer. We read the battery number at the start and at the end of each test.",
    "results_table": [
     "Test",
@@ -501,8 +501,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Find the battery number on the phone. 2. Show it to your child. 3. Ask for a guess and a reason.",
-     "say": "This number shows how full the phone's battery is. A hundred means full. Which test will make it drop more? Why?",
-     "kid": "This number shows how full the battery is. Which test will empty it faster?",
+     "say": "This number shows how full the phone's battery is. A hundred means full. Which will make it drop more: resting, or playing a video with the torch on? Why?",
+     "kid": "This number shows how full the battery is. Which will empty it faster: resting, or playing a video with the torch on?",
      "adult": true,
      "parent": "Take the phone off the charger first. On many phones you see the number by pulling down from the top of the screen or in the battery settings."
     },
@@ -510,7 +510,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Write the battery number. 2. Lock the phone and put it face down. 3. Set the timer for 8 minutes. 4. Write the number again.",
-     "say": "The phone is resting now. While we wait, let's draw what the phone is doing. Now read the number again.",
+     "say": "The phone is resting now. While we wait, let's draw what the phone is doing. After 8 minutes, read the number again.",
      "kid": "Write the number. Let the phone rest. Read it again after 8 minutes.",
      "parent": "Use the 8 minutes for the drawing, or play the Power Cut card game. The number may not move at all. That is a result too."
     },
@@ -708,7 +708,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Tell your child that the wires go back to a power station. 2. Name what power stations use: coal, falling water, wind or sunlight. 3. Your child draws the whole path.",
-     "say": "The wires go all the way back to a power station, often very far away. Some burn coal. Some use falling water, wind or sunlight. Draw the path.",
+     "say": "The wires go all the way back to a power station, often very far away. Some power stations burn coal. Some use falling water, wind or sunlight. Draw the path.",
      "kid": "Draw the path from the power station to your fan.",
      "check": {
       "t": "mcq",
@@ -790,7 +790,7 @@
       {
        "q": "Which old way did not need electricity at all?",
        "good": [
-        "The grinding stone, it needed only arms.",
+        "The grinding stone. It needed only arms.",
         "The hand fan.",
         "The clay pot kept water cool."
        ]
@@ -955,7 +955,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Play. When a Power Cut card comes up, ask everyone why their plug cards stopped.",
-     "say": "Power cut! Which of your cards stop working? Why do they stop, and the others keep going?",
+     "say": "Power cut! Which of your cards stop working? Why do they stop while the others keep going?",
      "kid": "Power cut! Which cards stop? Why?",
      "ask": [
       {
@@ -1186,7 +1186,7 @@
      "id": "s2",
      "mins": 15,
      "do": "Days 2 to 4: read the meter at the same time each evening. Take away yesterday's number. Talk about what was used.",
-     "say": "Today's number take away yesterday's number. That is how many units we used. What did we use a lot today?",
+     "say": "Take yesterday's number away from today's number. That is how many units we used. What did we use a lot today?",
      "kid": "Read the meter. How many units today? What did we use?",
      "adult": true,
      "parent": "Appliances that heat use the most: the geyser, the iron and the electric kettle. An air conditioner uses a lot too."
@@ -1256,7 +1256,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Switch off the room lights in the evening. Shine one torch at the table. Ask for ideas before showing any.",
-     "say": "The torch lights only one plate. How could we spread the light over the whole table, without the wall?",
+     "say": "The torch lights only one plate. How could we spread the light over the whole table, without using electricity from the wall?",
      "kid": "The torch lights one plate. How can you light them all?",
      "ask": [
       {
@@ -1395,7 +1395,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why does a torch work in a power cut when the fan does not?",
+     "p": "Why does a torch work in a power cut when the fan does not? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "The torch has its own cells inside. The fan gets electricity from the wall, and the wall has none in a power cut.",
      "why": "A strong answer says where each one gets its electricity: the torch from its cells, the fan from the wall."
@@ -1410,9 +1410,9 @@
     },
     {
      "t": "count",
-     "p": "In the Tired Cell Test, Revathi tried 6 old cells. 4 of them ran the clock. How many did not run the clock?",
+     "p": "In the Tired Cell Test, 6 old cells were tried in the clock. 4 of them ran the clock. How many did not run the clock?",
      "a": 2,
-     "why": "6 take away 4 is 2. So 2 cells ran nothing in the clock, and 4 still held some electricity.",
+     "why": "6 take away 4 is 2. So 2 cells did not run the clock, and 4 still held some electricity.",
      "how": "e1",
      "context": "This question is about the Tired Cell Test, where old cells are tried in a torch and in a wall clock."
     },
@@ -1630,9 +1630,9 @@
     },
     {
      "t": "write",
-     "p": "Neha says, 'Our torch went dark, so all its cells are completely empty.' How could she test whether she is right?",
+     "p": "A torch goes dark. Someone says, 'All its cells are completely empty.' How could you test whether that is right?",
      "lines": 3,
-     "a": "She could put the cells in a wall clock. If the clock ticks, the cells still hold a little electricity, too little for the torch.",
+     "a": "Put the cells in a wall clock. If the clock ticks, the cells still hold a little electricity, but too little for the torch.",
      "why": "A strong answer suggests a fair test with something that needs less electricity, like in the Tired Cell Test.",
      "how": "e1"
     },
@@ -1786,7 +1786,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Tired Cell Test, Gowri's old cell does not light the torch. What should she try next?",
+   "p": "In the Tired Cell Test, an old cell does not light the torch. What should you try next?",
    "opts": [
     "Put it in the clock to see if it ticks",
     "Open the cell to look inside",
@@ -1959,12 +1959,12 @@
    "why_maths": "Taking the smaller number from the bigger one shows how many more cells the clock could still use."
   },
   {
-   "problem": "In the listening activity, Shalini drew 2 things in the Light box, 1 in Sound, 2 in Heat, 1 in Cold and 4 in Movement. Which job did electricity do most in her home? Make a tally chart.",
+   "problem": "In the Listen to the Electricity activity, a child drew 2 things in the Light box, 1 in Sound, 2 in Heat, 1 in Cold and 4 in Movement. Which job did electricity do most in that home? Make a tally chart.",
    "answer": "Movement, with 4 things.",
-   "explain": "Make one tally mark for each thing. Movement has 4 marks, more than any other box. So in Shalini's home, electricity made movement most often.",
+   "explain": "Make one tally mark for each thing. Movement has 4 marks, more than any other box. So in that home, electricity made movement most often.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "a1",
-   "context": "This is about the listening activity, where a grown-up switched things off and you sorted them by their job.",
+   "context": "This is about the Listen to the Electricity activity, where a grown-up switched things off and you sorted them by their job.",
    "why_maths": "A tally chart shows at a glance which box has the most things."
   },
   {
@@ -1977,12 +1977,12 @@
    "why_maths": "Working out each drop lets us compare the two jobs fairly."
   },
   {
-   "problem": "A torch takes 2 cells. A toy car takes 4 cells. A wall clock takes 1 cell. Kalyani's family has one of each. How many cells do they need to fill all three?",
+   "problem": "A torch takes 2 cells. A toy car takes 4 cells. A wall clock takes 1 cell. A family has one of each. How many cells do they need to fill all three?",
    "answer": "7 cells.",
    "explain": "2 and 4 make 6. 6 and 1 more make 7. So the family needs 7 cells.",
    "math_unit": "math.addition-subtraction.number-facts.L2",
    "context": "This is about the cells in a home, the small stores of electricity that torches, toys and clocks carry.",
-   "why_maths": "Adding up the cells tells the family how many to buy, so they are not caught short in a power cut."
+   "why_maths": "Adding up the cells tells the family how many to buy, so they do not run out in a power cut."
   }
  ],
  "song": {
@@ -2046,16 +2046,16 @@
   }
  ],
  "roots": {
-  "context": "We have listened to the jobs electricity does, followed the wires back to the power station and tested old cells. Now we ask what the Tired Cell Test tells us about ourselves and the world.",
+  "context": "We have listened to the appliances at home and named the job electricity does in each. We have followed the wires back to the power station and tested old cells. Now we look at what the Tired Cell Test showed, and at where else electricity is at work: in our bodies, in plants and in the world.",
   "deep_truth": {
-   "truth": "The cells that could not light the torch still made the clock tick. They still held some electricity. A torch needs a lot of electricity each second, and a clock needs very little. So a cell runs down little by little, and stops a torch long before a clock.",
-   "habit": "We sort cells into two kinds, new or dead, as if a cell were full one day and empty the next. The test shows that a cell runs down slowly, and what it can still do depends on how much the job needs.",
+   "truth": "In the Tired Cell Test, the cells that could not light the torch still made the clock tick. They still held some electricity. A torch needs a lot of electricity each second, and a clock needs very little. So a cell runs down little by little, and stops a torch long before a clock.",
+   "habit": "We sort cells into two kinds, new or dead, as if a cell were full one day and empty the next. The Tired Cell Test shows that a cell runs down slowly, and what it can still do depends on how much the job needs.",
    "evidence": "In the Tired Cell Test, many old cells that gave no light in the torch still moved the clock's second hand."
   },
   "three": {
    "who_am_i": "You run on electricity too. Tiny electric signals carry messages along your nerves and start every beat of your heart, using energy from your food.",
    "what_is_life": "Every living being uses tiny electric signals. A touch-me-not plant sends one along her stalk when you touch her, and her leaves fold.",
-   "what_is_this_world": "The light in your room began far away: in a river behind a dam, in coal under the ground, in the wind or in sunshine on a solar panel."
+   "what_is_this_world": "The electricity for the light in your room began far away: in a river behind a dam, in coal under the ground, in the wind or in sunshine on a solar panel."
   },
   "thread": "A bulb's light, a fan's breeze and a fridge's cold seem very different. In your home, all of them are made from the same electricity, coming along the same wires. That electricity is made from falling water, coal, wind or sunlight. The Sun lifts water into clouds, coal is made from plants that grew in sunlight, and the Sun's heat makes the wind. So most of the electricity in your home began as sunlight.",
   "teachings": [
@@ -2091,9 +2091,9 @@
    "kid": "Sit still. Shut your eyes. Put your hand on your chest. Feel your heart beat. Each beat starts with a tiny electric signal. Count ten beats. Your breakfast is giving your heart its energy."
   },
   "ask": [
-   "The clock ran on a cell the torch could not use. Was that cell used up or not?",
+   "In the Tired Cell Test, some cells could not light the torch but still ran the clock. Were those cells used up or not?",
    "Your heart has no plug and no cell. Where does its electricity come from?",
-   "When the light in your room is on, where in the world did it begin?"
+   "The light in your room runs on electricity. Where in the world did that electricity begin?"
   ],
   "art": "A child sitting cross-legged with one hand on her chest, beside a wall clock and a torch, with a faint path of wires leading out of the window to a dam in the hills."
  },

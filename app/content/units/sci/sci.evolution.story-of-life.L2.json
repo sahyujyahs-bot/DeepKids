@@ -42,7 +42,7 @@
   {
    "term": "Fossil",
    "meaning": "The remains or the mark of a living being from long ago, kept in rock.",
-   "example": "A shell pressed into stone, or the layers a mat of tiny cells left behind, are fossils.",
+   "example": "A shell pressed into stone is a fossil. So are the layers that a mat of tiny cells left behind.",
    "art": "A grey rock with the shape of a spiral shell pressed into it."
   },
   {
@@ -53,8 +53,8 @@
   },
   {
    "term": "Ancestor",
-   "meaning": "Anyone you come from: a parent, a grandparent, a great-grandparent, and on and on, back and back.",
-   "example": "Your great-grandmother is your ancestor. So, very far back, were tiny cells in the sea.",
+   "meaning": "Anyone you come from: a parent, a grandparent, a great-grandparent, and everyone before them.",
+   "example": "Your great-grandmother is your ancestor. Very far back, tiny cells in the sea were your ancestors too.",
    "art": "A line of mothers, each one holding the hand of her own mother, fading back into a blue sea."
   },
   {
@@ -96,7 +96,7 @@
    "status": "defined",
    "context": "This card explains why scientists say life began in water, long ago.",
    "definition": "The chemicals of life move about, meet and react in water. So life began in water, more than 3.5 billion years ago, and every living being still needs water inside them.",
-   "description": "Inside every living cell, the chemicals of life are dissolved in water, like the powders in your bowl. There they meet and react all day long. That is how a cell grows, uses food and makes copies of itself. So scientists think life could only begin where there was liquid water. The oldest clear signs of life come from rocks that formed in shallow sea water about 3.5 billion years ago, in Australia. In 2006, the Australian scientist Abigail Allwood and her team showed that some of these rocks are stromatolites, built by mats of tiny cells. Your own cells are mostly water too. More than half of your body is water.",
+   "description": "Inside every living cell, the chemicals of life are dissolved in water, like the powders in the water bowl of the dry mix test. There they meet and react all day long. That is how a cell grows, uses food and makes copies of itself. So scientists think life could only begin where there was liquid water. The oldest clear signs of life come from rocks that formed in shallow sea water about 3.5 billion years ago, in Australia. In 2006, the Australian scientist Abigail Allwood and her team showed that some of these rocks are stromatolites, built by mats of tiny cells. Your own cells are mostly water too. More than half of your body is water.",
    "examples": [
     "The oldest stromatolites formed in shallow sea water about 3.5 billion years ago.",
     "A moong seed stays dry and still for months, and begins to grow only when water reaches the seed.",
@@ -171,7 +171,7 @@
    "concept": "One became many, very slowly",
    "status": "defined",
    "context": "This card explains how the first tiny cells became all the kinds of living beings, and how long that took.",
-   "definition": "Every living being comes from parents, and they came from theirs, back to the first cells. Over a very long time, small changes added up, and a few kinds became many kinds.",
+   "definition": "Every living being comes from parents. Those parents came from their own parents, all the way back to the first cells. Over a very long time, small changes added up, and a few kinds became many kinds.",
    "description": "Children are a little different from their parents. Over thousands and thousands of generations, these small differences add up. That is how new kinds of living beings come about. It is very slow. For most of life's story, all life was tiny cells in water. The first animals big enough to see appeared in the sea only about 575 million years ago. Plants grew onto land about 470 million years ago. Animals with four legs walked out of the water about 375 million years ago. Humans like us appeared only about 300,000 years ago, in Africa. The crow at your window, the coconut tree, the ant on the floor and you all come from those first cells. You are all very distant cousins.",
    "examples": [
     "The first animals big enough to see were soft, flat and lived in the sea.",
@@ -196,7 +196,7 @@
    "evidence": "Radioactive rocks act like clocks. In 1956, Clair Patterson measured lead in meteorites and found the Earth is about 4.5 billion years old."
   },
   {
-   "text": "Every living being today comes from those first cells.",
+   "text": "Every living being today comes from the first cells.",
    "evidence": "All living cells use the same kind of instructions, DNA and RNA, and build themselves from the same kinds of chemicals. Fossils in older and newer rocks show kinds changing over time."
   }
  ],
@@ -211,9 +211,9 @@
   },
   {
    "claim": "Life came to Earth from space.",
-   "who": "A few scientists, starting with the idea called panspermia",
+   "who": "A few scientists. Their idea is called panspermia.",
    "for": "Some meteorites carry chemicals that living things use. A meteorite that fell in Murchison, Australia, in 1969 held amino acids, which are building blocks of life.",
-   "against": "No living being has ever been found in a meteorite. And the idea only moves the question: how did life begin wherever it came from?",
+   "against": "No living being has ever been found in a meteorite. And the idea does not answer the question. We would still have to ask how life began in the place it came from.",
    "status": "minority",
    "context": "This card is about an unusual idea of where Earth's life came from."
   },
@@ -221,7 +221,7 @@
    "claim": "Humans came from monkeys.",
    "who": "A common mix-up",
    "for": "Humans and monkeys have many things in common, such as hands that grip, eyes at the front and a similar skeleton.",
-   "against": "Monkeys did not turn into humans. Humans and monkeys are cousins. They both come from the same ancestors, who lived millions of years ago and were neither of them.",
+   "against": "Monkeys did not turn into humans. Humans and monkeys are cousins. They both come from the same ancestors, who lived millions of years ago and were neither monkeys nor humans.",
    "status": "rejected",
    "context": "This card is about a mistake many people make about where humans come from."
   },
@@ -229,7 +229,7 @@
    "claim": "The Earth and its life are only a few thousand years old.",
    "who": "An old idea, held by many people in the past",
    "for": "Long ago, people worked out the age of the world from family lists and old stories.",
-   "against": "Rock clocks made by radioactivity show rocks billions of years old. Layers of rock and fossils took a very long time to build up.",
+   "against": "Radioactive rocks act like clocks, and they show that some rocks are billions of years old. Layers of rock and fossils took a very long time to build up.",
    "status": "rejected",
    "context": "This card is about how old people once thought the Earth was."
   }
@@ -243,15 +243,15 @@
   {
    "q": "If there had been no water on Earth, could life have begun at all?",
    "kind": "deep",
-   "hint": "Think about the dry bowl and the oil bowl in your test."
+   "hint": "Think about the dry bowl and the oil bowl in the dry mix test."
   },
   {
-   "q": "Far enough back, your great-great-great-grandmother was a tiny cell in water. Is a part of her still in you?",
+   "q": "Very far back, your ancestors were tiny cells in water. Is a part of them still in you?",
    "kind": "big",
    "hint": "Every one of your cells came from another cell. Think about where that chain goes back to."
   },
   {
-   "q": "Humans arrived in the last half hour of the Year of Life. Does arriving last make us less important, more important, or neither?",
+   "q": "On the Year of Life calendar, the whole story of the Earth is squeezed into one year. Humans arrive only in the last half hour. Does arriving last make us less important, more important, or neither?",
    "kind": "big",
    "hint": "Think about who lived on Earth before us, and who still lives here with us."
   },
@@ -266,7 +266,7 @@
   "story": "For a long time, many people thought the Earth was only a few thousand years old. In 1862, the famous scientist Lord Kelvin worked out how long a hot young Earth would take to cool down. He said it was between 20 and 400 million years old. Later he said only about 20 to 40 million. Charles Darwin was worried. He thought the many kinds of life needed far longer than that to come about. Then, in 1896, Henri Becquerel found that uranium gives off rays. Marie Curie named this radioactivity. Radioactive rock slowly turns into other materials, at a steady speed, like a clock. It also makes heat inside the Earth, which Kelvin did not know about. So his cooling sum was wrong. In 1911, a young British geologist, Arthur Holmes, used this rock clock and found rocks about 1.6 billion years old. In 1956, the American scientist Clair Patterson measured lead in meteorites, rocks that fell from space. He found that the Earth is about 4.5 billion years old. Scientists still use that age today.",
   "who": "Lord Kelvin, Henri Becquerel, Marie Curie, Arthur Holmes and Clair Patterson",
   "when": "1862 to 1956",
-  "wrong_idea": "That the Earth was young: first a few thousand years, then Kelvin's 20 to 40 million years. Kelvin did not know that radioactive rock heats the Earth. Rock clocks then showed rocks billions of years old, and Patterson's meteorites gave 4.5 billion years.",
+  "wrong_idea": "People thought the Earth was young: first a few thousand years old, then Kelvin's 20 to 40 million years. Kelvin did not know that radioactive rock heats the Earth. Later, rock clocks showed rocks billions of years old, and Patterson's meteorites showed that the Earth is about 4.5 billion years old.",
   "art": "Marie Curie in her lab with glass bottles, and beside her a cut rock and a dark meteorite on a table, with a clock face drawn on the rock."
  },
  "story": {
@@ -455,7 +455,7 @@
        "q": "What do you notice? What do you wonder?",
        "good": [
         "Nothing is happening.",
-        "The two powders look different. The crystals are bigger.",
+        "The two powders look different. One has bigger crystals.",
         "Why don't they do anything?"
        ]
       }
@@ -492,7 +492,7 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Drip 2 spoons of plain water slowly into the oil bowl. 2. Watch where the drops go. 3. Then let one drop of water fall on the dry bowl.",
-     "say": "Was the powder in the oil bowl spoiled? Let's drip water into it and see. Then we put one single drop on the dry bowl.",
+     "say": "Was the powder in the oil bowl spoiled? Let's drip water into it and see. Then let's put one drop of water on the dry bowl.",
      "kid": "Drip water into the oil bowl. Watch the drops sink. Then put one drop on the dry bowl. What happens?",
      "parent": "Water is heavier than oil, so the drops sink to the powder. Bubbles then rise up through the oil. On the dry bowl, the fizz happens only where the drop lands."
     },
@@ -535,7 +535,7 @@
    "context": "Life began in salty sea water, long ago. Moong plants live on land. In this experiment you find out whether moong seeds can sprout in water as salty as the sea.",
    "question": "Life began in the sea. Can moong seeds, from a plant that lives on land, sprout in water as salty as the sea?",
    "predict": "We will soak moong in plain water, in a little salty water, and in water as salty as the sea. In which cups do you think the moong will sprout? Why do you think so?",
-   "fair_test": "Each cup gets 10 whole moong, the same amount of water and the same place in the room. The only thing we change is how much salt is in the water. We count every seed, because one seed on their own could be a fluke.",
+   "fair_test": "Each cup gets 10 whole moong, the same amount of water and the same place in the room. The only thing we change is how much salt is in the water. We count every seed, because one seed alone could sprout or fail just by chance.",
    "results_table": [
     "Cup",
     "Water",
@@ -635,9 +635,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In the fourth cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three cups and cover them.",
+     "do": "1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In a fourth cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three labelled cups and cover them.",
      "say": "All life began in salty sea water, long ago. Moong plants live on land. Can their seeds sprout in sea water? What do you think? Why?",
-     "kid": "Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the a little cup. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.",
+     "kid": "Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the cup labelled a little. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.",
      "parent": "Use fresh moong, because very old seeds may not sprout even in plain water. The weak salty water is about one tenth as salty as the sea. The seeds should sit in the water, not deep under it, so they get air too. Add a spoon of the same water if a cup dries out. Keep the cups on a warm shelf: in a cold room, sprouting is slow in every cup, so wait one more day before you count.",
      "wait": "Leave the cups for one day"
     },
@@ -745,7 +745,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Colour the months from April to October in one colour: tiny cells only. 2. Count them together. 3. Ask what your child notices.",
+     "do": "1. Colour the months from April to October in one colour. These months had only tiny cells. 2. Count them together. 3. Ask what your child notices.",
      "say": "Let's colour every month that had only tiny cells, too small to see. How many months is that? What do you notice about December?",
      "kid": "Colour April to October. Count the months. Then look at December. What do you notice?",
      "ask": [
@@ -849,7 +849,7 @@
    "title": "Sea Cousins at the Fish Market (if your family buys fish or seafood)",
    "mins": 15,
    "days": 1,
-   "context": "Many kinds of living beings still live in the sea, where life began. In this activity you look closely at sea animals at a fish market or in your kitchen, and count the legs of a crab and find eyes.",
+   "context": "Many kinds of living beings still live in the sea, where life began. In this activity you look closely at sea animals at a fish market or in your kitchen. You count the legs of a crab and find the eyes.",
    "materials": [
     {
      "item": "a visit to a fish market, or seafood your family has bought, such as prawns, a crab, squid or a whole fish",
@@ -864,7 +864,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Look at sea animals at the market or in the kitchen. Count the kinds, and count the legs and find the eyes of two of them."
+     "what": "Look at sea animals at the market or in the kitchen. Count how many kinds you see. Then pick two animals, count their legs and find their eyes."
     }
    ],
    "record": "Draw two sea animals. Write how many legs the crab has and where the eyes are. Write how many different kinds you saw.",
@@ -969,7 +969,7 @@
     "Mix the cards. Deal 6 cards to each player, face down in a pile.",
     "Both players turn over their top card at the same time and read it aloud.",
     "Each player says which event they think happened first, and why.",
-    "Turn both cards over to check the dates on the back. The event that happened first, the older one, wins. Its player keeps both cards.",
+    "Turn both cards over to check the dates on the back. The event that happened first, the older one, wins. The player who turned over that card keeps both cards.",
     "Play until the piles run out. The player with the most cards wins. If you both have 6 cards, you both win."
    ],
    "setup": [
@@ -1071,7 +1071,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Give each player a katori with 1 chana. 2. Put a bowl of chana in the middle. 3. Read the rules together.",
-     "say": "This chana is a tiny cell in the old sea. When a cell gets food, they grow and split into two cells. Let's see how fast one becomes many.",
+     "say": "This chana is a tiny cell in the old sea. When a cell gets food, the cell grows and splits into two cells. Let's see how fast one becomes many.",
      "kid": "Your chana is one tiny cell. Food makes a cell split in two. Read the rules."
     },
     {
@@ -1191,7 +1191,7 @@
    "title": "Fizz Later: make the powder wait in water",
    "mins": 20,
    "context": "In the dry mix test, the powders fizzed as soon as water reached them. This challenge asks you to make a little packet that waits in water before it fizzes.",
-   "problem": "Make a small packet of the dry mix that you drop into a tumbler of water. It should wait as long as you can before it starts to fizz, and then it must still fizz. Aim for at least 5 seconds.",
+   "problem": "Make a small packet of the dry mix, which is baking soda and citric acid. Drop the packet into a tumbler of water. It should wait as long as possible before it starts to fizz, and then it must still fizz. Aim for at least 5 seconds.",
    "constraints": [
     "Use only half a spoon of baking soda and half a spoon of citric acid.",
     "Use only home things: tissue, paper, thread, a little cooking oil, sticky tape.",
@@ -1229,8 +1229,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Read the problem together. 2. Ask why the powders fizzed so fast in the test. 3. Ask for ideas before showing any.",
-     "say": "The powders fizzed the moment water reached them. How could we slow the water down, so the packet waits before it fizzes?",
+     "do": "1. Read the problem together. 2. Ask why the powders fizzed so fast in the dry mix test. 3. Ask for ideas before showing any.",
+     "say": "In the dry mix test, the powders fizzed the moment water reached them. How could we slow the water down, so the packet waits before it fizzes?",
      "kid": "The powders fizz when water reaches them. How can you slow the water down? Think of ideas."
     },
     {
@@ -1365,7 +1365,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl in Kochi, and her friend Farhan, a boy in Class 2, look at the oil bowl before any water was added.",
+     "p": "Lakshmi and Farhan look at the oil bowl in the dry mix test, before any water is added.",
      "views": [
       {
        "who": "Farhan",
@@ -1376,14 +1376,14 @@
        "says": "The powder is not spoiled. It just has no water."
       }
      ],
-     "ask": "Who do you agree with? Give one reason from your own test. Then say one thing the other person noticed that is true.",
+     "ask": "Who do you agree with? Give one reason from the dry mix test. Then say one thing the other person noticed that is true.",
      "lines": 3,
      "a": "A strong answer agrees with Lakshmi, because the powder fizzed under the oil once water reached it. It also says Farhan was right that nothing happened while there was only oil.",
-     "why": "The test answers this: water dripped into the oil bowl made it fizz. Farhan's observation was true, but his reason was not."
+     "why": "The dry mix test answers this: when water was dripped into the oil bowl, the powder fizzed. Farhan's observation was true, but his reason was not."
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: a moong seed can stay dry for months. What do you think a moong seed needs, to begin to grow?",
+     "p": "A moong seed can stay dry for months. What do you think a moong seed needs to begin to grow? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "Water. The seed is alive but waiting, and starts to grow when water reaches the seed.",
      "why": "A strong answer says the seed needs water to start growing, like the first cells needed water."
@@ -1500,7 +1500,7 @@
      "t": "truefalse",
      "p": "Humans and the big dinosaurs lived at the same time.",
      "a": false,
-     "why": "False. Most dinosaurs died out about 66 million years ago, on 26 December on the Year of Life. Humans came about 300,000 years ago, on the last night. Birds are the dinosaurs who lived on."
+     "why": "False. Most dinosaurs died out about 66 million years ago, on 26 December on the Year of Life. Humans came about 300,000 years ago, on the last night, 31 December. Birds are the dinosaurs who lived on."
     },
     {
      "t": "count",
@@ -1512,7 +1512,7 @@
     },
     {
      "t": "perspective",
-     "p": "Sneha, a girl in Pune, and her grandmother are talking about life on Earth.",
+     "p": "Sneha and her grandmother are talking about life on Earth.",
      "views": [
       {
        "who": "Sneha",
@@ -1586,7 +1586,7 @@
     },
     {
      "t": "perspective",
-     "p": "Divya, a girl in Madurai, and Rukhsana, a girl in Srinagar, are arguing about where life began.",
+     "p": "Divya and Rukhsana are arguing about where life began.",
      "views": [
       {
        "who": "Divya",
@@ -1618,11 +1618,11 @@
      "t": "truefalse",
      "p": "Monkeys slowly turned into humans.",
      "a": false,
-     "why": "False. Monkeys and humans are cousins. They both come from the same ancestors, who lived millions of years ago and were neither."
+     "why": "False. Monkeys and humans are cousins. They both come from the same ancestors, who lived millions of years ago and were neither monkeys nor humans."
     },
     {
      "t": "sort",
-     "p": "Predict: if you added each of these liquids to the dry mix, would it fizz or not? Sort them.",
+     "p": "If you added each of these liquids to the dry mix of baking soda and citric acid, would it fizz or not? Sort them.",
      "cats": [
       "Would fizz",
       "Would not fizz"
@@ -1686,7 +1686,7 @@
    "channel": "AsapSCIENCE",
    "youtube": "H2_6cqa2cP4",
    "mins": 2,
-   "why": "Shows the long history of life in a few minutes with pictures, so the child sees how late big animals come, humans among them. It does not use the year calendar, so match it to the Year of Life list yourself.",
+   "why": "Shows the long history of life in a few minutes with pictures, so the child sees how late big animals and humans come. It does not use the year calendar, so match it to the Year of Life list yourself.",
    "check": "Found by search: \"The Evolution of Life on Earth\" by AsapSCIENCE, 2 minutes, 20 seconds. A parent may preview it."
   },
   {
@@ -1812,7 +1812,7 @@
     "From rocks"
    ],
    "a": 0,
-   "why": "Every living being comes from parents, and they from theirs, all the way back to the first cells.",
+   "why": "Every living being comes from parents. Those parents had parents too, all the way back to the first cells.",
    "outcome": 5
   },
   {
@@ -1917,24 +1917,24 @@
   {
    "problem": "On the Year of Life calendar, the first signs of tiny cells come at the end of March. The first animals big enough to see come in the middle of November. Name the months in between, from April to October. How many months is that?",
    "answer": "April, May, June, July, August, September and October: 7 months. So for more than 7 months of the year, almost all life was tiny cells.",
-   "explain": "Count the months on your fingers, starting with April: 1, 2, 3, 4, 5, 6, 7. The ends of March and the start of November add a little more.",
+   "explain": "Count the months on your fingers, starting with April: 1, 2, 3, 4, 5, 6, 7. The last days of March and the first half of November add a little more.",
    "math_unit": "math.time.calendar.L2",
    "how": "a1",
    "context": "This question is about the Year of Life calendar, where the whole story of the Earth is squeezed into one year.",
    "why_maths": "Counting the months shows how long tiny cells had the Earth almost to themselves."
   },
   {
-   "problem": "In the splitting game, Lakshmi, a girl in Kochi, starts with 1 cell. Every time she rolls an even number, every cell splits in two. How many cells does she have after 1 split, 2 splits, 3 splits, 4 splits and 5 splits? What pattern do you see?",
+   "problem": "In the splitting game, you start with 1 cell. Every time you roll an even number, every cell splits in two. How many cells do you have after 1 split, 2 splits, 3 splits, 4 splits and 5 splits? What pattern do you see?",
    "answer": "2, 4, 8, 16 and 32. Each time, the number doubles.",
    "explain": "1 and 1 more is 2. 2 and 2 is 4. 4 and 4 is 8. 8 and 8 is 16. 16 and 16 is 32. Each number is the last one added to itself.",
    "math_unit": "math.patterns.number-patterns.L2",
    "how": "g2",
-   "context": "This question is about the splitting game, where each chana stands for one tiny cell that splits in two when they get food.",
+   "context": "This question is about the splitting game, where each chana stands for one tiny cell. The cell splits in two when the cell gets food.",
    "why_maths": "Spotting the doubling pattern lets you predict how fast one cell becomes many, without counting every chana."
   },
   {
-   "problem": "Nandini, a girl in Bengaluru, did the dry mix test in 3 bowls with water and 3 bowls with oil. Her tally of bowls that fizzed: water |||, oil none. Then she dripped water into the 3 oil bowls, and all of them fizzed. How many bowls fizzed in the end? What does that tell her?",
-   "answer": "6 bowls fizzed in the end: 3 and 3. It tells her the powder under the oil was ready all along. It only needed water.",
+   "problem": "Suppose you do the dry mix test in 3 bowls with water and 3 bowls with oil. Your tally of bowls that fizzed: water |||, oil none. Then you drip water into the 3 oil bowls, and all of them fizz. How many bowls fizzed in the end? What does that tell you?",
+   "answer": "6 bowls fizzed in the end: 3 and 3. It tells you the powder under the oil was ready all along. It only needed water.",
    "explain": "3 water bowls fizzed first. Then 3 more fizzed when water reached them. 3 + 3 = 6.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e1",
@@ -1942,13 +1942,13 @@
    "why_maths": "A tally before and after the water shows at a glance that only the water made a difference."
   },
   {
-   "problem": "In the sea water sprouts test, Bidisha, a girl in Kolkata, put 10 moong in plain water and 10 in sea-salty water. 9 sprouted in plain water and 1 sprouted in sea-salty water. How many more sprouted in plain water?",
+   "problem": "In the sea water sprouts test, 10 moong were put in plain water and 10 in sea-salty water. 9 sprouted in plain water and 1 sprouted in sea-salty water. How many more sprouted in plain water?",
    "answer": "8 more sprouted in plain water.",
-   "explain": "9 take away 1 is 8. The difference is big, so the salt clearly made a difference, not chance.",
+   "explain": "9 take away 1 is 8. The difference is big, so it was the salt that made the difference, not chance.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e2",
    "context": "This question is about the sea water sprouts test. You soaked moong in plain water, in a little salty water, and in water as salty as the sea.",
-   "why_maths": "Finding the difference shows how big the effect of the salt was, so we can tell whether it is a real result or a fluke."
+   "why_maths": "Finding the difference shows how big the effect of the salt was, so we can tell whether it is a real result or just chance."
   }
  ],
  "song": {
@@ -2085,14 +2085,14 @@
  "roots": {
   "context": "We found that dry powders change only when water lets them meet, and we squeezed the story of life into one year. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Dry soda and citric acid sat together and did nothing. A few drops of water made them fizz at once. Inside every cell, chemicals are dissolved in water, so they can meet and react. That is why scientists say life began in water, and why your cells are still mostly water.",
+   "truth": "In the dry mix test, dry baking soda and citric acid sat together and did nothing. A few drops of water made them fizz at once. Inside every cell, chemicals are dissolved in water, so they can meet and react. That is why scientists say life began in water, and why your cells are still mostly water.",
    "habit": "We think of water as something we drink, and of the sea as a faraway place. But water is where the chemistry of every living being happens. When plants and animals moved onto land, they took water with them, inside every cell.",
    "evidence": "In the dry mix test, the dry bowl and the oil bowl did not fizz. The water and sea water bowls fizzed at once, and the oil bowl fizzed as soon as water reached the powder. The oldest signs of life, stromatolites about 3.5 billion years old, formed in shallow sea water."
   },
   "three": {
    "who_am_i": "You are mostly water. Each of your cells keeps water inside, where your body's chemicals meet and react.",
    "what_is_life": "Life began as tiny cells in water. Everything alive today, from a crow to a coconut tree to you, comes from those first cells.",
-   "what_is_this_world": "The Earth was here a very long time before anything big enough to see lived on it. For most of the story, its life was tiny cells."
+   "what_is_this_world": "The Earth was here a very long time before anything big enough to see lived on it. For most of that time, almost all the life on Earth was tiny cells."
   },
   "thread": "Before life, the young Earth had rock, water and chemicals, and no living being anywhere. In the water, chemicals met and changed, again and again. Then came the first living cells, and from those few came every kind of being, first in the sea and later on land. Everything is conscious, the smallest cells too: tiny cells today sense food and swim towards it, and the first cells sensed their world as well. One beginning in water became all the life there is now.",
   "teachings": [
@@ -2133,9 +2133,9 @@
    "kid": "Pour a little water. Look at it. Take one slow sip. Feel it go down. Close your eyes. Breathe slowly three times. This water will soon be in your cells. Open your eyes."
   },
   "ask": [
-   "The powder waited for months in the packet. A seed waits too. What is the difference between them?",
-   "The water you just drank was once rain, and before that, sea. When does it become you?",
-   "Tiny cells had the Earth almost to themselves for most of the year. Whose world is the Earth?"
+   "Fruit salt powder can sit in a packet for months. A dry seed can sit for months too. What is the difference between them?",
+   "In One slow sip, you drank a little water. That water was once rain, and before that it was in the sea. When does the water become part of you?",
+   "On the Year of Life calendar, tiny cells had the Earth almost to themselves for most of the year. Whose world is the Earth?"
   ],
   "art": "A girl sipping water from a steel tumbler by a window, with a faint picture behind her of an old blue sea with domes of stromatolites."
  },
@@ -2159,5 +2159,5 @@
   ]
  },
  "playtest": "Walked through every experiment, game, activity, project and challenge as a parent and child would in a flat. Fixed the sea-water cup in the moong test (it got double water), the game rules (tie endings, a longer score sheet, no sketching 12 cards), the crab count, and the fizz-later challenge, which now says honestly that results differ. Removed repeated questions and a family assumption, and replaced one weak joke.",
- "warm": {"words": ["WATER", "CELLS", "OCEAN", "ROCKS", "FIRST"], "quiz": [["Dry baking soda and dry citric acid do not react until water lets them meet.", true, "Chemicals react when their tiny pieces meet, and water dissolves them so they can move and meet."], ["Scientists know exactly which water life began in.", false, "Scientists agree life began in water, but they do not agree on which water. Nobody has found out yet."], ["The first living beings were each one single tiny cell.", true, "A cell is the smallest living unit, and the first living beings were just one cell each."], ["Humans came from monkeys that slowly turned into people.", false, "Humans and monkeys are cousins. They come from the same ancestors who lived millions of years ago."], ["Every living being today comes from those first cells, through parents going far back in time.", true, "Every living being has parents, and they had parents, all the way back to the first cells."], ["The Earth and its life are only a few thousand years old.", false, "Rocks are billions of years old, and layers of rock with fossils took a very long time to build."], ["Living beings today still need water inside their bodies, as the first cells did.", true, "The chemicals of life move about, meet and react in water, so every living being still needs it."], ["Scientists have found living beings inside meteorites, so life came from space.", false, "No living being has been found in a meteorite, and the idea only moves the question to somewhere else."], ["Sugar seems to vanish in tea because it spreads out in pieces too small to see.", true, "Dissolving means spreading out into a liquid in pieces too small to see. The sugar is still there."], ["For most of life's story, most living beings were big animals and plants.", false, "For most of the story, almost all life was tiny cells. Big animals came very late."]], "odd": [[["Baking soda in water", "Sugar in tea", "Salt in water", "Stone in water"], "Stone in water", "The first three dissolve into pieces too small to see; a stone stays whole in water."], [["Bacterium", "Yeast", "Amoeba", "Elephant"], "Elephant", "The first three are a single cell; an elephant is made of a huge number of cells."], [["Grandmother", "Great-grandmother", "Mother", "Cousin"], "Cousin", "The first three are ancestors you come from; a cousin is a relative, but not someone you come from."], [["Fossil", "Stromatolite", "Footprint in old rock", "Fresh flower"], "Fresh flower", "The first three are marks of living beings from long ago kept in rock; a fresh flower is not."], [["Seed waiting to grow", "Dry spore", "Egg", "Dry baking soda"], "Dry baking soda", "The first three are living beings that wait and then grow; baking soda is a chemical, not alive."]]}
+ "warm": {"words": ["WATER", "CELLS", "OCEAN", "ROCKS", "FIRST"], "quiz": [["Dry baking soda and dry citric acid do not react until water lets them meet.", true, "Chemicals react when their tiny pieces meet, and water dissolves them so they can move and meet."], ["Scientists know exactly which water life began in.", false, "Scientists agree life began in water, but they do not agree on which water. Nobody has found out yet."], ["The first living beings were each one single tiny cell.", true, "A cell is the smallest living unit, and the first living beings were just one cell each."], ["Humans came from monkeys that slowly turned into people.", false, "Humans and monkeys are cousins. They come from the same ancestors who lived millions of years ago."], ["Every living being today comes from the first cells, through parents going far back in time.", true, "Every living being has parents, and they had parents, all the way back to the first cells."], ["The Earth and its life are only a few thousand years old.", false, "Rocks are billions of years old, and layers of rock with fossils took a very long time to build."], ["Living beings today still need water inside their bodies, as the first cells did.", true, "The chemicals of life move about, meet and react in water, so every living being still needs it."], ["Scientists have found living beings inside meteorites, so life came from space.", false, "No living being has been found in a meteorite. And the idea does not explain how life began in the place it came from."], ["Sugar seems to vanish in tea because it spreads out in pieces too small to see.", true, "Dissolving means spreading out into a liquid in pieces too small to see. The sugar is still there."], ["For most of life's story, most living beings were big animals and plants.", false, "For most of the story, almost all life was tiny cells. Big animals came very late."]], "odd": [[["Baking soda in water", "Sugar in tea", "Salt in water", "Stone in water"], "Stone in water", "The first three dissolve into pieces too small to see; a stone stays whole in water."], [["Bacterium", "Yeast", "Amoeba", "Elephant"], "Elephant", "The first three are a single cell; an elephant is made of a huge number of cells."], [["Grandmother", "Great-grandmother", "Mother", "Cousin"], "Cousin", "The first three are ancestors you come from; a cousin is a relative, but not someone you come from."], [["Fossil", "Stromatolite", "Footprint in old rock", "Fresh flower"], "Fresh flower", "The first three are marks of living beings from long ago kept in rock; a fresh flower is not."], [["Seed waiting to grow", "Dry spore", "Egg", "Dry baking soda"], "Dry baking soda", "The first three are living beings that wait and then grow; baking soda is a chemical, not alive."]]}
 }

@@ -95,7 +95,7 @@
    "concept": "Forces can be big or small",
    "status": "defined",
    "definition": "Some forces are big and some are small. A bigger force does a bigger job: it lifts a heavier thing, or pulls a thing down harder.",
-   "description": "The bag with two water bottles pulled hard on your fingers. The empty bag hardly pulled at all. Both pulls were forces, one big and one small. You can tell a big force from a small one by what it does. A big pull bends your fingers and makes your arm tired. A small pull you hardly notice. A rubber band stretches a lot for a big pull and only a little for a small one.",
+   "description": "In the Secret Packet test, the bag with two water bottles pulled hard on your fingers. The empty bag hardly pulled at all. Both pulls were forces, one big and one small. You can tell a big force from a small one by what it does. A big pull bends your fingers and makes your arm tired. You hardly notice a small pull. A rubber band stretches a lot for a big pull and only a little for a small one.",
    "examples": [
     "In the Secret Packet test, the bag with two bottles pulled much harder than the empty bag.",
     "Lifting a full pressure cooker needs a bigger pull than lifting a steel spoon.",
@@ -111,7 +111,7 @@
    "description": "When a bag pulls on your fingers, your skin is pressed and stretched. Tiny sensors in your skin notice this. Nerves then send the news up your arm to your brain. In the Secret Packet test, the packet pulled down by the same amount both times. In the empty bag, the packet was a big part of the whole pull, so you felt it. In the heavy bag, it was a tiny part, so you often missed it.",
    "examples": [
     "In the Secret Packet test, the packet is usually easy to feel in the empty bag.",
-    "In the heavy bag, you may get only about half your answers right, which is what guessing gives.",
+    "In the Secret Packet test, with the heavy bag you may get only about half your answers right. That is what guessing gives.",
     "You notice your school bag when you first put it on. After a while, you stop noticing it."
    ],
    "perspectives": [
@@ -121,7 +121,7 @@
     },
     {
      "who": "Another view",
-     "explanation": "Sensing happens all along the way. The nerve cells in your skin notice the pull themselves, and they fire less when a pull stays the same for a while. Your body as a whole feels the bag, not only your brain."
+     "explanation": "Sensing happens all along the way. The nerve cells in your skin notice the pull themselves, and they send fewer signals when a pull stays the same for a while. Your body as a whole feels the bag, not only your brain."
     }
    ],
    "art": "A close-up drawing of a fingertip with a hanky bundle pressing on it, and tiny dots in the skin lighting up."
@@ -153,8 +153,8 @@
   {
    "claim": "A careful hand can feel any extra weight, however small.",
    "who": "A common idea",
-   "for": "In the empty bag, the packet was easy to feel. It seems that paying attention is enough.",
-   "against": "In the heavy bag, the same packet was often missed, however hard the child tried. Ernst Weber found the same in the 1830s: the heavier the load, the bigger an extra must be to be noticed.",
+   "for": "In the Secret Packet test, the packet was easy to feel in the empty bag. So it seems that paying attention is enough.",
+   "against": "In the Secret Packet test, the same packet was often missed in the heavy bag, however hard the child tried. Ernst Weber found the same in the 1830s: the heavier the load, the bigger the extra weight must be before a person notices it.",
    "status": "rejected",
    "context": "This card is about how well our hands feel weight."
   },
@@ -170,7 +170,7 @@
    "claim": "Only beings with a brain can sense a push.",
    "who": "Many people",
    "for": "We feel a push through our nerves and brain, and so do other animals like dogs and crows.",
-   "against": "A touch-me-not plant has no brain, yet she senses a finger's touch and folds her leaves within seconds. A plant feels the touch. Some scientists say this is an automatic response, not a feeling.",
+   "against": "A touch-me-not plant has no brain, yet she senses a finger's touch and folds her leaves within seconds. So a plant can sense a touch without a brain. Some scientists say this is an automatic response, not a feeling.",
    "status": "debated",
    "context": "This card is about who can sense pushes and pulls."
   }
@@ -184,12 +184,12 @@
   {
    "q": "Could there be a force so small that nothing at all could notice it?",
    "kind": "deep",
-   "hint": "Your hand missed the packet, but a balance noticed it. Could something notice even smaller forces than a balance?"
+   "hint": "In the Secret Packet test, your hand missed the packet in the heavy bag, but a balance noticed it. Could something notice even smaller forces than a balance?"
   },
   {
    "q": "Is heaviness in the bag, or in your hand?",
    "kind": "big",
-   "hint": "The packet was the same both times. What changed was what your hand already held."
+   "hint": "In the Secret Packet test, the packet was the same in the empty bag and in the heavy bag. What changed was what your hand already held."
   },
   {
    "q": "You and a friend hold the same bag. You say it is heavy, and your friend says it is light. Who is right?",
@@ -232,8 +232,8 @@
    "'I know!' she said. 'My hand noticed the lemon when it was big next to what I was holding. In the heavy bag, it was too small to notice.'",
    "At home, she gave Kiran an empty steel tiffin box. 'Shut your eyes,' she said. She dropped in three coins. Kiran felt them at once.",
    "Then she filled the tiffin box with rice. She gave it back to him. Very gently, she laid three coins on top.",
-   "Kiran opened his eyes. 'Did you put it in yet?'",
-   "'It's already there,' said Sravani, and she showed him.",
+   "Kiran opened his eyes. 'Did you put them in yet?'",
+   "'They're already there,' said Sravani, and she showed him.",
    "'So my hands are bad at feeling,' said Kiran sadly.",
    "'No,' said Sravani. 'Your hands are good at feeling changes. A change is easy to feel when you are holding very little.'",
    "Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands hold heavy bags all day. The balance is fair to everyone.'"
@@ -408,17 +408,17 @@
        ]
       }
      ],
-     "parent": "Wait for your child's own claim and evidence first. Then say it plainly: the packet pulled down just as much both times. In the empty bag it was a big part of the pull, so the hand felt it. In the heavy bag it was a tiny part, so the hand missed it.",
+     "parent": "First let your child say what they found and why. Then say it plainly: the packet pulled down just as much both times. In the empty bag it was a big part of the pull, so the hand felt it. In the heavy bag it was a tiny part, so the hand missed it.",
      "check": {
       "t": "mcq",
-      "q": "Meera, a girl in Class 2, holds a bag with two bottles, with her eyes shut. A packet is slipped in and she cannot tell it is there. Was the packet still pulling the bag down?",
+      "q": "You hold a bag with two bottles in it, with your eyes shut. A packet is slipped in and you cannot tell it is there. Was the packet still pulling the bag down?",
       "options": [
        "Yes, just as much as in the empty bag",
        "No, the packet stopped pulling",
        "Only a little, because the bag was full"
       ],
       "a": 0,
-      "why": "The Earth pulls the packet down by the same amount wherever it is. The pull was there. Meera's hand missed it because the bag was already pulling hard."
+      "why": "The Earth pulls the packet down by the same amount wherever it is. The pull was there. Your hand missed it because the bag was already pulling hard."
      }
     }
    ]
@@ -429,7 +429,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this experiment you push down on a bathroom scale with one finger, one hand and two hands. The scale shows how big each push is as a number. You can do this only if your home has a bathroom scale.",
-   "question": "Which push is biggest: one finger, one hand or two hands? Is two hands twice as big as one hand?",
+   "question": "Which push is biggest: one finger, one hand or two hands? Do two hands push twice as hard as one hand?",
    "predict": "Guess first. Which push will show the biggest number? Will two hands show twice as much as one hand? Why do you think so?",
    "fair_test": "We use the same scale on the same floor every time. You kneel in the same place and push straight down. You hold each push steady for three seconds before we read the number, so the number can settle.",
    "results_table": [
@@ -493,8 +493,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the scale on a hard, flat floor. 2. Show how the number goes to zero with nothing on it. 3. Ask for guesses and reasons.",
-     "say": "This scale shows how hard something pushes on it. Which push will show the biggest number? Will two hands be twice one hand? Why?",
-     "kid": "Which push will be biggest? Will two hands be twice one hand? Why?",
+     "say": "This scale shows how hard something pushes on it. Which push will show the biggest number? Will two hands show twice as much as one hand? Why?",
+     "kid": "Which push will be biggest? Will two hands show twice as much as one hand? Why?",
      "parent": "Put the scale on a dry, flat, non-slip floor, and hold its edge with your foot so it does not slide. A digital scale may need a tap with your foot to switch on. Some will not show a number for a very small push. If the finger push shows zero, that is a result too. If the scale shows nothing at all, skip this experiment."
     },
     {
@@ -502,7 +502,7 @@
      "mins": 8,
      "do": "1. Your child kneels and pushes down with one finger as hard as they can, for three seconds. 2. Read the number. 3. Then one hand. 4. Then two hands. 5. Write each number.",
      "say": "Push with one finger, as hard as you can. Hold it. What does it say? Now one hand. Now two hands.",
-     "kid": "Push with one finger. Hold it. Read the number. Now one hand. Now two.",
+     "kid": "Push with one finger. Hold it. Read the number. Now one hand. Now two hands.",
      "ask": [
       {
        "q": "Which push was biggest?",
@@ -518,8 +518,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Compare the numbers. Ask whether two hands gave twice as much as one hand. Then ask the check question.",
-     "say": "Look at the numbers. Was two hands twice as big as one hand? Why do you think so?",
-     "kid": "Was two hands twice one hand? Why?",
+     "say": "Look at the numbers. Did two hands show twice as much as one hand? Why do you think so?",
+     "kid": "Did two hands show twice as much as one hand? Why?",
      "ask": [
       {
        "q": "Why might two hands not be twice as much?",
@@ -529,13 +529,13 @@
        ]
       }
      ],
-     "parent": "Two hands usually give a bigger number than one hand. Whether it is twice as much depends on how much of their body your child leans on their hands.",
+     "parent": "Two hands usually give a bigger number than one hand. Whether it is twice as much depends on how much of their body weight your child leans onto their hands.",
      "check": {
       "t": "mcq",
-      "q": "Fathima, a girl in Class 2, pushes a scale with one finger, then with her whole hand. Which shows the bigger number?",
+      "q": "You push a scale with one finger, then with your whole hand. Which shows the bigger number?",
       "options": [
-       "Her whole hand",
-       "Her one finger",
+       "Your whole hand",
+       "Your one finger",
        "Both the same"
       ],
       "a": 0,
@@ -588,7 +588,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Show the two columns. Do one example together: drop a steel spoon on a mat.",
+     "do": "Show the two columns: one for forces given by people and other animals, and one for forces given by other things. Do one example together: drop a steel spoon on a mat.",
      "say": "Every push and every pull is a force. Watch the spoon fall. Something pulled it down. Who gave that pull?",
      "kid": "Watch the spoon fall. What pulled it down?",
      "ask": [
@@ -658,7 +658,7 @@
      "what": "Feel pushes and pulls on your hand with your eyes shut, and name each one."
     }
    ],
-   "record": "Draw your hand with an arrow for one push and one pull you felt.",
+   "record": "Draw your hand. Add one arrow for a push you felt and one arrow for a pull you felt.",
    "setup": [
     {
      "art": "A girl with her eyes shut and her hand held out flat, and a grown-up gently pressing her palm with two fingers.",
@@ -1079,7 +1079,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "One question about the game.",
+     "say": "Here is one question about the game.",
      "kid": "Answer one question.",
      "check": {
       "t": "mcq",
@@ -1152,7 +1152,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Day 2: look out of a window or on a walk. Draw three more.",
+     "do": "Day 2: look for forces from a window or on a walk. Your child draws three more.",
      "say": "Look outside. Can you find a force that a person did not give?",
      "kid": "Look outside. Draw three forces. Can you find one not made by a person?",
      "ask": [
@@ -1168,7 +1168,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Day 3: draw three forces your child can feel but not see. Then count all nine.",
+     "do": "Day 3: your child draws three forces they can feel but not see. Then look at all nine drawings and count the big forces and the small ones.",
      "say": "Draw three forces you can feel but not see, like your school bag pulling on your shoulders. Now count the big ones and the small ones.",
      "kid": "Draw three forces you can feel. Count the big ones and the small ones.",
      "check": {
@@ -1192,7 +1192,7 @@
    "title": "Catch the Secret Packet: build a hanger balance",
    "mins": 20,
    "context": "This is a design challenge. In the Secret Packet test, your hand often missed the packet in the heavy bag. Can you build something that shows when the packet goes in?",
-   "problem": "Your hand could not tell when the rice packet went into a heavy bag. Build something that shows it every time, without using your hand to feel.",
+   "problem": "In the Secret Packet test, your hand could not tell when the rice packet went into the heavy bag. Build something that shows it every time, without using your hand to feel.",
    "constraints": [
     "Use only things from home.",
     "You may not look inside the bag to check.",
@@ -1200,10 +1200,10 @@
    ],
    "materials": [
     "a plastic clothes hanger",
-    "two same plastic carry bags or two same paper cups with string",
+    "two plastic carry bags of the same kind, or two paper cups of the same kind with string",
     "a door handle or a curtain rod to hang it from",
     "the secret packet from the Secret Packet test",
-    "a pencil and paper to mark where the hanger ends rest"
+    "a pencil and paper to mark where the two ends of the hanger rest"
    ],
    "general": [
     "Vegetable sellers use a two-pan balance: weights on one side, vegetables on the other.",
@@ -1211,7 +1211,7 @@
     "Doctors weigh babies on a scale, not by holding them."
    ],
    "creative": [
-    "Hang two same bags from the ends of a hanger, and mark where the ends rest on a paper behind it.",
+    "Hang two bags of the same kind from the ends of a hanger. Mark where the ends rest on a paper behind it.",
     "Hang a single bag from a rubber band, and mark how far it stretches.",
     "Sit the bag on a kitchen sponge and watch whether the sponge squashes a little more."
    ],
@@ -1231,8 +1231,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem. Ask for ideas before showing any.",
-     "say": "Your hand missed the packet in the heavy bag. What could you build that shows when it goes in?",
-     "kid": "Your hand missed the packet. What could you build to catch it?",
+     "say": "In the Secret Packet test, your hand missed the packet in the heavy bag. What could you build that shows when the packet goes in?",
+     "kid": "In the Secret Packet test, your hand missed the packet. What could you build to catch it?",
      "ask": [
       {
        "q": "What could you use?",
@@ -1261,7 +1261,7 @@
      "kid": "Did it catch the packet? With heavy bags too?",
      "check": {
       "t": "mcq",
-      "q": "Two same bags hang level on a hanger. You drop a packet into the left bag. What happens?",
+      "q": "Two bags of the same kind hang level on a hanger. You drop a packet into the left bag. What happens?",
       "options": [
        "The left side goes down",
        "The right side goes down",
@@ -1411,16 +1411,16 @@
      ],
      "ask": "Who is right? Say why, and a grown-up can write it down. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "Each is right about one bag. A hand feels a small change easily when it holds little, and misses it when it holds a lot. So hands are good at feeling changes compared with what they hold.",
+     "a": "Each is right about one bag. A hand feels a small change easily when it holds little, and misses it when it holds a lot. So a hand feels a change by comparing it with what it already holds.",
      "why": "A strong answer uses the results from both bags, and does not call either child simply wrong.",
      "how": "e1",
      "context": "This question is about the Secret Packet test. With your eyes shut, you hold a cloth bag while a grown-up sometimes slips in a small packet of rice. First the bag is empty, then it holds two full water bottles."
     },
     {
      "t": "count",
-     "p": "Rani did the force hunt at home. She found 4 pulls and 5 pushes. How many forces did she find?",
+     "p": "You did the force hunt at home. You found 4 pulls and 5 pushes. How many forces did you find?",
      "a": 9,
-     "why": "4 and 5 more make 9. Every push and every pull is a force, so she found 9 forces.",
+     "why": "4 and 5 more make 9. Every push and every pull is a force, so you found 9 forces.",
      "how": "a1"
     }
    ]
@@ -1486,7 +1486,7 @@
     },
     {
      "t": "write",
-     "p": "Ishita, a girl in Class 2, says: 'There are no forces in a still room.' Name two forces that are there right now. Say them out loud, and a grown-up can write them down.",
+     "p": "Someone says: 'There are no forces in a still room.' Name two forces that are there right now. Say them out loud, and a grown-up can write them down.",
      "lines": 3,
      "a": "The Earth is pulling everything down, like the cups on the shelf. The floor is pushing up on the chair. My clothes press on my skin.",
      "why": "A strong answer names real forces that act while nothing moves, such as the Earth's pull and a shelf or floor holding things up."
@@ -1542,7 +1542,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila, a girl in Class 2, pushes a bathroom scale with one finger, and it shows 2 kilograms. With one hand, it shows 8 kilograms. What might two hands show?",
+     "p": "You push a bathroom scale with one finger, and it shows 2 kilograms. With one hand, it shows 8 kilograms. What might two hands show?",
      "opts": [
       "Less than 2",
       "More than 8",
@@ -1582,7 +1582,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Guess: a bag with just one water bottle. Will the packet be easier or harder to feel than in the two-bottle bag? Why? Say it out loud, and a grown-up can write it down.",
+     "p": "Think of the Secret Packet test with just one water bottle in the bag. Would the packet be easier or harder to feel than in the bag with two bottles? Why? Say it out loud, and a grown-up can write it down.",
      "lines": 3,
      "a": "Easier, because the packet is a bigger part of what the hand holds when there is only one bottle.",
      "why": "A strong answer uses the idea that a hand compares a change with what it already holds.",
@@ -1617,7 +1617,7 @@
      ],
      "ask": "What do you think? Give one reason, and a grown-up can write it down. Then say what the other side has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, such as the leaves folding within seconds of the push. It also agrees that both sides say the plant sensed the push.",
+     "a": "A strong answer picks a side and gives a reason, such as the leaves folding within seconds of the push. It also notes that both sides agree the plant sensed the push.",
      "why": "Plants sense pushes and pulls. Whether to call this feeling is still argued about. A strong answer is fair to both sides."
     },
     {
@@ -1671,16 +1671,16 @@
     },
     {
      "t": "count",
-     "p": "Gita, a girl in Class 2, kept a Force Diary with 9 drawings. 4 of the forces were big. How many were small?",
+     "p": "Your Force Diary has 9 drawings. 4 of the forces were big. How many were small?",
      "a": 5,
-     "why": "9 take away 4 is 5. So 5 of her forces were small.",
+     "why": "9 take away 4 is 5. So 5 of the forces were small.",
      "how": "p1"
     },
     {
      "t": "write",
-     "p": "Radha did the Secret Packet test. She felt the packet in the heavy bag on her first try. Does that prove her hand can feel it? What should she do next? Say it out loud, and a grown-up can write it down.",
+     "p": "In the Secret Packet test, you feel the packet in the heavy bag on your first try. Does that prove your hand can feel it? What should you do next? Say it out loud, and a grown-up can write it down.",
      "lines": 3,
-     "a": "No. One right answer could be a lucky guess. She should try many more times and count how many she gets right.",
+     "a": "No. One right answer could be a lucky guess. You should try many more times and count how many you get right.",
      "why": "A strong answer says that one try can be luck, and that more tries show the real pattern."
     }
    ]
@@ -1708,7 +1708,7 @@
     "Nothing"
    ],
    "a": 0,
-   "why": "The wind pushes the kite up. Choosing 'nothing' may mean thinking a force must be seen. Look at what the kite does instead.",
+   "why": "The wind pushes the kite up. If you chose 'nothing', you may think a force must be seen. Look at what the kite does instead.",
    "outcome": 1
   },
   {
@@ -1749,27 +1749,27 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Class 2, shuts her eyes and holds an empty cloth bag. A grown-up slips in a small rice packet. What will most likely happen?",
+   "p": "You shut your eyes and hold an empty cloth bag. A grown-up slips in a small rice packet. What will most likely happen?",
    "opts": [
-    "Lakshmi feels it",
-    "Lakshmi feels nothing",
+    "You feel it",
+    "You feel nothing",
     "The bag feels lighter"
    ],
    "a": 0,
-   "why": "The packet is a big part of what Lakshmi holds, so her hand notices the extra pull.",
+   "why": "The packet is a big part of what you hold, so your hand notices the extra pull.",
    "outcome": 4,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "Now Lakshmi holds the bag with two full water bottles in it. The same packet goes in. What will most likely happen?",
+   "p": "You shut your eyes and hold a cloth bag with two full water bottles in it. A grown-up slips in a small rice packet. What will most likely happen?",
    "opts": [
-    "She often cannot tell",
-    "She feels it every time",
+    "You often cannot tell",
+    "You feel it every time",
     "The bag falls"
    ],
    "a": 0,
-   "why": "The packet is now a tiny part of what she holds, so her hand often misses it. Choosing 'every time' may mean thinking a hand feels any small extra.",
+   "why": "The packet is a tiny part of what you hold, so your hand often misses it. If you chose 'every time', you may think a hand feels any small extra weight.",
    "outcome": 5,
    "how": "e1"
   },
@@ -1799,10 +1799,10 @@
   },
   {
    "t": "mcq",
-   "p": "Diya, a girl in Class 2, pushes a swing, and a crow pulls a twig from a broom. Which of these is a force?",
+   "p": "A child pushes a swing, and a crow pulls a twig from a broom. Which of these is a force?",
    "opts": [
     "Both of them",
-    "Only Diya's push",
+    "Only the child's push",
     "Only the crow's pull"
    ],
    "a": 0,
@@ -1816,7 +1816,7 @@
    "channel": "Next Generation Science",
    "youtube": "O1KJ2AqWxqE",
    "mins": 2,
-   "why": "Shows the balance from the story: the pans hang level when the weights match.",
+   "why": "Shows a balance like the one in the story, The Lemon in the Bag: the pans hang level when the weights match.",
    "check": "Found by search: \"Measuring and Comparing Masses Using a Simple Balance\" by Next Generation Science, 1 minute 50 seconds. A parent may preview it."
   },
   {
@@ -1824,7 +1824,7 @@
    "channel": "NDTV",
    "youtube": "csLSpsORrsg",
    "mins": 3,
-   "why": "Shows a huge pull made by many people on ropes, a force everyone can see the effect of.",
+   "why": "Shows many people pulling on ropes together to make one huge pull. Everyone can see what that force does.",
    "check": "Found by search: \"Puri Rath Yatra 2026: Lakhs Brave Rain to Pull Lord Jagannath's Chariot\" by NDTV, 2 minutes 56 seconds. A parent may preview it."
   },
   {
@@ -1921,7 +1921,7 @@
  ],
  "maths": [
   {
-   "problem": "Lakshmi, a girl in Class 2, did the Secret Packet test. She got 5 right out of 6 with the empty bag. With the heavy bag, she got 3 right. How many more did she get right with the empty bag?",
+   "problem": "In the Secret Packet test, you got 5 right out of 6 with the empty bag. With the heavy bag, you got 3 right. How many more did you get right with the empty bag?",
    "answer": "2 more.",
    "explain": "Count on from 3 to 5: 4, 5. That is 2 more. So the empty bag was easier by 2 right answers.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -1939,18 +1939,18 @@
    "why_maths": "Knowing what guessing gives helps you tell whether your hand really felt the packet."
   },
   {
-   "problem": "Farhan, a boy in Class 2, did the force hunt at home. He found 5 forces given by people and 7 forces given by other things, like the wind and the Earth. Make a tally of each. Which group has more, and by how many?",
+   "problem": "In the force hunt at home, you found 5 forces given by people and 7 forces given by other things, like the wind and the Earth. Make a tally of each. Which group has more, and by how many?",
    "answer": "Other things, by 2.",
-   "explain": "The tally shows 5 marks for people and 7 for other things. 7 is more than 5. 7 take away 5 is 2. So other givers gave 2 more forces.",
+   "explain": "The tally shows 5 marks for people and 7 for other things. 7 is more than 5. 7 take away 5 is 2. So other things gave 2 more forces.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "a1",
    "context": "This is about the force hunt, where you found forces at home and sorted them by who gave them.",
    "why_maths": "A tally lets you compare two groups at a glance."
   },
   {
-   "problem": "Sana, a girl in Class 2, pushed a bathroom scale with one hand, and it showed 6 kilograms. With two hands, it showed 10 kilograms. Is 10 double 6?",
+   "problem": "You pushed a bathroom scale with one hand, and it showed 6 kilograms. With two hands, it showed 10 kilograms. Is 10 double 6?",
    "answer": "No. Double 6 is 12, and 10 is 2 less.",
-   "explain": "Double means two lots of the same. 6 and 6 make 12. Sana's two hands gave 10, which is less than 12. So two hands gave more than one hand, but not double.",
+   "explain": "Double means two lots of the same. 6 and 6 make 12. Your two hands gave 10, which is less than 12. So two hands gave more than one hand, but not double.",
    "math_unit": "math.addition-subtraction.mental-strategies.L2",
    "how": "e2",
    "context": "This is about Push the Scale, where you pushed a bathroom scale with a finger, one hand and two hands.",
@@ -2018,28 +2018,28 @@
   }
  ],
  "roots": {
-  "context": "We have hunted for forces, felt pushes with our eyes shut and tried to catch a secret packet. Now we ask what the packet test tells us about ourselves and the world.",
+  "context": "We hunted for forces at home, felt pushes and pulls with our eyes shut, and did the Secret Packet test. Now we ask what the Secret Packet test tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "With eyes shut, you felt the packet land in the empty bag. In the bag with two bottles, the same packet was often missed. The packet pulled on your hand just as much both times. So your hand feels a change in a pull by comparing it with what it already holds.",
-   "habit": "We trust our hands to tell us how heavy things are, the way a scale does. The packet test shows that a hand judges a change by comparing it with what it already holds.",
-   "evidence": "In this test the packet is usually easy to feel in the empty bag. With the heavy bag, results often fall to about half right, which is what guessing gives. A balance can show the packet that the hand misses."
+   "truth": "In the Secret Packet test, with your eyes shut, you felt the packet go into the empty bag. In the bag with two bottles, you often missed the same packet. The packet pulled on your hand just as much both times. So your hand feels a change in a pull by comparing it with what it already holds.",
+   "habit": "We trust our hands to tell us how heavy things are, the way a scale does. The Secret Packet test shows that a hand judges a change by comparing it with what it already holds.",
+   "evidence": "In the Secret Packet test, the packet is usually easy to feel in the empty bag. With the heavy bag, results often fall to about half right, which is what guessing gives. A balance can show the packet that the hand misses."
   },
   "three": {
-   "who_am_i": "You are a force-feeler. Your skin, nerves and brain notice pushes and pulls on you, and compare them with what came before.",
+   "who_am_i": "You are someone who feels forces. Your skin, nerves and brain notice pushes and pulls on you, and compare them with what came before.",
    "what_is_life": "Every living being senses pushes and pulls. A touch-me-not plant folds her leaves at a touch, and a spider feels a fly tugging at her web.",
    "what_is_this_world": "The world is full of forces we cannot see: the Earth's pull, the wind's push and the floor holding us up."
   },
-  "thread": "A kick, the wind, a magnet and the Earth's pull look like many different things. Scientists give them all one name, force, and trace them back to just a few basic forces of nature. Every force is a meeting: something gives it, and something gets it. Feeling a force is a meeting too. Your skin and nerves also notice and compare, before the brain gets the news. Many scientists say that feeling happens only in the brain, and that nerves just carry messages.",
+  "thread": "A kick, the wind, a magnet and the Earth's pull look like very different things. Scientists give them all one name, force, and trace them back to just a few basic forces of nature. Every force is between two things: one gives it, and the other gets it. Feeling a force also takes two: the thing that pushes or pulls, and the body that notices it. One view is that your skin and nerves already notice and compare, before the brain gets the news. Many scientists say instead that feeling happens only in the brain, and that nerves just carry messages.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that when the senses touch things, they bring cold and heat, pleasure and pain. These feelings come and go, and they do not last. Bear them calmly.",
-    "link": "In the packet test, the same packet was felt once and missed once. A feeling is a meeting between you and a thing, and it changes with the moment."
+    "link": "In the Secret Packet test, the same packet was felt in the empty bag and missed in the heavy bag. A feeling depends on both you and the thing, so it changes from one moment to the next."
    },
    {
     "source": "Samyutta Nikaya 12.1 (a Buddhist text)",
-    "teaching": "The Buddha taught that feeling arises from contact. With contact as its condition, feeling comes.",
-    "link": "The packet's pull reached your hand only through contact with the bag. Whether you felt it also depended on what your hand already held."
+    "teaching": "The Buddha taught that feeling comes from contact. A feeling arises only when there is contact.",
+    "link": "In the Secret Packet test, the packet's pull reached your hand only through contact with the bag. Whether you felt it also depended on what your hand already held."
    }
   ],
   "science": [
@@ -2063,7 +2063,7 @@
    "kid": "Sit still. Shut your eyes. Feel the floor push up. Feel your hands on your knees. Feel your clothes. Hold one hand out. Feel it pulled down. Which force had you forgotten?"
   },
   "ask": [
-   "Your hand missed the packet in the heavy bag. Was the packet's pull still there?",
+   "In the Secret Packet test, your hand missed the packet in the heavy bag. Was the packet's pull still there?",
    "Is the heaviness of a bag in the bag, or in your hand?",
    "Which forces on you right now have you stopped noticing?"
   ],

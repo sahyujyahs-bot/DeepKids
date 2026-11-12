@@ -24,7 +24,7 @@
   {
    "term": "Inherit",
    "meaning": "To inherit a feature is to get it from your parents, through their genes. It starts before you are born.",
-   "example": "Revathi inherited her curly hair from her family.",
+   "example": "A child with curly hair may have inherited it from her family.",
    "art": "A mother and a daughter side by side, both with the same curly hair."
   },
   {
@@ -42,7 +42,7 @@
   {
    "term": "Learn",
    "meaning": "To learn is to come to know something, or to be able to do something, by trying, watching or being taught.",
-   "example": "Farhana learned Tamil from her friends at school.",
+   "example": "A child can learn Tamil from friends at school.",
    "art": "Two girls talking and laughing at a school gate."
   },
   {
@@ -54,7 +54,7 @@
   {
    "term": "Practise",
    "meaning": "To practise is to do something again and again, so that you get better at it.",
-   "example": "Meera practised her kolam every morning for a week.",
+   "example": "Drawing a kolam every morning for a week is practising.",
    "art": "A row of seven small kolam drawings on paper, the first wobbly and the last neat."
   }
  ],
@@ -77,7 +77,7 @@
    "concept": "Skills we learn",
    "status": "defined",
    "definition": "A learned skill is something you can do because you practised it, or because someone showed you how.",
-   "description": "Nobody is born riding a cycle, speaking Telugu or drawing a kolam. You learn these by watching, trying, and trying again. Each try changes you a little, and the connections between the cells in your brain change too. Eleanor Maguire, a scientist in London, found that taxi drivers who had learned thousands of streets had a bigger part of the brain that helps with finding the way. In the Practice Test, your throws got better in just five minutes.",
+   "description": "Nobody is born riding a cycle, speaking Telugu or drawing a kolam. You learn these by watching, trying, and trying again. Each try changes you a little, and the connections between the cells in your brain change too. Eleanor Maguire, a scientist in London, studied taxi drivers who had learned thousands of streets. The part of the brain that helps with finding the way was bigger in them. In the Practice Test, your throws got better in just five minutes.",
    "examples": [
     "A girl in Pune learns to ride a cycle while her sister holds the seat.",
     "A boy in Kochi learns to swim in a pool with a teacher.",
@@ -91,7 +91,7 @@
    "concept": "Many things are a bit of both",
    "status": "defined",
    "definition": "Many features come from genes and also from the life a being lives.",
-   "description": "Height is a good example. Genes from both parents set about how tall a child can grow. Good food, sleep and health help the child reach that height. Language is another example. Every baby is born able to learn any language. Janet Werker, a scientist in Canada, found that babies of 6 to 8 months can hear the difference between sounds that are used in Hindi, Tamil and Telugu. By 10 to 12 months, babies from English-speaking homes mostly cannot. Their ears have tuned in to the language around them.",
+   "description": "Height is a good example. Genes from both parents set roughly how tall a child can grow. Good food, sleep and health help the child reach that height. Language is another example. Every baby is born able to learn any language. Janet Werker, a scientist in Canada, found that babies of 6 to 8 months can hear the difference between sounds that are used in Hindi, Tamil and Telugu. By 10 to 12 months, most babies from English-speaking homes no longer can. Their ears have tuned in to the language around them.",
    "examples": [
     "Two bean plants from the same packet grow to different heights if one sits in the sun and one in a dark corner.",
     "A child with tall parents grows taller with good food than with too little food.",
@@ -151,7 +151,7 @@
   },
   {
    "text": "Practice changes the body, and also the brain.",
-   "evidence": "Eleanor Maguire found that London taxi drivers who learned thousands of streets had a bigger part of the brain that helps with finding the way. Muscles grow stronger with use.",
+   "evidence": "Eleanor Maguire studied London taxi drivers who had learned thousands of streets. The part of the brain that helps with finding the way was bigger in them. Muscles also grow stronger with use.",
    "context": "This card is about what scientists agree on: practice changes the one who practises."
   }
  ],
@@ -200,7 +200,7 @@
   {
    "q": "A baby can hear the sounds of every language. Most grown-ups cannot. What happens in between?",
    "kind": "deep",
-   "hint": "Remember Janet Werker's babies, and the two 't' sounds."
+   "hint": "Janet Werker found that babies of 6 to 8 months could tell two Hindi 't' sounds apart. By 10 to 12 months, most could not. Their ears had tuned in to the language around them."
   }
  ],
  "story": {
@@ -278,7 +278,7 @@
       },
       {
        "f": "Being tall",
-       "b": "Both. Genes set about how tall you can grow. Good food and health help you get there."
+       "b": "Both. Genes set roughly how tall you can grow. Good food and health help you get there."
       },
       {
        "f": "Swimming",
@@ -360,13 +360,13 @@
      "mins": 3,
      "do": "1. Cut out the 16 cards. 2. Lay the three mats on the floor. 3. Read the rules aloud.",
      "say": "Some things about us come from our parents' genes. Some we learn. Some are a bit of both. Let us sort these cards and see.",
-     "kid": "Look at the three mats. Born with it. Learned it. Both."
+     "kid": "Look at the three mats. They are Born with it, Learned it, and Both."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Take turns with the cards. 2. Ask for a reason each time. 3. Turn the card over to check. 4. Give 1 point for a right answer.",
-     "say": "Speaking Telugu. Which mat? Why do you think so? Now turn it over and check.",
+     "say": "This card says Speaking Telugu. Which mat does it go on? Why do you think so? Now turn it over and check.",
      "kid": "Read the card. Pick a mat. Say why. Turn it over.",
      "ask": [
       {
@@ -432,7 +432,7 @@
    "rules": [
     "Mix the 16 cards and lay them face down in 4 rows of 4.",
     "On your turn, turn over two cards and read them aloud.",
-    "If the two cards belong together, one showing a skill and one saying how that same skill was learned, you keep the pair and have another turn.",
+    "If one card shows a skill and the other says how that same skill was learned, they are a pair. Keep the pair and take another turn.",
     "If not, turn them face down again. The next player has a turn.",
     "When all 8 pairs are found, the player with the most pairs wins. If you tie, you all win."
    ],
@@ -452,7 +452,7 @@
      "mins": 2,
      "do": "1. Cut out the 16 cards. 2. Mix them and lay them face down in 4 rows of 4.",
      "say": "Each skill card has a partner card that says how the skill was learned. Let us find the pairs.",
-     "kid": "Lay the cards face down. Find a skill and how it was learned."
+     "kid": "Lay the cards face down. Then find the pairs: a skill, and how it was learned."
     },
     {
      "id": "s2",
@@ -531,7 +531,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Measure the thumb. Throw 10. Practise for five minutes. Throw 10 again. Measure the thumb again. Compare."
+     "what": "Guess what will change. Measure your thumb. Throw 10 balls at the bucket. Practise for five minutes. Then throw 10 balls again, measure your thumb again, and compare."
     }
    ],
    "record": "Fill in the table for Round 1 and Round 2. Stick the thumb strip under the table.",
@@ -593,15 +593,15 @@
      "mins": 4,
      "do": "1. Your child uses the hand they do not write with. They lay the strip along that thumb, with the end of the strip level with the tip of the thumb. 2. You make a small pencil mark on the strip at the crease where the thumb joins the hand. 3. Write 'before' next to the mark.",
      "say": "Lay the strip along your thumb, from the tip to the line where your thumb joins your hand. Hold still while I mark it.",
-     "kid": "Lay the strip on your thumb. Hold still. We mark where it ends.",
+     "kid": "Lay the strip on your thumb. Hold still. We mark where your thumb joins your hand.",
      "parent": "Always measure from the same place, the tip of the thumb to the crease at the base. That keeps the test fair."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Put the bucket two big steps away from the chappal line. 2. Your child throws 10 times with the hand they do not write with. 3. Count the balls that land in and stay in. 4. Pick up the balls after every three throws. 5. Write the number in the table as Round 1.",
+     "do": "1. Put the bucket two big steps away from the line marked by the chappal. 2. Your child throws 10 times with the hand they do not write with. 3. Count the balls that land in and stay in. 4. Pick up the balls after every three throws. 5. Write the number in the table as Round 1.",
      "say": "Stand behind the line. Use the hand you do not write with. Throw 10 times. I will count how many go in.",
-     "kid": "Stand at the line. Use your other hand. Throw 10 times. Count with me.",
+     "kid": "Stand at the line. Use the hand you do not write with. Throw 10 times. Count with me.",
      "parent": "We use the hand your child does not write with, so there is lots of room to get better."
     },
     {
@@ -636,7 +636,7 @@
        "Nothing changed at all"
       ],
       "a": 0,
-      "why": "Practice changes a skill, like throwing. It does not change a body feature, like the length of your thumb, which grew from genes."
+      "why": "Practice changes a skill, like throwing. It does not change a body feature, like the length of your thumb. That comes from genes."
      },
      "parent": "If the number did not go up, that can happen in one short session. Practise again tomorrow for five minutes and test again. Scores usually rise with more practice. The new thumb mark should be in the same place, or within the width of a pencil line. A tiny difference comes from measuring, not from growing."
     },
@@ -740,7 +740,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Ask a grown-up about the day you were born. Make a chart of born-able and learned-later."
+     "what": "Ask a grown-up about the day you were born. Make a chart with two columns: Born able to, and Learned later."
     }
    ],
    "record": "A chart with two columns: Born able to, and Learned later. Draw one picture in each column.",
@@ -936,7 +936,7 @@
      "id": "s2",
      "mins": 4,
      "do": "On days 2 to 6, your child draws the same kolam once. Count the breaks and write them down.",
-     "say": "Day 3. Same kolam. Go slowly and evenly. How many breaks today?",
+     "say": "Today you draw the same kolam again. Go slowly and evenly. How many breaks are there today?",
      "kid": "Draw the same kolam. Count the breaks. Write the number.",
      "wait": "Come back every day until day 7."
     },
@@ -1124,7 +1124,7 @@
     },
     {
      "t": "perspective",
-     "p": "Mala, a girl in Class 2, and her brother Rohan listen to their aunt sing Carnatic music.",
+     "p": "Mala and her brother Rohan listen to their aunt sing Carnatic music.",
      "views": [
       {
        "who": "Mala, aged 7",
@@ -1141,14 +1141,14 @@
     },
     {
      "t": "label",
-     "p": "Here is Lakshmi, a girl in Class 2. Draw a ring round two things she inherited. Draw a box round two things she learned.",
+     "p": "Look at the girl in the picture. Draw a ring round two things she inherited. Draw a box round two things she learned.",
      "a": "Rings round her curly hair and her dimple. Boxes round the veena she is playing and the Tamil book she is reading.",
      "why": "Hair shape and a dimple come from genes. Playing the veena and reading are skills she learned.",
      "art": "A girl with curly hair and a dimple, playing a veena, with a Tamil storybook open beside her."
     },
     {
      "t": "count",
-     "p": "Kamala, a girl in Class 2, asked 5 relatives who taught them a skill. 3 said a parent. The others said a teacher or a friend. How many did not learn from a parent?",
+     "p": "5 relatives were asked who taught them a skill. 3 said a parent. The others said a teacher or a friend. How many did not learn from a parent?",
      "a": "2",
      "why": "5 take away 3 leaves 2. So 2 people learned from someone who was not a parent.",
      "how": "a1"
@@ -1193,10 +1193,10 @@
     },
     {
      "t": "write",
-     "p": "Say it to a grown-up, who writes it down. Priya, a girl in Class 2, has an Amma who is a wonderful cook. Was Priya born able to make rasam? What will she need to do?",
+     "p": "Say it to a grown-up, who writes it down. A girl's Amma is a wonderful cook. Was the girl born able to make rasam? What will she need to do?",
      "lines": 2,
-     "a": "No. Priya will need someone to show her, and she will need to practise many times.",
-     "why": "A strong answer says cooking is a skill, so Priya must learn it. Her Amma can teach her."
+     "a": "No. She will need someone to show her, and she will need to practise many times.",
+     "why": "A strong answer says cooking is a skill, so the girl must learn it. Her Amma can teach her."
     },
     {
      "t": "mcq",
@@ -1211,7 +1211,7 @@
     },
     {
      "t": "perspective",
-     "p": "Deepa and Grace, two girls in Mumbai, are talking about Deepa's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.",
+     "p": "Deepa and Grace are talking about Deepa's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.",
      "views": [
       {
        "who": "Deepa, aged 7",
@@ -1219,7 +1219,7 @@
       },
       {
        "who": "Grace, aged 8",
-       "says": "The baby will get his genes, but not the muscles he built by lifting."
+       "says": "The baby will get the father's genes, but not the muscles the father built by lifting."
       }
      ],
      "ask": "Who do you agree with? What test could show who is right?",
@@ -1252,7 +1252,7 @@
     },
     {
      "t": "mcq",
-     "p": "Thenu, a girl in Class 2, has two tall parents. She eats good food and sleeps well. Why is Thenu tall?",
+     "p": "A girl has two tall parents. She eats good food and sleeps well. Why is she tall?",
      "opts": [
       "Only because of her genes",
       "Only because of her food",
@@ -1280,7 +1280,7 @@
  ],
  "videos": [
   {
-   "title": "A young zebra finch learns its song from its father",
+   "title": "A young zebra finch learns his song from his father",
    "channel": "Okinawa Institute of Science and Technology (OIST)",
    "youtube": "6LnWgeSbWd0",
    "mins": 1,
@@ -1307,14 +1307,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Revathi, a girl in Class 2, has her Amma's curly hair. How did she get it?",
+   "p": "A girl has curly hair like her Amma's. How did she get it?",
    "opts": [
     "She inherited it from her parents",
     "She learned it",
     "She practised it"
    ],
    "a": 0,
-   "why": "Curly hair comes from genes that Revathi got from her parents.",
+   "why": "Curly hair comes from genes that she got from her parents.",
    "outcome": 0
   },
   {
@@ -1331,14 +1331,14 @@
   },
   {
    "t": "mcq",
-   "p": "Joseph, a boy in Kottayam, can swim across the pond. How did he get this skill?",
+   "p": "A boy can swim across the pond. How did he get this skill?",
    "opts": [
     "He was born with it",
     "He learned it by practising",
     "He got it from his Appa's genes"
    ],
    "a": 1,
-   "why": "Swimming is a skill. Joseph learned it by practising.",
+   "why": "Swimming is a skill. He learned it by practising.",
    "outcome": 1
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali, a girl in Class 2, has a new baby brother. Anjali's Amma speaks five languages. What will the baby speak on the day he is born?",
+   "p": "A baby boy's Amma speaks five languages. What will the baby speak on the day he is born?",
    "opts": [
     "All five languages",
     "No language yet. He will learn from the people around him",
@@ -1416,7 +1416,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shabnam, a girl in Class 2, comes from a family that has drawn rangoli for many generations. Shabnam is very good at it. What is the best reason?",
+   "p": "A girl's family has drawn rangoli for many generations. She is very good at it. What is the best reason?",
    "opts": [
     "She practised with her family for years",
     "She was born knowing how",
@@ -1466,7 +1466,7 @@
   }
  ],
  "ask_kids": [
-  "Who taught you that? Was it a parent, a friend or a teacher?",
+  "Think of one thing you can do well. Who taught you? Was it a parent, a friend or a teacher?",
   "What is one thing you can do now that you could not do last month?",
   "What did you get from your parents that you did not have to learn?",
   "Look at the crow at the window. Do you think she learned anything today?",
@@ -1508,16 +1508,16 @@
  ],
  "maths": [
   {
-   "problem": "Nandini did the Practice Test three times. Round 1: 3 balls went in. Round 2: 6 went in. Round 3: 7 went in. Between which two rounds did she improve the most?",
+   "problem": "A child did three rounds of the Practice Test. Round 1: 3 balls went in. Round 2: 6 went in. Round 3: 7 went in. Between which two rounds did the score go up the most?",
    "answer": "Between Round 1 and Round 2.",
-   "explain": "From Round 1 to Round 2, she went from 3 to 6. That is 3 more. From Round 2 to Round 3, she went from 6 to 7. That is 1 more. 3 is bigger than 1, so she improved most between Round 1 and Round 2.",
+   "explain": "From Round 1 to Round 2, the score went from 3 to 6. That is 3 more. From Round 2 to Round 3, it went from 6 to 7. That is 1 more. 3 is bigger than 1, so the score went up the most between Round 1 and Round 2.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e1",
    "context": "This is about the Practice Test, where you threw paper balls into a bucket before and after practice.",
    "why_maths": "Finding the differences between rounds shows when practice helped the most."
   },
   {
-   "problem": "Selvi asked 8 relatives who taught them their best skill. A parent: 4 people. A teacher: 2 people. A friend: 1 person. A brother or sister: 1 person. Draw a pictograph with one face for each person. Who taught the most people?",
+   "problem": "8 relatives were asked who taught them their best skill. A parent: 4 people. A teacher: 2 people. A friend: 1 person. A brother or sister: 1 person. Draw a pictograph with one face for each person. Who taught the most people?",
    "answer": "A parent, with 4 faces.",
    "explain": "Draw a row for each kind of teacher. A parent gets 4 faces, a teacher 2, a friend 1 and a brother or sister 1. The parent row is the longest. 4 + 2 + 1 + 1 = 8, so every person is shown.",
    "math_unit": "math.data.pictographs.L2",
@@ -1526,7 +1526,7 @@
    "why_maths": "A pictograph shows at a glance who taught the most people."
   },
   {
-   "problem": "Revathi counted the breaks in her kolam line each day for a week: 6, 5, 5, 3, 2, 2, 1. How many fewer breaks did she make on day 7 than on day 1? On how many days was the number the same as the day before?",
+   "problem": "A child counted the breaks in a kolam line each day for a week: 6, 5, 5, 3, 2, 2, 1. How many fewer breaks were there on day 7 than on day 1? On how many days was the number the same as the day before?",
    "answer": "5 fewer breaks. On 2 days the number was the same as the day before.",
    "explain": "6 take away 1 leaves 5. Day 3 had 5, the same as day 2. Day 6 had 2, the same as day 5. So the number stayed the same on 2 days, and still went down over the week.",
    "math_unit": "math.addition-subtraction.number-facts.L2",
@@ -1665,10 +1665,10 @@
   ]
  },
  "roots": {
-  "context": "We have tested what practice can change and what it cannot. Now we ask what this tells us about who we are.",
+  "context": "In the Practice Test, we saw what practice can change and what it cannot. Now we ask what this tells us about who we are.",
   "deep_truth": {
-   "truth": "In your test, practice made your throws land better, but your thumb stayed the same length. Your thumb's length comes mostly from the genes you got from your parents. Your throwing skill grew from your own tries. A skill is not passed on at birth, so every child must learn it again.",
-   "habit": "We say a skill 'runs in the family', as if it came with the body. The test shows that features come through genes, while skills come through practice and teaching.",
+   "truth": "In the Practice Test, practice helped more of your throws land in the bucket, but your thumb stayed the same length. Your thumb's length comes mostly from the genes you got from your parents. Your throwing skill grew from your own tries. A skill is not passed on at birth, so every child must learn it again.",
+   "habit": "We say a skill 'runs in the family', as if it came with the body. The Practice Test shows that features come through genes, while skills come through practice and teaching.",
    "evidence": "In the Practice Test, more balls went in the bucket after five minutes of practice. The thumb mark on the paper strip stayed in the same place."
   },
   "three": {
@@ -1676,12 +1676,12 @@
    "what_is_life": "Living beings get their bodies from their parents, and keep learning all their lives. A finch, a touch-me-not plant and you all learn.",
    "what_is_this_world": "The world is full of skills that pass from one being to another by teaching: songs, kolams, recipes and languages."
   },
-  "thread": "Every child starts with features from a long line of parents. Then each child adds skills of their own, learned from the people and the world around them. Skills pass by teaching, so a skill can go to anyone who learns it, not only to a child of the family. In this way, one big family of life keeps sharing what each member learns.",
+  "thread": "Every child starts with features from a long line of parents. Then each child adds skills of their own, learned from the people and the world around them. Skills pass by teaching, so a skill can go to anyone who learns it, not only to a child of the family. In this way, living beings keep sharing what each one learns.",
   "teachings": [
    {
     "source": "Thirukkural 396",
     "teaching": "The deeper you dig a well in the sand, the more water flows. The more a person learns, the more their understanding flows.",
-    "link": "Your throws got better with every try. Learning builds up a little at a time, the way a well gets deeper with each dig."
+    "link": "In the Practice Test, your throws got better with practice. Learning builds up a little at a time, the way a well gets deeper with each dig."
    },
    {
     "source": "Bhagavad Gita 6.35",
@@ -1712,7 +1712,7 @@
    "title": "Born Breath, Learned Breath",
    "mins": 3,
    "say": "Sit still, with your hands in your lap. Just breathe, the way you always do. Nobody taught you to breathe. You could do it the moment you were born. Now let us try a learned breath. Breathe in slowly while I count to four. Breathe out slowly while I count to four. Do it three more times. Was the last one easier than the first? That is practice, working on you right now.",
-   "kid": "Sit still. Just breathe. You were born knowing how. Now breathe in to four. Breathe out to four. Do it four times. Did it get easier?"
+   "kid": "Sit still. Just breathe. You were born knowing how. Now breathe in slowly while you count to four. Breathe out slowly while you count to four. Do it four times. Did it get easier?"
   },
   "ask": [
    "If you could choose, would you rather be born with a skill, or learn it yourself? Why?",
@@ -1723,12 +1723,12 @@
  },
  "how_we_found_out": {
   "context": "People once thought that what parents did to their own bodies was passed on to their babies. This card tells the true story of how that idea was tested.",
-  "story": "For a very long time, many people thought that changes in a parent's life were passed on to their babies at birth. A blacksmith with strong arms would have babies with strong arms. In 1809, the French scientist Jean-Baptiste Lamarck wrote about an idea like this. He thought a giraffe who stretched up for leaves passed a slightly longer neck to her young. In the late 1880s, the German scientist August Weismann tested the idea. He cut off the tails of young mice. When they grew up and had babies, he cut those babies' tails too. He did this for five generations of mice. Hundreds of babies were born, and every one had a full tail. A change made to a parent's body was not passed on. It was not a perfect test, because a cut tail is an injury, not a body part the mouse used more. But many later tests found the same thing. Today, scientists still argue about whether a parent's life can leave small marks on a child, through switches on the genes.",
+  "story": "For a very long time, many people thought that changes in a parent's life were passed on to their babies at birth. A blacksmith with strong arms would have babies with strong arms. In 1809, the French scientist Jean-Baptiste Lamarck wrote about an idea like this. He thought a giraffe who stretched up for leaves passed a slightly longer neck to her young. In the late 1880s, the German scientist August Weismann tested the idea. He cut off the tails of young mice. When they grew up and had babies, he cut those babies' tails too. He did this for five generations of mice. Hundreds of babies were born, and every one had a full tail. A change made to a parent's body was not passed on. It was not a perfect test, because a cut tail is an injury, not a body part the mouse used more. But many later tests found the same thing. Today, scientists still argue about whether a parent's life can leave small marks on a child, by changing which genes are switched on.",
   "who": "Jean-Baptiste Lamarck, a French scientist (1809); August Weismann, a German scientist (late 1880s)",
   "when": "Lamarck wrote his idea in 1809. Weismann did his mouse test in the late 1880s and wrote about it in 1889.",
   "wrong_idea": "That changes a parent makes to their own body during life are passed on to their babies at birth. Weismann's mice had their tails cut for five generations, and every baby was still born with a full tail.",
   "art": "A bearded scientist in an old laboratory looking at a cage of white mice, every mouse with a full tail."
  },
  "playtest": "Walked through the unit as a parent and child in a flat. The Practice Test needs only paper balls, a bucket and a paper strip; the thumb measure now starts with the strip level with the thumb tip, and a pencil-width difference is explained as measuring, not growing. Both games are written out card by card; the sorting game now has points so it ends with a winner, and the memory game's cards each name who they are about, so no card matches two others. Removed repeated questions (the thumb result, kolam breaks, mouse tails), a weak joke and assumed family members, and made the survey table match its questions.",
- "warm": {"words": ["GENES", "SKILL", "LEARN", "CURLY", "BIRTH"], "quiz": [["Eye colour comes from the genes you get from your mother and your father.", true, "Genes from both parents are tiny instructions that help build your body, including your eye colour."], ["A mother who becomes a strong runner passes her strong legs to her baby at birth.", false, "Changes a parent makes to their own body by hard work are not passed on to babies."], ["Nobody is born able to draw a kolam. You have to practise.", true, "A skill grows by practice and by watching or being taught, not from the day you are born."], ["Height depends only on genes, whatever food a child eats.", false, "Many features come from genes and also from the life a being lives, such as the food it eats."], ["A child who grows up hearing Telugu learns Telugu, even if the parents speak another language.", true, "Speaking a language is a skill learned from the people around you, not something carried in genes."], ["Being left-handed is a bad habit that a child picks up.", false, "Left-handedness runs partly in families and starts before birth, so it is not a habit."], ["Practising something again and again changes your body and your brain.", true, "Practice makes you better because it changes the body and the brain."], ["Some people are born with a talent, so they do not need to practise.", false, "Even people with a gift for something practise for years to become really good."], ["A young finch that never hears another finch sings a strange, broken song.", true, "Other animals learn too. A young finch learns its song by listening to an older finch."], ["Children of veena players are born already able to play the veena well.", false, "A skill is not passed on at birth. Every child must learn it by practising."]], "odd": [[["Throwing a ball", "Writing neatly", "Singing a song", "Thumb length"], "Thumb length", "The first three get better with practice; thumb length comes from genes and practice will not change it."], [["Eye colour", "Hair shape", "Dimples", "Riding a cycle"], "Riding a cycle", "The first three are inherited from the genes of your parents; riding a cycle is learned by practice."], [["Eye colour", "Curly hair", "Dimples", "Big muscles from hard work"], "Big muscles from hard work", "The first three can pass from parent to baby through genes; muscles built in a life are not passed on."], [["Tan from the sun", "Muscles from play", "A scar from a fall", "Curly hair"], "Curly hair", "The first three change with the life you live; the shape of your hair comes from your genes."], [["A finch learns its song", "A child learns a kolam", "A puppy learns its name", "A cat's fur colour"], "A cat's fur colour", "The first three are learned from others; fur colour is inherited through genes before birth."]]}
+ "warm": {"words": ["GENES", "SKILL", "LEARN", "CURLY", "BIRTH"], "quiz": [["Eye colour comes from the genes you get from your mother and your father.", true, "Genes from both parents are tiny instructions that help build your body, including your eye colour."], ["A mother who becomes a strong runner passes her strong legs to her baby at birth.", false, "Changes a parent makes to their own body by hard work are not passed on to babies."], ["Nobody is born able to draw a kolam. You have to practise.", true, "A skill grows by practice and by watching or being taught, not from the day you are born."], ["Height depends only on genes, whatever food a child eats.", false, "Many features come from genes and also from the life a being lives, such as the food they eat."], ["A child who grows up hearing Telugu learns Telugu, even if the parents speak another language.", true, "Speaking a language is a skill learned from the people around you, not something carried in genes."], ["Being left-handed is a bad habit that a child picks up.", false, "Left-handedness runs partly in families and starts before birth, so it is not a habit."], ["Practising something again and again changes your body and your brain.", true, "Practice makes you better because it changes the body and the brain."], ["Some people are born with a talent, so they do not need to practise.", false, "Even people with a gift for something practise for years to become really good."], ["A young finch who never hears another finch sings a strange, broken song.", true, "Other animals learn too. A young finch learns his song by listening to an older finch."], ["Children of veena players are born already able to play the veena well.", false, "A skill is not passed on at birth. Every child must learn it by practising."]], "odd": [[["Throwing a ball", "Writing neatly", "Singing a song", "Thumb length"], "Thumb length", "The first three get better with practice; thumb length comes from genes and practice will not change it."], [["Eye colour", "Hair shape", "Dimples", "Riding a cycle"], "Riding a cycle", "The first three are inherited from the genes of your parents; riding a cycle is learned by practice."], [["Eye colour", "Curly hair", "Dimples", "Big muscles from hard work"], "Big muscles from hard work", "The first three can pass from parent to baby through genes; muscles built in a life are not passed on."], [["Tan from the sun", "Muscles from play", "A scar from a fall", "Curly hair"], "Curly hair", "The first three change with the life you live; the shape of your hair comes from your genes."], [["A finch learns his song", "A child learns a kolam", "A puppy learns her name", "A cat's fur colour"], "A cat's fur colour", "The first three are learned from others; fur colour is inherited through genes before birth."]]}
 }
