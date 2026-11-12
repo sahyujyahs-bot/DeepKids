@@ -26,7 +26,11 @@
   "sci.basic-needs.basic-needs.L1",
   "sci.basic-needs.basic-needs.L3",
   "sci.body.body-parts.L1",
+  "sci.body.body-parts.L3",
+  "sci.body.growing-old.L3",
   "sci.body.growing.L2",
+  "sci.body.heart-blood-breath.L3",
+  "sci.body.how-babies-grow.L3",
   "sci.body.skeleton.L2",
   "sci.body.teeth.L2",
   "sci.changes.kitchen-science.L2",
@@ -112,9 +116,15 @@
   "sci.space-time.time.L2",
   "sci.states.floating-and-sinking.L2",
   "sci.states.melting-and-solidifying.L2",
+  "sci.states.solids-liquids-gases.L2",
+  "sci.waste.sorting-waste.L2",
   "sci.water.water-sources-and-uses.L1",
+  "sci.weather.clouds-and-rain.L2",
   "sci.weather.weather.L1",
   "sci.what-is-life.cells.L3",
-  "sci.what-is-life.signs-of-life.L1"
+  "sci.what-is-life.signs-of-life.L1",
+  "sci.what-is-life.signs-of-life.L2",
+  "sci.what-is-real.consciousness.L2",
+  "sci.what-is-real.perception-and-reality.L2"
  ]
 }

@@ -147,8 +147,8 @@
    "context": "This card is about the other beings who notice their world.",
    "description": "Every living being notices their world in their own way. An ant notices the smell of food. A crow notices you at the window. A tulsi plant notices which way the light comes from, and grows towards it. Awareness does not need a brain, and it runs through everything, down to the smallest particle. Scientists still argue about which beings are aware, and how.",
    "examples": [
-    "A touch-me-not plant folds up when touched. In 2018, scientists found the medicines that make people unaware for an operation also stop the touch-me-not folding.",
-    "Young bumblebees rolled small balls again and again with no food reward, in tests at Queen Mary University of London, led by Samadi Galpayage.",
+    "A touch-me-not plant folds up when touched. In 2018, scientists found that the medicines that make people unaware for an operation also stop the touch-me-not from folding.",
+    "In tests at Queen Mary University of London, led by Samadi Galpayage, young bumblebees rolled small balls again and again, even though they got no food for it.",
     "A dog notices the sound of your footsteps before you open the door."
    ],
    "perspectives": [
@@ -158,7 +158,7 @@
     },
     {
      "who": "Most brain scientists",
-     "explanation": "Awareness is something brains do. Beings without brains, such as plants, sense and respond, but they call this automatic."
+     "explanation": "Awareness is something brains do. Plants have no brain. Plants do sense and respond, but these scientists say that happens automatically, without awareness."
     },
     {
      "who": "Plant scientists such as Monica Gagliano, and thinkers such as Philip Goff",
@@ -192,7 +192,7 @@
    "claim": "We see and hear everything that is in front of us.",
    "who": "A common idea",
    "for": "The world looks full and complete to us, so it feels as if we take in all of it.",
-   "against": "In the gorilla film test, about half the people did not see a gorilla walking past. In your sound test, you named far fewer sounds when you were busy.",
+   "against": "In the gorilla film test, about half the people did not see a gorilla walking past. In the sound test, you named far fewer sounds when you were busy.",
    "status": "rejected"
   },
   {
@@ -200,7 +200,7 @@
    "claim": "Sounds you are not paying attention to are shut out completely, like a closed door.",
    "who": "Donald Broadbent, a British scientist, in 1958",
    "for": "In Colin Cherry's tests in 1953, people could say almost nothing about a message in the ear they were not listening to.",
-   "against": "Neville Moray found in 1959 that some people heard their own name in that ear. Anne Treisman showed in 1960 that some meaning gets through.",
+   "against": "Neville Moray found in 1959 that some people heard their own name in the ear they were not listening to. Anne Treisman showed in 1960 that some meaning from that ear gets through.",
    "status": "rejected"
   },
   {
@@ -229,7 +229,7 @@
   {
    "q": "When you stop noticing the fan, where does its sound go?",
    "kind": "deep",
-   "hint": "Think about the moment the fan stopped. How did you know it had stopped, if you were not hearing it?"
+   "hint": "When a fan stops, you notice at once. How could you know it had stopped, if you were not hearing it?"
   },
   {
    "q": "What is it like to be an ant on the kitchen floor?",
@@ -323,7 +323,7 @@
       },
       {
        "f": "Your heartbeat",
-       "b": "Most of the time you hardly feel it. Put a hand on your chest after running, and you will."
+       "b": "Most of the time you hardly feel your heartbeat. Put a hand on your chest after running, and you will."
       },
       {
        "f": "Your nose",
@@ -339,7 +339,7 @@
       },
       {
        "f": "Sounds from the road",
-       "b": "A city flat is full of road sounds. You stop noticing them until a horn or a siren changes."
+       "b": "A city flat is full of road sounds. You stop noticing them until something changes, such as a horn or a siren."
       },
       {
        "f": "Your food being digested",
@@ -371,7 +371,7 @@
      "mins": 2,
      "do": "Cut out the cards and make three paper labels for the piles.",
      "say": "Some things are always there, but we hardly notice them. Let's find out which.",
-     "kid": "Three piles. Was noticing. Notice now. Hard to notice."
+     "kid": "Make three piles: 'I was noticing it', 'I notice it now' and 'Hard to notice, even now'."
     },
     {
      "id": "s2",
@@ -413,7 +413,7 @@
        "You grew a new heart"
       ],
       "a": 1,
-      "why": "It was beating all along. After running it is stronger and faster. This change catches your attention."
+      "why": "Your heart was beating all along. After running it beats harder and faster. This change catches your attention."
      }
     }
    ],
@@ -618,7 +618,7 @@
      "mins": 3,
      "do": "Ask the question. Wait for a guess and a reason. Write the guess at the top of the paper.",
      "say": "We are going to count sounds. Will you notice more sounds while you are busy, or while you sit still? Why do you think so?",
-     "kid": "Guess. Will you notice more sounds busy or still? Why?",
+     "kid": "Guess: will you notice more sounds while you are busy, or while you sit still? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -635,8 +635,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Mix the rajma and chana in the bowl. 2. Put the two katoris beside it. 3. Draw the results table with two rooms.",
-     "say": "In the busy round, you sort rajma into one cup and chana into the other, as fast as you can. In the still round, you only listen.",
-     "kid": "Rajma in one cup. Chana in the other. Fast!",
+     "say": "In the busy round, you sort rajma into one katori and chana into the other, as fast as you can. In the still round, you only listen.",
+     "kid": "In the busy round, sort the rajma into one katori and the chana into the other, as fast as you can.",
      "ask": [
       {
        "q": "What must stay the same in every round?",
@@ -776,7 +776,7 @@
      "mins": 3,
      "do": "Ask the question. Wait for a guess and a reason.",
      "say": "Everyone will taste the same lemon. Will everyone show the same number of sour fingers? Why do you think so?",
-     "kid": "Same lemon for everyone. Same fingers? Why?",
+     "kid": "Everyone tastes the same lemon. Will everyone show the same number of fingers? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1007,7 +1007,7 @@
      "mins": 3,
      "do": "Lead the child through the five steps, one at a time.",
      "say": "Tell me five things you can see. Now four things you can hear. Three things you can feel touching you. Two things you can smell. One thing you can taste.",
-     "kid": "Five you see. Four you hear. Three you feel. Two you smell. One you taste."
+     "kid": "Name five things you see, four you hear, three you feel touching you, two you smell and one you taste."
     },
     {
      "id": "s2",
@@ -1143,7 +1143,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Day 1. Make the book. Then do the seeing page.",
+     "do": "Day 1. Make the five-page diary. Then do the seeing page.",
      "say": "Today you are a noticing detective. Find one thing in our home that you have never noticed before.",
      "kid": "Find one thing at home you never noticed. Draw it."
     },
@@ -1259,7 +1259,7 @@
    "channel": "Daniel Simons",
    "youtube": "vJG698U2Mvo",
    "mins": 1,
-   "why": "Your child counts ball passes and may miss something surprising, after they have done the sound test.",
+   "why": "Watch this after the sound test. Your child counts ball passes and may miss something surprising.",
    "check": "Found by search: \"selective attention test\" by Daniel Simons, 1 minute 22 seconds. A parent may preview it."
   },
   {
@@ -1267,7 +1267,7 @@
    "channel": "BrainStuff - HowStuffWorks",
    "youtube": "n8EvWzWEbz0",
    "mins": 4,
-   "why": "Explains getting used to a steady smell, which works the same way as steady sounds, after the Sound That Went Away activity.",
+   "why": "Watch this after the Sound That Went Away activity. It explains how we get used to a steady smell, which happens in the same way as with a steady sound.",
    "check": "Found by search: \"Why Do You Stop Noticing Smells After A While?\" by BrainStuff - HowStuffWorks, 3 minutes 35 seconds. A parent may preview it."
   },
   {
@@ -1275,7 +1275,7 @@
    "channel": "SciShow Kids",
    "youtube": "jYu966AONZI",
    "mins": 5,
-   "why": "Explains why we dream during sleep, after the Awake, Dream, Deep Sleep game.",
+   "why": "Watch this after the Awake, Dream, Deep Sleep game. It explains why we dream during sleep.",
    "check": "Found by search: \"Why Do We Dream?\" by SciShow Kids, 4 minutes 40 seconds. A parent may preview it."
   }
  ],
@@ -1314,20 +1314,20 @@
     "Because the first room was too noisy"
    ],
    "a": 1,
-   "why": "If still always won, in either order, then going second was not the reason.",
+   "why": "If the still round wins in both rooms, whichever round came first, then going second was not the reason.",
    "how": "e1",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Sana, a girl in Hyderabad, is reading a story and does not hear her name called. Why?",
+   "p": "You are reading a story and do not hear your name called. Why?",
    "opts": [
-    "Her attention is on the story",
-    "Her ears are not working",
-    "She is asleep"
+    "Your attention is on the story",
+    "Your ears are not working",
+    "You are asleep"
    ],
    "a": 0,
-   "why": "Attention picks what you notice. Her ears heard the call, but her attention was on the story.",
+   "why": "Attention picks what you notice. Your ears heard the call, but your attention was on the story.",
    "outcome": 1
   },
   {
@@ -1364,26 +1364,26 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Kochi, shows 4 fingers for the sour. How can her Amma learn what Divya's sour was like?",
+   "p": "In the lemon test, you show 4 fingers for the sour. How can someone else learn what your sour was like?",
    "opts": [
-    "By looking inside her mouth",
-    "From what Divya tells and shows her",
-    "By tasting more lemon herself"
+    "By looking inside your mouth",
+    "From what you tell and show them",
+    "By tasting more lemon themselves"
    ],
    "a": 1,
-   "why": "Only Divya has her experience. Others learn about it from her words, face and fingers.",
+   "why": "Only you have your experience. Others learn about it from your words, face and fingers.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Chennai, says she walked up the wall and across the ceiling, and it did not seem strange at all. Which state was she in?",
+   "p": "You walk up the wall and across the ceiling, and it does not seem strange at all. Which state are you in?",
    "opts": [
     "Awake",
     "Dreaming",
     "Deep sleep"
    ],
    "a": 1,
-   "why": "In dreams, strange things often feel normal. Her sleeping mind is making this world.",
+   "why": "In dreams, strange things often feel normal. Your sleeping mind is making this world.",
    "outcome": 4
   },
   {
@@ -1433,7 +1433,7 @@
     {
      "t": "draw",
      "p": "Draw yourself in the still round of the sound test. Draw three sounds you noticed around you.",
-     "a": "A child sitting still with eyes shut, and three sound makers such as a fan, a crow and a car.",
+     "a": "A child sitting still and looking at the bowl of beans, and three sound makers such as a fan, a crow and a car.",
      "why": "A strong drawing shows the child still, and real sounds from their own test.",
      "how": "e1"
     },
@@ -1501,7 +1501,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why did you notice more sounds when you sat still?",
+     "p": "In the sound test, why did you notice more sounds when you sat still? Say it out loud and a grown-up can write it down.",
      "lines": 2,
      "a": "Because my attention was on the sounds, not on the beans.",
      "why": "A strong answer says the sounds were the same, and only where the attention went changed.",
@@ -1509,7 +1509,7 @@
     },
     {
      "t": "label",
-     "p": "Label the picture: draw an arrow to what Meenakshi is noticing, and one to a sound she is not noticing.",
+     "p": "This picture shows Meenakshi from the story Meenakshi and the Power Cut. Draw an arrow to what she is noticing, and one to a sound she is not noticing.",
      "labels": [
       "what she is noticing",
       "a sound she is not noticing"
@@ -1542,7 +1542,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mira, a girl in Goa, says she flew like a bird in a dream last night. Where was her body?",
+     "p": "In a dream, you fly like a bird. Where is your body?",
      "opts": [
       "Flying in the sky",
       "Lying in bed",
@@ -1586,21 +1586,21 @@
     },
     {
      "t": "mcq",
-     "p": "Riya, a girl in Class 2, did the sound test in one room only. She did the busy round first and the still round second. The still round won. What else could explain it?",
+     "p": "Suppose you do the sound test in one room only, with the busy round first and the still round second. The still round wins. What else could explain it?",
      "opts": [
       "Nothing else could explain it",
-      "In the second round she already knew to listen for sounds",
+      "In the second round you already knew to listen for sounds",
       "The beans were too big"
      ],
      "a": 1,
-     "why": "Going second may have helped her. That is why the test is done again in a second room, in the other order.",
+     "why": "Going second may have helped. That is why the test is done again in a second room, in the other order.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Farhan, a boy in Class 2, says, 'I didn't hear the fan, so the fan made no sound.' What would you tell him? Say it out loud and a grown-up can write it down.",
+     "p": "Someone says, 'I didn't hear the fan, so the fan made no sound.' What would you tell them? Say it out loud and a grown-up can write it down.",
      "lines": 3,
-     "a": "The fan was making a sound, but he had got used to it. If it stopped, he would notice.",
+     "a": "The fan was making a sound, but they had got used to it. If it stopped, they would notice.",
      "why": "A strong answer says that not noticing a sound is different from no sound, and gives a way to show it, such as switching the fan off."
     },
     {
@@ -1743,14 +1743,14 @@
     },
     {
      "t": "mcq",
-     "p": "Mohona, a girl in Kolkata, did the busy round in a noisy room in the day and the still round in a quiet room at night. The busy round won. Can she say being busy helps you notice sounds?",
+     "p": "Suppose you do the busy round in a noisy room in the day, and the still round in a quiet room at night. The busy round wins. Can you say that being busy helps you notice sounds?",
      "opts": [
       "Yes, the busy round won",
       "No, because the room and the time changed too",
       "Yes, because night is always quiet"
      ],
      "a": 1,
-     "why": "In a fair test only one thing changes. Her busy room simply had more sounds in it.",
+     "why": "In a fair test only one thing changes. Here the noisy room simply had more sounds in it.",
      "how": "e1"
     },
     {
@@ -1761,9 +1761,9 @@
     },
     {
      "t": "count",
-     "p": "Tsering, a girl in Gangtok, did the still round in three rooms. She noticed 6, 7 and 8 sounds. How many sounds is that in all?",
+     "p": "A child did the still round of the sound test in three rooms. The child noticed 6, 7 and 8 sounds. How many sounds is that in all?",
      "a": 21,
-     "why": "6 + 7 + 8 = 21. In her busy rounds she noticed 2, 3 and 1, which is only 6 in all.",
+     "why": "6 + 7 + 8 = 21. In the busy rounds the child noticed 2, 3 and 1, which is only 6 in all.",
      "how": "e1"
     },
     {
@@ -1875,7 +1875,7 @@
    "art": "A tulsi plant in a pot on a windowsill, leaning towards the bright window."
   },
   {
-   "text": "In a Guwahati home, many mothers say they sleep through thunder but wake at their baby's small cry.",
+   "text": "In Guwahati homes, many mothers say they sleep through thunder but wake at their baby's small cry.",
    "art": "A mother sitting up in bed at night beside a cot, while rain and lightning show at the window."
   }
  ],
@@ -1941,9 +1941,9 @@
  ],
  "maths": [
   {
-   "problem": "Riya noticed 3 sounds in the busy round and 8 sounds in the still round, in the same room. How many more sounds did she notice when still?",
+   "problem": "In the sound test, you noticed 3 sounds in the busy round and 8 sounds in the still round, in the same room. How many more sounds did you notice when still?",
    "answer": "5 more sounds.",
-   "explain": "8 take away 3 is 5. She noticed many more sounds when her attention was on sounds.",
+   "explain": "8 take away 3 is 5. You noticed many more sounds when your attention was on sounds.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e1",
    "context": "This is about the sound test, where you counted sounds while busy and while still.",
@@ -1956,10 +1956,10 @@
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e1",
    "context": "This is about the sound test, done by four friends.",
-   "why_maths": "Tally marks let you count sounds quickly while someone is telling them."
+   "why_maths": "Tally marks let you count sounds quickly while someone is saying them out loud."
   },
   {
-   "problem": "Sana, a girl in Hyderabad, did the sound test in four rooms. Busy: 2, 3, 1, 2. Still: 7, 6, 8, 5. In how many rooms did the still round win? What does that tell you that one room alone could not?",
+   "problem": "The sound test was done in four rooms. Busy rounds: 2, 3, 1, 2 sounds. Still rounds: 7, 6, 8, 5 sounds. In how many rooms did the still round win? What does that tell you that one room alone could not?",
    "answer": "The still round won in all 4 rooms. So it was not a fluke of one room.",
    "explain": "Compare each pair: 7 is more than 2, 6 is more than 3, 8 is more than 1, 5 is more than 2. The same pattern four times makes it much more likely to be real.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -1970,7 +1970,7 @@
   {
    "problem": "In the lemon test, five people showed 3, 4, 4, 2 and 5 fingers. How many people showed more than 3? Does that mean the lemon tasted more sour to them?",
    "answer": "3 people showed more than 3. We can't be sure the lemon tasted more sour to them, because one person's 4 may not feel the same as another's 4.",
-   "explain": "4, 4 and 5 are more than 3. That is 3 people. But the numbers are words for experiences, and only each person has their own experience.",
+   "explain": "4, 4 and 5 are more than 3. That is 3 people. But each number only stands for how the sour felt to one person, and nobody else can feel that person's sour.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "how": "e2",
    "context": "This is about the lemon test, where everyone showed sour fingers from 1 to 5.",
@@ -2036,7 +2036,7 @@
    "a": "You get used to a steady sound. It still reaches your ears."
   },
   {
-   "q": "When do you notice more sounds: busy or still?",
+   "q": "When do you notice more sounds: when you are busy, or when you sit still?",
    "a": "Still, when your attention is on the sounds."
   },
   {
@@ -2106,18 +2106,18 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1953, Colin Cherry, a British scientist, played two different spoken messages to people at once, one in each ear. He asked them to repeat one message aloud. Afterwards they could say almost nothing about the other message. In 1958, Donald Broadbent explained this with an idea: the mind shuts out the ear you are not listening to, like closing a door. Then the door idea began to crack. In 1959, Neville Moray found that some people heard their own name in the shut-out ear. In 1960, a young student at Oxford, Anne Treisman, tried a clever test. She played a story into one ear and a different story into the other. Halfway through, she swapped the stories over. Many people followed their story into the wrong ear for a word or two, without meaning to. So the ignored ear had not been shut out. Its sounds were turned down, and some of their meaning still got through. Treisman went on to become one of the best-known scientists of attention in the world.",
+  "story": "In 1953, Colin Cherry, a British scientist, played two different spoken messages to people at once, one in each ear. He asked them to repeat one message aloud. Afterwards they could say almost nothing about the other message. In 1958, Donald Broadbent explained this with an idea: the mind shuts out the ear you are not listening to, like closing a door. Then new tests showed that the door idea was not quite right. In 1959, Neville Moray found that some people heard their own name in the shut-out ear. In 1960, a young student at Oxford, Anne Treisman, tried a clever test. She played a story into one ear and a different story into the other. Halfway through, she swapped the stories over. Many people followed their story into the wrong ear for a word or two, without meaning to. So the ignored ear had not been shut out. Its sounds were turned down, and some of their meaning still got through. Treisman went on to become one of the best-known scientists of attention in the world.",
   "who": "Colin Cherry, Donald Broadbent and Neville Moray in England, and Anne Treisman at the University of Oxford",
   "when": "From 1953 to 1960",
   "wrong_idea": "That the mind shuts out everything you are not paying attention to, like a closed door. Moray's own-name finding and Treisman's swapped-story test showed that ignored sounds are turned down, not shut out.",
   "art": "A young woman scientist in the 1960s with big headphones on a table, a reel-to-reel tape recorder, and two speech bubbles crossing from one ear to the other."
  },
  "roots": {
-  "context": "We have tested what we notice when busy and when still, and what the same lemon is like for each of us. Now we ask what this tells us about being aware.",
+  "context": "In the sound test, we counted the sounds we noticed when busy and when sitting still. In the lemon test, we found out what the same lemon is like for each of us. Now we ask what these two tests tell us about being aware.",
   "deep_truth": {
-   "truth": "While you were busy, you noticed only a few sounds. Sitting still in the same room, you noticed many more. The sounds were the same, and only your attention changed. So what you are aware of depends on where you put your attention.",
+   "truth": "In the sound test, while you were busy sorting beans, you noticed only a few sounds. Sitting still in the same room, you noticed many more. The sounds were the same, and only your attention changed. So what you are aware of depends on where you put your attention.",
    "habit": "We think we are aware of everything around us, as if our ears and eyes were open windows. The sound test shows that attention picks out only some of it.",
-   "evidence": "In the sound test, each room gave far more sounds in the still round than in the busy round, in either order."
+   "evidence": "In the sound test, you noticed far more sounds in the still round than in the busy round, in both rooms and in either order."
   },
   "three": {
    "who_am_i": "You are the one who notices. Right now you can choose to notice your breath, a sound or your feet.",
@@ -2128,7 +2128,7 @@
   "teachings": [
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
-    "teaching": "This Upanishad describes waking, when we are aware of the world outside, dreaming, when we are aware of a world inside, and deep sleep, when we are aware of almost nothing. It names a fourth, turiya: the awareness that is there through all three.",
+    "teaching": "This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three.",
     "link": "In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night."
    },
    {

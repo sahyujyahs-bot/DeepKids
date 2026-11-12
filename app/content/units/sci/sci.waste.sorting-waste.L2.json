@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?",
-  "text": "The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? Your napkin test will help you find out.",
+  "text": "The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? The Napkin Press Test in this unit will help you find out.",
   "art": "A child's two hands, one holding a shiny wet banana peel and one holding a crackly brown onion skin, with a question mark between them."
  },
  "outcomes": [
@@ -94,7 +94,7 @@
    "status": "defined",
    "context": "This card explains what wet waste is, and why a dry leaf belongs with it.",
    "definition": "Wet waste is waste that rots. It comes from plants or animals: food, peels, shells, leaves and flowers.",
-   "description": "Most kitchen scraps are wet, so wet waste got its name. But the real rule is that it rots. A peel, an onion skin and a dry leaf all came from plants, and decomposers slowly eat them. So a dry leaf goes in the wet bin, even though it feels dry.",
+   "description": "Wet waste got its name because most kitchen scraps are wet. But the real rule is that it rots. A peel, an onion skin and a dry leaf all came from plants, and decomposers slowly eat them. So a dry leaf goes in the wet bin, even though it feels dry.",
    "examples": [
     "Peels of banana, potato, carrot and onion.",
     "Leftover rice, idli, sambar or chapati.",
@@ -178,7 +178,7 @@
    "claim": "Wet waste is anything that feels wet.",
    "who": "A common first guess",
    "for": "Most kitchen waste, like peels and leftover rice, is wet, so the name seems to fit.",
-   "against": "A dry onion skin or a dry leaf goes in the wet bin, because it rots. A wet milk packet goes in the dry bin, because plastic does not rot. The napkin test shows this.",
+   "against": "A dry onion skin or a dry leaf goes in the wet bin, because it rots. A wet milk packet goes in the dry bin, because plastic does not rot. The Napkin Press Test shows this: the dry onion skin leaves no wet mark, and the unrinsed milk packet does.",
    "status": "rejected",
    "context": "This card is about a guess many children make about the names wet and dry."
   },
@@ -194,7 +194,7 @@
    "claim": "Paper comes from trees, so paper is wet waste.",
    "who": "A clever guess some children make",
    "for": "Paper is made from wood, and wet paper does rot, slowly.",
-   "against": "Clean paper is more useful made into new paper than rotted. So cities ask for paper in the dry bin. Paper soaked with food, like a greasy dosa wrapper, can go with wet waste.",
+   "against": "Clean paper is more useful when it is made into new paper than when it is left to rot. So cities ask for paper in the dry bin. Paper soaked with food, like a greasy dosa wrapper, can go with wet waste.",
    "status": "debated",
    "context": "This card is about paper, which comes from a plant but goes in the dry bin."
   }
@@ -221,7 +221,7 @@
    "hint": "Follow one peel and one packet as far as you can."
   },
   {
-   "q": "Is a peel waste for a worm?",
+   "q": "A peel is waste to us. Is it waste to a worm?",
    "kind": "big",
    "hint": "What is it to us, and what is it to the worm?"
   }
@@ -234,7 +234,7 @@
   "text": [
    "Kavya lived on the third floor of a building in Chennai. She was seven. Every morning at seven o'clock, the bell rang twice. That was Thangam Akka, who collected the waste.",
    "Thangam Akka pushed a cart with two big drums on it. One drum was green. One drum was blue. She wore a bright orange sari and thick yellow gloves, and she knew every child in the building by name.",
-   "Kavya's family had two bins in the kitchen, a small green one and a small blue one. Kavya's Paati, her grandmother, had stuck a picture on each. A peel on the green bin. A newspaper on the blue bin.",
+   "Kavya's family had two bins in the kitchen, a small green one and a small blue one. Kavya's Paati, her grandmother, had stuck a picture on each. The green bin had a picture of a peel. The blue bin had a picture of a newspaper.",
    "One morning Kavya ran to the door with both bins. Thangam Akka tipped the green bin into the green drum. Then she lifted the blue bin, looked inside, and stopped.",
    "'Kavya,' she said, 'what is this?' She held up a dry brown leaf from the tulsi pot on the balcony.",
    "'That is dry,' said Kavya. 'So I put it in the dry bin.'",
@@ -256,7 +256,7 @@
    "Appa thought for a moment. 'Yes,' he said, and put it in the green bin.",
    "The next morning, the bell rang twice. Thangam Akka looked in both bins and gave Kavya a thumbs up with her yellow glove."
   ],
-  "epiphany": "A bin is chosen by asking what will happen to a thing next. If it will rot, it goes in the wet bin, even when it feels dry. Waste never vanishes. It goes where we send it.",
+  "epiphany": "To choose a bin, ask what will happen to the thing next. If it will rot, it goes in the wet bin, even when it feels dry. Waste never vanishes. It goes where we send it.",
   "ask": [
    "Why did the dry leaf belong in the green drum?",
    "What went wrong with the milk packet?",
@@ -425,7 +425,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns picking a card. 2. Each player says wet or dry, and why. 3. Turn the card over and move.",
-     "say": "Groundnut shells. They feel dry. Will they rot? Which bin?",
+     "say": "This card says groundnut shells. They feel dry. Will they rot? Which bin do they go in?",
      "kid": "Pick a card. Ask: will it rot? Say wet or dry.",
      "ask": [
       {
@@ -534,7 +534,7 @@
     {
      "day": 1,
      "mins": 22,
-     "what": "Touch and guess. Press the eight pieces under a book for 10 minutes. Look for wet marks. Sort them into bins."
+     "what": "Touch the eight pieces and guess which will leave a wet mark. Press them under a book for 10 minutes. Look for wet marks. Sort the pieces into bins."
     }
    ],
    "record": "Fill in the table. Draw the two napkins that surprised you most. Circle the things that went in the wet bin but left no wet mark.",
@@ -623,16 +623,16 @@
        ]
       }
      ],
-     "parent": "Write the guesses down word for word. Don't say if they are right. The test will answer.",
+     "parent": "Write the guesses down word for word. Don't say if they are right. The test will show the answer.",
      "context": "This is the first step of the Napkin Press Test. You touch eight kinds of waste and guess which will leave a wet mark."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Write the numbers 1 to 8 on eight napkins. 2. Lay them on the tray. 3. Put one piece on each napkin and fold the napkin over it. 4. Lay a folded cloth over all eight. 5. Put the heavy book on top.",
-     "say": "Every piece is the same size. Every piece gets the same book on top. Then only the kind of waste is different.",
+     "say": "Every piece is the same size. Every piece gets the same book on top. So only the kind of waste is different.",
      "kid": "Put one piece on each napkin. Cover them. Put the book on top.",
-     "parent": "Put the peel inside face down. The cloth makes thick and thin pieces press the same. If the book is too small, use a steel plate with a full bottle on it."
+     "parent": "Put the peel with its inside facing down on the napkin. The folded cloth helps the book press thick and thin pieces equally. If the book is too small, use a steel plate with a full bottle on it."
     },
     {
      "id": "s3",
@@ -739,7 +739,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Keep one meal's waste in two bags. Guess. Hang them on the hanger. Count the things. Fill tumblers to compare space."
+     "what": "Keep one meal's waste in two bags. Guess which bag is heavier. Hang them on the hanger. Count the things. Fill tumblers to compare space."
     }
    ],
    "record": "Fill in the table. Draw the hanger, and show which side went down.",
@@ -818,7 +818,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Press the dry waste into the tumbler, one tumbler at a time, and count. 2. Do the same with the wet waste, using a spoon. 3. Write both numbers.",
+     "do": "1. Press dry waste into the tumbler until it is full. Empty it and fill it again, until all the dry waste has been used. Count how many times you filled it. 2. Do the same with the wet waste, using a spoon. 3. Write both numbers.",
      "say": "Now let's see which takes more space. How many tumblers does each bag fill?",
      "kid": "Fill the tumbler again and again. Count how many for each bag.",
      "ask": [
@@ -905,7 +905,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put the two bowls near the counter, away from the stove. 2. Put a label by each bowl.",
+     "do": "1. Put the two bowls near the counter, away from the stove. 2. Put a green label by one bowl and a blue label by the other.",
      "say": "Green is for things that rot. Blue is for things that do not rot quickly.",
      "kid": "Green is for things that rot. Blue is for the rest."
     },
@@ -930,7 +930,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Empty each bowl into the matching home bin, and wash the bowls.",
-     "say": "Now the green bowl goes in the green bin, and the blue bowl in the blue bin.",
+     "say": "Now what is in the green bowl goes in the green bin, and what is in the blue bowl goes in the blue bin.",
      "kid": "Empty each bowl into its bin. Wash your hands."
     }
    ]
@@ -977,7 +977,7 @@
      "say": "Look at the cart. Does it keep wet and dry waste apart? How many drums or parts can you count?",
      "kid": "Look at the cart. How many parts does it have? Are wet and dry apart?",
      "adult": true,
-     "parent": "Many carts have two drums or a truck with two sections. If yours has only one, that is worth noticing too. Greet the collector by name, and thank them."
+     "parent": "Many carts have two drums, and many trucks have two sections. If yours has only one, that is worth noticing too. Greet the collector by name, and thank them."
     },
     {
      "id": "s2",
@@ -991,7 +991,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Then a green road and a blue road, and where each ends.",
+     "do": "1. Give your child paper and crayons. 2. Ask them to draw their home in the middle. 3. Ask them to draw a green road and a blue road, and the place where each road ends.",
      "say": "Draw our home in the middle. Where does the green road go? Where does the blue road go? What happens to mixed waste?",
      "kid": "Draw your home. Draw a green road and a blue road. Where do they end?",
      "ask": [
@@ -1054,7 +1054,7 @@
      "adult": true,
      "ask": [
       {
-       "q": "Why rinse it?",
+       "q": "Why do we rinse the milk packet?",
        "good": [
         "So the milk does not make the paper wet and smelly.",
         "So it can be sold and recycled."
@@ -1067,7 +1067,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Hang the packet on a peg or tap to dry. 2. The next day, put it flat in the dry bin.",
-     "say": "When it is dry, it is ready. Clean and dry is what the sorting shed needs.",
+     "say": "When the packet is dry, it is ready for the dry bin. The sorting shed needs dry waste to be clean and dry.",
      "kid": "Hang it up. When it is dry, put it in the dry bin."
     }
    ]
@@ -1124,7 +1124,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Let your child make the two labels. Help only with cutting and sticking.",
-     "say": "Remember the napkin test. Which tricky things should your label show?",
+     "say": "In the Napkin Press Test, the dry onion skin and the dry leaf left no wet mark, but they still went in the wet bin. Which tricky things like these should your label show?",
      "kid": "Make your labels. Show one tricky thing on each."
     },
     {
@@ -1189,7 +1189,7 @@
       "The plastic wrapper"
      ],
      "a": 1,
-     "why": "The onion skin is dry, so it left the napkin clean. But it rots, so it goes in the wet bin. Picking the plastic wrapper may mean thinking 'no mark' means 'wet bin'.",
+     "why": "The onion skin is dry, so it left the napkin clean. But it rots, so it goes in the wet bin. The plastic wrapper also left no mark, but it does not rot, so it goes in the dry bin.",
      "context": "This question is about the Napkin Press Test. You press peels, shells, packets and paper between paper napkins under a heavy book, and look for wet marks.",
      "how": "e1"
     },
@@ -1246,7 +1246,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: what question can you ask to choose the bin for any waste?",
+     "p": "What question can you ask to choose the bin for any waste? Say it out loud, and ask a grown-up to write it down.",
      "lines": 2,
      "a": "Will it rot? If yes, the wet bin. If no, the dry bin.",
      "why": "A strong answer asks about what happens to the thing next, not how it feels."
@@ -1271,7 +1271,7 @@
     },
     {
      "t": "count",
-     "p": "Meenakshi, a girl in Class 2 in Madurai, threw away 4 peels, 2 packets, 1 tin and 3 eggshells. How many things went in the wet bin?",
+     "p": "You throw away 4 peels, 2 packets, 1 tin and 3 eggshells. How many things go in the wet bin?",
      "a": 7,
      "why": "The peels and eggshells rot. 4 peels and 3 eggshells make 7. The packets and the tin go in the dry bin."
     },
@@ -1311,21 +1311,21 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Two girls in Class 2 argue about a dry leaf from the balcony.",
+     "p": "Two children argue about a dry leaf from the balcony.",
      "views": [
       {
-       "who": "Lakshmi, a girl in Hyderabad",
+       "who": "The first child",
        "says": "It is dry, so it goes in the dry bin."
       },
       {
-       "who": "Sana, a girl in Kochi",
+       "who": "The second child",
        "says": "It will rot, so it goes in the wet bin."
       }
      ],
-     "ask": "Who do you agree with? Use the Napkin Press Test to say why. Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Use the Napkin Press Test to say why. Then say one thing the other child has right.",
      "lines": 4,
-     "a": "A strong answer agrees with Sana: the dry leaf left no wet mark, but it rots, so it goes in the wet bin. It also says Lakshmi is right that the leaf is dry to touch.",
-     "why": "Both girls notice something true. The test shows the leaf is dry, and the bin depends on whether it rots.",
+     "a": "A strong answer agrees with the second child: the dry leaf left no wet mark, but it rots, so it goes in the wet bin. It also says the first child is right that the leaf is dry to touch.",
+     "why": "Both children notice something true. The test shows the leaf is dry, and the bin depends on whether it rots.",
      "how": "e1"
     },
     {
@@ -1349,7 +1349,7 @@
       "The waste collector takes the green bin.",
       "The peel goes to a compost place.",
       "Decomposers eat the peel.",
-      "It becomes compost under a tree."
+      "The peel becomes compost, and the compost is put under a tree."
      ],
      "a": [
       0,
@@ -1397,7 +1397,7 @@
     },
     {
      "t": "count",
-     "p": "Teja, a girl in Class 2, filled 5 tumblers with her dry waste and 2 tumblers with her wet waste. How many more tumblers did the dry waste fill?",
+     "p": "You fill 5 tumblers with your dry waste and 2 tumblers with your wet waste. How many more tumblers did the dry waste fill?",
      "a": 3,
      "why": "5 take away 2 is 3. The dry waste took more space, even though the wet waste may be heavier.",
      "context": "This question is about the Hanger Balance. You hang one meal's wet waste and dry waste from the two ends of a clothes hanger, and see which side goes down.",
@@ -1405,7 +1405,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mou, a girl in Class 2 in Kolkata, has finished a dosa that came wrapped in greasy paper. Which bin is best for the greasy paper?",
+     "p": "A dosa came wrapped in greasy paper. Which bin is best for the greasy paper?",
      "opts": [
       "The wet bin, because it is soaked with food and will rot",
       "The dry bin, because all paper is dry waste",
@@ -1484,7 +1484,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya, a girl in Class 2, has a milk packet with milk still inside. What should she do?",
+   "p": "You have a milk packet with milk still inside. What should you do?",
    "opts": [
     "Rinse it, dry it, and put it in the dry bin",
     "Put it in the wet bin, because it is wet",
@@ -1509,7 +1509,7 @@
   },
   {
    "t": "mcq",
-   "p": "The onion skin left no wet mark. What does this tell us?",
+   "p": "In the Napkin Press Test, the dry onion skin left no wet mark, but it goes in the wet bin. What does this tell us?",
    "opts": [
     "A wet mark does not decide the bin. Whether it rots does.",
     "The onion skin goes in the dry bin",
@@ -1572,10 +1572,10 @@
   },
   {
    "t": "mcq",
-   "p": "Nandini, a girl in Class 2, guesses the tea leaves will leave a wet mark. What should she do next?",
+   "p": "You guess that the tea leaves will leave a wet mark on the napkin. What should you do next?",
    "opts": [
-    "Test it, and see if she was right",
-    "Change her guess to be safe",
+    "Test it, and see if you were right",
+    "Change your guess to be safe",
     "Ask someone else to guess"
    ],
    "a": 0,
@@ -1714,9 +1714,9 @@
    "why_maths": "Finding the difference between the two groups shows exactly which things break the 'wet means wet' idea."
   },
   {
-   "problem": "Farida, a girl in Class 2 in Pune, made tally marks: wet waste |||| ||, dry waste ||||. Which has more, and by how many?",
+   "problem": "A family made tally marks for their waste: wet waste |||| ||, dry waste ||||. Which has more, and by how many?",
    "answer": "Wet waste, by 3.",
-   "explain": "|||| || is 7 and |||| is 4. 7 take away 4 is 3. So her family threw 3 more wet things than dry things.",
+   "explain": "|||| || is 7 and |||| is 4. 7 take away 4 is 3. So the family threw away 3 more wet things than dry things.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e2",
    "context": "This question is about the Hanger Balance. You hang one meal's wet waste and dry waste from the two ends of a clothes hanger, and see which side goes down.",
@@ -1763,7 +1763,7 @@
    "a": "The wet bin, because it rots."
   },
   {
-   "q": "What should you do to a milk packet before the dry bin?",
+   "q": "What should you do to a milk packet before it goes in the dry bin?",
    "a": "Rinse it and let it dry."
   },
   {
@@ -1843,16 +1843,16 @@
   "walkthrough": "The Napkin Press Test was thought through for a city flat. A coin-sized piece of fresh banana or potato peel pressed inside face down, a spoon of cooked rice and a spoon of used tea leaves each leave a clear damp grey patch on a paper napkin within 10 minutes under a heavy book. An unrinsed milk packet leaves white drops. A dry onion skin, a dry leaf, a dry wrapper and newspaper leave the napkin dry. On the Hanger Balance, one meal's peels and leftovers usually outweigh its packets, but homes differ, and the step says so. The spine is the intro, the Napkin Press Test and the explanations (session 1, about 35 minutes), then the Kitchen Sort, Roots and the quiz (session 2, about 30 minutes)."
  },
  "roots": {
-  "context": "We have tested which waste leaves a wet mark and found that the mark does not decide the bin. Now we ask what that tells us about waste, about the beings who eat it, and about ourselves.",
+  "context": "In the Napkin Press Test, we found that a wet mark does not decide the bin. Now we ask what that tells us about waste, about the living beings who eat it, and about ourselves.",
   "deep_truth": {
-   "truth": "In our test, the dry onion skin left no wet mark, but the milky packet did. Still, the onion skin goes in the wet bin and the packet in the dry bin. A bin is chosen by what can happen to a thing next. Wet waste rots into soil, and clean dry waste can often be made into new things.",
-   "habit": "We name things by how they look or feel now, like wet and dry. The napkin test showed that how a thing feels today does not tell us what will become of it.",
+   "truth": "In the Napkin Press Test, the dry onion skin left no wet mark, but the unrinsed milk packet did. Still, the onion skin goes in the wet bin and the packet in the dry bin. We choose a bin by what can happen to the thing next. Wet waste rots into soil, and clean dry waste can often be made into new things.",
+   "habit": "We name things by how they look or feel now, like wet and dry. The Napkin Press Test showed that how a thing feels today does not tell us what will become of it.",
    "evidence": "In the Napkin Press Test, the peel, rice and tea leaves wet the napkin, and so did the unrinsed milk packet. The onion skin and the dry leaf left it dry. Yet the onion skin and the leaf rot, so they go in the wet bin. The packet does not rot, so after a rinse it goes in the dry bin."
   },
   "three": {
    "who_am_i": "You are an animal who eats food and leaves peels. What you throw away becomes food for other living beings.",
    "what_is_life": "Bacteria, fungi and worms eat what is left of plants and animals. Their eating turns it back into soil, where new plants grow.",
-   "what_is_this_world": "Nothing is ever thrown right out of the world. Every peel and every packet goes somewhere."
+   "what_is_this_world": "Nothing we throw away leaves the world. Every peel and every packet goes somewhere."
   },
   "thread": "A peel was part of a living banana plant. In the bin, bacteria and fungi find the peel, choose it as food and eat it. Their bodies grow, and what is left becomes soil. New plants can grow in that soil. Plastic sits outside this circle for now, because almost no decomposer eats it.",
   "teachings": [
@@ -1864,7 +1864,7 @@
    {
     "source": "Thich Nhat Hanh, teachings on interbeing",
     "teaching": "Look deeply at a flower and you can see the compost it will become. Look deeply at compost and you can see the flowers it will grow.",
-    "link": "The onion skin in the wet bin looks like rubbish. Looked at deeply, it is soil, and then a new plant."
+    "link": "The onion skin in the wet bin looks like rubbish. But it will become soil, and then part of a new plant."
    }
   ],
   "science": [
@@ -1892,14 +1892,14 @@
    "kid": "Hold a peel or a dry leaf. Look at it. Close your eyes. Think where it will go. Picture the soil. Picture a small plant. Open your eyes. Put it in the green bin."
   },
   "ask": [
-   "Is a peel waste for a worm?",
+   "A peel is waste to us. Is it waste to a worm?",
    "If a thing will become soil, is it rubbish, or something else?",
    "What do you throw away that might become part of a plant one day?"
   ],
   "art": "A child holding a dry onion skin over a green bin, with a dotted path from the bin into the soil and up into a small green plant."
  },
  "how_we_found_out": {
-  "story": "For a long time, many towns in India took mixed garbage out of town and tipped it onto open land. Many people thought the problem was gone once it was out of sight. Almitra Patel, a scientist and campaigner near Bengaluru, looked at what those dumps were really like. They smelled and caught fire. Rain washed dirty water out of them, into the ground and into wells. She said cities must collect waste every day, keep wet and dry waste apart, and make compost from wet waste. In 1996 she took the problem to the Supreme Court of India. The court set up a committee to study it. Its work led to India's first national rules for city waste, in 2000. Rules from 2016 say every home must sort its waste. The dump was never the end of the waste. It only moved it somewhere else.",
+  "story": "For a long time, many towns in India took mixed garbage out of town and tipped it onto open land. Many people thought the problem was gone once it was out of sight. Almitra Patel, a scientist and campaigner near Bengaluru, looked at what those dumps were really like. They smelled and caught fire. Rain washed dirty water out of them, into the ground and into wells. She said cities must collect waste every day, keep wet and dry waste apart, and make compost from wet waste. In 1996 she took the problem to the Supreme Court of India. The court set up a committee to study it. Its work led to India's first national rules for city waste, in 2000. Rules from 2016 say every home must sort its waste. The dump was never the end of the waste. Dumping only moved the waste somewhere else.",
   "who": "Almitra Patel, scientist and campaigner, near Bengaluru; the Supreme Court of India and its committee",
   "when": "1996 (court case); 2000 (first national rules); 2016 (newer rules)",
   "wrong_idea": "That taking mixed garbage out of town and dumping it solved the problem. Almitra Patel showed that dumps poison air, soil and water, and that sorting at home, collecting every day and composting wet waste work better.",

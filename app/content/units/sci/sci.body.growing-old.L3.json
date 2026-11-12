@@ -276,7 +276,7 @@
    "examples": [
     "Many of your cells can only split to make new cells a certain number of times. In 1961, Leonard Hayflick and Paul Moorhead found human cells in a dish stopped after about 40 to 60 splits.",
     "Elizabeth Blackburn and Carol Greider found telomerase, a substance that rebuilds the caps on the ends of genes. They shared a Nobel Prize in 2009 with Jack Szostak.",
-    "A mouse lives about 2 years. A human can live 80 or more. Their cells are very alike, so scientists think the timetable is set partly by genes."
+    "A mouse lives about 2 years. A human can live 80 or more. Their cells are very alike, so scientists think how long an animal lives is set partly by genes."
    ],
    "perspectives": [
     {
@@ -289,7 +289,7 @@
     },
     {
      "who": "Nature's timetable",
-     "explanation": "Some scientists, like Peter Medawar in 1952 and George Williams in 1957, argued this. Nature mostly shapes how well bodies work while they are young and can have children. So little pushes bodies to stay young for ever."
+     "explanation": "Nature mostly shapes how well bodies work while they are young and can have children. After that, there is little in nature that pushes bodies to stay young. Peter Medawar in 1952 and George Williams in 1957 were among the scientists who argued this."
     }
    ],
    "art": "A shoelace with a plastic tip, drawn next to a long gene thread with glowing caps at both ends that get shorter in three steps.",
@@ -346,7 +346,7 @@
    "context": "This card explains why people in India and the world live longer than people did long ago."
   },
   {
-   "concept": "Can ageing be slowed? The frontier",
+   "concept": "Can ageing be slowed? What scientists are still finding out",
    "status": "idea",
    "description": "Some living things barely seem to age. Scientists study them to learn how ageing works. Nobody yet knows how to stop human ageing, and some think we never will.",
    "examples": [
@@ -657,7 +657,7 @@
       "TRY IT: Pinch the skin on the back of your hand. Count how long it takes to go flat.",
       "TRY IT: Hold this card close to your nose and slowly move it away. When do the words go sharp?",
       "TRY IT: Walk like a baby who has just learned to walk. Now walk like a teenager in a hurry.",
-      "TRY IT: Ask the oldest person nearby one thing they could do at 8 that you also can.",
+      "TRY IT: Ask the oldest person nearby to name one thing they could do at 8 that you can do too.",
       "TRY IT: Name one thing an elder can do better than you, and one thing you can do better."
      ]
     },
@@ -755,7 +755,7 @@
      "do": "When the cards run out, count stars. Then look at the whole mat together.",
      "say": "Look at the whole line. You will move along it too. Which stage are you at now? Which stage am I at? Which is the one you are most curious about?",
      "kid": "Count your stars. Look at the whole line. Find where you are now. Where will you be one day?",
-     "think": "Every elder on this mat was once a baby. Are the baby and the elder the same person?",
+     "think": "Every elder was once a baby. Are the baby and the elder the same person?",
      "context": "This is the last step of the Life Stage Game. You count stars and look at the whole life line."
     }
    ]
@@ -815,7 +815,7 @@
       "42",
       "43",
       "44",
-      "45: Top of the ladder from 27 LIFE CARD square",
+      "45: Top of the ladder from 27. LIFE CARD square",
       "46: Bottom of the slide from 67",
       "47",
       "48",
@@ -997,7 +997,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl is 8. She thinks children her age grow faster than anyone. A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?",
+     "p": "A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?",
      "opts": [
       "The baby, by about 25 cm in one year",
       "The 8-year-old, because she is older and bigger",
@@ -1005,7 +1005,7 @@
       "Nobody grows after they are born"
      ],
      "a": 0,
-     "why": "75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. The girl's guess is a common one, because children can see themselves growing out of clothes."
+     "why": "75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. Many children guess that the 8-year-old grows fastest, because they can see themselves growing out of clothes."
     },
     {
      "t": "mcq",
@@ -1050,7 +1050,7 @@
     },
     {
      "t": "mcq",
-     "p": "Before the near point test, a girl made a guess. She thought her mother, who is 46, would read the tiny card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?",
+     "p": "In the near point test, you find how close a person can hold a card with tiny print and still read it. Before the test, a girl guessed that her mother, who is 46, would read the card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?",
      "how": "e2",
      "opts": [
       "The girl read it closer. Her mother had to hold it further away, because her lens is stiffer.",
@@ -1135,7 +1135,7 @@
       "The lining of the gut"
      ],
      "a": 2,
-     "why": "The cells in the middle of your eye lens were made before you were born, and they stay all your life. Skin, blood and gut lining are replaced again and again. Picking 'skin' usually means it has been pictured as fixed, but the outer skin is replaced about every month."
+     "why": "The cells in the middle of your eye lens were made before you were born, and they stay all your life. Skin, blood and gut lining are replaced again and again. People who pick 'skin' often think skin stays the same, but the outer skin is replaced about every month."
     },
     {
      "t": "truefalse",
@@ -1198,7 +1198,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In the near point test, a girl aged 9 read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. The girl's teacher, aged 25, does the same test. Where do you predict her result fits? Explain your guess.",
+     "p": "In the near point test, you find the closest distance at which a person can read a card with tiny print. A girl aged 9 read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. A teacher, aged 25, does the same test. Where do you think the teacher's result will fit? Explain your guess.",
      "lines": 3,
      "how": "e2",
      "a": "For example: about 10 to 12 cm, between the girl and her mother. The teacher is older than the girl, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.",
@@ -1206,7 +1206,7 @@
     },
     {
      "t": "write",
-     "p": "In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if the grandfather sat further away than the girl?",
+     "p": "In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if a grandfather sat further from the speaker than a child?",
      "lines": 3,
      "how": "e3",
      "a": "Only age should be different, so we know age caused the result. If the grandfather sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.",
@@ -1322,14 +1322,14 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy of 9 in Class 4, says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell Arjun?",
+     "p": "Someone says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell them?",
      "lines": 3,
      "a": "For example: That is not true. Karthyayani Amma learned to read and write in her nineties and passed the exam. Brains keep making new connections all life. Some fast things may get slower, but people can keep learning.",
      "why": "A strong answer uses the real example as evidence against a common belief, and is fair that some quick tasks do get slower with age."
     },
     {
      "t": "write",
-     "p": "Meera, a girl in Class 3, wrote down made-up skin test results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. She says, 'So skin only starts changing after 38.' Is she right? Explain.",
+     "p": "In the snap-back skin test, you pinch the back of a hand and count how long the skin takes to go flat. Here are some made-up results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. Someone says, 'So skin only starts changing after 38.' Are they right? Explain.",
      "lines": 3,
      "how": "e1",
      "a": "No. The parent's skin already took twice as long as the child's. So the change starts early and builds slowly. It only looks big later because it has added up for many years.",
@@ -1464,7 +1464,7 @@
     },
     {
      "t": "mcq",
-     "p": "Each time a cell splits, the caps on the ends of their gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, whose caps would you expect to be shorter?",
+     "p": "Each time a cell splits, the caps on the ends of its gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, which cells would you expect to have shorter caps?",
      "opts": [
       "The skin cells' caps",
       "The lens cells' caps",
@@ -1476,7 +1476,7 @@
     },
     {
      "t": "write",
-     "p": "When a body dies, their atoms go back into the soil, water and air. Where might those atoms go next?",
+     "p": "When a body dies, its atoms go back into the soil, water and air. Where might those atoms go next?",
      "lines": 3,
      "a": "Into a plant, which a cow or a person might eat. Into a tree. Into a river. Into a new living being.",
      "why": "Atoms are never lost. They move through soil, plants and animals again and again. A strong answer follows the atoms for at least two steps."
@@ -1496,7 +1496,7 @@
     {
      "t": "draw",
      "p": "Design a bus stop sign that an elder with a stiff eye lens can read from the bench. Label two choices you made, and which body change each one helps with.",
-     "a": "For example: big, dark letters on a light background, for older eyes. A picture of the bus number, so it can be read from far away. A loud and flashing light when the bus comes, for ears that hear less.",
+     "a": "For example: big, dark letters on a light background, for older eyes. A picture of the bus number, so it can be read from far away. A loud sound and a flashing light when the bus comes, for ears that hear less.",
      "why": "Good design fits real changes in older bodies. Big letters with strong contrast are easier for a stiff lens and older eyes.",
      "art": "An empty sign shape on a pole, next to a bench."
     },
@@ -1557,7 +1557,7 @@
     },
     {
      "t": "mcq",
-     "p": "Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Kavya, a girl of 9, says, 'Hire only young people.' What does the evidence say?",
+     "p": "Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Someone says, 'Hire only young people.' What does the evidence say?",
      "opts": [
       "An older worker's knowledge and experience may help more with hard problems",
       "Only young people can solve problems",
@@ -1618,7 +1618,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Test each person 3 times. Write down the seconds. Then draw a bar chart."
+     "what": "Guess whose skin will go flat fastest. Test each person 3 times and write down the seconds. Then draw a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw a bar chart. Draw one bar for each person, in order of age. Make each bar as tall as that person's middle value.",
@@ -1690,7 +1690,7 @@
      "do": "1. Test each person 3 times on the back of the hand. 2. Time from letting go until the skin is flat. 3. Write each time in the table.",
      "say": "Ready, pinch, one, two, three, let go. Watch the little ridge of skin. Say stop when it is flat.",
      "kid": "Ask first. Pinch for three seconds. Let go. Count until the skin is flat. Write the number. Do it 3 times.",
-     "parent": "Young skin goes flat almost at once, so write 'less than 1 second'. Skin of people over 60 can stay up for a few seconds. Between a child and a parent of 35 there may be almost no difference, so test an elder if you can, such as a grandparent or an older neighbour. Drinking little water can also slow it down, so it is not a perfect test. Deciding when skin is flat by eye is hard, so treat small differences as a guess, and trust only a clear gap.",
+     "parent": "Young skin goes flat almost at once, so write 'less than 1 second'. Skin of people over 60 can stay up for a few seconds. Between a child and a parent of 35 there may be almost no difference, so test an elder if you can, such as a grandparent or an older neighbour. Skin also goes flat more slowly when a person has not drunk much water, so this is not a perfect test. It is hard to tell by eye exactly when skin is flat, so treat small differences as a guess, and trust only a clear gap.",
      "context": "This is the main step of the snap-back skin test. You test each person 3 times and write down the seconds."
     },
     {
@@ -1706,7 +1706,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but the oldest person's took 3 seconds. Why: older skin has fewer springy threads inside.",
      "context": "This is the last step of the snap-back skin test. Your child explains the result."
     }
@@ -1750,7 +1750,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Measure each person's closest sharp reading distance 3 times. Draw a bar chart."
+     "what": "Guess who can read tiny print closest. Measure each person's closest sharp reading distance 3 times. Then draw a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw a bar chart, one bar for each person in order of age.",
@@ -1839,9 +1839,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
+     "do": "Ask your child to say or write three sentences: what they think now, what they saw, and why they think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but the oldest person needed 60 centimetres. Why: the lens in an older eye has got stiff, so it cannot focus up close.",
      "context": "This is the last step of the near point test. Your child explains what they found."
     }
@@ -1883,7 +1883,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Play four high sounds quietly. Write who heard each one."
+     "what": "Guess who will hear the highest sound. Play four high sounds quietly. Write down who heard each one."
     }
    ],
    "record": "Fill in the table. Draw a tick for each sound a person heard. Then colour in a bar for each person up to their highest sound.",
@@ -1931,8 +1931,8 @@
      "id": "s1",
      "mins": 3,
      "adult": true,
-     "do": "1. Open an online tone generator. 2. Set the volume low. 3. Set it to 4,000 hertz, a medium-high beep.",
-     "say": "Sounds can be low, like a drum, or high, like a whistle. How high a sound is, is measured in hertz. Let's see who can hear the highest sounds.",
+     "do": "1. On a phone, open an online tone generator, which plays a beep as high or low as you set it. 2. Set the volume low. 3. Set it to 4,000 hertz, a medium-high beep.",
+     "say": "Sounds can be low, like a drum, or high, like a whistle. We measure how high a sound is in hertz. Let's see who can hear the highest sounds.",
      "kid": "Fetch a grown-up for this test. Sounds can be low or high. We will play higher and higher beeps.",
      "parent": "Hertz means how many times a second the air vibrates, or shakes back and forth. 4,000 hertz is a sharp beep. Young children can often hear up to about 17,000 hertz or more. Many older people hear only up to 8,000 to 10,000.",
      "context": "This is the first step of the high sound test. A grown-up gets the tone generator ready."
@@ -1951,11 +1951,11 @@
      "id": "s3",
      "mins": 3,
      "do": "Look at the table together.",
-     "say": "Who heard the highest sound? Why do you think older ears miss them?",
+     "say": "Who heard the highest sound? Why do you think older ears miss the highest sounds?",
      "kid": "Who heard the highest beep? Why might older ears miss it?",
      "check": {
       "t": "mcq",
-      "q": "Priya, a girl in Class 3, played beeps to her family. She heard a beep of 15,000 hertz. Her grandfather did not. What is the best reason?",
+      "q": "In the high sound test, a child heard a beep of 15,000 hertz. Her grandfather did not. What is the best reason?",
       "options": [
        "The tiny hair cells for high sounds wear out first as we age",
        "The grandfather was not listening",
@@ -1970,9 +1970,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
+     "do": "Ask your child to say or write three sentences: what they think now, what they saw, and why they think it happened.",
      "say": "Now tell me three things. What do you think? What did you see? Why?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but the oldest person only heard up to 8,000. Why: the hair cells for high sounds in older ears have worn out over the years.",
      "context": "This is the last step of the high sound test. Your child explains what they found."
     }
@@ -2341,9 +2341,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Call out time passing. At each call, swap the notes listed: peel off the old notes and stick on pink ones (the first swap uses pink, later swaps just peel the pink off and stick it back on as 'new'). One week passes: swap the gut notes. One month passes: swap gut and skin. Four months pass: swap gut, skin and blood. Ten years pass: swap gut, skin, blood and bones. Never swap the brain or eye lens notes.",
+     "do": "Call out time passing. At each call, swap the notes listed. The first time you swap an area, peel off its yellow notes and stick on pink ones. After that, peel the pink notes off and stick them back on as 'new'. One week passes: swap the gut notes. One month passes: swap gut and skin. Four months pass: swap gut, skin and blood. Ten years pass: swap gut, skin, blood and bones. Never swap the brain or eye lens notes.",
      "say": "One week passes. Swap the gut. One month passes. Swap the gut and the skin. Four months pass. Swap gut, skin and blood. Ten years pass. Swap the bones too. What about the brain and the eye lens? We leave them.",
-     "kid": "Time passes! A week: swap the gut notes. A month: gut and skin. Four months: gut, skin and blood. Ten years: all of those and the bones. Leave the brain and the eye lens.",
+     "kid": "After a week, swap the gut notes. After a month, swap gut and skin. After four months, swap gut, skin and blood. After ten years, swap all of those and the bones. Never swap the brain or the eye lens.",
      "parent": "These are rough times. Real cells are replaced a few at a time, all the time, not all at once.",
      "context": "This is the main step of the Sticky-Note Body. You swap paper 'cells' at different speeds."
     },
@@ -2381,7 +2381,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Make a life line of photos or drawings from birth to now, and from birth to old age for an elder."
+     "what": "Make a life line of photos or drawings of yourself, from birth to now. Then make a longer one for an elder."
     }
    ],
    "record": "Your finished life line, with each life stage labelled.",
@@ -2591,7 +2591,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Show it to an elder and ask what they think.",
-     "say": "Show your model to an elder. Would this help you? What would you change?",
+     "say": "Show your model to an elder. Ask them: would this help you? What would you change?",
      "kid": "Show it to an elder. Ask: would this help you? What would you change?",
      "context": "This is the last step of Design an Elder-Friendly Room. You test your design with an elder."
     }
@@ -2669,7 +2669,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Pick the best idea and give one to an elder.",
+     "do": "Pick the best idea. Make one for an elder you know.",
      "say": "Which idea won? Let us make one for an elder you know.",
      "kid": "Which idea won? Make one for an elder you know.",
      "context": "This is the last step of the Easy-Open Jar. You pick the best idea and share it."
@@ -2758,7 +2758,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the skin test, you pinch the back of a hand and count how long the skin takes to go flat. To make it fair, what must stay the same for everyone?",
+   "p": "In the snap-back skin test, you pinch the back of a hand and count how long the skin takes to go flat. To make it fair, what must stay the same for everyone?",
    "opts": [
     "The place pinched and how long it is pinched",
     "The person's age",
@@ -3043,7 +3043,7 @@
    "why_maths": "Saying '6 times further' tells us how much the eye has changed, not just that it changed."
   },
   {
-   "problem": "Riya, a girl in Class 3, did the skin test with her Ammamma, her mother's mother. Ammamma's three tries took 4 seconds, 2 seconds and 3 seconds. What is the middle value?",
+   "problem": "In the snap-back skin test, a grandmother's three tries took 4 seconds, 2 seconds and 3 seconds. What is the middle value?",
    "answer": "3 seconds.",
    "explain": "Put the numbers in order, smallest first: 2, 3, 4. The number in the middle is 3. So the middle value is 3 seconds.",
    "math_unit": "math.number-sense.comparing-ordering.L3",

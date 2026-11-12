@@ -182,7 +182,7 @@
    "concept": "What blood is, and what it carries",
    "status": "defined",
    "definition": "Blood is a liquid made of watery plasma with trillions of tiny cells floating in it. It carries oxygen, food, water and warmth to every part of the body, and carries waste away.",
-   "description": "Blood looks like one red liquid. Under a microscope it is a crowd. Most of the crowd are red blood cells. They are tiny round discs that carry oxygen. They contain iron, and that iron is what grabs the oxygen. There are also white blood cells, which fight germs. You will meet them properly in the unit on how the body fights germs. There are tiny pieces called platelets, which stick together to help plug a cut. All of these float in plasma, a pale yellow watery liquid. Plasma carries the food from your lunch, water and salts. An 8-year-old child has about 2 litres of blood, about the same as a big water bottle.",
+   "description": "Blood looks like one red liquid. Under a microscope you can see that it is full of tiny things. Most of them are red blood cells. They are tiny round discs that carry oxygen. They contain iron, and that iron is what grabs the oxygen. There are also white blood cells, which fight germs. You will meet them properly in the unit on how the body fights germs. There are tiny pieces called platelets, which stick together to help plug a cut. All of these float in plasma, a pale yellow watery liquid. Plasma carries the food from your lunch, water and salts. An 8-year-old child has about 2 litres of blood, about the same as a big water bottle.",
    "examples": [
     "When you get a cut, platelets clump together to make a plug. The plug dries into a scab.",
     "Red blood cells live only about four months. The soft inside of your bones, called marrow, makes new ones all the time. A grown-up makes about 2 million new red cells every second.",
@@ -224,7 +224,7 @@
    "concept": "Why every part of you needs oxygen",
    "status": "defined",
    "definition": "Respiration is how the tiny living parts of your body, called cells, use oxygen to break down food and release the energy in the food. Carbon dioxide and water are left over.",
-   "description": "Your body is made of trillions of tiny living parts called cells. Every cell needs energy to do their job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
+   "description": "Your body is made of trillions of tiny living parts called cells. Every cell needs energy to do its job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
    "examples": [
     "About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. Animals take in oxygen and give out carbon dioxide and heat, just like a candle does.",
     "You are warm partly because of respiration. Trillions of cells releasing energy all day make heat.",
@@ -307,7 +307,7 @@
   {
    "concept": "Why hearts beat at different speeds",
    "status": "debated",
-   "description": "A mouse's heart beats about 500 times a minute. An elephant's heart beats about 30 times. A human child's beats about 90. Small animals almost always have faster hearts. Scientists agree on that pattern. They argue about what it means, and especially about whether there is a 'budget' of heartbeats in a lifetime.",
+   "description": "A mouse's heart beats about 500 times a minute. An elephant's heart beats about 30 times. A human child's beats about 90. Small animals almost always have faster hearts. Scientists agree on that pattern. They argue about what it means. Above all, they argue about whether each animal gets a fixed number of heartbeats in a lifetime, like a 'budget'.",
    "examples": [
     "A hummingbird's heart can beat more than 1,000 times a minute in flight.",
     "In 2019, scientists stuck a sensor on a blue whale with suction cups. Deep under water, the whale's heart beat only about 2 times a minute.",
@@ -320,7 +320,7 @@
     },
     {
      "who": "Some scientists, writing since the 1990s",
-     "explanation": "If you multiply heart rate by lifespan, many mammals end up with roughly a billion heartbeats in a life. A mouse spends them quickly, an elephant slowly. Maybe there is a kind of heartbeat budget."
+     "explanation": "If you multiply heart rate by lifespan, many mammals end up with roughly a billion heartbeats in a life. A mouse spends them quickly, an elephant slowly. Maybe each animal gets a fixed number of heartbeats, like a budget."
     },
     {
      "who": "Other scientists",
@@ -493,10 +493,10 @@
   "note": "Real: Helen Taussig (1898 to 1986) lost much of her hearing as a young doctor and learned to feel heartbeats with her fingers. Her idea of a new pipe to the lungs for 'blue babies', the Boston surgeon who turned her down, Alfred Blalock and Vivien Thomas working it out together, Vivien Thomas's lost college savings, Eileen Saxon's operation in November 1944 with Thomas on a stool behind the surgeon, her lips turning pink, and Thomas's honorary degree in 1976 are all real. Imagined: the exact words spoken, the small scenes, and what people thought. For the parent: Eileen grew stronger for a while, but she died young, after a later operation. The story leaves this out. Thousands of children after her grew up because of this operation.",
   "text": [
    "In a big hospital in Baltimore, in America, the babies on one ward were blue. Not the blue of the sky. The blue of lips that have stayed too long in cold water. Their fingernails were blue. Their tiny toes were blue. When they cried, they turned bluer still. Then they had to squat down, or lie curled with their knees pulled up, gasping for breath.",
-   "The doctor who looked after them was called Helen Taussig. She was a children's heart doctor. It was the early 1940s, and she had a secret that was not really a secret. She could hardly hear. She had been slowly losing her hearing for years. A heart doctor who cannot hear a heartbeat is like a singer who cannot hear a song. So Helen had taught her hands to listen instead.",
+   "The doctor who looked after them was called Helen Taussig. She was a children's heart doctor. It was the early 1940s. Helen could hardly hear. She had been slowly losing her hearing for years. A heart doctor who cannot hear a heartbeat is like a singer who cannot hear a song. So Helen had taught her hands to listen instead.",
    "She would lay her fingers flat on a baby's chest, very gently, and wait. Through her fingertips she felt the heart. She felt the push, and the shudder, and the rush of blood where it should not be. She felt it the way you feel a drum through the floor at a wedding. Other doctors heard a heart. Helen felt one, and she remembered every heart she had ever felt.",
    "Every heart has one simple job. It squeezes, more than a hundred times a minute in a baby, and pushes blood along two loops. One loop goes from the heart to the lungs and back. In the lungs, the blood picks up oxygen from the air, and turns bright red. The other loop goes from the heart out to the whole body, where some of the oxygen is used, and then back again. Round and round go the two circles, joined at the heart.",
-   "Helen's blue babies had hearts that were built a little wrong. There was a hole inside, and the doorway to the lungs was far too narrow. So too little blood went to the lungs. Dark blood that had never visited the air went straight back out to the body. That was the blue. The babies were not short of blood. Too little of their blood was going through the lungs.",
+   "Helen's blue babies had hearts that were built a little wrong. There was a hole inside, and the doorway to the lungs was far too narrow. So too little blood went to the lungs. Dark blood that had not been through the lungs went straight back out to the body. That is why the babies looked blue. The babies were not short of blood. Too little of their blood was going through the lungs.",
    "Helen noticed something odd. Some blue babies seemed almost well when they were born. They turned bluer only after a few days or weeks. Why then? She thought about it for a long time. Every baby is born with a small extra pipe beside the heart, a shortcut that closes by itself soon after birth. Perhaps, she thought, in these babies that little pipe had been sending extra blood to the lungs. When it closed, they lost it. And they turned blue.",
    "So the answer was not to mend the whole heart. Nobody in the world could do that yet. The answer was to give the blood a new road to the lungs. Build a new pipe. More blood to the lungs would mean more oxygen. More oxygen would mean pink.",
    "She took her idea to a famous surgeon in Boston. He was not interested. She came home. Then a new surgeon arrived at her own hospital, Dr Alfred Blalock. He listened. And he had someone working beside him called Vivien Thomas.",
@@ -556,7 +556,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess. Count your pulse sitting still, just after one minute of jumping, and after two minutes of rest. Make a bar chart."
+     "what": "Guess what will happen to your pulse. Then count your pulse sitting still, just after one minute of jumping, and after two minutes of rest. Make a bar chart."
     }
    ],
    "record": "Fill in the table. Then draw a bar chart, with one bar for each time you counted. Make each bar as tall as the beats in one minute.",
@@ -662,7 +662,7 @@
      "do": "1. Your child does star jumps for 1 minute. 2. As soon as they stop, they sit and find their pulse. 3. Count for 30 seconds. 4. Write it down. Count only once here, because the heart slows down fast. Write it in Count 1 and leave Count 2 empty.",
      "say": "Now let's make your muscles work. Star jumps for one minute! Go! Stop! Quick, find your pulse. Count!",
      "kid": "Do star jumps for one minute. Stop. Quickly find your pulse. Count for 30 seconds. Write it down.",
-     "parent": "Be quick to start counting, because the heart begins to slow straight away. Expect the count to be much higher, perhaps half as much again or nearly double. Notice the breathing too.",
+     "parent": "Be quick to start counting, because the heart begins to slow straight away. Expect the count to be much higher, perhaps one and a half times the resting count, or nearly double. Notice the breathing too.",
      "ask": [
       {
        "q": "What else changed when you jumped, apart from your pulse?",
@@ -803,12 +803,12 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the steel plate in the fridge for 10 minutes (or a bowl of ice water for the plate to sit on). 2. Take it out. 3. Ask your child to breathe out slowly onto it from close up. 4. Look at the mist. While the plate cools, you can start the next step.",
+     "do": "1. Put the steel plate in the fridge for 10 minutes, or stand it on a bowl of ice water. 2. Take it out. 3. Ask your child to breathe out slowly onto it from close up. 4. Look at the mist. While the plate cools, you can start the next step.",
      "say": "This plate has been in the fridge. Breathe out onto it. What do you see? What do you think that mist is?",
      "kid": "Breathe out onto the cold plate. Do you see a mist? What do you think it is?",
      "ask": [
       {
-       "q": "Where did the water come from?",
+       "q": "The mist on the cold plate is water. Where did the water come from?",
        "good": [
         "From inside me.",
         "From my lungs.",
@@ -925,7 +925,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Mark the bottle every 100 ml. Fill it and turn it upside down in the bucket. Blow ordinary and biggest breaths. Read the air space. Compare with other people at home, if you can."
+     "what": "Mark the bottle every 100 ml. Fill it and turn it upside down in the bucket. Blow an ordinary breath into it, and then your biggest breath. Each time, read the mark at the bottom of the air space. Compare with other people at home, if you can."
     }
    ],
    "record": "Fill in the table. Draw a bar chart with one bar for each person's biggest breath.",
@@ -982,7 +982,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Fill the bottle to the top and screw on the cap. 2. Turn it upside down with the neck under the water in the bucket. 3. Unscrew the cap under the water. 4. Hold the bottle still and push the end of the tube into its neck.",
-     "say": "Now the tricky bit. Upside down, neck under water, take the cap off under the water. The water stays in! Air is pressing on the water in the bucket and holds it up.",
+     "say": "Now the tricky bit. We turn the bottle upside down with its neck under the water. Then we take the cap off under the water. The water stays in! Air is pressing on the water in the bucket, and that holds the water up in the bottle.",
      "kid": "Fill the bottle. Put the cap on. Turn it upside down in the bucket. Take the cap off under the water. Push the tube into the neck.",
      "adult": true,
      "parent": "A grown-up holds the bottle steady. Use a bucket only about half full, so it does not overflow when the breath pushes water out of the bottle. If air gets in while setting up, start again."
@@ -990,7 +990,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Your child breathes in normally, then breathes out normally through the tube, once. 2. Read the mark at the bottom of the air space. 3. Refill and set up again. 4. Now take the biggest breath in they can, and blow out all of it. 5. Read the mark. Do the biggest breath 2 times.",
+     "do": "1. Your child breathes in normally, then breathes out normally through the tube, once. 2. Read the mark at the bottom of the air space. 3. Refill and set up again. 4. Now your child takes the biggest breath in they can, and blows all of it out through the tube. 5. Read the mark. Do the biggest breath 2 times.",
      "say": "First an ordinary, everyday breath out. Just a normal one. Then refill, and do your biggest ever breath in, and blow it all out.",
      "kid": "Breathe out one normal breath into the tube. Read the line. Then take your biggest breath. Blow it all out. Read the line again.",
      "parent": "An ordinary breath for an 8-year-old is often 150 to 300 ml. The biggest breath out may be 1,000 to 2,000 ml. A grown-up's biggest breath is usually bigger than the bottle. If the bottle fills with air, write 'more than 2,000 ml'.",
@@ -1101,7 +1101,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Roll the paper into a tight tube, about as wide as a coin. 2. Tape it. 3. In a quiet room, rest one end on the grown-up's chest, a little left of the middle. 4. Your child puts their ear gently against the other end.",
-     "say": "Put the tube here, a little to the left of the middle of my chest. Now ear to the other end. Shh. What can you hear?",
+     "say": "Put the tube here, a little to the left of the middle of my chest. Now put your ear to the other end. Shh. What can you hear?",
      "kid": "Roll the paper into a tube. Put one end on a grown-up's chest. Put your ear to the other end. Be very quiet. Listen.",
      "ask": [
       {
@@ -1123,7 +1123,7 @@
      "kid": "Hold the tube end at your ear. Do not push it in. Move the funnel around. Where is the heartbeat loudest? Listen to a deep breath too.",
      "check": {
       "t": "mcq",
-      "q": "Why does the funnel stethoscope sound louder than just your ear in the air?",
+      "q": "Why does a heartbeat sound louder through the funnel stethoscope than with just your ear?",
       "options": [
        "The funnel catches the sound from a wide patch and the tube carries it to your ear",
        "The funnel makes new sounds",
@@ -1467,7 +1467,7 @@
        "Your fingers got tired"
       ],
       "a": 0,
-      "why": "Your heart and breath are linked by nerves. Each long breath out gives the heart a small 'slow down' message. Picking 'stops the heart' is not right: the heart keeps its own beat and only changes speed a little. If your pulse did not drop, that is fine too. It was already calm."
+      "why": "Your heart and breath are linked by nerves. Each long breath out gives the heart a small 'slow down' message. Picking 'stops the heart' is not right: the heart keeps its own beat and only changes speed a little. If your pulse did not drop, that is fine too. Your heart was already calm."
      },
      "think": "When you feel angry or scared, what could you do with your breath?"
     }
@@ -1621,7 +1621,7 @@
        "b": "The right side. The left side sends blood out to the body."
       },
       {
-       "f": "QUESTION: Which gas do your cells make and your blood carries away? Answer right and move 2 extra squares.",
+       "f": "QUESTION: Your cells make a waste gas, and your blood carries it away. Which gas is it? Answer right and move 2 extra squares.",
        "b": "Carbon dioxide. You breathe it out."
       },
       {
@@ -1736,7 +1736,7 @@
      "do": "1. Add up everyone's points. 2. Then talk about the game.",
      "say": "Count your points. Now think. In real life, a red blood cell goes round the body about once a minute. How many trips would that be in a day?",
      "kid": "Count your points. Who delivered the most oxygen? Real red cells go round about once a minute, all day long!",
-     "think": "A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes their place. Is the you of today made of the same blood as the you of last year?"
+     "think": "A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes its place. Is the blood you have today the same blood you had last year?"
     }
    ]
   },
@@ -1802,7 +1802,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Draw the figure of eight with chalk, or lay it out with string or an old sari, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 40 paper balls for each runner. 4. Cut out the caller cards and the score sheet.",
-     "say": "Today you are red blood cells. This chalk shape is the path your blood takes. Top loop, the lungs. Bottom loop, the body. Every trip goes through the heart in the middle.",
+     "say": "Today you are red blood cells. This chalk shape is the path your blood takes. The top loop goes to the lungs. The bottom loop goes to the body. Every trip goes through the heart in the middle.",
      "kid": "You are a red blood cell! The top loop goes to the lungs. The bottom loop goes to the body. Always go through the heart in the middle.",
      "context": "This is the first step of the Chalk Heart Relay, a running game about blood carrying oxygen. Here you draw the path."
     },
@@ -1810,7 +1810,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. The caller draws a card and reads it out. 2. Everyone moves that way for one minute. 3. The caller counts the balls in the basket and writes the number down. 4. Put the balls back at the lungs. 5. Do 5 cards: SLEEPING, RUNNING A RACE and 3 more at random.",
-     "say": "Card says: sleeping. Tiptoe round, slowly. Count! Next card: running a race! Go!",
+     "say": "This card says sleeping. Walk round slowly on tiptoe. Stop! Now I count the balls. The next card says running a race. Go!",
      "kid": "Listen to the card. Move the way it says. Carry 2 oxygen balls each trip, unless the card says otherwise. After one minute, the caller counts the balls in the basket.",
      "check": {
       "t": "mcq",
@@ -1830,7 +1830,7 @@
      "do": "Compare the score sheet numbers. Then feel your own pulses.",
      "say": "Look at our numbers. Which minute delivered the most oxygen? Which delivered the least? What was the card each time? Now feel your own pulse after all that moving. Your real heart does the same thing as our game.",
      "kid": "Look at the numbers. Which minute delivered the most oxygen? Which the least? Now feel your real pulse. Is it fast?",
-     "think": "Your heart speeds up even when you feel scared, sitting still. Why might your body get ready to run before you even move?"
+     "think": "Your heart speeds up when you feel scared, even if you are sitting still. Why might your body get ready to run before you even move?"
     }
    ]
   }
@@ -1888,8 +1888,8 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees (if only a few people live with you, ask a neighbour or a visiting relative too), let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Do not tell them you are counting breaths, because people breathe differently when they know they are watched. Tell them afterwards.",
-     "say": "You're going to be the family's heart doctor. Ask each person politely if you may count their pulse. Then sit them down for two minutes first.",
+     "do": "1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. Ask each person at home if they agree to be counted. If only a few people live with you, ask a neighbour or a visiting relative too. 3. Let each person sit for 2 minutes. 4. Your child counts the person's pulse for 30 seconds and doubles it. 5. Then count the person's breaths for one minute by watching their chest. Do not tell them you are counting breaths, because people breathe differently when they know they are watched. Tell them afterwards.",
+     "say": "You're going to be the family's heart doctor. Ask each person politely if you may count their pulse. Then ask them to sit still for two minutes before you count.",
      "kid": "Ask each person if you may count their pulse. Let them sit for 2 minutes. Count for 30 seconds. Double it. Write it down.",
      "parent": "Typical resting pulses: a baby may be 100 to 160, a child 70 to 110, a grown-up 60 to 100. Very fit people can be lower. A breath is one rise and one fall of the chest.",
      "context": "This is the first day of the Family Heart Map project. You count everyone's resting pulse and breathing."
@@ -2071,7 +2071,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Build a paper tube, a funnel with a tube and a paper cup with a hole. Already made the first two in the stethoscope activity? Use those.",
+     "do": "Build a paper tube, a funnel with a tube and a paper cup with a hole. If you already made the first two in the Laennec's Paper Tube activity, use those.",
      "say": "Let's build three listening tools. Then we'll test which is best.",
      "kid": "Build three listening tools. Make a paper tube. Make a funnel with a tube. Make a cup with a hole.",
      "context": "This is the first step of the best home stethoscope challenge. You build three listening tools to compare."
@@ -2079,7 +2079,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Test each design on the same person, in the same quiet place on the chest. Score each one from 1, can hardly hear, to 5, very clear.",
+     "do": "Test each design on the same person, in the same quiet place on the chest. Score each one from 1 to 5. A score of 1 means you can hardly hear the heartbeat. A score of 5 means it is very clear.",
      "say": "To be fair, we test them all on the same person, in the same spot. Give each one a score from 1 to 5.",
      "kid": "Test each tool on the same person, same spot. Score it 1 to 5. 5 means very clear.",
      "check": {
@@ -2114,12 +2114,12 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 3, says, 'My heart is on the left side of my chest, because I feel it beat there.' His sister Meenakshi, a girl in Class 4, says it is nearer the middle. Who is right?",
+     "p": "You feel your heartbeat most strongly on the left side of your chest. Where does your heart sit?",
      "opts": [
-      "Meenakshi. The heart sits in the middle, tipped a little, so the strongest beat is felt on the left.",
-      "Farhan. The whole heart is on the left side.",
-      "Neither. The heart is on the right side.",
-      "Neither. The heart is in the tummy."
+      "In the middle of the chest, tipped a little, so the strongest beat is felt on the left.",
+      "On the left side. The whole heart is on the left.",
+      "On the right side.",
+      "In the tummy."
      ],
      "a": 0,
      "why": "The heart sits in the middle of the chest, between the two lungs. Its bottom tip points to the left, and that is where the beat feels strongest. That is why so many people think the whole heart is on the left."
@@ -2252,15 +2252,15 @@
        "says": "Don't run so much. You will tire out your heart."
       },
       {
-       "who": "Dr Kalpana, a children's doctor in Madurai",
+       "who": "A children's doctor",
        "says": "Getting out of breath while playing makes the heart and lungs stronger."
       },
       {
-       "who": "Ms Thenmozhi, a games teacher",
+       "who": "A games teacher",
        "says": "Run hard, but stop and rest if your chest hurts or you feel dizzy."
       }
      ],
-     "ask": "Who do you agree with most? Use what you saw in the jumping heart experiment. Then say one thing that someone else has right.",
+     "ask": "Who do you agree with most? Use what you saw in the jumping heart experiment. Then say one thing that one of the other two people gets right.",
      "lines": 4,
      "how": "e1",
      "a": "A strong answer picks a side and uses evidence, such as 'my pulse went up to 140 after jumping, but it came back down within two minutes'. It then admits a fair point, for example that the grandmother is right to want rest when something feels wrong.",
@@ -2331,7 +2331,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 4, squeezes room air through one glass of limewater with a bottle. She blows her breath through another. Before she starts, her friend Arjun says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?",
+     "p": "You squeeze room air through one glass of limewater with a bottle. You blow your breath through another glass. Before you start, someone says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?",
      "how": "e2",
      "context": "This question is about the milky breath experiment. Limewater is made by stirring chuna into water and letting it settle. It goes milky when carbon dioxide bubbles through it.",
      "opts": [
@@ -2341,7 +2341,7 @@
       "Both go milky at the same speed"
      ],
      "a": 0,
-     "why": "Limewater goes milky with carbon dioxide, not oxygen. Your cells make carbon dioxide, and you breathe it out. Breathed-out air has about 100 times more carbon dioxide than room air. Arjun is right that room air has more oxygen, but oxygen does not turn limewater milky."
+     "why": "Limewater goes milky with carbon dioxide, not oxygen. Your cells make carbon dioxide, and you breathe it out. Breathed-out air has about 100 times more carbon dioxide than room air. It is true that room air has more oxygen, but oxygen does not turn limewater milky."
     },
     {
      "t": "truefalse",
@@ -2364,11 +2364,11 @@
     },
     {
      "t": "mcq",
-     "p": "In the upside-down bottle experiment, the ordinary breath of Revathi, a girl in Class 3, pushed out about 300 ml of air. Her mother's pushed out about 500 ml. Revathi says, 'So my lungs are worse.' What is a better explanation?",
+     "p": "In the upside-down bottle experiment, a child's ordinary breath pushed out about 300 ml of air. Her mother's ordinary breath pushed out about 500 ml. The child says, 'So my lungs are worse.' What is a better explanation?",
      "how": "e3",
      "opts": [
-      "Revathi's body is smaller, so her lungs are smaller and she needs less air in each breath",
-      "Revathi was not trying",
+      "The child's body is smaller, so her lungs are smaller and she needs less air in each breath",
+      "The child was not trying",
       "Her mother has three lungs",
       "Adults breathe out water instead of air"
      ],
@@ -2412,7 +2412,7 @@
     },
     {
      "t": "match",
-     "p": "Remember the Jar of Blood you made from kitchen things? Match each part of blood to its job.",
+     "p": "In the Jar of Blood activity, you made a model of blood from kitchen things. Match each part of blood to its job.",
      "how": "a6",
      "pairs": [
       [
@@ -2444,7 +2444,7 @@
     },
     {
      "t": "write",
-     "p": "Blood goes from the heart to the lungs, then back to the heart, and only then out to the body. Why do you think it comes back to the heart in between, instead of going straight on from the lungs to the body?",
+     "p": "Blood goes from the heart to the lungs, then back to the heart, and only then out to the body. Why do you think it comes back to the heart before it goes to the body?",
      "lines": 4,
      "a": "Squeezing through the tiny tubes in the lungs slows the blood down and takes away its push. So it comes back to the heart, and the strong left side gives it a second, harder push to reach the head and the toes.",
      "why": "This is why we have two circles. A strong answer says the blood loses its push in the lungs and needs a fresh push from the heart to get all round the body."
@@ -2473,7 +2473,7 @@
      "p": "Is the heart where our feelings live? Three people disagree.",
      "views": [
       {
-       "who": "Kavya, a girl in Class 4",
+       "who": "A child",
        "says": "Feelings live in the heart. When I am scared, I feel it pounding."
       },
       {
@@ -2489,7 +2489,7 @@
      "lines": 5,
      "how": "a5",
      "a": "A strong answer picks a view and gives evidence, such as 'when I breathed slowly, my heart slowed and I felt calmer, so the body and the feeling are linked'. It then admits a fair point from another side.",
-     "why": "Scientists agree the brain makes thoughts and feelings. New studies show the heart and brain keep sending messages to each other. So Kavya's feeling is real, even if the feeling is made in the brain."
+     "why": "Scientists agree the brain makes thoughts and feelings. New studies show the heart and brain keep sending messages to each other. So the pounding the child feels is real, even if the feeling is made in the brain."
     },
     {
      "t": "sort",
@@ -2533,7 +2533,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Blood leaves the heart in arteries and comes back in veins. But you cannot see with your eyes how it gets from one to the other. What would you expect to find in a thin slice of lung under a microscope?",
+     "p": "Blood leaves the heart in arteries and comes back in veins. But your eyes cannot see how it gets from the arteries to the veins. What would you expect to find in a thin slice of lung under a microscope?",
      "opts": [
       "Tiny blood vessels, called capillaries, joining the arteries to the veins",
       "Holes in the wall between the two sides of the heart",
@@ -2565,17 +2565,17 @@
       },
       {
        "who": "Scientists who study people",
-       "says": "Humans don't fit. Our hearts beat about 3 billion times. Size, food and care matter more than a budget."
+       "says": "Humans don't fit. Our hearts beat about 3 billion times. Size, food and care matter more than any fixed number of beats."
       },
       {
-       "who": "Dr Lakshmi, a heart doctor in Hyderabad",
+       "who": "A heart doctor",
        "says": "Exercise makes your heart beat faster while you play, but slower when you rest. Fit people often have slower resting hearts and live longer."
       }
      ],
-     "ask": "Which view do you find most convincing? Give a reason. Then answer back from another view.",
+     "ask": "Which view do you find most convincing? Give a reason. Then say what a person with another view might reply.",
      "lines": 6,
-     "a": "A strong answer picks a view and uses evidence, such as the mouse and elephant numbers, or the human exception. It then answers back fairly. For example, a heartbeat budget cannot be the whole story if exercise speeds the heart up but helps people live longer.",
-     "why": "Scientists agree on the pattern: small animals have faster hearts and shorter lives. They argue about whether a heartbeat 'budget' is real, because humans and birds break the rule."
+     "a": "A strong answer picks a view and uses evidence, such as the mouse and elephant numbers, or the human exception. It then gives a fair reply from another view. For example, a fixed number of heartbeats cannot be the whole story if exercise speeds the heart up but helps people live longer.",
+     "why": "Scientists agree on the pattern: small animals have faster hearts and shorter lives. They argue about whether each animal really gets a fixed number of heartbeats, because humans and birds break the rule."
     },
     {
      "t": "truefalse",
@@ -2696,11 +2696,11 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 4, wants to test if slow breathing calms the heart, like in the Cooling Cloud activity. Her brother says, 'Just count your pulse once before and once after.' How could Kavya make her test fairer and more sure?",
+     "p": "You want to test if slow breathing calms the heart, as in the Cooling Cloud activity. Someone says, 'Just count your pulse once before and once after.' How could you make your test fairer and more sure?",
      "lines": 4,
      "how": "a5",
      "a": "Count each time twice, because one count can be a mistake. Sit the same way the whole time, and rest first so the pulse is steady. Also try sitting for the same time with ordinary breathing, to see if just sitting slows the heart too.",
-     "why": "A strong answer repeats the counts, keeps everything else the same, and compares with ordinary breathing, so she knows it was the slow breathing that made the difference."
+     "why": "A strong answer repeats the counts, keeps everything else the same, and compares with ordinary breathing, so you know it was the slow breathing that made the difference."
     },
     {
      "t": "write",
@@ -2711,11 +2711,11 @@
     },
     {
      "t": "write",
-     "p": "In the jumping heart experiment, Revathi, a girl in Class 3, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?",
+     "p": "In the jumping heart experiment, a child had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's pulse was 70, then 120, then 72. Whose heart got back to resting faster? What might that tell you?",
      "lines": 4,
      "how": "e1",
      "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting.",
-     "a": "Her mother's. It came back to 72, only 2 above her start. Revathi's was still 15 above hers. A heart that slows down quickly after exercise is often a fit, strong heart. Or her mother may have jumped less hard.",
+     "a": "The mother's. Her pulse came back to 72, only 2 above her start. The child's pulse was still 15 above her start. A heart that slows down quickly after exercise is often a fit, strong heart. Or the mother may have jumped less hard.",
      "why": "A strong answer compares each person with their own starting number, not with each other, and gives a possible reason, including that the test may not have been the same for both."
     }
    ]
@@ -2750,7 +2750,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nandini, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?",
+   "p": "You count your pulse for 15 seconds and get 22 beats. About how many beats is that in one minute?",
    "opts": [
     "88",
     "44",
@@ -2897,7 +2897,7 @@
    "t": "mcq",
    "p": "You breathe out carbon dioxide. Where might it go next?",
    "opts": [
-    "Into a plant, who takes in carbon dioxide through their leaves to make food in sunlight",
+    "Into a plant. Plants take in carbon dioxide through their leaves to make food in sunlight",
     "Back into your lungs for ever",
     "Into the ground, where it turns to stone",
     "Nowhere. It disappears."
@@ -2922,9 +2922,9 @@
  ],
  "maths": [
   {
-   "problem": "In the jumping heart experiment, Meera, a girl in Class 3, counted 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute?",
+   "problem": "In the jumping heart experiment, you count 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute?",
    "answer": "84 heartbeats in one minute.",
-   "explain": "One minute is 60 seconds. That is two lots of 30 seconds. So Meera's heart beat 42 times, and then 42 times again. 42 + 42 = 84. Another way: 40 + 40 = 80, and 2 + 2 = 4, so 84.",
+   "explain": "One minute is 60 seconds. That is two lots of 30 seconds. So the heart beat 42 times, and then 42 times again. 42 + 42 = 84. Another way: 40 + 40 = 80, and 2 + 2 = 4, so 84.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "how": "e1",
    "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting.",
@@ -2964,9 +2964,9 @@
    "why_maths": "A bar chart shows at a glance which bar is tallest. Taking one bar from another tells us exactly how much the heart sped up."
   },
   {
-   "problem": "In the upside-down bottle experiment, Meenakshi, a girl in Class 4, breathed out 250 ml of air in an ordinary breath. Her biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into her biggest breath?",
+   "problem": "In the upside-down bottle experiment, an ordinary breath out pushed out 250 ml of air. The biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into the biggest breath?",
    "answer": "6 ordinary breaths.",
-   "explain": "We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So her biggest breath was 6 times her ordinary one.",
+   "explain": "We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So the biggest breath was 6 times the ordinary one.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "how": "e3",
    "context": "This is about the upside-down bottle experiment. A bottle full of water stands upside down in a bucket. When you breathe out through a tube into it, the air pushes water out, and the marks show how much air you breathed out.",
@@ -3022,9 +3022,9 @@
   "A small clip on the fingertip, called a pulse oximeter, measures the pulse and how much oxygen the blood is carrying. Many families bought one during the COVID-19 pandemic.",
   "Ambulances and hospitals give oxygen from cylinders to people who cannot get enough by breathing.",
   "A doctor's ECG machine reads the heart's own electric sparks and draws them as a wavy line.",
-  "Blood donation: one healthy grown-up's donated blood can help save the life of someone after an accident or an operation.",
+  "When a healthy grown-up donates blood, that blood can help save the life of someone after an accident or an operation.",
   "Pacemakers are tiny battery-powered devices that make the heart's spark for people whose own pacemaker cells do not work well.",
-  "The 'blue baby' operation from the story, and later heart surgery, has helped many thousands of children grow up.",
+  "The 'blue baby' operation from the story The Doctor Who Listened With Her Fingers, and later heart surgery, have helped many thousands of children grow up.",
   "Rescue breathing and chest pressing, called CPR, can keep blood and oxygen moving when someone's heart has stopped, until help comes.",
   "Divers, firefighters and astronauts carry tanks of air, because they go where there is no good air to breathe.",
   "Air quality boards in Indian cities show how dirty the air is, so people with asthma or other lung illness can stay indoors on bad days.",
@@ -3088,7 +3088,7 @@
    "why_open": "In 2017, scientists found these underground rodents can switch to burning a different sugar when oxygen runs out. How they protect their brains and hearts is still being studied. It might one day help people after a heart attack or stroke."
   },
   {
-   "q": "Is there really a 'budget' of heartbeats in a lifetime?",
+   "q": "Does each animal really get a fixed number of heartbeats in a lifetime, like a 'budget'?",
    "why_open": "Many mammals have about a billion heartbeats in a life, but there are many exceptions, and nobody knows if the pattern means anything deep."
   },
   {
@@ -3314,7 +3314,7 @@
   },
   "three": {
    "who_am_i": "You are trillions of cells. A cell in your brain and a cell in your toe are fed by the same blood, pushed by the same heart.",
-   "what_is_life": "When you jumped, your body sensed that your muscles needed more oxygen, and your heart sped up without you deciding. Even one heart cell in a dish beats on its own.",
+   "what_is_life": "In the jumping heart experiment, your body sensed that your muscles needed more oxygen when you jumped. Your heart sped up without you deciding. Even one heart cell in a dish beats on its own.",
    "what_is_this_world": "The oxygen in your blood was put into the air by plants and algae. The carbon dioxide you breathe out goes back to them."
   },
   "thread": "One heart and about 2 litres of blood keep trillions of cells alive. Every cell, from your brain to your toes, is fed by the same blood on the same loop. The heart itself is many cells beating as one. Each heart cell can beat alone, and when heart cells touch, they beat together in time. So one moving loop of blood joins all the many parts of you into one living body.",
@@ -3327,7 +3327,7 @@
    {
     "source": "Kabir, Songs of Kabir, poem I, translated by Rabindranath Tagore (1915)",
     "teaching": "Kabir says the one people search for in temples and mosques is right beside them. He ends: God is the breath of all breath.",
-    "link": "Your heartbeat and breath are always with you, though you rarely notice them. Kabir pointed to something just as close, not somewhere far away."
+    "link": "Your heartbeat and breath are always with you, though you rarely notice them. Kabir said that what people search for is just as close as that, not somewhere far away."
    },
    {
     "source": "Thich Nhat Hanh, Being Peace (1987)",
@@ -3347,7 +3347,7 @@
   ],
   "other_view": {
    "who": "Many physiologists, the scientists who study how bodies work",
-   "view": "The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. To them, saying the body senses what it needs adds nothing that the nerves and chemicals do not already explain."
+   "view": "The heart speeds up because of nerve signals and chemicals in the blood. It is an automatic response, like a machine set to run faster when the load goes up. These scientists say the nerves and chemicals already explain it, so saying that the body 'senses what it needs' adds nothing."
   },
   "practice": {
    "title": "Feel the loop",
@@ -3356,7 +3356,7 @@
    "kid": "Sit still. Find your pulse on your wrist. Count ten taps. Breathe in for 4. Breathe out slowly for 6. Do it five times. Feel your pulse again."
   },
   "ask": [
-   "Your heart sped up when you jumped, though you never told it to. Who or what decided?",
+   "In the jumping heart experiment, your heart sped up when you jumped, though you never told it to. Who or what decided?",
    "Your red blood cells are all new every four months. What stays the same about you?",
    "Your heart beats without being told, but you can change your breathing when you choose. Which of these is more 'you'?"
   ],

@@ -8,13 +8,13 @@
  },
  "intro": {
   "hook": "Rub your thumb on the side of your nose, to pick up a little oil. Press it onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.",
-  "text": "Your skin left that mark without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Every outside part of your body has a job like this. Some parts have guards that most people think are dirt. And every part needs its own kind of care.",
+  "text": "Your skin left that thumbprint on the glass without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Every outside part of your body has a job like this. Some parts have guards that most people think are dirt. And every part needs its own kind of care.",
   "art": "A child's thumb pressed on a steel tumbler, then a misty breath showing a swirling fingerprint on the shiny steel."
  },
  "outcomes": [
   "I can name the external organs (skin, hair, nails, eyes, ears, nose, mouth and teeth, hands, feet and private parts) and say the job of each one.",
   "I can give two ways to care for each external organ, and the reason for each way.",
-  "I can wash my hands and brush my teeth the right way, and explain from my own test why soap matters.",
+  "I can wash my hands and brush my teeth the right way, and explain from the Bread Test why soap matters.",
   "I know the correct names of my private parts and how to keep them clean. I know my body belongs to me, which touches are not OK, and who my trusted adults are.",
   "I can explain that hair, nails and the outer skin are made of dead cells pushed out by living cells underneath, and that my outer skin keeps renewing itself.",
   "I can explain why earwax, eyelashes, nose hairs and mucus are helpers, not dirt, and why we never poke things into ears, eyes or noses.",
@@ -192,7 +192,7 @@
    "definition": "Skin is the stretchy covering of the whole body. It is the biggest organ of the body."
   },
   {
-   "concept": "Your outside is always renewing",
+   "concept": "Your outer skin keeps renewing itself",
    "status": "defined",
    "description": "You do not notice it, but you are shedding skin all the time. Tiny flakes fall off every day. Some of the dust in a house is made of these flakes. New skin is always growing underneath, so the outer layer is replaced about every month or two. This is why a scraped knee heals and a sunburn peels. Bathing washes away the old flakes, with sweat and dirt. Scrubbing hard does not help. It can hurt the new skin underneath.",
    "examples": [
@@ -306,7 +306,7 @@
   {
    "concept": "Private parts: clean, private and yours",
    "status": "defined",
-   "description": "These parts have correct names, just like elbow or knee. Using the right names is not rude. It helps you tell a doctor or a grown-up clearly if something hurts. To keep them clean, wash them every day when you bathe. After the toilet, clean yourself with water or toilet paper, from front to back. Then wash your hands with soap. Wear clean, dry underwear every day. Private parts are also private. Your body belongs to you. Nobody should touch your private parts, or ask to see them, or ask you to touch theirs. The only exceptions are a parent helping to keep you clean, or a doctor checking you, with your trusted grown-up there. If any touch feels wrong or confusing, it is never your fault. Say no, get away and tell a trusted adult. Secrets about touching should never be kept.",
+   "description": "These parts have correct names, just like elbow or knee. Using the right names is not rude. It helps you tell a doctor or a grown-up clearly if something hurts. To keep them clean, wash them every day when you bathe. After the toilet, clean yourself with water or toilet paper, from front to back. Then wash your hands with soap. Wear clean, dry underwear every day. These parts are also private. Your body belongs to you. Nobody should touch your private parts, or ask to see them, or ask you to touch theirs. The only exceptions are a parent helping to keep you clean, or a doctor checking you, with your trusted grown-up there. If any touch feels wrong or confusing, it is never your fault. Say no, get away and tell a trusted adult. Secrets about touching should never be kept.",
    "examples": [
     "A doctor checks a child's tummy pain while the child's mother stays in the room.",
     "A child tells their aunt about a touch that felt wrong, and the aunt listens and helps.",
@@ -349,7 +349,7 @@
      "explanation": "In 2009, scientists in France built a fake fingertip with ridges. When it slid over a surface, the ridges made tiny shakes that helped it sense fine textures. So ridges may help us feel."
     },
     {
-     "who": "Both, or more",
+     "who": "Scientists who think ridges do more than one job",
      "explanation": "Some scientists think ridges do several jobs at once. Some think they help skin stretch without tearing. Nobody is sure yet."
     }
    ],
@@ -371,11 +371,11 @@
     },
     {
      "who": "Graham Rook, a British scientist, 2003",
-     "explanation": "He argued that what matters is not catching colds, but meeting the 'old friends': harmless microbes from soil, animals and other people that humans have always lived with. Washing hands before eating does not take these away."
+     "explanation": "He argued that catching colds is not what matters. What matters is meeting the 'old friends'. These are harmless microbes, tiny living things from soil, animals and other people, that humans have always lived with. Washing hands before eating does not take these away."
     },
     {
      "who": "Most doctors today",
-     "explanation": "Keep washing hands with soap at the important times. Also play outdoors, in soil and around plants and animals. The two go together."
+     "explanation": "They say to keep washing hands with soap at the important times, and also to play outdoors, in soil and around plants and animals. The two go together."
     }
    ],
    "art": "A child with soil on their hands from a potted plant, next to a sink with soap, with a balance scale between them.",
@@ -415,7 +415,7 @@
   },
   {
    "claim": "Shaving or cutting hair makes it grow back thicker and darker.",
-   "who": "A common belief in many homes, including about shaving a baby's head.",
+   "who": "Many families believe this, and some say it about shaving a baby's head too.",
    "for": "Short new hair feels rough and looks dark against the skin.",
    "against": "Cutting only removes the dead part. The living root under the skin does not change. Mildred Trotter, an American scientist, tested this in 1928. She and later scientists found that shaved hair grows back the same.",
    "status": "rejected",
@@ -441,7 +441,7 @@
    "claim": "The more you scrub and wash, the healthier you are.",
    "who": "Many soap and cleaner advertisements suggest this.",
    "for": "Handwashing really does stop many illnesses.",
-   "against": "Scrubbing skin hard can hurt it. Many helpful microbes live on skin. Some scientists think children also need to meet harmless microbes from soil, animals and people.",
+   "against": "Scrubbing skin hard can hurt it. Many helpful microbes, tiny living things too small to see, live on skin. Some scientists think children also need to meet harmless microbes from soil, animals and people.",
    "status": "debated",
    "context": "This card asks whether cleaner is always better."
   },
@@ -468,7 +468,7 @@
   {
    "q": "Why would a body make earwax and mucus, which look like dirt?",
    "kind": "deep",
-   "hint": "What would happen to dust if nothing stopped it at the door?"
+   "hint": "What would happen to dust if nothing stopped it at your ears and nose?"
   },
   {
    "q": "Where exactly do you end and the world begin? At your skin? At the air you breathe out?",
@@ -545,7 +545,7 @@
    "\"You see that?\" he said. \"Nobody wrote your name on it. But anyone who looks carefully will know it is yours.\"",
    "Ruksana grew up. She married, and moved to Dacca, and had children of her own. Their thumbs were often dirty too. Before every meal she sent them to the tap, with soap, and while they washed she made them hold their fingertips up to the light.",
    "\"Look,\" she would say. \"That is you. You leave it on everything you touch. So be careful what you touch, and wash it off before you eat.\"",
-   "Many years later, the government gave her uncle a reward and an honour for his work, and Hem Chandra Bose too. By then, Ruksana had long known what she knew. On the lamp glass, on the water pot, on Faiz's cheek, she had seen it with her own eyes. The lines had been there before anyone gave them a name."
+   "Many years later, the government gave her uncle a reward and an honour for his work, and Hem Chandra Bose too. By then, Ruksana had long known something for herself. On the lamp glass, on the water pot, on Faiz's cheek, she had seen it with her own eyes. The lines had been there before anyone gave them a name."
   ],
   "epiphany": "For the parent: the fingertip is an external organ, and every part of it has a job. Its ridges help us feel, and perhaps grip. Tiny sweat pores along the ridges make us leave fingerprints on everything, which is why washing with soap matters before eating: soap lifts the oily layer that plain water cannot. The skin also wears and renews itself, as Nani's worn fingertips show. The story ends on credit: Azizul Haque and Hem Chandra Bose did much of the work, yet the system carries Mr Henry's name.",
   "ask": [
@@ -649,7 +649,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 30 cards. 2. Lay the 10 PART cards face up in two rows. 3. Shuffle the other 20 cards and lay them face down in rows below.",
-     "say": "Every part of your outside has a guard and a way we care for it. In this game, you find the guard and the care card for each part.",
+     "say": "Every outside part of your body has a guard and a way we care for it. In this game, you find the guard and the care card for each part.",
      "kid": "Lay the part cards face up. Lay the other cards face down. Find the guard and the care card for each part.",
      "context": "This is the first step of Guard Match, a memory card game about body parts, their guards and how we care for them."
     },
@@ -658,7 +658,7 @@
      "mins": 3,
      "do": "Play a practice round. Put the Ears card, the Earwax guard card and the 'Wipe the outside only' care card face up together.",
      "say": "Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only. Why don't we poke inside?",
-     "kid": "Practice match: ears, earwax, wipe the outside only. Why not poke inside? Say your answer.",
+     "kid": "Here is a practice match: the Ears card, the Earwax guard card and the 'Wipe the outside only' care card. Why should we not poke inside the ear? Say your answer.",
      "check": {
       "t": "mcq",
       "q": "Earwax is…",
@@ -676,7 +676,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Take turns turning over two cards. 2. Keep a pair if the guard and care card belong to the same part. 3. Explain the guard for a bonus point. 4. Keep score on a scrap of paper.",
-     "say": "When you win a set, tell us how that guard protects its part.",
+     "say": "When you win a pair, tell us how that guard protects its part.",
      "kid": "Take turns. Turn over two cards. A guard and care card for the same part is a pair. Explain the guard to win a bonus.",
      "parent": "Good explanations: eyelashes catch dust, and tears wash it away. Nose hairs and mucus trap dust. Enamel is hard, so teeth can chew, and spit washes them. The top layer of skin is dead, so it can rub off without hurting. Thick soles protect feet. For private parts, a good answer is 'my body belongs to me, and I can tell a trusted adult'.",
      "context": "This is the main part of Guard Match. Players take turns finding pairs of cards."
@@ -689,7 +689,7 @@
      "kid": "Count the points. Then touch each part card. Say its care rule out loud.",
      "check": {
       "t": "mcq",
-      "q": "Game moment: you turned over 'Nose hairs and sticky mucus'. Which part is it the guard of?",
+      "q": "In Guard Match, you turn over the card 'Nose hairs and sticky mucus'. Which part does it guard?",
       "options": [
        "Nose",
        "Teeth",
@@ -798,7 +798,7 @@
      "kid": "Read the clue in a funny voice. Others guess. Then everyone acts out the part.",
      "check": {
       "t": "mcq",
-      "q": "Game moment: 'The part of me that you can see is dead, but I keep growing from a living root. A haircut never hurts me.' Who am I?",
+      "q": "A clue card says: 'The part of me that you can see is dead, but I keep growing from a living root. A haircut never hurts me.' Which body part is speaking?",
       "options": [
        "Hair",
        "Skin",
@@ -807,7 +807,7 @@
       "a": 0,
       "why": "The hair you can see is made of dead cells, so cutting it does not hurt. It keeps growing because living cells at the root push it out. Skin is mostly alive underneath, and you can feel it. The eardrum is a living skin that shakes with sound."
      },
-     "parent": "If a child guesses 'nails' for the hair clue, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.",
+     "parent": "If a child guesses 'nails' for the hair clue, that is a good thought. Nails are also dead and growing. Ask which clue tells hair and nails apart. It is the haircut.",
      "context": "In Guess the Body Part, a reader reads clues in the voice of a body part. Here is the main game."
     },
     {
@@ -830,7 +830,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3, says, 'My heart is an organ, but my skin is just a cover.' What is wrong with her idea?",
+     "p": "Someone says, 'My heart is an organ, but my skin is just a cover.' What is wrong with this idea?",
      "opts": [
       "Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating.",
       "Nothing. Only parts inside the body are organs.",
@@ -838,7 +838,7 @@
       "The heart is not an organ."
      ],
      "a": 0,
-     "why": "An organ is a body part made of many cells that does a job. Skin keeps out germs and water, feels heat and touch, and sweats to cool you. It is the biggest organ you have. Kavya's mistake is a common one: she thinks organs must be hidden inside."
+     "why": "An organ is a body part made of many cells that does a job. Skin keeps out germs and water, feels heat and touch, and sweats to cool you. It is the biggest organ you have. The mistake is a common one: thinking that organs must be hidden inside."
     },
     {
      "t": "match",
@@ -918,7 +918,7 @@
       "Put in any eye drops from the cupboard"
      ],
      "a": 0,
-     "why": "Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if it stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops."
+     "why": "Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if the dust stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops."
     },
     {
      "t": "truefalse",
@@ -929,20 +929,20 @@
     },
     {
      "t": "mcq",
-     "p": "A girl rubs oil and turmeric on her hands, like in the oily hands activity. Then she rinses them in plain water for 20 seconds. What will she most likely see?",
+     "p": "You rub oil and turmeric on your hands, as in the oily hands activity. Then you rinse them in plain water for 20 seconds. What will you most likely see?",
      "how": "a3",
      "opts": [
       "Most of the turmeric is still stuck, because water slides over the oil",
       "All the turmeric is gone",
       "The turmeric turns into soap",
-      "Her hands turn blue"
+      "Your hands turn blue"
      ],
      "a": 0,
      "why": "Turmeric sticks in the oil, the way germs stick in the oil on our skin. Water and oil do not mix, so water slides over. Soap grabs the oil, so water can then carry it away."
     },
     {
      "t": "write",
-     "p": "Think about your bread test. Which slice grew the most spots by day 6? Say why you think that slice grew the most.",
+     "p": "In the bread test, you touched slices of bread with dirty hands, with hands washed in water only, and with hands washed with soap. Which slice grew the most spots by day 6? Why do you think that slice grew the most?",
      "lines": 4,
      "how": "e1",
      "a": "For example: the dirty-hands slice grew the most spots. My hands had touched door handles and shoes, so they carried many germs and mould spores. Each one landed on the damp bread and grew into a spot.",
@@ -964,9 +964,9 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 2, sneezes into his hand. Then he opens the fridge door. Why is this a problem?",
+     "p": "You sneeze into your hand. Then you open the fridge door. Why is this a problem?",
      "opts": [
-      "Germs from his sneeze are now on the handle, and the next person can pick them up",
+      "Germs from your sneeze are now on the handle, and the next person can pick them up",
       "The fridge gets warm",
       "Sneezing makes the food go bad at once",
       "There is no problem"
@@ -976,7 +976,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl's little brother asks, 'What are the parts under my underwear called?' What is the best answer for her to give?",
+     "p": "A little child asks you, 'What are the parts under my underwear called?' What is the best answer to give?",
      "opts": [
       "They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.",
       "Those are rude words. Don't ask.",
@@ -1011,7 +1011,7 @@
     },
     {
      "t": "write",
-     "p": "Many people clean their ears with a cotton bud. Where does earwax go by itself, a little each time you chew or talk? What does a cotton bud do to it?",
+     "p": "Many people clean their ears with a cotton bud. Which way does earwax move by itself when you chew or talk? What does a cotton bud do to the wax?",
      "lines": 3,
      "how": "a6",
      "a": "Earwax moves out of the ear by itself, a little each time I chew or talk, and carries dust with it. A cotton bud pushes the wax back in, and a hard poke can hurt the eardrum. So I wipe only the outside.",
@@ -1022,15 +1022,15 @@
      "p": "Three people argue about whether hair is alive.",
      "views": [
       {
-       "who": "Kavya, a girl in Class 3",
+       "who": "One child",
        "says": "Hair is alive, because it keeps growing."
       },
       {
-       "who": "Nandini, a girl in Class 5",
+       "who": "Another child",
        "says": "Hair is dead, because a haircut does not hurt."
       },
       {
-       "who": "Ms Lakshmi, a science teacher",
+       "who": "A science teacher",
        "says": "You are both partly right. The hair you see is dead, but it grows from a living root under the skin."
       }
      ],
@@ -1049,13 +1049,13 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the bread test, a girl forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?",
+     "p": "In the bread test, suppose the untouched slice is not sealed in its bag. It is left open on the kitchen shelf for 6 days. What will probably happen?",
      "how": "e1",
      "opts": [
       "It grows spots too, because mould spores from the air land on the bread",
       "It stays perfectly clean, because no hands touched it",
       "It turns into toast",
-      "It grows fewer spots than ever"
+      "It grows fewer spots than a sealed slice"
      ],
      "a": 0,
      "why": "Mould spores float in the air everywhere. Left open on a shelf, the slice meets all of them, so the test is no longer fair: the spots could come from the air, not from hands. That is why every slice, even the untouched one, stays sealed."
@@ -1089,7 +1089,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 4, says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with her thinking?",
+     "p": "Someone says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with this thinking?",
      "how": "e3",
      "opts": [
       "The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.",
@@ -1102,16 +1102,16 @@
     },
     {
      "t": "mcq",
-     "p": "In the egg test, a girl's toothpaste egg bubbled less than her plain egg. What is the best thing for her to say?",
+     "p": "In the egg test, suppose your toothpaste egg bubbled less than your plain egg. What is the best thing to say?",
      "how": "e3",
      "opts": [
-      "The toothpaste may have slowed the acid, but one test is not enough, so she should try again",
+      "The toothpaste may have slowed the acid, but one test is not enough, so I should try again",
       "Toothpaste always stops acid completely",
       "The plain egg must have been a different kind of egg",
       "Toothpaste turns vinegar into water"
      ],
      "a": 0,
-     "why": "One test can mislead, because eggs, toothpaste and amounts differ. A thin coat of paste may slow the acid, but an eggshell is not a tooth. Repeating the test, with the same eggs and amounts, tells her more."
+     "why": "One test can mislead, because eggs, toothpaste and amounts differ. A thin coat of paste may slow the acid, but an eggshell is not a tooth. Repeating the test, with the same eggs and amounts, tells you more."
     },
     {
      "t": "match",
@@ -1198,7 +1198,7 @@
      "p": "People have argued for a long time about what the tiny ridges on our fingertips are for.",
      "views": [
       {
-       "who": "Kavya, a girl in Class 3",
+       "who": "A child",
        "says": "The ridges help me grip, like the lines on the sole of a chappal."
       },
       {
@@ -1210,7 +1210,7 @@
        "says": "The ridges make the skin shake a little as it slides, and that helps us feel fine textures."
       }
      ],
-     "ask": "Which idea do you think is most likely? Give a reason. Try it: shut your eyes and find one grain of rice with your fingertip, then with your elbow. Then say why another idea could also be right.",
+     "ask": "Try this: shut your eyes and find one grain of rice with your fingertip, then with your elbow. Which idea do you think is most likely? Give a reason. Then say why another idea could also be right.",
      "lines": 5,
      "a": "A strong answer picks an idea and gives evidence, such as 'I found a single grain of rice with my fingertip but not with my elbow'. It then admits a fair point from another side, for example that ridges may help grip on wet or rough things.",
      "why": "Scientists still argue about this. Ridges may help us feel, may help grip on wet or rough surfaces, and may do several jobs at once."
@@ -1225,11 +1225,11 @@
     },
     {
      "t": "mcq",
-     "p": "A girl walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?",
+     "p": "You are walking barefoot on wet soil near a drain. What is the main health reason to wear chappals?",
      "opts": [
       "Tiny hookworms in damp, dirty soil can get in through bare skin",
-      "Chappals make her taller",
-      "Bare feet make her run slower",
+      "Chappals make you taller",
+      "Bare feet make you run slower",
       "Feet look nicer in chappals"
      ],
      "a": 0,
@@ -1248,7 +1248,7 @@
      "lines": 3,
      "how": "a4",
      "a": "If one grown-up is busy, away or does not listen, I still have others to tell. Also, if the person doing wrong is someone I know, I need someone else to go to.",
-     "why": "A strong answer knows that a child must keep telling until someone helps."
+     "why": "A strong answer shows the child knows to keep telling until someone helps."
     },
     {
      "t": "fill",
@@ -1273,7 +1273,7 @@
      "p": "Can a child be too clean? Three people give different answers.",
      "views": [
       {
-       "who": "Dr Revathi, a children's doctor in Chennai",
+       "who": "A children's doctor",
        "says": "Wash hands with soap before eating and after the toilet. It stops diarrhoea and many other illnesses."
       },
       {
@@ -1285,7 +1285,7 @@
        "says": "What matters most is meeting harmless microbes from soil, plants, animals and people. Playing outside gives you those, even if you wash your hands before eating."
       }
      ],
-     "ask": "Which view do you agree with most? Use evidence, for example from the bread test. Then answer back from one of the other views.",
+     "ask": "Which view do you agree with most? Use evidence, for example from the bread test. Then say what a person with one of the other views might reply.",
      "lines": 6,
      "how": "e1",
      "a": "A strong answer picks a view and uses evidence, such as 'the dirty-hands slice grew the most spots, so hands really carry germs'. It then answers back fairly, for example that playing in soil and washing before meals can go together.",
@@ -1328,7 +1328,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl does a new bread test. She touches one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?",
+     "p": "Suppose you do a new bread test. You touch one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?",
      "how": "e1",
      "opts": [
       "The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs",
@@ -1367,7 +1367,7 @@
      "p": "A visitor to your home wants a hug, but you would rather not hug. A parent says you can say no politely and wave instead. Why is it good that you get to choose?",
      "lines": 3,
      "a": "My body belongs to me, even when I am small. Choosing a wave instead of a hug is polite and still keeps my body mine. Practising small 'no's makes it easier to say no to a touch that feels wrong.",
-     "why": "A strong answer knows that a child's body belongs to the child, and that saying no politely is not rude."
+     "why": "A strong answer shows the child knows that their body belongs to them, and that saying no politely is not rude."
     },
     {
      "t": "mcq",
@@ -1379,7 +1379,7 @@
       "Skin peels so it can grow thicker"
      ],
      "a": 0,
-     "why": "The outer skin is always being replaced from below. Sunburn kills many top cells at once, so they come off in sheets instead of tiny flakes. This is the same renewing you saw on the sticky tape, only faster."
+     "why": "The outer skin is always being replaced from below. Sunburn kills many top cells at once, so they come off in sheets instead of tiny flakes. This is the same renewing you saw in the sticky tape test, only faster."
     },
     {
      "t": "odd",
@@ -1471,7 +1471,7 @@
    "days": 6,
    "question": "Do washed hands leave fewer germs on bread than unwashed hands? Does soap make a difference?",
    "predict": "Before you start, guess. Which slice will grow the most spots: touched by dirty hands, by hands washed in water only, or by hands washed with soap? Which will grow the fewest? Why do you think so?",
-   "fair_test": "To make it fair, use slices from the same loaf, touch each one in the same way for the same time, and give every slice the same few drops of water, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.",
+   "fair_test": "To make it fair, use slices from the same loaf. Touch each one in the same way for the same time. Give every slice the same few drops of water, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.",
    "results_table": [
     "Slice",
     "Day 2: spots",
@@ -1584,7 +1584,7 @@
      "mins": 3,
      "do": "1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. With a clean spoon, sprinkle 5 drops of clean water on each of the four slices, so all four are equally damp. 4. Ask your child to guess which slice will grow the most spots.",
      "say": "Our hands touch everything, and they pick up tiny living things too small to see. Let's find out what they leave on food.",
-     "kid": "Label four bags. Dirty hands. Water only. Soap. Untouched. Which slice will grow the most spots? Guess first.",
+     "kid": "Label four bags: Dirty hands, Water only, Soap, Untouched. Which slice will grow the most spots? Guess first.",
      "context": "This is the first step of the bread test. Germs left on bread grow into spots you can see. You label four bags and make a guess.",
      "parent": "Bread from a local bakery, or pav, grows mould faster than packet bread, which often has preservatives in it. Mould grows best on damp bread in a warm, dark place."
     },
@@ -1592,7 +1592,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Your child touches door handles, shoes and the floor for two minutes. 2. They rub one slice all over with those hands, and seal it in the Dirty hands bag.",
-     "say": "First, the dirty hands. Touch slice 1 all over, on both sides, then seal it in.",
+     "say": "First, the dirty hands. Touch slice 1 all over, on both sides, then seal it in its bag.",
      "kid": "Touch door handles and your shoes. Then rub slice 1 all over. Seal it in its bag.",
      "parent": "Help your child seal the bag well. Squeeze out most of the air first. Do not use hands that have a cut on them."
     },
@@ -1600,7 +1600,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Your child rinses hands under water only, for 20 seconds, and shakes them dry. 2. They touch slice 2 the same way and seal it. 3. Now they wash with soap for 20 seconds, rinse and shake them dry again. 4. They touch slice 3 and seal it.",
-     "say": "Now water only. Then soap. Touch each slice exactly the same way, so it's fair.",
+     "say": "Now wash with water only and touch slice 2. Then wash with soap and touch slice 3. Touch each slice exactly the same way, so the test is fair.",
      "kid": "Wash with water only. Touch slice 2. Seal it. Now wash with soap for 20 seconds. Touch slice 3. Seal it.",
      "check": {
       "t": "mcq",
@@ -1648,10 +1648,10 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Compare the slices. Which grew the most? The fewest? Did water alone work as well as soap?",
+     "do": "Compare the slices. Which grew the most spots? Which grew the fewest? Did water alone work as well as soap?",
      "say": "Was your guess right? What did soap do that water alone didn't?",
      "kid": "Was your guess right? Which slice is cleanest? Did soap beat water?",
-     "think": "Before which jobs in a day should you always wash with soap?",
+     "think": "Before doing which things should you always wash your hands with soap?",
      "parent": "Plain water washes off some germs. But many stick in the thin layer of oil and grease on hands. Soap grabs the oil, so water can carry it, and the germs, away. Fuzzy mould spots are fungi, and the colours show different kinds. Small shiny spots may be bacteria."
     },
     {
@@ -1659,7 +1659,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things about the bread test. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: washing with soap takes away the most germs. What I saw: for example, the dirty-hands slice had 11 spots, water only had 6, and soap had 2. Why: soap lifts the oily layer that germs stick to.",
      "context": "This is the end of the bread test. Your child says what they found, using claim, evidence and reasoning."
     }
@@ -1667,7 +1667,7 @@
   },
   {
    "id": "e2",
-   "title": "Sticky Tape Skin: are you falling off?",
+   "title": "Sticky Tape Skin: is your skin flaking off?",
    "mins": 12,
    "days": 1,
    "question": "Is your skin always shedding tiny bits of itself?",
@@ -1741,7 +1741,7 @@
      "kid": "Look closely. What are the tiny white flakes?",
      "check": {
       "t": "mcq",
-      "q": "The tiny white flakes on the skin strips, and not on the plain strip, are most likely…",
+      "q": "The skin strips have tiny white flakes, and the plain strip does not. What are the flakes most likely to be?",
       "options": [
        "dead skin cells that were ready to fall off",
        "dust that was sitting on your skin",
@@ -1758,7 +1758,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things about the sticky tape test. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my skin is always shedding. What I saw: tiny white flakes on the skin strips, and none on the plain strip. Why: the top layer is dead cells that flake off as new skin grows underneath.",
      "context": "This is the end of the sticky tape test. Your child says what they found, with claim, evidence and reasoning."
     }
@@ -1769,7 +1769,7 @@
    "title": "The Egg That Brushed Its Teeth",
    "mins": 25,
    "days": 2,
-   "question": "Can a coat of toothpaste slow acid on a hard shell? This is a rough model of teeth, and the result may vary.",
+   "question": "Does a coat of toothpaste protect a hard eggshell from acid? This is a rough model of teeth, and the result may vary.",
    "predict": "Before you start, guess. After a night in vinegar, which egg will have the softer, rougher shell: the plain one, or the one covered in toothpaste? Why do you think so?",
    "fair_test": "To make it fair, use two eggs of the same kind, two same-sized glasses, and the same amount of vinegar. Only the toothpaste changes. Leave both for the same time.",
    "results_table": [
@@ -1882,7 +1882,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things about the egg test. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: toothpaste may slow acid on a shell. What I saw: the plain egg bubbled a lot and its shell went rough, but the toothpaste egg bubbled less. Why: a thin coat may keep some acid off the shell. An eggshell is not a tooth, and fluoride works on enamel in a different way, so this is only a rough model. If both eggs look the same, that is a real result too. Talk about why it might have happened, and what you would change to test it again.",
      "context": "This is the end of the egg test. Your child says what they found, with claim, evidence and reasoning."
     }
@@ -2141,7 +2141,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Coat hands in oil and 'germs', try washing with water, then with soap, and learn the steps of handwashing."
+     "what": "Coat hands in oil and pretend germs (turmeric or glitter). Wash with water only, then with soap, and learn the six steps of handwashing."
     }
    ],
    "record": "Draw your hands after water only and after soap. Then draw the six steps of handwashing.",
@@ -2184,7 +2184,7 @@
        "The powder can never come off"
       ],
       "a": 0,
-      "why": "Oil and water don't mix. Water runs over oily skin without lifting the oil, so anything stuck in the oil stays put. Picking 'hot water' is a common idea. Warm water feels nicer, but soap matters much more than heat. Picking 'can never come off' is about to be proved wrong."
+      "why": "Oil and water don't mix. Water runs over oily skin without lifting the oil, so anything stuck in the oil stays put. Picking 'hot water' is a common idea. Warm water feels nicer, but soap matters much more than heat. Picking 'can never come off' is wrong: soap takes the powder off in the next step."
      },
      "how": "a3"
     },
@@ -2201,7 +2201,7 @@
      "mins": 4,
      "do": "Look at the hands. Where is the powder still stuck? Talk about when to wash with soap. Wash before eating, after the toilet, after playing outside and after touching animals. Wash after sneezing into your hands too.",
      "say": "When are the most important times to wash with soap?",
-     "kid": "Where is the powder still stuck? When must you wash with soap? Say four times.",
+     "kid": "Where is the powder still stuck? Name four times when you must wash with soap.",
      "ask": [
       {
        "q": "When should we always wash hands with soap?",
@@ -2213,7 +2213,7 @@
        ]
       }
      ],
-     "think": "Why do you think thumbs and fingertips are the most often missed?"
+     "think": "Why do you think people most often miss their thumbs and fingertips when washing?"
     }
    ]
   },
@@ -2260,7 +2260,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Say the rules calmly and simply. Use the correct names: penis, vulva and bottom.",
-     "say": "Your private parts are the parts covered by your underwear. They are private. Your body belongs to you. Nobody should touch your private parts, or ask to see them, or ask you to touch theirs. The only times are when a parent is helping you keep clean, or a doctor is checking you with me there. If any touch feels wrong or confusing, it is never your fault. Say no, get away and tell me or another trusted grown-up.",
+     "say": "Your private parts are the parts covered by your underwear. They are private. Your body belongs to you. Nobody should touch your private parts, or ask to see them, or ask you to touch theirs. The only exceptions are a parent helping you keep clean, or a doctor checking you with me there. If any touch feels wrong or confusing, it is never your fault. Say no, get away and tell me or another trusted grown-up.",
      "kid": "Your body belongs to you. Private parts are private. If a touch feels wrong, say no. Get away. Tell a trusted grown-up.",
      "context": "This is the first step of My Trusted Hand. It is about keeping your body safe.",
      "parent": "Children learn this best when it is said like any other safety rule, without fear. You may also say: some people may try to trick a child into a secret. Good secrets, like a birthday surprise, are fun and end soon. Secrets about touching are never kept. If your child tells you something worrying, stay calm, thank them, and get help. In India, you can call the Childline number 1098, or 112."
@@ -2362,7 +2362,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Your child watches your eyes for one minute while you chat normally, and makes a tally mark at every blink. Swap.",
+     "do": "Your child watches your eyes for one minute while you chat normally, and makes a tally mark at every blink. Then swap places.",
      "say": "Every blink spreads tears over your eyes and wipes away dust. Count how many times I blink in one minute.",
      "kid": "Watch a grown-up's eyes for one minute. Make a mark every time they blink.",
      "context": "This is the first step of the blink counter. You count how often a person blinks.",
@@ -2394,7 +2394,7 @@
      "mins": 3,
      "do": "Talk about the other eye guards: eyelashes, eyelids and tears. Add 'eye care' to the Outside-Me Map.",
      "say": "Name all the guards of your eyes. Which one did you see working today?",
-     "kid": "Name your eye's guards. Lashes, lids, tears, brows. Add them to your map."
+     "kid": "Name the guards of your eyes: eyelashes, eyelids, tears and eyebrows. Add them to your map."
     }
    ]
   },
@@ -2462,7 +2462,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Swap roles. Then talk: what should we do with ears? Add the ear care rule to the Outside-Me Map.",
+     "do": "Swap roles. Then talk about how we should care for our ears. Add the ear care rule to the Outside-Me Map.",
      "say": "So what's our ear rule?",
      "kid": "Swap roles. Then say the ear rule: wipe the outside, never poke in.",
      "think": "If wax is a guard, why does a doctor sometimes take some out?",
@@ -2500,7 +2500,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Cut the thumbnails. Make a tiny mark on the nail just above the skin. Measure the gap between the mark and the skin: zero."
+     "what": "Cut the thumbnails. Make a tiny mark on the nail just above the skin. For now, the gap between the mark and the skin is zero."
     },
     {
      "day": 8,
@@ -2551,12 +2551,12 @@
      "id": "s3",
      "mins": 10,
      "do": "On day 15, measure again for both people. Make a bar chart.",
-     "say": "Whose nail grew faster? Grown-ups or children?",
+     "say": "Whose nail grew faster, yours or mine?",
      "kid": "Measure again. Draw a bar for you and one for the grown-up.",
      "wait": "Come back on day 15.",
      "check": {
       "t": "mcq",
-      "q": "Why doesn't cutting your nail hurt, even though it grows?",
+      "q": "Your nail keeps growing. So why doesn't cutting it hurt?",
       "options": [
        "The part you cut is dead. Only the root under the skin is alive.",
        "Nails have no cells at all",
@@ -2583,7 +2583,7 @@
    "id": "c1",
    "title": "Build a Tippy Tap",
    "mins": 30,
-   "problem": "In many places there is no tap or sink. People still need to wash their hands with soap, without touching a dirty handle. Build a handwashing station from a plastic bottle, which you work with your foot.",
+   "problem": "In many places there is no tap or sink. People still need to wash their hands with soap, without touching a dirty handle. Build a handwashing station from a plastic bottle that you tip with your foot.",
    "constraints": [
     "Your hands must not touch the bottle to tip it.",
     "It must use very little water.",
@@ -2663,7 +2663,7 @@
        "To save soap"
       ],
       "a": 0,
-      "why": "A tap handle touched by dirty hands passes germs to the next person who touches it. A foot pedal keeps hands off. Picking 'feet are stronger' misses that the bottle is light. Picking 'save soap' mixes it up with how much soap you use."
+      "why": "A tap handle touched by dirty hands passes germs to the next person who touches it. A foot pedal keeps hands off. Picking 'feet are stronger' misses that the bottle is light. Picking 'save soap' is wrong, because the pedal tips the water bottle, not the soap."
      }
     }
    ],
@@ -2724,7 +2724,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Your child draws a design and labels each part and its job.",
-     "say": "Copy nature, or invent something new.",
+     "say": "You can copy your own eyebrows and eyelashes, or invent something new.",
      "kid": "Draw guards for the robot's eyes. Label each part's job."
     },
     {
@@ -2742,7 +2742,7 @@
        "Use more water"
       ],
       "a": 0,
-      "why": "Water runs downhill. A brow that is curved, high in the middle and low at the sides, steers drips sideways around the eyes, just like your eyebrows. Picking 'bigger eyes' would catch more drips, not fewer. Picking 'more water' changes the test, not the design."
+      "why": "Water runs downhill. A brow that is curved, high in the middle and low at the sides, steers drips sideways around the eyes, just like your eyebrows. Bigger eyes would catch more drips, not fewer. Using more water changes the test, not the design."
      }
     },
     {
@@ -2797,11 +2797,11 @@
   },
   {
    "t": "mcq",
-   "p": "A girl bathes every day, but her ears still make yellow wax. What does that show?",
+   "p": "You bathe every day, but your ears still make yellow wax. What does that show?",
    "opts": [
     "Wax is a guard the ear makes on purpose, not a sign of dirt",
-    "Her ears are very dirty",
-    "She is not washing properly",
+    "Your ears are very dirty",
+    "You are not washing properly",
     "Wax only grows in dirty ears"
    ],
    "a": 0,
@@ -2823,7 +2823,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?",
+   "p": "You scrape your knee. A week later, new skin covers it. Where did the new skin come from?",
    "opts": [
     "Living cells underneath, which keep making new skin cells",
     "The scab turned into skin",
@@ -2838,7 +2838,7 @@
    "t": "mcq",
    "p": "In the bread test, why was one slice slid into its bag with a spoon and never touched?",
    "opts": [
-    "To compare: it shows how much the bread grows with no hands at all",
+    "To compare: it shows how many spots bread grows when no hands touch it",
     "Because there were not enough hands",
     "To make it go bad faster",
     "It was the slice for eating"
@@ -2885,7 +2885,7 @@
     "Wait and see"
    ],
    "a": 0,
-   "why": "Say no, get away, tell. It is never the child's fault, and secrets about touching are never kept.",
+   "why": "Say no, get away and tell a trusted grown-up. It is never the child's fault, and secrets about touching are never kept.",
    "outcome": 3
   },
   {
@@ -3361,12 +3361,12 @@
  "roots": {
   "context": "We have been learning about the outside of the body, from skin and hair to the ridges on your fingertips. Now we ask what your own two thumbprints tell you about how a body is made.",
   "deep_truth": {
-   "truth": "Your two thumbs grew from the same genes, yet their prints had ridge forks and ends in different places. Each pattern formed before birth, shaped by tiny differences in how each fingertip grew. So your body's fine details come from how you grew, as well as from your genes.",
+   "truth": "Your two thumbs grew from the same genes, yet their prints have ridge forks and ends in different places. Each pattern formed before birth, shaped by tiny differences in how each fingertip grew. So your body's fine details come from how you grew, as well as from your genes.",
    "habit": "People often speak of genes as a complete plan of a body, drawn down to the last line. Your two thumbs carry the same genes and still have different prints, so the genes cannot hold every detail.",
    "evidence": "In Fingerprint Detective, your left and right thumbprints did not match, though they grew from the same genes in the same womb. Identical twins share their genes, and their fingerprints differ too. Ridges start at a few spots on each fingertip before birth and spread across it, and where they meet sets the pattern."
   },
   "three": {
-   "who_am_i": "You are one of a kind, right down to your fingertips. Part of what makes you is the way you happened to grow.",
+   "who_am_i": "You are one of a kind, right down to your fingertips. Part of what makes you who you are is the way you happened to grow.",
    "what_is_life": "A living body builds itself. Its cells grow and divide, and the exact shape of each part comes out of that growing.",
    "what_is_this_world": "Your skin meets the world all day. It keeps out dirt and germs, feels every touch, and leaves your fingerprints on what you hold."
   },
@@ -3374,7 +3374,7 @@
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
-    "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Inside, Shvetaketu can see nothing at all. Uddalaka tells him that the whole great banyan tree grows out of that nothing he cannot see.",
+    "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Inside, Shvetaketu can see nothing at all. Uddalaka tells him that the whole great banyan tree grows out of something in the seed that is too fine to see.",
     "link": "The first cell of your body held no tiny fingerprint you could have seen. The ridges appeared only as your fingertips grew, before you were born."
    },
    {
@@ -3400,7 +3400,7 @@
   ],
   "other_view": {
    "who": "Many scientists who study genes",
-   "view": "Genes matter more than this makes it sound. Identical twins' prints are often the same kind and look alike, and the kind of pattern runs in families. They would say the differences are small details, and the genes did the main work. That is an honest view."
+   "view": "Genes matter more than the differences between prints suggest. Identical twins' prints are often the same kind and look alike, and the kind of pattern runs in families. These scientists would say the differences are small details, and the genes did the main work. This is a fair view."
   },
   "practice": {
    "title": "Read your fingertips",
