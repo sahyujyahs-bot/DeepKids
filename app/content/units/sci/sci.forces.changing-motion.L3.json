@@ -406,7 +406,7 @@
    "concept": "Living things grow to match the forces on them",
    "status": "defined",
    "definition": "Bones, muscles and plants are alive. They slowly change shape and grow stronger where they are pushed and pulled, and weaker where they are not.",
-   "description": "In 1892, a German doctor, Julius Wolff, wrote that bones reshape themselves to match the forces on them. The bones in a tennis player's playing arm grow thicker. Astronauts floating in space hardly press on their bones. So they can lose about 1 to 2 out of every 100 parts of their hip bones each month, and must exercise every day. Your spine squashes too. During the day, the soft pads between its bones are pressed down. So you are about 1 centimetre shorter at bedtime than when you wake up. Trees that sway in the wind grow thicker, sturdier trunks. In 1973, an American plant scientist, Mark Jaffe, gave this a name: thigmomorphogenesis. It means 'shape made by touch'. Trees tied too tightly to stakes grow weaker trunks.",
+   "description": "In 1892, a German doctor, Julius Wolff, wrote that bones reshape themselves to match the forces on them. The bones in a tennis player's playing arm grow thicker. Astronauts floating in space hardly press on their bones. So each month they can lose about 1 to 2 out of every 100 parts of the bone in their hips, and they must exercise every day. Your spine squashes too. During the day, the soft pads between its bones are pressed down. So you are about 1 centimetre shorter at bedtime than when you wake up. Trees that sway in the wind grow thicker, sturdier trunks. In 1973, an American plant scientist, Mark Jaffe, gave this a name: thigmomorphogenesis. It means 'shape made by touch'. Trees tied too tightly to stakes grow weaker trunks.",
    "examples": [
     "Children who run and jump grow stronger bones.",
     "Trees on windy hilltops are short and thick.",
@@ -781,7 +781,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Find the card 'Wringing out a wet towel'. Play it together as a practice round.",
-     "say": "Practice card. Wringing out a wet towel. Which mat? And when you let go, does the towel stay twisted, spring back, or break?",
+     "say": "This is a practice card: wringing out a wet towel. Which mat does it go on? And when you let go, does the towel stay twisted, spring back, or break?",
      "kid": "Practice card: wringing a wet towel. Which mat does it go on? Say your answer.",
      "ask": [
       {
@@ -811,7 +811,7 @@
      "do": "1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Write the points on the score sheet.",
      "say": "Show me the force with your hands first. Then put it on a mat. Now everyone, does it stay changed, spring back, or break?",
      "kid": "Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token. Stays changed, springs back, or breaks?",
-     "parent": "Tricky cards. Stays changed: rolling the chapati (a squash and a stretch), pressing murukku dough through the press, the thumb in clay, toothpaste, stamping on the can, twisting coir, hammering the bangle, the balloon dog, and the wrung towel, which stays creased. Springs back: the rubber band pulled, the wound rubber band, the veena string (stretched sideways), the hair band, the cushion, the bamboo in wind, the diving board, the plastic ruler (if bent a little), and the cricket ball squashing on the bat. Breaks: the papad and the apple. Test cards: a straw springs back after a small bend but kinks and stays bent after a big one. A plastic bag strip stretches and stays long and thin, and tears if pulled too far. A biscuit snaps."
+     "parent": "Here are the answers for the cards. Stays changed: rolling the chapati (a squash and a stretch), pressing murukku dough through the press, the thumb in clay, toothpaste, stamping on the can, twisting coir, hammering the bangle, the balloon dog, and the wrung towel, which stays creased. Springs back: the rubber band pulled, the wound rubber band, the veena string (stretched sideways), the hair band, the cushion, the bamboo in wind, the diving board, the plastic ruler (if bent a little), and the cricket ball squashing on the bat. Breaks: the papad and the apple. Test cards: a straw springs back after a small bend but kinks and stays bent after a big one. A plastic bag strip stretches and stays long and thin, and tears if pulled too far. A biscuit snaps."
     },
     {
      "id": "s4",
@@ -893,7 +893,7 @@
     "Put the object cards face down. Put the real objects nearby. You also need one dice, for example from a Ludo set. No dice? Write 1 to 6 on six slips of paper and draw one each turn.",
     "On your turn, roll the dice and take an object card. The dice chart tells you what your force must do.",
     "If the object is not moving and the dice says stop, slow down, speed up or turn, first start it moving with a push. Then do the job.",
-    "Use a push or a pull to do it to the object. For example, \"turn it\" with a toy car.",
+    "Use a push or a pull to make the object do what the dice says. For example, if the dice says 'TURN it' and your card is the toy car, you must turn the toy car.",
     "Say whether you used a push or a pull. Write it on the force log. Everyone shares one force log.",
     "If the others agree you did it, you win a point. If it is impossible, explain why, and you still win a point.",
     "Put your card back at the bottom of the pile. After everyone has had 3 turns, the player with the most points wins. Players with the same points share the win."
@@ -955,7 +955,7 @@
      "do": "1. Take turns rolling the dice and taking a card. 2. Each player does the action to that object. 3. They say push or pull and fill in the force log. 4. Everyone has 3 turns.",
      "say": "What did the dice say? How will you do that to this object? Was it a push or a pull?",
      "kid": "Roll the dice. Take a card. Do what the dice says to that object. Push or pull? Write it down.",
-     "parent": "Some turns are puzzles. Speeding up a bowl of water: stir it faster. Changing the shape of a carrom coin: almost impossible by hand. That is a good answer if explained, because hard things need enormous forces to change shape. Turning a sheet of paper: blow on it from the side. One action can do two jobs. A kick from the side turns a ball and speeds it up."
+     "parent": "Some turns are puzzles. To speed up a bowl of water, stir it faster. Changing the shape of a carrom coin is almost impossible by hand. Saying so is a good answer if the player explains it, because hard things need enormous forces to change shape. To turn a sheet of paper, blow on it from the side. One action can do two jobs. A kick from the side turns a ball and speeds it up."
     },
     {
      "id": "s4",
@@ -1105,7 +1105,7 @@
       "It goes back the way it came, even if it hit at a slant"
      ],
      "a": 0,
-     "why": "The edge pushes back on the coin, so the coin changes direction. If it hits at a slant, it goes off at a slant the other way, like light off a mirror. Picking 'stops dead' happens sometimes on a slow shot. But a fast coin is turned, not stopped.",
+     "why": "The edge pushes back on the coin, so the coin changes direction. If it hits at a slant, it goes off at a slant the other way, like light off a mirror. A coin may stop dead on a slow shot. But a fast coin is turned, not stopped.",
      "art": "A carrom coin sliding at a slant, bouncing off the edge of the board."
     },
     {
@@ -1134,10 +1134,10 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi, a girl in Class 3, rolls a ball across the floor. It slows down and stops. She says, 'It stopped by itself. Nothing pushed it.' What is wrong with her idea? What was pushing on the ball?",
+     "p": "You roll a ball across the floor. It slows down and stops. Someone says, 'It stopped by itself. Nothing pushed it.' What is wrong with this idea? What was pushing on the ball?",
      "lines": 4,
      "a": "A strong answer says that a moving thing only slows down if a force acts on it. Here the floor rubs on the ball, which is friction, and the air pushes on it a little too. On a smoother floor the ball rolls further, which shows the floor was slowing it.",
-     "why": "Things do not stop by themselves. Every change in movement, including stopping, needs a push or a pull. This was Aristotle's mistake too, and Galileo showed it."
+     "why": "Things do not stop by themselves. Every change in movement, including stopping, needs a push or a pull. Aristotle, a thinker in ancient Greece, made the same mistake. Galileo later showed that it was a mistake."
     },
     {
      "t": "write",
@@ -1166,15 +1166,15 @@
      "p": "A school in Chennai is choosing a floor for under the swings. Three people say what they think.",
      "views": [
       {
-       "who": "Kavya, who runs the school",
+       "who": "The person who runs the school",
        "says": "Concrete is best. It does not change shape, it lasts for years, and it is easy to sweep."
       },
       {
-       "who": "Dr Revathi, a children's doctor",
+       "who": "A children's doctor",
        "says": "Thick rubber mats are best. When a child falls, the mat squashes, so the child stops more slowly and gently."
       },
       {
-       "who": "Farhan, a gardener",
+       "who": "A gardener",
        "says": "Deep sand is best. It squashes and spreads when you land, and it costs very little. But it must be raked every day."
       }
      ],
@@ -1342,7 +1342,7 @@
     },
     {
      "t": "write",
-     "p": "Ananya, a girl in Class 4, says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell her? Use evidence from this unit.",
+     "p": "Someone says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell them? Use evidence from this unit.",
      "lines": 4,
      "a": "A strong answer says that every push changes a thing's shape a little, even steel. It gives evidence from the unit, for example the wet ball print (the ball squashed against a hard floor), bridges that sag under trucks, or, if the extra laser and mirror activity was done, the dot that moves when the table is pressed. It says the bend is too small to see with our eyes.",
      "why": "Hard things change shape too, only by tiny amounts.",
@@ -1411,18 +1411,18 @@
     },
     {
      "t": "perspective",
-     "p": "A girl in Madurai must post a glass bottle of homemade pickle to her aunt in Pune. Three people suggest a way to pack it.",
+     "p": "A glass bottle of homemade pickle must be posted from Madurai to Pune. Three people suggest a way to pack it.",
      "views": [
       {
-       "who": "Nandini, who works at the post office",
+       "who": "A person who works at the post office",
        "says": "Use a thick, stiff cardboard box with no gaps. It spreads a knock over the whole box, and nothing sharp can poke through to the glass."
       },
       {
-       "who": "Priya, her neighbour",
+       "who": "A neighbour",
        "says": "Wrap it in bubble wrap. The bubbles squash and spring back, so they slow a bump down gently."
       },
       {
-       "who": "Ravi, her cousin",
+       "who": "A cousin",
        "says": "Crumple old newspaper round it. The paper squashes and stays squashed, so it soaks up the bump, and it costs nothing."
       }
      ],
@@ -1495,9 +1495,9 @@
     },
     {
      "t": "write",
-     "p": "Ritu, a girl in Class 4, measures her height against a wall. In the morning she is 128.5 cm. At bedtime she is 127.5 cm. Her brother Arun says, 'Your tape must be wrong.' Is he right? Explain.",
+     "p": "You measure your height against a wall. In the morning you are 128.5 cm. At bedtime you are 127.5 cm. Someone says, 'Your tape must be wrong.' Are they right? Explain.",
      "lines": 4,
-     "a": "A strong answer says the tape is probably fine. During the day, Ritu's weight squashes the soft pads between the bones of her spine, so she gets about 1 cm shorter. At night, lying down, the pads spring back. To check, she could measure the same way on a few days and see if it happens each time.",
+     "a": "A strong answer says the tape is probably fine. During the day, your weight squashes the soft pads between the bones of your spine, so you get about 1 cm shorter. At night, when you lie down, the pads spring back. To check, you could measure the same way on a few days and see if it happens each time.",
      "why": "People really are about 1 cm taller in the morning. Repeating a measurement is how you tell a real change from a mistake.",
      "how": "p1",
      "context": "In the morning and night project, you measure your height against a wall as soon as you wake up, and again at bedtime."
@@ -1564,7 +1564,7 @@
      "p": "People who build bridges do not all agree on whether a bridge should bend.",
      "views": [
       {
-       "who": "Meenakshi, an engineer who builds steel road bridges",
+       "who": "An engineer who builds steel road bridges",
        "says": "A bridge should be stiff. If it sways, people feel unsafe, and metal that bends over and over can crack."
       },
       {
@@ -1572,7 +1572,7 @@
        "says": "A bridge should bend a little. The roots sway and spring back, and trees that sway grow thicker trunks."
       },
       {
-       "who": "Gayathri, who designs buildings for places with earthquakes",
+       "who": "A person who designs buildings for places with earthquakes",
        "says": "Bending a little is safer than being stiff. A building that can sway in an earthquake bends instead of snapping."
       }
      ],
@@ -1603,7 +1603,7 @@
     },
     {
      "t": "write",
-     "p": "Nisha, a girl in Class 5, hammers a thin copper wire flat. Then she bends a dry twig and it snaps. She says, 'Metal and wood both just break if you push hard enough.' What is wrong with her idea? Use the words stays changed and breaks.",
+     "p": "You hammer a thin copper wire flat. Then you bend a dry twig and it snaps. Someone says, 'Metal and wood both just break if you push hard enough.' What is wrong with this idea? Use the words stays changed and breaks.",
      "lines": 4,
      "a": "A strong answer says the copper stays changed: rows of atoms slide to new places, so it flattens without breaking. The dry twig is brittle, so a crack runs across it and it breaks. Different materials answer the same push in different ways.",
      "why": "Metals can change shape for good without cracking. A dry twig cannot slide its parts, so it breaks."
@@ -1611,7 +1611,7 @@
     {
      "t": "draw",
      "p": "Draw a bamboo scaffold pole bending in a strong wind. Mark the side that is squashed and the side that is stretched. Draw an arrow for the wind's push.",
-     "a": "A strong drawing shows the pole curved away from the wind. The arrow points at the pole from the windward side. The inside of the curve is marked squashed and the outside is marked stretched.",
+     "a": "A strong drawing shows the pole curved away from the wind. The arrow points at the pole from the side the wind is blowing from. The inside of the curve is marked squashed and the outside is marked stretched.",
      "why": "Bamboo bends and springs back. A bend squashes one side and stretches the other.",
      "art": "An empty outline of a tall bamboo pole, bent slightly."
     },
@@ -1878,10 +1878,10 @@
      "id": "s2",
      "mins": 13,
      "do": "1. Roll the newspaper into a tube just wide enough for the ball. 2. Stand it upright on the first thing. 3. Drop the ball into the top. 4. Lift the tube and look. 5. Write what happened. 6. Repeat for each thing.",
-     "say": "Same ball, same tube, same height every time. Now what happened? Was your guess right?",
+     "say": "We use the same ball, the same tube and the same height every time. What happened? Was your guess right?",
      "kid": "Stand the tube on one thing. Drop the ball in the top. Lift the tube. What happened? Write it down.",
      "adult": true,
-     "parent": "Expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone does not change at all that you can see. That is a useful result, not a failure. A tennis ball is lighter than a cricket ball, so the biscuit may only crack.",
+     "parent": "What to expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone does not change at all that you can see. That is a useful result, not a failure. If you use a tennis ball, which is lighter than a cricket ball, the biscuit may only crack.",
      "how": "e2",
      "example_chart": {
       "type": "table",
@@ -1929,8 +1929,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Sort the six things into three groups on the table.",
-     "say": "Let's sort them. Stays changed. Springs back. Breaks. Where does the stone go?",
-     "kid": "Sort the six things into three groups. Stays changed. Springs back. Breaks. Where does the stone go?",
+     "say": "Let's sort them into three groups: stays changed, springs back, and breaks. Where does the stone go?",
+     "kid": "Sort the six things into three groups: stays changed, springs back, and breaks. Where does the stone go?",
      "ask": [
       {
        "q": "The stone didn't change. Did the force do nothing to it?",
@@ -1950,7 +1950,7 @@
        "Plastic"
       ],
       "a": 0,
-      "why": "Elastic means it springs back. Picking 'plastic' mixes it up with dough, which stays changed. Picking 'brittle' means breaking, and the sponge did not break."
+      "why": "Elastic means it springs back. Picking 'plastic' mixes it up with dough, which stays changed. 'Brittle' means it breaks, and the sponge did not break."
      },
      "how": "e2"
     },
@@ -2039,7 +2039,7 @@
      "do": "1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Draw round the wet circle with a pencil straight away, before it dries. 5. Measure across the pencil circle. 6. Do steps 1 to 5 three times from knee height, then three times from waist height, then three times from shoulder height. Wet the ball again each time.",
      "say": "Look at the wet circle. Is it bigger or smaller than the dot? Now let's try from higher.",
      "kid": "Dip the ball in water. Shake off the drips. Drop it from knee height. Catch it after one bounce. Draw round the wet circle and measure it. Now try waist and shoulder height.",
-     "parent": "The wet circle is clearly bigger than the dot the ball made resting on the paper. That shows the ball squashed flatter for a moment. A tennis ball works best, because its fuzz holds water. A smooth rubber ball can leave a patchy print, so wipe it all over with a wet cloth instead of dipping it. The prints dry fast, so draw round them at once. If a circle is hard to see, look at the paper from a slant, against the light. The circles from the three heights differ by only a few millimetres, or at most a centimetre, so some of your results may be close or in a different order. That is an honest result. Look at the average of the three tries, not one.",
+     "parent": "The wet circle is clearly bigger than the dot the ball made resting on the paper. That shows the ball squashed flatter for a moment. A tennis ball works best, because its fuzz holds water. A smooth rubber ball can leave a patchy print, so wipe it all over with a wet cloth instead of dipping it. The prints dry fast, so draw round them at once. If a circle is hard to see, look at the paper from a slant, against the light. The circles from the three heights differ by only a few millimetres, or at most a centimetre, so some of your results may be close or in a different order. That is an honest result. Look at the middle value of the three tries, not at one try.",
      "how": "e3"
     },
     {
@@ -2089,7 +2089,7 @@
      "id": "s4",
      "mins": 1,
      "do": "Ask your child what a bounce is. Wait for their idea before saying anything.",
-     "say": "Resting, the ball touched only a small dot. In the bounce, the wet circle was much bigger. What happened to the ball when it hit the floor? What sent it back up?",
+     "say": "When the ball was resting, it touched only a small dot of the paper. In the bounce, the wet circle was much bigger. What happened to the ball when it hit the floor? What sent it back up?",
      "kid": "The bounce made a much bigger circle than the dot. What happened to the ball? What sent it back up?",
      "think": "Tennis players' rackets also squash when they hit the ball. Why might that help?",
      "how": "e3",
@@ -2217,7 +2217,7 @@
        "Brittle"
       ],
       "a": 0,
-      "why": "A plastic change means it stays changed. Picking 'elastic' means springing back, which is what a sponge does. Picking 'brittle' means breaking, like a biscuit."
+      "why": "A plastic change means it stays changed. 'Elastic' means springing back, which is what a sponge does. 'Brittle' means breaking, like a biscuit."
      },
      "think": "Why is it useful that chapati dough stays flat after you roll it?"
     }
@@ -2254,10 +2254,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Bend a lined sponge, then press a ruler flat and on its edge."
+     "what": "Bend a lined sponge, then press a ruler lying flat, and then standing on its edge."
     }
    ],
-   "record": "Draw the bent sponge and its lines. Write which way the ruler bent less.",
+   "record": "Draw the bent sponge and its lines. Write whether the ruler bent less lying flat or standing on its edge.",
    "setup": [
     {
      "art": "A long kitchen sponge with five straight lines drawn down its thin side in marker, from the top face to the bottom face.",
@@ -2286,7 +2286,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Bend the sponge into a curve, with the lined side facing you. Look at the lines on the inside of the curve, then on the outside.",
-     "say": "Look at the inside of the bend. What happened to the lines? Now the outside?",
+     "say": "Look at the inside of the bend. What happened to the lines? Now look at the outside. What happened there?",
      "kid": "Bend the sponge. Look inside the curve. Are the lines closer? Now look outside. Are they further apart?",
      "ask": [
       {
@@ -2314,7 +2314,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Lay the ruler flat across the two tins. 2. Put the small book on its middle and watch it sag. 3. Take the book off. Stand the ruler on its thin edge across the tins. Your child steadies it with one hand. 4. Your child presses the middle down with one finger.",
-     "say": "Same ruler. Lying flat, it sags under the book. On its edge, push it with your finger. Does it bend? Why do you think so?",
+     "say": "It is the same ruler. Lying flat, it sags under the book. Now it is on its edge. Push it with your finger. Does it bend? Why do you think so?",
      "kid": "Lay the ruler flat on two tins. Put a book on it. It sags! Now stand it on its edge. Press its middle with one finger.",
      "parent": "A book will not balance on the thin edge, so your child presses with a finger instead. A plastic ruler on its edge may tip sideways, so steady it. On its edge, the top and bottom of the ruler are far apart. To bend, the top must squash a lot and the bottom must stretch a lot. So it resists. This is why steel beams have an I shape, and why bamboo, a hollow tube, is so stiff.",
      "how": "a2"
@@ -2406,8 +2406,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Pull one tuft into a loose strand as long as your hand. Don't twist it. 2. Hold its ends and pull gently. 3. Pull the second tuft into a strand of the same length. 4. Hold one end still, and twist the other end round and round about 30 times. Keep the strand pulled straight while you twist. 5. Hold the two ends together and let the middle hang down. It twists round itself into a strong cord, with a loop at the bottom. 6. Hook the bag handles through the loop. Hold the two top ends tightly and add coins one at a time.",
-     "say": "The loose strand pulls apart easily. Now the wick, made from the same amount of cotton. How many coins will it hold? Why?",
+     "do": "1. Pull one tuft of cotton wool into a loose strand as long as your hand. Don't twist it. 2. Hold its ends and pull gently. 3. Pull the second tuft into a strand of the same length. 4. Hold one end still, and twist the other end round and round about 30 times. Keep the strand pulled straight while you twist. 5. Hold the two ends together and let the middle hang down. It twists round itself into a strong cord, with a loop at the bottom. 6. Hook the bag handles through the loop. Hold the two top ends tightly and add coins one at a time.",
+     "say": "The loose strand pulls apart easily. Now try the wick, made from the same amount of cotton. How many coins will it hold? Why?",
      "kid": "Pull the loose cotton gently. It comes apart! Now twist the same amount of cotton round and round. Hold its two ends together and let it twist into a cord. Hang the bag on the loop. Add coins.",
      "adult": true,
      "parent": "Try hanging the empty bag from the loose strand too. It usually pulls apart at once. The twisted cord should hold many coins. Folding it makes two twisted strands wind round each other, like a real rope, and the loop means no knot is needed. How many coins it holds depends on the cotton and how tightly you twist. Even a few coins, when the loose strand holds none, is a clear result. If the bag fills before it breaks, that is a good result too. The twist squeezes the short fibres against each other. Friction, the grip between them, makes them share the pull. Cotton thread and coir rope are made this way.",
@@ -2500,7 +2500,7 @@
        "Your hands slip"
       ],
       "a": 0,
-      "why": "The first snap makes the halves spring back so fast that they break again. Picking 'slipping hands' is a fair worry, but it happens even with a machine. Spaghetti is one solid piece, not three stuck together."
+      "why": "The first snap makes the halves spring back so fast that they break again. Picking 'slipping hands' is a fair worry, but the spaghetti breaks this way even when a machine bends it. Spaghetti is one solid piece, not three stuck together."
      },
      "how": "a4"
     },
@@ -2790,7 +2790,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Measure again as soon as your child wakes up, before they walk around much. Use the same wall, book and way of standing.",
-     "say": "Straight out of bed. Same way, same book. Let's see.",
+     "say": "You are straight out of bed. Stand the same way, and we'll use the same book. Let's see how tall you are.",
      "kid": "Just woken up? Go straight to the wall. Stand the same way. Measure!",
      "adult": true,
      "wait": "Measure first thing the next morning.",
@@ -2800,7 +2800,7 @@
      "id": "s3",
      "mins": 6,
      "do": "At bedtime on day 2, measure again in the same way. First thing on the morning of day 3, measure once more. Write every number in the table.",
-     "say": "Two nights, two tries, because one try can be a fluke.",
+     "say": "We measure on two nights and two mornings, because one try can be a fluke.",
      "kid": "Measure at bedtime tonight. Measure again first thing tomorrow morning. Write each number in the table.",
      "wait": "Measure at bedtime on day 2, and first thing on day 3.",
      "how": "p1",
@@ -3091,7 +3091,7 @@
    "channel": "Everyday, Explained in lines",
    "youtube": "UWmq1pDC-qI",
    "mins": 3,
-   "why": "Explains the spaghetti puzzle from the spaghetti activity: why dry spaghetti breaks into three or more pieces.",
+   "why": "Explains the puzzle from The Spaghetti Puzzle activity: why dry spaghetti breaks into three or more pieces.",
    "check": "Title and channel confirmed on YouTube. A parent may still preview it."
   },
   {
@@ -3106,7 +3106,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "A girl bends a bamboo stick into a bow for a game. Which shape change is this?",
+   "p": "You bend a bamboo stick into a bow for a game. Which shape change is this?",
    "opts": [
     "A bend",
     "A squash",
@@ -3168,7 +3168,7 @@
   },
   {
    "t": "mcq",
-   "p": "In your clay drop test, the 40 cm patch came out wider than the 80 cm patch. What is the best thing to do next?",
+   "p": "Suppose that in your clay drop test, the 40 cm patch came out wider than the 80 cm patch. What is the best thing to do next?",
    "opts": [
     "Repeat each drop three times and compare",
     "Cross out the 80 cm result",
@@ -3213,7 +3213,7 @@
     "Makes it heavier"
    ],
    "a": 0,
-   "why": "The hands push against the ball's movement and stop it. Picking 'speeds it up' means the push was thought to go the same way as the ball.",
+   "why": "The hands push against the ball's movement and stop it. 'Speeds it up' would be right only if the hands pushed the same way the ball was moving.",
    "outcome": 4
   },
   {
@@ -3239,7 +3239,7 @@
     "Both the same"
    ],
    "a": 0,
-   "why": "Trees grow thicker, stronger wood where the wind bends them. Picking 'the tree that is tied' sounds caring, but the tied tree has no bending to answer, so their trunk stays thin.",
+   "why": "Trees grow thicker, stronger wood where the wind bends them. Picking 'the tree that is tied' sounds caring, but the tied tree is never bent by the wind, so their trunk stays thin.",
    "outcome": 5
   },
   {
@@ -3834,16 +3834,16 @@
  "roots": {
   "context": "We have been learning how forces squash, stretch, bend and turn things. Now we ask what this tells us about hard things, and about touching.",
   "deep_truth": {
-   "truth": "A ball dropped on wet paper leaves a print much bigger than its resting dot. It squashed flat on the floor, then sprang back up. The floor squashed too, far too little to see. So every bounce changes the shape of both things, even a stone floor.",
+   "truth": "In the wet ball prints test, a wet ball dropped on paper leaves a print much bigger than the dot it leaves when it only rests on the paper. The ball squashed flat on the floor, then sprang back up. The floor squashed too, far too little to see. So every bounce changes the shape of both things, even a stone floor.",
    "habit": "We sort things into soft ones that change shape and hard ones that don't. But every material gives a little when pushed. Hard and soft differ only in how much they give.",
-   "evidence": "In the wet ball prints test, the bounce left a wet circle much bigger than the resting dot, so the ball squashed to push off the floor. In the extra laser and mirror activity, a dot bounced off a mirror on a table can move when you press the table. The movement is tiny, but it shows the table bends too."
+   "evidence": "In the wet ball prints test, the bounce left a wet circle much bigger than the dot the resting ball left, so the ball squashed to push off the floor. In the extra laser and mirror activity, a laser beam bounced off a mirror on a table makes a dot on the wall, and the dot can move when you press the table. The movement is tiny, but it shows the table bends too."
   },
   "three": {
    "who_am_i": "Your bones grow stronger where they are pushed every day. Your body is shaped by the forces on it.",
    "what_is_life": "Trees that sway in the wind grow thicker trunks. Living things respond to pushes and pulls by growing stronger where they feel them.",
    "what_is_this_world": "Mountains fold and the spinning Earth bulges. Even the hardest rock changes shape when it is pushed."
   },
-  "thread": "When you press a table, your thumb squashes a little, and so does the table. The push comes from both of them changing shape together. It is always shared: the table pushes your thumb exactly as hard as your thumb pushes the table. So nothing can touch without being touched back, and changed a little. So things are less separate than they look. Each thing is partly shaped by everything that presses on it.",
+  "thread": "When you press a table, your thumb squashes a little, and so does the table. The push comes from both of them changing shape together. It is always shared: the table pushes your thumb exactly as hard as your thumb pushes the table. This means nothing can touch another thing without being touched back, and changed a little. In that way, things are less separate than they look. Each thing is partly shaped by everything that presses on it.",
   "teachings": [
    {
     "source": "Tao Te Ching 76",
@@ -3891,5 +3891,5 @@
   "story": "For nearly 2,000 years, many people followed the ideas of Aristotle, a Greek thinker. He taught that a moving thing needs a push all the time to keep moving. Stop pushing a cart, and it stops. So stopping seemed natural, and only moving seemed to need a force. In Italy, in the early 1600s, Galileo Galilei rolled balls down sloping wooden tracks. He saw that a ball rolling down one slope rolls up a second slope to nearly the same height. When he made the second slope less steep, the ball rolled further to reach that height. So Galileo asked: what if the second track were flat? The ball would never reach its starting height, so it would keep rolling. He said a rolling ball slows down only because of friction and the air. He wrote this in a book in 1638. In 1687, Isaac Newton made it his first law of motion. A moving thing keeps going at the same speed in a straight line, unless a force acts on it. So a force is needed to change how a thing moves, not to keep it moving."
  },
  "playtest": "Played both games in my head with 2 and 4 players and wrote out every printable (24 cards, 4 mats, 12 tokens; 12 object cards, 6 dice faces, 4 log columns): all counts match and nothing gets stuck. I changed two Squash, Stretch, Twist or Bend test cards that repeated other activities (the sponge squeeze and the lined paper twist) into a drinking straw and a plastic bag strip, listed those things in the set-up step, and wrote the expected answer for every card in the parent note. I swapped the sitar and chapati-kneading cards for a veena and murukku, added a no-dice option to Six Things a Force Can Do, and added a toy shell, a sponge and instructions for the lined strip that were missing from material lists. I rebuilt the paper-globe steps so a family can actually make it, fixed the wet-print record line that disagreed with the middle-value step, made the paper bridge's last step include building and testing, and made the laser activity an honest extra because the dot may barely move. I removed the book entries from the buy list (nothing in the unit needs them), the pencil warning, an unneeded PhET duplicate link, internal-sounding buy notes, two jokes, and three repeated worksheet questions (fossil shells, India's plate over 20 years and Iba's tied roots), and shortened the claim, evidence and reasoning note that was repeated five times. The Kong Kyrmen view in the bridge debate became an unnamed bridge-grower so the made-up story is not used as evidence. Core experiments e1, e2, e3 and a3 all work in a flat. The twisted-cotton coin count in a3 and the wet-print differences in e3 depend on the cotton and ball, and the notes say so.",
- "warm": {"words": ["FORCE", "SHAPE", "SPEED", "TWIST", "STEEL"], "quiz": [["Steel and stone do not change shape at all when you push them.", false, "They do change shape, but by an amount too small to see."], ["A bouncing ball is squashed for a moment before it springs back.", true, "Springing back pushes the ball off the floor in a new direction."], ["A book resting on a table has no forces acting on it.", false, "Gravity pulls it down and the table pushes it up; the equal forces cancel out."], ["One sheet of paper folded like a fan can hold more than a flat sheet.", true, "Shape matters as much as amount; folds make a material stronger without adding more of it."], ["Old windows are thicker at the bottom because glass slowly flows downwards.", false, "Old glass was made unevenly, and builders often set the thick edge at the bottom."], ["When a stick bends, the inside of the curve is squashed and the outside is stretched.", true, "A bend squashes one side and stretches the other at the same time."], ["A bigger force makes the same change in shape as a small force.", false, "The bigger the force, the bigger the change of shape, until the thing breaks."], ["To move in a circle, a thing needs a force pulling it towards the middle.", true, "That inward pull keeps changing the thing's direction, so it keeps turning."], ["The Himalayas are fixed mountains that never change.", false, "India is still pushing into Asia, so the Himalayas rise a few millimetres each year."], ["A biscuit cracks under a push where dough would only change shape.", true, "A biscuit is brittle and cracks, while dough keeps its new shape."]], "odd": [[["Biscuit", "Glass", "Chalk", "Rubber band"], "Rubber band", "Biscuit, glass and chalk are brittle and crack when pushed too far; a rubber band stretches and springs back."], [["Sponge", "Rubber band", "Spring", "Dough"], "Dough", "Sponge, rubber band and spring are elastic and spring back; dough keeps its new shape."], [["Folded paper fan", "Hollow tube", "Stone arch", "Flat paper sheet"], "Flat paper sheet", "A fold, a tube and an arch use shape to make material strong; a flat sheet has no such shape."], [["Moon around Earth", "Stone whirled on string", "Merry-go-round", "Ball on straight track"], "Ball on straight track", "The first three keep being pulled towards a middle to move in a circle; the ball moves in a straight line."], [["Pressing dough", "Stepping on a can", "Sitting on a sponge", "Pulling a rubber band"], "Pulling a rubber band", "Pressing, stepping and sitting squash a thing; pulling a rubber band stretches it."]]}
+ "warm": {"words": ["FORCE", "SHAPE", "SPEED", "TWIST", "STEEL"], "quiz": [["Steel and stone do not change shape at all when you push them.", false, "They do change shape, but by an amount too small to see."], ["A bouncing ball is squashed for a moment before it springs back.", true, "Springing back pushes the ball off the floor in a new direction."], ["A book resting on a table has no forces acting on it.", false, "Gravity pulls it down and the table pushes it up; the equal forces cancel out."], ["One sheet of paper folded like a fan can hold more than a flat sheet.", true, "Shape matters as much as amount; folds make a material stronger without adding more of it."], ["Old windows are thicker at the bottom because glass slowly flows downwards.", false, "Old glass was made unevenly, and builders often set the thick edge at the bottom."], ["When a stick bends, the inside of the curve is squashed and the outside is stretched.", true, "A bend squashes one side and stretches the other at the same time."], ["A bigger force makes the same change in shape as a small force.", false, "The bigger the force, the bigger the change of shape, until the thing breaks."], ["To move in a circle, a thing needs a force pulling it towards the middle.", true, "That inward pull keeps changing the thing's direction, so it keeps turning."], ["The Himalayas are fixed mountains that never change.", false, "India is still pushing into Asia, so the Himalayas rise a few millimetres each year."], ["A push that only changes the shape of dough can crack a biscuit.", true, "A biscuit is brittle and cracks, while dough keeps its new shape."]], "odd": [[["Biscuit", "Glass", "Chalk", "Rubber band"], "Rubber band", "Biscuit, glass and chalk are brittle and crack when pushed too far; a rubber band stretches and springs back."], [["Sponge", "Rubber band", "Spring", "Dough"], "Dough", "Sponge, rubber band and spring are elastic and spring back; dough keeps its new shape."], [["Folded paper fan", "Hollow tube", "Stone arch", "Flat paper sheet"], "Flat paper sheet", "A fold, a tube and an arch use shape to make material strong; a flat sheet has no such shape."], [["Moon around Earth", "Stone whirled on string", "Merry-go-round", "Ball on straight track"], "Ball on straight track", "The first three keep being pulled towards a middle to move in a circle; the ball moves in a straight line."], [["Pressing dough", "Stepping on a can", "Sitting on a sponge", "Pulling a rubber band"], "Pulling a rubber band", "Pressing, stepping and sitting squash a thing; pulling a rubber band stretches it."]]}
 }

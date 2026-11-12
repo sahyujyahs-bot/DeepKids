@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Checked at home in thought, step by step. The coin pull works on a wooden or laminate table with thin school notebooks: one notebook usually needs 5 to 10 five-rupee coins, and a stack of two needs about twice as many. If one notebook needs more than 12 coins, use thinner notebooks or a smoother table. If it slides with no coins, the cup is too heavy. A cushion under the cup stops coins rolling away. Counts vary by a coin or two between tries, which is why each test is done 3 times. The water version needs something marked in millilitres: the measuring cap of a cough syrup bottle works. In the box illusion, people must see the boxes, and the small box must be a tin filled with coins, because a matchbox cannot hold enough. Digital bathroom scales may freeze their first reading, so step on again for each change. A real forcemeter (0 to 50 newtons) is needed for the pull detective, the tug of war and Guess the Newtons; the box illusion needs one that reads 0 to 10 newtons.",
  "summary": {
-  "text": "How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can get different numbers and both be right, because you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn to measure force in newtons with a forcemeter, a spring tool. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.",
+  "text": "How many coins in a cup does it take to pull a notebook across a table? You and a grown-up can get different numbers and both be right, because you used different coins. That is why scientists everywhere agreed to measure force in one shared unit, the newton. You will invent your own unit, then learn to measure force in newtons with a forcemeter, a tool with a spring inside. Last, you will meet forces from the tiny pull of one molecule to the huge pull between the Earth and the Moon.",
   "art": "A child holding a spring forcemeter with an apple hanging from its hook, the pointer on 1 N. Behind her is a ladder of pictures from a feather up to a rocket."
  },
  "intro": {
@@ -176,7 +176,7 @@
    "concept": "Why two careful people get different numbers",
    "status": "defined",
    "definition": "A number means nothing without its unit. Six big coins and twelve small coins can be exactly the same pull.",
-   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now imagine every town using its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.",
+   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.",
    "examples": [
     "Suppose one five-rupee coin pulls as hard as two one-rupee coins. Then 6 big coins match 12 small ones.",
     "A grown-up's step is longer than yours. The room is the same, but the number of steps is not.",
@@ -341,11 +341,11 @@
    "concept": "What is a push, underneath?",
    "status": "defined",
    "definition": "When you push something, the electrons on the outside of your atoms repel the electrons of its atoms. Almost every push and pull you feel is this one electric force.",
-   "description": "Zoom in on your finger pressing a table. Your skin and the table are both made of atoms. Each atom has electrons on its outside. Electrons repel each other, which means they push each other away. So your finger never quite touches the table. The electrons push apart, and that push is what you feel. A string pulling a cup is the same force. The atoms of the string hold on to each other, so a pull at one end reaches the other. A spring, the grip of friction and the push of the wind are this force too. Even a forcemeter's spring works this way: its atoms pull back on their neighbours when you stretch it. In everyday life, only the pull of gravity is different. In the coin test, you measured friction, the grip between the notebook and the table. That grip comes from electric pushes and pulls between trillions of atoms.",
+   "description": "Zoom in on your finger pressing a table. Your skin and the table are both made of atoms. Each atom has electrons on its outside. Electrons repel each other, which means they push each other away. So your finger never quite touches the table. The electrons push apart, and that push is what you feel. A string pulling a cup is the same force. The atoms of the string hold on to each other, so a pull at one end reaches the other. A spring, the grip of friction and the push of the wind are this force too. Even a forcemeter's spring works this way: its atoms pull back on their neighbours when you stretch it. In everyday life, only the pull of gravity is different. In the coin-pull test, you measured friction, the grip between the notebook and the table. That grip comes from electric pushes and pulls between trillions of atoms.",
    "examples": [
     "Press your palm on a table. The push you feel is electrons repelling electrons.",
-    "The string in the coin test pulls because its atoms hold on to their neighbours.",
-    "The weight of the coins comes from gravity, the one everyday force that is not electric."
+    "The string in the coin-pull test pulls because its atoms hold on to their neighbours.",
+    "In the coin-pull test, the weight of the coins comes from gravity, the one everyday force that is not electric."
    ],
    "perspectives": [],
    "art": "A finger pressing a table, with a zoom circle showing the fuzzy electron clouds of the skin and the table pushing apart, never quite touching.",
@@ -432,7 +432,7 @@
   {
    "concept": "Weighing the Earth with a twisting wire",
    "status": "defined",
-   "definition": "Cavendish measured the tiny gravity pull between lead balls with a twisting wire, in 1798. It let scientists work out the mass of the Earth.",
+   "definition": "In 1798, Henry Cavendish measured the tiny gravity pull between lead balls with a twisting wire. This let scientists work out the mass of the Earth.",
    "description": "Everything pulls on everything else with gravity. Even two balls on a table pull each other. But that pull is so tiny that nobody could feel it. In 1798, an English scientist, Henry Cavendish, measured it. He hung a rod with two small lead balls from a thin wire. He put two big lead balls nearby. The big balls pulled the small ones, and the wire twisted a tiny bit. The twisting wire worked like a very gentle forcemeter. The pull was tiny, about the weight of one fine grain of sand. Cavendish watched through a telescope from outside the room, so even the warmth of his body would not spoil it. From this, scientists could work out the mass of the whole Earth. The idea and the first apparatus came from another scientist, John Michell. He died in 1793, before he could use it.",
    "examples": [
     "A twisting wire can show forces far too small for a spring.",
@@ -579,7 +579,7 @@
    "claim": "A number tells you the true size of a thing, all by itself.",
    "who": "A common way of thinking",
    "for": "Numbers look exact. '12' seems to say exactly how big the pull is.",
-   "against": "The same notebook needed 6 big coins or 12 small coins. A number only says how many units fit. Until 2019, even the kilogram was simply the mass of one metal cylinder.",
+   "against": "In the coin-pull test, the same notebook needed 6 big coins or 12 small coins. A number only says how many units fit. Until 2019, even the kilogram was simply the mass of one metal cylinder.",
    "status": "rejected",
    "context": "You counted coins to put a number on a pull. This card asks whether a number means anything without its unit."
   },
@@ -603,7 +603,7 @@
    "claim": "A bathroom scale measures how much of you there is.",
    "who": "Most people, most of the time",
    "for": "The scale shows kilograms, and kilograms measure mass, the amount of stuff.",
-   "against": "The scale really shows how hard you push down on it. Bend your knees fast and the number jumps. Press on a table beside you and it drops. On the Moon it would show a much smaller number, though you'd still be all there. The scale is just set to turn your push into kilograms, as if you were standing still on Earth.",
+   "against": "The scale really shows how hard you push down on it. Bend your knees fast and the number jumps. Press on a table beside you and it drops. On the Moon it would show a much smaller number, though there would be just as much of you. The scale is just set to turn your push into kilograms, as if you were standing still on Earth.",
    "status": "rejected",
    "context": "You stand on a bathroom scale and read a number. This card asks what that number really measures."
   },
@@ -626,19 +626,19 @@
  ],
  "big_questions": [
   {
-   "q": "You and a grown-up got different numbers for one notebook's pull. Can two different numbers both be true?",
+   "q": "In the coin-pull test, you and a grown-up got different numbers for the pull of the same notebook. Can two different numbers both be true?",
    "kind": "big",
    "hint": "Think about 6 big coins and 12 small coins. What stayed the same?"
   },
   {
-   "q": "If people had never invented the newton, would the notebook still need the same pull?",
+   "q": "If people had never invented the newton, would a notebook still need the same pull to slide across a table?",
    "kind": "big",
    "hint": "Would a mango still fall if nobody had a word for force?"
   },
   {
    "q": "Is a number something we find in the world, or something we bring to it?",
    "kind": "big",
-   "hint": "Where did your number for the notebook come from: the notebook, the coins, or you?"
+   "hint": "In the coin-pull test, where did your number for the notebook come from: the notebook, the coins, or you?"
   },
   {
    "q": "Before 2019, the kilogram was one lump of metal. If a speck of dust landed on it, did the lump get heavier? Or did everything else get a little lighter?",
@@ -656,7 +656,7 @@
    "hint": "Does a spring get tired, or expect a big box to be heavy?"
   },
   {
-   "q": "Your hands were fooled by the big and small boxes. What else might our senses get wrong?",
+   "q": "In the big box and small box experiment, the small box felt heavier to most people, though both boxes pulled the forcemeter the same. Their hands were fooled. What else might our senses get wrong?",
    "kind": "big",
    "hint": "Think about how warm water feels after your hands were in ice."
   },
@@ -836,7 +836,7 @@
      "id": "s3",
      "mins": 12,
      "do": "1. Take turns turning over a card. 2. Everyone holds the thing and writes a guess in newtons. 3. Put it in the bag and hang it on the forcemeter. 4. Read the pointer at eye level. 5. Score the guesses.",
-     "say": "Hold it in your hand. Compare it with the apple. Is it like two apples? Ten apples? Now write your guess.",
+     "say": "Hold it in your hand. Compare it with a small apple, which pulls with about 1 newton. Is it like two apples? Ten apples? Now write your guess.",
      "kid": "Turn over a card. Find the thing. Hold it and guess its newtons. Then hang it on the forcemeter. Was your guess close?",
      "context": "This is the main part of Guess the Newtons. Players guess each thing's pull in newtons, then check it on the forcemeter.",
      "ask": [
@@ -1228,7 +1228,7 @@
      "kid": "Tape the string to the notebook. Hang the cup over the table edge. Put a cushion underneath. Your unit is one coin. Give it a name!",
      "adult": true,
      "parent": "The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves. Let your child choose the name, and use it all through the test.",
-     "context": "This step of the coin-pull investigation builds the coin pull and names your own unit."
+     "context": "In this step of the coin-pull investigation, you tie the notebook to the hanging cup and name your own unit."
     },
     {
      "id": "s3",
@@ -1336,11 +1336,11 @@
     {
      "id": "s8",
      "mins": 4,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, which numbers show it. Third, why I think it happened. Then read their guesses from step 3 together.",
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, which numbers show it. Third, why I think it happened. Then read together the guesses your child made before the test.",
      "say": "Tell me three things. What do you think now, about stacking notebooks or about units? Which numbers show it? And why do you think it happened? Now let's read your first guesses. Would you change them?",
      "kid": "Say or write three things. What I think now. Which numbers show it. Why it happened. Then read your first guesses again.",
      "how": "e4",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and a grown-up needed 12 for the same notebook. Why: her coins were lighter.",
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: each extra notebook needs about the same number of extra coins. What I saw: one notebook took 6 coins, two took 12 and three took 17. Why: the stack presses harder on the table, so it grips more. Another good answer is about units. What I think: a number is no use without its unit. What I saw: I needed 6 coins and a grown-up needed 12 for the same notebook. Why: the grown-up's coins were lighter.",
      "context": "This is the last step of the coin-pull investigation. You say what you found, which numbers show it, and why."
     }
    ]
@@ -1697,9 +1697,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask the big question and let your child answer before you explain.",
+     "do": "Ask your child what the scale is really showing. Let them answer before you explain.",
      "say": "Did you get any heavier or lighter just now? Did any of you go away, or any more of you arrive? So what is the scale really showing?",
-     "kid": "Did any of you disappear? So what does the scale show? Say what you think.",
+     "kid": "The number on the scale went up and down. Did any of you disappear? So what does the scale show? Say what you think.",
      "context": "This step of the bathroom scale experiment asks what a scale really shows.",
      "how": "e2",
      "ask": [
@@ -1838,7 +1838,7 @@
      "mins": 3,
      "do": "Count the answers and draw a bar for each one.",
      "say": "Let's count. How many people said small? How many said big? How many said the same?",
-     "kid": "Count the answers. Draw one bar for small, big and same.",
+     "kid": "Count the answers. Draw one bar each for small, big and same.",
      "context": "This step of the big box and small box experiment counts what people said.",
      "how": "e3",
      "chart": {
@@ -2126,7 +2126,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Slide the pointer to a reading, without your child seeing. 2. They read it, with their eyes level with the pointer. 3. Do 8 readings: 2, 5, 7 and a half, 0, 3 and a half, 9, 1 and a half, 10.",
-     "say": "Count the big numbers first. Then count the little marks after it. Each little mark is half a newton.",
+     "say": "Read the big number first. Then count the little marks after it. Each little mark is half a newton.",
      "kid": "Read the big number first. Then count the small marks. Each one is half a newton. Say the unit too.",
      "context": "This is the main part of the forcemeter reading practice. A grown-up sets the pointer and you read it.",
      "chart": {
@@ -2238,8 +2238,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Hook one forcemeter to a door handle by its ring. Your child pulls on the other one. Read both.",
-     "say": "Now the door is my partner. Pull. Does the door's forcemeter show the same number as yours?",
-     "kid": "Hook one to a door handle. Pull the other. Is the door pulling back?",
+     "say": "Now the door is your partner. Pull. Does the door's forcemeter show the same number as yours?",
+     "kid": "Hook one forcemeter to a door handle. Pull the other one. Is the door pulling back?",
      "context": "This is the last step of the forcemeter tug of war. You see that even a door pulls back.",
      "how": "a4",
      "think": "If you pull on the door with 5 newtons, how hard is the door pulling you?",
@@ -2309,7 +2309,7 @@
      "mins": 5,
      "do": "1. Ask: 'What is one sixth of 600 grams?' 2. Pour rice out until the scale shows 100 grams. 3. Your child holds it. 4. Say that this is how your full tiffin would feel on the Moon.",
      "say": "On the Moon, your full tiffin would pull like this. Feel it. But how much rice would really be inside the tiffin on the Moon?",
-     "kid": "Pour out rice until 100 grams are left. That is your full lunch on the Moon. Feel how light!",
+     "kid": "Pour out rice until 100 grams are left. That is your full lunch on the Moon. Feel how light it is!",
      "context": "This step of the Moon tiffin activity shows how your lunch would feel on the Moon.",
      "ask": [
       {
@@ -2848,7 +2848,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem with your child. Talk about the story of Pushpa, who checked a spring balance with packets of salt, if you have read it.",
-     "say": "Imagine there are no salt packets and no iron weights. What could we use that always weighs the same, and that everybody trusts?",
+     "say": "Suppose there are no salt packets and no iron weights. What could we use that always weighs the same, and that everybody trusts?",
      "kid": "No standard weights. What could you use instead? What weighs the same every time?",
      "context": "This is the first step of the fair scale challenge. You think about what everybody could trust."
     },
@@ -2892,7 +2892,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3, did the coin-pull test. She used only five-rupee coins, never a mix of coins. Why does that matter?",
+     "p": "In the coin-pull test, you use only five-rupee coins, never a mix of coins. Why does that matter?",
      "opts": [
       "Each five-rupee coin pulls the same amount, so every coin is the same-sized step",
       "Five-rupee coins are shinier",
@@ -2983,7 +2983,7 @@
      "t": "truefalse",
      "p": "A girl pushes hard on a wall, and the wall does not move. So her push was zero newtons.",
      "a": false,
-     "why": "False. In the balloon test, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on her just as hard.",
+     "why": "False. In the balloon push activity, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on her just as hard.",
      "how": "a1"
     },
     {
@@ -3076,7 +3076,7 @@
        "says": "Your coins are no use to your cousin in Kochi. She has different coins. Everyone should use newtons."
       }
      ],
-     "ask": "Who do you agree with more? Give a reason from your coin test. Then say one good point the other person makes.",
+     "ask": "Who do you agree with more? Give a reason from your coin-pull test. Then say one good point the other person makes.",
      "lines": 5,
      "a": "Both are partly right. Kavya is right that the coin unit works inside one house, where everyone uses the same coins. Her grandmother is right that the coin unit can't be shared with someone who has different coins. So a strong answer might say: for sharing with others, newtons are better, but for comparing at home, coins work.",
      "why": "A strong answer picks a side, uses something from the test (for example, 'a grown-up needed 12 small coins where I needed 6 big ones'), and fairly says what the other side gets right. There is no single right answer.",
@@ -3209,7 +3209,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila, a girl in Class 4, hooks her forcemeter to her uncle's and they pull. Nila says, 'My uncle is stronger, so his forcemeter will show more.' What is wrong with her idea?",
+     "p": "You hook your forcemeter to a grown-up's forcemeter and you both pull. You think, 'The grown-up is stronger, so their forcemeter will show more.' What is wrong with this idea?",
      "opts": [
       "Nothing. The stronger person's forcemeter shows more",
       "Both forcemeters always show the same, because each pull comes with an equal pull back",
@@ -3217,7 +3217,7 @@
       "Two forcemeters can't be hooked together"
      ],
      "a": 1,
-     "why": "When the uncle pulls harder, the pull on Nila's side grows too, by exactly the same amount. Both forcemeters feel the one pull that passes through them. Being stronger lets him pull Nila along, but the readings stay equal.",
+     "why": "When the grown-up pulls harder, the pull on your side grows too, by exactly the same amount. Both forcemeters feel the one pull that passes through them. Being stronger lets the grown-up pull you along, but the readings stay equal.",
      "how": "a4"
     },
     {
@@ -3320,9 +3320,9 @@
     },
     {
      "t": "write",
-     "p": "In the Pull Detective test, Megha, a girl in Class 3, pulled open a drawer twice. Once she got 8 newtons, and once she got 12 newtons. What might have made the readings different? What should she do next?",
+     "p": "In the Pull Detective test, you pull open a drawer twice. Once you get 8 newtons, and once you get 12 newtons. What might have made the readings different? What should you do next?",
      "lines": 3,
-     "a": "She may have jerked the forcemeter once, or pulled it at a slant, or the drawer may have stuck. She should pull slowly and steadily, in a straight line, the same way each time. Then she should try three times and use the middle number.",
+     "a": "I may have jerked the forcemeter once, or pulled it at a slant, or the drawer may have stuck. I should pull slowly and steadily, in a straight line, the same way each time. Then I should try three times and use the middle number.",
      "why": "A strong answer gives a real reason the readings could differ, and a way to make the test fairer. One try can be a fluke, which is why we repeat.",
      "how": "e1"
     }
@@ -3337,7 +3337,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Until 2019, one metal cylinder near Paris was the kilogram, by law. Imagine a speck of dust had landed on it. What would have happened to every other kilogram in the world?",
+     "p": "Until 2019, one metal cylinder near Paris was the kilogram, by law. Suppose a speck of dust had landed on it. What would have happened to every other kilogram in the world?",
      "lines": 3,
      "a": "By the rule of that time, the dusty cylinder was still exactly 1 kilogram. So the real kilogram would have grown a tiny bit, and every other kilogram weight in the world would have become a tiny bit too small.",
      "why": "A strong answer sees the strange problem: when a unit is one object, any change to the object changes the unit itself."
@@ -3375,7 +3375,7 @@
     },
     {
      "t": "mcq",
-     "p": "Imagine a lift falling freely, with nothing slowing it down. Inside, a bag hangs from a forcemeter. What does the forcemeter show while the lift falls?",
+     "p": "A lift is falling freely, with nothing slowing it down. Inside, a bag hangs from a forcemeter. What does the forcemeter show while the lift falls?",
      "opts": [
       "Zero, because the bag and the forcemeter fall together",
       "More than usual",
@@ -3501,7 +3501,7 @@
      "t": "truefalse",
      "p": "A forcemeter that shows the same number every time you hang the same bag must be showing the right number.",
      "a": false,
-     "why": "False. A forcemeter can be out by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like Pushpa's sealed salt packets."
+     "why": "False. A forcemeter can be out by the same amount every time. Giving the same answer again and again only shows it is steady. To know it is right, you must check it against something everyone trusts, like the sealed salt packets Pushpa used in the story Ten Packets of Salt."
     }
    ],
    "context": "This challenge worksheet asks harder questions: how the kilogram is kept the same for everyone, how scientists measure very tiny and very huge forces, and who should check the scales."
@@ -3510,14 +3510,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Sneha, a girl in Class 3, invents a unit of pull called 'one eraser'. What must all her erasers be like?",
+   "p": "You invent a unit of pull called 'one eraser'. What must all your erasers be like?",
    "opts": [
     "The same kind and size, so each one pulls the same",
     "Any erasers at all",
     "Brightly coloured"
    ],
    "a": 0,
-   "why": "A unit only works if every one is the same size. Picking 'any erasers' means a big and a small eraser would count as the same, so her numbers would mean nothing.",
+   "why": "A unit only works if every one is the same size. Picking 'any erasers' means a big and a small eraser would count as the same, so your numbers would mean nothing.",
    "outcome": 0
   },
   {
@@ -3617,7 +3617,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before the coin test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?",
+   "p": "Before the coin-pull test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?",
    "opts": [
     "So after the test you can see whether your reason was right",
     "To make the test take longer",
@@ -3872,9 +3872,9 @@
    }
   },
   {
-   "problem": "In the coin-pull investigation, Meera, a girl in Class 3, needed 6 five-rupee coins to start her notebook sliding. Her grandmother tested the same notebook with one-rupee coins and needed 12. On a ruler balance, one five-rupee coin balanced two one-rupee coins. Did they find the same pull, or different pulls?",
+   "problem": "In the coin-pull investigation, you needed 6 five-rupee coins to start a notebook sliding. A grown-up tested the same notebook with one-rupee coins and needed 12. On a ruler balance, one five-rupee coin balanced two one-rupee coins. Did the two of you find the same pull, or different pulls?",
    "answer": "The same pull. 6 five-rupee coins pull as hard as 12 one-rupee coins.",
-   "explain": "One five-rupee coin pulls as hard as 2 one-rupee coins. So 6 five-rupee coins pull as hard as 6 lots of 2 one-rupee coins. 6 times 2 is 12. Meera's grandmother needed 12. The numbers were different, but the pull was the same. Only the unit was different.",
+   "explain": "One five-rupee coin pulls as hard as 2 one-rupee coins. So 6 five-rupee coins pull as hard as 6 lots of 2 one-rupee coins. 6 times 2 is 12. The grown-up needed 12. The numbers were different, but the pull was the same. Only the unit was different.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "why_maths": "Two numbers can only be compared in the same unit. Multiplying turns one unit into the other, the way you change rupees into paise.",
    "context": "In the coin-pull investigation, you dropped coins into a hanging cup until a notebook started to slide. These numbers are made up.",
@@ -3920,9 +3920,9 @@
    "how": "c2"
   },
   {
-   "problem": "In the forcemeter tug of war, Ayesha, a girl in Class 3, pulled against her father. Ayesha's forcemeter showed 5 newtons, and her father's showed 5 newtons too. Her father said, 'So together we are pulling with 10 newtons.' Is he right? Explain.",
+   "problem": "In the forcemeter tug of war, you pulled against a grown-up. Your forcemeter showed 5 newtons, and the grown-up's showed 5 newtons too. The grown-up said, 'So together we are pulling with 10 newtons.' Is that right? Explain.",
    "answer": "No. The pull through the two forcemeters is 5 newtons. Each forcemeter shows the same pull, seen from its own end.",
-   "explain": "Ayesha pulls on her father with 5 newtons, and he pulls back on her with 5 newtons. Both forcemeters feel that one pull passing through them. Adding 5 and 5 counts the same pull twice. If he let go, both forcemeters would drop to 0 together.",
+   "explain": "You pull on the grown-up with 5 newtons, and the grown-up pulls back on you with 5 newtons. Both forcemeters feel that one pull passing through them. Adding 5 and 5 counts the same pull twice. If the grown-up let go, both forcemeters would drop to 0 together.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "why_maths": "Adding only makes sense when the numbers count different things. Asking 'what does each number count?' stops you adding the same thing twice.",
    "context": "In the forcemeter tug of war, two people hook two forcemeters together and pull. They read both forcemeters.",
@@ -4318,7 +4318,7 @@
    "what_is_life": "A crow feels the push of the wind, and a root senses which way is down, without any numbers. People invented numbers for forces so they could share and compare what they sense.",
    "what_is_this_world": "The Earth pulled mangoes down long before anyone had a unit for force. The pull is part of nature. The number in newtons is something people added, by agreeing on a unit."
   },
-  "thread": "Before anyone measured it, the notebook's pull was just a pull, with no number. To count it, people choose one small pull as the unit, such as one coin, one ratti seed or one newton. Then they count how many of that one unit fit. Every number in newtons, from a molecule's tug to the pull between the Earth and the Moon, counts that same one unit. Because everyone starts from the same one, a number in Madurai can be compared with a number in Paris.",
+  "thread": "Before anyone measured it, the notebook's pull was just a pull, with no number. To count it, people choose one small pull as the unit, such as one coin, one ratti seed or one newton. Then they count how many of that unit fit. Every number in newtons, from a molecule's tug to the pull between the Earth and the Moon, counts the same unit. Because everyone uses the same unit, a number in Madurai can be compared with a number in Paris.",
   "teachings": [
    {
     "source": "Rig Veda 1.164.46",
@@ -4328,7 +4328,7 @@
    {
     "source": "Quran 55:7–9",
     "teaching": "The heavens were raised, and a balance was set. So do not cheat the balance. Weigh fairly, and do not make the balance short.",
-    "link": "A balance is a promise between people. In the story Ten Packets of Salt, one wrong pointer cheated every porter, until a shared standard showed it."
+    "link": "A balance is fair only if people can trust it. In the story Ten Packets of Salt, the pointer on Mohan Lal's balance started in the wrong place, and it cheated every porter. Pushpa showed this by testing the balance with ten sealed 1 kilogram packets of salt."
    }
   ],
   "science": [
@@ -4348,12 +4348,12 @@
   "practice": {
    "title": "How many coins can your hand count?",
    "mins": 3,
-   "say": "Close your eyes and hold out one open hand, palm up. I will put coins on it, one at a time, very gently. Say 'now' each time you feel your hand get heavier. Breathe slowly while you wait. Open your eyes. Did you feel every coin, or did some go unnoticed? Your hand felt the weight, but could it count it? What would it need?",
+   "say": "Close your eyes and hold out one open hand, palm up. I will put coins on it, one at a time, very gently. Say 'now' each time you feel your hand get heavier. Breathe slowly while you wait. Open your eyes. Did you feel every coin, or did some go unnoticed? Your hand felt the weight. But could it tell you a number? What would you need, to put a number on it?",
    "kid": "Close your eyes. Hold out your hand, palm up. Ask a grown-up to add coins one by one. Say 'now' each time your hand feels heavier. Breathe slowly. Did you feel every coin?"
   },
   "ask": [
-   "If everyone forgot the newton tomorrow, would the notebook still need the same pull? Then what would we have lost?",
-   "Your hand could feel the coins but not count them. Is a pull you feel the same thing as a pull you count?"
+   "If everyone forgot the newton tomorrow, would a notebook still need the same pull to slide across a table? Then what would we have lost?",
+   "In 'How many coins can your hand count?', your hand could feel the coins but could not count them. Is a pull you feel the same thing as a pull you count?"
   ],
   "art": "Two children in two cities, one on a rooftop in Madurai and one by a window in Paris, each with a cup of coins pulling a notebook, joined by one thin glowing thread marked N."
  },

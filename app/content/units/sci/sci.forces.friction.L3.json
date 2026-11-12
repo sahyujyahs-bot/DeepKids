@@ -269,7 +269,7 @@
    "concept": "What changes friction",
    "status": "defined",
    "definition": "Friction depends mainly on two things. First, what the two surfaces are made of. Second, how hard they are pressed together.",
-   "description": "Rubber on stone grips much more than plastic on ice. That is the first thing: the materials. Pressing harder also gives more friction. A full bag presses on the floor harder than an empty one, so it is harder to drag. Here is the surprise. For hard things like bricks and wooden blocks, the size of the touching part hardly matters. A brick slides about as easily on its big flat side as on its thin edge. The pictures show made-up readings for a brick pulled both ways. People were puzzled by this for hundreds of years. The rule does not work for soft, sticky things like rubber tyres or sticky tape.",
+   "description": "Rubber on stone grips much more than plastic on ice. That is the first thing: the materials. Pressing harder also gives more friction. A full bag presses on the floor harder than an empty one, so it is harder to drag. Here is the surprise. For hard things like bricks and wooden blocks, the size of the touching part hardly matters. A brick slides about as easily on its big flat side as on its thin edge. The pictures show made-up readings for a brick pulled both ways. People were puzzled by this for hundreds of years. This rule about size does not work for soft, sticky things like rubber tyres or sticky tape.",
    "examples": [
     "An empty school bag is easier to drag than a full one.",
     "A brick lying flat and the same brick standing on its edge need about the same pull.",
@@ -324,7 +324,7 @@
   {
    "concept": "Why ice is slippery",
    "status": "debated",
-   "description": "You might think scientists worked this out long ago. They have not. There are a few main ideas, and scientists still argue about which ones matter most.",
+   "description": "You might think scientists worked out long ago why ice is slippery. They have not. There are a few main ideas, and scientists still argue about which ones matter most.",
    "examples": [
     "Ice skates glide easily over ice.",
     "Very cold ice, at about 30 degrees below zero, is less slippery than ice that is close to melting."
@@ -332,7 +332,7 @@
    "perspectives": [
     {
      "who": "The old textbook idea",
-     "explanation": "The weight of a skate presses on the ice and melts it into water. Most scientists now think this pressure is far too weak to explain it, except perhaps under thin skate blades."
+     "explanation": "The weight of a skate presses on the ice and melts it into water. Most scientists now think this pressure is far too weak to explain why ice is slippery, except perhaps under thin skate blades."
     },
     {
      "who": "Michael Faraday, an English scientist, in 1850, and many scientists today",
@@ -360,9 +360,9 @@
    "context": "This card zooms in, far past anything a microscope can show. It finds out what friction really is, deep down."
   },
   {
-   "concept": "Where the movement goes: jiggling atoms, and the arrow of time",
+   "concept": "Where the movement goes: jiggling atoms, and why time goes one way",
    "status": "idea",
-   "description": "Heat is really atoms jiggling. Think of a box sliding across the floor. All its atoms move together, neatly, in one direction. Friction takes that neat movement and spreads it out. It becomes the messy jiggling of countless atoms in the box and the floor. That is easy to do, and almost impossible to undo. A warm floor never pushes a box back across the room by itself. Physicists agree on this rule. They call it the second law of thermodynamics. Many think it is also why time only seems to go one way, forwards. That bigger idea is still argued about.",
+   "description": "Heat is really atoms jiggling. Think of a box sliding across the floor. All its atoms move together, neatly, in one direction. Friction takes that neat movement and spreads it out. It becomes the messy jiggling of countless atoms in the box and the floor. Spreading movement out is easy. Gathering it back is almost impossible. A warm floor never pushes a box back across the room by itself. Physicists agree on this rule. They call it the second law of thermodynamics. Many think it is also why time only seems to go one way, forwards. That bigger idea is still argued about.",
    "examples": [
     "Film a box sliding to a stop, then play it backwards. It looks wrong straight away.",
     "Stir milk into tea. It never un-mixes by itself."
@@ -374,7 +374,7 @@
     },
     {
      "who": "Other physicists and philosophers",
-     "explanation": "That explains which way things change. It does not explain what time itself is. That question is still open."
+     "explanation": "Things spreading from order into mess explains which way things change. It does not explain what time itself is. That question is still open."
     }
    ],
    "art": "A box sliding and stopping, then a 'rewind' panel with a red cross: the floor can't push it back.",
@@ -384,7 +384,7 @@
    "concept": "Zero friction exists: superfluids",
    "status": "defined",
    "definition": "A superfluid is a liquid that flows with no friction at all. Scientists make one by cooling helium to about 271 degrees below zero.",
-   "description": "That is colder than anywhere in nature on Earth, and close to the coldest anything can ever be. At this cold, the strange rules of quantum physics show up at a size we can see. Quantum physics is the science of the very tiniest things. The helium atoms stop acting like separate little balls. They move together, like one single wave. Because the atoms move as one, there is nothing inside the liquid to rub. So the liquid can flow through gaps far too tiny for water. It can climb up the walls of its cup. Once stirred, it keeps swirling without slowing down. It was discovered in 1937 and 1938. Pyotr Kapitsa found it in Moscow. John Allen and Don Misener found it separately in Cambridge, England.",
+   "description": "About 271 degrees below zero is colder than anywhere in nature on Earth, and close to the coldest anything can ever be. At this cold, the strange rules of quantum physics show up at a size we can see. Quantum physics is the science of the very tiniest things. The helium atoms stop acting like separate little balls. They move together, like one single wave. Because the atoms move as one, there is nothing inside the liquid to rub. So the liquid can flow through gaps far too tiny for water. It can climb up the walls of its cup. Once stirred, it keeps swirling without slowing down. Superfluid helium was discovered in 1937 and 1938. Pyotr Kapitsa found it in Moscow. John Allen and Don Misener found it separately in Cambridge, England.",
    "examples": [
     "Stir a superfluid and it keeps going round and round without slowing.",
     "It creeps up and over the rim of its cup as a very thin layer."
@@ -398,16 +398,16 @@
    "status": "idea",
    "description": "Quantum physics is the science of the very tiniest things. It says empty space is never perfectly empty. It fizzes with tiny flickers of energy. Some physicists have worked out what this means for sliding. One of the first was John Pendry, in 1997. Two perfectly smooth surfaces sliding past each other, very close but not touching, should still feel a tiny drag. The drag would come through those flickers. Other physicists have argued about whether this really happens. Nobody has measured it yet. Experiments are being planned to test it.",
    "examples": [
-    "Imagine two plates sliding past each other a hair's width apart, never touching, with no air between them."
+    "Think of two plates sliding past each other a hair's width apart, never touching, with no air between them."
    ],
    "perspectives": [
     {
      "who": "John Pendry, a British physicist, and others",
-     "explanation": "It should exist, but it is far too small to notice in everyday life."
+     "explanation": "Quantum friction should exist, but it is far too small to notice in everyday life."
     },
     {
      "who": "Some other physicists",
-     "explanation": "Some ways of calculating it are wrong. The real drag might be zero, or different from what was predicted."
+     "explanation": "Some ways of calculating quantum friction are wrong. The real drag might be zero, or different from what was predicted."
     }
    ],
    "art": "Two plates gliding past each other with a tiny gap, the gap filled with faint sparkles labelled 'empty space is not empty'.",
@@ -424,7 +424,7 @@
    ],
    "perspectives": [],
    "art": "The Earth spinning with ocean bulges, a brake-pad icon on the sea floor, the Moon a little further away each frame.",
-   "context": "Friction is not only small. This card shows how friction from the sea is slowly making Earth's days longer, and pushing the Moon away.",
+   "context": "Friction also works on a very big scale. This card shows how friction from the sea is slowly making Earth's days longer, and pushing the Moon away.",
    "chart": {
     "type": "bar",
     "title": "How long one day lasted, then and now",
@@ -536,7 +536,7 @@
    "claim": "In the old Egyptian painting, the man pours water on the sand only as a religious ritual, not for any practical reason.",
    "who": "Some experts on ancient Egypt, in the past",
    "for": "Pouring water was part of religious ceremonies in ancient Egypt.",
-   "against": "In 2014, scientists in Amsterdam tested this with a small sledge on trays of sand. The right amount of water roughly halved the pull needed. So the workers seem to have known something useful. Scientists only explained it about 3,900 years later.",
+   "against": "In 2014, scientists in Amsterdam pulled a small sledge across trays of sand. The right amount of water roughly halved the pull needed. So the workers seem to have known something useful. Scientists only explained it about 3,900 years later.",
    "status": "debated",
    "context": "About 3,900 years ago, Egyptians painted workers dragging a giant statue on a wooden sledge. One man pours water on the sand. This card asks why."
   },
@@ -576,12 +576,12 @@
   {
    "q": "Would a world without friction be better or worse? What would you miss first?",
    "kind": "big",
-   "hint": "Imagine breakfast, the walk to the park, writing your name, and giving someone a hug."
+   "hint": "Think about breakfast, the walk to the park, writing your name, and giving someone a hug."
   },
   {
    "q": "Friction slows things down. But it also pushes us forward when we walk. Can one thing both help us and get in our way?",
    "kind": "big",
-   "hint": "Can you think of other things in life that are both?"
+   "hint": "Can you think of other things in life that both help us and get in our way?"
   },
   {
    "q": "A chappal grips a dry floor but slips on a wet one. So is the grip in the chappal, in the floor, or in between?",
@@ -589,12 +589,12 @@
    "hint": "Try the same chappal on two different floors. Then try two different chappals on the same floor."
   },
   {
-   "q": "In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The strong pullers seem to do the real work. The man pouring water on the sand is laughed at, yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten?",
+   "q": "In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The pullers laugh at the man who pours water on the sand. Yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten?",
    "kind": "big",
-   "hint": "Who 'poured the water' in your family or school today? Whose small job made everything easier?"
+   "hint": "Think of your family or school today. Whose small job made everything easier?"
   },
   {
-   "q": "Friction turns a sliding box's movement into jiggling atoms, and it never turns back. Could that be why we remember yesterday, but not tomorrow?",
+   "q": "Friction turns a sliding box's movement into jiggling atoms. The jiggling never turns back into the box moving. Could that be why we remember yesterday, but not tomorrow?",
    "kind": "big",
    "hint": "Watch a video of a ball rolling to a stop, played backwards. Why does it look wrong?"
   },
@@ -889,7 +889,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Put the day board in the middle. 2. Put the twist cards face down beside it. 3. Have a die ready.",
-     "say": "Imagine you wake up tomorrow and friction has disappeared from the whole world. Everything is slippery. Not just ice-slippery. Perfectly slippery.",
+     "say": "Imagine you wake up tomorrow and friction has disappeared from the whole world. Everything is slippery, even more slippery than ice. It is perfectly slippery.",
      "kid": "Imagine you wake up tomorrow. Friction has vanished from the whole world. Everything is perfectly slippery. What happens? Let's find out.",
      "context": "This is the first step of The Day the World Lost Its Grip. In this game, you imagine a whole day with no friction at all. Friction is the grip between things that touch."
     },
@@ -1053,7 +1053,7 @@
       "Grass"
      ],
      "a": 2,
-     "why": "Smooth tiles have the least friction. So the car slows down the least and rolls furthest. Picking carpet or grass often means soft feels smooth. But soft surfaces squash under the wheels and hold them back.",
+     "why": "Smooth tiles have the least friction. So the car slows down the least and rolls furthest. Picking carpet or grass often comes from thinking that soft means smooth. But soft surfaces squash under the wheels and hold them back.",
      "art": "A toy car on four surfaces."
     },
     {
@@ -1145,21 +1145,21 @@
     },
     {
      "t": "write",
-     "p": "Harini, a girl in Class 3, says, 'Friction only happens when things are moving. A shoe standing still on a slope has no friction on it.' What is wrong with her idea?",
+     "p": "Someone says, 'Friction only happens when things are moving. A shoe standing still on a slope has no friction on it.' What is wrong with this idea?",
      "lines": 4,
      "a": "A strong answer says that friction also works on still things. Gravity tries to make the shoe slide down the slope, and friction pushes up the slope to stop it. That is why the shoe stays put. If there were no friction, the shoe would slide straight away, as it would on ice.",
      "why": "Friction works against sliding, and that includes stopping a still thing from starting to slide. Scientists call this static friction."
     },
     {
      "t": "perspective",
-     "p": "Lakshmi's family in Madurai is choosing new tiles for the kitchen floor. They do not agree.",
+     "p": "A family is choosing new tiles for the kitchen floor. Two of them do not agree.",
      "views": [
       {
-       "who": "Lakshmi, in Class 4",
+       "who": "A child in the family",
        "says": "Shiny, polished tiles are best. They are smooth, so dirt wipes off easily, and they look lovely."
       },
       {
-       "who": "Paati, her grandmother",
+       "who": "The grandmother",
        "says": "Rough tiles are best. Kitchen floors get wet, and on shiny tiles I could slip and fall."
       }
      ],
@@ -1178,7 +1178,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A girl pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?",
+     "p": "A box of books is pulled across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?",
      "opts": [
       "The full box presses down harder, so there is more friction",
       "The half-empty box is smoother underneath",
@@ -1356,7 +1356,7 @@
     },
     {
      "t": "write",
-     "p": "Tarun, a boy in Class 5, says, 'My old chappal and my new chappal are the same size and make, so they grip the same.' Look at the soles of an old and a new chappal. What is wrong with his idea?",
+     "p": "Someone says, 'My old chappal and my new chappal are the same size and make, so they grip the same.' Look at the soles of an old and a new chappal. What is wrong with this idea?",
      "lines": 4,
      "a": "A strong answer says that the old chappal's sole is worn smooth. Friction rubbed away its grooves and bumps, so it grips less, most of all on a wet floor. The new one still has its grooves, so it grips more.",
      "why": "Wear changes how well a shoe grips. Looking at the real soles gives the evidence."
@@ -1372,18 +1372,18 @@
     },
     {
      "t": "perspective",
-     "p": "Three people in Kerala argue about the best tyres for a cycle in the monsoon.",
+     "p": "Three people argue about the best tyres for a cycle in the monsoon.",
      "views": [
       {
-       "who": "Divya, who races cycles",
+       "who": "Someone who races cycles",
        "says": "Thin, smooth tyres are best. They have less friction with the road, so the cycle rolls easily and goes faster."
       },
       {
-       "who": "Joseph, who delivers food on his cycle in Kochi",
+       "who": "Someone who delivers food on a cycle",
        "says": "Thick tyres with deep tread are best. On wet roads they grip, so I can stop in time."
       },
       {
-       "who": "Keerthana, who repairs cycles",
+       "who": "Someone who repairs cycles",
        "says": "Thick tyres are safe, but they are harder to pedal and their tread wears away. Pick tyres for the roads you ride on."
       }
      ],
@@ -1450,7 +1450,7 @@
     },
     {
      "t": "mcq",
-     "p": "What could change Aristotle's mind?",
+     "p": "Aristotle thought moving things stop because stopping is natural. What could change his mind?",
      "opts": [
       "Seeing a ball roll further and further on smoother surfaces, as if with no friction it would never stop",
       "Seeing a ball stop on grass",
@@ -1458,7 +1458,7 @@
       "Nothing could"
      ],
      "a": 0,
-     "why": "Galileo saw that less friction means a longer roll. So friction stops things, not nature. Picking 'a ball stopping on grass' shows just what Aristotle already saw. It fits his idea, so it would not change his mind.",
+     "why": "Galileo saw that less friction means a longer roll. So friction stops things, not nature. A ball stopping on grass is just what Aristotle already saw. It fits his idea, so it would not change his mind.",
      "context": "Aristotle was a thinker in ancient Greece, about 2,350 years ago. He thought moving things stop because stopping is natural."
     },
     {
@@ -1670,9 +1670,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Lay the board flat on the floor. 2. Put the first shoe on the board, sole down, near one end, with its toe pointing down the slope. 3. That is the end you will lift.",
+     "do": "1. Lay the board flat on the floor. 2. Put the first shoe on the board, sole down, near one end. This is the end you will lift. 3. Point the shoe's toe towards the other end, so it will point down the slope.",
      "say": "We'll lift this end slowly until the shoe slides. The higher we can lift it before the shoe slides, the better the shoe grips.",
-     "kid": "Lay the board flat. Put a shoe near one end, sole down, toe pointing down the slope. You will lift that end slowly. Higher before sliding means better grip."
+     "kid": "Lay the board flat. Put a shoe near one end, sole down, with its toe pointing to the other end. You will lift the shoe's end slowly. The higher it goes before the shoe slides, the better the grip."
     },
     {
      "id": "s3",
@@ -2020,7 +2020,7 @@
      "mins": 6,
      "do": "1. Pour in lots more water slowly, until the sand is soaked and muddy. 2. Smooth the top. 3. Pull the box again, the same distance, and read the forcemeter.",
      "say": "Now let's do what the water-pourer's daughter in the story did on her first try. She poured far too much water.",
-     "kid": "Now pour lots of water, like the girl in the story. She poured too much at first! Pull again. What happens?",
+     "kid": "Now pour lots of water, like Mery, the girl in the story. She poured too much at first! Pull again. What happens?",
      "parent": "Soaked sand can behave in different ways: the box may sink in, or it may slide on the water. Whatever you find, write it down honestly. The scientists found that too much water made the pull bigger again."
     },
     {
@@ -2210,7 +2210,7 @@
       "a": 0,
       "why": "Rubbing makes the tiny particles in both things move faster, and faster-moving particles are what heat is. So rubbing turns movement into warmth."
      },
-     "parent": "The warmth is small. If you feel nothing, rub harder, or rub the eraser on rough cloth such as jeans, and touch it at once. Your hands in step 1 are the surest test."
+     "parent": "The warmth is small. If you feel nothing, rub harder, or rub the eraser on rough cloth such as jeans, and touch it at once. Rubbing your palms together is the surest test."
     },
     {
      "id": "s3",
@@ -2335,9 +2335,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay the cloth, the towel and the plastic flat on a table, side by side. Tape the corners down so the cloth cannot move. Mark a start line on each with a small piece of tape. 2. Put the empty tumbler on the start line of the first one. 3. Tap it near its bottom with one finger, so it slides without tipping over. Tap from the same place, as evenly as you can. See how far it slides. 4. Do the same on each one, with the same tap, three times each.",
-     "say": "Which one do you think will stop the tumbler fastest? Why? The one that stops it fastest has the most friction.",
-     "kid": "Put the tumbler on the start line. Give it a small tap with one finger. How far does it go? Try the same tap on each one, three times.",
+     "do": "1. Lay the cloth, the towel and the plastic flat on a table, side by side. Tape their corners down so they cannot move. Mark a start line on each with a small piece of tape. 2. Put the empty tumbler on the start line of the cloth. 3. Tap it near its bottom with one finger, so it slides without tipping over. See how far it slides. 4. Do the same on the towel and the plastic. Use the same tap, from the same place, three times on each.",
+     "say": "Which of these three do you think will stop the tumbler fastest? Why? The one that stops it fastest has the most friction.",
+     "kid": "Put the tumbler on the start line. Give it a small tap with one finger. How far does it go? Try the same tap on the cloth, the towel and the plastic, three times each.",
      "ask": [
       {
        "q": "Which cloth would you put under a glass on a moving train's table?",
@@ -3032,7 +3032,7 @@
     "Yes, it is because ice is always wet"
    ],
    "a": 1,
-   "why": "Scientists still argue about it. Picking 'pressure melts it' means the old textbook idea has been met. Scientists now think that pressure is far too weak to explain it.",
+   "why": "Scientists still argue about it. 'Pressure melts it' is the old textbook idea. Scientists now think that pressure is far too weak to explain why ice is slippery.",
    "outcome": 5
   },
   {
@@ -3044,7 +3044,7 @@
     "Exactly how the atoms at every rubbing surface behave"
    ],
    "a": 0,
-   "why": "Anyone can test the first one with a forcemeter and a box of books, and it has been checked for over 300 years. Friction depends on so many tiny details that a new sole must still be tested. How atoms behave at rubbing surfaces is still being studied with special microscopes.",
+   "why": "Anyone can test that pressing harder gives more friction, with a forcemeter and a box of books. It has been checked for over 300 years. Friction depends on so many tiny details that a new sole must still be tested. How atoms behave at rubbing surfaces is still being studied with special microscopes.",
    "outcome": 5
   },
   {
@@ -3175,7 +3175,7 @@
   "Which is harder to push, a full trolley or an empty one? Why?",
   "Why does a cycle chain need oil, but the tyres must stay grippy?",
   "That ball stopped rolling. Where did its movement go?",
-  "Is anything we can't see holding something together right now?",
+  "Can you find something near you that is held together by a force you can't see?",
   "Your chappal grips this floor. Would it grip the same if the floor were wet?",
   "Would you rather have too much friction, or too little, for one day?",
   "Is the floor pushing up on you right now? Is that the same kind of force as grip?",
@@ -3634,7 +3634,7 @@
    "what_is_life": "Living things control friction all the time. A gecko's feet grip a wall, and your knee joints stay slippery for a lifetime.",
    "what_is_this_world": "On Earth, every sliding thing slows down and warms what it rubs against. Even some of the Earth's spin is slowly being turned into warmth by the tides."
   },
-  "thread": "Friction does not destroy movement. It takes the neat movement of one thing and shares it out among countless atoms in the box, the floor and the air. Everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.",
+  "thread": "Friction does not destroy movement. When a sliding box stops, its neat movement is shared out among countless atoms in the box, the floor and the air. Everything comes from one whole and keeps flowing back into it. Friction is a small, everyday example: the movement of one thing becomes the warmth shared by many.",
   "teachings": [
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
@@ -3653,13 +3653,13 @@
     "status": "settled"
    },
    {
-    "text": "Many physicists think this one-way spreading is why time seems to go only forwards. Others say it explains which way things change, but not what time is.",
+    "text": "Friction spreads movement out as heat, and the heat never turns back into the same movement. Many physicists think this one-way spreading is why time seems to go only forwards. Others say it explains which way things change, but not what time is.",
     "status": "debated"
    }
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Many physicists say there is nothing deeper here. There are far more messy ways for atoms to jiggle than neat ways, so things almost always end up spread out. To them, this is a matter of counting, not a sign of one whole."
+   "view": "Many physicists say there is nothing deeper in the way friction spreads movement out. There are far more messy ways for atoms to jiggle than neat ways, so things almost always end up spread out. To them, this is a matter of counting, not a sign of one whole."
   },
   "practice": {
    "title": "Warm hands",

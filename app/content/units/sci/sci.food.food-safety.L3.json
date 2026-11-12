@@ -14,7 +14,7 @@
  },
  "intro": {
   "hook": "Smell a spoon of fresh curd, then a spoon of curd left out for two days. What changed? Nobody added anything to it.",
-  "text": "Nothing was added that you could see. But food is never empty of life. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell. In this unit you find out how families keep food safe, and you test it with three dabbas of dal water.",
+  "text": "Food goes bad even when nobody adds anything to it. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell when food has gone bad. In this unit you find out how families keep food safe, and you test it with three dabbas of dal water.",
   "art": "A child holding two spoons of curd, one fresh and smooth, one older with a sour, watery look, sniffing from a little distance."
  },
  "outcomes": [
@@ -48,7 +48,7 @@
   },
   {
    "term": "Spore",
-   "meaning": "A tiny, tough resting cell made by some bacteria and moulds. Spores survive drying and even boiling, and start growing again when things get better.",
+   "meaning": "A tiny, tough resting cell made by some bacteria and moulds. Spores survive drying and even boiling, and start growing again when they have food, water and warmth.",
    "example": "Mould spores float in the air of every kitchen and land on food.",
    "art": "Tiny round spores drifting through the air above a kitchen counter."
   },
@@ -194,7 +194,7 @@
    "concept": "Keep raw and cooked food apart",
    "status": "defined",
    "definition": "Raw meat, fish, eggs and unwashed vegetables can carry microbes onto cooked food that is ready to eat.",
-   "description": "Cooking kills the microbes in the food being cooked. But if raw fish touches a board, and cooked food is then cut on the same board, microbes ride across. The World Health Organization calls this one of its five keys to safer food. Use a separate board and knife, or wash them with soap and hot water in between.",
+   "description": "Cooking kills the microbes in the food being cooked. But if raw fish touches a board, and cooked food is then cut on the same board, microbes move from the board onto the cooked food. Keeping raw and cooked food apart is one of the World Health Organization's five keys to safer food. Use a separate board and knife, or wash them with soap and hot water in between.",
    "examples": [
     "Raw fish is cut on one board, and the cucumber salad on another.",
     "A plate that held raw chicken is washed before cooked chicken goes on it.",
@@ -265,7 +265,7 @@
    "concept": "Is the five-second rule true?",
    "status": "defined",
    "definition": "The five-second rule says food dropped on the floor is safe if you pick it up within five seconds. Tests show microbes can move onto food in less than one second.",
-   "description": "In 2016, Robyn Miranda and Donald Schaffner at Rutgers University in the United States tested it. They dropped watermelon, bread, buttered bread and jelly sweets onto steel, tile, wood and carpet spread with harmless bacteria. Some bacteria moved onto the food in under one second. Longer contact moved more. Wet watermelon picked up the most, and the dry sweet the least. So the floor, the food and the time all matter, and no rule of five seconds makes food clean.",
+   "description": "In 2016, Robyn Miranda and Donald Schaffner at Rutgers University in the United States tested the five-second rule. They dropped watermelon, bread, buttered bread and jelly sweets onto steel, tile, wood and carpet. Each surface had been spread with harmless bacteria. Some bacteria moved onto the food in under one second. Longer contact moved more. Wet watermelon picked up the most, and the dry sweet the least. So the floor, the food and the time all matter, and no rule of five seconds makes food clean.",
    "examples": [
     "A wet cucumber slice picks up more floor dirt than a dry biscuit.",
     "A clean, dry floor carries fewer microbes than a kitchen floor near the dustbin.",
@@ -340,7 +340,7 @@
   {
    "claim": "Boiling spoiled food again makes it safe.",
    "who": "A common idea in many kitchens",
-   "for": "Boiling kills most bacteria, so reheating seems to start again.",
+   "for": "Boiling kills most bacteria, so it seems that reheating should make the food safe again.",
    "against": "Some bacteria make poisons that survive boiling. The poison stays even after the bacteria die, so food that has already spoiled should be thrown away.",
    "status": "rejected",
    "context": "This card is about reheating food that has gone bad."
@@ -364,19 +364,19 @@
  ],
  "big_questions": [
   {
-   "q": "In your dabba test, the dal water spoiled because microbes were eating it. Was it 'spoiling', or was it someone's dinner?",
+   "q": "In the Three Dabbas test, the dal water went sour because microbes were eating it. We call that spoiling. What would the microbes call it?",
    "kind": "deep",
    "hint": "Think about who was eating, and what they made as they ate."
   },
   {
-   "q": "A boiled, closed dabba stayed fresh longest, but probably not for ever. Can any food be kept with no living microbes in it at all?",
+   "q": "In the Three Dabbas test, the boiled, closed dabba stayed fresh longest, but probably not for ever. Can any food be kept with no living microbes in it at all?",
    "kind": "deep",
    "hint": "Think about tinned food, spores, and what happens the moment you open a tin."
   },
   {
    "q": "We call some microbes in food helpful, like curd bacteria, and some harmful. Do microbes care which group we put them in?",
    "kind": "deep",
-   "hint": "Think about what each microbe is trying to do for themself."
+   "hint": "Think about what each microbe is doing: feeding and multiplying."
   },
   {
    "q": "Before fridges, how did your great-grandparents keep food for the rainy season?",
@@ -420,9 +420,9 @@
    "Paati pressed the lid down on the tamarind rice tin. \"My mother packed these same foods when she went to Kashi on the train, sixty years ago. She did not know about microbes. But she knew what keeps.\"",
    "The next morning they climbed into the train at Madurai Junction. The fan turned slowly. Outside, the fields went by, green and then brown and then green again.",
    "That night they ate the curd rice with a little lime pickle. It was cool and good.",
-   "The next day it was very hot. By lunchtime, Arjun was hungry and grumpy. Under his seat he found a small box. It was a little curd rice left over from the night before, shut in a bag all day beside the warm window.",
+   "The next day it was very hot. By lunchtime, Arjun was hungry and grumpy. Under his seat he found a small box. In it was a little curd rice left over from the night before. It had been shut in a bag all day beside the warm window.",
    "\"I want this one,\" he said, opening it.",
-   "Kavya held his hand. \"Wait. That sat warm since last night. Smell it.\"",
+   "Kavya held his hand. \"Wait. That has been sitting in the warmth since last night. Smell it.\"",
    "Arjun sniffed. \"It smells fine.\"",
    "\"It might still have lots of microbes,\" said Kavya. \"Some of them don't change the smell. Paati said wet food left warm for a long time is the risky one.\"",
    "Appa looked up from his newspaper. \"Kavya is right. Let's not take the chance.\"",
@@ -492,7 +492,7 @@
       "Square 24, snake to 15: You put a wet spoon into the pickle jar.",
       "Square 25: Question square. Take a question card.",
       "Square 26: Read this tip aloud: Drink clean water that has been boiled or filtered.",
-      "Square 27, snake to 20: You eat curd rice that sat in a warm bag since yesterday.",
+      "Square 27, snake to 20: You eat curd rice that has sat in a warm bag since yesterday.",
       "Square 28: Read this tip aloud: Wash your hands again after you touch raw fish or chicken.",
       "Square 29: Read this tip aloud: Nearly there. Wash your hands before the feast.",
       "Square 30: Finish. A safe meal!"
@@ -504,7 +504,7 @@
      "items": [
       {
        "f": "Why do we wash vegetables that we eat raw?",
-       "b": "Soil and hands put microbes on them, and nothing cooks them off. Washing moves most of them away."
+       "b": "Soil and hands put microbes on them. Raw vegetables are not cooked, so nothing kills those microbes. Washing moves most of them away."
       },
       {
        "f": "Name two foods that keep for months without a fridge.",
@@ -540,7 +540,7 @@
       },
       {
        "f": "Why do we keep raw fish away from cooked food?",
-       "b": "Microbes from the raw fish can move onto cooked food, and nothing is left to kill them."
+       "b": "Microbes from the raw fish can move onto the cooked food. The cooked food will not be cooked again, so nothing kills them."
       },
       {
        "f": "Name a food that we let microbes change on purpose.",
@@ -568,7 +568,7 @@
     "Landing on a ladder: read the square aloud, say why the habit is safe, then climb.",
     "Landing on a snake: read the square aloud and say what the safe habit would be. If you can say it, you stay where you are. If you cannot, the other player tells you and you slide down.",
     "Landing on a plain square: read the tip aloud. Nothing else happens.",
-    "Squares 5, 15 and 25 are question squares. When you stop on one by your roll, another player reads you the top question card. A good answer moves you on 2 squares, and you follow any ladder or snake you land on. Then they read the answer on the back. When the cards run out, shuffle them and use them again.",
+    "Squares 5, 15 and 25 are question squares. When your roll lands you on one, another player reads you the top question card, and then the answer on the back. If your answer was good, move on 2 squares and follow any ladder or snake you land on. When the cards run out, shuffle them and use them again.",
     "The first player to reach or pass square 30 wins. You do not need an exact roll."
    ],
    "flow": [
@@ -927,7 +927,7 @@
      "id": "s8",
      "mins": 3,
      "do": "1. A grown-up pours all the dal water down the sink or the toilet. 2. Wash the dabbas with soap and hot water. 3. Everyone washes their hands.",
-     "say": "We never taste any of this. Spoiled food goes away, and the dabbas get a proper wash.",
+     "say": "We never taste any of this. Spoiled food is thrown away, and the dabbas get a proper wash.",
      "kid": "A grown-up pours it all away. Do not taste it. Wash your hands.",
      "adult": true,
      "think": "Which food in our kitchen is most like dabba B, left open on the counter?"
@@ -936,7 +936,7 @@
    "context": "In this experiment you boil dal water and keep it in three dabbas: closed, open, and closed with an unwashed leaf. Over two days you look and smell to see which spoils first.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results from Nandini's family, in Chennai in April",
+    "title": "Made-up example results from one family in Chennai in April",
     "cols": [
      "Dabba",
      "Bedtime, day 1",
@@ -1058,7 +1058,7 @@
      "id": "s4",
      "mins": 7,
      "do": "1. Pour away the dirty water and rinse the bowl. 2. Repeat the wash with fresh water. 3. Keep going until the water in the white bowl looks clear.",
-     "say": "Same water, same 20 seconds. Is it lighter this time? How many more washes do you think it needs?",
+     "say": "The same amount of fresh water, and the same 20 seconds. Is the water lighter this time? How many more washes do you think it needs?",
      "kid": "Fresh water. Swish for 20 seconds. Look again. Count the washes.",
      "parent": "Most market coriander needs 3 or 4 washes. Coriander from a supermarket may already be cleaner, so it may clear in 1 or 2."
     },
@@ -1137,7 +1137,7 @@
    "days": 1,
    "question": "Does food dropped on a dusty floor pick up less if you lift it within one second? Does a wet food pick up more than a dry one?",
    "predict": "Before you start, guess. Will a wet cucumber slice or a dry biscuit pick up more turmeric? Will 1 second or 10 seconds pick up more? Why do you think so?",
-   "fair_test": "To make it fair, dust the plate the same way each time, drop each food from the same height, and press nothing down. Use a fresh patch of turmeric for each drop.",
+   "fair_test": "To make it fair, dust the plate the same way each time, drop each food from the same height, and do not press the food down. Use a fresh patch of turmeric for each drop.",
    "results_table": [
     "Food",
     "Time on the plate",
@@ -1228,14 +1228,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "A girl named Anjali, in Class 3, dropped a wet slice of cucumber on the kitchen floor and picked it up in one second. What is true?",
+      "q": "A wet slice of cucumber is dropped on the kitchen floor and picked up in one second. What is true?",
       "options": [
        "Some dirt and microbes can stick to it, even in one second",
        "Nothing sticks if you lift it within five seconds",
        "Only dry food picks up dirt"
       ],
       "a": 0,
-      "why": "In the turmeric test, the wet slice picked up yellow in one second. Scientists found the same with real bacteria: wet foods pick them up fastest, and some move across in under a second."
+      "why": "In the Five-Second Test, the wet cucumber slice picked up yellow turmeric in one second. Scientists found the same with real bacteria: wet foods pick them up fastest, and some bacteria move onto the food in under a second."
      },
      "think": "Which floor in our home would have the most microbes on it, and why?"
     }
@@ -1243,7 +1243,7 @@
    "context": "In this experiment you test the five-second rule, using turmeric on a steel plate as pretend dirt.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results from Farhan's test",
+    "title": "Made-up example results from one Five-Second Test",
     "cols": [
      "Food",
      "1 second",
@@ -1390,8 +1390,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask what this means for food.",
-     "say": "If that open plate had been dal, where would the dust be now?",
-     "kid": "If the open plate had food on it, where is the dust now?",
+     "say": "If the open plate had been a plate of dal, where would the dust be now?",
+     "kid": "If the open plate had food on it, where would the dust be now?",
      "check": {
       "t": "mcq",
       "q": "In the Dust Catcher, the open plate had many specks after one night, and the covered plate had almost none. Why do we cover food?",
@@ -1437,7 +1437,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Sort each food on a meal by its main job: energy, building, or protecting."
+     "what": "Sort each food in one meal by its main job: energy, building, or protecting."
     }
    ],
    "record": "Your three circles with each food drawn or written in the right one, and one sentence on what is missing.",
@@ -1448,7 +1448,7 @@
      "do": "Draw three circles. Label them: energy, building and repair, protecting.",
      "say": "Every food has a main job in your body. Some give energy, some build you, some keep you well.",
      "kid": "Draw three circles. Energy. Building. Protecting.",
-     "context": "This activity sorts the foods on one meal by their main job in your body."
+     "context": "This activity sorts the foods in one meal by their main job in your body."
     },
     {
      "id": "s2",
@@ -1477,7 +1477,7 @@
      }
     }
    ],
-   "context": "This activity sorts the foods on one meal by their main job in the body.",
+   "context": "This activity sorts the foods in one meal by their main job in the body.",
    "setup": [
     {
      "art": "A plate of rice, sambar, beans poriyal and curd beside a sheet with three circles.",
@@ -1571,7 +1571,7 @@
      "what": "Interview a grandparent or an older neighbour about how their family kept food safe without a fridge."
     }
    ],
-   "record": "Write or draw three ways they kept food, and say which of the four habits, or which old way, each one uses.",
+   "record": "Write or draw three ways they kept food. For each one, say how it works: washing, covering, cooking, keeping cold, or an old way such as drying, salt or sourness.",
    "flow": [
     {
      "id": "s1",
@@ -1627,7 +1627,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw what you think was happening inside the dabba that spoiled first."
+     "what": "Draw what you think was happening inside the dabba that spoiled first in the Three Dabbas test."
     }
    ],
    "record": "Your drawing, with labels for the microbes, the food they eat, and what they make.",
@@ -1636,8 +1636,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Remind your child of the Three Dabbas test.",
-     "say": "Remember the dabba that went sour first? We could not see the microbes. Let's draw what you think was going on inside.",
-     "kid": "Remember the dabba that went sour first? Draw what was happening inside.",
+     "say": "In the Three Dabbas test, one dabba went sour first. We could not see the microbes in it. Let's draw what you think was going on inside.",
+     "kid": "In the Three Dabbas test, one dabba went sour first. Draw what was happening inside it.",
      "context": "This drawing activity follows the Three Dabbas test, where three dabbas of boiled dal water spoiled at different speeds."
     },
     {
@@ -1654,10 +1654,10 @@
      "do": "Ask your child to explain their drawing.",
      "say": "Tell me the story of your drawing. What does each microbe need?",
      "kid": "Tell the story of your drawing. What does each microbe need?",
-     "think": "What would the drawing of dabba A look like?"
+     "think": "In the Three Dabbas test, dabba A was boiled and closed, and stayed fresh longest. What would a drawing of the inside of dabba A look like?"
     }
    ],
-   "context": "This drawing activity asks you to show what you think was happening, unseen, inside a spoiling dabba.",
+   "context": "This drawing activity follows the Three Dabbas test. You draw what you think was happening, unseen, inside the dabba of dal water that spoiled first.",
    "setup": [
     {
      "art": "A child drawing a large circle full of tiny round microbes, some splitting in two, with bubbles rising.",
@@ -1826,7 +1826,7 @@
    ],
    "general": [
     "Boil the milk, cover it, and boil it again in the evening and in the morning. This is how many families did it before fridges.",
-    "Set the covered vessel in a bowl of water, with a wet cloth over it, so evaporation cools it."
+    "Set the covered vessel in a bowl of water, with a wet cloth over it. As the water dries off the cloth, it cools the milk."
    ],
    "creative": [
     "Turn some of the milk into curd on purpose, by adding a spoon of curd. Curd bacteria fill the milk before other microbes can.",
@@ -1990,7 +1990,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these does a lid on a dabba of food do?",
+   "p": "What does a lid on a dabba of food do?",
    "opts": [
     "Stops new microbes, dust and flies getting in",
     "Kills all the microbes inside",
@@ -2075,11 +2075,11 @@
   },
   {
    "t": "mcq",
-   "p": "Sudha, a girl in Kochi, says, \"This chicken smells fine, so it is safe.\" It sat out all afternoon after a party. What is true?",
+   "p": "Chicken sat out all afternoon after a party. It still smells fine. What is true?",
    "opts": [
     "It may still be unsafe, because some harmful bacteria do not change the smell",
     "It is safe, because it smells fine",
-    "It is safe if she eats it cold"
+    "It is safe if it is eaten cold"
    ],
    "a": 0,
    "why": "A good smell does not prove food is safe. After hours in the warmth, harmful bacteria may have grown without any smell.",
@@ -2244,7 +2244,7 @@
     },
     {
      "t": "write",
-     "p": "Your friend Divya says, \"I cooked this dal, so it is safe to eat tonight, even though it sat out all day.\" What would you tell her?",
+     "p": "A friend says, \"I cooked this dal, so it is safe to eat tonight, even though it sat out all day.\" What would you tell your friend?",
      "a": "Cooking killed most microbes in the morning, but new ones landed on it, and a few survived as spores. All day in the warmth, they multiplied. Dal that sat out all day should not be eaten.",
      "why": "A strong answer says that cooking is not a one-time fix: microbes can multiply again in warm cooked food over many hours."
     },
@@ -2263,14 +2263,14 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi, a girl in Class 3, and her mother Lakshmi disagree about packet milk.",
+     "p": "A mother and her daughter disagree about packet milk.",
      "views": [
       {
-       "who": "Lakshmi, the mother",
+       "who": "The mother",
        "says": "We must always boil packet milk. Boiling kills microbes, so it is the safe habit."
       },
       {
-       "who": "Meenakshi, in Class 3",
+       "who": "The daughter, in Class 3",
        "says": "Packet milk is already pasteurised. If it stayed cold and the packet is new, it is safe without boiling."
       }
      ],
@@ -2437,20 +2437,20 @@
     },
     {
      "t": "write",
-     "p": "A friend says, \"Washing hands only matters if they look dirty.\" Use what you know about microbes to answer him.",
+     "p": "A friend says, \"Washing hands only matters if they look dirty.\" Use what you know about microbes to answer your friend.",
      "a": "Microbes are far too small to see, so clean-looking hands can still carry many. Washing with soap moves them off before you touch food.",
      "why": "A strong answer uses the fact that microbes are invisible, so looks cannot tell you."
     },
     {
      "t": "perspective",
-     "p": "Nandini, a girl in Class 4, hears two ways of washing greens at home.",
+     "p": "A child hears two ways of washing greens at home.",
      "views": [
       {
        "who": "Nandini's grandmother",
        "says": "Soak the spinach in salt water for ten minutes first. That brings out the dirt and the small insects."
       },
       {
-       "who": "Nandini's aunt, a nurse",
+       "who": "The child's aunt, a nurse",
        "says": "Rubbing the leaves under clean running water is enough. Salt is not needed."
       }
      ],
@@ -2500,7 +2500,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two scientists, Dr Lata and Dr Sunita, argue about where the microbes came from in dabba B, the open one.",
+     "p": "In the Three Dabbas test, dabba B was left open and its dal water spoiled. Two scientists argue about where the microbes in dabba B came from.",
      "views": [
       {
        "who": "Dr Lata",
@@ -2530,7 +2530,7 @@
     },
     {
      "t": "write",
-     "p": "Many doctors did not believe Alice Evans at first. Other scientists then tested her idea and found she was right. Why is it important that other people repeat an experiment?",
+     "p": "Alice Evans, a scientist, said that raw milk from cows that looked healthy could make people ill. Many doctors did not believe her at first. Other scientists then tested her idea and found she was right. Why is it important that other people repeat an experiment?",
      "a": "One test can have a mistake, or bad luck. If other people get the same result in their own tests, we can be much more sure it is true.",
      "why": "A strong answer explains that repeating tests is how science checks itself."
     },
@@ -2567,7 +2567,7 @@
      "p": "A tin of food can stay good for years. Use the Three Dabbas test to explain how.",
      "a": "The food is sealed in the tin and heated hard enough to kill the microbes, including most spores. No new microbes can get in. It is like dabba A, but with a perfect seal.",
      "how": "e1",
-     "why": "A strong answer links heating and sealing, which together stop microbes being there and getting in."
+     "why": "A strong answer links heating and sealing: heating kills the microbes inside, and the seal stops new ones getting in."
     },
     {
      "t": "truefalse",
@@ -2642,7 +2642,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl wants to test whether a fridge slows microbes. Which test is fair?",
+     "p": "You want to test whether a fridge slows microbes. Which test is fair?",
      "opts": [
       "The same dal water in two identical closed dabbas, one in the fridge and one on a shelf",
       "Dal water in the fridge and milk on a shelf",
@@ -2662,9 +2662,9 @@
  ],
  "applications": [
   "Dairies pasteurise milk before it goes into packets.",
-  "Tinned and bottled foods are heated and sealed so no microbes can live or get in.",
+  "Tinned and bottled foods are heated to kill the microbes inside, and sealed so no new ones can get in.",
   "Railway and school kitchens follow food-safety rules from FSSAI, India's food safety authority.",
-  "Hospitals cook food for patients with extra care, because illness makes people weaker against germs.",
+  "Hospitals cook food for patients with extra care, because people who are ill fall sick from germs more easily.",
   "Ice cream, fish and vaccines travel in cold vans and boxes so they never warm up on the way.",
   "Factories dry milk into milk powder and fruit into dried fruit so they keep for months.",
   "Health workers teach families to boil or filter water, wash hands and cover food, to prevent diarrhoea in children.",
@@ -2780,7 +2780,7 @@
    "why_maths": "Doubling shows why food that is fine at breakfast can be risky by lunchtime."
   },
   {
-   "problem": "In the Three Dabbas test, Nandini, a girl in Class 4, looked at her dabbas at bedtime on day 1, in the morning and evening of day 2, and once on day 3. Dabba C smelled sour at the first morning check, and dabba B at the evening check. Dabba B lasted how many checks longer than C?",
+   "problem": "In the Three Dabbas test, the dabbas were checked four times: at bedtime on day 1, in the morning of day 2, in the evening of day 2, and once on day 3. Dabba C smelled sour at the morning check on day 2. Dabba B smelled sour at the evening check on day 2. How many checks longer did dabba B last than dabba C?",
    "answer": "1 check longer.",
    "explain": "The checks were: bedtime day 1, morning day 2, evening day 2, day 3. C went sour at check 2 and B at check 3. 3 minus 2 is 1.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2789,8 +2789,8 @@
    "why_maths": "Counting the checks turns 'which spoiled first' into a number, so two families' results can be compared."
   },
   {
-   "problem": "In How Many Washes, Revathi, a girl in Class 3, found that her coriander needed 4 washes. She used 4 tumblers of water for each wash. How many tumblers did she use in all? How many would she save if she could get it clean in 3 washes?",
-   "answer": "16 tumblers. She would save 4 tumblers.",
+   "problem": "In How Many Washes, a bunch of coriander needed 4 washes. Each wash used 4 tumblers of water. How many tumblers were used in all? How many tumblers would be saved if the coriander came clean in 3 washes?",
+   "answer": "16 tumblers. 4 tumblers would be saved.",
    "explain": "4 washes times 4 tumblers is 16. 3 washes times 4 tumblers is 12. 16 minus 12 is 4.",
    "math_unit": "math.multiplication.equal-groups.L3",
    "context": "In How Many Washes, coriander is washed again and again in the same amount of water until the water is clear.",
@@ -2976,18 +2976,18 @@
   ]
  },
  "roots": {
-  "context": "We have watched three dabbas of dal water spoil at different speeds. Now we ask what that tells us about food, time and the living beings we share our kitchen with.",
+  "context": "In the Three Dabbas test, three dabbas of dal water spoiled at different speeds. This part asks what that tells us about food, time and the microbes that live in our kitchen.",
   "deep_truth": {
-   "truth": "The three dabbas of dal water looked the same on the first day. The boiled, closed one stayed fresh longest, because it started with the fewest living microbes. Microbes double again and again, so a few take longer to become a crowd that spoils food. So safe food is food eaten while its microbes are still few.",
+   "truth": "In the Three Dabbas test, the three dabbas of dal water looked the same on the first day. The boiled, closed one stayed fresh longest, because it started with the fewest living microbes. Microbes double again and again, so a few microbes take longer than many to become enough to spoil the food. So safe food is food eaten while its microbes are still few.",
    "habit": "We sort food into 'clean' and 'dirty', or 'fresh' and 'spoiled', as if these were fixed labels. In fact every food holds some microbes. What changes is how many there are, and that number grows with time.",
    "evidence": "In the Three Dabbas test, dabba C, with many microbes from the unwashed leaf, spoiled first. Dabba A, boiled and closed, with the fewest, spoiled last. All three got the same dal water."
   },
   "three": {
    "who_am_i": "You are an eater, like the microbes in the dal. You both need the same food to live.",
-   "what_is_life": "Life is always growing in number where there is food, water and warmth. Your food is a meal for many beings, not only for you.",
-   "what_is_this_world": "The air, your hands and every leaf carry tiny living beings. A kitchen is a shared home, and keeping food safe means sharing it wisely."
+   "what_is_life": "Living beings multiply wherever there is food, water and warmth. Your food is a meal for many beings, not only for you.",
+   "what_is_this_world": "The air, your hands and every leaf carry tiny living beings. We share our kitchen with them, and keeping food safe means keeping their numbers in our food small."
   },
-  "thread": "One bacterium becomes two, two become four, and soon a dabba of dal holds millions. Each of them is a living being feeding and making copies of themself. The same dal would have become you, if you had eaten it. So the one meal can turn into many different lives, depending on who reaches it first.",
+  "thread": "One bacterium becomes two, two become four, and soon a dabba of dal holds millions. Each of them is a living being, feeding and multiplying. If you had eaten the same dal, your body would have used it to grow. So the same food can feed you or feed the microbes, depending on who gets to it first.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
@@ -3029,10 +3029,10 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat with the materials listed. The Three Dabbas test uses dal from the day's cooking, thinned and boiled for 5 minutes, and three steel dabbas rinsed with just-boiled water so all three start almost clean. In a warm room the dabba with unwashed coriander usually smells sour by the next morning, the open one by the next evening, and the closed one lasts longest. In a cool room the parent note says to keep checking for a day or two longer. Nothing is ever tasted, and smells are wafted, not sniffed. The coriander wash uses a white bowl so the colour of each wash is easy to see. The Five-Second Test uses turmeric on a dark steel plate, which shows clearly on a wet cucumber slice. The lemon pickle needs no fridge and no special jar.",
  "how_we_found_out": {
-  "story": "In the early 1900s, many people in the United States drank raw milk straight from the farm. Doctors knew a cow illness caused by a bacterium called Bacillus abortus. They believed this germ harmed only cows. Alice Evans was a scientist at the government's dairy laboratory in Washington. She looked closely at Bacillus abortus and at another bacterium that caused a long, coming-and-going fever in people, called Malta fever. Under the microscope and in careful tests, the two were almost the same. She warned that raw milk from cows that looked healthy could make people ill, and that milk should be pasteurised. She reported this in 1917 and published it in 1918. Many scientists and doctors did not believe her, partly because she was a woman without a doctorate. Other scientists then tested her idea and kept finding she was right. In 1922 she caught the illness herself, and it troubled her for about twenty years. In 1928 she became the first woman to lead the Society of American Bacteriologists. Pasteurising milk became the rule in the United States, and the illness became rare.",
+  "story": "In the early 1900s, many people in the United States drank raw milk straight from the farm. Doctors knew a cow illness caused by a bacterium called Bacillus abortus. They believed this germ harmed only cows. Alice Evans was a scientist at the government's dairy laboratory in Washington. She looked closely at Bacillus abortus and at another bacterium, which caused Malta fever, a long fever in people that kept coming back. Under the microscope and in careful tests, the two bacteria were almost the same. She warned that raw milk from cows that looked healthy could make people ill, and that milk should be pasteurised. She reported this in 1917 and published it in 1918. Many scientists and doctors did not believe her, partly because she was a woman without a doctorate. Other scientists then tested her idea and kept finding she was right. In 1922 she caught the illness herself, and it troubled her for about twenty years. In 1928 she became the first woman to lead the Society of American Bacteriologists. Pasteurising milk became the rule in the United States, and the illness became rare.",
   "who": "Alice Catherine Evans, a microbiologist at the United States Department of Agriculture",
   "when": "1917 to 1930",
   "wrong_idea": "Doctors believed the bacterium that made cows ill could not harm people, so raw milk from healthy-looking cows was safe. Alice Evans showed the cow germ and the germ of a human fever were almost the same, and others confirmed that raw milk could spread it."
  },
- "warm": {"words": ["MOULD", "SPOIL", "COVER", "YEAST", "SALTY"], "quiz": [["Food goes bad because tiny living microbes grow in it.", true, "Microbes land on food, feed on it and multiply, making it sour, slimy or fuzzy."], ["If food smells fine, it is safe to eat.", false, "Some harmful microbes leave the smell and taste unchanged, so your nose cannot tell you."], ["A fridge kills the microbes in food.", false, "Cold only slows microbes down, and they start multiplying again when the food warms up."], ["Microbes multiply fastest in food that is warm and wet.", true, "Like all living beings, microbes need food, water and warmth to multiply."], ["Salting or drying food helps it last, because microbes cannot grow without water.", true, "Salt and drying take water away from microbes, so they cannot multiply."], ["Boiling spoiled food again makes it safe to eat.", false, "Some microbes make poisons that survive boiling, so the food can still make you ill."], ["Cooking food well kills every microbe and poison, so it can sit out all day.", false, "Some spores and poisons survive cooking, and warm food lets any survivors multiply again."], ["One bacterium can become millions, because each one splits in two again and again.", true, "Their number doubles each time, so even a short wait on a hot day matters."], ["Food dropped on the floor is safe if you pick it up within five seconds.", false, "Bacteria can move onto food in under one second, so quick picking up does not help."], ["Raw meat kept next to cooked food can pass microbes onto it.", true, "Cooked food is ready to eat, so microbes that land on it will not be killed by cooking."]], "odd": [[["Curd", "Idli batter", "Bread dough", "Spoiled dal"], "Spoiled dal", "The first three are changed by microbes we want, in a useful way; spoiled dal is changed by unwanted ones."], [["Pickle", "Vadam", "Dried chillies", "Fresh milk"], "Fresh milk", "Pickle, vadam and dried chillies keep for months because salt, oil or drying stop microbes; fresh milk spoils fast."], [["Washing food", "Covering food", "Cooking food", "Leaving it out warm"], "Leaving it out warm", "The first three keep microbes out or kill them; a warm place lets microbes multiply."], [["Raw meat", "Raw eggs", "Unwashed vegetables", "Clean boiled spoon"], "Clean boiled spoon", "The first three can carry microbes onto cooked food; a clean boiled spoon carries almost none."], [["Bacteria", "Mould", "Yeast", "Carbohydrate"], "Carbohydrate", "Bacteria, mould and yeast are microbes, which are living beings; a carbohydrate is a nutrient in food."]]}
+ "warm": {"words": ["MOULD", "SPOIL", "COVER", "YEAST", "SALTY"], "quiz": [["Food goes bad because tiny living microbes grow in it.", true, "Microbes land on food, feed on it and multiply, making it sour, slimy or fuzzy."], ["If food smells fine, it is safe to eat.", false, "Some harmful microbes leave the smell and taste unchanged, so your nose cannot tell you."], ["A fridge kills the microbes in food.", false, "Cold only slows microbes down, and they start multiplying again when the food warms up."], ["Microbes multiply fastest in food that is warm and wet.", true, "Like all living beings, microbes need food, water and warmth to multiply."], ["Salting or drying food helps it last, because microbes cannot grow without water.", true, "Salt and drying take water away from microbes, so they cannot multiply."], ["Boiling spoiled food again makes it safe to eat.", false, "Some microbes make poisons that survive boiling, so the food can still make you ill."], ["Cooking food well kills every microbe and poison, so it can sit out all day.", false, "Some spores and poisons survive cooking, and warm food lets any survivors multiply again."], ["One bacterium can become millions, because each one splits in two again and again.", true, "Their number doubles each time, so even a short wait on a hot day matters."], ["Food dropped on the floor is safe if you pick it up within five seconds.", false, "Bacteria can move onto food in under one second, so picking it up quickly does not make it safe."], ["Raw meat kept next to cooked food can pass microbes onto it.", true, "Cooked food is ready to eat, so microbes that land on it will not be killed by cooking."]], "odd": [[["Curd", "Idli batter", "Bread dough", "Spoiled dal"], "Spoiled dal", "The first three are changed by microbes we want, in a useful way; spoiled dal is changed by unwanted ones."], [["Pickle", "Vadam", "Dried chillies", "Fresh milk"], "Fresh milk", "Pickle, vadam and dried chillies keep for months because salt, oil or drying stop microbes; fresh milk spoils fast."], [["Washing food", "Covering food", "Cooking food", "Leaving it out warm"], "Leaving it out warm", "The first three keep microbes out or kill them; a warm place lets microbes multiply."], [["Raw meat", "Raw eggs", "Unwashed vegetables", "Clean boiled spoon"], "Clean boiled spoon", "The first three can carry microbes onto cooked food; a clean boiled spoon carries almost none."], [["Bacteria", "Mould", "Yeast", "Carbohydrate"], "Carbohydrate", "Bacteria, mould and yeast are microbes, which are living beings; a carbohydrate is a nutrient in food."]]}
 }
