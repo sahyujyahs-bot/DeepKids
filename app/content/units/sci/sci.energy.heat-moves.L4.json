@@ -7,7 +7,7 @@
   "art": "A lit diya on a steel plate, with a child's palm held beside it and another palm held above it, and a thin card standing between the flame and the side palm."
  },
  "intro": {
-  "hook": "Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But hold your hand above the flame and the card beside it changes nothing. Why does the card block one kind of warmth but not the other?",
+  "hook": "Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But when you hold your hand above the flame, a card held beside the flame changes nothing. Why does the card block one kind of warmth but not the other?",
   "text": "Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this unit you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.",
   "art": "A child at a table with a lit diya, a thin card standing upright between the flame and one hand, and the other hand held above the flame."
  },
@@ -56,7 +56,7 @@
   {
    "term": "Density",
    "meaning": "How much stuff is packed into a space. A dense thing is heavy for its size.",
-   "example": "A steel katori is denser than the same size of water.",
+   "example": "Steel is denser than water, so a piece of steel is heavier than the same size of water.",
    "art": "Two equal boxes, one packed with many dots and one with a few dots."
   },
   {
@@ -97,7 +97,7 @@
   },
   {
    "term": "Insulator",
-   "meaning": "A material that carries heat very slowly. Still air that cannot circulate is one.",
+   "meaning": "A material that carries heat very slowly. Still air that cannot move around is one.",
    "example": "A woollen shawl keeps you warm by holding still air against your skin.",
    "art": "A child wrapped in a shawl, with small pockets of air drawn in the wool."
   },
@@ -118,7 +118,7 @@
   {
    "concept": "Three ways heat travels",
    "status": "defined",
-   "description": "In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves that cross the cold air and the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it.",
+   "description": "In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it.",
    "examples": [
     "A steel ladle in hot sambar warms its handle by conduction.",
     "Rice grains rising and falling in a boiling pot show convection.",
@@ -131,7 +131,7 @@
   {
    "concept": "Why warm air and warm water rise",
    "status": "defined",
-   "description": "Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes about one and a half in a hundred lighter. Surrounded by cooler, heavier fluid, the warm part is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top.",
+   "description": "Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top.",
    "examples": [
     "Smoke from an agarbatti curls upwards in still air.",
     "A hot-air balloon rises because the air inside is less dense than the air outside.",
@@ -144,7 +144,7 @@
   {
    "concept": "A convection current is a loop",
    "status": "defined",
-   "description": "Warm fluid cannot rise forever, because there is nowhere for it to go. It has to spread out at the top and cool. Once it is cooler it is heavier, so it sinks. At the bottom it is drawn back towards the heat. So the up and the down are not two things. They are one loop that keeps itself going for as long as the heat lasts. You can see a loop in a pot of boiling water, because rice grains ride it up the middle and down the sides. A rooftop solar water heater in India works the same way. Water heated in the black panel rises into the tank, and cool water sinks down to take its place, with no pump at all. A fridge freezer sits at the top for the same reason. The air it cools sinks and chills the food below.",
+   "description": "Warm fluid cannot rise forever, because there is nowhere for it to go. It has to spread out at the top and cool. Once it is cooler it is heavier, so it sinks. At the bottom it is drawn back towards the heat. So the rising and the sinking are not two separate things. They are one loop that keeps itself going for as long as the heat lasts. You can see a loop in a pot of boiling water, because rice grains ride it up the middle and down the sides. A rooftop solar water heater in India works the same way. Water heated in the black panel rises into the tank, and cool water sinks down to take its place, with no pump at all. The freezer in a fridge is at the top for the same reason. The air it cools sinks and chills the food below.",
    "examples": [
     "Rice grains circling in a boiling pot.",
     "A rooftop solar water heater, where hot water collects at the top of the tank.",
@@ -157,7 +157,7 @@
   {
    "concept": "Convection in the big world",
    "status": "defined",
-   "description": "Land warms and cools quickly. The sea warms and cools slowly, because it is deep and the water mixes. On a sunny afternoon the land is hotter, so air over it rises. Cooler air from over the sea slides in underneath to take its place. This is the sea breeze, and it is why the Marina beach in Chennai is pleasant in the evening. At night the land cools below the sea and the loop runs the other way, as a land breeze. Sailors and fishing communities around the world have used both winds, leaving with the land breeze and coming home with the sea breeze. Birds do the same with a thermal. Black kites in Indian cities circle upwards on rising warm air above hot roads and roofs, without flapping. Part of the monsoon works like a sea breeze that lasts for months, as the land heats up through the summer and pulls in moist air from the Indian Ocean. The full story has more in it, such as the Himalaya and ocean currents.",
+   "description": "Land warms and cools quickly. The sea warms and cools slowly, because it is deep and the water mixes. On a sunny afternoon the land is hotter, so air over it rises. Cooler air from over the sea slides in underneath to take its place. This is the sea breeze, and it is why the Marina beach in Chennai is pleasant in the evening. At night the land becomes cooler than the sea and the loop runs the other way, as a land breeze. Sailors and fishing communities around the world have used both winds, leaving with the land breeze and coming home with the sea breeze. Birds use a thermal in the same way. Black kites in Indian cities circle upwards on rising warm air above hot roads and roofs, without flapping. Part of the monsoon works like a sea breeze that lasts for months, as the land heats up through the summer and pulls in moist air from the Indian Ocean. The full story has more in it, such as the Himalaya and ocean currents.",
    "examples": [
     "A sea breeze on Kozhikode beach in the afternoon.",
     "A black kite bird circling over a hot tin roof in Madurai.",
@@ -170,7 +170,7 @@
   {
    "concept": "Convection inside the Earth and the Sun",
    "status": "debated",
-   "description": "Under the Earth's thin crust, the mantle is made of hot rock that is so squeezed that it flows very slowly, a few centimetres a year, about as fast as your fingernails grow. Hotter rock rises and cooler rock sinks, in giant slow loops. On the Sun, the surface is covered in bubbles of hot gas called granules, each about 1,000 kilometres across, rising and sinking in about ten minutes. This is the same loop as in a pot of boiling dal, at a size that is almost too big to picture.",
+   "description": "Under the Earth's thin crust is the mantle. It is made of hot rock that is squeezed so hard that it flows. It flows very slowly, a few centimetres a year, about as fast as your fingernails grow. Hotter rock rises and cooler rock sinks, in giant slow loops. On the Sun, the surface is covered in bubbles of hot gas called granules. Each one is about 1,000 kilometres across, and rises and sinks in about ten minutes. This is the same loop as in a pot of boiling dal, at a size that is almost too big to picture.",
    "examples": [
     "The Sun's surface looks like boiling rice when it is photographed up close.",
     "The mantle under India flows very slowly beneath the plate that carries us northwards."
@@ -178,11 +178,11 @@
    "art": "A cut-away of the Earth with slow loops of arrows inside the mantle, and beside it a close-up of the Sun's grainy surface.",
    "perspectives": [
     {
-     "who": "Geologists who stress slab pull",
+     "who": "Geologists who say the sinking edges of plates pull the plates along",
      "explanation": "The cold, heavy edge of a plate sinks into the mantle and pulls the rest of the plate after it. On this view the sinking part of the loop is what moves the plates."
     },
     {
-     "who": "Geologists who stress the mantle's flow",
+     "who": "Geologists who say the flowing mantle carries the plates along",
      "explanation": "The slow currents of rock under the plates drag them along like a conveyor belt. Most geologists today think both ideas are partly true, and they are still working out how much each one counts."
     }
    ],
@@ -230,7 +230,7 @@
   {
    "concept": "A flame in space is a ball",
    "status": "defined",
-   "description": "On Earth a candle flame is shaped like a teardrop, because the hot gas around it is lighter and rises, and fresh air flows in underneath to feed the flame. In the weightlessness of a spacecraft, nothing is heavier or lighter in the way that matters, so nothing is pushed up and fresh air does not flow in. NASA and other space agencies have burned candles in space, and the flame is a small, dim, blue ball. It only burns because oxygen slowly drifts in by itself. It is why the station has fans running all day. Without them, an astronaut's own breath would collect in a bubble round their face while they slept.",
+   "description": "On Earth a candle flame is shaped like a teardrop, because the hot gas around it is lighter and rises, and fresh air flows in underneath to feed the flame. In a spacecraft everything is weightless, so hot gas is not pushed up and fresh air does not flow in. NASA and other space agencies have burned candles in space, and the flame is a small, dim, blue ball. It only burns because oxygen slowly drifts in by itself. This is also why the space station has fans running all day. Without them, an astronaut's own breath would collect in a bubble round their face while they slept.",
    "examples": [
     "Candle flame experiments on the space station, run by NASA.",
     "The fans on the space station that keep air moving.",
@@ -243,7 +243,7 @@
   {
    "concept": "Using all three: keeping cool and keeping warm",
    "status": "defined",
-   "description": "Old Chettinad houses in Tamil Nadu have a central open courtyard and tall wooden ventilators high on the walls. Hot air collects under the roof and leaves through the top, and cooler shaded air from the courtyard flows in low down. Convection does the work. A woollen shawl, a quilt and a double-glass window work the other way. They hold a layer of still air that cannot circulate, and still air is a very poor conductor and cannot carry heat by convection either. A thermos uses all three ideas. It has two walls with nothing between them, so no conduction and no convection, and silver coating on the walls to reflect radiation.",
+   "description": "Old Chettinad houses in Tamil Nadu have a central open courtyard and tall wooden ventilators high on the walls. Hot air collects under the roof and leaves through the top, and cooler shaded air from the courtyard flows in low down. Convection does the work. A woollen shawl, a quilt and a double-glass window do the opposite job: they keep heat in. They hold a layer of still air that cannot circulate. Still air is a very poor conductor, and it cannot carry heat by convection either. A thermos uses all three ideas. It has two walls with nothing between them, so there is no conduction and no convection. It also has a silver coating on the walls to reflect radiation.",
    "examples": [
     "The high ventilators in an old Chettinad house.",
     "A white-painted roof in Ahmedabad.",
@@ -272,7 +272,7 @@
    "evidence": "Thermometers in sunlight rise most under black covers and least under shiny foil, in many tests since the 1800s."
   },
   {
-   "text": "Every object above absolute zero sends out infrared radiation.",
+   "text": "Every object sends out infrared radiation, unless it is at absolute zero, the coldest temperature there can be.",
    "evidence": "Thermal cameras read it from people, animals, buildings and stars."
   },
   {
@@ -291,7 +291,7 @@
   {
    "claim": "Cold flows into a room when you open a window in winter.",
    "who": "Many people.",
-   "for": "It feels as if cold air pours in and cold air does move in.",
+   "for": "It feels as if cold pours in, and cold air really does move in.",
    "against": "There is no cold stuff. Heat flows out of the warm room to the cold outside, and the cold air that comes in is just air that has less heat.",
    "status": "rejected"
   },
@@ -299,14 +299,14 @@
    "claim": "Heat is a weightless fluid called caloric that flows from hot things to cold things.",
    "who": "Many scientists of the 1700s, including Antoine Lavoisier.",
    "for": "It explained why heat flows from hot to cold, and why heat seemed to pass through things.",
-   "against": "Count Rumford saw in 1798 that boring a cannon made heat without end, which a fixed amount of fluid could not do. Heat is energy of motion, and radiation is light.",
+   "against": "In 1798, Count Rumford saw that drilling out the barrel of a cannon kept making heat for as long as the drilling went on. A fixed amount of fluid could not do that. Heat is energy of motion, and radiation is light.",
    "status": "rejected"
   },
   {
    "claim": "Heat and light are two completely different things that travel together in sunlight.",
    "who": "Many scientists before 1800.",
    "for": "We feel heat and see light with different senses.",
-   "against": "In 1800, William Herschel found that heat reached its peak just beyond the red end of sunlight spread out by a prism, where nothing was visible. Infrared turned out to be light our eyes cannot see.",
+   "against": "In 1800, William Herschel spread sunlight into its colours with a prism and measured the heat in each. The hottest place was just beyond the red end, where nothing was visible. Infrared turned out to be light our eyes cannot see.",
    "status": "rejected"
   },
   {
@@ -336,17 +336,17 @@
    "hint": "Think of a cold drink left on the table. What happens to it, and which way does the heat go?"
   },
   {
-   "q": "A candle flame is a teardrop on Earth and a ball in space. What was the air doing around the flame all along?",
+   "q": "A candle flame is a teardrop on Earth and a ball in space. What does the air around a flame do on Earth that it cannot do in space?",
    "kind": "deep",
    "hint": "Think about what rising air needs in order to rise."
   },
   {
-   "q": "Nothing carries the Sun's heat across empty space. So what is heat?",
+   "q": "The Sun's heat crosses empty space with nothing to carry it. So what is heat?",
    "kind": "big",
    "hint": "Think about what a thermometer actually measures, and what the Sun sends us."
   },
   {
-   "q": "Wind exists only because two places have different temperatures. If the whole Earth were one temperature, what would be left?",
+   "q": "Wind exists only because two places have different temperatures. If the whole Earth were one temperature, what would happen to the winds?",
    "kind": "big",
    "hint": "Think about sea breezes, the monsoon and ocean currents."
   },
@@ -520,7 +520,7 @@
        "b": "Convection. Warm air from people is lighter, so it rises and gathers under the roof."
       },
       {
-       "f": "Milk on a stove: the bottom of the pan gets hot first, then all the milk warms up.",
+       "f": "Milk is heating on a stove. The bottom of the pan gets hot first, and then all the milk warms up.",
        "b": "More than one. Heat conducts through the pan's base, and then convection stirs it through the milk."
       },
       {
@@ -564,7 +564,7 @@
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
     "Every other player puts one token face down. Then everyone turns the tokens over together.",
     "The reader reads the back. A player whose token matches the first words of the back scores one point.",
-    "A player who also says why, using the words hot, cool, light, heavy, touch or straight lines in a correct reason, scores one more point. The reader decides.",
+    "A player who also gives a correct reason scores one more point. The reason must use one of these words: hot, cool, light, heavy, touch or straight lines. The reader decides.",
     "After each card, the reader's job passes to the player on the left.",
     "With two players, swap the reader's job after every card. The reader does not guess on their own card.",
     "Playing alone: read the front, choose a token, say your reason out loud, and then turn the card over. Score one point for a right answer and one for a right reason. Try to beat your own score.",
@@ -575,7 +575,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the 16 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.",
-     "say": "These cards describe times when heat moves. Each player gets four tokens. Conduction, convection, radiation, and more than one. We will decide which one it was.",
+     "say": "These cards describe times when heat moves. Each player gets four tokens: conduction, convection, radiation, and more than one. For each card, we will decide which one it was.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Each player takes four tokens.",
      "parent": "Print the cards double-sided if you can, so the answer is on the back. If you have no printer, copy each card onto a slip of paper with the answer on the other side, or write the answers on a separate sheet and keep it hidden. A child cuts with a grown-up nearby. For 2 to 4 players the 16 tokens are enough, since the reader does not use tokens.",
      "context": "This is the first step of Heat Detectives. You set up the cards and tokens."
@@ -638,7 +638,7 @@
    "days": 1,
    "question": "A drop of red water goes into the middle of a glass of still, room-temperature water. Does it rise, sink or stay put? Does the answer change if the drop is hot, warm, room-temperature or ice-cold?",
    "predict": "Before you start, guess what each of the four drops will do: hot, warm, room-temperature and ice-cold. Which will move fastest? Why do you think so?",
-   "fair_test": "Every drop is the same red water, the same amount (one straw-full), and is let go at the same depth in a glass of still water of the same height. The water in the glass is always room temperature and always still for two minutes first. Only the temperature of the drop changes, so any difference comes from the temperature.",
+   "fair_test": "Every drop is the same red water and the same amount (one straw-full). Each drop is let go at the same depth, in a glass filled to the same height. The water in the glass is always at room temperature, and it always stands for two minutes first so that it is still. Only the temperature of the drop changes, so any difference comes from the temperature.",
    "results_table": [
     "Drop",
     "Its temperature",
@@ -680,7 +680,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours all the hot water. The hot drop should be about 50 to 60 degrees: too hot to sip, but you can still hold the outside of the katori. Never suck on a straw that has hot water in it. The finger-over-the-end trick needs no sucking. Wipe spills at once, so nobody slips. Food colour and ink stain clothes, so wear an old shirt.",
+   "safety": "A grown-up pours all the hot water. The hot drop should be about 50 to 60 degrees: too hot to sip, but you can still hold the outside of the katori. Never suck on a straw that has hot water in it. You fill the straw by dipping it in and pressing a finger on the top end, so no sucking is needed. Wipe spills at once, so nobody slips. Food colour and ink stain clothes, so wear an old shirt.",
    "record": "Fill in the table for each drop. Then write three sentences: what you thought would happen (claim), what you saw (evidence), and why you think it happened (reasoning). Draw the glass with an arrow for each drop to show where it went.",
    "context": "In this experiment, you let go of four drops of red water at different temperatures in one glass of still water, and watch which way each one travels. This shows how heat moves in water.",
    "setup": [
@@ -711,7 +711,7 @@
      "mins": 4,
      "do": "Show your child the materials. Say that four drops will be let go in one glass. Ask for a guess and a reason for each drop. Write them down.",
      "say": "We will let four drops of red water go in the same glass. One is hot, one is warm, one is room-temperature, and one is ice-cold. What will each drop do? Rise, sink or stay? Why do you think so?",
-     "kid": "Four red drops go in one glass. Hot, warm, room and ice-cold. What will each one do? Why?",
+     "kid": "Four red drops go in one glass. One is hot, one is warm, one is room-temperature and one is ice-cold. What will each one do? Why?",
      "ask": [
       {
        "q": "Which drop do you think will move fastest? Why?",
@@ -728,9 +728,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "A grown-up makes the four katoris. Put 50 millilitres of water in each and 3 drops of red colour. Make one very hot, one warm like a bath, one room-temperature, and one ice-cold with ice cubes. Take the ice out.",
+     "do": "A grown-up makes the four katoris. Put 50 millilitres of water and 3 drops of red food colour or ink in each. Make one very hot, one warm like a bath, one room-temperature, and one ice-cold with ice cubes. Take the ice out before you test.",
      "say": "The grown-up makes four katoris of red water. One is hot, like tea you wait to sip. One is warm, like bath water. One is room-temperature. One is cold from the ice. Take the ice cubes out before you use it.",
-     "kid": "A grown-up makes four katoris of red water. Hot, warm, room and ice-cold.",
+     "kid": "A grown-up makes four katoris of red water. One is hot, one is warm, one is room-temperature and one is ice-cold.",
      "adult": true,
      "parent": "Mix half kettle water and half cold tap water for the hot katori. It should be too hot to sip but safe to hold the outside of the katori. If you have a thermometer, about 55 degrees is right, but you do not need one. Use the same number of colour drops in each. If the red is too strong, use 2 drops. Too much colour can make the drop heavier than the water for a different reason. Keep the ice-cold katori in the fridge or with ice cubes for 10 minutes before you use it, and take the ice out just before you test, because floating ice cubes will make swirls. If you have no ice, a katori that has sat in the fridge overnight also works. Do the hot katori last, and keep it covered with a plate or saucer so it does not cool while you wait.",
      "check": {
@@ -769,7 +769,7 @@
      "mins": 14,
      "do": "Test the drops one at a time, in this order: room-temperature, ice-cold, warm, hot. Fill a straw from the katori and press your finger on the top end. Lift it out. Lower the tip to the middle of the glass. Lift your finger and start the timer. Stop it when the red reaches the top or the bottom. Pour out the water and refill the glass. Wait two minutes between tests. (If you have several glasses, test all four drops at the same time.)",
      "say": "Do the room-temperature drop first. Press a finger on the top of the straw and lift it out. Lower the tip to the middle of the glass. Let go. Start the timer. What does the red do? Write it down. Then refill the glass and wait two minutes for each next drop.",
-     "kid": "Fill a straw. Finger on top. Lower it to the middle. Let go. Start the timer. Watch.",
+     "kid": "Fill a straw. Press a finger on top. Lower it to the middle. Let go. Start the timer. Watch.",
      "adult": true,
      "ask": [
       {
@@ -781,7 +781,7 @@
        ]
       }
      ],
-     "parent": "The hot drop should rise to the top, often in about 2 to 10 seconds, then spread across the surface. The ice-cold drop should sink to the bottom, often in about 3 to 10 seconds. The warm drop is slower. These times are typical, and not a promise: glass size and how gently you let go change them. The room drop should stay about where it is, or drift down very slowly. If a drop smears everywhere, you pushed it out too fast, so let it run out slowly. Your times will be different, and that is fine. Write down what you really see. If nothing seems to happen, the drop was probably too small or too pale: use 4 drops of colour, or let go closer to the middle, and look from the side against the white paper. With 2 to 4 children, give each child their own glass and their own temperature. Everyone lets go on 'three, two, one', and you watch all the glasses side by side. One child is the timer and one writes the results. With one child and a parent, the parent can be timer and recorder.",
+     "parent": "The hot drop should rise to the top, often in about 2 to 10 seconds, then spread across the surface. The ice-cold drop should sink to the bottom, often in about 3 to 10 seconds. The warm drop is slower. These times are typical, and not a promise: glass size and how gently you let go change them. The room-temperature drop should stay about where it is, or drift down very slowly. If a drop smears everywhere, you pushed it out too fast, so let it run out slowly. Your times will be different, and that is fine. Write down what you really see. If nothing seems to happen, the drop was probably too small or too pale: use 4 drops of colour, or let go closer to the middle, and look from the side against the white paper. With 2 to 4 children, give each child their own glass and their own temperature. Everyone lets go on 'three, two, one', and you watch all the glasses side by side. One child is the timer and one writes the results. With one child and a parent, the parent can be timer and recorder.",
      "check": {
       "t": "mcq",
       "q": "The hot drop rises in the glass. What does that show about the hot water?",
@@ -801,7 +801,7 @@
      "do": "Draw the glass with four arrows to show where each drop went. Then ask your child to say three things: what they thought (claim), what they saw (evidence), and why it happened (reasoning).",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think the hot drop and the cold drop went opposite ways?",
      "kid": "Draw four arrows in the glass. Say what you thought, what you saw, and why.",
-     "parent": "A strong answer says the hot water was lighter and rose, and the cold water was heavier and sank. After they have said what they saw, you can add: hot water expands, so it is less dense, and the cooler water around it is heavier and sinks underneath it and pushes it up. Moving water that carries heat is called convection. If your results were different, for example the room drop sank, say that too. It may be because of the colour, and testing again with less colour will check.",
+     "parent": "A strong answer says the hot water was lighter and rose, and the cold water was heavier and sank. After they have said what they saw, you can add: hot water expands, so it is less dense. The cooler water around it is heavier, so it sinks underneath the hot water and pushes it up. Moving water that carries heat is called convection. If your results were different, for example the room-temperature drop sank, say that too. It may be because of the colour. Test again with less colour to check.",
      "think": "If the hot drop went up, where did the cooler water come from to take its place?",
      "context": "This is the last step of Colour Currents. You say what you found out."
     }
@@ -864,7 +864,7 @@
    ],
    "safety": "Do not look at sunlight reflected off the foil. It can hurt your eyes. Keep the tumblers where they cannot fall or break, and do not leave small children alone on a terrace edge. Paper and glass left in the Sun can feel hot, so touch them first with the back of one finger. Glass thermometers can break: a grown-up holds them.",
    "record": "Fill in the table. Then draw a bar for the rise in each tumbler. Write three sentences: what you thought (claim), what you saw (evidence), and why it happened (reasoning).",
-   "context": "In this experiment, you wrap three tumblers of water in black, white and shiny foil, and find out which one the Sun warms most. This shows how radiation is taken in or sent back.",
+   "context": "In this experiment, you wrap three tumblers of water in black paper, white paper and shiny foil, and find out which one the Sun warms most. This shows how radiation is taken in or sent back.",
    "setup": [
     {
      "art": "Three tumblers in a row on a table, one wrapped in black paper, one in white paper and one in shiny foil, each held by a rubber band, with a fourth plain tumbler on the end.",
@@ -893,7 +893,7 @@
      "mins": 4,
      "do": "Show your child the tumblers, the paper and the foil. Ask for a guess and a reason. Write the order they choose.",
      "say": "The Sun will shine on three tumblers. One is wrapped in black, one in white, and one in shiny foil. Which will get warmest? Which will stay coolest? Why do you think so?",
-     "kid": "Three tumblers in the Sun. Black, white and foil. Which warms most? Why?",
+     "kid": "Three tumblers sit in the Sun. One is wrapped in black paper, one in white paper and one in foil. Which will warm the most? Why?",
      "ask": [
       {
        "q": "Which do you think will warm the least, and why?",
@@ -910,8 +910,8 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Wrap the black paper round the first tumbler and hold it with a rubber band. Wrap the white paper round the second. Wrap the foil round the third, with the shiny side out. Leave the fourth plain. Make a lid for each from the same paper or foil, with a small slit. Fill each tumbler with the same amount of water, about 100 millilitres. Put on the lids.",
-     "say": "Wrap each tumbler all the way round, with the shiny side of the foil facing out. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper. Now the colour you chose covers the whole tumbler.",
+     "do": "Wrap the black paper round the first tumbler and hold it with a rubber band. Wrap the white paper round the second. Wrap the foil round the third, with the shiny side out. Leave the fourth plain. Make a lid for each from the same paper or foil, with a small slit for the thermometer. Fill each tumbler with the same amount of water, about 100 millilitres. Put on the lids.",
+     "say": "Wrap each tumbler all the way round, with the shiny side of the foil facing out. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper. Now each tumbler is covered all over by one kind of wrapping.",
      "kid": "Wrap three tumblers. Fill them all the same. Put on lids of the same colour.",
      "parent": "The Sun is high at midday in India, so it hits the top of a tumbler more than the sides. That is why each lid is the same colour as its wrapper. Fill each tumbler to the same mark with water from the same jug, about 100 millilitres, because a small amount of water warms by a bigger, easier-to-read number of degrees. Wrap two layers of white paper, or the light goes through it. If the foil is crumpled, smooth it out so it stays shiny. With 2 to 4 children, each child wraps and looks after one tumbler. With one child, the child wraps all of them.",
      "check": {
@@ -967,14 +967,14 @@
        ]
       }
      ],
-     "parent": "Use a sunny hour, between 11 in the morning and 2 in the afternoon. On a cloudy day, wait for another day. While you wait, you can do the Hands Around a Diya activity or draw the heat's journey. The numbers will be a little uneven, so look at the order more than the exact numbers. On a clear day the black tumbler often rises a few degrees more than the white one, and the foil one often rises least, but the gaps can be small, such as 1 or 2 degrees, on a hazy day. If the shaded tumbler rises as much as the others, the day was too hot for a clean test: try early morning or another day. If yours do not match, write down what you saw. A surprise is a result too. With 2 to 4 children, one reads the thermometer, one writes, one watches the clock, and one checks that nothing has been moved or has fallen into shade.",
+     "parent": "Use a sunny hour, between 11 in the morning and 2 in the afternoon. On a cloudy day, wait for another day. While you wait, you can do the Hands Around a Diya activity or draw the heat's journey. The numbers will be a little uneven, so look at the order more than the exact numbers. On a clear day the black tumbler often rises a few degrees more than the white one, and the foil one often rises least. On a hazy day the gaps can be small, such as 1 or 2 degrees. If the shaded tumbler rises as much as the others, the day was too hot for a clean test: try early morning or another day. If your results do not match this, write down what you saw. A surprise is a result too. With 2 to 4 children, one reads the thermometer, one writes, one watches the clock, and one checks that nothing has been moved or has fallen into shade.",
      "context": "In this step, you leave the tumblers in the Sun and read the temperatures twice."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "Work out the rise for each tumbler by taking the starting temperature from the last one. Draw a bar for each. Then ask your child to say what they thought, what they saw, and why.",
-     "say": "Take the starting number from the last number. That is the rise. Draw a bar for each tumbler. Which rose most? Tell me what you thought, what you saw, and why you think it happened.",
+     "do": "Work out the rise for each tumbler by taking away its starting temperature from its last temperature. Draw a bar for each. Then ask your child to say what they thought, what they saw, and why.",
+     "say": "Take away the starting number from the last number. That is the rise. Draw a bar for each tumbler. Which rose most? Tell me what you thought, what you saw, and why you think it happened.",
      "kid": "Work out the rise for each one. Draw the bars. Say why.",
      "parent": "A strong answer says that dark, dull paper takes in more of the Sun's radiation and turns it into heat, while white paper and foil send much of it back. After they have said what they saw, explain: the Sun's heat travels as radiation, and what happens next depends on the surface it lands on. If the shaded tumbler warmed too, subtract its rise from the others to see what the Sun added.",
      "think": "If the Sun's warmth reached the black paper through empty space and clear air, what did the paper do with it?",
@@ -1016,7 +1016,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up lights the flame and stays beside the child all the time. Tie back long hair. No loose dupattas or sleeves. Keep curtains and paper away. Close any fan or window that makes a draught, so the flame does not lean. A child never reaches closer than 15 centimetres above the flame or closer than 5 centimetres to the side. The plate and the hot oil stay hot for a long time, so nobody touches them. Blow it out at the end.",
+   "safety": "A grown-up lights the flame and stays beside the child all the time. Tie back long hair. No loose dupattas or sleeves. Keep curtains and paper away. Switch off any fan and close any window that makes a draught, so the flame does not lean. A child never reaches closer than 15 centimetres above the flame or closer than 5 centimetres to the side. The plate and the hot oil stay hot for a long time, so nobody touches them. Blow the flame out at the end.",
    "schedule": [
     {
      "day": 1,
@@ -1024,7 +1024,7 @@
      "what": "Guess, feel the warmth in three places, block it with a card, and draw what you found."
     }
    ],
-   "record": "A drawing of the diya with three palms around it, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which of them the card blocked.",
+   "record": "A drawing of the diya with three palms around it, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.",
    "context": "In this activity, you hold a palm in different places near a flame, and block the warmth with a card. You find that the flame sends warmth in two different ways.",
    "setup": [
     {
@@ -1057,9 +1057,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "A grown-up lights the diya and tells your child to sit still. Hold a palm flat beside the flame, 10 centimetres away. Count to 10, or time how many seconds until it feels warm. Then hold the other palm 30 centimetres above the flame, and lower it slowly until it feels warm. Stop there.",
+     "do": "A grown-up lights the diya and tells your child to sit still. Your child holds a palm flat beside the flame, 10 centimetres away, and counts to 10, or times how many seconds it takes to feel warm. Then they hold the other palm 30 centimetres above the flame, and lower it slowly until it feels warm. They stop there, and never go lower than 15 centimetres.",
      "say": "Hold one palm beside the flame, 10 centimetres away. Count slowly to 10. Now hold your other palm high above the flame. Lower it slowly. Stop when it feels warm. Never go lower than 15 centimetres.",
-     "kid": "Palm beside the flame. Count to 10. Palm above the flame. Lower it slowly. Stop when warm.",
+     "kid": "Hold one palm beside the flame and count to 10. Hold the other palm high above the flame. Lower it slowly. Stop when it feels warm.",
      "adult": true,
      "ask": [
       {
@@ -1077,7 +1077,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Stand the card on its edge between the flame and the palm at the side. Count the seconds until the warmth comes back when the card is taken away. Keep the other palm above the flame, but do not move it. Then take the card away.",
+     "do": "Stand the card on its edge between the flame and the palm at the side. Keep the other palm above the flame, and do not move it. Notice what happens to the warmth at each palm. Then take the card away, and count the seconds until the warmth at the side comes back.",
      "say": "Now stand the card on its edge between the flame and your side palm. What happens to the warmth? Then check your palm above the flame. Did the card change that warmth?",
      "kid": "Stand the card between the flame and your palm. Does the warmth stop? What about above?",
      "adult": true,
@@ -1149,7 +1149,7 @@
      "buy": "b-tealight"
     }
    ],
-   "safety": "A grown-up lights the flame and holds the spiral. Keep the paper at least 15 centimetres above the flame. Never hold a spiral over a flame and walk away. Keep curtains and other paper away, and tie back long hair. If the paper starts to brown or curl, move it away at once. Blow out the flame at the end. Scissors are used by the child with a grown-up beside them.",
+   "safety": "A grown-up lights the flame and holds the spiral. Keep the paper at least 15 centimetres above the flame. Never hold a spiral over a flame and walk away. Keep curtains and other paper away, and tie back long hair. If the paper starts to brown or curl, move it away at once. Blow out the flame at the end. The child uses scissors only with a grown-up beside them.",
    "schedule": [
     {
      "day": 1,
@@ -1157,7 +1157,7 @@
      "what": "Cut a spiral, hang it above a flame, and find out what makes it turn."
     }
    ],
-   "record": "A drawing of the spiral above the flame, with arrows showing where the air moves. Write how many turns in 20 seconds at each height you tried.",
+   "record": "A drawing of the spiral above the flame, with arrows showing where the air moves. Write how many turns the spiral made in 20 seconds at each height you tried.",
    "context": "In this activity, you make a paper spiral and hang it above a small flame. You find out what moves it, and where the air comes from.",
    "setup": [
     {
@@ -1179,7 +1179,7 @@
      "mins": 4,
      "do": "Ask your child to guess what will happen to the spiral when it hangs above a flame, and why. Write the guess.",
      "say": "We are going to hang a paper spiral above a small flame. There is no wind and nobody will blow it. What do you think will happen? Why do you think so?",
-     "kid": "A paper spiral above a flame. What will happen? Why?",
+     "kid": "A paper spiral hangs above a flame. What will happen? Why?",
      "parent": "Do not correct the guess. Many children say that it will burn, or that nothing will happen.",
      "context": "This is the first step of the Paper Spiral. You guess before you test."
     },
@@ -1189,13 +1189,13 @@
      "do": "Draw a circle about 12 centimetres across on the paper. Draw a spiral inside it, going round three or four times to the middle. Cut out the circle. Cut along the spiral line. Poke a small hole in the middle and tie the thread through it.",
      "say": "Draw a circle about as wide as your hand. Draw a spiral inside it, round and round to the middle. Cut along the spiral line, and then tie the thread in the middle.",
      "kid": "Draw a circle. Draw a spiral. Cut along it. Tie the thread.",
-     "parent": "Scissors are for the child to use, with help. The coils should hang down like a paper snake when you lift the spiral by the middle. Make the paper thin. Thick card is too heavy to turn.",
+     "parent": "Scissors are for the child to use, with help. The coils should hang down like a paper snake when you lift the spiral by the middle. Use thin paper. Thick card is too heavy to turn.",
      "context": "In this step, you make the paper spiral."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "A grown-up lights the diya or the bunched tea-lights on a plate on a table. Tie the thread to a stick. Untwist the thread and let the spiral settle. Hold it on the stick 25 centimetres above the flame, and keep it still. If it does not turn, lower it slowly to 15 centimetres, but no lower. Count how many full turns it makes in 20 seconds.",
+     "do": "A grown-up lights the diya, or two or three tea-lights placed close together, on a plate on a table. Tie the thread to a stick. Untwist the thread and let the spiral settle. Hold it on the stick 25 centimetres above the flame, and keep it still. If it does not turn, lower it slowly to 15 centimetres, but no lower. Count how many full turns it makes in 20 seconds.",
      "say": "Hold the spiral on the stick, 25 centimetres above the flame, and keep your hand still. Watch. Does it turn? Which way? Count the turns in 20 seconds.",
      "kid": "Hold the spiral above the flame. Keep still. Does it turn? Count the turns.",
      "adult": true,
@@ -1217,7 +1217,7 @@
        ]
       }
      ],
-     "parent": "The spiral turns slowly, because warm air is rising past its slanted coils. It is a slow turn, perhaps a full turn every few seconds, and one tea-light at 25 centimetres may give only a small wobble. That is why two or three tea-lights close together, thin paper and 15 to 20 centimetres work better. Never go nearer than 15 centimetres. A draught from a fan will mess up the result, so switch off any fans and close the window. If it still does not turn, check that the coils hang apart, and say honestly that the warm air was too weak. Try again with more tea-lights. With 2 to 4 children, one holds the stick with a grown-up beside them, one counts turns, one times 20 seconds, one writes. Everyone makes their own spiral first.",
+     "parent": "The spiral turns slowly, because warm air is rising past its slanted coils. It is a slow turn, perhaps a full turn every few seconds, and one tea-light at 25 centimetres may give only a small wobble. That is why two or three tea-lights close together, thin paper and a height of 15 to 20 centimetres work better. Never go nearer than 15 centimetres. A draught from a fan will spoil the result, so switch off any fans and close the window. If it still does not turn, check that the coils hang apart, and say honestly that the warm air was too weak. Try again with more tea-lights. With 2 to 4 children, one holds the stick with a grown-up beside them, one counts turns, one times 20 seconds, and one writes. Everyone makes their own spiral first.",
      "check": {
       "t": "mcq",
       "q": "What turns the spiral?",
@@ -1297,7 +1297,7 @@
      "say": "Draw a gas stove with a pot of dal on it. Put a steel ladle in the pot. Draw a child standing near, on the right. We will add the heat arrows next.",
      "kid": "Draw a stove, a pot, a ladle and a child. No arrows yet.",
      "context": "This is the first step of Draw the Heat's Journey. You draw the picture first.",
-     "parent": "The steel handle warms noticeably in a minute or two. The wooden one stays nearly cool. This is a real measurement of how well each material conducts heat. Write which was warmer and by how much it felt (a little, a lot). Do not correct the guess before the test. If both feel the same, the spoons may be too short or the water too cool, so use more hot water. With 2 to 4 children, each child feels one spoon at a time and says what they notice."
+     "parent": "The steel handle warms noticeably in a minute or two. The wooden one stays nearly cool. This is a real test of how well each material conducts heat. Write which was warmer, and whether it felt a little warmer or a lot warmer. Do not correct the guess before the test. If both feel the same, the spoons may be too short or the water too cool, so use more hot water. With 2 to 4 children, each child feels one spoon at a time and says what they notice."
     },
     {
      "id": "s2",
@@ -1307,7 +1307,7 @@
      "kid": "Draw a red arrow up the ladle. Draw a blue loop in the dal.",
      "ask": [
       {
-       "q": "Which way does the dal at the bottom go when it is hot? And then?",
+       "q": "Which way does the dal at the bottom go when it is hot? Where does it go after that?",
        "good": [
         "It goes up in the middle.",
         "It spreads across the top and goes down at the sides."
@@ -1455,7 +1455,7 @@
      "mins": 3,
      "do": "Ask your child to draw the beach at noon and at midnight, with arrows for the wind. Ask what would happen to the sea breeze on a cloudy day, when the Sun is hidden.",
      "say": "Draw the beach in the afternoon and at night. Use arrows for the wind. Now think about a cloudy day, when the land stays cool. What will the sea breeze do?",
-     "kid": "Draw the beach by day and by night. Arrows for the wind.",
+     "kid": "Draw the beach by day and by night. Draw arrows for the wind.",
      "parent": "On a cloudy day, the land does not warm up as much, so the sea breeze is weak or comes late. That is why a cloudy afternoon on the coast can feel still. To see the real reason, try this on a sunny day: put one katori of dry sand or soil and one katori of water of the same amount on a window ledge in the Sun for 15 minutes. Touch each with the back of a finger. The sand is warmer to touch than the water. This is why the land warms faster than the sea.",
      "think": "Which is warmer in the evening, a rock on the beach or a tub of sea water? Why does that matter for the wind?",
      "context": "This is the last step of Act Out the Sea Breeze. You draw both winds."
@@ -1518,7 +1518,7 @@
     }
    ],
    "record": "Write the time you put both pieces of chocolate in, and the time each began to soften and to melt. Draw the oven and the path of the sunlight into it.",
-   "context": "In this project, you build a simple oven that uses sunlight alone, and test how long it takes to melt chocolate. It uses radiation that is reflected and then absorbed, and trapped warm air.",
+   "context": "In this project, you build a simple oven that uses sunlight alone, and test how long it takes to melt chocolate. It works by reflecting radiation onto a black base that absorbs it, and by trapping warm air.",
    "setup": [
     {
      "art": "A cardboard box on a table with a flap cut in its lid on three sides, and a child lining the inside of the flap with shiny foil.",
@@ -1550,7 +1550,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "A grown-up cuts a flap in the lid, on three sides, so it folds up like a window. Line the inside of the flap with foil, shiny side out. Line the walls with foil and the base with black paper. Tape clear cling film over the opening under the flap. Prop the flap with a pencil at an angle.",
+     "do": "A grown-up cuts a flap in the lid, on three sides, so it folds up like a window. Line the inside of the flap with foil, shiny side out. Line the walls with foil and the base with black paper. Tape clear cling film over the opening under the flap. Prop the flap open at an angle with a pencil.",
      "say": "A grown-up cuts the lid, leaving a flap that folds up. Cover the inside of the flap with shiny foil. Line the walls with foil and the base with black paper. Stretch cling film over the opening and tape it down. Prop the flap open so it bounces sunlight into the box.",
      "kid": "A grown-up cuts a flap in the lid. Line the flap and walls with foil. Line the base with black paper.",
      "adult": true,
@@ -1564,7 +1564,7 @@
        "Foil makes the box strong"
       ],
       "a": 0,
-      "why": "Dark, dull surfaces absorb radiation and turn it into heat. Shiny foil reflects radiation, so the walls and flap bounce more sunlight onto the black base. If you chose black being prettier, think about what a black cloth does in the Sun."
+      "why": "Dark, dull surfaces absorb radiation and turn it into heat. Shiny foil reflects radiation, so the walls and flap bounce more sunlight onto the black base. If you chose 'Black is prettier', think about what a black cloth does in the Sun."
      },
      "context": "In this step, you build the oven."
     },
@@ -1591,7 +1591,7 @@
        ]
       }
      ],
-     "parent": "On a bright day, between 11 and 2, chocolate in the oven often goes soft in about 20 to 30 minutes and melts in about 30 to 60 minutes, if the day is clear. Times are typical, not a promise. The piece outside the oven should stay firm much longer, and that difference is your evidence. On a cloudy or hazy day, or in winter, it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away. If nothing happens, check for gaps in the cling film, crumpled foil, or a flap that is not aimed at the Sun, and turn the oven every 10 minutes. With 2 to 4 children, one watches the clock, one turns the oven, one writes the times, and one looks at the outside chocolate. With one child, the child does all of these.",
+     "parent": "On a bright, clear day, between 11 in the morning and 2 in the afternoon, chocolate in the oven often goes soft in about 20 to 30 minutes and melts in about 30 to 60 minutes. Times are typical, not a promise. The piece outside the oven should stay firm much longer, and that difference is your evidence. On a cloudy or hazy day, or in winter, it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away. If nothing happens, check for gaps in the cling film, crumpled foil, or a flap that is not aimed at the Sun, and turn the oven every 10 minutes. With 2 to 4 children, one watches the clock, one turns the oven, one writes the times, and one looks at the outside chocolate. With one child, the child does all of these.",
      "check": {
       "t": "mcq",
       "q": "The warm air inside the oven cannot escape because of the cling film. Which way of moving heat does the film stop?",
@@ -1629,7 +1629,7 @@
     "You can only change the covering on the roof.",
     "Each roof covering must be made from things you already have at home.",
     "The boxes must sit side by side in the Sun for the same 30 minutes.",
-    "Read each thermometer inside the box at the start and at the end."
+    "Read the temperature inside each box at the start and at the end."
    ],
    "materials": [
     "3 identical shoeboxes with lids",
@@ -1671,7 +1671,7 @@
      "mins": 6,
      "do": "Read the problem together. Ask your child to sketch three roof designs, and to guess which one will keep the box coolest.",
      "say": "You have three shoebox houses and a hot hour of sunlight. How could you cover the roofs to keep the inside cool? Draw three ideas. Which do you think will work best, and why?",
-     "kid": "Three boxes. Three roofs. Draw some ideas. Which will be coolest?",
+     "kid": "You have three boxes and three roofs. Draw some ideas. Which box will stay coolest?",
      "ask": [
       {
        "q": "What would make a roof stay cooler?",
@@ -1716,7 +1716,7 @@
      "mins": 8,
      "do": "Change one thing about your best design, such as adding an air gap above the roof. Test it again for 15 minutes. Write down both results and say which is better.",
      "say": "Change just one thing. Add a gap of air above the roof, or add a high hole in the wall. Test it again. Is it cooler or warmer?",
-     "kid": "Change one thing. Test again. Better or worse?",
+     "kid": "Change one thing. Test again. Is it better or worse?",
      "parent": "Change only one thing at a time, or you will not know which change worked. The air gap works because hot air under the roof rises out instead of heating the box by conduction.",
      "think": "In a real city, who could paint a roof white, and who might not be able to?",
      "context": "In this step, you improve the design and test again."
@@ -1750,10 +1750,10 @@
    "creative": [
     "Hang a sealed bottle of ice into the water from the top, so the cold water sinks past it all the way down.",
     "Freeze a plastic bottle of water and stand it in the jug.",
-    "Put a thin sheet of foil between the ice and the room, so it takes in less heat from the air."
+    "Put a thin sheet of foil between the ice and the room, so the ice takes in less heat from the air."
    ],
    "your_turn": "Make a plan. Test it against a jug with the ice weighed down at the bottom. Which jug had the coolest water at the top after 10 minutes? Why do you think so?",
-   "context": "This is a design challenge about convection. You find out where cold should go to cool a drink fastest.",
+   "context": "This is a design challenge about convection. You find out where the ice should go to cool a drink fastest.",
    "setup": [
     {
      "art": "Two identical jugs of warm water side by side, one with a bag of ice held at the top and one with a bag of ice weighed down at the bottom with a steel spoon.",
@@ -1774,7 +1774,7 @@
      "mins": 5,
      "do": "Read the problem together. Ask your child to guess which jug will be cooler at the top after 10 minutes. Is it the jug with ice on top, or ice at the bottom? Ask why.",
      "say": "You have two jugs of warm water and two bags of ice. Where should the ice go to cool the water fastest, at the top or at the bottom? Why do you think so?",
-     "kid": "Two jugs. Ice at the top, or ice at the bottom? Which cools faster? Why?",
+     "kid": "There are two jugs. One has ice at the top and one has ice at the bottom. Which cools faster? Why?",
      "ask": [
       {
        "q": "What do you think cold water does in a jug?",
@@ -1793,7 +1793,7 @@
      "mins": 8,
      "do": "Fill each jug with 300 millilitres of bath-warm water. Read the temperature near the top of each and write it down. Put a bag of two ice cubes at the top of the first jug. Put a bag of two ice cubes, weighed down with a spoon, at the bottom of the second.",
      "say": "Fill two jugs with bath-warm water. Check the temperature at the top of each. Hang an ice bag at the top of one jug. Weigh down the other ice bag at the bottom of the second jug. Start the timer.",
-     "kid": "Fill both jugs. Read the temperatures. Ice at the top of one. Ice at the bottom of the other.",
+     "kid": "Fill both jugs. Read the temperatures. Put ice at the top of one jug and at the bottom of the other.",
      "adult": true,
      "parent": "Bath-warm water is about 40 degrees and safe to touch. Both jugs should start within one degree of each other. The bag at the bottom must be sealed and held down firmly, or it will float up. Do not stir.",
      "context": "In this step, you set up the two jugs."
@@ -1820,7 +1820,7 @@
        ]
       }
      ],
-     "parent": "The jug with the ice at the top should be clearly cooler at the top. In the jug with the ice at the bottom, the bottom may feel cold while the top is still warm, because cold water is heavier and stays down there. The results can be small if the ice is small, so use the temperatures and what your finger feels.",
+     "parent": "The jug with the ice at the top should be clearly cooler at the top. In the jug with the ice at the bottom, the bottom may feel cold while the top is still warm, because cold water is heavier and stays down there. The differences can be small if the ice cubes are small, so use both the temperatures and what your finger feels.",
      "context": "In this step, you read the temperatures and feel the layers."
     },
     {
@@ -1843,7 +1843,7 @@
    "youtube": "CTQzLUttGv4",
    "mins": 3,
    "why": "To see a loop of hot and cold water with food colouring, like the Colour Currents test.",
-   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
+   "check": "The video's title and channel have been checked on YouTube. A parent should preview it first."
   },
   {
    "title": "Sun's Embrace: How Solar Heat Travels to Earth",
@@ -1851,7 +1851,7 @@
    "youtube": "wYRhI5faVrk",
    "mins": 5,
    "why": "To see that radiation travels through nothing, and what infrared is.",
-   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
+   "check": "The video's title and channel have been checked on YouTube. A parent should preview it first."
   },
   {
    "title": "NASA Lit a Fire in Space. It Kept Burning After It Went Out.",
@@ -1859,7 +1859,7 @@
    "youtube": "r5HxWCZDS9I",
    "mins": 4,
    "why": "To see the round, blue flame in weightlessness, and so see that convection needs gravity.",
-   "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
+   "check": "The video's title and channel have been checked on YouTube. A parent should preview it first."
   }
  ],
  "quiz": [
@@ -1901,7 +1901,7 @@
   },
   {
    "t": "mcq",
-   "p": "At night on a beach, the land cools below the sea's temperature. Which way does the wind blow?",
+   "p": "At night on a beach, the land becomes cooler than the sea. Which way does the wind blow?",
    "opts": [
     "From the land towards the sea",
     "From the sea towards the land",
@@ -1946,7 +1946,7 @@
    "t": "mcq",
    "p": "You test hot and cold drops of coloured water in a glass. Why must the water in the glass be still first?",
    "opts": [
-    "So that stirring is not mistaken for an effect of temperature",
+    "So that only the drop's temperature moves it, not swirls in the water",
     "So the water is clear",
     "So the drops are the same size"
    ],
@@ -1956,7 +1956,7 @@
   },
   {
    "t": "mcq",
-   "p": "Milk in a pan on a stove: the pan's base is heated, and then the whole milk warms up. Which ways is the heat travelling?",
+   "p": "Milk is warming in a pan on a stove. The pan's base is heated first, and then all the milk warms up. Which ways is the heat travelling?",
    "opts": [
     "Conduction through the pan, then convection in the milk",
     "Radiation only",
@@ -2210,7 +2210,7 @@
     },
     {
      "t": "write",
-     "p": "Zoya says: 'When I open the fridge, the cold comes out.' Say what is really happening.",
+     "p": "Many people say: 'When I open the fridge, the cold comes out.' Say what is really happening.",
      "lines": 4,
      "a": "Heat from the warm kitchen air goes into the fridge, and the cool, heavy air from inside spills out along the floor. There is no cold stuff. Cold is just less heat.",
      "why": "A strong answer says that heat moves from warm to cool, and that cool air sinks because it is heavy.",
@@ -2281,7 +2281,7 @@
     },
     {
      "t": "order",
-     "p": "After 30 minutes in the Sun, which tumbler usually warms most? Put these in order from warmest to coolest.",
+     "p": "Three tumblers of water sit in the Sun for 30 minutes, each in a different wrap. Put the wraps in order, from the tumbler that usually warms most to the one that warms least.",
      "items": [
       "shiny foil wrap",
       "black paper wrap",
@@ -2372,7 +2372,7 @@
     },
     {
      "t": "count",
-     "p": "The Moon's light takes about 1 second to reach us. The Sun's radiation takes about 500 seconds. How many times as long does the Sun's take?",
+     "p": "The Moon's light takes about 1 second to reach us. The Sun's radiation takes about 500 seconds. How many times as long does the Sun's radiation take?",
      "a": "500",
      "why": "500 divided by 1 is 500. So the Sun's radiation takes about 500 times as long to reach us.",
      "outcome": 3
@@ -2394,20 +2394,20 @@
     },
     {
      "t": "perspective",
-     "p": "Dev and Anjali are talking about the freezer.",
+     "p": "Two children are talking about the freezer.",
      "views": [
       {
-       "who": "Dev, aged 9",
+       "who": "The first child",
        "says": "Cold flows out of the freezer when you open it."
       },
       {
-       "who": "Anjali, aged 10",
+       "who": "The second child",
        "says": "There is no cold stuff. Heat flows in, and the heavy cool air spills out."
       }
      ],
-     "ask": "Who do you agree with? Describe a way to test it, such as a thermometer near the floor and one at the top. Then say what Dev has partly right.",
+     "ask": "Who do you agree with? Describe a way to test it, such as a thermometer near the floor and one at the top. Then say what the first child has partly right.",
      "lines": 5,
-     "a": "Anjali is right that heat flows into the cold fridge. Dev is partly right that cool air really does spill out and feels cold. A thermometer near the floor in front of the open door would show the cool air spreading low.",
+     "a": "The second child is right that heat flows into the cold fridge. The first child is partly right: cool air really does spill out, and it feels cold. A thermometer near the floor in front of the open door would show the cool air spreading low.",
      "why": "A strong answer picks a side, gives a test, and says fairly that the cool air does move.",
      "outcome": 7
     },
@@ -2463,7 +2463,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A pond cools in winter. Water is heaviest at 4 degrees, and lighter just above 0 degrees. What follows?",
+     "p": "A pond cools in winter. Water is heaviest at 4 degrees, and lighter just above 0 degrees. What does this mean for the pond?",
      "opts": [
       "The coldest water stays at the top, so the pond freezes from the top down",
       "The coldest water sinks to the bottom, so the pond freezes from the bottom up",
@@ -2477,7 +2477,7 @@
      "t": "mcq",
      "p": "On the space station, fans must keep the air moving all the time. Why?",
      "opts": [
-      "Warm and used air does not rise in weightlessness, so breath would collect around the face",
+      "Warm, breathed-out air does not rise in weightlessness, so breath would collect around the face",
       "The fans are there for decoration",
       "The station is too cold"
      ],
@@ -2547,9 +2547,9 @@
     },
     {
      "t": "count",
-     "p": "In a made-up test, the top of the water in a jug with the ice at the top fell by 12 degrees. In a jug with the ice at the bottom, the top fell by 3 degrees. How many times as far did the first fall?",
+     "p": "In a made-up test, one jug had ice at the top and another had ice at the bottom. The temperature at the top of the water fell by 12 degrees in the first jug and by 3 degrees in the second. How many times as much did it fall in the first jug?",
      "a": "4",
-     "why": "12 divided by 3 is 4. So the top of the first jug fell 4 times as far.",
+     "why": "12 divided by 3 is 4. So the temperature at the top of the first jug fell 4 times as much.",
      "outcome": 5
     },
     {
@@ -2631,7 +2631,7 @@
      "opts": [
       "Carbon dioxide takes in more of the Sun's heat radiation than ordinary air does",
       "Carbon dioxide is a colder gas",
-      "The air in the other jar was too small"
+      "The other jar had too little air in it"
      ],
      "a": 0,
      "why": "Her jars were otherwise the same. The difference suggests that the gas inside changed how much heat was held. This is an early clue to the greenhouse effect.",
@@ -2696,12 +2696,12 @@
  ],
  "open_questions": [
   {
-   "q": "Why is the Sun's outer atmosphere, the corona, hotter than the Sun's surface by hundreds of times?",
+   "q": "Why is the Sun's outer atmosphere, the corona, hundreds of times hotter than the Sun's surface?",
    "why_open": "Heat normally flows from hot to cool, so the corona should be cooler than the surface it sits on. Scientists have several ideas about waves and tiny flares, but none is settled."
   },
   {
    "q": "How much do the slow currents in the Earth's mantle move the continents?",
-   "why_open": "Scientists agree that the mantle convects, but they still argue about how much the currents, and how much the sinking edges of plates, move the surface."
+   "why_open": "Scientists agree that the mantle convects. They still argue about which moves the surface more: the currents, or the sinking edges of plates."
   },
   {
    "q": "Will everything in the universe one day be the same temperature?",
@@ -2777,7 +2777,7 @@
    "why_maths": "Dividing one time by the other tells you how much faster one drop is, and so shows how the temperature changes the speed."
   },
   {
-   "context": "This is about Dark, White and Shiny, where you wrap tumblers in black, white and foil and warm them in the Sun. These are made-up results.",
+   "context": "This is about Dark, White and Shiny, where you wrap tumblers in black paper, white paper and foil and warm them in the Sun. These are made-up results.",
    "problem": "Every tumbler started at 28 degrees. After 30 minutes the black tumbler read 40, the white read 33, the foil read 30 and the shaded one read 29. How many degrees did the Sun add to each wrapped tumbler, once you take away what the shaded one rose?",
    "answer": "Black 11 degrees, white 4 degrees, foil 1 degree.",
    "explain": "The shaded tumbler rose 29 minus 28, which is 1 degree. That much came from the warm day. Black rose 12, so the Sun added 11. White rose 5, so the Sun added 4. Foil rose 2, so the Sun added 1.",
@@ -2803,7 +2803,7 @@
    "why_maths": "Dividing the distance by the speed tells you how long a journey takes, and shows that radiation crosses space very fast but not instantly."
   },
   {
-   "context": "This is about the heat your body gives out, which you felt between your palms in the Roots practice.",
+   "context": "This is about the heat your body gives out. In Hands that give heat, you felt it as warmth between your palms.",
    "problem": "Each person in a hall gives out about 100 watts of heat. A hall holds 40 people. How many watts is that? A room heater gives out 2,000 watts. How many room heaters is the crowd like?",
    "answer": "4,000 watts. It is like 2 room heaters.",
    "explain": "40 times 100 is 4,000 watts. 4,000 divided by 2,000 is 2. So a full hall is like two room heaters, which is why crowded rooms get hot.",
@@ -2812,7 +2812,7 @@
   },
   {
    "context": "This is about the Cool Roof challenge, where you test shoebox houses with different roofs in the Sun. These are made-up results.",
-   "problem": "The air outside is 32 degrees. After 30 minutes, the black-roof box reads 44 degrees, and the white-roof box reads 36 degrees. How many times as many degrees above the outside air was the black box compared with the white box?",
+   "problem": "The air outside is 32 degrees. After 30 minutes, the black-roof box reads 44 degrees, and the white-roof box reads 36 degrees. How many degrees above the outside air is each box? How many times as many degrees is that for the black box as for the white box?",
    "answer": "3 times as many.",
    "explain": "The black box was 44 minus 32, which is 12 degrees above the outside air. The white box was 36 minus 32, which is 4 degrees above. 12 divided by 4 is 3.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
@@ -2820,7 +2820,7 @@
    "why_maths": "Comparing the two rises as a ratio shows how much better the white roof is, in a way that does not depend on how hot the day was."
   },
   {
-   "context": "This is about the sea breeze, which you acted out. These are made-up times.",
+   "context": "This is about the sea breeze, which you acted out in Act Out the Sea Breeze. These are made-up times.",
    "problem": "On a hot day, a sea breeze starts at 11:30 in the morning and dies away at 7:45 in the evening. For how long did it blow?",
    "answer": "8 hours and 15 minutes.",
    "explain": "From 11:30 am to 7:30 pm is 8 hours. From 7:30 to 7:45 is 15 minutes more. So the sea breeze blew for 8 hours and 15 minutes.",
@@ -3035,18 +3035,18 @@
   ]
  },
  "roots": {
-  "context": "We have watched hot and cold drops move opposite ways, and felt warmth from a flame through a gap. Now we ask what these tell us about the world and about ourselves.",
+  "context": "In Colour Currents, a hot drop of red water rose and an ice-cold drop sank in the same glass. In Hands Around a Diya, you felt warmth from a flame across a gap. Now we ask what these tell us about the world and about ourselves.",
   "deep_truth": {
-   "truth": "Heat has no 'up' of its own. In your glass, the hot drop rose and the cold drop sank. Gravity pulls the heavier cold water down, and that pushes the lighter hot water up. In a spacecraft, a candle flame is a ball, because warm air does not rise there.",
-   "habit": "We say 'heat rises' as if rising were a law of heat itself. But rising is what happens when gravity pulls the cooler, heavier fluid down. Take away gravity, and heat stops rising.",
+   "truth": "Heat does not rise by itself. In Colour Currents, the hot drop rose and the ice-cold drop sank in the same glass. Gravity pulls the heavier cold water down, and that pushes the lighter hot water up. In a spacecraft, warm air does not rise, so a candle flame is a ball.",
+   "habit": "We say 'heat rises' as if rising were a law of heat itself. But rising is what happens when gravity pulls the cooler, heavier fluid down. Take away gravity, and the rising stops.",
    "evidence": "In Colour Currents, the same glass sent a hot drop up and an ice-cold drop down. The only difference was which one was heavier than the water around it. On the space station, candle flames are round, and fans must keep the air moving."
   },
   "three": {
    "who_am_i": "You are a warm thing in a cooler room. You give off about as much heat as a 100 watt bulb, and a gentle column of warm air rises from your head all day.",
    "what_is_life": "A black kite, a vulture or an eagle can rise for an hour without a wingbeat, lifted by warm air that the ground gives them. Living beings find the flows of the world and use them.",
-   "what_is_this_world": "The sea breeze, the monsoon, slow loops in the Earth's rock and bubbles on the Sun are all the same rise and fall, at very different sizes."
+   "what_is_this_world": "The sea breeze, the monsoon, slow loops in the Earth's rock and bubbles on the Sun are all the same loop of warm rising and cool sinking, at very different sizes."
   },
-  "thread": "Where everything is the same temperature, nothing flows. Every wind, current, cloud and living body runs because two places differ in temperature. A difference is like a 'two', and the flow is the world trying to join them back into one. The Sun keeps making new differences, so the flowing never stops. Wind, rain, rivers and life are the many that come from one steady difference, kept alive by one star.",
+  "thread": "Where everything is the same temperature, nothing flows. Every wind, current, cloud and living body keeps going because two places are at different temperatures. Heat flows from the warmer place to the cooler one, and that makes the two places more alike. The Sun keeps making new differences, so the flowing never stops. Wind, rain, rivers and life all come from that one steady difference, kept going by one star.",
   "teachings": [
    {
     "source": "Heraclitus, fragment 60 (Diels and Kranz numbering)",

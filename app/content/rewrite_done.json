@@ -275,6 +275,16 @@
   "sci.classification.sorting-living-things.L4",
   "sci.day-night-seasons.day-and-night.L4",
   "sci.ecology.cycles-and-decomposers.L4",
-  "sci.ecology.food-chains.L4"
+  "sci.ecology.food-chains.L4",
+  "sci.ecology.interdependence.L4",
+  "sci.electricity.simple-circuits.L4",
+  "sci.electricity.static-and-charge.L4",
+  "sci.energy.energy-around-us.L4",
+  "sci.energy.heat-moves.L4",
+  "sci.energy.heat.L4",
+  "sci.energy.stored-energy.L4",
+  "sci.environment.conservation.L4",
+  "sci.environment.pollution.L4",
+  "sci.food.balanced-diet.L4"
  ]
 }

@@ -3,12 +3,12 @@
  "title": "Energy by the numbers: how much there is, and how fast it comes",
  "level": 4,
  "summary": {
-  "text": "One chapati holds about as much energy as seven phone batteries, yet eating one does not charge you up in a minute. Your body lets the energy out slowly, at about the pace of a bright bulb. Your child measures their own energy on a staircase, counts the blinks of the home electricity meter, and learns two ideas that are easy to mix up. Joules say how much energy there is. Watts say how fast it moves. They find why a small fan left on all night can use more energy than a big kettle, and where the energy in the Sun, in food and in electricity is counted in the same unit.",
+  "text": "One chapati holds about as much energy as seven phone batteries, yet eating one does not charge you up in a minute. Your body lets the energy out slowly, at about the pace of a bright bulb. Your child measures their own energy on a staircase, counts the blinks of the home electricity meter, and learns two ideas that are easy to mix up. Joules say how much energy there is. Watts say how fast it moves. They find out why a small fan left on all night can use more energy than a big kettle, and how the energy in sunlight, in food and in electricity can all be counted in the same unit.",
   "art": "A steel plate with one chapati on it beside a phone on charge, with a thin line of golden numbers joining them, and a ceiling fan turning above."
  },
  "intro": {
   "hook": "Switch on a ceiling fan and a kettle. The kettle is much more powerful, yet the fan can cost you more in a night. How can a gentle fan use more than a fierce kettle?",
-  "text": "The answer hides in two different questions. How much energy is there? And how fast does it move? In this unit you climb a staircase against a stopwatch, and you turn your own climb into numbers. You watch the little light on the electricity meter blink as appliances switch on. Then you find out how a chapati, a battery and a sunny window can all be counted in one unit.",
+  "text": "To answer that, you need to ask two different questions. How much energy is there? And how fast does it move? In this unit you climb a staircase against a stopwatch, and you turn your own climb into numbers. You watch the little light on the electricity meter blink as appliances switch on. Then you find out how a chapati, a battery and a sunny window can all be counted in one unit.",
   "art": "A child at the bottom of a staircase holding a phone stopwatch, while a parent waits at the top, and a ceiling fan and an electric kettle are drawn small in the corner."
  },
  "outcomes": [
@@ -18,7 +18,7 @@
   "I can read a rating plate and an electricity meter, and work out how much energy an appliance uses in a given time.",
   "I can explain why a small-watt appliance left on for hours can use more energy than a big-watt appliance used for minutes.",
   "I can explain that energy is never used up, but spreads out, and name the useful and the spread-out energy in a bulb or a fan.",
-  "I can tell how James Joule showed that heat and movement are the same thing counted in one unit."
+  "I can tell how James Joule showed that movement can turn into heat, so both can be counted in the same unit."
  ],
  "cards_mins": 20,
  "terms": [
@@ -103,7 +103,7 @@
   {
    "term": "Conservation of energy",
    "meaning": "The rule that energy is never made or destroyed. It only moves or changes form. The total stays the same.",
-   "example": "A dropped ball's lost height turns into movement, then sound and warmth, and the total is the same.",
+   "example": "When a ball is dropped, the stored energy it had from being held up high turns into movement, then into sound and warmth. The total stays the same.",
    "art": "A ball falling in three pictures, with a bar of energy changing colour but staying the same length."
   }
  ],
@@ -124,10 +124,10 @@
   {
    "concept": "The joule: one unit for every form",
    "status": "defined",
-   "description": "Movement, heat, light and sound feel like different things, but they can be counted with the same unit. That is what makes energy useful. You can say how many joules a falling stone has, how many joules a cup of hot tea gave to the air, and how many joules a chapati holds. Lifting a 1 kilogram bottle by 1 metre takes about 10 joules, because a bottle ten times heavier than the apple needs ten times as much energy. A kilojoule is 1,000 joules. Food labels also use kilocalories. One kilocalorie is about 4.2 kilojoules.",
+   "description": "Movement, heat, light and sound feel like different things, but they can be counted with the same unit. That is what makes the idea of energy useful. You can say how many joules a falling stone has, how many joules a cup of hot tea gave to the air, and how many joules a chapati holds. Lifting a 100 gram apple by 1 metre takes about 1 joule. Lifting a 1 kilogram bottle by 1 metre takes about 10 joules, because the bottle is ten times heavier than the apple and needs ten times as much energy. A kilojoule is 1,000 joules. Food labels also use kilocalories. One kilocalorie is about 4.2 kilojoules.",
    "examples": [
     "Lifting a 1 litre bottle of water by 1 metre takes about 10 joules.",
-    "One kilojoule is the same as 100 such lifts.",
+    "One kilojoule is the energy of lifting a 1 litre bottle of water by 1 metre, 100 times.",
     "A chapati of 100 kilocalories is about 420 kilojoules."
    ],
    "art": "A bottle being lifted one metre on a ruler, with 10 J written, and a chapati with 420 kJ written.",
@@ -145,7 +145,7 @@
    ],
    "art": "A ladder standing against a wall with rungs labelled with an apple, a bottle, a cell, a phone, a chapati, an electricity unit and a petrol can.",
    "perspectives": [],
-   "definition": "Everyday things hold very different amounts of energy, from one joule to millions of joules. Each rung of a ladder of examples is about ten times the one below."
+   "definition": "Everyday things hold very different amounts of energy, from one joule to millions of joules. If you line them up like the rungs of a ladder, each rung is about ten times the one below."
   },
   {
    "concept": "Power: how fast energy moves",
@@ -154,7 +154,7 @@
    "examples": [
     "A ceiling fan of 60 watts takes 60 joules each second.",
     "A mixer grinder of 500 watts takes 500 joules each second.",
-    "You climbing the stairs fast might make 100 to 200 watts for a few seconds."
+    "When you climb the stairs fast, you might make 100 to 200 watts for a few seconds."
    ],
    "art": "A bucket filling under a drip and under a gushing tap, with the words amount and rate.",
    "perspectives": [],
@@ -163,7 +163,7 @@
   {
    "concept": "Energy = power × time",
    "status": "defined",
-   "description": "A 60 watt fan running for 10 hours uses 60 times 10, which is 600 watt-hours. A 1,500 watt kettle running for 4 minutes uses 1,500 times 4 over 60, which is 100 watt-hours. So the gentle fan uses six times as much energy as the fierce kettle. Time matters as much as power. Electricity bills count in kilowatt-hours, called units. One kilowatt-hour is a 1,000 watt appliance running for one hour, or a 100 watt one running for ten hours. To find the units, multiply watts by hours and divide by 1,000.",
+   "description": "A 60 watt fan running for 10 hours uses 60 times 10, which is 600 watt-hours. A 1,500 watt kettle running for 4 minutes runs for one fifteenth of an hour, so it uses 1,500 divided by 15, which is 100 watt-hours. So the gentle fan uses six times as much energy as the fierce kettle. Time matters as much as power. Electricity bills count in kilowatt-hours, called units. One kilowatt-hour is a 1,000 watt appliance running for one hour, or a 100 watt one running for ten hours. To find the units, multiply watts by hours and divide by 1,000.",
    "examples": [
     "A 9 watt LED bulb on for 10 hours uses 90 watt-hours.",
     "A 2,000 watt geyser on for 30 minutes uses 1,000 watt-hours, which is one unit.",
@@ -176,7 +176,7 @@
   {
    "concept": "You are a machine of about 100 watts",
    "status": "defined",
-   "description": "A day of eating gives a grown-up around 1,800 to 2,200 kilocalories. That is roughly 8 million joules. Spread over a day of 86,400 seconds, it comes to about 90 to 100 joules every second. Most of it becomes warmth, which is why a full room feels warm. When you climb stairs, your muscles turn only about one quarter of the food energy they use into lifting you. The other three quarters become heat. So when you lift yourself at 100 watts, your body is using about 400 watts for those seconds. Your body uses its energy slowly and steadily, in tiny steps in every cell.",
+   "description": "A day of eating gives a grown-up around 1,800 to 2,200 kilocalories. That is roughly 8 million joules. Spread over a day of 86,400 seconds, it comes to about 90 to 100 joules every second. Most of it becomes warmth, which is why a room full of people feels warm. When you climb stairs, your muscles turn only about one quarter of the food energy they use into lifting you. The other three quarters become heat. So when you lift yourself at 100 watts, your body is using about 400 watts for those seconds. Your body uses its energy slowly and steadily, in tiny steps in every cell.",
    "examples": [
     "A person sitting in a closed room warms it like an old 100 watt bulb.",
     "Climbing stairs fast may use 400 watts of food energy for a few seconds.",
@@ -213,13 +213,13 @@
    "definition": "Energy is never made and never destroyed. It moves from one place to another and changes form, and the total stays the same."
   },
   {
-   "concept": "The Sun sends the energy we count",
+   "concept": "Almost all the energy we use comes from the Sun",
    "status": "defined",
-   "description": "A patch of sunny floor one metre by one metre receives about as much power as a 1,000 watt heater, though the sun feels gentler because the light is spread out and the heat spreads away. In one hour, the sunlight that reaches the Earth carries roughly as much energy as all the people on Earth use in a whole year. Food, wind, rain, firewood, coal and petrol all hold energy that came from sunlight, either lately or long ago. We count their energy in joules, so we can compare them with the Sun's light on the same ladder.",
+   "description": "A patch of sunny floor one metre by one metre receives about as much power as a 1,000 watt heater, though the sun feels gentler because the light is spread out and the heat spreads away. In one hour, the sunlight that reaches the Earth carries roughly as much energy as all the people on Earth use in a whole year. Food, wind, rain, firewood, coal and petrol all hold energy that came from sunlight, either lately or long ago. We count their energy in joules, so we can compare them with the Sun's light using the same unit.",
    "examples": [
     "A solar panel of one square metre may give about 150 to 200 watts of electricity at noon.",
     "Wind is moving air that the Sun warmed unevenly.",
-    "Coal and petrol hold sunlight from plants and sea creatures that lived millions of years ago."
+    "Coal and petrol hold energy that came from sunlight, through plants and sea creatures that lived millions of years ago."
    ],
    "art": "The Sun with long rays reaching a flat roof with a square metre marked on it and the number 1,000 W.",
    "perspectives": [],
@@ -231,7 +231,7 @@
    "description": "The physicist Richard Feynman told a story about a child with 28 blocks. Each day the child's mother counts them and finds 28, even though some are hidden in a box, in a toy, or under the rug. She finds them by working out a sum. Feynman said energy is like that. It is a number that stays the same, and we find it by adding up all the forms. He wrote that we do not know what energy is. Some physicists say energy is only that number, a way of keeping the books. Others say it is real stuff, held in fields and in matter, and that Einstein's equation E = mc² shows mass is energy too. Scientists still argue about this.",
    "examples": [
     "Counting energy always works, in toys, stars and cells.",
-    "Einstein's equation E = mc² says a mass m holds energy c² times m.",
+    "Einstein's equation E = mc² says that mass is a store of energy, and that even a very small mass holds a huge amount of energy.",
     "Nobody knows why the total of energy never changes, though one idea ties it to the laws of nature working the same on every day."
    ],
    "art": "A child looking at 28 blocks, some in a box and some under a rug, with a notebook that says 28.",
@@ -270,7 +270,7 @@
    "evidence": "Bulbs, fans, phone chargers and car engines all get warm when they work."
   },
   {
-   "text": "Nearly all the energy we use traces back to sunlight, except for nuclear and some heat from deep in the Earth.",
+   "text": "Nearly all the energy we use traces back to sunlight. The exceptions are nuclear power and some heat from deep in the Earth.",
    "evidence": "Food, wind, rain, coal, oil and gas can be followed back to the Sun. Nuclear power and geothermal heat can not."
   }
  ],
@@ -299,7 +299,7 @@
   {
    "claim": "Energy is a kind of stuff that flows from one thing to another.",
    "who": "Scientists before the 1840s thought heat was an invisible fluid called caloric.",
-   "for": "Heat does seem to flow from a hot cup into cold hands, and it is kept when it moves.",
+   "for": "Heat does seem to flow from a hot cup into cold hands, and the amount seems to stay the same as it moves.",
    "against": "Joule showed that heat can be made out of movement, so heat is not a fluid. Many physicists today say energy is a number we keep, not a substance. Others say it is a real property of matter and fields.",
    "status": "debated"
   },
@@ -325,7 +325,7 @@
   {
    "q": "Is energy a thing, or a number we keep? Which would you say, and what would change your mind?",
    "kind": "deep",
-   "hint": "Think about Feynman's 28 blocks, and about what you could count in the stair test."
+   "hint": "Think about Feynman's 28 blocks, and about what you could count in the Stair Power experiment."
   },
   {
    "q": "Your body lets out food energy at about 100 watts. Why is that good, and what would happen if it came out all at once?",
@@ -348,7 +348,7 @@
    "hint": "Think about catching it, storing it, and sharing it with plants and every other living being."
   },
   {
-   "q": "A bee, a bat and you each sense a different slice of the light and sound around. Is the energy in the light the same, or does each of you meet a different energy?",
+   "q": "A bee, a bat and you each sense a different part of the light and sound around you. Is the energy in the light the same for all three, or does each of you get a different energy?",
    "kind": "deep",
    "hint": "Think about what is in the light itself, and what each body can catch."
   }
@@ -366,7 +366,7 @@
    "'The battery has three thousand watt-hours,' said Mr. Pillai. 'That should last all night. I will switch on the lift, so nobody has to climb. And I will run the water pump for an hour, so the tanks are full by morning.'",
    "Mini read the number on the box. 'Three thousand watt-hours,' she said. 'Uncle, what is a watt-hour?'",
    "Mr. Pillai looked surprised. 'It is how much energy the battery holds.'",
-   "'My teacher says a watt is one joule every second,' said Mini. 'So a watt-hour must be a thing that uses one watt for one hour. If you run a thing that uses ten watts, the battery gives you ten watt-hours every hour. Is that right?'",
+   "'My teacher says a watt is one joule every second,' said Mini. 'So a watt-hour must be the energy a thing uses when it takes one watt for one hour. If you run a thing that takes ten watts, the battery gives it ten watt-hours every hour. Is that right?'",
    "'Yes,' said Mr. Pillai slowly. 'That is right.'",
    "'Then we can work out how long it lasts. We divide.' She took a pencil from behind her ear. She always carried one. 'But first we must know what we need. Who needs the power tonight?'",
    "A thin voice came from the stairs. It was Annamma Aunty from the third floor. She leaned on the rail, with her daughter holding her arm. 'My machine,' she said. 'The breathing machine. It needs power all night. The doctor says I must not be without it.'",
@@ -382,7 +382,7 @@
    "'The fan in my flat is only sixty watts,' said a neighbour. 'I will be too hot.'",
    "'Sixty watts for eight hours is four hundred and eighty,' said Mini. 'That is also too much. But a wet cloth and a window is free.' She smiled. 'And here is the surprise. Your little fan uses more than the big kettle, if you leave it on all night. It is not how strong the thing is. It is how strong, and for how long.'",
    "They switched off the lift. They switched off the pump. They switched on only the stair lights and Annamma Aunty's machine. In the dark corridor, the nine-watt bulbs glowed a soft yellow, and from the third floor came the quiet hum of the machine.",
-   "Mini sat on the stairs with Mr. Pillai and checked the number on the grey box every hour. At midnight, it said 2,250. At two in the morning, 1,500. 'Right on the line,' she said. 'Three hundred and seventy-two watt-hours an hour was our plan. We are using the plan.'",
+   "Mini sat on the stairs with Mr. Pillai and checked the number on the grey box every hour. At midnight, it said 2,250. At two in the morning, 1,500. 'Just as we planned,' she said. 'Our plan was three hundred and seventy-two watt-hours every hour. We are keeping to the plan.'",
    "At a quarter past five, as the sky turned grey, the lights came back. The fans started turning. The pump started with a growl. The grey box still said 300 watt-hours, just what Mini's plan had promised.",
    "Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to the building meeting, Mini. I want you to explain this to everyone.'",
    "'I will bring my pencil,' said Mini."
@@ -580,7 +580,7 @@
      "do": "Turn over one surprise card. Everyone follows it. Change your plan if it no longer fits. Add up your points and say who won.",
      "say": "A surprise is coming. Turn it over and follow it. Does your plan still fit? What will you give up?",
      "kid": "Turn a surprise card. Follow it. Does your plan still fit?",
-     "parent": "A good plan is one that can survive a surprise. Ask your child to say what they gave up and why. The idea after the game: the battery holds a fixed amount, and the hours it lasts depend on the watts you run.",
+     "parent": "A good plan is one that can survive a surprise. Ask your child to say what they gave up and why. After the game, say the idea: the battery holds a fixed amount, and the hours it lasts depend on the watts you run.",
      "context": "In this step, you face a surprise and add up your points."
     }
    ]
@@ -676,7 +676,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Measure the height of one step in centimetres. Count the steps in the flight. Multiply them to find the climb in metres. Find your child's mass, or use 25 kilograms for a young child and 30 for an older one.",
+     "do": "Measure the height of one step in centimetres. Count the steps in the flight. Multiply the two numbers, then divide by 100, to find the height of the climb in metres. Find your child's mass, or use 25 kilograms for a young child and 30 for an older one.",
      "say": "First we need three numbers. How high is one step? How many steps are there? How heavy are you? We will use them to find the joules of every climb.",
      "kid": "Measure one step. Count the steps. Find your mass in kilograms.",
      "parent": "A typical step is 15 to 18 centimetres. Twenty steps of 17 centimetres is 3.4 metres. The energy to lift your body is the mass in kilograms, times 10, times the climb in metres. For 30 kilograms and 3.4 metres, that is 30 times 10 times 3.4, which is 1,020 joules. You work this out once. If there are no stairs, use one sturdy step about 20 centimetres high. Count each step up as 0.2 metres. Do 30 step-ups for one climb of 6 metres.",
@@ -696,7 +696,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "A grown-up stands at the top with the stopwatch. Your child climbs slowly, then rests two minutes. Then a steady climb, then a fast walk. Repeat all three. Write each time in seconds.",
+     "do": "A grown-up stands at the top with the stopwatch. Your child climbs slowly, then rests for two minutes. Then your child climbs at a steady pace, rests, and climbs at a fast walk. Repeat all three climbs. Write each time in seconds.",
      "say": "Walk up with one hand on the rail. Start the stopwatch on the first step. Stop it on the last. Never run. Rest for two minutes between climbs.",
      "kid": "Hold the rail. Walk up at the speed we say. Rest two minutes each time.",
      "adult": true,
@@ -710,7 +710,7 @@
        ]
       }
      ],
-     "parent": "A slow climb of 20 steps may take about 30 seconds. A steady climb may take 20 seconds. A fast walk may take 12 seconds. These are typical, and yours will differ. Keep the three speeds clearly different. Stand beside your child on the first climb so they are safe. Number the six climbs one to six in the table. With 2 to 4 children, take turns in four jobs: climber, timer, writer, and rail watcher. Each child climbs each speed once, and the others time. Their rests are the time spent timing a sibling. Each child uses their own mass, so compare watts, not who is stronger. Do not race, and never let a child go faster than a quick walk.",
+     "parent": "A slow climb of 20 steps may take about 30 seconds. A steady climb may take 20 seconds. A fast walk may take 12 seconds. These are typical, and yours will differ. Keep the three speeds clearly different. Stand beside your child on the first climb so they are safe. Number the six climbs one to six in the table. With 2 to 4 children, take turns in four jobs: climber, timer, writer, and rail watcher. Each child climbs each speed once, and the others time. Each child rests while timing a sibling. Each child uses their own mass, so compare watts, not who is stronger. Do not race, and never let a child go faster than a quick walk.",
      "context": "In this step, you climb the stairs six times and write down the time of each climb."
     },
     {
@@ -837,7 +837,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Find the meter. Ask the building staff if it is in a shared box. Read the number that says imp/kWh. Divide 3,600,000 by that number to find the joules in each blink.",
+     "do": "Find the meter. If it is in a shared box, ask the building staff to show you. Read the number printed next to imp/kWh. It says how many blinks make one unit. Divide 3,600,000 by that number to find the joules in each blink.",
      "say": "Each blink means the meter has counted a fixed amount of energy. The number on the meter says how many blinks make one unit. A unit is 3,600,000 joules. Divide to find the joules in one blink.",
      "kid": "Find the blink number. Divide 3,600,000 by it. That is the joules in one blink.",
      "adult": true,
@@ -881,7 +881,7 @@
      "say": "Now switch on the fan. Count the blinks for two minutes. Write it down. Then do the medium one. A grown-up will do the heating one, and time ten blinks.",
      "kid": "Switch on one appliance. Count the blinks. Write the number. Switch it off.",
      "adult": true,
-     "parent": "Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts from step 3. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds. Be honest about the size of the error: one blink is 1,125 joules, so over 120 seconds a single blink is about 9 watts. For a weak result such as a fan, count for 300 seconds if you have time. A heating appliance such as an iron switches its heater on and off, so its average may be below its rating plate. With 2 to 4 children, one counts blinks aloud, one times, one writes, and the grown-up works the appliance. Swap jobs for each appliance.",
+     "parent": "Watts for each row equals blinks times the joules per blink, divided by the seconds. Then take away the base watts, which you measured with nothing extra switched on. Example at 3,200 blinks per unit: the base count was 11 blinks in 120 seconds, which is 12,375 joules, or about 103 watts. With the fan on, the count was 18 blinks, which is 20,250 joules, or about 169 watts. Take away the base and the fan is about 66 watts. A 1,000 watt iron blinks about once a second at 3,200 per unit. Let the grown-up time ten blinks, which takes about 11 seconds. Be honest about the size of the error: one blink is 1,125 joules, so over 120 seconds a single blink is about 9 watts. For an appliance with few watts, such as a fan, count for 300 seconds if you have time. A heating appliance such as an iron switches its heater on and off, so its average may be below its rating plate. With 2 to 4 children, one counts blinks aloud, one times, one writes, and the grown-up works the appliance. Swap jobs for each appliance.",
      "check": {
       "t": "mcq",
       "q": "At 3,200 blinks per unit, switching on a fan adds 7 blinks in 120 seconds to the base count. Each blink is 1,125 joules. About how many watts is that?",
@@ -901,8 +901,8 @@
      "do": "Find the rating plate on each appliance. Compare it with your watts. Then ask your child to say what they thought, what they saw, and why.",
      "say": "Does your number match the rating plate? Tell me what you thought, what you saw, and why you think it came out that way.",
      "kid": "Compare with the rating plate. Say what you thought and what you saw.",
-     "parent": "The numbers will not match exactly. The plate gives the most the appliance uses. A fan on a low speed uses less. A light with a dimmer uses less. If a result is far off, count again. The idea after they have spoken: the meter counts energy for the whole home, and a blink is a fixed amount of energy. Faster blinks mean more watts. One LED bulb of 9 watts adds less than one blink in two minutes, so the meter cannot see it. That is a result too: small loads hide in the blinks of big ones.",
-     "think": "If the meter blinks the same number of times in a day, does that mean the same energy was used?",
+     "parent": "The numbers will not match exactly. The plate gives the most the appliance uses. A fan on a low speed uses less. A light with a dimmer uses less. If a result is far off, count again. After your child has spoken, say the idea: the meter counts energy for the whole home, and a blink is a fixed amount of energy. Faster blinks mean more watts. One LED bulb of 9 watts adds less than one blink in two minutes, so the meter cannot show it. That is a result too: a small appliance is hard to see among the blinks of big ones.",
+     "think": "If the meter blinks the same number of times on two different days, was the same energy used on both days?",
      "context": "In this step, you compare your measured watts with the rating plate and say what the blinks showed."
     }
    ]
@@ -966,10 +966,10 @@
      "mins": 4,
      "do": "Hold the apple. Lift it up from your hip to above your head, about one metre. Say that this small lift is about 1 joule. Ask what a bottle ten times heavier would need.",
      "say": "This apple is about a tenth of a kilogram. Lifting it one metre takes about 1 joule. What do you think lifting the bottle one metre will take?",
-     "kid": "Lift the apple 1 metre. That is about 1 joule. What for the bottle?",
+     "kid": "Lift the apple 1 metre. That is about 1 joule. How many joules for the bottle?",
      "ask": [
       {
-       "q": "How many apples is the bottle?",
+       "q": "How many apples weigh the same as the bottle?",
        "good": [
         "Ten apples.",
         "About ten.",
@@ -1006,7 +1006,7 @@
        ]
       }
      ],
-     "parent": "The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this is if none of the chapati's energy were wasted. Your muscles use about four times what the lift needs, so in real life about 13,000 lifts. A chapati could keep you lifting for hours. The 420,000 joules is typical for one chapati of about 100 kilocalories, and real chapatis vary.",
+     "parent": "The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this number is only right if none of the chapati's energy is wasted. Your muscles use about four times what the lift needs, so in real life it is about 13,000 lifts. A chapati could keep you lifting for hours. The 420,000 joules is typical for one chapati of about 100 kilocalories, and real chapatis vary.",
      "check": {
       "t": "mcq",
       "q": "A chapati holds about 420,000 joules. Lifting the bottle once takes about 10 joules. About how many lifts is that?",
@@ -1016,7 +1016,7 @@
        "About 4,200,000 lifts"
       ],
       "a": 0,
-      "why": "420,000 divided by 10 is 42,000. If you picked 420, you took away three zeros too many. The chapati holds a very large number of lifts."
+      "why": "420,000 divided by 10 is 42,000. If you picked 420, you took away three zeros instead of one. The chapati holds a very large number of lifts."
      },
      "context": "In this step, you work out how many lifts a chapati holds. You guess first."
     }
@@ -1105,7 +1105,7 @@
      "do": "For each appliance, guess the hours it runs in a day. Multiply watts by hours. Put the answers in order from most to least. Compare with the first guess.",
      "say": "Now guess the hours each one runs in a day. Multiply watts by hours. Which one is biggest? Is it the one you guessed?",
      "kid": "Guess the hours. Multiply watts by hours. Which is biggest?",
-     "parent": "A geyser of 2,000 watts for half an hour is 1,000 watt-hours. A fan of 60 watts for 12 hours is 720. A fridge of 150 watts running half the time over 24 hours is 1,800. Often the fridge or the air conditioner is the biggest. Watch for the child who finds the quiet fridge beats the loud mixer.",
+     "parent": "A geyser of 2,000 watts for half an hour is 1,000 watt-hours. A fan of 60 watts for 12 hours is 720. A fridge of 150 watts running half the time over 24 hours is 1,800. Often the fridge or the air conditioner is the biggest. Your child may be surprised to find that the quiet fridge uses more than the loud mixer.",
      "check": {
       "t": "mcq",
       "q": "A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for 15 minutes. Which uses more energy?",
@@ -1210,9 +1210,9 @@
      "id": "s3",
      "mins": 4,
      "do": "Divide 60 by the seconds to get litres a minute. Do it for both. Say that watts work like litres a minute, and joules like litres. Then predict: how long would a 20 litre bucket take from the trickle, and from the full tap?",
-     "say": "Sixty seconds divided by the seconds it took gives litres in one minute. Do it for the trickle and the full tap. Joules are like the litres. Watts are like litres a minute.",
+     "say": "Divide 60 by the seconds it took. That gives the litres in one minute. Do it for the trickle and the full tap. Joules are like the litres. Watts are like litres a minute.",
      "kid": "Divide 60 by your seconds. That is litres a minute.",
-     "parent": "A 5 second fill is 12 litres a minute. A 100 second fill is 0.6 litres a minute. The same single litre sits behind both numbers. In the same way, 3,600 joules could be 1 watt for an hour, or 3,600 watts for one second. At 0.6 litres a minute, a 20 litre bucket would take over 30 minutes. At 12 litres a minute it takes under 2 minutes. Fill the bucket from the full tap to check the second one. This is the same idea as an appliance: the power sets how fast the energy is used.",
+     "parent": "A 5 second fill is 12 litres a minute. A 100 second fill is 0.6 litres a minute. Both times, the amount was the same one litre. In the same way, 3,600 joules could be 1 watt for an hour, or 3,600 watts for one second. At 0.6 litres a minute, a 20 litre bucket would take over 30 minutes. At 12 litres a minute it takes under 2 minutes. Fill the bucket from the full tap to check the second prediction. This is the same idea as an appliance: the power sets how fast the energy is used.",
      "check": {
       "t": "mcq",
       "q": "A tap fills a one litre bottle in 5 seconds. How many litres a minute is that?",
@@ -1251,7 +1251,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Predict, feel each thing with the back of the hand, rank them, and say where the warmth comes from."
+     "what": "Guess which thing will feel warmest. Feel each thing with the back of your hand, put them in order, and say where the warmth comes from."
     }
    ],
    "record": "List the four things from warmest to coolest, and write where the warm energy came from. Write each warmth score from 0 to 5.",
@@ -1317,7 +1317,7 @@
        "The charger makes energy"
       ],
       "a": 0,
-      "why": "Every machine turns some energy into heat, so its energy is not all useful. A charger that is a little warm is normal. If you picked the second one, a charger is broken only if it gets very hot or smells."
+      "why": "Every machine turns some of its energy into heat, so not all of the energy does the job. A charger that is a little warm is normal. It is broken only if it gets very hot or smells."
      },
      "context": "In this step, you say where the warmth comes from and where it goes."
     }
@@ -1424,7 +1424,7 @@
     {
      "id": "p1s3",
      "mins": 5,
-     "do": "On day 1, if your meter shows total units (kWh) at a button or screen, write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.",
+     "do": "On day 1, if your meter shows the total units (kWh) on its screen or when you press a button, write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.",
      "say": "Let us check the sum on another day. Did we use about the same units today? Why might it change?",
      "kid": "Check one more day. Did we use the same?",
      "parent": "Meters in many flats are out of reach, and some prepaid meters show units only in an app. If you cannot read it, skip this step and use the bill's number. Days with a geyser, a guest or an air conditioner use more.",
@@ -1675,7 +1675,7 @@
   },
   {
    "t": "mcq",
-   "p": "Churning water with a falling weight warmed the water by the same amount every time. What did this show?",
+   "p": "James Joule let a falling weight turn a paddle wheel in water. The same fall warmed the water by the same amount every time. What did this show?",
    "opts": [
     "Movement can turn into heat at a fixed rate, so heat is not just a fluid that flows",
     "Heat is a fluid that is poured into water",
@@ -1878,7 +1878,7 @@
     },
     {
      "t": "count",
-     "p": "A child of 30 kilograms lifts herself up 3 metres. Lifting 1 kilogram by 1 metre takes about 10 joules. How many joules does the climb take?",
+     "p": "A child of 30 kilograms climbs up 3 metres. Lifting 1 kilogram by 1 metre takes about 10 joules. How many joules does the climb take?",
      "a": "900",
      "why": "30 times 10 times 3 is 900 joules. Mass, the 10 joules for every kilogram and metre, and the height all multiply.",
      "outcome": 2
@@ -1940,14 +1940,14 @@
     },
     {
      "t": "mcq",
-     "p": "Asha and Bala have the same mass and climb the same stairs. Asha takes 20 seconds and Bala takes 10 seconds. Which is true?",
+     "p": "Two children have the same mass and climb the same stairs. The first child takes 20 seconds and the second child takes 10 seconds. Which is true?",
      "opts": [
-      "Both used the same joules, and Bala made twice the watts",
-      "Bala used twice the joules and the same watts",
-      "Asha made twice the watts"
+      "Both used the same joules, and the second child made twice the watts",
+      "The second child used twice the joules and the same watts",
+      "The first child made twice the watts"
      ],
      "a": 0,
-     "why": "The climb is the same height, so the joules are the same. Bala did it in half the time, so his watts are twice as big.",
+     "why": "The climb is the same height, so the joules are the same. The second child did it in half the time, so that child's watts are twice as big.",
      "outcome": 2
     },
     {
@@ -1988,7 +1988,7 @@
       "About 540"
      ],
      "a": 0,
-     "why": "6 times 9 is 54. Six is the units and not the chapatis. 540 means a zero was added too many.",
+     "why": "6 times 9 is 54. If you picked 6, that is the units, not the chapatis. If you picked 540, you added one zero too many.",
      "outcome": 3
     },
     {
@@ -2041,14 +2041,14 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya and Farhan are talking about a fan of 30 watts that runs all night.",
+     "p": "Two children are talking about a fan of 30 watts that runs all night.",
      "views": [
       {
-       "who": "Kavya, a girl in Class 4 (an imagined view)",
+       "who": "One child (an imagined view)",
        "says": "It is only 30 watts. It costs almost nothing, so I will leave it on."
       },
       {
-       "who": "Farhan, a boy in Class 4 (an imagined view)",
+       "who": "Another child (an imagined view)",
        "says": "Small watts add up over many hours. I will switch it off when nobody is in the room."
       }
      ],
@@ -2073,7 +2073,7 @@
       "It went back to the Sun"
      ],
      "a": 0,
-     "why": "Energy is never destroyed. Friction and the sound of the roll turned the movement into warmth and sound that spread out.",
+     "why": "Energy is never destroyed. Friction turned the movement into warmth and sound, and they spread out.",
      "outcome": 5
     },
     {
@@ -2122,7 +2122,7 @@
     },
     {
      "t": "count",
-     "p": "The 460 watt appliance runs for 5 hours. How many units of electricity is that?",
+     "p": "An appliance of 460 watts runs for 5 hours. How many units of electricity is that?",
      "a": "2.3",
      "why": "460 times 5 is 2,300 watt-hours. Divided by 1,000 that is 2.3 units.",
      "outcome": 3
@@ -2156,14 +2156,14 @@
     },
     {
      "t": "perspective",
-     "p": "Selvi and Imran are deciding whether to buy an LED bulb that costs more now but uses less energy.",
+     "p": "Two children are deciding whether to buy an LED bulb that costs more now but uses less energy.",
      "views": [
       {
-       "who": "Selvi, a girl in Class 4 (an imagined view)",
+       "who": "One child (an imagined view)",
        "says": "Buy it. It uses less energy every night, so it saves money over a year."
       },
       {
-       "who": "Imran, a boy in Class 4 (an imagined view)",
+       "who": "Another child (an imagined view)",
        "says": "Do not buy it. It costs more now, and our old bulb still works."
       }
      ],
@@ -2200,7 +2200,7 @@
      "t": "odd",
      "p": "Which is the odd one out, and why? Kettle, iron, geyser, LED bulb.",
      "a": "The LED bulb, because its job is to give light. The other three are made to turn electrical energy into heat.",
-     "why": "Heat is the useful energy for a kettle, an iron and a geyser. For an LED bulb, light is the useful energy and heat is spread out.",
+     "why": "Heat is the useful energy for a kettle, an iron and a geyser. For an LED bulb, light is the useful energy and heat is the spread-out energy.",
      "outcome": 5
     },
     {
@@ -2212,7 +2212,7 @@
     },
     {
      "t": "count",
-     "p": "The panel gives 400 watts for 5 sunny hours. How many units is that?",
+     "p": "A solar panel gives 400 watts for 5 sunny hours. How many units is that?",
      "a": "2",
      "why": "400 times 5 is 2,000 watt-hours. Divided by 1,000 that is 2 units.",
      "outcome": 3
@@ -2259,7 +2259,7 @@
  ],
  "applications": [
   "Reading the rating plate and the meter to find out which appliances use the most electricity.",
-  "Choosing LED bulbs and star-rated appliances that give the same job for fewer watts.",
+  "Choosing LED bulbs and star-rated appliances that do the same job with fewer watts.",
   "Sizing a home inverter battery, by dividing its watt-hours by the watts of what you want to run.",
   "Planning a phone's battery life: a bigger battery in watt-hours lasts longer at the same watts.",
   "Working out how long a solar panel takes to fill a battery.",
@@ -2289,7 +2289,7 @@
    "art": "A flat roof with a solar water heater with glass panels and a tank, in bright sun."
   },
   {
-   "text": "A phone charger that feels warm, with the energy it did not use to charge.",
+   "text": "A phone charger that feels warm. The warmth is the energy that did not go into charging the phone.",
    "art": "A phone charger plugged in at a wall socket with faint warm waves rising from it."
   }
  ],
@@ -2374,7 +2374,7 @@
    "why_maths": "Multiplying mass, height and 10 turns a climb into a number of joules, so you can compare it with other things."
   },
   {
-   "problem": "The climb takes 918 joules. It took 9 seconds. How many watts did the child make?",
+   "problem": "A child's climb up the stairs takes 918 joules and 9 seconds. How many watts did the child make?",
    "answer": "102 watts.",
    "explain": "Watts are joules divided by seconds. 918 divided by 9 is 102. So she made 102 watts for those 9 seconds.",
    "math_unit": "math.division.division-facts.L4",
@@ -2433,7 +2433,7 @@
    "why_maths": "Energy numbers get very big. Changing to kilojoules makes them smaller and easier to compare with a chapati's 420."
   },
   {
-   "problem": "Imagine, for this question only, that an LED bulb turns 20 of every 100 joules into light, and a filament bulb turns 4 of every 100. What percent of its energy does each turn into light? How many times better is the LED?",
+   "problem": "For this question only, suppose that an LED bulb turns 20 of every 100 joules into light, and a filament bulb turns 4 of every 100. What percent of its energy does each turn into light? How many times better is the LED?",
    "answer": "20 percent and 4 percent. The LED is 5 times better.",
    "explain": "20 out of 100 is 20 percent. 4 out of 100 is 4 percent. 20 divided by 4 is 5.",
    "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -2629,14 +2629,14 @@
   "deep_truth": {
    "truth": "A chapati holds the energy of about seven phone batteries. Your body lets it out at about 100 watts, a trickle that lasts all day. How much energy something holds and how fast it comes out are two separate facts. Life lasts because energy comes out slowly.",
    "habit": "We say a thing is strong or full of energy as if energy had one size. But the amount (joules) and the speed (watts) are different, and a lot of energy let out all at once is a different thing from the same energy let out slowly.",
-   "evidence": "On the stairs, the same climb used the same joules whether you went slowly or fast, but the watts were very different. A chapati holds a large amount of energy, yet it gives about 100 watts through the day."
+   "evidence": "In the Stair Power experiment, the same climb used the same joules whether you went slowly or fast, but the watts were very different. A chapati holds a large amount of energy, yet your body lets it out at only about 100 watts through the day."
   },
   "three": {
-   "who_am_i": "You are a slow fire of about 100 watts, burning food all day to keep warm and move. The amount of energy in you is large, and the pace is gentle.",
+   "who_am_i": "Your body works like a slow fire of about 100 watts. It burns food all day to keep you warm and moving. It holds a large amount of energy and lets it out gently.",
    "what_is_life": "A body spends energy in tiny steps in every cell, steady and slow. That pace is part of what keeps a living being going, hour after hour.",
    "what_is_this_world": "The Sun sends about 1,000 watts onto each square metre at noon, and nearly everything on Earth runs on a small share of it."
   },
-  "thread": "Everything we found had a number, and the numbers joined things that look different: a chapati, a phone battery, a staircase, a fan, the Sun. They are all energy, counted in the same unit. The total never changes. Only the form and the pace change. A seed, a flame and a bulb are the same energy meeting the world at different speeds. Said plainly, the many things around us are one energy taking different shapes and different paces.",
+  "thread": "Everything we measured had a number, and the numbers linked things that look different: a chapati, a phone battery, a staircase climb, a fan, the Sun. They all have energy, counted in the same unit. The total never changes. Only the form and the pace change. In a seed, a flame and a bulb it is the same energy, moving at different speeds. So the many things around us are one energy in different forms, moving at different paces.",
   "teachings": [
    {
     "source": "Tao Te Ching 78",
@@ -2650,8 +2650,8 @@
    },
    {
     "source": "Richard Feynman, The Feynman Lectures on Physics, Volume 1, chapter 4",
-    "teaching": "Energy is a number that stays the same when nature does her many changes. Feynman said we have no knowledge of what energy is.",
-    "link": "We counted energy in a staircase and a meter, and it added up. Yet nobody knows what energy is underneath."
+    "teaching": "Energy is a number that stays the same through all the changes that happen in nature. Feynman said we have no knowledge of what energy is.",
+    "link": "We counted energy on a staircase and on a meter, and it added up. Yet nobody knows what energy is underneath."
    }
   ],
   "science": [
@@ -2671,8 +2671,8 @@
   "practice": {
    "title": "Feel your 100 watts",
    "mins": 3,
-   "say": "Sit still and rub your palms together ten times. Then hold them 5 centimetres apart and close your eyes. Feel the warmth between them. Breathe slowly three times. Think that this warmth is food that was sunlight, being let out slowly. Say thank you to the Sun in your own words.",
-   "kid": "Rub your palms ten times. Hold them apart. Feel the warmth. Breathe slowly three times. This warmth was sunlight in your food."
+   "say": "Sit still and rub your palms together ten times. Then hold them 5 centimetres apart and close your eyes. Feel the warmth between them. Breathe slowly three times. This warmth comes from your food, and the energy in your food came from sunlight. Your body is letting it out slowly. Say thank you to the Sun in your own words.",
+   "kid": "Rub your palms ten times. Hold them apart. Feel the warmth. Breathe slowly three times. This warmth came from your food, and before that from sunlight."
   },
   "ask": [
    "Is the energy in a chapati the same energy as the energy in a phone battery? What would you need to check?",

@@ -3,12 +3,12 @@
  "title": "A forest floor holds the rain: how living things build a place together",
  "level": 4,
  "summary": {
-  "text": "Pour a cup of pretend rain on bare soil, and the same cup on soil covered with dead leaves. Which one keeps the water, and which one sends brown mud down the slope? Your child tests three plates with a tea strainer, then tests how a blanket of leaves keeps soil damp. They find out how leaves, roots, worms and fungi together make a forest floor that holds water, which no one of them could do alone. They read the signs of life on a trail, meet the Bishnoi and the women of Reni who stood up for trees, and play a shared-pond game to learn how much we can take so that it grows back.",
+  "text": "Pour a cup of pretend rain on bare soil, and the same amount on soil covered with dead leaves. Which one keeps the water, and which one sends brown mud down the slope? Your child tests three plates with a tea strainer, then tests how a blanket of leaves keeps soil damp. They find out how leaves, roots, worms and fungi together make a forest floor that holds water, which none of them could do alone. They read the signs of life on a trail, and meet the Bishnoi and the women of Reni, who stood up for trees. They also play a shared-pond game to learn how much we can take from nature and still let it grow back.",
   "art": "Two plates tilted on a stack of books, one with bare brown soil and a brown stream running off it into a glass, one with soil under a loose layer of dead leaves and a thin clear trickle running into a glass."
  },
  "intro": {
   "hook": "Walk along a forest trail in the monsoon and the ground is soft, dark and wet under a thick carpet of dead leaves. Walk across a swept, cleared field in the same rain and the water runs off in brown streams. The rain is the same. Why does the ground behave so differently?",
-  "text": "Dead leaves look like rubbish, and a swept patch looks clean. But in a forest, leaves, roots, worms, termites and fungi all work on the ground at the same time. In this unit you build three small patches of ground on plates and pour pretend rain on them, to see for yourself what leaves do. Then you follow the same idea out along a trail. You read the signs that creatures leave behind, find out how people across India have protected groves and trees for hundreds of years, and ask how much we can take from nature so that it grows back.",
+  "text": "Dead leaves look like rubbish, and a swept patch looks clean. But in a forest, leaves, roots, worms, termites and fungi all work on the ground at the same time. In this unit you build three small patches of ground on plates and pour pretend rain on them, to see for yourself what leaves do. Then you follow the same idea out along a trail. You read the signs that creatures leave behind, find out how people across India have protected groves and trees for hundreds of years, and ask how much we can take from nature and still let it grow back.",
   "art": "A forest path in the monsoon with a thick layer of brown leaves on the ground and clear water trickling beside it, next to a bare cleared slope with muddy streams running down."
  },
  "outcomes": [
@@ -17,7 +17,7 @@
   "I can run a fair test with a control, and use my measurements to explain how leaf litter and soil together hold rain.",
   "I can explain how a layer of leaves keeps soil damp, and why farmers use mulch.",
   "I can read the signs on a trail, such as a nibbled leaf, a mud tube or a dropping full of seeds, and say which link each sign shows.",
-  "I can tell some of the ways people in India have protected forests and trees, and say what science has found about them.",
+  "I can describe some of the ways people in India have protected forests and trees, and say what science has found about them.",
   "I can explain what sustainable means by using a rule about taking only what grows back, and say why shared things need rules."
  ],
  "cards_mins": 20,
@@ -160,7 +160,7 @@
   {
    "concept": "Plants send water to the sky",
    "status": "debated",
-   "description": "A plant takes water from the soil with her roots and lets most of it go as vapour through tiny holes in her leaves. This is transpiration, and it is well measured. The vapour rises, joins the air and may fall again as rain somewhere downwind. Studies of the Amazon forest estimate that roughly a quarter to a third of the rain there was once water that plants gave off, though estimates differ. What is debated is how far forests also pull in wet air from the sea. In 2007 two Russian scientists, Anastassia Makarieva and Victor Gorshkov, proposed a 'biotic pump'. They said that a big forest with strong transpiration lowers the air pressure over it and draws in moist sea air. Many atmospheric scientists doubt that this effect is strong, and the question is still being tested.",
+   "description": "A plant takes water from the soil with her roots and lets most of it go as vapour through tiny holes in her leaves. This is transpiration, and scientists have measured it well. The vapour rises, joins the air and may fall again as rain somewhere downwind. Studies of the Amazon forest estimate that roughly a quarter to a third of the rain there was once water that plants gave off, though estimates differ. What is debated is how far forests also pull in wet air from the sea. In 2007 two Russian scientists, Anastassia Makarieva and Victor Gorshkov, proposed a 'biotic pump'. They said that a big forest with strong transpiration lowers the air pressure over it and draws in moist sea air. Many atmospheric scientists doubt that this effect is strong, and the question is still being tested.",
    "examples": [
     "A mature tree sends many litres of water into the air every day.",
     "Clouds often gather over forested hills."
@@ -234,7 +234,7 @@
    "concept": "People who stood up for trees: the Bishnoi and the women of Reni",
    "status": "defined",
    "definition": "A movement to protect trees is an organised effort by ordinary people who refuse to let trees be cut.",
-   "description": "The Bishnoi people of Rajasthan follow rules, set down in the 1400s, not to cut green trees or hurt wild animals. Tradition says that in 1730, at the village of Khejarli near Jodhpur, the king's men came to cut khejri trees for fuel. A woman named Amrita Devi hugged a tree to stop them, and many villagers did the same. Tradition says about 363 people died. The king then stopped the cutting. In 1974 in the village of Reni, in the Garhwal Himalaya, men were away when contractors came to fell trees. Women led by Gaura Devi stood in front of the trees and would not move, and the contractors left. Reni became the best-known event of the Chipko movement, from the Hindi word for 'stick' or 'hug'. In 1980 the government banned the felling of green trees for 15 years in the Himalayan hills of Uttar Pradesh, where Reni was then. Today Reni is in Uttarakhand.",
+   "description": "The Bishnoi people of Rajasthan follow rules, set down in the 1400s, not to cut green trees or hurt wild animals. Tradition says that in 1730, at the village of Khejarli near Jodhpur, the king's men came to cut khejri trees for fuel. A woman named Amrita Devi hugged a tree to stop them, and many villagers did the same. Tradition says about 363 people died. The king then stopped the cutting. In 1974 in the village of Reni, in the Garhwal Himalaya, the men were away when contractors came to fell trees. Women led by Gaura Devi stood in front of the trees and would not move, and the contractors left. Reni became the best-known event of the Chipko movement. Chipko comes from the Hindi word for 'stick' or 'hug'. In 1980 the government banned the felling of green trees for 15 years in the Himalayan hills of Uttar Pradesh, where Reni was then. Today Reni is in Uttarakhand.",
    "examples": [
     "The khejri tree, which gives shade and food in the Thar desert, is still protected by Bishnoi villages.",
     "Women in the Himalaya continued to protect forests long after Reni."
@@ -341,9 +341,9 @@
  ],
  "big_questions": [
   {
-   "q": "The forest floor holds water, yet no single leaf, root or worm holds it. So where is the holding?",
+   "q": "The forest floor holds water, yet no single leaf, root or worm holds it. So what is holding the water?",
    "kind": "deep",
-   "hint": "Think about the plate with only soil and the plate with only leaves. What did each do?"
+   "hint": "Think about the Forest Floor Test. What did the plate with only soil do, and what did the plate with only leaves do?"
   },
   {
    "q": "Is a forest one thing with many parts, or many things that happen to share a place?",
@@ -353,7 +353,7 @@
   {
    "q": "A crow, a termite and a frog all live in the same field. Do they live in the same world?",
    "kind": "deep",
-   "hint": "Think about what each one senses: smell, sound, heat, light. Are we seeing the field differently, or seeing different fields?"
+   "hint": "Think about what each one senses: smell, sound, heat, light. Are they seeing the same field differently, or seeing different fields?"
   },
   {
    "q": "People protected groves because they were holy. Does it matter why a forest is protected, if the forest is saved?",
@@ -373,7 +373,7 @@
   {
    "q": "Who counts as 'someone' in a web: only the ones we can see, or also the soil, the fungi and the rain?",
    "kind": "deep",
-   "hint": "Think about who did the work in your plates, and who nobody saw."
+   "hint": "Think about the plates in the Forest Floor Test. Who did the work there? In a forest, who does work that nobody sees?"
   }
  ],
  "story": {
@@ -387,18 +387,18 @@
    "On the second morning Devika took a steel bucket to the well. She expected to see the bottom. Instead the water was only an arm's length down, cool and clear. Next door, Sreeja Chechi's well had been dry for three weeks. She was carrying water from the school tap in two plastic pots.",
    "\"Why does ours have water?\" Devika asked. \"Because of the kavu,\" said Ammamma, as if it were obvious. \"That is not an answer,\" said Devika. She had noticed that grown-ups sometimes say because when they mean I do not know. Ammamma only laughed. \"Then find a better one.\"",
    "So Devika walked round both pieces of land. Sreeja Chechi's compound was spotless. Every leaf had been swept and burned, and every little bush cut down. It looked like a courtyard. Then Devika climbed into the kavu. Here everything was a mess. Leaves lay ankle-deep, brown on top and black underneath. Mud tubes ran up the tree trunks. A line of ants vanished under a rotting log. The air smelled of wet earth, though it had not rained for two months.",
-   "Devika knelt and pushed her hand under the leaves. The ground was cool and damp, and laced with fine white threads. A worm slid away from her fingers. She scooped up a handful of the black leaf-mould and squeezed it. Water ran out between her fingers, as from a wet cloth. She looked at her hand. Leaves from a dozen kinds of tree. Roots finer than hair. White threads of fungus. A worm. A beetle the size of a grain of rice. None of these was a well.",
+   "Devika knelt and pushed her hand under the leaves. The ground was cool and damp, and laced with fine white threads. A worm slid away from her fingers. She scooped up a handful of the black leaf-mould and squeezed it. Water ran out between her fingers, as from a wet cloth. She looked at her hand. In it were leaves from a dozen kinds of tree, roots finer than hair, white threads of fungus, a worm, and a beetle the size of a grain of rice. None of these was a well.",
    "That evening the first storm of the summer arrived. The sky went black, the air smelled of dust, and then the rain came so hard that it bounced. Devika stood on the verandah with Ammamma. Down the lane ran a river the colour of tea with too much milk. It was red, thick and fast, and it came from Sreeja Chechi's neat compound. It was carrying her good soil away.",
    "Then Devika looked the other way. Where the kavu met the lane, a thin trickle ran out from under the leaves. It was slow, and almost clear. Most of the rain had simply gone into the hill.",
-   "\"It isn't drinking the rain,\" Devika said slowly. \"The hill is holding it. And letting it out a little at a time. That is how the well still has water in April.\"",
+   "\"The hill isn't drinking the rain,\" Devika said slowly. \"The hill is holding it, and letting it out a little at a time. That is how the well still has water in April.\"",
    "Ammamma said nothing, but her eyes crinkled. \"My mother told me never to take even a dead leaf from the kavu,\" she said. \"She said the gods would be angry. I never asked her what the gods were made of.\" Devika thought about it. \"Leaves,\" she said. \"Roots. Worms. Fungus.\" Ammamma laughed. \"That is a great many gods. No wonder they are strong.\"",
    "The next morning Devika helped Sreeja Chechi carry her pots. She did not say I told you so. She said, \"Chechi, what if you did not burn your leaves? What if you put them round the coconut palms, like a blanket?\" Sreeja Chechi looked at the leaves, and at her bare red ground, and at her empty well. \"A blanket,\" she said. \"My mother did that.\" She sighed. \"We were so proud of being clean.\"",
-   "By the end of the week, each coconut palm in the compound stood in a patch of untidy brown. It was not a kavu. It would take years to become one. But when the next rain came, Devika saw it walk across that compound slowly, instead of running."
+   "By the end of the week, each coconut palm in the compound stood in a patch of untidy brown leaves. It was not a kavu. It would take years to become one. But when the next rain came, Devika saw the water move slowly across that compound, instead of running off."
   ],
-  "epiphany": "The hill never drank the rain. Leaves, roots, worms and fungi held it together, and let it out slowly.",
+  "epiphany": "The hill never drank the rain. Leaves, roots, worms and fungi together held the rain, and let it out slowly.",
   "ask": [
    "What job does each part of a forest floor do for the water, and what is lost if one part is missing?",
-   "Why might a rule that nothing is ever taken from a place help that place, whatever the reason for the rule?",
+   "The rule in the kavu is that nothing is ever taken from it. How does that rule help the kavu, whatever the reason for the rule?",
    "How could you find out whether leaves under a tree keep the ground damp, without harming the tree?"
   ],
   "art": [
@@ -409,9 +409,9 @@
   ]
  },
  "roots": {
-  "context": "We have poured rain on soil and leaves, read signs on a trail and met people who protect trees. Now we ask what a forest floor tells us about who does the work, and about ourselves.",
+  "context": "In the Forest Floor Test you poured pretend rain on soil and leaves. You also read signs on a trail and met people who protect trees. Now we ask what a forest floor shows about who does the work in a place, and what that tells us about ourselves.",
   "deep_truth": {
-   "truth": "Soil with no leaves lost the water fast, and leaves with no soil lost it too. Soil with leaves on top held it. Holding water is the power of no single part. It exists only in how the parts are joined.",
+   "truth": "In the Forest Floor Test, the plate with only soil lost the water fast, and so did the plate with only leaves. The plate with soil under leaves held it. No single part holds the water. The holding happens only when the parts are joined.",
    "habit": "We give the credit to one hero, such as the biggest tree, the tiger or the worm. We picture a place as a heap of separate things, each with its own job. But what a forest does for water belongs to the group, not to any member.",
    "evidence": "Compare the three plates in the Forest Floor Test. The usual result is that the plate with only soil and the plate with only leaves let more rain run off, and the plate with soil under leaves sends out clearer water. Write down what you really see. If your results differ, test again."
   },
@@ -420,12 +420,12 @@
    "what_is_life": "Life is not only single beings eating and growing. It is also the places that living beings make together, such as soil, a pond or a grove.",
    "what_is_this_world": "Rain, leaves, roots, worms and wells pass water to each other all the time. The water that fell on a leaf last week may be in a root, a worm or a spring today."
   },
-  "thread": "A forest looks like many separate trees, animals and fungi. The test shows that some of what a forest does belongs to the joining and not to the pieces. The rain that lands on one leaf ends up, days later, in a root, a worm, a spring and a well. Indian and Buddhist teachers pictured the world as things linked to each other, as in Indra's net. A forest floor is a small place where you can watch links at work: one rain, many beings, one holding.",
+  "thread": "A forest looks like many separate trees, animals and fungi. The Forest Floor Test shows that some of what a forest does comes from the parts being joined, and not from any one part. The rain that lands on one leaf ends up, days later, in a root, a worm, a spring and a well. Indian and Buddhist teachers pictured the world as things linked to each other, as in Indra's net. A forest floor is a small place where you can watch these links at work: one rain is held by many beings together.",
   "teachings": [
    {
     "source": "Indra's net, an image from the Avatamsaka Sutra tradition",
-    "teaching": "Imagine a great net with a bright jewel at every knot. Each jewel shows the reflections of all the other jewels, and each of those shows all the rest. Nothing shines alone.",
-    "link": "The forest floor is like this. Leaves, roots, worms and fungi each depend on the others. Take one away and the whole holding changes."
+    "teaching": "Indra's net is pictured as a great net with a bright jewel at every knot. Each jewel shows the reflections of all the other jewels, and each of those shows all the rest. Nothing shines alone.",
+    "link": "The forest floor is like this. Leaves, roots, worms and fungi each depend on the others. Take one away and the way the whole floor holds water changes."
    },
    {
     "source": "Isha Upanishad, verse 1",
@@ -434,7 +434,7 @@
    },
    {
     "source": "Atharvaveda, the hymn to the Earth (Prithvi Sukta)",
-    "teaching": "The hymn asks the Earth that whatever is dug from her may quickly grow back, and that we may never hurt her heart.",
+    "teaching": "An old hymn to the Earth, in the Atharvaveda, asks that whatever is dug from her may quickly grow back, and that we may never hurt her heart.",
     "link": "This is the rule of sustainable living in one verse: take only what grows back."
    }
   ],
@@ -444,7 +444,7 @@
     "status": "settled"
    },
    {
-    "text": "Whether a forest is best thought of as one self-steadying whole, or as many separate lives, is still argued. The Gaia idea of James Lovelock and Lynn Margulis says the whole Earth steadies itself.",
+    "text": "Scientists still argue about whether a forest is best thought of as one whole that keeps itself steady, or as many separate lives. The Gaia idea of James Lovelock and Lynn Margulis says the whole Earth keeps itself steady.",
     "status": "debated"
    }
   ],
@@ -596,7 +596,7 @@
     "Cut out the 24 sign cards and the 6 link tokens. Lay the tokens face up. Shuffle the cards and stack them face down.",
     "One player is the reader. The reader takes the top card and reads only the front aloud.",
     "Every other player says who probably made the sign, and picks one link token. Playing alone, you do both.",
-    "The reader turns the card over and reads the back. A player scores 1 point for a sensible who, such as an insect or a bird, and 1 point for a link that the back mentions.",
+    "The reader turns the card over and reads the back. A player scores 1 point for a sensible guess about who made the sign, such as an insect or a bird, and 1 point for a link that the back mentions.",
     "Take turns to be the reader. Play 10 cards. The player with the most points wins. Playing alone, try to score 12 points out of 20."
    ],
    "setup": [
@@ -627,7 +627,7 @@
      "id": "s2",
      "mins": 12,
      "do": "Read the front of one card aloud, and nothing else. Everyone says who made the sign and picks a token. Read the back and give points. Play ten cards.",
-     "say": "Read me the sign. I will say who I think made it, and I will pick a link. Then we check the back. One point for a sensible guess about who, and one for a link on the card.",
+     "say": "Read me the sign. I will say who I think made it, and I will pick a link. Then we check the back. There is one point for a sensible guess about who made it, and one point for a link that the back mentions.",
      "kid": "Read a card. Say who made the sign. Pick a link token. Check the back.",
      "ask": [
       {
@@ -670,7 +670,7 @@
    "title": "Forest Floor Test: which plate keeps the rain?",
    "mins": 50,
    "days": 1,
-   "question": "When pretend rain falls on a slope, how much water runs off, and how muddy is it, if the ground is bare soil, soil with dry leaves on top, or dry leaves with no soil?",
+   "question": "Pretend rain falls on three sloping plates: bare soil, soil with dry leaves on top, and dry leaves with no soil. How much water runs off each plate, and how muddy is it?",
    "predict": "Before you start, guess. Which plate will send off the most water, and which will send off the muddiest water? Why do you think so?",
    "fair_test": "Every plate is the same size, is lifted to the same slope, and gets the same amount of rain from the same strainer. Plate A, bare soil, is the starting point. Plate B changes one thing from A: dry leaves on top. Plate C has the same leaves as B but no soil. Because each plate differs in only one way, a difference in the runoff comes from that one thing.",
    "results_table": [
@@ -780,7 +780,7 @@
        "To use up the soil"
       ],
       "a": 0,
-      "why": "Plate A is the starting point. Plate B differs from A in one way only, the leaves on top. So any difference between A and B comes from the leaves. Choosing the second option shows a guess about soil that the test can check."
+      "why": "Plate A is the starting point. Plate B differs from A in one way only, the leaves on top. So any difference between A and B comes from the leaves. Saying that soil is the only thing that holds water is a guess, and the test can check it."
      },
      "context": "In this step, you build the three plates. Each has a different mix of soil and leaves, so you can compare them."
     },
@@ -870,9 +870,9 @@
    "title": "Blanket Test: do dead leaves keep soil damp?",
    "mins": 44,
    "days": 5,
-   "question": "Which cup of soil stays damp for the longest, if it is bare, if it has a thin cover of leaves, or if it has a thick cover of leaves?",
+   "question": "Three cups of soil sit in the sun. One is bare, one has a thin cover of leaves and one has a thick cover of leaves. Which cup stays damp the longest?",
    "predict": "Before you start, guess. Which cup will dry out first, and which will stay damp longest? Why do you think so?",
-   "fair_test": "Every cup has the same soil, the same depth, the same amount of water and the same place in the sun. Cup A, bare soil, is the control. Cup B and cup C differ from A in one way only: a cover of leaves. B and C differ from each other only in how thick the cover is.",
+   "fair_test": "Every cup has the same soil, the same depth, the same amount of water and the same place in the sun. Cup A, bare soil, is the control: the plain cup that we compare the others with. Cup B and cup C differ from A in one way only: a cover of leaves. B and C differ from each other only in how thick the cover is.",
    "results_table": [
     "Cup",
     "What covers the soil",
@@ -909,7 +909,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the cups away from the edge of a sill or balcony so that they cannot fall. Mould can grow on damp leaves. Do not sniff the leaves, and an adult checks the cups if your child has asthma or an allergy. Wash your hands after touching soil or leaves.",
+   "safety": "Keep the cups away from the edge of a sill or balcony so that they cannot fall. Mould can grow on damp leaves, so do not sniff the leaves. If your child has asthma or an allergy, an adult should check the cups. Wash your hands after touching soil or leaves.",
    "record": "Each day, write the length of the pale, dry part of the stick in the table. On day 5, draw a line graph with one line for each cup.",
    "context": "In this experiment, you cover soil in three different ways and check each day how dry it gets. You find out what a layer of leaves does for the water in soil.",
    "setup": [
@@ -954,7 +954,7 @@
      "id": "s2",
      "mins": 12,
      "do": "In a bowl, mix all the soil with the 12 tablespoons of water until it is evenly damp, like a wrung-out cloth. Fill each cup with this soil to 6 centimetres. Leave cup A bare. Cover cup B with a layer of crushed leaves about 1 centimetre thick. Cover cup C with a layer about 3 centimetres thick. Put all three side by side in a sunny place. Do the first stick test.",
-     "say": "Same soil, same water, same sun. Only the covering is different. To test how dry the soil is, we push a stick to the bottom, pull it out and measure the pale part.",
+     "say": "All three cups have the same soil, the same water and the same sun. Only the covering is different. To test how dry the soil is, we push a stick to the bottom, pull it out and measure the pale part.",
      "kid": "Fill the cups with soil. Add water. Cover B a little and C a lot. Put them in the sun.",
      "parent": "To do a stick test, push a clean stick straight down to the bottom of the cup. Pull it out. Damp soil makes the stick dark and dry soil leaves it pale. Measure the pale part of the stick, from the soil line down to where it turns dark, in centimetres, and write it in the table. On day 1 it should be 0 for all the cups. Use a new stick for every reading, or wipe the stick dry. Push the stick in at a new spot near the edge each day, and lift the leaves aside rather than pulling them off. For a covered cup, measure the pale part from the soil surface under the leaves. Two to four children: each child looks after one cup, or two children share a cup and take turns to push and to measure. Alone, you do all three cups. If it rains a lot or the air is very damp, put the cups where the sun reaches, and out of the rain. If all three cups still stay dark after five days, write that down. It is a result. Carry on for five more days, or move the cups to a warmer, sunnier place, and see which cup begins to pale first. Dry weather gives clearer results than monsoon days.",
      "check": {
@@ -995,7 +995,7 @@
      "mins": 4,
      "wait": "Come back tomorrow at the same time.",
      "do": "Do the stick test on each cup. Measure the pale part. Write it in the table for day 4.",
-     "say": "What is the pattern so far? If we do nothing, what will the table say on day 5?",
+     "say": "What is the pattern so far? What do you think the table will say on day 5?",
      "kid": "Push a clean stick into each cup. Measure the pale part. Guess tomorrow's number.",
      "parent": "This is a good moment to ask for a prediction. A pattern like 0, 1, 2, 3 suggests 4 for the next day.",
      "context": "This is day 4 of the Blanket Test. You check each cup and guess what comes next."
@@ -1112,7 +1112,7 @@
      "kid": "Look and listen. Write down everything alive, and every sign of life. Draw your favourite.",
      "ask": [
       {
-       "q": "Which of your things are living beings, and which are signs?",
+       "q": "Which things on your list are living beings, and which are signs?",
        "good": [
         "The crow is a living being. The feather is a sign.",
         "The ants are living beings. The line on the wall is a sign.",
@@ -1127,7 +1127,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Choose three pairs from the list. For each pair, draw an arrow from the one who gives to the one who gains. Then write the link: food, shelter, making new plants, travel, clean-up or changing the place.",
-     "say": "Pick two things from your list. Does one need the other? What does she get from the other one? Draw an arrow, and name the link.",
+     "say": "Pick two things from your list. Does one of them need the other? What does she get? Draw an arrow, and name the link.",
      "kid": "Pick two things. Draw an arrow from the giver to the one who gains. Name the link.",
      "check": {
       "t": "mcq",
@@ -1170,7 +1170,7 @@
    ],
    "safety": "A grown-up comes with you. Do not climb the tree or shake her. Do not touch nests, hives or hairy caterpillars. Stay away from busy roads.",
    "record": "Make a tally of the kinds of living beings and signs you find in five places: bark, leaves, flowers and fruit, the ground below, and the air around the tree. Then draw the tree with an arrow for each link.",
-   "context": "In this activity, you spend 25 minutes with one tree, outside the spine of the unit, if you have a tree nearby. You find out how many kinds of lives and links depend on her.",
+   "context": "This activity is an extra, for families who have a tree nearby. You spend 25 minutes with one tree and find out how many kinds of lives and links depend on her.",
    "setup": [
     {
      "art": "A child standing close to a neem tree trunk with a notebook, a grown-up beside them, looking at the bark through a lens.",
@@ -1191,7 +1191,7 @@
      "mins": 5,
      "adult": true,
      "do": "A grown-up comes along. Choose one tree, such as a neem, a mango, a gulmohar or a peepal. Make five boxes in the notebook. Write a title on each: bark, leaves, flowers and fruit, ground, and air.",
-     "say": "We will spend three minutes on each part of this tree. We are counting kinds, not numbers. Do not touch what you do not know.",
+     "say": "We will spend three minutes on each part of this tree. We are counting how many kinds of living beings we find, not how many of each kind. Do not touch what you do not know.",
      "kid": "Pick a tree. Draw five boxes. Name each one.",
      "parent": "A road tree in a city counts. Choose one you can reach without crossing a busy road.",
      "context": "This is the first step of One Tree, Many Lives. You choose a tree and prepare the notebook."
@@ -1201,7 +1201,7 @@
      "mins": 15,
      "do": "Spend three minutes on each of the five boxes: bark, leaves, flowers and fruit, ground, and air. Make a mark or a drawing for every kind you find.",
      "say": "What is on the bark? What is on the leaves? Who visits the flowers or fruit? What lies on the ground? What flies near her?",
-     "kid": "Look at one box for three minutes. Draw each kind you find.",
+     "kid": "Look at each part of the tree for three minutes. Draw each kind you find in its box.",
      "ask": [
       {
        "q": "Which part of the tree had the most different visitors?",
@@ -1220,7 +1220,7 @@
      "mins": 5,
      "do": "Draw the tree. Add an arrow for each visitor and write the link. Then ask your child what would be lost if the tree were cut.",
      "say": "Draw an arrow for each visitor, and name the link. If this tree were cut down, who would lose something?",
-     "kid": "Draw the tree. Draw an arrow to each visitor. If she were cut down, who loses?",
+     "kid": "Draw the tree. Draw an arrow to each visitor. If the tree were cut down, who would lose something?",
      "think": "Does the tree need any of her visitors?",
      "parent": "Good answers name more than one loser: birds that nest, insects that eat the leaves, ants on the bark, the soil that the roots hold. Some visitors give back to the tree, such as the bee who carries pollen and the bird who carries seeds.",
      "context": "This is the last step of One Tree, Many Lives. You draw the web around one tree."
@@ -1262,7 +1262,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Choose an elder to ask. Write three questions with your child. Include: what is one rule about trees, water, animals or food that you grew up with, and who made it?",
+     "do": "Choose an elder to ask. Write three questions with your child. Include this one: 'What is one rule about trees, water, animals or food that you grew up with, and who made it?'",
      "say": "We will ask about a rule that looks after nature. Many families have one. Think of a rule about a tree, a pond, a bird or food. What would you like to ask?",
      "kid": "Pick an elder. Write three questions about a rule that looks after nature.",
      "parent": "Examples to prompt the elder: neem leaves in the grain tin, a tulsi plant by the door, not picking leaves at night, leaving some fruit for the birds, not cutting a peepal or a banyan, a village pond that nobody washes in, thanking cattle at Pongal. Every family has different ones. Accept whatever they tell you.",
@@ -1295,7 +1295,7 @@
      "kid": "Draw the rule. Does it take only what grows back? Which link does it protect?",
      "check": {
       "t": "mcq",
-      "q": "A family puts dried neem leaves in the grain tin. What is the best test of whether the rule works?",
+      "q": "A family puts dried neem leaves in the grain tin to keep insects out. What is the best way to test whether this works?",
       "options": [
        "Store grain with and without neem leaves, and compare",
        "Ask ten more people",
@@ -1358,7 +1358,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Put 20 beans in the bowl. The bowl is the pond and each bean is a fish. Keep 20 beans in the spare cup. Read the rules: each round, every player secretly writes a number from 0 to 5. All reveal together and take that many beans. Then count what is left. For every 2 beans left, add 1 from the spare cup. The pond never holds more than 20. Each bean you take is 1 point. If the players ask for more beans than the pond holds, they take in turn until it is empty. A pond with only 1 bean left adds none.",
+     "do": "Put 20 beans in the bowl. The bowl is the pond and each bean is a fish. Keep 20 beans in the spare cup. Read the rules. Each round, every player secretly writes a number from 0 to 5. Everyone shows their number at the same time and takes that many beans. Then count what is left. For every 2 beans left, add 1 from the spare cup. The pond never holds more than 20. Each bean you take is 1 point. If the players ask for more beans than the pond holds, they take in turn until it is empty. A pond with only 1 bean left adds none.",
      "say": "This is our village pond. Each round, each of us secretly writes how many fish to take, from 0 to 5. Then the pond grows back by a rule. For every 2 fish left, 1 new fish is born. Play eight rounds, or until the pond is empty.",
      "kid": "The bowl is a pond. Each bean is a fish. Write 0 to 5. Take your fish. Count what is left.",
      "parent": "Playing alone: play against the Village. The Village takes 4 beans every round. You choose how many to take. In game 2, the Village takes only 2 beans every round. Two or three players: each writes 0 to 5. Four players: each writes 0 to 3, so the pond can last. Beans are only counters, so any small dry thing works, such as pebbles or buttons, and then there is no food-safety worry. A total of about 6 taken each round is what a pond that holds 20 can bear. Do not tell the children this number. Let them find it.",
@@ -1368,7 +1368,7 @@
      "id": "s2",
      "mins": 12,
      "do": "Play game 1 with no talking. Write each round in the table. Stop after eight rounds, or when the pond is empty. Add up each player's score.",
-     "say": "Game 1, no talking. Write your number. Reveal. Take your fish. Count what is left, and add the new fish.",
+     "say": "This is game 1, and there is no talking. Write your number. Show it. Take your fish. Count what is left, and add the new fish.",
      "kid": "Write your number. Show it. Take your fish. Add new fish. Write it down.",
      "check": {
       "t": "mcq",
@@ -1477,7 +1477,7 @@
     {
      "day": 7,
      "mins": 30,
-     "what": "Run the rain test on the root mat and on the bare plate. Compare. Explain."
+     "what": "Pour the pretend rain on the root mat plate and on the bare plate. Compare them. Explain what you see."
     }
    ],
    "safety": "Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Wash your hands after touching soil. Keep the plate away from the edge of a sill. Methi can upset a child who is allergic to it, so an adult decides if your child should handle it. Wash your hands after the rain test.",
@@ -1502,7 +1502,7 @@
      "id": "s1",
      "mins": 18,
      "do": "Soak the methi seeds in water overnight if you can. Spread one tumbler of soil on each plate, about as thick as a fingertip. On plate 1, scatter the methi seeds evenly and press them in lightly. Leave plate 2 bare, as the comparison. Sprinkle both plates with the same amount of water until the soil is damp. Put both in the same light place.",
-     "say": "Today we plant a mat of tiny plants on a plate of soil. In a week we will pour rain on it, the same rain as before. What do you think the roots will do?",
+     "say": "Today we plant a mat of tiny plants on a plate of soil. In a week we will pour pretend rain on it, the same rain as in the Forest Floor Test. What do you think the roots will do?",
      "kid": "Spread soil. Scatter seeds. Sprinkle water. Put the plate in the light.",
      "ask": [
       {
@@ -1514,14 +1514,14 @@
        ]
       }
      ],
-     "parent": "Methi seeds sprout in two or three days at room temperature. Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Keep the soil damp, not soaked. If your home is cold, put the plate near a window. Two to four children: each pair of children grows their own pair of plates, or one pair of plates is shared and the children take turns to water and to measure. Methi usually sprouts in two to three days in warm weather, and may take longer in the cold.",
+     "parent": "Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Keep the soil damp, not soaked. If your home is cold, put the plate near a window. Two to four children: each pair of children grows their own pair of plates, or one pair of plates is shared and the children take turns to water and to measure. Methi usually sprouts in two to three days in warm weather, and may take longer in the cold.",
      "context": "This is the first step of the Root Mat. You plant the seeds on a plate of soil."
     },
     {
      "id": "s2",
      "mins": 3,
-     "wait": "Come back tomorrow, for days 2 to 6.",
-     "do": "Sprinkle the same little water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another, draw what you see.",
+     "wait": "Come back each day, from day 2 to day 6.",
+     "do": "Sprinkle the same small amount of water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another day, draw what you see.",
      "say": "What has changed since yesterday? Are the roots visible at the edge of the plate?",
      "kid": "Sprinkle a little water. Look at the sprouts. Draw or measure them.",
      "parent": "Water for the last time on day 6, so the soil is damp but not wet on day 7.",
@@ -1535,7 +1535,7 @@
      "kid": "Tilt the plate. Pour rain slowly on the mat, then on the bare plate. Count seconds. Measure the runoff. Look at the colour.",
      "ask": [
       {
-       "q": "How is this runoff different from the bare plate?",
+       "q": "How is the runoff from the root mat different from the runoff from the bare plate?",
        "good": [
         "There is less mud.",
         "It took longer for the first drop.",
@@ -1543,7 +1543,7 @@
        ]
       }
      ],
-     "parent": "The roots often make the water clearer than the bare plate gives, but not always. The plate numbers also differ from the Forest Floor Test, because this soil is damp, so compare plate 1 with plate 2, not with the old table. If the sprouts are patchy, that is a result too. A thin mat still holds more soil than none.",
+     "parent": "The water from the root mat is often clearer than the water from the bare plate, but not always. The numbers will also differ from your Forest Floor Test numbers, because this soil is damp. So compare plate 1 with plate 2, not with the Forest Floor Test table. If the sprouts are patchy, that is a result too. A thin mat still holds more soil than none.",
      "check": {
       "t": "mcq",
       "q": "What do the roots of a plant do for the soil on a slope?",
@@ -1555,14 +1555,14 @@
       "a": 0,
       "why": "Roots hold soil crumbs together and open tunnels, so water sinks in. They do take water too, but they also hold the slope in place. Saying they have no effect does not match what you saw."
      },
-     "context": "This is day 7 of the Root Mat. You pour the same pretend rain as before and compare."
+     "context": "This is day 7 of the Root Mat. You pour the same pretend rain as in the Forest Floor Test and compare the two plates."
     },
     {
      "id": "s4",
      "mins": 7,
      "do": "Put your Root Mat numbers next to your bare plate numbers. Ask your child to say what they thought, what they saw and why. Ask what a hillside with no plants would lose in a heavy monsoon.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Compare the mat with the bare plate. Say what you thought, saw, and why.",
+     "kid": "Compare the mat with the bare plate. Say what you thought, what you saw, and why.",
      "think": "A bare hillside has no roots. What would the monsoon do to it?",
      "parent": "A strong answer says that the roots held the soil, so the water was clearer, and that the plants also shaded the soil. After they have said it, explain: roots and fine root hairs grip soil crumbs, and the tunnels they leave let water sink in. This is why hill farmers plant grass and trees on slopes.",
      "context": "This is the last step of the Root Mat. You compare and explain."
@@ -1600,7 +1600,7 @@
     "Leave a strip of thick leaves along the low edge as a filter, and keep the upper part bare."
    ],
    "your_turn": "Test two of your own ideas on two plates, with the same rain on each. Measure the runoff and look at the mud. Choose the best, and say why. Then say how it could work on a real hillside.",
-   "context": "This is a design challenge about rain and soil. You build the best way to keep a slope from washing away, and test it with the rain from the Forest Floor Test.",
+   "context": "This is a design challenge about rain and soil. You design a way to keep a slope from washing away, and test it with the same pretend rain as in the Forest Floor Test.",
    "setup": [
     {
      "art": "Three plates with soil on a table: one covered with leaves, one with ridges across the slope, one with a line of twigs.",
@@ -1988,7 +1988,7 @@
      "t": "count",
      "p": "Eight farmers share a canal that runs for 96 minutes each morning. How many minutes does each farmer get? If 4 more farmers join, how many minutes does each get?",
      "a": "12 minutes, then 8 minutes",
-     "why": "96 divided by 8 is 12. 96 divided by 12 farmers is 8. More people sharing the same water means a smaller share for each.",
+     "why": "96 divided by 8 is 12. With 4 more farmers there are 12 farmers, and 96 divided by 12 is 8. More people sharing the same water means a smaller share for each.",
      "outcome": 6
     },
     {
@@ -2081,7 +2081,7 @@
       }
      ],
      "ask": "Which view fits what happened in your Shared Pond game, and why?",
-     "a": "Answers vary. A good answer refers to the two games. Usually, no talking emptied the pond and a shared rule kept it.",
+     "a": "Answers vary. A good answer refers to the two games. Usually the pond emptied in the game with no talking, and lasted in the game with a shared rule.",
      "why": "Both views have evidence. A strong answer says that rules matter, and that the people who use the pond are often the best ones to make and keep them.",
      "outcome": 6
     },
@@ -2118,7 +2118,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Divya sets up three cups of soil in the sun. P is bare, Q has a thin cover of leaves, and R is bare but in the shade. After four days P is driest, and Q and R are both damper. What does this best show?",
+     "p": "Three cups of soil are left for four days. P is bare and in the sun. Q is in the sun with a thin cover of leaves. R is bare but in the shade. After four days P is driest, and Q and R are both damper. What does this best show?",
      "opts": [
       "Shade and a cover of leaves both reduce drying",
       "Only shade matters",
@@ -2130,7 +2130,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya pours the same rain on two plates. Plate X has a mat of grass roots and plate Y is bare soil. The water from Y is brown and arrives in 5 seconds. The water from X is clear and arrives after 40 seconds. What does this suggest?",
+     "p": "The same rain is poured on two plates. Plate X has a mat of grass roots and plate Y is bare soil. The water from Y is brown and arrives in 5 seconds. The water from X is clear and arrives after 40 seconds. What does this suggest?",
      "opts": [
       "Roots hold the soil and let water sink in",
       "Plate X got less rain",
@@ -2555,7 +2555,7 @@
  ],
  "ask_kids": [
   "Where in our building or street does the rain sink into the ground, and where does it run off?",
-  "What do you think lives under the pile of dry leaves outside, and what does it do there?",
+  "Who do you think lives under the pile of dry leaves outside, and what do they do there?",
   "Which tree near us has the most visitors, and what do they each want from her?",
   "Is there a place near us that nobody owns but everyone uses? Who looks after it?",
   "If you could ask the oldest person in our family about one old rule that looks after nature, what would you ask?",
@@ -2603,7 +2603,7 @@
  ],
  "maths": [
   {
-   "problem": "Meenakshi pours 200 millilitres of pretend rain on each of three plates. Plate A lets 120 millilitres run off, plate B lets 60 millilitres run off, and plate C lets 160 millilitres run off. How much water did plate B hold back? How many times more water ran off plate A than plate B?",
+   "problem": "200 millilitres of pretend rain is poured on each of three plates. Plate A lets 120 millilitres run off, plate B lets 60 millilitres run off, and plate C lets 160 millilitres run off. How much water did plate B hold back? How many times more water ran off plate A than plate B?",
    "answer": "Plate B held back 140 millilitres. Plate A let 2 times as much run off.",
    "explain": "200 take away 60 is 140, so plate B held back 140 millilitres. 120 divided by 60 is 2, so plate A let twice as much run off as plate B.",
    "math_unit": "math.addition-subtraction.written-methods.L4",
@@ -2612,7 +2612,7 @@
    "why_maths": "Subtracting what ran off from what was poured tells us how much each plate held back. Dividing compares two plates fairly."
   },
   {
-   "problem": "Hari measures runoff from two plates. Plate A ran off 80 millilitres in rain 1 and 130 millilitres in rain 2. Plate B ran off 30 millilitres in rain 1 and 60 millilitres in rain 2. By how much did the runoff grow on each plate? What does the bigger rise on plate A suggest about wet soil?",
+   "problem": "Runoff is measured from two plates. Plate A has bare soil, and plate B has soil with leaves on top. Plate A let 80 millilitres run off in rain 1 and 130 millilitres in rain 2. Plate B let 30 millilitres run off in rain 1 and 60 millilitres in rain 2. By how much did the runoff grow on each plate? What does the bigger rise on plate A suggest about wet soil?",
    "answer": "Plate A grew by 50 millilitres and plate B by 30 millilitres. Bare soil that is already wet sheds more of the next rain.",
    "explain": "130 minus 80 is 50, and 60 minus 30 is 30. Plate A's runoff rose more. Wet bare soil is already full of water and its surface is sealed with mud, so more of the second rain runs off. The leaves on plate B slowed the water, so the rise was smaller.",
    "math_unit": "math.data.reading-data.L4",
@@ -2630,7 +2630,7 @@
    "why_maths": "A fraction lets us compare plates even if the amount of rain changes between tests."
   },
   {
-   "problem": "In the Blanket Test, imagine the dry layer in the bare cup measured 0, 1, 2 and 3 centimetres on days 1 to 4, and in the cup with leaves 0, 0, 1 and 1 centimetres. If each cup keeps drying at the same pace, on which day does each cup first have a dry layer of 5 centimetres?",
+   "problem": "In the Blanket Test, suppose the dry layer in the bare cup measured 0, 1, 2 and 3 centimetres on days 1 to 4, and the dry layer in the cup with leaves measured 0, 0, 1 and 1 centimetres. If each cup keeps drying at the same pace, on which day does each cup first have a dry layer of 5 centimetres?",
    "answer": "The bare cup reaches 5 centimetres on day 6. The leaf cup reaches it on about day 11, which is twice as long.",
    "explain": "The bare cup grows 1 centimetre a day, so day 4 is 3 centimetres, day 5 is 4 and day 6 is 5. The leaf cup grows about 1 centimetre every 2 days after day 2, so it reaches 5 centimetres at about day 11. This is a guess from the pattern on a line graph.",
    "math_unit": "math.data.line-graphs.L4",
@@ -2639,12 +2639,12 @@
    "why_maths": "A pattern of daily measurements lets us predict ahead and compare how fast two things change."
   },
   {
-   "problem": "A pond holds 24 fish. Each year, the fish left over make new fish equal to half of their number. Villagers take 8 fish each year. How many fish are there after the new fish arrive, in year 1 and in year 2? What if the villagers take 12 fish each year instead: in which year is the pond empty?",
+   "problem": "A pond holds 24 fish. Each year the villagers take 8 fish. Then the fish that are left have young, and the number of new fish is half the number that were left. How many fish are there after the new fish arrive, in year 1 and in year 2? What if the villagers take 12 fish each year instead: in which year is the pond empty?",
    "answer": "With 8 taken the pond has 24 fish after year 1 and 24 after year 2, so the pond can last for ever. With 12 taken it has 18 after year 1, 9 after year 2, and in year 3 there are not enough fish to take 12, so the pond is empty.",
    "explain": "With 8 taken: 24 minus 8 is 16, and half of 16 is 8, so 16 plus 8 makes 24 again. With 12 taken: 24 minus 12 is 12, plus half of 12 (6) is 18. Next, 18 minus 12 is 6, plus 3 is 9. Next, 9 minus 12 cannot be done, so the pond is empty in year 3.",
    "math_unit": "math.logic.problem-solving.L4",
    "how": "a4",
-   "context": "In the Shared Pond game, you take grains from a pond that grows back by a rule.",
+   "context": "In the Shared Pond game, you take beans, which stand for fish, from a pond that grows back by a rule.",
    "why_maths": "Following the numbers year by year shows that a small change in how much we take can be the difference between a pond that lasts and one that empties."
   },
   {
@@ -2653,7 +2653,7 @@
    "explain": "120 divided by 8 is 15. 120 divided by 10 is 12. 15 take away 12 is 3.",
    "math_unit": "math.division.division-facts.L4",
    "how": "a4",
-   "context": "In the Shared Pond game, you share something from a common pond. Here, a canal is shared among farmers.",
+   "context": "In the Shared Pond game, the players share one pond. Here, farmers share a canal.",
    "why_maths": "Dividing a shared amount shows what happens to each person's share when more people use the same thing, which is why shared things need rules."
   },
   {
@@ -2666,7 +2666,7 @@
    "why_maths": "Finding the area of a roof tells us how much rain we could catch and let sink into the ground instead of running down the street."
   },
   {
-   "problem": "On a trail, Kavya finds 12 signs. Four show food, 3 show shelter, 2 show travel of seeds, 2 show clean-up and 1 shows a change to the place. Which link is the most common? What fraction of the signs show food? Draw a bar chart in your notebook.",
+   "problem": "On a trail, you find 12 signs. Four show food, 3 show shelter, 2 show travel of seeds, 2 show clean-up and 1 shows a change to the place. Which link is the most common? What fraction of the signs show food? Draw a bar chart in your notebook.",
    "answer": "Food is the most common, with 4 signs. 4 out of 12 is one third of the signs. The bar chart has bars of height 4, 3, 2, 2 and 1.",
    "explain": "The biggest number is 4, which is food. 4 out of 12 simplifies to 1 out of 3. A bar chart puts each link on the bottom and the number of signs up the side.",
    "math_unit": "math.data.bar-charts.L4",
@@ -2769,7 +2769,7 @@
    "a": "Used in a way that leaves enough for the future."
   },
   {
-   "q": "Who made termite tunnels that let rain sink into the ground?",
+   "q": "Which insects dig tunnels that let rain sink into the ground?",
    "a": "Termites, who are ecosystem engineers."
   },
   {
@@ -2857,5 +2857,5 @@
   "wrong_idea": "Many people believed that a shared field, forest or pond is always used up, because each person gains by taking a bit more. Ostrom showed that many villages had kept shared things safe for centuries, by making and keeping their own rules."
  },
  "playtest": "Written as a parent and child in a city flat would use it, but not yet done at home. Forest Floor Test: the plates, soil, leaves and strainer are in most homes, and the whole test works over a bucket or a bathroom floor. The test has not been run, and the exact amounts (200 millilitres, a 5 centimetre slope, soil about a fingertip thick) are from the usual home version of this kind of test. The colour of the runoff is the most reliable result. The volumes can be close in some kitchens, which the steps say to write down as a result. Blanket Test: dry soil in a sunny window may dry faster or slower than the example numbers, which are made up. The Shared Pond numbers were worked out by hand for a pond of 20 grains. The videos have no address yet. Facts to be checked by a person before the unit goes live: the Khejarli date (1730) and the figure of 363 in the Bishnoi tradition, the 1980 ban on felling in the Uttar Pradesh hills after Chipko, the Amazon recycled share (a quarter to a third), the Atharvaveda and Isha Upanishad verse numbers, and that Elinor Ostrom's Nobel was in 2009.",
- "warm": {"words": ["MULCH", "ROOTS", "WORMS", "GROVE", "WATER"], "quiz": [["Dead leaves on forest soil help the ground soak up rain and let it go slowly.", true, "Leaf litter, roots and soil animals together make gaps that hold water like a sponge."], ["Sweeping the ground bare makes forest soil healthier and keeps more water.", false, "Bare soil dries out and washes away, while leaf litter keeps soil damp and feeds worms and fungi."], ["A layer of mulch keeps soil damp for longer than bare soil.", true, "Mulch covers the soil, so less water is lost to the sun and wind."], ["A forest is one living body, with all its plants and animals sharing one goal.", false, "Each plant and animal lives by its own needs, and they do not share a body or a goal."], ["No single leaf, root or worm holds the rain; the holding comes from all of them together.", true, "Each does a small job, and only together do they make a floor that soaks up water."], ["Shared forests and ponds are always ruined unless someone owns them or a government rules them.", false, "Many shared meadows, forests and canals have lasted hundreds of years under rules the villagers made and kept."], ["Plants send most of the water their roots drink out into the air as vapour.", true, "This is transpiration, and the vapour rises and may fall again as rain."], ["Sacred groves protect all the nature around them.", false, "Many groves are small and shrinking, and the land around them is often cleared."], ["Earthworms and termites change the soil and land where they live.", true, "They dig and mix the ground, which changes how water and living things use the place."], ["Taking as many fish as you can each day is sustainable.", false, "Sustainable means taking no faster than the fish grow back, so enough is left for the future."]], "odd": [[["Earthworm", "Termite", "Elephant", "Dragonfly"], "Dragonfly", "Earthworms, termites and elephants change soil or land so much that others find new homes; a dragonfly does not."], [["Leaf litter", "Roots in soil", "Worm tunnels", "Bare baked ground"], "Bare baked ground", "Leaf litter, roots and tunnels let rain soak in; bare baked ground sends it running off downhill."], [["Paw track", "Dropping", "Spider web", "Pebble"], "Pebble", "A track, a dropping and a web are signs left behind by living beings; a pebble is not."], [["Village pond", "Grazing field", "Shared forest", "Your pencil box"], "Your pencil box", "The first three are shared by a whole community; a pencil box belongs to one person."], [["Taking fallen twigs", "Catching fewer fish than hatch", "Pumping less than refills", "Felling a whole hillside"], "Felling a whole hillside", "The first three take no faster than it grows back; felling a whole hillside leaves nothing to grow back."]]}
+ "warm": {"words": ["MULCH", "ROOTS", "WORMS", "GROVE", "WATER"], "quiz": [["Dead leaves on forest soil help the ground soak up rain and let it go slowly.", true, "Leaf litter, roots and soil animals together make gaps that hold water like a sponge."], ["Sweeping the ground bare makes forest soil healthier and keeps more water.", false, "Bare soil dries out and washes away, while leaf litter keeps soil damp and feeds worms and fungi."], ["A layer of mulch keeps soil damp for longer than bare soil.", true, "Mulch covers the soil, so less water is lost to the sun and wind."], ["A forest is one living body, with all its plants and animals sharing one goal.", false, "Each plant and animal lives by her own needs, and they do not share a body or a goal."], ["No single leaf, root or worm holds the rain; the holding comes from all of them together.", true, "Each does a small job, and only together do they make a floor that soaks up water."], ["Shared forests and ponds are always ruined unless someone owns them or a government rules them.", false, "Many shared meadows, forests and canals have lasted hundreds of years under rules the villagers made and kept."], ["Plants send most of the water their roots drink out into the air as vapour.", true, "This is transpiration, and the vapour rises and may fall again as rain."], ["Sacred groves protect all the nature around them.", false, "Many groves are small and shrinking, and the land around them is often cleared."], ["Earthworms and termites change the soil and land where they live.", true, "They dig and mix the ground, which changes how water and living things use the place."], ["Taking as many fish as you can each day is sustainable.", false, "Sustainable means taking no faster than the fish grow back, so enough is left for the future."]], "odd": [[["Earthworm", "Termite", "Elephant", "Dragonfly"], "Dragonfly", "Earthworms, termites and elephants change soil or land so much that others find new homes; a dragonfly does not."], [["Leaf litter", "Roots in soil", "Worm tunnels", "Bare baked ground"], "Bare baked ground", "Leaf litter, roots and tunnels let rain soak in; bare baked ground sends it running off downhill."], [["Paw track", "Dropping", "Spider web", "Pebble"], "Pebble", "A track, a dropping and a web are signs left behind by living beings; a pebble is not."], [["Village pond", "Grazing field", "Shared forest", "Your pencil box"], "Your pencil box", "The first three are shared by a whole community; a pencil box belongs to one person."], [["Taking fallen twigs", "Catching fewer fish than hatch", "Pumping less than refills", "Felling a whole hillside"], "Felling a whole hillside", "The first three take things no faster than they grow back; felling a whole hillside leaves nothing to grow back."]]}
 }

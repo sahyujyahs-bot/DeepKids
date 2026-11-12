@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Try this with a grown-up. Light one torch bulb with two AA cells. Now put a second bulb into the same loop, one after the other. Both bulbs still glow, but each one is much dimmer than the single bulb was. The cells did not change. Where did the brightness go?",
-  "text": "The wires decide how the push of the cells is shared. In this unit you build circuits with bulbs in a row and bulbs side by side, and you score how bright each one is. You unscrew one bulb to see which circuit survives. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round, and you meet the guess that made every circuit diagram point the wrong way.",
+  "text": "The wires decide how the push of the cells is shared. In this unit you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747, which is why the arrow in every circuit diagram points the opposite way to the electrons.",
   "art": "A hand unscrewing one of two bulbs: in the circuit on the left both bulbs go dark, and in the circuit on the right the other bulb keeps glowing."
  },
  "outcomes": [
@@ -17,7 +17,7 @@
   "I can explain, using the idea of sharing the cell's push, why bulbs in a row are dimmer and bulbs side by side are not.",
   "I can explain why a thin filament glows while the thick wire stays cool, using the word resistance.",
   "I can draw a circuit diagram with the symbols for a cell, a bulb, a switch and a wire, and build a circuit from someone else's diagram.",
-  "I can say why the arrow in a circuit diagram is a guess from 1747, that electrons really move the other way and only slowly, and show that an LED lights one way round only.",
+  "I can say that the arrow in a circuit diagram comes from a guess made in 1747, and that electrons really move the other way, and only slowly. I can show that an LED lights only one way round.",
   "I can explain what a short circuit is and how a fuse protects a home.",
   "I can match switches in a row to 'both needed' and switches side by side to 'either one is enough', and design a circuit for each."
  ],
@@ -79,7 +79,7 @@
   },
   {
    "term": "Short circuit",
-   "meaning": "A path with almost no resistance that lets a very large current flow, because the wire joins the two ends of a cell, or two mains wires, directly.",
+   "meaning": "A path with almost no resistance, so a very large current flows. It happens when a wire joins the two ends of a cell, or two mains wires, directly.",
    "example": "A loose wire that touches both ends of a cell makes a short circuit. The wire and the cell get hot very fast.",
    "art": "A cell with a thick wire straight across it, a red warning sign, and wavy heat lines rising from the wire."
   },
@@ -122,7 +122,7 @@
    "perspectives": [
     {
      "who": "An electrician",
-     "explanation": "Series means one path. If one part fails open, everything in the path stops, so electricians use series only where that is wanted, such as a switch with the light it controls."
+     "explanation": "Series means one path. If one part breaks, everything in the path stops. So electricians use series only where that is wanted, such as a switch with the light it controls."
     }
    ],
    "art": "A single loop with a cell and two bulbs, with a thick arrow running all the way round through both bulbs."
@@ -149,7 +149,7 @@
    "concept": "Why a thin filament glows and a thick wire stays cool",
    "status": "defined",
    "definition": "Resistance is how much a part holds back the flow of electricity. Where resistance is high, the flowing charges give up more energy as heat.",
-   "description": "The wires in your circuit are thick copper, which holds back the flow very little, so almost no energy is given up in them. The filament is very thin and made of tungsten. It holds the flow back a lot, so the charges give up much of their energy there as heat. The filament of a bulb on the mains gets hot, at about 2,500 degrees Celsius, which is hotter than lava. A hot enough thing glows, as a heated iron rod glows red. A torch bulb filament is not so hot but works the same way. The same current goes through the wire and the filament, but the filament is where the energy goes.",
+   "description": "The wires in your circuit are thick copper, which holds back the flow very little, so almost no energy is given up in them. The filament is very thin and made of tungsten. It holds the flow back a lot, so the charges give up much of their energy there as heat. The filament of a bulb on the mains reaches about 2,500 degrees Celsius, which is hotter than lava. Anything that is hot enough glows, as a heated iron rod glows red. A torch bulb's filament is not so hot, but it works the same way. The same current goes through the wire and the filament, but the filament is where the energy goes.",
    "examples": [
     "The wires to a bulb stay cool while the filament glows.",
     "A long thin pencil lead in a loop makes the bulb dimmer, because the lead holds the flow back.",
@@ -167,7 +167,7 @@
    "concept": "Resistance and dimmers",
    "status": "defined",
    "definition": "A longer or thinner conductor has more resistance than a shorter or thicker one made of the same material.",
-   "description": "Imagine water flowing through a pipe. A long, narrow pipe lets less water through each second than a short, wide one, if the push is the same. Wires work in a similar way. If you add a long pencil lead into a loop with a bulb, the bulb glows less. If you slide the clip along the lead, you can change how much lead is in the loop, and so how bright the bulb is. A fan regulator or a light dimmer in a home does the same job, in a cleverer way.",
+   "description": "Think of water flowing through a pipe. A long, narrow pipe lets less water through each second than a short, wide one, if the push is the same. Wires work in a similar way. If you add a long pencil lead into a loop with a bulb, the bulb glows less. If you slide the clip along the lead, you can change how much lead is in the loop, and so how bright the bulb is. A fan regulator or a light dimmer in a home does the same job, in a cleverer way.",
    "examples": [
     "Sliding a clip along a pencil lead changes the bulb's brightness.",
     "A long thin extension wire holds back the flow more than a short thick one.",
@@ -234,7 +234,7 @@
    "concept": "Short circuits and fuses",
    "status": "defined",
    "definition": "A short circuit is a path with almost no resistance that lets a very large current flow. A fuse is a thin wire in a circuit that melts if the current gets too big, and so breaks the circuit.",
-   "description": "If a bare wire joins the two ends of a cell, there is nothing to hold the flow back except the wire. The current is huge, and the wire, and the cell, heat up fast. At home the same can happen if two mains wires touch, and the heat can start a fire. So a fuse or a trip switch, called a miniature circuit breaker or MCB, is put in the circuit. It has a thin part that heats first. When the current is too big, the fuse melts or the MCB flips, and the loop is broken before the wires get dangerous. A fuse protects the wires. It does not protect a person who is touching a live wire.",
+   "description": "If a bare wire joins the two ends of a cell, there is nothing to hold the flow back except the wire. The current is huge, and both the wire and the cell heat up fast. At home the same can happen if two mains wires touch, and the heat can start a fire. So a fuse or a trip switch, called a miniature circuit breaker or MCB, is put in the circuit. It has a thin part that heats first. When the current is too big, the fuse melts or the MCB flips, and the loop is broken before the wires get dangerous. A fuse protects the wires. It does not protect a person who is touching a live wire.",
    "examples": [
     "A fuse in the plug of an appliance melts when a fault makes the current too large.",
     "An MCB in the box near the main door trips and clicks off.",
@@ -299,7 +299,7 @@
   },
   {
    "text": "A short circuit lets a very large current flow, and a fuse or MCB protects the wiring by breaking the circuit.",
-   "evidence": "Electrical safety standards require fuses and breakers matched to the wire, because overheated wires cause fires, and tests show they cut the current in time."
+   "evidence": "Electrical safety standards require fuses and breakers that are matched to the wire, because overheated wires cause fires. Tests show that fuses and breakers cut the current in time."
   },
   {
    "text": "Two switches in a row need both to be closed, and two switches side by side need only one.",
@@ -338,7 +338,7 @@
  ],
  "big_questions": [
   {
-   "q": "The same bulb was bright alone, dim in a row and dark when there was a gap. Which of these is the real bulb?",
+   "q": "The same bulb is bright alone, dim in a row with a second bulb, and dark when there is a gap in the loop. Which of these is the bulb's real brightness?",
    "kind": "deep",
    "hint": "Think about what changed, and what stayed the same. Is brightness a fact about the bulb, or about the whole loop?"
   },
@@ -358,7 +358,7 @@
    "hint": "Where does the push of the cell get used up? Think of a crowd squeezing through a narrow gate."
   },
   {
-   "q": "India's power grid was joined into one national grid in 2013, and in 2012 a failure left about 600 million people without power. Is one big joined grid safer or riskier than many small ones?",
+   "q": "In 2012 a failure in India's power grid left about 600 million people without power. In 2013 the grid was joined into one national grid. Is one big joined grid safer or riskier than many small ones?",
    "kind": "big",
    "hint": "A joined grid can share power when one place fails. But a failure can also spread. List one good and one bad side."
   },
@@ -368,9 +368,9 @@
    "hint": "Think of a train with its carriages, a school day, a kitchen, and a village's water supply."
   },
   {
-   "q": "Franklin's guess about the direction of electricity turned out to be backwards, but engineers kept using it. When is it sensible to keep an old rule you know is a convention?",
+   "q": "Franklin's guess about the direction of electricity turned out to be backwards, but engineers kept using it. When is it sensible to keep an old rule that everyone has agreed to use, even when you know it does not match what really happens?",
    "kind": "big",
-   "hint": "Think about all the diagrams, books and machines that already use it. Think about which way the Sun 'rises' in the sentence we all use."
+   "hint": "Think about all the diagrams, books and machines that already use the rule. Think also of how we all still say that the Sun 'rises'."
   },
   {
    "q": "An electric eel stacks thousands of tiny cells in a row, and their small pushes add up to a very large one. What else in nature adds small pushes together?",
@@ -610,7 +610,7 @@
    "days": 1,
    "question": "What happens to the brightness of the bulbs when you add a second and a third bulb, in a row and side by side? What happens to the others when you take one out?",
    "predict": "Before you build anything, guess. How bright will two bulbs in a row be, compared with one bulb alone? How bright will two bulbs side by side be? Why do you think so?",
-   "fair_test": "Use the same two fresh cells and the same kind of bulb every time. Test in the same dim room, after your eyes have rested for one minute. Only the layout changes. The single bulb is the control and always scores 5. Ask a second person to score the bulbs too, without seeing your scores. If you both give the same score, you can trust it.",
+   "fair_test": "Use the same two fresh cells and the same kind of bulb every time. Test in the same dim room, after your eyes have rested for one minute. Only the layout changes. The single bulb is the control: you compare every other bulb with it, and it always scores 5. Ask a second person to score the bulbs too, without seeing your scores. If you both give the same score, you can trust it.",
    "results_table": [
     "Layout",
     "My guess (0 to 5)",
@@ -696,8 +696,8 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Dim the room. Build one loop with the cell holder, a bulb and two wires. Wait one minute for your eyes to adjust. This glow is the control and scores 5.",
-     "say": "Switch off the room light and draw the curtains. Join the cells to one bulb. This is our control. Look at how bright it is. It scores five.",
+     "do": "Dim the room. Build one loop with the cell holder, a bulb and two wires. Wait one minute for your eyes to adjust. This glow is the control: you compare every other bulb with it. It scores 5.",
+     "say": "Switch off the room light and draw the curtains. Join the cells to one bulb. This is our control, the bulb we compare all the others with. Look at how bright it is. It scores five.",
      "kid": "Dim the room. Light one bulb. This bulb scores 5.",
      "parent": "Use fresh cells and 2.5 volt bulbs. If the room cannot be made dark, cup a hand round each bulb and score every layout in the same way. Never leave a circuit joined for more than a minute. The cells run down. Cheap bulbs are often not quite equal, so light each bulb alone first and use the three that look most alike. Damp weather can make clips and bulb holders touch badly, so press each joint firmly.",
      "context": "In this step, you light one bulb to see what a normal glow looks like."
@@ -754,7 +754,7 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Take the loop apart. Join the left sides of two bulb holders with one short wire. Join the right sides with another. Join the cell holder to the left and right sides. Score both bulbs. Add a third bulb the same way.",
+     "do": "Take the loop apart. Join the left sides of two bulb holders with one short wire. Join the right sides with another. Join one wire from the cell holder to the left sides and the other wire to the right sides. Score both bulbs. Add a third bulb the same way.",
      "say": "Now give each bulb its own path. Join the two left sides with a wire, and the two right sides with a wire. Then join the cells to the left and the right. How bright are the bulbs now?",
      "kid": "Join the bulbs side by side. Each gets its own path. Score them.",
      "ask": [
@@ -767,7 +767,7 @@
        ]
       }
      ],
-     "parent": "Expect both bulbs to be about as bright as the single bulb, and a third bulb the same. Disconnect the cells after each test. Side by side, the cells run down faster, and the wires may feel a little warm. Use only the holder to touch hot bulbs.",
+     "parent": "Expect both bulbs to be about as bright as the single bulb, and a third bulb the same. Disconnect the cells after each test. Side by side, the cells run down faster, and the wires may feel a little warm. Hold hot bulbs only by their holders.",
      "context": "In this step, you wire the bulbs side by side, so that each bulb has its own path to the cells."
     },
     {
@@ -776,7 +776,7 @@
      "do": "Join two bulbs in a row again. Unscrew one bulb a little and watch the other. Then do the same with two bulbs side by side. Write down what the other bulb did each time.",
      "say": "Predict first. If I unscrew one bulb in the row, what will the other bulb do? And side by side? Now try each, and watch.",
      "kid": "Unscrew one bulb. What does the other bulb do? Try the row, then side by side.",
-     "parent": "In the row, both bulbs go out. Side by side, the other bulb stays as bright as before. Bulbs are usually only warm at 3 volts, but hold them by their holders. If the bulb in the row circuit stays lit when you unscrew the other, a wire is bridging the holder: check the wiring.",
+     "parent": "In the row, both bulbs go out. Side by side, the other bulb stays as bright as before. Bulbs are usually only warm at 3 volts, but hold them by their holders. If the bulb in the row circuit stays lit when you unscrew the other, a wire is joining the two sides of the empty holder. Check the wiring.",
      "check": {
       "t": "mcq",
       "q": "A string of festival lights goes completely dark when one bulb fails. How are its bulbs most likely joined?",
@@ -841,7 +841,7 @@
      "qty": 1
     }
    ],
-   "safety": "A coin cell can badly hurt a child who swallows it, so a grown-up holds it and keeps it from children under five. Put it back in its packet and tape the packet when done. Never join an LED straight to two AA cells, because the current is too big and the LED burns out.",
+   "safety": "A coin cell can badly hurt a child who swallows it. A grown-up holds it and keeps it away from children under five. Put it back in its packet and tape the packet when you have finished. Never join an LED straight to two AA cells, because the current is too big and the LED burns out.",
    "record": "In the table, write what the bulb did and what the LED did with the cell each way round. Draw an LED and mark which leg is plus.",
    "context": "In this experiment, you test whether a bulb and an LED care about which way round the cell is joined.",
    "setup": [
@@ -896,7 +896,7 @@
      "mins": 6,
      "do": "A grown-up holds the coin cell. Look at the LED. Find the long leg and the short leg. Touch the long leg to the cell's flat side marked plus. Touch the short leg to the other face of the cell. Write down what you see.",
      "say": "Hold the LED by its legs. One leg is longer. Touch the long leg to the plus face of the cell. Touch the short leg to the other face. What happens?",
-     "kid": "A grown-up holds the cell. Long leg to plus. Short leg to minus. Look!",
+     "kid": "A grown-up holds the cell. Touch the long leg to the plus face and the short leg to the minus face. What happens?",
      "adult": true,
      "parent": "The long leg is the plus leg. The coin cell has a plus face with writing on it and a flat minus face. If nothing happens, check the legs are touching the faces and not each other. A fresh coin cell typically gives a clear red glow. Keep the bent legs off the metal rim of the cell, because the rim joins to the plus face and the LED would be shorted and stay dark. If it is still dark, try the other LED or a new coin cell. With 2 to 4 children, only the grown-up holds the cell: the children take turns as the one who turns the LED, the one who records, and the one who draws. Put the cell back in its packet when you are finished.",
      "context": "In this step, you light an LED from a coin cell, one way round."
@@ -926,7 +926,7 @@
      "id": "s5",
      "mins": 5,
      "do": "A grown-up tapes two LEDs to the coin cell facing opposite ways. One has its long leg on the plus face. The other has its long leg on the minus face. Look at which one lights. Then turn the coin cell over.",
-     "say": "Two LEDs, facing opposite ways, on one cell. Which one will light? Now I turn the cell over. What will happen? Why?",
+     "say": "Here are two LEDs on one cell, facing opposite ways. Which one will light? Now I turn the cell over. What will happen? Why?",
      "kid": "Two LEDs face opposite ways. Which lights? Turn the cell over. Now which?",
      "adult": true,
      "parent": "Only one LED lights. When the cell is turned over, the other LED lights and the first goes dark. If both stay dark, check that each LED has one leg on each face.",
@@ -1003,7 +1003,7 @@
      "do": "Ask your child to draw three circuits from Bulb Teams as diagrams. Draw one bulb, two bulbs in a row, and two bulbs side by side. Use a ruler for the straight lines. Mark the plus end of the cell.",
      "say": "Now draw each circuit you built, using the symbols. Use a ruler for the wires. In the row, the bulbs are on one loop. Side by side, each bulb has its own branch.",
      "kid": "Draw your three circuits with the symbols. Use a ruler for wires.",
-     "parent": "If they did not do Bulb Teams, build the circuits quickly, or look at the picture steps of it. Check that the row has one loop and the side-by-side drawing has two branches joining the same two points.",
+     "parent": "If they did not do Bulb Teams, build the circuits quickly, or look at the pictures in the Bulb Teams steps. Check that the row has one loop and the side-by-side drawing has two branches joining the same two points.",
      "check": {
       "t": "mcq",
       "q": "In a diagram, two bulbs are drawn on two separate branches between the same two points. Which circuit is this?",
@@ -1078,14 +1078,14 @@
      "say": "A pencil's lead is graphite. It carries electricity, but holds it back more than copper does. A grown-up will shave one side of the pencil to show the lead.",
      "kid": "A grown-up shaves the pencil to show its lead. We will use the lead as a wire.",
      "adult": true,
-     "parent": "Use a blade away from the body (a sharpener cannot expose the lead). Shave only one side, so the lead stays held by the other half; the lead is brittle, so go slowly. A soft pencil such as 4B carries more current than an HB. Start with a 2B or 4B. If the bulb never lights, use a softer one. If it stays equally bright wherever the clip is, the lead is too good a conductor: try an HB.",
+     "parent": "Cut with the blade moving away from your body. A sharpener cannot expose the lead. Shave only one side, so the other half of the wood still holds the lead. The lead is brittle, so go slowly. A soft pencil such as 4B carries more current than an HB. Start with a 2B or 4B. If the bulb never lights, use a softer one. If the bulb stays equally bright wherever the clip is, the lead carries current too well, so try an HB.",
      "context": "In this step, a grown-up prepares a pencil lead that you can use as a wire."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Join a clip from the cell holder to one end of the lead. Join the bulb to the other clip, and touch it to the lead near the first clip. Slide it slowly away. Stop at 2, 5, 8 and 11 centimetres. Score the bulb from 0 to 5 each time. Write the scores in a table.",
-     "say": "Join the circuit through the pencil lead. Start with the clip near the first end. Slide it slowly along the lead. What does the bulb do as the clip moves away?",
+     "do": "Join a clip from the cell holder to one end of the lead. Join the bulb between the cell holder and a second clip. Touch the second clip to the lead near the first clip, then slide it slowly away. Stop at 2, 5, 8 and 11 centimetres from the first clip. Score the bulb from 0 to 5 each time. Write the scores in a table.",
+     "say": "Join the circuit through the pencil lead. Start with the second clip close to the first one. Slide it slowly along the lead. What does the bulb do as the clip moves away?",
      "kid": "Slide the clip along the lead. Watch the bulb. What changes?",
      "ask": [
       {
@@ -1133,7 +1133,7 @@
     }
    ],
    "schedule": [],
-   "safety": "A grown-up does all of this activity. The strand gets very hot and can burn skin and light paper. Use a metal tray, keep paper and cloth away, and have a bowl of water ready. Never do this with a wall socket, plug or phone charger. Sparks and tiny hot bits can fly: the adult keeps their face back, children watch from arm's length, and everyone stays at least one step from the tray. Steel wool fibres splinter skin, so wash hands after. The battery and the used strand stay hot for a minute.",
+   "safety": "A grown-up does all of this activity. The strand gets very hot and can burn skin and set paper alight. Use a metal tray, keep paper and cloth away, and have a bowl of water ready. Never do this with a wall socket, plug or phone charger. Sparks and tiny hot bits can fly, so the adult keeps their face back, children watch from arm's length, and everyone stays at least one step from the tray. Steel wool fibres can stick in skin like splinters, so wash hands afterwards. The battery and the used strand stay hot for a minute.",
    "record": "Draw the strand before and after, and write one sentence about why a fuse is a thin wire.",
    "context": "In this activity, a grown-up shows how a thin wire heats up and melts first, as a fuse does.",
    "setup": [
@@ -1159,16 +1159,16 @@
      "kid": "A grown-up does this. Which gets hotter, the thin strand or the thick wire? Why?",
      "adult": true,
      "parent": "Do this only with a grown-up in charge. Keep the children at arm's length: one child or several can watch, predict, and count seconds aloud, one holding the timer and one writing results. Use a metal tray, a 9 volt battery, and a bowl of water close by. No paper, cloth or plastic near the tray.",
-     "context": "In this step, you guess which is hotter, a thin strand or a thick wire."
+     "context": "In this step, you guess which will get hotter, a thin strand or a thick wire."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "A grown-up lays one thin strand across the two terminals of a 9 volt battery, holding the battery by its sides. The strand typically glows orange and breaks in a second or two. Count the seconds aloud. Then twist 5 or 6 strands into one bundle and try again. It lasts longer. Put the used strands on the tray. Disconnect and put the battery away.",
+     "do": "A grown-up holds a 9 volt battery by its sides and lays one thin strand across its two terminals. The strand typically glows orange and breaks in a second or two. Count the seconds aloud. Then twist 5 or 6 strands into one bundle and try again. The bundle lasts longer. Put the used strands on the tray. Take the strands off the battery and put the battery away.",
      "say": "Watch. The grown-up touches the strand across the battery. What happens to the thin strand? Now think: a fuse is a thin wire like this one, put in a circuit on purpose.",
      "kid": "A grown-up touches the strand to the battery. Watch the strand. What happens?",
      "adult": true,
-     "parent": "Single thin strand: it typically glows and breaks within a second or two, often with a few sparks. The twisted bundle should last longer, which shows that thicker means more flow gets through before it melts. If nothing happens, the strand may be too thick or loose: use finer steel wool, press it onto both terminals, or try a fresh battery. If steel wool is not available, a foil strip with a narrow neck works in the same way. Do not hold it for long, because the battery gets warm. Never do this with a plug, wall socket or mobile phone charger. Let the strands cool on the tray, then put them in the bin.",
+     "parent": "A single thin strand typically glows and breaks within a second or two, often with a few sparks. The twisted bundle should last longer, which shows that a thicker wire can carry more current before it melts. If nothing happens, the strand may be too thick or loose. Use finer steel wool, press it onto both terminals, or try a fresh battery. If you have no steel wool, a foil strip with a narrow neck works in the same way. Do not hold the strand on the battery for long, because the battery gets warm. Never do this with a plug, wall socket or mobile phone charger. Let the strands cool on the tray, then put them in the bin.",
      "check": {
       "t": "mcq",
       "q": "A fuse in a plug is a thin wire. Why is it thin on purpose?",
@@ -1185,7 +1185,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask your child where the fuse or MCB box is in your home. Find it together, without touching it. Ask who must do anything with it.",
+     "do": "Ask your child where the fuse or MCB box is in your home. Find it together, without touching it. Ask who is allowed to touch it.",
      "say": "Where is the fuse or MCB box in our house? Let us find it. It protects the wires in the walls. Who is allowed to touch it?",
      "kid": "Find the MCB box at home. Look, do not touch. It protects the wires.",
      "parent": "A fuse or MCB protects the wires, but it does not protect a person who touches a live wire. Only an adult resets an MCB, and only after finding out why it tripped.",
@@ -1251,7 +1251,7 @@
        ]
       }
      ],
-     "parent": "The bag stops at the one who sat down, and everyone behind has nothing to pass. This is why one broken bulb darkens a whole series string.",
+     "parent": "The bag stops at the person who sat down, and everyone after them has nothing to pass. This is why one broken bulb darkens a whole series string.",
      "context": "In this step, you act out a series circuit and then break it."
     },
     {
@@ -1273,7 +1273,7 @@
      "parent": "The other lane carries on. The cell has to hand out two bags at once, so with two lanes it hands out about twice as many beans in the same 30 seconds as in the ring, which is why cells run down faster in parallel. Counts will not be exact. With one child and one parent, use toys for the bulbs and count the beans yourselves.",
      "check": {
       "t": "mcq",
-      "q": "In your acting, one lane's bulb sat down and the other lane carried on. What does that show about a parallel circuit?",
+      "q": "In Be the Festival Lights, the bulb in one lane sat down and the other lane carried on. What does that show about a parallel circuit?",
       "options": [
        "The cell stops working",
        "A break anywhere stops everything",
@@ -1321,7 +1321,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use only AA cells. Keep the two rails apart so they never touch. Small parts such as drawing pins stay away from children under five. Wires and cells may get warm if the rails touch: open the switch and take them apart at once. Open the switch when you are not testing, because the cells run down fast.",
+   "safety": "Use only AA cells. Keep the two rails apart so they never touch. Keep small parts such as drawing pins away from children under five. If the rails touch, the wires and cells may get warm: open the switch and move the rails apart at once. Open the switch when you are not testing, because the cells run down fast.",
    "schedule": [],
    "record": "Keep the circuit diagram. Write a table of the two strings: brightness, and what the others do when one is unscrewed.",
    "context": "In this project, you build a small festival string where each bulb has its own path, and compare it with a string wired in a row.",
@@ -1371,7 +1371,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Close the switch. Check that all three bulbs light. Open the switch. Unscrew one bulb, close the switch again, and check that the others stay lit. Write down what you saw.",
-     "say": "Close the switch. Do all three glow? Now unscrew one bulb. What do the other two do? Does this string behave like the old string in the story, or differently?",
+     "say": "Close the switch. Do all three glow? Now unscrew one bulb. What do the other two do? In the story, Murugan mama's string went dark when one bulb broke. Does your string behave like that one, or differently?",
      "kid": "Close the switch. Do all three glow? Unscrew one bulb. What do the others do?",
      "parent": "All three bulbs should glow about as bright as one bulb alone. The cells run down faster than for one bulb, so open the switch when you are not testing.",
      "check": {
@@ -1394,7 +1394,7 @@
      "say": "Now build the same three bulbs in a row. How bright are they? What happens when you unscrew one? Which string would you hang across the lane, and why?",
      "kid": "Build three bulbs in a row. Compare it with your first string. Which is better?",
      "parent": "The side-by-side string is brighter and survives a broken bulb. But it needs more wire, and the cells run down faster. Real strings are often a mix: small groups of bulbs in a row, with the groups side by side.",
-     "think": "What is the price of a string where every bulb has its own path?",
+     "think": "What do you have to give up to have a string where every bulb has its own path?",
      "context": "In this step, you compare the string with a series string, and decide which is better for a festival."
     }
    ]
@@ -1422,7 +1422,7 @@
    "general": [
     "Two switches side by side for the 'either' circuit, like a doorbell with a front and a back button.",
     "Two switches in a row for the 'both' circuit, like a safe that needs two keys.",
-    "A diagram first, then the build, then a table of every combination."
+    "Draw the diagram first, then build the circuit, then make a table of every combination."
    ],
    "creative": [
     "A staircase light that can be switched on or off from the top or the bottom of the stairs, using two special switches.",
@@ -1534,7 +1534,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Priya builds two circuits with the same cells and the same kind of bulbs. In circuit X, two bulbs are in a row. In circuit Y, they are side by side. Which bulbs glow brighter?",
+   "p": "Two circuits use the same cells and the same kind of bulbs. In circuit X, two bulbs are in a row. In circuit Y, they are side by side. Which bulbs glow brighter?",
    "opts": [
     "They glow the same",
     "The bulbs in circuit Y",
@@ -1975,7 +1975,7 @@
     },
     {
      "t": "write",
-     "p": "Zoya says: 'The first bulb in a row uses up some of the electricity, so the second bulb is dimmer.' Explain what is wrong with her idea.",
+     "p": "Someone says: 'The first bulb in a row uses up some of the electricity, so the second bulb is dimmer.' Explain what is wrong with this idea.",
      "lines": 4,
      "a": "In a row the same current goes through every bulb, so nothing is used up on the way. If the second bulb were dimmer, equal bulbs would not glow equally, but they do. Both bulbs are dim because they share the cells' push.",
      "why": "A strong answer uses what was seen: both bulbs glowed equally, which shows the same current reached both.",
@@ -2034,7 +2034,7 @@
        "says": "Put every bulb side by side. One broken bulb leaves the rest lit, and every bulb is bright."
       },
       {
-       "who": "Nila, aged 9",
+       "who": "The daughter, aged 9",
        "says": "Use small groups of bulbs in a row, and put the groups side by side."
       }
      ],
@@ -2061,7 +2061,7 @@
      "p": "Why is a bulb's filament made so thin?",
      "opts": [
       "A thin wire carries more current",
-      "A thin wire is cheaper to see",
+      "A thin wire is cheaper to make",
       "A thin wire holds back the flow, so it gets hot enough to glow"
      ],
      "a": 2,
@@ -2111,7 +2111,7 @@
      "t": "truefalse",
      "p": "A fuse protects a person who is touching a live wire.",
      "a": false,
-     "why": "False. A fuse protects the wires from overheating. It can take too long to melt to save a person, so electrical safety rules for people still apply.",
+     "why": "False. A fuse protects the wires from overheating. It can take too long to melt to save a person, so people must still follow the safety rules for electricity.",
      "outcome": 6
     },
     {
@@ -2167,7 +2167,7 @@
      "p": "Why does a wire joined straight across a cell get hot so fast?",
      "opts": [
       "The cell makes heat on its own",
-      "Nothing holds back the flow, so a huge current goes through the thin wire",
+      "Nothing holds back the flow, so a huge current goes through the wire",
       "The wire is too long"
      ],
      "a": 1,
@@ -2184,7 +2184,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says: 'An electron races from the cell to the bulb really fast, which is why the bulb lights at once.' Is she right? Explain.",
+     "p": "A friend says: 'An electron races from the cell to the bulb really fast, which is why the bulb lights at once.' Is your friend right? Explain.",
      "lines": 5,
      "a": "Not quite. The electrons in a wire drift very slowly, less than a millimetre in a second. The wire is already full of electrons. The push from the cell passes along the wire almost at once and sets all of them moving together, so the bulb lights straight away.",
      "why": "A strong answer separates the slow drift of the electrons from the fast push that passes along the wire, like a row of marbles in a tube.",
@@ -2361,7 +2361,7 @@
   },
   {
    "j": "Why did the electron take so long to get to the bulb?",
-   "a": "It did not need to. The bulb was already waiting."
+   "a": "It did not need to hurry. The bulb lit without waiting for it."
   },
   {
    "j": "Why did the LED refuse to light?",
@@ -2386,7 +2386,7 @@
    "answer": "5 volts each in the first string. 10 volts each in the second. With fewer bulbs, each bulb has a bigger share of the same push.",
    "explain": "230 divided by 46 is 5. 230 divided by 23 is 10. The same 230 volts is shared between fewer bulbs, so each share is bigger.",
    "math_unit": "math.division.division-facts.L4",
-   "context": "This is about bulbs in a row sharing the cell's push, as the bulbs in Bulb Teams did.",
+   "context": "This is about bulbs in a row sharing one push, as the bulbs in a row did in Bulb Teams.",
    "why_maths": "Dividing shows how a push is shared among bulbs in a row, and lets you predict how bright each will be without building it.",
    "how": "e1"
   },
@@ -2400,16 +2400,16 @@
    "how": "e1"
   },
   {
-   "problem": "One cell lasts 12 hours with one bulb. Each extra bulb side by side drains it by the same amount again. How long does it last with 2 bulbs, 3 bulbs, 4 bulbs and 6 bulbs side by side? What pattern do you see?",
+   "problem": "One cell lasts 12 hours with one bulb. Every bulb side by side drains the cell at the same rate, so two bulbs drain it twice as fast. How long does the cell last with 2 bulbs, 3 bulbs, 4 bulbs and 6 bulbs side by side? What pattern do you see?",
    "answer": "6 hours, 4 hours, 3 hours and 2 hours. The more bulbs, the shorter the time, and 12 divided by the number of bulbs gives the answer.",
    "explain": "Two bulbs use the cell twice as fast, so 12 divided by 2 is 6 hours. Three bulbs: 12 divided by 3 is 4. Four: 3. Six: 2.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "This is about the cells running down faster when bulbs are side by side.",
-   "why_maths": "Ratio shows the price of a parallel circuit: each extra branch costs the cell as much again.",
+   "why_maths": "Dividing shows what a parallel circuit costs: each extra branch drains the cell as much as the first one did.",
    "how": "e1"
   },
   {
-   "problem": "A cell lasts 10 hours with one torch bulb. Anika uses the torch for 15 minutes each evening. How many evenings does the cell last? How many evenings would it last with two bulbs side by side?",
+   "problem": "A cell lasts 10 hours with one torch bulb. The torch is used for 15 minutes each evening. How many evenings does the cell last? How many evenings would it last with two bulbs side by side?",
    "answer": "40 evenings with one bulb, and 20 evenings with two bulbs side by side.",
    "explain": "10 hours is 600 minutes. 600 divided by 15 is 40. With two bulbs side by side the cell lasts half as long, so 20 evenings.",
    "math_unit": "math.time.duration.L4",
@@ -2667,26 +2667,26 @@
  "roots": {
   "context": "We have built circuits in rows and side by side, and seen the same bulb glow bright, dim or not at all. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The same bulb was bright alone, dim in a row, and dark with a gap. The bulb never changed. What it did was set by the loop it sat in. So a bulb has no brightness of its own.",
-   "habit": "We say 'a bright bulb' and 'a dim bulb', as if brightness belonged to the bulb the way its size does. That label hides that the same bulb glows differently when its loop changes.",
+   "truth": "In Bulb Teams, the same bulb was bright alone, dim in a row with a second bulb, and dark when there was a gap in the loop. The bulb never changed. How bright it was depended on the loop it was in. So a bulb has no brightness of its own.",
+   "habit": "We say 'a bright bulb' and 'a dim bulb', as if brightness belonged to the bulb the way its size does. This way of talking hides the fact that the same bulb glows differently when its loop changes.",
    "evidence": "In Bulb Teams, one bulb scored 5 alone and about 2 with a second bulb in a row. Side by side, it scored 5 again. Unscrewing one bulb put out the others in a row but not the others side by side."
   },
   "three": {
-   "who_am_i": "Each nerve cell in your body fires or stays quiet depending on the signals from the nerve cells joined to it. Like a bulb, a nerve cell is set by its loop.",
+   "who_am_i": "Each nerve cell in your body fires or stays quiet depending on the signals from the nerve cells joined to it. Like a bulb, what a nerve cell does depends on what it is joined to.",
    "what_is_life": "A Venus flytrap shuts their trap only if a hair inside is touched twice within about 20 seconds. That is like two switches in a row, where both must be pressed.",
-   "what_is_this_world": "A whole city, and India's national grid, are bulbs and machines side by side. Each gets a full push, and each can be switched off alone."
+   "what_is_this_world": "In a whole city, and across India's national grid, the bulbs and machines are joined side by side. Each gets a full push, and each can be switched off alone."
   },
-  "thread": "A cell is one push. The loop turns that one push into many different jobs: a glow in a filament, a hum in a fan, a ring in a bell. How the push is shared out depends on how the parts are joined. In a row, the parts share one push like one plate shared by a line of people. Side by side, every part draws from the same source at once. The world is joined in both ways. Some things depend on a single chain, and others on many paths at once.",
+  "thread": "A cell gives one push. The loop turns that one push into many different jobs: a glow in a filament, a hum in a fan, a ring in a bell. How the push is shared out depends on how the parts are joined. In a row, the parts share one push, like one plate shared by a line of people. Side by side, every part draws from the same source at once. The world is joined in both ways. Some things depend on a single chain, and others on many paths at once.",
   "teachings": [
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
-    "teaching": "Whatever comes to be in dependence on other things has no self of its own. Nagarjuna called this emptiness, and meant that things exist through their conditions.",
+    "teaching": "Anything that exists only because of other things has no nature of its own. Nagarjuna called this emptiness. He meant that things exist through their conditions, the other things they depend on.",
     "link": "A bulb's glow comes to be through the cell, the wires and the other bulbs in its loop. Change the loop, and the glow changes. Nagarjuna said this is true of everything."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding, 1988, on interbeing",
     "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain, the tree and the logger inside the paper. Nothing exists by itself alone.",
-    "link": "The light of a bulb contains the cell, the wire and the other bulbs of its loop, the way the paper contains the cloud."
+    "link": "The light of a bulb depends on the cell, the wire and the other bulbs in its loop, just as the paper depends on the cloud."
    }
   ],
   "science": [

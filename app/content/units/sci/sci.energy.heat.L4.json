@@ -3,7 +3,7 @@
  "title": "Heat and temperature: why the same heat warms oil faster than water",
  "level": 4,
  "summary": {
-  "text": "Stand a tumbler of cooking oil and a tumbler of water in the same bath of hot water, and the oil warms up about twice as fast. Pour hot water at 60 degrees over ice in a small katori, and it melts less ice than a big bowl of water at only 40 degrees. Your child measures both with a thermometer. They find that temperature says how hot a thing is, while the heat it can give depends on how much of it there is and what it is made of. Then they follow heat into melting ice, a balloon on a bottle, a wet cloth and a burning groundnut.",
+  "text": "Stand a tumbler of cooking oil and a tumbler of water in the same bath of hot water, and the oil warms up about twice as fast. Pour hot water at 60 degrees over ice in a small katori, and it melts less ice than a big bowl of water at only 40 degrees. Your child measures both with a thermometer. They find that temperature says how hot a thing is, while the heat it can give depends on how much of it there is and what it is made of. Then they see what heat does to melting ice, a balloon on a bottle, a wet cloth and a burning groundnut.",
   "art": "Two steel tumblers standing in a pan of hot water, one holding golden oil and one holding clear water, each with a thermometer, and the oil thermometer reading higher."
  },
  "intro": {
@@ -103,7 +103,7 @@
   },
   {
    "term": "Thermal equilibrium",
-   "meaning": "When two things that touch are at the same temperature, so no heat moves between them.",
+   "meaning": "Two things that touch are at the same temperature, so no heat moves between them.",
    "example": "A thermometer in a tumbler of water stops rising when it reaches the water's temperature.",
    "art": "A thermometer in a tumbler with the red line stopped, and a label saying same temperature."
   },
@@ -176,7 +176,7 @@
    "concept": "Why water holds so much heat",
    "status": "idea",
    "definition": "Water needs more heat for each degree than almost any common material. The reason is partly how its particles are built and joined.",
-   "description": "Heat does not only make particles move faster. In water, a good part of the heat goes into making the particles spin, wobble and stretch the links that hold them together. That heat does not show up as speed, so the thermometer rises less. Scientists understand this in general. Working out the exact number for water from first principles is still hard. Water is odd in dozens of ways, and scientists are still working out the reasons for some of them. We call this an idea, not a finished answer.",
+   "description": "Heat does not only make particles move faster. In water, a good part of the heat goes into making the particles spin, wobble and stretch the links that hold them together. That heat does not show up as speed, so the thermometer rises less. Scientists understand this in general. But working out the exact number for water, starting only from the basic laws of physics, is still hard. Water is odd in dozens of ways, and scientists are still working out the reasons for some of them. So this explanation is an idea, not a finished answer.",
    "examples": [
     "Water takes about twice as much heat as oil to warm by the same amount.",
     "Water takes more than eight times as much heat as steel, gram for gram.",
@@ -190,7 +190,7 @@
     },
     {
      "who": "Careful physicists",
-     "explanation": "The links are only part of the story. Water's particles can also store heat as spin and wobble, and quantum rules decide how much each way takes. The full numbers are still being worked out."
+     "explanation": "The links are only part of the story. Water's particles can also store heat as spin and wobble, and the rules of quantum physics decide how much heat each of these can take. The full numbers are still being worked out."
     }
    ]
   },
@@ -198,7 +198,7 @@
    "concept": "Sea, sand and sky: why places warm differently",
    "status": "defined",
    "definition": "Land warms and cools faster than the sea. This is because water needs more heat for each degree, and because sunlight and waves spread heat through deep water.",
-   "description": "In the sun, dry sand needs only about a fifth of the heat that water needs for each degree. Sunlight stays at the sand surface, so the top layer gets very hot. In the sea, sunlight goes down several metres, and waves and currents mix the heat through a deep layer. So the sea warms slowly by day and cools slowly by night. Places by the sea, such as Chennai, Kochi and Mumbai, usually have only about 7 to 10 degrees between their day and night. In a desert, such as Jaisalmer, the day and night can differ by 15 degrees or more. The difference in warming between land and sea also helps to drive the monsoon winds.",
+   "description": "In the sun, dry sand needs only about a fifth of the heat that water needs for each degree. Sunlight stays at the sand surface, so the top layer gets very hot. In the sea, sunlight goes down several metres, and waves and currents mix the heat through a deep layer. So the sea warms slowly by day and cools slowly by night. Places by the sea, such as Chennai, Kochi and Mumbai, usually have only about 7 to 10 degrees between their day and night temperatures. In a desert, such as Jaisalmer, the day and night can differ by 15 degrees or more. The difference in warming between land and sea also helps to drive the monsoon winds.",
    "examples": [
     "The sand at Marina beach in Chennai burns your feet at noon, while the sea beside it feels cool.",
     "Desert nights are cold because dry sand and thin dry air hold little heat and give it up quickly.",
@@ -212,7 +212,7 @@
    "concept": "Sharing heat: where a mixture ends up",
    "status": "defined",
    "definition": "When you mix two amounts of the same liquid at different temperatures, the mix ends between them, nearer the temperature of the bigger amount.",
-   "description": "A mix of 1 litre at 80 degrees and 3 litres at 20 degrees: multiply each amount by its temperature, add, and divide by the total. 1 times 80 is 80. 3 times 20 is 60. 80 plus 60 is 140. Divide by 4 litres and you get 35 degrees. The 3 litres are three times as much, so the mix is three times closer to 20 than to 80. For different materials you must also include their specific heats. A hot steel spoon dropped into a cup of cool water warms the water by only a degree or two, because the spoon holds very little heat for each degree.",
+   "description": "Suppose you mix 1 litre of water at 80 degrees with 3 litres at 20 degrees. To find the temperature of the mix, multiply each amount by its temperature, add, and divide by the total. 1 times 80 is 80. 3 times 20 is 60. 80 plus 60 is 140. Divide by 4 litres and you get 35 degrees. The 3 litres are three times as much, so the mix is three times closer to 20 than to 80. For different materials you must also include their specific heats. A hot steel spoon dropped into a cup of cool water warms the water by only a degree or two, because the spoon holds very little heat for each degree.",
    "examples": [
     "A little hot milk in a big glass of cold milk warms it only a little.",
     "A bucket of bath water is mixed from a kettle of hot water and a lot of cold water.",
@@ -304,7 +304,7 @@
     },
     {
      "who": "Some physicists",
-     "explanation": "Hot and cold are not mirror images. Cold has a floor, but heat may have a ceiling set by a deeper theory of gravity and quantum physics that nobody has yet."
+     "explanation": "Hot and cold do not work the same way. There is a coldest temperature. There may also be a hottest one, but to find it we would need a theory that joins gravity and quantum physics, and nobody has that theory yet."
     }
    ]
   }
@@ -323,7 +323,7 @@
    "evidence": "A thermometer in melting ice stays at 0 degrees until the last ice has gone. A thermometer in an open pot of boiling water stays at about 100 degrees at sea level."
   },
   {
-   "text": "Movement energy can turn into heat, and the exchange rate is fixed: about 4.2 joules for each calorie.",
+   "text": "Movement energy can turn into heat, and the rate is always the same: about 4.2 joules for each calorie.",
    "evidence": "James Joule measured it in the 1840s, with paddles driven by falling weights. Many careful measurements since then have found the same number."
   },
   {
@@ -381,14 +381,14 @@
  ],
  "big_questions": [
   {
-   "q": "The oil and the water sat in the same bath, and the oil ended up hotter. What does a thermometer tell you about the heat that went in, and what does it not tell you?",
+   "q": "In the Oil and Water test, the oil and the water stood in the same hot bath, and the oil ended up hotter. What does a thermometer tell you about the heat that went in, and what does it not tell you?",
    "kind": "deep",
    "hint": "Think about what you needed to know besides the temperature to say how much heat a thing had taken in."
   },
   {
    "q": "A sparkler's spark is hotter than boiling water, but it hardly hurts. What else besides temperature decides whether something can burn you?",
    "kind": "deep",
-   "hint": "Think about the bucket and the katori. Which one could melt more ice?"
+   "hint": "Think about the Katori and the Bowl test. Which one melted more ice, the small katori of hot water or the big bowl of warm water?"
   },
   {
    "q": "While ice melts, heat keeps going in, but the thermometer stays at 0. Where does that heat go?",
@@ -396,7 +396,7 @@
    "hint": "Think about what has to happen to the particles in a solid before they can flow as a liquid."
   },
   {
-   "q": "Your body is mostly water and stays near 37 degrees whether the day is hot or cool. How much of that is the water, and how much is your body working?",
+   "q": "Your body is mostly water and stays near 37 degrees whether the day is hot or cool. How much of that is because water warms and cools slowly, and how much is because your body works to stay there?",
    "kind": "big",
    "hint": "Think about sweating, shivering and the way a pot of water warms slowly."
   },
@@ -480,7 +480,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about how much heat different things hold. Each card shows a thing at home, and on the back, how much heat it takes to warm it by one degree. Players guess which of two cards holds more.",
+   "context": "This is a card game about how much heat different things hold. Each card shows a thing at home, and on the back, how much heat it takes to warm it by one degree. Players guess which of two cards needs more heat.",
    "printables": [
     {
      "kind": "cards",
@@ -655,7 +655,7 @@
     "Turn both cards over to check. A right first guess scores 1 point. A right second guess scores 1 point. The second guess is always the card with the smaller number. If the two numbers are equal, both guesses are right.",
     "Then take the top question card. Another player reads it out, you answer, and they turn it over to check. A right answer scores 1 point. If you play alone, check it yourself.",
     "Play until all 24 thing cards are used. That is 12 turns. With 2 players, each has 6 turns. With 4 players, each has 3.",
-    "The most points wins. Then everyone works together. Lay all 24 thing cards in one line, from the smallest heat per degree to the largest, and turn them over to check."
+    "The player with the most points wins. Then everyone works together. Lay all 24 thing cards in one line, from the smallest heat per degree to the largest, and turn them over to check."
    ],
    "flow": [
     {
@@ -664,7 +664,7 @@
      "do": "Cut out the 24 thing cards and the 8 question cards. Make one pile of each. Give each player a pencil and a score sheet.",
      "say": "Each thing card shows something from home, and how much heat it takes to warm it by one degree. We will guess which of two things takes more heat.",
      "kid": "Cut out the cards. Make two piles. Get a pencil and a score sheet.",
-     "parent": "Read out the number on one card as an example: a cup of water takes 200 calories for each degree. Remind your child that a calorie is the heat that warms 1 gram of water by 1 degree. Alone: you play both guesses and check yourself. With 2 to 4 players, take turns and share the pile of question cards.",
+     "parent": "Read out the number on one card as an example: a cup of water takes 200 calories for each degree. Remind your child that a calorie is the heat that warms 1 gram of water by 1 degree. A child playing alone makes both guesses and checks them without help. With 2 to 4 players, take turns and share the pile of question cards.",
      "context": "This is the first step of Heat Bank. You set up the cards and the score sheet."
     },
     {
@@ -689,7 +689,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Play the game. After each thing turn, take a question card.",
+     "do": "Play the game. After each turn with the thing cards, take a question card.",
      "say": "Your turn. Take two cards. Which needs more heat to warm by one degree? Why do you think so? Which would warm by more degrees from the same heat?",
      "kid": "Take two cards. Which needs more heat for each degree? Why?",
      "ask": [
@@ -811,7 +811,7 @@
      "mins": 4,
      "do": "Show your child the two tumblers, the oil, the water and the thermometers. Ask for a guess and a reason. Write both down at the top of the table.",
      "say": "We will put one tumbler of oil and one of water in the same hot bath. After 12 minutes, which will have warmed up more? Why do you think so?",
-     "kid": "Oil and water in the same hot bath. Which warms more? Why do you think so?",
+     "kid": "A tumbler of oil and a tumbler of water stand in the same hot bath. Which warms more? Why do you think so?",
      "ask": [
       {
        "q": "Why do you think that one will warm up more?",
@@ -862,7 +862,7 @@
      "say": "Stir gently, then read the oil, then the water. Write both numbers. What do you notice about the two numbers as time goes on?",
      "kid": "Stir. Read the oil. Read the water. Write both numbers. Again in 3 minutes.",
      "adult": true,
-     "parent": "A typical result in a 29 degree room, with a bath starting at 70 (these are about-numbers, not promises): the oil reads 29, 41, 50, 56, 60. The water reads 29, 35, 40, 44, 47. The oil warms by about 31 degrees and the water by about 18, which is not quite twice as much but near it. Your numbers will differ. The bath cools by a few degrees. A thermometer in oil may need an extra wipe. If the oil and water rise almost the same, the tumblers are probably not standing in enough bath: the pan water should reach about the height of the liquid inside, and the liquids must be stirred before every reading. The oil should still rise clearly faster than the water.",
+     "parent": "A typical result in a 29 degree room, with a bath starting at 70 (these numbers are rough, and yours will differ): the oil reads 29, 41, 50, 56, 60. The water reads 29, 35, 40, 44, 47. The oil warms by about 31 degrees and the water by about 18, which is not quite twice as much but near it. The bath cools by a few degrees. A thermometer in oil may need an extra wipe. If the oil and water rise almost the same, the tumblers are probably not standing in enough bath: the pan water should reach about the height of the liquid inside, and the liquids must be stirred before every reading. The oil should still rise clearly faster than the water.",
      "check": {
       "t": "mcq",
       "q": "Why do we stir each liquid gently before every reading?",
@@ -892,7 +892,7 @@
        "The same, because the bath was the same"
       ],
       "a": 0,
-      "why": "If the same heat warms the oil by twice as many degrees, then each degree of water needs about twice as much heat as each degree of oil. Picking the same heat is a common idea. The bath is the same, but the liquids answer it differently."
+      "why": "If the same heat warms the oil by twice as many degrees, then each degree of water needs about twice as much heat as each degree of oil. Picking 'the same' is a common mistake. The bath is the same, but the same heat warms the two liquids by different amounts."
      },
      "context": "In this step, you draw the graph and explain what happened, using what you think, what you saw, and why."
     }
@@ -903,7 +903,7 @@
    "title": "The Katori and the Bowl: which melts more ice?",
    "mins": 25,
    "days": 1,
-   "question": "A small katori holds hot water at 60 degrees. A big bowl holds warmer-than-room water at 40 degrees. If you put the same amount of ice in each, which melts more ice?",
+   "question": "A small katori holds hot water at 60 degrees. A big bowl holds warm water at 40 degrees. If you put the same amount of ice in each, which melts more ice?",
    "predict": "Before you start, guess. Which will melt more ice, the hotter katori or the cooler bowl? Or will they melt the same? Why do you think so?",
    "fair_test": "Take the ice cubes from the same tray, and put the same number in each container at the same time. Stir both gently in the same way. Count the cubes left at the same times. Only the amount and the temperature of the water change, so the difference comes from them.",
    "results_table": [
@@ -948,7 +948,7 @@
     }
    ],
    "record": "Write the temperature of each container at the start and at the end. Write how many cubes were left at 5 and 10 minutes. Draw each container with the cubes left.",
-   "context": "In this experiment, you add the same ice to a small katori of hot water and to a big bowl of warmer-than-room water, and find which one melts more.",
+   "context": "In this experiment, you add the same ice to a small katori of hot water and to a big bowl of warm water, and find which one melts more.",
    "setup": [
     {
      "art": "A small steel katori of hot water with a thermometer reading 60, beside a big bowl of water with a thermometer reading 40.",
@@ -969,7 +969,7 @@
      "mins": 3,
      "do": "Show your child the katori, the bowl and the ice. Explain that the katori will hold hotter water and the bowl will hold cooler water. Ask for a guess and a reason. Write both down.",
      "say": "A small katori will hold hot water. A big bowl will hold warm water, but cooler than the katori. We will drop the same ice in both. Which will melt more? Why?",
-     "kid": "A small katori of very hot water. A big bowl of warm water. Which melts more ice? Why?",
+     "kid": "A small katori holds very hot water. A big bowl holds warm water. Which melts more ice? Why?",
      "ask": [
       {
        "q": "Why do you think that one will melt more ice?",
@@ -980,7 +980,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Most children say the hotter katori, because hotter seems stronger. That is the idea this test checks. One child with a parent: the child counts and stirs, the parent makes the water. Two to four children: one child owns the katori, one owns the bowl, one counts cubes and one records. Both sets of hands start the ice at the same moment.",
+     "parent": "Do not correct the guess. Most children say the hotter katori, because hotter seems stronger. That is the idea this test checks. One child with a parent: the child counts and stirs, the parent makes the water. Two to four children: one child owns the katori, one owns the bowl, one counts cubes and one records. The katori child and the bowl child put the ice in at the same moment.",
      "context": "This is the first step of the Katori and the Bowl test. You guess before you test."
     },
     {
@@ -1029,7 +1029,7 @@
        "The bowl is made of better metal"
       ],
       "a": 0,
-      "why": "Melting ice needs heat, and the bowl has about ten times as much water, so it has far more heat to give. Picking cooler water makes sense if you did not expect the result. But temperature only tells how hot, not how much heat."
+      "why": "Melting ice needs heat, and the bowl has about ten times as much water, so it has far more heat to give. Picking 'cooler water melts ice better' is an easy mistake, because the cooler bowl did melt more. But temperature only tells how hot a thing is, not how much heat it holds."
      },
      "context": "In this step, you count the ice left and read the temperatures."
     },
@@ -1125,7 +1125,7 @@
      "mins": 4,
      "do": "Show your child the ice, the thermometer and the bath. Ask for a guess and a reason. Write both down.",
      "say": "We will stand a tumbler of ice in warm water. Heat will keep flowing into the ice. What will the thermometer do? Why do you think so?",
-     "kid": "Warm water heats the ice. What will the thermometer do? Why?",
+     "kid": "Warm water gives heat to the ice. What will the thermometer do? Why?",
      "ask": [
       {
        "q": "Why do you think the thermometer will do that?",
@@ -1147,7 +1147,7 @@
      "kid": "A grown-up cracks the ice. Put it in the tumbler with a little cold water. Read the thermometer.",
      "adult": true,
      "parent": "Ice that has just come out of a freezer can read 1 to 3 degrees below zero at first. After a minute of stirring it should settle at about 0. The thermometer is not exact, so a reading from minus 1 to 1 counts as zero.",
-     "context": "In this step, you cracked ice into a tumbler and read the starting temperature."
+     "context": "In this step, a grown-up cracks the ice, and you put it in a tumbler and read the starting temperature."
     },
     {
      "id": "s3",
@@ -1165,7 +1165,7 @@
      "do": "Every 2 minutes, stir the ice gently with the spoon. Read the thermometer. Write the number and whether there is ice left. Keep going until all the ice is gone and the reading has risen at least 5 degrees.",
      "say": "Stir gently, then read. What number is it now? Is there ice left? What is the thermometer doing?",
      "kid": "Stir. Read. Write the number. Is there ice left? Again in 2 minutes.",
-     "parent": "A typical result: 0, 0, 0, 0, 0, 1, 5, 10, 15, 20, 24 at the 2-minute marks. The reading stays at zero for roughly 6 to 14 minutes, while there is ice (these are about-numbers). How long depends on your cube size and the bath. If the ice is all gone in under 5 minutes, repeat with 6 cubes. If lumps are still there after 24 minutes, a grown-up adds a little warm water to the bath and you keep reading. The flat part should always appear while ice is left.",
+     "parent": "A typical result: 0, 0, 0, 0, 0, 1, 5, 10, 15, 20, 24 at the 2-minute marks. The reading stays at zero for roughly 6 to 14 minutes, while there is ice (these numbers are rough). How long depends on your cube size and the bath. If the ice is all gone in under 5 minutes, repeat with 6 cubes. If lumps are still there after 24 minutes, a grown-up adds a little warm water to the bath and you keep reading. The flat part should always appear while ice is left.",
      "check": {
       "t": "mcq",
       "q": "For ten minutes the thermometer stayed at 0, though the bath kept giving heat. Where was the heat going?",
@@ -1175,7 +1175,7 @@
        "It was going into the thermometer"
       ],
       "a": 0,
-      "why": "The heat was being used up in turning ice into water. This hidden heat is called latent heat. Picking the air is a good thought, but the bath was keeping the water warmer than the air."
+      "why": "The heat was being used up in turning ice into water. This hidden heat is called latent heat. Picking the air is a fair guess. But the bath was warmer than the air, so heat kept coming into the ice."
      },
      "context": "In this step, you read the thermometer every 2 minutes as the ice melts."
     },
@@ -1261,7 +1261,7 @@
      "mins": 4,
      "do": "Show your child the bottle, the balloon and the two basins. Ask for a guess about the hot water and the ice water, with a reason. Write both down.",
      "say": "The balloon sits on the bottle. We stand the bottle in hot water. What will the balloon do? Then we stand it in ice water. What will it do? Why?",
-     "kid": "A balloon on a bottle. Hot water. Ice water. What happens to the balloon? Why?",
+     "kid": "A balloon sits on a bottle. The bottle stands in hot water, then in ice water. What happens to the balloon each time? Why?",
      "ask": [
       {
        "q": "Why do you think the balloon will do that?",
@@ -1291,7 +1291,7 @@
      "say": "Watch the balloon. What is it doing? Is the bottle leaking? Where is the air coming from?",
      "kid": "A grown-up pours the hot water. Stand the bottle in it. Watch the balloon.",
      "adult": true,
-     "parent": "Expect the balloon to swell slowly to about the size of a small lime, and the string measure to climb by 4 to 10 centimetres (about numbers; a soft, well-stretched balloon swells more). The balloon has to stretch before it starts, so the first minute can look slow. If nothing happens, the balloon may be too stiff or leaking: stretch it more, check it fits tightly, and make sure the water comes high up the bottle.",
+     "parent": "Expect the balloon to swell slowly to about the size of a small lime, and the string measure to climb by 4 to 10 centimetres (these numbers are rough; a soft, well-stretched balloon swells more). The balloon has to stretch before it starts, so the first minute can look slow. If nothing happens, the balloon may be too stiff or leaking: stretch it more, check it fits tightly, and make sure the water comes high up the bottle.",
      "check": {
       "t": "mcq",
       "q": "The balloon swelled up in the hot water, but the bottle was closed. Where did the extra air come from?",
@@ -1491,8 +1491,8 @@
      "id": "a3s1",
      "mins": 4,
      "do": "Ask your child to feel a bit of wet cloth on the back of the hand, then blow on it. Ask for a guess about the thermometers, with a reason. Write it down.",
-     "say": "Put a wet cloth on your hand and blow on it. It feels cool. Now, a thermometer wrapped in wet cloth, and one wrapped in dry cloth. Which reads lower? Why?",
-     "kid": "Wet cloth on a thermometer. Dry cloth on another. Which reads lower? Why?",
+     "say": "Put a wet cloth on your hand and blow on it. It feels cool. Now we wrap one thermometer in wet cloth and another in dry cloth. Which will read lower? Why?",
+     "kid": "One thermometer has a wet cloth round it. The other has a dry cloth. Which reads lower? Why?",
      "ask": [
       {
        "q": "Why do you think that one will read lower?",
@@ -1532,7 +1532,7 @@
      "do": "Fan both thermometers with the stiff card for 3 minutes, from the same distance. Read both. Write the numbers and the difference. Try a second time if you like, wetting the cloth again.",
      "say": "Fan them both for three minutes, the same way. Read both. Which is lower? By how many degrees?",
      "kid": "Fan both for three minutes. Read both. Write the difference.",
-     "parent": "On a dry day, the wet thermometer often reads 3 to 6 degrees lower. In a very humid time, such as the Chennai or Mumbai monsoon, it may read only 1 or 2 degrees lower, because the air is already full of water and cannot take more. Either result is real, and tells you about the air. A day-old cloth that has dried makes the result poor, so wet it again just before fanning. Note the day's weather in the notebook.",
+     "parent": "On a dry day, the wet thermometer often reads 3 to 6 degrees lower. In very humid weather, such as the Chennai or Mumbai monsoon, it may read only 1 or 2 degrees lower, because the air is already full of water and cannot take more. Either result is real, and tells you about the air. A day-old cloth that has dried makes the result poor, so wet it again just before fanning. Note the day's weather in the notebook.",
      "check": {
       "t": "mcq",
       "q": "Why did the thermometer with the wet cloth read lower?",
@@ -1551,7 +1551,7 @@
      "mins": 4,
      "do": "Optional extra. Wrap one of the two same-sized water bottles in a wet cloth and leave it in a breeze for 20 minutes. Leave the other bottle bare. Then read the water in both.",
      "say": "Here is the clay matka trick, with a bottle. One bottle wears a wet cloth. One is bare. After twenty minutes, which water is cooler? Why?",
-     "kid": "One wet-wrapped bottle. One bare bottle. After twenty minutes, which is cooler?",
+     "kid": "One bottle is wrapped in a wet cloth. One bottle is bare. After twenty minutes, which water is cooler?",
      "parent": "The wet-wrapped bottle is usually 1 to 3 degrees cooler, if there is a breeze and the air is not very humid. This is how a clay matka keeps water cool.",
      "think": "In which month would the wet cloth cool the bottle more in your town, a dry month or a rainy month? Why?",
      "context": "In this step, you test the matka trick with a wet cloth around a bottle."
@@ -1630,10 +1630,10 @@
      "mins": 5,
      "do": "Explain that food holds heat, which our bodies release slowly. Ask your child to guess how many degrees 100 millilitres of water will rise when one groundnut burns under it. Write the guess.",
      "say": "A groundnut is food, and food holds heat. We will burn one under a katori of water. How many degrees do you think the water will rise? One? Ten? Fifty? Why?",
-     "kid": "Burn a groundnut under water. How many degrees will the water rise? Why?",
+     "kid": "A grown-up burns a groundnut under a katori of water. How many degrees will the water rise? Why?",
      "ask": [
       {
-       "q": "Why do you think so many degrees, or so few?",
+       "q": "Why do you think the water will rise by that many degrees?",
        "good": [
         "The nut is small, so just a few degrees.",
         "A flame is hot, so many degrees.",
@@ -1661,7 +1661,7 @@
      "say": "Watch the flame under the katori. It heats the water. When the flame dies, we stir the water and read the thermometer. Stand back from the fire.",
      "kid": "A grown-up lights the nut. Watch the water. When the flame dies, read the thermometer.",
      "adult": true,
-     "parent": "A groundnut often burns for 30 seconds to a minute. If it will not catch fire, hold the match to it for a few seconds, or use dry coconut. Keep the katori steady and close. The water usually rises 5 to 15 degrees. Keep the pin's tip away from fingers. Put the burnt nut in the bowl of water. If the water rises less than 3 degrees, the nut went out too early. Try again with 50 millilitres of water and multiply the rise by 50 instead of 100. If you have two nut halves, burn the second one the same way and compare.",
+     "parent": "A groundnut often burns for 30 seconds to a minute. If it will not catch fire, hold the match to it for a few seconds, or use dry coconut. Keep the katori steady and close. The water usually rises 5 to 15 degrees. Keep the skewer's tip away from fingers. Put the burnt nut in the bowl of water. If the water rises less than 3 degrees, the nut went out too early. Try again with 50 millilitres of water and multiply the rise by 50 instead of 100. If you have two nut halves, burn the second one the same way and compare.",
      "check": {
       "t": "mcq",
       "q": "Why do we keep the katori close to the flame, rather than far above it?",
@@ -1753,7 +1753,7 @@
      "what": "Read both at 6 in the morning. Draw a graph with two lines and say what you think, what you saw and why."
     }
    ],
-   "record": "A table with five times and two columns, sand and water. Then a line graph with two lines, time along the bottom and temperature up the side.",
+   "record": "Make a table with five times and two columns, sand and water. Then draw a line graph with two lines, with time along the bottom and temperature up the side.",
    "context": "In this two-day project, you put a plate of sand and a plate of water in the sun and read their temperatures through a day and a night. You find which one warms faster, and which cools faster.",
    "setup": [
     {
@@ -1775,7 +1775,7 @@
      "mins": 8,
      "do": "Show your child the plates, the sand, the water and the thermometers. Ask for guesses and reasons. Which plate will be hotter at noon? Which will be warmer at 6 the next morning? Write the guesses down.",
      "say": "Two plates in the sun, one with sand and one with water. Which will be hotter at noon? Which will be warmer next morning at 6? Why do you think so?",
-     "kid": "Sand and water in the sun. Which is hotter at noon? Which is warmer at night? Why?",
+     "kid": "A plate of sand and a plate of water stand in the sun. Which is hotter at noon? Which is warmer at night? Why?",
      "ask": [
       {
        "q": "Why do you think the sand will be hotter, or the water?",
@@ -1814,7 +1814,7 @@
      "do": "Read both thermometers at 9 at night, and again at 6 the next morning. Write the numbers.",
      "say": "It is night now. The sun has gone. Which plate is warmer? Is it the same plate that was hotter at noon?",
      "kid": "Read both at night. Read both again in the morning. Write the numbers.",
-     "parent": "This is the surprising part. The sand, which was hottest at noon, is often the coolest by morning. The water changes less, so it is often the warmer plate at 6 in the morning, though it was cooler at noon. The difference at morning is small and can be a degree or two, because water also evaporates and cools. On a humid or windy night the plates may match. Report what you saw, whichever way it goes.",
+     "parent": "This is the surprising part. The sand, which was hottest at noon, is often the coolest by morning. The water changes less, so it is often the warmer plate at 6 in the morning, though it was cooler at noon. The difference in the morning is small, often only a degree or two, because water also evaporates and cools. On a humid or windy night the plates may match. Report what you saw, whichever way it goes.",
      "check": {
       "t": "mcq",
       "q": "The sand was hotter at noon, but the water was warmer at 6 the next morning. Why?",
@@ -1894,7 +1894,7 @@
      "mins": 5,
      "do": "Read the problem together. Look at the constraints. Ask your child which design would keep the box warmest, and why.",
      "say": "You have one litre of hot water and a shoebox. How would you keep the box warm for twenty minutes in the cold? Why would your idea work?",
-     "kid": "A shoebox, one litre of hot water, a cold place. How will you keep it warm?",
+     "kid": "You have a shoebox, one litre of hot water and a cold place. How will you keep the box warm?",
      "ask": [
       {
        "q": "What would keep the box warmer for longer?",
@@ -1924,7 +1924,7 @@
      "say": "Build your first design. A grown-up pours the water. Read the thermometer at the start, at ten minutes and at twenty minutes. Write down the numbers so you have a score to beat.",
      "kid": "Build your box. A grown-up pours the water. Read at the start, ten minutes and twenty minutes.",
      "adult": true,
-     "parent": "Read the start before you shut the lid. Open a fridge door only briefly at each reading, or use a probe with a wire so you can read from outside. The numbers depend on the box, the jar and the fridge, so these are only about-numbers: the box starts at 28 and reads somewhere from 35 to 48 after 20 minutes with a big jar of hot water. A box with no water cools to about 10 to 15. If the fridge is full, use a cool shaded balcony instead and compare the results only within the same place.",
+     "parent": "Read the start before you shut the lid. Open a fridge door only briefly at each reading, or use a probe with a wire so you can read from outside. The numbers depend on the box, the jar and the fridge, so these numbers are only rough: the box starts at 28 and reads somewhere from 35 to 48 after 20 minutes with a big jar of hot water. A box with no water cools to about 10 to 15. If the fridge is full, use a cool shaded balcony instead and compare the results only within the same place.",
      "context": "In this step, you build and test your first design."
     },
     {
@@ -2031,7 +2031,7 @@
     "They are exactly the same temperature"
    ],
    "a": 0,
-   "why": "Oil needs less heat for each degree, so the heat from the bath warms it by more degrees. Picking exactly the same is common, because the bath is the same. But the liquids answer the bath differently.",
+   "why": "Oil needs less heat for each degree, so the heat from the bath warms it by more degrees. Picking exactly the same is common, because the bath is the same. But the same heat warms the two liquids by different amounts.",
    "outcome": 2
   },
   {
@@ -2180,14 +2180,14 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya heats 100 grams of oil and 100 grams of water on the same stove for the same time. What happens?",
+     "p": "100 grams of oil and 100 grams of water are heated on the same stove for the same time. What happens?",
      "opts": [
       "The oil warms by more degrees",
       "The water warms by more degrees",
       "Both warm by the same number of degrees"
      ],
      "a": 0,
-     "why": "Oil needs only about half as much heat as water for each degree. So the same heat warms the oil by about twice as many degrees. Picking the same number of degrees is common, because the heat is the same. But the two liquids answer it differently.",
+     "why": "Oil needs only about half as much heat as water for each degree. So the same heat warms the oil by about twice as many degrees. Picking the same number of degrees is common, because the heat is the same. But the same heat warms the two liquids by different amounts.",
      "outcome": 1
     },
     {
@@ -2482,10 +2482,10 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi says: the water must have got less heat from the bath than the oil, because it warmed less. What is wrong with her idea?",
+     "p": "Here is an idea: the water must have got less heat from the bath than the oil, because it warmed less. What is wrong with this idea?",
      "opts": [
       "Both got heat from the same bath. Water needs more heat for each degree, so it rose by fewer degrees",
-      "Nothing is wrong, she is right",
+      "Nothing is wrong. The idea is right",
       "Water cannot take in heat from a bath"
      ],
      "a": 0,
@@ -2588,7 +2588,7 @@
      ],
      "ask": "Which idea do you agree with most? Use something from this unit as evidence. Then say what another friend has right.",
      "lines": 6,
-     "a": "A strong answer usually agrees with Farhan: the bucket and katori test showed that a cooler bowl can melt more ice. It admits that Kavya has a point, since between two equal amounts of the same thing, the hotter one does hold more heat. It explains that heat and temperature are different, which Meenakshi's idea misses.",
+     "a": "A strong answer usually agrees with Farhan: the Katori and the Bowl test showed that a cooler bowl can melt more ice. It admits that Kavya has a point, since between two equal amounts of the same thing, the hotter one does hold more heat. It explains that heat and temperature are different, which Meenakshi's idea misses.",
      "why": "There is a real argument here. Scientists once agreed with Kavya and Meenakshi, until Joseph Black showed that temperature and the amount of heat are different. A strong answer uses evidence and is fair to the other friends.",
      "outcome": 0
     },
@@ -2641,7 +2641,7 @@
     },
     {
      "t": "write",
-     "p": "Radha heats 100 grams of oil and 100 grams of water with the same candle for the same time. The oil rises by 40 degrees. About how much does the water rise? Show your thinking.",
+     "p": "100 grams of oil and 100 grams of water are heated with the same candle for the same time. The oil rises by 40 degrees. About how much does the water rise? Show your thinking.",
      "lines": 3,
      "a": "About 20 degrees. Oil needs about half as much heat as water for each degree. So the same heat warms the water by about half as many degrees as the oil.",
      "why": "A strong answer uses the ratio of specific heats, one half, to turn 40 into 20.",
@@ -2846,7 +2846,7 @@
  "open_questions": [
   {
    "q": "Exactly why does water hold so much heat?",
-   "why_open": "Scientists know that links between water particles take in heat, but working out the exact number from first principles is still hard."
+   "why_open": "Scientists know that links between water particles take in heat, but working out the exact number, starting only from the basic laws of physics, is still hard."
   },
   {
    "q": "Is there a hottest possible temperature?",
@@ -2927,7 +2927,7 @@
    "math_unit": "math.addition-subtraction.written-methods.L4",
    "how": "e1",
    "context": "This is about the Oil and Water test, where oil and water stood in the same hot bath.",
-   "why_maths": "Taking each start from its end shows how far each liquid rose, so you can compare them fairly.",
+   "why_maths": "Subtracting each starting temperature from its final temperature shows how far each liquid rose, so you can compare them fairly.",
    "chart": {
     "type": "bar",
     "title": "Oil and Water: temperature after 12 minutes",
@@ -2962,7 +2962,7 @@
    "why_maths": "Changing between calories and kilocalories lets you compare the heat for water with the heat in a food."
   },
   {
-   "problem": "Meera mixes 1 litre of water at 80 °C with 3 litres of water at 20 °C. Work out the temperature of the mix.",
+   "problem": "1 litre of water at 80 °C is mixed with 3 litres of water at 20 °C. Work out the temperature of the mix.",
    "answer": "35 °C.",
    "explain": "1 litre times 80 is 80. 3 litres times 20 is 60. 80 plus 60 is 140. There are 4 litres in all. 140 divided by 4 is 35.",
    "math_unit": "math.division.division-facts.L4",
@@ -3035,7 +3035,7 @@
    "answer": "It must warm by 18 degrees to start melting. From minus 18 to 100 is 118 degrees.",
    "explain": "From minus 18 up to 0 is 18 steps. From 0 up to 100 is 100 steps. 18 plus 100 is 118.",
    "math_unit": "math.number-sense.negative-numbers.L4",
-   "why_maths": "Counting up through zero shows how far ice has to travel on a thermometer before it starts to melt."
+   "why_maths": "Counting up through zero shows how many degrees ice has to warm before it starts to melt."
   },
   {
    "problem": "A 100-metre steel bridge grows about 4 centimetres when it warms by 30 degrees. About how much does it grow when it warms by 15 degrees? And by 60 degrees?",
@@ -3045,7 +3045,7 @@
    "why_maths": "The growth goes up evenly with the warming, so doubling and halving let you predict a bridge's growth without measuring it."
   },
   {
-   "problem": "The Katori and the Bowl test: the katori held 100 grams of water at 60 °C. The bowl held 1,000 grams at 40 °C. Cooling to 0 °C, which would give out more calories? By how many calories?",
+   "problem": "In the Katori and the Bowl test, the katori held 100 grams of water at 60 °C. The bowl held 1,000 grams at 40 °C. If each cooled to 0 °C, which would give out more calories? By how many calories?",
    "answer": "The bowl gives out more, by 34,000 calories.",
    "explain": "The katori gives 100 times 60, which is 6,000 calories. The bowl gives 1,000 times 40, which is 40,000 calories. 40,000 minus 6,000 is 34,000.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -3237,16 +3237,16 @@
  "roots": {
   "context": "We have measured how fast oil and water warm, and watched ice melt without a change in temperature. Now we ask what this tells us about thermometers, about our own bodies and about the world.",
   "deep_truth": {
-   "truth": "The oil and the water sat in the same bath, and the oil ended up much hotter. A thermometer does not count the heat that went in. It shows how that one material answered the heat. So a temperature tells you about the stuff as well as the heat.",
-   "habit": "We read a temperature as if it were an amount of heat, as in 'it is hotter, so it has more heat'. But the same heat gives a different temperature in different stuff, and the same temperature can hide very different amounts of heat.",
-   "evidence": "In Oil and Water in a Warm Bath, both tumblers stood in the same bath. In a typical test the oil warmed by about twice as many degrees as the water. In the ice test, a small katori of water at 60 degrees melted less ice than a big bowl at 40."
+   "truth": "In the Oil and Water test, the oil and the water stood in the same hot bath, and the oil ended up much hotter. A thermometer does not count the heat that went in. It shows how much that heat warmed that one material. So a temperature depends on what a thing is made of, as well as on the heat.",
+   "habit": "We read a temperature as if it were an amount of heat, as in 'it is hotter, so it has more heat'. But the same heat gives a different temperature in different materials, and two things at the same temperature can hold very different amounts of heat.",
+   "evidence": "In Oil and Water in a Warm Bath, both tumblers stood in the same bath. In a typical test the oil warmed by about twice as many degrees as the water. In the Katori and the Bowl test, a small katori of water at 60 degrees melted less ice than a big bowl at 40."
   },
   "three": {
    "who_am_i": "You are about two thirds water, so your body warms and cools slowly. That helps to keep your inside near 37 degrees on a hot day and on a cool night.",
    "what_is_life": "A lizard takes in the sun's heat on a warm rock, and a hen makes her own. Water inside every living cell helps all of them keep their heat steady.",
    "what_is_this_world": "The seas hold so much heat that they steady the weather for whole countries. The Bay of Bengal and the Arabian Sea keep India's coasts milder than the plains far from them."
   },
-  "thread": "Heat is one thing, energy, but every kind of stuff takes it in in its own way. Oil takes it in mostly as faster movement, so it warms quickly. Water also spreads it into spinning, wobbling and stretching, so it warms slowly. The same heat meets many materials and shows up as many different temperatures. A warm sea, a hot sand dune and a 37-degree body are all the same energy, meeting different stuff.",
+  "thread": "Heat is energy, and it is the same energy everywhere. But each material takes it in differently. In oil, most of the heat goes into making the particles move faster, so oil warms quickly. In water, part of the heat also goes into making the particles spin, wobble and stretch, so water warms slowly. That is why the same heat gives different temperatures in different materials. A warm sea, a hot sand dune and a 37-degree body all hold the same kind of energy, in different materials.",
   "teachings": [
    {
     "source": "Tao Te Ching 78",
@@ -3271,7 +3271,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Temperature is a simple thing: the average energy of motion of the particles. It belongs to the heat alone. Oil and water follow the same rule. The water simply has more ways to store energy, so it needs more heat. Saying that temperature is partly about the stuff is a confusing way to put it."
+   "view": "Temperature is a simple thing: the average movement energy of the particles. It does not depend on the material. Oil and water follow the same rule. The water simply has more ways to store energy, so it needs more heat. Saying that temperature is partly about the material is a confusing way to put it."
   },
   "practice": {
    "title": "Where does your warmth go?",
@@ -3281,14 +3281,14 @@
   },
   "ask": [
    "If a thermometer shows temperature and not heat, how could you find out how much heat is in a cup of tea?",
-   "Is a temperature something a thing has by itself, or something that happens between a thing and the heat that meets it?",
-   "Your hands gave heat to the water and the water hardly warmed. Where is your heat now?"
+   "Does a temperature depend only on the heat that went in, or also on what the thing is made of?",
+   "When you held the tumbler of tap water, your hands gave heat to the water and the water hardly warmed. Where is that heat now?"
   ],
   "art": "Two thermometers, one in a tumbler of oil and one in a tumbler of water, standing in the same warm bath with a bright arrow of heat going into each, and the oil thermometer higher."
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: two thermometers are the one bought item, because the Oil and Water test needs both liquids read at the same time. With one thermometer, the unit says to do the test twice with a fresh bath. In the Oil and Water test, the bath is a wide pan at about 70 degrees, only 3 centimetres deep, so the steel tumblers rest on the bottom and do not float. The oil never goes on a flame and never exceeds about 70 degrees. Typical numbers, from working out the heat flow, are about 31 degrees of rise for the oil and 18 for the water in 12 minutes. The real ratio may be anywhere from 1.5 to 2.2, and the parent is told so. The Katori and the Bowl test uses 6 cubes in each, and the heat sums show that 100 grams of water at 60 degrees can melt only about 75 grams of ice. If the cubes are small, the parent is told to use more. Stuck at Zero uses a 2 litre warm bath so the bath stays warm, and the flat part lasts about 10 to 14 minutes. The balloon on a bottle needs a thin balloon that has been stretched first, and hot water that is not boiling, so the bottle does not soften. The groundnut test is done by a grown-up, with a steel plate, a bowl of water and an open window, and offers dry coconut for homes with a nut allergy. The water usually catches only a quarter to a third of the heat, and the unit says so. The sand and water project depends on sunshine. In the rains, the difference can be small, and the steps say to wait for a sunny day. The water is poured out at the end so mosquitoes cannot breed. Facts to verify before publishing: the Chennai and Jaisalmer day-and-night ranges (now stated as about 7 to 10 and 15 or more; checked against monthly climate tables), the Boomerang Nebula temperature (stated as reported), the several-trillion-degree figure (stated as reported), and Fahrenheit's mixing experiments as reported by Boerhaave (no numbers given). The spine is the Oil and Water test, the explanation cards, the Katori and the Bowl test, roots and the quiz.",
  "how_we_found_out": {
-  "story": "For a long time, people thought that a thermometer told them how much heat a thing held. A hotter thing had more heat, and two things at the same temperature had the same amount. Early in the 1700s, the instrument-maker Daniel Fahrenheit mixed water and mercury at different temperatures. The mix did not land halfway, and the Dutch doctor Herman Boerhaave reported this puzzle. In the early 1760s, Joseph Black, a Scottish chemist and doctor at the University of Glasgow, thought hard about it. He argued that different materials need different amounts of heat to warm by the same number of degrees. He also saw that melting ice takes in a lot of heat while a thermometer in it stays still. So the amount of heat and the temperature are not the same thing. He gave them separate names and measured them separately. In the 1840s, James Joule showed that heat is energy, and that movement can turn into it.",
+  "story": "For a long time, people thought that a thermometer told them how much heat a thing held. A hotter thing had more heat, and two things at the same temperature had the same amount. Early in the 1700s, the instrument-maker Daniel Fahrenheit mixed water and mercury at different temperatures. The mix did not end up at the temperature halfway between them, and the Dutch doctor Herman Boerhaave reported this puzzle. In the early 1760s, Joseph Black, a Scottish chemist and doctor at the University of Glasgow, thought hard about it. He argued that different materials need different amounts of heat to warm by the same number of degrees. He also saw that melting ice takes in a lot of heat while a thermometer in it stays still. So the amount of heat and the temperature are not the same thing. He gave them separate names and measured them separately. In the 1840s, James Joule showed that heat is energy, and that movement can turn into it.",
   "who": "Joseph Black, a Scottish chemist and doctor (1728 to 1799)",
   "when": "About 1760 to 1765",
   "wrong_idea": "A thermometer shows how much heat a thing holds, so things at the same temperature hold the same heat. Black showed that different materials, and different amounts, need different heat to change by the same number of degrees."

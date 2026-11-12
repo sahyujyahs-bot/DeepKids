@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Look at a spoon of Ugadi pachadi. It holds sweet jaggery, sour tamarind, salt, bitter neem flowers, hot pepper and raw mango. All six are in one spoon. Why would anyone put a bitter flower in a festival dish?",
-  "text": "Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this unit you test your own tongue, wake up some moong seeds, and plan a festival feast.",
+  "text": "Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this unit you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.",
   "art": "A Kerala sadya on a banana leaf seen from above, with many small dishes in rows, and a girl pointing at the bitter pavakka dish."
  },
  "outcomes": [
@@ -18,7 +18,7 @@
   "I can run a fair blind taste test and use the results to show that the tongue map in old books is wrong.",
   "I can explain why a taste is a signal, and why a food can give the signal without giving the goodness.",
   "I can explain how soaking, sprouting and fermenting change plant foods, and name some millets and why farmers grow them in dry land.",
-  "I can say why festival foods are what they are, and why festival sweets suit special days better than every day.",
+  "I can say why each festival has the foods it has, and why festival sweets suit special days better than every day.",
   "I can plan one meal that works for people with different needs."
  ],
  "cards_mins": 20,
@@ -107,7 +107,7 @@
    "concept": "A balanced diet is a pattern over many days",
    "status": "defined",
    "definition": "A balanced diet is a mix of many different foods, eaten over days and weeks, that gives the body enough of every nutrient it needs.",
-   "description": "In Class 3 you built a balanced plate. A plate is one meal. A body does not count meals, it counts days. You can eat very little greens at lunch and make up for it at dinner or tomorrow. What matters is the pattern. No single food has everything the body needs. The one food that comes close is a mother's milk, for a baby in the first six months. After that, a body needs variety. Eating many kinds of grain, pulse, vegetable, fruit and milk food helps, because each one carries a different mix of nutrients. A balanced diet is also not the same for everyone. A growing child, a grandmother, a runner and a pregnant woman need different amounts. The Indian Council of Medical Research and its National Institute of Nutrition, in Hyderabad, publish the Dietary Guidelines for Indians that families can use.",
+   "description": "In Class 3 you built a balanced plate. A plate is one meal. But the body does not need every meal to be perfect. You can eat very little greens at lunch and make up for it at dinner or tomorrow. What matters is the pattern over many days. No single food has everything the body needs. The one food that comes close is a mother's milk, for a baby in the first six months. After that, a body needs variety. Eating many kinds of grain, pulse, vegetable, fruit and milk food helps, because each one carries a different mix of nutrients. A balanced diet is also not the same for everyone. A growing child, a grandmother, a runner and a pregnant woman need different amounts. The Indian Council of Medical Research and its National Institute of Nutrition, in Hyderabad, publish the Dietary Guidelines for Indians that families can use.",
    "examples": [
     "A child who eats dal, a green vegetable and curd at lunch can have a lighter dinner, and still be balanced over the day.",
     "A family that eats only rice and potato for a week is not balanced, even if each meal fills the stomach.",
@@ -120,7 +120,7 @@
    "concept": "Traditional meals are balanced in their own way",
    "status": "defined",
    "definition": "A traditional meal is a set of dishes that people in a region have long eaten together. Many of them join a staple food, a pulse, a vegetable and a milk food.",
-   "description": "Look at the same job on different plates. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work.",
+   "description": "Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work.",
    "examples": [
     "A Kerala sadya joins rice, parippu, sambar, avial, thoran, pulissery, pickles and payasam on one banana leaf.",
     "A Gujarati thali has bajra or wheat roti, dal, kadhi, a vegetable, rice and chaas.",
@@ -180,8 +180,8 @@
   {
    "concept": "A taste can be copied without the goodness",
    "status": "defined",
-   "definition": "A taste is a signal from the chemicals in a food. A food can give the signal without giving what the signal once meant.",
-   "description": "A ripe mango gives sweetness together with fibre, vitamins and water. A bottle of sweet fizzy drink gives the same sweet signal with sugar and almost nothing else. Your tongue cannot tell the difference. It only reports sweet. Long ago, sweet foods were rare, mostly fruit and honey. A body that loved sweet was well fed. Today a factory can add sugar, salt and fat to a packet of chips or biscuits. The signal is strong, so we want more, and the food does not give back the goodness. The World Health Organization advises that sugars added to food and drink should be less than one tenth of the energy we eat in a day. Some foods are made so that eating them is hard to stop. That is why one packet of chips is rarely enough.",
+   "definition": "A taste is a signal from the chemicals in a food. A food can give the signal without the goodness that used to come with it.",
+   "description": "A ripe mango gives sweetness together with fibre, vitamins and water. A bottle of sweet fizzy drink gives the same sweet signal with sugar and almost nothing else. Your tongue cannot tell the difference. It only reports sweet. Long ago, sweet foods were rare, mostly fruit and honey. A body that loved sweet was well fed. Today a factory can add sugar, salt and fat to a packet of chips or biscuits. The signal is strong, so we want more, but the food does not give the goodness. The World Health Organization advises that sugars added to food and drink should be less than one tenth of the energy we eat in a day. Some foods are made so that eating them is hard to stop. That is why one packet of chips is rarely enough.",
    "examples": [
     "A sweet fizzy drink gives sugar and no fibre, no protein and almost no vitamins.",
     "Instant noodle flavour packets give a strong salty signal and little else.",
@@ -194,7 +194,7 @@
    "concept": "Festival foods: made from the season, rich in energy, made to share",
    "status": "defined",
    "definition": "A festival food is a dish made for a special day. Many of them use what the season gives, are rich in energy, and keep well or feed many people.",
-   "description": "Festival foods follow the year. Pongal in January is cooked from the new rice harvest, with jaggery from sugarcane, moong dal and ghee. Makar Sankranti is in the cool months, and Maharashtra gives til-gul, sesame with jaggery, which is rich in fat and energy. Ugadi is in spring, when raw mango and neem flowers come, so the pachadi is made of them. Onam is at the end of the monsoon, and its sadya is full of vegetables, banana and coconut. Diwali sweets and savouries, like laddu and murukku, have a lot of sugar and oil and very little water. Microbes cannot grow in food with little water, so these keep for weeks and can be shared. Many festival foods are rich in sugar and ghee because the day is special. Eaten on a few days of the year, they fit into a balanced diet. Eaten every day, they would not.",
+   "description": "Festival foods follow the year. Pongal in January is cooked from the new rice harvest, with jaggery from sugarcane, moong dal and ghee. Makar Sankranti is in the cool months, and in Maharashtra people give til-gul, sesame with jaggery, which is rich in fat and energy. Ugadi is in spring, when raw mango and neem flowers come, so the pachadi is made of them. Onam is at the end of the monsoon, and its sadya is full of vegetables, banana and coconut. Diwali sweets and savouries, like laddu and murukku, have a lot of sugar and oil and very little water. Microbes cannot grow in food with little water, so these keep for weeks and can be shared. Many festival foods are rich in sugar and ghee because the day is special. Eaten on a few days of the year, they fit into a balanced diet. Eaten every day, they would not.",
    "examples": [
     "Pongal: new rice, moong dal, jaggery and ghee, cooked in a new pot.",
     "Til-gul in Maharashtra at Makar Sankranti: sesame and jaggery, for the cool months.",
@@ -207,7 +207,7 @@
    "concept": "Millets: very old grains with new attention",
    "status": "defined",
    "definition": "Millets are small-seeded grasses grown as grain. Ragi, jowar, bajra, kodo, little millet and foxtail millet are all millets.",
-   "description": "People in India have grown millets for thousands of years. They grow in dry land with little water and little care. Ragi is rich in calcium, and has far more than rice does. Bajra and jowar bring fibre and iron. Fibre slows the body's taking in of sugar, and feeds the microbes in the gut. After the Green Revolution of the 1960s, India grew far more rice and wheat, and less millet. Rice and wheat were given at ration shops and became the grains everyone knew. Millets came back into attention. In 2023 the United Nations kept an International Year of Millets, which India had asked for. Advertisements sometimes call millets a superfood. 'Superfood' is a selling word, not a science word. Millets are good food, but no single food gives the body everything.",
+   "description": "People in India have grown millets for thousands of years. They grow in dry land with little water and little care. Ragi is rich in calcium, and has far more than rice does. Bajra and jowar bring fibre and iron. Fibre slows down how fast the body takes in sugar, and feeds the microbes in the gut. After the Green Revolution of the 1960s, India grew far more rice and wheat, and less millet. Rice and wheat were given at ration shops and became the grains everyone knew. Now millets are getting attention again. The United Nations marked 2023 as the International Year of Millets, which India had asked for. Advertisements sometimes call millets a superfood. 'Superfood' is a selling word, not a science word. Millets are good food, but no single food gives the body everything.",
    "examples": [
     "Ragi mudde and ragi dosa in Karnataka and Tamil Nadu.",
     "Jowar roti in Maharashtra and Karnataka, and bajra rotla in Gujarat.",
@@ -233,7 +233,7 @@
    "concept": "Food is not shared equally: too little and too much",
    "status": "defined",
    "definition": "Some children do not get enough food or enough of the right foods, and others eat too much of foods that are high in sugar, fat and salt. Both are called malnutrition.",
-   "description": "India grows more food than it needs, and yet many people do not eat a balanced diet. The National Family Health Survey, done in 2019 to 2021, found that more than a third of children under five were too short for their age, and that more than half of women aged 15 to 49 had anaemia, a shortage of iron in the blood. At the same time, more children than before were overweight. The reasons are not about what food exists. They are about money, work, how far a market is, what is sold in shops, and who in the family eats first and last. Free school meals are one answer. Tamil Nadu began giving meals to children in schools in the 1950s, and a national scheme now serves them across India. Studies have found that school meals bring more children to school, as well as feeding them.",
+   "description": "India grows more food than it needs, and yet many people do not eat a balanced diet. The National Family Health Survey, done in 2019 to 2021, found that more than a third of children under five were too short for their age, and that more than half of women aged 15 to 49 had anaemia, a shortage of iron in the blood. At the same time, more children than before were overweight. The reason is not a shortage of food. It is about money, work, how far a market is, what is sold in shops, and who in the family eats first and last. Free school meals are one answer. Tamil Nadu began giving meals to children in schools in the 1950s, and a national scheme now serves them across India. Studies have found that school meals bring more children to school, as well as feeding them.",
    "examples": [
     "A midday meal of rice, dal and a vegetable can be the biggest meal of the day for a child.",
     "A family with less money buys more rice and less milk, fruit and pulses, because rice fills the stomach at lower cost.",
@@ -246,7 +246,7 @@
    "concept": "People taste the same food differently",
    "status": "idea",
    "definition": "",
-   "description": "Ask a class to taste a piece of raw karela. Some will say it is very bitter and some will say it is only a little bitter. Scientists think part of this comes from genes. Bitter taste cells use many kinds of sensor, and the genes for these sensors are a little different from person to person. In 1931 Arthur Fox, a chemist in the USA, let a powder called PTC float into the air. A colleague nearby said it tasted bitter, and Fox tasted nothing. People turned out to fall into two groups, those who taste PTC as bitter and those who do not, and it comes from a gene. Experience matters too. A child who grows up eating karela often finds it less harsh. So when two people taste the same food and disagree, are they tasting different things, or tasting differently? Scientists would say a bit of both. The food is the same, but each tongue and each past is different.",
+   "description": "Ask a class to taste a piece of raw karela. Some will say it is very bitter and some will say it is only a little bitter. Scientists think part of this comes from genes. Bitter taste cells use many kinds of sensor, and the genes for these sensors are a little different from person to person. In 1931 Arthur Fox, a chemist in the USA, let a powder called PTC float into the air. A colleague nearby said it tasted bitter, and Fox tasted nothing. People turned out to fall into two groups, those who taste PTC as bitter and those who do not, and the difference comes from a gene. Experience matters too. A child who grows up eating karela often finds it less harsh. So when two people taste the same food and disagree, are they tasting different things, or tasting differently? Scientists would say a bit of both. The food is the same, but each tongue and each past is different.",
    "examples": [
     "One person finds coriander leaves fresh, and another finds them soapy. Part of this comes from genes.",
     "A person who grew up on fermented bamboo shoot may enjoy a smell that a visitor finds strong.",
@@ -287,7 +287,7 @@
    "claim": "Each taste has its own zone on the tongue, with sweet at the tip and bitter at the back.",
    "who": "This 'tongue map' was drawn in a book in 1942 and then copied into school books for decades.",
    "for": "Some zones are a little more sensitive to some tastes. The tip is quite good at sweet, and the back is quite good at bitter.",
-   "against": "In 1974 Virginia Collings, and many scientists after her, found that every taste is sensed in every zone. The differences are small. Your own blind test shows this.",
+   "against": "In 1974 Virginia Collings, and many scientists after her, found that every taste is sensed in every zone. The differences are small. In the Blind Taste Test, you can check this on your own tongue.",
    "status": "rejected"
   },
   {
@@ -331,7 +331,7 @@
    "hint": "Think about the rice you ate last week, the cells in your body, and the days it takes for food to become part of you."
   },
   {
-   "q": "If a sweet drink gives the same sweet signal as a mango, what else might your senses report that is not the whole story?",
+   "q": "A sweet drink gives the same sweet signal as a mango, but not the same goodness. What else might your senses tell you that is not the whole story?",
    "kind": "deep",
    "hint": "Think of a colour that looks different to a bee, or a smell that is strong to a dog and weak to you."
   },
@@ -348,7 +348,7 @@
   {
    "q": "Almost every culture marks special days with special food. Why might sharing food matter so much to people?",
    "kind": "big",
-   "hint": "Think about who cooks, who is invited, and what is left out on an ordinary day."
+   "hint": "Think about who cooks, who is invited, and what does not happen on an ordinary day."
   },
   {
    "q": "Traditional cooks in the past found that soaking and fermenting helped, without knowing about phytic acid. How can people know something works before they know why?",
@@ -404,7 +404,7 @@
   ]
  },
  "roots": {
-  "context": "We have tested the tongue, woken up seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.",
+  "context": "In this unit we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.",
   "deep_truth": {
    "truth": "Your tongue does not measure goodness. It reports sweet, salty, sour, bitter and umami, which once pointed to energy, minerals, ripe fruit, danger and protein. A sweet drink can give the sweet report with none of the fruit. So wanting a taste is not the same as needing the food.",
    "habit": "We say 'it tastes good, so it is good for me', and we say 'I crave it, so my body needs it'. But taste is only a signal made by the food's chemicals. It was a good guide for whole foods, and a food made in a factory can copy the signal without the goodness.",
@@ -412,15 +412,15 @@
   },
   "three": {
    "who_am_i": "You are the one who tastes, and your taste is partly built from your genes, your mother's food and the meals you grew up on.",
-   "what_is_life": "Your taste cells die and are replaced about every ten days, so the part of you that tastes is being rebuilt all the time, like the food it senses.",
+   "what_is_life": "Your taste cells die and are replaced about every ten days to two weeks. So the part of you that tastes is being rebuilt all the time, from the food you eat.",
    "what_is_this_world": "A sweet fruit, a bitter leaf and a salty crystal are different chemicals, and living beings built a sense that reads each one as a message."
   },
-  "thread": "A bitter flower, a sweet lump of jaggery and a sour fruit are all made from the same few kinds of atoms, rearranged by plants using sunlight. Your tongue does not read atoms. It reads shapes of molecules, which fit its sensors like keys in locks. Then your brain turns those shapes into sweet, sour and bitter. So the taste is made by the meeting of the food and the one who tastes. The food was built by a plant. The tongue was built by a body that came from other bodies, going back a very long way. When you eat, one built thing meets another, and the meal becomes you.",
+  "thread": "A bitter flower, a sweet lump of jaggery and a sour fruit are all made from the same few kinds of atoms, rearranged by plants using sunlight. Your tongue does not read atoms. It reads shapes of molecules, which fit its sensors like keys in locks. Then your brain turns those shapes into sweet, sour and bitter. So a taste is made when the food meets the one who tastes. The food was built by a plant. The tongue was built by a body, which came from other bodies before it, going back a very long way. When you eat, the food becomes part of your body.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "The text says that all beings are born from food, live by food, and go back into food when they die. It calls food the first of all things, because it is what a living being is made of.",
-    "link": "Your tongue, your blood and your bones are made from the dal, rice and milk of past meals. The meal does not end at your mouth. It goes on being you."
+    "link": "Your tongue, your blood and your bones are made from the dal, rice and milk of past meals. The meal does not end at your mouth. It becomes part of you."
    },
    {
     "source": "Charaka Samhita, Sutrasthana 26",
@@ -430,7 +430,7 @@
    {
     "source": "Thich Nhat Hanh, The Miracle of Mindfulness (1975), the tangerine",
     "teaching": "The Buddhist teacher Thich Nhat Hanh asks us to eat a tangerine slowly, giving it our whole attention. He says that if our mind is somewhere else, we are not really eating the tangerine.",
-    "link": "The tongue test is a way of paying attention to taste. When you slow down, a taste is no longer one word, sweet, but a whole small world."
+    "link": "The tongue test is a way of paying attention to taste. When you slow down, you notice more than the one word 'sweet'. You notice the first taste, how it changes, and what comes next."
    }
   ],
   "science": [
@@ -445,7 +445,7 @@
   ],
   "other_view": {
    "who": "Many nutrition scientists",
-   "view": "Tastes are pleasant things to talk about, but a body needs nutrients, and nutrients are measured, not tasted. They would say that a meal with all six rasas is not proof that it is balanced, and that traditional meals, loved as they are, should still be checked against what children actually need."
+   "view": "They say that tastes are pleasant to talk about, but a body needs nutrients, and nutrients are measured, not tasted. A meal with all six rasas is not proof that it is balanced. Traditional meals, however much they are loved, should still be checked against what children actually need."
   },
   "practice": {
    "title": "One slow taste",
@@ -513,7 +513,7 @@
      "qty": 1
     }
    ],
-   "safety": "Every tester gets their own new buds and never shares a bud. Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up does the grating. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
+   "safety": "Every tester gets their own new buds and never shares a bud. Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up grates the karela. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
    "record": "Write the taste that was said and the strength from 0 to 3 for every touch. Then colour a drawing of the tongue to show where each taste was named correctly.",
    "context": "In this experiment, you test the tongue map from old books. You touch tiny drops of four tastes to different parts of the tongue, with the tester's eyes shut.",
    "setup": [
@@ -578,7 +578,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Rinse the child's mouth with water. Ask them to sit with eyes shut and tongue out. Dry the tongue with a tissue. Show how you will touch the tip once with a damp bud, so the child knows what is coming.",
+     "do": "Rinse the child's mouth with water. Ask them to sit with eyes shut and tongue out. Dry the tongue with a tissue. Touch the tip of the tongue once with a damp bud, so the child knows what is coming.",
      "say": "Shut your eyes and stick out your tongue. I will dry it first. Then I will touch it with a damp bud for two seconds.",
      "kid": "Shut your eyes. Stick out your tongue. A grown-up will dry it and touch it with a bud.",
      "parent": "Touch the bud to the rim of the cup after dipping it, so it is damp and not dripping. A dripping bud spreads the liquid over the whole tongue, and spoils the test. Practise once with a bud dipped in plain water.",
@@ -600,7 +600,7 @@
        ]
       }
      ],
-     "parent": "The order of the 20 touches, in cup and part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. With 2 to 4 children, give each child a job and swap after each tester: tester (eyes shut), toucher (dips and touches), recorder (writes the table), and timer or rinse-helper. Every child can do the whole list in turn, which takes about 15 minutes each. If time is short, split the list: the first tester does touches 1 to 7, the next 8 to 14, the next 15 to 20, and you pool all the dots on one tongue drawing. One child alone with a parent works as written. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.",
+     "parent": "Here is the order of the 20 touches. Each one gives the cup, then the part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. With 2 to 4 children, give each child a job and swap after each tester: tester (eyes shut), toucher (dips and touches), recorder (writes the table), and timer or rinse-helper. Every child can do the whole list in turn, which takes about 15 minutes each. If time is short, split the list: the first tester does touches 1 to 7, the next 8 to 14, the next 15 to 20, and you pool all the dots on one tongue drawing. One child alone with a parent works as written. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write what you hear.",
      "check": {
       "t": "mcq",
       "q": "Your child says 'sweet' for a touch of plain water. What does that mean for the test?",
@@ -633,7 +633,7 @@
    "days": 3,
    "question": "Does a moong seed that has been soaked, or soaked and sprouted, cook faster than a dry one? And how much heavier do the seeds get?",
    "predict": "Before you start, guess. Which will cook softest first: dry moong, soaked moong or sprouted moong? Why do you think so?",
-   "fair_test": "All three batches start as 50 grams of the same moong. Twelve seeds from each batch are counted out and tied loosely in a small cloth bag (a different colour string for each), and all three bags cook together in the same big pan of gently boiling water, so the heat is exactly the same. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each bag is tested for softness the same way, by pressing one cooled seed between thumb and finger.",
+   "fair_test": "All three batches start as 50 grams of the same moong. Twelve seeds from each batch are counted out and tied loosely in a small cloth bag, with a different colour of string for each batch. All three bags cook together in the same big pan of gently boiling water, so the heat is exactly the same. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each bag is tested for softness the same way, by pressing one cooled seed between thumb and finger.",
    "results_table": [
     "Seeds",
     "Weight at the start (g)",
@@ -672,7 +672,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does all the cooking, because the pan, the boiling water and the steam are hot, and a grown-up lifts the bags out with a long spoon. Children stand back from the stove and only press the cooled seeds. Keep young children away from the stove. Cooled seeds are pressed on a plate or between thumb and finger only after they have cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them. This test cooks them well, so it is safe to taste at the end. Skip tasting if anyone has a pulse allergy.",
+   "safety": "A grown-up does all the cooking, because the pan, the boiling water and the steam are hot. A grown-up lifts the bags out with a long spoon. Children stand back from the stove. They press a seed, on a plate or between thumb and finger, only after the seed has cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them. This test cooks them well, so it is safe to taste at the end. Skip tasting if anyone has a pulse allergy.",
    "record": "Write the weights, the tail length and the cooking times in the table. Draw the three kinds of seed: dry, soaked and sprouted. Then write what you thought, what you saw and why.",
    "context": "In this experiment, you wake up moong seeds by soaking and sprouting them. Then you cook all three batches together and time how long each takes to turn soft.",
    "setup": [
@@ -697,7 +697,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Guess. Weigh three portions of moong. Put B and C to soak in water in the evening."
+     "what": "Guess which moong will cook fastest. Weigh three portions of moong. In the evening, put bowls B and C to soak in water."
     },
     {
      "day": 2,
@@ -715,7 +715,7 @@
      "id": "s1",
      "mins": 12,
      "do": "Weigh three portions of 50 grams of moong, or measure 4 level tablespoons each. Put them in bowls A, B and C. Pour 150 millilitres of water on B and on C. Leave A dry. Write the weights.",
-     "say": "We will wake up two bowls of moong, and leave one asleep. Which will cook fastest? Why do you think so?",
+     "say": "We will soak two bowls of moong to wake the seeds up, and leave one bowl dry. Which will cook fastest? Why do you think so?",
      "kid": "Put equal moong in three bowls. Add water to B and C. Leave A dry.",
      "ask": [
       {
@@ -727,7 +727,7 @@
        ]
       }
      ],
-     "parent": "Do this in the evening. With 2 or 3 children, each child looks after one bowl (A, B or C) and weighs and records it; with 4, one child is the timer and writer. One child alone looks after all three.  The soaking takes 8 to 10 hours. Write the guesses on the table. If you have no scale, write the volume of the seeds in a measuring cup instead.",
+     "parent": "Do this in the evening. The soaking takes 8 to 10 hours. With 2 or 3 children, each child looks after one bowl (A, B or C), and weighs and records it. With 4 children, the fourth child is the timer and writer. One child alone looks after all three bowls. Write the guesses on the table. If you have no scale, write the volume of the seeds in a measuring cup instead.",
      "context": "This is the first step of Wake Up the Moong. You weigh the seeds and start soaking two bowls."
     },
     {
@@ -747,7 +747,7 @@
        "Dirt from the bowl"
       ],
       "a": 0,
-      "why": "A dry seed has very little water. The seed soaks up water through their skin and swells. The extra weight is water, so the soaked seed weighs more."
+      "why": "A dry seed has very little water. Seeds soak up water through their skin and swell. The extra weight is water, so the soaked seeds weigh more."
      },
      "context": "In this step, you drain and weigh the soaked seeds, and set one batch to sprout."
     },
@@ -767,7 +767,7 @@
        ]
       }
      ],
-     "parent": "Weights are about, not exact: soaked moong often weighs roughly double the dry moong, but yours may differ. A tail is the first root, and a good length is a few millimetres to a centimetre. If your sprouts are very short, write that down. The seeds are alive, and have started to grow.",
+     "parent": "The weights will not be exact. Soaked moong often weighs roughly double the dry moong, but yours may differ. A tail is the first root, and a good length is a few millimetres to a centimetre. If your sprouts are very short, write that down. The seeds are alive, and have started to grow.",
      "context": "In this step, you look at what soaking and sprouting have done to the seeds."
     },
     {
@@ -787,7 +787,7 @@
        ]
       }
      ],
-     "parent": "Stop at 40 minutes. If the dry moong is still hard at 40 minutes, write 40 plus. That is a result. Typical times for whole moong are about 10 minutes for sprouted, about 15 to 20 for soaked, and 35 to 45 or more for dry, but yours may differ. Also, with 2 to 4 children, one reads the timer, one presses the cooled seeds and calls out soft or hard, and one writes; swap after each round. The grown-up still lifts the bags. You can read the card on old ways of preparing food while you wait. The time for each batch depends on your moong and your flame, so your numbers may differ from anyone else's. All three bags share one pan, so the heat is the same.",
+     "parent": "Stop at 40 minutes. If the dry moong is still hard at 40 minutes, write 40 plus. That is a result. Typical times for whole moong are about 10 minutes for sprouted, about 15 to 20 for soaked, and 35 to 45 or more for dry. The time for each batch depends on your moong and your flame, so your numbers may differ from anyone else's. All three bags share one pan, so the heat is the same. With 2 to 4 children, one reads the timer, one presses the cooled seeds and calls out soft or hard, and one writes. Swap after each round. The grown-up still lifts the bags. You can read the card on old ways of preparing food while you wait.",
      "check": {
       "t": "mcq",
       "q": "The sprouted moong turned soft in 10 minutes, and the dry moong needed more than 30. What does this suggest?",
@@ -878,7 +878,7 @@
       },
       {
        "f": "Inji puli, from Kerala. Ginger, tamarind, green chilli and jaggery are cooked down to a thick sauce.",
-       "b": "Jobs: protective, but only in a little. A spoonful is eaten for the taste. Tastes: sweet from the jaggery, sour from the tamarind, and pungent from the ginger and chilli."
+       "b": "Jobs: protective, but only a little. A spoonful is eaten for the taste. Tastes: sweet from the jaggery, sour from the tamarind, and pungent from the ginger and chilli."
       },
       {
        "f": "Ugadi pachadi, from Karnataka, Andhra Pradesh and Telangana. Jaggery, tamarind, salt, neem flowers, pepper and raw mango pieces are mixed in one bowl.",
@@ -958,7 +958,7 @@
     "Before you turn the card over, say one job the dish does and one taste it has.",
     "Turn the card over. Score 1 point if your job is on the back. Score 1 point if your taste is on the back.",
     "Place the card in one of the job boxes on your mat, in a job the dish does. Colour the circle for each taste on the back.",
-    "Each player takes 6 cards. Then count your mat. Score 1 point for each coloured taste circle. Score 3 points for each job box with 2 or more dishes.",
+    "Play until each player has taken 6 cards. Then count the points on your mat. Score 1 point for each coloured taste circle. Score 3 points for each job box with 2 or more dishes.",
     "Score 5 more points if all six taste circles are coloured. The player with the most points wins. If you tie, share the win.",
     "Playing alone: take 12 cards, one after another, and try to colour all six circles. Beat your own score the next time."
    ],
@@ -969,7 +969,7 @@
      "do": "Cut out the 24 cards with blunt scissors. No printer? Copy the dish names onto 24 paper slips and let the parent read the back from the phone. Draw a feast mat for each player. Shuffle the cards into a pile with the dish names facing up. Give each player a pencil.",
      "say": "Today we will build a feast. Each dish gives energy, or builds the body, or protects it. Each dish also has tastes. Let us see how many we can fill.",
      "kid": "Cut out the cards. Draw your feast mat. Shuffle the cards.",
-     "parent": "The game works for 1 to 4 players, and 24 cards give each of 4 players 6 cards. Some cards have fish or meat. Take out any card your family does not eat, and count the cards on the mats at the end. The three jobs are the ones from Class 3. Energy foods are mostly grains, sugar and fats. Body-building foods are pulses, milk, eggs, fish, meat and nuts. Protective foods are vegetables and fruits. Remind your child, and explain the six tastes of shad rasa.",
+     "parent": "The game works for 1 to 4 players, and 24 cards give each of 4 players 6 cards. Some cards have fish or meat. Take out any card your family does not eat, and count the cards on the mats at the end. The three jobs are the ones from Class 3. Energy foods are mostly grains, sugar and fats. Body-building foods are pulses, milk, eggs, fish, meat and nuts. Protective foods are vegetables and fruits. Remind your child of the three jobs, and explain the six tastes of shad rasa.",
      "context": "This is the first step of Feast Builder. You make the mat and set up the cards."
     },
     {
@@ -1023,14 +1023,14 @@
      "id": "s4",
      "mins": 4,
      "do": "Count each mat. Score 1 point for each coloured taste circle. Score 3 points for each job box with 2 or more dishes. Add 5 points for all six tastes. Add up the total.",
-     "say": "Let us count each mat. One point for every coloured circle. Three points for every box with two dishes. Five points if all six tastes are there.",
-     "kid": "Count your coloured circles. Add 3 for each full box. Add 5 for all six tastes.",
+     "say": "Let us count each mat. One point for every coloured circle. Three points for every box with two or more dishes. Five points if all six tastes are there.",
+     "kid": "Count your coloured circles. Add 3 for each box with 2 or more dishes. Add 5 for all six tastes.",
      "context": "In this step, you count your points and see who has built the best feast."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the winning mat. Which tastes were easy to fill, and which were hard? Which taste only the Ugadi pachadi could fill? Ask your child what a real feast would need.",
+     "do": "Look at the winning mat. Which tastes were easy to fill, and which were hard? Which taste could only the Ugadi pachadi fill? Ask your child what a real feast would need.",
      "say": "Which taste was hardest to fill? Which dish gave the most tastes at once? What would your own festival feast need?",
      "kid": "Which taste was hardest? Which dish had the most tastes?",
      "think": "Why might the people who made the Ugadi pachadi have put all six tastes in one bowl?",
@@ -1077,7 +1077,7 @@
     }
    ],
    "safety": "A grown-up cuts the raw mango and the chilli. Keep chilli away from eyes. Use a tiny amount, and skip it if your child does not want it. Use ground pepper, not whole peppercorns, which can be a choking risk. With 2 to 4 children, each child tastes from their own spoons. Skip any ingredient that anyone is allergic to. Only use neem flowers that are clean and fresh, and only 2 or 3 of them.",
-   "record": "Write each taste and its strength from 0 to 3. Then write the strength of the mixed pachadi, and which taste is the boss.",
+   "record": "Write each taste and its strength from 0 to 3. Then write the strength of the mixed pachadi, and which taste is the strongest in it.",
    "context": "In this activity, you taste six ingredients one by one, and then mix them into a small pachadi. You find out what it takes to keep six tastes in balance.",
    "setup": [
     {
@@ -1134,7 +1134,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Mix the jaggery, the tamarind water, the salt and a small piece of raw mango in the bowl. Add the bitter, then the pepper, a little at a time. Taste after each addition. Aim for every taste to score about 2.",
+     "do": "Mix the jaggery, the tamarind water, the salt and a small piece of raw mango in the bowl. Add the bitter ingredient, then the pepper, a little at a time. Taste after each addition. Aim for every taste to score about 2.",
      "say": "Put the ingredients in a bowl, a little at a time. Taste after each one. Which taste is the boss now? What does the bowl need?",
      "kid": "Mix a little of each. Taste. Which taste is the boss? Fix it.",
      "check": {
@@ -1252,7 +1252,7 @@
        ]
       }
      ],
-     "parent": "Rows: energy (rice, roti, ragi, potato, sugar, oil, ghee), body-building (dal, milk, curd, eggs, fish, meat, paneer, nuts), protective (vegetables and fruit), and sweet or packet snacks (chips, biscuits, fizzy drinks, sweets). Do not judge what your child eats. The diary is to find out.",
+     "parent": "Rows: energy (rice, roti, ragi, potato, sugar, oil, ghee), body-building (dal, milk, curd, eggs, fish, meat, paneer, nuts), protective (vegetables and fruit), and sweet or packet snacks (chips, biscuits, fizzy drinks, sweets). Do not judge what your child eats. The diary is there to find out, not to judge.",
      "context": "This is the first step of the Seven-Day Food Diary. You draw the table and practise with yesterday."
     },
     {
@@ -1261,7 +1261,7 @@
      "do": "Each evening, ask your child to list what they ate that day. Make one mark in the right row for every dish. Do not change what you eat for the diary.",
      "say": "What did you eat today? Let us put each dish in its row.",
      "kid": "Write down what you ate today. Mark a row for each dish.",
-     "parent": "With 2 to 4 children, each child keeps their own diary, because school lunches and snacks differ. Compare the pictographs on day 7. Repeat this each evening for days 2 to 6. If your child forgets a meal, ask what they had at school or at a friend's home. A snack counts. Do not change meals to make a better diary.",
+     "parent": "Repeat this each evening for days 2 to 6. If your child forgets a meal, ask what they had at school or at a friend's home. A snack counts. Do not change meals to make a better diary. With 2 to 4 children, each child keeps their own diary, because school lunches and snacks differ. Compare the pictographs on day 7.",
      "context": "In this step, you mark one day of food in your table. You repeat it each evening."
     },
     {
@@ -1345,7 +1345,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in January (Magh Bihu) or April (Bohag Bihu). Onam sadya goes in August or September, and Diwali sweets in October or November.",
-     "say": "Here is a wheel of the year. Let us put six festival foods on it, one in each month where it belongs.",
+     "say": "Here is a wheel of the year. Let us put six festival foods on it, each in the month where it belongs.",
      "kid": "Draw a wheel with 12 months. Put six festival foods in their months.",
      "ask": [
       {
@@ -1419,7 +1419,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up works the stove, and the porridge is hot and can spit when it bubbles, so stand back and use a long spoon. Let it cool for a few minutes before tasting.",
+   "safety": "A grown-up works the stove. The porridge is hot and can spit when it bubbles, so stand back and use a long spoon. Let it cool for a few minutes before tasting.",
    "record": "Write the colour, smell, thickness and taste of each porridge. Write one way the millet and rice are different.",
    "context": "In this activity, you cook a thin porridge of a millet and a thin porridge of rice, and compare them. You also read what is written on a millet packet.",
    "setup": [
@@ -1509,7 +1509,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cutting, the frying, hot oil and everything on the stove. Keep young children away from the stove. Check for allergies in every guest, and for fasting or foods a guest does not eat. Wash hands before cooking.",
+   "safety": "A grown-up does the cutting, the frying and everything on the stove, and handles the hot oil. Keep young children away from the stove. Ask every guest about allergies, fasting and foods they do not eat. Wash hands before cooking.",
    "schedule": [
     {
      "day": 1,
@@ -1571,7 +1571,7 @@
      "kid": "Count the jobs and tastes. Add a small dish to fill any gap.",
      "check": {
       "t": "mcq",
-      "q": "A feast has rice, pulao, puri and a sweet. Which job is missing?",
+      "q": "A feast has rice, pulao, puri and a sweet. Which jobs are missing?",
       "options": [
        "Protective foods, such as vegetables and fruit, and body-building foods",
        "Energy foods",
@@ -1588,13 +1588,13 @@
      "do": "Write a shopping list. Write a menu card for each dish with its name, where it is from, its jobs and its tastes. Prepare what can be done a day early, such as soaking dal, setting curd, or making the sweet.",
      "say": "Let us write a list of what to buy. For each dish, write a small card to tell our guests what it is and what it does.",
      "kid": "Write what to buy. Write a card for each dish.",
-     "parent": "Let your child write the cards in their own words. The cards are the point of the project. Soaking dal early is a good place to use what the Moong experiment showed.",
+     "parent": "Let your child write the cards in their own words. The cards are the point of the project. Soaking dal early is a good place to use what the Wake Up the Moong experiment showed.",
      "context": "In this step, you make a shopping list and a menu card for each dish."
     },
     {
      "id": "s4",
      "mins": 35,
-     "do": "Cook the dishes with a grown-up. Give your child the safe jobs: washing vegetables, mixing, grating coconut, stirring cold things and arranging the leaf. A grown-up does the stove and the knives.",
+     "do": "Cook the dishes with a grown-up. Give your child the safe jobs: washing vegetables, mixing, grating coconut, stirring cold things and arranging the dishes. A grown-up does the stove and the knives.",
      "say": "Today we cook. You will wash, mix and arrange. I will do the stove and the knife. Tell me what each dish needs.",
      "kid": "Wash, mix and arrange. A grown-up does the stove and the knife.",
      "adult": true,
@@ -1619,7 +1619,7 @@
    "id": "c1",
    "title": "A Feast for Everyone: one meal, five guests",
    "mins": 35,
-   "problem": "Five guests are coming to a festival lunch. Ajji eats no meat or fish, and finds hard food difficult to chew. A two-year-old cousin cannot have whole nuts or very hot food. A friend is allergic to groundnuts. Another friend eats no onion or garlic. A teenage runner needs extra energy. Plan one meal of 5 or 6 dishes that works for all five.",
+   "problem": "Five guests are coming to a festival lunch. A grandmother eats no meat or fish, and finds hard food difficult to chew. A two-year-old cousin cannot have whole nuts or very hot food. A friend is allergic to groundnuts. Another friend eats no onion or garlic. A teenage runner needs extra energy. Plan one meal of 5 or 6 dishes that works for all five.",
    "constraints": [
     "Every guest must be able to eat at least one dish from each of the three jobs: energy, body-building and protective.",
     "No dish may contain groundnuts, or anything cooked in groundnut oil.",
@@ -1634,7 +1634,7 @@
    ],
    "general": [
     "Serve plain rice, a soft dal, a vegetable stir-fry, curd and a sweet. Each guest picks what suits them.",
-    "Make the dal very soft for the toddler and Ajji, and keep a bowl of chilli powder on the side for others.",
+    "Make the dal very soft for the toddler and the grandmother, and keep a bowl of chilli powder on the side for others.",
     "Offer a thali with a small bowl of each dish, so that anyone can skip what they cannot eat."
    ],
    "creative": [
@@ -1675,7 +1675,7 @@
        ]
       }
      ],
-     "parent": "A toddler of two should not be given whole nuts or hard chunks, because they can choke. Honey is not safe for babies under one year. Allergies can be serious, so ask the real guest's parents before cooking. For this paper challenge, treat the rules as given.",
+     "parent": "A toddler of two should not be given whole nuts or hard chunks, because they can choke. Honey is not safe for babies under one year. Allergies can be serious, so when you cook for real guests, ask them or their parents first. For this paper challenge, treat the rules as given.",
      "context": "This is the first step of A Feast for Everyone. You list what each guest needs."
     },
     {
@@ -1734,7 +1734,7 @@
       "Only the foods that people call healthy"
      ],
      "a": 0,
-     "why": "A body counts days and weeks, not single meals. Many kinds of food together give all the nutrients. Choosing only 'healthy' foods can still leave out some groups.",
+     "why": "What matters is what you eat over days and weeks, not at a single meal. Many kinds of food together give all the nutrients. Choosing only 'healthy' foods can still leave out some groups.",
      "outcome": 0
     },
     {
@@ -1841,9 +1841,9 @@
     },
     {
      "t": "count",
-     "p": "Zara, a girl in Class 4 in Hyderabad, does 16 touches in a blind taste test. She names the taste wrongly 3 times. How many touches did she name correctly?",
+     "p": "In a blind taste test, a tester does 16 touches. The taste is named wrongly 3 times. How many touches were named correctly?",
      "a": "13",
-     "why": "16 take away 3 is 13. She named 13 touches correctly. A wrong answer is still a result, because it shows how often a tester guesses.",
+     "why": "16 take away 3 is 13. So 13 touches were named correctly. A wrong answer is still a result, because it shows how often a tester guesses.",
      "outcome": 3
     },
     {
@@ -1879,7 +1879,7 @@
      "a": [
       "water"
      ],
-     "why": "A dry seed has very little water. The seed soaks water in through their skin and swells. The extra weight is the water.",
+     "why": "A dry seed has very little water. Seeds soak up water through their skin and swell. The extra weight is the water.",
      "outcome": 5
     },
     {
@@ -1938,7 +1938,7 @@
     },
     {
      "t": "mcq",
-     "p": "In 1942 a chart of small differences in how strongly each part of the tongue senses a taste was turned into a map of separate zones. What was the mistake?",
+     "p": "In 1942, a chart showed small differences in how strongly each part of the tongue senses a taste. The chart was then turned into a map of separate zones. What was the mistake?",
      "opts": [
       "Small differences in strength were read as separate zones",
       "Taste buds were found only on the tip",
@@ -1991,7 +1991,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "These are ideas about why we have taste, and scientists mark them as ideas and not as proof. Taste is not a perfect guide, because some bitter foods are safe, and some poisons taste sweet.",
+     "why": "These are ideas about why we have taste. Scientists treat them as ideas, not as proven facts. Taste is not a perfect guide, because some bitter foods are safe, and some poisons taste sweet.",
      "outcome": 4
     },
     {
@@ -2001,7 +2001,7 @@
       "Weigh three equal portions of dry moong",
       "Soak two of the portions overnight",
       "Drain and weigh them, and let one bowl sprout",
-      "Cook all three together and test one seed from each pan every 5 minutes",
+      "Cook all three together and test one seed from each bag every 5 minutes",
       "Compare the weights and the cooking times"
      ],
      "why": "The soaking and sprouting come before the cooking, because the cooking test compares the three kinds of seed. All three batches must be cooked in the same way so that the test is fair.",
@@ -2067,7 +2067,7 @@
      ],
      "ask": "Whose view do you agree with most? What evidence would help you decide?",
      "a": "Answers vary. A strong answer picks a view, gives a reason and refers to what is in the biscuits, for example that sugar and oil come first on the list.",
-     "why": "'Superfood' is a selling word, not a science word. A label's ingredient list is listed from most to least by weight, so sugar and oil being first means there is more of them than of millet.",
+     "why": "'Superfood' is a selling word, not a science word. The ingredients on a label are listed from most to least by weight, so sugar and oil being first means there is more of them than of millet.",
      "outcome": 4
     },
     {
@@ -2205,7 +2205,7 @@
      "p": "A neighbour says, 'When I crave biscuits, it means my body needs them.' What would you say, using what you know about taste?",
      "lines": 5,
      "a": "A craving is a wish for a taste. Our body does have a real hunger for salt when we are short of it. But a craving for sugar, salt and fat in a packet is often habit, because factory food is made to be hard to stop. The biscuit gives the taste signal but not much else. So a craving does not always mean the body needs the food.",
-     "why": "A strong answer separates a taste signal from a need. It may name that some cravings, such as for salt, can be real, and that others come from habit and factory food.",
+     "why": "A strong answer separates a taste signal from a need. It may say that some cravings, such as for salt, can be real, and that others come from habit and factory food.",
      "outcome": 4
     },
     {
@@ -2471,13 +2471,13 @@
  ],
  "maths": [
   {
-   "problem": "In a blind taste test, Zainab names the taste correctly in 14 of her 16 touches. What fraction of her touches were correct? Is that more than three quarters?",
+   "problem": "In a blind taste test, a tester names the taste correctly in 14 of 16 touches. What fraction of the touches were correct? Is that more than three quarters?",
    "answer": "14 out of 16, which is 7 out of 8. Yes, it is more than three quarters.",
-   "explain": "Three quarters of 16 is 12, because 16 divided by 4 is 4, and 4 times 3 is 12. Zainab named 14, which is more than 12. 14 out of 16 is the same as 7 out of 8, because both numbers can be halved.",
+   "explain": "Three quarters of 16 is 12, because 16 divided by 4 is 4, and 4 times 3 is 12. The tester named 14 correctly, which is more than 12. 14 out of 16 is the same as 7 out of 8, because both numbers can be halved.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "how": "e1",
    "context": "In the Blind Taste Test, you make 20 touches and count how many answers were correct. A fraction lets you compare tests with different numbers of touches.",
-   "why_maths": "A fraction of the touches that were right lets you compare two testers, even when they did a different number of touches."
+   "why_maths": "The fraction of touches that were right lets you compare two testers, even when they did a different number of touches."
   },
   {
    "problem": "This is a made-up example. 50 grams of dry moong weighs 115 grams after soaking. How many grams of water did the seeds take in? Is that more than half of the soaked weight?",
@@ -2512,7 +2512,7 @@
    "explain": "4 out of 12 is the same as 1 out of 3, because both numbers divide by 4. An equal split of 12 dishes between 3 jobs is 12 divided by 3, which is 4 each.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "context": "In Feast Builder and Our Family Feast, you count how many dishes belong to each food job. A fraction shows whether the feast is balanced.",
-   "why_maths": "A fraction of the dishes in each job lets you see whether a feast is lopsided, and how many dishes to change."
+   "why_maths": "The fraction of dishes in each job shows whether a feast is lopsided, and how many dishes to change."
   },
   {
    "problem": "A packet says ragi has about 350 milligrams of calcium in every 100 grams, and polished rice has about 10 milligrams in every 100 grams. How many times as much calcium does ragi have? How many grams of ragi hold 700 milligrams of calcium?",
@@ -2524,11 +2524,11 @@
    "why_maths": "A ratio shows how many times bigger one amount is than another, and doubling the amount of food doubles the amount of calcium."
   },
   {
-   "problem": "Suppose a child eats about 1,600 kilocalories a day. Advice from the World Health Organization is that sugar added to food and drink should be less than one tenth of that energy. One gram of sugar gives about 4 kilocalories. What is the most added sugar in grams for one day? A 250 millilitre bottle of a sweet drink has 10 grams of sugar in every 100 millilitres. Is the sugar in the bottle more than half of the day's limit?",
+   "problem": "Suppose a child eats about 1,600 kilocalories a day. Advice from the World Health Organization is that sugar added to food and drink should be less than one tenth of that energy. One gram of sugar gives about 4 kilocalories. What is the most added sugar, in grams, the child should have in one day? A 250 millilitre bottle of a sweet drink has 10 grams of sugar in every 100 millilitres. Is the sugar in the bottle more than half of the day's limit?",
    "answer": "160 kilocalories, which is 40 grams of sugar. The bottle has 25 grams, which is more than half of 40.",
    "explain": "One tenth of 1,600 is 160 kilocalories. 160 divided by 4 is 40 grams. 250 millilitres is 2 and a half times 100 millilitres, so the bottle holds 2 and a half times 10 grams, which is 25 grams. Half of 40 is 20, and 25 is more than 20.",
    "math_unit": "math.multiplication.multi-digit.L4",
-   "context": "In the card on copying a taste, you read how a sweet drink gives sugar without the goodness of fruit. Here you check how much a bottle takes from a day's limit.",
+   "context": "The card 'A taste can be copied without the goodness' explains how a sweet drink gives sugar without the goodness of fruit. Here you check how much a bottle takes from a day's limit.",
    "why_maths": "Multiplying and dividing turns advice about a tenth of the day's energy into grams of sugar, so that you can check a label against it."
   }
  ],
@@ -2855,5 +2855,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tasted at home. Blind Taste Test: the amounts (a teaspoon of sugar, a quarter teaspoon of salt and a teaspoon of lemon juice, each in 3 tablespoons of water) are the usual home version, but taste strength varies, so the steps tell the parent to taste a drop of each cup first and adjust. Wet buds can spread liquid and spoil a touch, so the steps say to touch the bud to the rim of the cup first. Bitter is last on purpose, because it lingers. Wake Up the Moong: soaking takes 8 to 10 hours, sprouting takes one to two days depending on the weather, and the cooking times in the maths questions are made up. A real run may give different numbers. The steps say to stop at 40 minutes and write 40 plus. Millet Hunt and Our Family Feast need a grown-up at the stove. The videos have no address yet. Facts to check before the unit goes live: that taste cells live about 10 days to 2 weeks, the calcium values of ragi (about 350 milligrams in 100 grams) and polished rice (about 10), the National Family Health Survey 5 figures for anaemia and short height, that Tamil Nadu began school meals in the 1950s, Collings's 1974 finding as reported, and that the tongue map chart was drawn in Boring's 1942 book.",
- "warm": {"words": ["TASTE", "SWEET", "GRAIN", "SALTY", "FEAST"], "quiz": [["Every taste can be sensed on every part of the tongue that has taste buds.", true, "Taste cells for all tastes are spread over the tongue, so the old tongue map is wrong."], ["Sweet is tasted only at the tip of the tongue, and bitter only at the back.", false, "Taste buds for every taste are found all over the tongue, and also in the mouth and throat."], ["A balanced diet is judged over many days and weeks, not by one single meal.", true, "Different foods give different nutrients, so the mix across days is what counts."], ["Traditional food is always healthier than modern food.", false, "Some traditional diets lacked nutrients; for example, mostly polished rice gives very little thiamine."], ["If you crave a sweet snack, your body must need what is in it.", false, "Most cravings come from habit, mood and factory foods made to be hard to stop."], ["Soaking and sprouting pulses can make their iron and zinc easier for the body to absorb.", true, "These old ways of preparing food make the minerals inside plant foods easier to take in."], ["Eating a laddu at a festival means your diet is no longer balanced.", false, "Balance is a pattern over weeks, and a festival sweet fits into a mostly varied diet."], ["A sweet drink can give a sweet taste signal without giving the goodness of fruit.", true, "Taste is a signal from chemicals, and a food can copy the signal without what it once meant."], ["Millets are a new superfood that can fix a whole diet on their own.", false, "Millets are very old grains, and no single food gives the body everything it needs."], ["India grows enough food, yet many children still lack iron and other nutrients.", true, "Enough food in total does not mean everyone gets enough of the right foods."]], "odd": [[["Ragi", "Jowar", "Bajra", "Rice"], "Rice", "Ragi, jowar and bajra are small-seeded millets that grow in dry land; rice is not a millet."], [["Sweet", "Sour", "Bitter", "Pungent"], "Pungent", "Sweet, sour and bitter are tastes; science counts the burning of pepper as a feeling of heat and pain."], [["Soaking", "Sprouting", "Fermenting", "Frying"], "Frying", "The first three make minerals in plant foods easier for the body to take in; frying does not."], [["Rice", "Wheat", "Ragi", "Spinach"], "Spinach", "Rice, wheat and ragi are staple grains giving most daily energy; spinach is a leafy vegetable."], [["Too little food", "Too much sugar and fat", "Missing iron", "Many different foods"], "Many different foods", "The first three are kinds of malnutrition; eating many different foods is what a balanced diet needs."]]}
+ "warm": {"words": ["TASTE", "SWEET", "GRAIN", "SALTY", "FEAST"], "quiz": [["Every taste can be sensed on every part of the tongue that has taste buds.", true, "Taste cells for all tastes are spread over the tongue, so the old tongue map is wrong."], ["Sweet is tasted only at the tip of the tongue, and bitter only at the back.", false, "Taste buds for every taste are found all over the tongue, and also in the mouth and throat."], ["A balanced diet is judged over many days and weeks, not by one single meal.", true, "Different foods give different nutrients, so the mix across days is what counts."], ["Traditional food is always healthier than modern food.", false, "Some traditional diets lacked nutrients; for example, mostly polished rice gives very little thiamine."], ["If you crave a sweet snack, your body must need what is in it.", false, "Most cravings come from habit, mood and factory foods made to be hard to stop."], ["Soaking and sprouting pulses can make their iron and zinc easier for the body to absorb.", true, "These old ways of preparing food make the minerals inside plant foods easier to take in."], ["Eating a laddu at a festival means your diet is no longer balanced.", false, "Balance is a pattern over weeks, and a festival sweet fits into a mostly varied diet."], ["A sweet drink can give a sweet taste signal without giving the goodness of fruit.", true, "Taste is a signal from chemicals, and a food can copy the signal without the goodness that used to come with it."], ["Millets are a new superfood that can fix a whole diet on their own.", false, "Millets are very old grains, and no single food gives the body everything it needs."], ["India grows enough food, yet many children still lack iron and other nutrients.", true, "Enough food in total does not mean everyone gets enough of the right foods."]], "odd": [[["Ragi", "Jowar", "Bajra", "Rice"], "Rice", "Ragi, jowar and bajra are small-seeded millets that grow in dry land; rice is not a millet."], [["Sweet", "Sour", "Bitter", "Pungent"], "Pungent", "Sweet, sour and bitter are tastes; science counts the burning of pepper as a feeling of heat and pain."], [["Soaking", "Sprouting", "Fermenting", "Frying"], "Frying", "The first three make minerals in plant foods easier for the body to take in; frying does not."], [["Rice", "Wheat", "Ragi", "Spinach"], "Spinach", "Rice, wheat and ragi are staple grains that give most of the day's energy; spinach is a leafy vegetable."], [["Too little food", "Too much sugar and fat", "Missing iron", "Many different foods"], "Many different foods", "The first three are kinds of malnutrition; eating many different foods is what a balanced diet needs."]]}
 }

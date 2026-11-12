@@ -3,12 +3,12 @@
  "title": "Taking without emptying: how much can we take and still leave enough?",
  "level": 4,
  "summary": {
-  "text": "Fish, grass, clams and tigers all have babies every year, so they should never run out. Yet people have emptied lakes, seas and forests that refilled themselves for thousands of years. Your child counts beans they cannot see all at once, using the same trick scientists use for tigers and fish. They run a pond where a whole village shares the fish, and they see how a small mistake can empty it. They also build a model of groundwater, test which seeds in the kitchen are still alive, and find out why a village of rice farmers keeps five kinds of rice.",
+  "text": "Fish, clams and tigers have young, and grass grows back, so it seems they should never run out. Yet people have emptied lakes, seas and forests that refilled themselves for thousands of years. Your child counts beans they cannot see all at once, using the same trick scientists use for tigers and fish. They run a pond where a whole village shares the fish, and they see how a small mistake can empty it. They also build a model of groundwater, test which seeds in the kitchen are still alive, and find out why a village of rice farmers keeps five kinds of rice.",
   "art": "A kitchen table with a glass jar of beans, a bowl of fish-shaped tokens beside a drawn pond, and a row of small paper seed packets."
  },
  "intro": {
-  "hook": "Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting the jar, how many beans are in it?",
-  "text": "You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 in every 40 beans in the jar have a dot. You marked 40 in all, so the jar holds about 40 times 40 divided by 6, which is about 270. Scientists use this trick to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you find out the harder question behind it. If fish, grass and trees all grow back, why do they still run out?",
+  "hook": "Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting every bean, how many beans are in the jar?",
+  "text": "You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 in every 40 beans in the jar have a dot. You marked 40 in all, so the jar holds about 40 times 40 divided by 6, which is about 270. Scientists use this trick to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?",
   "art": "A glass jar of dried chickpeas with a few beans marked with a dot, and a hand holding a cup of beans, three of them dotted."
  },
  "outcomes": [
@@ -138,7 +138,7 @@
   },
   {
    "term": "Water table",
-   "meaning": "The top of the underground water. It goes up when rain soaks in and down when we pump more than refills.",
+   "meaning": "The top of the underground water. It goes up when rain soaks in and down when we pump out more than soaks in.",
    "example": "When many borewells are dug close together, the water table can fall by several metres in a few years.",
    "art": "A cut-away of the ground with a blue dashed line showing the water table and a well reaching down to it."
   },
@@ -179,7 +179,7 @@
    "concept": "Stocks and flows: a pond as a bath with a tap and a drain",
    "status": "defined",
    "definition": "A stock is how much of something there is right now. A flow is how fast it comes in or goes out. A stock stays steady when what comes in equals what goes out.",
-   "description": "Think of a bath. The water in the bath is the stock. The tap is the flow coming in, and the drain is the flow going out. If the tap and the drain run at the same speed, the water level stays the same. If the drain runs faster, the bath slowly empties. A pond of fish works the same way. The fish in the pond are the stock. New fish being born is the tap. Fish caught, eaten by birds or lost to disease are the drain. The village controls only one drain, which is the catch. To keep a pond full, the catch must not be bigger than the births. In nature, the tap is not a fixed speed. It depends on how many parents there are, and that is what makes the story hard.",
+   "description": "Think of a bath. The water in the bath is the stock. The tap is the flow coming in, and the drain is the flow going out. If the tap and the drain run at the same speed, the water level stays the same. If the drain runs faster, the bath slowly empties. A pond of fish works the same way. The fish in the pond are the stock. New fish being born is the tap. Fish caught, eaten by birds or lost to disease are the drain. The village controls only one drain, which is the catch. To keep a pond full, the catch must not be bigger than the births. In nature, the tap does not run at a fixed speed. The number of fish born depends on how many parents there are, and that is what makes it hard to keep a pond full.",
    "examples": [
     "A rooftop water tank has rain going in, taps taking water out, and the water level is the stock.",
     "A forest has seedlings growing in, and trees cut or burned going out. If more are cut than grow, the forest shrinks.",
@@ -192,9 +192,9 @@
    "concept": "Parents matter: why a group that gets too small may not recover",
    "status": "defined",
    "definition": "A group of animals makes its young from the animals that are left. If too few adults are left, too few young are born, and the group can keep shrinking even after people stop taking from it.",
-   "description": "Imagine taking nearly all the fish from a pond. The few that are left may be too far apart to find each other, or too few to lay enough eggs. Each year there are fewer young, and the pond does not refill. Scientists say a group has fallen below a safe size. Off the coast of Newfoundland in Canada, huge numbers of cod were caught for hundreds of years. In 1992 the government stopped the cod fishery, because there were too few fish left. Many years later, the cod there had still not returned to their old numbers. Some groups come back quickly when we stop taking from them. Others do not. We cannot always tell in advance which is which.",
+   "description": "Suppose people take nearly all the fish from a pond. The few that are left may be too far apart to find each other, or too few to lay enough eggs. Each year there are fewer young, and the pond does not refill. Scientists then say the group has fallen below a safe size. Off the coast of Newfoundland in Canada, huge numbers of cod were caught for hundreds of years. In 1992 the government stopped the cod fishery, because there were too few fish left. Many years later, the cod there had still not returned to their old numbers. Some groups come back quickly when we stop taking from them. Others do not. We cannot always tell in advance which is which.",
    "examples": [
-    "In the pond game, a pond with only 3 fish left cannot refill, because there are too few parents.",
+    "In the Pond Council game, a pond with only 3 fish left cannot refill, because there are too few parents.",
     "Tigers need large areas of forest and enough prey, so a tiger group that is small and split into pieces finds it hard to grow.",
     "Vultures lay only one egg a year, so when most of them died, their numbers could not bounce back quickly."
    ],
@@ -205,9 +205,9 @@
    "concept": "The sweet spot: the most we can take every year for ever",
    "status": "idea",
    "definition": "",
-   "description": "Some fisheries scientists use an idea called maximum sustainable yield. It is the biggest catch that can be taken every year for ever without the stock shrinking. In the pond game you will find it. If the pond is nearly empty, there are few parents, so few young are born. If the pond is full, the fish crowd each other and fewer grow. The most new fish appear when the pond is somewhere in the middle. If you catch only that many new fish each year, the pond stays the same. This is a simple picture. Real lakes and seas change with the weather, the food and the other animals, so the sweet spot moves from year to year. Many scientists now say it is safer to catch somewhat less than the largest amount, to leave room for mistakes.",
+   "description": "Some fisheries scientists use an idea called maximum sustainable yield. It is the biggest catch that can be taken every year for ever without the stock shrinking. You will find it in the Pond Council game. If the pond is nearly empty, there are few parents, so few young are born. If the pond is full, the fish crowd each other and fewer grow. The most new fish appear when the pond is somewhere in the middle. If you catch only that many new fish each year, the pond stays the same. This is a simple picture. Real lakes and seas change with the weather, the food and the other animals, so the sweet spot moves from year to year. Many scientists now say it is safer to catch somewhat less than the largest amount, to leave room for mistakes.",
    "examples": [
-    "In the pond game, leaving 16 fish each year and catching the rest gives the biggest steady catch.",
+    "In the Pond Council game, leaving 16 fish each year and catching the rest gives the biggest steady catch.",
     "A fishing community may agree to catch less than the maximum, in case a bad monsoon year comes.",
     "Grass is cut or grazed more often in wet years than in dry years, because the sweet spot is higher when there is more rain."
    ],
@@ -218,7 +218,7 @@
    "concept": "Counting what you cannot see: samples, marking and camera traps",
    "status": "defined",
    "definition": "When we cannot count every one, we count a sample and work out the rest. In mark and recapture, we mark some, release them, catch a second sample, and use the fraction that are marked to estimate the whole group.",
-   "description": "Suppose you mark 40 fish and let them go. Later you catch 40 fish, and 8 of them have a mark. So 8 out of 40, or 1 in 5, of the fish are marked. The 40 you marked are one fifth of the whole lake. So the lake holds about 5 times 40, which is 200 fish. As a rule, the group size is about the first marked number times the second catch, divided by the marked ones in the second catch. This works only if the marked ones mix in with the others, and if they do not die or leave. For tigers, scientists do not need to mark them. Every tiger has a different pattern of stripes, so a camera trap photo is like a fingerprint. India's tiger counts now use thousands of camera traps. Older counts used footprints, which were harder to tell apart. A sample is always a little different from the truth, so careful scientists count many times and give a range.",
+   "description": "Suppose you mark 40 fish and let them go. Later you catch 40 fish, and 8 of them have a mark. So 8 out of 40, or 1 in 5, of the fish are marked. That means the 40 fish you marked are about one fifth of all the fish in the lake. So the lake holds about 5 times 40, which is 200 fish. The rule is: multiply the number you marked by the number in the second catch, then divide by the number of marked ones in the second catch. This works only if the marked ones mix in with the others, and if they do not die or leave. For tigers, scientists do not need to mark them. Every tiger has a different pattern of stripes, so a camera trap photo is like a fingerprint. India's tiger counts now use thousands of camera traps. Older counts used footprints, which were harder to tell apart. A sample is always a little different from the truth, so careful scientists count many times and give a range.",
    "examples": [
     "Scientists tag a few hundred turtles on a beach and later see how many tagged turtles come back, to estimate how many turtles use that beach.",
     "Camera traps in a forest in Karnataka photograph a tiger from both sides, and her stripes are matched against earlier photos.",
@@ -267,10 +267,10 @@
    "perspectives": []
   },
   {
-   "concept": "A seed is a saved story: why many varieties matter",
+   "concept": "Saving seeds: why many varieties matter",
    "status": "defined",
    "definition": "A crop variety is one kind of a crop with its own taste, colour and strengths. Keeping many varieties alive, in fields and in seed banks, protects a crop from failing all at once.",
-   "description": "In the 1840s, the farmers of Ireland grew mostly one kind of potato. A disease called blight spread, the potatoes rotted in the ground, and about a million people died of hunger. When every field has the same variety, one disease can take all of them. Indian farmers have grown tens of thousands of varieties of rice, millets, pulses and vegetables, each shaped by its own place. Some stand floods, some stand drought, some taste better and some keep longer. Scientists use these old varieties to breed new ones. A flood-tolerant rice from Odisha called FR13A was used to breed a modern rice that can survive under flood water for about two weeks. Seed banks keep seeds dry and cold. India's national gene bank is in New Delhi, and the Svalbard vault in Norway, opened in 2008, keeps copies from many countries. M. S. Swaminathan, the Indian scientist who helped bring high-yielding wheat and rice to India, also spent many years urging that old varieties be kept safe.",
+   "description": "In the 1840s, the farmers of Ireland grew mostly one kind of potato. A disease called blight spread, the potatoes rotted in the ground, and about a million people died of hunger. When every field has the same variety, one disease can destroy all of them. Indian farmers have grown tens of thousands of varieties of rice, millets, pulses and vegetables, each suited to the place where it is grown. Some survive floods, some survive drought, some taste better and some keep longer. Scientists use these old varieties to breed new ones. A flood-tolerant rice from Odisha called FR13A was used to breed a modern rice that can survive under flood water for about two weeks. Seed banks keep seeds dry and cold. India's national gene bank is in New Delhi, and the Svalbard vault in Norway, opened in 2008, keeps copies from many countries. M. S. Swaminathan, the Indian scientist who helped bring high-yielding wheat and rice to India, also spent many years urging that old varieties be kept safe.",
    "examples": [
     "A farmer in Kerala keeps a little Njavara rice for her family, and several other kinds for the market.",
     "Millets such as ragi, kodo and foxtail millet stand drought better than many crops, so some farmers are growing them again.",
@@ -283,9 +283,9 @@
    "concept": "Groundwater is a bank account",
    "status": "defined",
    "definition": "Groundwater is water held in an aquifer under the ground. Rain soaking in is a deposit, and pumping out is a withdrawal. If we take out more than goes in, the water table falls.",
-   "description": "Imagine a bank account. Rain soaking into the ground is money coming in. Borewells and wells are money going out. If you take out more than you put in, the balance falls, and one day it is zero. In many parts of India, thousands of borewells pump from the same aquifer, and the water table has fallen by many metres. Digging deeper is like taking a loan from your future. Roads and roofs make it worse, because rain runs off them into drains instead of soaking in. Near the coast there is another danger. When the fresh water falls, salt water from the sea can slowly seep into the aquifer, and wells turn salty. This has been reported in some areas near Chennai. People refill the account with rainwater harvesting, with ponds and tanks, and with johads, which are small earth dams that hold monsoon rain on the land. In Alwar in Rajasthan, villagers and a group called Tarun Bharat Sangh built thousands of johads, and wells and a small river that had dried up were reported to flow again.",
+   "description": "Think of a bank account. Rain soaking into the ground is money coming in. Borewells and wells are money going out. If you take out more than you put in, the balance falls, and one day it is zero. In many parts of India, thousands of borewells pump from the same aquifer, and the water table has fallen by many metres. Digging deeper only takes more from the same account. Roads and roofs make it worse, because rain runs off them into drains instead of soaking in. Near the coast there is another danger. When the level of fresh water falls, salt water from the sea can slowly seep into the aquifer, and wells turn salty. This has been reported in some areas near Chennai. People refill the account with rainwater harvesting, with ponds and tanks, and with johads, which are small earth dams that hold monsoon rain on the land. In Alwar in Rajasthan, villagers and a group called Tarun Bharat Sangh built thousands of johads, and wells and a small river that had dried up were reported to flow again.",
    "examples": [
-    "In your tub model, the water level drops near the well you pump, and a well close to it also dries up.",
+    "In the Borewell in a Tub activity, the water level drops in the well you pump, and the water in the well next to it falls too.",
     "A temple tank in Madurai or Kanchipuram soaks water into the ground and helps the wells around it.",
     "A pit of stones and sand under a downpipe sends rain from a terrace down to the aquifer."
    ],
@@ -296,7 +296,7 @@
    "concept": "Do shared things always get used up? The tragedy of the commons",
    "status": "debated",
    "definition": "",
-   "description": "A commons is a resource that a whole community shares, such as a village pond, a pasture or a sea fishery. In 1968 an American scientist named Garrett Hardin wrote an essay with the title The Tragedy of the Commons. He pictured a pasture that every herder shares. Each herder gains by adding one more cow, but the cost of too much grazing is shared by everyone. So every herder adds a cow, and the pasture is ruined. The pond game lets you feel this pull. But is it always true? Elinor Ostrom, an American scientist, studied many real commons, from mountain meadows in Switzerland to irrigation systems in Spain and fisheries in Turkey. She found many communities that had looked after a commons for hundreds of years, using their own rules. In 2009 she became the first woman to win the Nobel Prize in Economics for this work. People still argue about which rules work best, and when.",
+   "description": "A commons is a resource that a whole community shares, such as a village pond, a pasture or a sea fishery. In 1968 an American scientist named Garrett Hardin wrote an essay with the title The Tragedy of the Commons. He pictured a pasture that every herder shares. Each herder gains by adding one more cow, but the cost of too much grazing is shared by everyone. So every herder adds a cow, and the pasture is ruined. In the Pond Council game you can feel this pull yourself. But is it always true? Elinor Ostrom, an American scientist, studied many real commons, from mountain meadows in Switzerland to irrigation systems in Spain and fisheries in Turkey. She found many communities that had looked after a commons for hundreds of years, using their own rules. In 2009 she became the first woman to win the Nobel Prize in Economics for this work. People still argue about which rules work best, and when.",
    "examples": [
     "Many open seas have been overfished, because no single country or village controls them.",
     "The oran grazing lands of Rajasthan and many village ponds have been managed by communities for generations.",
@@ -322,11 +322,11 @@
    "concept": "Should we bring back animals that have disappeared? The cheetah in India",
    "status": "debated",
    "definition": "",
-   "description": "Asiatic cheetahs once ran across India's grasslands. They were declared extinct in India in 1952. In September 2022, eight cheetahs from Namibia in Africa were brought by aeroplane to Kuno National Park in Madhya Pradesh, and more came from South Africa in 2023. The plan is to start a group of cheetahs in India and help the dry grasslands that they live in. Some of the cheetahs have died since, and scientists and officials have argued about whether the plan is wise. This is called reintroduction, and it is being tried in many countries. The cheetahs are of an African kind, not the Asiatic cheetah that once lived here, and that is part of the argument. No one yet knows how it will end.",
+   "description": "Asiatic cheetahs once ran across India's grasslands. They were declared extinct in India in 1952. In September 2022, eight cheetahs from Namibia in Africa were brought by aeroplane to Kuno National Park in Madhya Pradesh, and more came from South Africa in 2023. The plan is to start a group of cheetahs in India and help the dry grasslands that they live in. Bringing animals back like this is called reintroduction, and it is being tried in many countries. Some of the cheetahs have died since, and scientists and officials have argued about whether the plan is wise. The cheetahs are of an African kind, not the Asiatic cheetah that once lived here, and that is part of the argument. No one yet knows how it will end.",
    "examples": [
     "Gray wolves were brought back to Yellowstone National Park in the United States in 1995, and some scientists report that the rivers and trees changed as the deer moved.",
     "The one-horned rhino in Assam recovered from very few animals a century ago, after strong protection.",
-    "Gharials, a long-snouted crocodile of Indian rivers, are bred in centres and released into rivers like the Chambal."
+    "Gharials, long-snouted crocodiles of Indian rivers, are bred in centres and released into rivers like the Chambal."
    ],
    "art": "A cheetah standing in tall grassland near a forest guard's jeep, with a long fence in the distance.",
    "perspectives": [
@@ -348,14 +348,14 @@
  "agreed": [
   {
    "text": "A group of living beings stays about the same size when the new ones born equal the ones lost. It grows when more are born than lost, and shrinks when fewer are born.",
-   "evidence": "Counts of fish, birds and trees over many years across the world follow this pattern. You can see it in the pond game."
+   "evidence": "Counts of fish, birds and trees over many years across the world follow this pattern. You can see it in the Pond Council game."
   },
   {
    "text": "A group that is caught faster than it can replace itself will shrink, and a group that falls very low may not recover even when people stop.",
-   "evidence": "The cod of Newfoundland were stopped in 1992 and had still not fully returned many years later. Vulture numbers in India fell by more than nine in every ten and have recovered only slowly."
+   "evidence": "Fishing for cod off Newfoundland was stopped in 1992, and the cod had still not fully returned many years later. Vulture numbers in India fell by more than nine in every ten and have recovered only slowly."
   },
   {
-   "text": "A careful sample can tell us nearly the true size of a group we cannot count, if the sample is big, taken in a fair way, and the marked ones mix with the rest.",
+   "text": "A careful sample can give an estimate close to the true size of a group we cannot count, if the sample is big, is taken in a fair way, and the marked ones mix with the rest.",
    "evidence": "Scientists check mark and recapture by using it on groups they can count in the end, such as beans in a jar. Estimates get closer to the truth when the samples get bigger."
   },
   {
@@ -368,7 +368,7 @@
   },
   {
    "text": "A farm or a village that grows many varieties of a crop is less likely to lose everything to one disease or one bad season.",
-   "evidence": "The potato famine in Ireland in the 1840s followed a single variety. Field trials in China, where rice farmers planted two varieties in the same field, found that disease was much lower than in fields with one variety."
+   "evidence": "The potato famine in Ireland in the 1840s happened where farmers grew mostly one variety of potato. Field trials in China, where rice farmers planted two varieties in the same field, found that disease was much lower than in fields with one variety."
   }
  ],
  "challenging": [
@@ -376,21 +376,21 @@
    "claim": "If something grows back, we can take as much of it as we like.",
    "who": "Many people, and many old fishing and farming practices.",
    "for": "Fish, grass and trees do have young. Some groups recover quickly after heavy catches.",
-   "against": "Regrowth needs parents. If we take too many, there are too few parents left. The cod of Newfoundland were renewable, and yet they were caught down to a point from which they did not quickly recover.",
+   "against": "Regrowth needs parents. If we take too many, there are too few parents left. The cod of Newfoundland were renewable, and yet so many were caught that they did not recover quickly.",
    "status": "rejected"
   },
   {
    "claim": "If the catch in the baskets is the same every day, the lake must be healthy.",
    "who": "Many fishers and market traders, in many places.",
    "for": "A full basket feels like a full lake, and it can stay full for years if the fishers go further or use finer nets.",
-   "against": "The baskets may hold more, smaller fish each year. Scientists look at the size of the fish, and at how long it takes to catch a basket. Shrinking size is an early warning.",
+   "against": "Each year the baskets may hold more fish, but smaller ones. Scientists look at the size of the fish, and at how long it takes to catch a basket. Shrinking size is an early warning.",
    "status": "rejected"
   },
   {
    "claim": "Once we stop catching, a fish stock will quickly bounce back.",
    "who": "A hopeful idea held by many people.",
    "for": "Some stocks have recovered in a few years after a ban, such as certain herring in the North Sea.",
-   "against": "Other stocks, such as the cod of Newfoundland, took decades and had not fully returned. A group that has fallen very low may have lost its old breeding places and its range of kinds.",
+   "against": "Other stocks, such as the cod of Newfoundland, had still not fully returned after decades. A group that has fallen very low may have lost its old breeding places and much of the variety among its members.",
    "status": "debated"
   },
   {
@@ -403,7 +403,7 @@
   {
    "claim": "Saving one famous animal is enough. The rest will be fine.",
    "who": "Some campaigns and fundraisers.",
-   "for": "A famous animal like a tiger or a rhino can bring money and attention. Protecting her forest also protects many others.",
+   "for": "A famous animal like a tiger or a rhino can bring money and attention. Protecting her forest also protects many other living beings.",
    "against": "An animal needs her food, her water and her place to live. When vultures were poisoned by a painkiller, nobody had been hunting vultures, yet most of them died. Protecting only the animal, and not what she depends on, may not be enough.",
    "status": "minority"
   },
@@ -417,9 +417,9 @@
  ],
  "big_questions": [
   {
-   "q": "A pond holds 24 fish, and the village catches 8 every year, and the pond is full again each spring. If they catch 9 each year instead, what do you think happens in the long run? Why?",
+   "q": "A pond holds 24 fish. The village catches 8 every year, and the pond is full again each spring. If the village catches 9 each year instead, what do you think happens in the long run? Why?",
    "kind": "deep",
-   "hint": "Think about how many parents are left each time, and whether one extra fish a year could ever be noticed."
+   "hint": "Think about how many parents are left each time, and whether anyone would notice one extra fish a year."
   },
   {
    "q": "In mark and recapture, we assume the marked beans mix evenly with the others. What would go wrong if the marked beans sank to the bottom of the jar?",
@@ -434,12 +434,12 @@
   {
    "q": "Who does a fish in the open sea belong to? Who does the water under your street belong to?",
    "kind": "big",
-   "hint": "Think about who is allowed to take it, who is allowed to stop them, and who is not there to speak."
+   "hint": "Think about who is allowed to take it, who is allowed to stop them, and who is left out of the decision."
   },
   {
    "q": "Tigers do not know where a reserve's boundary is. Should the edge of a park be drawn where the tiger lives, or where people agree to draw a line?",
    "kind": "big",
-   "hint": "Think about the animal, the villagers who live at the edge, and the farmers whose crops she may eat."
+   "hint": "Think about the tiger, the villagers who live at the edge, and the farmers whose animals she may kill."
   },
   {
    "q": "A village has five kinds of rice. In a good year, the best kind gives the most grain. Why might the village still keep all five?",
@@ -491,7 +491,7 @@
   "ask": [
    "Why can a fisher's basket stay full while a lake slowly runs out of clams?",
    "What could a village measure every year to find out whether its lake is being fished too hard?",
-   "Why does a rule that sends small clams back help even the people who follow it, if some neighbours do not follow it?",
+   "Does the rule to put small clams back still help the people who follow it, if some neighbours do not follow it? Why?",
    "Why did it matter that Meenu measured the shells the same way every time?"
   ],
   "art": [
@@ -502,39 +502,39 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In the 1990s, bird watchers in India noticed something strange. Vultures, once so common that they circled over every village, were becoming rare. Many scientists thought an infection was killing them. A scientist at the Bombay Natural History Society, Vibhu Prakash, and his team counted the vultures again and again, along the same roads and in the same places each year. Their counts showed that in some places, more than nine in every ten birds were gone. The cause was still a puzzle. In 2004, a team led by the scientist Lindsay Oaks tested dead vultures in Pakistan and found that their kidneys had failed. The cause was a painkiller for cattle called diclofenac. When a farmer treated a sick cow or buffalo with it and the animal died, the vultures that fed on her body were poisoned. India banned the cattle medicine in 2006. The wrong idea was that an infection was killing the birds. A careful look at the dead birds found poison in the food chain.",
+  "story": "In the 1990s, bird watchers in India noticed something strange. Vultures, once so common that they circled over every village, were becoming rare. Many scientists thought an infection was killing them. A scientist at the Bombay Natural History Society, Vibhu Prakash, and his team counted the vultures again and again, along the same roads and in the same places each year. Their counts showed that in some places, more than nine in every ten birds were gone. The cause was still a puzzle. In 2004, a team led by the scientist Lindsay Oaks tested dead vultures in Pakistan and found that their kidneys had failed. The cause was a painkiller for cattle called diclofenac. When a farmer treated a sick cow or buffalo with it and the animal died, the vultures that fed on her body were poisoned. India banned the cattle medicine in 2006. The wrong idea was that an infection was killing the birds. A careful look at the dead birds showed that the poison had come through their food.",
   "who": "Vibhu Prakash and the Bombay Natural History Society, with Lindsay Oaks and a team that included scientists in Pakistan",
   "when": "Counts from the 1990s, the cause found in 2004, and the ban on the cattle medicine in 2006",
   "wrong_idea": "Many people thought an infectious disease was killing India's vultures. Careful counts showed how fast they were disappearing, and tests on dead birds showed that a cattle painkiller was poisoning them."
  },
  "roots": {
-  "context": "We have counted beans, run a pond and built a model of groundwater. Now we ask what counting and taking tell us about how we know the living world, and about ourselves.",
+  "context": "You have counted beans in the Beans in the Jar test, run a pond in the Pond Council game and built a model of groundwater in Borewell in a Tub. All three show the same thing: nobody can see all of nature at once, so how much is left has to be measured.",
   "deep_truth": {
-   "truth": "No one can see a whole group of fish or tigers at once. We count a sample and work out the rest. Each generation also takes the nature they grew up with as normal. So 'how much is left' has to be measured, because memory moves.",
+   "truth": "No one can see a whole group of fish or tigers at once. We count a sample and work out the rest. Each generation also takes the nature they grew up with as normal. So 'how much is left' has to be measured, because what people remember as normal changes from one generation to the next.",
    "habit": "We think 'how much nature is left' is something we can simply look at, like eggs in a tray. We trust what our eyes see now, and what we remember as normal.",
-   "evidence": "In the bean jar, nobody saw all the beans, yet a few scoops gave a good estimate. In the Ask an Elder activity, the list of what used to be here changed with the age of the person. If your results differ, write them as they are and say why."
+   "evidence": "In the Beans in the Jar test, nobody saw all the beans, yet a few scoops gave a good estimate. In the Ask an Elder activity, what a person remembered being here depended on how old they were. If your results differ, write them as they are and say why."
   },
   "three": {
    "who_am_i": "Your eyes and ears take a small sample of the world, and your mind works out the rest. A bee takes a different sample, and a bat takes another.",
-   "what_is_life": "A group of fish goes on for thousands of years, though each fish lives only a few. Births and deaths flow through the group like water through a pond.",
-   "what_is_this_world": "Fish in a lake, water under the ground and seeds in a jar are all stocks with a tap and a drain. Most of these flows are slower and bigger than one human life."
+   "what_is_life": "A group of fish can go on for thousands of years, though each fish lives only a few years. Fish are born and fish die all the time, and the group carries on.",
+   "what_is_this_world": "Fish in a lake, water under the ground and seeds in a jar are all stocks. Something comes in, like water from a tap, and something goes out, like water down a drain. Many of these changes are too slow for one person to see in a lifetime."
   },
-  "thread": "One fish is one life. A pond of fish is a group that goes on across many lives, held together by the births and deaths that flow through it. The fisher, the heron and the otter each take a few, and the pond lasts as long as the flows balance. Nobody stands outside the pond. A fisher is one of the beings taking from it, and one of the beings it feeds.",
+  "thread": "One fish lives a few years. A pond of fish goes on much longer, because new fish are born as old ones die. The fisher, the heron and the otter each take a few fish, and the pond lasts as long as the births keep up with what is taken. People are not outside this. A fisher is one of the beings who take from the pond, and one of the beings the pond feeds.",
   "teachings": [
    {
     "source": "Atharva Veda 12.1.12 (the Prithvi Sukta)",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "A child is born of the pond and belongs to it, and cannot count the fish from outside. Counting the stock carefully is one way to pay attention to the mother who feeds us."
+    "link": "We live on what the Earth gives, as a child lives on what her mother gives. Counting carefully how much is left is one way to look after the Earth that feeds us."
    },
    {
     "source": "Tao Te Ching 44",
     "teaching": "Knowing what is enough saves us from shame. Knowing when to stop saves us from danger, and so we can last a long time.",
-    "link": "In the pond game, the biggest steady catch comes from stopping at the right point. A village that knows when to stop can fish for ever."
+    "link": "In the Pond Council game, the biggest steady catch comes from stopping at the right point. A village that knows when to stop can fish for ever."
    },
    {
     "source": "Dhammapada 49",
     "teaching": "As a bee takes nectar from a flower and flies away without harming her colour or scent, so should a wise person move through a village.",
-    "link": "A bee takes from the flower and helps the flower make seeds. Taking in a way that leaves the source whole is what the ring on Ammamma's boat does."
+    "link": "A bee takes from the flower and helps the flower make seeds, so the flower is not harmed. In the story The Shelf of Shells, Ammamma's steel ring works the same way: small clams slip through it and go back in the water."
    }
   ],
   "science": [
@@ -664,7 +664,7 @@
      "mins": 6,
      "context": "In this step you play one greedy year, to see what happens when every villager takes as much as they can.",
      "do": "Play Year 1 with every villager catching 4 fish. Take 12 fish from the pond. Count what is left. Then add 1 new fish for every 2 left.",
-     "say": "Imagine we are all very hungry. Each of us catches 4 fish. That is 12 fish. How many are left in the pond? How many young fish will be born?",
+     "say": "Suppose we are all very hungry. Each of us catches 4 fish. That is 12 fish. How many are left in the pond? How many young fish will be born?",
      "kid": "Everyone catches 4 fish. Take 12 out. Count what is left. Add new fish.",
      "ask": [
       {
@@ -714,7 +714,7 @@
      "mins": 8,
      "context": "In this step you finish the game with Years 5 to 8 and find out who wins, or whether the pond was lost.",
      "do": "Play Years 5 to 8. After Year 8, count the fish in each bowl. Add them up. Write down if the pond is alive.",
-     "say": "Years 5 to 8. Count the fish in the pond each year before you decide. Is the pond staying full, or getting smaller?",
+     "say": "Now we play Years 5 to 8. Count the fish in the pond each year before you decide. Is the pond staying full, or getting smaller?",
      "kid": "Play years 5 to 8. Count the bowls at the end.",
      "ask": [
       {
@@ -860,7 +860,7 @@
      "mins": 5,
      "context": "In this step you reveal the farms and play the first year, to see what a blight does.",
      "do": "Reveal the farm sheets. Turn over the first trouble card. Rub out the fields it names. Count the grain for each family. Write it in the tally.",
-     "say": "Look at everyone's farms. Now the first trouble card. Whose fields failed? Who had many kinds, and who had one?",
+     "say": "Look at everyone's farms. Now turn over the first trouble card. Whose fields failed? Who had many kinds, and who had one?",
      "kid": "Show your farm. Turn over a card. Rub out the failed fields. Count your grain.",
      "check": {
       "t": "mcq",
@@ -909,7 +909,7 @@
      "mins": 6,
      "context": "In this step you play Years 6 to 8 and then count the grain, to find out which farm families did best.",
      "do": "Play Years 6 to 8. After Year 8, check the list. Take 3 grains from every family for each extinct variety. Count who has the most grain.",
-     "say": "Last three years. Then we count the grain, and we count the varieties. Are all five still alive?",
+     "say": "Now play the last three years. Then we count the grain, and we count the varieties. Are all five still alive?",
      "kid": "Play the last three years. Cross out extinct rice. Count your grain.",
      "ask": [
       {
@@ -983,7 +983,7 @@
     }
    ],
    "safety": "Dried beans can choke a child under five, so keep them away from little ones. Do not eat the marked beans, and never eat raw rajma, which can make you ill. If anyone in the family is allergic to chickpeas or beans, let someone else handle them. Use the marker pen in an open room and keep the cap on when you are not using it.",
-   "record": "Fill in the table with one row for each scoop. Write M, the number of beans you marked, at the top. At the end, write the average of your estimates, and the true number from under the lid.",
+   "record": "Fill in the table with one row for each scoop. Write M, the number of beans you marked, at the top. At the end, write the average of your estimates, and the true number from the slip under the lid.",
    "setup": [
     {
      "art": "A grown-up counting dried chickpeas into groups of ten on a plate, then pouring 240 into a glass jar.",
@@ -1059,7 +1059,7 @@
      "mins": 8,
      "context": "In this step, you take the second scoop, count the marked beans and work out your first estimate.",
      "do": "Scoop one spoonful from the jar onto the plate. Count all the beans in it, and write the number as C. Count the dotted ones, and write the number as R. Work out M times C, then divide by R.",
-     "say": "Now the second scoop. How many beans in all? How many have a dot? If a fraction of this scoop is marked, a fraction of the whole jar is marked too.",
+     "say": "Now take the second scoop. How many beans are in it? How many have a dot? The fraction of this scoop that is marked is about the same as the fraction of the whole jar that is marked.",
      "kid": "Scoop again. Count all the beans. Count the dots. Work out the estimate.",
      "check": {
       "t": "mcq",
@@ -1078,7 +1078,7 @@
      "id": "s5",
      "mins": 8,
      "context": "In this step, you repeat the scoop several times and find the average, to see whether more samples give a better estimate.",
-     "do": "Put the scoop back, shake the jar, and scoop again. Do this 5 times in all. Fill in a row of the table each time. Then add up the estimates and divide by 5.",
+     "do": "Put the beans from the scoop back, shake the jar, and scoop again. Do this 5 times in all. Fill in a row of the table each time. Then add up the estimates and divide by 5.",
      "say": "One scoop can be lucky or unlucky. So we do five. Does every scoop give the same estimate? Why not?",
      "kid": "Repeat the scoop five times. Write each estimate. Find the average.",
      "ask": [
@@ -1098,7 +1098,7 @@
      "mins": 5,
      "context": "This is the last step of the Beans in the Jar test. You open the slip, compare it with your estimate, and say what you found.",
      "do": "Open the slip under the lid and read the true number. Compare it with your average. Say or write three things: what I think, what I saw, and why.",
-     "say": "Now the real number. How close was your guess from looking? How close was your average from the scoops? Tell me what you think, what you saw and why.",
+     "say": "Now read the real number. How close was your guess from looking? How close was your average from the scoops? Tell me what you think, what you saw and why.",
      "kid": "Read the true number. Compare. Say what you think, what you saw, and why.",
      "parent": "A good answer: What I think: a few scoops tell you more than looking. What I saw: my average was close to the true number, but single scoops were far off. Why: each scoop shows the fraction of marked beans, and the fraction is about the same in the scoop as in the jar. Link to the card: Counting what you cannot see."
     }
@@ -1285,9 +1285,9 @@
        "Tap water has magic in it"
       ],
       "a": 0,
-      "why": "Salt pulls water out of seeds and roots, so they struggle to drink. This is why salty groundwater, in places where sea water has seeped into the ground, harms crops. Picking the second option means thinking more of anything is always better."
+      "why": "Salt pulls water out of seeds and roots, so they struggle to drink. This is why salty groundwater, in places where sea water has seeped into the ground, harms crops. Picking 'Salt made the seeds too happy' means thinking more of anything is always better."
      },
-     "parent": "On day 6, healthy moong sprouts on paper towel are typically about 3 to 8 centimetres tall. Typical results: tap water and rice water are both good, and rice water is often as good or a little better. Soapy water and salty water slow the sprouts, and may stop some seeds. If every cup looks the same, write that down. It may mean the teaspoon was too little to harm moong in 6 days, and you could try 2 teaspoons next time. Rice water is a good use for second-hand water. Soap and salt should not go on plants."
+     "parent": "On day 6, healthy moong sprouts on paper towel are typically about 3 to 8 centimetres tall. Typical results: tap water and rice water are both good, and rice water is often as good or a little better. Soapy water and salty water slow the sprouts, and may stop some seeds. If every cup looks the same, write that down. It may mean the teaspoon was too little to harm moong in 6 days, and you could try 2 teaspoons next time. Rice-washing water is used water that can safely go on plants. Soap and salt should not go on plants."
     }
    ]
   },
@@ -1421,11 +1421,11 @@
     {
      "id": "s4",
      "mins": 10,
-     "context": "In this step, you pour the same rain into each funnel and time what happens.",
+     "context": "In this step, you pour the same amount of water into each funnel and time what happens.",
      "do": "Start with funnel A. Pour in 100 millilitres of water in about 5 seconds. Start the timer. Write the time of the first drip. After 3 minutes, measure the water in the glass. Do the same for B, C and D, one at a time, and write the numbers.",
      "say": "Pour in the water evenly and start the timer. When does the first drip fall? After three minutes, how much water is in the glass? Is the rest still in the funnel?",
      "kid": "Pour in 100 millilitres. Start the timer. Watch for the first drip. Measure the water at 3 minutes.",
-     "parent": "Pour as steadily as you can, and measure the water collected by pouring it from the glass into the measuring cup. Water still held is 100 minus what you collected. Very dry soil can soak up water at first, so these numbers are about, not exact. Typical: the stones let almost all the water through in a few seconds. Sand lets most through within a minute. Loose soil is slow, and pressed soil is slower, with a puddle on top. Exact numbers will differ. If no water comes through D at all, write 0 and note the puddle. That is a result too."
+     "parent": "Pour as steadily as you can, and measure the water collected by pouring it from the glass into the measuring cup. Water still held is 100 minus what you collected. Very dry soil can soak up water at first, so these numbers are rough, not exact. Typical results: the stones let almost all the water through in a few seconds. Sand lets most through within a minute. Loose soil is slow, and pressed soil is slower, with a puddle on top. Exact numbers will differ. If no water comes through D at all, write 0 and note the puddle. That is a result too."
     },
     {
      "id": "s5",
@@ -1507,12 +1507,12 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of Ask an Elder. You prepare your questions and make your own guess first.",
-     "do": "Write five questions on a sheet of paper. Ask about birds, water, trees, and fish or insects they saw as a child. Add one question: how did you know?",
+     "do": "Write five questions on a sheet of paper. Ask about the birds, water, trees, and fish or insects the elder saw as a child. Add one question: how did you know?",
      "say": "We will ask someone older what this place was like when they were small. First, what do you think it was like? Write your own guess.",
      "kid": "Write five questions. Ask about birds, water, trees and fish. Guess the answers.",
      "ask": [
       {
-       "q": "Which of your five questions do you think will have the most different answer?",
+       "q": "Which of your five questions do you think will get the answer most different from what you see today?",
        "good": [
         "The one about birds.",
         "The one about water.",
@@ -1640,9 +1640,9 @@
      "id": "s1",
      "mins": 6,
      "context": "This is the first step of Borewell in a Tub. You build the tub and guess what will happen before you pump.",
-     "do": "Fill the clear tub with about 6 centimetres of damp sand. Stand a card tube in each end against the front wall, and pack damp sand around and between them. (Plain holes in sand tend to collapse, so the tubes keep the wells open.) Ask your child to guess what will happen to the other hole when you empty one.",
+     "do": "Fill the clear tub with about 6 centimetres of damp sand. Stand a card tube in each end against the front wall, and pack damp sand around and between them. The tubes are the two wells. (Plain holes in sand tend to collapse, so the tubes keep the wells open.) Ask your child to guess what will happen to the water in one well when you empty the other.",
      "say": "The sand is the ground. Each hole is a well. If we take water out of the left well, what will happen to the right well? Why do you think so?",
-     "kid": "Fill the tub with sand. Dig two holes by the wall. Guess what will happen.",
+     "kid": "Fill the tub with sand. Stand two tubes by the wall. These are the wells. Guess what will happen.",
      "ask": [
       {
        "q": "If we pump water from one well, will the other well change? Why?",
@@ -1682,7 +1682,7 @@
       "a": 0,
       "why": "The water in the sand is joined, so taking it from one place lowers it nearby. This is why a new borewell can dry up an old well next to it."
      },
-     "parent": "Typical: the left well empties and the right well falls, often by half or more, though it varies with the sand. Wet sand drains slowly, so wait a minute and measure again. If the right hole barely moves, the sand may be very coarse or wet. Move the holes closer together and try again."
+     "parent": "Typical result: the left well empties and the right well falls, often by half or more, though it varies with the sand. Wet sand drains slowly, so wait a minute and measure again. If the right hole barely moves, the sand may be very coarse or wet. Move the holes closer together and try again."
     },
     {
      "id": "s4",
@@ -1913,7 +1913,7 @@
        ]
       }
      ],
-     "think": "If a tiger walked past the camera twice, how would you know it was the same one?"
+     "think": "If a tiger walked past the camera twice, how would you know she was the same tiger?"
     }
    ]
   },
@@ -1922,7 +1922,7 @@
    "title": "Flower Watch: who visits the flowers?",
    "mins": 40,
    "days": 3,
-   "context": "In this activity, you watch one flowering plant for 10 minutes at three times of the day and count which visitors come. If you have no flowering plant, this is for a day when you can find one nearby.",
+   "context": "In this activity, you watch one flowering plant for 10 minutes at three times of the day and count which visitors come. If you have no flowering plant at home, do this on a day when you can find one nearby.",
    "materials": [
     {
      "item": "a flowering plant on a balcony, in a school, or beside a road, such as hibiscus, tulsi, jasmine or marigold",
@@ -1941,7 +1941,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Watch for 10 minutes in the morning. Make a tally. Choose your flower."
+     "what": "Choose your flower. Watch for 10 minutes in the morning. Make a tally."
     },
     {
      "day": 2,
@@ -2028,7 +2028,7 @@
    "title": "Kitchen Seed Bank: which seeds in my kitchen are still alive?",
    "days": 8,
    "mins": 55,
-   "context": "In this project, you test six kinds of seeds from the kitchen to see how many sprout. You find out which are alive and which are not, which is the test a real seed bank does.",
+   "context": "In this project, you test six kinds of seeds from the kitchen to see how many sprout. You find out which are alive and which are not. A real seed bank tests its seeds in the same way.",
    "materials": [
     {
      "item": "10 whole green moong seeds",
@@ -2162,7 +2162,7 @@
      "mins": 20,
      "context": "This is the last step of the Kitchen Seed Bank. You work out the percentage for each kind and say what you found.",
      "do": "On day 8, count the sprouted seeds in each plate. For each, divide the number by 10 and multiply by 100 to get the percentage. Draw a bar chart. Say what you think, what you saw and why.",
-     "say": "For each plate, how many of ten sprouted? That is the percentage. Which seeds are alive? Which are not? Why do you think so?",
+     "say": "For each plate, how many of ten sprouted? Work out the percentage. Which seeds are alive? Which are not? Why do you think so?",
      "kid": "Count the sprouts. Work out the percentage. Draw a bar chart.",
      "ask": [
       {
@@ -2189,7 +2189,7 @@
     "Use only things from home, with no tape on the pit, and nothing bought for this.",
     "Pour the rain from a mug over the roof in 20 seconds, the same way each time.",
     "The pit must be a cup or tub filled with stones and sand, standing in a tray of soil.",
-    "Measure the water that runs away into a tray. The less it is, the better."
+    "Measure the water that runs away into a tray. The less water runs away, the better."
    ],
    "materials": [
     "a shoebox or small carton, and thin cardboard for the roof",
@@ -2293,7 +2293,7 @@
    ],
    "general": [
     "A fixed limit, such as every villager may catch 2 fish a year.",
-    "A rest year, where nobody fishes in a year when the pond has fewer than 12 fish.",
+    "A rest year: nobody fishes in a year when the pond has fewer than 12 fish.",
     "A rule to always leave 16 fish in the pond, and to share the rest."
    ],
    "creative": [
@@ -2354,7 +2354,7 @@
      "kid": "Change your rule. Try again. What if someone cheats?",
      "check": {
       "t": "mcq",
-      "q": "A rule that nobody watches is broken by one villager. Why does this matter for the whole village?",
+      "q": "Nobody checks whether the rule is followed, and one villager breaks it. Why does this matter for the whole village?",
       "options": [
        "The pond can be emptied by one person's extra catch",
        "The pond grows faster when someone cheats",
@@ -2409,13 +2409,13 @@
     },
     {
      "t": "truefalse",
-     "p": "Priya says, 'Fish can have young, so a lake of fish can never run out.' Is she right?",
+     "p": "Someone says, 'Fish can have young, so a lake of fish can never run out.' Is this right?",
      "a": false,
      "why": "False. Fish can run out if the catch is bigger than the births, or if too few parents are left. Renewable only works if we take less than nature replaces."
     },
     {
      "t": "mcq",
-     "p": "Meena marks 20 beans and mixes them into a jar. She scoops 30 beans and finds 5 marked ones. About how many beans are in the jar?",
+     "p": "You mark 20 beans and mix them into a jar. You scoop 30 beans and find 5 marked ones. About how many beans are in the jar?",
      "opts": [
       "About 60",
       "About 120",
@@ -2620,7 +2620,7 @@
      ],
      "a": 0,
      "outcome": 5,
-     "why": "More goes out than goes in, 80 against 60, so the stock falls by 20 units every year. Like a bank account, a balance falls if you take out more than you put in."
+     "why": "More goes out than goes in, 80 against 60, so the stock falls by 20 units every year. As in a bank account, the balance falls if you take out more than you put in."
     },
     {
      "t": "mcq",
@@ -2678,7 +2678,7 @@
     },
     {
      "t": "match",
-     "p": "Match each protected idea to what it is.",
+     "p": "Match each way of protecting nature to what it is.",
      "pairs": [
       [
        "Sacred grove",
@@ -2722,7 +2722,7 @@
      "a": [
       "baseline"
      ],
-     "why": "The word was used by a fisheries scientist in 1995. A baseline is the starting point we measure from, and it shifts with each generation."
+     "why": "The name was used by a fisheries scientist in 1995. A baseline is the starting point we measure from, and it shifts with each generation."
     },
     {
      "t": "mcq",
@@ -2784,11 +2784,11 @@
      "lines": 3,
      "a": "Stones and sand have big gaps between them, so rain passes through quickly and soaks down to the ground. Soil holds water and passes it on slowly, and pressed soil hardly passes any.",
      "how": "e3",
-     "why": "A strong answer connects the size of the gaps to how fast water moves, as in the funnel test."
+     "why": "A strong answer connects the size of the gaps to how fast water moves, as in the Rain Pit Model."
     },
     {
      "t": "draw",
-     "p": "Draw the tub model of groundwater at three stages: at the start, after pumping out one well, and after the rain. Mark the water level in each.",
+     "p": "Draw the tub from the Borewell in a Tub activity at three stages: at the start, after pumping out one well, and after the rain. Mark the water level in each.",
      "art": "Three blank rectangles side by side, each with sand drawn at the bottom and two holes against the wall.",
      "how": "a2",
      "a": "At the start both holes have water at 3 centimetres. After pumping, the left hole is almost empty and the right hole is lower. After the rain, both holes are slightly higher but not as high as the start.",
@@ -2822,7 +2822,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Ravi marks 30 fish, and later he catches 60 fish. Of these, 4 are marked. About how many fish are in the lake?",
+     "p": "You mark 30 fish in a lake. Later you catch 60 fish, and 4 of them are marked. About how many fish are in the lake?",
      "opts": [
       "About 120",
       "About 450",
@@ -2858,7 +2858,7 @@
     },
     {
      "t": "fill",
-     "p": "A pond holds fish, and the rule is that 1 new fish is born for every 2 left after the catch. 16 fish are in the pond, and three villagers catch 4 fish each. After breeding, ____ fish are in the pond.",
+     "p": "In a pond, 1 new fish is born for every 2 fish left after the catch. The pond has 16 fish, and three villagers catch 4 fish each. After breeding, ____ fish are in the pond.",
      "a": [
       "6"
      ],
@@ -2972,7 +2972,7 @@
      "p": "Describe one way a mark and recapture estimate could go wrong, and how you would make your estimate better.",
      "lines": 4,
      "how": "e1",
-     "a": "The marked beans might not mix well, so the second scoop has too many or too few. I would shake the jar well, take a bigger scoop and repeat the scoop many times and take the average.",
+     "a": "The marked beans might not mix well, so the second scoop has too many or too few. I would shake the jar well, take a bigger scoop, repeat the scoop many times, and take the average.",
      "why": "A strong answer names a real problem, such as poor mixing or marked animals dying, and a fix such as more samples or a better mix."
     },
     {
@@ -2997,8 +2997,8 @@
      ],
      "ask": "Which child do you agree with? What would you want to know about the village before you decide? Then say one thing the other child has right.",
      "lines": 5,
-     "a": "A strong answer says that both ideas appear in real life. Guards and fines help when people do not know each other, and shared rules help when a community is small and trusts each other. It names what it would want to know, such as how many families there are.",
-     "why": "This is a debated question. A strong answer uses the Hardin and Ostrom ideas and does not say that one child is simply wrong."
+     "a": "A strong answer says that both ideas appear in real life. Guards and fines help when people do not know each other, and shared rules help when a community is small and its people trust each other. It names what it would want to know, such as how many families there are.",
+     "why": "This is a debated question. A strong answer uses the ideas of Garrett Hardin and Elinor Ostrom, and does not say that one child is simply wrong."
     }
    ]
   }
@@ -3086,7 +3086,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Water soaks into the tiny spaces in sand and rock, and the top of that water is the water table. It rises with recharge and falls when we pump more than refills."
+   "why": "Water soaks into the tiny spaces in sand and rock, and the top of that water is the water table. It rises with recharge and falls when we pump out more than soaks in."
   },
   {
    "t": "mcq",
@@ -3184,7 +3184,7 @@
   "Road engineers build underpasses and green bridges so animals can cross safely.",
   "Villages make rules for ponds, pastures and forests, and watch that they are followed.",
   "Doctors and vets count disease cases in a sample, to estimate how many are ill in a whole town.",
-  "Pollster teams ask a sample of people to guess how a whole town or country will vote.",
+  "Polling teams ask a sample of people how they will vote, to estimate how a whole town or country will vote.",
   "Museums and libraries keep old records, photographs and specimens, so that later scientists can compare the past with the present."
  ],
  "spotted": [
@@ -3312,7 +3312,7 @@
  ],
  "maths": [
   {
-   "problem": "Chitra marks 36 beans and mixes them into a jar. She scoops 45 beans and finds 9 marked. About how many beans are in the jar?",
+   "problem": "You mark 36 beans and mix them into a jar. You scoop 45 beans and find 9 marked. About how many beans are in the jar?",
    "answer": "About 180 beans.",
    "explain": "9 of the 45 beans are marked, which is 1 in 5. The 36 marked beans are about 1 in 5 of the jar. So the jar holds about 5 times 36, which is 180.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -3398,7 +3398,7 @@
    "why_maths": "A fraction turns a change in size into one number that can be compared between different lakes and different years."
   },
   {
-   "problem": "Suppose a reserve had about 1,400 tigers in one count, and about 3,000 in a count 16 years later. About how many times as many is that? About how many more tigers were there for each year, on average?",
+   "problem": "Suppose a reserve had about 1,400 tigers in one count, and about 3,000 in a count 16 years later. About how many times as many tigers were there in the second count? About how many more tigers were there for each year, on average?",
    "answer": "About 2 times as many, and about 100 more each year.",
    "explain": "3,000 divided by 1,400 is a little more than 2, so about 2 times. 3,000 take away 1,400 is 1,600. 1,600 divided by 16 is 100, so about 100 more each year.",
    "math_unit": "math.number-sense.estimation.L4",
@@ -3612,5 +3612,5 @@
   ]
  },
  "playtest": "Read through as a parent and child in a city flat would use it, but not yet run at home with children. Beans in the Jar: the numbers were worked out by simulating many scoops. With 240 beans and a first scoop of about 40, single estimates often fall between 150 and 400, and the average of five is usually within 15 percent of the true number. The parent must count the beans in tens the day before, and should not let the child see the number. Second Life of Water: soap and salt at 1 teaspoon in a cup of water usually slow or stop moong, and rice water is usually as good as tap water. If no cup shows a difference, say so, and try 2 teaspoons next time. Rain Pit Model: stones drain in seconds, sand in about a minute, loose soil slowly and pressed soil barely. Pond Council was checked by working out every year for three villagers. A greedy catch of 4 each empties the pond in two years. A catch of 2 each empties it in about five years. Leaving 16 fish gives a steady catch of 8 a year, and the best total over eight years is 64. Seed Keepers is a simple model and does not match real rice farming. Facts for a grown-up to verify before release: the tiger counts of about 1,400 in 2006 and more than 3,000 in 2022, the Ashtamudi clam fishery certification in 2014, the date of the cheetahs' arrival at Kuno, the flood-tolerant rice from Odisha, the Alwar johads, the number of national parks in India, and the ids for the three videos.",
- "warm": {"words": ["STOCK", "TIGER", "WATER", "GRASS", "SEEDS"], "quiz": [["A fish group that has young every year can still be emptied by too much catching.", true, "If people catch faster than the fish breed, fewer parents are left to make young."], ["If a pond fills again every spring, the village can take as many fish as it likes.", false, "Taking too many leaves too few parent fish to fill the pond again."], ["Counting a small, fair sample can help us estimate a group too big to count.", true, "We use the part we count to work out the whole, as in mark and recapture."], ["If the basket weighs the same every day, the lake must be healthy.", false, "The fish may be smaller each year, or take longer to catch, while the weight stays the same."], ["The number of animals stays steady when the young born equal the animals lost.", true, "A stock stays steady when what comes in equals what goes out."], ["Saving only the tiger is enough, because the other living beings will be fine.", false, "A tiger needs her prey, water and forest, so losing those puts her in danger too."], ["A forest cut into small pieces by roads and farms holds fewer kinds of life.", true, "Small separate pieces give animals less room, food and safe ways to move."], ["Old crop varieties are useless because new varieties always give more grain.", false, "Old varieties can carry strengths like standing floods or drought, which help breeders and farmers."], ["A group that has fallen very low may keep shrinking even after people stop catching.", true, "Too few adults are left to make enough young, so recovery can be very slow."], ["Groundwater stays at the same level however much we pump, because rain refills it.", false, "The water table falls when more is pumped out than soaks in."]], "odd": [[["Coal", "Oil", "Iron ore", "Fish"], "Fish", "Coal, oil and iron ore take far too long to form again, but fish are made again by breeding."], [["Camera trap photos", "Marking and recapturing", "Counting a fair sample", "Counting every single one"], "Counting every single one", "The other three estimate the whole from a part; counting every one is not possible for animals we cannot all see."], [["Road through a forest", "Railway across a forest", "Farm cutting a forest", "Strip of trees joining forests"], "Strip of trees joining forests", "The other three break a habitat into pieces; a strip of trees joins the pieces back together."], [["Rain soaking into soil", "Pond water seeping down", "Snowmelt soaking in", "Pumping from a borewell"], "Pumping from a borewell", "The other three add water to the ground; pumping takes water out and can make the water table fall."], [["Sacred grove", "Van Panchayat forest", "Tiger reserve", "Fishing with no limits"], "Fishing with no limits", "The other three are places where rules limit what people take; the odd one has no limit at all."]]}
+ "warm": {"words": ["STOCK", "TIGER", "WATER", "GRASS", "SEEDS"], "quiz": [["A group of fish that has young every year can still run out if too many are caught.", true, "If people catch faster than the fish breed, fewer parents are left to make young."], ["If a pond fills again every spring, the village can take as many fish as it likes.", false, "Taking too many leaves too few parent fish to fill the pond again."], ["Counting a small, fair sample can help us estimate a group too big to count.", true, "We use the part we count to work out the whole, as in mark and recapture."], ["If the basket weighs the same every day, the lake must be healthy.", false, "The fish may be smaller each year, or take longer to catch, while the weight stays the same."], ["The number of animals stays steady when the young born equal the animals lost.", true, "A stock stays steady when what comes in equals what goes out."], ["Saving only the tiger is enough, because the other living beings will be fine.", false, "A tiger needs her prey, water and forest, so losing those puts her in danger too."], ["A forest cut into small pieces by roads and farms holds fewer kinds of life.", true, "Small separate pieces give animals less room, food and safe ways to move."], ["Old crop varieties are useless because new varieties always give more grain.", false, "Old varieties can carry strengths like standing floods or drought, which help breeders and farmers."], ["A group that has fallen very low may keep shrinking even after people stop catching.", true, "Too few adults are left to make enough young, so recovery can be very slow."], ["Groundwater stays at the same level however much we pump, because rain refills it.", false, "The water table falls when more is pumped out than soaks in."]], "odd": [[["Coal", "Oil", "Iron ore", "Fish"], "Fish", "Coal, oil and iron ore take far too long to form again, but fish are made again by breeding."], [["Camera trap photos", "Marking and recapturing", "Counting a fair sample", "Counting every single one"], "Counting every single one", "The other three estimate the whole from a part; counting every one is not possible for animals we cannot see all at once."], [["Road through a forest", "Railway across a forest", "Farm cutting a forest", "Strip of trees joining forests"], "Strip of trees joining forests", "The other three break a habitat into pieces; a strip of trees joins the pieces back together."], [["Rain soaking into soil", "Pond water seeping down", "Snowmelt soaking in", "Pumping from a borewell"], "Pumping from a borewell", "The other three add water to the ground; pumping takes water out and can make the water table fall."], [["Sacred grove", "Van Panchayat forest", "Tiger reserve", "Fishing with no limits"], "Fishing with no limits", "The other three are places where rules limit what people take; the odd one has no limit at all."]]}
 }

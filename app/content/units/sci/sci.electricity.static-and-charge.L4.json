@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Rub a balloon on your hair and hang it from a thread. Hold your open hand near it. The balloon swings towards your hand. Now hold a ruler you rubbed on wool near it. The balloon swings away. One thing pulled and one thing pushed. Which of them proves that something is charged?",
-  "text": "Your hand has no extra charge, yet it pulled the balloon. The ruler pushed, and a push needs charge on both sides. In this unit you use pushes to find out which materials give away electrons and which take them. You hang a foil ball that changes its mind, peel tape into twins, and build a ladder from your own results. Then you follow the charge as it runs away through a steel spoon or a hand, and find out why a printing press in Sivakasi and a petrol tanker both need that to happen.",
+  "text": "Your hand has no extra charge, yet it pulled the balloon. The ruler pushed, and a push needs charge on both sides. In this unit you use pushes to find out which materials give away electrons and which take them. You hang a foil ball that first jumps to a charged balloon and then swings away from it. You peel two strips of tape apart and find that they carry opposite charges. You build a ladder from your own results. Then you follow the charge as it runs away through a steel spoon or a hand, and find out why a printing press in Sivakasi and a petrol tanker both need that to happen.",
   "art": "A balloon on a thread between a plain hand and a rubbed plastic ruler, with a small arrow towards the hand and a small arrow away from the ruler."
  },
  "outcomes": [
@@ -31,14 +31,14 @@
   },
   {
    "term": "Plus and minus charge",
-   "meaning": "The two kinds of electric charge. Two of the same kind push apart. One of each kind pull together.",
+   "meaning": "The two kinds of electric charge. Two charges of the same kind push apart. Two charges of different kinds pull together.",
    "example": "A balloon rubbed on wool has extra minus charge, so it pushes away another rubbed balloon.",
    "art": "Two small circles marked with a plus and a minus, with arrows pulling them together, and two circles both marked minus, with arrows pushing them apart."
   },
   {
    "term": "Neutral",
    "meaning": "Having equal plus and minus charge, so there is no extra charge to feel from far away.",
-   "example": "A plain steel spoon is neutral until something gives it or takes from it a charge.",
+   "example": "A plain steel spoon is neutral until something adds electrons to it or takes some away.",
    "art": "A spoon with the same number of small plus and minus marks all over it."
   },
   {
@@ -125,7 +125,7 @@
    "concept": "Rubbing moves electrons, and charge is never made",
    "status": "defined",
    "definition": "Rubbing, or touching and pulling apart, moves electrons from one material to another. The total charge stays the same, so one material gains exactly what the other loses.",
-   "description": "Every atom has a plus centre, made of protons, and minus electrons around it. The protons are locked in the middle of the atom and stay put. Some electrons on the outside can be moved. When two different materials touch and come apart, some electrons stay with one and are left behind by the other. Now one has extra minus charge, and the other has missing minus, which acts like extra plus. Nothing was made. Charge only moved. Michael Faraday showed in 1843 that the two charges always come in equal pairs, by catching a charged thing inside a metal pail and measuring.",
+   "description": "Every atom has a plus centre, made of protons, and minus electrons around it. The protons are locked in the middle of the atom and stay put. Some electrons on the outside can be moved. When two different materials touch and come apart, some electrons leave one material and stay with the other. Now one has extra minus charge. The other is short of minus charge, which acts like extra plus. Nothing was made. Charge only moved. Michael Faraday showed in 1843 that the two charges always come in equal pairs, by catching a charged thing inside a metal pail and measuring.",
    "examples": [
     "A balloon rubbed on hair takes electrons from the hair, so the balloon is minus and the hair is plus.",
     "Clear tape peeled off a table leaves one side of the pair minus and the other plus, in equal amounts.",
@@ -137,7 +137,7 @@
   {
    "concept": "Only a push proves a thing is charged",
    "status": "defined",
-   "definition": "Two charged things with the same kind of charge repel. A pull can come from a charge on one thing and nothing on the other, so only repelling shows that both are charged the same way.",
+   "definition": "Two things with the same kind of charge repel. A pull can happen when only one of the two things is charged, so only repelling shows that both are charged the same way.",
    "description": "A charged balloon pulls on a plain, neutral hand or wall. That surprises people. The balloon's charge shifts the neutral thing's own plus and minus charges a little, so the near side gets the opposite charge and the pull wins slightly. This is called polarisation. So a pull cannot tell you if the other thing is charged. A push can. The only way to push a minus balloon away is with another minus charge. That is why a scientist who wants to test a charge looks for repelling, and why the tests in this unit all watch for a push.",
    "examples": [
     "A rubbed balloon swings towards a plain hand, so the pull does not prove the hand is charged.",
@@ -164,7 +164,7 @@
    "concept": "A material in the middle both gives and takes",
    "status": "defined",
    "definition": "On a ladder, a material gives electrons to every rung below it and takes electrons from every rung above it. Plus and minus therefore depend on the partner, not only on the material.",
-   "description": "Take cotton. Rub it with wool, and wool is higher, so the cotton takes electrons and becomes minus. Rub the same cotton with polythene, and polythene is lower, so the cotton gives electrons and becomes plus. The cotton did not change. Its partner did. So you cannot call cotton a plus material or a minus material. You can only say what it does against a partner. Only the two ends of the ladder always do the same: the top gives and the bottom takes. Everything between is both, depending on who it meets.",
+   "description": "Take cotton. Rub it with wool, and wool is higher, so the cotton takes electrons and becomes minus. Rub the same cotton with polythene, and polythene is lower, so the cotton gives electrons and becomes plus. The cotton did not change. Its partner did. So you cannot call cotton a plus material or a minus material. You can only say what it does against a partner. Only the two ends of the ladder always do the same: the top gives and the bottom takes. Everything in between can do either, depending on its partner.",
    "examples": [
     "Cotton is minus against wool and plus against polythene.",
     "Paper is minus against hair and plus against PVC.",
@@ -229,7 +229,7 @@
    "concept": "Earthing: the Earth as a giant store",
    "status": "defined",
    "definition": "Joining a charged thing to the ground with a conductor lets its extra charge flow into the Earth, which is so big that it hardly changes.",
-   "description": "The Earth is a conductor, and it is enormous. If you give it a few billion extra electrons, or take a few billion away, nothing about it changes that anyone can measure. So it works like a bottomless drain or a bottomless store. When you touch a charged metal thing while standing on the floor, any extra charge can run through you to the Earth. This is why petrol tankers are joined to the ground when they load or unload fuel, and many trail a metal chain or strap, and why a three-pin plug has an earth pin. It is also why touching an earthed metal pipe calms the static on a paper sheet.",
+   "description": "The Earth is a conductor, and it is enormous. If you give it a few billion extra electrons, or take a few billion away, nothing about it changes that anyone can measure. So it works like a bottomless drain or a bottomless store. When you touch a charged metal thing while standing on the floor, any extra charge can run through you to the Earth. This is why petrol tankers are joined to the ground when they load or unload fuel, and why many trail a metal chain or strap. It is why a three-pin plug has an earth pin. It is also why touching an earthed metal pipe calms the static on a paper sheet.",
    "examples": [
     "A petrol tanker trails an earthing strap so charge cannot build up.",
     "A three-pin plug has a long earth pin joined to the building's earth.",
@@ -242,7 +242,7 @@
    "concept": "The push gets weaker quickly with distance",
    "status": "defined",
    "definition": "The push or pull between two charges gets bigger with more charge and much smaller with more distance. Twice as far apart means only a quarter of the force.",
-   "description": "Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Sunlight also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why two balloons push hard when close and hardly at all when far apart. A bit of paper is pulled even more weakly from far away, because the balloon must first shift the paper's own charges. It is also why the charge on a single balloon can lift your hair but not move the table.",
+   "description": "Charles-Augustin de Coulomb measured this in France in 1785, with a very sensitive hanging balance. Two charges twice as far apart push a quarter as hard. Three times as far apart, a ninth as hard. Scientists call this an inverse square law. Light also follows it: twice as far from a torch means the same light spread over four times the area. Gravity follows it too. The reason is geometry: whatever spreads out from a point in all directions thins out over the surface of a bigger and bigger sphere. This is why two balloons push hard when close and hardly at all when far apart. A bit of paper is pulled even more weakly from far away, because the balloon must first shift the paper's own charges. It is also why the charge on a single balloon can lift your hair but not move the table.",
    "examples": [
     "Two charged balloons that push with some force at 1 centimetre push with a quarter of that force at 2 centimetres.",
     "Two balloons with twice the charge each push four times as hard at the same distance.",
@@ -268,7 +268,7 @@
    "concept": "Sparks and lightning",
    "status": "defined",
    "definition": "A spark happens when the push on the air between two charged things is so strong that the air suddenly lets charge through. Lightning is the same, on a giant scale.",
-   "description": "Air is an insulator, until the push on it is strong enough. That takes about three million volts across each metre of air, or about 3,000 volts for each millimetre. A spark you can just feel from a door handle is across about one millimetre, so it takes about 3,000 volts. It hurts little because the amount of charge is very small and it passes in a flash. Lightning has hundreds of millions of volts and a huge amount of charge, so it is deadly. A bolt starts as a faint feeler that steps down from the cloud. When it is close to the ground, a bright return stroke travels up the same path from the ground to the cloud. The flash we see is the return stroke. The heated air bursts outward, which we hear as thunder.",
+   "description": "Air is an insulator, until the push on it is strong enough. That takes about three million volts across each metre of air, or about 3,000 volts for each millimetre. A spark you can just feel from a door handle is across about one millimetre, so it takes about 3,000 volts. It hardly hurts, because the amount of charge is very small and it passes in a flash. Lightning has hundreds of millions of volts and a huge amount of charge, so it is deadly. A bolt starts as a faint feeler that steps down from the cloud. When it is close to the ground, a bright return stroke travels up the same path from the ground to the cloud. The flash we see is the return stroke. The heated air bursts outward, which we hear as thunder.",
    "examples": [
     "A static shock from a car door is a small spark.",
     "A lightning flash is a spark many kilometres long.",
@@ -281,7 +281,7 @@
    "concept": "Static at work and static as a danger",
    "status": "defined",
    "definition": "Static charge is used to put powder or paint exactly where we want it, and it is dangerous where sparks can set fire to fuel vapour or fine dust.",
-   "description": "A laser printer charges a drum with a pattern, and the charged toner powder sticks only to the pattern. A paint spray gives each droplet the same charge, so droplets push apart into a fine mist and are pulled to the object being painted. A power station chimney can pass its smoke through charged plates so that the dust sticks to the plates instead of going into the sky. The same push is a problem in a flour mill or a fireworks factory, where one spark can ignite fine dust. At a petrol pump, fuel flowing through a hose builds up charge, and a spark could set fire to the vapour. So these places keep the air damp, wear cotton, and earth every metal part.",
+   "description": "A laser printer charges a drum with a pattern, and the charged toner powder sticks only to the pattern. A paint spray gives each droplet the same charge, so droplets push apart into a fine mist and are pulled to the object being painted. A power station chimney can pass its smoke through charged plates so that the dust sticks to the plates instead of going into the sky. But static charge is a danger in a flour mill or a fireworks factory, where one spark can ignite fine dust. At a petrol pump, fuel flowing through a hose builds up charge, and a spark could set fire to the vapour. So in these places people keep the air damp, wear cotton clothes, and earth every metal part.",
    "examples": [
     "A printer's toner sticks only where the drum is charged.",
     "A power station's chimney plates catch dust from smoke.",
@@ -327,7 +327,7 @@
    "evidence": "Du Fay's gold-leaf tests of 1733 and every test since: a rubbed glass tube and a rubbed resin rod act in opposite ways on the same leaf."
   },
   {
-   "text": "The force between two charges gets four times smaller each time the distance doubles.",
+   "text": "The force between two charges drops to a quarter each time the distance doubles.",
    "evidence": "Coulomb's balance measurements of 1785, and modern tests of this law that have found no difference from it."
   },
   {
@@ -383,12 +383,12 @@
    "hint": "Think about what changed between the two rubs, and what did not."
   },
   {
-   "q": "Charge cannot be made or destroyed. Where was the minus charge on your balloon before you rubbed it?",
+   "q": "A balloon rubbed on wool has extra minus charge. Charge cannot be made or destroyed. Where was that minus charge before the rubbing?",
    "kind": "deep",
    "hint": "Think about the wool or hair, and about what a neutral thing really holds."
   },
   {
-   "q": "A charged balloon pulls a plain wall. How does a wall with no extra charge feel the balloon, and how fast does it find out when the balloon moves?",
+   "q": "A charged balloon pulls a plain wall that has no extra charge. How does the wall feel the balloon without touching it? And when the balloon moves, how quickly does the pull on the wall change?",
    "kind": "deep",
    "hint": "Think about polarisation and the electric field around the balloon."
   },
@@ -410,7 +410,7 @@
   {
    "q": "Static is a nuisance in a printing press and a tool in a laser printer. Is static good or bad?",
    "kind": "big",
-   "hint": "Think about whether a thing can be harmful by itself, or only in a place."
+   "hint": "Think about whether a thing can be harmful by itself, or only in the wrong place."
   },
   {
    "q": "People have known about rubbed amber since ancient times, and scientists still argue about why it works. Why might a simple everyday thing stay a mystery?",
@@ -441,7 +441,7 @@
    "\"The paper is not bad,\" she said. \"It is full of charge from the rollers. The steel lets the charge run out of the paper, through my hand and my body, down into the floor. Wood will not let it go.\"",
    "\"Charge,\" said Mr. Raghunathan slowly. \"Paper is paper.\" But then he stopped. \"Last Thursday it rained all day,\" he said. \"And the paper lay perfectly flat. I thought we had been lucky.\"",
    "\"Damp air lets charge leak away by itself,\" said Thenmozhi. \"On a dry day it has nowhere to go.\"",
-   "Everyone in Sivakasi respects a spark. Mr. Raghunathan's cousin ran a cracker unit two lanes away, and he had never allowed anything near it that could jump a spark. He looked at the pile of sheets for a long time.",
+   "Everyone in Sivakasi respects a spark. Mr. Raghunathan's cousin ran a cracker unit two lanes away, and he had never allowed anything near it that could make a spark. He looked at the pile of sheets for a long time.",
    "\"Where does the charge go?\" he said. \"The machine stands on rubber pads, to stop the shaking. It cannot go into the floor from the machine.\"",
    "\"Then we must give it a path,\" said Thenmozhi. \"A metal one, that goes to the ground.\"",
    "Karpagam went to the cupboard in the corner, where she kept her good saree. She took out an old one with a silver zari border that was too worn to wear. She unpicked a long length of the shiny thread, which is made of fine metal. She wound one end round the iron pillar, which went down into the concrete floor. Then she spread the thread out at the other end, into a brush of a hundred fine strands, so that the paper slid right under them as it came out.",
@@ -450,7 +450,7 @@
    "Mr. Raghunathan did not say anything for a while. Then he ordered a proper bar of fine steel bristles from Chennai, and until it came, the silver zari stayed where it was.",
    "That Deepavali, labels printed on those sheets went onto cracker boxes in shops from Madurai to Mumbai. Nobody who bought them knew that the paper had once refused to lie flat, or that a girl on a stool had worked out why."
   ],
-  "epiphany": "For the parent: paper pulled over rollers touches and separates from them again and again, so it picks up a charge. Every sheet meets the same roller in the same way, so every sheet gets the same kind of charge. Sheets with the same charge push each other apart, which is why the pile fanned out. Neutral things such as a sleeve or the iron frame are pulled by the charged sheets. A steel carrier in her hand worked as a conductor, and the charge ran through her body to the floor. Wood is an insulator and did nothing. Damp air carries charge away by itself. The machine stood on rubber, so the charge had no path. Fine metal threads leak charge into the air at each tip, and an earth wire carries it down, which is what real press static eliminators do. Thenmozhi also did a fair test: she tried steel and wood twice each.",
+  "epiphany": "For the parent: paper pulled over rollers touches and separates from them again and again, so it picks up a charge. Every sheet meets the same roller in the same way, so every sheet gets the same kind of charge. Sheets with the same charge push each other apart, which is why the pile fanned out. Neutral things such as a sleeve or the iron frame are pulled by the charged sheets. The steel tiffin carrier in Thenmozhi's hand worked as a conductor, and the charge ran through her body to the floor. Wood is an insulator and did nothing. Damp air carries charge away by itself. The machine stood on rubber, so the charge had no path. Fine metal threads leak charge into the air at each tip, and an earth wire carries it down, which is what real press static eliminators do. Thenmozhi also did a fair test: she tried steel and wood twice each.",
   "ask": [
    "Why would every sheet from the same rollers get the same kind of charge, and what does that do to a pile of sheets?",
    "The steel carrier made the sheets sink flat, but a wooden broom handle did nothing. What does that tell you about steel and wood?",
@@ -465,23 +465,23 @@
   ]
  },
  "roots": {
-  "context": "We have built a ladder of who gives electrons and who takes them, and followed charge into the ground. Now we ask what the ladder tells us about what a thing is.",
+  "context": "We have built a ladder of who gives electrons and who takes them, and followed charge into the ground. Now we ask what the ladder shows: is a material plus or minus by itself, or only next to a partner?",
   "deep_truth": {
-   "truth": "Cotton took electrons from wool and gave them to polythene. So cotton is neither a plus material nor a minus material. Plus and minus only describe how two things meet. Alone, a thing has no sign.",
+   "truth": "Cotton took electrons from wool and gave them to polythene. So cotton is neither a plus material nor a minus material. Plus and minus only describe what happens between two materials. A material alone is neither plus nor minus.",
    "habit": "We call a material positive or negative, as if the label belonged to the thing by itself. The ladder shows that the same cotton is minus against wool and plus against polythene, so the label belongs to the pair.",
    "evidence": "In the Charge Ladder, each material was rubbed on both wool and polythene, and the pushes on the balloon showed which way the electrons went. A material in the middle of the finished ladder takes from the rung above it and gives to the rung below it."
   },
   "three": {
-   "who_am_i": "Your body is a conductor, so charge does not stay on you for long. It runs through you into the floor, and you are a path as well as a person.",
-   "what_is_life": "A flying bee collects a small plus charge from the air, and a flower joined to the ground holds the opposite kind. Pollen can leap between them, so living things are part of the ladder too.",
+   "who_am_i": "Your body is a conductor, so charge does not stay on you for long. It runs through you into the floor. Your body is one of the paths that charge takes to the ground.",
+   "what_is_life": "A flying bee collects a small plus charge from the air, and a flower joined to the ground holds the opposite kind. Pollen can leap between them. So living things give and take charge too.",
    "what_is_this_world": "A spark, a tanker's chain and a lightning bolt all end in the same place, the Earth, which is large enough to take charge from anything."
   },
-  "thread": "One piece of cotton has no sign of its own. Put it next to wool, and it takes electrons. Put it next to polythene, and it gives them away. Charge never appeared from nowhere in any of your tests. It only moved, and the ground is the biggest place it can go. A clinging sheet, a spark and a lightning bolt are all the same thing, charge moving between things that happen to meet.",
+  "thread": "A piece of cotton is not plus or minus by itself. Put it next to wool, and it takes electrons. Put it next to polythene, and it gives them away. In the Charge Ladder and the other tests in this unit, charge never appeared from nowhere. It only moved, and the ground is the biggest place it can go. A clinging sheet, a spark and a lightning bolt are all the same thing: charge moving between things that happen to meet.",
   "teachings": [
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 15",
     "teaching": "Nagarjuna argued that nothing has a nature of its own that stays the same whatever it meets. Things appear only in dependence on other things.",
-    "link": "The same cotton gave electrons to one partner and took them from another. Its sign was not in the cotton alone. It was in the meeting."
+    "link": "The same cotton gave electrons to one partner and took them from another. Its sign was not in the cotton alone. It depended on the partner."
    },
    {
     "source": "Tao Te Ching, chapter 2",
@@ -617,7 +617,7 @@
    ],
    "rules": [
     "Shuffle the 12 cards and put them face down in a pile. Lay the ladder board where everyone can see it.",
-    "The reader turns up two cards, with the material sides showing. The backs stay hidden. Neighbours are unreliable, so if the two cards are less than 3 rungs apart, put one back and draw another.",
+    "The reader turns up two cards, with the material sides showing. The backs stay hidden. Materials on rungs close together give unreliable results, so if the two cards are less than 3 rungs apart, put one back and draw another.",
     "Every other player writes or says which of the two materials will get the minus charge when they are rubbed together. The reader then turns the cards over.",
     "The card with the bigger rung number is lower on the ladder. It takes the electrons, so it gets the minus. A player with the right answer scores one point.",
     "A player who also says why, using the words give, take or electrons, scores one more point.",
@@ -635,12 +635,12 @@
      "say": "These cards are twelve materials on a charge ladder. In each round, you guess which one takes the electrons. Let us look at the board first.",
      "kid": "Cut out the cards and the ladder. Shuffle the cards.",
      "context": "This is the first step of Ladder Duel. You set up the board and the cards.",
-     "parent": " One child with a parent: the child guesses and the parent is the reader. Two to four children: take turns as reader, and everyone else writes a guess. Print one set per group."
+     "parent": "One child with a parent: the child guesses and the parent is the reader. Two to four children: take turns as reader, and everyone else writes a guess. Print one set per group."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Play round 1. The reader turns up two cards at least 3 rungs apart. Everyone guesses which will get the minus charge. Turn over the backs and score. Play six pairs.",
+     "do": "Play round 1. The reader turns up two cards at least 3 rungs apart. Everyone guesses which will get the minus charge. Turn the cards over to check, and score. Play six pairs.",
      "say": "Two cards are up. Which one will take the electrons and get the minus charge? Write your guess, then we turn the cards over.",
      "kid": "Two cards are up. Which gets the minus? Write your guess.",
      "ask": [
@@ -670,7 +670,7 @@
        ]
       }
      ],
-     "parent": "The card in the middle is both. This is the main idea of the ladder: plus and minus belong to the meeting, not to the material.",
+     "parent": "The card in the middle is both. This is the main idea of the ladder: plus and minus belong to the pair, not to one material.",
      "check": {
       "t": "mcq",
       "q": "A card is in the middle of the ladder. It meets one card above it and one below it. What happens?",
@@ -687,11 +687,11 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Count the points. Compare this ladder with the one from your own experiment. Where do the two ladders disagree? Talk about why.",
-     "say": "Count the points. Now compare this ladder with the one you built yourself. Do they match? Where do they differ, and why might that be?",
-     "kid": "Count your points. Compare this ladder with your own ladder.",
+     "do": "Count the points. Compare this ladder with the ladder you built in the Charge Ladder experiment. Where do the two ladders disagree? Talk about why.",
+     "say": "Count the points. Now compare this ladder with the one you built yourself in the Charge Ladder experiment. Do they match? Where do they differ, and why might that be?",
+     "kid": "Count your points. Compare this ladder with the one you built in the Charge Ladder experiment.",
      "think": "If two published ladders disagree about close neighbours, which should you trust?",
-     "parent": "Your ladder from the experiment may differ from this one. That is a normal result. Ladders agree about the ends, and not about close neighbours. Real data from your own home is worth more than a table in a book.",
+     "parent": "Your ladder from the Charge Ladder experiment may differ from this one. That is a normal result. Ladders agree about the ends, and not about close neighbours. Real data from your own home is worth more than a table in a book.",
      "context": "This is the last step of Ladder Duel. You compare the game's ladder with your own."
     }
    ],
@@ -705,7 +705,7 @@
    "mins": 40,
    "days": 1,
    "question": "When five different things are each rubbed on wool and on polythene, which of them take electrons and which give them? Can the results be put in a ladder that predicts a pair you have not tried?",
-   "predict": "Before you start, guess for each of the five things. After wool, will it push the balloon away? After polythene, will it push or pull? Say why you think so.",
+   "predict": "Before you start, guess for each of the five things. After it is rubbed on wool, will it push the hanging balloon away? After it is rubbed on polythene, will it push the balloon or pull it? Say why you think so.",
    "fair_test": "Every thing gets ten strokes, always in one direction. Every thing is held 3 centimetres from the balloon, at the same height, for 5 seconds. Each thing is wiped clean before the next test, and the hanging balloon is charged again on wool after every three tests. The same wool, the same polythene and the same room are used all the way through. Only the thing being rubbed changes.",
    "results_table": [
     "Thing",
@@ -814,7 +814,7 @@
        "The balloon has lost its charge"
       ],
       "a": 1,
-      "why": "A charged balloon pulls on neutral things too, because it shifts their own charges a little. So a pull is not proof. Only a push shows that both things have the same kind of charge. Pick the first option, and you will think every pull means a charge."
+      "why": "A charged balloon pulls on neutral things too, because it shifts their own charges a little. So a pull is not proof. Only a push shows that both things have the same kind of charge. If you picked the first option, remember that a pull does not always mean a charge."
      },
      "context": "In this step, you hang the balloon, charge it and see that a plain hand pulls it. This balloon is the detector for the rest of the test."
     },
@@ -822,7 +822,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Hold the plain, unrubbed ruler 3 centimetres from the balloon, at the same height. Watch for 5 seconds. Write R if the balloon is pushed away, A if it is pulled closer, and 0 if nothing happens.",
-     "say": "First, a control. This ruler has not been rubbed. What does the balloon do? Write R, A or 0.",
+     "say": "First, a control. A control is a test to compare the others with. This ruler has not been rubbed. What does the balloon do? Write R, A or 0.",
      "kid": "Hold the plain ruler near the balloon. Write R, A or 0.",
      "ask": [
       {
@@ -853,7 +853,7 @@
        ]
       }
      ],
-     "parent": "Expect the ruler, the comb and the balloon to push the hanging balloon away. The paper tube and the cotton often give a weak push or nothing. If nothing moves at all, give twenty strokes, move the thing in slowly from the side, or try again in a drier room. Write 0. A weak charge is a real result. Do not let the thing touch the balloon, because touching shares the charge and ends the test. These pushes are what usually happens, so write what you really see.",
+     "parent": "Expect the ruler, the comb and the balloon to push the hanging balloon away. The paper tube and the cotton often give a weak push or nothing. If nothing moves at all, give twenty strokes, move the thing in slowly from the side, or try again in a drier room. If it still does not move, write 0. A weak charge is a real result. Do not let the thing touch the balloon, because touching shares the charge and ends the test. Your results may differ from these, so write what you really see.",
      "check": {
       "t": "mcq",
       "q": "A ruler rubbed on wool pushes the balloon away. What do you know about the ruler?",
@@ -863,7 +863,7 @@
        "It has the opposite kind of charge"
       ],
       "a": 0,
-      "why": "A push needs the same kind of charge on both things. The balloon took electrons from the wool, so it is minus. So the ruler is minus too, and it took electrons from the wool. If you picked no charge, remember that no charge gives a pull at most."
+      "why": "A push needs the same kind of charge on both things. The balloon took electrons from the wool, so it is minus. So the ruler is minus too, and it took electrons from the wool. If you picked no charge, remember that a thing with no charge can only pull the balloon, never push it."
      },
      "context": "In this step, you rub each of the five things on wool and test it against the balloon. You write R, A or 0 for each."
     },
@@ -883,7 +883,7 @@
        ]
       }
      ],
-     "parent": "Expect different results from step 4. The paper tube and the cotton often pull the balloon after polythene, because they gave electrons to the polythene. Remember that a pull is only a hint. Do not worry if some results are messy. Write down what you saw.",
+     "parent": "Expect results that differ from the wool step. The paper tube and the cotton often pull the balloon after polythene, because they gave electrons to the polythene. Remember that a pull is only a hint. Do not worry if some results are messy. Write down what you saw.",
      "context": "In this step, you rub the same five things on polythene and test them again. Some may behave differently from before."
     },
     {
@@ -915,7 +915,7 @@
    "days": 1,
    "question": "Two balloons rubbed the same number of times hang apart in a V. Does ten rubs make the gap twice as big as five rubs? Does twenty rubs make it four times as big?",
    "predict": "Before you start, guess how far apart the balloons will hang after 5, 10 and 20 rubs. Will 20 rubs give a gap four times as big as 5? Say why you think so.",
-   "fair_test": "Both balloons are the same size, hang on threads of the same length from the same pencil, and are rubbed on the same wool with the same number of strokes. The gap is measured 10 seconds after hanging, between the same two knots. The balloons are cleared of charge between levels. Only the number of rubs changes.",
+   "fair_test": "Both balloons are the same size, hang on threads of the same length from the same pencil, and are rubbed on the same wool with the same number of strokes. The gap is measured 10 seconds after hanging, between the same two knots. The charge is cleared from the balloons before each new number of rubs. Only the number of rubs changes.",
    "results_table": [
     "Rubs on each balloon",
     "Gap between knots, try 1 (cm)",
@@ -951,7 +951,7 @@
    ],
    "safety": "Keep balloons and bits of burst balloon away from children under three. If anyone at home has a latex allergy, do not use latex balloons.",
    "record": "Fill in the table. Draw a bar chart with one bar for each number of rubs, using the gap beyond the resting gap.",
-   "context": "In this experiment, you charge two balloons the same amount and measure how far apart they hang. You find out whether more rubbing pushes them proportionally further.",
+   "context": "In this experiment, you charge two balloons the same amount and measure how far apart they hang. You find out whether twice the rubbing pushes them twice as far apart.",
    "setup": [
     {
      "art": "Two blown-up balloons hanging side by side from loops over a pencil taped to a table edge, touching each other at rest, with a ruler held at the knots.",
@@ -983,13 +983,13 @@
        ]
       }
      ],
-     "parent": "Do not correct the guesses. Both a doubling guess and a not-doubling guess are good starting points. One child with a parent: the child rubs and measures, the parent counts the rubs and writes. Two to four children: each rubs one balloon (the same number of strokes, counted aloud by a third child), one measures, one writes. Swap after each level.",
+     "parent": "Do not correct the guesses. Both a doubling guess and a not-doubling guess are good starting points. One child with a parent: the child rubs and measures, the parent counts the rubs and writes. Two to four children: each rubs one balloon (the same number of strokes, counted aloud by a third child), one measures, one writes. Swap jobs after each number of rubs.",
      "context": "This is the first step of the Two Balloons test. You guess before you measure."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Tie each thread to a loop. Slip both loops over the middle of the pencil. Tape the pencil to the edge of a table so the balloons hang free and touch each other. Measure the distance between the two knots. Write it down as the resting gap.",
+     "do": "Tie the end of each balloon's thread into a loop. Slip both loops over the middle of the pencil. Tape the pencil to the edge of a table so the balloons hang free and touch each other. Measure the distance between the two knots. Write it down as the resting gap.",
      "say": "Both balloons hang from one point and touch each other. Measure the gap between the knots. This is the resting gap, before any charge.",
      "kid": "Hang both balloons from one pencil. Measure the gap between the knots.",
      "parent": "The resting gap will be about the width of a balloon, so around 20 centimetres, but your number may differ. Tape a sheet of paper under the balloons so a helper can mark the two knot positions with a pencil dot before measuring. Measure from knot to knot every time. Keep the balloons away from walls.",
@@ -998,7 +998,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Lift both loops off the pencil. Rub the first balloon 5 times on the wool, then the second balloon 5 times. Slip the loops back over the pencil. Wait 10 seconds. Measure the gap between the knots. Repeat once more. Then touch both balloons with a damp hand and wait 30 seconds.",
+     "do": "Lift both loops off the pencil. Rub the first balloon 5 times on the wool, then the second balloon 5 times. Slip the loops back over the pencil. Wait 10 seconds. Measure the gap between the knots. Do all of this once more for a second try. Then touch both balloons with a damp hand to clear the charge, and wait 30 seconds.",
      "say": "Five rubs for each balloon, always the same direction. Hang them up again. Wait ten seconds, and measure the gap. Write it down.",
      "kid": "Rub each balloon 5 times. Hang them. Measure the gap.",
      "ask": [
@@ -1059,7 +1059,7 @@
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Draw a bar for each number of rubs. Say what you saw.",
      "think": "If you could rub forever, would the gap keep growing?",
-     "parent": "After they have said what they saw, explain: more rubs moved more electrons, so each balloon had more charge and pushed harder. But the gap did not grow in step, for two reasons. The push gets weaker as the balloons move apart. And the balloons can hold only so much charge before it leaks into the air as tiny sparks you cannot see.",
+     "parent": "After they have said what they saw, explain: more rubs moved more electrons, so each balloon had more charge and pushed harder. But the gap did not grow as fast as the number of rubs, for two reasons. The push gets weaker as the balloons move apart. And the balloons can hold only so much charge before it leaks into the air as tiny sparks you cannot see.",
      "context": "This is the last step of the Two Balloons test. You draw the chart and explain what you found."
     }
    ]
@@ -1099,7 +1099,7 @@
     }
    ],
    "record": "Draw the foil ball three times: before the balloon, just after it touches, and after you touch it with your finger. Add arrows for what happens. Write the seconds the ball kept away from the balloon.",
-   "context": "In this activity, you hang a little foil ball near a charged balloon and watch it change what it does. This is the thing to notice before the explanations.",
+   "context": "In this activity, you hang a little foil ball near a charged balloon and watch it change what it does. Do this before you read the explanations.",
    "setup": [
     {
      "art": "A small ball of foil on a thread hanging from a pencil taped to the edge of a table.",
@@ -1141,7 +1141,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Rub a balloon 15 times on the wool. Hold it slowly towards the ball, from the side, until it is about 5 centimetres away. Let the ball touch the balloon. Watch what happens next.",
+     "do": "Rub a balloon 15 times on the wool. Move it slowly towards the ball, from the side, until it is about 5 centimetres away. Let the ball touch the balloon. Watch what happens next.",
      "say": "Fifteen rubs on wool. Now bring the balloon slowly to the ball. What does the ball do? What does it do after it touches?",
      "kid": "Rub the balloon on wool. Bring it near the ball. Watch.",
      "ask": [
@@ -1171,7 +1171,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Move the balloon slowly towards the ball again. Try to chase the ball with the balloon. Watch how it runs away. Count how many seconds the ball keeps away before it comes back, and write the number.",
-     "say": "Chase the ball with the balloon. What does it do? Why do you think it runs away now, and it did not before?",
+     "say": "Chase the ball with the balloon. What does it do? Why do you think it runs away now, when it did not before?",
      "kid": "Chase the ball with the balloon. What does it do?",
      "ask": [
       {
@@ -1182,13 +1182,13 @@
        ]
       }
      ],
-     "parent": "The ball should swing away as you push the balloon towards it. Wait for your child to say why, before you explain. If the ball sticks to the balloon instead of swinging away, use a smaller, lighter ball and a longer thread, and keep the thread dry. The seconds it keeps away are shorter on a damp day.",
+     "parent": "The ball should swing away as you push the balloon towards it. Wait for your child to say why, before you explain. If the ball sticks to the balloon instead of swinging away, use a smaller, lighter ball and a longer thread, and keep the thread dry. On a damp day the ball keeps away for fewer seconds.",
      "context": "In this step, you chase the ball with the balloon. You watch it keep away."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "Touch the ball with your finger for two seconds. Then bring the balloon near again. Watch what the ball does now. Draw it three times.",
+     "do": "Touch the ball with your finger for two seconds. Then bring the balloon near again. Watch what the ball does now. Draw the ball three times: before the balloon, just after it touches, and after you touch it with your finger.",
      "say": "Touch the ball with your finger. Now bring the balloon near. What does it do now? Where did the ball's charge go?",
      "kid": "Touch the ball with your finger. Bring the balloon near. Draw it.",
      "ask": [
@@ -1201,7 +1201,7 @@
       }
      ],
      "parent": "The ball should jump to the balloon again. Your finger and body let the extra charge run away into the floor. Then say that the ball can do this over and over.",
-     "context": "In this step, you touch the ball with a finger and watch it change its mind once more."
+     "context": "In this step, you touch the ball with a finger and watch it jump to the balloon again."
     }
    ],
    "safety": "If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps. Foil edges can be sharp, so fold them in. Keep balloons and bits of burst balloon away from children under three."
@@ -1238,7 +1238,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Charge the foil ball. Touch it with each thing. Test with the balloon if the ball is still charged."
+     "what": "Charge the foil ball. Touch it with each thing. Then use the balloon to test whether the ball is still charged."
     }
    ],
    "record": "A table with each thing, your guess, what the ball did, and two groups at the end: lets charge run away, and keeps the charge.",
@@ -1261,7 +1261,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Line up the seven things and a wet fingertip. Ask your child to guess, for each thing, if it will let the charge run away or keep it. Write the guesses down.",
+     "do": "Line up the seven things. You will also test a wet fingertip. Ask your child to guess, for each one, if it will let the charge run away or keep it. Write the guesses down.",
      "say": "We will charge the foil ball, then touch it with each of these. Which things let the charge run away, and which keep it? Why do you think so?",
      "kid": "Guess for each thing. Does it let charge run away?",
      "ask": [
@@ -1292,13 +1292,13 @@
        ]
       }
      ],
-     "parent": "A ball that is pulled towards the balloon has lost its charge. A ball that is pushed away still has it. The steel spoon should leave the ball plain. Recharge the ball by touching it with the balloon before every new test.",
+     "parent": "A ball that is pulled towards the balloon has lost its charge. A ball that is pushed away still has it. The steel spoon should leave the ball with no charge. Recharge the ball by touching it with the balloon before every new test.",
      "context": "In this step, you charge the ball and test it with the steel spoon in your hand."
     },
     {
      "id": "s3",
      "mins": 12,
-     "do": "Recharge the ball each time. Touch it for two seconds with each of the other things. For the pencil, touch the ball with the lead tip. Then test with the balloon, and write down if the ball still pushes away, or comes closer. Also do a control: charge the ball, touch it with nothing, wait two seconds, then test it. If it lost its charge alone, the air is damp, so note that. Finally, try a dry fingertip and a wet fingertip.",
+     "do": "Recharge the ball each time. Touch it for two seconds with each of the other things. For the pencil, touch the ball with the lead tip. Then test with the balloon, and write down whether the ball is still pushed away or comes closer. Also do a control: charge the ball, touch it with nothing, wait two seconds, then test it. If it lost its charge by itself, the air is damp, so note that. Finally, try a dry fingertip and a wet fingertip.",
      "say": "Recharge the ball. Touch it with the next thing. Then test it with the balloon. Is the charge still there, or has it run away?",
      "kid": "Recharge the ball. Touch it with a thing. Test with the balloon.",
      "check": {
@@ -1312,7 +1312,7 @@
       "a": 0,
       "why": "If the charge had run away, the ball would have been pulled closer. It was still pushed, so the charge stayed on the ball. That is what an insulator does. A conductor would have let it go, through your hand and body."
      },
-     "parent": "Expect the steel spoon, the coin, the pencil lead and your fingers to remove the charge. The plastic spoon and the dry paper keep it. The wooden spoon and the cotton thread may remove a little, slowly, and more on a damp day. Compare every thing with the control. A neutral ball is also pulled towards the balloon, so test fast and do not let them touch. A damp day makes more things conduct.",
+     "parent": "Expect the steel spoon, the coin, the pencil lead and your fingers to remove the charge. The plastic spoon and the dry paper keep it. The wooden spoon and the cotton thread may remove a little, slowly, and more on a damp day. Compare every thing with the control. A neutral ball is also pulled towards the balloon, so test fast and do not let the ball and the balloon touch. A damp day makes more things conduct.",
      "context": "In this step, you test the other things in the same way."
     },
     {
@@ -1379,8 +1379,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Tear four strips of tape, each 20 centimetres long. Fold over 1 centimetre at one end of each strip to make a handle. Stick two strips firmly on the table. Press the other two on top of them. Before sticking, write B on the handles of two strips and T on the other two.",
-     "say": "We have two pairs of strips. The strips on the table are B for bottom. The strips on top are T. Before we peel them, what do you think will happen?",
+     "do": "Tear four strips of tape, each 20 centimetres long. Fold over 1 centimetre at one end of each strip to make a handle. Write B on the handles of two strips and T on the other two. Stick the two B strips firmly on the table. Press the two T strips on top of them.",
+     "say": "We have two pairs of strips. The strips on the table are B for bottom. The strips on top are T for top. Before we peel them, what do you think will happen?",
      "kid": "Stick two strips on the table. Press two more on top. Label them B and T.",
      "ask": [
       {
@@ -1528,8 +1528,8 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Hang and charge the balloon as before. Rub each new thing ten times on the wool and then on the polythene. Hold each 3 centimetres from the balloon and write R, A or 0. Wipe each one clean before the next test. Also time, with a phone, how long the balloon leans to your hand.",
-     "say": "The same test as before, with four new things. Rub ten times, hold it near the balloon, and write R, A or 0.",
+     "do": "Hang and charge the balloon as you did in the Charge Ladder test. Rub each new thing ten times on the wool and then on the polythene. Hold each 3 centimetres from the balloon and write R, A or 0. Wipe each one clean before the next test. Also time, with a phone, how long the balloon leans towards your plain hand.",
+     "say": "This is the same test as the Charge Ladder, with four new things. Rub ten times, hold it near the balloon, and write R, A or 0.",
      "kid": "Test each new thing on wool and polythene. Write R, A or 0.",
      "check": {
       "t": "mcq",
@@ -1549,7 +1549,7 @@
      "mins": 25,
      "wait": "Do this on another day, in a damp place such as a bathroom after a hot shower.",
      "adult": true,
-     "do": "On the second day, hang the balloon in a damp place, such as a bathroom after a shower. Test the same four things on wool and polythene in the same way. Write R, A or 0 for each, in a new column. Time how long it leans to your hand, as on day 1.",
+     "do": "On the second day, hang the balloon in a damp place, such as a bathroom after a shower. Test the same four things on wool and polythene in the same way. Write R, A or 0 for each, in a new column. Time how long the balloon leans towards your plain hand, as on day 1.",
      "say": "Today the air is damp. Do the same tests as before. Do the things push the balloon as strongly? Why might that be?",
      "kid": "Test the same things in damp air. Write R, A or 0.",
      "ask": [
@@ -1577,7 +1577,7 @@
      "context": "This is the last day of the Home Ladder project. You compare the two days and draw your final ladder."
     }
    ],
-   "safety": "Grown-up needed on day 2 because floors are slippery. No sockets, geyser switches or plugs near. Thermocol beads and cut pieces are choking risks for children under three. If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps."
+   "safety": "A grown-up must be there on day 2, because wet floors are slippery. Keep away from sockets, geyser switches and plugs. Thermocol beads and cut pieces are choking risks for children under three. If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps."
   }
  ],
  "challenges": [
@@ -1642,14 +1642,14 @@
        ]
       }
      ],
-     "parent": "On a dry day, the strip may stay up for a minute or more. On a damp day it may fall in seconds, and then you have already found one answer. Try again in a drier room. One child with a parent: the child rubs and presses, the parent times. Two to four children: split into a rubber, a presser, a timer and a recorder, and swap each try. Each child can test a different idea.",
+     "parent": "On a dry day, the strip may stay up for a minute or more. On a damp day it may fall in seconds, and then you have already found one answer. Try again in a drier room. One child with a parent: the child rubs and presses, the parent times. Two to four children: one rubs, one presses, one times and one writes, and they swap jobs after each try. Each child can test a different idea.",
      "context": "In this step, you time how long the charged strip clings to the wall."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Sketch two or three ideas for making the charge leave the strip. Choose one to test first.",
-     "say": "How could we let the charge leave the strip? Think of what ran charge away in the Charge Walk. Draw two or three ideas.",
+     "say": "How could we let the charge leave the strip? Think of the things that let the charge run away in the Charge Walk. Draw two or three ideas.",
      "kid": "Draw two ideas for making the strip fall. Pick one.",
      "ask": [
       {
@@ -1694,7 +1694,7 @@
      "context": "This is the last step of the challenge. You compare your ideas and improve the best one."
     }
    ],
-   "safety": "Scissors only with a grown-up nearby. No flame and no heater. Foil edges can be sharp. If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps."
+   "safety": "Use scissors only with a grown-up nearby. Do not use a flame or a heater. Foil edges can be sharp. If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps."
   }
  ],
  "worksheets": [
@@ -1829,7 +1829,7 @@
     },
     {
      "t": "write",
-     "p": "Ria rubs a ruler on wool, and a hanging charged balloon swings towards the ruler. Ria says the ruler is therefore charged. Is she right? What test would settle it?",
+     "p": "A ruler is rubbed on wool, and a hanging charged balloon swings towards the ruler. Does that prove the ruler is charged? What test would settle it?",
      "lines": 3,
      "a": "Not necessarily. A pull can happen with a neutral ruler. A push settles it: if the balloon swings away from the ruler, both have the same kind of charge.",
      "why": "A strong answer says that a pull is not proof, because charged things pull neutral things too, and that a push is the test.",
@@ -2116,7 +2116,7 @@
       "The same"
      ],
      "a": 0,
-     "why": "3 centimetres is 3 times as far. The pull divides by 3 times 3, which is 9. That is why two balloons that push hard at 1 centimetre hardly push at 10.",
+     "why": "3 centimetres is 3 times as far. The push divides by 3 times 3, which is 9. That is why two balloons that push hard at 1 centimetre hardly push at 10.",
      "outcome": 5
     },
     {
@@ -2188,7 +2188,7 @@
      "p": "Design a fair test to find out if damp air changes the order of materials on your ladder. Say what you would keep the same, and what you would change.",
      "lines": 4,
      "a": "Rub the same materials, with the same number of strokes, against the same wool and polythene, and test with the same hanging balloon. Do it in dry air first, then in damp air. Only the dampness changes.",
-     "why": "A fair test changes one thing only. The materials, the strokes, the pads and the detector must stay the same, so any difference comes from the damp air.",
+     "why": "A fair test changes one thing only. The materials, the strokes, the wool and polythene, and the hanging balloon must stay the same, so any difference comes from the damp air.",
      "outcome": 2
     },
     {
@@ -2551,7 +2551,7 @@
   },
   {
    "q": "Do the dust storms of the Thar desert or of Mars make lightning too?",
-   "why_open": "Rubbing grains of sand charge each other, and lightning has been seen in some dust storms on Earth. Whether it happens in every big storm, and on Mars, is not yet clear."
+   "why_open": "Grains of sand that rub together charge each other, and lightning has been seen in some dust storms on Earth. Whether it happens in every big storm, and on Mars, is not yet clear."
   },
   {
    "q": "Why are charges made only in whole units of one electron?",
@@ -2568,7 +2568,7 @@
   "Is it easier to charge a balloon on a rainy day or a dry day? Why?",
   "If you could only keep one rung of the charge ladder, which would you keep? Why?",
   "What could you use at home to let the charge run out of a plastic bag that is clinging to you?",
-  "Would a bee in a storm feel different fields? What do you think?"
+  "Would a bee feel a different electric field during a storm? What do you think?"
  ],
  "jokes": [
   {
@@ -2623,14 +2623,14 @@
    "answer": "9 units at 4 centimetres, and 4 units at 6 centimetres.",
    "explain": "4 centimetres is 2 times as far, so the force divides by 2 times 2, which is 4. 36 divided by 4 is 9. 6 centimetres is 3 times as far, so the force divides by 3 times 3, which is 9. 36 divided by 9 is 4.",
    "math_unit": "math.patterns.number-patterns.L4",
-   "why_maths": "Spotting the pattern 4 and 9 in how the force drops lets you predict a force at a distance you have not measured."
+   "why_maths": "Twice as far divides the force by 4, and three times as far divides it by 9. Spotting this pattern lets you predict a force at a distance you have not measured."
   },
   {
    "problem": "A rubbed balloon might carry about 60,000,000,000 extra electrons. In India we count in crores, and 1 crore is 10,000,000. How many crore electrons is that?",
    "answer": "6,000 crore.",
    "explain": "60,000,000,000 divided by 10,000,000 is 6,000. So the balloon carries about 6,000 crore extra electrons.",
    "math_unit": "math.number-sense.big-numbers.L4",
-   "why_maths": "The numbers of electrons that move are huge, and writing them in crores helps you feel how big, and yet how small a share of the balloon's electrons, they are."
+   "why_maths": "The numbers of electrons that move are huge, and writing them in crores makes them easier to read. Even so, they are only a small share of the balloon's electrons."
   },
   {
    "problem": "In the Two Balloons test, one student measured the gap beyond the resting gap after 10 rubs three times: 7 centimetres, 9 centimetres and 8 centimetres. What is the middle value of the three?",
@@ -2638,7 +2638,7 @@
    "explain": "Put the numbers in order: 7, 8, 9. The middle one is 8. The middle value is a fair summary, even if one try went wrong.",
    "math_unit": "math.data.reading-data.L4",
    "how": "e2",
-   "context": "In the Two Balloons test, you measure the gap three times at each level of rubbing.",
+   "context": "In the Two Balloons test, you measure the gap three times for each number of rubs.",
    "why_maths": "Several tries give slightly different numbers, and the middle value is a fair way to pick one answer from them."
   },
   {
@@ -2866,5 +2866,5 @@
   "wrong_idea": "People thought rubbing made only one kind of electric power, and later that the glass gained a fluid. Du Fay's gold leaf, pushed by glass and pulled by resin, showed two kinds. The electron, found in 1897, showed that rubbed glass loses something instead of gaining it."
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through on paper as if at home, with the materials listed. Static works far better in dry air. On a damp or rainy day, use an air-conditioned room, or a grown-up can blow a hair dryer on the cool setting on the wool for 30 seconds first. The charge fades in about a minute, so the hanging balloon is recharged on wool after every three tests, and each thing is wiped clean with a damp hand and dried before the next. The pushes from the paper tube and the cotton wad are often weak or missing. The steps say to write 0 when that happens, because a weak charge is a real result, and they say what to try first. The Charge Ladder will not match every book, because published ladders disagree about close neighbours. The unit says so and asks the child to trust their own results first. Do a trial run of the ruler and the comb on wool before you start with your child, so you know what a clear push looks like. The Tape Twins need a clean, smooth table and a quick pull. The foil ball needs a smooth ball on a silk or cotton thread. Nothing in the spine needs a garden. Lightning is never tested, only explained. Facts checked: Faraday's ice-pail experiment (1843), Clarke 2013 and Waitukaitis 2014 are confirmed. Still to verify before publishing: the Empire State Building being struck about 20 to 25 times a year (confirmed from several sources); the figure of about 2,800 lightning deaths a year in India (national crime records for 2021 and 2022); the 2011 and 2014 same-material charging papers; that a flying bumblebee carries a small plus charge and a flower a minus one; that the bright return stroke of lightning travels up; the rung positions of rubber and wood on the game's ladder, which differ between published tables; and that the Nehru Science Centre has electricity exhibits at present. The spine is the foil ball, the Charge Ladder, the explanation cards, roots and the quiz, about 95 minutes over two sessions.",
- "warm": {"words": ["SPARK", "EARTH", "METAL", "GLASS", "ATOMS"], "quiz": [["A push between two things proves both are charged, but a pull might not.", true, "A charged thing can pull a neutral one, so only pushing apart shows both carry the same charge."], ["Static electricity and the electricity in wires are two different kinds.", false, "Both are charge carried by electrons. Static charge stays in one place, and in a wire it moves."], ["Charge is never made or destroyed. It is only moved from one place to another.", true, "What one material gains, the other loses, so the total charge stays the same."], ["Two pieces of the same material can never charge each other.", false, "Scientists found that identical materials can charge each other, and they still argue about exactly why."], ["A material in the middle of the ladder gives electrons to some partners and takes from others.", true, "It gives to rungs below it and takes from rungs above it, so plus or minus depends on the partner."], ["Lightning never strikes the same place twice.", false, "Tall pointed things are struck again and again, and some buildings are hit many times a year."], ["Joining a charged metal thing to the ground with a wire lets its extra charge flow away.", true, "The huge Earth takes the charge and hardly changes, so the thing becomes neutral."], ["A sharp metal point holds charge in, so charge cannot leak away into the air.", false, "Charge crowds at points, and the strong field there tears electrons from air, so charge escapes."], ["The names plus and minus were chosen before anyone knew about electrons.", true, "The names came in the 1700s. Electrons were found later and turned out to carry the minus charge."], ["Moving two charges twice as far apart makes the force between them half as big.", false, "Twice as far makes the force four times smaller, so the force weakens quickly with distance."]], "odd": [[["Copper wire", "Salty water", "Steel spoon", "Dry glass rod"], "Dry glass rod", "Copper, salty water and steel let charge move freely, but dry glass is an insulator that holds charge in place."], [["Rubbing polythene on wool", "Peeling tape off a table", "Pulling two touching materials apart", "Joining a charged ruler to the ground"], "Joining a charged ruler to the ground", "The first three move electrons by touching and separating, but joining to the ground lets extra charge flow away."], [["Neutral paper bit", "Plain wall", "Neutral water stream", "Balloon with the same charge"], "Balloon with the same charge", "A charged balloon pulls neutral things by shifting charge inside them, but a balloon with the same charge is pushed away."], [["Sharp pin point", "Pointed nail tip", "Lightning rod tip", "Smooth round ball"], "Smooth round ball", "Charge crowds at sharp points and leaks into the air there, but a smooth round ball has no such point."], [["Spark", "Slow leak into damp air", "Flow through an earthing wire", "Charge sitting on dry plastic"], "Charge sitting on dry plastic", "The first three are ways charge leaves a charged thing, but on dry plastic the charge stays where it is."]]}
+ "warm": {"words": ["SPARK", "EARTH", "METAL", "GLASS", "ATOMS"], "quiz": [["A push between two things proves both are charged, but a pull might not.", true, "A charged thing can pull a neutral one, so only pushing apart shows both carry the same charge."], ["Static electricity and the electricity in wires are two different kinds.", false, "Both are charge carried by electrons. Static charge stays in one place, and in a wire it moves."], ["Charge is never made or destroyed. It is only moved from one place to another.", true, "What one material gains, the other loses, so the total charge stays the same."], ["Two pieces of the same material can never charge each other.", false, "Scientists found that identical materials can charge each other, and they still argue about exactly why."], ["A material in the middle of the ladder gives electrons to some partners and takes from others.", true, "It gives to rungs below it and takes from rungs above it, so plus or minus depends on the partner."], ["Lightning never strikes the same place twice.", false, "Tall pointed things are struck again and again, and some buildings are hit many times a year."], ["Joining a charged metal thing to the ground with a wire lets its extra charge flow away.", true, "The huge Earth takes the charge and hardly changes, so the thing becomes neutral."], ["A sharp metal point holds charge in, so charge cannot leak away into the air.", false, "Charge crowds at points, and the strong field there tears electrons from air, so charge escapes."], ["The names plus and minus were chosen before anyone knew about electrons.", true, "The names came in the 1700s. Electrons were found later and turned out to carry the minus charge."], ["Moving two charges twice as far apart makes the force between them half as big.", false, "Twice as far makes the force a quarter as big, so the force weakens quickly with distance."]], "odd": [[["Copper wire", "Salty water", "Steel spoon", "Dry glass rod"], "Dry glass rod", "Copper, salty water and steel let charge move freely, but dry glass is an insulator that holds charge in place."], [["Rubbing polythene on wool", "Peeling tape off a table", "Pulling two touching materials apart", "Joining a charged ruler to the ground"], "Joining a charged ruler to the ground", "The first three move electrons by touching and separating, but joining to the ground lets extra charge flow away."], [["Neutral paper bit", "Plain wall", "Neutral water stream", "Balloon with the same charge"], "Balloon with the same charge", "A charged balloon pulls neutral things by shifting charge inside them, but a balloon with the same charge is pushed away."], [["Sharp pin point", "Pointed nail tip", "Lightning rod tip", "Smooth round ball"], "Smooth round ball", "Charge crowds at sharp points and leaks into the air there, but a smooth round ball has no such point."], [["Spark", "Slow leak into damp air", "Flow through an earthing wire", "Charge sitting on dry plastic"], "Charge sitting on dry plastic", "The first three are ways charge leaves a charged thing, but on dry plastic the charge stays where it is."]]}
 }
