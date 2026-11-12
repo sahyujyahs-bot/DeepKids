@@ -116,7 +116,7 @@
   {
    "term": "Electroreception",
    "meaning": "Sensing weak electric fields. All living muscles make tiny electric fields, so a hunter with this sense can find hidden prey.",
-   "example": "A shark has jelly-filled pores on their snout that sense the weak electricity of a fish hidden in the sand.",
+   "example": "A shark has jelly-filled pores on her snout that sense the weak electricity of a fish hidden in the sand.",
    "art": "A shark gliding over sand, with faint electric rings rising from a buried flatfish."
   }
  ],
@@ -125,7 +125,7 @@
    "concept": "A signal is a pulse, and a strong signal is a fast drumbeat of pulses",
    "status": "defined",
    "definition": "A nerve pulse is a tiny wave of electricity that runs along a neuron. All pulses are the same size. A stronger stimulus makes more pulses each second.",
-   "description": "In the earlier unit on the senses you learned that every sense sends the brain nerve signals. Now look closer at one signal. A neuron is a nerve cell with a long thread. When the neuron is stirred, tiny gates open in the skin of the thread. Charged particles rush in, and that makes a small wave of electricity that runs down the thread. This wave is a nerve pulse. A pulse is like a spark that is either there or not there. It is never half a spark, and it is never a bigger spark. So how does the brain know that a touch is hard and not gentle? In 1926 two scientists, Edgar Adrian and Yngve Zotterman, listened to a single nerve thread from a frog's muscle. When they hung a heavier weight on the muscle, the pulses did not get bigger. They came faster. A light weight gave a few pulses each second. A heavy weight gave many. Edgar Adrian later shared the 1932 Nobel Prize for this kind of work. So the strength of a sense is written in the speed of the drumbeat. What the signal is about is written in which thread it travels along, as you learned before. Your brain holds about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, counted them in 2009 by turning a brain into a soup of cell centres and counting those. Each eye sends about one million threads to the brain, and every thread sends its own drumbeat. Plants also use pulses. A Venus flytrap has trigger hairs inside her trap. One touch on a hair sends one pulse, and nothing happens. A second touch within about 20 seconds makes the trap snap shut. She counts.",
+   "description": "Every sense sends the brain nerve signals. Now look closer at one signal. A neuron is a nerve cell with a long thread. When something sets the neuron off, tiny gates open in the skin of the thread. Charged particles rush in, and that makes a small wave of electricity that runs down the thread. This wave is a nerve pulse. A pulse is like a spark that is either there or not there. It is never half a spark, and it is never a bigger spark. So how does the brain know that a touch is hard and not gentle? In 1926 two scientists, Edgar Adrian and Yngve Zotterman, listened to a single nerve thread from a frog's muscle. When they hung a heavier weight on the muscle, the pulses did not get bigger. They came faster. A light weight gave a few pulses each second. A heavy weight gave many. Edgar Adrian later shared the 1932 Nobel Prize for this kind of work. So the strength of a sense is written in the speed of the drumbeat. What the signal is about is written in which thread it travels along. Your brain holds about 86 billion neurons. Suzana Herculano-Houzel, a Brazilian scientist, counted them in 2009 by turning a brain into a soup of cell centres and counting those. Each eye sends about one million threads to the brain, and every thread sends its own drumbeat. Plants also use pulses. A Venus flytrap has trigger hairs inside her trap. One touch on a hair sends one pulse, and nothing happens. A second touch within about 20 seconds makes the trap snap shut. She counts.",
    "examples": [
     "Press a fingertip on a table very lightly, then harder. The skin sends the same kind of pulse both times. The harder press only sends more of them each second.",
     "A Venus flytrap shuts only when two touches arrive within about 20 seconds. A raindrop that touches one hair once does not trigger her. She uses pulses to tell prey from rain.",
@@ -139,11 +139,11 @@
    "concept": "Fast wires and slow wires: why signals take time",
    "status": "defined",
    "definition": "Nerve pulses travel at different speeds. Threads wrapped in myelin carry pulses fastest, up to about 100 metres each second. Thin unwrapped threads carry pulses at about 1 metre each second.",
-   "description": "Light from a falling ruler reaches your eye almost at once. But your finger does not close at once. The signal has to be made in the eye, travel to the brain, be sorted and decided on, and then travel down the arm to the muscles. How fast is a nerve signal? In the 1840s the German scientist Johannes Müller wrote that its speed would probably never be measured, because it must be too fast. In 1850 another German scientist, Hermann von Helmholtz, proved him wrong. He gave a frog's leg nerve a small shock in two places, one near the muscle and one further away. The muscle twitched a little later when the shock was further away. From the extra time and the extra distance, Helmholtz worked out the speed: about 30 metres each second. That is much slower than light, and slower than a car on a highway. Later scientists found that different threads have different speeds. The big threads wrapped in myelin, which carry touch and the position of muscles, run at 50 to 100 metres each second. Threads for sharp pain are thinner and run at about 5 to 30 metres each second. Threads for slow, dull pain are thin and unwrapped, and run at about 1 metre each second. This explains something you may have felt. Stub your toe, and first comes a quick sharp pain. About a second later comes a slow, deep ache. Two kinds of thread, two speeds. From toe to brain is about 1.5 metres for a grown-up. At 1 metre each second that is about a second and a half. At 15 metres each second it is only a tenth of a second. On top of travel time, the brain needs time to decide. In total, simple reaction times are about 0.15 to 0.25 seconds. Touch and hearing are usually a little faster than sight, because the eye does extra work before it sends its signal. In a race, sprinters wait for the sound of a gun, not for a flash. The rule says that if a runner starts less than 0.1 seconds after the gun, the start was too early. Nobody can truly react that fast, so the runner must have guessed.",
+   "description": "Light from a falling ruler reaches your eye almost at once. But your finger does not close at once. The signal has to be made in the eye and travel to the brain. The brain has to sort it and decide what to do. Then a signal has to travel down the arm to the muscles. How fast is a nerve signal? In the 1840s the German scientist Johannes Müller wrote that its speed would probably never be measured, because it must be too fast. In 1850 another German scientist, Hermann von Helmholtz, proved him wrong. He gave a frog's leg nerve a small shock in two places, one near the muscle and one further away. The muscle twitched a little later when the shock was further away. From the extra time and the extra distance, Helmholtz worked out the speed: about 30 metres each second. That is much slower than light, and slower than a car on a highway. Later scientists found that different threads have different speeds. The big threads wrapped in myelin, which carry touch and the position of muscles, run at 50 to 100 metres each second. Threads for sharp pain are thinner and run at about 5 to 30 metres each second. Threads for slow, dull pain are thin and unwrapped, and run at about 1 metre each second. This explains something you may have felt. When you stub your toe, you first feel a quick sharp pain. About a second later you feel a slow, deep ache. Two kinds of thread carry the pain at two different speeds. From toe to brain is about 1.5 metres for a grown-up. At 1 metre each second that is about a second and a half. At 15 metres each second it is only a tenth of a second. On top of travel time, the brain needs time to decide. In total, simple reaction times are about 0.15 to 0.25 seconds. Touch and hearing are usually a little faster than sight, because the eye does extra work before it sends its signal. In a race, sprinters wait for the sound of a gun, not for a flash. The rule says that if a runner starts less than 0.1 seconds after the gun, the start was too early. Nobody can truly react that fast, so the runner must have guessed.",
    "examples": [
     "Stub your toe and count. The sharp pain comes first and the dull ache comes after, because the two kinds of pain travel along threads of different speeds.",
     "In 1796 an English astronomer, Nevil Maskelyne, dismissed his assistant David Kinnebrook, because Kinnebrook timed a star crossing about 0.8 seconds later than Maskelyne. Years later, the German astronomer Friedrich Bessel found that every astronomer has their own delay. It is called the personal equation.",
-    "A sprinter's feet cannot leave the block less than 0.1 seconds after the gun without the start counting as a false start."
+    "If a sprinter's feet leave the block less than 0.1 seconds after the gun, it counts as a false start."
    ],
    "perspectives": [],
    "art": "A cut-away of a child's body from eye and toe up to the brain, with a fast thread drawn as a thick wrapped wire and a slow thread drawn as a thin string, and a stopwatch on each.",
@@ -153,7 +153,7 @@
    "concept": "The faintest thing a sense can notice: thresholds",
    "status": "defined",
    "definition": "A threshold is the smallest amount of a stimulus that a sense can notice. Below it, you notice nothing. Above it, you notice. Thresholds change with the person, the place and how carefully they pay attention.",
-   "description": "Every sense has a faintest stimulus that it can pick up. In 1942 Selig Hecht, a scientist in the USA, and his team asked people to sit in a completely dark room for about half an hour. This lets the eyes become as sensitive as they can. Then they showed very faint flashes of light. They worked out that a person can notice a flash when only a handful of light particles are caught by the light cells of the eye, fewer than 15. On a very dark clear night, scientists have estimated that your eye could notice a candle flame tens of kilometres away. The threshold for smell is also very low. Cooking gas has no smell of its own. Gas companies add a smelly chemical so that a leak is noticed even when there is very little in the air. Hearing tests in a clinic work by finding your threshold. The tester plays softer and softer beeps and finds the softest one you can hear. Here is a surprise. A threshold is not one fixed line. In the 1950s scientists such as Wilson Tanner and John Swets showed that a person's answer depends on two things. One is how well the sense works. The other is how ready the person is to say yes. A careful person who does not want to be fooled says no to faint signals. An eager person says yes more often. At the very faint end, the same person can answer differently on different days. A tired nose, a noisy room or a worried mind can all change a threshold. The best tests ask many times and then look for the stimulus that you notice about half of the time.",
+   "description": "Every sense has a faintest stimulus that it can pick up. In 1942 Selig Hecht, a scientist in the USA, and his team asked people to sit in a completely dark room for about half an hour. This lets the eyes become as sensitive as they can. Then they showed very faint flashes of light. They worked out that a person can notice a flash when only a handful of light particles are caught by the light cells of the eye, fewer than 15. Scientists have estimated that on a very dark, clear night your eye could notice a candle flame tens of kilometres away. The threshold for smell is also very low. Cooking gas has no smell of its own. Gas companies add a smelly chemical so that a leak is noticed even when there is very little in the air. Hearing tests in a clinic work by finding your threshold. The tester plays softer and softer beeps and finds the softest one you can hear. Here is a surprise. A threshold is not one fixed line. In the 1950s scientists such as Wilson Tanner and John Swets showed that a person's answer depends on two things. One is how well the sense works. The other is how ready the person is to say yes. A careful person who does not want to be fooled says no to faint signals. An eager person says yes more often. At the very faint end, the same person can answer differently on different days. A tired nose, a noisy room or a worried mind can all change a threshold. The best tests ask many times and then look for the stimulus that you notice about half of the time.",
    "examples": [
     "A hearing test finds the softest beep each ear can notice.",
     "Cooking gas is given a strong smell on purpose, so even a tiny leak is above most people's threshold.",
@@ -167,11 +167,11 @@
    "concept": "Ratios, not amounts: how big a change must be to notice it",
    "status": "defined",
    "definition": "The smallest change you can notice, called the just noticeable difference, is usually a fixed fraction of what was there to start with. This is called Weber's law.",
-   "description": "Lift a light bag in one hand and a slightly heavier bag in the other. You can tell which is heavier. Now carry a very heavy sack in each hand, and make one a little heavier. You cannot tell, unless the difference is bigger. In the 1830s a German scientist, Ernst Weber, tested this with people lifting weights. He found that the change needed to notice a difference was not a fixed number of grams. It was a fixed fraction of the weight you started with. In careful lab tests, about 2 or 3 extra grams in every 100 grams could be noticed. At home with bottles, most people need a bigger step, often 10 in every 100 or more. The same idea works for other senses. A candle is easy to see in a dark room and impossible to see in bright sunshine, because the same candle is a tiny fraction of the sunlight. A whisper is clear in a quiet room and lost in a noisy market. In 1860 Gustav Fechner, another German scientist, turned Weber's finding into a rule about how sensations grow. When a stimulus doubles, a sensation grows by a small, equal step. This is why we measure many things on a scale where each step multiplies. Loudness is measured in decibels, and every 10 decibels means 10 times more sound energy, yet it sounds only about twice as loud. Astronomers grade the brightness of stars in magnitudes. The ancient Greek astronomer Hipparchus sorted stars into six classes. In 1856 Norman Pogson showed that one class step is about 2.5 times in brightness, so five steps is 100 times. Working with ratios lets the eye work from dim starlight to bright noon sunshine, a range of billions of times, without getting dazzled. Weber's law is only approximate. It works best in the middle of the range and fails near the threshold and near the top.",
+   "description": "Lift a light bag in one hand and a slightly heavier bag in the other. You can tell which is heavier. Now carry a very heavy sack in each hand, and make one a little heavier. You cannot tell, unless the difference is bigger. In the 1830s a German scientist, Ernst Weber, tested this with people lifting weights. He found that the change needed to notice a difference was not a fixed number of grams. It was a fixed fraction of the weight you started with. In careful lab tests, about 2 or 3 extra grams in every 100 grams could be noticed. At home with bottles, most people need a bigger step, often 10 in every 100 or more. The same idea works for other senses. A candle is easy to see in a dark room and impossible to see in bright sunshine, because the same candle is a tiny fraction of the sunlight. A whisper is clear in a quiet room and lost in a noisy market. In 1860 Gustav Fechner, another German scientist, turned Weber's finding into a rule about how sensations grow. Each time a stimulus doubles, the sensation grows by the same small step. This is why we measure many things on a scale where each step multiplies. Loudness is measured in decibels, and every 10 decibels means 10 times more sound energy, yet it sounds only about twice as loud. Astronomers grade the brightness of stars in magnitudes. The ancient Greek astronomer Hipparchus sorted stars into six classes. In 1856 Norman Pogson showed that one class step is about 2.5 times in brightness, so five steps is 100 times. Working with ratios lets the eye work from dim starlight to bright noon sunshine, a range of billions of times, without getting dazzled. Weber's law is only approximate. It works best in the middle of the range and fails near the threshold and near the top.",
    "examples": [
     "If you can just tell 100 grams from 110 grams, then at 500 grams you might need about 550 grams to just tell the difference. The fraction stays about the same.",
-    "A torch is easy to spot at night and almost invisible at noon. It is the same torch, but a tiny fraction of the daylight.",
-    "A decibel scale makes a whisper (about 30 decibels) and a loud horn (about 110 decibels) fit on one short ruler."
+    "A torch is easy to spot at night and almost invisible at noon. It is the same torch, but its light is a tiny fraction of the daylight.",
+    "A decibel scale makes a whisper (about 30 decibels) and a loud horn (about 110 decibels) fit on one short scale."
    ],
    "perspectives": [],
    "art": "Two pairs of bags: a small pair where one bag is slightly bigger and a big pair where the difference is the same size but cannot be noticed, with a ladder of ratios beside them.",
@@ -181,7 +181,7 @@
    "concept": "Tired receptors: why steady things fade",
    "status": "defined",
    "definition": "Adaptation is when a sense reports a steady stimulus less and less. It saves effort, keeps the sense ready for change, and works at the receptor itself and also in the brain.",
-   "description": "Walk into a kitchen where onions are frying and the smell is strong. After a few minutes you hardly notice it. Walk outside for a while and come back, and the smell is strong again. This is adaptation. Smell receptors send a burst of pulses at the start, then fewer and fewer if the smell stays the same. Vision adapts too. When you walk from sunshine into a dark cinema, you see nothing at first. The light cells in the eye need time to become sensitive again. Cones recover in a few minutes. Rods take about 20 to 30 minutes to become fully ready. Then a torch in the same hall can look blinding. Even a steady picture fades. Your eyes make tiny jumps several times each second, even when you think you are staring. In 1953 Lorrin Riggs and his team fixed a tiny mirror to a contact lens, so that a picture moved exactly with the eye and stayed in the same place on the retina. The picture faded to nothing within seconds. Scientists now think that the eyes must keep moving for us to keep seeing. Adaptation is not a fault. It means that your senses spend their effort on what changes, and a change is the thing that matters most. A new smell in the house, a new sound in the night, a new touch on your arm may all mean something. But not all senses adapt equally. Pain adapts much less than smell does. A warning that faded away while you were still being hurt would not be much use. This is also why a smell that you cannot notice may still be there. A gas leak or a slowly rotting food may have been in the room for hours. A person who has just arrived can smell it at once.",
+   "description": "Walk into a kitchen where onions are frying and the smell is strong. After a few minutes you hardly notice it. Walk outside for a while and come back, and the smell is strong again. This is adaptation. Smell receptors send a burst of pulses at the start, then fewer and fewer if the smell stays the same. Vision adapts too. When you walk from sunshine into a dark cinema, you see nothing at first. The light cells in the eye need time to become sensitive again. Cones recover in a few minutes. Rods take about 20 to 30 minutes to become fully ready. Then a torch in the same hall can look blinding. Even a steady picture fades. Your eyes make tiny jumps several times each second, even when you think you are staring. In 1953 Lorrin Riggs and his team fixed a tiny mirror to a contact lens, so that a picture moved exactly with the eye and stayed in the same place on the retina. The picture faded to nothing within seconds. Scientists now think that the eyes must keep moving for us to keep seeing. Adaptation is not a fault. It means that your senses spend their effort on what changes, and a change is the thing that matters most. A new smell in the house, a new sound in the night, a new touch on your arm may all mean something. But not all senses adapt equally. Pain adapts much less than smell does. A warning that faded away while you were still being hurt would not be much use. This is also why a smell that you cannot notice may still be there. A gas leak or slowly rotting food may have been in the room for hours. A person who has just arrived can smell it at once.",
    "examples": [
     "You stop noticing your own house's smell, but a visitor notices it as soon as they walk in.",
     "Walking into a dark cinema hall, you cannot see the seats. After 10 minutes you can see the whole room, because your rods have become ready.",
@@ -195,7 +195,7 @@
    "concept": "The body map in the brain, and pain that the brain makes",
    "status": "defined",
    "definition": "The brain has a strip on its surface with a patch for each part of the body. Pain is a warning that the brain makes from danger signals. It is not a direct reading of damage.",
-   "description": "In the 1930s and 1940s, a Canadian brain surgeon, Wilder Penfield, operated on awake patients who had a serious illness called epilepsy. The brain itself has no pain nerves, so patients can stay awake while the surgeon works, with just the scalp numbed. When Penfield touched a spot on the strip of brain with a tiny electric probe, the patient said that they felt a touch on a body part, for example a thumb or a lip. He joined the spots into a map of the body on the brain. The map is strange. The hands, the lips and the tongue take up huge areas, and the back and legs take up small ones. Parts with many receptors get the most room. This fits the two-point test you may have done earlier. Pain also comes from nerve endings that warn of danger, called nociceptors. But the feeling of hurting is made in the brain. A person born with a broken gene for a certain sodium gate in the pain nerves feels no pain at all. In 2006 a team led by James Cox and Geoffrey Woods found this gene in families in Pakistan. These people hurt themselves badly without knowing, because they never get the warning. The map also explains phantom limbs. In the 1870s an American doctor, Silas Weir Mitchell, described soldiers who still felt a limb that had been lost. Most people who lose a limb feel it. The brain's patch for the hand is still there and still active. In the 1990s V. S. Ramachandran, a neuroscientist who grew up in India, and Diane Rogers-Ramachandran reported that some patients felt touches on their face as touches on the missing hand, because the face patch lies next to the hand patch. They also built a mirror box that makes it look as if the missing hand is back. For some patients, this eased their phantom pain. Heart trouble can show up as pain in the left arm. The nerves of the heart and the arm share paths into the brain, which can mix up the message.",
+   "description": "In the 1930s and 1940s, a Canadian brain surgeon, Wilder Penfield, operated on awake patients who had a serious illness called epilepsy. The brain itself has no pain nerves, so patients can stay awake while the surgeon works, with just the scalp numbed. When Penfield touched a spot on a strip of the brain's surface with a tiny electric probe, the patient said that they felt a touch on a body part, for example a thumb or a lip. He joined the spots into a map of the body on the brain. The map is strange. The hands, the lips and the tongue take up huge areas, and the back and legs take up small ones. Parts with many receptors get the most room. This fits the two-point test you may have done earlier. Pain starts with nerve endings that warn of danger, called nociceptors. But the feeling of hurting is made in the brain. A person born with a broken gene for a certain sodium gate in the pain nerves feels no pain at all. In 2006 a team led by James Cox and Geoffrey Woods found this gene in families in Pakistan. These people hurt themselves badly without knowing, because they never get the warning. The map also explains phantom limbs. In the 1870s an American doctor, Silas Weir Mitchell, described soldiers who still felt a limb that had been lost. Most people who lose a limb feel it. The brain's patch for the hand is still there and still active. In the 1990s V. S. Ramachandran, a neuroscientist who grew up in India, and Diane Rogers-Ramachandran reported that some patients felt touches on their face as touches on the missing hand, because the face patch lies next to the hand patch. They also built a mirror box that makes it look as if the missing hand is back. For some patients, this eased their phantom pain. Heart trouble can show up as pain in the left arm. The nerves of the heart and the arm share paths into the brain, which can mix up the message.",
    "examples": [
     "A map of the body drawn the size of the brain's patches has giant lips, hands and tongue and a tiny back.",
     "A person who has lost a hand may feel a touch on their cheek as a touch on the missing fingers.",
@@ -212,8 +212,8 @@
    "description": "Try to tickle your own palm. It does not work. Someone else can tickle you easily. In 1998 Sarah-Jayne Blakemore, Daniel Wolpert and Chris Frith tested this with a machine. People held a soft piece of foam that was moved by a robot arm. When they moved a handle to make the foam stroke their own palm, the touch felt less ticklish than when the machine did the same stroke without their control. When the scientists added a small delay between the movement and the touch, the touch tickled more. So the brain predicts the result of your own movement, and turns down the feeling that it expected. This is a general trick. Your eyes jump from point to point about three times each second. The picture on the retina smears each time, but you never see the smear, because the brain turns off the signal during each jump. A trick shows this. Look in a mirror at your left eye, and then at your right eye. You never see your eyes move. The brain also guesses what things should look like. In 2001 a team found that when you glance at a clock with a second hand, the first second seems to last longer than the others. The brain fills in the gap during the eye jump with what it sees next. Predictions can also lead you wrong. In 1998 Matthew Botvinick and Jonathan Cohen showed that, if you cannot see your real hand, and a rubber hand on a table is stroked in time with your hidden hand, you start to feel the rubber hand as yours. Your brain finds the best match for the signals and decides that the hand you can see is your hand. Many scientists now think that perception is mostly prediction, checked and corrected by signals from the senses. How far this idea goes is still being tested.",
    "examples": [
     "You cannot tickle yourself, but a friend can. Your brain expects your own touch.",
-    "Walk down a step that is not there in the dark. You stumble, because your brain had predicted the step and your foot did not find it.",
-    "In the rubber hand test, brushes on a hidden hand and a rubber hand, in time with each other, make many people feel the rubber hand as part of them."
+    "In the dark, step down onto a step that is not there. You stumble, because your brain had predicted the step and your foot did not find it.",
+    "In the rubber hand test, a hidden hand and a rubber hand are brushed at the same moment. Many people start to feel that the rubber hand is part of them."
    ],
    "perspectives": [],
    "art": "A child touching her own palm with a feather, with a faded copy of the touch inside her brain cancelling it out, and a friend tickling her with a bright spark of signal.",
@@ -223,7 +223,7 @@
    "concept": "Rewired and cross-wired: senses are less separate than they seem",
    "status": "defined",
    "definition": "Parts of the brain are not fixed to one sense. They can learn to handle signals from another sense, and the senses link up in surprising ways.",
-   "description": "In the earlier unit you learned that signals from the eye and the ear look much alike. If so, can the brain use a part of itself for a different sense? Since the 1980s, Mriganka Sur, an Indian-born brain scientist in the USA, and his team rerouted the eye nerves of newborn ferrets so they reached the part of the brain that normally listens to sound. In the experiments reported in 2000 by Laurie von Melchner, Sarah Pallas and Mriganka Sur, the ferrets could still respond to light with that rewired part. The part of the brain that usually hears had learned to work with signals from the eye. In the 1960s Paul Bach-y-Rita, a doctor in the USA, built a chair with 400 small vibrating points against the back. A camera sent a picture to the points. After practice, blind people learned to tell shapes and even to catch a rolling ball. Later versions put the pattern on the tongue. The senses also link up in ways that happen on their own. In 1929 the German psychologist Wolfgang Köhler showed people two shapes, one round and one spiky. He asked which one is called 'takete' and which is called 'baluba'. Most chose round for baluba. In 2001 V. S. Ramachandran and Edward Hubbard repeated this with the words 'bouba' and 'kiki', in the USA and with Tamil speakers in India, and found the same pattern in both groups. Tests across many languages find that most people match the sounds to the shapes in the same way. Babies only a few months old do it too. About 1 person in 25 has synaesthesia, which means that one sense always triggers another. For example, they may always see the letter A as red. Scientists do not yet know why the links exist, but one idea is that the brain finds patterns that are shared between senses.",
+   "description": "Signals from the eye and the ear look much alike. So can the brain use a part of itself for a different sense? Starting in the 1980s, Mriganka Sur, an Indian-born brain scientist in the USA, and his team rerouted the eye nerves of newborn ferrets so they reached the part of the brain that normally listens to sound. In the experiments reported in 2000 by Laurie von Melchner, Sarah Pallas and Mriganka Sur, the ferrets could still respond to light with that rewired part. The part of the brain that usually hears had learned to work with signals from the eye. In the 1960s Paul Bach-y-Rita, a doctor in the USA, built a chair with 400 small vibrating points against the back. A camera sent a picture to the points. After practice, blind people learned to tell shapes and even to catch a rolling ball. Later versions put the pattern on the tongue. The senses also link up in ways that happen on their own. In 1929 the German psychologist Wolfgang Köhler showed people two shapes, one round and one spiky. He asked which one is called 'takete' and which is called 'baluba'. Most chose round for baluba. In 2001 V. S. Ramachandran and Edward Hubbard repeated this with the words 'bouba' and 'kiki', in the USA and with Tamil speakers in India, and found the same pattern in both groups. Tests across many languages find that most people match the sounds to the shapes in the same way. Babies only a few months old do it too. About 1 person in 25 has synaesthesia, which means that one sense always triggers another. For example, they may always see the letter A as red. Scientists do not yet know why the links exist, but one idea is that the brain finds patterns that are shared between senses.",
    "examples": [
     "A blind person using a tongue display can learn to tell the shape of a cup without touching it.",
     "Most people choose 'bouba' for the round shape and 'kiki' for the spiky one, whichever language they speak.",
@@ -353,7 +353,7 @@
    "claim": "You are born with the senses you have, and they cannot get much better.",
    "who": "A common belief",
    "for": "Receptors are made by the body, and nobody can add a new kind of receptor by practice.",
-   "against": "Practice changes the brain's use of the signals. Tea tasters in Assam, Darjeeling and the Nilgiris train for years to tell tiny differences between leaves. Perfumers and musicians do the same in their own senses. The receptors are the same, but the brain's reading gets finer.",
+   "against": "Practice changes the brain's use of the signals. Tea tasters in Assam, Darjeeling and the Nilgiris train for years to tell tiny differences between leaves. Perfumers and musicians do the same with their own senses. The receptors are the same, but the brain's reading gets finer.",
    "status": "rejected",
    "context": "This card is about whether practice can make a sense sharper."
   },
@@ -411,7 +411,7 @@
    "hint": "Think about how a sense becomes part of how you think, not only part of what you detect."
   },
   {
-   "q": "Maskelyne sent away an assistant for timing a star 0.8 seconds later than him. Who was right, and how could they have found out?",
+   "q": "In 1796 the astronomer Nevil Maskelyne sent away his assistant for timing a star crossing 0.8 seconds later than he did. Who was right, and how could they have found out?",
    "kind": "big",
    "hint": "Think of how each person's reaction time is different, and how you could measure it."
   }
@@ -435,19 +435,19 @@
    "'You have been standing in this smell since six o'clock this morning,' she went on, very quietly. 'I have been in it for one minute. My nose is awake. Yours is tired.'",
    "Nobody in forty years had dared to say such a thing to Saraswathi Ammamma. Mr. Balaji began to laugh, and then stopped, because Ammamma did not. She was thinking. 'Come,' she said to Devika at last. 'We will test it. Mr. Balaji, you will have tea, and it is my treat.'",
    "They walked out to the tea stall by the water. The breeze smelled of fish, diesel, hot tea and the jasmine in a passing woman's hair. Ammamma drank slowly, with her eyes half closed. Devika watched the clock on her wrist. Ten whole minutes passed.",
-   "Then they walked back to the warehouse. At the door, Ammamma stopped. Her eyes opened wide. 'Ah,' she whispered. Under the sharp, hot smell of pepper, there was a thin, cold, musty smell. It had been there all afternoon. She had simply stopped hearing it.",
+   "Then they walked back to the warehouse. At the door, Ammamma stopped. Her eyes opened wide. 'Ah,' she whispered. Under the sharp, hot smell of pepper, there was a thin, cold, musty smell. It had been there all afternoon. She had simply stopped noticing it.",
    "She followed it to the back corner by the wall. That morning's monsoon shower had leaked through a crack in the roof. Three sacks at the bottom were wet through. Pepper that stays damp grows mould within days, and mould spreads. A whole lorryload could have been ruined before it reached Coimbatore.",
    "Mr. Balaji went pale. 'Those three would have gone on my lorry,' he said slowly. The boys carried the wet sacks into the sun to dry. The other thirty-seven were loaded, and the lorry left at half past six, with Mr. Balaji waving from the window.",
    "That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why did your nose find it, and mine did not?' she asked. 'Mine did not stop working. It was only tired of the same smell,' she added to herself, as if she were learning it by heart.",
    "'From today,' she said, 'there are two rules in this warehouse. Before any lorry leaves, a nose that has just come in from outside sniffs the sacks first. And whoever has been inside all day goes out to the tea stall for ten minutes before deciding anything.'",
    "'And who is the fresh nose?' asked Devika, trying not to smile. 'I come at four every day.' Ammamma laughed for the first time that evening. 'Then you are hired. Your wages are one packet of banana chips.' And that is how a girl of nine became the Honest First Minute of the best spice warehouse in Kochi."
   ],
-  "epiphany": "For the parent: a smell that stays the same fades from notice. Smell receptors send a burst of pulses at the start, then fewer and fewer. Ammamma's nose was not broken. It was tired of the pepper, which had been constant since morning. A change, like a new damp smell, is exactly what a nose reports, but only a nose that has been away or just arrived. The ten minutes at the tea stall gave her receptors time to recover, so the first sniff back was honest. Devika's fresh nose was the first honest nose of the day.",
+  "epiphany": "For the parent: a smell that stays the same fades from notice. Smell receptors send a burst of pulses at the start, then fewer and fewer. Ammamma's nose was not broken. It was tired of the pepper, which had been constant since morning. A nose reports a change, like a new damp smell, but only if the nose has been away or has just arrived. The ten minutes at the tea stall gave her receptors time to recover, so her first sniff back at the warehouse picked up the damp smell. Devika's nose found it first because she had just arrived.",
   "ask": [
    "Why could Devika smell the damp when her grandmother could not?",
    "Why did going to the tea stall help Ammamma's nose?",
    "Name something in your own home that you can no longer notice, but a visitor could.",
-   "Why might a nose that fades on steady smells still be good to have?",
+   "A nose stops noticing a smell that stays the same. Why might that be useful?",
    "How could you test whether a nose has become tired of a smell?"
   ],
   "art": [
@@ -460,8 +460,8 @@
  "roots": {
   "context": "We have followed the senses from stimulus to nerve pulse to brain, and found that everything arrives late, and arrives as pulses. Now we ask what this says about who is sensing, and about the world.",
   "deep_truth": {
-   "truth": "Your fingers closed on the ruler about a fifth of a second after it began to fall. The light reached your eye almost at once. The delay happened inside you. So everything you sense has already happened, and your 'now' is built from slightly old signals.",
-   "habit": "We think we meet the world as it is at this very moment. Every sense needs time to turn the world into pulses, carry them and sort them, so we live a little behind it.",
+   "truth": "In the Ruler Drop test, your fingers closed on the ruler about a fifth of a second after it began to fall. The light reached your eye almost at once. The delay happened inside you. So everything you sense has already happened, and your 'now' is built from slightly old signals.",
+   "habit": "We think we meet the world as it is at this very moment. But every sense needs time to turn the world into pulses, carry them and sort them, so what we sense is always a little behind the world.",
    "evidence": "In the Ruler Drop test, the ruler fell about 15 to 20 centimetres before your fingers closed. At the speed a ruler falls, that is about 0.17 to 0.2 seconds."
   },
   "three": {
@@ -478,7 +478,7 @@
    },
    {
     "source": "Sabba Sutta, Samyutta Nikaya 35.23",
-    "teaching": "The Buddha taught that what we can know as 'the all' is the eye and what it sees, the ear and what it hears, the nose, the tongue, the body and the mind, each with what it meets.",
+    "teaching": "The Buddha taught that 'the all', everything we can know, is the eye and what it sees, the ear and what it hears, the nose, the tongue, the body and the mind, each with what it meets.",
     "link": "This matches what the science of the senses finds. All we know of the world has come through the senses and the brain's work on their signals."
    },
    {
@@ -510,7 +510,7 @@
   "ask": [
    "If your 'now' is always a little late, what do you mean when you say 'right now'?",
    "Who is the one that notices the pulses? Is it the eye, the brain, or something else?",
-   "If a bee, a shark and a child each meet the same fruit with different pulses, is there a fruit that is none of theirs?"
+   "A bee, a shark and a child each meet the same fruit with different pulses. Is there a real fruit that is different from what each of them senses?"
   ],
   "art": "A child sitting still with closed eyes, with a ripple of sound reaching her ear and a faint ghost of the same child a moment ahead of her."
  },
@@ -551,23 +551,23 @@
      "title": "24 two-sided cards: a short story about a sense on the front, and the idea that explains it on the back",
      "items": [
       {
-       "f": "Meena puts on a new watch. For the first minute she feels it on her wrist. By lunch she has forgotten it is there.",
+       "f": "You put on a new watch. For the first minute you feel it on your wrist. By lunch you have forgotten it is there.",
        "b": "ADAPTING RECEPTORS. Touch receptors send fewer pulses when the pressure stays the same."
       },
       {
-       "f": "Arun jumps into a cool pond. At first it feels very cold. After five minutes it feels fine.",
-       "b": "ADAPTING RECEPTORS. Temperature receptors adapt to a steady temperature and report the change."
+       "f": "You jump into a cool pond. At first it feels very cold. After five minutes it feels fine.",
+       "b": "ADAPTING RECEPTORS. Temperature receptors adapt to a steady temperature. They report changes."
       },
       {
-       "f": "A visitor walks into Kavya's home and says it smells strongly of mustard oil. Kavya has never noticed.",
-       "b": "ADAPTING RECEPTORS. Her smell receptors have been in that smell for years and have faded it."
+       "f": "A visitor walks into your home and says it smells strongly of mustard oil. You have never noticed.",
+       "b": "ADAPTING RECEPTORS. Your smell receptors have been in that smell for years, and now report it very little."
       },
       {
-       "f": "Farah walks into a dark cinema hall and sees nothing. Ten minutes later she can see all the seats.",
-       "b": "ADAPTING RECEPTORS. The light cells in her eyes slowly became more sensitive in the dark."
+       "f": "You walk into a dark cinema hall and see nothing. Ten minutes later you can see all the seats.",
+       "b": "ADAPTING RECEPTORS. The light cells in your eyes slowly became more sensitive in the dark."
       },
       {
-       "f": "Ravi stares at a dot on a page without moving his eyes. The faint grey shapes at the side of the page fade away.",
+       "f": "You stare at a dot on a page without moving your eyes. The faint grey shapes at the side of the page fade away.",
        "b": "ADAPTING RECEPTORS. A picture held still on the retina fades, because the eye needs change."
       },
       {
@@ -575,15 +575,15 @@
        "b": "TOO SMALL A CHANGE. The candle is a tiny fraction of the sunlight, so it adds a change too small to notice."
       },
       {
-       "f": "Farah can feel the difference when 20 grams is added to a 200 gram bag. Adding 20 grams to a 2 kilogram sack, she feels nothing.",
-       "b": "TOO SMALL A CHANGE. The change you can notice is a fraction of what was there. 20 grams is one tenth of 200 grams and only one hundredth of 2000."
+       "f": "You can feel the difference when 20 grams is added to a 200 gram bag. When 20 grams is added to a 2 kilogram sack, you feel nothing.",
+       "b": "TOO SMALL A CHANGE. The change you can notice is a fraction of what was there. 20 grams is one tenth of 200 grams and only one hundredth of 2000 grams."
       },
       {
        "f": "A whisper is easy to hear in a quiet library. At a loud wedding you cannot hear it at all.",
        "b": "TOO SMALL A CHANGE. The noise raises the amount of sound you need to notice anything new."
       },
       {
-       "f": "A mosquito whines near Lakshmi at night. She only hears it when the fan is switched off.",
+       "f": "A mosquito whines near you at night. You only hear it when the fan is switched off.",
        "b": "TOO SMALL A CHANGE. The mosquito's sound is a tiny change on top of the fan's noise."
       },
       {
@@ -591,23 +591,23 @@
        "b": "TOO SMALL A CHANGE. The same pinch is a small fraction of the pot and a large fraction of the spoon."
       },
       {
-       "f": "Kavya tries to tickle her own foot with a feather. Nothing happens. Her brother does it, and she giggles.",
-       "b": "THE BRAIN GUESSES. The brain predicts the touch from her own movement and turns down the feeling."
+       "f": "You try to tickle your own foot with a feather. Nothing happens. Someone else does it, and you giggle.",
+       "b": "THE BRAIN GUESSES. The brain predicts the touch from your own movement and turns down the feeling."
       },
       {
-       "f": "Mohan walks down the stairs in the dark. He thinks there is one more step, and his foot slams into the floor.",
-       "b": "THE BRAIN GUESSES. His brain predicted a step that was not there, so the landing was a surprise."
+       "f": "You walk down the stairs in the dark. You think there is one more step, and your foot slams into the floor.",
+       "b": "THE BRAIN GUESSES. Your brain predicted a step that was not there, so the landing was a surprise."
       },
       {
-       "f": "Divya lifts a big box that she thinks is full of books. It is empty, and her arm flies up.",
-       "b": "THE BRAIN GUESSES. Her brain predicted a heavy box and sent too much push."
+       "f": "You lift a big box that you think is full of books. It is empty, and your arm flies up.",
+       "b": "THE BRAIN GUESSES. Your brain predicted a heavy box and sent too much push."
       },
       {
        "f": "A rubber hand and your hidden hand are stroked together with brushes. After two minutes the rubber hand starts to feel like yours.",
        "b": "THE BRAIN GUESSES. The brain finds the best match for the signals and decides the hand it can see is yours."
       },
       {
-       "f": "Sneha glances at a clock. The first second seems to last longer than the next ones.",
+       "f": "You glance at a clock. The first second seems to last longer than the next ones.",
        "b": "THE BRAIN GUESSES. During the eye's jump the brain fills the gap with what it sees next, so that second seems longer."
       },
       {
@@ -615,7 +615,7 @@
        "b": "SIGNALS TAKE TIME. The signal goes from the eye to the brain, then to the hand. That takes about a fifth of a second."
       },
       {
-       "f": "Nandini stubs her toe. First she feels a sharp pain. A second later she feels a slow, deep ache.",
+       "f": "You stub your toe. First you feel a sharp pain. A second later you feel a slow, deep ache.",
        "b": "SIGNALS TAKE TIME. Sharp pain travels on fast threads, and the dull ache on slow ones."
       },
       {
@@ -738,7 +738,7 @@
      "kid": "Play the last twelve cards. Write down your score.",
      "check": {
       "t": "mcq",
-      "q": "A story says that a person can smell a leak in the kitchen at once when they come in, but the cook cannot. Which idea fits best?",
+      "q": "A person who walks into the kitchen smells a gas leak at once, but the cook cannot smell it. Which idea fits best?",
       "options": [
        "Adapting receptors",
        "Signals take time",
@@ -901,14 +901,14 @@
        "So the game is slower"
       ],
       "a": 0,
-      "why": "If the drop came at the same moment each time, the catcher could guess and catch early. That would measure guessing, not the time the signal takes. A wrong pick about speed mixes up the ruler with the catcher."
+      "why": "If the drop came at the same moment each time, the catcher could guess and catch early. That would measure guessing, not the time the signal takes. Picking 'so the ruler falls faster' mixes up the ruler with the catcher: the wait changes what the catcher can guess, not how the ruler falls."
      },
      "context": "In this step, you set up and do three practice drops. These do not count."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Do the seeing round. The catcher watches the ruler. The dropper counts silently to a number between 2 and 6, then lets go. Write the number at the top of the thumb for seven counted tries.",
+     "do": "Do the seeing round. The catcher watches the ruler. The dropper counts silently to a number between 2 and 6, then lets go. After each catch, write down the number on the ruler at the top of the catcher's thumb. Do this for seven counted tries.",
      "say": "Watch the ruler, not my fingers. I will let go when I choose. Catch it as fast as you can. Look at the number, and I will write it down.",
      "kid": "Watch the ruler. Catch it as fast as you can. Say the number you caught.",
      "parent": "Change the silent count each time. If the ruler falls out of reach, write 30 and say 'missed'. Do not measure with the ruler held at an angle.",
@@ -966,7 +966,7 @@
        ]
       }
      ],
-     "parent": "Typical results (not promised): a middle value of about 12 to 22 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain the cards yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.",
+     "parent": "Typical results (not promised): a middle value of about 12 to 22 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain anything yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.",
      "check": {
       "t": "mcq",
       "q": "Why do we use the middle value of seven tries and not the biggest or smallest?",
@@ -1079,7 +1079,7 @@
      "kid": "How much extra water can you feel? Is it the same for a heavy bottle? Why do you think so?",
      "ask": [
       {
-       "q": "Why do you think a heavy bottle needs a bigger or smaller extra?",
+       "q": "Do you think a heavy bottle needs more extra water than a light bottle, or less? Why?",
        "good": [
         "A heavy bottle needs more extra, because a small bit gets lost in a big weight.",
         "It will be the same, because my hand is the same.",
@@ -1106,7 +1106,7 @@
      "do": "Blindfold the lifter and sit them down. Give them the standard in one hand and the bottle with 110 millilitres in the other. Ask which is heavier. Swap hands at random, and repeat 4 times. Then move on to 120, 130, 140 and 160.",
      "say": "Hold this bottle in one hand and this one in the other. Which is heavier? Tell me the hand. Do not lift them high, just a little. Now again with the hands swapped, and another bottle.",
      "kid": "Hold two bottles. Say which is heavier. We swap hands and try again.",
-     "parent": "Put the heavier bottle in the right hand on some tries and the left on others, in a mixed order, so a lifter cannot just guess the same hand. Write R for right and W for wrong. The smallest extra that the lifter always got right, together with the next one up, is the answer. If they get 110 right every time, try 105 and 102 as well.",
+     "parent": "Put the heavier bottle in the right hand on some tries and the left on others, in a mixed order, so a lifter cannot just guess the same hand. Write R for right and W for wrong. The answer is the smallest extra that the lifter got right every time, as long as they also got the next one up right every time. If they get 110 right every time, try 105 and 102 as well.",
      "check": {
       "t": "mcq",
       "q": "Why does the helper put the heavier bottle in a different hand each time?",
@@ -1123,7 +1123,7 @@
     {
      "id": "s4",
      "mins": 9,
-     "do": "Empty the bottles. Fill the standard with 400 millilitres. Fill the others with 440, 480, 520, 560 and 640 millilitres. Put new secret letters. Repeat the lifting test in the same way.",
+     "do": "Empty the bottles. Fill the standard with 400 millilitres. Fill the others with 440, 480, 520, 560 and 640 millilitres. Put new secret letters on the bases. Repeat the lifting test in the same way.",
      "say": "Now the heavy set. The standard has 400 millilitres. The others have 40, 80, 120, 160 and 240 more. These steps are four times bigger than before, so we can compare fairly. Lift and tell me which is heavier.",
      "kid": "Fill A with 400 millilitres. Fill the others with more. Do the same test.",
      "parent": "The extras are four times the light-set extras, so each is the same share of its standard. The standard has four times as much water. The empty bottle also has a small weight, so the shares will not match exactly. Wipe any spilled water. If the lifter always gets 440 right, try 420 and 410 as well. All the numbers here are typical, not promised, and a few lifters will feel much smaller or larger steps.",
@@ -1226,7 +1226,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the katori of spices and the orange peel. Ask for a guess and a reason about how long the smell will last. Write the guess on the table.",
+     "do": "Show your child the katori of spices and the orange peel. Ask for a guess and a reason about how long the smell will last. Write the guess down.",
      "say": "I will hold this spice a hand's width from your nose. You will tell me when the smell has almost gone. How long will that take? Will a second smell fade too? Why do you think so?",
      "kid": "How long until the smell fades? Will a new smell fade too? Why?",
      "ask": [
@@ -1275,8 +1275,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Make the first smell fade again. Right after it fades, hold the orange peel to the nose and score the orange smell from 0 to 5.",
-     "say": "Let us fade the spice again. As soon as it is gone, smell this orange peel. How strong is the orange? What do you notice?",
-     "kid": "Fade the spice again. Then smell the orange. How strong is it?",
+     "say": "Let us wait for the spice smell to fade again. As soon as it is gone, smell this orange peel. How strong is the orange? What do you notice?",
+     "kid": "Let the spice smell fade again. Then smell the orange. How strong is it?",
      "parent": "Expected: the orange smells strong straight away. The nose adapts to one smell, not to every smell. If the orange also seems weak, the child may simply be tired. Try again after a rest.",
      "check": {
       "t": "mcq",
@@ -1287,7 +1287,7 @@
        "The orange is stronger than the spice"
       ],
       "a": 0,
-      "why": "The receptors that detect clove molecules were tired. The receptors that detect orange molecules were not. So adaptation is specific to the smell, which is why a newcomer's smell in a room still stands out."
+      "why": "The receptors that detect clove molecules were tired. The receptors that detect orange molecules were not. So adaptation is specific to the smell, which is why a new smell in a room still stands out."
      },
      "context": "In this step, you test whether a second smell fades too."
     },
@@ -1299,7 +1299,7 @@
      "kid": "What happened to the smell? What did you measure? Why did it happen?",
      "ask": [
       {
-       "q": "Why might it be useful for the nose to fade a steady smell?",
+       "q": "Why might it be useful that a steady smell fades?",
        "good": [
         "It lets the nose notice new smells.",
         "It saves effort.",
@@ -1391,7 +1391,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Sit your child at the table. Rest their left hand and forearm behind the screen, out of sight. Put the glove about 15 centimetres to the side of where the hidden hand is. Cover the glove's wrist and the child's sleeve with the cloth so it looks joined.",
+     "do": "Sit your child at the table. Rest their left hand and forearm behind the screen, out of sight. Put the glove about 15 centimetres to the side of where the hidden hand is. Cover the glove's wrist and the child's sleeve with the cloth, so the glove looks joined to the arm.",
      "say": "Rest your left hand behind the screen. Keep looking at the rubber hand in front. Try not to look at anything else. I will cover the wrist so the hand looks joined to your arm.",
      "kid": "Put your hand behind the screen. Look at the rubber hand. Keep your eyes on it.",
      "parent": "The child's real hand and the glove must be in the same position, both with palms down. The child must not see their own hand. Put the glove close enough that it looks like the child's own.",
@@ -1525,10 +1525,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Show both shapes to one person at a time. Ask them which is 'bouba' and which is 'kiki'. Do not give a hint. Put a tick in the right column. Swap which sheet is on the left for every other person.",
+     "do": "Show both shapes to one person at a time. Ask them which is 'bouba' and which is 'kiki'. Do not give a hint. Put a tick in the column for their answer. Swap which sheet is on the left for every other person.",
      "say": "Here are two shapes. One is called bouba and one is called kiki. Which is which? Go with the first feeling.",
      "kid": "Show the shapes. Ask which is bouba. Tick the tally.",
-     "parent": "Swap the sheets' positions for every other person, so that left and right do not matter. Ask different ages and people who speak other languages, if you can. Do not discuss the answer until you have asked everyone. Say the two words the same way each time and never say 'round' or 'spiky'. Ask people one at a time, out of hearing of the next. If you cannot find 10 people, use a phone call or ask over two days, because fewer than 10 tell very little.",
+     "parent": "Swap the sheets' positions for every other person, so that left and right do not matter. Ask different ages and people who speak other languages, if you can. Do not discuss the answer until you have asked everyone. Say the two words the same way each time and never say 'round' or 'spiky'. Ask people one at a time, out of hearing of the next. If you cannot find 10 people, use a phone call or ask over two days, because answers from fewer than 10 people tell you very little.",
      "check": {
       "t": "mcq",
       "q": "Why do we swap which sheet is on the left for every other person?",
@@ -1627,7 +1627,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the cardboard strip. Explain that it will show reaction time in seconds, after the distance guide. Ask for a guess about what changes the time.",
+     "do": "Show your child the cardboard strip. Explain that you will mark it so that it shows reaction time in seconds. Ask for a guess about what changes the time.",
      "say": "We will make a ruler that shows your reaction time directly. Then we will test the whole family. Do you think a person is faster in the morning or in the evening? Is a person slower when their mind is busy? Why do you think so?",
      "kid": "We make a ruler that shows time. Who is fastest? Does time of day matter? Why?",
      "ask": [
@@ -1652,7 +1652,7 @@
      "parent": "These times come from the way things fall: the time for a fall of d metres is the square root of 2d divided by 9.8, rounded. You do not need to explain this yet. The time gaps between the marks get smaller further up the strip, which shows that the time grows more slowly than the distance.",
      "check": {
       "t": "mcq",
-      "q": "On the strip, the gap between 0.10 and 0.14 seconds is 5 centimetres, but the gap between 0.23 and 0.25 seconds is also 5 centimetres. What does that tell you?",
+      "q": "On the strip, the marks for 0.10 and 0.14 seconds are 5 centimetres apart. The marks for 0.23 and 0.25 seconds are also 5 centimetres apart. What does that tell you?",
       "options": [
        "A falling ruler speeds up, so each extra centimetre takes less time further down",
        "The marks were drawn wrongly",
@@ -1709,7 +1709,7 @@
        "There was no change"
       ],
       "a": 0,
-      "why": "14 centimetres is about 0.17 seconds and 19 centimetres is about 0.20 seconds on the strip. The difference is about 0.03 seconds. Small, but it counts. A longer distance means a longer reaction time."
+      "why": "14 centimetres is about 0.17 seconds and 19 centimetres is about 0.20 seconds on the strip. The difference is about 0.03 seconds. That is small, but it counts. A longer distance means a longer reaction time."
      },
      "context": "In this step, you test while the catcher is distracted and finish the league table."
     }
@@ -1797,7 +1797,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Send the full message. Start the timer. The receiver writes every letter. When it ends, check the letters and the time.",
+     "do": "Send the full message. Start the timer. The receiver writes every letter. When the message is finished, check the letters and the time.",
      "say": "Now send PLEASE BRING ME A BOOK. The receiver writes down every letter. Keep your taps gentle and steady. When you finish, we will check the time and the mistakes.",
      "kid": "Send the whole message. Receiver, write each letter. Check the time.",
      "parent": "Count the number of wrong letters as well as the time. A fast message with many mistakes is not a success. Try to find where the mistakes started: was it a pause, a missed tap or a mix-up in the code?",
@@ -1974,7 +1974,7 @@
       "Your nose is broken"
      ],
      "a": 0,
-     "why": "Receptors fade a steady smell. Your nose has been in it for hours, so the signal has faded. A visitor's receptors are fresh. Picking 'broken' misses that every nose does this.",
+     "why": "Receptors send fewer pulses when a smell stays the same. Your nose has been in it for hours, so the signal has faded. A visitor's receptors are fresh. Picking 'broken' misses that every nose does this.",
      "outcome": 4
     },
     {
@@ -1994,7 +1994,7 @@
       "They are the oldest parts of the body"
      ],
      "a": 0,
-     "why": "The brain gives more room to parts that send more detailed signals. Lips and fingertips are packed with receptors. Size of patch follows detail, not strength or distance.",
+     "why": "The brain gives more room to parts that send more detailed signals. Lips and fingertips are packed with receptors. The size of a patch depends on how much detail the part sends, not on its strength or its distance from the brain.",
      "outcome": 5
     },
     {
@@ -2051,7 +2051,7 @@
      "t": "write",
      "p": "A friend says: 'My eyes show me the world exactly as it is, right now.' Write two reasons from the science of the senses for why this is not quite true.",
      "lines": 4,
-     "a": "Signals take time to travel from the eyes to the brain and to be sorted, so what we see is a fraction of a second old. The brain also guesses and fills in parts of the picture, so it is a build, not a copy.",
+     "a": "Signals take time to travel from the eyes to the brain and to be sorted, so what we see is a fraction of a second old. The brain also guesses and fills in parts of the picture, so what we see is built by the brain, not copied from the world.",
      "why": "A strong answer gives at least two reasons, such as the delay in signals, the brain's predictions or the filling in of gaps. The best answers say that the experience is still very useful.",
      "outcome": 1
     },
@@ -2059,7 +2059,7 @@
      "t": "write",
      "p": "Explain to a younger child why it is good that your nose stops noticing the smell of your own house.",
      "lines": 3,
-     "a": "If your nose reported the same smell all day, you would not notice a new smell, such as smoke or something burning. By fading steady smells, your nose is ready to tell you about changes.",
+     "a": "If your nose reported the same smell all day, you would not notice a new smell, such as smoke or something burning. Because steady smells fade, your nose is ready to tell you about changes.",
      "why": "A strong answer says that fading frees the sense to notice new things, and gives an example of a change that matters, such as smoke or a gas leak.",
      "outcome": 4
     },
@@ -2182,7 +2182,7 @@
       ]
      ],
      "a": "see items",
-     "why": "A steady thing that fades is adaptation. A change that is too small next to what is there is a ratio matter. Something that the brain expected is a guess.",
+     "why": "A steady thing that fades is adaptation. A change that is too small next to what is already there is 'too small a change'. Something that the brain expected is 'the brain guesses'.",
      "outcome": 6
     },
     {
@@ -2241,7 +2241,7 @@
      "t": "write",
      "p": "A friend says pain is a direct measure of how damaged the body is. Give two pieces of evidence against this.",
      "lines": 4,
-     "a": "People with a phantom limb feel pain from a limb that is no longer there. A person born without pain nerve gates feels no pain from broken bones. A paper cut can hurt more than a bigger bruise.",
+     "a": "People with a phantom limb feel pain from a limb that is no longer there. A person born with a broken gene for a gate in the pain nerves feels no pain, even from broken bones. A paper cut can hurt more than a bigger bruise.",
      "why": "Strong answers show that pain is made by the brain from danger signals and context. Evidence can include phantom limbs, people who feel no pain, and soldiers or players who notice a wound only later.",
      "outcome": 5
     },
@@ -2373,7 +2373,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meera can just feel a 5 gram change in a 50 gram parcel. Using the same fraction, about how big a change must there be in a 400 gram parcel?",
+     "p": "A person can just feel a 5 gram change in a 50 gram parcel. Using the same fraction, about how big a change must there be in a 400 gram parcel?",
      "opts": [
       "5 grams",
       "20 grams",
@@ -2404,7 +2404,7 @@
       "10",
       "ten"
      ],
-     "why": "Decibels use ratios, as our hearing does. Ten steps up means ten times the energy, yet it sounds only about twice as loud.",
+     "why": "Decibels use ratios, as our hearing does. A step up of 10 decibels means ten times the energy, yet it sounds only about twice as loud.",
      "outcome": 3
     },
     {
@@ -2442,7 +2442,7 @@
       "No. Heartbeats are only heard at night"
      ],
      "a": 0,
-     "why": "The sound of the heart is the same. Daytime noises make a small sound a tiny change on top of a lot of noise, so you cannot notice it.",
+     "why": "The sound of the heart is the same. In the daytime, the heartbeat is a tiny change on top of a lot of noise, so you cannot notice it.",
      "outcome": 3
     },
     {
@@ -2505,7 +2505,7 @@
     },
     {
      "t": "label",
-     "p": "Label this drawing of the brain's body map: which patch is big and which is small? Lips, back, hand.",
+     "p": "Label each of these patches on the drawing of the brain's body map as big or small: lips, back, hand.",
      "labels": [
       "lips",
       "back",
@@ -2516,7 +2516,7 @@
       "back: small patch",
       "hand: big patch"
      ],
-     "why": "Parts with many receptors, like lips and hands, get big patches. The back has few receptors close together, and gets a small patch.",
+     "why": "Parts with many receptors, like lips and hands, get big patches. The back has few receptors, so it gets a small patch.",
      "art": "A strip of brain with three arrows pointing to patches of different sizes, with empty label boxes.",
      "outcome": 5
     },
@@ -2568,7 +2568,7 @@
     "In the table"
    ],
    "a": 0,
-   "why": "Light takes almost no time. The delay is the time for signals to travel and for the brain to decide. A child who picks 'the light' has not yet separated the world from the body.",
+   "why": "Light takes almost no time. The delay is the time for signals to travel and for the brain to decide. Picking 'the light' mixes up what happens outside the body with what happens inside it.",
    "outcome": 1
   },
   {
@@ -2591,7 +2591,7 @@
     "A thick one wrapped in myelin",
     "A thin one with no wrapping",
     "A short one",
-    "A one that is cold"
+    "A cold one"
    ],
    "a": 0,
    "why": "Myelin works like the plastic around a wire. Signals jump along wrapped threads and are much faster. Length and temperature matter less.",
@@ -2723,7 +2723,7 @@
   "Mirror therapy for people with phantom limb pain, which uses sight to calm the brain's map of the missing limb.",
   "Adding a strong smell to cooking gas so that a leak is noticed even at very low amounts.",
   "Decibel and star-magnitude scales, which use ratios because the senses work in ratios.",
-  "Screens that change their brightness to the room's light, so that the eye's changes are comfortable.",
+  "Screens that change their brightness to match the light in the room, so that the eyes stay comfortable.",
   "Tea tasting, spice grading and perfume making, where years of practice train the brain to read fine differences.",
   "Eye tests and hearing tests that measure thresholds with repeated questions and a middle value."
  ],
@@ -2839,7 +2839,7 @@
  ],
  "maths": [
   {
-   "problem": "Meena caught the ruler seven times. The distances in centimetres were 14, 17, 12, 16, 15, 19 and 13. Put them in order and find the middle one. About what reaction time does the middle one show, if 15 centimetres is about 0.17 seconds?",
+   "problem": "You catch the ruler seven times. The distances in centimetres are 14, 17, 12, 16, 15, 19 and 13. Put them in order and find the middle one. About what reaction time does the middle one show, if 15 centimetres is about 0.17 seconds?",
    "answer": "The middle one is 15 centimetres, which is about 0.17 seconds.",
    "explain": "In order, the numbers are 12, 13, 14, 15, 16, 17, 19. The fourth number is 15, so it is in the middle. The guide says 15 centimetres is about 0.17 seconds.",
    "math_unit": "math.data.reading-data.L4",
@@ -2848,9 +2848,9 @@
    "why_maths": "A middle value is not changed by one lucky or sleepy try, so it is a fairer way to sum up a set of tries."
   },
   {
-   "problem": "Farah caught the ruler at 10 centimetres. Meena caught it at 20 centimetres. Farah says, 'My reaction time was half of yours.' About 10 centimetres is 0.14 seconds and 20 centimetres is 0.20 seconds. Is Farah right?",
-   "answer": "No. Her time was about 0.14 seconds and Meena's was about 0.20, so hers was not half as long.",
-   "explain": "Half of 0.20 is 0.10. Farah's time was 0.14, which is more than 0.10. The distance was half, but the time was not, because a falling ruler speeds up. So equal steps in distance are not equal steps in time.",
+   "problem": "You catch the ruler at 10 centimetres. Your friend catches it at 20 centimetres. 10 centimetres is about 0.14 seconds and 20 centimetres is about 0.20 seconds. Was your reaction time half of your friend's?",
+   "answer": "No. Your time was about 0.14 seconds and your friend's was about 0.20, so yours was not half as long.",
+   "explain": "Half of 0.20 is 0.10. Your time was 0.14, which is more than 0.10. The distance was half, but the time was not, because a falling ruler speeds up. So equal steps in distance are not equal steps in time.",
    "math_unit": "math.logic.problem-solving.L4",
    "how": "e1",
    "context": "In the Ruler Drop test, the distance the ruler falls is turned into a reaction time.",
@@ -2891,7 +2891,7 @@
    "why_maths": "Multiplying speed by reaction time shows why vehicles need a gap, and why going faster needs a bigger one."
   },
   {
-   "problem": "Meena scored the smell of a spice from 0 to 5. Right after it faded, the score was 0. After resting 30 seconds the score was 1, after 60 seconds it was 2 and after 180 seconds it was 4. Her brother says the score goes up by the same amount each minute. Is he right?",
+   "problem": "You score the smell of a spice from 0 to 5. Right after it fades, the score is 0. After resting 30 seconds the score is 1, after 60 seconds it is 2 and after 180 seconds it is 4. Does the score go up by the same amount each minute?",
    "answer": "No. In the first minute the score rose by 2. In the next two minutes it rose by only 2 in total, which is 1 each minute. The nose wakes up quickly at first and then more slowly.",
    "explain": "From 0 to 60 seconds the score went from 0 to 2, a rise of 2 in one minute. From 60 to 180 seconds it went from 2 to 4, a rise of only 1 each minute. So the recovery is faster at first and slower later. A line graph of these scores would bend and not be straight.",
    "math_unit": "math.data.line-graphs.L4",
@@ -3107,5 +3107,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Ruler Drop: a light plastic ruler and a table edge are enough. The catcher's arm rests on the table, the 0 mark is level with the top of the thumb, and the dropper waits a different time each go. Differences between sight, sound and touch are small, usually 1 to 3 centimetres, so the steps use seven counted tries, a middle value and a reversed order, and say that equal results are a real result. Bottle Lift: six identical 1-litre bottles and a measuring cup are enough. Lifters often get the 10 percent step right, and the steps say to try smaller extras if so. Tired Nose: use a mild spice at 10 centimetres and never sniff hard. Check for allergies and asthma first. The fade time varies a lot from person to person. Rubber Hand: it works for most people but not all, and the steps say that 'nothing' is a normal result. Bouba or Kiki: ask at least 10 people and swap the sheets' sides. Pulse Talk: the grid code is slow but accurate, and the steps tell the parent to count mistakes as well as time. Facts to verify before release: the 1850 Helmholtz speed of about 30 metres each second (it has been quoted between about 25 and 43); Müller's claim that the speed could not be measured; the speeds of the pain and touch threads, which are rounded; the Hecht result of fewer than 15 caught light particles; the 1998 Blakemore tickle test details; the 2013 bumblebee electric-field study; the 2000 ferret study by von Melchner, Pallas and Sur; and the Bouba and Kiki result with Tamil speakers from 2001. Numbers that are not certain are marked 'about' or 'reported'. The videos are still to be chosen.",
- "warm": {"words": ["NERVE", "PULSE", "SMELL", "TOUCH", "BRAIN"], "quiz": [["Your reaction is never instant, because signals take time to travel and your brain takes time to decide.", true, "A signal goes in, the brain decides, and a signal goes out, and each step takes time."], ["A stronger light makes a nerve send more pulses each second, not bigger pulses.", true, "Every nerve pulse is the same size, so strength is written in how often they come."], ["A very faint stimulus can be there and still not be noticed.", true, "Below the threshold, a sense is too weak to notice the stimulus."], ["You cannot tickle yourself because your brain predicts the touch from your own movement.", true, "The brain turns down signals it expected, so your own touch feels much less ticklish."], ["Practice can sharpen a sense, as tea tasters learn to tell very small differences in flavour.", true, "Practice changes how the brain uses the signals, so a trained sense can notice more."], ["You see and hear things at the very moment they happen.", false, "Signals take time to reach the brain and be sorted, so what you sense is already a little old."], ["A small added weight is as easy to feel on a heavy bag as on a light one.", false, "The smallest change you notice is a fraction of what was there, so a heavy load hides small changes."], ["Pain tells you exactly how much damage your body has taken.", false, "Pain is a warning the brain makes. A small paper cut can hurt a lot, and a bad wound may hurt little."], ["An animal with more kinds of colour receptor must tell close colours apart better.", false, "Mantis shrimps have many kinds, yet they were worse than people at telling close colours apart."], ["A smell fades while you stand in it because the smell itself gets weaker.", false, "The smell stays the same, but your receptors and brain report a steady smell less and less."]], "odd": [[["Snake sensing body heat", "Bird sensing magnetism", "Shark sensing electricity", "Tongue tasting sweet"], "Tongue tasting sweet", "The first three are senses many animals have that humans lack a receptor for; humans do taste sweet."], [["Signal along a nerve", "Brain deciding", "Signal to the hand", "Light reaching the eye"], "Light reaching the eye", "The first three take real time and make up the reaction delay; light reaches the eye almost at once."], [["Smell of a room", "Feel of your clothes", "Hum of a fan", "A sudden loud clap"], "A sudden loud clap", "The first three stay steady, so your senses adapt and notice them less; a clap is a sudden change."], [["Lips", "Fingertips", "Tongue", "Back"], "Back", "Lips, fingertips and tongue have many receptors and big patches in the brain's body map; the back has few."], [["Neuron", "Nerve thread", "Myelin wrapping", "Bone"], "Bone", "The first three are parts of the system that carries signals; bone does not carry nerve signals."]]}
+ "warm": {"words": ["NERVE", "PULSE", "SMELL", "TOUCH", "BRAIN"], "quiz": [["Your reaction is never instant, because signals take time to travel and your brain takes time to decide.", true, "A signal goes in, the brain decides, and a signal goes out, and each step takes time."], ["A stronger light makes a nerve send more pulses each second, not bigger pulses.", true, "Every nerve pulse is the same size, so strength is written in how often they come."], ["A very faint stimulus can be there and still not be noticed.", true, "Below the threshold, the stimulus is too weak for the sense to notice."], ["You cannot tickle yourself because your brain predicts the touch from your own movement.", true, "The brain turns down signals it expected, so your own touch feels much less ticklish."], ["Practice can sharpen a sense, as tea tasters learn to tell very small differences in flavour.", true, "Practice changes how the brain uses the signals, so a trained sense can notice more."], ["You see and hear things at the very moment they happen.", false, "Signals take time to reach the brain and be sorted, so what you sense is already a little old."], ["A small added weight is as easy to feel on a heavy bag as on a light one.", false, "The smallest change you notice is a fraction of what was there, so a heavy load hides small changes."], ["Pain tells you exactly how much damage your body has taken.", false, "Pain is a warning the brain makes. A small paper cut can hurt a lot, and a bad wound may hurt little."], ["An animal with more kinds of colour receptor must tell close colours apart better.", false, "Mantis shrimps have many kinds, yet they were worse than people at telling close colours apart."], ["A smell fades while you stand in it because the smell itself gets weaker.", false, "The smell stays the same, but your receptors and brain report a steady smell less and less."]], "odd": [[["Snake sensing body heat", "Bird sensing magnetism", "Shark sensing electricity", "Tongue tasting sweet"], "Tongue tasting sweet", "The first three are senses that some animals have and humans do not; humans do taste sweet."], [["Signal along a nerve", "Brain deciding", "Signal to the hand", "Light reaching the eye"], "Light reaching the eye", "The first three take real time and make up the reaction delay; light reaches the eye almost at once."], [["Smell of a room", "Feel of your clothes", "Hum of a fan", "A sudden loud clap"], "A sudden loud clap", "The first three stay steady, so your senses adapt and notice them less; a clap is a sudden change."], [["Lips", "Fingertips", "Tongue", "Back"], "Back", "Lips, fingertips and tongue have many receptors and big patches in the brain's body map; the back has few."], [["Neuron", "Nerve thread", "Myelin wrapping", "Bone"], "Bone", "The first three are parts of the system that carries signals; bone does not carry nerve signals."]]}
 }

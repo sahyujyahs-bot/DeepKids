@@ -3,17 +3,17 @@
   "title": "Exploring space: why a satellite never lands, and what it costs to put one up",
   "level": 4,
   "summary": {
-    "text": "A rocket only has to climb about 400 kilometres to reach the space station, a little further than the road from Chennai to Bengaluru. Yet the rocket is as tall as a ten-storey building and about nine tenths of its weight is fuel. The puzzle is that going up is the easy part. Staying up is hard, because the station is falling all the time and keeps missing the ground, by moving sideways at about 8 kilometres every second. Your child rolls marbles off a table to see how falling and missing fit together, then loads a balloon rocket to see why every kilogram costs so much fuel. Along the way come telescopes that see in radio waves and infrared, the long curved road Chandrayaan-3 took to the Moon, and what space does to a body.",
+    "text": "A rocket only has to climb about 400 kilometres to reach the space station, a little further than the road from Chennai to Bengaluru. Yet the rocket is as tall as a ten-storey building and about nine tenths of its weight is fuel. The reason is that going up is the easy part and staying up is the hard part. The station is falling all the time. It keeps missing the ground only because it moves sideways at about 8 kilometres every second. Your child rolls marbles off a table to see how falling and missing fit together, then loads a balloon rocket with paper clips to see why every kilogram costs so much fuel. The unit also covers telescopes that see in radio waves and infrared, the long curved road Chandrayaan-3 took to the Moon, and what space does to a body.",
     "art": "A marble rolling off a table edge in three curved paths of different lengths, and above the table a faint picture of the Earth with a satellite circling it and a cannon on a mountain."
   },
   "intro": {
-    "hook": "Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now imagine a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?",
+    "hook": "Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now think of a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?",
     "text": "It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this unit you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.",
     "art": "A child at a table edge letting a marble roll down a folded card ramp, with a sheet of newspaper on the floor below showing three wet marble marks at different distances."
   },
   "outcomes": [
     "I can explain that a satellite is always falling, and stays up because it moves sideways fast enough to keep missing the ground.",
-    "I can say about how fast a satellite must move to stay in orbit, and why a rocket spends most of its effort on sideways speed and not on height.",
+    "I can say roughly how fast a satellite must move to stay in orbit, and why a rocket spends most of its effort on sideways speed and not on height.",
     "I can use my balloon rocket results to explain why a lighter rocket gains more speed, and why rockets drop their empty stages.",
     "I can explain why a higher orbit is slower than a lower one, and why one special high orbit makes a satellite hang over the same spot.",
     "I can explain that a wider telescope both collects more light and shows finer detail, and say how radio and space telescopes see what our eyes cannot.",
@@ -85,7 +85,7 @@
     {
       "term": "Geostationary orbit",
       "meaning": "A circle about 36,000 kilometres above the equator. A satellite there takes exactly one day to go round, so it stays above the same spot on the ground.",
-      "example": "The dish on a rooftop points at a satellite in this orbit.",
+      "example": "A TV dish on a rooftop points at a satellite in this orbit.",
       "art": "The Earth seen from above the North Pole with a satellite always over the same city and a dish pointing at it."
     },
     {
@@ -152,7 +152,7 @@
       "examples": [
         "A stone thrown gently lands at your feet. A cricket ball thrown hard lands far down the field. A satellite is thrown so fast that it never lands.",
         "The Moon is also falling around the Earth, and it takes about 27 days to go round once.",
-        "The space station and the astronaut beside her fall together, so she floats next to the wall."
+        "An astronaut and the space station around her fall together, so she floats next to the wall."
       ],
       "perspectives": [],
       "art": "A cannon on a high mountain firing three shots: one landing near, one landing far, and one going right round the round Earth.",
@@ -166,7 +166,7 @@
       "examples": [
         "28,000 kilometres an hour is about 460 kilometres every minute.",
         "The station crosses the whole length of India, about 3,000 kilometres, in about 6 minutes.",
-        "A rocket from Sriharikota heads out over the sea towards the east, in the same direction as the Earth turns, to borrow some of the Earth's own spin."
+        "A rocket from Sriharikota heads out over the sea towards the east. The Earth turns towards the east, so the rocket starts with some of the Earth's own spinning speed."
       ],
       "perspectives": [],
       "art": "A tall rocket path that first goes straight up and then bends over into a long flat curve above the sea.",
@@ -191,7 +191,7 @@
       "concept": "A rocket carries fuel to lift its fuel",
       "status": "defined",
       "definition": "A rocket speeds up by throwing its own gas backwards. A heavier rocket needs more push for the same speed, so most of a rocket's weight at lift-off is propellant.",
-      "description": "The gas leaves a rocket engine at about 3 to 4 kilometres a second. The rocket needs about 9 kilometres a second in all to reach orbit, because gravity and air slow it on the way up. That is more than twice the speed of the gas. So the rocket must throw away most of its own weight to get there. Every extra kilogram of payload needs more fuel to lift it, and then more fuel to lift that fuel. For a big rocket, around nine tenths of the weight at lift-off is propellant. The satellite on top may be only a few percent of the weight, or less than one percent. This is why rockets drop their empty tanks. A stage that is empty is dead weight, and dropping it makes the rest much easier to speed up.",
+      "description": "The gas leaves a rocket engine at about 3 to 4 kilometres a second. The rocket needs about 9 kilometres a second in all to reach orbit, because gravity and air slow it on the way up. That is more than twice the speed of the gas. So the rocket must throw away most of its own weight to get there. Every extra kilogram of payload needs more fuel to lift it, and then more fuel to lift that fuel. For a big rocket, around nine tenths of the weight at lift-off is propellant. The satellite on top may be only a few percent of the weight, or less than one percent. This is why rockets drop their empty tanks. An empty stage is dead weight: it adds weight and gives no push. Dropping it makes the rest much easier to speed up.",
       "examples": [
         "PSLV weighs hundreds of tonnes at lift-off, and the satellites it carries weigh only a few tonnes.",
         "A balloon rocket with paper clips taped on goes a shorter distance than one with none.",
@@ -205,7 +205,7 @@
       "concept": "Climbing to the Moon in small steps",
       "status": "defined",
       "definition": "A spacecraft can raise its orbit by firing its engine at the right moment to speed up. A series of small burns can lift it from a low orbit all the way to the Moon.",
-      "description": "Chandrayaan-3 was launched on 14 July 2023 and landed on 23 August 2023, 40 days later. The rocket did not throw it straight at the Moon. It left the spacecraft in a long oval orbit round the Earth. Over the next days, ISRO fired the spacecraft's engine several times when it was closest to the Earth. Each burn stretched the oval farther out. On 1 August a last burn sent it off towards the Moon. On 5 August the Moon's gravity caught it, and it began to orbit the Moon. More burns lowered that orbit step by step, until the lander separated and came down. A single big push would have needed a much bigger rocket. Many small burns trade time for rocket size. Mangalyaan did the same round the Earth in 2013 before it left for Mars.",
+      "description": "Chandrayaan-3 was launched on 14 July 2023 and landed on 23 August 2023, 40 days later. The rocket did not throw it straight at the Moon. It left the spacecraft in a long oval orbit round the Earth. Over the next days, ISRO fired the spacecraft's engine several times when it was closest to the Earth. Each firing is called a burn, and each burn stretched the oval farther out. On 1 August a last burn sent the spacecraft off towards the Moon. On 5 August the Moon's gravity caught it, and it began to orbit the Moon. More burns lowered that orbit step by step, until the lander separated and came down. A single big push would have needed a much bigger rocket. Many small burns take longer, but a smaller rocket can do the job. Mangalyaan did the same round the Earth in 2013 before it left for Mars.",
       "examples": [
         "From 14 July to 23 August is 40 days: 17 days left in July, and 23 more in August.",
         "Mangalyaan was launched on 5 November 2013. It reached Mars orbit on 24 September 2014, about 320 days later.",
@@ -219,7 +219,7 @@
       "concept": "Telescopes: light, detail and magnifying",
       "status": "defined",
       "definition": "A telescope's opening does two jobs. It collects more light, and it shows finer detail. Both get better as the opening gets wider.",
-      "description": "In the half-lens test of Class 3, a bigger lens made a brighter picture. A bigger opening also makes a sharper picture. Light spreads out a little as it goes through any opening, and a narrow opening blurs fine detail more than a wide one. A telescope with a wide mirror can split two stars that look like one to a small telescope. Magnifying is a separate thing. A telescope with two lenses magnifies by the long focal length of the big front lens divided by the short focal length of the eyepiece. A lens that bends light to a point 100 centimetres away and an eyepiece that bends it to a point 2 centimetres away gives 50 times. But magnifying a blurry picture only gives a bigger blur. Galileo used lenses in 1609. Isaac Newton built a telescope with a curved mirror in about 1668. Very big lenses sag under their own weight, and a mirror can be supported from behind. So all the biggest telescopes use mirrors.",
+      "description": "In the half-lens test of Class 3, a bigger lens made a brighter picture. A bigger opening also makes a sharper picture. Light spreads out a little as it goes through any opening, and a narrow opening blurs fine detail more than a wide one. A telescope with a wide mirror can show two separate stars where a small telescope shows only one. Magnifying is a separate thing. Every lens bends light to a point, and the distance from the lens to that point is called its focal length. The eyepiece is the small lens you put your eye to. To find how many times a telescope with two lenses magnifies, divide the long focal length of the big front lens by the short focal length of the eyepiece. A front lens that bends light to a point 100 centimetres away and an eyepiece that bends it to a point 2 centimetres away give 50 times. But magnifying a blurry picture only gives a bigger blur. Galileo used lenses in 1609. Isaac Newton built a telescope with a curved mirror in about 1668. Very big lenses sag under their own weight, and a mirror can be supported from behind. So all the biggest telescopes use mirrors.",
       "examples": [
         "The Hubble Space Telescope has a mirror 2.4 metres wide.",
         "The James Webb Space Telescope has a mirror 6.5 metres wide, made of 18 six-sided pieces.",
@@ -279,7 +279,7 @@
       "description": "Since 1957, thousands of rockets and satellites have been launched. Dead satellites, empty rocket stages and the pieces from collisions still orbit the Earth. Tens of thousands of pieces bigger than about 10 centimetres are tracked, and there are millions of smaller flecks. Something moving at 8 kilometres a second carries more energy than a bullet, even if it is only a fleck of paint. In 2009, a working satellite and a dead one collided and made thousands of pieces. The space station has moved out of the way of junk several times. Junk in low orbits slowly falls back, because there is a trace of air even at that height, and it burns up. Junk at 36,000 kilometres stays for ages. So old satellites there are pushed a little higher, into a 'graveyard' orbit, before they die.",
       "examples": [
         "A speck of paint has cracked a window of the space station.",
-        "The Moon's orbit has no air to clean it, so junk there would stay.",
+        "Around the Moon there is no air to slow junk down, so junk left in orbit there would stay.",
         "Future satellites may carry a way to drop out of orbit when their job is done."
       ],
       "perspectives": [],
@@ -290,7 +290,7 @@
       "concept": "Could people ever reach another star?",
       "status": "idea",
       "definition": "",
-      "description": "The nearest star after the Sun is Proxima Centauri, a little over 4 light-years away. Voyager 1 moves at about 17 kilometres a second, which is about 17,000 times slower than light. At that speed it would take about 70,000 years. No rocket we can build now could do much better. Scientists have ideas, but none has been built.",
+      "description": "The nearest star after the Sun is Proxima Centauri, a little over 4 light-years away. Voyager 1 moves at about 17 kilometres a second, which is about 17,000 times slower than light. At that speed it would take about 70,000 years to get there. No rocket we can build now could do much better. Scientists have ideas, but none has been built.",
       "examples": [
         "A light sail is a thin mirror pushed by light itself, with no fuel. A project announced in 2016 imagined pushing tiny chips this way with powerful lasers.",
         "A generation ship would carry people who live and die on the journey, so that their great-grandchildren arrive."
@@ -352,7 +352,7 @@
   "agreed": [
     {
       "text": "An orbit is a fall that keeps missing. A satellite in orbit is in free fall.",
-      "evidence": "The crew of the space station float beside everything, as in any fall. Newton's maths of falling and sideways speed predicts the paths of thousands of satellites."
+      "evidence": "The crew of the space station float beside everything around them, as happens when things fall together. Newton's maths of falling and sideways speed predicts the paths of thousands of satellites."
     },
     {
       "text": "The lower a satellite orbits, the faster it moves and the shorter its lap.",
@@ -360,11 +360,11 @@
     },
     {
       "text": "A rocket's final speed depends on how fast its gas leaves and on how much of its weight is propellant.",
-      "evidence": "Every rocket launched fits this rule. In the balloon test, adding weight to the same balloon always shortened the distance."
+      "evidence": "Every rocket launched fits this rule. In the Loaded Balloon Rocket test, adding weight to the same balloon always shortened the distance."
     },
     {
       "text": "A wider telescope opening collects more light and shows finer detail.",
-      "evidence": "Each time bigger mirrors have been built, astronomers have seen fainter things and split stars that looked single."
+      "evidence": "Each time bigger mirrors have been built, astronomers have seen fainter things, and have seen two stars where there seemed to be one."
     },
     {
       "text": "Light travels at the same speed everywhere, about 300,000 kilometres a second.",
@@ -399,7 +399,7 @@
     {
       "claim": "A strong telescope on the Earth can see the flag that astronauts left on the Moon.",
       "who": "Many people, and some websites",
-      "for": "Telescopes show craters on the Moon, and a flag seems like a small step down from a crater.",
+      "for": "Telescopes show craters on the Moon, so it seems that a strong one should show a flag too.",
       "against": "The flag is about a metre wide. The Moon is 384,000 kilometres away. The finest detail even the Hubble Space Telescope can show is far bigger than a flag. The landing sites have been photographed by spacecraft that circle the Moon low down.",
       "status": "rejected",
       "context": "This card is about what a telescope can and cannot show on the Moon."
@@ -433,7 +433,7 @@
     {
       "q": "A satellite is falling all the time and never lands. Is it falling, or is it flying?",
       "kind": "deep",
-      "hint": "Think about the marble in the test: while it was in the air, what was gravity doing to it?"
+      "hint": "In Falling Sideways, the marble rolled off the table. While it was in the air, what was gravity doing to it?"
     },
     {
       "q": "Gravity still pulls on an astronaut in orbit, yet she feels no weight. What do we really mean by feeling weight?",
@@ -441,12 +441,12 @@
       "hint": "Think about what you feel when you stand on the floor. Is it gravity, or the floor pushing back?"
     },
     {
-      "q": "A message to Voyager 1 takes close to a day to arrive. In what sense is Voyager 'there' while we are talking to it?",
+      "q": "A message to Voyager 1 takes close to a day to arrive. When we say where Voyager 'is', do we mean where it is now, or where it was a day ago?",
       "kind": "big",
       "hint": "Think about what we know of Voyager now, and how old that news is."
     },
     {
-      "q": "Hubble sees galaxies as they were billions of years ago. Is a telescope also a clock that looks backward?",
+      "q": "Hubble sees galaxies as they were billions of years ago. Is a telescope also a way of looking into the past?",
       "kind": "big",
       "hint": "Light from a faraway thing carries news from the time it left."
     },
@@ -530,15 +530,15 @@
     ]
   },
   "roots": {
-    "context": "We rolled marbles, loaded a rocket and followed satellites round the Earth. Now we ask what falling, orbits and distance tell us about the world we live in.",
+    "context": "We rolled marbles off a table, loaded a balloon rocket with paper clips and followed satellites round the Earth. Now we ask what falling, orbits and distance tell us about the world we live in.",
     "deep_truth": {
-      "truth": "In the marble test, faster marbles landed farther away. A marble fast enough to miss the whole floor would never land. A satellite is exactly that, always falling and always missing. So staying up and falling turn out to be one motion.",
+      "truth": "In Falling Sideways, the marbles that left the table faster landed farther away. A marble fast enough to miss the whole floor would never land. A satellite is exactly that: always falling and always missing. So staying up in orbit and falling are the same motion.",
       "habit": "We picture staying up as being held up, like a lamp on a hook. We think falling is the opposite of staying up. A satellite shows that one motion can be both.",
       "evidence": "In Falling Sideways, every marble spent about the same time in the air, but the faster ones landed farther along. The Earth's ground curves away by about 5 metres over 8 kilometres, and the space station moves 8 kilometres every second. If your own marbles landed differently, write down exactly what they did and test again."
     },
     "three": {
       "who_am_i": "You are standing on a planet that is falling around the Sun all the time. You ride along without feeling a thing, as an astronaut rides along with her station.",
-      "what_is_life": "Our bones and muscles are built for working against gravity. Take away the load and they shrink within weeks. A living body keeps its shape by using it.",
+      "what_is_life": "Our bones and muscles are built for working against gravity. Take away the load and they shrink within weeks. A living body stays strong only by being used.",
       "what_is_this_world": "A thrown stone, the Moon and the space station follow one rule of falling, and differ only in their sideways speed."
     },
     "thread": "A dropped marble, the Moon and the space station are all falling, and the only difference is how fast they move sideways. A slow throw lands near. A faster throw lands far. A throw of about 8 kilometres a second misses the Earth for ever. So 'up there' is not a place where the rules stop. The same gravity that pulls a pebble out of your hand also holds the Moon in its path and the Earth in its path round the Sun.",
@@ -546,12 +546,12 @@
       {
         "source": "Rig Veda 10.129, the Nasadiya Sukta",
         "teaching": "An ancient hymn asks who really knows how the world began and where it all came from. It ends by saying that perhaps the one who watches from the highest heaven knows, or perhaps even that one does not.",
-        "link": "The farther we look, the older the light we see. A telescope shows us how far our knowing goes, and the hymn reminds us to say where it stops."
+        "link": "The farther we look, the older the light we see. A telescope shows us how far our knowledge reaches. The hymn reminds us to say honestly where it stops."
       },
       {
         "source": "Frank White, The Overview Effect, 1987",
         "teaching": "Many astronauts who have seen the whole Earth from orbit say that it changed how they felt. They saw one round world with no lines between countries and a very thin layer of air. Frank White gave this feeling the name 'the overview effect'.",
-        "link": "From far enough away, the thin skin of air you measured on your lime becomes plain to see. A far view can show something that is hard to notice from the ground."
+        "link": "From far enough away, the very thin layer of air around the Earth becomes plain to see. A far view can show something that is hard to notice from the ground."
       }
     ],
     "science": [
@@ -572,7 +572,7 @@
       "title": "Feel the floor push up",
       "mins": 3,
       "say": "Stand with your feet apart and close your eyes. Feel the floor pushing up on the soles of your feet. That push is what you call your weight. Now imagine the floor is gone and you are falling, and the push is gone too. That is how an astronaut feels. Breathe in slowly three times. Then open your eyes and feel the floor again.",
-      "kid": "Stand still. Close your eyes. Feel the floor push up on your feet. Imagine it gone. Breathe slowly three times."
+      "kid": "Stand still. Close your eyes. Feel the floor push up on your feet. Imagine the floor is gone. Breathe slowly three times."
     },
     "ask": [
       "If you were falling for ever and the ground kept curving away, would you feel like you were falling?",
@@ -591,7 +591,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game. Each card compares two things from space. Players guess whether A, B or neither is bigger or faster, and then give the reason.",
+      "context": "This is a card game. Each card compares two things from space. Players choose A, B or Same, and then give the reason.",
       "setup": [
         {
           "art": "Twenty-four cards in a pile in the middle of a table, with three tokens in front of each player: A, B and Same.",
@@ -657,14 +657,14 @@
             },
             {
               "f": "A: Chandrayaan-3's 40-day trip in many small burns. B: a direct push to the Moon in about 3 days. Which one needs the bigger rocket?",
-              "b": "B. Many small burns trade time for rocket size."
+              "b": "B. Many small burns take longer, but a smaller rocket can do the job."
             },
             {
               "f": "A: a rocket's effort in climbing up through thick air. B: its effort in gaining sideways speed. Which is bigger?",
               "b": "B. Staying up needs about 8 km a second sideways. Climbing 400 km needs only about a third of that."
             },
             {
-              "f": "A: a hammer and B: a feather dropped together on the Moon, where there is no air. Which one lands first?",
+              "f": "A: a hammer. B: a feather. Both are dropped together on the Moon, where there is no air. Which one lands first?",
               "b": "Same. With no air to slow the feather, both fall alike. An astronaut showed this in 1971."
             },
             {
@@ -676,7 +676,7 @@
               "b": "B. Dishes spread far apart act like one huge telescope."
             },
             {
-              "f": "A: an infrared telescope on a hot, humid plain. B: the same telescope in space. Which one catches more clean infrared light?",
+              "f": "A: an infrared telescope on a hot, humid plain. B: the same telescope in space. Which one catches more infrared light from space?",
               "b": "B. The air blocks part of the infrared and glows warm itself."
             },
             {
@@ -693,11 +693,11 @@
             },
             {
               "f": "A: a rocket that drops its empty stage. B: a rocket that keeps it. Which reaches the higher speed with the same fuel?",
-              "b": "A. Dead weight dropped makes the rest easier to push."
+              "b": "A. An empty stage is dead weight. Dropping it makes the rest easier to push."
             },
             {
               "f": "A: Earth's pull on you on the ground. B: Earth's pull on you on the space station. Which is bigger?",
-              "b": "A. It is a little weaker at 400 km up, but still about nine tenths."
+              "b": "A. The pull is a little weaker at 400 km up, but it is still about nine tenths as strong."
             },
             {
               "f": "A: an old satellite left at 36,000 km. B: a broken satellite left at 400 km. Which one stays up longer?",
@@ -831,7 +831,7 @@
             },
             {
               "f": "A last burn sends the spacecraft off towards the Moon, on 1 August.",
-              "b": "Step 4. It now leaves the Earth's orbit and heads for the Moon."
+              "b": "Step 4. It now leaves its orbit round the Earth and heads for the Moon."
             },
             {
               "f": "The Moon's gravity catches the spacecraft, on 5 August, and it starts to orbit the Moon.",
@@ -911,7 +911,7 @@
               "It is checking the weather"
             ],
             "a": 0,
-            "why": "A rocket that can lift the spacecraft only to a low orbit cannot throw it all the way to the Moon at once. The spacecraft's own small engine does the rest in many burns. This trades time for rocket size."
+            "why": "A rocket that can lift the spacecraft only to a low orbit cannot throw it all the way to the Moon at once. The spacecraft's own small engine does the rest in many burns. This takes more time but needs a smaller rocket."
           }
         },
         {
@@ -920,7 +920,7 @@
           "do": "Look at the finished line. Count the days from step 1 to step 9.",
           "say": "From 14 July to 23 August is 40 days. Which steps took the most days? Which took only minutes?",
           "kid": "Count the days from launch to landing. Which part took longest?",
-          "parent": "Most of the 40 days went on raising the orbit round the Earth and then lowering it round the Moon. The final landing took only minutes."
+          "parent": "Most of the 40 days were spent raising the orbit round the Earth and then lowering it round the Moon. The final landing took only minutes."
         }
       ]
     }
@@ -933,7 +933,7 @@
       "days": 1,
       "question": "A marble rolls off the edge of a table. If it leaves the table faster, does it land farther away? And does it take longer to reach the floor?",
       "predict": "Before you start, guess. Will a faster marble land farther away, in the same place, or nearer? Will it take longer to fall? Why do you think so?",
-      "fair_test": "Use the same marble, the same ramp and the same table every time. Only the height that you let the marble go from changes: 5, 10 and 15 centimetres above the table top. Let go of the marble without pushing it. Roll it three times from each height, and use the middle landing mark, because one try can be a fluke.",
+      "fair_test": "Use the same marble, the same ramp and the same table every time. Change only the height on the ramp where you let the marble go: 5, 10 and 15 centimetres above the table top. Let go of the marble without pushing it. Roll it three times from each height. Use the middle one of the three landing distances, because one try can be a fluke.",
       "results_table": [
         "Start height above the table (cm)",
         "My guess for the landing distance (cm)",
@@ -1010,14 +1010,14 @@
           "parent": "The marble runs off the low end, across 15 centimetres of flat table, and over the edge. Use a ruler with a groove so the marble goes straight. Raise the high end so that the marble starts 5 centimetres above the table. Mark 5, 10 and 15 centimetres on a pencil line on the books if you wish.",
           "check": {
             "t": "mcq",
-            "q": "Why does the marble start from the same ramp each time and change only its starting height?",
+            "q": "Why do you use the same marble and ramp each time, and change only the starting height?",
             "options": [
               "So only the speed changes and every other thing stays the same",
               "So the marble does not get lost",
               "So the ramp is easier to build"
             ],
             "a": 0,
-            "why": "In a fair test only one thing changes. If the ramp, marble and table all stayed the same, any change in where the marble lands must come from its speed."
+            "why": "In a fair test only one thing changes. The ramp, marble and table all stay the same, so any change in where the marble lands must come from its speed."
           },
           "context": "In this step you build the ramp and mark the zero line on the floor."
         },
@@ -1028,13 +1028,13 @@
           "say": "Let the marble go. Do not push it. Watch where it first touches the paper. Mark the first wet spot only. It may bounce on after that.",
           "kid": "Wet the marble. Let it go. Mark the first spot. Measure from zero.",
           "adult": true,
-          "parent": "A grown-up can watch the landing, because it is hard to roll and watch at the same time. The marble may bounce. Only the first wet spot counts. Alone, the child lets go and the grown-up watches the landing. With 2 to 4 children: one lets go, one watches and marks the spot, one measures, one writes; swap after each height. Typical landings are roughly 30 to 80 centimetres from the edge, but your numbers will differ. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more or use a dry newspaper under a dark pen dot. Your numbers will differ from the example. What matters is that the higher start lands farther.",
+          "parent": "It is hard to roll and watch at the same time. With one child, the child lets go and the grown-up watches the landing. With 2 to 4 children: one lets go, one watches and marks the spot, one measures, one writes; swap after each height. The marble may bounce. Only the first wet spot counts. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more, or change to a dry newspaper and mark each spot with a dark pen dot. Typical landings are roughly 30 to 80 centimetres from the edge, but your numbers will differ. What matters is that the higher start lands farther.",
           "context": "In this step you roll the marble from three heights and measure where it first lands."
         },
         {
           "id": "s4",
           "mins": 7,
-          "do": "Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then the two-marble race: put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.",
+          "do": "Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then run the two-marble race. Put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.",
           "say": "Look at our numbers. Which start height gave the farthest landing? Did the landing double when the height doubled?",
           "kid": "Which height landed farthest? Draw a bar for each one.",
           "parent": "The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed grows more slowly than the height does. Do not explain this yet. Just notice. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.",
@@ -1053,10 +1053,10 @@
         {
           "id": "s5",
           "mins": 7,
-          "do": "Ask for what I think, what I saw and why. Then ask the Earth question.",
-          "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now imagine the floor curved away downwards. How fast would the marble need to go so that it never landed?",
-          "kid": "Say what I think, what I saw and why. Then think: a curved floor.",
-          "parent": "This is claim, evidence and reasoning. A good answer: what I think: a faster marble lands farther away. What I saw: the marble from 15 centimetres landed about one and a half times as far as the one from 5, for example. Why: all the marbles fell the same height, so they took about the same time to fall, but the faster ones moved farther sideways in that time. Then the Earth question: on the real Earth the ground curves away by about 5 metres over 8 kilometres. A thing that falls 5 metres in a second and moves 8 kilometres in that second would never reach the ground. That is a satellite. You can say: the marble fell and missed only a little. A satellite falls and misses all the way round.",
+          "do": "Ask your child to say three things: what I think, what I saw, and why. Then ask what would happen if the floor curved away.",
+          "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now suppose the floor curved away downwards. How fast would the marble need to go so that it never landed?",
+          "kid": "Say what you think, what you saw and why. Then think: what if the floor curved away?",
+          "parent": "This is claim, evidence and reasoning. A good answer has three parts. What I think: a faster marble lands farther away. What I saw: for example, the marble from 15 centimetres landed about one and a half times as far as the one from 5. Why: all the marbles fell the same height, so they took about the same time to fall, but the faster ones moved farther sideways in that time. Then ask about the curved floor. On the real Earth the ground curves away by about 5 metres over 8 kilometres. A thing that falls 5 metres in a second and moves 8 kilometres in that second would never reach the ground. That is a satellite. You can say: the marble fell and missed only a little. A satellite falls and misses all the way round.",
           "check": {
             "t": "mcq",
             "q": "A cannonball is fired sideways from a very high mountain. What would make it go right round the Earth and never land?",
@@ -1158,7 +1158,7 @@
           "qty": 1
         }
       ],
-      "safety": "Children under eight should only blow up balloons with a grown-up near, and a burst balloon is picked up and thrown away at once, because small pieces can choke. Skip this test if anyone at home is allergic to latex. Keep the string at knee height so nobody trips on it.",
+      "safety": "Children under eight should blow up balloons only with a grown-up near. Pick up a burst balloon and throw it away at once, because small pieces can choke a child. Skip this test if anyone at home is allergic to latex. Keep the string at knee height so nobody trips on it.",
       "schedule": [
         {
           "day": 1,
@@ -1204,7 +1204,7 @@
           "say": "Blow the balloon up to the same size every time. Count down from three. Let go. Where does the front of the straw stop?",
           "kid": "Blow up the balloon to the loop size. Let go. Mark where it stops.",
           "adult": true,
-          "parent": "This first flight has no clips. Alone, the child blows and releases while the grown-up marks the stop. With 2 to 4 children: one blows up the balloon, one pinches the neck, one lets go, one marks and measures; swap after each load. Do it twice. If the balloon gets floppy after a few uses, swap in the second one. The distance on the string may be limited by the chair. Then lengthen the string, or count it as 'the whole string'.",
+          "parent": "This first flight has no clips. With one child, the child blows up the balloon and lets go while the grown-up marks where it stops. With 2 to 4 children: one blows up the balloon, one pinches the neck, one lets go, one marks and measures; swap after each load. Do it twice. If the balloon gets floppy after a few uses, change to the second balloon. If the rocket reaches the chair at the far end, lengthen the string, or write 'the whole string' as the distance.",
           "context": "In this step you fly the rocket with no clips, so you have something to compare with."
         },
         {
@@ -1238,10 +1238,10 @@
         {
           "id": "s6",
           "mins": 8,
-          "do": "Ask for what I think, what I saw and why. Then ask the stage question.",
+          "do": "Ask your child to say three things: what I think, what I saw, and why. Then ask why a real rocket drops its empty tanks.",
           "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now, a real rocket drops its empty tanks on the way up. Why would that help it?",
-          "kid": "Say what I think, what I saw and why. Why does a rocket drop its empty tanks?",
-          "parent": "This is claim, evidence and reasoning. A good answer: what I think: a heavier rocket goes less far with the same push. What I saw: with 20 clips the rocket flew about half as far as with none, for example. Why: the same air gives the same push, and the push has more weight to move, so it gives less speed. Then the stage question: when a tank is empty it is only dead weight. If it is dropped, the rest of the rocket is lighter, so the same engine gives it more speed.",
+          "kid": "Say what you think, what you saw and why. Why does a rocket drop its empty tanks?",
+          "parent": "This is claim, evidence and reasoning. A good answer has three parts. What I think: a heavier rocket goes less far with the same push. What I saw: for example, with 20 clips the rocket flew about half as far as with none. Why: the same air gives the same push, and the push has more weight to move, so it gives less speed. Then the question about empty tanks: when a tank is empty it is only dead weight. If it is dropped, the rest of the rocket is lighter, so the same engine gives it more speed.",
           "check": {
             "t": "mcq",
             "q": "Why does a real rocket drop its empty stage as it climbs?",
@@ -1388,7 +1388,7 @@
           "say": "Put your eye close to the small lens. Look through both at the wall. Slide the front lens back and forth, very slowly, until the picture is sharp.",
           "kid": "Look through both lenses. Slide the front lens slowly until it is sharp.",
           "adult": true,
-          "parent": "This takes patience and a steady hand. Alone, the child looks and the grown-up slides the front lens. With 2 to 4 children: one looks, one slides, one holds the stick steady on a chair, one reads the gap; swap every minute. Rest the stick on a chair or a windowsill. The picture will be upside down, with coloured edges, and a bit blurry. That is normal for simple lenses. The gap that gives a sharp picture is about the two focal lengths added together, for example 50 plus 6, so 56 centimetres. If you cannot find a sharp picture, try the other way round, or change which lens is in front.",
+          "parent": "This takes patience and a steady hand. With one child, the child looks and the grown-up slides the front lens. With 2 to 4 children: one looks, one slides, one holds the stick steady on a chair, one reads the gap; swap every minute. Rest the stick on a chair or a windowsill. The picture will be upside down, with coloured edges, and a bit blurry. That is normal for simple lenses. The gap that gives a sharp picture is about the two focal lengths added together, for example 50 plus 6, so 56 centimetres. If you cannot find a sharp picture, swap the two lenses so that the other one is in front.",
           "context": "In this step you mount the two lenses on the stick and find the gap that gives a sharp picture."
         },
         {
@@ -1397,7 +1397,7 @@
           "do": "Keep both eyes open. One eye looks through the telescope. The other looks at the wall. Count how many plain bricks fit across one magnified brick. Write the number. Then try the gap 3 centimetres shorter and 3 centimetres longer.",
           "say": "Keep both eyes open. Your brain puts the two pictures on top of each other. How many plain bricks fit across one big brick?",
           "kid": "Keep both eyes open. Count how many plain bricks fit across one big brick.",
-          "parent": "It takes a moment for the two pictures to overlap. If it is too hard, count how many bricks you see across a fixed width through the telescope, and how many with the bare eye. The ratio is the magnifying. Typically about 5 to 15 times, depending on your lenses. It should be close to the front focal length divided by the eyepiece focal length, for example 50 divided by 5 is 10. A weak 3x pocket magnifier gives a smaller number, about 6 to 8.",
+          "parent": "It takes a moment for the two pictures to overlap. If it is too hard, count how many bricks you see across a fixed width with the bare eye, and how many through the telescope. The bare-eye count divided by the telescope count is the magnifying. It is typically about 5 to 15 times, depending on your lenses. It should be close to the front focal length divided by the eyepiece focal length, for example 50 divided by 5 is 10. A weak 3x pocket magnifier gives a smaller number, about 6 to 8.",
           "check": {
             "t": "mcq",
             "q": "Each brick looks 8 times wider through your telescope. What does this number tell you?",
@@ -1413,10 +1413,10 @@
         {
           "id": "s5",
           "mins": 6,
-          "do": "Ask for what I think, what I saw and why. Then ask the question about stars.",
+          "do": "Ask your child to say three things: what I think, what I saw, and why. Then ask why stars stay as dots even in a big telescope.",
           "say": "Tell me three things. What do you think now? What did you see that shows it? And why? A big telescope magnifies more than a small one. But stars stay as dots. Why is that?",
-          "kid": "Say what I think, what I saw and why. Why do stars stay as dots?",
-          "parent": "This is claim, evidence and reasoning. A good answer: what I think: two lenses make a faraway wall look bigger and upside down. What I saw: each brick looked about 8 times wider, for example, and the picture was sharpest at one gap. Why: the front lens makes a small picture of the wall, and the eyepiece magnifies that picture, so it looks bigger. Then stars: a star is so far away that even a huge telescope shows it as a single point. A big telescope does not make a star bigger. It collects more light and splits stars that are close together.",
+          "kid": "Say what you think, what you saw and why. Why do stars stay as dots?",
+          "parent": "This is claim, evidence and reasoning. A good answer has three parts. What I think: two lenses make a faraway wall look bigger and upside down. What I saw: for example, each brick looked about 8 times wider, and the picture was sharpest at one gap. Why: the front lens makes a small picture of the wall, and the eyepiece magnifies that picture, so it looks bigger. Then the question about stars: a star is so far away that even a huge telescope shows it as a single point. A big telescope does not make a star bigger. It collects more light, and it shows stars that are close together as separate stars.",
           "check": {
             "t": "mcq",
             "q": "A front lens bends light to a point 100 centimetres away and the eyepiece bends it to a point 5 centimetres away. About how much does the telescope magnify?",
@@ -1426,7 +1426,7 @@
               "105 times"
             ],
             "a": 0,
-            "why": "Magnifying is the front lens's focal length divided by the eyepiece's focal length. 100 divided by 5 is 20. A weaker front lens or a stronger eyepiece magnifies more."
+            "why": "Magnifying is the front lens's focal length divided by the eyepiece's focal length. 100 divided by 5 is 20. A front lens with a longer focal length, or an eyepiece with a shorter one, magnifies more."
           }
         }
       ],
@@ -1529,7 +1529,7 @@
           "do": "Tape the sheets together. Mark a dot in the middle. Hold the pencil on the string 6.4 centimetres from the dot, and draw a full circle. This is the Earth. Now draw a circle with a radius of 6.8 centimetres. This is the space station.",
           "say": "Hold the string tight at the dot and swing the pencil all the way round. That is the Earth. Now make the string a little longer, 6.8 centimetres. That circle is the space station.",
           "kid": "Draw the Earth, 6.4 centimetres from the middle. Then the station, 6.8.",
-          "parent": "The station's circle is only 4 millimetres outside the Earth's. It almost touches the line. Alone, the child holds the string end on the dot with a finger while the grown-up helps, or tape the string end to the dot. With 2 to 4 children: one holds the dot, one draws; swap for each circle. This is how close the space station is to the ground on a map of the real sizes.",
+          "parent": "The station's circle is only 4 millimetres outside the Earth's circle, so the two lines almost touch. On a map of the real sizes, this is how close the space station is to the ground. With one child, the child holds the string end on the dot with a finger while the grown-up helps, or you can tape the string end to the dot. With 2 to 4 children: one holds the dot, one draws; swap for each circle.",
           "check": {
             "t": "mcq",
             "q": "On the map the space station's circle is almost touching the Earth's circle. What does this tell you?",
@@ -1546,9 +1546,9 @@
           "id": "s3",
           "mins": 9,
           "do": "Draw two more circles. One has a radius of 26.6 centimetres, for the GPS navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.",
-          "say": "Now two much bigger circles. The GPS navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which circle is slower to go round?",
+          "say": "Now two much bigger circles. The GPS navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which satellites take longer to go round?",
           "kid": "Draw two big circles, 26.6 and 42.2 centimetres. Write the lap times.",
-          "parent": "The numbers are 6,371 plus 20,200, and 6,371 plus 35,786. The bigger the circle, the longer the lap.",
+          "parent": "Each radius is the Earth's radius plus the height of the orbit: 6,371 plus 20,200 kilometres, and 6,371 plus 35,786 kilometres. The bigger the circle, the longer the lap.",
           "context": "In this step you add the higher orbits and their lap times."
         },
         {
@@ -1652,10 +1652,10 @@
         {
           "id": "s3",
           "mins": 9,
-          "do": "Whisper five different numbers each time and count how many are heard right. Stand as far apart as the string allows, about 4 metres, with the string pulled tight. One person whispers into a cup. The other holds the other cup to their ear. Then let the string go slack and try again. Then pinch the string with a finger and try again.",
+          "do": "Stand as far apart as the string allows, about 4 metres, with the string pulled tight. One person whispers five different numbers into a cup. The other holds the other cup to their ear. Count how many numbers are heard right. Then let the string go slack and try again. Then pinch the string with a finger and try again.",
           "say": "Pull the string tight and whisper a number into your cup. Can your friend hear it? Now let the string go loose. Now pinch the string. What changes?",
           "kid": "Whisper into the cup. Try tight, slack and pinched. What do you hear?",
-          "parent": "Alone, the child whispers and the grown-up listens, then swap. With 2 to 4 children: one whispers, one listens, one pinches the string, one writes the score out of 5. Typical result, not promised: tight works well, slack gets fewer right, and pinched gets almost none. Expected: it works when tight, it fades or fails when slack, and it stops or goes quiet when the string is pinched. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.",
+          "parent": "With one child, the child whispers and the grown-up listens, then swap. With 2 to 4 children: one whispers, one listens, one pinches the string, one writes the score out of 5. What usually happens, though not every time: a tight string works well, a slack string gets fewer right, and a pinched string gets almost none. The sound is a shaking that passes along the string. A slack string cannot pass the shaking well.",
           "check": {
             "t": "mcq",
             "q": "Why does the phone stop working when the string is pinched?",
@@ -1671,9 +1671,9 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Ask for what I think, what I saw and why. Then ask about space.",
-          "say": "Tell me three things. What do you think now? What did you hear that shows it? And why? In space there is almost nothing between the rocket and a person. Could you hear it?",
-          "kid": "Say what I think, what I saw and why. Could you hear a rocket in space?",
+          "do": "Ask your child to say three things: what I think, what I heard, and why. Then ask whether a person could hear a rocket in space.",
+          "say": "Tell me three things. What do you think now? What did you hear that shows it? And why? In space there is almost nothing between a rocket and a person. Could the person hear the rocket?",
+          "kid": "Say what you think, what you heard and why. Could you hear a rocket in space?",
           "parent": "A good answer: sound needs something to shake, such as air, string or water. In space there is almost nothing, so sound cannot travel. Astronauts talk by radio, and radio waves are a kind of light that needs nothing to carry them.",
           "check": {
             "t": "mcq",
@@ -1748,7 +1748,7 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Stand the bowls on their sides on two low tables, 2 metres apart, with their open faces towards each other. Make sure both face the other's middle. One person sits behind each bowl.",
+          "do": "Stand the bowls on their sides on two low tables, 2 metres apart, with their open faces towards each other. Make sure each bowl faces the middle of the other. One person sits behind each bowl.",
           "say": "Tilt each bowl so that its open face looks straight at the other bowl. One of you whispers a number into the middle of your bowl. The other puts an ear close to the middle of the other bowl.",
           "kid": "Face the bowls at each other. Whisper into one. Listen at the other.",
           "parent": "The bowls need to be smooth and deep. If you cannot hear anything, bring the bowls closer, to 1 metre, and use a soft voice rather than a whisper. Switch off fans and the TV, and try it late in the evening when the house is quiet. Kitchen bowls give a small effect, not a loud one. For a steady sound, put a ticking watch or a soft phone tone at the middle of the first bowl.",
@@ -1760,7 +1760,7 @@
           "do": "Whisper a number. Your friend listens with the ear right at the middle of the bowl. Then move the ear 15 centimetres to the left or right, and whisper again. Then listen with no bowl at all, just across the room. At each place, whisper five different numbers and count how many are heard right.",
           "say": "Whisper the number. Can your friend say it back? Now they move their ear off to the side. Is it still loud? Now with no bowls at all?",
           "kid": "Whisper a number. Try listening in the middle, at the side, and with no bowl.",
-          "parent": "Expected: it is clearest with the ear at the middle of the bowl, weaker off to the side, and hardest with no bowl. The curved bowl bounces the sound so that it all arrives at one spot. Alone, the child listens and the grown-up whispers, then swap. With 2 to 4 children: one whispers, one listens, one moves the ear position, one writes the scores out of 5; swap after each place. If you hear little difference, move the bowls to 1 metre, try a larger bowl, or use the ticking watch. A small difference is still a true result, so write it down.",
+          "parent": "What usually happens: the whisper is clearest with the ear at the middle of the bowl, weaker off to the side, and hardest to hear with no bowl. The curved bowl bounces the sound so that it all arrives at one spot. With one child, the child listens and the grown-up whispers, then swap. With 2 to 4 children: one whispers, one listens, one moves the ear position, one writes the scores out of 5; swap after each place. If you hear little difference, move the bowls to 1 metre apart, try a larger bowl, or use a ticking watch. A small difference is still a true result, so write it down.",
           "check": {
             "t": "mcq",
             "q": "Why is the whisper loudest when the ear is at the middle of the bowl?",
@@ -1776,9 +1776,9 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Ask for what I think, what I saw and why. Then ask about the GMRT.",
+          "do": "Ask your child to say three things: what I think, what I heard, and why. Then ask what the dish of a radio telescope gathers, and where its receiver goes.",
           "say": "Tell me three things. What do you think now? What did you hear that shows it? And why? A radio telescope is a huge dish. What do you think it gathers, and where does the receiver go?",
-          "kid": "Say what I think, what I saw and why. Where does a radio dish put its receiver?",
+          "kid": "Say what you think, what you heard and why. Where does a radio dish put its receiver?",
           "parent": "A good answer: the dish gathers radio waves from space and bounces them to a single spot. The receiver sits at that spot, as the ear did. A bigger dish gathers more and gives a clearer signal, which is why the GMRT near Pune has dishes 45 metres wide.",
           "check": {
             "t": "mcq",
@@ -1853,7 +1853,7 @@
           "do": "Cut a strip 4 millimetres long for Apollo 11. Cut one 40 millimetres long for Chandrayaan-3. Cut one 126 millimetres long for Aditya-L1. Cut one 320 millimetres long for Mangalyaan.",
           "say": "One millimetre for each day. Apollo 11 is 4 millimetres. Chandrayaan-3 is 4 centimetres. Aditya-L1 is 12 centimetres and 6 millimetres. Mangalyaan is 32 centimetres.",
           "kid": "Cut four strips. One millimetre for each day.",
-          "parent": "With 2 to 4 children, each cuts one journey strip, then lay them together; alone, cut all four. Make the cuts as exact as you can. 4 millimetres is very short, about the width of a pencil. It makes a point.",
+          "parent": "With 2 to 4 children, each child cuts one strip, and then they lay the strips together. One child alone cuts all four. Make the cuts as exact as you can. The Apollo 11 strip is only 4 millimetres long, about the width of a pencil. Seeing how short it is next to the others is the point.",
           "context": "In this step you measure and cut the four strips."
         },
         {
@@ -1926,7 +1926,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space, let the child blow only into the straw, and never suck in through it, because the rocket or the clay could be breathed in. Keep the clay away from children under five.",
+      "safety": "A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space. The child only blows into the straw and never sucks in through it, because the rocket or the clay could be breathed in. Keep the clay away from children under five.",
       "schedule": [
         {
           "day": 1,
@@ -1992,15 +1992,15 @@
           "say": "Slide the rocket onto the straw. Aim at the empty space. Take a breath and blow one sharp puff. Where did it land? Did it fly nose first, or tumble?",
           "kid": "Put the rocket on the straw. Aim at an empty space. Blow sharply.",
           "adult": true,
-          "parent": "Keep the same breath each time: one short hard puff. Do not aim at anyone. Typical, not promised: the plain rocket may fly well or may wobble and tumble, fins tend to keep the nose pointing forward, and a clay nose may fly straighter but shorter. If all three fly alike, that is a result too. Let one child blow all nine launches, or let each child blow all three rockets and compare within that child, because breath strength differs. Others mark the landing and measure. Your own results decide. Write them down as they are.",
+          "parent": "Keep the same breath each time: one short hard puff. Do not aim at anyone. What usually happens, though not every time: the plain rocket may fly well or may wobble and tumble, fins tend to keep the nose pointing forward, and a clay nose may fly straighter but shorter. If all three fly alike, that is a result too. Breath strength differs from child to child. So let one child blow all nine launches, or let each child blow all three rockets and compare only that child's own three. The others mark the landing and measure. Your own results decide. Write them down as they are.",
           "context": "In this step you launch each rocket three times and measure how far and how straight it flew."
         },
         {
           "id": "s5",
           "mins": 7,
-          "do": "Ask for what I think, what I saw and why. Then ask how real rockets steer.",
+          "do": "Ask your child to say three things: what I think, what I saw, and why. Then ask how a real rocket steers where there is no air.",
           "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Real rockets fly where there is no air, so fins cannot push on anything. How might a real rocket keep pointing the right way?",
-          "kid": "Say what I think, what I saw and why. How does a rocket steer without air?",
+          "kid": "Say what you think, what you saw and why. How does a rocket steer without air?",
           "parent": "A good answer: fins keep the tail behind the nose, because air pushes on them if the rocket starts to turn sideways. That is true in air. In space there is no air, so real rockets steer by tilting their engines, or by firing small thrusters. Rockets such as India's PSLV steer partly by tilting their engine nozzles, a method called thrust vectoring.",
           "check": {
             "t": "mcq",
@@ -2041,7 +2041,7 @@
       "id": "c1",
       "title": "Soft Landing: land five coins from one metre without a bounce",
       "mins": 40,
-      "problem": "Build a lander out of home things. A stack of five coins must ride inside it. A grown-up drops the lander from one metre. The coins must stay in a tidy stack inside, and the lander must stay the right way up.",
+      "problem": "Build a lander out of things you have at home. A stack of five coins must ride inside it. A grown-up drops the lander from one metre. The coins must stay in a tidy stack inside, and the lander must stay the right way up.",
       "constraints": [
         "Use only paper, cups, straws, rubber bands, cotton wool or tissue, string and tape.",
         "The lander must be no taller than 20 centimetres.",
@@ -2110,7 +2110,7 @@
           "say": "Build your first lander. Load the coins. Now the drop. Did the coins stay in a stack? Did the lander stay the right way up?",
           "kid": "Build your lander. Drop it from one metre. What happened to the coins?",
           "adult": true,
-          "parent": "Drop onto a hard floor from exactly one metre, and hold the lander level. Use the same kind of coin every time (Rs 1 or Rs 2). With 2 to 4 children, each builds their own lander and the grown-up drops all of them from the same height; then compare successes out of 3. Alone, build two designs and compare. The first number is the one to beat. Do not worry if the first one fails. Engineers learn most from a lander that fails.",
+          "parent": "Drop onto a hard floor from exactly one metre, and hold the lander level. Use the same kind of coin every time (Rs 1 or Rs 2). With 2 to 4 children, each builds their own lander and the grown-up drops all of them from the same height; then compare successes out of 3. With one child, build two designs and compare. The first design's score is the one to beat. Do not worry if the first one fails. Engineers learn most from a lander that fails.",
           "context": "In this step you build your first design and test it."
         },
         {
@@ -2195,7 +2195,7 @@
           "do": "Draw the table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.",
           "say": "Give each place a score from 0 to 3 for each need. A high score is good. Add them up. Which place wins?",
           "kid": "Give each place a score. Add them up.",
-          "parent": "With 2 to 4 children, each argues for a different place first, then you score together. Alone, argue both sides. There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why."
+          "parent": "With 2 to 4 children, each argues for a different place first, then you score together. With one child, ask them to argue for two different places. There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why."
         },
         {
           "id": "s3",
@@ -2212,7 +2212,7 @@
               "Mountains are warmer"
             ],
             "a": 0,
-            "why": "A high place has less air above it, so light is blurred less. It also has less water vapour, which blocks infrared, and often fewer clouds. The extra height does not bring you meaningfully closer to the stars."
+            "why": "A high place has less air above it, so light is blurred less. It also has less water vapour, which blocks infrared, and often fewer clouds. The extra height does not bring you noticeably closer to the stars."
           }
         }
       ]
@@ -2234,7 +2234,7 @@
             "The air holds it up"
           ],
           "a": 1,
-          "why": "Gravity is still pulling the station, with about nine tenths of its pull on the ground. The station falls all the time, but its sideways speed of about 8 kilometres a second carries it past the curve of the Earth. Picking 'no gravity' is a very common mix-up.",
+          "why": "Gravity is still pulling the station, about nine tenths as strongly as on the ground. The station falls all the time, but its sideways speed of about 8 kilometres a second carries it past the curve of the Earth. Picking 'no gravity' is a very common mix-up.",
           "outcome": 0
         },
         {
@@ -2453,15 +2453,15 @@
           "p": "More and more satellites are launched each year, and old ones become junk. A town meeting is discussing what to do.",
           "views": [
             {
-              "who": "Meera, a satellite engineer",
+              "who": "A satellite engineer",
               "says": "Every new satellite should be built to drop out of orbit when it dies, and the law should make companies do it."
             },
             {
-              "who": "Farah, who runs a small satellite company",
+              "who": "The owner of a small satellite company",
               "says": "Strict rules make launches too costly. Small companies and small countries would lose their chance to use space."
             },
             {
-              "who": "Lakshmi, a teacher",
+              "who": "A teacher",
               "says": "Space belongs to everyone. All countries should share the cost of tracking and cleaning up the junk."
             }
           ],
@@ -2487,7 +2487,7 @@
           "t": "write",
           "p": "A ship sails away from the shore, and its hull disappears before its sail. How does this show that the sea curves?",
           "lines": 3,
-          "a": "If the sea were flat, the whole ship would shrink to a dot together. Because the sea curves, the bottom is hidden behind the bulge first, and the high sail is seen last.",
+          "a": "If the sea were flat, the whole ship would get smaller together until it was a dot. Because the sea curves, the bottom is hidden behind the bulge first, and the high sail is seen last.",
           "why": "A strong answer says that a curve hides the low parts first, which a flat sea would not do. This is why the ground drops away below a fast-moving satellite.",
           "outcome": 0
         },
@@ -2521,7 +2521,7 @@
         },
         {
           "t": "write",
-          "p": "Your front lens makes the picture brighter when it is wider, and your telescope magnifies more when the front lens has a longer focal length. Explain each in one sentence.",
+          "p": "A wider front lens makes the picture brighter. A front lens with a longer focal length makes the telescope magnify more. Explain each in one sentence.",
           "lines": 3,
           "a": "A wider front lens catches more light, so the picture is brighter. A front lens with a longer focal length makes a bigger picture for the eyepiece to magnify, so the telescope magnifies more.",
           "why": "A strong answer keeps the two jobs apart: width is about light and detail, focal length is about how big the picture is.",
@@ -2548,7 +2548,7 @@
           "t": "draw",
           "p": "Draw a satellite going round the Earth. Draw an arrow for the way it is moving and an arrow for the pull of gravity.",
           "a": "A circle for the Earth and a satellite on the circle's edge. One arrow along the path, sideways. One arrow pointing from the satellite towards the middle of the Earth.",
-          "why": "A strong drawing shows the two arrows at right angles. Gravity pulls it towards the Earth and its speed carries it sideways, so the path curves round.",
+          "why": "A strong drawing shows the two arrows at right angles. Gravity pulls the satellite towards the Earth and its speed carries it sideways, so the path curves round.",
           "art": "A blank circle for the Earth and a dotted ring around it.",
           "outcome": 0
         },
@@ -2701,7 +2701,7 @@
           "t": "write",
           "p": "A friend says that astronauts float because there is no gravity on the space station. What would you say to her, and what evidence would you give?",
           "lines": 4,
-          "a": "Gravity at the station's height is still about nine tenths of what it is on the ground. The station would fall straight back if it stopped moving sideways. The astronauts float because they and the station fall together round the Earth, so the floor does not push on them. The marble test shows the same kind of falling with sideways speed.",
+          "a": "Gravity at the station's height is still about nine tenths of what it is on the ground. The station would fall straight back if it stopped moving sideways. The astronauts float because they and the station fall together round the Earth, so the floor does not push on them. The Falling Sideways test with marbles shows the same kind of falling with sideways speed.",
           "why": "A strong answer gives the number, says what really happens, and uses the idea of falling together.",
           "outcome": 0
         },
@@ -2723,15 +2723,15 @@
           "p": "A company wants to dig up ice on the Moon and sell the water to space travellers. A meeting is discussing who may own what is dug up.",
           "views": [
             {
-              "who": "Kavitha, an engineer in a mining company",
+              "who": "An engineer in a mining company",
               "says": "Whoever pays for the mission and does the digging should own what they dig, or no company will go."
             },
             {
-              "who": "Rahima, a lawyer",
+              "who": "A lawyer",
               "says": "The Outer Space Treaty says no country can claim the Moon. We need new agreements before the first mine, not after."
             },
             {
-              "who": "Neha, a student",
+              "who": "A student",
               "says": "The Moon belongs to everyone. Its water should be shared, like the oceans, and not sold to the highest bidder."
             }
           ],
@@ -2755,7 +2755,7 @@
         },
         {
           "t": "write",
-          "p": "In the balloon test, 20 clips cut the flight by more than half. Use this to explain why the satellite on top of a rocket is only a few percent of its weight.",
+          "p": "In the Loaded Balloon Rocket test, 20 clips cut the flight by more than half. Use this to explain why the satellite on top of a rocket is only a few percent of its weight.",
           "lines": 4,
           "a": "Every extra bit of weight needs extra push to move, and the push comes from fuel that also has weight and also has to be lifted. So adding payload needs more fuel, which needs even more fuel to lift it. The result is that the rocket is mostly fuel, and the payload is only a small part.",
           "why": "A strong answer connects the weight of the payload to the extra fuel needed, and the fuel that lifts that fuel.",
@@ -2861,7 +2861,7 @@
           "t": "write",
           "p": "Isaac Newton asked whether the pull that drops an apple also reaches the Moon. How could he check this idea with numbers?",
           "lines": 4,
-          "a": "The Moon is about 60 times farther from the Earth's centre than an apple. Gravity should be 60 times 60 weaker there. He worked out how far the Moon should fall each second under that weaker pull, and checked that this matched the way the Moon's path curves as it moves sideways.",
+          "a": "The Moon is about 60 times farther from the Earth's centre than an apple. So gravity should be 60 times 60, or 3,600 times, weaker there. He worked out how far the Moon should fall each second under that weaker pull, and checked that this matched the way the Moon's path curves as it moves sideways.",
           "why": "A strong answer says that the pull gets weaker with distance, and that the number was tested against the Moon's real path.",
           "outcome": 0
         },
@@ -2899,7 +2899,7 @@
   "quiz": [
     {
       "t": "mcq",
-      "p": "Gul throws a ball sideways from the top of a cliff, and it curves down to the ground. What would she have to change for it to go all the way round the Earth?",
+      "p": "You throw a ball sideways from the top of a cliff, and it curves down to the ground. What would you have to change for it to go all the way round the Earth?",
       "opts": [
         "Throw it much, much faster, at about 8 kilometres a second",
         "Throw it from higher up",
@@ -2930,7 +2930,7 @@
         "Letting some air out first"
       ],
       "a": 0,
-      "why": "A lighter rocket gets more speed from the same push. In the test, every extra clip shortened the flight.",
+      "why": "A lighter rocket gets more speed from the same push. In the Loaded Balloon Rocket test, every extra clip shortened the flight.",
       "outcome": 2,
       "how": "e2"
     },
@@ -2938,7 +2938,7 @@
       "t": "mcq",
       "p": "Why is most of a big rocket's weight at lift-off made up of propellant?",
       "opts": [
-        "It must throw away a lot of gas to reach a speed greater than the gas speed, and it must lift its own fuel",
+        "It needs a speed far greater than the speed of its gas, so it must throw out a lot of gas, and it must lift its own fuel",
         "Propellant is lighter than the rocket body",
         "Rockets are built to look big"
       ],
@@ -3049,7 +3049,7 @@
       "channel": "Debbink Physics",
       "youtube": "8bEwClJBMGA",
       "mins": 5,
-      "why": "To see Newton's cannon drawn and animated, so that the idea of falling and missing becomes clear after the marble test.",
+      "why": "To see Newton's cannon drawn and animated, so that the idea of falling and missing becomes clear after the Falling Sideways test.",
       "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
     },
     {
@@ -3154,7 +3154,7 @@
   "ask_kids": [
     "Why does a stone you throw always land, but a satellite does not?",
     "If you could throw a ball at 8 kilometres a second, where would it go?",
-    "Why is the space station not stuck in the air with a rope?",
+    "Why does the space station not need a rope to hold it up?",
     "What would you pack in a rocket if every kilogram cost a lot of fuel?",
     "Why can a radio dish work in the daytime when an ordinary telescope cannot?",
     "What would you want to see in the sky through the biggest telescope in the world?",
@@ -3207,7 +3207,7 @@
   ],
   "maths": [
     {
-      "problem": "On your orbit map, 1 centimetre stands for 1,000 kilometres. The geostationary circle is 42.2 centimetres from the middle, and the Earth's edge is 6.4 centimetres from the middle. How many kilometres above the ground is a geostationary satellite?",
+      "problem": "On the map in the Orbit Map activity, 1 centimetre stands for 1,000 kilometres. The geostationary circle is 42.2 centimetres from the middle, and the Earth's edge is 6.4 centimetres from the middle. How many kilometres above the ground is a geostationary satellite?",
       "answer": "About 35,800 kilometres.",
       "explain": "42.2 take away 6.4 is 35.8 centimetres on the map. Each centimetre is 1,000 kilometres, so 35.8 centimetres is 35,800 kilometres.",
       "math_unit": "math.measurement-basics.scale.L4",
@@ -3288,11 +3288,11 @@
       "answer": "About 175 times, or about 170 times faster.",
       "explain": "28,000 divided by 160 is 175. So the satellite is roughly 170 to 175 times as fast as the train.",
       "math_unit": "math.division.multi-digit.L4",
-      "context": "In the explanation of how fast and how long a lap, a very fast Indian train was used as a comparison.",
+      "context": "In the explanation of how fast a satellite moves, a very fast Indian train was used as a comparison.",
       "why_maths": "Dividing one speed by another gives a plain 'how many times faster', which helps you picture a speed you have never felt."
     },
     {
-      "problem": "In your telescope, the front lens has a focal length of 120 centimetres and the eyepiece has a focal length of 6 centimetres. It magnifies 20 times. You swap the eyepiece for a stronger one, to magnify 30 times with the same front lens. What focal length should the new eyepiece have?",
+      "problem": "In a two-lens telescope, the front lens has a focal length of 120 centimetres and the eyepiece has a focal length of 6 centimetres. It magnifies 20 times. You swap the eyepiece for a stronger one, to magnify 30 times with the same front lens. What focal length should the new eyepiece have?",
       "answer": "4 centimetres.",
       "explain": "Magnifying is the front focal length divided by the eyepiece focal length. 120 divided by 6 is 20. For 30 times, 120 divided by 30 is 4. A stronger eyepiece has a shorter focal length.",
       "math_unit": "math.division.multi-digit.L4",
@@ -3404,7 +3404,7 @@
     },
     {
       "q": "Why does a rocket drop its empty stages?",
-      "a": "They are dead weight."
+      "a": "Empty stages are dead weight. Dropping them makes the rest easier to speed up."
     },
     {
       "q": "At what height does a satellite stay over one spot?",

@@ -4,12 +4,12 @@
  "level": 4,
  "playtest": "Read step by step as a parent and child in a city flat would use it. Everything in the spine, the ripening bag test, uses mangoes, a banana and paper bags. Not yet run at home: please check these. First, the gap between the three mangoes can be small, one or two days, so choose the hardest green mangoes and a very ripe banana, and say so if the mangoes look the same. Second, in the leaf test, the order of yellowing, with the banana box first, then the dark box, then the light, is expected but not certain. Third, money plant cuttings usually root in a week to ten days, and a cutting with a leaf is expected to root best, but the leafless ones may root just as well. Fourth, the marigold project needs eight weeks and a sunny balcony, and with only three plants in each group, the difference can be small. Fifth, the fern spore step needs a fern with ripe brown dots, and growing the spores is optional and may not work. Sixth, the tomato test depends on the room's warmth. The two games have their cards written out in full, and One Season or Many can be played alone. Feasibility review: mangoes are out of season for part of the year, so the ripening tests also work with green bananas from one hand. The tomato test now runs to day 12 because shop tomatoes can be slow. Still to check at home: the leaf-yellowing order, how long money plant and fern spore steps take in your weather, and the marigold difference with only three plants per group.",
  "summary": {
-  "text": "A hard green mango sits in a paper bag with a very ripe banana. The two never touch, yet the mango turns soft and yellow days before a mango left alone. Something travels through the air between them. Your child tests the ripening gas, watches leaves give up their green, and roots cuttings from nodes. Then the unit looks at the whole shape of a plant's life: plants that flower for one season or many, plants that save food for a second year, ferns that grow from dust, and trees that keep a diary in their rings.",
+  "text": "A hard green mango sits in a paper bag with a very ripe banana. The two never touch, yet the mango turns soft and yellow days before a mango left alone. A gas travels through the air between them. In this unit your child tests that ripening gas, finds out why leaves turn yellow, and grows new money plants from cuttings. Then the unit looks at a plant's whole life: plants that flower in one season or many, plants that store food for a second year, ferns that grow from spores as fine as dust, and trees whose rings record how good each year was.",
   "art": "Two paper bags on a kitchen counter. In one, a green mango leans on a spotted yellow banana. In the other, a green mango sits alone. A hand presses the first mango, which is soft."
  },
  "intro": {
   "hook": "Take two hard green mangoes. Put one in a paper bag with a very ripe banana. Put the other in a paper bag alone. Wait four days and press both. The mango that sat with the banana is usually softer. The banana never touched it. So how could one fruit change the other?",
-  "text": "Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit next to them. In this unit you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.",
+  "text": "Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit nearby. In this unit you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.",
   "art": "A kitchen shelf with a ripe banana beside a mango, and faint wavy lines in the air between them, drawn as if you could see the gas."
  },
  "outcomes": [
@@ -39,7 +39,7 @@
   {
    "term": "Senescence",
    "meaning": "The planned ageing of a leaf, a fruit or a whole plant. The plant takes the leaf apart in an orderly way and moves useful materials to other parts.",
-   "example": "A yellowing leaf in autumn or dry season is in senescence.",
+   "example": "A leaf turning yellow in autumn or in the dry season is in senescence.",
    "art": "A leaf that is green at the stalk and yellow at the tip, with small arrows moving from the leaf into the stem."
   },
   {
@@ -138,7 +138,7 @@
    "concept": "What ripening is, and why fruit do it",
    "status": "defined",
    "definition": "Ripening is a set of changes that turns a hard, sour, green fruit into a soft, sweet, scented, coloured one. It happens when the seeds inside are ready to travel.",
-   "description": "A raw mango is hard, green and sour. This helps the fruit, because animals leave the fruit alone until the seeds are ready. When the seeds are ready, the fruit changes. Enzymes cut the starch stored in the fruit into sugar, so the fruit tastes sweet. Other enzymes loosen the walls between the cells, so the fruit gets soft. The green chlorophyll is taken apart, and yellow and orange substances that were hidden underneath show, or new red ones are made, as in a tomato. Acids fall, so the sour taste fades. Tiny scent molecules are made, and these are what you smell from across a room. Each change is a signal to a bird, a bat, a monkey or a person that the fruit is ready to eat. The animal carries the seeds away. Ripening is a fruit asking to be eaten.",
+   "description": "A raw mango is hard, green and sour. This helps the fruit, because animals leave the fruit alone until the seeds are ready. When the seeds are ready, the fruit changes. Enzymes, which are substances that speed up changes inside living things, cut the starch stored in the fruit into sugar, so the fruit tastes sweet. Other enzymes loosen the walls between the cells, so the fruit gets soft. The green chlorophyll is taken apart. Then the yellow and orange substances that were hidden under the green begin to show. In some fruit, such as a tomato, new red substances are made. The amount of acid falls, so the sour taste fades. Tiny scent molecules are made, and these are what you smell from across a room. Each change is a signal to a bird, a bat, a monkey or a person that the fruit is ready to eat. The animal carries the seeds away. Ripening is a fruit asking to be eaten.",
    "examples": [
     "A green banana is starchy and hard. A yellow banana is sugary and soft.",
     "A green tomato turns red as a red substance called lycopene is made.",
@@ -150,7 +150,7 @@
   {
    "concept": "Ethylene: the ripening gas",
    "status": "defined",
-   "definition": "Ethylene is a gas that plants make. It is a hormone that travels through the air, and it tells fruit to ripen. Ripe fruit make a lot of it.",
+   "definition": "Ethylene is a gas that plants make. It is a hormone, which is a chemical signal. It travels through the air and tells fruit to ripen. Ripe fruit make a lot of it.",
    "description": "Ethylene is one of the simplest chemicals a plant makes, with just two carbon atoms and four hydrogen atoms. A raw fruit makes a tiny amount. When the fruit begins to ripen, the fruit makes much more, and the gas drifts out into the air. A raw fruit nearby can sense the gas with receptors, which are proteins that catch it. In 1993, a team that included Caren Chang found the first of these receptors in a small plant. Sensing the gas makes the raw fruit make ethylene too, so the ripening spreads like a chain reaction. Fruit that ripen like this after they are picked, such as banana, mango, papaya, tomato, guava, apple and sapota, are called climacteric. Fruit such as grapes, oranges, pineapple, strawberries and watermelon do not ripen more after picking. Ethylene also yellows leaves and makes flowers and leaves drop. In sealed plant chambers, such as those used in space research, the gas has to be removed, or it builds up and harms the plants.",
    "examples": [
     "A ripe banana in a closed bag speeds up a raw mango, a raw papaya or a hard green tomato in the same bag.",
@@ -178,7 +178,7 @@
    "status": "debated",
    "description": "Ethylene is one gas that plants send into the air, and many plants release other scent molecules when a caterpillar chews them. In 1983, two American scientists, Ian Baldwin and Jack Schultz, reported that poplar and sugar maple saplings with chewed leaves seemed to warn untouched saplings nearby. The untouched saplings made more bitter chemicals in their leaves. Later experiments on wild sagebrush by Rick Karban and others also found that plants near a damaged plant suffered less damage. Plants can sense and answer these gases. Scientists still argue about what to call it, and some of the early experiments were hard to repeat. The question is whether a damaged plant is warning others, or whether the neighbours are only overhearing a smell.",
    "examples": [
-    "A raw fruit senses ethylene from a ripe fruit next to them and starts to ripen.",
+    "A raw fruit senses ethylene from a ripe fruit nearby and starts to ripen.",
     "Cut grass gives out a fresh smell, which is a chemical alarm that other plants nearby can sense.",
     "Sagebrush near a damaged sagebrush was chewed less by insects."
    ],
@@ -198,7 +198,7 @@
    "concept": "A leaf's last job: senescence",
    "status": "defined",
    "definition": "Senescence is the planned ageing of a leaf. The plant takes the leaf apart in order and moves the useful materials to the stem, the roots or the seeds.",
-   "description": "A leaf does not simply die. It is taken apart, like a shop being emptied before closing. First the green chlorophyll is broken down, and the nitrogen it contains is sent out through the leaf stalk. Yellow and orange substances were hidden in the leaf all along, and they show once the green goes. Proteins are cut up and moved, and sugars and minerals follow. At last the leaf stalk seals itself, and the empty leaf falls. In a crop such as wheat or rice, a large part of the nitrogen in the grains is moved there from older leaves, according to measurements. A leaf that is kept in the dark cannot make food, and it is taken apart much sooner than a leaf in the light. Ethylene speeds the process up. That is why a bunch of palak yellows faster in a closed dark cupboard next to ripe bananas.",
+   "description": "A leaf does not simply die. It is taken apart, like a shop being emptied before closing. First the green chlorophyll is broken down, and the nitrogen it contains is sent out through the leaf stalk. Yellow and orange substances were hidden in the leaf all along, and they show once the green goes. Proteins are cut up and moved, and sugars and minerals follow. At last the leaf stalk seals itself, and the empty leaf falls. Measurements show that in a crop such as wheat or rice, a large part of the nitrogen in the grains has moved there from older leaves. A leaf that is kept in the dark cannot make food, and it is taken apart much sooner than a leaf in the light. Ethylene speeds the process up. That is why a bunch of palak yellows faster in a closed dark cupboard next to ripe bananas.",
    "examples": [
     "A moong plant's lower leaves turn yellow while the pods fill. Their materials are moving into the seeds.",
     "A covered patch of a leaf goes yellow while the uncovered part stays green.",
@@ -220,7 +220,7 @@
    "perspectives": [
     {
      "who": "Scientists who favour the food-drain idea",
-     "explanation": "The seeds are a big sink for nitrogen and sugar. The plant pulls everything out of the leaves to fill them, and the leaves, left empty, yellow and drop. Plants that cannot get more food from the soil run out first."
+     "explanation": "The seeds take in a great deal of nitrogen and sugar. The plant pulls everything out of the leaves to fill the seeds, and the emptied leaves turn yellow and drop. Plants that cannot get more food from the soil run out first."
     },
     {
      "who": "Scientists who favour the signal idea",
@@ -231,7 +231,7 @@
   {
    "concept": "Annual, biennial and perennial: three ways to spend a life",
    "status": "defined",
-   "definition": "An annual finishes its life cycle in one year or less. A biennial takes two years, with leaves and food storage in the first year and flowers in the second. A perennial lives for many years and flowers in many seasons.",
+   "definition": "An annual finishes their life cycle in one year or less. A biennial takes two years, with leaves and food storage in the first year and flowers in the second. A perennial lives for many years and flowers in many seasons.",
    "description": "Moong, rice, palak, coriander and marigold are annuals. Carrot, beetroot, cabbage and onion are biennials. In the first year a biennial makes leaves and stores food in a swollen root or bulb. In the second year they use that stored food to send up a flower stalk, set seed and die. We usually eat them in their first year, before they flower. Mango, neem, coconut and banyan are perennials. The groups are not fixed. A tomato plant is a perennial in the tropics but is grown as an annual because the plant gets diseased with age. A chilli plant can live for several years if looked after. A castor plant grows as a small annual in a field but can become a small tree in a warm place. So length of life depends on the place and the care as well as on the kind of plant.",
    "examples": [
     "Annual: moong, rice, wheat, palak and marigold.",
@@ -245,7 +245,7 @@
    "concept": "One big flowering or many small ones",
    "status": "defined",
    "definition": "Some plants flower only once in a lifetime and then die. Scientists call them monocarpic. Others flower in many seasons. Scientists call them polycarpic.",
-   "description": "A moong plant flowers for a few weeks and dies, so moong is monocarpic. A mango tree flowers every year for decades, so mango is polycarpic. Some long-lived plants wait for years, flower once and then die. An agave, the century plant, grows a rosette of thick leaves for ten to thirty years, then sends up a tall flower stalk and dies. The Mizoram bamboo and the talipot palm do the same. Each plant makes a choice, in the way that every living thing has to, between spending their energy on growing, which keeps the plant alive, and on seeds, which make new plants. A plant that flowers many times spreads their effort over the years. A plant that flowers once puts everything into one big bet. Banana is a mix. Each banana stem flowers once and dies, but the clump sends up new stems through suckers and carries on. Other living things make the same choice. Pacific salmon swim upstream, spawn once and die.",
+   "description": "A moong plant flowers for a few weeks and dies, so moong is monocarpic. A mango tree flowers every year for decades, so mango is polycarpic. Some long-lived plants wait for years, flower once and then die. An agave, the century plant, grows a rosette of thick leaves for ten to thirty years, then sends up a tall flower stalk and dies. The Mizoram bamboo and the talipot palm do the same. Every living thing has only so much energy. A plant can spend energy on growing, which keeps the plant alive, or on seeds, which make new plants. A plant that flowers many times spreads the effort over the years. A plant that flowers once puts everything into one big flowering. Banana is a mix. Each banana stem flowers once and dies, but the clump sends up new stems through suckers and carries on. Other living things make the same choice. Pacific salmon swim upstream, spawn once and die.",
    "examples": [
     "Monocarpic: moong, rice, sunflower, agave, talipot palm and the Mizoram bamboo.",
     "Polycarpic: mango, neem, coconut, banyan and peepal.",
@@ -258,7 +258,7 @@
    "concept": "Saving up for the second year",
    "status": "defined",
    "definition": "Many plants swell a root, stem or bulb to store food for a time when they cannot make it. The plant uses the stored food to restart after the dry or cold season. We eat many of these stores.",
-   "description": "A carrot is a swollen root. Beetroot is another one. A potato is a swollen underground stem, an onion is a bulb made of thick leaf bases, and ginger and turmeric are rhizomes, which are thick underground stems that grow sideways. All of these are savings. The plant makes sugar in the leaves in the good season and packs it away as starch. When the dry or cold season ends, the plant spends the savings to grow shoots fast, before there are leaves to make new food. If you put the top of a carrot in a saucer of water, feathery leaves sprout from it, living on the food in the carrot. The leaves cannot make a new carrot, but it shows what the carrot is for. We eat the savings of the plant. Seeds are another kind of savings, packed for the plant's young.",
+   "description": "A carrot is a swollen root. Beetroot is another one. A potato is a swollen underground stem, an onion is a bulb made of thick leaf bases, and ginger and turmeric are rhizomes, which are thick underground stems that grow sideways. All of these are savings. The plant makes sugar in the leaves in the good season and packs it away as starch. When the dry or cold season ends, the plant spends the savings to grow shoots fast, before there are leaves to make new food. If you put the top of a carrot in a saucer of water, feathery leaves sprout from it, living on the food in the carrot. The leaves cannot make a new carrot, but they show what the carrot is for: storing food. We eat the savings of the plant. Seeds are another kind of savings, packed for the plant's young.",
    "examples": [
     "Put the cut top of a carrot in water and it grows green leaves using the stored food.",
     "A forgotten potato in a dark cupboard grows long pale shoots from the eyes.",
@@ -271,7 +271,7 @@
    "concept": "How plants tell the season: day length",
    "status": "defined",
    "definition": "Many plants measure the length of the night to tell the season. Short-day plants flower when nights are long. Long-day plants flower when nights are short. Day-neutral plants ignore day length.",
-   "description": "Near the equator, the day length changes little through the year, but it changes enough for many plants to feel. In many parts of India, traditional kinds of rice are short-day plants. They flower when the nights become longer after the monsoon, whenever they were sown. Many modern kinds of rice are bred to be less sensitive, so that farmers can grow them in several seasons. Chrysanthemums are short-day plants, and flower growers cover the plants with dark cloth or add lamps at night to make them flower in time for a festival. Palak, coriander and lettuce are long-day plants. When the days grow long and hot, they send up a flower stalk, and the leaves turn bitter. Gardeners call this bolting. Tomato, cucumber and many beans are day-neutral. They flower when they are big enough. A plant measures the night with a clock inside the leaves. The leaves then send a message up the stem to the buds.",
+   "description": "Near the equator, the day length changes little through the year, but it changes enough for many plants to feel. In many parts of India, traditional kinds of rice are short-day plants. They flower when the nights become longer after the monsoon, no matter when they were sown. Many modern kinds of rice are bred to be less sensitive, so that farmers can grow them in several seasons. Chrysanthemums are short-day plants, and flower growers cover the plants with dark cloth or add lamps at night to make them flower in time for a festival. Palak, coriander and lettuce are long-day plants. When the days grow long and hot, they send up a flower stalk, and the leaves turn bitter. Gardeners call this bolting. Tomato, cucumber and many beans are day-neutral. They flower when they are big enough. A plant measures the night with a clock inside the leaves. The leaves then send a message up the stem to the buds.",
    "examples": [
     "Traditional rice flowers when the nights lengthen after the monsoon.",
     "Coriander and palak bolt in the long, hot days of summer.",
@@ -284,7 +284,7 @@
    "concept": "Remembering winter: flowering after a cold spell",
    "status": "defined",
    "definition": "Some plants need a spell of cold before they will flower. The cold tells them that winter has passed. Scientists call this vernalisation. The plant remembers the cold for weeks.",
-   "description": "In the 1910s, a German scientist, Gustav Gassner, showed that winter cereals, which are sown in autumn, flower only if the seed or seedling has been through cold. A seed that was kept warm made leaves but no flower stalk. If a plant flowered at the first warm day of autumn, the winter would kill the flowers. So the plant waits for a sign. What is remarkable is that the plant remembers the cold after it has gone. A small plant used in labs, a relative of mustard, holds the memory of winter in a gene that is switched off by chemical marks while the cold lasts. Caroline Dean, a British plant scientist, and her team have spent years finding how the plant's cells keep this memory. Apples, tulips and many hill flowers need winter chill. A mango tree in some places needs a cool, dry spell to flower.",
+   "description": "In the 1910s, a German scientist, Gustav Gassner, showed that winter cereals, which are sown in autumn, flower only if the seed or seedling has been through cold. A seed that was kept warm made leaves but no flower stalk. If a plant flowered on the first warm day of autumn, the winter would kill the flowers. So the plant waits for a sign. What is remarkable is that the plant remembers the cold after it has gone. Scientists have studied this in a small plant used in labs, a relative of mustard. While the cold lasts, chemical marks switch off one of the plant's genes, and a gene is one of the plant's instructions. The marks stay after the cold has gone, and they are the plant's memory of winter. Caroline Dean, a British plant scientist, and her team have spent years finding how the plant's cells keep this memory. Apples, tulips and many hill flowers need winter chill. A mango tree in some places needs a cool, dry spell to flower.",
    "examples": [
     "Tulip bulbs sold in warm countries are kept in cold storage first, so that they will flower.",
     "Apple trees in Kashmir and Himachal need a cold winter to flower well.",
@@ -310,7 +310,7 @@
    "concept": "Copies and variety: cuttings, grafts and seedless fruit",
    "status": "defined",
    "definition": "A plant grown from a cutting, a sucker or a graft is a clone, an exact copy of the parent. A plant grown from a seed gets instructions from two parents, so the new plant is a little different.",
-   "description": "A farmer who wants every mango tree to bear the same sweet mangoes cannot plant stones, because each stone grows into a different tree. Instead the farmer grafts a twig from a good tree onto a young rooted plant. The twig grows into a branch that bears the same mangoes as its parent. Most Alphonso trees are grafts. Bananas we eat are seedless. They cannot make seeds, so every banana plant comes from a sucker or from a lab-grown cutting. Copies are quick and sure, and they keep the fruit the same. But copies have no variety. If a disease can harm one plant of that kind, it can harm all of them. Seeds, in contrast, mix instructions from two parents, and in a field of seedlings there are always some that cope with a new disease or a new climate. Variety is a plant's insurance.",
+   "description": "A farmer who wants every mango tree to bear the same sweet mangoes cannot plant stones, because each stone grows into a different tree. Instead the farmer grafts a twig from a good tree onto a young rooted plant. The twig grows into a branch that bears the same mangoes as the tree it came from. Most Alphonso trees are grafts. The bananas we eat are seedless. They cannot make seeds, so every banana plant comes from a sucker or from a lab-grown cutting. Copies are quick and sure, and they keep the fruit the same. But copies have no variety. If a disease can harm one plant of that kind, it can harm all of them. Seeds, in contrast, mix instructions from two parents, and in a field of seedlings there are always some that cope with a new disease or a new climate. Variety is a plant's insurance.",
    "examples": [
     "A money plant cutting rooted in water becomes a clone of the vine.",
     "A grafted mango tree bears fruit in three to five years, which is sooner than a tree grown from a stone.",
@@ -325,7 +325,7 @@
    "description": "Some plants live a very long time. A bristlecone pine in California is reported to be about 4,800 years old. The Sri Maha Bodhi, a peepal tree in Anuradhapura in Sri Lanka, is said to have been planted in 288 BCE, which would make the tree more than 2,000 years old. A grove of quaking aspen trees in Utah called Pando is made of tens of thousands of trunks, all shoots of one root system, and the age of Pando is estimated at many thousands of years, though scientists disagree about how many. A clump of bamboo or banana can be older than any one stem in it. So the age of a plant depends on what you count: one trunk, or the whole living clone. Scientists also argue about whether trees age as animals do.",
    "examples": [
     "A bristlecone pine in the dry mountains of California is reported to be about 4,800 years old.",
-    "The Sri Maha Bodhi tree in Sri Lanka is said to be planted in 288 BCE.",
+    "The Sri Maha Bodhi tree in Sri Lanka is said to have been planted in 288 BCE.",
     "A banyan, such as the Great Banyan near Kolkata, spreads by roots hanging from the branches, and the original trunk can be replaced."
    ],
    "art": "A twisted old pine on a dry mountain slope, a wide banyan with hanging roots, and a grove of aspen trunks joined by one root, shown on a long timeline.",
@@ -360,7 +360,7 @@
    "evidence": "Fruit sealed in a bag with a ripe banana ripen sooner than fruit sealed alone. Scientists can measure the gas, and they have found the receptors that sense it."
   },
   {
-   "text": "A fruit ripens by changes inside it: starch becomes sugar, the walls loosen, the green fades, acids fall and scents are made.",
+   "text": "A fruit ripens through changes inside it: starch becomes sugar, the walls between the cells loosen, the green fades, the fruit gets less sour and scents are made.",
    "evidence": "These changes have been measured in many fruits, and the enzymes that cause them have been identified."
   },
   {
@@ -377,7 +377,7 @@
   },
   {
    "text": "Plants grown from cuttings or grafts are copies, and plants grown from seed vary.",
-   "evidence": "A row of grafted mango trees bear the same fruit, but a row of trees grown from stones bear different ones."
+   "evidence": "The trees in a row of grafted mango trees all bear the same fruit, but trees grown from stones each bear different fruit."
   }
  ],
  "challenging": [
@@ -399,7 +399,7 @@
    "claim": "An annual plant dies after seeding simply from being worn out.",
    "who": "Many gardeners.",
    "for": "A moong plant looks tired at the end, with yellow leaves and dry stems. The plant has used up a lot of food.",
-   "against": "In soybean, taking off the flowers and young pods keeps the plant green and alive for much longer. So the seeds seem to take part in ending the plant. The end of the plant is partly set off by the seeds.",
+   "against": "In soybean, taking off the flowers and young pods keeps the plant green and alive for much longer. So the plant does not simply wear out. The seeds seem to help bring on the end of the plant.",
    "status": "debated"
   },
   {
@@ -436,10 +436,10 @@
   {
    "q": "A fern has a big body at one time of life and a tiny body at another. Which one is the real fern?",
    "kind": "deep",
-   "hint": "Is a caterpillar the real butterfly? Or is it the other way round?"
+   "hint": "Think of a caterpillar and a butterfly. Is one of them the real animal?"
   },
   {
-   "q": "Bristlecone pines grow very slowly in poor soil and live for thousands of years. What do you think slow growth buys them?",
+   "q": "Bristlecone pines grow very slowly in poor soil and live for thousands of years. How do you think growing slowly helps them live so long?",
    "kind": "big",
    "hint": "Think about wood that is dense, and about rot and insects."
   },
@@ -449,12 +449,12 @@
    "hint": "Why do seeds give variety? Why can seedless bananas not use it?"
   },
   {
-   "q": "If trees keep a diary in their rings, what can that diary tell us that no book can?",
+   "q": "A tree's rings record how good each year was for the tree. What can the rings tell us that no book can?",
    "kind": "big",
-   "hint": "A tree 300 years old saw the rains of 300 years. Who wrote those down?"
+   "hint": "A tree that is 300 years old has a ring for each of 300 years of rain. Did anyone write all those years down?"
   },
   {
-   "q": "A bamboo clump 'waits' 48 years to flower. Is waiting without a brain still waiting?",
+   "q": "A bamboo clump flowers after about 48 years. A bamboo has no brain. Can we still say that the bamboo is waiting?",
    "kind": "deep",
    "hint": "What would you need to see in a bamboo to say that they are counting?"
   }
@@ -532,7 +532,7 @@
       },
       {
        "f": "Carrot. We eat the orange root. Clue: market carrots are picked before they flower.",
-       "b": "ONE SEASON, but in the second year. The first year makes leaves and a fat root. The second year makes the flower and seeds. TIME: two years."
+       "b": "ONE SEASON, but in the second year. In the first year the plant makes leaves and a fat root. In the second year the plant makes flowers and seeds. TIME: two years."
       },
       {
        "f": "Rice. A grass grown in wet fields. Clue: the crop is harvested after the grain turns golden.",
@@ -591,7 +591,7 @@
        "b": "MANY SEASONS. A peepal can live for centuries, and the Sri Maha Bodhi is said to be more than 2,000 years old. TIME: centuries or more."
       },
       {
-       "f": "Bamboo of Mizoram. A giant grass. Clue: the whole forest flowers on the same year, then dies.",
+       "f": "Bamboo of Mizoram. A giant grass. Clue: the whole forest flowers in the same year, then dies.",
        "b": "ONE SEASON. This bamboo waits about 48 years, flowers all together and dies. TIME: decades."
       },
       {
@@ -654,7 +654,7 @@
      "mins": 4,
      "context": "In this step you play one practice round to learn the game.",
      "do": "Play one practice round with the moong card. The reader reads the front. Each player picks two tokens. Then the reader reads the back.",
-     "say": "A moong plant makes pods and the pods turn black. Does the plant flower in one season or many? How long does it live? Why do you think so?",
+     "say": "A moong plant makes pods and the pods turn black. Does the plant flower in one season or many? How long does the plant live? Why do you think so?",
      "kid": "Read the moong card. Pick two tokens. Say why.",
      "ask": [
       {
@@ -677,7 +677,7 @@
      "kid": "Play the next nine cards. Pick your tokens. Check the back.",
      "check": {
       "t": "mcq",
-      "q": "A plant flowers in only one season of a lifetime and dies, but it takes 48 years to get there. Which tokens fit?",
+      "q": "A plant grows for 48 years, flowers in one season and then dies. Which tokens fit?",
       "options": [
        "ONE SEASON and DECADES",
        "MANY SEASONS and DECADES",
@@ -712,7 +712,7 @@
        ]
       }
      ],
-     "parent": "There is no single right answer here. The stem flowers once and the clump flowers many times, and a plant can be described either way.",
+     "parent": "There is no single right answer about the banana. A banana stem flowers once and the banana clump flowers many times, so a banana can be described either way.",
      "think": "A banana stem flowers once, but the banana clump goes on. So is a banana a plant that flowers once, or many times?"
     }
    ]
@@ -752,7 +752,7 @@
       },
       {
        "f": "Mango",
-       "b": "KEEPS RIPENING. A raw mango picked hard ripens after picking, and faster with a ripe fruit near."
+       "b": "KEEPS RIPENING. A raw mango picked hard ripens after picking, and faster with a ripe fruit nearby."
       },
       {
        "f": "Papaya",
@@ -800,7 +800,7 @@
       },
       {
        "f": "Lemon",
-       "b": "DOES NOT. A lemon only turns yellow off the tree. It does not get less sour."
+       "b": "DOES NOT. A picked lemon can turn yellow, but it does not get less sour."
       },
       {
        "f": "Pineapple",
@@ -851,7 +851,7 @@
     "A right answer with a good reason wins 1 more point. Changing your mind for a good reason also wins a point.",
     "The game ends when all 20 cards are on mats. The player with the most points wins. Ties share the win.",
     "Playing alone: sort all 20 cards first, then check each one. Try to get 16 or more right.",
-    "A fruit that has been left too long goes soft and spoils. That is not the same as ripening. Spoiling is not a mat.",
+    "A fruit that has been left too long goes soft and spoils. That is not the same as ripening. There is no mat for spoiling.",
     "No printer? Write the 20 fruit names on slips of paper and let a parent read the back from the app. This works with 1 to 4 players."
    ],
    "flow": [
@@ -923,7 +923,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meena puts a hard green papaya in a paper bag with a very ripe banana. The papaya ripens sooner than a papaya left alone. What does the banana give off that helps the papaya ripen?",
+     "p": "A hard green papaya is put in a paper bag with a very ripe banana. The papaya ripens sooner than a papaya left alone. What does the banana give off that helps the papaya ripen?",
      "opts": [
       "Ethylene, a gas",
       "Oxygen",
@@ -951,7 +951,7 @@
       "Water inside the mango turns into sugar"
      ],
      "a": 0,
-     "why": "A raw mango stores starch. When it ripens, enzymes cut the starch into sugar, and the acids fall, so the fruit tastes sweeter. Picking 'from the air' is not right, because the fruit makes the change from its own stores.",
+     "why": "A raw mango stores starch. When it ripens, enzymes cut the starch into sugar, and the amount of acid falls, so the fruit tastes sweeter. Picking 'from the air' is not right, because the fruit makes the change from its own stores.",
      "outcome": 1
     },
     {
@@ -973,7 +973,7 @@
     },
     {
      "t": "mcq",
-     "p": "A shopkeeper packs ripening mangoes tightly in a sealed plastic box for several days. When he opens it, a sour smell rolls out and many mangoes are spoiled. What is the best explanation?",
+     "p": "Ripening mangoes are packed tightly in a sealed plastic box for several days. When the box is opened, it smells sour and many mangoes are spoiled. What is the best explanation?",
      "opts": [
       "Ripening fruit breathe, and in a sealed space the air runs low, so they spoil",
       "The mangoes were too sweet",
@@ -1199,7 +1199,7 @@
      "t": "write",
      "p": "Explain why pinching off the old flowers of a marigold can keep the plant flowering for longer.",
      "lines": 3,
-     "a": "A marigold that is left to make seeds spends its food on the seeds, and slows down once the seeds are filling. When the old flowers are pinched off, there are no seeds to fill, so the plant keeps making new flowers to try again.",
+     "a": "A marigold that is left to make seeds spends food on the seeds, and slows down once the seeds are filling. When the old flowers are pinched off, there are no seeds to fill, so the plant keeps making new flowers to try again.",
      "why": "A strong answer says that the seeds take the plant's food and signal the plant to slow down.",
      "outcome": 3
     },
@@ -1308,7 +1308,7 @@
       "Chrysanthemums sleep in the evening"
      ],
      "a": 0,
-     "why": "Chrysanthemums are short-day plants. They flower when nights are long. Covering them in the evening makes a short day, which tells the plant to flower. Growers use this to time their blooms for a festival.",
+     "why": "Chrysanthemums are short-day plants. They flower when nights are long. Covering them in the evening makes the night longer and the day shorter, which tells the plant to flower. Growers use this to time their blooms for a festival.",
      "outcome": 4
     },
     {
@@ -1409,7 +1409,7 @@
      "t": "write",
      "p": "Many families in India have ripened mangoes in a basket of rice or straw for generations. Explain why this might work, using what you know about the ripening gas and warmth.",
      "lines": 4,
-     "a": "A heap of rice or straw holds the ethylene that the mangoes give off, so it stays close and builds up. The heap is also warm, and ripening is faster in warmth. Air can still seep in through the gaps. So the mangoes ripen together in a gentle, warm cloud of their own gas.",
+     "a": "A heap of rice or straw holds the ethylene that the mangoes give off, so it stays close and builds up. The heap is also warm, and ripening is faster in warmth. Air can still seep in through the gaps. So the mangoes ripen together, kept warm and surrounded by their own gas.",
      "why": "A strong answer links the heap to holding the gas, warmth and fresh air.",
      "outcome": 0
     },
@@ -1518,9 +1518,9 @@
     },
     {
      "t": "mcq",
-     "p": "Why do many scientists think a plant that lives a long time, like a mango tree, grows slowly, while a plant that lives a short time, like a moong plant, grows quickly?",
+     "p": "A mango tree lives a long time and grows slowly. A moong plant lives a short time and grows quickly. What do many scientists think is the reason?",
      "opts": [
-      "Each plant spends energy in a different way: on growing and surviving, or on seeds quickly",
+      "Each plant spends energy in a different way: on growing and surviving for many years, or on making seeds quickly",
       "Moong has more water",
       "Mango trees do not use sunlight",
       "Slow growth always means a short life"
@@ -1531,7 +1531,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a timeline for a moong plant, a papaya plant and a mango tree. Use one centimetre for each year and mark how long each lives. Show what you notice about the moong plant.",
+     "p": "Draw a timeline for a moong plant, a papaya plant and a mango tree. Use one centimetre for each year and mark how long each lives. Write what you notice about the moong plant.",
      "a": "A line with marks at 0.25 centimetres for a moong plant, about 4 centimetres for a papaya plant and about 100 centimetres for a mango tree. The moong plant is a tiny speck.",
      "why": "A scale shows how small the moong plant's lifespan is next to a tree's. At one centimetre for a year, 3 months is a quarter of a centimetre.",
      "art": "An empty line with a 0 mark at the left end.",
@@ -1584,7 +1584,7 @@
    "context": "This is the ripening bag test. You put hard green mangoes in three places: in a bag with a ripe banana, in a bag alone and in the open. Then you check each day to see which one ripens first.",
    "question": "Does a ripe banana make a hard green mango ripen sooner, even if the two never touch?",
    "predict": "Before you start, guess. After four days, which mango will be softest: the one in a bag with a ripe banana, the one in a bag alone, or the one left in the open? Why do you think so?",
-   "fair_test": "The three mangoes are the same kind, the same size and equally hard. They sit in the same warm room, out of the sun. Both bags are the same kind of paper bag, folded shut the same way. Compare A with B to see the banana. Compare B with C to see the bag. You check at the same time every day, and press with the same thumb.",
+   "fair_test": "The three mangoes are the same kind, the same size and equally hard. They sit in the same warm room, out of the sun. Both bags are the same kind of paper bag, folded shut the same way. Compare A with B to see what the banana does. Compare B with C to see what the bag does. You check at the same time every day, and press with the same thumb.",
    "results_table": [
     "Day",
     "A: mango with a ripe banana in a bag (colour and softness 1 to 5)",
@@ -1698,10 +1698,10 @@
      "context": "This is the first step of the ripening bag test. You guess before you start.",
      "do": "Show your child the mangoes, the banana and the bags. Ask for a guess and a reason. Write the guess in the table.",
      "say": "We will put a hard green mango with a ripe banana in a bag. Another mango goes in a bag alone. A third sits in the open. Which will be softest after four days? Why do you think so?",
-     "kid": "Three mangoes. One has a banana. Which ripens first? Why?",
+     "kid": "There are three mangoes. One shares a bag with a ripe banana. Which will ripen first? Why?",
      "ask": [
       {
-       "q": "Why might the mango with the banana ripen first, or not?",
+       "q": "Do you think the mango with the banana will ripen first? Why, or why not?",
        "good": [
         "The banana is ripe and gives it something.",
         "The banana is sweet and warms the mango.",
@@ -1728,7 +1728,7 @@
        "So that B is hidden"
       ],
       "a": 0,
-      "why": "If only A had a bag, we would not know if the banana or the bag did the work. B is in a bag with no banana. Comparing A with B shows the banana. Comparing B with C shows the bag."
+      "why": "If only A had a bag, we would not know if the banana or the bag did the work. B is in a bag with no banana. Comparing A with B shows what the banana does. Comparing B with C shows what the bag does."
      }
     },
     {
@@ -1764,10 +1764,10 @@
     {
      "id": "s5",
      "mins": 8,
-     "context": "In this step you say what the test showed, with a claim, evidence and reasoning.",
+     "context": "In this step you say what the test showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think a ripe banana does to a raw mango? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a ripe banana makes a mango ripen sooner. What I saw: on day 4 the mango with the banana was soft and yellow. The one in the bag alone was firm, and the one in the open was hardest. Why: the banana gave off a gas, which the bag kept close. The gas tells raw fruit to ripen. The gas is called ethylene. Your results may differ. If the gaps were small, say that, and say what you would change.",
      "think": "If a ripe fruit can change a raw fruit through the air, what do you think a ripe fruit does to the fruit hanging on the same tree?"
     }
@@ -1775,7 +1775,7 @@
   },
   {
    "id": "e2",
-   "title": "What Makes a Leaf Give Up Its Green? Darkness, or a ripe banana?",
+   "title": "What Makes a Leaf Turn Yellow? Darkness, or a ripe banana?",
    "mins": 36,
    "days": 6,
    "context": "This is a leaf ageing test. You put palak or coriander leaves in three places: in the light, in the dark, and in the dark with a ripe banana. Then you watch which leaves yellow first.",
@@ -1893,7 +1893,7 @@
      "context": "This is the first step of the leaf ageing test. You guess before you start.",
      "do": "Show your child the leaves, the boxes and the banana. Ask for a guess and a reason. Write the guess in the table.",
      "say": "We have three bunches of leaves. One stays in the light. One goes in a dark box. One goes in a dark box with a ripe banana. Which will turn yellow first? Why do you think so?",
-     "kid": "Three bunches of leaves. Which turns yellow first? Why?",
+     "kid": "There are three bunches of leaves. Which will turn yellow first? Why?",
      "ask": [
       {
        "q": "Why might leaves turn yellow in the dark?",
@@ -1953,15 +1953,15 @@
        ]
       }
      ],
-     "parent": "The green is chlorophyll. When a leaf ageing programme starts, the plant takes the chlorophyll apart and moves out the nitrogen. The yellow was in the leaf all along and shows once the green goes. A leaf cut from the plant cannot send the nitrogen anywhere, but the programme still starts."
+     "parent": "The green is chlorophyll. When a leaf starts to age, the plant takes the chlorophyll apart and moves out the nitrogen. The yellow was in the leaf all along and shows once the green goes. A leaf cut from the plant cannot send the nitrogen anywhere, but the ageing still starts."
     },
     {
      "id": "s5",
      "mins": 5,
-     "context": "In this step you say what the test showed, with a claim, evidence and reasoning.",
+     "context": "In this step you say what the test showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think makes a leaf turn yellow? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: darkness and a ripe banana both make leaves turn yellow sooner. What I saw: the leaves in the light stayed green. The dark leaves went pale. The dark leaves with the banana went yellow first. Why: in the dark a leaf cannot make food, so the plant takes the leaf apart. Ethylene from the banana speeds that up. If your result is different, say so.",
      "think": "Why might it be wise to store palak and coriander away from ripe bananas?"
     }
@@ -1975,7 +1975,7 @@
    "context": "This is a cutting test. You cut a money plant vine into three kinds of piece and see which ones grow roots in water. You find out where the roots come from, and whether a leaf helps.",
    "question": "Where on a money plant stem do new roots grow? Does a leaf help the roots grow?",
    "predict": "Before you start, guess. Which cuttings will grow roots: the ones with a node and a leaf, the ones with a node and no leaf, or the ones with no node? Why do you think so?",
-   "fair_test": "All nine cuttings come from the same vine and are about the same length (cuttings A and B are about 8 centimetres; C is as long as the gap between two nodes allows, at least 4 centimetres, and you write its length down). All three jars have the same water, in the same bright place, out of hot sun. Only one thing differs between the jars: the node and the leaf.",
+   "fair_test": "All nine cuttings come from the same vine and are about the same length (cuttings A and B are about 8 centimetres; C is as long as the gap between two nodes allows, at least 4 centimetres, and you write its length down). All three jars have the same water, in the same bright place, out of hot sun. The only difference between the jars is whether the cuttings have a node and a leaf.",
    "results_table": [
     "Day",
     "Jar A: node and leaf (roots, length in mm)",
@@ -2112,7 +2112,7 @@
      "id": "s3",
      "mins": 6,
      "context": "In this step you set up the three jars.",
-     "do": "1. Put three cuttings into each jar. 2. Put jar A as the node-and-leaf group, jar B as the node-and-no-leaf group and jar C as the no-node group. 3. Check that the node is under the water in A and B. 4. Label the jars. 5. Put them in a bright place out of hot sun.",
+     "do": "1. Put three cuttings into each jar. 2. Jar A holds the cuttings with a node and a leaf, jar B the cuttings with a node and no leaf, and jar C the cuttings with no node. 3. Check that the node is under the water in A and B. 4. Label the jars. 5. Put them in a bright place out of hot sun.",
      "say": "Each jar holds one kind of cutting. The nodes in jars A and B go under the water. Put the jars in a bright place, but out of hot sun.",
      "kid": "Put three cuttings in each jar. Nodes go under the water. Label the jars.",
      "parent": "Change the water every three days, or top it up if it falls. Keep the water clean. A slimy jar should be washed and refilled. Who: one child sets up all three jars. With 2 to 4 children, each child owns a jar and measures its roots, and a different child writes the numbers down. Or each child can set up a full set of nine cuttings for a bigger sample.",
@@ -2160,10 +2160,10 @@
     {
      "id": "s6",
      "mins": 5,
-     "context": "In this step you say what the test showed, with a claim, evidence and reasoning.",
+     "context": "In this step you say what the test showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about where roots grow? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: roots grow from nodes, and a leaf helps. What I saw: the cuttings with a node and a leaf grew the longest roots, the ones with a node and no leaf grew a few short roots, and the plain pieces grew none. Why: the node holds the cells that can turn into roots, and the leaf supplies food and a growth message. Each rooted cutting is a clone of the vine. If the leafless cuttings rooted as well as the leaf ones, say so. That is a real finding and the explanation about the leaf may be only part of the story.",
      "think": "All three cuttings in jar A came from the same vine. Are they the same plant, or three plants?"
     }
@@ -2292,7 +2292,7 @@
      "context": "This is the first step of the ripening place test. You guess before you start.",
      "do": "Show your child the tomatoes and the three places. Ask for a guess and a reason. Write it in the table.",
      "say": "We will put three green tomatoes in three places. One goes on a warm shelf. One goes on a window. One goes in the fridge. Which will be red first? Why do you think so?",
-     "kid": "Three tomatoes, three places. Which ripens first? Why?",
+     "kid": "There are three tomatoes in three places. Which will ripen first? Why?",
      "ask": [
       {
        "q": "Why do you think the fridge tomato will ripen slowly, or not at all?",
@@ -2332,7 +2332,7 @@
      "do": "On days 3 and 5 (and again on day 9): 1. Open each bag for a minute. 2. Match each tomato to the colour scale. 3. Press it gently. 4. Write down the colour and the softness. 5. Fold the bags shut.",
      "say": "Open each bag. What colour is each tomato? Is it soft? Write it down.",
      "kid": "Check each tomato. Write its colour. Press it gently.",
-     "parent": "In a warm room (25 to 30 degrees) a mature green tomato typically starts to turn pink in about four to eight days. Slower in a cool room. The window tomato may be a little quicker or slower, depending on the warmth. The fridge tomato usually stays green and firm. Do not promise a red tomato by day 6. If nothing has changed on any tomato, wait: the later checks will show it.",
+     "parent": "In a warm room (25 to 30 degrees) a mature green tomato typically starts to turn pink in about four to eight days. It is slower in a cool room. The window tomato may be a little quicker or slower, depending on the warmth. The fridge tomato usually stays green and firm. Do not promise a red tomato by day 6. If nothing has changed on any tomato, wait: the later checks will show it.",
      "wait": "Check on days 3 and 5, about 3 minutes each"
     },
     {
@@ -2367,10 +2367,10 @@
     {
      "id": "s6",
      "mins": 5,
-     "context": "In this step you say what the test showed, with a claim, evidence and reasoning.",
+     "context": "In this step you say what the test showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about where fruit ripen best? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: fruit ripen best in a warm place and not in the fridge. What I saw: the shelf tomato turned pink first, the window tomato was a little behind or ahead, and the fridge tomato stayed green. After warming, it ripened slowly or in patches. Your days and colours will differ. Why: ripening is chemistry, and chemistry runs slowly in the cold. A long spell in the cold can also damage a fruit from a warm place. A ripe fruit can go in the fridge to slow it down.",
      "think": "If you want to keep a ripe mango for another day, where would you put it?"
     }
@@ -2456,7 +2456,7 @@
      "context": "This is the first step of the Sleeping Pantry. You guess before you start.",
      "do": "Show your child the six foods. Ask which parts of the plant they are and which ones will sprout. Write the guesses in the table.",
      "say": "Each of these foods is a store of food. A plant saved it for later. Which ones do you think will grow green shoots? Why do you think so?",
-     "kid": "Six foods from the kitchen. Which will grow shoots? Why?",
+     "kid": "Here are six foods from the kitchen. Which will grow shoots? Why?",
      "ask": [
       {
        "q": "Which part of a plant do you think a carrot is, a root, a stem or a leaf?",
@@ -2506,7 +2506,7 @@
      "context": "In this step you measure and draw the shoots on the last day.",
      "do": "On day 10: 1. Measure the longest shoot on each food. 2. Draw the three that grew the most. 3. Sort the foods into those that grew shoots and those that did not.",
      "say": "Which foods grew shoots? How long are they? Are the shoots green? How do they get their food?",
-     "kid": "Measure the longest shoot on each food. Draw the three best.",
+     "kid": "Measure the longest shoot on each food. Draw the three that grew the most.",
      "ask": [
       {
        "q": "The carrot top grew leaves. Will the carrot top grow a new carrot?",
@@ -2522,10 +2522,10 @@
     {
      "id": "s5",
      "mins": 5,
-     "context": "In this step you say what the activity showed, with a claim, evidence and reasoning.",
+     "context": "In this step you say what the activity showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think these foods are for? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a carrot, an onion and a potato are food stores for the plant. What I saw: the shoots grew with just water, using the stored food. Why: in the good season the plant made more food than the plant needed, and saved it so it could restart in the next season. A carrot plant, left alone, spends the savings in the second year to flower and make seeds.",
      "think": "We eat these stores. What would a carrot plant do if we did not?"
     }
@@ -2536,7 +2536,7 @@
    "title": "Spore Print: the dust under a fern leaf",
    "mins": 22,
    "days": 2,
-   "context": "In this activity, you make a print from the brown dots under a fern leaf. You see the dust that ferns use instead of seeds, and meet the first step of a fern's life cycle.",
+   "context": "In this activity, you make a print from the brown dots under a fern leaf. You see the dust that ferns use instead of seeds, which is the first step of a fern's life cycle.",
    "materials": [
     {
      "item": "1 fern frond with dark brown or black dots on the underside. Roadside and garden ferns often have them in the rainy season and after. Many pot ferns in flats have none yet. Ask the owner first.",
@@ -2675,7 +2675,7 @@
      "what": "Draw the rings. Find the dry years. Match the log to the tree."
     }
    ],
-   "record": "Draw the rings of tree A on paper using 5 millimetres of paper for each millimetre of ring, so the widest 6 millimetre ring is a 30 millimetre bar. Mark the narrow rings. Write the years of the two driest years. Write the year the log's last ring was formed.",
+   "record": "Draw the rings of tree A on paper using 5 millimetres of paper for each millimetre of ring, so the widest 6 millimetre ring is a 30 millimetre bar. Mark the narrow rings. Write the two driest years. Write the year the log's last ring was formed.",
    "setup": [
     {
      "art": "A cut log with rings and a child counting them with a pencil.",
@@ -2840,7 +2840,7 @@
      "mins": 6,
      "context": "In this step you walk along the strip and compare.",
      "do": "Walk along the strip together. Stop at each plant. Ask what surprised your child.",
-     "say": "Walk along the strip. What is the first mark you can see? Where is the first plant you can see with your eyes? What is the longest? How many moong plants would fit in one year?",
+     "say": "Walk along the strip. Which is the first mark you can see clearly? Which plant is the longest? How many moong lifetimes would fit in one year?",
      "kid": "Walk along the strip. Which plant is the longest? Which can you hardly see?",
      "ask": [
       {
@@ -2858,8 +2858,8 @@
      "mins": 4,
      "context": "In this step you say what the tape showed.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "What do you think about how long plants live? What did you see on the strip? Why is a plant's lifespan so different from another's?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "say": "What do you think about how long plants live? What did you see on the strip? Why do some plants live so much longer than others?",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: plants live for very different lengths of time. What I saw: moong is a dot, a mango is 10 centimetres, and the pine is nearly 5 metres. Why: some plants put their effort into growing fast and making seeds quickly. Others put theirs into growing slowly and surviving for centuries.",
      "think": "If a moong plant is a dot and a pine is almost five metres long, can you compare their lives?"
     }
@@ -2986,7 +2986,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Any guess with a reason is a good start. Gardeners call pinching off old flowers deadheading. Best months to start are October to January. In peak summer heat or a heavy monsoon, seedlings struggle. Nurseries often sell marigolds already in bud, which gives flowers sooner."
+     "parent": "Do not correct the guess. Any guess with a reason is a good start. Gardeners call pinching off old flowers deadheading. The best months to start are October to January. In peak summer heat or a heavy monsoon, seedlings struggle. Nurseries often sell marigolds already in bud, which gives flowers sooner."
     },
     {
      "id": "s2",
@@ -3040,10 +3040,10 @@
     {
      "id": "s5",
      "mins": 8,
-     "context": "In this step you say what the project showed, with a claim, evidence and reasoning.",
+     "context": "In this step you say what the project showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "What do you think about pinching and flowers? What did you see? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: pinching off old flowers makes marigolds flower for longer. What I saw: the Pinch plants had more flowers than the Let Go plants in the last weeks. Why: a flower that has made seeds tells the plant that the job is nearly done, and the plant spends food on the seeds. When we pinch, the plant tries again with new flowers. A plant that is allowed to make seeds slows down.",
      "think": "If a plant that is allowed to make seeds slows down, what does that tell you about why some plants die after seeding?"
     }
@@ -3056,7 +3056,7 @@
    "title": "Ripe on Time: have a mango ready for a family dinner",
    "mins": 40,
    "problem": "Your family is having a dinner in four days. You need one hard green mango to be soft and ripe on that day, no sooner and no later. Design the best way to ripen it, using only things from the kitchen.",
-   "safety": "A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Do not give mango to anyone who is allergic to it, and mango sap can sting the skin. Do not eat any fruit that smells sour or looks rotten. Do not use carbide to ripen fruit. It is dangerous, and it is not allowed.",
+   "safety": "A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Do not give mango to anyone who is allergic to it. Mango sap can sting the skin. Do not eat any fruit that smells sour or looks rotten. Do not use carbide to ripen fruit. It is dangerous, and it is not allowed.",
    "constraints": [
     "Use one hard green mango for each design. All the mangoes must be the same kind and size.",
     "Use only ripe bananas or other ripe fruit, paper bags or boxes, cloth, newspaper, uncooked rice and a plate. No heater, stove, carbide or sealed plastic bag.",
@@ -3102,7 +3102,7 @@
      "mins": 8,
      "context": "This is the first step of the Ripe on Time challenge. You plan before you build.",
      "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to draw two or three plans.",
-     "say": "Four days to ripen one mango. What do you need to make fruit ripen? What do you need to avoid? Draw some ideas first.",
+     "say": "You have four days to ripen one mango. What do you need to make fruit ripen? What do you need to avoid? Draw some ideas first.",
      "kid": "Draw two or three ways to ripen the mango in four days.",
      "ask": [
       {
@@ -3133,7 +3133,7 @@
        "So the mango cools down"
       ],
       "a": 0,
-      "why": "Ripening fruit use oxygen. In a sealed space, the oxygen runs low and the fruit spoils. A short airing each day keeps both the gas and the air."
+      "why": "Ripening fruit use oxygen. In a sealed space, the oxygen runs low and the fruit spoils. Opening the design for a short time each day lets in fresh air and still keeps most of the gas close."
      },
      "wait": "Check each day for four days"
     },
@@ -3205,7 +3205,7 @@
      "kid": "Draw two or three ways to keep coriander green for a week.",
      "ask": [
       {
-       "q": "What do you know that makes leaves turn yellow?",
+       "q": "What makes leaves turn yellow?",
        "good": [
         "Being in the dark.",
         "Ripe fruit nearby.",
@@ -3220,7 +3220,7 @@
      "mins": 16,
      "context": "In this step you set up the four storage designs.",
      "do": "1. Divide the coriander into four bunches. 2. Set up four ways of storing it. 3. Label each. 4. Put each in its place. 5. Write down the date and the plan for each.",
-     "say": "Four bunches, four plans. Keep the things that are the same, the same. Only the storage is different. Label everything.",
+     "say": "There are four bunches and four plans. Keep everything else the same for all four. Only the way of storing is different. Label everything.",
      "kid": "Set up four ways to store coriander. Label each one. Write down your plans.",
      "parent": "Use the freshest bunches you can find. Wash the stems, but do not wash the leaves, because water on leaves makes them slimy. Keep the bunches that need the fridge in the same part of the fridge.",
      "check": {
@@ -3391,7 +3391,7 @@
     "The leaf stays exactly the same"
    ],
    "a": 0,
-   "why": "Without light, a leaf cannot make food. The ageing programme starts, the chlorophyll is broken down, and the leaf turns yellow. Picking 'darker green' is the opposite of what happens.",
+   "why": "Without light, a leaf cannot make food. The leaf starts to age, the chlorophyll is broken down, and the leaf turns yellow. Picking 'darker green' is the opposite of what happens.",
    "outcome": 2
   },
   {
@@ -3544,7 +3544,7 @@
   "If a fern has no seeds, how does it make new ferns?",
   "Is a banana clump one plant or many plants?",
   "What do you think a tree's rings would say about the year you were born?",
-  "If a plant could talk through the air, what would a ripe mango say to the mangoes beside them?"
+  "If a plant could talk through the air, what would a ripe mango say to the mangoes nearby?"
  ],
  "jokes": [
   {
@@ -3617,11 +3617,11 @@
    "explain": "3 + 8 + 14 + 20 + 22 + 25 is 92. 3 + 6 + 9 + 8 + 5 + 3 is 34. 92 take away 34 is 58. The numbers are made up, but real pinched marigolds often flower for longer.",
    "math_unit": "math.data.line-graphs.L4",
    "how": "p1",
-   "context": "In the project, you count the open flowers every week on plants whose old flowers are pinched off and plants whose flowers are left alone.",
+   "context": "In the Pinch or Let Go project, you count the open flowers every week on plants whose old flowers are pinched off and plants whose flowers are left alone.",
    "why_maths": "Adding the weekly counts for each group lets you compare two lines of numbers with a single total."
   },
   {
-   "problem": "Mizoram bamboo flowered around 2006. The bamboo flowers about every 48 years. About what year will it flower next? A child who is 10 years old in 2026 will be how old then?",
+   "problem": "Mizoram bamboo flowered around 2006. The bamboo flowers about every 48 years. About what year will the bamboo flower next? How old will a child who is 10 in 2026 be then?",
    "answer": "About 2054. The child will be 38.",
    "explain": "2006 + 48 = 2054. A child who is 10 in 2026 was born in 2016. 2054 take away 2016 is 38. So the child will be about 38.",
    "math_unit": "math.addition-subtraction.mental-strategies.L4",
@@ -3630,7 +3630,7 @@
   },
   {
    "problem": "A farm has 5 kinds of banana in equal numbers. A disease harms only one kind. What fraction of the plants is harmed? What fraction would be harmed if the farm had only one kind?",
-   "answer": "One fifth. If there were only one kind, all of the plants, which is 5 out of 5.",
+   "answer": "One fifth. If the farm had only one kind, all of the plants would be harmed, which is 5 out of 5.",
    "explain": "With 5 kinds in equal numbers, each kind is 1 out of 5 of the plants. The disease harms 1 of the 5 kinds, so 1 fifth of the plants. With one kind, the disease can harm every plant, which is 5 out of 5, or the whole farm.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "context": "Bananas grown from suckers are clones, so every plant of one kind has the same weakness to a disease.",
@@ -3875,23 +3875,23 @@
   ]
  },
  "roots": {
-  "context": "We tested how a ripe banana ripens a raw mango without touching. Now we ask what this message through the air tells us about ourselves and the world.",
+  "context": "In the ripening bag test, a ripe banana made a hard green mango ripen sooner without touching the mango. Here we ask what that gas passing through the air tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the bag, a ripe banana and a raw mango never touched, yet the mango ripened sooner. A gas called ethylene passed between them through the air. So a ripe fruit sends a message, and a raw fruit nearby hears it and answers.",
-   "habit": "We think of a fruit as a finished thing that sits alone and changes only with time. But a fruit senses, makes a gas, and answers the gas of the fruit next to them. Ripening is something fruit do together.",
-   "evidence": "In the bag test, a mango sharing a bag with a ripe banana softened and yellowed days before a mango in a bag alone. A mango in the open was slowest. If your own result differed, write down what happened."
+   "truth": "In the ripening bag test, a ripe banana and a raw mango never touched, yet the mango ripened sooner. A gas called ethylene passed between them through the air. So a ripe fruit sends out a signal, and a raw fruit nearby senses the signal and starts to ripen.",
+   "habit": "We think of a fruit as a finished thing that sits alone and changes only with time. But a fruit senses the air, makes a gas, and responds to the gas from the fruit nearby. Ripening is something fruit do together.",
+   "evidence": "In the ripening bag test, a mango sharing a bag with a ripe banana softened and yellowed days before a mango in a bag alone. A mango in the open was slowest. If your own result differed, write down what happened."
   },
   "three": {
    "who_am_i": "A yawn can spread across a room, and a smell of rain can change your mood, without anyone touching you. You change people near you through the air, and they change you.",
-   "what_is_life": "A ripe fruit is alive and awake. They sense, make a gas, and call to their neighbours. Plants speak to each other with gases, as people speak with voices.",
-   "what_is_this_world": "A bag of fruit, an orchard and a forest each carry news from plant to plant through the air. Nothing alive is truly alone."
+   "what_is_life": "A ripe fruit is alive and active. The fruit senses gas in the air, makes a gas, and changes the fruit nearby. Plants signal to each other with gases, a little as people speak with voices.",
+   "what_is_this_world": "In a bag of fruit, an orchard or a forest, gases carry signals from plant to plant through the air. No living thing is completely on their own."
   },
-  "thread": "One gas, made by one ripe fruit, spreads through a whole bunch of fruit, and the whole bunch ripens together. Each fruit is separate, yet the bunch acts like one body. The gas is a tiny molecule of just six atoms, and it joins them. So separateness and togetherness are both true here: there are many fruit, and there is one ripening.",
+  "thread": "One gas, made by one ripe fruit, spreads through a whole bunch of fruit, and the whole bunch ripens together. Each fruit is separate, yet the bunch acts like one body. The gas is a tiny molecule of just six atoms, and it links the fruit. So two things are true at once: the fruit are separate, and they ripen together.",
   "teachings": [
    {
     "source": "Thich Nhat Hanh, on interbeing, in The Heart of Understanding",
     "teaching": "If you are a poet, you will see clearly that there is a cloud floating in this sheet of paper. Without a cloud there is no rain, without rain the trees cannot grow, and without trees we cannot make paper.",
-    "link": "A mango that ripens because of a banana has a banana in it, in a way. What a fruit becomes depends on the fruit around them."
+    "link": "A mango that ripens because of a banana has a banana in it, in a way. What a fruit becomes depends on the fruit nearby."
    },
    {
     "source": "Purananuru 192, a Tamil poem by Kaniyan Pungundranar from the Sangam age",
@@ -3925,8 +3925,8 @@
    "kid": "Hold a ripe banana. Close your eyes. Breathe in the smell, slowly, three times. The fruit is sending a message through the air."
   },
   "ask": [
-   "When a banana and a mango share a bag, are there two fruit, or one ripening?",
-   "If a raw mango hears a banana, is the mango listening, or just reacting?",
+   "When a banana and a mango share a bag, are they ripening separately or together?",
+   "A raw mango senses the gas from a ripe banana and starts to ripen. Is the mango listening, or just reacting?",
    "What else in your day travels between you and others without a touch?"
   ],
   "art": "A paper bag cut open to show a ripe banana and a raw mango, with wavy lines from one to the other, and a girl smelling the air from the open top."

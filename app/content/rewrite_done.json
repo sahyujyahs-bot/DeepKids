@@ -325,6 +325,16 @@
   "sci.planet-earth.soil-and-crops.L4",
   "sci.plants.photosynthesis.L4",
   "sci.plants.plant-variety.L4",
-  "sci.plants.water-transport.L4"
+  "sci.plants.water-transport.L4",
+  "sci.plants.what-plants-need.L4",
+  "sci.seeds-and-life-cycles.plant-life-cycle.L4",
+  "sci.seeds-and-life-cycles.seeds-and-germination.L4",
+  "sci.senses.five-senses.L4",
+  "sci.senses.more-senses.L4",
+  "sci.senses.perception.L4",
+  "sci.sky.exploring-space.L4",
+  "sci.sky.history-of-astronomy.L4",
+  "sci.sky.life-beyond-earth.L4",
+  "sci.sky.moon-phases.L4"
  ]
 }

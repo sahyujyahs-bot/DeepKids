@@ -3,19 +3,19 @@
  "title": "Life beyond Earth: how scientists look for signs of life on faraway worlds",
  "level": 4,
  "summary": {
-  "text": "A bottle of sugar water with yeast blows up a balloon, and a bottle without yeast does nothing. You never saw the yeast. You saw only what they did to the air. Scientists hunting for life on faraway planets work in the same way, because no telescope can see a creature on a planet trillions of kilometres away. They look for the gases that life leaves behind. In this unit your child tests which bottles hold life by their gas, finds how warm curd bacteria like the milk to be, and then asks where in space such signs might be found, and how sure we can ever be.",
+  "text": "A bottle of sugar water with yeast blows up a balloon, and a bottle without yeast does nothing. You never saw the yeast. You saw only what they did to the air. Scientists hunting for life on faraway planets work in the same way, because no telescope can see a creature on a planet trillions of kilometres away. They look for the gases that life leaves behind. In this unit your child works out which bottles hold living yeast from the gas they make, finds how warm the milk must be for curd bacteria, and then asks where in space such signs might be found, and how sure we can ever be.",
   "art": "Four bottles in a row with balloons on top, the balloon on the first bottle swollen and the other three flat, and a small telescope looking at a faraway planet with a faint glowing ring of air."
  },
  "intro": {
-  "hook": "Two bottles stand on a table, sealed and opaque. The balloon on one of them is slowly swelling, and the balloon on the other is flat. You cannot open them or look inside. What can you say about what is in each bottle?",
-  "text": "You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this unit you find out which bottles hold living yeast by the gas they leave, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.",
+  "hook": "Two bottles stand on a table. They are sealed, and you cannot see through them. The balloon on one of them is slowly swelling, and the balloon on the other is flat. You cannot open them or look inside. What can you say about what is in each bottle?",
+  "text": "You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this unit you find out which bottles hold living yeast from the gas they make, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.",
   "art": "A child looking at two sealed bottles with balloons, and behind them a drawing of a distant planet with a thin ring of air."
  },
  "outcomes": [
-  "I can explain what makes a planet or moon a place where life could live: liquid water, energy, the right chemicals, and a temperature that suits.",
+  "I can explain what makes a planet or moon a place where life could live: liquid water, energy, the right chemicals, and the right temperature.",
   "I can explain why the habitable zone depends on the star, and why distance alone does not decide if a world is warm.",
   "I can explain how living things can get energy from chemicals in the dark, and why that matters for Europa and Enceladus.",
-  "I can run a fair test to show that living yeast changes the gas around them, and explain what a biosignature is.",
+  "I can run a fair test to show that living yeast change the gas around them, and explain what a biosignature is.",
   "I can explain how scientists find planets and read their air with light, and why a gas alone does not prove life.",
   "I can use a chain of guesses to estimate how many civilisations there might be, and say why the answer depends on the guesses.",
   "I can say what counts as life, and why scientists disagree about fire, viruses and crystals.",
@@ -43,8 +43,8 @@
   },
   {
    "term": "Magnetic field",
-   "meaning": "An invisible shield around a planet that bends away fast particles from the Sun. Earth has one because of the moving metal deep inside.",
-   "example": "Earth's magnetic field helps to keep our air from being blown away by the solar wind.",
+   "meaning": "An invisible shield around a planet that bends away fast particles from the Sun. Earth has one because of the metal moving deep inside the planet.",
+   "example": "Earth's magnetic field helps to keep our air from being blown away by the solar wind, the stream of fast particles from the Sun.",
    "art": "Earth with curved lines of a magnetic field and arrows of solar wind bending around it."
   },
   {
@@ -79,7 +79,7 @@
   },
   {
    "term": "Transit",
-   "meaning": "When a planet passes in front of its star as we see it, and blocks a tiny part of the star's light.",
+   "meaning": "When a planet passes between us and its star, and blocks a tiny part of the star's light.",
    "example": "Astronomers find many exoplanets by noticing that a star dims a tiny bit every few days.",
    "art": "A star with a small planet crossing in front of it, and a graph below showing a small dip."
   },
@@ -122,7 +122,7 @@
   {
    "term": "Light-year",
    "meaning": "The distance that light travels in one year, about 9.5 trillion kilometres. Astronomers use it to measure distances between stars.",
-   "example": "TRAPPIST-1 is about 40 light-years away, so its light left it about 40 years ago.",
+   "example": "TRAPPIST-1 is about 40 light-years away, so the light we see from it today left the star about 40 years ago.",
    "art": "A beam of light crossing a line marked with years from one star to another."
   },
   {
@@ -138,7 +138,7 @@
    "status": "defined",
    "context": "In the first Life beyond Earth unit you learned that life needs liquid water. This card asks where a planet must be to have liquid water on its surface.",
    "definition": "The habitable zone is the ring of distances from a star where a planet could be warm enough to have liquid water on its surface. A bright star has a zone far out, and a dim star has a zone close in.",
-   "description": "A planet gets warmer the closer it is to its star, because the light spreads out as it travels. Too close and water boils off. Too far and it freezes. Between them is the habitable zone, sometimes called the Goldilocks zone, after a story of porridge that was not too hot and not too cold. Different stars have different zones. The Sun is bright, so its zone lies at about the distance of Earth. A red dwarf like TRAPPIST-1 is small and dim, so its zone is very close in, even closer than Mercury is to the Sun. Being inside the zone does not make a world habitable. It only means that liquid water on the surface is possible, if the world also has air and the right amount of water.",
+   "description": "A planet gets warmer the closer it is to its star, because the light spreads out as it travels. If a planet is too close, its water boils off. If it is too far, its water freezes. Between the two is the habitable zone, sometimes called the Goldilocks zone, after a story of porridge that was not too hot and not too cold. Different stars have different zones. The Sun is bright, so its zone lies at about the distance of Earth. A red dwarf like TRAPPIST-1 is small and dim, so its zone is very close in, even closer than Mercury is to the Sun. Being inside the zone does not by itself make a world a place where life could live. It only means that liquid water on the surface is possible, if the world also has air and the right amount of water.",
    "examples": [
     "Earth is about 150 million kilometres from the Sun, in the middle of the Sun's zone.",
     "Venus is about 108 million kilometres from the Sun, and is far too hot.",
@@ -152,7 +152,7 @@
    "status": "defined",
    "context": "The habitable zone is about distance. This card shows that distance is not enough, using our two neighbours Venus and Mars.",
    "definition": "A world's temperature depends on its distance from the star, and also on its atmosphere, its size and its magnetic field.",
-   "description": "Venus is only a little closer to the Sun than Earth, but it is about 460 degrees Celsius on the surface, hot enough to melt lead. The reason is its air. Venus has a very thick atmosphere of carbon dioxide, and that gas holds back heat. This is called the greenhouse effect. Mars is the opposite. It is smaller than Earth, so its gravity is weaker, and it has lost most of its air. Its air is now less than a hundredth as thick as ours, and the average temperature is about minus 60 degrees. Scientists think Mars lost its global magnetic field long ago, which let the solar wind strip away much of its air. Earth has a thick enough atmosphere and a magnetic field, which helps to keep its water.",
+   "description": "Venus is only a little closer to the Sun than Earth, but it is about 460 degrees Celsius on the surface, hot enough to melt lead. The reason is its air. Venus has a very thick atmosphere of carbon dioxide, and that gas holds back heat. This is called the greenhouse effect. Mars is the opposite. It is smaller than Earth, so its gravity is weaker, and it has lost most of its air. Its air is now less than a hundredth as thick as ours, and the average temperature is about minus 60 degrees. Scientists think Mars lost its global magnetic field long ago. That let the solar wind, a stream of fast particles from the Sun, strip away much of its air. Earth has a thick enough atmosphere and a magnetic field, which helps to keep its water.",
    "examples": [
     "Venus is hotter than Mercury, though Mercury is much closer to the Sun, because of Venus's thick air.",
     "Mars's thin air cannot hold heat or water on its surface, so water there is mostly ice.",
@@ -180,9 +180,9 @@
    "status": "idea",
    "context": "These two icy moons are the best places in the solar system to look for life. This card says what spacecraft have found, and what is still guesswork.",
    "definition": "Enceladus and Europa very probably hold salty oceans under their ice. Spacecraft have found chemicals in the plumes of Enceladus that life could use, but nobody has found life.",
-   "description": "The Cassini spacecraft flew through the plumes of Enceladus, a small moon of Saturn, many times. It found water, salt and some organic molecules in the spray. In 2017 scientists reported that it also found hydrogen, a gas that could be food for microbes at hot vents on the moon's sea floor. In 2023 other scientists reported that the grains contained phosphates, which life needs to build DNA. Europa, a moon of Jupiter, is bigger, and its ocean may hold more water than all of Earth's oceans. The Europa Clipper spacecraft was launched in 2024 to study the moon. Both moons are warmed inside by the pull of their planet, which squeezes them a little more and a little less as they go round. These are strong clues, but not proof of life.",
+   "description": "The Cassini spacecraft flew through the plumes of Enceladus, a small moon of Saturn, many times. It found water, salt and some organic molecules in the spray. In 2017 scientists reported that it also found hydrogen, a gas that could be food for microbes at hot vents on the moon's sea floor. In 2023 other scientists reported that ice grains in the spray contained phosphates, which life needs to build DNA. Europa, a moon of Jupiter, is bigger, and its ocean may hold more water than all of Earth's oceans. The Europa Clipper spacecraft was launched in 2024 to study the moon. Both moons are warmed inside by the pull of their planet, which squeezes them a little more and a little less as they go round. These are strong clues, but not proof of life.",
    "examples": [
-    "Cassini flew through Enceladus's plumes and tasted the water for salt, hydrogen and organic molecules.",
+    "Cassini flew through Enceladus's plumes and tested the spray for salt, hydrogen and organic molecules.",
     "Europa Clipper is planned to reach Jupiter in 2030 and fly past Europa many times.",
     "Saturn's pull squeezes Enceladus a little more and a little less as it goes round, which warms the moon inside."
    ],
@@ -211,7 +211,7 @@
     },
     {
      "who": "Scientists today",
-     "explanation": "Everyone agrees the rock is interesting. Bringing the sample back to labs on Earth would give a much better test, but that mission is uncertain."
+     "explanation": "Everyone agrees the rock is interesting. Bringing the sample back to labs on Earth would give a much better test, but it is not certain that such a mission will happen."
     }
    ]
   },
@@ -220,7 +220,7 @@
    "status": "idea",
    "context": "Most searches for life look for liquid water. This card is about a moon that has liquid, but not water, on its surface.",
    "definition": "Titan, a moon of Saturn, has lakes and seas of liquid methane and ethane on its surface, and a thick nitrogen atmosphere. It is too cold for water to be liquid there.",
-   "description": "Titan is the only moon in our solar system with a thick atmosphere. It is about minus 179 degrees on the surface. At that cold, rock is hard as steel and water is ice. But methane and ethane, gases on Earth, are liquid. Rain falls, rivers run and lakes fill. In 2005 the Huygens probe landed on Titan. NASA plans to send a flying lander, called Dragonfly, in the late 2020s. Some scientists wonder whether a kind of life could use methane as its liquid instead of water. Nobody has found such life, and nobody knows if it could exist. Under the ice, Titan may also have a layer of liquid water. Titan shows us that life as we know it may not be the only kind to look for.",
+   "description": "Titan is the only moon in our solar system with a thick atmosphere. It is about minus 179 degrees on the surface. In such cold, rock is as hard as steel and water is ice. But methane and ethane, which are gases on Earth, are liquid there. Rain falls, rivers run and lakes fill. In 2005 the Huygens probe landed on Titan. NASA plans to send a flying lander, called Dragonfly, in the late 2020s. Some scientists wonder whether a kind of life could use methane as its liquid instead of water. Nobody has found such life, and nobody knows if it could exist. Under the ice, Titan may also have a layer of liquid water. Titan shows us that life as we know it may not be the only kind to look for.",
    "examples": [
     "Rivers of liquid methane have carved valleys on Titan, like rivers of water on Earth.",
     "The Huygens probe sent back pictures from Titan's surface in 2005.",
@@ -234,9 +234,9 @@
    "status": "defined",
    "context": "Scientists cannot visit a faraway planet. This card says how a planet's air can show that something lives there.",
    "definition": "A biosignature is a sign that life has been there. The best-known one is a mix of gases in a planet's air that would not last together unless living things kept making them.",
-   "description": "Earth's air is about one fifth oxygen and has a little methane. Oxygen and methane react with each other, and in a few years they would disappear. They are still there because living things, plants, algae and microbes, keep making them. In 1965 the scientist James Lovelock pointed out that this is how an observer could tell that Earth has life without landing. A world whose air has gases that react with each other, but which never run out, is probably being refilled by something. This is called an atmosphere out of balance. Yeast in a bottle show the same idea. The sugar and yeast keep making carbon dioxide, and the balloon stays swollen.",
+   "description": "Earth's air is about one fifth oxygen and has a little methane. Oxygen and methane react with each other, and in a few years they would disappear. They are still there because living things such as plants, algae and microbes keep making them. In 1965 the scientist James Lovelock pointed out that this is how an observer could tell that Earth has life without landing. If a world's air holds gases that react with each other but never run out, something is probably refilling them. This is called an atmosphere out of balance. Yeast in a bottle show the same idea. The yeast keep making carbon dioxide from the sugar, and the balloon stays swollen.",
    "examples": [
-    "Without plants and microbes, the oxygen in Earth's air would be used up in a geologically short time.",
+    "Without plants and microbes, the oxygen in Earth's air would be used up in a short time, compared with the age of the Earth.",
     "Most of the methane in Earth's air is made by living things such as microbes in wet rice fields and in the stomachs of cattle.",
     "A bottle of yeast and sugar swells a balloon, but a bottle of sugar alone does not."
    ],
@@ -247,7 +247,7 @@
    "concept": "False alarms: when a gas is not a sign of life",
    "status": "debated",
    "context": "A gas that looks like a sign of life can sometimes be made by non-living chemistry. This card shows why scientists argue about the claims they have heard.",
-   "description": "Oxygen on its own is not proof of life. On some planets, strong light from a star can split water or carbon dioxide and make oxygen with no living thing involved. In 2020, scientists reported a gas called phosphine in the clouds of Venus. On Earth phosphine is made mostly by microbes. Other teams looked again and found much less, or none. In 2023, a team led by Nikku Madhusudhan, an astrophysicist born in India who works in Cambridge, used the James Webb Space Telescope on a planet called K2-18 b, about 120 light-years away. They found methane and carbon dioxide. There was also a hint of dimethyl sulfide, a gas that on Earth is made mostly by tiny sea plankton. Other teams re-examined the data and did not agree that the hint was real.",
+   "description": "Oxygen on its own is not proof of life. On some planets, strong light from a star can split water or carbon dioxide and make oxygen with no living thing involved. In 2020, scientists reported a gas called phosphine in the clouds of Venus. On Earth phosphine is made mostly by microbes. Other teams looked again and found much less, or none. In 2023, a team led by Nikku Madhusudhan, an astrophysicist born in India who works in Cambridge, used the James Webb Space Telescope to study a planet called K2-18 b, about 120 light-years away. They found methane and carbon dioxide. There was also a hint of dimethyl sulfide, a gas that on Earth is made mostly by tiny sea plankton. Other teams re-examined the data and did not agree that the hint was real.",
    "examples": [
     "A hot planet could make oxygen by splitting water in its air, with no life.",
     "The Venus phosphine claim of 2020 was questioned by other teams who looked at the same data.",
@@ -257,11 +257,11 @@
    "perspectives": [
     {
      "who": "Scientists who reported the K2-18 b hint",
-     "explanation": "The signal of a gas that on Earth is made by life is worth following. More observations with the James Webb Space Telescope could make it clearer."
+     "explanation": "A sign of a gas that life makes on Earth is worth following up. More observations with the James Webb Space Telescope could make it clearer."
     },
     {
      "who": "Other scientists who re-examined the data",
-     "explanation": "The hint is weak and may be noise. Other chemistry could make the gases, and the planet's nature is not even sure."
+     "explanation": "The hint is weak and may be noise. Other chemistry could make the gases, and nobody is even sure what kind of planet it is."
     },
     {
      "who": "Scientists today",
@@ -272,7 +272,7 @@
   {
    "concept": "How we find planets and read their air",
    "status": "defined",
-   "context": "The planets in the last card are many light-years away. This card says how astronomers find them at all and how they read their air.",
+   "context": "Planets around other stars are many light-years away. This card says how astronomers find them at all and how they read their air.",
    "definition": "Astronomers find many exoplanets by the tiny dip in a star's light when a planet passes in front, called a transit. They read a planet's air from the colours missing in the starlight that passes through it.",
    "description": "A planet is far too faint to see next to its bright star. But when it crosses in front of the star, the starlight dims a tiny bit. Jupiter would block about 1 part in 100 of the Sun's light, and Earth only about 1 part in 10,000. If the dip repeats, the planet is real, and the time between dips is the length of its year. When the planet is in front, a little starlight also passes through the thin ring of its air. Each gas takes away its own colours from the light. So the spectrum, the starlight spread into a rainbow, has dark gaps that show which gases are there. In 2022 the James Webb Space Telescope found carbon dioxide in the air of a hot gas planet named WASP-39 b. In 2018, scientists at the Physical Research Laboratory in Ahmedabad reported the first planet found from India, using a telescope at Mount Abu.",
    "examples": [
@@ -290,7 +290,7 @@
    "definition": "TRAPPIST-1 is a small red dwarf star with seven Earth-sized planets going round it. Three of them lie in the habitable zone.",
    "description": "In 2017, astronomers led by Michael Gillon in Belgium reported seven planets going round TRAPPIST-1, a dim red star about 40 light-years from Earth. The star is only a little bigger than Jupiter, and all seven planets orbit closer to it than Mercury does to our Sun. Their years last only from 1.5 to about 19 days. Planets e, f and g are often named as lying in the habitable zone. But a red dwarf sends out strong flares, and the planets are probably locked so that one side always faces the star. In 2023 the James Webb Space Telescope looked at the two inner planets and reported that they seem to have no thick atmosphere. Nobody yet knows if any of the outer planets has air, or water. This is a good place to test the methods in this unit.",
    "examples": [
-    "TRAPPIST-1 is so close to its planets that a year on one of them is less than two Earth days.",
+    "One of the TRAPPIST-1 planets is so close to the star that its year lasts less than two Earth days.",
     "The James Webb Space Telescope has begun to study the air of the TRAPPIST-1 planets.",
     "A planet locked to its star has one side in permanent day and one side in permanent night."
    ],
@@ -302,11 +302,11 @@
    "status": "idea",
    "context": "Scientists cannot count how many civilisations there are. This card says how they organise what they do and do not know.",
    "definition": "The Drake equation multiplies a chain of numbers to estimate how many civilisations in our galaxy might send signals. Some numbers are known and some are guesses, so the answer depends mostly on the guesses.",
-   "description": "In 1961, the astronomer Frank Drake wrote a list of the numbers that decide how many civilisations we might hear from. The first numbers are the number of stars in the galaxy, which is at least 100 billion, and the share with planets, which astronomers now think is most. After that, the numbers become guesses. What share of habitable planets get life? What share of life becomes intelligent? How long does a civilisation last and send signals? If you guess that each step is easy, you might get millions of civilisations. If you guess that one step is very rare, you might get only ourselves. This does not tell us the answer. It tells us which numbers we most need to find out, such as how often life begins.",
+   "description": "In 1961, the astronomer Frank Drake wrote a list of the numbers that decide how many civilisations we might hear from. The first numbers are the number of stars in the galaxy, which is at least 100 billion, and the share of stars that have planets, which astronomers now think is most of them. After that, the numbers become guesses. What share of habitable planets get life? What share of life becomes intelligent? How long does a civilisation last and send signals? If you guess that each step is easy, you might get millions of civilisations. If you guess that one step is very rare, you might get only one, which is us. The equation does not tell us the answer. It tells us which numbers we most need to find out, such as how often life begins.",
    "examples": [
     "Astronomers can now count planets, so one early number of the chain is no longer a guess.",
     "Nobody knows how often life begins when conditions are right, because we have only one example.",
-    "Guessing one step is very rare can reduce the answer from millions of civilisations to almost none."
+    "Guessing that one step is very rare can reduce the answer from millions of civilisations to almost none."
    ],
    "art": "A funnel with a very large number of stars at the top, and smaller and smaller numbers at each step down to a few at the bottom.",
    "perspectives": []
@@ -315,7 +315,7 @@
    "concept": "What counts as alive?",
    "status": "debated",
    "context": "To look for life we must know what we are looking for. This card shows why that is harder than it sounds.",
-   "description": "A working definition used by NASA is that life is a self-sustaining chemical system capable of Darwinian evolution. That means it keeps itself going using energy, and it passes on changes so that its kind can adapt over many generations. By this idea, yeast, a tardigrade and a banyan tree are alive. A fire grows and uses fuel, but does not pass on a code, so it is not alive. A virus carries a code and evolves, but cannot make more of itself without a host cell, so many scientists say a virus is on the edge. A crystal grows too, but does not use energy to keep itself going. Any definition built from life on Earth may miss life that works in another way, and scientists keep debating it.",
+   "description": "A working definition used by NASA is that life is a self-sustaining chemical system capable of Darwinian evolution. That means it keeps itself going using energy, and it passes on changes so that its kind can adapt over many generations. By this idea, yeast, a tardigrade and a banyan tree are alive. A fire grows and uses fuel, but does not pass on a code, so it is not alive. A virus carries a code and evolves, but cannot make more of itself without a host cell, so many scientists say a virus is on the edge of being alive. A crystal grows too, but does not use energy to keep itself going. Any definition built from life on Earth may miss life that works in another way, and scientists keep debating it.",
    "examples": [
     "A fire uses fuel and grows, but does not copy a code, so it is not usually called alive.",
     "A virus carries a code and evolves, but needs a host cell to make more virus.",
@@ -333,7 +333,7 @@
     },
     {
      "who": "Scientists today",
-     "explanation": "There is no agreed answer. Most work with a flexible idea and judge each case by how many of the signs of life it shows."
+     "explanation": "There is no agreed answer. Most scientists work with a flexible idea and judge each case by how many of the signs of life it shows."
     }
    ]
   },
@@ -393,7 +393,7 @@
   },
   {
    "claim": "If a planet's air has oxygen, it must have life.",
-   "who": "Many people, and some early papers.",
+   "who": "Many people, and some early scientific papers.",
    "for": "On Earth, nearly all oxygen comes from plants, algae and microbes.",
    "against": "On some planets, strong starlight can split water or carbon dioxide and make oxygen with no life. A gas alone is not enough. Scientists look for several signs that fit together.",
    "status": "rejected",
@@ -409,7 +409,7 @@
   },
   {
    "claim": "The methane on Mars is made by microbes.",
-   "who": "Some scientists, after the Curiosity rover measured methane in 2013 to 2019.",
+   "who": "Some scientists, after the Curiosity rover measured methane from 2013 to 2019.",
    "for": "On Earth most methane is made by life, and Curiosity saw it rise and fall with the seasons.",
    "against": "Rocks can make methane without life, and another spacecraft later measured much less. The amount is tiny and its source is unknown.",
    "status": "debated",
@@ -417,7 +417,7 @@
   },
   {
    "claim": "A hint of dimethyl sulfide on the planet K2-18 b means it has life.",
-   "who": "Reports of a team led by Nikku Madhusudhan, 2023 and 2025.",
+   "who": "Reports by a team led by Nikku Madhusudhan, in 2023 and 2025.",
    "for": "On Earth, dimethyl sulfide is made mostly by sea plankton, and the team saw a hint of it.",
    "against": "Other teams looked at the data again and found the hint was weak or not there. Non-living chemistry may also make it, and the planet itself is not well understood.",
    "status": "debated",
@@ -435,14 +435,14 @@
    "claim": "All life must use liquid water.",
    "who": "Most biologists, because all known life does.",
    "for": "Every living thing found so far needs liquid water to carry out the reactions of life.",
-   "against": "We have only one kind of life to study. Some scientists ask whether other liquids, like methane on Titan, could host other chemistry. Nobody has found such life.",
+   "against": "We have only one kind of life to study. Some scientists ask whether another liquid, like the methane on Titan, could take the place of water. Nobody has found such life.",
    "status": "debated",
    "context": "This card looks at whether life must use water."
   },
   {
    "claim": "If aliens existed, we would have heard from them by now.",
-   "who": "Enrico Fermi's question of 1950 and many who repeat it.",
-   "for": "The galaxy is old and has billions of stars, so a civilisation had a long time to spread or send signals.",
+   "who": "Enrico Fermi, who asked this question in 1950, and many who repeat it.",
+   "for": "The galaxy is old and has billions of stars, so a civilisation has had a long time to spread or send signals.",
    "against": "We have listened to a tiny part of the sky and a tiny set of signal types for a short time. Signals take years to cross space, and a civilisation may not last long or may not send any.",
    "status": "debated",
    "context": "This card looks at the question of why we have not heard from anyone."
@@ -514,7 +514,7 @@
    "By evening, Mars had not changed at all. It was flat and cold. Venus on the geyser was flat as well, and it smelled like cooked flour. The cup above the fridge had a few bubbles. But the cup in the oven, with its small light, had risen into a soft white dome. Its lid sat crooked, pushed up by the gas. When Thenmozhi smelled it, it was sour and sweet at once.",
    "'That one is awake,' said Hari. 'That is the Earth cup.'",
    "'And Venus is dead,' said Thenmozhi. 'The heat was too much for the little ones.'",
-   "'But look at Mars,' said Paati. 'Move him in with Earth.'",
+   "'But look at Mars,' said Paati. 'Move that cup in with Earth.'",
    "Thenmozhi carried the cold katori into the warm oven. She had to wait all night. In the morning, Mars had a few bubbles, and by lunchtime it had a small dome of its own.",
    "'It was only asleep!' said Hari.",
    "Thenmozhi nodded slowly. 'Cold is a pause,' she said. 'Heat that is too great is the end. Venus never woke up.'",
@@ -524,7 +524,7 @@
   "epiphany": "We cannot see tiny living things from far away, but we can see what they do to their surroundings. A lifted lid, a swollen balloon, or a gas that nothing else explains is a sign that something alive is there.",
   "ask": [
    "Why can a swelling balloon or a lifted lid show that tiny living things are present, though you cannot see them?",
-   "Why did the batter in the hot place not rise, though the batter on the cold balcony did later?",
+   "The batter on the hot geyser never rose, but the batter from the cold balcony rose later in the warm oven. Why?",
    "How is looking at a planet's air like looking at the batter's lid?",
    "What other explanation could there be for bubbles, besides living things?"
   ],
@@ -545,7 +545,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a game about reading clues from far away. Each card shows something a scientist might find in a far-off planet's air or on a moon. You decide if it is a strong hint of life, not a sign, or too early to tell.",
+   "context": "This is a game about reading clues from far away. Each card shows something a scientist might find in a far-off planet's air or on a moon. You decide if it is a strong hint of life, not a sign of life, or too early to tell.",
    "setup": [
     {
      "art": "Twenty cards in a shuffled pile in the middle of a table, with three tokens in front of each player: strong hint, not a sign, can't tell.",
@@ -571,7 +571,7 @@
       },
       {
        "f": "A sealed bottle of sugar water and yeast has a balloon on top. The balloon swells.",
-       "b": "Strong hint of life. Yeast eat sugar and give out carbon dioxide. Gas that something is making."
+       "b": "Strong hint of life. Yeast eat sugar and give out carbon dioxide, so something in the bottle is making gas."
       },
       {
        "f": "Three different telescopes find oxygen, methane and dimethyl sulfide in one planet's air.",
@@ -586,7 +586,7 @@
        "b": "Strong hint of life. Sprouting seeds breathe. They use oxygen and give out carbon dioxide."
       },
       {
-       "f": "Imagine the spray from an icy moon holds long chains of organic molecules in a pattern like the ones in living cells.",
+       "f": "Suppose the spray from an icy moon holds long chains of organic molecules in a pattern like the ones in living cells.",
        "b": "Strong hint of life. Non-living chemistry rarely makes such patterns. Other teams would still need to check it."
       },
       {
@@ -595,7 +595,7 @@
       },
       {
        "f": "A hot planet very close to its star has a lot of oxygen. The strong starlight splits its water.",
-       "b": "Not a sign of life. Strong light can split water and make oxygen without life. A false alarm."
+       "b": "Not a sign of life. Strong light can split water and make oxygen without life. This is a false alarm."
       },
       {
        "f": "A planet's air is only nitrogen and a little argon. Nothing in it reacts with anything else.",
@@ -670,7 +670,7 @@
     "Each player gets three tokens: Strong hint of life, Not a sign of life, and Can't tell yet. Shuffle the cards into a pile, clue side up.",
     "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
     "Everyone else puts one token face down. Then everyone turns their token over together.",
-    "Each player says why. A good reason says what clue matters, or what other explanation could fool us.",
+    "Each player says why they chose that token. A good reason says what clue matters, or what other explanation could fool us.",
     "The reader turns the card over and reads the back aloud. A right answer scores 1 point. A good reason, or naming a second clue that would help, scores 1 more point.",
     "Pass the reader job to the next player. Play until the pile runs out. The most points wins. In a tie, everyone wins.",
     "Playing alone: take the top card, put a token on it, then check the back. Score 1 for each right answer out of 20, and try to beat your score another day."
@@ -680,8 +680,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 20 cards and the tokens. Give each player three tokens. Shuffle the cards and put them in a pile. Read the three tokens aloud.",
-     "say": "Scientists hunt for life on faraway worlds by reading clues. Some clues are strong hints. Some are not signs at all. And some are too early to tell. You must choose, and say why.",
-     "kid": "Cut out the cards and tokens. Three answers: strong hint, not a sign, can't tell.",
+     "say": "Scientists hunt for life on faraway worlds by reading clues. Some clues are strong hints of life. Some are not signs of life at all. For some, it is too early to tell. You must choose, and say why.",
+     "kid": "Cut out the cards and tokens. The three answers are: strong hint of life, not a sign of life, and can't tell yet.",
      "adult": true,
      "context": "This is the first step of the Biosignature Detectives game. You set up the cards and tokens."
     },
@@ -689,7 +689,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the two bottle cards face up together. Talk about each one. Ask what else could make a balloon swell.",
-     "say": "A bottle of sugar and yeast, with a balloon that swells. Is that a strong hint of life, not a sign, or can't tell? Now a bottle of sugar with no yeast, and a flat balloon. What is the difference?",
+     "say": "A bottle of sugar water and yeast has a balloon that swells. Is that a strong hint of life, not a sign of life, or can't tell yet? A bottle of sugar water with no yeast has a flat balloon. What is the difference?",
      "kid": "Read the two bottle cards. Pick a token for each. Say why.",
      "check": {
       "t": "mcq",
@@ -789,7 +789,7 @@
       },
       {
        "f": "Around the Sun. Jupiter, 778 million kilometres from the Sun.",
-       "b": "Too cold. Far outside the zone, water on Jupiter's cloud tops is frozen. Its moons may be warmed from inside."
+       "b": "Too cold. Jupiter is far outside the zone, and water at its cloud tops is frozen. Its moons may be warmed from inside."
       },
       {
        "f": "Around the Sun. Neptune, about 4,500 million kilometres from the Sun.",
@@ -817,7 +817,7 @@
       },
       {
        "f": "Around TRAPPIST-1. Planet g, about 7.0 million kilometres from the star.",
-       "b": "Just right, possibly. This planet is about as near its star as the imaginary planet was to the Sun, but its star is much dimmer."
+       "b": "Just right, possibly. This planet is about as near its star as the imaginary planet 5 million kilometres from the Sun, but its star is much dimmer."
       },
       {
        "f": "Around TRAPPIST-1. Planet h, about 9.3 million kilometres from the star.",
@@ -825,7 +825,7 @@
       },
       {
        "f": "Around TRAPPIST-1. An imaginary planet, 150 million kilometres from the star.",
-       "b": "Too cold. The star is so dim that Earth's distance would be far too cold."
+       "b": "Too cold. The star is so dim that a planet at Earth's distance would be far too cold."
       }
      ]
     }
@@ -852,8 +852,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the Earth card and the imaginary card 5 million kilometres from the Sun together. Then play the TRAPPIST-1 card for planet g. Compare.",
-     "say": "Earth is 150 million kilometres from the Sun. Another imaginary planet is only 5 million. Which is hotter? Now planet g is about 7 million kilometres from its star. Is that hot or cold? Why is it different?",
-     "kid": "Compare 3 cards. Same distance, different star. Why is the answer different?",
+     "say": "Earth is 150 million kilometres from the Sun. An imaginary planet is only 5 million kilometres from the Sun. Which is hotter? Planet g is about 7 million kilometres from its star, TRAPPIST-1. Is it hot or cold? Why is it different?",
+     "kid": "Compare 3 cards. Two planets are about the same distance from their stars, but the stars are different. Why is the answer different?",
      "check": {
       "t": "mcq",
       "q": "A planet is 7 million kilometres from a star. Why might it be too hot around the Sun but just right around TRAPPIST-1?",
@@ -863,7 +863,7 @@
        "Distance does not matter"
       ],
       "a": 0,
-      "why": "A dim star gives out far less light, so a planet can sit very close and stay cool. A bright star warms a planet at the same distance much more. Picking 'distance does not matter' misses that it does, but together with how bright the star is."
+      "why": "A dim star gives out far less light, so a planet can sit very close and stay cool. A bright star warms a planet at the same distance much more. Picking 'distance does not matter' misses that distance does matter, together with how bright the star is."
      },
      "context": "In this step, you compare the same distance around two different stars."
     },
@@ -871,7 +871,7 @@
      "id": "s3",
      "mins": 7,
      "do": "Play the game as the rules say. For each card, ask the player who answers to say if the world also needs air and water.",
-     "say": "Read the card. Put your finger on a box. Say why. Then the reader tells us the answer. And is the zone enough? What else does the planet need?",
+     "say": "Read the card. Put your finger on a box. Say why. Then the reader tells us the answer. Is being in the zone enough? What else does the planet need?",
      "kid": "Read a card. Point to a box. Say why. Check the back.",
      "parent": "The zone is only about distance. The other things that matter are a world's air, its size, and how much water it has. Mars is near the cold edge, but its thin air matters more than its distance.",
      "context": "In this step, you play the game and think about what else a world needs."
@@ -879,8 +879,8 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask what surprised them. Ask why Jupiter's moons might still be habitable though they are in the 'too cold' box.",
-     "say": "Which card surprised you most? And Europa and Enceladus are far in the too cold box. Why might they still have liquid water?",
+     "do": "Ask what surprised them. Ask why the moons Europa and Enceladus might still have liquid water though they are in the 'too cold' box.",
+     "say": "Which card surprised you most? Europa and Enceladus are far out, in the too cold box. Why might they still have liquid water?",
      "kid": "Which card surprised you? How can a far moon still have liquid water?",
      "think": "If a moon is warmed from inside, does the habitable zone still matter?",
      "context": "In this step, you talk about what the zone leaves out."
@@ -1029,7 +1029,7 @@
     },
     {
      "t": "write",
-     "p": "In the curd test, cup D stayed liquid, and cup A, from the fridge, set later when it was warmed. What is the difference between what cold does and what too much heat does to tiny living things?",
+     "p": "In the Curd Zones test, cup D got its curd while the milk was too hot, and it stayed liquid. Cup A, from the fridge, set later when it was warmed. What is the difference between what cold does and what too much heat does to tiny living things?",
      "lines": 4,
      "a": "Cold only slows them down, so they can wake up again when it warms up. Too much heat kills them for good, so they cannot wake up. So a cold world may still have sleeping life, and a world that is too hot may not.",
      "why": "A strong answer says that cold pauses and heat destroys, and uses it to say where life might survive.",
@@ -1057,7 +1057,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the four bottles of the yeast test with their balloons at the end. Show which balloon is big and which are flat. Label the bottles that hold life.",
+     "p": "Draw the four bottles of the Bottle Biosignature test with their balloons at the end: yeast and sugar, yeast only, sugar only, and dead yeast with sugar. Show which balloon is big and which are flat. Label the bottles that hold life.",
      "a": "Four bottles. The balloon on the bottle with yeast and sugar is large. The balloons on the bottle with yeast only, the bottle with sugar only and the bottle with dead yeast are flat or almost flat. Only the first is labelled as holding life.",
      "why": "A strong drawing shows that only the bottle with living yeast and sugar changed the air. The other three are controls.",
      "how": "e1",
@@ -1264,9 +1264,9 @@
     },
     {
      "t": "write",
-     "p": "In the curd test, the fridge cup did not set, but it set later when it was moved to a warm box. What does this say about cold, and why could it matter for a very cold icy moon?",
+     "p": "In the Curd Zones test, the cup of milk and curd in the fridge did not set, but it set later when it was moved to a warm box. What does this say about cold, and why could it matter for a very cold icy moon?",
      "lines": 4,
-     "a": "Cold does not kill tiny living things. It pauses them, and they wake up when warmed. So microbes could sleep in the cold, and life could survive in a cold place for a long time. It matters because an icy moon may keep sleeping life, or its inside may be warm enough for it to be awake.",
+     "a": "Cold does not kill tiny living things. It pauses them, and they wake up when warmed. So microbes could sleep in the cold, and life could survive in a cold place for a long time. It matters because an icy moon may keep sleeping life, or its inside may be warm enough for life to be awake.",
      "why": "A strong answer says that cold pauses life and does not end it, and links this to icy places.",
      "how": "e2",
      "outcome": 0
@@ -1753,7 +1753,7 @@
      "id": "s5",
      "mins": 8,
      "do": "At 30 minutes and 40 minutes, measure the balloons again in the same way. Write the lengths. Smell each bottle by sniffing at the neck of the bottle, but do not open it.",
-     "say": "Thirty minutes, measure. Forty minutes, measure. Can you smell anything near the neck of the bottle? What does bottle A smell like? Does it smell like anything you have at home?",
+     "say": "At thirty minutes, measure the balloons again. At forty minutes, measure once more. Can you smell anything near the neck of the bottle? What does bottle A smell like? Does it smell like anything you have at home?",
      "kid": "Measure at 30 and 40 minutes. Sniff near the neck of each bottle.",
      "parent": "Expected: balloon A swells steadily, the others stay flat or nearly flat. Bottle A smells like bread or batter. If balloon A has not swelled after 30 minutes, the yeast may be old or the water too hot or cold. Write it down, and try again with fresh yeast and bath-warm water.",
      "context": "In this step, you measure the balloons at 30 and 40 minutes and smell the bottles."
@@ -1761,9 +1761,9 @@
     {
      "id": "s6",
      "mins": 10,
-     "do": "Ask for claim, evidence and reasoning. Then ask your child to be a space probe that can see only the balloons. Draw a bar chart of the balloon sizes at 40 minutes.",
+     "do": "Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Then ask your child to be a space probe that can see only the balloons. Draw a bar chart of the balloon sizes at 40 minutes.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened? Now pretend you are a space probe that can see only the balloons. Which bottles would you say hold life?",
-     "kid": "Say three things. What I think. What I saw. Why. Then pretend you can see only the balloons.",
+     "kid": "Say three things: what you think, what you saw, and why it happened. Then pretend you can see only the balloons.",
      "parent": "A good answer. What I think: living yeast change the gas in the bottle. What I saw: only the bottle with yeast and sugar swelled the balloon. The dead yeast and the sugar alone did nothing. Why: living yeast eat sugar and give out carbon dioxide gas, and the gas swells the balloon. A probe that saw only the balloons would say bottle A holds life, and it would be right. But a probe seeing only a swollen balloon could be fooled by something else that makes gas, so a scientist would want a second sign. Give this last part only after your child has given their own ideas.",
      "think": "What other thing could swell a balloon on a bottle, without any life?",
      "context": "In this step, you say what the balloons show, and you play the part of a probe that sees only the gas."
@@ -1812,7 +1812,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up boils the milk and pours the hot milk. Hot milk burns, so keep children back. Keep all cups covered and clean. Do not eat cups A and D. If any cup looks pink, fizzy or smells rotten, throw it away. Wash hands.",
+   "safety": "A grown-up boils the milk and pours the hot milk. Hot milk burns, so keep children back. Keep all cups covered and clean. Do not eat what is in cups A and D. If any cup looks pink, fizzy or smells rotten, throw it away. Wash hands.",
    "schedule": [
     {
      "day": 1,
@@ -1871,7 +1871,7 @@
      "say": "Cup D gets the curd while the milk is still steaming hot. For the others, we wait until the milk is warm like a bath. Keep a clean finger in it for ten seconds. If it hurts, it is too hot.",
      "kid": "A grown-up boils the milk. Wait until it is warm. Pour it into cups A, B and C.",
      "adult": true,
-     "parent": "Do the finger test with a clean finger. If you have a thermometer, the milk for A, B and C should be 40 to 45 degrees. Curd bacteria die quickly above about 60 degrees, so cup D will lose them at once.",
+     "parent": "Do the finger test with a clean finger. If you have a thermometer, the milk for A, B and C should be 40 to 45 degrees. Curd bacteria die quickly above about 60 degrees, so the bacteria in cup D will die at once.",
      "context": "In this step, a grown-up boils the milk and pours it into the cups. Cup D gets the curd while the milk is too hot."
     },
     {
@@ -1879,7 +1879,7 @@
      "mins": 5,
      "do": "Stir 1 teaspoon of curd into each of cups A, B and C. Cover all four cups. Put A in the fridge. Put B on the kitchen counter. Put C in the insulated box with a bottle of warm water. Put D on the counter.",
      "say": "A goes in the fridge. B stays out in the kitchen. C goes in the warm box. D is the one that was too hot. Now we wait all night.",
-     "kid": "Stir in a spoon of curd. Cover each cup. Put A in the fridge, B out, C in the warm box.",
+     "kid": "Stir a spoon of curd into cups A, B and C. Cover every cup. Put A in the fridge, B and D on the counter, and C in the warm box.",
      "check": {
       "t": "mcq",
       "q": "Why do we put the same spoon of the same curd in every cup?",
@@ -1917,9 +1917,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Move cups A and D into the warm box with a fresh bottle of warm water. Leave them for a few hours and check again. Then ask for claim, evidence and reasoning.",
+     "do": "Move cups A and D into the warm box with a fresh bottle of warm water. Leave them for a few hours and check again. Then ask your child three things: what they think now, what they saw, and why they think it happened.",
      "say": "Now we move the fridge cup and the too-hot cup into the warm box. Which one do you think will set later? Why? Tell me three things. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Move cups A and D into the warm box. Say three things. What I think. What I saw. Why.",
+     "kid": "Move cups A and D into the warm box. Then say three things: what you think, what you saw, and why it happened.",
      "wait": "Check cups A and D again later the same day",
      "parent": "A good answer. What I think: curd bacteria need a warm place, cold puts them to sleep and too much heat kills them. What I saw: C set, A and D stayed liquid. Why: warmth makes the bacteria grow and sour the milk, and then the milk sets. Cold only slows them, and cup A usually sets later when warmed. Cup D never sets, because heat killed the bacteria. This is like Earth's cold places, where microbes can sleep, and its boiling places, where most cannot live.",
      "think": "A planet that is too cold might still have sleeping life, and a planet that is too hot might not. What does that say about where to look?",
@@ -1998,7 +1998,7 @@
        "Radio signals from towers"
       ],
       "a": 0,
-      "why": "Plants, algae and microbes keep making oxygen and methane, whether or not people are there. City lights and radio signals would fade as the machines stopped. Life that is not people is the oldest sign of life on Earth."
+      "why": "Plants, algae and microbes keep making oxygen and methane, whether or not people are there. City lights and radio signals would fade as the machines stopped. The gases made by plants and microbes are the oldest sign of life on Earth."
      },
      "think": "Which of these signs would be best for finding microbes, not people?",
      "context": "In this step, you rank the signs from the easiest to fake to the hardest to fake."
@@ -2053,7 +2053,7 @@
      "mins": 4,
      "do": "Explain that a star dims a tiny bit when a planet passes in front. Read out the data for Star X. The brightness is 1000 on every day from 1 to 18. It is 990 on days 5, 11 and 17. Ask your child to guess how the graph will look.",
      "say": "A planet is too faint to see, but when it crosses in front of its star, the star dims a tiny bit. Star X has a brightness of 1000 on most days, but 990 on days 5, 11 and 17. What will the graph look like? What does a dip mean?",
-     "kid": "A planet crossing a star makes it dim. Star X is 1000 except 990 on days 5, 11 and 17.",
+     "kid": "A planet crossing a star makes it dim. Star X has a brightness of 1000, except on days 5, 11 and 17, when it is 990.",
      "ask": [
       {
        "q": "What do you think the dips tell us about the planet?",
@@ -2064,7 +2064,7 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. The dips are real transits, shown as made-up data. The brightness numbers are in thousandths of the star's normal light.",
+     "parent": "Do not correct the guess. The data are made up, but real transits look like this. A brightness of 1000 stands for the star's normal light, so 990 means 10 parts in 1,000 less.",
      "context": "This is the first step of the Planet Hunter's Graph. You read the data and guess what the graph will show."
     },
     {
@@ -2098,9 +2098,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Compare the two planets. Ask which is bigger and which is closer to its star. Ask for claim, evidence and reasoning.",
+     "do": "Compare the two planets. Ask which is bigger and which is closer to its star. Then ask your child three things: what they think, what they saw, and why.",
      "say": "Which planet blocks more light, X or Y? So which is bigger? Which has the shorter year? A planet with a shorter year is closer to its star. What do you think? What did you see? Why?",
-     "kid": "Which planet is bigger? Which is closer to its star? Say three things.",
+     "kid": "Which planet is bigger? Which is closer to its star? Say three things: what you think, what you saw, and why.",
      "parent": "A good answer. What I think: planet X is bigger and planet Y is closer to its star. What I saw: X made a deeper dip, and Y's dips came every 4 days. Why: a bigger planet blocks more light, and a planet closer to its star goes round faster. An Earth-sized planet would block only about 1 part in 10,000, so it would be very hard to see.",
      "think": "How would you check that the dips are a planet and not something else, like a star spot?",
      "context": "In this step, you compare the two planets and say what the graphs show."
@@ -2189,17 +2189,17 @@
      "id": "s3",
      "mins": 8,
      "do": "Do the cautious chain. Step 1: divide 100,000,000,000 by 5. Step 2: divide by 10. Step 3: divide by 1,000. Step 4: divide by 100. Write each answer. Then try a very cautious chain with step 2 divided by 1,000 and step 3 divided by 1,000,000.",
-     "say": "The cautious person says life starts in one place in ten. One in a thousand becomes able to build machines. One in a hundred sends signals we can hear. What is left? Then a very cautious person says one in a thousand, then one in a million. What is left now?",
+     "say": "The cautious person says life starts in one place in ten. One in a thousand becomes able to build machines. One in a hundred sends signals we can hear. What is left? Then a very cautious person says life starts in one place in a thousand, and only one in a million of those becomes able to build machines. What is left now?",
      "kid": "Cautious: divide by 5, 10, 1,000 and 100. What is left? Then try a very cautious chain.",
-     "parent": "The cautious chain gives 20,000,000,000 then 2,000,000,000 then 2,000,000 then 20,000. The very cautious chain gives 20,000,000,000 then 20,000,000 then 20, then 0.2 at the last step. That is less than one, so it means we may be alone in our galaxy. The same data give answers from 100 million to less than one.",
+     "parent": "The cautious chain gives 20,000,000,000 then 2,000,000,000 then 2,000,000 then 20,000. The very cautious chain gives 20,000,000,000 then 20,000,000 then 20, then 0.2 at the last step. That is less than one, so it means we may be alone in our galaxy. The same starting number gives answers from 100 million to less than one.",
      "context": "In this step, you work out the cautious chain and a very cautious chain."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Compare the three answers. Ask which step changed the answer the most. Ask for claim, evidence and reasoning.",
+     "do": "Compare the three answers. Ask which step changed the answer the most. Then ask your child three things: what they think now, what they saw, and why they think it happened.",
      "say": "Look at the three answers. They are very different. Which step made the biggest difference? What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Compare the 3 answers. Which step changed the answer most? Say three things.",
+     "kid": "Compare the 3 answers. Which step changed the answer most? Say three things: what you think, what you saw, and why.",
      "parent": "A good answer. What I think: the answer depends mostly on the guesses we know least about. What I saw: the answer ran from 100 million to less than one. Why: the steps about life starting and becoming intelligent are the least known, and each one divides the answer by a very big number. This does not tell us the answer. It tells us which things we most need to find out.",
      "think": "Which number would you most like to know, to make the answer better?",
      "context": "In this step, you compare the three chains and say what they show."
@@ -2299,7 +2299,7 @@
        "The sheet is hot"
       ],
       "a": 0,
-      "why": "The torch gives out all colours. The red sheet lets red through and takes away the rest, so only red is left on the wall. Picking 'makes red light' misses that the torch did the lighting."
+      "why": "The torch gives out all colours. The red sheet lets red through and takes away the rest, so only red is left on the wall. Picking 'makes red light' misses that the light came from the torch."
      },
      "parent": "Expected: red leaves only the red end. Green leaves mostly the green part. Yellow takes away the blue and violet end, leaving red, orange, yellow and green. Real gases are more precise. Each takes away very narrow lines of colour, like a barcode.",
      "context": "In this step, you put coloured sheets in front of the torch and see which colours go missing."
@@ -2307,9 +2307,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning. Connect the sheets to a planet's air. Ask how this could tell us a gas is there.",
+     "do": "Ask your child three things: what they think now, what they saw, and why they think it happened. Connect the coloured sheets to a planet's air. Ask how missing colours could tell us a gas is there.",
      "say": "What do you think now? What did you see? Why do you think it happened? Now, if starlight passed through a planet's air and some colours were missing, what could scientists work out?",
-     "kid": "Say three things. What I think. What I saw. Why. How could missing colours show a gas?",
+     "kid": "Say three things: what you think, what you saw, and why it happened. How could missing colours show a gas?",
      "parent": "A good answer. What I think: a coloured thing takes away some colours from white light. What I saw: with the red sheet only red was left. Why: the sheet lets some colours through and stops the others. A gas does the same, with its own set of missing colours. By seeing which colours are missing, scientists can tell which gases the light passed through.",
      "context": "In this step, you connect your test to the way scientists read the air of faraway planets."
     }
@@ -2353,7 +2353,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Write these eight things on cards. Write a candle flame, a dry seed, yeast in sugar water and a virus. Then write a robot vacuum cleaner, a growing salt crystal, a banyan tree and a mule. Read the six signs. They are: uses energy, grows and responds to the world. They also are: makes copies of itself as a kind, changes over many generations and is made of cells.",
+     "do": "Write these eight things on cards: a candle flame, a dry seed, yeast in sugar water, a virus, a robot vacuum cleaner, a growing salt crystal, a banyan tree and a mule. Then read the six signs of life: it uses energy, it grows, it responds to the world, its kind makes copies of itself, it changes over many generations, and it is made of cells.",
      "say": "Here are eight things. Some are alive and some are not, and for some it is hard to say. Here are six signs of life. First guess, without the signs, which are alive.",
      "kid": "Write 8 things on cards. Guess which are alive. Then read the 6 signs of life.",
      "ask": [
@@ -2362,7 +2362,7 @@
        "good": [
         "Viruses, because they cannot live on their own.",
         "A dry seed, because the seed does nothing.",
-        "The fire, because it grows and eats."
+        "The candle flame, because it grows and eats."
        ]
       }
      ],
@@ -2391,9 +2391,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning. Ask why this matters for finding life on other worlds.",
+     "do": "Ask your child three things: what they think now, what they saw in the table, and why scientists find it hard to agree. Ask why this matters for finding life on other worlds.",
      "say": "What do you think now? What did you see in your table? Why do you think scientists find it hard to agree? And why does this matter when we look for life on another planet?",
-     "kid": "Say three things. What I think. What I saw. Why. Why does this matter in space?",
+     "kid": "Say three things: what you think, what you saw, and why. Why does this matter in space?",
      "parent": "A good answer. What I think: it is hard to say exactly what life is. What I saw: some things showed a few signs but not all, like fire and viruses. Why: our list was made from life on Earth, so life elsewhere might not fit it. Scientists use a working idea: a self-sustaining chemical system that can evolve.",
      "think": "If you found something on Mars that showed only some of the signs, what would you do next?",
      "context": "In this step, you say what the table showed and why it matters for finding life elsewhere."
@@ -2525,7 +2525,7 @@
    "constraints": [
     "The collector may be at most 15 centimetres across.",
     "You must walk past at a steady pace, taking about 3 seconds, and must not stop.",
-    "The bottle gives exactly 5 sprays during one pass, done by a helper.",
+    "A helper gives exactly 5 sprays from the bottle during one pass.",
     "The collector must be held at 30 centimetres from the nozzle, and not touch it."
    ],
    "materials": [
@@ -2577,7 +2577,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the Catch the Plume challenge. You plan."
+     "context": "This is the first step of the Catch the Plume challenge. You sketch your designs."
     },
     {
      "id": "s2",
@@ -2611,9 +2611,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Compare your tests. Ask for claim, evidence and reasoning. Ask why a real spacecraft's collector has to work so quickly.",
+     "do": "Compare your tests. Ask your child three things: what they think now, what they saw, and why they think it worked. Ask why a real spacecraft's collector has to work so quickly.",
      "say": "Which design caught the most? What do you think now? What did you see? Why do you think it worked? A real spacecraft flies through the plume in seconds. Why does it have to catch everything in one pass?",
-     "kid": "Which design caught the most? Say three things. What I think. What I saw. Why.",
+     "kid": "Which design caught the most? Say three things: what you think, what you saw, and why.",
      "parent": "A good answer. What I think: a collector that soaks up drops and has a lip catches the most. What I saw: the towel caught more than the flat card, and the card with a lip caught more than the plain card. Why: drops bounce and run off a smooth flat surface. A real spacecraft flies through a plume in a few seconds and has no second chance, so its instruments must work in one pass.",
      "think": "What would you want to find out from the drops if they really came from an ocean on another world?",
      "context": "In this step, you compare your tests and say what worked and why."
@@ -2640,7 +2640,7 @@
    "general": [
     "Choose the world with the best evidence of liquid water, such as Enceladus, where a plume carries the ocean to a spacecraft.",
     "Choose the cheapest world, and use the rest of the coins for a second mission.",
-    "Choose Mars, where rovers already work and samples already wait."
+    "Choose Mars, where rovers are already working and rock samples are already waiting."
    ],
    "creative": [
     "Choose two cheap missions, one for the water and one for the chemistry, and compare the results.",
@@ -2707,7 +2707,7 @@
      "say": "Read your plan aloud. Now hear someone else's plan for a different world. Whose reasons are stronger? Is there a right answer, or is it a choice that depends on what we most want to find out?",
      "kid": "Read your plan aloud. Hear someone else's plan. Whose reasons are stronger?",
      "parent": "There is no right answer. Real scientists argue about this too. The best plans give reasons that use water, energy and ease of testing, and say what would change their mind.",
-     "think": "Would you change your plan if a new telescope found a strong sign of life in one world?",
+     "think": "Would you change your plan if a new telescope found a strong sign of life on one of the worlds?",
      "context": "In this step, you share your plan and compare it with someone else's."
     }
    ]
@@ -2757,7 +2757,7 @@
   },
   {
    "t": "mcq",
-   "p": "Venus is closer to the Sun than Earth and much hotter, but Mercury is closest to the Sun and cooler than Venus. What explains Venus?",
+   "p": "Mercury is closer to the Sun than Venus, but Venus is hotter. Why is Venus so hot?",
    "opts": [
     "Its thick carbon dioxide air holds heat in",
     "Venus is bigger than Mercury",
@@ -2769,7 +2769,7 @@
   },
   {
    "t": "mcq",
-   "p": "A planet is the same distance from two stars, one bright and one dim. Which statement is correct?",
+   "p": "A planet could go round a bright star or a dim star, at the same distance. Which statement is correct?",
    "opts": [
     "It is warmer around the bright star, because the bright star gives out more light",
     "It is warmer around the dim star",
@@ -2812,7 +2812,7 @@
     "Air that was already inside"
    ],
    "a": 0,
-   "why": "Yeast eat sugar and give out carbon dioxide gas. The bottle without yeast stayed flat, which shows the gas comes from the yeast. Picking 'air that was already inside' misses that the balloon of the other bottle did not swell.",
+   "why": "Yeast eat sugar and give out carbon dioxide gas. The bottle without yeast stayed flat, which shows the gas comes from the yeast. Picking 'air that was already inside' misses that the balloon on the bottle without yeast did not swell.",
    "outcome": 3
   },
   {
@@ -3103,7 +3103,7 @@
   {
    "problem": "Light travels about 9.5 trillion kilometres in a year. Round that to 10 trillion. About how far is a star 40 light-years away?",
    "answer": "About 400 trillion kilometres.",
-   "explain": "40 times 10 trillion is 400 trillion. You can think of it as 4 times 10, which is 40, and then 10 more. The exact answer is a little smaller, about 380 trillion, because 9.5 is a little less than 10.",
+   "explain": "40 times 10 trillion is 400 trillion. You can think of it as 4 times 10, which is 40, and then multiply by 10 again to get 400. The exact answer is a little smaller, about 380 trillion, because 9.5 is a little less than 10.",
    "math_unit": "math.number-sense.estimation.L4",
    "context": "This is about how far away other stars are. Astronomers measure the distances to stars in light-years.",
    "why_maths": "Rounding to 10 trillion makes the sum easy, and it is good enough to show how huge the distance is."
@@ -3231,7 +3231,7 @@
   },
   {
    "q": "Why is Venus hotter than Mercury?",
-   "a": "Venus has a thick carbon dioxide air that holds heat in."
+   "a": "Venus has thick carbon dioxide air that holds heat in."
   },
   {
    "q": "What is chemosynthesis?",
@@ -3351,22 +3351,22 @@
   ]
  },
  "roots": {
-  "context": "We have tested bottles of yeast, cups of curd and the air of other worlds. Now we ask what it means that life shows itself by what it changes, and how sure anyone can be of what they cannot see.",
+  "context": "In this unit you tested bottles of yeast and cups of curd, and learned how scientists read the air of other worlds. This part asks two things: why living things can be found by the changes they make, and how sure anyone can be about something they cannot see.",
   "deep_truth": {
-   "truth": "Only the bottle with yeast and sugar made gas and blew up the balloon. From outside, you could not see the yeast, only the gas they kept making. On a far planet, life might show as gases that would fade away unless living things kept making them. So we may find life by what it keeps changing, long before we see a creature.",
+   "truth": "In the Bottle Biosignature test, only the bottle with living yeast and sugar made gas and blew up its balloon. From outside, you could not see the yeast, only the gas they kept making. On a far planet, life might show up in the same way, as gases that would fade away unless living things kept making them. So we may find life by what it keeps changing, long before we see a creature.",
    "habit": "We expect to find life by seeing a creature. But from far away, the first sign would be a change in the air.",
    "evidence": "In the Bottle Biosignature test, the yeast and sugar bottle swelled the balloon on top, and the bottles with no yeast, no sugar or dead yeast stayed flat. If your own results differ, write them down as they are and test again."
   },
   "three": {
    "who_am_i": "Each breath you breathe out holds about a hundred times more carbon dioxide than the air you breathed in. Your body changes the air around you all the time.",
-   "what_is_life": "Yeast, curd bacteria and idli batter all show themselves by what they do to the air, bubbles and a lifted lid, long before we see anything.",
+   "what_is_life": "We cannot see yeast or curd bacteria. We know they are alive from what they do: bubbles in the batter, a lid lifted by gas, milk that sets into curd.",
    "what_is_this_world": "Earth's air is full of oxygen only because plants and microbes keep making it. Without them, it would fade away."
   },
-  "thread": "Life is not only the creatures. It is also what they do to the world around them. Yeast change the air in a bottle. Plants and microbes keep Earth's air full of oxygen. Bacteria around a hot vent turn rock chemicals into food. From a distance, only the changes can be seen. This means that a living thing and its surroundings cannot be pulled apart cleanly. When scientists read the air of a distant planet, they are asking whether something there is a part of the planet's chemistry, steadily changing it. The question that remains is how sure we can be of what we cannot see.",
+  "thread": "Living things change the world around them. Yeast change the air in a bottle. Plants and microbes keep Earth's air full of oxygen. Bacteria around a hot vent turn chemicals from the vent into food. From a distance, only these changes can be seen. So a living thing and its surroundings cannot be cleanly separated. When scientists read the air of a distant planet, they are asking whether something there keeps changing that air. What remains is the question of how sure we can be about something we cannot see.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12 (the banyan seed)",
-    "teaching": "Uddalaka asks his son Svetaketu to break open a banyan fruit, and then a seed inside the fruit. 'What do you see?' 'Nothing, sir.' 'That fine thing you do not see, from that this great banyan tree stands.'",
+    "teaching": "Uddalaka asks his son Svetaketu to break open a banyan fruit, and then a seed inside the fruit. 'What do you see?' 'Nothing, sir.' 'This great banyan tree grows from that fine thing you cannot see.'",
     "link": "We cannot see yeast, but a swollen balloon shows they are there. The unseen shows itself by what it does."
    },
    {
@@ -3382,7 +3382,7 @@
   ],
   "science": [
    {
-    "text": "Living things change the gases around them, and these changes can be measured. On Earth, plants and microbes keep oxygen and methane in the air together, out of balance.",
+    "text": "Living things change the gases around them, and these changes can be measured. On Earth, plants and microbes keep both oxygen and methane in the air, though these two gases react with each other and would otherwise disappear.",
     "status": "settled"
    },
    {
@@ -3402,12 +3402,12 @@
    "title": "Listen for what you cannot see",
    "mins": 3,
    "say": "Sit still and close your eyes. Put one hand on your chest and feel your heart. Put the other hand in front of your nose and feel your breath. You cannot see your heart or your breath. How do you know they are there? Breathe slowly three times, and notice what your body is doing to the air.",
-   "kid": "Close your eyes. Hand on chest. Feel your heart. Feel your breath on your hand. Breathe slowly three times."
+   "kid": "Close your eyes. Put one hand on your chest and feel your heart. Feel your breath on your other hand. Breathe slowly three times."
   },
   "ask": [
    "How would you know that something is alive if you could never see it?",
    "If a gas on a far planet looked exactly like a sign of life, but nobody could be sure, what should we do?",
-   "Is a planet with life on it more than a planet plus living things, or is it one thing?"
+   "Can a planet and the living things on it be thought of separately, or do they make one thing together?"
   ],
   "art": "A child with a hand on her chest, a bottle with a swollen balloon on a table and, in the window behind, a distant planet with a thin ring of air."
  },

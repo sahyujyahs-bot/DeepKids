@@ -142,7 +142,7 @@
       "concept": "The terminator: where the Moon's day meets its night",
       "status": "defined",
       "definition": "The terminator is the line between the Moon's lit part and its dark part. For a place on the Moon, it is the moment of sunrise or sunset.",
-      "description": "The Sun lights half of the Moon at all times. The line between the lit half and the dark half goes round the Moon like a slow wave. As the Moon moves through its phases, the terminator seems to sweep across its face. For a growing Moon, the terminator is moving over land that is just having its sunrise. For a shrinking Moon, it is crossing land that is having its sunset. On the real Moon, at the terminator, the Sun is low in the sky, just above the horizon. The land there is like the Earth in the first light of morning. The Sun shines almost along the ground, so a long shadow stretches behind every rock. Beyond the terminator is the dark side of the Moon's night. A place on the near side takes about two weeks to go from sunrise to sunset.",
+      "description": "The Sun lights half of the Moon at all times. The line between the lit half and the dark half is the terminator, and it moves slowly round the Moon. As the Moon goes through its phases, we see the terminator sweep across its face. On a growing Moon, the terminator is moving over land that is just having its sunrise. On a shrinking Moon, it is crossing land that is having its sunset. For someone standing on the Moon at the terminator, the Sun is low in the sky, just above the horizon. The land there is like the Earth in the first light of morning. The Sun shines almost along the ground, so a long shadow stretches behind every rock. Beyond the terminator is the Moon's night. A place on the near side takes about two weeks to go from sunrise to sunset.",
       "examples": [
         "At first quarter, the half Moon, the terminator is a straight line down the middle. The land on it is having its sunrise.",
         "A crescent Moon is mostly terminator, with the Sun low over most of the lit part."
@@ -154,7 +154,7 @@
       "concept": "Long shadows show shape: why half Moons show mountains and full Moons hide them",
       "status": "defined",
       "definition": "We see the shape of rough ground by its shadows. Slanting light makes long shadows and shows every bump. Light from straight behind us makes almost no shadows, and everything looks flat.",
-      "description": "A face lit by a torch held under the chin looks full of bumps and hollows. A face lit by a torch held right beside the camera looks flat. The Moon is the same. At full Moon, the Sun is behind the Earth, and the sunlight falls on the Moon from the same direction as we look. We see almost no shadows, so craters and mountains look flat and the Moon looks like a bright, plain disc. At first quarter and last quarter, the Sun lights the Moon from the side. Along the terminator, every crater rim and mountain makes a long shadow, and the tops of peaks catch the light. That is the best time to see the Moon's craters through binoculars. A full Moon is still lovely, and it shows the bright rays from young craters, but it hides shape. You can find the height of a mountain from the length of its shadow.",
+      "description": "A face lit by a torch held under the chin looks full of bumps and hollows. A face lit by a torch held right beside the camera looks flat. The Moon is the same. At full Moon, the Sun is behind us, and the sunlight falls on the Moon from the same direction as we look. We see almost no shadows, so craters and mountains look flat and the Moon looks like a bright, plain disc. At first quarter and last quarter, the Sun lights the Moon from the side. Along the terminator, every crater rim and mountain makes a long shadow, and the tops of peaks catch the light. That is the best time to see the Moon's craters through binoculars. A full Moon is still lovely, and it shows the bright rays from young craters, but it hides shape. Shadows are useful in another way too: you can find the height of a mountain from the length of its shadow.",
       "examples": [
         "A farmer's field looks flat at noon but every furrow shows in the low light of early morning. People who search for old buried walls also look for them in the low light of dawn or dusk.",
         "A photographer takes pictures of rock carvings in the early morning or evening, when shadows pick out the carving."
@@ -166,7 +166,7 @@
       "concept": "What the Moon's face is made of: highlands, seas and craters",
       "status": "defined",
       "definition": "The Moon's face has bright highlands, dark flat plains called maria, and craters everywhere. The craters were made by rocks from space.",
-      "description": "The bright parts of the Moon are rough, high ground called highlands. They are thick with craters and are the oldest parts of the surface. The dark patches are huge plains called maria, the Latin word for seas. They are not water. They are lava that flooded out long ago and cooled into dark, flat rock. Craters have a raised rim and sometimes a peak in the middle. They were made when rocks from space hit the surface at very high speed. The Earth has made craters too, but wind, rain, rivers and moving ground wore most of them away. The Moon has no air and no water, so its craters stay for billions of years. Because the sunlit near side has more dark plains than the far side, the near side looks different. Why the two sides differ is still debated.",
+      "description": "The bright parts of the Moon are rough, high ground called highlands. They are thick with craters and are the oldest parts of the surface. The dark patches are huge plains called maria, the Latin word for seas. They are not water. They are lava that flooded out long ago and cooled into dark, flat rock. Craters have a raised rim and sometimes a peak in the middle. They were made when rocks from space hit the surface at very high speed. The Earth was hit too, but wind, rain, rivers and moving ground wore most of its craters away. The Moon has no air and no water, so its craters stay for billions of years. The near side, which is the side we see, has more dark plains than the far side, so the two sides look different. Why the two sides differ is still debated.",
       "examples": [
         "The 'hare' that people in India and many other places see in the Moon is made by the dark plains.",
         "Some craters have bright streaks, called rays, spreading out from them. They are splashes of fresh, bright rock from a young crater."
@@ -178,7 +178,7 @@
       "concept": "The Moon's age and the 29 and a half day month",
       "status": "defined",
       "definition": "The Moon's age is the number of days since the last new Moon. It tells you the phase.",
-      "description": "A new Moon has an age of 0. A thin crescent is 2 or 3 days old. A half Moon, the first quarter, is about 7 days old. A full Moon is about 14 or 15 days old. The last quarter is about 22 days old. After about 29 and a half days, the Moon is new again. So if you know the date of the last new Moon, you can work out the age on any day and so the phase. The Indian calendar does the same with its tithis. Shukla Prathama, the first tithi of the bright half, is near the start, and Ashtami in the bright half falls about when the half Moon shows. Purnima is the full Moon, and Amavasya the new Moon. A month of 29 and a half days means calendars give months of 29 or 30 days. The actual time between new Moons varies by several hours, so the age is a guide and not exact.",
+      "description": "A new Moon has an age of 0. A thin crescent is 2 or 3 days old. A half Moon, the first quarter, is about 7 days old. A full Moon is about 14 or 15 days old. The last quarter is about 22 days old. After about 29 and a half days, the Moon is new again. So if you know the date of the last new Moon, you can work out the age on any day, and from the age you can tell the phase. The Indian calendar does the same with its tithis, which track the Moon's age. Shukla Prathama, the first tithi of the bright half, is near the start, and Ashtami in the bright half falls about when the half Moon shows. Purnima is the full Moon, and Amavasya is the new Moon. Because the month is 29 and a half days long, calendars give months of 29 or 30 days. The actual time between new Moons varies by several hours, so the age is a guide and not exact.",
       "examples": [
         "If the new Moon was on the 2nd of the month, the Moon will be a half Moon around the 9th and full around the 16th or 17th.",
         "Hindu festival dates are set by the tithi, which tracks the Moon's age."
@@ -189,8 +189,8 @@
     {
       "concept": "When does each phase rise and set? A rule you can use",
       "status": "defined",
-      "definition": "The Moon rises about 50 minutes later each day. So a rough rule is that it sets, or rises, about as many times 50 minutes after the Sun as its age in days.",
-      "description": "The Moon moves round the Earth in the same direction as the Earth spins, and it covers about 13 degrees a day. The Earth must turn a bit extra each day to catch up, about 50 minutes. This gives a rule of thumb. Moonrise is about the same number of times 50 minutes after sunrise as its age in days. For a Moon aged 7 days, that is 7 times 50 minutes, which is about 6 hours. So a half Moon rises about noon. At sunset the half Moon is high in the sky and it sets around midnight. A full Moon, aged about 15 days, rises about 12 hours after sunrise, which is near sunset. After that, the Moon rises after dark and is up later each night. The rule is only a guide. The actual gap between moonrises changes from night to night, and it can be as small as about half an hour or as big as over an hour. It also depends on where you live and the season.",
+      "definition": "The Moon rises about 50 minutes later each day. So a rough rule is: multiply the Moon's age in days by 50 minutes. The Moon rises about that long after sunrise, and sets about that long after sunset.",
+      "description": "The Moon moves round the Earth in the same direction as the Earth spins, and it covers about 13 degrees a day. The Earth must turn a bit extra each day to catch up, which takes about 50 minutes. This gives a rule of thumb. Multiply the Moon's age in days by 50 minutes. The Moon rises about that long after sunrise. For a Moon aged 7 days, that is 7 times 50 minutes, which is about 6 hours. So a half Moon rises about noon. At sunset the half Moon is high in the sky, and it sets around midnight. A full Moon, aged about 15 days, rises about 12 hours after sunrise, which is near sunset. After that, the Moon rises after dark and is up later each night. The rule is only a guide. The actual gap between moonrises changes from night to night, and it can be as small as about half an hour or as big as over an hour. It also depends on where you live and the season.",
       "examples": [
         "A 3-day-old crescent sets about 2 and a half hours after the Sun. You must look soon after sunset.",
         "A 22-day-old half Moon rises at about midnight and is in the sky in the morning."
@@ -204,7 +204,7 @@
       "definition": "One day and night on the Moon lasts about 29 and a half Earth days. A place near the Moon's equator has about 14 days of sunlight, then about 14 days of night.",
       "description": "The Moon turns once on its axis in about 27 days, and the Sun seems to cross its sky very slowly. A place on the Moon has about two weeks of sunshine and then two weeks of darkness. With no air to hold heat in, the temperature swings are huge. Near the equator, the ground can reach about 120 degrees Celsius at midday and fall to about minus 170 in the night. So a spacecraft that has to work only on solar power may need to finish its work in about 14 days. India's Chandrayaan-3 landed near the Moon's south pole region on 23 August 2023, when the Sun was just coming up over the site. This gave its lander and rover about one lunar day of sunlight. ISRO reported that they went to sleep as the lunar night began in early September, and that they did not wake up again.",
       "examples": [
-        "On the near side, the full Moon is at lunar noon, and the new Moon is at lunar midnight.",
+        "At full Moon, it is lunar noon on the near side. At new Moon, it is lunar midnight there.",
         "A place near the Moon's pole has the Sun low in the sky all day, with long shadows, so some crater floors there never see the Sun."
       ],
       "art": "A lander on grey ground at dawn with long shadows, and a second panel of the same ground at lunar noon with short shadows.",
@@ -213,8 +213,8 @@
     {
       "concept": "The same Moon looks different from different places",
       "status": "defined",
-      "definition": "Everyone on the night side of the Earth sees the same phase at the same time. But how it is tilted and which side is lit depends on where you stand.",
-      "description": "The shape of the Moon's lit part depends on where the Sun is, and that is the same for everyone. The lit side faces the Sun. From India, which is in the northern half of the world, a growing Moon is lit on the right. For people in Australia or South Africa, in the southern half, the Moon looks upside down, so a growing Moon is lit on the left. The tilt also changes with how far north or south you are. Near the equator, the lit side of a thin crescent often points upwards, so the crescent looks like a bowl or a boat. Farther from the equator, it leans over. Calendars that start a month by sighting the Moon, such as the Islamic calendar, look for the first thin crescent low in the western sky after sunset.",
+      "definition": "Everyone on the night side of the Earth sees the same phase at the same time. But how the Moon is tilted and which side is lit depend on where you stand.",
+      "description": "The shape of the Moon's lit part depends on where the Sun is, and that is the same for everyone. The lit side faces the Sun. From India, which is in the northern half of the world, a growing Moon is lit on the right. For people in Australia or South Africa, in the southern half, the Moon looks upside down, so a growing Moon is lit on the left. The tilt also changes with how far north or south you are. Near the equator, a thin crescent is often lit along the bottom, so it looks like a bowl or a boat. Farther from the equator, it leans over. Some calendars, such as the Islamic calendar, start a month when the Moon is first sighted. People look for the first thin crescent low in the western sky after sunset.",
       "examples": [
         "Thin crescents in Kochi or Kanyakumari often look like a bowl, and in northern Europe they tend to lean.",
         "A photograph of the half Moon taken in South Africa looks upside down compared with one taken in India."
@@ -226,7 +226,7 @@
       "concept": "How big is the Moon and how far away? A bindi will tell you",
       "status": "defined",
       "definition": "The Moon is about 110 of its own widths away from us. Its width is about 3,500 kilometres, and it is about 384,000 kilometres away.",
-      "description": "If you hold a small disc at the right distance from your eye, it just covers the Moon. You find that the distance to the disc is about 110 times the disc's width. A bindi 7 millimetres wide has to be about 77 centimetres from your eye. This tells us the Moon is about 110 of its own widths away. If we know the distance to the Moon, we can work out its width. The distance was found by astronomers by watching how the Moon shifts against the stars from different places, and today by laser light bounced off mirrors that astronauts left on the Moon. The distance is about 384,000 kilometres. Dividing by 110 gives about 3,500 kilometres, a little more than the length of India from Kashmir to Kanyakumari, which is about 3,200 kilometres. The Earth is about 12,700 kilometres wide. About 30 Earths would fit in a row between us and the Moon.",
+      "description": "If you hold a small disc at the right distance from your eye, it just covers the Moon. You find that the distance to the disc is about 110 times the disc's width. A bindi 7 millimetres wide has to be about 77 centimetres from your eye. This tells us the Moon is about 110 of its own widths away. If we know the distance to the Moon, we can work out its width. Astronomers found the distance by watching how the Moon shifts against the stars when seen from different places. Today they bounce laser light off mirrors that astronauts left on the Moon. The distance is about 384,000 kilometres. Dividing by 110 gives about 3,500 kilometres. That is a little more than the length of India from Kashmir to Kanyakumari, which is about 3,200 kilometres. The Earth is about 12,700 kilometres wide. About 30 Earths would fit in a row between us and the Moon.",
       "examples": [
         "Light from the Moon takes about one and a quarter seconds to reach us, much less than the 8 minutes from the Sun.",
         "The Moon's width is about a quarter of the Earth's."
@@ -274,7 +274,7 @@
       "concept": "The Moon is dark but looks bright",
       "status": "defined",
       "definition": "The Moon sends back only about 12 parts in every 100 of the sunlight that falls on it. It looks bright only because the night sky is dark.",
-      "description": "The Moon's rocks and dust are grey, as dark as a tarred road. If you could bring a handful of Moon dust into daylight, it would look dark. Yet a full Moon is bright enough to read by, because the sky around it is black. The full Moon is about 400,000 times fainter than the Sun. Still, it is bright enough to make shadows on a clear night. The Moon also looks brighter at full than a simple count of its lit area would suggest, because at full Moon there are no shadows to darken it. A half Moon gives much less than half the light of a full Moon, about a tenth. Our eyes see the Moon as white because they adjust to the dark and because the colour in its grey rock is faint.",
+      "description": "The Moon's rocks and dust are grey, as dark as a tarred road. If you could bring a handful of Moon dust into daylight, it would look dark. Yet a full Moon is bright enough to read by, because the sky around it is black. The full Moon is about 400,000 times fainter than the Sun. Still, it is bright enough to make shadows on a clear night. A full Moon is also brighter than you would expect from the size of its lit part, because at full Moon there are no shadows to darken it. A half Moon gives much less than half the light of a full Moon, only about a tenth. Our eyes see the Moon as white because they adjust to the dark and because the colour in its grey rock is faint.",
       "examples": [
         "Pictures of the Moon next to a white sheet of paper show it is grey.",
         "A candle looks pale in daylight and bright in the dark, for the same reason."
@@ -287,7 +287,7 @@
       "status": "debated",
       "description": "The Moon has no seas and no air, but it may have some water. Instruments on India's Chandrayaan-1, launched in 2008, helped to find signs of water in the form of molecules stuck to the surface dust. Some deep craters near the Moon's poles never see sunlight, because the Sun is always low and the crater walls cast shadows. They are among the coldest places known, and ice could last there for billions of years. In 2009 a NASA probe was crashed into one of these craters, and the cloud it threw up contained water. How much there is, and in what form, are still being studied. Chandrayaan-3 landed near the south pole in 2023 to study the ground there.",
       "examples": [
-        "The shadows that show the Moon's mountains also hide the ice.",
+        "Shadows help us see the Moon's mountains. Shadows also keep the ice in the polar craters cold and out of sight.",
         "Water on the Moon would be useful for visiting astronauts and for making rocket fuel."
       ],
       "art": "A dark crater near the Moon's pole with a sunlit rim, a shadowed floor with ice, and a small lander at the edge.",
@@ -298,7 +298,7 @@
         },
         {
           "who": "A thin layer of water on dust",
-          "explanation": "The solar wind may make a very thin layer of water molecules on the dust in sunlit places. The amount is tiny, only traces, and it may come and go with the lunar day."
+          "explanation": "The solar wind is a stream of tiny particles from the Sun. It may make a very thin layer of water molecules on the dust in sunlit places. The amount is tiny, only traces, and it may come and go with the lunar day."
         }
       ]
     }
@@ -306,7 +306,7 @@
   "agreed": [
     {
       "text": "The Moon's craters were made by rocks from space hitting the surface, not by volcanoes.",
-      "evidence": "The craters have raised rims, rays and rocks melted by impact. Apollo samples show impact melt. Test impacts make the same shapes."
+      "evidence": "The craters have raised rims and bright rays. Rocks brought back by the Apollo astronauts had been melted by impacts. Craters made in tests have the same shapes."
     },
     {
       "text": "The terminator is where the Sun is rising or setting on the Moon, and shadows are longest there.",
@@ -352,7 +352,7 @@
       "claim": "There is one tide bulge, on the side of the Earth facing the Moon.",
       "who": "A common idea.",
       "for": "The Moon pulls the sea towards it, so the sea piles up on the near side.",
-      "against": "There are two bulges, one on the near side and one on the far side. That is why there are two high tides a day. The far side bulge is there because the pull is weaker there than on the rest of the Earth.",
+      "against": "There are two bulges, one on the near side and one on the far side. That is why there are two high tides a day. The far-side bulge forms because the Moon's pull is weaker there than on the rest of the Earth, so the water there is left behind.",
       "status": "rejected"
     },
     {
@@ -379,12 +379,12 @@
   ],
   "big_questions": [
     {
-      "q": "The brightest Moon shows the least about its own shape. When is looking at more light a way of seeing less?",
+      "q": "The brightest Moon shows the least of its own shape. Can you think of other times when more light makes you see less?",
       "kind": "deep",
       "hint": "Think about a face lit from the front and from the side, or a field at noon and at dawn."
     },
     {
-      "q": "Shadows can look like the opposite of knowledge, a dark place where we see nothing. Here they show shape. What else do we learn from the dark parts of a picture?",
+      "q": "We usually think of a shadow as a dark place where we see nothing. On the Moon, shadows show the shape of the ground. What else do we learn from the dark parts of a picture?",
       "kind": "deep",
       "hint": "Think of a drawing in pencil, a photograph with a dark background, or a silence in music."
     },
@@ -399,7 +399,7 @@
       "hint": "Think about what 'up' means, and where the people are standing."
     },
     {
-      "q": "Chandrayaan-3 was timed to land at lunar dawn and had about two weeks of sunlight. What does it mean to plan work around something as slow as the Moon's day?",
+      "q": "Chandrayaan-3 was timed to land at lunar dawn and had about two weeks of sunlight. How do people plan their work around something they cannot hurry, like the Moon's slow day?",
       "kind": "big",
       "hint": "Think of a farmer who plans around the monsoon, or a fisher who plans around the tide."
     },
@@ -424,7 +424,7 @@
       "hint": "Think about what test could show the clear material to be there or not."
     },
     {
-      "q": "Some craters near the Moon's poles have been in shadow for billions of years. What does it mean for a place never to see the Sun?",
+      "q": "Some craters near the Moon's poles have been in shadow for billions of years. What would a place be like if it never saw the Sun?",
       "kind": "big",
       "hint": "Think about how cold it must be, and what could be kept there."
     }
@@ -476,18 +476,18 @@
     ]
   },
   "roots": {
-    "context": "We have looked at the line between the Moon's day and night, at tides and at the Moon's age. Now we ask what the shadows on the Moon tell us about seeing and about ourselves.",
+    "context": "We have looked at the line between the Moon's day and night, at tides and at the Moon's age. Now we ask what the shadows on the Moon teach us about how we see things.",
     "deep_truth": {
-      "truth": "With the torch behind your head, the dough's craters nearly vanished. With the torch at the side, they stood out. Light from the side throws shadows, and shadows show shape. So the Moon shows its mountains best along the line between its day and night.",
+      "truth": "In the Dough Moon experiment, you lit a ball of dough with a torch. With the torch beside your head, the craters nearly vanished. With the torch at the side, they stood out. Light from the side throws shadows, and shadows show shape. So the Moon shows its mountains best along the line between its day and night.",
       "habit": "We think the fullest, brightest view is the best view, and that shadows only hide things. On the Moon the brightest night hides the most, and the shadow is what shows the shape.",
-      "evidence": "In the dough test, the torch beside your head showed few craters, and the torch at the side showed many. At the half Moon, the same thing happens on the real Moon, as the shadows along the terminator show craters and peaks."
+      "evidence": "In the Dough Moon experiment, the torch beside your head showed few craters, and the torch at the side showed many. The same thing happens on the real Moon. At a half Moon, the shadows along the terminator show craters and peaks. At full Moon, there are almost no shadows and the Moon looks flat."
     },
     "three": {
-      "who_am_i": "What you can see about something depends on where you stand and where the light comes from. Your place is part of every view you have.",
+      "who_am_i": "What you can see of something depends on where you stand and where the light comes from. So where you are is part of everything you see.",
       "what_is_life": "Many animals use the Moon to time their lives, and many use shadows to find food. A hunter in dim light may find prey by the shape of a shadow.",
-      "what_is_this_world": "The Moon is a ball of grey rock with mountains and craters, and always half lit. How rough it seems changes with the angle of the Sun."
+      "what_is_this_world": "The Moon is a ball of grey rock with mountains and craters. Half of it is always lit by the Sun. How rough it looks to us changes with the angle of the sunlight."
     },
-    "thread": "The Sun, the Earth and the Moon make a system that is always changing. From the same Moon, a full Moon night gives a flat disc, and a half Moon night gives a landscape. The Moon has not changed. Only the angle of the light has. A bright place and a dark place are not opposites here, because the shadow and the light work together to make shape. A thing is known by its light and by its shadow together.",
+    "thread": "The Sun, the Earth and the Moon keep moving, so the way the Moon is lit keeps changing. On a full Moon night the Moon looks like a flat disc. On a half Moon night the same Moon looks like a land of mountains and craters. The Moon has not changed. Only the angle of the light has. Light and shadow work together here: we need both to see the shape of a thing.",
     "teachings": [
       {
         "source": "Tao Te Ching 2",
@@ -497,7 +497,7 @@
       {
         "source": "Brihadaranyaka Upanishad 1.3.28",
         "teaching": "Lead me from darkness to light.",
-        "link": "On the Moon, the way from seeing nothing to seeing the mountains runs along the line where dark meets light, and not through the brightest part."
+        "link": "On the Moon, the brightest part is not where we see the most. We see the mountains best along the line where dark meets light."
       }
     ],
     "science": [
@@ -506,7 +506,7 @@
         "status": "settled"
       },
       {
-        "text": "How much water ice lies in the Moon's permanently shadowed craters.",
+        "text": "We do not yet know how much water ice lies in the Moon's permanently shadowed craters.",
         "status": "open"
       }
     ],
@@ -517,7 +517,7 @@
     "practice": {
       "title": "Light from the side",
       "mins": 3,
-      "say": "Hold your hand up. Look at it with a lamp behind your head, then with the lamp at your side. Notice the lines and the bumps on your skin in each. Which light shows more? Breathe in slowly three times as you look. Then think of the Moon's rim, where the shadows are long.",
+      "say": "Hold your hand up. Look at it with a lamp behind your head, then with the lamp at your side. Notice the lines and the bumps on your skin each time. Which light shows more? Breathe in slowly three times as you look. Then think of the line between day and night on the Moon, where the shadows are long.",
       "kid": "Hold up your hand. Use a lamp at your side. See the lines and bumps. Breathe slowly three times."
     },
     "ask": [
@@ -675,7 +675,7 @@
       "rules": [
         "Shuffle the cards and put them in a pile. One player is the reader and takes the top card. The back stays hidden.",
         "The reader shows the age on the front. Every other player draws the Moon shape on scrap paper, and writes which side is lit.",
-        "Everyone also writes down when the Moon sets or rises, using the rule of thumb. Moonset is only about 50 minutes times the age after sunset, up to the full Moon. After the full Moon, moonrise is about 50 minutes times the days since full, after sunset. These times are typical, not exact, and change a little with your city and the season.",
+        "Everyone also writes down when the Moon sets or rises, using the rule of thumb. Up to the full Moon, multiply the Moon's age by 50 minutes. The Moon sets about that long after sunset. After the full Moon, multiply the number of days since the full Moon by 50 minutes. The Moon rises about that long after sunset. These times are typical, not exact, and change a little with your city and the season.",
         "The reader reads the back. A right phase is 1 point, a right lit side is 1 point, and a time within an hour is 1 point.",
         "Pass the reader job to the next player after each card.",
         "When the cards run out, the player with the most points wins. If points are equal, the players share the win.",
@@ -685,7 +685,7 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Cut out the 24 cards (or write the ages and answers on 24 slips of paper) and shuffle them. Find out the sunset time today and write it on a sheet, to work out times from.",
+          "do": "Cut out the 24 cards (or write the ages and answers on 24 slips of paper) and shuffle them. Find out today's sunset time and write it on a sheet. You will work out the Moon's times from it.",
           "say": "Each card tells us the Moon's age. We guess its shape, its lit side and when it sets or rises. First, what time does the Sun set today?",
           "kid": "Cut out the cards. Shuffle them. Find today's sunset time.",
           "context": "This is the first step of Moon Age Snap. You set up the cards and find today's sunset."
@@ -872,7 +872,7 @@
               "b": "About 7 days after the new Moon, or about 22 days."
             },
             {
-              "f": "Why can a rover not call Earth by phone directly from the Moon's far side?",
+              "f": "Why can a rover on the Moon's far side not send signals straight to the Earth?",
               "b": "The whole Moon is in the way. It needs a relay satellite."
             },
             {
@@ -912,11 +912,11 @@
       "rules": [
         "Each player puts a rover on square 1. Put the Sun marker on step 1 of the day track. Shuffle the question cards.",
         "On your turn, roll the dice and move your rover that many squares. Stop at square 14 if you roll more than you need.",
-        "If you land on a QUESTION square, another player reads you the top card. A right answer lets you move forward 1 more square. A wrong answer, no extra move.",
+        "If you land on a QUESTION square, another player reads you the top card. If your answer is right, move forward 1 more square. If it is wrong, stay where you are.",
         "Follow the other squares: a crater sends you back 1, dust makes you miss a turn, a slope sends you back 2, and a sunny ridge sends you forward 2.",
         "When everyone has had a turn, move the Sun marker forward one step. That is one Earth day.",
         "The first rover to reach square 14 wins. If the Sun marker reaches SUNSET at step 14 before anyone has finished, the night wins and everyone's rover freezes.",
-        "Playing alone? Try to reach the finish before the Sun marker reaches step 10. Then try to beat it by one step.",
+        "Playing alone? Try to reach the finish before the Sun marker reaches step 10. If you manage that, play again and try to finish before step 9.",
         "With two to four players, take turns. The Sun marker moves once when everyone has had a turn, so more players do not make the night come sooner."
       ],
       "flow": [
@@ -996,7 +996,7 @@
       "days": 1,
       "question": "A ball of dough with craters and lumps is lit by a torch from three directions. From which direction can you see the most craters and mountains?",
       "predict": "Before you start, guess. Will you see the most craters when the torch is behind your head, at the side, or behind the dough? Why do you think so?",
-      "fair_test": "Use the same dough Moon, the same torch, the same distance from the dough and the same seat every time. Make the room equally dark each time. Only the direction of the light changes, so any difference in what you see comes from the light. Count twice, once by you and once by a helper, because one count can be a fluke. Roles: for one child with a parent, the child counts and draws while the parent holds the torch. For two to four children, one holds the torch, one writes the table, and the others each count alone and write their number before they compare. Swap jobs for each light.",
+      "fair_test": "Use the same dough Moon, the same torch, the same distance from the dough and the same seat every time. Make the room equally dark each time. Only the direction of the light changes, so any difference in what you see comes from the light. Count twice: you count once and a helper counts once, because one count can be a fluke. Who does what: with one child and a parent, the child counts and draws while the parent holds the torch. With two to four children, one holds the torch, one writes in the table, and the others each count alone and write their number before they compare. Swap jobs for each light.",
       "results_table": [
         "Where the torch was",
         "Craters and lumps I counted (out of 9)",
@@ -1147,7 +1147,7 @@
               ]
             }
           ],
-          "parent": "With the light beside the head, shadows hide behind the craters. You may count only 3 or 4 of the 9 things. The dough will look bright, flat and pale. That is the full Moon view. Write the numbers exactly as you counted them. The exact counts differ with your dough and torch. Do not worry if the first light shows 4 or 5, as long as it shows clearly fewer than the side light. If it does not, press the craters deeper, make the room darker, or move the torch further to the side only for light 2.",
+          "parent": "With the torch beside the head, the shadows fall behind the craters, where you cannot see them. You may count only 3 or 4 of the 9 things. The dough will look bright, flat and pale. That is the full Moon view. Write the numbers exactly as you counted them. The exact counts differ with your dough and torch. Do not worry if the torch beside the head shows 4 or 5, as long as it shows clearly fewer than the torch at the side does in the next step. If it does not, press the craters deeper, make the room darker, or move the torch further round to the side in the next step.",
           "context": "In this step, you light the dough Moon from behind your head, like a full Moon."
         },
         {
@@ -1194,7 +1194,7 @@
           "mins": 3,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the best light for seeing craters comes from the side. What I saw: I counted 3 with the torch by my head, 9 with the torch at the side. Why: light from the side makes long shadows, and shadows show shape. On the real Moon, the sideways light along the terminator makes shadows, so a half Moon shows mountains best.",
           "think": "At full Moon the Sun shines straight on to the Moon from behind us. What would you see if you stood on the Moon at that moment?",
           "context": "In this last step, you say what you found and link it to the Moon."
@@ -1206,9 +1206,9 @@
       "title": "Moonrise Detective: how much later does the Moon rise each night?",
       "mins": 30,
       "days": 1,
-      "question": "The Moon rises about 50 minutes later each day, people say. Is that true for your city, and is the gap the same every night?",
+      "question": "People say the Moon rises about 50 minutes later each day. Is that true for your city, and is the gap the same every night?",
       "predict": "Before you start, guess. How many minutes later will the Moon rise each night? Will the gap be the same every night? Why do you think so?",
-      "fair_test": "Use the same city, the same source and the same clock style, in 24 hours, for all ten days. Use ten nights in a row. Start two days after a new Moon, so the times do not jump over midnight. Only the date changes, so any change in the time comes from the Moon's movement.",
+      "fair_test": "Use the same city and the same source for all ten days, and write every time on the 24-hour clock. Use ten nights in a row. Start two days after a new Moon, so the times do not jump over midnight. Only the date changes, so any change in the time comes from the Moon's movement.",
       "results_table": [
         "Day",
         "Moon's age (days)",
@@ -1242,7 +1242,7 @@
         {
           "day": 1,
           "mins": 30,
-          "what": "The Moon rises about 50 minutes later each day, people say. Is that true for your city, and is the gap the same every night?"
+          "what": "People say the Moon rises about 50 minutes later each day. Is that true for your city, and is the gap the same every night?"
         }
       ],
       "record": "Fill in the table. Draw a line graph with the day on the bottom and the moonrise time up the side. Write the average gap in minutes. Write your day 11 guess and the real time, and the difference in minutes.",
@@ -1318,7 +1318,7 @@
           "kid": "Guess first. How much later does the Moon rise each day? Why?",
           "ask": [
             {
-              "q": "What do you think the Moon is doing to rise later?",
+              "q": "Why do you think the Moon rises later each day?",
               "good": [
                 "It is moving round the Earth.",
                 "It is slower than the Sun.",
@@ -1346,7 +1346,7 @@
               "To get a bigger number"
             ],
             "a": 0,
-            "why": "Moonrise at a new Moon is near sunrise, and ten days later it is in the afternoon. In those days the time rises in a smooth line. Later in the month, it passes midnight and the clock numbers start again. Picking 'cannot be seen' mixes up rising with being easy to see."
+            "why": "At a new Moon, the Moon rises near sunrise. Ten days later it rises in the afternoon. Over those days the time gets steadily later, with no jump. Later in the month, moonrise passes midnight and the clock numbers start again from zero. Picking 'cannot be seen' mixes up rising with being easy to see."
           },
           "context": "In this step, you collect the data you need."
         },
@@ -1403,7 +1403,7 @@
           "mins": 4,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see in the data? And why do you think it happened?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the Moon rises about 50 minutes later each day, but not exactly. What I saw: the average gap was 51 minutes, and single gaps ran from 45 to 55. Why: the Moon moves round the Earth in the same direction as the Earth spins, so the Earth must turn a little extra each day to catch up. The Moon's speed and the angle of its path change slightly, so the gap changes a little.",
           "think": "Use your average to guess when the Moon will rise 20 days after the last new Moon. Why will your guess not be exact?",
           "context": "In this last step, you say what you found."
@@ -1553,7 +1553,7 @@
               ]
             }
           ],
-          "parent": "Use only one eye, or your two eyes will see the bindi in two places. Your three measurements may differ by a few centimetres. That is normal. For a 7 millimetre bindi, expect about 75 to 85 centimetres (typical, not exact). If the Moon moves, redo the try. If you cannot find the Moon, try another night. If the window does not face the Moon, use an open balcony and let the helper hold the clear polythene with the bindi on it at the same height as your eye. If clouds hide the Moon, try another night.",
+          "parent": "Use only one eye, or your two eyes will see the bindi in two places. Your three measurements may differ by a few centimetres. That is normal. For a 7 millimetre bindi, expect about 75 to 85 centimetres (typical, not exact). If the Moon moves out from behind the bindi, line it up and measure again. If the window does not face the Moon, use an open balcony and let the helper hold the clear polythene with the bindi on it at the same height as your eye. If clouds hide the Moon or you cannot find it, try another night.",
           "check": {
             "t": "mcq",
             "q": "Why do we close one eye?",
@@ -1601,8 +1601,8 @@
           "mins": 2,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you measure? Why does a small bindi cover a big Moon?",
-          "kid": "Say three things. What I think. What I saw. Why.",
-          "parent": "A good answer sounds like this. What I think: the Moon is about 110 of its own widths away. What I saw: a 7 millimetre bindi covered the Moon at about 77 centimetres, so the ratio was about 110. Why: a small thing close to the eye can cover a big thing far away if they are in the same proportion. The same is true for the Sun, which is also about 400 times wider than the Moon and about 400 times further away.",
+          "kid": "Say three things: what you think now, what you saw, and why it happened.",
+          "parent": "A good answer sounds like this. What I think: the Moon is about 110 of its own widths away. What I saw: a 7 millimetre bindi covered the Moon at about 77 centimetres, so the ratio was about 110. Why: a small thing close to the eye can cover a big thing far away if they are in the same proportion. The same works for the Sun, which is about 400 times wider than the Moon and also about 400 times further away.",
           "think": "The Sun is about 400 times wider than the Moon. What does that tell you about how far away it is?",
           "context": "In this last step, you say what you found."
         }
@@ -1646,7 +1646,7 @@
         }
       ],
       "record": "Draw the stack and its shadow three times: torch above, torch halfway up, torch low at the side. Write the shadow length from the ruler each time, and which light showed the shape best.",
-      "context": "This is a quick start for the Moon up close. You light a coin from two directions and notice what the shadows do.",
+      "context": "This is a quick first activity. You light a stack of coins with a torch from different directions and notice what the shadows do.",
       "setup": [
         {
           "art": "A coin lying on white paper with a torch directly above it, and almost no shadow.",
@@ -1674,7 +1674,7 @@
               ]
             }
           ],
-          "parent": "From straight above, the shadow is a thin ring or nothing. From the side, it stretches. Do not explain yet. Ask what your child notices and wonders. Expect about 0 centimetres from above, and a few centimetres from the side. For 2 to 4 children, one holds the torch, one measures and one records, then swap. Do not explain yet.",
+          "parent": "From straight above, the shadow is a thin ring or nothing. From the side, it stretches. Expect about 0 centimetres from above, and a few centimetres from the side. Do not explain yet. Ask what your child notices and wonders. For 2 to 4 children, one holds the torch, one measures and one records, then swap.",
           "context": "This is a quick start. You notice how the direction of light changes a shadow before anyone explains it."
         },
         {
@@ -1759,7 +1759,7 @@
           "id": "s1",
           "mins": 5,
           "do": "1. Put the lamp at one end of the table. 2. Put the paper circle in the middle. 3. Put the orange on the circle, on the side nearest the lamp. 4. Put the small ball between the orange and the lamp. 5. Lay pencil A on the table, pointing from the orange across the small ball towards the lamp. 6. Ask for a guess.",
-          "say": "This is a new Moon. The Moon is between the Earth and the Sun. The Moon goes once round the Earth. When it is back to the same star, will it be new again? Why do you think so?",
+          "say": "This is a new Moon. The Moon is between the Earth and the Sun. Now the Moon goes once round the Earth. When it has gone all the way round, will it be a new Moon again? Why do you think so?",
           "kid": "The Moon goes round once. Will it be new again? Why?",
           "ask": [
             {
@@ -1771,7 +1771,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Most children say yes. The Earth must move along its path, and that is the point of the activity. For 2 to 4 children, one moves the Earth, one moves the Moon, one holds the pencils and one records. Alone, a parent can hold the lamp. The model is small, so it is the idea that matters, not the exact angles.",
+          "parent": "Do not correct the guess. Most children say yes. The point of the activity is that the Earth moves along its own path while the Moon goes round. For 2 to 4 children, one moves the Earth, one moves the Moon, one holds the pencils and one records. With one child, the parent can hold the lamp. The model is small, so it is the idea that matters, not the exact angles.",
           "context": "This is the first step of Catch Up. You guess before you move anything."
         },
         {
@@ -1790,7 +1790,7 @@
               ]
             }
           ],
-          "parent": "After one trip round, the Moon points the same way as before (like the same far star), but the Earth has moved, so the lamp is in a different direction. The Moon is a little short of the line. This takes about two more days. One twelfth of the way round is the Earth's movement in about a month.",
+          "parent": "After one trip round, the Moon points the same way as before, as if towards the same far-off star. But the Earth has moved, so the lamp is in a different direction. The Moon has not quite reached the line between the Earth and the lamp. On the real Moon, covering that last bit takes about two more days. One twelfth of the way round is how far the Earth moves in about a month.",
           "check": {
             "t": "mcq",
             "q": "Why is the Moon not new yet after one trip round?",
@@ -1807,7 +1807,7 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Take the small ball a little further round until it is between the orange and the lamp again. Count how much further, in a fraction of a trip.",
+          "do": "Take the small ball a little further round until it is between the orange and the lamp again. Estimate how much further it had to go, as a fraction of one trip round.",
           "say": "Now take the Moon a little further, until it is between the Earth and the lamp. This is a new Moon. About how much extra did it need?",
           "kid": "Move the Moon a bit further. Now it is new. How much extra?",
           "ask": [
@@ -1828,7 +1828,7 @@
           "mins": 2,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? Why is the month longer than one trip round?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the Moon needs extra time to line up with the Sun. What I saw: after one trip, the Moon was not between the Earth and the Sun. Why: the Earth moved along its path round the Sun, so the Sun was in a new direction.",
           "think": "If the Earth went round the Sun more slowly, would the month be longer or shorter?",
           "context": "In this last step, you say what you found."
@@ -1882,8 +1882,8 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show your child the idea of a tide table. Ask for a guess and a reason.",
-          "say": "A tide table lists when the sea is high and low, and how high. When will the tides be biggest in the month? At new Moon, half Moon or both? Why do you think so?",
+          "do": "Tell your child what a tide table is. Ask for a guess and a reason.",
+          "say": "A tide table lists when the sea is high and low, and how high. When in the month will the tides be biggest? At new Moon, at half Moon or at full Moon? Why do you think so?",
           "kid": "Guess first. When are the tides biggest? Why?",
           "ask": [
             {
@@ -1942,7 +1942,7 @@
           "mins": 6,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see in the table? And why do you think it happened?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the biggest tides come at new and full Moon. What I saw: the tallest bars were a day or two after those Moons. Why: the Sun and the Moon pull along one line, so their pulls add up. Fishing families have long watched Amavasya and Purnima for this reason.",
           "think": "Why might a tide table be useful to a fisherman, a ship's captain and a child collecting shells?",
           "context": "In this last step, you say what you found."
@@ -1979,7 +1979,7 @@
         {
           "day": 1,
           "mins": 8,
-          "what": "Evening 1: draw the thin crescent and mark the line."
+          "what": "Evening 1: draw the thin crescent and mark the line between light and dark."
         },
         {
           "day": 2,
@@ -1989,7 +1989,7 @@
         {
           "day": 3,
           "mins": 5,
-          "what": "Evening 3: look along the line with binoculars."
+          "what": "Evening 3: look along the line between light and dark with binoculars."
         },
         {
           "day": 4,
@@ -2031,7 +2031,7 @@
               ]
             }
           ],
-          "parent": "Choose a time 30 to 45 minutes after sunset, and use that same time each evening. If it is cloudy, skip the night, or look at NASA's Moon pictures for the date. Use the naked eye first, then binoculars. If you see a dark oval patch near the edge, that is one of the Moon's dark plains. Do not worry about names. If the western sky is blocked by buildings, begin on evening 2 or 3 instead, when the Moon is higher. Without binoculars you can still see the line and the dark plains, but you cannot see craters; draw those two. If cloud hides a night, it does not matter: use any 5 clear evenings in the first 10 days after new Moon, and write the Moon's age beside each drawing. In the monsoon, you may need to wait for the next month.",
+          "parent": "Choose a time 30 to 45 minutes after sunset, and use that same time each evening. Use the naked eye first, then binoculars. If you see a dark oval patch near the edge, that is one of the Moon's dark plains. Do not worry about names. If the western sky is blocked by buildings, begin on evening 2 or 3 instead, when the Moon is higher. Without binoculars you can still see the line and the dark plains, but not craters, so draw the line and the plains. If cloud hides the Moon one night, it does not matter. Use any 5 clear evenings in the first 10 days after new Moon, and write the Moon's age beside each drawing. You can also look at NASA's Moon pictures for the date you missed. In the monsoon, you may need to wait for the next month.",
           "context": "This is evening 1 of the Terminator Log. You draw the Moon's first shape."
         },
         {
@@ -2109,7 +2109,7 @@
           "mins": 2,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see in your drawings? Why?",
-          "kid": "Say three things. What I think. What I saw. Why.",
+          "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the best place to see craters is along the line between light and dark. What I saw: craters on the line had dark shadows, and the line moved across the Moon each night. Why: on the line the Sun is low and the shadows are long.",
           "think": "Where will the line between light and dark be at the full Moon?",
           "context": "In this last step, you say what your drawings showed."
@@ -2127,7 +2127,7 @@
         "Use only the Moon calendar. The new Moon is on the 4th, and the month has 30 days.",
         "The Sun rises at the centre of the near side at the first quarter, shines overhead at the full Moon, and sets at the last quarter.",
         "The lander needs about one day after sunrise to warm up.",
-        "It must finish its work before the sun sets."
+        "It must finish its work before the Sun sets."
       ],
       "materials": [
         "a calendar page",
@@ -2162,8 +2162,8 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "Read the problem together. Look at the constraints. Ask your child to say what the Moon looks like at sunrise, noon and sunset at the centre of the near side.",
-          "say": "A lander only works in sunlight. At the centre of the near side, the Sun rises at first quarter. What does the Moon look like at noon there? And at sunset?",
+          "do": "Read the problem together. Look at the constraints. Ask your child what the Moon looks like from India when it is sunrise, noon and sunset at the centre of the near side.",
+          "say": "A lander only works in sunlight. At the centre of the near side, the Sun rises at first quarter. What does the Moon look like from India when it is noon there? And when it is sunset there?",
           "kid": "A lander needs sunlight. When does the Sun rise at the centre? Guess.",
           "ask": [
             {
@@ -2223,7 +2223,7 @@
           "kid": "Tell someone your plan. What does the Moon look like?",
           "check": {
             "t": "mcq",
-            "q": "A lander lands in the early evening of a growing half Moon. What does the Sun look like for it?",
+            "q": "A lander lands near the line between light and dark on a growing half Moon. Where is the Sun in the lander's sky?",
             "options": [
               "It has just risen and is low in the sky",
               "It is overhead",
@@ -2304,9 +2304,9 @@
         },
         {
           "t": "write",
-          "p": "A friend lights a ball of dough with a torch beside her head, and says she sees almost no craters. Then she moves the torch to the side and sees many. Explain what changed.",
+          "p": "You light a ball of dough with a torch beside your head, and you see almost no craters. Then you move the torch to the side and see many. Explain what changed.",
           "lines": 4,
-          "a": "With the torch beside her head, the light came from the same direction she was looking, so craters made almost no shadows and looked flat. With the torch at the side, each crater had a dark shadow on one side, and the shadows showed their shape.",
+          "a": "With the torch beside your head, the light came from the same direction you were looking, so the craters made almost no shadows and looked flat. With the torch at the side, each crater had a dark shadow on one side, and the shadows showed its shape.",
           "why": "A strong answer says that shadows show shape, and that light from the side makes long shadows.",
           "how": "e1"
         },
@@ -2499,7 +2499,7 @@
         },
         {
           "t": "order",
-          "p": "Put these in order, starting at new Moon, for the size of the tides through a fortnight.",
+          "p": "Put these tides in the order they come, starting at new Moon.",
           "items": [
             "small tides at last quarter",
             "big tides at full Moon",
@@ -2554,7 +2554,7 @@
           "t": "label",
           "p": "Label the picture of the Moon's day: sunrise, noon, sunset and night.",
           "a": "Sunrise on the side where the Sun is coming up, noon where the Sun is overhead, sunset on the opposite side from sunrise and night in the dark half.",
-          "why": "A lunar day goes round the Moon like a clock. A strong label shows the Sun's direction at each point.",
+          "why": "Sunrise, noon, sunset and night follow each other round the Moon. A strong label shows the Sun's direction at each point.",
           "art": "A circle with a Sun on the right and four blank label lines."
         },
         {
@@ -2721,7 +2721,7 @@
         },
         {
           "t": "mcq",
-          "p": "A student counted 8 things with the torch beside her head and 3 with the torch at the side. What is the most likely reason?",
+          "p": "In the Dough Moon experiment, someone counted 8 craters and lumps with the torch beside their head and only 3 with the torch at the side. What is the most likely reason?",
           "opts": [
             "The torch was not low enough at the side, or the craters were shallow",
             "The torch was too bright",
@@ -2730,7 +2730,7 @@
           ],
           "a": 0,
           "outcome": 0,
-          "why": "Shadows from the side show shape only if the torch is low and the craters are deep. If the side light is too high, there are few shadows. A good scientist checks the test before the idea."
+          "why": "Shadows from the side show shape only if the torch is low and the craters are deep. If the side light is too high, there are few shadows. A good scientist checks that the test was done properly before doubting the idea."
         },
         {
           "t": "order",
@@ -2910,7 +2910,7 @@
     },
     {
       "t": "mcq",
-      "p": "The Sun sets at 6 pm and the Moon is 7 days old. About when does it set?",
+      "p": "The Sun sets at 6 pm and the Moon is 7 days old. About when does the Moon set?",
       "opts": [
         "About midnight",
         "About 7 pm",
@@ -3090,8 +3090,8 @@
       "why_open": "Rocks brought back by astronauts give ages for craters, but we have rock from only a few places. Scientists argue about whether there was a late burst of impacts."
     },
     {
-      "q": "Do tides on the Earth's early oceans explain how life began?",
-      "why_open": "Some scientists suggest tidal pools wetting and drying shores could have helped to build the first chemicals of life, but there is no firm evidence yet."
+      "q": "Did tides in the Earth's early oceans help life to begin?",
+      "why_open": "Some scientists suggest that pools on the shore, wetted and dried by the tides again and again, could have helped to build the first chemicals of life. There is no firm evidence yet."
     },
     {
       "q": "Could people live and work in the permanently shadowed craters near the Moon's poles?",
@@ -3104,7 +3104,7 @@
     "Is the Moon in the sky tonight? What shape is it? Which side is lit?",
     "How old do you think the Moon is tonight? Count from the last Amavasya.",
     "Why might fishing families care about Amavasya and Purnima?",
-    "If the Sun sets at six and the Moon is 7 days old, when will it set?",
+    "If the Sun sets at six and the Moon is 7 days old, when will the Moon set?",
     "What do you see in the dark patches of the Moon? Does your friend see the same thing?",
     "Why does a long shadow mean the Sun is low?",
     "What is the highest tide you have seen, and what was the Moon doing?",
@@ -3175,7 +3175,7 @@
       "why_maths": "An average turns several different gaps into one number we can use as a rule."
     },
     {
-      "problem": "The Sun rises at 6:10 in the morning. The Moon is 14 days old. Use 50 minutes for each day to say about when it rises.",
+      "problem": "The Sun rises at 6:10 in the morning. The Moon is 14 days old. Use the rule of 50 minutes for each day of the Moon's age to say about when the Moon rises.",
       "answer": "About 5:50 in the evening.",
       "explain": "14 times 50 is 700 minutes. 700 minutes is 11 hours and 40 minutes. 6:10 in the morning plus 11 hours 40 minutes is 5:50 in the evening.",
       "math_unit": "math.time.duration.L4",

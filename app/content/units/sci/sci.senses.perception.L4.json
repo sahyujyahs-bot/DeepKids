@@ -3,12 +3,12 @@
   "title": "Perception: why your brain picks one reading of the world, and what it leaves out",
   "level": 4,
   "summary": {
-    "text": "A drawing of a cube made of plain lines suddenly flips, so that the corner that pointed towards you now points away. Nothing on the paper changed, and you cannot see both cubes at once. Your child counts the flips in one minute, and then watches a tray change right in front of their eyes without anyone noticing for many seconds. They find out how many letters a sentence really hides, whether a face is easier to read the right way up, and how a tiny paper beetle can vanish into a pattern. The unit follows one idea. The brain has to pick one reading of everything, it uses what you expect and what you pay attention to to pick, and it leaves out the rest.",
+    "text": "A cube drawn with plain lines suddenly flips: the corner that pointed towards you now points away. Nothing on the paper changed, and you cannot see both cubes at once. Your child counts the flips in one minute. Then they change one thing on a tray while a card hides it for a second, and find that a watcher can take many seconds to notice. They find out how many F's people miss in a sentence, whether a face is easier to read the right way up, and how a tiny paper beetle can vanish into a pattern. The unit follows one idea. The brain has to pick one way of making sense of what it sees, called a reading. It picks using what you expect and what you pay attention to, and it leaves out the rest.",
     "art": "A girl at a table looking at a cube drawn in lines on paper, with two faint thought bubbles beside her head showing the cube pointing one way and then the other."
   },
   "intro": {
     "hook": "Read this and count the letter F. FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS. Many people find three. There are six. Where did the others go?",
-    "text": "Your eyes took in every letter. But your brain was busy reading for meaning, and it slid over the little word 'of' as if it were not there. You did not choose to miss them. In this unit you meet other cases where the brain makes one reading and drops the rest. A cube drawing flips by itself. A big change in a tray goes unseen. Faces jump out of sockets and clouds. A paper beetle vanishes against a cloth. You test each one on yourself and on your family, and then you ask what it means that every one of us lives inside one reading of the world.",
+    "text": "Your eyes took in every letter. But your brain was busy reading for meaning, and it slid over the little word 'of' as if it were not there. The word 'of' appears three times, so three F's went uncounted. You did not choose to miss them. In this unit you meet other cases where the brain makes one reading and drops the rest. A cube drawing flips by itself. A big change in a tray goes unseen. You see faces in plug sockets and clouds. A paper beetle vanishes against a cloth. You test each one on yourself and on your family. Then you ask what it means that each of us gets only one reading of the world.",
     "art": "A sentence in big capital letters on a card, with six of the letter F circled in red, and a girl looking surprised beside it."
   },
   "outcomes": [
@@ -18,7 +18,7 @@
     "I can explain how the brain groups bits into wholes, and how it can show me shapes that are not drawn.",
     "I can explain why a face is harder to read upside down, and why I see faces in clouds, walls and fronts of scooters.",
     "I can explain that two people can see the same thing differently, and that animals live in different sensory worlds from mine.",
-    "I can explain how camouflage works by fooling the way the brain groups and expects.",
+    "I can explain how camouflage works by fooling the way the brain groups things and what it expects.",
     "I can plan a fair test with several people, collect the results, and say what they show without claiming too much."
   ],
   "cards_mins": 20,
@@ -55,14 +55,14 @@
     },
     {
       "term": "Inattentional blindness",
-      "meaning": "Missing something clear and large because your attention is on something else. People with good eyesight do it.",
+      "meaning": "Missing something clear and large because your attention is on something else. It happens to people with good eyesight too.",
       "example": "People counting passes of a ball in a video often miss a person in a gorilla suit who walks through.",
       "art": "A video screen with players passing a ball and a small gorilla in the corner, and a viewer staring at the ball."
     },
     {
       "term": "Change blindness",
       "meaning": "Not noticing a big change in a scene because something hid the moment of change, such as a blink or a flash.",
-      "example": "A cloth is moved in front of your face, and a person swaps places with another, and you do not notice.",
+      "example": "A cloth passes in front of your face. While it hides your view, the person in front of you swaps places with someone else, and you do not notice.",
       "art": "Two photos of the same street scene that differ in one big thing, with a blank grey picture between them."
     },
     {
@@ -110,7 +110,7 @@
     {
       "term": "Camouflage",
       "meaning": "Colours or patterns that make a living being hard to find. It works by matching the background, or by breaking up the outline.",
-      "example": "The stripes of a tiger break up the outline of the tiger in tall grass.",
+      "example": "A tiger's stripes break up her outline in tall grass.",
       "art": "A tiger lying in tall dry grass, her stripes almost matching the grass stems."
     },
     {
@@ -122,7 +122,7 @@
     {
       "term": "Umwelt",
       "meaning": "The part of the world that an animal can sense and act on. Different animals have different umwelten. The word is German for surroundings, and the idea comes from the biologist Jakob von Uexküll.",
-      "example": "A tick waits on a leaf for the smell of sweat and the warmth of a body. That is most of their world.",
+      "example": "A tick waits on a leaf for the smell of sweat and the warmth of a body. That is most of her world.",
       "art": "A tick on a grass blade with faint lines for the smell and the warmth of an animal, and nothing else drawn in their world."
     },
     {
@@ -137,7 +137,7 @@
       "concept": "Perception is a best guess, and the brain shows you only one",
       "status": "defined",
       "definition": "Perception is the brain's reading of the signals from the senses. The signals alone usually fit more than one reading, so the brain chooses the most likely one and shows you only that.",
-      "description": "Light that enters the eye is a pattern of brightness and colour. The same pattern could come from many different scenes. A small thing close by and a big thing far away can make the same size on the eye. A flat drawing of a cube can be read as a cube pointing two ways. The brain has to pick, because a body must act on one reading at a time. You cannot reach for a cube that is both near and far. So the brain uses clues, and what it expects, to pick the likeliest reading, and it shows you that. You never see 'maybe'. About a thousand years ago, the scientist Ibn al-Haytham wrote that seeing is not only the light that enters the eye. He said that recognising what we see also needs memory and judgment, though we do not notice ourselves doing it. In the 1860s, Hermann von Helmholtz called this unconscious inference.",
+      "description": "Light that enters the eye is a pattern of brightness and colour. The same pattern could come from many different scenes. A small thing close by and a big thing far away can look the same size to the eye. A flat drawing of a cube can be read as a cube pointing two ways. The brain has to pick, because a body must act on one reading at a time. You cannot reach for a cube that is both near and far. So the brain uses clues, and what it expects, to pick the likeliest reading, and it shows you that. You never see 'maybe'. About a thousand years ago, the scientist Ibn al-Haytham wrote that seeing is not only the light that enters the eye. He said that recognising what we see also needs memory and judgment, though we do not notice ourselves doing it. In the 1860s, Hermann von Helmholtz called this unconscious inference, which means that the brain draws conclusions without our noticing.",
       "examples": [
         "A distant bus looks tiny but you read it as a normal bus far away, not as a toy bus close by.",
         "A face drawn with a few lines still reads as a face.",
@@ -179,10 +179,10 @@
       "concept": "Expectation and search images: you find what you look for",
       "status": "defined",
       "definition": "The brain uses what it expects to read and to search quickly. This helps when the world is as expected, and causes misses when something does not fit.",
-      "description": "When you read, your eyes jump from word to word. They often skip short, common words, because the brain can guess them. That is why many people miss the extra 'the' in 'Paris in the the spring', and the letters F in the word 'of'. A related idea is the search image. In 1960, the Dutch scientist Luuk Tinbergen noticed that small birds in pine woods ate a kind of insect mostly when that insect was common, and he suggested that a bird learns a picture of what to look for. In 1971, Marian Dawkins reported tests on young chicks. Chicks that had found one type of grain over and over were slower to find a second type, even when the second was easy to see. Searching for one kind of thing seems to make the brain pay less attention to others. The same happens to people looking for a lost key, for a friend in a crowd, or for a leaf insect on a bush. If you look for a bug on a leaf, you may pass the bug that is the leaf.",
+      "description": "When you read, your eyes jump from word to word. They often skip short, common words, because the brain can guess them. That is why many people miss the extra 'the' in 'Paris in the the spring', and the letters F in the word 'of'. A related idea is the search image. In 1960, the Dutch scientist Luuk Tinbergen noticed that small birds in pine woods ate a kind of insect mostly when that insect was common, and he suggested that a bird learns a picture of what to look for. In 1971, Marian Dawkins reported tests on young chicks. Chicks that had found one type of grain over and over were slower to find a second type, even when the second was easy to see. Searching for one kind of thing seems to make the brain pay less attention to others. The same happens to people looking for a lost key, for a friend in a crowd, or for a leaf insect on a bush. If you look for a bug sitting on a leaf, you may pass a bug who looks like a leaf.",
       "examples": [
         "You find your own slippers in a pile of chappals quickly, because you know what they look like.",
-        "A mother in a crowd finds her child in a blue school uniform and walks past a red shirt.",
+        "A mother looking for her child's blue school uniform in a crowd does not notice the people in red shirts.",
         "A birdwatcher who looks for a big bird misses the small one."
       ],
       "perspectives": [],
@@ -196,7 +196,7 @@
       "description": "In the 1920s, Max Wertheimer and other German scientists described how we group what we see. We join things that are close together, things that look alike, things that move together, and things that make a closed shape. In 1955, the Italian scientist Gaetano Kanizsa drew three black circles, each with a wedge cut out, set so that the wedges point to the middle. Most people see a white triangle lying on top, with clear edges. The edges are not drawn. In 1984, Rüdiger von der Heydt and his team found nerve cells in the visual part of a monkey's brain that responded to these edges that do not exist, as if they were real lines. Grouping is useful. In the real world, an animal in leaves is often seen only in pieces. The brain joins the pieces into a whole animal. It does not always have enough information to be right.",
       "examples": [
         "Dots arranged in rows look like rows, though each is separate.",
-        "The clouds of a constellation look like a shape such as a hunter, when the stars are far apart.",
+        "The stars of a constellation look like one shape, such as a hunter, though the stars are far apart.",
         "A half-hidden cat behind a fence still looks like one cat."
       ],
       "perspectives": [],
@@ -207,7 +207,7 @@
       "concept": "Faces: a special skill, and faces everywhere",
       "status": "defined",
       "definition": "Humans are very good at recognising upright faces. The skill depends on the whole face being seen the right way up, and it fails when the face is turned upside down. The brain also finds faces in things that are not faces.",
-      "description": "In 1969, Robert Yin showed that faces are harder to recognise upside down than other objects are. In 1980, the British scientist Peter Thompson turned the eyes and mouth of a photo of a famous face upside down inside the face. Held upright, the face looked horrible. Turned upside down, it looked almost normal. This is called the Thatcher effect, after the photo he used. It shows that the brain reads an upright face as a whole, and that the strangeness of the changed parts becomes clear only in the upright face. In 1997, Nancy Kanwisher and her team found a part of the brain on the underside of the cortex that responds strongly to faces. This skill starts early. Tests reported in the 1970s and 1990s found that newborn babies look longer at face-like patterns than at the same patterns jumbled. The skill is so keen that it fires for pairs of dots and a line. That is why we see faces in sockets, scooters, clouds and a burnt chapati.",
+      "description": "In 1969, Robert Yin showed that faces are harder to recognise upside down than other objects are. In 1980, the British scientist Peter Thompson turned the eyes and mouth of a photo of a famous face upside down inside the face. Held upright, the face looked horrible. Turned upside down, it looked almost normal. This is called the Thatcher effect, after the photo he used. It shows that the brain reads an upright face as a whole, and that the strangeness of the changed parts becomes clear only in the upright face. In 1997, Nancy Kanwisher and her team found a part on the underside of the brain that responds strongly to faces. This skill starts early. Tests reported in the 1970s and 1990s found that newborn babies look longer at face-like patterns than at the same patterns jumbled. The skill is so sensitive that it responds even to two dots and a line. That is why we see faces in sockets, scooters, clouds and a burnt chapati.",
       "examples": [
         "A plug socket with two holes and a switch looks like a surprised face.",
         "The front of a scooter looks like a face with two eyes and a nose.",
@@ -221,7 +221,7 @@
       "concept": "Camouflage works by fooling how the brain reads",
       "status": "defined",
       "definition": "Camouflage is a pattern or shape that helps an animal avoid being found. It works either by matching the background, or by breaking up the animal's outline so that the brain does not read it as one animal.",
-      "description": "In 1940, the British zoologist Hugh Cott described many kinds of camouflage in animals. In background matching, an animal is coloured like the place where they live, like a moth on tree bark. In disruptive colouring, dark and light patches run across the body edge and cut it into pieces that the brain joins to the background instead. A tiger's stripes in tall dry grass do this. In 2005, a team led by Innes Cuthill put paper moths on tree trunks. Birds found the paper moths with patterns that cut across the edge less often than moths whose patterns did not cut across the edge. Some animals go further. The leaf butterfly Kallima, found in India, folds their wings to look like a dead leaf with veins and spots. Leaf insects look like green leaves, with veins and sometimes marks like bites. In all these cases the hunter has a search image, and the camouflage is made to match it. It is a trick played on the brain, and not on the eyes.",
+      "description": "In 1940, the British zoologist Hugh Cott described many kinds of camouflage in animals. In background matching, an animal is coloured like the place where they live, like a moth on tree bark. In disruptive colouring, dark and light patches run across the body edge and cut it into pieces that the brain joins to the background instead. A tiger's stripes in tall dry grass do this. In 2005, a team led by Innes Cuthill put paper moths on tree trunks. Birds found the moths whose patterns cut across the edge less often than the moths whose patterns did not. Some animals go further. The leaf butterfly Kallima, found in India, folds her wings to look like a dead leaf with veins and spots. Leaf insects look like green leaves, with veins and sometimes marks like bites. In all these cases the hunter has a search image, a picture in mind of what to look for. The camouflage makes the animal look like something else that the hunter expects to see there, such as a leaf. It is a trick played on the brain, and not on the eyes.",
       "examples": [
         "A nightjar sitting on the ground looks like a dead leaf or a stone, and she is hard to see.",
         "A stick insect holds still and looks like a twig.",
@@ -235,7 +235,7 @@
       "concept": "Every animal lives in a world of their own: the umwelt",
       "status": "defined",
       "definition": "Each kind of animal senses only part of the world, and acts in that part. That part is called the umwelt. Different animals have different umwelten.",
-      "description": "In the 1930s, the Estonian-German biologist Jakob von Uexküll described the umwelt with the example of a tick. A tick can wait on a leaf for a very long time, and drops onto an animal when she smells a chemical in sweat and feels warmth. Her world is very small. Honeybees see ultraviolet light, which we cannot see. Many flowers have patterns in ultraviolet that guide bees to the nectar, and a flower that looks plain to us can look striped to a bee. Dogs have two kinds of colour sensor, and we have three, so a dog sees fewer colours than we do. But a dog has a far larger share of the brain for smell, and a smell-world that we can hardly imagine. Bats find insects in the dark by sound echoes. Pit vipers sense heat. None of these animals has the whole world. We do not either. Each of us gets one reading, from one body.",
+      "description": "In the 1930s, the Estonian-German biologist Jakob von Uexküll described the umwelt with the example of a tick. A tick can wait on a leaf for a very long time, and drops onto an animal when she smells a chemical in sweat and feels warmth. Her world is very small. Honeybees see ultraviolet light, which we cannot see. Many flowers have patterns in ultraviolet that guide bees to the nectar, and a flower that looks plain to us can look striped to a bee. Dogs have two kinds of colour sensor, and we have three, so a dog sees fewer colours than we do. But a dog has a far larger share of the brain for smell, and a world of smells that we can hardly imagine. Bats find insects in the dark by sound echoes. Pit vipers sense heat. None of these animals senses the whole world. Neither do we. Each of us gets one reading, from one body.",
       "examples": [
         "A bee sees ultraviolet stripes on a flower that looks plain to us.",
         "A dog follows a smell trail across a road that we cannot smell at all.",
@@ -248,7 +248,7 @@
     {
       "concept": "The dress: the same photo, different colours",
       "status": "debated",
-      "description": "In February 2015, a photo of a dress spread across the world. Some people saw it as blue and black. Others saw it as white and gold. The photo itself had one set of colours, so the different answers had to come from the people. Scientists think that the brain tries to remove the colour of the light to find the true colour of the cloth, and that it is not sure what light the dress is in. If the brain assumes the dress is in bluish shade, it removes blue and sees white and gold. If it assumes the dress is in yellowish lamp light, it removes yellow and sees blue and black. Scientists disagree about why people assume different light. One study found that people who are awake early and spend more time in daylight saw it differently from night owls. Others have not found the same, so the idea is not settled.",
+      "description": "In February 2015, a photo of a dress spread across the world. Some people saw it as blue and black. Others saw it as white and gold. The photo itself had one set of colours, so the different answers had to come from the people. Scientists think that the brain tries to remove the colour of the light to find the true colour of the cloth, and that it is not sure what light the dress is in. If the brain assumes the dress is in bluish shade, it removes blue and sees white and gold. If it assumes the dress is in yellowish lamp light, it removes yellow and sees blue and black. Scientists disagree about why people assume different light. One study found that people who are awake early and spend more time in daylight saw it differently from people who stay up late. Others have not found the same, so the idea is not settled.",
       "examples": [
         "A white cloth looks white in the shade, though the shade is bluish.",
         "A friend says a shirt is green, and you say it is blue.",
@@ -270,7 +270,7 @@
     {
       "concept": "Seeing differently, or seeing different things?",
       "status": "debated",
-      "description": "Two people look at the same red apple. Are they having the same experience? Nobody has a way to check. Everyone has learned to call that colour red, so everyone says red. In 1689, the English thinker John Locke asked whether one person's blue might be another's yellow, and no one would ever know. Today we can measure colour sensors and compare the nerve signals of different people. Most people have the same three kinds of colour sensor, so the signals are likely to be similar. But what the signals feel like from the inside cannot be measured from the outside. This question is called the problem of other minds, or of qualia, which means the felt qualities of experience.",
+      "description": "Two people look at the same red apple. Are they having the same experience? Nobody has a way to check. Everyone has learned to call that colour red, so everyone says red. In 1689, the English thinker John Locke asked whether one person's blue might be another's yellow without anyone ever knowing. Today we can measure colour sensors and compare the nerve signals of different people. Most people have the same three kinds of colour sensor, so the signals are likely to be similar. But what the signals feel like from the inside cannot be measured from the outside. Thinkers call this the problem of other minds. Their word for what an experience feels like from the inside is qualia.",
       "examples": [
         "A person with red-green colour blindness sees some colours differently from most people, and they learn this only by testing.",
         "A bee and a child look at a flower and see different patterns.",
@@ -293,11 +293,11 @@
       "concept": "Time in your head: a minute is not always a minute",
       "status": "idea",
       "definition": "How long a stretch of time feels depends on how much attention you give to time itself. When you attend to the clock, it feels longer. When you are busy, it feels shorter.",
-      "description": "A waiting minute can feel very long, and a minute of a good game can feel short. Scientists who study this think that the brain keeps a kind of count of beats from an inner clock, and that attention opens and closes the way beats reach the count. When you are watching the clock, many beats are counted and the time feels long. When your attention is on a task, fewer beats are counted and the time feels short. Tests in which people tell when a minute has passed show this pattern on average, but it is a small effect and varies between people. Scientists still argue about how the brain tells time, and there may be more than one inner clock.",
+      "description": "A waiting minute can feel very long, and a minute of a good game can feel short. Scientists who study this think that the brain has an inner clock that gives out beats, and that the brain counts the beats. Attention decides how many beats get counted. When you are watching the clock, many beats are counted and the time feels long. When your attention is on a task, fewer beats are counted and the time feels short. Tests in which people tell when a minute has passed show this pattern on average, but it is a small effect and varies between people. Scientists still argue about how the brain tells time, and there may be more than one inner clock.",
       "examples": [
         "The last five minutes before the school bell feel very long.",
         "An hour of your favourite game feels very short.",
-        "A visit to the dentist's waiting room feels longer than the visit."
+        "The wait in the dentist's waiting room feels longer than the time with the dentist."
       ],
       "perspectives": [],
       "art": "Two clocks side by side with the same time, one drawn stretched long for a child waiting, and one drawn short for a child playing.",
@@ -327,7 +327,7 @@
     },
     {
       "text": "Upright faces are read in a special way, and are harder to recognise upside down.",
-      "evidence": "In 1969 Robert Yin found that faces suffer more from being turned upside down than other objects do. The Thatcher effect shows it clearly: a face with its eyes and mouth turned upside down looks horrible upright and almost normal upside down."
+      "evidence": "In 1969 Robert Yin found that turning a face upside down makes it much harder to recognise, more than it does for other objects. The Thatcher effect shows it clearly: a face with its eyes and mouth turned upside down looks horrible upright and almost normal upside down."
     },
     {
       "text": "Camouflage works by fooling the way a hunter's brain reads a scene, by matching the background or by breaking up the outline.",
@@ -337,7 +337,7 @@
   "challenging": [
     {
       "claim": "The eye works like a camera and records the world exactly as it is.",
-      "who": "A common school idea, and many people before the 1800s.",
+      "who": "Many people before the 1800s. It is still a common idea in school.",
       "for": "The eye has a lens and a screen, the retina, like a camera.",
       "against": "A camera records whatever it is pointed at. The brain picks. The same lines can be read two ways, big changes can go unseen, and what you expect changes what you see.",
       "status": "rejected",
@@ -379,7 +379,7 @@
       "claim": "Seeing faces in clouds and walls is a mistake the brain should not make.",
       "who": "Some people, who think it is silly.",
       "for": "There is no face in a socket or a cloud.",
-      "against": "The brain's face detector is tuned to fire for even a rough match, because missing a real face is costly and a false alarm is cheap. The skill that finds faces in clouds is the same one that finds friends in a crowd.",
+      "against": "The brain's face detector is set to respond even to a rough match, because missing a real face matters much more than being fooled now and then. The skill that finds faces in clouds is the same one that finds friends in a crowd.",
       "status": "debated",
       "context": "This card is about whether pareidolia is a fault or a useful habit."
     }
@@ -388,20 +388,20 @@
     {
       "q": "A cube drawing flips by itself, and you cannot see both readings at once. The paper never changes. So where does the flip happen?",
       "kind": "deep",
-      "hint": "Think about where the lines end and where the seeing begins."
+      "hint": "Think about what is on the paper, and what your brain does with it."
     },
     {
-      "q": "People looked straight at a tray, and a big object came and went, and they did not see it. If you can look at something and miss it, what does it mean to see?",
+      "q": "In the Blink Tray, watchers looked straight at a tray while a big red cup came and went, and they did not see it. If you can look at something and miss it, what does it mean to see?",
       "kind": "deep",
       "hint": "Think about the difference between light entering the eye and the brain noticing."
     },
     {
-      "q": "You and your friend look at the same dress. You see blue and black, and she sees white and gold. Are you seeing differently, or seeing different things?",
+      "q": "You and your friend look at the same photo of a dress. You see blue and black, and she sees white and gold. Are you seeing differently, or seeing different things?",
       "kind": "big",
       "hint": "Think about the same photo, the same light, and two brains making different guesses about the light."
     },
     {
-      "q": "A bee sees stripes on a flower that look plain to you. Is the flower striped or plain?",
+      "q": "A bee sees stripes on a flower that looks plain to you. Is the flower striped or plain?",
       "kind": "big",
       "hint": "Think about what is on the flower, and what is in the eyes of whoever looks at it."
     },
@@ -411,14 +411,14 @@
       "hint": "Think about what the wall provides and what your brain adds."
     },
     {
-      "q": "Your brain never shows you 'maybe'. When do people settle on one reading of a person or a situation too early, and how could you keep two readings alive for longer?",
+      "q": "Your brain never shows you 'maybe'. When do people decide too early what a person or a situation is like? How could you keep a second reading in mind for longer?",
       "kind": "big",
       "hint": "Think about the cube: it was easy to see one reading, and hard to hold two."
     },
     {
       "q": "Attention is limited. So what might be happening in this room right now that you are not seeing?",
       "kind": "deep",
-      "hint": "Think about the gorilla, the tray and the doubled word."
+      "hint": "Think about the gorilla that viewers missed, the change on the tray, and the doubled word in 'Paris in the the spring'."
     },
     {
       "q": "A minute of waiting feels long, and a minute of playing feels short. Which one is the real minute?",
@@ -443,7 +443,7 @@
       "\"Done,\" said Thatha, and he shook her hand so hard that her bangles rang.",
       "In the morning the rain had stopped, and every leaf on the guava bush was dripping and shining. Thatha stood in front of the bush in his old khaki cap. He took off his glasses, wiped them, and put them on again.",
       "\"One minute,\" said Chithi, pressing a button on her phone.",
-      "Thatha was a magnificent looker. He looked low, and then high. He looked for movement. He looked for the glint of an eye. He found a snail. He found two ants, a tiny spider, and a caterpillar the size of a grain of rice. Each time he cried, \"Is that her?\" and each time Chithi said, \"No.\"",
+      "Thatha was very good at looking. He looked low, and then high. He looked for movement. He looked for the glint of an eye. He found a snail. He found two ants, a tiny spider, and a caterpillar the size of a grain of rice. Each time he cried, \"Is that her?\" and each time Chithi said, \"No.\"",
       "\"Time,\" said Chithi at last.",
       "Thatha's moustache drooped. \"There is nothing on that bush,\" he said. \"You are cheating.\"",
       "Sowmya had been sitting on the step with a plate of idli. She was nine, and her eyes were not as sharp as Thatha's. But she had a habit that he did not have. When she could not find something, she asked herself what she was looking for.",
@@ -541,7 +541,7 @@
         "Hold the drawings up together. As a team, sort the drawings into piles of the same kind of thing.",
         "The team scores 1 point for each different pile. The aim is to find as many different kinds as you can, so a surprise is a good thing.",
         "Each player says in one sentence why that drawing came to mind. Then the player whose drawing is the only one of its kind gets a star.",
-        "Play 12 cards. The team wins when it has 9 points for every player or more (for example 18 points for 2 players, 36 for 4). If you reach less, play again with new cards and try to beat your score.",
+        "Play 12 cards. The team wins if it scores at least 9 points for each player (18 points for 2 players, 36 for 4). If you score less, play again with new cards and try to beat your score.",
         "Playing alone, draw each word now. Draw it again tomorrow without looking at the first drawing. Then compare the two."
       ],
       "flow": [
@@ -578,7 +578,7 @@
           "do": "Play the next six cards in the same way. Add up the team's score. Notice which words gave the most different drawings and which gave the fewest.",
           "say": "Which words gave us the most different drawings? Which gave the fewest? What do you notice about the two kinds of word?",
           "kid": "Play six more cards. Which word gave the most different drawings?",
-          "parent": "Often, plain words with one clear object, such as ROUND, give fewer kinds than wide words, such as HOME or SAFE. If your results differ, write them down as they are.",
+          "parent": "Often, words for one clear thing, such as ROUND, give fewer kinds of drawing than words with wide meanings, such as HOME or SAFE. If your results differ, write them down as they are.",
           "context": "In this step, you finish the cards and compare which words gave the most different drawings."
         },
         {
@@ -661,11 +661,11 @@
             },
             {
               "f": "The old man the boat.",
-              "b": "Read 'old' as 'old people' and 'man' as 'to crew'. The old people crew the boat. Most readers first take 'the old man' as one person, and then the sentence breaks."
+              "b": "Read 'the old' as 'old people' and 'man' as an action: to be the crew of a boat. Old people are the crew of the boat. Most readers first take 'the old man' as one person, and then the sentence stops making sense."
             },
             {
               "f": "Time flies like an arrow. Fruit flies like a banana.",
-              "b": "In the first sentence, 'flies' is something time does. In the second, 'fruit flies' are insects and 'like' is a verb. The same words change their jobs."
+              "b": "In the first sentence, 'flies' is something time does. In the second, 'fruit flies' are insects and 'like' means 'enjoy'. The same words change their jobs."
             },
             {
               "f": "Tara told Anitha that she was brilliant.",
@@ -697,7 +697,7 @@
         "Everyone says aloud, at the same moment, the first meaning that came into their head.",
         "Now everyone hunts for a second meaning. The first player to say a second meaning that makes sense scores 2 points.",
         "The reader turns the card over and reads the back. A player who found a different good meaning that is not on the back also scores 2 points.",
-        "The reader job passes to the next player after every card. After all 12 cards, the most points wins. A tie is a shared win.",
+        "The reader job passes to the next player after every card. After all 12 cards, the player with the most points wins. A tie is a shared win.",
         "Playing alone, say the first meaning aloud, then write it down. Hunt for a second meaning. Then turn the card over and check. Score 1 point for each second meaning you find."
       ],
       "flow": [
@@ -734,7 +734,7 @@
           "do": "Play the other eight cards. Keep a tally of points. Notice which sentences were the hardest to read in a second way.",
           "say": "Keep going. Which sentence was the hardest to read in a second way? Why do you think so?",
           "kid": "Play the other cards. Which sentence was the hardest?",
-          "parent": "The old man the boat is the hardest for most people. It is a sentence that breaks in the middle, and the reader has to go back and start again.",
+          "parent": "'The old man the boat' is the hardest for most people. The sentence stops making sense halfway, and the reader has to go back and start again.",
           "context": "In this step, you play the rest of the cards and notice which sentences are hardest."
         },
         {
@@ -754,7 +754,7 @@
             "a": 0,
             "why": "The brain reads one word at a time and guesses ahead. It takes 'the old man' as one person. When the next words do not fit, it has to give up that reading and start again. The words are short, and the sentence does have a verb, 'man'."
           },
-          "context": "In this step, you add up the scores and explain why one sentence broke."
+          "context": "In this step, you add up the scores and explain why one sentence was so hard to read."
         }
       ],
       "setup": [
@@ -779,9 +779,9 @@
       "title": "Count the Flips: one cube drawing, two readings",
       "mins": 35,
       "days": 1,
-      "question": "How many times does a cube drawing flip in one minute? Can you hold it to one reading by trying, and do different people flip at different rates?",
+      "question": "How many times does a cube drawing flip in one minute? Can you hold it to one reading by trying? Does it flip at different rates for different people?",
       "predict": "Before you start, guess. How many times will the cube flip in one minute? Will trying to hold it still make it flip less, the same or more? Why do you think so?",
-      "fair_test": "Every person looks at the same drawing, at arm's length, in the same light, for exactly 60 seconds. You give every person the same words. Half of the people start with just watching and half start with trying to hold one reading, so that practice does not help one test more than the other. Nobody taps or counts in their head. Only what the person tries to do changes.",
+      "fair_test": "Every person looks at the same drawing, at arm's length, in the same light, for exactly 60 seconds. You say the same words to every person. Half of the people start with just watching and half start with trying to hold one reading, so that practice does not help one test more than the other. Nobody taps or counts in their head. Only what the person tries to do changes.",
       "results_table": [
         "Person",
         "Flips in 60 seconds, just watching (try 1)",
@@ -829,7 +829,7 @@
           "mins": 4,
           "do": "Show your child a cube drawing in a book, or draw a quick one. Ask for a guess and a reason. Write the guess down.",
           "say": "I will draw a cube with lines. You will look at it for one minute. Will the cube stay the same? Will it change? Why do you think so?",
-          "kid": "A cube made of lines. Will it stay the same for a minute? Why?",
+          "kid": "You will look at a cube made of lines for one minute. Will it stay the same? Why?",
           "ask": [
             {
               "q": "Why do you think a drawing that does not change might look different?",
@@ -864,7 +864,7 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "Test your child trying to hold one reading. Say: pick one reading and keep it for the whole minute. If it flips, say flip, and try to bring it back. Start the stopwatch and make a mark for each flip.",
+          "do": "Now test your child while they try to hold one reading. Say: pick one reading and keep it for the whole minute. If it flips, say flip, and try to bring it back. Start the stopwatch and make a mark for each flip.",
           "say": "Now choose one way to see the cube. Try hard to keep it that way for one minute. If it flips anyway, say flip, and bring it back.",
           "kid": "Pick one way to see the cube. Try to keep it for a minute.",
           "parent": "Most people find that trying slows the flips down, but few can stop them. Write down what your child says it feels like. Do not tell them what you expect.",
@@ -874,18 +874,18 @@
           "id": "s5",
           "mins": 8,
           "do": "Test the three other people in the same way: one minute just watching, and one minute trying to hold one reading. Half of the people do the trying test first. Write every number in the table.",
-          "say": "Now let us test other people. Same drawing, same words, same one minute. Let us see if everyone flips the same number of times.",
-          "kid": "Test three more people. Same words, same minute. Write their flips.",
-          "parent": "Use the same words every time. Do not show anyone how it flips. Some people will say it never flips, and that is a result. Ask them to try the eye-drift tip once. With two to four children, pair up: one child looks while another tallies and holds the stopwatch, then swap, so every child is tested. If nobody sees a flip in two minutes, that person is a result too: try the eye-drift tip, or make the cube bigger with thicker lines. About 3 to 20 flips a minute is typical, and it varies a lot between people.",
+          "say": "Now let us test other people. Same drawing, same words, same one minute. Let us see if the cube flips the same number of times for everyone.",
+          "kid": "Test three more people. Same words, same minute. Write down how many flips each one saw.",
+          "parent": "Use the same words every time. Do not show anyone how it flips. Some people will say it never flips. Ask them once to let their eyes drift to another corner, or to blink slowly. If they still see no flip in two minutes, write 0: that is a result too. You can also make the cube bigger with thicker lines. With two to four children, pair up: one child looks while another tallies and holds the stopwatch, then they swap, so every child is tested. About 3 to 20 flips a minute is typical, and it varies a lot between people.",
           "context": "In this step, you test three other people with the same drawing."
         },
         {
           "id": "s6",
           "mins": 4,
-          "do": "Compare the numbers. Ask for claim, evidence and reasoning. Then ask the check question.",
-          "say": "Do all people flip the same amount? Does trying change it? What do you think is happening, if the lines never change?",
-          "kid": "Do people flip the same amount? Does trying change it?",
-          "parent": "Common results are that most people flip several times a minute, that trying slows the flips for many people, and that people differ a lot. Your results may differ. If one reading was seen far more than the other, write it down.",
+          "do": "Compare the numbers. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
+          "say": "Did the cube flip the same number of times for everyone? Did trying to hold it change the number? What do you think is happening, if the lines never change?",
+          "kid": "Did the cube flip the same number of times for everyone? Did trying to hold it change the number?",
+          "parent": "Common results are that most people see several flips a minute, that trying slows the flips for many people, and that people differ a lot. Your results may differ. If one reading was seen far more than the other, write it down.",
           "check": {
             "t": "mcq",
             "q": "Why does a cube drawing flip, though the lines on the paper never change?",
@@ -957,9 +957,9 @@
       "title": "The Blink Tray: how long does a big change stay unseen?",
       "mins": 30,
       "days": 1,
-      "question": "If a card hides the moment a thing on a tray changes, how many blinks does it take to notice? Is a big thing in the middle found sooner than a small thing at the edge?",
-      "predict": "Before you start, guess. How many blinks will it take a watcher to find a big red cup that appears and disappears? Will a small button at the edge take more or fewer? Why do you think so?",
-      "fair_test": "Every watcher sees the same tray with the same ten things. The card covers the tray for about one second each time, and the tray is in view for about three seconds. The same person holds the card and the same person changes the thing each time. Only which thing changes is different: the big red cup in the middle, or the small button at the edge. You move the other things between tests so that a watcher will not recall where they were.",
+      "question": "A card covers a tray for a moment, and one thing on the tray changes while it is covered. Each cover is called a blink. How many blinks does it take a watcher to notice the change? Is a big thing in the middle found sooner than a small thing at the edge?",
+      "predict": "Before you start, guess. Each time the card covers the tray is one blink. How many blinks will it take a watcher to find a big red cup that appears and disappears? Will a small button at the edge take more or fewer? Why do you think so?",
+      "fair_test": "Every watcher sees the same tray with the same ten things. The card covers the tray for about one second each time, and the tray is in view for about three seconds. The same person holds the card and the same person changes the thing each time. The only difference between the two tests is which thing changes: the big red cup in the middle, or the small button at the edge. You move the other things between tests so that a watcher will not recall where they were.",
       "results_table": [
         "Watcher",
         "Blinks to find the big red cup in the middle",
@@ -997,7 +997,7 @@
         {
           "day": 1,
           "mins": 30,
-          "what": "Practise the blink with no watcher, then test three watchers, each with the big change and the small change."
+          "what": "Practise covering the tray with the card, with no watcher. Then test three watchers, each with the big change and the small change."
         }
       ],
       "record": "For each watcher, write how many blinks it took to find each change, up to 15. Add the numbers for the big change and for the small change. Draw two bars.",
@@ -1029,15 +1029,15 @@
           "kid": "Cover the tray for one second. Lift the card. Count to three. Cover again.",
           "adult": true,
           "parent": "The change must happen only while the card is down, and silently. Keep the other things still. A smooth rhythm is the key. If the card moves slowly, the watcher can see the cup move. One person can do both jobs with one hand holding the card over the tray and the other hand reaching underneath, so a child and a parent can work alone. With 2 to 4 children, one holds the card, one changes the tray, one is the watcher and one counts and writes; rotate the jobs.",
-          "context": "In this step, you practise the blink with no watcher, so the test is smooth."
+          "context": "In this step, you practise covering and uncovering the tray with no watcher, so the test is smooth."
         },
         {
           "id": "s3",
           "mins": 4,
-          "do": "Bring in one watcher and sit them at the table. First, show the plain-sight case: take the red cup away slowly while the watcher watches the tray with no card. Ask what changed. Write yes or no for noticing at once.",
+          "do": "Bring in one watcher and sit them at the table. First, show a change in plain sight: with no card, take the red cup away slowly while the watcher watches the tray. Ask what changed. Write yes or no for noticing at once.",
           "say": "Watch the tray, please. I will take something away now. What changed? That was easy. Now, with the card, we will see if it is still easy.",
           "kid": "Watch the tray. Something will change in plain sight. Can you see it?",
-          "parent": "Do this with each watcher before their blink tests. In plain sight, almost everyone sees the change at once, because they see it move. This is the control. It shows that the change is easy to see when the card is not hiding it.",
+          "parent": "Do this with each watcher before their blink tests. In plain sight, almost everyone sees the change at once, because they see it move. This is the control, the test you compare the others with. It shows that the change is easy to see when the card is not hiding it.",
           "context": "In this step, you show a watcher that a change in plain sight is easy to see."
         },
         {
@@ -1045,22 +1045,22 @@
           "mins": 12,
           "do": "Test the watcher with the blink. Test 1: the red cup comes and goes at each blink. Count the blinks until the watcher says what changed. Stop at 15. Move the other things to new places. Test 2: the button at the edge comes and goes at each blink. Count the blinks. Test two more watchers, and swap which test goes first.",
           "say": "Now we will use the card. After each blink, tell me if you see a change and what it is. I will count the blinks. Ready?",
-          "kid": "Watch the tray. After each blink, tell what changed. Count the blinks.",
+          "kid": "Watch the tray. After each blink, say what changed. Count the blinks.",
           "adult": true,
-          "parent": "Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once. If every watcher sees the change on the very first blink, the scene is too easy: add four or five more things to the tray, or shorten the time the tray is in view to about two seconds. If nobody sees it by blink 15, stop and say so; that is a real result and it matches how hard this is. Typical results are a few blinks for the big red cup and more for the small button, but yours may differ.",
+          "parent": "Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once. If every watcher sees the change on the very first blink, the scene is too easy: add four or five more things to the tray, or shorten the time the tray is in view to about two seconds. If nobody sees it by blink 15, stop and say so. That is a real result, and it shows how hard this is. Typical results are a few blinks for the big red cup and more for the small button, but yours may differ.",
           "context": "In this step, you test three watchers with a big change and a small change."
         },
         {
           "id": "s5",
           "mins": 4,
-          "do": "Add up the blinks for the big change and the small change. Draw two bars. Ask for claim, evidence and reasoning. Then ask the check question.",
+          "do": "Add up the blinks for the big change and the small change. Draw two bars. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
           "say": "Which change took more blinks? Was the plain-sight change easy? What was different when the card was down?",
           "kid": "Add up the blinks. Which change took more? Why?",
           "check": {
             "t": "mcq",
             "q": "A big change in a tray goes unseen when a card covers the moment of change. What is the best explanation?",
             "options": [
-              "Without the sight of the change happening, the brain does not compare the before and the after unless it is attending to that place",
+              "The brain does not see the change happen, and it compares before and after only in the place it is attending to",
               "The watcher's eyes were closed",
               "The red cup was too small to see"
             ],
@@ -1114,8 +1114,8 @@
       "mins": 30,
       "days": 1,
       "question": "If the eyes and mouth in a face are turned upside down, does the face look strange? Does it look equally strange when the whole face is upside down?",
-      "predict": "Before you start, guess. How strange will a face look with its eyes and mouth turned upside down, when it is upright, and when it is upside down? Why do you think so?",
-      "fair_test": "Every rater sees the same four cards for exactly three seconds each, in the same light, and answers the same question: how strange does the face look, from 0 for normal to 5 for very strange. The two upside-down cards are always shown first, so that no rater has seen the odd face upright before rating the upside-down cards. This order is not perfect, but it keeps the odd face from being given away. Only the card changes.",
+      "predict": "Before you start, guess. A face has its eyes and mouth turned upside down. How strange will it look when the whole face is upright? How strange will it look when the whole face is upside down? Why do you think so?",
+      "fair_test": "Every rater sees the same four cards for exactly three seconds each, in the same light, and answers the same question: how strange does the face look, from 0 for normal to 5 for very strange. The two upside-down cards are always shown first, so that no rater has seen the changed face upright before rating the upside-down cards. This order is not perfect, but it keeps the changed face from being given away. Only the card changes.",
       "results_table": [
         "Rater",
         "Normal face, upside down (0 to 5)",
@@ -1185,7 +1185,7 @@
           "say": "Stick one photo on a card. This is the normal one. On the other photo, a grown-up cuts out the eyes and the mouth. Turn each piece upside down and stick it back.",
           "kid": "A grown-up cuts out the eyes and mouth. Turn them upside down. Stick them back.",
           "adult": true,
-          "parent": "Cut slightly outside the eyebrows and the lips so the pieces fit back well. A clear photo of a face looking straight ahead works best. A drawing gives a weaker effect. Cut slightly outside the eyes and the lips, and keep the pieces large, as small ones are hard to turn and glue. With 2 to 4 children, each child can make a card pair from a different photo, and the raters compare them.",
+          "parent": "A clear photo of a face looking straight ahead works best. A drawing gives a weaker effect. Cut slightly outside the eyebrows and the lips so the pieces fit back well, and keep the pieces large, as small ones are hard to turn and glue. With 2 to 4 children, each child can make a card pair from a different photo, and the raters compare them.",
           "context": "In this step, you make the normal card and the changed card."
         },
         {
@@ -1200,7 +1200,7 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Work out the average score for each card. Draw four bars. Ask for claim, evidence and reasoning, and then ask the check question.",
+          "do": "Work out the average score for each card. Draw four bars. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
           "say": "Which card has the highest average? Is the changed face much stranger upright or upside down? What does that tell you about how we read faces?",
           "kid": "Find the average for each card. Draw four bars. Which is highest?",
           "parent": "A common result is that the changed face looks much stranger upright than upside down, even though it is the same photo. Your results may differ. If the changed face looks equally odd in both, write that down.",
@@ -1419,11 +1419,11 @@
         {
           "id": "s2",
           "mins": 11,
-          "do": "1. Fold the black paper in half, short side to short side, with the fold on the left. 2. Draw a face profile right of the fold, looking left, about 2 to 4 centimetres from the fold. 3. Draw a forehead, a nose, lips and a chin. 4. A grown-up cuts along the line and removes the strip next to the fold. 5. Open the paper over the white sheet.",
+          "do": "1. Fold the black paper in half, short side to short side, with the fold on the left. 2. To the right of the fold, draw the side view of a face looking left, about 2 to 4 centimetres from the fold. 3. Give it a forehead, a nose, lips and a chin. 4. A grown-up cuts along the line and removes the strip next to the fold. 5. Open the paper over the white sheet.",
           "say": "Fold the black paper in half. Draw the side of a face near the fold, with a forehead, a nose, lips and a chin. A grown-up will cut it out. Then open it on a white sheet.",
-          "kid": "Fold the paper. Draw a face profile near the fold. A grown-up cuts it out.",
+          "kid": "Fold the paper. Draw the side of a face near the fold. A grown-up cuts it out.",
           "adult": true,
-          "parent": "Measure from the fold. Start 3.5 centimetres from the fold at the top, then forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. These distances are about 1 centimetre apart down the page. If your outline does not look like faces, copy a vase-and-faces drawing from a book. Draw on the black paper with a white pencil, chalk or pale crayon, as a normal pencil does not show. When the strip is removed, the paper falls into two halves: lay them on the white sheet with the cut edges facing each other and a small gap, and tape them down. With 2 to 4 children, each child can draw their own profile and the grown-up cuts them one by one. A wobbly outline is fine; if it does not look like a face, try again with a bigger nose.",
+          "parent": "To draw the outline, mark points about 1 centimetre apart down the page, each measured from the fold in centimetres: the top 3.5, forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. If your outline does not look like faces, copy a vase-and-faces drawing from a book. Draw on the black paper with a white pencil, chalk or pale crayon, as a normal pencil does not show. When the strip is removed, the paper falls into two halves: lay them on the white sheet with the cut edges facing each other and a small gap, and tape them down. With 2 to 4 children, each child can draw their own face outline and the grown-up cuts them one by one. A wobbly outline is fine. If it does not look like a face, try again with a bigger nose.",
           "context": "In this step, you make the two-way picture from black and white paper."
         },
         {
@@ -1506,10 +1506,10 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Ask your child to guess whether people will see a shape between the circles. Trace the katori or glass three times, as the corners of a triangle. Keep the middles about 11 centimetres apart. Colour each circle black, but leave a wedge, like a slice of pizza, white in each. Turn each wedge to point to the middle of the triangle.",
+          "do": "Ask your child to guess whether people will see a shape between the circles. Trace around the katori or glass three times, so that the three circles sit at the corners of a triangle. Keep the centres of the circles about 11 centimetres apart. Colour each circle black, but leave a wedge, like a slice of pizza, white in each. Turn each wedge to point to the middle of the triangle.",
           "say": "We will draw three circles with slices missing. Do you think people will see a shape in the middle? What shape? Why?",
           "kid": "Draw three black circles with a slice missing. Point the slices to the middle.",
-          "parent": "Each white wedge should be narrow, about one sixth of the circle (60 degrees, narrower than a quarter), so that its two edges run along the sides of the triangle. The edges of the white wedges must line up so that they point to the same middle. Do not tell people what to expect. Colour solid, with a thick black marker or crayon, so the black is dark. The effect is strongest in good light. A few people do not see the triangle, and that is a result. With several children, each can make one drawing with a different wedge size and compare which works best.",
+          "parent": "Each white wedge should be narrow, about one sixth of the circle (60 degrees, narrower than a quarter), so that its two edges run along the sides of the triangle. The edges of the white wedges must line up so that they point to the same middle. Do not tell people what to expect. Colour the circles in fully, with a thick black marker or crayon, so the black is dark. The effect is strongest in good light. A few people do not see the triangle, and that is a result. With several children, each can make one drawing with a different wedge size and compare which works best.",
           "context": "This is the first step of The Triangle That Isn't There. You guess and make the drawing."
         },
         {
@@ -1518,7 +1518,7 @@
           "do": "Show the drawing to five people, one at a time, from about an arm's length. Ask what they see in the middle. Ask if the shape looks brighter than the paper around it. Write each answer. Then ask each person to cover one circle with a finger, and say what happens.",
           "say": "What do you see in the middle? Does it look brighter or the same as the paper? Now cover one circle with your finger. What happens to the shape?",
           "kid": "Show the drawing. Ask what people see in the middle.",
-          "parent": "Most people see a white triangle with clear edges, which often looks brighter than the paper. When one circle is covered the triangle goes. The edges of the triangle are not drawn anywhere on the paper.",
+          "parent": "Most people see a white triangle with clear edges, which often looks brighter than the paper. When one circle is covered, the triangle disappears. The edges of the triangle are not drawn anywhere on the paper.",
           "context": "In this step, you test five people to see whether they find a triangle that is not drawn."
         },
         {
@@ -1529,7 +1529,7 @@
           "kid": "Count how many people saw a triangle. Is the edge drawn?",
           "check": {
             "t": "mcq",
-            "q": "People see a triangle in the drawing with three circles with slices missing. Where do the triangle's edges come from?",
+            "q": "In the drawing of three circles with slices missing, people see a triangle. Where do the triangle's edges come from?",
             "options": [
               "The brain draws them, to join the circles into one shape",
               "They are drawn in very thin pencil",
@@ -1600,8 +1600,8 @@
           "mins": 5,
           "do": "Compare the lists. Which things did more than one person find? Which faces did only one person find? Draw three dots, two above one, on a piece of paper. Turn the paper upside down. Which looks more like a face?",
           "say": "Which things did two people find? Which did only one find? Now look at these three dots. Two above one, and then turned upside down. Which looks like a face?",
-          "kid": "Compare your lists. Draw three dots, two above one. Turn the paper over.",
-          "parent": "Two dots above one usually looks like a face, and it looks much less like one when turned. Brain scientists think that our brain looks for a pattern of two eyes above a mouth. Newborn babies have been found to look longer at such patterns.",
+          "kid": "Compare your lists. Draw three dots, two above one. Turn the paper upside down. Which way looks like a face?",
+          "parent": "Two dots above one usually looks like a face, and it looks much less like one when turned upside down. Brain scientists think that our brain looks for a pattern of two eyes above a mouth. Newborn babies have been found to look longer at such patterns.",
           "context": "In this step, you compare lists and test the three-dot pattern."
         },
         {
@@ -1614,7 +1614,7 @@
             "t": "mcq",
             "q": "Why does a plug socket sometimes look like a face?",
             "options": [
-              "The brain's face finder fires for any rough pattern of two eyes above a mouth",
+              "The brain's face finder responds to any rough pattern of two eyes above a mouth",
               "The socket is really alive",
               "Everyone has seen that socket before"
             ],
@@ -1669,7 +1669,7 @@
           "mins": 8,
           "do": "Choose five things in the room. For each one, ask your child to guess what a dog, a bee and a pit viper would notice most. Write the guesses in the table. Add what you notice yourself.",
           "say": "A dog, a bee and a pit viper are in this room. For each thing, what would each animal notice most? Smell? Colour? Heat? What do you think?",
-          "kid": "Pick five things in the room. Guess what a dog, a bee and a snake notice.",
+          "kid": "Pick five things in the room. Guess what a dog, a bee and a pit viper, who is a snake, would notice.",
           "parent": "Do not correct the guesses yet. Let your child fill in all four columns first.",
           "context": "In this step, you guess what four different animals would notice in one room."
         },
@@ -1679,15 +1679,15 @@
           "do": "Read the facts aloud. A dog has a far larger part of the brain for smell than we have, and sees fewer colours than we do. A honeybee sees ultraviolet light, which we cannot see, and sees red as very dark. A pit viper senses the heat of warm things with pits on her face. Change any guesses that the facts show were wrong. Mark them with a star.",
           "say": "Here are the facts. The dog smells much more than we do. The bee sees ultraviolet. The pit viper senses heat. Which of your guesses did the facts change?",
           "kid": "Listen to the facts. Which of your guesses changed?",
-          "parent": "A cup of hot tea shows up for a pit viper as a bright warm spot. The flower may have a pattern in ultraviolet that a bee follows to the middle. The plate of food is a strong cloud of smell to a dog. For the fan, the lamp and the window, the facts are less clear, so discuss them.",
+          "parent": "For example, a cup of hot tea shows up for a pit viper as a bright warm spot. A flower may have a pattern in ultraviolet that a bee follows to the middle. A plate of food is a strong cloud of smell to a dog. For things such as a fan, a lamp or a window, the facts are less clear, so discuss them.",
           "context": "In this step, you check your guesses against what scientists know about each animal."
         },
         {
           "id": "s3",
           "mins": 9,
-          "do": "Choose one thing and one animal. Draw the thing the way that animal would sense the thing. Use colour, lines or clouds to show smell, heat or ultraviolet. Then ask the check question.",
+          "do": "Choose one thing and one animal. Draw the thing the way that animal would sense it. Use colour, lines or clouds to show smell, heat or ultraviolet. Then ask the check question.",
           "say": "Pick one thing and one animal. Draw how that animal would sense the thing. Show smell with clouds, heat with red, or ultraviolet with stripes.",
-          "kid": "Draw one thing the way an animal senses that thing.",
+          "kid": "Pick one thing and one animal. Draw the thing the way that animal senses it.",
           "check": {
             "t": "mcq",
             "q": "A flower looks plain yellow to you. A bee sees a dark pattern on the flower, in ultraviolet. What does this suggest?",
@@ -1697,12 +1697,12 @@
               "The flower changes when the bee arrives"
             ],
             "a": 0,
-            "why": "The pattern is really there, in ultraviolet light, but our eyes cannot sense that light. So the flower looks plain to us and patterned to the bee. Neither animal is imagining the pattern, and the flower does not change when the bee arrives."
+            "why": "The pattern is really there, in ultraviolet light, but our eyes cannot sense that light. So the flower looks plain to us and patterned to the bee. The bee is not imagining the pattern, and the flower does not change when the bee arrives."
           },
-          "context": "In this step, you draw one thing as one animal senses that thing and think about what that means."
+          "context": "In this step, you draw one thing as one animal senses it, and think about what that means."
         }
       ],
-      "safety": "Hot tea can scald. Use warm tea in a cup that a grown-up carries and places, away from small children, or just talk about a hot cup instead. Keep the fan and lamp switched as they are and do not touch the lamp."
+      "safety": "Hot tea can scald. Use warm tea in a cup that a grown-up carries and places, away from small children, or just talk about a hot cup instead. Leave the fan and the lamp as they are, on or off, and do not touch the lamp."
     },
     {
       "id": "a6",
@@ -1750,7 +1750,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Ask for a guess and a reason. Write a common word on a card. Ask your child to say it aloud thirty times, as fast as they can, while looking at the card. Count with tally marks. Ask what happened to the word.",
+          "do": "Write a common word on a card. Ask your child to guess what will happen to the word if they say it thirty times, and why. Then ask your child to say it aloud thirty times, as fast as they can, while looking at the card. Count with tally marks. Ask what happened to the word.",
           "say": "Say this word thirty times, as fast as you can. Before you start, what do you think will happen to the word? Why?",
           "kid": "Say the word 30 times, fast. What happens to it?",
           "parent": "Many people say the word starts to sound strange, like a collection of sounds, and that the meaning slips away. Some feel nothing. Both are results. The effect is called semantic satiation, and scientists still discuss how strong it is.",
@@ -1766,12 +1766,12 @@
             "t": "mcq",
             "q": "A word said thirty times often starts to sound strange. What does this suggest about meaning?",
             "options": [
-              "The brain builds the meaning of a word each time, and it can wear thin when the word is repeated",
+              "The brain builds the meaning of a word each time, and the meaning can fade for a while when the word is repeated",
               "The word has lost its meaning in the dictionary",
               "The ears have stopped working"
             ],
             "a": 0,
-            "why": "A word's meaning is not stuck to its sound. The brain makes the meaning each time it hears or says the word, and repetition can make that process tire for a while. The word is still in the dictionary, and the ears are fine."
+            "why": "A word's meaning is not stuck to its sound. The brain makes the meaning each time it hears or says the word, and repeating the word many times can make this work less well for a while. The word is still in the dictionary, and the ears are fine."
           },
           "context": "In this step, you test two other people and think about what the result means."
         }
@@ -1832,8 +1832,8 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Test the same person while they do an absorbing task, such as threading beads. Start the hidden stopwatch. They say stop when they think a minute has passed. Write the true time. Repeat for two more people, and swap which test goes first.",
-          "say": "Now do the beads. Do not count. When you think a minute has passed, say stop.",
+          "do": "Test the same person while they do a task that takes all their attention, such as threading beads. Start the hidden stopwatch. They say stop when they think a minute has passed. Write the true time. Repeat for two more people, and swap which test goes first.",
+          "say": "Now thread the beads. Do not count. When you think a minute has passed, say stop.",
           "kid": "Do the task. Say stop when you think a minute has passed.",
           "parent": "People often say stop too early when they wait and too late when they are busy, but the effect is small and it varies. Some people show the opposite. This is a result too, and one trial per person is not enough to be sure.",
           "check": {
@@ -1945,7 +1945,7 @@
               ]
             }
           ],
-          "parent": "Use small drops, and press gently. If the paper gets wet and soggy, use less paint. Leave the blots to dry. The blots are for fun and for finding out how people see. They do not show anything about a person. Paint that is too thick does not spread, and paint that is too watery soaks through, so test one blot first. In damp weather the blots take a day or more to dry; leave them in a breezy place and begin day 2 only when they are dry. With 2 to 4 children, each child makes three blots and then shows them to the others, but not to the people who will rate them.",
+          "parent": "Use small drops, and press gently. If the paper gets wet and soggy, use less paint. Leave the blots to dry. The blots are for fun and for finding out how people see. They do not show anything about a person. Paint that is too thick does not spread, and paint that is too watery soaks through, so test one blot first. In damp weather the blots take a day or more to dry. Leave them in a breezy place and begin day 2 only when they are dry. With 2 to 4 children, each child makes three blots and then shows them to the others, but not to the people who will be asked what they see.",
           "context": "This is the first day of the Blot Gallery. You make six paint blots."
         },
         {
@@ -1956,7 +1956,7 @@
           "kid": "Show each blot to eight people. Ask what they see first.",
           "adult": true,
           "parent": "Ask for the first thing, and then what else. Do not suggest answers or react. Some people will see an animal at once, and some will say nothing. If a person is not sure, they may pass. Show the blots to at least four people, such as the family, grandparents or neighbours. Each blot should be shown to the same people in the same order.",
-          "wait": "Ask all eight people over day 2.",
+          "wait": "Ask all eight people during day 2.",
           "context": "This is the second day of the Blot Gallery. You show the blots to people."
         },
         {
@@ -1989,7 +1989,7 @@
       "problem": "Make a small paper beetle and hide it in plain view in a room, so that people take the longest time to find it. The beetle must not be covered or hidden behind anything. Anyone with good eyes must be able to see it if they look in the right place.",
       "constraints": [
         "The beetle must be no longer than 4 centimetres.",
-        "The beetle must be seen from where the watcher sits, not covered by anything or hidden behind it.",
+        "The watcher must be able to see the beetle from where they sit. It must not be covered or hidden behind anything.",
         "You may colour and shape the beetle, and you may choose where to put it, but you may not change the background.",
         "You have five watchers, and each looks for up to 60 seconds."
       ],
@@ -2012,7 +2012,7 @@
         "Make the beetle flat and grey and put it on a patch of the wall that has a shadow."
       ],
       "your_turn": "Draw your beetle and your hiding place. Say which trick you are using: matching the background, or breaking the outline. Test with five watchers and write the time each takes. Change one thing and test again with five new watchers.",
-      "context": "This is a design challenge about camouflage. You use what you know about how the brain groups and expects, to make something hard to find.",
+      "context": "This is a design challenge about camouflage. You use what you know about how the brain groups things and what it expects, to make something hard to find.",
       "setup": [
         {
           "art": "A child drawing three beetle designs on paper, one plain brown, one with stripes, one spotted, with a patterned cloth beside them.",
@@ -2044,7 +2044,7 @@
               ]
             }
           ],
-          "context": "This is the first step of the Hide the Beetle challenge. You plan."
+          "context": "This is the first step of the Hide the Beetle challenge. You plan your beetle and its hiding place."
         },
         {
           "id": "s2",
@@ -2089,7 +2089,7 @@
       "general": [
         "Draw a duck that is also a rabbit, with a shape that can be a beak or two ears.",
         "Draw a vase that is also two faces looking at each other.",
-        "Draw a cube drawn with lines that can point two ways."
+        "Draw a cube made of lines that can point two ways."
       ],
       "creative": [
         "Draw a banana that is also a boat, with a curve that can be the fruit or the hull.",
@@ -2097,7 +2097,7 @@
         "Draw an eye that is also a leaf, with a pointed shape that suits both."
       ],
       "your_turn": "Draw your picture and name the two readings you meant. Test it with ten people and write what each saw first. Count the split. If it is not close to five and five, change one thing and test with ten new people.",
-      "context": "This is a design challenge about readings. You make something that the brain can read in two ways, and find out how people split.",
+      "context": "This is a design challenge about pictures with two readings. You make something that the brain can read in two ways, and find out how people split.",
       "setup": [
         {
           "art": "A child's page of five small sketches, each a shape that could be read two ways, with a duck-rabbit and a banana-boat.",
@@ -2116,7 +2116,7 @@
         {
           "id": "s1",
           "mins": 10,
-          "do": "Read the problem together. Look at two-way pictures in a book, or the cube, the vase and the duck-rabbit from earlier. Ask your child to sketch five ideas, each a shape that might be read two ways.",
+          "do": "Read the problem together. Look at two-way pictures in a book, or at the cube drawing, the vase and faces drawing and the duck-rabbit drawing. Ask your child to sketch five ideas, each a shape that might be read two ways.",
           "say": "What can a curved line be? What can a pointed shape be? Sketch five shapes that could be two different things.",
           "kid": "Sketch five shapes that could be two different things.",
           "ask": [
@@ -2129,7 +2129,7 @@
               ]
             }
           ],
-          "context": "This is the first step of the Draw a Two-Way Picture challenge. You plan."
+          "context": "This is the first step of the Draw a Two-Way Picture challenge. You sketch ideas."
         },
         {
           "id": "s2",
@@ -2266,7 +2266,7 @@
     },
     {
       "t": "mcq",
-      "p": "A photo of a person looks harder to recognise when it is upside down. What does this suggest?",
+      "p": "A photo of a person is harder to recognise when it is upside down. What does this suggest?",
       "opts": [
         "The brain has a special way of reading upright faces",
         "The person's face changes when it is upside down",
@@ -2302,7 +2302,7 @@
     },
     {
       "t": "mcq",
-      "p": "To find out whether the number of flips of a cube drawing depends on trying to hold it still, what must you keep the same?",
+      "p": "You want to find out whether trying to hold a cube drawing in one reading changes the number of flips. What must you keep the same?",
       "opts": [
         "The drawing, the distance, the light and the time",
         "The person's name",
@@ -2412,7 +2412,7 @@
               "Grouping bits into a whole"
             ],
             [
-              "not finding the second colour of grain after finding the first",
+              "being slow to find a second type of grain after finding the first",
               "Using expectation"
             ],
             [
@@ -2426,7 +2426,7 @@
         },
         {
           "t": "write",
-          "p": "Many people count only three F's in the sentence about finished files. Explain why, using the word 'expect'.",
+          "p": "Many people count only three F's in the sentence FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS. There are six. Explain why, using the word 'expect'.",
           "lines": 4,
           "how": "a1",
           "a": "When we read for meaning, the brain skips small common words such as 'of'. We expect those words, so we do not check them. The F's in 'of' were seen by the eyes, but not noticed.",
@@ -2508,12 +2508,12 @@
           "t": "truefalse",
           "p": "Seeing a face in a plug socket shows that a person's eyes are faulty.",
           "a": false,
-          "why": "False. The brain's face finder fires for any rough pattern of two eyes above a mouth. It is a useful habit, because missing a real face matters more than being fooled by a socket.",
+          "why": "False. The brain's face finder responds to any rough pattern of two eyes above a mouth. It is a useful habit, because missing a real face matters more than being fooled by a socket.",
           "outcome": 4
         },
         {
           "t": "perspective",
-          "p": "Two friends, Lavanya and Imran, talk about the video of the gorilla.",
+          "p": "Two friends, Lavanya and Imran, talk about a video in which a person in a gorilla suit walks through a ball game while viewers count the passes.",
           "views": [
             {
               "who": "Lavanya",
@@ -2527,7 +2527,7 @@
           "ask": "Who do you agree with? Use what you know about attention. Then say one thing the other person has right.",
           "lines": 4,
           "a": "A strong answer agrees with Imran, because missing the gorilla comes from attention being used on the passes, not from carelessness. It can say that Lavanya is right that attention matters, and that if you were told to look for a gorilla, you would not miss the gorilla.",
-          "why": "Missing a large thing is normal when attention is elsewhere. People miss it because they are paying attention.",
+          "why": "Missing a large thing is normal when attention is elsewhere. People miss the gorilla because they are paying attention to the passes.",
           "outcome": 1
         },
         {
@@ -2575,7 +2575,7 @@
           "t": "mcq",
           "p": "A bird has eaten green caterpillars for a week. What is she most likely to do next?",
           "opts": [
-            "Pass a brown caterpillar next to her beak",
+            "Miss a brown caterpillar right next to her beak",
             "Find every kind of caterpillar equally well",
             "Stop looking for food"
           ],
@@ -2593,7 +2593,7 @@
             ],
             [
               "Inverted face effect",
-              "a friend's photo is harder to know upside down"
+              "a friend's photo is harder to recognise upside down"
             ],
             [
               "Change blindness",
@@ -2708,7 +2708,7 @@
           ],
           "ask": "Who do you agree with? Use what you know about the face finder in the brain. Then say one thing the other person has right.",
           "lines": 4,
-          "a": "A strong answer may agree with Mohan, because the face finder fires for a rough pattern so as not to miss real faces. It can say that Revathi is right that the face in a cloud is not really there, and that this is a false alarm.",
+          "a": "A strong answer may agree with Mohan, because the face finder responds to a rough pattern so as not to miss real faces. It can say that Revathi is right that the face in a cloud is not really there, and that this is a false alarm.",
           "why": "The same habit finds friends in a crowd and faces in sockets. Scientists treat it as a useful rule that sometimes gives false alarms.",
           "outcome": 4
         },
@@ -2759,7 +2759,7 @@
           "t": "write",
           "p": "A forest guard with sharp eyes looked at a bush for a minute and did not find a leaf insect. Explain why, using the words 'search image'.",
           "lines": 4,
-          "a": "He was looking for a bug sitting on a leaf, and that was his search image. The leaf insect looks like a leaf, so she did not match the search image. His eyes saw her, but his brain did not mark her.",
+          "a": "He was looking for a bug sitting on a leaf, and that was his search image. The leaf insect looks like a leaf, so she did not match the search image. His eyes saw her, but his brain did not notice her.",
           "why": "A strong answer says that the search image helped him find bugs on leaves but made him pass an insect shaped like a leaf.",
           "outcome": 2
         },
@@ -2816,7 +2816,7 @@
               "says": "Seeing is a best guess that the brain makes, using clues and what it expects."
             }
           ],
-          "ask": "Who do you agree with? Use the cube, the tray or the F's. Then say one thing the other person has right.",
+          "ask": "Who do you agree with? Use the cube drawing that flips, the change on the tray that goes unseen, or the F's that people miss. Then say one thing the other person has right.",
           "lines": 4,
           "a": "A strong answer agrees with Prakash, because the cube flipped though the lines did not change, a big change went unseen, and F's were missed because of expectation. It can say that Kavitha is right that the eye does catch light like a camera does, and that most guesses are good.",
           "why": "The eye does catch light, but the brain builds the seeing from it. Seeing is usually right because the brain's guesses are good, and wrong in the cases we tested.",
@@ -2861,7 +2861,7 @@
               "Attention is limited"
             ],
             [
-              "a bee sees stripes on a flower that look plain to us",
+              "a bee sees stripes on a flower that looks plain to us",
               "Different bodies sense different worlds"
             ],
             [
@@ -2885,7 +2885,7 @@
           "t": "write",
           "p": "Why must a body pick one reading of what it sees, instead of keeping both? Give one example from an animal.",
           "lines": 4,
-          "a": "A body must act, and it can only do one thing at once. An animal cannot jump towards a branch that is both near and far. So the brain picks the likeliest reading and acts on it. A bird picks one reading of a shape in the grass as a worm and pecks.",
+          "a": "A body must act, and it can only do one thing at once. An animal cannot jump towards a branch that is both near and far. So the brain picks the likeliest reading and acts on it. A bird reads a shape in the grass as a worm, and pecks.",
           "why": "A strong answer says that action needs one reading, and gives an example in which keeping two would not work.",
           "outcome": 0
         },
@@ -2990,7 +2990,7 @@
             "Show faces upside down only"
           ],
           "a": 0,
-          "why": "A fair plan changes only the direction of the faces, uses the same faces and gives the same task to several people. A comparison needs both conditions.",
+          "why": "A fair plan changes only the direction of the faces, uses the same faces and gives the same task to several people. To compare, you need both upright and upside-down faces.",
           "outcome": 7
         }
       ]
@@ -3043,7 +3043,7 @@
       "art": "A group of seven bright stars joined by dotted lines into the shape of a hunter."
     },
     {
-      "text": "A street with a tall signboard where people walk past a change, such as a new shop, without seeing it for days.",
+      "text": "A change on a street that people walk along every day, such as a new shop or a tall signboard, which they pass for days without seeing.",
       "art": "A street with a new shop front that people walk past without looking at."
     }
   ],
@@ -3083,7 +3083,7 @@
     "What is the first thing you see in a cloud today? What else could it be?",
     "Can you find a face in something at home, such as a tap, a window or a plate?",
     "What is on your desk that you have not noticed for a long time?",
-    "If a bee could tell you what she sees in a flower, what do you think it would say?",
+    "If a bee could tell you what she sees in a flower, what do you think she would say?",
     "When you wait for the bus, does the minute feel longer than when you are playing? Why?",
     "How do you find your friend in a crowd? What do you look for first?",
     "If two people look at the same dress and see different colours, who is right?",
@@ -3139,7 +3139,7 @@
       "why_maths": "An average shows what is typical for a group and lets you see which person is unusual."
     },
     {
-      "problem": "A cube flips 8 times in 60 seconds. On average, how many seconds does each reading last? If a reading lasts longer than average, what does that say about the flips?",
+      "problem": "A cube flips 8 times in 60 seconds. On average, how many seconds does each reading last? If each reading lasts longer than that, are there more flips in a minute or fewer?",
       "answer": "7.5 seconds on average. A reading that lasts longer than that means fewer flips in that minute.",
       "explain": "60 divided by 8 is 7.5. If one reading lasts 12 seconds, there is less time left for others, so there are fewer flips overall.",
       "math_unit": "math.fractions.decimals-and-percentages.L4",
@@ -3148,7 +3148,7 @@
       "why_maths": "Dividing the time by the number of flips turns a count into how long each reading lasts."
     },
     {
-      "problem": "In the Blink Tray, one blink takes 4 seconds: 1 second under the card and 3 seconds in view. A watcher needed 4 blinks to find the big cup and 9 blinks to find the small button. How many seconds is that for each? How many times as long was the button?",
+      "problem": "In the Blink Tray, one blink takes 4 seconds: 1 second under the card and 3 seconds in view. A watcher needed 4 blinks to find the big cup and 9 blinks to find the small button. How many seconds is that for each? How many times as long did the button take?",
       "answer": "16 seconds for the cup and 36 seconds for the button. The button took 2.25 times as long.",
       "explain": "4 blinks times 4 seconds is 16 seconds. 9 blinks times 4 seconds is 36 seconds. 36 divided by 16 is 2.25.",
       "math_unit": "math.multiplication.multiplication-facts.L4",
@@ -3408,18 +3408,18 @@
     ]
   },
   "roots": {
-    "context": "We have flipped a cube, missed a change in a tray, read a face upside down and hidden a beetle. Now we ask what these tests tell us about ourselves and the world.",
+    "context": "In Count the Flips, a cube drawing flipped while the paper stayed the same. In the Blink Tray, watchers missed a big change on a tray. In Upside-Down Faces, a changed face looked almost normal upside down. In Hide the Beetle, a paper beetle was hard to find in plain view. Now we ask what these tests tell us about ourselves and the world.",
     "deep_truth": {
       "truth": "Your brain never shows you 'maybe'. When a drawing could mean two things, you see only one of them at a time. The other one disappears, and you cannot see both at once.",
       "habit": "We talk as if seeing were like a camera, which could record a scene that has two readings and keep both. But a body has to act on one reading at a time, so the brain must pick, and it does not tell you that it picked.",
-      "evidence": "In the cube test, the lines on the paper never changed, yet the cube flipped several times a minute, and you saw only one version each time. Trying to hold one version slowed the flips for many people, but usually did not stop them."
+      "evidence": "In Count the Flips, the lines on the paper never changed, yet the cube flipped several times a minute, and you saw only one version each time. Trying to hold one version slowed the flips for many people, but usually did not stop them."
     },
     "three": {
-      "who_am_i": "Each of us lives inside one reading of the world, chosen by our brain from many that could fit the same light and sound. The reading depends on what we expect, what we attend to and the body we have.",
+      "who_am_i": "Each of us sees the world in one way. That way is a reading, which our brain has chosen from many that could fit the same light and sound. The reading depends on what we expect, what we attend to and the body we have.",
       "what_is_life": "Every living being has to pick one reading and act. A tick waits for the smell of sweat, a bee heads for patterns in ultraviolet, and a chick looks for the grain she expects. Each lives in the reading their body can make.",
-      "what_is_this_world": "The world gives the same light to every eye. What anyone sees is a meeting between that light and a particular body and brain. Nobody has a view from nowhere."
+      "what_is_this_world": "The world gives the same light to every eye. What anyone sees depends on that light and also on their own body and brain. Nobody sees the world without a body and a brain doing the seeing."
     },
-    "thread": "Light, sound and smell come from the same world to every creature. A body turns them into one reading so that it can act: reach, run, hide or hunt. Because a particular body makes the reading, the same cube can flip, the same tray can change unseen, and the same flower can be a bright target for a bee and a plain one for you. The world is not made up by the brain. But the way it appears to anyone is always a meeting between the world and a body that has to choose.",
+    "thread": "Light, sound and smell come from the same world to every creature. A body turns them into one reading so that it can act: reach, run, hide or hunt. Because a particular body makes the reading, the same cube can flip, the same tray can change unseen, and the same flower can be a bright target for a bee and a plain one for you. The world is not made up by the brain. But the way it appears to anyone always depends on both the world and a body that has to choose one reading.",
     "teachings": [
       {
         "source": "Zhuangzi, chapter 2",
@@ -3443,7 +3443,7 @@
         "status": "settled"
       },
       {
-        "text": "The brain may settle on a reading by combining what its senses report with what it expects, in the way a scientist weighs a hypothesis. This is a main idea in brain science today, called predictive processing.",
+        "text": "The brain may settle on a reading by combining what its senses report with what it expects, in the way a scientist weighs an idea against the evidence. This is a main idea in brain science today, called predictive processing.",
         "status": "idea"
       },
       {
@@ -3458,8 +3458,8 @@
     "practice": {
       "title": "Hold two readings",
       "mins": 3,
-      "say": "Look at the cube drawing. Notice the reading you see now. Breathe slowly. Wait until it flips. When it does, say now, in a whisper. Then try to see both at once, and notice that you cannot. Say quietly, maybe.",
-      "kid": "Look at the cube. Breathe slowly. When it flips, whisper now. Try to see both. Say maybe."
+      "say": "Look at the cube drawing. Notice the reading you see now. Breathe slowly. Wait until it flips. When it does, whisper the word 'now'. Then try to see both readings at once, and notice that you cannot. Quietly say the word 'maybe'.",
+      "kid": "Look at the cube. Breathe slowly. When it flips, whisper 'now'. Try to see both readings. Say 'maybe'."
     },
     "ask": [
       "When you see a face in a cloud, who is making the face: the cloud or you?",

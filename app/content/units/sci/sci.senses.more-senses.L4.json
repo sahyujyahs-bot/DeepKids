@@ -3,7 +3,7 @@
   "title": "Balance as a team: how eyes, ears and feet keep you upright, and the senses other animals have",
   "level": 4,
   "summary": {
-    "text": "Stand on one foot with your eyes shut on a folded blanket, and you wobble far more than on the bare floor with your eyes open. You are the same child with the same ears, so what changed? Balance is not one sense in one place. Your eyes, your inner ears and the stretch sensors in your legs each give a rough answer, and your brain mixes them. Your child tests this by taking one sense away at a time, reads a page while shaking head and then page, and finds that a fingertip lighter than a tomato can steady a whole body. Then the unit follows the same sensing ideas into warmth, pain and the heartbeat, and into flies that steer with tiny clubs, snakes that see heat, and fish that carry ear stones.",
+    "text": "Stand on one foot with your eyes shut on a folded blanket, and you wobble far more than on the bare floor with your eyes open. Your ears are the same both times, so what changed? Balance is not one sense in one place. Your eyes, your inner ears and the stretch sensors in your legs each give a rough answer, and your brain mixes them. Your child tests this by taking one sense away at a time. They read a page while shaking their head, and then while the page is shaken. They find that a fingertip pressing more lightly than the weight of a tomato can steady a whole body. Then the unit looks at how we sense warmth, pain and the heartbeat, and at flies that steer with tiny clubs, snakes that sense heat, and fish that carry ear stones.",
     "art": "A child standing on one foot on a folded blanket with her eyes shut and a grown-up close beside her, with three small labelled arrows going to her head from her eyes, her ears and her feet."
   },
   "intro": {
@@ -13,8 +13,8 @@
   },
   "outcomes": [
     "I can name the three sources of information my brain uses for balance, and say what each one tells me.",
-    "I can explain, using my own test, why taking one sense away makes me wobble more but does not make me fall.",
-    "I can explain how my inner ears keep my eyes steady when my head moves, using my reading test as evidence.",
+    "I can explain, using the Balance Team test, why taking one sense away makes me wobble more but does not make me fall.",
+    "I can explain how my inner ears keep my eyes steady when my head moves, using the Shake the Head or Shake the Page test as evidence.",
     "I can explain why a moving train beside me can make me feel I am moving, and how this links to feeling sick in a car.",
     "I can explain how my skin senses warmth and cold with separate gates, and how my body keeps its temperature steady with a sensing loop.",
     "I can explain why there are two kinds of pain, and why pain can change when I pay attention to something else.",
@@ -80,7 +80,7 @@
     {
       "term": "Sensory conflict",
       "meaning": "A moment when two of your senses send messages that do not match, so the brain does not know which to believe.",
-      "example": "Reading in a bus, your eyes say you are still and your ears say you are moving.",
+      "example": "When you read in a bus, your eyes say you are still and your ears say you are moving.",
       "art": "A child reading in a bus with one thought bubble saying still, another saying moving, and a question mark between them."
     },
     {
@@ -183,7 +183,7 @@
       "concept": "The head-turn reflex: how your eyes stay on target",
       "status": "defined",
       "definition": "When your head turns, the canals in your inner ear send a signal that moves your eyes the opposite way by almost the same amount, so the picture on your eye stays steady. It is called the vestibulo-ocular reflex.",
-      "description": "Imagine filming a video while walking. The picture jerks with every step. Your own eyes would do the same if nothing steadied them. The canals feel the head turn, and within about a hundredth of a second they send a signal to the eye muscles. The eyes swing the opposite way, so the thing you are looking at stays still on your eye. This is faster than anything you could do on purpose. When you follow a moving page with your eyes on purpose, the tracking is much slower, and it cannot keep up with a quick shake. That is why you can read while you shake your head, and cannot read while the page shakes. The same reflex explains why your eyes flick after spinning. The liquid in the canals keeps swirling after you stop, and it keeps telling the eyes to move.",
+      "description": "When you film a video while walking, the picture jerks with every step. Your own eyes would do the same if nothing steadied them. The canals feel the head turn, and within about a hundredth of a second they send a signal to the eye muscles. The eyes swing the opposite way, so the thing you are looking at stays still on your eye. This is faster than anything you could do on purpose. When you follow a moving page with your eyes on purpose, the tracking is much slower, and it cannot keep up with a quick shake. That is why you can read while you shake your head, and cannot read while the page shakes. The same reflex explains why your eyes flick after spinning. The liquid in the canals keeps swirling after you stop, and it keeps telling the eyes to move.",
       "examples": [
         "You can read a signboard while your head bobs on a bumpy bus ride.",
         "A dancer who spins can whip her head round and still keep her eyes on one spot.",
@@ -210,7 +210,7 @@
     {
       "concept": "A fingertip that steadies a whole body",
       "status": "defined",
-      "definition": "Resting one fingertip on a still object, with a force of less than about 1 newton, makes people sway less, even with their eyes shut. The touch gives the brain a fourth source of information.",
+      "definition": "Resting one fingertip on a still object, with a force of less than about 1 newton (about the weight of a small tomato), makes people sway less, even with their eyes shut. The touch gives the brain a fourth source of information.",
       "description": "In 1994, two researchers, John Jeka and James Lackner, asked people to stand in a difficult pose, with their feet in a line, one in front of the other. They found that a fingertip resting on a rail steadied people a great deal, even when the force of the touch was less than 1 newton. One newton is about the weight of a small tomato. That is far too small to hold up a standing person. So the touch does not work as a prop. It works as a sense. A still wall under the fingertip tells the brain exactly how the body is moving compared with the room. Studies since then have reported the same in older people, and a walking stick held lightly can help in the same way. A stick that you lean on is a support. A stick that you only touch is a sensor.",
       "examples": [
         "Resting one fingertip on a wall helps you stand on one foot with your eyes shut.",
@@ -239,7 +239,7 @@
       "concept": "Warm and cold gates in the skin",
       "status": "defined",
       "definition": "Warmth and cold are sensed by tiny gates in nerve endings called ion channels. Each kind of gate opens at its own temperature, so different nerve endings report different ranges.",
-      "description": "In 1997, the scientist David Julius and his team found the gate that opens in chilli and in heat. It opens when the temperature rises above about 43 degrees Celsius, and also when it meets the chemical in chilli, which is called capsaicin. So a green chilli really does feel hot, because it opens the same gate as hot water would. In 2002, a team led by David McKemy found a gate that opens in the cool and also opens for menthol (later work put its cool point at below about 26 degrees), the chemical in mint. That is why mint feels cool even though it is not cold. Other gates in the same family open at warm, hot, or very cold temperatures. Julius and Ardem Patapoutian shared the 2021 Nobel Prize in Physiology or Medicine for finding the gates for temperature and touch. Your sense of warmth is the combined report of many such gates.",
+      "description": "In 1997, the scientist David Julius and his team found the gate that opens for chilli and for heat. It opens when the temperature rises above about 43 degrees Celsius, and also when it meets the chemical in chilli, which is called capsaicin. So a green chilli really does feel hot, because it opens the same gate as hot water would. In 2002, a team led by David McKemy found a gate that opens when it is cool and also opens for menthol, the chemical in mint. Later work found that this gate opens below about 26 degrees Celsius. That is why mint feels cool even though it is not cold. Other gates in the same family open at warm, hot, or very cold temperatures. Julius and Ardem Patapoutian shared the 2021 Nobel Prize in Physiology or Medicine for finding the gates for temperature and touch. Your sense of warmth is the combined report of many such gates.",
       "examples": [
         "Chilli feels hot because it opens the heat gate.",
         "A peppermint sweet makes your breath feel cool because mint opens the cool gate.",
@@ -253,7 +253,7 @@
       "concept": "More skin, more warmth",
       "status": "defined",
       "definition": "The brain adds up warmth from all the places it is felt. The same warmth feels stronger when it touches a larger part of your skin. This is called spatial summation.",
-      "description": "Dip a fingertip into bath-warm water, and it feels pleasantly mild. Dip your whole hand into the same water, and it feels warmer. The water has not changed, but many more warm gates have opened, and the brain adds their reports. This is why you test a baby's bath with your elbow or wrist. A larger area of skin gives a clearer message than a fingertip. It is also why a hot water bottle spread over your tummy feels very hot, and a hot spoon touching one finger feels less strong than it would if the whole hand held it. It is a clue that your sense of warmth is not a thermometer. It is a sum of many reports.",
+      "description": "Dip a fingertip into bath-warm water, and it feels pleasantly mild. Dip your whole hand into the same water, and it feels warmer. The water has not changed, but many more warm gates have opened, and the brain adds their reports. This is why you test a baby's bath with your elbow or wrist. A larger area of skin gives a clearer message than a fingertip. It is also why a hot water bottle spread over your tummy feels very hot, and why a hot spoon feels less hot when it touches one finger than when your whole hand holds it. This shows that your sense of warmth is not a thermometer. It adds up many reports.",
       "examples": [
         "A bath feels hotter to a whole foot than to one toe.",
         "A big sip of hot tea feels hotter than a tiny drop of the same tea.",
@@ -267,7 +267,7 @@
       "concept": "Keeping warm and cool: sensing is half of a loop",
       "status": "defined",
       "definition": "Your body keeps its core temperature close to 37 degrees Celsius with a feedback loop. Sensors in the skin and deep in the body measure the temperature, and the brain makes the body warm itself or cool itself.",
-      "description": "A part of the brain called the hypothalamus works like a thermostat. It gets reports from temperature sensors in the skin and from the blood passing through it. If your core gets too warm, the brain makes you sweat. Sweat takes heat away as it dries. It also widens the blood vessels near the skin, so more heat can leave. If your core gets too cool, the brain narrows those blood vessels, makes your muscles shiver to make heat, and makes the tiny muscles at the base of each hair pull, which gives you goosebumps. Then the sensors check the result again. When you have a fever, the loop is not broken. The brain has raised the level it aims for, so you feel cold and shiver until you reach the higher number. Senses in this loop are not just for knowing. They are for steering.",
+      "description": "A part of the brain called the hypothalamus works like a thermostat. It gets reports from temperature sensors in the skin and from the blood passing through it. If your core gets too warm, the brain makes you sweat. Sweat takes heat away as it dries. The brain also widens the blood vessels near the skin, so more heat can leave. If your core gets too cool, the brain narrows those blood vessels, makes your muscles shiver to make heat, and makes the tiny muscles at the base of each hair pull, which gives you goosebumps. Then the sensors check the result again. When you have a fever, the loop is not broken. The brain has raised the level it aims for, so you feel cold and shiver until you reach the higher number. The senses in this loop do more than tell you the temperature. The body uses them to correct it.",
       "examples": [
         "After running, you sweat and your face goes red, as the loop sends heat out.",
         "On a cold morning, you shiver and your hairs stand up.",
@@ -299,7 +299,7 @@
       "examples": [
         "A child who falls while playing a game often does not notice the scrape until the game is over.",
         "A shot hurts more when you stare at the needle and are scared of it.",
-        "Counting backwards in your head can make a cold cube in your hand feel less aching."
+        "Counting backwards in your head can make an ice cube in your hand ache less."
       ],
       "perspectives": [],
       "art": "A child running in a game with a scraped knee she has not noticed, and a second picture of the same child crying when she looks at the scrape.",
@@ -308,7 +308,7 @@
     {
       "concept": "Is pain a sense, or something the brain makes?",
       "status": "debated",
-      "description": "Nerve endings that react to harm are called nociceptors, and their signals are real and can be measured. But scientists argue about whether pain is the signal or something more. A person can have the signal without pain, as in the soldiers, and pain without the signal, as in a phantom limb. In 2020, the International Association for the Study of Pain gave a new definition: pain is an unpleasant sensory and emotional experience linked to real or possible damage. The debate matters, because it changes how doctors treat long-lasting pain.",
+      "description": "Nerve endings that react to harm are called nociceptors, and their signals are real and can be measured. But scientists argue about whether pain is the signal or something more. A person can have the signal without pain, as some wounded soldiers do. A person can also have pain without the signal, as when someone feels pain in a limb that is no longer there. This is called a phantom limb. In 2020, the International Association for the Study of Pain gave a new definition: pain is an unpleasant sensory and emotional experience linked to real or possible damage. The debate matters, because it changes how doctors treat long-lasting pain.",
       "examples": [
         "A person who has lost a leg can still feel pain in the foot that is no longer there.",
         "A soldier with a serious wound may feel almost no pain at first.",
@@ -373,7 +373,7 @@
       "concept": "Ear stones that keep a diary",
       "status": "defined",
       "definition": "Fish have hard ear stones in their inner ears that help them balance and sense movement. A stone grows a thin layer every day and a thicker layer in good seasons, so it records the fish's life.",
-      "description": "Fish have no outer ears, but they have inner ears, and in each one there are hard stones made of calcium carbonate. They rest on sensing hairs. When the fish tilts or speeds up, the stones lag behind, and the hairs bend. This is the same plan as the ear crystals in your own ears, but with bigger and harder stones. The stones also grow, adding thin layers day after day. Scientists cut a thin slice of the stone and count the layers under a microscope. This tells them the age of the fish, and in some cases which waters she lived in. Fisheries scientists use this to learn how long fish like mathi live, and whether too many young fish are being caught.",
+      "description": "Fish have no outer ears, but they have inner ears, and in each one there are hard stones made of calcium carbonate. They rest on sensing hairs. When the fish tilts or speeds up, the stones lag behind, and the hairs bend. This is the same plan as the ear crystals in your own ears, but with bigger and harder stones. The stones also grow, adding thin layers day after day. Scientists cut a thin slice of the stone and count the layers under a microscope. This tells them the age of the fish, and in some cases which waters she lived in. Fisheries scientists use this to learn how long fish like mathi (sardines) live, and whether too many young fish are being caught.",
       "examples": [
         "A sardine caught off Kerala has an ear stone that tells her age in days and months.",
         "A rohu in a pond tilts her body and her ear stones press on hairs, just as your crystals do.",
@@ -387,7 +387,7 @@
   "agreed": [
     {
       "text": "Balance comes from the eyes, the inner ears and the sensors in the body together, and the brain gives more weight to the ones that work best.",
-      "evidence": "In the 1840s, Moritz Romberg saw that some patients stood well with their eyes open and swayed with them shut. Later, moving floors and moving rooms showed that when one source is made useless, healthy people lean harder on the other two."
+      "evidence": "In the 1840s, Moritz Romberg saw that some patients stood well with their eyes open and swayed with them shut. Later, moving floors and moving rooms showed that when one source is made useless, healthy people rely more on the other two."
     },
     {
       "text": "The canals of the inner ear sense turning, the ear crystals sense tilting and speeding up, and the head-turn reflex uses them to keep the eyes steady.",
@@ -395,7 +395,7 @@
     },
     {
       "text": "A fingertip resting on a still object can steady a standing person, even when the touch is far too light to hold them up.",
-      "evidence": "In 1994, Jeka and Lackner measured the force of the fingertip and the sway of the body. The force was less than about 1 newton, and the sway dropped a great deal."
+      "evidence": "In 1994, Jeka and Lackner measured the force of the fingertip and the sway of the body. The force was less than about 1 newton, which is about the weight of a small tomato, and the sway dropped a great deal."
     },
     {
       "text": "Warmth and cold are sensed by different gates in nerve endings, and each kind of gate opens at its own temperature. The chilli gate also opens for heat, and the mint gate also opens for cool.",
@@ -426,14 +426,14 @@
     {
       "claim": "To stay balanced, a body should hold as still as it can.",
       "who": "Many people, and many children told to 'stand still'.",
-      "for": "A body that is moving a lot is easy to see falling, so holding still looks safer.",
+      "for": "A body that moves a lot looks as if it is about to fall, so holding still looks safer.",
       "against": "A standing body is always swaying a little and correcting itself. People who freeze up stiffly often balance worse. A steady body moves a little all the time.",
       "status": "rejected",
       "context": "This card is about whether standing still means holding perfectly still."
     },
     {
       "claim": "A walking stick is only a support, and needing one means you are weak.",
-      "who": "Many people who feel unsteady but do not want a stick, and some families.",
+      "who": "Many people who feel unsteady but do not want a stick, and some of their families.",
       "for": "A stick can take weight off a sore knee or hip.",
       "against": "A stick that is touched lightly works as a sensor, as a fingertip on a wall does. It adds a fourth source of balance information. Using one is a way of using the body's senses well.",
       "status": "rejected",
@@ -442,7 +442,7 @@
     {
       "claim": "Hot and cold are the two ends of one feeling, sensed by the same nerve endings.",
       "who": "A common idea, because warm and cold seem like opposites.",
-      "for": "Warming a cold hand and cooling a hot hand feel like the same change running backwards.",
+      "for": "Warming a cold hand feels like the reverse of cooling a hot hand, as if both were one feeling going in two directions.",
       "against": "The skin has separate gates for cold and for warmth, in different places. Chilli opens a heat gate and mint opens a cool gate, and neither changes the temperature.",
       "status": "rejected",
       "context": "This card is about whether warm and cold are one sense."
@@ -466,24 +466,24 @@
   ],
   "big_questions": [
     {
-      "q": "On a blanket with your eyes shut, you wobbled the most. If no single part of you holds you upright, where does the feeling of being upright come from?",
+      "q": "In the Balance Team test, you wobbled the most on a blanket with your eyes shut. If no single part of you holds you upright, where does the feeling of being upright come from?",
       "kind": "deep",
       "hint": "Think about three sources of information and the brain that mixes them."
     },
     {
-      "q": "A touch lighter than a tomato steadied your whole body, though it held no weight. Can something that does no work still do a great deal?",
+      "q": "In A Fingertip Lighter than a Tomato, a touch lighter than a tomato steadied your whole body, though it held none of your weight. Can something that carries no weight still help a great deal?",
       "kind": "deep",
       "hint": "Think about the difference between a push and a message."
     },
     {
-      "q": "Your eyes say the train is moving and your ears say it is still. Which one is right, and how could you check?",
+      "q": "The train beside yours starts to move. Your eyes say your train is moving, and your ears say it is still. Which one is right, and how could you check?",
       "kind": "deep",
       "hint": "Think about what each sense measures, and what a third check might be."
     },
     {
       "q": "A python senses heat, a fly feels turning with two tiny clubs, and a bee sees ultraviolet light. Do they live in the same world as you, seen with different senses, or in different worlds?",
       "kind": "big",
-      "hint": "Think of the red fruit that looks black and ultraviolet to a bee but red to you."
+      "hint": "Think of a red fruit. To you it looks red. To a bee it looks black and ultraviolet."
     },
     {
       "q": "A green chilli opens the same gate in your tongue as hot water does. Is the chilli hot?",
@@ -543,7 +543,7 @@
     "epiphany": "For the parent: a fingertip resting on something still gives the brain a fourth source of balance information, because a still wall tells the body exactly how it is moving. In 1994, John Jeka and James Lackner found that the touch steadies people even when its force is under about 1 newton, far too little to hold anyone up. A walking stick that is touched lightly works the same way. It is a sensor, not a prop.",
     "ask": [
       "Why can one fingertip on a still wall steady a person who is not leaning on it?",
-      "In the dark passage, which two of the three balance sources were weak or missing, and which one was left?",
+      "In the dark passage, which two of Paati's three balance sources were weak or missing, and which one was left?",
       "What is the difference between a stick you lean on and a stick you only touch?",
       "How could a family make the night path to the toilet easier for a grandparent who feels unsteady?"
     ],
@@ -681,7 +681,7 @@
         "Some cards name two sources. If your token is one of them, you score.",
         "Each player who scored gives one sentence that says what the brain does with the messages. A good reason scores 1 extra point.",
         "The reader job passes round after each card. When the cards run out, the most points wins. A tie is a shared win.",
-        "Playing alone, read a moment, put down a token, and check the back. Count your score out of 20."
+        "If you play alone, read a moment, put down a token, and check the back. Count your score out of 20."
       ],
       "flow": [
         {
@@ -697,8 +697,8 @@
           "id": "s2",
           "mins": 6,
           "do": "Play the first five cards. After each one, ask for a reason before the next card.",
-          "say": "Read the moment. Everyone choose a token and turn it face down. Now turn it up. What does the brain do with the messages?",
-          "kid": "Read a moment. Pick a token. Turn it over. Check the back.",
+          "say": "Read the moment. Everyone chooses a token and puts it face down. Now turn it up. What does the brain do with the messages?",
+          "kid": "Read a moment. Pick a token and put it face down. Turn it up, then check the back of the card.",
           "ask": [
             {
               "q": "Why is the mattress with eyes shut harder than the mattress with eyes open?",
@@ -831,7 +831,7 @@
         "Score 1 point for each full 5 seconds, so a station is worth 0 to 4 points. The most you can win in the relay is 24 points.",
         "Each player visits all six stations. Rest about 15 seconds between stations, and longer if you feel wobbly.",
         "After the relay, each player says which station was hardest and which helper was taken away there.",
-        "Playing alone, ask someone to be your timer and spotter, and try to beat your own total on another day.",
+        "If you play alone, ask someone to be your timer and spotter, and try to beat your own total on another day.",
         "Anyone who feels dizzy, or has a problem with their ears, watches or times for the others."
       ],
       "flow": [
@@ -969,24 +969,24 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is a good start. Write down what your child says about two helpers being lost at once. With two to four children, each child has own table. While one child stands, a second is the spotter, a third times, and a fourth writes the seconds. Then rotate. Compare every child's bars, since the pattern matters more than the seconds.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Write down what your child says about two helpers being lost at once. With two to four children, each child has their own table. While one child stands, a second is the spotter, a third times, and a fourth writes the seconds. Then rotate. Compare every child's bars, since the pattern matters more than the seconds.",
           "context": "This is the first step of the Balance Team test. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 5,
           "do": "Clear the space. Fold the blanket to about 5 centimetres thick and lay it flat on the carpet. Show your child the pose and how a try ends.",
-          "say": "Fold your arms. Lift one foot a hand's width. A try ends when the foot touches down, you hop, or you hold on to me. The most is 30 seconds.",
+          "say": "Fold your arms. Lift one foot a hand's width. A try ends when the foot touches down, you hop, or you hold on to me. The longest a try can last is 30 seconds.",
           "kid": "Fold your arms. Lift one foot. The try ends when your foot touches down.",
           "adult": true,
-          "parent": "Stand close, with one hand ready near your child's shoulder but not touching. Use the same foot for every try. Practise once with eyes open so the pose is familiar. If your child peeks, cover their eyes with the clean scarf.",
+          "parent": "Stand close, with one hand ready near your child's shoulder but not touching. Use the same foot for every try. Practise once with eyes open so the pose is familiar. If your child peeks, cover their eyes with a clean scarf.",
           "context": "In this step, you set up the space and learn the pose. Every test uses the same pose."
         },
         {
           "id": "s3",
           "mins": 8,
           "do": "Round 1. Test A: eyes open, bare floor. Test B: eyes shut, bare floor. Test C: eyes open, blanket. Test D: eyes shut, blanket. Time each try. Rest one minute between tries.",
-          "say": "Round one. Test A, eyes open on the floor. Go. Rest. Test B, eyes shut on the floor. Go. Rest. Now C, then D.",
+          "say": "Round one. Test A: eyes open on the bare floor. Go. Now rest. Test B: eyes shut on the bare floor. Go. Rest. Then test C, eyes open on the blanket, and test D, eyes shut on the blanket.",
           "kid": "Do tests A, B, C and D in that order. Rest between tries.",
           "adult": true,
           "parent": "Stop the watch the instant the raised foot touches down, or at 30 seconds. Write the seconds in the table. If your child holds 30 seconds in every test, make the pose harder by standing heel to toe in a line with arms folded, and start again.",
@@ -996,7 +996,7 @@
           "id": "s4",
           "mins": 8,
           "do": "Round 2. Do the tests in the opposite order: D, C, B, A. Rest one minute between tries. Write the seconds. Pick the best of the two tries for each test.",
-          "say": "Now round two, backwards. D, then C, then B, then A. We go backwards so tiredness is fair to every test.",
+          "say": "Now round two, backwards. D, then C, then B, then A. We go backwards so that tiredness affects every test equally.",
           "kid": "Do the tests backwards. D, C, B, A. Rest between tries.",
           "adult": true,
           "parent": "Watch for the child leaning hard to one side or hopping. Note it in the table. If your child tires or feels dizzy, stop and carry on later.",
@@ -1014,9 +1014,9 @@
         {
           "id": "s6",
           "mins": 4,
-          "do": "Ask for claim, evidence and reasoning. Then ask the check question.",
+          "do": "Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "What do you think was happening? What did you see? Why did eyes shut on the blanket give the shortest time?",
-          "kid": "Say what you think. Say what you saw. Say why.",
+          "kid": "Say what you think happened. Say what you saw. Say why it happened.",
           "check": {
             "t": "mcq",
             "q": "Why is standing with eyes shut on a soft blanket the hardest?",
@@ -1090,7 +1090,7 @@
       "days": 1,
       "question": "Can you read as well when your head shakes as when the page shakes by the same amount? What is different about the two?",
       "predict": "Before you start, guess. How many words can you read in 10 seconds when your head shakes, and how many when the page shakes? Which will be harder? Why do you think so?",
-      "fair_test": "You use lines of print of the same size and length, drawn out of a bowl so that no line is always used for the same test. You shake the head or the page side to side at the same beat, about two shakes every second, by about the same distance. The page is held the same distance from your eyes every time. You read for 10 seconds each time. Only what moves, your head or the page, changes.",
+      "fair_test": "You use lines of print of the same size and length, drawn out of a bowl so that no line is always used for the same test. You shake the head or the page side to side at the same beat, about two shakes every second, by about the same distance. The page is held the same distance from your eyes every time. You read for 10 seconds each time. The only thing that changes is what moves: your head or the page.",
       "results_table": [
         "Test",
         "Line used",
@@ -1129,7 +1129,7 @@
         {
           "day": 1,
           "mins": 25,
-          "what": "Guess, then read lines with still head and page, shaking head, and shaking page, twice each."
+          "what": "Guess, then read lines three ways, twice each: with head and page still, with your head shaking, and with the page shaking."
         }
       ],
       "record": "Write the words read right for each line. Add the two rounds for each test. Draw three bars, one for each test.",
@@ -1150,13 +1150,13 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Many children guess that both will be equally hard, and that is a fine guess to test. One child alone works with a parent holding the page. With two to four children, one reads, one shakes the page, one counts the beat and one counts the words right. Then rotate. Each reader does all three tests, so each has own table.",
+          "parent": "Do not correct the guess. Many children guess that both will be equally hard, and that is a fine guess to test. One child alone works with a parent holding the page. With two to four children, one reads, one shakes the page, one counts the beat and one counts the words right. Then rotate. Each reader does all three tests, so each has their own table.",
           "context": "This is the first step of the Shake the Head or Shake the Page test. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 4,
-          "do": "Mark six lines of eight words each. Number them. Put six numbered slips in a bowl. Sit your child on a chair. Hold the page level with the eyes, about 40 centimetres away.",
+          "do": "Mark six lines of eight words each on the page. Number them. Put six numbered slips in a bowl. Sit your child on a chair. Hold the page level with the eyes, about 40 centimetres away.",
           "say": "Here are six lines with eight words each. We draw a slip to pick the line, so the choice is fair. Sit up straight. The page is at your eye level.",
           "kid": "Sit on a chair. The page is held at your eye level.",
           "adult": true,
@@ -1176,8 +1176,8 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "Test 2: shake the head. Test 3: shake the page. For test 2, you hold the page still. Your child shakes the head side to side, saying no, to the beat. For test 3, your child holds the head still. You shake the page about 5 centimetres each way, to the same beat. Read for 10 seconds, twice each.",
-          "say": "Test two. Hold your head and say no, no, no to my beat while you read. Test three. Keep your head still. I will shake the page to the same beat.",
+          "do": "Test 2: shake the head. Test 3: shake the page. For test 2, you hold the page still. Your child shakes their head from side to side, as if saying no, to the beat. For test 3, your child keeps their head still. You shake the page about 5 centimetres each way, to the same beat. Read for 10 seconds, twice each.",
+          "say": "Test two. Shake your head as if saying no, no, no, to my beat, while you read. Test three. Keep your head still. I will shake the page to the same beat.",
           "kid": "Shake your head to the beat and read. Then keep still while the page shakes.",
           "adult": true,
           "parent": "Keep both beats the same. Write what the print looked like each time, such as clear, smeared or jumping. Stop if your child feels dizzy. If both tests are easy, shake faster. If both are impossible, shake more slowly. The head-shake test is easier than it sounds only if the shakes are small and quick. The exact numbers vary a lot, and the page shake is almost always the harder one.",
@@ -1186,10 +1186,10 @@
         {
           "id": "s5",
           "mins": 5,
-          "do": "Add the two rounds for each test. Draw three bars. Compare the head shake with the page shake. Ask for claim, evidence and reasoning, and then ask the check question.",
+          "do": "Add the two rounds for each test. Draw three bars. Compare the head shake with the page shake. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "Which was harder, the head or the page? Both moved the same amount at the same beat. What do you think your eyes were doing differently?",
           "kid": "Add up your words. Which was harder, head or page? Why?",
-          "parent": "A common result is that reading with a shaking head costs little, and reading a shaking page is much harder. If so, the head-turn reflex is working: the inner ears tell the eyes to move opposite to the head within a hundredth of a second. Following a moving page on purpose is slower. If your results are the same for both, the shakes may have been too gentle. Shake faster and try again.",
+          "parent": "A common result is that a shaking head makes reading only a little harder, and a shaking page makes it much harder. If so, the head-turn reflex is working: the inner ears tell the eyes to move opposite to the head within a hundredth of a second. Following a moving page on purpose is slower. If your results are the same for both, the shakes may have been too gentle. Shake faster and try again.",
           "check": {
             "t": "mcq",
             "q": "Why can you read while your head shakes, but not when the page shakes at the same beat?",
@@ -1254,7 +1254,7 @@
       "days": 1,
       "question": "Does an ice cube in your palm ache less when you count backwards than when you only watch it?",
       "predict": "Before you start, guess. After 20 seconds, will the ache be less, the same or more when you count backwards? Why do you think so?",
-      "fair_test": "Every try uses an ice cube of the same size, wrapped in the same kind of thin cloth, held in the same palm for exactly 20 seconds. You rest for three minutes between tries, until the hand is warm and its colour is back. You do the two kinds of try in the order watch, count, count, watch, so that a second try is not always the same kind. Only what your mind does changes.",
+      "fair_test": "Every try uses an ice cube of the same size, wrapped in the same kind of thin cloth, held in the same palm for exactly 20 seconds. You rest for three minutes between tries, until the hand is warm and its colour is back. You do the two kinds of try in the order watch, count, count, watch, so that a second try is not always the same kind. The only thing that changes is what your mind does.",
       "results_table": [
         "Try",
         "What the mind did (watch or count)",
@@ -1287,7 +1287,7 @@
           "qty": 1
         }
       ],
-      "safety": "Ice can hurt the skin if it is held too long. Always wrap the cube in a thin cloth, and drop it after exactly 20 seconds. Your child may drop it sooner, at any moment, and nobody should say hold on. Do not do this test if your child's hands turn white or blue in the cold, or if there is a skin problem on the hand. The palm may look pink for a few minutes. Wait until it is warm before the next try.",
+      "safety": "Ice can hurt the skin if it is held too long. Always wrap the cube in a thin cloth, and drop it after exactly 20 seconds. Your child may drop it sooner, at any moment, and nobody should tell them to hold on. Do not do this test if your child's hands turn white or blue in the cold, or if there is a skin problem on the hand. The palm may look pink for a few minutes. Wait until it is warm before the next try.",
       "schedule": [
         {
           "day": 1,
@@ -1295,7 +1295,7 @@
           "what": "Guess, practise the counting, then four 20-second tries with three-minute rests."
         }
       ],
-      "record": "After each try, write the ache from 0 to 10. A 0 means no ache, and a 10 means I wanted to drop it at once. Write the colour of the palm. Then compare the two watch tries with the two count tries.",
+      "record": "After each try, write the ache from 0 to 10. 0 means no ache, and 10 means you wanted to drop the cube at once. Write the colour of the palm. Then compare the two watch tries with the two count tries.",
       "flow": [
         {
           "id": "s1",
@@ -1313,7 +1313,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Remind your child that the cube can be dropped at any moment, and that nothing bad will happen if they drop it. With two to four children, each child has own cubes and own scale. One child holds, a second times, and a third is the grown-up's helper. Each child gives the rating quietly or on paper, so others do not hear the number first.",
+          "parent": "Do not correct the guess. Remind your child that the cube can be dropped at any moment, and that nothing bad will happen if they drop it. With two to four children, each child has their own cubes and their own scale from 0 to 10. One child holds, a second times, and a third is the grown-up's helper. Each child gives the rating quietly or on paper, so others do not hear the number first.",
           "context": "This is the first step of the Ice in the Palm test. You guess before you test."
         },
         {
@@ -1323,7 +1323,7 @@
           "say": "First, count backwards from fifty in twos, with no ice. Fifty, forty-eight, forty-six. Say it aloud. This must be easy before we add the ice.",
           "kid": "Count backwards from 50 in twos. Say it out loud.",
           "adult": true,
-          "parent": "If counting by twos is too hard, use counting backwards from 20 in ones, or saying the days of the week backwards. It should keep the mind busy but not be frightening.",
+          "parent": "If counting by twos is too hard, use counting backwards from 20 in ones, or saying the days of the week backwards. The task should keep the mind busy but not be frightening.",
           "context": "In this step, you practise the counting task before any ice is used."
         },
         {
@@ -1340,16 +1340,16 @@
           "id": "s4",
           "mins": 6,
           "do": "Try 3 (count) and Try 4 (watch), with three minutes of rest between. Write the ache and the colour of the palm each time.",
-          "say": "Try three, counting backwards from fifty in twos. Try four, only watching again. We swap the order so that the second try is not always the same.",
+          "say": "Try three, counting backwards from fifty in twos. Try four, only watching again. We swap the order so that the second try is not always the same kind.",
           "kid": "Do a counting try, then a watching try. Rest between them.",
           "adult": true,
           "parent": "If your child keeps losing count, note it. Busy minds do not always count well. Do not push for a specific answer. A rating that does not change is a result too.",
-          "context": "In this step, you do the second two tries, in the opposite order."
+          "context": "In this step, you do the last two tries, in the opposite order."
         },
         {
           "id": "s5",
           "mins": 5,
-          "do": "Add the two watch ratings and the two count ratings. Compare them. Ask for claim, evidence and reasoning. Then ask the check question.",
+          "do": "Add the two watch ratings and the two count ratings. Compare them. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "Add the two watch tries. Add the two count tries. Which is bigger? What does that tell you about the ache, and about where it comes from?",
           "kid": "Add the watch tries. Add the count tries. Which is bigger?",
           "parent": "If the watch tries hardly ache at all (below 2), use a thinner cloth next time, but never hold longer than 20 seconds. Many children give a lower number when they count, typically by one to three points, but some give the same and a few give higher. The ache is real in every case. The brain turns the ache up or down depending on how much attention it has for it. Pain is not an exact measure of the cold or the damage.",
@@ -1459,7 +1459,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Show your child the umbrella. Ask for a guess and a reason. Write the guess down.",
-          "say": "I will turn this umbrella slowly over your head while you sit still. Will you feel anything? Will you feel the umbrella turn, or yourself?",
+          "say": "I will turn this umbrella slowly over your head while you sit still. Will you feel anything? Will you feel the umbrella turning, or yourself turning?",
           "kid": "An umbrella will turn above you. Will you feel anything? Why?",
           "ask": [
             {
@@ -1481,13 +1481,13 @@
           "say": "Hold the chair. Look up at the pattern and keep looking. I will turn the umbrella slowly. Tell me what you feel.",
           "kid": "Hold the chair. Look up at the pattern. Say what you feel.",
           "adult": true,
-          "parent": "Stay beside the chair. Turn slowly. With two to four children, one sits, one turns, one holds the stopwatch and one writes the scores, and then you rotate. The effect is often weak with a small umbrella, and many children feel nothing, so write the scores honestly. Many children feel that they themselves start to turn, or that the chair tilts, after ten to twenty seconds. Some feel nothing, and that is a result too. Stop if your child feels sick or dizzy.",
+          "parent": "Stay beside the chair. Turn slowly. With two to four children, one sits, one turns, one holds the stopwatch and one writes the scores, and then you rotate. The effect is often weak with a small umbrella, so write the scores honestly. Many children feel that they themselves start to turn, or that the chair tilts, after ten to twenty seconds. Many others feel nothing, and that is a result too. Stop if your child feels sick or dizzy.",
           "context": "In this step, you sit under the umbrella while it turns."
         },
         {
           "id": "s3",
           "mins": 4,
-          "do": "Swap places. Then ask your child to describe the feeling, and to say what part of the body noticed.",
+          "do": "Swap places. Then ask your child to describe the feeling, and to say which part of the body noticed the turning.",
           "say": "Now it is my turn. After this, tell me: was it your eyes, your ears or your feet that told you that you were turning?",
           "kid": "Swap. Now you turn the umbrella. Then say what you felt.",
           "check": {
@@ -1565,8 +1565,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Weigh the tomato on the scale. Let your child feel how light 100 grams is. Practise touching the scale with one fingertip so that it reads under 100 grams. Ask for a guess and a reason.",
-          "say": "This tomato is about 100 grams. Your fingertip will touch the scale lighter than that. Do you think a touch that light can help you stand? Why?",
-          "kid": "A tomato weighs about 100 grams. Touch the scale with less. Can that help you stand?",
+          "say": "This tomato is about 100 grams. Your fingertip will touch the scale more lightly than that. Do you think a touch that light can help you stand? Why?",
+          "kid": "A tomato weighs about 100 grams. Touch the scale so lightly that it reads less than 100 grams. Can a touch that light help you stand?",
           "ask": [
             {
               "q": "Do you think a touch lighter than a tomato will help you stand? Why do you think so?",
@@ -1593,7 +1593,7 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Do two more tries, leaning on the table with a firm push. Write the seconds. Add up the three kinds of try.",
+          "do": "Do two more tries, leaning on the table with a firm push. Write the seconds. Add up the seconds for each of the three kinds of try.",
           "say": "Now push hard on the table with your hand, and try again. Is it steadier than the light touch, or not?",
           "kid": "Now push hard on the table. Try again with your eyes shut.",
           "adult": true,
@@ -1603,7 +1603,7 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Ask for claim, evidence and reasoning. Then ask the check question.",
+          "do": "Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "Which was steadier, no touch or light touch? Was the hard push much better? What does the light touch do, if it does not hold you up?",
           "kid": "Which was steadiest? Why did a light touch help?",
           "check": {
@@ -1704,13 +1704,13 @@
           "say": "Dip one finger for five seconds. How warm, from zero to ten? Dry it. Now your whole hand. Then both hands.",
           "kid": "Dip a fingertip for 5 seconds. Say how warm. Then a hand. Then both hands.",
           "adult": true,
-          "parent": "Keep each dip to 5 seconds, as the skin soon gets used to the temperature. Rest for a minute between dips. If the order may matter, repeat in the opposite order: both hands, whole hand, fingertip.",
+          "parent": "Keep each dip to 5 seconds, as the skin soon gets used to the temperature. Rest for a minute between dips. To check whether the order matters, repeat in the opposite order: both hands, whole hand, fingertip.",
           "context": "In this step, you dip a fingertip, a hand and both hands, and score the warmth each time."
         },
         {
           "id": "s3",
           "mins": 5,
-          "do": "Compare the three scores. Ask for claim, evidence and reasoning. Then ask the check question.",
+          "do": "Compare the three scores. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "Which dip felt warmest? The water was the same each time. So what changed?",
           "kid": "Which dip felt warmest? The water did not change. What did?",
           "check": {
@@ -1798,7 +1798,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Time 30 seconds. Your child counts the beats they can feel without touching a wrist or neck, and says the number. Then time 30 seconds more. Your child finds the pulse at the wrist, and counts the beats with fingers. Write both numbers.",
+          "do": "Time 30 seconds. Your child counts the beats they can feel without touching a wrist or neck, and says the number. Then time 30 seconds more. Your child finds the pulse at the wrist, and counts the beats with their fingers. Write both numbers.",
           "say": "Count the beats you can feel inside, without using your fingers. I will time thirty seconds. Now find the pulse on your wrist, and count again.",
           "kid": "Count the beats you feel inside for 30 seconds. Then count your pulse with your fingers.",
           "adult": true,
@@ -1808,7 +1808,7 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Your child does 20 star jumps and sits down. Sit down at once, because the heart slows within a minute. Repeat both counts for 30 seconds each. Write the numbers.",
+          "do": "Your child does 20 star jumps and sits down at once, because the heart slows within a minute. Repeat both counts for 30 seconds each. Write the numbers.",
           "say": "Do twenty star jumps, then sit. Count again by feeling, then by pulse. Is it easier now to feel your heart?",
           "kid": "Do 20 star jumps. Sit. Count your beats both ways again.",
           "adult": true,
@@ -1819,7 +1819,7 @@
           "id": "s4",
           "mins": 5,
           "do": "Subtract each pair of counts. Ask which was closer, rest or exercise. Ask the check question.",
-          "say": "How close were you at rest? How close after the star jumps? Why do you think it was easier after running about?",
+          "say": "How close were you at rest? How close after the star jumps? Why do you think it was easier after the star jumps?",
           "kid": "Compare your counts. When were you closest? Why?",
           "check": {
             "t": "mcq",
@@ -1918,7 +1918,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Wet one cloth with tap water and wring it so that it does not drip. Wrap it round one tumbler with a rubber band. Wrap the dry cloth round the other. A grown-up fills both with warm water. Measure each and write the temperatures.",
+          "do": "Wet one cloth with tap water and wring it so that it does not drip. Wrap it round one tumbler with a rubber band. Wrap the dry cloth round the other. A grown-up fills both with warm water. Measure the temperature of each with the thermometer and write it down.",
           "say": "Wrap the wet cloth round this tumbler and the dry cloth round the other. Now we fill both with the same warm water. What does the thermometer say?",
           "kid": "Wrap a wet cloth round one tumbler. Wrap a dry cloth round the other. Measure the water.",
           "adult": true,
@@ -1933,7 +1933,7 @@
           "kid": "Put the tumblers in the breeze. Wait 15 minutes. Think about sweat.",
           "adult": true,
           "wait": "Leave the tumblers in front of the fan for 15 minutes.",
-          "parent": "On a very humid day, such as in Chennai during the monsoon, the difference may be small. A table fan helps a lot. Do not touch the tumblers during the wait. Typical result: the wet cloth cools the water a few degrees more in 15 minutes, but the numbers depend on the weather. In a hot room the water may not cool much at all, so also compare how the two feel. If the fever thermometer shows Lo, write under 32. With two to four children, one measures each tumbler, one writes and one watches the clock. Repeat with the cloths swapped so the tumblers are fair.",
+          "parent": "On a very humid day, such as in Chennai during the monsoon, the difference may be small. A table fan helps a lot. Do not touch the tumblers during the wait. Typical result: the wet cloth cools the water a few degrees more in 15 minutes, but the numbers depend on the weather. In a hot room the water may not cool much at all, so also compare how the two feel. If the fever thermometer shows Lo, write under 32. With two to four children, one measures each tumbler, one writes and one watches the clock. Repeat with the cloths swapped, so the test is fair to both tumblers.",
           "context": "In this step, you leave the tumblers in the breeze and wait."
         },
         {
@@ -2017,7 +2017,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Show your child the three tumblers. Ask for a guess and a reason. Ask how many of 12 they would get right by pure luck.",
-          "say": "One tumbler is warm and two are not. They look the same. With your eyes shut, can you find the warm one without touching? How many of twelve by luck alone?",
+          "say": "One tumbler is warm and two are not. They look the same. With your eyes shut, can you find the warm one without touching? How many of twelve would you get right by luck alone?",
           "kid": "One cup is warm. Two are not. Can you find it with your eyes shut?",
           "ask": [
             {
@@ -2039,7 +2039,7 @@
           "say": "Close your eyes. I will shuffle the cups. Do not touch them. Hold your cheek close to each one, like a snake feeling for a warm mouse.",
           "kid": "Shut your eyes. Do not touch the cups.",
           "adult": true,
-          "parent": "Handle all three tumblers the same way, so no tumbler is warmed by hands. The viper must breathe out away from the tumblers, since breath is warm. With two to four children, one is the viper, one shuffles, and one records, and then you rotate; each viper plays 12 rounds. Do not let the child hear or see the shuffling. Move the cups smoothly and quietly. Dry the outsides so that no wet marks give a clue.",
+          "parent": "Handle all three tumblers the same way, so no tumbler is warmed by hands. The child playing the viper must breathe out away from the tumblers, since breath is warm. With two to four children, one is the viper, one shuffles, and one records, and then you rotate. Each viper plays 12 rounds. Do not let the child hear or see the shuffling. Move the cups smoothly and quietly. Dry the outsides so that no wet marks give a clue.",
           "context": "In this step, a grown-up prepares the three tumblers and the child covers their eyes."
         },
         {
@@ -2060,7 +2060,7 @@
           "kid": "Count your ticks. Is it more than 4? What does that tell you?",
           "check": {
             "t": "mcq",
-            "q": "You got 9 of 12 right. By luck you would expect 4. What does this suggest?",
+            "q": "Suppose you got 9 of 12 right. By luck you would expect 4. What does this suggest?",
             "options": [
               "You really can feel warmth at a distance",
               "The cups were noisy",
@@ -2136,7 +2136,7 @@
         {
           "id": "s1",
           "mins": 15,
-          "do": "Choose eight people who agree to take part, such as family, neighbours and friends. If you cannot find eight, five is enough. Today test two or three of them. Each person does the four tests on one foot, close to a chair or counter. Give one try per test. Time up to 30 seconds. Write the seconds in the table. Change the order of the tests for each person so tiredness is fair.",
+          "do": "Choose eight people who agree to take part, such as family, neighbours and friends. If you cannot find eight, five is enough. Today test two or three of them. Each person does the four tests on one foot, close to a chair or counter. Give one try per test. Time up to 30 seconds. Write the seconds in the table. Change the order of the tests for each person, so that tiredness affects every test equally.",
           "say": "We are going to test eight people with the four balance tests. Ask each person if they would like to try. Nobody has to. We write down all the seconds.",
           "kid": "Ask people if they want to try. Time each person in the four tests.",
           "adult": true,
@@ -2212,7 +2212,7 @@
       ],
       "creative": [
         "A strip of rough cloth stuck along the wall at hand height, so a fingertip can follow it like a guide, even in total darkness.",
-        "A change in floor feel, such as a ridged mat, a step before each turn, so the feet get a message before the eyes need one.",
+        "A change in how the floor feels, such as a ridged mat placed one step before each turn, so the feet get a message before the eyes need one.",
         "A walking stick kept by the bed, with a bright tip, for touching the floor lightly as a sensor."
       ],
       "your_turn": "Draw your path from the bed to the toilet. Mark where each balance helper is helped. Test it with the lights off and a grown-up beside you, and write what you would change.",
@@ -2240,7 +2240,7 @@
           "kid": "Think of dangers in a dark passage. Draw two ideas.",
           "ask": [
             {
-              "q": "What helper do your ideas give: the eyes, the feet, or a light touch?",
+              "q": "Which helper does each of your ideas help: the eyes, the feet, or a light touch?",
               "good": [
                 "A night light helps the eyes.",
                 "A wall strip helps the fingertip.",
@@ -2254,8 +2254,8 @@
           "id": "s2",
           "mins": 20,
           "do": "Choose the best idea. Build it from paper, cloth and cardboard on a model path in the room. Use a chair for the bed and a table for the toilet door. Mark where each helper is helped.",
-          "say": "Pick your best idea and build it. Label each part with the helper it gives: eyes, feet or touch.",
-          "kid": "Build your best idea. Label each part with the helper it gives.",
+          "say": "Pick your best idea and build it. Label each part with the helper it helps: eyes, feet or touch.",
+          "kid": "Build your best idea. Label each part with the helper it helps.",
           "adult": true,
           "parent": "Keep everything on the floor flat and stuck down. Nothing should block the path or be a tripping hazard. Avoid candles, oil lamps and loose wires.",
           "context": "In this step, you build the path from simple materials and label each part."
@@ -2276,7 +2276,7 @@
       "id": "c2",
       "title": "Heat Cloak: hide a warm tumbler from a pit viper",
       "mins": 40,
-      "problem": "A pit viper finds a warm tumbler by the warmth coming off the outside of the tumbler. Make a cover that hides the warm tumbler from a classmate who is playing the pit viper at 5 centimetres, so the viper cannot find the tumbler better than by luck.",
+      "problem": "In Be a Pit Viper, a child with eyes shut finds a warm tumbler by the warmth coming off the outside of the tumbler. Make a cover that hides the warm tumbler from a classmate who is playing the pit viper, with their cheek 5 centimetres away. The viper should not be able to find the tumbler better than by luck.",
       "constraints": [
         "The warm tumbler must hold warm water, never hotter than 40 degrees Celsius.",
         "The cover must be made only from kitchen and craft things, and must fit round the tumbler.",
@@ -2293,7 +2293,7 @@
       "general": [
         "Wrap the warm tumbler in several layers of cloth, which slows the heat.",
         "Wrap the warm tumbler in newspaper, which is also a poor conductor of heat.",
-        "Wrap two cold tumblers in the same cover, so the viper cannot use the cover as a clue."
+        "Wrap the two cold tumblers in the same kind of cover, so the viper cannot use the cover as a clue."
       ],
       "creative": [
         "A layer of foil outside a layer of cloth, to bounce heat back inwards and hide it from the viper.",
@@ -2473,7 +2473,7 @@
     },
     {
       "t": "mcq",
-      "p": "When you stub your toe, you feel a sharp jab and then a throb. Why two kinds of pain?",
+      "p": "When you stub your toe, you feel a sharp jab and then a throb. Why are there two kinds of pain?",
       "opts": [
         "The signals travel along two kinds of nerve fibre at different speeds",
         "Your toe gets hurt twice",
@@ -2738,7 +2738,7 @@
               "says": "A stick you only touch lightly is a sensor. It tells your feet where the ground is."
             }
           ],
-          "ask": "Who do you agree with? Use what happened when a fingertip touched a still wall. Then say one thing the other person has right.",
+          "ask": "Who do you agree with? Use what happens when a fingertip rests lightly on a still wall: the person stands steadier. Then say one thing the other person has right.",
           "lines": 4,
           "a": "A strong answer agrees with Anitha, because light touch gives the brain extra balance information even when it carries no weight. It also says that Grandmother is right that a stick can be used as a prop, to take weight off a sore knee, and that this is a different use.",
           "why": "The light touch of a stick or a finger works as a fourth source of balance information. A prop is a different use.",
@@ -2859,7 +2859,7 @@
           "p": "Explain why sweat cools you down. Use the words 'dries' and 'heat'.",
           "lines": 4,
           "a": "When sweat dries off my skin, it takes heat with it. So my skin and the blood under it cool down. That is how my body gets rid of extra heat.",
-          "why": "A strong answer says that water carries heat away when it dries. It also explains why a wet cloth cooled the tumbler more than a dry one.",
+          "why": "A strong answer says that water carries heat away when it dries. This is also why, in Matka Magic, the tumbler with the wet cloth cooled more than the one with the dry cloth.",
           "how": "a5",
           "outcome": 4
         },
@@ -2908,7 +2908,7 @@
               "says": "The signal is not yet pain. The brain builds pain from the signal, from fear and from attention, so the same scrape can hurt a lot or a little."
             }
           ],
-          "ask": "Who do you agree with? Use what happened with the ice cube when you watched it and when you counted. Then say one thing the other person has right.",
+          "ask": "Who do you agree with? Use what happened in Ice in the Palm, when you held the ice cube and only watched it, and when you held it and counted backwards. Then say one thing the other person has right.",
           "lines": 4,
           "how": "e3",
           "a": "A strong answer may agree with Revathi, because the same ice cube gave a different ache when the mind was busy. It can also say that Mina is right that special nerve endings catch harm, so the signal is real. Scientists still argue about which view is better.",
@@ -2985,7 +2985,7 @@
         },
         {
           "t": "mcq",
-          "p": "A child holds 30 seconds in every one of her four balance tests. What should she do to learn something from the test?",
+          "p": "A child stands on one foot for the full 30 seconds in every one of her four balance tests. What should she do to learn something from the test?",
           "opts": [
             "Make the pose harder, so the tests give different times",
             "Stop, because the test does not work",
@@ -3016,7 +3016,7 @@
         },
         {
           "t": "mcq",
-          "p": "In a swinging room, the walls slide forward but the floor stays still, and a toddler leans back. What is the best explanation?",
+          "p": "In a room where the walls slide forward but the floor stays still, a toddler leans back. What is the best explanation?",
           "opts": [
             "Her eyes say she is moving forward, and she corrects for it",
             "Her feet feel the walls moving",
@@ -3075,7 +3075,7 @@
         },
         {
           "t": "write",
-          "p": "A python has heat pits and a pit viper has a heat sense too. A vampire bat has a heat sense in her nose. What does this suggest about how evolution makes new senses?",
+          "p": "Pythons and pit vipers have heat pits. A vampire bat has a heat sense in her nose. All of them use a gate that other animals use for pain or heat. What does this suggest about how evolution makes new senses?",
           "lines": 4,
           "a": "It suggests that evolution often takes a gate that already exists, such as the ones for heat or pain, and tunes it to a new job, instead of building something brand new each time.",
           "why": "In snakes and bats, the heat gates are versions of gates found in other animals. They are tuned to open at different temperatures.",
@@ -3090,7 +3090,7 @@
         },
         {
           "t": "mcq",
-          "p": "In a test, 9 of 12 guesses were right, while luck would give 4. What can you say?",
+          "p": "In Be a Pit Viper, 9 of 12 guesses were right, while luck would give 4. What can you say?",
           "opts": [
             "The result is well above luck, so the skin probably did sense the warm cup",
             "The result is luck, because anything can happen",
@@ -3197,7 +3197,7 @@
   ],
   "spotted": [
     {
-      "text": "A cyclist leaning into a bend on the road, while the bicycle and rider stay upright together.",
+      "text": "A cyclist going round a bend on the road, with the bicycle and rider leaning together and not falling.",
       "art": "A cyclist on a curved road leaning into the bend, with a small arrow showing the lean."
     },
     {
@@ -3290,7 +3290,7 @@
     },
     {
       "j": "Why did the matka win the race?",
-      "a": "She stayed cool under pressure."
+      "a": "It stayed cool under pressure."
     },
     {
       "j": "Why did the ice cube enjoy being held for twenty seconds?",
@@ -3311,7 +3311,7 @@
   ],
   "maths": [
     {
-      "problem": "In the Balance Team test, one child stood 30 seconds with eyes open on the floor, and 6 seconds with eyes shut on the blanket. How many times as long was the first? What does the number tell you?",
+      "problem": "In the Balance Team test, one child stood for 30 seconds with eyes open on the floor, and for 6 seconds with eyes shut on the blanket. How many times as long was the first time? What does the number tell you?",
       "answer": "5 times as long. Losing two helpers cut the time to a fifth.",
       "explain": "30 divided by 6 is 5. So the first time was 5 times the second. The result shows how much the eyes and the feet helped the ears.",
       "math_unit": "math.division.division-facts.L4",
@@ -3329,7 +3329,7 @@
       "why_maths": "Changing kilograms to grams puts the two weights in the same unit, so you can see how tiny the touch is compared with the body it steadies."
     },
     {
-      "problem": "Five people held the pose with eyes shut for 8, 12, 15, 9 and 6 seconds. What is the average, and why is it more useful than one person's time?",
+      "problem": "Five people stood on one foot with eyes shut for 8, 12, 15, 9 and 6 seconds. What is the average, and why is it more useful than one person's time?",
       "answer": "The average is 10 seconds. One person's time can be a fluke.",
       "explain": "8 plus 12 plus 15 plus 9 plus 6 is 50. 50 divided by 5 is 10. An average of five people smooths out luck and shows what is typical.",
       "math_unit": "math.data.reading-data.L4",
@@ -3338,7 +3338,7 @@
       "why_maths": "An average over several people shows the pattern that most people share, instead of one lucky or unlucky try."
     },
     {
-      "problem": "In the head and page test, a child read 14 of 16 words with her head shaking, and 4 of 16 with the page shaking. What fraction was read right in each case? How many times as many words did she read with the head shaking?",
+      "problem": "In the Shake the Head or Shake the Page test, a child read 14 of 16 words with her head shaking, and 4 of 16 with the page shaking. What fraction was read right in each case? How many times as many words did she read with the head shaking?",
       "answer": "7 out of 8 with the head shaking, and 1 out of 4 with the page shaking. About 3 and a half times as many.",
       "explain": "14 out of 16 is 7 out of 8, and 4 out of 16 is 1 out of 4. 14 divided by 4 is 3 and a half. So she read about 3 and a half times as many words with her head shaking.",
       "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -3365,7 +3365,7 @@
       "why_maths": "Subtracting each start from each finish gives the cooling, and dividing one by the other shows how much better the wet cloth worked."
     },
     {
-      "problem": "In Count Your Own Heartbeat, a child felt 38 beats in 30 seconds. Her pulse count for the same time was 40. How many beats a minute is each? How close was her feeling to the pulse, as a fraction?",
+      "problem": "In Count Your Own Heartbeat, a child felt 38 beats in 30 seconds. Her pulse count for the same time was 40. How many beats a minute is each? What fraction of her pulse count did she feel?",
       "answer": "76 beats a minute by feeling and 80 by pulse. She was 38 out of 40, which is 19 out of 20.",
       "explain": "A minute is twice 30 seconds, so 38 times 2 is 76 and 40 times 2 is 80. 38 out of 40 is 19 out of 20, which is 95 out of 100.",
       "math_unit": "math.time.duration.L4",
@@ -3374,13 +3374,13 @@
       "why_maths": "Doubling a 30-second count gives beats in a minute, which is the way doctors and nurses talk about the heart."
     },
     {
-      "problem": "Mia held an ice cube and rated the ache 7 and 5 when she only watched, and 4 and 6 when she counted. What is the average for each kind of try? Is that enough to be sure that counting helps?",
+      "problem": "In Ice in the Palm, a child rated the ache 7 and 5 when she only watched the ice cube, and 4 and 6 when she counted backwards. What is the average for each kind of try? Is that enough to be sure that counting helps?",
       "answer": "Watching averaged 6 and counting averaged 5. It is not enough to be sure.",
       "explain": "7 plus 5 is 12, and 12 divided by 2 is 6. 4 plus 6 is 10, and 10 divided by 2 is 5. The difference of 1 is smaller than the difference between her two watch tries, so more tries would be needed.",
       "math_unit": "math.data.reading-data.L4",
       "how": "e3",
       "context": "In Ice in the Palm, you rate the ache from an ice cube while watching and while counting backwards.",
-      "why_maths": "Looking at the size of a difference compared with the spread of the results tells you whether to trust a pattern."
+      "why_maths": "Comparing the size of a difference with how much the results vary from try to try tells you whether to trust a pattern."
     },
     {
       "problem": "Suppose a fast pain fibre carries a signal at 20 metres a second, and a slow one at 1 metre a second. The path from a toe to the brain is 1.2 metres. How long does each signal take? How much later does the slow signal arrive?",
@@ -3588,18 +3588,18 @@
     ]
   },
   "roots": {
-    "context": "We have stood on one foot with and without our eyes, shaken heads and pages, and felt warmth, cold and pain. Now we ask what these senses tell us about ourselves and the world.",
+    "context": "We have stood on one foot with our eyes open and shut, read while our heads shook and while the page shook, and felt warmth, cold and pain. Now we ask what these senses tell us about ourselves and the world.",
     "deep_truth": {
       "truth": "Nothing in you holds you upright by itself. Your eyes, your inner ears and the sensors in your legs each give a rough answer. Your brain mixes the answers, and when one goes missing it listens more to the others.",
       "habit": "We say 'my sense of balance' as if it were one organ in the ears, like the eye for seeing. But the ears alone cannot keep you steady. People with damaged inner ears can often stand in the light on a firm floor, and fall in the dark.",
-      "evidence": "In the Balance Team test, eyes shut on a blanket took away sight and made the feet unsure. Only the ears were left clear, and the standing time was usually the shortest. If your own results differ, write them down as they are and test again."
+      "evidence": "In the Balance Team test, standing on a blanket with eyes shut took away sight and made the feet unsure. Only the ears were left clear, and the standing time was usually the shortest. If your own results differ, write them down as they are and test again."
     },
     "three": {
-      "who_am_i": "You feel 'I am upright'. The three balance helpers are not felt one by one, because your brain builds that feeling from all of them at once.",
-      "what_is_life": "A fly steers with two tiny clubs, a python hunts by heat, and a fish carries a diary in her ear stones. Every living being builds the senses that suit the life they live.",
+      "who_am_i": "You feel one thing: 'I am upright'. You do not feel your eyes, inner ears and legs reporting one by one, because your brain builds that one feeling from all of them at once.",
+      "what_is_life": "A fly steers with two tiny clubs, a python hunts by heat, and a fish balances with stones in her ears. Each living being has the senses that suit the life they live.",
       "what_is_this_world": "Down is real, but nobody feels it directly. A fly, a fish and a child each find down in a different way, by clubs, by stones or by crystals, and the same world pushes on all of them."
     },
-    "thread": "Gravity pulls on everything, and turning pushes on everything. A crystal in your ear, a stone in a fish's ear and a swinging club in a fly are all small things that gravity or turning pushes, and a nerve feels the push. Your eyes add the light, and your feet add the ground. Each is a different meeting of a body with the same world, and the brain joins the meetings into one feeling. An upright body is a place where the pushes and pulls of the world are noticed and answered, again and again.",
+    "thread": "Gravity pulls on everything, and turning pushes on everything. A crystal in your ear, a stone in a fish's ear and a swinging club in a fly are all small things that gravity or turning pushes, and a nerve feels the push. Your eyes add what they see, and your feet add what the ground feels like. The brain joins all of these into one feeling. A body stays upright by noticing the pushes and pulls of the world and correcting for them, again and again.",
     "teachings": [
       {
         "source": "Tao Te Ching 76",
@@ -3628,7 +3628,7 @@
     ],
     "other_view": {
       "who": "Control engineers",
-      "view": "Staying upright is a feedback controller: sensors, a rule and muscles, and nothing more. Words like team, vote or agreement are only pictures. The science needs only the signals and the rule."
+      "view": "Staying upright is only a feedback loop: sensors measure, a rule decides, and muscles act. Words like team, vote or agreement are just ways of picturing it. The science needs only the signals and the rule."
     },
     "practice": {
       "title": "Stand like a tree in the wind",
@@ -3639,7 +3639,7 @@
     "ask": [
       "Which of your balance helpers do you feel the most? Do you ever feel them one at a time?",
       "A fly, a fish and you all find down in different ways. Is down in the world, or is it made by each body?",
-      "If standing is made from three rough answers, what else that you feel as one thing might be made from many?"
+      "Standing feels like one thing, but it is made from three rough answers. What else that feels like one thing might be made from many?"
     ],
     "art": "A girl standing on one leg under a tree in the wind, with three thin lines of light from her eyes, ears and feet meeting in her head, and a fly and a fish drawn small beside her."
   },

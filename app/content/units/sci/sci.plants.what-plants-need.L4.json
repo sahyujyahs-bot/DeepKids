@@ -3,23 +3,23 @@
   "title": "What plants need underground: air, minerals and helpers in the soil",
   "level": 4,
   "summary": {
-    "text": "A brinjal plant in a big pot starts to droop and turn yellow. The family waters them more and adds fertiliser, and the plant gets worse. What is wrong? Your child pours water onto dry soil and sees bubbles of air rush out, and finds that between a third and a half of soil is gaps. Roots need that air as much as they need water. Then comes the rest of the underground story: about a dozen minerals in tiny amounts, the shortest supply that sets the limit for everything else, bacteria that make fertiliser inside bean roots, and fungi that trade with trees. Some of it is well known, and some of it scientists still argue about.",
+    "text": "A brinjal plant in a big pot starts to droop and turn yellow. The family waters the plant more and adds fertiliser, and the plant gets worse. What is wrong? Your child pours water onto dry soil and sees bubbles of air rush out, and finds that between a third and a half of soil is gaps. Roots need that air as much as they need water. Then comes the rest of what happens underground: about a dozen minerals that a plant needs in tiny amounts, the rule that the mineral in shortest supply limits how well the plant grows, bacteria that make fertiliser inside bean roots, and fungi that trade with trees. Some of it is well known, and some of it scientists still argue about.",
     "art": "A brinjal plant with yellow leaves in a pot standing in a saucer of water, and a cutaway of the pot showing pale roots drowning in soaked soil."
   },
   "intro": {
     "hook": "You water a drooping plant, and they droop more. You water again, and they get worse. How can more water make a thirsty-looking plant sicker?",
-    "text": "A plant that droops looks as if they are dry, so most of us reach for the watering can. But the drooping can also come from too much water. Roots are alive. They need food, water, and air to breathe, just as you do. In this unit you pour water onto dry soil and find out how much air hides between the grains. Then you look at the other things a plant needs from the soil, in small amounts but never none, and at the bacteria and fungi that help them get it.",
+    "text": "A plant that droops looks as if they are dry, so most of us reach for the watering can. But the drooping can also come from too much water. Roots are alive. They need food, water, and air to breathe, just as you do. In this unit you pour water onto dry soil and find out how much air hides between the grains. Then you look at the other things a plant needs from the soil. The plant needs only small amounts of them, but cannot do without them. Last, you look at the bacteria and fungi that help the plant get them.",
     "art": "A hand pouring water from a jug onto dry soil in a clear glass, with silver bubbles of air rising from the soil."
   },
   "outcomes": [
     "I can explain that roots need air as well as water, and why a pot with standing water can kill a plant.",
-    "I can measure how much air is in a soil, and compare soils and packed and loose soil.",
+    "I can measure how much air is in a soil, and compare two kinds of soil, and packed soil with loose soil.",
     "I can name the three main minerals plants take from soil, nitrogen, phosphorus and potassium, and say what each is used for.",
     "I can run a fair test with seedlings in plain water and in water with minerals, and explain what I see.",
     "I can explain the idea of the shortest plank: the mineral in shortest supply sets how well a plant grows.",
     "I can explain how bean-family plants and bacteria trade sugar for nitrogen, and why farmers grow dal after rice.",
     "I can say what scientists know about the fungi on roots, and what they still argue about.",
-    "I can say what scientists agree about, who found the pieces, and what is still unknown."
+    "I can say what scientists agree about, who found out each part, and what is still unknown."
   ],
   "cards_mins": 25,
   "terms": [
@@ -165,7 +165,7 @@
       "examples": [
         "A garden path that people walk on every day has packed, hard soil with few gaps, so few plants grow there.",
         "A loose soil with lots of dry leaves in it has many gaps, and earthworms keep making more.",
-        "Digging the soil in a pot gently opens up gaps for the roots to breathe."
+        "Gently digging the soil in a pot opens up gaps, so the roots can breathe."
       ],
       "perspectives": [],
       "art": "A magnified cutaway of soil showing round grains in brown, white gaps between them, and a root hair with a tiny oxygen arrow going in.",
@@ -193,11 +193,11 @@
       "examples": [
         "The three numbers on a bag of fertiliser, such as 20-10-10, tell how much nitrogen, phosphorus and potassium it holds.",
         "A mineral needed in tiny amounts, like iron, is still essential. Without it, new leaves come out yellow.",
-        "Spinach is rich in iron, which it took from the soil."
+        "Spinach is rich in iron, which the plant took from the soil."
       ],
       "perspectives": [],
       "art": "A plant with arrows from the roots to the leaves labelled with N, P, K, Mg and Fe, and a small picture of what each one is used for.",
-      "context": "Last time you learned that plants need light, water and warmth. This card adds the things the roots take from the soil."
+      "context": "Plants need light, water and warmth. This card adds the things the roots take from the soil."
     },
     {
       "concept": "Reading the leaves: clues to what is missing",
@@ -217,7 +217,7 @@
       "concept": "The shortest plank: the limiting nutrient",
       "status": "defined",
       "definition": "A plant's growth is limited by the mineral that is in the shortest supply. Adding more of the other minerals does not help until the shortest one is supplied.",
-      "description": "Imagine a wooden barrel made of planks of different heights. You can only fill the barrel as high as the shortest plank, because water spills over it. A plant is like that. Suppose the soil has lots of phosphorus and potassium but very little nitrogen. The plant grows only as well as the nitrogen allows. Pouring on more phosphorus does nothing. This idea is called the law of the minimum. A German agricultural scientist named Carl Sprengel worked it out in 1828, and the chemist Justus von Liebig made it famous in the 1840s. Today it is often called Liebig's law, though Sprengel was first. Farmers use it. They test the soil, find the shortest supply and add only that. This saves money, and it saves the soil and rivers from extra minerals that the crop cannot use.",
+      "description": "Think of a wooden barrel made of planks of different heights. You can only fill the barrel as high as the shortest plank, because water spills over it. A plant is like that. Suppose the soil has lots of phosphorus and potassium but very little nitrogen. The plant grows only as well as the nitrogen allows. Pouring on more phosphorus does nothing. This idea is called the law of the minimum. A German agricultural scientist named Carl Sprengel worked it out in 1828, and the chemist Justus von Liebig made it famous in the 1840s. Today it is often called Liebig's law, though Sprengel was first. Farmers use it. They test the soil, find the mineral in shortest supply and add only that. This saves money, and it saves the soil and rivers from extra minerals that the crop cannot use.",
       "examples": [
         "A farmer's soil test shows plenty of potassium and phosphorus but low nitrogen. She adds a nitrogen fertiliser, and the crop improves.",
         "A house plant with pale leaves does not need more water. They may need a few drops of fertiliser with nitrogen."
@@ -233,7 +233,7 @@
       "description": "Around 1860, the German plant scientists Julius Sachs and Wilhelm Knop grew plants in glass jars, with their roots in water. They put into the water only a few simple minerals: salts of nitrogen, potassium, calcium, magnesium, phosphorus, sulphur and iron. There was no soil and no rotting humus. The plants grew well and made seeds. This showed that plants do not need humus as food, as many farmers then believed. It also showed that soil provides only water, minerals and support. Today, this idea is used in water culture farming, also called hydroponics. Lettuce, tomatoes and herbs are grown on trays and pipes with their roots in a flowing mineral solution. A water culture grower must pump air into the water, or leave an air gap, because roots in water still need to breathe.",
       "examples": [
         "A tray of lettuce on a rooftop, with roots hanging in flowing mineral water.",
-        "A money plant that lives in a glass of water for a year, taking its tiny minerals from the water."
+        "A money plant that lives in a glass of water for a year, taking the tiny amounts of minerals they need from the water."
       ],
       "perspectives": [],
       "art": "A glass jar with a plant held over water by a collar, white roots hanging in the water, with a small bubble stone adding air.",
@@ -257,7 +257,7 @@
       "concept": "Beans and their bacteria: root nodules",
       "status": "defined",
       "definition": "Plants of the bean family, called legumes, grow lumps on their roots called nodules. Helpful bacteria called rhizobia live in the nodules. The bacteria fix nitrogen for the plant, and the plant gives them sugar.",
-      "description": "Dig up a groundnut or a pea plant with their roots, and you will see small round lumps on the roots. These are nodules. Inside each nodule live millions of bacteria, called rhizobia. The plant gives them sugar, which they get from photosynthesis. In return, the bacteria turn nitrogen gas from the air into ammonia that the plant can use. A healthy nodule is pink inside, because it holds a red substance that carries oxygen, a bit like the red in blood. This is a trade, and both sides gain. It was worked out in the 1880s by two German scientists, Hermann Hellriegel and Hermann Wilfarth, and the bacteria were first grown in a dish by a Dutch scientist named Martinus Beijerinck. Farmers in India have long grown dals such as tur, moong, urad and chana in turns with rice and wheat, which use up nitrogen. The legume leaves some nitrogen behind in the soil for the next crop.",
+      "description": "Dig up a groundnut or a pea plant with their roots, and you will see small round lumps on the roots. These are nodules. Inside each nodule live millions of bacteria, called rhizobia. The plant gives them sugar made by photosynthesis. In return, the bacteria turn nitrogen gas from the air into ammonia that the plant can use. A healthy nodule is pink inside, because it holds a red substance that carries oxygen, a bit like the red in blood. This is a trade, and both sides gain. It was worked out in the 1880s by two German scientists, Hermann Hellriegel and Hermann Wilfarth, and the bacteria were first grown in a dish by a Dutch scientist named Martinus Beijerinck. Rice and wheat use up nitrogen. Farmers in India have long grown dals such as tur, moong, urad and chana in turns with them. The legume leaves some nitrogen behind in the soil for the next crop.",
       "examples": [
         "A groundnut plant pulled from a field has dozens of nodules. When you cut one open, it is pink.",
         "A farmer grows black gram after rice, so the next rice crop needs less fertiliser.",
@@ -311,7 +311,7 @@
       "concept": "A handful of soil is alive",
       "status": "defined",
       "definition": "Healthy soil is full of living things: bacteria, fungi, worms, mites and tiny animals. They recycle dead material, make minerals available to roots, and keep the soil loose with gaps.",
-      "description": "A teaspoon of healthy soil can hold hundreds of millions of bacteria and long threads of fungi. Larger animals live there too: earthworms, ants, beetles, termites and tiny mites. They are the soil's workforce. Earthworms eat soil and dead leaves, and their burrows let air and water down to the roots. Charles Darwin spent about forty years watching earthworms, and in 1881 he published a book about them. He worked out that worms bring many tonnes of soil to the surface of a field each year, and that they slowly bury old stones and even ruined walls. Many people laughed at the idea of a book about worms, but it sold very well. Bacteria and fungi do the rest. They turn dead matter into minerals and humus. When the soil is poisoned with too much chemical, or packed hard by machines, this life dies, and the soil becomes tired. A farmer's soil is a herd of living things, as well as a heap of grains.",
+      "description": "A teaspoon of healthy soil can hold hundreds of millions of bacteria and long threads of fungi. Larger animals live there too: earthworms, ants, beetles, termites and tiny mites. They are the soil's workforce. Earthworms eat soil and dead leaves, and their burrows let air and water down to the roots. Charles Darwin spent about forty years watching earthworms, and in 1881 he published a book about them. He worked out that worms bring many tonnes of soil to the surface of a field each year, and that they slowly bury old stones and even ruined walls. Many people laughed at the idea of a book about worms, but it sold very well. Bacteria and fungi do the rest. They turn dead matter into minerals and humus. When the soil is poisoned with too much chemical, or packed hard by machines, this life dies, and the soil becomes tired. So a farmer's soil is more than a heap of grains. It is also full of living things that need looking after.",
       "examples": [
         "Little heaps of soil on the ground after rain are worm casts, soil that earthworms have passed through their bodies.",
         "A rotting log on a forest floor is crawling with beetles, fungi and bacteria."
@@ -399,7 +399,7 @@
     },
     {
       "text": "A plant's growth is held back by the mineral that is in shortest supply.",
-      "evidence": "Farmers' trials, in which they add one mineral at a time to a soil, show the crop rises only when the shortest mineral is added."
+      "evidence": "In farmers' trials, one mineral at a time is added to a soil. The crop grows better only when the mineral in shortest supply is added."
     },
     {
       "text": "Bacteria in the root nodules of legumes fix nitrogen for the plant, and the plant gives them sugar.",
@@ -428,7 +428,7 @@
       "context": "This card is about an old and common mistake: that a plant's food is the soil."
     },
     {
-      "claim": "If a drooping plant needs water, more water is always better.",
+      "claim": "A drooping plant is thirsty, so more water always helps.",
       "who": "A habit among many gardeners and families",
       "for": "A dry plant really does droop, and a good watering brings them back.",
       "against": "A plant in soaked soil droops too, because the roots have no air. Giving more water makes it worse. Feel the soil before you water.",
@@ -444,7 +444,7 @@
       "context": "This card is about the biggest ingredient of air, and why plants cannot use it."
     },
     {
-      "claim": "Organic fertiliser is always better than factory fertiliser, or the other way round.",
+      "claim": "One kind of fertiliser, organic or factory-made, is always better than the other.",
       "who": "Different groups of farmers and consumers",
       "for": "Organic manure and compost improve the soil's structure, hold water and feed soil life as well as the plant. Factory fertiliser is cheap, exact and quick, and feeds many people.",
       "against": "A plant takes in the same simple minerals from either kind. Both can be misused. Too much of either can wash into rivers. Manure is slow and may not supply enough nitrogen for very high yields. Factory fertiliser alone, over many years, can leave the soil tired.",
@@ -460,7 +460,7 @@
       "context": "This card asks whether trees really care for their children through the wood wide web."
     },
     {
-      "claim": "Carl Sprengel's idea of the shortest plank is Liebig's law.",
+      "claim": "The idea of the shortest plank was Justus von Liebig's, so it is right to call it Liebig's law.",
       "who": "Most textbooks, which call it Liebig's law of the minimum",
       "for": "Justus von Liebig was famous, and he put the idea into his best-selling book of 1840.",
       "against": "Carl Sprengel, a less famous German scientist, had written about the idea in 1828. Liebig took the idea and made it famous. Some scientists now say it should be called the Sprengel-Liebig law.",
@@ -487,7 +487,7 @@
     {
       "q": "Beans and bacteria trade sugar for nitrogen, and both do better. Is nature mostly competition, or is it mostly trade?",
       "kind": "big",
-      "hint": "Look for both in a forest. Where do they see each kind? Is one more common?"
+      "hint": "Look for both in a forest. Where do you see each kind? Is one more common?"
     },
     {
       "q": "Nitrogen is all around us, but plants starve for it. What does that tell us about the difference between having something and being able to use it?",
@@ -502,7 +502,7 @@
     {
       "q": "If trees do share food through fungi, is a forest one living thing or many? And what if they do not?",
       "kind": "big",
-      "hint": "What would you need to see to say that two things are one thing? Who is a 'self' here?"
+      "hint": "What would you need to see to say that many trees are really one living thing?"
     },
     {
       "q": "A root decides where to grow without a brain. Where do we draw the line between a living thing that decides and a living thing that is just responding?",
@@ -541,7 +541,7 @@
       "Together, they tipped Rani out onto newspaper. Appa held the pot and Paati held the stem. Revathi took a deep breath. The roots at the top were pale and strong. But the lower part of the root ball was dark brown and slimy, and it smelled terrible.",
       "Nobody spoke for a while. Then Paati said slowly, 'Forty years, I have kept plants. I always thought the roots only drank.'",
       "'They drink and they breathe,' said Revathi. 'Through the same gaps.'",
-      "Appa trimmed the brown roots away with kitchen scissors, snip by snip, until only the white ones were left. Revathi mixed new soil in a bucket: garden soil, some sand and a few handfuls of coconut husk, so it would stay loose with plenty of gaps. They put it into a clean pot with three big holes in the bottom, and no tile. Under the pot they put two small bricks, so that the saucer would never touch the water. 'And no plant food for two weeks,' said Revathi. 'Drowned roots cannot take it in anyway.'",
+      "Appa trimmed the brown roots away with kitchen scissors, snip by snip, until only the white ones were left. Revathi mixed new soil in a bucket: garden soil, some sand and a few handfuls of coconut husk, so it would stay loose with plenty of gaps. They put it into a clean pot with three big holes in the bottom, and no tile. Under the pot they put two small bricks, so that the pot would never sit in the water in the saucer. 'And no plant food for two weeks,' said Revathi. 'Drowned roots cannot take it in anyway.'",
       "Then she did something Paati had never done in forty years. She pushed a finger into the soil, two knuckles deep. 'Dry here,' she said. 'Now we can water.' She gave Rani just half a mug.",
       "Ten days later, a small green leaf, the colour of a new parrot, opened at the top of Rani's stem. The old yellow leaves stayed yellow, but Paati did not mind. She snipped them off and put them in the compost.",
       "Salma Aunty came up to see. 'My tulsi is going yellow,' she said. 'Can you look at it, Revathi?'",
@@ -692,8 +692,8 @@
         "Each round has four parts. First, a tree turns over a SKY card, and every tree takes the sugar on it. Second, the fungus turns over a SOIL card and takes the tokens on it.",
         "Third, trees and the fungus can trade. Any tokens can be swapped in any amounts, if both sides agree. A player may say no.",
         "Fourth, building. A tree can build a BRANCH for 2 sugar, 1 nitrogen, 1 phosphorus and 1 potassium. The fungus can build a MUSHROOM for 3 sugar.",
-        "At the end of every round, each tree pays 1 sugar to stay alive. This is respiration. The fungus pays 1 sugar at the end of rounds 2, 4, 6 and 8, because its thin threads need less. Someone who cannot pay loses a branch or a mushroom.",
-        "After 8 rounds, add up the branches and mushrooms. If both the trees and the fungus built something, everyone wins together. If only one side built, the other side learns why.",
+        "At the end of every round, each tree pays 1 sugar to stay alive. This is respiration. The fungus pays 1 sugar only at the end of rounds 2, 4, 6 and 8, because the fungus's thin threads need less. A player who cannot pay loses a branch or a mushroom.",
+        "After 8 rounds, add up the branches and mushrooms. If both the trees and the fungus built something, everyone wins together. If only one side built something, talk about why the other side could not.",
         "Both sides can see everything on the table. Talk about what you need and what you can give."
       ],
       "flow": [
@@ -719,7 +719,7 @@
         {
           "id": "s2",
           "mins": 7,
-          "do": "Play rounds 1 and 2. Turn a SKY card. Turn a SOIL card. Trade. Build. Pay 1 sugar each.",
+          "do": "Play rounds 1 and 2. In each round, turn a SKY card, turn a SOIL card, trade and build. Then pay sugar to stay alive.",
           "say": "Turn the SKY card first. Trees take sugar. Then the SOIL card. The fungus takes minerals. Then you can trade.",
           "kid": "Turn the sky card. Turn the soil card. Trade tokens. Build if you can.",
           "ask": [
@@ -734,7 +734,7 @@
           ],
           "check": {
             "t": "mcq",
-            "q": "In the game, each side pays 1 sugar at the end of every round. What does this stand for?",
+            "q": "In the game, each tree pays 1 sugar at the end of every round. What does this stand for?",
             "options": [
               "Respiration, which every living being does all the time",
               "A tax on the trees",
@@ -749,7 +749,7 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Play rounds 3 to 5. Keep trading. Write the trades in the score sheet. Notice which SOIL card helps the least.",
+          "do": "Play rounds 3 to 5. Keep trading. Write the trades on the score sheet. Notice which SOIL card helps the least.",
           "say": "Keep going. What is the fairest trade you can make? Does any card spoil the round for everyone?",
           "kid": "Play three more rounds. Write down your trades.",
           "ask": [
@@ -762,7 +762,7 @@
               ]
             }
           ],
-          "parent": "If the waterlogged card has not come up, mention that it is in the pile. When it does, ask what it means for the roots in the soil.",
+          "parent": "If the WATERLOGGED CORNER card has not come up, mention that it is in the pile. When it does come up, ask what it means for the roots in the soil.",
           "context": "In this step you play more rounds and see how bad soil changes the trade."
         },
         {
@@ -841,7 +841,7 @@
               "b": "Too little water. The plant recovers quickly after watering, so the roots are healthy and the soil was simply dry."
             },
             {
-              "f": "A moong seedling, grown in a dark cupboard, is tall, thin and pale yellow. It leans towards the crack of light at the door.",
+              "f": "A moong seedling, grown in a dark cupboard, is tall, thin and pale yellow. The seedling leans towards the crack of light at the door.",
               "b": "Too little light. A plant in the dark makes no chlorophyll, and stretches to find light."
             },
             {
@@ -861,7 +861,7 @@
               "b": "Too little light. A plant in dim light stretches towards the light, and makes small, pale leaves."
             },
             {
-              "f": "A new guava seedling in Thrissur, planted in a bright spot. Its older leaves are dark green and tinged with purple. Growth is very slow. The soil is a heavy, cold clay.",
+              "f": "A new guava seedling in Thrissur, planted in a bright spot. The older leaves are dark green and tinged with purple. Growth is very slow. The soil is a heavy, cold clay.",
               "b": "Short of phosphorus. Dark green or purple older leaves and slow growth are clues. Cold, heavy soil makes it harder to take up phosphorus."
             },
             {
@@ -877,11 +877,11 @@
               "b": "Healthy. A fern from the forest floor is made for dim light. Some plants need very little light. Do not move them."
             },
             {
-              "f": "A potted aloe in a sunny window in Ahmedabad. Its fat leaves are soft, mushy and yellow at the base. The pot has no hole, and the plant is watered every day.",
-              "b": "The roots have no air. An aloe stores water in its leaves and likes dry soil. Daily watering with no drainage drowns the roots."
+              "f": "A potted aloe in a sunny window in Ahmedabad. The fat leaves are soft, mushy and yellow at the base. The pot has no hole, and the plant is watered every day.",
+              "b": "The roots have no air. An aloe stores water in the leaves and likes dry soil. Daily watering with no drainage drowns the roots."
             },
             {
-              "f": "A bean seedling in a cup of cotton wool in Guwahati. It has been in plain water for two weeks. It is short, with pale green leaves and a thin stem. The seed has shrivelled.",
+              "f": "A bean seedling in a cup of cotton wool in Guwahati. The seedling has been in plain water for two weeks, and is short, with pale green leaves and a thin stem. The seed has shrivelled.",
               "b": "Short of nitrogen and other minerals. The seed's store ran out, and plain water holds almost no minerals. A few drops of fertiliser would help."
             }
           ]
@@ -896,17 +896,17 @@
             "TOO MUCH FERTILISER",
             "TOO LITTLE WATER",
             "TOO LITTLE LIGHT",
-            "HEALTHY, LEAVE IT ALONE"
+            "HEALTHY, LEAVE THE PLANT ALONE"
           ]
         }
       ],
       "rules": [
         "Put the cards in a pile, clue side up. Put the seven diagnosis tokens in a row.",
         "Read the top card slowly. The clues tell you which leaves are affected, what the soil is like and what the plant has had.",
-        "Choose the diagnosis token you think fits, and put it down. Playing with others, everyone chooses and shows at the same time.",
-        "Turn the card over and read the back aloud. A right diagnosis scores 2 points. A right diagnosis for a reason you can explain scores 1 more.",
+        "Choose the diagnosis token you think fits, and put it down. If you are playing with others, everyone chooses and shows at the same time.",
+        "Turn the card over and read the back aloud. A right diagnosis scores 2 points. If you can also explain the reason, you score 1 more.",
         "Some cards have more than one problem in the clues. Look for the clue that most strongly points to one cause.",
-        "Play all 16 cards, or stop after 8 for a short game. Playing alone, try to beat your best score."
+        "Play all 16 cards, or stop after 8 for a short game. If you are playing alone, try to beat your best score."
       ],
       "flow": [
         {
@@ -1027,7 +1027,7 @@
         },
         {
           "t": "mcq",
-          "p": "Anika pours water onto 100 millilitres of dry soil. 40 millilitres go in before the water reaches the top. What does this show?",
+          "p": "You pour water onto 100 millilitres of dry soil. 40 millilitres go in before the water reaches the top. What does this show?",
           "opts": [
             "About 40 out of every 100 millilitres of the soil were gaps",
             "The soil weighs 40 grams",
@@ -1042,7 +1042,7 @@
         },
         {
           "t": "sort",
-          "p": "Each clue belongs to a shortage of nitrogen, phosphorus or potassium. Sort them.",
+          "p": "Each line describes nitrogen, phosphorus or potassium. Sort them.",
           "cats": [
             "Nitrogen",
             "Phosphorus",
@@ -1088,7 +1088,7 @@
             "Plants dislike the sound of walking"
           ],
           "a": 0,
-          "why": "Packed soil has fewer and smaller gaps, so there is less air for roots. In the packing test, a packed soil took less water than a loose one.",
+          "why": "Packed soil has fewer and smaller gaps, so there is less air for roots. In the Soil Breath test, packed soil took in less water than loose soil.",
           "outcome": 1
         },
         {
@@ -1139,7 +1139,7 @@
         },
         {
           "t": "mcq",
-          "p": "A farmer grows black gram after a crop of rice in the same field. What is she using?",
+          "p": "A farmer grows black gram after a crop of rice in the same field. What is the farmer making use of?",
           "opts": [
             "Bacteria in the dal's roots that put nitrogen into the soil",
             "A way of making the soil harder",
@@ -1161,9 +1161,9 @@
         },
         {
           "t": "write",
-          "p": "A friend's tulsi is drooping, and the soil is wet three knuckles deep. She wants to water it again. What would you say, and why?",
+          "p": "A friend's tulsi is drooping, and the soil is wet three knuckles deep. Your friend wants to water the plant again. What would you say, and why?",
           "lines": 4,
-          "a": "A strong answer says not to water it. A droop with wet soil can mean the roots are drowning. The wet soil has no air in its gaps, so the roots cannot breathe or take up water. Check that the pot drains, empty the saucer, and wait until the top two knuckles are dry before watering.",
+          "a": "A strong answer says not to water the plant. Drooping in wet soil can mean the roots are drowning. The wet soil has no air in its gaps, so the roots cannot breathe or take up water. Check that the pot drains, empty the saucer, and wait until the soil is dry two knuckles deep before watering.",
           "why": "The answer should use the idea that roots need air, and should offer a check or a fix.",
           "outcome": 0
         },
@@ -1178,7 +1178,7 @@
         {
           "t": "draw",
           "p": "Draw a cutaway of a pot with soil grains, gaps and one root. Colour the air in the gaps one colour and water in the gaps another colour.",
-          "a": "Round grains in brown, white or blue gaps between them, a root running through the gaps with root hairs, air gaps shown in one colour and water in another, and a hole at the bottom of the pot.",
+          "a": "Brown round grains with gaps between them, a root with root hairs running through the gaps, the air gaps in one colour and the water gaps in another, and a hole at the bottom of the pot.",
           "why": "A strong drawing shows that some gaps hold air and some hold water, and that the root lives in the gaps.",
           "art": "An empty outline of a flowerpot with room for soil, a root and labels.",
           "outcome": 0
@@ -1237,16 +1237,16 @@
             "Brown tips mean the roots are healthy"
           ],
           "a": 0,
-          "why": "A small dose gave the best growth, and a large dose harmed the roots. A plant needs minerals, but a strong dose of salts can scorch the roots. The plain water jar shows that minerals are needed at all.",
+          "why": "A small dose gave the best growth, and a large dose harmed the roots. A plant needs minerals, but a strong dose of salts can scorch the roots. The plain water jar shows that the seedlings do need minerals.",
           "outcome": 3,
           "how": "e2",
           "context": "In the Seedlings Without Soil test, you grow bean seedlings in plain water, a small dose of fertiliser and a big dose."
         },
         {
           "t": "mcq",
-          "p": "Why is it said that a plant surrounded by air can still starve for nitrogen?",
+          "p": "Why can a plant surrounded by air still be short of nitrogen?",
           "opts": [
-            "Nitrogen gas is locked together and the plant cannot use it until it is fixed",
+            "The atoms in nitrogen gas are locked together, and the plant cannot use the gas until it is fixed",
             "There is no nitrogen in air",
             "Plants breathe only oxygen",
             "Nitrogen is poisonous to plants"
@@ -1269,7 +1269,7 @@
           "t": "truefalse",
           "p": "Plants grown with their roots in water holding only a few mineral salts, and no soil, can grow well and make seeds.",
           "a": true,
-          "why": "True. Julius Sachs and Wilhelm Knop showed this around 1860. The plant makes their own food from carbon dioxide and water, and takes only minerals and water from the roots.",
+          "why": "True. Julius Sachs and Wilhelm Knop showed this around 1860. The plant makes their own food from carbon dioxide and water, and takes in only minerals and water through the roots.",
           "outcome": 3
         },
         {
@@ -1549,7 +1549,7 @@
             ]
           ],
           "a": "pairs as given",
-          "why": "Each plant has its own solution. Rice and mangrove solve the problem of no air in mud. The groundnut solves the problem of low nitrogen. The tree uses help from fungi.",
+          "why": "Each plant has their own solution. Rice and mangrove solve the problem of no air in mud. The groundnut solves the problem of low nitrogen. The tree uses help from fungi.",
           "outcome": 0
         },
         {
@@ -1696,7 +1696,7 @@
             "Some carbon passes through the fungus"
           ],
           "a": 0,
-          "why": "The first three statements describe what was measured. The fourth claim says why the carbon moved. Moving a small amount of carbon does not show that a tree acts on purpose to help their young.",
+          "why": "Three of the statements describe what was measured. The claim that old trees care for their own young on purpose says why the carbon moved. Moving a small amount of carbon does not show that a tree acts on purpose to help their young.",
           "outcome": 6
         },
         {
@@ -1792,7 +1792,7 @@
           "mins": 4,
           "do": "Show the soil, the cup and the water. Ask for a guess and a reason. Write the guess at the top of the table.",
           "say": "Here is 100 millilitres of dry soil. We will pour water on it until the water just reaches the top. How much water will go in? Why do you think so?",
-          "kid": "Dry soil in a cup. How much water goes in before it reaches the top? Why?",
+          "kid": "Here is dry soil in a cup. How much water will go in before it reaches the top? Why?",
           "ask": [
             {
               "q": "Where do you think the water will go?",
@@ -1803,7 +1803,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. One child with a parent: the child pours and watches, the parent reads the jug. Two to four children: one cup each, with the parent as the reader; compare the numbers on the board. Any guess with a reason is a good start. Most children guess a small amount, such as 10 to 25 millilitres.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Most children guess a small amount, such as 10 to 25 millilitres. With one child, the child pours and watches, and the parent reads the jug. With two to four children, give each child one cup, let the parent read the jug, and compare the numbers on the board.",
           "context": "This is the first step of the Soil Breath test. You guess before you test."
         },
         {
@@ -1812,7 +1812,7 @@
           "do": "Pour 100 millilitres of water into a clear cup and mark the level with a marker. Pour the water out and dry the cup. Make two more cups the same way.",
           "say": "Measure 100 millilitres of water into a cup. Mark where it reaches. Pour it out and dry the cup. Do that for all three cups.",
           "kid": "Fill a cup with 100 millilitres of water. Mark the line. Pour it out.",
-          "parent": "If you have no measuring jug, count tablespoons. Seven level tablespoons is about 100 millilitres. Spoons vary, so use the same spoon for every measure, and if it is not 15 millilitres, count spoonfuls and compare them out of the number that filled the line. The three cups must be the same size and shape.",
+          "parent": "If you have no measuring jug, count tablespoons. Seven level tablespoons is about 100 millilitres. Spoons vary, so use the same spoon every time. If your spoon is not 15 millilitres, count how many spoonfuls fill the cup to the line. Later, compare the spoonfuls of water that go into the soil with that number. The three cups must be the same size and shape.",
           "check": {
             "t": "mcq",
             "q": "Why do we mark all three cups at exactly 100 millilitres?",
@@ -1830,7 +1830,7 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Fill cup one with dry garden soil to the line. Tap twice. Pour water from the jug slowly. Stop when a shine of water shows at the top. Write down how much you used.",
+          "do": "Fill cup one with dry garden soil to the line. Tap the cup twice. Pour water from the jug slowly. Stop when a shine of water shows at the top. Write down how much you used.",
           "say": "Pour slowly, a little at a time. Watch for bubbles. Stop when you see a shine of water on top. How much did you pour in?",
           "kid": "Pour water slowly onto the soil. Watch the bubbles. Stop at the shine.",
           "ask": [
@@ -1843,7 +1843,7 @@
               ]
             }
           ],
-          "parent": "Read the amount from the jug: the water you started with minus the water left. Typical: garden soil takes about 35 to 50 millilitres, but your soil may differ and a jug is only accurate to about 5 to 10 millilitres. Pour a little, wait for it to sink, then pour more; the last bit needs patience. Tip: each child tests one cup, then swap and repeat the same cup to see if you get the same number. The soil may need a minute to soak, so pour slowly and wait. If water sits on top at once and will not sink, crumble the soil finer and try again. Write down any result as it is.",
+          "parent": "Read the amount from the jug: the water you started with minus the water left. Garden soil usually takes about 35 to 50 millilitres, but your soil may differ, and a jug is only accurate to about 5 to 10 millilitres. Pour a little, wait for it to sink in, then pour more. The soil may need a minute to soak, and the last bit needs patience. If water sits on top at once and will not sink, crumble the soil finer and try again. With more than one child, each child tests one cup. Then they swap and repeat the same test to see if they get the same number. Write down any result as it is.",
           "check": {
             "t": "mcq",
             "q": "The cup holds 100 millilitres of soil, and 45 millilitres of water went in before it reached the top. What does the 45 millilitres tell you?",
@@ -1874,14 +1874,14 @@
               ]
             }
           ],
-          "parent": "Typical: sand takes about 30 to 40 millilitres, and packed soil takes a little less than loose soil, often 3 to 10 millilitres less. Packing sand changes it only a little, and that is a real result. If the packed cup gives the same number as the loose one, repeat both and press harder. A gardener's path or a trampled field is like packed soil.",
+          "parent": "Sand usually takes about 30 to 40 millilitres. Packed soil takes a little less than loose soil, often 3 to 10 millilitres less. Packing sand changes it only a little, and that is a real result. If the packed cup gives the same number as the loose one, repeat both and press harder. A gardener's path or a trampled field is like packed soil.",
           "context": "In this step, you test another soil and a packed soil, and compare them."
         },
         {
           "id": "s5",
           "mins": 6,
-          "do": "Write down all the results. Ask your child for a claim, the evidence and the reasoning. Draw one cup with its bubbles.",
-          "say": "What did you find? What did you see to show it? Why does that matter for a root in a pot?",
+          "do": "Write down all the results. Ask your child what they found (the claim), what they saw that shows it (the evidence) and why it happens (the reasoning). Draw one cup with its bubbles.",
+          "say": "What did you find? What did you see that shows it? Why does that matter for a root in a pot?",
           "kid": "What did you find? What did you see? Why does it matter for roots?",
           "ask": [
             {
@@ -1953,7 +1953,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up reads the label and measures the fertiliser, because it can irritate eyes and skin. Keep it away from the mouth, and wash hands after touching the jars. Do not drink the water. Raw rajma seeds and sprouts are poisonous if eaten, so do not taste them, and cook none of this batch for food.",
+      "safety": "A grown-up reads the label and measures the fertiliser, because it can irritate eyes and skin. Keep it away from the mouth, and wash hands after touching the jars. Do not drink the water. Raw rajma seeds and sprouts are poisonous if eaten, so do not taste them, and do not cook any of these beans for food.",
       "record": "Counting from the day you soak the seeds, on days 4, 8, 12 and 18, measure the tallest shoot in each jar, match the leaf colour to a crayon, and note any brown or soft roots. Draw the three jars at the end.",
       "context": "In this experiment, you grow bean seedlings with their roots in water, with no soil. You find out if they need minerals, and if more fertiliser is better.",
       "setup": [
@@ -1980,7 +1980,7 @@
           "mins": 5,
           "do": "Show the seeds, the jars and the fertiliser. Ask for a guess and a reason. Write the guess at the top of the table.",
           "say": "We will grow beans with their roots in water, with no soil. One jar has plain water. One has a little fertiliser. One has a lot. Which will grow best? Why?",
-          "kid": "Beans in water, no soil. Plain, a little fertiliser, or a lot. Which grows best? Why?",
+          "kid": "Beans will grow in water with no soil. One jar has plain water, one has a little fertiliser and one has a lot. Which will grow best? Why?",
           "ask": [
             {
               "q": "Do you think a bean can grow in plain water? For how long?",
@@ -2000,7 +2000,7 @@
           "do": "Soak the rajma seeds for 6 hours. Wrap them in a damp cloth. Keep the cloth damp for 3 days, until each seed has a white root 2 to 3 centimetres long.",
           "say": "Soak the seeds. Wrap them in a damp cloth. Keep the cloth damp. After three days, you will see white roots.",
           "kid": "Soak the beans. Wrap them in a damp cloth. Wait three days.",
-          "parent": "Choose nine seeds with matching roots. Rinse the cloth once a day with clean water. If a seed turns soft or smells sour, throw that seed away. Make a few more than nine, in case some do not sprout.",
+          "parent": "Sprout a few more than nine seeds, in case some do not sprout. Rinse the cloth once a day with clean water. If a seed turns soft or smells sour, throw that seed away. At the end, choose nine seeds with matching roots.",
           "wait": "Wait 3 days for the roots",
           "context": "In this step, you sprout the beans so that they have roots."
         },
@@ -2011,7 +2011,7 @@
           "do": "A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water. Fill jar A with 300 millilitres of low-mineral water only.",
           "say": "Jar A gets plain low-mineral water. Jar C gets the strong solution, double the label dose. Jar B gets one quarter of that, which is half the label dose. A grown-up measures. Mark the jars.",
           "kid": "A grown-up measures the fertiliser. Mark the jars A, B and C.",
-          "parent": "Labels usually give a dose per litre, so double it for the strong solution (for example, 2.5 millilitres per litre becomes 5). Measure carefully, because the point of the test is the difference in dose. Ordinary tap water already holds some minerals, so jar A is only low in minerals, not empty, and the difference may be smaller. Wrap each jar in dark paper to stop green slime growing on the roots. One child with a parent: the child sets up and measures all three jars. Two to four children: one jar each, then compare. Tape the card over each jar and push the sprouts through, so that the seed rests on the card and only the roots reach the water. Leave a small air gap between the water and the card, because roots need air too. Top up with the same solution when the water drops.",
+          "parent": "Labels usually give a dose per litre, so double it for the strong solution (for example, 2.5 millilitres per litre becomes 5). Measure carefully, because the point of the test is the difference in dose. Ordinary tap water already holds some minerals, so jar A is only low in minerals, not empty, and the difference may be smaller. Wrap each jar in dark paper to stop green slime growing on the roots. Tape the card over each jar and push the sprouts through, so that the seed rests on the card and only the roots reach the water. Leave a small air gap between the water and the card, because roots need air too. Top up with the same solution when the water drops. With one child, the child sets up and measures all three jars. With two to four children, each child takes one jar, and then they compare.",
           "check": {
             "t": "mcq",
             "q": "Why do we leave a small air gap between the water and the card?",
@@ -2042,13 +2042,13 @@
               ]
             }
           ],
-          "parent": "Seeds have their own store, so the three jars may look alike for the first week or so. Differences usually appear in the second to third week, in about 2 to 4 weeks for full signs. In hot weather, change all the water and solutions every 3 days, otherwise every 5 days, with the same doses. Use a bright window, because in a dim room all three jars stay pale. If a root turns slimy or smells sour, rinse it and note it.",
+          "parent": "Seeds have their own store, so the three jars may look alike for the first week or so. Differences usually start to show in the second or third week, and the full signs can take 2 to 4 weeks. Change all the water and solutions every 5 days, or every 3 days in hot weather, with the same doses. Use a bright window, because in a dim room all three jars stay pale. If a root turns slimy or smells sour, rinse the root and write it down.",
           "context": "In this step, you check the seedlings as they grow and write the measurements."
         },
         {
           "id": "s5",
           "mins": 10,
-          "do": "On day 18, measure and match the colours again. Check the roots. Draw the three jars. Write a claim, evidence and reasoning.",
+          "do": "On day 18, measure and match the colours again. Check the roots. Draw the three jars. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).",
           "say": "Compare the three jars. Which seedlings look healthiest? What happened to the roots in jar C? What does this show?",
           "kid": "Compare the three jars. Check the roots. Which grew best?",
           "ask": [
@@ -2073,8 +2073,8 @@
             "a": 0,
             "why": "Water alone gives the plant no nitrogen, phosphorus or potassium. The seed held a small store that lasts a while. When it runs out, the seedling is short of minerals and turns pale."
           },
-          "parent": "If all three jars still look alike on day 18, the seeds' store may have lasted. Leave them up to day 28, with a measure on days 22 and 28, or repeat with smaller seeds such as moong. That is also a real result. Jar C may look as good as jar B, because a houseplant fertiliser at double dose does not always burn roots. That is a real result: the harm starts at a much stronger dose, which a child should not handle alone.",
-          "think": "A plant in a field gets minerals from soil that has been rotting leaves for years. What does the soil give that plain water does not?",
+          "parent": "If all three jars still look alike on day 18, the seeds' store may have lasted. That is a real result too. Leave the jars up to day 28 and measure on days 22 and 28, or repeat with smaller seeds such as moong. Jar C may look as good as jar B, because a houseplant fertiliser at double dose does not always burn roots. That is also a real result: the harm starts at a much stronger dose, which a child should not handle alone.",
+          "think": "A plant in a field gets minerals from soil where leaves have been rotting for years. What does the soil give that plain water does not?",
           "context": "In this step, you compare the three jars at the end and say what minerals do."
         }
       ],
@@ -2102,7 +2102,7 @@
         {
           "day": 18,
           "mins": 15,
-          "what": "Measure, check the roots, draw the jars and write the claim, evidence and reasoning."
+          "what": "Measure, check the roots and draw the jars. Write what you found, what you saw that shows it, and why it happened."
         }
       ]
     },
@@ -2171,7 +2171,7 @@
           "mins": 5,
           "do": "Show the cuttings and the jars. Ask for a guess and a reason. Write the guess at the top of the table.",
           "say": "Boiling water drives out its air. Oil on top keeps air out. Will roots grow well in water with no air? Why do you think so?",
-          "kid": "Water with no air, and water with air. Where do roots grow best? Why?",
+          "kid": "One jar has water with no air. The other has water with air. In which jar will roots grow better? Why?",
           "ask": [
             {
               "q": "Do you think roots need air? How could we find out?",
@@ -2213,7 +2213,7 @@
           "do": "Put five cuttings in each jar. Pour in the cooled water gently. Add a thin layer of oil on the top of jar A. Leave both jars in the same bright place.",
           "say": "Put five cuttings in each jar. Pour in the water gently. Add the oil to jar A only. Put both jars side by side.",
           "kid": "Five cuttings in each jar. Add oil to jar A only.",
-          "parent": "Cut each cutting just below a joint, and remove the bottom leaves so that none sit in the water. Pour the water slowly down the side of the jar to keep air out. Stir jar B gently with a clean spoon each day for about 30 seconds, to let air in. Do not touch jar A. Put the oil in after the cuttings, so that the oil does not coat the stems when you push them in. One child with a parent: the child sets up both jars and does the daily stir. Two to four children: each child takes one cutting in each jar, labels it with a tag, and measures their own.",
+          "parent": "Cut each cutting just below a joint, and remove the bottom leaves so that none sit in the water. Pour the water slowly down the side of the jar to keep air out. Put the oil in after the cuttings, so that the oil does not coat the stems when you push them in. Stir jar B gently with a clean spoon each day for about 30 seconds, to let air in. Do not touch jar A. With one child, the child sets up both jars and does the daily stir. With two to four children, each child takes one cutting in each jar, labels them with a tag, and measures their own.",
           "check": {
             "t": "mcq",
             "q": "What is the oil layer for?",
@@ -2244,13 +2244,13 @@
               ]
             }
           ],
-          "parent": "Roots may take 5 to 7 days to show, sooner in hot weather. Mint and coleus root easily even in still water, and a cutting can carry some air down inside its stem, so the difference may be small, or none. That is a real result: say so, and repeat with more cuttings or a slower rooting plant. Do not top up jar A, because new water brings in air. If the roots in jar A look brown or soft, or the water smells sour, that is a sign of too little air.",
+          "parent": "Roots may take 5 to 7 days to show, sooner in hot weather. Mint and coleus root easily even in still water, and a cutting can carry some air down inside the stem, so the difference may be small, or none. That is a real result: say so, and repeat with more cuttings or a plant that roots more slowly. Do not top up jar A, because new water brings in air. If the roots in jar A look brown or soft, or the water smells sour, that is a sign of too little air.",
           "context": "In this step, you check the jars and write what you see."
         },
         {
           "id": "s5",
           "mins": 8,
-          "do": "On day 10 to 12, make the final count and measure. Draw one cutting from each jar. Write the claim, evidence and reasoning.",
+          "do": "Between day 10 and day 12, count and measure the roots one last time. Draw one cutting from each jar. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).",
           "say": "Which jar grew more and longer roots? What does that tell us about roots and air?",
           "kid": "Which jar has more roots? What does that tell you about air?",
           "ask": [
@@ -2273,7 +2273,7 @@
               "Boiled water is poisonous"
             ],
             "a": 0,
-            "why": "The only difference was the air in the water. The roots with more air grew better, so roots need oxygen. Oil is not poisonous in this test, because it sat on the top and did not touch the roots."
+            "why": "The only difference was the air in the water. The roots with more air grew better, so roots need oxygen. The oil did not poison the roots, because it sat on top of the water and did not touch them."
           },
           "think": "A paddy plant grows in water for months. How might the plant get air to the roots?",
           "context": "In this step, you compare the two jars and say what roots need."
@@ -2298,7 +2298,7 @@
         {
           "day": 10,
           "mins": 10,
-          "what": "Final count, measurement, drawing and the claim, evidence and reasoning."
+          "what": "Count and measure the roots one last time. Draw a cutting from each jar. Write what you found, what you saw that shows it, and why it happened."
         }
       ]
     }
@@ -2361,7 +2361,7 @@
           "mins": 5,
           "do": "Ask your child to guess how many layers the soil will make. Write the guess.",
           "say": "We will shake soil in water and wait. How many layers do you think will form? What will each be made of? Why do you think so?",
-          "kid": "Soil in water. How many layers will you see? Why?",
+          "kid": "You will shake soil in water. How many layers will you see? Why?",
           "ask": [
             {
               "q": "Do you think the heavy bits or the light bits will settle first?",
@@ -2372,7 +2372,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. For more to compare, use two soils (garden soil and sandy or red soil) in two jars. Two to four children can take one jar each, from different places. Most soils make three layers of mineral grains, with floating bits of dead leaf on top.",
+          "parent": "Do not correct the guess. If you want more to compare, use two soils (garden soil and sandy or red soil) in two jars. Two to four children can take one jar each, with soil from different places. Most soils make three layers of mineral grains, with floating bits of dead leaf on top.",
           "context": "This is the first step of Soil in a Jar. You guess before you test."
         },
         {
@@ -2466,8 +2466,8 @@
           "mins": 5,
           "do": "Ask your child to guess how many different kinds of living thing will be in one spoonful. Write the guess.",
           "say": "We will look at one spoonful of soil. How many different living things do you think we will find? Why do you think so?",
-          "kid": "A spoonful of soil. How many living things will you find? Guess.",
-          "parent": "Do not correct the guess. Use a spoon and never your fingers, and stay away from anything that stings or bites. Put every creature back where you found it. No garden: use a park, the soil from under a plant pot, or leaf litter from beneath a tree. In hot dry weather, look under stones, pots or damp leaves. One child: do it alone with a parent watching. Two to four children: one sheet each, from different spots, and compare.",
+          "kid": "Here is a spoonful of soil. How many living things will you find? Guess.",
+          "parent": "Do not correct the guess. Use a spoon and never your fingers, and stay away from anything that stings or bites. Put every creature back where you found them. If you have no garden, use a park, the soil from under a plant pot, or leaf litter from beneath a tree. In hot dry weather, look under stones, pots or damp leaves. One child can do it alone with a parent watching. Two to four children can take one sheet each, with soil from different spots, and compare.",
           "context": "This is the first step of Who Lives in the Soil? You guess before you look."
         },
         {
@@ -2567,7 +2567,7 @@
           "do": "Show the plant and ask your child what lives on the roots. Ask for a guess and a reason. Write the answer.",
           "say": "Some plants have helpers on their roots. What might you see? What do you think the helpers do?",
           "kid": "Look at the roots. What might live there? Guess.",
-          "parent": "Do not correct the guess. You can get a whole groundnut plant from a market in the groundnut season, or from a field. Moong or chana plants grown in garden soil for five weeks can show small nodules. Potting mix from a bag often has no bacteria, and so no nodules. This is the activity most likely to fail at home, so check a market or a farmer's field for a pulled-up plant. If you find no nodules, look at the pictures and say honestly what you did not see. Two to four children: share one plant and one magnifier, taking turns to count.",
+          "parent": "Do not correct the guess. You can get a whole groundnut plant from a market in the groundnut season, or from a field. Moong or chana plants grown in garden soil for five weeks can show small nodules. Potting mix from a bag often has no bacteria, and so no nodules. This is the activity most likely to fail at home, so check a market or a farmer's field for a pulled-up plant. If you find no nodules, look at the pictures and say honestly what you did not see. Two to four children can share one plant and one magnifier, and take turns to count.",
           "context": "This is the first step of Find the Pink Factories. You guess before you look."
         },
         {
@@ -2673,7 +2673,7 @@
           "do": "Draw a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test.",
           "say": "We will check five plants like a plant doctor. For each one, look at the leaves, feel the soil and think about the light.",
           "kid": "Draw a table. Look at five plants. Do the finger test on each soil.",
-          "parent": "Play Plant Doctor first, or copy a few clues from its tokens. Two to four children: each takes different plants, then compare guesses. Only touch plants that belong to you or that you have permission to touch. For the finger test, push a clean finger two knuckles deep into the soil, away from the stem. Wash hands after.",
+          "parent": "Play Plant Doctor first, or copy a few clues from its tokens. Two to four children can each take different plants, and then compare guesses. Only touch plants that belong to you or that you have permission to touch. For the finger test, push a clean finger two knuckles deep into the soil, away from the stem. Wash hands afterwards.",
           "context": "This is the first step of the Plant Check-up Walk. You set up your table."
         },
         {
@@ -2697,10 +2697,10 @@
             "t": "mcq",
             "q": "You find a plant with yellow leaves and soaked soil that smells sour. What should you check first?",
             "options": [
-              "Whether the pot drains, and the roots are drowning",
+              "Whether the pot drains, and whether the roots are drowning",
               "Whether to add more fertiliser",
-              "Whether to water it more",
-              "Whether to move it into the dark"
+              "Whether to water the plant more",
+              "Whether to move the plant into the dark"
             ],
             "a": 0,
             "why": "Soaked, sour soil points to roots without air. More fertiliser or water would make things worse. Fix the drainage first."
@@ -2746,7 +2746,7 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Make five notches in the rim of a bottle at different heights. Pour water to find the limit. Mend the lowest notch and pour again."
+          "what": "Make five notches in the rim of a bottle at different heights. Pour water to find the limit. Tape over the lowest notch and pour again."
         }
       ],
       "record": "Draw the bottle with its five notches labelled with minerals. Mark where the water level stopped each time. Count how many cups of water the bottle held each time.",
@@ -2771,7 +2771,7 @@
           "mins": 5,
           "do": "Show the bottle and ask your child to guess where the water will spill. Write the guess.",
           "say": "Each notch is a mineral. The water is how well the plant can grow. When we fill the bottle, where will the water spill? Why do you think so?",
-          "kid": "The water level is plant growth. Where will it spill? Why?",
+          "kid": "The water level stands for how well the plant grows. Where will the water spill? Why?",
           "ask": [
             {
               "q": "If you pour more water in, will the water level go higher than the lowest notch?",
@@ -2782,7 +2782,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Make the notches at five clearly different heights, 1 to 2 centimetres apart, on the rim of the cut bottle. Dry the outside before taping. One child with a parent: the child pours, the parent counts. Two to four children: one pours, one tapes, one counts cups and one records, or each makes a bottle with different notch heights and predicts. Label them N, P, K, Ca and Fe.",
+          "parent": "Do not correct the guess. Make the notches at five clearly different heights, 1 to 2 centimetres apart, on the rim of the cut bottle. Label the notches N, P, K, Ca and Fe. Dry the outside before taping. With one child, the child pours and the parent counts. With two to four children, one pours, one tapes, one counts cups and one records. Or each child makes a bottle with different notch heights and predicts where the water will spill.",
           "context": "This is the first step of Liebig's Bottle. You guess before you test."
         },
         {
@@ -2813,7 +2813,7 @@
             "a": 0,
             "why": "The level stays at the lowest notch. Adding more of a mineral that is already plentiful does not help until the shortest one is supplied."
           },
-          "context": "In this step, you pour water and find the limit, then mend the lowest notch."
+          "context": "In this step, you pour water and find the limit, then tape over the lowest notch."
         },
         {
           "id": "s3",
@@ -2850,7 +2850,7 @@
           "buy": "b-lens"
         }
       ],
-      "safety": "A grown-up cuts the stem with the knife. Never put a raw lotus stem in your mouth, because raw water plants can carry germs and parasites; wash hands after. Blow through a clean drinking straw, not the stem.",
+      "safety": "A grown-up cuts the stem with the knife. Never put a raw lotus stem in your mouth, because raw water plants can carry germs and parasites. Wash hands afterwards. Blow through a clean drinking straw, not the stem.",
       "schedule": [
         {
           "day": 1,
@@ -2879,7 +2879,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Show the lotus stem and ask what the holes might be for. Write the guess.",
-          "say": "A lotus grows with its roots in mud, where there is almost no air. How might the roots get air? Why do you think so?",
+          "say": "A lotus grows with their roots in mud, where there is almost no air. How might the roots get air? Why do you think so?",
           "kid": "A lotus has roots in mud. How do the roots get air? Guess.",
           "parent": "Do not correct the guess. If you cannot find lotus stem, look at pictures. A slice of a banana stem, or the leaf stalk of a taro, shows big air spaces too.",
           "context": "This is the first step of Air Pipes in a Lotus Stem. You guess before you look."
@@ -2888,7 +2888,7 @@
           "id": "s2",
           "mins": 8,
           "adult": true,
-          "do": "A grown-up cuts a slice. Count the holes. Then the grown-up cuts both ends of a 10 centimetre piece, between two joints, fresh. Seal a straw into one end with a ball of atta dough. Put the other end into the water and blow gently through the straw.",
+          "do": "A grown-up cuts a slice. Count the holes. Then the grown-up cuts a fresh piece 10 centimetres long from between two joints, so that both ends are newly cut. Seal a straw into one end with a ball of atta dough. Put the other end into the water and blow gently through the straw.",
           "say": "Count the holes in the slice. Now seal the straw into one end and put the other end into the water. Blow gently into the straw. What happens?",
           "kid": "A grown-up cuts the stem. Count the holes. Blow through the straw into the stem in water.",
           "ask": [
@@ -2913,7 +2913,7 @@
             "a": 0,
             "why": "Mud has very little oxygen, but roots still need it. The air channels carry oxygen from the leaves above the water down to the roots."
           },
-          "parent": "Cut pieces fresh, because the cut ends dry out. Blow gently. Air passes along a segment but joints often block it, so use one piece between two joints. If no bubbles appear, try another piece, or cut off a little more at the end. A taro (arbi) leaf stalk also works. One child with a parent: the parent cuts and seals, the child blows. Two to four children: take turns, each with their own clean straw.",
+          "parent": "Cut pieces fresh, because the cut ends dry out. Blow gently. Air passes along a segment but joints often block it, so use one piece between two joints. If no bubbles appear, try another piece, or cut off a little more at the end. A taro (arbi) leaf stalk also works. With one child, the parent cuts and seals, and the child blows. Two to four children take turns, each with their own clean straw.",
           "context": "In this step, you look at the holes and blow through the stem."
         },
         {
@@ -2960,7 +2960,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up cuts the bottle and makes the holes. Wash hands after touching compost. Do not put your nose close to the heap. Sniff gently from a distance. Keep it away from food and from small children who might put it in their mouths. Anyone with asthma or a mould allergy should not handle the compost, and a grown-up should wear a mask when stirring it if the heap looks mouldy.",
+      "safety": "A grown-up cuts the bottle and makes the holes. Wash hands after touching compost. Do not put your nose close to the heap. Sniff gently from a distance. Keep the bottle away from food and from small children who might put the compost in their mouths. Anyone with asthma or a mould allergy should not handle the compost, and a grown-up should wear a mask when stirring it if the heap looks mouldy.",
       "schedule": [
         {
           "day": 1,
@@ -3010,7 +3010,7 @@
           "mins": 5,
           "do": "Show the peels, the leaves and the bottle. Ask for a guess and a reason about what will happen over five weeks. Write it down.",
           "say": "We will fill a bottle with peels and leaves and leave it for five weeks. What do you think will happen? Why do you think so?",
-          "kid": "Peels and leaves in a bottle for five weeks. What will happen? Why?",
+          "kid": "We will leave peels and leaves in a bottle for five weeks. What will happen? Why?",
           "ask": [
             {
               "q": "Who do you think will do the work in the bottle?",
@@ -3029,7 +3029,7 @@
           "mins": 25,
           "adult": true,
           "do": "A grown-up cuts the bottle and pokes holes. Layer a handful of dry leaves, a handful of chopped peels, and a handful of soil. Repeat. Spray with water until damp.",
-          "say": "Build it in layers. Dry leaves, peels, soil. Repeat. Spray with water until it feels like a wrung-out sponge.",
+          "say": "Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge.",
           "kid": "A grown-up cuts the bottle. Add layers of leaves, peels and soil. Spray with water.",
           "parent": "Cut the peels small, which helps them rot faster. Mix about two parts dry leaves to one part peels. The heap should be damp but not dripping. If it is too wet, it will smell sour, because the gaps fill with water and run out of air. Add dry leaves, and stir.",
           "check": {
@@ -3066,12 +3066,12 @@
               "q": "The heap has shrunk and turned dark. Where did the material go?",
               "good": [
                 "Some became carbon dioxide and water that went into the air.",
-                "The decomposers ate and breathed it out.",
+                "The decomposers ate it and breathed it out.",
                 "Some turned into dark compost."
               ]
             }
           ],
-          "parent": "Typical: the heap shrinks, turns dark and smells earthy, and the peels are mostly gone, within 4 to 8 weeks in warm weather. A small bottle may need 2 to 3 months to finish. It may be slower in cool weather. Small flies can appear. Cover it with cloth and add dry leaves. If it smells like rotten eggs, the heap is too wet and short of air. Stir and add dry leaves. The compost is ready when you cannot see the peels any more.",
+          "parent": "In warm weather, the heap usually shrinks, turns dark and smells earthy within 4 to 8 weeks, and the peels are mostly gone. A small bottle may need 2 to 3 months to finish. It may be slower in cool weather. If small flies appear, cover the bottle with cloth and add dry leaves. If the heap smells like rotten eggs, it is too wet and short of air. Stir it and add dry leaves. The compost is ready when you cannot see the peels any more.",
           "think": "The heap got smaller. The matter was not destroyed. Where did the carbon in the peels go?",
           "context": "In this step, you check the compost bottle through the weeks and say what the decomposers did."
         }
@@ -3127,9 +3127,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem and the rules together. Ask your child to sketch two or three pot designs. Write the guess of how much water will drain.",
+          "do": "Read the problem and the rules together. Ask your child to sketch two or three pot designs. Write down a guess of how much water will drain out.",
           "say": "Your pot must let extra water out, but keep some for a dry day. How could you do both? Draw some ideas first.",
-          "kid": "A pot that drains but still holds water. Draw some ideas first.",
+          "kid": "Your pot must drain but still hold some water. Draw some ideas first.",
           "ask": [
             {
               "q": "What makes water drain out of a pot? What makes it stay in?",
@@ -3158,7 +3158,7 @@
               ]
             }
           ],
-          "parent": "The water that stays is 300 minus what drained out, though a little will cling to the cup and the tray. Ask a grown-up to cut and poke holes. Pour slowly onto the middle of the soil, because water that runs over the rim counts as drained. Typical result: a plain bottle with a few holes drains about 50 to 150 millilitres. More holes or sand drain more; coconut husk or cocopeat holds more. Two to four children: each builds a pot, then compare. One child: build a second pot after the first. Smooth any sharp edges. Let the soil start dry each time, or note if it started damp.",
+          "parent": "The water that stays is 300 minus what drained out, though a little will cling to the cup and the tray. A grown-up cuts the pot and pokes the holes, and smooths any sharp edges. Pour slowly onto the middle of the soil, because water that runs over the rim counts as drained. A plain bottle with a few holes usually drains about 50 to 150 millilitres. More holes or sand drain more. Coconut husk or cocopeat holds more. Let the soil start dry each time, or note if it started damp. Two to four children can each build a pot, and then compare. One child can build a second pot after the first.",
           "check": {
             "t": "mcq",
             "q": "In a pot, 300 millilitres of water were poured in, and 220 millilitres drained out. About how much water stayed in the soil?",
@@ -3250,8 +3250,8 @@
           "id": "s2",
           "mins": 15,
           "do": "Try a plan. Write each season's crop, the nitrogen left and the harvest points. Add up the harvest. Then try a second plan.",
-          "say": "Go season by season. Take beans away for a cereal and add beans for a dal. Never let the beans fall below zero. Add the harvest points.",
-          "kid": "Plan six seasons. Track the beans. Add the harvest points.",
+          "say": "Use the dried beans or buttons as nitrogen points. Go season by season. Take beans away for a cereal and add beans for a dal. Never let the beans fall below zero. Add up the harvest points.",
+          "kid": "Plan six seasons. Count the nitrogen points with your beans. Add up the harvest points.",
           "ask": [
             {
               "q": "What was your total? Could you beat it?",
@@ -3494,7 +3494,7 @@
       "art": "Little heaps of dark soil beside a worm hole on a damp path."
     },
     {
-      "text": "A paddy field in water, where the plants grow with their feet flooded.",
+      "text": "A paddy field in water, where the plants grow with their roots under water.",
       "art": "A paddy field flooded with green rice plants and a farmer at the edge."
     },
     {
@@ -3575,14 +3575,14 @@
     },
     {
       "j": "What is a fungus's favourite game?",
-      "a": "Hide and seek, and underground it is the champion."
+      "a": "Hide and seek, and underground the fungus is the champion."
     },
     {
       "j": "Why did the compost heap blush?",
       "a": "It was caught turning over a new leaf."
     },
     {
-      "j": "How does a mushroom pay its bills?",
+      "j": "How does a mushroom pay the bills?",
       "a": "With sugar. The tree is the bank."
     },
     {
@@ -3633,9 +3633,9 @@
       "why_maths": "Dividing the price by the nitrogen in the bag compares bags fairly, when the shortest mineral is nitrogen."
     },
     {
-      "problem": "In the Seedlings Without Soil test, the tallest shoot in jar B was 3 centimetres on day 4, 8 centimetres on day 8, 14 centimetres on day 12 and 22 centimetres on day 18. How much did it grow between each check? Between which two checks did it grow fastest each day?",
-      "answer": "It grew 5, 6 and 8 centimetres. It grew fastest each day between day 8 and day 12.",
-      "explain": "8 take away 3 is 5. 14 take away 8 is 6. 22 take away 14 is 8. The gaps are 4 days, 4 days and 6 days. 5 over 4 days is 1.25 centimetres a day. 6 over 4 days is 1.5. 8 over 6 days is about 1.3. So the fastest was between day 8 and day 12.",
+      "problem": "In the Seedlings Without Soil test, the tallest shoot in jar B was 3 centimetres on day 4, 8 centimetres on day 8, 14 centimetres on day 12 and 22 centimetres on day 18. How much did the shoot grow between each check? Between which two checks did the shoot grow the most per day?",
+      "answer": "The shoot grew 5, 6 and 8 centimetres. The shoot grew the most per day between day 8 and day 12.",
+      "explain": "8 take away 3 is 5. 14 take away 8 is 6. 22 take away 14 is 8. The checks are 4 days, 4 days and 6 days apart. 5 over 4 days is 1.25 centimetres a day. 6 over 4 days is 1.5. 8 over 6 days is about 1.3. So the fastest was between day 8 and day 12.",
       "math_unit": "math.data.line-graphs.L4",
       "how": "e2",
       "context": "In the Seedlings Without Soil test, you measure the tallest shoot in each jar on several days.",
@@ -3653,7 +3653,7 @@
     {
       "problem": "A fertiliser label says to use 5 millilitres for every litre of water. How many millilitres should go into a 300 millilitre jar for the full dose? What about for half of the dose, and for double the dose?",
       "answer": "1.5 millilitres for the full dose, 0.75 for half and 3 for double.",
-      "explain": "300 millilitres is 0.3 of a litre. 5 times 0.3 is 1.5. Half of 1.5 is 0.75, and double 1.5 is 3. So the three jars get 0, 0.75 and 3 millilitres in the test, or in proportion.",
+      "explain": "300 millilitres is 0.3 of a litre. 5 times 0.3 is 1.5. Half of 1.5 is 0.75, and double 1.5 is 3. So with this label, the three jars in the test get 0, 0.75 and 3 millilitres.",
       "math_unit": "math.measurement-basics.standard-units.L4",
       "how": "e2",
       "context": "In the Seedlings Without Soil test, you give one jar a small dose and one a big dose of fertiliser.",
@@ -3886,20 +3886,20 @@
   "roots": {
     "context": "We have found that half of soil is air, that roots breathe, and that plants trade with bacteria and fungi. Now we ask what this says about empty space and about who we depend on.",
     "deep_truth": {
-      "truth": "Water poured on dry soil pushed out bubbles of air. Between a third and a half of each soil was gaps. Roots grow into these gaps and breathe there. So the empty part of soil is as much the plant's home as the grains.",
-      "habit": "We think of soil as the solid stuff, and of the space between the grains as nothing. For a root, the gaps are where the air is, so the nothing is half of the home.",
+      "truth": "In the Soil Breath test, water poured on dry soil pushed out bubbles of air. Between a third and a half of each soil was gaps. Roots grow into these gaps and breathe there. So the gaps in soil are as much the plant's home as the grains.",
+      "habit": "We think of soil as the solid stuff, and of the space between the grains as nothing. For a root, the gaps are where the air is. So what we call nothing is nearly half of the root's home.",
       "evidence": "In the Soil Breath test, 100 millilitres of dry soil took in about 35 to 50 millilitres of water before the water reached the top, and bubbles of air rushed out. Packed soil took in less. A pot with all its gaps full of water drowns the roots. If your own numbers differ, write them down as they are and test again."
     },
     "three": {
-      "who_am_i": "Your lungs also work by having space inside them, full of air. Like soil, a body is partly grains and partly gaps, and the gaps are where the breathing happens.",
+      "who_am_i": "Your lungs also work by having space inside them, full of air. Your body, like soil, is partly solid and partly space, and the breathing happens in the space.",
       "what_is_life": "No living being works alone. A bean has bacteria in her roots, a tree has fungi, and the soil has millions of tiny helpers. Life is a web of trades.",
       "what_is_this_world": "The soil under our feet is half empty space, and that space is full of air and life. What looks solid and still is full of room and movement."
     },
-    "thread": "Soil looks like one solid thing. Pour water on it and half of it is revealed to be air. The roots live in the gaps, and the bacteria and fungi do too. The gaps are not left over. They are where the work happens. Empty space and solid matter turn out to be two parts of one working soil, just as the breathing and the body are two parts of one living plant. The plant also depends on partners they cannot see, who live in the same gaps. Take away the gaps, or the partners, and the plant cannot live.",
+    "thread": "Soil looks like one solid thing. Pour water on it and you find that nearly half of it is air. The roots live in the gaps, and the bacteria and fungi do too. The gaps are not wasted space. They are where the work happens. The gaps and the grains are two parts of one working soil, just as a plant's breathing and a plant's body are two parts of one living plant. The plant also depends on partners they cannot see, who live in the same gaps. Take away the gaps, or the partners, and the plant cannot live.",
     "teachings": [
       {
         "source": "Atharva Veda, Prithvi Sukta (12.1)",
-        "teaching": "The Earth is called a mother, and the verse says, 'The Earth is my mother, and I am her child.'",
+        "teaching": "A verse calls the Earth a mother. It says, 'The Earth is my mother, and I am her child.'",
         "link": "A plant's body is built from air, water and a pinch of the Earth's minerals. We eat plants, so we, too, are built from the Earth's soil."
       },
       {
@@ -3922,7 +3922,7 @@
         "status": "debated"
       },
       {
-        "text": "Whether a cereal crop could be given nodules and fix its own nitrogen is unknown.",
+        "text": "Whether a cereal crop could be given nodules and fix their own nitrogen is unknown.",
         "status": "open"
       }
     ],
