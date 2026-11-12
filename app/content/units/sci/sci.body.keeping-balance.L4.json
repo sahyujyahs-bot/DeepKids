@@ -3,7 +3,7 @@
   "title": "Two pushes make a steady level: sugar, breath, pulse and pupils",
   "level": 4,
   "summary": {
-    "text": "A small bottle of cola holds about six teaspoons of sugar. All the blood in a grown-up holds only about one teaspoon. Yet after the cola, the sugar in the blood hardly moves. The body does it with two opposite pushes. One hormone pulls sugar out of the blood, and another puts it back. You build a bottle that keeps its own water level, race your pulse and breathing back to rest, and watch your pupils correct themselves faster than you can decide anything. A steady level turns out to be a lot of work.",
+    "text": "A small bottle of cola holds about six teaspoons of sugar. All the blood in a grown-up holds only about one teaspoon. Yet after the cola, the sugar in the blood hardly changes. The body does it with two opposite pushes. One hormone pulls sugar out of the blood, and another puts it back. In this unit you build a bottle that keeps its own water level, time how fast your pulse and breathing come back to rest after exercise, and watch your pupils change size before you can decide anything. Keeping a level steady turns out to be a lot of work.",
     "art": "A boy on a tightrope-style wire in a living room, leaning left, with a small bottle of cola on a table below and a single teaspoon of sugar on a saucer beside it."
   },
   "intro": {
@@ -12,7 +12,7 @@
     "art": "A child standing on one leg in a kitchen, with thin arrows drawn on the ankle pointing left and right, and a faint wobbly outline of the foot around it."
   },
   "outcomes": [
-    "I can explain that a steady level is made by two opposite pushes working at once, and not by nothing happening.",
+    "I can explain that a level stays steady because two opposite pushes are working all the time, not because nothing is happening.",
     "I can use a bottle with a hole to show that the bigger a change is, the stronger the push back.",
     "I can describe how insulin and glucagon keep the sugar in my blood steady.",
     "I can explain why we feel the urge to breathe, and measure how my pulse and breathing come back to rest.",
@@ -30,20 +30,20 @@
     },
     {
       "term": "Set point",
-      "meaning": "The level the body is trying to hold. Control systems compare the real level with the set point.",
+      "meaning": "The level the body is trying to hold. The body keeps comparing the real level with the set point.",
       "example": "Your body's set point for warmth is near 37 degrees.",
       "art": "A dial with a green zone in the middle and a small pointer sitting in it."
     },
     {
       "term": "Negative feedback",
       "meaning": "A loop in which a change causes a push in the opposite direction. The bigger the change, the bigger the push back.",
-      "example": "A deeper bottle leaks faster, so the water level stops rising.",
+      "example": "Deeper water in a bottle leaks out of a hole faster, so the water level stops rising.",
       "art": "Two arrows in a circle: an up arrow labelled 'level rises' and a down arrow labelled 'push back'."
     },
     {
       "term": "Dynamic balance",
       "meaning": "A level that stays the same because the flow in and the flow out are equal, while both keep going.",
-      "example": "The water level in a bottle with a hole and a trickle stays steady while water flows through.",
+      "example": "The water level in a bottle with a hole stays steady while water trickles in and leaks out.",
       "art": "A bottle with a trickle entering the top and a thin jet leaving a hole near the base, level line marked."
     },
     {
@@ -115,7 +115,7 @@
     {
       "term": "Overshoot",
       "meaning": "When a correction goes past the right level, because the effect arrives late.",
-      "example": "A hot-and-cold shower tap swings too hot, then too cold, if the water takes time to arrive.",
+      "example": "A shower swings too hot, then too cold, if the hot water takes time to arrive.",
       "art": "A line graph with a wobble: the line goes above the target, below it, then settles."
     }
   ],
@@ -126,7 +126,7 @@
       "definition": "A level stays steady when what comes in equals what goes out. Scientists call this a dynamic balance.",
       "description": "A bottle with a small hole and a slow trickle of water going in fills up to a certain level and stops. The water has not stopped moving. Water pours in at the top and leaks out of the hole at the same speed. If more comes in than goes out, the level rises. If more goes out than comes in, the level falls. It stays flat only when the two are equal. Your body's levels work the same way. Your blood has sugar going in from food and from the liver, and sugar going out into cells. The level is flat because both flows are going all the time.",
       "examples": [
-        "A bucket under a dripping tap with a hole in the bucket.",
+        "A bucket with a hole in it, standing under a dripping tap.",
         "A river that keeps the same shape while its water changes every second.",
         "The sugar in your blood, which stays near one level while meals come and go."
       ],
@@ -137,9 +137,9 @@
       "concept": "Negative feedback: the bigger the change, the bigger the push back",
       "status": "defined",
       "definition": "Negative feedback is a loop in which a change causes a push in the opposite direction, and a bigger change causes a bigger push.",
-      "description": "Why does the water level in the bottle stop at one height and not another? Deeper water pushes harder on the hole, so it leaks out faster. As the level rises, the leak grows, until the leak matches the trickle. The level itself works as the sensor. A body does the same with a hormone or a nerve. When blood sugar rises, the pancreas sends out more insulin. The higher the sugar, the more insulin. That pulls the level back down. In L3 you met the body's warmth loop. This is the same idea, with the push back growing in size with the change.",
+      "description": "Why does the water level in the bottle stop at one height and not another? Deeper water pushes harder on the hole, so it leaks out faster. As the level rises, the leak grows, until the leak matches the trickle. The level itself works as the sensor, the part that notices the change. A body does the same with a hormone or a nerve. When blood sugar rises, the pancreas sends out more insulin. The higher the sugar, the more insulin. That pulls the level back down. The body keeps its warmth steady with the same kind of loop. What is new here is that the push back grows as the change grows.",
       "examples": [
-        "A deeper bottle leaks faster.",
+        "Deeper water leaks out of the bottle's hole faster.",
         "More sugar in the blood brings out more insulin.",
         "A pressure cooker lifts its whistle higher when the steam pushes harder, and lets out more steam."
       ],
@@ -163,7 +163,7 @@
       "concept": "Blood sugar: who puts it in, who takes it out",
       "status": "defined",
       "definition": "Blood sugar is the glucose carried in your blood. A healthy body keeps it within a narrow range, between meals and after them.",
-      "description": "When you eat rice, roti, fruit or a laddu, your gut turns the starch and sugar into glucose, and it enters your blood. Your cells need glucose for energy. Your brain alone uses about a fifth of all the energy your body makes, mostly from glucose. After a meal, special cells in the pancreas, called beta cells, release insulin. Insulin tells muscle, fat and liver cells to take glucose in, and the liver to store it as a starchy store called glycogen. Hours after a meal, when the blood sugar starts to fall, alpha cells in the pancreas release glucagon. It tells the liver to break down glycogen and release glucose. In a grown-up, all the blood holds only about 4 to 5 grams of glucose, about one teaspoon. A child has less blood and so less. Everything that goes in and out of that small amount is steered by the two hormones.",
+      "description": "When you eat rice, roti, fruit or a laddu, your gut turns the starch and sugar into glucose, and it enters your blood. Your cells need glucose for energy. Your brain alone uses about a fifth of all the energy your body makes, mostly from glucose. After a meal, special cells in the pancreas, called beta cells, release insulin. Insulin tells muscle, fat and liver cells to take glucose in. It also tells the liver to keep the glucose as a starchy store called glycogen. Hours after a meal, when the blood sugar starts to fall, alpha cells in the pancreas release glucagon. It tells the liver to break down glycogen and release glucose. In a grown-up, all the blood holds only about 4 to 5 grams of glucose, about one teaspoon. A child has less blood, and so less glucose. Everything that goes in and out of that small amount is steered by the two hormones.",
       "examples": [
         "After a sweet meal, insulin rises and the sugar level comes back down.",
         "After a long gap between meals, glucagon rises and the level does not fall.",
@@ -176,11 +176,11 @@
       "concept": "When the loop breaks: diabetes",
       "status": "defined",
       "definition": "Diabetes is a condition in which the body cannot keep blood sugar steady, because insulin is missing or does not work well.",
-      "description": "In type 1 diabetes, the body's own defence system destroys the beta cells, so the pancreas makes almost no insulin. Without insulin, glucose piles up in the blood and cells go short of it. This begins mostly in childhood or youth. Before 1922 it was often fatal within a year or two. Today people with type 1 diabetes give themselves insulin by injection or from a pump, and check their sugar with sensors, so they do the second push themselves. In type 2 diabetes, insulin is made but the cells respond less well to it, and later the pancreas can tire. It is much more common and is linked to genes, body weight, food and exercise. About 101 million people in India were found to have diabetes in a large 2023 study. Both types can be managed with good care. A doctor should always guide treatment. Rosalyn Yalow, an American scientist, helped show with Solomon Berson in the 1950s that many adults with diabetes have insulin in their blood that is not working well. Dorothy Hodgkin worked out the shape of the insulin molecule in 1969.",
+      "description": "In type 1 diabetes, the body's own defence system destroys the beta cells, so the pancreas makes almost no insulin. Without insulin, glucose piles up in the blood and cells go short of it. This begins mostly in childhood or youth. Before 1922 it was often fatal within a year or two. Today people with type 1 diabetes give themselves insulin by injection or from a pump, and check their sugar with sensors. They do by hand the job that insulin from the pancreas would have done. In type 2 diabetes, insulin is made but the cells respond less well to it, and later the pancreas can tire. It is much more common and is linked to genes, body weight, food and exercise. About 101 million people in India were found to have diabetes in a large 2023 study. Both types can be managed with good care. A doctor should always guide treatment. Rosalyn Yalow, an American scientist, helped show with Solomon Berson in the 1950s that many adults with diabetes have insulin in their blood that is not working well. Dorothy Hodgkin worked out the shape of the insulin molecule in 1969.",
       "examples": [
         "A child with type 1 diabetes injects insulin before meals and checks sugar with a sensor.",
         "A grown-up with type 2 diabetes may take tablets, walk daily and change their food.",
-        "A glucose meter or a sensor is a sensor in a loop that a person completes with insulin."
+        "A glucose meter or a sensor measures the sugar, and the person then takes insulin. Together they make the loop."
       ],
       "art": "A girl wearing a small round sensor on her upper arm, checking a phone with a gentle line graph, with a pen of insulin on the table beside a plate of idli.",
       "perspectives": []
@@ -189,7 +189,7 @@
       "concept": "What makes you want to breathe",
       "status": "defined",
       "definition": "Your urge to breathe is driven mostly by the amount of carbon dioxide in your blood, and only partly by how little oxygen there is.",
-      "description": "Your cells use oxygen and make carbon dioxide all the time. When carbon dioxide builds up in your blood, it makes the blood a little more acidic. Sensors in your brainstem, the part of the brain just above the spinal cord, notice this and speed up your breathing, and breathing out clears the carbon dioxide away. That is why the urge to breathe after holding your breath comes in waves and gets strong before your oxygen is low. Smaller sensors in your neck arteries react to very low oxygen, for example at high altitude. This is also why you should never take big breaths before holding your breath in water. Taking big breaths blows off carbon dioxide, so the urge to breathe comes late, and a person can faint under water without a warning.",
+      "description": "Your cells use oxygen and make carbon dioxide all the time. When carbon dioxide builds up in your blood, it makes the blood a little more acidic. Sensors in your brainstem, the part of the brain just above the spinal cord, notice this and speed up your breathing. Breathing out clears the carbon dioxide away. That is why, when you hold your breath, the urge to breathe comes in waves and gets strong before your oxygen is low. Smaller sensors in your neck arteries react to very low oxygen, for example at high altitude. This is also why you should never take big breaths before holding your breath in water. Taking big breaths blows off carbon dioxide, so the urge to breathe comes late, and a person can faint under water without a warning.",
       "examples": [
         "After running, you breathe fast because your cells made extra carbon dioxide.",
         "When you hold your breath, the urge to breathe grows in waves before you feel faint.",
@@ -215,9 +215,9 @@
       "concept": "Pupils: a fast loop the brain runs without you",
       "status": "defined",
       "definition": "The pupil light reflex is the automatic change in pupil size when the light changes: smaller in bright light and bigger in dim light.",
-      "description": "Light reaches the back of your eye and a signal goes to the brainstem, which sends a message back to two sets of tiny muscles in the coloured part of your eye, the iris. One set, shaped like a ring, makes the pupil smaller. The other set, spread out like the spokes of a wheel, makes it bigger. This is another opposing pair. The whole loop takes less than a second, and you do not have to decide anything. Pupils range from about 2 millimetres in bright light to 8 millimetres in the dark. A pupil can also change when you are surprised, interested or frightened. Doctors shine a small light in the eyes of an injured person to check that this reflex works, because it shows that the brainstem is working.",
+      "description": "Light reaches the back of your eye, and a signal goes to the brainstem. The brainstem sends a message back to two sets of tiny muscles in the iris, the coloured part of your eye. One set, shaped like a ring, makes the pupil smaller. The other set, spread out like the spokes of a wheel, makes it bigger. This is another opposing pair. The whole loop takes less than a second, and you do not have to decide anything. Pupils range from about 2 millimetres in bright light to 8 millimetres in the dark. A pupil can also change when you are surprised, interested or frightened. Doctors shine a small light in the eyes of an injured person to check that this reflex works, because it shows that the brainstem is working.",
       "examples": [
-        "Walking from a bright street into a dark shop, your vision slowly improves as your pupils open.",
+        "When you walk from a bright street into a dark shop, you slowly see better as your pupils open.",
         "A cat's pupils shrink to thin slits in bright sun.",
         "Your pupils widen when you see something that interests you."
       ],
@@ -231,7 +231,7 @@
       "description": "Think of a shower where the hot water takes 10 seconds to reach you. The water is cold, so you turn the tap to hot. Nothing changes yet, so you turn it more. Then the hot water arrives, far too hot, so you turn it back too far. Now it is too cold again. You swing hot and cold until you learn to turn slowly and wait. Any loop with a delay can do this. The body reduces the problem by predicting. When you smell food, your pancreas can release a small first burst of insulin before the sugar arrives. Even so, loops sometimes overshoot, and this is why a person with diabetes can feel shaky when a dose of insulin turns out to be too large.",
       "examples": [
         "A shower tap swings hot and cold when the water is slow to arrive.",
-        "A blood sugar that falls too low when too much insulin is given.",
+        "Blood sugar falling too low when too much insulin is given.",
         "A cyclist who swerves left and right when learning to steer."
       ],
       "art": "A graph of temperature against time, wobbling above and below a target line and slowly settling, beside a hand on a shower tap.",
@@ -241,7 +241,7 @@
       "concept": "Set points can move: fever, sleep and the clock",
       "status": "debated",
       "definition": "",
-      "description": "Many books say the body has one fixed set point. But your set points move. Your body is a little cooler in the early morning and warmer in the late afternoon. During a fever, chemicals released when the body fights an infection tell the brain to raise the warmth set point. That is why a person with a fever shivers while their body is already warmer than usual, because the body is still below its new target. When the fever breaks, the set point goes back and the person sweats. Some scientists say we should describe this as allostasis, which means keeping steady by changing, with targets that are shifted to suit the day. Whether a fever helps or hurts is still argued. Doctors advise seeing a doctor for a baby with a fever, a very high fever, or a fever that lasts.",
+      "description": "Many books say the body has one fixed set point. But your set points move. Your body is a little cooler in the early morning and warmer in the late afternoon. During a fever, chemicals released when the body fights an infection tell the brain to raise the warmth set point. That is why a person with a fever shivers even though their body is already warmer than usual: the body is still below its new target. When the fever breaks, the set point goes back and the person sweats. Some scientists say we should describe this as allostasis, which means keeping steady by changing, with targets that are shifted to suit the day. Whether a fever helps or hurts is still argued. Doctors advise seeing a doctor for a baby with a fever, a very high fever, or a fever that lasts.",
       "examples": [
         "A fever raises the warmth set point.",
         "Resting pulse and warmth are lower at night than in the afternoon.",
@@ -276,7 +276,7 @@
       "concept": "The same two pushes outside the body",
       "status": "idea",
       "definition": "",
-      "description": "A guard cell on a leaf works as a tiny pair: when it swells with water the pore between two guard cells opens to take in carbon dioxide, and when it loses water the pore closes to save water. The plant adjusts this all day. Further out, a star stays the same size for billions of years because gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal. In a forest, deer and tigers can keep each other's numbers in range. When there are many deer, tigers have more to eat and their numbers grow, and then the deer become fewer. In the 1920s Alfred Lotka and Vito Volterra wrote maths that showed such rises and falls. Real forests are messier than the maths, and it is still argued how much they truly balance.",
+      "description": "On a leaf, two guard cells sit on either side of a tiny pore. When they swell with water, the pore opens to take in carbon dioxide. When they lose water, the pore closes to save water. The plant adjusts this all day. A star stays the same size for billions of years because gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal. In a forest, deer and tigers can keep each other's numbers in range. When there are many deer, tigers have more to eat and their numbers grow, and then the deer become fewer. In the 1920s Alfred Lotka and Vito Volterra wrote maths that showed such rises and falls. Real forests are messier than the maths, and it is still argued how much they truly balance.",
       "examples": [
         "A leaf's guard cells opening and closing a pore.",
         "The Sun staying the same size because gravity and pressure are equal.",
@@ -297,7 +297,7 @@
     },
     {
       "text": "The urge to breathe comes mostly from carbon dioxide building up in the blood, and only partly from low oxygen.",
-      "evidence": "In 1905 John Scott Haldane and J. G. Priestley measured that a tiny rise in the carbon dioxide in the air people breathe made them breathe much more."
+      "evidence": "In 1905 John Scott Haldane and J. G. Priestley found that a tiny rise in the carbon dioxide in the air people breathed made them breathe much more."
     },
     {
       "text": "The pupil light reflex is a quick automatic loop through the brainstem. It does not need any thought.",
@@ -324,7 +324,7 @@
       "claim": "The body has one fixed set point for each thing, such as 37 degrees.",
       "who": "Many textbooks.",
       "for": "Body warmth stays within about a degree, and blood is kept in a narrow range of acidity.",
-      "against": "Warmth is lower early in the morning, higher in the afternoon, raised in fever and changes with age. Some scientists prefer the word allostasis for keeping steady by changing the target.",
+      "against": "Body warmth is lower early in the morning and higher in the afternoon. It is raised in a fever, and it changes with age. Some scientists prefer the word allostasis for keeping steady by changing the target.",
       "status": "debated"
     },
     {
@@ -350,7 +350,7 @@
     }
   ],
   "how_we_found_out": {
-    "story": "For thousands of years doctors knew a sad illness in which people grew thin and thirsty and their urine was sweet. Old Indian medical texts attributed to Sushruta call it madhumeha, honey urine, and say that ants gather where it falls. Nobody knew the cause. In 1889, in Strasbourg, Oskar Minkowski and Joseph von Mering took out a dog's pancreas to see how much fat digestion needs this gland. They thought the pancreas was only a digestive gland. Minkowski tested the dog's urine and found a lot of sugar. (A popular tale says flies crowding round the urine gave the clue, but Minkowski himself said it was not so.) So the pancreas did a second job, steering the sugar in the blood. In 1921, in Toronto, Frederick Banting and Charles Best, in John Macleod's laboratory, made an extract that lowered the sugar of a diabetic dog. James Collip purified it for people. In January 1922 a boy of fourteen, Leonard Thompson, was among the first to be treated, and the first whose recovery became famous.",
+    "story": "For thousands of years doctors knew a sad illness in which people grew thin and thirsty and their urine was sweet. Old Indian medical texts attributed to Sushruta call it madhumeha, honey urine, and say that ants gather where it falls. Nobody knew the cause. In 1889, in Strasbourg, Oskar Minkowski and Joseph von Mering took out a dog's pancreas to see how much the body needs this gland to digest fat. They thought the pancreas was only a digestive gland. Minkowski tested the dog's urine and found a lot of sugar. (A popular tale says flies crowding round the urine gave the clue, but Minkowski himself said it was not so.) So the pancreas did a second job, steering the sugar in the blood. In 1921, in Toronto, Frederick Banting and Charles Best, in John Macleod's laboratory, made an extract that lowered the sugar of a diabetic dog. James Collip purified it for people. In January 1922 a boy of fourteen, Leonard Thompson, was among the first to be treated, and the first whose recovery became famous.",
     "who": "Oskar Minkowski and Joseph von Mering, then Frederick Banting, Charles Best, John Macleod and James Collip",
     "when": "1889 to 1922",
     "wrong_idea": "That the pancreas was only a gland for digesting food, and had nothing to do with the sugar in the blood."
@@ -382,7 +382,7 @@
       "hint": "Think about who needs insulin, and who could afford it."
     },
     {
-      "q": "Is a body that never changes healthier than a body that changes a lot, or is being alive always changing?",
+      "q": "Is a body that never changes healthier than a body that changes a lot, or does being alive mean always changing?",
       "kind": "big",
       "hint": "Think about your pulse during a run and in sleep."
     },
@@ -651,7 +651,7 @@
         }
       ],
       "rules": [
-        "The team plays as one body. The marker is the sugar in the blood. It starts on square 5. The team has 3 hearts together.",
+        "The team plays as one body. The marker is the sugar in the blood. It starts on square 5. The team shares 3 hearts.",
         "Each round, turn over the top event card. Read it out loud. Move the marker as the card says.",
         "Then choose one response card from your hand of 3. Read it out loud and move the marker as the card says. Draw a new response card to have 3 again.",
         "If the marker would go below 0 or above 10, keep it on the end square.",
@@ -713,8 +713,8 @@
         {
           "id": "s4",
           "mins": 8,
-          "do": "Play Rounds 5 to 8. Now try the hard rule. Place your response card face down. It works only after the next event card is played. Move the marker for the next event first, then reveal and move for the response from before.",
-          "say": "Now the hard rule. Your response card takes effect one turn late. Play it face down. Move for the next event first, and only then reveal and move for the card you played before.",
+          "do": "Play Rounds 5 to 8. Now try the hard rule. Place your response card face down. It works only after the next event card is played. Move the marker for the next event first. Then turn over the response card you placed before, and move the marker for it.",
+          "say": "Now the hard rule. Your response card takes effect one turn late. Play it face down. Move for the next event first. Only then turn over the card you played before, and move for it.",
           "kid": "Hard rule. Your response works one turn late. Play it face down.",
           "ask": [
             {
@@ -741,9 +741,9 @@
         {
           "id": "s6",
           "mins": 3,
-          "do": "Ask your child to say three things: what they thought, what they saw and why. Ask: what was the hardest event card, and why?",
+          "do": "Ask your child to say three things: what they thought would work, what happened, and why. Ask: what was the hardest event card, and why?",
           "say": "Tell me three things. What did you think would work? What did you see? Why was the delay hard? Which event was the hardest?",
-          "kid": "Say what you thought, what you saw, and why.",
+          "kid": "Say what you thought would work, what happened, and why.",
           "parent": "A strong answer says that the level went too far in both directions, so two kinds of response were needed, and that a response that arrived late made the swings worse.",
           "think": "What would happen in a game if you had only insulin cards and no glucagon cards?",
           "context": "This is the last step of Sugar See-Saw. You say what you found and why."
@@ -862,7 +862,7 @@
         },
         {
           "t": "count",
-          "p": "Meena, a girl in Class 4 in Kochi, counts 21 beats of her pulse in 15 seconds. How many beats a minute is that?",
+          "p": "You count 21 beats of your pulse in 15 seconds. How many beats a minute is that?",
           "a": "84",
           "why": "15 seconds is a quarter of a minute, so you need four times as many. 21 times 4 is 84 beats a minute.",
           "outcome": 3
@@ -883,12 +883,12 @@
             "Your breathing and pulse speed up",
             "The extra carbon dioxide is breathed out"
           ],
-          "why": "Working muscles make more carbon dioxide. Sensors notice, and send a signal that speeds breathing and heart. Breathing out then clears the carbon dioxide.",
+          "why": "Working muscles make more carbon dioxide. Sensors notice, and send a signal that speeds up the breathing and the heart. Breathing out then clears the carbon dioxide.",
           "outcome": 3
         },
         {
           "t": "write",
-          "p": "In Late Warmer-Colder, players walked past the coin when the calls came late. Explain why.",
+          "p": "In Late Warmer-Colder, a walker looks for a hidden coin while a helper calls 'warmer' or 'colder'. When the calls came late, the walker went past the coin. Explain why.",
           "lines": 3,
           "a": "The late call told them about where they were a few seconds before, not where they were now. By the time they heard 'warmer', they had already gone past the coin.",
           "why": "A strong answer says the message was out of date. A correction based on old news goes past the target.",
@@ -966,7 +966,7 @@
       "items": [
         {
           "t": "mcq",
-          "p": "A bottle with a hole and a trickle has a steady level of 6 centimetres. The trickle becomes twice as fast. What will the steady level do?",
+          "p": "Water trickles into a bottle with a hole, and the level is steady at 6 centimetres. The trickle becomes twice as fast. What will the steady level do?",
           "opts": [
             "Rise to a new, higher steady level",
             "Stay at 6 centimetres",
@@ -1069,13 +1069,13 @@
             ]
           ],
           "a": "as given",
-          "why": "Most loops in the body push back, which keeps a level steady. A few push the change on, such as sealing a cut or sending a nerve signal, and something stops them after.",
+          "why": "Most loops in the body push back, which keeps a level steady. A few push the change on, such as sealing a cut or sending a nerve signal, and something stops them afterwards.",
           "outcome": 1
         },
         {
           "t": "count",
-          "p": "Rahul's pulse at rest is 72 beats a minute. Just after he stops running it is 140. Two minutes later it is 100. By how many beats a minute did it fall in those two minutes, and how many beats is it still above rest?",
-          "a": "40 beats a minute fewer. It is still 28 above rest.",
+          "p": "Your pulse at rest is 72 beats a minute. Just after you stop running it is 140. Two minutes later it is 100. By how many beats a minute did it fall in those two minutes, and how many beats a minute is it still above rest?",
+          "a": "It fell by 40 beats a minute. It is still 28 above rest.",
           "why": "140 take away 100 is 40. And 100 take away 72 is 28, so the pulse is still 28 above rest.",
           "outcome": 3
         },
@@ -1093,7 +1093,7 @@
         },
         {
           "t": "write",
-          "p": "Zoya says, 'Diabetes happens because a person ate too many sweets.' Give two reasons this is not the whole story.",
+          "p": "Someone says, 'Diabetes happens because a person ate too many sweets.' Give two reasons this is not the whole story.",
           "lines": 4,
           "a": "Type 1 diabetes happens when the body's own defences destroy the cells that make insulin, which has nothing to do with sweets. Type 2 comes from many causes together, such as genes, body weight and how active a person is.",
           "why": "A strong answer separates the two types and says that many causes work together. It does not blame the person.",
@@ -1103,7 +1103,7 @@
           "t": "draw",
           "p": "Draw a graph of pulse against time, from rest, through a run, to recovery. Mark the steepest part of the recovery.",
           "a": "A line that starts low, rises steeply during the run, falls steeply in the first minute after, then falls more slowly back to the starting level. The steepest fall is just after stopping.",
-          "why": "The pulse falls fastest just after stopping, when the gap from rest is biggest. This matches the water level coming back fastest right after a big push.",
+          "why": "The pulse falls fastest just after stopping, when the gap from rest is biggest. In the Level Bottle, too, the water level came back fastest right after the extra cup of water was poured in.",
           "outcome": 3
         },
         {
@@ -1189,7 +1189,7 @@
             "Nothing changes"
           ],
           "a": 0,
-          "why": "The insulin keeps lowering the sugar, and no food is adding any. Low sugar causes shaking, sweating and confusion, and fast sugar helps. A grown-up or doctor should be called.",
+          "why": "The insulin keeps lowering the sugar, and no food is adding any. Low sugar causes shaking, sweating and confusion. Sweet food or drink given right away helps. A grown-up or doctor should be called.",
           "outcome": 6
         },
         {
@@ -1312,7 +1312,7 @@
         },
         {
           "t": "count",
-          "p": "Tara breathes 20 times a minute at rest. How many breaths does she take in one hour, and how many in a whole day?",
+          "p": "You breathe 20 times a minute at rest. How many breaths do you take in one hour, and how many in a whole day?",
           "a": "1,200 in an hour and 28,800 in a day.",
           "why": "20 times 60 is 1,200 breaths in an hour. 1,200 times 24 is 28,800 breaths in a day.",
           "outcome": 3
@@ -1414,7 +1414,7 @@
         }
       ],
       "safety": "A grown-up cuts the bottle and makes the hole, because the scissors and the point are sharp. Cover the cut edge with tape. Wipe up spills so nobody slips.",
-      "record": "Write the steady level for each trickle speed. Then say, in one sentence, why the level stops. If a test goes over the rim or never settles, write that down as it is and use a slower trickle. If the level stays under 1 centimetre even with the fastest trickle, the hole is too big: use the spare bottle.",
+      "record": "Write the steady level for each trickle speed. Then say, in one sentence, why the level stops. If the water goes over the rim or the level never settles, write that down as it is and use a slower trickle. If the level stays under 1 centimetre even with the fastest trickle, the hole is too big: use the spare bottle.",
       "context": "In this experiment you build a bottle that keeps its own water level, and find out what decides where the level stops.",
       "setup": [
         {
@@ -1570,9 +1570,9 @@
         {
           "id": "s7",
           "mins": 3,
-          "do": "Ask your child to say three things: what they thought, what they saw, and why it happened. Write their answer under the table.",
-          "say": "Tell me three things. What did you think would happen? What did you see? Why did the level stop, and why did it come back after the shock?",
-          "kid": "Say what you thought, what you saw, and why the level stopped.",
+          "do": "Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Write their answer under the table.",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why did the level stop, and why did it come back after you poured in the extra cup?",
+          "kid": "Say what you thought would happen, what you saw, and why the level stopped.",
           "parent": "A strong answer says that the level stops where the water going out matches the water coming in, and that deeper water leaks faster, which is why the level comes back. Only after they have said this, explain: the level works as its own sensor. The higher it rises, the faster it leaks. Your body's sugar works like this. The higher the sugar, the more insulin pushes it back down.",
           "think": "Your blood sugar is like this level. What do you think does the job of the hole?",
           "context": "This is the last step of the Level Bottle test. You say what you found and why."
@@ -1586,7 +1586,7 @@
       "days": 1,
       "question": "After exercise, how long does it take for my pulse and breathing to come back to rest? Does a harder effort take longer?",
       "predict": "Before you start, guess. How long will your pulse take to come back to rest after one minute of stepping? Will two minutes of marching take twice as long? Why do you think so?",
-      "fair_test": "The same child, the same clock and the same way of finding the pulse are used each time. The rest period before each try is long enough for the pulse to return to normal. Only the exercise changes, one minute of stepping and then two minutes of marching.",
+      "fair_test": "The same child, the same clock and the same way of finding the pulse are used each time. The rest period before each try is long enough for the pulse to return to normal. Only the exercise changes: first one minute of stepping, then two minutes of marching.",
       "results_table": [
         "Time after stopping",
         "Try 1: pulse in 15 seconds",
@@ -1626,8 +1626,8 @@
         }
       ],
       "safety": "A grown-up stays with the child the whole time. Do not do the test if your child is unwell or has been told to avoid exercise. Stop if they feel dizzy or have chest pain. Keep an inhaler close for a child with asthma. Never hold the breath in water, and never take big breaths first.",
-      "record": "Fill in the table. Then mark the biggest drop in pulse and the minute in which it came. Say in one sentence which try took longer to come back and by how much. If the numbers jump about, that is real. Counting a pulse for 15 seconds is only accurate to a few beats.",
-      "context": "In this experiment you race your pulse and breathing back to rest after exercise, and see how the return happens.",
+      "record": "Fill in the table. Then mark the biggest drop in pulse and the minute in which it came. Say in one sentence which try took longer to come back and by how much. If the numbers jump about, that is normal. Counting a pulse for 15 seconds is only accurate to a few beats.",
+      "context": "In this experiment you time how fast your pulse and breathing come back to rest after exercise, and see how the return happens.",
       "setup": [
         {
           "art": "A child sitting on a chair with two fingers on the inside of the wrist and a helper holding a clock.",
@@ -1654,7 +1654,7 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Show your child the low stool, the clock and the table. Say that they will race their pulse back to rest after one minute of stepping, then after two minutes of marching. Ask for a guess and a reason.",
+          "do": "Show your child the low stool, the clock and the table. Say that they will time how long their pulse takes to come back to rest after one minute of stepping, then after two minutes of marching. Ask for a guess and a reason.",
           "say": "After one minute of stepping, how long will your pulse take to come back to rest? Will two minutes of marching take twice as long? Why do you think so?",
           "kid": "After a minute of stepping, how long until your pulse is back to rest? Why?",
           "ask": [
@@ -1694,7 +1694,7 @@
           "id": "s3",
           "mins": 3,
           "do": "Ask your child to hold a normal breath, not a big one, and not to take any deep breaths first. Time how long until the first strong urge to breathe. Then they breathe out and breathe normally. Write down the seconds. Do this only once.",
-          "say": "Take a normal breath, not a big one. Hold it. Tell me the moment you feel a strong urge to breathe. Then breathe out. Not before, and never a deep breath first.",
+          "say": "Take a normal breath, not a big one, and hold it. Do not take deep breaths first. Tell me the moment you feel a strong urge to breathe, and then breathe out.",
           "kid": "Take a normal breath and hold it. Stop at the first strong urge.",
           "adult": true,
           "parent": "Never do breath-holding in water, and never take big breaths first, because that hides the urge and can lead to fainting. Stop at the first strong urge. Many children reach 20 to 40 seconds, but the number is not a score. Skip this part if your child dislikes it or has asthma or a breathing problem.",
@@ -1754,10 +1754,10 @@
         {
           "id": "s7",
           "mins": 4,
-          "do": "Ask your child to say three things: what they thought, what they saw, and why. Ask them to find the biggest drop in pulse in the table, and in which minute it came.",
-          "say": "Tell me three things. What did you think? What did you see in the numbers? Why did your breathing and pulse come back down?",
-          "kid": "Say what you thought, what you saw, and why.",
-          "parent": "A strong answer says that the pulse and breathing rose when the muscles worked, and fell after they stopped, with the biggest fall in the first minute. Only after they have said it, explain: working muscles make more carbon dioxide. Sensors in the brainstem notice this and speed up breathing and the heart. When you stop, the carbon dioxide is cleared and the speed falls. Like the water level in the bottle, the further the level was pushed, the faster it came back at first.",
+          "do": "Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask them to find the biggest drop in pulse in the table, and in which minute it came.",
+          "say": "Tell me three things. What did you think would happen? What did you see in the numbers? Why did your breathing and pulse come back down?",
+          "kid": "Say what you thought would happen, what you saw, and why it happened.",
+          "parent": "A strong answer says that the pulse and breathing rose when the muscles worked, and fell after they stopped, with the biggest fall in the first minute. Only after they have said it, explain: working muscles make more carbon dioxide. Sensors in the brainstem notice this and speed up breathing and the heart. When you stop, the carbon dioxide is cleared and the speed falls. It is like the water level in the Level Bottle: the further the pulse was pushed from rest, the faster it came back at first.",
           "think": "The urge to breathe came sooner after the stepping. What do you think was different in your blood?",
           "context": "This is the last step of the Recovery Race. You say what you found and why."
         }
@@ -1765,7 +1765,7 @@
     },
     {
       "id": "e3",
-      "title": "Pupil Gauge: how fast do my pupils fix the light?",
+      "title": "Pupil Gauge: how fast do my pupils change with the light?",
       "mins": 28,
       "days": 1,
       "question": "When the light changes, how fast and how far does the pupil change? Is it something I decide?",
@@ -1832,8 +1832,8 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Show your child their eyes in a mirror. Ask for a guess and a reason. When the lamp comes on after a dim minute, how fast will the black dot change, and how far?",
-          "say": "Look at the black dot in the middle of your eye. When the light comes on after a dim minute, will it change slowly or fast? Will it get bigger or smaller? Why do you think so?",
+          "do": "Show your child their eyes in a mirror. Ask for a guess and a reason. When the lamp comes on after a minute in a dim room, how fast will the black dot change, and how far?",
+          "say": "Look at the black dot in the middle of your eye. When the light comes on after a minute in a dim room, will the dot change slowly or fast? Will it get bigger or smaller? Why do you think so?",
           "kid": "Look at the black dot in your eye. When light comes on, what will it do? Why?",
           "ask": [
             {
@@ -1887,9 +1887,9 @@
           "parent": "Most children's pupils shrink in well under a second, and some then widen a little and settle within about 10 seconds. Reading a pupil by eye in one second is hard, so the film is the main method. Easier version without a lamp, in an ordinary lit room: the child covers one eye with a palm for 30 seconds, then uncovers it. Watch that pupil shrink within a second, and compare it with the other eye. Both pupils shrink, because they work as a pair. If your child blinks or looks away, repeat after 2 minutes in the dim room. Never repeat more than three times.",
           "check": {
             "t": "mcq",
-            "q": "Why do we ask your child to look at a spot on the wall and not at the lamp?",
+            "q": "Why does the child look at a spot on the wall and not at the lamp?",
             "options": [
-              "So the lamp is not shone into the eyes, and the eye stays in one place to read",
+              "So the lamp does not shine into the eyes, and the eye stays in one place for the helper to read",
               "So the lamp looks nicer",
               "So the light stays away from the wall"
             ],
@@ -1903,7 +1903,7 @@
           "mins": 4,
           "do": "Now switch the lamp off and ask your child to keep looking at the wall spot. Film again. Read the pupil at 5 seconds, 30 seconds and 60 seconds after the lamp goes off.",
           "say": "Now the lamp goes off. Keep looking at the spot. I read your pupil at five seconds, thirty seconds and one minute. Does it open as fast as it closed?",
-          "kid": "The lamp goes off. We read your pupil again at three times.",
+          "kid": "The lamp goes off. We read your pupil three more times.",
           "adult": true,
           "parent": "Opening in the dark is slower than closing in the light. It continues slowly for a minute or more, and the eye's sensitivity keeps improving for about 20 to 30 minutes. This is why a dark cinema seems blacker at first.",
           "context": "In this step, you watch your pupils open again when the light goes away."
@@ -1911,11 +1911,11 @@
         {
           "id": "s6",
           "mins": 3,
-          "do": "Ask your child to say three things: what they thought, what they saw, and why. Ask: did they decide to change their pupils?",
-          "say": "Tell me three things. What did you think? What did you see on the gauge? Why did your pupils change? Did you decide to do it?",
-          "kid": "Say what you thought, what you saw, and why.",
-          "parent": "A strong answer says that the pupil got smaller in the light and bigger in the dark, and changed without being decided. Only after that, explain: light on the back of the eye sends a signal to the brainstem, which tells a ring of tiny muscles to tighten and shrink the pupil. In the dark, a second set of muscles shaped like spokes pulls it wide. Two opposite muscle sets make an opposing pair.",
-          "think": "If a loop can run in under a second without you, what else in you might be running?",
+          "do": "Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask: did they decide to change their pupils?",
+          "say": "Tell me three things. What did you think would happen? What did you see on the gauge? Why did your pupils change? Did you decide to do it?",
+          "kid": "Say what you thought would happen, what you saw, and why it happened.",
+          "parent": "A strong answer says that the pupil got smaller in the light and bigger in the dark, and that it changed without the child deciding. Only after that, explain: light on the back of the eye sends a signal to the brainstem, which tells a ring of tiny muscles to tighten and shrink the pupil. In the dark, a second set of muscles shaped like spokes pulls it wide. Two opposite muscle sets make an opposing pair.",
+          "think": "If a loop can run in under a second without you deciding, what else in your body might be running without you?",
           "context": "This is the last step of the Pupil Gauge test. You say what you found and why."
         }
       ]
@@ -2023,15 +2023,15 @@
           "say": "Stand on one leg again. I will rest my fingers on both sides of your ankle. Tell me if you feel it tighten, and which side tightens first.",
           "kid": "Stand on one leg. Your helper feels both sides of your ankle.",
           "adult": true,
-          "parent": "Place your fingers lightly, just below the ankle bone on each side. The tendons on both sides tighten in turn as the body tilts one way and back. They are small movements, and some children are hard to feel. If they are hard to find, watch the toes grip the floor and the lifted foot wobble. Those are also the correction.",
+          "parent": "Place your fingers lightly, just below the ankle bone on each side. The tendons on both sides tighten in turn as the body tilts one way and back. They are small movements, and in some children they are hard to feel. If so, watch the toes grip the floor and the lifted foot wobble. Those are corrections too.",
           "context": "In this step, you feel the two sides of the ankle pulling in turn."
         },
         {
           "id": "s4",
           "mins": 3,
-          "do": "Ask your child to say three things: what they thought, what they saw and why. Then ask: how can a thing look still when so much is moving?",
-          "say": "Tell me three things. What did you think? What did you see? Why did your ankle keep moving? How can something look still when so much is moving?",
-          "kid": "Say what you thought, what you saw, and why.",
+          "do": "Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Then ask: how can a thing look still when so much is moving?",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why did your ankle keep moving? How can something look still when so much is moving?",
+          "kid": "Say what you thought would happen, what you saw, and why it happened.",
           "parent": "A strong answer says that the ankle kept tilting and being pulled back, in both directions, to keep standing. Only after that, explain: your brain gets signals from your feet, eyes and inner ears, and sends them to your muscles, which correct each tilt. To stand still, you move all the time.",
           "think": "Which other things in your body might look still but be working all the time?",
           "context": "This is the last step of One-Leg Wobble. You say what you found and why."
@@ -2099,7 +2099,7 @@
           "mins": 3,
           "do": "Show your child a small bottle of cola or a packet of biscuits. Say that all the blood in a grown-up holds about one teaspoon of sugar. Ask for a guess and a reason: how many teaspoons of sugar are in a 250 millilitre bottle of cola?",
           "say": "All the blood in a grown-up holds about one teaspoon of sugar. How many teaspoons are in a small bottle of cola? Take a guess. Why do you think so?",
-          "kid": "Your blood holds about one teaspoon of sugar. How many are in a small cola? Why?",
+          "kid": "A grown-up's blood holds about one teaspoon of sugar. How many teaspoons are in a small cola? Why?",
           "ask": [
             {
               "q": "Why do you think that many?",
@@ -2118,7 +2118,7 @@
           "mins": 5,
           "do": "Fill a level teaspoon with sugar and tip it onto a saucer. A level teaspoon of sugar is about 4 grams. Say that this is about all the sugar in the blood of a grown-up.",
           "say": "Fill a teaspoon with sugar, level to the top, and tip it onto the saucer. This small pile is about all the sugar that is in a grown-up's blood at one time.",
-          "kid": "Tip one level teaspoon of sugar onto a saucer. This is all the sugar in your blood.",
+          "kid": "Tip one level teaspoon of sugar onto a saucer. This is about all the sugar in a grown-up's blood.",
           "parent": "A child has less blood than a grown-up, so a little less sugar. A level teaspoon of table sugar is about 4 grams. Spoons differ a little, from about 3 to 5 grams, so say 'about'. A healthy grown-up has about 4 to 5 grams of sugar in all of their blood, which is about 5 litres.",
           "context": "In this step, you see how small the amount of sugar in the blood is."
         },
@@ -2144,10 +2144,10 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Ask your child: the plate of sugar for the cola is about six times the sugar in all your blood. Where did it go after you drank it, and why did your blood sugar not go up six times?",
-          "say": "The cola holds about six times the sugar in all your blood. If you drank it, your blood sugar would not go up six times. Where do you think the sugar goes? Who moves it?",
-          "kid": "The cola has six times your blood's sugar. Where does it all go?",
-          "parent": "A strong answer says that something moves the sugar out of the blood into the cells and the liver. Only after they have said it, explain: insulin tells cells to take the sugar in and the liver to store it. The sugar in the blood is a small amount that is always being moved in and out. It is like the bottle level, where a lot flows through but the level stays small.",
+          "do": "Ask your child: the sugar in the cola is about six times the sugar in all of a grown-up's blood. If a grown-up drank it, where would the sugar go, and why would their blood sugar not go up six times?",
+          "say": "The cola holds about six times the sugar in all of a grown-up's blood. If a grown-up drank it, their blood sugar would not go up six times. Where do you think the sugar goes? Who moves it?",
+          "kid": "The cola has six times the sugar in a grown-up's blood. Where does it all go?",
+          "parent": "A strong answer says that something moves the sugar out of the blood into the cells and the liver. Only after they have said it, explain: insulin tells cells to take the sugar in and the liver to store it. The sugar in the blood is a small amount that is always being moved in and out. It is like the Level Bottle, where a lot of water flows through but the level stays low.",
           "think": "What would happen to the blood if the sugar kept going in and nothing took it out?",
           "context": "This is the last step of One Teaspoon. You think about how the body keeps the amount steady."
         }
@@ -2312,9 +2312,9 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Tell your child you will hide a coin in the room. They will search by following your calls of warmer and colder. Ask for a guess and a reason: what if you call a few seconds late?",
+          "do": "Tell your child you will hide a coin in the room. They will search by following your calls of warmer and colder. Ask for a guess and a reason: what will happen if you call a few seconds late?",
           "say": "I will hide a coin. You will find it by following my calls of warmer and colder. First I call at once. Then I call three seconds late. Which way will be harder? Why do you think so?",
-          "kid": "You search for a coin. I call warmer or colder. What if I call late?",
+          "kid": "You search for a coin. I call warmer or colder. What will happen if I call late?",
           "ask": [
             {
               "q": "Why do you think late calls will make it harder?",
@@ -2353,7 +2353,7 @@
               ]
             }
           ],
-          "parent": "With late calls and a walker who keeps moving, children usually walk past the coin, then turn back too far. This is overshoot. In Round 3 the walker waits for each call. They find the coin without swinging, but with more steps and more time. This is the trade the body makes: gentle corrections, or predicting. If nobody overshoots in Round 2, make the delay longer or ask the walker to walk faster.",
+          "parent": "With late calls and a walker who keeps moving, children usually walk past the coin, then turn back too far. This is overshoot. In Round 3 the walker waits for each call. They find the coin without swinging, but with more steps and more time. The body has the same problem, and it copes by correcting gently or by predicting. If nobody overshoots in Round 2, make the delay longer or ask the walker to walk faster.",
           "check": {
             "t": "mcq",
             "q": "Why did the late calls make you walk past the coin?",
@@ -2370,10 +2370,10 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "Ask your child to say three things: what they thought, what they saw and why. Ask: where have you seen this swinging before?",
-          "say": "Tell me three things. What did you think? What did you see? Why did the late calls make you swing? Where have you seen swinging like this, like in a shower?",
-          "kid": "Say what you thought, what you saw, and why.",
-          "parent": "A strong answer says that the calls were late, so the child moved past the target and swung. Other examples are a shower tap, a fridge that gets too cold and a driver steering in fog. Bodies cope by predicting and by making gentle corrections, as when your pancreas starts insulin when you smell food.",
+          "do": "Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask: where have you seen this swinging before?",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why did the late calls make you swing? Where else have you seen swinging like this? A shower is one place.",
+          "kid": "Say what you thought would happen, what you saw, and why it happened.",
+          "parent": "A strong answer says that the calls were late, so the child moved past the target and swung. Other examples are a shower tap, a fridge that gets too cold and a driver steering in fog. Bodies cope by predicting and by making gentle corrections. For example, your pancreas starts releasing insulin when you smell food.",
           "think": "What would a body need, to avoid swinging when its messages are slow?",
           "context": "This is the last step of Late Warmer-Colder. You say what you found and why."
         }
@@ -2465,8 +2465,8 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "On the last day, look at all nine rows. Mark the highest and the lowest pulse. Ask your child to say three things: what they thought, what they saw and why.",
-          "say": "Look at the table. Find the lowest pulse and the highest. When did they come? Tell me three things. What did you think? What did you see? Why do you think it changed?",
+          "do": "On the last day, look at all nine rows. Mark the highest and the lowest pulse. Ask your child to say three things: what they thought would happen, what they saw, and why.",
+          "say": "Look at the table. Find the lowest pulse and the highest. When did they come? Tell me three things. What did you think would happen? What did you see? Why do you think it changed?",
           "kid": "Look at the table. Find the highest and lowest pulse. Say why.",
           "parent": "Many children have a lower pulse in the early morning and a higher pulse later in the day, but excitement and hunger can change it, and the pattern may be small or unclear. Body warmth also follows a daily rhythm, typically lowest in the very early morning and highest in late afternoon. A strong answer says that the body's targets can move with the clock. This is allostasis. If your numbers show no pattern, say so and think why.",
           "think": "Why might the body's set points change through the day?",
@@ -2566,7 +2566,7 @@
               ]
             }
           ],
-          "parent": "A single hole will usually rise past the top mark when the trickle doubles. A second hole higher up joins in when the level climbs, and holds it back. Your exact numbers depend on the hole sizes and the tap, so write down what you see. If no design holds, say which one came closest. This is like a body adding another control when the first is not enough.",
+          "parent": "With a single hole, the level will usually rise past the top mark when the trickle doubles. A second hole higher up joins in when the level climbs, and holds it back. Your exact numbers depend on the hole sizes and the tap, so write down what you see. If no design holds, say which one came closest. This is like a body adding another control when the first is not enough.",
           "context": "In this step, you test your tank with two different trickle speeds."
         },
         {
@@ -2592,11 +2592,11 @@
         {
           "id": "s5",
           "mins": 4,
-          "do": "Ask your child to say three things: what they thought, what they saw and why. Ask: what does the second hole do?",
-          "say": "Tell me three things. What did you think? What did you see? Why did the second hole help? What is it like in the body?",
-          "kid": "Say what you thought, what you saw, and why.",
-          "parent": "A strong answer says that the second hole joins in when the level is high, so the push back grows with the change. In the body, a second control or a bigger response comes in when the first is not enough. This is also how a roof tank has an overflow pipe.",
-          "think": "What is the second hole like in a body?",
+          "do": "Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask: what does the second hole do?",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why did the second hole help? What in the body is like the second hole?",
+          "kid": "Say what you thought would happen, what you saw, and why it happened.",
+          "parent": "A strong answer says that the second hole joins in when the level is high, so the push back grows with the change. In the body, a second control or a bigger response comes in when the first is not enough. The overflow pipe in a roof tank works the same way.",
+          "think": "What in a body works like the second hole?",
           "context": "This is the last step of the challenge. You say what worked and why."
         }
       ]
@@ -2820,13 +2820,13 @@
       "why_open": "Both views explain many results. Scientists do not agree on which picture is better for each loop."
     },
     {
-      "q": "Why does the urge to breathe feel like something, and not just happen?",
+      "q": "Why do we feel the urge to breathe, when the body could just breathe without any feeling?",
       "why_open": "How the brain makes feelings at all is not known. It is part of the biggest open question in science."
     }
   ],
   "ask_kids": [
-    "What is standing still really like, for your ankle?",
-    "What do you think does the job of the hole in your body's sugar?",
+    "When you stand still on one leg, what is your ankle really doing?",
+    "In the Level Bottle, the hole let water out so the level stayed steady. What in your body does that job for the sugar in your blood?",
     "When you ran today, which of your body's loops were working?",
     "What have you seen at home that keeps something steady by pushing back?"
   ],
@@ -2875,7 +2875,7 @@
       "why_maths": "Dividing grams by a teaspoon's weight turns a number on a label into something you can picture, so you can compare it with the sugar in your blood."
     },
     {
-      "problem": "In the Level Bottle, the trickle fills 30 millilitres in 10 seconds. How many millilitres would the trickle give in one minute? If the hole lets out 20 millilitres every 10 seconds, how many millilitres stay in the bottle in one minute?",
+      "problem": "In the Level Bottle, the trickle gives 30 millilitres in 10 seconds. How many millilitres would the trickle give in one minute? If the hole lets out 20 millilitres every 10 seconds, how many millilitres stay in the bottle in one minute?",
       "answer": "180 millilitres in a minute. 60 millilitres stay in.",
       "explain": "A minute has six lots of 10 seconds. 30 times 6 is 180. The hole lets out 20 times 6, which is 120. 180 take away 120 is 60 millilitres that stay in the bottle.",
       "math_unit": "math.multiplication.multiplication-facts.L4",
@@ -2884,8 +2884,8 @@
       "why_maths": "Comparing the water in and the water out tells you whether the level will rise, fall or stay put."
     },
     {
-      "problem": "Aarav's pulse is 80 beats a minute at rest. After exercise it is 140. Two minutes after stopping it is 100. Did his pulse fall by more than half of the rise by then? How do you know?",
-      "answer": "No. It fell by 40, and the rise was 60, so it fell by two thirds of the rise. That is more than half.",
+      "problem": "Your pulse is 80 beats a minute at rest. After exercise it is 140. Two minutes after stopping it is 100. Did your pulse fall by more than half of the rise by then? How do you know?",
+      "answer": "Yes. It fell by 40, and the rise was 60, so it fell by two thirds of the rise. That is more than half.",
       "explain": "The rise was 140 take away 80, which is 60. The fall was 140 take away 100, which is 40. 40 out of 60 is two thirds, which is more than half. So yes, it fell by more than half.",
       "math_unit": "math.fractions.fractions-of-a-whole.L4",
       "how": "e2",
@@ -2902,7 +2902,7 @@
       "why_maths": "Subtracting the flow out from the flow in shows whether a level will rise, fall or stay steady."
     },
     {
-      "problem": "Tara breathes 20 times a minute at rest. How many breaths is that in one day? Is it more or less than 30,000?",
+      "problem": "You breathe 20 times a minute at rest. How many breaths is that in one day? Is it more or less than 30,000?",
       "answer": "28,800 breaths, which is less than 30,000.",
       "explain": "20 times 60 is 1,200 in an hour. 1,200 times 24 is 28,800 in a day. 28,800 is less than 30,000.",
       "math_unit": "math.number-sense.big-numbers.L4",
@@ -3111,18 +3111,18 @@
     ]
   },
   "roots": {
-    "context": "We have kept a bottle's level, a pulse, a pupil and a blood sugar steady. Now we ask what this kind of steadiness tells us about ourselves and the world.",
+    "context": "In this unit you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.",
     "deep_truth": {
-      "truth": "A steady level is not a place where nothing happens. It is two opposite pushes that keep meeting. Insulin pulls sugar out of your blood while glucagon puts it back. Where they balance, the level stays flat.",
+      "truth": "A steady level is not a place where nothing happens. It is two opposite pushes working against each other all the time. Insulin pulls sugar out of your blood while glucagon puts it back. Where they balance, the level stays flat.",
       "habit": "We treat 'steady' and 'still' as if they meant the same thing, so a flat line looks like nothing is going on. But a flat line can hide a great deal of work.",
-      "evidence": "In the Level Bottle, the level stopped rising while water poured in and out the whole time. On one leg, the ankle looked still only because it kept pulling both ways. If your own results differ, write them down as they are and test again."
+      "evidence": "In the Level Bottle, the level stopped rising while water poured in and out the whole time. In One-Leg Wobble, the ankle looked still only because it kept being pulled both ways. If your own results differ, write them down as they are and test again."
     },
     "three": {
-      "who_am_i": "You are a shape that is held, not a thing that sits. Your ankle, your sugar and your pupils are corrected hundreds of times a minute so that you can look the same.",
-      "what_is_life": "A living body stays itself by keeping things flowing through it: food and water in, heat and waste out. The level stays while the stuff changes.",
+      "who_am_i": "You look the same from one minute to the next, but only because your body keeps correcting itself. Your ankle, your sugar and your pupils are corrected hundreds of times a minute.",
+      "what_is_life": "A living body stays itself by keeping things flowing through it: food and water in, heat and waste out. The levels stay the same while the material passing through keeps changing.",
       "what_is_this_world": "A river keeps its shape while its water changes every second. A star keeps its size because gravity pulling in meets pressure pushing out."
     },
-    "thread": "From one source come pairs: in and out, up and down, pull and push. Each pair adds up to a balance. In the bottle, the trickle and the leak meet at one level. In the ankle, left meets right. In the blood, insulin meets glucagon. In a star, gravity meets pressure. The steady things we see are places where two pushes meet, and nothing at the centre has to hold them still.",
+    "thread": "The same pattern shows up again and again: a pair of opposites that balance. In and out, up and down, pull and push. In the Level Bottle, the trickle and the leak balance at one level. In the ankle, the pull to the left balances the pull to the right. In the blood, insulin balances glucagon. In a star, gravity balances pressure. The steady things we see are places where two pushes balance. Nothing has to sit in the middle and hold them still.",
     "teachings": [
       {
         "source": "Tao Te Ching 77",
@@ -3132,17 +3132,17 @@
       {
         "source": "Heraclitus, fragment 12",
         "teaching": "Heraclitus, a Greek thinker of about 500 BCE, said that on those who step into the same rivers, different and different waters flow.",
-        "link": "A river looks the same while its water is always new. The level in the bottle and the sugar in your blood are the same, steady while their stuff keeps changing."
+        "link": "A river looks the same while its water is always new. The level in the bottle and the sugar in your blood are like that too. They stay steady while what they are made of keeps changing."
       },
       {
         "source": "Bhagavad Gita 6.16 and 6.17",
         "teaching": "As paraphrased, Krishna says that a steady practice is not for one who eats too much or too little, or sleeps too much or too little. It belongs to one who is moderate in eating, play, sleep and waking.",
-        "link": "The Gita is speaking about the mind and the way we live. But it names the same thing as the body does: balance comes from neither too much nor too little, kept up all the time."
+        "link": "The Gita is speaking about the mind and the way we live. But the body shows the same thing: balance means neither too much nor too little, and it has to be kept up all the time."
       }
     ],
     "science": [
       {
-        "text": "Claude Bernard, a French physiologist, argued in the 1800s that a steady inner world is the condition for a free life. Walter Cannon named the idea homeostasis in 1926.",
+        "text": "Claude Bernard, a French physiologist, argued in the 1800s that a body must keep its inside steady in order to live freely. Walter Cannon named the idea homeostasis in 1926.",
         "status": "settled"
       },
       {
@@ -3161,16 +3161,16 @@
     "practice": {
       "title": "Feel the sway",
       "mins": 3,
-      "say": "Stand with your feet apart and your eyes soft. Stay as still as you can. Notice your body swaying a tiny bit, forwards and back, left and right. Feel your ankles and feet making small corrections. Breathe in and out slowly three times. Notice that your breath is also two pushes, in and out. Stay with that for a moment.",
+      "say": "Stand with your feet apart and your eyes relaxed. Stay as still as you can. Notice your body swaying a tiny bit, forwards and back, left and right. Feel your ankles and feet making small corrections. Breathe in and out slowly three times. Notice that your breath is also two pushes, in and out. Stay with that for a moment.",
       "kid": "Stand with your feet apart. Stay as still as you can. Feel your body sway a tiny bit. Breathe in and out slowly three times. Your breath is two pushes, in and out."
     },
     "ask": [
-      "If the level in the bottle is only a meeting of in and out, is the level a thing, or something that is happening?",
+      "If the level in the bottle is only water coming in and water going out, is the level a thing, or something that is happening?",
       "When your sugar stays steady, who is keeping it steady: you, your pancreas, or the two pushes together?",
       "Is a body that never changes more alive, or less alive, than one that keeps changing to stay the same?"
     ],
     "art": "A child standing on one leg by a river at dusk, with faint arrows at the ankle pulling left and right and a star beginning to show overhead."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Level Bottle: the bottle, hole and tap trickle were worked out from the way water leaves a hole, so the steady level rises as the trickle speeds up. The exact levels depend on the hole and the tap, so the steps say to write down what you see. A hole that is too big never fills, and a trickle that is too fast goes over the rim, and the steps say what to do then. Recovery Race: a grown-up must stay with the child. Pulse counting is hard at first, so practise at rest. Pupil Gauge: very dark brown eyes make the pupil hard to see, so a lamp at the side or a phone film is suggested. Sugar See-Saw: the cards and the rules were read through for a full game, but not played with a real family. Late Warmer-Colder works in any room. Facts checked against sources: about 4 to 5 grams of glucose in a grown-up's blood (Harvard BioNumbers gives about 4 g, so 'about' stays), the resting pulse and breathing ranges (softened to 16 to 25 breaths), about 101 million people with diabetes in India (Lancet 2023), ants and honey urine in the Sushruta texts (secondary sources only), and the one-dollar patent sale (confirmed; 'each' removed). The flies story is disputed and was removed. The three videos have no address yet. Feasibility review: Level Bottle settles slowly in a wide bottle, so the steps now read until two readings match and keep the water between tests. Pupil Gauge: reading a pupil by eye in one second is hard, so a phone film and a cover test are the main methods. Not yet tried by a family.",
- "warm": {"words": ["SUGAR", "PULSE", "PUPIL", "BLOOD", "LEVEL"], "quiz": [["When blood sugar goes up, the body pushes it back down.", true, "Negative feedback pushes against a change, so the level comes back to steady."], ["A steady blood sugar level means nothing is happening in the body.", false, "A steady level is two flows that match: sugar goes in and out all the time."], ["The bigger a change is, the smaller the push back in negative feedback.", false, "In negative feedback the bigger the change, the bigger the push back against it."], ["Insulin and glucagon push blood sugar in opposite directions.", true, "An opposing pair lets the body correct a level that went too high or too low."], ["Low oxygen is the main thing that makes you feel the urge to breathe.", false, "Rising carbon dioxide in the blood is the main signal. Low oxygen matters only a little."], ["Your pupils get smaller in bright light without you deciding anything.", true, "A quick automatic loop through the brainstem fixes the light, and it needs no thought."], ["Eating sugar is what causes type 1 diabetes.", false, "Type 1 happens when the body's own defences destroy the cells that make insulin."], ["A correction that arrives late can push a level past its target.", true, "While the delay lasts the push carries on, so the level overshoots before it settles."], ["The body holds each thing at one fixed set point that never changes.", false, "Set points move: the body is cooler in the early morning, warmer in the afternoon and in fever."], ["After hard exercise, your pulse falls fast at first and then more slowly.", true, "Pulse falls back to rest in a curve, with the biggest drop at the start."]], "odd": [[["Pupils shrink in bright light", "Sweating when hot", "Insulin after a meal", "Snowball rolling downhill"], "Snowball rolling downhill", "The other three push back against a change; a snowball grows bigger, so the change makes more change."], [["Pupil getting smaller", "Pulse rising in exercise", "Gut churning food", "Choosing to run"], "Choosing to run", "The other three happen automatically without a decision; running is something you decide to do."], [["Glucagon", "Liver letting out stored sugar", "Eating a sweet", "Insulin"], "Insulin", "The other three raise the sugar in the blood; insulin takes sugar out of the blood and lowers it."], [["Bath with tap and drain both open", "Level Bottle with water pouring through", "Blood sugar between meals", "Water in a closed glass"], "Water in a closed glass", "The other three stay steady because flow in matches flow out; the closed glass has no flow at all."], [["Insulin", "Glucagon", "Adrenaline", "Pulse"], "Pulse", "The other three are hormones, chemical messages in the blood; the pulse is a wave of stretch in an artery."]]}
+ "warm": {"words": ["SUGAR", "PULSE", "PUPIL", "BLOOD", "LEVEL"], "quiz": [["When blood sugar goes up, the body pushes it back down.", true, "Negative feedback pushes against a change, so the level comes back to steady."], ["A steady blood sugar level means nothing is happening in the body.", false, "A steady level is two flows that match: sugar goes in and out all the time."], ["The bigger a change is, the smaller the push back in negative feedback.", false, "In negative feedback the bigger the change, the bigger the push back against it."], ["Insulin and glucagon push blood sugar in opposite directions.", true, "An opposing pair lets the body correct a level that went too high or too low."], ["Low oxygen is the main thing that makes you feel the urge to breathe.", false, "Rising carbon dioxide in the blood is the main signal. Low oxygen matters only a little."], ["Your pupils get smaller in bright light without you deciding anything.", true, "A quick automatic loop through the brainstem changes the size of the pupil, and it needs no thought."], ["Eating sugar is what causes type 1 diabetes.", false, "Type 1 happens when the body's own defences destroy the cells that make insulin."], ["A correction that arrives late can push a level past its target.", true, "While the delay lasts the push carries on, so the level overshoots before it settles."], ["The body holds each thing at one fixed set point that never changes.", false, "Set points move: the body is cooler in the early morning, warmer in the afternoon and in fever."], ["After hard exercise, your pulse falls fast at first and then more slowly.", true, "Pulse falls back to rest in a curve, with the biggest drop at the start."]], "odd": [[["Pupils shrink in bright light", "Sweating when hot", "Insulin after a meal", "Snowball rolling downhill"], "Snowball rolling downhill", "The other three push back against a change; a snowball grows bigger, so the change makes more change."], [["Pupil getting smaller", "Pulse rising in exercise", "Gut churning food", "Choosing to run"], "Choosing to run", "The other three happen automatically without a decision; running is something you decide to do."], [["Glucagon", "Liver letting out stored sugar", "Eating a sweet", "Insulin"], "Insulin", "The other three raise the sugar in the blood; insulin takes sugar out of the blood and lowers it."], [["Bath with tap and drain both open", "Level Bottle with water pouring through", "Blood sugar between meals", "Water in a closed glass"], "Water in a closed glass", "The other three stay steady because flow in matches flow out; the closed glass has no flow at all."], [["Insulin", "Glucagon", "Adrenaline", "Pulse"], "Pulse", "The other three are hormones, chemical messages in the blood; the pulse is a wave of stretch in an artery."]]}
 }

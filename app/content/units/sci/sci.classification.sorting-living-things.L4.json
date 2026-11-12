@@ -3,12 +3,12 @@
  "title": "Sorting animals into groups: testing rules against the hard cases",
  "level": 4,
  "summary": {
-  "text": "A bat flies like a crow, but her relatives are cats and cows. A dolphin swims like a shark, but she breathes air and feeds her baby milk. So how do scientists decide which animals belong together? They test every rule against the hard cases, such as the egg-laying platypus, the flightless penguin and the legless snake, and keep only the rules that do not break. This unit sorts animals with and without a backbone, then follows the family tree, where even the word fish hides a surprise.",
+  "text": "A bat flies like a crow, but her relatives are cats and cows. A dolphin swims like a shark, but she breathes air and feeds her baby milk. So how do scientists decide which animals belong together? They test every rule against the hard cases, such as the egg-laying platypus, the flightless penguin and the legless snake, and keep only the rules that do not break. This unit sorts animals with and without a backbone, then follows the family tree, where the word fish turns out not to name one family.",
   "art": "A bat, a crow and a cat sitting in a row on a roof ledge at dusk, with a thin string joining the bat to the cat."
  },
  "intro": {
-  "hook": "A bat, a crow and a cat. Which two belong together? Most people say the bat and the crow, because both fly. Look closer. The bat has fur, and her baby drinks her milk, just like a kitten. The crow has feathers and lays eggs.",
-  "text": "Sorting by flying is a good sort if you are watching the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this unit you test sorting rules on the hardest cases animals can offer, and you find rules that never break.",
+  "hook": "Take a bat, a crow and a cat. Which two belong together? Most people say the bat and the crow, because both fly. Look closer. The bat has fur, and her baby drinks her milk, just like a kitten. The crow has feathers and lays eggs.",
+  "text": "Sorting by flying works if you only want to know who is in the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this unit you test sorting rules on the animals that are hardest to sort, and you find rules that never break.",
   "art": "A child on a balcony at dusk pointing at a bat flying past a crow, with a cat watching from the window."
  },
  "outcomes": [
@@ -102,7 +102,7 @@
   },
   {
    "term": "Homologous",
-   "meaning": "Describes body parts built from the same bones in a shared ancestor, even when they do different jobs.",
+   "meaning": "Describes body parts that come from the same bones of a shared ancestor, even when they do different jobs.",
    "example": "A bat's wing and your arm are homologous.",
    "art": "A human arm and a bat wing with matching bones coloured the same."
   },
@@ -207,7 +207,7 @@
    "status": "defined",
    "context": "This card explains why shape is a poor clue for who is related to whom.",
    "definition": "Convergent evolution is when animals who are not close relatives end up with a similar shape, because they solve the same problem.",
-   "description": "A shark, a dolphin and a penguin all have a smooth, pointed body and a fin or flipper on each side. Swimming fast through water pushes every swimmer towards that shape. Over a very long time, each one's young changed a little in each generation, and the shape that cut through water best was the one that kept going. The shark is a fish, the dolphin is a mammal and the penguin is a bird, so they sit on three different branches of the family tree. A bat's wing and a crow's wing are another pair. Both are for flying, but each kind of wing was built separately, from skin stretched over long fingers in the bat and from feathers in the crow. So scientists look past the shape, to clues that come from ancestors, such as milk, hair and the bones inside.",
+   "description": "A shark, a dolphin and a penguin all have a smooth, pointed body and a fin or flipper on each side. Swimming fast through water pushes every swimmer towards that shape. Over a very long time, each one's young changed a little in each generation, and the shape that cut through water best was the one that was passed on. The shark is a fish, the dolphin is a mammal and the penguin is a bird, so they sit on three different branches of the family tree. A bat's wing and a crow's wing are another pair. Both are for flying, but each kind of wing was built separately, from skin stretched over long fingers in the bat and from feathers in the crow. So scientists look past the shape, to clues that come from ancestors, such as milk, hair and the bones inside.",
    "examples": [
     "A shark, a dolphin and a penguin have similar shapes but different breathing and babies.",
     "The wings of a bat, a crow and a butterfly all fly, but have three different builds.",
@@ -220,7 +220,7 @@
    "concept": "Same bones, different jobs",
    "status": "defined",
    "context": "This card shows the strongest clue that animals are related, which is the same bones in a different shape.",
-   "definition": "Body parts built from the same bones in a shared ancestor are called homologous, even when they do different jobs.",
+   "definition": "Body parts that come from the same bones of a shared ancestor are called homologous, even when they do different jobs.",
    "description": "Feel your upper arm. It holds one long bone. Turn your forearm and feel two bones side by side. Then come your wrist bones and your finger bones. A bat's wing has the same plan: one bone, two bones, wrist and very long finger bones with skin stretched between them. A dolphin's flipper has one bone, two bones, wrist and finger bones inside a smooth paddle. A crow's wing has the same plan, with fewer finger bones. A horse's leg is the same plan, standing on one long finger. These animals do not need the same bones to do their jobs, because a different design could work. The best explanation is that they inherited the plan from one four-limbed ancestor.",
    "examples": [
     "Your arm, a bat's wing and a dolphin's flipper all have one upper bone and two lower bones.",
@@ -233,9 +233,9 @@
   {
    "concept": "Groups inside groups: the backbone family tree",
    "status": "defined",
-   "context": "This card shows how the five groups nest inside each other, like rooms inside rooms, which the floor game uses.",
+   "context": "This card shows how the five groups nest inside each other, like rooms inside rooms. The Family Tree Floor Hop game uses these rooms.",
    "definition": "The groups nest. Each inner group has all the clues of the group around it, and adds one new clue.",
-   "description": "All animals with a backbone are vertebrates. Inside that group, frogs, reptiles, birds and mammals descend from animals with four limbs. A snake lost her legs later and a whale's legs became flippers, but their ancestors had four limbs. Inside that group, reptiles, birds and mammals descend from animals whose egg had a waterproof skin around the baby, so the egg could develop on dry land. Inside that group, only mammals feed milk and have hair. Fish sit at the outer edge, because they have the backbone but not the four limbs. The tree shows who is more closely related than who.",
+   "description": "All animals with a backbone are vertebrates. Inside that group, frogs, reptiles, birds and mammals descend from animals with four limbs. A snake lost her legs later and a whale's legs became flippers, but their ancestors had four limbs. Inside that group, reptiles, birds and mammals descend from animals whose egg had a waterproof skin around the baby, so the egg could develop on dry land. Inside that group, only mammals feed milk and have hair. Fish sit at the outer edge, because they have the backbone but not the four limbs. The tree shows which animals are more closely related.",
    "examples": [
     "A frog is inside the four-limbs room but not the sealed-egg room.",
     "A crow is inside the sealed-egg room, and so are a gecko and a cat.",
@@ -274,7 +274,7 @@
    "concept": "Is fish a real group?",
    "status": "debated",
    "context": "This card asks whether the word fish describes one family, and the answer surprised scientists.",
-   "description": "Fish are animals who live in water, breathe with gills and swim with fins. But there are three very different kinds: sharks with a skeleton of cartilage, bony fish such as the rohu with fins held by thin rays, and lobe-finned fish such as the lungfish, whose fins have thick bones and muscle. Lungfish have lungs too. In 2021 scientists read the genes of an Australian lungfish, and found that lungfish are the closest living relatives of animals who walk on land. In 2004 a team found Tiktaalik, a fossil about 375 million years old, with fins that held wrist bones and a neck. So a lungfish is a closer relative of a cow than of a rohu. If fish meant all the descendants of the first fish, it would have to include frogs, lizards, crows, cows and people.",
+   "description": "Fish are animals who live in water, breathe with gills and swim with fins. But there are three very different kinds: sharks with a skeleton of cartilage, bony fish such as the rohu with fins held by thin rays, and lobe-finned fish such as the lungfish, whose fins have thick bones and muscle. Lungfish have lungs too. In 2021 scientists read the genes of an Australian lungfish, and found that lungfish are the closest living relatives of animals who walk on land. In 2004 a team found Tiktaalik, a fossil about 375 million years old, who had a neck and fins with wrist bones. So a lungfish is a closer relative of a cow than of a rohu. If fish meant all the descendants of the first fish, it would have to include frogs, lizards, crows, cows and people.",
    "examples": [
     "A lungfish breathes air and has fleshy fins with bones.",
     "Tiktaalik had a flat head, a neck and fins with wrist bones.",
@@ -301,7 +301,7 @@
    "status": "defined",
    "context": "This card shows how to sort the 19 out of 20 kinds of animal who have no backbone, with one question for each group.",
    "definition": "Invertebrate is not one family. It only says what the animals lack. Scientists sort them into many separate groups.",
-   "description": "Arthropods have jointed legs and a hard skeleton outside the body. Insects have six legs, spiders have eight and crabs have ten or more. Molluscs have a soft body and one muscular foot, and many have a shell. Annelids have soft bodies made of rings and no legs, such as the earthworm. Cnidarians have stinging tentacles around a mouth, such as jellyfish and corals. Echinoderms have spiny skin, tiny tube feet and arms in fives, such as the starfish. Sponges have bodies full of holes and stay in one place. A sponge has no brain or nerves, and some sponges can still slowly shrink when disturbed. An octopus has no backbone, but she solves puzzles and opens jars.",
+   "description": "Arthropods have jointed legs and a hard skeleton outside the body. Insects have six legs, spiders have eight and crabs have ten or more. Molluscs have a soft body and one muscular foot, and many have a shell. Annelids have soft bodies made of rings and no legs, such as the earthworm. Cnidarians have stinging tentacles around a mouth, such as jellyfish and corals. Echinoderms have spiny skin, tiny tube feet and arms in fives, such as the starfish. Sponges have bodies full of holes and stay in one place. A sponge has no brain or nerves, yet some sponges can still slowly shrink when disturbed. An octopus has no backbone, but she solves puzzles and opens jars.",
    "examples": [
     "Ask 'Does she have jointed legs?' and an ant, a spider and a crab answer yes.",
     "Ask 'Is her skin spiny, with arms in fives?' and a starfish answers yes.",
@@ -356,7 +356,7 @@
    "claim": "Fish are one natural family.",
    "who": "School books and many people",
    "for": "Fish all live in water, breathe with gills and have fins, so they look like one group.",
-   "against": "A lungfish is a closer relative of a cow than of a rohu, so the word fish covers several branches of the tree and leaves out the land animals that came from one of them.",
+   "against": "A lungfish is a closer relative of a cow than of a rohu. So the word fish covers several branches of the tree, and it leaves out the land animals who came from one of those branches.",
    "status": "debated",
    "context": "This card is about whether the word fish names one family or only a way of life."
   },
@@ -364,7 +364,7 @@
    "claim": "Birds are a separate group from reptiles.",
    "who": "The traditional five-group system",
    "for": "Birds have feathers, wings, a high body heat and a very different life from lizards.",
-   "against": "Birds descend from dinosaurs, which are reptiles, and crocodiles are the closest living relatives of birds. A group of reptiles that leaves out birds leaves out some of the descendants.",
+   "against": "Birds descend from dinosaurs, which are reptiles, and crocodiles are the closest living relatives of birds. So a reptile group without birds leaves out some of the reptiles' own descendants.",
    "status": "debated",
    "context": "This card is about whether birds are their own group or a branch of the reptiles."
   },
@@ -410,7 +410,7 @@
    "hint": "Think about the shark, the dolphin and the penguin."
   },
   {
-   "q": "Of every 20 kinds of animals, 19 have no backbone. Why did people study the one that includes us first?",
+   "q": "Of every 20 kinds of animals, 19 have no backbone. Why do you think people studied the animals with a backbone first?",
    "kind": "big",
    "hint": "Who made the names, and who were they looking at?"
   },
@@ -641,7 +641,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the 24 cards and the 6 tokens. Keep the cards in one pile, with the backs showing no answers. Give each player one set of six tokens.",
+     "do": "Cut out the 24 cards and the 6 tokens. Keep the cards in one pile with the fronts facing up, so the answers on the backs are hidden. Give each player one set of six tokens.",
      "say": "These cards each describe one animal. Your job is to find the group. There are five groups with a backbone, and one group for animals with no backbone. Some of these animals are hard cases.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take one set of six tokens.",
      "parent": "No printer? Write the animal's name and the five facts on a small piece of paper for each card, and the group on the back. Copy 8 cards at a time and play those first.",
@@ -663,7 +663,7 @@
        ]
       }
      ],
-     "parent": "The cards with hard cases are the platypus, the dolphin, the penguin, the ostrich, the viper, the sea turtle, the caecilian, the seahorse and the climbing perch. When a child is fooled, ask which fact fooled them, and which fact should they have trusted instead.",
+     "parent": "The cards with hard cases are the platypus, the dolphin, the penguin, the ostrich, the viper, the sea turtle, the caecilian, the seahorse and the climbing perch. When a child is fooled, ask which fact fooled them, and which fact they should have trusted instead.",
      "check": {
       "t": "mcq",
       "q": "A card says: Home: river water, all the time. Breathes with: lungs, through a blowhole. Young: born live, and fed milk. Which group is she?",
@@ -683,7 +683,7 @@
      "do": "Play the remaining 12 cards the same way. Add up the scores. The player with the most points wins.",
      "say": "Keep going. When you meet an animal with no backbone, use the token that says no backbone.",
      "kid": "Play the other cards. Add up your points.",
-     "parent": "With one child, the parent plays as a second player, or the child plays alone. Ask at the end: which card fooled you most, and what rule would have fooled you the same way?",
+     "parent": "With one child, the parent plays as a second player, or the child plays alone. Ask at the end: which card fooled you most, and which simple rule made you pick the wrong group?",
      "context": "In this step you finish the game and add up the scores."
     }
    ]
@@ -726,8 +726,8 @@
    ],
    "rules": [
     "Draw four squares inside each other on the floor with chalk or masking tape. The biggest square is Room 1. The smallest is Room 4. Put a label in each room.",
-    "An animal belongs in a room if she, or her ancestors, had the clue for that room, and every bigger room around it.",
-    "A fish with a backbone stands in Room 1, outside Room 2. An amphibian stands in Room 2, outside Room 3. A reptile or a bird stands in Room 3, outside Room 4. A mammal stands in Room 4. An animal with no backbone stands outside all four rooms.",
+    "An animal belongs in a room if she, or her ancestors, had the clue for that room and for every bigger room around it.",
+    "A fish has a backbone, so she stands in Room 1, outside Room 2. An amphibian stands in Room 2, outside Room 3. A reptile or a bird stands in Room 3, outside Room 4. A mammal stands in Room 4. An animal with no backbone stands outside all four rooms.",
     "Snakes and whales lost their legs or changed them, but their ancestors had four limbs, so they still stand where their group stands.",
     "The reader reads the front of a card. The hopper hops to the smallest room she thinks fits that animal.",
     "The reader turns the card over to check. A hopper in the right room scores one point. A hopper who can also name one clue scores two points.",
@@ -741,7 +741,7 @@
      "do": "Draw four squares inside each other on the floor, with chalk or masking tape. Make the biggest about 2 steps wide. Write Room 1 to Room 4 and the room names.",
      "say": "This floor is a family tree drawn as rooms inside rooms. Room 1 is for every animal with a backbone. Room 2 is for animals whose ancestors had four limbs.",
      "kid": "Draw four squares inside each other. Name the rooms.",
-     "parent": "No chalk on a balcony? Use masking tape on a tile floor, or lay four sheets of newspaper folded to different sizes, the biggest one underneath.",
+     "parent": "If you cannot use chalk, use masking tape on a tile floor, or lay four sheets of newspaper folded to different sizes, the biggest one underneath.",
      "context": "In this step you draw the rooms on the floor."
     },
     {
@@ -754,13 +754,13 @@
       {
        "q": "Why does a frog stand in Room 2 and not Room 3?",
        "good": [
-        "She has four limbs in her family, but her eggs have no waterproof skin."
+        "She has four limbs, but her eggs have no waterproof skin."
        ]
       },
       {
        "q": "Why does a bat stand in Room 4?",
        "good": [
-        "She has fur and milk, so she fits every room around it too."
+        "She has fur and feeds milk, which is the clue for Room 4, and she fits every bigger room around it too."
        ]
       }
      ],
@@ -773,7 +773,7 @@
        "Outside the rooms, because she has no backbone"
       ],
       "a": 1,
-      "why": "Snakes descend from four-legged ancestors and lost their legs later. Her eggs, or the eggs of her ancestors, had a waterproof skin, so she stands in Room 3. Her legs do not change her family."
+      "why": "A snake's ancestors had four legs, and snakes lost their legs later. Her eggs, or the eggs of her ancestors, had a waterproof skin, so she stands in Room 3. Losing her legs does not change her family."
      },
      "context": "In this step you play the first half of the floor game."
     },
@@ -838,7 +838,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Write the five rules on a sheet of paper. 1. Animals that live in water are fish. 2. Animals that fly are birds. 3. Animals that are born live are mammals. 4. Animals with scales are reptiles. 5. Animals with hair or fur that feed milk are mammals. Ask for a guess and a reason, and write them down.",
+     "do": "Write the five rules on a sheet of paper. 1. Animals that live in water are fish. 2. Animals that fly are birds. 3. Animals that are born live are mammals. 4. Animals with scales are reptiles. 5. Animals with hair or fur that feed milk are mammals. Ask your child which rule will break most and which will not break, and why. Write the guess and the reason down.",
      "say": "Here are five rules that people use to sort animals. Which rule do you think will be broken by the most animals? Which one will not break at all? Why do you think so?",
      "kid": "Here are five rules. Which will break most? Which will not break? Why?",
      "ask": [
@@ -857,10 +857,10 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Print or copy the 16 vertebrate cards, which are cards 1 to 16 of Group Detective. Lay them face up with the backs hidden. Put the two sheets of paper beside them.",
+     "do": "Print or copy the 16 vertebrate cards, which are cards 1 to 16 of Group Detective. Lay them with the fronts facing up, so the backs are hidden. Put two sheets of paper beside them. Label one sheet Passes and the other Does not pass.",
      "say": "These cards are 16 animals, each with five facts. We will test each rule on every animal. If an animal fits the rule, she goes on the Passes sheet. If not, she goes on the Does not pass sheet.",
-     "kid": "Lay out the 16 cards. Put out two sheets of paper.",
-     "parent": "Only the fronts show the facts. The backs show the real group, so keep them face down until the counting step. No printer? Copy each animal onto a small slip of paper, with only its name and the Moves, Home, Cover and Young lines, and the group on the back. Sixteen slips take about 15 minutes, so two children can share the copying. One child with a parent: the parent reads the rule and the child sorts. With 2 to 4 children: each child tests a different rule on the same 16 cards, and then they check each other's counts.",
+     "kid": "Lay out the 16 cards. Put out two sheets of paper: Passes and Does not pass.",
+     "parent": "Only the fronts show the facts. The backs show the real group, so keep them face down until the counting step. No printer? Copy each animal onto a small slip of paper, with only her name and the Moves, Home, Cover and Young lines, and the group on the back. Sixteen slips take about 15 minutes, so two children can share the copying. One child with a parent: the parent reads the rule and the child sorts. With 2 to 4 children: each child tests a different rule on the same 16 cards, and then they check each other's counts.",
      "context": "In this step you set out the cards and the two sheets."
     },
     {
@@ -886,7 +886,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Test rule 2. Put a card on Passes if the Moves line says flies. Turn the cards over. Count the animals let in, who are not birds. Count the birds left out. Write both numbers.",
+     "do": "Test rule 2. Put a card on Passes if the Moves line says flies. Turn the cards over. Count the animals let in who are not birds. Count the birds left out. Write both numbers.",
      "say": "Rule 2 says animals that fly are birds. Which cards say flies? Now turn them over. Who is let in? Which birds are left out?",
      "kid": "Test rule 2. Sort by Moves. Turn the cards. Count.",
      "parent": "Expected: 1 animal is let in, which is the bat. 2 birds are left out, which are the penguin and the ostrich.",
@@ -940,9 +940,9 @@
     {
      "id": "s9",
      "mins": 6,
-     "do": "Fix the rules that broke. Try these four. 1. Animals that breathe with gills all their lives are fish. 2. Animals with feathers are birds. 3. Animals that feed their babies milk are mammals. 4. Animals with dry scales and lungs are reptiles. Test each on the cards again. Then ask your child to say or write three things. What I think. What I saw. Why.",
+     "do": "Fix the rules that broke. Try these four. 1. Animals that breathe with gills all their lives are fish. 2. Animals with feathers are birds. 3. Animals that feed their babies milk are mammals. 4. Animals with dry scales and lungs are reptiles. Test each on the cards again. Then ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Now let's mend the rules. Test each new rule on the cards. Does any animal break it? Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Test the four new rules. Then say what I think, what I saw and why.",
+     "kid": "Test the four new rules. Then say what you think now, what you saw and why it happened.",
      "parent": "Expected: all four new rules have 0 breakers. Check that no card for a reptile says wet scales. A good answer sounds like this. What I think: rules about body clues work better than rules about places or actions. What I saw: living in water, flying and being born live each broke on 3 to 6 animals, but hair and milk broke on none. Why: places and actions are shared by unrelated animals, but body clues such as milk and gills come from an animal's ancestors.",
      "check": {
       "t": "mcq",
@@ -995,7 +995,7 @@
    "context": "In this experiment you time how long you can hold your breath, and then compare your time with animals who breathe air in the water.",
    "question": "How long can you hold your breath at rest, and after exercise? How long can air-breathing animals who live in water stay under?",
    "predict": "Before you start, guess. How many seconds can you hold your breath sitting still? Will it be longer or shorter after 30 star jumps? Why do you think so?",
-   "fair_test": "You sit on the same chair, rest the same time, take one ordinary breath in and start the clock at the same moment. Only the thing you do before the hold changes. It is rest, or it is 30 star jumps. You do each twice, with a rest between.",
+   "fair_test": "You sit on the same chair, rest the same time, take one ordinary breath in and start the clock at the same moment. Only one thing changes: what you do before the hold. You either rest or do 30 star jumps. You do each twice, with a rest between.",
    "results_table": [
     "Before the hold",
     "Try 1 (seconds)",
@@ -1015,8 +1015,8 @@
      "qty": 1
     }
    ],
-   "safety": "Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. Do not turn it into a race, and a grown-up stays beside the child for every hold. A child with asthma or a breathing problem should skip the star jumps.",
-   "record": "Write the four times in the results table. Draw a bar for each. Then write one line comparing your best time with a dolphin.",
+   "safety": "Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. Do not turn it into a race. A grown-up stays beside the child for every hold. A child with asthma or a breathing problem should skip the star jumps.",
+   "record": "Write the four times in the results table. Draw a bar for each. Then write one line comparing your best time with how long a dolphin stays under.",
    "setup": [
     {
      "art": "A child sitting on a chair with a hand on her chest while a parent holds a phone timer.",
@@ -1035,7 +1035,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Ask for a guess and a reason, and write them down. Show your child the timer.",
+     "do": "Ask your child to guess how many seconds they can hold their breath, and whether it will be longer or shorter after 30 star jumps. Ask for a reason. Write the guess and the reason down. Show your child the timer.",
      "say": "We will time how long you can hold your breath. How many seconds do you think? Will it be longer or shorter after 30 star jumps? Why do you think so?",
      "kid": "Guess how long you can hold your breath. Longer or shorter after jumping? Why?",
      "parent": "Write the guess and the reason. Do not correct it.",
@@ -1044,8 +1044,8 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask your child to sit still. Count out loud each time they breathe out for one full minute. Write the number.",
-     "say": "Sit still and breathe as you usually do. I will count each time you breathe out for one minute.",
+     "do": "Ask your child to sit still. For one full minute, count out loud each time they breathe out. Write the number.",
+     "say": "Sit still and breathe as you usually do. For one minute, I will count each time you breathe out.",
      "kid": "Sit still. Your grown-up counts your breaths for a minute.",
      "parent": "A child at rest breathes out about 15 to 25 times a minute. Write the number to use in the maths section.",
      "context": "In this step you count your normal breaths in one minute."
@@ -1053,7 +1053,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Rest. Your child takes one normal breath in, holds, and says stop when they want to breathe. Time it in seconds. Rest for two minutes. Do it a second time.",
+     "do": "Your child rests first. Then they take one normal breath in, hold it, and say stop when they want to breathe. Time it in seconds. Rest for two minutes. Do it a second time.",
      "say": "Take one normal breath in and hold it. Say stop when you want to breathe. I will time you. Stop at any time you like.",
      "kid": "Breathe in once. Hold. Say stop when you must breathe. Rest. Try again.",
      "parent": "Most children hold for about 20 to 45 seconds at rest. Praise every time, and never push the child to hold longer. Stop at once if your child feels dizzy. With 2 to 4 children, only one child holds at a time while the others sit, one times and one writes. Never make it a contest, because the point is each child's own times. Phone clocks differ by a second or two, which does not matter here.",
@@ -1084,9 +1084,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Read your child these air-breathing animals. A Ganges river dolphin comes up every minute or two. An emperor penguin usually dives for about 5 to 10 minutes, and can stay under 20 minutes or more. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Ask for three things. What I think. What I saw. Why.",
-     "say": "Now compare. Your best time was how long? A river dolphin comes up every minute or two. A penguin can stay under for over 20 minutes. A rohu never has to come up. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Compare your time. Say what I think, what I saw and why.",
+     "do": "Read these facts to your child. A Ganges river dolphin comes up every minute or two. An emperor penguin usually dives for about 5 to 10 minutes, and can stay under 20 minutes or more. A sperm whale can stay under more than an hour. A rohu never needs to come up, because she has gills. Then ask your child to say three things: what they think now, what they saw, and why they think it happened.",
+     "say": "Now compare. How long was your best time? A river dolphin comes up every minute or two. A penguin can stay under for over 20 minutes. A rohu never has to come up. What do you think now? What did you see? Why do you think it happened?",
+     "kid": "Compare your time with the animals. Say what you think now, what you saw and why it happened.",
      "parent": "A good answer: What I think: air-breathing animals who live in water must come to the surface. What I saw: my time was short, and shorter after exercise. Why: lungs hold air, not water, so any animal with lungs must come up to refill. Some animals hold their breath much longer than people, but they all come up. A fish takes oxygen from the water with gills, so she can stay under for ever.",
      "context": "In this step you compare your result with animals who breathe air in water."
     }
@@ -1128,7 +1128,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up pours the warm water. It must not be hot. A grown-up crushes the sugar, on a table with the cloth folded over it, and children keep their faces back, because hard kalkandu can fly in small sharp bits.",
+   "safety": "A grown-up pours the warm water. It must not be hot. A grown-up crushes the sugar, on a table with the cloth folded over it. Children keep their faces back, because hard kalkandu (mishri) can fly in small sharp bits.",
    "record": "Write the three times in the table. Draw a bar for each. Then draw a rough picture of a fish's gill, and a simple lump, to show what is different.",
    "setup": [
     {
@@ -1148,9 +1148,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Ask for a guess and a reason, and write them down. Show your child the three forms of sugar.",
-     "say": "Here is sugar in three forms. One cube. One cube broken in pieces. One cube crushed to powder. Which will disappear in the water first? Why do you think so?",
-     "kid": "Three forms of sugar. Which disappears first? Why?",
+     "do": "Show your child the three forms of sugar. Ask which will disappear in the water first, and why. Write the guess and the reason down.",
+     "say": "Here is sugar in three forms. One cube is whole. One cube is broken in pieces. One cube is crushed to powder. Which will disappear in the water first? Why do you think so?",
+     "kid": "Here are three forms of sugar. Which will disappear in the water first? Why?",
      "parent": "Do not correct the guess.",
      "context": "This is the first step of the Lump or Powder test. You guess before you test."
     },
@@ -1158,7 +1158,7 @@
      "id": "s2",
      "mins": 6,
      "do": "Pour 150 millilitres of warm water into each of three glasses. Leave one cube whole. Break the second cube into about 6 pieces. Wrap the third cube in a cloth. Crush it with a rolling pin or the base of a steel glass until it is powder.",
-     "say": "Same water, same sugar. Only the shape of the sugar is different. Whole. Broken. Powder.",
+     "say": "The water is the same and the sugar is the same. Only the shape of the sugar is different. One is whole, one is broken and one is powder.",
      "kid": "Fill three glasses. Make a lump, pieces and powder.",
      "parent": "Hand-warm water is best. If the cubes are not equal, use the two most alike. Do the pressing on a table, not a glass. Sugar cubes are rare in kirana shops, so kalkandu (mishri) is the usual choice, and it is harder to crush. No cubes or kalkandu at all? Use 1 level teaspoon of ordinary sugar in each of two glasses, one as it comes and one ground fine in a mixer jar or mortar, and compare those two forms. One child with a parent: the child does all three glasses and the parent times. With 2 to 4 children: each pair makes their own three glasses, one child tips and one times, and the pairs compare their times at the end.",
      "adult": true,
@@ -1170,7 +1170,7 @@
      "do": "Start the timer. Tip each form into its own glass at the same moment, without stirring. Watch the glasses. Say the time out loud when no grains are left in each glass.",
      "say": "Ready? Tip them in. Don't stir. Watch carefully. Which one goes first? Tell me when each glass looks clear.",
      "kid": "Tip all three in at once. Do not stir. Say when each one is gone.",
-     "parent": "Typical, not promised: the powder is gone in about a minute or two, the pieces take a little longer, and the whole lump takes longest, from a few minutes for a sugar cube to 10 minutes or more for kalkandu. The order matters more than the numbers. Stop at 10 minutes and write 'not finished' if the lump is still there, and note how big it looks compared with the start, which is still a result. The powder may clump on the bottom, so tip it in slowly. Cold water is slower, so use warm water. If all three look the same, the lump was probably tiny or the water too hot, so try again with bigger lumps.",
+     "parent": "These times are typical, not certain: the powder is gone in about a minute or two, the pieces take a little longer, and the whole lump takes longest, from a few minutes for a sugar cube to 10 minutes or more for kalkandu. The order matters more than the numbers. Stop at 10 minutes and write 'not finished' if the lump is still there, and note how big it looks compared with the start, which is still a result. The powder may clump on the bottom, so tip it in slowly. Cold water is slower, so use warm water. If all three look the same, the lump was probably tiny or the water too hot, so try again with bigger lumps.",
      "context": "In this step you start the timer and watch the sugar dissolve."
     },
     {
@@ -1198,7 +1198,7 @@
        "The folds make the fish heavier"
       ],
       "a": 0,
-      "why": "Oxygen passes in where the gill touches water, so more folds mean more touching. If you chose another answer, think back to the sugar. The powder touched the water in most places and dissolved fastest."
+      "why": "Oxygen passes in where the gill touches water, so more folds mean more touching. If you chose another answer, think back to the sugar. The powder touched the water in the most places and dissolved fastest."
      },
      "context": "In this step you read the results and connect them to gills."
     },
@@ -1207,7 +1207,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think now, what you saw, and why it happened.",
      "parent": "A good answer: What I think: the more places water can touch, the faster it works. What I saw: the powder dissolved before the pieces and the pieces before the whole cube. Why: the powder has far more surface touching the water.",
      "context": "In this step you say what you found out."
     }
@@ -1257,7 +1257,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show the three animals. Ask your child which two belong together, and why. Write down the answer.",
+     "do": "Tell your child the three animals: a bat, a crow and a cat. Ask which two belong together, and why. Write down the answer.",
      "say": "Look at a bat, a crow and a cat. Which two do you think belong together? Why do you think so?",
      "kid": "Look at a bat, a crow and a cat. Which two belong together? Why?",
      "parent": "Most children say the bat and the crow because both fly. Do not correct the guess.",
@@ -1279,7 +1279,7 @@
        "Neither sort shows anything"
       ],
       "a": 1,
-      "why": "Flying is a way of moving that has started more than once. Fur and milk are clues that come from an ancestor shared with the cat. If you picked flying, remember that insects fly too, and they are not related to birds."
+      "why": "Flying is a way of moving that appeared separately in different animals. Fur and milk are clues that come from an ancestor shared with the cat. If you picked flying, remember that insects fly too, and they are not related to birds."
      },
      "context": "In this step you sort the three animals in three ways."
     },
@@ -1289,7 +1289,7 @@
      "do": "Ask your child to say which sort they trust to find a bat's relatives, and why.",
      "say": "Which sort do you trust to find a bat's relatives? Why?",
      "kid": "Which sort shows a bat's family? Why?",
-     "parent": "With 2 to 4 children, each child fills in the table alone first, and then they argue it out. With one child, you give your own answer second.",
+     "parent": "With 2 to 4 children, each child fills in the table alone first, and then they argue it out. With one child, let the child answer first, and then give your own answer.",
      "context": "In this step you pick the sort that shows family."
     }
    ]
@@ -1415,7 +1415,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Lay the 8 cards face up. Ask your child to look at the facts. Ask the first question: does she have jointed legs and a hard outer skeleton? Put the yes cards in one pile.",
+     "do": "Lay out the 8 Group Detective cards for animals with no backbone, with the fronts facing up. Ask your child to look at the facts. Ask the first question: does she have jointed legs and a hard outer skeleton? Put the yes cards in one pile.",
      "say": "First question. Does she have jointed legs and a hard outer skeleton? Which animals say yes? Put them in one pile.",
      "kid": "Ask: jointed legs and hard outer skeleton? Make a pile of the yes cards.",
      "parent": "Expected: the ant, the spider and the crab are arthropods. With 2 to 4 children, each child sorts the 8 cards alone, and then they compare piles. No printed cards? Draw the 8 animals as small pictures on slips of paper.",
@@ -1447,7 +1447,7 @@
      "do": "Turn the cards over to check. Count how many piles you made. Ask why 'no backbone' is not one family.",
      "say": "Turn the cards over. Did you get the same groups? How many separate groups did you find? Are they all one family?",
      "kid": "Check the backs. How many groups? Are they one family?",
-     "parent": "Five big groups of animals with no backbone were sorted into 5 piles here. Sponges are a sixth group that is not on the cards. These groups are as different from each other as a fish is from a snail.",
+     "parent": "The 8 animals belong to five big groups of animals with no backbone, so there should be 5 piles. Sponges are a sixth group that is not on the cards. These groups are as different from each other as a fish is from a snail.",
      "context": "In this step you check the piles."
     }
    ]
@@ -1579,9 +1579,9 @@
      "id": "s1",
      "mins": 5,
      "do": "Draw a tree trunk at the bottom of the paper and write Backbone on it. Draw a branch for each clue going up: four limbs, sealed egg, hair and milk. Write the clue on each branch.",
-     "say": "This tree has a trunk for the backbone. Each new branch adds one clue. Four limbs. Then a sealed egg. Then hair and milk.",
+     "say": "This tree has a trunk for the backbone. Each new branch adds one clue. The first is four limbs. The next is a sealed egg, which is an egg with a waterproof skin. The last is hair and milk.",
      "kid": "Draw a trunk. Add three branches. Write a clue on each.",
-     "parent": "The branches get a clue each, as in the floor game rooms. The tree is a way of showing who is more closely related.",
+     "parent": "Each branch has one clue, like the rooms in the Family Tree Floor Hop game. The tree is a way of showing who is more closely related.",
      "context": "In this step you draw the tree and write the clues."
     },
     {
@@ -1607,7 +1607,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why the tree is a better way than five boxes.",
+     "do": "Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why a tree is a better way to show this than five boxes.",
      "say": "Here is a surprise. A crocodile is a closer relative of a crow than of a gecko. How could we draw that on the tree?",
      "kid": "A crocodile is closer to a crow than to a gecko. How do we draw that?",
      "parent": "A good answer draws crocodile and crow on one short branch, and gecko on another. With 2 to 4 children, each child draws a tree of their own, and then they compare where they put the crocodile. Five boxes cannot show this, but a tree can.",
@@ -1650,7 +1650,7 @@
     {
      "day": 2,
      "mins": 25,
-     "what": "Draw the tree on the chart paper. Stick the animals on the branches. Add a hard case card and colour the rooms."
+     "what": "Draw the tree on the chart paper. Stick the animals on the branches. Put two hard cases in a box beside the tree."
     }
    ],
    "record": "The chart itself, with 12 animals, four labelled branches and two hard cases.",
@@ -1715,8 +1715,8 @@
    ],
    "creative": [
     "For reptiles: Animals with dry scales and lungs. The fish have wet scales, and the amphibians have moist skin.",
-    "For amphibians: Animals with moist skin and lungs and skin together that lay jelly eggs in water or damp soil.",
-    "A rule that uses 'or' to cover both kinds, such as hair or feathers, to make a group of warm animals. Is that a real family?"
+    "For amphibians: Animals with moist skin, who breathe with lungs and skin together, and who lay jelly eggs in water or damp soil.",
+    "A rule that uses 'or', such as 'animals with hair or feathers', makes one group of warm animals. Is that a real family?"
    ],
    "your_turn": "Pick a group and write your best rule. Test it. How many animals break it? Which clue did you use, and where did that clue come from?",
    "setup": [
@@ -2004,7 +2004,7 @@
       "Warm blood"
      ],
      "a": 0,
-     "why": "A backbone is a row of small bones or hard cartilage. A shark, a snake and a bird have no legs or do not have four, and many have cold blood, so those are not the shared clue.",
+     "why": "A backbone is a row of small bones or hard cartilage. Four legs is not the shared clue, because a shark and a snake have no legs and a bird does not have four. Warm blood is not the shared clue either, because many of these animals have cold blood.",
      "outcome": 0
     },
     {
@@ -2126,7 +2126,7 @@
       "A cow, who does not fly"
      ],
      "a": 0,
-     "why": "A bat flies, so the rule lets her in, but she is a mammal. A crow follows the rule and a cow does not enter it.",
+     "why": "A bat flies, so the rule lets her in, but she is a mammal. A crow follows the rule, and the rule does not let a cow in.",
      "outcome": 2
     },
     {
@@ -2138,7 +2138,7 @@
     },
     {
      "t": "write",
-     "p": "Zainab says: 'A penguin cannot fly, so a penguin is not a bird.' What would you say to her? Use a clue.",
+     "p": "Someone says: 'A penguin cannot fly, so a penguin is not a bird.' What would you say to them? Use a clue.",
      "lines": 3,
      "a": "A strong answer says that the penguin has feathers and lays a hard-shelled egg. Those are the clues for a bird. Flying is not needed.",
      "why": "A strong answer names a clue that decides a bird, such as feathers or a hard-shelled egg, and says that flying is not the deciding clue.",
@@ -2347,7 +2347,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says: 'A tadpole is a fish because she has gills, a tail and lives in water.' How could you show your friend that she is wrong?",
+     "p": "A friend says: 'A tadpole is a fish because she has gills, a tail and lives in water.' How could you show your friend that this is wrong?",
      "lines": 3,
      "a": "Watch her over some weeks. She grows legs, her gills shrink and she grows lungs. She becomes a frog. A fish keeps her gills for her whole life.",
      "why": "A strong answer says that you must look at the whole life, and that a tadpole turns into a frog with lungs.",
@@ -2355,14 +2355,14 @@
     },
     {
      "t": "perspective",
-     "p": "Mrs Kala's class is debating whether a whale shark and a dolphin should be in the same group, since both live in the sea and are huge.",
+     "p": "Should a whale shark and a dolphin be in the same group, since both live in the sea and are huge? Here are two views.",
      "views": [
       {
-       "who": "Divya, a girl in Class 4 (an imagined view)",
+       "who": "A child who sorts by where animals live (an imagined view)",
        "says": "Same group. They both live in the sea, they both swim and they are both huge. A group helps us find animals in the same place."
       },
       {
-       "who": "Ismail, a boy in Class 4 (an imagined view)",
+       "who": "A child who sorts by body clues (an imagined view)",
        "says": "Different groups. The shark has gills and fins and the dolphin has lungs and milk. A group should show who is related."
       }
      ],
@@ -2395,7 +2395,7 @@
     {
      "t": "draw",
      "p": "Draw a family tree with a rohu, a frog, a crow and a cat. Show where each branch splits off.",
-     "a": "A tree with a trunk for the backbone, with the rohu on the lowest branch, then the frog, then the crow and the cat on a branch of sealed eggs, with the cat on a final branch for hair and milk.",
+     "a": "A tree with a trunk for the backbone. The rohu is on the lowest branch and the frog is on the next. The crow and the cat share a branch for sealed eggs, and the cat is on a final branch for hair and milk.",
      "why": "A strong drawing shows the rohu splitting off first, then the frog, and then the crow and the cat sharing a branch before splitting. It shows who is more closely related.",
      "outcome": 6
     },
@@ -2497,7 +2497,7 @@
      "a": [
       "let in"
      ],
-     "why": "A rule that lets in an animal who does not belong has failed, as well as one that leaves out an animal who does.",
+     "why": "A rule fails when it lets in an animal who does not belong, just as it fails when it leaves out an animal who does.",
      "outcome": 2
     },
     {
@@ -2655,7 +2655,7 @@
    "art": "A bat flying across an orange evening sky."
   },
   {
-   "text": "A line of ants on the kitchen wall. Count the legs if she stays still: six.",
+   "text": "A line of ants on the kitchen wall. If one ant stays still, count her legs: six.",
    "art": "A line of ants on a kitchen wall walking towards a sugar crumb."
   },
   {
@@ -2670,7 +2670,7 @@
  "open_questions": [
   {
    "q": "How many kinds of animals are there on Earth?",
-   "why_open": "About 1.5 million kinds of animals have names. One estimate from 2011 suggests there may be about 8.7 million kinds of animals, plants and fungi with cell nuclei, and most are not named yet. Nobody knows."
+   "why_open": "About 1.5 million kinds of animals have names. One estimate from 2011 suggests there may be about 8.7 million kinds of living things whose cells have a nucleus, such as animals, plants and fungi. Most are not named yet. Nobody knows the real number."
   },
   {
    "q": "Which animal branched off first from the rest: the sponge or the comb jelly?",
@@ -2799,7 +2799,7 @@
   {
    "problem": "About 19 of every 20 kinds of animal have no backbone. A museum labels 400 kinds of animals in the same proportion. How many of them have a backbone?",
    "answer": "20 kinds.",
-   "explain": "400 divided by 20 is 20 groups of 20. In each group of 20 kinds, 1 has a backbone, so 20 groups give 20 kinds with a backbone.",
+   "explain": "400 divided by 20 is 20, so there are 20 groups of 20 kinds. In each group of 20 kinds, 1 has a backbone, so 20 groups give 20 kinds with a backbone.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "why_maths": "A ratio shows how unequal the two halves of the animals are, and lets you work out the size of one half in a smaller collection."
   },
@@ -3046,7 +3046,7 @@
   "deep_truth": {
    "truth": "A lungfish is a closer relative of a cow than of a salmon. The fish branch that crawled onto land became frogs, lizards, birds, mammals and us. So the word fish names a way of life in water, not one family. By family, we are inside that branch.",
    "habit": "We picture the five groups as five separate boxes, and fish as the box farthest from us. But boxes made from looks and ways of life can cut one family in two, and the family tree has no gap between fish and us.",
-   "evidence": "In the rule test, 'lives in water' put a dolphin with the fish. A lungfish has lungs and fins with bones. Her genes are closer to land animals than to a salmon. And a 375-million-year-old fossil called Tiktaalik had fins with wrist bones."
+   "evidence": "In the Rule Test, the rule 'animals that live in water are fish' put a dolphin with the fish. A lungfish has lungs and fins with bones. Her genes are closer to land animals than to a salmon. And a 375-million-year-old fossil called Tiktaalik had fins with wrist bones."
   },
   "three": {
    "who_am_i": "You are a mammal, and by family you are also part of the fish branch that crawled onto land. Your arm has the same bones as a bat's wing and a dolphin's flipper.",
@@ -3063,7 +3063,7 @@
    {
     "source": "Karaniya Metta Sutta, Sutta Nipata 1.8, verses 146 and 147, a Buddhist text",
     "teaching": "May all beings be happy, whether weak or strong, large or small, seen or unseen, near or far, born or yet to be born.",
-    "link": "This text sorts all beings by size and distance, and then gives the same wish to every one. A scientist's sort of the animals also ends by showing that none stands apart."
+    "link": "This text sorts all beings by size and distance, and then gives the same wish to every one. When scientists sort the animals, they also find that no animal stands apart from the rest."
    },
    {
     "source": "Tao Te Ching, chapter 42",
@@ -3103,7 +3103,7 @@
   "story": "In 1799 a dried skin of a strange animal reached Britain from New South Wales. It had fur, a flat bill like a duck and webbed feet. The scientist George Shaw wondered whether someone had sewn the parts together as a trick. It was real, and it was a platypus. The next puzzle was her eggs. Aboriginal people had long said the platypus lays eggs. Most European scientists did not believe it, because they thought every animal with fur and milk must give birth to live young. So for decades the question stayed open. In 1884 a young Scottish scientist, William Caldwell, hired many Aboriginal people to help him find platypuses and echidnas in Queensland. In late August he found a platypus egg. He sent a short telegram to a scientific meeting in Montreal. It said that these animals lay eggs. Scientists then changed the rule. A mammal is an animal that feeds milk. Live birth was not needed.",
   "who": "George Shaw, William Caldwell, and the Aboriginal people who had always known",
   "when": "1799 (the first skin described) and 1884 (the eggs shown)",
-  "wrong_idea": "That an animal with fur and milk must give birth to live young, so an animal that lays eggs could not be a mammal. Caldwell found the eggs in 1884, and scientists changed the rule to milk.",
+  "wrong_idea": "People thought that an animal with fur and milk must give birth to live young, so an animal who lays eggs could not be a mammal. Caldwell found the eggs in 1884, and scientists changed the rule to milk.",
   "art": "A nineteenth-century scientist in a tent in the Queensland bush holding a platypus egg in his palm while an Aboriginal man points at a stream."
  },
  "warm": {"words": ["GILLS", "LUNGS", "WHALE", "BIRDS", "SNAKE"], "quiz": [["A platypus lays eggs, so she cannot be a mammal.", false, "A mammal is decided by milk and hair, not by how the baby is born."], ["Dolphins are mammals, even though they live in the sea and swim like fish.", true, "A dolphin breathes air with lungs and feeds her baby milk."], ["Most kinds of animal have a backbone.", false, "About 19 of every 20 kinds of animal have no backbone."], ["A lungfish is a closer relative of a cow than of a rohu.", true, "The word fish covers several branches of the family tree, so fish are not one natural family."], ["A dolphin looks like a shark because the two are close relatives.", false, "Animals that solve the same problem can end up with the same shape without being close relatives."], ["A snake has no legs, but her dry scales and lungs still make her a reptile.", true, "Groups are decided by several clues together, never by one clue such as legs."], ["Birds are a separate group, and have nothing to do with reptiles.", false, "Birds descend from feathered dinosaurs, which were reptiles. Crocodiles are their closest living relatives."], ["A tadpole and a frog are the same animal at two stages of her life.", true, "Metamorphosis changes the body shape, so sorting must look at the whole life of an animal."], ["Animals with no backbone cannot be clever, because they have no backbone.", false, "Octopuses solve puzzles and bees can learn to count. Cleverness does not need a backbone."], ["A good sorting rule puts every animal of a group inside it and keeps others outside.", true, "A rule that lets in the wrong animals, or leaves out the right ones, is not a good rule."]], "odd": [[["dolphin", "bat", "platypus", "shark"], "shark", "Dolphin, bat and platypus feed their babies milk, so they are mammals. A shark is a fish."], [["cow", "snake", "frog", "octopus"], "octopus", "Cow, snake and frog have a backbone. An octopus has none, so she is an invertebrate."], [["hen", "crocodile", "frog", "cow"], "cow", "Hen, crocodile and frog lay eggs. A cow gives birth to a calf that has grown inside her."], [["crow", "lizard", "cow", "rohu"], "rohu", "Crow, lizard and cow breathe air with lungs all their lives. A rohu breathes with gills."], [["bat wing", "human arm", "whale flipper", "shark fin"], "shark fin", "The first three are built from the same limb bones inherited from one ancestor. A shark fin is not."]]}

@@ -3,12 +3,12 @@
  "title": "Speeding up and slowing down a change: warmth, stirring, powder, crowds and helpers",
  "level": 4,
  "summary": {
-  "text": "A sachet of fruit salt fizzes for about half a minute in a glass of water. In a glass of fridge-cold water, the same powder takes much longer. The powder and the water are the same, so what changed? Your child times the fizz in cold, room-temperature and warm water, then speeds up and slows down the browning of an apple. They find that every way of speeding up a change works by making particles meet more often or more strongly. They also meet catalysts, helpers that are not used up, from enzymes in food to the metal in a car's exhaust. They hear how a Scottish chemist, Elizabeth Fulhame, found a helper hiding in plain water in 1794. Then they ask why the Delhi Iron Pillar has stood for about 1,600 years.",
+  "text": "A sachet of fruit salt fizzes for about half a minute in a glass of water. In a glass of fridge-cold water, the same powder takes much longer. The powder and the water are the same, so what changed? Your child times the fizz in cold, room-temperature and warm water, then speeds up and slows down the browning of an apple. They find that every way of speeding up a change works by making particles meet more often or harder. They also meet catalysts, helpers that are not used up, from enzymes in food to the metal in a car's exhaust. They hear how a Scottish chemist, Elizabeth Fulhame, found in 1794 that plain water was acting as a helper. Then they ask why the Delhi Iron Pillar has rusted so little in about 1,600 years.",
   "art": "Three glasses in a row on a kitchen counter, cold, room-temperature and warm, with a different amount of fizz in each and a clock beside each glass."
  },
  "intro": {
   "hook": "Open one sachet of fruit salt. Drop half a teaspoon into cold water from the fridge, and the same amount into warm water. The warm glass finishes fizzing long before the cold one. Why does warmth make the same powder hurry?",
-  "text": "The powder never changes. The water never changes. Only the warmth does, and the change speeds up. Reactions are changes that make new substances, and you met fast and slow ones in Class 3. Now you find out how to steer the speed. You will time the fizz, race browning apples, and test what stirring, crowding and powder do. Then you meet helpers called catalysts, which speed up a change and come out unchanged.",
+  "text": "The powder is the same in both glasses, and so is the water. Only the warmth is different, and the warm glass fizzes faster. Reactions are changes that make new substances, and you met fast and slow ones in Class 3. Now you find out how to change the speed. You will time the fizz, race browning apples, and test what stirring, crowding and powder do. Then you meet helpers called catalysts, which speed up a change and come out unchanged.",
   "art": "A hand holding a sachet of fruit salt over two glasses, one with a few lazy bubbles and one with a busy stream of bubbles."
  },
  "outcomes": [
@@ -43,7 +43,7 @@
   {
    "term": "Particles",
    "meaning": "The tiny bits that every substance is made of. They are far too small to see, and they are always moving.",
-   "example": "In warm water the particles move faster than in cold water, so a warm cup of tea cools as they slow down.",
+   "example": "In warm water the particles move faster than in cold water. As a warm cup of tea cools, its particles slow down.",
    "art": "Round dots of two colours moving in a glass, with small motion lines behind each dot."
   },
   {
@@ -73,7 +73,7 @@
   {
    "term": "Stirring",
    "meaning": "Moving a liquid so that its particles mix and meet new neighbours.",
-   "example": "A spoon in a cup of tea carries sugar particles away from the lump and brings in fresh water.",
+   "example": "A spoon stirring a cup of tea carries sugar particles away from the lump and brings in fresh water.",
    "art": "A spoon making a swirl in a glass of cloudy water."
   },
   {
@@ -121,7 +121,7 @@
    "description": "Dry fruit salt can sit in a sachet for months. Its two powders, baking soda and citric acid, are side by side but locked in dry grains. Add water, and the powders dissolve. Their particles are now free to move and meet. When a baking soda particle meets a citric acid particle in the right way, they rearrange into new particles. One of the new substances is carbon dioxide gas, and that is the fizz. So a reaction is something that happens between substances, not inside one of them. If the particles never meet, nothing happens. This is why 'how fast' always means 'how often and how well do the particles meet?'",
    "examples": [
     "Dry fruit salt in a sachet does nothing. In water, it fizzes within seconds.",
-    "A steel grill in a dry cupboard rusts very slowly. In a wet balcony it rusts faster, because water and oxygen reach the iron.",
+    "A steel grill in a dry cupboard rusts very slowly. On a wet balcony it rusts faster, because water and oxygen reach the iron.",
     "Dry baking soda and dry lime powder can sit together in a jar. Add a few drops of water and they fizz."
    ],
    "art": "Dry grains of two colours sitting still, then dissolved in water with dots of both colours moving and meeting, and a bubble forming.",
@@ -173,7 +173,7 @@
    "description": "In a still glass, the particles at the bottom of a lump of fruit salt meet only the water that happens to be next to them. After they react, that nearby water is full of the new substance, and new water is slow to arrive. A spoon swirls the water around, so fresh water keeps reaching the powder. Stirring does not make particles move faster. It brings new partners to the meeting. That is a different way to get the same result as warmth, which is more meetings per second.",
    "examples": [
     "Stirring the sugar in a tumbler of tea dissolves it faster.",
-    "Swirling a dal pot stops the bottom from burning, because fresh dal keeps moving to the hot floor of the pot.",
+    "Stirring a pot of dal stops the dal at the bottom from burning, because fresh dal keeps moving to the hot bottom of the pot.",
     "A washing machine keeps tossing clothes so that fresh detergent water reaches the dirt."
    ],
    "art": "A spoon swirling in one glass with arrows bringing in fresh water to a lump, and another still glass with a ring of used-up water sitting around the lump.",
@@ -196,7 +196,7 @@
    "concept": "Crowding: more particles in the same space",
    "status": "defined",
    "definition": "A higher concentration means more particles in each bit of space, so they meet more often and the reaction goes faster.",
-   "description": "Imagine a hall with six people walking about. They hardly ever bump into each other. Now put sixty people into the same hall. They bump all the time. It is the same with particles. Lime juice in two spoons of water has many acid particles near each baking soda particle. Lime juice in twelve spoons of water has the same acid particles spread out, so meetings are rarer. Concentration also works for gases. In pure oxygen, a glowing splint bursts into flame, because oxygen particles are five times more crowded than in air, where only about one particle in five is oxygen. This is why hospitals keep flames far from oxygen cylinders.",
+   "description": "Six people walking about in a hall hardly ever bump into each other. Put sixty people into the same hall, and they bump all the time. It is the same with particles. Lime juice in two spoons of water has many acid particles near each baking soda particle. Lime juice in twelve spoons of water has the same acid particles spread out, so meetings are rarer. Concentration also works for gases. In pure oxygen, a glowing splinter of wood bursts into flame, because oxygen particles are five times more crowded than in air, where only about one particle in five is oxygen. This is why hospitals keep flames far from oxygen cylinders.",
    "examples": [
     "Strong vinegar on baking soda fizzes harder than weak vinegar.",
     "A glowing splinter bursts into flame in pure oxygen, but only glows in air.",
@@ -211,9 +211,9 @@
    "definition": "A catalyst is a substance that lowers the effort a reaction needs, so it goes faster, and the catalyst comes out unchanged.",
    "description": "Think of a mountain pass. Walkers can climb over the high mountain, which is hard and slow. A catalyst is like a lower pass cut through the same mountain. Many more walkers get across in the same time, and the pass is still there afterwards. In a reaction, the particles need a good bump, and in some cases a lot of energy to start changing. A catalyst gives them an easier path. It does not change which substances you start with or which ones you end up with, and it does not change how much product you finally get. It only changes how fast. Most catalysts also help only one kind of reaction, like a key made for one lock.",
    "examples": [
-    "The potato's catalase makes hydrogen peroxide break down in seconds instead of months.",
+    "Catalase, an enzyme in potato, makes hydrogen peroxide break down in seconds instead of months.",
     "In a car's exhaust, a honeycomb coated with the metals platinum, palladium and rhodium changes poisonous carbon monoxide into carbon dioxide. The metals are not used up.",
-    "Iron helps in factories to join nitrogen from the air with hydrogen to make ammonia for fertiliser. Somewhere between four and five in every ten people alive eat food grown with fertiliser made this way."
+    "In factories, iron helps nitrogen from the air join with hydrogen to make ammonia for fertiliser. Somewhere between four and five in every ten people alive eat food grown with fertiliser made this way."
    ],
    "art": "A mountain with a high path labelled 'no catalyst' and a low tunnel labelled 'with catalyst', and the same walker figures coming out of both ends.",
    "perspectives": []
@@ -222,7 +222,7 @@
    "concept": "Enzymes: living catalysts that work at body warmth",
    "status": "defined",
    "definition": "An enzyme is a catalyst made by a living being. Each enzyme speeds up one job, and most work best in a narrow range of warmth.",
-   "description": "Your body cannot cook its food at a high temperature. It must break down food at about 37 degrees. Enzymes make that possible. One enzyme can speed up a reaction by a huge amount. A famous one, studied by Richard Wolfenden and his team, turns a job that would take about 78 million years into a fraction of a second. Because enzymes are folded chains with a special shape, heat can ruin them. A hot dip of just-boiled water ruins the enzyme that turns apple brown. That is why dipped apple stays pale. So heat speeds up reactions but also breaks enzymes, and living beings keep their warmth in a narrow, safe range.",
+   "description": "Your body cannot cook its food at a high temperature. It must break down food at about 37 degrees. Enzymes make that possible. One enzyme can speed up a reaction by a huge amount. A famous one, studied by Richard Wolfenden and his team, turns a job that would take about 78 million years into a fraction of a second. Enzymes are folded chains with a special shape, so heat can ruin them. A dip in just-boiled water ruins the enzyme that turns apple brown. That is why a chunk of apple dipped in just-boiled water stays pale. So heat speeds up reactions but also breaks enzymes, and living beings keep their warmth in a narrow, safe range.",
    "examples": [
     "An enzyme in a cut apple helps oxygen turn some of the apple's own chemicals brown.",
     "Saliva has an enzyme that begins to break down starch in rice.",
@@ -263,7 +263,7 @@
    "definition": "Most bumps between particles change nothing. A reaction needs the particles to bump hard enough, and in the right way.",
    "description": "At room temperature, one particle in the air bumps into others billions of times in a second. If every bump led to a reaction, everything around us would change in a flash. Most bumps are like two people brushing shoulders in a crowd. Only a rare bump has enough energy, hitting the right way round, to break old links and make new ones. Scientists call the energy needed the activation energy. You can picture it as a hill that particles must get over. Warmth gives more particles enough speed to get over the hill. A catalyst lowers the hill. You will study this picture in more detail in Class 5.",
    "examples": [
-    "A bump between two baking soda and citric acid particles sometimes does nothing.",
+    "A bump between a baking soda particle and a citric acid particle sometimes does nothing.",
     "Heating a gas makes more of its particles fast enough to get over the hill.",
     "An enzyme lowers the hill, so many more bumps work at body warmth."
    ],
@@ -278,7 +278,7 @@
   },
   {
    "text": "For many reactions near room temperature, a rise of about 10 degrees roughly doubles the rate.",
-   "evidence": "Measurements of many reactions show this pattern, but not all, and the exact number differs. It is a rule of thumb, first noticed by Jacobus van 't Hoff in the 1880s."
+   "evidence": "Measurements show this pattern for many reactions, but not for all, and the exact number differs. It is a rule of thumb, first noticed by Jacobus van 't Hoff in the 1880s."
   },
   {
    "text": "A catalyst speeds up a reaction without being used up, and does not change the final amount of product.",
@@ -309,7 +309,7 @@
    "claim": "If you heat something more, it always reacts faster.",
    "who": "Many people, and some old cookery advice.",
    "for": "For most simple reactions, the rate does rise with temperature, as in the fruit salt test.",
-   "against": "Enzymes fall apart in too much heat, so heat can stop the reaction. A dipped apple does not brown because the heat ruined its enzyme. A pan of milk heated too hard catches and burns instead of cooking.",
+   "against": "Enzymes fall apart in too much heat, so heat can stop the reaction. A chunk of apple dipped in just-boiled water does not brown, because the heat ruined its enzyme. A pan of milk heated too hard sticks to the pan and burns instead of cooking.",
    "status": "debated"
   },
   {
@@ -341,9 +341,9 @@
    "hint": "Think about what 'slow' would mean to a mayfly, to you, and to a mountain."
   },
   {
-   "q": "Are we seeing the same change differently, or are we seeing different changes? A rusting nail, a flame and the Sun are all particles meeting, but they look nothing alike.",
+   "q": "A rusting nail, a flame and the Sun are all particles meeting, but they look nothing alike. Are we seeing the same change in different ways, or are we seeing different changes?",
    "kind": "deep",
-   "hint": "Think about how slow, fast and hot hide the fact that they are the same kind of change."
+   "hint": "Think about how a difference in speed or heat can make the same kind of change look very different."
   },
   {
    "q": "Which changes in your life do you want to speed up, and which do you want to slow down? Who decides?",
@@ -351,14 +351,14 @@
    "hint": "Think about food, learning, healing and friendships."
   },
   {
-   "q": "Your body runs thousands of reactions at 37 degrees, each at just the right speed. What is keeping them in balance, since no one is in charge?",
+   "q": "Your body runs thousands of reactions at 37 degrees, each at just the right speed. No one is in charge of them. What keeps them in balance?",
    "kind": "big",
    "hint": "Think about enzymes, and about what happens when you have a fever."
   },
   {
    "q": "A catalyst takes part in a change and comes out exactly the same. Does it count as part of the change, or only a bystander?",
    "kind": "deep",
-   "hint": "Think about the potato in the peroxide, and the walker's low pass in the mountain."
+   "hint": "Think about the potato in the peroxide, and the low pass through the mountain."
   },
   {
    "q": "If nothing in the universe is ever really still, only slow, what does it mean to call something 'stable'?",
@@ -398,20 +398,20 @@
    "'So the iron still wants to rust,' said Thatha.",
    "'It still tries,' said Rashmi Madam. 'But it hardly ever gets the chance. Every year, a tiny bit more rust forms, so the pillar is not perfect. It is just very, very slow.'",
    "Gayathri looked at the fence. 'Did people touch it a lot?'",
-   "'Oh yes. For a long time, visitors stood with their backs to it and tried to reach their arms around it. They said a wish would come true. That hand-oil and sweat wore on the skin. That is why the fence is here now.'",
+   "'Oh yes. For a long time, visitors stood with their backs to it and tried to reach their arms around it. They said a wish would come true. The oil and sweat from their hands wore down the skin. That is why the fence is here now.'",
    "'It is hot today,' Gayathri said. 'Heat speeds up almost everything. At forty-one degrees, why is the pillar still slow?'",
    "'Because the skin is winning,' said Rashmi Madam. 'Heat helps the iron and the air meet. The skin keeps them apart. And the skin is stronger than the heat.'",
    "Thatha took off his cap and stared at the pillar in the sun. He had known for forty years that rust was a slow fire. But he had thought of it as a thing about the iron, a stubborn fact like a river flowing downhill. He had never thought of it as a meeting that could be stopped from happening.",
    "'Forty years of paint,' he said, 'and a girl in Class 4 tells me the iron was never the problem. It was the meeting.'",
    "'You did the same thing,' said Gayathri. 'Paint is a skin too. It keeps iron and water apart.'",
-   "Thatha laughed so loudly that a family nearby turned round. 'My bridges would have lasted longer,' he said, 'if I had known to ask for that.'",
+   "Thatha laughed so loudly that a family nearby turned round. 'My bridges would have lasted longer,' he said, 'if I had known to ask for a skin that does not peel.'",
    "That evening on the train, Gayathri drew the pillar in her notebook. She drew the iron inside it, and she drew the thin skin round it. She drew water and air outside the skin, with little arrows that could not get through.",
    "Under the drawing she wrote one line. 'Slow does not mean the iron does not try. It means the iron hardly ever gets to meet the air.'",
    "Thatha read it twice, and then tucked the notebook gently into his shirt pocket, as though it were a ticket."
   ],
   "epiphany": "The pillar is slow because of what stands between the iron and the air. The iron itself is not special.",
   "ask": [
-   "Gayathri and Thatha explained the pillar in different ways. Which explanation do you find more convincing, and why?",
+   "Thatha thought the pillar must be special iron. Gayathri thought it had a skin that does not peel. Which explanation do you find more convincing, and why?",
    "Paint, oil and a stuck-on skin all slow rusting. What do they have in common?",
    "How could you test whether the skin, and not the iron, is why the pillar rusts so slowly?"
   ],
@@ -425,14 +425,14 @@
  "roots": {
   "context": "You timed fizzing cups, raced apples and met helpers called catalysts. Now we ask what the speed of a change tells us about how things happen at all.",
   "deep_truth": {
-   "truth": "A change is not something one substance does alone. It happens when things meet. Warmth, stirring, crowding and powder do not push a change. They only make meetings more often or harder, so slowing a change means keeping things apart.",
-   "habit": "We say 'Eno fizzes' or 'iron rusts' as if the change lived inside one substance, like its colour. But dry Eno does not fizz, and a painted gate does not rust. The change belongs to the meeting.",
-   "evidence": "Dry fruit salt sat still. In water, it fizzed, and it fizzed faster in warm water, stirred water and a more crowded mix. The Delhi Iron Pillar has the same iron as a rusting gate, but a tight skin keeps it from meeting water and air."
+   "truth": "A change is not something one substance does alone. It happens when substances meet. Warmth, stirring, crowding and powder speed up a change only by making the particles meet more often or harder. So to slow a change, keep the substances apart.",
+   "habit": "We say 'fruit salt fizzes' or 'iron rusts' as if the change lived inside one substance, like its colour. But dry fruit salt does not fizz, and a painted gate does not rust. The change belongs to the meeting.",
+   "evidence": "Dry fruit salt in its sachet did nothing. In water it fizzed, and it fizzed faster in warm water, in stirred water and in a more crowded mix. The Delhi Iron Pillar has the same iron as a rusting gate, but a tight skin keeps it from meeting water and air."
   },
   "three": {
-   "who_am_i": "Your body runs thousands of reactions every second at 37 degrees, each at the right speed. You are a set of meetings, kept in balance.",
+   "who_am_i": "Your body runs thousands of reactions every second at 37 degrees, each at the right speed. You stay alive and well because all these meetings of particles are kept in balance.",
    "what_is_life": "A living being is a place where particles meet at just the right speed. Enzymes make the useful meetings happen fast, and warmth, food and water keep them going.",
-   "what_is_this_world": "From a lit match to a rusting pillar to a slowly shining star, everything changes through meetings. Fast and slow are what we call the meetings, depending on how long we can watch."
+   "what_is_this_world": "From a lit match to a rusting pillar to a slowly shining star, everything changes through meetings. We call a change fast or slow depending on how long we are able to watch it."
   },
   "thread": "Fruit salt, a pickle jar, an apple and an iron pillar seem to have nothing in common. In each, particles meet and change into something new, and the speed depends on how often and how hard they meet. A flame and a rusting gate are the same kind of change, at very different speeds. Nothing is ever fully still. Things we call stable are only changing very slowly. The world is a vast number of meetings, some quick and some slow, all part of one whole.",
   "teachings": [
@@ -449,7 +449,7 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 1",
     "teaching": "Nagarjuna, a Buddhist teacher in India about 1,800 years ago, argued that nothing happens by itself. Every event depends on causes and conditions meeting.",
-    "link": "Fizz needs dry powders, water and the right warmth to meet. Take away one, and nothing happens."
+    "link": "A fizz needs the powders, the water and enough warmth to come together. Take one away, and nothing happens."
    }
   ],
   "science": [
@@ -458,7 +458,7 @@
     "status": "settled"
    },
    {
-    "text": "Some scientists think that in certain enzymes, tiny hydrogen particles can pass through the energy hill instead of climbing over it, a quantum effect called tunnelling. How much this speeds up enzymes is still argued.",
+    "text": "A reaction needs its particles to have enough energy, which is like getting over a hill. Some scientists think that in certain enzymes, tiny hydrogen particles pass through the hill instead of climbing over it. This is a quantum effect called tunnelling. Scientists still argue about how much it speeds up enzymes.",
     "status": "debated"
    }
   ],
@@ -473,7 +473,7 @@
    "kid": "Rub your palms for five seconds. Press one to your cheek. Feel the warmth. Your cells are slowly burning food right now. Breathe in three times."
   },
   "ask": [
-   "If dry Eno never fizzes, is the fizz in the powder, in the water, or in the meeting?",
+   "If dry fruit salt never fizzes, is the fizz in the powder, in the water, or in the meeting?",
    "If a thing only looks still because its change is slow, what else around you might be changing too slowly to see?",
    "Is the pillar's skin part of the pillar, or part of the air around it?"
   ],
@@ -531,7 +531,7 @@
       },
       {
        "f": "A pressure cooker cooks dal in a fraction of the time of an open pot.",
-       "b": "Warmth. Trapped steam raises the water above 100 degrees, so cooking is faster."
+       "b": "Warmth. Trapped steam raises the temperature of the water above 100 degrees, so cooking is faster."
       },
       {
        "f": "Potato cubes cook faster than a whole potato of the same weight.",
@@ -555,7 +555,7 @@
       },
       {
        "f": "The metal in a car's exhaust changes harmful gas into safer gas, and lasts for years.",
-       "b": "A helper. A catalytic converter is a catalyst, so the metal is not used up."
+       "b": "A helper. The metal is a catalyst, so it is not used up. This part of the exhaust is called a catalytic converter."
       },
       {
        "f": "A washing powder with enzymes lifts food stains in cool water.",
@@ -587,7 +587,7 @@
       },
       {
        "f": "Mango pickle is packed with salt, oil and chilli.",
-       "b": "Slowing down. They make it hard for the changes and the microbes that spoil mangoes to carry on."
+       "b": "Slowing down. Salt, oil and chilli make it hard for microbes to live, so the changes that spoil the mangoes go slowly."
       }
      ]
     },
@@ -725,7 +725,7 @@
     }
    ],
    "rules": [
-    "Best with five people: four particles and one counter. It also works with two or three: with 2 or 3 people everyone walks, and each person counts their own handshakes. Use a phone or clock to time 20 seconds.",
+    "Best with five people: four particles and one counter. It also works with two or three people. Then everyone walks, and each person counts their own handshakes. Use a phone or clock to time 20 seconds.",
     "If you have only two or three walkers, play rounds 1 to 3 and skip round 4. Chance matters with few particles, so play each round twice and add the meetings. Walk, do not run, and clear the floor of furniture and bags first.",
     "Mark a big square with tape or string, about four steps on each side. Mark a small square with about two steps on each side.",
     "In every round, the particles walk about at random. Each time two particles meet and shake hands, that is one meeting. The counter makes a mark for each meeting.",
@@ -873,7 +873,7 @@
      "mins": 5,
      "do": "Show your child the three glasses and the fruit salt. Say what changes and what stays the same. Write down their guess and their reason.",
      "say": "We will fizz the same powder in three glasses of water. One is cold, one is room-temperature and one is warm. Which will stop fizzing first? Which will be last? Why do you think so?",
-     "kid": "Three glasses of water. One cold, one room, one warm. Which stops fizzing first? Why?",
+     "kid": "Three glasses of water: one cold, one at room temperature, one warm. Which stops fizzing first? Why?",
      "context": "This is the first step of the Three Cups test. You guess before you test.",
      "ask": [
       {
@@ -890,8 +890,8 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "A grown-up makes the three kinds of water. Cold water: chill about 400 millilitres in a jug with plenty of ice for 5 minutes. Then take the ice out. Room water: use tap water. Warm water: mix hot and cold until you can hold the glass for 10 seconds. Put 150 millilitres in each glass.",
-     "say": "Cold water first. Chill it with ice for five minutes, then take the ice out. The room glass is plain tap water. For the warm glass, mix hot and cold water until the glass is comfortable to hold. Pour 150 millilitres into each.",
+     "do": "A grown-up makes the three kinds of water. Cold water: chill about 400 millilitres in a jug with plenty of ice for 5 minutes. Then take the ice out. Room-temperature water: use tap water. Warm water: mix hot and cold until you can hold the glass for 10 seconds. Put 150 millilitres in each glass.",
+     "say": "Make the cold water first. Chill it with ice for five minutes, then take the ice out. The room-temperature glass is plain tap water. For the warm glass, mix hot and cold water until the glass is comfortable to hold. Pour 150 millilitres into each.",
      "kid": "A grown-up helps with the warm water. Pour 150 millilitres into each glass. Label them cold, room and warm.",
      "context": "In this step you make the three kinds of water. They are the only thing that will be different.",
      "adult": true,
@@ -963,7 +963,7 @@
    "title": "Apple Race: speed up and slow down browning",
    "mins": 42,
    "days": 1,
-   "question": "Which browns an apple fastest: a plain chunk, grated apple, a chunk dipped in lime juice, a chunk in the fridge, or a chunk dipped in hot water?",
+   "question": "Which piece of apple browns fastest: a plain chunk, grated apple, a chunk dipped in lime juice, a chunk in the fridge, or a chunk dipped in hot water?",
    "predict": "Before you start, guess. Which plate will turn brown first, and which will stay palest? Say why you think so.",
    "fair_test": "All the apple pieces come from one apple, cut at the same time. Each plate gets the same amount of apple. Each plate is different from the plain chunk in one way only. The plain chunk is the control. Plate B has smaller pieces, C has lime juice, D is cold, and E has a hot dip.",
    "results_table": [
@@ -1051,7 +1051,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "A grown-up cuts four equal chunks of apple, about 2 centimetres wide. Grate one more chunk's worth onto plate B. Put a chunk on plate A. Roll a chunk in a spoon of lime juice and put it on C. Put a chunk on D. Dip a chunk in just-boiled water for 30 seconds on a spoon, and put it on E. Put D in the fridge. Set the clock.",
+     "do": "A grown-up cuts four equal chunks of apple, about 2 centimetres wide. Grate one more chunk's worth onto plate B. Put a chunk on plate A. Roll a chunk in a spoon of lime juice and put it on C. Put a chunk on D. Hold a chunk on a spoon in just-boiled water for 30 seconds, and put it on E. Put D in the fridge. Set the clock.",
      "say": "Cut all the pieces at the same moment. A is plain. B is grated. C is rolled in lime juice. D goes straight in the fridge. E gets 30 seconds in just-boiled water. Start the clock when everything is on its plate.",
      "kid": "A grown-up cuts the apple. Set up plates A to E. Start the clock.",
      "context": "In this step you set up the five plates. Everything starts at the same time.",
@@ -1124,9 +1124,9 @@
    "title": "Same Lime, More Water: does a crowd speed up the fizz?",
    "mins": 28,
    "days": 1,
-   "question": "If the amount of lime juice is the same, does the fizz with baking soda finish faster when the juice is more crowded, or when it is mixed into lots of water?",
+   "question": "Lime juice fizzes with baking soda. If the amount of juice is the same, does the fizz finish faster when the juice has no water added, or when it is mixed into lots of water?",
    "predict": "Before you start, guess. Which glass will finish fizzing first, and which last? Say why you think so.",
-   "fair_test": "Each glass has the same size and the same amount of baking soda. Each gets 2 teaspoons of the same lime juice, so the same number of acid particles. Only the water added is different. Glass A has none, glass B has 4 teaspoons and glass C has 12 teaspoons. So the acid is the same amount, but it is more or less crowded.",
+   "fair_test": "Every glass is the same size and has the same amount of baking soda. Each gets 2 teaspoons of the same lime juice, so the same number of acid particles. Only the water added is different. Glass A has none, glass B has 4 teaspoons and glass C has 12 teaspoons. So the acid is the same amount, but it is more or less crowded.",
    "results_table": [
     "Glass",
     "Lime juice and water",
@@ -1203,7 +1203,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Put 1 level teaspoon of baking soda in each glass. In the three cups, put 2 teaspoons of lime juice. Add no water to cup A, 4 teaspoons to cup B and 12 teaspoons to cup C. Stir each cup once.",
+     "do": "Put 1 level teaspoon of baking soda in each glass. Put 2 teaspoons of lime juice in each of the three cups. Add no water to cup A, 4 teaspoons to cup B and 12 teaspoons to cup C. Stir each cup once.",
      "say": "Baking soda goes into each tall glass first. Now we mix the lime cups. All three get 2 teaspoons of juice. Cup A gets no water. Cup B gets 4 teaspoons. Cup C gets 12 teaspoons.",
      "kid": "Put baking soda in each tall glass. Mix the lime cups. Add 0, 4 and 12 spoons of water.",
      "context": "In this step you set up the glasses and the cups. Only the water is different.",
@@ -1223,7 +1223,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "For each glass, pour the cup in one go and start the stopwatch. At 5 seconds, measure the foam height. Stop the clock when the foam has sunk and only a few bubbles rise. The extra baking soda at the bottom keeps fizzing a little for a long time, so do not wait for it. Write both numbers in the table. Rinse and dry the glasses before doing the next one.",
+     "do": "For each glass, pour its cup of lime juice in, all in one go, and start the stopwatch. At 5 seconds, measure the foam height. Stop the clock when the foam has sunk and only a few bubbles rise. The extra baking soda at the bottom keeps fizzing a little for a long time, so do not wait for it. Write both numbers in the table. Rinse and dry the glasses before doing the next one.",
      "say": "Pour the whole cup into the glass in one go and start the stopwatch. At five seconds, measure the foam. Stop the clock when the fizz stops. Write both numbers. Do glass A, then B, then C.",
      "kid": "Pour fast. Start the clock. Measure the foam at 5 seconds. Stop when fizz stops.",
      "context": "In this step you do the test for each glass and write down what you see.",
@@ -1306,16 +1306,16 @@
        ]
       }
      ],
-     "parent": "Do not correct the guess. Both glasses must use the same water and the same half teaspoon of powder."
+     "parent": "Do not correct the guess. All three glasses must use the same water and the same half teaspoon of powder."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Tip half a teaspoon of fruit salt into the still glass and start the stopwatch. Stop it when no bubbles rise. Write the time. Then do the gentle glass, stirring slowly in circles the whole time. Last, do the hard glass, stirring briskly the whole time.",
-     "say": "Powder into the still glass, and start the clock. Stop it when the bubbles stop. Now powder into the gentle glass and stir slowly the whole time. Last, the hard glass, stirred briskly. Time each the same way.",
+     "say": "Tip the powder into the still glass and start the clock. Stop it when the bubbles stop. Now tip powder into the gentle glass and stir slowly the whole time. Last, do the hard glass, stirring briskly. Time each one the same way.",
      "kid": "Tip in the powder. Time the still glass. Then the gentle glass, then the hard glass, stirring the whole time.",
-     "context": "In this step you time both glasses, one at a time.",
-     "parent": "Stir gently with the spoon in slow circles, not hard. Stop the clock when no bubbles rise, even if bubbles still cling to the spoon. If you want to do each twice, use fresh water. The end is the last bubble that rises from the powder, judged by the same person each time. Typical result: still is slowest and hard is fastest, but the gap between gentle and hard can be small, so repeat if they look equal. One child with a parent: the child stirs and the parent times. With 2 to 4 children: one glass each, started together on a count of three, with the same spoon size."
+     "context": "In this step you time all three glasses, one at a time.",
+     "parent": "For the gentle glass, stir with the spoon in slow circles, not hard. Stop the clock when no bubbles rise, even if bubbles still cling to the spoon. If you want to do each twice, use fresh water. The end is the last bubble that rises from the powder, judged by the same person each time. Typical result: still is slowest and hard is fastest, but the gap between gentle and hard can be small, so repeat if they look equal. One child with a parent: the child stirs and the parent times. With 2 to 4 children: one glass each, started together on a count of three, with the same spoon size."
     },
     {
      "id": "s3",
@@ -1325,7 +1325,7 @@
      "kid": "Say what you thought, what you saw, and why.",
      "context": "This is the last step of Stir or Stand. You say what you found out.",
      "think": "Stirring does not make the water warmer or the powder smaller. So how can it make a reaction finish sooner?",
-     "parent": "A strong answer says that the stirred glass finished sooner. After they say what they saw, explain: stirring keeps bringing fresh water to the powder and carrying the used-up water away, so more meetings happen each second. Stirring does not make particles faster. It brings new partners to the meeting. If the glasses finished together, say that is also a result and try again with a firmer stir."
+     "parent": "A strong answer says that the stirred glasses finished sooner than the still glass. After they say what they saw, explain: stirring keeps bringing fresh water to the powder and carrying the used-up water away, so more meetings happen each second. Stirring does not make particles faster. It brings new partners to the meeting. If the glasses finished together, say that is also a result and try again with a firmer stir."
     }
    ]
   },
@@ -1394,7 +1394,7 @@
      "mins": 8,
      "do": "Ask a grown-up who drives if their vehicle has a catalytic converter. Ask them to find out if they are not sure. Write down what they say.",
      "say": "Ask someone who drives, or a mechanic. Does the vehicle have a catalytic converter in the exhaust? Petrol cars in India are made with one. Write down what they say.",
-     "kid": "Ask a driver about the exhaust helper. Write down the answer.",
+     "kid": "Ask a driver if their vehicle has a catalytic converter in the exhaust. Write down the answer.",
      "context": "In this step you find out about the helper in a vehicle's exhaust pipe.",
      "parent": "A catalytic converter is a metal honeycomb coated with thin layers of metals such as platinum, palladium and rhodium. It changes harmful gases such as carbon monoxide into carbon dioxide. It works best when hot, so the first minute after a cold start is the dirtiest. Do not let your child go under the vehicle.",
      "check": {
@@ -1406,7 +1406,7 @@
        "It turns into the safer gas"
       ],
       "a": 0,
-      "why": "A catalyst is not used up. The metal in the converter helps again and again, and lasts for years. A pick of used up means the idea of a catalyst is still being mixed with ordinary ingredients."
+      "why": "A catalyst is not used up. The metal in the converter helps again and again, and lasts for years. A pick of used up means a catalyst is still being mixed up with an ordinary ingredient."
      }
     },
     {
@@ -1480,7 +1480,7 @@
      "say": "Now add more rows. How long do potato cubes take, compared with a whole potato? How long does soaked chana take, compared with dry chana? Write each time down.",
      "kid": "Add rows. Cubes or whole? Soaked or dry? Write the minutes.",
      "context": "In this step you collect more cooking times to compare.",
-     "parent": "Expect cubes to cook faster than a whole potato because they have more surface for the heat to enter. Soaking lets water into the chana before cooking, so the chana cooks faster. Split dal cooks faster than whole dal for the same reason. Let your child choose the foods if the family cooks something else."
+     "parent": "Expect cubes to cook faster than a whole potato because they have more surface for the heat to enter. Soaking lets water into the chana before cooking, so the chana cooks faster. Split dal cooks faster than whole dal because the pieces are smaller. Let your child choose the foods if the family cooks something else."
     },
     {
      "id": "s3",
@@ -1579,8 +1579,8 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "Wash all five nails with a drop of dishwash and a cloth. This removes the oily film. Rinse and dry them. Put nail A on a dry tissue in a glass. For B, C, D and E, stand the nail in a glass with water that covers half the nail. Add 2 teaspoons of salt to C. A grown-up paints nail E before it goes in, and lets it dry. Rub a little oil on nail D. Write your guess for each glass.",
-     "say": "Five nails, five conditions. A is dry. B is in plain water. C is in salty water. D is oiled and in water. E is painted and in water. Which will rust first? Which will not rust at all? Why do you think so?",
+     "do": "Wash all five nails with a drop of dishwash and a cloth. This removes the oily film. Rinse and dry them. A grown-up paints nail E and lets it dry. Rub a little oil on nail D. Put nail A on a dry tissue in a glass. Stand nails B, C, D and E each in a glass with water that covers half the nail. Add 2 teaspoons of salt to glass C. Write your guess for each glass.",
+     "say": "We have five nails, and each one is kept in a different way. A is dry. B is in plain water. C is in salty water. D is oiled and in water. E is painted and in water. Which will rust first? Which will not rust at all? Why do you think so?",
      "kid": "Set up five nails. Guess which rusts first and which not at all. Why?",
      "context": "This is the first step of the Rust Race. You set up the glasses and guess.",
      "adult": true,
@@ -1594,7 +1594,7 @@
        ]
       }
      ],
-     "parent": "Put the glasses on a tray in a place where they will not be knocked. Keep the tissue dry in glass A. Use the same amount of water in B, C, D and E. The nail in the middle of the water rusts most near the water line, where it meets both water and air. Nails cost a few rupees, so with 2 to 4 children each child can run a full set of five and compare. One child with a parent: the parent paints and photographs, and the child scores. If nothing rusts even in the salty glass after 3 days, the nail was probably galvanised (zinc coated): try a plain iron one."
+     "parent": "Put the glasses on a tray in a place where they will not be knocked. Keep the tissue dry in glass A. Use the same amount of water in B, C, D and E. A nail standing in water rusts most near the water line, where it meets both water and air. Nails cost a few rupees, so with 2 to 4 children each child can run a full set of five and compare. One child with a parent: the parent paints and photographs, and the child scores. If nothing rusts even in the salty glass after 3 days, the nail was probably galvanised (zinc coated): try a plain iron one."
     },
     {
      "id": "s2",
@@ -1627,10 +1627,10 @@
    "problem": "A cut apple goes brown in a school tiffin box before lunch. Design a way to keep cut apple slices pale for at least four hours, using only things from your kitchen. Your design should not change the taste too much.",
    "constraints": [
     "Use only things you have at home.",
-    "Do not use any chemicals from a shop other than food.",
+    "Use only food. Do not use any other chemicals from a shop.",
     "A grown-up cuts the apple.",
     "Test at least two designs and one plain control.",
-    "The slices must be safe to eat at the end if they have not been in hot water."
+    "Any slices that have not been in hot water must be safe to eat at the end."
    ],
    "materials": [
     "1 apple, cut into slices by a grown-up",
@@ -1843,7 +1843,7 @@
     },
     {
      "t": "count",
-     "p": "Kavya, a girl in Hyderabad, times fruit salt in two glasses. The cold glass takes 90 seconds. The warm glass takes 30 seconds. How many times faster is the warm glass?",
+     "p": "Fruit salt is timed in two glasses. The cold glass takes 90 seconds. The warm glass takes 30 seconds. How many times faster is the warm glass?",
      "a": "3",
      "why": "90 divided by 30 is 3. The warm glass finished 3 times faster. Subtracting would only tell you how many seconds apart they were.",
      "outcome": 2
@@ -1857,7 +1857,7 @@
     },
     {
      "t": "write",
-     "p": "Zoya says a heap of fine powder reacts faster than one big lump of the same stuff. Explain why she is right, using the word surface.",
+     "p": "A heap of fine powder reacts faster than one big lump of the same stuff. Explain why, using the word surface.",
      "lines": 4,
      "a": "A lump only reacts where its surface touches the other substance. Powder has many tiny pieces, so its total surface is much larger. More of the stuff can meet the other substance at once, so the reaction is faster.",
      "why": "A strong answer names the surface, says more of it touches the other substance, and links that to faster reactions. It may also mention the grated apple.",
@@ -1933,7 +1933,7 @@
      "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
      "lines": 5,
      "a": "A strong answer picks a side and uses an idea from the unit, such as that lime juice makes the enzyme work poorly, or that an uncut apple has less surface meeting air. It also names one good point from another view.",
-     "why": "All three ideas keep oxygen, the enzyme and the cut surface apart or slow. A strong answer gives a reason, not just a choice.",
+     "why": "All three ideas either keep oxygen and the cut surface apart, or slow the enzyme down. A strong answer gives a reason, not just a choice.",
      "outcome": 4
     }
    ]
@@ -2134,13 +2134,13 @@
       },
       {
        "who": "Gauri",
-       "says": "The iron is ordinary in this way. A thin skin that stays stuck keeps water and air away from the iron below."
+       "says": "The iron can rust like any other iron. A thin skin that stays stuck keeps water and air away from the iron below."
       }
      ],
      "ask": "Which idea do you agree with more? Give a reason from this unit, and say what you could test.",
      "lines": 5,
-     "a": "A strong answer picks a view and gives a reason. For example, a bare nail that makes a skin that stays on rusts slowly, while flaking rust lets rusting go on. It might suggest comparing a nail with a stuck-on coat and a nail without.",
-     "why": "Scientists found a thin protective skin on the pillar, which supports Gauri's idea. The iron also has a lot of phosphorus, so both ideas have a part of the truth.",
+     "a": "A strong answer picks a view and gives a reason. For example, a nail whose skin stays on rusts slowly, but when rust flakes off, the bare iron below rusts again. It might suggest comparing a nail with a stuck-on coat and a nail without.",
+     "why": "Scientists found a thin protective skin on the pillar, which supports the idea of a skin. The iron also has a lot of phosphorus, so both ideas have a part of the truth.",
      "outcome": 6
     }
    ]
@@ -2442,7 +2442,7 @@
   },
   {
    "t": "count",
-   "p": "Pooja, a girl in Kochi, finds a fizz takes 48 seconds in cold water and 12 seconds in warm water. How many times faster is the warm fizz?",
+   "p": "A fizz takes 48 seconds in cold water and 12 seconds in warm water. How many times faster is the warm fizz?",
    "a": "4",
    "why": "48 divided by 12 is 4. The warm fizz is 4 times faster. Subtracting would give how many seconds apart they are.",
    "outcome": 2
@@ -2610,7 +2610,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Three Cups test, Meenakshi, a girl in Madurai, finds the warm glass fizzes for 14 seconds and the cold glass for 56 seconds. How many times faster is the warm glass?",
+   "problem": "In the Three Cups test, the warm glass fizzes for 14 seconds and the cold glass for 56 seconds. How many times faster is the warm glass?",
    "answer": "4 times.",
    "explain": "56 divided by 14 is 4. The warm glass is 4 times faster. A fair comparison divides the times, because we want to know how many times, not how many seconds apart.",
    "math_unit": "math.division.division-facts.L4",
@@ -2644,13 +2644,13 @@
    "why_maths": "A line graph shows when a change speeds up or slows down, by how steep the line is."
   },
   {
-   "problem": "Lakshmi, a girl in Mysuru, hears that dal takes 45 minutes in an open pot but 15 minutes in a pressure cooker. She puts dal on at 6:10 in each. When does each one finish? How many times faster is the cooker?",
+   "problem": "Dal takes 45 minutes in an open pot but 15 minutes in a pressure cooker. Dal is put on at 6:10 in each. When does each one finish? How many times faster is the cooker?",
    "answer": "The open pot finishes at 6:55, and the cooker at 6:25. The cooker is 3 times faster.",
    "explain": "6:10 plus 45 minutes is 6:55. 6:10 plus 15 minutes is 6:25. 45 divided by 15 is 3, so the cooker is 3 times faster.",
    "math_unit": "math.time.duration.L4",
    "how": "a3",
    "context": "In Kitchen Clock you ask the cook how long different foods take to cook.",
-   "why_maths": "Adding minutes to a clock time and dividing two durations are both ways of using a time as a measurement of speed."
+   "why_maths": "Adding minutes to a clock time tells you when something finishes. Dividing one time by the other tells you how many times faster it is."
   },
   {
    "problem": "In the Same Lime test, each cup has 2 teaspoons of lime juice. Cup A has no water, cup B has 4 teaspoons of water and cup C has 12 teaspoons of water. What fraction of each cup is lime juice?",
@@ -2863,7 +2863,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In the 1790s, most chemists thought a metal needed only air or a hot flame to change. Water was just a bystander. A Scottish chemist, Elizabeth Fulhame, tested this. She was soaking cloth in solutions of gold and silver and watching the metals appear as the cloth was exposed to hydrogen and other chemicals. When the cloth was bone dry, nothing happened. When it was damp, the metal appeared. She decided that water took part, but did not seem to be used up. In her view it was made again at the end, ready to work once more. She published all this in a book in 1794. Forty years later, the Swedish chemist Jons Jacob Berzelius gave this kind of helper a name, catalysis. Fulhame's book was read in Britain and America, but she was rarely given credit for the idea of catalysis until chemists looked again at her work in the 1990s.",
+  "story": "In the 1790s, most chemists thought a metal needed only air or a hot flame to change. They thought water was just a bystander. A Scottish chemist, Elizabeth Fulhame, tested this. She was soaking cloth in solutions of gold and silver and watching the metals appear as the cloth was exposed to hydrogen and other chemicals. When the cloth was bone dry, nothing happened. When it was damp, the metal appeared. She decided that water took part, but did not seem to be used up. In her view it was made again at the end, ready to work once more. She published all this in a book in 1794. Forty years later, the Swedish chemist Jons Jacob Berzelius gave this kind of helping a name, catalysis. Fulhame's book was read in Britain and America, but she was rarely given credit for the idea of catalysis until chemists looked again at her work in the 1990s.",
   "who": "Elizabeth Fulhame, a Scottish chemist, and later Jons Jacob Berzelius",
   "when": "1794 and 1835",
   "wrong_idea": "Most chemists believed that water was just a bystander in such changes. Fulhame showed that dry cloth did not react at all and damp cloth did, so water was taking part, and coming out ready to work again."

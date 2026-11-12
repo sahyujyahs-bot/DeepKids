@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?",
-  "text": "A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this unit you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see who gets the rest.",
+  "text": "A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this unit you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.",
   "art": "A child kneeling by a rotting palm trunk with a notebook, and a mushroom shelf growing out of the wood."
  },
  "outcomes": [
@@ -126,7 +126,7 @@
    "concept": "Where does the log go? Mostly into the air",
    "status": "defined",
    "definition": "When a dead plant is decomposed, a large share of its carbon is breathed out by the decomposers as carbon dioxide. The rest becomes the bodies of decomposers, humus in the soil, and nutrients taken up by new plants.",
-   "description": "A tree builds its wood mostly from carbon dioxide taken from the air, as you learned in the photosynthesis unit. So when the wood rots, much of it goes back the way it came. Decomposers breathe out the carbon as carbon dioxide, and the rest of the matter leaves as water vapour. In many studies of fallen leaves in warm, wet places, a large share of the carbon is breathed out within a year or two. What stays behind is partly the bodies of the fungi and bacteria, and partly dark, crumbly humus. The minerals in the wood, such as nitrogen, phosphorus and potassium, dissolve in rain and sink into the soil. A root can then drink them. So the tree does not disappear. Part goes up into the air, part goes down into the soil, and plants take both back again.",
+   "description": "A tree builds her wood mostly from carbon dioxide taken from the air. So when the wood rots, much of it goes back the way it came. Decomposers breathe out the carbon as carbon dioxide, and the rest of the matter leaves as water vapour. In many studies of fallen leaves in warm, wet places, a large share of the carbon is breathed out within a year or two. What stays behind is partly the bodies of the fungi and bacteria, and partly dark, crumbly humus. The minerals in the wood, such as nitrogen, phosphorus and potassium, dissolve in rain and sink into the soil. A root can then drink them. So the tree does not disappear. Part goes up into the air, part goes down into the soil, and plants take both back again.",
    "examples": [
     "A rotting palm trunk loses weight mostly as carbon dioxide and water vapour.",
     "A compost heap shrinks to a small fraction of the weight of the kitchen scraps that went in.",
@@ -139,7 +139,7 @@
    "concept": "Matter goes round, energy goes through",
    "status": "defined",
    "definition": "The atoms in living things are used again and again, so matter moves in cycles. Energy is not used again. It comes from the Sun, passes along food chains, and leaves as heat.",
-   "description": "Earth gets very few new atoms. The carbon in your body has been in plants, animals and the air before. A decomposer does not make new carbon. She only moves it on. Energy is different. A leaf holds energy from sunlight. A caterpillar eats the leaf and uses the energy to move and grow, and some leaves as heat. A fungus eats the caterpillar's droppings and the rest of the energy leaves as heat. Heat spreads into the air and into space, and no living thing can use it again. So life on Earth stays alive because the Sun keeps sending new energy, while the atoms keep going round. Decomposers are where the loop closes: they send the atoms back so plants can start again.",
+   "description": "Earth gets very few new atoms. The carbon in your body has been in plants, animals and the air before. A decomposer does not make new carbon. She only moves it on. Energy is different. A leaf holds energy from sunlight. A caterpillar eats the leaf and uses the energy to move and grow, and some of the energy goes out of her body as heat. A fungus eats the caterpillar's droppings, and the rest of the energy goes out as heat. Heat spreads into the air and into space, and no living thing can use it again. So life on Earth stays alive because the Sun keeps sending new energy, while the atoms keep going round. Decomposers close the loop: they send the atoms back so plants can start again.",
    "examples": [
     "The same carbon atoms pass from air to leaf to caterpillar to soil and back to air.",
     "The Sun's energy passes along the food chain and ends as heat. It does not go back to the leaf.",
@@ -203,11 +203,11 @@
   {
    "concept": "When the cleanup crew is missing",
    "status": "debated",
-   "definition": "Dead bodies and dung get cleared by a crew of scavengers and detritivores that have been fitted to the job for millions of years. If the crew is removed, or if new things arrive that the crew cannot eat, the leftovers pile up.",
-   "description": "By the 1960s, Australia had millions of cattle, and they produced huge amounts of dung. The local dung beetles were fitted to the dry pellets of kangaroos and could not use it, so the dung dried into hard pads that covered the grass and bred flies. The scientist George Bornemissza brought in dung beetles from Africa and Europe to bury it. In India, in the 1990s and 2000s, more than 95 of every 100 vultures of three kinds died after eating cattle treated with the painkiller diclofenac. Carcasses lay longer in the open. Scientists agree that the loss of vultures changed how dead cattle were cleared. They disagree about how much it raised the number of street dogs and the risk of rabies. And plastic is a third case: it is so new that almost no decomposer can eat it yet.",
+   "definition": "Dead bodies and dung are cleared by scavengers and detritivores who have been suited to that job for millions of years. If this crew is removed, or if new things arrive that the crew cannot eat, the leftovers pile up.",
+   "description": "By the 1960s, Australia had millions of cattle, and they produced huge amounts of dung. The local dung beetles were suited to the dry pellets of kangaroos and could not use cattle dung. So the dung dried into hard pads that covered the grass and bred flies. The scientist George Bornemissza brought in dung beetles from Africa and Europe to bury it. In India, in the 1990s and 2000s, more than 95 of every 100 vultures of three kinds died after eating cattle treated with the painkiller diclofenac. Carcasses lay longer in the open. Scientists agree that the loss of vultures changed how dead cattle were cleared. They disagree about how much it raised the number of street dogs and the risk of rabies. Plastic is a third case: it is so new that almost no decomposer can eat it yet.",
    "examples": [
     "Australian cattle dung piled up until African and European dung beetles were brought in.",
-    "Vultures in India crashed by more than 95 percent in about ten years.",
+    "In about ten years, India lost more than 95 of every 100 of its vultures.",
     "Plastic bags stay for hundreds of years because few microbes can digest them."
    ],
    "art": "A field with a dead cow, an empty sky, and a pack of street dogs gathering where vultures used to circle.",
@@ -267,7 +267,7 @@
   {
    "claim": "Coal exists because fungi had not yet learned to digest wood.",
    "who": "Floudas and colleagues, in the journal Science, 2012.",
-   "for": "Coal came mostly from plants that lived about 300 million years ago. Their study found that fungi able to digest lignin, the toughest part of wood, appeared around that time, and coal formation fell afterwards.",
+   "for": "Coal came mostly from plants that lived about 300 million years ago. The study found that fungi able to digest lignin, the toughest part of wood, appeared around that time, and coal formation fell afterwards.",
    "against": "Other scientists point out that coal stopped forming for other reasons too, including changes in climate and the shape of the continents. The question is still being tested.",
    "status": "debated"
   },
@@ -282,7 +282,7 @@
    "claim": "Vultures, hyenas and flies are dirty, and the world is better without them.",
    "who": "A common feeling.",
    "for": "They eat rotten meat and carry germs on their bodies.",
-   "against": "They are the first crew in the cleanup. When India lost most of its vultures, carcasses lay in the open for longer. Scientists link the loss to more feral dogs, though they disagree about how much.",
+   "against": "They are the first crew in the cleanup. When India lost most of its vultures, carcasses lay in the open for longer. Scientists link the loss to more street dogs, though they disagree about how much.",
    "status": "rejected"
   }
  ],
@@ -293,9 +293,9 @@
    "hint": "Think about who is waiting to eat each leftover."
   },
   {
-   "q": "The smell of rot makes you hold your nose. To a carrion fly or a dung beetle, it is the smell of dinner. Is the smell in the rotting thing, or in the nose that smells it? Are we smelling differently, or smelling different things?",
+   "q": "The smell of rot makes you hold your nose. To a fly or a dung beetle, the same smell means dinner. Is the smell bad in itself, or is it bad only to our noses?",
    "kind": "big",
-   "hint": "Think about the fruit that a bee sees as ultraviolet and you see as red."
+   "hint": "A bee and you can look at the same fruit and see different colours."
   },
   {
    "q": "The carbon in your last breath may once have been in a leaf, a log, or a dinosaur. In what way is it yours?",
@@ -308,7 +308,7 @@
    "hint": "Where does the next supply of energy come from?"
   },
   {
-   "q": "Plastic stays because nothing has learned to eat it yet. Will something learn? What would that mean?",
+   "q": "Plastic stays because nothing has learned to eat it yet. Do you think some living being will learn to eat it one day? What would change if she did?",
    "kind": "deep",
    "hint": "Think about how long leaves have been around, and how long plastic has."
   },
@@ -335,7 +335,7 @@
   "note": "A made-up story. The science in it is real. A fallen trunk is eaten by termites, grubs and fungi. Most of its matter goes into the air as gas, and the rest goes into the soil, where other plants use it.",
   "text": [
    "The storm came on the first night of the monsoon. By morning, the yard in Alappuzha was full of torn leaves, and the tall coconut palm by the gate was lying across the path. Meenakshi's grandfather stood over it with his hands on his hips. He did not say anything for a long time.",
-   "He had planted that palm the day Meenakshi's mother was born. Thirty-six years she had given coconuts, shade and a place for the crows to quarrel. Now it was a long grey log with a crown of broken fronds.",
+   "He had planted that palm the day Meenakshi's mother was born. For thirty-six years she had given coconuts, shade and a place for the crows to quarrel. Now she was a long grey log with a crown of broken fronds.",
    "\"I will get Raju to cut it up,\" said Appooppan. \"We can burn the pieces. A dead tree is only a dead tree.\"",
    "Meenakshi was nine, and she had a notebook with a green cover. She looked at the trunk. It was as thick as her waist and very hard. \"Can we wait?\" she asked. \"Just until Onam. I want to see what happens to it.\"",
    "\"Nothing happens to a log,\" said Appooppan. But Ammoomma, from the kitchen door, said, \"Let the child look.\" So they made a bargain. The log would stay until Onam.",
@@ -350,8 +350,8 @@
    "Meenakshi looked at the banana clump next to the log. Then she looked at the other clump, near the well. The leaves beside the log were as wide as umbrellas and dark green. The leaves by the well were pale and thin.",
    "\"Appooppan,\" she said. \"Come and look.\" She pushed the spade into the ground under the old trunk. The earth there was black and crumbly, and full of white threads and small worms. It smelled sweet. She took a handful to him.",
    "He rubbed it between his fingers for a long time. \"This is better soil than I have anywhere in the yard,\" he said.",
-   "\"It is the palm,\" said Meenakshi. \"It did not go away. Some of it went up into the air, a little at a time, because the grubs and the fungus were breathing it out. The rest went down into the soil. The banana roots found it.\"",
-   "Appooppan looked at the log, and at the banana leaves, and at his granddaughter. \"So it is not gone,\" he said slowly. \"It has moved.\"",
+   "\"It is the palm,\" said Meenakshi. \"She did not go away. Some of her went up into the air, a little at a time, because the grubs and the fungus were breathing it out. The rest went down into the soil. The banana roots found it.\"",
+   "Appooppan looked at the log, and at the banana leaves, and at his granddaughter. \"So she is not gone,\" he said slowly. \"She has moved.\"",
    "\"The air part will come back too,\" said Meenakshi. \"The leaves take it in.\"",
    "He laughed, which he had not done since the storm. He did not call Raju. When Onam came, the log stayed, and a year later, a small coconut seedling pushed up through the soft wood where the trunk had been. Appooppan watered the seedling every morning, and showed everyone who visited where the old palm had gone."
   ],
@@ -581,7 +581,7 @@
      "do": "Count the scores. Ask your child which crew they found hardest to spot, and which cards surprised them.",
      "say": "Which card surprised you most? Which crew was hardest to tell apart? Why?",
      "kid": "Which card surprised you most? Which crew was hardest?",
-     "parent": "The 'Nobody yet' cards are plastic, glass, foam and steel. They are things people made or things nature has not made in the last few million years.",
+     "parent": "The 'Nobody yet' cards are plastic, glass, foam and steel. None of them is made by a plant or an animal, so no cleanup crew can eat them.",
      "think": "Which cards have 'Nobody yet'? What do they have in common?",
      "context": "This is the last step of Cleanup Crew. You think back over the game."
     }
@@ -665,7 +665,7 @@
      "mins": 5,
      "do": "Show your child the three jars and the chuna. Say that limewater turns milky when carbon dioxide is added. Ask for a guess and a reason for each jar. Write them down.",
      "say": "We will set up three jars. Jar A has soil and peel, and stays in the warm room. Jar B has the same, but goes in the fridge. Jar C has only air. Which limewater will turn milky? Why do you think so?",
-     "kid": "Three jars. Which limewater will turn milky? Why do you think so?",
+     "kid": "We set up three jars. Which jar's limewater will turn milky? Why do you think so?",
      "ask": [
       {
        "q": "Which jar do you think will turn the limewater milky first, and why?",
@@ -745,7 +745,7 @@
        ]
       }
      ],
-     "parent": "Typically jar A is cloudy or milky within a day (2 to 3 on the scale) and jar C stays clear, apart from a faint skin on top. Jar B is usually less milky than A, or turns later, but a fridge does not stop microbes, it only slows them. If jar A is still clear after 2 days, the soil may be very dry, old or from sterile bagged mix, or the limewater is too weak: remake the limewater with a bigger spoon of chuna, use soil from a garden, add another tablespoon of peel and a spoon of water, move it somewhere warmer, and look again in a day. A clear result is a result too: say why it might have failed. Do not explain yet. Let your child say what they saw. Then explain: tiny living things in the soil, the decomposers, eat the peel and breathe out carbon dioxide. The cold slows them down.",
+     "parent": "Jar A is usually cloudy or milky within a day (2 to 3 on the scale). Jar C stays clear, apart from a faint skin on top. Jar B is usually less milky than A, or turns later. A fridge does not stop microbes. It only slows them. If jar A is still clear after 2 days, the soil may be very dry, old or from sterile bagged mix, or the limewater may be too weak. Remake the limewater with a bigger spoon of chuna, use soil from a garden, add another tablespoon of peel and a spoon of water, move the jar somewhere warmer, and look again in a day. A clear result is a result too: ask your child why the test might have failed. Do not explain yet. Let your child say what they saw. Then explain: tiny living things in the soil, the decomposers, eat the peel and breathe out carbon dioxide. The cold slows them down.",
      "think": "If the soil is breathing, where does the peel's carbon go?",
      "check": {
       "t": "mcq",
@@ -779,7 +779,7 @@
    "title": "Cut It Up: does chopping help the decomposers?",
    "mins": 30,
    "days": 6,
-   "question": "A whole carrot, chopped carrot and grated carrot weigh the same. Which one will rot first?",
+   "question": "A whole piece of carrot, a chopped piece and a grated piece all weigh the same. Which one will rot first?",
    "predict": "Guess first. Which piece will go soft, smell, or grow mould first: the whole piece, the chopped pieces, or the grated carrot? Which will last longest? Why do you think so?",
    "fair_test": "All three portions are cut from the thick end of the same carrot, so they weigh about the same (a kitchen scale, if you have one, shows it). Each goes in the same kind of box with the same damp tissue, on the same shelf. Only the size of the pieces changes, so any difference comes from the size.",
    "results_table": [
@@ -843,8 +843,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the carrot. Say that you will cut it into three pieces of the same weight and treat them in three ways. Ask for a guess and a reason. Write them down.",
-     "say": "Three pieces of the same weight, cut three ways. One part stays whole. One part is chopped small. One part is grated. Which will rot first? Which will last longest? Why do you think so?",
-     "kid": "One carrot, cut three ways. Which rots first? Why?",
+     "say": "We will cut three pieces of the same weight from one carrot. One piece stays whole. One is chopped small. One is grated. Which will rot first? Which will last longest? Why do you think so?",
+     "kid": "We cut one carrot three ways: whole, chopped and grated. Which will rot first? Why?",
      "ask": [
       {
        "q": "Why do you think that one will rot first?",
@@ -864,7 +864,7 @@
      "do": "A grown-up cuts three pieces, each about 4 cm long, from the thick end of the carrot (about 40 grams each, weigh them if you have a scale). Leave the first whole. Chop the second into cubes about 1 centimetre across. Grate the third. Wet each tissue with a spoon of water and put one in each box. Add one portion to each box and close the lid.",
      "say": "A grown-up cuts and grates. Each box gets one damp tissue and one portion. Mark the boxes whole, chopped and grated. Put all three on the same shelf in a warm room.",
      "kid": "A grown-up cuts the carrot. Put one portion in each box. Mark the boxes. Put them on the shelf.",
-     "parent": "A carrot is thinner at the tip, so take all three pieces from the thick end, never from the tip, so the portions have about the same weight. If you have a kitchen scale, weigh each portion. The tissue should be damp, not dripping. Keep the boxes out of direct sun and away from food.",
+     "parent": "A carrot is thinner at the tip. Take all three pieces from the thick end, never from the tip, so that the portions weigh about the same. If you have a kitchen scale, weigh each portion. The tissue should be damp, not dripping. Keep the boxes out of direct sun and away from food.",
      "check": {
       "t": "mcq",
       "q": "Why must all three portions start with the same weight?",
@@ -881,7 +881,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Every day for six days, look at each box through the lid. Smell is allowed from outside the box only. Give each a score from 0 to 3. Write the scores in the table.",
+     "do": "Every day for six days, look at each box through the lid. Smell the box only from the outside. Give each box a score from 0 to 3. Write the scores in the table.",
      "say": "Each day, look and score. 0 is no change. 1 is a smell or a soft spot. 2 is slime or a little fuzz. 3 is mostly soft and fuzzy. Do not open the boxes once there is fuzz.",
      "kid": "Look at each box every day. Give it a score from 0 to 3.",
      "ask": [
@@ -895,7 +895,7 @@
        ]
       }
      ],
-     "parent": "Expected: the grated carrot goes first, often around day 2 to 4 (a typical guide, not a promise), with a smell and slime or white fuzz. The chopped cubes follow a day or two later. The whole piece is slowest and may only soften at the end, or get a bit of fuzz at the cut end. Results vary with the warmth of your room. In cold or dry weather it can be slower. If nothing changes by day 4, leave the boxes for 3 more days. If all three go together, check that the boxes sit in the same place.",
+     "parent": "The grated carrot usually goes first, often around day 2 to 4, with a smell and slime or white fuzz. The chopped cubes follow a day or two later. The whole piece is slowest and may only soften at the end, or get a bit of fuzz at the cut end. Results vary with the warmth of your room. In cold or dry weather it can be slower. If nothing changes by day 4, leave the boxes for 3 more days. If all three rot at the same time, check that the boxes sit in the same place.",
      "context": "In this step, you check the boxes every day and score what you see."
     },
     {
@@ -915,7 +915,7 @@
        "Carrot only rots when it is cut"
       ],
       "a": 0,
-      "why": "Decomposers work on the outside of their food. Grating makes lots of new outside, so there is more room to work. A wrong pick often forgets that all three portions weighed the same."
+      "why": "Decomposers work on the outside of their food. Grating makes lots of new outside, so there is more room to work. The grated carrot is not heavier: all three portions weighed the same."
      },
      "context": "This is the last step of Cut It Up. You draw the graph and explain what you found."
     }
@@ -949,7 +949,7 @@
     {
      "day": 6,
      "mins": 8,
-     "what": "Look and score. Draw the graph. Say what you thought, saw and why."
+     "what": "Look and score. Draw the graph. Say what you thought, what you saw, and why."
     }
    ]
   }
@@ -1031,7 +1031,7 @@
        ]
       }
      ],
-     "parent": "Do not explain yet. Write down your child's noticing and wondering. Pot soil is fine, and so is soil from a park or a garden. Two to four children: share the plate and the lens in turns, and each child draws one kind of find. Each makes a tally of what they find.",
+     "parent": "Do not explain yet. Write down what your child notices and wonders. Pot soil is fine, and so is soil from a park or a garden. Two to four children: share the plate and the lens in turns, and each child draws one kind of find. Each child makes a tally of what they find.",
      "context": "This is the first step of Soil Detective. You notice before you explain."
     },
     {
@@ -1043,7 +1043,7 @@
      "parent": "You may find pale threads (fungus), small dead leaf pieces, bits of root, and sometimes tiny white or brown animals such as springtails or mites. Pot soil may have few animals. That is normal. Garden or tree-base soil usually shows more animals and threads than pot soil, so the tally is a real comparison, though a dry spot may show little. Put the animals back in the soil after looking.",
      "check": {
       "t": "mcq",
-      "q": "The white threads in soil are most likely...",
+      "q": "What are the white threads in soil most likely to be?",
       "options": [
        "A fungus growing through the soil",
        "Worm hair",
@@ -1060,7 +1060,7 @@
      "do": "Ask your child to say what the things they found are doing. Ask which ones are the cleanup crew.",
      "say": "Which of the things you found do you think are the cleanup crew? What do you think each one is eating?",
      "kid": "Which things are the cleanup crew? What are they eating?",
-     "parent": "A good answer is that the threads, the tiny animals and the tiny bits of dead plant are all part of the story. The dead plant is the food, and the threads and animals are the eaters. Say that soil is a living thing. A spoon of healthy garden soil can hold up to about a billion tiny bacteria, nearly as many as the people in India. You cannot see them, only the larger ones.",
+     "parent": "A good answer says that the dead plant bits are the food, and the threads and the tiny animals are the eaters. Say that soil is full of living things. A spoon of healthy garden soil can hold up to about a billion tiny bacteria, nearly as many as the people in India. They are too small to see. You can see only the larger animals.",
      "think": "If you could look at a spoon of soil from a forest, what would be different?",
      "context": "This is the last step of Soil Detective. You think about what each thing does."
     }
@@ -1154,7 +1154,7 @@
        ]
       }
      ],
-     "parent": "On each look, count how many flowers still look like flowers. Typically in a damp warm week: the buried flowers turn dark, soft and slimy within a week, and may get white fuzz or a few tiny insects. The dry ones stay papery and keep their shape for weeks. Water makes the difference, as it does for mould on bread. If the buried flowers go sour and slimy, mix in a little dry soil.",
+     "parent": "On each look, count how many flowers still look like flowers. In a damp, warm week, the buried flowers usually turn dark, soft and slimy, and may get white fuzz or a few tiny insects. The dry ones stay papery and keep their shape for weeks. Water makes the difference, as it does for mould on bread. If the buried flowers go sour and slimy, mix in a little dry soil.",
      "context": "In this step, you look at the two heaps and draw them."
     },
     {
@@ -1162,9 +1162,9 @@
      "mins": 10,
      "do": "On day 14, dig up the buried flowers. Look at them and compare with the dry heap. Ask your child to say what they thought, what they saw, and why. Then plant a seed in the pot.",
      "say": "Dig up the buried flowers. Compare them with the dry ones. Tell me what you thought, what you saw, and why you think it happened.",
-     "kid": "Dig up the flowers. Compare with the dry ones. Say why.",
+     "kid": "Dig up the flowers. Compare them with the dry ones. Say why they look different.",
      "parent": "A strong answer says that decomposers need water, warmth and food, and the damp soil gave them water. Some of the flowers' matter has gone into the air as carbon dioxide and some is in the soil. A seed planted in the pot now grows in what the flowers left.",
-     "think": "Where did the rest of the flower go?",
+     "think": "Part of the buried flowers is gone. Where did it go?",
      "check": {
       "t": "mcq",
       "q": "The buried flowers rotted and the dry ones did not. What is the best reason?",
@@ -1174,7 +1174,7 @@
        "The dry flowers were stronger"
       ],
       "a": 0,
-      "why": "Decomposers need water to dissolve their food. The buried flowers were damp, so the decomposers could work. A wrong pick often forgets that the flowers were the same, and only the water changed."
+      "why": "Decomposers need water to dissolve their food. The buried flowers were damp, so the decomposers could work. The flowers in both heaps were the same. Only the water was different."
      },
      "context": "This is the last step of the Marigold Diary. You compare the two heaps and explain."
     }
@@ -1251,7 +1251,7 @@
        ]
       }
      ],
-     "parent": "Possible answers: peels and rice by ants, flies and then moulds and bacteria. Bones by bacteria and fungi very slowly, over years. Eggshells by bacteria, slowly. Coconut shell by fungi, very slowly. Wrappers and plastic bags: nobody, for hundreds of years.",
+     "parent": "Possible answers: peels and rice are eaten by ants and flies, and then by moulds and bacteria. Bones are eaten by bacteria and fungi very slowly, over years. Eggshells are broken down by bacteria, slowly. Coconut shell is eaten by fungi, very slowly. Wrappers and plastic bags are eaten by nobody, and last for hundreds of years.",
      "context": "In this step, you work out who the cleanup crew is for each leftover."
     },
     {
@@ -1260,7 +1260,7 @@
      "do": "Count how many leftovers have a crew and how many do not. Ask your child why some have no crew and what could be done about them.",
      "say": "How many of our leftovers have a cleanup crew? How many do not? Why do you think that is?",
      "kid": "Count the leftovers with a crew. Count the ones with no crew.",
-     "parent": "Let your child reason it out. The ones with no crew can be reused, repaired or recycled, as in the unit on reduce, reuse and recycle.",
+     "parent": "Let your child reason it out. The leftovers with no crew can be reused, repaired or recycled.",
      "think": "What could we do with the leftovers that nobody can eat?",
      "check": {
       "t": "mcq",
@@ -1271,7 +1271,7 @@
        "Plastic has no weight"
       ],
       "a": 0,
-      "why": "Decomposers have enzymes that fit the materials they have met for millions of years. Plastic is new, so few have the right tool. A wrong pick often confuses not rotting with not being there."
+      "why": "Decomposers have enzymes that fit the materials they have met for millions of years. Plastic is new, so few have the right tool. A wrong pick mixes up 'does not rot' with 'is not there'."
      },
      "context": "This is the last step of Who Eats It? You find the leftovers that nobody can eat."
     }
@@ -1352,7 +1352,7 @@
      "do": "Sort every visitor into scavenger, detritivore or neither. Ask your child who is missing from the list and why.",
      "say": "Which of your visitors are scavengers? Which are detritivores? Who is not here that you would expect in a forest?",
      "kid": "Sort your visitors: scavengers or detritivores. Who is missing?",
-     "parent": "Crows, kites, dogs and cows are scavengers. Ants are scavengers too. Flies lay eggs, and the grubs are scavengers or detritivores. Moulds on the food are decomposers. Many cities have lost scavengers such as vultures. This is a good moment to tell the vulture story from the how we found out card.",
+     "parent": "Crows, kites, dogs and cows are scavengers. Ants are scavengers too. Flies lay eggs, and the grubs are scavengers or detritivores. Moulds on the food are decomposers. Many cities have lost scavengers such as vultures. This is a good moment to tell the vulture story from the 'How we found out' card.",
      "think": "If the crows and the dogs all disappeared, what would happen to the street?",
      "check": {
       "t": "mcq",
@@ -1453,7 +1453,7 @@
      "mins": 5,
      "do": "Show your child the three pots and what goes in each. Ask for a guess and a reason about which pot will grow the best plants.",
      "say": "Pot A has only cocopeat. Pot B has cocopeat and rotted compost. Pot C has garden soil. Which pot will grow the best methi? Why do you think so?",
-     "kid": "Three pots. Which will grow the best methi? Why?",
+     "kid": "There are three pots. Which pot will grow the best methi? Why?",
      "parent": "Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess. Pots A and B differ only by the compost, so they are the fair test; pot C is a bonus that shows ordinary soil. One child: the child measures and records. Two to four children: each child keeps one pot (or each pair its own set of three) and measures its plants; compare in a group chart.",
      "context": "This is the first step of the Methi project. You guess before you plant."
     },
@@ -1492,7 +1492,7 @@
      "do": "On day 14, measure and draw a bar chart of the average heights. Ask your child to say what they thought, what they saw, and why.",
      "say": "Draw a bar for each pot. Tell me what you thought, what you saw, and why you think it happened.",
      "kid": "Draw a bar for each pot. Say what you thought, what you saw, and why.",
-     "parent": "A strong answer says that the compost holds nutrients from dead leaves and other waste, released by decomposers, and the plants drink them. After they have explained, say that a methi plant has just done what a banana did in the story of the palm.",
+     "parent": "A strong answer says that the compost holds nutrients from dead leaves and other waste, released by decomposers, and the plants drink them. After your child has explained, say that the methi plants have just done what the banana plants did in the story The Palm That Stayed.",
      "think": "Where did the nutrients in the vermicompost come from, before they were in the compost?",
      "context": "This is the last step of the Methi project. You draw the chart and explain what you found."
     }
@@ -1507,8 +1507,8 @@
    "problem": "You have 100 grams of fresh vegetable peels, two tablespoons of soil and one jar. Set up the jar so the peels soften and darken as fast as you can in 5 days.",
    "constraints": [
     "Use only the peels, the soil, the jar and things from your kitchen: water, a knife, paper and a lid.",
-    "No chemicals, no heating, and no adding of ready-made compost.",
-    "Change only one thing from your first jar at a time, so you can tell what helped.",
+    "Do not use chemicals, do not heat the jar, and do not add ready-made compost.",
+    "In your second jar, change only one thing from your first jar, so you can tell what helped.",
     "After 5 days, score each jar from 0 to 5 for how soft, dark and crumbly the peels are."
    ],
    "materials": [
@@ -1594,7 +1594,7 @@
    "channel": "BBC",
    "youtube": "GY_uMH8Xpy0",
    "mins": 2,
-   "why": "To watch a mould or a mushroom grow through food, and see the enzymes at work.",
+   "why": "To watch a mould or a mushroom grow through food as the enzymes break the food down.",
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   },
   {
@@ -1610,7 +1610,7 @@
    "channel": "DD India",
    "youtube": "Jo0LTZQ3KA4",
    "mins": 6,
-   "why": "To hear how vultures crashed in India, what caused it, and how the birds are being saved.",
+   "why": "To hear how India lost most of its vultures, what caused it, and how the birds are being saved.",
    "check": "Id confirmed with YouTube (title and channel match). A parent should preview it first."
   }
  ],
@@ -1624,7 +1624,7 @@
     "Making the wood into stone"
    ],
    "a": 0,
-   "why": "A fungus digests food outside her body. She pours enzymes on it, and then soaks up what dissolves. A wrong pick often comes from imagining a mouth.",
+   "why": "A fungus digests food outside her body. She pours enzymes on it, and then soaks up what dissolves. She has no mouth and no teeth.",
    "outcome": 0
   },
   {
@@ -1648,12 +1648,12 @@
     "Water vapour only"
    ],
    "a": 0,
-   "why": "Limewater reacts with carbon dioxide and makes tiny white bits of chalk. Soil microbes breathe it out.",
+   "why": "Limewater reacts with carbon dioxide and makes tiny white bits of chalk. Soil microbes breathe out the carbon dioxide.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "In the soil jar test, the jar with only air stayed clear. What does this tell us?",
+   "p": "In the Breathing Soil test, the jar with only air stayed clear. What does this tell us?",
    "opts": [
     "The gas came from the soil and peel, and not from the limewater or air",
     "Air is not important",
@@ -1823,7 +1823,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort each carrot into whether it rots faster or slower, when the carrots weigh the same.",
+     "p": "All these carrots weigh the same. Sort each one: does it rot faster or slower?",
      "cats": [
       "Rots faster",
       "Rots slower"
@@ -1860,11 +1860,11 @@
     },
     {
      "t": "fill",
-     "p": "The gas that made the limewater go milky was ____ ____.",
+     "p": "In the Breathing Soil test, the gas that made the limewater go milky was ____ ____.",
      "a": [
       "carbon dioxide"
      ],
-     "why": "Limewater reacts with carbon dioxide to make tiny white bits of chalk. Soil microbes breathe it out as they eat dead plants.",
+     "why": "Limewater reacts with carbon dioxide to make tiny white bits of chalk. Soil microbes breathe out carbon dioxide as they eat dead plants.",
      "outcome": 1
     },
     {
@@ -1881,7 +1881,7 @@
     },
     {
      "t": "write",
-     "p": "Jar B, in the fridge, turned the limewater less milky than jar A in the warm room. Explain why.",
+     "p": "In the Breathing Soil test, jar B, in the fridge, turned the limewater less milky than jar A in the warm room. Explain why.",
      "lines": 3,
      "a": "The cold slowed down the decomposers. They breathe out less carbon dioxide when they are cold, so less limewater turned milky.",
      "why": "A strong answer says that decomposers are living, and cold slows them down. They still eat, but slowly.",
@@ -1889,7 +1889,7 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, for what happens to a dead leaf on the forest floor.",
+     "p": "Put these steps in order to show what happens to a dead leaf on the forest floor.",
      "a": [
       "The leaf falls and lies on the ground",
       "A millipede chews the leaf into small bits",
@@ -1922,7 +1922,7 @@
     },
     {
      "t": "count",
-     "p": "Meenakshi's palm log weighs 100 kilograms. About half of a dry log is carbon. How many kilograms of carbon are in the log?",
+     "p": "A palm log weighs 100 kilograms. About half of a dry log is carbon. How many kilograms of carbon are in the log?",
      "a": "50",
      "why": "Half of 100 is 50. As the log rots, much of that carbon is breathed out by decomposers as carbon dioxide.",
      "outcome": 2
@@ -1944,11 +1944,11 @@
      "p": "Two friends look at a rotting banana peel on the road.",
      "views": [
       {
-       "who": "Kavya, a girl in Class 4 (an imagined view)",
+       "who": "The first friend (an imagined view)",
        "says": "A rotting peel is rubbish. It smells bad, and nobody should touch it."
       },
       {
-       "who": "Arjun, a boy in Class 4 (an imagined view)",
+       "who": "The second friend (an imagined view)",
        "says": "A rotting peel is a meal. Flies, mould and bacteria are eating it, and the rest will feed the soil."
       }
      ],
@@ -1979,7 +1979,7 @@
     },
     {
      "t": "fill",
-     "p": "The word for tiny jobs done by tools made by a fungus, to cut food into small pieces, is ____.",
+     "p": "The tiny tools that a fungus makes to cut food into small pieces are called ____.",
      "a": [
       "enzymes",
       "enzyme"
@@ -2033,7 +2033,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort each of these into whether it goes round in a cycle or flows through and ends.",
+     "p": "Sort each of these. Does it go round in a cycle, or does it flow through and end as heat?",
      "cats": [
       "Goes round",
       "Flows through and ends as heat"
@@ -2081,7 +2081,7 @@
       "There was no rain"
      ],
      "a": 0,
-     "why": "The local beetles were fitted to the dry pellets of kangaroos. The dung dried into hard pads. Dung beetles from Africa and Europe were brought in to bury it.",
+     "why": "The local beetles were suited to the dry pellets of kangaroos. The cattle dung dried into hard pads. Dung beetles from Africa and Europe were brought in to bury it.",
      "outcome": 5
     },
     {
@@ -2129,11 +2129,11 @@
      "p": "A town is deciding what to do about the dead cattle left on its edge.",
      "views": [
       {
-       "who": "Selvi, a girl in Class 4 (an imagined view)",
+       "who": "One child in the town (an imagined view)",
        "says": "Bury them or burn them, so no animals come and nobody gets ill."
       },
       {
-       "who": "Imran, a boy in Class 4 (an imagined view)",
+       "who": "Another child in the town (an imagined view)",
        "says": "Leave them for the vultures and other scavengers, because they clean up fast and nothing is wasted."
       }
      ],
@@ -2156,7 +2156,7 @@
     },
     {
      "t": "write",
-     "p": "A farmer cuts her wheat and carries every straw away for years. Her soil gets poorer. Explain why.",
+     "p": "Every year, for many years, a farmer cuts her wheat and carries all the straw away. Her soil gets poorer. Explain why.",
      "lines": 3,
      "a": "The wheat took nutrients from the soil. When all the straw is carried away, the nutrients never return, because there is nothing left to rot into the soil.",
      "why": "A strong answer names the nutrients, says they are taken up by plants, and points out that the loop is broken when the plants never rot in the field.",
@@ -2192,7 +2192,7 @@
     },
     {
      "t": "fill",
-     "p": "A tiny dark crumbly soil made from partly rotted plants is called ____.",
+     "p": "The dark, crumbly part of soil made from partly rotted plants is called ____.",
      "a": [
       "humus"
      ],
@@ -2215,7 +2215,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya says, 'Plastic does not rot because it is too strong.' Explain why this reason is not right.",
+     "p": "Someone says, 'Plastic does not rot because it is too strong.' Explain why this reason is not right.",
      "lines": 3,
      "a": "Strength is not the reason. Decomposers have enzymes that fit plant and animal matter. Plastic is a new material, and almost no decomposer has an enzyme for it yet.",
      "why": "A strong answer says that rotting depends on enzymes that fit the material, not on how strong or hard it is.",
@@ -2273,7 +2273,7 @@
      ],
      "ask": "Which view is stronger? What evidence would help you decide?",
      "a": "Answers vary. A strong answer says what evidence is missing, such as the dates for when the fungi appeared, or what the climate was like at the time.",
-     "why": "This is an open question. The first idea is plausible but has not been proved, and good scientists test it.",
+     "why": "This is an open question. The first idea could be true but has not been proved, so scientists are still testing it.",
      "outcome": 6
     },
     {
@@ -2299,7 +2299,7 @@
      "t": "odd",
      "p": "Which is the odd one out, and why? Rotting, burning, breathing, melting.",
      "a": "Melting, because it does not join carbon with oxygen to make carbon dioxide. The other three do.",
-     "why": "Rotting, burning and breathing are all respiration or burning, which turn food or fuel and oxygen into carbon dioxide and energy. Melting is only a change of state.",
+     "why": "Rotting, burning and breathing all join food or fuel with oxygen, and give out carbon dioxide and energy. Melting only changes a solid into a liquid.",
      "outcome": 1
     },
     {
@@ -2337,7 +2337,7 @@
  "applications": [
   "Composting kitchen waste and garden leaves at home, in a school or in a housing society.",
   "Vermicomposting, where earthworms speed up the rotting of waste into rich soil.",
-  "Setting farm fields so that straw and dung go back to the soil, instead of being burned.",
+  "Farming so that straw and dung go back to the soil, instead of being burned.",
   "Mulching: spreading dead leaves around plants to keep the soil damp and feed it slowly.",
   "Sewage treatment, where bacteria are used to break down waste in water before it returns to a river.",
   "Biogas plants, where microbes digest cow dung without air and make a gas that can be burned for cooking.",
@@ -2432,8 +2432,8 @@
    "a": "It wanted to be part of something bigger."
   },
   {
-   "j": "What do you call a mould who loves chapati?",
-   "a": "A roti-ting good time."
+   "j": "Why did the mould love the chapati?",
+   "a": "She was having a roti-ting good time."
   },
   {
    "j": "Why was the vulture a good cleaner?",
@@ -2465,7 +2465,7 @@
    "why_maths": "The surface is what decomposers work on, so you need to be able to work it out before you compare big pieces with small ones."
   },
   {
-   "problem": "The same cube is cut into 64 small cubes, each 1 centimetre on each side. Each small cube has a surface of 6 square centimetres. How many square centimetres is the surface of all 64 small cubes together? How many times bigger than the big cube's surface is that?",
+   "problem": "A carrot cube 4 centimetres on each side has a surface of 96 square centimetres. It is cut into 64 small cubes, each 1 centimetre on each side. Each small cube has a surface of 6 square centimetres. How many square centimetres is the surface of all 64 small cubes together? How many times bigger is that than the surface of the big cube?",
    "answer": "384 square centimetres, which is 4 times bigger.",
    "explain": "64 times 6 is 384. The big cube had 96. 384 divided by 96 is 4. So the same carrot has 4 times as much surface when it is cut small.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -2497,7 +2497,7 @@
    "why_maths": "A count of 970 is hard to picture. 97 out of every 100 shows how large the fall was."
   },
   {
-   "problem": "A dry log has a mass of 100 kilograms. About half of it is carbon. A fungus breathes out 3 kilograms of that carbon in the first year. How many kilograms of carbon are left in the log? What fraction of the carbon is that?",
+   "problem": "A dry log has a mass of 100 kilograms. About half of it is carbon. A fungus breathes out 3 kilograms of that carbon in the first year. How many kilograms of carbon are left in the log? What fraction of the carbon has gone?",
    "answer": "47 kilograms are left, and 3 out of 50 has gone.",
    "explain": "Half of 100 is 50 kilograms of carbon. 50 take away 3 is 47. 3 out of 50 is the fraction that has gone, which is 6 out of 100.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -2513,7 +2513,7 @@
    "why_maths": "Putting results in order is how you see which jar gave out the most gas, and what that says about the soil."
   },
   {
-   "problem": "A methi plant in pot A is 4 centimetres tall after 14 days. The plants in pot B with compost are 11 centimetres tall. How many times taller are the plants in pot B? What does this suggest? These numbers are made up.",
+   "problem": "The methi plants in pot A, with only cocopeat, are 4 centimetres tall after 14 days. The plants in pot B, with compost, are 11 centimetres tall. How many times taller are the plants in pot B? What does this suggest? These numbers are made up.",
    "answer": "A bit less than 3 times taller (11 divided by 4 is about 2.75). It suggests that the compost fed the plants.",
    "explain": "11 divided by 4 is 2 with 3 left over, so about 2.75. Three times would be 12, so it is a bit less. The extra growth is a hint that the compost nutrients helped, though one test is not proof.",
    "math_unit": "math.number-sense.estimation.L4",
@@ -2707,21 +2707,21 @@
  "roots": {
   "context": "We have followed a dead log into the air and the soil. Now we ask what the cleanup crews tell us about waste, and about what we are made of.",
   "deep_truth": {
-   "truth": "The soil in the jar breathed out carbon dioxide, and the limewater above it went milky. Tiny decomposers eat dead leaf and turn it into gas and into food for plants. In a forest, every leftover is someone's meal. 'Waste' is only what nobody has learned to eat yet.",
-   "habit": "We split the world into useful things and waste, as if some things were made to be thrown away. A dead leaf, a dropped peel and a fallen palm look like rubbish. They are food for the next being, and the split only appears where there is no one to eat what is left.",
-   "evidence": "In the Breathing Soil test, the jar with soil and peel turned limewater milky, and the jar with only air did not. In Cut It Up, the finely grated carrot was eaten first. Plastic stays because few decomposers have the enzymes for it."
+   "truth": "In the Breathing Soil test, the soil in the jar breathed out carbon dioxide, and the limewater above it went milky. Tiny decomposers eat dead leaves and turn them into gas and into food for plants. In a forest, every leftover is someone's meal. 'Waste' is only what nobody has learned to eat yet.",
+   "habit": "We split the world into useful things and waste, as if some things were made to be thrown away. A dead leaf, a dropped peel and a fallen palm look like rubbish. They are food for the next living being. A thing becomes waste only when there is no one to eat it.",
+   "evidence": "In the Breathing Soil test, the jar with soil and peel turned limewater milky, and the jar with only air did not. In the Cut It Up test, the grated carrot rotted first. Plastic stays because few decomposers have the enzymes for it."
   },
   "three": {
    "who_am_i": "The carbon in your body was in the air, in plants and in other animals before it was in you, and it will move on again.",
    "what_is_life": "Life is made of eating and being eaten. A fungus is as much a part of life as a lion, and she is the one who sends the atoms back for the next plant.",
-   "what_is_this_world": "The world is a loop of matter powered by the Sun. Every leaf has been in the soil, the air and a body many times already."
+   "what_is_this_world": "The world is a loop of matter powered by the Sun. The atoms in every leaf have been in the soil, the air and a body many times already."
   },
-  "thread": "A leaf is air and water made into a body by sunlight. When the leaf dies, a fungus or a worm unmakes it, and the same atoms go back into the air and the soil. A new leaf then makes the atoms into a body again. No part of the loop is the real beginning, and nothing in it is waste. Each body is a place where the same atoms rest for a while. The thing that keeps the loop going is the Sun, whose energy is passed along and ends as heat.",
+  "thread": "A leaf is made from air and water, using the energy of sunlight. When the leaf dies, a fungus or a worm breaks it down, and the same atoms go back into the air and the soil. A new leaf then builds its body from those atoms. The loop has no starting point, and nothing in it is waste. Each body holds the atoms only for a while. The Sun keeps the loop going. Its energy is passed along and ends as heat.",
   "teachings": [
    {
     "source": "Bhagavad Gita 3.14",
     "teaching": "From food, living beings come into being. Food comes from rain, and rain comes from giving and sharing.",
-    "link": "The verse names a loop of food, rain and living beings. The soil jar shows part of that loop, where dead food turns back into the gas and minerals that plants use."
+    "link": "The verse names a loop of food, rain and living beings. The Breathing Soil test shows part of that loop: dead food turns back into the gas and minerals that plants use."
    },
    {
     "source": "Tao Te Ching 16",
@@ -2746,12 +2746,12 @@
   ],
   "other_view": {
    "who": "The Charvaka school of ancient India",
-   "view": "A person is only matter in a certain arrangement, and when the arrangement falls apart nothing remains. The body goes back to the elements, and there is nothing more to say. A view rooted in oneness can sit with this: it agrees on the atoms, and asks whether anything else is going round besides the atoms."
+   "view": "A person is only matter in a certain arrangement, and when the arrangement falls apart nothing remains. The body goes back to the elements, and there is nothing more to say. A view that sees all life as one can accept this. It agrees about the atoms, and then asks whether anything else goes round besides the atoms."
   },
   "practice": {
    "title": "Where does this breath go?",
    "mins": 3,
-   "say": "Sit still and breathe in slowly. Feel the air going in. Now breathe out slowly, and think that the carbon dioxide in this breath was once part of your breakfast. Imagine a leaf somewhere taking it in. Do this three times. Then say quietly, where will this carbon be tomorrow?",
+   "say": "Sit still and breathe in slowly. Feel the air going in. Now breathe out slowly, and think that the carbon dioxide in this breath was once part of your breakfast. Imagine a leaf somewhere taking it in. Do this three times. Then ask quietly: where will this carbon be tomorrow?",
    "kid": "Sit still. Breathe in slowly. Breathe out slowly. Think of a leaf taking in your breath. Do it three times."
   },
   "ask": [
@@ -2769,5 +2769,5 @@
   "when": "1990s to 2006",
   "wrong_idea": "People first thought that an infectious disease was killing the vultures. The team showed that the birds were being poisoned by a painkiller in the dead cattle they ate, and that a vulture's kidneys fail within days of eating it."
  },
- "warm": {"words": ["FUNGI", "HUMUS", "CYCLE", "WORMS", "ROOTS"], "quiz": [["Rotting is a slow, cool kind of burning, because decomposers use oxygen and give out carbon dioxide.", true, "Decomposers get energy from dead food by respiration, as a fire does, but slowly and with little heat."], ["When a log rots, most of it turns into soil.", false, "Most of its carbon is breathed out by decomposers as carbon dioxide into the air."], ["A fallen leaf rots at the same speed in a cold, dry place and a warm, wet one.", false, "Decomposers work fastest when it is warm, wet and airy, and slowly when cold, dry or short of air."], ["A chopped carrot rots faster than a whole carrot of the same weight.", true, "Decomposers work only on the outside of food, and small pieces have more surface."], ["Matter goes round and round in living things, but energy passes through and leaves as heat.", true, "The same atoms are used again and again, while energy from the Sun is not used again."], ["A lush rainforest must grow on rich soil.", false, "Many rainforests grow on poor soil; their nutrients are held mostly in living trees and fast-rotting leaf litter."], ["Plastic lasts a very long time because few microbes make enzymes that fit it.", true, "Enzymes cut food into pieces small enough to soak up, and most enzymes do not fit plastic."], ["The world is better without vultures, because they are dirty.", false, "Vultures clear dead animals fast; when India lost most of them, carcasses lay in the open for longer."], ["A bioplastic labelled biodegradable will rot like a banana peel in any garden.", false, "Many need steady heat of about 58 degrees Celsius, as in a compost plant, and last long elsewhere."], ["Plants can use nutrients that decomposers set free from dead plants and animals.", true, "Decomposers release minerals into the soil water, and roots drink them to build new leaves and stems."]], "odd": [[["Fungus", "Bacterium", "Mould", "Dung beetle"], "Dung beetle", "Fungi, bacteria and mould digest dead matter with enzymes; the dung beetle only chews it into smaller pieces."], [["Burning wood", "Rotting log", "Running child", "Leaf making food"], "Leaf making food", "The first three give out carbon dioxide as they release energy; a leaf making food takes carbon dioxide in."], [["Chopped carrot", "Grated carrot", "Crushed leaves", "Whole coconut"], "Whole coconut", "The first three have lots of surface for decomposers to work on; a whole coconut has little for its size."], [["Cold mountain top", "Dry desert sand", "Flooded swamp mud", "Warm wet forest floor"], "Warm wet forest floor", "The first three are cold, dry or short of air, so rot is slow; warm, wet, airy ground rots fast."], [["Carbon atoms", "Nitrogen atoms", "Phosphorus atoms", "Heat from rotting"], "Heat from rotting", "Atoms are used again and again in cycles; heat is energy that leaves and is not used again."]]}
+ "warm": {"words": ["FUNGI", "HUMUS", "CYCLE", "WORMS", "ROOTS"], "quiz": [["Rotting is a slow, cool kind of burning, because decomposers use oxygen and give out carbon dioxide.", true, "Decomposers get energy from dead food by respiration, as a fire does, but slowly and with little heat."], ["When a log rots, most of it turns into soil.", false, "Most of its carbon is breathed out by decomposers as carbon dioxide into the air."], ["A fallen leaf rots at the same speed in a cold, dry place and a warm, wet one.", false, "Decomposers work fastest when it is warm, wet and airy, and slowly when cold, dry or short of air."], ["A chopped carrot rots faster than a whole carrot of the same weight.", true, "Decomposers work only on the outside of food, and small pieces have more surface."], ["Matter goes round and round in living things, but energy passes through and leaves as heat.", true, "The same atoms are used again and again, while energy from the Sun is not used again."], ["A lush rainforest must grow on rich soil.", false, "Many rainforests grow on poor soil; their nutrients are held mostly in living trees and fast-rotting leaf litter."], ["Plastic lasts a very long time because few microbes make enzymes that fit it.", true, "Enzymes cut food into pieces small enough to soak up, and most enzymes do not fit plastic."], ["The world is better without vultures, because they are dirty.", false, "Vultures clear dead animals fast; when India lost most of them, carcasses lay in the open for longer."], ["A bioplastic labelled biodegradable will rot like a banana peel in any garden.", false, "Many need the steady heat of a compost plant, about 58 degrees Celsius. Elsewhere they can last for years."], ["Plants can use nutrients that decomposers set free from dead plants and animals.", true, "Decomposers release minerals into the soil water, and roots drink them to build new leaves and stems."]], "odd": [[["Fungus", "Bacterium", "Mould", "Dung beetle"], "Dung beetle", "Fungi, bacteria and mould digest dead matter with enzymes; the dung beetle only chews it into smaller pieces."], [["Burning wood", "Rotting log", "Running child", "Leaf making food"], "Leaf making food", "The first three give out carbon dioxide as they release energy; a leaf making food takes carbon dioxide in."], [["Chopped carrot", "Grated carrot", "Crushed leaves", "Whole coconut"], "Whole coconut", "The first three have lots of surface for decomposers to work on; a whole coconut has little for its size."], [["Cold mountain top", "Dry desert sand", "Flooded swamp mud", "Warm wet forest floor"], "Warm wet forest floor", "The first three are cold, dry or short of air, so rot is slow; warm, wet, airy ground rots fast."], [["Carbon atoms", "Nitrogen atoms", "Phosphorus atoms", "Heat from rotting"], "Heat from rotting", "Atoms are used again and again in cycles; heat is energy that leaves and is not used again."]]}
 }

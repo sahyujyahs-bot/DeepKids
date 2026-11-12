@@ -3,7 +3,7 @@
   "title": "Day and night: why the Sun reaches Guwahati before Mumbai",
   "level": 4,
   "summary": {
-    "text": "One Sun, one country and one clock, yet the Sun rises over Guwahati about an hour before it rises over Mumbai. You check this with sunrise and sunset times from five cities, and you find a neat pattern hidden in the untidy numbers: the Sun is highest about 4 minutes later for every degree you go west. You measure the spinning Earth on an orange and find that a person in Chennai is carried much faster than a person near the Arctic, though both make one turn a day. Then you follow the spin out to the length of a day on other planets, to a day that is slowly getting longer, and to the animals who live in the dark.",
+    "text": "All of India uses one clock, yet the Sun rises over Guwahati about an hour before it rises over Mumbai. You check this with sunrise and sunset times from five cities. The sunrise times look untidy, but the noon times follow a neat pattern: the Sun is highest about 4 minutes later for every degree you go west. You measure circles on an orange that stands in for the Earth, and find that a person in Chennai is carried much faster than a person near the Arctic, though both make one turn a day. Then you find out how long a day is on other planets, why our own day is slowly getting longer, and how animals find their way in the dark.",
     "art": "A map of India with five glowing clock faces from Guwahati in the east to Mumbai in the west, each showing a time a little later than the one before."
   },
   "intro": {
@@ -106,7 +106,7 @@
       "concept": "The Earth spins west to east, so the Sun reaches the east first",
       "status": "defined",
       "definition": "The Earth spins once around its axis in about a day, from west to east. So places in the east turn into the sunlight before places in the west.",
-      "description": "Seen from above the North Pole, the Earth turns anticlockwise. A place in the east is carried into the sunlit half before a place in the west. That is why the Sun rises in the east, and why Arunachal Pradesh sees sunrise before Gujarat does. Half of the Earth is always lit. The day-night line runs from the North Pole to the South Pole. Relative to the ground, it sweeps westward all day and all night. When the dawn part of the line is over Guwahati, Dong in the east is already in daylight, and Mumbai in the west is still in the dark. The line never stops, so at every moment, somewhere on Earth, it is sunrise.",
+      "description": "Seen from above the North Pole, the Earth turns anticlockwise. A place in the east is carried into the sunlit half before a place in the west. That is why the Sun rises in the east, and why Arunachal Pradesh sees sunrise before Gujarat does. Half of the Earth is always lit. The day-night line runs from the North Pole to the South Pole. As the Earth turns, this line moves west over the ground, all day and all night. When the dawn part of the line is over Guwahati, Dong, in Arunachal Pradesh further east, is already in daylight, and Mumbai in the west is still in the dark. The line never stops, so at every moment, somewhere on Earth, it is sunrise.",
       "examples": [
         "The Sun rises in the east because the ground under us turns towards the east.",
         "Sunrise in Arunachal Pradesh comes more than an hour before sunrise in Gujarat.",
@@ -119,7 +119,7 @@
       "concept": "The Sun is highest about 4 minutes later for every degree you go west",
       "status": "defined",
       "definition": "The Earth turns 1 degree of longitude in 4 minutes. So solar noon comes about 4 minutes later for each degree of longitude we move west.",
-      "description": "The Earth turns 360 degrees in 24 hours. 24 hours is 1,440 minutes. 1,440 divided by 360 is 4. So the Earth turns 1 degree every 4 minutes. Two places that are 1 degree apart in longitude have their solar noon 4 minutes apart. India is about 29 degrees wide, from about 68 degrees east to about 97 degrees east. That is about 116 minutes, nearly two hours. Sunrise gaps are untidy, because sunrise also depends on how far north you are and on the season. In winter, a northern city has a later sunrise and an earlier sunset than a southern one. But the middle of the day, solar noon, depends only on longitude. You can find it by adding the sunrise and sunset times and taking the middle. That is why the noon gaps come out neat.",
+      "description": "The Earth turns 360 degrees in 24 hours. 24 hours is 1,440 minutes. 1,440 divided by 360 is 4. So the Earth turns 1 degree every 4 minutes. Two places that are 1 degree apart in longitude have their solar noon 4 minutes apart. India is about 29 degrees wide, from about 68 degrees east to about 97 degrees east. So noon in the far west comes about 116 minutes, nearly two hours, after noon in the far east. Sunrise gaps are untidy, because sunrise also depends on how far north you are and on the season. In winter, a northern city has a later sunrise and an earlier sunset than a southern one. But the middle of the day, solar noon, depends only on longitude. You can find it by taking the time halfway between sunrise and sunset. That is why the noon gaps come out neat.",
       "examples": [
         "Chennai is about 4 degrees east of Kochi, so noon comes about 16 minutes earlier in Chennai.",
         "Delhi and Bengaluru are almost on the same line of longitude, so their noons are only about 2 minutes apart, though they are far apart north to south.",
@@ -155,7 +155,7 @@
       "perspectives": []
     },
     {
-      "concept": "Why we feel nothing, and the two small things we can feel",
+      "concept": "Why we feel nothing, and two small things the spin does",
       "status": "defined",
       "definition": "We feel no spin because it is smooth and steady, and everything around us is carried along too. But the spin does change the Earth's shape and our weight a tiny bit.",
       "description": "In a smooth train, you do not feel the speed. You only feel bumps, starts and stops. The Earth turns smoothly, so there are no bumps. Yet the spin does leave two small marks. First, the spin flings things outward a little, so the Earth is slightly wider across the equator than from pole to pole. The difference is about 43 kilometres. Second, the spin and the bulge together make gravity a tiny bit weaker at the equator. A child who weighs 30 kilograms at the poles weighs about 150 grams less at the equator. That is about the weight of an apple. Scales can show it, but your body cannot feel it.",
@@ -175,7 +175,7 @@
       "examples": [
         "A bright star sets about 4 minutes earlier each night.",
         "After a month, a star sets about 2 hours earlier than at the start.",
-        "The same 4 minutes per degree gives both the longitude rule and the star-day rule."
+        "The Earth turns 1 degree in 4 minutes. This one fact explains why noon comes 4 minutes later for each degree west, and why a star rises 4 minutes earlier each night."
       ],
       "art": "A top-down diagram of the Earth in two positions on its path round the Sun, with an arrow to a faraway star and a small extra angle marked after one spin.",
       "perspectives": []
@@ -184,7 +184,7 @@
       "concept": "Days on other planets",
       "status": "defined",
       "definition": "A planet's day is the time it takes to spin once. It is different on every planet.",
-      "description": "Mars spins once in about 24 hours 37 minutes, so a day there is almost like ours. Jupiter is the biggest planet, but it spins once in only about 9 hours 56 minutes. Its edge is carried at more than 40,000 kilometres an hour. Venus spins once in 243 Earth days, which is longer than its year of 225 Earth days. Venus also spins backwards, so the Sun would rise in the west. Why Venus spins this way is not known. Ideas include a giant crash long ago, and the pull of the Sun on its thick air.",
+      "description": "Mars spins once in about 24 hours 37 minutes, so a day there is almost like ours. Jupiter is the biggest planet, but it spins once in only about 9 hours 56 minutes. A spot on its equator is carried at more than 40,000 kilometres an hour. Venus spins once in 243 Earth days, which is longer than its year of 225 Earth days. Venus also spins backwards, so the Sun would rise in the west. Why Venus spins this way is not known. Ideas include a giant crash long ago, and the pull of the Sun on its thick air.",
       "examples": [
         "On Jupiter, you would have about 2 and a half sunrises in one Earth day.",
         "A day on Mars is about 37 minutes longer than a day on Earth.",
@@ -197,7 +197,7 @@
       "concept": "The Earth's day is slowly getting longer",
       "status": "defined",
       "definition": "The Earth's spin is slowing down. A day gets about 2 thousandths of a second longer every hundred years.",
-      "description": "The Moon pulls on the oceans and makes the tides. As the tides move over the sea floor, they rub, like a gentle brake on the spinning Earth. The spin loses energy. The Moon gains it and drifts about 3.8 centimetres further away each year, which scientists measure by bouncing laser light off mirrors that Apollo astronauts left on the Moon. A few thousandths of a second a century sounds like nothing. Over hundreds of millions of years it adds up. In 1963, John Wells counted daily growth lines on fossil corals that lived about 400 million years ago. He found about 400 lines in a year. So the year had about 400 days, and each day was about 22 hours long. Records of ancient eclipses also show the slowing. Big events can change a day too. The 2011 earthquake in Japan moved so much rock that it shortened the day by about 2 millionths of a second.",
+      "description": "The Moon pulls on the oceans and makes the tides. As the tides move over the sea floor, they rub, like a gentle brake on the spinning Earth. The spin loses energy. The Moon gains that energy and drifts about 3.8 centimetres further away each year. Scientists measure this by bouncing laser light off mirrors that Apollo astronauts left on the Moon. A few thousandths of a second a century sounds like nothing. Over hundreds of millions of years it adds up. In 1963, John Wells counted daily growth lines on fossil corals that lived about 400 million years ago. He found about 400 lines in a year. So the year had about 400 days, and each day was about 22 hours long. Records of ancient eclipses also show the slowing. Big events can change a day too. The 2011 earthquake in Japan moved so much rock that it shortened the day by about 2 millionths of a second.",
       "examples": [
         "Corals from 400 million years ago show a year with about 400 days.",
         "The Moon is moving away from the Earth by about 3.8 centimetres a year.",
@@ -280,7 +280,7 @@
       "status": "debated"
     },
     {
-      "claim": "Everything on Earth moves at the same speed as the Earth spins.",
+      "claim": "As the Earth spins, every place on it moves at the same speed.",
       "who": "A common first guess.",
       "for": "Everything makes one turn in the same 24 hours.",
       "against": "The circle you travel is longer near the equator and shorter near the poles, so the speed is different. A person on the equator is carried about twice as fast as a person at 60 degrees north.",
@@ -313,24 +313,24 @@
       "hint": "Think about what would stay the same if everyone changed their clocks."
     },
     {
-      "q": "A plane flying west near the Arctic Circle at about 670 kilometres an hour can keep up with the Sun's spin. What would you see out of the window, and what does this say about how fast the Earth turns there?",
+      "q": "Near the Arctic Circle, a plane flying west at about 670 kilometres an hour moves as fast as the ground there is carried east by the spin. What would you see the Sun do out of the window? What does this tell you about how fast the Earth turns there?",
       "kind": "deep",
-      "hint": "Think about the small circle at the Arctic and your orange."
+      "hint": "Think about the small circle near the pole that you drew in the Orange Earth test."
     },
     {
-      "q": "In the north-east in winter, the Sun sets before 5 in the afternoon, so children may walk home in the dark, though the Sun was up before most of them woke. Should a country's clock follow the Sun, or follow what is easy to share?",
+      "q": "In the north-east in winter, the Sun rises before most children wake and sets before 5 in the afternoon, so they may walk home in the dark. Should a country's clock follow the Sun, or follow what is easy to share?",
       "kind": "big",
       "hint": "Think about who gains and who loses with each choice."
     },
     {
       "q": "Streetlights make cities safer for people, and they confuse turtles, birds and insects. Who should the night belong to?",
       "kind": "big",
-      "hint": "Think about who is asked, and who is not."
+      "hint": "Think about who gets asked where the lights should go, and who does not."
     },
     {
       "q": "The Earth's spin gives us day and night. What gave the Earth its spin in the first place, and why has it not stopped?",
       "kind": "deep",
-      "hint": "Think about the cloud the Sun and planets formed from, and what is around the Earth to slow it."
+      "hint": "Think about the cloud that the Sun and planets formed from, and about what there is around the Earth that could slow it."
     }
   ],
   "story": {
@@ -381,18 +381,18 @@
     ]
   },
   "roots": {
-    "context": "We have followed the Sun's light round the spinning Earth, from Guwahati to Mumbai. Now we ask what this tells us about morning, about time, and about our own place in it.",
+    "context": "We followed the Sun's light across India, from Guwahati to Mumbai, and found that the turning Earth brings it to each place in turn. Now we ask what this tells us about morning and about time.",
     "deep_truth": {
       "truth": "Sunrise is not an event that happens to a whole country at once. It is a line that crosses the Earth and never stops. The dawn that reached Guwahati arrived in Mumbai about an hour later. So morning belongs to a place, and no one moment is morning for everyone.",
       "habit": "We say 'the Sun rises at 6' as if morning were one thing that happens to everyone together. One clock for a whole country hides the fact that each place has its own morning, and that the Sun's time and the clock's time are different things.",
-      "evidence": "In the noon table, the Sun was highest about 4 minutes later for every degree west. Five cities under one Sun and one clock had five different noons. And because the Earth keeps turning, a dawn is always crossing somewhere."
+      "evidence": "In the Five Noons test, the Sun was highest about 4 minutes later for every degree west. Five cities under one Sun and one clock had five different noons. And because the Earth keeps turning, a dawn is always crossing somewhere."
     },
     "three": {
       "who_am_i": "You are not waiting for the morning to come to you. You are being carried through it, at about 1,500 kilometres an hour, on a turning Earth.",
       "what_is_life": "Birds, flowers and people wake as the dawn reaches them. Many birds start singing as the light arrives, so a wave of birdsong travels with the line of dawn round the world.",
       "what_is_this_world": "There is one Sun and one turning Earth. So a line of dawn and a line of dusk are always crossing the planet, and somewhere it is always morning."
     },
-    "thread": "From one Sun comes light, and from one turning Earth comes a dawn that passes from place to place. No place owns the morning. Each place receives it a few minutes after its eastern neighbour, and passes it on to the west. The many mornings are one morning, handed on. This is the one becoming the many in time. A single dawn line, circling the world, becomes a different time of day for every place it crosses.",
+    "thread": "There is one Sun and one turning Earth, so there is one line of dawn, and it passes from place to place. No place owns the morning. Each place gets it a few minutes after the place to its east, and then it moves on to the west. So the many mornings are really one morning, passed along. One dawn line going round the world is a different time of day in every place it crosses.",
     "teachings": [
       {
         "source": "Rig Veda 1.113",
@@ -402,12 +402,12 @@
       {
         "source": "Heraclitus, fragment 6 (about 500 BCE)",
         "teaching": "The Greek thinker Heraclitus wrote that the Sun is new every day.",
-        "link": "The sunrise that reaches you today is a new meeting between you and the light. Yet it is one dawn line that has been circling the Earth for billions of years."
+        "link": "The sunrise you see today is new for you. Yet it is the same dawn line that has been going round the Earth for billions of years."
       }
     ],
     "science": [
       {
-        "text": "The Earth turns 1 degree in 4 minutes, so the Sun reaches the places along a line of latitude in turn. Time zones and Indian Standard Time are human agreements laid over this.",
+        "text": "The Earth turns 1 degree in 4 minutes, so the Sun's light reaches places one after another, from east to west. Time zones and Indian Standard Time are agreements that people have laid over this.",
         "status": "settled"
       },
       {
@@ -417,7 +417,7 @@
     ],
     "other_view": {
       "who": "Many physicists",
-      "view": "For everyday life, one shared time works perfectly well. Atomic clocks keep a single world time called UTC, and every place can tell its Sun time from it. They would say the line of dawn is only geometry, and that there is nothing deeper to find in it."
+      "view": "For everyday life, one shared time works perfectly well. Atomic clocks keep a single world time called UTC, and every place can work out its Sun time from it. Some people say the line of dawn is only geometry, and that there is nothing deeper to find in it."
     },
     "practice": {
       "title": "Facing the dawn line",
@@ -428,7 +428,7 @@
     "ask": [
       "If it is always sunrise somewhere, is there a first morning of the day?",
       "Is 6 o'clock a fact about the Sun, or an agreement between people? How would you tell?",
-      "Which clock should a country keep: the one that matches the Sun at its middle, or one for each place?"
+      "Which should a country keep: one clock that matches the Sun in the middle of the country, or a different clock for each place?"
     ],
     "art": "A globe seen from above the North Pole with a glowing line of dawn on the east side, and small figures at windows along it each lit a little later than the one before."
   },
@@ -507,7 +507,7 @@
               "b": "Yes, within 1 minute. They are only 0.2 degrees apart, and 0.2 times 4 is under 1 minute. Token: under 10 minutes."
             },
             {
-              "f": "India is about 29 degrees wide from east to west. About how many minutes between the Sun's highest in the far east and in the far west?",
+              "f": "India is about 29 degrees wide from east to west. About how many minutes pass between the Sun's highest moment in the far east and in the far west?",
               "b": "About 116 minutes, nearly 2 hours. 29 times 4 is 116. Token: more than 60 minutes."
             },
             {
@@ -545,7 +545,7 @@
       ],
       "rules": [
         "One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.",
-        "Every other player has four tokens. Each player puts one token face down. It is a guess of how many minutes later the Sun is highest in the western place.",
+        "Every other player has four tokens. Each player puts one token face down. The token is that player's guess of how many minutes later the Sun is highest in the western place.",
         "When everyone has chosen, turn the tokens over together. The reader reads the back, which names the right token.",
         "A player whose token is right scores one point. A player who also says the exact number of minutes, within 5 minutes, scores one more point.",
         "With two players, the parent and the child swap the reader's job after every card. The reader never guesses on their own card.",
@@ -584,7 +584,7 @@
           "mins": 6,
           "do": "Play the next seven cards. Swap the reader's job after every card. Keep a tally of points on paper.",
           "say": "Keep going. Remember that the gap in degrees times 4 is the gap in minutes.",
-          "kid": "Play on. Gap in degrees, times four, gives the minutes.",
+          "kid": "Keep playing. Multiply the gap in degrees by four to get the minutes.",
           "ask": [
             {
               "q": "Which card surprised you, and why?",
@@ -602,7 +602,7 @@
           "id": "s4",
           "mins": 3,
           "do": "Play the last six cards. When the pile is finished, count each player's points.",
-          "say": "Last cards. Is the western place always later? What about when two places are the same longitude?",
+          "say": "These are the last cards. Is the western place always later? What happens when two places are on the same longitude?",
           "kid": "Play the last cards. Count your points.",
           "context": "In this step, you finish the pile of cards and count the points."
         },
@@ -673,7 +673,7 @@
               "b": "Ears. She listens for the call of her own kind and walks towards it."
             },
             {
-              "f": "A hawk moth looks for a night-blooming jasmine, the raat ki rani, in a dark garden. How does she find it?",
+              "f": "A hawk moth looks for a night-blooming jasmine, the raat ki rani, in a dark garden. How does she find the flower?",
               "b": "Nose. The flower gives out a strong scent at night, and she follows it with her antennae."
             },
             {
@@ -729,7 +729,7 @@
               "b": "Light. She makes her own cold light inside her body."
             },
             {
-              "f": "A small sea creature called Noctiluca glows blue when waves disturb it on some Indian beaches. What is she using?",
+              "f": "A small sea creature called Noctiluca glows blue when waves disturb her on some Indian beaches. What is she using?",
               "b": "Light. She makes her own light, which is why the waves seem to sparkle."
             },
             {
@@ -777,7 +777,7 @@
           "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
           "ask": [
             {
-              "q": "Which animal has to use the sense that is not much use to us in the dark?",
+              "q": "Which of these animals finds her way with a sense that people cannot use in the dark?",
               "good": [
                 "The owl, with her ears.",
                 "The python, with heat.",
@@ -810,14 +810,14 @@
           "id": "s4",
           "mins": 3,
           "do": "Play the last six cards. When the pile is finished, count each player's points.",
-          "say": "Last cards. Which problem was the hardest to solve in the dark?",
+          "say": "These are the last cards. Which problem was the hardest to solve in the dark?",
           "kid": "Play the last cards. Count your points.",
           "context": "In this step, you finish the pile of cards and count the points."
         },
         {
           "id": "s5",
           "mins": 2,
-          "do": "Say who won. Ask your child which animal they would most like to be for a night, and what it would feel like.",
+          "do": "Say who won. Ask your child which animal they would most like to be for a night, and what the night would feel like.",
           "say": "Who got the most points? Which animal would you be for a night? What would the world feel like?",
           "kid": "Who won? Which animal would you be? What would you feel?",
           "think": "What does the world feel like to an animal that finds her way with sound?",
@@ -897,7 +897,7 @@
           "mins": 4,
           "do": "Show your child the five cities on a map. Tell them the clocks in all five show the same time. Ask for a guess and a reason, and write it down.",
           "say": "All five cities use the same clock. Will the Sun be at its highest at the same time in all of them? If not, which city is first? Why do you think so?",
-          "kid": "Five cities, one clock. Is the Sun highest at the same time in all? Why?",
+          "kid": "Five cities use one clock. Is the Sun highest at the same time in all five? Why do you think so?",
           "ask": [
             {
               "q": "Why do you think the noons will be the same, or different?",
@@ -934,9 +934,9 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Work out noon for the first city. Count the time from sunrise to sunset. Halve it. Add the half to the sunrise. The answer is when the Sun is highest.",
+          "do": "Work out noon for the first city. Count the time from sunrise to sunset. Halve it. Add that half to the sunrise time. The answer is when the Sun is highest.",
           "say": "Here is a way to find the middle of the day. Count how long it is from sunrise to sunset. Cut that time in half. Add the half to the sunrise time.",
-          "kid": "Find the middle of the day. Halve the daytime, then add it to sunrise.",
+          "kid": "Find the middle of the day. Take half the time from sunrise to sunset, and add it to the sunrise time.",
           "parent": "Worked example with made-up numbers: sunrise 6:10 and sunset 17:50. From 6:10 to 17:50 is 11 hours 40 minutes. Half of that is 5 hours 50 minutes. 6:10 plus 5:50 is 12:00. So noon is at 12:00. The Sun is highest in the middle of the daytime, so the middle is noon.",
           "check": {
             "t": "mcq",
@@ -957,13 +957,13 @@
           "do": "Work out noon for the other four cities. Then, for each city, write how many minutes later than Guwahati its noon is.",
           "say": "Do the same for the other four cities. Then count how many minutes later each noon is than the noon in Guwahati.",
           "kid": "Find noon for every city. Count the minutes after Guwahati.",
-          "parent": "Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different. A quick check: timeanddate.com also shows the solar noon of each city. If your noon is more than 3 minutes away from that, look at your sum again.",
+          "parent": "Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different. A quick check: timeanddate.com also shows the solar noon of each city. If your noon is more than 3 minutes away from that, check your working again.",
           "context": "In this step, you finish the table, using the same method for every city."
         },
         {
           "id": "s5",
           "mins": 3,
-          "do": "Divide each gap in minutes by the gap in degrees of longitude from Guwahati. For Mumbai, that is the gap in minutes divided by 19 degrees, which is about 91.7 minus 72.9. What number do you keep getting?",
+          "do": "For each city, divide its gap in minutes by its gap in degrees of longitude from Guwahati. For Mumbai, the gap in degrees is 91.7 minus 72.9, which is about 19. So divide Mumbai's gap in minutes by 19. What number do you keep getting?",
           "say": "Look at the longitudes. Divide each gap in minutes by the gap in degrees from Guwahati. What number do you keep getting?",
           "kid": "Divide minutes by degrees for each city. What number do you get?",
           "ask": [
@@ -985,17 +985,17 @@
               "About 12:45"
             ],
             "a": 2,
-            "why": "19 degrees times 4 minutes is 76 minutes. 11:30 plus 76 minutes is about 12:46. A wrong answer of 11:30 would mean the noon is the same everywhere, which the data show is not true."
+            "why": "19 degrees times 4 minutes is 76 minutes. 11:30 plus 76 minutes is about 12:46. The answer 11:30 is wrong, because it would mean noon is the same everywhere, and the data show it is not."
           },
           "context": "In this step, you look for the pattern between noon and longitude."
         },
         {
           "id": "s6",
           "mins": 2,
-          "do": "Ask your child to say what they thought, what they saw in the data and why it happened. Then look at the sunrise gaps.",
+          "do": "Ask your child to say what they thought, what they saw in the data and why it happened. Then look together at the gaps between the sunrise times.",
           "say": "Tell me three things. What did you think? What did you find? Why do you think it happened?",
           "kid": "Say what you thought, what you found, and why.",
-          "parent": "A strong answer says that noon came later for every city to the west, by about 4 minutes for each degree. The Earth turns 360 degrees in 24 hours, which is 4 minutes for each degree. The sunrise gaps are untidy because sunrise also depends on how far north a city is and on the season. For example, in winter Guwahati is further north than Chennai, so its sunrise comes later than the noon pattern alone would give. The seasons are in the Seasons unit. Noon depends on longitude alone, so it is neat.",
+          "parent": "A strong answer says that noon came later for every city to the west, by about 4 minutes for each degree. The Earth turns 360 degrees in 24 hours, which is 4 minutes for each degree. The sunrise gaps are untidy because sunrise also depends on how far north a city is and on the season. For example, Guwahati is further north than Chennai, so in winter its sunrise comes later than the noon pattern alone would give. The Seasons unit explains the seasons. Noon depends on longitude alone, so it is neat.",
           "think": "The sunrise times were not as neat as the noon times. Why might that be?",
           "context": "This is the last step of the Five Noons test. You explain your result."
         }
@@ -1007,7 +1007,7 @@
       "mins": 35,
       "days": 1,
       "question": "Every place on Earth goes round once in 24 hours. Does a place on the equator move at the same speed as a place far to the north?",
-      "predict": "Before you measure, guess. Will a person far to the north be carried faster than, slower than or at the same speed as a person on the equator? And how much slower, if you think so? Why do you think so?",
+      "predict": "Before you measure, guess. Will a person far to the north be carried faster than, slower than or at the same speed as a person on the equator? If you think slower, how much slower? Why do you think so?",
       "fair_test": "All three circles are drawn on the same orange and measured with the same thread and ruler. Every spot on the orange turns once in the same time, so a longer circle means a faster spot. Only the latitude of the circle changes.",
       "results_table": [
         "Circle",
@@ -1084,7 +1084,7 @@
           "do": "The dimple where the stem was is the North Pole. Mark a dot on the opposite end for the South Pole. Slip a rubber band round the fattest part and move it until it is the same distance from both poles. Draw a line along it.",
           "say": "The small dimple is the North Pole. Mark the other end as the South Pole. Put a rubber band round the middle. Draw a line along it. This line is the equator.",
           "kid": "Mark the two poles. Draw the equator with a rubber band.",
-          "parent": "To check the band is in the middle, lay a thread from the North Pole dot to the band, and compare it with a thread from the South Pole dot to the band. They should be the same length. An orange is never perfectly round, so be happy with close.",
+          "parent": "To check the band is in the middle, lay a thread from the North Pole dot to the band, and compare it with a thread from the South Pole dot to the band. They should be the same length. An orange is never perfectly round, so close is good enough.",
           "context": "In this step, you mark the poles and draw the equator on the orange."
         },
         {
@@ -1111,7 +1111,7 @@
           "id": "s4",
           "mins": 5,
           "do": "Mark dots at one third of the way up, on eight sides, all the same height above the equator. Join the dots with a pen line. Do the same at two thirds. You now have three circles.",
-          "say": "Make a ring of eight dots at the same height above the equator, then join them with a line round the orange. Do the same for the other set of marks. Now you have three circles.",
+          "say": "Make a ring of eight dots at one third of the way up, all at the same height above the equator. Join them with a line round the orange. Do the same at two thirds of the way up. Now you have three circles.",
           "kid": "Join the dots into a circle. Do this for both new circles.",
           "parent": "A rubber band slides towards the pole on a small circle, so do not use it here. Instead measure the same distance up from the equator line at eight places and join the dots by eye, with a thread laid along them as a guide. A wavy line is fine. If it wanders, measure a few more dots.",
           "context": "In this step, you draw the 30 degree circle and the 60 degree circle by joining dots."
@@ -1122,7 +1122,7 @@
           "do": "Wrap a thread round the equator, snip it where it meets itself, and lay it straight along the ruler. Write its length. Do the same for the other two circles.",
           "say": "Wrap a thread once round the equator. Snip it, straighten it and measure it. Do the same for the other circles.",
           "kid": "Wrap, snip and measure the thread for each circle. Write the lengths.",
-          "parent": "Typical numbers: an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact: anything from 40 to 60 out of 100 for the 60 degree circle is a fair result. If the thread stretches or slips off the circle, measure again.",
+          "parent": "Typical numbers: an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact. If your 60 degree circle is anywhere from 40 to 60 percent as long as your equator, that is a fair result. If the thread stretches or slips off the circle, measure again.",
           "check": {
             "t": "mcq",
             "q": "Each spot on the orange turns once in the same time. Which spot is carried fastest?",
@@ -1132,17 +1132,17 @@
               "They are all carried at the same speed"
             ],
             "a": 0,
-            "why": "A spot on a longer circle has further to go in the same time, so it must move faster. A wrong answer of the same speed would mean that circle size does not matter, which the thread shows is not true."
+            "why": "A spot on a longer circle has further to go in the same time, so it must move faster. The answer 'the same speed' is wrong, because it would mean the size of the circle does not matter, and the thread shows that it does."
           },
           "context": "In this step, you measure the length of the three circles."
         },
         {
           "id": "s6",
           "mins": 2,
-          "do": "Ask your child to say what they thought, what they measured and why. Then ask how long the 60 degree circle is compared with the equator.",
+          "do": "Ask your child to say what they thought, what they measured and why it came out that way. Then ask how long the 60 degree circle is compared with the equator.",
           "say": "Tell me three things. What did you think? What did you find? Why do you think it happened?",
           "kid": "Say what you thought, what you found, and why.",
-          "parent": "A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 out of 100, so those places go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot. Real fruit is not a perfect sphere, so do not worry if your answer is a little off half.",
+          "parent": "A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 percent as long as the equator, so places on it go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot. Real fruit is not a perfect sphere, so do not worry if your answer is not exactly half.",
           "think": "If the equator is carried at 1,670 kilometres an hour, how fast is a person at the 60 degree circle?",
           "context": "This is the last step of the Orange Earth test. You explain your result."
         }
@@ -1200,10 +1200,10 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Put the torch on a low table in the middle of the room. Lay out eight marks in a circle around it, with every arrow on every mark pointing the same way, at the star. Stick the star on the far wall, straight behind the lamp from the first mark.",
+          "do": "Put the torch on a low table in the middle of the room. The torch is the lamp. Stick the star on the far wall. Lay out eight marks in a circle around the lamp, each with an arrow on it. Every arrow points the same way, towards the star. The first mark is the one where the star is straight behind the lamp.",
           "say": "The lamp is the Sun. The star on the wall is a faraway star. You are the Earth. Stand on the first mark and face the lamp. The star is right behind it.",
           "kid": "The lamp is the Sun. The star is on the wall. Stand on mark one and face the lamp.",
-          "parent": "The star on the wall stands for a star so far away that it always lies in the same direction. The lamp is close. That is why the lamp changes direction as you move round it, but the star does not. Every arrow points the same way. That is what far away means: from every mark the star lies in the same direction, while the lamp is close and changes direction. The star wall should be at least 4 metres from the lamp if you can manage, but the arrows make a smaller room work too. Facing the star means lining your feet up with the arrow. With 2 to 4 children, one turns while the others watch and say what they see, then swap. Turn and walk anticlockwise (against the way clock hands go), as seen from above.",
+          "parent": "The star on the wall stands for a star so far away that it lies in the same direction from every mark. That is why every arrow points the same way. The lamp is close, so its direction changes as you move round it. The star wall should be at least 4 metres from the lamp if you can manage, but the arrows make a smaller room work too. Facing the star means lining your feet up with the arrow. With 2 to 4 children, one turns while the others watch and say what they see, then swap. Turn and walk anticlockwise (against the way clock hands go), as seen from above.",
           "context": "This is the first step of the Extra Turn. You set up the Sun, the star and the Earth."
         },
         {
@@ -1228,12 +1228,12 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Go back to the first mark. Ask your child to turn once anticlockwise, and walk anticlockwise round the lamp to the next mark as they turn. Stop with your feet along the arrow, facing the star.",
+          "do": "Ask your child to go back to the first mark. They turn once anticlockwise while walking anticlockwise round the lamp to the next mark. They stop with their feet along the arrow, facing the star.",
           "say": "Now the Earth moves round the Sun too. Turn once anticlockwise as you walk anticlockwise round the lamp to the next mark. Stop with your feet along the arrow, facing the star. Are you facing the lamp?",
           "kid": "Turn once anticlockwise as you walk to the next mark. Stop. Are you facing the lamp?",
           "ask": [
             {
-              "q": "You are facing the star. Are you facing the lamp? What would you have to do?",
+              "q": "You are facing the star. Are you facing the lamp too? If not, what would you have to do to face it?",
               "good": [
                 "No. I have to turn a bit more.",
                 "The lamp is to my side.",
@@ -1262,14 +1262,14 @@
             "why": "While the Earth spins once, it also moves about 1 degree round the Sun. It must turn about 1 degree more, which takes about 4 minutes, to face the Sun again."
           },
           "context": "In this step, you connect the extra turn to the 4 minutes that a day is longer than a spin.",
-          "parent": "Try it once more, walking the other way (clockwise). The lamp is now on the other side, so the child must turn back the other way to face it, which means less than a full day, not more. That is why the Earth's spin and its orbit going the same way makes a day longer."
+          "parent": "Try it once more, walking the other way (clockwise). The lamp is now on the other side, so your child must turn back a little to face it. That would make a day shorter than one spin, not longer. The real Earth spins and travels round the Sun the same way, and that is why its day is longer than one spin."
         },
         {
           "id": "s5",
           "mins": 2,
           "do": "Ask your child why a star rises 4 minutes earlier each night.",
           "say": "A star always lies in the same direction. After one spin, the star is back in the same place. But the Sun needs 4 minutes more. So when does the star come up, compared with yesterday?",
-          "kid": "Stars come back after one spin. The Sun takes four minutes more. What does that mean?",
+          "kid": "A star comes back after one spin. The Sun takes four minutes more. So does a star rise earlier or later each night?",
           "parent": "A star comes back after one spin, which is 4 minutes before the Sun comes back. So a star rises 4 minutes earlier each night by the clock. After 30 nights it is 2 hours earlier.",
           "think": "After a whole month, how much earlier does a star rise?",
           "context": "This is the last step of the Extra Turn. You link the model to what we see in the sky."
@@ -1300,7 +1300,7 @@
           "qty": 1
         }
       ],
-      "safety": "A grown-up must come, and stay in a safe place away from the edge of a terrace. Do not go near wild animals. Do not touch bats, snakes or scorpions. Cover arms and legs or use the grown-up's mosquito repellent, because dusk is mosquito time.",
+      "safety": "A grown-up must come with you. Stay in a safe place, away from the edge of a terrace. Do not go near wild animals. Do not touch bats, snakes or scorpions. Cover arms and legs or use the grown-up's mosquito repellent, because dusk is mosquito time.",
       "schedule": [
         {
           "day": 1,
@@ -1308,7 +1308,7 @@
           "what": "Go out at dusk. Listen and look. Write down what you find. Then talk about the senses the animals used."
         }
       ],
-      "record": "A table with three columns: what I heard, what I saw, and where the light came from. Add a drawing of one night creature and the sense it needs.",
+      "record": "A table with three columns: what I heard, what I saw, and where the light came from. Add a drawing of one night creature and the sense this creature needs.",
       "context": "In this activity, you spend 25 minutes at dusk and just after dark finding out which animals are active near your home.",
       "setup": [
         {
@@ -1333,7 +1333,7 @@
           "kid": "Sit still for two minutes. Just listen.",
           "adult": true,
           "parent": "Go at dusk, about half an hour after sunset. Even a city balcony has life: crows flying to roost, bats flying out, crickets, geckos, moths and sometimes frogs after rain. Keep your voice low. One child with a parent: the parent keeps watch and writes. With 2 to 4 children, split the jobs: one listens, one looks at the sky, one holds the red torch, one writes the tally, and swap after each step. If you hear and see almost nothing, count that too: write 'none' and try again on a night after rain, when frogs and insects are out.",
-          "context": "This is the first step of the Night Watch. You settle down and let your ears wake up."
+          "context": "This is the first step of the Night Watch. You settle down and listen."
         },
         {
           "id": "s2",
@@ -1379,9 +1379,9 @@
         {
           "id": "s4",
           "mins": 7,
-          "do": "Ask your child to draw one animal they saw or heard. Then ask which sense it needs to find its way in the dark.",
-          "say": "Pick one night creature. Draw it. Which sense does it use to find its way in the dark?",
-          "kid": "Draw one night animal. Which sense does it use?",
+          "do": "Ask your child to draw one animal they saw or heard. Then ask which sense this animal needs to find the way in the dark.",
+          "say": "Pick one night creature and draw this creature. Which sense helps this creature find the way in the dark?",
+          "kid": "Draw one night animal. Which sense does this animal use?",
           "ask": [
             {
               "q": "How might an animal that is awake at night find food, if there is no light?",
@@ -1432,7 +1432,7 @@
           "what": "Count stars through a tube with the lights on, then again after 10 minutes in the dark. Compare."
         }
       ],
-      "record": "A table with the number of stars counted in the tube patch with lights on, and with lights off after 10 minutes. If you have visited a village or a dark place, add that count.",
+      "record": "A table with the number of stars counted through the tube with the lights on, and with the lights off after 10 minutes. If you have visited a village or a dark place, add that count.",
       "context": "In this activity, you count the stars you can see through a tube and find out how much the lights around you hide.",
       "setup": [
         {
@@ -1462,7 +1462,7 @@
         {
           "id": "s2",
           "mins": 4,
-          "do": "Count the stars in the tube patch with the lights on. Write the number down. Stay in the same place and point at the same patch.",
+          "do": "Count the stars you see through the tube with the lights on. Write the number down. Stay in the same place and point at the same patch of sky.",
           "say": "Count the stars you can see through the tube. Write the number. Remember the patch you are looking at.",
           "kid": "Count the stars in the tube. Write the number.",
           "adult": true,
@@ -1599,7 +1599,7 @@
           "say": "Venus takes 243 Earth days to turn once. One Earth day is 24 seconds in our game. How many seconds would Venus take to turn once? How many minutes is that?",
           "kid": "Venus takes 243 days to turn. Each day is 24 seconds. Work it out.",
           "parent": "243 times 24 is 5,832 seconds. 5,832 divided by 60 is about 97 minutes. So Venus would take about an hour and a half to turn once. Venus spins the opposite way to the Earth, so the Sun would rise in the west.",
-          "think": "Venus turns backwards. If you turned the other way, what would the Sun do?",
+          "think": "Venus spins the opposite way to the Earth. If the Earth spun the other way, where would the Sun rise?",
           "context": "This is the last step of A Day on Each Planet. You work out how long Venus would take in the game."
         }
       ]
@@ -1680,7 +1680,7 @@
               ]
             }
           ],
-          "parent": "There is no right answer. People disagree for good reasons. A single clock is simple, and a zone for the east follows the Sun more closely. Do not steer the vote. Only one child: the child picks two roles and the parent plays the other two, speaking in turn. With 2 to 4 children, give out one role card each and let any extra children be the judges who keep the tally of arguments for each side. Four cards can be written in a minute on scrap paper.",
+          "parent": "There is no right answer. People disagree for good reasons. A single clock is simple, and a zone for the east follows the Sun more closely. Do not steer the vote. With only one child, the child picks two roles and the parent plays the other two, speaking in turn. With 2 to 4 children, give out one role card each and let any extra children be the judges who keep the tally of arguments for each side. Four cards can be written in a minute on scrap paper.",
           "context": "In this step, you argue from different points of view."
         },
         {
@@ -1689,7 +1689,7 @@
           "do": "Vote again. Count the votes. Ask if anyone changed their mind, and which argument changed it. Then ask what facts about the Sun would help decide.",
           "say": "Vote again. Did anyone change their mind? What changed it?",
           "kid": "Vote again. Did anyone change their mind? Why?",
-          "parent": "A good result is that your child can name one reason for each side. The Sun's time belongs to each place. The clock is an agreement among people. The question is how much to bend one to suit the other.",
+          "parent": "A good result is that your child can name one reason for each side. The Sun's time belongs to each place. The clock is an agreement among people. The question is how closely the clock should follow the Sun.",
           "think": "Is a clock supposed to follow the Sun, or to help people work together?",
           "context": "This is the last step of the Clock Debate. You vote again and think about what you learned."
         }
@@ -1808,7 +1808,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Next night, go to the same spot at the same time as before, minus about 10 minutes. Write down the exact time the star disappears behind the same edge.",
+          "do": "Next night, go to the same spot about 10 minutes earlier than the time you wrote down on night 1. Write down the exact time the star disappears behind the same edge.",
           "say": "Go back to the tape mark tonight. Watch the same star. Write the exact time it vanishes. Is it earlier or later than yesterday?",
           "kid": "Go back to the tape. Watch the same star. Write the time it vanishes.",
           "adult": true,
@@ -1823,7 +1823,7 @@
           "say": "Do the same on the next three clear nights. Each time, subtract the time from night 1. How many minutes earlier is it?",
           "kid": "Repeat for three more nights. Subtract from night 1 each time.",
           "adult": true,
-          "parent": "If the star hides behind a cloud, miss that night. Your table still works. A gap of two nights should give about 8 minutes.",
+          "parent": "If the star hides behind a cloud, skip that night. Your table still works. A gap of two nights should give about 8 minutes.",
           "wait": "Do this on the next three clear nights.",
           "context": "In this step, you record three more nights."
         },
@@ -1833,7 +1833,7 @@
           "do": "Draw a line graph of the times, with the night along the bottom and the minutes earlier up the side. Ask your child to explain the pattern.",
           "say": "Plot your times as a line graph. What pattern do you see? Why does the star vanish earlier each night?",
           "kid": "Plot a line graph. What pattern do you see? Why?",
-          "parent": "Expect a straight line sloping down, at about 4 minutes a night. Typical numbers: after 5 nights, night 5 is about 16 minutes earlier than night 1 (four gaps of about 4 minutes). The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So the star keeps 4 minutes ahead of the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.",
+          "parent": "Expect a straight line sloping down, at about 4 minutes a night. Typical numbers: after 5 nights, night 5 is about 16 minutes earlier than night 1 (four gaps of about 4 minutes). The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So each night the star is 4 minutes earlier by the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.",
           "think": "After a whole month, how much earlier would the star vanish? Where would it be at the same time of night?",
           "context": "This is the last step of the Star Gate. You graph your results and explain them."
         }
@@ -1923,7 +1923,7 @@
       "id": "c2",
       "title": "Dark-Sky Street Lamp: light the road, not the sky",
       "mins": 30,
-      "problem": "Design a street lamp from a torch and a few things from the kitchen drawer that lights the road below it but sends almost no light up into the sky or sideways into a nearby house. Test it in a dark room.",
+      "problem": "Design a street lamp from a torch and a few things from the kitchen drawer. It must light the road below it, but send almost no light up into the sky or sideways into a nearby house. Test it in a dark room.",
       "constraints": [
         "The lamp must be a torch, or a phone torch, held 30 centimetres above the table.",
         "You may use paper, card, a paper cup, black paper and tape. You may not turn the torch off.",
@@ -1975,7 +1975,7 @@
           "say": "Make a shade for the lamp. Try a paper cup, open end down. Look at both cards. Now try a different shade. Which is better?",
           "kid": "Build a shade. Look at both cards. Try a second shade.",
           "adult": true,
-          "parent": "The cup stops light going up and sideways. Lit properly, the table below should be bright and the cards dark. Light is also scattered by the air, but in a model this is small. If the torch gets hot, let it cool.",
+          "parent": "The cup stops light going up and sideways. With a good shade, the table below is bright and the cards are dark. Outdoors the air also scatters light, but in this model that effect is small. If the torch gets hot, let it cool.",
           "context": "In this step, you build and test two shades."
         },
         {
@@ -2137,7 +2137,7 @@
         },
         {
           "t": "write",
-          "p": "Meera says: 'All the clocks in India say 12, so the Sun must be highest everywhere at the same moment.' Explain in one or two sentences why she is wrong.",
+          "p": "Someone says: 'All the clocks in India say 12, so the Sun must be highest everywhere at the same moment.' Explain in one or two sentences why this is wrong.",
           "lines": 3,
           "a": "The clock is an agreement. The Sun is highest about 4 minutes later for every degree you go west, so it is highest earlier in the east and later in the west.",
           "why": "A strong answer says that one clock is shared, but the Sun's position depends on where you are, and gives the 4 minutes for each degree rule.",
@@ -2145,7 +2145,7 @@
         },
         {
           "t": "write",
-          "p": "A child draws a circle on a ball at the equator and another at 60 degrees north. Which circle is longer, and what does that tell you about how fast a spot on each circle is carried?",
+          "p": "One circle is drawn on a ball at the equator and another at 60 degrees north. Which circle is longer, and what does that tell you about how fast a spot on each circle is carried?",
           "lines": 3,
           "a": "The circle at the equator is longer, about twice as long. A spot on it goes about twice as fast, because it has further to go in the same time.",
           "why": "A strong answer says the equator circle is longer and, since every spot turns once in a day, a longer circle means a faster spot.",
@@ -2160,7 +2160,7 @@
         },
         {
           "t": "count",
-          "p": "A plane flies from Port Blair, at about 93 degrees east, to Chennai, at about 80 degrees east. By how many minutes is the Sun's highest moment later in Chennai?",
+          "p": "Port Blair is at about 93 degrees east and Chennai is at about 80 degrees east. How many minutes later is the Sun highest in Chennai?",
           "a": "52",
           "why": "93 minus 80 is 13 degrees. 13 times 4 is 52 minutes.",
           "outcome": 0
@@ -2213,7 +2213,7 @@
             "Our clocks run slow"
           ],
           "a": 0,
-          "why": "A star returns after one spin of 23 hours 56 minutes. The clock day is 24 hours. So the star keeps 4 minutes ahead of the clock each night.",
+          "why": "A star returns after one spin of 23 hours 56 minutes. The clock day is 24 hours. So each night the star rises 4 minutes earlier by the clock.",
           "outcome": 4
         },
         {
@@ -2229,7 +2229,7 @@
         },
         {
           "t": "count",
-          "p": "A person on the equator is carried round the Earth, a distance of 40,000 kilometres, in 24 hours. About how many kilometres in one hour, to the nearest 10?",
+          "p": "A person on the equator is carried round the Earth, a distance of 40,000 kilometres, in 24 hours. About how many kilometres is the person carried in one hour, to the nearest 10?",
           "a": "1670",
           "why": "40,000 divided by 24 is about 1,667. To the nearest 10, that is 1,670 kilometres.",
           "outcome": 2
@@ -2318,7 +2318,7 @@
             "She hears best when she closes her eyes"
           ],
           "a": 0,
-          "why": "Her left and right ears hear the rustle at tiny different moments and loudness. Her brain uses the difference to find the direction and the height.",
+          "why": "Her left and right ears hear the rustle at slightly different moments and at slightly different loudness. Her brain uses the difference to find the direction and the height.",
           "outcome": 6
         },
         {
@@ -2355,11 +2355,11 @@
           "p": "Two friends are talking about school start times in a state in the far east of India, where the Sun rises very early.",
           "views": [
             {
-              "who": "Isha, a girl in Class 4 (an imagined view)",
+              "who": "The first friend (an imagined view)",
               "says": "School should start at the same clock time everywhere in the country. A shared clock keeps things fair and simple."
             },
             {
-              "who": "Arjun, a boy in Class 4 (an imagined view)",
+              "who": "The second friend (an imagined view)",
               "says": "School in the east should start earlier by the clock. The Sun rises much earlier there, and we should use the morning light."
             }
           ],
@@ -2411,7 +2411,7 @@
         },
         {
           "t": "mcq",
-          "p": "A jet flying west near 60 degrees north goes about 835 kilometres an hour, the same as the ground's spin speed there. What would passengers see of the Sun's height in the sky?",
+          "p": "A jet flies west near 60 degrees north at about 835 kilometres an hour. That is the same speed as the ground there is carried east by the spin. What would the passengers see the Sun do?",
           "opts": [
             "It would stay at nearly the same height for a long time",
             "The Sun would set faster than on the ground",
@@ -2444,7 +2444,7 @@
           "t": "count",
           "p": "Suppose a day gets 2 thousandths of a second (0.002 seconds) longer every hundred years, and keeps doing so. How many seconds longer is a day after 10,000 hundred-year periods, which is a million years?",
           "a": "20",
-          "why": "10,000 times 0.002 is 20 seconds. The real rate changes with time, but it shows how small steps add up.",
+          "why": "10,000 times 0.002 is 20 seconds. The real rate changes with time, but this sum shows how small steps add up.",
           "outcome": 5
         },
         {
@@ -2528,11 +2528,11 @@
           "p": "A town on the coast wants brighter lights on its beach for safety. Turtle watchers say the lights confuse the hatchlings.",
           "views": [
             {
-              "who": "Priya, a town councillor (an imagined view)",
+              "who": "A town councillor (an imagined view)",
               "says": "Bright lights keep people safe at night and make the beach pleasant. We should put in more lights."
             },
             {
-              "who": "Farhan, a turtle watcher (an imagined view)",
+              "who": "A turtle watcher (an imagined view)",
               "says": "Hatchlings use the brightest horizon to find the sea. We should use dim, shielded lights, and switch them off in hatching season."
             }
           ],
@@ -2578,7 +2578,7 @@
         "The Earth turns more slowly there"
       ],
       "a": 0,
-      "why": "Every place turns once in 24 hours. A shorter circle in the same time means a slower speed. A wrong answer that the Earth turns more slowly there would mean the day is longer there, which it is not.",
+      "why": "Every place turns once in 24 hours. A shorter circle in the same time means a slower speed. If the Earth turned more slowly there, the day would be longer there, and it is not.",
       "outcome": 2
     },
     {
@@ -2715,7 +2715,7 @@
     "Railway and flight timetables, which all use a single agreed clock time across places where the Sun's time differs.",
     "Rockets launched towards the east, as ISRO does from Sriharikota, which get a free speed boost of about 0.45 kilometres a second from the Earth's spin.",
     "Finding longitude at sea by comparing local noon with the time at a home port, with 4 minutes for every degree.",
-    "Jet lag, which is the body clock catching up with a change of 4 minutes per degree of longitude.",
+    "Jet lag, which is the body's own clock catching up after travel east or west, where the Sun's time changes by 4 minutes for every degree of longitude.",
     "Designing street lighting that points down and is dim and warm, to protect the night sky and wildlife.",
     "Planning solar power and farm work by knowing exactly when the Sun is highest in each place."
   ],
@@ -2778,7 +2778,7 @@
   "ask_kids": [
     "What time is the Sun highest where we live, by our clock? How could we find out?",
     "Is it sunrise somewhere right now? Where might it be?",
-    "Which would be faster, a person in Chennai or a person in Delhi, as the Earth spins? Why?",
+    "Who is carried faster as the Earth spins, a person in Chennai or a person in Delhi? Why?",
     "If our clocks all said 12 at the same moment, would the Sun be highest everywhere? Why not?",
     "Who might be awake while we are asleep tonight? How do they find their way?",
     "Why can we see more stars in a village than in a city?",
@@ -2812,7 +2812,7 @@
     },
     {
       "j": "Why was the moth so tired?",
-      "a": "They spent all night going round and round a lamp."
+      "a": "She spent all night going round and round a lamp."
     },
     {
       "j": "Why does the equator never get dizzy?",
@@ -2825,7 +2825,7 @@
   ],
   "maths": [
     {
-      "problem": "In Kochi, a child finds sunrise at 6:14 in the morning and sunset at 17:58. When is noon?",
+      "problem": "In Kochi, sunrise is at 6:14 in the morning and sunset is at 17:58. When is noon?",
       "answer": "12:06.",
       "explain": "From 6:14 to 17:58 is 11 hours 44 minutes. Half of 11 hours 44 minutes is 5 hours 52 minutes. 6:14 plus 5:52 is 12:06.",
       "math_unit": "math.time.duration.L4",
@@ -2834,7 +2834,7 @@
       "why_maths": "Halving the time between sunrise and sunset gives noon, which depends only on longitude. Working in hours and minutes shows how a clock measures the Sun."
     },
     {
-      "problem": "Chennai is at 80 degrees east and Kochi is at 76 degrees east. The Earth turns 1 degree in 4 minutes. By how many minutes does the Sun's highest moment differ?",
+      "problem": "Chennai is at 80 degrees east and Kochi is at 76 degrees east. The Earth turns 1 degree in 4 minutes. How many minutes apart are the Sun's highest moments in the two cities?",
       "answer": "16 minutes.",
       "explain": "80 minus 76 is 4 degrees. 4 times 4 is 16 minutes. Chennai is the more eastern, so its noon is 16 minutes earlier.",
       "math_unit": "math.multiplication.multiplication-facts.L4",
@@ -2892,7 +2892,7 @@
       "why_maths": "Finding a small percentage shows how tiny the effect of the spin is, which is why we never feel it."
     },
     {
-      "problem": "Look at the bar chart of the circle lengths a child measured on an orange. How many times longer is the equator circle than the 60 degree circle?",
+      "problem": "Look at the bar chart of the circle lengths measured on an orange. How many times longer is the equator circle than the 60 degree circle?",
       "answer": "2 times longer.",
       "explain": "The equator bar is 26 and the 60 degree bar is 13. 26 divided by 13 is 2. So the equator circle is twice as long.",
       "math_unit": "math.data.bar-charts.L4",
@@ -3128,5 +3128,5 @@
     "wrong_idea": "Many French scientists, including the Cassini family, believed the Earth was longer from pole to pole than across the equator, like a lemon. The two expeditions showed that it is flattened at the poles, and wider at the equator, because it spins."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Five Noons needs sunrise and sunset times, which come from a weather app, a newspaper weather box or a call to a relative in another city. The noon gaps should come out near 13, 46, 62 and 75 minutes after Guwahati for Kolkata, Chennai, Kochi and Mumbai, give or take two minutes because apps round times. The sunrise gaps will look untidy, because sunrise also depends on how far north a city is and on the season, and the steps say so. The Orange Earth uses a large orange. The 30 degree circle should be about 85 to 90 out of 100 of the equator and the 60 degree circle about half. On the small circles, mark dots and join them instead of using a rubber band, which slides. The Extra Turn needs a clear floor of about 3 metres. Star Gate depends on clear nights and a view of a fixed edge, so the steps say what to do when clouds stop you, and give the planetarium as a fallback. The Night Watch needs a grown-up, and the lamp challenge uses only a torch and paper. Facts to check before the unit goes live: that British India adopted one standard time in 1906; that Assam tea gardens keep garden time one hour ahead of Indian Standard Time; the 2011 Japan earthquake figure of about 2 millionths of a second; the 2016 figure of more than 80 percent of people under brightened skies; the Moon's drift of about 3.8 centimetres a year; the weight difference of about half a percent between pole and equator; that Emilie du Chatelet translated Newton's Principia into French; and the Richer pendulum figure of about two and a half minutes a day. The longitudes of the cities are rounded to one decimal place. The videos have no address yet.",
- "warm": {"words": ["EARTH", "NIGHT", "POLES", "CLOCK", "SPINS"], "quiz": [["Places in the east see sunrise first because the Earth spins from west to east.", true, "The spin carries eastern places into the sunlight before western places."], ["The Sun is highest at 12 o'clock on the clock in every Indian city.", false, "India uses one clock time, but the Sun's highest moment depends on how far east or west a place is."], ["Moving one degree west makes the Sun reach its highest point about four minutes later.", true, "The Earth turns one degree of longitude in about four minutes, so noon reaches western places later."], ["Every place on Earth moves at the same speed, because every place turns once a day.", false, "Places near the equator travel a bigger circle in the same time, so they move faster."], ["The Earth is slightly wider around the equator than from pole to pole.", true, "Because the Earth spins, it bulges a little around the middle."], ["A day has always been exactly 24 hours long.", false, "The Earth's spin is slowing, mainly because of the Moon's tides, so days were shorter long ago."], ["We feel nothing of the Earth's spin because it is smooth and steady.", true, "Everything around us is carried along at the same smooth speed, so nothing seems to move."], ["Light at night from streetlights never harms animals.", false, "Artificial light confuses animals such as turtles, birds and insects, and it hides the stars."], ["The Earth spins once in 23 hours 56 minutes, but noon to noon takes 24 hours.", true, "The Earth also moves round the Sun, so it must turn a little extra to face the Sun again."], ["If the Earth spun the other way, the Sun would still rise in the east.", false, "The Sun first lights the side that turns into it. Today that side is the east."]], "odd": [[["Chennai", "Kochi", "Quito", "Svalbard"], "Svalbard", "Chennai, Kochi and Quito are near the equator and are carried round big circles fast; Svalbard is near the Arctic, on a small circle."], [["Solar noon", "Shadow length", "Sun's highest point", "Indian Standard Time"], "Indian Standard Time", "The other three are measured from the Sun's real position; Indian Standard Time is a clock time that people agreed on."], [["Day and night", "Sun seeming to rise", "Wide equator", "Summer and winter"], "Summer and winter", "The first three come from the Earth's spin; summer and winter come from the tilt of the axis."], [["Owl", "Bat", "Firefly", "Crow"], "Crow", "Owls, bats and fireflies are active at night; a crow is active in the day."], [["Streetlight", "Bright billboard", "Lit-up stadium", "Moonlight"], "Moonlight", "The first three are artificial lights that can confuse animals; moonlight is natural and animals have always lived with it."]]}
+ "warm": {"words": ["EARTH", "NIGHT", "POLES", "CLOCK", "SPINS"], "quiz": [["Places in the east see sunrise first because the Earth spins from west to east.", true, "The spin carries eastern places into the sunlight before western places."], ["The Sun is highest at 12 o'clock on the clock in every Indian city.", false, "India uses one clock time, but the Sun's highest moment depends on how far east or west a place is."], ["Moving one degree west makes the Sun reach its highest point about four minutes later.", true, "The Earth turns one degree of longitude in about four minutes, so noon reaches western places later."], ["Every place on Earth moves at the same speed, because every place turns once a day.", false, "Places near the equator travel a bigger circle in the same time, so they move faster."], ["The Earth is slightly wider around the equator than from pole to pole.", true, "Because the Earth spins, it bulges a little around the middle."], ["A day has always been exactly 24 hours long.", false, "The Earth's spin is slowing, mainly because of the Moon's tides, so days were shorter long ago."], ["We feel nothing of the Earth's spin because it is smooth and steady.", true, "Everything around us is carried along at the same smooth speed, so nothing seems to move."], ["Light at night from streetlights never harms animals.", false, "Artificial light confuses animals such as turtles, birds and insects, and it hides the stars."], ["The Earth spins once in 23 hours 56 minutes, but noon to noon takes 24 hours.", true, "The Earth also moves round the Sun, so it must turn a little extra to face the Sun again."], ["If the Earth spun the other way, the Sun would still rise in the east.", false, "Sunrise is seen on the side that the ground is turning towards. The Earth spins towards the east, so that side is the east."]], "odd": [[["Chennai", "Kochi", "Quito", "Svalbard"], "Svalbard", "Chennai, Kochi and Quito are near the equator and are carried round big circles fast; Svalbard is near the Arctic, on a small circle."], [["Solar noon", "Shadow length", "Sun's highest point", "Indian Standard Time"], "Indian Standard Time", "The other three are measured from the Sun's real position; Indian Standard Time is a clock time that people agreed on."], [["Day and night", "Sun seeming to rise", "Wide equator", "Summer and winter"], "Summer and winter", "The first three come from the Earth's spin; summer and winter come from the tilt of the axis."], [["Owl", "Bat", "Firefly", "Crow"], "Crow", "Owls, bats and fireflies are active at night; a crow is active in the day."], [["Streetlight", "Bright billboard", "Lit-up stadium", "Moonlight"], "Moonlight", "The first three are artificial lights that can confuse animals; moonlight is natural and animals have always lived with it."]]}
 }

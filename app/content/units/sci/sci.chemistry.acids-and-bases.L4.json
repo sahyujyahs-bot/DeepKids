@@ -117,9 +117,9 @@
   {
    "concept": "pH counts hydrogen ions",
    "status": "defined",
-   "context": "Last year you sorted liquids by colour from sour to soapy. This card says what the pH number is really counting.",
+   "context": "Last year you used red cabbage water to sort liquids by colour, from sour to soapy. This card says what the pH number is really counting.",
    "definition": "pH is a number that tells how many free hydrogen ions a watery liquid holds. The more hydrogen ions, the lower the pH.",
-   "description": "Last year you met the idea that acids give out tiny charged particles of hydrogen when they dissolve in water. Those are hydrogen ions, and pH counts them. Even pure water has a very few of them. About one water particle in every 550 million splits in two. It makes one hydrogen ion and one partner particle called a hydroxide ion, always in equal numbers. So pure water is balanced, and its pH is 7. An acid adds hydrogen ions, so the pH falls below 7. A base takes hydrogen ions out of the water or adds hydroxide ions, so the pH rises above 7. Most everyday liquids lie between 0 and 14. Very strong acids go below 0, and very strong bases go above 14.",
+   "description": "Acids give out tiny charged particles of hydrogen when they dissolve in water. Those are hydrogen ions, and pH counts them. Even pure water has a very few of them. About one water particle in every 550 million splits in two. It makes one hydrogen ion and one partner particle called a hydroxide ion, always in equal numbers. So pure water is balanced, and its pH is 7. An acid adds hydrogen ions, so the pH falls below 7. A base takes hydrogen ions out of the water or adds hydroxide ions, so the pH rises above 7. Most everyday liquids lie between 0 and 14. Very strong acids go below 0, and very strong bases go above 14.",
    "examples": [
     "Lemon juice has a pH of about 2. It holds a great many hydrogen ions.",
     "Pure water has a pH of 7. Its hydrogen ions and hydroxide ions are equal in number.",
@@ -131,9 +131,9 @@
   {
    "concept": "Every step on the pH scale is ten times bigger",
    "status": "defined",
-   "context": "The pH scale looks like a ruler from 0 to 14. This card is about why it is not a ruler.",
-   "definition": "A drop of one pH number means ten times as many hydrogen ions. A rise of one pH number means ten times fewer.",
-   "description": "On a ruler, every step is the same size. The pH scale is different. Each step multiplies by ten. Vinegar at pH 3 has ten times as many hydrogen ions as a drink at pH 4. Lemon juice at pH 2 has ten times as many as vinegar, and a hundred times as many as the drink at pH 4. From lemon juice at pH 2 up to pure water at pH 7 is five steps. That is ten times ten times ten times ten times ten, which is 100,000. So lemon juice has 100,000 times as many hydrogen ions as pure water. Scientists use scales like this when numbers swing very wide. The small numbers on the pH scale hide huge differences. Earthquake magnitudes work in a similar way, because each whole number is about ten times more shaking.",
+   "context": "The pH scale looks like a ruler from 0 to 14. This card says why it does not work like a ruler.",
+   "definition": "When the pH goes down by one number, the liquid has ten times as many hydrogen ions. When the pH goes up by one number, it has ten times fewer.",
+   "description": "On a ruler, every step is the same size. The pH scale is different. Each step multiplies by ten. Vinegar at pH 3 has ten times as many hydrogen ions as a drink at pH 4. Lemon juice at pH 2 has ten times as many as vinegar, and a hundred times as many as the drink at pH 4. From lemon juice at pH 2 up to pure water at pH 7 is five steps. That is ten times ten times ten times ten times ten, which is 100,000. So lemon juice has 100,000 times as many hydrogen ions as pure water. Scientists use scales like this when the numbers they measure run from very small to very large. The small numbers on the pH scale hide huge differences. Earthquake magnitudes work in a similar way, because each whole number is about ten times more shaking.",
    "examples": [
     "pH 3 holds 100 times as many hydrogen ions as pH 5.",
     "The acid in an empty stomach, at pH 2, holds about 250,000 times as many hydrogen ions as blood, at pH 7.4.",
@@ -159,9 +159,9 @@
   {
    "concept": "pH paper and pH meters: how exact is a reading?",
    "status": "defined",
-   "context": "A colour can only tell you so much. This card is about how scientists get an exact number.",
+   "context": "A colour gives only a rough idea of pH. This card is about how scientists get an exact number.",
    "definition": "A pH strip gives a number by matching its colour to a chart. A pH meter gives a number by measuring a tiny electric voltage.",
-   "description": "pH paper is a strip soaked in several indicators. You dip it, wait a few seconds, and match its colour to the chart on the pack. Most strips read whole numbers, so they are good to about one step. A step is ten times, so even that is a very useful reading. A pH meter has a thin glass bulb on a probe. The glass makes a tiny voltage that changes with the number of hydrogen ions on the other side. The meter turns the voltage into a number, and a good one reads to one hundredth of a step. A dark or coloured liquid can hide a strip's colour, and a dirty probe gives a wrong number. So scientists measure again, rinse between samples, and say how sure they are.",
+   "description": "pH paper is a strip soaked in several indicators. You dip it, wait a few seconds, and match its colour to the chart on the pack. Most strips read whole numbers, so they are right to within about one step. A step is ten times, so even that is a very useful reading. A pH meter has a thin glass bulb on a probe. The glass makes a tiny voltage that changes with the number of hydrogen ions in the liquid it is dipped in. The meter turns the voltage into a number, and a good one reads to one hundredth of a step. A dark or coloured liquid can hide a strip's colour, and a dirty probe gives a wrong number. So scientists measure again, rinse between samples, and say how sure they are.",
    "examples": [
     "A strip dipped in lemon juice turns red-orange and reads about 2.",
     "A school pH meter reads a glass of plain water at 7.1 and a glass of left-open water at 6.4.",
@@ -193,7 +193,7 @@
    "examples": [
     "Painkillers such as aspirin can thin the mucus, which is why a doctor says to take them after food.",
     "A small crack in the mucus lets acid reach the cells, and an ulcer can start there.",
-    "The mucus coat is a thin gel layer, about a fraction of a millimetre thick."
+    "The mucus coat is a thin gel layer, less than a millimetre thick."
    ],
    "perspectives": [],
    "art": "A slice of stomach wall: acid at the top at pH 2, a mucus layer with bubbles of bicarbonate in the middle, and the wall at the bottom at pH 7."
@@ -217,7 +217,7 @@
    "status": "defined",
    "context": "Acids and bases are not good or bad in the body. This card is about how the body uses both.",
    "definition": "Different parts of the body are held at different pH, because each part does a job that needs its own pH.",
-   "description": "Saliva in your mouth is close to neutral. The stomach is a pool of acid, at pH 1 to 3. Just after the stomach, the pancreas and the gut wall pour out bicarbonate. It neutralises the acid, so the small intestine is near neutral or slightly basic. The enzymes of the intestine work best there. They would stop working in the stomach's acid, and pepsin stops working in the intestine. Your blood is held between pH 7.35 and 7.45. That is a very narrow range, and the lungs, the kidneys and chemicals called buffers all work to keep it there. The skin is a little acidic, at about pH 5, and that keeps many germs down. So the body is not one steady condition. It is a row of rooms, each held at the pH its job needs.",
+   "description": "Saliva in your mouth is close to neutral. The stomach is a pool of acid, at pH 1 to 3. Just after the stomach, the pancreas and the gut wall pour out bicarbonate. It neutralises the acid, so the small intestine is near neutral or slightly basic. The enzymes of the intestine work best there. They would stop working in the stomach's acid, and pepsin stops working in the intestine. Your blood is held between pH 7.35 and 7.45. That is a very narrow range, and the lungs, the kidneys and chemicals called buffers all work to keep it there. The skin is a little acidic, at about pH 5, and that keeps many germs down. So the body does not have one pH. It is like a row of rooms, each held at the pH its job needs.",
    "examples": [
     "Pepsin is at work in the stomach at pH 2 and stops working in the intestine at about pH 7.",
     "A person whose blood pH falls to 7.0 or rises to 7.8 is seriously ill.",
@@ -233,7 +233,7 @@
    "definition": "Helicobacter pylori is a spiral-shaped bacterium that lives in the mucus of the stomach and makes a base to protect herself from the acid.",
    "description": "Helicobacter pylori swims through the mucus until she reaches the layer near the wall, where the pH is close to neutral. On the way, she makes an enzyme called urease. Urease breaks down urea, a chemical that is always present in the stomach, into ammonia. Ammonia is a base. It makes a little cloud of neutral liquid around her. Nearly half of all people carry this bacterium, and most people notice nothing. Sometimes she irritates the wall, and the damage can become an ulcer. Other living beings also thrive in acid. The bacteria that make curd work at pH 4. Some tiny microbes live in volcanic hot springs at a pH close to 0.",
    "examples": [
-    "The urea breath test finds H. pylori by catching the gas from her urease.",
+    "The urea breath test looks for Helicobacter pylori by checking a person's breath for the gas that her urease makes.",
     "Lactic acid bacteria in curd grow at pH 4, and their own acid slows them down.",
     "Picrophilus, a microbe from hot volcanic soil in Japan, grows best at a pH of about 0.7."
    ],
@@ -245,7 +245,7 @@
    "status": "idea",
    "context": "The stomach acid of humans is strong compared with many other animals. This card gives one idea about why.",
    "definition": "Nobody knows for certain why human stomachs are so acidic. One recent idea is that our ancestors often ate old meat that held many microbes.",
-   "description": "In 2015, a group of scientists led by DeAnna Beasley compared the stomach acidity of many animals. They found that humans are more acidic than most animals that eat meat. Our stomachs are more like those of scavengers such as vultures, which eat old meat. The scientists suggested that strong acid protects a scavenger from the germs in food that has been lying around. They think our ancestors may have eaten carrion often enough that the acid was worth having. But this is an idea and not a settled fact. Other scientists say the strong acid may also help us get the most from protein, or protect against the huge number of microbes in all food.",
+   "description": "In 2015, a group of scientists led by DeAnna Beasley compared the stomach acidity of many animals. They found that humans are more acidic than most animals that eat meat. Our stomachs are more like those of scavengers such as vultures, which eat old meat. The scientists suggested that strong acid protects a scavenger from the germs in food that has been lying around. They think our ancestors may have eaten old meat, called carrion, often enough that the acid was worth having. But this is an idea and not a settled fact. Other scientists say the strong acid may also help us get the most from protein, or protect against the huge number of microbes in all food.",
    "examples": [
     "A vulture can eat old meat that would make most animals ill.",
     "Humans, vultures and some other scavengers all have very acidic stomachs.",
@@ -254,11 +254,11 @@
    "perspectives": [
     {
      "who": "Beasley and colleagues, 2015",
-     "explanation": "Strong acid evolved because our ancestors ate carrion, and it cleared out the germs."
+     "explanation": "Strong acid evolved because our ancestors ate carrion, which is old meat, and the acid killed the germs in it."
     },
     {
      "who": "Other scientists",
-     "explanation": "The acid may be more about digesting protein and protecting against the many microbes on all food, and not about carrion."
+     "explanation": "The acid may be more about digesting protein and protecting against the many microbes on all food, and not about eating old meat."
     }
    ],
    "art": "A vulture beside a human at a table, each with a drawing of a very acidic stomach, and a question mark between them."
@@ -330,7 +330,7 @@
    "claim": "A pH of 3 is only a little more acidic than a pH of 4.",
    "who": "Many people who look at the numbers.",
    "for": "The numbers are next to each other on the scale, and they look close.",
-   "against": "Each step on the pH scale is ten times. pH 3 holds ten times as many hydrogen ions as pH 4, and pH 2 holds a hundred times as many.",
+   "against": "Each step on the pH scale means ten times as many hydrogen ions. pH 3 holds ten times as many hydrogen ions as pH 4, and pH 2 holds a hundred times as many.",
    "status": "rejected"
   },
   {
@@ -364,10 +364,10 @@
   {
    "q": "pH 2 and pH 5 look close on the scale. Why is it a mistake to think they are close?",
    "kind": "deep",
-   "hint": "Think about the dye ladder, where every cup held ten times less colour."
+   "hint": "Think about the Ten-Times Ladder, where every cup held ten times less colour than the cup before."
   },
   {
-   "q": "Stomach acid is bad in the food pipe and good in the stomach. Is anything good or bad on its own, or only in a place?",
+   "q": "Stomach acid is bad in the food pipe and good in the stomach. Is a thing good or bad by itself, or does it depend on where it is?",
    "kind": "big",
    "hint": "Think about where the same chemical is doing a useful job and where it is doing harm."
   },
@@ -399,7 +399,7 @@
   {
    "q": "Hydrogen ions power your cells and also burn your food pipe. Can one thing be a gift and a danger at once?",
    "kind": "big",
-   "hint": "Think about the dam and the water wheel, and about water held back behind a thin wall."
+   "hint": "Think about how hydrogen ions in a cell are like water held behind a dam. When they flow through, they turn a tiny machine like a mill wheel."
   }
  ],
  "story": {
@@ -455,11 +455,11 @@
    "evidence": "In the Antacid Showdown, each powder moved the same glass of acid along the scale. Too few scoops left it sour, and too many pushed it past purple. The pH Ladder cards show the stomach, the blood and the skin sitting at three different numbers. If your own results differ, write them down as they are and test again."
   },
   "three": {
-   "who_am_i": "You are not one steady thing. Your stomach is acid and your blood is nearly neutral, and your body keeps both going every moment.",
-   "what_is_life": "Every living cell uses a difference in hydrogen ions like a battery. Life is held up by differences that are kept, and not by everything being the same.",
+   "who_am_i": "Your body is not the same all the way through. Your stomach is acidic and your blood is nearly neutral, and your body keeps both that way every moment.",
+   "what_is_life": "Every living cell uses a difference in hydrogen ions like a battery. Life depends on keeping differences like this going, and not on everything being the same.",
    "what_is_this_world": "Even pure water is a balance of two kinds of particles in equal numbers. Everything sour or soapy is that balance tipped one way or the other."
   },
-  "thread": "Pure water is a perfect balance. A very few water particles split into a hydrogen ion and a hydroxide ion, always in equal numbers, so the two cancel exactly. Acid and base are what we get when the balance tips. The stomach tips it one way, the blood holds it level, and the dye vat tips it the other way, all from the same water. In this picture, the one balance shows up as many different places, each with its own job. Nothing is the opposite of anything else. They are two sides of one balance.",
+  "thread": "Pure water is perfectly balanced. A very few water particles split into a hydrogen ion and a hydroxide ion, always in equal numbers, so the two cancel exactly. A liquid is an acid or a base when that balance tips. The stomach tips it one way, the blood holds it level, and the dye vat tips it the other way, all in the same water. So acid and base are not two separate things. They are two sides of one balance, and each place holds the balance where its job needs it.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.5.1",
@@ -489,7 +489,7 @@
   ],
   "other_view": {
    "who": "Many chemists and doctors",
-   "view": "The stomach pumps out hydrogen ions and a bacterium makes ammonia because of chemistry. They would say that chemistry alone holds each pH and makes the ammonia, and that words like keep and choose only describe automatic processes."
+   "view": "They would say that the stomach pumps out hydrogen ions, and the bacterium makes ammonia, because of chemistry alone. Words like 'keep' and 'choose' only describe things that happen automatically."
   },
   "practice": {
    "title": "Smell and wait",
@@ -500,7 +500,7 @@
   "ask": [
    "Is the acid in your stomach part of you, or something you make and keep apart from you?",
    "If pure water holds acid and base in equal balance, what does it mean to call water neutral?",
-   "Is a balance one steady place, or the work of always bringing things back?"
+   "Is a balance something that just stays still, or does it take work to keep bringing things back?"
   ],
   "art": "A body outline split into rooms of different colours, with a glass of plain water at the centre holding equal red and blue dots."
  },
@@ -557,7 +557,7 @@
      "items": [
       {
        "f": "Toilet cleaner, which holds a strong acid",
-       "b": "0 to 1. A strong acid that is never touched. Never mix it with bleach, because the mixture makes a poison gas."
+       "b": "0 to 1. A strong acid. Never touch it. Never mix it with bleach, because the mixture makes a poison gas."
       },
       {
        "f": "Stomach acid in an empty stomach",
@@ -644,8 +644,8 @@
     "The reader shows the top card. It names a liquid. Everyone decides which rung it sits on and puts a marker there.",
     "The reader turns the card over and reads the back. The back gives a range of two numbers, such as 2 to 3.",
     "A marker on one of the two numbers scores 2 points. A marker one rung away scores 1 point.",
-    "After each card, the reader's job passes to the player on the left. Playing alone, you are your own reader and you keep your own score.",
-    "The game ends when all 20 cards have been read. The most points wins. The best score alone is 40, so try to beat your last one."
+    "After each card, the reader's job passes to the player on the left. If you play alone, you are your own reader and you keep your own score.",
+    "The game ends when all 20 cards have been read. The most points wins. If you play alone, try to beat your last score. The highest score possible is 40."
    ],
    "flow": [
     {
@@ -697,7 +697,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Play the last six cards. Add up the points. Say who won, or whether you beat your last score.",
-     "say": "Last cards. Think about whether it tastes sour, feels slippery or is used for cleaning.",
+     "say": "These are the last cards. For each liquid, think about whether it tastes sour, feels slippery or is used for cleaning.",
      "kid": "Play the last cards. Add up your points.",
      "context": "In this step you finish the pile and count the points."
     },
@@ -791,14 +791,14 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the four powders in four bowls. Read out their names. Write down their guess and their reason.",
-     "say": "These are four powders. Cooking soda, crushed antacid tablet, eggshell powder and salt. Which will beat the acid? Why do you think so?",
+     "say": "These are four powders: cooking soda, crushed antacid tablet, eggshell powder and salt. Which one will beat the acid? Why do you think so?",
      "kid": "Here are four powders. Which one beats the acid? Why do you think so?",
      "ask": [
       {
        "q": "Which powder will need the fewest scoops, and why?",
        "good": [
         "The antacid, because it is made for stomach acid.",
-        "Cooking soda, because it fizzed with lemon last year.",
+        "Cooking soda, because it fizzes with vinegar.",
         "Not the salt, because it is not a base."
        ]
       }
@@ -812,7 +812,7 @@
      "do": "Make the cabbage water and strain it. Fill glass T with 4 tablespoons of cabbage water and 2 tablespoons of plain water.",
      "say": "This purple glass is our target. We want every acid glass to match it. Purple means the acid is used up.",
      "kid": "Make the cabbage water. Fill glass T. This purple is the target.",
-     "parent": "If you use butterfly pea flowers, the target is blue-violet and the acid glasses are pink-purple. Match the target as best you can. Keep the glass T next to the others the whole time. If the pink glasses look pale grey instead of pink, the cabbage water is too weak: use more leaves or less water. Cabbage water keeps for a day in the fridge.",
+     "parent": "If you use butterfly pea flowers, the target is blue-violet and the acid glasses are pink-purple. Match the target as best you can. Keep glass T next to the others the whole time. If the pink glasses look pale grey instead of pink, the cabbage water is too weak: use more leaves or less water. Cabbage water keeps for a day in the fridge.",
      "context": "In this step you make the indicator and the target glass. The target is the colour that means the acid is used up."
     },
     {
@@ -870,7 +870,7 @@
      "do": "Take the first glass that matched the target. Add two more scoops of the same powder. Look at the colour and write it in the last column.",
      "say": "Now we go past the target. Add two more scoops. What colour is it now?",
      "kid": "Add two more scoops to the purple glass. What colour is it now?",
-     "think": "Is a base that is too strong better than one that is just right?",
+     "think": "Is too much base better than just enough?",
      "parent": "A glass that was purple often turns blue or blue-violet after two more scoops. That means the mixture is now a base, and not an acid. If nothing changes, write that down. Cooking soda and eggshell can only push a glass a little way.",
      "context": "In this step you add too much powder on purpose, to see what happens when the base goes past the target."
     },
@@ -1004,14 +1004,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Say cup 5 looks like plain water. Is the dye gone?",
+      "q": "Suppose cup 5 looks like plain water. Is the dye gone?",
       "options": [
        "No. It is only too little to see, about 1 part in 100,000",
        "Yes. It has vanished",
        "Yes. It has turned into water"
       ],
       "a": 0,
-      "why": "Nothing is ever lost when you dilute. The dye is still there, spread through the water. We just cannot see so little of it. Weak things can be present without being seen."
+      "why": "Nothing is lost when you dilute a colour, which means adding water to make it weaker. The dye is still there, spread through the water. We just cannot see so little of it. A thing can be there even when there is too little of it to see."
      },
      "context": "In this step you look at the cups and rate how dark each colour is."
     },
@@ -1021,8 +1021,8 @@
      "do": "Count the steps from cup 0 to the last cup where you saw colour. Work out how many times weaker that cup is than cup 0. Ask your child to say what they thought, what they saw, and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Count the steps to the last cup you can see. How many times weaker is it?",
-     "think": "Lemon juice is pH 2 and pure water is pH 7. How many cups of this ladder would that be?",
-     "parent": "If the colour was last visible in cup 4, that is 4 steps, so 10 x 10 x 10 x 10 = 10,000 times weaker. After they speak, explain: pH works like this. Each step is ten times. Lemon juice to water is 5 steps, so 100,000 times. The dye is a stand-in for hydrogen ions. Typically a strong food colour can still be seen in cups 3 or 4 and is gone by cup 5 or 6. Your cups may fade sooner or later, depending on the dye. That is also a result.",
+     "think": "Lemon juice is pH 2 and pure water is pH 7. How many steps of this ladder would that be?",
+     "parent": "If the colour was last visible in cup 4, that is 4 steps, so 10 x 10 x 10 x 10 = 10,000 times weaker. After they speak, explain: pH works in the same way. Each step is ten times as much. Lemon juice to water is 5 steps, so 100,000 times. The dye is a stand-in for hydrogen ions. Typically a strong food colour can still be seen in cups 3 or 4 and is gone by cup 5 or 6. Your cups may fade sooner or later, depending on the dye. That is also a result.",
      "context": "This is the last step of the Ten-Times Ladder. You count the steps and link them to the pH scale."
     }
    ]
@@ -1130,7 +1130,7 @@
      "do": "Ask your child why the dry powder did not fizz in the packet. Then ask what the water did.",
      "say": "In the packet, the acid and the base are both dry and just sit there. Why do they fizz in water? What do you think the water does?",
      "kid": "Why does the powder fizz in water and not in the packet?",
-     "think": "How does an antacid tablet know when to start working?",
+     "think": "What makes an antacid tablet start working once it is in the stomach?",
      "parent": "A good answer says that water lets the acid and the base particles move and meet. Without water, they stay apart. In the stomach, the tablet's base meets the acid in the same way.",
      "context": "This is the last step of the Eno Mystery. You think about why water makes the powder fizz."
     }
@@ -1209,7 +1209,7 @@
        ]
       }
      ],
-     "parent": "Strips differ from one maker to another, so read the chart on your own pack. Read within 30 seconds, or the colour keeps changing. A coloured liquid such as tomato juice may stain the strip. Read the clean middle. If two numbers look equally close, write both. Strips are rough, usually right to within about one number. Expect about: lemon 2, vinegar 3, buttermilk 4 to 5, tomato 4 to 5, milk 6 to 7, tap water 7 to 8, cooking soda water 8 to 9, soapy water 9 to 10. A strip cut in half still works if you are short. Who does what: one child dips, one reads the chart, one writes; with one child, the parent writes. With 2 to 4 children, give each child two liquids and a ruler of paper to line up the strips.",
+     "parent": "Strips differ from one maker to another, so read the chart on your own pack. Read within 30 seconds, or the colour keeps changing. A coloured liquid such as tomato juice may stain the strip. Read the clean middle. If two numbers look equally close, write both. Strips are rough, usually right to within about one number. Expect about: lemon 2, vinegar 3, buttermilk 4 to 5, tomato 4 to 5, milk 6 to 7, tap water 7 to 8, cooking soda water 8 to 9, soapy water 9 to 10. A strip cut in half still works if you are short. Who does what: one child dips, one reads the chart, one writes; with one child, the parent writes. With 2 to 4 children, give each child two liquids and a long piece of paper to line up the strips on.",
      "check": {
       "t": "mcq",
       "q": "Vinegar reads 3 and tomato juice reads 4. Which has more hydrogen ions?",
@@ -1343,7 +1343,7 @@
      "do": "Ask your child why a toothpaste might hold a base.",
      "say": "Why do you think a toothpaste holds a base? Think about what the bacteria on your teeth make.",
      "kid": "Why might toothpaste hold a base?",
-     "think": "If bacteria make acid and toothpaste is a base, what does brushing do twice over?",
+     "think": "Bacteria on your teeth make acid, and toothpaste holds a base. What two things does brushing do?",
      "parent": "Bacteria on teeth make acid from sugar. A base in toothpaste helps neutralise it. Brushing also removes the bacteria and the leftovers they eat.",
      "context": "This is the last step of the Label Hunt. You link toothpaste to what you have learned."
     }
@@ -1443,21 +1443,21 @@
      "id": "s3",
      "mins": 5,
      "do": "Pour fresh tap water and filtered water into two wide dishes and leave them uncovered on a window ledge overnight. Pour a third dish of filtered water and cover it with a plate. Do not dip strips into these dishes today. Ask your child to guess how their pH will change.",
-     "say": "We will leave two cups open overnight. Air has carbon dioxide in it. Do you think the pH will go up, go down, or stay the same? Why?",
-     "kid": "Leave two cups open overnight. Will the pH change? Why?",
+     "say": "We will leave two dishes of water open overnight. Air has carbon dioxide in it. Do you think the pH of the water will go up, go down, or stay the same? Why?",
+     "kid": "Leave two dishes of water open overnight. Will the pH change? Why?",
      "parent": "Carbon dioxide from the air dissolves in water and makes it very slightly more acidic. The change is small, and a strip may not show it. Both results are real. The covered dish is the control: it shows what happens when the air cannot reach the water. Filtered or RO water has little else in it, so it is the most likely to change.",
-     "context": "In this step you leave two cups open overnight to see whether the air changes their pH."
+     "context": "In this step you leave two dishes of water open overnight to see whether the air changes their pH."
     },
     {
      "id": "s4",
      "mins": 12,
      "wait": "Leave the dishes overnight",
      "do": "Test the open tap water, the open filtered water and the covered filtered water with fresh strips. Add a few drops of cabbage water to each to see a small colour change more clearly. Write down the numbers next to yesterday's numbers.",
-     "say": "Test the cups again with fresh strips. Is the number the same as yesterday? What changed?",
-     "kid": "Test the two cups again. Is the number the same?",
+     "say": "Test the three dishes again with fresh strips. Is each number the same as yesterday? What changed?",
+     "kid": "Test the dishes again. Is the number the same as yesterday?",
      "ask": [
       {
-       "q": "Did the pH of the open cups change, and why do you think so?",
+       "q": "Did the pH of the open dishes change, and why do you think so?",
        "good": [
         "It went down, because the air put carbon dioxide in.",
         "It stayed the same, because the change was too small.",
@@ -1476,7 +1476,7 @@
       "a": 0,
       "why": "One whole step on the pH scale is ten times as many hydrogen ions. So a small-looking drop from 7 to 6 means ten times more hydrogen ions."
      },
-     "context": "In this step you test the open cups again and compare with day 1.",
+     "context": "In this step you test the open dishes again and compare with day 1.",
      "parent": "A change of one number is typical for filtered water left in the open, and the covered dish should stay near its day 1 number. If all three look the same, the strip was too rough to show a small change, and that is a real result."
     },
     {
@@ -1604,11 +1604,11 @@
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Rank the coats. Say what you thought, what you saw, and why.",
      "think": "The real stomach wall is wet and slimy and holds a base. Which of your coats was most like it?",
-     "parent": "A strong answer says which coat worked and explains why. An oily coat keeps the acid out by being a barrier. A gel with a base uses up the acid as it comes in, as the real mucus does. After they speak, explain: the stomach uses a thick gel with bicarbonate and replaces its cells every few days. Every coat that wears off is a lesson. If the results were unexpected, say so.",
+     "parent": "A strong answer says which coat worked and explains why. An oily coat keeps the acid out by being a barrier. A gel with a base uses up the acid as it comes in, as the real mucus does. After they speak, explain: the stomach uses a thick gel with bicarbonate and replaces its cells every few days. A coat that wears off also teaches you something. If the results were unexpected, say so.",
      "context": "This is the last step of the Shield the Shell challenge. You rank the coats and explain what you found."
     }
    ],
-   "safety": "Vinegar is mild, but keep it away from eyes. Keep the wax coat to a rubbed candle stub. If you melt wax, a grown-up does it, because hot wax and a flame can burn. Do not taste anything, and check for allergies before you rub aloe or okra slime on skin. Wash your hands afterwards."
+   "safety": "Vinegar is mild, but keep it away from eyes. For the wax coat, rub a candle stub on the shell. If you melt wax, a grown-up does it, because hot wax and a flame can burn. Do not taste anything, and check for allergies before you rub aloe or okra slime on skin. Wash your hands afterwards."
   }
  ],
  "worksheets": [
@@ -1694,7 +1694,7 @@
       "the same number of hydrogen ions but a sourer taste"
      ],
      "a": 0,
-     "why": "The pH scale goes up and down in tenfold steps. A drop of one number means ten times as many hydrogen ions. Counting one more ion would be a step on a ruler, and the pH scale is not a ruler.",
+     "why": "The pH scale goes up and down in tenfold steps. A drop of one number means ten times as many hydrogen ions. Adding one more ion each time would be like the equal steps on a ruler, and the pH scale does not work like a ruler.",
      "outcome": 1
     },
     {
@@ -1789,7 +1789,7 @@
      "p": "A friend says a pH of 2 is only a little more acidic than a pH of 3. What would you tell your friend?",
      "lines": 3,
      "a": "Each step on the pH scale is ten times. A pH of 2 has ten times as many hydrogen ions as a pH of 3. It only looks like a small step because the scale hides the multiplying.",
-     "why": "A strong answer says that each step is ten times and gives the number. The dye ladder showed how quickly ten times adds up.",
+     "why": "A strong answer says that each step is ten times and gives the number. The Ten-Times Ladder shows how quickly ten times, again and again, becomes a huge number.",
      "outcome": 1
     },
     {
@@ -1841,7 +1841,7 @@
       "Pepsin is washed away by water"
      ],
      "a": 0,
-     "why": "Each enzyme works best at its own pH. Pepsin likes pH 2, and it stops near pH 7. That is why the body neutralises the acid with bicarbonate after the stomach, so that the intestine's own enzymes can work.",
+     "why": "Each enzyme works best at its own pH. Pepsin works best at pH 2, and it stops near pH 7. The body neutralises the acid with bicarbonate after the stomach, so that the intestine's own enzymes can work.",
      "outcome": 5
     },
     {
@@ -1888,14 +1888,14 @@
     },
     {
      "t": "count",
-     "p": "A drink at pH 2 and water at pH 6. How many times as many hydrogen ions does the drink have?",
+     "p": "A drink has a pH of 2 and water has a pH of 6. How many times as many hydrogen ions does the drink have?",
      "a": "10000",
      "why": "From pH 6 down to pH 2 is four steps. 10 times 10 times 10 times 10 is 10,000. The drink has 10,000 times as many.",
      "outcome": 1
     },
     {
      "t": "mcq",
-     "p": "Here are the results of a girl in Kochi who ran an antacid test. Which powder did not use up the acid, and how can you tell?",
+     "p": "Here are the results of an antacid test. Which powder did not use up the acid, and how can you tell?",
      "chart": {
       "type": "bar",
       "title": "Scoops used (made-up results; 8 was the limit)",
@@ -1961,7 +1961,7 @@
       ]
      ],
      "a": "as given",
-     "why": "The stomach is the strong acid room. Blood and saliva sit near neutral. Skin and tea soil are a little acidic, at about pH 5.",
+     "why": "The stomach is strongly acidic. Blood and saliva sit near neutral. Skin and tea soil are a little acidic, at about pH 5.",
      "outcome": 5
     },
     {
@@ -2109,7 +2109,7 @@
      "t": "write",
      "p": "Cooking soda and a strip of antacid tablets cost about the same. How would you test which one neutralises more acid for the money? Say what you keep the same and what you count.",
      "lines": 4,
-     "a": "I would put the same amount of vinegar and cabbage water in two glasses. I would add one scoop at a time, stirring the same time, and count the scoops each powder needs to match a purple target. I would keep the glass, the acid and the stirring the same. Then I would work out the cost of the scoops that each one used.",
+     "a": "I would put the same amount of vinegar and cabbage water in two glasses. I would add one scoop at a time, stirring for the same time, and count the scoops each powder needs to match a purple target. I would keep the glass, the acid and the stirring the same. Then I would work out the cost of the scoops that each one used.",
      "why": "A strong answer keeps the acid, the scoop and the stirring the same, counts scoops to the target colour, and then compares the cost.",
      "outcome": 4
     },
@@ -2242,7 +2242,7 @@
      "t": "truefalse",
      "p": "If you cannot see any colour in the last cup of a dye ladder, the dye is gone.",
      "a": false,
-     "why": "False. Nothing is lost when you dilute. The dye is spread out so thinly that you cannot see it. Weak things can still be there.",
+     "why": "False. Nothing is lost when you dilute a colour, which means adding water to make it weaker. The dye is spread out so thinly that you cannot see it. A thing can be there even when there is too little of it to see.",
      "outcome": 1
     },
     {
@@ -2482,7 +2482,7 @@
   "At dinner, ask: which food on your plate do you think is the most acidic, and how could we test it?",
   "When someone burps after a fizzy drink, ask: what do you think the gas is, and where did it come from?",
   "When you brush your teeth, ask: why do you think toothpaste is not an acid?",
-  "Show a lemon and ask: if one pH step is ten times, how many times stronger than water is this?",
+  "Show a lemon and ask: lemon juice is about pH 2 and water is pH 7. If one pH step is ten times, how many times as many hydrogen ions does the lemon juice have?",
   "Ask: why does your stomach not burn itself?",
   "When someone says they have heartburn, ask: what is happening in their body, and how could a tablet help?",
   "Ask: if a drink looks clear, can you tell if it is an acid or a base? How would you find out?",
@@ -2491,7 +2491,7 @@
  "jokes": [
   {
    "j": "Why did the cabbage turn pink at the lemon party?",
-   "a": "It could not stop blushing!"
+   "a": "She could not stop blushing!"
   },
   {
    "j": "What happens when an acid and a base have an argument?",
@@ -2519,7 +2519,7 @@
   },
   {
    "j": "Why did the bacterium set up camp in the stomach?",
-   "a": "It brought its own base."
+   "a": "She brought her own base."
   },
   {
    "j": "What do you call a lemon that has learnt to sing?",
@@ -2545,7 +2545,7 @@
    "why_maths": "Each step multiplies by ten, so the numbers grow very fast. Big numbers help to show why the last cup looks like plain water."
   },
   {
-   "problem": "Ritu, a girl in Class 4 in Pune, needs 3 scoops of cooking soda for a glass of acid. A strip of 10 antacid tablets costs 30 rupees, and she needs 4 tablets for the same glass. A scoop of cooking soda costs about 20 paise. Which is cheaper for the same glass, and by how many times? (These prices are made up.)",
+   "problem": "A glass of acid needs 3 scoops of cooking soda, or 4 antacid tablets. A scoop of cooking soda costs about 20 paise. A strip of 10 antacid tablets costs 30 rupees. Which is cheaper for the same glass, and by how many times? (These prices are made up.)",
    "answer": "Cooking soda, about 20 times cheaper.",
    "explain": "3 scoops of soda cost 3 times 20 paise, which is 60 paise. 4 tablets cost 4 times 3 rupees, which is 12 rupees, or 1,200 paise. 1,200 divided by 60 is 20. The tablets are made to be safe and handy, which is part of what you pay for.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
@@ -2554,7 +2554,7 @@
    "why_maths": "Counting the scoops and comparing the prices tells you which powder does the job for less money. It is a ratio."
   },
   {
-   "problem": "Mira makes curd from warm milk. The pH is 6.6 at the start, 6.0 after 2 hours, 5.2 after 4 hours, 4.6 after 6 hours and 4.4 after 8 hours. In which 2-hour stretch did the pH fall the most? What does it say about the bacteria? (These numbers are made up from typical results.)",
+   "problem": "Warm milk is turning into curd. Its pH is 6.6 at the start, 6.0 after 2 hours, 5.2 after 4 hours, 4.6 after 6 hours and 4.4 after 8 hours. In which 2-hour stretch did the pH fall the most? What does that tell you about the bacteria? (These numbers are made up from typical results.)",
    "answer": "Between 2 and 4 hours, when it fell by 0.8. The falls were 0.6, 0.8, 0.6 and 0.2.",
    "explain": "The falls are 6.6 minus 6.0 is 0.6, 6.0 minus 5.2 is 0.8, 5.2 minus 4.6 is 0.6 and 4.6 minus 4.4 is 0.2. The bacteria make acid, and as the acid builds up the bacteria slow down, so the fall gets smaller at the end.",
    "math_unit": "math.data.line-graphs.L4",
@@ -2650,7 +2650,7 @@
    "a": "Seven."
   },
   {
-   "q": "What does a pH step of one mean?",
+   "q": "What does one step on the pH scale mean?",
    "a": "Ten times as many, or ten times fewer, hydrogen ions."
   },
   {
@@ -2759,11 +2759,11 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within about a week he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
+  "story": "For many decades, doctors believed that no bacterium could live in the strong acid of the stomach. They also believed that ulcers, the sore patches in the stomach wall, came from stress, spicy food and too much acid. Patients were told to rest and take antacids. The ulcers kept coming back. In 1979, Robin Warren, a pathologist (a doctor who studies samples from the body) in Perth, Australia, noticed curved bacteria in stomach samples. In 1981 a young doctor, Barry Marshall, began working with him. In 1982 a dish of stomach samples was left in the warm cupboard over a long Easter weekend, and the slow-growing bacteria finally showed up. Many doctors still did not believe them. So in 1984, Marshall drank a dish of the bacteria. Within about a week he felt ill, and a camera tube showed that his stomach wall was inflamed. Antibiotics cured him, and later cured many patients. Marshall and Warren shared the Nobel Prize in 2005.",
   "who": "Barry Marshall and Robin Warren, doctors in Perth, Australia",
   "when": "1979 to 1984, and the Nobel Prize in 2005",
   "wrong_idea": "Doctors believed that stomach acid kills all bacteria, so ulcers had to come from stress, spicy food and too much acid. Marshall and Warren showed that a bacterium lives in the stomach and causes most ulcers, and that antibiotics cure them."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet cooked or tested at home. Antacid Showdown: the quarter-teaspoon scoop counts (about 2 to 4 for cooking soda, 3 to 5 for crushed tablets, 2 to 4 for eggshell) come from working out the amounts, and have not been tried at the kitchen table. The quantities may need changing. Eggshell powder reacts slowly, so the step says to stir longer. Salt is the control and should do nothing. The Eno Mystery result is the least certain. The liquid left after the fizz should be a little basic, but the colour may come out blue or blue-violet, or stay purple, so the step says to write what you see. Shield the Shell: the petroleum jelly coat should keep vinegar off for ten minutes. Whether a thin gel with soda holds out is not known, which is why it is a challenge. The story's vat details are simplified. Dyers differ in what they add and how they judge a vat. The Water Diary may show no change in the open cups, because strips read whole numbers, and the step says so. Rain is optional. Facts to check before going live: that Marshall's bacteria were left over a long Easter weekend in 1982, that the Nehru Science Centre web address is right, that the pH ranges on the pH Ladder cards agree with a pH meter, and that the stomach lining cells are replaced about every few days. The videos have no address yet.",
- "warm": {"words": ["ACIDS", "MUCUS", "BASES", "ULCER", "GERMS"], "quiz": [["A liquid with pH 3 is ten times more acidic than a liquid with pH 4.", true, "Each step down the pH scale means ten times as many hydrogen ions."], ["pH 2 and pH 5 are close together, so they are almost equally acidic.", false, "Three steps is ten times ten times ten. pH 2 holds a thousand times more hydrogen ions."], ["A coat of mucus helps keep the stomach from burning itself.", true, "The mucus holds a base that meets the acid, and stomach cells are replaced every few days."], ["Most stomach ulcers are caused by stress and spicy food.", false, "Most are caused by Helicobacter bacteria or by some painkillers."], ["An antacid eases heartburn by using up some of the stomach acid.", true, "An antacid is a base. It reacts with acid and uses some of it up, so the pH rises."], ["After an antacid, the stomach stops making acid.", false, "An antacid only uses up acid already there. The stomach goes on making more, so the relief does not last."], ["Red cabbage water can show only roughly how acidic a liquid is.", true, "Its colours change with the cabbage, the water and the light, so it cannot give an exact number."], ["No living being can survive in a strong acid.", false, "Bacteria called Helicobacter pylori live in the stomach by making a base around themselves."], ["Stomach acid is useful in the stomach but causes heartburn in the food pipe.", true, "The food pipe has no mucus shield against acid, so acid that splashes up burns."], ["A higher pH number means more hydrogen ions in the liquid.", false, "More hydrogen ions means a lower pH. Each step up in pH means ten times fewer."]], "odd": [[["Chalky antacid tablet", "Cooking soda in water", "Milk of magnesia", "Vinegar"], "Vinegar", "The first three are bases that use up acid. Vinegar is an acid."], [["Mucus coat", "Bicarbonate", "Cells replaced every few days", "Extra acid"], "Extra acid", "The first three protect the stomach wall from its acid. Extra acid would add to the harm."], [["pH paper", "pH meter", "Universal indicator", "Antacid tablet"], "Antacid tablet", "The first three measure how acidic a liquid is. An antacid tablet is used to use up acid."], [["Lemon juice", "Vinegar", "Stomach acid", "Blood"], "Blood", "The first three are acids with a pH well below 7. Blood is kept close to pH 7.4."], [["Helicobacter pylori", "Curd bacteria", "Hot-spring microbes", "Cooking soda"], "Cooking soda", "The first three are living things that can grow in acid. Cooking soda is a base and is not alive."]]}
+ "warm": {"words": ["ACIDS", "MUCUS", "BASES", "ULCER", "GERMS"], "quiz": [["A liquid with pH 3 is ten times more acidic than a liquid with pH 4.", true, "Each step down the pH scale means ten times as many hydrogen ions."], ["pH 2 and pH 5 are close together, so they are almost equally acidic.", false, "Three steps is ten times ten times ten. pH 2 holds a thousand times more hydrogen ions."], ["A coat of mucus helps keep the stomach from burning itself.", true, "The mucus holds a base that uses up the acid, and stomach cells are replaced every few days."], ["Most stomach ulcers are caused by stress and spicy food.", false, "Most are caused by Helicobacter bacteria or by some painkillers."], ["An antacid eases heartburn by using up some of the stomach acid.", true, "An antacid is a base. It reacts with acid and uses some of it up, so the pH rises."], ["After an antacid, the stomach stops making acid.", false, "An antacid only uses up acid already there. The stomach goes on making more, so the relief does not last."], ["Red cabbage water can show only roughly how acidic a liquid is.", true, "Its colours change with the cabbage, the water and the light, so it cannot give an exact number."], ["No living being can survive in a strong acid.", false, "Bacteria called Helicobacter pylori live in the stomach by making a base around themselves."], ["Stomach acid is useful in the stomach but causes heartburn in the food pipe.", true, "The food pipe has no mucus shield against acid, so acid that splashes up burns."], ["A higher pH number means more hydrogen ions in the liquid.", false, "More hydrogen ions means a lower pH. Each step up in pH means ten times fewer."]], "odd": [[["Chalky antacid tablet", "Cooking soda in water", "Milk of magnesia", "Vinegar"], "Vinegar", "The first three are bases that use up acid. Vinegar is an acid."], [["Mucus coat", "Bicarbonate", "Cells replaced every few days", "Extra acid"], "Extra acid", "The first three protect the stomach wall from its acid. Extra acid would add to the harm."], [["pH paper", "pH meter", "Universal indicator", "Antacid tablet"], "Antacid tablet", "The first three measure how acidic a liquid is. An antacid tablet uses up acid."], [["Lemon juice", "Vinegar", "Stomach acid", "Blood"], "Blood", "The first three are acids with a pH well below 7. Blood is kept close to pH 7.4."], [["Helicobacter pylori", "Curd bacteria", "Hot-spring microbes", "Cooking soda"], "Cooking soda", "The first three are living things that can grow in acid. Cooking soda is a base and is not alive."]]}
 }
