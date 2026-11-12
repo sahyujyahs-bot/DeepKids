@@ -102,7 +102,7 @@
    "concept": "Some reactions are fast and some are slow",
    "status": "defined",
    "definition": "The speed of a reaction is how much new substance it makes in a given time.",
-   "description": "Reactions run at very different speeds. The powder in a cracker reacts in a tiny part of a second, so it bangs. A sparkler burns for less than a minute. A dosa browns in about two minutes. A banana skin goes from yellow to spotty in a few days. An iron gate rusts over months. A copper roof or a bronze statue turns green over many years. Scientists measure speed by how fast a new substance appears, or how fast an old one disappears. In your potato test, you measured it by how fast the foam rose.",
+   "description": "Reactions run at very different speeds. The powder in a cracker reacts in a tiny part of a second, so it bangs. A sparkler burns for less than a minute. A dosa browns in about two minutes. A banana skin goes from yellow to spotty in a few days. An iron gate rusts over months. A copper roof or a bronze statue turns green over many years. Scientists measure speed by how fast a new substance appears, or how fast an old one disappears. In the Potato and the Peroxide test, you measure it by how high the foam rises in 2 minutes.",
    "examples": [
     "Fast: crackers, sparklers, a matchstick flaring, baking soda fizzing in lemon juice.",
     "In between: a dosa browning, a papad roasting, milk turning brown when boiled down for payasam.",
@@ -130,7 +130,7 @@
    "concept": "A catalyst speeds up a reaction and is not used up",
    "status": "defined",
    "definition": "A catalyst is a substance that makes a reaction go faster without being used up. It is the same at the end as at the start.",
-   "description": "Hydrogen peroxide breaks down into water and oxygen on its own, but very slowly. Raw potato holds a catalyst called catalase. Catalase holds a peroxide particle in just the right way, so it breaks apart easily, and then lets go of the water and oxygen. Then it is free to take the next one. One catalase can do this millions of times every second. That is why the foam rose so fast in your test. It is also why the same strained potato made fresh peroxide foam again. Boiled potato hardly worked, because heat changes the shape of catalase, and its shape is what lets it work.",
+   "description": "Hydrogen peroxide breaks down into water and oxygen on its own, but very slowly. Raw potato holds a catalyst called catalase. Catalase holds a peroxide particle in just the right way, so it breaks apart easily, and then lets go of the water and oxygen. Then it is free to take the next one. One catalase can do this millions of times every second. That is why the foam rises so fast in the Potato and the Peroxide test. It is also why raw potato that has been strained out of one cup makes fresh peroxide foam again. Boiled potato hardly works, because heat changes the shape of catalase, and its shape is what lets it work.",
    "examples": [
     "Catalase in raw potato and in yeast breaks hydrogen peroxide into water and oxygen.",
     "A car's catalytic converter holds a little platinum and other metals. They help turn poisonous exhaust gases into less harmful ones.",
@@ -138,13 +138,13 @@
    ],
    "perspectives": [],
    "art": "A cartoon of a catalase shape like a cupped hand holding a small peroxide particle, then the particle breaking in two, then the hand empty and ready again.",
-   "context": "This card explains what the potato did to the hydrogen peroxide in your test."
+   "context": "This card explains what raw potato does to hydrogen peroxide in the Potato and the Peroxide test."
   },
   {
    "concept": "Enzymes: how living beings make changes fast at body warmth",
    "status": "defined",
    "definition": "An enzyme is a catalyst made by a living being. Most enzymes are proteins with a special folded shape.",
-   "description": "A living being has a problem. They need thousands of reactions to happen fast: to break food down, to build new parts and to clean up harmful leftovers. But a cell cannot heat itself up like a stove. Enzymes solve this. Each one speeds up one kind of reaction at body warmth. Cells make a little hydrogen peroxide as they use oxygen, and peroxide can harm a cell. So cells, from potatoes and yeast to you, make catalase, which breaks peroxide down at once. Your saliva has another enzyme, amylase, which starts breaking starch into sugar while you chew.",
+   "description": "Living beings have a problem. They need thousands of reactions to happen fast: to break food down, to build new parts and to clean up harmful leftovers. But a cell cannot heat itself up like a stove. Enzymes solve this. Each one speeds up one kind of reaction at body warmth. Cells make a little hydrogen peroxide as they use oxygen, and peroxide can harm a cell. So cells, from potatoes and yeast to you, make catalase, which breaks peroxide down at once. Your saliva has another enzyme, amylase, which starts breaking starch into sugar while you chew.",
    "examples": [
     "Amylase in your saliva turns some of the starch in rice into sugar as you chew.",
     "Catalase in your blood breaks down hydrogen peroxide. That is why peroxide fizzes on a cut.",
@@ -180,7 +180,7 @@
  "agreed": [
   {
    "text": "A catalyst speeds up a reaction and is not used up by it.",
-   "evidence": "Chemists can weigh a catalyst before and after a reaction and find the same amount. You can see it at home: the same strained potato makes fresh peroxide foam again."
+   "evidence": "Chemists can weigh a catalyst before and after a reaction and find the same amount. You can see it at home: raw potato strained out of foaming peroxide makes fresh peroxide foam again."
   },
   {
    "text": "Most reactions go faster when things are warmer.",
@@ -192,7 +192,7 @@
   },
   {
    "text": "Enzymes are catalysts made by living cells. Most are proteins, and their shape lets them work.",
-   "evidence": "Scientists have seen the shapes of thousands of enzymes using X-rays and microscopes. Heat that changes the shape, like boiling, stops the enzyme working, as boiled potato showed."
+   "evidence": "Scientists have seen the shapes of thousands of enzymes using X-rays and microscopes. Heat that changes the shape, like boiling, stops the enzyme working. Boiled potato shows this: it makes almost no foam in hydrogen peroxide."
   }
  ],
  "challenging": [
@@ -223,27 +223,27 @@
  ],
  "big_questions": [
   {
-   "q": "The peroxide in the plain cup was ready to break down all along, but it waited for months. What is a change doing while it waits?",
+   "q": "Hydrogen peroxide can break down into water and oxygen on its own, yet a bottle of it hardly changes for months. Why does a change that can happen take so long?",
    "kind": "deep",
    "hint": "Think about the particles. Are they still bumping? Why do so few bumps lead to a change?"
   },
   {
-   "q": "The potato helped the peroxide change, and came out the same. Did the potato take part in the change, or only watch it?",
+   "q": "Raw potato makes hydrogen peroxide break down fast, and the potato comes out the same. Did the potato take part in the change, or only watch it?",
    "kind": "deep",
    "hint": "The catalase holds each peroxide particle while it breaks. Is holding taking part?"
   },
   {
    "q": "Your body is warm, never as hot as a stove. How can it break down a whole meal in a few hours?",
    "kind": "deep",
-   "hint": "Think about the enzyme in your saliva, and the rice that turned sweet."
+   "hint": "Think about the enzyme in your saliva. In Chew and Wait, it made plain rice taste a little sweet."
   },
   {
-   "q": "Rust is slow for us. To a mayfly that lives for one day, would a sparkler seem slow? Are 'fast' and 'slow' in the change, or in the one who watches?",
+   "q": "A mayfly lives for only one day. Would a sparkler seem slow to a mayfly? Do 'fast' and 'slow' depend on the change, or on who is watching?",
    "kind": "big",
    "hint": "Compare how long the change takes with how long the watcher lives."
   },
   {
-   "q": "People help each other do things faster without being used up, like a teacher who teaches many children. Is a teacher like a catalyst? In what ways not?",
+   "q": "A teacher helps many children learn and is not used up. In what ways is a teacher like a catalyst? In what ways not?",
    "kind": "big",
    "hint": "A catalyst comes out the same. Does a teacher come out the same after teaching?"
   }
@@ -272,14 +272,14 @@
    "\"And on your knee, when you were small?\"",
    "\"My blood has catalase too. So does yours. Your cells make a little peroxide every day as they use oxygen, and too much of it would harm them. So every cell keeps catalase ready, to break it down quickly.\" She lifted the raw slice out with a spoon and dropped it into a fresh glass of peroxide. It started to froth again.",
    "\"It's not used up!\" said Arjun.",
-   "\"No. A helper that speeds up a change and comes out the same is called a catalyst. Cooking changes its shape, and then it cannot hold the peroxide any more.\"",
+   "\"No. A helper that speeds up a change and comes out the same is called a catalyst. Cooking changes the shape of catalase, and then it cannot hold the peroxide any more.\"",
    "That evening, the balcony was crowded with cousins. Paati lit the first sparkler from a diya and gave it to Arjun, and held his wrist while it burned. White sparks sprayed out, and in less than a minute it was a black wire. Arjun dropped the wire into a bucket of water, as Paati had told him.",
    "\"That was fast,\" he said.",
    "\"Very fast,\" said Paati. She tapped the iron balcony grill. Orange-brown rust had crept along its bottom bar. \"And this is the same kind of change. Iron is joining with oxygen from the air. But the grill has taken six monsoons to get this rusty.\"",
    "Arjun looked from the black sparkler wire to the rusty grill to the dark sky full of crackers. \"So everything is changing,\" he said. \"Only some things are in a hurry.\"",
    "\"And some have a helper,\" said Paati, and lit him another sparkler."
   ],
-  "epiphany": "For the parent: the peroxide in the bottle was breaking down all the time, but so slowly that nothing showed. Catalase in raw potato, and in blood, is a catalyst. It makes the same change happen in seconds and is not used up, which is why the strained slice made fresh peroxide froth again. Cooking changes the shape of catalase, so the cooked potato hardly worked. Warmth was a fair guess, but both glasses were at the same warmth, so the test ruled it out.",
+  "epiphany": "For the parent: the peroxide in the bottle was breaking down all the time, but so slowly that nothing showed. Catalase in raw potato, and in blood, is a catalyst. It makes the same change happen in seconds and is not used up, which is why the same raw slice made a fresh glass of peroxide froth again. Cooking changes the shape of catalase, so the cooked potato hardly worked. Warmth was a fair guess, but both glasses were at the same warmth, so the test ruled it out.",
   "ask": [
    "Why did the peroxide fizz on the raw potato but not in the bottle?",
    "Arjun guessed his knee was warm. How did Paati's two glasses test his guess?",
@@ -302,7 +302,7 @@
    "days": 1,
    "question": "Hydrogen peroxide breaks down very slowly on its own. Does raw potato make it break down faster? Does cooked potato? And is the potato used up?",
    "predict": "Look at the three cups: peroxide alone, peroxide with raw potato, and peroxide with boiled potato. Guess which cup will make the most foam, and which the least. Why do you think so?",
-   "fair_test": "All three cups get the same amount of peroxide, the same drop of soap and the same spoonful of potato. They stand side by side, so they are equally warm. Only one thing changes: no potato, raw potato or boiled potato. Measure every cup after the same time, 2 minutes.",
+   "fair_test": "All three cups get the same amount of peroxide and one drop of soap. The raw potato and the boiled potato are the same amount. The cups stand side by side, so they are equally warm. Only one thing changes: no potato, raw potato or boiled potato. Measure every cup after the same time, 2 minutes.",
    "results_table": [
     "Cup",
     "My guess",
@@ -345,7 +345,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess, then set up three cups of peroxide. Add raw and boiled potato. Measure the foam. Strain the raw potato into fresh peroxide to see if it still works."
+     "what": "Guess which cup will foam most, then set up three cups of peroxide. Add raw potato to one and boiled potato to another. Measure the foam. Strain the raw potato out and put it in fresh peroxide to see if it still works."
     }
    ],
    "record": "Fill in the table. Then draw the three cups with their foam. Last, write three lines: what I think, what I saw, and why.",
@@ -415,7 +415,7 @@
      "id": "s4",
      "mins": 4,
      "do": "1. After 2 minutes, hold a ruler beside each cup. 2. Measure from the top of the liquid to the top of the foam. 3. Write the numbers in the table.",
-     "say": "Let's measure the foam in each cup. Hold the ruler straight up, next to the glass.",
+     "say": "Let's measure the foam in each cup. Hold the ruler straight up, next to the cup.",
      "kid": "Hold the ruler next to each cup. How many millimetres of foam? Write it down.",
      "check": {
       "t": "mcq",
@@ -454,8 +454,8 @@
      "mins": 6,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A strong answer sounds like this. 'I think raw potato has something that makes peroxide break down fast. The raw cup made 25 mm of foam, the boiled cup 2 mm and the plain cup none. Cooking must spoil the helper.' Now read the catalyst card together.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
+     "parent": "A strong answer sounds like this. 'I think raw potato has something that makes peroxide break down fast. The raw cup made 25 mm of foam, the boiled cup 2 mm and the plain cup none. Cooking must spoil the helper.' Now read the card 'A catalyst speeds up a reaction and is not used up' together.",
      "think": "The peroxide in the plain cup was breaking down too, just too slowly to see. How could you find out?"
     }
    ]
@@ -467,7 +467,7 @@
    "days": 2,
    "question": "Does the same eggshell react faster with vinegar as one big piece or as a fine powder?",
    "predict": "One glass gets a big piece of eggshell and the other gets the same amount crushed to powder. Which will fizz faster? Which will be finished first? Why do you think so?",
-   "fair_test": "Use shell from the same egg, the same amount in each glass, the same vinegar, the same amount of it and the same place. Only one thing changes: one piece, or powder.",
+   "fair_test": "Use shell from the same egg, and the same amount of shell in each glass. Use the same vinegar, and the same amount of it. Keep both glasses in the same place. Only one thing changes: the shell is one piece, or powder.",
    "results_table": [
     "Glass",
     "My guess",
@@ -526,7 +526,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Break the shell into two halves that look the same size. 2. Fold one half in paper. 3. Crush it with a rolling pin until it is fine powder.",
-     "say": "We need the same amount of shell twice. One stays as a piece. The other becomes powder.",
+     "say": "We need two equal amounts of shell. One stays as a piece. The other becomes powder.",
      "kid": "Crush one half of the shell into powder. Roll hard!",
      "parent": "Peel off the thin skin inside the shell if it comes away easily. It does not matter much if some stays.",
      "context": "This is the first step of the Piece or Powder test. You get two equal amounts of shell ready, one whole and one crushed."
@@ -584,7 +584,7 @@
    "days": 1,
    "question": "Raw potato has the helper catalase. Which other raw vegetables and fruits make hydrogen peroxide foam, and which make the most?",
    "predict": "Choose four raw vegetables or fruits from the kitchen. Put them in order: which do you think will make the most foam, and which the least? Why do you think so?",
-   "fair_test": "Use the same amount of peroxide, the same drop of soap and the same heaped teaspoon of each grated vegetable. Measure each cup after the same time, 2 minutes. Keep one cup with nothing as a control.",
+   "fair_test": "Use the same amount of peroxide and one drop of soap in every cup. Add one heaped teaspoon of each grated vegetable. Measure each cup after the same time, 2 minutes. Keep one cup with nothing as a control.",
    "results_table": [
     "Vegetable or fruit",
     "My guess (order)",
@@ -667,7 +667,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Put the vegetables in order from the test. 2. Compare with the guess. 3. Ask: what do you think, what did you see, and why?",
+     "do": "1. Put the vegetables in order, from most foam to least. 2. Compare this order with your child's guess. 3. Ask: what do you think, what did you see, and why?",
      "say": "Was your order right? Which surprised you? Why do you think so many vegetables have catalase?",
      "kid": "Was your guess right? Which one surprised you? Why?",
      "parent": "A strong answer says that many plants carry catalase, because their cells also make a little hydrogen peroxide and need to clear it away.",
@@ -736,7 +736,7 @@
      "say": "Watch the baking soda when the juice touches it. Count how long the fizz lasts.",
      "kid": "Squeeze the lemon on the baking soda. Count how long it fizzes.",
      "context": "This is a short first look at a fast change and a slow change. Baking soda fizzes in lemon juice within seconds, while rust takes months.",
-     "parent": "The fizz is bubbles of a new gas, carbon dioxide. It lasts from a few seconds to about half a minute, then stops when one of the two is used up."
+     "parent": "The fizz is bubbles of a new gas, carbon dioxide. It lasts from a few seconds to about half a minute, then stops when the baking soda or the lemon juice is used up."
     },
     {
      "id": "s2",
@@ -758,10 +758,10 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the big question of the unit, and leave it open.",
+     "do": "Ask what makes a change fast or slow. Do not give the answer.",
      "say": "One change took seconds. One took months. What do you think makes a change fast or slow?",
      "kid": "One change took seconds. One took months. Why?",
-     "parent": "Don't answer yet. Write down your child's ideas. The experiments test them."
+     "parent": "Don't answer yet. Write down your child's ideas. The experiments in this unit test them."
     }
    ]
   },
@@ -924,7 +924,7 @@
      "say": "Pour it in and step back. Feel the side of the bottle after a minute. Is it warm?",
      "kid": "Pour in the yeast. Step back. Watch the foam come out!",
      "adult": true,
-     "parent": "With 3% peroxide the foam rises steadily out of the bottle neck for a minute or two. It will not be as huge as the videos, which use much stronger peroxide that is not safe at home. The bottle gets a little warm, because this reaction gives out heat.",
+     "parent": "With 3% peroxide the foam rises steadily out of the bottle neck for a minute or two. It will not be as huge as in online videos, which use much stronger peroxide that is not safe at home. The bottle gets a little warm, because this reaction gives out heat.",
      "check": {
       "t": "mcq",
       "q": "Where did the gas in the foam come from?",
@@ -942,7 +942,7 @@
      "mins": 5,
      "do": "Talk about what happened, then clean up with water.",
      "say": "The potato and the yeast both had catalase. Why do you think such different living beings carry the same helper?",
-     "kid": "The potato and the yeast both had the helper. Why?",
+     "kid": "Potato and yeast both carry the helper catalase. Why do you think so?",
      "parent": "A good answer: both use oxygen, both make a little peroxide, and both need to break it down before it harms their cells."
     }
    ]
@@ -1002,7 +1002,7 @@
      "mins": 3,
      "do": "Explain what was happening, after your child has said what they noticed.",
      "say": "Your saliva has an enzyme called amylase. It is a catalyst. It breaks the starch in rice into sugar. Why do you think your body starts this in the mouth?",
-     "kid": "Your saliva has a helper. It breaks starch into sugar. Why start in the mouth?",
+     "kid": "Your saliva has a helper. It breaks starch into sugar. Why do you think your body starts this in the mouth?",
      "check": {
       "t": "mcq",
       "q": "Why does chewed rice start to taste sweet?",
@@ -1126,7 +1126,7 @@
     {
      "day": 3,
      "mins": 15,
-     "what": "Put all three parts side by side. Draw them and say what sunlight did."
+     "what": "Put the sunny half, the covered half and the drawer strip side by side. Draw them and say what sunlight did."
     }
    ],
    "record": "Each day, draw the strips and colour them as bright as they look. Write which part is palest.",
@@ -1149,7 +1149,7 @@
      "id": "s1",
      "mins": 15,
      "do": "1. Mix turmeric with a few drops of water into a paste. 2. Paint both strips evenly. 3. Let them dry. 4. Tape one to a sunny window and cover half of it with cardboard. 5. Put the other in a dark drawer.",
-     "say": "Turmeric's yellow colour slowly breaks down in light. Washermen have long dried turmeric stains in the sun to fade them. Will the sun make it faster? Why do you think so?",
+     "say": "Turmeric's yellow colour slowly breaks down in light. Washermen have long dried turmeric stains in the sun to fade them. Will the sun make the yellow fade faster? Why do you think so?",
      "kid": "Paint the strips yellow. Put one in the sun, half covered. Put one in a drawer. Guess what will happen.",
      "context": "This project tests whether light speeds up a slow change: the fading of turmeric's yellow colour.",
      "ask": [
@@ -1266,7 +1266,7 @@
      "kid": "Which idea won? Why do you think it worked?",
      "check": {
       "t": "mcq",
-      "q": "Meena, a girl in Class 3, grated her potato very finely and got more foam than her friend, who used one cube. Why?",
+      "q": "A spoonful of finely grated potato makes more foam in one minute than the same amount of potato as one cube. Why?",
       "options": [
        "Fine grating gave more surface, so more catalase touched the peroxide",
        "Grated potato is a different vegetable",
@@ -1321,7 +1321,7 @@
      "do": "Read the problem together.",
      "say": "Sunlight speeds up the fading of turmeric yellow. How could we slow it down?",
      "kid": "Light fades turmeric. How can you keep it bright?",
-     "context": "This is the first step of the Keep It Bright challenge. You use what you found in the turmeric watch to slow a change down."
+     "context": "This is the first step of the Keep It Bright challenge. The Sun or Shade turmeric watch showed that sunlight speeds up the fading of turmeric yellow. Here you use that to slow the fading down."
     },
     {
      "id": "s2",
@@ -1473,7 +1473,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play until someone has 6 points. After each round, ask why.",
+     "do": "Play until someone has 6 points. After each round, ask why that change was faster.",
      "say": "Why do you think the dosa is faster than the idli batter? Is heat helping?",
      "kid": "Pick the faster change. Say why. Flip to check.",
      "parent": "When a heated change beats an unheated one, point out the heat. When a powder beats a piece, point out the surface."
@@ -1495,7 +1495,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a moving game. Particle cards lie spread around a room. Pairs of particles must join. Joining the hard way is slow. A catalyst player makes it quick, and is still there, unchanged, at the end.",
+   "context": "This is a game where you move around. Particle cards lie spread around a room, and each A card must be joined with a B card. Without help, joining is slow. A player who is the catalyst makes it quick, and is still there, unchanged, at the end.",
    "printables": [
     {
      "kind": "cards",
@@ -1513,7 +1513,7 @@
    ],
    "rules": [
     "Two people can play: one is the catalyst and the other is the walker. With more people, one is the catalyst and all the others are walkers. Someone also times with a phone.",
-    "Put the 6 particle cards (3 A and 3 B) on the floor in different corners of the room, face up. Clear a joined pile space on a table or a mat.",
+    "Put the 6 particle cards (3 A and 3 B) on the floor in different corners of the room, face up. Clear a space on a table or a mat for the joined pile.",
     "Round 1, no catalyst: a walker carries one card at a time. To join a pair, a walker stands on one foot, holds an A and a B together and counts slowly to 20. If the other foot touches the floor, start the count again. Put the pair in the joined pile. Time how many seconds it takes until all 3 pairs have joined, or stop at 120 seconds and count the pairs.",
     "Put all 6 cards back in their corners.",
     "Round 2, with the catalyst: walkers carry one card at a time to the catalyst in the middle. The catalyst holds an A and a B together for a count of three and puts the pair in the joined pile. Time how long it takes for all 3 pairs to join.",
@@ -1534,15 +1534,15 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 7 cards and read them. Choose who is the catalyst. Put the particle cards in the corners.",
-     "say": "Two particles, A and B, must join to make something new. Joining is hard on their own. Then a catalyst helps.",
+     "say": "Two particles, A and B, must join to make something new. On their own, joining is hard. With a catalyst, it is quick.",
      "kid": "Choose the catalyst. Put the particle cards in the corners.",
-     "context": "This is the start of Catalyst Tag, a game that shows how a catalyst speeds up a reaction without being used up."
+     "context": "This is the start of Catalyst Race, a game that shows how a catalyst speeds up a reaction without being used up."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Play Round 1 with no catalyst. Time how long until all 3 pairs have joined.",
-     "say": "Go! Join the hard way. How many seconds until all three pairs are joined?",
+     "say": "Go! Join the pairs without the catalyst. How many seconds until all three pairs are joined?",
      "kid": "Join each pair on one foot, counting to 20. It is slow!"
     },
     {
@@ -1556,7 +1556,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Compare the two times and talk.",
-     "say": "Which round was faster? Did the catalyst join any pair and sit down? What does that tell us?",
+     "say": "Which round was faster? Was the catalyst used up, or still standing in the middle at the end? What does that tell us?",
      "kid": "Which round was faster? Is the catalyst still standing in the middle?",
      "check": {
       "t": "mcq",
@@ -1567,7 +1567,7 @@
        "It stops the reaction"
       ],
       "a": 0,
-      "why": "The catalyst helped every pair and joined none of them, so it was free to help again. A real catalyst works the same way: it speeds up a reaction and comes out the same."
+      "why": "The catalyst helped every pair and joined none of them, so she or he was free to help again. A real catalyst works the same way: it speeds up a reaction and comes out the same."
      }
     }
    ]
@@ -1628,7 +1628,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3 in Chennai, puts grated raw potato in hydrogen peroxide. White foam rises. What is the gas in the foam?",
+   "p": "Grated raw potato is put in hydrogen peroxide. White foam rises. What is the gas in the foam?",
    "opts": [
     "Oxygen",
     "Steam",
@@ -1642,7 +1642,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya strains the same potato out and drops it into fresh peroxide. It foams again. What does this show?",
+   "p": "Raw potato makes hydrogen peroxide foam. The same potato is strained out and dropped into fresh peroxide, and that foams too. What does this show?",
    "opts": [
     "The potato's helper is not used up",
     "The new peroxide is a different liquid",
@@ -1650,7 +1650,7 @@
     "The soap did all the work"
    ],
    "a": 0,
-   "why": "The catalase came out of the first cup still able to work. That is what makes it a catalyst. Picking 'soap' means forgetting the plain cup, which had soap and stayed flat.",
+   "why": "The catalase came out of the first cup still able to work. That is what makes it a catalyst. The soap cannot be the reason: in the potato test, the plain cup had soap too and made no foam.",
    "outcome": 3,
    "how": "e1"
   },
@@ -1670,7 +1670,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Mysuru, drops a piece of eggshell into one glass of vinegar and the same amount of eggshell powder into another. Which fizzes faster?",
+   "p": "A piece of eggshell goes into one glass of vinegar. The same amount of eggshell powder goes into another glass. Which fizzes faster?",
    "opts": [
     "The powder",
     "The piece",
@@ -1736,7 +1736,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Kochi, says: 'Rust is slow, so it is never a problem.' What is wrong with her idea?",
+   "p": "Someone says: 'Rust is slow, so it is never a problem.' What is wrong with this idea?",
    "opts": [
     "Over months and years, rust can weaken iron until it breaks",
     "Rust is actually very fast",
@@ -1757,7 +1757,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "Farhan, a boy in Kolkata, writes a list of changes in his home. Sort them: fast (seconds or minutes) or slow (hours or longer).",
+     "p": "Here is a list of changes in a home. Sort them: fast (seconds or minutes) or slow (hours or longer).",
      "cats": [
       "Fast",
       "Slow"
@@ -1795,7 +1795,7 @@
      "t": "truefalse",
      "p": "A catalyst is used up in the reaction it speeds up.",
      "a": false,
-     "why": "False. A catalyst comes out the same at the end. The strained potato made fresh peroxide foam again."
+     "why": "False. A catalyst comes out the same at the end. In the potato test, the raw potato was strained out and it made fresh peroxide foam again."
     },
     {
      "t": "mcq",
@@ -1855,7 +1855,7 @@
     },
     {
      "t": "write",
-     "p": "The plain cup of peroxide stayed clear. The raw potato cup foamed. Write what you think, what you saw, and why.",
+     "p": "In the potato test, the plain cup of peroxide stayed clear. The raw potato cup foamed. Write what you think, what you saw, and why.",
      "lines": 4,
      "a": "I think raw potato has a helper that breaks peroxide down fast. I saw tall foam in the raw cup and none in the plain cup. The helper is catalase, a catalyst.",
      "why": "A strong answer has a claim, evidence with a measurement, and a reason.",
@@ -1944,7 +1944,7 @@
     },
     {
      "t": "mcq",
-     "p": "Why do we use the same amount of peroxide in every cup?",
+     "p": "In the potato test, why do we use the same amount of peroxide in every cup?",
      "opts": [
       "So only one thing changes, and the test is fair",
       "To save peroxide",
@@ -1971,7 +1971,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nandini, a girl in Bengaluru, wants her potato to make foam faster. Which change will help most?",
+     "p": "You want raw potato to make hydrogen peroxide foam faster. Which change will help most?",
      "opts": [
       "Grate it finely instead of using one cube",
       "Boil it first",
@@ -2084,7 +2084,7 @@
     },
     {
      "t": "write",
-     "p": "A boy in your class, Arjun, says, 'Heat is a catalyst.' Is he right? Explain.",
+     "p": "Someone says, 'Heat is a catalyst.' Is that right? Explain.",
      "lines": 3,
      "a": "No. Heat speeds up reactions, but it is not a substance. A catalyst is a substance that speeds up a reaction and is not used up.",
      "why": "A strong answer separates heat, which is energy, from a catalyst, which is a substance."
@@ -2121,7 +2121,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the Catalyst Tag game: two particles joining with the help of the catalyst, then the catalyst free again.",
+     "p": "Draw the Catalyst Race game: two particles joining with the help of the catalyst, then the catalyst free again.",
      "a": "Three panels: catalyst holding two particles' hands, the pair joined, the catalyst walking away alone.",
      "why": "A strong drawing shows the catalyst at the start and at the end, unchanged.",
      "how": "g2",
@@ -2137,7 +2137,7 @@
    "items": [
     {
      "t": "write",
-     "p": "A bottle of peroxide breaks down slowly on its own, but there is a reason most cells cannot wait for that. Explain why living cells need catalase.",
+     "p": "Hydrogen peroxide breaks down on its own, but slowly. Explain why living cells need catalase to break it down.",
      "lines": 5,
      "a": "Cells make a little peroxide as they use oxygen. Peroxide harms cells. On its own it breaks down too slowly, so cells use catalase to break it down at once.",
      "why": "A strong answer names the problem first, then how catalase solves it."
@@ -2162,7 +2162,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sneha, a girl in Pune, wants to know whether warmth makes potato catalase work faster. Which test is fair?",
+     "p": "You want to know whether warmth makes potato catalase work faster. Which test is fair?",
      "opts": [
       "Two cups with the same peroxide and potato, one in cool water and one in warm water",
       "One cup of warm peroxide with potato and one cup of cold peroxide with carrot",
@@ -2423,7 +2423,7 @@
      }
     ]
    },
-   "why_maths": "Dividing one result by another tells us how many times stronger the raw potato's helper was."
+   "why_maths": "Dividing one result by the other tells us how many times as much foam the raw potato made."
   },
   {
    "problem": "A sparkler burns for 40 seconds. A dosa takes 2 minutes to brown. How many sparklers, one after another, would burn while one dosa browns?",
@@ -2435,7 +2435,7 @@
    "why_maths": "Changing minutes into seconds lets us compare the speed of two changes in the same unit."
   },
   {
-   "problem": "Kavya, a girl in Class 3, measured foam in the Helper Hunt: potato 20 mm, carrot 12 mm, cucumber 6 mm, ginger 15 mm. Put them in order from most to least. How much more foam did potato make than cucumber?",
+   "problem": "Here are made-up foam heights from the Helper Hunt: potato 20 mm, carrot 12 mm, cucumber 6 mm, ginger 15 mm. Put them in order from most to least. How much more foam did potato make than cucumber?",
    "answer": "Potato, ginger, carrot, cucumber. Potato made 14 mm more than cucumber.",
    "explain": "20 is the biggest, then 15, then 12, then 6. 20 minus 6 is 14. These are made-up example results, and your own may be in a different order.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2444,7 +2444,7 @@
    "why_maths": "Putting numbers in order shows at a glance which vegetable's helper worked fastest."
   },
   {
-   "problem": "In the turmeric watch, Lakshmi, a girl in Mysuru, gave each part a brightness score from 10 (bright) to 0 (white). Day 1: sunny half 10, covered half 10. Day 3: sunny half 4, covered half 9. Which part changed more, and by how much?",
+   "problem": "In the turmeric watch, each part gets a brightness score from 10 (bright) to 0 (white). Day 1: sunny half 10, covered half 10. Day 3: sunny half 4, covered half 9. Which part changed more, and by how much?",
    "answer": "The sunny half changed by 6 points, the covered half by 1 point. The sunny half changed 5 points more.",
    "explain": "Sunny: 10 minus 4 is 6. Covered: 10 minus 9 is 1. 6 minus 1 is 5. These are made-up example scores.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2634,16 +2634,16 @@
  "roots": {
   "context": "We have timed fast and slow changes, and watched a potato make peroxide foam without being used up. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The peroxide in your plain cup stayed clear. Beside raw potato, the same peroxide foamed within a minute. The strained potato then made fresh peroxide foam too. So how fast a change happens can depend on a helper that is not used up.",
-   "habit": "We usually think the only things that take part in a change are the ones that get used up and turn into something new. The potato took part, came out the same, and could do it again. We also call things like the peroxide 'stable', when they are changing all the time, only slowly.",
+   "truth": "In the Potato and the Peroxide test, the peroxide in the plain cup stayed clear. Beside raw potato, the same peroxide foamed within a minute. The raw potato was then strained out, and it made fresh peroxide foam too. So how fast a change happens can depend on a helper that is not used up.",
+   "habit": "We usually think the only things that take part in a change are the ones that get used up and turn into something new. The potato took part, came out the same, and could do it again. We also call things like the peroxide 'stable', meaning they do not change, when they are changing all the time, only slowly.",
    "evidence": "In the potato test, the plain cup made no foam, raw potato made tall foam and boiled potato made almost none. The same strained raw potato made fresh peroxide foam again."
   },
   "three": {
    "who_am_i": "Your blood and every cell in you carry catalase. Thousands of enzymes in you speed up the changes that keep you alive, at body warmth.",
-   "what_is_life": "A living being cannot cook their food on a stove inside them. So every living being, from yeast to a potato to you, makes enzymes to make their changes fast.",
+   "what_is_life": "A living being cannot heat themselves up like a stove to make their changes fast. So every living being, from yeast to a potato to you, makes enzymes to do it.",
    "what_is_this_world": "Everything around you is changing, some things in a second and some over many years. Iron grills, silver anklets and even rocks are changing now, only slowly."
   },
-  "thread": "A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance carries changes it is ready for, most of them too slow to see. It lets a change that was already possible happen now, and then it is free again. One small helper can change millions of particles.",
+  "thread": "A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance can change in some way, and most of these changes are too slow to see. A catalyst lets a change that was already possible happen now, and then the catalyst is free again. One small helper can change millions of particles.",
   "teachings": [
    {
     "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
@@ -2682,8 +2682,8 @@
    "kid": "Find something that changes slowly. Look at it for one minute. It is changing now. Breathe slowly five times. Your enzymes are busy too."
   },
   "ask": [
-   "The peroxide was changing all along, too slowly to see. What else around you might be changing that you can't see?",
-   "The potato helped and came out the same. Is a helper part of the change, or outside it?",
+   "The peroxide in the bottle was breaking down all along, too slowly to see. What else around you might be changing that you can't see?",
+   "Raw potato helped the peroxide break down and came out the same. Is a helper part of the change, or outside it?",
    "If a change took a million years, would anyone ever notice it was a change?"
   ],
   "art": "A child on a balcony at dusk holding a glass of white foam, with a rusty grill beside her and a sparkler being lit by a grandmother in the background."
@@ -2695,5 +2695,5 @@
   "wrong_idea": "Louis Pasteur and many others thought that changing sugar into alcohol needed whole living yeast cells. Buchner's yeast juice, which held no whole cells, changed sugar too, which showed that enzymes made by the cells do the work."
  },
  "playtest": "Every experiment and activity was walked through on paper against its materials list, not tried in a kitchen. The potato test uses 3% hydrogen peroxide. Many Indian chemists sell 6% ('20 volume'), so the steps say to mix it half and half with water. Raw grated potato gives clear foam within a minute with a drop of dishwashing liquid, and the raw and boiled cups get the same amount of potato. Boiled potato gives little or none. Old peroxide may give weak foam, so the step says to try a new bottle. The strained potato usually foams again, a little less. The first activity uses baking soda and lemon, so the core path needs no flame. The eggshell test gives a vegetarian alternative, a broken seashell. The yeast foam is much smaller than online videos, which use strong peroxide, and the step says so. Turmeric fades fastest in strong sun, so the project says to keep going a day or two longer in cloudy weather. The rice-chewing activity may not taste sweet to every child, and the step says that is fine. Faster Wins works alone or with two. Catalyst Race works with two people: a catalyst and a walker.",
- "warm": {"words": ["SPEED", "SMALL", "RUSTS", "FOAMS", "HEATS"], "quiz": [["A catalyst speeds up a reaction and is not used up.", true, "It comes out the same as it went in, so it can help again and again."], ["A catalyst is used up as it works, like fuel in a lamp.", false, "A potato taken out of foaming peroxide can make fresh peroxide foam again, so it was not used up."], ["Particles must bump into each other for a reaction to happen.", true, "Anything that makes particles bump more often or harder makes the reaction faster."], ["Fast reactions are dangerous and slow reactions are always safe.", false, "Fizzing baking soda is fast and safe, but slow rust can weaken a bridge until it breaks."], ["Raw potato makes hydrogen peroxide fizz because it holds a catalyst called catalase.", true, "Catalase breaks peroxide into water and oxygen very fast, and the potato is not used up."], ["Cooling something down makes its reaction go faster.", false, "Cold makes particles move slower, so they meet less often and less hard."], ["Rusting is a chemical reaction, only a very slow one.", true, "Iron joins with oxygen and water to make rust, a new substance, but it takes months."], ["Melting ice is a fast chemical reaction.", false, "No new substance is made. Melting ice is still water, so it is only a change of form."], ["Enzymes are catalysts made by living beings.", true, "Cells make thousands of enzymes that speed up changes in our bodies."], ["A whole iron nail rusts faster than the same amount of iron as fine wool.", false, "Fine wool has much more surface touching air and water, so it rusts faster."]], "odd": [[["Sparkler burning", "Fizzing fruit salt", "Potato and peroxide", "Iron gate rusting"], "Iron gate rusting", "The others are over in seconds or minutes, but rusting an iron gate takes months."], [["Catalase", "Enzymes in spit", "Yeast enzymes", "Hydrogen peroxide"], "Hydrogen peroxide", "The others are enzymes that help changes go faster, but peroxide is the substance that gets changed."], [["Heating", "Crushing to powder", "Adding a catalyst", "Cooling"], "Cooling", "The others make a reaction faster, but cooling slows the particles and makes it slower."], [["Rusting", "Burning wood", "Milk turning sour", "Melting wax"], "Melting wax", "The others make new substances, but melted wax is still the same wax."], [["Crushed ice", "Powdered chalk", "Grated carrot", "Big stone"], "Big stone", "The others are broken into many small pieces with lots of surface, but a big stone has little surface."]]}
+ "warm": {"words": ["SPEED", "SMALL", "RUSTS", "FOAMS", "HEATS"], "quiz": [["A catalyst speeds up a reaction and is not used up.", true, "It comes out the same as it went in, so it can help again and again."], ["A catalyst is used up as it works, like fuel in a lamp.", false, "A potato taken out of foaming peroxide can make fresh peroxide foam again, so it was not used up."], ["Particles must bump into each other for a reaction to happen.", true, "Anything that makes particles bump more often or harder makes the reaction faster."], ["Fast reactions are dangerous and slow reactions are always safe.", false, "Fizzing baking soda is fast and safe, but slow rust can weaken a bridge until it breaks."], ["Raw potato makes hydrogen peroxide fizz because it holds a catalyst called catalase.", true, "Catalase breaks peroxide into water and oxygen very fast, and the potato is not used up."], ["Cooling something down makes its reaction go faster.", false, "Cold makes particles move slower, so they meet less often and less hard."], ["Rusting is a chemical reaction, only a very slow one.", true, "Iron joins with oxygen and water to make rust, a new substance, but it takes months."], ["Melting ice is a fast chemical reaction.", false, "No new substance is made. Melting ice is still water, so it is only a change of form."], ["Enzymes are catalysts made by living beings.", true, "Cells make thousands of enzymes that speed up changes in our bodies."], ["A whole iron nail rusts faster than the same amount of iron in the form of fine iron wool.", false, "Fine iron wool has much more surface touching air and water, so it rusts faster."]], "odd": [[["Sparkler burning", "Fizzing fruit salt", "Potato and peroxide", "Iron gate rusting"], "Iron gate rusting", "The others are over in seconds or minutes, but rusting an iron gate takes months."], [["Catalase", "Enzymes in spit", "Yeast enzymes", "Hydrogen peroxide"], "Hydrogen peroxide", "The others are enzymes that help changes go faster, but peroxide is the substance that gets changed."], [["Heating", "Crushing to powder", "Adding a catalyst", "Cooling"], "Cooling", "The others make a reaction faster, but cooling slows the particles and makes it slower."], [["Rusting", "Burning wood", "Milk turning sour", "Melting wax"], "Melting wax", "The others make new substances, but melted wax is still the same wax."], [["Crushed ice", "Powdered chalk", "Grated carrot", "Big stone"], "Big stone", "The others are broken into many small pieces with lots of surface, but a big stone has little surface."]]}
 }

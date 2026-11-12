@@ -67,12 +67,12 @@
   {
    "term": "Shivering",
    "meaning": "Shivering is when your muscles shake by themselves to make heat.",
-   "example": "Coming out of a cold river, your teeth chatter and your body shakes.",
+   "example": "When you come out of a cold river, your teeth chatter and your body shakes.",
    "art": "A child wrapped in a towel by a river, teeth chattering, small shake lines around them."
   },
   {
    "term": "Goosebumps",
-   "meaning": "Goosebumps are little bumps on your skin. Tiny muscles pull each hair up straight when you are cold.",
+   "meaning": "Goosebumps are little bumps on your skin. They come when you are cold, because tiny muscles pull each hair up straight.",
    "example": "When a cold wind blows on your arm, the hairs stand up.",
    "art": "A close-up of an arm with small bumps and hairs standing up."
   },
@@ -115,7 +115,7 @@
   {
    "term": "Dehydration",
    "meaning": "Dehydration means your body has lost more water than you have drunk.",
-   "example": "On a long, hot bus trip with no water, you might feel tired, dizzy and have a headache.",
+   "example": "On a long, hot bus trip with no water, you might feel tired and dizzy and get a headache.",
    "art": "A tired child in a hot bus, with an empty water bottle."
   },
   {
@@ -141,7 +141,7 @@
   {
    "concept": "What homeostasis is",
    "status": "defined",
-   "definition": "Homeostasis is the way a living thing keeps their inside steady and just right, even when the outside keeps changing.",
+   "definition": "Homeostasis is the way living things keep their inside steady and just right, even when the outside keeps changing.",
    "description": "Your body needs many things to stay just right. It needs the right warmth, the right amount of water, the right amount of salt and the right amount of sugar in the blood. If any of these goes too high or too low for long, the body cannot work well. So the body keeps checking each one, and fixing it when it drifts. Keeping balance takes small corrections all the time. Riding a bicycle is similar: you stay upright by steering a little left, then a little right.",
    "examples": [
     "On a hot day you sweat, and on a cold day you shiver. Both keep you near 37 degrees.",
@@ -178,7 +178,7 @@
    ],
    "perspectives": [],
    "art": "A zoomed-in drop of sweat on skin, with a few fast little balls flying off it carrying red 'heat' sparks.",
-   "context": "This card explains why sweating cools you down. Remember the tumbler test, where a wet cloth cooled one tumbler faster than a dry cloth cooled the other."
+   "context": "This card explains why sweating cools you down. In the Sweaty Tumbler Test, a wet cloth cooled one tumbler faster than a dry cloth cooled the other."
   },
   {
    "concept": "Shivering, goosebumps and curling up",
@@ -226,7 +226,7 @@
    "concept": "Why sticky monsoon days feel hotter",
    "status": "defined",
    "definition": "Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.",
-   "description": "Remember, sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Kochi during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.",
+   "description": "Sweat cools you only when it dries. Air can hold only so much water. In Rajasthan in May, the air is very dry, and sweat dries almost as soon as it comes out. In Chennai or Kochi during the monsoon, the air is already full of water. Your sweat sits on your skin and drips off. You feel sticky and hot, even at the same temperature. That is why weather reports sometimes give a 'feels like' temperature. It adds in the humidity.",
    "examples": [
     "Wet clothes dry fast on a dry, windy day, and slowly on a damp monsoon day.",
     "You feel sticky in a crowded, closed room.",
@@ -248,11 +248,11 @@
    "perspectives": [
     {
      "who": "Steven Sherwood and Matthew Huber, 2010",
-     "explanation": "They worked out a limit on paper. A wet-bulb temperature of 35 degrees, even for a healthy person resting in the shade with plenty of water, would be the edge of survival."
+     "explanation": "They worked out a limit on paper: a wet-bulb temperature of 35 degrees. At that level, even a healthy person resting in the shade with plenty of water would be at the edge of survival."
     },
     {
      "who": "Daniel Vecellio, Larry Kenney and others, 2022",
-     "explanation": "They tested young, healthy people in a hot, humid room. Their bodies could not keep steady at a lower number, about 31 degrees wet-bulb. So the real limit may be lower than the paper limit."
+     "explanation": "They tested young, healthy people in a hot, humid room. Their bodies stopped keeping steady at about 31 degrees wet-bulb, which is lower than 35. So the real limit may be lower than the paper limit."
     },
     {
      "who": "Colin Raymond and others, 2020",
@@ -265,7 +265,7 @@
   {
    "concept": "Why about 37 degrees?",
    "status": "idea",
-   "description": "Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. Lizards do not keep themselves warm, so they can eat far less than a mouse of the same size. So why pay so much? Scientists have ideas, but no final answer.",
+   "description": "Nobody knows for sure why mammals like us keep ourselves at about 37 degrees. Being warm costs a lot of food. Lizards do not keep themselves warm, so they can eat far less than a mouse of the same size. So why do mammals spend so much food on staying warm? Scientists have ideas, but no final answer.",
    "examples": [
     "Birds are even warmer than us, about 40 to 42 degrees.",
     "A lizard warms up by lying on a hot rock in the sun.",
@@ -328,7 +328,7 @@
    "concept": "Every living thing keeps balance",
    "status": "defined",
    "definition": "Homeostasis is not only for humans. All living things, even one tiny cell, keep their inside different from their outside, and just right.",
-   "description": "Each of your cells has tiny pumps in their skin. They push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria have pumps like these too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures wee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.",
+   "description": "Every one of your cells has a thin skin with tiny pumps in it. The pumps push one kind of salt out and pull another kind in, all day long. A big share of the energy you use at rest goes into these pumps. Bacteria have pumps like these too. Animals have many clever ways to stay just right. Dogs have sweat glands only on their paw pads, so they pant to cool down. Camels let their warmth go up by about 6 degrees during a hot day, to save water from sweating. Storks and some vultures pee on their own legs to cool off. Honeybees keep the middle of their hive at about 35 degrees. They fan with their wings, and spread water drops to cool it. Some sacred lotus flowers even keep themselves warm, at about 30 to 35 degrees, on cool nights.",
    "examples": [
     "A dog pants with their tongue out on a hot afternoon.",
     "A camel crosses the desert with little water.",
@@ -350,11 +350,11 @@
    "perspectives": [
     {
      "who": "James Lovelock and Lynn Margulis, 1970s",
-     "explanation": "Their Gaia idea says living things and the Earth together act like one self-regulating system that keeps conditions good for life."
+     "explanation": "Their Gaia idea says living things and the Earth together act like one system that keeps itself in balance, so that conditions stay good for life."
     },
     {
      "who": "James Walker, Paul Hays and James Kasting, 1981",
-     "explanation": "They described a slow rock thermostat that works even without life. Warmth speeds up rain and rock weathering, which pulls carbon dioxide out of the air. It takes hundreds of thousands of years."
+     "explanation": "They described a slow rock thermostat that works even without life. Warmth speeds up rain and weathering, which is rain slowly wearing rocks away. This pulls carbon dioxide out of the air. It takes hundreds of thousands of years."
     },
     {
      "who": "Many Earth scientists today",
@@ -362,7 +362,7 @@
     }
    ],
    "art": "The Earth drawn with a small dial on it, arrows of rain, rocks, forests and ocean plankton around it in a loop.",
-   "context": "This card goes out to the whole planet: does the Earth keep itself just right, like a body?"
+   "context": "This card asks about the whole planet: does the Earth keep itself just right, like a body?"
   },
   {
    "concept": "Is 'normal' body temperature changing?",
@@ -406,7 +406,7 @@
   },
   {
    "text": "Thirst and the kidneys keep the body's water balanced.",
-   "evidence": "When people drink less, their pee becomes darker and smaller in amount. When they drink more, their pee becomes paler and larger in amount. Blood tests show the saltiness of the blood stays nearly the same."
+   "evidence": "When people drink less, they make less pee, and it is darker. When they drink more, they make more pee, and it is paler. Blood tests show the saltiness of the blood stays nearly the same."
   },
   {
    "text": "Losing too much water and salt can be dangerous, and ORS can save lives.",
@@ -431,7 +431,7 @@
    "context": "This card is about whether sweating is a bad thing."
   },
   {
-   "claim": "Humans became such great sweaters so they could hunt by running animals down in the heat.",
+   "claim": "Humans came to sweat so much so that they could hunt by chasing animals for a long time in the heat.",
    "who": "Dennis Bramble and Daniel Lieberman, 2004.",
    "for": "Humans have millions of sweat glands and little fur. We can run long distances in the heat better than most animals. A few groups of hunters have done this kind of running hunt.",
    "against": "Other scientists say running hunts were rare. Sweating may have helped early humans walk and work in hot open land, without any hunting.",
@@ -481,12 +481,12 @@
    "hint": "Who decides to shiver? Is it you, or a part of you that works without asking?"
   },
   {
-   "q": "If your body is always changing water, heat and atoms, are you the same 'you' as last year?",
+   "q": "Your body is always losing water, heat and atoms, and taking in new ones. So are you the same 'you' as last year?",
    "kind": "big",
    "hint": "Think of a river. The water is always new, but we still call it the same river."
   },
   {
-   "q": "Why do you feel thirsty as a feeling, instead of your body just quietly fixing itself?",
+   "q": "Why do you have to feel thirsty? Why doesn't your body just fix its water quietly, without you noticing?",
    "kind": "deep",
    "hint": "What would happen if your body needed water, but you never felt like drinking?"
   },
@@ -540,7 +540,7 @@
    "When their mother came home in the cool of the evening, she found the two of them asleep on the floor beside me. The damp cloth was still over Imran's legs. The palm fan was still in Ruksana's hand. Ammi put the back of her fingers on her son's forehead, then on her daughter's. She went to the neighbour's house to fetch the nurse, just to be safe. Then she sat down beside me, and dipped the tumbler, and drank for a long time.",
    "People think that keeping cool means holding on to cold. It does not. I have never held on to anything. I stay cool because I let a little go, all the time, into the hot air. Ruksana understood that, that day, with her cheek against my side. I think she understood something else too, though I am only a pot, and I may be wrong. Her brother's body had been doing the same thing all along. It had only needed someone to help."
   ],
-  "epiphany": "For the parent: the matka is cool not because it is a cold thing, but because water seeps out and evaporates from its surface, carrying heat away. Ruksana's turn is realising that sweat works the same way, and that her brother's body had become too hot and dry to cool itself. A damp cloth and fanning do what sweat does, and ORS puts back water and salt. In real life, a hot, dry, floppy child in a heatwave needs a doctor or nurse quickly.",
+  "epiphany": "For the parent: the matka is cool not because it is a cold thing, but because water seeps out and evaporates from its surface, carrying heat away. The turning point is when Ruksana realises that sweat works the same way, and that her brother's body had become too hot and dry to cool itself. A damp cloth and fanning do what sweat does, and ORS puts back water and salt. In real life, a hot, dry, floppy child in a heatwave needs a doctor or nurse quickly.",
   "ask": [
    "Why was the water in the matka cooler than the air, even though the matka is made of baked clay?",
    "What did Ruksana notice when she put her cheek against the matka?",
@@ -643,7 +643,7 @@
     "Then you may play one body action card from your hand to move back towards 5. Say what your body is doing, out loud.",
     "If your counter is on 5 at the end of your turn, you win a star.",
     "At the end of every turn, pick up one new body action card from the draw pile. When that pile runs out, shuffle the played body cards to make a new pile.",
-    "If your counter reaches or goes past 1 or 9, you have gone too far. Your turn ends with no star. Rest and drink water: put your counter on 3 (from 1) or 7 (from 9), and talk about what a grown-up would do to help.",
+    "If your counter reaches or goes past box 1 or box 9, you have gone too far. Your turn ends with no star. Rest and drink water: put your counter on box 3 if you were at box 1, or on box 7 if you were at box 9. Then talk about what a grown-up would do to help.",
     "Each player has 5 turns, so the game uses 5 event cards for each player: 10 with 2 players, 15 with 3 and all 20 with 4. Put the unused event cards back in the box. The player with the most stars wins. If players tie, they share the win."
    ],
    "flow": [
@@ -696,7 +696,7 @@
      "id": "s4",
      "mins": 2,
      "do": "When someone reaches or passes box 1 or 9, stop the game and talk about it. Then move that counter to 3 or 7.",
-     "say": "You reached the edge! In real life, that is when the body cannot fix it alone. What would a grown-up do to help?",
+     "say": "You reached the edge! In real life, that is when the body cannot fix its warmth alone. What would a grown-up do to help?",
      "kid": "You reached the edge. Your body needs help now. What can a grown-up do?",
      "ask": [
       {
@@ -840,11 +840,11 @@
       "About 45 degrees in Chennai and 20 degrees in Delhi"
      ],
      "a": 1,
-     "why": "The inside of the body stays near 37 degrees in any weather. The skin may feel hot or cold, but the inside is kept steady. That is homeostasis. Picking 'it follows the weather' is the most common first guess."
+     "why": "The inside of the body stays near 37 degrees in any weather. The skin may feel hot or cold, but the inside is kept steady. That is homeostasis. The most common first guess is that the inside follows the weather."
     },
     {
      "t": "write",
-     "p": "Find the mistake. Priya, a girl in Class 3, says, 'Sweat cools me because sweat is cold water.' Use the Sweaty Tumbler Test to show what is wrong.",
+     "p": "Find the mistake in this sentence: 'Sweat cools me because sweat is cold water.' In the Sweaty Tumbler Test, a tumbler wrapped in a wet cloth cooled faster than a tumbler wrapped in a dry cloth. Use that test to show what is wrong.",
      "lines": 3,
      "a": "Sweat is not cold. It comes out as warm as I am. In the Sweaty Tumbler Test, the hanky was wet with tap water, not cold water, and that tumbler still cooled much more. The cooling came from the water drying. When sweat dries, it carries heat away from my skin.",
      "why": "A strong answer says sweat comes out warm, then uses the tumbler as evidence that drying, not coldness, does the cooling.",
@@ -884,7 +884,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Sweating, red skin and panting all help heat escape. Shivering makes heat. Curling up and pale fingers help keep the heat in. Pale fingers might look like 'cold', but the body is saving heat for its middle."
+     "why": "Sweating, red skin and panting all help heat escape. Shivering makes heat. Curling up and pale fingers help keep the heat in. Pale fingers might look like a way of cooling down, but the body is saving heat for its middle."
     },
     {
      "t": "fill",
@@ -937,7 +937,7 @@
       "Sweating stops"
      ],
      "a": "order shown",
-     "why": "Notice, decide, act, and then check again. When you are just right, the loop switches the sweating off."
+     "why": "The body notices, decides, acts, and then checks again. When you are just right, the loop switches the sweating off."
     },
     {
      "t": "mcq",
@@ -985,14 +985,14 @@
      "ask": "Whose advice do you think is best? Give a reason from this unit. Then say one thing another person gets right.",
      "lines": 5,
      "a": "A strong answer uses the science: sweat cools you as it dries, and you need enough water to keep sweating. It then gives another person a fair point, for example that cold water does take a little heat from your inside, or that the fan helps sweat dry.",
-     "why": "Each person has part of it. Cold water takes in some heat. Matka water and a fan are cheap and work well. But the body's main cooler is drying sweat, and that needs enough water."
+     "why": "Each person is partly right. Cold water takes in some heat. Matka water and a fan are cheap and work well. But the body's main cooler is drying sweat, and that needs enough water."
     },
     {
      "t": "write",
      "p": "Predict. A girl runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?",
      "lines": 3,
      "a": "Only a small one, less than a degree. Running makes extra heat, but her body gets rid of it fast. Warm blood goes to her skin, which is why her face feels hot, and she sweats. So the inside stays close to 37 degrees.",
-     "why": "A strong answer predicts a small change and explains it with the cooling tricks: blood to the skin and sweat. It notices that a hot face does not mean a hot inside. The My Steady Inside test checks this.",
+     "why": "A strong answer predicts a small change and explains it with the cooling tricks: blood to the skin and sweat. It notices that a hot face does not mean a hot inside. You check this in the My Steady Inside test, by taking your temperature under your arm before and after running.",
      "how": "e2"
     },
     {
@@ -1000,11 +1000,11 @@
      "p": "You can make yourself sweat just by deciding to, the way you decide to wave your hand.",
      "a": false,
      "how": "a1",
-     "why": "False. Sweating is done for you by a part of your brain, without your choosing. In Jump and Notice you could not sweat on purpose, but your body did it when you were hot."
+     "why": "False. Sweating is done for you by a part of your brain, without your choosing. In Jump and Notice, you jumped for one minute and your body sweated by itself. You cannot sweat on purpose."
     },
     {
      "t": "write",
-     "p": "Find the mistake. Ananya, a girl in Class 2, says, 'When I put on a jumper on a cold morning, the jumper makes heat to warm me.' What is wrong?",
+     "p": "Find the mistake in this sentence: 'When I put on a jumper on a cold morning, the jumper makes heat to warm me.' What is wrong?",
      "lines": 3,
      "a": "A jumper does not make heat. My body makes the heat, in my muscles and cells. The jumper holds a layer of still air next to my skin, so the heat I make does not escape so fast.",
      "why": "A strong answer says the heat comes from the body, and the jumper only keeps it in, like fur on a cat."
@@ -1100,7 +1100,7 @@
     },
     {
      "t": "sort",
-     "p": "You went on a Thermostat Hunt round the house. Sort these. Does it notice a change and correct it, like your body, or not?",
+     "p": "In the Thermostat Hunt, you looked around the house for machines that keep something just right. Sort these. Does it notice a change and correct it, like your body, or not?",
      "cats": [
       "Notices and corrects",
       "Does not"
@@ -1142,7 +1142,7 @@
       "The saltiness goes back to just right"
      ],
      "a": "order shown",
-     "why": "Again: change, notice, decide, act, and back to just right."
+     "why": "The thirst loop has the same steps as the sweating loop. Something changes, the body notices, decides and acts, and things go back to just right."
     },
     {
      "t": "draw",
@@ -1168,7 +1168,7 @@
        "says": "On a hot match day, drink before you feel thirsty. When you sweat a lot, thirst can come late."
       }
      ],
-     "ask": "Which view do you agree with most? Use your Water Diary or what you learned about thirst. Then say one thing another view gets right.",
+     "ask": "Which view do you agree with most? Use My Water Diary, where you counted your cups and checked your pee colour, or what you learned about thirst. Then say one thing another view gets right.",
      "lines": 5,
      "a": "A strong answer uses evidence: for example, the child's own cups and pee colour from the Water Diary, or that thirst comes when the blood gets a little salty. Then it fairly gives another view's best point, for example that on very hot days we lose water faster than thirst warns us.",
      "why": "This is a real argument. Thirst works well for most people on most days. But on hot, sweaty days, or for small children who forget to drink, it helps to drink before thirst comes.",
@@ -1229,7 +1229,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Remember the matka test, where a clay pot and a steel pot stood side by side with the same water? On which day would the matka cool its water best?",
+     "p": "In the Matka Test, a clay matka and a steel pot stood side by side with the same water. On which day would the matka cool its water best?",
      "opts": [
       "A humid, still monsoon day",
       "A day when the matka is painted with oil paint",
@@ -1287,7 +1287,7 @@
       "To make your bones heavier"
      ],
      "a": 1,
-     "why": "Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep their inside just right. All of this needs energy from food."
+     "why": "Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep the inside of the cell just right. All of this needs energy from food."
     },
     {
      "t": "write",
@@ -1316,14 +1316,14 @@
     },
     {
      "t": "draw",
-     "p": "Draw the Earth's slow rock thermostat as a loop: Earth gets warmer, more rain and weathering, less carbon dioxide in the air, Earth cools.",
+     "p": "Draw the Earth's slow rock thermostat as a loop: Earth gets warmer, more rain wears away rocks, less carbon dioxide in the air, Earth cools.",
      "a": "A loop of four arrows: warmer Earth, more rain washing rocks, less carbon dioxide, cooler Earth, back to the start.",
      "why": "This loop works over hundreds of thousands of years. It cannot fix fast changes, like the carbon dioxide people are adding today.",
      "art": "A blank circle with four empty boxes around it."
     },
     {
      "t": "mcq",
-     "p": "A lotus flower can keep itself at about 30 to 35 degrees on a cool night. What does this tell us?",
+     "p": "Lotus flowers can keep themselves at about 30 to 35 degrees on a cool night. What does this tell us?",
      "opts": [
       "Lotus flowers have fur",
       "Some plants can do a kind of warmth homeostasis too",
@@ -1342,7 +1342,7 @@
     },
     {
      "t": "write",
-     "p": "Challenge the belief. Many people say a hot cup of tea on a hot day cools you down. Others say it can only make you hotter. Use what you know about sweat to explain how both could be partly right. Does the weather, dry or humid, change your answer?",
+     "p": "Many people say a hot cup of tea on a hot day cools you down. Others say it can only make you hotter. Use what you know about sweat to explain how both could be partly right. Does it matter whether the day is dry or humid?",
      "lines": 5,
      "a": "The hot tea adds a little heat to my inside. But it also makes me sweat more. On a dry day, the extra sweat dries fast and takes away more heat than the tea added, so I may end up cooler. On a humid day, the sweat cannot dry well, so the tea may just make me hotter.",
      "why": "A strong answer weighs both: the heat the tea adds, and the cooling from extra sweat. It sees that the answer depends on whether the sweat can dry. A small study in 2012 found this in cyclists."
@@ -1377,7 +1377,7 @@
    "context": "This is the sweaty tumbler test. You wrap two tumblers of warm water, one in a wet cloth and one in a dry cloth, and put them in front of a fan. Then you measure which one cools down faster.",
    "question": "Does a wet cloth, like sweat on skin, cool something down faster than a dry cloth?",
    "predict": "Before you start, guess. Which tumbler will be cooler after 20 minutes: the one in the wet cloth or the one in the dry cloth? Or will they be the same? Why do you think so?",
-   "fair_test": "To make it fair, keep everything the same except the wet cloth. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Stand both on the same kind of plate, side by side, the same distance from the fan.",
+   "fair_test": "To make it fair, keep everything the same, except that one cloth is wet and one is dry. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Stand both on the same kind of plate, side by side, the same distance from the fan.",
    "results_table": [
     "Time (minutes)",
     "Wet cloth tumbler (degrees)",
@@ -1511,7 +1511,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Work out how much each tumbler dropped. Take the 20 minute number away from the 0 minute number.",
-     "say": "Let's see how much each tumbler cooled. Start number take away end number.",
+     "say": "Let's see how much each tumbler cooled. Take the end number away from the start number.",
      "kid": "Take the end number away from the start number. That is how much each tumbler cooled.",
      "check": {
       "t": "mcq",
@@ -1532,7 +1532,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three things: what I think, what I saw, and why.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer: What I think: being wet helps you cool down. What I saw: the wet cloth tumbler went from 40 to 31 degrees, and the dry one only went from 40 to 37. Why: the water dried in the fan's breeze and carried heat away. That is how sweat cools me.",
      "think": "What do you think would happen on a sticky, humid monsoon day, when the wet cloth dries slowly?",
      "context": "This is the last step of the sweaty tumbler test. You explain what you found."
@@ -1670,9 +1670,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the three numbers together. Then ask for claim, evidence and reasoning.",
+     "do": "Look at the three numbers together. Then ask your child to say what they think, what they saw, and why (claim, evidence and reasoning).",
      "say": "Your face felt very hot, but your inside only changed a tiny bit. Tell me: what do you think, what did you see, and why?",
-     "kid": "Look at your three numbers. Say three things. What I think. What I saw. Why.",
+     "kid": "Look at your three numbers. Say three things: what you think, what you saw, and why it happened.",
      "check": {
       "t": "mcq",
       "q": "After running, your face felt hot, but your temperature under your arm changed by less than one degree. Why?",
@@ -1682,7 +1682,7 @@
        "The thermometer was broken"
       ],
       "a": 0,
-      "why": "Running makes lots of heat in your muscles. But your body got rid of it fast, by sweating and sending warm blood to your skin. That is homeostasis keeping your inside steady. Picking 'running makes no heat' misses why your face got hot. Picking 'the thermometer was broken' is worth checking, but most children who try this find only a small change."
+      "why": "Running makes lots of heat in your muscles. But your body got rid of it fast, by sweating and sending warm blood to your skin. That is homeostasis keeping your inside steady. Picking 'running makes no heat' misses why your face got hot. It is worth checking whether the thermometer is broken, but most children who try this find only a small change."
      },
      "parent": "A good answer: What I think: my body keeps my inside steady. What I saw: my temperature went from 36.5 to 36.8 and back to 36.6, but my face felt very hot. Why: I sweated and my skin got red, so the heat got out.",
      "how": "e2",
@@ -1792,9 +1792,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Ask for claim, evidence and reasoning. Then compare the matka with sweaty skin.",
+     "do": "Ask your child to say what they think, what they saw, and why (claim, evidence and reasoning). Then compare the matka with sweaty skin.",
      "say": "How is the matka like your skin on a hot day? Tell me what you think, what you saw, and why.",
-     "kid": "How is the matka like your sweaty skin? Say three things. What I think. What I saw. Why.",
+     "kid": "How is the matka like your sweaty skin? Say three things: what you think, what you saw, and why it happened.",
      "check": {
       "t": "mcq",
       "q": "In the matka test on a dry day, the matka water ends up cooler than the steel pot water. What is the best reason?",
@@ -1868,7 +1868,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Straight after jumping, look in the mirror again. Ask what they notice and what they wonder.",
+     "do": "Straight after jumping, your child looks in the mirror again. Ask what they notice and what they wonder.",
      "say": "Look now! What do you notice about your face, your skin and your breathing? What do you wonder?",
      "kid": "Look in the mirror. What do you notice? Red cheeks? Sweat? Fast breathing? Are you thirsty?",
      "ask": [
@@ -2055,7 +2055,7 @@
      "do": "Walk around the house together. Look for the fridge, AC, geyser, iron, overhead tank float and pressure cooker.",
      "say": "Your body keeps itself just right. Some machines at home do this too. Let's find them. For each one, what does it keep steady?",
      "kid": "Hunt around your home. Find machines that keep something just right. Stick a note on each. What does it keep steady?",
-     "parent": "The fridge keeps cold. The AC and geyser keep warmth. The iron has a dial and a light that switches off when hot enough. The overhead tank's float valve shuts the water off when full. The pressure cooker whistle lets steam out when the pressure gets too high.",
+     "parent": "The fridge keeps its inside cold. The AC keeps the room's warmth steady, and the geyser keeps its water warm. The iron has a dial and a light that switches off when the iron is hot enough. The overhead tank's float valve shuts the water off when the tank is full. The pressure cooker whistle lets steam out when the pressure gets too high.",
      "context": "This is the first step of the Thermostat Hunt. You look for machines that keep something steady, like your body does."
     },
     {
@@ -2129,7 +2129,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play scenes. Make the toy sensors 'report': 'Too hot in the kitchen!', 'Cold wind!', 'The blood is getting salty!'. The mayor decides. You act the team.",
+     "do": "Play scenes. Make the toy sensors 'report': 'Too hot in the kitchen!', 'Cold wind!', 'The blood is getting salty!'. The mayor decides which team to send. You act out the team.",
      "say": "Skin Sensor reporting, Mayor! It is too hot in the kitchen! What do you order? ... Sweat Team on the way! Now the sensor says it is just right. What do you order now?",
      "kid": "Listen to the sensors. Decide which team to send. When things are just right again, tell the team to stop.",
      "ask": [
@@ -2321,7 +2321,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Add up each day's cups. 2. Draw a bar for each day. 3. Ask for claim, evidence and reasoning.",
+     "do": "1. Add up each day's cups. 2. Draw a bar for each day. 3. Ask your child to say what they think, what they saw, and why (claim, evidence and reasoning).",
      "say": "Let's add up your cups and draw a bar for each day. Which day did you drink most? What was your pee colour that day? What was the weather?",
      "kid": "Add up your cups for each day. Draw a bar for each day. Which day did you drink most? Why?",
      "check": {
@@ -2348,7 +2348,7 @@
    "title": "Cool the Shoebox Room, No Electricity",
    "mins": 30,
    "context": "This is a design challenge. A shoebox stands in the sun like a little room. Your job is to keep the inside as cool as you can, without using electricity.",
-   "problem": "Two shoeboxes stand in the sun, on a sunny windowsill or balcony. One is your test room, one stays plain. Make your room's inside as many degrees cooler than the plain box as you can by the end of 30 minutes.",
+   "problem": "Two shoeboxes stand in the sun, on a sunny windowsill or balcony. One is your test room, and one stays plain. Make the inside of your test room as cool as you can. After 30 minutes, see how many degrees cooler it is than the plain box.",
    "constraints": [
     "No electricity, no ice and no fridge.",
     "You may only use things from home.",
@@ -2356,7 +2356,7 @@
    ],
    "materials": [
     "two shoeboxes with their lids on, each with two small windows cut in opposite sides",
-    "a thermometer. With only one, move it from box to box and leave it inside for 2 minutes before you read it.",
+    "a thermometer. If you have only one, move it from box to box and leave it inside for 2 minutes before you read it.",
     "cotton cloth, water, a spray bottle, white paper, foil, a clay saucer or kulhad"
    ],
    "general": [
@@ -2388,7 +2388,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put both shoeboxes in the sun, with the windows facing the same way. 2. Put a thermometer inside each one. With only one thermometer, read one box, then the other. 3. Write down the starting numbers.",
+     "do": "1. Put both shoeboxes in the sun, with the windows facing the same way. 2. Put a thermometer inside each one. If you have only one thermometer, read one box, then the other. 3. Write down the starting numbers.",
      "say": "Here are two little rooms in the sun. In 30 minutes, which will be cooler inside? Let's make one of them cool, without any electricity.",
      "kid": "Put both boxes in the sun. Put a thermometer in each. Write the numbers.",
      "context": "This is the first step of the shoebox room challenge. You set up two boxes in the sun."
@@ -2519,7 +2519,7 @@
    "youtube": "Iz0Q9nTZCw4",
    "mins": 8,
    "why": "For the parent: a clear, friendly cartoon explanation of set points and feedback loops, with body temperature as the main example.",
-   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
+   "check": "We checked that this video is on YouTube with this title and channel, but we have not watched it. A parent may want to preview it."
   },
   {
    "title": "Why Do We Sweat? | Sports Science | SciShow Kids",
@@ -2527,7 +2527,7 @@
    "youtube": "c2_aN98p0RM",
    "mins": 4,
    "why": "For the child: why sweating cools us, told simply.",
-   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
+   "check": "We checked that this video is on YouTube with this title and channel, but we have not watched it. A parent may want to preview it."
   },
   {
    "title": "Temperature Regulation Of The Human Body | Physiology | Biology | FuseSchool",
@@ -2535,13 +2535,13 @@
    "youtube": "vJhsyS4lTW0",
    "mins": 5,
    "why": "For curious children and parents: sweating, shivering, blood vessels and the hypothalamus in one short animation.",
-   "check": "Title and channel checked against YouTube on the playtest; the video itself was not watched, so a parent may preview it."
+   "check": "We checked that this video is on YouTube with this title and channel, but we have not watched it. A parent may want to preview it."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "Gayathri, a girl in Class 3, plays in the noon sun. Then she sits in a room with the AC on. What happens to the temperature of her inside?",
+   "p": "A girl plays in the noon sun. Then she sits in a room with the AC on. What happens to the temperature inside her body?",
    "opts": [
     "It goes up to match the sun",
     "It stays close to 37 degrees the whole time",
@@ -2609,7 +2609,7 @@
     "You ate too much sugar"
    ],
    "a": 1,
-   "why": "When you are low on water, your kidneys save it, so your pee is smaller in amount and darker. Picking 'drank too much' is the opposite: lots of water makes pee pale.",
+   "why": "When you are low on water, your kidneys save it, so you make less pee and it is darker. Picking 'drank too much' is the opposite: lots of water makes pee pale.",
    "outcome": 2
   },
   {
@@ -2639,7 +2639,7 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the sweaty tumbler test, with a wet cloth and a dry cloth on two tumblers of warm water by a fan? Why did we use the same tumblers and the same water?",
+   "p": "In the Sweaty Tumbler Test, two tumblers of warm water stood by a fan, one in a wet cloth and one in a dry cloth. Why did we use the same tumblers and the same water?",
    "opts": [
     "To save washing up",
     "To make it a fair test, so only the wet cloth was different",
@@ -2685,7 +2685,7 @@
     "That thirst makes us drink"
    ],
    "a": 1,
-   "why": "The other three are well tested. Why 37 is still an open question, with ideas like keeping fungi out.",
+   "why": "The other three are well tested. Scientists have ideas about why we are about 37 degrees, like keeping fungi out, but no sure answer yet.",
    "outcome": 6
   },
   {
@@ -2752,14 +2752,14 @@
  "open_questions": [
   {
    "q": "Why did mammals end up at about 37 degrees, and birds at about 40?",
-   "why_open": "There are ideas, like keeping fungi out, but no test can rewind evolution to check."
+   "why_open": "There are ideas, like keeping fungi out, but nobody can go back and watch how mammals and birds became this way."
   },
   {
    "q": "Exactly how hot and humid can it get before healthy people cannot survive?",
    "why_open": "It is hard and unsafe to test on people. Different studies give different limits, and it depends on age, health and work."
   },
   {
-   "q": "How does the brain choose its set points, and move them, as in a fever?",
+   "q": "How does the brain choose its set points, and how does it move them, as it does in a fever?",
    "why_open": "Scientists know some of the brain cells involved, but not the full picture of how they work together."
   },
   {
@@ -2823,7 +2823,7 @@
  ],
  "maths": [
   {
-   "problem": "In the sweaty tumbler test, both tumblers started at 40 degrees. After 20 minutes, the wet cloth tumbler was 31 degrees. The dry cloth tumbler was 37 degrees. How many degrees did each one cool? How many times as much did the wet one cool?",
+   "problem": "In the sweaty tumbler test, both tumblers started at 40 degrees. After 20 minutes, the wet cloth tumbler was 31 degrees. The dry cloth tumbler was 37 degrees. How many degrees did each one cool? How many times as much did the wet one cool as the dry one?",
    "answer": "The wet one cooled 9 degrees. The dry one cooled 3 degrees. The wet one cooled 3 times as much.",
    "explain": "40 take away 31 is 9. 40 take away 37 is 3. 9 divided by 3 is 3. You can check: 3 + 3 + 3 = 9.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -3049,7 +3049,7 @@
    "a": "Water creeps through tiny holes and dries, keeping the water cool."
   },
   {
-   "q": "Notice, decide, act. What is this loop called?",
+   "q": "Something notices a change, something decides, and something acts to undo it. What is this loop called?",
    "a": "A feedback loop."
   },
   {
@@ -3144,7 +3144,7 @@
  "roots": {
   "context": "We have been learning how the body keeps itself just right, by sweating, shivering and feeling thirsty. Now we ask what this steady balance tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "After jumping, your cheeks turned red. You did not decide to do that. A small part of your brain felt the heat and opened up the blood vessels in your skin. So your body checks and corrects its own warmth all day, without asking you.",
+   "truth": "In Jump and Notice, you jumped for one minute and your cheeks turned red. You did not decide to do that. A small part of your brain felt the heat and opened up the blood vessels in your skin. So your body checks and corrects its own warmth all day, without asking you.",
    "habit": "We think of 'me' as the one who runs our body, because we choose to walk, eat and talk. But our warmth is kept by a loop that works without our noticing: sensors notice, the hypothalamus compares with about 37 degrees, and skin and muscles act.",
    "evidence": "In Jump and Notice, your cheeks went red and you could not sweat on purpose. In My Steady Inside, your face felt hot after running, but the thermometer under your arm rose less than one degree."
   },
@@ -3153,11 +3153,11 @@
    "what_is_life": "All living things keep their inside just right while the outside changes. A cell, a beehive and a lotus flower all do it.",
    "what_is_this_world": "Your heat and water leave you all the time, into the air of the room. Food and drink from the world bring them back."
   },
-  "thread": "The same loop keeps balance at every size. One cell pumps salt to keep their inside right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it.",
+  "thread": "The same loop keeps balance at every size. Each cell pumps salt to keep the inside of the cell right. Your hypothalamus keeps your whole body near 37 degrees. Honeybees fan their wings to keep their hive near 35 degrees. Each one notices a change and acts to undo it.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.14",
-    "teaching": "Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily.",
+    "teaching": "In the Gita, Krishna says that cold and heat, pleasure and pain, come from the senses touching the world. They come and go. They do not last. Learn to bear them steadily.",
     "link": "The Gita is talking about the mind, not body warmth. But it uses the same example: heat and cold come and go, and something in you can stay steady while they do."
    },
    {
@@ -3195,7 +3195,7 @@
    "Your hypothalamus decides when you sweat, and you do not notice it deciding. Is that still you deciding?",
    "Who keeps you just right while you sleep?",
    "When your sweat dries into the air, is it still part of you?",
-   "A lotus flower keeps itself warm on a cool night. What do you think the flower senses while it does that?"
+   "Lotus flowers keep themselves warm on a cool night. What do you think the flowers sense while they do that?"
   ],
   "art": "A child sitting cross-legged, with a loop of three arrows around them: a skin sensor, a glowing almond-shaped spot in the brain, and a drop of sweat. A sun and a snowflake sit outside the loop."
  },

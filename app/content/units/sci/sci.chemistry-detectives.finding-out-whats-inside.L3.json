@@ -3,7 +3,7 @@
  "title": "Chemistry detectives: how ink and flames show what things are made of",
  "level": 3,
  "summary": {
-  "text": "A black sketch pen seems to hold one black ink. Put a dot of it on a paper strip and let water climb the paper. The black spreads out into other colours, such as blue, purple or yellow. Most black ink is a mixture: several dyes mixed together. The water carries each dye a different distance, so the dyes come apart. This way of separating a mixture is called chromatography. A flame can also show what is inside a thing. Salt turns a blue gas flame yellow-orange, because salt has sodium in it. Each element gives a flame its own colour. Chemists use tests like these to find out what things are made of, even the Sun.",
+  "text": "A black sketch pen seems to hold one black ink. Put a dot of it on a paper strip and let water climb the paper. The black spreads out into other colours, such as blue, purple or yellow. Most black ink is a mixture: several dyes mixed together. The water carries each dye a different distance, so the dyes come apart. This way of separating a mixture is called chromatography. A flame can also show what is inside a thing. Salt turns a blue gas flame yellow-orange, because salt has sodium in it. Each element gives a flame its own colour. Chemists use tests like these to find out what things are made of. They have even found out what the Sun is made of.",
   "art": "A paper strip hanging into a steel tumbler of water, with a black dot that has spread into blue, purple and yellow bands. Beside it, a blue gas flame flashing yellow-orange as a few grains of salt fall in."
  },
  "intro": {
@@ -60,7 +60,7 @@
   {
    "term": "Chromatogram",
    "meaning": "A chromatogram is the pattern of coloured bands left on the paper after chromatography.",
-   "example": "Your dried strip, with its bands of colour, is a chromatogram. Each ink makes its own.",
+   "example": "A dried paper strip, with its bands of colour, is a chromatogram. Each ink makes its own.",
    "art": "Three dried strips stuck in a notebook, each with a different pattern of bands, labelled A, B and C."
   },
   {
@@ -165,7 +165,7 @@
    "concept": "Chromatography in labs today",
    "status": "defined",
    "definition": "Chemists use chromatography to separate and find the substances in almost any mixture, such as food, medicines, blood, water and air.",
-   "description": "In a lab, the mixture is often pushed through a long, thin tube packed with powder. Each substance comes out of the far end at its own time. A machine notes when each one comes out and how much of it there is. Food labs check whether spices have added colours. Hospital labs test blood. Sports labs test for banned medicines. Forensic scientists compare the inks on documents. All of them use the same idea as your paper strip.",
+   "description": "In a lab, the mixture is often pushed through a long, thin tube packed with powder. Each substance comes out of the far end at its own time. A machine notes when each one comes out and how much of it there is. Food labs check whether spices have added colours. Hospital labs test blood. Sports labs test for banned medicines. Forensic scientists compare the inks on documents. All of them use the same idea as the paper strip in the Which Pen test.",
    "examples": [
     "Food safety labs in India test chilli and turmeric powder for colours that are not allowed.",
     "A hospital lab can test a small sample of blood for many medicines at once."
@@ -205,7 +205,7 @@
    "concept": "Reading what the Sun is made of",
    "status": "defined",
    "definition": "Sunlight split into its colours has thin dark lines in it. Each element makes its own set of lines, so the lines show which elements are in the Sun.",
-   "description": "Sodium gives out two thin yellow lines. Sunlight has two thin dark lines in exactly the same place. In 1859, Gustav Kirchhoff showed why. Sodium in the Sun's outer layers takes in that yellow light, so it goes missing from sunlight. Since then, astronomers have read the light of stars to find what they are made of. Most stars, like the Sun, are mostly hydrogen and helium. Helium was found in the Sun's light 27 years before anyone found it on Earth.",
+   "description": "Split by a prism, sodium's light shows two thin yellow lines. Sunlight split the same way has two thin dark lines in exactly the same place. In 1859, Gustav Kirchhoff showed why. Sodium in the Sun's outer layers takes in that yellow light, so it goes missing from sunlight. Since then, astronomers have read the light of stars to find what they are made of. Most stars, like the Sun, are mostly hydrogen and helium. Helium was found in the Sun's light 27 years before anyone found it on Earth.",
    "examples": [
     "Iron, calcium and sodium have all been found in the Sun from its light.",
     "The Sun is about 15 crore kilometres away, and nobody has ever taken a sample of it."
@@ -453,7 +453,7 @@
        "b": "No. It shows which pen, not whose hand. You need more questions for that."
       },
       {
-       "f": "TEST IT: make a dot with any sketch pen on a dry strip, then run the strip in water. Guess first: how many colours?",
+       "f": "TEST IT: make a dot with any sketch pen on a dry strip. First guess how many colours you will see. Then run the strip in water.",
        "b": "Do the test and tell everyone what you found."
       }
      ]
@@ -473,7 +473,7 @@
     "Put every counter on square 0, the lab door. You need a die.",
     "On your turn, another player reads you the top card. Playing alone? Read the card, answer it, then turn it over to check.",
     "Right answer: roll the die and move that many squares. Wrong answer: stay where you are, and read the back aloud.",
-    "If you land on a square with a message by rolling, do what it says. If a square sends you to another square, do not follow the message there.",
+    "If your roll lands you on a square with a message, do what it says. If that message moves you to another square with a message, ignore the second message.",
     "When the cards run out, shuffle them and use them again.",
     "The first player to reach or pass square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer."
    ],
@@ -491,7 +491,7 @@
      "mins": 15,
      "do": "Take turns. Read each card aloud to the player whose turn it is. Check the answer on the back.",
      "say": "Here is your card. Take your time. What do you think, and why?",
-     "kid": "Listen to your card. Answer it. Right? Roll the die!",
+     "kid": "Listen to your card and answer it. If you are right, roll the die.",
      "parent": "On a wrong answer, read the back aloud and ask your child to say it in their own words. The TEST IT card needs a strip of kitchen towel and a tumbler of water nearby."
     },
     {
@@ -610,7 +610,7 @@
    "context": "In this experiment a grown-up writes a secret letter with one of three dark pens. You make a strip for each pen and let water climb them. Then you match the secret letter's colours to find the pen.",
    "question": "Three dark pens look almost the same. Can water and paper show which one wrote a secret letter?",
    "predict": "Look at the three pens' marks on paper. Do you think their inks are the same? What do you think each ink will do when the water reaches it? Why do you think so?",
-   "fair_test": "Use the same kind of strip for every pen. Draw every dot on a pencil line 2 cm from the bottom, the same size, gone over 3 times. Dip every strip 1 cm into the same water, for the same time. Only the pen changes.",
+   "fair_test": "Use the same kind of strip for every pen. Draw every dot the same size, on a pencil line 2 cm from the bottom, and go over each dot 3 times. Dip every strip 1 cm into the same water, for the same time. Only the pen changes.",
    "results_table": [
     "Strip",
     "My guess: what will the ink do?",
@@ -661,14 +661,14 @@
      "mins": 4,
      "do": "1. Lay the three pens on the table. Call them A, B and C. 2. Scribble a little with each on scrap paper. 3. Ask the questions below.",
      "say": "These three inks all look dark. Do you think they are the same ink? What will each one do when water reaches it? Why?",
-     "kid": "Look at the three scribbles. Are the inks the same? Guess what water will do. Why?",
+     "kid": "Look at the three scribbles. Are the inks the same? Guess what water will do to each ink. Why do you think so?",
      "ask": [
       {
-       "q": "What do you think will happen to the black dot?",
+       "q": "What do you think will happen to a dot of each ink when water reaches it?",
        "good": [
         "It will stay black.",
         "It might spread out.",
-        "It might turn into other colours, like the intro strip."
+        "It might turn into other colours, like the black dot in One Dot, Five Minutes."
        ]
       }
      ],
@@ -728,9 +728,9 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Put the star strip next to strips A, B and C. 2. Find the one with the same colours in the same order. 3. Ask your child to say what they think, what they saw, and why.",
+     "do": "1. Put the secret letter's strip, the one with the star, next to strips A, B and C. 2. Find the one with the same colours in the same order. 3. Ask your child to say what they think, what they saw, and why.",
      "say": "Which strip matches the secret letter? What is your evidence? Tell me what you think, what you saw, and why.",
-     "kid": "Put the star strip next to A, B and C. Which one matches? Say what you think, what you saw, and why.",
+     "kid": "Put the secret letter's strip, the one with the star, next to A, B and C. Which one matches? Say what you think, what you saw, and why.",
      "check": {
       "t": "mcq",
       "q": "The secret letter's strip shows a blue band low down and a pink band higher up. Strip A shows blue and purple. Strip B shows blue low down and pink higher up. Strip C did not move. Which pen wrote the letter?",
@@ -835,7 +835,7 @@
      "do": "Wait until the water is about 1 cm from the top of the strips. Then lift them all out together and lay them flat.",
      "say": "Which colours are splitting? Which are staying together?",
      "kid": "Watch. Which colours split? Which stay as one?",
-     "parent": "Results depend on the maker. Often yellow and blue stay as one dye. Green often splits into yellow and blue, and brown and black into three or more."
+     "parent": "Results depend on the maker. Often yellow and blue stay as one dye. Green often splits into yellow and blue. Brown and black often split into three or more colours."
     },
     {
      "id": "s4",
@@ -933,7 +933,7 @@
      "mins": 4,
      "do": "1. The child stands at least one metre from the stove. 2. The grown-up lights one burner on low. 3. Look at the flame's colour before testing anything.",
      "say": "Look at the flame first. What colour is it? We need to know that before we test anything.",
-     "kid": "Stand back one big step. Look at the flame. What colour is it?",
+     "kid": "Stand at least one metre from the stove. Look at the flame. What colour is it?",
      "adult": true,
      "parent": "A gas flame is mostly blue. Remember this colour, because it is the 'before' for every test."
     },
@@ -996,7 +996,7 @@
    "title": "One Dot, Five Minutes",
    "mins": 8,
    "days": 1,
-   "context": "A quick first look. You put one black dot on a strip and watch what water does to it, before learning anything about it.",
+   "context": "This is a quick first look. You put one black dot on a strip and watch what water does to it, before learning anything about it.",
    "materials": [
     {
      "item": "one black sketch pen",
@@ -1050,18 +1050,18 @@
      "id": "s3",
      "mins": 1,
      "do": "Lift the strip out and lay it on a plate.",
-     "say": "Keep that question in your head. The Which Pen test will help us answer it.",
-     "kid": "Lift it out. Keep your question. We will answer it soon.",
+     "say": "Where did the colours come from? Keep that question in your head. The Which Pen test will help us answer it.",
+     "kid": "Lift the strip out. Where did the colours come from? Remember that question. The Which Pen test will help answer it.",
      "check": {
       "t": "mcq",
-      "q": "Which of these is the best question to ask next?",
+      "q": "A black dot spread into other colours on a wet strip. Which of these is the best question to ask next?",
       "options": [
        "Was the colour already in the black ink?",
        "Is the water magic?",
        "Is the paper dirty?"
       ],
       "a": 0,
-      "why": "This question can be tested: try other black pens, or mix two colours on one dot and see if they come apart too. The other two questions are much harder to test."
+      "why": "'Was the colour already in the black ink?' can be tested: try other black pens, or mix two colours on one dot and see if they come apart too. The other two questions are much harder to test."
      }
     }
    ],
@@ -1137,7 +1137,7 @@
        "The chalk was dirty"
       ],
       "a": 1,
-      "why": "The leaf colour was a mixture. As the liquid ran through the chalk, each substance moved at its own speed, so they spread into bands. It is the same idea as your paper strip. The chalk does not add colour: try a plain chalk stick in water, and it stays white."
+      "why": "The leaf colour was a mixture. As the liquid ran through the chalk, each substance moved at its own speed, so they spread into bands. It is the same idea as a sketch pen dot on a wet paper strip. The chalk does not add colour: try a plain chalk stick in water, and it stays white."
      }
     }
    ],
@@ -1198,7 +1198,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Lay the circle flat on top of the empty tumbler. 2. Drip water onto the very centre, a few drops at a time, from a teaspoon. 3. Stop when the colours are near the edge.",
-     "say": "Slowly, a few drops at a time. Watch the colours race outwards.",
+     "say": "Drip slowly, a few drops at a time. Watch the colours spread outwards.",
      "kid": "Put the circle on the tumbler. Drip water in the middle, slowly. Watch.",
      "parent": "Too much water at once makes the colours run together into a puddle. Five or six teaspoons over a few minutes is usually enough."
     },
@@ -1301,7 +1301,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. The grown-up gives the mystery plate. 2. The child chooses which tests to do. 3. They name the powder and give their evidence.",
+     "do": "1. The grown-up gives the child a plate with the mystery powder on it. 2. The child chooses which tests to do. 3. The child names the powder and gives their evidence.",
      "say": "Here is the mystery powder. Which tests will you use? What is it, and how do you know?",
      "kid": "Test the mystery powder. What is it? How do you know?",
      "check": {
@@ -1364,7 +1364,7 @@
      "mins": 5,
      "do": "Help your child make a spotter page with three columns: where, colour, element.",
      "say": "This week, let's look out for coloured flames and lights. Watch the stove when milk or rasam boils over. Look at orange street lights, if your road still has them.",
-     "kid": "Make a page. Where? What colour? Which element? Look all week.",
+     "kid": "Make a page with three columns: where, what colour, which element. Look for coloured flames and lights all week.",
      "context": "This is a week-long spotting activity. You look for coloured flames and lights and guess which element made them."
     },
     {
@@ -1489,11 +1489,11 @@
    "id": "c1",
    "title": "The Sharpest Bands",
    "mins": 30,
-   "problem": "On your first strips, the bands may have been blurry and close together. Find a way to make the colours of one black pen come apart further and more sharply.",
+   "problem": "On the strips from the Which Pen test, the bands may have been blurry and close together. Find a way to make the colours of one black pen come apart further and more sharply.",
    "constraints": [
     "Use the same black pen for every try.",
     "Use only things from home.",
-    "Keep your first strip, so you can compare."
+    "Keep a strip from the Which Pen test, so you can compare."
    ],
    "materials": [
     "the same black sketch pen",
@@ -1511,15 +1511,15 @@
     "Add a pinch of salt to the water and compare. A different liquid can change how far each dye travels.",
     "Use a stick of chalk instead of paper, like Mikhail Tsvet's chalk column."
    ],
-   "your_turn": "Now design your own way. Change only one thing at a time, run the strip, and compare it with your first one. Which change made the biggest difference?",
+   "your_turn": "Now design your own way. Change only one thing at a time, run the strip, and compare it with the strip from the Which Pen test. Which change made the biggest difference?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Look at a strip from the Which Pen test. 2. Find the bands that are blurry or too close together.",
      "say": "Engineers start by looking at the problem closely. Where are the colours running into each other?",
-     "kid": "Look at your old strip. Which colours are blurry or squashed together?",
-     "context": "This is the first step of the Sharpest Bands challenge. You look at what went wrong with your first strips."
+     "kid": "Look at a strip from the Which Pen test. Which colours are blurry or squashed together?",
+     "context": "This is the first step of the Sharpest Bands challenge. You look at a strip from the Which Pen test and find the bands that are blurry or too close together."
     },
     {
      "id": "s2",
@@ -1531,7 +1531,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Try each idea with a new strip. 2. Measure the gap between the bands. 3. Compare with the first strip.",
+     "do": "1. Try each idea with a new strip. 2. Measure the gap between the bands. 3. Compare with the strip from the Which Pen test.",
      "say": "Which change spread the colours furthest apart? How do you know?",
      "kid": "Try each idea. Measure the gap between colours. Which is best?"
     },
@@ -1543,7 +1543,7 @@
      "kid": "Which idea worked best? Why?",
      "check": {
       "t": "mcq",
-      "q": "Meena, a girl in Class 3, made her strip twice as long, and her bands spread further apart. Why?",
+      "q": "A strip is made twice as long, and the bands spread further apart. Why?",
       "options": [
        "The dyes had further to travel, so the faster ones got further ahead",
        "Longer paper has more dye in it",
@@ -1602,7 +1602,7 @@
     "An element"
    ],
    "a": 1,
-   "why": "Salt water is two substances mixed but not joined, so it is a mixture. When the water dries up, the salt is left behind. Picking 'element' means mixing up an element, one kind of atom, with any material.",
+   "why": "Salt water is two substances mixed but not joined, so it is a mixture. When the water dries up, the salt is left behind. An element is a substance made of only one kind of atom, and salt water is not that.",
    "outcome": 0
   },
   {
@@ -1640,7 +1640,7 @@
     "There was more blue in the dot"
    ],
    "a": 1,
-   "why": "The water carries each dye up, and the paper holds each dye back. A dye that holds the paper less strongly travels further. Picking 'more blue' is a natural guess, but a bigger amount gives a darker band, not a longer trip.",
+   "why": "The water carries each dye up, and the paper holds each dye back. A dye that holds on to the paper less strongly travels further. Picking 'more blue' is a natural guess, but a bigger amount gives a darker band, not a longer trip.",
    "outcome": 1,
    "how": "e1"
   },
@@ -1659,14 +1659,14 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3, tests three pens. She uses kitchen towel for pen A, blotting paper for pen B and newspaper for pen C. Why is this not a fair test?",
+   "p": "You test three pens. You use kitchen towel for pen A, blotting paper for pen B and newspaper for pen C. Why is this not a fair test?",
    "opts": [
-    "She changed the paper as well as the pen",
-    "She used too many pens",
-    "She should have used ink, not pens"
+    "The paper changed as well as the pen",
+    "Too many pens were used",
+    "Ink should have been used, not pens"
    ],
    "a": 0,
-   "why": "In a fair test only one thing changes. Kavya changed the pen and the paper, so she cannot tell whether a difference came from the ink or from the paper.",
+   "why": "In a fair test only one thing changes. Here the pen and the paper both changed, so you cannot tell whether a difference came from the ink or from the paper.",
    "outcome": 2
   },
   {
@@ -1753,7 +1753,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "Lakshmi, a girl in Class 3 in Kochi, looks at things in her kitchen. Sort each one: is it a mixture or a pure substance?",
+     "p": "Sort each of these things: is it a mixture or a pure substance?",
      "cats": [
       "Mixture",
       "Pure substance"
@@ -1818,7 +1818,7 @@
       "The ink pulls the water up"
      ],
      "a": 1,
-     "why": "Paper is made of tiny fibres with tiny gaps between them. Water creeps up through the gaps. This is capillary action. A plain strip with no ink climbs just as well, so the ink is not pulling it.",
+     "why": "Paper is made of tiny fibres with tiny gaps between them. Water creeps up through the gaps. This is capillary action. Water climbs a plain strip with no ink just as well, so the ink is not pulling it.",
      "how": "e1"
     },
     {
@@ -1878,7 +1878,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun puts four dots on one strip: a black sketch pen, a green sketch pen, a ballpoint pen and a brown sketch pen. Which dot will most likely stay where it is?",
+     "p": "Four dots are put on one strip: a black sketch pen, a green sketch pen, a ballpoint pen and a brown sketch pen. The strip is dipped in water. Which dot will most likely stay where it is?",
      "opts": [
       "The black sketch pen",
       "The green sketch pen",
@@ -1980,7 +1980,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Which Pen test, the water climbed 10 cm and a blue dye went 5 cm, half the way. Divya runs the same pen on a strip where the water climbs 20 cm. About how far will the blue dye go?",
+     "p": "In the Which Pen test, the water climbed 10 cm and a blue dye went 5 cm, half the way. The same pen is run on a strip where the water climbs 20 cm. About how far will the blue dye go?",
      "opts": [
       "5 cm",
       "10 cm",
@@ -2161,10 +2161,10 @@
      ],
      "a": [
       "The pencil line is near the bottom.",
-      "Where the dot started is on the pencil line.",
+      "The dot started on the pencil line.",
       "The blue band is the highest colour.",
       "The purple band is between the start and the blue band.",
-      "How far the water reached is a pencil mark near the top."
+      "A pencil mark near the top shows how far the water reached."
      ],
      "why": "A strong answer sees that every colour started on the pencil line, and that no colour went further than the water.",
      "how": "e1",
@@ -2199,7 +2199,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Lakshmi has a bottle of green food colour. Design a test to find out whether it is one dye or a mixture. Say what you would use, what you would do, and what each result would mean.",
+     "p": "You have a bottle of green food colour. Design a test to find out whether it is one dye or a mixture. Say what you would use, what you would do, and what each result would mean.",
      "lines": 6,
      "a": "Use a strip of kitchen towel, a pencil line 2 cm from the bottom, one small drop of food colour on the line, and a tumbler with 1 cm of water. Hang the strip so the end dips in. If the green stays as one band, it is probably one dye. If it splits into yellow and blue bands, it is a mixture.",
      "why": "A strong answer names the materials, the steps and what each result would show. An even stronger one runs a yellow and a blue food colour beside it to compare."
@@ -2241,7 +2241,7 @@
     },
     {
      "t": "draw",
-     "p": "Predict: you put a yellow dot and a blue dot on top of each other on one strip, and run it. Draw what you expect. Then draw what a green sketch pen strip looked like, if you tested one. Are they alike?",
+     "p": "You put a yellow dot and a blue dot on top of each other on one strip, and run it in water. Draw what you expect to see. Then draw what a green sketch pen strip looked like, if you tested one. Are they alike?",
      "a": "Two strips. The yellow and blue mix splits into a yellow band and a blue band. The green strip may show the same two colours.",
      "why": "If a green ink gives the same bands as yellow plus blue, that is strong evidence that the green is a mixture of a yellow dye and a blue dye.",
      "how": "e2",
@@ -2383,9 +2383,9 @@
     },
     {
      "t": "write",
-     "p": "A friend runs a green pen on a paper strip and sees only one green band. She says, 'So this ink must be one dye.' Is she certain? What could you try next?",
+     "p": "A friend runs a green pen on a paper strip and sees only one green band. She says, 'So this ink must be one dye.' Can she be sure? What could you try next?",
      "lines": 4,
-     "a": "She is not certain. Two dyes can travel together on one paper and look like one band. A strong answer suggests trying another paper or another liquid, or dotting the pen next to a yellow pen and a blue pen to compare.",
+     "a": "She cannot be sure. Two dyes can travel together on one paper and look like one band. A strong answer suggests trying another paper or another liquid, or dotting the pen next to a yellow pen and a blue pen to compare.",
      "why": "A test that shows one band does not prove the ink is one dye. Chemists try a second test before they decide."
     },
     {
@@ -2777,7 +2777,7 @@
  "roots": {
   "context": "We have pulled ink apart with water and seen salt colour a flame. Now we ask what these tests tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Two black pens looked exactly alike. On wet paper, each black ink spread into its own set of colours. Each black was a mix of dyes, and water carried each dye its own distance. So things that look the same can be made of different things, and a test can show which.",
+   "truth": "In the Which Pen test, two black pens looked exactly alike. On wet paper, each black ink spread into its own set of colours. Each black was a mix of dyes, and water carried each dye its own distance. So things that look the same can be made of different things, and a test can show which.",
    "habit": "We decide what a thing is by how it looks: black ink is black ink, and a white powder is a white powder. Looks only show the surface. What a thing is made of shows up in how it behaves when we test it.",
    "evidence": "In the Which Pen test, black pens that looked the same on paper gave different bands on the wet strips, and the secret letter matched only one of them. In the flame test, salt water and sugar water looked the same, but only the salt water turned the flame yellow-orange."
   },
@@ -2830,9 +2830,9 @@
  "how_we_found_out": {
   "context": "How did people find out what the Sun is made of, when nobody can go there? This card tells the true story.",
   "story": "In 1835, the French philosopher Auguste Comte wrote about the stars. We can measure their shapes, distances and movements, he said, but we will never know what they are made of. It seemed obvious. Nobody can travel to a star. In Heidelberg, in Germany, the chemist Robert Bunsen was studying the colours that substances give to a flame. His new gas burner made a hot flame that was almost colourless, so each colour showed clearly. But some colours looked alike. His friend Gustav Kirchhoff, a physicist, suggested splitting the light with a prism. In 1859 they found that each element gave its own set of thin coloured lines. Sodium always gave two yellow lines, close together. Sunlight split by a prism has thin dark lines in it, and two of them sat exactly where sodium's yellow lines were. Kirchhoff shone sunlight through a flame with sodium in it, and those dark lines grew darker. Sodium takes in the same colour it gives out. So there is sodium in the Sun. In 1860, the two men saw new blue lines in spring water. They had found a new element, and named it caesium, from a Latin word for sky blue. Comte had died two years before he was shown to be wrong.",
-  "who": "Robert Bunsen, a German chemist, and Gustav Kirchhoff, a German physicist, proving Auguste Comte, a French philosopher, wrong",
+  "who": "Robert Bunsen, a German chemist, and Gustav Kirchhoff, a German physicist. They proved the French philosopher Auguste Comte wrong.",
   "when": "1835 (Comte's claim), 1859 (sodium in the Sun) and 1860 (caesium)",
   "wrong_idea": "We can never know what the stars are made of, because we cannot go there. Bunsen and Kirchhoff showed that each element's light has its own pattern, and found sodium's pattern in sunlight."
  },
- "warm": {"words": ["PAPER", "WATER", "BLACK", "FLAME", "STARS"], "quiz": [["Black sketch pen ink is often made of several dyes mixed together.", true, "Together the dyes look black, but wet paper pulls them apart into blue, purple and yellow."], ["Black is one colour, so black ink must be one substance.", false, "A colour that looks single can be a mixture. Most black sketch pen inks split into several colours."], ["On a paper strip, a dye that holds weakly to the paper travels further.", true, "Water carries it easily, while a dye that clings to the paper stays near the dot."], ["Ballpoint ink spreads up wet paper just like sketch pen ink.", false, "Ballpoint ink does not dissolve in water, so water cannot carry it up the paper."], ["The colour of a flame can show which element is burning in it.", true, "Each element gives out light of its own colours when it is heated in a flame."], ["A flame's colour shows only how hot the flame is.", false, "What is in the flame matters too. A blue gas flame turns yellow-orange with salt and green with copper."], ["Starlight can show which elements the stars are made of.", true, "Each element gives out its own pattern of colours, so the light carries a pattern from far away."], ["A paper strip test tells you the name of each dye.", false, "It shows how many dyes there are and how far each goes. Naming one needs a known dye beside it."], ["Two substances that look the same can still be told apart by tests.", true, "Looks can match when substances differ, but a test such as a flame colour can show the difference."], ["A mixture is two substances joined together into one new substance.", false, "In a mixture the substances are only mixed, not joined, so it can often be separated again."]], "odd": [[["Sugar", "Salt", "Water", "Black sketch pen ink"], "Black sketch pen ink", "Sugar, salt and water are each one substance all the way through. Black ink is a mixture of dyes."], [["Sketch pen ink", "Food colour", "Washable marker ink", "Permanent marker ink"], "Permanent marker ink", "The first three dissolve in water, so water can carry them up the paper. Permanent marker ink does not dissolve."], [["Sodium", "Copper", "Hydrogen", "Salt"], "Salt", "The first three are elements, made of one kind of atom. Salt has sodium joined to another element."], [["Flame test", "Sunlight split into colours", "Starlight lines", "Paper chromatography"], "Paper chromatography", "The first three find what is inside by looking at light. Chromatography uses a liquid moving up paper."], [["Paper towel", "Cotton cloth", "Sponge", "Glass plate"], "Glass plate", "The first three have tiny gaps that let water creep up. Glass has no gaps, so water does not climb."]]}
+ "warm": {"words": ["PAPER", "WATER", "BLACK", "FLAME", "STARS"], "quiz": [["Black sketch pen ink is often made of several dyes mixed together.", true, "Together the dyes look black, but wet paper pulls them apart into blue, purple and yellow."], ["Black is one colour, so black ink must be one substance.", false, "A colour that looks single can be a mixture. Most black sketch pen inks split into several colours."], ["On a paper strip, a dye that holds weakly to the paper travels further.", true, "Water carries it easily, while a dye that clings to the paper stays near the dot."], ["Ballpoint ink spreads up wet paper just like sketch pen ink.", false, "Ballpoint ink does not dissolve in water, so water cannot carry it up the paper."], ["The colour of a flame can show which element is in it.", true, "Each element gives out light of its own colours when it is heated in a flame."], ["A flame's colour shows only how hot the flame is.", false, "What is in the flame matters too. A blue gas flame turns yellow-orange with salt and green with copper."], ["Starlight can show which elements the stars are made of.", true, "Each element gives out its own pattern of colours, and starlight carries those patterns all the way to us."], ["A paper strip test tells you the name of each dye.", false, "It shows how many dyes there are and how far each goes. Naming one needs a known dye beside it."], ["Two substances that look the same can still be told apart by tests.", true, "Two different substances can look alike, but a test such as a flame colour can show the difference."], ["A mixture is two substances joined together into one new substance.", false, "In a mixture the substances are only mixed, not joined, so it can often be separated again."]], "odd": [[["Sugar", "Salt", "Water", "Black sketch pen ink"], "Black sketch pen ink", "Sugar, salt and water are each one substance all the way through. Black ink is a mixture of dyes."], [["Sketch pen ink", "Food colour", "Washable marker ink", "Permanent marker ink"], "Permanent marker ink", "The first three dissolve in water, so water can carry them up the paper. Permanent marker ink does not dissolve."], [["Sodium", "Copper", "Hydrogen", "Salt"], "Salt", "The first three are elements, made of one kind of atom. Salt has sodium joined to another element."], [["Flame test", "Sunlight split into colours", "Starlight lines", "Paper chromatography"], "Paper chromatography", "The first three find what is inside by looking at light. Chromatography uses a liquid moving up paper."], [["Paper towel", "Cotton cloth", "Sponge", "Glass plate"], "Glass plate", "The first three have tiny gaps that let water creep up. Glass has no gaps, so water does not climb."]]}
 }

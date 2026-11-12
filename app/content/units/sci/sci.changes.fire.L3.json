@@ -171,7 +171,7 @@
    ],
    "perspectives": [],
    "art": "A cut-away drawing of a candle: a pool of melted wax around the wick, arrows showing wax climbing the wick, and the wax turning into a faint gas just below the flame.",
-   "context": "Remember the smoke test, where a flame ran down the white smoke to the wick? This card explains what was burning."
+   "context": "In The Jumping Flame, a flame ran down the white smoke of a blown-out candle to the wick. This card explains what was burning."
   },
   {
    "concept": "Why a flame keeps going on its own",
@@ -233,7 +233,7 @@
    "concept": "How people learned to use fire",
    "status": "debated",
    "definition": "",
-   "description": "Fire was on Earth long before people. Lightning starts wildfires, and early people would have seen them. The oldest clear sign of people using fire is about one million years old, in Wonderwerk Cave in South Africa. Scientists found burnt bones and ash from plants there. By about 400,000 years ago, hearths are found in many caves. People first probably kept fires going that they had found, carrying embers from place to place. Later they learned to make fire themselves. They spun a stick against wood, or struck certain stones together to make sparks. Fire let them cook, keep warm, scare away animals and see at night. When exactly people learned to make fire, not just keep it, is still argued about.",
+   "description": "Fire was on Earth long before people. Lightning starts wildfires, and early people would have seen them. The oldest clear sign of people using fire is about one million years old, in Wonderwerk Cave in South Africa. Scientists found burnt bones and ash from plants there. From about 400,000 years ago, hearths, the places where people kept a fire, are found in many caves. At first, people probably kept alive the fires they found, carrying embers from place to place. Later they learned to make fire themselves. They spun a stick against wood, or struck certain stones together to make sparks. Fire let them cook, keep warm, scare away animals and see at night. Scientists still argue about when exactly people learned to make fire, and not just keep it.",
    "examples": [
     "Even today, some families keep the embers of the kitchen fire covered in ash overnight, so it is easy to light in the morning.",
     "Hunter-gatherer groups such as the Hadza of Tanzania make fire by spinning a stick, which takes skill and practice.",
@@ -397,7 +397,7 @@
    "hint": "Think about where the heat goes in a big lump, and how gas mixes with air."
   },
   {
-   "q": "People are the only animals that make fire. What else did learning fire change about how people live together?",
+   "q": "People are the only animals that make fire. What did learning to use fire change about how people live together?",
    "kind": "big",
    "hint": "Think about cooking, light at night, warmth, and sitting round a fire telling stories."
   },
@@ -568,7 +568,7 @@
      "kid": "Which side did your card take away?",
      "check": {
       "t": "mcq",
-      "q": "Priya and Farhan are playing. Priya has a fire made of the oil FUEL card, a breeze and a match. Farhan wants to put it out. Which card should he NOT use?",
+      "q": "A player's fire is made of the oil FUEL card, a breeze and a match. Which card should you NOT use to put it out?",
       "options": [
        "LID",
        "WATER",
@@ -606,38 +606,38 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game about fire safety. The reader reads a situation, and the other players hold up SAFE or SPARK, which means a fire could start, then say why.",
+   "context": "This is a quick game about fire safety. The reader reads out a situation. The other players hold up SAFE, or SPARK if a fire could start, and then say why.",
    "printables": [
     {
      "kind": "cards",
      "title": "14 situation cards (read the front, then turn over for the answer)",
      "items": [
       {
-       "f": "Revathi keeps her pooja lamp on a steel plate, away from the curtain.",
+       "f": "A pooja lamp stands on a steel plate, away from the curtain.",
        "b": "SAFE. The steel plate cannot burn, and the curtain is too far from the flame, so the fuel and the heat stay apart."
       },
       {
-       "f": "Anitha plays with a lighter she found on the table.",
+       "f": "A child plays with a lighter found on the table.",
        "b": "SPARK. A lighter makes heat at the touch of a thumb, and paper or cloth nearby is fuel. Lighters stay with grown-ups."
       },
       {
-       "f": "Sumathi ties back her davani before cooking.",
+       "f": "A girl ties back her davani before cooking.",
        "b": "SAFE. A tied-back davani cannot swing into the flame, so the cloth, which is fuel, stays away from the heat."
       },
       {
-       "f": "Divya hangs a paper lantern right above a diya.",
+       "f": "A paper lantern hangs right above a diya.",
        "b": "SPARK. Paper is a fuel, the diya's flame is heat, and there is air all around. The lantern can catch fire."
       },
       {
-       "f": "Padma turns off the gas regulator at night.",
+       "f": "The gas regulator is turned off at night.",
        "b": "SAFE. With the regulator off, no gas can leak, so there is no fuel."
       },
       {
-       "f": "Chanu lights a cracker while holding it in her hand.",
-       "b": "SPARK. The burning cracker is heat right against her hand and clothes. A grown-up lights crackers on the ground, from a distance."
+       "f": "A child lights a cracker while holding it in the hand.",
+       "b": "SPARK. The burning cracker is heat right against the child's hand and clothes. A grown-up lights crackers on the ground, from a distance."
       },
       {
-       "f": "Kavya smells gas and switches on the kitchen light to look.",
+       "f": "Someone smells gas and switches on the kitchen light to look.",
        "b": "SPARK. Gas in the air is fuel, and a switch can make a tiny spark. Touch no switch, open the windows and tell a grown-up."
       },
       {
@@ -645,27 +645,27 @@
        "b": "SAFE. The open space has no fuel close by, and the bucket of water is ready to take away heat."
       },
       {
-       "f": "Joseph leaves a mosquito coil burning under the bed.",
+       "f": "A mosquito coil is left burning under the bed.",
        "b": "SPARK. The glowing tip is hot enough to light sheets and papers, which are fuel, and the air under a bed has plenty of oxygen."
       },
       {
-       "f": "Ishani tells a grown-up that the gas pipe looks cracked.",
+       "f": "A child tells a grown-up that the gas pipe looks cracked.",
        "b": "SAFE. Telling a grown-up early stops a leak, which would be fuel, from ever meeting heat."
       },
       {
-       "f": "Sowmya pours water on oil that has caught fire in a kadai.",
+       "f": "Someone pours water on oil that has caught fire in a kadai.",
        "b": "SPARK. Water sinks under the oil, turns to steam and throws the burning oil out. Turn off the stove and cover the kadai with a lid."
       },
       {
-       "f": "Aisha cools a burn under running water for 20 minutes.",
+       "f": "A burn is cooled under running water for 20 minutes.",
        "b": "SAFE. Cool running water takes the heat out of the skin and helps it heal."
       },
       {
-       "f": "Vikram throws a burnt matchstick into the dustbin while it still glows.",
+       "f": "Someone throws a burnt matchstick into the dustbin while it still glows.",
        "b": "SPARK. The glowing head is still hot, and the paper in the dustbin is fuel. Drop used matches in water."
       },
       {
-       "f": "Nila uses the stairs, not the lift, in a fire drill.",
+       "f": "In a fire drill, everyone uses the stairs, not the lift.",
        "b": "SAFE. In a fire the lift can lose power, and smoke can fill the lift shaft. The stairs are the safe way out."
       }
      ]
@@ -692,7 +692,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Hand out the cards and read the first situation.",
-     "say": "Listen, then hold up SAFE or SPARK. Revathi keeps her pooja lamp on a steel plate, away from the curtain.",
+     "say": "Listen, then hold up SAFE or SPARK. A pooja lamp stands on a steel plate, away from the curtain.",
      "kid": "Hold up SAFE or SPARK. Ready?",
      "context": "This is the start of Spark or Safe?, a quick fire safety game."
     },
@@ -700,11 +700,11 @@
      "id": "s2",
      "mins": 7,
      "do": "Read the cards one at a time. After each one, ask for the reason.",
-     "say": "Why is that a spark? Which of the three things are there together?",
+     "say": "Why could a fire start there? Which of the three things a fire needs are together?",
      "kid": "SAFE or SPARK? Then say why.",
      "check": {
       "t": "mcq",
-      "q": "Joseph leaves a mosquito coil burning under the bed. Safe or spark?",
+      "q": "A mosquito coil is left burning under the bed. Safe or spark?",
       "options": [
        "Safe, because a coil has no flame",
        "Spark, because the glowing coil is hot enough to light the bedsheet or anything that falls on it"
@@ -801,7 +801,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask your child to guess, for each of the three things, whether it will catch fire. Write each guess and reason in the table.",
-     "say": "Here are the three things we will try to light. A lump of wax. A candle wick. And the white smoke when a candle is blown out. Which will catch fire? Why do you think so?",
+     "say": "Here are the three things we will try to light: a lump of wax, a candle wick, and the white smoke that rises when a candle is blown out. Which will catch fire? Why do you think so?",
      "kid": "Guess for each one. Will it catch fire? Why do you think so?",
      "ask": [
       {
@@ -821,16 +821,16 @@
      "say": "Watch the wax closely while I hold the flame on it. Does it catch fire? What happens to it?",
      "kid": "Watch the lump of wax. The grown-up holds a match to it. Does it burn?",
      "adult": true,
-     "parent": "The wax goes shiny and a little of it melts and drips. It does not catch fire, or if a small flame flickers on the melted wax for a moment, it goes out as soon as the match is taken away. If the match burns down too close to your fingers, drop it in the water and use another one."
+     "parent": "The wax goes shiny, and a little of it melts and drips. It does not catch fire. A small flame may flicker on the melted wax for a moment, but it goes out as soon as the match is taken away. If the match burns down too close to your fingers, drop it in the water and use another one."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "1. Light a new match. 2. Hold it to the candle's wick. 3. Let the candle burn for 2 minutes, until a small pool of melted wax forms around the wick.",
-     "say": "Now the same wax, but with a wick. Watch how fast it lights. Look at the pool of melted wax forming at the top.",
+     "say": "Now I will light the candle. It is the same wax, but with a wick. Watch how fast it lights. Look at the pool of melted wax forming at the top.",
      "kid": "Now the candle with its wick. Does it light? Look at the melted wax.",
      "adult": true,
-     "parent": "The wick lights within a couple of seconds. The flame melts a pool of wax around it, which is the fuel climbing up the wick.",
+     "parent": "The wick lights within a couple of seconds. The flame melts a pool of wax around the wick. This melted wax is the fuel, and it climbs up the wick.",
      "check": {
       "t": "mcq",
       "q": "The lump of wax only melted. The candle with a wick lit at once. What made the difference?",
@@ -847,7 +847,7 @@
      "id": "s5",
      "mins": 15,
      "do": "1. Switch off the fan. 2. Light a match and hold it ready beside the candle. 3. Blow the candle out gently from the side. 4. At once, move the burning match into the white smoke at the 2 cm line on the card. 5. Watch whether the flame runs down the smoke to the wick. 6. Relight the candle, wait half a minute, and repeat. Do three tries at 2 cm, then three at 5 cm, then three at 8 cm, with a new match each time.",
-     "say": "Now the smoke. I will blow the candle out, and quickly hold a match in the smoke. Watch the smoke, not the match. Read me the line on the card.",
+     "say": "Now the smoke. I will blow the candle out, and quickly hold a match in the smoke. Watch the smoke, not the match. Tell me which line on the card the match is at.",
      "kid": "Watch the white smoke. The grown-up holds a match in it. Does the flame jump down?",
      "adult": true,
      "parent": "The match must already be burning when you blow, because the smoke lasts only a second or two. Hold the match flame right inside the white smoke. At 2 cm it usually works. At 5 cm it works about half the time. At 8 cm it rarely works. If you see no white smoke, blow more gently and try again. The half minute between tries lets a pool of melted wax form. Whatever happens, write it down: 'did not jump' is a result too."
@@ -855,9 +855,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think burns in a candle, what they saw, and why they think it happened.",
      "say": "Now tell me three things. What do you think burns in a candle? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think burns in a candle, what you saw, and why you think it happened.",
      "parent": "This is claim, evidence and reasoning. A strong answer sounds like this. What I think: the wax burns, but only after it turns into a gas. What I saw: the lump of wax only melted, but the flame lit the smoke from 2 cm and 5 cm above the wick and ran down to it. Why: the white smoke has wax gas in it. The flame's heat turns melted wax into gas, and the gas burns.",
      "check": {
       "t": "mcq",
@@ -1011,7 +1011,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Let the candle burn steadily again. 2. Lower the slotted spoon onto the flame in the same way, until it is halfway down the flame. 3. Hold it for 3 seconds and look from the side. 4. Let it cool, and do it a second time.",
-     "say": "Now the big holes. What do you see this time?",
+     "say": "Now the spoon with big holes. What do you see this time?",
      "kid": "Now the spoon with big holes. Where is the flame now?",
      "adult": true,
      "parent": "With holes about half a centimetre wide, little tongues of flame usually poke up through the holes. If they do not, write that down. Holes that are a little bigger show it better."
@@ -1141,7 +1141,7 @@
      "mins": 3,
      "do": "Ask your child to say what they think, what they saw and why.",
      "say": "What do you think was the fuel in the diya? What did you see? Why did the cotton last so much longer in oil?",
-     "kid": "What was the fuel? What did you see? Why?",
+     "kid": "What was the fuel in the diya? What did you see? Why did the wick in oil last longer?",
      "parent": "A strong answer: the oil is the fuel. The dry wick burned out in a minute or two, but the oiled wick burned for 10 minutes and hardly got shorter. The oil climbs the wick, turns into gas at the tip and burns. The soaked cotton stays cool enough not to burn itself.",
      "check": {
       "t": "mcq",
@@ -1332,14 +1332,14 @@
      "parent": "In a flat, the second way may be the building's stairs on the other side, or a neighbour's door. Never use a lift in a fire, because the power may fail and smoke can fill the shaft.",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 3, smells gas in the kitchen. What should she do first?",
+      "q": "You smell gas in the kitchen. What should you do first?",
       "options": [
        "Switch on the light to see better",
        "Tell a grown-up at once, without touching any switch",
        "Light a match to find the leak"
       ],
       "a": 1,
-      "why": "A switch or a match can make a spark or flame that lights the gas. So Kavya tells a grown-up straight away and touches nothing. Picking the light is a natural thing to want, because it is hard to see. But the spark inside a switch can be enough."
+      "why": "A switch or a match can make a spark or flame that lights the gas. So tell a grown-up straight away and touch nothing. Picking the light is a natural thing to want, because it is hard to see. But the spark inside a switch can be enough."
      }
     }
    ],
@@ -1392,11 +1392,11 @@
      "kid": "Smoke rises. Crawl low to the door. Feel the door with your hand first.",
      "check": {
       "t": "mcq",
-      "q": "Arjun, a boy of six, has his shirt sleeve catch fire from a lamp. What should he do?",
+      "q": "Your shirt sleeve catches fire from a lamp. What should you do?",
       "options": [
        "Run to the bathroom for water",
-       "Stop, drop to the ground, cover his face and roll",
-       "Wave his arm to blow it out"
+       "Stop, drop to the ground, cover your face and roll",
+       "Wave your arm to blow it out"
       ],
       "a": 1,
       "why": "Running and waving both bring more air to the flames, so they burn harder. Stopping, dropping and rolling keeps the air away. Picking the bathroom is a fair idea, because water does put out burning cloth. But running there feeds the fire on the way."
@@ -1450,18 +1450,18 @@
      "do": "1. Pretend your child has touched a hot vessel. 2. Hold their hand under cool running tap water, or pour water from a mug over it. 3. Set a timer for 2 minutes and keep the hand under the water until it rings. For a real burn, the timer would be set for 20 minutes.",
      "say": "If you touch something hot, the skin keeps cooking even after you pull away. Cool running water takes the heat out. We keep it there for 20 minutes, as long as a whole TV episode.",
      "kid": "Burnt your finger? Hold it under cool running water. Keep it there for 20 minutes.",
-     "parent": "Cool tap water, not ice-cold. Take off rings or bangles near the burn before it swells. After cooling, cover it loosely with a clean cloth or cling film.",
+     "parent": "Use cool tap water, not ice-cold water. Take off rings or bangles near the burn before it swells. After cooling, cover the burn loosely with a clean cloth or cling film.",
      "context": "This is a practice of first aid for a small burn."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Talk about the home remedies people use, and why they do not help.",
-     "say": "Many people put toothpaste, butter or ice on a burn. These feel cool for a moment, but they don't take the heat out deep down. They can even harm the skin. So, only cool running water.",
+     "say": "Many people put toothpaste, butter or ice on a burn. These feel cool for a moment, but they don't take the heat out deep down. They can even harm the skin. So use only cool running water.",
      "kid": "No toothpaste, no butter, no ice. Only cool running water.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 4, touches a hot tawa. What is the best thing to do?",
+      "q": "You touch a hot tawa and burn your finger. What is the best thing to do?",
       "options": [
        "Put toothpaste on it",
        "Hold it under cool running water for 20 minutes",
@@ -1517,7 +1517,7 @@
      "mins": 5,
      "do": "1. Rub your palms together fast for ten seconds, then touch them to your cheeks. 2. Rub the eraser hard on the paper for ten seconds, then touch the eraser to your lip. 3. Rub the ruler fast on the cloth, then feel it.",
      "say": "Rub your palms hard and fast for ten seconds. Now touch your cheeks. What do you feel? Where did that warmth come from?",
-     "kid": "Rub your palms fast. Count to ten. Touch your cheeks. Warm?",
+     "kid": "Rub your palms fast. Count to ten. Touch your cheeks. Do your palms feel warm?",
      "parent": "Your palms get clearly warm, and the eraser gets a little warm. The ruler on the cloth may hardly warm at all. If so, say that: rubbing hard and fast gives the most heat. This is friction turning movement into heat.",
      "context": "This activity shows how rubbing makes heat, which is how people first learned to make fire."
     },
@@ -1749,7 +1749,7 @@
      "kid": "Look at the other ideas. Can you invent a better one?",
      "check": {
       "t": "mcq",
-      "q": "Nila, a girl in Class 3, closes the top of her glass jar with a lid to keep the wind out. The diya goes out. Why?",
+      "q": "A diya stands inside a glass jar. The top of the jar is closed with a lid to keep the wind out, and the diya goes out. Why?",
       "options": [
        "The flame used up the oxygen inside, and no fresh air could come in",
        "The jar got too hot",
@@ -1909,7 +1909,7 @@
   },
   {
    "t": "mcq",
-   "p": "A grown-up held a lit match to a lump of wax with no wick. What happened?",
+   "p": "In The Jumping Flame, a grown-up held a lit match to a lump of wax with no wick. What happened?",
    "opts": [
     "It burst into flame",
     "It melted a little but did not keep burning",
@@ -1946,11 +1946,11 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy of nine, has his kurta catch fire from a lamp. What should he do?",
+   "p": "Your kurta catches fire from a lamp. What should you do?",
    "opts": [
     "Run outside into the wind",
-    "Stop, drop to the ground, cover his face and roll",
-    "Wave his arms to blow the fire out"
+    "Stop, drop to the ground, cover your face and roll",
+    "Wave your arms to blow the fire out"
    ],
    "a": 1,
    "why": "Rolling keeps the air from the flames, so they go out. Running and waving bring more oxygen, so the fire burns harder.",
@@ -2013,7 +2013,7 @@
     "The mesh made the flame smaller"
    ],
    "a": 1,
-   "why": "Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this with a tea strainer over a candle.",
+   "why": "Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this in the Tea Strainer Test, where a fine steel tea strainer kept a candle flame below it.",
    "outcome": 5,
    "how": "e2"
   }
@@ -2087,9 +2087,9 @@
     },
     {
      "t": "mcq",
-     "p": "Ranjani, a girl in Class 3, blows out a birthday candle. What does her breath do to the flame?",
+     "p": "You blow out a birthday candle. What does your breath do to the flame?",
      "a": 0,
-     "why": "Her breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.",
+     "why": "Your breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.",
      "opts": [
       "Pushes the wax gas away and cools the wick",
       "Adds water to the flame",
@@ -2196,7 +2196,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy of six, says, \"Smoke is just air that has been burnt, so it can't hurt you.\" Is he right? Explain.",
+     "p": "Someone says, \"Smoke is just air that has been burnt, so it can't hurt you.\" Is that right? Explain.",
      "a": "No. Smoke carries tiny bits of soot and poisonous gases. In house fires, more people die from breathing smoke than from the flames.",
      "why": "A strong answer says what smoke contains, and why that matters in a fire.",
      "lines": 3
@@ -2395,7 +2395,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila holds a cold steel spoon in a yellow candle flame for a moment. It comes out black. What is the black stuff?",
+     "p": "A cold steel spoon is held in a yellow candle flame for a moment. It comes out black. What is the black stuff?",
      "a": 0,
      "why": "It is soot: tiny bits of carbon from wax gas that did not burn fully. A blue gas stove flame leaves much less.",
      "opts": [
@@ -2430,7 +2430,7 @@
     },
     {
      "t": "mcq",
-     "p": "The flame on Divya's gas stove has turned yellow, and her pans get black marks. Divya is a girl in Class 4. What should she do?",
+     "p": "The flame on a gas stove has turned yellow, and the pans get black marks. What should a child who notices this do?",
      "a": 1,
      "opts": [
       "Pour water on the burner",
@@ -2450,7 +2450,7 @@
     {
      "t": "perspective",
      "p": "In 1816, people argued about Humphry Davy's safety lamp for coal miners.",
-     "a": "A strong answer picks a side and uses evidence: the mesh does stop a flame, as the tea strainer showed, but a draught or a broken wire could let it out, and the lamp led owners to send men into more dangerous places. It then gives the other side its due.",
+     "a": "A strong answer picks a side and uses evidence: the mesh does stop a flame, as the Tea Strainer Test showed, but a draught or a broken wire could let it out, and the lamp led owners to send men into more dangerous places. It then gives the other side its due.",
      "why": "Both were partly right. The lamp worked as a light in firedamp, but the 1835 committee found accidents had gone up.",
      "views": [
       {
@@ -2720,7 +2720,7 @@
  ],
  "maths": [
   {
-   "problem": "In The Jumping Flame, A family tried each height 3 times. At 2 cm the flame jumped 3 times. At 5 cm it jumped 2 times. At 8 cm it jumped 1 time. How many jumps were there in all? What fraction of the tries at 5 cm worked?",
+   "problem": "In The Jumping Flame, a family tried each height 3 times. At 2 cm the flame jumped 3 times. At 5 cm it jumped 2 times. At 8 cm it jumped 1 time. How many jumps were there in all? What fraction of the tries at 5 cm worked?",
    "answer": "6 jumps in all. At 5 cm, 2 out of 3 tries worked, which is two thirds.",
    "explain": "3 + 2 + 1 = 6 jumps. At 5 cm there were 3 tries, and 2 worked, so the fraction is 2 out of 3, or two thirds. The pattern shows the flame jumps less often the higher the match.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -2761,7 +2761,7 @@
    "how": "e3"
   },
   {
-   "problem": "A tea light burns for about 4 hours. Debjani's family in Kolkata lights 6 tea lights at 6 in the evening on Deepavali. At what time will they go out? If they light one new tea light every 4 hours, how many do they need to keep one burning for a whole day of 24 hours?",
+   "problem": "A tea light burns for about 4 hours. A family lights 6 tea lights at 6 in the evening on Deepavali. At what time will they go out? If the family lights one new tea light every 4 hours, how many do they need to keep one burning for a whole day of 24 hours?",
    "answer": "About 10 at night. They need 6 tea lights for 24 hours.",
    "explain": "6 in the evening plus 4 hours is 10 at night. All 6 burn at the same time, so they all go out at about 10. For one light all day: 24 divided by 4 is 6 tea lights, one after the other.",
    "math_unit": "math.time.duration.L3",
@@ -2769,7 +2769,7 @@
    "why_maths": "Adding hours to a start time tells you when the fuel will run out, which is useful for planning a festival."
   },
   {
-   "problem": "Anand's family practised their fire plan three times. It took them 90 seconds the first time, 70 seconds the second time and 50 seconds the third time. If the pattern goes on, how long might the fourth practice take? Why might it stop getting faster?",
+   "problem": "A family practised their fire plan three times. It took them 90 seconds the first time, 70 seconds the second time and 50 seconds the third time. If the pattern goes on, how long might the fourth practice take? Why might it stop getting faster?",
    "answer": "About 30 seconds, but it will stop getting faster at some point.",
    "explain": "Each practice was 20 seconds faster: 90, 70, 50, so the next would be 30. But walking down the stairs always takes some time. So the times would level off instead of reaching zero.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2837,7 +2837,7 @@
    "a": "101, or 112 for any emergency."
   },
   {
-   "q": "Clothes on fire. What three things do you do?",
+   "q": "Your clothes catch fire. What three things do you do?",
    "a": "Stop, drop and roll."
   },
   {
@@ -2938,7 +2938,7 @@
  "roots": {
   "context": "We have tested what a candle really burns, and found what every fire needs. Now we ask what a flame tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A match held to a lump of wax only melted it. Yet a flame above a blown-out wick ran down the smoke and relit it. What burns is wax that heat has turned into a gas. A flame keeps going because its own heat makes more gas to burn.",
+   "truth": "In The Jumping Flame, a match held to a lump of wax only melted it. But a match held in the smoke above a blown-out candle lit the smoke, and the flame ran down to the wick and relit it. So what burns is wax that heat has turned into a gas. A flame keeps going because its own heat makes more gas to burn.",
    "habit": "We think of fire as eating the solid wax or the liquid oil, the way we eat a dosa. But in a candle or a lamp, the flame never burns the solid wax or the oil itself. It keeps making its own fuel, by heating the wax or oil into gas.",
    "evidence": "In The Jumping Flame, a match held to a lump of wax for ten seconds only melted it. The same match lit the white smoke of a blown-out candle from a few centimetres above, and the flame ran down to the wick."
   },
@@ -2957,7 +2957,7 @@
    {
     "source": "The Buddha's Fire Sermon, Adittapariyaya Sutta, Samyutta Nikaya 35.28",
     "teaching": "The Buddha taught that the senses and the mind are on fire, burning with wanting. The word nirvana means the blowing out, or going out, of a fire.",
-    "link": "A fire goes out when its fuel stops coming, as the dry wick did. The Buddha used this picture: when wanting stops feeding the fire, it goes out by itself."
+    "link": "A fire goes out when its fuel stops coming. In Dry Wick or Oiled Wick?, the dry wick went out as soon as its cotton had burned away. The Buddha used this picture: when wanting stops feeding the fire, it goes out by itself."
    }
   ],
   "science": [

@@ -132,7 +132,7 @@
   },
   {
    "term": "Vaccine",
-   "meaning": "A medicine, usually an injection or drops, that shows your immune system a harmless form or a small part of a germ. Your white blood cells learn the germ's shape. If real germs ever come, they fight them quickly.",
+   "meaning": "A medicine, usually an injection or drops, that shows your immune system a harmless form or a small part of a germ. Your white blood cells learn the germ's shape. If the real germs ever come, your white blood cells fight them quickly.",
    "example": "Polio drops and the measles injection protect children all over India.",
    "art": "A child holding a parent's hand at a clinic, with a nurse giving polio drops, and a small immunisation card on the table."
   },
@@ -251,7 +251,7 @@
   {
    "concept": "Should we bring a fever down?",
    "status": "debated",
-   "description": "Since fever helps fight germs, should we stop it? People have argued about this for a long time. Today doctors mostly agree on what to do, but scientists still study why.",
+   "description": "Since fever helps fight germs, should we stop it? People have argued about this for a long time. Today doctors mostly agree on what to do. Scientists are still studying whether bringing a fever down helps or harms.",
    "examples": [
     "Some families give a fever medicine so a child can sleep. Others wait. Doctors say a fever medicine is for comfort, and a doctor should say which one and how much.",
     "Scientists have tested fever medicines in many sick children. Most studies found the medicines did not make illnesses last much longer."
@@ -317,7 +317,7 @@
    "concept": "All living things defend themselves",
    "status": "defined",
    "definition": "All living things, from bacteria to plants to people, have ways to keep out or fight what harms them.",
-   "description": "The immune system is not only a human thing. Every living thing has some way to keep out what harms them. Plants have no blood and no white blood cells. But their leaves have waxy coats, and they can close the tiny holes in their leaves when germs land. A hurt plant makes sticky sap and sends chemical alarms to their other leaves. Even bacteria, which are single cells, have a way to cut up viruses that attack them, and to remember them. Scientists found this in bacteria used to make curd and yoghurt. Insects, fish and lizards fight germs too. Some of them warm up on purpose when they are sick.",
+   "description": "The immune system is not only a human thing. All living things have some way to keep out what harms them. Plants have no blood and no white blood cells. But their leaves have waxy coats, and they can close the tiny holes in their leaves when germs land. Hurt plants make sticky sap and send chemical alarms to their other leaves. Even bacteria, which are single cells, have a way to cut up viruses that attack them, and to remember those viruses. Scientists found this in bacteria used to make curd and yoghurt. Insects, fish and lizards fight germs too. Some of them warm up on purpose when they are sick.",
    "examples": [
     "A neem or mango tree oozes sticky gum where the bark is hurt. The gum seals the wound.",
     "Sick lizards in a lab moved to the warmest spot they could find, giving themselves a fever.",
@@ -331,10 +331,10 @@
    "concept": "Down to the molecules: shapes that fit",
    "status": "defined",
    "definition": "Immune cells and chemicals recognise germs by touch. Their molecules fit the molecules on the germ, and tiny electric forces of attraction hold them together.",
-   "description": "A white blood cell has no eyes. The cell finds out what a germ is by touch. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. White blood cells have their own molecules on their outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms attract each other and hold the two together. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat and snips the coat.",
+   "description": "A white blood cell has no eyes. The cell finds out what a germ is by touch. The outside of every cell, and every germ, is covered in molecules. A molecule is a tiny group of atoms joined together, and each kind has its own shape. White blood cells have their own molecules on their outside, called receptors. When a receptor fits a molecule on a germ, like a key in a lock, the cell grabs on. Tiny electric forces between the atoms pull the two together and hold them. That is how the cell knows to attack. Lysozyme, the chemical in your tears, works the same way. Its shape fits a part of a germ's coat and snips the coat.",
    "examples": [
-    "A white blood cell bumps into thousands of things. They grab only those whose shapes fit their receptors.",
-    "Lysozyme is also found in egg white. An enzyme is a chemical that does a job in living things. In 1965, lysozyme became the first enzyme whose full shape scientists worked out, using X-rays."
+    "White blood cells bump into thousands of things. They grab only the ones whose shapes fit their receptors.",
+    "Lysozyme is also found in egg white. It is an enzyme, a chemical that does a job in living things. In 1965, lysozyme became the first enzyme whose full shape scientists worked out, using X-rays."
    ],
    "perspectives": [],
    "art": "A big zoom: a white blood cell's surface with tiny lock shapes, and a germ's surface with matching key shapes clicking into one.",
@@ -431,9 +431,9 @@
   },
   {
    "claim": "The immune system attacks only things that send danger signals, not simply anything foreign.",
-   "who": "Polly Matzinger, an American immunologist, in 1994. Her 'danger model'.",
+   "who": "Polly Matzinger, an American scientist, in 1994. She called her idea the 'danger model'.",
    "for": "The body leaves food, friendly microbes and a growing baby alone, though they are all 'not self'.",
-   "against": "The body really does learn its own self, and some foreign things are attacked even without much harm. Most scientists now think both self and danger matter.",
+   "against": "The body really does learn its own self, and some foreign things are attacked even when they do little harm. Most scientists now think both self and danger matter.",
    "status": "debated",
    "context": "This card is about a challenging idea of how the immune system decides what to attack."
   },
@@ -631,7 +631,7 @@
     "The Germ turns over the top card of the germ pile, reads the card out and places the card on OUTSIDE. A card marked 'starts INSIDE' goes straight onto INSIDE.",
     "The Body players take turns, one germ card each, starting on the Germ's left. With two players, the one Body player answers every card. The Body player whose turn it is plays one defence card onto THE WALLS and says how it stops this germ. For example, 'Stomach acid kills the germs on the guava.' The other players agree, or say why it does not fit.",
     "If the defence fits, the germ is stopped. Put both cards in the discard pile. That Body player scores 1 point and takes a new defence card. If the defence pile runs out, shuffle the discard pile to make a new one.",
-    "If she has no card that fits, or the germ starts INSIDE, the germ is inside the body. Now she can play only a WHITE BLOOD CELL, INFLAMMATION, FEVER or WASH IT card onto INSIDE, and say how it fights this germ. If it fits, she scores 1 point and takes a new card.",
+    "If the Body player has no card that fits, or the germ card says 'starts INSIDE', the germ is inside the body. Now the Body player can play only a WHITE BLOOD CELL, INFLAMMATION, FEVER or WASH IT card onto INSIDE, and must say how it fights this germ. If it fits, the Body player scores 1 point and takes a new card.",
     "If nothing fits, the germ scores 1 point for the Germ player. The germ card goes in the discard pile.",
     "After 4 germ cards (8 if two of you play), the next player becomes the Germ. The new Germ puts her defence cards under the defence pile. The old Germ takes 3 new defence cards and keeps her points. When all 16 germ cards are used, the player with the most points wins. A tie is shared."
    ],
@@ -778,7 +778,7 @@
      "mins": 4,
      "do": "Play round 1: 3 tries, about 2 minutes.",
      "say": "Round one! Germ, go! Wall, shuffle to block.",
-     "kid": "Round one! Run, block, tag!",
+     "kid": "Round one! The germ runs for the cushion. The skin wall blocks and tries to touch the germ.",
      "ask": [
       {
        "q": "What happened when the germ got round the wall?",
@@ -885,9 +885,9 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake. Divya, a girl in Class 3, says, 'Tears are only for when you are sad.' Use the onion activity and your blink count to show what is wrong.",
+     "p": "Find the mistake. Someone says, 'Tears are only for when you are sad.' Use what you saw in the Onion Tears activity and the Count Your Blinks activity to show what is wrong.",
      "lines": 3,
-     "a": "Divya is wrong. When the onion was cut, my eyes made tears even though I was not sad. The tears washed out the stinging gas. And we blink about 15 times a minute, all day. Each blink spreads a thin layer of tears to wash and wet the eye.",
+     "a": "That is wrong. When the onion was cut, my eyes made tears even though I was not sad. The tears washed out the stinging gas. And we blink about 15 times a minute, all day. Each blink spreads a thin layer of tears to wash and wet the eye.",
      "why": "A strong answer uses evidence the child saw: tears came with the onion, without any sadness, and blinking spreads tears all day. It ends with the job of tears: to wash dust and germs out of the eyes.",
      "how": "a1"
     },
@@ -933,14 +933,14 @@
     },
     {
      "t": "mcq",
-     "p": "Ishani, a girl in Class 4, scraped her knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?",
+     "p": "You scrape your knee. The next morning, the skin round the scrape is red, warm and puffy. What is most likely happening?",
      "opts": [
       "The scrape is spreading and getting worse",
       "Extra blood is bringing white blood cells to fight germs at the scrape",
       "The skin round the scrape is dying"
      ],
      "a": 1,
-     "why": "Redness, warmth and swelling are called inflammation. Blood vessels near the scrape widen, so more blood and more white blood cells reach the spot. It looks like damage, but it is the body at work. If the redness keeps spreading for days, or red lines appear, a grown-up should take her to a doctor."
+     "why": "Redness, warmth and swelling are called inflammation. Blood vessels near the scrape widen, so more blood and more white blood cells reach the spot. It looks like damage, but it is the body at work. If the redness keeps spreading for days, or red lines appear, a grown-up should take you to a doctor."
     },
     {
      "t": "truefalse",
@@ -1012,7 +1012,7 @@
       "The nostril holes"
      ],
      "a": 0,
-     "why": "Mucus is sticky, like the tape facing up. Dust and germs that touch it get stuck. Then you blow them out or swallow them, and stomach acid kills many of the swallowed germs.",
+     "why": "Mucus is sticky, like the tape on the sticky card. Dust and germs that touch it get stuck. Then you blow them out or swallow them, and stomach acid kills many of the swallowed germs.",
      "how": "e3"
     },
     {
@@ -1058,7 +1058,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lalitha, a girl in Class 4, has a fever of 38.5 degrees Celsius. She feels tired but is drinking water. Three people give different advice.",
+     "p": "A girl has a fever of 38.5 degrees Celsius. She feels tired but is drinking water. Three people give different advice.",
      "views": [
       {
        "who": "Her aunt",
@@ -1138,10 +1138,10 @@
     },
     {
      "t": "mcq",
-     "p": "Antibiotics are medicines that kill bacteria. Zoya, a girl in Class 4, has a cold, which is caused by a virus. Will an antibiotic help her get better?",
+     "p": "Antibiotics are medicines that kill bacteria. A cold is caused by a virus. Will an antibiotic help someone with a cold get better?",
      "opts": [
       "Yes, antibiotics kill every kind of germ",
-      "No. Antibiotics do not work on viruses. Rest, water and her own immune system will beat the cold.",
+      "No. Antibiotics do not work on viruses. Rest, water and the body's own immune system will beat the cold.",
       "Only if she takes a double dose"
      ],
      "a": 1,
@@ -1206,10 +1206,10 @@
     },
     {
      "t": "write",
-     "p": "Your skin sheds tiny flakes all the time, like the ones on your tape. Explain how that helps keep germs out.",
+     "p": "Your skin sheds tiny flakes all the time. In the Look at Your Skin Wall activity, you lifted some of them off with sticky tape. Explain how shedding flakes helps keep germs out.",
      "lines": 3,
      "a": "The top layer of skin is dead cells. New cells grow underneath and push up, and the old cells flake off. The flakes take germs that landed on the skin away with them, so the wall keeps renewing itself.",
-     "why": "A strong answer uses the flakes on the tape: they are old skin cells leaving, and germs go with them.",
+     "why": "A strong answer uses the flakes on the tape from Look at Your Skin Wall: they are old skin cells leaving, and germs go with them.",
      "how": "a2"
     },
     {
@@ -1261,7 +1261,7 @@
       "Only in hot places"
      ],
      "a": 2,
-     "why": "In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, they use these bits to recognise the virus and cut them up. Even a single cell has an immune system."
+     "why": "In 2007, scientists found that some bacteria, like those used to make yoghurt, store bits of the viruses that attacked them. Next time, the bacteria use these bits to recognise the same viruses and cut them up. Even a single cell has an immune system."
     },
     {
      "t": "mcq",
@@ -1278,7 +1278,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, took her temperature four times in one day. It read 36.3 degrees Celsius at 7 am and 36.9 after running. What is the best explanation?",
+     "p": "A girl took her temperature four times in one day. It read 36.3 degrees Celsius at 7 am and 36.9 after running. What is the best explanation?",
      "opts": [
       "Her body has a fever after running",
       "Body temperature changes a little through the day, and moving muscles make heat",
@@ -1401,13 +1401,13 @@
     {
      "t": "draw",
      "p": "Draw the body's defences as a castle, with walls, gates, guards and a heat knob. Label each one with the body part it stands for.",
-     "a": "A castle with a skin wall, eye, nose and mouth gates with tears, mucus and saliva, white blood cell guards on a blood road, and a heat knob for fever, all labelled.",
+     "a": "A castle with a wall for the skin. Gates for the eyes, nose and mouth, guarded by tears, mucus and saliva. White blood cell guards on a road for the blood. A heat knob for fever. Every part is labelled.",
      "why": "A model drawing like this shows how the defences work in layers.",
      "how": "p1"
     },
     {
      "t": "write",
-     "p": "What if your body could not make a fever at all? Predict what might happen when germs get in. Use the lizard experiment as evidence.",
+     "p": "In an experiment, sick lizards kept in a cool place were more likely to die than sick lizards allowed to warm up. What if your body could not make a fever at all? Predict what might happen when germs get in. Use the lizards as evidence.",
      "lines": 4,
      "a": "The germs might grow faster, because many germs grow more slowly when it is hotter. Some white blood cells also work faster when warm. The lizards kept cool were more likely to die, so without fever I might get more ill, or stay ill longer.",
      "why": "A strong answer gives a prediction and a reason, then uses the lizards as evidence. It might add that fever is not the only defence, so the walls and white blood cells would still help.",
@@ -1514,7 +1514,7 @@
     {
      "day": 1,
      "mins": 16,
-     "what": "Guess. Label the apples. A grown-up makes the cuts. Rub soil on the skin of A and into cuts C and D. Rinse cut D. Close the bags."
+     "what": "Guess which apple will go bad first. Label the apples. A grown-up makes the cuts. Rub soil on the skin of A and into cuts C and D. Rinse cut D. Close the bags."
     },
     {
      "day": 2,
@@ -1534,7 +1534,7 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Last look. Compare the apples. Say what you think, what you saw and why."
+     "what": "Look one last time and compare the apples. Say what you think, what you saw and why."
     }
    ],
    "record": "Each time you look, write one or two words for each apple: fresh, brown, soft patch, soft and wet, or mouldy. On day 7, draw each apple and show where the soft patch began.",
@@ -1720,7 +1720,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: skin keeps germs out, and washing a cut helps. What I saw: apple A stayed fresh, apple C went soft first, starting at the cut, and apple D went soft later than C. Why: the cut let microbes in, and washing took many of them away. Throw the closed bags away without opening them.",
      "context": "This is the last step of The Apple Skin Test. In this experiment you test four apples. One has its skin whole, and three have a small cut. You watch them for about a week to see which go bad first. It shows how skin keeps germs out."
     }
@@ -1824,9 +1824,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Wipe the tip. 2. Tuck it deep under one armpit, against the skin. 3. Hold the arm down until it beeps. 4. Read and write the number.",
-     "say": "Tuck the tip right into your armpit. Squeeze your arm down. Keep still until it beeps. Now, what does it say?",
-     "kid": "Tuck the tip under your arm. Squeeze your arm down. Wait for the beep. Read the number and write it down.",
+     "do": "1. Wipe the tip of the thermometer. 2. Tuck the tip deep into one armpit, against the skin. 3. Hold the arm down until the thermometer beeps. 4. Read the number and write it down.",
+     "say": "Tuck the tip of the thermometer right into your armpit. Squeeze your arm down. Keep still until it beeps. Now, what does it say?",
+     "kid": "Tuck the tip of the thermometer under your arm. Squeeze your arm down. Wait for the beep. Read the number and write it down.",
      "check": {
       "t": "mcq",
       "q": "The thermometer reads 36.7 degrees Celsius. Is that a fever?",
@@ -1887,7 +1887,7 @@
      "mins": 4,
      "do": "Help your child draw a line chart of their temperatures.",
      "say": "Let's draw our numbers as a line. Time goes along the bottom. Temperature goes up the side. Put a dot for each one and join the dots.",
-     "kid": "Draw a dot for each temperature. Time along the bottom. Temperature up the side. Join the dots.",
+     "kid": "Time goes along the bottom and temperature goes up the side. Draw a dot for each temperature, then join the dots.",
      "chart": {
       "type": "line",
       "title": "Made-up example: one child's temperature through a day",
@@ -1919,7 +1919,7 @@
      "mins": 3,
      "do": "Ask your child to say what they think, what they saw and why.",
      "say": "Now tell me three things. What do you think about your temperature now? What did you see? Why might it change?",
-     "kid": "Say three things. What I think. What I saw. Why.",
+     "kid": "Say three things: what you think about your temperature now, what you saw, and why it might change.",
      "parent": "A good answer sounds like this. What I think: my temperature changes a little in a day, but it stays close to 37. What I saw: it was lowest in the morning, 36.3, and highest after running, 36.9. Why: running makes heat, and the body is coolest early in the morning. Write the child's normal range on the thermometer box, so you can compare when they are ill.",
      "context": "This is the last step of My Temperature Through the Day. In this experiment you take your own temperature at different times of one day, with a digital thermometer. You find out what 'normal' is for you, so you will know a fever when you see one."
     }
@@ -2009,8 +2009,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Ask your child to breathe in through their nose and think about where the dust in the air goes.",
-     "say": "The air we breathe has dust in it, and germs ride on the dust. Inside your nose are tiny hairs and sticky mucus. Today we'll make a pretend nose and test if sticky catches more.",
-     "kid": "The air has dust in it. Germs ride on dust. Your nose has hairs and sticky mucus. Guess: does sticky catch more dust?",
+     "say": "The air we breathe has dust in it, and germs ride on the dust. Inside your nose are tiny hairs and sticky mucus. Today we'll make a pretend nose and test whether a sticky surface catches more dust than a smooth one.",
+     "kid": "The air has dust in it. Germs ride on dust. Your nose has hairs and sticky mucus. Guess: does a sticky surface catch more dust than a smooth one?",
      "context": "This is the first step of The Sticky Nose Test. In this experiment you make a model of the sticky mucus inside your nose. You put a card with sticky tape and a card with smooth tape near a window, and count how much dust each one traps."
     },
     {
@@ -2096,10 +2096,10 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask for claim, evidence and reasoning.",
-     "say": "What do you think now? What did you see? Why?",
-     "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: I think sticky mucus traps dust. I saw 42 specks on the sticky card and only 6 on the smooth card. Because dust that touches something sticky stays there. Then ask: so what should we do with what we blow out of our nose? (Blow into a hanky or tissue, throw the tissue away, wash hands.)",
+     "do": "Ask your child to say what they think, what they saw and why.",
+     "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
+     "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "A good answer sounds like this. What I think: sticky mucus traps dust. What I saw: 42 specks on the sticky card and only 6 on the smooth card. Why: dust that touches something sticky stays there. Then ask: so what should we do with what we blow out of our nose? (Blow into a hanky or tissue, throw the tissue away, wash hands.)",
      "context": "This is the last step of The Sticky Nose Test. In this experiment you make a model of the sticky mucus inside your nose. You put a card with sticky tape and a card with smooth tape near a window, and count how much dust each one traps."
     }
    ]
@@ -2360,19 +2360,19 @@
      "id": "s2",
      "mins": 7,
      "do": "Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.",
-     "say": "A white blood cell has no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a germ, close your sock hand round them and drop it in the bowl. Leave the smooth ones alone.",
+     "say": "White blood cells have no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a paper ball germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.",
      "kid": "Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.",
      "parent": "Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.",
      "check": {
       "t": "mcq",
-      "q": "How does a real white blood cell find a germ?",
+      "q": "How do real white blood cells find a germ?",
       "options": [
        "They follow chemical signals and feel the germ's shapes",
        "They see the germ with tiny eyes",
        "They hear the germ moving"
       ],
       "a": 0,
-      "why": "A white blood cell has no eyes or ears. Hurt cells give off chemical signals, and the white blood cell crawls towards them. When they touch a germ, shapes on the germ fit shapes on the cell, like a key in a lock. Picking 'eyes' is a natural guess, because that is how we find things."
+      "why": "A white blood cell has no eyes or ears. Hurt cells give off chemical signals, and the white blood cell crawls towards the signals. When the cell touches a germ, shapes on the germ fit shapes on the cell, like a key in a lock. Picking 'eyes' is a natural guess, because that is how we find things."
      },
      "context": "This is step 2 of 3 of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     },
@@ -2381,7 +2381,7 @@
      "mins": 5,
      "do": "Count the germs swallowed. Then talk about what happens next.",
      "say": "How many germs are in the bowl? Inside a real white blood cell, the germ is broken down by strong chemicals. After a lot of eating, the white blood cell often dies. A heap of dead white blood cells and germs is pus.",
-     "kid": "Count the germs in the bowl. Inside a real cell, the germ is broken down. Tired cells die. A heap of them is pus.",
+     "kid": "Count the germs in the bowl. Inside a real white blood cell, the germ is broken down. After a lot of eating, the cell often dies. A heap of dead white blood cells and germs is pus.",
      "ask": [
       {
        "q": "Did you wrap any bottle caps by mistake?",
@@ -2590,7 +2590,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Ask your child to draw a scraped knee from the side, as if it were cut in half. Show the skin and a blood vessel.",
-     "say": "Let's draw what we can't see. Imagine we sliced the knee and looked from the side. Draw the skin like a row of tiles, with a gap where it's scraped. Underneath, draw a blood vessel, a tube that carries blood. Now draw germs coming in. Where do the white blood cells come from?",
+     "say": "Let's draw what we can't see. Draw the knee as if it were cut in half and seen from the side. Draw the skin like a row of tiles, with a gap where it's scraped. Underneath, draw a blood vessel, a tube that carries blood. Now draw germs coming in. Where do the white blood cells come from?",
      "kid": "Draw a scraped knee from the side. Draw the skin like tiles, with a gap. Draw a blood vessel under it. Add germs coming in. Where do the white blood cells come from?",
      "ask": [
       {
@@ -2607,8 +2607,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Ask your child to add white blood cells, pus and a scab, and label everything.",
-     "say": "Draw white blood cells squeezing out of the blood vessel and eating germs. Draw some tired ones in a pile. That's pus. Now draw a scab on top, like a lid. New skin will grow underneath.",
-     "kid": "Draw white blood cells eating germs. Draw a pile of tired ones: that's pus. Draw a scab on top like a lid. Label it all.",
+     "say": "Draw white blood cells squeezing out of the blood vessel and eating germs. Draw a pile of white blood cells that died fighting. That's pus. Now draw a scab on top, like a lid. New skin will grow underneath.",
+     "kid": "Draw white blood cells eating germs. Draw a pile of white blood cells that died fighting: that's pus. Draw a scab on top like a lid. Label it all.",
      "check": {
       "t": "mcq",
       "q": "What is a scab on a scraped knee for?",
@@ -2712,8 +2712,8 @@
      "id": "s2",
      "mins": 25,
      "do": "Build the wall and gates from the box. Add tears at the eye window, and hairs and 'mucus' at the nose gate. Put a label for stomach acid behind the mouth gate.",
-     "say": "Let's build the walls. Use blue plastic for tears at the eye windows. Cotton for nose hairs. A little honey for sticky mucus. Label each one.",
-     "kid": "Build the castle wall and gates. Blue plastic for tears. Cotton for nose hairs. A dab of honey for mucus. Label each one.",
+     "say": "Let's build the walls. Use blue plastic for tears at the eye windows, cotton for nose hairs and a little honey for sticky mucus. Label each one.",
+     "kid": "Build the castle wall and gates. Use blue plastic for tears, cotton for nose hairs and a dab of honey for mucus. Label each one.",
      "adult": true,
      "parent": "A grown-up cuts the cardboard. The child decides where things go and writes the labels.",
      "context": "This is step 2 of 4 of Build the Body Castle. In this 2-day project you build a cardboard castle that shows all the body's defences: walls, gates, guards and a heat knob. Then you give a tour of it to your family."
@@ -2726,14 +2726,14 @@
      "kid": "Make a cut in the wall. Put germs there. Make a red road for blood. Put cotton-ball guards on it, rushing to the cut.",
      "check": {
       "t": "mcq",
-      "q": "Body castle: germs got through a cut in the wall. Who comes to fight them?",
+      "q": "In the body castle, germs got through a cut in the wall. Who comes to fight them?",
       "options": [
        "White blood cells, through the blood",
        "Tears from the eyes",
        "Saliva from the mouth"
       ],
       "a": 0,
-      "why": "Once germs are through the skin, the inside defenders take over. White blood cells travel in the blood and squeeze out where they are needed. Tears and saliva guard only the eyes and mouth. Picking them is thinking all defences are the same, but each one guards its own place."
+      "why": "Once germs are through the skin, the inside defenders take over. White blood cells travel in the blood and squeeze out where they are needed. Tears and saliva guard only the eyes and mouth. Picking them means thinking all defences are the same, but each one guards its own place."
      },
      "context": "This is step 3 of 4 of Build the Body Castle. In this 2-day project you build a cardboard castle that shows all the body's defences: walls, gates, guards and a heat knob. Then you give a tour of it to your family."
     },
@@ -2798,7 +2798,7 @@
      "mins": 8,
      "do": "Set up the paper and the 1 metre mark. Spray 3 times with nothing in the way. Circle and count the coloured spots.",
      "say": "A sneeze can spray tiny drops a long way. Germs ride in those drops. This bottle is our pretend sneeze. Let's see how far it goes with nothing to stop it.",
-     "kid": "Spray the bottle 3 times at the paper. Nothing in the way. Count the coloured spots.",
+     "kid": "Spray the bottle 3 times at the paper, with nothing in the way. Count the coloured spots.",
      "adult": true,
      "parent": "Set the nozzle to a fine spray, not a jet. Use washable colouring and paper you don't mind spotting. Protect the floor with newspaper. If you do not want marks on the wall, tape the paper to a big cardboard box instead.",
      "context": "This is the first step of The Sneeze Stopper. This is a design challenge. A spray bottle makes a pretend sneeze. You test ways to catch it, and design the best sneeze stopper you can."
@@ -2969,7 +2969,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Ravi, a boy in Class 3, says the immune system is one organ, like the heart. Is he right?",
+   "p": "Someone says the immune system is one organ, like the heart. Is that right?",
    "opts": [
     "Yes. It sits in the chest",
     "No. It is many parts working together, like skin, tears, mucus, white blood cells and fever",
@@ -3264,7 +3264,7 @@
    "why_maths": "Scientists like to say 'how many times better'. Dividing shows how much better sticky mucus is at trapping dust."
   },
   {
-   "problem": "Meenakshi, a girl in Class 3, measured her temperature. It was 36.3 degrees Celsius at 7 am and 36.9 after running. Later, when she had a cold, it read 38.4. Which of these numbers is a fever?",
+   "problem": "A child's temperature was 36.3 degrees Celsius at 7 am and 36.9 after running. Later, when the child had a cold, it read 38.4. Which of these numbers is a fever?",
    "answer": "38.4 degrees Celsius is a fever.",
    "explain": "Doctors usually call 38 degrees Celsius or more a fever. 36.3 and 36.9 are both below 38, so they are normal. 38.4 is more than 38. So 38.4 is a fever. The number after the dot is tenths of a degree: 38.4 is 38 degrees and 4 tenths.",
    "math_unit": "math.temperature.reading-thermometers.L3",
@@ -3279,7 +3279,7 @@
    "math_unit": "math.multiplication.equal-groups.L3",
    "context": "This is about the Count Your Blinks activity, where you counted how many times a person blinked in one minute.",
    "how": "a4",
-   "why_maths": "Multiplying turns one short count into a picture of a whole day, and shows how often tears wash your eyes."
+   "why_maths": "Multiplying turns a one-minute count into a count for a longer time, and shows how often tears wash your eyes."
   },
   {
    "problem": "In one family's apple skin test, apple C first had a soft patch on day 3. Apple D, which was washed, first had a soft patch on day 5. How many days longer did washing keep apple D firm?",
@@ -3596,21 +3596,21 @@
  "roots": {
   "context": "We have been learning how the body keeps germs out and fights the ones that get in. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Every apple in the test had microbes on its skin. The ones that rotted all had cuts, and the rot began at the cut. Unbroken skin kept the microbes out just by being whole. Most of your body's protection works this way, with walls that stop germs before any fight begins.",
+   "truth": "In the Apple Skin Test, every apple had microbes on its skin. The ones that rotted all had cuts, and the rot began at the cut. Unbroken skin kept the microbes out just by being whole. Most of your body's protection works this way, with walls that stop germs before any fight begins.",
    "habit": "We picture the immune system as soldiers fighting germs. Most of the work is done before any fight, by skin, tears and mucus that are always there.",
    "evidence": "In the apple skin test, the apple with whole skin stayed fresh, while cut apples went soft, starting at the cut. In the sticky nose test, sticky tape held far more dust than smooth tape."
   },
   "three": {
    "who_am_i": "Your skin, your tears and the mucus in your nose keep you well every minute, and you hardly notice them.",
-   "what_is_life": "Every living thing, from a bacterium to a neem tree to you, has an outer layer that keeps their inside apart from the outside.",
+   "what_is_life": "All living things, from bacteria to neem trees to you, have an outer layer that keeps their inside apart from the outside.",
    "what_is_this_world": "The world is full of microbes, on every apple, door handle and breath of air. Most of them never get in, and most would do you no harm."
   },
-  "thread": "The first living things were single cells, each wrapped in a thin skin called a membrane. That skin let food in and kept harm out. Your own body began as one cell, and grew into trillions, each still wrapped in their own membrane. Your skin, your tears and your mucus do the same job for the whole body. Life began with one kind of wall, and it has grown into countless kinds, in bacteria, trees and you.",
+  "thread": "The first living things were single cells, each wrapped in a thin skin called a membrane. That skin let food in and kept harm out. Your own body began as one cell, and grew into trillions of cells, all still wrapped in membranes of their own. Your skin, your tears and your mucus do the same job for the whole body. Life began with one kind of wall, and it has grown into countless kinds, in bacteria, trees and you.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 17",
     "teaching": "The best rulers are hardly noticed by their people. When the work is done, the people say, 'It happened by itself.'",
-    "link": "Your skin and tears protect you so quietly that you forget them. In the apple test, the whole skin kept the apple fresh, and nobody saw it doing anything."
+    "link": "Your skin and tears protect you so quietly that you forget them. In the Apple Skin Test, the whole skin kept apple A fresh, and nobody saw it doing anything."
    },
    {
     "source": "Thich Nhat Hanh, 'interbeing', in his book The Heart of Understanding (1988)",
@@ -3629,7 +3629,7 @@
     "status": "settled"
    },
    {
-    "text": "How the immune system decides what is 'self' and what to attack, by learning self early or by listening for danger, is still argued about.",
+    "text": "Scientists still argue about how the immune system decides what to attack. It may learn early what is 'self', or listen for danger signals, or both.",
     "status": "debated"
    }
   ],
@@ -3646,7 +3646,7 @@
   "ask": [
    "Your skin keeps germs out all day, and you hardly notice it working. What else in your body works without you noticing?",
    "If a wall stopped everything, what would your body miss out on?",
-   "The microbes in the apple test were living things looking for food. Were they doing anything wrong?"
+   "In the Apple Skin Test, the microbes that made the apples rot were living things looking for food. Were they doing anything wrong?"
   ],
   "art": "A child holding up a whole apple in a clear bag next to a cut apple going soft at the cut, with a soft glow along the child's own skin, eyelids and nose."
  },
