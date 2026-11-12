@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Parents should know: Kitchen to Kitchen takes about 75 days and needs a sunny spot. Be Edmond needs a pumpkin, gourd or cucumber vine, and Adopt a Tree needs a tree nearby, so both are optional.",
  "summary": {
-  "text": "Every fruit in your kitchen was once a flower, and every seed inside can grow into a new plant. A life cycle is all the stages of a living thing's life, until they make young of their own. A flowering plant goes from seed to seedling to grown plant. Then they flower, each flower can grow into a fruit, and the fruit holds new seeds. Your child opens kitchen fruits to find the seeds and the flower's leftovers, and can grow moong from seed to seed in two to three months. Then the unit follows the idea further: plants built mostly from air and water, plants that measure the length of the night, and bamboo that flowers only once, after about 48 years.",
+  "text": "Every fruit in your kitchen was once a flower, and every seed inside can grow into a new plant. A life cycle is all the stages of a living thing's life, until they make young of their own. A flowering plant goes from seed to seedling to grown plant. Then they flower. Each flower can grow into a fruit, and the fruit holds new seeds. Your child opens kitchen fruits to find the seeds and the flower's leftovers, and can grow moong from seed to seed in two to three months. Then the unit follows the idea further: plants built mostly from air and water, plants that measure the length of the night, and bamboo that flowers only once, after about 48 years.",
   "art": "A big circle drawn like a clock face: a moong seed at the top, then a seedling, a leafy plant, a yellow flower, a green pod and black pods spilling new seeds back to the top."
  },
  "intro": {
@@ -193,7 +193,7 @@
   {
    "concept": "Growing up: leaves make food from sunlight",
    "status": "defined",
-   "definition": "A growing plant makes their own food in their green leaves. This is called photosynthesis. Leaves take in carbon dioxide from the air and water from the roots. Using the energy of sunlight, they turn them into sugar. They give out oxygen.",
+   "definition": "A growing plant makes their own food in their green leaves. This is called photosynthesis. Leaves take in carbon dioxide from the air and water from the roots. Using the energy of sunlight, the leaves turn these two into sugar. They give out oxygen.",
    "description": "The plant uses the sugar in two ways. They use some for energy, the way your body uses food. They also use sugar to build new stems, leaves and roots. So a plant grows mainly by making more of themselves out of air and water. A plant grows slowly at first, then fast, then slowly again once they are grown. The chart shows a made-up example for a moong plant in a pot. They grow fastest in weeks 3 to 5. After about week 6 they put their effort into flowers and pods instead of getting taller.",
    "examples": [
     "A plant kept in a dark cupboard grows pale, thin and floppy, then dies. They cannot make food.",
@@ -270,7 +270,7 @@
    "concept": "A flower is where the fruit will grow",
    "status": "defined",
    "definition": "A flower is the part of a plant that makes seeds. In its middle is a swollen base with tiny seed-starts inside. When pollen reaches the sticky tip above that base, the base can grow into a fruit, and the seed-starts can grow into seeds.",
-   "description": "Look at a flower from the outside in. First come the green sepals, which wrapped the bud. Then come the petals, often bright and scented, which bring in visitors. Next come thin stalks with yellow dust on their tips. The stalks are called stamens, and the dust is pollen. In the very middle is a part shaped a little like a bottle. Its base is the ovary. Scientists call the tiny seed-starts inside the ovary ovules. Pollen must be carried to the sticky tip of the bottle, which is called the stigma. This is called pollination. Insects, birds, bats, wind or people can carry it. Some flowers, like moong, peas and tomato, can pollinate themselves. After that, the petals fall off and the base starts to swell. That swelling base is the baby fruit. You will learn much more about pollination in the Class 4 unit on flowers.",
+   "description": "Look at a flower from the outside in. First come the green sepals, which wrapped the bud. Then come the petals, often bright and scented, which bring in visitors. Next come thin stalks with yellow dust on their tips. The stalks are called stamens, and the dust is pollen. In the very middle is a part shaped a little like a bottle. Its base is the ovary. Scientists call the tiny seed-starts inside the ovary ovules. Pollen must be carried to the sticky tip of the bottle, which is called the stigma. This is called pollination. Insects, birds, bats, wind or people can carry the pollen. Some flowers, like moong, peas and tomato, can pollinate themselves. After that, the petals fall off and the base starts to swell. That swelling base is the baby fruit. You will learn much more about pollination in the Class 4 unit on flowers.",
    "examples": [
     "In a pumpkin flower, you can see the baby pumpkin as a little green ball behind the petals.",
     "A bhindi flower opens for just one morning. Five days later, a finger-long pod is in its place."
@@ -352,7 +352,7 @@
      [
       "Neelakurinji",
       "12 years",
-      "Dies after flowering, new plants grow from their seeds"
+      "Dies after flowering. New plants grow from their seeds"
      ],
      [
       "One kind of bamboo in Mizoram",
@@ -393,14 +393,14 @@
    "concept": "Death feeds the next life",
    "status": "defined",
    "definition": "When a plant dies, decomposers break them down. Their atoms go back into the soil and the air, and new plants are built from them.",
-   "description": "Fungi like mushrooms, tiny bacteria, earthworms, termites and woodlice all feed on dead leaves and stems. As they eat, they break the plant into smaller and smaller pieces. Some of their carbon goes back into the air as carbon dioxide. Their minerals go back into the soil. The next seeds use that air and soil to grow. So the same atoms go round and round through plants, animals, soil and air. The life cycle of a plant sits inside a much bigger cycle of atoms. The carbon in your body was once in plants too, because all your food comes from plants, or from animals that ate plants.",
+   "description": "Fungi like mushrooms, tiny bacteria, earthworms, termites and woodlice all feed on dead leaves and stems. As they eat, they break the plant into smaller and smaller pieces. Some of the plant's carbon goes back into the air as carbon dioxide. The plant's minerals go back into the soil. The next seeds use that air and soil to grow. So the same atoms go round and round through plants, animals, soil and air. The life cycle of a plant sits inside a much bigger cycle of atoms. The carbon in your body was once in plants too, because all your food comes from plants, or from animals that ate plants.",
    "examples": [
     "A pile of fallen leaves under a tree is gone by the next year. Decomposers ate it.",
     "A compost pit turns kitchen peels into dark, crumbly soil in a few months."
    ],
    "perspectives": [],
    "art": "A dead plant lying on soil, with mushrooms, earthworms and bacteria breaking them down, and arrows showing atoms going into the air and soil and up into a new seedling.",
-   "context": "A plant's life cycle ends when they die, or does it? This card follows what happens to a plant's body after death."
+   "context": "Does a plant's life cycle end when they die? This card follows what happens to a plant's body after death."
   },
   {
    "concept": "Every seed carries a copy of the plant's instructions",
@@ -443,15 +443,15 @@
   {
    "concept": "How does bamboo count the years?",
    "status": "idea",
-   "description": "Melocanna bamboo in Mizoram flowers about every 48 years. All the clumps across hundreds of kilometres flower together, even clumps planted far apart. Then they make huge numbers of fruits and die. In 1958 and again from 2006 to 2008, the flowering fed so many rats that they multiplied and then ate the farmers' crops. People there call this mautam, and it caused famine. How the bamboo keeps time for so long, and stays in step, is not known. Nobody has found a 48-year clock inside a plant.",
+   "description": "Melocanna bamboo in Mizoram flowers about every 48 years. All the clumps across hundreds of kilometres flower together, even clumps planted far apart. Then they make huge numbers of fruits and die. In 1958, and again from 2006 to 2008, rats fed on all those fruits and multiplied. Then the rats ate the farmers' crops, and there was famine. People there call this mautam. How the bamboo keeps time for so long, and stays in step, is not known. Nobody has found a 48-year clock inside a plant.",
    "examples": [
     "Neelakurinji in the Nilgiri and Munnar hills flowers together every 12 years.",
-    "Bamboo of one kind planted in another country can still flower at about the same time as their family back home."
+    "Bamboo of one kind planted in another country can still flower at about the same time as bamboo of the same kind back home."
    ],
    "perspectives": [
     {
      "who": "Daniel Janzen, an American scientist, in 1976",
-     "explanation": "Flowering all together makes more seeds than the rats and birds can eat, so some survive. Plants that flowered out of step had their few seeds eaten, so the habit spread."
+     "explanation": "Flowering all together makes more seeds than the rats and birds can eat, so some survive. Plants that flowered out of step had their few seeds eaten, so the habit of flowering together spread."
     },
     {
      "who": "Other scientists",
@@ -490,7 +490,7 @@
   },
   {
    "text": "A plant builds their body mostly from carbon dioxide and water, using sunlight.",
-   "evidence": "Van Helmont's willow grew about 75 kilograms while the soil lost about 60 grams. In the 1950s, Melvin Calvin's team followed carbon from the air into a plant's sugar."
+   "evidence": "In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot. The tree grew by about 75 kilograms, while the soil lost only about 60 grams. In the 1950s, Melvin Calvin's team followed carbon from the air into a plant's sugar."
   },
   {
    "text": "Many plants decide when to flower by measuring the length of the night.",
@@ -502,7 +502,7 @@
    "claim": "A plant gets their food and their body from the soil.",
    "who": "A very common idea. Many people still think it today.",
    "for": "Roots grow in the soil, and plants die if the soil dries out. Plants in good soil grow better.",
-   "against": "Van Helmont's willow grew about 75 kilograms in five years, but the soil lost only about 60 grams. The soil gives water and small amounts of minerals. The rest of the plant is made from carbon dioxide from the air, using sunlight.",
+   "against": "In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot. The tree grew by about 75 kilograms in five years, but the soil lost only about 60 grams. The soil gives water and small amounts of minerals. The rest of the plant is made from carbon dioxide from the air, using sunlight.",
    "status": "rejected",
    "context": "This card is about where a plant's body comes from, and an idea most people believe."
   },
@@ -541,7 +541,7 @@
   {
    "claim": "Edmond Albius, a 12-year-old boy, found the way to make vanilla flowers turn into fruit, in 1841.",
    "who": "Historians of vanilla, and the people of Réunion island",
-   "for": "His owner, Ferréol Bellier-Beaumont, wrote letters saying Edmond had found it. Farmers still use his method of a thin stick and a thumb.",
+   "for": "Edmond was enslaved. The man who owned him, Ferréol Bellier-Beaumont, wrote letters saying Edmond had found it. Farmers still use Edmond's method of a thin stick and a thumb.",
    "against": "A French botanist, Jean Michel Claude Richard, later claimed that he had taught Edmond. And a Belgian botanist, Charles Morren, had made vanilla flowers fruit in a greenhouse a few years earlier, in the 1830s. But Morren's way was slow and was not used on farms.",
    "status": "accepted",
    "context": "Vanilla pods are the fruits of an orchid flower. This card is about who gets the credit for making vanilla flowers turn into fruit outside Mexico."
@@ -554,7 +554,7 @@
    "hint": "Try starting your drawing at a different stage each time. Does it change the story?"
   },
   {
-   "q": "A big tree can weigh as much as a truck, but the soil under them hardly gets less. Where did the tree come from?",
+   "q": "A big tree can weigh as much as a truck, but the soil under them hardly gets less. Where did the tree's body come from?",
    "kind": "deep",
    "hint": "Breathe out onto your hand. What is in your breath that a leaf might want?"
   },
@@ -623,13 +623,13 @@
    "Edmond snapped a thin splinter off a bamboo stick. He slid it under the little flap and lifted it, gently, the way you lift the hand of a sleeping baby. Then he pressed the dusty cap down onto the sticky place with his thumb. He held it for a moment, and let go. The flower looked exactly the same as before. He did another, and another, until the sun was high and the flowers began to close.",
    "For two days, nothing happened. The flowers he had touched wilted, like all the others. But they did not fall. On the third day, Edmond saw it. Where each of his flowers had been, a thin green finger was beginning to grow.",
    "Bellier-Beaumont found them a week later. He stood very still in front of the vine. 'Who did this?' he asked. Edmond's heart was thumping. He had touched the old man's most precious plant without asking. 'I did,' he said. Bellier-Beaumont looked at him for a long moment. 'Show me,' he said.",
-   "So Edmond showed him. The splinter. The flap. The thumb.",
+   "So Edmond showed him how he lifted the flap with the splinter, and how he pressed with his thumb.",
    "After that, Edmond was taken from farm to farm across the island, to teach the enslaved workers how to do it. The farmers called it 'marrying' the vanilla. The green fingers took nine months to ripen into long pods. Then the pods were dried until they turned dark and sweet-smelling. Within a few years, the island was sending vanilla across the world.",
    "Later, a well-known botanist said that he had taught Edmond the trick himself. Bellier-Beaumont wrote letters to say that this was not true, and that the boy had found it alone. In 1848, slavery ended on the island, and Edmond became free. He was given a new surname, Albius, from an old word for white, like the vanilla flower. But he was never paid for his idea, and he died poor, in 1880.",
-   "The vines did not forget him, though. Today, on farms in Madagascar, in Réunion, as Bourbon is now called, and in Kerala and Karnataka in India, people still walk along the vanilla vines in the early morning. They carry a thin stick. They lift the flap. They press with their thumb.",
+   "But Edmond's method was not forgotten. Today, on farms in Madagascar, in Réunion, as Bourbon is now called, and in Kerala and Karnataka in India, people still walk along the vanilla vines in the early morning. They carry a thin stick. They lift the flap. They press with their thumb.",
    "And when the pods are ripe, each one is packed with thousands of seeds, too small to see one at a time. If you have ever seen tiny black specks in a scoop of vanilla ice cream, you have seen them. Every speck is a seed. Every one began in a flower that opened for a single morning, and that someone, with a splinter and a thumb, helped to become a fruit."
   ],
-  "epiphany": "For the parent: a flower is not the end of a plant's work. It is where the fruit will grow, but only after pollen reaches the sticky place in its middle. The pumpkin flower that was dusted grew into a pumpkin. The one left alone shrivelled. The vanilla flowers had always been able to make fruit, but the insect that carries their pollen did not live on the island. Once Edmond moved the pollen himself, each flower turned into a pod full of seeds. That is the life cycle's turn from flower to fruit to seed. Edmond's story is also about who gets the credit for discoveries, and who does not.",
+  "epiphany": "For the parent: a flower is not the end of a plant's work. It is where the fruit will grow, but only after pollen reaches the sticky place in its middle. The pumpkin flower that was dusted grew into a pumpkin. The one left alone shrivelled. The vanilla flowers had always been able to make fruit, but the insect that carries their pollen did not live on the island. Once Edmond moved the pollen himself, each flower turned into a pod full of seeds. That is the part of the life cycle where a flower becomes a fruit with seeds. Edmond's story is also about who gets the credit for discoveries, and who does not.",
   "ask": [
    "Why did the vanilla flowers drop off every year without making any pods?",
    "What did Edmond learn from the two pumpkin flowers, the one that was dusted and the one left alone?",
@@ -1107,7 +1107,7 @@
      "mins": 10,
      "do": "Play by the rules. Each time someone finds a pair, they say one clue that links the flower and the fruit.",
      "say": "You found a pair! What links them? Can you see any part of the flower still on the fruit?",
-     "kid": "Turn over two cards. A flower and its fruit? Keep them! Say what links them. Look for flower leftovers on the fruit.",
+     "kid": "Turn over two cards. If they are a flower and its fruit, keep them! Say what links them. Look for flower leftovers on the fruit.",
      "parent": "Good clues: the brinjal's green cap and the tomato's green star are the flowers' sepals. The pomegranate's crown and the dark tip of a banana are flower leftovers. The pumpkin flower already has a tiny pumpkin behind it. The lotus seed pod is the middle of the lotus flower grown big."
     },
     {
@@ -1153,9 +1153,9 @@
     },
     {
      "t": "write",
-     "p": "A girl says a plant's life is a straight line, from a seed to the day the plant dies. Her friend says it is a circle. Who is right? Explain.",
+     "p": "One person says a plant's life is a straight line, from a seed to the day the plant dies. Another person says it is a circle. Who is right? Explain.",
      "lines": 4,
-     "a": "Both have a point, but the friend is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.",
+     "a": "Both have a point, but the person who says it is a circle is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.",
      "why": "A strong answer agrees that one plant dies, and then explains that their seeds carry the stages on. That is why it is called a life cycle."
     },
     {
@@ -1305,26 +1305,26 @@
      "p": "A family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.",
      "views": [
       {
-       "who": "Amma, the mother, who cooks",
+       "who": "The mother, who cooks",
        "says": "Pick every bhindi while they are young, about a finger long. Old bhindi are hard and stringy to eat."
       },
       {
-       "who": "Paati, the grandmother, who saves seeds",
+       "who": "The grandmother, who saves seeds",
        "says": "Leave a few pods on the plant until they turn dry and brown. Then we have seeds to sow next year."
       },
       {
-       "who": "Gowri, the daughter, aged 8",
+       "who": "The daughter, aged 8",
        "says": "If we pick them young, the plant makes more flowers. So we get more bhindi."
       }
      ],
      "ask": "What would you do with your bhindi plant? Give a reason from the life cycle. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a plan and explains it with the life cycle. For example: pick most pods young to eat, as Amma and Gowri say, but leave two or three to ripen for seeds, as Paati says. It explains that a ripe pod holds the seeds that start the next cycle.",
+     "a": "A strong answer picks a plan and explains it with the life cycle. For example: pick most pods young to eat, as the mother and the daughter say, but leave two or three to ripen for seeds, as the grandmother says. It explains that a ripe pod holds the seeds that start the next cycle.",
      "why": "There is a real trade-off. Young pods are best to eat, and picking them often makes the plant keep flowering. But only a pod left to ripen gives seeds for next year."
     },
     {
      "t": "mcq",
-     "p": "A boy finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
+     "p": "A pumpkin flower has no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
      "opts": [
       "Yes, if a bee visits",
       "No. It is a male flower: it makes pollen, but no fruit",
@@ -1337,7 +1337,7 @@
      "t": "draw",
      "p": "Cut a tomato across the middle. Draw what you see. Label the seeds, and the green star on top. What was the green star before the fruit grew?",
      "a": "A circle with seeds in jelly, in two or more parts. The green star is labelled 'sepals'. They wrapped the flower bud before it opened.",
-     "why": "The tomato's seeds and their green star both show that the fruit was once a flower.",
+     "why": "The tomato's seeds and its green star both show that the fruit was once a flower.",
      "art": "An empty box with a faint outline of a tomato cut in half."
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
      "t": "write",
-     "p": "A girl tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.",
+     "p": "In a very hot week in May, 10 brinjal flowers were tagged. Only 2 became brinjals. In cool December, 10 brinjal flowers were tagged, and 7 became brinjals. Give a reason for the difference.",
      "lines": 3,
      "a": "In great heat, many plants drop their flowers, and pollen can stop working. Fewer insects may visit in the hottest hours too. In cool December the plant was not stressed, so more flowers got pollen and grew into fruits.",
      "why": "A strong answer links the season to the flower falling, and knows that a flower must get pollen to become a fruit.",
@@ -1495,7 +1495,7 @@
     },
     {
      "t": "mcq",
-     "p": "A boy does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
+     "p": "Suppose you do the Floating Leaves experiment again, but forget the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
      "opts": [
       "Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen",
       "Baking soda makes leaves lighter",
@@ -1584,7 +1584,7 @@
      "p": "The neem tree outside a block of flats drops hundreds of fruits every year. Almost none of them grow into new trees.",
      "views": [
       {
-       "who": "Shanthi, aged 9",
+       "who": "A child, aged 9",
        "says": "The tree wastes almost all their fruits. Making so many is pointless."
       },
       {
@@ -1596,9 +1596,9 @@
        "says": "Making many seeds is how a tree makes sure that a few of them land in a good place and grow."
       }
      ],
-     "ask": "Is the neem tree wasteful? Pick a side and give your evidence. Then answer back from another side.",
+     "ask": "Is the neem tree wasteful? Pick a side and give your evidence. Then say one thing another side has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence. For Shanthi: each fruit costs the tree food to make, and most never grow. For the grandmother: the fruits feed birds, and their atoms go back to the soil for other plants. For the botanist: most seeds fail, so a tree that makes many seeds is more likely to have a few young trees. A strong answer then gives another side its due.",
+     "a": "A strong answer picks a side with evidence. For the child: each fruit costs the tree food to make, and most never grow. For the grandmother: the fruits feed birds, and their atoms go back to the soil for other plants. For the botanist: most seeds fail, so a tree that makes many seeds is more likely to have a few young trees. A strong answer then says one thing another side has right.",
      "why": "This is a real trade-off. Fruits cost a tree a lot to make, but most seeds never find a good place to grow. Many plants make huge numbers of seeds, and the fruits that don't grow still feed other living beings."
     },
     {
@@ -1645,7 +1645,7 @@
      "t": "write",
      "p": "When a big tree burns, only a small heap of ash is left. Where did the rest of the tree go? What does this tell you about what the tree was made of?",
      "lines": 4,
-     "a": "Most of the tree went back into the air, as carbon dioxide and water vapour. The ash is the small part that came from the soil, the minerals. This shows the tree was built mostly from air and water, and burning sends that matter back there.",
+     "a": "Most of the tree went back into the air, as carbon dioxide and water vapour. The ash is the small part that came from the soil, the minerals. This shows the tree was built mostly from air and water, and burning sends that matter back into the air.",
      "why": "A strong answer says the wood did not vanish. The wood changed into gases. Matter cannot disappear. It changes form."
     },
     {
@@ -1662,7 +1662,7 @@
     },
     {
      "t": "perspective",
-     "p": "Plants live their lives in very different ways. Imagine three of them could speak.",
+     "p": "Plants live their lives in very different ways. Here is what three of them might say, if they could speak.",
      "views": [
       {
        "who": "A moong plant",
@@ -1679,7 +1679,7 @@
      ],
      "ask": "Which way of living would work best in a place with a long dry season every year? Pick one and give your reasons. Then say what another plant's way does well.",
      "lines": 6,
-     "a": "A strong answer uses the life cycle. For moong: the plant finishes before the dry season, and the dry seeds wait safely for the rain. For mango: deep roots can reach water, and a big tree survives many dry seasons. A strong answer then gives another way its due. For bamboo, flowering all together makes so many seeds that animals cannot eat them all. Scientists think this may be why.",
+     "a": "A strong answer uses the life cycle. For moong: the plant finishes before the dry season, and the dry seeds wait safely for the rain. For mango: deep roots can reach water, and a big tree survives many dry seasons. A strong answer then says what another plant's way does well. For bamboo, flowering all together makes so many seeds that animals cannot eat them all. Scientists think this may be why.",
      "why": "Every way works somewhere. A short life suits a short wet season. A long life suits a plant that can survive bad years. The bamboo's reason is still being studied."
     },
     {
@@ -1717,7 +1717,7 @@
       "So that the bag is the same for both, and only the pollen is different"
      ],
      "a": 3,
-     "why": "In a fair test, only one thing changes. If only one flower had a bag, you could not tell whether the bag or the pollen made the difference. Picking 'bags make fruits grow' is the opposite of what the bagged, unpollinated flower shows.",
+     "why": "In a fair test, only one thing changes. If only one flower had a bag, you could not tell whether the bag or the pollen made the difference. Picking 'bags make fruits grow' cannot be right, because the flower with a bag and no pollen shrivelled.",
      "context": "In the Be Edmond experiment, you move pollen by hand from a male flower to a female flower on a pumpkin, gourd or cucumber vine.",
      "how": "e3"
     },
@@ -1808,7 +1808,7 @@
    "context": "In this experiment you tie a thread on the stalk of a flower that has just opened. Then you visit it every day, to see what the flower turns into.",
    "question": "What happens to a flower after it opens? Does every flower turn into a fruit?",
    "predict": "Before you start, guess two things. How many of your 5 tagged flowers will turn into fruits? And on which day will you first see a baby fruit? Why do you think so?",
-   "fair_test": "This is a watching test, so keep the watching the same. Tag flowers that opened on the same morning, on the same plant. Check them at the same time every day. Measure each one the same way, from where it joins its stalk to its tip. Treat the tagged flowers just like the rest of the plant.",
+   "fair_test": "In this experiment you only watch, so watch every flower the same way. Tag flowers that opened on the same morning, on the same plant. Check them at the same time every day. Measure each one the same way, from where it joins its stalk to its tip. Treat the tagged flowers just like the rest of the plant.",
    "results_table": [
     "Flower (thread colour)",
     "Day the petals fell",
@@ -1965,7 +1965,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Choose 5 flowers that opened this morning. If fewer than 5 opened today, tag more over the next two days. Write down the day you tagged each one. 2. Tie a different coloured thread loosely round each flower's stalk, just below the flower. Leave room, because the stalk will get thicker. 3. Write the colours in the table. 4. Ask your child to guess how many will become fruits.",
-     "say": "Let's tag five flowers that opened today. A thread on each stalk, loose, not tight. Now guess. How many will turn into fruits?",
+     "say": "Let's tag five flowers that opened today. We tie a thread on each stalk, loosely, not tightly. Now guess. How many will turn into fruits?",
      "kid": "Pick 5 flowers that opened today. Tie a thread loosely round each stalk. Write down the colours. Guess: how many will become fruits?",
      "parent": "Most flowers open in the morning. Bhindi flowers close by the afternoon, so tag them early. Tie the thread on the flower's own short stalk, not on the main stem. Otherwise you will not know which flower it was."
     },
@@ -1975,7 +1975,7 @@
      "wait": "Every day for 8 days, about 3 minutes",
      "do": "Each day, at about the same time: 1. Find each thread. 2. Look at what is there now. 3. Measure any baby fruit, from the stalk to the tip. 4. Draw one of them, and write the numbers in the table.",
      "say": "What has changed since yesterday? Are the petals still there? Is anything growing in the middle?",
-     "kid": "Visit your threads. What has changed? Measure any baby fruit. Draw one. Write the numbers down.",
+     "kid": "Find each thread. What has changed at that flower? Measure any baby fruit. Draw one. Write the numbers down.",
      "parent": "What to expect. Bhindi: the petals fall the next day and a pod is about a finger long by day 5 or 6. Chilli and brinjal: a small fruit shows in about 5 to 7 days. Tomato: a pea-sized green ball by about day 7, and it takes weeks to ripen. Some tagged flowers will dry and drop off with no fruit. That is normal, and it is a real result. It happens more in very hot or very dry weather, or where few insects visit. In cold weather everything is slower, so give it up to 14 days."
     },
     {
@@ -2010,7 +2010,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a flower turns into a fruit, but not every flower does. What I saw: the petals fell off the next day. The middle grew into a bhindi pod 10 cm long by day 6. Three of my five flowers became pods, and two fell off. Why: the base of the flower swells into the fruit. That happens if pollen reached it and the plant has enough water."
     }
    ]
@@ -2172,7 +2172,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: fruits hold seeds, and they grow from flowers. What I saw: the pea pod had 6 seeds and the bhindi about 60. The tomato still had a green star from its flower. Why: the base of each flower swelled into the fruit, and its tiny seed-starts grew into seeds."
     }
    ]
@@ -2291,7 +2291,7 @@
      "context": "This is the first step of the Be Edmond experiment. You learn to tell a vine's female flowers from their male flowers.",
      "do": "1. Look along the vine together. 2. Find a female flower: behind its petals is a tiny baby fruit. 3. Find a male flower: it is on a thin stalk, with no baby fruit behind the petals.",
      "say": "These flowers look alike from the front. Turn them over. The female flower has a tiny fruit behind it. The male flower has only pollen. In the story, they were called mother and father flowers.",
-     "kid": "Look behind each flower. A tiny fruit behind the petals? That is a female flower. No fruit, on a thin stalk? That is a male flower.",
+     "kid": "Look behind each flower. If there is a tiny fruit behind the petals, it is a female flower. If there is no fruit, and the flower is on a thin stalk, it is a male flower.",
      "parent": "A young vine often makes only male flowers for the first week or two. Female flowers come later, and there are fewer of them. Pumpkin, cucumber and karela flowers open early in the morning, about 6 to 9 o'clock, and close by midday. Lauki flowers are white and tori flowers are yellow. Both open in the evening, so do this experiment at dusk with them. This experiment needs a vine. If you have none nearby, skip it."
     },
     {
@@ -2317,7 +2317,7 @@
      "wait": "Check once a day for 3 days",
      "do": "1. On day 3, take the bags off, because the flowers have closed. 2. Each day, look at the three baby fruits behind the old flowers. Are they green and growing, or yellow and soft?",
      "say": "Which baby fruits are growing? Which are going yellow?",
-     "kid": "Take the bags off. Check the three baby fruits each day. Green and growing? Or yellow and soft?",
+     "kid": "Take the bags off. Check the three baby fruits each day. Are they green and growing, or yellow and soft?",
      "parent": "A female flower that got pollen usually stays green and starts to swell within 2 or 3 days. One that got none goes yellow and soft, and drops off within 2 to 5 days. The open flower grows only if an insect visited the flower. In very hot weather, even pollinated flowers sometimes drop. If that happens, try again: a vine in season makes new flowers almost every day.",
      "check": {
       "t": "mcq",
@@ -2344,7 +2344,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a female pumpkin flower needs pollen to become a pumpkin. What I saw: the covered flower with no pollen went yellow and fell off by day 4. The covered flower I brushed with pollen was twice as big by day 4. Why: the pollen has to reach the middle of the flower. Only then can its base grow into a fruit with seeds."
     }
    ]
@@ -2463,13 +2463,13 @@
      "say": "Pulling the plunger sucks the air out of the leaf circles. Water goes in instead, so they sink. Leaves have air spaces inside, like a sponge.",
      "kid": "Put 10 circles in the syringe. Suck up some water. Push out the air. Block the tip with a finger. Pull the plunger back hard. Do it again until they sink.",
      "adult": true,
-     "parent": "Your child can do most of this, but small hands may need help holding the tip shut while pulling. Will the circles not sink after 5 tries? Add one more tiny drop of soap to the water and try again."
+     "parent": "Your child can do most of this, but small hands may need help holding the tip shut while pulling. If the circles do not sink after 5 tries, add one more tiny drop of soap to the water and try again."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "1. Squirt the sunk circles into the first glass. 2. Do the same with 10 more circles for the second glass. 3. If any circle floats, poke it down or sink it again.",
-     "say": "All 20 circles are at the bottom now. Let's give them different places to wait.",
+     "say": "All 20 circles are at the bottom now. Next, one glass goes in the light and the other goes in the dark.",
      "kid": "Squirt the circles into the first glass. Do 10 more for the second glass. Are they all at the bottom?"
     },
     {
@@ -2477,7 +2477,7 @@
      "mins": 15,
      "do": "1. Put one glass in bright sunlight, or close under a bright lamp. 2. Put the other in a dark cupboard. 3. Every 5 minutes, count the floating circles in each glass and write the numbers in the table.",
      "say": "Every five minutes, let's count. Look closely at the circles in the light. Can you see tiny bubbles?",
-     "kid": "One glass in bright light. One in the dark cupboard. Every 5 minutes, count the floaters. Write the numbers. Look for tiny bubbles.",
+     "kid": "Put one glass in bright light and one in the dark cupboard. Every 5 minutes, count the floating circles in each glass. Write the numbers down. Look for tiny bubbles.",
      "parent": "In strong sunlight the first circles usually rise after about 5 to 15 minutes. Most float within 20 to 25 minutes. Under a weak lamp or on a cloudy day it is slower, so move the lamp closer or wait longer. The circles in the dark usually stay down. While you wait, your child can draw the two glasses.",
      "check": {
       "t": "mcq",
@@ -2497,7 +2497,7 @@
      "do": "Swap the glasses: put the dark glass in the light, and the light glass in the dark. Look again in 15 minutes.",
      "say": "What do you think will happen now?",
      "kid": "Swap the two glasses. What will happen now? Look again later.",
-     "parent": "The dark circles now usually float too. The floating ones put in the dark slowly sink again over 20 to 30 minutes. The leaf uses up its oxygen to breathe.",
+     "parent": "The circles that were in the dark usually float too, now that they are in the light. The floating circles that were moved into the dark slowly sink again over 20 to 30 minutes. In the dark, the leaf uses up its oxygen to breathe.",
      "think": "A whole tree is doing this in the sun, all day. Where does the oxygen go?"
     },
     {
@@ -2505,7 +2505,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves make gas when light shines on them. What I saw: after 20 minutes, 9 circles were floating in the light, and none in the dark. Why: in light, the leaf makes food from carbon dioxide and water, and gives out oxygen. The bubbles of oxygen lifted the circles."
     }
    ]
@@ -2562,7 +2562,7 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Start in the kitchen: seeds are easy there. 2. Look at pot plants on the balcony or windowsill. 3. Go for a short walk. Look at road edges, cracks in walls, gardens and the vegetable cart.",
+     "do": "1. Start in the kitchen: seeds are easy to find there. 2. Look at pot plants on the balcony or windowsill. 3. Go for a short walk. Look at road edges, cracks in walls, gardens and the vegetable cart.",
      "say": "Where could a seedling be hiding? Look in cracks, at the edge of the road and under trees.",
      "kid": "Start in the kitchen. Then look at pot plants. Then go outside with a grown-up. Fill each box.",
      "adult": true,
@@ -2649,7 +2649,7 @@
      "mins": 5,
      "do": "1. On the second plate, cut out a window the size of one slice. 2. A grown-up makes a hole in the middle of both plates with a pencil point. 3. Push a split pin through both. Or push a short piece of straw through, snip each end into four little flaps, and press them flat. Or tie a big knot of thread on each side.",
      "say": "Now the top plate can turn, and the window will show one stage at a time.",
-     "kid": "Cut a window in the second plate, one slice big. Ask a grown-up to make a hole in the middles. Join the plates.",
+     "kid": "Cut a window in the second plate, the size of one slice. Ask a grown-up to make a hole in the middle of both plates. Join the plates.",
      "adult": true
     },
     {
@@ -2700,7 +2700,7 @@
      "qty": 3
     }
    ],
-   "safety": "A grown-up cuts the money plant stem. Do not eat the onion or potato after the test.",
+   "safety": "A grown-up cuts the money plant stem. Do not eat the onion or potato after this activity.",
    "schedule": [
     {
      "day": 1,
@@ -2748,7 +2748,7 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of New Plants Without Seeds. You set up an onion, a money plant stem and a potato to grow new plants.",
-     "do": "1. Onion: fill a small glass to the top with water. Sit the onion on it, flat roots end down, so only the bottom touches the water. If the glass is wide, push 3 toothpicks into the onion to hold it up. 2. Money plant: take off the leaves near the bottom of the stem. Stand it in a bottle of water so one bump on the stem is under water. 3. Potato: put it on a windowsill or in a warm basket.",
+     "do": "1. Onion: fill a small glass to the top with water. Sit the onion on it with its flat root end down, so only the bottom touches the water. If the glass is wide, push 3 toothpicks into the onion to hold it up. 2. Money plant: take off the leaves near the bottom of the stem. Stand it in a bottle of water so one bump on the stem is under water. 3. Potato: put it on a windowsill or in a warm basket.",
      "say": "None of these is a seed. Let's see if each one can still grow a new plant.",
      "kid": "Sit the onion on a glass of water. Only its bottom touches. Put the money plant stem in water. Put the potato somewhere warm.",
      "parent": "The bumps on a money plant stem are where roots grow from. Some shop onions are treated so they do not sprout. Choose one that already has a green tip, or try two onions. A garlic clove, pointed end up, also works."
@@ -2887,7 +2887,7 @@
      "what": "Draw 16 pages, bind them and flip."
     }
    ],
-   "record": "Flip your book for someone, and tell them what is happening on each part.",
+   "record": "Flip your book for someone, and tell them what is happening in each part.",
    "setup": [
     {
      "art": "A stack of small papers, with a ground line drawn in the same place near the bottom of each one.",
@@ -3189,7 +3189,7 @@
    "id": "c1",
    "title": "Be the Bee: design a pollen mover",
    "mins": 25,
-   "context": "This is a design challenge. Flowers need pollen carried to their middle before they can make fruit. You design and test the best tool for carrying pollen, the way Edmond did with a splinter and his thumb.",
+   "context": "This is a design challenge. Flowers need pollen carried to their middle before they can make fruit. You design and test the best tool for carrying pollen. Edmond, the boy in this unit's story, did this for vanilla flowers with a splinter and his thumb.",
    "problem": "On a high balcony, few bees and butterflies visit. Your job is to design the best tool for picking up pollen from one flower and leaving it on another, without hurting the flowers.",
    "constraints": [
     "It must not tear or bruise the petals.",
@@ -3242,13 +3242,13 @@
      "mins": 4,
      "do": "Before testing, help your child draw or write three ideas for a pollen mover.",
      "say": "Think like an engineer. What would carry pollen best? Something fluffy, something smooth, or something sticky?",
-     "kid": "Think like an engineer! Draw three ideas for a pollen mover. Fluffy, smooth or sticky?"
+     "kid": "Think like an engineer! Draw three ideas for a pollen mover. Should it be fluffy, smooth or sticky?"
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "1. Test each tool the same way: touch the pollen 3 times, then tap the tool 3 times on the dark paper. 2. Write the tool's name beside its spot. 3. Compare the spots: lots, some or few yellow specks.",
-     "say": "Same test for every tool. Which one picks up and drops off the most pollen?",
+     "say": "We do the same test for every tool. Which one picks up and drops off the most pollen?",
      "kid": "Test each tool. Touch the pollen 3 times. Tap the paper 3 times. Which leaves the most yellow specks?",
      "check": {
       "t": "mcq",
@@ -3319,7 +3319,7 @@
      "mins": 5,
      "context": "This is the first step of The Never-Empty Balcony. You read a table of how long plants take to flower.",
      "do": "Read the table together. It shows about how long each plant takes from sowing to their first flowers.",
-     "say": "Every plant has their own speed round the life cycle. If we know the speeds, we can plan.",
+     "say": "Every plant takes their own time to go round the life cycle. If we know how long each one takes, we can plan.",
      "kid": "Read the table. Which plant flowers fastest after sowing? Which is slowest?",
      "chart": {
       "type": "table",
@@ -3391,7 +3391,7 @@
        "Sow all the seeds in one pot"
       ],
       "a": 1,
-      "why": "Each batch goes round its life cycle on its own timetable. Sowing a little every two weeks means a new batch is always coming into flower. Picking 'water them twice as much' cannot change how long an annual's life cycle is. Too much water can even rot them."
+      "why": "Each batch goes round its life cycle on its own timetable. Sowing a little every two weeks means a new batch is always coming into flower. Watering them twice as much cannot change how long an annual's life cycle is. Too much water can even rot them."
      }
     },
     {
@@ -3460,7 +3460,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl pinches off every brinjal flower on her plant as soon as they open. What will happen?",
+   "p": "Suppose every flower on a brinjal plant is pinched off as soon as it opens. What will happen?",
    "opts": [
     "The plant makes bigger brinjals",
     "The plant makes no brinjals",
@@ -3482,7 +3482,7 @@
    ],
    "a": 2,
    "outcome": 1,
-   "why": "A peanut shell is a pod with seeds inside, so it is a fruit. The yellow flowers open above the ground. After pollination, a stalk grows down and pushes the young pod into the soil, where they ripen. Picking 'from the roots' is a natural guess, because we dig peanuts up. But roots do not hold seeds."
+   "why": "A peanut shell is a pod with seeds inside, so it is a fruit. The yellow flowers open above the ground. After pollination, a stalk grows down and pushes the young pod into the soil, where the pod ripens. Picking 'from the roots' is a natural guess, because we dig peanuts up. But roots do not hold seeds."
   },
   {
    "t": "mcq",
@@ -3609,7 +3609,7 @@
    ],
    "a": 3,
    "outcome": 5,
-   "why": "Fungi, bacteria and small animals eat the dead plant. Their carbon goes back into the air and its minerals into the soil, where new plants use them. Picking 'it vanishes' usually means thinking matter can disappear. It cannot. It changes form."
+   "why": "Fungi, bacteria and small animals eat the dead plant. The plant's carbon goes back into the air and the plant's minerals into the soil, where new plants use them. Picking 'it vanishes' usually means thinking matter can disappear. It cannot. It changes form."
   },
   {
    "t": "mcq",
@@ -3835,7 +3835,7 @@
    "explain": "Add 12 each time. 2018 + 12 = 2030. 2030 + 12 = 2042. 2042 + 12 = 2054.",
    "math_unit": "math.patterns.number-patterns.L3",
    "context": "Neelakurinji is a shrub that grows in the hills of Kerala and Tamil Nadu. Their flowers turn whole hillsides blue, but only once every 12 years.",
-   "why_maths": "A plant that flowers on a regular beat makes a number pattern. Spotting the pattern lets you predict when the hills will turn blue again."
+   "why_maths": "A plant that flowers every 12 years makes a number pattern. Spotting the pattern lets you predict when the hills will turn blue again."
   },
   {
    "problem": "Look at the chart from the Floating Leaves experiment. In the light, 9 out of 10 leaf circles were floating after 20 minutes. What fraction is that? How many were still at the bottom?",
@@ -4154,9 +4154,9 @@
  "roots": {
   "context": "We have been learning how a plant goes round from seed to flower to fruit and back to seed. Now we ask what that circle tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your tomato held perhaps 100 seeds, and one tomato plant grows dozens of tomatoes. Very few of those seeds will ever become plants. We eat most of them with the tomato, and birds, ants and mice eat seeds everywhere. So a plant makes far more seeds than they need, and the extra feeds other living things.",
+   "truth": "In the Inside the Fruit experiment, one tomato held about 100 seeds, and one tomato plant grows dozens of tomatoes. Very few of those seeds will ever become plants. We eat most of them with the tomato, and birds, ants and mice eat seeds everywhere. So a plant makes far more seeds than they need, and the extra feeds other living things.",
    "habit": "We think of a seed as the start of a new plant, so a seed that never grows seems wasted. But most seeds become food instead, for birds, ants, mice and people. Rice, wheat and dal are seeds too.",
-   "evidence": "In Inside the Fruit, one tomato held about 100 seeds and one bhindi about 60. One moong seed gives back about 200 seeds, yet a pot has room for only 3 or 4 plants. The Eat the Life Cycle sort shows how many of our foods are seeds."
+   "evidence": "In the Inside the Fruit experiment, one tomato held about 100 seeds and one bhindi about 60. One moong seed gives back about 200 seeds, yet a pot has room for only 3 or 4 plants. The Eat the Life Cycle activity shows how many of our foods are seeds."
   },
   "three": {
    "who_am_i": "Much of your body was built from seeds you ate: rice, wheat, dal and nuts. Each one is food a plant packed for their young.",
@@ -4173,7 +4173,7 @@
    {
     "source": "Gospel of Matthew 13:3-8, the parable of the sower",
     "teaching": "A farmer scatters seed. Some falls on the path, and birds eat it. Some falls on rocks or among thorns, and dies. Some falls on good soil, and gives back a hundred times as much.",
-    "link": "The farmer knew what you found by counting: a plant makes many seeds, and only some grow. The seeds on the path never grew, but they fed the birds."
+    "link": "The farmer knew what you can find by counting the seeds in a fruit: a plant makes many seeds, and only some grow. The seeds on the path never grew, but they fed the birds."
    },
    {
     "source": "Ecclesiastes 3:1-2, in the Hebrew Bible",

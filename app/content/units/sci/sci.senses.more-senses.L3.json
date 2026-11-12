@@ -14,7 +14,7 @@
  "outcomes": [
   "I can name at least four senses that are not on the list of five, and say what each one tells me.",
   "I can explain why I feel dizzy after spinning, using the liquid in the loops of my inner ear.",
-  "I can explain why a steel plate feels colder than a wooden board at the same temperature, using my ice test as evidence.",
+  "I can explain why a steel plate feels colder than a wooden board at the same temperature, using the Ice Race as evidence.",
   "I can say how my muscles and joints tell my brain where my hands and feet are, without my eyes.",
   "I can explain how pain protects the body, and what happens to people who have lost it.",
   "I can describe a sense that people lack but another animal has. I can say what problem the animal faces, and how the sense helps them live.",
@@ -126,7 +126,7 @@
    "concept": "How your balance sense feels turning",
    "status": "defined",
    "definition": "Each inner ear has three liquid-filled loops called semicircular canals. When the head turns, the liquid lags behind and bends tiny hairs, which send signals to the brain.",
-   "description": "The three loops sit at right angles to each other, like the floor and two walls in the corner of a room. So one loop feels nodding, one feels shaking your head, and one feels tipping your head towards a shoulder. When you start to spin, the loops turn with your head, but the liquid inside is slow to start moving. It pushes against the hairs, and the brain knows you are turning. If you keep spinning, the liquid catches up and turns along with you. When you stop, the liquid keeps swirling for a few seconds. It bends the hairs the other way, and the brain thinks you are spinning in the opposite direction. That is dizziness. You saw the same thing with the bowl of water: the water kept turning after the bowl stopped.",
+   "description": "The three loops sit at right angles to each other, like the floor and two walls in the corner of a room. So one loop feels nodding, one feels shaking your head, and one feels tipping your head towards a shoulder. When you start to spin, the loops turn with your head, but the liquid inside is slow to start moving. It pushes against the hairs, and the brain knows you are turning. If you keep spinning, the liquid catches up and turns along with you. When you stop, the liquid keeps swirling for a few seconds. It bends the hairs the other way, and the brain thinks you are spinning in the opposite direction. That is dizziness. In Spin and Stop, the same thing happened in the bowl of water: the water kept turning after the bowl stopped.",
    "examples": [
     "After a ride on a giant wheel at a temple festival, you may feel the ground sway for a moment.",
     "Dancers who spin, such as Kathak dancers, fix their eyes on one spot and whip their head round, so they get less dizzy.",
@@ -154,7 +154,7 @@
    "concept": "Knowing where your hands are",
    "status": "defined",
    "definition": "Proprioception is the sense of where your body parts are and how they move. Stretch sensors in muscles, and sensors in tendons and joints, send signals to the brain all the time.",
-   "description": "Every muscle has tiny stretch sensors inside it. When your elbow bends, some muscles stretch and others get shorter, and the sensors report it. Sensors in your tendons feel how hard a muscle is pulling. Your brain puts these signals together into a picture of where each part of you is. That is how you can eat idli without looking at your hand, or type on a phone while looking at the screen. In the dot test, your pencil landed close to the dot with your eyes shut, but not exactly on it. Without your eyes to check, the body-position sense is good but not perfect.",
+   "description": "Every muscle has tiny stretch sensors inside it. When your elbow bends, some muscles stretch and others get shorter, and the sensors report it. Sensors in your tendons feel how hard a muscle is pulling. Your brain puts these signals together into a picture of where each part of you is. That is how you can eat idli without looking at your hand, or type on a phone while looking at the screen. In Find the Dot, your pencil landed close to the dot with your eyes shut, but not exactly on it. Without your eyes to check, the body-position sense is good but not perfect.",
    "examples": [
     "You can put a spoon of rice into your mouth while looking at the TV.",
     "When your foot 'falls asleep' after sitting cross-legged, you have lost the feeling of where it is, so it is hard to stand on.",
@@ -168,7 +168,7 @@
    "concept": "Why steel feels colder than wood",
    "status": "defined",
    "definition": "Your skin feels warmth and cold by how fast heat flows out of it or into it. Metals are good conductors of heat, so they draw heat from your skin quickly and feel colder.",
-   "description": "Heat always flows from a warmer thing to a cooler thing. The skin of your hand is warmer than most rooms. Touch a steel plate, and the steel carries heat away from the skin very fast, so the skin cools quickly. Your cold receptors fire strongly, and you feel cold. Touch a wooden board at the same temperature, and the wood carries heat away slowly. The skin stays almost as warm, so the wood feels only a little cool. The ice test shows that it is not the plate itself that is colder. The ice was colder than both. Steel carried heat into the ice fast, so that cube melted first. Wood carried heat in slowly, so that cube lasted longer.",
+   "description": "Heat always flows from a warmer thing to a cooler thing. The skin of your hand is warmer than most rooms. Touch a steel plate, and the steel carries heat away from the skin very fast, so the skin cools quickly. Your cold receptors fire strongly, and you feel cold. Touch a wooden board at the same temperature, and the wood carries heat away slowly. The skin stays almost as warm, so the wood feels only a little cool. The Ice Race shows that the steel plate is not really colder than the wooden board. An ice cube was put on each, and the ice was colder than both. Steel carried heat into the ice fast, so that cube melted first. Wood carried heat in slowly, so that cube lasted longer.",
    "examples": [
     "The steel railing on a balcony feels colder than the wooden door in the morning, though both are at the temperature of the air.",
     "A steel tumbler of tea feels hotter in your hand than a clay cup with the same tea, because steel carries heat into your skin fast.",
@@ -182,7 +182,7 @@
    "concept": "Warm spots and cold spots",
    "status": "defined",
    "definition": "The skin has separate receptors for cold and for warmth. They are not spread evenly, and there are many more cold spots than warm spots.",
-   "description": "In 1882, a Swedish scientist, Magnus Blix, touched the skin with a thin metal tip, point by point. Some points felt cold, some felt warm, and some felt only a touch. In 1884, Alfred Goldscheider in Germany found the same on his own. So warmth and cold are sensed by different receptors in different places. Cold receptors are the more common kind. That is why the cold-spot map on the back of your hand had cold squares and squares that felt only a touch. The same receptors can be fooled by chemicals. Menthol, in mint, switches on cold receptors, so your breath feels icy after a peppermint sweet. Capsaicin, in chilli, switches on heat receptors, so chilli feels hot. David Julius and Ardem Patapoutian shared the 2021 Nobel Prize for finding these receptors.",
+   "description": "In 1882, a Swedish scientist, Magnus Blix, touched the skin with a thin metal tip, point by point. Some points felt cold, some felt warm, and some felt only a touch. In 1884, Alfred Goldscheider in Germany found the same on his own. So warmth and cold are sensed by different receptors in different places. Cold receptors are the more common kind. That is why, in the Cold Spot Map, some squares on the back of your hand felt cold and others felt only like a touch. The same receptors can be fooled by chemicals. Menthol, in mint, switches on cold receptors, so your breath feels icy after a peppermint sweet. Capsaicin, in chilli, switches on heat receptors, so chilli feels hot. David Julius and Ardem Patapoutian shared the 2021 Nobel Prize for finding these receptors.",
    "examples": [
     "After sucking a peppermint sweet, a sip of room-temperature water feels cold.",
     "Green chilli makes your mouth feel hot, though the chilli is no warmer than the rest of the food.",
@@ -210,9 +210,9 @@
    "concept": "Animals with senses people lack",
    "status": "defined",
    "definition": "Many animals have senses that people do not have. Each one helps that animal with a problem in their own life.",
-   "description": "A fish in a muddy river cannot see far. They need to know where other fish and hunters are. Their lateral line, a row of sensors along each side, feels the water moving. So a shoal of sardines can turn together without bumping, even at night. A prawn lives in dark, moving water and must know which way is up. They keep grains of sand in a small pit at the base of each short feeler. When a prawn moults their shell, they lose the grains, and pick up new sand. A female mosquito needs blood to make her eggs, and must find someone in the dark. She senses the carbon dioxide in your breath from metres away, then your warmth and smell. A python hunts warm-bodied animals at night. Pits along their lips sense the heat from a rat's body. A spider's eyes see little, but the hairs and slits on their legs feel every shake of their web, so they know where an insect is caught.",
+   "description": "A fish in a muddy river cannot see far. They need to know where other fish and hunters are. Their lateral line, a row of sensors along each side, feels the water moving. So a shoal of sardines can turn together without bumping, even at night. A prawn lives in dark, moving water and must know which way is up. They keep grains of sand in a small pit at the base of each short feeler. When a prawn moults, which means wriggling out of their old shell, they lose the grains and pick up new sand. A female mosquito needs blood to make her eggs, and must find someone in the dark. She senses the carbon dioxide in your breath from metres away, then your warmth and smell. A python hunts warm-bodied animals at night. Pits along their lips sense the heat from a rat's body. A spider's eyes see little, but the hairs and slits on their legs feel every shake of their web, so they know where an insect is caught.",
    "examples": [
-    "A shoal of mathi, sardines, off the Kerala coast turns all at once, using their lateral lines and eyes.",
+    "A shoal of sardines (mathi) off the Kerala coast turns all at once, using their lateral lines and eyes.",
     "A mosquito finds you in a dark room by your breath and warmth.",
     "A garden spider rushes to the exact spot where a fly hit the web."
    ],
@@ -245,7 +245,7 @@
   {
    "concept": "How many senses are there?",
    "status": "debated",
-   "description": "Scientists do not agree on one number. It depends on how you count. If you count by kind of receptor, you find many: warmth, cold, pain, stretch, the three loops of the ear, the ear crystals, light, sound, the five basic tastes, many kinds of smell, and sensors that check your blood and your breath. If you count by experience, you get fewer. Some scientists say about 10, some say over 30.",
+   "description": "Scientists do not agree on one number. It depends on how you count. If you count by kind of receptor, you find many: warmth, cold, pain, stretch, the three loops of the ear, the ear crystals, light, sound, the five basic tastes, many kinds of smell, and sensors that check your blood and your breath. If you count by what you experience, and put together the senses that feel alike, you get fewer. Some scientists say about 10, some say over 30.",
    "examples": [
     "Is touch one sense, or several, since light touch, vibration, warmth, cold and pain each have their own receptors?",
     "Is balance one sense, or two, since the loops feel turning and the crystals feel tilting?"
@@ -283,15 +283,15 @@
   },
   {
    "text": "Fish feel water movement through their lateral line, and prawns and crabs sense which way is down using grains in a balance pit.",
-   "evidence": "Fish with a blocked lateral line swim less well in a shoal. In 1893, Alois Kreidl gave freshly moulted shrimps iron filings instead of sand, and the shrimps tilted when he held a magnet near them."
+   "evidence": "Fish with a blocked lateral line swim less well in a shoal. In 1893, Alois Kreidl gave freshly moulted shrimps iron filings (tiny bits of iron) instead of sand, and the shrimps tilted when he held a magnet near them."
   }
  ],
  "challenging": [
   {
    "claim": "People have exactly five senses.",
    "who": "Aristotle, about 2,350 years ago, and many school books since",
-   "for": "Five senses each have an organ you can point to, so the list is easy to teach.",
-   "against": "Balance, body position, warmth, cold and pain each have their own receptors. Anyone can test them, as you did with the bowl, the dot and the ice.",
+   "for": "Each of the five senses has an organ you can point to, so the list is easy to teach.",
+   "against": "Balance, body position, warmth, cold and pain each have their own receptors. Anyone can test them, as you did in Spin and Stop, Find the Dot and the Ice Race.",
    "status": "rejected",
    "context": "This card is about the old idea that there are only five senses."
   },
@@ -322,7 +322,7 @@
  ],
  "big_questions": [
   {
-   "q": "Your skin said the steel was colder, but the ice said it was not. When a sense and a test disagree, which one tells you the truth?",
+   "q": "In the Ice Race, your skin said the steel plate was colder than the wooden board. But the ice melted faster on the steel, so the steel was not colder. When a sense and a test disagree, which one tells you the truth?",
    "kind": "deep",
    "hint": "Think about what each one really measured: the heat leaving your hand, or the temperature of the plate."
   },
@@ -378,7 +378,7 @@
    "Arjun's mouth fell open. \"She put sand in her own head!\"",
    "Reshma Chechi laughed. \"More or less. In 1893, a scientist in Austria called Alois Kreidl had a clever idea. He put freshly moulted shrimps in a tank with no sand at all, only tiny bits of iron, called iron filings. The shrimps picked up the iron and put it in their balance pits. Then Kreidl held a magnet above them.\"",
    "\"What happened?\"",
-   "\"The magnet attracted the iron towards it. So the shrimps felt as if down had moved. They tipped over to one side, as if the sea floor had moved.\"",
+   "\"The magnet pulled the iron towards it. So the shrimps felt as if down had moved, and they tipped over to one side.\"",
    "Arjun laughed out loud. Then he stopped. \"Chechi, I don't have sand in my ears. Do I?\"",
    "\"Not sand,\" said his aunt. \"But very close. In each of your inner ears there are two little pouches. They hold thousands of tiny crystals, made of the same stuff as chalk and seashells. They rest on a jelly, on top of hairs. When you tilt your head, the crystals slide a little, and the hairs tell your brain. Your body made those crystals itself. The prawn borrows hers from the sea floor.\"",
    "\"And the rocking on the ferry?\"",
@@ -584,7 +584,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick card game. You read a moment from everyday life and hold up the hidden sense that noticed it.",
+   "context": "This is a quick card game. You read a moment from everyday life and hold up the card for the sense that noticed it.",
    "printables": [
     {
      "kind": "cards",
@@ -682,7 +682,7 @@
     "Everyone except the reader holds up the sense card they think noticed it.",
     "The reader turns the card over. Each right card scores 1 point. Some moments use two senses, so two cards held up together can both score.",
     "If people disagree, each one gives a reason. A good reason scores 1 extra point.",
-    "Pass the reader job on after each card. When the stack is finished, the most points wins.",
+    "Pass the reader job on after each card. When the stack is finished, the player with the most points wins.",
     "Playing alone, read each card, choose a sense, then turn it over and check."
    ],
    "flow": [
@@ -744,12 +744,12 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The Ice Race: does ice melt slower on the colder-feeling plate?",
+   "title": "The Ice Race: steel feels colder than wood, so does ice last longer on it?",
    "mins": 30,
    "days": 1,
    "question": "A steel plate feels colder than a wooden board. If we put an ice cube on each, which one melts first?",
    "predict": "Touch the steel plate and the wooden board. Which feels colder? Now guess: on which one will the ice cube melt first? Why do you think so?",
-   "fair_test": "Leave both surfaces in the same room for at least an hour, out of the sun and away from the fan, so they reach the same temperature. Use two ice cubes of the same size from the same tray. Put them down at the same moment. Only the surface changes. A thin steel plate and a thick board are not exactly alike, so this is a fair test of how the two feel and melt ice, not of steel and wood in general.",
+   "fair_test": "Leave both surfaces in the same room for at least an hour, out of the sun and away from the fan, so they reach the same temperature. Use two ice cubes of the same size from the same tray. Put them down at the same moment. Only the surface changes. A thin steel plate and a thick board are not exactly alike. So the test tells you about this plate and this board, not about all steel and all wood.",
    "results_table": [
     "Surface",
     "How it felt to my hand",
@@ -789,7 +789,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "An hour before, set the steel plate and the wooden board side by side. Then touch both, guess, race two ice cubes and check every 5 minutes."
+     "what": "An hour before, set the steel plate and the wooden board side by side. Then touch both and guess which one will melt ice first. Put an ice cube on each and check every 5 minutes."
     }
    ],
    "record": "Fill in the table. Then draw the two cubes as they looked after 10 minutes, with their puddles.",
@@ -798,11 +798,11 @@
      "id": "s1",
      "mins": 4,
      "do": "1. An hour before, put the steel plate and the wooden board side by side on a table. 2. Keep them out of the sun and away from the fan. 3. Now your child presses one palm flat on each for 5 seconds.",
-     "say": "These two have been sitting in the same room for an hour. Put one hand flat on each. Which one feels colder?",
+     "say": "The steel plate and the wooden board have been sitting in the same room for an hour. Put one hand flat on each. Which one feels colder?",
      "kid": "Put one hand on the steel. Put the other hand on the wood. Which feels colder?",
      "ask": [
       {
-       "q": "Which one feels colder? Is it really colder, do you think?",
+       "q": "Does the steel or the wood feel colder? Do you think it really is colder?",
        "good": [
         "The steel feels colder.",
         "The steel is colder.",
@@ -817,8 +817,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask for a guess and a reason. Write both in the table.",
-     "say": "Now we will put an ice cube on each. On which one will the ice melt first? Why do you think so?",
-     "kid": "An ice cube goes on each. Which one melts first? Why?",
+     "say": "Now we will put one ice cube on the steel plate and one on the wooden board. On which one will the ice melt first? Why do you think so?",
+     "kid": "One ice cube goes on the steel plate and one on the wooden board. Which one will melt first? Why?",
      "parent": "Many children say the ice will last longer on the steel, because the steel feels colder. That is a good guess with a good reason. Let the test answer it."
     },
     {
@@ -837,7 +837,7 @@
        "Steel makes its own heat"
       ],
       "a": 0,
-      "why": "If the steel were colder, its ice would last longer. Both sat in the same room, so both were at the same temperature. The steel melted the ice faster because it carries heat quickly from the room into the ice. Picking 'a bigger cube' is fair to check, so swap the cubes next time. Steel makes no heat of its own."
+      "why": "If the steel were colder, its ice would last longer. Both sat in the same room, so both were at the same temperature. The steel melted the ice faster because it carries heat quickly from the room into the ice. A bigger cube on the wood is a fair thing to check, so swap the cubes next time. Steel makes no heat of its own."
      }
     },
     {
@@ -851,9 +851,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A strong answer: What I think: the steel was not colder than the wood, it only felt colder. What I saw: the ice melted faster on the steel. Why: steel carries heat fast. It takes heat out of my hand fast, so it feels cold. It gives heat to the ice fast, so the ice melts. My skin feels heat leaving, not the temperature.",
      "check": {
       "t": "mcq",
@@ -864,7 +864,7 @@
        "Steel is always cold"
       ],
       "a": 1,
-      "why": "The steel carried heat away from your warm skin fast, so your skin cooled quickly and your cold receptors fired. The ice test shows it was not at a lower temperature. A steel plate left in the sun feels hot, so steel is not always cold."
+      "why": "The steel carried heat away from your warm skin fast, so your skin cooled quickly and your cold receptors fired. The Ice Race shows it was not at a lower temperature. A steel plate left in the sun feels hot, so steel is not always cold."
      }
     }
    ],
@@ -962,17 +962,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put a piece of paper on the table and hold it flat by two corners, away from the dot. 2. Your child sits facing it, with the pencil in their writing hand, resting in their lap. 3. Ask for a guess and a reason.",
+     "do": "1. Put a piece of paper with a dot on it on the table. Hold it flat by two corners, away from the dot. 2. Your child sits facing it, with the pencil in their writing hand, resting in their lap. 3. Ask for a guess and a reason.",
      "say": "You will look at the dot, shut your eyes, and try to touch it with your pencil. Will you hit it? Which hand will do better? Why do you think so?",
-     "kid": "Look at the dot. Then shut your eyes. Can you touch it? Which hand will do better? Why?",
+     "kid": "Look at the dot. Then shut your eyes. Can you touch the dot with your pencil? Which hand will do better? Why?",
      "context": "This is the first step of Find the Dot. You test the sense that tells you where your hand is, without your eyes."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Your child looks at the dot for 3 seconds, then shuts their eyes. 2. They lift the pencil from their lap and touch the paper once, pressing enough to leave a small mark. 3. Write the try number and W (writing hand) beside the mark, and turn the paper face down so the mark cannot be seen. 4. Pencil back in the lap, and a fresh paper in front. Do 5 tries.",
-     "say": "Look at the dot. Now eyes shut. Lift your pencil and touch the paper once. Back in your lap. Again.",
-     "kid": "Look. Shut your eyes. Touch the paper once. Hand back in your lap. Do it 5 times.",
+     "do": "1. Your child looks at the dot for 3 seconds, then shuts their eyes. 2. They lift the pencil from their lap and touch the paper once, pressing enough to leave a small mark. 3. Write the try number and W (writing hand) beside the mark, and turn the paper face down so the mark cannot be seen. 4. Your child puts the pencil back in their lap, and you put a fresh paper with a dot in front of them. Do 5 tries.",
+     "say": "Look at the dot. Now shut your eyes. Lift your pencil and touch the paper once. Put your hand back in your lap. Now do it again.",
+     "kid": "Look at the dot. Shut your eyes. Touch the paper once with your pencil. Put your hand back in your lap. Do this 5 times.",
      "parent": "Do not say how close they are until all 5 tries are done, or they will correct their aim. Turning each paper face down also hides the earlier marks."
     },
     {
@@ -986,7 +986,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Add up the misses for each hand. Ask for claim, evidence and reasoning.",
+     "do": "Add up the misses for each hand. Ask your child to say three things: what they think, what they saw, and why it happened.",
      "say": "Your eyes were shut, but your pencil still came close. How did your hand know where to go? What did you see, and why did it happen?",
      "kid": "Your eyes were shut. How did your hand know where to go?",
      "ask": [
@@ -1002,7 +1002,7 @@
      "parent": "A strong answer: my pencil landed about 2 centimetres from the dot, so my body knows where my hand is even without my eyes. The sense is called proprioception. Stretch sensors in my muscles and joints told my brain. It was not perfect, because my eyes usually help to check.",
      "check": {
       "t": "mcq",
-      "q": "With eyes shut, Tashi, a girl in Class 3, touched a pencil to the paper 2 centimetres from the dot. What does this show?",
+      "q": "A girl shuts her eyes and touches her pencil to the paper. It lands 2 centimetres from the dot. What does this show?",
       "options": [
        "Tashi peeked",
        "Her body can sense where her hand is without her eyes, but not perfectly",
@@ -1077,7 +1077,7 @@
    "days": 1,
    "question": "If you spin 10 times instead of 5, does the dizzy feeling last longer?",
    "predict": "Will the dizziness after 10 turns last longer than after 5 turns, the same, or shorter? Why do you think so?",
-   "fair_test": "Spin at the same speed each time, about one turn every 2 seconds, in the same direction. Sit down straight after. Rest 3 minutes between tries, until you feel completely normal. Time each try the same way. The second try may feel different just because it is second, so on a second go, do 10 turns first.",
+   "fair_test": "Spin at the same speed each time, about one turn every 2 seconds, in the same direction. Sit down straight after. Rest 3 minutes between tries, until you feel completely normal. Time each try the same way. The second try may feel different just because it comes second. So if you do the whole test again, do the 10 turns first.",
    "results_table": [
     "Number of turns",
     "Seconds until the room stops spinning",
@@ -1129,15 +1129,15 @@
      "id": "s3",
      "mins": 7,
      "do": "Rest 3 minutes. Then do the same with 10 turns, at the same speed.",
-     "say": "Rest until you feel normal. Now 10 turns, the same speed. Sit, look at my face, and say 'stop' when it is over.",
-     "kid": "Rest first. Now spin 10 times, same speed. Sit. Say stop when the room is still.",
+     "say": "Rest until you feel normal. Now spin 10 times, at the same speed. Sit, look at my face, and say 'stop' when the room stops moving.",
+     "kid": "Rest first. Now spin 10 times, at the same speed. Sit down. Say 'stop' when the room is still.",
      "adult": true,
-     "parent": "Most children feel dizzy for longer after 10 turns, often by a few seconds up to 20 seconds. After more turns the liquid in the ear loops has had longer to catch up with the head, so more of it is swirling when you stop. Every body is different, so results vary. If the times are the same, write that down: 10 turns may be too few to show a difference."
+     "parent": "Most children feel dizzy for longer after 10 turns, by anything from a few seconds to 20 seconds. After more turns the liquid in the ear loops has had longer to catch up with the head, so more of it is swirling when you stop. Every body is different, so results vary. If the times are the same, write that down: 10 turns may be too few to show a difference."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Compare the two times. Ask for claim, evidence and reasoning.",
+     "do": "Compare the two times. Ask your child to say three things: what they think, what they saw, and why it happened.",
      "say": "Which time was longer? What do you think is still moving after you stop?",
      "kid": "Which dizziness lasted longer? What keeps moving after you stop?",
      "parent": "A strong answer: after 10 turns, the dizziness lasted longer. The liquid in the loops of my inner ear had longer to catch up, so it was swirling faster when I stopped and took longer to slow down. While it was still swirling, my brain thought I was turning.",
@@ -1243,7 +1243,7 @@
      "mins": 4,
      "do": "1. Stand the bowl of water on the steel plate, on a table. 2. Float the paper arrow in the middle. 3. Wait until the water is still. 4. Hold the bowl by its rim and turn it a quarter turn, quickly, so it slides on the plate. Watch the arrow.",
      "say": "I will turn the bowl quickly, a little bit. Watch the arrow. Does the water turn with the bowl?",
-     "kid": "Watch the paper arrow. The bowl turns. Does the arrow turn too?",
+     "kid": "Watch the paper arrow as the bowl turns. Does the arrow turn with the bowl?",
      "parent": "The bowl turns, but the water and the arrow follow a little late. Water is slow to start moving. The liquid in the loops of the inner ear lags behind in the same way when your head starts to turn. That lag bends tiny hairs, and the brain knows you are turning."
     },
     {
@@ -1270,7 +1270,7 @@
      "mins": 3,
      "do": "Talk about what the model shows.",
      "say": "Your head is like the bowl, and the liquid in your ear is like the water. When you stopped spinning, what was still turning?",
-     "kid": "Your head is the bowl. The liquid in your ear is the water. What kept turning?",
+     "kid": "Your head is like the bowl. The liquid in your ear is like the water. When you stopped spinning, what kept turning?",
      "parent": "A good answer: my head stopped, but the liquid in my ears kept swirling, so my brain thought I was still spinning."
     }
    ],
@@ -1313,23 +1313,23 @@
      "what": "Make your arm float up on its own, then find your thumb with your eyes shut."
     }
    ],
-   "record": "Write about how high your arm floated (to your waist, to your shoulder, or not at all). Write how many times out of 5 you found your thumb first time.",
+   "record": "Write how high your arms floated: to your waist, to your shoulder, or not at all. Then write how many times out of 5 you found your thumb the first time.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Your child stands in a doorway with arms straight down. 2. They press the backs of both hands outwards against the door frame, firmly, for 30 seconds. 3. Then they step forward out of the doorway and let their arms relax.",
      "say": "Press the backs of your hands out against the door frame. Keep pressing while I count to 30. Now step forward and let your arms go loose. What happens?",
-     "kid": "Press your hands out on the door frame. Count to 30. Step out and relax. Watch your arms!",
-     "parent": "For most people, the arms float up by themselves, as if they were light. This is called the Kohnstamm effect. Scientists still study exactly why it happens, but the idea is that the brain keeps sending the 'press' message for a short time after you stop pressing. Your body-position sense tells you the arms are rising, though you did not decide to lift them. It does not work for everyone. If nothing happens, try pressing for 45 seconds. If there is still nothing, move on to the thumb test.",
-     "context": "This is the first step of The Floating Arm. You make your arm rise on its own, then test how well you know where your hands are."
+     "kid": "Press the backs of your hands out against the door frame while you count to 30. Then step forward and let your arms go loose. Watch your arms!",
+     "parent": "For most people, the arms float up by themselves, as if they were light. This is called the Kohnstamm effect. Scientists still study exactly why it happens, but the idea is that the brain keeps sending the 'press' message for a short time after you stop pressing. Your body-position sense tells you the arms are rising, though you did not decide to lift them. It does not work for everyone. If nothing happens, try pressing for 45 seconds. If there is still nothing, move on to the Thumb Hunt.",
+     "context": "This is the first step of The Floating Arm and the Thumb Hunt. You make your arm rise on its own, then test how well you know where your hands are."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Your child shuts their eyes. 2. Gently move their left arm to a new place in the air and leave it there. 3. They touch their left thumb with their right pointing finger, in one go. 4. Do 5 different places.",
      "say": "Eyes shut. I will move your left hand somewhere. Now find your left thumb with your right finger, in one go.",
-     "kid": "Shut your eyes. A grown-up moves your left hand. Find your left thumb with one finger.",
+     "kid": "Shut your eyes. A grown-up moves your left hand. Touch your left thumb with your right pointing finger, in one go.",
      "ask": [
       {
        "q": "You could not see your left hand. How did your finger find the thumb?",
@@ -1374,7 +1374,7 @@
      "qty": 1
     }
    ],
-   "safety": "Sit still while you suck the sweet. Toothpaste is for a tiny dab only, not for swallowing.",
+   "safety": "Sit still while you suck the sweet. If you use toothpaste, use only a tiny dab and do not swallow it.",
    "schedule": [
     {
      "day": 1,
@@ -1387,7 +1387,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Your child takes a deep breath in through the mouth and a sip of water. Ask how cold each feels, from 1 to 5.",
+     "do": "Your child takes a deep breath in through the mouth and a sip of water. Ask how cold each feels, from 1 (not cold) to 5 (very cold).",
      "say": "Breathe in through your mouth. Now take a sip. How cold is each, from 1 to 5?",
      "kid": "Breathe in through your mouth. Sip the water. How cold, from 1 to 5?",
      "context": "This is the first step of Cool Breath. You test whether mint can make your mouth feel cold."
@@ -1476,15 +1476,15 @@
      "mins": 3,
      "do": "Draw a small grid of 16 squares on the back of your child's hand, each square about as wide as a pencil.",
      "say": "I am drawing a grid on your hand. We will test each square with a cold key. Will every square feel cold? Why do you think so?",
-     "kid": "A grid goes on your hand. Will every square feel cold? Why?",
+     "kid": "A grid is drawn on your hand. A cold key will touch each square. Will every square feel cold? Why?",
      "context": "This is the first step of the Cold Spot Map. You test whether every bit of your skin feels cold the same."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Dip the tip of the key in the ice water for 10 seconds. 2. Wipe it dry. 3. Your child shuts their eyes. 4. Touch the tip lightly in the middle of one square, in a mixed-up order. 5. They say 'cold' or 'just touch'. 6. Mark it on the paper. Re-cool the key every 3 squares.",
+     "do": "1. Dip the tip of the key in the ice water for 10 seconds. 2. Wipe it dry. 3. Your child shuts their eyes. 4. Touch the tip of the key lightly to the middle of one square. Go through the squares in a mixed-up order. 5. They say 'cold' or 'just touch'. 6. Mark it on the paper. Dip the key in the ice water again after every 3 squares.",
      "say": "Eyes shut. I will touch you with the key. Tell me: cold, or just touch?",
-     "kid": "Shut your eyes. Say cold or just touch each time.",
+     "kid": "Shut your eyes. Each time the key touches you, say 'cold' or 'just touch'.",
      "parent": "Some squares feel clearly cold, and some feel only like a touch. Cold receptors are spread in small spots, with gaps between. If every square feels cold, use a thinner tip, such as the end of an opened steel paper clip, and smaller squares. Once or twice, touch with the key at room temperature, not dipped. Your child should say 'just touch'. If not, the answers are guesses, so repeat the squares. The map will not be perfect. In 1882, Magnus Blix mapped cold and warm spots in the same way."
     },
     {
@@ -1543,9 +1543,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Your child puts one hand flat in the middle of the water, eyes shut, and keeps very still. 2. Wait until the water is still. 3. Dip the spoon quickly and quietly on one side of the hand, about 10 cm away, without touching. 4. They point to where the movement came from. 5. Do 6 tries: left, right, front, back, then left and right again. Walk round the basin so your footsteps do not give it away.",
+     "do": "1. Your child puts one hand flat in the middle of the water, eyes shut, and keeps very still. 2. Wait until the water is still. 3. Dip the spoon into the water quickly and quietly on one side of the hand, about 10 cm away, without touching the hand. 4. They point to where the movement came from. 5. Do 6 tries: left, right, front, back, then left and right again. Walk round the basin so your footsteps do not give it away.",
      "say": "Keep your hand still in the water, eyes shut. When you feel the water move, point to where it came from.",
-     "kid": "Hand still in the water. Eyes shut. Feel the water move? Point to where it came from.",
+     "kid": "Keep your hand still in the water, with your eyes shut. When you feel the water move, point to where it came from.",
      "parent": "Water in a basin bounces off the sides, so this is harder than for a fish in open water. Many children point to the right side 2 to 4 times out of 6. Just guessing among four sides would give about 1 or 2. A fish has a lateral line, a row of sensors along each side, that does this much better. It helps them feel a hunter coming or a shoal turning, even in muddy water.",
      "context": "This is the first step of Feel Like a Fish. You try the sense fish use to feel water move."
     },
@@ -1625,7 +1625,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Rule five columns in the notebook: balance, body position, warm and cold, pain, inside senses. Talk about one example for each.",
+     "do": "Draw five columns in the notebook: balance, body position, warm and cold, pain, inside senses. Talk about one example for each.",
      "say": "For five days we will catch the messages your hidden senses send you. Feeling hungry is one. A pebble in your chappal is another. What happened today?",
      "kid": "Make five columns. Write each message your body sent you today.",
      "context": "This is the first day of a 5-day diary. You notice and write down the messages from your senses that are not on the list of five."
@@ -1644,7 +1644,7 @@
      "mins": 5,
      "do": "Count the messages in each column. Talk about which sense sent the most, and what each message did for your child.",
      "say": "Which sense sent you the most messages? Which message kept you safe?",
-     "kid": "Count each column. Which sense spoke most? Which one kept you safe?"
+     "kid": "Count each column. Which sense sent the most messages? Which message kept you safe?"
     }
    ],
    "context": "In this project you keep a diary for five days of the messages your hidden senses send.",
@@ -1667,7 +1667,7 @@
    "mins": 30,
    "problem": "Some people have lost the sense of pain in their feet. This can happen with leprosy, or after many years of the illness diabetes. They do not notice a sharp stone, a blister or a burn from hot sand. Design something that helps them find a hurt before it gets worse.",
    "constraints": [
-    "It must work every day without anyone feeling pain.",
+    "It must work every day, without needing the person to feel pain.",
     "It must be cheap and easy to make in an Indian home.",
     "It must be safe and gentle on the skin."
    ],
@@ -1685,7 +1685,7 @@
    "creative": [
     "A chappal with a bright white lining, so a drop of blood or a wet blister shows at once.",
     "A family checklist chart on the bathroom door, ticked every evening.",
-    "A small cloth-covered tray by the door to tip out each shoe before wearing it."
+    "A small cloth-covered tray by the door. Tip each shoe out over it before wearing it."
    ],
    "your_turn": "Now design your own foot guard. Draw it, label each part, and say which danger it catches.",
    "flow": [
@@ -1694,7 +1694,7 @@
      "mins": 5,
      "do": "Read the problem together. List the dangers for a foot that has lost the sense of pain.",
      "say": "Pain usually tells us when something is wrong. If someone has lost it in their feet, what could hurt their feet without them knowing?",
-     "kid": "Imagine your feet had lost the sense of pain. What could hurt them?",
+     "kid": "Suppose your feet could not feel pain. What could hurt them without you knowing?",
      "context": "This is an engineering challenge. You design a way to protect feet that have lost the sense of pain, as doctors in Vellore did."
     },
     {
@@ -1827,7 +1827,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 3, spins round 10 times and sits down. The room seems to keep turning. What is really still moving?",
+   "p": "A girl spins round 10 times and sits down. The room seems to keep turning. What is really still moving?",
    "opts": [
     "The room",
     "The liquid in the loops of her inner ear",
@@ -1848,13 +1848,13 @@
     "They are at the same temperature, and they feel the same"
    ],
    "a": 2,
-   "why": "Things left in one room all reach room temperature. The steel feels colder because it carries heat away from your skin faster. Picking 'the steel is colder' is the most common answer, but the ice test shows it is not.",
+   "why": "Things left in one room all reach room temperature. The steel feels colder because it carries heat away from your skin faster. 'The steel is colder' is the most common answer, but the Ice Race shows it is not: ice melts faster on the steel.",
    "outcome": 2,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "In the Ice Race, Lakshmi, a girl in Class 3, puts one ice cube on a steel plate and one on a wooden board. Which melts first?",
+   "p": "In the Ice Race, you put one ice cube on a steel plate and one on a wooden board. Which melts first?",
    "opts": [
     "The one on the wooden board",
     "The one on the steel plate",
@@ -1881,7 +1881,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan, a boy helping make dosas, touches a hot tawa and his hand jumps back before he even says 'ouch'. What is this quick movement called?",
+   "p": "You touch a hot tawa, and your hand jumps back before you even say 'ouch'. What is this quick movement called?",
    "opts": [
     "A reflex",
     "A habit",
@@ -1933,11 +1933,11 @@
   },
   {
    "t": "mcq",
-   "p": "After sucking a peppermint sweet, Meenakshi, a girl in Class 3, sips water and it feels very cold. Why?",
+   "p": "After sucking a peppermint sweet, you sip water and it feels very cold. Why?",
    "opts": [
     "The mint cools the water",
-    "Menthol in peppermint switches on her cold receptors",
-    "Her mouth is burnt",
+    "Menthol in peppermint switches on your cold receptors",
+    "Your mouth is burnt",
     "The water came from the fridge"
    ],
    "a": 1,
@@ -1946,7 +1946,7 @@
   },
   {
    "t": "mcq",
-   "p": "Rupa, a girl in Class 4, wants to test if she gets dizzier after 10 spins than after 5. What makes it a fair test?",
+   "p": "You want to test whether you get dizzier after 10 spins than after 5. What makes it a fair test?",
    "opts": [
     "Spin faster for 10 than for 5",
     "Spin at the same speed and rest until normal between tries",
@@ -2158,7 +2158,7 @@
     },
     {
      "t": "perspective",
-     "p": "Divya, a girl in Class 3, and her brother Karthik touch the steel railing and the wooden door on their balcony in the morning.",
+     "p": "Divya and her brother Karthik touch the steel railing and the wooden door on their balcony in the morning.",
      "views": [
       {
        "who": "Karthik",
@@ -2172,7 +2172,7 @@
      "ask": "Who do you agree with? Use what happens when one ice cube is put on a steel plate and one on a wooden board. Then say one thing the other person has right.",
      "lines": 4,
      "how": "e1",
-     "a": "A strong answer agrees with Divya, using the evidence that ice melts faster on steel, which could not happen if the steel were colder. It also says Karthik is right about what he feels: the railing really does feel colder.",
+     "a": "A strong answer agrees that the railing and the door are at the same temperature. It uses the evidence that ice melts faster on steel, which could not happen if the steel were colder. It also says the other person is right about the feeling: the railing really does feel colder.",
      "why": "Both are partly right. The feeling is real, but it measures heat leaving the hand, not temperature."
     }
    ]
@@ -2204,10 +2204,10 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy in Class 3, did Find the Dot. His pencil landed 2 cm from the dot with his eyes shut, but right on it with his eyes open. What does this tell you about how the senses work together?",
+     "p": "In Find the Dot, your pencil landed 2 cm from the dot with your eyes shut, but right on it with your eyes open. What does this tell you about how the senses work together?",
      "lines": 3,
      "how": "e2",
-     "a": "His body-position sense got his hand close, but his eyes made the last correction. Senses check each other, and with both, the hand is more exact.",
+     "a": "My body-position sense got my hand close, but my eyes made the last correction. Senses check each other, and with both, the hand is more exact.",
      "why": "A strong answer says each sense does part of the job, and the brain puts them together."
     },
     {
@@ -2220,7 +2220,7 @@
       "The sun shines more on steel"
      ],
      "a": 1,
-     "why": "If something is warmer than your skin, steel carries its heat into your skin fast, so it feels hotter. It is the same idea as the Ice Race, the other way round."
+     "why": "When the steel is warmer than your skin, it carries heat into your skin fast, so it feels hotter. It is the same idea as the Ice Race, the other way round."
     },
     {
      "t": "truefalse",
@@ -2269,7 +2269,7 @@
     },
     {
      "t": "perspective",
-     "p": "Sneha, a girl in Class 4, feels sick reading in the car on the ghat road to Munnar. Her grandmother and her cousin give advice.",
+     "p": "Sneha feels sick reading in the car on the ghat road to Munnar. Her grandmother and her cousin give advice.",
      "views": [
       {
        "who": "Paati, her grandmother",
@@ -2346,10 +2346,10 @@
     },
     {
      "t": "write",
-     "p": "In the Dizzy Timer, Kavya, a girl in Class 3, felt dizzy for 6 seconds after 5 spins and 14 seconds after 10 spins. Explain the difference.",
+     "p": "Suppose that in the Dizzy Timer you felt dizzy for 6 seconds after 5 spins and 14 seconds after 10 spins. Explain the difference.",
      "lines": 3,
      "how": "e3",
-     "a": "After 10 spins, the liquid in her ear loops was swirling more, so it took longer to slow down and stop. While it swirled, her brain thought she was still turning.",
+     "a": "After 10 spins, the liquid in my ear loops was swirling more, so it took longer to slow down and stop. While it swirled, my brain thought I was still turning.",
      "why": "A strong answer links the number of spins to how much the liquid was moving."
     }
    ]
@@ -2388,7 +2388,7 @@
     },
     {
      "t": "write",
-     "p": "In 1893, Alois Kreidl gave freshly moulted shrimps iron filings instead of sand, and held a magnet above them. The shrimps tipped over. A friend says the shrimps could see the magnet. What test could show that the iron in their balance pits made them tip?",
+     "p": "In 1893, Alois Kreidl gave freshly moulted shrimps iron filings (tiny bits of iron) instead of sand, and held a magnet above them. The shrimps tipped over. A friend says the shrimps could see the magnet. What test could show that the iron in their balance pits made them tip?",
      "lines": 4,
      "a": "Give other freshly moulted shrimps sand and hold the same magnet above them. If they stay upright and only the shrimps with iron tip over, the iron in the pits is the reason, not their eyes.",
      "why": "A strong answer changes one thing, iron or sand, and keeps the magnet the same."
@@ -2414,12 +2414,12 @@
     },
     {
      "t": "mcq",
-     "p": "In the Ice Race, Ammu, a girl in Class 3, found her two cubes melted at almost the same time. Which is the most likely reason?",
+     "p": "In the Ice Race, the two cubes melted at almost the same time. Which is the most likely reason?",
      "opts": [
       "Steel is a poor conductor",
       "The steel plate had just come out of a hot sink, or the board was in the sun",
       "Ice is the same everywhere",
-      "She did not watch closely"
+      "Nobody watched closely"
      ],
      "a": 1,
      "why": "If the two surfaces did not start at the same temperature, the test is not fair. Leaving both in the same shady spot for an hour fixes it. A thicker metal, such as an aluminium lid, gives a bigger difference.",
@@ -2538,7 +2538,7 @@
     },
     {
      "t": "write",
-     "p": "Make up a new test of a hidden sense that nobody in this unit has done. Say what you would change, what you would keep the same, and what you would measure.",
+     "p": "Make up a new test of a hidden sense, one that is not in this unit. Say what you would change, what you would keep the same, and what you would measure.",
      "lines": 5,
      "a": "For example: does standing on one foot get easier after a week of practice? Change the day, keep the same foot, the same floor and eyes open, and measure seconds with a stopwatch.",
      "why": "A strong answer changes one thing, keeps the rest the same, and measures a number."
@@ -2612,7 +2612,7 @@
   "If you could have one animal's sense, which would you choose?",
   "What did pain warn you about this week?",
   "Can you stand on one foot with your eyes shut while I count to ten?",
-  "Why does a steel tumbler of hot milk feel hotter than a cup of the same milk?",
+  "Why does a steel tumbler of hot milk feel hotter than a clay cup of the same milk?",
   "How does a mosquito find you at night?",
   "Is hunger a sense? What tells you that you are hungry?"
  ],
@@ -2660,7 +2660,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Dizzy Timer, Kavya, a girl in Class 3, felt dizzy for 6 seconds after 5 turns and 14 seconds after 10 turns. How many more seconds did 10 turns give? If the pattern goes on, guess how long 15 turns would give, and say why it is only a guess.",
+   "problem": "In the Dizzy Timer, the dizziness lasted 6 seconds after 5 turns and 14 seconds after 10 turns. How many more seconds did it last after 10 turns? If the pattern goes on, guess how long it would last after 15 turns, and say why it is only a guess.",
    "answer": "8 more seconds. A guess for 15 turns is about 22 seconds, but it is only a guess.",
    "explain": "14 - 6 = 8. Each extra 5 turns added 8 seconds, so 14 + 8 = 22. It is only a guess, because the liquid in the ear may stop speeding up after a while, and we have not tested 15 turns.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -2669,7 +2669,7 @@
    "how": "e3",
    "chart": {
     "type": "bar",
-    "title": "Kavya's Dizzy Timer",
+    "title": "Dizzy Timer results",
     "x": "Turns",
     "y": "Seconds of dizziness",
     "data": [
@@ -2687,8 +2687,8 @@
    }
   },
   {
-   "problem": "In Find the Dot, Arjun, a boy in Class 3, missed by 2, 1, 3, 1 and 2 cm. With his other hand they were 4, 3, 2, 3 and 3 cm. Which hand did better? By how much in total?",
-   "answer": "His writing hand did better, by 6 cm in total.",
+   "problem": "In Find the Dot, the writing hand missed by 2, 1, 3, 1 and 2 cm. The other hand missed by 4, 3, 2, 3 and 3 cm. Which hand did better? By how much in total?",
+   "answer": "The writing hand did better, by 6 cm in total.",
    "explain": "Writing hand: 2 + 1 + 3 + 1 + 2 = 9 cm. Other hand: 4 + 3 + 2 + 3 + 3 = 15 cm. 15 - 9 = 6. A smaller total miss means the hand landed closer.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "This is about Find the Dot, where you try to touch a dot with your eyes shut and measure each miss.",
@@ -2705,7 +2705,7 @@
    "how": "e1"
   },
   {
-   "problem": "On her Cold Spot Map, Lakshmi, a girl in Class 3, tested 16 squares. 10 felt cold and the rest felt only like a touch. How many felt only like a touch? What fraction of the squares felt cold?",
+   "problem": "On a Cold Spot Map, 16 squares were tested. 10 felt cold and the rest felt only like a touch. How many felt only like a touch? What fraction of the squares felt cold?",
    "answer": "6 felt only like a touch. 10 out of 16 felt cold, which is the same as 5 out of 8.",
    "explain": "16 - 10 = 6. 10 sixteenths is the same as 5 eighths, because both numbers can be halved.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -2714,9 +2714,9 @@
    "how": "a4"
   },
   {
-   "problem": "Meenakshi, a girl in Class 3, kept a diary. It had 4 balance messages, 7 body-position messages, 5 warm-and-cold messages, 2 pain messages and 12 inside-sense messages in 5 days. Draw a bar chart. Which sense sent the most messages? Why do you think so?",
+   "problem": "A Body Messages Diary kept for 5 days had 4 balance messages, 7 body-position messages, 5 warm-and-cold messages, 2 pain messages and 12 inside-sense messages. Draw a bar chart. Which sense sent the most messages? Why do you think so?",
    "answer": "The inside senses sent the most, 12 messages.",
-   "explain": "The tallest bar is inside senses, 12. That makes sense: every day she felt hungry, thirsty and needed the toilet several times, but she rarely got hurt.",
+   "explain": "The tallest bar is inside senses, 12. That makes sense: we feel hungry, thirsty and need the toilet several times every day, but we rarely get hurt.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "This is about My Body Messages Diary, where you write down the messages your hidden senses send for five days.",
    "why_maths": "A bar chart shows at a glance which senses were busiest, and then you can ask why.",
@@ -2881,16 +2881,16 @@
    "evidence": "In the Ice Race, the steel plate felt colder to the touch. The ice cube on the steel melted much faster than the one on the wooden board. Both had been in the same room for at least an hour, so both were at room temperature."
   },
   "three": {
-   "who_am_i": "You are always trading heat with everything you touch, and your skin keeps track of every trade.",
+   "who_am_i": "Heat is always moving between you and everything you touch, and your skin feels it moving.",
    "what_is_life": "A prawn uses sand from the sea floor to find down, and you use crystals your body made. Every living being builds senses for the life they live.",
    "what_is_this_world": "The world is full of things that mosquitoes, fish and spiders sense and we cannot. What we feel is only part of what is there."
   },
-  "thread": "Heat flows from warmer things to cooler things everywhere: from the Sun to the Earth, from hot tea to the air, from your hand to a plate. Your skin does not stand outside that flow. It is one of the places the flow passes through, and the feeling of cold is that flow passing. The same flow melted the ice. So your feeling and the melting ice were two signs of one movement of heat.",
+  "thread": "Heat flows from warmer things to cooler things everywhere: from the Sun to the Earth, from hot tea to the air, from your hand to a steel plate. Your skin is part of that flow. When heat leaves your skin quickly, you feel cold. In the Ice Race, the same quick flow of heat through the steel melted the ice. So the cold feeling and the melting ice were two signs of one thing: heat moving.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that the touch of the senses with things brings cold and heat, pleasure and pain. These come and go, and do not last. He asks Arjuna to bear them steadily.",
-    "link": "The Gita calls cold and heat a meeting of the senses with things. Your test found the same. The cold was in the meeting, as heat moved between your hand and the steel, and it changed when the meeting changed."
+    "link": "The Gita calls cold and heat a meeting of the senses with things. The Ice Race showed the same. The steel plate felt cold because heat was moving between your hand and the steel. The cold was in that meeting, and it changed when the meeting changed."
    },
    {
     "source": "Satipatthana Sutta, Majjhima Nikaya 10",
@@ -2920,18 +2920,18 @@
    "title": "Feel the heat moving",
    "mins": 3,
    "say": "Close your eyes. Rest one palm on a steel tumbler and the other on a wooden spoon or a cloth. Keep them still for one minute. Notice how the cold under the steel fades. Your skin is giving its warmth to the steel, and the steel is getting warmer. Now lift both hands, and breathe slowly three times. Can you still feel where the steel was?",
-   "kid": "Shut your eyes. One hand on a steel tumbler. One hand on a cloth. Keep still for one minute. Does the cold fade? Your warmth is going into the steel."
+   "kid": "Shut your eyes. Put one hand on a steel tumbler and the other on a cloth. Keep still for one minute. Does the cold fade? Your warmth is going into the steel."
   },
   "ask": [
-   "If your skin feels heat moving, not temperature, what else might your senses be telling you that is different from what you think?",
-   "The steel took your warmth until it was nearly as warm as you. Where does your warmth go when you touch things all day?",
+   "Your skin feels heat moving, not temperature. Which other sense might be telling you something different from what you think it tells you?",
+   "In Feel the heat moving, the steel tumbler took warmth from your palm until the cold feeling faded. Where does your warmth go when you touch things all day?",
    "A prawn uses sand from outside their body to sense. Can something from outside you become part of how you sense?"
   ],
   "art": "A child with eyes closed, one palm on a steel tumbler and the other on a folded cotton cloth, with soft arrows of warmth flowing from the palm into the steel."
  },
  "playtest": "Every activity was walked through as if in a city flat. The Ice Race needs a steel thali and a wooden or plastic chopping board, set out an hour before. The cubes on steel melt visibly sooner, but how soon depends on the room, and the steps say what to write if the two cubes melt together. A thin thali gives a smaller difference than thick metal, so an aluminium lid is an optional third surface. Find the Dot uses ten small papers so the child never sees earlier marks. Spin and Stop turns the bowl by its rim on a steel plate. Cool Breath uses a peppermint sweet, since pudina leaves have little menthol. The Cold Spot Map may show every square as cold if the tip is too wide, so the step suggests an opened paper clip and a room-temperature check. Feel Like a Fish is harder in a basin than in open water, and the step says so. Spinning is done slowly on a mat with a grown-up close. Animal Sense Trios is played face up with an answer sheet, so it always ends. The project and games need only paper. No purchases are needed.",
  "how_we_found_out": {
-  "story": "For thousands of years, people believed leprosy made fingers and toes rot and fall off by itself. People with leprosy lost parts of their hands and feet, and many were pushed out of their towns. In the late 1940s, Paul Brand, a British surgeon at the Christian Medical College in Vellore, began to look closely. He noticed that his patients often hurt their hands while working, and did not seem to notice. He tested the hands of many patients. Their flesh was healthy, but the nerves had stopped carrying pain. So their hands were being hurt in daily life. A patient could hold a hot cooking pot, walk all day with a sharp stone in a shoe, or keep using a cut hand, and never notice it. The wounds got worse because nobody rested them. His wife, Margaret Brand, an eye doctor, found that the same thing harmed the eyes. Patients who could not feel their eyes did not blink enough to protect them. With soft shoes, careful habits and checking hands and feet every day, people with leprosy kept their fingers and toes. Leprosy can now be cured with medicines that are free in India.",
+  "story": "For thousands of years, people believed that leprosy itself made fingers and toes rot and fall off. People with leprosy lost parts of their hands and feet, and many were pushed out of their towns. In the late 1940s, Paul Brand, a British surgeon at the Christian Medical College in Vellore, began to look closely. He noticed that his patients often hurt their hands while working, and did not seem to notice. He tested the hands of many patients. Their flesh was healthy, but the nerves had stopped carrying pain. So their hands were being hurt in daily life. A patient could hold a hot cooking pot, walk all day with a sharp stone in a shoe, or keep using a cut hand, and never notice it. The wounds got worse because nobody rested them. His wife, Margaret Brand, an eye doctor, found that the same thing harmed the eyes. Patients who could not feel their eyes did not blink enough to protect them. With soft shoes, careful habits and checking hands and feet every day, people with leprosy kept their fingers and toes. Leprosy can now be cured with medicines that are free in India.",
   "who": "Paul Brand, a surgeon, and Margaret Brand, an eye doctor, at the Christian Medical College, Vellore",
   "when": "The late 1940s to the 1960s",
   "wrong_idea": "People thought the disease itself ate away fingers and toes. Paul Brand showed that leprosy damages the nerves, so people stop feeling pain, and the injuries come from everyday use that nobody feels."

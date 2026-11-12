@@ -3,7 +3,7 @@
  "title": "Illusions: how your brain can be fooled about what you see",
  "level": 3,
  "summary": {
-  "text": "Two lines can both be 10 cm long, yet one looks clearly longer than the other. A ruler shows the truth, and the eyes are not broken. Seeing is done by the eyes and the brain together. The eyes catch light, and the brain works out sizes, distances, shapes and movement from clues, like what is around a thing and where shadows fall. An illusion is a time when those clues lead the brain to the wrong answer. Even after you know the answer, most illusions still fool you. Touch can be fooled too, and some animals, like butterflies with eyespots and the great bowerbird, use illusions to live their lives.",
+  "text": "Two lines can both be 10 cm long, yet one looks clearly longer than the other. A ruler shows they are equal, and nothing is wrong with the eyes. Seeing is done by the eyes and the brain together. The eyes catch light, and the brain works out sizes, distances, shapes and movement from clues, like what is around a thing and where shadows fall. An illusion is a time when those clues lead the brain to the wrong answer. Even after you know the answer, most illusions still fool you. Touch can be fooled too. Some animals, like butterflies with eyespots and the great bowerbird, use illusions to startle a hunter or to attract a mate.",
   "art": "A child in a Chennai flat holding a ruler against two lines drawn in a notebook, one with arrowheads and one with open fins, looking surprised. Behind, faint drawings of railway tracks meeting in the distance and a butterfly with large eyespots."
  },
  "intro": {
@@ -36,7 +36,7 @@
   {
    "term": "Perception",
    "meaning": "What your brain makes of what your senses pick up. It is the picture or feeling you end up with.",
-   "example": "You see a whole friend's face, though your eyes only catch light.",
+   "example": "You see your friend's whole face, though your eyes only catch light.",
    "art": "A child looking at a friend, with dotted light rays going into the child's eye and a thought bubble showing the friend's face."
   },
   {
@@ -228,8 +228,8 @@
   {
    "concept": "Animals that use illusions",
    "status": "defined",
-   "definition": "Many animals live among other animals' eyes and brains, so some of them have bodies or habits that create illusions.",
-   "description": "A small butterfly has a big problem: many birds want to eat them. The peacock pansy, common in Indian gardens, has large round eyespots on their wings. In experiments with the European peacock butterfly, small birds were often startled and backed away when the butterfly suddenly opened their wings and showed the eyespots. A bird's brain, like ours, takes two big round spots as a warning. Camouflage works the other way: colours and patterns help an animal disappear into the leaves or the ground. In Australia, male great bowerbirds lay out stones, bones and shells in front of the shelter they build to court females. In 2012 the scientist Laura Kelley and her colleague John Endler found that the males put small objects near the female and bigger ones further away. This makes the court look evenly patterned from where she watches. Males whose courts made a better illusion mated more often. Why it works so well is still being studied.",
+   "definition": "Animals are seen by other animals, whose eyes and brains can be fooled too. So some animals have bodies or habits that create illusions.",
+   "description": "A small butterfly has a big problem: many birds want to eat them. The peacock pansy, common in Indian gardens, has large round eyespots on their wings. In experiments with the European peacock butterfly, small birds were often startled and backed away when the butterfly suddenly opened their wings and showed the eyespots. A bird's brain, like ours, takes two big round spots as a warning. Camouflage works the other way: colours and patterns help an animal disappear into the leaves or the ground. In Australia, male great bowerbirds build a shelter to attract females. In front of it they lay out stones, bones and shells on a patch of ground called the court. In 2012 the scientist Laura Kelley and her colleague John Endler found that the males put small objects near the female and bigger ones further away. This makes the court look evenly patterned from where she watches. Males whose courts made a better illusion mated more often. Why it works so well is still being studied.",
    "examples": [
     "A peacock pansy butterfly showing eyespots to a bird.",
     "A great bowerbird's court of grey stones, small near the shelter and larger further out."
@@ -246,7 +246,7 @@
   },
   {
    "text": "Seeing is done by the eyes and the brain together. The brain uses clues to work out size, distance, shape and movement.",
-   "evidence": "Illusions change when only the clues change, such as the fins on a line or the way a shaded circle is turned, while the light into the eye is the same kind."
+   "evidence": "An illusion changes when only the clues change, such as the fins on a line or which way up a shaded circle is. The line or the circle itself stays the same."
   },
   {
    "text": "Films and cartoons work because the brain joins still pictures into movement.",
@@ -290,7 +290,7 @@
    "claim": "Horizontal stripes make a person look wider.",
    "who": "A common rule in clothes shops",
    "for": "Many people feel that stripes going across the body make it look broad.",
-   "against": "In a test in 2011, Peter Thompson and Kyriaki Mikellidou found that a figure with horizontal stripes looked slightly thinner and taller, as the scientist Hermann von Helmholtz had noticed with striped squares in the 1860s. Other studies found the effect depends on the body shape.",
+   "against": "In a test in 2011, Peter Thompson and Kyriaki Mikellidou found that a figure with horizontal stripes looked slightly thinner and taller. The scientist Hermann von Helmholtz had noticed the same thing with striped squares in the 1860s. Other studies found the effect depends on the body shape.",
    "status": "debated",
    "context": "This card is about a fashion rule and what tests have found."
   },
@@ -304,14 +304,14 @@
   }
  ],
  "how_we_found_out": {
-  "story": "When films came to cinema halls in the 1890s, people asked how still pictures could look like moving people. The popular answer was 'persistence of vision'. It said each picture stays on the eye for a moment and blurs into the next one. Toy makers had used this idea since the 1820s for spinning picture toys. In 1912, in Frankfurt, a scientist called Max Wertheimer tested how we see movement. He flashed a short line of light, and then a second line a little to one side, with a tiny gap of time in between. When the gap was long, people saw one line and then the other. When it was very short, they saw both lines at once. But at a gap in between, they saw something surprising: one line moving across, through the empty space between the two. Nothing had been there to see. If the pictures only blurred together on the eye, people would see two lines at once, not one line travelling. So the movement was being made by the brain. Two of the people in his tests, Wolfgang Köhler and Kurt Koffka, became famous scientists too. Many books still say films move because of persistence of vision, but scientists who study seeing say that is wrong.",
+  "story": "When films came to cinema halls in the 1890s, people asked how still pictures could look like moving people. The popular answer was 'persistence of vision'. It said each picture stays on the eye for a moment and blurs into the next one. Toy makers had used this idea since the 1820s for spinning picture toys. In 1912, in Frankfurt, a scientist called Max Wertheimer tested how we see movement. He flashed a short line of light, and then a second line a little to one side, with a tiny gap of time in between. When the gap of time was long, people saw one line and then the other. When it was very short, they saw both lines at once. But when the gap of time was in between, they saw something surprising: one line moving across the empty space between the two. There was nothing in that space to see. If the pictures only blurred together on the eye, people would see two lines at once, not one line travelling. So the movement was being made by the brain. Two of the people in his tests, Wolfgang Köhler and Kurt Koffka, became famous scientists too. Many books still say films move because of persistence of vision, but scientists who study seeing say that is wrong.",
   "who": "Max Wertheimer, with Wolfgang Köhler and Kurt Koffka, in Frankfurt",
   "when": "1912",
   "wrong_idea": "People thought films seem to move because each picture stays on the eye and blurs into the next ('persistence of vision'). Wertheimer showed that people see one line travelling between two flashed lines, which blurring cannot explain. The brain makes the movement."
  },
  "big_questions": [
   {
-   "q": "Your eyes caught the light correctly, but your brain got the length wrong. So who was fooled: your eyes, your brain, or you?",
+   "q": "In the arrow-lines illusion, your eyes caught the light correctly, but your brain got the length wrong. So who was fooled: your eyes, your brain, or you?",
    "kind": "deep",
    "hint": "Think about which part did the measuring, which part did the seeing, and which part knew the answer."
   },
@@ -517,7 +517,7 @@
      "kid": "Count your tokens. Which card fooled you most?",
      "check": {
       "t": "mcq",
-      "q": "In the game, Kavya, a girl of nine, bet 3 tokens that two equal lines were different, and lost. What is the best lesson for her?",
+      "q": "In the game Trust Your Eyes or the Ruler?, a player bets 3 tokens that two equal lines are different, and loses. What is the best lesson for that player?",
       "options": [
        "Never trust your eyes about anything",
        "Eyes are usually right, but for lengths that matter, measure",
@@ -687,7 +687,7 @@
    "days": 1,
    "question": "Two lines are both 10 cm long. One has arrowheads, and one has fins that open outwards. When people copy each line by eye, how long do they draw it? And does knowing the answer change that?",
    "predict": "Guess first. When people copy each line by eye, will they draw it the right length, too long or too short? Will they still get it wrong after they know all the lines are 10 cm? Why do you think so?",
-   "fair_test": "Every test line is exactly 10 cm, drawn on the same kind of paper strip. Everyone copies in the same way: by eye, starting from a dot, with no ruler. Only the ends of the test line change. A plain line with no fins shows how well each person copies anyway, so we can see how much the fins added. Copying the open-fin line a second time also gives practice, so a small change after knowing may be practice and not knowing.",
+   "fair_test": "Every test line is exactly 10 cm, drawn on the same kind of paper strip. Everyone copies in the same way: by eye, starting from a dot, with no ruler. Only the ends of the test line change. A plain line with no fins shows how well each person copies a line without any illusion, so we can see how much the fins added. Copying the open-fin line a second time also gives practice. So if the second copy is only a little closer to 10 cm, that may be because of practice, not because of knowing the answer.",
    "results_table": [
     "Person",
     "Plain line (cm)",
@@ -767,7 +767,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Hide the ruler. 2. Give the first person their blank 'plain' strip and a pencil. Lay the plain test strip above it. 3. Say: 'Start at the dot. Draw a straight line to the right, as long as the line on the test strip. Don't count the fins.' 4. Do the same with the 'arrowheads' strip and then the 'open fins' strip. 5. Write the person's name on each strip. 6. Repeat with each person. Keep the 'open fins again' strips for step 5.",
-     "say": "Start at the dot. Draw a line as long as the line on the left. Take your time. Don't count the fins.",
+     "say": "Start at the dot. Draw a line as long as the line on the test strip. Take your time. Don't count the fins.",
      "kid": "Start at the dot. Draw a line just as long as the test line. Don't count the fins. No ruler!",
      "parent": "Your child can be a tester too. Copy the lines yourself after your child, on your own strips. Let each person look back and forth as much as they like. They must not use their fingers or the pencil to measure, and the test strip must not touch the copy strip."
     },
@@ -779,14 +779,14 @@
      "kid": "Measure each copy with the ruler. Write the number in the table.",
      "check": {
       "t": "mcq",
-      "q": "Gayathri, a girl in Class 3, copied the open-fin line. Her copy was 11.5 cm long. The real line is 10 cm. What does this show?",
+      "q": "You copy the open-fin line by eye. Your copy is 11.5 cm long. The real line is 10 cm. What does this show?",
       "options": [
-       "Gayathri cannot draw straight lines",
-       "The open fins made the line look longer to Gayathri",
+       "You cannot draw straight lines",
+       "The open fins made the line look longer to you",
        "The ruler is broken"
       ],
       "a": 1,
-      "why": "Gayathri drew the line too long because it looked longer to her. If she simply drew badly, her plain line would be far from 10 cm too, so compare it with her plain line. The ruler is fine: it showed the lines are all 10 cm."
+      "why": "You drew the line too long because it looked longer to you. If you simply drew badly, your copy of the plain line would be far from 10 cm too, so compare the two copies. The ruler is fine: it showed the lines are all 10 cm."
      }
     },
     {
@@ -795,15 +795,15 @@
      "do": "1. Show everyone the ruler on the three test strips, so they see all three lines are 10 cm. 2. Give each person their 'open fins again' strip, with the open-fin test strip above it. 3. Say: 'You know it's 10 cm now. Copy it again.' 4. Measure and write it in the last column.",
      "say": "Now everybody knows the truth. All the lines are 10 cm. Will knowing help? Let's try the open-fin line once more.",
      "kid": "Now you know every line is 10 cm. Copy the open-fin line again. Does knowing help?",
-     "parent": "Ask people to copy what they see, not to correct on purpose. Some people will draw it a bit shorter than before. Most will still draw it longer than 10 cm. The second try also gives practice, so a big change would mean more than a small one."
+     "parent": "Ask people to copy what they see, not to correct on purpose. Some people will draw it a bit shorter than before. Most will still draw it longer than 10 cm. The second try also gives practice, so a small change may only be practice. Only a big change would show that knowing helped."
     },
     {
      "id": "s6",
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the fins fool people about the line's length, even when they know. What I saw: plain lines were copied at about 10 cm. Arrowhead lines were copied shorter, about 8.5 cm, and open-fin lines longer, about 11.5 cm. After we knew, the open-fin copies were still about 11 cm. Why: the brain uses the fins as a clue to the length, and knowing does not switch that off. Your own numbers will be different. Any difference larger than the plain line's error counts."
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the fins fool people about the line's length, even when they know. What I saw: plain lines were copied at about 10 cm. Arrowhead lines were copied shorter, about 8.5 cm, and open-fin lines longer, about 11.5 cm. After we knew, the open-fin copies were still about 11 cm. Why: the brain uses the fins as a clue to the length, and knowing does not switch that off. Your own numbers will be different. Any difference bigger than the mistake on the plain line counts as the illusion."
     }
    ],
    "context": "In this experiment you find out how much the arrow-lines illusion fools the people in your home, by asking them to copy lines by eye and measuring their copies. Then you find out whether knowing the answer helps.",
@@ -898,7 +898,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write a list of 20 tries. 2. For each try, toss a coin. Heads means one pea, tails means two peas. 3. Mark tries 1 to 10 'normal' and tries 11 to 20 'crossed'.",
+     "do": "1. Write the numbers 1 to 20 down a page, one for each try. 2. For each try, toss a coin. Heads means one pea, tails means two peas. Write 'one' or 'two' next to the number. 3. Mark tries 1 to 10 'normal' and tries 11 to 20 'crossed'.",
      "say": "We'll make a secret list. The coin decides one pea or two, so I can't give you a clue.",
      "kid": "The coin chooses one pea or two. Then nobody can guess the pattern.",
      "context": "This is the first step of the Crossed Fingers experiment. Here you make a secret list that says whether to touch with one pea or two."
@@ -908,7 +908,7 @@
      "mins": 2,
      "do": "Ask your child for a guess and a reason.",
      "say": "With your eyes shut, will you always know if it's one pea or two? What about with your fingers crossed? Why do you think so?",
-     "kid": "Will you always know? What if your fingers are crossed? Why do you think so?",
+     "kid": "With your eyes shut, will you always know if it is one pea or two? What if your fingers are crossed? Why do you think so?",
      "parent": "Write the guess down. Don't explain anything yet."
     },
     {
@@ -928,22 +928,22 @@
      "parent": "Most people feel two peas when one pea is rolled between crossed fingertips. It may help to roll the pea a little more. Some people feel one round pea that seems strangely wide.",
      "check": {
       "t": "mcq",
-      "q": "Farhan, a boy in Class 3, crossed his fingers. One pea was rolled between his fingertips, and he felt two. Why?",
+      "q": "You cross your fingers. One pea is rolled between your fingertips, and you feel two. Why?",
       "options": [
-       "His fingers were too cold",
-       "His brain expects those two finger sides to touch two different things",
+       "Your fingers were too cold",
+       "Your brain expects those two finger sides to touch two different things",
        "The pea split into two"
       ],
       "a": 1,
-      "why": "With fingers normal, the outer sides of the first and middle fingers face away from each other. One small thing never touches both at once. So when both feel a pea, Farhan's brain decides there must be two peas. Cold fingers would feel less, not more, and the pea stayed whole."
+      "why": "With fingers normal, the outer sides of the first and middle fingers face away from each other. One small thing never touches both at once. So when both feel a pea, your brain decides there must be two peas. Cold fingers would feel less, not more, and the pea stayed whole."
      }
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "Count the right answers for tries 1 to 10 and for tries 11 to 20. Then ask for claim, evidence and reasoning.",
+     "do": "Count the right answers for tries 1 to 10 and for tries 11 to 20. Then ask your child what they think now, what they saw, and why they think it happened.",
      "say": "How many did you get right with fingers normal? With fingers crossed? What do you think now, and why?",
-     "kid": "Count your right answers. Normal fingers? Crossed fingers? What do you think now? Why?",
+     "kid": "Count your right answers with fingers normal, and with fingers crossed. What do you think now? Why?",
      "parent": "A good answer sounds like this. What I think: crossing my fingers fools my sense of touch. What I saw: with fingers normal I got 10 out of 10 right. With fingers crossed I got 6 out of 10, and most mistakes were feeling two peas when there was one. Why: my brain uses a map of where my fingers usually are, and crossing them puts the fingers in the wrong place on that map."
     }
    ],
@@ -1115,14 +1115,14 @@
      "kid": "Turn the page upside down. Which are bumps now? Which are dents?",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 3, turns her page of shaded circles upside down. The bumps become dents. What changed?",
+      "q": "You turn a page of shaded circles upside down. The bumps become dents. What changed?",
       "options": [
        "The pencil marks moved",
-       "Her brain still guessed the light was coming from above, so it decided the surfaces faced the other way",
+       "Your brain still guessed the light was coming from above, so it decided the surfaces faced the other way",
        "The room got darker"
       ],
       "a": 1,
-      "why": "Nothing on the page moved. Lakshmi's brain expects light from above, as sunlight and most lamps are. A circle light at the top must be facing up towards the light, so it looks like a bump. Turn it over, and the light part is at the bottom, so it looks like a dent."
+      "why": "Nothing on the page moved. Your brain expects light from above, because sunlight and most lamps shine from above. A circle that is light at the top must be facing up towards the light, so it looks like a bump. Turn the page upside down, and the light part is at the bottom, so the circle looks like a dent."
      }
     },
     {
@@ -1130,7 +1130,7 @@
      "mins": 2,
      "do": "Ask: where does the light come from, most of the time, in our home and outside?",
      "say": "Where does light usually come from? Why might your brain expect that?",
-     "kid": "Where does light usually come from? The Sun and lamps. Up or down?",
+     "kid": "Where does light usually come from? Think of the Sun and lamps. Are they above you or below you?",
      "parent": "The Sun and most lamps are above us, so the brain has learned to expect light from above. The scientist V. S. Ramachandran, born in Tamil Nadu, studied this illusion."
     }
    ]
@@ -1222,7 +1222,7 @@
      "do": "Ask why the bird seems to be in the cage.",
      "say": "There are two separate pictures. Why do you see one?",
      "kid": "Two pictures, but you see one. Why do you think that happens?",
-     "parent": "The pictures swap many times each second. The brain cannot keep them apart that fast, so it joins them into one. The toy, called a thaumatrope, was sold in London from 1825. People said it worked by 'persistence of vision', but scientists today say the brain's joining is more than a fading image on the eye."
+     "parent": "The pictures swap many times each second. The brain cannot keep them apart that fast, so it joins them into one. The toy, called a thaumatrope, was sold in London from 1825. People said it worked by 'persistence of vision'. Scientists today say a fading image on the eye is not enough to explain it: the brain joins the pictures."
     }
    ]
   },
@@ -1493,7 +1493,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Hold the top page up by its corner and let it drop, again and again, quickly.",
+     "do": "Lift the top page by its corner and let it drop. Do this again and again, quickly.",
      "say": "Flip the page up and down fast. What do you see?",
      "kid": "Flip the top page up and down quickly. What do you see?",
      "ask": [
@@ -1510,7 +1510,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask where the movement is.",
+     "do": "Ask where the movement comes from.",
      "say": "Nothing on the pages moves. So where does the movement come from?",
      "kid": "The dots never move. So who made the movement?",
      "parent": "The brain joins the two still dots into one dot that moves. This is called apparent motion, and it is how films and cartoons work. Wertheimer used two lines of light flashed one after the other, and his helpers saw one line move across."
@@ -1640,7 +1640,7 @@
     "Use smaller steps near the top of the bounce, where a real ball slows down, and bigger steps near the ground.",
     "Add a shadow under the ball that grows as the ball comes down."
    ],
-   "your_turn": "Now invent your own flip book. A falling leaf, a dosa being flipped, a crow taking off. How few pages can still look smooth?",
+   "your_turn": "Now invent your own flip book. You could draw a falling leaf, a dosa being flipped, or a crow taking off. How few pages can still look smooth?",
    "context": "This is a design challenge. You make a flip book where still drawings look like a ball bouncing, and find out how few pages you need.",
    "setup": [
     {
@@ -1672,8 +1672,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask where the movement is.",
-     "say": "Every page is still. Where is the bounce?",
+     "do": "Ask where the bounce comes from.",
+     "say": "Every page is still. So where does the bounce come from?",
      "kid": "Every drawing is still. So where does the bounce happen?",
      "check": {
       "t": "mcq",
@@ -1762,7 +1762,7 @@
    "youtube": "AfTyk8xokE4",
    "mins": 3,
    "why": "A short video for children in which a vision scientist explains that illusions happen when the brain interprets what the eyes see.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+   "check": "The title and channel were checked on YouTube, but the video itself was not watched. A parent should preview it."
   },
   {
    "title": "How Do Optical Illusions Work?",
@@ -1770,7 +1770,7 @@
    "youtube": "VYIr40D7wNw",
    "mins": 3,
    "why": "For the parent and older children: a short news-style explainer of how the brain's guesses make illusions.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+   "check": "The title and channel were checked on YouTube, but the video itself was not watched. A parent should preview it."
   },
   {
    "title": "Optical illusions show how we see",
@@ -1778,13 +1778,13 @@
    "youtube": "mf5otGNbkuc",
    "mins": 19,
    "why": "For the parent: a vision scientist shows colour illusions and explains that the brain sees by using what has been useful in the past. Watch the first few minutes with your child for the colour tricks.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it. It is a talk for adults."
+   "check": "The title and channel were checked on YouTube, but the video itself was not watched. A parent should preview it. It is a talk for adults."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "Priya, a girl in Class 3, sees two lines. One looks longer, but a ruler shows both are 8 cm. What is this called?",
+   "p": "You see two lines. One looks longer, but a ruler shows both are 8 cm. What is this called?",
    "opts": [
     "A mistake in the ruler",
     "An illusion",
@@ -1792,7 +1792,7 @@
     "A shadow"
    ],
    "a": 1,
-   "why": "When what we see is different from what is really there, as a ruler shows, it is called an illusion. Picking 'bad eyesight' is a common idea, but illusions fool people with perfect eyes too.",
+   "why": "When what we see is different from what is really there, as a ruler shows, it is called an illusion. Many people think it means bad eyesight, but illusions fool people with perfect eyes too.",
    "outcome": 0
   },
   {
@@ -1809,14 +1809,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the arrow-lines test, Nandini, a girl in Class 3, copies each line by eye. Which result shows that the open fins fooled her?",
+   "p": "In the arrow-lines test, a person copies each line by eye. Which result shows that the open fins fooled that person?",
    "opts": [
-    "Her plain copy was 10 cm and her open-fin copy was 12 cm",
-    "Both her copies were 10 cm",
-    "Her plain copy was 12 cm and her open-fin copy was 12 cm"
+    "The plain copy was 10 cm and the open-fin copy was 12 cm",
+    "Both copies were 10 cm",
+    "The plain copy was 12 cm and the open-fin copy was 12 cm"
    ],
    "a": 0,
-   "why": "Her plain copy shows she copies well. The extra 2 cm on the open-fin copy came from the fins. If both copies were 12 cm, she simply copies long.",
+   "why": "A plain copy of 10 cm shows the person copies well. The extra 2 cm on the open-fin copy came from the fins. If both copies were 12 cm, the person simply copies every line too long.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1842,7 +1842,7 @@
     "The arrowhead line now looks longer"
    ],
    "a": 1,
-   "why": "Knowing the answer changes what you believe, but not much what you see. The seeing part of the brain keeps its own answer.",
+   "why": "Knowing the answer changes what you believe, but it hardly changes what you see. The seeing part of the brain keeps its own answer.",
    "outcome": 3,
    "how": "e1"
   },
@@ -1924,7 +1924,7 @@
       "A kind of magic"
      ],
      "a": 1,
-     "why": "An illusion is when what you see, hear or feel is different from what is really there, as a ruler or a test shows. It happens to people with healthy eyes. Picking 'eyes are broken' is a common idea, but illusions fool almost everyone."
+     "why": "An illusion is when what you see, hear or feel is different from what is really there, as a ruler or a test shows. It happens to people with healthy eyes. Many people think it means the eyes are broken, but illusions fool almost everyone."
     },
     {
      "t": "mcq",
@@ -1985,7 +1985,7 @@
       "the top",
       "up"
      ],
-     "why": "That is why a circle shaded light at the top looks like a bump, and turned over, like a dent.",
+     "why": "That is why a circle shaded light at the top looks like a bump. When the page is turned upside down, the same circle looks like a dent.",
      "how": "a2"
     },
     {
@@ -2068,14 +2068,14 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy in Class 2, says, 'My eyes never get anything wrong.' What would you show him, and what would you say?",
+     "p": "Someone says, 'My eyes never get anything wrong.' What would you show them, and what would you say?",
      "lines": 3,
      "a": "A strong answer names a real test, like the arrow lines or the railway tracks, and says that the eyes caught the light correctly but the brain used a clue and got the length wrong. It ends with measuring to check.",
      "why": "The point is that illusions happen in the brain's judging, not because the eyes are faulty."
     },
     {
      "t": "write",
-     "p": "You copied the open-fin line by eye, and your copy was longer than 10 cm. Why do you think this happened?",
+     "p": "In the Arrow Lines experiment, you copied the open-fin line by eye, and your copy was longer than 10 cm. Why do you think this happened?",
      "lines": 3,
      "a": "My brain used the open fins as a clue and judged the line to be longer than it is, so I drew it longer.",
      "why": "A full answer says the fins change how long the line looks, and that the ruler showed the real length.",
@@ -2105,10 +2105,10 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Selvi, a girl in Class 3, cut two squares from the same brown envelope. She put one on a black bag and one on white paper. The square on black looked lighter. Why?",
+     "p": "Two squares are cut from the same brown envelope. One is put on a black bag and one on white paper. The square on black looks lighter. Why?",
      "opts": [
       "The black bag made the square lighter",
-      "Her brain judged each square by comparing it with its background",
+      "The brain judged each square by comparing it with its background",
       "One square had faded in the sun"
      ],
      "a": 1,
@@ -2227,7 +2227,7 @@
      "p": "Three people talk about the arrow lines.",
      "views": [
       {
-       "who": "Meenakshi, a girl in Class 3, who did the test",
+       "who": "A girl who did the arrow-lines test",
        "says": "My brain is fooled. The line is 10 cm, and the ruler proves it."
       },
       {
@@ -2235,11 +2235,11 @@
        "says": "The line really does look longer. What I see is just as real as what the ruler says."
       },
       {
-       "who": "Her friend Divya",
+       "who": "Her friend",
        "says": "Both are right. The ruler tells you about the line. The seeing tells you about your brain."
       }
      ],
-     "ask": "Which view do you agree with most? Give a reason from your own test. Then say one good point about another view.",
+     "ask": "Which view do you agree with most? Give a reason from your own Arrow Lines experiment. Then say one good point about another view.",
      "lines": 4,
      "a": "A strong answer picks a view and uses evidence, for example: 'Everyone's copy of the plain line was about 10 cm but the open-fin copies were longer, so the fins changed our seeing.' It then gives a fair point for another view, like the grandmother being right that the longer look is a real experience everyone shares.",
      "why": "The ruler measures the line. The seeing is a real event in each person. Each view says something true."
@@ -2253,7 +2253,7 @@
     },
     {
      "t": "mcq",
-     "p": "Isha, a girl in Class 4, spins a card with a bird on one side and a cage on the other. She sees the bird inside the cage. Why?",
+     "p": "A card has a bird on one side and a cage on the other. When the card spins fast, you see the bird inside the cage. Why?",
      "opts": [
       "The two drawings change places so fast that the brain joins them into one",
       "The spinning card draws a new bird inside the cage",
@@ -2315,15 +2315,15 @@
    "items": [
     {
      "t": "write",
-     "p": "Anitha, a teacher, copied the plain line at 9.5 cm, the arrowhead line at 8.5 cm and the open-fin line at 12 cm. How many centimetres did each set of fins change her copy, compared with her plain line?",
+     "p": "One person copied the plain line at 9.5 cm, the arrowhead line at 8.5 cm and the open-fin line at 12 cm. How many centimetres did each set of fins change the copy, compared with that person's plain line?",
      "lines": 3,
      "a": "Arrowheads made it 1 cm shorter: 9.5 − 8.5 = 1. Open fins made it 2.5 cm longer: 12 − 9.5 = 2.5.",
-     "why": "Comparing with her own plain line, not with 10 cm, takes away her ordinary copying error.",
+     "why": "Comparing with the person's own plain line, not with 10 cm, takes away their ordinary copying error.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Kiran, a boy in Class 5, says, 'The arrow-lines illusion works because the fins look like corners of a room.' But it still works when the fins are small circles. What does this tell you about Kiran's idea?",
+     "p": "One idea is: 'The arrow-lines illusion works because the fins look like corners of a room.' But the illusion still works when the fins are small circles. What does this tell you about the idea?",
      "lines": 3,
      "a": "If the illusion still works with circles, which do not look like corners, then the corner idea cannot be the whole reason. Something else, like the brain judging the whole shape's length, must be part of it.",
      "why": "This is how scientists test an explanation: find a case where it predicts one thing and something else happens."
@@ -2355,9 +2355,9 @@
        "says": "The brain builds the movement. Wertheimer's two flashed lines looked like one line moving, not two blurred lines."
       }
      ],
-     "ask": "Which explanation fits the two-dot flip book better? Use what you saw. Then say what the old book gets partly right.",
+     "ask": "In the Two-Dot Movie, you flipped between two pages with one dot on each. Which explanation fits what you saw better? Then say what the old book gets partly right.",
      "lines": 4,
-     "a": "A strong answer says that in the two-dot flip book you see one dot travelling, not two dots at once, which fits the brain building the movement. The old book is partly right that a bright image fades slowly when you shut your eyes.",
+     "a": "A strong answer says that in the Two-Dot Movie you see one dot travelling, not two dots at once, which fits the brain building the movement. The old book is partly right that a bright image fades slowly when you shut your eyes.",
      "why": "A good explanation must fit what really happens. Blurring would show two dots together.",
      "how": "a7"
     },
@@ -2366,21 +2366,21 @@
      "p": "Three people talk about trusting your eyes.",
      "views": [
       {
-       "who": "Parvati, a tailor",
+       "who": "A tailor",
        "says": "I always measure cloth with a tape. My eyes are good, but cloth can fool me."
       },
       {
-       "who": "Manjula, a cricket coach",
+       "who": "A cricket coach",
        "says": "A batter has no time to measure. She must trust her eyes and brain completely."
       },
       {
-       "who": "Ishita, a scientist",
+       "who": "A scientist",
        "says": "We trust our eyes first, then check the important things with a measurement or another person."
       }
      ],
      "ask": "Whose way would you use when choosing which of two dosas is bigger? Whose way when catching a ball? Explain.",
      "lines": 4,
-     "a": "A strong answer says different jobs need different ways. Catching a ball needs quick trust, like Manjula. Sharing dosas fairly could use a ruler, like Parvati. Ishita's way joins both.",
+     "a": "A strong answer says different jobs need different ways. Catching a ball needs quick trust, like the cricket coach says. Sharing dosas fairly could use a ruler, like the tailor's tape. The scientist's way joins both.",
      "why": "The brain's clues are fast and usually right. Measuring is slow but cannot be fooled by fins or neighbours."
     },
     {
@@ -2477,7 +2477,7 @@
     {
      "t": "draw",
      "p": "Invent your own illusion using one of the clues: far away, neighbours or light from above. Draw it and write the question you would ask a visitor.",
-     "a": "Any drawing that uses one clue correctly, with a clear question, for example two equal lines between two walls of a corridor drawn in perspective, with the question 'Which person is taller?'.",
+     "a": "Any drawing that uses one clue correctly, with a clear question. For example, two equal lines drawn between the two walls of a corridor that gets narrower in the distance, with the question 'Which line is longer?'.",
      "why": "A strong answer names the clue and explains why it should fool people."
     },
     {
@@ -2603,16 +2603,16 @@
  ],
  "maths": [
   {
-   "problem": "The real line in the arrow test is 10 cm. Kavya, a girl of nine, copied the arrowhead line at 8.5 cm. How much too short was her copy?",
+   "problem": "The real line in the arrow-lines test is 10 cm. One person copied the arrowhead line at 8.5 cm. How much too short was the copy?",
    "answer": "1.5 cm too short.",
-   "explain": "The real line is 10 cm and Kavya's copy is 8.5 cm. 10 − 8.5 = 1.5. Check by adding: 8.5 + 1.5 = 10. So her copy was 1.5 cm too short.",
+   "explain": "The real line is 10 cm and the copy is 8.5 cm. 10 − 8.5 = 1.5. Check by adding: 8.5 + 1.5 = 10. So the copy was 1.5 cm too short.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "how": "e1",
    "context": "This is about the arrow-lines test. People copy a 10 cm line by eye, and you measure how far off their copy is.",
    "why_maths": "Subtracting tells us exactly how much the illusion fooled someone, instead of just saying 'a bit'."
   },
   {
-   "problem": "Three people copied the open-fin line: Kavya, a girl of nine, her mother Amma and her grandmother Paati. Kavya drew 11.5 cm, Amma 12 cm and Paati 11 cm. The real line is 10 cm. Who was fooled the most, and who the least?",
+   "problem": "Three people copied the open-fin line: Kavya, her mother (Amma) and her grandmother (Paati). Kavya drew 11.5 cm, Amma 12 cm and Paati 11 cm. The real line is 10 cm. Who was fooled the most, and who the least?",
    "answer": "Amma was fooled the most (2 cm too long). Paati was fooled the least (1 cm too long).",
    "explain": "Take 10 cm away from each copy. Kavya: 11.5 − 10 = 1.5 cm. Amma: 12 − 10 = 2 cm. Paati: 11 − 10 = 1 cm. 2 is the biggest and 1 is the smallest. But check each person's plain line too. If Amma also copied the plain line too long, part of her 2 cm is ordinary copying.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2644,7 +2644,7 @@
    "why_maths": "Ordering the differences lets us compare people fairly, instead of guessing who was fooled more."
   },
   {
-   "problem": "In the crossed-fingers test, Revathi, a girl in Class 3, got 10 out of 10 right with fingers normal. With fingers crossed she got 6 out of 10 right. How many more did she get wrong with fingers crossed? What fraction of the crossed tries were wrong?",
+   "problem": "In the crossed-fingers test, a child got 10 out of 10 right with fingers normal. With fingers crossed, the same child got 6 out of 10 right. How many more did the child get wrong with fingers crossed? What fraction of the crossed tries were wrong?",
    "answer": "4 more wrong. 4 out of 10, or 4/10, of the crossed tries were wrong.",
    "explain": "Normal: 10 − 10 = 0 wrong. Crossed: 10 − 6 = 4 wrong. 4 − 0 = 4 more. 4 wrong out of 10 tries is the fraction 4/10, which is the same as 2/5.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -2857,25 +2857,25 @@
   "context": "We have seen equal lines look unequal, still pictures seem to move, and one pea feel like two. Now we ask what illusions tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "In the arrow test, the ruler showed both lines were 10 cm long. Even after you knew, the line with open fins still looked longer. Knowing the answer did not change what you saw. So the part of you that sees can disagree with the part that knows.",
-   "habit": "We talk as if each of us is one single looker, so that knowing the truth should change what we see. The arrow test shows that seeing keeps its own answer, even while knowing holds another.",
+   "habit": "We usually think of ourselves as one single person looking out, so we expect that knowing the truth will change what we see. The arrow test shows it does not. The part that sees keeps its own answer, even when the part that knows has a different one.",
    "evidence": "In the arrow test, people still copied the open-fin line longer than 10 cm after the ruler had shown all the lines were 10 cm. Scientists find the same in many illusions: knowing about them hardly weakens them."
   },
   "three": {
-   "who_am_i": "You are not one single looker. Different parts of your mind work at the same time, and they can give different answers.",
-   "what_is_life": "Every animal's brain judges the world from clues. A great bowerbird even lays out stones to play with a female's sense of distance.",
+   "who_am_i": "The part of you that sees and the part of you that knows are different parts of your mind. They work at the same time, and they can give different answers.",
+   "what_is_life": "Every animal's brain judges the world from clues. A great bowerbird even lays out stones in a way that fools a female's sense of distance.",
    "what_is_this_world": "The world you see is your brain's best judgement from light. A ruler, a test or another person helps you check it."
   },
-  "thread": "The same light reaches every eye that looks. Each brain, a bee's, a bowerbird's or yours, builds a picture of that light from the clues it uses. Inside you, too, seeing and knowing each build their own answer. None of these pictures is the whole of what is there. Comparing them, with a ruler or with each other, is how we come closer to it.",
+  "thread": "The same light reaches every eye that looks. Each brain, a bee's, a bowerbird's or yours, builds its own picture from that light, using its own clues. Inside you, too, seeing and knowing each give their own answer. None of these pictures is the whole of what is there. Comparing them, with a ruler or with each other, is how we come closer to what is really there.",
   "teachings": [
    {
     "source": "Udana 6.4 (Pali Canon), the blind men and the elephant",
     "teaching": "Some men who could not see each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and they quarrelled.",
-    "link": "Each man's touch gave a true clue but a wrong whole. In an illusion, your eyes give true light, and your brain builds a wrong whole from the clues. Checking with a ruler is like asking the others what they felt."
+    "link": "Each man felt something true, but his idea of the whole elephant was wrong. In an illusion, your eyes catch the light correctly, but your brain works out the wrong answer from the clues. Checking with a ruler is like asking the other men what they felt."
    },
    {
     "source": "Gaudapada, Mandukya Karika 2.17",
     "teaching": "A rope seen unclearly in the dark is taken to be a snake. When the rope is seen for what it is, the snake is gone.",
-    "link": "In the rope story, seeing clearly removes the mistake. The arrow lines are different: even after you know the truth, the open-fin line still looks longer. The mistake and the knowing sit side by side."
+    "link": "In the rope story, seeing clearly removes the mistake. The arrow lines are different: even after you know the truth, the open-fin line still looks longer. You see the mistake and know the truth at the same time."
    }
   ],
   "science": [
@@ -2895,13 +2895,13 @@
   "practice": {
    "title": "Look twice",
    "mins": 3,
-   "say": "Let's put the arrow lines in front of us. Look at them quietly and breathe slowly, five times. Notice that the open-fin line looks longer. Now lay the ruler on them and read 10 and 10. Look again. Notice that it still looks longer. Say quietly, 'My eyes see one thing. I know another.' Sit with both for three more breaths.",
+   "say": "Let's put the arrow lines in front of us. Look at them quietly and breathe slowly, five times. Notice that the open-fin line looks longer. Now lay the ruler on them and read 10 and 10. Look again. Notice that it still looks longer. Say quietly, 'My eyes see one thing. I know another.' Keep looking for three more breaths, and notice both.",
    "kid": "Look at the arrow lines. Breathe slowly five times. One line looks longer. Now measure them. Both are 10 cm. Look again. It still looks longer! Say, 'I see one thing. I know another.'"
   },
   "ask": [
    "When the line still looks longer after you have measured it, which answer is yours: the one you see or the one you know?",
    "A bee, a bowerbird and you look at the same garden. Is one of you seeing it right?",
-   "If your brain is always judging from clues, how can you check a judgement you do not notice it making?"
+   "Your brain judges from clues all the time, and you do not notice it doing so. How could you check whether one of those judgements is right?"
   ],
   "art": "A child sitting cross-legged with a notebook showing the arrow lines and a ruler, with two soft thought bubbles above: one showing a longer line, one showing '10 = 10'."
  },
