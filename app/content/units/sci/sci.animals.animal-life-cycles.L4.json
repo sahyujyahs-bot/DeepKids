@@ -7,7 +7,7 @@
   "art": "A long string laid across a floor with a tiny cut piece for a mouse at one end, a longer piece for an elephant, and the longest for a tortoise, each with a small animal card at the end."
  },
  "intro": {
-  "hook": "A grown mayfly may live for only a day. A giant tortoise can live for more than a hundred years. A hen lives for about eight. They all began as an egg. Why do lives that start the same end up so different in length?",
+  "hook": "A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?",
   "text": "Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.",
   "art": "Three animals in a row: a mayfly on a reed, a hen on a doorstep and a giant tortoise in a garden, each with a small egg drawn in front of it."
  },
@@ -15,7 +15,7 @@
   "I can compare how mammals, birds, insects and amphibians begin life, grow up and have young of their own.",
   "I can explain why some young are born ready to move and feed, and others are born helpless, and what that means for the parents.",
   "I can tell complete metamorphosis from incomplete metamorphosis, and give an animal for each.",
-  "I can read and compare lifespans, and say how true it is that bigger animals live longer, with exceptions.",
+  "I can compare lifespans, say how far it is true that bigger animals live longer, and name exceptions.",
   "I can explain the difference between many young with little care and few young with a lot of care, and test the idea with a model.",
   "I can say why average and maximum lifespans differ, and why wild and captive animals may differ too.",
   "I can use heartbeats to compare lives of animals of different sizes, and say what that pattern does and does not show."
@@ -90,7 +90,7 @@
   },
   {
    "term": "Amphibian",
-   "meaning": "An animal with soft, wet skin that lays jelly-covered eggs and usually lives part of its life in water and part on land.",
+   "meaning": "An animal with soft, wet skin who lays jelly-covered eggs and usually lives partly in water and partly on land.",
    "example": "Frogs, toads, newts and caecilians are amphibians.",
    "art": "A frog, a toad and a legless caecilian near a pond."
   },
@@ -149,10 +149,10 @@
    "art": "A row of four mothers (mouse, dog, woman, elephant) each with a calendar showing longer and longer pregnancy times."
   },
   {
-   "concept": "Birds: a shell, warmth and turns",
+   "concept": "Birds: a hard shell, kept warm",
    "status": "defined",
    "definition": "A bird lays hard-shelled eggs, and a parent keeps them warm by sitting on them. This is called incubation. When the chick is ready, she breaks the shell from inside with a small hard tip on her beak, called an egg tooth.",
-   "description": "A bird's egg is a complete box of food, water and air, so the chick can grow outside the mother's body. One reason birds lay eggs may be weight, since carrying young inside would make flying harder. The eggs must stay at about 37 degrees Celsius, so a parent sits on them and turns them. In many birds, such as sparrows and pigeons, both parents take turns. In a hen's case, the hen sits on the eggs for 21 days. After hatching, birds go two ways. Chicks of hens, ducks and peafowl are ready-born and feed themselves within hours. Chicks of sparrows, crows, pigeons and parakeets are helpless-born and must be fed by parents for weeks.",
+   "description": "A bird's egg is a complete box of food, water and air, so the chick can grow outside the mother's body. One reason birds lay eggs may be weight, since carrying young inside would make flying harder. The eggs must stay at about 37 degrees Celsius, so a parent sits on them and turns them. In many birds, such as sparrows and pigeons, both parents take turns. A hen sits on her eggs for 21 days. After hatching, chicks are of two kinds. Chicks of hens, ducks and peafowl are ready-born and feed themselves within hours. Chicks of sparrows, crows, pigeons and parakeets are helpless-born and must be fed by parents for weeks.",
    "examples": [
     "A hen's eggs hatch after 21 days, and the chicks follow her and peck at food at once.",
     "A pigeon's squabs are naked and blind, and are fed 'pigeon milk' by both parents.",
@@ -166,12 +166,12 @@
    "concept": "Insects: two ways to grow up",
    "status": "defined",
    "definition": "Insects grow up in two ways. In complete metamorphosis there are four stages: egg, larva, pupa and adult. In incomplete metamorphosis there are three: egg, nymph and adult. Metamorphosis means a change of body shape.",
-   "description": "A butterfly, a housefly, a honeybee and a beetle go through complete metamorphosis. The larva (caterpillar, maggot, grub) eats and grows. Then it becomes a pupa, and inside the pupa its body is taken apart and built again into an adult. A grasshopper, a cockroach, a dragonfly and a mayfly go through incomplete metamorphosis. The nymph looks like a small adult and grows by shedding its skin, a few times, until it has wings. Why do some insects use a larva at all? One idea is that larva and adult can eat different foods in different places, so they do not compete. A caterpillar eats leaves, and a butterfly drinks nectar. Another is that each stage can specialise: the larva only grows, and the adult only finds a mate and lays eggs. Many adult mayflies do not eat at all.",
+   "description": "A butterfly, a housefly, a honeybee and a beetle go through complete metamorphosis. The larva (caterpillar, maggot, grub) eats and grows. Then the larva becomes a pupa, and inside the pupa the body is taken apart and built again into an adult. A grasshopper, a cockroach, a dragonfly and a mayfly go through incomplete metamorphosis. The nymph looks like a small adult and grows by shedding her skin a few times, until she has wings. Why do some insects have a larva at all? One idea is that the larva and the adult can eat different foods in different places, so they do not compete. A caterpillar eats leaves, and a butterfly drinks nectar. Another idea is that each stage does one job: the larva only grows, and the adult only finds a mate and lays eggs. Many adult mayflies do not eat at all.",
    "examples": [
     "A lime butterfly: egg on a curry leaf, caterpillar, chrysalis, butterfly.",
     "A housefly: egg, maggot, pupa, fly. About ten days in warm weather.",
-    "A grasshopper: egg, wingless nymph that sheds its skin several times, adult.",
-    "A dragonfly: egg in water, nymph that hunts underwater for a year or more, adult."
+    "A grasshopper: egg, wingless nymph who sheds her skin several times, adult.",
+    "A dragonfly: egg in water, nymph who hunts underwater for a year or more, adult."
    ],
    "perspectives": [
     {
@@ -189,11 +189,11 @@
    "concept": "Amphibians: a life in two places",
    "status": "defined",
    "definition": "Amphibians have thin, wet skin, and most lay jelly-covered eggs in water. The young are usually larvae that live in water and breathe with gills. The adults have lungs and live partly on land.",
-   "description": "A frog's skin lets water and air pass through, so most amphibians must stay near water to stay moist. A frog's egg has no shell and would dry out on land. Most frogs lay hundreds or thousands of eggs and then leave. Most of those eggs and tadpoles are eaten. A few kinds break the pattern. Some bush frogs of the Western Ghats lay eggs on land and tiny frogs hatch with no tadpole stage. The Indian purple frog lives underground for most of the year and comes up for a few days in the monsoon to breed. Its tadpoles cling to rocks in fast streams with a sucker-like mouth. Caecilians are legless amphibians that look like worms, and some of them guard their eggs.",
+   "description": "A frog's skin lets water and air pass through, so most amphibians must stay near water to stay moist. A frog's egg has no shell and would dry out on land. Most frogs lay hundreds or thousands of eggs and then leave. Most of those eggs and tadpoles are eaten. A few kinds do not follow this pattern. Some bush frogs of the Western Ghats lay eggs on land, and tiny frogs hatch with no tadpole stage. The Indian purple frog lives underground for most of the year and comes up for a few days in the monsoon to breed. Her tadpoles cling to rocks in fast streams with a sucker-like mouth. Caecilians are legless amphibians that look like worms, and some of them guard their eggs.",
    "examples": [
     "A common frog lays hundreds of eggs in a monsoon puddle, and tadpoles hatch within days.",
     "A bush frog of the Western Ghats lays eggs on a leaf and tiny frogs hatch directly.",
-    "The Indian purple frog (described by science in 2003 by S. D. Biju and Franky Bossuyt) spends most of the year underground.",
+    "The Indian purple frog spends most of the year underground. S. D. Biju and Franky Bossuyt described her for science in 2003.",
     "A newt lays eggs one by one on water plants."
    ],
    "perspectives": [],
@@ -203,12 +203,12 @@
    "concept": "Born ready or born helpless",
    "status": "defined",
    "definition": "Some young are ready-born and can move and feed soon after birth. Others are helpless-born and need their parents for food and warmth at first.",
-   "description": "A calf, a hen's chick and a baby tortoise are ready-born. They were already well developed when they were born or hatched, and a ready-born egg usually has a big yolk. A kitten, a sparrow chick, a mouse pup and a human baby are helpless-born. They are born at an earlier stage and finish growing outside, with their parents' help. The two ways are different bets. A ready-born baby can run from a danger on day one, but the mother must make a bigger baby. A helpless-born baby is small and cheap to carry, but needs weeks of care. A human baby is born more helpless than the baby of any other ape, and the human brain finishes much of its growth after birth.",
+   "description": "A calf, a hen's chick and a baby tortoise are ready-born. They were already well developed when they were born or hatched, and the egg of a ready-born animal usually has a big yolk. A kitten, a sparrow chick, a mouse pup and a human baby are helpless-born. They are born at an earlier stage and finish growing outside, with their parents' help. The two ways are different bets. A ready-born baby can run from danger on day one, but the mother must make a bigger baby. A helpless-born baby is small and costs the mother less to carry, but needs weeks of care. A human baby is born more helpless than the baby of any other ape, and the human brain finishes much of its growth after birth.",
    "examples": [
     "A calf stands and walks within an hour of being born.",
     "A newly hatched sea turtle crawls to the sea on her own.",
     "A kitten's eyes open after about a week. A puppy's after about two weeks.",
-    "A sparrow chick is naked and blind and needs about two weeks of feeding before it can leave the nest."
+    "A sparrow chick is naked and blind and needs about two weeks of feeding before she can leave the nest."
    ],
    "perspectives": [],
    "art": "Left: a calf standing beside her mother. Right: a blind newborn kitten curled up, with a mother cat licking her."
@@ -226,8 +226,8 @@
    ],
    "perspectives": [
     {
-     "who": "The older idea (r and K)",
-     "explanation": "Animals sit on a line. At one end are quick breeders with many young and little care. At the other end are slow breeders with few young and much care."
+     "who": "The older idea (scientists call it r and K)",
+     "explanation": "Animals can be placed along a line. At one end are quick breeders with many young and little care. At the other end are slow breeders with few young and much care."
     },
     {
      "who": "The newer idea (the fast-slow line)",
@@ -240,7 +240,7 @@
    "concept": "How long do animals live?",
    "status": "defined",
    "definition": "Lifespan is how long an animal lives. Scientists give an average lifespan, which is the typical age at death, and a maximum lifespan, which is the oldest age ever recorded. A wild animal usually dies much younger than the maximum, from hunger, disease or predators.",
-   "description": "Lifespans run from hours to centuries. A grown mayfly may live only about a day, but its nymph lived in water for a year or more. A honeybee worker lives about six weeks in summer, while the queen can live several years. A house mouse lives about two years, a dog about twelve and a person about 70 to 80. A giant tortoise can pass 100 years, and a tortoise named Jonathan on the island of St Helena is thought to have hatched around 1832. A bowhead whale has been found to live more than 200 years. A Greenland shark has been estimated to live at least 270 years. An ocean quahog, a clam, was found to be 507 years old. How do we know? Some animals keep records in their bodies. Shell rings, ear bones, the lens of the eye and growing layers are all counted. Treat any age claim with care, because without a record the age is only an estimate.",
+   "description": "Lifespans run from hours to centuries. A grown mayfly may live only about a day, but as a nymph she lived in water for a year or more. A honeybee worker lives about six weeks in summer, while the queen can live several years. A house mouse lives about two years, a dog about twelve and a person about 70 to 80. A giant tortoise can pass 100 years, and a tortoise named Jonathan on the island of St Helena is thought to have hatched around 1832. A bowhead whale has been found to live more than 200 years. A Greenland shark has been estimated to live at least 270 years. An ocean quahog, a clam, was found to be 507 years old. How do we know? Some animals keep records in their bodies. Shell rings, ear bones, the lens of the eye and growing layers are all counted. Treat any age claim with care, because without a record the age is only an estimate.",
    "examples": [
     "Mayfly (adult): about one day.",
     "Honeybee worker: about six weeks in summer.",
@@ -264,7 +264,7 @@
    "perspectives": [
     {
      "who": "Body size and speed of living",
-     "explanation": "Small animals have fast hearts and fast bodies. Bigger animals have slower hearts. A slower pace may mean slower wear."
+     "explanation": "Small animals have fast hearts and fast bodies. Bigger animals have slower hearts. A body that runs more slowly may wear out more slowly."
     },
     {
      "who": "Danger from outside",
@@ -281,7 +281,7 @@
    "concept": "The heartbeat pattern",
    "status": "idea",
    "definition": "",
-   "description": "A mouse's heart beats about 600 times a minute and an elephant's about 30. In a lifetime, they add up to a surprisingly similar number. Multiply beats per minute by minutes in a year by years of life. A mouse gets about 630 million beats in two years. An elephant gets about 950 million in sixty years. A cat or a dog lands within a factor of two of a billion. This is a rough pattern across most mammals. It was described in the 1990s, for example by Howard Levine in 1997. It is not a law. Humans get about three times as many beats, and bats and many birds get far more. So a heart is not a counter that stops at a fixed number.",
+   "description": "A mouse's heart beats about 600 times a minute and an elephant's about 30. Over a whole life, the two hearts beat a similar number of times. To work it out, multiply beats per minute by minutes in a year by years of life. A mouse gets about 630 million beats in two years. An elephant gets about 950 million in sixty years. A cat or a dog gets somewhere between half a billion and two billion. This is a rough pattern across most mammals. It was described in the 1990s, for example by Howard Levine in 1997. It is not a law. Humans get about three times as many beats, and bats and many birds get far more. So a heart is not a counter that stops at a fixed number.",
    "examples": [
     "A mouse: about 600 beats a minute for 2 years is about 630 million beats.",
     "A dog: about 100 beats a minute for 12 years is about 630 million beats.",
@@ -291,11 +291,11 @@
    "perspectives": [
     {
      "who": "Some biologists",
-     "explanation": "Body size sets how fast the body's engine runs, and that also sets how fast the heart beats and how fast wear builds up. The billion is a result of that scaling."
+     "explanation": "Body size sets how fast the whole body works. That sets how fast the heart beats and how fast the body wears out. The billion beats follow from body size."
     },
     {
      "who": "Other biologists",
-     "explanation": "The match is partly a coincidence. Humans, bats and birds break it, and modern medicine has raised human life without changing the heart."
+     "explanation": "The match is partly a coincidence. Humans, bats and birds do not fit it, and modern medicine has made human lives longer without changing the heart."
     }
    ],
    "art": "A mouse and an elephant each with a heart and a counter, showing a similar total after a different number of years."
@@ -318,7 +318,7 @@
    "concept": "Can an animal avoid growing old?",
    "status": "debated",
    "definition": "",
-   "description": "Most animals become more likely to die as they age. This is called senescence, which is the slow wearing down of the body. A few animals seem to age very little. Hydra, a tiny freshwater animal, was kept in a lab for years with no sign of a rising risk of death, but some scientists doubt this. Naked mole-rats do not seem to become more likely to die as they age, according to a 2018 study by Rochelle Buffenstein's team. Greenland sharks and tortoises live for centuries but still age, only slowly. Nobody yet knows whether any animal truly does not age.",
+   "description": "Most animals become more likely to die as they age. This is called senescence, which is the slow wearing down of the body. A few animals seem to age very little. Hydra, a tiny freshwater animal, was kept in a lab for years and did not become more likely to die, but some scientists doubt this. Naked mole-rats do not seem to become more likely to die as they age, according to a 2018 study by Rochelle Buffenstein's team. Greenland sharks and tortoises live for centuries but still age, only slowly. Nobody yet knows whether any animal truly does not age.",
    "examples": [
     "Hydra: a small freshwater animal that keeps making new cells.",
     "Naked mole-rat: a small underground mammal that lives more than 30 years.",
@@ -332,7 +332,7 @@
     },
     {
      "who": "Other biologists",
-     "explanation": "Every animal ages, and the ones that seem not to are those we have not watched long enough. Slow ageing is not no ageing."
+     "explanation": "Every animal ages, and the ones that seem not to are those we have not watched long enough. Ageing slowly is not the same as not ageing."
     }
    ],
    "art": "A hydra with new buds, a naked mole-rat in a tunnel and a tortoise with a ring of years around it."
@@ -348,7 +348,7 @@
    "evidence": "Scientists have watched the life cycles of thousands of kinds of insects, and every one fits one of the two patterns."
   },
   {
-   "text": "Mammals, birds, amphibians and insects begin life in different ways, but all the ways need food, warmth or water and safety.",
+   "text": "Mammals, birds, amphibians and insects begin life in different ways, but every way has to give the young food, warmth or water, and safety.",
    "evidence": "The eggs and wombs of each group have been studied in detail."
   },
   {
@@ -409,7 +409,7 @@
    "hint": "Think about the eggs that feed others, and who eats the tadpoles. Where does the energy of a tadpole go?"
   },
   {
-   "q": "Sparrows care for four chicks, a frog cares for none, an elephant for one. Which kind of parent is the best?",
+   "q": "A sparrow cares for four chicks, a frog cares for none of her young, and an elephant cares for one calf. Which kind of parent is the best?",
    "kind": "deep",
    "hint": "Think about what each one has to spend, and what each one gets back. Is there a best, or do all fit their own world?"
   },
@@ -419,7 +419,7 @@
    "hint": "Is a life measured in years, in heartbeats, or in what is lived?"
   },
   {
-   "q": "Sea turtles pick their young's sex with the warmth of the sand. What happens to a species if the world gets warmer?",
+   "q": "In sea turtles, the warmth of the sand decides whether the young are male or female. What happens to a species if the world gets warmer?",
    "kind": "big",
    "hint": "Think about what happens if almost all hatchlings are female. Who could help, and how?"
   },
@@ -480,22 +480,22 @@
   ]
  },
  "roots": {
-  "context": "We have compared the lives of mammals, birds, insects and amphibians. Now we ask what the shapes of these lives tell us about time, and about the line of living beings that we belong to.",
+  "context": "We have compared the lives of mammals, birds, insects and amphibians. Now we ask what these lives tell us about time, and about the long line of parents and young that we belong to.",
   "deep_truth": {
    "truth": "A mouse lives about two years and an elephant about sixty. Yet in a whole life, most mammals' hearts beat roughly a billion times. The mouse spends those beats fast, and the elephant spends them slowly. So a year is a long time for one animal and a short time for another.",
    "habit": "We measure every life with one clock, the calendar, and call a short life a small one. But each kind of animal runs at a different pace of heartbeats, breaths and growth. An animal's own pace may be a fairer ruler of her life than the calendar.",
-   "evidence": "In the Lifespan Line, a mouse's heart rate of about 600 beats a minute for 2 years gives about 630 million beats. An elephant's rate of about 30 beats for 60 years gives about 950 million. The pattern is rough, because humans, bats and many birds get far more beats."
+   "evidence": "In the Lifespan Line, a mouse's heart rate of about 600 beats a minute for 2 years gives about 630 million beats. An elephant's rate of about 30 beats a minute for 60 years gives about 950 million. The pattern is rough, because humans, bats and many birds get far more beats."
   },
   "three": {
    "who_am_i": "You are an animal with your own pace. Your heart, your childhood and your lifespan are all set to the speed of a human life.",
    "what_is_life": "Life is a chain of eggs and births that has never been broken. Every animal alive came from a living parent, who came from another, back billions of years.",
-   "what_is_this_world": "Many clocks run at once. A mayfly lives for a day, a mouse for two years and a tortoise for two centuries, and each of them is fully alive in their own time."
+   "what_is_this_world": "The world holds lives of many speeds. A mayfly lives for a day, a mouse for two years and a tortoise for two centuries, and each of them is fully alive in their own time."
   },
-  "thread": "Every life cycle is a circle that starts as a single cell and ends as the next cell. The egg of a frog, the egg of a hen and the cell inside a mother elephant are all alive before anyone hatches or is born. Nothing in the chain starts from nothing. The same living stuff goes round and round through many bodies, which are fast or slow, small or large. What looks like many separate lives of different lengths is one long line of living, passing through many bodies at many speeds.",
+  "thread": "Every life cycle starts as a single living cell and leads to the next one. The egg of a frog, the egg of a hen and the cell inside a mother elephant are all alive before anyone hatches or is born. No life in the chain starts from something that is not alive. Life is passed on from body to body, and the bodies are fast or slow, small or large. What looks like many separate lives of different lengths is one long line of life, passed on through many bodies at many speeds.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 1 (Free and Easy Wandering)",
-    "teaching": "The Chinese teacher Zhuangzi wrote, as paraphrased here, that a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring.",
+    "teaching": "The Chinese teacher Zhuangzi wrote something like this: a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring.",
     "link": "A mayfly adult, a mouse and a tortoise each live inside a different length of time, as the mushroom and the tree do."
    },
    {
@@ -510,13 +510,13 @@
     "status": "settled"
    },
    {
-    "text": "Across many mammals, a whole life holds roughly a billion heartbeats. Humans, bats and many birds are far above it, so scientists still debate why.",
+    "text": "Across many mammals, a whole life holds roughly a billion heartbeats. Humans, bats and many birds get far more, and scientists still debate why.",
     "status": "idea"
    }
   ],
   "other_view": {
    "who": "Many biologists",
-   "view": "A heartbeat count is not a measure of how much a life is lived. The match between mammals is partly a coincidence of body size and speed. A long life and a short life cannot be compared by counting alone, and a day of a mayfly's life has no number that makes it bigger or smaller."
+   "view": "Counting heartbeats does not tell you how much living a life holds. The match between mammals is partly a coincidence of body size and speed. You cannot compare a long life and a short life by counting alone. No number makes a mayfly's day bigger or smaller than another animal's day."
   },
   "practice": {
    "title": "Your own pace",
@@ -541,7 +541,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game. Each card names a newborn animal. You decide if she is ready-born, able to move and feed soon after hatching or birth, or helpless-born, needing her parents at first.",
+   "context": "This is a guessing game. Each card names a newborn animal. You decide whether she is ready-born or helpless-born. Ready-born young can move and feed soon after hatching or birth. Helpless-born young need their parents at first.",
    "setup": [
     {
      "art": "A pile of 24 cards face down on a table with two tokens in front of each player, one marked Ready and one marked Helpless.",
@@ -735,7 +735,7 @@
        ]
       }
      ],
-     "parent": "Ready-born young are further along when they arrive, but their mother has had to invest more before birth, in a big egg or a long pregnancy. Helpless-born young are small and cheap to start with, but need weeks of parental care. Both are ways to bet on survival.",
+     "parent": "Ready-born young are further along when they arrive, but their mother has had to give more before birth, in a big egg or a long pregnancy. Helpless-born young are small and cost little to start with, but need weeks of care from their parents. Both are ways to bet on survival.",
      "context": "In this step you finish the game and think about what you learned."
     }
    ]
@@ -767,7 +767,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "20 two-sided cards: an animal and its waiting time on the front, and the number of days on the back",
+     "title": "20 two-sided cards: an animal and a question about her wait on the front, and the number of days on the back",
      "items": [
       {
        "f": "A housefly's egg: how long until the maggot hatches?",
@@ -853,9 +853,9 @@
     }
    ],
    "rules": [
-    "Shuffle the cards. Put one card face up in the middle with its back showing. This starts a row.",
-    "The first player takes the top card and reads the front. Without turning it over, the player puts it in the row, where they think the wait fits, shorter on the left and longer on the right.",
-    "Turn the cards in the row over. If the new card is in the right order, the player keeps it in the row and scores a point. If not, it goes in the discard pile.",
+    "Shuffle the cards. Put one card in the middle with the back, the side with the number of days, showing. This starts a row.",
+    "The first player takes the top card and reads the front. Without turning it over, the player puts it in the row where they think the wait fits. Shorter waits go on the left and longer waits on the right.",
+    "Turn the new card over. If it is in the right order, the player keeps it in the row and scores a point. If not, it goes in the discard pile.",
     "The next player does the same, and the row grows.",
     "On your own, build the longest row you can without a mistake. Try to beat your best.",
     "The first player to score 6 points wins. When all the cards have been used, the player with the most points wins.",
@@ -865,7 +865,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the 20 cards. Shuffle them. Turn the top card face up and put it in the middle of the table.",
+     "do": "Cut out the 20 cards. Shuffle them. Take the top card and put it in the middle of the table with the number of days showing.",
      "say": "These cards name animals and how long they wait before their young are born or hatch. Shuffle them. We will put them in order, from the shortest wait to the longest.",
      "kid": "Cut out the cards. Shuffle them. Put one in the middle.",
      "context": "This is the first step of The Waiting Line. You set up the cards and start the row."
@@ -886,7 +886,7 @@
        ]
       }
      ],
-     "parent": "Let the child guess before the card is turned. Bigger mammals tend to wait longer, but birds, reptiles and insects follow different rules. A hen waits only 21 days, but a hen is ready-born.",
+     "parent": "Let the child guess before the card is turned. Bigger mammals tend to wait longer, but birds, reptiles and insects follow different rules. A hen's egg waits only 21 days, yet the chick is ready-born.",
      "context": "In this step you play the cards and build the row."
     },
     {
@@ -897,7 +897,7 @@
      "kid": "One millimetre is one day. Measure a hen, a human and an elephant.",
      "ask": [
       {
-       "q": "An elephant waits about 650 days. How many hens' waits is that?",
+       "q": "An elephant waits about 650 days and a hen's egg waits 21 days. About how many times as long is the elephant's wait?",
        "good": [
         "More than thirty.",
         "About thirty.",
@@ -905,7 +905,7 @@
        ]
       }
      ],
-     "parent": "A hen is 2.1 centimetres, a human 27 centimetres and an elephant 65 centimetres. The elephant waits about 31 times as long as the hen, and about 2.4 times as long as a human. Ask why a mother elephant is willing to wait so long.",
+     "parent": "The hen's strip is 2.1 centimetres, the human's 27 centimetres and the elephant's 65 centimetres. The elephant waits about 31 times as long as the hen, and about 2.4 times as long as a human. Ask why a mother elephant is willing to wait so long.",
      "context": "In this step you turn the waiting times into lengths, and see how big the differences are."
     }
    ]
@@ -1045,7 +1045,7 @@
        "So that each family has the same number of young"
       ],
       "a": 0,
-      "why": "A single round of dice can be far from the average. Adding up several rounds smooths out luck, so the comparison is fairer. A wrong pick often shows that chance was not yet in mind."
+      "why": "A single round of dice can be far from the average. Adding up several rounds smooths out luck, so the comparison is fairer. A wrong pick often means the child has not yet thought about luck."
      },
      "context": "In this step you play the hen family for three rounds. A hen guards her chicks."
     },
@@ -1061,7 +1061,7 @@
     {
      "id": "s6",
      "mins": 7,
-     "do": "Add up the survivors for each family over three rounds. Draw a bar for each family. Ask your child for their claim, evidence and reasoning.",
+     "do": "Add up the survivors for each family over three rounds. Draw a bar for each family. Ask your child what they thought would happen, what they saw in the numbers and why they think it happened.",
      "say": "Tell me three things. What did you think would happen? What did you see in the numbers? Why do you think it happened? Was the family with the most young at the start the family with the most at the end?",
      "kid": "Add up each family's survivors. Draw three bars. What did you think? What did you see? Why?",
      "ask": [
@@ -1074,8 +1074,8 @@
        ]
       }
      ],
-     "parent": "Over three rounds the expected totals are about 6 for the frog, 7 for the hen and 6 for the elephant, so they are close. Your numbers will wobble, and a gap of one or two is likely just luck. After your child has explained: the numbers were chosen to make a point. In nature, a mother frog and a mother elephant have found very different ways to leave about the same number of grown-up young. Real frogs lay far more eggs, and far fewer survive. If your child's results showed one family far ahead, repeat three more rounds and see if it lasts. With several children, add everyone's rounds together for a longer test. More rounds make the totals settle, so the three families come out closer.",
-     "think": "A frog lays thousands of eggs in real life, and a real elephant has one calf every few years. What might each mother have to spend to do it?",
+     "parent": "Over three rounds the expected totals are about 6 for the frog, 7 for the hen and 6 for the elephant, so they are close. Your numbers will wobble, and a gap of one or two is likely just luck. After your child has explained, tell them that the numbers were chosen to make a point. In nature, a mother frog and a mother elephant have found very different ways to leave about the same number of grown-up young. Real frogs lay far more eggs, and far fewer survive. If your child's results showed one family far ahead, repeat three more rounds and see if it lasts. With several children, add everyone's rounds together for a longer test. More rounds make the totals settle, so the three families come out closer.",
+     "think": "A real frog lays thousands of eggs, and a real elephant has one calf every few years. What does each mother have to give to do that?",
      "context": "This is the last step of the Survival Cup. You add up the results and explain them."
     }
    ]
@@ -1113,7 +1113,7 @@
     }
    ],
    "record": "A drawing of the line, with each animal's name and years of life, and the heartbeat sums for a mouse and an elephant.",
-   "context": "In this activity you lay out twelve animal lives on a floor, one centimetre of string for each year. You look for patterns and find a surprise in heartbeats.",
+   "context": "In this activity you lay out twelve animal lives on the floor, one centimetre of string for each year. You look for patterns and find a surprise in the heartbeats.",
    "setup": [
     {
      "art": "Twelve slips of paper with animal names laid in a jumble on a floor: mayfly, honeybee, mouse, hen, dog, cat, parakeet, elephant, human, giant tortoise, bowhead whale, Greenland shark.",
@@ -1143,9 +1143,9 @@
       {
        "q": "Why did you put that animal last?",
        "good": [
-        "Because it is the biggest.",
-        "Because it is very old.",
-        "Because it lives in the sea."
+        "Because she is the biggest.",
+        "Because she is very old.",
+        "Because she lives in the sea."
        ]
       }
      ],
@@ -1155,7 +1155,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Tell your child the rule. One centimetre of string stands for one year. Cut a piece for each animal. Tape the pieces in a row on the floor. With 2 to 4 children, each child cuts the pieces for three or four animals, and one child tapes. On your own, the parent can hold the string end while you cut.",
+     "do": "Tell your child the rule. One centimetre of string stands for one year. Cut a piece for each animal. Tape the pieces in a row on the floor. With 2 to 4 children, each child cuts the pieces for three or four animals, and one child tapes. With one child, the parent can hold the end of the string while the child cuts.",
      "say": "Here is the rule. One centimetre of string is one year of life. A mouse lives 2 years, so cut 2 centimetres. An elephant lives 60 years, so cut 60 centimetres. For the mayfly and the honeybee, just draw a dot. Now cut the others and tape them in a row.",
      "kid": "One centimetre of string is one year. Cut a piece for each animal. Tape them in a row.",
      "parent": "Lengths in centimetres: mouse 2, hen 8, dog 12, cat 15, parakeet 20, elephant 60, human 75, giant tortoise 150, bowhead whale 200, Greenland shark about 270. A mayfly adult is less than a millimetre and a honeybee worker is about one millimetre, so draw a dot. In total, about 8 metres of string. If the room is small, let the long strings curve or coil.",
@@ -1225,9 +1225,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child for a claim, evidence and reasoning about the line and the heartbeats.",
+     "do": "Ask your child what they think about how long animals live, what they saw on the line and in the sums, and why they think the mouse and the elephant had similar totals.",
      "say": "Tell me three things. What do you think about how long animals live? What did you see on the line and in the sums? Why do you think the mouse and the elephant had similar totals?",
-     "kid": "What do you think? What did you see? Why? Say it out loud.",
+     "kid": "What do you think about how long animals live? What did you see on the line? Why? Say it out loud.",
      "parent": "A strong answer says that bigger animals tend to live longer, with exceptions, and that a mouse's heart beats fast and an elephant's slowly, so their lives add up to about the same number of beats. Ask whether this is a law. It is not, since humans and many birds get more.",
      "think": "If a mouse and an elephant each get about the same number of beats, is a mouse's life shorter, or is it just faster?",
      "context": "This is the last step of the Lifespan Line. You say what you found."
@@ -1277,7 +1277,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Write the sixteen names on cards. They are: cow, bat, platypus, human, crow, hen, peacock, sparrow, lime butterfly, dragonfly, cockroach, honeybee, bullfrog, toad, Indian purple frog and caecilian. Ask your child to sort them into four groups. Look up new names, such as platypus or caecilian, in a book or on a phone.",
-     "say": "Here are sixteen animals. Sort them into four groups. Mammals, birds, insects and amphibians. Say what each group has in common. If you are not sure about one, put it to the side.",
+     "say": "Here are sixteen animals. Sort them into four groups: mammals, birds, insects and amphibians. Say what each group has in common. If you are not sure about one, put that card to the side.",
      "kid": "Sort the sixteen animals into four groups. Say how you chose.",
      "ask": [
       {
@@ -1297,7 +1297,7 @@
      "mins": 10,
      "do": "Draw four columns and four rows on the big sheet. The rows are where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child. With 2 to 4 children, each child fills in one column, then reads it out for the others to question.",
      "say": "Let us fill the table. Where does a cow's life start? Inside her body or in an egg? What about a crow? A butterfly? A frog? How many young at a time? Who looks after them? Does the body change shape as they grow?",
-     "kid": "Make four columns. Fill in each group. Where does life start? How many? Who cares? Does the body change?",
+     "kid": "Make four columns. Fill in each group. Where does life start? How many young? Who looks after them? Does the body change?",
      "ask": [
       {
        "q": "Which group changes body shape the most as it grows up?",
@@ -1315,7 +1315,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Ask your child which animals do not fit their group's pattern. Look at the platypus, the bat, the purple frog and the honeybee.",
-     "say": "Every group has animals that break the pattern. The platypus is a mammal, but where does her life start? A honeybee is an insect, but does she leave her young alone? The purple frog is an amphibian. Can you find more?",
+     "say": "Every group has animals that break the pattern. The platypus is a mammal, but where does her life start? A honeybee is an insect, but does she leave her young alone? The purple frog is an amphibian, but where does she spend most of the year? Can you find more?",
      "kid": "Which animals break their group's pattern? Find at least two.",
      "ask": [
       {
@@ -1327,15 +1327,15 @@
        ]
       }
      ],
-     "parent": "Exceptions: the platypus is a mammal that lays eggs. The honeybee is an insect that feeds her young for weeks. The Indian purple frog spends nearly all the year underground. Some caecilians guard their eggs. Birds do not give birth, but some hen chicks are ready-born and some sparrow chicks are helpless. Say that a pattern in nature is something we notice, and exceptions are how we learn more.",
+     "parent": "Exceptions: the platypus is a mammal that lays eggs. The honeybee is an insect that feeds her young for weeks. The Indian purple frog spends nearly all the year underground. Some caecilians guard their eggs. Birds differ too: a hen's chicks are ready-born and a sparrow's chicks are helpless-born. Say that a pattern in nature is something we notice, and exceptions are how we learn more.",
      "context": "In this step you hunt for animals that break the rules of their group."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child for a claim, evidence and reasoning about which group has the most care and which has the fewest young.",
+     "do": "Ask your child which group looks after its young the most, what in the table shows it, and why it might be that way. Then ask which group has the fewest young.",
      "say": "Tell me three things. Which group looks after its young the most? What in your table shows it? Why might it be that way?",
-     "kid": "Which group cares most? What shows it? Why? Say it out loud.",
+     "kid": "Which group looks after its young the most? What in your table shows it? Why? Say it out loud.",
      "parent": "A strong answer says that mammals and birds usually care for their young a lot and have fewer, while amphibians and many insects have many young and little care. Ask for an exception from the table.",
      "think": "Which group gives its young the least care, and how do their young survive?",
      "context": "This is the last step of the table. You say what the table shows."
@@ -1389,7 +1389,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child a teaspoon of rice. Ask them to guess how many grains are in one level teaspoon. Write the guess down.",
-     "say": "Imagine each grain of rice is an egg. How many eggs do you think fit in one level teaspoon? Why do you think so?",
+     "say": "Let each grain of rice stand for an egg. How many eggs do you think fit in one level teaspoon? Why do you think so?",
      "kid": "Each rice grain is an egg. How many in one teaspoon? Guess.",
      "parent": "A level teaspoon of ordinary rice holds roughly 150 to 300 grains, depending on the rice. Do not correct the guess.",
      "context": "In this step you guess how many rice grain eggs fit in a teaspoon."
@@ -1417,7 +1417,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Fill a katori with rice, then use the teaspoon to count how many level teaspoons fill it. Multiply that by your teaspoon count.",
+     "do": "Count how many level teaspoons of rice it takes to fill a katori. Multiply that by your teaspoon count.",
      "say": "Now we estimate. How many teaspoons fill one katori? Multiply that by the grains in one teaspoon. That is about how many grains are in a katori. Is that more or less than you thought?",
      "kid": "How many teaspoons fill a katori? Multiply by your teaspoon count.",
      "parent": "A katori holds about 25 to 35 teaspoons, so a katori is roughly 5,000 to 10,000 grains. The exact number does not matter. The idea is that a small, exact sample can estimate something too big to count.",
@@ -1429,12 +1429,12 @@
      "do": "Compare with real eggs. A frog may lay about 1,000, a rohu fish more than 100,000, and an ocean sunfish up to 300 million. Work out how many katoris each would fill.",
      "say": "A frog may lay about a thousand eggs. A rohu may lay more than a hundred thousand. An ocean sunfish may lay up to three hundred million. How many katoris of rice would each need? Which one would not fit in your kitchen?",
      "kid": "A frog lays about 1,000 eggs. A rohu lays over 100,000. How many katoris?",
-     "parent": "With about 7,000 grains in a katori: a frog's 1,000 eggs is a bit under a katori. A rohu's 100,000 is about 14 katoris. A sunfish's 300 million is about 40,000 katoris, or roughly 6,000 kilograms of rice, as much as more than a hundred big sacks. These are estimates. Real egg numbers vary a lot with the size and age of the mother.",
+     "parent": "With about 7,000 grains in a katori: a frog's 1,000 eggs is a bit under a katori. A rohu's 100,000 is about 14 katoris. A sunfish's 300 million is about 40,000 katoris, or roughly 6,000 kilograms of rice, which is more than a hundred big sacks. These are estimates. Real egg numbers vary a lot with the size and age of the mother.",
      "think": "Only one or two of the sunfish's three hundred million eggs have to grow up for the species to carry on. What happens to all the others?",
      "context": "In this step you compare the egg numbers of real animals with the rice you counted."
     }
    ],
-   "safety": "Rice grains are small and can be put in the mouth by children under five. Keep them on the plate and pour the rice back into the tin afterwards."
+   "safety": "Rice grains are small, and children under five may put them in their mouths. Keep the rice on the plate and pour it back into the tin afterwards."
   },
   {
    "id": "a4",
@@ -1467,7 +1467,7 @@
     }
    ],
    "record": "A sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows. A tally of how many of each kind you found.",
-   "safety": "Look, do not touch, nests that have eggs or chicks in them. Touching a nest can make the parents leave. Do not touch anything with live animals. Wash hands afterwards. Wear closed shoes. Look with your eyes first and do not put hands into holes, long grass or under stones, where there may be snakes, scorpions or wasps. Keep clear of beehives and wasp nests. An adult stays with the children.",
+   "safety": "Look at nests that have eggs or chicks in them, but do not touch them. Touching a nest can make the parents leave. Do not touch anything with live animals. Wash hands afterwards. Wear closed shoes. Look with your eyes first and do not put hands into holes, long grass or under stones, where there may be snakes, scorpions or wasps. Keep clear of beehives and wasp nests. An adult stays with the children.",
    "context": "In this activity you go outside and look for what animals leave behind as they grow, and read their life cycle from it.",
    "setup": [
     {
@@ -1487,8 +1487,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Tell your child what to look for. Empty skins on stems and tree trunks, broken eggshells on the ground, and empty snail shells. Go outside with a grown-up.",
-     "say": "Animals leave clues behind as they grow. A nymph sheds its skin when it climbs out of the water. A chick leaves a broken shell. Today we will hunt for these clues. Look, but do not touch any nest.",
+     "do": "Tell your child what to look for: empty skins on stems and tree trunks, broken eggshells on the ground, and empty snail shells. Go outside with a grown-up.",
+     "say": "Animals leave clues behind as they grow. A nymph sheds her skin when she climbs out of the water. A chick leaves a broken shell. Today we will hunt for these clues. Look, but do not touch any nest.",
      "kid": "Go outside with a grown-up. Look for skins, shells and egg cases. Do not touch nests.",
      "adult": true,
      "parent": "In the monsoon, look for dragonfly nymph skins on reeds, cicada skins on tree trunks, grasshopper skins on grass, broken eggshells under trees, and snail shells. A cicada skin is brown and papery and has a split down the back. If you find a nest, stay far from it.",
@@ -1497,7 +1497,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Search for 15 minutes. Collect what is safe to pick up. Sketch each find and write where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. No garden: use a balcony plant, a roadside tree, or the corners of a window or wall at home.",
+     "do": "Search for 15 minutes. Collect what is safe to pick up. Sketch each find and write where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. If you have no garden, use a balcony plant, a roadside tree, or the corners of a window or wall at home.",
      "say": "Look slowly. Look on the underside of leaves and on the stems of plants. What can you find? What animal left it behind? Which stage is it?",
      "kid": "Look slowly. Collect empty skins and shells. Sketch each one.",
      "adult": true,
@@ -1520,7 +1520,7 @@
      "do": "Sort your finds. Ask your child which stage of the life cycle each find shows, and which animals have no such stage.",
      "say": "Look at the empty skin. The animal climbed out of the skin as a bigger animal. Look at the eggshell. A chick used to be in there. What does each find tell you about the life cycle?",
      "kid": "What does each find tell you? Which stage of the life cycle is it?",
-     "parent": "A hard outer skin cannot stretch, so an insect must shed the old skin to grow. A mammal's skin stretches. A snake sheds her whole skin as she grows and from time to time.",
+     "parent": "A hard outer skin cannot stretch, so an insect must shed the old skin to grow. A mammal's skin stretches. A snake sheds her whole skin from time to time as she grows.",
      "think": "Why must a nymph or a snake shed her skin to grow, when a mammal does not?",
      "context": "In this step you read each find as part of an animal's life cycle."
     }
@@ -1622,7 +1622,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies and draw one. Tomorrow the grown flies will be let out, so the flies you count later are new.",
-     "say": "Look in the jar. Small flies have come, and now they are in it. Count them. Draw one. Where did they come from? How did they find the banana?",
+     "say": "Look in the jar. Small flies have come into the jar. Count them. Draw one. Where did they come from? How did they find the banana?",
      "kid": "Cover the jar with cloth. Count the flies. Draw one.",
      "ask": [
       {
@@ -1672,7 +1672,7 @@
        ]
       }
      ],
-     "parent": "Count by tapping the jar gently to settle them. Keep the answer. A single pair can start hundreds of flies in a month. This shows why animals that lay many eggs and give no care can still thrive. Release the flies outdoors.",
+     "parent": "Tap the jar gently so the flies settle, then count them. Write the number down. A single pair can start hundreds of flies in a month. This shows why animals that lay many eggs and give no care can still thrive. Release the flies outdoors.",
      "think": "A fruit fly mother lays many eggs and gives no care. How is her way of having young different from a hen's?",
      "context": "In this step you count the new flies and think about how a few mothers made many young."
     }
@@ -1686,11 +1686,11 @@
    "mins": 35,
    "problem": "Olive ridley turtles lay about a hundred eggs in a nest in the sand. Your beach has a high-tide line, a street light and a stray dog. Build a model beach and design a safe nest area so that the most eggs survive until they hatch.",
    "constraints": [
-    "Eggs go about 45 centimetres deep in real life, so use a scale of one centimetre for ten centimetres in your model.",
+    "In real life the eggs lie about 45 centimetres deep. In your model, one centimetre stands for ten real centimetres.",
     "The nest must be above the high-tide line, which you mark with a line of tape.",
     "The street light must not shine on the nest. Hatchlings go towards bright light, and they should go to the sea.",
     "You may use paper, card, small cups and a tub of sand or dry rice.",
-    "The tide test is a jug of water poured gently from the sea side."
+    "To test the tide, pour a jug of water gently from the sea side."
    ],
    "materials": [
     "a plastic tub or a deep tray with dry sand or rice, about 3 centimetres deep",
@@ -1759,7 +1759,7 @@
      "mins": 10,
      "do": "Test the first nest. Pour a jug of water gently from the sea side. See which eggs get wet. Then shine the torch from the road side.",
      "say": "Now pour the tide gently. Which eggs got wet? Now shine the torch from the road. Which way would a hatchling go?",
-     "kid": "Pour the water gently. Which eggs got wet? Shine the torch. Which way?",
+     "kid": "Pour the water gently. Which eggs got wet? Shine the torch. Which way would a hatchling go?",
      "ask": [
       {
        "q": "Which eggs were safe from the tide?",
@@ -1809,7 +1809,7 @@
      "t": "truefalse",
      "p": "All mammals give birth to live young.",
      "a": false,
-     "why": "False. Platypuses and echidnas are mammals that lay eggs and feed the hatchlings on milk. Most mammals do give birth to live young, but this one has exceptions.",
+     "why": "False. Platypuses and echidnas are mammals that lay eggs and feed the hatchlings on milk. Most mammals do give birth to live young, but there are exceptions.",
      "outcome": 0
     },
     {
@@ -1862,7 +1862,7 @@
     },
     {
      "t": "match",
-     "p": "Match each newborn to what she needs.",
+     "p": "Match each newborn to what she is like.",
      "pairs": [
       [
        "Calf",
@@ -1887,7 +1887,7 @@
     },
     {
      "t": "mcq",
-     "p": "Which of these animals has a pupa stage in its life cycle?",
+     "p": "Which of these animals has a pupa stage in her life cycle?",
      "opts": [
       "Housefly",
       "Grasshopper",
@@ -1912,7 +1912,7 @@
     {
      "t": "odd",
      "p": "Which is the odd one out, and why? Butterfly, housefly, honeybee, cockroach.",
-     "a": "Cockroach, because it has no pupa. The other three do.",
+     "a": "Cockroach, because she has no pupa. The other three do.",
      "why": "A butterfly, a housefly and a honeybee go through complete metamorphosis with a pupa. A cockroach grows by shedding her skin as a nymph, with no pupa.",
      "outcome": 2
     },
@@ -1959,7 +1959,7 @@
      "t": "truefalse",
      "p": "A frog's tadpoles usually get a lot of care from their mother.",
      "a": false,
-     "why": "False. Most frogs lay their eggs and leave. A few kinds, such as some caecilians and frogs that guard eggs, do give care, but most do not.",
+     "why": "False. Most frogs lay their eggs and leave. A few amphibians, such as some caecilians and some frogs, guard their eggs, but most do not.",
      "outcome": 4
     },
     {
@@ -1971,14 +1971,14 @@
     },
     {
      "t": "perspective",
-     "p": "Imran and Selvi are talking about frogs, which lay hundreds of eggs and then leave them.",
+     "p": "Two children are talking about frogs, who lay hundreds of eggs and then leave them.",
      "views": [
       {
-       "who": "Imran, a boy in Class 4 (an imagined view)",
+       "who": "One child (an imagined view)",
        "says": "A frog is a bad mother. She leaves her eggs to be eaten."
       },
       {
-       "who": "Selvi, a girl in Class 4 (an imagined view)",
+       "who": "Another child (an imagined view)",
        "says": "It is just a different way. A frog lays so many eggs that a few grow up."
       }
      ],
@@ -2033,7 +2033,7 @@
     },
     {
      "t": "match",
-     "p": "Match each animal to its lifespan.",
+     "p": "Match each animal to her lifespan.",
      "pairs": [
       [
        "Honeybee worker in summer",
@@ -2058,7 +2058,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the bar chart, one class's three rounds of the Survival Cup gave the totals shown. What does it show?",
+     "p": "The bar chart shows one class's totals after three rounds of the Survival Cup. What does the chart show?",
      "opts": [
       "The three families had similar totals, and the numbers vary by chance",
       "The frog family is always best",
@@ -2147,7 +2147,7 @@
      "t": "write",
      "p": "A zoo says its tortoise is 250 years old, but has no birth record. How much would you trust the age, and what would you want to check?",
      "lines": 4,
-     "a": "I would trust it less, because there is no record. I would want to see old photos or papers, count the age in a way that gives a range, or compare with how long other tortoises have lived.",
+     "a": "I would trust it less, because there is no record. I would want to see old photos or papers, measure the age in a way that gives a range, or compare with how long other tortoises have lived.",
      "why": "A strong answer says that an age needs a record or a measurement, not just a story. It suggests a way to check, such as a dated record, and says what a range is.",
      "outcome": 5
     },
@@ -2191,20 +2191,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends are talking about how long animals live.",
+     "p": "Two children are talking about how long animals live.",
      "views": [
       {
-       "who": "Imran, a boy in Class 4 (an imagined view)",
+       "who": "One child (an imagined view)",
        "says": "Bigger animals live longer, so a whale lives longer than a parakeet."
       },
       {
-       "who": "Selvi, a girl in Class 4 (an imagined view)",
+       "who": "Another child (an imagined view)",
        "says": "Not always. A parakeet can live 20 years, longer than a dog that is much bigger."
       }
      ],
      "ask": "Whose view do you agree with more? What would you check?",
      "a": "Answers vary. A strong answer notes that bigger mammals tend to live longer, but birds are an exception. A parakeet outlives a dog. To be sure, check lifespan records of many animals and see how many break the pattern.",
-     "why": "Imran is right about many mammals. Selvi is right that there are exceptions. A pattern should be tested on many cases before it is trusted.",
+     "why": "The first child is right about many mammals. The second child is right that there are exceptions. A pattern should be tested on many cases before it is trusted.",
      "outcome": 3
     },
     {
@@ -2251,7 +2251,7 @@
      "t": "truefalse",
      "p": "Every mammal's heart beats exactly one billion times in a lifetime.",
      "a": false,
-     "why": "False. The pattern is rough. Most mammals are within about half and one and a half billion. Humans get about three times as many, and bats and many birds get more.",
+     "why": "False. The pattern is rough. Most mammals get between about half a billion and one and a half billion beats. Humans get about three times as many, and bats and many birds get more.",
      "outcome": 6
     },
     {
@@ -2358,7 +2358,7 @@
       ],
       [
        "Nymph",
-       "sheds its skin to grow, without a pupa"
+       "sheds her skin to grow, without a pupa"
       ],
       [
        "Adult",
@@ -2415,7 +2415,7 @@
       "She grows up faster than a ready-born baby"
      ],
      "a": 0,
-     "why": "A helpless-born baby is small at the start, so the mother spends less before birth. But it costs more later, in weeks or years of feeding and warmth.",
+     "why": "A helpless-born baby is small at the start, so the mother spends less before birth. But she costs more later, in weeks or years of feeding and warmth.",
      "outcome": 1
     },
     {
@@ -2434,7 +2434,7 @@
     },
     {
      "t": "write",
-     "p": "Why is a calendar year not the same size for a mouse and for an elephant? Use what you know about their hearts, growing up or having young.",
+     "p": "Why does a calendar year hold more living for a mouse than for an elephant? Use what you know about their hearts, growing up or having young.",
      "lines": 4,
      "a": "A mouse's heart beats 20 times as fast, she grows up in two months and has young several times a year. An elephant takes more than ten years to grow up. So a year holds much more living for a mouse than for an elephant.",
      "why": "A strong answer uses at least one fact, such as heartbeats, time to grow up or the number of litters, to show that animals live at different speeds.",
@@ -2525,7 +2525,7 @@
     "An elephant always has more young left"
    ],
    "a": 0,
-   "why": "In the model, 18 eggs facing a tough roll left about as many young as 3 calves with a better roll. Both ways can work.",
+   "why": "In the model, 18 eggs that each needed a 5 or 6 to live left about as many young as 3 calves that each needed only a 2 or more. Both ways can work.",
    "outcome": 4
   },
   {
@@ -2566,7 +2566,7 @@
   },
   {
    "t": "mcq",
-   "p": "A mouse lives about 2 years with a heart rate near 600, and an elephant about 60 years with a rate near 30. Which is closest to the truth?",
+   "p": "A mouse lives about 2 years with a heart rate near 600 beats a minute. An elephant lives about 60 years with a heart rate near 30 beats a minute. Which is closest to the truth?",
    "opts": [
     "Their total heartbeats in a life are about the same, around half a billion to a billion",
     "The elephant gets about 30 times as many",
@@ -2736,8 +2736,8 @@
    "why_maths": "Multiplying beats a minute by minutes in a year turns a fast heart into a number you can compare with other animals."
   },
   {
-   "problem": "A mouse lives 2 years and an elephant 60 years. A mouse's heart beats 600 times a minute and an elephant's 30. How many times longer does the elephant live? How many times slower is her heart? Which is bigger, and what does that mean for the total beats?",
-   "answer": "She lives 30 times as long, and her heart is 20 times as slow. The first is bigger, so she gets about 1.5 times as many beats.",
+   "problem": "A mouse lives 2 years and an elephant 60 years. A mouse's heart beats 600 times a minute and an elephant's 30. How many times as long does the elephant live? How many times slower is her heart? Which of the two numbers is bigger, and what does that mean for the total beats?",
+   "answer": "She lives 30 times as long, and her heart beats 20 times slower. 30 is bigger than 20, so she gets about 1.5 times as many beats.",
    "explain": "60 divided by 2 is 30. 600 divided by 30 is 20. The elephant lives 30 times as long but her heart beats at one twentieth of the speed. 30 divided by 20 is 1.5, so her total is about one and a half times the mouse's. The totals are close but not equal.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "how": "a1",
@@ -2763,7 +2763,7 @@
    "why_maths": "Fractions let you predict how many eggs will be left before you roll, and compare your result with what chance would give."
   },
   {
-   "problem": "In the Survival Cup, a hen's chick lives on a 3, 4, 5 or 6, so 4 of 6 faces. Five chicks face two dangers. About how many chicks are expected to be left? Compare with the frog's 2 from 18 eggs.",
+   "problem": "In the Survival Cup, a hen's chick lives on a 3, 4, 5 or 6, which is 4 of the 6 faces of the die. Five chicks face two dangers. About how many chicks are expected to be left? Compare with the frog's 2 from 18 eggs.",
    "answer": "About 2.2 chicks, a little more than the frog's 2.",
    "explain": "The chance for one danger is 4 out of 6, or 2 out of 3. For two dangers it is 2 thirds of 2 thirds, which is 4 ninths. 5 times 4 ninths is 20 ninths, about 2.2. That is a little more than 2.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
@@ -2980,10 +2980,10 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For over two thousand years, nobody knew where eels came from. Eels live in rivers, but nobody ever saw a baby eel or an eel egg. About 350 BCE, the Greek thinker Aristotle taught that eels grew out of mud, or out of earthworms. In 1876, a young student named Sigmund Freud cut open about 400 eels looking for their reproductive organs, and found none. In 1904, a Danish scientist, Johannes Schmidt, found strange, flat, see-through baby fish at sea. Italian scientists had shown in 1896 that these were baby eels. Schmidt followed them, catching smaller and smaller ones, across the Atlantic ocean. By 1922, he had traced them to the Sargasso Sea, where adult eels are thought to swim from European rivers to lay eggs and die. The eel is not made from mud. It is a long-distance traveller with a life cycle that crosses an ocean. Even today, nobody has filmed wild European eels spawning.",
+  "story": "For over two thousand years, nobody knew where eels came from. Eels live in rivers, but nobody ever saw a baby eel or an eel egg. About 350 BCE, the Greek thinker Aristotle taught that eels grew out of mud, or out of earthworms. In 1876, a young student named Sigmund Freud cut open about 400 eels looking for their reproductive organs, and found none. In 1904, a Danish scientist, Johannes Schmidt, found strange, flat, see-through baby fish at sea. Italian scientists had shown in 1896 that these were baby eels. Schmidt followed them, catching smaller and smaller ones, across the Atlantic ocean. By 1922, he had traced them to the Sargasso Sea, where adult eels are thought to swim from European rivers to lay eggs and die. The eel is not made from mud. She is a long-distance traveller with a life cycle that crosses an ocean. Even today, nobody has filmed wild European eels spawning.",
   "who": "Johannes Schmidt, a Danish biologist (1877 to 1933)",
   "when": "1904 to 1922",
-  "wrong_idea": "People believed that eels were born from mud or worms, because nobody ever found an eel egg or a baby eel. It was shown wrong when scientists found the tiny see-through young at sea and followed them back, size by size, to where they were born."
+  "wrong_idea": "People believed that eels were born from mud or worms, because nobody ever found an eel egg or a baby eel. This was shown to be wrong when scientists found the tiny see-through young at sea and followed them back, size by size, to where they were born."
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. The Survival Cup: the dice rules (frog 5 or 6, hen 3 to 6, elephant 2 to 6) and the starting numbers (18, 5, 3) were chosen so the expected survivors are close, about 2 per round for each family, so the totals over three rounds are close but wobble from round to round. A family with only one die needs about 10 minutes of rolling for the three families, and paper chits in a cup work as well. The Lifespan Line needs about 8 metres of string, so a corridor or a balcony is useful. The life spans and heart rates used are typical and rounded numbers, and real values vary. Banana Jar Nursery: fruit flies usually arrive within two nights in warm months and the cycle takes about 10 days after the eggs are laid, so about 12 days in all. In a very clean kitchen or in winter, flies can take longer to appear and the cycle can take three to four weeks. Checked against sources: olive ridley 29 to 30 degrees and nest depth, sardine age at first spawning and life span, Jonathan, quahog, bowhead, shark, purple frog, Moss since 1972, and wild eel spawning (still not observed). Not confirmed: the 1 in 1,000 turtle survival figure (kept as a rough saying), the exact fruit fly timings (8 to 10 days is the usual figure), the Levine 1997 paper title, and the Madras Crocodile Bank web address. The videos have no address yet.",
  "warm": {"words": ["NYMPH", "LARVA", "HEART", "BIRDS", "YOUNG"], "quiz": [["Inside a pupa, an insect's body is taken apart and rebuilt, so it is a busy time.", true, "The pupa looks still, but scientists find it is one of the busiest times in the insect's life."], ["You can tell a tortoise's age by counting the rings on her shell.", false, "Rings are added when food and rain change, not once a year, and they wear away with age."], ["A mouse and an elephant get about the same number of heartbeats in a whole life.", true, "A mouse heart beats much faster, but the elephant lives much longer, so the totals come out similar."], ["All mammals give birth to live young.", false, "Platypuses and echidnas are mammals that lay eggs and feed the hatchlings milk."], ["A wild animal usually dies much younger than the oldest age ever recorded for their kind.", true, "Maximum lifespan is the oldest age ever recorded, and most wild animals die long before that."], ["Bigger animals always live longer.", false, "Birds and bats live much longer than mammals of the same size, and a naked mole-rat lives over 30 years."], ["In sea turtles, the warmth of the sand helps decide whether the young are female or male.", true, "Egg temperature sets the sex, so a warmer world could change how many of each hatch."], ["An animal that has only one young at a time is less likely to keep the species going.", false, "Few young with much care and many young with no care are two different bets, and both can work."], ["A bird chick breaks the shell from inside using a small hard tip on the beak.", true, "The hard tip, called an egg tooth, lets the chick crack the shell when ready to hatch."], ["Birds and mammals both begin life growing inside the mother's body.", false, "Most mammals grow in the womb, but a bird starts as a hard-shelled egg outside the mother's body."]], "odd": [[["Butterfly", "Beetle", "Housefly", "Grasshopper"], "Grasshopper", "Butterflies, beetles and houseflies have a pupa stage; a grasshopper grows through nymphs with no pupa."], [["Kangaroo", "Koala", "Wombat", "Cow"], "Cow", "Kangaroos, koalas and wombats are born tiny and finish growing in a pouch; a calf grows fully inside the cow."], [["Calf", "Foal", "Duckling", "Sparrow chick"], "Sparrow chick", "Calves, foals and ducklings are ready-born and move soon after birth; a sparrow chick is helpless and needs feeding."], [["Hen", "Crow", "Peacock", "Frog"], "Frog", "Hens, crows and peacocks keep their eggs warm by sitting on them; a frog leaves jelly eggs in water."], [["Frog", "Toad", "Salamander", "Lizard"], "Lizard", "Frogs, toads and salamanders are amphibians with soft, wet skin and jelly eggs; a lizard has dry, scaly skin."]]}

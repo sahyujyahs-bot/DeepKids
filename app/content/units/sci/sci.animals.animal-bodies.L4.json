@@ -3,7 +3,7 @@
  "title": "Why a camel has a hump, a woodpecker a hard head and an octopus no bones",
  "level": 4,
  "summary": {
-  "text": "A camel can cross the Thar for days with almost nothing to drink, yet the hump on her back holds no water at all. It holds fat. Your child melts ice under cloth to find out why the fat sits in one lump and not all over her body. Then they test why a camel's wide foot does not sink, and meet a woodpecker whose head takes thousands of hard knocks a day, and an octopus with three hearts and no bones. Every odd body part turns out to be an answer to a problem, and every answer has a price.",
+  "text": "A camel can cross the Thar for days with almost nothing to drink, yet the hump on her back holds no water at all. It holds fat. Your child melts ice under cloth to find out why a camel's fat sits in one lump and not all over her body. Then your child tests why a camel's wide foot does not sink, and meets a woodpecker whose head takes thousands of hard knocks a day, and an octopus with three hearts and no bones. Every odd body part turns out to be an answer to a problem, and every answer also costs the animal something.",
   "art": "A camel standing on a dune at sunset, a woodpecker clinging to a trunk and an octopus on a reef, each with a small glowing circle around the body part that looks odd."
  },
  "intro": {
@@ -15,7 +15,7 @@
   "I can explain that an odd body part is an answer to a problem in the animal's way of life, and name the problem and one price for the camel's hump, the woodpecker's head and the octopus's soft body.",
   "I can run a fair test to show that the same amount of insulation works differently when it is spread out or lumped in one place, and say what that means for a camel's fat.",
   "I can show that the same weight sinks less on a wider foot, and explain how a camel's foot, a snowshoe and a softer tyre do the same job.",
-  "I can say how a woodpecker climbs, eats and hits wood, and describe what scientists still argue about in her head.",
+  "I can say how a woodpecker climbs, eats and hits wood, and describe what scientists still argue about: how her head survives the hits.",
   "I can say how an octopus moves, breathes and squeezes through gaps, and name a price of her soft body.",
   "I can explain a surprising result in three parts: what I think (claim), what I saw (evidence) and why (reasoning).",
   "I can explain why an animal does not grow a part because she needs it, and how chance differences and survival shape bodies over many generations.",
@@ -31,7 +31,7 @@
   },
   {
    "term": "Trade-off",
-   "meaning": "A deal where a body part gives a gain and also costs something. A feature that is good in one life is often poor in another.",
+   "meaning": "A deal where a body part gives a gain and also costs something. A feature that is good for one way of life is often poor for another.",
    "example": "A camel's wide foot floats on sand, but it slips on wet clay.",
    "art": "A balance scale with a gain on one side and a cost on the other."
   },
@@ -67,7 +67,7 @@
   },
   {
    "term": "Hyoid",
-   "meaning": "The small bone system that holds up the tongue. In many woodpeckers it is long and curls around the back of the skull.",
+   "meaning": "The set of small bones that holds up the tongue. In many woodpeckers it is long and curls around the back of the skull.",
    "example": "A woodpecker's tongue is rooted at the back of her head and curls around her skull.",
    "art": "A woodpecker's skull drawn with a long tongue curled around the back and out through the beak."
   },
@@ -139,9 +139,9 @@
    "concept": "The camel's hump holds fat, not water",
    "status": "defined",
    "definition": "A camel's hump is a lump of fat under the skin. The camel uses the fat as a store of energy when food is hard to find.",
-   "description": "The hump of a big dromedary camel can hold up to about 30 kilograms of fat. When the camel finds little to eat, her body slowly uses the fat, and the hump shrinks and flops to one side. When she eats well again, the hump fills out. Fat is a good store because it holds about twice as much energy as the same weight of sugar. Why is it all in one lump? Fat is also a blanket, and a thick blanket all over would trap the heat inside her body. By keeping the fat on her back, the camel leaves the rest of her skin thin, so the heat can leave. The lump on top may also shade her back from the Sun. Burning fat does make a little water, but it also needs more breathing, and breathing loses water. So the hump is a food store, not a water tank.",
+   "description": "The hump of a big dromedary camel can hold up to about 30 kilograms of fat. When the camel finds little to eat, her body slowly uses the fat, and the hump shrinks and flops to one side. When she eats well again, the hump fills out. Fat is a good store because it holds about twice as much energy as the same weight of sugar. Why is it all in one lump? Fat also works like a blanket, and a thick blanket all over would trap the heat inside her body. By keeping the fat on her back, the camel leaves the rest of her skin thin, so the heat can leave. The lump on top may also shade her back from the Sun. Burning fat does make a little water, but it also needs more breathing, and breathing loses water. So the hump is a food store, not a water tank.",
    "examples": [
-    "The Ice Test in this unit: the same cloth keeps ice cold when it is spread all over, but not when it is in one lump.",
+    "In the Ice Test in this unit, the same cloth keeps ice cold when it is wrapped all around the block, but not when it is in one lump on top.",
     "A thin, hungry camel has a small hump that flops. A well-fed camel has a firm, tall hump.",
     "A Bactrian camel, from the cold deserts of Central Asia, has two humps and a thick winter coat."
    ],
@@ -153,7 +153,7 @@
    "concept": "How a camel saves water",
    "status": "defined",
    "definition": "Water saving is any way a body loses less water or takes in more, so that the animal can go longer between drinks.",
-   "description": "A camel is not good at finding water. She is good at keeping it. First, her body temperature goes up by day and down by night. In one study, a camel with no water let her temperature rise from about 34 to about 41 degrees Celsius. A body that is allowed to get hot does not need to sweat as much to stay cool. Second, the inside of her nose is damp and cool. As she breathes out, it catches water from the air, and she breathes it back in. Third, her dung is dry and her wee is thick. Fourth, her red blood cells are oval, not round, and they can swell a great deal without bursting when she drinks. A very thirsty camel can drink about 100 litres or more in a few minutes. She can lose about a quarter of her body weight in water and live. A person is in danger long before that.",
+   "description": "A camel is not good at finding water. She is good at keeping it. First, her body temperature goes up by day and down by night. In one study, a camel with no water let her temperature rise from about 34 to about 41 degrees Celsius. A body that is allowed to get hot does not need to sweat as much to stay cool. Second, the inside of her nose is damp and cool. As she breathes out, her nose catches water from that air, and she breathes it back in. Third, her dung is dry and her wee is thick. Fourth, her red blood cells are oval, not round, and they can swell a great deal without bursting when she drinks. A very thirsty camel can drink about 100 litres or more in a few minutes. She can lose about a quarter of her body weight in water and live. A person is in danger long before that.",
    "examples": [
     "A dehydrated camel's temperature can swing by 6 or 7 degrees in a day.",
     "A camel's long double eyelashes and closing nostrils keep sand out.",
@@ -167,7 +167,7 @@
    "concept": "A wide foot floats on soft ground",
    "status": "defined",
    "definition": "Pressure is the push of a weight on each small patch of the surface it stands on. Pressure equals the weight divided by the area.",
-   "description": "A big camel can weigh 600 kilograms, and a sharp hoof would sink in sand like a nail. A camel's foot is a broad, soft pad that spreads out as she puts her weight down. The same weight is shared over a bigger patch, so each small patch is pushed less, and the sand holds. This is why a person in snowshoes walks on snow, and why a tractor tyre with some air let out grips a muddy field. In the Foot Test, doubling the width of the foot makes the area 4 times as big, so the pressure becomes 4 times smaller. It is a fair trade only on soft ground. On wet clay, the broad pad slides, and a camel can slip and fall. The Kharai camels of Kutch wade and swim out to islands to eat mangrove leaves. Their wide feet help them in soft mud.",
+   "description": "A big camel can weigh 600 kilograms, and a sharp hoof would sink in sand like a nail. A camel's foot is a broad, soft pad that spreads out as she puts her weight down. The same weight is shared over a bigger patch, so each small patch is pushed less, and the sand holds. This is why a person in snowshoes walks on snow, and why a tractor tyre with some air let out grips a muddy field. In the Foot Test, doubling the width of the foot makes the area 4 times as big, so the pressure becomes 4 times smaller. The wide pad is a good deal only on soft ground. On wet clay, the broad pad slides, and a camel can slip and fall. The Kharai camels of Kutch wade and swim out to islands to eat mangrove leaves. Their wide feet help them in soft mud.",
    "examples": [
     "Camel feet, snowshoes, a duck's webbed feet and a wide tractor tyre all spread weight.",
     "A high-heeled shoe presses the floor much harder than a flat sandal on the same person.",
@@ -195,7 +195,7 @@
    "concept": "How does a woodpecker's head survive the hits?",
    "status": "debated",
    "definition": "",
-   "description": "A woodpecker's head stops very suddenly each time it hits the wood. A hit like this would badly hurt a person's brain. For years, books said that woodpeckers have a built-in shock absorber, like a helmet. Scientists are no longer sure. The ideas below are all being studied, and they may be partly true together.",
+   "description": "A woodpecker's head stops very suddenly each time it hits the wood. A hit like this would badly hurt a person's brain. For years, books said that woodpeckers have a built-in shock absorber, like a helmet. Scientists are no longer sure. The ideas below are all being studied, and more than one of them may be partly true.",
    "examples": [
     "Her skull and beak are strong, and her brain is small and sits snugly in the skull.",
     "She hits in a straight line, so her head does not twist, and twisting is what harms brains most.",
@@ -222,7 +222,7 @@
    "concept": "How an octopus moves, breathes and squeezes",
    "status": "defined",
    "definition": "An octopus is a soft-bodied sea animal with eight arms, three hearts and no bones. Her only big hard part is her beak.",
-   "description": "An octopus has no skeleton, so she can pour herself through any gap that is wider than her beak. She uses this to hide in cracks and to open shells and jars. She has two ways to move. Most of the time she crawls over the sea floor on her arms, which is slow and cheap. When she is in danger, she fills her mantle with water and squeezes it out through a funnel. The water jets backwards, and she shoots away. The same mantle space holds her gills and she breathes through it. Her blood is blue, because it carries oxygen with copper instead of iron. Two of her three hearts push blood through the gills, and the third pushes it round the body. Her arms are lined with suckers that can taste what they touch.",
+   "description": "An octopus has no skeleton, so she can squeeze her whole body through any gap that is wider than her beak. She uses this to hide in cracks and to open shells and jars. She has two ways to move. Most of the time she crawls over the sea floor on her arms, which is slow but uses little energy. When she is in danger, she fills her mantle with water and squeezes it out through a funnel. The water jets backwards, and she shoots away. The same mantle space holds her gills, and she breathes through it. Her blood is blue, because it carries oxygen with copper instead of iron. Two of her three hearts push blood through the gills, and the third pushes it round the body. Her arms are lined with suckers that can taste what they touch.",
    "examples": [
     "A common octopus can squeeze through a hole not much bigger than her beak.",
     "In the Squeeze Test in this unit, a soft dough ball passes through a small hole, and a hard ball of the same size cannot.",
@@ -290,7 +290,7 @@
   },
   {
    "text": "An octopus has about 500 million nerve cells, and about two thirds of them are in the arms.",
-   "evidence": "Counts of nerve cells in the common octopus were made by researchers, and a famous review of 2012 reports them."
+   "evidence": "Researchers counted the nerve cells of the common octopus, and a well-known review from 2012 reports the counts."
   },
   {
    "text": "Animals with similar problems can end up with similar parts that grew separately.",
@@ -306,7 +306,7 @@
    "claim": "A camel's hump is a tank of water.",
    "who": "Many people, and many old books.",
    "for": "Camels go for days without a drink, and the hump is the biggest thing on a camel that looks like a store.",
-   "against": "When the hump is cut open, it is fat. A camel that has gone without water shrinks all over, and the hump does not hold the water she lacks.",
+   "against": "When a hump is cut open, there is fat inside, not water. A camel who has gone without water loses water from her whole body, not from her hump.",
    "status": "rejected",
    "context": "This is a very common idea about camels. Here is what the evidence says."
   },
@@ -332,7 +332,7 @@
    "for": "With one kind of light-sensing cell, an octopus should not see colours as we do.",
    "against": "Octopuses match the colours of rocks and weed very well. Some scientists think the skin itself senses light. Others think her oddly shaped pupil lets her work out colours from how the light blurs. Neither idea has been settled.",
    "status": "debated",
-   "context": "This is a puzzle about how a camouflaging octopus does so well. Nobody knows yet."
+   "context": "This is a puzzle about how an octopus matches colours so well. Nobody knows yet."
   },
   {
    "claim": "An animal grows a new body part because she needs it.",
@@ -345,7 +345,7 @@
   {
    "claim": "An octopus's arms think for themselves, like eight small brains.",
    "who": "Some octopus researchers and writers.",
-   "for": "A cut-off arm still reaches for food and pulls it toward its mouth. Most of an octopus's nerve cells are in her arms.",
+   "for": "A cut-off arm still reaches for food and pulls it toward where the mouth would be. Most of an octopus's nerve cells are in her arms.",
    "against": "The arms are linked to the central brain, which sends them general orders. Many scientists say each arm acts on local reflexes, and they do not call that thinking.",
    "status": "debated",
    "context": "This is a question about how much of an octopus's thinking happens in her arms."
@@ -353,7 +353,7 @@
  ],
  "big_questions": [
   {
-   "q": "A bee sees a flower as ultraviolet patterns, and a child sees it yellow. When an octopus touches a stone, her arm tastes it. Is it the same stone for her as for you?",
+   "q": "A bee sees patterns on a flower in ultraviolet light, which a child cannot see. The child sees a yellow flower. When an octopus touches a stone, her arm tastes it. Is it the same stone for her as for you?",
    "kind": "deep",
    "hint": "Think about what each body can sense and what it cannot. Is the stone the same, or only the word 'stone'?"
   },
@@ -368,7 +368,7 @@
    "hint": "Think about the many calves that did not do well, and what they did not pass on."
   },
   {
-   "q": "Is a body made to fit a place, or is a place made to fit a body? Is a foot the shape of sand?",
+   "q": "Is a body made to fit a place, or is a place made to fit a body? Think of a camel's foot and the sand.",
    "kind": "big",
    "hint": "A foot and the ground it walks on fit each other like a key and a lock. Which one came first?"
   },
@@ -409,15 +409,15 @@
    "'Uncle,' she said. 'Why does your wheel sink and Bhuri's foot does not?'",
    "'She is much lighter than the jeep,' said Karim, not looking up.",
    "'She is not,' said Gauri. 'Dadaji weighed her at the fair. She is six hundred kilos.' She crouched and put her hand flat on Bhuri's foot. 'Look at it. It is wide, and it is soft. When she steps, it spreads out like a roti on a tava.'",
-   "Revathi bent down. The pad of the camel's foot was as wide as a dinner plate, and when Bhuri lifted it, it was a round shape. When she put it down, it flattened and widened.",
+   "Revathi bent down. The pad of the camel's foot was as wide as a dinner plate. When Bhuri lifted her foot, the pad was round. When she put it down, it flattened and widened.",
    "'Now look at your tyre,' said Gauri. 'It is hard, and round, and only this wide.' She showed a hand's width. 'All of the jeep sits on four small patches. Bhuri's weight is shared over four big patches. So her patches are pushed less.'",
    "Karim stopped digging. 'You think I should have a bigger tyre?'",
    "'You do not need a bigger one,' said Gauri slowly. 'You need to make this one wider. When the tractor comes for the wheat, my uncle lets the air out of the tyres on sand. He says they get fat and sit on top.'",
-   "Revathi laughed in surprise. 'She is right. I read this once. A softer tyre flattens where it touches the ground. The patch gets bigger, so the same weight is pushed over more sand.'",
+   "Revathi laughed in surprise. 'She is right. I read this once. A softer tyre flattens where it touches the ground. The patch gets bigger, so the same weight is spread over more sand.'",
    "Karim looked at the girl, and at the camel's calm foot, and he knelt at the back wheel. With a small stick, he pressed the valve. The air hissed out for a long time. The tyre sagged and bulged out at the bottom, as if it were sitting down. He did the same at all four wheels.",
-   "Then he started the engine and pressed the pedal very gently. The jeep rocked once, twice, and then rolled out of its pits as if the sand had changed its mind. It climbed the slope and stopped at the top, where the ground was hard again. Gauri whooped. Bhuri, who had watched everything with her long eyelashes, calmly chewed.",
+   "Then he started the engine and pressed the pedal very gently. The jeep rocked once, twice, and then rolled out of its pits as if the sand had changed its mind. It climbed the slope and stopped at the top, where the ground was hard again. Gauri whooped. Bhuri, who had watched everything from under her long eyelashes, calmly chewed.",
    "At the dhani, Revathi gave the calf her injection, and by evening the little one was drinking. Karim pumped his tyres up again with the hand pump, and said he would never drive onto sand with tyres full of air again.",
-   "A week later, it rained. The Thar does not rain often, and the sand turned to a wet, shining clay. Gauri was leading Bhuri to the well when the camel's feet began to slide. Her legs slipped outwards, and she stood trembling with her feet far apart, her wide pads skating on the mud. Gauri held her rope and spoke to her softly, until she found her footing, one slow step at a time.",
+   "A week later, it rained. It does not rain often in the Thar, and the sand turned to a wet, shining clay. Gauri was leading Bhuri to the well when the camel's feet began to slide. Her legs slipped outwards, and she stood trembling with her feet far apart, her wide pads skating on the mud. Gauri held her rope and spoke to her softly, until she found her footing, one slow step at a time.",
    "'She is clever on sand,' said Dadaji, who had come out to help. 'But on wet clay, she is like a child in new slippers.'",
    "Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and no good for mud.'",
    "'That is how it is with feet,' said Dadaji, 'and with most things.'"
@@ -425,7 +425,7 @@
   "epiphany": "The camel's wide foot and the softer tyre do the same job: they spread a weight over more ground. The same foot that floats on sand slides on clay, so a body part is good for one kind of place.",
   "ask": [
    "Why did the jeep sink when Karim pressed the pedal harder?",
-   "What did Gauri notice about Bhuri's foot, and how did the tyre change?",
+   "What did Gauri notice about Bhuri's foot? What happened to the tyre when Karim let the air out?",
    "Why was Bhuri good on the sand, and not on the wet clay?",
    "What is a place where a wide foot would be a problem?"
   ],
@@ -438,7 +438,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For centuries, travellers said that a camel's hump was a tank of water, and some said that a camel kept water in her stomach too. In 1956, a Norwegian-American scientist named Knut Schmidt-Nielsen took a team to Beni Abbes in the Algerian Sahara. His wife, Bodil Schmidt-Nielsen, also a scientist, worked with him. They weighed camels every day as they went without water in the summer, took their temperatures, and measured everything that went in and out. The camels lost about a quarter of their weight, and it was water from the whole body. When they were allowed to drink, they took back the lost water in one long drink. The hump was fat. And the camels let their temperature rise by day and fall by night, and so saved the water they would have sweated away.",
+  "story": "For centuries, travellers said that a camel's hump was a tank of water, and some said that a camel kept water in her stomach too. In 1956, a Norwegian-American scientist named Knut Schmidt-Nielsen took a team to Beni Abbes in the Algerian Sahara. His wife, Bodil Schmidt-Nielsen, also a scientist, worked with him. In the summer, they kept camels without water. Every day they weighed the camels, took their temperatures, and measured everything that went in and out. The camels lost about a quarter of their weight, and it was water from the whole body. When the camels were allowed to drink, they took back the lost water in one long drink. The hump was fat. The camels also let their temperature rise by day and fall by night, and so saved the water they would have sweated away.",
   "who": "Knut Schmidt-Nielsen and Bodil Schmidt-Nielsen, with colleagues, in the Sahara",
   "when": "1956",
   "wrong_idea": "People thought that the hump or the stomach was a tank of water. The team showed that the hump is fat, and that the camel's real trick is to lose less water. Her body temperature swings, her nose catches water from her breath, and her blood cells can swell after a big drink."
@@ -452,15 +452,15 @@
   },
   "three": {
    "who_am_i": "Your feet, your back and your hands are answers to problems too, and they have prices too. You are an animal with a body made of trade-offs, like a camel or an octopus.",
-   "what_is_life": "To stay alive, every animal solves the same few problems each day: food, water, air, movement, warmth and safety. A body is a long, shared answer to them.",
+   "what_is_life": "To stay alive, every animal solves the same few problems each day: food, water, air, movement, warmth and safety. Her body is her answer to all of them together.",
    "what_is_this_world": "The same Earth sets different problems in different places. Hot sand, hard wood and cold salt water ask for very different bodies."
   },
-  "thread": "A foot and the ground it walks on fit each other, like a key and a lock. Sand has shaped the camel's foot, and the camel's foot has shaped how she moves on sand. Wood, water and rock did the same for the woodpecker's beak and the octopus's arms. This is the one world becoming many bodies, each shaped by the place it lives in. Nothing in this is a plan. It is many small differences, slowly kept or lost.",
+  "thread": "A foot and the ground it walks on fit each other, like a key and a lock. Sand has shaped the camel's foot, and the camel's foot has shaped how she moves on sand. Wood, water and rock did the same for the woodpecker's beak and the octopus's arms. One world has produced many different bodies, each shaped by the place she lives in. Nobody planned any of this. Many small differences were slowly kept or lost.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "The text says that creatures are born from food, live by food and return into food. In this teaching, a body is food made into a living being for a while.",
-    "link": "A camel's hump is fat, which is sunlight stored by plants, eaten by a camel and kept for a hard time. Her body is built from food, and her fat is food kept for later."
+    "link": "The fat in a camel's hump began as sunlight. Plants stored the Sun's energy, the camel ate the plants, and her body kept the energy as fat for a hard time. Her body is built from food, and her fat is food kept for later."
    },
    {
     "source": "Zhuangzi (Chuang Tzu), chapter 17, 'Autumn Floods'",
@@ -475,7 +475,7 @@
   ],
   "science": [
    {
-    "text": "Fat, the camel's store, is sunlight kept by plants, made into food and then into fat. A gram of fat holds about twice the energy of a gram of sugar.",
+    "text": "The fat in a camel's hump began as sunlight. Plants kept the Sun's energy as food, and the camel's body turned that food into fat. A gram of fat holds about twice the energy of a gram of sugar.",
     "status": "settled"
    },
    {
@@ -485,7 +485,7 @@
   ],
   "other_view": {
    "who": "Many neuroscientists",
-   "view": "An octopus's arm tasting a stone, or reaching for food after it is cut off, is a reflex made of nerve signals. It shows a clever body, they say, but not a feeling in the arm. They would say that we need more evidence before saying that an arm, or even a whole octopus, feels anything."
+   "view": "Many scientists say that an octopus's arm tasting a stone, or reaching for food after it is cut off, is a reflex made of nerve signals. They say it shows a clever body, but not a feeling in the arm. They would say that we need more evidence before saying that an arm, or even a whole octopus, feels anything."
   },
   "practice": {
    "title": "Feel your feet",
@@ -495,7 +495,7 @@
   },
   "ask": [
    "Is a body made to fit a place, or does a place make the body?",
-   "If every body is a deal, what is yours giving up?",
+   "If every body part has a price, what does your body give up?",
    "When an octopus's arm tastes a stone, who is tasting?",
    "Is there a body that is simply better than all the others?"
   ],
@@ -724,7 +724,7 @@
    "title": "Ice Test: does it matter where the fat goes?",
    "mins": 50,
    "days": 2,
-   "question": "A camel has fat in one hump. Does the same amount of insulation keep a block of ice cold when it is spread all over, when it is lumped in one place, and when it is missing?",
+   "question": "A camel keeps her fat in one hump. Does a cloth keep a block of ice cold better when it is wrapped all around the block, or when it is lumped on top? And how does a block with no cloth compare?",
    "predict": "Before you start, guess which block of ice will melt the least and which will melt the most. Say why you think so.",
    "fair_test": "The three ice blocks come from three identical cups and start at the same size. Blocks B and C get two pieces of cloth of exactly the same size and thickness. All three sit side by side in the same room for the same time. Only one thing differs. Block A has no cloth, block B has the cloth all around, and block C has the cloth lumped on top. Block A is the control.",
    "results_table": [
@@ -742,7 +742,7 @@
     {
      "day": 2,
      "mins": 45,
-     "what": "Do the Ice Test, measure the water and draw your model."
+     "what": "Do the Ice Test, measure the meltwater and draw your two camels."
     }
    ],
    "materials": [
@@ -800,7 +800,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Fill three identical cups with 100 millilitres of water each. Label them A, B and C. Put them in the freezer overnight. Ask for a guess and a reason before the cups go in.",
+     "do": "Fill three identical cups with 100 millilitres of water each. Label them A, B and C. Put them in the freezer overnight. Ask your child for a guess and a reason before the cups go in.",
      "say": "Tomorrow we will melt three ice blocks. One stays bare. One is wrapped all around in cloth. One gets the same cloth lumped on top. Which melts the least? Why do you think so?",
      "kid": "Tomorrow we melt three ice blocks. Which melts the least? Why do you think so?",
      "ask": [
@@ -820,11 +820,11 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Hold each cup under the tap for 5 seconds. Tip the ice block into the katori with the same letter. Check that the blocks look the same size.",
+     "do": "Hold each cup under the running tap for 5 seconds, so the water runs over the outside. Tip the ice block into the katori with the same letter. Check that the blocks look the same size.",
      "say": "Run the tap on the outside of each cup for 5 seconds. Then tip the block out into its katori. Do the blocks look the same?",
      "kid": "Run the tap on the outside of a cup. Tip the ice into its katori. Do this three times.",
      "adult": true,
-     "parent": "A grown-up helps if a block sticks. If one block is clearly smaller, swap it for a spare, or the test is not fair. Freeze one spare cup. If a block will not come out, run the tap a little longer.",
+     "parent": "Freeze one spare cup the night before. A grown-up helps if a block sticks: run the tap a little longer. If one block is clearly smaller, swap it for the spare, or the test is not fair.",
      "check": {
       "t": "mcq",
       "q": "Why must the three ice blocks be the same size?",
@@ -856,7 +856,7 @@
       "a": 0,
       "why": "B and C have the same amount of cloth. If they melt differently, the reason must be where the cloth sits. If C had a thicker cloth, we would not know whether the place or the amount made the difference."
      },
-     "context": "In this step you dress the three blocks. The amount of cloth is the same for B and C, and only its place changes."
+     "context": "In this step you put the cloth on blocks B and C. The amount of cloth is the same for B and C, and only its place changes."
     },
     {
      "id": "s4",
@@ -888,7 +888,7 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "When the timer rings, lift block A out. Pour the water from katori A into the tall glass. Measure its height with the ruler. Do the same for B and C. Squeeze each cloth over its katori first.",
+     "do": "When the timer rings, lift block A out. Pour the water from katori A into the tall glass and measure its height with the ruler. Do the same for B and C, but first squeeze each cloth over its own katori.",
      "say": "Time is up. Lift out each block. For B and C, squeeze the cloth over the katori. Then pour all the water into the tall glass and measure how high it goes.",
      "kid": "Lift out the block. Squeeze the cloth. Pour the water into the glass. Measure the height. Do A, B and C.",
      "adult": false,
@@ -898,7 +898,7 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "Fill in the table. Rank the blocks. Then ask for the three parts: what I think, what I saw, and why.",
+     "do": "Fill in the table. Rank the blocks. Then ask your child for three things: what they thought, what they saw, and why they think it happened.",
      "say": "Which block melted the least? Which melted the most? Which two were closest? Now tell me three things. What did you think? What did you see? Why do you think it happened?",
      "kid": "Fill in the table. Which block melted the least? Which melted the most? Why?",
      "ask": [
@@ -918,7 +918,7 @@
        ]
       }
      ],
-     "parent": "In most homes block B melts the least. Blocks A and C come out close, and C melts a little less than A. As a rough guide only, in a warm room a bare block gives about 20 to 40 millilitres of meltwater in 25 minutes, and a wrapped one about half of that. Your numbers will differ. If all three are within 2 millimetres of each other, the test showed no difference: say so honestly, then repeat with 40 minutes or thicker cloth. Let the child say what the test shows before you explain. The model is honest only in part: the ice is colder than the room, and a camel is hotter than the night air. But a layer slows heat in both directions.",
+     "parent": "In most homes block B melts the least. Blocks A and C come out close, and C melts a little less than A. As a rough guide only, in a warm room a bare block gives about 20 to 40 millilitres of meltwater in 25 minutes, and a wrapped one about half of that. Your numbers will differ. If all three are within 2 millimetres of each other, the test showed no difference: say so honestly, then repeat with 40 minutes or thicker cloth. Let the child say what the test shows before you explain. The ice is not a perfect model of a camel: the ice is colder than the room, and a camel is hotter than the night air. But a layer slows heat in both directions.",
      "check": {
       "t": "mcq",
       "q": "Which result best matches this idea? The same cloth works as a good coat only when it is spread all over.",
@@ -928,9 +928,9 @@
        "All three melted the same"
       ],
       "a": 0,
-      "why": "Block B has the cloth all around, and it melted the least. Block C has the same cloth, but heat reached it from the open sides. A and C usually melt almost the same, because heat reaches C through its open sides."
+      "why": "Block B has the cloth all around, and it melted the least. Block C has the same cloth, but heat reached it through its open sides, so A and C usually melt almost the same."
      },
-     "context": "In this step you read your results and say what they show, with a claim, evidence and reasoning."
+     "context": "In this step you read your results and say what they show. You say what you think (claim), what you saw (evidence) and why (reasoning)."
     }
    ]
   },
@@ -941,7 +941,7 @@
    "days": 1,
    "question": "If the same weight stands on a small foot, a medium foot and a wide foot, how deep does each sink into soft ground?",
    "predict": "Before you start, guess which foot will sink the deepest and which will hardly sink at all. Say why you think so.",
-   "fair_test": "The weight is the same every time, a steel tumbler with 300 millilitres of water. The soft ground is the same slab of dough, smoothed flat before each try. Each foot stays down for 30 seconds. Only the width of the foot changes. We try each foot twice, because one try can be a fluke.",
+   "fair_test": "The weight is the same every time: a steel tumbler with 300 millilitres of water. The soft ground is the same slab of dough, smoothed flat before each try. Each foot stays down for 30 seconds. Only the width of the foot changes. We try each foot twice, because one try can be a fluke.",
    "results_table": [
     "Foot",
     "Width (cm)",
@@ -1005,8 +1005,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the three feet: the bottle cap, the tumbler base and the plate. Measure the width of each with the ruler. Ask for a guess and a reason.",
-     "say": "The same tumbler of water will stand on three feet. A small cap, its own base and a wide plate. Which foot will sink deepest into the dough? Which will sink the least? Why do you think so?",
-     "kid": "Meet the three feet. Which one sinks the deepest? Which hardly sinks? Why?",
+     "say": "The same tumbler of water will stand on three feet, one after the other: a small bottle cap, its own base and a wide plate. Which foot will sink deepest into the dough? Which will sink the least? Why do you think so?",
+     "kid": "Look at the three feet: the bottle cap, the tumbler base and the plate. Which one sinks the deepest? Which hardly sinks? Why?",
      "ask": [
       {
        "q": "Which foot do you think will sink the deepest, and why?",
@@ -1044,7 +1044,7 @@
      "id": "s3",
      "mins": 9,
      "do": "Put the bottle cap flat on the dough, open side down. Balance the tumbler on it, steadying it with one fingertip at the side. Wait 30 seconds. Lift off both. Measure the dent with the toothpick and pencil. Smooth the dough and try again.",
-     "say": "Cap first. Put the tumbler on top and steady it with one finger, without pressing down. Count to thirty. Lift off. Slide the toothpick into the dent, and pinch it where it meets the pencil. Measure it on the ruler.",
+     "say": "Start with the cap. Put the tumbler on top and steady it with one finger, without pressing down. Count to thirty. Lift the tumbler and the cap off. Slide the toothpick into the dent, and pinch it where it meets the pencil. Measure it on the ruler.",
      "kid": "Put the cap on the dough. Stand the tumbler on it. Wait 30 seconds. Measure the dent.",
      "adult": false,
      "parent": "To measure: lay a pencil across the dent. Slide the toothpick straight down to the bottom. Pinch the toothpick where it meets the pencil and lay it along the ruler. Smooth the dough with the spoon between tries. Do two tries.",
@@ -1071,7 +1071,7 @@
     {
      "id": "s6",
      "mins": 9,
-     "do": "Work out the average dent for each foot. Rank the feet from deepest to shallowest. Ask for three things: what I think, what I saw, and why.",
+     "do": "Work out the average dent for each foot. Rank the feet from deepest to shallowest. Ask your child for three things: what they thought, what they saw, and why they think it happened.",
      "say": "Add the two tries for each foot and halve. Which foot sank the deepest? Which the least? Now tell me three things. What did you think? What did you see? Why do you think it happened?",
      "kid": "Find the average dent for each foot. Which sank deepest? Which sank least? Why?",
      "ask": [
@@ -1093,7 +1093,7 @@
      "parent": "In most homes the dents get shallower as the foot gets wider, and the plate leaves almost none. Your numbers will differ. The pattern is what matters. Let the child give the reasoning before you add the word pressure.",
      "check": {
       "t": "mcq",
-      "q": "Why does a camel's wide foot sink less than a narrow hoof of the same animal weight?",
+      "q": "Why does a camel's wide foot sink less than a narrow hoof would under the same weight?",
       "options": [
        "The weight is shared over a bigger patch of sand, so each bit is pushed less",
        "A wide foot is lighter",
@@ -1102,7 +1102,7 @@
       "a": 0,
       "why": "The weight of the camel is the same. A wider pad spreads it over a bigger area, so the push on each small patch of sand is smaller. A wide foot is not lighter. If you picked 'harder', remember that the soft pad squashes and spreads."
      },
-     "context": "In this step you read your results and explain them, with a claim, evidence and reasoning."
+     "context": "In this step you read your results and explain them. You say what you think (claim), what you saw (evidence) and why (reasoning)."
     }
    ]
   }
@@ -1138,7 +1138,7 @@
    "safety": "A grown-up cuts the holes with strong scissors, and the point is sharp. Keep the scissors away from small children. Keep the marble away from children under 4. Dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead.",
    "schedule": [],
    "record": "Write which holes each body passed, and which it did not. Draw the three bodies and the smallest hole each passed.",
-   "context": "In this activity you push three bodies through holes of different sizes. You find out what sets the smallest hole that a soft body can pass, as an octopus does.",
+   "context": "In this activity you push three bodies through holes of different sizes. You find out what decides the smallest hole a soft body can pass through, such as the body of an octopus.",
    "setup": [
     {
      "art": "A cardboard sheet with five squares drawn in a row, with sides 1, 2, 3, 4 and 5 centimetres, each labelled.",
@@ -1157,7 +1157,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Draw five squares in a row on the cardboard, with sides 1, 2, 3, 4 and 5 centimetres. A grown-up cuts them out. Press the marble into the middle of the dough ball and close the dough around it.",
+     "do": "Draw five squares in a row on the cardboard, with sides 1, 2, 3, 4 and 5 centimetres. A grown-up cuts them out. Make two dough balls of the same size. Press the marble into the middle of one and close the dough around it.",
      "say": "We will test three bodies. A hard ball, a plain dough ball, and a dough ball with a marble inside. Which is the smallest hole each one can pass? Why do you think so?",
      "kid": "Draw five squares. A grown-up cuts them out. Hide a marble inside a dough ball.",
      "adult": true,
@@ -1183,7 +1183,7 @@
      "parent": "The dough ball may come out the other side as a long worm. That counts as passing. The hard ball passes only the biggest hole. The marble in the dough should stop it at the 1 centimetre hole, and may also stick at 2 centimetres, because the thin dough round the marble is hard to squeeze. The plain dough may need a firm push at the 1 centimetre hole. Hold the cardboard flat against a table edge. If even the plain dough will not go through, write that down as the result, or add a few drops of water to the dough and try again. Redo any try where the cardboard tears.",
      "check": {
       "t": "mcq",
-      "q": "What sets the smallest hole that the dough ball with the marble can pass?",
+      "q": "What decides the smallest hole that the dough ball with the marble can pass through?",
       "options": [
        "The hard marble inside",
        "The size of the dough",
@@ -1244,8 +1244,8 @@
    ],
    "safety": "A grown-up checks that the paper clip hook and the stick have blunt ends. Do not put tools near the eyes. Do not use honey for a child under 1 year.",
    "schedule": [],
-   "record": "Write how many raisins each tool took out in one minute. Draw the best tool and say what is like a woodpecker's tongue.",
-   "context": "In this activity you try five tools to pull raisins out of a narrow tube. You find out which tool works best, as a woodpecker's tongue does in a crack.",
+   "record": "Write how many raisins each tool took out in one minute. Draw the best tool and say how it is like a woodpecker's tongue.",
+   "context": "In this activity you try five tools to pull raisins out of a narrow tube. You find out which tool works best, and how it is like a woodpecker's tongue reaching into a crack.",
    "setup": [
     {
      "art": "A paper tube taped to a board, with five raisins pressed deep inside it and the open end facing the child.",
@@ -1316,7 +1316,7 @@
        ]
       }
      ],
-     "parent": "Tell your child that a woodpecker's tongue can be as long as the beak plus about 10 centimetres in some woodpeckers, and curls round the skull when it is drawn in.",
+     "parent": "Tell your child that in some woodpeckers the tongue reaches about 10 centimetres past the beak, and that it curls round the skull when it is drawn in.",
      "context": "In this step you look at the results and think about the tongue of a woodpecker."
     }
    ]
@@ -1426,7 +1426,7 @@
    ],
    "schedule": [],
    "record": "Write how long each task took, and which was harder. Draw an octopus with eight arms, and write what each arm is doing.",
-   "context": "In this activity you try to do two jobs with two hands at once. You find out why an animal with eight arms needs special nerve cells.",
+   "context": "In this activity you try to do two jobs with two hands at once. You find out why an animal with eight arms needs many nerve cells in her arms.",
    "setup": [
     {
      "art": "A child holding a pencil in each hand over a sheet of paper, drawing a circle with one hand and a triangle with the other.",
@@ -1484,7 +1484,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Draw an octopus with eight arms, each doing a different job. Say how she could do eight jobs at once if one brain had to steer all eight.",
+     "do": "Draw an octopus with eight arms, each doing a different job. Say how she might manage eight jobs at once. Would it work if one brain had to steer all eight arms?",
      "say": "An octopus has eight arms. Each one has a lot of its own nerve cells. Draw her doing eight jobs at once. How might she manage it?",
      "kid": "Draw an octopus with eight arms. Each arm does a different job.",
      "ask": [
@@ -1496,7 +1496,7 @@
        ]
       }
      ],
-     "parent": "About two thirds of an octopus's nerve cells are in her arms. How much each arm decides for herself is still being studied. Do not tell the child the answer is settled.",
+     "parent": "About two thirds of an octopus's nerve cells are in her arms. How much each arm decides on its own is still being studied. Do not tell the child the answer is settled.",
      "context": "In this step you draw an octopus and think about how she might manage eight arms."
     }
    ]
@@ -1561,7 +1561,7 @@
      "id": "s1",
      "mins": 20,
      "do": "Fold the paper into a book. Write the title on the cover. Watch a crow or a pigeon for ten minutes. On the first page draw her and fill in the problem, the part and the price.",
-     "say": "Let us make a body book. On the first page, draw the animal you watch. Then write three things. A problem she has to solve, the body part that helps, and its price.",
+     "say": "Let us make a body book. On the first page, draw the animal you watch. Then write three things: a problem she has to solve, the body part that helps, and its price.",
      "kid": "Make a small book. Watch a bird. Draw her. Write a problem, a part and a price.",
      "ask": [
       {
@@ -1634,7 +1634,7 @@
     "A soft body that can squeeze into rock cracks on the mountain, like an octopus, and so be safe from the wind.",
     "Fat stored in a lump on the back, like a camel's hump, so a marsh animal can last through a month when the tide brings no food.",
     "A sticky tongue like a woodpecker's to pull insects from the cracks in a cave wall.",
-    "A body that changes colour with the wall of the cave, so hunters cannot see her."
+    "A body that changes colour to match the wall of the cave, so hunters cannot see her."
    ],
    "your_turn": "Choose a place and design your own animal with four body parts. Draw her. For each part, write the problem it solves, how it works and its price. Show your design to someone and ask, 'Where would my animal be in trouble?'",
    "context": "In this challenge you design an animal for a place of your choice. You use the idea that every body part answers a problem and has a price.",
@@ -1681,7 +1681,7 @@
      "parent": "Every part must have a price. If the child is stuck, ask: where would this part not work? What would she have to give up?",
      "check": {
       "t": "mcq",
-      "q": "Which is a good price for a very thick coat on an animal on a mountain?",
+      "q": "A mountain animal has a very thick coat. What is a likely price of that coat?",
       "options": [
        "She would overheat in a warm place",
        "She would grow wings",
@@ -1748,7 +1748,7 @@
      "t": "truefalse",
      "p": "The same amount of fat keeps heat in better when it is spread all over a body than when it is lumped in one place.",
      "a": true,
-     "why": "True. Heat can escape from the bare parts of a body with a lump. In the Ice Test, the cloth all around slowed the melting, and the lump on top did little for the open sides.",
+     "why": "True. When the fat is in one lump, heat can escape from the rest of the body. In the Ice Test, the cloth wrapped all around slowed the melting. The cloth lumped on top did little, because the sides were open.",
      "outcome": 1
     },
     {
@@ -1949,7 +1949,7 @@
      "t": "mcq",
      "p": "A giraffe stretches her neck all her life. Will her calf have a longer neck because of that?",
      "opts": [
-      "No, a calf inherits only the differences she is born with",
+      "No, a calf inherits only what her mother was born with",
       "Yes, stretching passes on to the calf",
       "Yes, but only a little"
      ],
@@ -2000,7 +2000,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each pair met the same problem. They are not close relatives, so each pair found its own answer, with a different body to start from.",
+     "why": "The two animals in each pair met the same problem. They are not close relatives, so each animal found her own answer, starting from a different body.",
      "outcome": 7
     },
     {
@@ -2037,7 +2037,7 @@
       ]
      ],
      "a": "as given",
-     "why": "Every body part has both. The gain is what the part does well. The price is where it fails or what the animal gives up.",
+     "why": "Every body part has both a gain and a price. The gain is what the part does well. The price is where it fails or what the animal gives up.",
      "outcome": 0
     },
     {
@@ -2050,7 +2050,7 @@
       "Measure each result",
       "Say what I thought, what I saw and why"
      ],
-     "why": "A fair test starts with a question and a guess. Then only one thing changes, so any difference must come from it. The measuring comes last, followed by saying what it means.",
+     "why": "A fair test starts with a question and a guess. Then only one thing changes, so any difference must come from it. Then you measure, and last you say what the results mean.",
      "outcome": 5
     },
     {
@@ -2124,7 +2124,7 @@
      "t": "mcq",
      "p": "A student repeats the Ice Test but gives block C a cloth twice as thick as block B's. C melts less than B. What is wrong with this test?",
      "opts": [
-      "B and C do not have the same amount of cloth, so the place is no longer the only difference",
+      "B and C do not have the same amount of cloth, so where the cloth sits is no longer the only difference",
       "The ice was too cold",
       "Block A should not be used"
      ],
@@ -2146,7 +2146,7 @@
     },
     {
      "t": "mcq",
-     "p": "A study with high-speed video of woodpeckers found that the head acts like a stiff hammer. What idea does this question?",
+     "p": "A study with high-speed video of woodpeckers found that the head acts like a stiff hammer. Which idea does this study cast doubt on?",
      "opts": [
       "That the skull works mainly as a shock absorber",
       "That woodpeckers hit trees",
@@ -2243,7 +2243,7 @@
     },
     {
      "t": "count",
-     "p": "In a test, block A melted to 1.6 centimetres of water in the glass and block B melted to 0.8 centimetres. How many times as much did A melt as B?",
+     "p": "In a test, the meltwater from block A stood 1.6 centimetres high in the glass, and the meltwater from block B stood 0.8 centimetres high. How many times as much did A melt as B?",
      "a": "2",
      "why": "1.6 divided by 0.8 is 2. Block A melted twice as much as block B.",
      "outcome": 1
@@ -2251,7 +2251,7 @@
     {
      "t": "odd",
      "p": "Which pair is the odd one out, and why? A bird's wing and a bat's wing, an octopus eye and a human eye, a human hand and a chimpanzee hand.",
-     "a": "The human hand and the chimpanzee hand, because the two are alike since they come from a recent shared ancestor. The other pairs grew separately to solve the same problem.",
+     "a": "The human hand and the chimpanzee hand. These two hands are alike because humans and chimpanzees share a recent ancestor. The other pairs grew separately to solve the same problem.",
      "why": "Humans and chimpanzees share a recent ancestor with a grasping hand, so their hands are alike by inheritance. Birds and bats, and octopuses and humans, are far apart, and their similar parts grew separately.",
      "outcome": 7
     },
@@ -2289,7 +2289,7 @@
       },
       {
        "who": "A camel keeper in Jaisalmer (an imagined view)",
-       "says": "Camels do need water. A camel loses a lot of weight in water, and then drinks about a hundred litres in minutes. She saves water, she does not do without."
+       "says": "Camels do need water. A camel loses a lot of weight in water, and then drinks about a hundred litres in minutes. She saves water. She does not do without it."
       },
       {
        "who": "A vet (an imagined view)",
@@ -2386,7 +2386,7 @@
   },
   {
    "t": "mcq",
-   "p": "What do scientists agree on about how a woodpecker's head survives the hits?",
+   "p": "What do scientists say about how a woodpecker's head survives the hits?",
    "opts": [
     "They are still testing whether the skull absorbs the shock or acts like a stiff hammer",
     "It is settled that the head has a built-in cushion",
@@ -2405,7 +2405,7 @@
     "She runs on her bones"
    ],
    "a": 0,
-   "why": "The water jets backwards, and the push on the water pushes her forward. It works fast but tires her, because the heart that feeds her body slows down.",
+   "why": "She pushes the water backwards, and the water pushes her forward. It works fast but tires her, because the heart that feeds her body slows down.",
    "outcome": 4
   },
   {
@@ -2482,7 +2482,7 @@
    "explain": "Fat holds twice the energy of sugar, so you need twice the weight of sugar. 30 times 2 is 60 kilograms. This is why a store of fat is so light for the energy it holds.",
    "math_unit": "math.multiplication.multi-digit.L4",
    "context": "A camel carries her food store in her hump.",
-   "why_maths": "Comparing weights shows why an animal that must carry its food chooses fat over sugar."
+   "why_maths": "Comparing weights shows why fat is a better store than sugar for an animal who must carry her food."
   },
   {
    "problem": "A person drinks about 2 litres of water a day. A very thirsty camel can drink about 100 litres in a few minutes. How many days of a person's drinking is that?",
@@ -2509,7 +2509,7 @@
    "why_maths": "Multiplying shows how many knocks add up, which is why scientists wonder how her head survives."
   },
   {
-   "problem": "In an ice test, block A (no cloth) melts to 1.6 centimetres of water, block B (cloth all around) to 0.8 centimetres and block C (the same cloth lumped on top) to 1.4 centimetres. Is block C closer to A or to B? Use the differences to decide.",
+   "problem": "In an ice test, the meltwater from block A (no cloth) stands 1.6 centimetres high in the glass. The meltwater from block B (cloth all around) stands 0.8 centimetres high, and from block C (the same cloth lumped on top) 1.4 centimetres high. Is block C closer to A or to B? Use the differences to decide.",
    "answer": "Closer to A. C is 0.2 centimetres from A and 0.6 centimetres from B.",
    "explain": "A minus C is 1.6 minus 1.4, which is 0.2. C minus B is 1.4 minus 0.8, which is 0.6. C is much closer to the bare block, so the lump on top helped little.",
    "math_unit": "math.number-sense.comparing-ordering.L4",
@@ -2608,7 +2608,7 @@
    "why_open": "Some scientists think her skin senses light. Others think the shape of her pupil lets her work out colour. Neither idea has been proved."
   },
   {
-   "q": "How much does each octopus arm decide for herself?",
+   "q": "How much does each octopus arm decide on its own?",
    "why_open": "Most of her nerve cells are in her arms, but nobody knows how orders pass between the arms and the brain, or what, if anything, an arm feels."
   },
   {
@@ -2616,7 +2616,7 @@
    "why_open": "Many octopuses die soon after breeding, and a mother often dies as her eggs hatch. Scientists have found a gland that triggers this, but they do not know why evolution kept it."
   },
   {
-   "q": "How exactly does a camel's kidney make such thick wee, and how does the body avoid damage when very thirsty?",
+   "q": "How exactly does a camel's kidney make such thick wee, and how does her body avoid damage when she is very thirsty?",
    "why_open": "The basic idea is known, but many details of the cells involved are still being studied."
   },
   {
@@ -2870,5 +2870,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet done at home. Ice Test: the blocks need a night in the freezer. The 25 minutes and the 100 millilitre cups are a usual home version, and the melt heights in the maths questions are made-up examples, not measured. In a very hot kitchen the bare block may melt completely, so the steps say to shorten the time. Blocks A and C usually come out close, and B clearly lowest, but check with your own numbers and write exactly what you see. Foot Test and Squeeze Test: dough is wheat, so the steps warn about allergy. Foot Test: the depth of the dents depends on how soft the dough is. The steps say what to do if the cap leaves no dent, and that a faint dent from the plate is a true result. Balancing the tumbler on a bottle cap takes a steady fingertip. Squeeze Test and Tongue Tools: a grown-up cuts the holes. A raisin may not stick if the tape is old, so use fresh tape. Facts to check before use. First, a very thirsty camel can drink about 100 litres or more in minutes (checked against published reviews, which give figures from about 100 to 200 litres). Second, the camel's oval red blood cells swell a great deal without bursting. Third, a big hump can hold up to about 30 kilograms of fat. Checked: the camel temperature range of about 34 to 41 degrees, the 1956 Sahara work and the 2022 woodpecker study. Fourth, the conclusion of the 2022 woodpecker study. Fifth, about two thirds of an octopus's nerve cells are in her arms. Last, the Kharai camels swim to islands. The three videos have no address yet.",
- "warm": {"words": ["CAMEL", "WATER", "ADAPT", "BONES", "HEART"], "quiz": [["A camel's hump is made of fat, which is a store of energy.", true, "The fat is an energy supply for hard times, and the hump holds no water."], ["A woodpecker has a built-in shock absorber in the head, like a helmet.", false, "High-speed video of living woodpeckers showed the head works like a stiff hammer, not a springy helmet."], ["A wide camel foot sinks less in sand because it spreads the weight over a larger area.", true, "Pressure is weight divided by area, so a bigger area gives less push on each patch of sand."], ["An octopus has eight tentacles.", false, "The limbs have suckers along their whole length, so scientists call them arms, not tentacles."], ["A body part that helps an animal in one way of life can cost something in another.", true, "Every feature is a trade-off: a gain in one place often means a cost somewhere else."], ["An animal grows a new body part because the animal needs it.", false, "Small differences already exist, and animals with a helpful one survive and have more young."], ["Two animals that are not close relatives can end up with similar body parts.", true, "Similar problems can lead to similar solutions that grew separately, called convergent evolution."], ["An octopus cannot match colours, because her eyes cannot see colour.", false, "Octopuses match rocks and weed very well, using stretchy colour sacs in their skin."], ["A camel's body must stay at exactly the same temperature all day.", false, "She lets her temperature rise and fall by several degrees, so she sweats less and saves water."], ["An octopus can squeeze through a small gap because she has no bones.", true, "Her only big hard part is the beak, so she can pass through any gap the beak fits."]], "odd": [[["Woollen cloth", "Bird feathers", "Layer of fat", "Steel sheet"], "Steel sheet", "Cloth, feathers and fat slow heat moving in or out; steel lets heat pass through quickly."], [["Camel's wide pad", "Snowshoe", "Duck's webbed foot", "Thin high heel"], "Thin high heel", "The first three spread weight over a large area, so they sink less; a thin heel puts it all on a tiny patch."], [["Octopus", "Squid", "Cuttlefish", "Garden snail"], "Garden snail", "Octopus, squid and cuttlefish push out a jet of water to move; a snail glides along on a foot."], [["Octopus", "Jellyfish", "Earthworm", "Woodpecker"], "Woodpecker", "An octopus, a jellyfish and an earthworm have no bones; a woodpecker has a bony skeleton."], [["Camel's wide foot", "Woodpecker's strong beak", "Octopus's blue blood", "Tan from the sun"], "Tan from the sun", "The first three built up over many generations and are passed on; a tan happens in one life and is not."]]}
+ "warm": {"words": ["CAMEL", "WATER", "ADAPT", "BONES", "HEART"], "quiz": [["A camel's hump is made of fat, which is a store of energy.", true, "The fat is an energy supply for hard times, and the hump holds no water."], ["A woodpecker has a built-in shock absorber in the head, like a helmet.", false, "High-speed video of living woodpeckers showed the head works like a stiff hammer, not a springy helmet."], ["A wide camel foot sinks less in sand because it spreads the weight over a larger area.", true, "Pressure is weight divided by area, so a bigger area gives less push on each patch of sand."], ["An octopus has eight tentacles.", false, "The limbs have suckers along their whole length, so scientists call them arms, not tentacles."], ["A body part that helps an animal in one way of life can cost something in another.", true, "Every feature is a trade-off: a gain in one place often means a cost somewhere else."], ["An animal grows a new body part because the animal needs it.", false, "Small differences already exist, and animals with a helpful one survive and have more young."], ["Two animals that are not close relatives can end up with similar body parts.", true, "Similar problems can lead to similar solutions that grew separately, called convergent evolution."], ["An octopus cannot match colours, because her eyes cannot see colour.", false, "Octopuses match rocks and weed very well, using stretchy colour sacs in their skin."], ["A camel's body must stay at exactly the same temperature all day.", false, "She lets her temperature rise and fall by several degrees, so she sweats less and saves water."], ["An octopus can squeeze through a small gap because she has no bones.", true, "Her only big hard part is the beak, so she can pass through any gap the beak fits."]], "odd": [[["Woollen cloth", "Bird feathers", "Layer of fat", "Steel sheet"], "Steel sheet", "Cloth, feathers and fat slow heat moving in or out; steel lets heat pass through quickly."], [["Camel's wide pad", "Snowshoe", "Duck's webbed foot", "Thin high heel"], "Thin high heel", "The first three spread weight over a large area, so they sink less; a thin heel puts it all on a tiny patch."], [["Octopus", "Squid", "Cuttlefish", "Garden snail"], "Garden snail", "Octopus, squid and cuttlefish push out a jet of water to move; a snail glides along on a foot."], [["Octopus", "Jellyfish", "Earthworm", "Woodpecker"], "Woodpecker", "An octopus, a jellyfish and an earthworm have no bones; a woodpecker has a bony skeleton."], [["Camel's wide foot", "Woodpecker's strong beak", "Octopus's blue blood", "Tan from the sun"], "Tan from the sun", "The first three built up over many generations and are passed on; a tan happens in one life and is not passed on."]]}
 }

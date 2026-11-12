@@ -255,6 +255,16 @@
   "sci.what-is-life.edge-of-life.L3",
   "sci.what-is-life.signs-of-life.L3",
   "sci.air.air-around-us.L4",
-  "sci.animal-behaviour.animal-learning.L4"
+  "sci.animal-behaviour.animal-learning.L4",
+  "sci.animal-behaviour.animal-societies.L4",
+  "sci.animal-behaviour.migration.L4",
+  "sci.animals.animal-bodies.L4",
+  "sci.animals.animal-life-cycles.L4",
+  "sci.animals.animal-minds.L4",
+  "sci.animals.invertebrates.L4",
+  "sci.animals.vertebrate-groups.L4",
+  "sci.body.heart-blood-breath.L4",
+  "sci.body.how-babies-grow.L4",
+  "sci.body.immune-system.L4"
  ]
 }

@@ -125,7 +125,7 @@
    "concept": "Pulse and breathing rate: two numbers you can count",
    "status": "defined",
    "definition": "Your pulse rate is the number of heartbeats in one minute. Your breathing rate is the number of breaths in one minute. Both change all day.",
-   "description": "Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They are answers that your body gives, moment by moment, to the question: how much is being asked of me right now?",
+   "description": "Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working.",
    "examples": [
     "A child lying down has a lower pulse than the same child standing up.",
     "After 30 step-ups, a child's pulse can double, and then falls back over a few minutes.",
@@ -190,7 +190,7 @@
    "concept": "Arteries, capillaries and veins: three kinds of road",
    "status": "defined",
    "definition": "Arteries carry blood away from the heart, capillaries are thin vessels where cells receive oxygen, and veins carry blood back to the heart.",
-   "description": "Arteries have thick, stretchy walls, because blood arrives in strong pushes. That is why you can feel a pulse in an artery. The arteries divide again and again into smaller and smaller tubes. The smallest are capillaries, so thin that red blood cells squeeze through in single file. A capillary wall is only one cell thick, so oxygen and food pass through into the cells around it, and carbon dioxide passes in. Almost every cell in your body is close to a capillary. Then the capillaries join up into veins. Veins have thinner walls, and small flaps inside that act like one-way doors, so blood cannot slip backwards when you are standing. When you walk, the muscles in your legs squeeze the veins and help to push blood up. The total length of all your blood vessels is often said to be about 100,000 kilometres, but that figure is an estimate.",
+   "description": "Arteries have thick, stretchy walls, because blood arrives in strong pushes. That is why you can feel a pulse in an artery. The arteries divide again and again into smaller and smaller tubes. The smallest are capillaries, so thin that red blood cells squeeze through in single file. A capillary wall is only one cell thick, so oxygen and food pass through it into the cells around it, and carbon dioxide passes from those cells back into the blood. Almost every cell in your body is close to a capillary. Then the capillaries join up into veins. Veins have thinner walls, and small flaps inside that act like one-way doors, so blood cannot slip backwards when you are standing. When you walk, the muscles in your legs squeeze the veins and help to push blood up. The total length of all your blood vessels is often said to be about 100,000 kilometres, but that figure is an estimate.",
    "examples": [
     "A paper cut that bleeds a little has opened a few capillaries.",
     "The bluish lines on the back of your hand are veins just under the skin.",
@@ -220,16 +220,16 @@
    "examples": [
     "Pale, cold fingers on a winter morning in Shimla or Leh are the body protecting its middle.",
     "Red cheeks after a game of kabaddi are widened vessels letting heat out.",
-    "A person who stands up too fast may see spots, because the blood has not caught up yet."
+    "A person who stands up too fast may see spots, because for a moment not enough blood reaches the brain."
    ],
    "art": "Two hands side by side, a warm pink one with wide vessels drawn beneath the skin, and a cold pale one with narrow vessels, and the heart in the middle with arrows.",
    "perspectives": []
   },
   {
-   "concept": "Thin air, thick blood: living high up",
+   "concept": "Living high up: thin air and more red blood cells",
    "status": "defined",
    "definition": "Higher up a mountain, each breath has less oxygen. Over weeks, the body makes more red blood cells and adjusts its breathing to cope.",
-   "description": "At sea level, air pressure is highest, and each breath is packed with oxygen. In Leh, at about 3,500 metres, the air pressure is only about two thirds as high, so each breath holds about two thirds as much oxygen. A visitor from Chennai or Madurai breathes faster, has a faster pulse and feels tired. After a few days, the kidneys release a messenger called erythropoietin, and the bone marrow makes more red blood cells. This takes weeks to finish, so mountaineers go up slowly. People whose families have lived in the Himalayas for thousands of years have changes in their genes that help them cope with thin air. Scientists found that one such gene change in Tibetans looks like one passed down from an extinct group of humans, the Denisovans. Some visitors get altitude sickness, with headache and sickness, and the cure is to rest or go lower. Anyone who feels very ill at height needs a doctor.",
+   "description": "At sea level, air pressure is highest, and each breath is packed with oxygen. In Leh, at about 3,500 metres, the air pressure is only about two thirds as high, so each breath holds about two thirds as much oxygen. A visitor from Chennai or Madurai breathes faster, has a faster pulse and feels tired. After a few days, the kidneys release a messenger called erythropoietin, and the bone marrow makes more red blood cells. This takes weeks to finish, so mountaineers go up slowly. People whose families have lived in the Himalayas for thousands of years have changes in their genes that help them cope with thin air. Scientists found that one such gene change in Tibetans looks like one passed down from an extinct group of humans, the Denisovans. Some visitors get altitude sickness. They have a headache and feel sick, and the cure is to rest or go lower. Anyone who feels very ill at height needs a doctor.",
    "examples": [
     "Mountaineers spend days at a camp partway up before they go higher.",
     "Some athletes train at high places to raise their red blood cell count.",
@@ -292,7 +292,7 @@
    "claim": "Blood in your veins is blue until it meets air.",
    "who": "Many people, and some school books.",
    "for": "Veins look blue under the skin, and diagrams colour them blue.",
-   "against": "Blood is always some shade of red. Dark blood with less oxygen is dark red. Veins look blue because of how skin and light work together. Blood drawn from a vein in a needle is clearly dark red.",
+   "against": "Blood is always some shade of red. Dark blood with less oxygen is dark red. Veins look blue because of how skin and light work together. Blood taken from a vein with a needle is clearly dark red.",
    "status": "rejected"
   },
   {
@@ -306,14 +306,14 @@
    "claim": "We breathe faster during exercise because we are running out of oxygen.",
    "who": "Many people, and some older books.",
    "for": "Oxygen is used faster during exercise, and tired people feel breathless.",
-   "against": "The main signal is the carbon dioxide level in the blood, and the pH change it causes. Breathing rate rises before oxygen has fallen much.",
+   "against": "The main signal is the carbon dioxide level in the blood, which makes the blood slightly more acidic. Breathing rate rises before oxygen has fallen much.",
    "status": "rejected"
   },
   {
    "claim": "The pulse can tell a skilled reader about many diseases, as nadi pariksha says.",
    "who": "Practitioners of Ayurveda, and similar traditions in other countries.",
    "for": "Doctors in many traditions have read the pulse for thousands of years. Modern doctors read its rate, rhythm and strength, and find real clues in them.",
-   "against": "Careful tests have not yet shown that pulse reading can tell the many kinds of illness that some traditions describe. Researchers continue to study it.",
+   "against": "Careful tests have not yet shown that pulse reading can pick out the many kinds of illness that some traditions describe. Researchers continue to study it.",
    "status": "debated"
   },
   {
@@ -378,8 +378,8 @@
    "\"What is wrong with the air? It looks the same.\"",
    "\"There is less in every breath,\" she said. She did not say less of what. She took his hand, and put two of his own fingers on the inside of his wrist. \"Not the thumb. The thumb has a pulse of its own and it will fool you. Count for half a minute.\"",
    "Arjun counted fifty-two. Dolma counted her own. She got forty. \"Double them,\" she said. \"A hundred and four for you, and eighty for me. Your heart is working harder than mine, and you are only sitting.\"",
-   "Dolma's grandmother, Ama-le, was drying apricots on a cloth by the window. She poured him salty butter tea and told him what to do. \"Drink. Sleep. Go slowly for three days. Every breath up here carries a little less sky, and your body must learn how to find the rest.\" Then she took his hand and pressed her thumb on his fingernail until the pink went white. She let go and counted aloud. \"One.\" The pink flooded back. \"When the colour comes back fast, the blood is arriving. When it comes back slowly, the blood has gone somewhere else. Your fingers will tell you before your mouth does. And if hands ever go cold and white, never rub them. Warm them slowly, against your body.\"",
-   "Each morning for ten days, Arjun and Dolma sat on the roof and counted. The first morning it was a hundred and four. A week later it was ninety-two. By the third week it was eighty-eight, and he climbed all twenty-two steps and only laughed at the top.",
+   "Dolma's grandmother, Ama-le, was drying apricots on a cloth by the window. She poured him salty butter tea and told him what to do. \"Drink. Sleep. Go slowly for three days. Every breath up here holds a little less air, and your body must learn to manage with less.\" Then she took his hand and pressed her thumb on his fingernail until the pink went white. She let go and counted aloud. \"One.\" The pink flooded back. \"When the colour comes back fast, the blood is arriving. When it comes back slowly, the blood has gone somewhere else. Your fingers will tell you before your mouth does. And if hands ever go cold and white, never rub them. Warm them slowly, against your body.\"",
+   "Each morning for ten days, Arjun and Dolma sat on the roof and counted their pulses. The first morning Arjun's was a hundred and four. A week later it was ninety-two. By the third week it was eighty-eight, and he climbed all twenty-two steps and only laughed at the top.",
    "In that third week, the channel stopped. The water that ran from the glacier to Ama-le's barley field came down a stone ditch, and something had blocked it high on the hill. The grown-ups were at the bazaar. The field would be dry by evening.",
    "\"I will go,\" said Dolma. \"I know the path.\"",
    "\"I will come,\" said Arjun, and Dolma looked at him, and then she nodded. They climbed slowly. \"Breathe in for two steps, out for two steps,\" she told him. He did it, and for the first time the hill did not beat him.",
@@ -392,11 +392,11 @@
    "He did not rub her hands. Ama-le had said never to rub. He opened his jacket and tucked her hands under his arms, against his shirt, where it was warm. They sat on the bank in the loud sound of the water. Arjun felt her breaths slowing against his side. Slowly, the skin of her fingers lost its wax colour.",
    "After a long time he tried the nail again. He pressed, and let go. \"One,\" he said. The pink came back like a lamp being lit. \"Two. There. It came.\"",
    "They walked home slowly, breathing in for two steps and out for two. At the gate, Ama-le looked at Dolma's hands and then at Arjun. She said nothing. She pressed Dolma's nail, and nodded, and poured two cups of tea.",
-   "That night the water ran along the edge of the barley field, soaking the dry ground. Arjun lay in bed and put two fingers on his wrist. Eighty-eight. All through him, a red river that was never still was carrying the thin sky to the ends of him, and taking it back again. He had known the air for three weeks. He knew his cousin's hands because she had taught him how to find his own pulse first."
+   "That night the water ran along the edge of the barley field, soaking the dry ground. Arjun lay in bed and put two fingers on his wrist. Eighty-eight. All through his body, his blood was carrying oxygen from the thin air to his fingers and toes, and coming back for more. He had been in Leh for three weeks. He had known what to do for Dolma's hands because she had first taught him how to find his own pulse."
   ],
   "epiphany": "When the body is cold, it sends blood away from the fingers to protect the middle. The slow return of colour in a pressed nail shows that the blood has gone elsewhere.",
   "ask": [
-   "Why did Arjun's pulse come down in the three weeks while he stayed in Leh?",
+   "Why did Arjun's pulse come down during his three weeks in Leh?",
    "What did the white fingernail tell Arjun that Dolma could not feel?",
    "Why did Arjun warm Dolma's hands under his arms, and not by rubbing them?"
   ],
@@ -448,7 +448,7 @@
     }
    ],
    "safety": "Use a low, firm step with no wobble, and keep a grown-up beside the child. Stop the step-ups at once if the child feels dizzy, has pain in the chest or cannot catch their breath. Any child with a heart or breathing condition should ask the doctor before doing the step-ups.",
-   "record": "Fill the table as you go. Write the claim, the evidence and the reasoning at the end. Draw a line graph of the pulse per minute against the minutes after exercise.",
+   "record": "Fill the table as you go. At the end, write a claim (what you found), the evidence (the numbers that show it) and the reasoning (why you think it happened). Draw a line graph of the pulse per minute against the minutes after exercise.",
    "setup": [
     {
      "art": "A child lying on a mat with a picture book, with a parent kneeling beside her holding a phone stopwatch.",
@@ -526,7 +526,7 @@
      "context": "In this step you count your pulse and your breaths while sitting.",
      "ask": [
       {
-       "q": "Is your pulse the same as lying down? Why do you think that happened?",
+       "q": "Is your pulse the same as when you were lying down? Why do you think that is?",
        "good": [
         "It is a bit higher, because I sat up.",
         "It is the same, because I am still resting.",
@@ -558,7 +558,7 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Ask the child to step up onto the step and down again, about one step-up every two seconds, for one minute. A grown-up stays beside the child. At once, count the pulse for 15 seconds and the breaths for 15 seconds. Write them down.",
+     "do": "Ask the child to step up onto the step and down again, about one step-up every two seconds, for one minute. A grown-up stays beside the child. As soon as the minute ends, count the pulse for 15 seconds and then the breaths for 15 seconds. Write them down.",
      "say": "Step up and down for one minute. I will count with you. When I say stop, count your pulse straight away.",
      "kid": "Step up and down for one minute. Stop. Count your pulse for 15 seconds.",
      "context": "In this step you exercise for one minute, then count your pulse and breaths straight away.",
@@ -591,7 +591,7 @@
      "say": "Each count was for 15 seconds, and there are four of those in one minute. So multiply each number by 4. Write the answers in the table.",
      "kid": "Multiply each count by 4. That gives you beats and breaths in one minute.",
      "context": "In this step you change your counts into pulse and breaths per minute.",
-     "parent": "For a count of 22 beats in 15 seconds, 22 times 4 is 88. Breaths counted in 15 seconds are small numbers, so the answers are rough. That is fine. If two counts differ by only 1 beat, that is within the error of a 15-second count, so do not claim a change.",
+     "parent": "For a count of 22 beats in 15 seconds, 22 times 4 is 88. Breaths counted in 15 seconds are small numbers, so the answers are rough. That is fine. A 15-second count can easily be off by 1 beat, so if two counts differ by only 1 beat, do not call that a change.",
      "check": {
       "t": "mcq",
       "q": "You counted 30 beats in 15 seconds after exercise. What is the pulse per minute?",
@@ -607,7 +607,7 @@
     {
      "id": "s9",
      "mins": 4,
-     "do": "Ask the child to say or write a claim, the evidence and the reasoning. Compare with the first guess. Do not give the explanation until the child has said what they think.",
+     "do": "Ask the child to say or write a claim (what they found), the evidence (the numbers that show it) and the reasoning (why they think it happened). Compare with the first guess. Do not give the explanation until the child has said what they think.",
      "say": "What did you find? Which number was highest, and when? What do you think made the heart and the breathing go up together?",
      "kid": "Tell me what you found. Which numbers went up? What do you think made them go up?",
      "context": "In this step you write what you think, what you saw, and why.",
@@ -703,7 +703,7 @@
        ]
       }
      ],
-     "parent": "Accept any guess with a reason. A common idea is that blood freezes or stops. Do not correct it. Let the test show. With 2 to 4 children, work in pairs: one child is the hand, one presses and times. Share the two bowls, but run two pairs at the same time only if you have a helper to watch each cold-water minute. Every child tests their own hand, because skin and nails differ."
+     "parent": "Accept any guess with a reason. A common idea is that blood freezes or stops. Do not correct it. Let the test show. With 2 to 4 children, work in pairs: one child's hand is tested, and the other child presses and times. Share the two bowls, but run two pairs at the same time only if you have a helper to watch each cold-water minute. Every child tests their own hand, because skin and nails differ."
     },
     {
      "id": "s2",
@@ -741,7 +741,7 @@
        ]
       }
      ],
-     "parent": "Do the three presses quickly, because the hand starts to warm up at once. If the times are all similar, note the colour of the fingertips as well. Pale, waxy fingertips are a clear sign. Stop the test if the hand hurts. A cold hand should be slower, but the size of the change differs from child to child, typically from about 2 seconds to 4 seconds or more. If it does not change at all, the water was not cold enough, or the hand warmed up while you dried it. Write that down honestly and try again with more ice."
+     "parent": "Do the three presses quickly, because the hand starts to warm up at once. If the times are all similar, note the colour of the fingertips as well. Pale, waxy fingertips are a clear sign that less blood is reaching them. Stop the test if the hand hurts. A cold hand should be slower, but the size of the change differs from child to child, typically from about 2 seconds to 4 seconds or more. If it does not change at all, the water was not cold enough, or the hand warmed up while you dried it. Write that down honestly and try again with more ice."
     },
     {
      "id": "s5",
@@ -755,7 +755,7 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask the child to write a claim, the evidence and the reasoning. Compare with the first guess. Do not explain until the child has said what they think.",
+     "do": "Ask the child to write a claim (what they found), the evidence (the times that show it) and the reasoning (why they think it happened). Compare with the first guess. Do not explain until the child has said what they think.",
      "say": "What did you find? Which hand was fastest? Where do you think the blood went when your hand was cold?",
      "kid": "Tell me what you found. Which hand was fastest? Where do you think the blood went?",
      "context": "In this step you say what you think, what you saw, and why.",
@@ -816,8 +816,8 @@
      "buy": "b-stopwatch"
     }
    ],
-   "safety": "Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp. Do not drink the sugar water if the glasses were not food-clean, and keep the sugar away from ants.",
-   "record": "Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time. Say how long a glass had to be clear and what you saw at the bottom.",
+   "safety": "Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp. Do not drink the sugar water unless the glasses were clean enough to drink from, and keep the sugar away from ants.",
+   "record": "Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time. Say how you decided that a glass was clear, and what you saw at the bottom.",
    "setup": [
     {
      "art": "Three glasses in a row labelled A, B and C, each with 100 millilitres of water.",
@@ -842,7 +842,7 @@
      "mins": 3,
      "do": "Show the three kinds of sugar. Ask the child for a guess and a reason about which will clear first, and which last. Write them down.",
      "say": "We have the same amount of sugar in three forms. Which glass do you think will clear first? Which will be last? Why do you think so?",
-     "kid": "Same sugar, three forms. Which glass clears first? Which last? Why?",
+     "kid": "We have the same sugar in three forms. Which glass will clear first? Which will be last? Why?",
      "context": "In this step you guess, with a reason, before you test.",
      "ask": [
       {
@@ -895,7 +895,7 @@
      "context": "In this step you watch the sugar dissolve and write down the times.",
      "ask": [
       {
-       "q": "What do you notice about the water around each lump?",
+       "q": "What do you notice about the water and the sugar in each glass?",
        "good": [
         "The water near the lump looks wavy.",
         "There are fewer bits in glass C.",
@@ -908,7 +908,7 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Ask the child to write a claim, the evidence and the reasoning. Then ask how this could link to lungs. Do not explain until the child has said what they think.",
+     "do": "Ask the child to write a claim (what they found), the evidence (the times that show it) and the reasoning (why they think it happened). Then ask how this could link to lungs. Do not explain until the child has said what they think.",
      "say": "What did you find? Which glass cleared first? Think about how much of the sugar touches the water in each glass. What do you think made the difference?",
      "kid": "Tell me what you found. Which glass cleared first? Why do you think so?",
      "context": "In this step you say what you think, what you saw and why.",
@@ -968,7 +968,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Ask the child to guess, with a reason, whether the pulse will be the same at every place. Then find the pulse at the wrist, then at the temple, just in front of the ear. Next, very lightly at the side of the neck. Last, with a flat hand on the chest. Count for 15 seconds at the wrist and at the neck. A partner can count one place each, at the same moment. Compare the numbers. Then do 20 star jumps and count again at the same two places.",
+     "do": "Ask the child to guess, with a reason, whether the pulse will be the same at every place. Then find the pulse at the wrist. Find it at the temple, just in front of the ear. Find it very lightly at the side of the neck. Last, feel it with a flat hand on the chest. Count for 15 seconds at the wrist and at the neck. With a partner, each of you can count one place at the same moment. Compare the numbers. Then do 20 star jumps and count again at the same two places.",
      "say": "Find your pulse at your wrist. Now try in front of your ear, at your temple. Try very lightly on one side of your neck. Last, put a flat hand on your chest. Which is easiest?",
      "kid": "Find your pulse at four places. Which one is easiest? Count at two places and compare.",
      "context": "In this step you find your pulse in four places and compare them.",
@@ -1022,11 +1022,11 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Count the breaths of at least four resting beings for 15 seconds each. Multiply by 4. Draw a bar chart."
+     "what": "Count the breaths of at least four resting people or pets for 15 seconds each. Multiply by 4. Draw a bar chart."
     }
    ],
-   "record": "Write each name, the count for 15 seconds, and the breaths per minute. Draw a bar chart of breaths per minute for each being.",
-   "context": "In this activity you count the breaths of different resting beings in your home and make a bar chart. It shows that breathing rate depends on the size and age of the body.",
+   "record": "Write each name, the count for 15 seconds, and the breaths per minute. Draw a bar chart of breaths per minute for each person or pet.",
+   "context": "In this activity you count the breaths of different resting people and pets in your home and make a bar chart. It shows that breathing rate depends on the size and age of the body.",
    "setup": [
     {
      "art": "A child watching a sleeping cat's side rise and fall, with a phone stopwatch.",
@@ -1045,19 +1045,19 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Ask the child to guess who breathes fastest and who breathes slowest, from a list of the beings to be counted. Write the guesses down with the reasons.",
+     "do": "Make a list of the people and pets to be counted. Ask the child to guess who breathes fastest and who breathes slowest. Write the guesses down with the reasons.",
      "say": "Who do you think breathes fastest in our home? Who breathes slowest? Why do you think so?",
      "kid": "Who breathes fastest in our home? Who slowest? Why?",
      "context": "In this step you guess who breathes fastest before counting.",
-     "parent": "Children often guess the biggest being breathes fastest, or the loudest. Let them guess. Do not correct."
+     "parent": "Children often guess that the biggest person or animal breathes fastest, or the loudest. Let them guess. Do not correct."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Ask the child to watch each resting being for 15 seconds and count the rises of the chest or belly. Write each count down and multiply by 4. Draw a bar for each in a bar chart.",
+     "do": "Ask the child to watch each resting person or pet for 15 seconds and count the rises of the chest or belly. Write each count down and multiply by 4. Draw a bar for each one in a bar chart.",
      "say": "Watch a resting person or pet for 15 seconds. Count each time the chest or belly rises. Multiply your number by 4. Then draw a bar.",
      "kid": "Watch for 15 seconds. Count each rise. Multiply by 4. Draw a bar.",
-     "context": "In this step you count the breaths of several resting beings and draw a bar chart.",
+     "context": "In this step you count the breaths of several resting people and pets and draw a bar chart.",
      "ask": [
       {
        "q": "What pattern do you notice between age or size and breathing rate?",
@@ -1068,10 +1068,10 @@
        ]
       }
      ],
-     "parent": "Usual resting rates are about 30 to 40 breaths a minute for a young baby, about 18 to 25 for a school child, about 12 to 20 for an adult, and about 15 to 30 for a resting dog or cat. Animals that have just played will be faster, so count only those who are calm. Breath counts over 15 seconds are rough: a miss of one breath changes the answer by 4. For steadier numbers count for 30 seconds and multiply by 2. With 2 to 4 children, each child counts different beings, or two children count the same being and compare their numbers. With one child, the parent keeps time.",
+     "parent": "Usual resting rates are about 30 to 40 breaths a minute for a young baby, about 18 to 25 for a school child, about 12 to 20 for an adult, and about 15 to 30 for a resting dog or cat. Animals that have just played will be faster, so count only those who are calm. Breath counts over 15 seconds are rough: a miss of one breath changes the answer by 4. For steadier numbers count for 30 seconds and multiply by 2. With 2 to 4 children, each child counts different people or pets, or two children count the same one and compare their numbers. With one child, the parent keeps time.",
      "check": {
       "t": "mcq",
-      "q": "Which being would you expect to breathe fastest while resting?",
+      "q": "Who would you expect to breathe fastest while resting?",
       "options": [
        "A young baby",
        "A grandparent",
@@ -1136,10 +1136,10 @@
      "id": "s1",
      "mins": 5,
      "do": "Show the child the nutrition label and find the line for iron. Ask the child to guess whether a magnet can pull iron out of a soft, wet cereal, and why.",
-     "say": "This cereal has iron added to it, as a label says. Do you think a magnet can pull iron out of a soft, wet cereal? Why do you think so?",
+     "say": "The label says this cereal has iron added to it. Do you think a magnet can pull iron out of a soft, wet cereal? Why do you think so?",
      "kid": "The label says this cereal has iron. Can a magnet pull it out? Why?",
      "context": "In this step you read the label and guess before you try.",
-     "parent": "Iron added to cereal is often a fine iron powder, which is magnetic. Not every cereal and not every magnet will show it. The magnet must be strong. If nothing shows up, that is a real result. This works best with a cereal whose label shows a good share of the daily iron, and with a strong magnet. A fridge magnet will not do. If you cannot find a strong magnet, borrow one from a hardware shop or an old speaker, or skip this activity and read the nutrition label alone."
+     "parent": "Iron added to cereal is often a fine iron powder, which is magnetic. Not every cereal and not every magnet will show it. The magnet must be strong. If nothing shows up, that is a real result. This works best with a cereal whose label shows a good share of the daily iron, and with a strong magnet. A fridge magnet will not do. If you cannot find a strong magnet, borrow one from a hardware shop or an old speaker, or skip the magnet part and only read the nutrition label."
     },
     {
      "id": "s2",
@@ -1149,7 +1149,7 @@
      "kid": "Crush the cereal in warm water. Stir with the magnet in a bag for 10 minutes.",
      "context": "In this step you stir the cereal soup with a magnet in a bag.",
      "adult": true,
-     "parent": "Stir slowly, so the iron has time to stick. Stay away from phones, watches and cards with the magnet."
+     "parent": "Stir slowly, so the iron has time to stick. Keep the magnet away from phones, watches and cards."
     },
     {
      "id": "s3",
@@ -1268,7 +1268,7 @@
       "options": [
        "Gravity pulled more blood down into that hand",
        "The low hand worked harder",
-       "The low hand had the heart nearer"
+       "The low hand was nearer the heart"
       ],
       "a": 0,
       "why": "Blood weighs something, so gravity pulls it down. In the raised hand it drains towards the heart. In the hanging hand, veins fill. If you picked another answer, think about which hand was further from the heart."
@@ -1305,7 +1305,7 @@
     }
    ],
    "record": "Write the pulse and the breaths in 15 seconds before and after, with and without the straw, and how each felt. Write one sentence on what you learned about people whose airways are narrow.",
-   "context": "In this activity you breathe through a straw to feel what narrow airways are like. In a person with asthma, the airways tighten. It shows why breathing hard work needs more effort.",
+   "context": "In this activity you breathe through a straw to feel what narrow airways are like. In a person with asthma, the airways tighten. It shows why breathing is hard work when the airways are narrow.",
    "setup": [
     {
      "art": "A child sitting on a chair with a straw between her lips and a hand pinching her nose, with a grown-up beside her.",
@@ -1323,7 +1323,7 @@
      "do": "Count the child's resting pulse for 15 seconds and write it down. Ask for a guess and a reason about how breathing through a straw will feel, and how it will change the pulse.",
      "say": "First, count your pulse sitting. Now guess. How will it feel to breathe through a straw? Will your pulse change? Why do you think so?",
      "kid": "Count your pulse. How will breathing through a straw feel? Why?",
-     "context": "In this step you count a resting pulse and guess.",
+     "context": "In this step you count your resting pulse and guess how breathing through a straw will feel.",
      "parent": "Take the pulse before the straw. Tell the child they can stop at any time by taking out the straw. Each child counts their own pulse and a partner counts the breaths over 15 seconds."
     },
     {
@@ -1433,7 +1433,7 @@
        ]
       }
      ],
-     "parent": "The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still. The three resting counts show the 'noise': if they differ by 2 or 3 beats on their own, a story change of that size means nothing. With 2 to 4 children, work in pairs: one listens, one counts, then swap; all can listen to the same story. One child with a parent: the parent reads and then counts, so read the story in advance and count in the last 15 seconds of reading, or use a recorded story. Use the same position and time for both stories.",
+     "parent": "The change may be small, only a few beats, and a count over 15 seconds can be wrong by about four. Say so honestly. If the numbers are about the same, that is also a result. Strong feelings such as fear release adrenaline, which can raise the pulse even when the body is still. The three resting counts show the 'noise': if they differ by 2 or 3 beats on their own, a difference of that size between the two stories means nothing. With 2 to 4 children, work in pairs: one listens, one counts, then swap; all can listen to the same story. One child with a parent: the parent reads and then counts, so read the story in advance and count in the last 15 seconds of reading, or use a recorded story. Use the same position and time for both stories.",
      "check": {
       "t": "mcq",
       "q": "The pulse was a little higher in the exciting story. What is a fair thing to say?",
@@ -1475,7 +1475,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 two-sided cards: a situation on the front, and the verdict and the reason on the back",
+     "title": "24 two-sided cards: a situation on the front, and the answer and the reason on the back",
      "items": [
       {
        "f": "You are sound asleep in bed at night. What happens to your pulse and breathing, compared with sitting awake?",
@@ -1514,7 +1514,7 @@
        "b": "Faster. Climbing uses your big leg muscles hard, so they ask for more oxygen."
       },
       {
-       "f": "A runner who trains every day sits next to you, both at rest. How does her pulse compare with yours?",
+       "f": "A runner who trains every day sits next to you. You are both resting. How does her pulse compare with yours?",
        "b": "Slower. A trained heart pushes out more blood with each beat, so it does not have to beat as often."
       },
       {
@@ -1562,7 +1562,7 @@
        "b": "Faster. Worry releases a little adrenaline, and the heart speeds up even though your body is still."
       },
       {
-       "f": "You sit quietly for five minutes after a run that stopped five minutes ago. What happens, compared with right after you stopped?",
+       "f": "You finished a run five minutes ago and have sat quietly since then. What happens to your pulse and breathing, compared with right after you stopped?",
        "b": "Slower. The extra carbon dioxide has cleared, and the pulse and breathing have come back down to near rest."
       },
       {
@@ -1577,7 +1577,7 @@
     },
     {
      "kind": "tokens",
-     "title": "12 verdict tokens: four sets of three",
+     "title": "12 answer tokens: four sets of three",
      "items": [
       "Faster",
       "Faster",
@@ -1657,7 +1657,7 @@
        "The person was hot"
       ],
       "a": 0,
-      "why": "Whenever cells use more energy, they need more oxygen and make more carbon dioxide. The heart and lungs speed up to meet this. If you picked another answer, look at the cards about fright and fever, where the cause was different but the cells' demand was still higher."
+      "why": "Whenever cells use more energy, they need more oxygen and make more carbon dioxide. The heart and lungs speed up to meet this. If you picked another answer, look at the cards about fright and fever, where the cause was different but the cells were still asking for more."
      }
     }
    ]
@@ -1798,7 +1798,7 @@
     "Put a light book on the belly and watch it lift. Count each lift."
    ],
    "creative": [
-    "Make a lever with the straw. Press a lump of clay on a stack of books so that a straw pivots on it. Rest the short end on the cup on the belly. The long end moves up and down about five times as far as the belly moves.",
+    "Make a lever with the straw. Press a lump of clay onto a stack of books and push the straw into the clay, so that the straw can tilt up and down on it. Rest the short end on the cup on the belly. The long end moves up and down about five times as far as the belly moves.",
     "Tape a bright paper arrow to the long end of the lever, and mark a card behind it. Count each time the arrow crosses the line.",
     "Use a lever with a paper pointer and mark a strip for the highest and lowest points, to see how deep each breath is as well as how many there are."
    ],
@@ -1914,7 +1914,7 @@
       "Carbon dioxide"
      ],
      "a": 0,
-     "why": "Red blood cells pick up oxygen in the lungs and let go of it in the tissues. Carbon dioxide travels the other way, mostly dissolved in the plasma.",
+     "why": "Red blood cells pick up oxygen in the lungs and let go of it in the rest of the body. Carbon dioxide travels the other way, mostly dissolved in the plasma.",
      "outcome": 2
     },
     {
@@ -2253,21 +2253,21 @@
      "p": "Two children are arguing about what makes the heart speed up when you run.",
      "views": [
       {
-       "who": "Devika, a girl in Class 4 (an imagined view)",
+       "who": "One child (an imagined view)",
        "says": "The heart is the boss of the body. It decides how fast to go, and everything else follows."
       },
       {
-       "who": "Karthik, a boy in Class 4 (an imagined view)",
+       "who": "Another child (an imagined view)",
        "says": "The heart answers the muscles. When they use more oxygen, they send signals, and the heart speeds up to match."
       },
       {
-       "who": "Dr Nandini, a heart doctor (an imagined view)",
+       "who": "A heart doctor (an imagined view)",
        "says": "The heart has its own built-in pacemaker, but nerves and hormones speed it up or slow it down. So both children have a point."
       }
      ],
      "ask": "Which idea do you agree with most? Give a reason from the Pulse Detective test. Then say one thing another person has right.",
      "lines": 5,
-     "a": "Answers vary. A strong answer uses the test, for example that the pulse and breathing rose together and fell together, which suggests they answer the same call. It also admits that the heart has a built-in pacemaker.",
+     "a": "Answers vary. A strong answer uses the test, for example that the pulse and breathing rose together and fell together, which suggests that the same thing was driving both. It also admits that the heart has a built-in pacemaker.",
      "why": "The heart does have its own rhythm, and signals from outside change it. Seeing both sides is better than picking only one.",
      "outcome": 6
     },
@@ -2505,7 +2505,7 @@
      "t": "write",
      "p": "Plan a fair test of this question: do children who play sport every day recover their pulse faster than children who do not? Say what you would keep the same.",
      "lines": 5,
-     "a": "Test several children from each group. Have each do the same one minute of step-ups on the same step, and count the pulse every minute for four minutes. Keep the exercise, the counting, the time of day and the way of counting the same. Compare the time to return close to resting.",
+     "a": "Test several children from each group. Have each do the same one minute of step-ups on the same step, and count the pulse every minute for four minutes. Keep the exercise, the time of day and the way of counting the same. Compare how long each group takes to return close to the resting pulse.",
      "why": "A strong answer changes one thing, the sport habit, and keeps the rest the same, and uses more than one child from each group.",
      "outcome": 1
     },
@@ -2525,7 +2525,7 @@
       "Eating more salt"
      ],
      "a": 0,
-     "why": "All three of the first list help: more breaths bring in more air, more pumping moves it faster, and more red cells carry more per trip.",
+     "why": "Breathing faster brings in more air, pumping more blood moves the oxygen faster, and more red blood cells carry more oxygen on each trip. All three help.",
      "outcome": 6
     },
     {
@@ -2543,7 +2543,7 @@
       "The breathing and the pulse speed up",
       "More oxygen reaches the muscle cells"
      ],
-     "why": "The cells call first. The sensors notice. The lungs and heart speed up. More oxygen is delivered, which meets the cells' call.",
+     "why": "First the muscle cells use more oxygen and make more carbon dioxide. Then sensors notice the carbon dioxide rising. The lungs and heart speed up, and more oxygen reaches the muscle cells.",
      "outcome": 6
     }
    ]
@@ -2636,11 +2636,11 @@
   },
   {
    "t": "mcq",
-   "p": "Hana's fingers are white and cold after a swim. When she presses a nail, the pink returns slowly. What is her body doing?",
+   "p": "Your fingers are white and cold after a swim. When you press a nail, the pink returns slowly. What is your body doing?",
    "opts": [
     "Sending less blood to the fingers to keep the middle of the body warm",
     "Making more blood in the fingers",
-    "Stopping her heart"
+    "Stopping your heart"
    ],
    "a": 0,
    "why": "In the cold, the small vessels near the skin narrow. The blood stays near the heart and the other organs that must stay warm.",
@@ -2679,7 +2679,7 @@
     "The visitor is afraid"
    ],
    "a": 0,
-   "why": "At 3,500 metres the air has about two thirds of the oxygen per breath. Breathing faster brings in more air.",
+   "why": "At 3,500 metres each breath holds about two thirds as much oxygen as at sea level. Breathing faster brings in more air.",
    "outcome": 6
   },
   {
@@ -2697,22 +2697,22 @@
  ],
  "maths": [
   {
-   "problem": "In the Pulse Detective test, Kavya counted 21 beats in 15 seconds lying down and 33 beats in 15 seconds just after step-ups. What was her pulse per minute each time? How many more beats per minute was it after the step-ups?",
+   "problem": "In the Pulse Detective test, a child counted 21 beats in 15 seconds lying down and 33 beats in 15 seconds just after step-ups. What was the child's pulse per minute each time? How many more beats per minute was it after the step-ups?",
    "answer": "84 and 132. It was 48 beats per minute more.",
    "explain": "21 times 4 is 84. 33 times 4 is 132. 132 take away 84 is 48.",
    "math_unit": "math.multiplication.multiplication-facts.L4",
    "how": "e1",
-   "context": "In the Pulse Detective test, you count the pulse for 15 seconds and multiply by 4. These are made-up counts for a child called Kavya.",
+   "context": "In the Pulse Detective test, you count the pulse for 15 seconds and multiply by 4. These are made-up counts.",
    "why_maths": "A 15-second count must be multiplied by 4 to compare with the pulse per minute. Subtracting then shows how big the change was."
   },
   {
-   "problem": "Kavya's pulse at rest was 84 beats per minute, and she breathed 21 times a minute. About how many heartbeats are there for each breath?",
+   "problem": "A child's pulse at rest was 84 beats per minute, and the child breathed 21 times a minute. About how many heartbeats are there for each breath?",
    "answer": "About 4 heartbeats for each breath.",
    "explain": "84 divided by 21 is 4. So there are 4 heartbeats for each breath.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "how": "e1",
-   "context": "In the Pulse Detective test, you count pulse and breaths for the same minute. These are made-up results for a child called Kavya.",
-   "why_maths": "A ratio shows how two counts go together. In this test the ratio stays close to the same even when both numbers change."
+   "context": "In the Pulse Detective test, you count pulse and breaths for the same minute. These are made-up results.",
+   "why_maths": "A ratio shows how two counts go together. In this test the ratio stays about the same even when both numbers change."
   },
   {
    "problem": "Look at the line graph of a child's pulse after step-ups. At what minute was the pulse first within 10 beats of the resting pulse of 84? How many beats did it fall in the first minute?",
@@ -2771,7 +2771,7 @@
    "explain": "The floor area is 8 times 6, which is 48 square metres. 60 take away 48 is 12.",
    "math_unit": "math.area-perimeter.area.L4",
    "how": "e3",
-   "context": "In the Big Surface test, you saw that more surface means a faster swap. The lungs fold up their surface to fit inside a chest. The lung surface of 60 square metres is a middle value of an estimate that ranges from 50 to 100.",
+   "context": "In the Big Surface test, you saw that more surface means a faster swap. The lungs fold up their surface to fit inside a chest. Estimates of the lung surface range from 50 to 100 square metres, and 60 square metres is a value from within that range.",
    "why_maths": "Area tells us how much surface there is. Comparing it with a room we know makes the huge lung surface easier to picture."
   },
   {
@@ -2789,7 +2789,7 @@
    "explain": "The baby is at 40 and the grown-up is at 16. 40 take away 16 is 24. The child is at 20. 40 divided by 20 is 2.",
    "math_unit": "math.data.bar-charts.L4",
    "how": "a2",
-   "context": "In the breath count of the family, you count breaths in 15 seconds for each being and draw a bar chart. This chart shows made-up counts.",
+   "context": "In the breath count of the family, you count breaths in 15 seconds for each person or pet and draw a bar chart. This chart shows made-up counts.",
    "chart": {
     "type": "bar",
     "title": "Breaths per minute at rest",
@@ -2902,7 +2902,7 @@
  ],
  "open_questions": [
   {
-   "q": "Why does the heart of each animal beat at the speed they do, and is there a limit to the number of beats in a life?",
+   "q": "Why does each animal's heart beat at the speed it does, and is there a limit to the number of beats in a life?",
    "why_open": "Small animals have fast hearts and short lives, but people live much longer than the pattern predicts, so no one has a firm rule."
   },
   {
@@ -2919,7 +2919,7 @@
   },
   {
    "q": "How exactly do the body's sensors measure oxygen and carbon dioxide so quickly?",
-   "why_open": "Cells in the neck's carotid bodies are known to be sensors, but the exact detail of how they sense oxygen is still being studied."
+   "why_open": "Cells in parts of the neck called the carotid bodies are known to be sensors, but the exact detail of how they sense oxygen is still being studied."
   },
   {
    "q": "Why are so many women and children in India anaemic, even with food available?",
@@ -3088,8 +3088,8 @@
  "roots": {
   "context": "We have counted our pulse and breath, followed oxygen to the cells, and seen how blood goes where it is needed. Now we ask what this tells us about who is in charge of a body, and what we are made of.",
   "deep_truth": {
-   "truth": "Your heart is not the boss of your body. It speeds up because your cells ask for more oxygen, and your lungs speed up for the same reason. Pulse, breath and blood together make one answer to millions of small requests.",
-   "habit": "We picture the heart as an engine or a boss that sets the pace, and the lungs as a separate pair of bellows. This splits one job into separate machines. In the test, the pulse and the breathing rose and fell together, because both were answering the same call from the cells.",
+   "truth": "Your heart is not the boss of your body. It speeds up because your cells ask for more oxygen, and your lungs speed up for the same reason. Your pulse, your breath and your blood work together to meet the needs of all your cells.",
+   "habit": "We picture the heart as an engine or a boss that sets the pace, and the lungs as a separate pair of bellows. This splits one job into separate machines. In the Pulse Detective test, the pulse and the breathing rose and fell together, because both were responding to what the cells needed.",
    "evidence": "In the Pulse Detective test, the pulse and the breathing rate both rose after the step-ups and both came back down together over about four minutes. Muscle cells were using more oxygen and making more carbon dioxide, and carbon dioxide in the blood is the signal that speeds up both."
   },
   "three": {
@@ -3097,7 +3097,7 @@
    "what_is_life": "Life is a constant exchange. Oxygen comes in, carbon dioxide goes out, and the flow does not stop for even a minute.",
    "what_is_this_world": "The oxygen in your blood was made by plants, algae and microbes. The iron in your blood was made inside stars, long before the Sun."
   },
-  "thread": "A few weeks after you began, a tiny tube of heart cells started to beat, long before there was a brain to give orders. A heart cell can even beat alone in a dish, and cells placed together soon beat in time. In your body, trillions of cells ask for oxygen and send out carbon dioxide, and one heartbeat answers all of them. The heart, the lungs and the blood are not three machines. They are one process that shows up as many parts, the way the One shows up as the many.",
+  "thread": "A few weeks after you began, a tiny tube of heart cells started to beat, long before there was a brain to give orders. A heart cell can even beat alone in a dish, and cells placed together soon beat in time. In your body, trillions of cells ask for oxygen and send out carbon dioxide, and one heartbeat answers all of them. The heart, the lungs and the blood are not three machines. They are parts of one process. Some traditions say the same of the whole world: one reality that appears as many things.",
   "teachings": [
    {
     "source": "Prashna Upanishad, question 2, verses 2 to 4",
@@ -3112,7 +3112,7 @@
    {
     "source": "Kabir, 'Student, tell me, what is God?' (15th century, in Robert Bly's translation)",
     "teaching": "Kabir answers: he is the breath inside the breath.",
-    "link": "Each breath brings in air, but the oxygen is what matters. It crosses a wall half a thousandth of a millimetre thick and rides inside a red blood cell. There is a breath inside the breath."
+    "link": "Each breath brings in air, but the oxygen is what matters. It crosses a wall half a thousandth of a millimetre thick and rides inside a red blood cell. So the oxygen is like a breath inside the breath."
    }
   ],
   "science": [
@@ -3127,7 +3127,7 @@
   ],
   "other_view": {
    "who": "Many physiologists",
-   "view": "Heart cells have a built-in pacemaker, and nerves and hormones only speed it up or slow it down. They describe the whole body as feedback loops of chemicals and signals, and do not say that cells ask for anything. Whether such a description is complete is a deep question."
+   "view": "The heart has a built-in pacemaker, and nerves and hormones only speed it up or slow it down. On this view, the whole body can be described as chemicals and signals that keep adjusting each other (feedback loops), without saying that cells ask for anything. Whether such a description is complete is a deep question."
   },
   "practice": {
    "title": "Listen to your own drum",
@@ -3222,7 +3222,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For about two thousand years, many people followed Aristotle, who taught that the heart is the hottest part of the body and that we breathe to cool it, like fanning a hot pot. In the 1770s, Joseph Priestley and Carl Scheele each found a new air that made flames burn bright. Antoine Lavoisier, in France, named it oxygen. Around 1783, he and Pierre Laplace put a guinea pig in a chamber packed with ice. The animal's warmth melted the ice, and they measured the carbon dioxide it breathed out. The heat for each bit of carbon dioxide was close to that of burning charcoal. So breathing was not cooling. It was a slow, gentle burning of food. In 1789 and 1790, Lavoisier tested a young man, Armand Seguin, breathing through a mask at rest and while lifting weights. Seguin used far more oxygen when he worked. Lavoisier's wife, Marie-Anne Paulze Lavoisier, took notes and drew the apparatus.",
+  "story": "For about two thousand years, many people followed Aristotle, who taught that the heart is the hottest part of the body and that we breathe to cool it, like fanning a hot pot. In the 1770s, Joseph Priestley and Carl Scheele each found a new gas that made flames burn bright. Antoine Lavoisier, in France, named it oxygen. Around 1783, he and Pierre Laplace put a guinea pig in a chamber packed with ice. The animal's warmth melted the ice, and they measured the carbon dioxide the animal breathed out. For each bit of carbon dioxide, the animal gave out about as much heat as burning charcoal does. So breathing was not cooling. It was a slow, gentle burning of food. In 1789 and 1790, Lavoisier tested a young man, Armand Seguin, breathing through a mask at rest and while lifting weights. Seguin used far more oxygen when he worked. Lavoisier's wife, Marie-Anne Paulze Lavoisier, took notes and drew the apparatus.",
   "who": "Aristotle, Joseph Priestley, Carl Scheele, Antoine Lavoisier, Pierre Laplace, Armand Seguin and Marie-Anne Paulze Lavoisier",
   "when": "Aristotle about 350 BCE, the discovery of oxygen in the 1770s, the ice experiment about 1783, and the human breathing tests in 1789 and 1790",
   "wrong_idea": "Aristotle taught that breathing cools the heart, and later thinkers said that air only carried away hot vapours. Lavoisier's ice and oxygen measurements showed that breathing is slow burning of food, which makes heat and carbon dioxide, and that working harder uses more oxygen."

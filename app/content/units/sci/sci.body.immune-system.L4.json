@@ -3,12 +3,12 @@
  "title": "The immune system: the defence that learns and remembers",
  "level": 4,
  "summary": {
-  "text": "You catch chickenpox once, but you catch a cold again and again. Your body has two defences. The first is quick and the same every time. The second is slow on the first meeting with a germ, but it picks out a cell that fits that one germ, makes many copies, and keeps a memory. Your child plays the Key Shop to see how a body can pick a matching cell from many, and runs a town test to see why vaccinating some people protects others. They learn how a vaccine gives the slow first lesson safely, and how Sarah Nelmes's blistered hand led to the first one.",
+  "text": "You catch chickenpox once, but you catch a cold again and again. Your body has two defences. The first is quick and the same every time. The second is slow on the first meeting with a germ, but it picks out a cell that fits that one germ, makes many copies, and keeps a memory. Your child does the Key Shop test to see how a body can pick a matching cell from many, and the Spread and Shield test to see why vaccinating some people protects others. They learn how a vaccine gives the slow first lesson safely, and how the blisters on the hand of a dairymaid, Sarah Nelmes, led to the first vaccine.",
   "art": "A child's outline with a quick row of round cells at the skin on one side, and on the other side a long shelf of tiny Y-shaped keys, with one key glowing and copying itself."
  },
  "intro": {
-  "hook": "Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would a scratch from one day in your first weeks still matter now?",
-  "text": "That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You have not forgotten it, though you do not remember it. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this unit you find out how a body can learn without a teacher, and how doctors found a way to use that.",
+  "hook": "Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?",
+  "text": "That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this unit you find out how a body can learn without a teacher, and how doctors found a way to use that.",
   "art": "A child's upper arm with a small round scar, and a magnifying circle showing tiny cells standing guard around it."
  },
  "outcomes": [
@@ -17,7 +17,7 @@
   "I can explain, using the Key Shop test, that the body picks a matching cell from many cells it already made.",
   "I can explain why the second meeting with a germ is faster than the first, using memory cells.",
   "I can explain how a vaccine teaches the body without making a child ill, and why some vaccines need more doses.",
-  "I can explain herd protection, using the town test.",
+  "I can explain herd protection, using the Spread and Shield test.",
   "I can say what an allergy is, and name something about the immune system that nobody knows yet."
  ],
  "cards_mins": 20,
@@ -118,10 +118,10 @@
    "concept": "Two defences: the quick one and the one that learns",
    "status": "defined",
    "definition": "Innate immunity is the quick defence you are born with. Adaptive immunity is the defence that learns each germ.",
-   "description": "Your first defence is innate immunity. It includes the walls you learned about in Class 3, such as skin, tears and mucus, and the white blood cells that eat germs. It reacts within minutes or hours, and it reacts in much the same way to almost every germ. That makes it fast, but it cannot tell one germ from another very well. Your second defence is adaptive immunity. It takes about a week or more the first time, because it has to find the right cell for this one germ. But it fits that germ exactly, it grows into a large army, and it keeps a memory. Both defences matter. The quick one holds the line while the slow one gets ready.",
+   "description": "Your first defence is innate immunity. It includes walls such as skin, tears and mucus, and the white blood cells that eat germs. It reacts within minutes or hours, and it reacts in much the same way to almost every germ. That makes it fast, but it cannot tell one germ from another very well. Your second defence is adaptive immunity. It takes about a week or more the first time, because it has to find the right cell for this one germ. But it fits that germ exactly, it grows into a large army, and it keeps a memory. Both defences matter. The quick one holds the germ back while the slow one gets ready.",
    "examples": [
     "Redness and swelling around a cut is the quick defence.",
-    "Antibodies against measles after a measles vaccine is the learning defence.",
+    "Antibodies against measles after a measles vaccine come from the learning defence.",
     "A cold: the quick defence gives you a runny nose, and the learning defence clears the virus a few days later."
    ],
    "perspectives": [],
@@ -157,11 +157,11 @@
    "concept": "The body chooses a defender. It does not copy the germ.",
    "status": "defined",
    "definition": "Clonal selection means that the body already has many different B cells, and a germ finds the one that fits and makes it multiply.",
-   "description": "How does your body make an antibody for a germ it has never met? The answer is that it makes millions of different B cells ahead of time, each with a different antibody shape, before any germ arrives. Most never meet a matching germ. When a germ arrives, one of those B cells happens to fit its antigen. That B cell is chosen, and it splits again and again into thousands of copies. Each copy makes the same antibody. The germ did not teach the body how to make the antibody. The germ only picked out one that was already there. This idea is called clonal selection. It is natural selection, as in Darwin's idea, happening inside your body in a few days.",
+   "description": "How does your body make an antibody for a germ it has never met? The answer is that it makes millions of different B cells ahead of time, each with a different antibody shape, before any germ arrives. Most never meet a matching germ. When a germ arrives, one of those B cells happens to fit its antigen. That B cell is chosen, and it splits again and again into thousands of copies. Each copy makes the same antibody. The germ did not teach the body how to make the antibody. The germ only picked out one that was already there. This idea is called clonal selection. It works like Darwin's idea of natural selection, where nature keeps the living things that fit their surroundings. But here it happens inside your body, in a few days.",
    "examples": [
     "A body holds a huge range of B cells before any germ arrives.",
     "A germ finds the one B cell that fits and makes it multiply.",
-    "The copies make identical antibodies, and the fight turns."
+    "The copies make identical antibodies, and the body starts to win the fight."
    ],
    "perspectives": [],
    "art": "A shelf of many B cells each with a different Y shape, a germ touching one of them, and that one splitting into a crowd."
@@ -296,11 +296,11 @@
    "perspectives": [
     {
      "who": "Many immunologists",
-     "explanation": "The big picture is clear, but many details of memory and of misfiring are still being worked out."
+     "explanation": "The big picture is clear, but scientists are still working out many details of how memory works and why the defence sometimes goes wrong."
     },
     {
      "who": "Researchers on the body's wider messaging",
-     "explanation": "The immune system may be better understood as one part of a whole body of signals, linked to sleep, stress and the gut, not a separate army."
+     "explanation": "The immune system may be better understood as one part of the body's signals, linked to sleep, stress and the gut, and not as a separate army."
     }
    ],
    "art": "A large question mark above a shelf of Y-shaped keys, with a few keys lit and many keys dark."
@@ -317,7 +317,7 @@
   },
   {
    "text": "Memory cells make a second infection much faster and stronger than the first.",
-   "evidence": "After vaccines and infections, blood tests show antibodies rising within days on the second exposure, against more than a week the first time."
+   "evidence": "After vaccines and infections, blood tests show antibodies rising within days on the second exposure, compared with more than a week the first time."
   },
   {
    "text": "Vaccines train the adaptive defence without the illness, and have saved millions of lives.",
@@ -340,7 +340,7 @@
   {
    "claim": "A vaccine gives you the disease.",
    "who": "Some worried families, and some rumours",
-   "for": "Some people do get a sore arm or a mild fever after a vaccine, which can look like a weak form of the illness. A few vaccines use a weakened germ, and the idea sounds as if it carries risk.",
+   "for": "Some people do get a sore arm or a mild fever after a vaccine, which can look like a weak form of the illness. A few vaccines use a weakened germ, and that sounds risky.",
    "against": "Vaccines use weakened, killed or partial germs, or instructions for one harmless piece. A sore arm or low fever is the immune system at work. Serious harm is rare, and far rarer than harm from the disease.",
    "status": "rejected"
   },
@@ -368,7 +368,7 @@
   {
    "claim": "Antibodies are shaped around the germ, like clay pressed around a coin.",
    "who": "Many scientists in the 1930s and 1940s, including Linus Pauling",
-   "for": "It explained how one body could make an antibody for almost any germ, even a made-in-a-lab chemical never seen before.",
+   "for": "It explained how one body could make an antibody for almost any germ, even for a chemical made in a lab that no body had met before.",
    "against": "Single cells were found to make only one kind of antibody before meeting any germ. The germ selects a ready-made cell. It does not shape the antibody.",
    "status": "rejected"
   },
@@ -387,14 +387,14 @@
    "hint": "Think about the Key Shop test. Did anyone plan which key would fit?"
   },
   {
-   "q": "The first test of the first vaccine was on an eight-year-old boy. It worked, but would it be allowed today? Who should decide, and how?",
+   "q": "Edward Jenner first tested the first vaccine on an eight-year-old boy. It worked, but would it be allowed today? Who should decide, and how?",
    "kind": "big",
    "hint": "Think about what Jenner knew, what he did not know, and what we require now."
   },
   {
    "q": "If you protect yourself with a vaccine, you also protect people you will never meet. Does that change who a vaccine is for?",
    "kind": "big",
-   "hint": "Think about the town test. Who was safer in the town that had many shields?"
+   "hint": "Think about the Spread and Shield test. Who was safer in the town that had many shields?"
   },
   {
    "q": "Your body stores a memory of every germ it has beaten, and you do not remember any of it. Where is the memory, if it is not in your mind?",
@@ -461,7 +461,7 @@
   ],
   "epiphany": "The body keeps a picture of every sickness it beats. Cowpox looks so much like smallpox that the same picture nearly fits both.",
   "ask": [
-   "Sarah thought a look-alike could borrow a body's memory. How could you test that idea with the Key Shop game?",
+   "Sarah thought a look-alike could borrow a body's memory. How could you test that idea with the Key Shop test?",
    "Jenner was not sure he should try the test on James. What would you want to know before you said yes?",
    "Sarah's name is in the book, but only as a dairymaid. Whose names do we forget when we tell the story of an invention?"
   ],
@@ -475,16 +475,16 @@
  "roots": {
   "context": "We have seen how a body can answer a germ it has never met. Now we ask what that tells us about learning, about the self, and about the world we live in.",
   "deep_truth": {
-   "truth": "Your body does not learn about a germ by being taught. It makes millions of kinds of defenders before any germ arrives. The germ finds the one that fits, and that one multiplies. So some learning is a choosing from what was already there.",
+   "truth": "Your body does not learn about a germ by being taught. It makes millions of kinds of defenders before any germ arrives. The germ finds the one that fits, and that one multiplies. So some learning is choosing from what was already there.",
    "habit": "We think learning means being shown the answer, from a teacher to a pupil. The immune system learns another way: all the possible answers are made first, and the world picks the one that fits.",
-   "evidence": "In the Key Shop test, nobody shaped a key for the germ. The germ simply matched one of many random keys. The more shapes were possible, the more keys we needed. In 1958, single cells were found to make only one kind of antibody each before meeting any germ."
+   "evidence": "In the Key Shop test, you made defender cells by flipping a coin, and nobody shaped a cell to fit the germ. The germ simply matched one of many random cells. The more shapes were possible, the more cells you needed. In 1958, Gustav Nossal and Joshua Lederberg found that single cells each made only one kind of antibody before meeting any germ."
   },
   "three": {
-   "who_am_i": "Your body carries defenders for germs that have not been born yet. You are partly a library you have never read.",
+   "who_am_i": "Your body carries defenders for germs that have not been born yet. So part of you is ready for things you have never met and know nothing about.",
    "what_is_life": "A living being holds many answers in advance and lets the world choose among them. This is how a body learns, and how living things change over many lifetimes.",
    "what_is_this_world": "Germs and bodies change each other. When a body gets better at stopping a germ, the germs that slip past spread best. Neither side ever finishes."
   },
-  "thread": "Before any germ arrives, your body makes billions of different shapes by shuffling a few hundred pieces. Each B cell holds one shape. When a germ fits one of them, that cell splits into a crowd of identical cells. So one set of genes holds endless possibility, and each meeting with the world brings one real thing out of it. This is the One and the many in a body: one source, many forms, and the world choosing among them.",
+  "thread": "Before any germ arrives, your body makes billions of different shapes by shuffling a few hundred pieces. Each B cell holds one shape. When a germ fits one of them, that cell splits into a crowd of identical cells. So one set of genes can make a huge number of shapes, and each germ that arrives brings out the one that fits. This is the One and the many in a body: one source, many forms, and the world choosing among them.",
   "teachings": [
    {
     "source": "Charles Darwin, On the Origin of Species (1859), chapter 4",
@@ -493,8 +493,8 @@
    },
    {
     "source": "Avatamsaka Sutra, as told in the Huayan tradition (Indra's net)",
-    "teaching": "Imagine a net with a jewel at every knot. Each jewel shows a reflection of every other jewel. Nothing stands alone.",
-    "link": "Your B cells together hold a reflection of every shape a germ could have. The body is a net of mirrors for a world it has not yet met."
+    "teaching": "Think of a net with a jewel at every knot. Each jewel shows a reflection of every other jewel. Nothing stands alone.",
+    "link": "Your B cells together hold a reflection of every shape a germ could have. Like the jewels in the net, they mirror a world the body has not yet met."
    },
    {
     "source": "Isha Upanishad, opening verse",
@@ -514,7 +514,7 @@
   ],
   "other_view": {
    "who": "Many immunologists",
-   "view": "B cells follow chemistry. A shape fits or it does not fit, and the cell divides when it does. They would say there is no knowing or choosing in it, only molecules, and that calling it learning is only a way of speaking."
+   "view": "Some people say that B cells only follow chemistry. A shape fits or it does not fit, and the cell divides when it does. They say there is no knowing or choosing in it, only molecules, and that calling it learning is only a way of speaking."
   },
   "practice": {
    "title": "Find your memory scar",
@@ -577,7 +577,7 @@
       },
       {
        "f": "A newborn baby has her mother's antibodies in her blood.",
-       "b": "Learning defence, borrowed. Her mother's learning defence made them, and passed them to her baby."
+       "b": "Learning defence, borrowed. Her mother's learning defence made the antibodies, and they passed to her baby."
       },
       {
        "f": "You had chickenpox once and, when you met the virus again, you stayed well.",
@@ -689,7 +689,7 @@
      "say": "These cards show things that happen in a body. Each player gets two tokens. One says Quick defence and one says Learning defence. We will guess which defence does each thing.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take two tokens.",
      "context": "This is the first step of Quick or Learning. You set up the cards and the tokens.",
-     "parent": "Use blunt scissors, and a grown-up helps if the cutting is slow. With one child, the child guesses and then checks the back. With 2 to 4 children, pass the reader's job round the table."
+     "parent": "Use blunt scissors. A grown-up can help if the cutting is slow. With one child, the child guesses and then checks the back. With 2 to 4 children, pass the reader's job round the table."
     },
     {
      "id": "s2",
@@ -713,7 +713,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Play the next twelve cards. Swap the reader's job after every card. Keep a tally of points on paper.",
-     "say": "Keep going. Remember. The quick defence is the same for any germ and works in minutes. The learning defence fits one germ, takes days the first time, and remembers.",
+     "say": "Keep going. Remember that the quick defence is the same for any germ and works in minutes. The learning defence fits one germ, takes days the first time, and remembers.",
      "kid": "Play on. The quick defence is fast and the same for every germ. The learning defence fits one germ and remembers.",
      "ask": [
       {
@@ -737,13 +737,13 @@
       {
        "q": "Why does your body need both defences?",
        "good": [
-        "The quick one holds the line while the slow one gets ready.",
+        "The quick one holds the germ back while the slow one gets ready.",
         "The learning one is too slow on its own.",
         "The quick one cannot remember."
        ]
       }
      ],
-     "think": "Some cards had a bit of both. Which one was that?",
+     "think": "Some cards had a bit of both defences. Which ones?",
      "parent": "A good answer says that the quick defence works at once but cannot remember or fit one germ, and the learning defence is exact but slow the first time. They need each other.",
      "context": "This is the last step of Quick or Learning. You add up the points and think about why a body needs both defences."
     }
@@ -776,7 +776,7 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A six by six town board, numbered with a row number 1 to 6 down the side and a column number 1 to 6 along the top",
+     "title": "A town board of 6 rows and 6 columns, with the rows numbered 1 to 6 down the side and the columns numbered 1 to 6 along the top",
      "items": [
       "Draw a grid of 6 columns and 6 rows with squares about 3 centimetres wide.",
       "Write the numbers 1 to 6 along the top and down the side.",
@@ -834,9 +834,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Roll two dice to find the start. Colour that square red. Roll one die for each neighbour, above, below, left and right. A 1, 2, 3 or 4 makes it sick. Keep going until nothing new gets sick. Count the sick squares.",
-     "say": "Roll the two dice for the start. Colour it red. Now roll for each neighbour. One to four, and it is sick. Five or six, and it stays well. Keep going.",
-     "kid": "Roll two dice for the start. Roll for each neighbour. One to four makes it sick. Colour it red.",
+     "do": "Roll two dice to find the start. Colour that square red. Roll one die for each neighbour, above, below, left and right. A 1, 2, 3 or 4 makes that neighbour sick. Keep going until nothing new gets sick. Count the sick squares.",
+     "say": "Roll the two dice for the start. Colour that square red. Now roll for each neighbour. A one, two, three or four makes the neighbour sick. A five or six keeps the neighbour well. Keep going.",
+     "kid": "Roll two dice for the start. Colour that square red. Roll for each neighbour. One to four makes the neighbour sick.",
      "check": {
       "t": "mcq",
       "q": "A square next to a sick square has a shield. Can it get sick?",
@@ -868,7 +868,7 @@
       }
      ],
      "context": "In this step, you score the round and change the shields.",
-     "parent": "With ten shields, shields scattered at random leave the town winning about half the time, and a wall of shields right across the town wins most rounds. Let the children find this by playing, and do not tell them first."
+     "parent": "With ten shields scattered at random, the town wins about half the time. A wall of shields right across the town wins most rounds. Let the children find this by playing. Do not tell them first."
     },
     {
      "id": "s4",
@@ -886,7 +886,7 @@
        ]
       }
      ],
-     "think": "In your game, a few well-placed shields did a lot. In real life, who are the people near the edge, who are safe only when others are protected?",
+     "think": "In your game, a few well-placed shields did a lot. In real life, who are the people who are safe only when others are protected?",
      "context": "This is the last step of Shield the Town. You add up wins and think about real towns."
     }
    ]
@@ -899,8 +899,8 @@
    "mins": 40,
    "days": 1,
    "question": "If a body makes defender cells with random shapes, how many does it need to make before one of them fits a new germ? Does it need more when there are more possible shapes?",
-   "predict": "Before you start, guess. How many random cells will you need before one fits the germ? Will you need more cells when each cell has more flips in its code? Why do you think so?",
-   "fair_test": "The germ's code is flipped once for each size of code, and it stays the same through all the rounds of that size. Every defender cell is made the same way, by flipping the same number of times. The only thing that changes between the three parts is the number of flips in the code, which is the number of shapes that are possible. That way, any difference in the number of cells needed comes from the number of shapes.",
+   "predict": "Before you start, guess. In this test, each cell's shape is a code made of coin flips. How many random cells will you need before one fits the germ? Will you need more cells when the code has more flips? Why do you think so?",
+   "fair_test": "For each size of code, you flip the germ's code once, and it stays the same through all the rounds of that size. Every defender cell is made the same way, by flipping the same number of times. The only thing that changes between the three parts is the number of flips in the code, which is the number of shapes that are possible. That way, any difference in the number of cells needed comes from the number of shapes.",
    "results_table": [
     "Flips in each code",
     "Shapes possible",
@@ -929,7 +929,7 @@
      "qty": 1
     }
    ],
-   "record": "Write the number of cells you needed in each round (six rounds for three flips, eight for two flips, four for four flips) in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought, what you saw and why.",
+   "record": "Write the number of cells you needed in each round (six rounds for three flips, eight for two flips, four for four flips) in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought would happen, what you saw, and why you think it happened.",
    "context": "In this test, you play a body that makes defender cells at random, and a germ that has one shape. You count how many random cells you need to make before one of them fits.",
    "setup": [
     {
@@ -953,8 +953,8 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Read out the rules of the game. The germ has a code made of coin flips. The body makes random cells by flipping the same number of times. Ask for a guess and a reason, and write both down.",
-     "say": "Imagine a germ with a shape. We show the shape as three coin flips, like heads, tails, heads. Your body makes new defender cells with random shapes. How many random cells do you think it needs before one fits? Why do you think so?",
+     "do": "Explain the test. The germ has a code made of coin flips. The body makes random cells by flipping the same number of times. Ask for a guess and a reason, and write both down.",
+     "say": "A germ has a shape. We show the shape as three coin flips, like heads, tails, heads. Your body makes new defender cells with random shapes. How many random cells do you think it needs before one fits? Why do you think so?",
      "kid": "A germ has a shape made of three coin flips. Your body makes random cells. How many will you need before one fits? Why?",
      "ask": [
       {
@@ -984,7 +984,7 @@
        ]
       }
      ],
-     "parent": "If your child asks how to be sure of eight, list them in order, as heads then tails for each place. There are two choices for the first flip, two for the second and two for the third, so two times two times two is eight.",
+     "parent": "If your child asks how to be sure of eight, list them in order, with heads first and then tails in each place. There are two choices for the first flip, two for the second and two for the third, so two times two times two is eight.",
      "check": {
       "t": "mcq",
       "q": "How many different shapes are possible if each cell has two flips?",
@@ -1014,7 +1014,7 @@
        ]
       }
      ],
-     "parent": "Over many rounds the average is about eight, but single rounds can take from one cell to twenty or more, and the average of only six rounds can land anywhere from about 5 to 12. That is normal for chance. With siblings, each child plays six rounds, then add all the rounds together for a steadier average. If your child is tired, share the flipping, one flips and one writes. Do not stop before six rounds.",
+     "parent": "Over many rounds the average is about eight, but single rounds can take from one cell to twenty or more, and the average of only six rounds can land anywhere from about 5 to 12. That is normal for chance. With siblings, each child plays six rounds. Then add all the rounds together for a steadier average. If your child is tired, share the work: one flips and one writes. Do not stop before six rounds.",
      "check": {
       "t": "mcq",
       "q": "Why do we flip the coin to make each defender cell, instead of choosing the best one?",
@@ -1024,7 +1024,7 @@
        "The germ tells the body what shape to make"
       ],
       "a": 0,
-      "why": "A body makes its cells before a germ arrives, so it cannot know the germ's shape. The only way is to make many random cells and hope one fits. A wrong pick often comes from thinking the body is told about the germ."
+      "why": "A body makes its cells before a germ arrives, so it cannot know the germ's shape. The only way is to make many random cells and hope one fits. If you picked another answer, you may have thought the body is told about the germ. It is not."
      },
      "context": "In this step, you play the body with three flips in each code. You count how many random cells you need to make before one fits."
     },
@@ -1059,9 +1059,9 @@
     {
      "id": "s6",
      "mins": 9,
-     "do": "Add the numbers in each row and divide by the number of rounds, to find the average. Look at the three averages. Ask your child to say what they thought, what they saw and why. Then ask the two questions below.",
+     "do": "Add the numbers in each row and divide by the number of rounds, to find the average. Look at the three averages. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then ask the two questions below.",
      "say": "Tell me three things. What did you think would happen? What did you see in the numbers? Why do you think that happened? Then look at the three averages. What do you notice?",
-     "kid": "Find the average for each row. Say what you thought, what you saw, and why.",
+     "kid": "Find the average for each row. Say what you thought would happen, what you saw, and why it happened.",
      "ask": [
       {
        "q": "What happened to the average each time we added one more flip to the code?",
@@ -1134,7 +1134,7 @@
      "buy": "b-dice"
     }
    ],
-   "record": "Write the number of shields, the number of sick squares and the number of well but unshielded squares for each town. Then draw a bar for each town to show the sick squares.",
+   "record": "For each town, write the number of shields, the number of sick squares, and the number of squares with no shield that stayed well. Then draw a bar for each town to show the sick squares.",
    "context": "In this test, you play a germ that spreads through a town of 25 squares. You find out how many squares get sick with no shields, with a few shields and with many shields.",
    "setup": [
     {
@@ -1177,7 +1177,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw a grid of five squares by five squares, each about 3 centimetres wide. Number the squares 1 to 25, row by row. Write the numbers 1 to 25 on slips of paper, but leave out 13. Put the 24 slips in the bowl. Draw the grid three times, for towns A, B and C.",
+     "do": "Draw a grid of five squares by five squares, each about 3 centimetres wide. Number the squares 1 to 25, row by row. Write the numbers 1 to 25 on slips of paper, but leave out 13. Put the 24 slips in a bowl. Draw the grid three times, for towns A, B and C.",
      "say": "This is your town. Each square is a person. The middle square, number 13, is the first person who is sick. Colour it red. We draw the grid three times, one for each town.",
      "kid": "Draw a grid of five by five squares. Number them 1 to 25. Colour square 13 red. Draw it three times.",
      "check": {
@@ -1192,7 +1192,7 @@
       "why": "If we chose where the shields go, we might block the germ's paths in a clever way. Drawing from the bowl means that only the number of shields can make a difference."
      },
      "context": "In this step, you draw the three towns and prepare the slips. The slips decide where the shields go, so the test is fair.",
-     "parent": "A ruler makes this go faster. Let your child draw one grid and trace the other two, or photocopy a grid. With 2 to 4 children, each child draws one town and the slips are shared; one rolls, one colours, and the others check that no neighbour is missed."
+     "parent": "A ruler makes this go faster. Let your child draw one grid and trace the other two, or photocopy a grid. With 2 to 4 children, each child draws one town and they share the slips. One rolls, one colours, and the others check that no neighbour is missed."
     },
     {
      "id": "s3",
@@ -1216,8 +1216,8 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Play town B. Draw 8 slips from the bowl. Mark those squares with a green shield. Put the slips back. Square 13 is sick. Roll for the neighbours as before, but shielded squares never get sick. Count the red squares.",
-     "say": "Now eight squares get a shield. Draw eight slips and mark them green. A shielded square cannot get sick, so the germ cannot pass through it. Roll as before. How many squares get sick this time?",
+     "do": "Play town B. Draw 8 slips from the bowl. Mark those squares with a green shield. Put the slips back. Square 13 is sick. Roll for the neighbours as you did in town A, but shielded squares never get sick. Count the red squares.",
+     "say": "Now eight squares get a shield. Draw eight slips and mark them green. A shielded square cannot get sick, so the germ cannot pass through it. Roll as you did in town A. How many squares get sick this time?",
      "kid": "Draw eight slips. Mark those squares green. Shielded squares never get sick. Roll for the germ. Count.",
      "parent": "Put every slip back after drawing, so the bowl is full again for town C. Town B typically has about 2 to 14 sick squares, around 8 on average. Chance matters a lot with so few squares. If a shield lands right next to square 13, that may block much of the spread.",
      "context": "In this step, you play town B with 8 shields. You can compare it with town A."
@@ -1225,8 +1225,8 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Play town C. Draw 16 slips from the bowl. Mark those squares with a green shield. Square 13 is sick. Roll for the neighbours as before. Count the red squares. Then count the squares that are not shielded and still well.",
-     "say": "Now sixteen squares get a shield. Draw sixteen slips and mark them green. Roll as before. Count the sick squares. Then count the squares that have no shield and are still well.",
+     "do": "Play town C. Draw 16 slips from the bowl. Mark those squares with a green shield. Square 13 is sick. Roll for the neighbours as you did in town A. Count the red squares. Then count the squares that are not shielded and still well.",
+     "say": "Now sixteen squares get a shield. Draw sixteen slips and mark them green. Roll as you did in town A. Count the sick squares. Then count the squares that have no shield and are still well.",
      "kid": "Draw sixteen slips. Mark them green. Roll for the germ. Count the sick squares.",
      "ask": [
       {
@@ -1244,9 +1244,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Write the results in the table. Draw a bar for each town to show the sick squares. Ask your child to say what they thought, what they saw and why. Then ask about the unshielded squares that stayed well.",
+     "do": "Write the results in the table. Draw a bar for each town to show the sick squares. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then ask about the unshielded squares that stayed well.",
      "say": "Tell me three things. What did you think would happen? What did you see in the three towns? Why do you think that happened? Look at the unshielded squares that stayed well. What protected them?",
-     "kid": "Write the numbers in the table. Draw a bar for each town. Say what you thought, saw and why.",
+     "kid": "Write the numbers in the table. Draw a bar for each town. Say what you thought would happen, what you saw, and why it happened.",
      "think": "In a real town, some people cannot be vaccinated. Who protects them?",
      "check": {
       "t": "mcq",
@@ -1285,7 +1285,7 @@
      "qty": 1
     }
    ],
-   "record": "Write the names of three vaccines on the card. Write how many doses of each. Draw one question you have about the card.",
+   "record": "Write the names of three vaccines on the card. Write how many doses of each. Write one question you have about the card.",
    "context": "In this activity, you look at a real vaccination card. You notice what is on it and what you wonder, before you learn the reasons.",
    "setup": [
     {
@@ -1305,7 +1305,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Open the card to the page of vaccines. If you have no card, use this example for a girl named Kavya. Birth: BCG and hepatitis B. 6, 10 and 14 weeks: polio drops and more. 9 months: measles and rubella. 16 months: a second measles and rubella dose. 5 years: a booster. Your own card may differ. Ask what they notice.",
+     "do": "Open the card to the page of vaccines. If you have no card, use this example card. Birth: BCG and hepatitis B. 6, 10 and 14 weeks: polio drops and more. 9 months: measles and rubella. 16 months: a second measles and rubella dose. 5 years: a booster. Your own card may differ. Ask your child what they notice.",
      "say": "This card lists the vaccines a child has had. What do you notice? What do you wonder? Take your time.",
      "kid": "Look at the card. What do you notice? What do you wonder?",
      "ask": [
@@ -1433,7 +1433,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Now test whether you were only warmed up. Give your child six new scrambled words: OBDOL, SURIV, NEGE, VEREF, NOEB, KLIM. They are BLOOD, VIRUS, GENE, FEVER, BONE and MILK. Time it. Draw three bars: first try, second try and new words. Ask your child to say how the puzzle is like the body, and how it is not.",
+     "do": "Now test whether your child was faster only because they were warmed up. Give your child six new scrambled words: OBDOL, SURIV, NEGE, VEREF, NOEB, KLIM. They are BLOOD, VIRUS, GENE, FEVER, BONE and MILK. Time it. Draw three bars: first try, second try and new words. Ask your child to say how the puzzle is like the body, and how it is not.",
      "say": "Draw one bar for each time. How is this puzzle like what a body does the second time it meets a germ? How is it not?",
      "kid": "Draw a bar for each time. How is this like a body meeting a germ twice?",
      "ask": [
@@ -1510,13 +1510,13 @@
        ]
       }
      ],
-     "parent": "Healthy lymph nodes are small, soft, movable, and not painful. Some children can feel them easily and some cannot. Both are normal. Do not press hard. Stay with your child. With siblings, take turns and wash hands first; compare sizes using a pea or a grain of rice as a measure.",
+     "parent": "Healthy lymph nodes are small, soft, movable, and not painful. Some children can feel them easily and some cannot. Both are normal. Do not press hard. Stay with your child. With siblings, wash hands first and take turns. Compare sizes using a pea or a grain of rice as a measure.",
      "context": "This is the first step of Find your lymph nodes. You feel where the nodes are when you are well."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw a neck and mark where the nodes were felt. Ask why they think a sore throat makes these nodes swell. If anyone at home has a sore throat or a cold, ask them if you may gently feel their jaw nodes too. Compare.",
+     "do": "Draw a neck and mark where the nodes were felt. Ask your child why they think a sore throat makes these nodes swell. If anyone at home has a sore throat or a cold, ask them if you may gently feel their jaw nodes too. Compare.",
      "say": "Draw a neck. Mark where you felt the bumps. When you have a sore throat, those bumps can swell. Why do you think that happens? What could be going on inside?",
      "kid": "Draw a neck. Mark the bumps. Why might they swell when you are ill?",
      "ask": [
@@ -1598,7 +1598,7 @@
        ]
       }
      ],
-     "parent": "Expect colds to be a few in a year, often two to five and more for children, and chickenpox and measles to be zero or one. Some people may not remember, and some may not have had them, because they were vaccinated. Write what they say. Be kind about forgetting. With 2 to 4 children, each asks a different five people, then you add the tables together. Phone calls to relatives are fine.",
+     "parent": "Expect a few colds a year, often two to five, and more for children. Expect chickenpox and measles to be zero or one. Some people may not remember, and some may not have had them, because they were vaccinated. Write what they say. Be kind about forgetting. With 2 to 4 children, each asks a different five people, then you add the tables together. Phone calls to relatives are fine.",
      "context": "This is the first step of Once or again. You guess, and then you ask five people about their illnesses."
     },
     {
@@ -1737,7 +1737,7 @@
        ]
       }
      ],
-     "think": "In the Key Shop test, nobody made the key after the germ arrived. What did that test show?",
+     "think": "In the Key Shop test, nobody shaped a cell to fit the germ. What did that test show?",
      "parent": "A strong answer says that the body already holds many different B cells, and one of them may happen to fit the changed germ. If the fit is poor, it may take several days. After they have said what they think, link it back to the Key Shop test.",
      "context": "This is the last step of Paper keys. You cut a new antibody and think about where a real body gets one."
     }
@@ -1800,7 +1800,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Read the facts to your child. Smallpox was a deadly illness for thousands of years. Before 1700, people in parts of India, China, Africa and Turkey protected children by variolation, a small dose of real smallpox. 1718: Lady Mary Wortley Montagu had her son variolated in Constantinople. 1774: a farmer, Benjamin Jesty, protected his family with cowpox. 1796: Edward Jenner and Sarah Nelmes. 1802: vaccination reached India. 1975: India's last case. 1980: smallpox declared gone from the world.",
+     "do": "Read the facts to your child. Smallpox was a deadly illness for thousands of years. Before 1700, people in parts of India, China, Africa and Turkey protected children by variolation, a small dose of real smallpox. 1718: Lady Mary Wortley Montagu had her son variolated in Constantinople. 1774: a farmer, Benjamin Jesty, protected his family with cowpox. 1796: Edward Jenner used cowpox from Sarah Nelmes's hand to protect a boy from smallpox. 1802: vaccination reached India. 1975: India's last case. 1980: smallpox declared gone from the world.",
      "say": "Here is the story in dates. We will put these on a poster. Which ones surprise you? Which would you like to draw?",
      "kid": "Here are the dates. Pick the ones you like. We will draw them.",
      "ask": [
@@ -1870,7 +1870,7 @@
     "a kitchen thermometer, if you have one (a fever thermometer cannot read cold temperatures)"
    ],
    "general": [
-    "Wrap the bottle in a towel and put it in a lid-closed box.",
+    "Wrap the bottle in a towel and put it in a box with the lid closed.",
     "Pack newspaper around the bottle to slow warm air.",
     "Put a frozen bottle beside the water bottle, with a cloth between them so they do not touch."
    ],
@@ -1912,16 +1912,16 @@
        ]
       }
      ],
-     "parent": "Use bottles of the same size and start. If you have a thermometer, check a bottle's temperature in the fridge. Leave them out of the sun.",
+     "parent": "Use bottles of the same size that are equally cool at the start. If you have a thermometer, check a bottle's temperature in the fridge. Leave the bottles out of the sun.",
      "context": "This is the first step of the cold box challenge. You set up three ways to keep a bottle cool."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "After three hours, check each bottle by touch, and with a thermometer if you have one. For a fair touch test, keep one extra bottle in the fridge as a reference. Ask a sibling or parent to hand you the bottles with your eyes closed, and rank them from coldest to warmest. Write down which is coolest.",
+     "do": "After three hours, check each bottle by touch, and with a thermometer if you have one. For a fair touch test, keep one extra bottle in the fridge to compare with. Close your eyes and ask a sibling or parent to hand you the bottles. Rank them from coldest to warmest. Write down which is coolest.",
      "say": "Three hours have passed. Which bottle feels coolest? Which has warmed most? What does that tell you about the box?",
      "kid": "Check each bottle. Which is coolest? Which is warmest?",
-     "parent": "The bare bottle should be warmest. The boxed bottle is usually coolest, but after three hours without ice every bottle will have warmed above the 2 to 8 degrees a vaccine needs, and only the frozen pack can hold it that cool. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze. Touch is not exact, so write what you felt and say so if two bottles felt the same. With 2 to 4 children, one sets up, one hands over the bottles, and one writes the ranking.",
+     "parent": "The bare bottle should be warmest. The boxed bottle is usually coolest. But after three hours without ice, every bottle will have warmed above the 2 to 8 degrees a vaccine needs. Only the frozen pack can hold it that cool. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze. Touch is not exact, so write what you felt and say so if two bottles felt the same. With 2 to 4 children, one sets up, one hands over the bottles, and one writes the ranking.",
      "check": {
       "t": "mcq",
       "q": "Why must the frozen pack not touch a vaccine?",
@@ -1941,7 +1941,7 @@
      "do": "Design your own best box using what you learned. Test it for three hours with a bottle from the fridge. Check it afterwards by touch or with a thermometer. Draw the design, and say why it worked.",
      "say": "Now design your best box. What did you learn from the first test? Build it, test it for three hours, and check the bottle.",
      "kid": "Design your best box. Test it for three hours. Check the bottle.",
-     "think": "Why does it matter that a vaccine arrives cool, if the germ is the same?",
+     "think": "Why does it matter that a vaccine arrives cool?",
      "parent": "In India, health workers carry vaccines in insulated vaccine carriers with ice packs, and use a cold chain of fridges from the factory to the clinic. The cold chain is one of the hardest parts of vaccination.",
      "context": "This is the last step of the cold box challenge. You build your best box and test it."
     }
@@ -2032,12 +2032,12 @@
       "t": "mcq",
       "q": "A tester says the picture shows the child getting ill after the vaccine. What should you do?",
       "options": [
-       "Change the picture, because it tells the wrong idea",
+       "Change the picture, because it gives the wrong idea",
        "Tell the tester they are wrong and keep it",
        "Add more words to scare people"
       ],
       "a": 0,
-      "why": "If a viewer takes away the wrong idea, the picture needs to change. The test is not a mistake of the viewer. It shows what the picture says. A good poster is one that people understand correctly the first time."
+      "why": "If a viewer takes away the wrong idea, the picture needs to change. The viewer has not made a mistake. The test shows what the picture really says. A good poster is one that people understand correctly the first time."
      },
      "context": "In this step, you draw your poster and test it on two people."
     },
@@ -2172,7 +2172,7 @@
     },
     {
      "t": "write",
-     "p": "A friend asks why most people only get chickenpox once. Explain it in two or three sentences.",
+     "p": "Why do most people get chickenpox only once? Explain it in two or three sentences.",
      "lines": 4,
      "a": "The first time, the body finds the cells that fit the virus and some stay behind as memory cells. If the virus returns, the memory cells act in a few days, before it can make you ill.",
      "why": "A strong answer says that memory cells stay after the first illness and make the second response fast. It may add that the first response is slow.",
@@ -2205,7 +2205,7 @@
     },
     {
      "t": "count",
-     "p": "Kavya's card shows polio drops 3 times, measles and rubella 2 times and one booster. How many doses are there in all?",
+     "p": "A vaccination card shows polio drops 3 times, measles and rubella 2 times and one booster. How many doses are there in all?",
      "a": "6",
      "why": "3 plus 2 plus 1 is 6. Some vaccines are given in more than one dose so the memory is stronger.",
      "outcome": 4
@@ -2362,7 +2362,7 @@
      "t": "write",
      "p": "One scientist says a germ teaches the body how to make an antibody. Another says the germ only picks one that is already there. Use the Key Shop test to say which is better supported.",
      "lines": 5,
-     "a": "The germ picks one that is already there. In the Key Shop test, nobody shaped a key for the germ. We made random keys, and one matched by chance. The more shapes were possible, the more keys we needed.",
+     "a": "The germ picks one that is already there. In the Key Shop test, nobody shaped a cell for the germ. We made random cells, and one matched by chance. The more shapes were possible, the more cells we needed.",
      "why": "A strong answer uses the test as evidence. It says the cells were made without knowing the germ, so the germ chose, and did not teach.",
      "outcome": 2
     },
@@ -2404,7 +2404,7 @@
      "t": "odd",
      "p": "Which one is the odd one out, and why? Chickenpox, measles, a cold, mumps.",
      "a": "A cold, because hundreds of different viruses cause colds, so memory for one does not protect against the next. The other three are each caused by one virus.",
-     "why": "Memory helps most when the germ stays the same. Colds change because many viruses cause them.",
+     "why": "Memory helps most when the germ stays the same. Colds keep coming back because many different viruses cause them.",
      "outcome": 3
     },
     {
@@ -2760,7 +2760,7 @@
   },
   {
    "t": "mcq",
-   "p": "Why can a person catch a cold many times in a life, though memory cells exist?",
+   "p": "Why can a person catch a cold many times in a life, even though the body has memory cells?",
    "opts": [
     "Many different viruses cause colds, so memory for one does not fit the next",
     "Memory cells only last a week",
@@ -2789,7 +2789,7 @@
    "channel": "Kurzgesagt: In a Nutshell",
    "youtube": "zQGOcOUBi6s",
    "mins": 7,
-   "why": "A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the topic of this unit. Parents should watch first, because it uses fighting pictures.",
+   "why": "A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the topic of this unit. Parents should watch first, because it shows the body's defence as a battle.",
    "check": "The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children."
   },
   {
@@ -2886,7 +2886,7 @@
   "Why do you think we need a second dose of some vaccines?",
   "Feel under your jaw. Can you find a small bump? What is in there?",
   "If your body made a defender for every possible shape, how could it fit them all in? Think about the Key Shop.",
-  "Your grandmother had chickenpox as a child. Is she protected today? How do you know?",
+  "If a grandmother had chickenpox as a child, is she protected today? How do you know?",
   "Why do you think a health worker carries vaccines in a cold box?",
   "If someone said that a vaccine gives you the illness, what would you ask them?",
   "What do you think a memory cell is doing right now?"
@@ -2937,7 +2937,7 @@
    "math_unit": "math.probability.experiments.L4",
    "how": "e1",
    "context": "In the Key Shop test, you count how many random cells you need until one matches the germ, over several rounds.",
-   "why_maths": "One round can be lucky or unlucky. The average of many rounds shows the pattern, which is what the number of shapes predicts."
+   "why_maths": "One round can be lucky or unlucky. The average of many rounds shows the pattern: you need about as many cells as there are shapes."
   },
   {
    "problem": "A code of 2 coin flips gives 4 shapes. A code of 3 flips gives 8 shapes. A code of 4 flips gives 16 shapes. How many shapes would a code of 8 flips give? Explain how you know.",
@@ -2974,7 +2974,7 @@
    "why_maths": "Percent lets you compare towns of different sizes. A real town of thousands can be compared with your 25 squares."
   },
   {
-   "problem": "In the word puzzle, Meenakshi took 150 seconds the first time and 60 seconds the second time. How many seconds faster was the second time? How many times as fast was it?",
+   "problem": "In the word puzzle, the first time took 150 seconds and the second time took 60 seconds. How many seconds faster was the second time? How many times as fast was it?",
    "answer": "90 seconds faster. 2 and a half times as fast.",
    "explain": "150 take away 60 is 90 seconds. To compare, divide 150 by 60, which is 2 and a half. The second time was 2 and a half times as fast, like memory cells acting faster on a second meeting.",
    "math_unit": "math.time.duration.L4",
@@ -3123,7 +3123,7 @@
    "a": "Many different viruses cause colds."
   },
   {
-   "q": "Where do immune cells meet and multiply, under your jaw?",
+   "q": "Under your jaw, where do immune cells meet and multiply?",
    "a": "In the lymph nodes."
   },
   {
@@ -3218,8 +3218,8 @@
   "story": "For many years, scientists believed that antibodies were moulded around germs, like clay pressed around a coin. In 1940, the chemist Linus Pauling gave this idea a clear form. It explained how a body could make a fitting antibody for almost anything. But in 1955, Niels Jerne suggested the opposite. He said the body already holds many kinds of antibodies, and a germ only finds the one that fits. In 1957, Macfarlane Burnet added that each cell makes only one kind and copies itself when chosen. In 1958, Gustav Nossal and Joshua Lederberg tested this. They put single cells from a rat into tiny drops. Each cell made only one kind of antibody. The germ had not shaped it. Burnet shared the 1960 Nobel Prize, and Jerne won the Nobel Prize in 1984.",
   "who": "Linus Pauling, Niels Jerne, Macfarlane Burnet, Gustav Nossal and Joshua Lederberg",
   "when": "1940 to 1984",
-  "wrong_idea": "Antibodies are moulded around each germ, like clay around a coin. Nossal and Lederberg's single-cell test showed that each cell makes only one kind before it meets any germ, so the germ picks, and does not shape."
+  "wrong_idea": "Antibodies are moulded around each germ, like clay around a coin. Nossal and Lederberg's single-cell test showed that each cell makes only one kind before it meets any germ. So the germ picks a cell, and does not shape the antibody."
  },
  "playtest": "Read as a parent and child in a city flat would use it, and checked on paper, but not cooked at home with real children. The Key Shop test needs only a coin. Three flips give 8 shapes, so the average is about 8 cells, but single rounds range from 1 to 20 or more, and the steps say so. Spread and Shield and Shield the Town were checked by running their dice rules on a computer thousands of times. With no shields the germ reached about 21 of 25 squares on average. With 8 shields it reached about 8, and with 16 shields about 3, with wide ranges, so the steps tell families to repeat a town if chance misleads them. In Shield the Town with 10 shields on a 6 by 6 board, careless placement gave about 10 sick squares and careful placement does better, so 8 or fewer is a fair target. The word puzzle is a model and says so. Cold box: bottles should start cool from the fridge, and a frozen pack must not touch them. The vaccination card step has an example card for families without one, and the example is only an example. Facts a person should check before printing: the date vaccination reached India (1802, Bombay), India's last smallpox case (1975), Lady Mary Wortley Montagu's dates (1718 and 1721), the measles herd protection figure (about 95 percent), the Rotavac trial details, and that the Class 3 film still plays. Two videos still need an id. Feasibility review: coin counts, shield counts and dice results were checked again by computer, and the text now gives typical ranges instead of promises. The cold box is judged by blind touch, and a thermometer is optional.",
- "warm": {"words": ["VIRUS", "CLONE", "GERMS", "CELLS", "SHAPE"], "quiz": [["Allergy happens when the immune system reacts strongly to something harmless, like pollen.", true, "The body treats a harmless thing as if it were a germ."], ["Antibodies are shaped around a germ, like clay pressed around a coin.", false, "Each B cell already makes one kind of antibody, and the germ only selects the one that fits."], ["The quick defence you are born with learns each germ and remembers it.", false, "The quick defence reacts the same way to most germs. The slower defence learns and remembers."], ["The second time you meet a germ, memory cells let your body answer much faster.", true, "Memory cells stay after a fight and can act within days when the same germ returns."], ["A vaccine gives you the disease it is meant to prevent.", false, "Vaccines use weakened, killed or partial germs, so a sore arm just shows the immune system learning."], ["When enough people are immune, a germ spreads less, and people who cannot be vaccinated are safer.", true, "The germ cannot easily find new people to spread to."], ["Flu needs new vaccines because flu viruses change their outer shapes over time.", true, "Old memory fits a changed shape less well, so the memory must be updated."], ["Catching the illness is always better than a vaccine, because the memory is stronger.", false, "The illness can kill or leave harm. A vaccine gives the memory without the illness."], ["A special food or pill can make your immune system stronger, and stronger is always better.", false, "An overactive immune system causes allergies and can attack the body. No pill is proven to boost it."], ["A mother's antibodies reach her baby and protect the baby for the first months.", true, "They pass to the baby before birth and in her first milk."]], "odd": [[["B cell", "Helper T cell", "Killer T cell", "Red blood cell"], "Red blood cell", "B cells and T cells fight germs; a red blood cell carries oxygen."], [["Weakened germ", "Killed germ", "One harmless piece of a germ", "Fully strong live germ"], "Fully strong live germ", "Vaccines show the body a safe version of a germ, never a fully strong one."], [["Pollen", "Dust", "Peanuts", "Cholera germ"], "Cholera germ", "An allergy is a reaction to harmless things; a cholera germ really can make you ill."], [["Reacts in minutes", "Same for most germs", "Born with it", "Fits one germ exactly"], "Fits one germ exactly", "The first three describe the quick defence; fitting one germ exactly belongs to the learning defence."], [["Many people immune", "Few new people to infect", "Germ spreads less", "Everyone in a crowd"], "Everyone in a crowd", "The first three describe herd protection, where the germ is stopped from spreading; a crowd helps it spread."]]}
+ "warm": {"words": ["VIRUS", "CLONE", "GERMS", "CELLS", "SHAPE"], "quiz": [["An allergy happens when the immune system reacts strongly to something harmless, like pollen.", true, "The body treats a harmless thing as if it were a germ."], ["Antibodies are shaped around a germ, like clay pressed around a coin.", false, "Each B cell already makes one kind of antibody, and the germ only selects the one that fits."], ["The quick defence you are born with learns each germ and remembers it.", false, "The quick defence reacts the same way to most germs. The slower defence learns and remembers."], ["The second time you meet a germ, memory cells let your body answer much faster.", true, "Memory cells stay after a fight and can act within days when the same germ returns."], ["A vaccine gives you the disease it is meant to prevent.", false, "Vaccines use weakened, killed or partial germs, so a sore arm just shows the immune system learning."], ["When enough people are immune, a germ spreads less, and people who cannot be vaccinated are safer.", true, "The germ cannot easily find new people to spread to."], ["Flu needs new vaccines because flu viruses change their outer shapes over time.", true, "Old memory fits a changed shape less well, so the memory must be updated."], ["Catching the illness is always better than a vaccine, because the memory is stronger.", false, "The illness can kill or leave harm. A vaccine gives the memory without the illness."], ["A special food or pill can make your immune system stronger, and stronger is always better.", false, "An overactive immune system causes allergies and can attack the body. No pill is proven to boost it."], ["A mother's antibodies reach her baby and protect the baby for the first months.", true, "They pass to the baby before birth and in her first milk."]], "odd": [[["B cell", "Helper T cell", "Killer T cell", "Red blood cell"], "Red blood cell", "B cells and T cells fight germs; a red blood cell carries oxygen."], [["Weakened germ", "Killed germ", "One harmless piece of a germ", "Fully strong live germ"], "Fully strong live germ", "Vaccines show the body a safe version of a germ, never a fully strong one."], [["Pollen", "Dust", "Peanuts", "Cholera germ"], "Cholera germ", "An allergy is a reaction to harmless things; a cholera germ really can make you ill."], [["Reacts in minutes", "Same for most germs", "Born with it", "Fits one germ exactly"], "Fits one germ exactly", "The first three describe the quick defence; fitting one germ exactly belongs to the learning defence."], [["Many people immune", "Few new people to infect", "Germ spreads less", "Everyone in a crowd"], "Everyone in a crowd", "The first three describe herd protection, where the germ is stopped from spreading; a crowd helps it spread."]]}
 }

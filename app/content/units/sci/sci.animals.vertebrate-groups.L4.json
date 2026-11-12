@@ -4,12 +4,12 @@
  "level": 4,
  "cards_mins": 20,
  "summary": {
-  "text": "Stand by a pond at dusk in Mysuru. A fish feels a falling insect through ripples on her skin. A python in the reeds finds a warm rat with pits on her lips. A pigeon sees colours you cannot, and a dog follows a smell that is hours old. All of them have a backbone, so all are vertebrates. Yet each group has a different sense that stands out, because senses are tools built for a way of life. In this unit you test your own eyes, skin and ears the way these animals use theirs, and ask whether they all live in the same world.",
+  "text": "At a pond in Mysuru at dusk, a fish feels a falling insect through ripples on her skin. A python in the reeds finds a warm rat with pits on her lips that feel heat. A pigeon sees colours you cannot, and a dog follows a smell that is hours old. All of them have a backbone, so all are vertebrates. Yet each group has a different sense that stands out, because each sense fits the way that animal lives. In this unit you test your own eyes, skin and ears the way these animals use theirs, and ask whether they all live in the same world.",
   "art": "A pond at dusk with five animals around it: a fish under the surface with faint ripple lines reaching her sides, a python on a branch with glowing heat pits on her lips, a pigeon on a wall with a faint rainbow halo around her eyes, a frog on a leaf with a round eardrum, and a dog with a nose lifted into a visible scent trail."
  },
  "intro": {
   "hook": "A barn owl sits on a beam in a granary with every light switched off. She hears a rat nibble ragi on the floor, drops silently, and catches him. She never needed to see him. How can an animal hunt well in complete darkness, and what other senses do animals have that we do not?",
-  "text": "People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this unit you will meet the five groups of animals with a backbone again: fish, amphibians, reptiles, birds and mammals. This time you ask what each group senses best, and how you can test a little of it with your own body.",
+  "text": "People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this unit you look at the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. You ask what each group senses best, and how you can test a little of it with your own body.",
   "art": "A dark granary with a barn owl on a beam, her heart-shaped face turned towards a small rat on the floor, and faint curved sound lines going from the rat to the owl's ears."
  },
  "outcomes": [
@@ -124,7 +124,7 @@
    "concept": "What a sense is: a way to pick up one kind of signal",
    "status": "defined",
    "definition": "A sense is a way a body picks up one kind of signal. Tiny cells called receptors react to the signal and send a message to the brain. Receptors are often gathered in a sense organ, such as an eye or an ear.",
-   "description": "The world is full of signals. There is light, sound, smell, heat, touch and the movement of water or air. No receptor reacts to all of them. An eye reacts to light but not to smell. A nose reacts to tiny bits of a thing but not to sound. So every sense is a kind of question. The eye asks, where is the light? The ear asks, where is the shaking? All animals with a backbone have eyes, ears, a nose, taste and touch. But the five groups have developed some senses much further than others, and a few groups have senses that people do not have at all.",
+   "description": "The world is full of signals. There is light, sound, smell, heat, touch and the movement of water or air. No receptor reacts to all of them. An eye reacts to light but not to smell. A nose reacts to the tiny bits that come off a thing, but not to sound. So each sense tells an animal about one kind of signal only. The eye tells her where the light is. The ear tells her where the shaking is. All animals with a backbone have eyes, ears, a nose, taste and touch. But the five groups have developed some senses much further than others, and a few groups have senses that people do not have at all.",
    "examples": [
     "A cat's whiskers react to a push from air or a wall.",
     "A frog's eardrum reacts to the shaking of sound.",
@@ -162,7 +162,7 @@
   {
    "concept": "Reptiles: scent from the tongue, feeling the ground and sensing heat",
    "status": "defined",
-   "definition": "A heat pit is a small hollow on a snake's face with a thin membrane inside. It reacts to the infrared given off by warm bodies. Pit vipers, boas and pythons have them.",
+   "definition": "A heat pit is a small hollow on a snake's face with a thin skin inside. It reacts to the infrared given off by warm bodies. Pit vipers, boas and pythons have them.",
    "description": "A snake has no outer ear and no eardrum on the outside. She feels the shaking of the ground through her jaw bone, and her inner ear picks it up. Her forked tongue flicks out, collects tiny bits of scent from the air and the ground, and wipes them onto two spots in the roof of her mouth. The two tips of the fork can gather scent from two sides at once, which may help her follow a trail. Some snakes can also sense heat. An Indian rock python has rows of small heat pits along her lips. Cobras and Russell's vipers do not have pits. Crocodiles have tiny dark dots on their jaws that feel ripples and pressure, so a mugger crocodile can feel a fish swim near without seeing the fish. Some geckos can see colour in light so dim that people see only grey.",
    "examples": [
     "A python senses the heat of a rat in a dark storeroom.",
@@ -202,7 +202,7 @@
    "concept": "Wide view or deep view: where the eyes sit",
    "status": "defined",
    "definition": "A field of view is how much space around you your eyes can see at once. Binocular vision is when both eyes see the same space, which helps judge how far away something is.",
-   "description": "Eyes on the sides of the head see a very wide view. A pigeon sees about 340 degrees, almost all the way round. A horse also sees almost all the way round. That is useful to an animal that is hunted, because she can spot a hunter coming from almost any side. But the two eyes share very little space, so she does not judge distance well with both eyes together. Eyes at the front of the head, as in a person or an owl, see a narrower view, but the two eyes overlap in a large area. The brain compares the two pictures and works out how far away something is. That helps a hunter pounce, or an animal jump from branch to branch. A person sees about 200 degrees in total, and an owl somewhere near 110 degrees, because books give slightly different numbers. An owl cannot move her eyes in their sockets, so she turns her whole head, up to about 270 degrees.",
+   "description": "Eyes on the sides of the head see a very wide view. A pigeon sees about 340 degrees, almost all the way round. A horse also sees almost all the way round. That is useful to an animal that is hunted, because she can spot a hunter coming from almost any side. But her two eyes see very little of the same space, so she cannot use both eyes together to judge distance well. Eyes at the front of the head, as in a person or an owl, see a narrower view, but the two eyes overlap in a large area. The brain compares the two pictures and works out how far away something is. That helps a hunter pounce, or an animal jump from branch to branch. A person sees about 200 degrees in total, and an owl about 110 degrees. Books give slightly different numbers. An owl cannot move her eyes in their sockets, so she turns her whole head, up to about 270 degrees.",
    "examples": [
     "A pigeon on a wall notices a cat creeping up from behind.",
     "A cat judges the distance to a mouse before she jumps.",
@@ -215,7 +215,7 @@
    "concept": "Colour: who sees more, and who sees less",
    "status": "defined",
    "definition": "Colour vision depends on how many kinds of cone an animal has. More kinds of cone usually means more colours can be told apart.",
-   "description": "People have three kinds of cones, so we see red, green, blue and everything mixed from them. Most mammals have only two kinds. A dog is not colour-blind in the sense of seeing only black and white. A dog sees blues and yellows well, but cannot tell red from green, like some people. Many birds, fish, turtles and some lizards have four kinds, including one for ultraviolet. A goldfish can see ultraviolet light. So the same pond looks different to a dog, a person and a bird. Seeing more colours is not always better. Animals that hunt at night usually trade colour for the ability to see in dim light.",
+   "description": "People have three kinds of cones, so we see red, green, blue and everything mixed from them. Most mammals have only two kinds. A dog does not see only black and white. A dog sees blues and yellows well, but cannot tell red from green. Some people cannot tell red from green either. Many birds, fish, turtles and some lizards have four kinds, including one for ultraviolet. A goldfish can see ultraviolet light. So the same pond looks different to a dog, a person and a bird. Seeing more colours is not always better. Animals that hunt at night usually see fewer colours, but they see better in dim light.",
    "examples": [
     "A dog sees a red ball on green grass as a dull ball on yellowish grass.",
     "A pigeon tells apart colours that look the same to us.",
@@ -254,7 +254,7 @@
    "concept": "Why no animal senses everything",
    "status": "idea",
    "definition": "",
-   "description": "Eyes, ears and the brain parts that read them use a lot of energy. A body that spends energy on a sense it hardly needs wastes food. Mexican tetras that live in dark caves have lost their eyes, and a study in 2015 worked out that keeping eyes would cost them a noticeable part of their daily energy. They have more sensors on their lateral lines instead. The Ganges river dolphin, called susu, lives in muddy water where eyes are little help. Her eyes have no working lens and tell only light from dark. She finds fish by sending out clicks and listening for the echoes. The Ganges river dolphin is India's national aquatic animal. So each animal's senses are a trade, and they fit the place where her body lives. This is an idea that most biologists accept, but the exact costs are still being measured.",
+   "description": "Eyes, ears and the brain parts that read them use a lot of energy. A body that spends energy on a sense it hardly needs wastes food. Mexican tetras that live in dark caves have lost their eyes, and a study in 2015 worked out that keeping eyes would cost them a noticeable part of their daily energy. They have more sensors on their lateral lines instead. The Ganges river dolphin, called susu, lives in muddy water where eyes are little help. Her eyes have no working lens and tell only light from dark. She finds fish by sending out clicks and listening for the echoes. The Ganges river dolphin is India's national aquatic animal. So no animal has every sense. Each animal has the senses that are worth their cost in the place where she lives. This is an idea that most biologists accept, but the exact costs are still being measured.",
    "examples": [
     "A cave fish with no eyes and a strong lateral line.",
     "A susu in the muddy Ganges, finding fish by echoes.",
@@ -267,9 +267,9 @@
    "concept": "One pond, many worlds",
    "status": "debated",
    "definition": "",
-   "description": "Put a fish, a pigeon, a snake and a person at the same pond. They have different senses, so they notice different things. The question is what this means. The German biologist Jakob von Uexküll wrote in 1934 that each animal lives in her own sensory world, which he called an umwelt. His famous example was a tick. A tick waits on a branch and reacts to three signals only: the smell of sweat acid, warmth of about body heat, and the touch of hairy skin. Nothing else about the world matters to her. Other scientists say there is just one world, and each animal gets a partial view of that world, as if looking through different windows. Which is it? We can compare what animals sense, but we cannot yet say what it is like to sense as a bat does.",
+   "description": "Put a fish, a pigeon, a snake and a person at the same pond. They have different senses, so they notice different things. Does that mean they live in different worlds? The German biologist Jakob von Uexküll wrote in 1934 that each animal lives in her own sensory world, which he called an umwelt. His famous example was a tick. A tick waits on a branch and reacts to three signals only: the smell of an acid in sweat, the warmth of a body, and the touch of hairy skin. Nothing else about the world matters to her. Other scientists say there is just one world, and each animal senses only a part of it, like people looking into one room through different windows. Nobody has settled which view is right. We can compare what animals sense, but we cannot yet say what it is like to sense as a bat does.",
    "examples": [
-    "A dog that smells a whole story on a lamp post, while a person smells nothing.",
+    "A dog who picks up many smells on a lamp post, while a person smells nothing.",
     "A bird that sees a feather pattern in ultraviolet that a person never sees.",
     "A tick that responds to only three things in the whole world."
    ],
@@ -293,7 +293,7 @@
   },
   {
    "text": "Fish feel moving water with the lateral line.",
-   "evidence": "When scientists switch off the lateral line with a mild chemical, fish find the source of a ripple much less well in the dark, while fish with a working lateral line find it easily."
+   "evidence": "When scientists switch off the lateral line with a mild chemical, fish are much worse at finding where a ripple came from in the dark. Fish with a working lateral line find it easily."
   },
   {
    "text": "Some snakes sense the heat of warm bodies with heat pits.",
@@ -331,7 +331,7 @@
    "claim": "Dogs see only in black and white.",
    "who": "A popular belief in many places.",
    "for": "Dogs do not seem to care about colour, and their eyes have fewer colour cones than ours.",
-   "against": "Dogs can tell blue from yellow. They have two kinds of cones. What they cannot do is tell red from green, like some people.",
+   "against": "Dogs can tell blue from yellow. They have two kinds of cones. What they cannot do is tell red from green. Some people cannot tell red from green either.",
    "status": "rejected"
   },
   {
@@ -360,12 +360,12 @@
   {
    "q": "A python senses a rat as a warm glow. A person senses the same rat as a shape and a smell. Which of them is sensing what the rat really is?",
    "kind": "deep",
-   "hint": "Think about whether 'warm', 'brown' and 'smelly' belong to the rat, or to the meeting of a rat and a body."
+   "hint": "Think about whether 'warm', 'brown' and 'smelly' are part of the rat, or whether they depend on who is sensing the rat."
   },
   {
    "q": "Hunted animals tend to have eyes on the sides of the head, and hunters have eyes at the front. What does each way of seeing gain, and what does it lose?",
    "kind": "deep",
-   "hint": "Think about the wide view and the deep view that you tested."
+   "hint": "In the Wide View, Deep View experiment, you tested how far round you can see and how well two eyes judge distance. Think about both."
   },
   {
    "q": "A lateral line works well in water but would work badly in air. Why?",
@@ -388,14 +388,14 @@
    "hint": "Think about a place you know well, such as your street, and what might be hiding in it."
   },
   {
-   "q": "An owl turns her head, a deer turns her ears and a snake flicks her tongue. In each case, what is the animal doing, and what question is she asking the world?",
+   "q": "An owl turns her head, a deer turns her ears and a snake flicks her tongue. In each case, what is the animal doing, and what is she trying to find out?",
    "kind": "deep",
    "hint": "Each movement points a sense organ at a place. Notice which sense it is."
   },
   {
    "q": "Dogs can be trained to sniff out some illnesses in people. What does that tell you about what a smell can carry?",
    "kind": "big",
-   "hint": "A smell is made of tiny bits of a thing. What else might be carried in those bits?"
+   "hint": "A smell is made of tiny bits that come off a thing. What might those bits tell a dog about a person's body?"
   }
  ],
  "story": {
@@ -410,13 +410,13 @@
    "High on the beam above the sacks lived a white barn owl. She had a pale heart-shaped face and big dark eyes. Ajji did not like her at all. 'An owl in the house brings bad luck,' she said. 'My own grandmother told me so.' She waved a broom at the beam every evening. The owl only looked down at her, blinked, and sat still.",
    "One morning, Kavya found grey lumps on the floor under the beam. They were as big as her thumb and dry like old felt. 'Dirt,' said Farhan. Kavya was not so sure. She pulled one apart with a stick, and inside she found fur, and then thin white bones. At the very end she found a tiny skull with two long front teeth. 'This is a rat,' she said slowly. 'The owl eats them. Ajji, she is working for you.'",
    "Ajji sniffed. 'She may eat one now and then,' she said. 'But the rats come back every night.' Kavya thought about this all day. At night the lamp was burning and the plate was banging, so the owl could not be hunting. Maybe that was the problem.",
-   "'How does she catch them at all?' asked Farhan. 'It is pitch dark under the beam, except for the lamp.' 'With her eyes,' said Kavya. 'Owls have night eyes.' But then she stopped. 'If she can see in the dark, why does Ajji put a lamp?' And then she asked a better question. 'What if she does not need to see?'",
-   "The next evening, Kavya asked Ajji to put out the lamp. Ajji frowned for a long time. Then she agreed, as long as she herself would sit in the doorway with them. They sat on a mat, all three, with the door open only a hand-width. The store room was black. Kavya could not see her own fingers.",
-   "For a long time nothing happened. The wind moved in the coconut trees outside. Then there was a tiny sound, a dry scratch, like a fingernail on paper. A rat was working at a sack. Almost at once there was a soft whoosh of air, and then a squeak, and then nothing. Farhan snapped on his torch. The beam was empty. The owl was already back on her perch, with something in her claws.",
+   "'How does she catch them at all?' asked Farhan. 'It is pitch dark under the beam, except for the lamp.' 'With her eyes,' said Kavya. 'Owls have night eyes.' But then she stopped, and asked a better question. 'What if she does not need to see?'",
+   "The next evening, Kavya asked Ajji to put out the lamp. Ajji frowned for a long time. Then she agreed, as long as she could sit in the doorway with them. They sat on a mat, all three, with the door open only a hand-width. The store room was black. Kavya could not see her own fingers.",
+   "For a long time nothing happened. The wind moved in the coconut trees outside. Then there was a tiny sound, a dry scratch, like a fingernail on paper. A rat was working at a sack. Almost at once there was a soft whoosh of air, and then a squeak, and then nothing. Farhan snapped on his torch. The owl was already back on the beam, with something in her claws.",
    "'She did not even need the torch,' whispered Farhan. 'She did not need a lamp either,' said Kavya. 'She heard him.' Ajji said nothing, but she was staring up at the beam.",
    "Kavya wanted to be sure. The next night, she tied a cloth bag to the end of a long string. She filled it with a handful of dry husks, so it would make a dry little rustle. She laid it in the far corner, and held the other end of the string at the doorway. The room was dark again. Ajji sat beside her. Nobody spoke.",
-   "Kavya gave the string one small pull. The husks whispered. Up on the beam, there was a tiny movement. Kavya pulled again. Then the white shape slid off the beam without a sound, and dropped. She landed right on the bag, and pinned it with her claws. Kavya heard her stand very still, as if waiting for the bag to move. It did not. There was no rat there, only husks and a cloth.",
-   "Farhan laughed out loud, so quietly that it was almost just air. The owl flew back to the beam. Ajji let out a long breath. 'She went for the sound,' she said. 'She never saw it.' 'And she turned her whole face to the sound before she dropped,' said Kavya. 'Her face is like a dish. It catches the sound and sends it to her ears.'",
+   "Kavya gave the string one small pull. The husks whispered. Up on the beam, there was a tiny movement. Kavya pulled again. Then the white shape slid off the beam without a sound, and dropped. She landed right on the bag, and pinned it with her claws. Then she stayed very still, as if waiting for the bag to move. It did not. There was no rat there, only husks and a cloth.",
+   "Farhan laughed, so quietly that it was almost just air. The owl flew back to the beam. Ajji let out a long breath. 'She went for the sound,' she said. 'She never saw the bag.' 'And she turned her whole face to the sound before she dropped,' said Kavya. 'Her face is like a dish. It catches the sound and sends it to her ears.'",
    "Ajji sat for a while in the dark. Then she said, 'My grandmother was a wise woman. But she did not sit in the dark and pull a string.' She said it gently, and Kavya did not laugh. 'Each of us sees what we see,' said Ajji. 'Tonight I have seen something new.'",
    "That night, Ajji blew out the lamp for good. She opened the little window under the roof, so the owl could come and go. She put the steel plate back in the kitchen, where it belonged. A week later, the sacks were whole. A fortnight later, there were no new holes at all, only grey pellets on the floor, which Farhan swept up every morning with great seriousness.",
    "On the last night of the holidays, Kavya sat on the mat and pressed both hands behind her ears, with her fingers pointing forward. The rustle of a leaf in the yard suddenly sounded bigger and closer. She took her hands away, and it shrank again. 'So that is why foxes have big ears,' she whispered. Up on the beam, the owl turned her face and looked at her."
@@ -443,16 +443,16 @@
  "roots": {
   "context": "We have seen that a fish, a snake, a bird and a bat each sense a different slice of the same place. Now we ask what that tells us about the world and about ourselves.",
   "deep_truth": {
-   "truth": "A fish feels the pond as moving water. A python feels it as warm and cool. A pigeon sees colours we never see. So the world each of us notices is only the slice our body was built to catch.",
-   "habit": "We say 'the dark', 'the pond' or 'the colour of the feather' as if every animal met the same picture. But the dark is not dark to an owl who hears, and a feather has a pattern for birds that people never see.",
-   "evidence": "In the wide-view test, most people see a little more than half the way round, while a pigeon sees almost all the way round. In the ripple test, most people feel a ripple only when it is close, while a fish feels one along her whole side. An owl catches a rat in a pitch-dark granary by sound alone."
+   "truth": "A fish feels the pond as moving water. A python feels it as warm and cool. A pigeon sees colours we never see. So each of us notices only the part of the world that our own body can sense.",
+   "habit": "We say 'the dark', 'the pond' or 'the colour of the feather' as if they were the same for every animal. But an owl finds her way in the dark by hearing, and a feather has a pattern that birds see and people never do.",
+   "evidence": "In the Wide View, Deep View experiment, most people see a little more than half the way round, while a pigeon sees almost all the way round. In the Ripple Skin experiment, most people feel a ripple only when it starts close to the hand, while a fish feels one along her whole side. An owl catches a rat in a pitch-dark granary by sound alone."
   },
   "three": {
    "who_am_i": "You are one animal among many, and your eyes, ears and skin show you only a slice of what is there.",
-   "what_is_life": "Every living being, from a tick to an elephant, listens to the world in her own way, and answers it.",
+   "what_is_life": "Every living being, from a tick to an elephant, picks up signals from the world in her own way, and acts on them.",
    "what_is_this_world": "It looks like one place that many bodies sense in many ways, and no body senses all of it."
   },
-  "thread": "All animals with a backbone began as small fish in the sea more than 500 million years ago. Each group kept its own senses and grew some of them very far. Yet all senses do one job. They let something in the world reach a body, and let the body answer. Every sense organ is a place where one part of nature picks up a signal from another part.",
+  "thread": "All animals with a backbone began as small fish in the sea more than 500 million years ago. Since then, each group has developed some senses much further than others. Yet all senses do one job. They let a signal from the world reach a body, so that the body can act on it. Every sense organ is a place where one part of nature picks up a signal from another part.",
   "teachings": [
    {
     "source": "Kena Upanishad 1.2",
@@ -462,12 +462,12 @@
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "In this old story from the Buddhist teachings, several blind men each touch a different part of an elephant. One feels a leg, another the tail, another an ear. Each describes a different animal, and each argues that he is right.",
-    "link": "Each group of animals senses a different part of the same place. No body gets the whole elephant, and each is partly right."
+    "link": "Each group of animals senses a different part of the same place. No animal senses the whole place, just as no blind man felt the whole elephant. Each is partly right."
    },
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods)",
     "teaching": "Two friends stand on a bridge over a river. Zhuangzi says the fish are happy. His friend Huizi says, you are not a fish, so how do you know? Zhuangzi answers, you are not me, so how do you know that I do not know?",
-    "link": "We cannot sense a lateral line or a heat pit from the inside. The old question remains: how far can one being know what it is like to be another?"
+    "link": "We cannot feel what a fish feels with her lateral line, or what a snake feels with her heat pits. The old question remains: how far can one being know what it is like to be another?"
    }
   ],
   "science": [
@@ -493,7 +493,7 @@
   "ask": [
    "If a pigeon could look at your street, what would she say you are missing?",
    "A python senses a rat as a warm glow. Is the rat warm, or bright, or smelly? Who decides?",
-   "Is there a sense that no animal has found yet?",
+   "Could there be a sense that no animal has?",
    "When you and a dog smell the same lamp post, are you smelling the same thing?"
   ],
   "art": "A pond at dusk drawn as one picture split into five strips, each strip showing how a fish, a frog, a python, a pigeon and a dog might sense it, with a child standing at the edge looking at all five."
@@ -505,7 +505,7 @@
    "mins": 40,
    "days": 1,
    "question": "How far round can you see with two eyes, and with only one? And do two eyes help you judge how far away something is?",
-   "predict": "Before you start, guess two things. At which clock number will you first see the moving card as it comes round from behind you? And will you touch the pen top more often with two eyes or with one? Give a reason for each guess. Why do you think so?",
+   "predict": "Before you start, guess two things. At which clock number will you first see the moving card as it comes round from behind you? And will you touch the pen top more often with two eyes or with one? Give a reason for each guess.",
    "fair_test": "The same person keeps their eyes on the same note on the wall every time, and the same helper waves the same card at the same height and speed. The circle, the chair and the distances do not change. Only the eye that is open changes. Each wide-view test is done twice, because one try can be a fluke. The pen test is done six times for each eye setting, with the pen in a new spot each time.",
    "results_table": [
     "Test",
@@ -587,7 +587,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Put the chair in the middle of an open floor. Stick the note on the wall 2 metres straight ahead, at your child's eye height. Put the 7 markers in a half circle on the right side, 1 metre from the chair. Number 12 is straight ahead, 3 is straight to the right, and 6 is right behind.",
+     "do": "Put the chair in the middle of an open floor. Stick the note on the wall 2 metres straight ahead, at your child's eye height. Put the 7 markers in a half circle on the right side, 1 metre from the chair. Number them 12, 1, 2, 3, 4, 5 and 6, like half a clock. Number 12 is straight ahead, 3 is straight to the right, and 6 is right behind.",
      "say": "Sit here and look at the note on the wall. Keep your head still. The numbers on the floor are like a clock. Twelve is in front of you, three is on your right, and six is right behind you.",
      "kid": "Sit on the chair. Look at the note on the wall. Keep your head still.",
      "parent": "Paper cups or chappals make good markers. Put each number on a slip under its marker. The helper will stand beside each marker and hold the card at your child's eye height.",
@@ -649,14 +649,14 @@
        "Both eyes see it at the same moment"
       ],
       "a": 0,
-      "why": "The right eye sits on the right side of the face and looks out to the right. The left eye has the nose in the way. Picking the left eye usually means thinking that one eye is better than the other, when in fact it is the side that matters."
+      "why": "The right eye sits on the right side of the face and looks out to the right. The left eye has the nose in the way. Neither eye is stronger. What matters is which side of the face the eye is on."
      },
      "context": "In this step, you repeat the card test with one eye covered, to see how far round each eye sees."
     },
     {
      "id": "s5",
      "mins": 3,
-     "do": "Turn each clock number into degrees by multiplying by 30. Write the angle in the last column. Then double the best angle for both open eyes. This is a rough size of the whole view.",
+     "do": "Turn each clock number into degrees by multiplying by 30. Write the angle in the last column. Then take the best angle with both eyes open and double it. This gives the rough size of the whole view, left and right together.",
      "say": "Twelve is zero degrees, straight ahead. Each number is 30 degrees more. If you saw it at four, that is four times thirty, which is 120 degrees. What angle did you get with both eyes open?",
      "kid": "Multiply the clock number by 30. That is the angle. Write it down.",
      "parent": "The doubled number assumes the left side sees as far as the right. For most people it comes out between about 180 and 240 degrees in total. Do not worry if the number is different. Small angles in this test are normal because the card is small and slow.",
@@ -668,7 +668,7 @@
      "do": "Sit your child at a table. Stand the capped pen in clay on the table, about 40 centimetres in front of them. Your child holds one finger beside their ear. They swing the finger down and touch the cap in one smooth move. They must not feel for it. Do six tries with both eyes open. After each try, move the pen to a new spot 30, 40 or 50 centimetres away. Count how many touches.",
      "say": "Hold one finger beside your ear. Look at the pen. Now swing your finger down and touch the top of the cap in one move. No feeling about. I will move the pen after each try.",
      "kid": "Hold a finger by your ear. Touch the pen cap in one move.",
-     "parent": "A touch means the fingertip lands on the cap. A near miss counts as a miss. Move the pen to a new place each time so your child cannot predict where it will be. Start the card test with one eye on some children and with both eyes on others, and do the pen test with one eye first for the next child. Practice makes the second set a little better, and swapping the order keeps it fair. Six tries is few, so a difference of one touch means little. A difference of three or more is a real sign.",
+     "parent": "A touch means the fingertip lands on the cap. A near miss counts as a miss. Move the pen to a new place each time so your child cannot predict where it will be. Practice makes the second set of tries a little better. So if you test more than one child, let some children start the card test and the pen test with both eyes, and others with one eye. Swapping the order keeps it fair. Six tries is few, so a difference of one touch means little. A difference of three or more is a real sign.",
      "context": "In this step, you test how well you judge distance with both eyes open."
     },
     {
@@ -709,7 +709,7 @@
    "mins": 35,
    "days": 1,
    "question": "A fish feels a ripple with her lateral line. How far away can your hands feel a ripple, and can you tell which side it came from?",
-   "predict": "Before you start, guess. Your hands are in still water and a ripple starts to your left or right. Will you tell the side correctly when it is close? Will you at 20 centimetres? Why do you think so?",
+   "predict": "Before you start, guess. Your hands are in still water and a ripple starts to your left or right. Will you tell the side correctly when the ripple starts close to your hand? Will you still tell it at 20 centimetres? Why do you think so?",
    "fair_test": "The same helper makes every ripple with the same gentle dip of one fingertip. The water is still before each ripple. Your child's ears are covered, so only the skin can sense it. A coin toss decides left or right, so the helper cannot make a pattern. Only the distance changes. Each distance is tried 10 times, because one try can be a fluke.",
    "results_table": [
     "Distance from your hand",
@@ -744,7 +744,7 @@
     }
    ],
    "safety": "Put the basin on a towel on a flat, low surface so it does not tip. Wipe up spills at once, because a wet floor is slippery. Keep electrical things, including headphones, away from the water. Cover the ears with ear muffs or a thick cap or scarf, and make sure the child can still breathe and sit comfortably.",
-   "record": "For each distance, write how many of the 10 ripples your child located correctly. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Draw a bar chart with one bar for each distance.",
+   "record": "For each distance, write how many of the 10 ripples your child placed on the correct side. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Draw a bar chart with one bar for each distance.",
    "context": "In this experiment, you act like a fish. You keep your hands still in water and try to tell which side a ripple came from, without seeing or hearing it.",
    "setup": [
     {
@@ -769,7 +769,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the basin. Ask for their guesses and reasons. Write them at the top of the results table.",
-     "say": "Fish have a line of tiny sensors along their sides that feel water move. Can your hands do anything like it? Will you tell which side a ripple came from? Will you at 20 centimetres? Why do you think so?",
+     "say": "Fish have a line of tiny sensors along their sides that feel water move. Can your hands do anything like it? Will you tell which side a ripple came from when it starts close to your hand? Will you still tell at 20 centimetres? Why do you think so?",
      "kid": "Fish feel water move. Can your hands? Guess first. Will you tell left from right? Why?",
      "ask": [
       {
@@ -807,8 +807,8 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Start with 5 centimetres. Toss the coin. Heads means the left side, and tails means the right side. Hold the strip above the water with one end over the child's hand on that side. Dip one fingertip, 1 centimetre deep, at the other end. Quickly lift it out and keep still. Ask 'left or right?' Do 10 tries. Count the right answers.",
-     "say": "I will make one small ripple, then you say left or right. Wait until I say go. I make the ripple 5 centimetres from your hand.",
+     "do": "Start with 5 centimetres. Toss the coin. Heads means the left side, and tails means the right side. Hold the strip above the water with one end over the child's hand on that side. Dip one fingertip, 1 centimetre deep, at the 5 centimetre mark. Quickly lift it out and keep still. Ask 'left or right?' Do 10 tries. Count the right answers.",
+     "say": "I will make one small ripple, 5 centimetres from your hand. Wait until I say go. Then say left or right.",
      "kid": "Feel for the ripple. Say left or right. Try ten times.",
      "parent": "Wait for still water between tries. Do not say if the answer is right until the end of the 10. Your child may get nearly all 10 right here. This is the closest distance.",
      "context": "In this step, you test ripples that start 5 centimetres from the hand."
@@ -860,7 +860,7 @@
      "kid": "Draw a bar for each distance. Say what you thought, what you saw, and why.",
      "think": "A fish has sensors along her whole side. What could she find that you could not?",
      "parent": "After your child's own words, say: a fish has a line of tiny sensors along each side with hairs that bend when water moves. She feels where another fish is, even in muddy or dark water. Your hands have no such sensors, but skin can still feel big ripples. A fish feels water movement only a short way, about one or two body lengths, so distance matters for her too.",
-     "context": "In this step, you draw your results and meet the lateral line."
+     "context": "In this step, you draw your results and learn how a fish's lateral line works."
     }
    ]
   },
@@ -871,7 +871,7 @@
    "days": 1,
    "question": "A fox turns her large ear flaps towards a sound. Do hands cupped behind your ears help you hear a quiet sound from farther away, and does it matter which way they face?",
    "predict": "Before you start, guess. Will cupped hands help you hear a ticking clock from farther away? What if the hands face backwards? Why do you think so?",
-   "fair_test": "The same ticking clock is held at the same height, pointing at your child, every time. The room, the helper and the way the helper walks stay the same. Your child keeps their eyes closed and does not move their head. Only the position of the ears changes. Each condition is tested twice, because one try can be a fluke.",
+   "fair_test": "The same ticking clock is held at the same height, pointing at your child, every time. The room, the helper and the way the helper walks stay the same. Your child keeps their eyes closed and does not move their head. Only the position of the ears changes. Each setting is tested twice, because one try can be a fluke.",
    "results_table": [
     "Ears",
     "First heard at: try 1 (centimetres)",
@@ -906,7 +906,7 @@
    ],
    "safety": "Keep the clock volume soft. Never use a loud sound near ears. The helper walks slowly and quietly, and the walkway is clear of stools and bags, to avoid tripping. A child with a cold or ear pain should not do this test. Never poke anything into an ear: the cone is held against the ear and never pushed in.",
    "record": "For each setting, write the distance in centimetres where your child first heard the tick, the best of two tries. Draw a bar chart with one bar for each setting.",
-   "context": "In this experiment, you find out whether hands cupped behind your ears, in the way a fox's ear flaps work, help you to hear a quiet sound from farther away.",
+   "context": "In this experiment, you find out whether hands cupped behind your ears help you hear a quiet sound from farther away. The cupped hands work like a fox's ear flaps.",
    "setup": [
     {
      "art": "A child sitting on a stool with eyes closed in a corridor, and a helper far away holding a small ticking clock at the child's ear height.",
@@ -951,7 +951,7 @@
      "do": "Pick a quiet room or corridor. Put the stool at one end. Lay the tape measure along the floor in front of the stool. Your child sits on the stool, facing along the tape, with eyes closed. Check that the clock ticks softly and steadily. Show your child what the tick sounds like before they close their eyes.",
      "say": "Sit here and close your eyes. I will walk towards you with the clock. Say now when you first hear it tick. Keep your head still.",
      "kid": "Sit and close your eyes. Say now when you hear the tick.",
-     "parent": "Switch off fans and noisy things. A tick is easy to guess at, so tell the helper to walk to the same speed every time and not to pause when the child is about to answer. If you cannot find a clock, a phone playing a soft steady beep works. Turn the beep volume down until it is only just audible at 1 metre. Typical hearing distances for a quiet tick are from half a metre to a few metres, so your numbers may be different. If the child hears it at the 3 metre start, the clock is too loud. If they never hear it, start closer. Roles: the listener sits with eyes closed, one helper walks with the clock, and one reads the distance and writes it down. One child with a parent: the parent walks, then reads the tape. With 2 to 4 children, take turns as listener, and the others wait silently, because anyone who hears the tick can give it away. Each child makes a row in the table.",
+     "parent": "Switch off fans and noisy things. A child can easily guess when the tick is about to be heard. So tell the helper to walk at the same speed every time and not to pause when the child is about to answer. If you cannot find a clock, a phone playing a soft steady beep works. Turn the beep volume down until it can only just be heard at 1 metre. A quiet tick is usually first heard from somewhere between half a metre and a few metres. Your numbers may be different. If the child hears it at the 3 metre start, the clock is too loud. If they never hear it, start closer. Roles: the listener sits with eyes closed, one helper walks with the clock, and one reads the distance and writes it down. One child with a parent: the parent walks, then reads the tape. With 2 to 4 children, take turns as listener, and the others wait silently, because anyone who hears the tick can give it away. Each child makes a row in the table.",
      "context": "In this step, you set up the quiet room and the clock."
     },
     {
@@ -970,7 +970,7 @@
        ]
       }
      ],
-     "parent": "The helper walks slowly and quietly, with no talking. Drop the clock to the child's ear height. If the child hears it right at 3 metres, the clock is too loud. Turn it down.",
+     "parent": "The helper walks slowly and quietly, with no talking. Hold the clock at the child's ear height. If the child hears it right at 3 metres, the clock is too loud. Turn it down.",
      "context": "In this step, you find how far away your child hears the clock with bare ears."
     },
     {
@@ -1027,7 +1027,7 @@
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Which animal would use cupped ears like these?",
      "kid": "Draw a bar for each setting. Say what you thought, what you saw, and why.",
      "think": "A fox hunts mice that squeak under the grass. How does her ear shape help?",
-     "parent": "After your child's words, say: an ear flap collects more sound and points it into the ear, and it can be turned to find where the sound comes from. Ear flaps are an animal's way of being a bigger ear. Mammals have them. Birds, frogs and snakes do not.",
+     "parent": "After your child's words, say: an ear flap collects more sound and points it into the ear, and it can be turned to find where the sound comes from. An ear flap makes the ear bigger. Mammals have them. Birds, frogs and snakes do not.",
      "context": "In this step, you draw your results and think about animals' ears."
     }
    ]
@@ -1083,7 +1083,7 @@
      "do": "Write each clue on its own strip. Strip 1, a line of tiny sensors along the sides feels ripples. Strip 2, heat pits on the lips sense a warm body. Strip 3, a round eardrum sits on the outside of the head. Strip 4, a fourth colour cone sees ultraviolet. Strip 5, three tiny middle-ear bones. Strip 6, a forked tongue gathers scent. Strip 7, whiskers feel moving water and air. Strip 8, ear flaps turn towards a sound. Strip 9, a heart-shaped face collects sound. Strip 10, eyes on the sides give a very wide view. Strip 11, tiny dark dots on the jaws feel ripples. Strip 12, sharks sense weak electricity. Strip 13, a tadpole has a lateral line. Strip 14, high clicks and echoes find prey. Strip 15, the nose has many more smell receptors than a person's.",
      "say": "Each strip is a clue about a sense. Some belong to one group only. Some could belong to more than one. Read them aloud, and think about who has this sense.",
      "kid": "Write each clue on a strip. Read them all.",
-     "parent": "The clues cover all five groups. Strips 3, 10 and 13 are good for discussion. An eardrum on the outside is true for frogs. Wide eyes are true for fish, frogs, birds and many mammals. A tadpole is an amphibian. There are no wrong answers to the discussion. Cutting strips: a child of 6 to 7 should use blunt, child-safe scissors with an adult close. With 2 to 4 children, each writes and cuts about five strips, then everybody sorts together. One child with a parent: share the writing.",
+     "parent": "The clues cover all five groups. Strips 3, 10 and 13 are good for discussion. Frogs have an eardrum on the outside of the head. Eyes on the sides are found in fish, frogs, birds and many mammals. A tadpole is an amphibian. There are no wrong answers to the discussion. Cutting strips: a child of 6 to 7 should use blunt, child-safe scissors with an adult close. With 2 to 4 children, each writes and cuts about five strips, then everybody sorts together. One child with a parent: share the writing.",
      "context": "In this step, you write the fifteen clues on paper strips."
     },
     {
@@ -1119,7 +1119,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Choose one group. Draw a pond as that group might sense it. Use colours or shapes for what it senses. Add a label that says what you think is most important to that animal.",
+     "do": "Choose one group. Draw a pond as an animal of that group might sense it. Use colours or shapes for what she senses. Add a label that says what you think is most important to her.",
      "say": "Draw the pond as a fish, a python or a pigeon might sense it. What would stand out? What would hardly be there at all? Use colour or shape to show it.",
      "kid": "Draw the pond as another animal senses it. What stands out?",
      "ask": [
@@ -1180,7 +1180,7 @@
      "what": "Prepare the pots. Test four parts of the skin. Compare the distances."
     }
    ],
-   "record": "A table with four rows, palm, back of the hand, fingertip and cheek, and for each the distance in centimetres where your child first felt warmth. Write 'touched' if nothing was felt before 2 centimetres.",
+   "record": "A table with four rows, palm, back of the hand, fingertip and cheek, and for each the distance in centimetres where your child first felt warmth. Write 'not felt' if nothing was felt before the pot stopped at 2 centimetres.",
    "context": "In this activity, you act a little like a snake with heat pits. You find which part of your skin feels the warmth of a pot from the farthest away.",
    "setup": [
     {
@@ -1200,7 +1200,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "An adult fills one pot with hot-bath-warm water. Check that it feels comfortably warm on the inside of your wrist, and never hot. A finger should stay in it for 10 seconds without pain, and the outside of the pot should be bearable to hold. Fill the other pot with room-temperature water. Put a small secret mark under the warm pot. Ask your child to guess which part of the skin will feel warmth from farthest, and why.",
+     "do": "An adult fills one pot with water as warm as a hot bath. Check that it feels comfortably warm on the inside of your wrist, and never hot. A finger should stay in it for 10 seconds without pain, and the outside of the pot should be bearable to hold. Fill the other pot with room-temperature water. Put a small secret mark under the warm pot. Ask your child to guess which part of the skin will feel warmth from farthest, and why.",
      "say": "Today you will find warmth with your skin, the way a python does with her lip pits. Which part of your skin will notice it first? The palm, the back of your hand, a fingertip or your cheek? Why?",
      "kid": "Guess first. Which part of your skin feels warmth best? Why?",
      "adult": true,
@@ -1214,13 +1214,13 @@
        ]
       }
      ],
-     "parent": "The warm water must be comfortable to touch, never hot. The adult prepares and checks the water. The pots must look identical so your child cannot guess by sight. Warm water cools fast, so refill the warm pot after about 10 minutes, and check again with your wrist. Warmth is usually felt only within a few centimetres. Warmth from a pot is felt only close up: often from 3 to 15 centimetres, and sometimes only a few centimetres, so the numbers are small. This is real data. The adult always holds the pot and stops 2 centimetres from the skin, and nobody touches it. Do not use hotter water, and keep it out of the way of small hands. Roles: with a parent, the parent holds and writes. With 2 to 4 children, one is tested at a time with eyes closed, one holds the pot, one writes, and the others stay silent. Each child can test the palm and cheek and compare, since skin differs between people.",
+     "parent": "The warm water must be comfortable to touch, never hot. The adult prepares and checks the water. The pots must look identical so your child cannot guess by sight. Warm water cools fast, so refill the warm pot after about 10 minutes, and check again with your wrist. Warmth from a pot is felt only close up: often from 3 to 15 centimetres, and sometimes only a few centimetres. So the numbers are small, and that is real data. The adult always holds the pot and stops 2 centimetres from the skin, and nobody touches it. Do not use hotter water, and keep the pot out of the reach of small hands. Roles: with a parent, the parent holds and writes. With 2 to 4 children, one is tested at a time with eyes closed, one holds the pot, one writes, and the others stay silent. Each child can test the palm and cheek and compare, since skin differs between people.",
      "context": "In this step, you prepare two pots, one warm and one at room temperature, and make a guess."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child closes their eyes. Hold one pot, picked at random, 30 centimetres from their palm, to the side. Move it 2 centimetres closer every 3 seconds, and stop at 2 centimetres from the skin. The child says 'warm' or 'not warm' each time. Write the distance where they first say 'warm' for the warm pot. Then swap in the other pot, to check that 'not warm' is said for it.",
+     "do": "Your child closes their eyes. Hold one pot, picked at random, 30 centimetres from their palm, to the side. Move it 2 centimetres closer every 3 seconds, and stop at 2 centimetres from the skin. The child says 'warm' or 'not warm' each time. Write the distance where they first say 'warm' for the warm pot. Then bring the other pot closer in the same way, and check that your child says 'not warm' for it.",
      "say": "Close your eyes and hold out your palm. I bring a pot closer slowly. Say warm if you feel warmth, and not warm if you do not. Tell me the moment you feel it.",
      "kid": "Close your eyes. Say warm or not warm.",
      "parent": "Use the cool pot a few times as a check, so your child cannot just say warm every time. Hold the pot at the same height each time, and bring it from the side so rising warm air does not give it away.",
@@ -1233,7 +1233,7 @@
        "To keep the first pot cold"
       ],
       "a": 0,
-      "why": "If the child said warm for both pots, the answers would mean nothing. Using the cool pot as a control shows that the child can tell the difference."
+      "why": "If the child said warm for both pots, the answers would mean nothing. Using the room-temperature pot as a check shows that the child can tell the difference."
      },
      "context": "In this step, you test the palm for warmth from a distance."
     },
@@ -1259,17 +1259,17 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Draw a bar chart of the four distances. Ask your child to say what they thought, what they saw and why. Then explain pit organs.",
-     "say": "Tell me three things. What did you think? What did you see? Why did it happen? A python has pits on her lips that notice warmth. Some pit snakes sense a very small difference in warmth.",
+     "do": "Draw a bar chart of the four distances. Ask your child to say what they thought, what they saw and why. Then explain heat pits.",
+     "say": "Tell me three things. What did you think? What did you see? Why did it happen? A python has pits on her lips that notice warmth. Some snakes with heat pits can sense a very small difference in warmth.",
      "kid": "Draw a bar for each place. Say what you thought, what you saw, and why.",
      "think": "Your skin feels warmth, but a python feels it much more finely. What would she be able to do?",
-     "parent": "After your child's words, say: some snakes have heat pits that react to infrared. An Indian rock python has rows of pits along her lips, and she can find a warm rat in the dark. Measurements on pit vipers have found that they have been reported to respond to changes of about three thousandths of a degree. Cobras do not have pits.",
-     "context": "In this step, you draw your results and meet the heat pit."
+     "parent": "After your child's words, say: some snakes have heat pits that react to infrared. An Indian rock python has rows of pits along her lips, and she can find a warm rat in the dark. Pit vipers have been reported to respond to changes of about three thousandths of a degree. Cobras do not have pits.",
+     "context": "In this step, you draw your results and learn how a snake's heat pit works."
     },
     {
      "id": "s5",
      "mins": 2,
-     "do": "Dry the pots and pour the water down the sink. Wash your hands.",
+     "do": "Pour the water down the sink and dry the pots. Wash your hands.",
      "say": "Well done. Tell me one thing you would like to try with the pots next time.",
      "kid": "Clean up. What would you try next time?",
      "context": "In this step, you clean up and think of another test."
@@ -1434,7 +1434,7 @@
      "title": "24 two-sided cards: a sense clue on the front, and the group and reason on the back",
      "items": [
       {
-       "f": "I feel a ripple along my side from an insect that fell in the water. I cannot see it.",
+       "f": "I feel a ripple along my side from an insect that fell in the water. I cannot see the insect.",
        "b": "Fish. The lateral line is a row of tiny sensors along the side that feel moving water."
       },
       {
@@ -1462,11 +1462,11 @@
        "b": "Mammal. A harbour seal does this with her whiskers."
       },
       {
-       "f": "I can find a fish hiding under sand by the weak electricity of its muscles.",
+       "f": "I can find a fish hiding under sand by the weak electricity of her muscles.",
        "b": "Fish. Sharks and rays have electric sense."
       },
       {
-       "f": "My face is flat and shaped like a heart. It works like a dish to gather sound, and I catch a rat in the dark by hearing it.",
+       "f": "My face is flat and shaped like a heart. It works like a dish to gather sound, and I catch a rat in the dark by hearing him.",
        "b": "Bird. A barn owl can find prey by sound alone."
       },
       {
@@ -1518,7 +1518,7 @@
        "b": "Amphibian. A tadpole feels ripples with a lateral line, like a fish."
       },
       {
-       "f": "I smell carrion from far away, though most of my group smells little.",
+       "f": "I find my food by smell from far away, though most of my group has a weak sense of smell.",
        "b": "Bird. A turkey vulture can find food by smell."
       },
       {
@@ -1590,14 +1590,14 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "A card says: eyes on the sides of the head, nearly all the way round. Why does the back say any group can score?",
+      "q": "A card says: eyes on the sides of the head, seeing nearly all the way round. Why does the back say any group can score?",
       "options": [
        "Because animals in every group can have eyes like that",
        "Because the card is a mistake",
        "Because only fish have side eyes"
       ],
       "a": 0,
-      "why": "Side eyes are common among animals that are hunted, in all five groups. The clue does not point to one group. A player who picks any group is right. Games sometimes have cards that teach by being open."
+      "why": "Side eyes are common among animals that are hunted, in all five groups. The clue does not point to one group. A player who picks any group is right. This card shows that some senses are shared by many groups."
      },
      "context": "In this step, you play the middle of the game and think about hard clues."
     },
@@ -1696,7 +1696,7 @@
        "The mice get tired"
       ],
       "a": 0,
-      "why": "Rustling makes a louder, sharper sound. In the story and in real life, barn owls drop onto a rustling sound even when nothing is there. Dry leaves are an owl's friend and a mouse's problem."
+      "why": "Rustling makes a louder, sharper sound. In the story The Owl in the Granary, and in real life, a barn owl drops onto a rustling sound even when there is no mouse there. Dry leaves help the owl and give the mouse away."
      },
      "context": "In this step, you play the rounds with cupped hands and newspaper."
     },
@@ -1748,7 +1748,7 @@
     {
      "day": 3,
      "mins": 15,
-     "what": "Watch for noises. Make a soft sound behind you and see if the bird turns her head. Write what you learnt."
+     "what": "Make a soft sound behind you and see if the bird turns her head. Write what you learnt."
     }
    ],
    "record": "A notebook with three days of notes. For each day, write what the bird did with her head and eyes, how close you got before she flew away, and what she did when she heard a noise.",
@@ -1771,7 +1771,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "On day 1, put a few grains on a ledge, then sit quietly as far from the ledge as your space allows. On a terrace that is 3 to 4 metres. In a flat, sit behind the window glass. Watch the bird for 10 minutes. Note when she turns her head, which eye faces you, and whether her head bobs forward and back as she walks.",
+     "do": "On day 1, put a few grains on a ledge, then sit quietly as far from the ledge as your space allows. On a terrace, that is 3 to 4 metres away. In a flat, sit behind the window glass. Watch the bird for 10 minutes. Note when she turns her head, which eye faces you, and whether her head bobs forward and back as she walks.",
      "say": "Sit very still and watch the bird. Which eye is she using to look at you? Does her head bob as she walks? Draw what you see.",
      "kid": "Sit still and watch a bird. Which eye looks at you? Draw her head.",
      "ask": [
@@ -1784,7 +1784,7 @@
        ]
       }
      ],
-     "parent": "Birds with side-facing eyes often turn one side towards something to look at it. A pigeon's head bob holds her view steady for a moment between steps. If no bird comes, repeat at another time of day, and early morning is usually best. Roles: with a parent, the parent keeps time and notes, and the child watches. With 2 to 4 children, one watches, one draws, one writes down, and everybody whispers. Share one window, and take turns at the front.",
+     "parent": "Birds with side-facing eyes often turn one side towards something to look at it. A pigeon's head bob holds her view steady for a moment between steps. If no bird comes, try again at another time of day. Early morning is usually best. Roles: with a parent, the parent keeps time and notes, and the child watches. With 2 to 4 children, one watches, one draws, one writes down, and everybody whispers. Share one window, and take turns at the front.",
      "context": "In this step, you watch a bird and notice her eyes and her head movements."
     },
     {
@@ -1906,7 +1906,7 @@
      "do": "Change one thing, such as the size of the opening or the shape. Test again. Write the new distance. Do this once or twice more.",
      "say": "Change just one thing. Test again. Did it help? Change only one thing at a time, so you know what made the difference.",
      "kid": "Change one thing. Test again. Did it help?",
-     "parent": "Only one change at a time is the key idea. If your child changes two things at once, they will not know which one worked.",
+     "parent": "The key idea is to make only one change at a time. If your child changes two things at once, they will not know which one worked.",
      "context": "In this step, you change one thing and test again."
     },
     {
@@ -2039,7 +2039,7 @@
      "t": "truefalse",
      "p": "A dog sees only in black and white.",
      "a": false,
-     "why": "False. Dogs have two kinds of colour cones. They tell blue from yellow, but cannot tell red from green, like some people.",
+     "why": "False. Dogs have two kinds of colour cones. They tell blue from yellow, but cannot tell red from green. Some people cannot tell red from green either.",
      "outcome": 6
     },
     {
@@ -2064,9 +2064,9 @@
     },
     {
      "t": "write",
-     "p": "Revathi says: 'A python in a dark storeroom sees a rat with her eyes.' Explain what is wrong with this idea.",
+     "p": "Someone says: 'A python in a dark storeroom sees a rat with her eyes.' Explain what is wrong with this idea.",
      "lines": 3,
-     "a": "A python does not need light. Her heat pits feel the warmth of the rat. So she can find the rat in the dark without seeing it.",
+     "a": "A python does not need light. Her heat pits feel the warmth of the rat. So she can find the rat in the dark without seeing him.",
      "why": "A strong answer says that the python senses heat, not light, and names the heat pits. Saying 'she smells it' is partly true, since snakes smell with their tongues, but it leaves out the heat pits.",
      "outcome": 2
     },
@@ -2123,7 +2123,7 @@
     },
     {
      "t": "write",
-     "p": "A scientist wants to find out if a fish can feel ripples with her lateral line alone. Why should she make sure the fish cannot see or hear what makes the ripple?",
+     "p": "A scientist wants to find out if a fish can feel ripples with her lateral line alone. Why should the scientist make sure the fish cannot see or hear what makes the ripple?",
      "lines": 3,
      "a": "If the fish could see or hear the ripple, she might turn because of that. The scientist needs to know that only the lateral line did it.",
      "why": "A fair test changes one thing and blocks other explanations. A strong answer says the fish might be using eyes or ears, and these must be ruled out.",
@@ -2276,20 +2276,20 @@
     },
     {
      "t": "perspective",
-     "p": "Meera and Imran watch a python in a dark storeroom find a warm rat.",
+     "p": "A python in a dark storeroom finds a warm rat. Here are two views of how she does it.",
      "views": [
       {
-       "who": "Meera, a girl in Class 4 (an imagined view)",
-       "says": "The storeroom is dark, so for the python the rat is hidden. She finds it only by luck."
+       "who": "First view",
+       "says": "The storeroom is dark, so for the python the rat is hidden. She finds the rat only by luck."
       },
       {
-       "who": "Imran, a boy in Class 4 (an imagined view)",
+       "who": "Second view",
        "says": "The rat is not hidden to the python. She feels the rat's warmth, so the python lives in a different world from ours."
       }
      ],
      "ask": "Whose view do you agree with more? What could you test to find out?",
      "a": "Answers vary. A strong answer picks a side, gives a reason and names a test. For example, cover the python's eyes and see if she still strikes at a warm target but not a cool one.",
-     "why": "Imran's view fits the evidence from snakes with covered eyes. A good test removes one sense at a time and checks the result.",
+     "why": "The second view fits the evidence from snakes with covered eyes. A good test removes one sense at a time and checks the result.",
      "outcome": 6
     },
     {
@@ -2376,7 +2376,7 @@
     },
     {
      "t": "count",
-     "p": "A child is blindfolded and keeps both hands still in water. She says the side of a ripple correctly 9, 7 and 5 times out of 10 at 5, 10 and 20 centimetres. Guessing gives about 5. At how many centimetres is her score the same as guessing?",
+     "p": "In the Ripple Skin test, a blindfolded child keeps both hands still in water and says which side each ripple came from. She is right 9 times out of 10 at 5 centimetres, 7 times at 10 centimetres and 5 times at 20 centimetres. Guessing gives about 5 out of 10. At how many centimetres is her score the same as guessing?",
      "how": "e2",
      "a": "20",
      "why": "At 5 centimetres she is right 9 times and at 10 centimetres 7 times, both more than 5. At 20 centimetres she scores 5, the same as guessing, so her skin could not feel the ripple that far away.",
@@ -2389,7 +2389,7 @@
       "Strike at either, because both are warm",
       "Ignore both",
       "Strike only at the bottle",
-      "Strike only at the rat because she can see it"
+      "Strike only at the rat because she can see the rat"
      ],
      "a": 0,
      "why": "Heat pits sense warmth, not whether the warm thing is food. In the dark, either one can fool her. This is why the experiments with warm targets work.",
@@ -2442,19 +2442,19 @@
     },
     {
      "t": "perspective",
-     "p": "Asha and Karthik are talking about a tick on a branch. The tick reacts only to sweat smell, to body warmth and to hairy skin.",
+     "p": "A tick on a branch reacts only to sweat smell, to body warmth and to hairy skin. Here are two views of what that means.",
      "views": [
       {
-       "who": "Asha, a girl in Class 4 (an imagined view)",
+       "who": "First view",
        "says": "A tick and a person live in different worlds, because they notice very different things."
       },
       {
-       "who": "Karthik, a boy in Class 4 (an imagined view)",
+       "who": "Second view",
        "says": "There is one world. The tick and the person each notice a small part of it."
       }
      ],
      "ask": "Whose view do you agree with more? What would count as evidence?",
-     "a": "Answers vary. A strong answer picks a side and gives a reason. Asha's view is the idea of Jakob von Uexküll. Karthik's is a view held by many scientists today.",
+     "a": "Answers vary. A strong answer picks a side and gives a reason. The first view is the idea of Jakob von Uexküll. The second is a view held by many scientists today.",
      "why": "Both views fit the facts. They differ in what 'world' means. This is a real debate, and nobody has settled it.",
      "outcome": 6
     },
@@ -2653,7 +2653,7 @@
     "She sees ultraviolet light"
    ],
    "a": 0,
-   "why": "Barn owls can find a rat in complete darkness using sound alone. Her flat face works like a dish that gathers sound.",
+   "why": "A barn owl can find a rat in complete darkness using sound alone. Her flat face works like a dish that gathers sound.",
    "outcome": 4
   },
   {
@@ -2933,9 +2933,9 @@
   {
    "problem": "Suppose a small bat catches 600 insects in a night. This is a made-up number for practice. About how many does she catch in a week of 7 nights? In 30 nights?",
    "answer": "About 4,200 in a week, and about 18,000 in 30 nights.",
-   "explain": "600 times 7 is 4,200. 600 times 30 is 18,000. This is a made-up number, because real bats catch different amounts each night.",
+   "explain": "600 times 7 is 4,200. 600 times 30 is 18,000. The 600 is a made-up number. Real bats catch different amounts each night.",
    "math_unit": "math.multiplication.multi-digit.L4",
-   "why_maths": "Multiplying a small number by many nights shows how much a bat's senses are worth over time."
+   "why_maths": "Multiplying a small number by many nights shows how many insects a bat's senses help her catch over time."
   }
  ],
  "song": {
@@ -3116,5 +3116,5 @@
   ]
  },
  "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Wide View, Deep View: the clock circle needs a clear floor of about 3 metres, and most people first see the moving card around 3 or 4 on the clock. With the right eye covered the card appears later, because the nose gets in the way. Pen touch scores depend on the child, so the steps say to write what you get. The pen must be capped. Ripple Skin: the basin should be at least 60 centimetres long (or use 5, 10 and 15 centimetres in a smaller one), the water still before every ripple, and the ears covered, or the splash sound gives the answer away. A score near 5 out of 10 at 20 centimetres is a real result and not a failure. Cup Your Ears: needs a quiet room and a soft tick, and the clock volume must be turned down so that it is only just audible at 1 metre. Warm Spot Finder: the adult checks the water first, and it must feel comfortably hot and never scalding, and the pots stay at least 2 centimetres from the skin, so warmth is usually felt only within a few centimetres. Nose Trail: use only safe, mild smells, with the room aired. Window Watch needs a window, balcony or terrace where birds come, so it is outside the core path. Whose World? has 24 cards and the back of each begins with all the groups that fit, so more than one token can score. Facts to check before the unit goes live: the field of view figures for the pigeon (about 340 degrees), person (about 200) and owl (about 110), which vary by source and method; the 2005 Eaton ultraviolet finding; the Newman and Hartline snake experiments; the year and place of Katy Payne's first elephant observations (1984, Portland, Oregon); the Indian rock python lip pits and the absence of pits in cobras; that dogs have many tens of times more smell receptors than people; the 2015 cavefish energy study; and the three videos, which have no address yet.",
- "warm": {"words": ["SENSE", "SMELL", "SOUND", "LIGHT", "TASTE"], "quiz": [["A sense is a way to pick up one kind of signal, such as light or sound.", true, "Tiny receptors react to one signal and send a message to the brain."], ["Bats are blind, so they find their way by sound alone.", false, "All bats can see. Many also use echoes, and fruit bats find fruit with eyes and nose."], ["A fish feels moving water with a line of tiny sensors along her sides.", true, "Hairs in the lateral line bend when water moves past and send a message to the brain."], ["A snake stings with her tongue.", false, "Her tongue is soft and carries scent into her mouth. She bites with her teeth."], ["Eyes at the front of the head help an animal judge how far away something is.", true, "Both eyes see the same space, so the brain can compare the two views."], ["Dogs see only in black and white.", false, "Dogs have two kinds of colour cones, so they tell blue from yellow but not red from green."], ["Most birds can see colours that people cannot, including ultraviolet light.", true, "Most birds have four kinds of colour cones in their eyes; people have three."], ["An owl can turn her head a full circle.", false, "She turns about three-quarters of the way round, helped by extra neck bones."], ["Some snakes can sense a warm rat in the dark with pits on their faces.", true, "The heat pits feel infrared, the heat that warm bodies give off."], ["An animal would be better off if she could sense everything.", false, "Senses use a lot of energy, so a body wastes food on senses it hardly needs."]], "odd": [[["Infrared heat", "Ultraviolet light", "Infrasound", "Red light"], "Red light", "People cannot sense infrared, ultraviolet or infrasound; people can see red light."], [["Bat", "Dolphin", "Cave swiftlet", "Pigeon"], "Pigeon", "Bats, dolphins and cave swiftlets find their way by echolocation; a pigeon mainly uses sharp eyes."], [["Tiger", "Owl", "Eagle", "Deer"], "Deer", "Tigers, owls and eagles are hunters with eyes at the front; a deer has eyes at the sides for a wide view."], [["Frog", "Crow", "Cat", "Rohu"], "Rohu", "Frogs, crows and cats hear with an eardrum; a rohu feels water with her lateral line instead."], [["Python", "Boa", "Pit viper", "Cobra"], "Cobra", "Pythons, boas and pit vipers have heat pits on their faces; a cobra does not."]]}
+ "warm": {"words": ["SENSE", "SMELL", "SOUND", "LIGHT", "TASTE"], "quiz": [["A sense is a way to pick up one kind of signal, such as light or sound.", true, "Tiny receptors react to one signal and send a message to the brain."], ["Bats are blind, so they find their way by sound alone.", false, "All bats can see. Many also use echoes, and fruit bats find fruit with eyes and nose."], ["A fish feels moving water with a line of tiny sensors along her sides.", true, "Hairs in the lateral line bend when water moves past and send a message to the brain."], ["A snake stings with her tongue.", false, "Her tongue is soft and carries scent into her mouth. She bites with her teeth."], ["Eyes at the front of the head help an animal judge how far away something is.", true, "Both eyes see the same space, so the brain can compare the two views."], ["Dogs see only in black and white.", false, "Dogs have two kinds of colour cones, so they tell blue from yellow but not red from green."], ["Most birds can see colours that people cannot, including ultraviolet light.", true, "Most birds have four kinds of colour cones in their eyes; people have three."], ["An owl can turn her head a full circle.", false, "She turns about three-quarters of the way round, helped by extra neck bones."], ["Some snakes can sense a warm rat in the dark with pits on their faces.", true, "The heat pits feel infrared, the heat that warm bodies give off."], ["An animal would be better off if she could sense everything.", false, "Senses use a lot of energy, so a body that keeps senses it hardly needs wastes food."]], "odd": [[["Infrared heat", "Ultraviolet light", "Infrasound", "Red light"], "Red light", "People cannot sense infrared, ultraviolet or infrasound; people can see red light."], [["Bat", "Dolphin", "Cave swiftlet", "Pigeon"], "Pigeon", "Bats, dolphins and cave swiftlets find their way by echolocation; a pigeon mainly uses sharp eyes."], [["Tiger", "Owl", "Eagle", "Deer"], "Deer", "Tigers, owls and eagles are hunters with eyes at the front; a deer has eyes at the sides for a wide view."], [["Frog", "Crow", "Cat", "Rohu"], "Rohu", "Frogs, crows and cats hear with an eardrum; a rohu feels water with her lateral line instead."], [["Python", "Boa", "Pit viper", "Cobra"], "Cobra", "Pythons, boas and pit vipers have heat pits on their faces; a cobra does not."]]}
 }

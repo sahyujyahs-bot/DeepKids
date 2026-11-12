@@ -8,7 +8,7 @@
   },
   "intro": {
     "hook": "Spread your fingers wide and look at the gaps between them. Before you were born, there were no gaps. Your hand was a flat paddle, like a tiny oar. What made the gaps?",
-    "text": "Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this unit you find out how a body is built from one cell. You test how cells can learn where they are, from a signal that fades with distance. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.",
+    "text": "Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this unit you find out how a body is built from one cell. You test how a signal that fades with distance can tell cells where they are. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.",
     "art": "A child's open hand beside a drawing of a tiny embryo hand shaped like a flat paddle with faint finger lines."
   },
   "outcomes": [
@@ -131,7 +131,7 @@
       "concept": "The same instructions in every cell",
       "status": "defined",
       "definition": "Nearly every cell in your body holds a full copy of your DNA, and each kind of cell reads only some of the genes.",
-      "description": "You began as one cell. That cell split in two, and each new cell got a full copy of the DNA. They split again, and again, and copied the DNA each time. Today you have about 30 trillion cells, and almost all hold the same set of about 20,000 genes. A gene is one instruction, usually for making one kind of protein. A skin cell uses the genes for skin proteins. A red blood cell uses the genes for haemoglobin. The other genes stay switched off, like pages in a cookbook that a cook does not open today. One surprising proof comes from frogs. In 1962 John Gurdon took the nucleus, which holds the DNA, from a cell in a tadpole's gut. He put it into a frog's egg cell whose own nucleus he had removed. A few of these eggs grew into healthy tadpoles, and later work made frogs. So the gut cell still held every instruction.",
+      "description": "You began as one cell. That cell split in two, and each new cell got a full copy of the DNA. They split again, and again, and copied the DNA each time. Today you have about 30 trillion cells, and almost all hold the same set of about 20,000 genes. A gene is one instruction, usually for making one kind of protein. A skin cell uses the genes for skin proteins. A red blood cell uses the genes for haemoglobin. The other genes stay switched off, like pages in a cookbook that a cook does not open today. One surprising proof comes from frogs. In 1962 John Gurdon took the nucleus, which holds the DNA, from a cell in a tadpole's gut. He put it into a frog's egg cell whose own nucleus he had removed. A few of these eggs grew into healthy tadpoles, and in later work some grew into frogs. So the gut cell still held every instruction.",
       "examples": [
         "A hair cell and a bone cell in the same person hold the same genes but use different ones.",
         "A cloned animal such as Dolly the sheep (1996) grew from DNA taken from a cell in an adult's udder.",
@@ -157,7 +157,7 @@
       "concept": "A signal that fades with distance tells cells where they are",
       "status": "defined",
       "definition": "In a growing embryo, some cells send out a chemical signal that spreads and gets weaker with distance, and nearby cells take different jobs depending on how much of it reaches them.",
-      "description": "A body needs the right cells in the right places. A cell cannot see or measure. But a cell can sense a chemical. In 1969 the British scientist Lewis Wolpert had an idea. Suppose a small group of cells sends out a signal. Cells close by get a lot of it, cells farther away get less, and cells far away get almost none. Cells could read the amount, and each would know their distance from the source. Many scientists have since found signals that work in this way. In 1988 Christiane Nüsslein-Volhard and her team found one in a fruit fly egg, which tells the front of the baby fly from the back. Signals like this have been found in mice, chicks, fish and people. In humans, a signal called Sonic hedgehog helps to set the order of the nerve cells in the spine. Most of the detailed work was done on flies, frogs, chicks and mice, because their embryos are easy to study.",
+      "description": "A body needs the right cells in the right places. A cell cannot see or measure. But a cell can sense a chemical. In 1969 the British scientist Lewis Wolpert had an idea. Suppose a small group of cells sends out a signal. Cells close by get a lot of it, cells farther away get less, and cells far away get almost none. Cells could read the amount, and each would know their distance from the source. Many scientists have since found signals that work in this way. In 1988 Christiane Nüsslein-Volhard and her team found one in a fruit fly egg. It marks which end will be the front of the baby fly and which end will be the back. Signals like this have been found in mice, chicks, fish and people. In humans, a signal called Sonic hedgehog helps to set the order of the nerve cells in the spine. Most of the detailed work was done on flies, frogs, chicks and mice, because their embryos are easy to study.",
       "examples": [
         "A paper strip dipped in dye at one end is dark near the dye and pale far from it, so the colour tells you the distance.",
         "In the spinal cord, cells close to the signal become one type of nerve cell and cells far away become another.",
@@ -167,7 +167,7 @@
       "perspectives": []
     },
     {
-      "concept": "Early cells can change their minds: identical twins",
+      "concept": "Early cells are not yet fixed on a job: identical twins",
       "status": "defined",
       "definition": "Early in a baby's growth, cells have not yet settled on their jobs, so a ball of cells can split and each half can make a whole baby.",
       "description": "In 1891 the German scientist Hans Driesch shook apart the two cells of a sea urchin egg that had just divided. Each cell grew into a whole tiny sea urchin. Cells from the early ball are not fixed on being a left half or a right half. They follow what the cells around them are doing. Identical twins are the same idea in people. Very early on, the ball of cells splits in two, and each half builds a whole baby. Twins from one ball have the same genes. Non-identical twins come from two separate egg cells. They are as alike as any brother and sister. Later, cells do settle on their jobs. Cells from an older embryo that are moved keep the job they had, and do not take on the job of their new neighbours.",
@@ -183,7 +183,7 @@
       "concept": "Building by taking away: cells that die on purpose",
       "status": "defined",
       "definition": "Programmed cell death is when cells receive a signal and take themselves apart, safely, as part of building a body.",
-      "description": "Building a body is not only adding. Sometimes it is carving. Your hand began as a flat paddle. Around week six after you began, signals told the cells between the finger lines to die. By week eight your fingers were separate. The cells did not burst. They folded themselves up and were cleared away by neighbouring cells. A chick has separate toes, and the cells between the toes die. A duck has webbed feet, and in a duck most of those cells stay alive. A tadpole's tail also goes by cell death when the tadpole grows into a frog. Cell death does not stop after birth. Every day, your body removes tens of billions of old or worn cells, and stem cells make new ones to replace them. In 1972 John Kerr, Andrew Wyllie and Alastair Currie gave it the name apoptosis. In a few babies, some cells between fingers do not die. Then two fingers stay joined, and a small operation can separate them.",
+      "description": "Building a body is not only adding. Sometimes it is carving. Your hand began as a flat paddle. About six weeks after you began as one cell, signals told the cells between the finger lines to die. By week eight your fingers were separate. The cells did not burst. They folded themselves up and were cleared away by neighbouring cells. A chick has separate toes, because the cells between the toes die. A duck has webbed feet, because in a duck most of those cells stay alive. A tadpole's tail also disappears through cell death when the tadpole grows into a frog. Cell death does not stop after birth. Every day, your body removes tens of billions of old or worn cells, and stem cells make new ones to replace them. In 1972 John Kerr, Andrew Wyllie and Alastair Currie gave programmed cell death the name apoptosis. In a few babies, some cells between fingers do not die. Then two fingers stay joined, and a small operation can separate them.",
       "examples": [
         "Cells between your fingers and toes died before you were born.",
         "A tadpole's tail disappears as the frog grows.",
@@ -196,7 +196,7 @@
       "concept": "The placenta: where two bloodstreams meet",
       "status": "defined",
       "definition": "The placenta is an organ that grows in the womb. Blood from the mother and blood from the baby flow close together inside it, separated by a very thin wall.",
-      "description": "A baby floating in water cannot breathe air or eat. The placenta does both jobs for them. The mother's blood flows through small pools inside the placenta. Inside the pools stand thousands of finger-like branches, which are full of the baby's blood. The cord carries blood between the baby and the placenta. The wall between the two bloodstreams is thinner than a hair, so oxygen and food pass through, and waste carbon dioxide passes back. Mother's blood and baby's blood do not mix. A baby can have a different blood group from their mother. The branches give the placenta a huge surface. Measurements differ, but one often-quoted estimate is about 12 square metres, about the floor of a small room, which is why exchange is fast. The baby's own cells build the placenta, from the outer layer of the early ball of cells. The placenta also makes hormones and passes antibodies from the mother. Some harmful things can cross too, such as alcohol and some germs. That is why doctors advise pregnant women about medicines and what to avoid.",
+      "description": "A baby floating in water cannot breathe air or eat. The placenta does both jobs for them. The mother's blood flows through small pools inside the placenta. Inside the pools stand thousands of finger-like branches, which are full of the baby's blood. The cord carries blood between the baby and the placenta. The wall between the two bloodstreams is thinner than a hair, so oxygen and food pass through, and waste carbon dioxide passes back. Mother's blood and baby's blood do not mix. A baby can have a different blood group from their mother. The branches give the placenta a huge surface, so oxygen and food cross quickly. Measurements differ, but one often-quoted estimate is about 12 square metres, about the floor of a small room. The baby's own cells build the placenta, from the outer layer of the early ball of cells. The placenta also makes hormones and passes antibodies from the mother. Some harmful things can cross too, such as alcohol and some germs. That is why doctors advise pregnant women about medicines and what to avoid.",
       "examples": [
         "Oxygen flows from the mother's blood to the baby's blood, because the baby's blood holds oxygen more tightly.",
         "Sugar and other food molecules cross the thin wall into the baby's blood.",
@@ -209,7 +209,7 @@
       "concept": "The first breath: how the body switches over",
       "status": "defined",
       "definition": "At birth, the lungs fill with air for the first time, blood begins to flow through them, and the small shortcuts in the baby's heart and blood vessels close.",
-      "description": "Before birth, a baby's lungs are filled with fluid and do not breathe air. Most of the baby's blood skips the lungs. It crosses through two small shortcuts in the heart and a nearby vessel. At birth, the squeezing of the journey helps push fluid out of the lungs. The baby cries, and breathes in. Air opens the lungs, and blood starts to pour through them. The pressure changes shut the shortcuts within days. The cord is no longer needed. Over the first six months, the baby also swaps the haemoglobin they made before birth for adult haemoglobin. The belly button is where the cord was.",
+      "description": "Before birth, a baby's lungs are filled with fluid and do not breathe air. Most of the baby's blood skips the lungs. It takes two small shortcuts, in the heart and in a blood vessel near it. During birth, the baby is squeezed on the way out, and this helps push fluid out of the lungs. The baby cries, and breathes in. Air opens the lungs, and blood starts to pour through them. The change in pressure shuts the shortcuts within days. The cord is no longer needed. The belly button is where the cord was. Over the first six months, the baby also swaps the haemoglobin they made before birth for adult haemoglobin.",
       "examples": [
         "A baby's first cry is also the first time their lungs fill with air.",
         "A premature baby may need extra oxygen, because the lungs are not yet ready for air.",
@@ -224,7 +224,7 @@
       "definition": "A child grows quickly in the first two years, more slowly through middle childhood, and then quickly again in a growth spurt in the early teens.",
       "description": "A healthy baby grows about 25 centimetres in their first year, from about 50 to about 75 centimetres. In the second year they grow about 12 centimetres more. From age three until the teens, a child grows around five to six centimetres a year. Then comes a spurt, when the body can grow eight to ten centimetres in one year. Girls usually have the spurt earlier than boys. Long bones grow longer at their growth plates, the layers of cartilage near each end. Cartilage cells multiply and the new cartilage turns to bone. When growing ends, in the late teens, the growth plates close. In 2006 the World Health Organization published growth charts made from well-fed, well-cared-for children in six countries, Brazil, Ghana, India, Norway, Oman and the United States. The children grew in almost the same way. That shows that growth depends much more on food, care and health than on where a child lives.",
       "examples": [
-        "A baby's length grows about 11 centimetres in the first three months and about 4 centimetres in the three months after the ninth month.",
+        "A baby grows about 11 centimetres longer in the first three months, and only about 4 centimetres longer between 9 and 12 months.",
         "A child of seven grows slowly but steadily, a few centimetres a year.",
         "Many teenagers grow faster than at any time since they were babies."
       ],
@@ -248,7 +248,7 @@
       "concept": "The brain: born with more connections than we keep",
       "status": "defined",
       "definition": "A young child's brain makes many more connections between nerve cells than it keeps. Connections that are used get stronger, and connections that are not used fade.",
-      "description": "A newborn already has most of the roughly 86 billion nerve cells they will ever have. The brain weighs about a quarter to a third of an adult brain. By age three it is about four-fifths of the adult size, and by age five about nine-tenths. In those years, the number of synapses shoots up. In 1979 the neurologist Peter Huttenlocher counted synapses in brains and found that a young child has far more than an adult. Then the brain prunes. Synapses that are used often are made stronger. Synapses that are not used are removed. This is how practice works. When you practise a skill, you make particular connections stronger, and the skill gets faster and easier. London taxi drivers, who must learn the whole city, were found in 2000 to have a larger back part of the hippocampus, a part used for finding the way, than other adults. A brain is shaped by what it does.",
+      "description": "A newborn already has most of the roughly 86 billion nerve cells they will ever have. A newborn's brain weighs about a quarter to a third of an adult brain. By age three it is about four-fifths of the adult size, and by age five about nine-tenths. In those years, the number of synapses shoots up. In 1979 the neurologist Peter Huttenlocher counted synapses in brains and found that a young child has far more than an adult. Then the brain prunes, which means it cuts back. Synapses that are used often are made stronger. Synapses that are not used are removed. This is how practice works. When you practise a skill, you make particular connections stronger, and the skill gets faster and easier. London taxi drivers must learn the whole city. A study in 2000 found that the back part of their hippocampus, a part of the brain used for finding the way, was larger than in other adults. A brain is shaped by what it does.",
       "examples": [
         "A baby who hears two languages keeps the sounds of both.",
         "A skill such as riding a cycle feels hard at first, and then your connections strengthen and it feels easy.",
@@ -261,7 +261,7 @@
       "concept": "What shapes a person: genes, surroundings, or both?",
       "status": "debated",
       "definition": "",
-      "description": "Genes give the instructions, but a baby's surroundings change how the instructions are used. Scientists agree on this. They argue about how much each counts, and about how. In the winter of 1944 to 1945 the Netherlands had a famine called the Hunger Winter. Babies whose mothers were hungry in early pregnancy grew up with more health problems as adults, even though their genes were the same as their brothers' and sisters'. Scientists still debate exactly how the hunger left its mark.",
+      "description": "Genes give the instructions, but a baby's surroundings change how the instructions are used. Scientists agree on this. They argue about how much each one counts, and about how the surroundings make their mark. In the winter of 1944 to 1945 the Netherlands had a famine called the Hunger Winter. Babies whose mothers were hungry in early pregnancy grew up with more health problems as adults, even though their genes were the same as their brothers' and sisters'. Scientists still debate exactly how the hunger left its mark.",
       "examples": [
         "Identical twins have the same genes but are not the same.",
         "A well-fed, well-cared-for child grows taller than the same child would with too little food.",
@@ -291,7 +291,7 @@
     },
     {
       "text": "Cells in an embryo find their jobs from signals sent by their neighbours.",
-      "evidence": "In work published in 1924, Hilde Mangold and Hans Spemann moved a small piece of newt embryo and the neighbouring cells began to build a second body. Since then, signals have been found in many animals."
+      "evidence": "In work published in 1924, Hilde Mangold and Hans Spemann moved a small piece of one newt embryo onto another, and the cells around the piece began to build a second body. Since then, signals have been found in many animals."
     },
     {
       "text": "Cells die on purpose during growth, and this shapes the body.",
@@ -306,7 +306,7 @@
       "evidence": "The World Health Organization measured about 8,000 children in Brazil, Ghana, India, Norway, Oman and the United States, and published the growth standards in 2006."
     },
     {
-      "text": "Practice makes some connections in the brain stronger and unused ones fade.",
+      "text": "Practice makes the connections you use in the brain stronger, and the ones you do not use fade.",
       "evidence": "Studies of the brains of young children and other young animals show that connections are most numerous early in life and are then pruned by use."
     }
   ],
@@ -327,7 +327,7 @@
     },
     {
       "claim": "The placenta is only a pipe that passes the mother's food to the baby.",
-      "who": "A common simple picture.",
+      "who": "A common idea that is too simple.",
       "for": "Food and oxygen do pass from the mother to the baby through the placenta.",
       "against": "The placenta is also built by the baby's cells. It makes hormones, passes antibodies, removes the baby's waste, and keeps the two bloodstreams apart. It is an organ with several jobs, and not a pipe.",
       "status": "rejected"
@@ -351,12 +351,12 @@
     {
       "q": "If every cell holds the same instructions, what makes a nerve cell different from a skin cell?",
       "kind": "deep",
-      "hint": "Think about the instructions, and about who or what each cell sits next to."
+      "hint": "Think about the instructions, and about which cells each cell sits next to."
     },
     {
       "q": "Are cells what they are because of what is inside them, or because of where they are?",
       "kind": "deep",
-      "hint": "Remember what happened to piece 1 of the paper strip when the dye went in at the other end."
+      "hint": "In the Colour Map test, piece 1 of the paper strip was dark when the dye went in at its own end, and pale when the dye went in at the other end."
     },
     {
       "q": "If cells die on purpose so that you can have fingers, is dying a part of living?",
@@ -364,24 +364,24 @@
       "hint": "Think about the tadpole's tail, a leaf falling, and the skin you lose every day."
     },
     {
-      "q": "Before birth, the mother and the baby are fed through one meeting place. Are they one body, or two?",
+      "q": "Before birth, a baby gets oxygen and food from the mother through the placenta. Are the mother and the baby one body, or two?",
       "kind": "big",
       "hint": "Their blood does not mix, but oxygen and food cross between them."
     },
     {
-      "q": "A body is built with no builder standing outside it. Cells talk to cells, and a body appears. Who or what is making you?",
+      "q": "Nobody stands outside a body and builds it. Cells send signals to cells, and a body forms. So who or what is making you?",
       "kind": "deep",
       "hint": "Think about the signals, the instructions, the mother's food, and the cells themselves."
     },
     {
-      "q": "Is a baby born ready, or made by what happens to them?",
+      "q": "Is a baby born ready-made, or shaped by what happens to them?",
       "kind": "big",
       "hint": "Think about a newborn's brain, which has many more connections than an adult's."
     },
     {
       "q": "Why does growing slow down? What would a person be like if growth never stopped?",
       "kind": "deep",
-      "hint": "Think about the growth plates, and about how tall a person could stand."
+      "hint": "Think about the growth plates, and about how a very tall body would manage to stand."
     },
     {
       "q": "Early cells take on the job of their new neighbours. Later cells keep their old job. Do people change in a similar way as they grow up?",
@@ -430,21 +430,21 @@
   "roots": {
     "context": "We have followed how one cell becomes a whole body, and how cells find their jobs. Now we ask what this says about who builds a body, and who we are.",
     "deep_truth": {
-      "truth": "Nearly every cell in your body holds the same instructions. Yet one becomes bone and another becomes skin, depending on where each one sits. A signal fades with distance, so cells can tell their place from how much has reached them. Cells get their jobs from their neighbours, not from a stamp inside.",
+      "truth": "Nearly every cell in your body holds the same instructions. Yet one becomes bone and another becomes skin, depending on where each one sits. A signal fades with distance, so cells can tell their place from how much has reached them. Cells get their jobs from their neighbours, not from a label they carry inside.",
       "habit": "We picture a body as built from a blueprint, with every part given out in advance, and we picture cells as carrying their own labels, such as 'I am a nerve cell'. But in an early embryo, the job depends on the place and the neighbours.",
       "evidence": "In the Colour Map test, the same spot on a paper strip came out dark when the dye went in at one end, and pale when it went in at the other. In work published in 1924, Hilde Mangold moved a small piece of newt embryo and the cells around it started to build a second body. The paper is only a model, but the two results point the same way."
     },
     "three": {
       "who_am_i": "You are a community of about 30 trillion cells that hold the same instructions, and each cell found their job by listening to their neighbours.",
-      "what_is_life": "A living body builds itself. Cells talk to cells, with no builder standing outside, and a hand, a heart and a brain appear.",
-      "what_is_this_world": "A pattern can come from one smooth change, like a colour fading along a strip, and nobody has to draw each part."
+      "what_is_life": "A living body builds itself. Nobody outside builds it. Cells send signals to cells, and a hand, a heart and a brain form.",
+      "what_is_this_world": "A pattern can come from one smooth change, like the dye fading along the paper strip in the Colour Map test. Nobody has to draw each part."
     },
-    "thread": "One cell holds all the instructions. It splits, and the new cells hold them too. Then, with the help of signals, one set of instructions becomes more than 200 kinds of cell, in the right places. The One turns into the many without anything leaving the whole. Cells that began as one remain connected by the signals they pass. The fingers, the heart and the brain are all one growing thing, made of one family of cells.",
+    "thread": "One cell holds all the instructions. It splits, and the new cells hold them too. Then, with the help of signals, one set of instructions becomes more than 200 kinds of cell, in the right places. One cell becomes many cells, and all of them stay part of one body. The cells stay connected by the signals they pass to each other. The fingers, the heart and the brain are all one growing thing, made of one family of cells.",
     "teachings": [
       {
         "source": "Chandogya Upanishad 6.12",
         "teaching": "A father, Uddalaka, asks his son Shvetaketu to break open a fruit of the banyan tree, and then to break open one of its tiny seeds. 'What do you see?' 'Nothing, sir.' The father says that from this unseen essence, a great banyan tree grows.",
-        "link": "A fertilised egg is too small to see, and no tree or body is visible inside it. Yet it holds the instructions for a whole person. Something unseen carries everything that will grow."
+        "link": "A fertilised egg is too small to see, and nothing inside it looks like a body. Yet it holds the instructions for a whole person. Like the banyan seed, something unseen carries everything that will grow."
       },
       {
         "source": "Tao Te Ching 42",
@@ -478,8 +478,8 @@
       "kid": "Hold your palms facing each other. Feel the warmth between them. Slowly move them apart. Where does the warmth fade? Bring them back."
     },
     "ask": [
-      "If cells get their jobs from their neighbours, are they still the same cells they were before?",
-      "Where in you does 'you' get decided: inside each cell, or between the cells?",
+      "A cell takes a job because of signals from their neighbours. Is the cell still the same cell they were before?",
+      "What makes you who you are: what is inside each cell, or the signals that pass between the cells?",
       "Two cells hold the same instructions, and become different. What made them different?"
     ],
     "art": "A cluster of cells with warm glows passing between neighbours, one cell at the centre lit brightest and the others shaded by distance, over a faint outline of a child's hand."
@@ -607,10 +607,10 @@
       ],
       "rules": [
         "The goal is to place cards in the right order on a timeline. The timeline runs from the earliest event on the left to the latest on the right.",
-        "Turn the whole pile over. Take the top card and place it face-up in the middle of the table, with its back (the time) showing. This is the start of the timeline.",
+        "Put the pile on the table with the fronts (the events) facing up. Take the top card and place it in the middle of the table with its back (the time) showing. This is the start of the timeline.",
         "On your turn, take the top card from the pile. Read the front aloud. Do not look at the back.",
-        "Place it face-up in the timeline where you think it belongs. It can go to the left of the line, between two cards, or to the right. Cards in the line show their back.",
-        "Turn your card over to show its back, and look at the times. If your card sits in a correct place, between a card that is earlier or at the same time and a card that is later or at the same time, it stays in the line, and you score one point.",
+        "Place it in the timeline where you think it belongs, with its front still showing. It can go to the left of the line, between two cards, or to the right. The cards already in the line show their backs (the times).",
+        "Turn your card over to show its back, and look at the times. Your card is in the right place if the card on its left is earlier or at the same time, and the card on its right is later or at the same time. Then it stays in the line, and you score one point.",
         "If it is in the wrong place, move it to the right place, and score no points. Where times are about equal, either order is fine.",
         "The game ends when the pile is empty. The player with the most points wins. If you play alone, count your points out of 21. Try to beat your own score next time.",
         "Babies differ. The times on the cards are typical times, and a healthy baby can be a few weeks or months earlier or later."
@@ -641,7 +641,7 @@
               ]
             }
           ],
-          "parent": "The first nine cards happen before birth. Most children are surprised by how early the heart begins to beat, at about three weeks. Check any 'week' against the back of the card.",
+          "parent": "The first nine cards happen before birth. Most children are surprised by how early the heart begins to beat, at about three weeks. If you are not sure of a week, check the back of the card.",
           "context": "In this step, you play the first turns and learn how the line works."
         },
         {
@@ -676,7 +676,7 @@
           "do": "Read the whole timeline aloud, from left to right. Ask your child where growth was fastest and which card they would change.",
           "say": "Read the timeline from the start to the end. Where do many things happen close together? Where are the long gaps?",
           "kid": "Read the timeline. Where do many things happen close together? Where are the long gaps?",
-          "parent": "Many events are crowded in the first eight weeks, when the main parts of the body are laid down. After that, they mostly grow and learn. The long gaps later show that learning to move and speak takes much longer than building the body.",
+          "parent": "Many events are crowded in the first eight weeks, when the main parts of the body are laid down. After that, the baby mostly grows and learns. The long gaps later show that learning to move and speak takes much longer than building the body.",
           "think": "Most of the building of the body happens in the first eight weeks. Why do you think it takes years to learn to run?",
           "context": "This is the last step of Timeline Detective. You look back at the whole line."
         }
@@ -689,9 +689,9 @@
       "title": "Colour Map: how can cells know where they are?",
       "mins": 47,
       "days": 1,
-      "question": "A strip of paper is dipped in dye at one end. Can you tell where you are on the strip just from the colour? And what happens to each piece's 'job' if the dye goes in at the other end?",
+      "question": "A strip of paper is dipped in dye at one end. Can you tell where you are on the strip just from the colour? Each piece of the strip gets a made-up job from its colour. Does a piece's job change if the dye goes in at the other end?",
       "predict": "Before you start, guess. After the dye has travelled along the strip, will the colour be the same all along, or different? What will happen if the dye goes in at the other end? Why do you think so?",
-      "fair_test": "Both strips are cut from the same paper towel. They have the same width and length. Each has the same dye, the same depth of dye in the same kind of katori, and the same time. Only the end that touches the dye is different. So any difference between the two strips comes from which end got the dye.",
+      "fair_test": "Both strips are cut from the same paper towel. They have the same width and length. Each strip dips into the same dye, at the same depth, in the same kind of katori, for the same time. Only the end that touches the dye is different. So any difference between the two strips comes from which end got the dye.",
       "results_table": [
         "Piece (counted from the left)",
         "Strip A, dye at the left: colour",
@@ -773,13 +773,13 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye. One child with a parent: the child does everything and the parent times and writes the guess. Two to four children: pairs share one strip A and one strip B, so make one pair of strips and two katoris for each pair. In each pair one child watches the dye front and calls the lift, and the other child handles the strip. Then swap for the colour and jobs table. Compare all the pairs' results at the end.",
+          "parent": "Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye. One child with a parent: the child does everything and the parent times and writes the guess. Two to four children: pairs share one strip A and one strip B, so make one pair of strips and two katoris for each pair. In each pair one child watches the front edge of the dye and says when to lift the strip, and the other child handles the strip. Then they swap roles to fill in the table of colours and jobs. Compare all the pairs' results at the end.",
           "context": "This is the first step of the Colour Map test. You guess before you test."
         },
         {
           "id": "s2",
           "mins": 8,
-          "do": "Cut two strips, each 3 centimetres wide and 18 centimetres long. Draw five pencil lines across each strip, 3 centimetres apart, to make six pieces. Number the pieces 1 to 6 from the left, on both strips. Stir 5 drops of colour into each katori. Draw the pencil lines lightly.",
+          "do": "Cut two strips, each 3 centimetres wide and 18 centimetres long. Draw five light pencil lines across each strip, 3 centimetres apart, to make six pieces. Number the pieces 1 to 6 from the left, on both strips. Put 3 tablespoons of water in each katori and stir in 5 drops of food colour.",
           "say": "Cut two strips of paper towel. Draw lines to make six pieces on each. Number the pieces from the left, one to six. Stir the colour into the water.",
           "kid": "Cut two strips. Draw five lines to make six pieces. Number the pieces 1 to 6. Stir colour into the water.",
           "parent": "Food colours differ a lot in strength. If the dye is too strong, the whole strip will turn dark. Begin with 5 drops in 3 tablespoons of water. You can add drops or water later. Test one spare strip first, while the child writes the guess, so you know how long your paper takes.",
@@ -799,7 +799,7 @@
         {
           "id": "s3",
           "mins": 17,
-          "do": "Place a katori at each end of the tray. Fold the left end of strip A over the left katori so that 1 centimetre dips into the dye. Fold the right end of strip B over the right katori in the same way. Keep the two strips apart so they do not touch. Set a timer. Watch the dye climb. Lift strip A out when its front reaches piece 5. Lift strip B out when its front reaches piece 2, which is the same distance from its dye. Lay both on the tray.",
+          "do": "Place a katori at each end of the tray. Fold the left end of strip A over the left katori so that 1 centimetre dips into the dye. Fold the right end of strip B over the right katori in the same way. Keep the two strips apart so they do not touch. Set a timer. Watch the dye climb along each strip. Lift strip A out when the front edge of the dye reaches piece 5. Lift strip B out when the front edge of the dye reaches piece 2, which is the same distance from its dye. Lay both on the tray.",
           "say": "Strip A dips in at the left. Strip B dips in at the right. Start the timer and watch the dye climb. Lift strip A when the dye reaches piece five. Lift strip B when the dye reaches piece two. Then both have travelled the same distance.",
           "kid": "Dip strip A at its left end. Dip strip B at its right end. Watch the dye climb. Lift A at piece 5. Lift B at piece 2.",
           "ask": [
@@ -812,7 +812,7 @@
               ]
             }
           ],
-          "parent": "The dye front usually takes about 10 to 30 minutes to climb 12 to 15 centimetres, depending on the paper, and it is slower in cool or damp weather. A coffee filter is usually faster. Use the front as your clock, not the timer. Every 5 minutes, hold a ruler to the strip and write how far the front has climbed. It moves quickly at first and then slows, which is also a result. If the front stops short of piece 5, lift both strips when the slower one stops and compare pieces that are the same distance from the dye. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops. The colour will fade smoothly along each strip, but exact shades vary, so judge dark, medium and pale by comparing the pieces side by side.",
+          "parent": "The front edge of the dye usually takes about 10 to 30 minutes to climb 12 to 15 centimetres, depending on the paper, and it is slower in cool or damp weather. A coffee filter is usually faster. Decide when to lift by where the front edge is, not by the timer. Every 5 minutes, hold a ruler to the strip and write how far the front edge has climbed. It moves quickly at first and then slows. Write that down, because it is a result too. If the front edge stops short of piece 5, lift both strips when the slower one stops and compare pieces that are the same distance from the dye. If the whole strip is dark and the same, the dye is too strong. Add the same amount of water to the katori and try again with a new strip. That is a result too. If the whole strip is pale, add a few more drops. The colour will fade smoothly along each strip, but exact shades vary, so judge dark, medium and pale by comparing the pieces side by side.",
           "check": {
             "t": "mcq",
             "q": "The dye is darkest near the katori and faint at the far end of the strip. What does this show?",
@@ -839,7 +839,7 @@
           "id": "s5",
           "mins": 7,
           "do": "Pick up piece 1 from strip A and piece 1 from strip B. Ask your child to say what they thought, what they saw, and why. Then ask what would happen with a third strip, dipped in the middle.",
-          "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Look at the two piece ones. They are the same paper. Why do they have different jobs?",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now look at piece 1 from each strip. They are the same paper. Why do they have different jobs?",
           "kid": "Hold piece 1 of each strip. Same paper, but different jobs. Say what you thought, what you saw, and why.",
           "ask": [
             {
@@ -847,11 +847,11 @@
               "good": [
                 "Pieces near the middle are dark and the ends are pale.",
                 "Both ends would be pale.",
-                "It would be a mirror."
+                "The two halves would match, like a mirror."
               ]
             }
           ],
-          "parent": "A strong answer says that piece 1 got the job its colour showed. It was dark when it was next to the dye, and pale or white when it was far from the dye. Nothing about the paper changed. Where it sat decided the job. After they have said what they saw, explain: a real embryo uses chemical signals that spread and fade in the same way. A cell reads how much has reached them, and so learns where they are. Cut a third strip and dip it in the middle if there is time. The pattern is a mirror. That is how symmetric parts of a body can be made from one signal.",
+          "parent": "A strong answer says that piece 1 got the job its colour showed. It was dark when it was next to the dye, and pale or white when it was far from the dye. Nothing about the paper changed. Where it sat decided the job. After they have said what they saw, explain: a real embryo uses chemical signals that spread and fade in the same way. A cell reads how much has reached them, and so learns where they are. Cut a third strip and dip it in the middle if there is time. The two halves match, like a mirror. That is how one signal can make parts of a body that match on both sides.",
           "think": "Real cells in an embryo cannot see colour. What could cells use, instead of colour, to find out where they are?",
           "context": "This is the last step of the Colour Map test. You say your claim, your evidence and your reasoning."
         }
@@ -864,7 +864,7 @@
       "days": 1,
       "question": "If you write the same short line with the hand you do not usually use, six times in a row, how much faster do you get? Does each try save the same amount of time?",
       "predict": "Before you start, guess. How many seconds will your first try take? Will your sixth try be faster, and by how much? Why do you think so?",
-      "fair_test": "You write the same line, on the same kind of paper, with the same pen, sitting the same way. You rest for one minute between tries. Write at the same neatness each time, so that someone else could read it. If you rush and scribble, the time is not comparable. Only the try number changes. So if the times get shorter, practice is the most likely reason.",
+      "fair_test": "You write the same line, on the same kind of paper, with the same pen, sitting the same way. You rest for one minute between tries. Write just as neatly each time, so that someone else could read it. If you rush and scribble, you cannot compare the times. Only the try number changes. So if the times get shorter, practice is the most likely reason.",
       "results_table": [
         "Try",
         "Time (seconds)",
@@ -916,7 +916,7 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show your child the line to write. The line is I am growing today. Ask them to guess the time of the first try, and of the sixth try. Ask for a reason, and write the guesses down.",
+          "do": "Show your child the line to write. The line is 'I am growing today'. Ask them to guess the time of the first try, and of the sixth try. Ask for a reason, and write the guesses down.",
           "say": "We will write the same line six times with your other hand. How long do you think the first try will take? And the sixth? Why do you think so?",
           "kid": "You will write a line six times with your other hand. Guess your first time and your last time. Why?",
           "ask": [
@@ -935,20 +935,20 @@
         {
           "id": "s2",
           "mins": 4,
-          "do": "Ask your child to write the line once with their usual hand. Time it and write down the number. This is their best possible time, to compare with.",
-          "say": "First, write the line with your usual hand. Go. Stop. That time is your comparison.",
+          "do": "Ask your child to write the line once with their usual hand. Time it and write down the number. Later you will compare the other hand's times with this one.",
+          "say": "First, write the line with your usual hand. Go. Stop. We will compare your other hand with this time.",
           "kid": "Write the line with your usual hand. Your helper times it.",
           "context": "In this step, you time the usual hand, so you have a comparison."
         },
         {
           "id": "s3",
           "mins": 16,
-          "do": "Now they write the line with the other hand, six times, on a new line each time. Time each try. Write each time in the results table. Between tries, rest for one minute with the pen down.",
+          "do": "Now your child writes the line with the other hand, six times, on a new line each time. Time each try. Write each time in the results table. Between tries, rest for one minute with the pen down.",
           "say": "Now use your other hand. Ready, go. Stop. Write down the time. Now rest for one minute. Then try again.",
           "kid": "Use your other hand. Write the line. Your helper times it. Rest for a minute. Do this six times.",
           "ask": [
             {
-              "q": "Which part of your hand or your head feels different on the sixth try?",
+              "q": "What feels different in your hand or your head on the sixth try?",
               "good": [
                 "My hand moves more smoothly.",
                 "I do not have to think about each letter.",
@@ -974,7 +974,7 @@
           "id": "s4",
           "mins": 8,
           "do": "Work out the seconds saved on each try. Then draw a line graph with the try number along the bottom and the time up the side. Join the points.",
-          "say": "For each try, take away this time from the last time. That gives the seconds saved. Now draw a line graph. Try number goes along the bottom. Time goes up the side.",
+          "say": "For each try, take its time away from the time of the try before. That gives the seconds saved. Now draw a line graph. Try number goes along the bottom. Time goes up the side.",
           "kid": "Work out the seconds saved on each try. Draw a line graph. Join the points.",
           "context": "In this step, you turn the numbers into a line graph and look at its shape."
         },
@@ -1055,10 +1055,10 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. Make a second hand from a new paddle. Roll five little fingers. Stick them on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.",
+          "do": "Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. That is the first hand. For the second hand, roll a new paddle and five little fingers. Stick the fingers on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.",
           "say": "Draw four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?",
           "kid": "Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Compare.",
-          "parent": "The cut hand has fingers that are joined to the palm all the way. The stuck-on fingers may come off or bend at the join. If they stay on, say that the join is still weaker than a finger that was never cut off. In a real embryo, the fingers do not stick on. They appear when the cells between them die on a signal. One child with a parent: the child makes both hands and the parent tugs. Two to four children: each child makes a cut hand and a stuck-on hand, with their own dough, and swaps hands with a partner for the tug test.",
+          "parent": "On the cut hand, each finger is one piece with the palm. The stuck-on fingers may come off or bend at the join. If they stay on, say that the join is still weaker than a finger that was never cut off. In a real embryo, the fingers are not stuck on. They appear when the cells between them die on a signal. One child with a parent: the child makes both hands and the parent tugs. Two to four children: each child makes a cut hand and a stuck-on hand, with their own dough, and swaps hands with a partner for the tug test.",
           "check": {
             "t": "mcq",
             "q": "In an embryo, what makes the gaps between the fingers?",
@@ -1088,7 +1088,7 @@
               ]
             }
           ],
-          "parent": "In a chick, the cells between the toes die and the toes are separate. In a duck, most of those cells stay alive, so the toes stay webbed. After they have shared their idea, say so. In a few babies, two fingers stay joined, and a small operation separates them.",
+          "parent": "After your child has shared their idea, tell them this. In a chick, the cells between the toes die and the toes are separate. In a duck, most of those cells stay alive, so the toes stay webbed. In a few babies, two fingers stay joined, and a small operation separates them.",
           "think": "Which is the better shape for swimming, a hand with webbing or a hand without?",
           "context": "In this step, you compare your hand with a duck's foot."
         }
@@ -1135,7 +1135,7 @@
           "mins": 5,
           "do": "Show your child the typical lengths for a healthy baby. At birth the baby is 50 centimetres long. Then 61 at 3 months, 67 at 6 months, 71 at 9 months, 75 at 12 months, and 87 at 24 months. Ask in which three months a baby grows the most, and why they think so.",
           "say": "Here are typical lengths for a healthy baby. At birth, 50 centimetres. At three months, 61. At six months, 67. At nine months, 71. At twelve months, 75. At two years, 87. In which three months does a baby grow the most? Why?",
-          "kid": "Here are baby lengths. 50, 61, 67, 71, 75, 87 centimetres. When does a baby grow most? Why?",
+          "kid": "A baby's length at birth and at 3, 6, 9, 12 and 24 months is 50, 61, 67, 71, 75 and 87 centimetres. In which three months does the baby grow most? Why?",
           "ask": [
             {
               "q": "When do you think a baby grows fastest?",
@@ -1161,9 +1161,9 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Work out how many centimetres were gained in each step. Then divide by the number of months in that step to find centimetres per month. Mark the steepest part of the line. Ask what the line would look like at age 5, and at age 12.",
-          "say": "How many centimetres were gained in each step? Which step is the steepest? The line goes up at the start and then flattens. Why do you think growth slows?",
-          "kid": "Find the steepest part. Count how much was gained in each step. Why does growth slow?",
+          "do": "Work out how many centimetres the baby gained between each dot and the next. Then divide by the number of months between the two dots to find centimetres per month. Mark the steepest part of the line. Ask what the line would look like at age 5, and at age 12.",
+          "say": "How many centimetres did the baby gain between each dot and the next? Which part of the line is the steepest? The line rises steeply at the start and then flattens. Why do you think growth slows?",
+          "kid": "Find the steepest part of the line. Work out how much the baby gained between each dot and the next. Why does growth slow?",
           "ask": [
             {
               "q": "What do you think the line will look like at 5 years old?",
@@ -1228,7 +1228,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Your child is cell A and you are cell B. Read a signal slip to each cell. Cell A gets the slip 'You are in the scalp'. Cell B gets 'You are in the bone marrow'. Each cell circles line 8, and the line the signal points to, using the first pencil colour. A scalp cell follows line 1. A bone marrow cell follows line 2. Then swap the slips and circle again with the second colour. Count how many lines were circled in common.",
+          "do": "Your child is cell A and you are cell B. Read a signal slip to each cell. Cell A gets the slip 'You are in the scalp'. Cell B gets 'You are in the bone marrow'. Each cell circles line 8, and the line the signal points to, using the first pencil colour. A scalp cell follows line 1. A bone marrow cell follows line 2. Then swap the slips and circle again with the second colour. Count how many lines both cells circled.",
           "say": "You are cell A and I am cell B. We both have the whole book. Now I read your signal. You are in the scalp. Circle the lines a hair cell follows. Remember line eight. Every cell follows line eight.",
           "kid": "Each cell gets a signal. Circle line 8, and the lines your signal tells you to follow.",
           "ask": [
@@ -1247,10 +1247,10 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Compare the two sheets. Ask your child how the books differ and how the marking differs. Then ask who decided which lines to follow.",
+          "do": "Compare the two sheets. Ask your child whether the books are different, and whether the circled lines are different. Then ask who decided which lines to follow.",
           "say": "Look at the two books. Are they the same? Look at the circled lines. Are they the same? Who decided which lines to follow?",
           "kid": "Compare the two books. Compare the circles. Who decided which lines to follow?",
-          "parent": "The books are identical. The marked lines are different, and the signals came from the neighbours. In early embryos, moved cells follow the signals of their new place. After they have shared their idea, say so. Later in development, cells settle and keep their job.",
+          "parent": "The books are identical. The circled lines are different, and the signals came from the neighbours. After your child has shared their idea, tell them this: in early embryos, moved cells follow the signals of their new place. Later in development, cells settle and keep their job.",
           "think": "If a cell in your skin were moved to your eye early in life, which lines would they follow?",
           "context": "In this step, you compare the books and the marks."
         }
@@ -1314,7 +1314,7 @@
         {
           "id": "s1",
           "mins": 15,
-          "do": "Write these questions in the notebook. When were you born, and how long were you? How tall were you at 10? When did you grow the fastest? When did you stop growing? What are you good at now, that you needed to practise? Ask the first family member and write their answers.",
+          "do": "Write these questions in the notebook. When were you born, and how long were you at birth? How tall were you at 10? When did you grow the fastest? When did you stop growing? What are you good at now, that you needed to practise? Ask the first family member and write their answers.",
           "say": "We will ask family members about their growth. Here are five questions. Write them in your notebook. Then ask the first person. Be kind, and ask only what they want to share.",
           "kid": "Write five questions. Ask your first family member. Write down their answers.",
           "ask": [
@@ -1342,7 +1342,7 @@
         {
           "id": "s3",
           "mins": 25,
-          "do": "For each person, draw a growth line on squared paper, with age along the bottom and height up the side. Mark at least three dots. Join them. Compare the lines with each other and with the baby's growth line from the Growth Line activity.",
+          "do": "For each person, draw a growth line on squared paper, with age along the bottom and height up the side. Mark at least three dots. Join them. Compare the lines with each other and with the baby's growth line from the My Growth Line activity.",
           "say": "Draw a growth line for each person, with age along the bottom and height up the side. Join the dots. What is the same in every line? What is different?",
           "kid": "Draw a growth line for each person. What is the same in every line? What is different?",
           "ask": [
@@ -1385,7 +1385,7 @@
         "a ruler"
       ],
       "general": [
-        "Dip one end of a strip in dye for a short time, then cut it into three pieces. The ends will have dark, medium and pale colours. Tape them together.",
+        "Dip one end of a strip in dye for a short time, then cut it into three pieces. The three pieces will be dark, medium and pale. Tape them together.",
         "Make three katoris with different amounts of dye, such as 12, 6 and 3 drops in the same amount of water (3 tablespoons each). Dip a short strip in each for the same time, and tape the three strips together in order. If the bands look too alike, halve the drops again, for example 12, 3 and 1.",
         "Dip one end in dye and stop when the front reaches the middle. The strip will fade from dark to pale."
       ],
@@ -1435,7 +1435,7 @@
           "do": "Test two ideas on short strips. Write down what you did and what you got.",
           "say": "Choose two ideas and test them on small strips. Write down what you did and how each strip looked.",
           "kid": "Test two ideas. Write what you did. Look at the bands.",
-          "parent": "The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It usually gives clear bands. Strong food colours may make the first two look alike, so halve the drops again if they do. A single dipped strip may give a smooth fade, and not three clear bands. One child with a parent: the child tests two ideas, and the parent is the stranger at the end. Two to four children: each child tests a different idea at the same time, then you compare, and each child asks someone else to name their bands.",
+          "parent": "The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It usually gives clear bands. Strong food colours may make the first two bands look alike, so halve the drops again if they do. A single dipped strip may give a smooth fade, and not three clear bands. One child with a parent: the child tests two ideas, and at the end the parent is the person who has not seen the strips. Two to four children: each child tests a different idea at the same time, then you compare, and each child asks someone else to name their bands.",
           "context": "In this step, you test two ideas for making three bands."
         },
         {
@@ -1444,7 +1444,7 @@
           "do": "Pick the best strip. Ask someone who has not seen it to say which band is dark, which is medium and which is pale. Talk about why it worked.",
           "say": "Show your best strip to someone who has not seen it. Ask them to point to the dark, the medium and the pale band. Did it work?",
           "kid": "Show your best strip to someone. Can they find the dark, medium and pale bands?",
-          "parent": "Cells can switch on a gene only when the signal is above a certain amount. That turns a smooth change into clear steps. After they have shared their idea, say so.",
+          "parent": "After your child has shared their idea, tell them this. Cells can switch on a gene only when the signal is above a certain amount. That turns a smooth change into clear steps.",
           "think": "A real embryo makes sharp bands from a smooth signal. How might cells turn a smooth fade into clear bands?",
           "context": "This is the last step of Three Stripes From One Dye. You test your strip with someone new."
         }
@@ -1467,7 +1467,7 @@
             "Only brain cells hold DNA"
           ],
           "a": 0,
-          "why": "You began as one cell, and every copy of the DNA was passed on to the new cells. A skin cell and a nerve cell hold the same genes but switch on different ones. Picking 'different DNA' means thinking that the cells lost genes as they changed.",
+          "why": "You began as one cell, and a full copy of the DNA was passed on to every new cell. A skin cell and a nerve cell hold the same genes but switch on different ones. Picking 'different DNA' means thinking that the cells lost genes as they changed.",
           "outcome": 0
         },
         {
@@ -1510,7 +1510,7 @@
             ]
           ],
           "a": "pairs as given",
-          "why": "These four words describe four parts of growing: instructions, cells that can still change, the meeting place for two bloodstreams, and the cells that leave on purpose.",
+          "why": "These four words describe four parts of growing: instructions, cells that can still change, the meeting place for two bloodstreams, and cells that die on purpose.",
           "outcome": 0
         },
         {
@@ -1566,7 +1566,7 @@
           "t": "count",
           "p": "A healthy baby is 50 centimetres long at birth and 75 centimetres long at one year. By how many centimetres did the baby grow?",
           "a": "25",
-          "why": "75 take away 50 is 25. In the first year, a baby grows about half as much again as their length at birth.",
+          "why": "75 take away 50 is 25. In the first year, a baby grows by about half of their length at birth.",
           "outcome": 5
         },
         {
@@ -1579,7 +1579,7 @@
         },
         {
           "t": "odd",
-          "p": "Which is the odd one out, and why? The gaps between fingers, a tadpole's tail going, a cut on your knee healing, the gaps between a chick's toes.",
+          "p": "Which is the odd one out, and why? The gaps between fingers, a tadpole's tail disappearing, a cut on your knee healing, the gaps between a chick's toes.",
           "a": "A cut healing, because new cells grow to fill the gap. In the other three, cells die on purpose to leave a gap.",
           "why": "Fingers, a tadpole's tail and a chick's toes all involve cells that die on a signal. Healing is cells being made.",
           "outcome": 4
@@ -1649,7 +1649,7 @@
             },
             {
               "who": "A teacher (an imagined view)",
-              "says": "My students have different genes, and they learn different things, because of what they do each day."
+              "says": "My students have different genes. But what they learn also depends on what they do each day."
             }
           ],
           "ask": "Whose view do you agree with most? What evidence would help you decide?",
@@ -1691,7 +1691,7 @@
             "Every embryo can grow two bodies"
           ],
           "a": 0,
-          "why": "In Hilde Mangold's experiment, most of the second body was made from the host's own cells. The piece did not become the body. It told its neighbours what to become.",
+          "why": "In Hilde Mangold's experiment, most of the second body was made from the cells of the embryo that received the piece. The piece did not become the body. It told its neighbours what to become.",
           "outcome": 7
         },
         {
@@ -1760,7 +1760,7 @@
               "Cells die on purpose"
             ],
             [
-              "a tadpole's tail goes",
+              "a tadpole's tail disappears",
               "Cells die on purpose"
             ],
             [
@@ -1933,7 +1933,7 @@
             "Next to the left end"
           ],
           "a": 0,
-          "why": "The dye fades with distance from each end. The middle is the farthest point from both sources, so it is the palest. Real bodies use the same trick to make symmetrical parts.",
+          "why": "The dye fades with distance from each end. The middle is the farthest point from both sources, so it is the palest. Real bodies make parts that match on both sides in the same way.",
           "outcome": 1
         },
         {
@@ -2208,7 +2208,7 @@
         "It has the same slope everywhere"
       ],
       "a": 0,
-      "why": "A baby gains about 11 centimetres in the first three months and about 4 centimetres in the three months after the ninth month. The line is steepest early and flatter later.",
+      "why": "A baby gains about 11 centimetres in the first three months and only about 4 centimetres between 9 and 12 months. The line is steepest early and flatter later.",
       "outcome": 5
     },
     {
@@ -2232,12 +2232,12 @@
         "Doing it once, very hard"
       ],
       "a": 0,
-      "why": "Repeating a skill strengthens the connections you use. This is why practice works. The line of improvement flattens as the easy gains are used up.",
+      "why": "Repeating a skill strengthens the connections you use. This is why practice works. You improve a lot in the first few tries and less after that, because the easy gains come first.",
       "outcome": 6
     },
     {
       "t": "mcq",
-      "p": "Why might a scientist mark the cells of a moved piece with a different colour from the host?",
+      "p": "A scientist moves a small piece of one embryo onto another embryo, called the host. Why might the scientist mark the cells of the piece with a different colour from the host's cells?",
       "opts": [
         "To tell which cells came from the piece and which belonged to the host",
         "To make the picture prettier",
@@ -2324,7 +2324,7 @@
       "art": "Three tadpoles at different stages, with the tail shrinking and legs appearing."
     },
     {
-      "text": "A baby's soft spot on top of their head, in a baby cousin, a neighbour's baby or a photograph.",
+      "text": "The soft spot on top of a baby's head. Look at a baby cousin, a neighbour's baby or a photograph.",
       "art": "A baby's head from above with the soft spot shaded."
     },
     {
@@ -2350,7 +2350,7 @@
       "why_open": "Cells divide in response to signals, but scientists do not yet understand how the whole organ knows its final size."
     },
     {
-      "q": "How do cells decide to take a job, and not just follow a signal? What is the role of chance?",
+      "q": "Does a signal alone decide a cell's job, or does chance play a part too?",
       "why_open": "Signals set the main pattern, but individual cells also show random differences. Scientists are still working out how much chance matters."
     },
     {
@@ -2380,7 +2380,7 @@
     "Which of your features do you think came from your genes, and which came from what you do?",
     "If cells die so that we can have fingers, is there anything in the kitchen or garden that is shaped by taking something away?",
     "What would you ask a doctor who looks at X-rays of children's hands?",
-    "If you could ask the newborn you, what would you ask?"
+    "If you could ask yourself as a newborn one question, what would you ask?"
   ],
   "jokes": [
     {
@@ -2431,9 +2431,9 @@
       "why_maths": "Finding the gain in each step shows you where the line is steepest, and so when growth is fastest."
     },
     {
-      "problem": "A ball of cells doubles in number each round: 1, 2, 4, 8, and so on. How many cells are there after 10 rounds? Then, since 10 rounds multiply the number by about 1,000, say roughly how many rounds make a million million.",
+      "problem": "A ball of cells doubles in number each round: 1, 2, 4, 8, and so on. How many cells are there after 10 rounds? Ten rounds multiply the number by about 1,000. So roughly how many rounds does it take to reach a million million?",
       "answer": "1,024 cells after 10 rounds. About 40 rounds make a million million.",
-      "explain": "The numbers go 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, and then 1,024 after 10 rounds. So every 10 rounds multiplies the number by about 1,000. Four lots of 10 rounds make 1,000 times 1,000 times 1,000 times 1,000, which is a million million. A body of about 30 trillion cells needs around 45 rounds of doubling, in a rough sum. In real bodies, not all cells divide, and many die.",
+      "explain": "The numbers go 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, and then 1,024 after 10 rounds. So every 10 rounds multiplies the number by about 1,000. Four lots of 10 rounds make 1,000 times 1,000 times 1,000 times 1,000, which is a million million. As a rough estimate, a body of about 30 trillion cells needs around 45 rounds of doubling. In real bodies, not all cells divide, and many die.",
       "math_unit": "math.number-sense.powers-and-roots.L4",
       "context": "A human body began as one cell, and now has about 30 trillion cells.",
       "why_maths": "Doubling grows far faster than it first seems, and this is how a single cell can become trillions in a few dozen rounds."
@@ -2450,7 +2450,7 @@
     {
       "problem": "A newborn's brain weighs about 350 grams. An adult's brain weighs about 1,400 grams. How many times heavier is an adult's brain?",
       "answer": "4 times.",
-      "explain": "1,400 divided by 350 is 4. So the newborn's brain is about a quarter of the weight of an adult's. By age five, it is about nine-tenths of the adult weight.",
+      "explain": "1,400 divided by 350 is 4. An adult's brain is about 4 times as heavy, so a newborn's brain is about a quarter of the weight of an adult's. By age five, a child's brain is about nine-tenths of the adult weight.",
       "math_unit": "math.division.division-facts.L4",
       "context": "A child's brain grows quickly before the age of five, while the body keeps growing for years.",
       "why_maths": "Dividing one weight by another shows how many times bigger one is, and helps you see how fast the brain grows compared with the body."
@@ -2460,7 +2460,7 @@
       "answer": "35 weeks, which is 245 days.",
       "explain": "38 minus 3 is 35 weeks. There are 7 days in a week, and 35 times 7 is 245. The heart beats for about 245 days before the baby is born.",
       "math_unit": "math.time.calendar.L4",
-      "context": "In growing, the heart is one of the first parts to begin working.",
+      "context": "As a baby grows, the heart is one of the first parts to begin working.",
       "why_maths": "Changing weeks into days lets you compare the time a body part has been working with the days in a calendar."
     },
     {
@@ -2472,9 +2472,9 @@
       "why_maths": "Very large numbers become easier when you build them step by step from a number you can imagine, such as two million."
     },
     {
-      "problem": "Divya, a girl in Class 4 in Kochi, times herself writing a line with her left hand. Her times are 38, 31, 27, 25, 24 and 24 seconds. How many seconds did she save between the first and the sixth try? Which try saved the most time?",
+      "problem": "You time yourself writing a line six times with the hand you do not usually use. Your times are 38, 31, 27, 25, 24 and 24 seconds. How many seconds did you save between the first and the sixth try? Which try saved the most time?",
       "answer": "14 seconds. The second try saved the most, with 7 seconds.",
-      "explain": "38 minus 24 is 14 seconds. From try 1 to try 2 she saved 38 minus 31, which is 7 seconds. The later tries saved 4, 2, 1 and 0 seconds. The savings get smaller each time.",
+      "explain": "38 minus 24 is 14 seconds. From try 1 to try 2 you saved 38 minus 31, which is 7 seconds. The later tries saved 4, 2, 1 and 0 seconds. The savings get smaller each time.",
       "math_unit": "math.data.line-graphs.L4",
       "how": "e2",
       "context": "In the Wrong-Hand test, you time yourself writing a line six times and draw a line graph.",
@@ -2485,7 +2485,7 @@
       "answer": "12 square metres. It is about the same.",
       "explain": "The area of a room is length times width. 4 times 3 is 12 square metres. The folded surface of the placenta has about the same area as the floor of this room, though it fits into a flat organ the size of a dinner plate.",
       "math_unit": "math.area-perimeter.area.L4",
-      "context": "The placenta's thin, folded fingers give it a very large surface for passing oxygen and food.",
+      "context": "The placenta's thin, finger-like branches give it a very large surface for passing oxygen and food.",
       "why_maths": "Area tells you how much surface there is for oxygen and food to cross, and why folding a surface packs a lot of it into a small space."
     }
   ],
@@ -2567,7 +2567,7 @@
       "a": "They die on purpose, and that leaves separate fingers."
     },
     {
-      "q": "Is a baby's blood the same as the mother's blood?",
+      "q": "Does a baby's blood mix with the mother's blood in the placenta?",
       "a": "No. They run close together but do not mix."
     },
     {
@@ -2579,7 +2579,7 @@
       "a": "They get stronger."
     },
     {
-      "q": "What does the belly button remind you of?",
+      "q": "What was joined to you where your belly button is now?",
       "a": "The cord that joined you to the placenta."
     }
   ],
@@ -2669,5 +2669,5 @@
     "wrong_idea": "Roux said cells are fixed on their jobs from the start, because half an embryo grew from one live cell. Driesch showed that cells from an early embryo can each make a whole animal. Mangold showed that a small group of cells tells their neighbours what to become."
   },
   "playtest": "I could not run the experiments here, so this is a desk check, step by step, with a flat's kitchen in mind. Colour Map (e1): paper towel, food colour, two katoris and a tray are all common. The result depends on the dye strength, the paper and the weather. Start with 5 drops, use the dye front as the clock (usually 10 to 30 minutes, slower in damp weather), and the steps say what to do if the strip comes out all dark, all pale or stalls. I have not seen the fade on a real strip, so a parent should try one spare strip first. Wrong-Hand Writing (e2): needs only a pen, paper and a clock. Most people speed up in the first three tries, but it is not certain, and the steps say what to do if a time goes up. Hand activity: raw dough should not be eaten, wheat allergy is covered, and the knife is blunt. My Growth Line: the lengths are rounded from WHO medians and the steps compare centimetres per month. Timeline Detective: all 22 cards are written out, with typical ages and a note that babies differ. Played with 1 to 4 players in my head: alone, count points out of 21. The family interviews are optional for families without elders nearby, and ask only what people want to share. Three Stripes: the three-katori dilution method usually works, and strong colours may need fewer drops. Facts to check before this goes out: the placenta's villous surface of about 12 square metres (varies by source), the 'week' numbers on the timeline cards (counted from when the baby began, not from the mother's last period), Mangold's age and the details of her death, the claim that the duck's webbing comes from fewer cells dying, and the newborn brain weight of about 350 grams. No video was checked, because no ids are filled in.",
- "warm": {"words": ["CELLS", "GENES", "TWINS", "BONES", "BRAIN"], "quiz": [["Nearly every cell in your body holds the same full set of instructions.", true, "Each kind of cell reads only the instructions it needs for its own job."], ["Cells are born knowing which job they will do.", false, "Early cells pulled apart can each make a whole body, so jobs come from neighbours' signals."], ["When cells die inside a growing body, it always means damage or disease.", false, "Cells also die on purpose, on a signal, to shape parts such as the gaps between fingers."], ["A chemical signal that gets weaker with distance helps a cell learn where it is.", true, "Cells close to the source get a lot of signal and far cells get little, so they take different jobs."], ["The placenta is only a pipe that passes the mother's food to the baby.", false, "It is built by the baby's cells, makes hormones, passes antibodies and takes waste away."], ["A young child's brain keeps the connections that are used and loses the ones that are not.", true, "Used connections get stronger and unused ones fade, so practice shapes the brain."], ["Your genes decide everything about you, so food and care make no difference to height.", false, "Identical twins can differ, and children who are not fed well do not reach their full height."], ["Identical twins can start when a young ball of cells splits and each half makes a baby.", true, "Early cells have not yet settled on their jobs, so each half can build a whole body."], ["A newborn has more bone pieces than an adult, because many pieces join as a child grows.", true, "A newborn has about 300 pieces, partly soft cartilage; an adult has 206 harder bones."], ["We only use ten percent of our brain.", false, "Scans show nearly all parts of the brain are active over a day, and damage almost anywhere has an effect."]], "odd": [[["Passes oxygen", "Takes waste away", "Passes antibodies", "Mixes the two bloods"], "Mixes the two bloods", "The placenta does the other three jobs, but keeps the mother's and baby's blood apart with a thin wall."], [["Age 1 year", "Age 2 years", "Age 13 years", "Age 8 years"], "Age 8 years", "Growth is fast in the first two years and in the early teens, and slower in middle childhood."], [["Heat from a fire", "Light from a lamp", "Signal from an organiser", "Weight of a stone"], "Weight of a stone", "Heat, light and a chemical signal all get weaker as you move away; a stone's weight does not."], [["Lungs fill with air", "Blood flows through lungs", "Heart shortcuts close", "Placenta starts to grow"], "Placenta starts to grow", "The other three switch the body over at birth; the placenta begins to grow much earlier, in the womb."], [["Stem cell", "Skin cell", "Nerve cell", "Bone cell"], "Stem cell", "Skin, nerve and bone cells have settled on one job; a stem cell has not yet settled."]]}
+ "warm": {"words": ["CELLS", "GENES", "TWINS", "BONES", "BRAIN"], "quiz": [["Nearly every cell in your body holds the same full set of instructions.", true, "Each kind of cell reads only the instructions it needs for its own job."], ["Cells are born knowing which job they will do.", false, "Early cells pulled apart can each make a whole body, so jobs come from neighbours' signals."], ["When cells die inside a growing body, it always means damage or disease.", false, "Cells also die on purpose, on a signal, to shape parts such as the gaps between fingers."], ["A chemical signal that gets weaker with distance helps a cell learn where they are.", true, "Cells close to the source get a lot of signal and cells far away get little, so they take different jobs."], ["The placenta is only a pipe that passes the mother's food to the baby.", false, "It is built by the baby's cells, makes hormones, passes antibodies and takes waste away."], ["A young child's brain keeps the connections that are used and loses the ones that are not.", true, "Used connections get stronger and unused ones fade, so practice shapes the brain."], ["Your genes decide everything about you, so food and care make no difference to height.", false, "Identical twins can differ, and children who are not fed well do not reach their full height."], ["Identical twins can start when a young ball of cells splits and each half makes a baby.", true, "Early cells have not yet settled on their jobs, so each half can build a whole body."], ["A newborn has more bone pieces than an adult, because many pieces join as a child grows.", true, "A newborn has about 300 pieces, partly soft cartilage; an adult has 206 harder bones."], ["We only use ten percent of our brain.", false, "Scans show nearly all parts of the brain are active over a day, and damage almost anywhere has an effect."]], "odd": [[["Passes oxygen", "Takes waste away", "Passes antibodies", "Mixes the two bloods"], "Mixes the two bloods", "The placenta does the other three jobs, but keeps the mother's and baby's blood apart with a thin wall."], [["Age 1 year", "Age 2 years", "Age 13 years", "Age 8 years"], "Age 8 years", "Growth is fast in the first two years and in the early teens, and slower in middle childhood."], [["Heat from a fire", "Light from a lamp", "Signal from an organiser", "Weight of a stone"], "Weight of a stone", "Heat, light and a chemical signal all get weaker as you move away; a stone's weight does not."], [["Lungs fill with air", "Blood flows through lungs", "Heart shortcuts close", "Placenta starts to grow"], "Placenta starts to grow", "The other three switch the body over at birth; the placenta begins to grow much earlier, in the womb."], [["Stem cell", "Skin cell", "Nerve cell", "Bone cell"], "Stem cell", "Skin, nerve and bone cells have settled on one job; a stem cell has not yet settled."]]}
 }
