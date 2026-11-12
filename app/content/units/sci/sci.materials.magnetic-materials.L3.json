@@ -198,7 +198,7 @@
    "concept": "Which materials a magnet attracts",
    "status": "defined",
    "definition": "A magnet attracts iron, most kinds of steel, nickel and cobalt. It does not attract wood, plastic, glass, paper, cloth, rubber or stone.",
-   "description": "Test enough things and you find a pattern. Everything a magnet attracts contains iron, steel, nickel or cobalt. At home these are usually nails, safety pins, paper clips, tawas and almirahs. A magnet does not attract anything made only of wood, plastic, glass, paper, cloth, rubber or stone. This pattern holds for thousands of everyday objects. But there are exceptions, and the next cards explain them.",
+   "description": "Test enough things and you find a pattern. Everything a magnet attracts contains iron, steel, nickel or cobalt. At home these are usually nails, safety pins, paper clips, tawas and almirahs. A magnet does not attract anything made only of wood, plastic, glass, paper, cloth, rubber or stone. This pattern holds for thousands of everyday objects. But there are exceptions. For example, a magnet does not attract some kinds of steel.",
    "examples": [
     "Attracted: a steel nail, a safety pin, a paper clip, a steel almirah.",
     "Not attracted: a wooden pencil, a plastic ruler, a glass bangle, a cotton hanky, a stone.",
@@ -212,7 +212,7 @@
    "concept": "Not every metal is magnetic",
    "status": "defined",
    "definition": "Only three common metals are magnetic: iron, nickel and cobalt. A magnet does not attract aluminium, copper, brass, gold, silver, zinc, tin or lead.",
-   "description": "Many people think a magnet attracts every metal. It does not. Try an aluminium foil ball, a copper wire, a brass key and a gold ring. They are all shiny metals, and a magnet attracts none of them. An element is a pure substance made of only one kind of atom. About ninety elements are found in nature. At room temperature, only three of them are magnetic: iron, nickel and cobalt. A fourth, gadolinium, is magnetic only when it is colder than about 20 degrees Celsius. So being a metal does not make a thing magnetic. Something inside iron, nickel and cobalt is different. A later card explains what it is.",
+   "description": "Many people think a magnet attracts every metal. It does not. Try an aluminium foil ball, a copper wire, a brass key and a gold ring. They are all shiny metals, and a magnet attracts none of them. An element is a pure substance made of only one kind of atom. About ninety elements are found in nature. At room temperature, only three of them are magnetic: iron, nickel and cobalt. A fourth, gadolinium, is magnetic only when it is colder than about 20 degrees Celsius. So being a metal does not make a thing magnetic. Something inside iron, nickel and cobalt is different. The card 'Tiny magnets inside: why iron is magnetic' explains what it is.",
    "examples": [
     "A magnet does not attract aluminium foil or an aluminium pressure cooker.",
     "A magnet does not attract a brass diya or a copper water pot.",
@@ -226,7 +226,7 @@
    "concept": "Steel is a mixture, so one steel can differ from another",
    "status": "defined",
    "definition": "Steel is an alloy, a mixture. It is mostly iron with a little carbon. Stainless steel also has chromium, and often nickel. The exact mixture decides whether a magnet attracts it.",
-   "description": "This explains the spoon and the tumbler. Most steel is mostly iron, so a magnet attracts it. But many Indian tumblers, bowls and plates are made of a stainless steel with nickel in it. In every 100 parts, about 18 are chromium and 8 are nickel. The nickel changes how the iron atoms are packed together. Packed this way, the tiny magnets of the iron atoms do not line up. So a magnet attracts this steel very weakly, or not at all. Other stainless steels have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made of that kind, because an induction stove works well only with a pan that a magnet attracts. Bending can also change how the atoms are packed. So a bent rim of a tumbler may be attracted a little.",
+   "description": "A magnet often sticks to a steel spoon but not to a steel tumbler. Here is why. Most steel is mostly iron, so a magnet attracts it. But many Indian tumblers, bowls and plates are made of a stainless steel with nickel in it. In every 100 parts, about 18 are chromium and 8 are nickel. The nickel changes how the iron atoms are packed together. Packed this way, the tiny magnets of the iron atoms do not line up. So a magnet attracts this steel very weakly, or not at all. Other stainless steels have chromium but little nickel, and a magnet attracts them well. Pans for induction stoves are made of that kind, because an induction stove works well only with a pan that a magnet attracts. Bending can also change how the atoms are packed. So a bent rim of a tumbler may be attracted a little.",
    "examples": [
     "A magnet attracts a steel almirah, a tawa and many spoons.",
     "A magnet does not attract many tumblers and bowls, or attracts them only weakly.",
@@ -267,9 +267,9 @@
   {
    "concept": "Why do iron's tiny magnets line up?",
    "status": "debated",
-   "description": "Two bar magnets laid side by side turn to point opposite ways. So why do neighbouring iron atoms point the same way? The magnetic force between two atoms is far too weak to do it. The answer comes from quantum physics, the science of the very tiniest things. Electrons repel each other, because they all have the same electric charge. Quantum physics has a rule: two electrons that point the same way must keep further apart. Further apart, they repel each other less. In iron, nickel and cobalt, this makes pointing the same way the more settled arrangement. Scientists agree on this rule. They still argue about the best way to picture it in a real piece of metal.",
+   "description": "Two bar magnets laid side by side turn to point opposite ways. So why do neighbouring iron atoms point the same way? The magnetic force between two atoms is far too weak to do it. The answer comes from quantum physics, the science of the very tiniest things. Electrons repel each other, because they all have the same electric charge. Quantum physics has a rule: two electrons that point the same way must keep further apart. Further apart, they repel each other less. In iron, nickel and cobalt, this makes pointing the same way the easier arrangement for the electrons. Scientists agree on this rule. They still argue about the best way to picture it in a real piece of metal.",
    "examples": [
-    "In iron, nickel and cobalt, the electrons' tiny magnets line up this way.",
+    "In iron, nickel and cobalt, the electrons' tiny magnets line up and point the same way.",
     "In copper, the electrons stay in pairs that point opposite ways and cancel out."
    ],
    "perspectives": [
@@ -367,7 +367,7 @@
    "context": "Can anything block a magnet? This card explains the results of the Through the Paper experiment."
   },
   {
-   "concept": "The Earth has an iron heart",
+   "concept": "The centre of the Earth is mostly iron",
    "status": "defined",
    "definition": "The centre of the Earth is mostly iron, with some nickel. The outer part of the core is liquid, and its flowing makes the Earth's magnetic field.",
    "description": "Deep below your feet, under the rock, lies a ball of iron and nickel. It is about as wide as the planet Mars. Its outer part is liquid. Its inner part is solid, because it is squeezed so hard. In 1936, a Danish scientist called Inge Lehmann studied earthquake waves. She worked out that there is a solid ball inside the liquid. She kept her measurements on cards, stored in cardboard boxes. The core is much hotter than iron's Curie point, so it cannot be an ordinary magnet. Instead, scientists think its liquid iron flows and swirls. Electric currents flow in the moving iron, and these currents make the Earth's magnetic field. That is the field a compass needle turns to follow. Iron also falls from space, in meteorites. A magnet can even pick up tiny grains of space dust from a rooftop.",
@@ -422,7 +422,7 @@
    "concept": "Super-strong magnets and why they are dangerous",
    "status": "defined",
    "definition": "The strongest everyday magnets are made from a mixture of the metals neodymium, iron and boron. They can pinch skin, and two swallowed ones can badly hurt a child.",
-   "description": "In 1982, two scientists, working separately, found a new kind of magnet. Masato Sagawa worked in Japan, and John Croat in the United States. They mixed neodymium, iron and boron, and made a magnet far stronger than any before. These magnets are inside earphones, phones, electric cars and wind turbines. Neodymium is one of the rare earth metals, which are hard to separate from rock and from each other. Two neodymium magnets attract each other so strongly that, if a child swallows two, they can clamp together through the walls of the gut. That makes holes, and needs an operation. That is why this unit uses only ordinary fridge magnets. If you find tiny shiny round magnets, keep them away from little children.",
+   "description": "In 1982, two scientists, working separately, found a new kind of magnet. Masato Sagawa worked in Japan, and John Croat in the United States. They mixed neodymium, iron and boron, and made a magnet far stronger than any before. These magnets are inside earphones, phones, electric cars and wind turbines. Neodymium is one of the rare earth metals, which are hard to separate from rock and from each other. Two neodymium magnets attract each other very strongly. If a child swallows two, they can clamp together through the walls of the gut. That makes holes in the gut, and the child needs an operation. That is why this unit uses only ordinary fridge magnets. If you find tiny shiny round magnets, keep them away from little children.",
    "examples": [
     "Neodymium magnets are in earphones and the motors of electric cars.",
     "A tiny neodymium magnet can lift a heavy steel tool. A fridge magnet cannot."
@@ -602,8 +602,8 @@
    "The little magnet swung once, and then it jumped. It snapped onto the sheet with a click that everyone in the room could hear.",
    "Nobody spoke. Zainab pulled the magnet off with both hands, because it was stuck quite hard, and held it over the next sheet. Click. And the next. Click. She went down the pile. It stuck to every one of them.",
    "'That is a toy,' said the trader quickly. 'A child's toy. It means nothing.'",
-   "Her grandmother had gone very still. 'Zainab,' she said, 'go to the shelf. Bring me the old diya, the one my father made.' She ran. The diya was brass, black with age, and as heavy as a fist. She put it in her grandmother's hands, and then she held Chhoti Machhli close.",
-   "It swung once, and it did not jump. It did not even twitch. It hung from its string, over the old lamp, and just turned slowly.",
+   "Her grandmother had gone very still. 'Zainab,' she said, 'go to the shelf. Bring me the old diya, the one my father made.' Zainab ran. The diya was brass, black with age, and as heavy as a fist. She put it in her grandmother's hands, and then she held Chhoti Machhli close to it.",
+   "The magnet swung once, and it did not jump. It did not even twitch. It hung from its string, over the old lamp, and just turned slowly.",
    "'Brass is copper and zinc,' her grandmother said, to nobody in particular. 'A magnet does not attract either of them. But it attracts iron, and steel is mostly iron.' She turned her clouded eyes towards the trader. 'Underneath your lovely mango colour, there is steel, isn't there? A thin coat of brass on top, like a coat of ghee on a dosa.'",
    "The trader said many things, some loud and some soft. But in the end he picked up his sheets and went back to his truck, because it is hard to argue with something that clicks.",
    "That night, as the lamps in the lane were being lit, Zainab sat with her grandmother on the step. 'Dadi,' she said. 'If the magnet had not stuck, would that have meant the sheets were real brass?'",
@@ -945,7 +945,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "Meera, a girl in Class 2 in Salem, empties the kitchen drawer onto the floor. Sort each thing: will a magnet attract it?",
+     "p": "These things came out of a kitchen drawer. Sort each one: will a magnet attract it?",
      "cats": [
       "Attracted by a magnet",
       "Not attracted by a magnet"
@@ -1063,7 +1063,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun, aged 8, says, 'The key is shiny, so the magnet will stick to it.' Is he right? Explain.",
+     "p": "Someone says, 'The key is shiny, so the magnet will stick to it.' Is that right? Explain.",
      "lines": 3,
      "a": "No. Shiny things are not always magnetic. A brass key is shiny, but a magnet does not stick to brass. A magnet sticks to iron and steel, whether they are shiny or rusty.",
      "why": "A strong answer gives an example of a shiny thing that does not stick, or a dull thing that does."
@@ -1118,7 +1118,7 @@
      ],
      "ask": "Whose plan would you choose? Give a reason. Then say what another person has right.",
      "lines": 5,
-     "a": "A strong answer uses what a magnet can and cannot do. Everyone uses the magnet first, because it lifts out iron and steel fast and surely. But it cannot tell copper, brass, aluminium and steel that does not stick apart, so those need eyes, colour and weight. Then it weighs time against money: Priya's plan gets the best price but takes longest, Anil's is fastest but sells cheap, and Selvi's is in between.",
+     "a": "A strong answer uses what a magnet can and cannot do. Everyone uses the magnet first, because it lifts out iron and steel fast and surely. But the magnet cannot tell apart the things it does not attract: copper, brass, aluminium and the steel that does not stick. Those need eyes, colour and weight. A strong answer also weighs time against money. Priya's plan gets the best price but takes longest. Anil's is fastest but sells cheap. Selvi's is in between.",
      "why": "There is no single right answer. It depends on how much time the shop has and how much each metal sells for. Real scrap shops use a magnet first and then sort by colour and weight."
     },
     {
@@ -1136,7 +1136,7 @@
     },
     {
      "t": "write",
-     "p": "In your Great Magnet Test, which result surprised you most? Write what you guessed, what happened, and what you learned.",
+     "p": "In the Great Magnet Test, you tested 16 objects with a magnet. Which result surprised you most? Write what you guessed, what happened, and what you learned.",
      "lines": 4,
      "a": "For example: I guessed the steel tumbler would stick, because it is metal. It did not stick. I learned that some steels are not magnetic, so I must test, not guess.",
      "why": "A strong answer has all three parts, and uses the child's own result.",
@@ -1206,7 +1206,7 @@
     },
     {
      "t": "mcq",
-     "p": "Predict: a magnet is held over a pin, first with a plastic plate between them, then with a magnetic steel plate between them. What will happen?",
+     "p": "A magnet is held over a pin, first with a plastic plate between them, then with a steel plate that a magnet sticks to between them. What will happen each time?",
      "opts": [
       "The pin jumps up both times",
       "The pin jumps up through the steel but not the plastic",
@@ -1218,7 +1218,7 @@
     },
     {
      "t": "mcq",
-     "p": "In Through the Paper, the bar magnet worked through 30 sheets, and the small fridge magnet worked through 10. Kavitha, a girl in Class 4, says, 'So the bar magnet is exactly 3 times as strong.' What is the best answer?",
+     "p": "In the Through the Paper experiment, the bar magnet worked through 30 sheets, and the small fridge magnet worked through 10. Someone says, 'So the bar magnet is exactly 3 times as strong.' What is the best answer?",
      "opts": [
       "Yes, 30 is 3 times 10, so it is exactly 3 times as strong",
       "No, the fridge magnet is stronger",
@@ -1328,7 +1328,7 @@
     },
     {
      "t": "write",
-     "p": "In the sorting ramp project, a clip slips past the magnet instead of staying on the ramp. Give two changes you could try, and say why each should help.",
+     "p": "In the Magnetic Sorting Ramp project, a magnet taped under the ramp should hold the steel clips. But a clip slips past the magnet instead of staying on the ramp. Give two changes you could try, and say why each should help.",
      "lines": 4,
      "a": "Use a stronger magnet, or two magnets, so the hold is stronger. Use thinner card, so the magnet is closer to the clip. Or make the slope gentler, so the clip moves more slowly past the magnet.",
      "why": "A strong answer links each change to the idea that the magnetic force is stronger when the magnet is closer or stronger, and that a slower clip gives the magnet more time."
@@ -1361,7 +1361,7 @@
     },
     {
      "t": "write",
-     "p": "The Earth's core is mostly iron, and a compass points north. Meghna, aged 10, says, 'So there must be a giant iron magnet in the middle of the Earth.' What is wrong with her idea?",
+     "p": "The Earth's core is mostly iron, and a compass points north. Someone says, 'So there must be a giant iron magnet in the middle of the Earth.' What is wrong with this idea?",
      "lines": 4,
      "a": "The core is far hotter than 770 degrees Celsius, the Curie point of iron. Above it, iron cannot stay a magnet, because its tiny magnets cannot stay lined up. So the field must be made another way. Scientists think it comes from liquid iron flowing in the outer core.",
      "why": "A strong answer uses the Curie point, and says what scientists think makes the field instead."
@@ -1435,7 +1435,7 @@
     },
     {
      "t": "write",
-     "p": "Imagine that in iron, every electron had a partner pointing the opposite way, as in wood. What would happen to fridge magnets, compasses and scrap sorting? Explain.",
+     "p": "Suppose that in iron, every electron had a partner pointing the opposite way, as in wood. What would happen to fridge magnets, compasses and scrap sorting? Explain.",
      "lines": 4,
      "a": "Iron would not be magnetic. Fridge magnets made with iron would stop working, a compass needle would not point north, and a scrap dealer's magnet could not lift iron out of a heap.",
      "why": "A strong answer uses the tiny-magnet idea and follows it through to several everyday things."
@@ -1474,7 +1474,7 @@
       ]
      ],
      "a": "see items",
-     "why": "A 'stick' proves that a magnetic material is there. A 'no stick' only says that this magnet noticed none, so many answers are still possible. Some steels do not stick, for example."
+     "why": "A 'stick' proves that a magnetic material is there. A 'no stick' only says that this magnet did not attract the thing, so many answers are still possible. Some steels do not stick, for example."
     },
     {
      "t": "order",
@@ -1581,7 +1581,7 @@
     {
      "day": 1,
      "mins": 35,
-     "what": "Guess. Test all 16 objects twice. Sort them. Find the pattern. Write a claim, evidence and reasoning."
+     "what": "Guess which objects will stick. Test all 16 objects twice. Sort them. Look for the pattern. Then write what you think, what you saw, and why."
     }
    ],
    "record": "Fill in the table. Then write three sentences: what I think, what I saw, and why.",
@@ -1987,7 +1987,7 @@
    "days": 1,
    "question": "Can a magnet turn a steel nail into a magnet, and does it work for other materials?",
    "predict": "Guess first. If you touch a nail to a magnet, can the nail pick up paper clips? What about a copper wire, or a strip of foil? Why do you think so?",
-   "fair_test": "To make it fair, use the same magnet and the same touch each time, for five seconds. Use objects of a similar size where you can. Change only the material. Count the clips three times and take the middle number.",
+   "fair_test": "To make it fair, use the same magnet each time, and touch each object to it for five seconds. Use objects of a similar size where you can. Change only the material. Count the clips three times and take the middle number.",
    "results_table": [
     "Object",
     "Made of",
@@ -2043,7 +2043,7 @@
       }
      ],
      "parent": "Each clip in the chain becomes a weak magnet while it is near the magnet. This is the idea of the whole experiment. A chain of 2 to 4 is typical for a fridge magnet. A weak one may hold only 1 or 2.",
-     "context": "This is the first step of the experiment about turning things into magnets. A magnet can turn a magnetic thing into a magnet for a short time."
+     "context": "This is the first step of the Make a Nail a Magnet experiment. A magnet can turn a magnetic thing into a magnet for a short time."
     },
     {
      "id": "s2",
@@ -2117,7 +2117,7 @@
      "say": "Now we try to make a lasting magnet. This step is an extra, and it may not work with a weak magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.",
      "kid": "Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a pin or a clip?",
      "adult": true,
-     "parent": "This step is doubtful with a fridge magnet. The needle may pick up only a pin, or nothing. If it picks up nothing, that is a real result: a weak magnet makes a weak needle magnet. If it works, it can keep working for hours or days, and the nail may stop within minutes. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.",
+     "parent": "This step may not work with a fridge magnet. The needle may pick up only a pin, or nothing. If it picks up nothing, that is a real result: a weak magnet makes a weak needle magnet. If it works, the needle can stay a magnet for hours or days, but the nail may stop within minutes. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.",
      "think": "A fridge magnet stays a magnet for years. A nail loses its magnetism in minutes. What might be different inside them?"
     },
     {
@@ -2297,7 +2297,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Now the group is iron. Everyone points both arms forward, the same way. 2. Split into two or three small groups. In each group, everyone points the same way. These are domains. With only one or two atoms, each atom is its own group. 3. Different groups point different ways. 4. The grown-up walks past with the big arrow. Each group slowly turns to point the same way as the arrow.",
+     "do": "1. Now the group is iron. Everyone points both arms forward, the same way. 2. Split into two or three small groups. In each group, everyone points the same way. These are domains. If only one or two people are playing atoms, each person is their own group. 3. Different groups point different ways. 4. The grown-up walks past with the big arrow. Each group slowly turns to point the same way as the arrow.",
      "say": "Now we are iron. In iron, some electrons have no partner, and each atom points the same way as its neighbours. Stand in small groups, all pointing one way. When the big arrow comes, turn to match it.",
      "kid": "Now you are iron. Point both arms forward. Your group points the same way. When the big arrow comes, turn to match it.",
      "check": {
@@ -2386,7 +2386,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Move the bagged magnet just above the heap. 2. Lift off whatever sticks. 3. Hold the bag over a bowl marked MAGNETIC, and pull the magnet out of the bag, so the things drop in. 4. Repeat until nothing else sticks.",
+     "do": "1. Move the magnet, inside its bag, just above the heap. 2. Lift off whatever sticks. 3. Hold the bag over a bowl marked MAGNETIC, and pull the magnet out of the bag, so the things drop in. 4. Repeat until nothing else sticks.",
      "say": "The magnet is the first sorter. Everything that sticks goes into the MAGNETIC bowl. The bag lets you drop them in easily.",
      "kid": "Move the magnet over the heap. Everything that sticks goes into the MAGNETIC bowl. Pull the magnet out of the bag to drop them.",
      "parent": "The bag keeps the magnet clean. When you pull the magnet out of the bag, the things drop. Expect clips, pins, steel caps and the steel spoon, if that steel is magnetic.",
@@ -2405,9 +2405,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Look at what is left. Ask how you could separate the aluminium, copper and brass from the plastic and rice. 2. Try some ideas: tap each to hear the ring, float in water, look at the colour. 3. Put them in the other bowls.",
+     "do": "1. Look at what is left. Ask how you could separate the aluminium, copper and brass from the plastic and rice. 2. Try some ideas: tap each thing to hear whether it rings, see whether it floats in water, and look at its colour. 3. Put them in the other bowls.",
      "say": "Now the magnet cannot help. How can we sort the rest? What does each thing feel, sound or look like?",
-     "kid": "The magnet is done. How can you sort the rest? Try colour, ringing sound, floating in water.",
+     "kid": "The magnet is done. How can you sort the rest? Look at the colour. Tap each thing to hear if it rings. See if it floats in water.",
      "parent": "Good ideas: copper is reddish, brass is yellow, and foil is silvery and bends easily. Metal pieces ring when tapped, but rice and plastic make a dull sound.",
      "think": "In a real scrap yard, the metals worth the most, such as copper and brass, are not magnetic. Why do you think a magnet is still used first?"
     },
@@ -2482,16 +2482,16 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Sweep dust from a windowsill, a balcony floor or, with a grown-up, a flat roof or gutter into a tray. 2. Spread it thinly on white paper. 3. Drag the bagged magnet through it slowly. 4. Wipe whatever sticks onto a clean white sheet by pulling the magnet out of the bag.",
+     "do": "1. Sweep dust into a tray from a windowsill or a balcony floor. With a grown-up, you can also use a flat roof or a gutter. 2. Spread it thinly on white paper. 3. Drag the magnet, inside its bag, through it slowly. 4. Wipe whatever sticks onto a clean white sheet by pulling the magnet out of the bag.",
      "say": "Drag the magnet through the dust slowly. Little dark specks will cling to the bag. Wipe them off onto the white paper.",
      "kid": "Spread the dust thinly. Drag the magnet through it slowly. Little dark specks will cling to the bag. Wipe them onto white paper.",
-     "parent": "Expect some dark specks. If you find none, try dust from another place. Most are iron from Earth: flakes of rust, dust from vehicle brakes, and sparks from welding. Some are round black beads too. A tiny few may be micrometeorites, which means space dust. Only an expert with a microscope can be sure, so be honest about that."
+     "parent": "Expect some dark specks. If you find none, try dust from another place. Most are iron from Earth: flakes of rust, dust from vehicle brakes, and sparks from welding. Some specks are round black beads. A tiny few may be micrometeorites, which means space dust. Only an expert with a microscope can be sure, so be honest about that."
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "1. Look at the specks with a magnifying glass. 2. Look for round, smooth beads. 3. Draw a few. 4. Talk about where they came from.",
-     "say": "Look at the specks closely. Some are round like tiny balls. Where do you think they came from? Most are from Earth, some may be from space.",
+     "say": "Look at the specks closely. Some are round like tiny balls. Where do you think they came from? Most are from Earth. Some may be from space.",
      "kid": "Look at the specks with the magnifying glass. Draw three of them. Where did they come from?",
      "check": {
       "t": "mcq",
@@ -2509,7 +2509,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about the finding. Real micrometeorites have been found on city roofs. Scientists confirmed them in a paper in 2017.",
+     "do": "Talk about the finding. Real micrometeorites have been found on city roofs. Scientists confirmed this in a report published in 2017.",
      "say": "Scientists studied the specks Jon Larsen found on roofs. In 2017 they confirmed that some were real space dust. Tiny round beads are one sign, and experts also check what is inside them.",
      "kid": "Real space dust has been found on roofs in cities. Experts check what is inside. Would you like to be a space dust hunter?",
      "parent": "Be honest. Most of what you catch is iron dust from Earth. The point is to see a magnet pick out iron specks that you could not see in the dust. It also shows how real scientists did it."
@@ -2584,7 +2584,7 @@
      "do": "1. Drag the wrapped magnet slowly through the soil for two minutes. 2. Lift it up and look at the bag. 3. Hold the bag over the clean side of the plate and pull the magnet out of the bag. 4. Look at the specks that fall off.",
      "say": "Drag the magnet slowly through the soil. Now lift it. Is anything stuck to the bag? Pull the magnet out and watch what falls.",
      "kid": "Drag the magnet through the soil. Lift it. Look at the bag. Pull the magnet out. What falls off?",
-     "parent": "The specks look like tiny black grains or fuzz. When the magnet comes out of the bag, they are no longer attracted and drop off. If you find nothing, try soil from another pot, or sand. If you find nothing, that is a real result: not every soil has enough magnetite to see.",
+     "parent": "The specks look like tiny black grains or fuzz. When the magnet comes out of the bag, they are no longer attracted and drop off. If you find nothing, try soil from another pot, or sand. If you still find nothing, that is a real result: not every soil has enough magnetite to see.",
      "check": {
       "t": "mcq",
       "q": "Why did the magnet pick up only a few black specks from a whole plate of soil?",
@@ -2602,7 +2602,7 @@
      "mins": 5,
      "do": "Talk about iron in food. Our blood needs a little iron to carry oxygen around the body. We get it from foods such as spinach, lentils and jaggery.",
      "say": "Our blood needs a tiny amount of iron to carry oxygen to every part of our body. We get it from food. Which foods in our home have iron?",
-     "kid": "Your body needs a tiny bit of iron. Which foods have it? Lentils, jaggery, spinach.",
+     "kid": "Your body needs a tiny bit of iron. Foods such as lentils, jaggery and spinach have it. Which foods in your home have iron?",
      "think": "The iron in soil is in grains of magnetite, so a magnet attracts it. The iron in spinach is spread out, one atom at a time, joined to other atoms. Do you think a magnet could pick that iron out of spinach? Why?"
     }
    ],
@@ -2683,7 +2683,7 @@
      "do": "Talk about what the magnet could and could not tell you.",
      "say": "The magnet could pick out the iron things. But it could not tell us what the others were. What other test could tell us?",
      "kid": "The magnet found the iron things. What other test could tell the rest apart?",
-     "think": "Feel, sound, shine, floating. Which test would you use to tell foil from plastic?"
+     "think": "You could feel a thing, tap it to hear its sound, look at its shine, or see if it floats. Which test would you use to tell foil from plastic?"
     }
    ],
    "context": "This is a game of guessing. You use a magnet on a string to find out which things are hiding in a bag.",
@@ -2844,7 +2844,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Hold the magnet under the paper, right below the clip. 2. Slowly move the magnet. The clip will follow, and paint a line. 3. Make spirals, swirls and zig-zags. 4. Try a different colour clip.",
+     "do": "1. Hold the magnet under the paper, right below the clip. 2. Slowly move the magnet. The clip will follow, and paint a line. 3. Make spirals, swirls and zig-zags. 4. Try a clip dipped in a different colour of paint.",
      "say": "Move the magnet slowly under the paper. The clip follows and draws a line. Make spirals and swirls!",
      "kid": "Move the magnet slowly under the paper. The clip follows and paints. Make spirals and swirls!",
      "parent": "If the clip stops moving, the paper is too thick or the magnet is too weak. Try a thinner plate or a stronger magnet."
@@ -3198,7 +3198,7 @@
    "channel": "Steel Magnetism",
    "youtube": "ARvLxpDZfos",
    "mins": 3,
-   "why": "Shows how a giant magnet lifts iron and steel out of a mixed heap, the way our small magnet did.",
+   "why": "Shows how a giant magnet lifts iron and steel out of a mixed heap, the way your small magnet does in The Kabadiwala's Heap.",
    "check": "A parent should preview it first."
   }
  ],
@@ -3240,7 +3240,7 @@
    ],
    "a": 0,
    "outcome": 2,
-   "why": "Only iron, nickel and cobalt are magnetic in an ordinary room. Picking 'all metals' is the most common mistake about magnets."
+   "why": "Only iron, nickel and cobalt are magnetic at room temperature. Picking 'all metals' is the most common mistake about magnets."
   },
   {
    "t": "mcq",
@@ -3266,7 +3266,7 @@
    ],
    "a": 2,
    "outcome": 2,
-   "why": "The table shows 0 stuck and 4 did not stick. Picking 'all of them stuck' often means believing that all metals are magnetic, before looking at the results.",
+   "why": "In the table, 0 of the other metals stuck and 4 did not stick. Picking 'all of them stuck' often means believing that all metals are magnetic, before looking at the results.",
    "context": "In the Great Magnet Test, you test 16 objects with a magnet and group the results. Here are some made-up results.",
    "chart": {
     "type": "table",
@@ -3495,7 +3495,7 @@
    "why_open": "In 2019 a team in California found that human brain waves changed when the magnetic field around people was rotated. Other scientists want the result checked again and again."
   },
   {
-   "q": "Why are only iron, nickel and cobalt magnetic in a room, when many metals have electrons that could line up?",
+   "q": "Why are only iron, nickel and cobalt magnetic at room temperature, when many metals have electrons that could line up?",
    "why_open": "Quantum physics can explain it for each metal after it is measured. But predicting it from scratch for a new material is still very difficult."
   }
  ],
@@ -3545,7 +3545,7 @@
  ],
  "maths": [
   {
-   "problem": "In the nail experiment, the steel nail picked up 6 clips. The steel bolt picked up 5, the steel spoon 2 and the copper wire 0. Draw a bar chart of these. How many more clips did the nail pick up than the spoon?",
+   "problem": "In the Make a Nail a Magnet experiment, the steel nail picked up 6 clips. The steel bolt picked up 5, the steel spoon 2 and the copper wire 0. Draw a bar chart of these. How many more clips did the nail pick up than the spoon?",
    "answer": "4 more clips. Here is the bar chart.",
    "explain": "Draw one bar for each object, as tall as its number of clips. The nail's bar is 6 tall and the spoon's is 2 tall. To find how many more, take away: 6 minus 2 is 4. You can check: 2 and 4 more makes 6.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3658,9 +3658,9 @@
    "why_maths": "A ruler only helps if you can read it. Reading the small marks turns a stack of paper into a number you can compare."
   },
   {
-   "problem": "A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. A woman sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get?",
+   "problem": "A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. How many rupees does the kabadiwala pay for 4 kilograms of iron scrap that was sorted with a magnet?",
    "answer": "100 rupees.",
-   "explain": "She gets 25 rupees for each of 4 kilograms. That is 4 groups of 25. 25 and 25 is 50. 50 and 25 is 75. 75 and 25 is 100. So she gets 100 rupees.",
+   "explain": "The kabadiwala pays 25 rupees for each of 4 kilograms. That is 4 groups of 25. 25 and 25 is 50. 50 and 25 is 75. 75 and 25 is 100. So the kabadiwala pays 100 rupees.",
    "math_unit": "math.money.money-in-life.L3",
    "context": "In The Kabadiwala's Heap, you sort a heap of scrap with a magnet. Scrap dealers pay for scrap by its weight. The price in this question is made up.",
    "how": "a3",
@@ -3849,7 +3849,7 @@
  "roots": {
   "context": "We have found that a magnet attracts only a few materials, mostly iron, nickel and cobalt. Now we ask what that tells us about ourselves, about life and about the world.",
   "deep_truth": {
-   "truth": "In the magnet test, only things made with iron, like steel, stuck. In iron, the atoms' tiny magnets line up, so their forces add together and iron is attracted strongly. Water, wood and you are pushed away instead, but far too weakly to feel. So a very strong magnet can float a drop of water, or even a live frog.",
+   "truth": "In the Great Magnet Test, only things made with iron, such as steel things, stuck to the magnet. In iron, the atoms' tiny magnets line up, so their forces add together and iron is attracted strongly. Water, wood and you are pushed away instead, but far too weakly to feel. So a very strong magnet can float a drop of water, or even a live frog.",
    "habit": "We sort materials into two boxes, magnetic and non-magnetic, as if a magnet acts on one box and leaves the other alone. The science shows one scale instead: strong attraction, weak attraction and weak repulsion. The line between the two boxes is drawn by what our hands can feel.",
    "evidence": "In 1997, Andre Geim and Michael Berry floated a live frog in a very strong magnet, because the magnet repels the water in the frog's body. A drop of water can be floated the same way. In 1845, Michael Faraday found that every material he tested moved a little near a strong magnet."
   },
@@ -3858,7 +3858,7 @@
    "what_is_life": "Life uses magnetic materials too. Some bacteria grow tiny magnets in a chain and use the chain to find their way, and many animals sense the Earth's magnetic field.",
    "what_is_this_world": "Every material in the world responds to a magnet, strongly or very weakly. Our hands notice only the strongest cases."
   },
-  "thread": "Every electron is a tiny magnet. In wood and copper, the electrons come in pairs that cancel out to zero. In iron, the same kind of electrons add up, and strong magnetism appears. So, for a magnet, wood and iron sit at two ends of one scale. Many differences we see are differences of amount.",
+  "thread": "Every electron is a tiny magnet. In wood and copper, the electrons come in pairs that cancel out to zero. In iron, the tiny magnets of the electrons add up, and the iron is strongly magnetic. So, for a magnet, wood and iron sit at two ends of one scale. Many differences we see are differences of amount.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
@@ -3867,7 +3867,7 @@
    },
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
-    "teaching": "Imagine a net with a shining jewel at every knot. Each jewel shows the reflection of every other jewel. Nothing stands alone.",
+    "teaching": "An old teaching describes a net with a shining jewel at every knot. Each jewel shows the reflection of every other jewel. Nothing stands alone.",
     "link": "In a piece of iron, each atom's tiny magnet turns to match its neighbours, and they turn to match it. Each one is set by all the others, like the jewels."
    },
    {
@@ -3905,7 +3905,7 @@
  },
  "how_we_found_out": {
   "context": "How did people find out that a magnet acts on every material, not only on iron? This card tells the true story.",
-  "story": "For a long time, people thought a magnet acts only on iron and a few other metals, and that everything else is untouched. In 1778, a Dutch scientist, Anton Brugmans, noticed that a magnet pushed away a piece of the metal bismuth. Few people followed this up. In 1845, Michael Faraday tested it properly at the Royal Institution in London. He had a very strong electromagnet. He hung a bar of heavy glass between its two ends on a silk thread. When he switched the magnet on, the glass turned to lie across the gap, as if pushed away from both ends. An iron bar would have turned the other way, to point from one end to the other. Faraday then hung up everything he could find, such as wood, bismuth, an apple, bread and a piece of beef. Every one of them moved a little. Most were pushed away, and he called them diamagnetic. A few were drawn in, like a very weak iron. He concluded that every material responds to a magnet, in one way or the other.",
+  "story": "For a long time, people thought a magnet acts only on iron and a few other metals, and that everything else is untouched. In 1778, a Dutch scientist, Anton Brugmans, noticed that a magnet pushed away a piece of the metal bismuth. Few people followed this up. In 1845, Michael Faraday tested it properly at the Royal Institution in London. He had a very strong electromagnet. He hung a bar of heavy glass between its two ends on a silk thread. When he switched the magnet on, the glass turned to lie across the gap, as if pushed away from both ends. An iron bar would have turned the other way, to point from one end to the other. Faraday then hung up everything he could find, such as wood, bismuth, an apple, bread and a piece of beef. Every one of them moved a little. Most were pushed away, and he called them diamagnetic. A few were drawn in, as iron is, but very weakly. He concluded that every material responds to a magnet, in one way or the other.",
   "who": "Michael Faraday (1791 to 1867), an English scientist who started work at 13 as an errand boy for a bookseller. Before him, Anton Brugmans (1732 to 1789), a Dutch scientist.",
   "when": "Brugmans noticed bismuth being pushed away in 1778. Faraday tested many materials in 1845.",
   "wrong_idea": "That a magnet acts only on iron and a few metals, and leaves everything else alone. Faraday's strong magnet showed that every material moves a little near a magnet. Most are pushed away, and a few are drawn in.",

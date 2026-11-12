@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Leaves are held by the stalk, because touching rubs off the wax (use a fresh leaf, or an outer cabbage leaf if no chembu or lotus leaf can be found). The splash test counts wet spots on fresh newspaper after every drop, with the water 2 cm below the rim; a beak that tumbles is dropped again from 20 cm. The ice test uses lidded cups, checked every 10 minutes, and needs a sunny balcony or windowsill and about 75 minutes, mostly waiting; the matching game fills the wait. The Sock Walk is outdoors, works best from September to February, and is not in the core path. Candle soot and the flame are grown-up steps. Cling film also holds partly by static, which the activity says honestly.",
  "summary": {
-  "text": "Every plant and animal has problems to solve in their own life. A burdock plant must send their seeds far away, so their burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so their beak widens very slowly. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.",
+  "text": "Every plant and animal has problems to solve in their own life. A burdock plant must send their seeds far away, so their burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so their long beak widens slowly towards the head. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.",
   "art": "A child's notebook page: on the left a burr, a lotus leaf, a kingfisher, a gecko and a termite mound, and on the right, joined by dotted arrows, a Velcro strap, a raindrop rolling off a wall, a bullet train, a robot hand and a cool building."
  },
  "intro": {
@@ -161,7 +161,7 @@
    "concept": "What biomimicry is",
    "status": "defined",
    "definition": "Biomimicry means studying how a plant or an animal solves a problem in their own life, and using the same idea to solve a human problem. People copy the idea, not the whole living thing.",
-   "description": "Every living thing has problems in their own life. A plant must spread their seeds and keep their leaves clean. An animal must catch food, grip a branch or keep their home cool. Over many generations, living things have worked out designs that solve these problems. A person who wants to copy one must first understand it. What problem does the living thing have? How exactly does its design solve it? Only then can the same idea be built from materials people can make. An American scientist, Otto Schmitt, used the word 'biomimetics' for this in the 1950s. In 1997, an American nature writer, Janine Benyus, wrote a book called 'Biomimicry'. It made the word famous around the world.",
+   "description": "Every living thing has problems in their own life. A plant must spread their seeds and keep their leaves clean. An animal must catch food, grip a branch or keep their home cool. Over many generations, living things have worked out designs that solve these problems. A person who wants to copy one must first understand it. What problem does the living thing have? How exactly does their design solve it? Only then can the same idea be built from materials people can make. An American scientist, Otto Schmitt, used the word 'biomimetics' for this in the 1950s. In 1997, an American nature writer, Janine Benyus, wrote a book called 'Biomimicry'. It made the word famous around the world.",
    "examples": [
     "A burdock burr's hooks carry its seeds away on animal fur. Velcro copies them to fasten shoes.",
     "A kingfisher's beak lets them dive without warning the fish. A bullet train's nose copies it to leave tunnels quietly.",
@@ -230,7 +230,7 @@
    "concept": "The same shape, again and again",
    "status": "defined",
    "definition": "Animals that are not close relatives often end up with the same shape, because they face the same problem. Scientists call this convergent evolution. Engineers who test shapes often reach the same answer too.",
-   "description": "Sharks are fish. Dolphins are mammals, like us. Ichthyosaurs were reptiles that lived in the sea in the time of the dinosaurs. They are not close relatives at all. Yet all three have the same shape: a pointed nose, a smooth body and a strong tail. Why? Because water pushes back in the same way on every swimmer. A fast swimmer with a blunt nose wastes its energy pushing water. Over millions of years, the fast, pointed ones caught more food and left more young. Engineers testing train noses in the 1990s did not wait millions of years. They tested shapes in days. But they arrived at the same answer as the kingfisher. Nature and engineers are solving the same problems, under the same rules.",
+   "description": "Sharks are fish. Dolphins are mammals, like us. Ichthyosaurs were reptiles that lived in the sea in the time of the dinosaurs. They are not close relatives at all. Yet all three have the same shape: a pointed nose, a smooth body and a strong tail. Why? Because water pushes back in the same way on every swimmer. A fast swimmer with a blunt nose wastes their energy pushing water. Over millions of years, the fast, pointed ones caught more food and left more young. Engineers testing train noses in the 1990s did not wait millions of years. They tested shapes in days. But they arrived at the same answer as the kingfisher. Nature and engineers are solving the same problems, under the same rules.",
    "examples": [
     "Penguins, seals and fish all have smooth, pointed bodies for swimming.",
     "Bats, birds and insects all grew wings, in three different ways.",
@@ -310,7 +310,7 @@
    "description": "In 1996, the Eastgate Centre opened in Harare, the capital city of Zimbabwe in Africa. Its architect, Mick Pearce, studied termite mounds. The building has thick concrete walls and floors that soak up heat slowly in the day. At night, fans pull cool outside air through hollow spaces in the floors, and warm air leaves through chimneys on the roof. Its designers reported that it uses much less energy for cooling than similar buildings. The building was based on the old chimney idea of how mounds work. Scientists later found mounds work differently. The building still works well. So a copy can be useful even when the original is not fully understood. In India, old houses with thick mud walls, small windows and courtyards also stay cool in the heat.",
    "examples": [
     "Thick mud walls of village houses keep rooms cool in summer.",
-    "A clay water pot (a matka or kooja), keeps water cool because water seeps through its clay and evaporates from the outside, and that carries heat away."
+    "A clay water pot (a matka or kooja) keeps water cool. Water seeps through the clay and evaporates from the outside, and that carries heat away."
    ],
    "perspectives": [],
    "art": "A tall building with chimneys on its roof next to a termite mound with the same shape, cool blue arrows flowing through both at night.",
@@ -472,7 +472,7 @@
    "claim": "A car shaped like a boxfish proved that fish shapes are the best for cars.",
    "who": "The company Mercedes-Benz, with its boxfish concept car in 2005",
    "for": "The boxfish is a small reef fish that looks like a box. The car copied their shape, and in tests it slipped through the air very easily.",
-   "against": "Later, scientists studied real boxfish. They found the boxfish's shape helps it turn quickly, more than it helps it swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what its shape is really for.",
+   "against": "Later, scientists studied real boxfish. They found the boxfish's shape helps them turn quickly, more than it helps them swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what their shape is really for.",
    "status": "debated",
    "context": "This card is about a car that copied a fish, and what scientists later found out about the fish."
   }
@@ -506,7 +506,7 @@
   {
    "q": "If nature has been testing designs for 3.8 billion years, does that make nature wise?",
    "kind": "big",
-   "hint": "Is cleverness only the kind that happens in a head? What kind of cleverness does a river have when it finds the easiest way downhill?"
+   "hint": "Does cleverness need a brain? A river finds the easiest way downhill without thinking. Is that a kind of cleverness?"
   },
   {
    "q": "Plants and animals are dying out faster than ever because of people. What designs might we lose before we even see them?",
@@ -585,7 +585,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a matching card game about biomimicry. Each green card is a living thing, with the problem its design solves in its own life. Each orange card is an invention that copied that design. You find the pairs and explain them.",
+   "context": "This is a matching card game about biomimicry. Each green card is a living thing, with the problem their design solves in their own life. Each orange card is an invention that copied that design. You find the pairs and explain them.",
    "printables": [
     {
      "kind": "cards",
@@ -703,7 +703,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 20 cards. 2. Shuffle the green cards and lay them face down in two rows of 5. 3. Do the same with the orange cards, next to them.",
-     "say": "Every green card is a living thing with a problem in its own life, and the design that solves it. Every orange card is an invention that copied one of those designs. We will hunt for the pairs.",
+     "say": "Every green card is a living thing with a problem in their own life, and the design that solves it. Every orange card is an invention that copied one of those designs. We will hunt for the pairs.",
      "kid": "Lay the green cards face down. Lay the orange cards beside them. Each green card has one orange partner. Can you find them all?",
      "context": "This is the first step of Nature's Idea Match, a memory game about inventions copied from plants and animals. Here you set up the cards."
     },
@@ -711,7 +711,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice pair face up. Show the burr card and the Velcro card side by side.",
-     "say": "Here is a pair to practise with. A burdock burr and Velcro. Why does the burr have hooks? And what did Velcro copy?",
+     "say": "Here is a pair to practise with: a burdock burr and Velcro. Why does the burr have hooks? And what did Velcro copy?",
      "kid": "Practice pair: burr and Velcro. Why does the burr have hooks? What did Velcro copy?",
      "ask": [
       {
@@ -873,7 +873,7 @@
      "do": "1. Take turns to roll both dice. 2. Each player draws an invention in 2 minutes. 3. They explain it. 4. The others score it with the three points on the sheet.",
      "say": "Roll, draw for two minutes, then tell us about it. Remember the three points: name the design, say how to test it, and could it really be built?",
      "kid": "Roll both dice. Draw your invention in 2 minutes. Then explain it, with the design and how to test it.",
-     "parent": "Some strong answers. A burr-hook strip on the bag strap and a loop strip on the chair, for problem 2. A label rubbed thickly with candle wax, for problem 3. A pointed nose for the toy car, for problem 5. Grooved soft rubber pads on the chappal, like a tree frog's toe pads, for problem 6. Silly but well-explained ideas deserve the first point too."
+     "parent": "Here are some strong answers. A burr-hook strip on the bag strap and a loop strip on the chair, for problem 2. A label rubbed thickly with candle wax, for problem 3. A pointed nose for the toy car, for problem 5. Grooved soft rubber pads on the chappal, like a tree frog's toe pads, for problem 6. Silly but well-explained ideas deserve the first point too."
     },
     {
      "id": "s4",
@@ -924,11 +924,11 @@
      "p": "In your own words, what is biomimicry? Give one example that is not Velcro.",
      "lines": 3,
      "a": "Biomimicry is finding out how a living thing solves a problem in their life, and using the same idea to solve a human problem. For example, the lotus leaf's tiny waxy bumps make rain roll off, and self-cleaning paint copies them.",
-     "why": "A strong answer has both parts: the living thing's own problem and how it solves it, and the human problem the copy solves."
+     "why": "A strong answer has both parts: the living thing's own problem and how they solve it, and the human problem the copy solves."
     },
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3 in Thrissur, sprinkles a little chalk dust on a chembu leaf. Then she drips water on the leaf and tilts it. What will the rolling drops do to the chalk dust?",
+     "p": "Sprinkle a little chalk dust on a chembu leaf. Then drip water on the leaf and tilt it. What will the rolling drops do to the chalk dust?",
      "opts": [
       "Push it into the leaf",
       "Pick it up and carry it off the leaf",
@@ -949,7 +949,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the splash experiment, the pancake made the most splash and the pointed beak made the least. A fourth shape is made from the same amount of dough: a short, fat cone. Where do you think its splash will be?",
+     "p": "In the experiment Splash Like a Kingfisher, the flat pancake made the most splash, the ball made less, and the pointed beak made the least. A fourth shape is made from the same amount of dough: a short, fat cone. Where do you think its splash will be?",
      "opts": [
       "Bigger than the pancake's",
       "Smaller than the beak's",
@@ -1073,14 +1073,14 @@
     },
     {
      "t": "perspective",
-     "p": "Two children in Bengaluru are arguing about who should get the credit for Velcro.",
+     "p": "Two children are arguing about who should get the credit for Velcro.",
      "views": [
       {
-       "who": "Nandini, aged 9",
+       "who": "The first child",
        "says": "George de Mestral, the Swiss engineer. He spent about ten years making it work."
       },
       {
-       "who": "Farhan, aged 10",
+       "who": "The second child",
        "says": "The burdock plant. The hooks were the plant's design long before any person thought of them."
       }
      ],
@@ -1262,18 +1262,18 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Chennai want to keep a bottle of water cool on a hot afternoon. Their cousin joins in.",
+     "p": "Three children in Chennai want to keep a bottle of water cool on a hot afternoon. Each has a different idea.",
      "views": [
       {
-       "who": "Shalini, aged 10",
+       "who": "The first child",
        "says": "Wrap it in thick newspaper. Thick walls slow the heat getting in, like a termite mound."
       },
       {
-       "who": "Meena, aged 8",
+       "who": "The second child",
        "says": "Wrap it in a wet cloth. As the water dries off, it cools the bottle, like a clay water pot."
       },
       {
-       "who": "Karthik, their cousin, aged 9",
+       "who": "The third child",
        "says": "Use both: newspaper next to the bottle, and a wet cloth outside."
       }
      ],
@@ -1356,7 +1356,7 @@
     },
     {
      "t": "write",
-     "p": "Ananya, aged 8, says, 'A burr grows hooks after they touch an animal's fur.' What is wrong with her idea? Explain how burrs came to have hooks.",
+     "p": "Someone says, 'A burr grows hooks after it touches an animal's fur.' What is wrong with this idea? Explain how burrs came to have hooks.",
      "lines": 4,
      "a": "The hooks are already on the burr before it ever meets an animal. Over many generations, burdock plants with slightly better hooks got their seeds carried further, so more of those seeds grew. Their young had good hooks too. So the hooks got better and better.",
      "why": "A strong answer says the hooks come first, and explains change over many generations, not during one burr's life."
@@ -1624,7 +1624,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
+     "kid": "Now say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the chembu leaf keeps itself clean. What I saw: all 5 drops rolled off it, and they picked up the chalk dust. On paper, no drops rolled and the dust made a smudge. Why: the leaf has tiny waxy bumps, so water makes balls that roll and carry dirt away."
     }
    ],
@@ -1677,7 +1677,7 @@
    "title": "Splash Like a Kingfisher",
    "mins": 30,
    "days": 1,
-   "context": "In this unit's story, a kingfisher dives with hardly a splash, and a bullet train copies their beak. In this experiment you drop dough shapes into a bucket of water and count the splash drops.",
+   "context": "In the story The Quietest Splash, a kingfisher dives with hardly a splash, and a bullet train copies their beak. In this experiment you drop dough shapes into a bucket of water and count the splash drops.",
    "question": "Which shape goes into water with the smallest splash: a flat pancake, a round ball, or a long pointed beak?",
    "predict": "Guess first. Put the three shapes in order, from the one you think will splash most to the one you think will splash least. Why do you think so?",
    "fair_test": "Keep everything the same except the shape. Use the same amount of dough for each shape. Drop each one from the same height, 30 cm above the water, measured with a ruler. Keep the water at the same level, 2 cm below the rim. Lay a fresh dry sheet of newspaper over the wet ones before every drop. Drop each shape 3 times.",
@@ -1825,7 +1825,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
+     "kid": "Now say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a long pointed shape goes into water with the smallest splash. What I saw: the pancake made 22 spots, the ball 9 and the beak only 2. Why: the beak pushes the water aside slowly, from its tip, like a kingfisher's beak. The same idea made the bullet train quieter in tunnels."
     }
    ],
@@ -1927,7 +1927,7 @@
      "do": "1. House A: leave one cup bare. These are thin walls. 2. House B: wrap one cup round and round in 3 sheets of newspaper, to make a thick wall. Hold it with a rubber band. These are thick dry walls, like a mound's earth. 3. House C: wrap one cup in a cotton cloth folded 4 times, soaked in water and squeezed so it does not drip. These are thick wet walls. 4. House D is your own design, if you want one.",
      "say": "Termite mounds have thick earth walls. Let's see if thick walls really keep the heat out. Each cup is a little house.",
      "kid": "Make three cup houses. Leave one bare. Wrap one in thick newspaper, and one in a wet cloth. Want to invent a fourth?",
-     "parent": "Good ideas for a fourth house. For a purer test of thickness, wrap a cup in just one sheet of newspaper and compare it with House B's three sheets. Or cover a cup in white paper, or in black paper. Use the same size of cup. Note that the newspaper also shades the cup a little, and the wet cloth also cools by drying, so Houses B and C show more than thick walls alone.",
+     "parent": "Here are good ideas for a fourth house. For a purer test of thickness, wrap a cup in just one sheet of newspaper and compare it with House B's three sheets. Or cover a cup in white paper, or in black paper. Use the same size of cup. Note that the newspaper also shades the cup a little, and the wet cloth also cools by drying, so Houses B and C show more than thick walls alone.",
      "context": "This is the first step of Keep the Ice. You build little cup houses with different walls, to see which keeps an ice cube longest."
     },
     {
@@ -1969,7 +1969,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
+     "kid": "Now say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: thick walls keep a house cooler, and wet thick walls are even better. What I saw: the bare cup's ice was gone at 25 minutes. The newspaper cup's lasted 50, and the wet cloth cup's 60. Why: thick walls slow the heat down, and drying water carries heat away, like on a clay water pot."
     }
    ],
@@ -2290,7 +2290,7 @@
    "title": "How Close Is Close? (cling film)",
    "mins": 10,
    "days": 1,
-   "context": "Things grip without glue only when they get extremely close, which is the gecko's secret. In this activity you press cling film onto different surfaces to see which ones it holds on to.",
+   "context": "Two things can grip each other without glue only when they get extremely close. That is how a gecko's toes hold on. In this activity you press cling film onto different surfaces to see which ones it holds on to.",
    "materials": [
     {
      "item": "a roll of cling film, the thin plastic wrap used for food",
@@ -2315,7 +2315,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Tear off six pieces of cling film, each about the size of your palm. 2. Press one flat onto each surface, smoothing it with dry fingers. 3. Turn the plate, box, chopping board and towel upside down. The mirror or window and the wall are already upright, so wait 10 seconds. See if the film stays.",
+     "do": "1. Tear off six pieces of cling film, each about the size of your palm. 2. Press one flat onto each surface, smoothing it with dry fingers. 3. Turn the plate, box, chopping board and towel upside down. The mirror or window and the wall are already upright, so leave them as they are. 4. Wait 10 seconds and see if the film stays on each one.",
      "say": "Cling film has no glue. Let's see which surfaces it will hold on to by itself.",
      "kid": "Press cling film onto each surface. Smooth it flat. Turn it upside down. Does the film stay on?",
      "context": "This is the first step of How Close Is Close? You test which surfaces cling film holds on to without any glue."
@@ -2587,10 +2587,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Choose one problem. Then ask: which living thing has a problem like this, and how does it solve it? Use the green nature cards from Nature's Idea Match if you made them.",
-     "say": "Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in its own life? How does it solve it?",
+     "do": "Choose one problem. Then ask: which living thing has a problem like this, and how do they solve it? Use the green nature cards from Nature's Idea Match if you made them.",
+     "say": "Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in their own life? How do they solve it?",
      "kid": "Pick one problem. Which plant or animal has this problem too? How do they solve it?",
-     "parent": "Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.",
+     "parent": "Here are some helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.",
      "ask": [
       {
        "q": "What exactly will you copy, and what does it do for the living thing?",
@@ -2624,7 +2624,7 @@
      "do": "Test the prototype fairly against the plain version, changing only one thing. Measure something real. Count coins held or drops rolled off. Or time the ice, or measure a slope's height.",
      "say": "Let's test it against the plain version. What will you measure? Change only one thing, and test each 3 times.",
      "kid": "Test your invention against the plain version. Measure something real. Test each one 3 times. Write the numbers.",
-     "parent": "Tests that work at home. A grip invention: count coins in a bag before it slips, or lift a board until it slides and measure the height. A clean or dry invention: drip 5 drops and count how many roll off. A cool invention: put an ice cube inside and time it in the sun.",
+     "parent": "Here are tests that work at home. A grip invention: count coins in a bag before it slips, or lift a board until it slides and measure the height. A clean or dry invention: drip 5 drops and count how many roll off. A cool invention: put an ice cube inside and time it in the sun.",
      "check": {
       "t": "mcq",
       "q": "You test your grip pad against a plain pad. Which test is fair?",
@@ -2758,7 +2758,7 @@
      "kid": "Add 4 more hooks and test again. Does it hold more coins? Now try smooth cotton. What happens?",
      "check": {
       "t": "mcq",
-      "q": "Say that with 4 hooks the towel held 6 coins, and with 8 hooks it held about 12. What does this show?",
+      "q": "Suppose that with 4 hooks the towel held 6 coins, and with 8 hooks it held about 12. What does this show?",
       "options": [
        "Each hook holds a little, and the holds add up",
        "Hooks don't matter, only the towel matters",
@@ -2928,7 +2928,7 @@
     "Copying how a living thing solves a problem, to solve a human problem"
    ],
    "a": 3,
-   "why": "Biomimicry copies how living things solve the problems of their own lives. Picking 'machines that look like animals' is a common mix-up. A good copy takes how it works, not how it looks.",
+   "why": "Biomimicry copies how living things solve the problems of their own lives. Picking 'machines that look like animals' is a common mix-up. A good copy uses how the living thing works, not how they look.",
    "outcome": 0
   },
   {
@@ -2993,7 +2993,7 @@
     "Dirt would block the sunlight the leaf uses to make food"
    ],
    "a": 2,
-   "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' looks at the lotus from our side. The lotus keeps clean for their own life.",
+   "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' thinks about what people want, not what the lotus needs. The lotus keeps clean for their own life.",
    "outcome": 2
   },
   {
@@ -3074,7 +3074,7 @@
     "Tiny claws that dig into the glass"
    ],
    "a": 0,
-   "why": "Gecko hairs split into hundreds of millions of tiny tips. They get extremely close to the glass, and the atoms pull on each other. Picking 'claws dig in' doesn't work on glass, which is too hard to dig into. There is no glue, and experiments ruled out suction.",
+   "why": "Gecko hairs split into hundreds of millions of tiny tips. They get extremely close to the glass, and the atoms pull on each other. Claws cannot dig into glass, because glass is too hard. There is no glue, and experiments ruled out suction.",
    "outcome": 3
   },
   {
@@ -3448,7 +3448,7 @@
    "why_maths": "One try can be a fluke. Taking the middle of three tries, then drawing bars, shows the real difference between the shapes at a glance."
   },
   {
-   "problem": "Kavya, a girl in Class 3, did the leaf experiment with 8 drops on each surface. She tilted the steel plate, and 4 drops rolled off. On the chembu leaf, all 8 rolled off. What fraction of the drops rolled off the steel plate?",
+   "problem": "Suppose you do the leaf experiment with 8 drops on each surface. You tilt the steel plate, and 4 drops roll off. On the chembu leaf, all 8 roll off. What fraction of the drops rolled off the steel plate?",
    "answer": "Half of them.",
    "explain": "4 out of 8 drops rolled off. 4 is half of 8, because 4 + 4 = 8. So half the drops rolled off the steel. On the leaf, 8 out of 8 rolled off, which is all of them, the whole.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
@@ -3735,7 +3735,7 @@
  "roots": {
   "context": "We have been learning how burdock plants, lotus leaves, kingfishers, geckos and termites solve problems in their own lives, and how people copied them. Now we ask what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "On the chembu leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like chembu found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.",
+   "truth": "In the experiment The Leaf That Water Can't Wet, your drops rolled into balls on the chembu leaf and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like chembu found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.",
    "habit": "We think of inventing as something only people do, in workshops and labs. But the chembu leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.",
    "evidence": "Drops roll off a chembu leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps."
   },
@@ -3744,7 +3744,7 @@
    "what_is_life": "Every living thing is solving problems all the time: spreading their seeds, keeping clean, catching food, keeping cool.",
    "what_is_this_world": "Water, air and heat follow the same rules for every living thing and every machine. That is why a bird's answer can work for a train."
   },
-  "thread": "The burdock, the lotus and the kingfisher each solved a different problem. Yet they all worked with the same few rules: water pulling on itself more than on wax, water pushing back on a beak, a hook holding in a loop. From one set of rules for the whole world came countless different answers, one in each kind of living thing. A person who copies a burr is one living thing learning from another, and the idea passes from plant to person.",
+  "thread": "The burdock, the lotus and the kingfisher each solved a different problem. Yet they all worked with the same few rules: water pulling on itself more than on wax, water pushing back on a beak, a hook holding in a loop. These rules are the same everywhere in the world, and each kind of living thing has found their own answer within them. A person who copies a burr is one living thing learning from another.",
   "teachings": [
    {
     "source": "Bhagavad Gita 5.10",
@@ -3783,7 +3783,7 @@
    "kid": "Put one drop on a leaf. Hold still and breathe in. Tilt it slowly and breathe out as the drop rolls. Is the leaf still dry?"
   },
   "ask": [
-   "Nobody wiped the chembu leaf, yet the rolling drops cleaned it. What did the cleaning?",
+   "In the experiment The Leaf That Water Can't Wet, nobody wiped the chembu leaf, yet the dust came off. What cleaned the leaf?",
    "A kingfisher's answer to a problem also worked for a train. Why can one answer work for two such different things?",
    "A burdock never saw a microscope, yet their hooks work very well. Is knowing why something works the same as being able to do it?"
   ],

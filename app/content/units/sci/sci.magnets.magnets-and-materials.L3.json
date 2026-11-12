@@ -7,7 +7,7 @@
   "art": "A child holding a magnet over a safety pin that is jumping up to it, with faint curved lines around the magnet showing its magnetic field. Behind, the Earth with field lines looping from pole to pole and a sea turtle swimming along them."
  },
  "intro": {
-  "hook": "Try this. Hold a magnet near a steel safety pin and move it closer very slowly. Stop just before they touch. Did the pin jump to the magnet? The magnet never touched the pin. So how did it move it?",
+  "hook": "Try this. Hold a magnet near a steel safety pin and move it closer very slowly. Stop just before they touch. Did the pin jump to the magnet? The magnet never touched the pin. So how did the magnet move the pin?",
   "text": "People have wondered about this for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the one that kisses'. An old Chinese book from over 2,000 years ago calls it the 'loving stone'. In this unit you find the real answer. A magnet has an invisible magnetic field around it, and its force acts through that field, even across air. You also find out what happens inside the iron, and why the whole Earth is a magnet too.",
   "art": "A child's hand holding a dark magnet stone a finger-width above a safety pin that is just lifting off a table, with a dotted line showing the gap."
  },
@@ -258,7 +258,7 @@
    "concept": "Lodestone: the stone that finds iron",
    "status": "defined",
    "definition": "A lodestone is a natural magnet. It is a piece of a black mineral called magnetite, which is made of iron and oxygen. Many cultures found lodestones long ago.",
-   "description": "In Greece, about 2,600 years ago, the thinker Thales said that a lodestone has a soul, because it can move iron. We know this from Aristotle, who wrote about it later. In China, a book from about 240 BCE, the Lüshi Chunqiu, says 'the loving stone calls the iron to it'. In India, the magnet was called ayaskanta, which means 'beloved of iron', and chumbaka, which means 'the one that kisses'. The Sushruta Samhita, an old Indian book of surgery, describes using a magnet to draw a smooth iron arrowhead out of a wound. Later, people learned to find directions with magnets. A Chinese military book from 1044, the Wujing Zongyao, describes an iron 'south-pointing fish' floated in water. Heated red-hot and left to cool while pointing north and south, the iron fish became a magnet. In 1088, the Chinese scholar Shen Kuo described a needle made into a magnet by rubbing it on a lodestone. He also noticed that it does not point exactly north. Around 1232, Muhammad al-Awfi, a writer at the court of Delhi, described sailors who floated an iron fish rubbed with a magnet to find their way. In Europe, Petrus Peregrinus described a magnet's two poles in 1269.",
+   "description": "In Greece, about 2,600 years ago, the thinker Thales said that a lodestone has a soul, because it can move iron. We know this from Aristotle, who wrote about it later. In China, a book from about 240 BCE, the Lüshi Chunqiu, says 'the loving stone calls the iron to it'. In India, the magnet was called ayaskanta, which means 'beloved of iron', and chumbaka, which means 'the one that kisses'. The Sushruta Samhita, an old Indian book of surgery, describes using a magnet to draw a smooth iron arrowhead out of a wound. Later, people learned to find directions with magnets. A Chinese military book from 1044, the Wujing Zongyao, describes an iron 'south-pointing fish' floated in water. The iron fish was heated red-hot and left to cool while pointing north and south. This made it a magnet. In 1088, the Chinese scholar Shen Kuo described a needle made into a magnet by rubbing it on a lodestone. He also noticed that it does not point exactly north. Around 1232, Muhammad al-Awfi, a writer at the court of Delhi, described sailors who floated an iron fish rubbed with a magnet to find their way. In Europe, Petrus Peregrinus described a magnet's two poles in 1269.",
    "examples": [
     "Lodestones were set in brass or silver caps, so people could carry them and rub needles with them.",
     "Iron fish compasses floated in a bowl of water, like the needle compass in this unit's experiment."
@@ -549,7 +549,7 @@
    "This happened about 800 years ago. The ship was called the Swift Gazelle, and it smelled of cloves, tar and the sea. It had left Khambhat, in Gujarat, nine days ago. It was carrying cotton cloth and indigo to Aden, far across the Arabian Sea. Amina was ten. She was the only child on board, because her mother was the ship's cook.",
    "Amina's favourite person on the ship, after her mother, was the pilot, old Mariam. She knew the stars the way Amina knew the path to her grandmother's well. At night she sat with her chin up and her eyes half closed, reading the sky. She told the helmsman where to steer.",
    "But Mariam had a second way of finding the way. It lived in a wooden box near the back of the ship. Inside the box was a small brass bowl. Inside a silk bag was a lumpy black stone. And inside a fold of cloth was a fish, no longer than Amina's finger, cut from a thin sheet of iron.",
-   "On the fourth night, Mariam had let her watch. She poured water into the brass bowl. She took out the black stone and rubbed it along the iron fish, from tail to nose. She lifted it away, and rubbed again, from tail to nose. Never back and forth. Always the same way. She counted under her breath, all the way to fifty. Then she laid the fish gently on the water. It floated like a leaf.",
+   "On the fourth night, Mariam had let Amina watch. She poured water into the brass bowl. She took out the black stone and rubbed it along the iron fish, from tail to nose. She lifted it away, and rubbed again, from tail to nose. Never back and forth. Always the same way. She counted under her breath, all the way to fifty. Then she laid the fish gently on the water. It floated like a leaf.",
    "The fish shivered. It turned slowly, as if it were sniffing the air, and then it stopped. Its nose pointed to the south. Amina turned the bowl. The fish turned back. She turned the bowl the other way. The fish turned back again, to the south, every time.",
    "'The stone has made the fish a magnet,' said Mariam. 'Now it will always turn to the south. You will not need it often. But when the clouds come, the fish is the only one on this ship who still knows the way.'",
    "Amina also learned what else the black stone could do. In the galley, the ship's tiny kitchen, she held it near her mother's iron ladle. The ladle leapt to the stone with a click. The stone did nothing to the brass cups, the clay pots or the wooden spoons. It attracted only iron.",
@@ -652,7 +652,7 @@
        "b": "A magnet"
       },
       {
-       "f": "Rub the needle back and forth, or always one way?",
+       "f": "To make a needle a magnet, do you rub it back and forth, or always one way?",
        "b": "Always one way"
       },
       {
@@ -740,14 +740,14 @@
    "rules": [
     "You need the board, the cards, one dice and one paper ship for each player. Put every ship and the storm cloud on Khambhat, square 0.",
     "On your turn, another player reads you the front of the top question card. Playing alone? Read it yourself, say your answer, then turn the card over to check. When the cards run out, shuffle them and use them again.",
-    "Answer right, and roll the dice and move that many squares. Answer wrong, and move just 1 square.",
+    "If you answer right, roll the dice and move that many squares. If you answer wrong, move just 1 square.",
     "On a TEST IT card, everyone says a guess first. Then everyone does the test. Everyone who guessed right moves 2 squares.",
     "CLOUDY NIGHT square: no stars to steer by. Say how a compass helps, then move on 1 square.",
     "IRON ANCHOR square: the iron attracts your compass needle, so the compass points the wrong way. Go back 2 squares, unless you can say what to do. The answer is: move the iron away from the compass.",
     "Squares you are sent to by CLOUDY NIGHT, IRON ANCHOR or TURTLES do nothing more. Only the square you land on by your own move counts.",
     "After everyone has had a turn, move the storm cloud 2 squares.",
     "The first time the storm cloud lands on your ship or passes it, you must shelter: miss one turn.",
-    "Reach Aden (square 20), or go past it, to win. If the storm cloud reaches Aden first, the storm wins the sea: the ship furthest along wins. Playing alone, try to reach Aden before the storm does."
+    "Reach Aden (square 20), or go past it, to win. If the storm cloud reaches Aden first, the game ends and the ship furthest along wins. Playing alone, try to reach Aden before the storm does."
    ],
    "flow": [
     {
@@ -780,7 +780,7 @@
      "mins": 10,
      "do": "1. Take turns: read a card, answer, then move. 2. Move the storm cloud 2 squares after everyone has had a turn. 3. Do the TEST IT cards together.",
      "say": "Answer your card, then roll. Watch out for the iron anchor squares.",
-     "kid": "Answer your card. Right? Roll the dice and sail on. Wrong? Move one square. After everyone's turn, the storm moves 2.",
+     "kid": "Answer your card. If you are right, roll the dice and sail on. If you are wrong, move one square. After everyone's turn, the storm moves 2.",
      "parent": "The game is balanced so that a player who answers most cards right reaches Aden before the storm. If your child is getting many wrong, read the answer aloud after each card and let them try again next round. On the TEST IT card about a coin, the answer depends on the coin. Some Indian coins are made of a kind of stainless steel that a magnet attracts. Others are not. That is a good surprise."
     },
     {
@@ -867,7 +867,7 @@
     "The caller reads a card out loud. The tiny magnets must do what it says within three seconds.",
     "On trick cards (WOOD, PLASTIC, BRASS) nothing happens, so stand still. Anyone who moves on a trick card, or does the wrong thing on any card, sits out the next card and then comes back.",
     "The game ends after the 12th card. The player who sat out least wins. With one child and a caller, count how many of the 12 cards the child got right, and try to beat that next time.",
-    "Playing alone: lay the 12 paper arrows on the table, pointing every which way. Shuffle the caller cards and draw one at a time. Turn the arrows to match: MAGNET COMING or STROKE, all arrows point one way; HEAT, scramble them; COPPER, lay them in pairs pointing opposite ways; WOOD, PLASTIC or BRASS, leave them alone. Count how many cards you got right out of 12."
+    "Playing alone: lay the 12 paper arrows on the table, pointing every which way. Shuffle the caller cards and draw one at a time. Turn the arrows to match the card. For MAGNET COMING or STROKE, point all the arrows one way. For HEAT, mix them up so they point every way. For COPPER, lay them in pairs pointing opposite ways. For WOOD, PLASTIC or BRASS, leave them alone. Count how many cards you got right out of 12."
    ],
    "flow": [
     {
@@ -889,7 +889,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "After the game, count how many players faced the same way after STROKE, and after HEAT.",
+     "do": "After the game, ask which way the players faced after STROKE, and which way after HEAT.",
      "say": "After STROKE, you all faced the same way. After HEAT, you faced all over the place. Which one was a magnet?",
      "kid": "After STROKE, did you all face the same way? After HEAT? Which time were you a magnet?",
      "check": {
@@ -937,7 +937,7 @@
    "days": 1,
    "question": "Can we turn a sewing needle into a magnet, and will it point north?",
    "predict": "Guess first. Will a plain needle, floated on water, point in any special direction? What about the same needle after you stroke it with a magnet? Why do you think so?",
-   "fair_test": "Float the needle before stroking it, and after. Use the same bowl, the same water and the same place both times. Only the stroking changes. For each needle, turn the bowl a quarter turn 3 times, because one try can be a fluke.",
+   "fair_test": "Float the needle before stroking it, and after. Use the same bowl, the same water and the same place both times. Only the stroking changes. Each time, turn the bowl a quarter turn 3 times, because one try can be a fluke.",
    "results_table": [
     "Needle",
     "Does it pick up a pin? (yes or no)",
@@ -978,7 +978,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Float a plain needle. Stroke it 50 times with a magnet. Float it again and see where it points. Check north."
+     "what": "Float a plain needle. Stroke it 50 times with a magnet. Float it again and see where it points. Then check where north is."
     }
    ],
    "record": "Fill in the table. Draw the bowl from above, with an arrow for where the needle pointed, and write N where north is.",
@@ -987,7 +987,7 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Fill the bowl with water. 2. Put it on a table at least one metre from the gas stove, the fridge and any steel almirah. Keep phones and other magnets a metre away too. 3. Lay the plain needle on the paper square and float it in the middle. 4. Wait until it stops, and see where it points. Turn the bowl a quarter turn, wait, and look again. Do this 3 times and write each answer in the table.",
-     "say": "Let's see where a plain needle points. Iron things and phones nearby could turn it, so we keep it far away from them.",
+     "say": "Let's see where a plain needle points. Iron things and phones nearby could turn it, so we keep the bowl far away from them.",
      "kid": "Fill the bowl. Put it far from the fridge, the stove and phones. Lay the needle on the paper. Float it in the middle. Where does it point? Turn the bowl a little and wait. Do this 3 times.",
      "adult": true,
      "parent": "Hand your child the needle, and keep a pin cushion or a piece of soap to stick it in when not in use. A steel bowl can attract the needle to its side, so use plastic, glass or clay. The plain needle may point any way, or it may slowly turn a little, because a steel needle can already be slightly magnetised. That's fine. Note what it does.",
@@ -1068,7 +1068,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "Any honest answer with all three parts is good. A good answer sounds like this. What I think: a needle stroked with a magnet becomes a magnet, and a floating magnet points north and south. What I saw: the plain needle did not pick up the pin. After 50 strokes it did. When I floated it and turned the bowl, it turned back to north and south three times. Why: stroking lined up the tiny magnets inside the needle, and the Earth's magnetic field turns the needle to point north and south."
     }
    ],
@@ -1159,7 +1159,7 @@
      "what": "Guess which magnet is strongest. Build a paper clip chain on each magnet 3 times. Fill in the table and draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart, with one bar for each magnet, as tall as its middle value.",
+   "record": "Fill in the table. Then draw a bar chart, with one bar for each magnet, as tall as its middle value. To find the middle value, put the three numbers in order and take the middle one.",
    "flow": [
     {
      "id": "s1",
@@ -1255,7 +1255,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "Any honest answer with all three parts is good. A good answer sounds like this. What I think: the strongest magnet is not the biggest. For example, a small neodymium magnet may be strongest. What I saw: it held 12 clips in a chain, and the big fridge magnet held only 1. Why: strength comes from what a magnet is made of and how its tiny magnets are lined up, not from its size."
     }
    ],
@@ -1311,7 +1311,7 @@
    "days": 1,
    "question": "Is there magnetic iron hiding in ordinary sand and soil?",
    "predict": "Guess first. If you drag a magnet through sand or soil, will anything stick to it? What colour will it be? Why do you think so?",
-   "fair_test": "Use the same magnet, wrapped the same way, for every sample. Drag it the same number of times, 10, through each. Compare sand from 2 or 3 different places.",
+   "fair_test": "Use the same magnet, wrapped the same way, for every sample. Drag it through each sample 10 times. Compare sand from 2 or 3 different places.",
    "results_table": [
     "Where the sand or soil came from",
     "How much stuck? (none, a little, a lot)",
@@ -1360,7 +1360,7 @@
      "mins": 6,
      "do": "1. With a grown-up, collect a cup of dry sand or soil from 2 or 3 different places. 2. Choose samples that are already dry. If one is wet, spread it on newspaper by a sunny window and test it another day.",
      "say": "We're going to look for magnetite. Natural magnet stones are made of this mineral. It might be hiding in ordinary sand.",
-     "kid": "Collect a cup of dry sand or soil from 2 or 3 places. Pick dry ones. Wet? Dry it by a window and test it another day. You are looking for magnetite!",
+     "kid": "Collect a cup of dry sand or soil from 2 or 3 places. Pick dry ones. If one is wet, dry it by a window and test it another day. You are looking for magnetite!",
      "adult": true,
      "context": "This is the first step of the black sand experiment. You collect sand or soil to search for tiny grains of magnetite, the mineral that lodestones are made of."
     },
@@ -1412,7 +1412,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "Any honest answer with all three parts is good. A good answer sounds like this. What I think: ordinary sand has tiny grains of a magnetic mineral in it. What I saw: black grains stuck to the wrapped magnet, but the light-coloured sand fell off. The building-site sand gave the most. Why: the black grains are magnetite, which contains iron, and magnets attract iron."
     }
    ],
@@ -1491,7 +1491,7 @@
      "mins": 3,
      "do": "1. Lay the 8 things on the table. 2. Ask your child to put them in two piles: 'I think it will stick' and 'I think it won't'.",
      "say": "Before we test anything, let's guess. Which of these will a magnet attract?",
-     "kid": "Look at the 8 things. Make two piles. Will stick. Won't stick. Just guess!",
+     "kid": "Look at the 8 things. Make two piles: 'will stick' and 'won't stick'. Just guess!",
      "ask": [
       {
        "q": "Why did you put the metal things in the 'will stick' pile?",
@@ -1596,7 +1596,7 @@
      "do": "1. Tap the paper gently with a finger, again and again. 2. Watch the grains move into lines.",
      "say": "Tap gently. What shape are the grains making?",
      "kid": "Tap the paper gently. Keep tapping. Watch the grains. What shape do they make?",
-     "parent": "Black sand gives a rougher pattern than filings, but you can still see the grains bunch at the two ends and make curved lines. Use only a thin layer. If the grains clump into a ball, there are too many. Tip some off and try again. Black sand is the weaker choice. It may bunch at the two ends without making clear lines, and that is still a real result. Iron filings show the lines best.",
+     "parent": "Use only a thin layer. If the grains clump into a ball, there are too many. Tip some off and try again. Iron filings show the lines best. Black sand gives a rougher pattern: the grains bunch at the two ends, but the curved lines may not be clear. That is still a real result.",
      "ask": [
       {
        "q": "Where do the grains bunch up most?",
@@ -1681,7 +1681,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Help your child write and draw one card for each event: about 600 BCE Thales and the lodestone in Greece. About 240 BCE the Chinese 'loving stone'. The Sushruta Samhita's magnet for arrowheads in India. 1044 the Chinese south-pointing iron fish. 1088 Shen Kuo's needle. About 1232 al-Awfi in Delhi describes the floating fish. 1269 Peregrinus and the two poles. 1600 Gilbert says the Earth is a magnet. 1820 Oersted's compass moves near a wire. 1894 Marie Curie begins studying magnets in steel. 1936 Inge Lehmann finds the solid inner core. 1975 magnetic bacteria described.",
+     "do": "Help your child write and draw one card for each event. About 600 BCE: Thales and the lodestone in Greece. About 240 BCE: the Chinese 'loving stone'. No exact date: the Sushruta Samhita's magnet for arrowheads in India. 1044: the Chinese south-pointing iron fish. 1088: Shen Kuo's needle. About 1232: al-Awfi in Delhi describes the floating fish. 1269: Peregrinus and the two poles. 1600: Gilbert says the Earth is a magnet. 1820: Oersted's compass moves near a wire. 1894: Marie Curie begins studying magnets in steel. 1936: Inge Lehmann finds the solid inner core. 1975: magnetic bacteria described.",
      "say": "Let's make a timeline of how people learned about magnets. One card for each discovery, with a little drawing.",
      "kid": "Make 12 cards. Each one is a magnet discovery. Write the year and draw a little picture.",
      "parent": "The Sushruta Samhita is hard to date exactly. It was written down over many centuries, and the version we have is more than 1,500 years old. Put it between 240 BCE and 1044 with a question mark. BCE years count backwards: 600 BCE is earlier than 240 BCE.",
@@ -1776,7 +1776,7 @@
      "do": "1. Put the magnet in the middle of the paper. 2. Hold the hanging needle about a hand's width from the magnet, at 8 places around it, like the numbers on a clock. 3. At each place, wait for it to settle and draw an arrow the way it points.",
      "say": "Move the needle around the magnet slowly. Each time, draw which way it points.",
      "kid": "Hold the needle near the magnet. Move it around, like the hands of a clock. At each place, draw an arrow for where it points.",
-     "parent": "Closer than a hand's width, the needle may jump onto the magnet. Further away, it starts to point north again, because there the Earth's magnetic field is stronger than the magnet's. Your arrows should curve around the magnet, from one end to the other, like the black sand lines."
+     "parent": "Closer than a hand's width, the needle may jump onto the magnet. Further away, it starts to point north again, because there the Earth's magnetic field is stronger than the magnet's. Your arrows should curve around the magnet, from one end to the other, like the lines of black sand in the 'Draw the Invisible' activity."
     },
     {
      "id": "s3",
@@ -1849,7 +1849,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Blindfold your child and stand them at the WEAK end. 2. Walk beside them. Each time they take a step, whisper the card nearest to them: weak, medium, strong, very strong. 3. They choose which way to step. If it gets weaker, they turn round. They stop when they reach the cushion.",
+     "do": "1. Blindfold your child and stand them at the WEAK end. 2. Walk beside them. Each time they take a step, whisper the word on the card nearest to them: weak, medium, strong or very strong. 3. They choose which way to step. If the field gets weaker, they turn round. They stop when they reach the cushion.",
      "say": "Weak. Medium. Getting stronger. Which way is home?",
      "kid": "Walk slowly. Listen to how strong the field is. Stronger means you are getting closer. Find your beach!",
      "adult": true,
@@ -1925,7 +1925,7 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Draw dark mountains along the bottom. 2. Use the side of the chalk to sweep green curtains of light across the sky. 3. Add a little red at the top. 4. In one corner, draw the small Earth with its curved magnetic field lines.",
+     "do": "1. Draw dark mountains along the bottom. 2. Use the side of the chalk to sweep green curtains of light across the sky. 3. Add a little red at the top. 4. In one corner, draw a small Earth with its curved magnetic field lines.",
      "say": "Sweep the chalk sideways, like a curtain blowing. Green is oxygen glowing lower down. Red is oxygen glowing higher up.",
      "kid": "Draw mountains. Sweep green chalk across the sky like a curtain. Add red on top. Draw a little Earth with its field lines."
     },
@@ -2012,7 +2012,7 @@
      "say": "Watch it glow. Heat makes the atoms jiggle. Will the tiny magnets stay lined up?",
      "kid": "Stand back and watch the grown-up. The needle glows red! Heat makes its atoms jiggle hard. Wait 2 minutes for it to cool.",
      "adult": true,
-     "parent": "Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the part that glowed loses its magnetism. So test the heated end against the pin. The half you did not heat is still a magnet, so a pin may still cling a little to that end. Test the end that glowed."
+     "parent": "Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the part that glowed loses its magnetism. The half you did not heat is still a magnet, so a pin may still cling a little to that end. So test the end that glowed against the pin."
     },
     {
      "id": "s3",
@@ -2107,7 +2107,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "On day 2, float the needle again on a fresh paper square, twice (morning and evening), and write what you see.",
+     "do": "On day 2, float the needle on a fresh paper square in the morning, and again in the evening. Write what you see each time.",
      "say": "Does the needle still point to our N label? Is it still a magnet?",
      "kid": "Float your needle in the morning and again in the evening. Still pointing at N? Still picks up a pin? Write it down.",
      "wait": "Come back tomorrow, and again the day after.",
@@ -2128,7 +2128,7 @@
        "Behind you"
       ],
       "a": 0,
-      "why": "Face north, and east is on your right, west is on your left, and south is behind you. Picking 'left' is a very common mix-up. A trick: the Sun rises in the east, so in the morning, face the Sun and north is on your left."
+      "why": "When you face north, east is on your right, west is on your left and south is behind you. Picking 'left' is a very common mix-up. A trick: the Sun rises in the east, so in the morning, face the Sun and north is on your left."
      }
     }
    ],
@@ -2154,7 +2154,7 @@
    "id": "c1",
    "title": "The Steady Compass",
    "mins": 30,
-   "problem": "A floating needle compass works well on a table, but it sloshes about on a moving bus, a boat or in your hand. Design a compass that still points north while you walk around with it.",
+   "problem": "A floating needle compass works well on a table. But on a moving bus, on a boat or in your hand, the water sloshes about. Design a compass that still points north while you walk around with it.",
    "constraints": [
     "You may use only things from home.",
     "Your compass must work while you walk slowly across the room holding it.",
@@ -2232,7 +2232,7 @@
    "id": "c2",
    "title": "Iron-Proof: how far from iron must a compass be?",
    "mins": 30,
-   "problem": "In the story, a big iron pot made the ship's compass point the wrong way. Find out how close iron things at home must be before they turn your compass needle. Then choose the best spot in your home for a compass station.",
+   "problem": "In the story 'The Iron Fish', a big iron pot made the ship's compass point the wrong way. Find out how close iron things at home must be before they turn your compass needle. Then choose the best spot in your home for a compass station.",
    "constraints": [
     "Use a measuring tape or a string marked every 10 cm.",
     "Test at least 3 iron things, like a steel almirah, a gas cylinder, an iron dosa tawa or a fridge.",
@@ -2289,7 +2289,7 @@
      }
     }
    ],
-   "context": "This is a measuring challenge. You find out from how far away iron things in your home turn a compass needle, like the iron pot that turned the ship's compass in the story.",
+   "context": "This is a measuring challenge. You find out from how far away iron things in your home turn a compass needle, like the iron pot that turned the ship's compass in the story 'The Iron Fish'.",
    "setup": [
     {
      "art": "A child holding a compass right next to a steel almirah, the needle pointing at the almirah.",
@@ -2385,7 +2385,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?",
+   "p": "In the paper clip chain test, a magnet holds 5 clips on the first try. Why should you test it two more times?",
    "opts": [
     "The magnet gets stronger each time",
     "One try can be a fluke, for example if a clip is bent or the chain is knocked",
@@ -2393,7 +2393,7 @@
     "To tire the magnet out"
    ],
    "a": 1,
-   "why": "One result can be wrong by bad luck. If three tries give about the same number, she can trust it. If one try is very different, she knows to look for what went wrong. Picking 'gets stronger each time' means thinking testing changes the magnet. It does not.",
+   "why": "One result can be wrong by bad luck. If three tries give about the same number, you can trust it. If one try is very different, you know to look for what went wrong. Picking 'gets stronger each time' means thinking testing changes the magnet. It does not.",
    "outcome": 2,
    "how": "e2"
   },
@@ -2533,7 +2533,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "Kavya, a girl in Class 3 in Madurai, empties her pencil box and a tin of sewing things onto the table. Sort each thing: will a magnet attract it?",
+     "p": "Here are some things from a pencil box and a tin of sewing things. Sort each one: will a magnet attract it?",
      "cats": [
       "Attracted",
       "Not attracted"
@@ -2583,7 +2583,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl puts a steel pin on the table and lays a page of her notebook over it. She slides a magnet around on top of the page. What will the pin do?",
+     "p": "Put a steel pin on the table and lay a page of a notebook over it. Slide a magnet around on top of the page. What will the pin do?",
      "opts": [
       "Follow the magnet around under the page",
       "Stay still, because the paper blocks the magnet",
@@ -2609,7 +2609,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl slides two ring magnets onto a pencil. They snap together. She takes the top one off, turns it over and slides it back on. What happens now?",
+     "p": "Slide two ring magnets onto a pencil. They snap together. Take the top one off, turn it over and slide it back on. What happens now?",
      "opts": [
       "They snap together even harder",
       "The top magnet floats above the bottom one",
@@ -2629,7 +2629,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl strokes a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?",
+     "p": "You stroke a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?",
      "opts": [
       "Some iron moved from the magnet into the needle",
       "The needle became heavier",
@@ -2649,7 +2649,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl floats her needle compass in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?",
+     "p": "A needle compass is floating in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?",
      "opts": [
       "Stroke the needle 100 more times",
       "Add salt to the water",
@@ -2702,7 +2702,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl wants to find out which of her two magnets is stronger, using a paper clip chain. Which of these would make her test unfair?",
+     "p": "You want to find out which of two magnets is stronger, using a paper clip chain. Which of these would make the test unfair?",
      "opts": [
       "Using the same kind of clips for both magnets",
       "Using big clips for one magnet and small clips for the other",
@@ -2793,15 +2793,15 @@
     },
     {
      "t": "write",
-     "p": "In the heating test, a magnetised needle was heated until it glowed red. After it cooled, it no longer picked up a pin. Hema, aged 10, says, 'It can never be a magnet again.' Is she right? Say what you would do to find out.",
+     "p": "In the 'Heat Takes the Magnet Away' activity, a magnetised needle was heated until it glowed red. After it cooled, it no longer picked up a pin. A friend says, 'It can never be a magnet again.' Is your friend right? Say what you would do to find out.",
      "lines": 4,
-     "a": "I think she is wrong. The heat shook the tiny magnets out of line, but the needle is still steel. I would stroke it 50 times with a magnet, always the same way, and then see if it picks up a pin again.",
-     "why": "A strong answer explains what the heat did, and gives a test that could prove Hema right or wrong. In the activity, the needle becomes a magnet again after stroking.",
+     "a": "I think my friend is wrong. The heat shook the tiny magnets out of line, but the needle is still steel. I would stroke it 50 times with a magnet, always the same way, and then see if it picks up a pin again.",
+     "why": "A strong answer explains what the heat did, and gives a test that could prove the friend right or wrong. In the activity, the needle becomes a magnet again after stroking.",
      "how": "a7"
     },
     {
      "t": "order",
-     "p": "A girl holds a magnet at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.",
+     "p": "A magnet is held at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.",
      "items": [
       "Magnet 1 centimetre away",
       "Magnet 10 centimetres away",
@@ -2818,12 +2818,12 @@
     },
     {
      "t": "mcq",
-     "p": "A girl does the paper clip chain test three times with each magnet. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should she do?",
+     "p": "In the paper clip chain test, each magnet was tested three times. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should you do?",
      "opts": [
-      "The fridge magnet's 2. She should ignore the fridge magnet",
-      "The ceramic magnet's 5. She should start again",
+      "The fridge magnet's 2. Ignore the fridge magnet",
+      "The ceramic magnet's 5. Start again",
       "Nothing looks odd",
-      "The bar magnet's 2. She should check the clips and try that magnet again"
+      "The bar magnet's 2. Check the clips and try that magnet again"
      ],
      "a": 3,
      "why": "The bar magnet held 6 clips twice, so 2 is very different. Maybe a clip was bent or the chain was knocked. Testing again shows whether 2 was a fluke. This is why we test each magnet three times.",
@@ -2831,7 +2831,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl holds a compass next to a steel almirah, and the needle swings towards it. Why?",
+     "p": "You hold a compass next to a steel almirah, and the needle swings towards the almirah. Why?",
      "opts": [
       "The almirah's iron attracts the needle, which is a magnet",
       "Compasses only work outdoors",
@@ -3007,7 +3007,7 @@
     },
     {
      "t": "write",
-     "p": "Imagine the Earth's magnetic field flipped. What would your needle compass do? Do you think sea turtles would still find their way? Explain.",
+     "p": "Suppose the Earth's magnetic field flipped. What would your needle compass do? Do you think sea turtles would still find their way? Explain.",
      "lines": 4,
      "a": "My needle compass would point the opposite way: its north end would point south. A flip takes thousands of years, and turtles have lived through many flips, so I think they would slowly adjust. But nobody knows for sure how their magnetic sense would cope.",
      "why": "A strong answer gets the compass right, uses the fact that flips are slow and have happened many times, and is honest that the turtle part is not known. The last flip was about 780,000 years ago."
@@ -3033,7 +3033,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl snaps a bar magnet in half. What does she get?",
+     "p": "You snap a bar magnet in half. What do you get?",
      "opts": [
       "One piece that is only a north pole and one that is only a south pole",
       "Two smaller magnets, each with a north pole and a south pole",
@@ -3239,12 +3239,12 @@
   "Is our steel tumbler magnetic? Why might some steel be and some not?",
   "If every electron is a tiny magnet, why don't spoons stick to you?",
   "Which way is north from where we're sitting? How could we check?",
-  "What would the iron fish in the story do beside a gas cylinder?",
+  "What would the iron fish in the story 'The Iron Fish' do beside a gas cylinder?",
   "Is a magnet's magnetic field there even when there is nothing near it to attract?",
   "How do you think a turtle senses their way home?",
   "Which do you think stays a magnet longer: a stroked needle or a stroked nail? Why?",
   "If the Earth's magnetic field flipped tomorrow, what would change for us? And for birds?",
-  "Who in our family notices the small things, like Amina did?",
+  "Who in our family notices the small things, like Amina in the story 'The Iron Fish'?",
   "Would you rather have a turtle's magnetic sense or a bird's eyesight? Why?"
  ],
  "jokes": [
@@ -3324,7 +3324,7 @@
    "math_unit": "math.multiplication.equal-groups.L3",
    "context": "This is about the floating needle compass. You stroke a needle with a magnet, always the same way, to turn it into a magnet.",
    "how": "e1",
-   "why_maths": "Counting 50 strokes one by one is easy to lose. Counting in equal groups of 10 keeps your place."
+   "why_maths": "It is easy to lose count when you count 50 strokes one by one. Counting in equal groups of 10 keeps your place."
   },
   {
    "problem": "The Chinese book Wujing Zongyao described an iron fish compass in 1044. William Gilbert said the Earth is a magnet in 1600. How many years apart are they?",
@@ -3661,7 +3661,7 @@
    "what_is_life": "Turtles, robins and tiny bacteria sense the Earth's magnetic field and use it to find their way.",
    "what_is_this_world": "The whole Earth is a magnet. Its magnetic field is made by moving liquid iron far beneath your feet."
   },
-  "thread": "Inside a plain nail, countless tiny magnets point in every direction. Their forces add up to zero, a perfect balance. Turn them to point the same way, and a magnetic force appears out of that zero. Nothing new was made. That one force then acts on many things: a pin, a ship's compass, a turtle's journey and the lights in the sky. This is a small picture of the One becoming the many: what is already there, arranged in a new way.",
+  "thread": "Inside a plain nail, countless tiny magnets point in every direction, so their forces cancel out exactly. Turn them to point the same way, and the nail has a magnetic force. Nothing new was made. Magnetic force then acts on many things: a pin, a ship's compass, a turtle's journey and the lights in the sky. This is a small example of the One becoming the many: what is already there, arranged in a new way.",
   "teachings": [
    {
     "source": "Rig Veda 10.191.2, the hymn of coming together (Samjnana Sukta)",

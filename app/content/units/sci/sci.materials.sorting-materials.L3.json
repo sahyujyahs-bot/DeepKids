@@ -504,7 +504,7 @@
    "description": "Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air, and a mother whale feeds her babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that he could hardly believe the animal was real, and he is said to have looked for stitches. But the platypus is real: a mammal who lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.",
    "examples": [
     "Whales are mammals, not fish.",
-    "The platypus is a mammal that lays eggs.",
+    "The platypus is a mammal who lays eggs.",
     "A tomato is a fruit to a botanist and a vegetable to a cook."
    ],
    "perspectives": [
@@ -555,7 +555,7 @@
   {
    "concept": "Who decides the rule?",
    "status": "debated",
-   "description": "A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some groups, like the elements, really do seem natural. Every atom of gold has 79 protons. Other groups, such as 'vegetable', seem to depend on our needs. Putting a rock in a pile does not change the rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. A likely reason is that the programs had learned from too few faces like theirs. A careful sorter asks: whose needs does this rule serve, and who does it leave out?",
+   "description": "A sort is only as good as its rule, and someone chooses the rule. Many thinkers ask if the groups are out there in nature, waiting to be found, or if we make them up. The Greek thinker Plato wrote that a good thinker should divide things 'at the joints', like a good butcher. This means that nature has natural places to cut. Some groups, like the elements, really do seem natural. Every atom of gold has 79 protons. Other groups, such as 'vegetable', seem to depend on our needs. Putting a rock in a pile does not change the rock. Sorting people is different. When we put people into boxes using one rule, we can forget everything else about them. Computers sort too, and they learn their rules from the examples we give them. In 2018, Joy Buolamwini and Timnit Gebru tested programs that sort faces. One program got about 35 in every 100 wrong for darker-skinned women. It got fewer than 1 in 100 wrong for lighter-skinned men. A likely reason is that the programs had learned from too few faces of darker-skinned women. A careful sorter asks: whose needs does this rule serve, and who does it leave out?",
    "examples": [
     "A tomato is a fruit for a botanist and a vegetable for a cook.",
     "A face program that works well for some people and badly for others."
@@ -629,7 +629,7 @@
   {
    "claim": "There is only one right way to sort any set of things.",
    "who": "A common way of thinking, and many school tests",
-   "for": "A sort feels more tidy and clear when there is one right answer. Libraries need one shelf for each book.",
+   "for": "A sort feels tidier and clearer when there is one right answer. Libraries need one shelf for each book.",
    "against": "A tomato is a fruit to a botanist and a vegetable to a cook. A brick is hard and dull at once. The right rule depends on the job.",
    "status": "rejected",
    "context": "Many people think there is one correct way to sort. This card looks at that idea."
@@ -645,7 +645,7 @@
   {
    "claim": "Pluto should still be called a planet.",
    "who": "Some astronomers, including Alan Stern, a leader of the mission that flew past Pluto in 2015",
-   "for": "Pluto was called a planet for 76 years. It is round, it has moons, and it has mountains and an atmosphere. Many people feel the new rule was drawn to cut it out.",
+   "for": "Pluto was called a planet for 76 years. It is round, it has moons, and it has mountains and an atmosphere. Many people feel the new rule was written to keep Pluto out.",
    "against": "In 2006 the International Astronomical Union voted on a rule. A planet must orbit the Sun, be round, and have cleared other objects out of its path. Pluto shares its path with many other icy bodies, so it is now called a dwarf planet.",
    "status": "debated",
    "context": "In 2006, astronomers changed the rule for sorting planets, and Pluto was moved to a new group. Some astronomers still disagree."
@@ -677,7 +677,7 @@
   {
    "claim": "Glass is a very slow liquid. That is why old windows are thicker at the bottom.",
    "who": "Many people, and some old school books",
-   "for": "Glass has no neat pattern of atoms, like a liquid. Some old windows are thicker at the bottom.",
+   "for": "Like a liquid, glass has no neat pattern of atoms. Some old windows are thicker at the bottom.",
    "against": "In 1998, Edgar Zanotto worked out that window glass would take longer than the age of the universe to sag. Old glass was made by hand, so it came out uneven. Builders often put the thick edge at the bottom. Some old windows are thicker at the top.",
    "status": "rejected",
    "context": "Glass is one of the tricky middle cases between solid and liquid. This card looks at a famous myth about it."
@@ -1065,7 +1065,7 @@
        ]
       }
      ],
-     "think": "Could two different rules put all the cards in the same places? What card would show them apart?"
+     "think": "Could two different rules put all the cards in the same places? Which card would tell the two rules apart?"
     },
     {
      "id": "s5",
@@ -1157,7 +1157,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 12 Zib cards and colour each border. 2. The Keeper hides three Zib cards face down, without showing the others. 3. Lay the table mat flat on the floor.",
-     "say": "These are Zibs, materials from a made-up planet. A real scientist once did this with the elements of our world. Today we are going to find the missing cards by thinking.",
+     "say": "These are Zibs, materials from a made-up planet. Three of the cards are hidden. Today we are going to find the missing cards by thinking. A real scientist, Mendeleev, once found missing elements in the same way.",
      "kid": "Cut out the Zib cards and colour the borders. The Keeper hides three of them. Lay the table mat flat. Now the detective work begins.",
      "context": "This is the first step of Find the Missing Card. This game copies what Mendeleev did when he sorted the elements. Zibs are made-up materials, so you can practise the idea."
     },
@@ -1539,14 +1539,14 @@
     },
     {
      "t": "write",
-     "p": "A girl tests a steel spoon and a plastic comb. She says, 'The steel spoon is hard because it is shiny.' What is wrong with her reasoning? What test would you use instead?",
+     "p": "Someone says, 'The steel spoon is hard because it is shiny.' What is wrong with this reasoning? What test would you use instead?",
      "lines": 4,
      "a": "Shiny and hard are two different rules. A foil ball is shiny but soft, and a wooden spoon is hard but dull. A strong answer says to use the fingernail test for hard, and a look or a torch for shiny.",
      "why": "Judging one property from another is a common mistake. Each property needs its own test."
     },
     {
      "t": "mcq",
-     "p": "A girl writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?",
+     "p": "A key has the question 'Is it shiny or hard?'. Why is this a bad question for a key?",
      "opts": [
       "It asks two things at once, so a thing that is shiny but soft has no clear yes or no",
       "It is too short",
@@ -1598,7 +1598,7 @@
       "They have no scales"
      ],
      "a": 0,
-     "why": "Scientists sort by who the whale is related to, not only by how they look. A whale breathes air and is warm-blooded, and a mother whale nurses her young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by."
+     "why": "Scientists sort whales by who they are related to, not only by how they look. A whale breathes air and is warm-blooded, and a mother whale nurses her young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by."
     },
     {
      "t": "perspective",
@@ -1666,7 +1666,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?",
+     "p": "In a Venn diagram with two circles, 'Metal' and 'Shiny', a glass marble is put in the overlap. What is the mistake?",
      "opts": [
       "Glass is not a metal, so the marble goes in the Shiny circle only",
       "Glass is not shiny, so it goes outside both",
@@ -1732,13 +1732,13 @@
      "t": "mcq",
      "p": "Some computer programs that sort faces worked well for lighter-skinned men and badly for darker-skinned women. What was the likely cause?",
      "opts": [
-      "The program was taught with too few faces like theirs",
+      "The programs were taught with too few faces of darker-skinned women",
       "Dark skin is harder to see in dark rooms only",
       "The women moved too much",
       "The programs were switched off"
      ],
      "a": 0,
-     "why": "A program learns its rules from the examples it is given. If most examples look one way, it works best for them. Joy Buolamwini and Timnit Gebru showed this in 2018. It is a lesson in who is left out when the rule is built.",
+     "why": "A program learns its rules from the examples it is given. If most of the example faces look one way, the program works best for faces like those. Joy Buolamwini and Timnit Gebru showed this in 2018. It is a lesson in who is left out when the rule is built.",
      "context": "Computers sort pictures into groups by learning from many examples. In 2018, two researchers tested programs that sort faces."
     },
     {
@@ -1803,7 +1803,7 @@
     },
     {
      "t": "mcq",
-     "p": "A recycling plant uses a big magnet to pull steel tins out of a moving belt of rubbish. Aluminium cans are not attracted by a magnet. What happens to them?",
+     "p": "A recycling plant uses a big magnet to lift steel tins off a moving belt of rubbish. A magnet does not attract aluminium cans. What happens to them?",
      "opts": [
       "They stay with the paper and plastic, so another rule is needed to pick them out",
       "The magnet attracts them anyway",
@@ -1946,7 +1946,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Guess. Sort the twelve things three ways. Fill in the table. Make a tally and a bar chart."
+     "what": "Guess what will happen. Sort the twelve things three ways. Fill in the table. Make a tally and a bar chart."
     }
    ],
    "record": "Fill in the results table. Count the things in each group and make a tally. Then draw a bar chart with one bar for each box of the Carroll table.",
@@ -1954,7 +1954,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Collect twelve things, each made of just one material. 2. Put them in a heap on the floor. 3. Ask your child to guess the two things in the Predict step.",
+     "do": "1. Collect twelve things, each made of just one material. 2. Put them in a heap on the floor. 3. Ask your child to guess two things. Will the hard group be the same size as the shiny group? Will any thing land in the same kind of group every time?",
      "say": "Here is a heap of twelve things. We are going to sort them three times, with three different rules. What do you think will happen?",
      "kid": "Make a heap of twelve things. Guess how big each group will be. Guess if any thing stays in the same kind of group.",
      "ask": [
@@ -1990,7 +1990,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Mix all twelve things again. 2. Write the rule 'Is it shiny?' on a sheet. Decide the test. Does it show a clear picture of your face, or a bright spot of light from a phone torch? 3. Sort. 4. Photograph the groups and record them.",
+     "do": "1. Mix all twelve things again. 2. Write the rule 'Is it shiny?' on a sheet. Decide the test: a thing is shiny if it shows a clear picture of your face, or a bright spot of light from a phone torch. 3. Sort. 4. Photograph the groups and record them.",
      "say": "Mix them all up. This time the question is: is it shiny? If you can see your face in it, or a bright spot of light from a phone torch, it is shiny.",
      "kid": "Rule 2: shiny or dull. Mix up all the things. Is it shiny? Can you see your face in it? Sort into two groups.",
      "parent": "Notice that the groups are not the same as before. A steel spoon is hard and shiny. A foil ball is soft and shiny. A wooden spoon is hard and dull."
@@ -2066,7 +2066,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "You sorted the same twelve things three times. Tell me three things. What do you think decides which group a thing goes in? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think decides the group, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rule decides the group. What I saw: the foil ball was shiny but soft, and the wooden spoon was hard but dull. Why: hard and shiny are different questions, so one thing can be in different groups.",
      "think": "Which thing was hardest to place? How did the test help?"
     }
@@ -2115,7 +2115,7 @@
    "days": 1,
    "question": "Can a test settle where a tricky thing belongs? Can we put things in order from softest to hardest?",
    "predict": "Before you test, put your eight things in a line. Put the one you think is softest first and the hardest last. Say why you put each one there.",
-   "fair_test": "Use the same tool on every thing, with the same push, over the same short scratch. Try each thing twice. Test the fingernail first, then the steel nail.",
+   "fair_test": "Use the same tool on every thing, with the same push, over the same short scratch. Try each thing twice. Test with the fingernail first, then with the steel nail.",
    "results_table": [
     "Thing",
     "Does a fingernail mark it?",
@@ -2183,7 +2183,7 @@
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "A thing is marked by the steel nail but not by a fingernail. Compared with a thing marked by a fingernail, it is…",
+      "q": "A thing is marked by the steel nail but not by a fingernail. Is it harder or softer than a thing that a fingernail marks?",
       "options": [
        "Harder",
        "Softer",
@@ -2196,7 +2196,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Draw a ladder with three rungs. 2. Write the things on the right rung. Rung 1: a fingernail marks it. Rung 2: only the steel nail marks it. Rung 3: even the steel nail does not mark it. 3. Compare with the guessed line.",
+     "do": "1. Draw a ladder with three rungs. 2. Write the things on the right rung. Rung 1: a fingernail marks it. Rung 2: only the steel nail marks it. Rung 3: even the steel nail does not mark it. 3. Compare the ladder with the line your child guessed at the start.",
      "say": "Here is the scratch ladder. Rung one is softest, and rung three is hardest. Put each thing on its rung. Was your guessed line right?",
      "kid": "Draw a ladder with three rungs. Rung 1 is softest. Rung 3 is hardest. Put each thing on its rung. Compare with your guess.",
      "parent": "Expect soap, chalk, candle and the foil container on rung 1. Expect the wooden spoon and plastic comb on rung 2. Expect the mug and the glass jar on rung 3. The nail may leave a grey line of metal on the glass. It wipes off, so it is not a scratch. A different result is fine. Wood and plastics vary a lot."
@@ -2206,7 +2206,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "You tested eight things with a fingernail and a steel nail. Tell me three things. What do you think now about hard and soft? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now about hard and soft, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a test puts things in a clear order. What I saw: the fingernail marked the soap and the candle, but not the mug. Why: a harder thing cannot be scratched by a softer thing. In 1812, a German scientist named Friedrich Mohs used this idea to make a ladder of ten minerals. It runs from soft talc to diamond. Diamond is at the top, because it scratches every other mineral.",
      "think": "If a candle is at the bottom of our ladder, where would a diamond be?"
     }
@@ -2321,15 +2321,15 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. The other person picks a secret thing and does not say. 2. Your child uses Key A to find it and counts the questions. 3. Repeat until all eight things have been the secret thing. 4. Do the same with Key B. 5. Write the counts in the table.",
-     "say": "Pick a secret thing, and don't tell. I'll use Key A to find it, and count the questions. Then we do it with Key B.",
+     "do": "1. A helper picks a secret thing and does not say which. 2. Your child uses Key A to find it and counts the questions. 3. Repeat until all eight things have been the secret thing. 4. Do the same with Key B. 5. Write the counts in the table.",
+     "say": "I will pick a secret thing and not tell you which. Use Key A to find it, and count your questions. Then we do the same with Key B.",
      "kid": "Your helper picks a secret thing. Use Key A to find it. Count the questions. Do all eight things. Then do Key B.",
      "parent": "With Key A every thing is found in exactly 3 questions. With Key B the counts are 1, 2, 3, 4, 5, 6, 7 and 7. The last two things need 7 each. After 6 'no' answers only 2 are left, and one more question tells them apart."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Work out the average for each key: add all eight counts and divide by 8. 2. Draw the bar chart. 3. Compare with the guess.",
+     "do": "1. Work out the average for each key: add all eight counts and divide by 8. 2. Draw the bar chart. 3. Compare with what your child guessed before playing.",
      "say": "Let's find the average number of questions for each key. We add the eight counts together and divide by eight.",
      "kid": "Add up the eight counts for each key. Divide by 8 to find the average. Draw a bar for each key.",
      "check": {
@@ -2368,8 +2368,8 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "You found every thing with both keys. Tell me three things. What do you think makes a key fast? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a question that splits the group in half makes the fastest key. What I saw: Key A needed 3 questions for every thing, but Key B needed up to 7. Why: each question that halves the group cuts the left over things in half again. Three halvings take eight things down to one.",
+     "kid": "Say or write three things: what you think makes a key fast, what you saw, and why you think it happened.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a question that splits the group in half makes the fastest key. What I saw: Key A needed 3 questions for every thing, but Key B needed up to 7. Why: each question that halves the group cuts the things that are left in half again. Three halvings take eight things down to one.",
      "think": "How many questions would a key like Key A need to find one thing among 16? Among 32?"
     }
    ],
@@ -2499,7 +2499,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the bowl, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing. 7. Pick the middle of the three numbers and write it in the last column.",
+     "do": "1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the bowl, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap each thing lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing. 7. Pick the middle of the three numbers and write it in the last column.",
      "say": "Hold the thing so almost nothing touches it. Tap it once, gently. Listen. Count the seconds until the ring has completely faded.",
      "kid": "Hang the spoon by its thread. Rest a bowl on your fingertips. Tap it once, lightly, with the pencil. Count how many seconds it rings. Write it down. Do this three times for each thing. Then write the middle of the three numbers in the last column.",
      "parent": "A hand wrapped round a thing stops the ringing, so hold it by a thread or on fingertips. It is quiet work, so turn off any fan or TV. Ring times are rough, and this is fine. Look at the differences, which are big. Try three times because one try may be a fluke. Thin steel bowls may ring for only one to three seconds, and a thicker bell-metal or brass bowl for longer. Expect the steel bowl and tumbler to ring longer than the spoon and the mug, and the foil container and plastic spoon hardly at all. The order matters more than the exact seconds.",
@@ -2567,12 +2567,12 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "You sorted the same six things by looks and then by sound. Tell me three things. What do you think now about sorting by looks? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel bowl and the foil container were both silver, but the bowl rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story.",
+     "kid": "Say or write three things: what you think now about sorting by looks, what you saw, and why you think it happened.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel bowl and the foil container were both silver, but the bowl rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story The Bell That Would Not Sing.",
      "think": "When is it better to sort by looks? When is it better to sort by sound?"
     }
    ],
-   "context": "In this experiment you sort six things by how they look, then by how they sound. It shows that two things can look alike and sound different. It is the same trick as in this unit's story.",
+   "context": "In this experiment you sort six things by how they look, then by how they sound. It shows that two things can look alike and sound different. The same thing happens in the story The Bell That Would Not Sing.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example: two sorts of the same six things",
@@ -3003,7 +3003,7 @@
      "mins": 8,
      "do": "1. Write letters under the colours. O is blue and B is light blue. A is white and F is light yellow. G is yellow, K is orange and M is red. 2. Show that the Sun is G. 3. Explain that Annie Jump Cannon sorted about 350,000 stars into these types.",
      "say": "Annie Jump Cannon put the star types in order. She named them with seven letters: O, B, A, F, G, K and M. Our Sun is a G star. About how many stars did she sort? About 350,000. At her fastest, she sorted three stars in a minute.",
-     "kid": "Write O B A F G K M under the colours. Our Sun is a G star. Annie sorted about 350,000 stars!",
+     "kid": "Write O B A F G K M under the colours. Our Sun is a G star. Annie Jump Cannon sorted about 350,000 stars!",
      "parent": "Astronomers have long used a rhyme to remember the order, beginning 'Oh, Be A Fine...'. Your child can make up their own rhyme with the seven letters. For example: Our Baby Always Finds Great Kittens, Mostly.",
      "ask": [
       {
@@ -3077,7 +3077,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Everyone stands where they belong. 2. Count people in each part. 3. Change one rule, such as 'Can ride a bicycle' and stand again. 4. Notice who moves.",
+     "do": "1. Everyone stands where they belong. 2. Count people in each part. 3. Change one rule, for example to 'Can ride a bicycle', and stand again. 4. Notice who moves.",
      "say": "Stand where you belong. Who is in the middle? Who is outside both circles? Now change one rule. Who moves?",
      "kid": "Stand where you belong. Count who is in the middle. Change one rule. Stand again. Who moved?",
      "ask": [
@@ -3183,7 +3183,7 @@
      "kid": "Think of rice, ketchup and toothpaste. Scientists made a new group, called soft matter, for things like these.",
      "check": {
       "t": "mcq",
-      "q": "Oobleck flows slowly and feels hard when hit. What is the best thing to say?",
+      "q": "Oobleck flows when you move it slowly and feels hard when you hit it. What is the best thing to say?",
       "options": [
        "It does not fit solid or liquid neatly, so it is in the tricky middle",
        "It must be a solid, because it can be hard",
@@ -3309,7 +3309,7 @@
      "mins": 15,
      "do": "Ask your child to say or write three sentences about what they learned. Then fix the key and put the museum on display.",
      "say": "Our visitors have used the key. Tell me three things. What do you think makes a good key? What did you see that shows it? And why?",
-     "kid": "Say or write three things. What I think. What I saw. Why. Then fix your key.",
+     "kid": "Say or write three things: what you think makes a good key, what you saw, and why. Then fix your key.",
      "parent": "A good answer sounds like this. What I think: a good key has clear questions that anyone can answer the same way. What I saw: my visitor got stuck on 'Is it pretty?', so I changed it to 'Is it shiny?'. Why I changed it: a clear rule gives the same answer for everyone."
     }
    ],
@@ -3348,7 +3348,7 @@
    "general": [
     "Use a magnet to take out the steel paper clips.",
     "Use a sieve or colander with holes the right size, so small bits fall through and big bits stay.",
-    "Blow gently over the tray, or toss it in a flat tray, to take out the light leaves.",
+    "Blow gently over the tray, or toss the mix in a flat tray, to take out the light leaves.",
     "Put what is left into water. Chana sinks. Plastic beads differ: some float and some sink, so test one bead first."
    ],
    "creative": [
@@ -3357,7 +3357,7 @@
     "Stack two sieves with different hole sizes. Pour through both to make three piles in one go.",
     "Think of a sorting machine in a factory. What is the clever step that you could copy?"
    ],
-   "your_turn": "Now invent your own order of steps. Draw it, try it, and time it. Is your line faster than the others?",
+   "your_turn": "Now invent your own order of steps. Draw it, try it, and time it. Is your order faster than the others?",
    "flow": [
     {
      "id": "s1",
@@ -3431,7 +3431,7 @@
     "Make a key you can feel. Questions such as 'Is it rough?' or 'Is it cold?' use touch instead of sight. Test it with a helper whose eyes are closed.",
     "Use sound. Tap each thing. 'Does it ring?' is a question a blind person can answer.",
     "Use colour and shape symbols that match the questions, so that a child learns the symbols as they go.",
-    "Say the questions aloud in another language your family speaks, and ask someone who speaks it, if you have one, to check them."
+    "Say the questions aloud in another language your family speaks. If you know someone who speaks it, ask them to check the questions."
    ],
    "your_turn": "Now invent your own way. Draw it, make it, and test it on someone. What did they find easy? What confused them?",
    "flow": [
@@ -3439,7 +3439,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Choose ten things for the key. 2. Think about who will use it. 3. List the questions you can ask without reading.",
-     "say": "A good key works for the person using it. Who will use ours? What can they do that helps? Look, touch, listen, smell?",
+     "say": "A good key works for the person using it. Who will use ours? What can they do: look, touch, listen or smell?",
      "kid": "Choose ten things. Think about who will use your key. What can they do? See? Touch? Hear?",
      "context": "This is the first step of A Key for Everyone. This is a design challenge. You make a branching key that works even if the user cannot read, or cannot see."
     },
@@ -3545,7 +3545,7 @@
     "It goes in the soft group"
    ],
    "a": 0,
-   "why": "The same brick lands in a different named group each time, because each rule asks a different question. Picking 'hard both times' usually means the second rule was ignored.",
+   "why": "The same brick lands in a group with a different name each time, because each rule asks a different question. Picking 'hard both times' usually means the second rule was ignored.",
    "outcome": 1
   },
   {
@@ -3558,7 +3558,7 @@
    ],
    "a": 0,
    "outcome": 1,
-   "why": "The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. Picking 'only one group' is a common idea, but it holds only inside one sort."
+   "why": "The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. 'A thing can only be in one group' is a common idea, but it is true only within one sort."
   },
   {
    "t": "mcq",
@@ -3581,7 +3581,7 @@
     "Pretend it fits"
    ],
    "a": 0,
-   "why": "A middle group gives honest room to a thing that is truly between. Hiding or pretending makes the sort less true.",
+   "why": "A middle group makes a place for a thing that is truly in between. Hiding it, or pretending it fits, makes the sort less true.",
    "outcome": 2
   },
   {
@@ -3599,7 +3599,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Carroll table, what do the four boxes show?",
+   "p": "In a Carroll table, what do the four boxes show?",
    "opts": [
     "Both, only the first, only the second, and neither",
     "Four kinds of metal",
@@ -3612,7 +3612,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl wants a key to find one of eight things. Which first question makes the best start?",
+   "p": "You want a key to find one of eight things. Which first question makes the best start?",
    "opts": [
     "One that splits the eight things into four and four",
     "One that picks out a single thing",
@@ -3625,7 +3625,7 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi is a kabadiwala. She buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?",
+   "p": "A kabadiwala buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?",
    "opts": [
     "Each material is recycled in its own way",
     "She likes colours",
@@ -3633,11 +3633,11 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "The sort has a job: selling each material to a different buyer. Picking 'it looks tidy' misses the purpose."
+   "why": "Each material is recycled in its own way, so each pile is sold to a different buyer. Picking 'it looks tidy' misses the purpose."
   },
   {
    "t": "mcq",
-   "p": "A woman sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?",
+   "p": "Before washing, white clothes go in one bucket and coloured clothes in another. What is the job of this sort?",
    "opts": [
     "To stop dye from coloured clothes staining the white ones",
     "To make the buckets equally heavy",
@@ -3669,7 +3669,7 @@
     "How far away it is"
    ],
    "a": 0,
-   "why": "Annie Jump Cannon sorted the stars into these types by their light. In 1920 Meghnad Saha, an Indian physicist, showed that the types follow the temperature of the star's surface. Picking 'how far' is a common guess, but the letters tell heat.",
+   "why": "Annie Jump Cannon sorted the stars into these types by their light. In 1920 Meghnad Saha, an Indian physicist, showed that the types follow the temperature of the star's surface. Picking 'how far' is a common guess, but the letters tell how hot the star is.",
    "outcome": 6
   },
   {
@@ -3711,7 +3711,7 @@
  ],
  "applications": [
   "Libraries put books on shelves by subject, so that you can find the one you want.",
-  "Post offices sort letters by PIN code, in layers like a branching key. The first digit gives the region, the next ones narrow it down to one post office.",
+  "Post offices sort letters by PIN code, in layers like a branching key. The first digit gives the region, and the next ones narrow it down to one post office.",
   "Recycling plants sort rubbish with magnets, wind, water, cameras and jets of air.",
   "Doctors use branching charts of yes or no questions to work out what illness a patient has.",
   "Bird and plant books have keys. You answer questions about the beak or the leaf, and the key tells you the name.",
@@ -3723,7 +3723,7 @@
   "Farmers winnow grain, and flour mills use sieves to sort flour by how fine it is.",
   "Geologists test how hard a mineral is by seeing what scratches it, using the Mohs scale.",
   "Hospitals triage patients, which means sorting them by how urgently they need help.",
-  "Search engines and AI programs sort pictures and words, and need to be tested to be fair to everyone."
+  "Search engines and AI programs sort pictures and words. They need to be tested to make sure they are fair to everyone."
  ],
  "spotted": [
   {
@@ -3965,7 +3965,7 @@
   {
    "problem": "In Sort by Sound, a steel bowl rang for 6 seconds and a steel tumbler for 5 seconds. A steel spoon rang for 2 seconds and a ceramic mug for 1 second. Draw a bar chart. How many seconds longer did the steel bowl ring than the steel spoon? Both are made of steel, so why might they ring for different times?",
    "answer": "4 seconds longer. They are the same material, so the difference must come from their shape and size.",
-   "explain": "Draw one bar for each thing, as tall as its number of seconds. The bowl bar reaches 6. The spoon bar reaches 2. 6 - 2 = 4. So the bowl rang 4 seconds longer. The material is the same, so something else changed the sound: the bowl is a wide, thin bowl, and the spoon is a small, thick strip.",
+   "explain": "Draw one bar for each thing, as tall as its number of seconds. The bowl bar reaches 6. The spoon bar reaches 2. 6 - 2 = 4. So the bowl rang 4 seconds longer. The material is the same, so something else changed the sound: the bowl is wide and thin, and the spoon is a small, thick strip.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "In the experiment Sort by Sound, you hang or rest things so they can ring, and tap them lightly. You time how long they ring. These are made-up results.",
    "answer_chart": {
@@ -3997,7 +3997,7 @@
     ]
    },
    "how": "e4",
-   "why_maths": "After a test you have a list of numbers. A bar chart makes the longest and shortest ringers jump out, and taking one number from another shows the gap."
+   "why_maths": "After a test you have a list of numbers. A bar chart shows at a glance which thing rang longest and which shortest. Subtracting one number from another gives the gap."
   },
   {
    "problem": "A kabadiwala sorts a heap into piles. There are 12 kilograms of paper, 7 kilograms of iron, 5 kilograms of plastic and 4 kilograms of glass. How many kilograms are in the whole heap?",
@@ -4036,7 +4036,7 @@
    "explain": "Find the gap between 1869 and 1886. 1886 - 1869 = 17. You can count up. From 1869 to 1880 is 11 years, and from 1880 to 1886 is 6 more. 11 + 6 = 17.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "Mendeleev left gaps in his table in 1869 and predicted that new elements would fill them. Gallium was found in 1875, scandium in 1879 and germanium in 1886.",
-   "why_maths": "A prediction is only strong if we know how long it took to come true. Subtracting the years tells us how long scientists waited."
+   "why_maths": "Subtracting the years tells us how long scientists waited for the prediction to come true."
   }
  ],
  "song": {

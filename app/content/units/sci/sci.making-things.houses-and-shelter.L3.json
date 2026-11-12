@@ -48,13 +48,13 @@
   {
    "term": "Joint",
    "meaning": "The place where two parts of a frame meet and are fixed together.",
-   "example": "In your card frame, every pin is a joint.",
+   "example": "In the card frames of the Push Test, every pin is a joint.",
    "art": "Close-up of two card strips held together by a brass split pin."
   },
   {
    "term": "Rigid",
    "meaning": "Keeps its shape when it is pushed. A rigid frame does not lean or fold.",
-   "example": "Your card triangle is rigid. Your card square is not.",
+   "example": "In the Push Test, the card triangle is rigid. The card square is not.",
    "art": "A hand pushing a triangle that does not change, next to a square that leans."
   },
   {
@@ -150,13 +150,13 @@
    ],
    "perspectives": [],
    "art": "A side view of roof tiles overlapping, upper over lower, with blue arrows of rain running from tile to tile and off the edge.",
-   "context": "This card explains your roof tests: why roofs slope and which way tiles must overlap."
+   "context": "This card explains what the Rain on the Roof test and the tile test show: why roofs slope, and which way tiles must overlap."
   },
   {
    "concept": "Wind and earthquakes push sideways",
    "status": "defined",
    "definition": "Weight pushes a building down, but wind and earthquakes push it sideways. A building stays up in an earthquake if its frame cannot lean and its heavy parts cannot fall.",
-   "description": "Most walls are good at holding weight that presses straight down. A sideways push is harder. It is like your push on the card square. Builders stop this in three main ways. They add braces and triangles, so the frame cannot lean. They tie walls together with bands of concrete or wood, so the walls move as one piece. And they keep roofs light, because a heavy roof that falls is the most dangerous part. In the Kutch earthquake of 26 January 2001, many round bhungas with light roofs in the Banni area were reported to have stood, while many newer buildings fell. Round walls have no long flat side for the shaking to push over. A badly built concrete building can be more dangerous than a well-built mud one.",
+   "description": "Most walls are good at holding weight that presses straight down. A sideways push is harder to stand up to. It is like the push on the card square in the Push Test. Builders stop a house leaning or falling in three main ways. They add braces and triangles, so the frame cannot lean. They tie walls together with bands of concrete or wood, so the walls move as one piece. And they keep roofs light, because a heavy roof that falls is the most dangerous part. In the Kutch earthquake of 26 January 2001, many round bhungas with light roofs in the Banni area were reported to have stood, while many newer buildings fell. Round walls have no long flat side for the shaking to push over. A badly built concrete building can be more dangerous than a well-built mud one.",
    "examples": [
     "Tall buildings have braces, or a very stiff central core, to stand up to wind.",
     "Engineers test model buildings on shaking tables before building real ones.",
@@ -247,7 +247,7 @@
    "claim": "Thick, heavy walls and roofs make a house safe in an earthquake.",
    "who": "An old belief in many places",
    "for": "Heavy walls feel solid and are hard to push over by hand.",
-   "against": "In the Latur earthquake in Maharashtra in 1993, many heavy stone walls and roofs fell on people asleep at night. A shaking ground pushes heavy things harder, so heavy roofs are more dangerous.",
+   "against": "In the Latur earthquake in Maharashtra in 1993, many heavy stone walls and roofs fell on people asleep at night. Shaking ground pushes heavy things harder, so heavy roofs are more dangerous.",
    "status": "rejected",
    "context": "This card is about the belief that heavier means safer."
   },
@@ -264,7 +264,7 @@
   {
    "q": "A triangle stays rigid and a square leans. Why does having one more side make a frame weaker, not stronger?",
    "kind": "deep",
-   "hint": "Push the corners of your square. Which parts turn? Do the strips get longer or shorter, or only the corners?"
+   "hint": "Push the corners of the card square from the Push Test. Which parts turn? Do the strips get longer or shorter, or do only the corners turn?"
   },
   {
    "q": "Your body has a skeleton, like a house has a frame. Where in your body are there triangles?",
@@ -425,7 +425,7 @@
        "b": "So the walls move together as one piece and do not fall apart."
       },
       {
-       "f": "What is the trick of a Mangalore roof tile?",
+       "f": "What is special about a Mangalore roof tile?",
        "b": "It has grooves that lock it to the tiles next to it."
       },
       {
@@ -481,10 +481,10 @@
    "rules": [
     "Each player takes one place card and keeps it face up. With 2 players, use any 2 of the 6.",
     "Spread the building cards face up in the middle. Put the question cards in a pile, question side up.",
-    "On your turn, the player on your left reads you the top question card. Read the answer on the back to check it. If you are right, take one building card. If you are wrong, the card goes to the bottom of the pile.",
+    "On your turn, the player on your left reads you the top question card, then checks your answer on the back. If you are right, take one building card. If you are wrong, the question card goes to the bottom of the pile.",
     "To win, you need three cards that suit your place: one ROOF, one WALLS and one EXTRA.",
-    "You may put one of your cards back in the middle instead of answering a question, if you chose badly.",
-    "When you have three, tell the others why your house suits your place. If they agree, you win. A good reason counts: some places suit more than one card.",
+    "If you took a card that does not suit your place, you may use your turn to put it back in the middle instead of answering a question.",
+    "When you have three, tell the others why your house suits your place. If they agree, you win. Any good reason counts, because more than one card can suit a place.",
     "If the question pile runs out, shuffle it and use it again."
    ],
    "flow": [
@@ -512,7 +512,7 @@
      "kid": "Say why your house suits your place. Which card would be bad there?",
      "check": {
       "t": "mcq",
-      "q": "Which house would suit a place with very heavy monsoon rain?",
+      "q": "Which roof would suit a place with very heavy monsoon rain?",
       "options": [
        "A flat mud roof",
        "A steep tiled roof",
@@ -543,7 +543,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a fast game. Each card names a frame or shape. You picture it, or draw it on scrap paper, and decide, quickly, whether it will lean when pushed or stand firm.",
+   "context": "This is a fast game. Each card names a frame or shape. You picture it, or draw it on scrap paper, and quickly decide whether it will lean when pushed or stand firm.",
    "printables": [
     {
      "kind": "cards",
@@ -611,7 +611,7 @@
    "rules": [
     "Shuffle the cards and place them face down.",
     "Take turns. Turn the top card over, keeping the back hidden, and read the shape aloud. The other player says 'lean' or 'stand' before you count to three, then checks the back.",
-    "Check: can the shape be split completely into triangles by its strips? Then it stands. If not, it leans.",
+    "To check an answer, ask: do the strips split the shape completely into triangles? If they do, it stands. If not, it leans.",
     "A right answer scores one point. The game ends when the cards run out, and the most points wins. Playing alone, read each card to yourself, answer, check the back, and try to beat your own score."
    ],
    "flow": [
@@ -619,8 +619,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Remind your child of the Push Test, and shuffle the cards face down.",
-     "say": "Remember the card square you pushed? Did it lean or stand? Now we will guess for other shapes.",
-     "kid": "Remember your card square? Did it lean or stand? Now guess for other shapes.",
+     "say": "In the Push Test you pushed a card square. Did it lean or stand? Now we will guess for other shapes.",
+     "kid": "In the Push Test you pushed a card square. Did it lean or stand? Now guess for other shapes.",
      "context": "This is Lean or Stand, a quick game about which frames keep their shape."
     },
     {
@@ -671,7 +671,7 @@
    "context": "This is the main investigation of the unit. You build three frames from card strips: a square, a triangle, and a square with one strip across it. Then you push each one sideways and measure how far it leans.",
    "question": "When we push the top of a frame sideways, which shape keeps its shape best: a square, a triangle, or a square with one strip from corner to corner?",
    "predict": "Look at the strips. A square uses four strips and a triangle uses only three. Which frame do you think will lean the most when you push it? Which will lean the least? Why do you think so?",
-   "fair_test": "Use the same kind of strips, the same pins and the same push for every frame. Only the shape changes. Hold the bottom strip still each time. Push each frame 3 times, because one push can be a fluke.",
+   "fair_test": "Use the same kind of strips, the same pins and the same push for every frame. Only the shape changes. Hold the bottom strip still each time. Push each frame 3 times, because one push on its own can give an odd result.",
    "results_table": [
     "Frame",
     "My guess: will it lean? (a lot, a little, not at all)",
@@ -712,7 +712,7 @@
     {
      "day": 1,
      "mins": 40,
-     "what": "Make the strips and frames. Guess. Push each frame three times and measure. Say what you found and why."
+     "what": "Make the strips and frames. Guess which frame will lean most. Push each frame three times and measure. Say what you found and why."
     }
    ],
    "record": "Fill in the table. Then draw the three frames, before and after the push, and write one sentence under each drawing.",
@@ -773,13 +773,13 @@
      "do": "1. Lay the square flat on the table. 2. Tape its bottom strip down firmly. 3. Lay the ruler beside the top strip, with 0 at the top left corner. 4. Push the top strip sideways with one finger, gently. 5. Read how far the corner moved.",
      "say": "Push the top strip sideways, about as hard as you press a doorbell. Watch the ruler. How many centimetres did the corner move?",
      "kid": "Tape the bottom strip down. Push the top strip sideways, gently. Read the ruler. How far did the corner move?",
-     "parent": "The square will lean into a diamond and keep going until it is almost flat. The corner usually moves 10 to 14 cm. Lift it back to a square before each push. Write all three pushes."
+     "parent": "The square will lean into a diamond and keep going until it is almost flat. The corner usually moves 10 to 14 cm. Lift it back to a square before each push. Write down all three measurements."
     },
     {
      "id": "s5",
      "mins": 5,
      "do": "1. Untape the square. 2. Tape the triangle's bottom strip down. 3. Push the top corner sideways in the same way, three times. 4. Measure each time.",
-     "say": "Now the triangle. Same push, same ruler. Watch the corner closely.",
+     "say": "Now push the triangle. Use the same push and the same ruler. Watch the top corner closely.",
      "kid": "Now push the triangle the same way, three times. Measure how far the corner moves.",
      "parent": "The triangle's top corner should move less than 1 cm, only as much as the loose holes allow. If the card bends, use thicker card. A triangle that slides across the table needs its bottom strip taped more firmly.",
      "check": {
@@ -807,7 +807,7 @@
      "id": "s7",
      "mins": 2,
      "do": "Push the braced square three times, the same way, and measure.",
-     "say": "Same push again. How far does the corner move now?",
+     "say": "Push it the same way again. How far does the corner move now?",
      "kid": "Push the square with the long strip. Measure how far it moves.",
      "parent": "It should now move less than 1 cm, like the triangle. The long strip has turned the square into two triangles. This strip is called a brace."
     },
@@ -927,7 +927,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask for a guess for each slope: flat, one book and four books. Write the guesses in the table.",
+     "do": "Ask for a guess for each slope: the tray flat, with one book under the high end, and with four books under the high end. Write the guesses in the table.",
      "say": "Which roof will be dry first? Will any water stay on the flat roof? Why do you think so?",
      "kid": "Guess which roof will be dry first. Will water stay on the flat one? Why?",
      "parent": "Accept any guess with a reason. Do not explain yet."
@@ -935,7 +935,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe dry. 5. Repeat with one book, then four books. Do each slope twice.",
+     "do": "1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe the tray dry. 5. Repeat with one book under the high end of the tray, then with four books. Do each slope twice.",
      "say": "Pour slowly, all in the same place. Start the clock now. Tell me when the drips stop.",
      "kid": "Pour 4 spoons in the middle. Start the clock. Stop it when the drips stop.",
      "parent": "On a flat tray, most of the water stays in a puddle, so write 'more than 60' and 'yes'. If your tray is very smooth, some water may creep over the edge: write what you really see. On one book, water runs slowly and some drops stay behind. On four books, it runs off in a few seconds."
@@ -955,7 +955,7 @@
        "Steep roofs keep out the sun better"
       ],
       "a": 1,
-      "why": "On your steep tray, water ran off in seconds. On the flat tray, it stayed in a puddle. In heavy monsoon rain, a steep roof sheds water before it can soak in or leak through cracks."
+      "why": "In the Rain on the Roof test, water ran off the steep tray in seconds. On the flat tray, it stayed in a puddle. In heavy monsoon rain, a steep roof sheds water before it can soak in or leak through cracks."
      }
     },
     {
@@ -1034,7 +1034,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Cut a gap 3 cm wide down the middle of each card. Start 2 cm below the top and stop 2 cm above the bottom. 2. Tape 4 plastic tiles in rows across each card, over the gap. Overlap them by 2 cm.",
-     "say": "The slit in the card is like the gaps in a real roof. If water gets through the tiles, it will drip through the slit onto the tissue.",
+     "say": "The gap in the card is like the gaps in a real roof. If water gets through the tiles, it will drip through the gap onto the tissue.",
      "kid": "A grown-up cuts a gap in each card. Tape 4 plastic tiles across each card, over the gap, in rows.",
      "adult": true,
      "parent": "On roof A, start taping at the bottom: tape the lowest tile first, then lay each higher tile so it covers the top 2 cm of the one below. On roof B, start at the top, so each lower tile covers the bottom 2 cm of the one above. Tape each tile along its two short sides only, onto the edge of the card, so water can run over or under the tile edges.",
@@ -1071,7 +1071,7 @@
        "It does not matter, as long as there are no gaps"
       ],
       "a": 0,
-      "why": "Water runs downhill. If each higher tile covers the top of the one below, water runs off one tile onto the outside of the next and never reaches an edge it can slip under. Roof B let water into every edge, and your tissue got wet."
+      "why": "Water runs downhill. If each higher tile covers the top of the one below, water runs off one tile onto the outside of the next and never reaches an edge it can slip under. In the tile test, roof B had each lower tile on top. Water got in at every edge, and the tissue got wet."
      }
     }
    ]
@@ -1178,7 +1178,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Look at stools, a cloth-drying stand, shelf brackets, a ladder and the ironing board. 2. Look out of the window at towers, cranes and roofs. 3. Draw each triangle you find.",
-     "say": "Remember how the triangle frame would not lean? Builders know that too. Let's find triangles that are holding something up.",
+     "say": "In the Push Test, the triangle frame would not lean. Builders know that too. Let's find triangles that are holding something up.",
      "kid": "Find triangles that hold something up. Look at home and out of the window. Draw them.",
      "parent": "Good finds: the bracket under a shelf, the legs of a folding stand, the A-shaped legs of a step ladder, a mobile tower, a crane, the steel roof of a bus stand or a railway station.",
      "context": "This is the Triangle Hunt. Here you find triangles that keep real things from leaning."
@@ -1188,7 +1188,7 @@
      "mins": 7,
      "do": "Look at photos of the Howrah Bridge in Kolkata, or a railway bridge near you. Count the triangles on one side.",
      "say": "This is the Howrah Bridge in Kolkata. Its sides are made of steel triangles. Why do you think the builders used so many?",
-     "kid": "Look at a photo of a steel bridge. Count the triangles. Why so many?",
+     "kid": "Look at a photo of a steel bridge. Count the triangles. Why are there so many?",
      "check": {
       "t": "mcq",
       "q": "Why does a steel bridge have triangles along its sides?",
@@ -1243,7 +1243,7 @@
      "mins": 10,
      "do": "1. Lay out the six place cards: Kerala, Assam, Ladakh, Kutch, the Nilgiris, Chennai. 2. Read your child one home from the parent notes, without the place. 3. Ask which place it suits, and why. Do all six.",
      "say": "Each of these homes suits its place. Which one is from the place with floods? Which is from the cold desert? How can you tell?",
-     "kid": "Listen to a home. Which place does it suit? Why?",
+     "kid": "Listen while a home is read out. Which place does it suit? Why?",
      "parent": "Kerala: steep tiled roof, heavy rain. Assam: bamboo house on stilts, floods. Ladakh: flat mud roof and thick mud walls, very little rain and cold nights. Kutch: round bhunga with a light roof, earthquakes and heat. Nilgiris: the Toda hut with a rounded thatch roof, cool hills. Chennai: a block of flats, many people and little land.",
      "context": "This is a matching activity. Here you match Indian houses to the places they come from."
     },
@@ -1304,7 +1304,7 @@
      "mins": 4,
      "do": "Think about a builder, or look at a photo of builders on a phone or in a book. Ask why each piece of gear is needed.",
      "say": "Why does a builder wear a hard helmet? Why strong boots? Why a harness when working high up?",
-     "kid": "Look at the builder. Why the helmet? Why the boots? Why the harness?",
+     "kid": "Think about a builder. Why does a builder wear a helmet? Why strong boots? Why a harness?",
      "check": {
       "t": "mcq",
       "q": "Why do builders wear strong boots?",
@@ -1358,7 +1358,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Look at the weaver nest photo first. Ask what danger the bird has, and how the nest helps.",
+     "do": "Look at the weaver nest photo first. Ask what danger the bird faces, and how the nest helps.",
      "say": "Snakes and other hunters eat eggs and chicks. So where does the baya weaver hang his nest? Where is the door?",
      "kid": "Snakes eat eggs. Where does the weaver hang his nest? Where is the door?",
      "parent": "The male baya weaver hangs the nest from a thin branch, often over water, with the entrance as a long tube opening downwards. Females inspect the nests and choose one. Crows in cities often build nests of twigs and even bits of wire.",
@@ -1446,14 +1446,14 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Tape four sticks into a square and three into a triangle. 2. Stand each upright and push the top gently.",
-     "say": "Remember the card frames? Let's see if big newspaper frames behave the same way.",
+     "say": "In the Push Test, the card square leaned and the card triangle did not. Let's see if big newspaper frames behave the same way.",
      "kid": "Make a big square and a big triangle. Push each one. What happens?",
      "parent": "The square will lean, just like the card one. The taped corners hold a little, but still bend."
     },
     {
      "id": "s3",
      "mins": 35,
-     "do": "Day 2: 1. Make 8 long poles by joining two sticks each, about 150 cm. 2. Tape four poles into a square on the floor. 3. Tape the other four from the corners up to meet at the top, like a pyramid. 4. Leave a gap on one side for a door.",
+     "do": "Day 2: 1. Make 8 long poles, each about 150 cm long, by joining two sticks for each pole. 2. Tape four poles into a square on the floor. 3. Tape the other four from the corners up to meet at the top, like a pyramid. 4. Leave a gap on one side for a door.",
      "say": "Let's build our hut from triangles. Each side is a triangle. Where will the door be?",
      "kid": "Join your triangles into a hut. Leave a gap for the door.",
      "parent": "Each sloping side is already a triangle, but the square base can lean. Add a stick from corner to corner across the base, or a brace on each side. This hut is about 1.5 metres across, which is big enough for a child to sit inside. Sticks used: 16 for the poles, so you have 14 spare for braces.",
@@ -1503,7 +1503,7 @@
     "Add braces across each side so the tower cannot lean."
    ],
    "creative": [
-    "Make the tower a hollow tube with diagonal strips on the outside, like Fazlur Rahman Khan's John Hancock Center.",
+    "Make the tower a hollow tube with diagonal strips on the outside, like the John Hancock Center in Chicago, where the engineer Fazlur Rahman Khan put diagonal braces across the outside.",
     "Leave gaps in the sides so the wind can pass through, as it does through a steel tower.",
     "Fold paper into a fan shape for the walls, because folds make paper stiff."
    ],
@@ -1521,7 +1521,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Draw three tower ideas together before building.",
-     "say": "Engineers draw before they build. What shapes did we learn are good at not leaning?",
+     "say": "Engineers draw before they build. Which shapes are good at not leaning?",
      "kid": "Draw three ideas for a tower. Use what you learned about triangles."
     },
     {
@@ -1599,7 +1599,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask what worked and what they would change.",
+     "do": "Ask your child what worked and what they would change.",
      "say": "What kept the floor dry? What would you change for a bigger flood?",
      "kid": "What kept your house dry? What would you change?",
      "parent": "A strong answer explains that raising the floor above the water keeps it dry, and that stilts need braces."
@@ -1683,14 +1683,14 @@
   },
   {
    "t": "mcq",
-   "p": "Ananya, a girl in Class 3, has a wobbly square frame. Where should she add a strip to stop it leaning?",
+   "p": "A square frame is wobbly. Where should you add a strip to stop it leaning?",
    "opts": [
     "From one corner to the opposite corner",
     "Along the bottom",
     "Across the middle, side to side"
    ],
    "a": 0,
-   "why": "A strip from corner to corner, a brace, makes two triangles. Along the bottom or across the middle leaves shapes that can still lean.",
+   "why": "A strip from corner to corner, called a brace, makes two triangles. A strip along the bottom or across the middle leaves shapes that can still lean.",
    "outcome": 2
   },
   {
@@ -1751,7 +1751,7 @@
     "They should not overlap at all"
    ],
    "a": 0,
-   "why": "Then water runs from one tile onto the outside of the next and never slips under an edge. In the tile test, the other way let water through.",
+   "why": "When each higher tile lies on top, water runs from one tile onto the outside of the next and never slips under an edge. In the tile test, the other way let water through.",
    "outcome": 4,
    "how": "e3"
   },
@@ -1903,7 +1903,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 3, says, \"My card square folded, so the card must be weak.\" What would you tell her?",
+     "p": "Someone says, \"My card square folded, so the card must be weak.\" What would you tell them?",
      "lines": 3,
      "a": "The card is not weak. The triangle was made of the same card and it did not fold. The square folds because its corners can turn, so its shape can change without any strip bending.",
      "why": "A strong answer uses the triangle as evidence that the material is the same, and says the shape is the reason."
@@ -1917,7 +1917,7 @@
     },
     {
      "t": "mcq",
-     "p": "In your card frame, what is each split pin?",
+     "p": "In the card frames of the Push Test, what is each split pin?",
      "opts": [
       "A brace",
       "A joint, where two strips meet",
@@ -1943,7 +1943,7 @@
      "t": "truefalse",
      "p": "On a model roof, rain runs off faster when the roof is steep.",
      "a": true,
-     "why": "True. Water flows downhill, so it runs off a steep roof faster. On a flat tray, it stayed in a puddle.",
+     "why": "True. Water flows downhill, so it runs off a steep roof faster. In the Rain on the Roof test, water stayed in a puddle on the flat tray.",
      "how": "e2"
     },
     {
@@ -2030,7 +2030,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mythili, a girl in Class 4, adds a strip across her square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?",
+     "p": "You add a strip across a square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?",
      "opts": [
       "Yes, any extra strip stops leaning",
       "No, it makes two smaller rectangles, which can still lean",
@@ -2105,7 +2105,7 @@
      "t": "truefalse",
      "p": "In an earthquake, the ground pushes a building mostly sideways, not only down.",
      "a": true,
-     "why": "True. Shaking moves the ground from side to side, so walls and frames are pushed sideways, like your push on the card square."
+     "why": "True. Shaking moves the ground from side to side, so walls and frames are pushed sideways, like the push on the card square in the Push Test."
     },
     {
      "t": "label",
@@ -2140,7 +2140,7 @@
     },
     {
      "t": "write",
-     "p": "A pandal made of poles tied into squares leans over in the wind. Not one knot came undone and no pole broke. Meera says the knots must have been loose. Is she right? What really made it lean, and how could you fix it?",
+     "p": "A pandal made of poles tied into squares leans over in the wind. No knot came undone and no pole broke. Someone says the knots must have been loose. Are they right? What really made the pandal lean, and how could you fix it?",
      "lines": 3,
      "a": "No. The knots held and the poles did not break. The pandal leaned because its frame was made of squares, which can lean when their corners turn. Tying cross poles from corner to corner makes triangles, and that stops it leaning.",
      "why": "A strong answer uses the evidence that nothing broke and names the missing triangles."
@@ -2187,7 +2187,7 @@
     },
     {
      "t": "mcq",
-     "p": "Thilaga, a girl in Class 3, wants a light frame for a balcony tent. Which one will stay up best in the wind?",
+     "p": "You want a light frame for a balcony tent. Which one will stay up best in the wind?",
      "opts": [
       "Four sticks in a square",
       "Sticks in triangles, with a brace on each side",
@@ -2238,7 +2238,7 @@
       "They made the building heavier, so wind could not push it"
      ],
      "a": 1,
-     "why": "The diagonals made giant triangles across the outside walls. Triangles cannot lean, so the whole building stayed stiff, and it used about as much steel for each floor as a 50-storey building."
+     "why": "The diagonals made giant triangles across the outside walls. Triangles cannot lean, so the whole building stayed stiff. The tower has 100 storeys, but it used only about as much steel for each floor as an ordinary 50-storey building."
     },
     {
      "t": "draw",
@@ -2273,7 +2273,7 @@
     },
     {
      "t": "write",
-     "p": "Your square frame and your triangle frame used the same card and the same pins. What does that show about where a frame's strength comes from?",
+     "p": "In the Push Test, the square frame and the triangle frame used the same card and the same pins. What does that show about where a frame's strength comes from?",
      "lines": 3,
      "a": "It shows strength does not come only from the material. The shape and the way the parts are joined matter too. The same card was floppy as a square and firm as a triangle.",
      "why": "A strong answer uses the Push Test as evidence and separates the material from the shape.",
@@ -2349,7 +2349,7 @@
     },
     {
      "t": "fill",
-     "p": "The most common causes of death in an earthquake are buildings and roofs ____ on people.",
+     "p": "Most deaths in an earthquake are caused by buildings and roofs ____ on people.",
      "a": [
       "falling"
      ],
@@ -2517,7 +2517,7 @@
    "why_maths": "Taking one number from the other shows exactly how much more one frame leaned."
   },
   {
-   "problem": "Divya, a girl in Class 3, wants to build 4 card triangles. Each triangle needs 3 strips. How many strips does she need?",
+   "problem": "You want to build 4 card triangles. Each triangle needs 3 strips. How many strips do you need?",
    "answer": "12 strips.",
    "explain": "4 triangles with 3 strips each is 3 + 3 + 3 + 3 = 12. Or 4 times 3 is 12.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2534,7 +2534,7 @@
    "why_maths": "Adding up first lets you cut the right number of strips for the whole test."
   },
   {
-   "problem": "In the Rain on the Roof test, water stopped dripping after 4 seconds on four books, 20 seconds on one book, and still stood in a puddle after 60 seconds on the flat tray. How many times as long did the water take on one book as on four books?",
+   "problem": "In the Rain on the Roof test, the water stopped dripping after 4 seconds when the tray was on four books, and after 20 seconds when it was on one book. On the flat tray, it still stood in a puddle after 60 seconds. How many times as long did the water take on one book as on four books?",
    "answer": "5 times as long.",
    "explain": "20 seconds divided by 4 seconds is 5. So the gentler slope took 5 times as long. Check: 4 + 4 + 4 + 4 + 4 = 20.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2728,8 +2728,8 @@
  "roots": {
   "context": "We have tested frames, roofs and tiles, and met houses from all over India. Now we ask what building a shelter tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your square frame folded flat at one push, but your triangle frame kept its shape. Both were made of the same card strips and pins. Three sides of fixed length fit together in only one shape, while four sides can lean into many. So a roof or tower stays firm because its parts form triangles.",
-   "habit": "We usually think a building is strong because its material is strong, thick or heavy. But your two frames used the same strips, and one folded while the other held. How the parts are joined decides as much as what they are made of.",
+   "truth": "In the Push Test, the square frame folded flat at one push, but the triangle frame kept its shape. Both were made of the same card strips and pins. Three sides of fixed length fit together in only one shape, while four sides can lean into many. So a roof or tower stays firm because its parts form triangles.",
+   "habit": "We usually think a building is strong because its material is strong, thick or heavy. But the two frames in the Push Test used the same strips, and one folded while the other held. How the parts are joined decides as much as what they are made of.",
    "evidence": "In the Push Test, the top corner of the square moved many centimetres and the square folded flat. The triangle's corner moved less than one centimetre. One diagonal strip across the square stopped it leaning too."
   },
   "three": {
@@ -2737,16 +2737,16 @@
    "what_is_life": "Every living being needs shelter. A baya weaver weaves a hanging nest, ants dig rooms under the soil, and people build houses.",
    "what_is_this_world": "Everything that stands is pushed all the time, by its own weight, by wind and by the ground. It stays standing because its parts push back."
   },
-  "thread": "A Toda hut, a Kerala tiled house, a Ladakh mud house and a block of flats in Chennai look nothing alike. They are made of grass, clay, mud or concrete, by different people, for different weather. Yet under every one is the same simple rule: a frame stays firm when its parts make triangles. One plain fact about three sides, found again and again by builders who never met, takes shape as thousands of different homes.",
+  "thread": "A Toda hut, a Kerala tiled house, a Ladakh mud house and a block of flats in Chennai look nothing alike. They are made of grass, clay, mud or concrete, by different people, for different weather. Yet under every one is the same simple rule: a frame stays firm when its parts make triangles. Builders who never met each other found this same fact about triangles, and used it in thousands of different homes.",
   "teachings": [
    {
     "source": "Tao Te Ching 11",
     "teaching": "We cut out doors and windows to make a room. It is the empty space inside that makes the room useful.",
-    "link": "Your frames and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold."
+    "link": "A frame and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold."
    },
    {
     "source": "Dhammapada 153 to 154",
-    "teaching": "The Buddha spoke of seeking the builder of a house. He said that its rafters were broken and its ridge-pole was shattered, so that house would not be built again.",
+    "teaching": "The Buddha spoke of looking for the builder of a house. He said that its rafters, the sloping poles of the roof, were broken, and its ridge-pole, the pole along the top of the roof, was shattered. So that house would not be built again.",
     "link": "The Buddha used a house of rafters and a ridge-pole as a picture of the self. A house is only parts held together at their joints. When the joints and beams fail, there is no house left, only poles."
    }
   ],
@@ -2762,7 +2762,7 @@
   ],
   "other_view": {
    "who": "Le Corbusier, a famous architect, in his book Vers une architecture, which means Towards an Architecture (1923)",
-   "view": "He wrote that a house is a machine for living in. In this view, a house is a useful tool, like a car, built as well and as cheaply as possible. It carries no deeper meaning about life, and reading one into it is our own idea."
+   "view": "He wrote that a house is a machine for living in. In this view, a house is a useful tool, like a car, built as well and as cheaply as possible. It has no deeper meaning about life. If we see one, that meaning comes from us, not from the house."
   },
   "practice": {
    "title": "Stand like a triangle",
@@ -2771,7 +2771,7 @@
    "kid": "Stand with your feet together. Lean a little to one side. Do you wobble? Now stand with your feet wide apart. Your legs and the floor make a triangle. Lean again. Close your eyes. Breathe slowly five times. Feel the floor holding you up."
   },
   "ask": [
-   "Your square and your triangle were made of the same strips. Which matters more for a strong frame: the strips, or the way they are joined?",
+   "In the Push Test, the square and the triangle were made of the same strips. Which matters more for a strong frame: the strips, or the way they are joined?",
    "A house is walls around an empty space. Is the house the walls, or the space, or both?",
    "A baya weaver was never taught how to weave a nest. How do you think the first weavers worked out what makes a good one?"
   ],
@@ -2779,7 +2779,7 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home, with the materials listed. Cereal-box card is stiff enough for the Push Test; thin paper is not. Split pins must stay loose. The square's corner moves 10 to 14 cm and the triangle's less than 1 cm. In Rain on the Roof the tray must have a low rim, and a smooth tray may let a little water creep off the flat roof, so the step says to write what you really see. In the tile test, each tile is 12 by 6 cm so four overlapping tiles fit on a 20 cm card, and a drop may still creep through roof A, so the step says to count wet spots. The newspaper hut joins two sticks per pole to reach a size a child can sit in. Nothing in the spine needs a garden or a park.",
  "how_we_found_out": {
-  "story": "In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that height needed ever thicker skeletons, was shown wrong. Triangles, placed well, did the work instead.",
+  "story": "In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that a taller building always needed a thicker skeleton, was shown to be wrong. Triangles, placed well, did the work instead.",
   "who": "Fazlur Rahman Khan, an engineer born in Dhaka, with the architect Bruce Graham, in Chicago",
   "when": "The 1960s. The John Hancock Center was finished in 1969.",
   "wrong_idea": "Engineers thought that a taller building needed a thicker and heavier skeleton of columns and stiff joints, so very tall towers would cost too much steel. Khan showed that big diagonal braces making triangles on the outside could hold the building firm against wind with far less steel."

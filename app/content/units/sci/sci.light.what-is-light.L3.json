@@ -176,10 +176,10 @@
    "concept": "Sunlight is about 8 minutes old",
    "status": "defined",
    "definition": "Light takes about 8 minutes and 20 seconds to travel from the Sun to the Earth.",
-   "description": "The Sun is about 15 crore kilometres away from us. Even at light's speed, that trip takes about 8 minutes and 20 seconds. So when sunlight touches your face, it left the Sun about 8 minutes ago. If the Sun suddenly went dark, we would not know for 8 minutes. The sky would stay bright until the last light arrived. This cannot really happen, because the Sun has fuel for billions of years. The same is true of everything you see. You always see things as they were, a tiny moment ago.",
+   "description": "The Sun is about 15 crore kilometres away from us. Even at light's speed, that trip takes about 8 minutes and 20 seconds. So when sunlight touches your face, it left the Sun about 8 minutes ago. If the Sun suddenly went dark, we would not know for 8 minutes. The sky would stay bright until the last light arrived. This cannot really happen, because the Sun has fuel for billions of years. Everything else you see reaches you a little late too. You always see things as they were, a tiny moment ago.",
    "examples": [
     "The sunrise you watch left the Sun about 8 minutes before you saw it.",
-    "Your friend across the room is seen about one hundred-millionth of a second in the past.",
+    "You see your friend across the room as they were about one hundred-millionth of a second ago.",
     "A radio message to Mars takes between about 3 and 22 minutes, depending on where the two planets are."
    ],
    "perspectives": [],
@@ -208,7 +208,7 @@
    "examples": [
     "A 6-second gap means the lightning was about 2 kilometres away.",
     "A 15-second gap means about 5 kilometres away.",
-    "A crash with no gap means the lightning was very close."
+    "Thunder with no gap after the flash means the lightning was very close."
    ],
    "perspectives": [],
    "art": "A child at a window counting on fingers between a flash and a 'BOOM', a map showing the storm 2 kilometres away.",
@@ -221,7 +221,7 @@
    "examples": [
     "In 1638 Galileo described a test with two people flashing lanterns at each other from far apart.",
     "In 1676 Ole Rømer saw Jupiter's moon Io seem late when the Earth was further from Jupiter.",
-    "In 1849 Hippolyte Fizeau measured it on Earth, with a spinning toothed wheel and a mirror about 8 kilometres away."
+    "In 1849 Hippolyte Fizeau measured the speed of light on Earth, with a spinning toothed wheel and a mirror about 8 kilometres away."
    ],
    "perspectives": [
     {
@@ -278,7 +278,7 @@
    "status": "debated",
    "description": "For over 300 years, scientists argued about what light is made of. Is it a stream of tiny particles, like sand thrown from a hand? Or is it a wave, like ripples on a pond? Each side had good evidence. The surprising answer is that light behaves like both. Here are the main views, in order.",
    "examples": [
-    "Ripples in two places on a pond cross and make a pattern. Light does that too, which is wave-like.",
+    "Ripples from two places on a pond cross and make a pattern. Light does that too, which shows it acts like a wave.",
     "A glow-in-the-dark star lights up under blue light but not under red light. That shows light's energy comes in packets.",
     "A phone camera works because photons landing on its sensor knock electrons loose. The sensor measures how many were freed in each tiny spot."
    ],
@@ -341,8 +341,8 @@
    "description": "Sunlight takes 8 minutes to reach us from the Sun's surface. But its energy was made deep in the Sun's centre. The Sun's insides are so crowded that a photon only goes a tiny way before it is swallowed by an atom and given out again in a random direction. So the energy wanders, bumping its way out, for a very long time. Scientists work this out with sums, because nobody can look inside the Sun. Their estimates range from about ten thousand to over one hundred thousand years.",
    "examples": [
     "The warmth on your face may have been made inside the Sun before people in India first grew wheat and barley.",
-    "Imagine trying to leave a packed railway platform at Chennai Central just before Pongal. You keep being pushed back. Energy leaving the Sun is a bit like that.",
-    "Once it reaches the surface, the last part of the trip, to Earth, takes just 8 minutes."
+    "Leaving a packed railway platform at Chennai Central just before Pongal is slow, because you keep being pushed back. Energy leaving the Sun is a bit like that.",
+    "Once the energy reaches the Sun's surface, the last part of the trip, to Earth, takes just 8 minutes."
    ],
    "perspectives": [
     {
@@ -359,7 +359,7 @@
    "definition": "Light from far away tells us about distant places, as they were when the light left them.",
    "description": "We cannot travel to the stars. Almost everything we know about them was carried to us by light. Light tells us where a star is, how hot it is and even what it is made of. But light takes time, so looking far away is looking back in time. A light-year is the distance light travels in one year, about 9 and a half lakh crore kilometres. A star 100 light-years away is seen as it was 100 years ago. The oldest light of all, a faint glow left over from the young universe, set out about 13.8 billion years ago.",
    "examples": [
-    "The Moon you see is about 1 second old.",
+    "You see the Moon as it was about 1 second ago.",
     "Sirius, the brightest star in the night sky, is seen as it was about 8 and a half years ago.",
     "The Andromeda galaxy, a faint smudge on very dark nights, is seen as it was about 25 lakh years ago, before modern humans existed."
    ],
@@ -371,7 +371,7 @@
    "concept": "Gravity can bend light",
    "status": "defined",
    "definition": "Light passing close to something very heavy, like the Sun or a galaxy, follows a curved path. This is called gravitational lensing.",
-   "description": "Einstein said that very heavy things bend space and time around them. So light passing close by follows a curved path. In 1919, during a total eclipse of the Sun, two teams of astronomers photographed stars near the darkened Sun. One team went to an island off Africa, led by Arthur Eddington. The other went to Brazil. The stars seemed a tiny bit out of place, about as much as Einstein had said. Today astronomers use this bending like a giant magnifying glass in space. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, which we cannot see.",
+   "description": "Einstein said that very heavy things bend space and time around them. So light passing close by follows a curved path. In 1919, during a total eclipse of the Sun, two teams of astronomers photographed stars near the darkened Sun. One team, led by Arthur Eddington, went to an island off Africa. The other went to Brazil. The stars seemed a tiny bit out of place, about as much as Einstein had said. Today astronomers use this bending like a giant magnifying glass in space. The Indian-born astronomer Priyamvada Natarajan uses it to map dark matter, which we cannot see.",
    "examples": [
     "A whole galaxy can bend the light of a galaxy behind it into an arc or a ring.",
     "Astronomers have photographed hundreds of these bent arcs and rings.",
@@ -384,7 +384,7 @@
   {
    "concept": "What is light really?",
    "status": "debated",
-   "description": "We can predict what light will do extremely well. But what a photon is between leaving a lamp and landing on a detector is still argued about. Labs can send light one photon at a time through two slits. Each photon lands as one dot. After thousands of dots, wave stripes appear. If a detector checks which slit each photon went through, the stripes disappear. Here, 'detector' means any measuring machine. No person needs to watch.",
+   "description": "We can predict what light will do extremely well. But scientists still argue about what a photon is like on its way from a lamp to a detector. A detector is any measuring machine. Labs can send light one photon at a time through two slits. Each photon lands as one dot. After thousands of dots, wave stripes appear. If a detector checks which slit each photon went through, the stripes disappear. No person needs to watch.",
    "examples": [
     "One photon at a time makes one dot at a time.",
     "Thousands of dots slowly build up a striped wave pattern.",
@@ -459,7 +459,7 @@
    "claim": "Light is a wave that needs something to travel through: an invisible substance filling all of space, called the 'ether'.",
    "who": "Most scientists in the 1800s.",
    "for": "Every other wave they knew, like sound and water waves, needs something to travel through. So light should too.",
-   "against": "In 1887 Albert Michelson and Edward Morley looked for the Earth rushing through the ether. They found nothing. Einstein's ideas in 1905 explained why no ether is needed.",
+   "against": "In 1887 Albert Michelson and Edward Morley looked for signs of the Earth rushing through the ether. They found nothing. Einstein's ideas in 1905 explained why no ether is needed.",
    "status": "rejected",
    "context": "This card is about the 'ether', a substance scientists once thought filled space, and why they gave up the idea."
   },
@@ -565,7 +565,7 @@
    "'Who is?' asked Marthe.",
    "'Io. In the spring she came out early. Now, every month, she is a little later. Cassini's tables are good. The clocks are good. Your father's clocks are the best in France. And still she is late.'",
    "'Maybe she is tired,' said Marthe. Rømer laughed, but he did not stop frowning.",
-   "That week a letter came from Aunt Isabelle. Marthe ran up the hill with it. 'She says the sea is calm and she is well,' she told her father. Then she stopped, and read the date at the top again. The letter was more than five weeks old. Aunt Isabelle had written it far out on the ocean, and it had crossed all that water slowly, on another ship, before it reached her. While she was reading 'the sea is calm', there might be a storm around Aunt Isabelle now. She would not know for weeks.",
+   "That week a letter came from Aunt Isabelle. Marthe ran up the hill with it. 'She says the sea is calm and she is well,' she told her father. Then she stopped, and read the date at the top again. The letter was more than five weeks old. Aunt Isabelle had written it far out on the ocean, and it had crossed all that water slowly, on another ship, before it reached Marthe. Even as Marthe read 'the sea is calm', there might be a storm around Aunt Isabelle. Marthe would not know for weeks.",
    "'Her letters get older,' she said quietly. 'The first one, from the port at Le Havre, came in two days. This one took five weeks. The further she goes, the older the news is when it gets here.'",
    "Rømer had been listening. He put down his pen.",
    "'Say that again, Mademoiselle.'",
@@ -584,7 +584,7 @@
    "Nobody spoke for a while. Even Cassini said nothing.",
    "Afterwards, walking down the hill, Marthe looked up. The sky was crowded with stars, sharp and white. She had always thought she was seeing them now. But if light needed minutes to come from Jupiter, it must need far longer from the stars. Some of the light falling into her eyes might have left before she was born. Perhaps before Paris was built. The whole sky was a bundle of letters, each one written long ago, all arriving tonight at once.",
    "Many astronomers did not believe Rømer. Cassini never did. It took about fifty years before everyone agreed that light has a speed. But Marthe believed him that very night.",
-   "At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,' she had written. It was old news now. But it was still Aunt Isabelle's voice, still true for the moment she wrote it. She held it near the candle and read it slowly, the way you might look at a star."
+   "At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,' Aunt Isabelle had written. It was old news now. But it was still Aunt Isabelle's voice, still true for the moment she wrote it. Marthe held it near the candle and read it slowly, the way you might look at a star."
   ],
   "epiphany": "For the parent: Io was never late. Io's eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's aunt's letters, older the further she sailed, are the same idea at the speed of a ship.",
   "ask": [
@@ -753,7 +753,7 @@
     "Cut out the 16 light cards and the 16 time cards, and cut the Light-Age Line into its 8 sections. Lay the sections on the floor in order, with NOW on the left and the billions of years on the right.",
     "Shuffle the light cards and make a face-down pile. Keep the time cards in a separate face-down pile.",
     "On your turn, take the top light card. Put it in the section where you think its light belongs. Say why. A good reason wins a star token, even if the section is wrong. The cards are shared out one by one, so some players may get one card more than others.",
-    "When the light cards are all down, turn over the time cards one by one. Each names its light card. If that light card is in the right section, its player wins a star token. If not, move it to the right section. No star.",
+    "When the light cards are all down, turn over the time cards one by one. Each names its light card. If that light card is in the right section, its player wins a star token. If not, move it to the right section. Nobody wins a star for it.",
     "The player with the most star tokens wins. If you tie, you share the win."
    ],
    "setup": [
@@ -847,7 +847,7 @@
      "title": "8 call cards for the caller",
      "items": [
       "PHOTON: run in straight lines only",
-      "FREEZE: you hit something and it absorbed you, so stand still until the next card",
+      "FREEZE: you hit something and it soaked you up, so stand still until the next card",
       "WAVE: sway from side to side as you move forward. If you can, link arms with another player",
       "PARTICLE: move in short, sharp hops, each player on their own",
       "SUN: run back to the Sun circle, then run out again in straight lines",
@@ -861,7 +861,7 @@
     "One player is the caller. Everyone else is a photon. With two players, one is the caller and one is the photon.",
     "Photons may only run in straight lines. To turn, you must stop, plant your feet, then set off in a new straight line. On WAVE, swaying is allowed, because the wave as a whole still heads in a straight line.",
     "The caller shuffles the call cards, holds one up and shouts it. Everyone must do what it says. When all 8 cards have been used, shuffle and use them again.",
-    "Each photon scores 1 point for every card it follows. If a photon curves while running, the caller shouts 'Curved!'. That card scores nothing, and the photon runs back to the Sun circle to start again. The caller does not score.",
+    "Each photon scores 1 point for every card they follow. If a photon curves while running, the caller shouts 'Curved!'. That card scores nothing, and that photon runs back to the Sun circle to start again. The caller does not score.",
     "Swap the caller after every 4 cards. The game ends when everyone has been the caller once. The most points wins. If you tie, you share the win."
    ],
    "setup": [
@@ -913,7 +913,7 @@
        "Light speeds up inside glass"
       ],
       "a": 0,
-      "why": "Light goes about two thirds as fast inside glass as in empty space. When it comes out, it speeds up again. Picking 'stops' usually means thinking glass blocks light, but glass lets light through. Picking 'speeds up' mixes it up the wrong way round."
+      "why": "Light goes about two thirds as fast inside glass as in empty space. When it comes out, it speeds up again. Picking 'stops' usually means thinking glass blocks light, but glass lets light through. Picking 'speeds up' gets it the wrong way round."
      }
     },
     {
@@ -936,7 +936,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3, switches on a torch in a dark room. The far wall lights up at once. Many people think light gets there in no time at all. What is really true?",
+     "p": "You switch on a torch in a dark room. The far wall lights up at once. Many people think light gets there in no time at all. What is really true?",
      "opts": [
       "It takes no time at all",
       "It takes a tiny time, far too short to notice",
@@ -962,7 +962,7 @@
       "Light travels only slowly near people"
      ],
      "a": 0,
-     "why": "Light goes in straight lines. Where her body is in the way, the light is blocked, and the lines just past her edges carry on. So the edge of the shadow is sharp. A strong answer says 'straight lines'."
+     "why": "Light goes in straight lines. Where her body is in the way, the light is blocked. The light that just misses her carries on straight. So the edge of the shadow is sharp. A strong answer says 'straight lines'."
     },
     {
      "t": "mcq",
@@ -995,7 +995,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Glow Star Test, Lakshmi, a girl in Class 4, shone a red phone screen on a glow star for 2 minutes. Then she shone a blue screen on it for 30 seconds. Which one made the star glow?",
+     "p": "In the Glow Star Test, you shine a red phone screen on a glow star for 2 minutes. Then you shine a blue screen on a glow star for 30 seconds. Which one makes the star glow?",
      "opts": [
       "The red screen, because it shone for longer",
       "The blue screen",
@@ -1067,7 +1067,7 @@
     },
     {
      "t": "write",
-     "p": "Divya, a girl in Class 4, says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?",
+     "p": "Someone says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?",
      "lines": 3,
      "a": "The light I see left the Sun about 8 minutes ago. So I am seeing the Sun as it was 8 minutes ago, not as it is now. The Sun has moved on and changed a tiny bit since then.",
      "why": "A strong answer finds the mistake (seeing now) and uses the 8-minute trip to correct it."
@@ -1084,29 +1084,29 @@
      "p": "Three people each have a picture in their head of what light is like.",
      "views": [
       {
-       "who": "Revathi, a girl in Class 3",
+       "who": "The first person",
        "says": "Light is like tiny balls thrown out of the bulb in straight lines. That is why shadows have sharp edges."
       },
       {
-       "who": "Her aunt, a science teacher",
-       "says": "Light is like ripples spreading out on water, as in the uruli, only far, far faster."
+       "who": "The second person",
+       "says": "Light is like ripples spreading out on water in an uruli, only far, far faster."
       },
       {
-       "who": "Her friend Nila",
+       "who": "The third person",
        "says": "Light is like water poured out of the bulb. It flows out and fills the whole room."
       }
      ],
      "ask": "Which picture fits best with what you saw in this unit? Give one piece of evidence. Then say one thing another picture gets right.",
      "lines": 5,
-     "a": "A strong answer picks a picture and backs it with evidence: sharp shadows and the glow star fit the tiny balls, and ripples that add up and cancel in the uruli fit the ripples. It then gives another picture its due. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.",
+     "a": "A strong answer picks a picture and backs it with evidence. Sharp shadows and the Glow Star Test fit the tiny balls. Ripples that add up and cancel out, as in the Ripples in an Uruli activity, fit the ripples. It then says what another picture gets right. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.",
      "why": "There is no single right answer. Each picture explains some things about light and not others. Scientists argued about this for hundreds of years."
     },
     {
      "t": "write",
      "p": "An astronaut outside the space station bangs two spanners together. Her friend, floating nearby, sees the spanners meet but hears nothing. Why?",
      "lines": 3,
-     "a": "Light can cross empty space, so her friend sees the spanners meet. Sound needs air or something else to travel through. Outside the space station there is no air, so the bang cannot reach her.",
-     "why": "A strong answer explains both halves: why she sees it and why she does not hear it."
+     "a": "Light can cross empty space, so the friend sees the spanners meet. Sound needs air or something else to travel through. Outside the space station there is no air, so the bang cannot reach the friend.",
+     "why": "A strong answer explains both halves: why the friend sees the spanners meet and why the friend hears nothing."
     },
     {
      "t": "fill",
@@ -1119,7 +1119,7 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi, a girl in Class 4, says the Moon makes its own light, like a candle. What is wrong with this?",
+     "p": "Someone says the Moon makes its own light, like a candle. What is wrong with this?",
      "lines": 3,
      "a": "The Moon does not make light. It bounces back sunlight. A candle flame is a light source, but the Moon is not. Moonlight is sunlight that has travelled 8 minutes to the Moon and then about a second more to us.",
      "why": "A strong answer says what the Moon really does and uses the difference between a light source and something that only reflects light."
@@ -1203,7 +1203,7 @@
       "Light is made of stripes"
      ],
      "a": 0,
-     "why": "Only waves make a pattern like that. In the uruli, two sets of ripples crossed and made a pattern too. Particles flying in straight lines would just make two bright lines.",
+     "why": "Only waves make a pattern like that. In the Ripples in an Uruli activity, two sets of ripples crossed and made a pattern too. Particles flying in straight lines would just make two bright lines.",
      "how": "a3"
     },
     {
@@ -1272,9 +1272,9 @@
     },
     {
      "t": "mcq",
-     "p": "Ishita, a girl in Class 4, says, 'Light is so fast, so it must be infinitely fast.' What is the best answer to her?",
+     "p": "Someone says, 'Light is so fast, so it must be infinitely fast.' What is the best answer?",
      "opts": [
-      "She is right",
+      "That is right",
       "Very fast is not the same as infinitely fast. Rømer measured a delay of minutes across space.",
       "Light is actually slower than sound"
      ],
@@ -1337,7 +1337,7 @@
      "p": "Two stars look the same tonight. One is 10 light-years away. The other is 1,000 light-years away. Which star's light is older, and by how many years? Explain.",
      "lines": 3,
      "a": "The light from the far star is older, by about 990 years. Its light left about 1,000 years ago. The near star's light left about 10 years ago. 1,000 minus 10 is 990.",
-     "why": "A strong answer uses the light-year: light from a star so many light-years away left that many years ago."
+     "why": "A strong answer uses the light-year: if a star is 10 light-years away, its light left 10 years ago."
     },
     {
      "t": "mcq",
@@ -1450,7 +1450,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A spacecraft is 1 light-hour away. Mission control sends a radio message, and the spacecraft answers at once. The answer arrives back after 2 hours. True or false?",
+     "p": "A spacecraft is 1 light-hour away. Mission control sends a radio message, and the spacecraft answers at once. The answer reaches mission control 2 hours after the message was sent. True or false?",
      "a": true,
      "why": "True. Radio travels at the speed of light, so the message takes 1 hour to get there and the answer takes 1 hour to come back. A strong answer counts both journeys."
     }
@@ -1464,7 +1464,7 @@
    "mins": 30,
    "days": 1,
    "context": "In this experiment, a helper far away makes a flash and a bang at the same moment. You see when the flash arrives and hear when the bang arrives. Then you find out which is faster, light or sound.",
-   "question": "When a flash and a bang happen at the same moment far away, which reaches me first, and does the gap grow when I am further away?",
+   "question": "A flash and a bang happen at the same moment, far away. Which reaches me first? Does the gap grow when I stand further away?",
    "predict": "Before you start, guess. Will you see the plates meet and hear the bang together, or will one come first? Will the gap be bigger from 200 steps away than from 100 steps? Why do you think so?",
    "fair_test": "To make it fair, the helper makes the flash and the bang at exactly the same moment, every time. Only the distance changes. Do 3 tries at each distance, because one try can be a fluke.",
    "results_table": [
@@ -1547,8 +1547,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Walk on to 200 big steps away, about 140 metres. 2. Repeat 3 bangs. 3. Write down the results. 4. If you have room, try 300 big steps too.",
-     "say": "Further away now. Is the gap bigger, smaller or the same?",
+     "do": "1. Walk on to 200 big steps away, about 140 metres. 2. The helper bangs the plates 3 times again. 3. Write down the results. 4. If you have room, try 300 big steps too.",
+     "say": "We are further away now. Is the gap between seeing and hearing bigger, smaller or the same?",
      "kid": "Walk to 200 big steps. Watch again. Is the gap bigger now?",
      "adult": true,
      "check": {
@@ -1637,7 +1637,7 @@
    "title": "The Glow Star Test: does more light always do more?",
    "mins": 29,
    "days": 1,
-   "context": "In this experiment, you shine a red phone screen and a blue phone screen on glow-in-the-dark stars. You find out which colour makes them glow, and whether more of the other colour helps. The answer shows that light comes in tiny packets called photons.",
+   "context": "In this experiment, you shine a red phone screen and a blue phone screen on glow-in-the-dark stars. You find out which colour makes them glow, and whether shining the other colour for longer helps. The answer shows that light comes in tiny packets called photons.",
    "question": "Which makes a glow-in-the-dark star glow, red light or blue light? And if one colour does not work, does shining it for longer help?",
    "predict": "Before you test, guess. Will the red screen make the star glow? Will the blue screen? If one of them does not work, will shining it for 4 times as long help? Why do you think so?",
    "fair_test": "To make it fair, use the same kind of glow star each time. Hold each screen 2 centimetres away, at full brightness, for 30 seconds. Keep the room dark. Keep the stars in a closed box from the night before, or for at least 1 hour, so they start with no glow. Glow stars can keep a faint glow for a long time, so a few minutes in the dark is not enough.",
@@ -1701,7 +1701,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. The night before, or at least 1 hour before, put the 3 glow stars in a closed box or a dark cupboard. 2. Set the phone to full brightness. 3. Find a plain red picture and a plain blue picture to show full-screen. 4. Make the room dark. Take out the stars and check that none of them glows.",
+     "do": "1. The night before, or at least 1 hour before, put the 3 glow stars in a closed box or a dark cupboard. 2. Set the phone to full brightness. 3. On the phone, find a plain red picture and a plain blue picture to show full-screen. 4. Make the room dark. Take out the stars and check that none of them glows.",
      "say": "We need the stars to start with no glow at all. Then any glow comes only from the light we shine on them. Which do you think will make a star glow, red light or blue light? Why?",
      "kid": "Your stars have been in a dark box, so they have no glow left. Check them in the dark. Guess: will red or blue light make them glow? Why?",
      "context": "This is the first step of the Glow Star Test. You shine red and blue light on glow-in-the-dark stars to see which colour makes them glow.",
@@ -1741,7 +1741,7 @@
       "a": 0,
       "why": "Light comes in packets called photons. A blue photon carries more energy than a red one. To make the star glow, one photon must give the star's material enough energy all by itself. Lots of red photons cannot add up to do it. Picking 'too bright' usually means thinking brightness is what matters. Picking 'closer' is a good fair-test thought, but both lights were held 2 centimetres away."
      },
-     "parent": "Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. Phone screens differ, and the result is not certain. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it. If star 2 still stays dark, say so honestly and go on to the white torch in the last step."
+     "parent": "Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. Phone screens differ, and the result is not certain. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it. If star 2 still stays dark, say so honestly and go on to the step with the white torch."
     },
     {
      "id": "s4",
@@ -1779,9 +1779,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.",
      "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the red screen left star 1 dark, even for 2 minutes, but the blue screen made star 2 glow in 30 seconds. Why: light comes in packets called photons. Each blue photon has enough energy, but each red photon does not."
     }
    ]
@@ -1791,7 +1791,7 @@
    "title": "Chocolate in the Microwave: measure the speed of light",
    "mins": 24,
    "days": 1,
-   "context": "In this experiment, a grown-up melts a plate of chocolate in a microwave oven with the turning plate taken out. The melted spots show the size of the microwaves. From that, you work out their speed. Microwaves are the same kind of wave as light, so they travel at the speed of light.",
+   "context": "In this experiment, a grown-up melts a plate of chocolate in a microwave oven with the turning plate taken out. The distance between the melted spots shows how long the waves are. From that, you work out their speed. Microwaves are the same kind of wave as light, so they travel at the speed of light.",
    "question": "Can we measure the speed of light in our own kitchen?",
    "predict": "Before you start, guess. Will the chocolate melt evenly all over, or only in some spots? Why do you think so?",
    "fair_test": "Take the turning glass plate out, so the chocolate stays still. Heat in short bursts of 15 seconds, up to about 40 seconds in all, so only the hottest spots melt. Measure between the centres of melted spots, more than once, and take the middle value.",
@@ -1870,7 +1870,7 @@
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "The melted spots are 6 centimetres apart. How long is one whole microwave?",
+      "q": "The melted spots are 6 centimetres apart. How long is one whole wave?",
       "options": [
        "12 centimetres",
        "6 centimetres",
@@ -1973,7 +1973,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Ask your child to try to catch the light in a closed hand, then open it. 2. Switch off the torch. 3. Ask the questions in the next line.",
+     "do": "1. Ask your child to try to catch the light in a closed hand, then open it. 2. Switch off the torch. 3. Ask where the light went and what light is made of.",
      "say": "Can you catch light? Where does the light go when we switch off the torch? What do you think light is made of? There are no wrong answers yet. We'll find out together.",
      "kid": "Try to catch the light in your hand. Open your hand. Is it there? Where does the light go when you switch off?",
      "ask": [
@@ -2056,7 +2056,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child draws the Sun on one side of a page. 4. They draw themselves on the other side, with a beam between. 5. When it rings, stop.",
+     "do": "1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child draws the Sun on one side of a page. 4. They draw themselves on the other side, with a beam of light between the two. 5. When it rings, stop.",
      "say": "The sunlight landing on you now left the Sun about 8 minutes ago. The light leaving the Sun right now, as we press start, will reach you when the timer rings. That's how long its journey takes.",
      "kid": "Start a timer for 8 minutes and 20 seconds. While you wait, draw the Sun, you, and the light between. When it rings, that is how long sunlight takes!",
      "check": {
@@ -2166,7 +2166,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Hold the two marbles or coins a hand-width apart above the water. 2. Drop both at the same moment. 3. Shine the torch across the water from low at one side, so the ripples show up as bright lines.",
-     "say": "Where two tops meet, the ripple gets bigger. Where a top meets a dip, they cancel out and the water stays flat. That makes a pattern. Only waves do this.",
+     "say": "Where the tops of two ripples meet, the ripple gets bigger. Where a top meets a dip, they cancel out and the water stays flat. That makes a pattern. Only waves do this.",
      "kid": "Drop two coins at the same time. Where the ripples cross, look for bigger bumps and flat spots.",
      "check": {
       "t": "mcq",
@@ -2199,7 +2199,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Do the wave-and-particle dance: your child moves smoothly like a wave, then in sharp jumps like a particle, when you call out.",
+     "do": "Do the wave-and-particle dance. When you call 'wave', your child moves smoothly. When you call 'particle', they move in sharp jumps.",
      "say": "When I say 'wave', flow your arms like ripples. When I say 'particle', make sharp, tiny jumps, like a photon landing. Light can be both!",
      "kid": "Dance! Wave means flowing arms. Particle means sharp little jumps. Light is both.",
      "think": "Is light really a wave and really a particle, or are these just our words for it?"
@@ -2261,7 +2261,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put the chair at one end of the corridor. It is Jupiter. 2. The grown-up plays Io, Jupiter's moon, and stands by the chair with the torch and the paper star. 3. The child is the observer. They stand with their back turned and count aloud, steadily, 1, 2, 3, up to 10. At 10, Io flashes the torch, to show the moon coming out of Jupiter's shadow.",
-     "say": "Io goes round Jupiter like clockwork. Every 42 and a half hours, it comes out of Jupiter's shadow. In our game, it comes out every time the count reaches 10. The observer cannot see the flash. The news comes only with the messenger.",
+     "say": "Io goes round Jupiter like clockwork. Every 42 and a half hours, it comes out of Jupiter's shadow. In our game, it comes out every time the count reaches 10. The observer has their back turned, so they cannot see the flash. The news reaches them only when Io walks the paper star over.",
      "kid": "The grown-up is Io, Jupiter's moon. Stand with your back turned. Count 1 to 10 aloud, steadily. At 10, Io flashes the torch.",
      "context": "This is the first step of The Late Moon. You act out how Ole Rømer found that light takes time to travel."
     },
@@ -2288,7 +2288,7 @@
        "Jupiter's shadow got bigger"
       ],
       "a": 0,
-      "why": "Io always came out on time. But the light carrying its picture had a longer trip to reach the Earth. That took extra minutes. Picking 'Io slowed down' is what people first thought. Rømer showed the moon was not late at all. The news was."
+      "why": "Io always came out on time. But the light carrying its picture had a longer trip to reach the Earth. That took extra minutes. Picking 'Io slowed down' is what people first thought. Rømer showed the moon was not late at all. Only the news of it was late."
      }
     },
     {
@@ -2382,7 +2382,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Find a bright star. In winter, look for Orion, the hunter with three stars in a row for his belt. 2. Follow the belt down and left to Sirius, the brightest star. 3. Look at Betelgeuse, the reddish star at Orion's shoulder.",
-     "say": "Sirius's light left it about 8 and a half years ago. Betelgeuse's light left it about 500 to 700 years ago. Astronomers are still not sure exactly how far away it is. If it is about 600 years, that light set out in the 1400s, when the Vijayanagara Empire ruled much of South India.",
+     "say": "Sirius's light left it about 8 and a half years ago. Betelgeuse's light left it about 500 to 700 years ago. Astronomers are still not sure exactly how far away it is. If the light took about 600 years, it set out in the 1400s, when the Vijayanagara Empire ruled much of South India.",
      "kid": "Find Sirius, the brightest star. Its light left over 8 years ago. Find red Betelgeuse. Its light left hundreds of years ago!",
      "adult": true,
      "check": {
@@ -2471,7 +2471,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Slowly turn the cloth while you keep looking. 2. Then try a different cloth, or a fine tea strainer.",
-     "say": "The pattern turns when the cloth turns. The tiny gaps between the threads are making it. When light waves squeeze through tiny gaps, they spread out and cross each other, like the ripples in the uruli. Only waves do that.",
+     "say": "The pattern turns when the cloth turns. The tiny gaps between the threads are making it. When light waves squeeze through tiny gaps, they spread out and cross each other, like the water ripples in the Ripples in an Uruli activity. Only waves do that.",
      "kid": "Turn the cloth slowly. Does the pattern turn too? Try another cloth.",
      "check": {
       "t": "mcq",
@@ -2488,7 +2488,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about what it means.",
+     "do": "Talk about what the pattern of dots means.",
      "say": "This pattern is a clue that light is a wave. But very sensitive cameras in laboratories record the same kind of light arriving as tiny separate hits, the photons. Light is both at once. Scientists still find this strange.",
      "kid": "This pattern shows light is a wave. But light also comes in tiny packets. It is both!",
      "think": "If light is a wave, what is doing the waving?"
@@ -2542,7 +2542,7 @@
      "say": "If we could slow light down and zoom right in, what would we see between the lamp and the wall? Draw your best idea.",
      "kid": "Draw a lamp and a wall. What travels from the lamp to the wall? Draw your idea.",
      "context": "This is the first step of Draw What Light Is. You draw your idea of what light is, then draw it again at the end of the unit.",
-     "parent": "Any idea is good. Some children draw lines, some draw dots, some draw nothing. Keep it to compare later."
+     "parent": "Any idea is good. Some children draw lines, some draw dots, some draw nothing. Keep the drawing to compare later."
     },
     {
      "id": "s2",
@@ -2570,7 +2570,7 @@
        "A rope joining the lamp to the wall"
       ],
       "a": 0,
-      "why": "Light travels from the lamp in straight lines. It acts like a wave and arrives in packets called photons. It takes a tiny bit of time. Picking 'nothing, light is instant' was what many people believed before Rømer. Picking 'a rope' means thinking light joins things, but it flies from one to the other."
+      "why": "Light travels from the lamp in straight lines. It acts like a wave and arrives in packets called photons. It takes a tiny bit of time. 'Nothing, light is instant' is what many people believed before Rømer. Picking 'a rope' means thinking light joins things, but it flies from one to the other."
      }
     }
    ]
@@ -2652,7 +2652,7 @@
      "id": "s2",
      "mins": 20,
      "do": "On a clear evening, take your child outside. Use a sky map app to find any planet that is up. Point at it, then find it on the string. If no planet is up, find the Moon and point at the Earth peg.",
-     "say": "Look, a planet! Let's find its peg on our string. Its sunlight took that many minutes to reach it, and then more minutes to bounce to us. If you can only see the Moon, its light is just over a second old.",
+     "say": "Look, a planet! Let's find its peg on our string. Sunlight took that many minutes to reach the planet, and then more minutes to bounce to us. If you can only see the Moon, its light is just over a second old.",
      "kid": "Go outside with a grown-up. Find a planet with the app. Which peg on your string is it?",
      "adult": true,
      "wait": "Do this on day 2, on a clear evening.",
@@ -2752,7 +2752,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Talk about what you found. Read the general and creative solutions.",
+     "do": "Talk about what you found. Then read how Rømer, Fizeau and today's scientists solved the problem.",
      "say": "The time was the same, near or far. So we were not timing the light. We were timing ourselves! Light is far too fast for this test. Rømer used a much longer distance. Fizeau used a much faster clock.",
      "kid": "Near or far, the time was the same. We timed ourselves, not the light! Light is too fast for this test.",
      "check": {
@@ -2764,13 +2764,13 @@
        "How bright the torches were"
       ],
       "a": 0,
-      "why": "Light crosses 50 steps in far less than a millionth of a second. People take about a quarter of a second to react, each. So the half second is the two people's reaction times. Picking 'the speed of light' is what Galileo hoped, but light was too fast."
+      "why": "Light crosses 50 steps in far less than a millionth of a second. Each person takes about a quarter of a second to react. So the half second is the two people's reaction times. Picking 'the speed of light' is what Galileo hoped, but light was too fast."
      }
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to invent and draw their own way.",
+     "do": "Ask your child to invent and draw their own way to show that light takes time.",
      "say": "Now you invent a way. How could you show that light takes time?",
      "kid": "Now invent your own way to measure light. Draw it."
     }
@@ -2847,7 +2847,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Read the creative solutions together. Then improve your code.",
+     "do": "Read together about coloured flashes, glass threads and the heliograph. Then improve your code.",
      "say": "Kapany showed light could be sent along thin glass threads. Today, the internet travels as light flashing in such threads. How could you make your code faster?",
      "kid": "Read about glass threads that carry light. Now make your code faster. Try again!"
     }
@@ -2919,7 +2919,7 @@
   },
   {
    "t": "mcq",
-   "p": "A boy learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?",
+   "p": "Moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell you?",
    "opts": [
     "The Sun is much further away than the Moon",
     "Moonlight travels faster than sunlight",
@@ -2931,7 +2931,7 @@
   },
   {
    "t": "mcq",
-   "p": "A helper bangs two plates, and you see the flash of the bang before you hear it. You want to show that the gap grows with distance. What is the one thing you should change between tries?",
+   "p": "A helper bangs two plates, and you see the plates meet before you hear the bang. You want to show that the gap grows with distance. What is the one thing you should change between tries?",
    "opts": [
     "How far you stand from the helper",
     "The kind of plates",
@@ -3144,7 +3144,7 @@
   "Why can't you hear the Sun?",
   "If you could ride a beam of light, where would you go first?",
   "That star there: when did its light set out?",
-  "Who else in history did not believe a true idea at first?",
+  "Cassini did not believe Rømer's true idea at first. Who else in history did not believe a true idea at first?",
   "What news do we get that is already a little old when it reaches us?",
   "If you could send a message by light to anyone, what would you say?",
   "Why do you think nothing can go faster than light?"
@@ -3253,7 +3253,7 @@
    "why_maths": "Doubling shows how quickly light's distances pile up, even in a few seconds."
   },
   {
-   "problem": "In the Chocolate experiment, a different oven's melted spots were 5 centimetres apart. The spots are half a wave apart. How long is one whole wave? If a whole wave were 14 centimetres long, how far apart would the spots be?",
+   "problem": "In the Chocolate in the Microwave experiment, a different oven's melted spots were 5 centimetres apart. The spots are half a wave apart. How long is one whole wave? If a whole wave were 14 centimetres long, how far apart would the spots be?",
    "answer": "10 centimetres. And 7 centimetres for a 14 centimetre wave.",
    "explain": "A whole wave is two halves. 5 + 5 = 10 centimetres. For a 14 centimetre wave, half is 14 ÷ 2 = 7 centimetres.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -3402,11 +3402,11 @@
    "a": "Ole Rømer."
   },
   {
-   "q": "A light-year is a time or a distance?",
+   "q": "Is a light-year a time or a distance?",
    "a": "A distance: how far light goes in a year."
   },
   {
-   "q": "Seconds from lightning to thunder, divided by what, gives kilometres?",
+   "q": "You count the seconds from lightning to thunder. What do you divide by to get kilometres?",
    "a": "Divided by 3."
   },
   {
@@ -3507,7 +3507,7 @@
  "roots": {
   "context": "We have been learning what light is, how fast it travels and how it comes in packets. Now we ask what light tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A red phone screen can shine on a glow star for 2 minutes and leave it dark. A blue screen makes it glow in 30 seconds. Light comes in tiny packets of energy called photons, and a blue photon carries more than a red one. Each photon works alone, so if one carries too little energy, adding more photons cannot help.",
+   "truth": "A red phone screen can shine on a glow star for 2 minutes and leave it dark. A blue screen makes it glow in 30 seconds. Light comes in tiny packets of energy called photons, and a blue photon carries more energy than a red one. Each photon works alone, so if one carries too little energy, adding more photons cannot help.",
    "habit": "We expect more of something to do more, so shining a light for longer should do more. With light, that is only true when each photon carries enough energy. If it does not, adding more photons does nothing.",
    "evidence": "In the Glow Star Test, the red screen left the star dark, even after 2 whole minutes, while the blue screen made it glow in 30 seconds. Einstein explained the same thing for metals in 1905: red light, however bright, cannot knock electrons out of them."
   },
@@ -3535,13 +3535,13 @@
     "status": "settled"
    },
    {
-    "text": "In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Here 'observer' means any measuring machine, not only a person. Quantum physics does not prove that a person watching makes the world real.",
+    "text": "In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Quantum physics talks about an 'observer' of light. That means any measuring machine, not only a person. Quantum physics does not prove that a person watching makes the world real.",
     "status": "debated"
    }
   ],
   "other_view": {
    "who": "Many physicists, and the Charvaka school of ancient India",
-   "view": "Light is an electromagnetic field that follows the equations of physics, and nothing more is needed to explain it. The Charvaka thinkers held that only what we can perceive is real, so there is no need for any one source behind it."
+   "view": "Light is an electromagnetic field that follows the equations of physics, and nothing more is needed to explain it. The Charvaka thinkers held that only what we can perceive is real, so there is no need for any one source behind what we perceive."
   },
   "practice": {
    "title": "The Old Light Breath",

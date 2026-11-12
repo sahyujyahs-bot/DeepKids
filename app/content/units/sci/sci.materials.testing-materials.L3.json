@@ -85,7 +85,7 @@
   },
   {
    "term": "Millilitre (ml)",
-   "meaning": "A tiny amount of liquid. A teaspoon holds about 5 millilitres. A big glass of water holds about 250 millilitres.",
+   "meaning": "A small unit for measuring liquid. A teaspoon holds about 5 millilitres. A big glass of water holds about 250 millilitres.",
    "example": "A medicine cup from a cough syrup bottle has lines that mark millilitres.",
    "art": "A teaspoon of water next to a small plastic medicine cup with lines marked on it."
   },
@@ -197,7 +197,7 @@
    "concept": "What makes a test fair",
    "status": "defined",
    "definition": "A fair test changes only one thing and keeps everything else the same. Then any difference in the result must come from the one thing you changed.",
-   "description": "Imagine testing two cloths for an umbrella. You pour one spoon of water on the cotton, and five spoons on the plastic. More water comes through the plastic. Is plastic worse? You cannot tell, because two things changed: the cloth and the water. So a fair test asks three questions before you start. What will I change? What will I keep the same? What will I measure? In a materials test, you usually change the material. You keep the amount, the size, the time and the way you do it the same. You measure one result, with a number.",
+   "description": "Suppose you test two cloths for an umbrella. You pour one spoon of water on the cotton, and five spoons on the plastic. More water comes through the plastic. Is plastic worse? You cannot tell, because two things changed: the cloth and the water. So a fair test asks three questions before you start. What will I change? What will I keep the same? What will I measure? In a materials test, you usually change the material. You keep the amount, the size, the time and the way you do it the same. You measure one result, with a number.",
    "examples": [
     "Umbrella patch test: change the cloth. Keep the same rain, height, tumbler, patch size and waiting time. Measure the water that comes through.",
     "Strength test: change the paper. Keep the same strip size and the same coins. Count the coins it holds before it tears.",
@@ -555,7 +555,7 @@
   {
    "q": "Why does a fair test change only one thing? What goes wrong if you change two?",
    "kind": "deep",
-   "hint": "Imagine you changed the cloth and the amount of water. More water came through. What caused it?"
+   "hint": "Suppose you changed the cloth and the amount of water at the same time. More water came through. What caused it?"
   },
   {
    "q": "Can you ever be completely sure a material will not break?",
@@ -610,7 +610,7 @@
   {
    "q": "Paper, rubber, steel and a lotus leaf are all made of atoms that hold on to each other with the same electric force. Are you and a tree made of different things, or of the same atoms held together in different ways?",
    "kind": "big",
-   "hint": "Think of the strip test. What was really holding the paper together?"
+   "hint": "Think of the strip strength test. What was really holding the paper together?"
   }
  ],
  "how_we_found_out": {
@@ -645,7 +645,7 @@
    "Years later, other scientists worked out what her squeezed oil films really were. They were layers of oil just one molecule thick. A woman at a kitchen sink had measured something far too thin for any microscope of her time to see.",
    "In 1932, when Agnes was seventy years old, the university in Braunschweig gave her an honorary doctorate. That same year, an American scientist named Irving Langmuir won the Nobel Prize, for work that grew from a tray very like hers. Agnes never won a Nobel Prize. But her notebook is remembered. In its early pages, the numbers jump about. Then, on one page, they stand still."
   ],
-  "epiphany": "Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. That is a fair test and reliable, repeated results.",
+  "epiphany": "Agnes's numbers jump about because, without noticing, she changes many things at once: soap, onion fingers, dust. The turn comes when she stops blaming herself and asks 'what is different each time?' She keeps everything the same except one thing, and her repeated results agree. Only then can she test oil, soap and squeezing one at a time and write a meaningful table. Changing only one thing made her test fair. Getting the same number three times made her results reliable.",
   "ask": [
    "At first, Agnes's numbers kept jumping about. What was really causing that?",
    "What did Agnes do to make every test the same? Name three things.",
@@ -965,7 +965,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "In the umbrella test, sort these. Do we keep it the same, or is it the thing we measure?",
+     "p": "Sort these parts of the umbrella patch test. Do we keep each one the same, or is it the thing we measure?",
      "cats": [
       "Keep the same",
       "Measure"
@@ -1104,12 +1104,12 @@
     },
     {
      "t": "mcq",
-     "p": "Keerthi, a girl in Class 3, tests two paper strips. She puts one-rupee coins in the first bag and five-rupee coins in the second. Why is that unfair?",
+     "p": "A test compares two paper strips. One-rupee coins go in the first bag and five-rupee coins go in the second. Why is that unfair?",
      "opts": [
       "Five-rupee coins are shinier",
       "The coins are not the same weight",
-      "She should use paper money",
-      "It is fair, because she still counted"
+      "Paper money should be used",
+      "It is fair, because the coins were still counted"
      ],
      "a": 1,
      "how": "e2",
@@ -1422,7 +1422,7 @@
     },
     {
      "t": "write",
-     "p": "Kamala, a girl in Class 3, tested a toilet paper strip 2 cm wide and a kitchen towel strip 4 cm wide. She says kitchen towel is stronger. What is wrong with her test? How would you fix it?",
+     "p": "A test compares a toilet paper strip 2 cm wide with a kitchen towel strip 4 cm wide. The result says kitchen towel is stronger. What is wrong with the test? How would you fix it?",
      "lines": 3,
      "a": "Two things changed: the paper and the width of the strip. A wider strip may be stronger just because it is wider. I would cut both strips the same size, 2 cm wide and 15 cm long.",
      "why": "To be fair, only the paper should change.",
@@ -1440,7 +1440,7 @@
     },
     {
      "t": "write",
-     "p": "Write one sentence of each: what I think, what I saw, and why. Use the climbing water test.",
+     "p": "Look at the chart of the climbing water test. Write three sentences: what you think, what you saw, and why it happened.",
      "lines": 4,
      "a": "What I think: kitchen towel soaks up water best. What I saw: water climbed 9 cm up the kitchen towel but only 2 cm up the printer paper. Why: kitchen towel is fluffy, with many tiny gaps between its fibres, so water is pulled up them.",
      "why": "This is claim, evidence and reasoning. Any honest answer with all three parts is good.",
@@ -1522,7 +1522,7 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the chart. Facial tissue held 30 coins and the paper napkin held 25. Sneha, a girl in Class 3, says, 'Tissue is much stronger.' What would make her more sure?",
+     "p": "Look at the chart. Facial tissue held 30 coins and the paper napkin held 25. Someone says, 'Tissue is much stronger.' What would make you more sure of that?",
      "opts": [
       "Repeat each test three times and see whether the tissue still wins every time",
       "Nothing, 5 coins is a big gap",
@@ -1572,20 +1572,20 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Vidya, a girl in Class 4, hangs 10 coins from a thin rubber band and 20 coins from a thick band. The thick band stretched more. She says thick bands are stretchier. What is the best reply?",
+     "p": "You hang 10 coins from a thin rubber band and 20 coins from a thick band. The thick band stretches more. Does this show that thick bands are stretchier? Pick the best reply.",
      "opts": [
-      "She is right, because the thick band stretched more",
-      "Her test is unfair, because the number of coins changed too",
-      "She should have used paper money",
-      "Thick bands are always less stretchy, so she made a mistake reading the ruler"
+      "Yes, because the thick band stretched more",
+      "No. The test is unfair, because the number of coins changed too",
+      "No. Paper money should have been used",
+      "No. Thick bands are always less stretchy, so the ruler was read wrongly"
      ],
      "a": 1,
      "why": "Two things changed: the band and the load. The thick band might have stretched more only because it had twice the coins. Picking 'thick bands are always less stretchy' jumps to a new rule without a fair test. We do not know until we test both with the same coins.",
-     "context": "Vidya hangs a bag of coins from rubber bands and measures how long each band gets with a ruler."
+     "context": "A bag of coins hangs from a rubber band, and a ruler measures how long the band gets."
     },
     {
      "t": "mcq",
-     "p": "Vaishali, a girl in Class 4, did the climbing water test three times with kitchen towel. The water climbed 6 cm, 1 cm and 8 cm. What is the middle value?",
+     "p": "The climbing water test was done three times with kitchen towel. The water climbed 6 cm, 1 cm and 8 cm. What is the middle value?",
      "opts": [
       "1 cm",
       "5 cm",
@@ -1681,7 +1681,7 @@
     },
     {
      "t": "write",
-     "p": "Spider silk is about as strong as a steel thread of the same thickness, but much lighter and stretchier. Imagine you could make lots of it. What would you make, and how would you test it first?",
+     "p": "Spider silk is about as strong as a steel thread of the same thickness, but much lighter and stretchier. Suppose you could make lots of it. What would you make, and how would you test it first?",
      "lines": 4,
      "a": "For example: a rope for rescuing climbers. I would test strips of it with coins or weights until they break, three times each, and compare with nylon rope of the same thickness.",
      "why": "A good answer names a use and a fair test that compares it with something we already use."
@@ -1879,17 +1879,17 @@
      "do": "1. Draw three boxes on a sheet of paper: CHANGE, KEEP THE SAME and MEASURE. 2. Ask your child to fill them in. 3. If something is missing, ask one of the questions in the note below. Let your child decide what to write.",
      "say": "We want only the cloth to decide how much rain gets through. So what else could change if we are not careful? You plan the test. Fill in the three boxes.",
      "kid": "Draw three boxes: CHANGE, KEEP THE SAME, MEASURE. You want only the cloth to make a difference. What else must stay the same?",
-     "parent": "Help only with questions. If the amount of rain is missing, ask: 'What if one patch got more rain?' If the height is missing, ask: 'What if we dropped the rain from higher on one?' If the time is missing, ask: 'What if one waited longer?' If tightness is missing, ask: 'What if one patch was loose and saggy?' A full plan: CHANGE the cloth. KEEP THE SAME the patch size, the tumblers, how tight, 20 ml of rain, 10 cm high and 4 minutes of waiting. MEASURE the millilitres that come through.",
+     "parent": "Help only with questions. If the amount of rain is missing, ask: 'What if one patch got more rain?' If the height is missing, ask: 'What if we dropped the rain from higher on one?' If the time is missing, ask: 'What if one waited longer?' If tightness is missing, ask: 'What if one patch was loose and saggy?' A full plan looks like this. CHANGE: the cloth. KEEP THE SAME: the patch size, the tumblers, how tight the patch is, the 20 ml of rain, the 10 cm height and the 4 minutes of waiting. MEASURE: the millilitres that come through.",
      "check": {
       "t": "mcq",
-      "q": "Kavya, a girl in Class 3, tests two cloths. She pours 20 ml of water on the cotton and lifts it after 1 minute. She pours 20 ml on the wool and lifts it after 4 minutes. More water came through the wool. Is her test fair?",
+      "q": "A test pours 20 ml of water on the cotton and lifts it after 1 minute. It pours 20 ml on the wool and lifts it after 4 minutes. More water comes through the wool. Is the test fair?",
       "options": [
-       "Yes, because she tested two cloths",
+       "Yes, because it tested two cloths",
        "No, because the wool waited longer",
-       "Yes, because she poured the same water"
+       "Yes, because the same water was poured"
       ],
       "a": 1,
-      "why": "Two things changed: the cloth and the waiting time. The wool may have let more through only because it had three more minutes. Picking 'the same water' notices one thing she kept the same. But a fair test keeps everything the same except the cloth."
+      "why": "Two things changed: the cloth and the waiting time. The wool may have let more through only because it had three more minutes. Picking 'the same water' notices one thing that was kept the same. But a fair test keeps everything the same except the cloth."
      }
     },
     {
@@ -1899,7 +1899,7 @@
      "do": "1. A grown-up pushes a drawing pin through the bottle cap in 4 places, to make 4 small holes. 2. They make one more hole in the side, about 4 cm up from the bottom, to let air in. 3. Measure 20 ml of water in the medicine cup and pour it into the bottle. 4. Screw on the cap. 5. Keep a finger over the air hole. 6. Practise once over the medicine cup: turn the bottle upside down, hold it 10 cm up, and take your finger off. 7. Before the test, measure 20 ml into each of four small cups or katoris, so you can refill the bottle quickly.",
      "say": "This is our rain bottle. Every patch gets the same 20 ml of rain, from the same height. Why do you think the air hole matters?",
      "kid": "Ask a grown-up to make the rain bottle. Put 20 ml of water in it. Keep a finger on the air hole. Practise over the medicine cup.",
-     "parent": "With your finger on the air hole, the water stops, or nearly stops. Take it off and the rain falls in drops. Nearly all 20 ml should drip into the cup in under a minute. If it is slower, or water stays stuck in the bottle, make the holes a little bigger. Don't squeeze the bottle, because squeezing one more than another is a change. No bottle? Drip the 20 ml from a teaspoon, 4 spoonfuls, from 10 cm."
+     "parent": "With your finger on the air hole, the water stops, or nearly stops. Take it off and the rain falls in drops. Nearly all 20 ml should drip into the cup in under a minute. If it is slower, or water stays stuck in the bottle, make the holes a little bigger. Don't squeeze the bottle. If you squeeze harder for one patch than for another, that is a change, and the test is not fair. If you have no bottle, drip the 20 ml from a teaspoon, 4 spoonfuls, from 10 cm up."
     },
     {
      "id": "s4",
@@ -1972,7 +1972,7 @@
      "id": "s6",
      "mins": 20,
      "do": "1. Dry the tumblers. 2. Put fresh, dry squares on them. 3. Refill the rain bottle with 20 ml for each tumbler. 4. Do round 2 the same way. 5. Then do round 3.",
-     "say": "Same plan, fresh patches. Why do you think we need fresh, dry patches each time?",
+     "say": "We follow the same plan again, with fresh patches. Why do you think we need fresh, dry patches each time?",
      "kid": "Dry the tumblers. Put on fresh patches. Do it all again, twice more. Same rain, same height, same waiting.",
      "check": {
       "t": "mcq",
@@ -2039,7 +2039,7 @@
      "mins": 4,
      "adult": true,
      "do": "1. Stretch the umbrella cloth, raincoat or plastic square over a dry tumbler. 2. Test it once with 20 ml of rain. 3. Then a grown-up makes one hole in a fresh square with the drawing pin. 4. Ask your child to guess, with a reason. 5. Test the square with the hole.",
-     "say": "If this cloth let no rain through at all, now it gets one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?",
+     "say": "Say this cloth let no rain through at all. Now it gets one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?",
      "kid": "Test the umbrella cloth. Did any rain come through? Now a grown-up makes one tiny hole. Guess first, and say why. Then test it.",
      "ask": [
       {
@@ -2295,7 +2295,7 @@
    "title": "The Width Test: does a strip twice as wide hold twice as much?",
    "mins": 30,
    "days": 1,
-   "question": "Strips cut from the same paper napkin: does a 4 cm strip hold twice as many coins as a 2 cm strip? And do strips of the same size all hold the same?",
+   "question": "Take strips cut from the same paper napkin. Does a 4 cm strip hold twice as many coins as a 2 cm strip? And do strips of the same size all hold the same number?",
    "predict": "Guess first, and say why. If a 2 cm strip holds 20 coins, how many will a 4 cm strip hold? And will three 2 cm strips from the same napkin all hold exactly the same number? Why do you think so?",
    "fair_test": "This time, the thing we change is not the paper. It is the width of the strip. Keep everything else the same: the same napkin, one layer, and strips 15 cm long. Tape them the same way, use the same bag, and place one-rupee coins gently, one at a time. Measure how many coins each strip holds before it tears. Test three strips of each width.",
    "results_table": [
@@ -2587,7 +2587,7 @@
        "21 cm"
       ],
       "a": 1,
-      "why": "In order: 2, 9, 10. The middle one is 9. The 2 is an odd result, perhaps that strip didn't touch the water properly. Picking 21 means adding them up, which gives a total, not a middle value."
+      "why": "In order: 2, 9, 10. The middle one is 9. The 2 is an odd result. Perhaps that strip didn't touch the water properly. Picking 21 means adding them up, which gives a total, not a middle value."
      },
      "chart": {
       "type": "bar",
@@ -2705,7 +2705,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Write one thing on each of 8 slips. They are: the cloth, the amount of water, the size of the square, the time we wait. Then: the cup, how tight the cloth is, the water that comes through, and who pours. Your child places each slip in a box.",
+     "do": "Write one thing on each of 8 slips: the cloth, the amount of water, the size of the square, the time we wait, the cup, how tight the cloth is, the water that comes through, and who pours. Your child places each slip in a box.",
      "say": "Where does each slip go? Remember, only one slip can go in the CHANGE box.",
      "kid": "Put each slip in a box. Only ONE slip goes in CHANGE. Only ONE goes in MEASURE. The rest stay the same.",
      "check": {
@@ -2938,7 +2938,7 @@
      "id": "s2",
      "mins": 9,
      "do": "1. Wrap the bowl in the first cover, one layer. 2. Start the alarm. 3. Read the sound meter after 5 seconds. 4. Write it down. 5. Do this three times for each cover.",
-     "say": "Same alarm, same volume, same bowl, same distance. Only the cover changes. What else must we keep the same?",
+     "say": "We use the same alarm, the same volume, the same bowl and the same distance. Only the cover changes. What else must we keep the same?",
      "kid": "Wrap the bowl in one cover. Start the alarm. Read the number. Do each cover three times.",
      "parent": "No second phone? Then measure how far away you can walk before you stop hearing the alarm. Use a measuring tape. A shorter distance means a better muffler. Keep the room as quiet as you can, and switch off fans, because noise around you is a change too. Phone sound meter apps are rough. If two covers differ by only 1 or 2 decibels, call them about equal.",
      "chart": {
@@ -3068,7 +3068,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Put the cardboard square on top. 2. Gently lower the same three books on top. 3. Measure the thickness now. 4. Lift the books off. 5. Wait 1 minute, then measure again. 6. Do the same for each material.",
-     "say": "Same books, same cardboard, same minute of waiting. Only the material changes.",
+     "say": "We use the same books, the same cardboard and the same minute of waiting. Only the material changes.",
      "kid": "Put the card on top. Lower the three books gently. Measure. Lift them off. Wait 1 minute. Measure again.",
      "chart": {
       "type": "table",
@@ -3128,7 +3128,7 @@
        "The ruler was wrong"
       ],
       "a": 1,
-      "why": "The bread did not go back to 2.5 cm, so it stayed squashed. Its soft walls of baked dough crushed and stuck together. A sponge's walls are springy, so they push back open. Picking 'elastic' means looking at the squash, not at what happened after. Both squashed. Only one sprang back."
+      "why": "The bread did not go back to 2.5 cm, so it stayed squashed. Its soft walls of baked dough crushed and stuck together. A sponge's walls are springy, so they push back open. Picking 'elastic' means looking at the squash, not at what happened after. Both the bread and a sponge squash. Only the sponge springs back."
      },
      "think": "A sponge and foam spring back, but bread stays squashed, even though all three are full of air holes. Why? What would happen to a sponge squashed a thousand times?",
      "parent": "After your child has answered, give the words. Springing back is called elastic. Staying squashed is called plastic, from an old Greek word that means 'can be shaped'."
@@ -3334,7 +3334,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Hang each cup from a finger by its handle. 2. Tap it gently with the spoon. 3. Listen to the ring. 4. No cracked cup? Hang a steel tumbler from a thread and tap it. Then hold it tightly in your hand and tap it again.",
+     "do": "1. Hang each cup from a finger by its handle. 2. Tap it gently with the spoon. 3. Listen to the ring. 4. If you have no cracked cup, hang a steel tumbler from a thread and tap it. Then hold it tightly in your hand and tap it again.",
      "say": "Before you tap, guess. Which cup will ring clearly, and why? Now close your eyes and listen. Which one rings clearly? Which one sounds dull or buzzy?",
      "kid": "Close your eyes. Tap each cup gently with a spoon. Which one rings? Which one buzzes?",
      "context": "This is the first step of Tap and Bend. First you test cups and pots by tapping them, which does not harm them. Then you test paper clips by bending them until they break.",
@@ -3393,7 +3393,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Find the middle value of the three clips. Then talk about bridges and aeroplanes.",
-     "say": "Three clips, three different numbers. That's why engineers can't say exactly when a part will break. So they test many, and they check and replace parts long before.",
+     "say": "Three clips gave three different numbers. That's why engineers can't say exactly when a part will break. So they test many parts, and they check and replace parts long before they could break.",
      "kid": "Each clip broke at a different number. Find the middle one. Engineers check aeroplane parts long before they could break.",
      "think": "Which is better for checking a bridge: a test that breaks it, or a test that doesn't? Why do engineers need both?"
     }
@@ -3477,7 +3477,7 @@
      "mins": 4,
      "adult": true,
      "do": "1. On one layer of napkin, mark six strips, each 2 cm wide and 15 cm long, all in the same direction. 2. Cut them out slowly. 3. Throw away any strip with a nick. 4. On three strips, make one straight cut 5 millimetres long, in from one edge, halfway down.",
-     "say": "Same napkin, same size, same direction. The only thing we change is the tiny cut. Why does that make it a fair test?",
+     "say": "The strips are from the same napkin, the same size, and cut in the same direction. The only thing we change is the tiny cut. Why does that make it a fair test?",
      "kid": "Mark six strips, 2 cm wide and 15 cm long. Ask a grown-up to help cut. Make a tiny cut in three of them.",
      "parent": "5 millimetres is half a centimetre, a quarter of the strip's width. Measure it with the ruler, because a longer cut on one strip would be a change too."
     },
@@ -3626,7 +3626,7 @@
     {
      "id": "s2",
      "mins": 16,
-     "do": "1. Pour 50 ml of water onto a plate. 2. Lay one whole sheet of Brand A on it for 10 seconds. 3. Lift it by one corner and let it drip back onto the plate for 5 seconds. 4. Pour what is left on the plate into the measuring cup. 5. 50 minus what is left is what the sheet soaked up. 6. Repeat three times for each brand.",
+     "do": "1. Pour 50 ml of water onto a plate. 2. Lay one whole sheet of Brand A on it for 10 seconds. 3. Lift it by one corner and let it drip back onto the plate for 5 seconds. 4. Pour what is left on the plate into the measuring cup. 5. Take that number away from 50. The answer is how much the sheet soaked up. 6. Repeat three times for each brand.",
      "say": "We pour the same 50 ml every time. Whatever is left behind tells us how much the sheet soaked up.",
      "kid": "Pour 50 ml on a plate. Lay a sheet on it for 10 seconds. Lift it. Let it drip 5 seconds. Measure what is left. 50 minus that is what it soaked up.",
      "parent": "If the sheets are different sizes, cut them all to the same size first, for example 20 cm by 20 cm. Otherwise the test is not fair.",
@@ -3728,7 +3728,7 @@
      "do": "Your child presents the report to the family, and says which towel they would buy and why.",
      "say": "Which one would you buy? Is the winner the same if money is tight?",
      "kid": "Show your report to your family. Which one would you buy? Why?",
-     "think": "Imagine a towel is not the best at anything, but it is good at everything and cheap. Is that a kind of best?"
+     "think": "Suppose a towel is not the best at anything, but it is good at everything and cheap. Is that a kind of best?"
     }
    ],
    "context": "In this 3-day project, you test real kitchen towels fairly: how much water each sheet soaks up, how strong it is when wet, and how much one sheet costs. Then you write a report card.",
@@ -3869,8 +3869,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Remind your child how many coins a flat 2 cm strip of toilet paper held. Or test one now.",
-     "say": "A flat strip 2 cm wide held about 15 coins. A whole sheet is about 10 cm wide. Can one sheet hold 100 coins if you change its shape?",
-     "kid": "A flat 2 cm strip held about 15 coins. Can one whole sheet hold 100? Change its shape!",
+     "say": "A flat strip of toilet paper 2 cm wide held about 15 coins. A whole sheet is about 10 cm wide. Can one sheet hold 100 coins if you change its shape?",
+     "kid": "A flat strip of toilet paper 2 cm wide held about 15 coins. Can one whole sheet hold 100? Change its shape!",
      "context": "This is the first step of the 100-Coin Strip challenge. You change the shape of one sheet of toilet paper to make it strong enough to hold 100 one-rupee coins."
     },
     {
@@ -3884,7 +3884,7 @@
      "id": "s3",
      "mins": 14,
      "do": "1. Make one idea. 2. Hang it 15 cm long. 3. Add coins gently, counting, until it breaks. 4. Try the next idea with a fresh sheet.",
-     "say": "Same paper, same length, same coins. Only the shape changes. That keeps it a fair test.",
+     "say": "The paper, the length and the coins stay the same. Only the shape changes. That keeps it a fair test.",
      "kid": "Make one idea. Hang it. Add coins until it breaks. Then try your next idea with a new sheet.",
      "check": {
       "t": "mcq",
@@ -3980,7 +3980,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Tap the cracked cup with a spoon, as you did in Tap and Bend. 2. Tap the whole cup the same way. 3. Which sounds different? No cracked cup? Skip to the next step.",
+     "do": "1. Tap the cracked cup with a spoon, as you did in Tap and Bend. 2. Tap the whole cup the same way. 3. Listen for which one sounds different. If you have no cracked cup, skip to the next step.",
      "say": "Here is one idea engineers use. Tap the part and listen. Tap both cups the same way. What do you hear?",
      "kid": "Tap both cups with a spoon. Which one sounds dull?"
     },
@@ -4044,14 +4044,14 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi, a girl in Class 3, is about to test cloths for an umbrella. She says: 'The wool will keep the rain out best.' What would make her guess more useful?",
+   "p": "Before you test cloths for an umbrella, you guess: 'The wool will keep the rain out best.' What would make your guess more useful?",
    "opts": [
     "Nothing, a guess is just a guess",
-    "Adding her reason, like 'because it is the thickest'",
+    "Adding your reason, like 'because it is the thickest'",
     "Looking up the answer first"
    ],
    "a": 1,
-   "why": "A guess with a reason can be checked. If thick cloth lets rain through, Meenakshi learns that thickness was not the reason, and that is a real discovery. Picking 'look up the answer' skips the thinking that the test is for.",
+   "why": "A guess with a reason can be checked. If thick cloth lets rain through, you learn that thickness was not the reason, and that is a real discovery. Picking 'look up the answer' skips the thinking that the test is for.",
    "outcome": 1
   },
   {
@@ -4070,11 +4070,11 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun, a boy in Class 3, pours 1 spoon of water on cotton and 3 spoons on plastic. What is wrong with his test?",
+   "p": "A test pours 1 spoon of water on cotton and 3 spoons on plastic. What is wrong with the test?",
    "opts": [
     "Nothing, it is fair",
     "Two things changed: the material and the amount of water",
-    "He should have used cold water"
+    "The water should have been cold"
    ],
    "a": 1,
    "why": "With two changes, we can't tell what caused the result. Picking 'nothing' usually means thinking any test that compares materials is fair.",
@@ -4439,13 +4439,13 @@
   "That advert says 'stronger than ever'. How could we test it fairly?",
   "Your umbrella has a tiny hole. Would a test have found it? How?",
   "Why do we try things three times, not just once?",
-  "How could you find out which of your pens writes the longest line before running out, fairly?",
+  "How could you fairly find out which of your pens writes the longest line before it runs out?",
   "A potter taps a pot before selling it. What is she listening for?",
   "Is it fair to test everyone in a class with the same test? Why or why not?",
   "If one hair can hold 20 coins, what could a plait of three hairs hold? How could you check?",
   "Did anything today give an odd result? What might have gone wrong?",
   "Hold a sheet of paper or a napkin up to the window. Where are its thin spots? Where do you think it would tear first?",
-  "Which of your clothes would you choose for an umbrella patch now? Has your reason changed since the test?"
+  "Which of your clothes would you choose for an umbrella patch now? Has your reason changed since the umbrella patch test?"
  ],
  "jokes": [
   {
@@ -4560,16 +4560,16 @@
    "why_maths": "A bar chart puts the cloths side by side, so you can check a guess, like 'thick is best', at a glance."
   },
   {
-   "problem": "Lakshmi, a girl in Class 3, measured the water that came through the cotton hanky with her small spoon. It filled 4 spoons. Her mother measured the same water with her big spoon. It filled 2 spoons. Then they both used the medicine cup, and both got 12 ml. Why did the medicine cup agree, when the spoons did not?",
+   "problem": "You measure the water that came through the cotton hanky with a small spoon. It fills 4 spoons. A grown-up measures the same water with a big spoon. It fills 2 spoons. Then you both use the medicine cup, and you both get 12 ml. Why did the medicine cup agree, when the spoons did not?",
    "answer": "Because a millilitre is the same size for everyone, but spoons are not.",
-   "explain": "Lakshmi's spoon is smaller than her mother's, so the same water fills more of her spoons. A millilitre is a standard unit. It is exactly the same amount on every medicine cup in the world. So both of them got 12 ml.",
+   "explain": "The small spoon holds less than the big spoon, so the same water fills more small spoons. A millilitre is a standard unit. It is exactly the same amount on every medicine cup in the world. So both of you got 12 ml.",
    "math_unit": "math.measurement-basics.standard-units.L3",
    "context": "This question is about the umbrella patch test. You stretch squares of old cloth over steel tumblers, let 20 ml of 'rain' drip onto each one, and after 4 minutes measure how much water came through.",
    "how": "e1",
    "why_maths": "Tests are only useful if other people can repeat them and compare. Standard units like the millilitre let everyone measure the same way."
   },
   {
-   "problem": "Here are some made-up results from a width test. Strips 1 cm wide held about 9 coins. Strips 2 cm wide held about 20. If the pattern keeps going, how many will 4 cm strips hold? Then the 4 cm strips held 44. Was the pattern right? Why might the 1 cm strips have held a little less than half of 20?",
+   "problem": "Here are some made-up results from a width test. Strips 1 cm wide held about 9 coins. Strips 2 cm wide held about 20. If the pattern keeps going, how many will 4 cm strips hold? When they were tested, the 4 cm strips held 44. Was the pattern right? Why might the 1 cm strips have held a little less than half of 20?",
    "answer": "The pattern predicts about 40 coins for 4 cm. The real middle value was 44, which is close. The 1 cm strips may have held less than half because their cut edges are a bigger part of them.",
    "explain": "Doubling the width roughly doubles the coins: 20 + 20 = 40. The test gave 44, so the pattern was close but not exact. When you cut a strip, the fibres at both edges are cut and weakened. In a 1 cm strip, those damaged edges are a big part of the strip. In a 4 cm strip, they are a small part. So narrow strips hold a little less than the pattern says.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -4891,9 +4891,9 @@
   ]
  },
  "roots": {
-  "context": "We have tested cloths until rain came through, and paper strips until they tore. Now we ask what those tests tell us about ourselves and the world.",
+  "context": "In the umbrella patch test, we let rain drip onto cloths and measured how much came through. In the strip strength test, we hung coins from paper strips until they tore. Now we ask what those tests tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A napkin strip with one small cut held fewer coins and tore at the cut. However strong a material is, a small crack can grow and break it. An object is only as strong as the crack it has. So engineers hunt for tiny cracks before they grow.",
+   "truth": "In the Tiny Cut Test, a napkin strip with one small cut held fewer coins and tore at the cut. However strong a material is, a small crack can grow and break it. So a thing is only as strong as its cracks allow. That is why engineers hunt for tiny cracks before they grow.",
    "habit": "We think strength belongs to the material: steel is strong and glass is weak. But a strong thing with a crack can break easily, and a thin glass thread with no cracks is very strong. So strength depends on the cracks as well as the material.",
    "evidence": "In the tiny cut test, napkin strips with one 5 mm cut tore at the cut and held fewer coins than strips with no cut. In 1920, Alan Arnold Griffith found that very thin glass threads were many times stronger for their size than thick rods, because they had fewer hidden cracks."
   },

@@ -172,7 +172,7 @@
    "concept": "What a property is",
    "status": "defined",
    "definition": "A property is a word that tells what a material is like.",
-   "description": "You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. Another property is whether a magnet attracts it. The unit Magnetic materials is all about that.",
+   "description": "You can find out a property in four ways. You can look, touch, listen or test. Some you see at once, like shiny or see-through. Others need a test, like strong or waterproof. A property belongs to the material, not to one object. A steel spoon and a steel tumbler have different shapes. But both are hard and shiny, because both are steel. Another property is whether a magnet attracts the material. The unit Magnetic materials is all about that.",
    "examples": [
     "Look: a steel spoon is shiny and a brick is dull.",
     "Touch: sandpaper is rough and marble is smooth.",
@@ -355,7 +355,7 @@
    "concept": "Why a rubber band stretches and springs back",
    "status": "defined",
    "definition": "A rubber band is made of very long, tangled chains of atoms. They uncoil when pulled and tangle up again when let go.",
-   "description": "Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because a tangle is the more likely arrangement. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.",
+   "description": "Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because loose chains almost always end up tangled. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.",
    "examples": [
     "Rubber bands, balloons and the straps of rubber chappals are all elastic.",
     "A hair tie stretches and springs back many times, until the chains wear out.",
@@ -395,7 +395,7 @@
     },
     {
      "who": "Biologists and material scientists studying spider silk",
-     "explanation": "Weight for weight, spider silk is among the toughest fibres known. A spider makes this silk at room temperature from a fly's meal. People still cannot copy it exactly."
+     "explanation": "Weight for weight, spider silk is among the toughest fibres known. A spider makes this silk at room temperature, out of the flies she eats. People still cannot copy it exactly."
     },
     {
      "who": "Physicists who measured graphene in 2008",
@@ -483,7 +483,7 @@
    "claim": "A property belongs to a thing all by itself, whether or not anything is touching it.",
    "who": "Most of us, when we say 'this stone is hard'. Some thinkers, like the Buddhist teacher Nagarjuna (about the 2nd century CE), looked at it differently.",
    "for": "A stone seems hard even in a dark cupboard where nobody is testing it. Its atoms are joined the same way whether anyone scratches it or not.",
-   "against": "'Hard' means 'harder than something else'. 'Cold' means 'takes heat from a warm hand'. A cotton thread holds more in damp air than in dry air. A property shows up in a meeting between two things. Nagarjuna taught that nothing exists all alone, and everything depends on other things. Most scientists would add that the stone has a real structure that decides what happens in every meeting.",
+   "against": "'Hard' means 'harder than something else'. 'Cold' means 'takes heat from a warm hand'. A cotton thread holds more in damp air than in dry air. So a property shows up only when two things meet. Nagarjuna taught that nothing exists all alone, and everything depends on other things. Most scientists would add that the stone has a real structure that decides what happens in every meeting.",
    "status": "debated",
    "context": "This card asks a deep question. Is a property inside a thing, or does it show up only when two things meet?"
   },
@@ -752,7 +752,7 @@
        "Opaque"
       ],
       "a": 0,
-      "why": "A blurry glow means some light comes through, but it is scattered. That is translucent. A clear bright spot would mean transparent. Only a shadow would mean opaque. Picking 'transparent' usually means thinking anything that lets light through is the same."
+      "why": "A blurry glow means some light comes through, but it is scattered. That is translucent. A clear bright spot would mean transparent. Only a shadow would mean opaque. If you picked 'transparent', you may be thinking that anything that lets light through is transparent."
      }
     },
     {
@@ -891,7 +891,7 @@
        "It is a tie"
       ],
       "a": 0,
-      "why": "Absorbent means it soaks up water, so the higher number soaks up more. Cotton scores 5. Picking plastic usually means mixing up 'absorbent' with 'good at keeping water out'. That property is waterproof, the opposite."
+      "why": "Absorbent means it soaks up water, so the higher number soaks up more. Cotton scores 5. If you picked plastic, you may have mixed up 'absorbent' with 'good at keeping water out'. That property is waterproof, the opposite."
      }
     },
     {
@@ -946,7 +946,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, says four things about her steel lunch box. Which one is about the box, and not about the steel?",
+     "p": "Here are four things you could say about a steel lunch box. Which one is about the box, and not about the steel?",
      "opts": [
       "It is shaped like a rectangle",
       "It is shiny",
@@ -1040,7 +1040,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl leaves a steel spoon and a wooden spoon standing in a pot of hot rasam. After two minutes she touches the top of each handle. What will she feel?",
+     "p": "A steel spoon and a wooden spoon stand in a pot of hot rasam. After two minutes you touch the top of each handle. What will you feel?",
      "opts": [
       "The steel handle is hot, the wooden one is only warm",
       "Both are equally hot",
@@ -1064,7 +1064,7 @@
     },
     {
      "t": "write",
-     "p": "A bath towel and an umbrella are both made of cloth. The towel soaks up water. The umbrella keeps water out. How can two cloths behave in opposite ways? Use what you saw in the vanishing drop test.",
+     "p": "A bath towel and an umbrella are both made of cloth. The towel soaks up water. The umbrella keeps water out. How can two cloths behave in opposite ways? In The Vanishing Drop, you timed how long one drop of water took to soak into each surface. Use what you saw.",
      "lines": 4,
      "how": "e4",
      "a": "A strong answer says the two cloths are different materials, or are made differently. Towel cotton has loose loops with many tiny gaps, so water creeps in and the drop vanishes fast. Umbrella cloth is woven very tightly and often coated with plastic, so the drop sits on top, like on the plastic bag.",
@@ -1072,7 +1072,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 3, says, 'My pencil is made of wood. So wood is one of its properties.' What is her mistake?",
+     "p": "A child says, 'My pencil is made of wood. So wood is one of its properties.' What is the mistake?",
      "opts": [
       "Wood is the material. A property would be a word like light or easy to sharpen",
       "There is no mistake",
@@ -1080,7 +1080,7 @@
       "Wood is the object"
      ],
      "a": 0,
-     "why": "The material is what a thing is made of. A property says what that material is like. Divya mixed up the two. Picking 'wood is the object' mixes it up the other way, because the pencil is the object."
+     "why": "The material is what a thing is made of. A property says what that material is like. The child mixed up the two. Picking 'wood is the object' mixes it up the other way, because the pencil is the object."
     },
     {
      "t": "draw",
@@ -1091,18 +1091,18 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl in Class 3, needs a new water bottle for school. Three people in her family give advice.",
+     "p": "A child in Class 3 needs a new water bottle for school. She, her sister and her grandmother each say which kind is best.",
      "views": [
       {
-       "who": "Lakshmi, in Class 3",
+       "who": "The child, in Class 3",
        "says": "Steel is best. It does not break when I drop it, and it does not leak."
       },
       {
-       "who": "Farhana, her older sister",
+       "who": "Her older sister",
        "says": "Plastic is best. It is much lighter in the school bag, and it is cheap."
       },
       {
-       "who": "Ammamma, their grandmother",
+       "who": "Her grandmother",
        "says": "Glass is best. You can see how much water is left, and it gives no taste to the water."
       }
      ],
@@ -1132,7 +1132,7 @@
     },
     {
      "t": "write",
-     "p": "In the snap, bend or spring back test, you pushed things past their limit. Pick one thing that snapped, one that stayed bent and one that sprang back. Name the property each one showed.",
+     "p": "In the experiment Snap, Bend or Spring Back?, you bent eight things until they snapped, stayed bent or sprang back. Pick one thing that snapped, one that stayed bent and one that sprang back. Name the property each one showed.",
      "lines": 4,
      "how": "e1",
      "a": "For example: the chalk snapped, so it is brittle. The paper clip stayed bent, so it is flexible but not elastic. The plastic ruler sprang back, so it is elastic. A strong answer uses the child's own results.",
@@ -1148,7 +1148,7 @@
     },
     {
      "t": "mcq",
-     "p": "A girl wants a cover for her notebook that will not be spoiled when she walks home in the rain. Which property matters most?",
+     "p": "You want a cover for your notebook that will not be spoiled when you walk home in the rain. Which property matters most?",
      "opts": [
       "Waterproof",
       "Absorbent",
@@ -1193,7 +1193,7 @@
     },
     {
      "t": "write",
-     "p": "A girl rolls a sheet of kitchen foil into a tight ball and drops it into a bucket of water. It sinks. Then she flattens the same foil into a little boat. What do you predict will happen, and why?",
+     "p": "You roll a sheet of kitchen foil into a tight ball and drop it into a bucket of water. It sinks. Then you flatten the same foil into a little boat. What do you predict will happen, and why?",
      "lines": 4,
      "a": "The boat floats. A strong answer says the material is the same, but the shape has changed. The boat is hollow and full of air, so all together it is less tightly packed than the water it pushes aside. The ball is solid foil, which is more tightly packed than water.",
      "why": "Sinking and floating depend on the object's shape as well as its material. This is why a steel ship floats."
@@ -1363,11 +1363,11 @@
      "p": "Is glass a strong material or a weak one? Three people disagree.",
      "views": [
       {
-       "who": "Sumathi, who fits windows in Madurai",
+       "who": "A woman who fits windows",
        "says": "Glass is strong. My windows stand up to wind and rain for twenty years."
       },
       {
-       "who": "Ananya, in Class 3, whose glass bangle broke",
+       "who": "A child in Class 3 whose glass bangle broke",
        "says": "Glass is weak. My bangle fell on the floor and broke into pieces."
       },
       {
@@ -1377,12 +1377,12 @@
      ],
      "ask": "Which person do you agree with most? Use a property word and an example. Then say what another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses the right words: strong (holds a big load), brittle (snaps instead of bending). It may say that Sumathi and Ananya are both right about different things: glass holds a steady load well but cannot take a sudden knock. The scientist's view joins the two.",
+     "a": "A strong answer picks a side and uses the right words: strong (holds a big load), brittle (snaps instead of bending). It may say that the window fitter and the child are both right about different things: glass holds a steady load well but cannot take a sudden knock. The scientist's view joins the two.",
      "why": "Strong and brittle are different properties. However strong a material is, a small crack can grow and break it. That is why the answer depends on what the glass has to do."
     },
     {
      "t": "mcq",
-     "p": "Nisha, a girl in Class 4, tests a dry newspaper strip at noon and a damp cotton thread at dawn. The thread holds more. She says, 'Damp makes things stronger.' What is wrong with her test?",
+     "p": "A child tests a dry newspaper strip at noon and a damp cotton thread at dawn. The thread holds more. She says, 'Damp makes things stronger.' What is wrong with her test?",
      "opts": [
       "She changed two things at once: the material and the dampness",
       "Nothing, it is a fair test",
@@ -1392,7 +1392,7 @@
      "a": 0,
      "how": "e3",
      "context": "In the dry or damp test, you hang a bag from a strip or a thread. You pour in water, one cup at a time, until it tears.",
-     "why": "A fair test changes only one thing. Nisha changed the material and the dampness together, so she cannot tell which one made the difference. To test dampness, she must test the same material dry and damp."
+     "why": "A fair test changes only one thing. The child changed the material and the dampness together, so she cannot tell which one made the difference. To test dampness, she must test the same material dry and damp."
     },
     {
      "t": "write",
@@ -1435,7 +1435,7 @@
       "Metals have no atoms in them"
      ],
      "a": 0,
-     "why": "In a metal, some electrons are not tied to one atom. They carry heat away from your hand quickly, so metal feels cold. They also bounce light back, which makes metals shiny. Picking 'always colder' is the idea this unit tested and rejected."
+     "why": "In a metal, some electrons are not tied to one atom. They carry heat away from your hand quickly, so metal feels cold. They also bounce light back, which makes metals shiny. 'Always colder' is wrong: a thermometer shows that a steel spoon and a wooden spoon in the same room are at the same temperature."
     },
     {
      "t": "write",
@@ -1507,7 +1507,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Paper loses strength because water loosens the joins between its fibres. Plastic does not take in water, so it stays about the same. Cotton fibres hold together a little better when damp, so cotton gets a little stronger. That is why the spinners in the story worked in the damp morning air.",
+     "why": "Paper loses strength because water loosens the joins between its fibres. Plastic does not take in water, so it stays about the same. Cotton fibres hold together a little better when damp, so cotton gets a little stronger. That is why the spinners in the story The Thread That Held at Dawn worked in the damp morning air.",
      "how": "e3",
      "context": "In the dry or damp test, you hang a bag from a strip or a thread and pour in water until it breaks. You compare dry and damp."
     },
@@ -1540,7 +1540,7 @@
       "Nothing, because it is always true"
      ],
      "a": 0,
-     "why": "A thread's strength depends on its thickness and on the dampness of the air. The same words 'cotton thread' could describe very different results. Picking 'nothing' is the idea that properties never change, which the story showed is wrong."
+     "why": "A thread's strength depends on its thickness and on the dampness of the air. The same words 'cotton thread' could describe very different results. Picking 'nothing' is the idea that properties never change. In the story The Thread That Held at Dawn, the same thread held more shells in the damp dawn air than in the dry air of noon."
     },
     {
      "t": "draw",
@@ -1561,15 +1561,15 @@
      "p": "Graphene is a sheet of carbon only one atom thick. It is the strongest material ever measured. People disagree about what it means for the future.",
      "views": [
       {
-       "who": "Dr Priya, a scientist who makes graphene",
+       "who": "A scientist who makes graphene",
        "says": "Graphene will change everything. Phones, buildings and cars will all be made with it."
       },
       {
-       "who": "Hema, an engineer who builds bridges in Hyderabad",
+       "who": "An engineer who builds bridges",
        "says": "Steel is cheap, and we know exactly how it behaves. Graphene is hard to make in big pieces, so I will keep using steel."
       },
       {
-       "who": "Leela, a teacher",
+       "who": "A teacher",
        "says": "Both may be right. A new material wins only the jobs where its properties matter most and its cost is worth paying."
       }
      ],
@@ -1599,11 +1599,11 @@
     },
     {
      "t": "mcq",
-     "p": "A boy in your class says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
+     "p": "Someone says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
      "opts": [
       "Each is good for some jobs: rubber for a tyre, glass for spectacles",
-      "The boy is right, because glass breaks",
-      "The boy is wrong, because glass is always better",
+      "That is right, because glass breaks",
+      "That is wrong, because glass is always better",
       "Materials cannot be compared"
      ],
      "a": 0,
@@ -1689,7 +1689,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess the piles. Bend each thing a little, then more. Write what happens. Sort them into groups."
+     "what": "Guess which pile each thing goes in. Bend each thing a little, then more. Write what happens. Sort them into groups."
     }
    ],
    "record": "Fill in the table. Then write the name of each group under its things.",
@@ -1700,7 +1700,7 @@
      "mins": 3,
      "do": "1. Lay out the eight things. 2. Ask your child to make three piles on the table: SNAPS, STAYS BENT and SPRINGS BACK. 3. Ask them to say why for each.",
      "say": "Imagine bending each of these. Some will snap. Some will stay bent. Some will spring back. Put each one in the pile you think it belongs to.",
-     "kid": "Look at the eight things. Make three piles. SNAPS, STAYS BENT and SPRINGS BACK. This is your guess.",
+     "kid": "Look at the eight things. Make three piles: SNAPS, STAYS BENT and SPRINGS BACK. This is your guess.",
      "ask": [
       {
        "q": "Why did you put that one in that pile?",
@@ -1769,7 +1769,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Look at the table. Sort the eight things into three groups. Say a word for each group.",
+     "do": "Look at the table. Sort the eight things into three groups. Give each group a name.",
      "say": "Look at your results. Which things snapped? Which stayed bent? Which sprang back? A thing that snaps is called brittle. A thing that springs back is called elastic.",
      "kid": "Sort your results into three groups. Things that snap are brittle. Things that spring back are elastic.",
      "check": {
@@ -1790,7 +1790,7 @@
      "do": "Talk about what the things in each group have in common. Ask: why does metal stay bent, but a plastic ruler spring back?",
      "say": "Look at the thing that stayed bent, and the thing that sprang back. Both bend. What is different about them?",
      "kid": "Both bent. One stayed bent. One sprang back. What is different?",
-     "think": "Inside a paper clip, the tiny atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring home. Why might a snap be different?"
+     "think": "Inside a paper clip, the tiny atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring back to where they were. Why might a snap be different?"
     }
    ],
    "example_chart": {
@@ -1920,7 +1920,7 @@
      "kid": "Hold the ruler upright by the tip. Read how far it dropped. Do it 3 times.",
      "chart": {
       "type": "scale",
-      "title": "A ruler, reading the drop of a paper strip in centimetres (cm)",
+      "title": "A ruler showing how far the tip of a paper strip has dropped, in centimetres (cm)",
       "min": 0,
       "max": 10,
       "step": 1,
@@ -2115,7 +2115,7 @@
     {
      "day": 1,
      "mins": 40,
-     "what": "Guess. Test dry and damp toilet paper, newspaper and cotton thread. Compare."
+     "what": "Guess what getting damp will do. Test dry and damp toilet paper, newspaper and cotton thread. Compare the results."
     }
    ],
    "record": "Fill in the table. In the last column, write weaker, stronger or about the same.",
@@ -2336,7 +2336,7 @@
      "mins": 3,
      "do": "1. Lay out the six pieces. 2. Ask your child to put them in a line, fastest-soaking first.",
      "say": "Which surface will soak up a drop the fastest? Which will never soak it up? Put them in a line, fastest first. Why that order?",
-     "kid": "Look at the six surfaces. Put them in a line. Fastest to soak first. This is your guess.",
+     "kid": "Look at the six surfaces. Put them in a line, with the one you think will soak up a drop fastest first. This is your guess.",
      "context": "This is the first step of the vanishing drop test. You find out which materials are absorbent and which are waterproof, by timing a drop."
     },
     {
@@ -2344,7 +2344,7 @@
      "mins": 6,
      "do": "1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on the paper towel and start the timer at the same moment. Look from the side. When the drop's shiny top is gone, stop the timer and write the seconds. 4. Do the same, one at a time, for the cotton cloth and the newspaper. 5. Now put one drop each on the printer paper, the butter paper and the plastic bag, one after another. Start the timer when the last drop lands. 6. Each time a shiny top is gone, write the seconds beside that piece. Stop at 120 seconds.",
      "say": "Fast surfaces get timed one at a time. Slow ones get timed together. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.",
-     "kid": "Time the paper towel, cotton and newspaper one at a time. Then drop on the other three together. Write the seconds when each shiny drop is gone.",
+     "kid": "Time the paper towel, cotton and newspaper one at a time. Then put one drop on each of the other three and time them together. Write the seconds when each shiny drop is gone.",
      "parent": "If the drop is still sitting there after 120 seconds, stop and write 120. That is a result, and it means the surface is waterproof. Use a fresh spot for each try."
     },
     {
@@ -2730,9 +2730,9 @@
       {
        "q": "Which property word helped most?",
        "good": [
-        "Cold and hard together tell it is metal.",
-        "Flexible and springy tell it is rubber.",
-        "Soft and fluffy tell it is cotton."
+        "Cold and hard together tell you it is metal.",
+        "Flexible and springy tell you it is rubber.",
+        "Soft and fluffy tell you it is cotton."
        ]
       }
      ],
@@ -2818,7 +2818,7 @@
      "mins": 4,
      "do": "1. Fold the paper into a booklet. 2. Choose the steel tumbler. 3. On the first page write: Object: steel tumbler. Material: steel.",
      "say": "An object is a single thing with a shape and a use. A material is what it is made of. Let's write both on the first page.",
-     "kid": "Choose the steel tumbler. Write: Object, steel tumbler. Material, steel.",
+     "kid": "Choose the steel tumbler. Write: Object: steel tumbler. Material: steel.",
      "context": "This is the first step of the Property Passport. A passport tells you about a traveller. This one tells you about a material.",
      "parent": "Say again, in plain words: the tumbler is the object. Steel is the material. The tumbler's shape is a property of the object. The steel's properties would be the same in a spoon or a sheet."
     },
@@ -2952,7 +2952,7 @@
      "mins": 8,
      "do": "1. Take the things down. 2. Change the labels at the ends to 'most flexible' and 'stiffest'. 3. Peg the things again in order of how flexible they are. 4. Change the labels to 'roughest' and 'smoothest', and peg them again in order of roughness. Use the magnifying glass, if you have one, to look at each surface.",
      "say": "Now do the ladder again, but this time put the most flexible first. Then again for the roughest. Does the order stay the same?",
-     "kid": "Make the ladder again. This time for flexible. Then for rough. Does the order change?",
+     "kid": "Make the ladder again, this time from most flexible to stiffest. Then make it again from roughest to smoothest. Does the order change?",
      "check": {
       "t": "mcq",
       "q": "A steel spoon is near the top of the hardness ladder. Where is it on the flexible ladder?",
@@ -3142,7 +3142,7 @@
      "mins": 3,
      "do": "1. Lay out the three veils. 2. Explain the three calls. CLEAR means the dancer is behind the clear sheet. MIST means behind the cotton cloth. HIDE means behind the blanket. 3. The other person holds each veil up like a curtain, at chest height, and the dancer dances behind it.",
      "say": "When I call 'clear', dance behind the clear sheet. When I call 'mist', dance behind the cotton. When I call 'hide', dance behind the blanket. I will hold each one up.",
-     "kid": "Three calls. CLEAR, MIST, HIDE. Each one means a different veil.",
+     "kid": "There are three calls: CLEAR, MIST and HIDE. Each one means a different veil.",
      "context": "This is the first step of the Dance of the Three Veils. A veil is a thin cloth held in front of you. Each veil shows light in a different way."
     },
     {
@@ -3177,7 +3177,7 @@
        "Opaque"
       ],
       "a": 0,
-      "why": "Light gets through the fog but is scattered, so the tree looks blurry. That is translucent. Thin air would be transparent. Very thick fog can become almost opaque. Picking 'transparent' means thinking blurry is the same as clear."
+      "why": "Light gets through the fog but is scattered, so the tree looks blurry. That is translucent. Air with no fog would be transparent. Very thick fog can become almost opaque. Picking 'transparent' means thinking blurry is the same as clear."
      }
     },
     {
@@ -3283,24 +3283,24 @@
        ]
       ]
      },
-     "parent": "An orange with its peel floats because the peel holds tiny pockets of air. Without the peel, it is more packed than water and sinks. Many children are surprised."
+     "parent": "An orange with its peel floats because the peel holds tiny pockets of air. Without the peel, it is more tightly packed than water and sinks. Many children are surprised."
     },
     {
      "id": "s3",
      "mins": 7,
      "do": "1. Roll one piece of foil into a tight ball. 2. Shape the other piece into a little boat with high sides. 3. Test both. 4. Do the same with the plasticine.",
-     "say": "Same foil, same weight. One ball, one boat. Which one will float? Try it.",
+     "say": "Both pieces are the same foil and the same weight. One is a ball and one is a boat. Which one will float? Try it.",
      "kid": "Roll one piece of foil into a ball. Shape the other into a boat. Test both. What happens?",
      "check": {
       "t": "mcq",
       "q": "A foil ball sinks and a foil boat floats. Both are the same foil. Why?",
       "options": [
-       "The boat holds air, so it is less packed than water",
+       "The boat holds air, so it is less tightly packed than water",
        "The boat is lighter",
        "The ball is a different material"
       ],
       "a": 0,
-      "why": "The boat has a hollow space full of air. The boat and its air together are less packed than water. The ball is solid foil, more packed than water, so it sinks. They weigh the same, so 'lighter' is wrong. The material is the same, so 'different material' is wrong. The shape of the object is what changed."
+      "why": "The boat has a hollow space full of air. The boat and its air together are less tightly packed than water. The ball is solid foil, more tightly packed than water, so it sinks. They weigh the same, so 'lighter' is wrong. The material is the same, so 'different material' is wrong. The shape of the object is what changed."
      }
     },
     {
@@ -3394,7 +3394,7 @@
      "id": "s3",
      "mins": 20,
      "do": "1. For each property, find the biggest number. 2. Give it a score of 5. 3. For every other material, work out its score: multiply its number by 5, then divide by the biggest number. 4. Round to the nearest whole number. 5. For absorbent, a short time is best. So multiply the shortest time by 5, and divide by each time.",
-     "say": "The best one in each test gets a 5. For the others, multiply by five and divide by the biggest. For example, say 2 cups when the biggest is 10. 2 times 5 is 10. 10 divided by 10 is 1.",
+     "say": "The best one in each test gets a 5. For the others, multiply by five and divide by the biggest. For example, a strip held 2 cups and the biggest number is 10. 2 times 5 is 10. 10 divided by 10 is 1.",
      "kid": "The biggest number gets 5. For the others, multiply by 5. Then divide by the biggest. Round it.",
      "check": {
       "t": "mcq",
@@ -3645,14 +3645,14 @@
    "channel": "Al Jazeera English",
    "youtube": "VhIzcIiwZo4",
    "mins": 4,
-   "why": "A short news report on the fine cotton cloth of Bengal that the story is about. It also shows the people trying to bring it back. Not made for children.",
+   "why": "A short news report on the fine cotton cloth of Bengal that the story The Thread That Held at Dawn is about. It also shows the people trying to bring it back. Not made for children.",
    "check": "Watch it first, then decide if it suits your child."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "A girl writes four words about her steel tumbler. Which one is NOT a property of steel?",
+   "p": "Here are four things said about a steel tumbler. Which one is NOT a property of steel?",
    "opts": [
     "Bought in Madurai",
     "Shiny",
@@ -3667,7 +3667,7 @@
    "t": "mcq",
    "p": "A steel spoon and a steel tumbler are different objects. What is the same about them?",
    "opts": [
-    "The material, so the properties",
+    "The material, and so the material's properties",
     "The shape",
     "The use",
     "The size"
@@ -3731,7 +3731,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl tests whether dampness changes how strong a thread is. She cuts every thread to the same length and uses shells of the same size. Why?",
+   "p": "In the story The Thread That Held at Dawn, Shefali tested whether dampness changes how strong a thread is. She cut every thread to the same length and used shells of the same size. Why?",
    "opts": [
     "So that only the dampness changed, and the numbers could be compared",
     "So that the shells would not fall out",
@@ -3867,7 +3867,7 @@
    "why_open": "Computer models say a rare form of diamond with a different atom pattern, called lonsdaleite, could be harder. It is named after Kathleen Lonsdale. In 2014 other scientists said that natural samples are not a separate material. Whether a pure one can be made is still argued."
   },
   {
-   "q": "How does a spider spin silk so tough, from water and a fly's meal, at room temperature?",
+   "q": "How does a spider spin silk so tough, from water and the flies she eats, at room temperature?",
    "why_open": "Scientists have copied the chemical recipe. But nobody has made fibre as good as the real thing in large amounts without a spider."
   },
   {
@@ -4001,7 +4001,7 @@
     "note": "These numbers are made up, to show how the problem works."
    },
    "how": "e4",
-   "why_maths": "A bar chart turns a list of times into a picture. The shortest bar shows the most absorbent surface at a glance, and the order shows the ladder."
+   "why_maths": "A bar chart turns a list of times into a picture. The shortest bar shows the most absorbent surface at a glance, and the bars in order of height put the surfaces in order from most to least absorbent."
   },
   {
    "problem": "In the dry or damp test, a dry newspaper strip held 8 cups of water. A damp strip of the same newspaper held only 1 cup. Is 1 cup more or less than a quarter of 8 cups?",
@@ -4029,7 +4029,7 @@
    "context": "In the droop test, you hold a ruler upright beside the table edge. You read how far the tip of a strip has dropped.",
    "chart": {
     "type": "scale",
-    "title": "A ruler, reading the drop of a paper strip in centimetres (cm)",
+    "title": "A ruler showing how far the tip of a paper strip has dropped, in centimetres (cm)",
     "min": 0,
     "max": 10,
     "step": 1,
@@ -4043,7 +4043,7 @@
   {
    "problem": "In the Property Trumps project, the most flexible strip dropped 10 centimetres. The paper strip dropped 8 centimetres. The best one gets a score of 5. What flexible score out of 5 does the paper get?",
    "answer": "4.",
-   "explain": "Multiply the paper's drop by 5. 8 times 5 is 40. Then divide by the biggest drop: 40 divided by 10 is 4. So the paper scores 4 out of 5. You can check: 10 times 5 ÷ 10 is 5 for the best strip.",
+   "explain": "Multiply the paper's drop by 5. 8 times 5 is 40. Then divide by the biggest drop: 40 divided by 10 is 4. So the paper scores 4 out of 5. You can check with the best strip: 10 times 5 is 50, and 50 divided by 10 is 5.",
    "math_unit": "math.division.division-facts.L3",
    "context": "In the Property Trumps project, you turn your measurements into scores from 0 to 5. Then different tests can be compared on the same card.",
    "how": "p1",
@@ -4156,7 +4156,7 @@
    "a": "Cotton thread gets a little stronger. Paper gets much weaker."
   },
   {
-   "q": "In our story, what did Shefali drop into the cup to test the thread?",
+   "q": "In the story The Thread That Held at Dawn, what did Shefali drop into the cup to test the thread?",
    "a": "Cowrie shells, one at a time."
   },
   {
@@ -4171,7 +4171,7 @@
  "roots": {
   "context": "We have been testing what materials are like, and found that some properties change with water and heat. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "A dry strip of toilet paper can hold up a bag with water in it. Wet its middle with a fingertip, and the same strip tears with almost no water in the bag. Damp cotton thread holds as much, or a little more. So to know whether paper or thread will hold, you must also know whether it will get wet.",
+   "truth": "A dry strip of toilet paper can hold up a bag with water in it. Wet its middle with a fingertip, and the same strip tears with almost no water in the bag. A damp cotton thread holds as much as a dry one, or a little more. So to know whether paper or thread will hold, you must also know whether it will get wet.",
    "habit": "We say 'paper is strong enough' or 'cotton is strong' as if strength were part of the material's name. But the same strip goes from strong to weak with a few drops of water, so a property needs a 'when' and a 'where'.",
    "evidence": "In the Dry or Damp test, a dry toilet paper strip held a bag with one or more cups of water, and a damp one tore with almost none. Cotton thread held about as much, or a little more, when damp."
   },
@@ -4190,11 +4190,11 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 24, verse 18",
     "teaching": "Nagarjuna, a Buddhist teacher of about the 2nd century CE, taught that nothing exists all alone. Everything is what it is because of other things.",
-    "link": "The strength you measured depended on other things: the thread on the damp air, the paper on whether it was dry. Hard means harder than something else."
+    "link": "In the Dry or Damp test, the strength you measured depended on something else: whether the paper or thread was dry or damp. In the same way, hard means harder than something else."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding, on interbeing",
-    "teaching": "Look deeply at a sheet of paper and you see a cloud in it. Without the cloud there would be no rain, no tree and no paper. Thich Nhat Hanh called this interbeing.",
+    "teaching": "Thich Nhat Hanh said that if you look deeply at a sheet of paper, you can see a cloud in it. Without the cloud there would be no rain, no tree and no paper. He called this interbeing.",
     "link": "Paper is made from wood fibres mixed with water, then pressed and dried. Water helps make paper, and in the Dry or Damp test water also took it apart."
    }
   ],
@@ -4223,7 +4223,7 @@
    "kid": "Lay toilet paper on your hand. Put one drop of water on it. Watch the wet spot spread for one minute. Then pull the ends gently. Where does it tear?"
   },
   "ask": [
-   "A dry strip of paper held water, and a damp one did not. So is that paper strong or weak?",
+   "In the Dry or Damp test, a dry strip of paper held up a bag of water, and a damp one did not. So is that paper strong or weak?",
    "Your hand said the steel spoon was colder, and a thermometer said both were the same. Which one told you about the spoon?",
    "Is anything strong or hard all by itself, without saying when and where?"
   ],
