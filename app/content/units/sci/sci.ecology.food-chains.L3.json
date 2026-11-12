@@ -3,16 +3,16 @@
  "title": "Food chains and food webs: who eats whom",
  "level": 3,
  "summary": {
-  "text": "You can see hundreds of ants in a day, but a whole forest may hold only a handful of tigers. The reason is who eats whom. A food chain shows how food passes from a plant to the animal that eats them, and on to the next eater. At each step, the eater uses most of their food just to stay alive, so only about a tenth passes on. Most animals eat several things, so chains join up into food webs, and taking one living thing away changes many others.",
+  "text": "You can see hundreds of ants in a day, but a whole forest may hold only a handful of tigers. The reason is who eats whom. A food chain shows how food passes from a plant to the animal that eats the plant, and on to the next eater. At each step, the eater uses most of their food just to stay alive, so only about a tenth passes on. Most animals eat several things, so chains join up into food webs, and taking one living thing away changes many others.",
   "art": "A bright web drawn on a notebook page: grass and a neem tree at the bottom, grasshoppers, a caterpillar, a frog, a bulbul, a snake and a hawk joined by arrows, with the Sun shining at the top corner."
  },
  "intro": {
-  "hook": "Look out of a window or at a garden for two minutes. Can you find one living thing that is eating, or hunting? What are they eating? And who might eat it?",
+  "hook": "Look out of a window or at a garden for two minutes. Can you find one living thing that is eating, or hunting? What are they eating? And who might eat them?",
   "text": "Right now, somewhere near you, a lizard is waiting by a light for a moth. A caterpillar is chewing a leaf. A crow is pecking at something on the road. Each of them is part of a long line of eating that starts with sunlight on a leaf. Scientists call that line a food chain. In this unit, you will find the chains around your own home. You will see why there are so many ants and so few tigers. And you will find out what happened when a government decided that one small bird was an enemy.",
   "art": "A window frame with three small scenes outside: a house gecko by a tube light with a moth, a green caterpillar on a leaf, and a crow on a wall."
  },
  "outcomes": [
-  "I can say what a food chain is, and draw one of four or five links that starts with a plant, with each arrow pointing to the eater.",
+  "I can say what a food chain is, and draw one with four or five links that starts with a plant, with each arrow pointing to the eater.",
   "I can use the words producer, consumer, herbivore, carnivore, omnivore, predator, prey, scavenger and decomposer, with examples from India.",
   "I can explain what a food web is, and predict what may happen when one living thing is taken away.",
   "I can explain that only about a tenth of the food's energy passes on at each step, and why there are many plants and only a few tigers.",
@@ -114,7 +114,7 @@
   },
   {
    "term": "Keystone species",
-   "meaning": "A living thing that many others depend on, far more than their numbers suggest. If they disappear, many other living things change. It is named after the keystone at the top of a stone arch, which keeps the other stones in place.",
+   "meaning": "A living thing that many others depend on, far more than their numbers suggest. If they disappear, many other living things change. The name comes from the keystone at the top of a stone arch, which keeps the other stones in place.",
    "example": "A starfish on a rocky shore in America, and vultures in India.",
    "art": "A stone arch with its top stone glowing, and a starfish drawn on that stone."
   },
@@ -132,7 +132,7 @@
   },
   {
    "term": "Atom",
-   "meaning": "The tiny building block that everything is made of. Atoms are far too small to see. When one living thing eats another, their atoms move into the eater.",
+   "meaning": "The tiny building block that everything is made of. Atoms are far too small to see. When one living thing eats another, the atoms of the eaten one move into the eater.",
    "example": "Some of the atoms in a tiger were once in the grass a deer ate.",
    "art": "A zoom from a blade of grass to a cluster of tiny coloured balls."
   },
@@ -195,7 +195,7 @@
    "concept": "Scavengers and decomposers: the clean-up crew",
    "status": "defined",
    "definition": "Scavengers eat animals that are already dead. Decomposers break dead things down into nutrients that go back into the soil.",
-   "description": "Every living thing dies in the end, even a tiger. What eats them then? First come the scavengers: vultures, jackals, crows and ants. Then the decomposers: fungi, like mould and mushrooms, and bacteria, too small to see. Earthworms and woodlice help by chopping dead leaves into small pieces. The decomposers break the dead body down into nutrients, simple materials that plants take in through their roots. So the end of every food chain feeds the beginning again. You will learn much more about this in the unit on decomposers.",
+   "description": "Every living thing dies in the end, even a tiger. What eats them then? First come the scavengers: vultures, jackals, crows and ants. Then come the decomposers: fungi, such as mould and mushrooms, and bacteria, which are too small to see. Earthworms and woodlice help by chopping dead leaves into small pieces. The decomposers break the dead body down into nutrients, simple materials that plants take in through their roots. So the end of every food chain feeds the beginning again. You will learn much more about this in the unit on decomposers.",
    "examples": [
     "A dead buffalo in a field: vultures, then flies and beetles, then bacteria and fungi.",
     "Fallen neem leaves in a garden become soil in a few months, because of fungi, bacteria and worms."
@@ -322,7 +322,7 @@
    "concept": "Predators and prey keep changing each other",
    "status": "defined",
    "definition": "The number of predators depends on how much prey there is. The number of prey depends on how many predators hunt them. So the two often rise and fall in turns.",
-   "description": "Imagine a forest with lots of deer. The tigers eat well and raise many cubs. More tigers eat more deer, so the deer become fewer. Now the tigers go hungry, and fewer cubs survive. With fewer tigers, the deer increase again. Scientists saw this pattern in old fur-trading records from Canada, which go back more than 100 years. They counted the furs of lynx, a wild cat, and of snowshoe hares, their prey. Roughly every ten years, the hares increased, then the lynx increased, and then both crashed. Charles Elton studied these records. Today scientists know that the hares' food, and their sicknesses, also play a part.",
+   "description": "Think of a forest with lots of deer. The tigers eat well and raise many cubs. More tigers eat more deer, so the deer become fewer. Now the tigers go hungry, and fewer cubs survive. With fewer tigers, the deer increase again. Scientists saw this pattern in old fur-trading records from Canada, which go back more than 100 years. They counted the furs of lynx, a wild cat, and of snowshoe hares, their prey. Roughly every ten years, the hares increased, then the lynx increased, and then both crashed. Charles Elton studied these records. Today scientists know that the hares' food, and their sicknesses, also play a part.",
    "examples": [
     "Lynx and snowshoe hares in Canada rise and fall about every ten years.",
     "In the Deer and Tiger Toss game, the deer rise first, then the tigers, then the deer fall."
@@ -408,7 +408,7 @@
    "concept": "Keystone species: one animal that many others depend on",
    "status": "defined",
    "definition": "A keystone species is a living thing that many others depend on, far more than their numbers suggest. Take them away and the whole place changes.",
-   "description": "From 1963, the American ecologist Robert Paine did a simple test on a rocky shore in Washington State. On one stretch of rock, he kept pulling off the purple starfish and throwing them into the sea. He left a nearby stretch alone. The starfish eat mussels. Without them, the mussels spread and covered the rock. They crowded out barnacles, limpets and seaweed. Within a few years, the number of kinds of living things on his stretch fell from 15 to 8. In 1969 he named such animals keystone species. Sea otters are another example. They eat sea urchins, and sea urchins eat giant seaweed called kelp. Where otters were hunted away, the urchins ate the kelp forests down to bare rock. India has its own keystone story, about vultures. You will find it on another card.",
+   "description": "From 1963, the American ecologist Robert Paine did a simple test on a rocky shore in Washington State. On one stretch of rock, he kept pulling off the purple starfish and throwing them into the sea. He left a nearby stretch alone. The starfish eat mussels. Without them, the mussels spread and covered the rock. They crowded out barnacles, limpets and seaweed. Within a few years, the number of kinds of living things on his stretch fell from 15 to 8. In 1969 he named such animals keystone species. Sea otters are another example. They eat sea urchins, and sea urchins eat giant seaweed called kelp. Where otters were hunted away, the urchins ate the kelp forests down to bare rock. India has its own keystone story, about vultures. It is on the card 'India's vultures: a medicine that passed one step up'.",
    "examples": [
     "Remove the starfish, and the mussels take over the shore.",
     "Remove the sea otters, and the kelp forests disappear."
@@ -420,7 +420,7 @@
   {
    "concept": "Did wolves change Yellowstone's rivers?",
    "status": "debated",
-   "description": "Wolves were killed off in Yellowstone National Park in America by the 1920s. Elk, a kind of large deer, then grew many and ate the young willow and aspen trees along the rivers. In 1995 and 1996, scientists brought wolves back. Elk numbers fell, and some trees began to grow again. Scientists call a chain of changes like this, passing down a food chain, a trophic cascade. A popular video says the wolves even changed the shape of the rivers. Scientists argue about how much of this is true.",
+   "description": "Wolves were killed off in Yellowstone National Park in America by the 1920s. Elk, a kind of large deer, then grew in number and ate the young willow and aspen trees along the rivers. In 1995 and 1996, scientists brought wolves back. Elk numbers fell, and some trees began to grow again. Scientists call a chain of changes like this, passing down a food chain, a trophic cascade. A popular video says the wolves even changed the shape of the rivers. Scientists argue about how much of this is true.",
    "examples": [
     "Wolves eat elk. Elk eat young willow trees. Willow trees hold river banks in place."
    ],
@@ -445,7 +445,7 @@
    "concept": "Poisons can build up as they go up a chain",
    "status": "defined",
    "definition": "Some poisons do not wash out of an animal's body. So a predator collects the poison from every animal they eat. The poison builds up more and more at each step. This is called biomagnification.",
-   "description": "In the 1940s and 1950s, farmers and towns sprayed a chemical called DDT to kill insects. A little of it washed into rivers and lakes. Tiny water plants and animals took in a little. Small fish ate thousands of them. Big fish ate hundreds of small fish. Fish-eating birds, like ospreys and eagles, ate many big fish. Weight for weight, the birds held hundreds of thousands of times more DDT than the water did. It made their eggshells so thin that the eggs broke when the parents sat on them. The American scientist and writer Rachel Carson told the world in her book Silent Spring, in 1962. Chemical companies attacked her and called her hysterical. She was very ill with cancer while she defended her work. Her evidence held up. DDT was banned for farming in the United States in 1972, and later in many other countries.",
+   "description": "In the 1940s and 1950s, farmers and towns sprayed a chemical called DDT to kill insects. A little of it washed into rivers and lakes. Tiny water plants and animals took in a little. Small fish ate thousands of them. Big fish ate hundreds of small fish. Fish-eating birds, like ospreys and eagles, ate many big fish. Weight for weight, the birds held hundreds of thousands of times more DDT than the water did. It made their eggshells so thin that the eggs broke when the parents sat on them. The American scientist and writer Rachel Carson told the world about this in her book Silent Spring, in 1962. Chemical companies attacked her and called her hysterical. She was very ill with cancer while she defended her work. Her evidence held up. DDT was banned for farming in the United States in 1972, and later in many other countries.",
    "examples": [
     "DDT: water, then plankton, then small fish, then big fish, then eggs that broke under ospreys.",
     "Today, people are told to eat big sea fish like shark and swordfish only sometimes. Mercury, a metal, builds up in them in the same way."
@@ -500,7 +500,7 @@
   {
    "concept": "Atoms go round, energy flows through",
    "status": "defined",
-   "definition": "When one living thing eats another, their atoms move into the eater. Atoms are used again and again. But food energy passes through only once. It leaves as heat, and no living thing can use that heat as food.",
+   "definition": "When one living thing eats another, the atoms of the eaten one move into the eater. Atoms are used again and again. But food energy passes through only once. It leaves as heat, and no living thing can use that heat as food.",
    "description": "Follow one carbon atom. Today it floats in the air. Tomorrow a blade of grass takes it in through a leaf and builds it into sugar. A goat eats the grass. The atom becomes part of the goat. One day the goat dies, and decomposers break their body down. The atom goes back into the air, ready for another leaf. Atoms go round and round like this for millions of years. Energy is different. It arrives from the Sun as light. Plants store some of it in food. At each step of the chain, most of it turns into heat. That heat spreads out and slowly leaves the Earth as invisible light, into space. So life needs a fresh supply of sunlight every day. And the Sun's light itself comes from deep inside the Sun, where tiny hydrogen atoms are squeezed together to make helium.",
    "examples": [
     "Some of the carbon atoms in your body were in plants a few months ago. Some were in the air last year.",
@@ -572,7 +572,7 @@
    "evidence": "DDT was measured in water, plankton, fish and birds. It was weakest in the water and strongest in the birds at the top. Ospreys' and eagles' eggshells got thinner, then thicker again after DDT was banned.",
    "chart": {
     "type": "pie",
-    "title": "Of India's vultures in the early 1990s, how many were left by about 2007 (rounded)",
+    "title": "Out of every 100 vultures India had in the early 1990s, how many were left by about 2007 (rounded)",
     "unit": "out of every 100 vultures",
     "data": [
      {
@@ -600,7 +600,7 @@
    "claim": "Predators are bad. Killing them helps the deer and the forest.",
    "who": "Many governments and hunters, in the early 1900s",
    "for": "Predators kill deer and farm animals. Without them, more deer survive.",
-   "against": "On the Kaibab Plateau in Arizona, in America, hunters killed thousands of predators between 1906 and the 1930s. They killed cougars, coyotes and the last wolves. The famous story says the deer then grew so many that they ate the forest bare and starved. Later scientists, such as Graeme Caughley in 1970, showed the deer counts were guesses, and sheep and cattle grazing also changed things. So the story is less clear than it seemed. But many other studies show that removing predators often lets plant-eaters strip their food.",
+   "against": "On the Kaibab Plateau in Arizona, in America, hunters killed thousands of predators between 1906 and the 1930s. They killed cougars, coyotes and the last wolves. The famous story says the deer then became so many that they ate the forest bare and starved. Later scientists, such as Graeme Caughley in 1970, showed the deer counts were guesses, and sheep and cattle grazing also changed things. So the story is less clear than it seemed. But many other studies show that removing predators often lets plant-eaters strip their food.",
    "status": "debated",
    "context": "Should we get rid of predators to help the animals they hunt? This card is about a famous story, and how it was later questioned."
   },
@@ -651,7 +651,7 @@
   {
    "q": "Why do you think almost no food chain has more than six links?",
    "kind": "deep",
-   "hint": "Remember the One Hundred Grains. How much was left after five steps?"
+   "hint": "In One Hundred Grains, 100 grains became 10, then 1. How much would be left after five steps?"
   },
   {
    "q": "Is the top of the food chain the best place to be?",
@@ -666,7 +666,7 @@
   {
    "q": "A whole country once decided that sparrows were its enemy. How can we tell if a living thing is really a 'pest'?",
    "kind": "big",
-   "hint": "What does it eat? And who would eat that, if it were gone?"
+   "hint": "What do they eat? And if they were gone, what would eat those things instead?"
   },
   {
    "q": "Rachel Carson was attacked for saying a useful chemical was harming birds. Why is it hard to listen to news we do not want to hear?",
@@ -714,13 +714,13 @@
    "At supper she tried to say it. 'The sparrows ate the caterpillars,' she said. 'Now nobody eats them.'",
    "Her mother put down her bowl and looked at the door. 'Lan,' she said quietly. 'The posters say the sparrow is a pest. Do not say that outside this house.'",
    "So Lan did not say it outside. But in her school notebook, she drew the rice plant. She drew an arrow from the rice to the sparrow. Then she drew an arrow from the rice to the caterpillar, and another arrow from the caterpillar to the sparrow. She looked at it for a long time. Two arrows went into the sparrow, not one. The posters had only drawn one.",
-   "Far away in Beijing, a bird scientist named Zheng Zuoxin had been doing the same thing, with more care. His team cut open hundreds of sparrows and looked at what was in their stomachs. In winter, it was mostly seeds. But in spring and summer, when they fed their chicks, it was full of insects. He told the government that sparrows should not be on the list. For saying so, he was later punished.",
+   "Far away in Beijing, a bird scientist named Zheng Zuoxin had been doing the same thing, with more care. His team cut open hundreds of sparrows and looked at what was in their stomachs. In winter, the stomachs held mostly seeds. But in spring and summer, when the sparrows fed their chicks, the stomachs were full of insects. He told the government that sparrows should not be on the list. For saying so, he was later punished.",
    "The harvest that year was poor, and the next years were worse. Lan's family was hungry for a long time. There were many reasons for the hunger, much bigger than birds. But the insects in Grandmother Wu's field were one of them.",
    "In 1960, a new list went up on the walls. The sparrow had been taken off. In the sparrow's place was the bedbug. When Grandmother Wu read it, she laughed, but it was not a happy laugh.",
    "The next spring, Lan was eleven. One morning, sitting on the step, she heard a small dry chirp. A brown bird landed on the edge of the eaves with a piece of straw in their beak. The bird looked at her sideways. Then they hopped into the old nest.",
    "Lan did not tell anyone. She filled a cracked saucer with water and set it on the windowsill. Then she picked up her basket and went out to help her father in the field."
   ],
-  "epiphany": "For the parent: the turn is Lan's drawing. The posters drew a food chain with one arrow: rice → sparrow. Lan draws the food web: rice → sparrow, and also rice → caterpillar → sparrow. In a web, an animal can be a thief and a guard at the same time. Take them away, and the things they ate are suddenly free to multiply. The story also asks, gently, what it takes to say something true when everyone around you is cheering for the opposite.",
+  "epiphany": "For the parent: the key moment is Lan's drawing. The posters drew a food chain with one arrow: rice → sparrow. Lan draws the food web: rice → sparrow, and also rice → caterpillar → sparrow. In a web, an animal can be a thief and a guard at the same time. Take them away, and the things they ate are suddenly free to multiply. The story also asks, gently, what it takes to say something true when everyone around you is cheering for the opposite.",
   "ask": [
    "The posters said sparrows eat rice. What else did Lan see the sparrows eating?",
    "Why did the caterpillars and planthoppers increase after the sparrows were gone?",
@@ -1061,7 +1061,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Last round, Pull One Card. 1. Choose one card in the web, for example the Frog. 2. Take it out, with all its arrows. 3. Count how many arrows broke. 4. Ask who has lost food, and who has one hunter fewer.",
-     "say": "Imagine all the frogs disappeared. Let's take the frog out. Which animals have lost some of their food? Which animals now have nobody eating them?",
+     "say": "Suppose all the frogs disappeared. Let's take the frog out. Which animals have lost some of their food? Which animals now have nobody eating them?",
      "kid": "Take the Frog out of the web. How many arrows broke? Who lost some food? Who has one hunter fewer?",
      "check": {
       "t": "mcq",
@@ -1207,7 +1207,7 @@
      "mins": 14,
      "do": "1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.",
      "say": "Drop the tiger. How many deer did she catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.",
-     "kid": "Drop each tiger from head height. Take away every deer she touches. Did she eat 2? She lives. 4? She has a cub! Then double the deer. Write it down.",
+     "kid": "Drop each tiger from head height. Take away every deer she touches. Did she eat 2 or 3? She lives. Did she eat 4 or more? She has a cub! Then double the deer. Write it down.",
      "parent": "The numbers depend on luck, so every game is different. Usually the deer increase for a few rounds while the single tiger struggles. Then, with lots of deer, the tigers catch more and have cubs. With many tigers, the deer fall. Then the tigers starve, and the deer rise again. Each round takes about a minute. If your game does not show this in 12 rounds, play 5 more. If the deer reach 40 and stay there, the tigers will catch up soon. Drop the tigers, don't aim them, or the game stops being fair.",
      "ask": [
       {
@@ -1441,7 +1441,7 @@
     },
     {
      "t": "write",
-     "p": "Remember the ant test? Predict: if you added a fifth square with a piece of ripe banana, would ants come to it? Why do you think so?",
+     "p": "In the ant test, suppose you added a fifth square with a piece of ripe banana. Would ants come to it? Why do you think so?",
      "lines": 3,
      "a": "Yes, I think many ants would come. A banana grew on a plant and is full of sugar. The sugar carries energy the plant made from sunlight. The ants came to sugar and chapati, which also came from plants, but not to salt, which has no food energy.",
      "why": "A strong answer makes a prediction and backs it with the test: ants came to foods made by plants, and ignored salt.",
@@ -1521,7 +1521,7 @@
     },
     {
      "t": "fill",
-     "p": "A species who holds a whole food web together, so that the web changes a lot without them, is called a ____ species.",
+     "p": "A kind of living thing that many others in a food web depend on, so that the web changes a lot without them, is called a ____ species.",
      "a": [
       "keystone"
      ],
@@ -1537,7 +1537,7 @@
       "It is stored for ever in the animal's bones"
      ],
      "a": 1,
-     "why": "Animals use most of their food to move, breathe, grow and stay warm. That energy leaves as heat. Picking 'passed on' is the very idea this question tests: only a small part is passed on.",
+     "why": "Animals use most of their food to move, breathe, grow and stay warm. That energy leaves as heat. Picking 'passed on' is the mistake this question checks for: only a small part is passed on.",
      "how": "a3",
      "context": "In Run and Feel the Warmth, you ran on the spot for one minute and felt yourself get hot."
     },
@@ -1545,12 +1545,12 @@
      "t": "write",
      "p": "Why are there many deer in a forest but only a few tigers? Use the words 'a tenth' in your answer.",
      "lines": 3,
-     "a": "Only about a tenth of the food energy in the deer passes on to the tiger. The rest the deer used for living. So each tiger must eat a lot of deer, about 50 a year. A forest can feed many deer, but only enough of them to keep a few tigers alive.",
+     "a": "Only about a tenth of the food energy in the deer passes on to the tiger. The deer used the rest for living. So each tiger must eat a lot of deer, about 50 a year. A forest can feed many deer, but only enough of them to keep a few tigers alive.",
      "why": "A strong answer links the numbers to the energy rule. Tigers living alone is a small part of the reason. Food is the main one."
     },
     {
      "t": "truefalse",
-     "p": "A tiger needs about 500 deer and other prey animals living in their forest, to keep them fed year after year.",
+     "p": "To stay fed year after year, a tiger needs about 500 deer and other prey animals living in their forest.",
      "a": true,
      "why": "True. Tiger scientists in India estimate this. A tiger eats about 50 a year, and the forest must have enough deer left to keep breeding."
     },
@@ -1559,11 +1559,11 @@
      "p": "In a rice field near Thanjavur, people are deciding what to do about the frogs.",
      "views": [
       {
-       "who": "Selvi, a rice farmer",
+       "who": "A rice farmer",
        "says": "I can catch the frogs and sell them at the market. That money buys seed for next year."
       },
       {
-       "who": "Padma, a scientist who studies farms",
+       "who": "A scientist who studies farms",
        "says": "The frogs eat the insects that eat your rice. Without them you may lose more rice than the frogs were worth."
       },
       {
@@ -1573,7 +1573,7 @@
      ],
      "ask": "Who do you agree with? Use the food web to explain. Then answer back from one of the other sides.",
      "lines": 5,
-     "a": "A strong answer uses the web: frogs eat insects, and insects eat rice. Agreeing with Selvi is fair if the answer says she needs money now and suggests catching only a few. Agreeing with Padma or the frog needs the chain rice → insect → frog. The answer-back must use a fact, for example: in the 1980s India sold many frog legs abroad, crop pests increased, and India banned the trade in 1987.",
+     "a": "A strong answer uses the web: frogs eat insects, and insects eat rice. Agreeing with the farmer is fair if the answer says she needs money now and suggests catching only a few. Agreeing with the scientist or the frog needs the chain rice → insect → frog. The answer-back must use a fact, for example: in the 1980s India sold many frog legs abroad, crop pests increased, and India banned the trade in 1987.",
      "why": "This is a real trade-off between money today and the harvest later. India did ban the export of frog legs in 1987, partly because frogs eat crop pests."
     },
     {
@@ -1673,7 +1673,7 @@
       "Because plants have only 20 leaves"
      ],
      "a": 0,
-     "why": "Imagine looking at 50 leaves on one plant and 10 on another. The first would seem to have more bites, just because we looked more. Using the same number makes it fair. Picking 'so we finish quickly' is true but not the reason.",
+     "why": "Suppose we looked at 50 leaves on one plant and 10 on another. The first would seem to have more bites, just because we looked more. Using the same number makes it fair. Picking 'so we finish quickly' is true but not the reason.",
      "context": "In the Leaf Bite Survey, you look at 20 leaves on each of three plants and count how many have bites or holes.",
      "how": "e2"
     },
@@ -1892,21 +1892,21 @@
      "p": "In a market in Kozhikode, rats are eating the stored rice. People argue about what to do.",
      "views": [
       {
-       "who": "Fathima, who runs a grain shop",
+       "who": "A grain shop owner",
        "says": "Rats eat my rice and spread disease. We should poison all of them."
       },
       {
-       "who": "Meera, who studies owls",
+       "who": "A person who studies owls",
        "says": "Rats are food for owls and snakes. Poison also kills the owls that eat poisoned rats. Then even more rats come back."
       },
       {
-       "who": "Ravi, who sweeps the market",
+       "who": "A person who sweeps the market",
        "says": "Rats come because we leave waste and open sacks. Clean up and close the sacks, and fewer rats will come."
       }
      ],
      "ask": "Whose plan would you choose? Explain using the food web. Then answer back from one of the other sides.",
      "lines": 5,
-     "a": "A strong answer uses the web and thinks about what else would change. For Fathima: disease and lost grain are real harms. For Meera: poison climbs the chain, as in the poison game, and rats breed faster than owls. For Ravi: less food means fewer rats, without harming owls. The answer-back must give a reason, not just disagree.",
+     "a": "A strong answer uses the web and thinks about what else would change. For the grain shop owner: disease and lost grain are real harms. For the person who studies owls: poison climbs the chain, as in Poison Climbs the Chain, and rats breed faster than owls. For the person who sweeps the market: less food means fewer rats, without harming owls. The answer-back must give a reason, not just disagree.",
      "why": "There is no single right answer. Each plan has a cost. The food web shows what each plan might change beyond the rats."
     },
     {
@@ -2101,7 +2101,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now say or write three things. What I think. What I saw. Why.",
+     "kid": "Now say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ants choose food that came from plants, most of all sugar. What I saw: 23 ants on the sugar and 7 on the chapati after 30 minutes, but none on the salt. Why: sugar and chapati carry energy that plants made from sunlight, and salt has no energy for ants. So the ants are part of a food chain: sugarcane → ant."
     }
    ],
@@ -2185,7 +2185,7 @@
     {
      "day": 1,
      "mins": 27,
-     "what": "Count bitten leaves on three plants. Hunt for the eaters, and for who eats them."
+     "what": "Count bitten leaves on three plants. Then look for the animals that bit them, and for the animals that eat those."
     }
    ],
    "record": "Fill in the table. Draw a bar chart of bitten leaves for each plant. Then draw one food chain you found, starting with a plant.",
@@ -2411,7 +2411,7 @@
      "kid": "Draw the chain. Start with a plant. The moth was a caterpillar once, eating leaves.",
      "check": {
       "t": "mcq",
-      "q": "A gecko eats a moth by the light. The moth, when they were a caterpillar, ate leaves. Which is the full food chain?",
+      "q": "A gecko eats a moth by the light. When the moth was a caterpillar, they ate leaves. Which is the full food chain?",
       "options": [
        "Leaves → moth → gecko",
        "Light → moth → gecko",
@@ -2502,7 +2502,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Take one eater you saw. 2. Ask: what did its food eat? Go back until you reach a plant. 3. Then ask: what might eat this eater? 4. Write the chain with arrows pointing to the eater.",
+     "do": "1. Take one eater you saw. 2. Ask: what did their food eat? Go back until you reach a plant. 3. Then ask: what might eat this eater? 4. Write the chain with arrows pointing to the eater.",
      "say": "The crow ate a caterpillar. What did the caterpillar eat? Leaves. And who might eat the crow? Let's write it with arrows. The arrow points to whoever does the eating.",
      "kid": "Take one eater. What did their food eat? Go back to a plant. Who might eat your eater? Write it with arrows.",
      "check": {
@@ -2522,7 +2522,7 @@
      "do": "Ask your child what is at the start of every chain you made.",
      "say": "Look at the start of your chain. What is always there?",
      "kid": "Look at the start of your chain. What is there? Is it always a plant?",
-     "think": "The plant at the start of your chain got their food from the Sun. Where did the Sun get its energy from?"
+     "think": "The plant at the start of your chain got their energy from the Sun. Where did the Sun get its energy from?"
     }
    ],
    "context": "This is a short looking activity to start the unit. You find any living thing that is eating, and build their food chain back to a plant.",
@@ -2664,7 +2664,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Stop. Feel the forehead again and count the breaths again. 2. Talk about where the energy came from, and where it went.",
+     "do": "1. Stop. Feel your child's forehead again and count their breaths again. 2. Talk about where the energy came from, and where it went.",
      "say": "Feel how hot you are. Count your breaths. That heat and that movement came from your breakfast. And now the heat is leaving you, into the air.",
      "kid": "Stop! Feel your forehead. Count your breaths again. That heat came from your food. Now it is going into the air.",
      "check": {
@@ -2728,7 +2728,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Build a food web out of wool, then cut one thread and feel what moves."
+     "what": "Build a food web out of wool, then take one living thing away and feel what moves."
     }
    ],
    "record": "Draw the web you made. Circle the living thing that had the most threads.",
@@ -2851,8 +2851,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Tell the real story of DDT and Rachel Carson.",
-     "say": "In real lakes, DDT built up in fish-eating birds. Weight for weight, the birds held hundreds of thousands of times more DDT than the water. It made their eggshells so thin that they broke. A scientist called Rachel Carson told the world in 1962, in a book called Silent Spring. People with money to lose attacked her. But she was right, and DDT was banned for farming in many countries.",
-     "kid": "In real lakes, the birds at the top got the most DDT. Their eggshells got thin and broke. Rachel Carson told the world in 1962."
+     "say": "In real lakes, DDT built up in fish-eating birds. Weight for weight, the birds held hundreds of thousands of times more DDT than the water. It made their eggshells so thin that they broke. A scientist called Rachel Carson told the world about this in 1962, in a book called Silent Spring. People with money to lose attacked her. But she was right, and DDT was banned for farming in many countries.",
+     "kid": "In real lakes, the birds at the top got the most DDT. Their eggshells got thin and broke. Rachel Carson told the world about this in 1962."
     },
     {
      "id": "s4",
@@ -2931,7 +2931,7 @@
      "kid": "Read your atom's journey. Did it ever get used up? Food energy gets used up. Atoms just keep going round.",
      "check": {
       "t": "mcq",
-      "q": "What happens to the carbon atoms in a tiger's body after they die?",
+      "q": "What happens to the carbon atoms in a tiger's body after the tiger dies?",
       "options": [
        "Decomposers break the body down, and the atoms go back to the soil and air",
        "They disappear for ever",
@@ -3107,7 +3107,7 @@
     "Leave a safe, shady corner for frogs and toads. Tadpoles and frogs eat many insects.",
     "Plant shrubs and trees that bring insect-eating birds, like bee-eaters, drongos and swallows."
    ],
-   "your_turn": "Draw a plan for your home or street. Show where water collects, which you will empty, and which eaters you will invite. Then check again after one week.",
+   "your_turn": "Draw a plan for your home or street. Show where water collects, which water you will empty, and which mosquito-eaters you will invite. Then check again after one week.",
    "flow": [
     {
      "id": "s1",
@@ -3309,7 +3309,7 @@
     "Algae → mosquito larva → small fish → kingfisher"
    ],
    "a": 2,
-   "why": "The chain starts with the producer, algae, and each arrow points to the eater. Picking the second one means the chain is in reverse, with the arrows pointing at the food.",
+   "why": "The chain starts with the producer, algae, and each arrow points to the eater. Picking the chain that starts with the kingfisher means the chain is in reverse, with the arrows pointing at the food.",
    "outcome": 0
   },
   {
@@ -3450,7 +3450,7 @@
     "Every place is in perfect balance for ever"
    ],
    "a": 0,
-   "why": "Fires, floods, droughts and new animals keep changing a place. Many ecologists, like Daniel Botkin, say nature is always shifting. Others still find the idea of balance useful. They still argue about it.",
+   "why": "Fires, floods, droughts and new animals keep changing a place. Many ecologists, like Daniel Botkin, say nature is always shifting. Others still find the idea of balance useful. Ecologists still argue about it.",
    "outcome": 6
   },
   {
@@ -3463,7 +3463,7 @@
     "Whether plants make food from sunlight"
    ],
    "a": 2,
-   "why": "Energy running out is one reason. Others say long chains are wobbly, or that a place is too small. Which reason matters most is still being argued. The other choices are all settled.",
+   "why": "Energy running out is one reason. Other scientists say long chains are wobbly, or that a place is too small. Which reason matters most is still being argued. The other choices are all settled.",
    "outcome": 6
   }
  ],
@@ -3477,7 +3477,7 @@
   "Food advice tells people to eat big sea fish, like shark and swordfish, only sometimes, because mercury builds up in them.",
   "Wildlife corridors and road underpasses let tigers and elephants move between forests.",
   "Knowing the one-tenth rule helps planners work out how many people a piece of farmland can feed.",
-  "Composting kitchen waste uses decomposers to turn the end of food chains into soil for new plants.",
+  "Composting uses decomposers to turn kitchen waste into soil for new plants.",
   "Bird-watchers and citizen scientists count birds each year, which shows when part of a food web is in trouble.",
   "Fish farmers and pond owners balance algae, fish and water plants so that the pond stays healthy."
  ],
@@ -3530,7 +3530,7 @@
   },
   {
    "q": "How many links are there in a real food web?",
-   "why_open": "Most links involve tiny living things, like microbes and parasites, that are hard to see and count. When scientists counted parasites in some marsh food webs, they found they were part of most of the links."
+   "why_open": "Most links involve tiny living things, like microbes and parasites, that are hard to see and count. When scientists counted parasites in some marsh food webs, they found that parasites were part of most of the links."
   },
   {
    "q": "Will India's vultures come back?",
@@ -3548,7 +3548,7 @@
  "ask_kids": [
   "What did your breakfast eat, before you ate it?",
   "That crow is eating something. Is the crow a herbivore, a carnivore or an omnivore?",
-  "Which way does the arrow point: from the food or to the food?",
+  "In a food chain, which way does the arrow point: to the food or to the eater?",
   "If all the lizards in our house disappeared, what would we notice?",
   "Who eats the mosquitoes?",
   "Why do you get hot when you run? Could anything ever eat that heat?",
@@ -3637,7 +3637,7 @@
    "why_maths": "The one-tenth rule is a division. Dividing by 10 at each step shows, in numbers, why food runs out so fast as it goes up a chain."
   },
   {
-   "problem": "A tiger eats about one deer-sized animal every week. There are 52 weeks in a year. About how many does it eat in a year? How many would a family of 3 tigers eat?",
+   "problem": "A tiger eats about one deer-sized animal every week. There are 52 weeks in a year. About how many does the tiger eat in a year? How many would a family of 3 tigers eat?",
    "answer": "About 52 in a year for one tiger, and 156 for three tigers.",
    "explain": "One a week for 52 weeks is 52 × 1 = 52. For three tigers, it is 52 + 52 + 52, which is 3 × 52 = 156. To work out 3 × 52: 3 × 50 = 150, and 3 × 2 = 6. 150 + 6 = 156.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -3743,7 +3743,7 @@
    "why_maths": "Multiplying at each step shows how a tiny bit of poison can become a dangerous amount at the top of a food chain."
   },
   {
-   "problem": "Look at your Deer and Tiger Toss record. In the example, the deer were 6, 10, 16, 24, 28, 36 in the first six rounds. By how much did the deer go up each round? In which round did they go up the most?",
+   "problem": "In this example of a Deer and Tiger Toss record, the deer were 6, 10, 16, 24, 28, 36 in the first six rounds. By how much did the deer go up each round? In which round did they go up the most?",
    "answer": "They went up by 4, 6, 8, 4 and 8. The biggest rise was 8, from round 3 to round 4, and again from round 5 to round 6.",
    "explain": "Take each number away from the next. 10 − 6 = 4. 16 − 10 = 6. 24 − 16 = 8. 28 − 24 = 4. 36 − 28 = 8. The rise slowed down between rounds 4 and 5, because more tigers were eating deer by then.",
    "math_unit": "math.patterns.number-patterns.L3",
@@ -3917,7 +3917,7 @@
    "a": "Rachel Carson, in 1962."
   },
   {
-   "q": "Atoms go round and round. What gets used up?",
+   "q": "Atoms are used again and again. What gets used up at each step of a food chain?",
    "a": "Energy."
   }
  ],
@@ -4011,7 +4011,7 @@
   ]
  },
  "roots": {
-  "context": "We have been learning who eats whom, and how food passes from plant to animal to animal. Now we ask what that passing tells us about ourselves and the world.",
+  "context": "We have been learning who eats whom, and how food passes from plant to animal to animal. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In One Hundred Grains, only 1 grain of every 100 reached the frog. Each eater uses most of their food to stay alive, and that energy leaves as heat. So a field can feed many grasshoppers, fewer frogs and hardly any snakes. The hunter at the top depends on every step below them, down to the plants.",
    "habit": "We picture the animal at the top of a food chain as the strongest, the king. In numbers, the top holds the fewest animals, and each one depends on everything below them.",
@@ -4057,13 +4057,13 @@
   "practice": {
    "title": "The breath you share",
    "mins": 3,
-   "say": "Let's sit still and close our eyes. Breathe in slowly. Now breathe out slowly onto your palm and feel it, warm. In that breath are carbon atoms from the food you ate today. A tree outside may take some of them in this afternoon. Breathe in again. Some of the oxygen you breathe in was given out by plants. Let's do three more slow breaths, giving and taking.",
-   "kid": "Close your eyes. Breathe out slowly onto your hand. Feel it, warm. Your breath carries carbon from your breakfast to the trees. Breathe in. Some of that air was given out by plants. Do three more slow breaths."
+   "say": "Let's sit still and close our eyes. Breathe in slowly. Now breathe out slowly onto your palm and feel how warm your breath is. In that breath are carbon atoms from the food you ate today. A tree outside may take some of them in this afternoon. Breathe in again. Some of the oxygen you breathe in was given out by plants. Let's do three more slow breaths, giving and taking.",
+   "kid": "Close your eyes. Breathe out slowly onto your hand. Feel how warm your breath is. Your breath carries carbon from your breakfast to the trees. Breathe in. Some of that air was given out by plants. Do three more slow breaths."
   },
   "ask": [
    "If a tiger eats a deer, and the deer ate grass, whose atoms are in the tiger?",
    "If a forest grew twice as much grass, would it have twice as many tigers? What else might stop them?",
-   "Is there anything that is never, in the end, someone else's food?",
+   "Is there any living thing that never ends up as food for another?",
    "If you were taken out of the web, who would notice?"
   ],
   "art": "A circle of living things drawn as one loop, grass to deer to tiger to beetles and mushrooms to soil and back to grass, with a single golden stream of sunlight flowing into the circle from above."
@@ -4075,5 +4075,5 @@
   "when": "Late 1990s to 2004",
   "wrong_idea": "Many scientists first thought a new infectious disease, perhaps a virus, was killing the vultures."
  },
- "warm": {"words": ["PLANT", "CHAIN", "TIGER", "GRASS", "FUNGI"], "quiz": [["In a food chain, an arrow points from the food to the animal that eats it.", true, "The arrow shows which way the food goes, so you can read it as 'is eaten by'."], ["The tiger is the most important animal in a forest because she is at the top.", false, "A tiger needs many prey animals and plants below her, and taking away smaller living things changes the whole forest."], ["There are many more plants than tigers because only a little food energy passes up each step.", true, "Most energy is used up for living at each step, so less and less is left higher up."], ["When a deer eats grass, all the energy of the grass passes to the deer.", false, "Only about a tenth passes on; the rest is used for living and ends up as heat."], ["Taking one kind of living thing out of a food web can change many others.", true, "Living things in a web depend on each other, so a change in one spreads to the rest."], ["Killing all the predators always helps the deer and the forest.", false, "Without predators, deer can grow too many and eat too much plant food, which harms the forest and then the deer."], ["Every food chain starts with an animal that hunts.", false, "Almost every chain starts with a producer, a green plant or algae that makes food from sunlight."], ["Most animals eat more than one kind of food, so food chains join into food webs.", true, "When one animal is eaten by many kinds and eats many kinds, the chains cross and join."], ["A poison eaten by small animals stays with them and never reaches the hunters that eat them.", false, "Some poisons build up as they pass up a food chain, so animals near the top can get a lot."], ["Decomposers break dead plants and animals into nutrients that go back into the soil.", true, "The nutrients in the soil are then used by plants, so the food chain can begin again."]], "odd": [[["Grass", "Algae", "Neem tree", "Deer"], "Deer", "Grass, algae and neem make their own food from sunlight; a deer cannot, so she eats plants."], [["Crow", "Sloth bear", "Human", "Cow"], "Cow", "Crows, sloth bears and people eat both plants and animals; a cow eats only plants."], [["Fungus", "Bacteria", "Mould", "Vulture"], "Vulture", "Fungus, bacteria and mould break dead things down into nutrients for the soil; a vulture only eats dead animals."], [["Hopping", "Keeping warm", "Breathing", "Being eaten"], "Being eaten", "Hopping, keeping warm and breathing use up energy, which ends as heat; being eaten passes some on to the next eater."], [["Grass plants", "Ants", "Termites", "Tigers"], "Tigers", "Grass, ants and termites live near the bottom of food chains, where energy is plentiful, so they are many; tigers are few."]]}
+ "warm": {"words": ["PLANT", "CHAIN", "TIGER", "GRASS", "FUNGI"], "quiz": [["In a food chain, an arrow points from the food to the animal that eats it.", true, "The arrow shows which way the food goes, so you can read it as 'is eaten by'."], ["The tiger is the most important animal in a forest because she is at the top.", false, "A tiger needs many prey animals and plants below her, and taking away smaller living things changes the whole forest."], ["There are many more plants than tigers because only a little food energy passes up each step.", true, "Most energy is used up for living at each step, so less and less is left higher up."], ["When a deer eats grass, all the energy of the grass passes to the deer.", false, "Only about a tenth passes on; the rest is used for living and ends up as heat."], ["Taking one kind of living thing out of a food web can change many others.", true, "Living things in a web depend on each other, so a change in one spreads to the rest."], ["Killing all the predators always helps the deer and the forest.", false, "Without predators, deer can become too many and eat too much plant food, which harms the forest and then the deer."], ["Every food chain starts with an animal that hunts.", false, "Almost every chain starts with a producer, a green plant or algae that makes food from sunlight."], ["Most animals eat more than one kind of food, so food chains join into food webs.", true, "When an animal eats many kinds of living things, and many kinds eat them, the chains cross and join."], ["A poison eaten by small animals stays with them and never reaches the hunters that eat them.", false, "Some poisons build up as they pass up a food chain, so animals near the top can get a lot."], ["Decomposers break dead plants and animals into nutrients that go back into the soil.", true, "The nutrients in the soil are then used by plants, so the food chain can begin again."]], "odd": [[["Grass", "Algae", "Neem tree", "Deer"], "Deer", "Grass, algae and neem make their own food from sunlight; a deer cannot, so she eats plants."], [["Crow", "Sloth bear", "Human", "Cow"], "Cow", "Crows, sloth bears and people eat both plants and animals; a cow eats only plants."], [["Fungus", "Bacteria", "Mould", "Vulture"], "Vulture", "Fungus, bacteria and mould break dead things down into nutrients for the soil; a vulture only eats dead animals."], [["Hopping", "Keeping warm", "Breathing", "Being eaten"], "Being eaten", "Hopping, keeping warm and breathing use up energy, which ends as heat; being eaten passes some on to the next eater."], [["Grass plants", "Ants", "Termites", "Tigers"], "Tigers", "Grass, ants and termites live near the bottom of food chains, where energy is plentiful, so they are many; tigers are few."]]}
 }

@@ -3,7 +3,7 @@
  "title": "Simple circuits: why a bulb lights only in a complete loop",
  "level": 3,
  "summary": {
-  "text": "A torch bulb lights only when electricity can flow from a cell, through the bulb and all the way back to the cell. This complete loop is called a circuit. A gap anywhere in it, and the bulb goes out at once. Metals let electricity through, so they are called conductors. Plastic, rubber, wood, paper and glass do not, so they are called insulators. A wall socket in India is 230 volts and can kill, so we experiment only with small 1.5 volt cells. Inside the wire, tiny particles called electrons are pushed round the loop by the cell, and they come back to it.",
+  "text": "A torch bulb lights only when electricity can flow from a cell, through the bulb and all the way back to the cell. This complete loop is called a circuit. If there is a gap anywhere in the loop, the bulb goes out at once. Metals let electricity through, so they are called conductors. Plastic, rubber, wood, paper and glass do not, so they are called insulators. A wall socket in India is 230 volts and can kill, so we experiment only with small 1.5 volt cells. Inside the wire, tiny particles called electrons are pushed round the loop by the cell, and they come back to it.",
   "art": "A child's hands holding an AA cell in a holder, two wires and a small glowing torch bulb, with a dotted arrow running round the loop from the cell, through the bulb and back to the cell."
  },
  "intro": {
@@ -166,7 +166,7 @@
    "concept": "A complete circuit",
    "status": "defined",
    "definition": "A circuit is a complete loop that electricity can flow round, from one terminal of the cell, through the parts of the circuit, and back to the other terminal.",
-   "description": "A cell has two terminals, plus and minus. Electricity flows only when there is a path from one terminal to the other. A bulb has two contacts too. One is the metal tip at its bottom. The other is the metal side around its screw. The thin filament inside joins them. So the loop goes like this. From the plus terminal, along a wire, into the bulb's tip, through the filament, out of the bulb's side, along a second wire, and back to the minus terminal. If you stand a bulb on top of a cell, only the tip touches. The bulb's side has no path back to the bottom of the cell, so it stays dark. Add one wire from the bulb's side to the bottom of the cell, and the loop is complete.",
+   "description": "A cell has two terminals, plus and minus. Electricity flows only when there is a path from one terminal to the other. A bulb has two contacts too. One is the metal tip at its bottom. The other is the metal side around its screw. The thin filament inside joins them. So the loop goes like this: from the plus terminal, along a wire, into the bulb's tip, through the filament, out of the bulb's side, along a second wire, and back to the minus terminal. If you stand a bulb on top of a cell, only the tip touches. The bulb's side has no path back to the bottom of the cell, so it stays dark. Add one wire from the bulb's side to the bottom of the cell, and the loop is complete.",
    "examples": [
     "In a torch, a spring and metal strips join the cells, the switch and the bulb into one loop.",
     "A bulb holder has two screws. One joins to the bulb's tip and one to its side.",
@@ -174,7 +174,7 @@
    ],
    "perspectives": [],
    "art": "A torch bulb on an AA cell, with a dotted path drawn from the cell's top through the bulb's tip, round the filament, out of its side, down a wire and into the cell's bottom.",
-   "context": "Why does a bulb need two wires, or one wire and a cell touching it? This card shows the full loop the electricity takes."
+   "context": "Why does one wire to a bulb not light it? This card shows the full loop the electricity takes."
   },
   {
    "concept": "Why a broken circuit stops everything",
@@ -208,7 +208,7 @@
    "concept": "How a switch works",
    "status": "defined",
    "definition": "A switch is a part of a circuit that can open a gap, to stop the electricity, and close it, to let the electricity flow.",
-   "description": "When a switch is on, two pieces of metal inside it touch, and the circuit is complete. When it is off, the metal pieces move apart, and there is a gap of air. Air is an insulator, so the electricity stops. You can make your own switch with a steel paper clip and two drawing pins on a piece of cardboard. Push the pins in, about 2 centimetres apart, and join a wire to each. Hook the paper clip round one pin. Swing it onto the other pin, and the circuit is complete. Swing it away, and the circuit is broken. The cardboard must be an insulator, or the electricity would go through it. Switches come as press switches, like a doorbell, rocker switches, like a wall switch, and slide switches, like many torches.",
+   "description": "When a switch is on, two pieces of metal inside it touch, and the circuit is complete. When it is off, the metal pieces move apart, and there is a gap of air. Air is an insulator, so the electricity stops. You can make your own switch with a steel paper clip and two drawing pins on a piece of cardboard. Push the pins in, about 2 centimetres apart, and join a wire to each. Hook the paper clip round one pin. Swing it onto the other pin, and the circuit is complete. Swing it away, and the circuit is broken. The cardboard must be an insulator, or the electricity would go through it. There are three common kinds of switch. A doorbell has a press switch. A wall switch is a rocker switch. Many torches have a slide switch.",
    "examples": [
     "A wall switch is a rocker switch.",
     "A doorbell button is a press switch. It is on only while you press it.",
@@ -282,7 +282,7 @@
    "claim": "Electricity only needs to get from the cell to the bulb. One wire should be enough.",
    "who": "Many children, when they first try to light a bulb",
    "for": "A water pipe needs only to go from the tank to the tap. It seems electricity should be the same.",
-   "against": "Stand a bulb on a cell with one wire to its tip only, and it stays dark. It lights only when there is a path back to the other terminal of the cell.",
+   "against": "Join a cell to a bulb's tip with one wire and nothing else, and the bulb stays dark. It lights only when there is a path back to the other terminal of the cell.",
    "status": "rejected",
    "context": "This card is about the idea that electricity travels one way, from the cell to the bulb, and stops there."
   },
@@ -333,7 +333,7 @@
    "hint": "Every plug has at least two pins. Why do you think it needs more than one?"
   },
   {
-   "q": "Imagine a world with no electricity at all, not even in living things. Could anything in it be alive?",
+   "q": "If there were no electricity at all, not even in living things, could anything be alive?",
    "kind": "big",
    "hint": "Your heart beats because of electrical signals. A touch-me-not folds their leaves because of one too."
   }
@@ -607,7 +607,7 @@
     "On your turn, draw one card. Then do one thing: play a BULB, WIRE, CONDUCTOR or SWITCH card on your own loop, or play a GAP! or INSULATOR card on another player's loop, or play a FIX IT card. If you cannot or do not want to play, put one card from your hand on the discard pile.",
     "A GAP! or INSULATOR card on your loop breaks it. Your loop cannot light until the gap is mended. To mend it, play a FIX IT card (then you may also play one more card), or spend your whole turn taking the card out.",
     "A SWITCH card in your loop protects it. When a GAP! or INSULATOR lands on you, turn the SWITCH face down instead. At the start of your next turn, turn it face up again for free.",
-    "When your loop is complete, trace it with a finger from + round to −. Then another player reads you a question card, or you read it yourself if you are alone. Right? Your bulb lights: score 1 bulb, put all the cards in your loop except the CELL on the discard pile, and start a new loop. Wrong? Put the question card at the bottom of its pile. Your loop stays, and you try again next turn.",
+    "When your loop is complete, trace it with a finger from + round to −. Then another player reads you a question card, or you read it yourself if you are alone. If your answer is right, your bulb lights: score 1 bulb, put all the cards in your loop except the CELL on the discard pile, and start a new loop. If your answer is wrong, put the question card at the bottom of its pile. Your loop stays, and you try again next turn.",
     "When the draw pile is empty, shuffle the discard pile and use it as the new draw pile. When the question cards run out, shuffle them again.",
     "The first player to light 2 bulbs wins. Playing alone, take out the 4 GAP! and 4 INSULATOR cards and try to light 2 bulbs in 15 turns."
    ],
@@ -615,7 +615,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards. 2. Give each player a CELL card and deal 5 cards each. 3. Put a CELL card in front of each player.",
+     "do": "1. Cut out the cards. 2. Put one CELL card in front of each player. 3. Deal 5 cards to each player.",
      "say": "Each of us is going to build a circuit, card by card. It must go from the cell, through a bulb, and all the way back.",
      "kid": "Take 5 cards. Your cell is in front of you. Build a loop to a bulb and back!",
      "context": "This is the first step of Close the Loop, a card game where you build circuits."
@@ -642,7 +642,7 @@
      "mins": 12,
      "do": "1. Take turns: draw a card, play a card. 2. When a loop is complete, trace it and answer a question card. 3. Keep score on the sheet.",
      "say": "Take a card and play a card. Watch out for GAP! cards. When your loop is complete, answer a question to light your bulb.",
-     "kid": "Take a card. Play a card. Loop complete? Answer a question to light it!",
+     "kid": "Take a card. Play a card. When your loop is complete, answer a question to light your bulb.",
      "parent": "Before each bulb lights, ask the player to trace the loop with a finger from + round to −. If they find a gap, they must mend it first. With younger players, take some GAP! cards out."
     },
     {
@@ -886,7 +886,7 @@
      "mins": 5,
      "do": "1. Lay out the 12 things. 2. Ask your child to put them in two piles: 'will light' and 'won't light'. 3. Ask for a reason for each pile. Write the guesses in the table.",
      "say": "The gap is like a bridge that is missing. Which of these things will carry the electricity across it? Make two piles. Why did you put each one there?",
-     "kid": "Make two piles. Will light. Won't light. Why did you choose that pile?",
+     "kid": "Make two piles: 'will light' and 'won't light'. Why did you put each thing in its pile?",
      "ask": [
       {
        "q": "Why do you think the spoon will light the bulb?",
@@ -928,13 +928,13 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "do": "Ask your child to say or write three things: what they think, what they saw, and why they think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: metal things let electricity through, and other things stop it. What I saw: the spoon, the coin, the key and the foil lit the bulb. The wood, plastic, paper and glass did not. Why: metals let electricity through, so they are conductors. The others do not, so they are insulators. That is why wires are copper inside plastic.",
      "check": {
       "t": "mcq",
-      "q": "Which group were nearly all the conductors in?",
+      "q": "Nearly all the conductors belonged to one group. Which group?",
       "options": [
        "Shiny things",
        "Metals",
@@ -1086,8 +1086,8 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Take out one short wire. 2. Put the 2 metre wire, or the paper clip chain, in its place. 3. Hold one end of it off the cell. 4. Watch the bulb closely, and touch the end on.",
-     "say": "Now one wire is very long. When I touch it on, will the bulb light at once? Or will it wait for the electricity to get there?",
+     "do": "1. Take out one short wire. 2. Put the 2 metre wire, or the paper clip chain, in its place. 3. Hold one end of it off the cell. 4. Watch the bulb closely as you touch that end onto the cell.",
+     "say": "Now one wire is very long. When I touch it onto the cell, will the bulb light at once? Or will it wait for the electricity to get there?",
      "kid": "Now one wire is very long. Watch the bulb. Does it light at once? Or later?",
      "adult": true,
      "parent": "The bulb lights at once, with no delay you can see. With a paper clip chain it may be a little dimmer, because each join between clips lets the electricity through less well. That is fine. What matters is that there is no wait.",
@@ -1104,9 +1104,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about the cycle chain. Then ask for claim, evidence and reasoning.",
+     "do": "Talk about the cycle chain. Then ask your child to say what they think, what they saw, and why they think it happened.",
      "say": "Think of a cycle chain. Push the pedal, and every link moves at once, even the far ones. Electrons in a wire are like that. Now tell me what you think, what you saw, and why.",
-     "kid": "Think of a cycle chain. Every link moves at once. Now say: what I think, what I saw, why.",
+     "kid": "Think of a cycle chain. Every link moves at once. Now say what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a gap anywhere stops the bulb, and a long wire does not make it wait. What I saw: the bulb went out every time, wherever I made the gap. With the 2 metre wire it still lit at once. Why: the tiny electrons are already in the wire all the way round. The cell pushes them all together, like a cycle chain. So a break anywhere stops them all.",
      "think": "If the electrons go round and come back to the cell, what is the cell running out of when it goes flat?"
     }
@@ -1217,7 +1217,7 @@
      "mins": 6,
      "do": "1. Join the red wire of one holder to the black wire of the other holder. 2. Join the two free wires to the bulb. 3. Compare the brightness.",
      "say": "Now two cells are in a row, both facing the same way. Will the bulb be brighter, the same or dimmer? Why do you think so?",
-     "kid": "Join two cells in a row, plus to minus. Guess first. Brighter or dimmer?",
+     "kid": "Join two cells in a row, plus to minus. Guess first: will the bulb be brighter or dimmer?",
      "adult": true,
      "parent": "The bulb is clearly brighter, because two cells in a row push twice as hard, 3 volts instead of 1.5 volts. Red wires usually come from the plus end and black from the minus end. Check yours."
     },
@@ -1228,7 +1228,7 @@
      "say": "Now one cell faces the wrong way. What will happen this time? Why?",
      "kid": "Turn one cell round. Now what does the bulb do?",
      "adult": true,
-     "parent": "The bulb does not light, or glows only faintly. Each cell pushes the electricity one way round the loop. Turned round, the two pushes are against each other and cancel out. This is the mistake made in the story. Turn the cell back, and the bulb is bright again.",
+     "parent": "The bulb does not light, or glows only faintly. Each cell pushes the electricity one way round the loop. When one cell is turned round, the two pushes work against each other and cancel out. This is the mistake Kavya made with the torch in the story. Turn the cell back, and the bulb is bright again.",
      "check": {
       "t": "mcq",
       "q": "Two cells face opposite ways, and the bulb does not light. Why?",
@@ -1244,9 +1244,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask for claim, evidence and reasoning.",
+     "do": "Ask your child to say what they think, what they saw, and why they think it happened.",
      "say": "Now tell me what you think, what you saw, and why you think it happened.",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: two cells facing the same way make the bulb brighter, and two facing opposite ways cancel out. What I saw: the bulb was brighter with two cells in a row. When I turned one round, it went dark. Why: each cell pushes the electricity round the loop, and two pushes the same way add up."
     }
    ],
@@ -1345,7 +1345,7 @@
      "mins": 3,
      "do": "If they are stuck, give one hint: the bulb has two metal contacts, the tip and the side.",
      "say": "Look at the bulb closely. Where is the metal? The bulb has two metal parts. What if each one touched a different end of the cell?",
-     "kid": "Look at the bulb. Find two metal parts. The tip and the side.",
+     "kid": "Look at the bulb. It has two metal parts: the tip and the side.",
      "parent": "The way that works: stand the bulb's tip on the bump at the top of the cell. Then hold one end of the wire on the bulb's metal side and the other end on the flat bottom of the cell. There are other ways too, such as the wire from the bump to the bulb's side, and the bulb's tip on the flat end."
     },
     {
@@ -1418,7 +1418,7 @@
      "mins": 8,
      "do": "1. Walk through each room together. 2. Your child writes or draws each thing in the right column. 3. Look for a wire and plug, or a place for cells.",
      "say": "Look for a wire and a plug. That means it uses mains electricity from the wall. Look for a little door for cells. That means it runs on cells.",
-     "kid": "Walk round your home. Find a plug? Write it under 'wall'. Find cells? Write it under 'cells'.",
+     "kid": "Walk round your home. If a thing has a plug, write it under 'Plugged into the wall'. If it has cells, write it under 'Runs on cells'.",
      "parent": "Typical finds: fan, tube light, fridge, mixer-grinder, TV, iron, geyser, washing machine, water pump, Wi-Fi box and phone charger use the mains. A TV remote, wall clock, torch, toy car, weighing scale and kitchen timer use cells. A phone and a laptop have their own batteries that are charged from the mains. They can go in both columns."
     },
     {
@@ -1494,7 +1494,7 @@
      "say": "Look at this socket by the sink. What could go wrong here? Why is water a problem near electricity?",
      "kid": "Look carefully. What could go wrong here? Write a rule.",
      "adult": true,
-     "parent": "Good rules with reasons. Never touch switches or plugs with wet hands, because water lets electricity through your skin more easily. Never push anything into a socket. Never pull a plug out by its wire, because the wire can break inside. Stay away from wires with cracked plastic, because bare copper can give a shock. Never fly kites near power lines. Keep button cells away from babies, because a swallowed one burns."
+     "parent": "Here are good rules, each with its reason. Never touch switches or plugs with wet hands, because water lets electricity through your skin more easily. Never push anything into a socket. Never pull a plug out by its wire, because the wire can break inside. Stay away from wires with cracked plastic, because bare copper can give a shock. Never fly kites near power lines. Keep button cells away from babies, because a swallowed button cell can badly burn the food pipe."
     },
     {
      "id": "s3",
@@ -1663,7 +1663,7 @@
      "mins": 6,
      "do": "1. Join the switch into the circuit, between the cell and the bulb. 2. Swing the paper clip onto the second pin. 3. Swing it off again.",
      "say": "Swing the clip across. What happens? Now swing it away. Why does the bulb go out?",
-     "kid": "Swing the clip onto the other pin. Light! Swing it away. Dark!",
+     "kid": "Swing the clip onto the other pin, and the bulb lights. Swing it away, and the bulb goes dark.",
      "parent": "If the bulb does not light with the clip closed, press the clip down firmly on the pin. Shiny drawing pins work best. Painted ones may need the paint scraped off."
     },
     {
@@ -1671,7 +1671,7 @@
      "mins": 4,
      "do": "Ask why the switch is on cardboard and not on a steel plate.",
      "say": "Why did we put the switch on cardboard? What would happen on a steel plate?",
-     "kid": "Why cardboard? What if the switch was on a steel plate?",
+     "kid": "Why did we build the switch on cardboard? What if it was on a steel plate?",
      "check": {
       "t": "mcq",
       "q": "Why is the paper clip switch built on cardboard?",
@@ -1743,7 +1743,7 @@
      "mins": 4,
      "do": "1. The cell pulls the string steadily, hand over hand. 2. The bulb says 'warm' when they feel the string rubbing. 3. Then one person lets go and drops their part of the loop.",
      "say": "Bulb, tell us when you feel the string start to rub. Did you feel it at once? Now someone let go and drop the string. What happens to the bulb?",
-     "kid": "Cell, pull the string round. Bulb, can you feel it rub? Now drop it!",
+     "kid": "Cell, pull the string round. Bulb, can you feel it rub? Now one person drops the string. What does the bulb feel?",
      "parent": "The bulb feels the string move at the same moment the cell starts pulling, even though no part of the string moved far. The rubbing on the bulb's hands is like the filament getting hot. When someone drops the string, the cell can no longer pull it round, and the bulb feels nothing. That is a broken circuit."
     },
     {
@@ -1766,7 +1766,7 @@
      "think": "Every model leaves something out. What is different about real electrons and our string?"
     }
    ],
-   "context": "In this act-out you make a circuit from people and a loop of string, to see why a bulb lights at once and why a break anywhere stops it.",
+   "context": "In this activity you act out a circuit with people and a loop of string, to see why a bulb lights at once and why a break anywhere stops it.",
    "setup": [
     {
      "art": "A family standing in a circle in a living room, all holding a loop of string, one child labelled 'cell' and one labelled 'bulb'.",
@@ -1842,7 +1842,7 @@
      "id": "s2",
      "mins": 25,
      "do": "1. Make a small hole in the roof and push the bulb holder's wires through. 2. Fix the switch on the outside wall with tape. 3. Join the cell, the switch and the bulb in one loop. 4. Test it, find any gaps and fix them.",
-     "say": "Now we follow the plan. If it doesn't light, we hunt for the gap, the way the girl in the story did with the torch.",
+     "say": "Now we follow the plan. If it doesn't light, we hunt for the gap, the way Kavya did with the torch in the story.",
      "kid": "Fix the bulb in the roof. Put the switch outside. Join the loop. Does it light?",
      "adult": true,
      "wait": "Day 2: build and test the circuit.",
@@ -1922,7 +1922,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Play the game. 2. Improve it and play again. 3. Read the usual and creative ideas.",
+     "do": "1. Play the game. 2. Improve it and play again. 3. Read the other ideas for building the game and making it better.",
      "say": "Play it. What could make it harder? Here are some other ideas. Can you invent a better one?",
      "kid": "Play it. Make it harder. Can you invent a better one?",
      "check": {
@@ -1997,7 +1997,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Step on it 10 times. 2. Improve it. 3. Read the usual and creative ideas.",
+     "do": "1. Step on it 10 times. 2. Improve it. 3. Read the other ideas for building the switch and making it better.",
      "say": "Does it work 10 times in a row? What could make it better?",
      "kid": "Step on it 10 times. Does it work every time? Make it better.",
      "check": {
@@ -2092,11 +2092,11 @@
   },
   {
    "t": "mcq",
-   "p": "Kiran, a girl in Class 3, stands a bulb on top of an AA cell. It does not light. What does she need to add?",
+   "p": "You stand a bulb on top of an AA cell. It does not light. What do you need to add?",
    "opts": [
     "A second bulb",
     "A wire from the bulb's metal side to the bottom of the cell",
-    "Nothing. She must press harder"
+    "Nothing. You must press harder"
    ],
    "a": 1,
    "why": "The bulb's tip touches only the top of the cell. The electricity needs a path back to the bottom of the cell, through the bulb's side. One wire makes the loop complete. Pressing harder does not make a path.",
@@ -2132,7 +2132,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl tests a paper clip with a pink plastic coat. The bulb does not light. Why?",
+   "p": "You test a paper clip with a pink plastic coat in a circuit tester. The bulb does not light. Why?",
    "opts": [
     "Steel is an insulator",
     "The plastic coat is an insulator, so the electricity cannot reach the steel",
@@ -2183,14 +2183,14 @@
   },
   {
    "t": "mcq",
-   "p": "A dead frog's leg twitched when touched with two different metals, so one scientist thought the electricity came from inside the frog. Another scientist made electricity with discs of two metals and salty cloth, with no frog at all. What does that show?",
+   "p": "Galvani thought the electricity that made a dead frog's leg twitch came from inside the frog. Volta then made electricity with discs of two metals and salty cloth, with no frog at all. What does Volta's test show?",
    "opts": [
     "Frogs make no electricity at all",
     "Two different metals with something wet between them make electricity, even with no frog",
     "The twitching was caused by the weather"
    ],
    "a": 1,
-   "why": "Electricity appeared with no frog, so the frog was not needed to make it. That pile of discs was the first battery, built in 1799. The first scientist was partly right too, because nerves really do use electrical signals. Picking 'frogs make no electricity' goes too far.",
+   "why": "Electricity appeared with no frog, so the frog was not needed to make it. That pile of discs was the first battery, built in 1799. Galvani was partly right too, because nerves really do use electrical signals. Picking 'frogs make no electricity' goes too far.",
    "outcome": 6
   }
  ],
@@ -2247,7 +2247,7 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi, a girl in Class 3, says, \"A ceiling fan and a torch both use electricity, so they get it the same way.\" How can you tell, just by looking, that they do not?",
+     "p": "A ceiling fan and a torch both use electricity. How can you tell, just by looking, that they do not get it the same way?",
      "lines": 3,
      "a": "The fan has a wire going into the wall, so it uses mains electricity. The torch has no wire. It has cells inside, behind a little cap or door. So they get their electricity in different ways.",
      "why": "A strong answer names what you can see: a wire and a plug for mains, a cell door for cells."
@@ -2261,10 +2261,10 @@
     },
     {
      "t": "mcq",
-     "p": "A girl joins a wire from the top of a cell to the tip of a bulb. She joins a second wire from the bottom of the cell to the tip of the bulb too. The bulb stays dark. What went wrong?",
+     "p": "You join a wire from the top of a cell to the tip of a bulb. You join a second wire from the bottom of the cell to the tip of the bulb too. The bulb stays dark. What went wrong?",
      "opts": [
       "Both wires touch the same place on the bulb, so the electricity does not go through the bulb",
-      "Her wires are too short",
+      "The wires are too short",
       "The cell is upside down"
      ],
      "a": 0,
@@ -2435,7 +2435,7 @@
       "After about a minute"
      ],
      "a": 0,
-     "why": "The bulb lights at once. The tiny moving bits called electrons are already in the wire all the way round. The cell pushes them all at the same moment, so none has to travel from the cell to the bulb first.",
+     "why": "The bulb lights at once. Tiny particles called electrons are already in the wire all the way round. The cell pushes them all at the same moment, so none has to travel from the cell to the bulb first.",
      "how": "e2"
     },
     {
@@ -2447,7 +2447,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the two-cell test, you join two cells in a row, both facing the same way, with one bulb. What does the bulb do?",
+     "p": "In the Two Cells experiment, you join two cells in a row, both facing the same way, with one bulb. What does the bulb do?",
      "opts": [
       "It is brighter than with one cell",
       "It is dimmer than with one cell",
@@ -2714,8 +2714,8 @@
      "t": "write",
      "p": "Your friend says, \"A cell is like a water tank full of electricity, and the bulb drinks it up.\" What would you tell your friend? Use evidence from your experiments.",
      "lines": 4,
-     "a": "I would tell her the electricity is not drunk up. It goes round the loop and back to the cell. My evidence is that a gap after the bulb puts it out, just like a gap before it. What a cell runs out of is the energy in its chemicals.",
-     "why": "A strong answer corrects the idea and backs it with a result from the gap test.",
+     "a": "I would tell my friend that the electricity is not drunk up. It goes round the loop and back to the cell. My evidence is that a gap after the bulb puts the bulb out, just like a gap before it. What a cell runs out of is the energy in its chemicals.",
+     "why": "A strong answer corrects the idea and backs it with a result from the Where Is the Gap? experiment.",
      "how": "e2"
     },
     {
@@ -3175,9 +3175,9 @@
  "roots": {
   "context": "We have built circuits, broken them, and found what lets electricity through. Now we ask what a circuit tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Your bulb lit only when a second path led back to the cell. So the electricity does not stop in the bulb. It goes round and comes back to the cell. The bulb is not using up electrons, only the energy the cell gives them as they pass.",
+   "truth": "In One Cell, One Wire, One Bulb, the bulb lit only when there was also a path back to the cell. So the electricity does not stop in the bulb. It goes round and comes back to the cell. The bulb does not use up the electrons. It uses only the energy the cell gives them.",
    "habit": "We think of a cell as a tank full of electricity that the bulb drinks up. But the electrons that flow are part of the wire itself, and they come back. What a cell runs out of is the energy in its chemicals, not electrons.",
-   "evidence": "In the bulb challenge, the bulb stayed dark with one wire from the cell to its tip. It lit only when a path also led back to the other end of the cell. In Where Is the Gap?, a gap after the bulb put it out too."
+   "evidence": "In One Cell, One Wire, One Bulb, the bulb stayed dark with one wire from the cell to its tip. It lit only when a path also led back to the other end of the cell. In Where Is the Gap?, a gap after the bulb put it out too."
   },
   "three": {
    "who_am_i": "Every move you make starts with electrical signals running along your nerves to your muscles.",
@@ -3189,7 +3189,7 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes share one hub. It is the empty space at the centre that makes the wheel useful. We shape clay into a pot, and it is the empty inside that holds what we want.",
-    "link": "A switch is useful because of its gap. The air gap is what lets us turn a light off. A circuit works through its metal, but we control it through its empty space."
+    "link": "A switch is useful because of its gap. The air gap is what lets us turn a light off. The metal carries the electricity, but the gap is what lets us control it."
    },
    {
     "source": "Chandogya Upanishad 6.13",
@@ -3222,7 +3222,7 @@
    "kid": "Hold hands in a circle. Close your eyes. Feel a squeeze? Pass it on. Did it come back? Now someone lets go. Does it still come back?"
   },
   "ask": [
-   "How did a gap in your circuit show you that electricity goes round the loop, and not just along it?",
+   "In Where Is the Gap?, a gap after the bulb still put the bulb out. How does that show that electricity goes all the way round the loop and back to the cell?",
    "A switch works because of a gap. Can an empty space do a job?",
    "Your thoughts travel as electrical signals. Is a thought something that moves, or something more?"
   ],
@@ -3230,10 +3230,10 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: only AA cells are used, never sockets or chargers. Torch bulbs are used, not LEDs, because an LED will not light from one 1.5 volt cell and lights only one way round. A 2.5 volt bulb glows only dimly on one cell, so the steps say to dim the room, and the two-cell experiment shows it brighter. No cell holder? The wires can be taped to the cell's ends. Foil folded four times lengthwise works as wire, but a foil strip held across both ends of a cell gets warm, so every step warns against short circuits. The pencil test may give only a very faint glow, or none, with a bulb, so the step says so and suggests a short piece of lead. Plastic-coated paper clips are a deliberate surprise in the Conductor Test. Tap and salty water tests were left out, because a bulb on one or two AA cells does not visibly glow through water. The torch activity skips torches with built-in rechargeable batteries. Leaked cells leave a crust that should be wiped with a dry cloth, followed by hand washing. Button cells are named as dangerous for babies. Both games work for one child alone and for two players. The spine is the bulb challenge, the safety walk, the Conductor Test, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
-  "story": "In the 1780s, Luigi Galvani, a doctor in Bologna in Italy, was studying how frog legs move. His wife, Lucia Galeazzi, also worked in his laboratory. Galvani found that a dead frog's leg twitched when he touched the leg with two different metals, such as a brass hook and an iron rail. In 1791 he wrote that the frog's body held 'animal electricity', and the metals only let that electricity flow. Alessandro Volta, a physicist in Pavia, repeated the experiments. He thought the electricity came from the two metals, and the frog only showed that electricity was there. To prove it, he left the frog out. He piled up discs of zinc and copper, with card soaked in salty water between them. The pile gave a steady flow of electricity, and he could feel it as a tingle. In 1800 he described it in a letter to the Royal Society in London. It was the first battery. So Galvani's idea that the metals' electricity came from the frog was wrong. But he was right that living bodies use electricity. Our nerves really do send electrical signals.",
+  "story": "In the 1780s, Luigi Galvani, a doctor in Bologna in Italy, was studying how frog legs move. His wife, Lucia Galeazzi, also worked in his laboratory. Galvani found that a dead frog's leg twitched when he touched the leg with two different metals, such as a brass hook and an iron rail. In 1791 he wrote that the frog's body held 'animal electricity', and the metals only let that electricity flow. Alessandro Volta, a physicist in Pavia, repeated the experiments. He thought the electricity came from the two metals, and the frog only showed that electricity was there. To prove it, he left the frog out. He piled up discs of zinc and copper, with card soaked in salty water between them. The pile gave a steady flow of electricity, and he could feel it as a tingle. In 1800 he described it in a letter to the Royal Society in London. It was the first battery. So Galvani was wrong about where the electricity in his experiment came from. It came from the metals, not from the frog. But he was right that living bodies use electricity. Our nerves really do send electrical signals.",
   "who": "Luigi Galvani, a doctor in Bologna, and Alessandro Volta, a physicist in Pavia",
   "when": "1791 (Galvani's book on animal electricity) and 1799 to 1800 (Volta's pile)",
   "wrong_idea": "Galvani thought the electricity that made the frog legs twitch was stored in the frog's body. Volta showed that two different metals with something salty and wet between them make electricity on their own, with no frog. Galvani was still right that nerves use electricity."
  },
- "warm": {"words": ["BULBS", "METAL", "WIRES", "LIGHT", "CELLS"], "quiz": [["A bulb lights only when electricity has a complete loop back to the cell.", true, "Electricity must flow from one end of the cell, through the bulb, and back to the other end."], ["One wire from the cell to the bulb is enough to light it.", false, "Without a second wire back to the other end of the cell, there is no loop, so the bulb stays dark."], ["A gap anywhere in a circuit stops the electricity everywhere in it.", true, "Electricity cannot cross the gap, so nothing in the loop can keep flowing."], ["A bulb uses up the electricity, so less flows back to the cell.", false, "The same flow comes back to the cell. What runs out is the energy stored in the cell."], ["A paper clip with a plastic coat will light a bulb because it is metal.", false, "Plastic is an insulator, so the coat blocks electricity until you scrape a little off."], ["A switch works by opening and closing a gap in the circuit.", true, "Open, the gap stops the electricity. Closed, the gap is gone and the electricity can flow."], ["A wall socket is safe for experiments because it works like a small cell.", false, "A socket gives 230 volts and can kill, so we use only small 1.5 volt cells."], ["Wet skin lets electricity pass through the body more easily than dry skin.", true, "Water on the skin carries electricity, so a wet person is in more danger from a shock."], ["Any small cell is safe for children, even if it is swallowed.", false, "A swallowed button cell can badly burn a child's food pipe in as little as two hours."], ["Rubber, wood and glass do not let electricity flow through them.", true, "These are insulators. Metals are conductors, so they let electricity flow easily."]], "odd": [[["Copper wire", "Iron nail", "Steel spoon", "Wooden ruler"], "Wooden ruler", "Copper, iron and steel are metals that let electricity flow, but wood is an insulator that blocks it."], [["Closed switch", "Wire joined at both ends", "Scraped metal clip joining wires", "Open switch"], "Open switch", "The first three leave a path for electricity to flow, but an open switch makes a gap that stops it."], [["Torch cell", "Clock cell", "Remote cell", "Wall socket"], "Wall socket", "The cells give about 1.5 volts and are safe to test, but a wall socket gives 230 volts that can kill."], [["Loose wire", "Burnt-out bulb", "Open switch", "Fresh cell"], "Fresh cell", "A loose wire, a burnt-out bulb and an open switch all make a gap, but a fresh cell pushes electricity round."], [["Nerves", "Muscles", "Touch-me-not plant", "Stone"], "Stone", "Living things send tiny electric signals to do their jobs, but a stone is not alive and sends none."]]}
+ "warm": {"words": ["BULBS", "METAL", "WIRES", "LIGHT", "CELLS"], "quiz": [["A bulb lights only when electricity has a complete loop back to the cell.", true, "Electricity must flow from one end of the cell, through the bulb, and back to the other end."], ["One wire from the cell to the bulb is enough to light it.", false, "Without a second wire back to the other end of the cell, there is no loop, so the bulb stays dark."], ["A gap anywhere in a circuit stops the electricity everywhere in it.", true, "Electricity cannot cross the gap, so nothing in the loop can keep flowing."], ["A bulb uses up the electricity, so less flows back to the cell.", false, "The same flow comes back to the cell. What runs out is the energy stored in the cell."], ["A paper clip with a plastic coat will light a bulb because it is metal.", false, "Plastic is an insulator, so the coat blocks electricity until you scrape a little off."], ["A switch works by opening and closing a gap in the circuit.", true, "When the switch is open, the gap stops the electricity. When it is closed, the gap is gone and the electricity can flow."], ["A wall socket is safe for experiments because it works like a small cell.", false, "A socket gives 230 volts and can kill, so we use only small 1.5 volt cells."], ["Wet skin lets electricity pass through the body more easily than dry skin.", true, "Water on the skin carries electricity, so a wet person is in more danger from a shock."], ["Any small cell is safe for children, even if it is swallowed.", false, "A swallowed button cell can badly burn a child's food pipe in as little as two hours."], ["Rubber, wood and glass do not let electricity flow through them.", true, "These are insulators. Metals are conductors, so they let electricity flow easily."]], "odd": [[["Copper wire", "Iron nail", "Steel spoon", "Wooden ruler"], "Wooden ruler", "Copper, iron and steel are metals that let electricity flow, but wood is an insulator that blocks it."], [["Closed switch", "Wire joined at both ends", "Scraped metal clip joining wires", "Open switch"], "Open switch", "The first three leave a path for electricity to flow, but an open switch makes a gap that stops it."], [["Torch cell", "Clock cell", "Remote cell", "Wall socket"], "Wall socket", "The cells give about 1.5 volts and are safe to test, but a wall socket gives 230 volts that can kill."], [["Loose wire", "Burnt-out bulb", "Open switch", "Fresh cell"], "Fresh cell", "A loose wire, a burnt-out bulb and an open switch all make a gap, but a fresh cell pushes electricity round."], [["Nerves", "Muscles", "Touch-me-not plant", "Stone"], "Stone", "Living things send tiny electric signals to do their jobs, but a stone is not alive and sends none."]]}
 }

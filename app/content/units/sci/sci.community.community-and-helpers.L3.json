@@ -3,11 +3,11 @@
  "title": "Community helpers and shared things: how a neighbourhood keeps going",
  "level": 3,
  "summary": {
-  "text": "A neighbourhood runs on the work of many people: the milk delivery person, the sweeper, the postwoman, the nurse and the shopkeeper. It also runs on things that many people share, such as a water tank, a lift, a park or a pond. In this unit you list the helpers who keep your building going, and find out what public services like schools, health centres, the post office and the municipality do. Then you play a real test with a pond of chana fish, once in silence and once after agreeing a rule. You find out why some shared things run out and others last for hundreds of years.",
+  "text": "A neighbourhood runs on the work of many people: the milk delivery person, the sweeper, the postwoman, the nurse and the shopkeeper. It also runs on things that many people share, such as a water tank, a lift, a park or a pond. In this unit you list the helpers who keep your building going, and find out what public services like schools, health centres, the post office and the municipality do. Then you run the Shared Pond Test with your family. A bowl of chana stands for a pond of fish, and you play once in silence and once after agreeing a rule. You find out why some shared things run out and others last for hundreds of years.",
   "art": "An Indian apartment building seen from the street in the morning, with a milk delivery person, a woman sweeping, a postwoman with a bag and a water lorry at the gate, and a shared water tank on the roof."
  },
  "intro": {
-  "hook": "Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the lorry came?",
+  "hook": "Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the water lorry came?",
   "text": "A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this unit you test what keeps a shared thing going, with a bowl of chana and your own family.",
   "art": "A girl on the terrace of a flat looking into an open water tank, with water tank pipes going down the side of the building."
  },
@@ -31,13 +31,13 @@
   {
    "term": "Neighbourhood",
    "meaning": "The streets and buildings near your home, and the people in them.",
-   "example": "Lakshmi, a girl in Class 4, lives in Madurai. Her neighbourhood has her school, a temple, a ration shop, a tailor and a bus stop, all within a short walk.",
+   "example": "A neighbourhood in Madurai might have a school, a temple, a ration shop, a tailor and a bus stop, all within a short walk.",
    "art": "A simple map of a few streets with a home, a school, a shop and a bus stop marked."
   },
   {
    "term": "Profession",
    "meaning": "The work a person does to earn a living, which needs skill and learning.",
-   "example": "Divya, a girl in Class 3, has an aunt who is a nurse. A neighbour is a tailor. Nursing and tailoring are professions.",
+   "example": "A nurse and a tailor both have professions: nursing and tailoring.",
    "art": "A nurse with a blood pressure cuff and a tailor at a sewing machine, side by side."
   },
   {
@@ -55,7 +55,7 @@
   {
    "term": "Public service",
    "meaning": "A service set up for everyone in a place, such as a government school, a health centre, the post office or the water supply.",
-   "example": "Arjun, a boy in Class 3, gets his water from the city's water board. His baby sister got her vaccines free at the government health centre. Both are public services.",
+   "example": "Water from the city's water board and free vaccines at the government health centre are both public services.",
    "art": "A government health centre with a red cross sign and a queue of mothers holding babies."
   },
   {
@@ -73,7 +73,7 @@
   {
    "term": "Gram panchayat",
    "meaning": "The elected local government of a village. It looks after village roads, water, cleanliness and other shared work.",
-   "example": "In the village near Nashik where Farhan, a boy in Class 3, has his grandfather, the gram panchayat repaired the hand pump and cleaned the village pond.",
+   "example": "In a village near Nashik, the gram panchayat repaired the hand pump and cleaned the village pond.",
    "art": "A village meeting under a tree, with women and men sitting together and a hand pump nearby."
   },
   {
@@ -85,7 +85,7 @@
   {
    "term": "Rule",
    "meaning": "An agreement about what people may and may not do, which everyone knows.",
-   "example": "Kavya, a girl in Class 4, lives in a building where the rule says nobody washes cars with tank water in summer.",
+   "example": "In one building, the rule says nobody washes cars with tank water in summer.",
    "art": "A notice board in a building lobby with a few short rules written on it."
   },
   {
@@ -141,7 +141,7 @@
    "status": "defined",
    "context": "This card is about why no honest work is small, and why a person may choose their work.",
    "definition": "Dignity of labour is the idea that every honest job deserves respect. In India, the Constitution gives every citizen the right to choose their work.",
-   "description": "Some jobs look simple from outside. Try stringing jasmine as fast as the flower seller, or ironing a shirt as smoothly as the presswala, and you find how much skill they need. For a long time in India, many people were expected to do only the work their family did. Some were called 'untouchable' and kept out of schools and wells. Dr B.R. Ambedkar faced this as a child. He led the writing of India's Constitution, which came into force in 1950. It ended untouchability and gives every person the right to choose their work.",
+   "description": "Some jobs look simple from outside. Try stringing jasmine as fast as the flower seller, or ironing a shirt as smoothly as the presswala, and you will find out how much skill they need. For a long time in India, many people were expected to do only the work their family did. Some were called 'untouchable' and kept out of schools and wells. Dr B.R. Ambedkar faced this as a child. He led the writing of India's Constitution, which came into force in 1950. It ended untouchability and gives every person the right to choose their work.",
    "examples": [
     "A sweeper who clears a drain before the rains stops the street from flooding.",
     "A nurse learns for years before she can work in a hospital.",
@@ -183,7 +183,7 @@
    "status": "defined",
    "context": "This card is about things that many people use and nobody owns alone.",
    "definition": "A shared resource, also called a commons, is something useful that many people use together, where what one person takes is not there for the next.",
-   "description": "A water tank, a village pond, a park, a lift, a parking space, the fish in the sea and the clean air of a city are shared resources. They are different from a pencil, which is yours alone. They are also different from a song on the radio. Your listening does not leave less song for anyone else. With a shared resource, every bucket one flat fills is water the other flats cannot use. That is why a shared thing can run out.",
+   "description": "A water tank, a village pond, a park, a lift, a parking space, the fish in the sea and the clean air of a city are shared resources. They are different from a pencil, which is yours alone. They are also different from a song on the radio. When you listen to the song, there is no less of it for anyone else. With a shared resource, every bucket one flat fills is water the other flats cannot use. That is why a shared thing can run out.",
    "examples": [
     "The overhead tank of an apartment block.",
     "The eri, the old rain-fed tanks of Tamil Nadu villages, which farmers shared for watering fields.",
@@ -205,7 +205,7 @@
    "perspectives": [
     {
      "who": "Garrett Hardin, an American ecologist, in 1968",
-     "explanation": "Each person gets the whole gain from taking a bit more, and shares the loss with everyone. So each person keeps taking more, and the shared thing is ruined. Only a government or an owner can stop this."
+     "explanation": "A person who takes a bit more keeps all of the extra. The loss is spread over everyone. So each person keeps taking more, and the shared thing is ruined. Only a government or an owner can stop this."
     },
     {
      "who": "Elinor Ostrom, an American political scientist, from the 1970s to 2012",
@@ -222,8 +222,8 @@
    "concept": "What helps a shared thing last",
    "status": "defined",
    "context": "This card is about the rules Elinor Ostrom found in communities whose shared things lasted.",
-   "definition": "Elinor Ostrom found that shared things last best when everyone knows who shares them, the users make the rules together, someone checks the rules are kept, breaking a rule has a small cost that grows, and there is a fair way to settle quarrels.",
-   "description": "Ostrom studied village meadows, forests, fishing grounds and water channels in many countries, including farmers sharing water channels in Nepal. Where the shared thing lasted, the same kinds of rules kept appearing. In old Tamil Nadu villages, a water keeper called the neerkatti opened the tank's sluice for each field in turn. Your building's notice board, the turn for the lift and the time for the water motor are rules of the same kind.",
+   "definition": "Elinor Ostrom found that shared things last best when five things are true. Everyone knows who shares them. The users make the rules together. Someone checks the rules are kept. Breaking a rule has a small cost that grows. There is a fair way to settle quarrels.",
+   "description": "Ostrom studied village meadows, forests, fishing grounds and water channels in many countries, including farmers sharing water channels in Nepal. Where the shared thing lasted, the same kinds of rules kept appearing. In old Tamil Nadu villages, a water keeper called the neerkatti opened the tank's sluice, the gate that lets water out, for each field in turn. Your building's notice board, the turn for the lift and the time for the water motor are rules of the same kind.",
    "examples": [
     "A building where the caretaker writes down who used the tank motor, and when.",
     "A fishing village that agrees not to fish in the months when the fish breed.",
@@ -236,7 +236,7 @@
  "agreed": [
   {
    "text": "No person or family can meet all their needs alone. People depend on each other's work.",
-   "evidence": "Every city and village has many kinds of work, and studies of trade and work everywhere show it."
+   "evidence": "Every city and village has many kinds of work. Studies of trade and work everywhere show that people depend on each other."
   },
   {
    "text": "Shared resources can be used up when each person takes as much as they like.",
@@ -252,7 +252,7 @@
   },
   {
    "text": "Vaccines given free through public health centres have saved millions of children's lives in India.",
-   "evidence": "India's national vaccination programme for children. Gagandeep Kang helped develop Rotavac, a vaccine made in India against rotavirus, which causes severe diarrhoea in babies. It joined the programme in 2016."
+   "evidence": "This comes from India's national vaccination programme for children. Gagandeep Kang helped develop Rotavac, a vaccine made in India against rotavirus, which causes severe diarrhoea in babies. It joined the programme in 2016."
   }
  ],
  "challenging": [
@@ -261,7 +261,7 @@
    "who": "A common view, and the old caste system",
    "context": "This card is about whether some honest work is worth less than other work.",
    "for": "Some jobs are paid much more, and some need many years at college.",
-   "against": "Every job needs skill, and the neighbourhood falls apart without any of them. A street floods if nobody clears the drain. India's Constitution ended untouchability and gives everyone the right to choose their work.",
+   "against": "Every job needs skill, and the neighbourhood cannot do without any one of them. A street floods if nobody clears the drain. India's Constitution ended untouchability and gives everyone the right to choose their work.",
    "status": "rejected"
   },
   {
@@ -291,7 +291,7 @@
  ],
  "big_questions": [
   {
-   "q": "When the pond ran out in the silent game, whose fault was it?",
+   "q": "In the silent game of the Shared Pond Test, the pond ran out. Whose fault was it?",
    "kind": "deep",
    "hint": "Each player took only what they thought was fair for themselves. Think about what each one could see."
   },
@@ -308,7 +308,7 @@
   {
    "q": "If everyone in your building talked for five minutes, would the tank stop running dry?",
    "kind": "deep",
-   "hint": "Remember the talking game. What else did it need besides the talk?"
+   "hint": "In the talking game of the Shared Pond Test, the players talked first. What else did the pond need besides the talk?"
   },
   {
    "q": "Should a child have a say in the rules of the building?",
@@ -333,7 +333,7 @@
    "\"Someone on the ground floor washes their car with a hose,\" said Mr Raghavan from flat 4. \"Someone fills six drums every morning,\" said the family in flat 9. Everybody was sure someone else was taking too much. Nobody thought it was them.",
    "That night, Revathi's Paati sat on the mat and listened to all of this. Then she said, \"In my village near Kanchipuram, we had an eri. A big rain tank, for all the fields. It never ran dry before the harvest.\"",
    "\"Why not?\" asked Revathi. \"Didn't everyone take what they wanted?\"",
-   "\"No,\" said Paati. \"We had a neerkatti. He was the water keeper. He opened the sluice for one field, then the next, in turn. Everyone knew the order. If a farmer cut the bank to steal water, the whole village knew by evening. The farmers paid the neerkatti with a share of their harvest.\"",
+   "\"No,\" said Paati. \"We had a neerkatti. He was the water keeper. He opened the sluice, the gate that lets the water out, for one field, then the next, in turn. Everyone knew the order. If a farmer cut the bank to steal water, the whole village knew by evening. The farmers paid the neerkatti with a share of their harvest.\"",
    "Revathi thought about it. \"But the neerkatti was only one man. Why did everyone listen to him?\"",
    "\"Because we chose the rules together, at the village meeting,\" said Paati. \"A rule you make yourself is easier to keep.\"",
    "The next day, Revathi tried a test her Amma had read about. She poured twenty chana into a steel bowl. \"These are fish in a pond,\" she said. \"Each round, everyone writes how many fish they take, up to five. Then the fish left in the pond have babies, and the pond doubles. But a pond can only hold twenty.\"",
@@ -417,7 +417,7 @@
       },
       {
        "f": "Your school uniform is too short.",
-       "b": "The tailor, who can let out the hem or stitch a new one."
+       "b": "The tailor, who can let out the hem or stitch a new uniform."
       },
       {
        "f": "The family needs rice and dal at a low price.",
@@ -479,7 +479,7 @@
     {
      "id": "s2",
      "mins": 13,
-     "context": "This is the playing part of Who Helps Here?.",
+     "context": "This is the playing part of the card game Who Helps Here?",
      "do": "Play the game. Each player reads a problem, names the helper, then turns the card over.",
      "say": "Who would you go to for this? What do they do?",
      "kid": "Read the problem. Who helps? Turn it over to check.",
@@ -499,7 +499,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "context": "This is the last step of Who Helps Here?.",
+     "context": "This is the last step of the card game Who Helps Here?",
      "do": "Talk about which helpers are public services and which are people you pay yourself.",
      "say": "Which helpers did we pay ourselves? Which are paid for by everyone's taxes?",
      "kid": "Which helpers do we pay ourselves? Which are paid by taxes?",
@@ -532,9 +532,9 @@
    "title": "The Shared Pond Test: does agreeing a rule keep a pond from running out?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment your family shares a pond of chana fish. You play once without talking and once after agreeing a rule, and see which pond lasts.",
+   "context": "In this experiment your family shares a bowl of chana, which stand for the fish in a pond. You play once without talking and once after agreeing a rule, and see which pond lasts.",
    "question": "When people share a pond, does it last longer if they talk and agree a rule first?",
-   "predict": "Guess first. In which game will the pond last longer: the silent game, or the game where you talk first? Will anyone end up with more fish in one game? Why do you think so?",
+   "predict": "Guess first. In which game will the pond last longer: the silent game, or the game where you talk first? Will players catch more fish in one game than in the other? Why do you think so?",
    "fair_test": "Play both games with the same people, the same 20 fish, the same limit on how many each player may take (2 players: up to 8; 3 players: up to 6; 4 players: up to 5), and the same 6 rounds. In both games, every player tries to end up with as many fish as they can. Only one thing changes: in the second game, players may talk and agree a rule before they choose. Everyone still writes their choice in secret, so nobody is forced.",
    "results_table": [
     "Game",
@@ -574,13 +574,13 @@
      "what": "Guess first. Play the silent game for up to 6 rounds, then the talking game for 6 rounds. Fill in the table and compare the two games."
     }
    ],
-   "record": "Fill in the results table for both games. Add up how many fish each player caught in each game. Draw a line for each game, showing the fish in the pond after each round.",
+   "record": "Fill in the results table for both games. Add up how many fish each player caught in each game. Draw a line graph with one line for each game, showing the fish in the pond after each round.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the Shared Pond Test. You learn the rules and make your guess.",
-     "do": "1. Count the players (2 to 4). Write their limit in the notebook: 8 fish a round for 2 players, 6 for 3, 5 for 4. 2. Put 20 chana in the bowl. Keep the rest as a spare pile. 3. Give each player 12 slips and a pencil. 4. Read the rules aloud. 5. Write your child's guess and reason.",
+     "do": "1. Count the players (2 to 4). Write the limit for each player in the notebook: 8 fish a round for 2 players, 6 for 3, 5 for 4. 2. Put 20 chana in the bowl. Keep the rest as a spare pile. 3. Give each player 12 slips and a pencil. 4. Read the rules aloud. 5. Write your child's guess and reason.",
      "say": "These 20 chana are fish in a pond we all share. Each round, you secretly write how many fish you take, from 0 up to our limit. Then the fish left in the pond have babies, so the number doubles. But the pond can never hold more than 20. If it ever reaches 0, no fish are left to have babies. Your aim is to catch as many fish as you can. Which game will last longer, silent or talking? Why?",
      "kid": "The chana are fish. Each round, write how many you take, from 0 up to the limit. The fish left will double. The pond holds 20 at most. Guess: will the silent game or the talking game last longer? Why?",
      "ask": [
@@ -592,13 +592,13 @@
        ]
       }
      ],
-     "parent": "The limits keep the test fair for the number of players: the most any group can take in one round is about the whole pond. Write the guess down before you start, because a wrong guess is a useful result too."
+     "parent": "The limit changes with the number of players. This way, in any group, the players together can take about the whole pond in one round. Write the guess down before you start, because a wrong guess is a useful result too."
     },
     {
      "id": "s2",
      "mins": 8,
      "context": "This is the silent game of the Shared Pond Test. Nobody may speak until it ends.",
-     "do": "1. Each round, every player writes a number from 0 to the limit on a slip, folds it and puts it down. 2. Open the slips together. 3. Each player takes that many fish. If there are not enough, take turns picking one fish at a time, youngest first, until the pond is empty. 4. Count the fish left, double them, and add fish from the spare pile, up to 20. 5. Your child writes the round in the table. 6. Play 6 rounds, or stop when the pond is empty.",
+     "do": "1. Each round, every player writes a number from 0 to the limit on a slip, folds it and puts it down. 2. Open the slips together. 3. Each player takes that many fish. If there are not enough, take turns picking one fish at a time, youngest first, until the pond is empty. 4. Count the fish left. Add fish from the spare pile until the pond has double that number, but never more than 20. 5. Your child writes the round in the table. 6. Play 6 rounds, or stop when the pond is empty.",
      "say": "No talking in this game. Write your number and fold the slip. Ready? Open them. How many fish are left? Double them. That is the pond for the next round.",
      "kid": "No talking. Write your number. Fold it. Open together. Take your fish. Count what is left, then double it.",
      "parent": "Grown-ups should really try to catch the most fish for themselves, as they would in any game. Do not hold back to help the child win, or the test will not be fair. With 4 players taking 5 each, the pond usually empties in one or two rounds. With 2 players it may last a few rounds more. If your pond lasts all 6 rounds, that is a real result: ask why later.",
@@ -638,22 +638,22 @@
        ]
       }
      ],
-     "parent": "Let your child lead the talk if they can. Do not give them the answer. If nobody sees it, ask: 'If 10 fish stay in the pond, how many will there be after doubling?' A rule usually sounds like: 'We take 10 fish in all each round at most.' That is 5 each for 2 players, 3 each for 3 players and 2 each for 4 players. Some families also choose a person to count the pond after each round."
+     "parent": "Let your child lead the talk if they can. Do not give them the answer. If nobody sees it, ask: 'If 10 fish stay in the pond, how many will there be after doubling?' A rule usually sounds like: 'All of us together take at most 10 fish each round.' That is 5 each for 2 players, 3 each for 3 players and 2 each for 4 players. Some families also choose a person to count the pond after each round."
     },
     {
      "id": "s5",
      "mins": 9,
      "context": "This is the talking game of the Shared Pond Test. You play with the rule you agreed.",
-     "do": "1. Play 6 rounds exactly as before: secret slips, open together, take fish, double what is left. 2. Players may now talk between rounds too. 3. Your child writes each round in the table.",
-     "say": "Same rules as before, but now we have our rule. Still write your number in secret. Did everyone keep the rule this round?",
-     "kid": "Same game. Write your number in secret. Did everyone keep the rule?",
+     "do": "1. Play 6 rounds exactly as in the silent game: secret slips, open together, take fish, double what is left. 2. Players may now talk between rounds too. 3. Your child writes each round in the table.",
+     "say": "We play the same way as in the silent game, but now we have the rule we agreed. Still write your number in secret. Did everyone keep the rule this round?",
+     "kid": "Play the same way as in the silent game. Write your number in secret. Did everyone keep the rule?",
      "parent": "Grown-ups still try to catch as many fish as they can, but they may now keep or break the rule as they really would. If someone breaks it, let the players talk about it. That is part of the test."
     },
     {
      "id": "s6",
      "mins": 5,
      "context": "This is the last step of the Shared Pond Test. You compare the two games and explain what you found.",
-     "do": "1. Each player counts their fish from the talking game. 2. Compare both tables. 3. Ask your child for a claim, the evidence and a reason. 4. Compare with the guess from the start.",
+     "do": "1. Each player counts their fish from the talking game. 2. Compare both tables. 3. Ask your child what they think happened, what they saw, and why. 4. Compare with the guess from the start.",
      "say": "In which game did the pond last longer? In which game did each of us catch more fish? What changed between the two games? Was your guess right?",
      "kid": "Which pond lasted longer? When did you catch more fish? What was different? Was your guess right?",
      "ask": [
@@ -859,10 +859,10 @@
        ]
       }
      ],
-     "parent": "A card often passes through a post box collector, a sorting office, a mail van or a train, another sorting office and a delivery person. That is at least five people, all paid from the stamp and from taxes.",
+     "parent": "A card often passes through a post box collector, a sorting office, a mail van or a train, another sorting office and a delivery person. That is at least five people. They are all paid from the price of the stamp and from taxes.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi, a girl in Class 4, posts a card in Madurai on Monday. It reaches her aunt in Kochi on Thursday. How many days did it take?",
+      "q": "A card is posted in Madurai on Monday. It reaches Kochi on Thursday. How many days did it take?",
       "options": [
        "2 days",
        "3 days",
@@ -919,7 +919,7 @@
      "id": "s1",
      "mins": 6,
      "context": "This is a short activity to start the unit. You list the helpers your home depends on.",
-     "do": "1. Ask your child to think about yesterday, from waking up to bedtime. 2. List every person whose work they used, seen or unseen. 3. Write each one down.",
+     "do": "1. Ask your child to think about yesterday, from waking up to bedtime. 2. List every person whose work they used, whether they saw the person or not. 3. Write each one down.",
      "say": "Who brought the milk packet? Who collected the garbage? Who sent the water to our taps? Who drove the bus? Let's write every one.",
      "kid": "Think about yesterday. Who brought the milk? Who took the garbage? Who sent the water? Write each one.",
      "parent": "Help your child think of people they never see: the person who fills the gas cylinder, the electricity lineman, the farmer, the water board worker. Most families reach 15 to 25 people."
@@ -933,14 +933,14 @@
      "kid": "Draw five boxes. Put each helper in a box. Which box is fullest?",
      "check": {
       "t": "mcq",
-      "q": "Selvi akka is the caretaker of a building. She switches on the motor that pumps water to the tank on the roof. Which box does she go in?",
+      "q": "The caretaker of a building switches on the motor that pumps water to the tank on the roof. Which box does the caretaker go in?",
       "options": [
        "Food",
        "Water",
        "Messages and things"
       ],
       "a": 1,
-      "why": "She brings water to every flat, so she goes in the water box. Some helpers fit more than one box. A strong sorter says why."
+      "why": "The caretaker brings water to every flat, so the caretaker goes in the water box. Some helpers fit more than one box. A strong sorter says why."
      }
     },
     {
@@ -1113,7 +1113,7 @@
      "kid": "Stick the card by the door. Why only call in a real emergency?",
      "ask": [
       {
-       "q": "Why only in a real emergency?",
+       "q": "Why must we call these numbers only in a real emergency?",
        "good": [
         "Someone else might need the ambulance at the same time."
        ]
@@ -1238,7 +1238,7 @@
      "kid": "Why is each rule there? What if nobody kept it? Who checks?",
      "check": {
       "t": "mcq",
-      "q": "Nandini, a girl in Class 4, lives in a building where the lift says 'No more than 6 people'. Why is the rule there?",
+      "q": "A sign in a lift says 'No more than 6 people'. Why is the rule there?",
       "options": [
        "So the lift is not too heavy to carry safely",
        "So the lift is more fun",
@@ -1295,13 +1295,13 @@
      "context": "This is the first step of the Public Services Map. You draw what is near your home.",
      "do": "1. Draw your home in the middle of the paper. 2. Mark each public service you know nearby. Look for a school, a health centre, the post office and the police station. Add the fire station, the ration shop, the bus stop and the park. 3. Draw a small sign for each.",
      "say": "Where is the nearest government health centre? The post office? The fire station? Let's mark how far each one is.",
-     "kid": "Draw your home in the middle. Mark the school, the hospital, the post office and more. Draw a sign for each."
+     "kid": "Draw your home in the middle. Mark the school, the health centre, the post office and more. Draw a sign for each."
     },
     {
      "id": "s2",
      "mins": 8,
      "context": "This is the last step of the Public Services Map.",
-     "do": "Write the walking minutes or the kilometres next to each one. Talk about which you would need first in an emergency.",
+     "do": "Write the walking minutes or the kilometres next to each service. Talk about which you would need first in an emergency.",
      "say": "Which service is farthest? Which would we need first if someone was badly hurt?",
      "kid": "How far is each one? Which would you need first in an emergency?",
      "think": "Who pays for all these services?"
@@ -1385,8 +1385,8 @@
      "mins": 20,
      "context": "This is the first day of the Corridor Plant project. You agree how to share the care of one plant.",
      "do": "1. Choose one plant that several people pass every day. 2. Meet with the others who will share it. 3. Agree a rule together, for example 'one mug of water when the soil is dry, one person each day'. 4. Make a turn list with the days and names, and a box to tick.",
-     "say": "This plant belongs to all of us. If nobody waters it, it dries out. If everyone waters it, it drowns. What rule should we make?",
-     "kid": "Many people share this plant. Too little water dries it. Too much drowns it. Make a rule together.",
+     "say": "This plant belongs to all of us. A plant nobody waters dries out. A plant everyone waters drowns. What rule should we make?",
+     "kid": "Many people share this plant. Too little water dries the plant out. Too much drowns the plant. Make a rule together.",
      "parent": "If there are no neighbours' children, share the plant within the family: each person has a day. The point is to see whether a shared plant does well with a rule and a list."
     },
     {
@@ -1463,7 +1463,7 @@
      "mins": 12,
      "context": "This is the planning step of the Fair Water challenge.",
      "do": "Write a rule in three parts: what each flat may do, who checks, and what happens if someone breaks it.",
-     "say": "Remember the pond. What made it last? Who will check our water rule?",
+     "say": "In the Shared Pond Test, what made the pond last? Who will check our water rule?",
      "kid": "Write the rule. Who checks? What if someone breaks it?",
      "parent": "Ostrom found that rules last better when the users make them, someone checks them, and the first cost of breaking them is small."
     },
@@ -1472,7 +1472,7 @@
      "mins": 8,
      "context": "This is the last step of the Fair Water challenge.",
      "do": "Read the rule aloud to the family. Ask each person whether it is fair to their flat.",
-     "say": "Imagine you live on the top floor. Is the rule fair to you? And if you live on the ground floor?",
+     "say": "Suppose you live on the top floor. Is the rule fair to you? And if you live on the ground floor?",
      "kid": "Read your rule aloud. Is it fair to the top floor? To the ground floor?",
      "think": "Which part of your rule would be hardest to check?"
     }
@@ -1526,7 +1526,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "context": "This is the design step of the challenge.",
+     "context": "This is the design step of the Make a Helper's Work Easier challenge.",
      "do": "Draw your idea. Make it, if it needs making.",
      "say": "What could we change at our door to help?",
      "kid": "Draw your idea. Make it if you can."
@@ -1535,7 +1535,7 @@
      "id": "s3",
      "mins": 8,
      "adult": true,
-     "context": "This is the last step of the challenge.",
+     "context": "This is the last step of the Make a Helper's Work Easier challenge.",
      "do": "With a grown-up, show the helper your change and ask whether it helps.",
      "say": "Would this make your work easier? Is there something else we could do?",
      "kid": "Show the helper. Ask if it helps.",
@@ -1595,7 +1595,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi, a girl in Class 4, says a sweeper's work is less important than a doctor's. What would happen if no sweeper came to her street for a month?",
+   "p": "Some people say a sweeper's work is less important than a doctor's. What would happen if no sweeper came to a street for a month?",
    "opts": [
     "Nothing would change",
     "Garbage would pile up, drains would block, and people could fall ill",
@@ -1619,7 +1619,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya, a girl in Class 4, sees smoke coming from the flat below. Which number should she call?",
+   "p": "You see smoke coming from the flat below. Which number should you call?",
    "opts": [
     "1098",
     "112",
@@ -1638,7 +1638,7 @@
     "A song on the radio"
    ],
    "a": 1,
-   "why": "Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but your listening does not leave less song for anyone.",
+   "why": "Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but when you listen to it there is no less of the song for anyone else.",
    "outcome": 3
   },
   {
@@ -1683,17 +1683,17 @@
    "t": "mcq",
    "p": "Some people say a shared pond will always be emptied. What reason do they give?",
    "opts": [
-    "Because each person gets the whole gain from taking more, but shares the loss with everyone",
+    "Because a person who takes more keeps all of the extra, but the loss is spread over everyone",
     "Because people do not like fish",
     "Because ponds dry up in summer"
    ],
    "a": 0,
-   "why": "Each person gets all the gain from taking one more fish, but the loss is shared by everyone. So each keeps taking. Villages with good rules show this does not always happen.",
+   "why": "A person who takes one more fish keeps that whole fish, but the loss is spread over everyone. So each person keeps taking. Villages with good rules show this does not always happen.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 3, lives in a building where 8 families share one terrace to dry clothes. The lines are always full by 9 a.m. Which rule is most likely to work?",
+   "p": "In one building, 8 families share one terrace to dry clothes. The lines are always full by 9 a.m. Which rule is most likely to work?",
    "opts": [
     "The family on the top floor decides alone",
     "The families agree two lines for each flat, and the caretaker checks",
@@ -1749,7 +1749,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Class 4, lives in a flat that gets water from the city's water board. What kind of service is this?",
+     "p": "A flat gets its water from the city's water board. What kind of service is this?",
      "a": 1,
      "why": "The water board is run by the city government for everyone, so it is a public service. A strong answer says who it is for.",
      "opts": [
@@ -1850,7 +1850,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya, a girl in Class 3, buys a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?",
+     "p": "You buy a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?",
      "a": 2,
      "why": "Taxes go to the government, which uses them for public services. That is how a child buying a notebook helps pay for schools and roads.",
      "opts": [
@@ -1935,7 +1935,7 @@
      "t": "mcq",
      "p": "A building has 12 flats sharing one water tank. Every flat says, \"I only take my share.\" Yet the tank is empty by afternoon. What is the most likely reason?",
      "a": 1,
-     "why": "Each flat's share seemed small, but all the shares added up to more than the tank holds. This is just what happens in a silent pond game.",
+     "why": "Each flat's share seemed small, but all the shares added up to more than the tank holds. The same thing happens in the silent game of the Shared Pond Test.",
      "opts": [
       "The lorry brought no water",
       "Each flat's share added up to more than the tank holds",
@@ -1951,7 +1951,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three people talk about the village pond in a village near Thanjavur.",
+     "p": "Three people talk about the pond in a village near Thanjavur.",
      "a": "A strong answer picks one view, gives a reason, and says what another view has right. For example: the panchayat can make fair rules for the whole village, but the fisherwoman is right that the people who use the pond know it best.",
      "why": "Each view has truth. Ostrom found that rules made by the users often work best, but a government can help when users cannot agree.",
      "views": [
@@ -2147,7 +2147,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In the silent game, everyone took 5 fish and the pond ran out. Nobody was trying to empty it. Write why it still ran out, in your own words.",
+     "p": "In a silent game of the Shared Pond Test, four players each took 5 fish and the pond ran out. Nobody was trying to empty it. Write why it still ran out, in your own words.",
      "a": "Each player only thought about their own fish. Nobody could see what the others would take. Together they took 20, so nothing was left to breed.",
      "why": "A strong answer says that each choice was small, but all the choices added together were too many.",
      "lines": 4,
@@ -2173,7 +2173,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun, a boy in Class 3, plays the pond game with 4 players. They agree 'each takes 2 fish'. Then one player secretly takes 5. The pond starts the round with 20. How many fish are left after the round, before doubling?",
+     "p": "Four players play the pond game. They agree 'each takes 2 fish'. Then one player secretly takes 5. The pond starts the round with 20. How many fish are left after the round, before doubling?",
      "a": 1,
      "why": "Three players take 2 each, which is 6, and one takes 5. 6 and 5 make 11. 20 take away 11 is 9. Then 9 doubles to 18, so the pond is a little lower. If this happens every round, the pond slowly shrinks.",
      "opts": [
@@ -2245,14 +2245,14 @@
     },
     {
      "t": "draw",
-     "p": "Draw your building or street as a pond. Draw the shared things in it, such as the tank, the lift and the park, and the people who use them. Add one rule for each.",
+     "p": "Draw your building or street. Draw the shared things in it, such as the tank, the lift and the park, and the people who use them. Add one rule for each shared thing.",
      "a": "A drawing of the building with its shared things, the people who use them and one rule for each.",
      "why": "A strong drawing shows at least three shared things, with a rule that says who may use each and how much.",
      "how": "a5"
     },
     {
      "t": "write",
-     "p": "Many people think a job is 'small' if it is done with the hands. Use your helper interview to argue against this.",
+     "p": "Many people think a job is 'small' if it is done with the hands. Use what you learned in Meet a Helper to argue against this.",
      "a": "For example: the presswala told me he learned for years, and his iron is heavy and hot. If he did not come, our clothes would not be ready for school.",
      "why": "A strong answer uses something the helper really said, names the skill the job needs, and says who depends on it.",
      "lines": 5,
@@ -2301,11 +2301,11 @@
     },
     {
      "t": "mcq",
-     "p": "Gauri, a girl in Class 4 in Pune, says, \"Public services are free.\" What is the best answer to her?",
+     "p": "Someone says, \"Public services are free.\" What is the best answer?",
      "a": 2,
      "why": "Using them is free or cheap, but they cost money to run. That money comes from taxes, which almost everyone pays, for example through GST on things they buy.",
      "opts": [
-      "She is right, they cost nothing",
+      "That is right, they cost nothing",
       "Only rich people pay for them",
       "They are free to use, but everyone pays for them through taxes"
      ]
@@ -2369,7 +2369,7 @@
   },
   {
    "q": "Why do some people keep a rule when nobody is watching?",
-   "why_open": "Some scientists say it is trust, some say it is habit or wanting to be seen as fair. Studies find all of these matter, but not how much each one does."
+   "why_open": "Some scientists say it is trust. Some say it is habit, or wanting to be seen as fair. Studies find that all of these matter, but nobody knows how much each one matters."
   },
   {
    "q": "Which jobs will people still do in fifty years?",
@@ -2428,7 +2428,7 @@
  ],
  "maths": [
   {
-   "problem": "In the Shared Pond Test, the pond holds at most 20 fish. Fill in what the pond will have after doubling, if 4, 7, 10 and 13 fish are left.",
+   "problem": "In the Shared Pond Test, the pond holds at most 20 fish. How many fish will the pond have after doubling if 4 fish are left? If 7 are left? If 10? If 13?",
    "answer": "4 becomes 8. 7 becomes 14. 10 becomes 20. 13 would be 26, but the pond holds only 20, so it becomes 20.",
    "explain": "Doubling means adding a number to itself: 4 and 4 make 8, 7 and 7 make 14, 10 and 10 make 20. 13 and 13 make 26, which is more than 20, so the pond stops at 20. So any number from 10 up refills the pond.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2437,7 +2437,7 @@
    "how": "e1"
   },
   {
-   "problem": "In the silent game, 4 players caught these fish in all: Amma 6, Paati 5, Karthik 5 and Revathi 5. In the talking game, each caught 12. How many more fish did the family catch in all in the talking game?",
+   "problem": "In the story The Tank on the Roof, Revathi's family played the pond game twice. In the silent game they caught these fish in all: Amma 6, Paati 5, Karthik 5 and Revathi 5. In the talking game, each of the 4 players caught 12. How many more fish did the family catch in all in the talking game?",
    "answer": "27 more fish. The silent game gave 21 fish, and the talking game gave 48.",
    "explain": "Silent game: 6 + 5 + 5 + 5 = 21. Talking game: 4 players times 12 is 48. 48 take away 21 is 27. So holding back each round gave everyone more in the end.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2454,12 +2454,12 @@
    "why_maths": "Dividing the tank fairly tells each flat what its share is, so everyone can see when someone takes more."
   },
   {
-   "problem": "Revathi posts a postcard on the 3rd of the month. It arrives on the 7th. Her cousin's card to a far town arrives on the 10th. How many more days did the far card take?",
-   "answer": "3 more days. Revathi's card took 4 days, and the far card took 7.",
+   "problem": "A postcard is posted on the 3rd of the month. It arrives on the 7th. A second card, posted on the same day to a far town, arrives on the 10th. How many more days did the far card take?",
+   "answer": "3 more days. The first card took 4 days, and the far card took 7.",
    "explain": "From the 3rd to the 7th is 4 days. From the 3rd to the 10th is 7 days. 7 take away 4 is 3. The far card travelled further and went through more sorting offices.",
    "math_unit": "math.time.calendar.L3",
    "context": "This is about the Postcard Test, where you count the days a card takes to arrive.",
-   "why_maths": "Counting days on a calendar turns two dates into a time you can compare between cards.",
+   "why_maths": "Counting the days between two dates gives a number you can compare from one card to another.",
    "how": "e2"
   },
   {
@@ -2611,13 +2611,13 @@
  "roots": {
   "context": "We have met the helpers who keep our neighbourhood going, and tested a shared pond in silence and after talking. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the silent game, each player took a lot, and the pond was empty within a few rounds. In the talking game, you agreed a rule, and the pond stayed full to the end. Each player also caught more fish in all. So a shared thing can last when the people who use it make rules together.",
-   "habit": "We split things into 'mine' and 'nobody's'. We look after what is ours, and think a shared thing is nobody's job, so it is bound to be spoiled. The pond showed a third kind: a thing that is ours together, and lasts when we act together.",
+   "truth": "In the silent game of the Shared Pond Test, each player took a lot, and the pond was empty within a few rounds. In the talking game, you agreed a rule, and the pond stayed full to the end. Each player also caught more fish in all. So a shared thing can last when the people who use it make rules together.",
+   "habit": "We split things into 'mine' and 'nobody's'. We look after what is ours, and think a shared thing is nobody's job, so it is bound to be spoiled. The Shared Pond Test showed a third kind: a thing that is ours together, and lasts when we act together.",
    "evidence": "In the Shared Pond Test, the pond ran out quickly when players chose in silence, and lasted when they talked and agreed a limit first. Ostrom's studies found village meadows, water channels and forests kept for centuries in the same way."
   },
   "three": {
    "who_am_i": "You are one of many people who use the same water, roads and air. What you take, and what you leave, reaches all of them.",
-   "what_is_life": "Life in a community is always shared: the work of many hands, and the things that many people use.",
+   "what_is_life": "Life in a community is shared. We live on the work of many people, and on things that many people use.",
    "what_is_this_world": "It is a world where the same tank can run dry or last, depending on what the people around it agree."
   },
   "thread": "A pond is one body of water, but many families drink from it. Each family has its own bucket and its own wants. When they talk and agree a rule, they stop taking separately and begin taking as a group, and the pond can feed all of them. A community is many people learning to act together.",
@@ -2625,7 +2625,7 @@
    {
     "source": "Tirukkural 215",
     "teaching": "The wealth of a wise person who loves the world is like the village tank, the ooruni, full of water: everyone can drink from it.",
-    "link": "Valluvar picked the shared village tank as his picture of good wealth. A full tank is good because it is open to everyone, which only lasts if everyone takes care of it."
+    "link": "Valluvar picked the shared village tank as his picture of good wealth. A full tank is good because it is open to everyone. It stays full only if everyone takes care of it."
    },
    {
     "source": "Rig Veda 10.191.2",
@@ -2660,8 +2660,8 @@
   },
   "ask": [
    "Is a shared pond owned by everyone, or by no one?",
-   "If you took fewer fish so the pond would last, did you lose something or gain something?",
-   "Can a whole city agree a rule, the way your family did?"
+   "In the Shared Pond Test, if you took fewer fish so the pond would last, did you lose something or gain something?",
+   "Can a whole city agree a rule, the way your family did in the Shared Pond Test?"
   ],
   "art": "Families of different ages sitting in a circle around a full village tank, with the water reflecting all of their faces."
  },

@@ -37,7 +37,7 @@
   {
    "term": "Yearly rhythm",
    "meaning": "A change that repeats about once a year, with the seasons.",
-   "example": "The konrai tree, also called the Indian laburnum, covers itself in yellow flowers around April each year.",
+   "example": "The konrai tree, also called the Indian laburnum, is covered in yellow flowers around April each year.",
    "art": "A konrai tree heavy with hanging yellow flowers."
   },
   {
@@ -132,7 +132,7 @@
    "concept": "The body clock inside living things",
    "status": "defined",
    "definition": "A body clock is a timer inside a living thing. It keeps a rhythm of about 24 hours, even in steady darkness. Morning light sets it right each day.",
-   "description": "A bean plant shut in a dark box still lifts their leaves in the morning and lowers them at night. Nothing outside tells them the time, so the timing must come from inside. Scientists call this a circadian rhythm. A body clock is not exact. In steady darkness it runs a little fast or a little slow, so it slowly drifts. Every morning, light resets it, the way you set a watch. The clock is made by genes and the substances they make. These build up and break down in a loop that takes about a day. In 2017, Jeffrey Hall, Michael Rosbash and Michael Young won the Nobel Prize for finding this loop in fruit flies. Plants, fungi, many bacteria and people have clocks too.",
+   "description": "A bean plant shut in a dark box still lifts their leaves in the morning and lowers them at night. Nothing outside tells them the time, so the timing must come from inside. Scientists call this a circadian rhythm. A body clock is not exact. In steady darkness it runs a little fast or a little slow, so it slowly drifts. Every morning, light resets it, the way you set a watch. The clock is made by genes, which are the instructions inside every cell, and the substances they make. These substances build up and break down in a loop that takes about a day. In 2017, Jeffrey Hall, Michael Rosbash and Michael Young won the Nobel Prize for finding this loop in fruit flies. Plants, fungi, many bacteria and people have clocks too.",
    "examples": [
     "Your body is coolest in the early morning, before you wake, and warmest in the late afternoon.",
     "A rooster often crows before the sky gets light.",
@@ -186,7 +186,7 @@
    "concept": "Flowers that open at their own hour",
    "status": "defined",
    "definition": "Many flowers open and close at about the same time each day. Their body clock and the light together set the time.",
-   "description": "A flower's problem is that pollen must reach another flower of the same kind, and most flowers cannot move. So they need visitors, and visitors come at certain hours. Bees work in the day. Many moths fly at night. A flower open at the wrong hour wastes scent and nectar, and can be eaten by a hungry insect that does not carry pollen. So flowers open when their visitors are about. The lotus opens in the early morning and closes again later in the day, for about three days. Jasmine buds open in the evening. Pavazhamalli, the night jasmine, opens at night, and their flowers drop to the ground around dawn. White, sweet-smelling flowers that open at night are often visited by moths. In 1751, the Swedish botanist Carl Linnaeus suggested a 'flower clock': a garden of flowers that open at different hours, so you could tell the time by looking.",
+   "description": "A flower's problem is that pollen must reach another flower of the same kind, and most flowers cannot move. So they need visitors, and visitors come at certain hours. Bees work in the day. Many moths fly at night. A flower open at the wrong hour wastes scent and nectar, and can be eaten by a hungry insect that does not carry pollen. So flowers open when their visitors are about. Each lotus flower opens in the early morning and closes again later in the day, and does this for about three days. Jasmine buds open in the evening. Pavazhamalli, the night jasmine, opens at night, and their flowers drop to the ground around dawn. White, sweet-smelling flowers that open at night are often visited by moths. In 1751, the Swedish botanist Carl Linnaeus suggested a 'flower clock': a garden of flowers that open at different hours, so you could tell the time by looking.",
    "examples": [
     "Malli buds bought in the afternoon open in the evening.",
     "Four o'clock flowers open in the late afternoon. In Tamil they are called andhi mandharai, the evening flower.",
@@ -202,7 +202,7 @@
    "definition": "To migrate is to travel far, at the same time each year, and come back later. Birds migrate to find food and good places to raise their chicks.",
    "description": "A bird's problem in the far north is winter. Lakes freeze, snow covers the ground and insects disappear. A small bird must eat many times a day to stay warm, so staying would mean starving. So many birds fly south to warmer places, such as India, where there is food all winter. In spring they fly back north. There the summer days are very long, with lots of insects and space for nests. So they can feed their chicks for many hours each day. Barn swallows reach India from further north in the cold months, and line up on electric wires. Rosy starlings come from Central Asia and leave in spring. Amur falcons stop in Nagaland on their way from China and Siberia to southern Africa. Butterflies migrate too. In South India, huge numbers of blue tiger and crow butterflies travel between the plains and the Western Ghats each year.",
    "examples": [
-    "Barn swallows on the wires in winter, gone again by summer.",
+    "Barn swallows sit on the wires in winter and are gone again by summer.",
     "Lakhs of Amur falcons rest near the Doyang reservoir in Nagaland in October and November.",
     "Arctic terns fly from the far north to Antarctica and back each year."
    ],
@@ -214,7 +214,7 @@
    "concept": "How birds know when to go",
    "status": "defined",
    "definition": "Birds tell the season mostly by day length. They also have a yearly clock inside them.",
-   "description": "Day length changes the same way every year, so it is a safer signal than the weather. One warm week in winter does not change it. In birds, longer or shorter days change their hormones. Before a journey, they eat much more and store fat for fuel, and they become restless at night. Scientists have a German word for this restlessness, Zugunruhe. The German scientist Eberhard Gwinner kept warblers in a room where the light and warmth stayed the same all year. They still became restless and put on fat at about the times of their journeys. Their clock ran about 10 months instead of 12, so day length is needed to keep it on time. To find the way, birds use the Sun, the stars, the Earth's magnetic field, smells and landmarks.",
+   "description": "Day length changes the same way every year, so it is a safer signal than the weather. One warm week in winter does not change it. In birds, longer or shorter days change their hormones, which are chemical messengers in the body. Before a journey, birds eat much more and store fat for fuel, and they become restless at night. Scientists have a German word for this restlessness, Zugunruhe. The German scientist Eberhard Gwinner kept warblers in a room where the light and warmth stayed the same all year. They still became restless and put on fat at about the times of their journeys. But their yearly clock took about 10 months to go round instead of 12, so day length is needed to keep it on time. To find the way, birds use the Sun, the stars, the Earth's magnetic field, smells and landmarks.",
    "examples": [
     "Before migrating, some small birds nearly double their weight with fat.",
     "Many small birds migrate at night and rest and eat by day.",
@@ -228,7 +228,7 @@
    "concept": "How plants tell the season: day length",
    "status": "defined",
    "definition": "Photoperiodism is the way a plant or animal uses day length to tell the season.",
-   "description": "Many plants flower only when the days reach a certain length. This lets all the plants of one kind flower together, so pollen can pass between them. In 1920, two American scientists, Wightman Garner and Harry Allard, found that one kind of tobacco plant flowered only when the days were short. They grew them in a shed and shortened the days by covering the plants, and they flowered. The plant is really measuring the length of the night. A flash of light in the middle of a long night can stop flowering. Farmers use this. Many rice varieties flower by day length. In Japan, some growers light chrysanthemum fields at night, so the plants flower later, when buyers want them.",
+   "description": "Many plants flower only when the days reach a certain length. This lets all the plants of one kind flower together, so pollen can pass between them. In 1920, two American scientists, Wightman Garner and Harry Allard, found that one kind of tobacco plant flowered only when the days were short. They grew the plants in a shed and covered them to make the days shorter, and the plants flowered. The plant is really measuring the length of the night. A flash of light in the middle of a long night can stop flowering. Farmers use this. Many rice varieties flower by day length. In Japan, some growers light chrysanthemum fields at night, so the plants flower later, when buyers want them.",
    "examples": [
     "Sevanthi, the chrysanthemum, flowers when the nights grow long.",
     "Many traditional rice varieties in India flower at about the same time of year, even when sown at different times.",
@@ -274,15 +274,15 @@
   },
   {
    "text": "Morning light resets the body clock each day.",
-   "evidence": "Shift the times of light and dark, and the plant or animal shifts their rhythm within a few days. This is why jet lag wears off."
+   "evidence": "When scientists shift the times of light and dark, the plant or animal shifts their rhythm within a few days. This is why jet lag wears off."
   },
   {
    "text": "Many birds migrate each year to find food and places to raise chicks.",
-   "evidence": "Rings on birds' legs since 1899, and now tiny trackers, show the same birds flying between the same places year after year."
+   "evidence": "Rings put on birds' legs since 1899, and now tiny trackers, show the same birds flying between the same places year after year."
   },
   {
    "text": "Day length tells many plants and animals the season.",
-   "evidence": "Change only the day length, keeping the warmth the same, and many plants flower and many birds get ready to migrate."
+   "evidence": "When scientists change only the day length and keep the warmth the same, many plants flower and many birds get ready to migrate."
   },
   {
    "text": "Leaves move by a joint at their base, called the pulvinus, where water moves in and out of cells.",
@@ -341,9 +341,9 @@
  ],
  "big_questions": [
   {
-   "q": "Your bean plant lifted their leaves before any light reached them. How could they know morning was coming?",
+   "q": "In the Sleeping Bean Leaves experiment, the plant in the dark box lifted their leaves before any light reached them. How could they know morning was coming?",
    "kind": "deep",
-   "hint": "Think about what had happened to the plant on all the days before the box."
+   "hint": "Think about what happened to the plant on all the days before they went into the dark box."
   },
   {
    "q": "A body clock runs a little too fast or too slow. Why would a living thing need light every morning to set it right?",
@@ -351,7 +351,7 @@
    "hint": "What happens to a watch that gains five minutes a day, if nobody ever sets it?"
   },
   {
-   "q": "A swallow that spends half the year in Russia and half in India: which place is their home?",
+   "q": "A swallow spends half the year in Russia and half in India. Which place is their home?",
    "kind": "big",
    "hint": "Where do they raise chicks? Where do they spend most days? Can a home be two places?"
   },
@@ -606,7 +606,7 @@
    "rules": [
     "Shuffle the cards and deal them all out, face down: 10 each with 2 players, 5 each with 4 players.",
     "On your turn, turn over one of your cards, read the front, put it on the part of the clock where you think it belongs, and say why.",
-    "Then read the back. Right: the card stays on the clock and you make a mark on the score sheet. Wrong: move the card to the right part of the clock, and write the right answer on the score sheet. No mark.",
+    "Then read the back. If you were right, the card stays on the clock and you make a mark on the score sheet. If you were wrong, move the card to the right part of the clock and write the right answer on the score sheet. You get no mark.",
     "Playing alone, place all 20 cards one by one in the same way and count your marks. Next time, try to beat your score.",
     "The game ends when every card is on the clock. The most marks wins. If marks are equal, you share the win."
    ],
@@ -648,9 +648,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count the points and look at the finished clock.",
+     "do": "Count the marks and look at the finished clock.",
      "say": "Look at our clock. Is any part of the day empty?",
-     "kid": "Count your points. Look at the clock. Is any time empty?",
+     "kid": "Count your marks. Look at the clock. Is any time empty?",
      "think": "If every time of day has someone busy, is there ever a quiet moment in nature?"
     }
    ],
@@ -704,7 +704,7 @@
       "Square 21: Land at last! Fly on.",
       "Square 22: Fly on over the coast of Africa.",
       "Square 23: Nearly there. Fly on.",
-      "Square 24: Southern Africa, the finish. You reach it or pass it, and you win."
+      "Square 24: Southern Africa, the finish. If you reach it or pass it, you win."
      ]
     },
     {
@@ -804,7 +804,7 @@
    "rules": [
     "Put every falcon on square 0. Stack the question cards face down, and have one dice ready.",
     "On your turn, another player reads you the front of the top card. Playing alone, read it yourself, think of your answer, then turn it over.",
-    "Right: roll the dice and move that many squares. Wrong: move 1 square. But if you start your turn on a SEA square (12 to 20), a wrong answer sends you back 2 squares instead, because there is nowhere to rest.",
+    "If your answer is right, roll the dice and move that many squares. If it is wrong, move 1 square. But if you start your turn on a SEA square (12 to 20), a wrong answer sends you back 2 squares instead, because there is nowhere to rest.",
     "Then follow the square you land on. A square you are sent back to does nothing. A STORM means you miss your next turn. When the cards run out, shuffle them and use them again.",
     "The first falcon to reach or pass square 24 wins. Playing alone, try to finish in 12 turns or fewer."
    ],
@@ -839,8 +839,8 @@
      "id": "s3",
      "mins": 12,
      "do": "Take turns until a falcon reaches Africa.",
-     "say": "Answer, roll and fly. Careful over the sea.",
-     "kid": "Answer. Roll. Fly! Be careful over the sea."
+     "say": "Answer the question, roll the dice and fly. Be careful over the sea.",
+     "kid": "Answer the question. Roll the dice. Fly! Be careful over the sea."
     },
     {
      "id": "s4",
@@ -972,7 +972,7 @@
      "mins": 8,
      "do": "1. Check both cups at 7 in the morning, 1 in the afternoon, 6 in the evening and 9 at night. 2. Each time, hold the leaf position card beside a leaf. 3. Write flat, half down or hanging down in the table.",
      "say": "Let's watch the leaves through one whole day. What do they do at night?",
-     "kid": "Look at the leaves four times today. Morning, afternoon, evening and night. Are they flat, half down or hanging down? Write it down.",
+     "kid": "Look at the leaves four times today: morning, afternoon, evening and night. Are they flat, half down or hanging down? Write it down.",
      "ask": [
       {
        "q": "What did the leaves do between the evening and night checks?",
@@ -988,7 +988,7 @@
      "id": "s5",
      "mins": 3,
      "do": "1. At 9 at night, after the check, put one cup on its plate in a corner of the same room. 2. Cover it with the box. 3. Make sure no light gets in at the edges.",
-     "say": "Now the test. This cup will not see the night end, or the morning come. Before we close it, what do you think will happen?",
+     "say": "Now the test begins. No light will reach this cup, so the plant cannot see the morning come. Before we close the box, what do you think the leaves will do?",
      "kid": "Put one cup in the corner. Cover it with the box. No light can get in now. What will the leaves do in the morning? Guess, and say why.",
      "check": {
       "t": "mcq",
@@ -999,25 +999,25 @@
        "So both cups stay equally warm, and only the light is different"
       ],
       "a": 2,
-      "why": "In a fair test, only one thing changes. If the box cup were in a cooler room, we could not tell whether the dark or the cold made any difference. Picking 'so we don't forget it' is sensible, but it is not why it makes the test fair."
+      "why": "In a fair test, only one thing changes. If the box cup were in a cooler room, we could not tell whether the dark or the cold made any difference. 'So we don't forget it' is a sensible reason, but it is not what makes the test fair."
      }
     },
     {
      "id": "s6",
      "mins": 6,
      "do": "1. At 7 the next morning, look at the window cup. 2. Then lift the box for 5 seconds, look at the box cup and cover it again. 3. Write both in the table. 4. Do the same at 1 in the afternoon and 9 at night.",
-     "say": "Quickly, before much light gets in. Are the box leaves up or down?",
+     "say": "Look quickly, before much light gets in. Are the leaves in the box up or down?",
      "kid": "Look at the window cup. Now lift the box and peek, very quickly. Are the leaves up or down? Cover it again. Write it down.",
      "check": {
       "t": "mcq",
-      "q": "The box cup has had no light since last night. In the morning, their leaves are flat again. What does this show?",
+      "q": "The plant in the box cup has had no light since last night. In the morning, their leaves are flat again. What does this show?",
       "options": [
        "The plant has a clock inside them that tells them it is morning",
        "Light got into the box",
        "The leaves are tired of hanging down"
       ],
       "a": 0,
-      "why": "No light reached the plant, yet their leaves rose at about the right time. So the timing must come from inside them. This is called a body clock. Picking 'light got in' is a good scientist's doubt. Check your box for gaps, and look again at 9 at night: the leaves should go down in the dark too."
+      "why": "No light reached the plant, yet their leaves rose at about the right time. So the timing must come from inside them. This is called a body clock. 'Light got into the box' is a doubt a good scientist would have. Check your box for gaps, and look again at 9 at night: the leaves should go down in the dark too."
      },
      "parent": "Expect the box leaves to rise in the morning and fall again at night, though often a little less far than the window leaves. If the box leaves stayed down all day, check that the plants are healthy and the soil is damp, and try again with the other cup."
     },
@@ -1025,7 +1025,7 @@
      "id": "s7",
      "mins": 3,
      "do": "1. On the next morning, check both cups once more. 2. Take the box away and put the box cup back by the window.",
-     "say": "Two mornings in the dark. Did the leaves still know? Now the plant can have their light back.",
+     "say": "The plant has had two mornings in the dark. Did the leaves still lift? Now the plant can have light again.",
      "kid": "Check both cups one more time. Then take the box off. Put the cup back by the window.",
      "parent": "A plant can keep this rhythm for several days in darkness, but they cannot make food without light. One or two days in the dark does no harm."
     },
@@ -1034,7 +1034,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the bean plant has a clock inside them. What I saw: in the dark box, the leaves were flat in the morning and hanging down at night, like the window cup. Why: no light reached them, so the timing came from inside the plant. The days on the windowsill had set their clock."
     }
    ],
@@ -1110,7 +1110,7 @@
    "days": 3,
    "question": "Is your body the same warmth all day, or does it change at the same times each day?",
    "predict": "Guess first. When will your body be warmest: just after waking, in the late afternoon, or at bedtime? Why do you think so?",
-   "fair_test": "Use the same digital thermometer, in the same place on your body, each time. Measure after sitting or lying still for 15 minutes (the waking reading is taken lying in bed, before getting up), not after running, a bath or a hot meal. Measure at the same three times on three days, because one reading can be a fluke.",
+   "fair_test": "Use the same digital thermometer, in the same place on your body, each time. Sit or lie still for 15 minutes before each measurement. Do not measure just after running, a bath or a hot meal. Take the waking reading lying in bed, before getting up. Measure at the same three times on three days, because one reading can be a fluke.",
    "results_table": [
     "Day",
     "Just after waking (°C)",
@@ -1191,7 +1191,7 @@
        "The child had a fever every afternoon"
       ],
       "a": 1,
-      "why": "In most people, the body is coolest in the early morning and warmest in the late afternoon or evening, by about half a degree. The body clock runs this rhythm. A fever is much bigger, usually above 38 °C. Picking 'broken thermometer' is a fair doubt, which is why we measured on three days."
+      "why": "In most people, the body is coolest in the early morning and warmest in the late afternoon or evening, by about half a degree. The body clock runs this rhythm. A fever is much bigger, usually above 38 °C. 'The thermometer is broken' is a fair doubt, which is why we measured on three days."
      },
      "parent": "Most people find their morning reading lowest and their late afternoon or evening reading highest, by about 0.3 to 0.6 °C. Underarm readings jump about more. If your numbers show no pattern, that is real data too. Talk about what could have made the readings jump."
     },
@@ -1200,7 +1200,7 @@
      "mins": 5,
      "do": "Ask your child to say or write what they think, what they saw and why.",
      "say": "Tell me three things. What do you think now? What did you see? Why did it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: my body has a daily rhythm of warmth. What I saw: on two of three days, I was coolest just after waking and warmest at 5 pm. Why: my body clock warms my body in the day, when I am active, and cools it at night for sleep."
     }
    ],
@@ -1298,7 +1298,7 @@
      "do": "1. Buy jasmine buds in the afternoon, closed and white or pale green. 2. Count 20 buds. 3. Lay 10 on a damp cloth on a plate. 4. Lay 10 on a damp cloth in a steel dabba and close the lid. 5. Put both side by side on a table.",
      "say": "Flower sellers sell jasmine as buds in the afternoon. Let's find out exactly when they open, and whether they need light to do it.",
      "kid": "Count 20 buds. Put 10 on a damp cloth on a plate. Put 10 in the dabba and close the lid. Put them side by side.",
-     "parent": "Choose buds that are still tightly closed. Fully open flowers in the afternoon will spoil the count.",
+     "parent": "Choose buds that are still tightly closed. Flowers that are already open in the afternoon will spoil the count.",
      "context": "This is the first step of the malli buds experiment. You watch jasmine buds through one evening, to see when they open and whether darkness changes it."
     },
     {
@@ -1341,7 +1341,7 @@
      "mins": 5,
      "do": "Ask your child to say or write what they think, what they saw and why.",
      "say": "What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer gives the times. For example: by 4 pm no buds were open, by 8 pm seven of ten on the plate were open. Then it compares the dabba. If the dabba buds opened on time too, the timing came from inside the buds. If they opened later or less, the evening light may matter. Both are honest results."
     }
    ],
@@ -1444,9 +1444,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Look at the clues that came from living things, and ask the question for the unit.",
-     "say": "Your tummy knew it was nearly lunch. The crows knew it was evening. None of them looked at a clock. So how do living things know the time?",
-     "kid": "Your tummy and the crows knew the time. They have no clock to look at. How do they know?",
+     "do": "Look at the clues that came from living things. Then ask the unit's main question: how do living things know the time?",
+     "say": "Some of your clues came from living things, such as a hungry tummy or crows calling. None of them looked at a clock. So how do living things know the time?",
+     "kid": "Some of your clues came from living things, like your tummy and the crows. They have no clock to look at. How do they know the time?",
      "think": "Could a plant know the time? How could we test it?"
     }
    ],
@@ -1495,16 +1495,16 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Read your child this list. Lotus opens in the early morning. Four o'clock flowers open in the late afternoon. Jasmine opens in the evening. Pavazhamalli opens at night and falls at dawn. Brahma kamal opens late at night.",
-     "say": "In 1751, a Swedish botanist called Carl Linnaeus had an idea. He said you could tell the time by which flowers were open. Let's make one.",
+     "say": "In 1751, a Swedish botanist called Carl Linnaeus had an idea. He said you could tell the time by which flowers were open. Let's make a flower clock.",
      "kid": "Some flowers open at their own hour. Lotus in the morning. Jasmine in the evening. Let's make a clock of flowers.",
      "context": "This is the first step of making a flower clock. Some flowers open at about the same hour each day, so a clock can be made from them."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Draw a big circle and split it into day and night. 2. Draw each flower at the time it opens. 3. Add a sun at the top of the day side and a moon on the night side.",
+     "do": "1. Draw a big circle and split it into day and night. 2. Draw each flower at the time they open. 3. Add a sun at the top of the day side and a moon on the night side.",
      "say": "Put the lotus near sunrise and the jasmine at evening. Where does the pavazhamalli go?",
-     "kid": "Draw each flower at its time. Lotus near sunrise. Jasmine in the evening. Where does pavazhamalli go?",
+     "kid": "Draw each flower at the time they open. Lotus near sunrise. Jasmine in the evening. Where does pavazhamalli go?",
      "adult": false
     },
     {
@@ -1586,7 +1586,7 @@
      "kid": "Put the people in order of age. Who wakes earliest? Who wakes latest?",
      "check": {
       "t": "mcq",
-      "q": "Scientists have found that most teenagers' body clocks run later than younger children's and grandparents'. What would that look like?",
+      "q": "Scientists have found that the body clocks of most teenagers run later than those of younger children and grandparents. What would you expect to see?",
       "options": [
        "Teenagers feel sleepy later at night, and find early mornings hard",
        "Teenagers need no sleep",
@@ -1637,7 +1637,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. In red, draw the Amur falcon's journey. Start in eastern Russia and China. 2. Draw the arrow to Nagaland, in north-east India, for October. 3. Carry it on across the Arabian Sea to southern Africa. 4. Draw a dotted arrow back for spring.",
+     "do": "1. In red, draw the Amur falcon's journey. Start in eastern Russia and China. 2. Draw an arrow from there to Nagaland, in north-east India, and write 'October' beside it. 3. Carry the arrow on across the Arabian Sea to southern Africa. 4. Draw a dotted arrow back for spring.",
      "say": "Amur falcons are small falcons. They rest in Nagaland in October, then fly about 4,000 kilometres over the sea to Africa.",
      "kid": "Draw the Amur falcon's journey in red. From China, to Nagaland, over the sea to Africa. Then a dotted line back.",
      "context": "This is the first step of mapping three animal journeys. Each journey happens at the same time every year."
@@ -1660,7 +1660,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Talk about what the three journeys have in common.",
-     "say": "All three journeys come at the same time every year. What tells them when?",
+     "say": "All three journeys happen at the same time every year. What tells the animals when to go?",
      "kid": "All three go at the same time every year. What tells them when to go?",
      "check": {
       "t": "mcq",
@@ -1725,7 +1725,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Visit again in the afternoon or evening, and draw the same flowers.",
-     "say": "Same flowers, later in the day. What has changed?",
+     "say": "These are the same flowers, later in the day. What has changed?",
      "kid": "Draw the same flowers again. What changed?",
      "adult": true
     },
@@ -1777,7 +1777,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the four sheets on the floor in a circle. 2. Your child is the swallow, standing on 'North: summer'. 3. A grown-up holds the torch high and steady, for long summer days.",
+     "do": "1. Put the four sheets on the floor in a circle. 2. Your child is the swallow, standing on 'North: summer'. 3. A grown-up holds the torch high and steady, to show the long summer days.",
      "say": "You are a barn swallow in the north in summer. The days are long and full of insects. Catch flies and feed your chicks.",
      "kid": "You are a swallow. It is summer in the north. Long days. Lots of insects. Flap and catch flies!",
      "context": "This is the first step of an act-out of a barn swallow's year. You move round four signs on the floor as the seasons change."
@@ -1785,7 +1785,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. The grown-up lowers the torch and switches it off more often, for shorter days. 2. Your child eats more, then flies to 'Flying south', then to 'India: winter'.",
+     "do": "1. The grown-up lowers the torch and switches it off more often, to show the days getting shorter. 2. Your child pretends to eat more, then flies to 'Flying south', then to 'India: winter'.",
      "say": "The days are getting shorter. Your body knows. You eat and eat, then you fly south.",
      "kid": "The days get shorter. Eat lots! Now fly south. Land on the wires in India."
     },
@@ -1793,7 +1793,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. The grown-up makes the days long again. 2. Your child flies north. 3. Ask the check question.",
-     "say": "Spring. The days grow longer. Back to the north, to nest.",
+     "say": "It is spring. The days grow longer. Fly back to the north, to nest.",
      "kid": "The days get longer. Fly back north. Build a nest.",
      "check": {
       "t": "mcq",
@@ -1847,7 +1847,7 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Second entry, on the same day of the week, at the same time."
+     "what": "Write the second entry, on the same day of the week, at the same time."
     },
     {
      "day": 14,
@@ -1857,7 +1857,7 @@
     {
      "day": 28,
      "mins": 15,
-     "what": "Last entry. Read all four, and write what changed and what stayed the same."
+     "what": "Write the last entry. Then read all four, and write what changed and what stayed the same."
     }
    ],
    "record": "Four dated entries, each with the time the streetlights came on and the living things seen or heard. A last page saying what changed.",
@@ -1874,8 +1874,8 @@
      "id": "s2",
      "mins": 20,
      "do": "Each week, on the same day and at the same time, write a new entry the same way.",
-     "say": "Same window, same time. What's new? What has gone?",
-     "kid": "Same window, same time. What is new this week? What has gone?",
+     "say": "This is the same window at the same time. What is new this week? What has gone?",
+     "kid": "This is the same window at the same time. What is new this week? What has gone?",
      "wait": "Come back next week, and the week after."
     },
     {
@@ -1893,11 +1893,11 @@
        "The Sun is getting smaller"
       ],
       "a": 0,
-      "why": "Streetlights switch on when it gets dark. If that happens earlier, sunset is earlier and the days are getting shorter. This is the same change birds and plants read. 'Broken' is a fair doubt, so check the sunset time in a newspaper or on a phone too."
+      "why": "Streetlights switch on when it gets dark. If that happens earlier, sunset is earlier and the days are getting shorter. This is the same change birds and plants read. 'The streetlights are broken' is a fair doubt, so check the sunset time in a newspaper or on a phone too."
      }
     }
    ],
-   "context": "In this four-week project you keep a calendar of one window or balcony, writing down what changes, the way living things read the year.",
+   "context": "In this four-week project you keep a calendar of one window or balcony. You write down what changes, to see the signs that living things use to tell the time of year.",
    "setup": [
     {
      "art": "A notebook on a windowsill open to a dated page, with streetlights coming on outside.",
@@ -1942,8 +1942,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Cut window holes in a shoebox. 2. Put a lit torch inside. 3. Turn off the room light and look at the light pouring out.",
-     "say": "Imagine you are a small bird flying at night. What would you see?",
-     "kid": "Put the torch in the box. Turn off the room light. Imagine you are a bird flying past. What do you see?",
+     "say": "Pretend you are a small bird flying past at night. What would you see?",
+     "kid": "Put the torch in the box. Turn off the room light. Pretend you are a bird flying past. What do you see?",
      "context": "This is the first step of the Lights Out for Birds challenge. You see how a lit building looks at night, then design ways to help birds."
     },
     {
@@ -2020,7 +2020,7 @@
      "mins": 12,
      "do": "1. Choose a plant for each pot. 2. Write the time each one opens. 3. Find any time with no flowers.",
      "say": "Which hour has no flowers yet? What could fill it?",
-     "kid": "Pick a plant for each pot. Write when it opens. Which time has no flower?"
+     "kid": "Pick a plant for each pot. Write when their flowers open. Which time has no flower?"
     },
     {
      "id": "s3",
@@ -2085,7 +2085,7 @@
   },
   {
    "t": "mcq",
-   "p": "Usha, a girl in Hyderabad, keeps a bean plant in a dark box overnight. In the morning, before she lets any light in, what does she most likely see?",
+   "p": "A bean plant is kept in a dark box overnight. In the morning, before any light is let in, what will you most likely see?",
    "opts": [
     "The leaves still hanging down",
     "No leaves at all",
@@ -2093,7 +2093,7 @@
     "The leaves fallen off"
    ],
    "a": 2,
-   "why": "The plant's body clock lifts the leaves in the morning, even in the dark. Picking 'still hanging down' is the most common guess, because it seems the dark should keep the leaves down.",
+   "why": "The plant's body clock lifts the leaves in the morning, even in the dark. 'The leaves still hanging down' is the most common guess, because it seems the dark should keep the leaves down.",
    "outcome": 1
   },
   {
@@ -2158,7 +2158,7 @@
     "Swallows nesting on houses in summer"
    ],
    "a": 1,
-   "why": "Something from a faraway land shows the bird had been there and flown back. In 1822 a stork came back to Germany with an African spear in its neck, which helped show that birds fly far away instead of sleeping in mud.",
+   "why": "Something from a faraway land shows the bird had been there and flown back. In 1822 a stork came back to Germany with an African spear in their neck, which helped show that birds fly far away instead of sleeping in mud.",
    "outcome": 5
   },
   {
@@ -2236,7 +2236,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3 in Madurai, looks at her bean plant at 9 at night. What will the first two leaves most likely be doing?",
+     "p": "Look at a bean plant at 9 at night. What will the first two leaves most likely be doing?",
      "opts": [
       "Held out flat",
       "Turning purple",
@@ -2255,7 +2255,7 @@
     },
     {
      "t": "match",
-     "p": "Match each flower to the time it usually opens.",
+     "p": "Match each flower to the time they usually open.",
      "pairs": [
       [
        "Lotus",
@@ -2364,17 +2364,17 @@
      "p": "Two friends in Kochi talk about why birds fly south for winter.",
      "views": [
       {
-       "who": "Divya, aged 9",
+       "who": "The first friend, aged 9",
        "says": "Birds fly south because they feel cold. The cold tells them to go."
       },
       {
-       "who": "Farhan, aged 8",
+       "who": "The second friend, aged 8",
        "says": "Birds fly south because the food runs out. Frozen lakes and no insects mean nothing to eat."
       }
      ],
      "ask": "Which friend do you agree with more? Give a reason. Then say one thing the other friend has right.",
      "lines": 5,
-     "a": "A strong answer sees that food is the main problem, because a small bird must eat often to stay warm, and winter takes the food away. Many birds also leave while it is still warm, as the days shorten. But Divya is right that cold is part of the story: the cold is what freezes the lakes and kills the insects.",
+     "a": "A strong answer sees that food is the main problem, because a small bird must eat often to stay warm, and winter takes the food away. Many birds also leave while it is still warm, as the days shorten. But the first friend is right that cold is part of the story: the cold is what freezes the lakes and kills the insects.",
      "why": "Both views hold something true. A strong answer links cold, food and day length."
     },
     {
@@ -2397,13 +2397,13 @@
     },
     {
      "t": "truefalse",
-     "p": "Lakshmi, a girl in Class 3, says, 'Plants only move their leaves when someone touches them.' Is she right?",
+     "p": "Plants move their leaves only when someone touches them.",
      "a": false,
      "why": "False. Bean, tamarind and rain tree leaves move every evening and morning with no touch at all. Touch-me-not also folds when touched, but that is a different movement."
     },
     {
      "t": "write",
-     "p": "Your body is coolest early in the morning and warmest in the late afternoon. Why did we measure on three days, not one?",
+     "p": "In the Warm and Cool experiment, we measured body temperature on three days. Why three days, not one?",
      "lines": 3,
      "a": "One reading can be a fluke. A thermometer reading can jump by a little, or I might have just run about. Three days show whether the pattern really repeats.",
      "why": "A strong answer says that repeating a test shows whether a result is real.",
@@ -2411,7 +2411,7 @@
     },
     {
      "t": "write",
-     "p": "Look at your bean table. At which check were the leaves lowest, and what time of day was that?",
+     "p": "Look at your results table from the bean test. At which check were the leaves lowest, and what time of day was that?",
      "a": "For example: the leaves were hanging down at the 9 at night check, and flat at 7 in the morning and 1 in the afternoon.",
      "why": "A strong answer gives a time from the child's own table, and says whether it matches the daily pattern.",
      "how": "e1"
@@ -2451,7 +2451,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya, a girl in Class 3, puts her bean plant in a dark cupboard for two days. The leaves still lift each morning and droop each night. What sets the timing?",
+     "p": "A bean plant is put in a dark cupboard for two days. The leaves still lift each morning and droop each night. What sets the timing?",
      "opts": [
       "The noise of the morning",
       "The plant's roots seeing the soil",
@@ -2474,15 +2474,15 @@
      "p": "Three people look at a bean plant whose leaves rose in a dark box.",
      "views": [
       {
-       "who": "Roja, a plant scientist",
+       "who": "A plant scientist",
        "says": "The plant knows when morning is coming. The plant measures time and gets ready for the light."
       },
       {
-       "who": "Suresh, another scientist",
+       "who": "Another scientist",
        "says": "It is just chemistry. Substances build up and break down in a loop, and that moves the leaf."
       },
       {
-       "who": "Anjali, aged 9",
+       "who": "A child, aged 9",
        "says": "Both are true. Knowing the time can be made of chemistry, like my own body clock."
       }
      ],
@@ -2555,7 +2555,7 @@
      "t": "truefalse",
      "p": "Birds are kept in a room where the light stays the same all year. They still become restless at about the time their kind migrates. This shows their timing comes partly from inside them.",
      "a": true,
-     "why": "True. Nothing outside changed, so the timing came from a yearly clock inside the birds. In such a room it ran about 10 months, not 12, so in the wild, day length keeps it on time."
+     "why": "True. Nothing outside changed, so the timing came from a yearly clock inside the birds. In such a room the clock took about 10 months to go round, not 12. So in the wild, day length is needed to keep it on time."
     },
     {
      "t": "write",
@@ -2621,17 +2621,17 @@
      "p": "Two sisters in Mysuru talk about how the swallows know when to come to India.",
      "views": [
       {
-       "who": "Nila, aged 10",
+       "who": "The older sister, aged 10",
        "says": "The swallows learn it from older swallows, by flying with them."
       },
       {
-       "who": "Revathi, aged 7",
+       "who": "The younger sister, aged 7",
        "says": "The swallows are born knowing. Something inside them tells them when."
       }
      ],
      "ask": "Which sister do you think is closer to the truth? Think about birds kept in a room where the light stays the same all year: they still become restless at migration time. Then say what the other sister might have right.",
      "lines": 5,
-     "a": "A strong answer uses the birds in the steady room, which became restless at migration time with no change outside, so the timing is inside them, as Revathi says. It also gives Nila her due: many birds fly in flocks, and some learn the route from others. Timing and route might be learned in different ways.",
+     "a": "A strong answer uses the birds in the steady room, which became restless at migration time with no change outside, so the timing is inside them, as the younger sister says. It also gives the older sister her due: many birds fly in flocks, and some learn the route from others. Timing and route might be learned in different ways.",
      "why": "Scientists think the timing comes mostly from inside, set by day length, while finding the way uses inborn sense and learning together."
     },
     {
@@ -2851,7 +2851,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mercy, a night-shift nurse, works all night and sleeps by day. She often feels sleepy at work. What is the best explanation?",
+     "p": "A night-shift nurse works all night and sleeps by day. She often feels sleepy at work. What is the best explanation?",
      "opts": [
       "Her body clock still expects her to sleep at night",
       "Night air makes people sleepy",
@@ -3002,9 +3002,9 @@
  ],
  "maths": [
   {
-   "problem": "In the warm and cool test, Kavya, a girl in Class 3, measured her temperature. It was 36.3 °C just after waking and 36.8 °C at 5 pm. How much warmer was she at 5 pm?",
+   "problem": "In the warm and cool test, a child's temperature was 36.3 °C just after waking and 36.8 °C at 5 pm. How much warmer was the child at 5 pm?",
    "answer": "0.5 °C warmer, which is half a degree.",
-   "explain": "36.8 take away 36.3 is 0.5. Think of it as 368 tenths take away 363 tenths, which is 5 tenths. Half a degree is small, but it came back on every day she measured.",
+   "explain": "36.8 take away 36.3 is 0.5. Think of it as 368 tenths take away 363 tenths, which is 5 tenths. Half a degree is small, but the same difference showed up on every day the child measured.",
    "math_unit": "math.temperature.reading-thermometers.L3",
    "context": "This is about the warm and cool test, where you measure your body's temperature at three times of day.",
    "how": "e2",
@@ -3013,7 +3013,7 @@
   {
    "problem": "In Chennai, the longest day is about 12 hours 55 minutes and the shortest is about 11 hours 20 minutes. In Srinagar, they are about 14 hours 25 minutes and 9 hours 55 minutes. In which city does day length change more across the year, and by how much?",
    "answer": "Srinagar. Day length changes by about 4 hours 30 minutes there, and by about 1 hour 35 minutes in Chennai.",
-   "explain": "Chennai: 12 hours 55 minutes take away 11 hours 20 minutes is 1 hour 35 minutes. Srinagar: 14 hours 25 minutes take away 9 hours 55 minutes. From 9 hours 55 minutes to 10 hours is 5 minutes, then 4 hours 25 minutes more to 14 hours 25 minutes. Total 4 hours 30 minutes. That is nearly three times as much change as in Chennai.",
+   "explain": "Chennai: 12 hours 55 minutes take away 11 hours 20 minutes is 1 hour 35 minutes. Srinagar: 14 hours 25 minutes take away 9 hours 55 minutes. From 9 hours 55 minutes to 10 hours is 5 minutes, then 4 hours 25 minutes more to 14 hours 25 minutes. That makes 4 hours 30 minutes in total. That is nearly three times as much change as in Chennai.",
    "math_unit": "math.time.duration.L3",
    "context": "Day length is the time from sunrise to sunset. It changes through the year, and it changes more in the north of India.",
    "chart": {
@@ -3074,7 +3074,7 @@
    "why_maths": "Dividing the distance by the distance per day tells us how long the birds must fly without food, which explains why they store fat first."
   },
   {
-   "problem": "In the bean test, Riya, a girl in Class 3, gave each leaf position a number: flat is 2, half down is 1, hanging down is 0. Her window cup scored 2 at 7 am, 2 at 1 pm, 1 at 6 pm and 0 at 9 pm. Draw these as a line graph. What do you predict for 7 am the next day?",
+   "problem": "In the bean test, give each leaf position a number: flat is 2, half down is 1, hanging down is 0. A window cup scored 2 at 7 am, 2 at 1 pm, 1 at 6 pm and 0 at 9 pm. Draw these as a line graph. What do you predict for 7 am the next day?",
    "answer": "A line that stays high in the morning and afternoon, then falls in the evening to 0 at night. The next morning should be 2 again.",
    "explain": "A line graph shows change over time. The line is flat at 2 in the day, drops to 1 at 6 pm and to 0 at 9 pm. Because the leaves move on a daily rhythm, the pattern repeats, so at 7 am the next day the score should be back to 2.",
    "math_unit": "math.data.line-graphs.L4",
@@ -3317,18 +3317,18 @@
   ]
  },
  "roots": {
-  "context": "We have watched bean leaves rise and fall, jasmine open in the evening and swallows come for the winter. Now we ask what nature's clocks tell us about ourselves and the world.",
+  "context": "In this unit, bean leaves rise and fall, jasmine opens in the evening and swallows come for the winter. Now we ask what these clocks in living things tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the dark box, your bean plant still lifted their leaves in the morning. No light reached them, so the timing came from inside the plant. Earlier days on the windowsill had set that inside clock. So a plant expects the morning, and gets ready before it comes.",
-   "habit": "We think of plants as only reacting: light comes, then leaves open. But a reaction comes after its cause. Your plant moved before any light came, so they were expecting the day, not answering it.",
-   "evidence": "The box cup's leaves were flat in the morning and hanging down at night, like the window cup, with no light at all. Taken out of the box, they kept going on the window's rhythm."
+   "truth": "In the Sleeping Bean Leaves experiment, the bean plant in the dark box still lifted their leaves in the morning. No light reached them, so the timing came from inside the plant. Earlier days on the windowsill had set that inside clock. So a plant expects the morning, and gets ready before it comes.",
+   "habit": "We think of plants as only reacting: light comes, then leaves open. But a reaction comes after its cause. The bean plant in the dark box moved before any light came, so they were expecting the day, not reacting to it.",
+   "evidence": "In the Sleeping Bean Leaves experiment, the leaves of the plant in the dark box were flat in the morning and hanging down at night, like the leaves of the plant by the window, with no light at all. When the plant came out of the box, their leaves kept the same rhythm."
   },
   "three": {
    "who_am_i": "You have a body clock too. It cools you before dawn and warms you through the day, without asking you.",
    "what_is_life": "Living things keep time. Leaves, flowers, falcons and corals all get ready for what is coming.",
-   "what_is_this_world": "The Earth spins once a day and goes round the Sun once a year. Every living thing on it has learned those two beats."
+   "what_is_this_world": "The Earth spins once a day and goes round the Sun once a year. Living things on Earth follow these two rhythms."
   },
-  "thread": "The Earth makes one rhythm: one spin a day, one trip round the Sun a year. From that one rhythm come countless clocks. The bean lifts their leaves, the jasmine opens at evening, the swallow leaves the north, the coral waits for the moon, and you wake up. Each keeps their own time, yet all of them follow the same turning Earth.",
+  "thread": "The Earth spins once a day and goes round the Sun once a year. Living things keep time with these two rhythms in many ways. The bean lifts their leaves, the jasmine opens in the evening, the swallow leaves the north, the coral waits for the full moon, and you wake up. Each keeps their own time, but all of them follow the same turning Earth.",
   "teachings": [
    {
     "source": "Tirukkural 481 (chapter 49, on knowing the right time)",
@@ -3366,7 +3366,7 @@
    "kid": "Sit by a window for one minute. Look and listen. Find one thing outside on its daily rhythm. What will it do in six hours?"
   },
   "ask": [
-   "Your bean plant got ready for a morning they could not see. Is getting ready the same as knowing?",
+   "In the dark box, the bean plant got ready for a morning they could not see. Is getting ready the same as knowing?",
    "If every living thing keeps their own clock, whose clock tells the real time?",
    "Your body cools before dawn without you deciding it. Who is keeping that time: you, or your body?"
   ],
@@ -3379,5 +3379,5 @@
   "when": "1822 (the stork with the spear) and 1899 (the first numbered bird rings)",
   "wrong_idea": "People thought swallows and other birds spent the winter asleep, hidden or in the mud at the bottom of lakes. The stork with an African spear in their neck showed that birds fly to Africa for the winter and come back."
  },
- "warm": {"words": ["PLANT", "CLOCK", "BIRDS", "LIGHT", "NIGHT"], "quiz": [["Morning light sets the body clock of a living thing right each day.", true, "A body clock runs a little fast or slow, so daily light keeps it in step."], ["Bean leaves fold at night only because it gets dark.", false, "Even in a dark box, bean leaves lift and lower on time, because a body clock keeps the rhythm."], ["Birds tell the season mostly by how long the days are.", true, "Day length repeats the same every year, while warmth can change from week to week."], ["Barn swallows spend the winter asleep in the mud at the bottom of ponds.", false, "Trackers show swallows flying to warmer lands, where they find food."], ["Flowers open at the hours when their own pollinators visit.", true, "A body clock times the opening, so the flower is ready when its visitors come."], ["Flowers open in the morning only because the Sun warms them.", false, "Many flowers open at their hour even on cool, cloudy days, because their clock times it."], ["A leaf bends when water moves in and out of cells in a joint at its base.", true, "Water moving into one side of the joint and out of the other bends it and moves the leaf."], ["Plants cannot tell the season, because only animals can sense how long the day is.", false, "Many plants sense day length or night length and use it to know when to flower."], ["A plant's body clock lets it get ready for light before the Sun comes up.", true, "A plant makes food from light, so being ready before sunrise lets it start work early."], ["Bright lights at night cannot change how animals and plants keep time.", false, "Light at night can push a body clock out of step with the real day."]], "odd": [[["Leaves folding at night", "Lotus opening at dawn", "Jasmine opening in the evening", "Swallows flying to India"], "Swallows flying to India", "The first three repeat every day; the swallows' journey repeats once a year."], [["Owl", "Bat", "Hedgehog", "Sparrow"], "Sparrow", "Owls, bats and hedgehogs are active at night; a sparrow is active in the day."], [["Bee", "Butterfly", "Sunbird", "Earthworm"], "Earthworm", "Bees, butterflies and sunbirds carry pollen from flower to flower; an earthworm does not."], [["Bright lamp at night", "Phone light at night", "A warming world", "Morning sunlight"], "Morning sunlight", "The first three can put a body clock out of step; morning sunlight is the signal that sets it right."], [["Barn swallow", "Amur falcon", "Bar-headed goose", "Indian peacock"], "Indian peacock", "The first three travel far each year to find food and a place for chicks; the peacock stays in India."]]}
+ "warm": {"words": ["PLANT", "CLOCK", "BIRDS", "LIGHT", "NIGHT"], "quiz": [["Morning light sets the body clock of a living thing right each day.", true, "A body clock runs a little fast or slow, so daily light keeps it in step."], ["Bean leaves fold at night only because it gets dark.", false, "Even in a dark box, bean leaves lift and lower on time, because a body clock keeps the rhythm."], ["Birds tell the season mostly by how long the days are.", true, "Day length changes the same way every year, while warmth can change from week to week."], ["Barn swallows spend the winter asleep in the mud at the bottom of ponds.", false, "Trackers show swallows flying to warmer lands, where they find food."], ["Flowers open at the hours when their own pollinators visit.", true, "A body clock times the opening, so the flower is ready when their visitors come."], ["Flowers open in the morning only because the Sun warms them.", false, "Many flowers open at their hour even on cool, cloudy days, because their clock times it."], ["A leaf bends when water moves in and out of cells in a joint at its base.", true, "Water moving into one side of the joint and out of the other bends it and moves the leaf."], ["Plants cannot tell the season, because only animals can sense how long the day is.", false, "Many plants sense day length or night length and use it to know when to flower."], ["A plant's body clock lets them get ready for light before the Sun comes up.", true, "A plant makes food from light, so being ready before sunrise lets them start work early."], ["Bright lights at night cannot change how animals and plants keep time.", false, "Light at night can push a body clock out of step with the real day."]], "odd": [[["Leaves folding at night", "Lotus opening at dawn", "Jasmine opening in the evening", "Swallows flying to India"], "Swallows flying to India", "The first three repeat every day; the swallows' journey repeats once a year."], [["Owl", "Bat", "Hedgehog", "Sparrow"], "Sparrow", "Owls, bats and hedgehogs are active at night; a sparrow is active in the day."], [["Bee", "Butterfly", "Sunbird", "Earthworm"], "Earthworm", "Bees, butterflies and sunbirds carry pollen from flower to flower; an earthworm does not."], [["Bright lamp at night", "Phone light at night", "A warming world", "Morning sunlight"], "Morning sunlight", "The first three can put a body clock out of step; morning sunlight is the signal that sets it right."], [["Barn swallow", "Amur falcon", "Bar-headed goose", "Indian peacock"], "Indian peacock", "The first three travel far each year to find food and a place for chicks; the peacock stays in India."]]}
 }

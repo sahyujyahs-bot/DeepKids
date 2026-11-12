@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Pick up one packet from your kitchen shelf, such as rice, salt or tea. Read where it was packed. Who carried it to your home, and how?",
-  "text": "Almost nothing in your home was made in your home. Salt may come from Thoothukudi or Gujarat. Tea may come from the Nilgiris or Assam. It came by truck, train or ship, and then by a shop's van or a delivery scooter. People also need to send messages: to order the rice, to pay for it, to say 'it has arrived'. In this unit you find out how people learned to carry things and messages further and faster. You also find out how roads keep people safe, and test whether a driver can really see you at night.",
+  "text": "Almost nothing in your home was made in your home. Salt may come from Thoothukudi or Gujarat. Tea may come from the Nilgiris or Assam. These things came by truck, train or ship, and then by a shop's van or a delivery scooter. People also need to send messages: to order the rice, to pay for it, to say 'it has arrived'. In this unit you find out how people learned to carry things and messages further and faster. You also find out how roads keep people safe, and test whether a driver can really see you at night.",
   "art": "A child at a kitchen shelf holding a packet of rice, with a dotted line from the packet out of the window to a truck, a train and a map of India."
  },
  "outcomes": [
@@ -16,7 +16,7 @@
   "By the end I can name the kinds of transport (road, rail, water, air and pipeline) and say what each is best for.",
   "By the end I can explain how communication grew, and tell one-way communication from two-way communication.",
   "By the end I can read common road signs and traffic lights, and say what their shapes and colours mean.",
-  "By the end I can explain, using my dark-room test, why white clothes and reflective strips keep a walker safe at night.",
+  "By the end I can explain, using the Seen in the Dark test, why white clothes and reflective strips keep a walker safe at night.",
   "By the end I can say how transport harms the air and our health, and choose ways to travel that pollute less."
  ],
  "cards_mins": 15,
@@ -129,7 +129,7 @@
    "concept": "Why a dark shirt is hard to see at night",
    "status": "defined",
    "definition": "We see a thing only when light from it reaches our eyes. At night, a driver sees a walker only by the headlight that bounces off the walker and comes back. White and pale colours reflect much more light than black and dark colours.",
-   "description": "In the dark-room test, the same dim torch shone on every cloth. The black cloth vanished a few steps away, because it reflected very little of the light. The white cloth reflected most of the light, so it stayed visible much further away. A reflective strip is special. It sends light straight back towards the lamp, so it shines brightly to the person holding the torch, or the driver behind the headlights. A driver going fast needs to see a walker from far away, to have time to slow down. So at night, walkers should wear pale clothes and something reflective, and carry a torch.",
+   "description": "In the Seen in the Dark test, the same dim torch shone on every cloth. The black cloth vanished a few steps away, because it reflected very little of the light. The white cloth reflected most of the light, so it stayed visible much further away. A reflective strip is special. It sends light straight back towards the lamp, so it shines brightly to the person holding the torch, or the driver behind the headlights. A driver going fast needs to see a walker from far away, to have time to slow down. So at night, walkers should wear pale clothes and something reflective, and carry a torch.",
    "examples": [
     "A walker in a white mundu or a white school shirt is seen from much further away than one in a black shirt.",
     "A cycle's red back reflector shines brightly in a car's headlight, though it has no battery.",
@@ -137,7 +137,7 @@
    ],
    "perspectives": [],
    "art": "A dark road at night with a car's headlights shining on two walkers: one in white, clearly lit, and one in black, almost invisible.",
-   "context": "This card explains what the dark-room test showed: why a driver can see some clothes from much further away than others."
+   "context": "This card explains what the Seen in the Dark test showed: why a driver can see some clothes from much further away than others."
   },
   {
    "concept": "How transport grew",
@@ -256,7 +256,7 @@
     },
     {
      "who": "Some other biologists",
-     "explanation": "The smells may be meant for the plant's own other leaves, or for insects that eat the attackers. The neighbours may simply be 'overhearing'. They prefer the word 'signalling'."
+     "explanation": "The smells may be meant for the plant's own other leaves, or for insects that eat the attackers. The neighbours may simply be 'overhearing'. These biologists prefer the word 'signalling'."
     }
    ],
    "art": "A honeybee dancing on a comb with other bees around her, an ant trail to a sugar grain, and a tomato plant with faint smell lines reaching a neighbour plant.",
@@ -322,7 +322,7 @@
    "claim": "If I can see the car, the driver can see me.",
    "who": "A common belief, among children and grown-ups",
    "for": "The car's headlights look very bright to you.",
-   "against": "You see the bright lamp itself. The driver sees you only by the little light that bounces off you. In the dark-room test, the black cloth vanished a few steps away while the torch was still shining.",
+   "against": "You see the bright lamp itself. The driver sees you only by the little light that bounces off you. In the Seen in the Dark test, the black cloth vanished a few steps away while the torch was still shining.",
    "status": "rejected",
    "context": "This card is about a mistake that causes many night-time accidents."
   }
@@ -331,7 +331,7 @@
   {
    "q": "When you see a friend across the room, does anything go from you to your friend, or only from your friend to you?",
    "kind": "deep",
-   "hint": "Think of the dark-room test. Where did the light start, where did it bounce, and where did it end?"
+   "hint": "Think of the Seen in the Dark test. Where did the light start, where did it bounce, and where did it end?"
   },
   {
    "q": "If someone sends a message and nobody receives it, has anything been communicated?",
@@ -393,7 +393,7 @@
    "Arjun could see the auto's headlight from the balcony. Why did that not mean the driver could see the boy?",
    "Why did the strip on the bag shine for Kavya, who held the torch, but not for Paati, standing to the side?",
    "What three things did Arjun do to be safe when he crossed the lane?",
-   "Paati says a road sign 'can only send back the light that falls on it'. What did she mean?"
+   "Paati says a road sign 'can only send back the light that falls on it'. What does she mean?"
   ],
   "art": [
    "An old woman in a cotton saree and two children on a balcony of a Kochi flat at night, looking down at a dark lane.",
@@ -424,7 +424,7 @@
        "b": "No horn. Do not sound your horn here."
       },
       {
-       "f": "Red circle filled with a white bar across the middle",
+       "f": "Filled red circle with a white bar across the middle",
        "b": "No entry. Vehicles must not go in."
       },
       {
@@ -638,7 +638,7 @@
     },
     {
      "kind": "cards",
-     "title": "15 means cards",
+     "title": "15 means cards (ways to carry things or send messages)",
      "items": [
       "Walking",
       "Cycle",
@@ -664,7 +664,7 @@
     "Each player picks the means card they think is best and says why. Two players may pick the same card.",
     "Read the back of the job card. A choice that matches the back gets 2 points.",
     "A different choice with a good reason gets 1 point, if the other players agree.",
-    "After all 12 jobs, the player with most points wins."
+    "After all 12 jobs, the player with the most points wins."
    ],
    "flow": [
     {
@@ -905,16 +905,16 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "1. If you have a reflective strip or a cycle reflector, put it on the chair. 2. Shine the dim torch from your eye. 3. Then hold the torch at arm's length to the side and look again. 4. Try a piece of kitchen foil the same way.",
-     "say": "Here is a reflective strip. Shine the torch from your eye. Now hold the torch far out to one side. Does the strip look the same?",
-     "kid": "Shine the torch at the strip from your eye. Now hold the torch far to the side. What changed?",
+     "do": "1. If you have a reflective strip or a cycle reflector, put it on the chair. 2. Hold the dim torch next to your eye and shine it at the strip. 3. Then hold the torch at arm's length to the side and look again. 4. Try a piece of kitchen foil the same way.",
+     "say": "Here is a reflective strip. Hold the torch next to your eye and shine it at the strip. Now hold the torch far out to one side. Does the strip look the same?",
+     "kid": "Hold the torch by your eye and shine it at the strip. Now hold the torch far to the side. What changed?",
      "adult": true,
      "parent": "The strip blazes when the torch is by the eye, and looks much duller when the torch is held to the side. It sends light back towards the lamp. Foil can glint brightly or look dark, depending on how it is tilted. Skip this step if you have no strip or reflector."
     },
     {
      "id": "s7",
      "mins": 4,
-     "do": "1. Switch the lights on. 2. Read the table together. 3. Ask your child for a claim, the evidence and a reason.",
+     "do": "1. Switch the lights on. 2. Read the table together. 3. Ask your child what they found, what shows it, and why they think it happened.",
      "say": "What did you find? Which cloth could a driver see from furthest away? What is your evidence? Why do you think it happened?",
      "kid": "Which cloth did you see from furthest away? Which vanished first? Why do you think so?",
      "ask": [
@@ -936,7 +936,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Leela, a girl in Class 3, walks home at night in a black dress. Which change helps drivers see her from furthest away?",
+      "q": "A girl walks home at night in a black dress. Which change helps drivers see her from furthest away?",
       "options": [
        "A black cap",
        "A white dupatta and a reflective strip on her bag",
@@ -944,7 +944,7 @@
        "A dark blue dress"
       ],
       "a": 1,
-      "why": "A driver sees Leela only by the headlight that bounces off her. A white dupatta reflects much more light than black, and a reflective strip sends the light straight back to the driver. Walking faster does not help the driver see her."
+      "why": "A driver sees the girl only by the headlight that bounces off her. A white dupatta reflects much more light than black, and a reflective strip sends the light straight back to the driver. Walking faster does not help the driver see her."
      },
      "think": "You could see the torch's light the whole time. Why could you not see the black cloth?"
     }
@@ -958,7 +958,7 @@
    "context": "In this experiment one person describes a simple picture and the other draws it without seeing it. You find out whether the drawing comes out better when the listener may ask questions.",
    "question": "Does a picture sent by words alone come out more correctly when the listener can ask questions, and does it take longer?",
    "predict": "Guess first. Will the drawing come out better when the listener stays silent, or when the listener can ask questions? Which way will be quicker? Why do you think so?",
-   "fair_test": "Use four picture cards that are equally hard: each has the same 4 kinds of shapes in different places. The same person describes in rounds 1 and 2, and the other person describes in rounds 3 and 4. Use a clock to time each round. Score each drawing the same way, 2 points for each shape: 1 for the right shape and size, 1 for the right place. In the swap, do the round with questions first, so practice does not favour one kind of round.",
+   "fair_test": "Use four picture cards that are equally hard: each has the same 4 kinds of shapes in different places. The same person describes in rounds 1 and 2, and the other person describes in rounds 3 and 4. Use a clock to time each round. Score each drawing the same way, 2 points for each shape: 1 for the right shape and size, 1 for the right place. In rounds 1 and 2 the silent round comes first. In rounds 3 and 4, do the round with questions first, so practice does not favour one kind of round.",
    "results_table": [
     "Round",
     "Listener may ask questions?",
@@ -1048,7 +1048,7 @@
      "context": "This is the first step of the Words Only test. Here you set up the chairs and the picture cards.",
      "do": "1. Draw 4 picture cards and label them A, B, C and D. Each has the same 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. 2. Put two chairs back to back. 3. The describer takes cards A and B, face down. The listener takes paper and a pencil. 4. Ask for guesses and reasons.",
      "say": "You will describe a picture using only words. I will draw it without seeing it. First, guess. Will my drawing be better if I stay silent, or if I can ask questions? Why?",
-     "kid": "Sit back to back. Hide your pictures. Guess: silent listener or questions allowed? Which will be better? Why?",
+     "kid": "Sit back to back. Hide your pictures. Guess: will the drawing be better when the listener is silent, or when the listener can ask questions? Why?",
      "parent": "Keep the shapes simple so the four cards are equally hard. Cards A and B are for the first two rounds. Cards C and D are for the swap."
     },
     {
@@ -1086,7 +1086,7 @@
     {
      "id": "s5",
      "mins": 9,
-     "do": "1. Swap roles: now your child listens and you describe, or the other way round, as you like. 2. Use cards C and D. Do the round with questions first (card C), then the silent round (card D). 3. Score and time both.",
+     "do": "1. Swap roles: the person who described now listens and draws. 2. Use cards C and D. Do the round with questions first (card C), then the silent round (card D). 3. Score and time both.",
      "say": "Now we swap. This time the round with questions comes first, then the silent round. Does the same thing happen?",
      "kid": "Swap roles. Do the round with questions first, then the silent round. Score and time both.",
      "parent": "Swapping roles and order checks that the result is not just because one of you describes better, or because the second go was easier."
@@ -1094,7 +1094,7 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child for a claim, the evidence and a reason.",
+     "do": "Ask your child what they found, what shows it, and why they think it happened.",
      "say": "What did you find? What is your evidence? Why do you think questions made such a difference?",
      "kid": "Which way gave better drawings? Which was quicker? Why do you think so?",
      "ask": [
@@ -1451,7 +1451,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Compare how many people each kind of vehicle carried, and how much road it took up.",
-     "say": "How many cars passed? How many people were in them? One bus took about as much road as how many cars?",
+     "say": "How many cars passed? How many people were in them? About how many cars take up as much road as one bus?",
      "kid": "Which vehicle carried most people? Which made the most smoke for each person?",
      "ask": [
       {
@@ -1503,7 +1503,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "context": "This is the first step of Ask a Grandparent. You interview an older person about travel and messages long ago.",
+     "context": "This is the first step of Ask an Older Person. You interview an older person about travel and messages long ago.",
      "do": "1. Help your child write 5 questions. 2. Your child asks them on the phone or in person. 3. They write short answers.",
      "say": "Ask: How did you get to school? What was your first train journey? How did you send news to relatives? When did you first use a phone? When did you first watch TV?",
      "kid": "Ask your five questions. Listen well. Write a few words for each answer.",
@@ -1691,7 +1691,7 @@
    "constraints": [
     "Only things from home.",
     "It must not fall off when the bag is shaken.",
-    "Test it in the dark with the dim torch, from your eye, and count foot-steps."
+    "Test it in the dark with the dim torch held next to your eye, and count foot-steps."
    ],
    "materials": [
     "white cloth or white paper",
@@ -1726,17 +1726,17 @@
      "id": "s1",
      "mins": 15,
      "do": "Your child chooses materials and makes a band for the bag.",
-     "say": "Think back to the dark-room test. What did a driver see from furthest away? Use that to design your band.",
-     "kid": "Remember the dark test. What did you see from furthest away? Make your band.",
+     "say": "In the Seen in the Dark test, which cloth did you see from furthest away? Use that to design your band.",
+     "kid": "In the Seen in the Dark test, which cloth did you see from furthest away? Use that to make your band.",
      "adult": true,
      "parent": "Help with scissors. If you cut a CD, a grown-up does the cutting, because the edges can be sharp."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Test the band in the dark with the dim torch, from your eye, as in the Seen in the Dark test. Count foot-steps.",
+     "do": "Test the band in the dark with the dim torch held next to your eye, as in the Seen in the Dark test. Count foot-steps.",
      "say": "Let's test it in the dark. Step back until you can't see the band. How far?",
-     "kid": "Test your band in the dark. Count your foot-steps. Beat the white cloth?",
+     "kid": "Test your band in the dark. Count your foot-steps. Did it beat the white cloth?",
      "adult": true
     },
     {
@@ -1804,15 +1804,15 @@
   },
   {
    "t": "mcq",
-   "p": "Indu, a girl in Class 3 in Hyderabad, will walk home after dark. Which clothes help drivers see her from furthest away?",
+   "p": "A child will walk home after dark. Which clothes help drivers see the child from furthest away?",
    "opts": [
     "A black frock",
     "A dark blue frock",
-    "A white frock with a reflective strip on her bag",
+    "A white frock with a reflective strip on the bag",
     "A brown frock"
    ],
    "a": 2,
-   "why": "White reflects much more of a car's headlight than dark colours, and a reflective strip sends the light straight back to the driver. Picking a dark colour means thinking the driver sees the person, not the light coming back from her.",
+   "why": "White reflects much more of a car's headlight than dark colours, and a reflective strip sends the light straight back to the driver. A driver sees a person only by the light that comes back from them, and dark clothes send back very little.",
    "outcome": 4,
    "how": "e1"
   },
@@ -1944,7 +1944,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "Meenakshi, a girl in Class 3 in Madurai, makes a list of ways to travel. Sort each one into its kind of transport.",
+     "p": "Here is a list of ways to travel. Sort each one into its kind of transport.",
      "cats": [
       "Road",
       "Rail",
@@ -1990,7 +1990,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Seen in the Dark test, Divya, a girl in Class 3, shone the same dim torch on a black cloth and a white cloth. Which one could she still see from further away?",
+     "p": "In the Seen in the Dark test, the same dim torch shines on a black cloth and a white cloth. Which one can you still see from further away?",
      "opts": [
       "The black cloth",
       "The white cloth",
@@ -1998,14 +1998,14 @@
       "Neither, in the dark"
      ],
      "a": 1,
-     "why": "The white cloth reflects much more of the torch light back to Divya's eyes, so she can still see it from further away. The black cloth reflects very little, so it vanishes sooner.",
+     "why": "The white cloth reflects much more of the torch light back to your eyes, so you can still see it from further away. The black cloth reflects very little, so it vanishes sooner.",
      "how": "e1"
     },
     {
      "t": "write",
-     "p": "Arjun, a six-year-old boy, says, 'I can see the car's headlights, so the driver can see me.' Explain why he may be wrong.",
+     "p": "Someone says, 'I can see the car's headlights, so the driver can see me.' Explain why this may be wrong.",
      "lines": 3,
-     "a": "Arjun sees the bright lamp itself. The driver sees Arjun only by the little light that bounces off him and comes back. If Arjun wears dark clothes, very little light comes back, so the driver may not see him.",
+     "a": "The person sees the bright lamp itself. The driver sees the person only by the little light that bounces off them and comes back. If the person wears dark clothes, very little light comes back, so the driver may not see them.",
      "why": "A strong answer says that seeing a lamp and being seen by its light are different. It uses the idea of light bouncing off and coming back.",
      "how": "e1"
     },
@@ -2092,7 +2092,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi, a girl in Class 3, wants to send a photo to her cousin in Kolkata right now. Which is the quickest way?",
+     "p": "You want to send a photo to a cousin in Kolkata right now. Which is the quickest way?",
      "opts": [
       "Post it in a letter",
       "Send it by phone over the internet",
@@ -2167,7 +2167,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the Seen in the Dark test, Nandini, a girl in Class 3, held a reflective strip on the chair. It shone brightly when the torch was beside her eye. What happened when she held the torch far out to the side?",
+     "p": "In the Seen in the Dark test, a reflective strip on the chair shone brightly when the torch was beside your eye. What happened when you held the torch far out to the side?",
      "opts": [
       "The strip shone even brighter",
       "The strip looked much duller",
@@ -2175,7 +2175,7 @@
       "Nothing changed"
      ],
      "a": 1,
-     "why": "A reflective strip sends light straight back towards the lamp. With the torch by her eye, the light came straight back to her. With the torch to the side, the light went back to the torch, not to her eyes.",
+     "why": "A reflective strip sends light straight back towards the lamp. With the torch by your eye, the light came straight back to you. With the torch to the side, the light went back to the torch, not to your eyes.",
      "how": "e1"
     },
     {
@@ -2188,10 +2188,10 @@
     },
     {
      "t": "mcq",
-     "p": "In the Words Only test, one person describes a picture and the other draws it. Revathi, a girl in Class 3, described a picture to a friend, once with the friend silent and once with questions allowed. In which round did the friend's drawing probably score higher?",
+     "p": "In the Words Only test, one person describes a picture and the other draws it. In one round the listener stays silent. In another round the listener may ask questions. In which round does the drawing probably score higher?",
      "opts": [
-      "When the friend had to stay silent",
-      "When the friend could ask questions",
+      "When the listener had to stay silent",
+      "When the listener could ask questions",
       "Both rounds scored the same",
       "Scores have nothing to do with questions"
      ],
@@ -2375,7 +2375,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Seen in the Dark test, Kavya, a nine-year-old girl, found that her white cloth was still visible at the far wall, 15 foot-steps away. What should she do to find how far it can really be seen?",
+     "p": "In the Seen in the Dark test, suppose your white cloth is still visible at the far wall, 15 foot-steps away. What should you do to find how far it can really be seen?",
      "opts": [
       "Write 15 and stop",
       "Make the torch dimmer, or use a longer room, and test all the cloths again",
@@ -2383,7 +2383,7 @@
       "Use a brighter torch"
      ],
      "a": 1,
-     "why": "If the white cloth is still seen at the wall, she has not found its limit. A dimmer torch or a longer room lets her find it. She must test every cloth again in the same way, so the test stays fair.",
+     "why": "If the white cloth is still seen at the wall, you have not found its limit. A dimmer torch or a longer room lets you find it. You must test every cloth again in the same way, so the test stays fair.",
      "how": "e1"
     },
     {
@@ -2421,7 +2421,7 @@
      "t": "write",
      "p": "A traffic light shows amber for a few seconds between green and red. Why is the amber light there? What could happen without it?",
      "a": "Amber warns drivers that red is coming, so they can slow down and stop in time. A vehicle going fast cannot stop at once. Without amber, a driver could be in the middle of the junction when the light turned red, and crash into traffic coming the other way.",
-     "why": "A strong answer links the warning to the time and distance a vehicle needs to stop, as in the first question of this sheet.",
+     "why": "A strong answer links the warning to the time and distance a vehicle needs to stop.",
      "lines": 4
     },
     {
@@ -2673,7 +2673,7 @@
  ],
  "maths": [
   {
-   "problem": "Kavya, a nine-year-old girl, did the Seen in the Dark test. She still saw the white shirt from 15 foot-steps away. The black T-shirt vanished at 3 foot-steps. How many times further away was the white shirt seen?",
+   "problem": "In the Seen in the Dark test, a white shirt was still seen from 15 foot-steps away. A black T-shirt vanished at 3 foot-steps. How many times further away was the white shirt seen?",
    "answer": "5 times further away.",
    "explain": "The white shirt was seen at 15 foot-steps and the black T-shirt at 3. 15 divided by 3 is 5. So the white shirt was seen 5 times further away. Check: 3 + 3 + 3 + 3 + 3 = 15.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -2700,7 +2700,7 @@
    "why_maths": "Saying 'five times further' tells a driver much more than saying 'white is better'."
   },
   {
-   "problem": "In the same test, Kavya's yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of her two tries?",
+   "problem": "In the Seen in the Dark test, a yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of the two tries?",
    "answer": "13 foot-steps.",
    "explain": "12 + 14 = 26. Half of 26 is 13. So the middle value is 13 foot-steps. This is called the average of the two tries.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
@@ -2709,7 +2709,7 @@
    "why_maths": "Two tries rarely give the same number. Taking the middle value gives one fair number for each cloth."
   },
   {
-   "problem": "Farhan, a boy aged 8, watched the road for 10 minutes. He counted 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus?",
+   "problem": "You watch the road for 10 minutes. You count 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus?",
    "answer": "They carried the same number: 40 people each.",
    "explain": "20 cars with 2 people each is 20 × 2 = 40 people. The bus carried about 40 people too. So one bus carried as many people as 20 cars, using one engine instead of 20.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2727,7 +2727,7 @@
    "why_maths": "Working out the gap between dates shows how fast transport has changed."
   },
   {
-   "problem": "In the Words Only test, Revathi, a girl in Class 3, had a silent round that took 2 minutes and scored 3 out of 8. Her question round took 5 minutes and scored 7 out of 8. How many more points did questions give? How many more minutes did they take?",
+   "problem": "In the Words Only test, a silent round took 2 minutes and scored 3 out of 8. A round with questions took 5 minutes and scored 7 out of 8. How many more points did the round with questions score? How many more minutes did it take?",
    "answer": "4 more points, and 3 more minutes.",
    "explain": "7 − 3 = 4 more points. 5 − 2 = 3 more minutes. So questions gave a much better drawing, but took longer. Whether it is worth it depends on the job.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2915,10 +2915,10 @@
   ]
  },
  "roots": {
-  "context": "We have learned how people, goods and messages travel, and found in the dark that a driver sees us only by the light we send back. Now we ask what this tells us about ourselves and the world.",
+  "context": "We have learned how people, goods and messages travel. In the Seen in the Dark test, we found that a driver sees us only by the light that bounces off us. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "With the same dim torch, the black cloth vanished a few steps away. The white cloth was seen from much further. Both were there the whole time. A driver knows you are on the road only when light from you reaches their eyes.",
-   "habit": "We think that being somewhere is the same as being seen there, and that if we can see a car, its driver can see us. The test showed that being seen depends on how much light comes back from us. Road safety needs both: we must see, and we must be seen.",
+   "truth": "In the Seen in the Dark test, the same dim torch shone on every cloth. The black cloth vanished a few steps away. The white cloth was seen from much further. Both were there the whole time. A driver knows you are on the road only when light from you reaches their eyes.",
+   "habit": "We think that being somewhere is the same as being seen there, and that if we can see a car, its driver can see us. The Seen in the Dark test showed that being seen depends on how much light comes back from us. Road safety needs both: we must see, and we must be seen.",
    "evidence": "In the Seen in the Dark test, every cloth stayed on the chair and got the same torch light. Only the light reflected back to the eye changed, and the black cloth vanished first. A reflective strip, which sends light straight back to the lamp, shone brightest of all."
   },
   "three": {
@@ -2926,12 +2926,12 @@
    "what_is_life": "Bees dance, ants leave smell trails, crows call and plants release smells that warn their neighbours. Living beings are always sending messages.",
    "what_is_this_world": "Roads, rails, wires and radio waves join far places, so rice from Andhra Pradesh reaches a kitchen in Kochi."
   },
-  "thread": "Every message needs a sender, something that carries it, and a receiver. In the dark test, the torch, the cloth and your eye made one chain, and if any part was missing, nothing was seen. Roads, rails, wires and radio waves are longer chains of the same kind.",
+  "thread": "Every message needs a sender, something that carries it, and a receiver. In the Seen in the Dark test, the torch, the cloth and your eye made one chain. If any part was missing, nothing was seen. Roads, rails, wires and radio waves are longer chains of the same kind.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
     "teaching": "A great net hangs over the world, with a jewel at every knot. Each jewel shines with the reflected light of all the others.",
-    "link": "In the dark test, the cloths had no light of their own. Each one was seen only by the torch light it sent back. The things around us are seen the same way, by light passed between them."
+    "link": "In the Seen in the Dark test, the cloths had no light of their own. Each one was seen only by the torch light it sent back. The things around us are seen the same way, by light passed between them."
    },
    {
     "source": "Thich Nhat Hanh, the idea of interbeing (in The Heart of Understanding, 1988)",
@@ -2951,7 +2951,7 @@
   ],
   "other_view": {
    "who": "The Charvaka school of ancient India",
-   "view": "The Charvakas taught that perception, what our senses show us, is the only sure way to know anything. In the dark, you could not see the black cloth. Yet you said it was still there, because you remembered putting it on the chair. A Charvaka would ask: can you really know something that your senses cannot show you right now?"
+   "view": "The Charvakas taught that perception, what our senses show us, is the only sure way to know anything. In the Seen in the Dark test, there came a point where you could not see the black cloth. Yet you said it was still there, because you remembered putting it on the chair. A Charvaka would ask: can you really know something that your senses cannot show you right now?"
   },
   "practice": {
    "title": "Borrowed light",
@@ -2960,8 +2960,8 @@
    "kid": "Sit in a dim room. Look at one thing. Where does its light come from? Try three things. Close your eyes. Breathe slowly five times. Open them. Notice the light coming in."
   },
   "ask": [
-   "The black cloth was there, but you could not see it. How did you know it was still there?",
-   "Everything on the Kitchen Journey reached you through other people. What does that tell you about the rice on your plate?"
+   "In the Seen in the Dark test, the black cloth was on the chair, but you could not see it. How did you know it was still there?",
+   "In the Kitchen Journey, every packet reached you through other people. What does that tell you about the rice on your plate?"
   ],
   "art": "A dark room seen from above: a child holding a dim torch, a beam reaching a white cloth on a chair, and a few lines of light coming back from the cloth to the child's eyes, with tiny jewels drawn along the path of the light."
  },
@@ -2972,5 +2972,5 @@
   "when": "1901 (the signal across the Atlantic), 1902 (the idea of a reflecting layer), 1924 (Appleton and Barnett's proof)",
   "wrong_idea": "Experts thought that because radio waves travel in straight lines, they could never follow the curve of the Earth to faraway places. Marconi's signal across the Atlantic showed that radio could go much further. The reason was a charged layer high in the air, the ionosphere, which sends some radio waves back down to the ground."
  },
- "warm": {"words": ["ROADS", "TRAIN", "WHEEL", "RADIO", "LIGHT"], "quiz": [["People used boats long before they used wheels.", true, "Log canoes about 10,000 years old have been found. The oldest wheels are about 5,500 years old."], ["If I can see a car, the driver can see me.", false, "You see the bright lamp itself. The driver sees you only by the little light that bounces off you."], ["At night, a driver sees pale clothes from further away than dark clothes.", true, "Pale colours reflect much more headlight back to the driver than dark colours do."], ["Electric scooters cause no pollution at all.", false, "The electricity may come from burning coal, and making batteries and tyres also harms the air and land."], ["In two-way communication, the listener can ask questions.", true, "Both sides can send and receive, so mistakes get cleared up."], ["One-way communication always gets a message across more correctly than two-way.", false, "Two-way usually works better, because the listener can ask. It only takes a little longer."], ["On Indian road signs, a circle gives an order and a triangle gives a warning.", true, "Shape and colour carry the message, so signs can be read from far away without words."], ["Bright neon colours keep you easy to see at night.", false, "Neon colours glow with invisible light from the Sun. Headlights give out almost none, so they do not glow."], ["Some radio waves bounce off a layer of charged air and reach beyond the horizon.", true, "This layer, the ionosphere, bends them back to the ground far away."], ["Petrol and diesel exhaust only warms the Earth and does not hurt our lungs.", false, "Exhaust also has soot and harmful gases that hurt the lungs, as well as carbon dioxide that warms the Earth."]], "odd": [[["phone call", "chat with a friend", "video call", "TV show"], "TV show", "The first three are two-way, so both sides can answer. A TV show sends a message one way to many people."], [["reflective strip", "white shirt", "mirror", "black shirt"], "black shirt", "The first three send much light back to the driver at night. A black shirt sends back very little."], [["petrol pipeline", "water pipeline", "cooking gas pipeline", "goods truck"], "goods truck", "The first three carry a liquid or gas through a long pipe. A truck carries goods along a road."], [["bee dance", "ant scent trail", "bird alarm call", "falling leaf"], "falling leaf", "The first three are ways living beings send a message to others. A falling leaf carries no message."], [["telephone", "radio", "internet", "drum"], "drum", "The first three send messages using electricity. A drum sends sound without electricity."]]}
+ "warm": {"words": ["ROADS", "TRAIN", "WHEEL", "RADIO", "LIGHT"], "quiz": [["People used boats long before they used wheels.", true, "Log canoes about 10,000 years old have been found. The oldest wheels are about 5,500 years old."], ["If I can see a car, the driver can see me.", false, "You see the bright lamp itself. The driver sees you only by the little light that bounces off you."], ["At night, a driver sees pale clothes from further away than dark clothes.", true, "Pale colours reflect much more headlight back to the driver than dark colours do."], ["Electric scooters cause no pollution at all.", false, "The electricity may come from burning coal, and making batteries and tyres also harms the air and land."], ["In two-way communication, the listener can ask questions.", true, "Both sides can send and receive, so mistakes get cleared up."], ["One-way communication always gets a message across more correctly than two-way.", false, "Two-way usually works better, because the listener can ask. It only takes a little longer."], ["On Indian road signs, a circle gives an order and a triangle gives a warning.", true, "Shape and colour carry the message, so signs can be read from far away without words."], ["Bright neon colours keep you easy to see at night.", false, "Neon colours glow with invisible light from the Sun. Headlights give out almost none of it, so neon colours do not glow at night."], ["Some radio waves bounce off a layer of charged air and reach beyond the horizon.", true, "This layer, the ionosphere, bends them back to the ground far away."], ["Petrol and diesel exhaust only warms the Earth and does not hurt our lungs.", false, "Exhaust also has soot and harmful gases that hurt the lungs, as well as carbon dioxide that warms the Earth."]], "odd": [[["phone call", "chat with a friend", "video call", "TV show"], "TV show", "The first three are two-way, so both sides can answer. A TV show sends a message one way to many people."], [["reflective strip", "white shirt", "mirror", "black shirt"], "black shirt", "The first three send much light back to the driver at night. A black shirt sends back very little."], [["petrol pipeline", "water pipeline", "cooking gas pipeline", "goods truck"], "goods truck", "The first three carry a liquid or gas through a long pipe. A truck carries goods along a road."], [["bee dance", "ant scent trail", "bird alarm call", "falling leaf"], "falling leaf", "The first three are ways living beings send a message to others. A falling leaf carries no message."], [["telephone", "radio", "internet", "drum"], "drum", "The first three send messages using electricity. A drum sends sound without electricity."]]}
 }

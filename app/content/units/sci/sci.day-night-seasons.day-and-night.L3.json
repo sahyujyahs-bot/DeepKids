@@ -3,12 +3,12 @@
  "title": "Day and night: how the spinning Earth makes them",
  "level": 3,
  "summary": {
-  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We notice no spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.",
+  "text": "The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We cannot feel the spin. But a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.",
   "art": "A blue Earth ball lit from one side by a bright Sun, half in daylight and half in night, with a small curved arrow showing the spin and a tiny child standing on the line between light and dark."
  },
  "intro": {
   "hook": "Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?",
-  "text": "In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. In the afternoon here, it is night for children in America, and their Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?",
+  "text": "In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. When it is afternoon here, it is night for children in America. The Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?",
   "art": "A child sitting still on a chair on a rooftop in an Indian town, with speed lines behind the whole town and a faint giant curve of the Earth below, the Sun low on one side."
  },
  "outcomes": [
@@ -473,14 +473,14 @@
    "concept": "Living things keep time with the spin",
    "status": "defined",
    "definition": "Plants, animals and people have body clocks inside them. Body clocks follow a rhythm of about 24 hours, matching the Earth's spin.",
-   "description": "In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Their leaves still opened in the day and folded at night, without any sunlight. So the plant had their own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.",
+   "description": "In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. The plant's leaves still opened in the day and folded at night, without any sunlight. So the plant had their own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that run the clock, in fruit flies. Genes are the instructions inside every cell. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.",
    "examples": [
     "Owls, bats and many moths are active at night. Scientists call them nocturnal.",
     "Long flights across the world give people jet lag. Their body clock is still on home time."
    ],
    "perspectives": [],
    "art": "A touch-me-not plant inside a dark cupboard with their leaves open, and a little clock drawn faintly in their stem.",
-   "context": "The Earth has spun every day for billions of years. This card shows how living things have a clock that matches it."
+   "context": "The Earth has spun every day for billions of years. This card shows that living things have a clock that matches it."
   },
   {
    "concept": "Where daylight comes from",
@@ -650,7 +650,7 @@
    "That night, I thought about the line of light. It swept across India every morning, like a lamp carried slowly through a house. First it touched Dong, where Grandmother's rooster would be crowing. Then the tea gardens of Assam. Then Kolkata, then Delhi, then Mumbai, and at last, Bhuj. Then it would go on, across the sea, to Arabia and Africa, and on and on around the whole turning world. Somewhere along that line, a rooster was always crowing. Somewhere, it was always morning.",
    "The next day, I woke at my Dong time. I waited in the dark, quietly, for about two hours. When the first grey came, I climbed onto the wall and crowed, softly at first, then loud. Not to call the Sun. Just to tell Bhuj that it had turned round into the morning once again."
   ],
-  "epiphany": "For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey.",
+  "epiphany": "For the parent: the rooster thinks the Sun comes to him. He learns otherwise when the Sun rises without his crow, and when Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey.",
   "ask": [
    "Why did Raja think he made the Sun rise?",
    "On the train, why did the dark after Raja's crow last a little longer every morning?",
@@ -967,9 +967,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the bonus question.",
-     "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. You will try turning and travelling at once in Be the Earth.",
-     "kid": "Bonus! The Earth also goes round the Sun. It spins 365 times on the way.",
+     "do": "Tell your child that the Earth also travels round the Sun. Then ask what would happen if the ring stopped turning.",
+     "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. In the activity Be the Earth, you will try turning and travelling at the same time.",
+     "kid": "The Earth also goes round the Sun, once a year. It spins about 365 times on the way.",
      "think": "If the ring stopped turning, what would happen to the players on the night side?"
     }
    ]
@@ -1005,9 +1005,9 @@
     },
     {
      "t": "write",
-     "p": "Arun, who is 7, says, 'The Earth takes a whole year to spin round once.' His big sister Meenakshi says, 'No, one spin takes a day.' Who is right? What does take a year?",
+     "p": "Does one spin of the Earth take a day or a year? What does take a year?",
      "lines": 3,
-     "a": "Meenakshi is right. One spin takes about 24 hours, one day and one night. A year is how long the Earth takes to travel all the way round the Sun. Arun has mixed up the spin with the journey round the Sun.",
+     "a": "One spin takes a day: about 24 hours, one day and one night. A year is how long the Earth takes to travel all the way round the Sun. Saying 'a year' mixes up the spin with the journey round the Sun.",
      "why": "A strong answer names both movements: the spin makes a day, and the trip round the Sun makes a year."
     },
     {
@@ -1097,7 +1097,7 @@
     },
     {
      "t": "write",
-     "p": "In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we notice no spin.",
+     "p": "In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we do not feel the Earth spin.",
      "lines": 3,
      "a": "We only feel movement when it changes, like a bump, a speed-up or a brake. A smooth train hardly changes, so it is hard to feel. The Earth's spin is smoother than any train. It never bumps or brakes, and the air and everything around us move with us. So we feel nothing.",
      "why": "A strong answer says what we really feel: changes in movement, not movement itself. Feeling nothing is not evidence that nothing moves."
@@ -1251,7 +1251,7 @@
     },
     {
      "t": "perspective",
-     "p": "Long ago, two great astronomers disagreed about whether the Earth spins. Imagine you lived then, with no pendulum and no photos from space.",
+     "p": "Long ago, two great astronomers disagreed about whether the Earth spins. Suppose you lived then, with no pendulum and no photos from space.",
      "views": [
       {
        "who": "Ptolemy, a Greek astronomer, about 150 CE",
@@ -1398,7 +1398,7 @@
       "About 1 hour"
      ],
      "a": 0,
-     "why": "At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' follows the wrong direction of the pattern."
+     "why": "At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' gets the pattern backwards: the swing takes less time nearer the Pole, not more."
     },
     {
      "t": "truefalse",
@@ -1476,24 +1476,24 @@
     },
     {
      "t": "perspective",
-     "p": "Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Three girls argue about who should get the credit.",
+     "p": "Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Here are three views about who should get the credit.",
      "views": [
       {
-       "who": "Kavitha, the first girl",
+       "who": "First view",
        "says": "Aryabhata should be named first. He said it more than a thousand years before Copernicus."
       },
       {
-       "who": "Leela, the second girl",
+       "who": "Second view",
        "says": "Copernicus gets the credit because his book changed science. Other scientists built on it, and that led to the proof."
       },
       {
-       "who": "Sana, the third girl",
+       "who": "Third view",
        "says": "Name all of them. An idea grows when many people in many places think of it and argue about it."
       }
      ],
-     "ask": "Pick one girl and argue for her with a fact. Then say what one of the others would answer back.",
+     "ask": "Pick one view and argue for it with a fact. Then say what someone with one of the other views would answer back.",
      "lines": 5,
-     "a": "A strong answer uses dates and what each person did. For Kavitha: 499 CE is over 1,000 years before 1543. For Leela: Copernicus's book was read across Europe, and led on to Galileo and Foucault. For Sana: Heraclides, Aryabhata and Copernicus each reached the idea, and none of them could prove it alone. The answer-back must use a fact too.",
+     "a": "A strong answer uses dates and what each person did. For the first view: 499 CE is over 1,000 years before 1543. For the second view: Copernicus's book was read across Europe, and led on to Galileo and Foucault. For the third view: Heraclides, Aryabhata and Copernicus each reached the idea, and none of them could prove it alone. The answer-back must use a fact too.",
      "why": "There is no single right answer. Being first and changing the world are two different kinds of credit."
     },
     {
@@ -1589,7 +1589,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Make the Earth ball. Shine the torch. Turn the ball and watch day and night. Find who sees the Sun first. Finish with claim, evidence and reasoning."
+     "what": "Make the Earth ball. Shine the torch. Turn the ball and watch day and night. Find who sees the Sun first. Finish by saying what you think, what you saw and why."
     }
    ],
    "record": "Fill in the table for 3 tries. Then draw the ball and the torch, and shade the night half.",
@@ -1683,9 +1683,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then read their first answer from step 1 together.",
-     "say": "Now tell me three things. What do you think makes night? What did you see that shows it? Why does it happen? Now let's read your first idea. Would you change it?",
-     "kid": "Now say or write three things. What I think. What I saw. Why. Then read your first idea. Would you change it?",
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then read together the answer they gave at the start, about where the Sun goes at night.",
+     "say": "Now tell me three things. What do you think makes night? What did you see that shows it? Why does it happen? Now let's read your first idea about where the Sun goes at night. Would you change it?",
+     "kid": "Now say or write three things. What I think. What I saw. Why. Then read your first idea about where the Sun goes at night. Would you change it?",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: night comes because the Earth turns away from the Sun. What I saw: the torch never moved, but the dots went into the dark when I turned the ball. Why: light only reaches the side facing the Sun."
     }
    ],
@@ -1829,8 +1829,8 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Do this indoors in a dark room. Push a toothpick into the Earth ball as a tiny stick, next to the dot for home. Shine the torch from one side and turn the ball slowly, west to east.",
-     "say": "The shadow moved because the Sun seemed to move across the sky. But remember the ball and the torch. Let's put a tiny stick on our ball and turn it.",
+     "do": "Do this indoors in a dark room. Take the Earth ball from the Torch and Ball experiment. Push a toothpick into it as a tiny stick, next to the dot for home. Shine the torch from one side and turn the ball slowly, west to east.",
+     "say": "The shadow moved because the Sun seemed to move across the sky. But in the Torch and Ball experiment, the torch stayed still and the ball turned. Let's put a tiny stick on our ball and turn it.",
      "kid": "Push a toothpick into your Earth ball. Shine the torch. Turn the ball slowly. Watch the tiny shadow move!",
      "think": "If the torch stays still and the ball turns, does the little shadow still move?"
     },
@@ -2295,7 +2295,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Look up the time now in London, New York, Tokyo and Sydney.",
-     "say": "It's our time now. What time do you think it is in New York? Let's check.",
+     "say": "Look at the clock. This is our time. What time do you think it is in New York right now? Let's check.",
      "kid": "Guess the time in New York right now. Now check. Were you close?",
      "context": "This is the first step of What Is Happening Around the World Right Now? You look up the time in other countries."
     },
@@ -2633,7 +2633,7 @@
    "creative": [
     "A lamp that slowly turns orange and dim in the evening, like a sunset, and bright white in the morning.",
     "A 'sunset song' that plays at bedtime, so the body learns the signal.",
-    "Grow a touch-me-not plant inside. Their leaves fold at their own 'night', like a living clock.",
+    "Grow a touch-me-not plant inside. The plant's leaves fold at their own 'night', like a living clock.",
     "Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks."
    ],
    "your_turn": "Now invent your own way. Draw it, make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?",
@@ -2651,9 +2651,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Look at the art of the Sun at midnight.",
-     "say": "Imagine the Sun is still up at midnight. How would you know it was time for bed?",
-     "kid": "Imagine the Sun never sets. How would you know it is bedtime?",
+     "do": "Read the problem together. Look at the picture of the Sun at midnight.",
+     "say": "What if the Sun were still up at midnight? How would you know it was time for bed?",
+     "kid": "What if the Sun never set? How would you know it is bedtime?",
      "context": "This is the first step of the Morning at the Midnight Sun challenge. You find out about places where the Sun does not set for weeks."
     },
     {
@@ -2791,7 +2791,7 @@
   },
   {
    "t": "mcq",
-   "p": "A girl says, 'At night, we are in the Earth's own shadow.' Is she right?",
+   "p": "Is it true that at night we are in the Earth's own shadow?",
    "opts": [
     "Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun",
     "No. Night is the Moon's shadow",
@@ -2806,7 +2806,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 4, uses a torch and a ball to show 'it is midnight in Chennai'. Where should she put the dot for Chennai?",
+   "p": "You use a torch and a ball to show 'it is midnight in Chennai'. Where should you put the dot for Chennai?",
    "opts": [
     "On the side facing the torch",
     "In the middle of the side facing away from the torch",
@@ -2834,15 +2834,15 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi, who is 8, watches the Sun from her balcony all day. In the morning it is in the east. In the evening it is in the west. What is really moving?",
+   "p": "You watch the Sun from a balcony all day. In the morning it is in the east. In the evening it is in the west. What is really moving?",
    "opts": [
-    "Selvi's balcony, carried round by the spinning Earth",
+    "Your balcony, carried round by the spinning Earth",
     "The Sun",
     "Both the Sun and the balcony, at the same speed",
     "Nothing moves"
    ],
    "a": 0,
-   "why": "The Sun stays put. The Earth turns, and carries Selvi and her balcony round with it. That makes the still Sun seem to cross the sky, like still trees seem to move past a train.",
+   "why": "The Sun stays put. The Earth turns, and carries you and your balcony round with it. That makes the still Sun seem to cross the sky, like still trees seem to move past a train.",
    "outcome": 2
   },
   {
@@ -2914,12 +2914,12 @@
   },
   {
    "t": "mcq",
-   "p": "Meera lives in Kanyakumari, in the far south of India. Tara lives in Delhi, in the north. Both look for Dhruva Tara, the Pole Star. Who sees it lower in the sky?",
+   "p": "Kanyakumari is in the far south of India. Delhi is in the north. From which city does Dhruva Tara, the Pole Star, look lower in the sky?",
    "opts": [
-    "Meera, because the further south you live, the lower it sits",
-    "Tara, because the further north you live, the lower it sits",
-    "Both see it at the same height",
-    "Neither can see it"
+    "Kanyakumari, because the further south you live, the lower it sits",
+    "Delhi, because the further north you live, the lower it sits",
+    "It looks the same height from both",
+    "It cannot be seen from either city"
    ],
    "a": 0,
    "why": "The Pole Star sits above the North Pole. Its height in your sky is about the same as how far north of the equator you live. Kanyakumari is about 8 degrees north, so the star is very low. Delhi is about 28 degrees north, so it is much higher.",
@@ -2960,7 +2960,7 @@
   },
   {
    "t": "mcq",
-   "p": "A touch-me-not plant was kept in a dark cupboard. Their leaves still opened and closed each day. What does this show?",
+   "p": "A touch-me-not plant was kept in a dark cupboard. The plant's leaves still opened and closed each day. What does this show?",
    "opts": [
     "The plant has their own body clock",
     "Light got into the cupboard",
@@ -3423,7 +3423,7 @@
   ],
   "other_view": {
    "who": "Most physicists",
-   "view": "Day and night are fully explained by physics: leftover spin from the cloud the Earth formed from, light travelling in straight lines, and a ball blocking it. They see no need for any deeper oneness behind it. That is an honest view, and it is how science works."
+   "view": "Some people say day and night are fully explained by physics: leftover spin from the cloud the Earth formed from, light travelling in straight lines, and a ball blocking it. They see no need for any deeper oneness behind it. That is an honest view, and it is how science works."
   },
   "practice": {
    "title": "Feel the ground turn",
