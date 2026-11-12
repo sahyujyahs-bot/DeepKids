@@ -36,7 +36,7 @@
   {
    "term": "Prediction",
    "meaning": "A prediction is a guess about what will happen, made before you test it, with a reason.",
-   "example": "Nila predicts: 'The potato will sink, because it feels heavy and hard.'",
+   "example": "'The potato will sink, because it feels heavy and hard.' That is a prediction.",
    "art": "A girl pointing at a potato next to a bucket, with a speech bubble saying 'It will sink, because...'."
   },
   {
@@ -96,7 +96,7 @@
   {
    "concept": "What it is made of decides",
    "status": "defined",
-   "context": "This card explains what happened when we cut a potato small, and tried a tiny piece of wood.",
+   "context": "This card explains why, in the bucket test, a tiny piece of potato sank like the whole potato, and a tiny matchstick floated like the big rolling pin.",
    "definition": "For a solid lump of one material, what the material is decides if it floats. A big piece and a small piece of the same material do the same thing.",
    "description": "The whole potato sank, and so did a piece as small as your fingernail. The big rolling pin floated, and so did a tiny matchstick. Wood is lighter than the same amount of water, so wood floats. Steel and potato are heavier than the same amount of water, so they sink.",
    "examples": [
@@ -289,7 +289,7 @@
    "context": "In this experiment you guess, then put ten things from the kitchen into a bucket of water, one at a time. You see which float and which sink. Then you test a tiny piece of potato and a tiny piece of wood.",
    "question": "Which things float and which sink? Do heavy things always sink, and do small things always float?",
    "predict": "Hold each thing in your hand. Will it float or sink? Why do you think so? Then guess: will a tiny piece of potato do the same as the whole potato, and why?",
-   "fair_test": "We use the same bucket of water for every thing. We put each thing in gently, push it to the bottom with a finger, and let go. If it comes back up, it floats. If it stays down, it sinks. We test each thing twice, because one try can be a fluke.",
+   "fair_test": "We use the same bucket of water for every thing. We put each thing in gently, push it to the bottom with a finger, and let go. If it comes back up, it floats. If it stays down, it sinks. We test each thing twice, because one try can give an odd result by chance.",
    "results_table": [
     "Thing",
     "Heavy or light in my hand?",
@@ -451,7 +451,7 @@
        ]
       }
      ],
-     "parent": "This step matters. Your child will use these feelings to guess. Write heavy or light in the table.",
+     "parent": "This step matters. Your child will use how heavy each thing felt to make their guesses. Write heavy or light in the table.",
      "context": "This is the first step of the bucket test. You feel how heavy each thing is."
     },
     {
@@ -462,10 +462,10 @@
      "kid": "Guess for each thing. Float or sink? Say why.",
      "ask": [
       {
-       "q": "Why do you think the rolling pin will sink?",
+       "q": "Will the rolling pin float or sink? Why do you think so?",
        "good": [
-        "Because it is heavy.",
-        "It is big and heavy.",
+        "It will sink, because it is heavy.",
+        "It will sink, because it is big and heavy.",
         "Wood floats, so it will float."
        ]
       }
@@ -493,7 +493,7 @@
        ]
       }
      ],
-     "parent": "Pushing each thing down and letting go stops tiny things resting on the water's skin. Expect: rolling pin, lemon, bottle cap, apple, ice and candle float. Coin, potato, spoon and key sink. If a bottle cap fills with water, empty it and lay it flat side down. A few lemons and apples are denser than most and sink. If yours does, write what it did. That is a real result.",
+     "parent": "Pushing each thing down and letting go makes sure a tiny thing is not just resting on the top of the water. Expect: rolling pin, lemon, bottle cap, apple, ice and candle float. Coin, potato, spoon and key sink. If a bottle cap fills with water, empty it and lay it flat side down. A few lemons and apples are heavier for their size than most, and they sink. If yours does, write what it did. That is a real result.",
      "check": {
       "t": "mcq",
       "q": "The heavy rolling pin floated, and the light coin sank. What does that show?",
@@ -705,7 +705,7 @@
    "title": "Heavy in the Hand: line up the kitchen",
    "mins": 7,
    "days": 1,
-   "context": "In this activity you hold five things, one in each hand, and put them in a line from heaviest to lightest. You will use this line to make your guesses in the bucket test.",
+   "context": "In this activity you hold five things, two at a time, one in each hand. You put them in a line from heaviest to lightest. You will use this line to make your guesses in the bucket test.",
    "materials": [
     {
      "item": "a wooden rolling pin, a potato, a lemon, a steel spoon and a one-rupee coin",
@@ -746,7 +746,7 @@
        ]
       }
      ],
-     "parent": "A wooden rolling pin and a potato are usually the heaviest. The coin is the lightest. Close eyes for a fairer feel, if your child likes."
+     "parent": "A wooden rolling pin and a potato are usually the heaviest. The coin is the lightest. Your child can close their eyes to feel the weight better, if they like."
     },
     {
      "id": "s2",
@@ -921,8 +921,8 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Your child pushes the ball down slowly with both hands. 2. They notice that it is hard to push, and feel it jump when they let go. 3. They keep faces back from the splash.",
-     "say": "Push the ball down slowly. Is the push bigger than the lemon's? Now let go.",
+     "do": "1. Your child pushes the ball down slowly with both hands. 2. They notice that it is hard to push, and feel it jump when they let go. 3. They keep their face back from the splash.",
+     "say": "Push the ball down slowly. Does the water push back harder than it did on the lemon? Now let go.",
      "kid": "Push the ball down slowly. Is it harder than the lemon? Let go and step back.",
      "ask": [
       {
@@ -1089,7 +1089,7 @@
        ]
       }
      ],
-     "parent": "The coconut, the peeled orange and the coin catch most players out. Ask for the bucket test as evidence: 'What did the rolling pin do?'"
+     "parent": "The coconut, the peeled orange and the coin catch most players out. Ask what happened in the bucket test: 'What did the rolling pin do?'"
     },
     {
      "id": "s3",
@@ -1298,7 +1298,7 @@
        "q": "Why did the thermocol hold the coin up?",
        "good": [
         "Thermocol is mostly air.",
-        "It floats very high, so it has push to spare."
+        "It floats very high, so it can hold up the coin as well."
        ]
       }
      ],
@@ -1389,7 +1389,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw the bucket from your test. Draw the things that floated at the top, and the things that sank at the bottom.",
+     "p": "Draw the bucket from the bucket test. Draw the things that floated at the top, and the things that sank at the bottom.",
      "a": "A bucket with the rolling pin, lemon and other floaters at the top, and the coin, spoon and potato on the bottom.",
      "why": "A strong drawing puts the heavy rolling pin at the top and the light coin at the bottom, and labels them.",
      "context": "This question is about the bucket test. You guess, then put ten things from the kitchen into a bucket of water, one at a time, to see which float and which sink.",
@@ -1404,7 +1404,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: the rolling pin felt heavy, yet it floated. Why?",
+     "p": "In the bucket test, the rolling pin felt heavy, yet it floated. Why? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "Because it is made of wood. Wood is lighter than the same amount of water, so it floats, even when it is a big heavy piece.",
      "why": "A strong answer says that weight does not decide, and names the material, wood.",
@@ -1413,7 +1413,7 @@
     },
     {
      "t": "count",
-     "p": "Priya guessed for 10 things in the bucket test. She got 6 right. How many did she get wrong?",
+     "p": "You guess for 10 things in the bucket test. You get 6 right. How many do you get wrong?",
      "a": 4,
      "why": "10 take away 6 is 4. A wrong guess is useful too: it shows where our first idea did not match what happened."
     },
@@ -1446,7 +1446,7 @@
        "says": "The log floats because it is made of wood. A small piece of the same wood would float too."
       }
      ],
-     "ask": "Who do you agree with? Use something from your own bucket test as evidence. Then say one thing the other girl noticed that is worth checking.",
+     "ask": "Who do you agree with? Use something from the bucket test as evidence. Then say one thing the other girl noticed that is worth checking.",
      "lines": 3,
      "a": "A strong answer agrees with Bornali and gives evidence: the tiny matchstick floated like the big rolling pin, and the tiny potato piece sank like the whole potato. It also says Sneha is right that shape can matter for some things, like a steel bowl, which is worth testing.",
      "why": "Both girls give a reason. The bucket test showed that for a solid lump, the material decides, not the size. Shape and air inside can matter for hollow things, which the Class 4 unit tests."
@@ -1465,14 +1465,14 @@
     },
     {
      "t": "mcq",
-     "p": "Kiran, a girl in Pune, wants to know if a tiny piece of potato floats. What should she do first?",
+     "p": "You want to know if a tiny piece of potato floats. What should you do first?",
      "opts": [
       "Drop it in and see",
       "Guess, and say why",
-      "Ask her friend"
+      "Ask a friend"
      ],
      "a": 1,
-     "why": "First she guesses and gives a reason. Then the test shows if she was right. Guessing first helps her notice what surprised her."
+     "why": "First you guess and give a reason. Then the test shows if you were right. Guessing first helps you notice what surprised you."
     },
     {
      "t": "fill",
@@ -1505,7 +1505,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why does a life jacket help a person float?",
+     "p": "Why does a life jacket help a person float? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "A life jacket is full of foam with air in it. Air is very light, so the person and the jacket together are light for their size, and they float.",
      "why": "A strong answer links the jacket to the orange peel or to thermocol: things full of air float."
@@ -1562,7 +1562,7 @@
     },
     {
      "t": "write",
-     "p": "Mehak in Amritsar says: 'A tiny piece of potato will float, because it is so light.' What test would you show her, and what would she see?",
+     "p": "Someone says: 'A tiny piece of potato will float, because it is so light.' What test would you show them, and what would they see?",
      "lines": 3,
      "a": "Cut a tiny piece of potato and drop it in water. Push it down and let go. It sinks, just like the whole potato.",
      "why": "A strong answer describes a real test and says what happens. It shows that the material, not the size, decides."
@@ -1581,7 +1581,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi drops a big wooden block and a small wooden button into water. What will happen?",
+     "p": "A big wooden block and a small wooden button are dropped into water. What will happen?",
      "opts": [
       "Both float",
       "The block sinks, the button floats",
@@ -1600,9 +1600,9 @@
     },
     {
      "t": "write",
-     "p": "A coconut can float across the sea and grow on a new island. Say out loud, and a grown-up writes it down: how does floating help the coconut palm?",
+     "p": "A coconut can float across the sea and grow on a new island. How does floating help the coconut palm? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
-     "a": "The coconut seed floats away to new beaches far away. There she can grow into a new palm, where no palm grew before.",
+     "a": "The coconut floats across the sea to a beach far away. There she can grow into a new palm, where no palm grew before.",
      "why": "A strong answer says floating carries the seed to new places to grow."
     }
    ]
@@ -1661,7 +1661,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Madurai, is about to test a cucumber. What is a good prediction?",
+   "p": "You are about to test a cucumber. What is a good prediction?",
    "opts": [
     "'It will float.'",
     "'It will float, because it feels light for its size.'",
@@ -1711,7 +1711,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ayesha, a girl in Hyderabad, floats a big log of wood and a small twig of the same wood. What happens?",
+   "p": "A big log of wood and a small twig of the same wood are put in water. What happens?",
    "opts": [
     "The log floats, the twig sinks",
     "Both float",
@@ -1743,7 +1743,7 @@
     "The juice floats"
    ],
    "a": 0,
-   "why": "Air is very light. The peel's air pockets make the whole orange light for its size. Picking 'the peel is heavy' would mean the peeled orange should float better.",
+   "why": "Air is very light. The peel's air pockets make the whole orange light for its size. If the peel were heavy, the peeled orange would float better, and it does not.",
    "outcome": 4,
    "how": "e2"
   },
@@ -1859,9 +1859,9 @@
  ],
  "maths": [
   {
-   "problem": "In the bucket test, Revathi made 10 guesses. Draw a tally mark for each right guess: rolling pin wrong, coin wrong, lemon right, potato right, spoon right, bottle cap right, apple right, key right, ice right, candle wrong. How many were right? How many were wrong?",
+   "problem": "Here are 10 guesses from a bucket test. Draw a tally mark for each right guess: rolling pin wrong, coin wrong, lemon right, potato right, spoon right, bottle cap right, apple right, key right, ice right, candle wrong. How many were right? How many were wrong?",
    "answer": "7 right and 3 wrong.",
-   "explain": "Count the tally marks: 7 right. 10 take away 7 is 3 wrong. Her wrong guesses were the rolling pin, the coin and the candle. Two of them were the heavy-or-light surprises.",
+   "explain": "Count the tally marks: 7 right. 10 take away 7 is 3 wrong. The wrong guesses were the rolling pin, the coin and the candle. Two of them, the rolling pin and the coin, were the surprises about heavy and light.",
    "math_unit": "math.data.sorting-and-tallies.L2",
    "how": "e1",
    "context": "This question is about the bucket test. You guess, then put ten things from the kitchen into a bucket of water, one at a time, to see which float and which sink.",
@@ -1877,7 +1877,7 @@
    "why_maths": "Sorting into columns helps us spot a pattern in what sank."
   },
   {
-   "problem": "Made-up numbers: Anjali put her rolling pin on one side of a homemade balance, and coins on the other. It took 60 coins to balance the rolling pin. Which is heavier, the rolling pin or one coin? The rolling pin floated and one coin sank. What does that tell you?",
+   "problem": "Made-up numbers: a rolling pin is put on one side of a homemade balance, and coins on the other. It takes 60 coins to balance the rolling pin. Which is heavier, the rolling pin or one coin? In the bucket test, the rolling pin floated and one coin sank. What does that tell you?",
    "answer": "The rolling pin is heavier: as heavy as 60 coins. Yet it floated and a coin sank, so weight does not decide floating.",
    "explain": "60 coins balance one rolling pin, so the rolling pin is much heavier than one coin. If heavy things always sank, the rolling pin would sink first. It did not.",
    "math_unit": "math.weight-capacity.weight.L1",
@@ -2002,8 +2002,8 @@
  "roots": {
   "context": "We have guessed and tested what floats and what sinks, cut a potato small, and peeled an orange. Now we ask what floating tells us about things, and about ourselves.",
   "deep_truth": {
-   "truth": "In your test, the heavy wooden rolling pin floated and the light coin sank. A tiny piece of potato sank, just like the whole potato. So size and weight alone do not decide if a thing floats. For a solid lump, what it is made of decides.",
-   "habit": "We judge things by how big they look and how heavy they feel in the hand. The bucket test showed that floating depends on the material all the way through, which the hand cannot feel.",
+   "truth": "In the bucket test, the heavy wooden rolling pin floated and the light coin sank. A tiny piece of potato sank, just like the whole potato. So size and weight alone do not decide if a thing floats. For a solid lump, what it is made of decides.",
+   "habit": "We judge things by how big they look and how heavy they feel in the hand. The bucket test showed that floating depends on what a thing is made of, and the hand cannot feel that.",
    "evidence": "In the bucket test, the heaviest thing, the rolling pin, floated, and one of the lightest, the coin, sank. A fingernail-sized piece of potato sank, and a matchstick floated like the rolling pin."
   },
   "three": {
@@ -2011,7 +2011,7 @@
    "what_is_life": "A coconut floats across the sea and grows into a palm on a new island. Floating is one way life travels.",
    "what_is_this_world": "The same water holds up a bamboo coracle on the Kaveri and a floating island on Loktak Lake, and lets a clay idol sink in Mumbai."
   },
-  "thread": "A coin, a rolling pin and a potato are different things, and the same water meets all of them. What each one does depends on what it is made of. Everything is conscious, and each kind of thing meets the water in its own way.",
+  "thread": "A coin, a rolling pin and a potato are different things, and they all go into the same water. What each one does there depends on what it is made of. Everything is conscious, and each kind of thing behaves in the water in its own way.",
   "teachings": [
    {
     "source": "Anguttara Nikaya 3.65 (the Kalama Sutta)",
@@ -2021,7 +2021,7 @@
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "Some blind men each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and each knew only one part.",
-    "link": "Your hand knew only one part of the rolling pin: how heavy it is. The bucket showed another part, what it is made of. You needed both to understand it."
+    "link": "Your hand told you only one thing about the rolling pin: how heavy it is. The bucket test showed you another: what it is made of. You needed both to understand it."
    }
   ],
   "science": [

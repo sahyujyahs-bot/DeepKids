@@ -96,7 +96,7 @@
    "status": "defined",
    "context": "This card explains what solidifying and freezing are.",
    "definition": "Solidifying is when a liquid turns into a solid because it has cooled down enough. Freezing is solidifying in the cold, like water turning into ice.",
-   "description": "In the fridge, the melted chocolate, butter and coconut oil set hard again. A drop of candle wax set on a steel plate in a few seconds, because the plate is far cooler than a flame. Water stayed liquid in the fridge. It needs the much colder freezer to turn into ice.",
+   "description": "In the melting race, the melted chocolate, butter and coconut oil set hard again in the fridge. In the Wax Drops activity, a drop of candle wax set on a steel plate in a few seconds, because the plate is far cooler than a flame. Water stayed liquid in the fridge. It needs the much colder freezer to turn into ice.",
    "examples": [
     "Water in an ice tray freezes in the freezer.",
     "Hot ghee poured into a jar solidifies on a cold morning.",
@@ -126,7 +126,7 @@
    "status": "defined",
    "context": "This card explains why melted chocolate is still chocolate.",
    "definition": "A reversible change is a change that can be undone. When a substance melts and then solidifies again, it is still the same substance.",
-   "description": "Your chocolate melted in warm water and set again in the fridge. It still tasted of chocolate. Ice that melts is still water, and you can freeze it again. Set chocolate may look dull or streaky, because its fat sets in a new pattern. It is still chocolate. A cooked dosa cannot turn back into batter, so cooking is not a reversible change.",
+   "description": "In the melting race, the chocolate melted in warm water and set again in the fridge. It still tasted of chocolate. Ice that melts is still water, and you can freeze it again. Chocolate that has set again may look dull or streaky, because its fat sets in a new pattern. It is still chocolate. A cooked dosa cannot turn back into batter, so cooking is not a reversible change.",
    "examples": [
     "Water to ice to water, again and again.",
     "Old candle stubs melted down and poured into a new candle.",
@@ -170,7 +170,7 @@
   },
   {
    "text": "Different substances melt at different temperatures.",
-   "evidence": "On the same plate, the coconut oil melted in minutes, the chocolate stayed hard, and the wax melted only near a candle flame."
+   "evidence": "In the melting race, on the same plate, the coconut oil melted in minutes and the chocolate stayed hard. The wax melted only near a candle flame."
   },
   {
    "text": "Pure water freezes and ice melts at the same temperature, 0 degrees Celsius.",
@@ -184,7 +184,7 @@
  "challenging": [
   {
    "claim": "Hot water can freeze faster than cold water.",
-   "who": "Erasto Mpemba, a schoolboy in Tanzania, who noticed it in 1963 while making ice cream. He and the physicist Denis Osborne wrote about it in 1969.",
+   "who": "Erasto Mpemba, a schoolboy in Tanzania, noticed it in 1963 while making ice cream. He and the physicist Denis Osborne wrote about it in 1969.",
    "for": "Mpemba saw his hot ice cream mix freeze before his friends' cold mix. Some later tests have found the same thing.",
    "against": "Other careful tests found that hot water does not freeze faster when everything else is kept the same. The result changes with the container and the freezer.",
    "status": "debated",
@@ -246,7 +246,7 @@
   "story": "About 260 years ago, people thought ice melted the moment it became just a little warmer than freezing. They thought only a tiny bit of warmth was needed. Joseph Black, a scientist in Glasgow, Scotland, tested this around 1761. He set out two glass containers in a warm room. One held ice. The other held the same amount of very cold water, only just above freezing. He watched how fast each one warmed up. The cold water warmed up by several degrees in about half an hour. The ice took about ten hours to melt and warm up by the same amount. The whole time it was melting, the ice and its water stayed at freezing. So all that warmth from the room had gone into melting the ice, not into warming it. Black showed that melting needs a lot of warmth, even though a thermometer shows no change. That is why an ice cube lasts so long in a warm room, and why snow on mountains melts slowly in spring.",
   "who": "Joseph Black, a Scottish doctor and scientist",
   "when": "Around 1761",
-  "wrong_idea": "That ice melts with only a tiny bit of warmth, as soon as it is a little above freezing. Black showed that ice soaks up a lot of warmth while it melts, without getting any warmer.",
+  "wrong_idea": "People thought that ice melts with only a tiny bit of warmth, as soon as it is a little above freezing. Black showed that ice soaks up a lot of warmth while it melts, without getting any warmer.",
   "art": "A man in 1700s clothes in a warm room looking at two glass flasks, one full of ice and one full of water, with a clock on the wall."
  },
  "story": {
@@ -299,7 +299,7 @@
    "title": "The Melting Race: which solid melts first?",
    "mins": 33,
    "days": 1,
-   "context": "In this experiment you race five solids: an ice cube, a square of chocolate, a little butter, a little coconut oil and a piece of candle wax. First they sit on a plate in the room. Then they float in a bowl of warm water. Last, a grown-up lights a candle. Then you cool them in the fridge.",
+   "context": "In this experiment you race five solids: an ice cube, a square of chocolate, a little butter, a little coconut oil and a piece of candle wax. First they sit on a plate in the room. Next they float in a bowl of warm water. Then a grown-up lights a candle, to see if wax melts near the flame. At the end, you cool the melted ones in the fridge.",
    "question": "Do all solids melt at the same warmth? Which one melts first, and which one needs the most warmth?",
    "predict": "Look at the five solids. Which one will melt first on the plate? Which will melt last? Will any of them not melt at all? Why do you think so?",
    "fair_test": "Each solid is about the same small size, about as big as the tip of your thumb. They all sit on the same plate, in the same room, for the same time. In the warm water, they all float in the same bowl.",
@@ -456,7 +456,7 @@
        ]
       }
      ],
-     "parent": "Take the coconut oil and butter out of the fridge just now, so they start hard. Don't say which guess is right. Many children say ice will melt first. Write the guessed order at the top of the table."
+     "parent": "Take the coconut oil and butter out of the fridge just before you start, so they start hard. Don't say which guess is right. Many children say ice will melt first. Write the guessed order at the top of the table."
     },
     {
      "id": "s2",
@@ -483,7 +483,7 @@
      "context": "In this step of the melting race, the solids float in a bowl of warm water.",
      "do": "1. Fill the wide bowl with water as warm as a bath. 2. Your child tests it with a finger. 3. Put each solid in its own katori (scrape the runny ones in), and float the katoris on the water. 4. Watch for 5 minutes.",
      "say": "This water is as warm as a bath. Now which ones will melt? Will the wax melt too? Why do you think so?",
-     "kid": "Float each solid on the warm water. Watch for 5 minutes. Which ones melt now?",
+     "kid": "Float each solid in its katori on the warm water. Watch for 5 minutes. Which ones melt now?",
      "ask": [
       {
        "q": "What happened to the chocolate and the butter?",
@@ -500,7 +500,7 @@
        ]
       }
      ],
-     "parent": "The chocolate and butter melt in a few minutes, because bath water is warmer than their melting points. The wax stays hard. Let your child press it with a finger to check. Don't explain yet. Melted chocolate may keep its square shape until you poke it, so press it to check.",
+     "parent": "The chocolate and butter melt in a few minutes, because bath water is warmer than their melting points. Melted chocolate may keep its square shape until you poke it, so press it to check. The wax stays hard. Let your child press it with a finger to check. Don't explain why yet.",
      "check": {
       "t": "mcq",
       "q": "The chocolate melted in the warm water, but the wax did not. Why?",
@@ -510,7 +510,7 @@
        "Wax never melts"
       ],
       "a": 0,
-      "why": "Each solid has its own melting point. Bath water is warm enough for chocolate, but wax needs much more warmth. Picking 'wax never melts' is a good guess to test in the next step."
+      "why": "Each solid has its own melting point. Bath water is warm enough for chocolate, but wax needs much more warmth. If you picked 'Wax never melts', that is a good guess to test in the next step."
      }
     },
     {
@@ -518,8 +518,8 @@
      "mins": 4,
      "adult": true,
      "context": "In this step of the melting race, a grown-up lights a candle to see if wax can melt.",
-     "do": "1. Light the candle and hold it upright on a steel plate. 2. Your child watches from an arm's length away. 3. After two or three minutes, point to the wax around the wick. 4. Blow it out.",
-     "say": "Look just under the flame. What is happening to the wax there? Now I will blow it out. Watch the pool.",
+     "do": "1. Light the candle and hold it upright on a steel plate. 2. Your child watches from an arm's length away. 3. After two or three minutes, point to the wax around the wick. 4. Blow out the candle.",
+     "say": "Look just under the flame. What is happening to the wax there? Now I will blow out the candle. Watch the pool of melted wax.",
      "kid": "Watch from an arm's length. Look under the flame. What is the wax doing?",
      "ask": [
       {
@@ -531,17 +531,17 @@
        ]
       }
      ],
-     "parent": "A small pool of clear liquid wax forms around the wick within two or three minutes. After you blow it out, the pool turns white and hard in about a minute. So wax does melt, but only near a flame."
+     "parent": "A small pool of clear liquid wax forms around the wick within two or three minutes. After you blow out the candle, the pool turns white and hard in about a minute. So wax does melt, but only near a flame."
     },
     {
      "id": "s5",
      "mins": 3,
      "context": "In this step of the melting race, you cool the melted solids in the fridge.",
-     "do": "1. Put the katoris of melted chocolate, butter, coconut oil and ice water in the fridge. 2. Ask the question below. 3. Set a timer for 20 minutes.",
+     "do": "1. Put the katoris of melted chocolate, butter and coconut oil, and the water from the melted ice, in the fridge. 2. Ask the question below. 3. Set a timer for 20 minutes.",
      "say": "These have all melted. What will they be like after 20 minutes in the fridge? Will the water turn back into ice? Why do you think so?",
      "kid": "Put the melted ones in the fridge. What will happen? Guess, and say why.",
      "wait": "Leave them in the fridge for 20 minutes.",
-     "parent": "Use the main part of the fridge, not the freezer. That way your child can see that water needs much more cold than the others."
+     "parent": "Use the main part of the fridge, not the freezer. That way your child can see that water needs much more cold to turn solid than the others do."
     },
     {
      "id": "s6",
@@ -590,7 +590,7 @@
   },
   {
    "id": "e2",
-   "title": "The Freezer Watch: where does the ice start, and which cup freezes first?",
+   "title": "The Freezer Watch: where does the ice start, and which tumbler freezes first?",
    "mins": 25,
    "days": 1,
    "context": "In this experiment you put the same amount of water in a steel tumbler and in a plastic tumbler, and put both in the freezer. You look every 30 minutes to see where the ice starts, and which one freezes first.",
@@ -632,7 +632,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Fill both tumblers, guess, and put them in the freezer. Look every 30 minutes for about 3 hours, 2 or 3 minutes each time, and write down where the ice is."
+     "what": "Fill both tumblers, guess, and put them in the freezer. Look every 30 minutes for about 3 hours. Each look takes 2 or 3 minutes. Write down where the ice is."
     }
    ],
    "record": "Draw both tumblers at each look. Colour the ice blue and leave the water white.",
@@ -730,7 +730,7 @@
      }
     }
    ],
-   "safety": "Cold steel can stick to a wet finger. Dry your hands and touch the tumblers only on the outside, with a cloth."
+   "safety": "Cold steel can stick to a wet finger. Dry your hands, and touch only the outside of the tumblers, through a cloth."
   }
  ],
  "activities": [
@@ -758,7 +758,7 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "Hold a piece of chocolate on your tongue without chewing. Then a chip of ice. Say what you noticed."
+     "what": "Hold a piece of chocolate on your tongue without chewing. Then do the same with a chip of ice. Say what you noticed."
     }
    ],
    "record": "Draw the chocolate before and after it was on your tongue.",
@@ -795,7 +795,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Give your child the chip of ice. 2. Ask them to hold it on their tongue in the same way. 3. Ask the questions below.",
-     "say": "Now the ice. Hold it the same way. Which one melted faster? Where did the warmth to melt them come from?",
+     "say": "Now hold the chip of ice on your tongue in the same way. Which one melted faster, the chocolate or the ice? Where did the warmth to melt them come from?",
      "kid": "Now hold the ice on your tongue. Did it melt? Which melted first?",
      "ask": [
       {
@@ -1053,7 +1053,7 @@
        ]
       }
      ],
-     "parent": "Salt makes the ice melt a little round the thread, even in the cold. Then the water freezes again over the thread and holds it. If it does not lift, wait another minute and add one more small pinch."
+     "parent": "Salt makes the ice melt a little round the thread, even though the ice is still cold. Then the water freezes again over the thread and holds it. If the ice cube does not lift, wait another minute and add one more small pinch of salt."
     },
     {
      "id": "s3",
@@ -1159,7 +1159,7 @@
     "One player turns over the top card and reads it out.",
     "Everyone shouts 'Melt!' or 'Set!' as fast as they can.",
     "Turn the card over and read the back. The first player with the right answer keeps the card.",
-    "When the pile is finished, the player with the most cards wins. Playing alone, sort the cards into two piles and check the backs."
+    "When the pile is finished, the player with the most cards wins. If you play alone, sort the cards into two piles and check the backs."
    ],
    "setup": [
     {
@@ -1187,7 +1187,7 @@
      "kid": "Read a card out loud. Shout 'Melt!' or 'Set!' Check the back.",
      "ask": [
       {
-       "q": "Why is lava setting into rock a 'set' card?",
+       "q": "Why is 'Hot red lava turning into black rock' a 'Set' card?",
        "good": [
         "Lava is a liquid, and it turns into solid rock.",
         "It cools down and goes hard."
@@ -1310,8 +1310,8 @@
     "Draw the board: a big sheet split into four columns, with the labels at the top.",
     "Shuffle the 16 cards and put them face down in a pile.",
     "Take turns. Turn over a card, read it, and put it in a column. Say why.",
-    "Turn the card over and read the back. If you were right, score one point. If not, move it to the right column.",
-    "When all 16 are placed, the player with the most points wins. Playing alone, try to beat your own score next time."
+    "Turn the card over and read the back. If you were right, score one point. If not, move the card to the correct column.",
+    "When all 16 are placed, the player with the most points wins. If you play alone, try to beat your own score next time."
    ],
    "setup": [
     {
@@ -1342,11 +1342,11 @@
        "q": "Why did you put chocolate in the 'warm hand' column?",
        "good": [
         "It melts in my mouth and my hand.",
-        "It melted in the warm water in our race."
+        "It melted in the warm water in our melting race."
        ]
       }
      ],
-     "parent": "Many children put the stone or the steel spoon in 'never'. Explain that rock and metal do melt if they get hot enough."
+     "parent": "Many children say the stone or the steel spoon would never melt. Explain that rock and metal do melt if they get hot enough."
     },
     {
      "id": "s3",
@@ -1545,12 +1545,12 @@
       {
        "q": "Why did the wrapped ice cube last longer?",
        "good": [
-        "The wrap slowed the warmth from getting in.",
+        "The wrap slowed down the warmth getting in.",
         "The air could not touch it."
        ]
       }
      ],
-     "parent": "A thick wrap slows the warmth from the room getting into the ice. A woollen sock keeps ice cold for the same reason it keeps feet warm: it slows warmth moving through it."
+     "parent": "A thick wrap slows down the warmth from the room as it moves into the ice. A woollen sock keeps ice cold for the same reason it keeps feet warm: warmth moves through it slowly."
     }
    ]
   },
@@ -1566,18 +1566,18 @@
    ],
    "materials": [
     "a bar of chocolate",
-    "a small steel bowl, floated in a bigger bowl of hot water from a grown-up",
+    "a small steel bowl, and a bigger bowl of hot water for it to float on (a grown-up fills the bigger bowl)",
     "moulds: an ice tray, bottle caps, a steel spoon, a small katori, a sheet of butter paper",
     "a spoon to stir",
     "space in the fridge"
    ],
    "general": [
     "Pour the melted chocolate into an ice tray to make little blocks.",
-    "Drip it onto butter paper in the shape of a letter."
+    "Drip the melted chocolate onto butter paper in the shape of a letter."
    ],
    "creative": [
     "Pour a thin layer into a katori, let it set, then add a second layer, to make stripes.",
-    "Press a nut into each one before it sets."
+    "Press a nut into each chocolate before it sets."
    ],
    "your_turn": "Choose your own mould and shape. How long did it take to set in the fridge? Did it come out in the shape of the mould?",
    "setup": [
@@ -1723,7 +1723,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw your square of chocolate before the warm water and after the warm water.",
+     "p": "Draw the square of chocolate before it went into the warm water, and after.",
      "a": "A square with sharp corners, then a flat, runny puddle in a katori.",
      "why": "A strong drawing shows the square shape before and a runny puddle after, with a label such as 'melted'.",
      "context": "This question is about the melting race. You put an ice cube, chocolate, butter, coconut oil and candle wax on a steel plate, then in a bowl of warm water, then near a candle flame.",
@@ -1738,14 +1738,14 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: why does your hand feel cold when you hold an ice cube?",
+     "p": "Say your answer out loud, and a grown-up writes it down. Why does your hand feel cold when you hold an ice cube?",
      "lines": 2,
      "a": "Warmth from my hand goes into the ice to melt it, so my hand loses warmth and feels cold.",
      "why": "A strong answer says the warmth moves from the hand into the ice. Saying 'cold goes into my hand' is a common idea, but scientists describe warmth moving the other way."
     },
     {
      "t": "count",
-     "p": "Farhan put 5 solids on a plate: ice, coconut oil, butter, chocolate and wax. After 10 minutes, 2 had started to melt. How many still looked hard?",
+     "p": "You put 5 solids on a plate: ice, coconut oil, butter, chocolate and wax. After 10 minutes, 2 have started to melt. How many still look hard?",
      "a": 3,
      "why": "5 take away 2 is 3. In a warm room, the ice and coconut oil usually start to melt first, and the butter, chocolate and wax still look hard.",
      "how": "e1",
@@ -1816,7 +1816,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: in the fridge, the melted chocolate went hard but the water did not. Why?",
+     "p": "Say your answer out loud, and a grown-up writes it down. In the melting race, the melted chocolate went hard in the fridge but the water did not. Why?",
      "lines": 2,
      "a": "The fridge is cold enough to make chocolate solidify, but water needs the freezer, which is much colder.",
      "why": "A strong answer says each liquid solidifies at its own warmth, and water needs more cold than chocolate.",
@@ -1833,7 +1833,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi's coconut oil is golden and runny in Kochi, but white and hard on a January morning in Delhi. Why?",
+     "p": "In the story The Coconut Oil That Turned White, Lakshmi's coconut oil is golden and runny in Kochi, but white and hard on a January morning in Delhi. Why?",
      "opts": [
       "The oil went bad on the train",
       "Delhi is colder than the oil's melting point that morning",
@@ -1857,7 +1857,7 @@
      "lines": 2,
      "a": "The top touches the cold air and the sides touch the cold cup, so they lose their warmth first. The middle is furthest from the cold.",
      "why": "A strong answer says that water freezes first where it loses warmth first.",
-     "context": "This question is about the freezer watch. You put the same water in a steel tumbler and a plastic tumbler in the freezer, and look every 30 minutes.",
+     "context": "This question is about the freezer watch. You put the same amount of water in a steel tumbler and a plastic tumbler, put both in the freezer, and look every 30 minutes.",
      "how": "e2"
     },
     {
@@ -1883,7 +1883,7 @@
      "p": "Draw a tumbler of water in the freezer after one hour. Colour where the ice has formed.",
      "a": "A thin layer of ice on top and a ring of ice round the sides, with water still in the middle.",
      "why": "A strong drawing shows ice on top and at the sides, where the water touches the cold air and the cold cup.",
-     "context": "This question is about the freezer watch. You put the same water in a steel tumbler and a plastic tumbler in the freezer, and look every 30 minutes.",
+     "context": "This question is about the freezer watch. You put the same amount of water in a steel tumbler and a plastic tumbler, put both in the freezer, and look every 30 minutes.",
      "how": "e2",
      "art": "An empty outline of a tumbler."
     },
@@ -1934,7 +1934,7 @@
     },
     {
      "t": "count",
-     "p": "Revathi made 4 ice lollies. She ate 1 on Monday and 1 on Tuesday. On Wednesday she made 2 more. How many lollies does she have now?",
+     "p": "You made 4 ice lollies. You ate 1 on Monday and 1 on Tuesday. On Wednesday you made 2 more. How many lollies do you have now?",
      "a": 4,
      "why": "4 take away 2 is 2. Then 2 more makes 4."
     },
@@ -1952,9 +1952,9 @@
     },
     {
      "t": "write",
-     "p": "Many people think hot water can never freeze faster than cold water. A Tanzanian schoolboy, Erasto Mpemba, said it did. How could you test it at home?",
+     "p": "Many people think hot water can never freeze faster than cold water. A Tanzanian schoolboy, Erasto Mpemba, said he saw it happen. How could you test it at home?",
      "lines": 3,
-     "a": "Put the same amount of hot water and cold water in two same tumblers, side by side in the freezer. Look every 30 minutes to see which one freezes first.",
+     "a": "Put the same amount of hot water and cold water in two tumblers that are the same, side by side in the freezer. Look every 30 minutes to see which one freezes first.",
      "why": "A strong answer keeps everything the same except how hot the water starts. Scientists still argue about this, so any honest result is useful."
     },
     {
@@ -2036,7 +2036,7 @@
   },
   {
    "t": "mcq",
-   "p": "Mina floats a piece of candle wax and a square of chocolate in bath-warm water. After five minutes, what does she see?",
+   "p": "You float a piece of candle wax and a square of chocolate in bath-warm water. After five minutes, what do you see?",
    "opts": [
     "The chocolate is runny and the wax is still hard",
     "Both are runny",
@@ -2062,14 +2062,14 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali holds an ice cube in her hand in Pune. Why does her hand feel cold?",
+   "p": "You hold an ice cube in your hand. Why does your hand feel cold?",
    "opts": [
-    "Cold flows out of the ice into her hand",
-    "Warmth flows out of her hand into the ice",
+    "Cold flows out of the ice into your hand",
+    "Warmth flows out of your hand into the ice",
     "The ice is wet"
    ],
    "a": 1,
-   "why": "Warmth always flows from the warmer thing to the cooler thing. Her hand loses warmth to melt the ice.",
+   "why": "Warmth always flows from the warmer thing to the cooler thing. Your hand loses warmth to melt the ice.",
    "outcome": 4
   },
   {
@@ -2098,10 +2098,10 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi guessed the ice would melt last. Then she watched it melting on the plate. What should she do?",
+   "p": "You guessed the ice would melt last. Then you watched it melting on the plate. What should you do?",
    "opts": [
-    "Say her guess was right anyway",
-    "Say what she saw, and change her idea",
+    "Say your guess was right anyway",
+    "Say what you saw, and change your idea",
     "Stop the test"
    ],
    "a": 1,
@@ -2120,7 +2120,7 @@
    "why": "The top and sides touch the cold air and the cold cup, so they lose their warmth first.",
    "outcome": 1,
    "how": "e2",
-   "context": "This question is about the freezer watch. You put the same water in a steel tumbler and a plastic tumbler in the freezer, and look every 30 minutes."
+   "context": "This question is about the freezer watch. You put the same amount of water in a steel tumbler and a plastic tumbler, put both in the freezer, and look every 30 minutes."
   }
  ],
  "applications": [
@@ -2160,7 +2160,7 @@
  "open_questions": [
   {
    "q": "Why is ice slippery?",
-   "why_open": "People once said our weight melts the ice. Scientists worked out that this is too small to explain it. Most think the surface of ice has a very thin wet layer of its own, but they still argue about how it forms and how much it matters."
+   "why_open": "People once said our weight melts the ice. Scientists worked out that our weight is too small to do that. Most think the surface of ice has a very thin wet layer of its own, but they still argue about how it forms and how much it matters."
   },
   {
    "q": "Can hot water freeze faster than cold water?",
@@ -2218,7 +2218,7 @@
  ],
  "maths": [
   {
-   "problem": "In the melting race, Kavya's coconut oil was all runny after 6 minutes. Her ice cube took 30 minutes to melt. How many more minutes did the ice take?",
+   "problem": "In the melting race, the coconut oil was all runny after 6 minutes. The ice cube took 30 minutes to melt. How many more minutes did the ice take?",
    "answer": "24 more minutes.",
    "explain": "30 take away 6 is 24. So the ice took 24 more minutes than the coconut oil, even though ice melts at a lower warmth. A whole ice cube needs a lot of warmth to melt.",
    "math_unit": "math.addition-subtraction.meaning.L2",
@@ -2227,16 +2227,16 @@
    "why_maths": "Taking away shows how much longer one solid took, which tells us something surprising about ice."
   },
   {
-   "problem": "Priya checks her plate every 2 minutes for 10 minutes. How many times does she look? If she looks every 5 minutes instead, how many times does she look?",
+   "problem": "In the melting race, you check the plate every 2 minutes for 10 minutes. How many times do you look? If you look every 5 minutes instead, how many times do you look?",
    "answer": "5 times every 2 minutes, and 2 times every 5 minutes.",
-   "explain": "2, 4, 6, 8, 10 is 5 looks. 5, 10 is 2 looks. Looking more often means she can say more exactly when each solid started to melt.",
+   "explain": "2, 4, 6, 8, 10 is 5 looks. 5, 10 is 2 looks. Looking more often means you can say more exactly when each solid started to melt.",
    "math_unit": "math.number-sense.counting.L2",
    "how": "e1",
    "context": "This question is about the melting race. You put an ice cube, chocolate, butter, coconut oil and candle wax on a steel plate, then in a bowl of warm water, then near a candle flame.",
    "why_maths": "Counting in twos and fives shows that looking more often gives us a better record of when things change."
   },
   {
-   "problem": "In the melting race, ice and coconut oil melted in the room, chocolate and butter in the warm water, and wax near the flame. Make a tally of how many melted in each place. Which place melted the most?",
+   "problem": "In the melting race, ice and coconut oil melted in the room, chocolate and butter in the warm water, and wax near the flame. Make a tally of how many melted in each place. In which place did the most solids melt?",
    "answer": "Room: 2. Warm water: 2. Flame: 1. The room and the warm water tied, with 2 each.",
    "explain": "Each solid goes in the place where it first melted. The wax is the only one that needed a flame, so it stands out.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2247,7 +2247,7 @@
   {
    "problem": "Water freezes at 0 degrees Celsius. Your body is about 37 degrees. Coconut oil melts at about 24 degrees. Is coconut oil's melting point nearer to ice or to your body?",
    "answer": "Nearer to your body. 37 take away 24 is 13. 24 take away 0 is 24. 13 is less than 24.",
-   "explain": "The gap from 24 to 37 is 13 degrees, and the gap from 0 to 24 is 24 degrees. So coconut oil melts at a warmth closer to your body, which is why your warm finger melted it in the story.",
+   "explain": "The gap from 24 to 37 is 13 degrees, and the gap from 0 to 24 is 24 degrees. So coconut oil melts at a warmth closer to your body. That is why Ishita's warm finger melted it in the story The Coconut Oil That Turned White.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
    "why_maths": "Comparing numbers tells us which solids will melt on a warm day and which will stay hard."
   }
@@ -2362,16 +2362,16 @@
  "roots": {
   "context": "We have raced five solids, melted them and set them again in the fridge. Now we ask what that tells us about the things around us, and about ourselves.",
   "deep_truth": {
-   "truth": "In your race, ice and coconut oil melted in the room, and chocolate in warm water. Wax melted only near a flame. Each substance changes between solid and liquid at its own warmth. Whether a thing is a solid or a liquid depends on how warm it is.",
-   "habit": "We call butter, wax and ice solids, and water and oil liquids, as if that were part of what each thing is. The race showed the same chocolate as a solid and then a liquid, and the only thing that changed was its warmth.",
+   "truth": "In the melting race, ice and coconut oil melted in the room, and chocolate melted in warm water. Wax melted only near a flame. Each substance changes between solid and liquid at its own warmth. Whether a thing is a solid or a liquid depends on how warm it is.",
+   "habit": "We call butter, wax and ice solids, and water and oil liquids, as if that were part of what each thing is. But in the melting race the same chocolate was a solid and then a liquid. The only thing that changed was how warm it was.",
    "evidence": "In the melting race, the coconut oil melted on the plate, the chocolate and butter melted in bath-warm water, and the wax melted only beside a candle flame. In the fridge, the chocolate, butter and oil set hard again, while the water needed the freezer."
   },
   "three": {
    "who_am_i": "Your body is about 37 degrees Celsius. That is warm enough to melt chocolate on your tongue and butter in your hand.",
-   "what_is_life": "Honeybees make wax inside their own bodies, and build their honeycomb from it. The wax stays solid in a hot hive because it melts only at a much higher warmth.",
+   "what_is_life": "Honeybees make wax inside their own bodies, and build their honeycomb from it. The wax stays solid in a hot hive because wax melts only when it is much hotter than that.",
    "what_is_this_world": "The same water is ice on the Himalayas in winter, and a river in the plains in summer. Rock melts deep inside the Earth and comes out of volcanoes as lava."
   },
-  "thread": "Ice, chocolate, wax and iron look very different. Yet each one is a solid when cool and a liquid when warm enough, and the change goes both ways. Each has its own warmth for the change. So in one warm room, ice melts, coconut oil is runny and wax stays hard. Everything is conscious, down to these tiny particles.",
+  "thread": "Ice, chocolate, wax and iron look very different. Yet each one is a solid when cool and a liquid when warm enough, and the change goes both ways. Each has its own warmth for the change. So in one warm room, ice melts, coconut oil is runny and wax stays hard. Everything is conscious, down to the tiny particles that everything is made of.",
   "teachings": [
    {
     "source": "Plato, Cratylus 402a, quoting Heraclitus",
@@ -2380,13 +2380,13 @@
    },
    {
     "source": "Dhammapada 277",
-    "teaching": "The Buddha taught that all things that are made up of parts and causes do not last forever. Seeing this clearly makes us suffer less.",
-    "link": "A solid stays solid only while it stays cool enough. Warm it, and its shape goes. The melting race showed that each solid lasts only as long as its warmth allows."
+    "teaching": "The Buddha taught that anything made up of parts, and brought about by causes, does not last forever. Seeing this clearly makes us suffer less.",
+    "link": "A solid stays solid only while it stays cool enough. Warm it, and its shape goes. In the melting race, each solid kept its shape only until it got warm enough to melt."
    },
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing away what is hard and strong.",
-    "link": "Hard ice and soft water are the same water. The Tao Te Ching, from China, praises the soft, flowing state that hard things can melt into."
+    "link": "This teaching comes from the Tao Te Ching, a book from China. It praises what is soft and flowing. Hard ice and soft water are the same water, and the hard ice can melt into the soft water."
    }
   ],
   "science": [
@@ -2395,7 +2395,7 @@
     "status": "settled"
    },
    {
-    "text": "Why ice is slippery, and whether hot water can freeze faster than cold, are still argued about by scientists.",
+    "text": "Scientists still argue about why ice is slippery, and about whether hot water can freeze faster than cold water.",
     "status": "open"
    }
   ],
@@ -2412,7 +2412,7 @@
   "ask": [
    "The ice in your hand became water. Where did your warmth go?",
    "If chocolate is a solid in the fridge and a liquid in your mouth, which one is the real chocolate?",
-   "Is there anything in the world that stays the same whatever the warmth?"
+   "Is there anything in the world that stays the same however warm or cold it gets?"
   ],
   "art": "A child's open palm holding a small puddle of water where an ice chip has just melted, with a soft light on it."
  },

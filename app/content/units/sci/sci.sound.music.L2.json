@@ -88,7 +88,7 @@
    "status": "defined",
    "context": "This card is about how home-made instruments make their sounds.",
    "definition": "A musical instrument makes sound when one part of it vibrates, moving to and fro very fast.",
-   "description": "Every sound starts with something moving very fast and very small. Pluck a rubber band, and the band vibrates. Tap a box, and its sides vibrate in and out. Blow across a bottle, and the air inside it vibrates.",
+   "description": "Every sound starts with something making very fast, very small movements. Pluck a rubber band, and the band vibrates. Tap a box, and its sides vibrate in and out. Blow across a bottle, and the air inside it vibrates.",
    "examples": [
     "A rubber band stretched over a tissue box: the band vibrates.",
     "A box drum: the side of the box you tap vibrates.",
@@ -173,7 +173,7 @@
    "status": "defined",
    "context": "This card is about the Sleepy Song, Dancing Song test, where you counted pats in 15 seconds.",
    "definition": "Tempo is how fast the beat goes: how many beats there are in a fixed time.",
-   "description": "You counted the beats of two songs for 15 seconds each. The lullaby usually gives far fewer pats than the dance song. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
+   "description": "In the Sleepy Song, Dancing Song test, you pat along to a lullaby and a dance song, and count the pats in 15 seconds for each. The lullaby usually gives far fewer pats than the dance song. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
    "examples": [
     "A lullaby: slow tempo.",
     "A fast film dance song: fast tempo.",
@@ -187,7 +187,7 @@
    "status": "defined",
    "context": "This card is about the Ta Ka Di Mi activity, where you counted Adi talam with your hands.",
    "definition": "In Indian classical music, a tala is a cycle of beats that repeats again and again.",
-   "description": "Carnatic musicians, in South India, keep the tala with their hands. For Adi talam they clap, count three fingers, then clap and wave, then clap and wave. That makes 8 beats, and then they start again. Hindustani musicians, in North India, use talas too, and Teentaal has 16 beats.",
+   "description": "Carnatic musicians, in South India, keep the tala with their hands. For Adi talam they clap, count three fingers, then clap and wave, then clap and wave. That makes 8 beats, and then they start again. Hindustani musicians, in North India, use talas too. One of them, Teentaal, has 16 beats.",
    "examples": [
     "Adi talam: 8 beats in each cycle.",
     "Teentaal: 16 beats in each cycle.",
@@ -234,7 +234,7 @@
   },
   {
    "text": "Of two things with the same material and shape, the bigger one vibrates more slowly and makes the lower sound.",
-   "evidence": "Big drums, big bells, big bowls and long strings all sound lower than small ones of the same kind. You tested this with boxes and steel bowls."
+   "evidence": "Big drums, big bells, big bowls and long strings all sound lower than small ones of the same kind. In the Big Box, Small Box test, you check this with boxes and steel bowls."
   },
   {
    "text": "Most of the music people make, all over the world, has a steady beat.",
@@ -261,7 +261,7 @@
   {
    "claim": "Playing music to plants makes them grow better.",
    "who": "Many gardeners, and some small studies",
-   "for": "Plants do sense vibrations. Thale cress plants that were played the vibrations of caterpillars chewing made more of their bitter defence chemicals later, when caterpillars really ate them.",
+   "for": "Plants do sense vibrations. Thale cress plants were played the vibrations of caterpillars chewing. Later, when caterpillars really ate them, those plants made more of their bitter defence chemicals.",
    "against": "Careful tests of music and plant growth have given mixed results. Plants clearly sense and respond to vibrations, but there is no clear proof that songs help them grow.",
    "status": "debated",
    "context": "This card is about whether plants respond to music. They do sense vibrations, but the music claim is not settled."
@@ -282,7 +282,7 @@
    "hint": "Think about how fast each side can move in and out when you tap it."
   },
   {
-   "q": "When you blew across the bottle, nothing seemed to move. So what was vibrating?",
+   "q": "In the Bottle Hooter, you blow across the top of a bottle and nothing seems to move. So what is vibrating?",
    "kind": "deep",
    "hint": "Was the bottle really empty? What was inside it?"
   },
@@ -292,7 +292,7 @@
    "hint": "Our minds like to put beats into groups of two or three, even when every beat is the same."
   },
   {
-   "q": "Is a sound high or low out in the air, or only in your ears and mind?",
+   "q": "Is a sound already high or low while it is in the air? Or does it become high or low only in your ears and mind?",
    "kind": "big",
    "hint": "The box vibrates fast or slowly. Who decides that fast means 'high'?"
   },
@@ -327,8 +327,8 @@
    "Kavya copied her. After two rounds she had it. Appa kept getting lost at the waves. \"Appa, clap, and then just turn your hand over,\" said Kavya, and showed him with her own hand. \"Clap, wave. Clap, wave.\" On the fourth round, Appa got it, and he looked very pleased with himself.",
    "\"Now say it like a drummer,\" said Paati. \"Ta ka di mi, ta ka di mi.\" Kavya said it with her and hit the carton on every 'ta'. Dhum, ka, di, mi. Dhum, ka, di, mi. Arjun shook his bottle once on every beat. Appa plucked his rubber band on the claps. Amma hooted at the end of every round.",
    "This time, the sounds did not crash into each other. They fitted together, like the pieces of a kolam.",
-   "When the doorbell rang, the band was ready. The great-aunts sat down, Paati began the Pongal song, and the family band played under it. The carton boomed, the bottle hissed, the rubber band twanged and the bottle hooted. One great-aunt clapped the tala along with them and nodded at Kavya.",
-   "Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. Still low, even when it was quiet.",
+   "When the doorbell rang, the band was ready. The great-aunts sat down, Paati began the Pongal song, and the family band played under it. The carton boomed, the rice shaker hissed, the rubber band twanged and the glass bottle hooted. One great-aunt clapped the tala along with them and nodded at Kavya.",
+   "Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The sound was still low, even when it was quiet.",
    "\"Paati,\" she said, \"the big box always sings low and the little box always sings high. But it was the beat that made us a band.\""
   ],
   "epiphany": "Big boxes sound low and small boxes sound high, because big sides vibrate more slowly. But different sounds only become music together when everyone follows one steady beat.",
@@ -449,7 +449,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns to lead. 2. Keep a steady beat going on your knees. 3. Write the points on the score sheet.",
-     "say": "Listen to the leader. Copy the rhythm exactly. Then, which card was it?",
+     "say": "Listen to the leader. Copy the rhythm exactly. Then say which card it was.",
      "kid": "Listen. Copy the rhythm. Then point to the card.",
      "ask": [
       {
@@ -470,14 +470,14 @@
      "kid": "Which card was hardest? Why?",
      "check": {
       "t": "mcq",
-      "q": "Ananya plays 'clap, rest, clap, rest'. How many sounds does she make?",
+      "q": "You play 'clap, rest, clap, rest'. How many sounds do you make?",
       "options": [
        "2",
        "4",
        "1"
       ],
       "a": 0,
-      "why": "She claps twice. The two rests are silent beats. They are counted, but they make no sound."
+      "why": "You clap twice. The two rests are silent beats. They are counted, but they make no sound."
      }
     }
    ]
@@ -539,7 +539,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "context": "This is the first step of Pattern Train. You build a rhythm from sound cards that repeats, like a pattern.",
+     "context": "This is the first step of Pattern Train. You lay sound cards in a line to build a rhythm that repeats.",
      "do": "1. Cut out the 20 cards. 2. Build the first train together: clap, pat, clap, pat, clap, pat, clap, pat.",
      "say": "A pattern repeats in the same order. Clap, pat, clap, pat. What comes next?",
      "kid": "Clap, pat, clap, pat. What comes next?",
@@ -570,7 +570,7 @@
      "kid": "Which train sounded best? Why?",
      "check": {
       "t": "mcq",
-      "q": "Deepa builds: clap, stamp, clap, stamp, clap, stamp, clap. What should the 8th card be?",
+      "q": "A train goes: clap, stamp, clap, stamp, clap, stamp, clap. What should the 8th card be?",
       "options": [
        "Stamp",
        "Clap",
@@ -710,7 +710,7 @@
      "mins": 2,
      "do": "1. Your child rests the fingertips of one hand lightly on the top of the big carton. 2. With the other hand, they slap the side of the carton once with a flat palm. 3. Do the same with the smallest box.",
      "say": "Put your fingers lightly on top of the big carton. Now slap its side. What do your fingers feel?",
-     "kid": "Fingers on top of the big box. Slap its side. What do you feel?",
+     "kid": "Put your fingers on top of the big box. Slap its side. What do you feel?",
      "ask": [
       {
        "q": "What did your fingers feel?",
@@ -727,7 +727,7 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Your child shuts their eyes and turns their back. 2. Tap one box, chosen at random, twice. 3. Your child names the box. 4. Do this 4 times, and count the right answers.",
-     "say": "Eyes shut. I will tap one box. Can you tell which one, just from the sound?",
+     "say": "Shut your eyes. I will tap one box. Can you tell which one, just from the sound?",
      "kid": "Shut your eyes. Listen. Which box was it?",
      "parent": "Most children of 7 get 3 or 4 right, because big and small boxes sound so different. The two middle boxes are the easiest to mix up."
     },
@@ -757,7 +757,7 @@
      "parent": "After your child has said what they think, explain: when you tap a box, its side bends in and springs back again and again. That is vibrating. A big side is floppy, so it vibrates more slowly. Slow vibrations make a low sound.",
      "check": {
       "t": "mcq",
-      "q": "Meena taps a box and hears a high 'tik'. She wants a lower sound. Which box should she tap next, in the same way?",
+      "q": "You tap a box and hear a high 'tik'. You want a lower sound. Which box should you tap next, in the same way?",
       "options": [
        "A much bigger box",
        "A much smaller box",
@@ -858,7 +858,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Play the lullaby. 2. When the seconds hand reaches 12, say 'Go'. 3. Make one tally mark for each pat. 4. Say 'Stop' after 15 seconds. 5. Do the same for the dance song.",
+     "do": "1. Play the lullaby. 2. When the seconds hand of the clock reaches 12, say 'Go'. 3. Make one tally mark for each pat. 4. Say 'Stop' after 15 seconds. 5. Do the same for the dance song.",
      "say": "Pat on every beat. I will make a mark each time you pat. Ready? Go!",
      "kid": "Pat on every beat until the grown-up says stop.",
      "parent": "A lullaby usually gives about 15 to 20 pats in 15 seconds. A fast dance song often gives 25 to 35. Your numbers will depend on your songs."
@@ -889,7 +889,7 @@
      "parent": "How fast a beat goes is called its tempo. Scientists who compared songs from many countries found that lullabies everywhere tend to be slow and soft.",
      "check": {
       "t": "mcq",
-      "q": "Thenmozhi pats along to a slow lullaby for 15 seconds. About how many pats will she make?",
+      "q": "You pat along to a slow lullaby for 15 seconds. About how many pats will you make?",
       "options": [
        "6",
        "18",
@@ -969,14 +969,14 @@
      "parent": "The marching stays the same, and the claps change. The steady marching is the beat. The pattern of claps is the rhythm.",
      "check": {
       "t": "mcq",
-      "q": "Lakshmi marches and claps her name at the same time. Which one is the beat?",
+      "q": "You march and clap your name at the same time. Which one is the beat?",
       "options": [
-       "Her steady marching steps",
-       "The claps of her name",
+       "Your steady marching steps",
+       "The claps of your name",
        "Neither of them"
       ],
       "a": 0,
-      "why": "The beat is the steady pulse that never changes, like her steps. The claps of her name are a rhythm that fits over the beat."
+      "why": "The beat is the steady pulse that never changes, like your steps. The claps of your name are a rhythm that fits over the beat."
      }
     }
    ]
@@ -1054,7 +1054,7 @@
      "parent": "Eight syllables fit exactly into the 8 beats of Adi talam.",
      "check": {
       "t": "mcq",
-      "q": "Thenmozhi says 'ta ka di mi' two times while her Paati counts one round of Adi talam. How many syllables does she say?",
+      "q": "You say 'ta ka di mi' two times while a grown-up counts one round of Adi talam. How many syllables do you say?",
       "options": [
        "8",
        "4",
@@ -1183,7 +1183,7 @@
      "context": "This is the first step of the Bottle Hooter. You learn to make an empty bottle hoot.",
      "do": "1. A grown-up tries first. 2. Rest your lower lip on the edge of the bottle's mouth. 3. Blow gently, straight across the top, not into the bottle.",
      "say": "Rest your lip on the edge and blow gently across the top, as if you are saying 'poo' very softly.",
-     "kid": "Lip on the edge. Blow softly across the top. Keep trying!",
+     "kid": "Rest your lip on the edge. Blow softly across the top. Keep trying!",
      "parent": "It takes most people several tries. Tilt the bottle a little away from your mouth, and blow more gently, not harder. If your child cannot do it, you hoot and they listen."
     },
     {
@@ -1211,14 +1211,14 @@
      "kid": "Nothing seems to move. So what is vibrating?",
      "check": {
       "t": "mcq",
-      "q": "Anjali, a girl in Kochi, blows across an empty bottle and it hoots. What is vibrating?",
+      "q": "You blow across an empty bottle and it hoots. What is vibrating?",
       "options": [
        "The air inside the bottle",
        "The bottle's cap",
        "Nothing at all"
       ],
       "a": 0,
-      "why": "The bottle looks empty, but it is full of air. Her breath makes that air vibrate very fast, and that is the hoot."
+      "why": "The bottle looks empty, but it is full of air. Your breath makes that air vibrate very fast, and that is the hoot."
      }
     }
    ]
@@ -1294,7 +1294,7 @@
      "id": "s2",
      "mins": 20,
      "do": "1. Count Adi talam together for one round. 2. Play the song, with everyone keeping to the beat. 3. Practise twice. 4. Play the concert.",
-     "say": "First the beat. Clap, one, two, three, clap, wave, clap, wave. Now everyone plays on the beat.",
+     "say": "First we count the beat. Clap, one, two, three, clap, wave, clap, wave. Now everyone plays on the beat.",
      "kid": "Listen for the beat first. Then play on the beat.",
      "ask": [
       {
@@ -1364,7 +1364,7 @@
      "mins": 10,
      "do": "Let your child build and test. Help with tape and with pouring water.",
      "say": "Try each one. Is it high, middle or low? Change one if two sound the same.",
-     "kid": "Try each one. High, middle or low? Change one if two match.",
+     "kid": "Try each one. Is it high, middle or low? Change one if two sound the same.",
      "parent": "Let your child try their own ideas first. If they are stuck, remind them of the Big Box test and the Bottle Hooter."
     },
     {
@@ -1408,14 +1408,14 @@
    "channel": "Guardian News",
    "youtube": "iMjr8MsB1qo",
    "mins": 1,
-   "why": "Shows Snowball, the cockatoo that scientists studied, moving in time to music.",
+   "why": "Shows Snowball, the cockatoo who was studied by scientists, moving in time to music.",
    "check": "Found by search: \"Scientists discover Snowball the cockatoo has 14 distinct dance moves\" by Guardian News, 1 minute 22 seconds. A parent may preview it."
   }
  ],
  "quiz": [
   {
    "t": "mcq",
-   "p": "Meenakshi stretches a rubber band over a tissue box and plucks it. What vibrates to make the sound?",
+   "p": "You stretch a rubber band over a tissue box and pluck it. What vibrates to make the sound?",
    "opts": [
     "The rubber band",
     "The table under the box",
@@ -1440,14 +1440,14 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan taps a matchbox and a big delivery carton in exactly the same way. Which one sounds lower?",
+   "p": "You tap a matchbox and a big delivery carton in exactly the same way. Which one sounds lower?",
    "opts": [
     "The matchbox",
     "The big carton",
     "They sound the same"
    ],
    "a": 1,
-   "why": "The carton's big sides vibrate more slowly, and slow vibrations make a low sound. Choosing 'the same' means thinking only about the material, not the size.",
+   "why": "The carton's big sides vibrate more slowly, and slow vibrations make a low sound. If you chose 'the same', you were thinking only about the material, not the size.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1465,7 +1465,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi taps the big carton very, very gently with one finger. What does she hear?",
+   "p": "You tap the big carton very, very gently with one finger. What do you hear?",
    "opts": [
     "A soft, low sound",
     "A loud, high sound",
@@ -1477,7 +1477,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali hoots an empty bottle. Then she pours in water until the bottle is half full. What happens to the hoot?",
+   "p": "You hoot an empty bottle. Then you pour in water until the bottle is half full. What happens to the hoot?",
    "opts": [
     "It goes higher",
     "It goes lower",
@@ -1501,7 +1501,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya claps her name: Ka-vya, 2 claps. How many claps is 'Mee-nak-shi'?",
+   "p": "'Ka-vya' is 2 claps. How many claps is 'Mee-nak-shi'?",
    "opts": [
     "2",
     "3",
@@ -1525,7 +1525,7 @@
   },
   {
    "t": "mcq",
-   "p": "Bidisha pats along to a lullaby and then to a dance song, for 15 seconds each. Which one usually gives more pats?",
+   "p": "You pat along to a lullaby and then to a dance song, for 15 seconds each. Which one usually gives more pats?",
    "opts": [
     "The dance song",
     "The lullaby",
@@ -1545,12 +1545,12 @@
     "The bird plays a drum with sticks"
    ],
    "a": 0,
-   "why": "If a bird only bobs at its own speed, it might be matching by luck. If its bobbing changes speed when the music changes, it is following the beat. A cockatoo has really been seen doing this.",
+   "why": "If a bird only bobs at their own speed, they might match the music by luck. If their bobbing changes speed when the music changes, they are following the beat. A cockatoo has really been seen doing this.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Arjun wants to find out if the size of a box changes its sound. Which test is fair?",
+   "p": "You want to find out if the size of a box changes its sound. Which test is fair?",
    "opts": [
     "Tap every box the same way, in the same place",
     "Tap the small box gently and the big box hard",
@@ -1570,7 +1570,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kamala plucks a rubber band on a box. How can she tell that the band is vibrating?",
+     "p": "You pluck a rubber band on a box. How can you tell that the band is vibrating?",
      "opts": [
       "It goes blurry",
       "It gets warm",
@@ -1740,7 +1740,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi, a girl in Madurai, rings the big bell at the temple and then her small hand bell at home. Which one rings lower?",
+     "p": "Which rings lower: the big bell at a temple, or a small hand bell?",
      "opts": [
       "The big temple bell",
       "The small hand bell",
@@ -1848,9 +1848,9 @@
     },
     {
      "t": "count",
-     "p": "Thenmozhi plays clap, clap, pat. Clap, clap, pat. Clap, clap, pat. How many claps does she make?",
+     "p": "You play clap, clap, pat. Clap, clap, pat. Clap, clap, pat. How many claps do you make?",
      "a": 6,
-     "why": "Each 'clap, clap, pat' has 2 claps. She plays it 3 times. 2 and 2 and 2 make 6."
+     "why": "Each 'clap, clap, pat' has 2 claps. You play it 3 times. 2 and 2 and 2 make 6."
     }
    ]
   },
@@ -1885,7 +1885,7 @@
     },
     {
      "t": "write",
-     "p": "Your little cousin Arjun says, 'Small boxes are broken drums, because they don't go boom.' What would you tell him?",
+     "p": "A little child says, 'Small boxes are broken drums, because they don't go boom.' What would you tell them?",
      "lines": 3,
      "a": "Small boxes are not broken. They vibrate faster, so they make a high sound instead of a low one. A band needs high sounds too.",
      "why": "A strong answer explains that a small box's sides vibrate fast, which makes a high sound, and that high is just different from low."
@@ -2108,7 +2108,7 @@
  ],
  "maths": [
   {
-   "problem": "Thenmozhi's rhythm goes clap, clap, pat, clap, clap, pat, and keeps repeating. What is the 9th sound?",
+   "problem": "A rhythm goes clap, clap, pat, clap, clap, pat, and keeps repeating. What is the 9th sound?",
    "answer": "A pat.",
    "explain": "The pattern has 3 sounds: clap, clap, pat. So every 3rd sound is a pat: the 3rd, the 6th and the 9th. The 9th sound is a pat.",
    "math_unit": "math.patterns.repeating-patterns.L2",
@@ -2117,7 +2117,7 @@
    "why_maths": "Spotting the repeating part of a pattern lets you say what comes next without playing it all out."
   },
   {
-   "problem": "One round of Adi talam has 8 beats. Paati counts 3 rounds. How many beats is that?",
+   "problem": "One round of Adi talam has 8 beats. You count 3 rounds. How many beats is that?",
    "answer": "24 beats.",
    "explain": "Each round is 8 beats. Three rounds is 8, 16, 24. So 3 groups of 8 is 24 beats.",
    "math_unit": "math.multiplication.equal-groups.L2",
@@ -2126,7 +2126,7 @@
    "why_maths": "Musicians count in rounds. Knowing how many beats are in a round lets you work out a whole song."
   },
   {
-   "problem": "In the Sleepy Song, Dancing Song test, Bidisha counted 16 pats for the lullaby and 32 for the dance song, each in 15 seconds. How many more pats did the dance song have?",
+   "problem": "In the Sleepy Song, Dancing Song test, say you counted 16 pats for the lullaby and 32 for the dance song, each in 15 seconds. How many more pats did the dance song have?",
    "answer": "16 more pats. The dance song had twice as many.",
    "explain": "32 take away 16 is 16. And 16 and 16 make 32, so the dance song's beat was twice as fast.",
    "math_unit": "math.number-sense.comparing-ordering.L2",
@@ -2221,7 +2221,7 @@
    "a": "The big carton."
   },
   {
-   "q": "Fast vibrations make a high sound or a low sound?",
+   "q": "Do fast vibrations make a high sound or a low sound?",
    "a": "A high sound."
   },
   {
@@ -2326,7 +2326,7 @@
   "context": "We have tapped big and small boxes, hooted bottles and kept a beat together. Now we ask what the Big Box test tells us about sound, and about ourselves.",
   "deep_truth": {
    "truth": "In the Big Box test, every box was card, tapped the same way. The big carton boomed low and the matchbox ticked high. The steel bowls did the same, from biggest to smallest. So one material can make a low note or a high note, and its size and shape decide which.",
-   "habit": "We think each material has its own sound: card goes 'tok' and steel goes 'ting'. But the same card made a deep boom and a high tick. The size and shape of a thing change its note as well as what it is made of.",
+   "habit": "We think each material has its own sound: card goes 'tok' and steel goes 'ting'. But the same card made a deep boom and a high tick. What a thing is made of matters, but its size and shape change its note too.",
    "evidence": "Every box was cardboard, and every tap was one finger on the middle of the top. Yet the big carton went 'dhum', the shoebox 'tok' and the matchbox 'tik'. Three steel bowls from one set rang lowest for the biggest and highest for the smallest."
   },
   "three": {
@@ -2339,12 +2339,12 @@
    {
     "source": "Zhuangzi, chapter 2 ('The Adjustment of Controversies', also called 'All Things Are Equal')",
     "teaching": "The Chinese thinker Zhuangzi describes the wind blowing through a great forest. The hollows in the trees are of every size and shape. When the wind blows, each hollow makes its own sound: some roar, some whistle, some hum.",
-    "link": "Your bottle hooted when you blew across it, and hooted higher with less air inside. One breath made a different note in each different hollow."
+    "link": "In the Bottle Hooter, the bottle hooted when you blew across it, and hooted higher when there was less air inside. A breath makes a different note in each different hollow."
    },
    {
     "source": "Natya Shastra, chapter 28 in most editions",
     "teaching": "The Natya Shastra, an old Indian book on drama, music and dance, sorts instruments into four kinds: stringed ones (tata), drums covered with skin (avanaddha), solid ones that are struck (ghana), and hollow ones that are blown (sushira).",
-    "link": "Your ektara is a tata instrument, and your bottle hooter is a sushira. Your box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates: a string, a skin, a solid body or the air."
+    "link": "The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates: a string, a skin, a solid body or the air."
    }
   ],
   "science": [

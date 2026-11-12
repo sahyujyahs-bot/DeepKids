@@ -90,7 +90,7 @@
    "status": "defined",
    "context": "This card explains near and far, after you counted steps to things in your home.",
    "definition": "Distance is how much space there is between two things. Near means a small distance. Far means a big distance.",
-   "description": "In Step It Out, the bed was fewer steps away than the door, so the bed was nearer. We use steps for short distances at home. For longer ones, we use metres and kilometres. A kilometre is about 1,300 steps of a grown-up. The Moon is about 384,000 kilometres away. That is so far that walking there, day and night without stopping, would take about 9 years.",
+   "description": "In Step It Out, you counted steps to places in your home. The place that took the fewest steps was the nearest. We use steps for short distances at home. For longer ones, we use metres and kilometres. A kilometre is about 1,300 steps of a grown-up. The Moon is about 384,000 kilometres away. That is so far that walking there, day and night without stopping, would take about 9 years.",
    "examples": [
     "3 steps to the bed, and 7 steps to the door",
     "A short walk to the corner shop",
@@ -102,7 +102,7 @@
   {
    "concept": "Why far things look smaller",
    "status": "defined",
-   "context": "This card explains what you found in the bottle strip test.",
+   "context": "This card explains what you found in the Bottle Strip Test, where you measured how tall a bottle looked from 1, 2 and 4 steps away.",
    "definition": "A thing looks smaller when it is farther away, because it takes up less of what your eyes can see. From twice as far away, it looks about half as tall.",
    "description": "In the bottle strip test, the bottle never changed. But from 2 steps away it looked about half as tall as from 1 step. From 4 steps, it looked about a quarter as tall. That is why a big plane high in the sky looks as small as a bird. The Sun is about 400 times wider than the Moon. It is also about 400 times farther away. So in the sky, the two look about the same size.",
    "examples": [
@@ -130,7 +130,7 @@
   {
    "concept": "Does space go on for ever?",
    "status": "debated",
-   "context": "This card is about a question nobody can answer yet. You thought about it with the mirror tunnel.",
+   "context": "This card is about a question nobody can answer yet. You thought about it in the Mirror Tunnel, where the row of bindis faded before you could see an end.",
    "definition": "",
    "description": "Nobody knows. We can only see part of space. Light from very far away has not had time to reach us yet, so we cannot see what is beyond. In the mirror tunnel, you could not see the end of the row either. The copies got too small and dim. Not seeing an end does not tell us whether there is one. Scientists measure the shape of space to find clues, and they still disagree.",
    "examples": [
@@ -208,12 +208,12 @@
   {
    "q": "Your thumb can hide a building. How can you tell whether a thing is small, or big and far away?",
    "kind": "deep",
-   "hint": "Think of the bottle strip test. What did you need to know besides how big the bottle looked?"
+   "hint": "In the Bottle Strip Test, the bottle looked smaller from farther away. What did you need to know besides how big the bottle looked?"
   },
   {
    "q": "If space has an edge, what is on the other side of it?",
    "kind": "big",
-   "hint": "Think of Archytas pushing a stick through the edge of space."
+   "hint": "Archytas, a thinker in ancient Greece, asked: if you stood at the edge of space and pushed a stick out, where would the stick go?"
   },
   {
    "q": "The stars look tiny. If you could fly to one, how big would it look?",
@@ -262,7 +262,7 @@
    "Adi looked. He gasped. Inside the big mirror was the hand mirror. Inside that was another, and another, each one smaller, a long tunnel of mirrors going away. Each had a red bindi on top.",
    "\"It goes on for ever!\" said Adi.",
    "\"Count them,\" said Nila.",
-   "Adi counted. \"One, two, three\" all the way to eleven. Then the bindis were too tiny and too dark to see.",
+   "Adi counted. \"One, two, three...\" He went all the way to eleven. Then the bindis were too tiny and too dark to see.",
    "\"Is that the end?\" he asked.",
    "\"I don't know,\" said Nila. \"I can't see any more. But not seeing the end doesn't tell us if there is an end.\"",
    "Just then the power came back. The fan began to turn, and the lights came on all over the street.",
@@ -293,7 +293,7 @@
    "context": "In this experiment you measure how tall a bottle looks from 1 step, 2 steps and 4 steps away. You use a pencil held out at arm's length, the way artists measure. Then you compare the paper strips.",
    "question": "When you stand twice as far from a bottle, how tall does the bottle look?",
    "predict": "When you stand twice as far away, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
-   "fair_test": "We use the same bottle the whole time, and we never move it. The child holds the pencil the same way every time, with the arm straight and one eye closed, because a bent arm changes the size. Only the distance changes. We measure at each place twice, in case one try goes wrong.",
+   "fair_test": "We use the same bottle the whole time, and we never move it. The child holds the pencil the same way every time, with the arm straight and one eye closed, because a bent arm changes the measurement. Only the distance changes. We measure at each place twice, in case one try goes wrong.",
    "results_table": [
     "Where you stood",
     "Strip from try 1",
@@ -337,9 +337,9 @@
    "record": "Glue or lay the three strips side by side on a page, longest first. Write '1 step', '2 steps' and '4 steps' under them.",
    "example_chart": {
     "type": "table",
-    "title": "Made-up example results, from Kavya's flat in Mysuru",
+    "title": "Made-up example results",
     "cols": [
-     "Where Kavya stood",
+     "Where the child stood",
      "Strip length",
      "How many 4-step strips fit along it"
     ],
@@ -393,7 +393,7 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Ask the questions below. 2. Write your child's guess and reason at the top of the paper. 3. Do not say who is right.",
-     "say": "From 2 steps, how tall will the bottle look? Now think of 4 steps, which is twice as far. Will it look just as tall, a little shorter, or half as tall? Why do you think so?",
+     "say": "First you will look at the bottle from 2 steps away. Then you will look from 4 steps, which is twice as far. From 4 steps, will the bottle look just as tall, a little shorter, or half as tall? Why do you think so?",
      "kid": "From twice as far, how tall will the bottle look? Why?",
      "ask": [
       {
@@ -411,9 +411,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Your child stands with toes at the 1-step chappal. 2. Arm straight out, elbow locked, one eye closed. 3. Hold the pencil upright. Line up the tip with the top of the bottle. 4. Slide the thumbnail down to the bottom of the bottle. 5. Keep the thumb still, and lay the pencil on the paper strip. 6. You mark the paper at the tip and at the thumb.",
+     "do": "1. Your child stands with toes at the 1-step chappal. 2. Your child holds one arm straight out, with the elbow locked, and closes one eye. 3. Your child holds the pencil upright in that hand and lines up the tip with the top of the bottle. 4. Your child slides the thumbnail down the pencil until it lines up with the bottom of the bottle. 5. Your child keeps the thumb still and lays the pencil on the paper strip. 6. You mark the paper at the pencil tip and at the thumb.",
      "say": "Hold your arm out straight, like a stick. Close one eye. Put the pencil tip at the top of the bottle. Now slide your thumb down to the bottom. Keep it still, and we'll mark it.",
-     "kid": "Arm out straight. Close one eye. Tip at the top. Thumb at the bottom. Keep still.",
+     "kid": "Hold your arm out straight. Close one eye. Put the pencil tip at the top of the bottle. Slide your thumb down to the bottom of the bottle. Keep your thumb still.",
      "parent": "The arm must be straight every time, or the measure changes. If your child finds it hard, you hold your own arm out and measure, and your child checks. Do each place twice. The two marks should be close.",
      "context": "In this step of the bottle strip test, you measure the bottle from 1 step away."
     },
@@ -421,7 +421,7 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Move to the 2-step chappal and measure the same way. 2. Mark a new piece of the strip. 3. Then measure from the 4-step chappal. 4. Mark a third piece. 5. Write '1', '2' and '4' next to the marks.",
-     "say": "Now we're twice as far. Measure again, with your arm just as straight. Now the last chappal, twice as far again.",
+     "say": "Now we're twice as far. Measure again, with your arm just as straight. Now measure from the last chappal, which is twice as far again.",
      "kid": "Measure from 2 steps. Then measure from 4 steps.",
      "ask": [
       {
@@ -432,7 +432,7 @@
        ]
       }
      ],
-     "parent": "From 4 steps the mark may be only 2 or 3 centimetres long. That is fine. Small is the result.",
+     "parent": "From 4 steps the mark may be only 2 or 3 centimetres long. That is fine. A small mark is the result you expect.",
      "context": "In this step of the bottle strip test, you measure from 2 steps and 4 steps away."
     },
     {
@@ -440,7 +440,7 @@
      "mins": 6,
      "do": "1. Cut out the three marked pieces. 2. Lay them side by side, longest first. 3. Fold the 1-step strip in half and hold it next to the 2-step strip. 4. Count how many 4-step strips fit along the 1-step strip. 5. Fill in the results table. 6. Then read the cards on near and far.",
      "say": "Let's fold the 1-step strip in half. Is half of it as long as the 2-step strip? How many little 4-step strips fit along the long one? Did the bottle change, or did something else change?",
-     "kid": "Fold the long strip in half. Is it like the middle strip? Did the bottle change?",
+     "kid": "Fold the 1-step strip in half. Is the half as long as the 2-step strip? Did the bottle change?",
      "ask": [
       {
        "q": "The bottle never moved. What changed?",
@@ -462,7 +462,7 @@
       "a": 1,
       "why": "From twice as far away, the bottle takes up about half as much of what you see, so it looks about half as tall. The bottle did not shrink. Only the distance changed."
      },
-     "parent": "Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: same bottle, more space between, shorter strip.",
+     "parent": "Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: the bottle was the same, there was more space between your child and the bottle, and the strip was shorter.",
      "adult": true,
      "context": "This is the last step of the bottle strip test. You compare the strips and say what you found."
     }
@@ -553,7 +553,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Swap, and you count three times too. 2. Write all the counts in the table.",
+     "do": "1. Swap places. Now you hold the hand mirror and count the bindis three times. 2. Write all the counts in the table.",
      "say": "Now it's my turn. Let's see if I count the same.",
      "kid": "Now your grown-up counts. Write the numbers down.",
      "context": "In this step of the mirror tunnel, the grown-up counts too."
@@ -576,16 +576,16 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In the mirror tunnel, what happened to the bindis as the tunnel went away?",
+      "q": "In the mirror tunnel, what happened to the bindis farther down the tunnel?",
       "options": [
        "They got bigger and brighter",
        "They got smaller and dimmer",
        "They all stayed the same"
       ],
       "a": 1,
-      "why": "Each copy is seen through more bounces, so its light has travelled farther, and far things look smaller. Each mirror also keeps a little of the light, so every copy is dimmer than the one before."
+      "why": "The light from each copy bounces between the mirrors more times than the one before, so it has travelled farther. Far things look smaller. Each mirror also keeps a little of the light, so every copy is dimmer than the one before."
      },
-     "parent": "Each copy looks smaller because the light from it has travelled farther, just like the bottle from far away. A strong answer says the row faded out, and that you could not tell whether it really ended.",
+     "parent": "Each copy looks smaller because the light from it has travelled farther, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.",
      "context": "This is the last step of the mirror tunnel. You talk about what you found."
     }
    ]
@@ -597,7 +597,7 @@
    "title": "Space Hunt: find what is between things",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hunt for spaces in your home: under, inside, around and between things. It is a way in before the bottle strip test.",
+   "context": "In this activity you hunt for spaces in your home: under, inside, around and between things. Do it before the Bottle Strip Test.",
    "materials": [
     {
      "item": "two steel tumblers",
@@ -704,7 +704,7 @@
      "what": "Guess the steps to four places, then walk heel to toe and count. Put the places in order."
     }
    ],
-   "record": "A table with each place, your guess and your count. Circle the nearest and the farthest.",
+   "record": "Make a table with each place, your guess and your count. Circle the nearest place and the farthest place.",
    "setup": [
     {
      "art": "A child standing by her bed, pointing at the door, a window and the kitchen, with a thought bubble '8 steps?'.",
@@ -749,7 +749,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Farhan took 4 steps to the door and 9 steps to the kitchen. Which is nearer?",
+      "q": "It is 4 steps to the door and 9 steps to the kitchen. Which is nearer?",
       "options": [
        "The door",
        "The kitchen",
@@ -808,7 +808,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Your child draws the near thing and the far thing, each as big as it looks. 2. Then colours the drawing.",
+     "do": "1. Your child draws the near thing and the far thing, each as big as it looks. 2. Then your child colours the drawing.",
      "say": "Draw them just as big as they look, not as big as they really are.",
      "kid": "Draw each one as big as it looks."
     },
@@ -899,7 +899,7 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Count the cards for each round. 2. Ask the question below.",
-     "say": "Which round was quickest? What helped you find it?",
+     "say": "Which round was quickest? What helped you find the tumbler?",
      "kid": "Which round was quickest? What helped?",
      "check": {
       "t": "mcq",
@@ -1094,19 +1094,19 @@
      "id": "s1",
      "mins": 15,
      "do": "1. Stand at the door with your child. 2. Ask what the room would look like to a bird on the ceiling. 3. Your child draws the walls, the door, the bed and two more things on the squared paper.",
-     "say": "Imagine you are a bird on the ceiling, looking down. What shape is the bed from up there? Draw it.",
+     "say": "Pretend you are a bird on the ceiling, looking down. What shape is the bed from up there? Draw it.",
      "kid": "Pretend you are a bird on the ceiling. Draw your room from above.",
      "context": "This is day 1 of the room map."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Writes the numbers on the map with arrows. 3. Colours all the empty floor.",
+     "do": "1. Your child counts heel-to-toe steps between the bed and the door, and between two other things. 2. Your child writes the numbers on the map with arrows. 3. Your child colours all the empty floor.",
      "say": "How many steps from the bed to the door? Write it on the map. Now colour all the empty floor. That is the space you can move in.",
      "kid": "Count steps between things. Write them on the map. Colour the empty floor.",
      "ask": [
       {
-       "q": "Is there more space with things in it, or empty floor space?",
+       "q": "On your map, which is bigger: the floor covered by things, or the empty floor?",
        "good": [
         "More empty space.",
         "More things. The bed is big."
@@ -1192,7 +1192,7 @@
       "q": "How did the small coin hide the big cupboard?",
       "options": [
        "The coin got bigger",
-       "The space between changed, so the cupboard looked smaller than the coin",
+       "The distances changed, so the cupboard looked smaller than the coin",
        "The cupboard shrank"
       ],
       "a": 1,
@@ -1297,7 +1297,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: name two spaces you found in the space hunt.",
+     "p": "Name two spaces you found in the Space Hunt. Say them out loud, and a grown-up writes them down.",
      "lines": 2,
      "a": "For example: under the bed, and inside an empty bottle.",
      "why": "A strong answer names real spaces from the hunt, such as gaps between things or room inside things.",
@@ -1305,9 +1305,9 @@
     },
     {
      "t": "count",
-     "p": "Ira, a girl in Class 2, counted 6 steps to the door and 3 steps to her bed. How many more steps is the door?",
+     "p": "You count 6 steps to the door and 3 steps to your bed. How many more steps away is the door?",
      "a": 3,
-     "why": "6 take away 3 is 3. The door is 3 steps farther, so there is more space between Ira and the door.",
+     "why": "6 take away 3 is 3. The door is 3 steps farther, so there is more space between you and the door.",
      "how": "a2"
     },
     {
@@ -1405,7 +1405,7 @@
      "t": "fill",
      "p": "In the bottle strip test, from twice as far away, the bottle looked about ________ as tall.",
      "a": "half",
-     "why": "Twice the distance makes a thing look about half as tall. The folded strip showed this.",
+     "why": "Twice the distance makes a thing look about half as tall. In the bottle strip test, the 1-step strip folded in half was about as long as the 2-step strip.",
      "context": "This question is about the bottle strip test. You measured how tall a bottle looked from 1, 2 and 4 steps away.",
      "how": "e1"
     },
@@ -1446,7 +1446,7 @@
     },
     {
      "t": "count",
-     "p": "Bornali's strip from 1 step was 8 centimetres long. About how long was her strip from 2 steps?",
+     "p": "In the bottle strip test, a strip from 1 step was 8 centimetres long. About how long would the strip from 2 steps be?",
      "a": "4 centimetres",
      "why": "Twice as far makes the bottle look about half as tall. Half of 8 is 4.",
      "context": "This question is about the bottle strip test. You measured how tall a bottle looked from 1, 2 and 4 steps away.",
@@ -1468,7 +1468,7 @@
     },
     {
      "t": "mcq",
-     "p": "Tsering, a girl in Leh, sees two mountains that look the same height. One is much farther away. What can she say?",
+     "p": "Two mountains look the same height. One is much farther away than the other. What can you say about them?",
      "opts": [
       "They are the same height",
       "The farther one is really taller",
@@ -1494,7 +1494,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nila stands 10 steps from a lamp post. She walks back until the post looks half as tall. About how far is she now?",
+     "p": "You stand 10 steps from a lamp post. You walk back until the post looks half as tall. About how many steps from the post are you now?",
      "opts": [
       "5 steps",
       "20 steps",
@@ -1671,7 +1671,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi counted 5 steps to the window and 9 steps to the door. Which is farther from her?",
+   "p": "You count 5 steps to the window and 9 steps to the door. Which is farther from you?",
    "opts": [
     "The window",
     "The door",
@@ -1683,14 +1683,14 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi looks at a bottle from 2 steps, then from 4 steps. How does it look from 4 steps?",
+   "p": "You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?",
    "opts": [
     "Smaller",
     "Bigger",
     "Just the same"
    ],
    "a": 0,
-   "why": "From farther away, the bottle takes up less of what she sees, so it looks smaller. The bottle itself does not change.",
+   "why": "From farther away, the bottle takes up less of what you see, so it looks smaller. The bottle itself does not change.",
    "outcome": 2,
    "how": "e1"
   },
@@ -1865,7 +1865,7 @@
  ],
  "maths": [
   {
-   "problem": "In Step It Out, Lakshmi estimated 10 steps to the kitchen. When she walked and counted, it was 7 steps. Was her estimate too big or too small, and by how many steps?",
+   "problem": "In Step It Out, you estimate 10 steps to the kitchen. When you walk and count, it is 7 steps. Was the estimate too big or too small, and by how many steps?",
    "answer": "Too big, by 3 steps.",
    "explain": "10 is more than 7, so the estimate was too big. 10 take away 7 is 3.",
    "math_unit": "math.number-sense.estimation.L2",
@@ -1874,7 +1874,7 @@
    "why_maths": "Comparing an estimate with a count shows how good our guesses about distance are, and helps us guess better next time."
   },
   {
-   "problem": "In the bottle strip test, Ananya's strip from 1 step was 12 centimetres long. Her strip from 2 steps was 6 centimetres. She folds the 12 centimetre strip in half. How long is each half? What does that show?",
+   "problem": "In the bottle strip test, the strip from 1 step is 12 centimetres long. The strip from 2 steps is 6 centimetres long. Fold the 12 centimetre strip in half. How long is each half? What does that show?",
    "answer": "Each half is 6 centimetres. That shows the bottle looked half as tall from twice as far away.",
    "explain": "Half of 12 is 6. The folded half is as long as the 2-step strip, so from 2 steps the bottle looked half as tall.",
    "math_unit": "math.fractions.halves-and-quarters.L2",
@@ -1883,7 +1883,7 @@
    "why_maths": "Folding in half lets you check 'half as tall' with your own hands, without a ruler."
   },
   {
-   "problem": "Ananya's strips were 12 centimetres from 1 step, 6 centimetres from 2 steps and 3 centimetres from 4 steps. Spot the pattern. About how long would her strip be from 8 steps?",
+   "problem": "In the bottle strip test, the strips were 12 centimetres from 1 step, 6 centimetres from 2 steps and 3 centimetres from 4 steps. Spot the pattern. About how long would the strip be from 8 steps?",
    "answer": "About 1 and a half centimetres.",
    "explain": "Each time the steps double, the strip is half as long: 12, 6, 3. Half of 3 is 1 and a half.",
    "math_unit": "math.patterns.number-patterns.L2",
@@ -1892,7 +1892,7 @@
    "why_maths": "A pattern lets you predict a result you have not measured, then test it."
   },
   {
-   "problem": "On Revathi's room map, the bed is 2 squares from the door, and the cupboard is 5 squares from the door. Which is nearer the door, and by how many squares?",
+   "problem": "On a room map, the bed is 2 squares from the door, and the cupboard is 5 squares from the door. Which is nearer the door, and by how many squares?",
    "answer": "The bed, by 3 squares.",
    "explain": "2 is less than 5, so the bed is nearer. 5 take away 2 is 3.",
    "math_unit": "math.position.directions-and-grids.L2",
@@ -2022,8 +2022,8 @@
  "roots": {
   "context": "We have hunted for spaces, counted steps, measured a bottle from near and far, and looked into a tunnel of mirrors. Now we ask what space tells us about the world, and about ourselves.",
   "deep_truth": {
-   "truth": "Your bottle stayed the same size all through the test. Yet from twice as far away, it looked about half as tall. Only the space between you and the bottle had changed. So you cannot tell how big a thing is just by looking, unless you know how far away it is.",
-   "habit": "We take how big a thing looks to be how big it is. The bottle test shows that the size we see depends on the space between us and the thing. That is how the Sun, about 400 times wider than the Moon, can look the same size.",
+   "truth": "In the Bottle Strip Test, the bottle stayed the same size the whole time. Yet from twice as far away, it looked about half as tall. Only the space between you and the bottle had changed. So you cannot tell how big a thing is just by looking, unless you know how far away it is.",
+   "habit": "We usually think a thing is as big as it looks. The Bottle Strip Test shows that the size we see depends on the space between us and the thing. That is how the Sun, about 400 times wider than the Moon, can look the same size.",
    "evidence": "In the bottle strip test, the 2-step strip was about half the 1-step strip, and the bottle never moved or changed."
   },
   "three": {
@@ -2031,7 +2031,7 @@
    "what_is_life": "Living beings need space: room for a seed's roots to spread, for a bird on a wire, for a child to run. A plant in a crowded pot grows poorly.",
    "what_is_this_world": "The world is things with space between them, from the gap under your bed to the huge distances between the stars. Nobody knows yet whether that space ever ends."
   },
-  "thread": "Space is what lets things be apart, so that there can be near and far. The bottle looked small only because of the space between you and it. Everything is conscious, the bottle and the stars too, each meeting the world in their own way. Many scientists disagree, and say only living beings with brains are aware.",
+  "thread": "Space is what lets things be apart, so that there can be near and far. In the Bottle Strip Test, the bottle looked small from far away only because of the space between you and the bottle. Everything is conscious, the bottle and the stars too, each meeting the world in their own way. Many scientists disagree, and say only living beings with brains are aware.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 11",
@@ -2041,7 +2041,7 @@
    {
     "source": "Jain thought, the Tattvartha Sutra, chapter 5",
     "teaching": "Jain thinkers taught that space, called akasha, gives room to everything. They said the part of space where things live has an edge, and that beyond it lies empty space that goes on without end.",
-    "link": "Jain thinkers asked the same question as the mirror tunnel: does space go on for ever? Their answer was that the world has an edge, but space itself does not."
+    "link": "Jain thinkers asked the question you asked at the Mirror Tunnel: does space go on for ever? Their answer was that the world has an edge, but space itself does not."
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",

@@ -134,7 +134,7 @@
   {
    "concept": "Seconds, minutes, hours, days, months and years",
    "status": "defined",
-   "definition": "A day is one spin of the Earth. A year is one trip of the Earth round the Sun. A month is about one round of the Moon's shapes. Seconds, minutes, hours and weeks are pieces people chose.",
+   "definition": "A day is one spin of the Earth. A year is one trip of the Earth round the Sun. A month is about one round of the Moon's shapes. Seconds, minutes, hours and weeks are pieces of time that people chose.",
    "context": "This card is about where our units of time come from.",
    "description": "Some units of time come from the sky. The Earth spins once in a day. The Moon goes from full moon to the next full moon in about 29 and a half days, which is about a month. The Earth goes round the Sun in about 365 and a quarter days, which is a year. People chose the 7-day week, the 24 hours in a day and the 60 minutes in an hour. Long ago in India, a day had 60 nazhigai, and one nazhigai was 24 minutes.",
    "examples": [
@@ -189,7 +189,7 @@
    "concept": "Who else keeps time?",
    "status": "idea",
    "context": "This card is about the clocks inside living beings.",
-   "description": "You are not the only one who keeps time. Bean plants lift their leaves before the morning comes. Crows fly home to their trees at dusk. Even tiny bacteria keep a daily clock. Living beings sense the day, remember its rhythm and get ready for what comes next. Some scientists call these body clocks and describe how they work as chemistry.",
+   "description": "You are not the only one who keeps time. Bean plants lift their leaves before the morning comes. Crows fly home to their trees at dusk. Even tiny bacteria keep a daily clock. Living beings sense the day, remember its rhythm and get ready for what comes next. Some scientists call this a body clock, and explain how it works with chemistry.",
    "examples": [
     "You feel sleepy at about the same time each night.",
     "A rooster starts crowing just before dawn.",
@@ -206,7 +206,7 @@
   },
   {
    "text": "Every clock works by counting something that changes steadily.",
-   "evidence": "Sand timers, water clocks, pendulum clocks, quartz watches and atomic clocks all do this. A clock is only as good as its steady change."
+   "evidence": "Sand timers, water clocks, pendulum clocks, quartz watches and atomic clocks all do this. The steadier the change, the better the clock."
   },
   {
    "text": "Atomic clocks are the most exact clocks people have made. Since 1967, one second has been measured with them.",
@@ -247,7 +247,7 @@
   {
    "q": "If everything in the world stopped changing, even your heartbeat, would time still pass?",
    "kind": "deep",
-   "hint": "Think about how you knew that time passed in the salt timer. What would you have to watch if nothing changed?"
+   "hint": "In the salt timer, you knew time had passed because the salt ran out. What could you watch if nothing changed?"
   },
   {
    "q": "Your salt timer and the Earth both count time. Is one of them the real time?",
@@ -262,7 +262,7 @@
   {
    "q": "Did time have a beginning?",
    "kind": "big",
-   "hint": "Scientists say the universe began about 13.8 billion years ago. Ask what came before, and whether 'before' makes sense then."
+   "hint": "Scientists say the universe began about 13.8 billion years ago. Ask what came before that. Does the word 'before' even make sense there?"
   },
   {
    "q": "A minute of waiting feels long, and a minute of play feels short. Which one is the true minute?",
@@ -297,7 +297,7 @@
    "'Because people have more than one way of counting days,' said Paati. 'The Sun counts one way and the Moon another. But the day is the same day.'",
    "The next evening, Kavya showed Arjun how to make the cone himself. 'Always one full spoon,' she told him. 'Then it is fair.' Arjun filled it carefully, right to the brim of the spoon."
   ],
-  "epiphany": "Kavya sees that the salt cone is a clock only because the salt runs out at a steady speed. A clock does not hold time inside it. People find time by counting a steady change, whether it is salt, wheels or days.",
+  "epiphany": "Kavya sees that the salt cone is a clock only because the salt runs out at a steady speed. A clock does not hold time inside it. People find time by counting a steady change, such as salt running, clock hands going round, or days passing.",
   "ask": [
    "Why did Kavya and Arjun quarrel over the torch?",
    "How did Paati make a clock from things in the kitchen?",
@@ -380,7 +380,7 @@
     "Turn the card over. If your answer matches the back, keep the card.",
     "If it does not match, put the card to one side. Read the back aloud together so everyone learns it.",
     "The moon card is special. Saying 'both', or saying one of them and giving the reason 'they take turns', wins the card.",
-    "When the pile is gone, the player with the most cards wins. With two players, each count your cards. If you have the same number, you both win."
+    "When the pile is gone, everyone counts their cards. The player with the most cards wins. If two players have the same number, they both win."
    ],
    "setup": [
     {
@@ -433,7 +433,7 @@
        ]
       }
      ],
-     "parent": "This card shows things that come round in a cycle. In a cycle, nothing is first for good. This links to the 'line or wheel' idea."
+     "parent": "This card shows things that come round in a cycle. In a cycle, nothing is first for good. This links to the explanation 'A line or a wheel?'"
     },
     {
      "id": "s4",
@@ -719,7 +719,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason before the first try. Write the guesses in the table.",
      "say": "How many seconds will one spoon of salt take to run out? Will it be the same every time? Why do you think so?",
-     "kid": "Guess: how many seconds for one spoon? Same every time? Why?",
+     "kid": "Guess how many seconds one spoon of salt will take to run out. Will it be the same every time? Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -743,7 +743,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Do the same with one spoon two more times. Write each time.",
+     "do": "Do the same with one spoon two more times. Write down the time for each try.",
      "say": "Let's try one spoon again. Was it the same as last time?",
      "kid": "Do it two more times. Are the times close?",
      "parent": "The times usually come within a second or two of each other. If one try is very different, ask what went wrong. Perhaps the spoon was heaped, or salt stuck to the side."
@@ -887,7 +887,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason. Write the guesses in the table.",
      "say": "Will everyone put the cards from left to right? Will anyone go another way? Why do you think so?",
-     "kid": "Guess: which way will each person go? Why?",
+     "kid": "Guess which way each person will lay the cards. Why?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -904,7 +904,7 @@
      "mins": 8,
      "do": "1. Give each person the mixed cards. 2. Say only: 'Put these in order, from first to last.' 3. Watch where they put the first card and the last card. 4. Ask which languages they read.",
      "say": "Please put these in order, from first to last.",
-     "kid": "Say: put these in order, from first to last. Watch which way they go.",
+     "kid": "Say to each person: 'Put these in order, from first to last.' Watch which way they lay the cards.",
      "parent": "Never say left or right. On a video call, ask the person to hold their row up to the camera. Note that the picture on a phone camera may be flipped, so ask them to point to the first card."
     },
     {
@@ -992,7 +992,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the ice cube again. Then look at the baby photo together.",
+     "do": "Look at the ice cube again. Then look at a photo of your child as a baby together.",
      "say": "What happened to the ice cube? And look at you as a baby. What has changed?",
      "kid": "Look at the ice cube now. Look at your baby photo. What changed?",
      "parent": "A small ice cube on a steel plate in a warm flat is mostly melted in about 8 to 10 minutes. If it is still a big lump, say it has changed a little, and look again later."
@@ -1050,7 +1050,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "Your child draws four things from this morning, one in each box.",
+     "do": "Your child draws four boxes on a sheet of paper, then draws one thing from this morning in each box.",
      "say": "Draw four things you did this morning, in the order you did them.",
      "kid": "Draw four things you did this morning, in order."
     },
@@ -1064,7 +1064,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask which pairs can swap and which cannot.",
+     "do": "Ask which two pictures can swap places and which two cannot.",
      "say": "Could you swap any two pictures and still have a true morning? Which two can never swap?",
      "kid": "Which two pictures can swap? Which two never can?",
      "ask": [
@@ -1494,7 +1494,7 @@
    "channel": "Kids Station",
    "youtube": "S6FrzrWksWA",
    "mins": 1,
-   "why": "Shows sand running through an hourglass, so a child sees a steady fall of sand count out time.",
+   "why": "Shows sand running through an hourglass, so a child sees how a steady fall of sand counts time.",
    "check": "Found by search: \"Exploring the Hourglass: A Children's Guide with Braino | شرح الساعة الرملية\" by Kids Station, 1 min. A parent may preview it."
   },
   {
@@ -1667,7 +1667,7 @@
     },
     {
      "t": "write",
-     "p": "Say it out loud, and a grown-up writes it: did one spoon of salt take the same time every try? Which numbers show it?",
+     "p": "In the Salt Timer experiment, did one spoon of salt take the same time every try? Which numbers show it? Say your answer aloud, and a grown-up writes it down.",
      "lines": 2,
      "a": "For example: 'Almost. It took 18, 19 and 18 seconds. The times were very close.'",
      "why": "A strong answer gives the real numbers from the table as evidence.",
@@ -1712,7 +1712,7 @@
     },
     {
      "t": "perspective",
-     "p": "Meera, a girl of 7 in Kochi, and her friend Farhana, a girl of 8 in Hyderabad, are talking about clocks.",
+     "p": "Two girls, Meera and Farhana, are talking about clocks.",
      "views": [
       {
        "who": "Meera",
@@ -1725,7 +1725,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Farhana, because my salt took 18 seconds every time.' Then it is fair to Meera: a wall clock is easier to read, and it can count a whole day.",
+     "a": "A strong answer picks a side with a reason, for example: 'Farhana, because my salt took 18 seconds every time.' Then it says what Meera has right: a wall clock is easier to read, and it can count a whole day.",
      "why": "Both girls see something true. A clock needs a steady change, which the salt has. Numbers and hands make a clock easier to read, but they are not what makes it a clock."
     },
     {
@@ -1836,7 +1836,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi, a girl of 8 in Mysuru, and Ketki, a girl of 8 in Pune, are arguing about time.",
+     "p": "Two girls, Lakshmi and Ketki, are arguing about time.",
      "views": [
       {
        "who": "Lakshmi",
@@ -1849,7 +1849,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Ketki, because Pongal comes every year.' Then it is fair to Lakshmi: I will never be 5 again.",
+     "a": "A strong answer picks a side with a reason, for example: 'Ketki, because Pongal comes every year.' Then it says what Lakshmi has right: I will never be 5 again.",
      "why": "Both views are old and both see something true. Days and seasons come round, but some changes never go back."
     },
     {
@@ -1926,7 +1926,7 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Rekha, a woman who teaches science in Chennai, and Mou, a girl of 9 in Kolkata, disagree.",
+     "p": "Rekha, a science teacher, and Mou, a girl of 9, disagree about time.",
      "views": [
       {
        "who": "Rekha",
@@ -1939,7 +1939,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it is fair to Rekha: all clocks keep together, as if they all follow one time.",
+     "a": "A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it says what Rekha has right: all clocks keep together, as if they all follow one time.",
      "why": "This is a real argument. Isaac Newton thought like Rekha. Aristotle and Nagarjuna thought more like Mou. Nobody has settled it."
     },
     {
@@ -2042,7 +2042,7 @@
  ],
  "applications": [
   "Trains and buses across India run on timetables, which only work because every station's clock shows the same Indian Standard Time.",
-  "Phones and maps find where you are by comparing signals from satellites, using very exact clocks on board.",
+  "Phones and maps find where you are by comparing signals from satellites, which carry very exact clocks.",
   "Doctors and nurses time medicines, heartbeats and breaths.",
   "Cooks time rice, eggs and sweets, with a clock or by counting pressure cooker whistles.",
   "Farmers plan sowing and harvest by the calendar and the coming of the monsoon."
@@ -2128,16 +2128,16 @@
    "why_maths": "Counting on in equal steps lets us predict a long time from one short test."
   },
   {
-   "problem": "Kavya, a girl in Class 2, makes a salt timer that takes 30 seconds. Her friend Arjun, a boy in Class 2, makes one that takes 20 seconds, with the same salt. Arjun says his timer is broken. Is he right?",
-   "answer": "No. Both timers can be steady. Arjun's cone probably has a bigger hole, so his salt runs out 10 seconds sooner.",
-   "explain": "30 take away 20 is 10, so Arjun's is 10 seconds quicker. A timer is not broken if it is quick. It is good if it takes the same time every try.",
+   "problem": "One salt timer takes 30 seconds to run out. A second timer, made with the same salt, takes 20 seconds. Is the second timer broken?",
+   "answer": "No. Both timers can be steady. The second cone probably has a bigger hole, so its salt runs out 10 seconds sooner.",
+   "explain": "30 take away 20 is 10, so the second timer is 10 seconds quicker. A timer is not broken if it is quick. It is good if it takes the same time every try.",
    "math_unit": "math.time.telling-time.L2",
    "how": "e1",
    "context": "This is about two salt timers made from paper cones.",
    "why_maths": "Taking away shows how much quicker one timer is, and comparing tries shows whether each one is steady."
   },
   {
-   "problem": "Divya, a girl in Class 2, has a birthday on the 20th of the month. Today is the 13th. How many loops does her paper chain need?",
+   "problem": "A birthday is on the 20th of the month. Today is the 13th. A paper chain has one loop for each day until the birthday. How many loops does it need?",
    "answer": "7 loops.",
    "explain": "Count on from 13: 14, 15, 16, 17, 18, 19, 20. That is 7 days, so 7 loops. It is exactly one week.",
    "math_unit": "math.time.calendar.L2",
@@ -2146,7 +2146,7 @@
    "why_maths": "Counting on along the calendar tells us how many days we must wait."
   },
   {
-   "problem": "Pongal is 3 weeks away. Meena, a girl in Class 2, wants one loop for each day. How many loops does she need?",
+   "problem": "Pongal is 3 weeks away. A paper chain has one loop for each day until Pongal. How many loops does it need?",
    "answer": "21 loops.",
    "explain": "One week is 7 days. 3 weeks is 7 and 7 and 7. 7 and 7 make 14, and 14 and 7 make 21.",
    "math_unit": "math.time.calendar.L2",
@@ -2221,7 +2221,7 @@
    "a": "A month."
   },
   {
-   "q": "Why did two spoons of salt take about twice as long as one?",
+   "q": "In the salt timer, why did two spoons of salt take about twice as long to run out as one?",
    "a": "The salt runs out at a steady speed."
   }
  ],
@@ -2296,7 +2296,7 @@
  "roots": {
   "context": "We have made a clock from salt, put events in order, and read calendars that count the same day in different ways. Now we ask what time tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Two spoons of salt took about twice as long to run out as one. The salt ran at a steady speed, so its amount showed how long had passed. Every clock works this way, by counting a steady change. Nobody has ever measured time without watching something change.",
+   "truth": "In the Salt Timer experiment, two spoons of salt took about twice as long to run out of the paper cone as one. The salt ran at a steady speed, so the amount of salt that had run out showed how much time had passed. Every clock works this way, by counting a steady change. Nobody has ever measured time without watching something change.",
    "habit": "We talk about time as if it were a thing flowing by on its own, and a clock as a box that holds it. But every clock we can find counts a change: salt running, a quartz crystal shaking, the Earth spinning.",
    "evidence": "In the salt-timer test, each spoonful took about the same time, and two spoonfuls took about twice as long. The cone showed time only while the salt was running. When it stopped, the timer showed nothing more."
   },
@@ -2305,7 +2305,7 @@
    "what_is_life": "Living beings keep time too. You get hungry at lunchtime, crows fly home at dusk, and bean plants lift their leaves before the morning.",
    "what_is_this_world": "The world is always changing, and some of its changes are very steady: the Earth spins, the Moon goes round, the seasons return. People count these steady changes and call it time."
   },
-  "thread": "Time shows up only through change. Salt falls, the Earth turns, a child grows. The same steady change can be counted by a cone of salt, a clock, a calendar or a living body. Bean plants and crows sense the day's rhythm, remember that rhythm and get ready for what comes next, just as you feel sleepy at bedtime. Some scientists call these automatic body clocks. Every one of these clocks, of salt or of living cells, is a different way of keeping count of the same changing world.",
+  "thread": "Time shows up only through change. Salt falls, the Earth turns, a child grows. A cone of salt, a clock, a calendar and a living body each keep count of a steady change. Bean plants and crows sense the day's rhythm, remember it and get ready for what comes next, just as you feel sleepy at bedtime. Some scientists call this an automatic body clock. Every one of these clocks, of salt or of living cells, is a different way of keeping count of the same changing world.",
   "teachings": [
    {
     "source": "Augustine of Hippo, Confessions, Book 11, chapter 14",
@@ -2335,12 +2335,12 @@
   ],
   "other_view": {
    "who": "Isaac Newton, the English scientist",
-   "view": "In 1687 Newton wrote that true time flows evenly by itself, whether anything changes or not. On his view, clocks do not make time by changing. They only try to keep up with a time that would go on even in an empty, still world. Many people today still picture time this way."
+   "view": "In 1687 Newton wrote that true time flows evenly by itself, whether anything changes or not. In his view, clocks do not make time by changing. They only try to keep up with a time that would go on even in an empty, still world. Many people today still picture time this way."
   },
   "practice": {
    "title": "Listen to time passing",
    "mins": 3,
-   "say": "Sit still and close your eyes. Listen to every sound you can hear. Notice when a sound starts and when it stops. Maybe a fan, a bird, a horn or a cooker. I will say 'stop' after a while. Then guess how long it was, and tell me how you knew time was passing.",
+   "say": "Sit still and close your eyes. Listen to every sound you can hear. It may be a fan, a bird, a horn or a cooker. Notice when each sound starts and when it stops. I will say 'stop' after a while. Then guess how long it was, and tell me how you knew time was passing.",
    "kid": "Sit still. Close your eyes. Listen to each sound start and stop. When you open your eyes, guess how long it was."
   },
   "ask": [

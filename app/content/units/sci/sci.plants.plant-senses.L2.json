@@ -1,6 +1,6 @@
 {
  "id": "sci.plants.plant-senses.L2",
- "title": "How plants sense light, gravity and touch, and move in answer",
+ "title": "How plants sense light, gravity and touch, and respond",
  "level": 2,
  "summary": {
   "text": "Put a cup of young moong shoots by a window, and by the next morning they all lean towards the glass. Nobody pushed them. Plants sense the world around them and respond to it, mostly by growing. A shoot grows towards the light. A root grows down, even when the seed is lying the wrong way up. A touch-me-not folds their leaves a second after you touch them. In this unit you test all three, and find out how a plant can move with no muscles.",
@@ -145,7 +145,7 @@
    "concept": "Do plants feel and remember?",
    "status": "debated",
    "context": "This card is about a question scientists still argue about.",
-   "description": "Some scientists say plants feel, remember and decide. They point out that a root decides which way to grow, and that in one experiment touch-me-not plants stopped folding for a harmless drop and were still not folding weeks later. J.C. Bose, a scientist in Kolkata, measured electrical signals running through touch-me-not plants over 100 years ago. Many other scientists call these responses automatic. They say that sensing something is not the same as feeling it. Nobody knows for sure what being a plant is like.",
+   "description": "Some scientists say plants feel, remember and decide. They point out that a root decides which way to grow. They also point to one experiment, where touch-me-not plants were dropped gently again and again with no harm. The plants stopped folding, and were still not folding weeks later. J.C. Bose, a scientist in Kolkata, measured electrical signals running through touch-me-not plants over 100 years ago. Many other scientists call these responses automatic. They say that sensing something is not the same as feeling it. Nobody knows for sure what being a plant is like.",
    "examples": [
     "J.C. Bose recorded a small electrical signal each time a touch-me-not was touched.",
     "A root grows round a stone and finds the way down again.",
@@ -220,7 +220,7 @@
   {
    "q": "A moong shoot has no eyes. How does the shoot know where the window is?",
    "kind": "deep",
-   "hint": "Think about which part of the seedlings Darwin covered."
+   "hint": "Charles Darwin covered the tips of grass seedlings, and the seedlings did not bend towards the light. Think about what that tells you."
   },
   {
    "q": "If you grew moong seeds in space, where nothing falls down, which way would the roots grow?",
@@ -228,7 +228,7 @@
    "hint": "Think about what tells a root which way is down."
   },
   {
-   "q": "A touch-me-not stopped folding for a harmless drop. Is remembering only for animals with brains?",
+   "q": "In one experiment, touch-me-not plants were dropped gently again and again, with no harm. After a few drops, many stopped folding. Is remembering only for animals with brains?",
    "kind": "big",
    "hint": "Think about what the plant did differently after the first few drops."
   },
@@ -275,7 +275,7 @@
    "Siddharth bent down and looked at one wiggly shoot. \"So this low bend is from yesterday,\" he said slowly. \"And the top bend is from today.\"",
    "\"Yes,\" said Nila. \"The shoot keeps a record of where the light was.\"",
    "\"Can any plant move fast?\" asked Siddharth.",
-   "Ammamma smiled. \"When I was a girl in Palakkad, we had a plant called thottavadi near our well. Here in Chennai people call it thottal chinungi. Touch the leaves, and they fold up shut.\"",
+   "Ammamma smiled. \"When I was a girl in Palakkad, we had a plant called thottavadi near our well. Here in Chennai people call the same plant thottal chinungi. Touch the leaves, and they fold up shut.\"",
    "\"Like a door?\" asked Siddharth.",
    "\"Like a door,\" said Ammamma. \"There is one growing on the empty plot near the bus stop.\"",
    "After breakfast, the three of them walked down to the plot. Low among the grass grew a small plant with feathery leaves and fluffy pink flowers.",
@@ -310,7 +310,7 @@
    "context": "In this experiment you grow moong shoots in the dark, so they stand straight. Then you put them by a window and count which way they lean. Then you turn the cup round, and find out what the shoots do next.",
    "question": "Which way do moong shoots grow when light comes from one side? If we turn the cup round, will they stay as they are, or turn back?",
    "predict": "Your straight shoots will stand by a window for a day. Which way do you think they will lean? Then we turn the cup round. What will they do then? Why do you think so?",
-   "fair_test": "We use one cup of shoots, with the same soil and the same water all through. The only thing we change is which side of the cup faces the window. A bindi marks the side that faced the glass first, so we always know how the cup was turned. We count every shoot, not just one, because one shoot on their own could be a fluke.",
+   "fair_test": "We use one cup of shoots, with the same soil and the same water all through. The only thing we change is which side of the cup faces the window. A bindi marks the side that faced the glass first, so we always know how the cup was turned. We count every shoot, not just one, because one shoot on their own could lean by chance.",
    "results_table": [
     "When",
     "Leaning to the window",
@@ -494,7 +494,7 @@
      "parent": "Usually most shoots lean clearly towards the glass by morning, and many have turned green. If they are still straight, the window light may be weak. Move the cup closer to the glass and wait half a day more. Write down the second guess too.",
      "check": {
       "t": "mcq",
-      "q": "After one day by the window, most of the moong shoots leaned towards the glass. What did they lean towards?",
+      "q": "After one day by the window, most of the moong shoots leaned towards the glass. What were they growing towards?",
       "options": [
        "The light coming in",
        "The wall of the room",
@@ -527,7 +527,7 @@
        ]
       }
      ],
-     "parent": "Most shoots turn their tips back to the window within a day. Often the bottom of each stem still leans the old way, and the top curves back, like the letter S. The low bend has stopped growing, so it stays. Only the growing part near the top can bend again. Now read the explanation card on how a shoot bends.",
+     "parent": "Most shoots turn their tips back to the window within a day. Often the bottom of each stem still leans the old way, and the top curves back, like the letter S. The low bend has stopped growing, so it stays. Only the growing part near the top can bend again. Now read the card 'A shoot grows towards the light'.",
      "check": {
       "t": "mcq",
       "q": "We turned the cup round, and by the next day the shoots pointed at the window again. What does this show?",
@@ -624,7 +624,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Two days before, soak a spoonful of moong overnight. 2. Next morning, drain them and wrap them in a wet cloth.",
+     "do": "1. Two days before you set up the root box, soak a spoonful of moong overnight. 2. Next morning, drain them and wrap them in a wet cloth.",
      "say": "We are sprouting moong, the way we do for sundal or a salad. This time we need the little roots.",
      "kid": "Soak the moong overnight. Then wrap them in a wet cloth.",
      "parent": "In a warm room, roots are 1 to 2 cm long after about a day in the cloth. Many families already sprout moong this way, so you may have some ready.",
@@ -664,14 +664,14 @@
      "kid": "Look at each root tip. Which way does it point now? Count how many point down.",
      "ask": [
       {
-       "q": "The root that pointed up: what did it do?",
+       "q": "What did the root that pointed up do?",
        "good": [
         "It curved round and grew down.",
         "It made a hook shape."
        ]
       }
      ],
-     "parent": "Usually all four tips point down by the next day. The root that pointed up makes a hook. The one that already pointed down grows straight on. Then read the card on how a root knows which way is down. For more, turn the box a quarter of the way round and look again the next day.",
+     "parent": "Usually all four tips point down by the next day. The root that pointed up makes a hook. The one that already pointed down grows straight on. Then read the card 'Roots grow down, and shoots grow up'. For more, turn the box a quarter of the way round and look again the next day.",
      "check": {
       "t": "mcq",
       "q": "A sprout lay with the root pointing up. The next day, which way did the root tip point?",
@@ -848,7 +848,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Note the time. 2. Look at the fingertip leaf every 5 minutes, without touching. 3. Write the time when the leaflets are open again.",
+     "do": "1. Note the time. 2. Look at the leaf you touched with a fingertip every 5 minutes, without touching. 3. Write the time when the leaflets are open again.",
      "say": "Let's not touch them now. When do you think they will open again?",
      "kid": "Don't touch. Look every 5 minutes. When are they open again?",
      "parent": "Leaflets usually open again after about 10 to 20 minutes, sometimes longer. A plant in a cool or dim place may take more time.",
@@ -922,7 +922,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Find out which wall faces east, where the Sun rises. Use a phone compass, or ask where the morning Sun comes in. 2. Stick E on that wall and W on the opposite wall.",
+     "do": "1. Find out which wall faces east, where the Sun rises. Use a phone compass, or ask where the morning Sun comes in. 2. Write E on a paper and stick it on that wall. Write W on another paper and stick it on the opposite wall.",
      "say": "The Sun rises in the east and sets in the west. Let's find our east wall.",
      "kid": "Find the wall where the Sun comes up. Put E on it. Put W on the other side."
     },
@@ -1005,7 +1005,7 @@
        "q": "How did you know where the floor was?",
        "good": [
         "I could feel it in my head.",
-        "I felt the bed under me."
+        "I felt the mat under me."
        ]
       }
      ]
@@ -1013,7 +1013,7 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Tell your child about the tiny crystals in our ears, and link them to the root box.",
+     "do": "Tell your child about the tiny crystals in our ears, and say how they are like the heavy grains in a root tip.",
      "say": "Deep inside each ear are tiny crystals. When you tilt your head, they press on tiny hairs, and your brain knows which way is down. A root tip has tiny heavy grains that sink to the bottom of each cell. Both of you sense gravity.",
      "kid": "Your ears have tiny crystals. They help you know which way is down. A root tip has tiny heavy grains that do the same.",
      "parent": "The crystals sit in a small part of the inner ear. The grains in a root tip are made of starch. Both sense the pull of gravity."
@@ -1132,7 +1132,7 @@
       },
       {
        "f": "You are lying on your side.",
-       "b": "Slowly curve your feet, your roots, round to point at the floor."
+       "b": "Your feet are your roots. Slowly curve them round to point at the floor."
       },
       {
        "f": "A finger touches your leaf.",
@@ -1143,7 +1143,7 @@
        "b": "Touch-me-not: fold your arms and keep still."
       },
       {
-       "f": "Morning, and nobody has touched you for a while.",
+       "f": "It is morning, and nobody has touched you for a while.",
        "b": "Open your arms slowly."
       },
       {
@@ -1314,7 +1314,7 @@
     "Use only things from home: paper, card, foil, a steel plate, a box, tape."
    ],
    "materials": [
-    "a cup of young moong shoots, grown in the dark as in the window test (start at least 5 days ahead), and a second cup to leave with no help, if you have grown two",
+    "a cup of young moong shoots, grown in the dark as in the window test (start at least 5 days ahead). If you have grown two cups, keep the second one to leave with no help",
     "white paper or card",
     "kitchen foil, if you have some",
     "a steel plate",
@@ -1365,7 +1365,7 @@
      "do": "1. Your child builds their idea. 2. A grown-up helps with any cutting. 3. Keep one cup with no help, if you have enough shoots, to compare.",
      "say": "Build your idea. If we have two cups, we leave one with no help, so we can compare.",
      "kid": "Build your idea. Ask a grown-up to help you cut.",
-     "parent": "A box with a hole in the top usually works best, because the light then comes from above. A shiny card behind the cup usually makes the lean smaller, but not gone.",
+     "parent": "A box with a hole in the top usually works best, because the light then comes from above. A shiny card behind the cup usually makes the shoots lean less, but they still lean a little.",
      "wait": "Leave both cups until tomorrow"
     },
     {
@@ -1434,7 +1434,7 @@
        "the shoot bends towards it"
       ],
       [
-       "A sprout lying on its side",
+       "A sprout lying on their side",
        "the root turns down"
       ],
       [
@@ -1459,7 +1459,7 @@
     },
     {
      "t": "write",
-     "p": "Say out loud, and a grown-up writes it down: we turned the cup round. Why did the shoots bend back towards the window?",
+     "p": "In the window test, we turned the cup round. Why did the shoots bend back towards the window? Say your answer out loud, and a grown-up writes it down.",
      "lines": 2,
      "a": "Because they sensed the light on the window side and grew towards it again.",
      "why": "A strong answer says the shoots sensed where the light was and turned themselves by growing. Nobody moved them.",
@@ -1480,7 +1480,7 @@
     },
     {
      "t": "perspective",
-     "p": "Farhan, a boy in Class 2, and his sister Reshma, in Class 3, look at the leaning moong shoots.",
+     "p": "Farhan and his sister Reshma look at the leaning moong shoots in the window test.",
      "views": [
       {
        "who": "Farhan",
@@ -1491,7 +1491,7 @@
        "says": "The shoots grew towards the light by themselves."
       }
      ],
-     "ask": "Who do you agree with? Give one reason from your own test. Then say one thing the other person noticed that is true.",
+     "ask": "Who do you agree with? Give one reason from your own window test. Then say one thing the other person noticed that is true.",
      "lines": 3,
      "a": "A strong answer picks a side with a reason from the test, such as 'when we turned the cup, they turned back by themselves', and says Farhan was right that the shoots end up pointing at the window.",
      "why": "Light does not pull. But Farhan noticed something real: the shoots do end up pointing at the window. Reshma's view explains why.",
@@ -1556,7 +1556,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi, a girl in Madurai, lays a sprout with the root pointing sideways, to the left. Where will the root tip point the next day?",
+     "p": "In the root box, a sprout is laid with the root pointing sideways, to the left. Where will the root tip point the next day?",
      "opts": [
       "Still to the left",
       "Curved round, pointing down",
@@ -1622,7 +1622,7 @@
     },
     {
      "t": "count",
-     "p": "Tara, a girl in Kolkata, touched one touch-me-not leaf and 12 pairs of leaflets folded. On another leaf, 9 pairs folded. How many pairs folded in all?",
+     "p": "You touch one touch-me-not leaf, and 12 pairs of leaflets fold. On another leaf, 9 pairs fold. How many pairs folded in all?",
      "a": 21,
      "why": "12 + 9 = 21. Count on 9 from 12: 13, 14 and so on up to 21.",
      "context": "This question is about the touch-me-not tests. You touched touch-me-not leaves in different ways and counted the pairs of leaflets that folded.",
@@ -1630,7 +1630,7 @@
     },
     {
      "t": "perspective",
-     "p": "Gauri, a girl in Pune, and her cousin Arjun, a boy in Class 2, are talking about a touch-me-not.",
+     "p": "Gauri and her cousin Arjun are talking about a touch-me-not.",
      "views": [
       {
        "who": "Gauri",
@@ -1699,7 +1699,7 @@
     },
     {
      "t": "perspective",
-     "p": "Anu, a girl in Kochi, and her aunt Leela, a plant scientist, look at the root box.",
+     "p": "Anu and her aunt Leela, a plant scientist, look at the root box.",
      "views": [
       {
        "who": "Anu",
@@ -1717,7 +1717,7 @@
     },
     {
      "t": "draw",
-     "p": "Imagine you turn the root box a quarter of the way round every day for three days. Draw the shape you think one root will make.",
+     "p": "You turn the root box a quarter of the way round every day for three days. Draw the shape you think one root will make.",
      "a": "A zigzag or a curl: each day the tip bends to point down again.",
      "why": "Each time the box turns, the root tip senses the new 'down' and curves towards it, so the bends add up.",
      "context": "This question is about the root box. You laid four moong sprouts in a clear box, with their roots pointing up, down, left and right.",
@@ -1732,7 +1732,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, a girl in Hyderabad, puts a cup of moong shoots by a window. She turns the cup a little every hour, all day long. Which way will the shoots lean in the evening?",
+     "p": "A cup of moong shoots stands by a window. You turn the cup a little every hour, all day long. Which way will the shoots lean in the evening?",
      "opts": [
       "Strongly towards the window",
       "Mostly straight up",
@@ -1840,7 +1840,7 @@
     "They fall flat"
    ],
    "a": 0,
-   "why": "The shoots sense the light and grow towards it. Picking 'fall flat' may mean thinking the shoots get knocked over, but they stand up, only leaning.",
+   "why": "The shoots sense the light and grow towards it. If you picked 'they fall flat', you may have thought the shoots get knocked over. They stay standing and only lean.",
    "outcome": 1
   },
   {
@@ -1864,7 +1864,7 @@
     "Stop growing"
    ],
    "a": 1,
-   "why": "Roots grow in the direction gravity pulls. Picking 'keep growing up' means thinking a root just carries on the way it points.",
+   "why": "Roots grow in the direction gravity pulls. If you picked 'keep growing up', you may have thought a root just carries on the way it points.",
    "outcome": 2
   },
   {
@@ -1929,7 +1929,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ravi, a boy in Bhubaneswar, turned his money plant pot round, so the leaves faced the room. What will happen in a week?",
+   "p": "You turn a money plant pot round, so the leaves face the room. What will happen in a week?",
    "opts": [
     "The leaves slowly turn back to face the window",
     "The leaves fall off",
@@ -1953,7 +1953,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya, a girl in Class 2, guessed the moong shoots would lean to the window. What is the best way to check her guess?",
+   "p": "You guess that moong shoots will lean to the window. What is the best way to check your guess?",
    "opts": [
     "Put shoots by a window and look the next day",
     "Ask a friend what they think",
@@ -1972,7 +1972,7 @@
     "Nothing at all"
    ],
    "a": 0,
-   "why": "Plants sense light, which way is down, touch, water and more. Picking 'nothing at all' may mean thinking that a plant that stays still senses nothing.",
+   "why": "Plants sense light, which way is down, touch, water and more. If you picked 'nothing at all', you may have thought that a plant that stays still senses nothing.",
    "outcome": 0
   }
  ],
@@ -2071,7 +2071,7 @@
    "why_maths": "Taking the leaning shoots away from all the shoots tells us how many did not lean, so we can see if the result is clear."
   },
   {
-   "problem": "Mala, a girl in Class 2, made a tally of leaflet pairs that folded. Fingertip: |||| |||. Feather: |||. Drop of water: ||||. Gentle blow: |. Which touch folded the most? How many more pairs than the feather?",
+   "problem": "Here is a tally of the leaflet pairs that folded in the touch-me-not tests. Fingertip: |||| |||. Feather: |||. Drop of water: ||||. Gentle blow: |. Which touch folded the most? How many more pairs than the feather?",
    "answer": "The fingertip folded the most: 8 pairs. That is 5 more than the feather.",
    "explain": "The fingertip has 8 marks, the most. The feather has 3. 8 take away 3 is 5.",
    "math_unit": "math.data.sorting-and-tallies.L2",
@@ -2089,7 +2089,7 @@
    "why_maths": "Adding on each day's growth lets us predict how long the root will be before we look."
   },
   {
-   "problem": "In the turn-the-pot project, Keerthi, a girl in Class 2, counted the leaves facing the window: 2 on day 1, 5 on day 3, 8 on day 5. If the pattern goes on, how many will face the window on day 7?",
+   "problem": "In the turn-the-pot project, the leaves facing the window were counted: 2 on day 1, 5 on day 3, 8 on day 5. If the pattern goes on, how many will face the window on day 7?",
    "answer": "11 leaves.",
    "explain": "The number goes up by 3 each time: 2, 5, 8, so next is 11. A real plant may slow down once nearly all the leaves face the light.",
    "math_unit": "math.patterns.number-patterns.L2",
@@ -2255,7 +2255,7 @@
    {
     "source": "J.C. Bose, The Nervous Mechanism of Plants (1926)",
     "teaching": "Bose found that a touch on a touch-me-not starts an electrical signal that travels through the plant, like a message along a nerve.",
-    "link": "When you touched one leaflet, the folding ran along the leaf. That running fold is the signal Bose measured in Kolkata."
+    "link": "In the Touch-Me-Not Tests, when you touched one leaflet, the folding ran along the leaf. That running fold is the signal Bose measured in Kolkata."
    }
   ],
   "science": [
@@ -2279,7 +2279,7 @@
    "kid": "Sit near a window. Close your eyes. Feel where the light comes from. Turn your face to it slowly. Breathe three times. Open your eyes."
   },
   "ask": [
-   "If your shape grew from everything you sensed, what would it show?",
+   "The bends in a moong shoot show where the light was. If your shape grew from everything you sensed, what would it show?",
    "A touch-me-not senses touch, and you do too. Is a plant's touch like yours?",
    "Who decides which way the moong shoot grows: the shoot, the light, or both?"
   ],
@@ -2300,5 +2300,5 @@
   ]
  },
  "playtest": "Walked through both games card by card with 2 and with 4 players, then the window test, root box, touch-me-not tests, sunflower act-out, turn-the-pot project and challenge as a family in a flat, and the worksheets and quiz as a Class 2 child. Checked that step minutes, schedules and printed pieces agree, and that every made-up child is introduced. This pass fixed: a game card that was hard to act out lying down, a missing tape for the E and W papers, a 'hand away' typo, an open question that stated a disputed idea as fact, a repeated explanation line, an unclear root-growth sum, a lead-time note for the challenge, and pronouns for the sprout.",
- "warm": {"words": ["LIGHT", "ROOTS", "SHOOT", "TOUCH", "SEEDS"], "quiz": [["A moong shoot leans towards a window because the tip of the shoot senses the light.", true, "The tip senses light from one side, and the shady side of the stem grows longer."], ["Light pulls a shoot towards the window.", false, "Light does not pull; the plant senses it and grows longer on the shady side."], ["A root grows downwards even if the seed is lying upside down.", true, "Roots sense which way gravity pulls and grow that way, whichever way the seed lies."], ["Plants cannot move at all.", false, "Shoots bend, roots turn and leaves face the light, mostly by growing."], ["A touch-me-not folds their leaflets fast when water leaves small swellings at the base.", true, "Water moving quickly out of the swellings makes the leaflets fold, with no muscles."], ["A flowering sunflower follows the Sun across the sky all day.", false, "Once the big flower opens, most sunflowers stop turning and face east."], ["Scientists are not sure why touch-me-not plants fold their leaves.", true, "There are several ideas, more than one may be true, and nobody knows for certain."], ["If a pot is laid on its side, the roots start growing upwards.", false, "Roots bend back to grow down, the way gravity pulls."], ["Growing in a new direction is the way most plants move.", true, "Growth bends shoots and turns roots, which is slow movement."], ["A touch-me-not folds because a muscle pulls on their leaflets.", false, "Plants have no muscles; water moving out of cells makes the leaflets fold."]], "odd": [[["shoot bends to window", "root grows down", "touch-me-not folds", "stone rolls"], "stone rolls", "The first three are plants answering what they sense; a stone is not alive and senses nothing."], [["shoot bending", "root turning down", "leaf facing light", "touch-me-not folding"], "touch-me-not folding", "The first three happen slowly by growing; a touch-me-not folds in seconds as water leaves cells."], [["root", "shoot", "stem", "leaf"], "root", "Shoot, stem and leaf grow up, away from gravity; a root grows down."], [["sense light", "sense gravity", "sense touch", "have muscles"], "have muscles", "Plants sense light, gravity and touch, but plants have no muscles."], [["shoots grow to light", "roots grow down", "touch-me-not folds", "reason for folding"], "reason for folding", "The first three are agreed facts; why a touch-me-not folds is not known for certain."]]}
+ "warm": {"words": ["LIGHT", "ROOTS", "SHOOT", "TOUCH", "SEEDS"], "quiz": [["A moong shoot leans towards a window because the tip of the shoot senses the light.", true, "The tip senses light from one side, and the shady side of the stem grows longer."], ["Light pulls a shoot towards the window.", false, "Light does not pull; the plant senses it and grows longer on the shady side."], ["A root grows downwards even if the seed is lying upside down.", true, "Roots sense which way gravity pulls and grow that way, whichever way the seed lies."], ["Plants cannot move at all.", false, "Shoots bend, roots turn and leaves face the light, mostly by growing."], ["A touch-me-not folds their leaflets fast when water leaves small swellings at the base.", true, "Water moving quickly out of the swellings makes the leaflets fold, with no muscles."], ["A flowering sunflower follows the Sun across the sky all day.", false, "Once the big flower opens, most sunflowers stop turning and face east."], ["Scientists are not sure why touch-me-not plants fold their leaves.", true, "There are several ideas, more than one may be true, and nobody knows for certain."], ["If a pot is laid on its side, the roots start growing upwards.", false, "Roots bend back to grow down, the way gravity pulls."], ["Growing in a new direction is the way most plants move.", true, "Growth bends shoots and turns roots, which is slow movement."], ["A touch-me-not folds because a muscle pulls on their leaflets.", false, "Plants have no muscles; water moving out of cells makes the leaflets fold."]], "odd": [[["shoot bends to window", "root grows down", "touch-me-not folds", "stone rolls"], "stone rolls", "The first three are plants responding to what they sense; a stone is not alive and senses nothing."], [["shoot bending", "root turning down", "leaf facing light", "touch-me-not folding"], "touch-me-not folding", "The first three happen slowly by growing; a touch-me-not folds in seconds as water leaves cells."], [["root", "shoot", "stem", "leaf"], "root", "Shoot, stem and leaf grow up, away from gravity; a root grows down."], [["sense light", "sense gravity", "sense touch", "have muscles"], "have muscles", "Plants sense light, gravity and touch, but plants have no muscles."], [["shoots grow to light", "roots grow down", "touch-me-not folds", "reason for folding"], "reason for folding", "The first three are agreed facts; why a touch-me-not folds is not known for certain."]]}
 }
